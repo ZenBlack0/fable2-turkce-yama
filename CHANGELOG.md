@@ -1,5 +1,11 @@
 # Değişiklik günlüğü
 
+## v1.0.2
+Yalnızca kurucu: zip'ten yanlış çalıştırmaya karşı koruma ve belgeler. Çeviri metni değişmedi.
+- Kurucu zip'in içinden ya da yanında gerekli dosyalar eksik çalıştırılırsa anlaşılır Türkçe hata gösterir ("Lütfen zip'i önce bir klasöre çıkarın").
+- README ve `OKUBENI.txt`'nin başına kurulum uyarıları eklendi (zip'i önce çıkarın, `Kurulum/` dosyalarını ayırmayın, SmartScreen: Ek bilgi → Yine de çalıştır).
+- VirusTotal raporları release dosyalarının SHA-256 değerleriyle eşleşme kontrolüyle belgelere işlenir (`tools/vt_report.json`).
+
 ## v1.0.1
 Kurucu antivirüs yanlış alarmlarını azaltmak için yeniden derlendi; çeviri metni değişmedi.
 - Kurucu **Nuitka `--standalone`** (klasör çıktısı) ile derlendi (PyInstaller tek dosya yerine); VirusTotal'da exe 0/71, tüm paket 1/68 tespit. Ayrıntı: `docs/antivirus.md`.

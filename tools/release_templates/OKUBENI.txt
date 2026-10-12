@@ -21,6 +21,14 @@ kurucu yalnızca küçük "fark yamaları" uygular.
 
 2) KURULUM
 ----------
+ !! ÖNEMLİ — kurucuyu çalıştırmadan önce:
+    * Zip'i ÖNCE bir klasöre çıkarın (sağ tık → Tümünü ayıkla). Zip'in içinden
+      exe'ye çift tıklarsanız kurucu çalışmaz.
+    * Kurulum klasöründeki dosyaları silmeyin veya ayırmayın; exe yalnızca
+      klasörün içinde çalışır.
+    * Windows SmartScreen uyarı çıkarırsa: "Ek bilgi" → "Yine de çalıştır".
+      (Kurucu imzasız, açık kaynaklı bir programdır; bkz. SSS.)
+
  1. Zip'i bir klasöre çıkarın, Kurulum klasöründeki Fable2_Turkce_Kurulum.exe dosyasına
     çift tıklayın (Kurulum klasörünün içindeki diğer dosyalar yerinde kalmalıdır).
     (Windows "bilinmeyen yayıncı" derse: Ek bilgi → Yine de çalıştır. Bkz. SSS.)
@@ -68,8 +76,7 @@ S: Antivirüs / SmartScreen uyarı veriyor.
 C: Kurucu açık kaynaklıdır (@REPO_URL@), Python ile yazılmış ve Nuitka ile
    derlenmiştir; imzasız olduğu ve xdelta3.exe (fark yaması aracı) içerdiği için
    bazı yapay zekâ/makine öğrenmesi tabanlı motorlar yanlış alarm verebilir.
-   VirusTotal'da (yaklaşık 70 motor) kurucu exe'si 0 tespit aldı, tüm paket 1 tespit aldı:
-   https://www.virustotal.com/gui/file/1d540687556b720718d4509aefe9ec4abb5b96be945f908655611a25cf1234e9
+@VT_OKUBENI@
    Dosyaların özetlerini SHA256SUMS.txt ile karşılaştırabilirsiniz. Güvenmiyorsanız
    exe'siz yolu kullanın: Elle_Kurulum klasöründeki yama_uygula.bat (ISO'yu
    extract_iso ile çıkarıp bat dosyasını çalıştırın; her dosya SHA-256 ile doğrulanır).

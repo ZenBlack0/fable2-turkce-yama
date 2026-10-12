@@ -10,7 +10,7 @@ os.chdir(ROOT)
 sys.path.insert(0, os.path.join(ROOT, 'tools'))
 from make_xdelta import make_xdelta  # noqa: E402
 
-VERSION = '1.0.1'
+VERSION = '1.0.2'
 REPO_URL = 'https://github.com/ZenBlack0/fable2-turkce-yama'
 NAME = f'Fable2_Turkce_Yama_v{VERSION}'
 REL = os.path.join('release', NAME)
@@ -44,8 +44,18 @@ if not SKIP_INSTALLER:
 
 
 def fill(t):
-    return t.replace('@VERSION@', VERSION).replace('@REPO_URL@', REPO_URL)
+    return t.replace('@VERSION@', VERSION).replace('@REPO_URL@', REPO_URL).replace('@VT_OKUBENI@', VT_OKUBENI)
 
+
+# VirusTotal metni: tools/vt_report.json yalniz SHA-256 degerleri bu build ile eslesirse kullanilir (zip henuz yok -> exe icin kontrol)
+VT_OKUBENI = "   Bu sürümün dosyaları henüz VirusTotal taramasına yüklenmedi; yüklendiğinde raporlar eklenecek."
+if os.path.isfile('tools/vt_report.json') and not SKIP_INSTALLER:
+    import vt_text
+    _exe = sha('output/Fable2_Turkce_Kurulum/Fable2_Turkce_Kurulum.exe')
+    _rep = json.load(open('tools/vt_report.json', encoding='utf-8'))
+    if _rep['exe']['sha256'].lower() != _exe:
+        sys.exit("[HATA] vt_report.json exe SHA-256 degeri bu derlemeyle eslesmiyor (exe yeniden derlendi mi?). Yeni exe VirusTotal a yukleyip tools/vt_report.json u guncelleyin.")
+    VT_OKUBENI = vt_text.blocks(_rep['zip']['sha256'], _rep['zip']['sha256'])[0]   # zip hash'i zip olusunca make_github_repo'da dogrulanir
 
 for src, dst in (('OKUBENI.txt', REL), ('ELLE_KURULUM.txt', elle)):
     t = fill(open(f'tools/release_templates/{src}', encoding='utf-8').read())

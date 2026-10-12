@@ -615,10 +615,44 @@ def selftest(a):
     return 0 if ok else 1
 
 
+def check_install_dir():
+    """Kurucu zip'in icinden ya da eksik dosyalarla calistirildiysa anlasilir Turkce hata verir; sorun yoksa None doner."""
+    here = os.path.normpath(HERE).lower()
+    problem = None
+    if 'temp1_' in here or ('.zip' + os.sep) in here:
+        problem = 'Kurucu zip dosyasının içinden çalıştırılmış gibi görünüyor.'
+    else:
+        need = ['manifest.json', 'xdelta3.exe', 'xenia_settings.json']
+        miss = [n for n in need if not os.path.isfile(os.path.join(RES, n))]
+        try:
+            man = json.load(open(os.path.join(RES, 'manifest.json'), encoding='utf-8'))
+            miss += [e['delta'] for e in man['files'].values() if not os.path.isfile(os.path.join(RES, e['delta'].replace('/', os.sep)))]
+        except Exception:
+            pass
+        if miss:
+            problem = 'Kurucunun yanında gerekli dosyalar eksik (%d dosya, ör. %s).' % (len(miss), miss[0])
+    if problem:
+        return (problem + '\n\nLütfen zip\'i önce bir klasöre çıkarın (sağ tık → Tümünü ayıkla), sonra çıkan "Kurulum" klasöründeki '
+                'Fable2_Turkce_Kurulum.exe dosyasını çalıştırın.\nKurulum klasöründeki dosyaları silmeyin veya ayırmayın; '
+                'exe yalnızca klasörün içinde çalışır.')
+    return None
+
+
 def main():
     a = sys.argv[1:]
     if '--selftest' in a:
         sys.exit(selftest(a))
+    msg = check_install_dir()
+    if msg:
+        if '--cli' in a:
+            _p('[HATA]', msg)
+        else:
+            import tkinter
+            from tkinter import messagebox
+            r = tkinter.Tk()
+            r.withdraw()
+            messagebox.showerror(APP, msg)
+        sys.exit(3)
     if '--cli' in a:
         d = {'iso': a[a.index('--iso') + 1], 'target': a[a.index('--target') + 1], 'xenia': a[a.index('--xenia') + 1]}
         ui = CliUI(d)
