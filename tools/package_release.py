@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Oyuncu paketi: release/Fable2_Turkce_Yama_v<surum>/ klasoru ve ayni adli zip.
-Icerik: kurucu exe, OKUBENI.txt, Elle_Kurulum/ (xdelta fark yamalari + bat), SHA256SUMS.txt.
+Icerik: Kurulum/ (Nuitka standalone kurucu), OKUBENI.txt, Elle_Kurulum/ (xdelta fark yamalari + bat), SHA256SUMS.txt.
 Hicbir pakete oyunun orijinal ya da degistirilmis TAM dosyasi konmaz; yalnizca xdelta fark yamalari.
 Her calistirmada xdelta yeniden uretilip dogrulanir (make_xdelta). --no-installer: exe derlenmez/konmaz."""
 import hashlib, json, os, shutil, subprocess, sys, zipfile
@@ -10,7 +10,7 @@ os.chdir(ROOT)
 sys.path.insert(0, os.path.join(ROOT, 'tools'))
 from make_xdelta import make_xdelta  # noqa: E402
 
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 REPO_URL = 'https://github.com/ZenBlack0/fable2-turkce-yama'
 NAME = f'Fable2_Turkce_Yama_v{VERSION}'
 REL = os.path.join('release', NAME)
@@ -37,10 +37,10 @@ os.makedirs(elle)
 shutil.copytree('output/deltas', os.path.join(elle, 'deltas'), ignore=shutil.ignore_patterns('manifest.json'))
 shutil.copy('tools/bin/xdelta3.exe', elle)
 shutil.copy('tools/installer/LISANSLAR.txt', elle)
-if os.path.isfile('output/extract_iso.exe'):
-    shutil.copy('output/extract_iso.exe', elle)
+if os.path.isdir('output/extract_iso'):
+    shutil.copytree('output/extract_iso', os.path.join(elle, 'extract_iso'))
 if not SKIP_INSTALLER:
-    shutil.copy('output/Fable2_Turkce_Kurulum.exe', REL)
+    shutil.copytree('output/Fable2_Turkce_Kurulum', os.path.join(REL, 'Kurulum'))
 
 
 def fill(t):

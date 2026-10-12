@@ -2,7 +2,7 @@
 
 **Fable II (Xbox 360, Game of the Year / Platinum)** için tam Türkçe yerelleştirme: menüler, görevler, kitaplar, eşyalar, NPC konuşmaları, altyazılar ve Pub Games mini oyunları. Xenia Canary'de çalışır.
 
-> **Durum: v1.0.0** — 333 metin bankası, 56.000 metin parçası çevrildi ve denetlendi (altyazıların tamamı ID bazında kaynakla karşılaştırmalı okundu). Bildirilen hatalar düzeltilmektedir.
+> **Durum: v1.0.1** — 333 metin bankası, 56.000 metin parçası çevrildi ve denetlendi (altyazıların tamamı ID bazında kaynakla karşılaştırmalı okundu). Bildirilen hatalar düzeltilmektedir.
 
 <!-- Ekran görüntüleri: docs/ekran/ klasörüne koyup buraya ekleyin
 ![Ana menü](docs/ekran/menu.png)
@@ -15,14 +15,14 @@
 
 ## Oyuncular için
 
-**İndirme:** [Releases](../../releases) sayfasından `Fable2_Turkce_Yama_v1.0.0.zip` dosyasını indirin, içindeki **`OKUBENI.txt`** dosyasındaki adımları izleyin (tek tık kurucu: `Fable2_Turkce_Kurulum.exe`). Kendi Fable II GOTY ISO'nuza ve [Xenia Canary](https://github.com/xenia-canary/xenia-canary-releases/releases)'ye ihtiyacınız var; oyunun kendisi pakette **yoktur**.
+**İndirme:** [Releases](../../releases) sayfasından `Fable2_Turkce_Yama_v1.0.1.zip` dosyasını indirin, içindeki **`OKUBENI.txt`** dosyasındaki adımları izleyin (tek tık kurucu: `Kurulum/Fable2_Turkce_Kurulum.exe`). Kendi Fable II GOTY ISO'nuza ve [Xenia Canary](https://github.com/xenia-canary/xenia-canary-releases/releases)'ye ihtiyacınız var; oyunun kendisi pakette **yoktur**.
 
 ## Katkı verenler için
 
 Hata mı buldunuz? [Issues](../../issues) → "Çeviri hatası" şablonu. Düzeltme göndermek istiyorsanız [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını okuyun. Kısa özet:
 
 ### Kurulum
-1. Python 3.11+ ve `pip install numpy pillow pyinstaller`
+1. Python 3.11+ ve `pip install numpy pillow nuitka ordered-set zstandard` (kurucuyu derlemek için ayrıca Visual Studio Build Tools / MSVC; yalnızca çeviri için `--no-installer` yeterli)
 2. `xdelta3.exe` (3.x, Windows) dosyasını [xdelta-gpl](https://github.com/jmacd/xdelta-gpl/releases) sürümlerinden indirip `tools/bin/xdelta3.exe` olarak koyun.
 3. Kendi Fable II GOTY ISO'nuzu çıkarın:
    `python tools/extract_iso.py "Fable II.iso" -o extracted_original`
@@ -68,12 +68,17 @@ Oyun içi dil: **English (United Kingdom)** (yama bu dil dosyasının yerine ge�
 - **Çeviri metni** (`translation/` altındaki çeviriler ve sözlük): [CC BY-NC-SA 4.0](translation/LICENSE) — atıf, ticari olmayan kullanım, aynı lisansla paylaşım.
 - **Oyun metninin ve oyunun hakları** Microsoft / Lionhead Studios'a aittir. Bu proje resmi değildir; çeviri, oyunun metninden türetilmiş bir yapıdır ve oyunun hiçbir dosyasını içermez.
 
-## Kurucunun doğrulanması
-`Fable2_Turkce_Kurulum.exe` PyInstaller ile derlenmiş imzasız bir programdır; bazı antivirüsler yanlış alarm verebilir. İndirdiğiniz dosyanın bu depodaki kayıtla aynı olduğunu kontrol edin:
+## Antivirüs uyarıları
+Kurucu (`Kurulum/Fable2_Turkce_Kurulum.exe`) **açık kaynaktır** (kaynak kodu bu depoda: [`tools/installer/installer.py`](tools/installer/installer.py)); Python ile yazılmış ve [Nuitka](https://nuitka.net) ile derlenmiştir. İmzasız olduğu ve içinde fark yaması aracı (`xdelta3.exe`) bulunduğu için bazı **yapay zekâ/makine öğrenmesi tabanlı** antivirüs motorları yanlış alarm verebilir. Aynı kaynağın farklı yöntemlerle derlenmiş sürümleri VirusTotal'da 70 kadar motorun yalnızca birkaçı tarafından ve hep genel "şüpheli/ML" etiketleriyle işaretlendi; bu yöntemde (Nuitka klasör çıktısı) kurucu exe'si **0/71**, tüm paket zip'i 1/68 tespit aldı.
 
+- Derlenmiş test sürümünün VirusTotal raporları: [exe, 0/71](https://www.virustotal.com/gui/file/1d540687556b720718d4509aefe9ec4abb5b96be945f908655611a25cf1234e9) · [zip, 1/68](https://www.virustotal.com/gui/file/b531b205b0e3fa6756fa58c8070ce6dd28e53c951acb43cdef287f63f18e8347)
+  (bu raporlar aynı kaynak ve yöntemle üretilen bir deneme derlemesine aittir; Nuitka çıktısı her derlemede birkaç bayt farklı olduğundan aşağıdaki hash'ler release dosyasına aittir.)
+- Dosya bütünlüğü (release dosyaları):
 ```
-SHA-256 (Fable2_Turkce_Kurulum.exe): 3696bf183387fee48f5338376a0ab877728511c80a60ec2427f91df8087d19d3
-SHA-256 (Fable2_Turkce_Yama_v1.0.0.zip): 75b7af4216c093b259ae63743379d03f689c9c900c676708ac9ff11b5e9bab65
+SHA-256 (Kurulum/Fable2_Turkce_Kurulum.exe): 956844c076c4eecefb05a4bf89220c7b779fb314d2e8d98696061081c6f9ff8a
+SHA-256 (Fable2_Turkce_Yama_v1.0.1.zip): 76e2e0d747589cfdd07a424e028f8a03bb686b7a4b4f011071d8ed52c1343dd8
 ```
-(Windows: `certutil -hashfile Fable2_Turkce_Kurulum.exe SHA256`.) Güvenmek için dosyayı çalıştırmadan önce [VirusTotal](https://www.virustotal.com/)'a yükleyip taratmanız önerilir.
-<!-- VirusTotal sonuç bağlantısı: buraya eklenecek -->
+  (Windows: `certutil -hashfile Fable2_Turkce_Kurulum.exe SHA256`.)
+- **Güvenmek istemezseniz exe'siz yol:** pakette `Elle_Kurulum/yama_uygula.bat` vardır; ISO'yu çıkarıp bat dosyasını çalıştırmanız yeterlidir (her dosya SHA-256 ile doğrulanır). Ayrıntı: [docs/antivirus.md](docs/antivirus.md).
+- Kurucuyu kendiniz derleyebilirsiniz: `python tools/build_all.py` (Nuitka + Visual Studio Build Tools gerekir).
+<!-- Release dosyası için VirusTotal bağlantısı: yüklenince buraya eklenecek -->

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Fable II Türkçe Yama — tek tık kurucu (PyInstaller ile tek exe).
+"""Fable II Türkçe Yama — tek tık kurucu (Nuitka ile derlenir).
 
 Adımlar: ISO doğrula -> çıkar -> yamayı uygula (xdelta + font + pubgames) -> Xenia config/yama ayarı -> shader önbelleği.
 GUI (tkinter) varsayılan; test için:  --cli --iso X --target Y --xenia Z [--yes]
@@ -51,7 +51,7 @@ def sha256(p):
 # ------------------------------------------------------------------ arayüz
 def _p(*a):
     try:
-        _p(*a)
+        print(*a)
     except Exception:
         pass
 
@@ -555,8 +555,70 @@ def finish(ui, rep, target):
     ui.info(APP, 'Kurulum tamamlandı!\n\nXenia\'da şu dosyayı açın:\n%s\n\nOyunda Seçenekler → Dil = English (United Kingdom) seçili olsun.\nAltyazılar için ayar otomatik yapıldı.\n\nKurulum raporu: %s' % (os.path.join(target, 'default.xex'), rp))
 
 
+class _RecUI:
+    """Kendi kendine test icin sessiz arayuz: mesajlari listeye yazar."""
+    def __init__(self):
+        self.lines = []
+
+    def log(self, m): self.lines.append(m)
+    def info(self, t, m): self.lines.append('INFO ' + m)
+    def error(self, t, m): self.lines.append('HATA ' + m)
+    def progress(self, v): pass
+
+
+def selftest(a):
+    """--selftest [OYUN_KLASORU] --out DOSYA : paketlenmis kaynaklari ve (klasor verilirse) yama uygulamayi dener.
+    Derleme yontemleri (PyInstaller/Nuitka vb.) karsilastirilirken ayni islevi gordugunu dogrulamak icindir."""
+    out = a[a.index('--out') + 1] if '--out' in a else None
+    gdir = None
+    i = a.index('--selftest')
+    if i + 1 < len(a) and not a[i + 1].startswith('--'):
+        gdir = a[i + 1]
+    ui = _RecUI()
+    ok = True
+    try:
+        manifest = json.load(open(os.path.join(RES, 'manifest.json'), encoding='utf-8'))
+        ui.log('manifest: %d dosya' % len(manifest['files']))
+        for rel, e in manifest['files'].items():
+            p = os.path.join(RES, e['delta'].replace('/', os.sep))
+            if not (os.path.isfile(p) and os.path.getsize(p) > 0):
+                ok = False
+                ui.log('EKSIK delta: ' + rel)
+        json.load(open(os.path.join(RES, 'xenia_settings.json'), encoding='utf-8'))
+        tmpd = os.path.join(os.environ.get('TEMP', '.'), 'f2tr_selftest')
+        os.makedirs(tmpd, exist_ok=True)
+        xd = os.path.join(tmpd, 'xdelta3.exe')
+        shutil.copyfile(os.path.join(RES, 'xdelta3.exe'), xd)
+        r = subprocess.run([xd, '-V'], capture_output=True, text=True, creationflags=0x08000000 if os.name == 'nt' else 0)
+        ui.log('xdelta3 -V -> %d %s' % (r.returncode, (r.stdout + r.stderr).strip().splitlines()[0] if (r.stdout + r.stderr).strip() else ''))
+        ok = ok and r.returncode == 0
+        import tkinter
+        _r = tkinter.Tk()
+        _r.withdraw()
+        _r.update()
+        _r.destroy()
+        ui.log('tkinter: Tk penceresi olusturuldu')
+        ui.log('extract_iso modulu: ' + str(hasattr(X, 'scan_all_files')))
+        if gdir:
+            xh = apply_patch(ui, gdir, manifest)
+            ui.log('apply_patch tamam, default.xex sha256 ' + str(xh)[:12])
+    except Abort:
+        ok = False
+    except Exception as e:  # noqa: BLE001
+        ok = False
+        import traceback
+        ui.log('ISTISNA %r' % (e,))
+        ui.log(traceback.format_exc())
+    ui.log('SONUC ' + ('OK' if ok else 'BASARISIZ'))
+    if out:
+        open(out, 'w', encoding='utf-8').write('\n'.join(ui.lines) + '\n')
+    return 0 if ok else 1
+
+
 def main():
     a = sys.argv[1:]
+    if '--selftest' in a:
+        sys.exit(selftest(a))
     if '--cli' in a:
         d = {'iso': a[a.index('--iso') + 1], 'target': a[a.index('--target') + 1], 'xenia': a[a.index('--xenia') + 1]}
         ui = CliUI(d)

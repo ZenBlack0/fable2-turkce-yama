@@ -1,5 +1,12 @@
 # Değişiklik günlüğü
 
+## v1.0.1
+Kurucu antivirüs yanlış alarmlarını azaltmak için yeniden derlendi; çeviri metni değişmedi.
+- Kurucu **Nuitka `--standalone`** (klasör çıktısı) ile derlendi (PyInstaller tek dosya yerine); VirusTotal'da exe 0/71, tüm paket 1/68 tespit. Ayrıntı: `docs/antivirus.md`.
+- Paket düzeni: `Kurulum/` (kurucu klasörü), `Elle_Kurulum/` (exe'siz yol; `extract_iso` da Nuitka ile derlendi), `OKUBENI.txt`, `SHA256SUMS.txt`.
+- Kurucu: sürüm bilgisi eklendi; `--selftest` modu; komut satırı modunda mesajların görünmemesi hatası giderildi (GUI etkilenmiyordu).
+- README/OKUBENI'ye "Antivirüs uyarıları" bölümü, `docs/antivirus.md`.
+
 ## v1.0.0
 İlk kararlı sürüm.
 - **Kapsam:** 333 banka, 56.000 metin parçası: ana senaryo, yan görevler, Knothole Island ve See the Future DLC'leri, kitaplar, günlükler, eşyalar, arayüz, ipuçları, NPC diyalogları ve altyazılar; Pub Games (Kilit Taşı, Çarkıfelek Kutusu, Talih Kulesi + ortak arayüz).

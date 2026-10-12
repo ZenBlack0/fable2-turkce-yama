@@ -1,9 +1,9 @@
 ELLE KURULUM (kurucuyu kullanmak istemeyenler için)
 ==================================================
 
-Önce Fable II GOTY ISO'sunu bir klasöre çıkarın (extract_iso.exe bunun içindir):
+Önce Fable II GOTY ISO'sunu bir klasöre çıkarın (extract_iso klasöründeki extract_iso.exe bunun içindir):
 
-    extract_iso.exe "Fable II.iso" D:\Fable2
+    extract_iso\extract_iso.exe "Fable II.iso" -o D:\Fable2
 
 Sonra bu klasördeki yama_uygula.bat dosyasını çalıştırın:
 

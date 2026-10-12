@@ -21,7 +21,8 @@ kurucu yalnızca küçük "fark yamaları" uygular.
 
 2) KURULUM
 ----------
- 1. Fable2_Turkce_Kurulum.exe dosyasına çift tıklayın.
+ 1. Zip'i bir klasöre çıkarın, Kurulum klasöründeki Fable2_Turkce_Kurulum.exe dosyasına
+    çift tıklayın (Kurulum klasörünün içindeki diğer dosyalar yerinde kalmalıdır).
     (Windows "bilinmeyen yayıncı" derse: Ek bilgi → Yine de çalıştır. Bkz. SSS.)
  2. Kurucu sırayla şunları sorar:
     a) "Fable II ISO dosyasını seçin": ISO dosyanızı gösterin. Kurucu doğru oyun
@@ -64,11 +65,16 @@ C: Kurucu kare hızını 60'a sınırlar (framerate_limit = 60). Ayar yoksa Xeni
    config'inde [GPU] altına framerate_limit = 60 yazın.
 
 S: Antivirüs / SmartScreen uyarı veriyor.
-C: Kurucu imzasız bir programdır ve xdelta3.exe (fark yaması aracı) içerir; bu yüzden
-   bazı antivirüsler yanlış alarm verebilir. Güvenmiyorsanız kurucuyu kullanmayın;
-   Elle_Kurulum klasöründeki yama_uygula.bat yöntemini deneyin. Dosyaların özetlerini
-   SHA256SUMS.txt ile karşılaştırabilirsiniz. Antivirüs xdelta3.exe'yi engellerse,
-   kurulum süresince korumayı geçici kapatmanız gerekebilir.
+C: Kurucu açık kaynaklıdır (@REPO_URL@), Python ile yazılmış ve Nuitka ile
+   derlenmiştir; imzasız olduğu ve xdelta3.exe (fark yaması aracı) içerdiği için
+   bazı yapay zekâ/makine öğrenmesi tabanlı motorlar yanlış alarm verebilir.
+   VirusTotal'da (yaklaşık 70 motor) kurucu exe'si 0 tespit aldı, tüm paket 1 tespit aldı:
+   https://www.virustotal.com/gui/file/1d540687556b720718d4509aefe9ec4abb5b96be945f908655611a25cf1234e9
+   Dosyaların özetlerini SHA256SUMS.txt ile karşılaştırabilirsiniz. Güvenmiyorsanız
+   exe'siz yolu kullanın: Elle_Kurulum klasöründeki yama_uygula.bat (ISO'yu
+   extract_iso ile çıkarıp bat dosyasını çalıştırın; her dosya SHA-256 ile doğrulanır).
+   Antivirüs xdelta3.exe'yi engellerse korumayı kurulum süresince geçici kapatmanız
+   gerekebilir. Kaynak kodu: @REPO_URL@/tree/main/tools/installer
 
 S: "Bu ISO yamayla uyumlu değil" veya "orijinal sürümle eşleşmiyor" hatası.
 C: Yalnızca Fable II GOTY/Platinum (Media ID 716F0A0D) desteklenir. Önceden

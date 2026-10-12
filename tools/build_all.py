@@ -2,7 +2,7 @@
 """Tek komutla tum zincir: validate_all -> build_patch -> build_fonts (gerekirse) -> build_pubgames
 -> xdelta + dogrulama -> kurucu exe -> release/ oyuncu paketi (klasor + zip) -> SHA-256 ozeti.
 Kullanim: python tools/build_all.py [--fonts] [--no-installer]
-  --fonts: fontlari zorla yeniden uret;  --no-installer: kurucu exe derlenmez (PyInstaller gerekmez)
+  --fonts: fontlari zorla yeniden uret;  --no-installer: kurucu derlenmez (Nuitka + MSVC gerekmez)
 Herhangi bir adim basarisiz olursa zincir durur."""
 import hashlib, os, subprocess, sys, zipfile
 
@@ -35,12 +35,12 @@ run('5. xdelta + kurucu + oyuncu paketi (package_release)', *pr)
 print('\n##### 6. SHA-256 ozeti #####')
 rel = [d for d in sorted(os.listdir('release')) if d.startswith('Fable2_Turkce_Yama_v') and d.endswith('.zip')][-1]
 lines = []
-for f in ('release/' + rel, 'output/Fable2_Turkce_Kurulum.exe', 'output/extract_iso.exe'):
+for f in ('release/' + rel, 'output/Fable2_Turkce_Kurulum/Fable2_Turkce_Kurulum.exe', 'output/extract_iso/extract_iso.exe'):
     if os.path.isfile(f):
         lines.append(f'{sha(open(f, "rb").read())}  {os.path.basename(f)}')
 with zipfile.ZipFile('release/' + rel) as z:
     for n in sorted(z.namelist()):
-        lines.append(f'    {sha(z.read(n))[:16]}  {rel}!{n}')
+        lines.append(f'    {sha(z.read(n))}  {rel}!{n}')
 open('release/SHA256SUMS.txt', 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
 print('\n'.join(l for l in lines if not l.startswith('    ')))
 print('\nTum dosya ozetleri: release/SHA256SUMS.txt')
