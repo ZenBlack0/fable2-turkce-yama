@@ -3,7 +3,12 @@
 Kurucu, Python ile yazılmış ve paketlenmiş **açık kaynaklı** bir programdır (`tools/installer/installer.py`). İmzasız Python paketleri ve içlerinde fark yaması aracı (`xdelta3.exe`) bulunan kurucular, bazı antivirüs motorlarının **statik makine öğrenmesi** (ML/AI) sezgilerinde sık sık yanlış pozitif verir. Kurucunun yaptığı işler: ISO'yu doğrulayıp çıkarmak, oyunun 11 dosyasına xdelta fark yaması uygulamak (SHA-256 doğrulamalı), Xenia ayar dosyasını düzenlemek ve (internet varsa) resmî `xenia-canary/game-patches` deposundan Fable II yama dosyasını indirmek.
 
 ## Release dosyalarının VirusTotal raporları
-Bu sürümün dosyaları henüz VirusTotal'a yüklenmedi; yüklendiğinde raporlar buraya eklenecek.
+| Dosya | Tespit | Uyaran motorlar | Rapor |
+|---|---|---|---|
+| `Kurulum/Fable2_Turkce_Kurulum.exe` | 0/71 | — | [VirusTotal](https://www.virustotal.com/gui/file/f89c3d3b5b6421fe2691adbcc90d06ee4cbc31ba64207412e88c1d01a862881a) |
+| Release zip | 1/67 | MaxSecure (Trojan.Malware.300983.susgen) | [VirusTotal](https://www.virustotal.com/gui/file/240aa13f210802179a61d3662c508cb4b345f388f7a8ccf57a978d6dabf8505a) |
+
+MaxSecure'un “susgen” etiketi genel (sezgisel) bir şüphe tespitidir, belirli bir zararlı ailesi değildir; önceki Nuitka standalone zip derlemelerinde de (v1.0.1 öncesi deneme derlemesi dahil) aynı etiket çıkmıştı.
 
 ## Karşılaştırma testi (VirusTotal, 12 Ekim 2026, v1.0.0 → v1.0.1 arası denemeler)
 Aynı kaynak kodu farklı yöntemlerle derlenip VirusTotal'a yüklendi:

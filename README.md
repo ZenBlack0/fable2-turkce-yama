@@ -76,7 +76,8 @@ Oyun içi dil: **English (United Kingdom)** (yama bu dil dosyasının yerine ge�
 ## Antivirüs uyarıları
 Kurucu (`Kurulum/Fable2_Turkce_Kurulum.exe`) **açık kaynaktır** (kaynak kodu bu depoda: [`tools/installer/installer.py`](tools/installer/installer.py)); Python ile yazılmış ve [Nuitka](https://nuitka.net) ile derlenmiştir. İmzasız olduğu ve içinde fark yaması aracı (`xdelta3.exe`) bulunduğu için bazı **yapay zekâ/makine öğrenmesi tabanlı** antivirüs motorları yanlış alarm verebilir. Aynı kaynağın farklı yöntemlerle derlenmiş sürümleri VirusTotal'da 70 kadar motorun yalnızca birkaçı tarafından ve hep genel "şüpheli/ML" etiketleriyle işaretlendi; bu yöntemde (Nuitka klasör çıktısı) deneme derlemesinin exe'si **0/71**, zip'i 1/68 tespit aldı (ayrıntı aşağıda ve `docs/antivirus.md` içinde).
 
-- Bu sürümün dosyaları henüz VirusTotal'a yüklenmedi; yüklendiğinde raporlar buraya eklenecek.
+- **Release dosyalarının VirusTotal raporları:** [kurucu exe — 0/71](https://www.virustotal.com/gui/file/f89c3d3b5b6421fe2691adbcc90d06ee4cbc31ba64207412e88c1d01a862881a) · [zip — 1/67](https://www.virustotal.com/gui/file/240aa13f210802179a61d3662c508cb4b345f388f7a8ccf57a978d6dabf8505a)
+  MaxSecure'un “susgen” etiketi genel (sezgisel) bir şüphe tespitidir, belirli bir zararlı ailesi değildir; önceki Nuitka standalone zip derlemelerinde de (v1.0.1 öncesi deneme derlemesi dahil) aynı etiket çıkmıştı.
 - Dosya bütünlüğü (release dosyaları):
 ```
 SHA-256 (Kurulum/Fable2_Turkce_Kurulum.exe): f89c3d3b5b6421fe2691adbcc90d06ee4cbc31ba64207412e88c1d01a862881a
