@@ -1,0 +1,806 @@
+{
+  "bank_id": "30af3602",
+  "total_strings": 160,
+  "strings": [
+    {
+      "id": "002b5fe8",
+      "bank_id": "30af3602",
+      "text": "Oğlunu sürekli sokakta oynarken görüyorum."
+    },
+    {
+      "id": "002b5fe9",
+      "bank_id": "30af3602",
+      "text": "Maceralarından o oğlan için bir şeyler getirdin mi bari?"
+    },
+    {
+      "id": "002b5fea",
+      "bank_id": "30af3602",
+      "text": "Uzun seferlerinde oğlunu çok özlüyor olmalısın."
+    },
+    {
+      "id": "002b5feb",
+      "bank_id": "30af3602",
+      "text": "Umarım oğlunun sağlığı yerindedir."
+    },
+    {
+      "id": "002b5fec",
+      "bank_id": "30af3602",
+      "text": "Oğlun diğer çocuklarla koşturmaya bayılıyor doğrusu."
+    },
+    {
+      "id": "002b5fee",
+      "bank_id": "30af3602",
+      "text": "Oğlunu görmeye mi döndün?"
+    },
+    {
+      "id": "002b5fef",
+      "bank_id": "30af3602",
+      "text": "Oğlun seni tekrar gördüğüne çok sevinecektir eminim."
+    },
+    {
+      "id": "0addd226",
+      "bank_id": "30af3602",
+      "text": "Oğlun bayağı sıradan bir çocuk, değil mi?"
+    },
+    {
+      "id": "19c66267",
+      "bank_id": "30af3602",
+      "text": "Kızın çok yaramaz."
+    },
+    {
+      "id": "1eab6a40",
+      "bank_id": "30af3602",
+      "text": "Sen ortalıkta yokken kızının ortalığı birbirine kattığını biliyor musun?"
+    },
+    {
+      "id": "1eab6a41",
+      "bank_id": "30af3602",
+      "text": "Şu kızın küçük bir canavar."
+    },
+    {
+      "id": "1eab6a42",
+      "bank_id": "30af3602",
+      "text": "Kızın tam bir yaramaz şeytan."
+    },
+    {
+      "id": "1eab6a44",
+      "bank_id": "30af3602",
+      "text": "O kızını biraz azarlamayı öğrenmelisin."
+    },
+    {
+      "id": "1eab6a45",
+      "bank_id": "30af3602",
+      "text": "Kızının ciddi davranış problemleri var."
+    },
+    {
+      "id": "1eab6a46",
+      "bank_id": "30af3602",
+      "text": "Şu kızına biraz söz geçiremiyor musun sen?"
+    },
+    {
+      "id": "1eab6a47",
+      "bank_id": "30af3602",
+      "text": "Kızın bir hobbe'den beter. Sürekli bir işler çeviriyor!"
+    },
+    {
+      "id": "20c66d6a",
+      "bank_id": "30af3602",
+      "text": "Kızın berbatın teki!"
+    },
+    {
+      "id": "27ab78a8",
+      "bank_id": "30af3602",
+      "text": "O korkunç kızın hakkında bir şeyler yapmalısın artık."
+    },
+    {
+      "id": "27ab78a9",
+      "bank_id": "30af3602",
+      "text": "Kızın korkunç derecede ele avuca sığmaz bir çocuk!"
+    },
+    {
+      "id": "27ab78aa",
+      "bank_id": "30af3602",
+      "text": "Kızınla ilgilensen iyi edersin. Yoksa ben ilgileneceğim."
+    },
+    {
+      "id": "27ab78ab",
+      "bank_id": "30af3602",
+      "text": "Kızın bütün kasabayı çıldırtıyor!"
+    },
+    {
+      "id": "27ab78ac",
+      "bank_id": "30af3602",
+      "text": "Hayatımda senin kızın kadar baş belası bir çocuk görmedim!"
+    },
+    {
+      "id": "27ab78ad",
+      "bank_id": "30af3602",
+      "text": "Kızının öyle çılgınlar gibi koşturup durmasını engellemelisin."
+    },
+    {
+      "id": "27ab78af",
+      "bank_id": "30af3602",
+      "text": "Şu kızını neden biraz zapt etmiyorsun?"
+    },
+    {
+      "id": "2df6a778",
+      "bank_id": "30af3602",
+      "text": "Geçen gün kızını buralarda oynarken gördüm."
+    },
+    {
+      "id": "2df6a77a",
+      "bank_id": "30af3602",
+      "text": "Kızın nasıl bugünlerde?"
+    },
+    {
+      "id": "2df6a77b",
+      "bank_id": "30af3602",
+      "text": "Kızına hediye getirdin mi hiç?"
+    },
+    {
+      "id": "2df6a77c",
+      "bank_id": "30af3602",
+      "text": "O küçük kızını görmeye mi gidiyorsun?"
+    },
+    {
+      "id": "2df6a77d",
+      "bank_id": "30af3602",
+      "text": "Küçük kızını görmeye mi gidiyorsun?"
+    },
+    {
+      "id": "2df6a77e",
+      "bank_id": "30af3602",
+      "text": "Ah, bazen keşke kızının yaşında olsam diyorum. Ne büyük masumiyet."
+    },
+    {
+      "id": "2df6a77f",
+      "bank_id": "30af3602",
+      "text": "Kızının hali vakti nasıl?"
+    },
+    {
+      "id": "2fc5ce51",
+      "bank_id": "30af3602",
+      "text": "Oğlun yeterince cici bir çocuğa benziyor."
+    },
+    {
+      "id": "2fc5ce52",
+      "bank_id": "30af3602",
+      "text": "Oğlun koşturup oynamayı pek seviyor, değil mi?"
+    },
+    {
+      "id": "2fc5ce53",
+      "bank_id": "30af3602",
+      "text": "Sen uzaktayken oğlunun seni çok özlediğine eminim."
+    },
+    {
+      "id": "2fc5ce54",
+      "bank_id": "30af3602",
+      "text": "Pek hızlı bir maymun senin oğlan, değil mi?"
+    },
+    {
+      "id": "2fc5ce55",
+      "bank_id": "30af3602",
+      "text": "Bahse girerim o çocuk seninle görevlere çıkmak için sabırsızlanıyordur."
+    },
+    {
+      "id": "2fc5ce56",
+      "bank_id": "30af3602",
+      "text": "Oğlunun yaşında olduğum günleri hatırlıyorum. Ah, ne güzel günlerdi."
+    },
+    {
+      "id": "2fc5ce57",
+      "bank_id": "30af3602",
+      "text": "Oğlunun erkenden senin izinden gitmeye kalkışmasından endişeleniyor olmalısın. Bu kadar küçük bir çocuk için tehlikeli olabilir."
+    },
+    {
+      "id": "32f6af19",
+      "bank_id": "30af3602",
+      "text": "Kızın iyi mi?"
+    },
+    {
+      "id": "32f6af1a",
+      "bank_id": "30af3602",
+      "text": "Kızın nasıl bugünlerde?"
+    },
+    {
+      "id": "32f6af1b",
+      "bank_id": "30af3602",
+      "text": "Kızının okuldaki durumu iyi mi bari?"
+    },
+    {
+      "id": "32f6af1c",
+      "bank_id": "30af3602",
+      "text": "O kızın artık epey büyümüş olmalı."
+    },
+    {
+      "id": "32f6af1d",
+      "bank_id": "30af3602",
+      "text": "Kızın seninle maceralara atılmak istiyor mu hiç?"
+    },
+    {
+      "id": "32f6af1e",
+      "bank_id": "30af3602",
+      "text": "İnsanın kızıyla vakit geçirmesi önemlidir. İnan bana."
+    },
+    {
+      "id": "32f6af1f",
+      "bank_id": "30af3602",
+      "text": "Bugünlerde kızınla çok vakit geçirebiliyor musun?"
+    },
+    {
+      "id": "3ac5df80",
+      "bank_id": "30af3602",
+      "text": "Oğlun nasıl gidiyor?"
+    },
+    {
+      "id": "3ac5df82",
+      "bank_id": "30af3602",
+      "text": "Oğlun iyi mi?"
+    },
+    {
+      "id": "3ac5df83",
+      "bank_id": "30af3602",
+      "text": "Oğluna oyuncak getirdin mi bari?"
+    },
+    {
+      "id": "3ac5df84",
+      "bank_id": "30af3602",
+      "text": "Oğlun oynamayı pek seviyor doğrusu."
+    },
+    {
+      "id": "3ac5df85",
+      "bank_id": "30af3602",
+      "text": "Bu sabah oğlunu oynarken gördüm."
+    },
+    {
+      "id": "3ac5df86",
+      "bank_id": "30af3602",
+      "text": "Bahse girerim oğlunun kendi maceralarına atılmaya kalkması çok sürmez."
+    },
+    {
+      "id": "3ac5df87",
+      "bank_id": "30af3602",
+      "text": "Oğlunu görmeye mi gidiyorsun? Seni beklediğine eminim."
+    },
+    {
+      "id": "42bfb708",
+      "bank_id": "30af3602",
+      "text": "Oğlunu maceralara yanında götürdüğün doğru mu? Hiç sanmıyorum gerçi."
+    },
+    {
+      "id": "47bfbf29",
+      "bank_id": "30af3602",
+      "text": "Oğlunu görmeye mi gidiyorsun?"
+    },
+    {
+      "id": "543d3b81",
+      "bank_id": "30af3602",
+      "text": "Kızına ne getirdin? Görebilir miyim?"
+    },
+    {
+      "id": "57377a47",
+      "bank_id": "30af3602",
+      "text": "Senin hakkında kitaplar yazarlarsa benden de bahsedecekler mi?"
+    },
+    {
+      "id": "5e37854a",
+      "bank_id": "30af3602",
+      "text": "Köpekcikler ölünce ne oluyor?"
+    },
+    {
+      "id": "5f3d4d30",
+      "bank_id": "30af3602",
+      "text": "Kızın on tane hobbe öldürdüğünü söylüyor. Doğru değil, değil mi?"
+    },
+    {
+      "id": "715dbf47",
+      "bank_id": "30af3602",
+      "text": "Oğlun çok yaramaz."
+    },
+    {
+      "id": "785dca4a",
+      "bank_id": "30af3602",
+      "text": "Oğlun berbatın teki!"
+    },
+    {
+      "id": "7c7b9ef2",
+      "bank_id": "30af3602",
+      "text": "Kızınla canciğer kuzu sarmasıyız bilesin."
+    },
+    {
+      "id": "831938e8",
+      "bank_id": "30af3602",
+      "text": "Biz neden hiç tatile gitmiyoruz?"
+    },
+    {
+      "id": "88194089",
+      "bank_id": "30af3602",
+      "text": "Bir trol seni yerse bize ne olacak peki?"
+    },
+    {
+      "id": "8be874c4",
+      "bank_id": "30af3602",
+      "text": "Kızın tam bir zorba."
+    },
+    {
+      "id": "8c7938c0",
+      "bank_id": "30af3602",
+      "text": "Oğlun hayatımda gördüğüm en pis çocuk!"
+    },
+    {
+      "id": "8c7938c1",
+      "bank_id": "30af3602",
+      "text": "Gerçekten kötü bir şey yapmadan önce o oğlanı içeri tıkmalılar."
+    },
+    {
+      "id": "8c7938c3",
+      "bank_id": "30af3602",
+      "text": "Şu oğlunu gerçekten zapt etmelisin."
+    },
+    {
+      "id": "8c7938c6",
+      "bank_id": "30af3602",
+      "text": "O oğlundan nefret ediyorum. Sürekli benimle uğraşıp duruyor."
+    },
+    {
+      "id": "8c7938c7",
+      "bank_id": "30af3602",
+      "text": "O lanet çocuğundan gına geldi artık."
+    },
+    {
+      "id": "8cee89a1",
+      "bank_id": "30af3602",
+      "text": "Kızın neden bu kadar yaramaz?"
+    },
+    {
+      "id": "8f6d1c71",
+      "bank_id": "30af3602",
+      "text": "Canavarlarla dövüşmeye gittiğinde dikkatli olacaksın değil mi?"
+    },
+    {
+      "id": "90e87ce5",
+      "bank_id": "30af3602",
+      "text": "Kimse kızını sevmiyor. Çok huysuz biri o."
+    },
+    {
+      "id": "937943c2",
+      "bank_id": "30af3602",
+      "text": "Oğlun küçük bir iblis."
+    },
+    {
+      "id": "937943c3",
+      "bank_id": "30af3602",
+      "text": "O lanet oğlundan ölümüne bıktım artık."
+    },
+    {
+      "id": "937943c4",
+      "bank_id": "30af3602",
+      "text": "Oğlun resmen bir dehşet."
+    },
+    {
+      "id": "937943c5",
+      "bank_id": "30af3602",
+      "text": "Oğluna hiç terbiye vermiyor musun sen?"
+    },
+    {
+      "id": "937943c6",
+      "bank_id": "30af3602",
+      "text": "O küçük canavara söz geçiremiyor musun?"
+    },
+    {
+      "id": "95cafc47",
+      "bank_id": "30af3602",
+      "text": "Sana aptal dediler diye birkaç çocuğu patakladım."
+    },
+    {
+      "id": "97ee9ad0",
+      "bank_id": "30af3602",
+      "text": "Kızından nefret ediyorum. Nefret ediyorum, nefret ediyorum!"
+    },
+    {
+      "id": "9a6d2da0",
+      "bank_id": "30af3602",
+      "text": "Bazen kafanın içinde sesler duyduğun doğru mu? Çok tuhaf..."
+    },
+    {
+      "id": "9c442bb7",
+      "bank_id": "30af3602",
+      "text": "Ben evlatlık mıyım? Sana pek fazla benzemiyorum da."
+    },
+    {
+      "id": "9ccb074a",
+      "bank_id": "30af3602",
+      "text": "Dün savaşçı bir prensestim. Bütün erkek çocukları yendim."
+    },
+    {
+      "id": "9fce45c2",
+      "bank_id": "30af3602",
+      "text": "Oğlun yakında seninle canavar öldürmeye gideceğini söylüyor. Ama doğru değil, değil mi?"
+    },
+    {
+      "id": "9ff27e54",
+      "bank_id": "30af3602",
+      "text": "Diğer bütün kızlar beni kıskanıyor çünkü benim gibi bir Kahraman'la yaşamıyorlar."
+    },
+    {
+      "id": "a34436ba",
+      "bank_id": "30af3602",
+      "text": "Sen küçükken okula gitmedin, ben niye gitmek zorundayım ki?"
+    },
+    {
+      "id": "a4f28675",
+      "bank_id": "30af3602",
+      "text": "Bana bir pala alır mısın? Lütfen? Söz veriyorum çok dikkatli olacağım!"
+    },
+    {
+      "id": "a8ce542f",
+      "bank_id": "30af3602",
+      "text": "Oğluna hiç hediye getirdin mi?"
+    },
+    {
+      "id": "b4e2a560",
+      "bank_id": "30af3602",
+      "text": "Kızın bu kasabanın başına tam bir bela!"
+    },
+    {
+      "id": "b4e2a561",
+      "bank_id": "30af3602",
+      "text": "O huysuz kızından artık canıma tak etti."
+    },
+    {
+      "id": "b4e2a563",
+      "bank_id": "30af3602",
+      "text": "Şu kızına gerçekten söz geçirmelisin."
+    },
+    {
+      "id": "b4e2a566",
+      "bank_id": "30af3602",
+      "text": "O kızının sağlam bir kötek yemesi gerek."
+    },
+    {
+      "id": "b4e2a567",
+      "bank_id": "30af3602",
+      "text": "O kızınla konuşsan iyi edersin. Başa bela o çocuk."
+    },
+    {
+      "id": "b8f9d5e0",
+      "bank_id": "30af3602",
+      "text": "Oğlunun başkalarına zerre saygısı yok."
+    },
+    {
+      "id": "b8f9d5e1",
+      "bank_id": "30af3602",
+      "text": "Oğlun tam bir canavar, bilesin!"
+    },
+    {
+      "id": "b8f9d5e2",
+      "bank_id": "30af3602",
+      "text": "Şu senin oğlanın sütü bozuk."
+    },
+    {
+      "id": "b8f9d5e4",
+      "bank_id": "30af3602",
+      "text": "Oğlunun maskaralıklarından bıktım usandım!"
+    },
+    {
+      "id": "b8f9d5e5",
+      "bank_id": "30af3602",
+      "text": "Oğlundan daha çekilmez bir baş belasına hiç rastlamadım."
+    },
+    {
+      "id": "b8f9d5e6",
+      "bank_id": "30af3602",
+      "text": "O lanet çocuğun hakkında bir şey yapacak mısın yapmayacak mısın?"
+    },
+    {
+      "id": "b8f9d5e7",
+      "bank_id": "30af3602",
+      "text": "Şu oğlana bir çeki düzen vermelisin. Tam bir felaket."
+    },
+    {
+      "id": "bbe2b062",
+      "bank_id": "30af3602",
+      "text": "Kızına nasıl davranması gerektiğini öğretmelisin!"
+    },
+    {
+      "id": "bbe2b063",
+      "bank_id": "30af3602",
+      "text": "O kızından bıktım usandım artık."
+    },
+    {
+      "id": "bbe2b064",
+      "bank_id": "30af3602",
+      "text": "Kızın küçük bir hobbe resmen!"
+    },
+    {
+      "id": "bbe2b065",
+      "bank_id": "30af3602",
+      "text": "O ele avuca sığmaz kızın hakkında bir şeyler yapmalısın."
+    },
+    {
+      "id": "bbe2b066",
+      "bank_id": "30af3602",
+      "text": "Kızın tam bir kabus."
+    },
+    {
+      "id": "bc25d734",
+      "bank_id": "30af3602",
+      "text": "Şu konuşan kayaların ardında ne var? Havalı oyuncaklar var mı?"
+    },
+    {
+      "id": "c125ded5",
+      "bank_id": "30af3602",
+      "text": "Hiç Samarkand'a gittin mi? Kulağa çok ilginç geliyor."
+    },
+    {
+      "id": "c18088a1",
+      "bank_id": "30af3602",
+      "text": "Kızın kadar tatlı bir çocukla hiç karşılaşmadım."
+    },
+    {
+      "id": "c18088a2",
+      "bank_id": "30af3602",
+      "text": "Biliyor musun, cidden çok tatlı bir kızın var."
+    },
+    {
+      "id": "c18088a3",
+      "bank_id": "30af3602",
+      "text": "Böyle tatlı bir kızın olduğu için çok şanslısın."
+    },
+    {
+      "id": "c18088a4",
+      "bank_id": "30af3602",
+      "text": "Bütün kasabada seninkinden daha akıllı bir kız çocuğu yok."
+    },
+    {
+      "id": "c18088a5",
+      "bank_id": "30af3602",
+      "text": "Kasabada senin kızından daha iyi bir çocuk yok."
+    },
+    {
+      "id": "c1f9e3c8",
+      "bank_id": "30af3602",
+      "text": "Sen her maceraya çıktığında oğlundan eziyet çekmek zorunda mıyız?"
+    },
+    {
+      "id": "c1f9e3c9",
+      "bank_id": "30af3602",
+      "text": "Oğlunun biraz terbiye öğrenmesi gerek!"
+    },
+    {
+      "id": "c1f9e3ca",
+      "bank_id": "30af3602",
+      "text": "O senin oğlan şansını fazla zorluyor bilesin."
+    },
+    {
+      "id": "c1f9e3cb",
+      "bank_id": "30af3602",
+      "text": "Şu senin oğlanın sağlam bir cezaya ihtiyacı var."
+    },
+    {
+      "id": "c1f9e3cc",
+      "bank_id": "30af3602",
+      "text": "O küçük canavarına söz geçirmeyi deneyemez misin?"
+    },
+    {
+      "id": "c1f9e3cd",
+      "bank_id": "30af3602",
+      "text": "Oğlun tam bir baş belası."
+    },
+    {
+      "id": "c1f9e3cf",
+      "bank_id": "30af3602",
+      "text": "Oğlunun öyle ortalığı birbirine katmasına nasıl izin verirsin?"
+    },
+    {
+      "id": "cc8099d0",
+      "bank_id": "30af3602",
+      "text": "Kızın tek kelimeyle çok tatlı."
+    },
+    {
+      "id": "cc8099d2",
+      "bank_id": "30af3602",
+      "text": "Bütün Albion'un en kibar kızına sahipsin."
+    },
+    {
+      "id": "cc8099d3",
+      "bank_id": "30af3602",
+      "text": "Kızın öyle tatlı bir çocuk ki. Onu görmek için sabırsızlandığına bahse girerim."
+    },
+    {
+      "id": "cc8099d4",
+      "bank_id": "30af3602",
+      "text": "O kızın hayatımda gördüğüm en iyi çocuk."
+    },
+    {
+      "id": "cc8099d5",
+      "bank_id": "30af3602",
+      "text": "Keşke benim de seninki kadar tatlı bir kızım olsaydı."
+    },
+    {
+      "id": "ce009e71",
+      "bank_id": "30af3602",
+      "text": "Toplumumuz neden bütün bu toplumsal cinsiyet klişelerini pekiştiriyor ki? Aman neyse, gidip bebeklerimle oynayayım bari."
+    },
+    {
+      "id": "cf57ee93",
+      "bank_id": "30af3602",
+      "text": "Bir ağaç dikebilir miyiz? Böylece büyümesini izlerdik! Gerçi bayağı sıkıcı olurdu herhalde."
+    },
+    {
+      "id": "d657f996",
+      "bank_id": "30af3602",
+      "text": "On iki yüzlü zar ne işe yarar ki? Çok komik zıplıyor."
+    },
+    {
+      "id": "d6a18e01",
+      "bank_id": "30af3602",
+      "text": "Oğlun beni korkutuyor."
+    },
+    {
+      "id": "d6f1a117",
+      "bank_id": "30af3602",
+      "text": "Vay canına, kızın çok şanslı. Keşke ben de bir maceracının oğlu olsaydım."
+    },
+    {
+      "id": "d6f4da58",
+      "bank_id": "30af3602",
+      "text": "Kızın hiç belaya bulaşmıyor. Benim gibi değil..."
+    },
+    {
+      "id": "d900afa0",
+      "bank_id": "30af3602",
+      "text": "Uykuya daldığında ne oluyor? Biri bütün dünyayı kapatıyormuş gibi mi?"
+    },
+    {
+      "id": "dbf4e279",
+      "bank_id": "30af3602",
+      "text": "Herkes kızını çok seviyor."
+    },
+    {
+      "id": "ddf1ac1a",
+      "bank_id": "30af3602",
+      "text": "Demin kızınla oynuyordum. Seni gördüğüne sevineceğine bahse girerim."
+    },
+    {
+      "id": "df35c370",
+      "bank_id": "30af3602",
+      "text": "Bu sokaklar kızın gibi küçük kız çocukları için tekin değil."
+    },
+    {
+      "id": "df35c371",
+      "bank_id": "30af3602",
+      "text": "Uzaklardayken kızını özlemiyor musun hiç?"
+    },
+    {
+      "id": "df35c372",
+      "bank_id": "30af3602",
+      "text": "Uzun seferlerinde kızını çok özlüyor olmalısın."
+    },
+    {
+      "id": "df35c373",
+      "bank_id": "30af3602",
+      "text": "Umarım kızının sağlığı yerindedir."
+    },
+    {
+      "id": "df35c374",
+      "bank_id": "30af3602",
+      "text": "Sen uzaktayken kızının seni çok özlediğine eminim."
+    },
+    {
+      "id": "df35c376",
+      "bank_id": "30af3602",
+      "text": "Kızını görmeye döndün demek ha?"
+    },
+    {
+      "id": "df35c377",
+      "bank_id": "30af3602",
+      "text": "Kızın nasıl bugünlerde?"
+    },
+    {
+      "id": "e1a19fb0",
+      "bank_id": "30af3602",
+      "text": "Oğlun sürekli kavga çıkarıyor. Dün bana tekme attı."
+    },
+    {
+      "id": "e37e3f24",
+      "bank_id": "30af3602",
+      "text": "Oğlun çok kaba."
+    },
+    {
+      "id": "e435cb10",
+      "bank_id": "30af3602",
+      "text": "Kızınla biraz vakit geçirecek misin?"
+    },
+    {
+      "id": "e435cb11",
+      "bank_id": "30af3602",
+      "text": "O kızını sürekli buralarda oynarken görüyorum."
+    },
+    {
+      "id": "e435cb12",
+      "bank_id": "30af3602",
+      "text": "Aah, küçük prensesini tekrar görmek için sabırsızlanıyor olmalısın."
+    },
+    {
+      "id": "e435cb13",
+      "bank_id": "30af3602",
+      "text": "Umarım sen uzaktayken kızın mümkün olan en iyi eğitimi alıyordur."
+    },
+    {
+      "id": "e435cb15",
+      "bank_id": "30af3602",
+      "text": "Söylememe izin verirseniz çok güzel bir kızınız var."
+    },
+    {
+      "id": "e435cb16",
+      "bank_id": "30af3602",
+      "text": "Bahse girerim kızın döndüğüne çok sevinecektir."
+    },
+    {
+      "id": "e435cb17",
+      "bank_id": "30af3602",
+      "text": "Seyahatlerinden kızına bir şeyler getirdin mi bari?"
+    },
+    {
+      "id": "e87e46c5",
+      "bank_id": "30af3602",
+      "text": "Kimse oğlunla arkadaş olmak istemiyor. Hepimiz ondan nefret ediyoruz."
+    },
+    {
+      "id": "eac0e4a2",
+      "bank_id": "30af3602",
+      "text": "Oğlun çok şanslı. Benim ailem çok sıkıcı."
+    },
+    {
+      "id": "eef96cc7",
+      "bank_id": "30af3602",
+      "text": "Bahse girerim kızına hediyeler getirmişsindir, değil mi?"
+    },
+    {
+      "id": "f3c0f28f",
+      "bank_id": "30af3602",
+      "text": "Bu sabah oğlunla ebelemece oynuyordum."
+    },
+    {
+      "id": "f52b4eb8",
+      "bank_id": "30af3602",
+      "text": "Oğlunla biraz vakit geçirecek misin?"
+    },
+    {
+      "id": "f52b4eb9",
+      "bank_id": "30af3602",
+      "text": "Şu senin çocukta her şey yolunda mı bari?"
+    },
+    {
+      "id": "f52b4eba",
+      "bank_id": "30af3602",
+      "text": "Oğlunu tekrar görmek için sabırsızlanıyor olmalısın."
+    },
+    {
+      "id": "f52b4ebb",
+      "bank_id": "30af3602",
+      "text": "Sen uzaktayken oğlunun dersleri iyi gidiyor mu bari? Umarım öyledir."
+    },
+    {
+      "id": "f52b4ebd",
+      "bank_id": "30af3602",
+      "text": "Bahse girerim sen maceralardayken oğlun seni çok özlüyordur."
+    },
+    {
+      "id": "f52b4ebe",
+      "bank_id": "30af3602",
+      "text": "Oğlun geri döndüğünü görünce çok sevinecektir."
+    },
+    {
+      "id": "f52b4ebf",
+      "bank_id": "30af3602",
+      "text": "O sokaklar oğlun gibi küçük erkek çocukları için tekin değil."
+    },
+    {
+      "id": "f5f977ca",
+      "bank_id": "30af3602",
+      "text": "Kızını bir göreve götürecek misin?"
+    }
+  ]
+}

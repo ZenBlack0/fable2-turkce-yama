@@ -1,0 +1,676 @@
+{
+  "bank_id": "00f75202",
+  "total_strings": 134,
+  "strings": [
+    {
+      "id": "00579c38",
+      "bank_id": "00f75202",
+      "text": "Ne o, bizimle tek başına dövüşemeyecek kadar zayıf mıydın?"
+    },
+    {
+      "id": "00579c39",
+      "bank_id": "00f75202",
+      "text": "Arkadaşın evde kalsaydı daha iyi ederdi. Ama en azından şimdi yalnız ölmeyeceksin."
+    },
+    {
+      "id": "00579c3b",
+      "bank_id": "00f75202",
+      "text": "Misafir getirmemeliydin. İkiniz birden öldüğünüzde çok kötü bir ev sahibi durumuna düşeceksin."
+    },
+    {
+      "id": "028218c0",
+      "bank_id": "00f75202",
+      "text": "Hayatını saflık arayışıyla heba ettin. Kendinden esirgediğin onca zevke rağmen solucanlar seni de herkes gibi yiyip bitirecek."
+    },
+    {
+      "id": "03cc9260",
+      "bank_id": "00f75202",
+      "text": "Beni fena halde hayal kırıklığına uğrattın."
+    },
+    {
+      "id": "03cc9263",
+      "bank_id": "00f75202",
+      "text": "Hepimiz senin hakkında büyük bir hayal kırıklığına uğradık, bilesin."
+    },
+    {
+      "id": "041de6f8",
+      "bank_id": "00f75202",
+      "text": "İkinizi de adalete teslim edeceğim!"
+    },
+    {
+      "id": "041de6fb",
+      "bank_id": "00f75202",
+      "text": "Sen ve arkadaşın nalları dikeceksiniz!"
+    },
+    {
+      "id": "064076a9",
+      "bank_id": "00f75202",
+      "text": "Ne kadar saf olduğun umurumda değil, benim gözümde çürümüşün tekisin!"
+    },
+    {
+      "id": "064076aa",
+      "bank_id": "00f75202",
+      "text": "Bedenine tapınak muamelesi yapıyorsun madem, dünyadaki geri kalan bedenlere neden öyle davranmıyorsun?"
+    },
+    {
+      "id": "0c672eb8",
+      "bank_id": "00f75202",
+      "text": "Kasabadaki herkes seni çok takdir ederdi. Ve sonra gidip böyle aptalca bir şey yapıyorsun."
+    },
+    {
+      "id": "0c672ebb",
+      "bank_id": "00f75202",
+      "text": "Bir zamanlar arkadaş olabileceğimizi sanmıştım. İşin bu noktaya gelmesi ne yazık."
+    },
+    {
+      "id": "0f79a2ec",
+      "bank_id": "00f75202",
+      "text": "Fırsatın varken cezayı ödemeliydin."
+    },
+    {
+      "id": "0f79a2ef",
+      "bank_id": "00f75202",
+      "text": "En iyi suçlu ölü suçludur. Ya da cezasını ödeyen suçludur."
+    },
+    {
+      "id": "135a974c",
+      "bank_id": "00f75202",
+      "text": "Senin kadar ünlü birini öldürme fırsatı bulacağım hiç aklıma gelmezdi."
+    },
+    {
+      "id": "135a974d",
+      "bank_id": "00f75202",
+      "text": "SENİNLE dövüştüğüme inanamıyorum! Harika bir şey değil mi bu?"
+    },
+    {
+      "id": "135a974e",
+      "bank_id": "00f75202",
+      "text": "Ah evet, adını duymuştum. Haydut kampında seni ilk kimin indireceğine dair iddiaya tutuştuk."
+    },
+    {
+      "id": "16da6f44",
+      "bank_id": "00f75202",
+      "text": "Ne kadar komik olduğun fark etmez, cezasını çekeceksin!"
+    },
+    {
+      "id": "16da6f47",
+      "bank_id": "00f75202",
+      "text": "Bana kalırsa senin gibi bütün soytarılar içeri tıkılmalı."
+    },
+    {
+      "id": "188ee5e4",
+      "bank_id": "00f75202",
+      "text": "Cici insanların başına neler geldiğini göstereyim sana."
+    },
+    {
+      "id": "188ee5e5",
+      "bank_id": "00f75202",
+      "text": "Kendini öyle iyi, öyle yüce ve ulu sanıyorsun demek. Seni yere sereyim de gör."
+    },
+    {
+      "id": "188ee5e6",
+      "bank_id": "00f75202",
+      "text": "Senin gibi sümsük iyilik meleklerine hiç tahammülüm yok. Hadi seni ölü bir meleğe çevirelim."
+    },
+    {
+      "id": "19c8df3c",
+      "bank_id": "00f75202",
+      "text": "Seni de suç ortağını da yakalayacağım!"
+    },
+    {
+      "id": "19c8df3f",
+      "bank_id": "00f75202",
+      "text": "Suçu beraber işleyenler, cezayı da beraber çeker."
+    },
+    {
+      "id": "1f68c701",
+      "bank_id": "00f75202",
+      "text": "Korkudan titremiyorum ben. Tıbbi bir durum bu. Evet, gerçekten."
+    },
+    {
+      "id": "1f68c702",
+      "bank_id": "00f75202",
+      "text": "Korkularımla yüzleşme vaktim geldi. Hadi gel bakalım. Sen ve ben!"
+    },
+    {
+      "id": "1f68c703",
+      "bank_id": "00f75202",
+      "text": "Beni korkutmaya çalışma sakın. İ-i-i-şe yaramaz!"
+    },
+    {
+      "id": "20a65d9c",
+      "bank_id": "00f75202",
+      "text": "Beni istediğiniz kadar korkutmaya çalışabilirsiniz ama ikinizin de sonu mezar olacak."
+    },
+    {
+      "id": "20a65d9e",
+      "bank_id": "00f75202",
+      "text": "Korkutucu bir ikili olabilirsiniz ama kaçacak değilim."
+    },
+    {
+      "id": "20a65d9f",
+      "bank_id": "00f75202",
+      "text": "Acayip korkutucu bir çiftsiniz valla!"
+    },
+    {
+      "id": "20d71ef8",
+      "bank_id": "00f75202",
+      "text": "Korkutma taktikleriniz bende sökmez."
+    },
+    {
+      "id": "20d71efb",
+      "bank_id": "00f75202",
+      "text": "Sen ve arkadaşın beni korkutamazsınız!"
+    },
+    {
+      "id": "211cee08",
+      "bank_id": "00f75202",
+      "text": "İnsanları korkutmaya devam etmenize izin vermeyeceğim!"
+    },
+    {
+      "id": "211cee0b",
+      "bank_id": "00f75202",
+      "text": "Çoğu insanı korkutabilirsiniz belki ama biz muhafızlar bunun üstesinden gelmek zorundayız. Oduncu olsaydım ne vardı sanki..."
+    },
+    {
+      "id": "2217ae66",
+      "bank_id": "00f75202",
+      "text": "Bir saniye dur bakalım! Ben seni erkek sanıyordum! Erkektin sen! Ne garip."
+    },
+    {
+      "id": "2217ae6d",
+      "bank_id": "00f75202",
+      "text": "Bir saniye dur bakalım! Ben seni kadın sanıyordum! Kadındın sen! Ne garip."
+    },
+    {
+      "id": "25a1022c",
+      "bank_id": "00f75202",
+      "text": "Palyaçolardan hiç hoşlanmamışımdır bilesin."
+    },
+    {
+      "id": "25a1022f",
+      "bank_id": "00f75202",
+      "text": "Suçlu olacağına soytarı olmalıymışsın sen!"
+    },
+    {
+      "id": "2662c51c",
+      "bank_id": "00f75202",
+      "text": "Benim için biraz soytarılık yapacak mısın bakalım?"
+    },
+    {
+      "id": "2662c51d",
+      "bank_id": "00f75202",
+      "text": "Tam bir soytarısın sen, değil mi?"
+    },
+    {
+      "id": "2662c51e",
+      "bank_id": "00f75202",
+      "text": "Nasıl bir palyaço olduğunu herkes bilir. Ama bundan sonra dünyada biraz daha az kahkaha olacak."
+    },
+    {
+      "id": "300b9b5c",
+      "bank_id": "00f75202",
+      "text": "Nasıl gitmek istersin? Kalbin sökülerek mi yoksa kafan uçurularak mı?"
+    },
+    {
+      "id": "300b9b5d",
+      "bank_id": "00f75202",
+      "text": "Bugünün dünyadaki son günün olacağına dair içine bir his doğmuş muydu?"
+    },
+    {
+      "id": "300b9b5f",
+      "bank_id": "00f75202",
+      "text": "Kişisel bir mesele değil ama haydutlar olarak yemin ettik. İnsanları öldür, bütün insanları öldür. Akılda tutması daha kolay oluyor böyle."
+    },
+    {
+      "id": "353d6071",
+      "bank_id": "00f75202",
+      "text": "Siz ünlü tipler her yaptığınızın yanınıza kâr kalacağını sanırsınız hep."
+    },
+    {
+      "id": "353d6072",
+      "bank_id": "00f75202",
+      "text": "Ne kadar ünlü olduğun umurumda değil. Kimse kanunun üstünde değildir."
+    },
+    {
+      "id": "393c9441",
+      "bank_id": "00f75202",
+      "text": "Soytarılık yaparak bu durumdan sıyrılamayacaksın."
+    },
+    {
+      "id": "393c9442",
+      "bank_id": "00f75202",
+      "text": "Senin gibi bir soytarıyı içeri tıkmaktan ne kadar nefret etsem de işim bu."
+    },
+    {
+      "id": "40180268",
+      "bank_id": "00f75202",
+      "text": "Bugün evinde kalsaydın daha iyiydi. Daha uzun yaşardın belki."
+    },
+    {
+      "id": "4018026a",
+      "bank_id": "00f75202",
+      "text": "Seni parça pinçik ederken etrafı biraz batırırsam kusura bakma artık. Bugün kolum biraz tutulmuş da."
+    },
+    {
+      "id": "4018026b",
+      "bank_id": "00f75202",
+      "text": "Bir daha asla başka bir haydudun canını sıkamayacaksın."
+    },
+    {
+      "id": "434efa84",
+      "bank_id": "00f75202",
+      "text": "Cinsiyet değiştirince artık kim olduğunu bilemeyeceğimizi mi sandın yani?"
+    },
+    {
+      "id": "434efa87",
+      "bank_id": "00f75202",
+      "text": "Hey, sen eskiden bir...? Neyse, boş ver."
+    },
+    {
+      "id": "454908c4",
+      "bank_id": "00f75202",
+      "text": "Madem ünlüsün, seni öldürünce ben de ünlü olacağım değil mi?"
+    },
+    {
+      "id": "454908c5",
+      "bank_id": "00f75202",
+      "text": "Kafanı bir kupa gibi gezdirerek meşhur olacağım."
+    },
+    {
+      "id": "454908c7",
+      "bank_id": "00f75202",
+      "text": "Her zaman ünlü birini öldürmek istemişimdir. Annem benimle öyle gurur duyacak ki."
+    },
+    {
+      "id": "4603c020",
+      "bank_id": "00f75202",
+      "text": "Yeterince insanı korkuttun, terör saltanatına son verme vakti geldi."
+    },
+    {
+      "id": "4603c023",
+      "bank_id": "00f75202",
+      "text": "Korkutucu tiplerden hoşlanmam ama yapacak bir işim var."
+    },
+    {
+      "id": "4c14b73c",
+      "bank_id": "00f75202",
+      "text": "Sizin gibi bencil olmayan, cömert tipleri hiç anlamıyorum. İyi olmanın ne anlamı var ki?"
+    },
+    {
+      "id": "4c14b73d",
+      "bank_id": "00f75202",
+      "text": "İyi insanlar bu dünyada fazla tutunamaz. Senin de tutunamayacağın kesin."
+    },
+    {
+      "id": "4c14b73f",
+      "bank_id": "00f75202",
+      "text": "Bu dünyayı yaşanmaz kılanlar tam da senin gibi aziz bozuntularıdır işte."
+    },
+    {
+      "id": "50ca0ead",
+      "bank_id": "00f75202",
+      "text": "Çoklukta güç arıyorsunuz ama biz yine de daha güçlüyüz."
+    },
+    {
+      "id": "50ca0eae",
+      "bank_id": "00f75202",
+      "text": "İkinizi birden öldürürsek ikramiye alıyoruz."
+    },
+    {
+      "id": "50e5b1f9",
+      "bank_id": "00f75202",
+      "text": "Ne iğrenç bir suçlu çiftisiniz siz böyle."
+    },
+    {
+      "id": "50e5b1fa",
+      "bank_id": "00f75202",
+      "text": "İkinizin de yeri parmaklıklar arkası!"
+    },
+    {
+      "id": "573b53f4",
+      "bank_id": "00f75202",
+      "text": "Bir kişi öldürmüşüm, iki kişi öldürmüşüm... Benim için hiç fark etmez."
+    },
+    {
+      "id": "573b53f6",
+      "bank_id": "00f75202",
+      "text": "Ayyy, ne kadar tatlı değil mi? Randevuya mı çıktınız siz ikiniz?"
+    },
+    {
+      "id": "573b53f7",
+      "bank_id": "00f75202",
+      "text": "Ne kadar da romantik! Birlikte ölebilirsiniz."
+    },
+    {
+      "id": "5e750429",
+      "bank_id": "00f75202",
+      "text": "Albion'un pisliğini temizlemek benim görevim. Ve görünen o ki sen de o pisliğin bir parçasısın."
+    },
+    {
+      "id": "5e75042a",
+      "bank_id": "00f75202",
+      "text": "Suç dolu bir hayata asla adım atmamalıydın. Nedenini birazdan anlayacaksın."
+    },
+    {
+      "id": "645c4dc8",
+      "bank_id": "00f75202",
+      "text": "Pek bir cici ve iyi biri olmayı seviyorsun değil mi? Sonunda seni öldürecek olan da bu işte. Fazla yumuşaksın."
+    },
+    {
+      "id": "645c4dca",
+      "bank_id": "00f75202",
+      "text": "Başkalarına yardım etmeye daha az, kendine yardım etmeye daha çok vakit ayırmalıydın."
+    },
+    {
+      "id": "645c4dcb",
+      "bank_id": "00f75202",
+      "text": "Karanlık tarafa geçsene, seni yufka yürekli ahlak budalası."
+    },
+    {
+      "id": "653b49bd",
+      "bank_id": "00f75202",
+      "text": "Beni nasıl güldüreceğini biliyorsun, hakkını teslim edeyim."
+    },
+    {
+      "id": "653b49be",
+      "bank_id": "00f75202",
+      "text": "Bana anlatacak güzel fıkran var mı?"
+    },
+    {
+      "id": "653b49bf",
+      "bank_id": "00f75202",
+      "text": "Şebeklik yapmayı bırakabilirsin. Hiç gülecek havamda değilim."
+    },
+    {
+      "id": "68df8864",
+      "bank_id": "00f75202",
+      "text": "Kanunları beraber mi çiğniyorsunuz siz? Zavallıca."
+    },
+    {
+      "id": "68df8867",
+      "bank_id": "00f75202",
+      "text": "İkiniz de suçlarınızın bedelini ödeyeceksiniz."
+    },
+    {
+      "id": "793f5809",
+      "bank_id": "00f75202",
+      "text": "Onca yaptığın iyilikten sonra neden suç dolu bir hayata yöneldiğin tam bir muamma."
+    },
+    {
+      "id": "793f580a",
+      "bank_id": "00f75202",
+      "text": "Yaptığın onca iyilik muhafızların seni tutuklamasına engel olmayacak."
+    },
+    {
+      "id": "8fa7d5ad",
+      "bank_id": "00f75202",
+      "text": "Benim gibi insanların ekmek parası için çalışmasına sebep olanlar tam da senin gibi tiplerdir. Ve ben çalışmaktan nefret ederim."
+    },
+    {
+      "id": "8fa7d5ae",
+      "bank_id": "00f75202",
+      "text": "Benim için sıradan bir işten ibaretsin."
+    },
+    {
+      "id": "96efdb96",
+      "bank_id": "00f75202",
+      "text": "Bir saniye dur bakalım! Bana senin bir kız olduğunu söylemişlerdi! Neler dönüyor burada?!"
+    },
+    {
+      "id": "96efdb9d",
+      "bank_id": "00f75202",
+      "text": "Bir saniye dur bakalım! Bana senin bir adam olduğunu söylemişlerdi! Neler dönüyor burada?!"
+    },
+    {
+      "id": "99b935d8",
+      "bank_id": "00f75202",
+      "text": "Haydut olmaman ne acı."
+    },
+    {
+      "id": "99b935d9",
+      "bank_id": "00f75202",
+      "text": "Aslında fena biri sayılmazsın. Ama ben iyi tipleri de öldürme eğilimindeyimdir."
+    },
+    {
+      "id": "99b935da",
+      "bank_id": "00f75202",
+      "text": "Bu benim canımı senin canından daha çok yakacak. Ama benimki sadece duygusal bir acı olacak."
+    },
+    {
+      "id": "a4de4e79",
+      "bank_id": "00f75202",
+      "text": "Neredeyse bir haydutsun sen. İnsan kendi türüne neden sırt çevirir ki?"
+    },
+    {
+      "id": "a4de4e7a",
+      "bank_id": "00f75202",
+      "text": "Bunu bize nasıl yaparsın? Arkadaş olduğumuzu sanıyordum."
+    },
+    {
+      "id": "a4de4e7b",
+      "bank_id": "00f75202",
+      "text": "Biliyor musun, aslında iyi birisin sen. Ama yine de seni öldürmek zorundayım."
+    },
+    {
+      "id": "a50a1959",
+      "bank_id": "00f75202",
+      "text": "İkiniz bayağı yırtıcısınız."
+    },
+    {
+      "id": "a50a195a",
+      "bank_id": "00f75202",
+      "text": "Siz iki iblise fazla yaklaşmayacağım."
+    },
+    {
+      "id": "a50a195b",
+      "bank_id": "00f75202",
+      "text": "Tam bir canavar ikilisisiniz siz."
+    },
+    {
+      "id": "a886d220",
+      "bank_id": "00f75202",
+      "text": "Kabuslarımdan mı fırladınız siz ikiniz?"
+    },
+    {
+      "id": "a886d221",
+      "bank_id": "00f75202",
+      "text": "Korkutucu olduğunuzu mu sanıyorsunuz? Daha hiçbir şey görmediniz."
+    },
+    {
+      "id": "a886d223",
+      "bank_id": "00f75202",
+      "text": "Ne oldu? Beni sindirmek için korkunç arkadaşını getirmek zorunda mı kaldın? İşe yaramaz! Pek sayılmaz yani."
+    },
+    {
+      "id": "aa44c04c",
+      "bank_id": "00f75202",
+      "text": "İyi bir insan olduğunu sanıyordum ama görünüşe göre yanılmışım."
+    },
+    {
+      "id": "aa44c04f",
+      "bank_id": "00f75202",
+      "text": "Senin gibi aziz mertebesinde birinin neden suça bulaştığını bilmiyorum ama buna bir son verilmeli."
+    },
+    {
+      "id": "b30bbc81",
+      "bank_id": "00f75202",
+      "text": "Öyle güzel bir hayat yaşıyordun ki. Neden gidip böyle berbat ettin her şeyi?"
+    },
+    {
+      "id": "b30bbc82",
+      "bank_id": "00f75202",
+      "text": "Eskiden senden hoşlanırdım ama artık değil."
+    },
+    {
+      "id": "b3ec210d",
+      "bank_id": "00f75202",
+      "text": "Erdemli bir hayattan neden yüz çevirdin ki?"
+    },
+    {
+      "id": "b3ec210e",
+      "bank_id": "00f75202",
+      "text": "Geçmişte pek çok iyilik yapmış olabilirsin ama bu bir mazeret değil."
+    },
+    {
+      "id": "bca03593",
+      "bank_id": "00f75202",
+      "text": "Sen erkek değil miydin ya!? Ne oluyor lan?"
+    },
+    {
+      "id": "bca03598",
+      "bank_id": "00f75202",
+      "text": "Sen kadın değil miydin ya!? Ne oluyor lan?"
+    },
+    {
+      "id": "ca747c20",
+      "bank_id": "00f75202",
+      "text": "Sevgiye bu kadar mı muhtaçsın da karşılaştığın herkesi memnun etmek zorundasın? Sadece omurgasızlar bu kadar iyilik yapar."
+    },
+    {
+      "id": "d7d70ddc",
+      "bank_id": "00f75202",
+      "text": "Kendine bir kusur edinmeliydin. Şimdi hiçbir şeyin tadını çıkaramadan ölüp gideceksin."
+    },
+    {
+      "id": "d7d70ddd",
+      "bank_id": "00f75202",
+      "text": "İnsan hayatı boyunca hiçbir zaafı olmadan nasıl yaşayabilir ki?"
+    },
+    {
+      "id": "d7d70ddf",
+      "bank_id": "00f75202",
+      "text": "Bedenine tapınak gibi davranıyorsun demek? Tapınakları yakmak benim hobimdir valla."
+    },
+    {
+      "id": "d8245cbc",
+      "bank_id": "00f75202",
+      "text": "Eskiden fena biri olmadığını düşünürdüm ama şimdi seni öldüreceğim."
+    },
+    {
+      "id": "d8245cbe",
+      "bank_id": "00f75202",
+      "text": "Başka bir hayatta arkadaş olabilirdik. Neyse artık."
+    },
+    {
+      "id": "d8245cbf",
+      "bank_id": "00f75202",
+      "text": "Çok değişmişsin sen!"
+    },
+    {
+      "id": "d8701d75",
+      "bank_id": "00f75202",
+      "text": "Bir asker dehşeti görmezden gelmek üzere eğitilir."
+    },
+    {
+      "id": "d8701d76",
+      "bank_id": "00f75202",
+      "text": "Bizi korkutmak için yanına birini getirmek zorunda kaldın demek ha?"
+    },
+    {
+      "id": "d9b074ad",
+      "bank_id": "00f75202",
+      "text": "Ne oldu? Karşımıza tek başına çıkmaktan fazla mı korktun?"
+    },
+    {
+      "id": "d9b074ae",
+      "bank_id": "00f75202",
+      "text": "İkiniz de bugün burada öleceksiniz."
+    },
+    {
+      "id": "e5fcc6b4",
+      "bank_id": "00f75202",
+      "text": "Demek ünlü maceracı sensin. Benim gözümde bütün suçlular aynıdır."
+    },
+    {
+      "id": "e5fcc6b7",
+      "bank_id": "00f75202",
+      "text": "Medeni toplumun kurallarına uymayacak kadar ünlü olduğunu sanıyorsun demek? Sana o kurallardan birkaçını öğreteyim."
+    },
+    {
+      "id": "e7c716a5",
+      "bank_id": "00f75202",
+      "text": "Suçlu çiftsiniz demek ha?"
+    },
+    {
+      "id": "e7c716a6",
+      "bank_id": "00f75202",
+      "text": "Suçluların çiftler halinde gelmesinden daha beteri yoktur."
+    },
+    {
+      "id": "ec11c0d4",
+      "bank_id": "00f75202",
+      "text": "Soytarılık yaptığını görmeyi umuyordum ama buna hiç vakit yok."
+    },
+    {
+      "id": "ec11c0d5",
+      "bank_id": "00f75202",
+      "text": "Hadi ama o zaman, seni öldürmeden önce beni biraz güldür."
+    },
+    {
+      "id": "ec11c0d7",
+      "bank_id": "00f75202",
+      "text": "Amma komik bir hobbe emicisin sen! Seni haklamak zorunda olmam ne acı."
+    },
+    {
+      "id": "ee5e3db0",
+      "bank_id": "00f75202",
+      "text": "Sen ve yoldaşın Lucien'in ordusunun yoluna taş koyuyorsunuz."
+    },
+    {
+      "id": "ee5e3db3",
+      "bank_id": "00f75202",
+      "text": "Pek tatlı bir çift olmuşsunuz. Ha ha!"
+    },
+    {
+      "id": "ef47f8d3",
+      "bank_id": "00f75202",
+      "text": "Kendini başkalarından üstün mü sanıyorsun? Yaptıkların iyilik değil, sadece bencillik. Takdir edilmeye can atıyorsun."
+    },
+    {
+      "id": "f76a82b9",
+      "bank_id": "00f75202",
+      "text": "Sen herkesin emrini yerine getiren zavallı bir dikkat budalasısın. Kendi başına düşünemiyor musun?"
+    },
+    {
+      "id": "fc875d04",
+      "bank_id": "00f75202",
+      "text": "Hımm, önce hangi gözünü oysam acaba?"
+    },
+    {
+      "id": "fc875d05",
+      "bank_id": "00f75202",
+      "text": "Bütün hafta öldürme öfkemi sırf senin için biriktirdim."
+    },
+    {
+      "id": "fc875d06",
+      "bank_id": "00f75202",
+      "text": "Senin hakkında kararsızdım. Ama artık kararımı verdim. Kafanı uçurma vakti geldi."
+    },
+    {
+      "id": "fcd3a950",
+      "bank_id": "00f75202",
+      "text": "İkinizin de karnını deşeceğim."
+    },
+    {
+      "id": "fcd3a951",
+      "bank_id": "00f75202",
+      "text": "Yanında arkadaş getirmişsin bakıyorum? Ne kadar da cici."
+    },
+    {
+      "id": "fcd3a952",
+      "bank_id": "00f75202",
+      "text": "Bak sen şu işe. Bir fiyatına iki kukla birden."
+    },
+    {
+      "id": "ffe51170",
+      "bank_id": "00f75202",
+      "text": "Korkutucu bir çiftsiniz!"
+    },
+    {
+      "id": "ffe51173",
+      "bank_id": "00f75202",
+      "text": "İkiniz de beni korkutmayı umamazsınız."
+    }
+  ]
+}

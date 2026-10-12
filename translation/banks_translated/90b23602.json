@@ -1,0 +1,636 @@
+{
+  "bank_id": "90b23602",
+  "total_strings": 126,
+  "strings": [
+    {
+      "id": "1184798a",
+      "bank_id": "90b23602",
+      "text": "Şu kulede neler dönüyor Allah aşkına?"
+    },
+    {
+      "id": "1184798b",
+      "bank_id": "90b23602",
+      "text": "Aynen öyle! Ben bunun için kaydolmadım valla!"
+    },
+    {
+      "id": "1184798c",
+      "bank_id": "90b23602",
+      "text": "Şu tekneyle bir yolculuğa daha dayanabilir miyim bilmiyorum. Ama burada kalmaktan iyidir!"
+    },
+    {
+      "id": "1184798d",
+      "bank_id": "90b23602",
+      "text": "Şu herifi dinliyorum ben. Ne konuştuğunu biliyor."
+    },
+    {
+      "id": "1184798e",
+      "bank_id": "90b23602",
+      "text": "Neler döndüğünü bilmiyorum ama burada kalacak değilim."
+    },
+    {
+      "id": "146812f0",
+      "bank_id": "90b23602",
+      "text": "Ortadan kaybolduktan sonra kimse seni bir daha görebileceğini sanmıyordu."
+    },
+    {
+      "id": "146812f3",
+      "bank_id": "90b23602",
+      "text": "Lucien'in elinden mi kaçtın? Neler oldu öyle??"
+    },
+    {
+      "id": "146812f7",
+      "bank_id": "90b23602",
+      "text": "Demek Kule'yi ziyaret ettin ve bunu anlatacak kadar hayatta kaldın ha? Neler dönüyor orada?"
+    },
+    {
+      "id": "1b681df3",
+      "bank_id": "90b23602",
+      "text": "Kule'deyken bizim kuzeni görmedin değil mi tesadüfen? Dört yıldır haber alamıyoruz kendisinden..."
+    },
+    {
+      "id": "1b681df4",
+      "bank_id": "90b23602",
+      "text": "Öldüğüne kalıbımı basardım valla. Kaçmayı nasıl becerdin?"
+    },
+    {
+      "id": "1b681df6",
+      "bank_id": "90b23602",
+      "text": "Hakikaten o Kule'de miydin sen? İçeride neler yaşanıyor?"
+    },
+    {
+      "id": "1cf59f41",
+      "bank_id": "90b23602",
+      "text": "Brightwood'daki o şey neydi sence peki? Bir nevi... ne bileyim, taştan bir uçurtma mıydı neydi? İpi görünmüyordu gerçi..."
+    },
+    {
+      "id": "27f5b0f0",
+      "bank_id": "90b23602",
+      "text": "Günlerce burada kaldı! Öylece havada süzülüp durdu! Hayatımda gördüğüm en acayip şeydi."
+    },
+    {
+      "id": "27f5b0f7",
+      "bank_id": "90b23602",
+      "text": "Hayatımda gördüğüm en mucizevi şeydi! Havada asılı duran ters bir piramit, arazimizi teftiş ediyordu resmen!"
+    },
+    {
+      "id": "2cfe3838",
+      "bank_id": "90b23602",
+      "text": "O Kule'de korkunç şeyler yaptığını duydum."
+    },
+    {
+      "id": "2cfe383a",
+      "bank_id": "90b23602",
+      "text": "Millet o Kule'de dehşet verici şeyler yaptığını söylüyor."
+    },
+    {
+      "id": "2cfe383b",
+      "bank_id": "90b23602",
+      "text": "Kule'de yaptığın o fena şeylerin hepsini biliyorum. Herkes biliyor zaten."
+    },
+    {
+      "id": "2cfe383d",
+      "bank_id": "90b23602",
+      "text": "Kule'deki o zavallı mahkûmlara bütün o korkunç şeyleri nasıl yapabildin?"
+    },
+    {
+      "id": "2dfb6fb8",
+      "bank_id": "90b23602",
+      "text": "Sen olmasaydın o zavallılar açlıktan ölecekti."
+    },
+    {
+      "id": "2dfb6fb9",
+      "bank_id": "90b23602",
+      "text": "Speck'e çok büyük bir iyilik yaptın. Zavallı çocuk açlıktan ölmek üzereydi."
+    },
+    {
+      "id": "2dfb6fbd",
+      "bank_id": "90b23602",
+      "text": "İyi kalpli birisin sen. O garibana birazcık yemek verdin ya."
+    },
+    {
+      "id": "2dfb6fbe",
+      "bank_id": "90b23602",
+      "text": "Muhafızların çoğuna benzemiyorsun sen, değil mi? O insanlara yemek verdiğini duydum. Helal olsun sana!"
+    },
+    {
+      "id": "2dfb6fbf",
+      "bank_id": "90b23602",
+      "text": "O zavallı adam açlıktan ölüyordu ve sen ona el uzattın, değil mi? O kadar da kötü biri değilmişsin meğer."
+    },
+    {
+      "id": "31fe3fd9",
+      "bank_id": "90b23602",
+      "text": "O korkunç kulede insanlara işkence ettiğin doğru mu sahiden?"
+    },
+    {
+      "id": "31fe3fda",
+      "bank_id": "90b23602",
+      "text": "O kuledeyken insanlara eziyet ettiğin doğru mu sahiden?"
+    },
+    {
+      "id": "31fe3fdb",
+      "bank_id": "90b23602",
+      "text": "O Kule'de ne yaptın bilmiyorum ama millet senin çok acımasız olduğunu söylüyor."
+    },
+    {
+      "id": "31fe3fdc",
+      "bank_id": "90b23602",
+      "text": "O Kule'de ne dolaplar çevirdiğini herkes biliyor."
+    },
+    {
+      "id": "3753e62e",
+      "bank_id": "90b23602",
+      "text": "Komutan ne dediyse yaptın diye seni suçlayamam. Yalvarmak ölmekten iyidir, değil mi?"
+    },
+    {
+      "id": "466705ea",
+      "bank_id": "90b23602",
+      "text": "Seni zayıf şey seni. İhtiyar Komutan her emrettiğinde köpek gibi yalvaracak mısın öyle?"
+    },
+    {
+      "id": "466705eb",
+      "bank_id": "90b23602",
+      "text": "Komutan'ın kucak köpeğisin sen, başka bir şey değil."
+    },
+    {
+      "id": "466705ec",
+      "bank_id": "90b23602",
+      "text": "Demek Komutan senin de iradeni kırdı ha? Hepinizi yalvartıyor. Sen de tıpkı bizim gibi bir mahkûmsun işte."
+    },
+    {
+      "id": "466705ed",
+      "bank_id": "90b23602",
+      "text": "Peh, sen de diğerleri kadar acizsin işte, Komutan ne isterse onu yapıyorsun."
+    },
+    {
+      "id": "466705ef",
+      "bank_id": "90b23602",
+      "text": "Komutan'ın seni nasıl yalvarttığını duydum."
+    },
+    {
+      "id": "537c7ad1",
+      "bank_id": "90b23602",
+      "text": "Kule'den kimin kaçtığını bilen var mı acaba?"
+    },
+    {
+      "id": "537c7ad2",
+      "bank_id": "90b23602",
+      "text": "Hey, şu Kule'den kaçıp kurtulanlardan biri değil mi ya?"
+    },
+    {
+      "id": "537c7ad3",
+      "bank_id": "90b23602",
+      "text": "Kule'den kaçmayı başaran o birkaç kişiden biri olduğuna adım gibi eminim."
+    },
+    {
+      "id": "537c7ad4",
+      "bank_id": "90b23602",
+      "text": "Gökyüzündeki şu koca sopadan kaçan mahkûmlardan biri olduğunu düşünüyor musun? Hani şu Lucien'in koca kule gibi şeyi!"
+    },
+    {
+      "id": "537c7ad5",
+      "bank_id": "90b23602",
+      "text": "O Kule'de her türlü acayip işler dönüyor. Ve şimdi de birkaç kişi oradan kaçmayı başarmış!"
+    },
+    {
+      "id": "5d3780e8",
+      "bank_id": "90b23602",
+      "text": "O aşağılığa sahiden kafa tuttun mu? Helal olsun be!"
+    },
+    {
+      "id": "5d3780e9",
+      "bank_id": "90b23602",
+      "text": "Komutan'a kafa tutabilecek pek kimse çıkmazdı. Aferin sana!"
+    },
+    {
+      "id": "5d3780ec",
+      "bank_id": "90b23602",
+      "text": "Komutan'a sahiden haddini bildirdin, değil mi?"
+    },
+    {
+      "id": "5d3780ee",
+      "bank_id": "90b23602",
+      "text": "Komutan'a sahiden kafa tuttun. Helal olsun sana."
+    },
+    {
+      "id": "5d3780ef",
+      "bank_id": "90b23602",
+      "text": "Komutan'a defolup gitmesini söylediğini duydum! Keşke bütün muhafızlar ona senin gibi karşı koyabilseydi."
+    },
+    {
+      "id": "5e7c8c00",
+      "bank_id": "90b23602",
+      "text": "Doğru mu sahiden?? Kule'den mahkûmlar mı kaçmış?"
+    },
+    {
+      "id": "5e7c8c02",
+      "bank_id": "90b23602",
+      "text": "Lucien'in Kulesi'ndeki firarı duydun mu? Ne anlama geliyor bütün bunlar?"
+    },
+    {
+      "id": "5e7c8c03",
+      "bank_id": "90b23602",
+      "text": "Belki de Lucien'in şu Kulesi'nde ne dolaplar çevirdiğini sonunda öğreniriz."
+    },
+    {
+      "id": "5e7c8c04",
+      "bank_id": "90b23602",
+      "text": "O Kule'de neler dönüyor yahu? Şu firardan sonra her türlü hikâyeyi duyar olduk."
+    },
+    {
+      "id": "5e7c8c05",
+      "bank_id": "90b23602",
+      "text": "Kardeşimi Lucien'in lanet Kulesi'ne kurban verdim ama duyduğuma göre son zamanlarda kaçmayı başaranlar olmuş."
+    },
+    {
+      "id": "655c1f60",
+      "bank_id": "90b23602",
+      "text": "Öyle kurallara karşı gelip duramazsın. Yapanların başına ne geldiğini gördüm ben."
+    },
+    {
+      "id": "6e2ef6c0",
+      "bank_id": "90b23602",
+      "text": "Yoksullar bile sihirli uçan yapılar tarafından katledilmeyi hak etmez."
+    },
+    {
+      "id": "6e2ef6c4",
+      "bank_id": "90b23602",
+      "text": "Brightwood'da havada uçuşan o katil kayayla Lucien'in bir ilgisi olduğunu tahmin etmeliydik."
+    },
+    {
+      "id": "6e2ef6c5",
+      "bank_id": "90b23602",
+      "text": "O uçan zamazingo tarafından öldürülen bazı insanları tanıyordum. Başa gelecek iş değil."
+    },
+    {
+      "id": "71a54848",
+      "bank_id": "90b23602",
+      "text": "Kule'deki o zavallı insanlara hakikaten yardım ettiğini duydum."
+    },
+    {
+      "id": "71a5484a",
+      "bank_id": "90b23602",
+      "text": "Kule'deyken insanlara yardım ettiğini duymak içimi ferahlattı."
+    },
+    {
+      "id": "71a5484b",
+      "bank_id": "90b23602",
+      "text": "Kule'den kaçan bir başkası içeride çok güzel şeyler yaptığını söyledi."
+    },
+    {
+      "id": "71a5484d",
+      "bank_id": "90b23602",
+      "text": "Kaçan bazı mahkûmlar o Kule'de onlara karşı çok iyi davrandığını söylüyor."
+    },
+    {
+      "id": "752f01c8",
+      "bank_id": "90b23602",
+      "text": "Gökyüzünde uçup insanları öldüren koca kayalar... Sırada ne var acaba? Uçan katil domuzlar mı? Uçan atsız arabalar mı?"
+    },
+    {
+      "id": "76a55069",
+      "bank_id": "90b23602",
+      "text": "Kule'deki o zavallı insanlara yardım ettiğin doğru mu sahiden? Çok sevindim."
+    },
+    {
+      "id": "76a5506a",
+      "bank_id": "90b23602",
+      "text": "Şu Kule'de bulunan kişi sendin, değil mi? İnsanlara yardım eli uzatan kişi. Çok iyi iş çıkarmışsın."
+    },
+    {
+      "id": "76a5506b",
+      "bank_id": "90b23602",
+      "text": "Kule'deki insanlara sahiden yardım ettiğini duydum. Çok sevindim."
+    },
+    {
+      "id": "76a5506c",
+      "bank_id": "90b23602",
+      "text": "Kule'de muhafızlık yapmaya içinin elvermediğini duydum. Fazla yufka yürekliymişsin dediklerine göre."
+    },
+    {
+      "id": "76bee59a",
+      "bank_id": "90b23602",
+      "text": "Çıkarın beni buradan!"
+    },
+    {
+      "id": "76bee59b",
+      "bank_id": "90b23602",
+      "text": "Bizi burada bırakıp gitmiyorsunuz değil mi?"
+    },
+    {
+      "id": "76bee59c",
+      "bank_id": "90b23602",
+      "text": "Merhamet edin bize! Sizinle birlikte kaçmamıza izin verin!"
+    },
+    {
+      "id": "76bee59d",
+      "bank_id": "90b23602",
+      "text": "Bekleyin! Bizi arkada bırakmayın!"
+    },
+    {
+      "id": "76bee59e",
+      "bank_id": "90b23602",
+      "text": "Kurtarın beni! Kurtarın beni!"
+    },
+    {
+      "id": "915d31d4",
+      "bank_id": "90b23602",
+      "text": "Aaa, demek benim annem sensin!"
+    },
+    {
+      "id": "915d31df",
+      "bank_id": "90b23602",
+      "text": "Aaa, demek benim babam sensin!"
+    },
+    {
+      "id": "a3ac2305",
+      "bank_id": "90b23602",
+      "text": "O sefile yemek vermemekle en doğrusunu yaptın. Bu mahkûmlara elini versen kolunu kaptırırsın valla."
+    },
+    {
+      "id": "a6c92491",
+      "bank_id": "90b23602",
+      "text": "Bütün bunların gerçek olamayacak kadar güzel olduğunu biliyordum zaten."
+    },
+    {
+      "id": "a6c92492",
+      "bank_id": "90b23602",
+      "text": "Burası içimi ürpertiyor zaten."
+    },
+    {
+      "id": "a6c92493",
+      "bank_id": "90b23602",
+      "text": "Hadi, gidelim buradan. O kule tekinsiz bir yer."
+    },
+    {
+      "id": "a6c92494",
+      "bank_id": "90b23602",
+      "text": "Batsın bu iş. Ben sadece altın için gelmiştim."
+    },
+    {
+      "id": "a6c92495",
+      "bank_id": "90b23602",
+      "text": "Beni buraya yalan dolanla getirdiler. Düpedüz kandırdılar beni diyorum sana!"
+    },
+    {
+      "id": "af554bc1",
+      "bank_id": "90b23602",
+      "text": "Şu havada uçan koca kayayı gördün mü? Delilik resmen, değil mi?"
+    },
+    {
+      "id": "b4464bc8",
+      "bank_id": "90b23602",
+      "text": "Hadi ama, çıkarın bizi!"
+    },
+    {
+      "id": "b4464bc9",
+      "bank_id": "90b23602",
+      "text": "Bizi burada çürümeye terk etmezdin, değil mi?"
+    },
+    {
+      "id": "b4464bcc",
+      "bank_id": "90b23602",
+      "text": "Beni de yanında götür! Lütfen!"
+    },
+    {
+      "id": "b4464bce",
+      "bank_id": "90b23602",
+      "text": "Burada ölmek istemiyorum!"
+    },
+    {
+      "id": "b4464bcf",
+      "bank_id": "90b23602",
+      "text": "Biz de özgürlüğümüzü hak ediyoruz!"
+    },
+    {
+      "id": "b45553e1",
+      "bank_id": "90b23602",
+      "text": "Bize lazım olan şey o uçan kayalardan birkaç tane daha; Albion'u şöyle esaslıca bir temizlerdi."
+    },
+    {
+      "id": "b45553e3",
+      "bank_id": "90b23602",
+      "text": "Gördüğümüz o kadim uçan aygıt ile Lucien'in uzaktaki Kulesi arasında kesin bir bağ var."
+    },
+    {
+      "id": "b45553e5",
+      "bank_id": "90b23602",
+      "text": "Doğru mu sahiden? O devasa uçan kaya Kule'den mi gelmiş? Birinin şu Lucien'i durdurması gerek artık!"
+    },
+    {
+      "id": "c9745dc8",
+      "bank_id": "90b23602",
+      "text": "Lütfen, çıkarın beni."
+    },
+    {
+      "id": "c9745dc9",
+      "bank_id": "90b23602",
+      "text": "Bizi burada çürümeye terk etmezdiniz, değil mi?"
+    },
+    {
+      "id": "c9745dcb",
+      "bank_id": "90b23602",
+      "text": "Bırakmayın beni burada!"
+    },
+    {
+      "id": "c9745dce",
+      "bank_id": "90b23602",
+      "text": "Bize bir iyilik yap dostum ve çıkar bizi buradan."
+    },
+    {
+      "id": "c9745dcf",
+      "bank_id": "90b23602",
+      "text": "Lütfen, yalvarıyorum sana!"
+    },
+    {
+      "id": "d02c9e8b",
+      "bank_id": "90b23602",
+      "text": "Bana sorarsan bir tür reklam hilesiydi o. Yaz kenara, bugün yarın birisi çıkıp o şeyin ufak modellerini satmaya kalkışır bize."
+    },
+    {
+      "id": "d0de0071",
+      "bank_id": "90b23602",
+      "text": "Yalvarmanı söylediğinde Komutan'a sahiden haddini bildirdin mi? Benden çok daha yürekliymişsin valla."
+    },
+    {
+      "id": "d52ca6aa",
+      "bank_id": "90b23602",
+      "text": "O uçan kaya bir uğursuzluk alameti! Kötü bir kehanet, görürsünüz bak. Bundan yalnızca şer çıkar."
+    },
+    {
+      "id": "d52ca6ab",
+      "bank_id": "90b23602",
+      "text": "Gökyüzünde uçan bir kaya parçası! İnanabiliyor musun?"
+    },
+    {
+      "id": "d52ca6ac",
+      "bank_id": "90b23602",
+      "text": "Bana kalırsa o koca uçan taşın buralarda hiç işi yoktu!"
+    },
+    {
+      "id": "d5829ce8",
+      "bank_id": "90b23602",
+      "text": "Bu uzun yolculuğa sahiden çıkmak zorunda mısın sevgilim?"
+    },
+    {
+      "id": "d5829ce9",
+      "bank_id": "90b23602",
+      "text": "Ah, çıkacağın bu yolculuk için öyle endişeleniyorum ki... Dikkatli olacaksın, değil mi?"
+    },
+    {
+      "id": "d5829cea",
+      "bank_id": "90b23602",
+      "text": "Ah, bu yolculuğa çıkacağın için öyle endişeliyim ki..."
+    },
+    {
+      "id": "d5829ceb",
+      "bank_id": "90b23602",
+      "text": "Ah, bu yolculuğa çıkacağın için öyle endişeliyim ki..."
+    },
+    {
+      "id": "d5829cec",
+      "bank_id": "90b23602",
+      "text": "Çıkacağın bu uzun yolculukta dikkatli olacaksın, değil mi?"
+    },
+    {
+      "id": "d5829ced",
+      "bank_id": "90b23602",
+      "text": "Ah, bu yolculuğa çıkacağın için öyle endişeliyim ki..."
+    },
+    {
+      "id": "d5829cee",
+      "bank_id": "90b23602",
+      "text": "Bu yolculuğa sahiden çıkmak zorunda mısın? Seni bir daha görüp göremeyeceğimi bile bilmiyorum."
+    },
+    {
+      "id": "daf9c868",
+      "bank_id": "90b23602",
+      "text": "Döndün! Döndün işte! Seni bir daha göremeyeceğimi sanmıştım!"
+    },
+    {
+      "id": "daf9c86a",
+      "bank_id": "90b23602",
+      "text": "Ah, döndün! Öldüğünü sanmıştım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "daf9c86b",
+      "bank_id": "90b23602",
+      "text": "Ah, döndün! Öldüğünü sanmıştım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "daf9c86c",
+      "bank_id": "90b23602",
+      "text": "Döndün! Döndün işte! Seni bir daha göremeyeceğimi sanmıştım!"
+    },
+    {
+      "id": "daf9c86d",
+      "bank_id": "90b23602",
+      "text": "Ah, döndün! Öldüğünü sanmıştım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "daf9c86e",
+      "bank_id": "90b23602",
+      "text": "Döndün! Döndün işte! Seni bir daha göremeyeceğimi sanmıştım!"
+    },
+    {
+      "id": "daf9c86f",
+      "bank_id": "90b23602",
+      "text": "Ah, döndün! Öldüğünü sanmıştım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "dff9d009",
+      "bank_id": "90b23602",
+      "text": "Döndün! Döndün işte! Seni bir daha göremeyeceğimi sanmıştım!"
+    },
+    {
+      "id": "dff9d00a",
+      "bank_id": "90b23602",
+      "text": "Ah, döndün! Öldüğünü sanmıştım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "dff9d00b",
+      "bank_id": "90b23602",
+      "text": "Ah, döndün! Öldüğünü sanmıştım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "dff9d00c",
+      "bank_id": "90b23602",
+      "text": "Ah, döndün! Öldüğünü sanmıştım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "dff9d00d",
+      "bank_id": "90b23602",
+      "text": "Ah, döndün! Öldüğünü sanmıştım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "dff9d00e",
+      "bank_id": "90b23602",
+      "text": "Ah, döndün! Öldüğünü sanmıştım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "dff9d00f",
+      "bank_id": "90b23602",
+      "text": "Ah, döndün! Öldüğünü sanmıştım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "e094dda8",
+      "bank_id": "90b23602",
+      "text": "O zavallı adama birazcık yemek veremez miydin yani?"
+    },
+    {
+      "id": "e094ddaa",
+      "bank_id": "90b23602",
+      "text": "O zavallı adam açlıktan ölüyordu ve sen ona iki lokma artık bile veremedin. Nasıl bir vicdansızsın sen?"
+    },
+    {
+      "id": "e094ddab",
+      "bank_id": "90b23602",
+      "text": "Seni gaddar herif. Tek istedikleri birazcık yiyecekti. Hepsi bu."
+    },
+    {
+      "id": "e094ddac",
+      "bank_id": "90b23602",
+      "text": "Bizi aç bırakmanın seni güçlü kıldığını sanıyorsun. Hepimiz senden daha üstünüz."
+    },
+    {
+      "id": "e094ddad",
+      "bank_id": "90b23602",
+      "text": "Açlıktan kırılmamızı seyretmek hoşuna gidiyor mu? Umarım yediğin lokmalar boğazına dizilir."
+    },
+    {
+      "id": "e849b567",
+      "bank_id": "90b23602",
+      "text": "Aaa, demek benim annem sensin!"
+    },
+    {
+      "id": "e849b56c",
+      "bank_id": "90b23602",
+      "text": "Aaa, demek benim babam sensin!"
+    },
+    {
+      "id": "fad5ed78",
+      "bank_id": "90b23602",
+      "text": "Bu insanlar ne yaptıklarını biliyor. Bence onları takip edelim!"
+    },
+    {
+      "id": "fad5ed79",
+      "bank_id": "90b23602",
+      "text": "Buraya gelmek için bunca vakti heba ettiğime inanamıyorum."
+    },
+    {
+      "id": "fad5ed7c",
+      "bank_id": "90b23602",
+      "text": "Paramızı alamayacağımız anlamına mı geliyor bu şimdi?"
+    },
+    {
+      "id": "fad5ed7e",
+      "bank_id": "90b23602",
+      "text": "Anakaradan bakınca çok daha güzel görünüyordu."
+    },
+    {
+      "id": "fad5ed7f",
+      "bank_id": "90b23602",
+      "text": "Arkadaşlarıma ne diyeceğim ben peki? Eve zengin dönecektim güya."
+    }
+  ]
+}

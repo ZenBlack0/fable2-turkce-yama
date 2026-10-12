@@ -1,0 +1,741 @@
+{
+  "bank_id": "80ad3602",
+  "total_strings": 147,
+  "strings": [
+    {
+      "id": "05324dd8",
+      "bank_id": "80ad3602",
+      "text": "Fakirler senin ve benim gibi insanların taşımak zorunda olduğu zenginlik yükünü hiç anlayamazlar."
+    },
+    {
+      "id": "05324dd9",
+      "bank_id": "80ad3602",
+      "text": "Asil bir kandan gelmiyor olabilirsin ama kesinlikle servetin var. Asıl önemli olan da bu zaten."
+    },
+    {
+      "id": "05324dda",
+      "bank_id": "80ad3602",
+      "text": "Paraya para demiyorsun ha."
+    },
+    {
+      "id": "05324ddb",
+      "bank_id": "80ad3602",
+      "text": "Nasıl bu kadar zengin oldun sahi?"
+    },
+    {
+      "id": "05324ddc",
+      "bank_id": "80ad3602",
+      "text": "Bunca altınla ne yapıyorsun? Bana da biraz verebilir misin?"
+    },
+    {
+      "id": "05324ddd",
+      "bank_id": "80ad3602",
+      "text": "Büyük bir altın yığınının üstünde uyuduğuna bahse girerim."
+    },
+    {
+      "id": "05324ddf",
+      "bank_id": "80ad3602",
+      "text": "Durumun bayağı iyi anlaşılan, değil mi."
+    },
+    {
+      "id": "1e8b0978",
+      "bank_id": "80ad3602",
+      "text": "Seni daha önce gördüğümü sanmıyorum yabancı."
+    },
+    {
+      "id": "1e8b0979",
+      "bank_id": "80ad3602",
+      "text": "Kasabamıza ilk ziyaretin mi gezgin?"
+    },
+    {
+      "id": "1e8b097a",
+      "bank_id": "80ad3602",
+      "text": "Buralı değilsin sen, değil mi?"
+    },
+    {
+      "id": "1e8b097b",
+      "bank_id": "80ad3602",
+      "text": "Daha önce buralarda bulunmamıştın, değil mi?"
+    },
+    {
+      "id": "1e8b097c",
+      "bank_id": "80ad3602",
+      "text": "Buralarda yeni olmalısın, değil mi?"
+    },
+    {
+      "id": "1e8b097d",
+      "bank_id": "80ad3602",
+      "text": "Seni daha önce gördüğümü hatırlamıyorum yabancı."
+    },
+    {
+      "id": "1e8b097e",
+      "bank_id": "80ad3602",
+      "text": "Hımm, buralarda yeni olmalısın."
+    },
+    {
+      "id": "278b1748",
+      "bank_id": "80ad3602",
+      "text": "Buralarda yenisin değil mi yabancı?"
+    },
+    {
+      "id": "278b1749",
+      "bank_id": "80ad3602",
+      "text": "Tanıyamadım seni. Kasabada yeni misin?"
+    },
+    {
+      "id": "278b174b",
+      "bank_id": "80ad3602",
+      "text": "Seni daha önce gördüğümü hatırlamıyorum. Hoş geldin yabancı."
+    },
+    {
+      "id": "278b174c",
+      "bank_id": "80ad3602",
+      "text": "Seni daha önce görmedim yabancı."
+    },
+    {
+      "id": "278b174d",
+      "bank_id": "80ad3602",
+      "text": "Dünyanın bu köşesinde yenisin, değil mi?"
+    },
+    {
+      "id": "278b174e",
+      "bank_id": "80ad3602",
+      "text": "Buralardan değilsin sen, değil mi?"
+    },
+    {
+      "id": "278b174f",
+      "bank_id": "80ad3602",
+      "text": "Burada yenisin, değil mi?"
+    },
+    {
+      "id": "2a2e9764",
+      "bank_id": "80ad3602",
+      "text": "Buralarda yenisin, değil mi?"
+    },
+    {
+      "id": "2f7cfbd0",
+      "bank_id": "80ad3602",
+      "text": "Bu devirde evlilik kurumuna adım atan birine hayran olmamak elde değil. Değil mi?"
+    },
+    {
+      "id": "2f7cfbd2",
+      "bank_id": "80ad3602",
+      "text": "Bir Kahramanın yerleşik hayata geçip evlenmesi her zaman kutlu bir vesiledir."
+    },
+    {
+      "id": "2f7cfbd3",
+      "bank_id": "80ad3602",
+      "text": "Aah, evlilikleri bana kendime bir eş bulma konusunda ilham verdi. Yani yeni ve daha genç birini. Ho ho!"
+    },
+    {
+      "id": "36f28d20",
+      "bank_id": "80ad3602",
+      "text": "Şu lavtayla tam bir sihirbazsın. Tek bir notayı bile kaçırmıyorsun!"
+    },
+    {
+      "id": "36f28d21",
+      "bank_id": "80ad3602",
+      "text": "Nasıl ezgi çalınacağını iyi biliyorsun doğrusu!"
+    },
+    {
+      "id": "36f28d24",
+      "bank_id": "80ad3602",
+      "text": "Sadece bir maceracı değilsin, değil mi? Aynı zamanda büyük bir ozansın."
+    },
+    {
+      "id": "36f28d26",
+      "bank_id": "80ad3602",
+      "text": "O lavtayı çaldığında bütün dünya şarkı söylüyor sanki."
+    },
+    {
+      "id": "36f28d27",
+      "bank_id": "80ad3602",
+      "text": "Senin gibi lavta çalan birini hiç duymamıştım. Ne ozan ama!"
+    },
+    {
+      "id": "3bf294c0",
+      "bank_id": "80ad3602",
+      "text": "Şu lavtanı çaldığında dünya sanki daha güzel bir yer oluyor."
+    },
+    {
+      "id": "3bf294c1",
+      "bank_id": "80ad3602",
+      "text": "Ah, ozanlık yapmana bayılıyorum. Yaptığın müzik beni derinden etkiliyor."
+    },
+    {
+      "id": "3bf294c5",
+      "bank_id": "80ad3602",
+      "text": "Duyduğum en büyük ozansın sen."
+    },
+    {
+      "id": "3bf294c6",
+      "bank_id": "80ad3602",
+      "text": "Buralardaki en iyi ozanlardan birisin!"
+    },
+    {
+      "id": "3bf294c7",
+      "bank_id": "80ad3602",
+      "text": "Duyduğum en harika ozansın sen."
+    },
+    {
+      "id": "3c6cd420",
+      "bank_id": "80ad3602",
+      "text": "Hımm, biraz meteliksizsin sanki, değil mi? Nasıl bir his olduğunu bilirim..."
+    },
+    {
+      "id": "3c6cd421",
+      "bank_id": "80ad3602",
+      "text": "Altının az olması pek eğlenceli değil, değil mi?"
+    },
+    {
+      "id": "3c6cd423",
+      "bank_id": "80ad3602",
+      "text": "Şanssız bir dönemden geçiyorsun, öyle mi? Merak etme, yakında biraz altın kazanırsın."
+    },
+    {
+      "id": "3c6cd424",
+      "bank_id": "80ad3602",
+      "text": "Aman, benimle aynı havayı solumaya gücünün yetmesi bile mucize."
+    },
+    {
+      "id": "3c6cd425",
+      "bank_id": "80ad3602",
+      "text": "Dilencilerle sohbet etmem ben."
+    },
+    {
+      "id": "3c6cd426",
+      "bank_id": "80ad3602",
+      "text": "Sokakta dilenmeye başlaman çok sürmez."
+    },
+    {
+      "id": "3c6cd427",
+      "bank_id": "80ad3602",
+      "text": "Fakir olmaktan daha kötü şeyler de var. Mesela, şey, ölü olmak gibi."
+    },
+    {
+      "id": "436cdf20",
+      "bank_id": "80ad3602",
+      "text": "Benim hizmetkârım olmaya bile zar zor layıksın, seni aşağılık dilenci."
+    },
+    {
+      "id": "436cdf21",
+      "bank_id": "80ad3602",
+      "text": "Söylemeliyim ki senden o kadar katbekat zenginim ki komik bile değil."
+    },
+    {
+      "id": "436cdf22",
+      "bank_id": "80ad3602",
+      "text": "Aman, hepimiz arada bir fakirleşiriz."
+    },
+    {
+      "id": "436cdf23",
+      "bank_id": "80ad3602",
+      "text": "Altın olmadan hayat hiç kolay değil, değil mi?"
+    },
+    {
+      "id": "436cdf24",
+      "bank_id": "80ad3602",
+      "text": "Merak etme, sonsuza kadar fakir kalmayacaksın."
+    },
+    {
+      "id": "436cdf25",
+      "bank_id": "80ad3602",
+      "text": "Şansın yaver gitmiyor ha? Şey, para her şey demek değildir."
+    },
+    {
+      "id": "436cdf26",
+      "bank_id": "80ad3602",
+      "text": "Zor zamanlardan mı geçiyorsun?"
+    },
+    {
+      "id": "628ff1b8",
+      "bank_id": "80ad3602",
+      "text": "Kimsin sen? Seni daha önce hiç görmedim."
+    },
+    {
+      "id": "64713330",
+      "bank_id": "80ad3602",
+      "text": "Kasabada açık bir iş pozisyonu var, biliyorsun değil mi?"
+    },
+    {
+      "id": "64713331",
+      "bank_id": "80ad3602",
+      "text": "Kasabadaki açık iş ilanını duydun mu?"
+    },
+    {
+      "id": "64713334",
+      "bank_id": "80ad3602",
+      "text": "İlgileniyorsan yakınlarda açık bir iş var."
+    },
+    {
+      "id": "64713336",
+      "bank_id": "80ad3602",
+      "text": "Kasabada bir iş açığı olduğunu duydun mu?"
+    },
+    {
+      "id": "64713337",
+      "bank_id": "80ad3602",
+      "text": "Paraya sıkışıksan yapacak iş var."
+    },
+    {
+      "id": "678ff959",
+      "bank_id": "80ad3602",
+      "text": "Buralardan değilsin sen, değil mi?"
+    },
+    {
+      "id": "69713ad0",
+      "bank_id": "80ad3602",
+      "text": "Çok tembel değilsen kasabadaki şu yeni işe başvurmayı deneyebilirsin."
+    },
+    {
+      "id": "69713ad1",
+      "bank_id": "80ad3602",
+      "text": "İşe mi ihtiyacın var? Kasabada bir tane var."
+    },
+    {
+      "id": "69713ad5",
+      "bank_id": "80ad3602",
+      "text": "Kasabada bir yerlerde açık bir iş varmış. Öyle duydum."
+    },
+    {
+      "id": "69713ad6",
+      "bank_id": "80ad3602",
+      "text": "Altına ihtiyacın varsa bazı iş ilanları olduğunu duydum."
+    },
+    {
+      "id": "69713ad7",
+      "bank_id": "80ad3602",
+      "text": "Kasabada yeni bir iş var."
+    },
+    {
+      "id": "6cac1000",
+      "bank_id": "80ad3602",
+      "text": "Herkes sesimin tıpkı bir ozanınkine benzediğini söylüyor. Onu taklit edebileceğim bir işi nerede bulabilirim biliyor musun?"
+    },
+    {
+      "id": "6cac1001",
+      "bank_id": "80ad3602",
+      "text": "Her zaman iyi bir ozan olacağımı düşünmüşümdür. Acaba bir yerlerde iş bulabilir miyim..."
+    },
+    {
+      "id": "6cac1002",
+      "bank_id": "80ad3602",
+      "text": "Harika bir şarkı söyleme sesim var biliyorsun. Belki bir ozanlık işi denemeliyim."
+    },
+    {
+      "id": "6cac1006",
+      "bank_id": "80ad3602",
+      "text": "Ozan olarak şansımı deneyeceğim. Nereden başlayabileceğimi biliyor musun?"
+    },
+    {
+      "id": "6cac1007",
+      "bank_id": "80ad3602",
+      "text": "Harika bir sesim var benim. Bir ozan olarak nerede iş bulabilirim?"
+    },
+    {
+      "id": "75ac1e6a",
+      "bank_id": "80ad3602",
+      "text": "Kardeşim ozan olmak hakkında konuşup duruyor. O işlerin nerede olduğuna dair bir fikrin var mı?"
+    },
+    {
+      "id": "75ac1e6b",
+      "bank_id": "80ad3602",
+      "text": "Buralarda nereden ozanlık işi bulabilirsin ki?"
+    },
+    {
+      "id": "75ac1e6c",
+      "bank_id": "80ad3602",
+      "text": "Albion'un birkaç kadın ozanından biri olmayı düşünüyorum. Bir yerlerde açık olmalı."
+    },
+    {
+      "id": "75ac1e6d",
+      "bank_id": "80ad3602",
+      "text": "Büyüyünce ozan olmak isteyen bir yeğenim var. İş hakkında daha fazla bilgiyi nerede bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "75ac1e6f",
+      "bank_id": "80ad3602",
+      "text": "Ozan olarak başarılı olabileceğimi düşünüyor musun? Nerede iş bulabilirim acaba."
+    },
+    {
+      "id": "8988e2a7",
+      "bank_id": "80ad3602",
+      "text": "Onu daha önce hiç görmedin, değil mi?"
+    },
+    {
+      "id": "8988e2ac",
+      "bank_id": "80ad3602",
+      "text": "Onu daha önce hiç görmedin, değil mi?"
+    },
+    {
+      "id": "922d3e80",
+      "bank_id": "80ad3602",
+      "text": "Şu maceracıyı daha önce gördüğümü hatırlamıyorum."
+    },
+    {
+      "id": "922d3e81",
+      "bank_id": "80ad3602",
+      "text": "Hımm, yeni bir yüz, ne kadar ilginç."
+    },
+    {
+      "id": "922d3e82",
+      "bank_id": "80ad3602",
+      "text": "Şu maceracıyı buralarda hiç gördüğümü sanmıyorum."
+    },
+    {
+      "id": "922d3e83",
+      "bank_id": "80ad3602",
+      "text": "Bakın, yeni biri."
+    },
+    {
+      "id": "922d3e84",
+      "bank_id": "80ad3602",
+      "text": "Şu maceracıyı daha önce buralarda görmemiştim. Sen gördün mü?"
+    },
+    {
+      "id": "922d3e85",
+      "bank_id": "80ad3602",
+      "text": "Şunu daha önce hiç gördün mü?"
+    },
+    {
+      "id": "922d3e87",
+      "bank_id": "80ad3602",
+      "text": "Şu yabancıyı daha önce hiç gördün mü?"
+    },
+    {
+      "id": "992d4988",
+      "bank_id": "80ad3602",
+      "text": "Şunu daha önce hiç gördün mü?"
+    },
+    {
+      "id": "992d4989",
+      "bank_id": "80ad3602",
+      "text": "Şu maceracı buralarda yeni."
+    },
+    {
+      "id": "992d498a",
+      "bank_id": "80ad3602",
+      "text": "Şu maceracıyı daha önce hiç gördün mü?"
+    },
+    {
+      "id": "992d498c",
+      "bank_id": "80ad3602",
+      "text": "Kim bu yabancı?"
+    },
+    {
+      "id": "992d498d",
+      "bank_id": "80ad3602",
+      "text": "Aramızda yeni biri dolaşıyor."
+    },
+    {
+      "id": "992d498e",
+      "bank_id": "80ad3602",
+      "text": "Kim bu yabancı?"
+    },
+    {
+      "id": "c153f368",
+      "bank_id": "80ad3602",
+      "text": "Bu meseleyi halledebilecek biri olmalı."
+    },
+    {
+      "id": "c153f369",
+      "bank_id": "80ad3602",
+      "text": "Bir tür güçlü maceracının duruma müdahale etmesi gerekecek gibi görünüyor."
+    },
+    {
+      "id": "c153f36a",
+      "bank_id": "80ad3602",
+      "text": "Şey, iş çığırından çıkmadan önce biri bununla ilgilense iyi eder."
+    },
+    {
+      "id": "c153f36b",
+      "bank_id": "80ad3602",
+      "text": "Bu sorunu çözmeye istekli cesur bir ahmak olmalı."
+    },
+    {
+      "id": "c153f36c",
+      "bank_id": "80ad3602",
+      "text": "Bu konuda bir şeyler yapabilecek biri yok mu?"
+    },
+    {
+      "id": "c153f36d",
+      "bank_id": "80ad3602",
+      "text": "Deneyimli bir maceracının ilgilenmesi gereken bir şeye benziyor."
+    },
+    {
+      "id": "c153f36e",
+      "bank_id": "80ad3602",
+      "text": "Birinin bir şeyler yapması gerek. Ben olmasın da."
+    },
+    {
+      "id": "c23b5884",
+      "bank_id": "80ad3602",
+      "text": "Her zaman barmen olmak istemişimdir biliyor musun. Sanırım bir deneyeceğim."
+    },
+    {
+      "id": "c23b5887",
+      "bank_id": "80ad3602",
+      "text": "Paraya sıkışığım, içki servisi yapabileceğim bir işi nereden bulabileceğime dair bir fikrin var mı?"
+    },
+    {
+      "id": "ca07f900",
+      "bank_id": "80ad3602",
+      "text": "Sendeki bu altınla aç kalmayacağın kesin."
+    },
+    {
+      "id": "ca07f901",
+      "bank_id": "80ad3602",
+      "text": "Rahat yaşayacak kadar kazanıyor musun? Herhangi birimizin isteyebileceği tek şey budur."
+    },
+    {
+      "id": "ca07f902",
+      "bank_id": "80ad3602",
+      "text": "Aç kalmayacak kadar altının olduğu sürece bu yeter de artar, değil mi?"
+    },
+    {
+      "id": "ca07f904",
+      "bank_id": "80ad3602",
+      "text": "Servet dağının zirvesine henüz tam olarak tırmanamadın."
+    },
+    {
+      "id": "ca07f905",
+      "bank_id": "80ad3602",
+      "text": "Dilenci değilsin, bu doğru. Ama gerçekten zenginlerin üst kademelerine katılmaktan çok uzaksın."
+    },
+    {
+      "id": "ca07f906",
+      "bank_id": "80ad3602",
+      "text": "Bugünlerde altın hakkında çok fazla endişelenmek zorunda kalmadığına bahse girerim."
+    },
+    {
+      "id": "ca07f907",
+      "bank_id": "80ad3602",
+      "text": "Seninki gibi güzel bir altın yığınına sahip olmak harika olurdu."
+    },
+    {
+      "id": "ca5401b8",
+      "bank_id": "80ad3602",
+      "text": "Belki cesur bir maceracı bu konuda bir şeyler yapabilir."
+    },
+    {
+      "id": "ca5401b9",
+      "bank_id": "80ad3602",
+      "text": "İhtiyacımız olan şey her şeyi çözecek kahramanca bir macera."
+    },
+    {
+      "id": "ca5401bb",
+      "bank_id": "80ad3602",
+      "text": "Bunu kim çözebilir ki? Birileri olmalı."
+    },
+    {
+      "id": "ca5401bc",
+      "bank_id": "80ad3602",
+      "text": "İhtiyacımız olan şey durumu çözecek gerçek bir kahraman."
+    },
+    {
+      "id": "ca5401bd",
+      "bank_id": "80ad3602",
+      "text": "Dışarıda bu sorunla ilgilenmeye istekli bir savaşçı vardır herhalde."
+    },
+    {
+      "id": "ca5401be",
+      "bank_id": "80ad3602",
+      "text": "Birinin bu işle ilgilenmesi gerek. Dünyadaki bütün kahramanlara ne oldu?"
+    },
+    {
+      "id": "ca5401bf",
+      "bank_id": "80ad3602",
+      "text": "Birinin elini taşın altına koyup bunu düzeltmesinin vakti geldi artık."
+    },
+    {
+      "id": "d3080768",
+      "bank_id": "80ad3602",
+      "text": "Zengin elit tabakaya katılmaktan çok uzaksın."
+    },
+    {
+      "id": "d3080769",
+      "bank_id": "80ad3602",
+      "text": "Para her şey demek değildir. Ama yüzde doksanıdır."
+    },
+    {
+      "id": "d308076a",
+      "bank_id": "80ad3602",
+      "text": "Durumun oldukça rahat görünüyor. Gerçi herkes daha fazla altından faydalanabilir."
+    },
+    {
+      "id": "d308076b",
+      "bank_id": "80ad3602",
+      "text": "Seni idare edecek kadar altının var. Şanslısın."
+    },
+    {
+      "id": "d308076c",
+      "bank_id": "80ad3602",
+      "text": "Para konusunda endişelenmek zorunda kalmamak çok güzel, değil mi?"
+    },
+    {
+      "id": "d308076d",
+      "bank_id": "80ad3602",
+      "text": "Para konusunda endişelenmeyecek kadar paranın olması çok güzel olsa gerek."
+    },
+    {
+      "id": "d308076f",
+      "bank_id": "80ad3602",
+      "text": "Zengin olmanın ne anlamı var ki? Fakir olmadığın sürece."
+    },
+    {
+      "id": "daf47951",
+      "bank_id": "80ad3602",
+      "text": "Lütfen ozanlık yapmayı bırak. Müziğe karşı işlenmiş bir suç bu."
+    },
+    {
+      "id": "daf47952",
+      "bank_id": "80ad3602",
+      "text": "Alınma ama senin ozanlığını dinlemek kulaklarımı koparma isteği uyandırıyor bende."
+    },
+    {
+      "id": "daf47953",
+      "bank_id": "80ad3602",
+      "text": "Bir sonraki ozanlık seansın için bir ricam var. Sakın yapma."
+    },
+    {
+      "id": "daf47954",
+      "bank_id": "80ad3602",
+      "text": "Lavta mı çalıyordun yoksa bir banshee'ye işkence mi ediyordun? Her halükarda keşke sağır olsaydım."
+    },
+    {
+      "id": "daf47955",
+      "bank_id": "80ad3602",
+      "text": "Şimdiye kadar duyduğum en berbat ozansın. Gelmiş geçmiş en kötüsü."
+    },
+    {
+      "id": "e5f48a80",
+      "bank_id": "80ad3602",
+      "text": "Şey, ozanlığını dinledim. En iyisi olmadığını söylemeliyim."
+    },
+    {
+      "id": "e5f48a82",
+      "bank_id": "80ad3602",
+      "text": "Sana ozanlık yapmayı yasaklamalılar. Cidden."
+    },
+    {
+      "id": "e5f48a83",
+      "bank_id": "80ad3602",
+      "text": "Bana bir iyilik yap ve bir daha asla eline lavta alma."
+    },
+    {
+      "id": "e5f48a84",
+      "bank_id": "80ad3602",
+      "text": "Bize bir iyilik yap ve bir daha asla lavta çalma. Ciddiyim."
+    },
+    {
+      "id": "e5f48a85",
+      "bank_id": "80ad3602",
+      "text": "Cidden, şu ozanlık işini tamamen bırak. Berbatsın."
+    },
+    {
+      "id": "e9a11a00",
+      "bank_id": "80ad3602",
+      "text": "Aah, minik ayakların patırtısı. Bir ebeveyn için bundan daha ahenkli bir müzik var mıdır?"
+    },
+    {
+      "id": "e9a11a01",
+      "bank_id": "80ad3602",
+      "text": "Ebeveynlik sorumluluklarını hafife almayın."
+    },
+    {
+      "id": "e9a11a02",
+      "bank_id": "80ad3602",
+      "text": "Bu dünyaya daha fazla aç boğaz getirmek istediğinden emin misin?"
+    },
+    {
+      "id": "e9a11a03",
+      "bank_id": "80ad3602",
+      "text": "Olay bu işte. Biraz eğlenirsin ve birdenbire ortalıkta koşturan bir ufaklık beliriverir."
+    },
+    {
+      "id": "e9a11a04",
+      "bank_id": "80ad3602",
+      "text": "Demek artık ebeveynsin. Şahane."
+    },
+    {
+      "id": "e9a11a05",
+      "bank_id": "80ad3602",
+      "text": "Demek ufaklığına da bir Kahraman olmayı öğretiyorsun?"
+    },
+    {
+      "id": "e9a11a07",
+      "bank_id": "80ad3602",
+      "text": "Çocuğunun doğumu için tebrik ederim!"
+    },
+    {
+      "id": "f0a12508",
+      "bank_id": "80ad3602",
+      "text": "Bir ebeveyn olduğun için çok gururlu olmalısın."
+    },
+    {
+      "id": "f0a12509",
+      "bank_id": "80ad3602",
+      "text": "Ebeveynliğin tadını nasıl çıkarıyorsun?"
+    },
+    {
+      "id": "f0a1250a",
+      "bank_id": "80ad3602",
+      "text": "Her zaman iyi bir ebeveyn olacağını düşünmüştüm."
+    },
+    {
+      "id": "f0a1250c",
+      "bank_id": "80ad3602",
+      "text": "Ailenin yeni bir üyesi olduğunu duydum. Tebrikler."
+    },
+    {
+      "id": "f0a1250d",
+      "bank_id": "80ad3602",
+      "text": "Ebeveynliği çok tatmin edici bulacağına eminim."
+    },
+    {
+      "id": "f0a1250e",
+      "bank_id": "80ad3602",
+      "text": "Hovardalık ediyormuşsun duydum. Bunun ne anlama geldiğinden hâlâ emin değilim gerçi. Lapa satmaya mı başlayacaksın?"
+    },
+    {
+      "id": "f0a1250f",
+      "bank_id": "80ad3602",
+      "text": "Ufaklığına da senin gibi olmayı öğretecek misin?"
+    },
+    {
+      "id": "fc323ff0",
+      "bank_id": "80ad3602",
+      "text": "Bu kadar varlıklı olmak çok güzel olsa gerek."
+    },
+    {
+      "id": "fc323ff1",
+      "bank_id": "80ad3602",
+      "text": "Bu kadar zengin olmak nasıl bir his?"
+    },
+    {
+      "id": "fc323ff2",
+      "bank_id": "80ad3602",
+      "text": "Keşke benim de senin kadar altınım olsaydı."
+    },
+    {
+      "id": "fc323ff4",
+      "bank_id": "80ad3602",
+      "text": "Benim gibi doğuştan zengin değildin elbet. Ama asıl önemli olan insanın banka hesabıdır."
+    },
+    {
+      "id": "fc323ff5",
+      "bank_id": "80ad3602",
+      "text": "Zenginliğinin tadını çıkarıyor musun? Oldukça harika bir şey, değil mi?"
+    },
+    {
+      "id": "fc323ff6",
+      "bank_id": "80ad3602",
+      "text": "Asla senin kadar altına yaklaşamayacağım bile."
+    },
+    {
+      "id": "fc323ff7",
+      "bank_id": "80ad3602",
+      "text": "Senin altınının yarısına sahip olmak için adam öldürürdüm."
+    }
+  ]
+}

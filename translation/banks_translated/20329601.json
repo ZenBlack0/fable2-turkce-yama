@@ -1,0 +1,756 @@
+{
+  "bank_id": "20329601",
+  "total_strings": 150,
+  "strings": [
+    {
+      "id": "059c2fc1",
+      "bank_id": "20329601",
+      "text": "Oldukça komik görünen bir kılıç bu, Kılıç."
+    },
+    {
+      "id": "059c2fc2",
+      "bank_id": "20329601",
+      "text": "Bir dakika, senin 'Kılıç' olduğunu sanıyordum?"
+    },
+    {
+      "id": "059c2fc3",
+      "bank_id": "20329601",
+      "text": "Bunun bir kılıç olmadığının farkındasın, değil mi, Kılıç?"
+    },
+    {
+      "id": "059c2fc4",
+      "bank_id": "20329601",
+      "text": "Onunla ne yapıyorsun öyle? Senin Kılıç olduğunu sanıyordum."
+    },
+    {
+      "id": "059c2fc5",
+      "bank_id": "20329601",
+      "text": "Şu silah adına pek uymuyor hani, bilirsin ya."
+    },
+    {
+      "id": "059c2fc6",
+      "bank_id": "20329601",
+      "text": "Kılıçlara sırtını mı döndün yani, Kılıç?"
+    },
+    {
+      "id": "059c2fc7",
+      "bank_id": "20329601",
+      "text": "Adının Kılıç olduğu izlenimine kapılmıştım. Yoksa yanılıyor muyum?"
+    },
+    {
+      "id": "109c4170",
+      "bank_id": "20329601",
+      "text": "Hey Kılıç, bir kılıcın ne olduğunu bildiğinden emin misin?"
+    },
+    {
+      "id": "109c4172",
+      "bank_id": "20329601",
+      "text": "O silahı göstererek tüm hayranlarını hayal kırıklığına uğratacaksın, Kılıç."
+    },
+    {
+      "id": "109c4173",
+      "bank_id": "20329601",
+      "text": "Komiklik olsun diye demiyorum Kılıç, ama o bir kılıç değil."
+    },
+    {
+      "id": "109c4174",
+      "bank_id": "20329601",
+      "text": "Ne oldu? Kılıçların mı tükendi, Kılıç?"
+    },
+    {
+      "id": "109c4175",
+      "bank_id": "20329601",
+      "text": "Buna kılıç mı diyorsun, Kılıç?"
+    },
+    {
+      "id": "109c4176",
+      "bank_id": "20329601",
+      "text": "Affedersiniz ama elinizdeki kılıç oldukça tuhaf görünüyor, Kılıç."
+    },
+    {
+      "id": "109c4177",
+      "bank_id": "20329601",
+      "text": "Hmm, Kılıç, uygun bir silahının olmaması bu tekinsiz zamanlarımızda maceracıların maruz kaldığı kalıplara bir başkaldırı mı?"
+    },
+    {
+      "id": "1539cfd0",
+      "bank_id": "20329601",
+      "text": "Benim Lokum anlayışıma pek uymuyorsun."
+    },
+    {
+      "id": "1539cfd1",
+      "bank_id": "20329601",
+      "text": "Kendine Lokum mu diyorsun? Biri seni çöpe atsa yeridir!"
+    },
+    {
+      "id": "1539cfd2",
+      "bank_id": "20329601",
+      "text": "Kimse seni sevmiyor, Lokum. Annen bile."
+    },
+    {
+      "id": "1539cfd3",
+      "bank_id": "20329601",
+      "text": "Lokum mu? Baksana, kimsenin senden hoşlandığı bile yok!"
+    },
+    {
+      "id": "1539cfd4",
+      "bank_id": "20329601",
+      "text": "Kendine Lokum mu diyorsun? Pek uyduğunu söyleyemem."
+    },
+    {
+      "id": "1539cfd5",
+      "bank_id": "20329601",
+      "text": "Senden Lokum falan olmaz!"
+    },
+    {
+      "id": "1539cfd7",
+      "bank_id": "20329601",
+      "text": "Kendine nasıl Lokum diyebiliyorsun? Baştan aşağı yanlış."
+    },
+    {
+      "id": "1c39dad8",
+      "bank_id": "20329601",
+      "text": "Hayatımda gördüğüm en zavallı Lokum taslağısın."
+    },
+    {
+      "id": "1c39dad9",
+      "bank_id": "20329601",
+      "text": "Sende sevimli hiçbir şey yok, Lokum."
+    },
+    {
+      "id": "1c39dada",
+      "bank_id": "20329601",
+      "text": "Lokum mu?! Kakadan farkın yok be!"
+    },
+    {
+      "id": "1c39dadc",
+      "bank_id": "20329601",
+      "text": "Sana karşı zerre şefkat hissetmiyorum, Lokum."
+    },
+    {
+      "id": "1c39dadd",
+      "bank_id": "20329601",
+      "text": "Sana garanti ederim: kesinlikle bir Lokum değilsin."
+    },
+    {
+      "id": "1c39dade",
+      "bank_id": "20329601",
+      "text": "Lokum mu?! Beyin niyetine bir tane taşıyorsun, evet!"
+    },
+    {
+      "id": "1c39dadf",
+      "bank_id": "20329601",
+      "text": "Lokum mu? Biri hacetini giderdi de sen öyle mi doğdun yani?"
+    },
+    {
+      "id": "2c283970",
+      "bank_id": "20329601",
+      "text": "Ödül Avcısı mı? SEN muhafızlara ne zaman yardım ettin ki?"
+    },
+    {
+      "id": "2c283971",
+      "bank_id": "20329601",
+      "text": "Ödül Avcısı mı? Belki de 'Tavşan Tekmecisi' demek istedin?"
+    },
+    {
+      "id": "2c283972",
+      "bank_id": "20329601",
+      "text": "Sen Ödül Avcısı falan değilsin. Basbayağı bir suçlusun."
+    },
+    {
+      "id": "2c283973",
+      "bank_id": "20329601",
+      "text": "Benim Ödül Avcısı fikrime kesinlikle uymuyorsun."
+    },
+    {
+      "id": "2c283974",
+      "bank_id": "20329601",
+      "text": "Sanki SANA avlayasın diye ödül koyacaklarmış gibi."
+    },
+    {
+      "id": "2c283976",
+      "bank_id": "20329601",
+      "text": "Ödül Avcısı mı? Ha! Asıl işini bırakma sen."
+    },
+    {
+      "id": "2c283977",
+      "bank_id": "20329601",
+      "text": "Ödül Avcısı mı? Ne avlıyorsun, artık etli börekleri mi?"
+    },
+    {
+      "id": "31284110",
+      "bank_id": "20329601",
+      "text": "Ödül Avcısı'sın, öyle mi? Kıçındaki sivilceyi bile avlayamazsın sen."
+    },
+    {
+      "id": "31284111",
+      "bank_id": "20329601",
+      "text": "Ödül Avcısı mı? Güldürme beni!"
+    },
+    {
+      "id": "31284112",
+      "bank_id": "20329601",
+      "text": "Gözüme hiç de bir ödül avcısı gibi görünmüyorsun."
+    },
+    {
+      "id": "31284113",
+      "bank_id": "20329601",
+      "text": "Kendine Ödül Avcısı mı diyorsun? Kulağa biraz... tuhaf geliyor."
+    },
+    {
+      "id": "31284115",
+      "bank_id": "20329601",
+      "text": "Ödül Avcısı mı? Avlanma ihtimalin çok daha yüksek!"
+    },
+    {
+      "id": "31284116",
+      "bank_id": "20329601",
+      "text": "Ödül Avcısı mı? Tabi canım!"
+    },
+    {
+      "id": "31284117",
+      "bank_id": "20329601",
+      "text": "Kimse seni ciddiye almıyor, Ödül Avcısı."
+    },
+    {
+      "id": "66e64240",
+      "bank_id": "20329601",
+      "text": "Kanun Kaçağı... Hmm, kulağa bir üçkâğıtçı gibi geliyor. Ve dürüst olalım, o kesinlikle sen değilsin."
+    },
+    {
+      "id": "66e64241",
+      "bank_id": "20329601",
+      "text": "Bilemiyorum. Kanun Kaçağı gibi bir isim için yeterince belalı görünmüyorsun."
+    },
+    {
+      "id": "66e64243",
+      "bank_id": "20329601",
+      "text": "Kanun Kaçağı mu? Hadi oradan! Asla kanunlara aykırı bir şey yapmazsın, değil mi?"
+    },
+    {
+      "id": "66e64244",
+      "bank_id": "20329601",
+      "text": "Aah, Kanun Kaçağı, ne romantik bir isim... Yine de düzenli yıkanıyorsun, değil mi?"
+    },
+    {
+      "id": "66e64245",
+      "bank_id": "20329601",
+      "text": "Kanun Kaçağı mu? Bu unvan tamamen bir adlandırma hatası."
+    },
+    {
+      "id": "66e64246",
+      "bank_id": "20329601",
+      "text": "Kanun Kaçağı, ha? Ne kadar da fiyakalı bir ismin var!"
+    },
+    {
+      "id": "66e64247",
+      "bank_id": "20329601",
+      "text": "Kendine Kanun Kaçağı mu diyorsun? Güldürme beni!"
+    },
+    {
+      "id": "6de64d40",
+      "bank_id": "20329601",
+      "text": "Kanun Kaçağı mu? Korkarım bunu sende pek göremiyorum."
+    },
+    {
+      "id": "6de64d41",
+      "bank_id": "20329601",
+      "text": "Demek Kanun Kaçağı sensin, hmm? Bilemiyorum, daha... sabıkalı birini bekliyordum."
+    },
+    {
+      "id": "6de64d42",
+      "bank_id": "20329601",
+      "text": "Sen mi? Kanun Kaçağı ha? Ha, bu benim kendime Bay Kibar Sofra Adabı demem gibi bir şey. *geğirir*"
+    },
+    {
+      "id": "6de64d43",
+      "bank_id": "20329601",
+      "text": "Kanun Kaçağı gibi bir isimle kimi etkilemeye çalışıyorsun? Lütfen ama."
+    },
+    {
+      "id": "6de64d44",
+      "bank_id": "20329601",
+      "text": "Hah. Kanun Kaçağı mu? Bir yanlışlık olmalı. Sen gayet hoş birisin!"
+    },
+    {
+      "id": "6de64d45",
+      "bank_id": "20329601",
+      "text": "Kanun Kaçağı mu? Şaka mı bu?"
+    },
+    {
+      "id": "6de64d46",
+      "bank_id": "20329601",
+      "text": "Bir Kanun Kaçağı biraz daha... ne bileyim, suçlu gibi olmalı değil miydi?"
+    },
+    {
+      "id": "73e59e04",
+      "bank_id": "20329601",
+      "text": "Selam Sparrow!"
+    },
+    {
+      "id": "78e5a625",
+      "bank_id": "20329601",
+      "text": "Vay canına! Selam Sparrow!"
+    },
+    {
+      "id": "91f0ca18",
+      "bank_id": "20329601",
+      "text": "Sihirbaz mı? Şarlatan desen daha doğru. Büyün beş para etmez!"
+    },
+    {
+      "id": "91f0ca19",
+      "bank_id": "20329601",
+      "text": "Ne biçim Sihirbaz'sın sen? Benim saf amcam bile senden daha çok büyü biliyor!"
+    },
+    {
+      "id": "91f0ca1a",
+      "bank_id": "20329601",
+      "text": "Basit gözbağcılık numaraların Sihirbaz unvanını pek hak etmiyor."
+    },
+    {
+      "id": "91f0ca1b",
+      "bank_id": "20329601",
+      "text": "Adının Sihirbaz olduğu kanaatindeydim. Yoksa yanılıyor muyum?"
+    },
+    {
+      "id": "91f0ca1d",
+      "bank_id": "20329601",
+      "text": "Hmm, bir Sihirbaz için pek fazla büyü numarası bilmiyorsun, değil mi?"
+    },
+    {
+      "id": "91f0ca1e",
+      "bank_id": "20329601",
+      "text": "Sihirbaz olduğuna emin misin? İrade ustası falan olduğunu sanıyordum."
+    },
+    {
+      "id": "91f0ca1f",
+      "bank_id": "20329601",
+      "text": "Adını değiştirmelisin. Sihirbaz sana hiç uymuyor."
+    },
+    {
+      "id": "9ce161a0",
+      "bank_id": "20329601",
+      "text": "Merhaba, Sparrow."
+    },
+    {
+      "id": "9ce161a1",
+      "bank_id": "20329601",
+      "text": "Selam Sparrow!"
+    },
+    {
+      "id": "9ce161a4",
+      "bank_id": "20329601",
+      "text": "Ah, esenlikler, Sparrow."
+    },
+    {
+      "id": "9ce161a5",
+      "bank_id": "20329601",
+      "text": "Merhaba, Sparrow."
+    },
+    {
+      "id": "9ce161a6",
+      "bank_id": "20329601",
+      "text": "Sparrow. Ne haber?"
+    },
+    {
+      "id": "9ce161a7",
+      "bank_id": "20329601",
+      "text": "Selam, Sparrow!"
+    },
+    {
+      "id": "9cf0db48",
+      "bank_id": "20329601",
+      "text": "Sihirbaz gibi bir isimle kimi etkilemeye çalışıyorsun? Gerçek büyü yapamadığını hepimiz biliyoruz."
+    },
+    {
+      "id": "9cf0db49",
+      "bank_id": "20329601",
+      "text": "Sihirbaz mı? Peh, İrade'ye benden fazla hükmedemiyorsun."
+    },
+    {
+      "id": "9cf0db4a",
+      "bank_id": "20329601",
+      "text": "İsmin insanlarda yanlış bir izlenim bırakıyor, Sihirbaz. Sende sihirli hiçbir şey görmüyorum."
+    },
+    {
+      "id": "9cf0db4b",
+      "bank_id": "20329601",
+      "text": "Hmm, Sihirbaz adını kullanan birinin gizemli sanatlara daha aşina olacağını sanırdım."
+    },
+    {
+      "id": "9cf0db4c",
+      "bank_id": "20329601",
+      "text": "Hey Sihirbaz, bir sihirbazın ne olduğunu bildiğinden emin misin?"
+    },
+    {
+      "id": "9cf0db4e",
+      "bank_id": "20329601",
+      "text": "Efsanelerdeki İrade kullanıcıları kadar güçlü görünmüyorsun, Sihirbaz."
+    },
+    {
+      "id": "9cf0db4f",
+      "bank_id": "20329601",
+      "text": "Hmm, ne büyük hayal kırıklığı. Sihirbaz denen birinin güçlü bir büyücü olacağını sanmıştım."
+    },
+    {
+      "id": "a1b3c9f0",
+      "bank_id": "20329601",
+      "text": "Tavuk Kovalayan mı? Ne avam bir unvan. Ve sana hiç mi hiç yakışmıyor."
+    },
+    {
+      "id": "a1b3c9f1",
+      "bank_id": "20329601",
+      "text": "Tavuk kovalamaktan pek anladığın söylenemez, değil mi?"
+    },
+    {
+      "id": "a1b3c9f2",
+      "bank_id": "20329601",
+      "text": "Hayatımda gördüğüm en zavallı Tavuk Kovalayan taslağısın."
+    },
+    {
+      "id": "a1b3c9f3",
+      "bank_id": "20329601",
+      "text": "Tavuk falan kovalamıyorsun. Neden Tavuk Kovalayan olarak anılmak isteyesin ki?"
+    },
+    {
+      "id": "a1b3c9f4",
+      "bank_id": "20329601",
+      "text": "Hiç tavuk kovaladığını görmedim."
+    },
+    {
+      "id": "a1b3c9f5",
+      "bank_id": "20329601",
+      "text": "Tavuk Kovalayan mı? Biri sana neden böyle desin ki?"
+    },
+    {
+      "id": "a1b3c9f7",
+      "bank_id": "20329601",
+      "text": "Tavuk Kovalayan mı? Ne zaman tavuk kovaladın ki sen?"
+    },
+    {
+      "id": "a8b3d4f8",
+      "bank_id": "20329601",
+      "text": "Tavuklarla oynadığını hiç gördüğümü sanmıyorum, Tavuk Kovalayan."
+    },
+    {
+      "id": "a8b3d4f9",
+      "bank_id": "20329601",
+      "text": "Aslına bakarsan tavuklara karşı oldukça nazik görünüyorsun, Tavuk Kovalayan."
+    },
+    {
+      "id": "a8b3d4fa",
+      "bank_id": "20329601",
+      "text": "HİÇ tavuk kovaladın mı sen?"
+    },
+    {
+      "id": "a8b3d4fc",
+      "bank_id": "20329601",
+      "text": "Kümes hayvanlarının peşinden koşmak senin harcın değil, Tavuk Kovalayan."
+    },
+    {
+      "id": "a8b3d4fd",
+      "bank_id": "20329601",
+      "text": "Tavuk Kovalayan mı? Saçma bir üstü kapalı laf gibi geliyor."
+    },
+    {
+      "id": "a8b3d4fe",
+      "bank_id": "20329601",
+      "text": "Tavuk Kovalayan senin için tuhaf bir isim değil mi? Gerçekten hiç kovaladın mı?"
+    },
+    {
+      "id": "a8b3d4ff",
+      "bank_id": "20329601",
+      "text": "Tavuklarla oynadığını bile hiç görmedim, Tavuk Kovalayan."
+    },
+    {
+      "id": "a97db1d0",
+      "bank_id": "20329601",
+      "text": "Cellat mı? Hadi oradan! Senden korkan tek kişi bile yok!"
+    },
+    {
+      "id": "a97db1d3",
+      "bank_id": "20329601",
+      "text": "Cellat... Hmm, kulağa kötü biri gibi geliyorsun. Ve dürüst olalım, o kesinlikle sen değilsin."
+    },
+    {
+      "id": "d9f6d840",
+      "bank_id": "20329601",
+      "text": "Seçilmiş Kişi, BEN kesinlikle seni herhangi bir şey için seçmezdim."
+    },
+    {
+      "id": "d9f6d841",
+      "bank_id": "20329601",
+      "text": "Sana Seçilmiş Kişi mi diyorlar? Güldürmeyin beni."
+    },
+    {
+      "id": "d9f6d842",
+      "bank_id": "20329601",
+      "text": "Seçilmiş Kişi mi? İyilik yapmak için seçilmediğin kesin!"
+    },
+    {
+      "id": "d9f6d844",
+      "bank_id": "20329601",
+      "text": "Kimsenin Seçilmiş Kişi'si olamayacak kadar kirlisin sen!"
+    },
+    {
+      "id": "d9f6d845",
+      "bank_id": "20329601",
+      "text": "Benim anladığım türden bir Seçilmiş Kişi değilsin."
+    },
+    {
+      "id": "d9f6d846",
+      "bank_id": "20329601",
+      "text": "Seçilmiş Kişi mi? Yeniden seçebilir miyiz acaba?"
+    },
+    {
+      "id": "d9f6d847",
+      "bank_id": "20329601",
+      "text": "Seçilmiş Kişi, aslına bakarsan tam bir eziksin sen."
+    },
+    {
+      "id": "e2f6e6a8",
+      "bank_id": "20329601",
+      "text": "Seçilmiş Kişi mi? Ne için seçildin, vasatlıkta mükemmellik için mi?"
+    },
+    {
+      "id": "e2f6e6a9",
+      "bank_id": "20329601",
+      "text": "Seçilmiş Kişi ha? Kim seçti seni, bir avuç pislik hobbe mi?"
+    },
+    {
+      "id": "e2f6e6aa",
+      "bank_id": "20329601",
+      "text": "Hayatımda gördüğüm en zavallı Seçilmiş Kişi taslağısın."
+    },
+    {
+      "id": "e2f6e6ab",
+      "bank_id": "20329601",
+      "text": "Senden Seçilmiş Kişi falan olmaz!"
+    },
+    {
+      "id": "e2f6e6ac",
+      "bank_id": "20329601",
+      "text": "Herhangi bir şey için kim seni seçer ki, Seçilmiş Kişi?"
+    },
+    {
+      "id": "e2f6e6ad",
+      "bank_id": "20329601",
+      "text": "Benim kafamdaki Seçilmiş Kişi profiline hiç uymuyorsun."
+    },
+    {
+      "id": "e2f6e6af",
+      "bank_id": "20329601",
+      "text": "Seçilmiş Kişi mi? Tabi canım!"
+    },
+    {
+      "id": "e3a12061",
+      "bank_id": "20329601",
+      "text": "Köpek Sever mi? İnanmam!"
+    },
+    {
+      "id": "e3a12062",
+      "bank_id": "20329601",
+      "text": "Köpeğin seni sevebilir ama senin onu sevdiğinden şüpheliyim, Köpek Sever."
+    },
+    {
+      "id": "e3a12063",
+      "bank_id": "20329601",
+      "text": "Köpek Sever'sin, öyle mi? Köpeğine pek de sevgi dolu davranmıyorsun."
+    },
+    {
+      "id": "e3a12064",
+      "bank_id": "20329601",
+      "text": "Kendine nasıl Köpek Sever diyebiliyorsun? Köpek sahipliğinde tam bir fiyaskosun!"
+    },
+    {
+      "id": "e3a12065",
+      "bank_id": "20329601",
+      "text": "Kendine Köpek Sever diyebilirsin ama hiç öyle davranmıyorsun."
+    },
+    {
+      "id": "e3a12066",
+      "bank_id": "20329601",
+      "text": "Sen Köpek Sever falan değilsin. Bunu herkes biliyor."
+    },
+    {
+      "id": "e3a12067",
+      "bank_id": "20329601",
+      "text": "Kedileri tercih ettiğine bahse girerim, Köpek Sever."
+    },
+    {
+      "id": "eea13190",
+      "bank_id": "20329601",
+      "text": "Köpeğinle hiç oynamıyorsun. Ne biçim Köpek Sever'sin sen öyle."
+    },
+    {
+      "id": "eea13192",
+      "bank_id": "20329601",
+      "text": "Zavallı bir Köpek Sever taslağısın sen!"
+    },
+    {
+      "id": "eea13193",
+      "bank_id": "20329601",
+      "text": "Köpek Sever mi? Zavallı köpeğinin aynı fikirde olmadığına bahse girerim."
+    },
+    {
+      "id": "eea13194",
+      "bank_id": "20329601",
+      "text": "Oldukça döküntü bir Köpek Sever çıktın sen de."
+    },
+    {
+      "id": "eea13195",
+      "bank_id": "20329601",
+      "text": "Köpekleri gerçekten sevdiğini sanmıyorum, Köpek Sever."
+    },
+    {
+      "id": "eea13196",
+      "bank_id": "20329601",
+      "text": "Köpek Sever unvanına layık olduğuna inanmıyorum."
+    },
+    {
+      "id": "eea13197",
+      "bank_id": "20329601",
+      "text": "Benim Köpek Sever tasavvuruma hiç uymuyorsun."
+    },
+    {
+      "id": "f02b5b51",
+      "bank_id": "20329601",
+      "text": "Zorba olmak için fazla cılızsın."
+    },
+    {
+      "id": "f02b5b52",
+      "bank_id": "20329601",
+      "text": "Sen zorba falan değilsin, Zorba."
+    },
+    {
+      "id": "f02b5b53",
+      "bank_id": "20329601",
+      "text": "Gördüğüm en zavallı Zorba taslağısın."
+    },
+    {
+      "id": "f02b5b54",
+      "bank_id": "20329601",
+      "text": "Kendine Zorba mı diyorsun? HA!"
+    },
+    {
+      "id": "f02b5b55",
+      "bank_id": "20329601",
+      "text": "Sana pek zorba demezdim."
+    },
+    {
+      "id": "f02b5b56",
+      "bank_id": "20329601",
+      "text": "Seni zerre kadar zorba bulmuyorum, Zorba."
+    },
+    {
+      "id": "f02b5b57",
+      "bank_id": "20329601",
+      "text": "Söylemeliyim ki bana hiç de bir Zorba gibi görünmüyorsun."
+    },
+    {
+      "id": "f04a7eb8",
+      "bank_id": "20329601",
+      "text": "Kasap mı? Bu unvan tamamen bir adlandırma hatası."
+    },
+    {
+      "id": "f04a7eb9",
+      "bank_id": "20329601",
+      "text": "Kendine Kasap demek için insanın bir tür toplu katil olması gerektiği kanaatindeydim."
+    },
+    {
+      "id": "f04a7eba",
+      "bank_id": "20329601",
+      "text": "Kendine Kasap mı diyorsun? Güldürme beni!"
+    },
+    {
+      "id": "f04a7ebb",
+      "bank_id": "20329601",
+      "text": "Hadi oradan! Kasap mı? Sebzeleri doğruyor olmadığın sürece imkânsız."
+    },
+    {
+      "id": "f04a7ebc",
+      "bank_id": "20329601",
+      "text": "Bilemiyorum. Kasap gibi bir isim için yeterince acımasız görünmüyorsun."
+    },
+    {
+      "id": "f04a7ebd",
+      "bank_id": "20329601",
+      "text": "Kasap... Hmm, kulağa kötü biri gibi geliyorsun. Ve dürüst olalım, o kesinlikle sen değilsin."
+    },
+    {
+      "id": "f04a7ebe",
+      "bank_id": "20329601",
+      "text": "Kasap mı? Sırf sosis yapmayı seviyorsun diye mi yani?"
+    },
+    {
+      "id": "f94a8c88",
+      "bank_id": "20329601",
+      "text": "Kasap mı? Şaka mı bu?"
+    },
+    {
+      "id": "f94a8c89",
+      "bank_id": "20329601",
+      "text": "Hah. Kasap demek? Bir yanlışlık olmalı."
+    },
+    {
+      "id": "f94a8c8b",
+      "bank_id": "20329601",
+      "text": "Bir Kasap biraz daha... ne bileyim, ölümcül derecede kaçık olmalı değil miydi?"
+    },
+    {
+      "id": "f94a8c8c",
+      "bank_id": "20329601",
+      "text": "Demek Kasap sensin hmm? Bilemiyorum, daha... cani birini bekliyordum."
+    },
+    {
+      "id": "f94a8c8d",
+      "bank_id": "20329601",
+      "text": "Kasap mı? Bir maceracı neden bu kadar alçaltıcı bir iş istesin ki. Üstelik insanın kıyafetlerini de kesin kirletir."
+    },
+    {
+      "id": "f94a8c8e",
+      "bank_id": "20329601",
+      "text": "Kasap gibi bir isimle kimi korkutmaya çalışıyorsun? Lütfen ama."
+    },
+    {
+      "id": "f94a8c8f",
+      "bank_id": "20329601",
+      "text": "Sen mi? Kasap ha? Ha, bu benim kendime Bay Kibar Sofra Adabı demem gibi bir şey. *geğirir*"
+    },
+    {
+      "id": "fb2b6c80",
+      "bank_id": "20329601",
+      "text": "Zorba mı? Gerçekten mi? Hiç öyle görünmüyorsun."
+    },
+    {
+      "id": "fb2b6c82",
+      "bank_id": "20329601",
+      "text": "Sana Zorba mı diyorlar? Hiç anlam veremedim."
+    },
+    {
+      "id": "fb2b6c83",
+      "bank_id": "20329601",
+      "text": "Sana neden Zorba diyorlar ki? Cidden."
+    },
+    {
+      "id": "fb2b6c84",
+      "bank_id": "20329601",
+      "text": "Kafanla duvarları falan yıkıyor olman gerekmez miydi, Zorba?"
+    },
+    {
+      "id": "fb2b6c85",
+      "bank_id": "20329601",
+      "text": "Adının hakkını vermek istiyorsan daha zorba gibi davranmaya başlasan iyi edersin."
+    },
+    {
+      "id": "fb2b6c86",
+      "bank_id": "20329601",
+      "text": "Şaşırtıcı bir şekilde, seni hiç de öyle zorba bulmuyorum, Zorba."
+    },
+    {
+      "id": "fb2b6c87",
+      "bank_id": "20329601",
+      "text": "Bir Zorba olmak için biraz fazla düzgün görünüyorsun."
+    }
+  ]
+}

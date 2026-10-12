@@ -1,0 +1,806 @@
+{
+  "bank_id": "20f79600",
+  "total_strings": 160,
+  "strings": [
+    {
+      "id": "0074afe5",
+      "bank_id": "20f79600",
+      "text": "Kırık Ocak"
+    },
+    {
+      "id": "01bea7c8",
+      "bank_id": "20f79600",
+      "text": "Gurur duyabileceğiniz sağlam, kaliteli bir şifonyer."
+    },
+    {
+      "id": "038747d0",
+      "bank_id": "20f79600",
+      "text": "Tüm depolama ihtiyaçlarınız için sağlam, sade bir gardırop."
+    },
+    {
+      "id": "0458e8c4",
+      "bank_id": "20f79600",
+      "text": "Diğer sandalyeler bu muhteşem işçilik harikasının varlığını bilerek bile kendilerini yetersiz hisseder."
+    },
+    {
+      "id": "048d7175",
+      "bank_id": "20f79600",
+      "text": "Lüks Lavabo"
+    },
+    {
+      "id": "074f4f4e",
+      "bank_id": "20f79600",
+      "text": "Sahte Çiçekler"
+    },
+    {
+      "id": "0853afc8",
+      "bank_id": "20f79600",
+      "text": "Fermente Tofu"
+    },
+    {
+      "id": "08a2f79e",
+      "bank_id": "20f79600",
+      "text": "Lüks Rahat Koltuk"
+    },
+    {
+      "id": "09a7cb3f",
+      "bank_id": "20f79600",
+      "text": "Aç sanatçıların çizdiği süslü şablonlar bu lüks çekmeceli dolabı süslüyor."
+    },
+    {
+      "id": "0f1c4bea",
+      "bank_id": "20f79600",
+      "text": "Doğal Köpek Ödülleri"
+    },
+    {
+      "id": "0fe16bfe",
+      "bank_id": "20f79600",
+      "text": "Buna sahipseniz muhtemelen bunu sizden çok daha fazla kullanan hizmetçileriniz vardır."
+    },
+    {
+      "id": "10470180",
+      "bank_id": "20f79600",
+      "text": "İskeletten dışarı paslı çiviler fırlıyor. Hakikaten ayakta dursanız daha iyi."
+    },
+    {
+      "id": "12306714",
+      "bank_id": "20f79600",
+      "text": "Lüks Gardırop"
+    },
+    {
+      "id": "14069017",
+      "bank_id": "20f79600",
+      "text": "Bu zarif, el oyması, altın yaldızlı kitaplık Albion'un aydın kesimi için olmazsa olmazdır."
+    },
+    {
+      "id": "166a3d57",
+      "bank_id": "20f79600",
+      "text": "Dekoratif Gardırop"
+    },
+    {
+      "id": "179b7917",
+      "bank_id": "20f79600",
+      "text": "Ucuz Çiçekler"
+    },
+    {
+      "id": "1a174e42",
+      "bank_id": "20f79600",
+      "text": "Sıradan Büfe"
+    },
+    {
+      "id": "1e06cb90",
+      "bank_id": "20f79600",
+      "text": "Doğal çiçek güzellikleri yeterince iyi bulunmadığından bu gül buketi 14 ayar görünmez altınla yaldızlanmıştır. Göz koyduğunuz kişinin gözleri açgözlülük ve hırsla parlayacaktır."
+    },
+    {
+      "id": "1eecface",
+      "bank_id": "20f79600",
+      "text": "Saf Çikolata"
+    },
+    {
+      "id": "204cb278",
+      "bank_id": "20f79600",
+      "text": "Bu yataktaki özel işlem görmüş ahşap, içinde uyuyan her çocuğa en harika rüyaları bahşedecek sakin, büyülü bir şarkı mırıldanır."
+    },
+    {
+      "id": "2559d947",
+      "bank_id": "20f79600",
+      "text": "Dekoratif Büfe"
+    },
+    {
+      "id": "25a168c3",
+      "bank_id": "20f79600",
+      "text": "Böylesine nefis bir şekerlemeye kim karşı koyabilir ki? Pürüzsüz, lüks ve baştan çıkarıcı."
+    },
+    {
+      "id": "283c2e0d",
+      "bank_id": "20f79600",
+      "text": "İmza Kartı"
+    },
+    {
+      "id": "2852294f",
+      "bank_id": "20f79600",
+      "text": "Dekoratif Şifonyer"
+    },
+    {
+      "id": "28b5d661",
+      "bank_id": "20f79600",
+      "text": "Bir çift veya çok iri bir kişi için iyi, sağlam bir yatak."
+    },
+    {
+      "id": "28bbf1e7",
+      "bank_id": "20f79600",
+      "text": "Organik Tofu"
+    },
+    {
+      "id": "2d7a4c65",
+      "bank_id": "20f79600",
+      "text": "Kırık Çift Kişilik Yatak"
+    },
+    {
+      "id": "2e715b72",
+      "bank_id": "20f79600",
+      "text": "2 veya 20 kişi için uygun olan bu lüks masa, oturup kaliteli yemekleri mideye indirirken mükemmeldir."
+    },
+    {
+      "id": "2e884fc0",
+      "bank_id": "20f79600",
+      "text": "Sıradan Ocak"
+    },
+    {
+      "id": "2fb1c333",
+      "bank_id": "20f79600",
+      "text": "Bu yumuşacık harikada uyuyakalmamaya dikkat edin."
+    },
+    {
+      "id": "31ab6bb6",
+      "bank_id": "20f79600",
+      "text": "Sıradan Yemek Masası"
+    },
+    {
+      "id": "351491fb",
+      "bank_id": "20f79600",
+      "text": "Mobilya"
+    },
+    {
+      "id": "35451a53",
+      "bank_id": "20f79600",
+      "text": "Kırık Lavabo"
+    },
+    {
+      "id": "361b3ab5",
+      "bank_id": "20f79600",
+      "text": "Sokak Köpeği Bisküvileri"
+    },
+    {
+      "id": "3625af36",
+      "bank_id": "20f79600",
+      "text": "Yumuşak, pul pul hamur kabuğu, içine doldurulan lokum gibi dana etinin ilahi dilimlerini neredeyse zapt edemiyor."
+    },
+    {
+      "id": "364af265",
+      "bank_id": "20f79600",
+      "text": "Standart bir kitaplık; depolamak için birebir... tahmin ettiniz... kitapları."
+    },
+    {
+      "id": "36849601",
+      "bank_id": "20f79600",
+      "text": "Bu harika tasarlanmış masayla ev sahiplerinin en iyisi olun."
+    },
+    {
+      "id": "39fecf5d",
+      "bank_id": "20f79600",
+      "text": "Tacı veya peruğu üzerine koyabileceğiniz zarif bir yatak odası mobilyası."
+    },
+    {
+      "id": "3b22e04a",
+      "bank_id": "20f79600",
+      "text": "Bir gardıroptan ziyade başarısız bir oda genişletme girişimi."
+    },
+    {
+      "id": "4221ca5a",
+      "bank_id": "20f79600",
+      "text": "Çoğu tabak bu büfede görülmekten utanç duyardı."
+    },
+    {
+      "id": "44ebc084",
+      "bank_id": "20f79600",
+      "text": "Dekoratif Komodin"
+    },
+    {
+      "id": "47adefc2",
+      "bank_id": "20f79600",
+      "text": "Köpeğiniz ondan neden bu kadar nefret ettiğinizi merak edecektir."
+    },
+    {
+      "id": "480f462a",
+      "bank_id": "20f79600",
+      "text": "Dekoratif Kitaplık"
+    },
+    {
+      "id": "49195e2d",
+      "bank_id": "20f79600",
+      "text": "Eprimiş ama sağlam, en azından bu çekmeceler güveleri uzak tutacaktır."
+    },
+    {
+      "id": "49ae13f1",
+      "bank_id": "20f79600",
+      "text": "Lüks Çift Kişilik Yatak"
+    },
+    {
+      "id": "4f2776c0",
+      "bank_id": "20f79600",
+      "text": "Dil için dokunsal bir zevk ve bedeniniz için sağlıklı bir armağan olsa da ikisi de bu tofudan pek bir tat alamayacaktır."
+    },
+    {
+      "id": "55f1ea50",
+      "bank_id": "20f79600",
+      "text": "Çok Bayat Köpek Bisküvileri"
+    },
+    {
+      "id": "583be9f5",
+      "bank_id": "20f79600",
+      "text": "Lüks Kitaplık"
+    },
+    {
+      "id": "5a3e4c5f",
+      "bank_id": "20f79600",
+      "text": "Simyasal işlem görmüş bu çiçekler öyle harika kokuyor ki kime verirseniz verin sevinçten kendinden geçecektir."
+    },
+    {
+      "id": "5b85e59f",
+      "bank_id": "20f79600",
+      "text": "Hayır, karlı bir diyara açılan gizli bir geçit değil. Sadece döküntü bir gardırop."
+    },
+    {
+      "id": "5b8dec40",
+      "bank_id": "20f79600",
+      "text": "Eski Çift Kişilik Yatak"
+    },
+    {
+      "id": "5ce09ffa",
+      "bank_id": "20f79600",
+      "text": "Bu kokuşmuş çökeleğin Albion'un bazı bölgelerinde bir lezzet harikası olduğu varsayılır. Yapışkan bir balçıkla kaplıdır ve temmuz ayındaki bir çöp konteynerinin karmaşık ama neşeli aromasına sahiptir."
+    },
+    {
+      "id": "5fb1ceef",
+      "bank_id": "20f79600",
+      "text": "Bu ikinci el büfe daha iyi günler görmüştür."
+    },
+    {
+      "id": "638fd5d7",
+      "bank_id": "20f79600",
+      "text": "Yaş ve kullanımla matlaşmış bu şifonyeri karanlık bir odada saklamak en iyisidir."
+    },
+    {
+      "id": "657206cc",
+      "bank_id": "20f79600",
+      "text": "Safkan Köpek Lezzetleri"
+    },
+    {
+      "id": "675d796b",
+      "bank_id": "20f79600",
+      "text": "Eski Rahat Koltuk"
+    },
+    {
+      "id": "6a03aaa2",
+      "bank_id": "20f79600",
+      "text": "Kırık Rahat Koltuk"
+    },
+    {
+      "id": "6ac4138a",
+      "bank_id": "20f79600",
+      "text": "Kahverengi olmasına kahverengi ama bu onu ille de çikolata yapmaz. Yine de en azından tatlı. Sıradışı ve iğrenç bir şekilde."
+    },
+    {
+      "id": "6c891525",
+      "bank_id": "20f79600",
+      "text": "Daha seçici mobilya sahipleri için bu şifonyer, onu satın almadan önce paranız olduğunu hissettirir."
+    },
+    {
+      "id": "6cf9331d",
+      "bank_id": "20f79600",
+      "text": "Dekoratif Çekmeceli Dolap"
+    },
+    {
+      "id": "6f355d60",
+      "bank_id": "20f79600",
+      "text": "Biraz yeni boyayla... ve bir dördüncü bacakla fena olmayacak bir komodin."
+    },
+    {
+      "id": "71dbf7df",
+      "bank_id": "20f79600",
+      "text": "Birinin kalbini eritmekten ziyade dişlerini ufalaması daha muhtemeldir."
+    },
+    {
+      "id": "725918cd",
+      "bank_id": "20f79600",
+      "text": "Lapa Tofu"
+    },
+    {
+      "id": "74861cbc",
+      "bank_id": "20f79600",
+      "text": "Şu eski yatak odasına biraz romantizm katmak için idealdir."
+    },
+    {
+      "id": "77d39e88",
+      "bank_id": "20f79600",
+      "text": "Bu gayet yeterli bir lavabodur."
+    },
+    {
+      "id": "78829d1c",
+      "bank_id": "20f79600",
+      "text": "Kırık Yemek Masası"
+    },
+    {
+      "id": "790ed776",
+      "bank_id": "20f79600",
+      "text": "Kâbus Çocuk Yatağı"
+    },
+    {
+      "id": "79e1e7e3",
+      "bank_id": "20f79600",
+      "text": "Dekoratif Yemek Masası"
+    },
+    {
+      "id": "7c4776ed",
+      "bank_id": "20f79600",
+      "text": "Sıradan Komodin"
+    },
+    {
+      "id": "7cdb41ba",
+      "bank_id": "20f79600",
+      "text": "Tatlı Rüyalar Çocuk Yatağı"
+    },
+    {
+      "id": "7e4d69ea",
+      "bank_id": "20f79600",
+      "text": "Sıradan Şifonyer"
+    },
+    {
+      "id": "7fbe8c52",
+      "bank_id": "20f79600",
+      "text": "Sıradan Gardırop"
+    },
+    {
+      "id": "8044ec52",
+      "bank_id": "20f79600",
+      "text": "Yemek pişirmek ve genel ısınma için iyidir."
+    },
+    {
+      "id": "80f3286e",
+      "bank_id": "20f79600",
+      "text": "Bahar kokuyorlar ama sevdiceğinize muhtemelen birkaç günden fazla dayanmazlar."
+    },
+    {
+      "id": "8213b906",
+      "bank_id": "20f79600",
+      "text": "Bu sulu ve leziz lokmalar, insan dillerinin algılayamayacağı kadar yüksek tat frekanslarına sahip nadir çeşniler içerir."
+    },
+    {
+      "id": "88ab409d",
+      "bank_id": "20f79600",
+      "text": "Tüm orta sınıf statü arayanlar için mutfağınızı pırıl pırıl yapacaktır."
+    },
+    {
+      "id": "8b172055",
+      "bank_id": "20f79600",
+      "text": "Bu elden düşme yatakta bir gece uyumak çocuk istismarıyla eşdeğer sayılır."
+    },
+    {
+      "id": "8d0a765c",
+      "bank_id": "20f79600",
+      "text": "Bu tamamen yeterli masanın etrafında bol bol yapmacık akşam yemeği sohbetinin tadını çıkarın."
+    },
+    {
+      "id": "8d4a8dbd",
+      "bank_id": "20f79600",
+      "text": "Her yerdeki hippilerin tercih ettiği yiyecek."
+    },
+    {
+      "id": "8d607dc5",
+      "bank_id": "20f79600",
+      "text": "Ninni Çocuk Yatağı"
+    },
+    {
+      "id": "928d89c8",
+      "bank_id": "20f79600",
+      "text": "Bunları köpeğinizin suratına tıkın."
+    },
+    {
+      "id": "936cd95b",
+      "bank_id": "20f79600",
+      "text": "Sütlü Çikolata"
+    },
+    {
+      "id": "93969fc4",
+      "bank_id": "20f79600",
+      "text": "Lüks Büfe"
+    },
+    {
+      "id": "9a651096",
+      "bank_id": "20f79600",
+      "text": "Dekoratif Çift Kişilik Yatak"
+    },
+    {
+      "id": "9ab9c088",
+      "bank_id": "20f79600",
+      "text": "Sıradan Rahat Koltuk"
+    },
+    {
+      "id": "9af7788d",
+      "bank_id": "20f79600",
+      "text": "Bu kaliteli depolama alanı harika bir işçiliğe, zarif boyaya ve belli belirsiz bir çam kokusuna sahiptir."
+    },
+    {
+      "id": "9b45deb9",
+      "bank_id": "20f79600",
+      "text": "Hediye"
+    },
+    {
+      "id": "9c2a484d",
+      "bank_id": "20f79600",
+      "text": "Sevgilinize verirken elinizde solması muhtemeldir."
+    },
+    {
+      "id": "9d7ac527",
+      "bank_id": "20f79600",
+      "text": "Yemek pişirmekte berbat ama evi yakmakta harika olan derme çatma bir yapı."
+    },
+    {
+      "id": "a0df6a0c",
+      "bank_id": "20f79600",
+      "text": "Eski Kitaplık"
+    },
+    {
+      "id": "a127131e",
+      "bank_id": "20f79600",
+      "text": "Kutsal suda pıhtılaştırılıp preslenmiştir ancak lezzeti pek de özel değildir."
+    },
+    {
+      "id": "a3aef2cf",
+      "bank_id": "20f79600",
+      "text": "Hayranlarınız için imzanızı almaktan daha heyecan verici ne olabilir ki? Tabii herhangi bir hayranınız olacak kadar ünlü olduğunuzu varsayarsak."
+    },
+    {
+      "id": "a4dd10e4",
+      "bank_id": "20f79600",
+      "text": "Kutsal Tofu"
+    },
+    {
+      "id": "a54c58b5",
+      "bank_id": "20f79600",
+      "text": "Eski Şifonyer"
+    },
+    {
+      "id": "a6ceb909",
+      "bank_id": "20f79600",
+      "text": "Pas ve ölü termitlerle bir arada duruyor. Sabah uyandığınızda hâlâ ayakta duruyorsa şanslısınız demektir."
+    },
+    {
+      "id": "a95b339f",
+      "bank_id": "20f79600",
+      "text": "Huzursuz Gece Çocuk Yatağı"
+    },
+    {
+      "id": "ab5cf5e2",
+      "bank_id": "20f79600",
+      "text": "İpeksi Tofu"
+    },
+    {
+      "id": "aba49107",
+      "bank_id": "20f79600",
+      "text": "Çocuklar bu yatakta memnun bir gülümsemeyle uykuya dalacaktır."
+    },
+    {
+      "id": "ac00fcae",
+      "bank_id": "20f79600",
+      "text": "Ev depolamasının bu gösterişli şaheseri sizi gözyaşlarına boğacaktır... bilhassa üzerinize devrilirse."
+    },
+    {
+      "id": "acff1fcb",
+      "bank_id": "20f79600",
+      "text": "Kırık Komodin"
+    },
+    {
+      "id": "ad3ca579",
+      "bank_id": "20f79600",
+      "text": "Bazen çikolatadan başka hiçbir şey işe yaramaz; bu ucuz ve hafif kireçli çeşit olsa bile."
+    },
+    {
+      "id": "ad4a88d2",
+      "bank_id": "20f79600",
+      "text": "Bu çift kişilik yatak epey hareket görmüştür."
+    },
+    {
+      "id": "aea54f69",
+      "bank_id": "20f79600",
+      "text": "Çikolata"
+    },
+    {
+      "id": "b5248236",
+      "bank_id": "20f79600",
+      "text": "En kaliteli ahşaptan yontulmuş, sonra çekiçlerle dövülmüş, ateşe verilmiş, bir dizi tepeden aşağı yuvarlanmış ve kullanımınıza sunulmuştur."
+    },
+    {
+      "id": "b59cb3b4",
+      "bank_id": "20f79600",
+      "text": "Sıradan Çekmeceli Dolap"
+    },
+    {
+      "id": "b6df0dc2",
+      "bank_id": "20f79600",
+      "text": "Beceriksiz bir marangoz tarafından sarhoşluk öfkesiyle girişilmiş bu şifonyer işe yarar olmaktan ziyade utanç vericidir."
+    },
+    {
+      "id": "b9210b4f",
+      "bank_id": "20f79600",
+      "text": "Gurme Köpek Ödülleri"
+    },
+    {
+      "id": "b94997f2",
+      "bank_id": "20f79600",
+      "text": "Lüks Çekmeceli Dolap"
+    },
+    {
+      "id": "bc529339",
+      "bank_id": "20f79600",
+      "text": "Dekoratif Rahat Koltuk"
+    },
+    {
+      "id": "bcbc3cbb",
+      "bank_id": "20f79600",
+      "text": "Bu döküntü yığın bırakın ağır ciltleri, derin bir düşünceyi bile taşıyamayacak gibi görünüyor."
+    },
+    {
+      "id": "bd811d46",
+      "bank_id": "20f79600",
+      "text": "Kimsenin okumadığı ama sahibini akıllı gösteren pahalı görünümlü kitapları yıllarca tutarak eskimiş bir kitaplık."
+    },
+    {
+      "id": "bdd12043",
+      "bank_id": "20f79600",
+      "text": "Lüks Ocak"
+    },
+    {
+      "id": "bde1cea0",
+      "bank_id": "20f79600",
+      "text": "Şanslıysanız birçok fincanı, tabağı ve belki de bardakları tutabilen kullanışlı bir mutfak dolabı."
+    },
+    {
+      "id": "beaf30f4",
+      "bank_id": "20f79600",
+      "text": "Kolu çekerseniz size bir çivi fırlar. Ayrıca her altı saatte bir çorap yer."
+    },
+    {
+      "id": "beba90be",
+      "bank_id": "20f79600",
+      "text": "Dekoratif bir yatak için mükemmel bir yoldaş."
+    },
+    {
+      "id": "becb553d",
+      "bank_id": "20f79600",
+      "text": "Bal Kokulu Çiçekler"
+    },
+    {
+      "id": "bf8d85f0",
+      "bank_id": "20f79600",
+      "text": "Bu zarif çekmeceler minik lavanta keseleriyle döşenmiştir."
+    },
+    {
+      "id": "bfdd970b",
+      "bank_id": "20f79600",
+      "text": "Bu yatak o kadar rahat ve zariftir ki sırf hava atmak için yatıya misafir çağırırsınız."
+    },
+    {
+      "id": "bfe475dc",
+      "bank_id": "20f79600",
+      "text": "İyi Geceler Çocuk Yatağı"
+    },
+    {
+      "id": "c014827d",
+      "bank_id": "20f79600",
+      "text": "Eski Gardırop"
+    },
+    {
+      "id": "c0581797",
+      "bank_id": "20f79600",
+      "text": "Avo ilahi ellerini yıkadığında, işte böyle parıldayan bir leğende yıkar."
+    },
+    {
+      "id": "c48c22f7",
+      "bank_id": "20f79600",
+      "text": "Eski Çekmeceli Dolap"
+    },
+    {
+      "id": "c5230850",
+      "bank_id": "20f79600",
+      "text": "Kırık Şifonyer"
+    },
+    {
+      "id": "c6942a38",
+      "bank_id": "20f79600",
+      "text": "Kırık Gardırop"
+    },
+    {
+      "id": "c8f20602",
+      "bank_id": "20f79600",
+      "text": "Eski Komodin"
+    },
+    {
+      "id": "ca8061a7",
+      "bank_id": "20f79600",
+      "text": "Sanki bir trol üzerinde zıplayıp durmuş gibi görünen çift kişilik bir yatak; bu kadar ucuz olmasının sebebi de tam olarak bu."
+    },
+    {
+      "id": "cb821708",
+      "bank_id": "20f79600",
+      "text": "Şimdi kitaplarınız yoksa bile bu muhteşem kitaplığı doldurmak için birkaç tane edinmek isteyeceksiniz."
+    },
+    {
+      "id": "cd8c30df",
+      "bank_id": "20f79600",
+      "text": "Nefis Biftekli Turta"
+    },
+    {
+      "id": "cee52719",
+      "bank_id": "20f79600",
+      "text": "Evinizi dekore etmek için mobilyaların kilidini açın..."
+    },
+    {
+      "id": "d1e60311",
+      "bank_id": "20f79600",
+      "text": "Ne kadar temizlerseniz temizleyin küfe, rutubete ve kire yapışacağı kesindir."
+    },
+    {
+      "id": "d1e6e94e",
+      "bank_id": "20f79600",
+      "text": "Son derece sıradan ağaçlardan üretilen bu çekmeceler yeterliliğin zirvesidir."
+    },
+    {
+      "id": "d243fda9",
+      "bank_id": "20f79600",
+      "text": "Üstün Kalite Çikolata"
+    },
+    {
+      "id": "d4349107",
+      "bank_id": "20f79600",
+      "text": "Lüks Komodin"
+    },
+    {
+      "id": "d46c4e1c",
+      "bank_id": "20f79600",
+      "text": "Bu yatak derme çatma küflü tahtalardan ibarettir ve üzerinde uyuyan herkese kötü rüyalar gördürmesi garantilidir."
+    },
+    {
+      "id": "d4a324cc",
+      "bank_id": "20f79600",
+      "text": "Veliahdın Şifonyeri"
+    },
+    {
+      "id": "d66900bd",
+      "bank_id": "20f79600",
+      "text": "Çakıl Çikolata"
+    },
+    {
+      "id": "dcb651e0",
+      "bank_id": "20f79600",
+      "text": "Lüks Yemek Masası"
+    },
+    {
+      "id": "e12c4929",
+      "bank_id": "20f79600",
+      "text": "Birçok kıçın ağırlığı içine gömülmeniz için güzel bir oyuk açmıştır."
+    },
+    {
+      "id": "e28eab2b",
+      "bank_id": "20f79600",
+      "text": "Eskiden bir yatak, sonra bir sandalye, sonra büyük bir tahta kaşık olan bu yemek masası geri dönüştürülmüş teknolojinin en iyisidir."
+    },
+    {
+      "id": "e2f9722e",
+      "bank_id": "20f79600",
+      "text": "Kırık Çekmeceli Dolap"
+    },
+    {
+      "id": "e4409d2d",
+      "bank_id": "20f79600",
+      "text": "Eski Büfe"
+    },
+    {
+      "id": "e4a9bcd4",
+      "bank_id": "20f79600",
+      "text": "Taze Toplanmış Çiçekler"
+    },
+    {
+      "id": "e57f7614",
+      "bank_id": "20f79600",
+      "text": "Gerçek gibi görünebilirler ancak bu çiçekleri yapmak için kullanılan ucuz simyasal maddelere uzun süre maruz kalmak ölüme yol açabilir."
+    },
+    {
+      "id": "e68c2201",
+      "bank_id": "20f79600",
+      "text": "Kırık Kitaplık"
+    },
+    {
+      "id": "ead6bcc3",
+      "bank_id": "20f79600",
+      "text": "Sıradan Çift Kişilik Yatak"
+    },
+    {
+      "id": "ed94d9a8",
+      "bank_id": "20f79600",
+      "text": "Kırık Büfe"
+    },
+    {
+      "id": "edca498f",
+      "bank_id": "20f79600",
+      "text": "Ömrünü tamamlamak üzere ama hâlâ besleyici ve arındırıcı."
+    },
+    {
+      "id": "eed8c711",
+      "bank_id": "20f79600",
+      "text": "Eski Yemek Masası"
+    },
+    {
+      "id": "ef4843ba",
+      "bank_id": "20f79600",
+      "text": "Temel oturma ihtiyaçlarınız için idealdir."
+    },
+    {
+      "id": "f144d706",
+      "bank_id": "20f79600",
+      "text": "Bu birinci sınıf şifonyer, on yılı aşkın süredir kraliyet ailesinin ve zengin ahmakların gözdesi olmuştur."
+    },
+    {
+      "id": "f45eb7d7",
+      "bank_id": "20f79600",
+      "text": "Bu minik ödüller domuz pastırması ve can sıkıntısı kokuyor ama köpekler muhtemelen can sıkıntısının tadını bile alamaz."
+    },
+    {
+      "id": "f460cdaa",
+      "bank_id": "20f79600",
+      "text": "Sıradan Lavabo"
+    },
+    {
+      "id": "f490018f",
+      "bank_id": "20f79600",
+      "text": "Sıradan Kitaplık"
+    },
+    {
+      "id": "f636f178",
+      "bank_id": "20f79600",
+      "text": "Kerpiç Çikolata"
+    },
+    {
+      "id": "f7ba3aaf",
+      "bank_id": "20f79600",
+      "text": "Lamba, kitap veya aşırı beslenmiş bir kedi için uygun standart bir komodin."
+    },
+    {
+      "id": "f983ca1c",
+      "bank_id": "20f79600",
+      "text": "Fileminyonlu Turta"
+    },
+    {
+      "id": "fbb039e1",
+      "bank_id": "20f79600",
+      "text": "İki dakikada bir tavuk pişirebilen bu enfes ocak, iyi tasarlanmış her mutfağın mihenk taşıdır."
+    },
+    {
+      "id": "fc865af6",
+      "bank_id": "20f79600",
+      "text": "Unutulmaz bir uyku olmasa da dinlendirici bir uyku sağlayacak kadar rahattır."
+    },
+    {
+      "id": "fd1d2194",
+      "bank_id": "20f79600",
+      "text": "Bunu kime verirseniz verin narin ama zengin çikolata tadına bayılacağı kesindir."
+    },
+    {
+      "id": "fd57f725",
+      "bank_id": "20f79600",
+      "text": "Kör bir tat testinde köpeklerin yüzde altmışı Gurme ödüllerini bir köpeğin gözlerini bağlamaya çalışan salağın elinin tadına tercih etmiştir."
+    }
+  ]
+}

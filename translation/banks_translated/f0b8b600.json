@@ -1,0 +1,521 @@
+{
+  "bank_id": "f0b8b600",
+  "total_strings": 103,
+  "strings": [
+    {
+      "id": "0814466f",
+      "bank_id": "f0b8b600",
+      "text": "Yenilip yutulman gerekiyordu ama sen onları öldürdün!"
+    },
+    {
+      "id": "084f4a01",
+      "bank_id": "f0b8b600",
+      "text": "Bir grup hobbe, tesadüfen birinin evi olan bir mağarayı istila etti."
+    },
+    {
+      "id": "091447c2",
+      "bank_id": "f0b8b600",
+      "text": "Katil!"
+    },
+    {
+      "id": "1408ffb3",
+      "bank_id": "f0b8b600",
+      "text": "Kalan hobbe: %1."
+    },
+    {
+      "id": "148ca114",
+      "bank_id": "f0b8b600",
+      "text": "Hayranların zafer dolu dönüşünü bekliyor."
+    },
+    {
+      "id": "15090126",
+      "bank_id": "f0b8b600",
+      "text": "Kalan hobbe: 1."
+    },
+    {
+      "id": "150d4112",
+      "bank_id": "f0b8b600",
+      "text": "Ah, peki, öyleyse. Sonra görüşürüz o zaman."
+    },
+    {
+      "id": "1520ccf0",
+      "bank_id": "f0b8b600",
+      "text": "Baksana, benim için gidip bir bakmazsın değil mi?"
+    },
+    {
+      "id": "158ca287",
+      "bank_id": "f0b8b600",
+      "text": "İçeride kan için feryat ediyorlar ve sen onlara bunu nasıl vereceğini iyi biliyorsun."
+    },
+    {
+      "id": "178ca5ed",
+      "bank_id": "f0b8b600",
+      "text": "Neyi bekliyorsun? Daha fazla zafer havasında değil misin?"
+    },
+    {
+      "id": "1a20d4af",
+      "bank_id": "f0b8b600",
+      "text": "Muhtemelen o kokunun ne olduğunu merak ediyorsun, değil mi?"
+    },
+    {
+      "id": "1a710870",
+      "bank_id": "f0b8b600",
+      "text": "Oh, iyi dövüştü ama Çile rekorunu kırmaya yetecek kadar değil."
+    },
+    {
+      "id": "1a71087b",
+      "bank_id": "f0b8b600",
+      "text": "Oh, iyi dövüştü ama Çile rekorunu kırmaya yetecek kadar değil."
+    },
+    {
+      "id": "1b20d602",
+      "bank_id": "f0b8b600",
+      "text": "Suda bir terslik var. Normalde çok taze ve saftır ama tamamen kokuşmuş durumda."
+    },
+    {
+      "id": "1c20d7f5",
+      "bank_id": "f0b8b600",
+      "text": "Bana sorarsan şelalenin arkasındaki mağarada bir şeyler çürüyor."
+    },
+    {
+      "id": "1c536612",
+      "bank_id": "f0b8b600",
+      "text": "Fena değil ama o talepkâr seyircimizi etkilemek için bundan çok daha iyisini yapması gerekecek!"
+    },
+    {
+      "id": "1c536619",
+      "bank_id": "f0b8b600",
+      "text": "Fena değil ama o talepkâr seyircimizi etkilemek için bundan çok daha iyisini yapması gerekecek!"
+    },
+    {
+      "id": "28c2b316",
+      "bank_id": "f0b8b600",
+      "text": "Kişisel rekorunu geliştirecek sanmıştım! Ama geliştiremedi."
+    },
+    {
+      "id": "28c2b31d",
+      "bank_id": "f0b8b600",
+      "text": "Kişisel rekorunu geliştirecek sanmıştım! Ama geliştiremedi."
+    },
+    {
+      "id": "2d0b6a04",
+      "bank_id": "f0b8b600",
+      "text": "Kokuya neredeyse alıştım. Ama müşteriler o kadar titiz ki..."
+    },
+    {
+      "id": "2e675e05",
+      "bank_id": "f0b8b600",
+      "text": "%1 / %2 turu Mükemmel Tur süreleriyle tamamladınız."
+    },
+    {
+      "id": "30f24c41",
+      "bank_id": "f0b8b600",
+      "text": "Oh, en iyi derecesi değildi. Yanından bile geçmedi. Yine de hız her şey demek değildir. Önemli olan öldürmek!"
+    },
+    {
+      "id": "30f24c4a",
+      "bank_id": "f0b8b600",
+      "text": "Oh, en iyi derecesi değildi. Yanından bile geçmedi. Yine de hız her şey demek değildir. Önemli olan öldürmek!"
+    },
+    {
+      "id": "34967858",
+      "bank_id": "f0b8b600",
+      "text": "İnsanlar hep beni görmezden gelmeye çalışıyor. Ama sen farklısın, değil mi? Sen anlıyorsun."
+    },
+    {
+      "id": "359679cb",
+      "bank_id": "f0b8b600",
+      "text": "Pöh! Onlar çıkagelene kadar orada öyle mutluydum ki."
+    },
+    {
+      "id": "36990256",
+      "bank_id": "f0b8b600",
+      "text": "Toplam geçen süre: %1 saniye"
+    },
+    {
+      "id": "37967d11",
+      "bank_id": "f0b8b600",
+      "text": "Birkaç küçük hobbe'den korkmuyorsundur herhalde."
+    },
+    {
+      "id": "38616dbe",
+      "bank_id": "f0b8b600",
+      "text": "Çürümüş Bir Şeyler"
+    },
+    {
+      "id": "3cd442e7",
+      "bank_id": "f0b8b600",
+      "text": "Bu kayıttaki yazıyı okumak daha zor. Çoğu bir karalamadan hallice. Yine de bir pasaj gayet net: 'Bugün harika bir oyun oynadık! Bir kervan geçene kadar çalılıklarda saklanmamız gerekti, sonra onu devirip içindeki herkesi peltesi çıkana kadar sopaladık. Bu gece iyi ziyafet çekeceğiz!'"
+    },
+    {
+      "id": "3e9e6053",
+      "bank_id": "f0b8b600",
+      "text": "Çile'yi tekrar tamamlayın."
+    },
+    {
+      "id": "3f253d48",
+      "bank_id": "f0b8b600",
+      "text": "Siz bir Çile şampiyonusunuz. Ancak hâlâ kırılacak rekorlar ve kazanılacak ödüller var."
+    },
+    {
+      "id": "471e028f",
+      "bank_id": "f0b8b600",
+      "text": "Mağara Günlüğü Sayfa 4"
+    },
+    {
+      "id": "47829e78",
+      "bank_id": "f0b8b600",
+      "text": "Hey, istendiğinde mağaralara, zindanlara falan giren tiplere benziyorsun. Bana yardım edebilirsin!"
+    },
+    {
+      "id": "4982a15e",
+      "bank_id": "f0b8b600",
+      "text": "Sığınmak için Tapınağa geldim ama şu yaratıkları mağaramdan kovabilirsen evime dönebilirim."
+    },
+    {
+      "id": "49bccf2c",
+      "bank_id": "f0b8b600",
+      "text": "Bir Çile kıdemlisi..."
+    },
+    {
+      "id": "49f296a0",
+      "bank_id": "f0b8b600",
+      "text": "Bu tek kelimeyle uyuşukçaydı. Yaşlılığın bundan daha hızlı öldürdüğünü gördüm ben!"
+    },
+    {
+      "id": "4a34a8c8",
+      "bank_id": "f0b8b600",
+      "text": "Hey! Mağarama girmek istemiyor musun?"
+    },
+    {
+      "id": "4a82a331",
+      "bank_id": "f0b8b600",
+      "text": "Şey, mekânım bu, görüyorsun ya. Bu sıcacık küçük mağarada yaşıyorum... neredeyse hiç rutubet yok... ama bir hobbe ailesi tarafından kapı dışarı edildim."
+    },
+    {
+      "id": "4bac9be3",
+      "bank_id": "f0b8b600",
+      "text": "Hobbe İşgalciler"
+    },
+    {
+      "id": "4cbcd3e5",
+      "bank_id": "f0b8b600",
+      "text": "Bayanlar ve baylar, bugün sizler için eski bir gözdelerimizden biri var."
+    },
+    {
+      "id": "51995f91",
+      "bank_id": "f0b8b600",
+      "text": "Oh, çok yaklaştı! Önceki rekorunu neredeyse kırıyordu! Belki bir dahaki sefere. Ya da ondan sonrakine."
+    },
+    {
+      "id": "51995f9a",
+      "bank_id": "f0b8b600",
+      "text": "Oh, çok yaklaştı! Önceki rekorunu neredeyse kırıyordu! Belki bir dahaki sefere. Ya da ondan sonrakine."
+    },
+    {
+      "id": "608cc2e3",
+      "bank_id": "f0b8b600",
+      "text": "Etkileyici bir performans, yine de önceki en iyi derecesini geçemedi."
+    },
+    {
+      "id": "608cc2e8",
+      "bank_id": "f0b8b600",
+      "text": "Etkileyici bir performans, yine de önceki en iyi derecesini geçemedi."
+    },
+    {
+      "id": "6c5c92d8",
+      "bank_id": "f0b8b600",
+      "text": "Evet, bu oldukça etkileyiciydi."
+    },
+    {
+      "id": "6f5c9791",
+      "bank_id": "f0b8b600",
+      "text": "Ne performans ama! Az önce Çile tarihine tanıklık ettik! Gerçi tarih değil bu, az önce yaşandı! Bu Şampiyon nihai rekorun sahibi oldu! Öyle boyutlarda bir başarı ki az hayal gücüne sahip insanlar için kesinlikle hayal bile edilemez."
+    },
+    {
+      "id": "73ee6a37",
+      "bank_id": "f0b8b600",
+      "text": "Harika. Mağara şelalenin arkasında, tam hanın arkasında kalıyor. Kaçırmana imkân yok."
+    },
+    {
+      "id": "7426f9ab",
+      "bank_id": "f0b8b600",
+      "text": "Kontrollere dokunduğunuzda gemi niyetinizi anlar ve kendi kendine yelken açar."
+    },
+    {
+      "id": "8110c033",
+      "bank_id": "f0b8b600",
+      "text": "İçeri girin. Seyirciler bekliyor. Ama sonsuza kadar beklemezler."
+    },
+    {
+      "id": "86f63d12",
+      "bank_id": "f0b8b600",
+      "text": "İçinde bulunduğum durum öyle berbat ki."
+    },
+    {
+      "id": "88d8f365",
+      "bank_id": "f0b8b600",
+      "text": "Bir zamanlar yaşlı bir kadının alışveriş listesi gibi duran bu kâğıt parçasında sadece birkaç cümle var: 'Artık eskisi kadar çok yazmamalıyım sanırım. Tavuk kanına batırılmış bu sivriltilmiş kemiği kullandığımı gördüklerinde kabilem bana tuhaf bakıyor ve hırıltılı sesler çıkarıyor. Dile kimin ihtiyacı var ki zaten? Takma diş macunu, fırın elmaları, kırışıklık karşıtı iksir, bıyık açıcı.'"
+    },
+    {
+      "id": "88f24534",
+      "bank_id": "f0b8b600",
+      "text": "Vay canına, buna ne dersiniz? Kendi rekorunu kırdı!"
+    },
+    {
+      "id": "88f2453f",
+      "bank_id": "f0b8b600",
+      "text": "Vay canına, buna ne dersiniz? Kendi rekorunu kırdı!"
+    },
+    {
+      "id": "89ab402b",
+      "bank_id": "f0b8b600",
+      "text": "Bu, derme çatma bir günlükten bir sayfa gibi görünüyor. Kayıtta şöyle yazıyor: 'O korkunç yerden kaçmayı başardım. O garip maskeli adamlar beni kurban etmek istedi! Ailemin kurtulduğunu sanmıyorum. Çıkmak güvenli olana kadar bu mağarada saklanacağım. Daha içerilerden garip sesler geldiğini duyabiliyorum...'"
+    },
+    {
+      "id": "8adede00",
+      "bank_id": "f0b8b600",
+      "text": "Tommy'nin mağarasının girişi için bir anahtar."
+    },
+    {
+      "id": "8de09ec7",
+      "bank_id": "f0b8b600",
+      "text": "Çile Şampiyonu"
+    },
+    {
+      "id": "8df6163d",
+      "bank_id": "f0b8b600",
+      "text": "<b>ÇİLE</b>\nTüm yarışmacılar aşağıdaki kuralları okumaya davetlidir.\n1. Çile; sekiz turdan oluşan şiddet, ölüm ve aile eğlencesi arenasıdır.\n2. Hedef süreyi geçerek bir Mükemmel Tur puanı alın. Sekiz Mükemmel Tur elde edebilirseniz nihai ödülümüzü kazanırsınız. Yeni rekorun sahibi olabilir misiniz?\n3. Eğlendirmek için buradasınız. Bunu asla unutmayın. Kalabalığın heyecan seviyesini yüksek tuttuğunuzdan emin olun, çabalarınızın karşılığını vermeleri muhtemeldir. Bu kana susamış herifler, özellikle bazı turların içerdiği tuzaklardan ve çukurlardan tam olarak yararlanan yarışmacılara bayılırlar.\n4. Erzak stoklamanız gerekirse, her üçüncü turun ardından bir tüccarla karşılaşacaksınız.\n5. Her şeyi öldürün ve hızlıca öldürün."
+    },
+    {
+      "id": "8e9748ac",
+      "bank_id": "f0b8b600",
+      "text": "Bizi çok bekletmeyin."
+    },
+    {
+      "id": "95f55c11",
+      "bank_id": "f0b8b600",
+      "text": "Mağara Günlüğü Sayfa 1"
+    },
+    {
+      "id": "9817b3ff",
+      "bank_id": "f0b8b600",
+      "text": "Mağara Günlüğü Sayfa 5"
+    },
+    {
+      "id": "9cb0135a",
+      "bank_id": "f0b8b600",
+      "text": "Çile Kuralları (gözden geçirilmiş baskı)"
+    },
+    {
+      "id": "9fcc99a5",
+      "bank_id": "f0b8b600",
+      "text": "Mağara Günlüğü Sayfa 3"
+    },
+    {
+      "id": "a5154e98",
+      "bank_id": "f0b8b600",
+      "text": "Yoksul, evsiz biri olarak ölmeme izin vermeyeceksin, değil mi?"
+    },
+    {
+      "id": "a615500b",
+      "bank_id": "f0b8b600",
+      "text": "Hobbe'ler için neredeyse akşam yemeği vakti geldi, bu yüzden açık ara favori sen olacaksın."
+    },
+    {
+      "id": "a71551fe",
+      "bank_id": "f0b8b600",
+      "text": "Büyük bir başarı elde edeceğinizden eminim."
+    },
+    {
+      "id": "afdaab0c",
+      "bank_id": "f0b8b600",
+      "text": "Oh, bu harika. E-- Girin içeri o zaman."
+    },
+    {
+      "id": "b3884850",
+      "bank_id": "f0b8b600",
+      "text": "Kirliliğin kaynağını arayın. Belki yakındaki bir mağaradaki bir şey yeraltı akıntısını kirletiyordur."
+    },
+    {
+      "id": "b4169564",
+      "bank_id": "f0b8b600",
+      "text": "Garip ve nahoş bir koku Rookridge Hanı'nı iflasa sürüklüyor."
+    },
+    {
+      "id": "b678a887",
+      "bank_id": "f0b8b600",
+      "text": "Su seviyesini yükseltmek için kol parçasını kullanmak istiyor musunuz?"
+    },
+    {
+      "id": "b73ddec3",
+      "bank_id": "f0b8b600",
+      "text": "Mağara Günlüğü Sayfa 2"
+    },
+    {
+      "id": "b7bee42d",
+      "bank_id": "f0b8b600",
+      "text": "Bayanlar ve baylar, yeni bir rekorumuz var!"
+    },
+    {
+      "id": "b9fb455c",
+      "bank_id": "f0b8b600",
+      "text": "Öff... Bayağı keskin, değil mi? Haftalarca güneşte bırakılmış devasa bebek bezleri gibi. Biraz da bataklık lavantası esintili."
+    },
+    {
+      "id": "bafb46cf",
+      "bank_id": "f0b8b600",
+      "text": "Emekliliği iple çekiyordum. Ama leş gibi kokan bir hanı kim satın almak ister ki?"
+    },
+    {
+      "id": "bc006793",
+      "bank_id": "f0b8b600",
+      "text": "Ve bu haftaki etkinliğin mevcut rekor sahibi o. Kendi performansını geçebilecek mi?"
+    },
+    {
+      "id": "bc006798",
+      "bank_id": "f0b8b600",
+      "text": "Ve bu haftaki etkinliğin mevcut rekor sahibi o. Kendi performansını geçebilecek mi?"
+    },
+    {
+      "id": "bcfb4a15",
+      "bank_id": "f0b8b600",
+      "text": "Mağara hanın arkasında kalıyor."
+    },
+    {
+      "id": "cb3539f0",
+      "bank_id": "f0b8b600",
+      "text": "O koku işler için hiç iyi değil."
+    },
+    {
+      "id": "cc353b63",
+      "bank_id": "f0b8b600",
+      "text": "Suyu bu şekilde ne kirletebilir ki? Doğal bir şey değil bu."
+    },
+    {
+      "id": "cd353cd6",
+      "bank_id": "f0b8b600",
+      "text": "O koku bütün müşterilerimi kaçırıyor."
+    },
+    {
+      "id": "cf839d58",
+      "bank_id": "f0b8b600",
+      "text": "Oh, aileden birinin geri dönmesi insanın yanağına mesut bir gözyaşı konduruyor, değil mi Kuduz?"
+    },
+    {
+      "id": "d0839ecb",
+      "bank_id": "f0b8b600",
+      "text": "Evet. Büyük ve mutlu bir aileyiz sanki."
+    },
+    {
+      "id": "d283a211",
+      "bank_id": "f0b8b600",
+      "text": "Gözlerime inanamıyorum, o düşündüğüm kişi mi? Ta kendisi! En ünlü Çile şampiyonlarımızdan biri!"
+    },
+    {
+      "id": "d583a6ea",
+      "bank_id": "f0b8b600",
+      "text": "Umarım yarışmaya gelmişsinizdir. Sizin gibi kıdemliler için pek çok etkinliğimiz var. Hâlâ dökülecek çok kan var."
+    },
+    {
+      "id": "d65c3294",
+      "bank_id": "f0b8b600",
+      "text": "Oh, demek öyleymişim. Büyük dokunaçlı bir şey. Tıpkı evime benziyor."
+    },
+    {
+      "id": "d75c3407",
+      "bank_id": "f0b8b600",
+      "text": "Murray, denize bakıyorsun sen."
+    },
+    {
+      "id": "d85c35fa",
+      "bank_id": "f0b8b600",
+      "text": "Evimi buradan görebiliyorum."
+    },
+    {
+      "id": "dc4b0e59",
+      "bank_id": "f0b8b600",
+      "text": "Ah, biraz daha Çile maskaralığı için geri mi döndün? Senin gibi acımasız bir katil göklerden gelen bal gibidir. Her zaman başımızın üstünde yerin var!"
+    },
+    {
+      "id": "de3305d0",
+      "bank_id": "f0b8b600",
+      "text": "Başardın! Koku gitti ve işler geri döndü."
+    },
+    {
+      "id": "e1330aa9",
+      "bank_id": "f0b8b600",
+      "text": "Sonunda burayı satabileceğim. Bak ne diyeceğim, ilgileniyorsan sana dostane bir indirim yaparım."
+    },
+    {
+      "id": "e49b8722",
+      "bank_id": "f0b8b600",
+      "text": "Tommy'nin Mağara Anahtarı"
+    },
+    {
+      "id": "e69b2961",
+      "bank_id": "f0b8b600",
+      "text": "Şelale mağarasını araştırmak istiyor musunuz?"
+    },
+    {
+      "id": "f2ac3f31",
+      "bank_id": "f0b8b600",
+      "text": "Hadi öğrenelim."
+    },
+    {
+      "id": "f419cfdc",
+      "bank_id": "f0b8b600",
+      "text": "Kaptan Dread'in Hazinesi"
+    },
+    {
+      "id": "f51cf861",
+      "bank_id": "f0b8b600",
+      "text": "İlk başta beni yiyeceklerini sanmıştım. Rookridge'deki o korkunç tapınaktan sadece burada ölmek için kaçtığımı sandım. Ama her şeyden çok meraklıydılar. Hatta bana biraz yiyecek ikram ettiler. Bir insan bacağına benziyordu. Henüz o kadar aç olduğumdan emin değilim.'"
+    },
+    {
+      "id": "f69e2a40",
+      "bank_id": "f0b8b600",
+      "text": "Tommy'nin mağarasını hobbe'lerden temizlemek istiyor musunuz?"
+    },
+    {
+      "id": "f89e2da3",
+      "bank_id": "f0b8b600",
+      "text": "Hobbe liderini öldürün."
+    },
+    {
+      "id": "f89e2da6",
+      "bank_id": "f0b8b600",
+      "text": "Mağaradaki tüm hobbe'leri öldürün."
+    },
+    {
+      "id": "f99e2f19",
+      "bank_id": "f0b8b600",
+      "text": "Tommy'nin mağarasına girin."
+    },
+    {
+      "id": "fa94383e",
+      "bank_id": "f0b8b600",
+      "text": "Çile'de yarışmak istiyor musunuz?"
+    },
+    {
+      "id": "fa9e308c",
+      "bank_id": "f0b8b600",
+      "text": "Tommy'yi yenin."
+    },
+    {
+      "id": "fb119db5",
+      "bank_id": "f0b8b600",
+      "text": "Bu sayfadaki yazı güçbela okunabiliyor ve çoğunlukla kaba çizimlerden oluşuyor. Yalnızca son kısmı seçebiliyorsunuz: 'Son baskınımızda çok ama çok güzel bir korse buldum. Biraz dar ama geçen hafta çamaşır ipinden çaldığım etekle harika uydu. Kıyafetim artık tam oturuyor. Kendimi tıpkı bir başka hobbe gibi hissediyorum. Hi-hi! Artık benim için yazmak yok. Bu insan işleri benim dengim değil.'"
+    },
+    {
+      "id": "fb9e327f",
+      "bank_id": "f0b8b600",
+      "text": "Tommy'ye dönün."
+    },
+    {
+      "id": "ff47edfd",
+      "bank_id": "f0b8b600",
+      "text": "Biraz daha istemeye geldin, değil mi? Gir içeri öyleyse."
+    }
+  ]
+}

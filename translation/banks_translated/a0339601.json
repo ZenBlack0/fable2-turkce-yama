@@ -1,0 +1,951 @@
+{
+  "bank_id": "a0339601",
+  "total_strings": 189,
+  "strings": [
+    {
+      "id": "00c59bd0",
+      "bank_id": "a0339601",
+      "text": "Bayağı güzelmiş."
+    },
+    {
+      "id": "00c59bd1",
+      "bank_id": "a0339601",
+      "text": "Evet, buradan güzel bir yuva olur."
+    },
+    {
+      "id": "00c59bd2",
+      "bank_id": "a0339601",
+      "text": "Konak sayılmaz ama son derece konforlu görünüyor."
+    },
+    {
+      "id": "00c59bd3",
+      "bank_id": "a0339601",
+      "text": "Gayet sevimli bir eve benziyor."
+    },
+    {
+      "id": "00c59bd4",
+      "bank_id": "a0339601",
+      "text": "Şu güzelmiş. Bizim evi andırıyor biraz."
+    },
+    {
+      "id": "00c59bd6",
+      "bank_id": "a0339601",
+      "text": "Bu o kadar da fena değil, değil mi?"
+    },
+    {
+      "id": "00c59bd7",
+      "bank_id": "a0339601",
+      "text": "İnsanın burada mutlu olabileceğini görebiliyorum."
+    },
+    {
+      "id": "0335c8c0",
+      "bank_id": "a0339601",
+      "text": "O eve taşınmaktansa ölmeyi yeğlerim."
+    },
+    {
+      "id": "0335c8c2",
+      "bank_id": "a0339601",
+      "text": "Burayı satın almayı aklından bile geçirmesen iyi edersin! Tam bir çukur!"
+    },
+    {
+      "id": "0335c8c3",
+      "bank_id": "a0339601",
+      "text": "Bu viraneye neden bakıyoruz ki?"
+    },
+    {
+      "id": "0335c8c4",
+      "bank_id": "a0339601",
+      "text": "Albion'daki en berbat ev bu olmalı."
+    },
+    {
+      "id": "0335c8c5",
+      "bank_id": "a0339601",
+      "text": "Asla öyle bir evde yaşamam."
+    },
+    {
+      "id": "05c5a3f0",
+      "bank_id": "a0339601",
+      "text": "Evet, bayağı sağlam bir yer."
+    },
+    {
+      "id": "05c5a3f1",
+      "bank_id": "a0339601",
+      "text": "Saray değil gerçi ama hoşuma gitti."
+    },
+    {
+      "id": "05c5a3f2",
+      "bank_id": "a0339601",
+      "text": "Nefret etmedim doğrusu."
+    },
+    {
+      "id": "05c5a3f3",
+      "bank_id": "a0339601",
+      "text": "Şimdiye kadar yapılmış en iyi ev değil ama içinde yaşamaya lütfedebilirim."
+    },
+    {
+      "id": "05c5a3f5",
+      "bank_id": "a0339601",
+      "text": "Fena görünmeyen bir ev."
+    },
+    {
+      "id": "05c5a3f6",
+      "bank_id": "a0339601",
+      "text": "Hoşuma gitti. Bir karakteri var."
+    },
+    {
+      "id": "05c5a3f7",
+      "bank_id": "a0339601",
+      "text": "Bayağı hoş bir ev bu."
+    },
+    {
+      "id": "13a30641",
+      "bank_id": "a0339601",
+      "text": "Ne inanılmaz bir ev."
+    },
+    {
+      "id": "13a30642",
+      "bank_id": "a0339601",
+      "text": "Bu eve bayıldım! Buraya taşınamaz mıyız acaba??"
+    },
+    {
+      "id": "13a30643",
+      "bank_id": "a0339601",
+      "text": "Çok harika bir ev bu."
+    },
+    {
+      "id": "13a30644",
+      "bank_id": "a0339601",
+      "text": "Şu ev tek kelimeyle kusursuz değil mi ama?"
+    },
+    {
+      "id": "13a30645",
+      "bank_id": "a0339601",
+      "text": "Hayatımda bundan daha iyi bir ev görmedim."
+    },
+    {
+      "id": "1ea317f0",
+      "bank_id": "a0339601",
+      "text": "Ne inanılmaz bir ev."
+    },
+    {
+      "id": "1ea317f2",
+      "bank_id": "a0339601",
+      "text": "Çok harika bir ev bu."
+    },
+    {
+      "id": "1ea317f3",
+      "bank_id": "a0339601",
+      "text": "Şimdiye kadarki en kusursuz ev değil mi ama?"
+    },
+    {
+      "id": "1ea317f4",
+      "bank_id": "a0339601",
+      "text": "Hayatımda bundan daha iyi bir ev görmedim."
+    },
+    {
+      "id": "1ea317f5",
+      "bank_id": "a0339601",
+      "text": "Şu ev tek kelimeyle kusursuz değil mi ama?"
+    },
+    {
+      "id": "23577dd0",
+      "bank_id": "a0339601",
+      "text": "Asla oraya taşınmayalım."
+    },
+    {
+      "id": "23577dd1",
+      "bank_id": "a0339601",
+      "text": "Bizimki çok daha güzel."
+    },
+    {
+      "id": "23577dd2",
+      "bank_id": "a0339601",
+      "text": "Oraya taşınmayı düşünmüyorsundur umarım."
+    },
+    {
+      "id": "23577dd6",
+      "bank_id": "a0339601",
+      "text": "Öyle bir evde yaşamama imkân yok hayatım. Söyleyeyim de."
+    },
+    {
+      "id": "23577dd7",
+      "bank_id": "a0339601",
+      "text": "O evde yaşayacağımızı sanıyorsan başkasıyla evlenebilirsin."
+    },
+    {
+      "id": "2c578c3a",
+      "bank_id": "a0339601",
+      "text": "O evde yaşayacağımızı sanıyorsan başkasıyla evlenebilirsin."
+    },
+    {
+      "id": "2c578c3b",
+      "bank_id": "a0339601",
+      "text": "Öyle bir evde yaşamama imkân yok hayatım. Söyleyeyim de."
+    },
+    {
+      "id": "2c578c3c",
+      "bank_id": "a0339601",
+      "text": "Pek hoş bir ev değil orası, öyle değil mi?"
+    },
+    {
+      "id": "2c578c3d",
+      "bank_id": "a0339601",
+      "text": "Asla oraya taşınmayalım."
+    },
+    {
+      "id": "2c578c3f",
+      "bank_id": "a0339601",
+      "text": "Oraya taşınmayı düşünmüyorsundur umarım."
+    },
+    {
+      "id": "2cd0b7e0",
+      "bank_id": "a0339601",
+      "text": "Hiç de fena bir ev değil aslında."
+    },
+    {
+      "id": "2cd0b7e1",
+      "bank_id": "a0339601",
+      "text": "Hmm, bunu bayağı beğendim ben."
+    },
+    {
+      "id": "2cd0b7e3",
+      "bank_id": "a0339601",
+      "text": "Güzel bir evmiş doğrusu."
+    },
+    {
+      "id": "2cd0b7e6",
+      "bank_id": "a0339601",
+      "text": "Bu evde kusur bulunmaz."
+    },
+    {
+      "id": "2cd0b7e7",
+      "bank_id": "a0339601",
+      "text": "Bana göre gayet uygun bir ev."
+    },
+    {
+      "id": "2f7cc558",
+      "bank_id": "a0339601",
+      "text": "Oooo! O kadar... o kadar... harika ki!"
+    },
+    {
+      "id": "2f7cc559",
+      "bank_id": "a0339601",
+      "text": "Burada yaşamak için kuzenimi bile harcardım!"
+    },
+    {
+      "id": "2f7cc55a",
+      "bank_id": "a0339601",
+      "text": "Resmen âşık oldum bu eve!"
+    },
+    {
+      "id": "2f7cc55b",
+      "bank_id": "a0339601",
+      "text": "Bizim için bundan daha kusursuz bir ev olabilir miydi? Lütfen orada yaşayabileceğimizi söyle!"
+    },
+    {
+      "id": "2f7cc55d",
+      "bank_id": "a0339601",
+      "text": "Ne kadar güzel bir ev! Lütfen orada yaşayabilir miyiz?!"
+    },
+    {
+      "id": "2f7cc55e",
+      "bank_id": "a0339601",
+      "text": "Harika değil mi ama? Bir gün orada yaşamayı çok isterdim."
+    },
+    {
+      "id": "2f7cc55f",
+      "bank_id": "a0339601",
+      "text": "Vay canına! Krallarla kraliçelerin yaşadığı yer burası olmalı!"
+    },
+    {
+      "id": "30915301",
+      "bank_id": "a0339601",
+      "text": "Beni pek büyülediği söylenemez."
+    },
+    {
+      "id": "30915302",
+      "bank_id": "a0339601",
+      "text": "Fena değil. Bir ev için yani, bilirsin işte."
+    },
+    {
+      "id": "30915303",
+      "bank_id": "a0339601",
+      "text": "Pek bir kusuru yok aslında."
+    },
+    {
+      "id": "30915304",
+      "bank_id": "a0339601",
+      "text": "Yeterince sağlam görünüyor sanırım."
+    },
+    {
+      "id": "30915305",
+      "bank_id": "a0339601",
+      "text": "Harika değil ama iğrenç de sayılmaz."
+    },
+    {
+      "id": "30915306",
+      "bank_id": "a0339601",
+      "text": "Esniyorum. Yeni bir gün, yeni bir ev işte."
+    },
+    {
+      "id": "30915307",
+      "bank_id": "a0339601",
+      "text": "Bir ev daha, ne kadar da heyecan verici."
+    },
+    {
+      "id": "33d0c2e2",
+      "bank_id": "a0339601",
+      "text": "Bana göre gayet uygun bir ev."
+    },
+    {
+      "id": "33d0c2e3",
+      "bank_id": "a0339601",
+      "text": "Bu evde kusur bulunmaz."
+    },
+    {
+      "id": "33d0c2e4",
+      "bank_id": "a0339601",
+      "text": "Hiç de fena bir ev değil aslında."
+    },
+    {
+      "id": "33d0c2e5",
+      "bank_id": "a0339601",
+      "text": "Hmm, bunu bayağı beğendim ben."
+    },
+    {
+      "id": "33d0c2e6",
+      "bank_id": "a0339601",
+      "text": "Güzel bir evmiş doğrusu."
+    },
+    {
+      "id": "3a7cd688",
+      "bank_id": "a0339601",
+      "text": "Dostum! Buraya gücümüzün yetmesi için dünyanın kralları olmamız gerekirdi değil mi?"
+    },
+    {
+      "id": "3a7cd689",
+      "bank_id": "a0339601",
+      "text": "Burada yaşamak için bir kaya trolüne kafa atardım!"
+    },
+    {
+      "id": "3a7cd68a",
+      "bank_id": "a0339601",
+      "text": "Bu eve resmen âşık oldum! Hadi satın alalım şunu!"
+    },
+    {
+      "id": "3a7cd68b",
+      "bank_id": "a0339601",
+      "text": "Şu mimariye bir bak. Dekora bak. Muhteşem."
+    },
+    {
+      "id": "3a7cd68c",
+      "bank_id": "a0339601",
+      "text": "İşte ben buna ev derim! Harika bir şey!"
+    },
+    {
+      "id": "3a7cd68e",
+      "bank_id": "a0339601",
+      "text": "Vay canına! Böyle bir yerde yerlerden bile yemek yenir!"
+    },
+    {
+      "id": "3a7cd68f",
+      "bank_id": "a0339601",
+      "text": "Harika bir yuva olurdu bundan."
+    },
+    {
+      "id": "3b9164b0",
+      "bank_id": "a0339601",
+      "text": "Yeterince güzel. Yine de bizim evi tercih ederim."
+    },
+    {
+      "id": "3b9164b2",
+      "bank_id": "a0339601",
+      "text": "İdare eder sanırım."
+    },
+    {
+      "id": "3b9164b3",
+      "bank_id": "a0339601",
+      "text": "Fena bir ev değil. Ama kalbimi küt küt attırmadı doğrusu."
+    },
+    {
+      "id": "3b9164b4",
+      "bank_id": "a0339601",
+      "text": "Fena değil. Özel bir yanı yok."
+    },
+    {
+      "id": "3b9164b5",
+      "bank_id": "a0339601",
+      "text": "Yaşayacak daha iyi yerler var ama fena değil."
+    },
+    {
+      "id": "3b9164b6",
+      "bank_id": "a0339601",
+      "text": "Sıradan bir ev işte. Böyle vakit kaybetmek zorunda mıyız?"
+    },
+    {
+      "id": "3b9164b7",
+      "bank_id": "a0339601",
+      "text": "Bir ev işte. Daha ne diyebilirim ki?"
+    },
+    {
+      "id": "59e0dfb1",
+      "bank_id": "a0339601",
+      "text": "Harika değil mi ama? Bir gün orada yaşamayı çok isterdim."
+    },
+    {
+      "id": "59e0dfb2",
+      "bank_id": "a0339601",
+      "text": "Harika değil mi ama? Bir gün orada yaşamayı çok isterdim."
+    },
+    {
+      "id": "59e0dfb3",
+      "bank_id": "a0339601",
+      "text": "Harika değil mi ama? Bir gün orada yaşamayı çok isterdim."
+    },
+    {
+      "id": "59e0dfb4",
+      "bank_id": "a0339601",
+      "text": "Harika değil mi ama? Bir gün orada yaşamayı çok isterdim."
+    },
+    {
+      "id": "59e0dfb5",
+      "bank_id": "a0339601",
+      "text": "Harika değil mi ama? Bir gün orada yaşamayı çok isterdim."
+    },
+    {
+      "id": "64e0f0e0",
+      "bank_id": "a0339601",
+      "text": "İşte ben buna ev derim! Harika bir şey!"
+    },
+    {
+      "id": "64e0f0e2",
+      "bank_id": "a0339601",
+      "text": "İşte ben buna ev derim! Harika bir şey!"
+    },
+    {
+      "id": "64e0f0e3",
+      "bank_id": "a0339601",
+      "text": "İşte ben buna ev derim! Harika bir şey!"
+    },
+    {
+      "id": "64e0f0e4",
+      "bank_id": "a0339601",
+      "text": "İşte ben buna ev derim! Harika bir şey!"
+    },
+    {
+      "id": "64e0f0e5",
+      "bank_id": "a0339601",
+      "text": "İşte ben buna ev derim! Harika bir şey!"
+    },
+    {
+      "id": "91d674a0",
+      "bank_id": "a0339601",
+      "text": "Hoşuma gitti. Bir karakteri var."
+    },
+    {
+      "id": "91d674a1",
+      "bank_id": "a0339601",
+      "text": "Bundan güzel bir yuva olur."
+    },
+    {
+      "id": "91d674a3",
+      "bank_id": "a0339601",
+      "text": "İşte güzel bir ev."
+    },
+    {
+      "id": "91d674a6",
+      "bank_id": "a0339601",
+      "text": "Bu ev fena değilmiş."
+    },
+    {
+      "id": "91d674a7",
+      "bank_id": "a0339601",
+      "text": "Böyle güzel bir eve taşınabilir miyiz sence?"
+    },
+    {
+      "id": "957b9cf0",
+      "bank_id": "a0339601",
+      "text": "Bayıldım! Ne zaman taşınabiliriz?"
+    },
+    {
+      "id": "957b9cf1",
+      "bank_id": "a0339601",
+      "text": "İşte bundan bahsediyorum! Ne ev ama!"
+    },
+    {
+      "id": "957b9cf3",
+      "bank_id": "a0339601",
+      "text": "Burada bir aile büyüttüğümüzü hayal edebiliyor musun?"
+    },
+    {
+      "id": "957b9cf4",
+      "bank_id": "a0339601",
+      "text": "Ne diyebilirim ki? Resmen bayıldım!"
+    },
+    {
+      "id": "957b9cf5",
+      "bank_id": "a0339601",
+      "text": "Bizim için ideal bir yuva olurdu bu."
+    },
+    {
+      "id": "957b9cf6",
+      "bank_id": "a0339601",
+      "text": "Dört dörtlük bir ev vallahi!"
+    },
+    {
+      "id": "957b9cf7",
+      "bank_id": "a0339601",
+      "text": "Ne güzellik ama! Böyle bir yere gücümüz yeter mi dersin?"
+    },
+    {
+      "id": "98d67fa2",
+      "bank_id": "a0339601",
+      "text": "Böyle güzel bir eve taşınabilir miyiz sence?"
+    },
+    {
+      "id": "98d67fa3",
+      "bank_id": "a0339601",
+      "text": "Bu ev fena değilmiş."
+    },
+    {
+      "id": "98d67fa4",
+      "bank_id": "a0339601",
+      "text": "Hoşuma gitti. Bir karakteri var."
+    },
+    {
+      "id": "98d67fa5",
+      "bank_id": "a0339601",
+      "text": "Evet, buradan güzel bir yuva olur."
+    },
+    {
+      "id": "98d67fa6",
+      "bank_id": "a0339601",
+      "text": "İşte güzel bir ev."
+    },
+    {
+      "id": "9c7ba7f0",
+      "bank_id": "a0339601",
+      "text": "Ne muhteşem bir ev! Burada çok mutlu olabilirdik..."
+    },
+    {
+      "id": "9c7ba7f1",
+      "bank_id": "a0339601",
+      "text": "Kusursuz değil mi ama? Kesinlikle burada yaşamalıyız!"
+    },
+    {
+      "id": "9c7ba7f2",
+      "bank_id": "a0339601",
+      "text": "Ne inanılmaz bir ev!"
+    },
+    {
+      "id": "9c7ba7f3",
+      "bank_id": "a0339601",
+      "text": "Vay canına! Burası muazzam!"
+    },
+    {
+      "id": "9c7ba7f4",
+      "bank_id": "a0339601",
+      "text": "Evet, burası tam anlamıyla kusursuz olurdu!"
+    },
+    {
+      "id": "9c7ba7f5",
+      "bank_id": "a0339601",
+      "text": "Bizim için daha iyi bir yuva düşünemiyorum!"
+    },
+    {
+      "id": "9c7ba7f6",
+      "bank_id": "a0339601",
+      "text": "Burası harika olurdu!"
+    },
+    {
+      "id": "aadd1a00",
+      "bank_id": "a0339601",
+      "text": "Evet, sanırım amacına hizmet eden bir ev."
+    },
+    {
+      "id": "aadd1a01",
+      "bank_id": "a0339601",
+      "text": "Yeterince güzel. Yine de bizim evi tercih ederim."
+    },
+    {
+      "id": "aadd1a02",
+      "bank_id": "a0339601",
+      "text": "Hiç de fena bir ev değil."
+    },
+    {
+      "id": "aadd1a06",
+      "bank_id": "a0339601",
+      "text": "Daha iyi evler de var piyasada, daha kötüleri de."
+    },
+    {
+      "id": "aadd1a07",
+      "bank_id": "a0339601",
+      "text": "Nefret etmedim bu evden. Çok da bayılmadım gerçi."
+    },
+    {
+      "id": "af0ea418",
+      "bank_id": "a0339601",
+      "text": "Fena bir ev değil."
+    },
+    {
+      "id": "af0ea41a",
+      "bank_id": "a0339601",
+      "text": "O ev idare eder."
+    },
+    {
+      "id": "af0ea41b",
+      "bank_id": "a0339601",
+      "text": "Daha iyilerini gördüm. Ama iş görür belki."
+    },
+    {
+      "id": "af0ea41c",
+      "bank_id": "a0339601",
+      "text": "Evler söz konusu olduğunda fena sayılmaz."
+    },
+    {
+      "id": "af0ea41d",
+      "bank_id": "a0339601",
+      "text": "Bir ev işte. Daha ne istiyorsun ki?"
+    },
+    {
+      "id": "b3dd286a",
+      "bank_id": "a0339601",
+      "text": "Nefret etmedim bu evden. Çok da bayılmadım gerçi."
+    },
+    {
+      "id": "b3dd286b",
+      "bank_id": "a0339601",
+      "text": "Daha iyi evler de var piyasada, daha kötüleri de."
+    },
+    {
+      "id": "b3dd286c",
+      "bank_id": "a0339601",
+      "text": "Fena değil. Bir ev için yani, bilirsin işte."
+    },
+    {
+      "id": "b3dd286d",
+      "bank_id": "a0339601",
+      "text": "Evet, sanırım amacına hizmet eden bir ev."
+    },
+    {
+      "id": "b3dd286f",
+      "bank_id": "a0339601",
+      "text": "Genel olarak fena bir ev değil."
+    },
+    {
+      "id": "b40eac39",
+      "bank_id": "a0339601",
+      "text": "Fena bir ev değil."
+    },
+    {
+      "id": "b40eac3a",
+      "bank_id": "a0339601",
+      "text": "Bilmem ki. Fena değil sanırım."
+    },
+    {
+      "id": "b40eac3b",
+      "bank_id": "a0339601",
+      "text": "O ev idare eder."
+    },
+    {
+      "id": "b40eac3c",
+      "bank_id": "a0339601",
+      "text": "Bir ev işte. Daha ne istiyorsun ki?"
+    },
+    {
+      "id": "b40eac3d",
+      "bank_id": "a0339601",
+      "text": "Evler söz konusu olduğunda fena sayılmaz."
+    },
+    {
+      "id": "ca5529c0",
+      "bank_id": "a0339601",
+      "text": "Ama... ama bu korkunç! Asla öyle bir yerde yaşamayacağım!"
+    },
+    {
+      "id": "ca5529c1",
+      "bank_id": "a0339601",
+      "text": "Lütfen, bir dilenciyle arkadaş olmayı yeğlerim daha iyi!"
+    },
+    {
+      "id": "ca5529c2",
+      "bank_id": "a0339601",
+      "text": "Domuzları koysan onlar bile şikâyet ederdi buraya."
+    },
+    {
+      "id": "ca5529c3",
+      "bank_id": "a0339601",
+      "text": "Şaka yapıyorsun değil mi? O hendekte yaşamam ben."
+    },
+    {
+      "id": "ca5529c4",
+      "bank_id": "a0339601",
+      "text": "Soylu olmayabilirim ama böyle bir çöplükte yaşamaya da niyetim yok."
+    },
+    {
+      "id": "ca5529c5",
+      "bank_id": "a0339601",
+      "text": "Böyle bir yerde kaç tane fare yaşıyor haberin var mı senin? Hayır, kalsın."
+    },
+    {
+      "id": "ca5529c7",
+      "bank_id": "a0339601",
+      "text": "Orada yaşamamızı istediğini söyleme sakın! İğrenç bir yer!"
+    },
+    {
+      "id": "d15534c8",
+      "bank_id": "a0339601",
+      "text": "Hayır ya, nefret ettim!"
+    },
+    {
+      "id": "d15534cc",
+      "bank_id": "a0339601",
+      "text": "Aşkımızın senin için anlamı bu mu yani? Bir hendekte yaşayalım da bitsin gitsin bari!"
+    },
+    {
+      "id": "d15534cd",
+      "bank_id": "a0339601",
+      "text": "Şaka yapıyorsun değil mi? Orada yaşamayacağım ben!"
+    },
+    {
+      "id": "d15534ce",
+      "bank_id": "a0339601",
+      "text": "Domuz ahırında doğmuş olabilirim ama benim de standartlarım var."
+    },
+    {
+      "id": "d15534cf",
+      "bank_id": "a0339601",
+      "text": "O viraneye taşınmadan önce kafamı kesmen gerekir."
+    },
+    {
+      "id": "d5e17c91",
+      "bank_id": "a0339601",
+      "text": "Kim orada yaşamak ister ki!?"
+    },
+    {
+      "id": "d5e17c92",
+      "bank_id": "a0339601",
+      "text": "Tam bir delik, değil mi?"
+    },
+    {
+      "id": "d5e17c93",
+      "bank_id": "a0339601",
+      "text": "Pek hoş bir ev değil orası, öyle değil mi?"
+    },
+    {
+      "id": "d5e17c94",
+      "bank_id": "a0339601",
+      "text": "Buraya taşınmanın hiçbir mantığı yok!"
+    },
+    {
+      "id": "d5e17c95",
+      "bank_id": "a0339601",
+      "text": "Yok, hiç bana göre bir ev değil."
+    },
+    {
+      "id": "d5e17c96",
+      "bank_id": "a0339601",
+      "text": "İnsan neden orada yaşamak ister ki?"
+    },
+    {
+      "id": "d5e17c97",
+      "bank_id": "a0339601",
+      "text": "Son derece nahoş."
+    },
+    {
+      "id": "e0e18dc0",
+      "bank_id": "a0339601",
+      "text": "O kadar da güzel değil."
+    },
+    {
+      "id": "e0e18dc2",
+      "bank_id": "a0339601",
+      "text": "Hiç sevmedim."
+    },
+    {
+      "id": "e0e18dc3",
+      "bank_id": "a0339601",
+      "text": "Bizimki çok daha güzel."
+    },
+    {
+      "id": "e0e18dc4",
+      "bank_id": "a0339601",
+      "text": "Neden buraya taşınmak isteyesin ki??"
+    },
+    {
+      "id": "e0e18dc5",
+      "bank_id": "a0339601",
+      "text": "Yok! Bizimkini tercih ederim!"
+    },
+    {
+      "id": "e0e18dc6",
+      "bank_id": "a0339601",
+      "text": "Birinin bunu satın alacağını hiç sanmıyorum."
+    },
+    {
+      "id": "e0e18dc7",
+      "bank_id": "a0339601",
+      "text": "Orada yaşamayı hiç istemezdim doğrusu."
+    },
+    {
+      "id": "edf791c0",
+      "bank_id": "a0339601",
+      "text": "Hmm, orada yaşamaya itirazım olmazdı."
+    },
+    {
+      "id": "edf791c1",
+      "bank_id": "a0339601",
+      "text": "Hayalimdeki ev değil gerçi ama... çoğundan iyi."
+    },
+    {
+      "id": "edf791c2",
+      "bank_id": "a0339601",
+      "text": "Evet, fena bir ev değil."
+    },
+    {
+      "id": "edf791c4",
+      "bank_id": "a0339601",
+      "text": "Hayalimdeki konak değil ama gayet güzel."
+    },
+    {
+      "id": "edf791c5",
+      "bank_id": "a0339601",
+      "text": "Şimdilik işimizi görür sanırım, evet."
+    },
+    {
+      "id": "edf791c6",
+      "bank_id": "a0339601",
+      "text": "Kasığa tekme yemekten iyidir."
+    },
+    {
+      "id": "edf791c7",
+      "bank_id": "a0339601",
+      "text": "Kendimi burada yaşarken görebiliyorum."
+    },
+    {
+      "id": "efd3cdf8",
+      "bank_id": "a0339601",
+      "text": "Aklından bile geçirme! Yine bir ahırda yaşamayı yeğlerim."
+    },
+    {
+      "id": "efd3cdf9",
+      "bank_id": "a0339601",
+      "text": "Lağımda bir delik bile bundan daha iyi olurdu!"
+    },
+    {
+      "id": "efd3cdfa",
+      "bank_id": "a0339601",
+      "text": "Şakasını bile yapma! Ne korkunç, ne berbat bir ev!"
+    },
+    {
+      "id": "efd3cdfb",
+      "bank_id": "a0339601",
+      "text": "Ona bakmak bile midemi bulandırıyor!"
+    },
+    {
+      "id": "efd3cdfd",
+      "bank_id": "a0339601",
+      "text": "Burayı satın almayı aklından bile geçirmesen iyi edersin! Tam bir çukur!"
+    },
+    {
+      "id": "efd3cdfe",
+      "bank_id": "a0339601",
+      "text": "Burayı kim satıyor böyle? Domuz ailesi falan mı?"
+    },
+    {
+      "id": "efd3cdff",
+      "bank_id": "a0339601",
+      "text": "Yaşamak için ne berbat bir yer!"
+    },
+    {
+      "id": "f6f7a028",
+      "bank_id": "a0339601",
+      "text": "Orada yaşamak beni dehşete düşürmezdi sanırım."
+    },
+    {
+      "id": "f6f7a029",
+      "bank_id": "a0339601",
+      "text": "Daha güzel evler var tabii ama şimdilik bu da yeterli olurdu."
+    },
+    {
+      "id": "f6f7a02a",
+      "bank_id": "a0339601",
+      "text": "Evet, bu gayet güzel iş görür."
+    },
+    {
+      "id": "f6f7a02b",
+      "bank_id": "a0339601",
+      "text": "Hiç de fena bir yer değil."
+    },
+    {
+      "id": "f6f7a02c",
+      "bank_id": "a0339601",
+      "text": "Hmm, bunu bayağı beğendim ben."
+    },
+    {
+      "id": "f6f7a02d",
+      "bank_id": "a0339601",
+      "text": "Fena bir ev değil bu."
+    },
+    {
+      "id": "f6f7a02f",
+      "bank_id": "a0339601",
+      "text": "Bayağı şirin bir evmiş."
+    },
+    {
+      "id": "f835b791",
+      "bank_id": "a0339601",
+      "text": "O eve taşınmaktansa ölmeyi yeğlerim."
+    },
+    {
+      "id": "f835b792",
+      "bank_id": "a0339601",
+      "text": "Burayı satın almayı aklından bile geçirmesen iyi edersin! Tam bir çukur!"
+    },
+    {
+      "id": "f835b794",
+      "bank_id": "a0339601",
+      "text": "Asla öyle bir evde yaşamam."
+    },
+    {
+      "id": "f835b795",
+      "bank_id": "a0339601",
+      "text": "Bu viraneye neden bakıyoruz ki?"
+    },
+    {
+      "id": "fad3df28",
+      "bank_id": "a0339601",
+      "text": "Rezalet bir yer!"
+    },
+    {
+      "id": "fad3df29",
+      "bank_id": "a0339601",
+      "text": "Bu hobbe iniyle neden vakit kaybediyoruz ki?"
+    },
+    {
+      "id": "fad3df2a",
+      "bank_id": "a0339601",
+      "text": "Lütfen, beni korkutuyorsun. Böyle bir yerde yaşamak insanlık dışı olurdu!"
+    },
+    {
+      "id": "fad3df2b",
+      "bank_id": "a0339601",
+      "text": "Böyle ucubelerin ayakta kalmasına nasıl izin veriyorlar ki?"
+    },
+    {
+      "id": "fad3df2c",
+      "bank_id": "a0339601",
+      "text": "Tek kelimeyle korkunç bir yer!"
+    },
+    {
+      "id": "fad3df2e",
+      "bank_id": "a0339601",
+      "text": "Bu viraneye neden bakıyoruz ki?"
+    },
+    {
+      "id": "fad3df2f",
+      "bank_id": "a0339601",
+      "text": "Sokakta uyumayı yeğlerim sanırım."
+    }
+  ]
+}

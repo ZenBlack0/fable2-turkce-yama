@@ -1,0 +1,1286 @@
+{
+  "bank_id": "20ad3602",
+  "total_strings": 256,
+  "strings": [
+    {
+      "id": "02728698",
+      "bank_id": "20ad3602",
+      "text": "Ooo! Bir ünlü bana asılıyor! Oooohh!!!!"
+    },
+    {
+      "id": "02728699",
+      "bank_id": "20ad3602",
+      "text": "Neeeeee? Beeen miii? Ooooh! Hihihi!"
+    },
+    {
+      "id": "0272869b",
+      "bank_id": "20ad3602",
+      "text": "Ooooh! Vay canına! Ama sen çok ünlüsün! Bense değilim!"
+    },
+    {
+      "id": "0272869c",
+      "bank_id": "20ad3602",
+      "text": "Ah! Görevlerin herkesçe biliniyor, şimdi de romantik meyillerin!"
+    },
+    {
+      "id": "0272869d",
+      "bank_id": "20ad3602",
+      "text": "Amanın! Ay! Şey... amanın! Hihihi!"
+    },
+    {
+      "id": "0272869e",
+      "bank_id": "20ad3602",
+      "text": "Bu banaaa mıydııı??? Vay be! Şöhreti ve talihi nasıl kendime çekeceğimi iyi biliyorum, değil mi?!"
+    },
+    {
+      "id": "0272869f",
+      "bank_id": "20ad3602",
+      "text": "Sen ve ben mi??? Hobbe aşkına inanılmaz!"
+    },
+    {
+      "id": "0f4d225d",
+      "bank_id": "20ad3602",
+      "text": "Ne yapıyorsun sen?!"
+    },
+    {
+      "id": "1a4d338c",
+      "bank_id": "20ad3602",
+      "text": "Ne yapıyorsun sen?!"
+    },
+    {
+      "id": "1dd81b58",
+      "bank_id": "20ad3602",
+      "text": "Aradığın kişinin ben olduğunu sanmıyorum. Olmasa iyi edersin."
+    },
+    {
+      "id": "1dd81b59",
+      "bank_id": "20ad3602",
+      "text": "Doğru kişiyi bulduğundan emin misin?! Domuz aşkına..."
+    },
+    {
+      "id": "1dd81b5a",
+      "bank_id": "20ad3602",
+      "text": "Doğru kişiye hitap ettiğinize inanmıyorum."
+    },
+    {
+      "id": "1dd81b5b",
+      "bank_id": "20ad3602",
+      "text": "Muhakkak başka birini arıyor olmalısın."
+    },
+    {
+      "id": "1dd81b5d",
+      "bank_id": "20ad3602",
+      "text": "Bu pek, şey, pek uygun kaçmadı, hani yani."
+    },
+    {
+      "id": "1dd81b5e",
+      "bank_id": "20ad3602",
+      "text": "Hmm, sanırım yanlış kişiye denk geldin."
+    },
+    {
+      "id": "1dd81b5f",
+      "bank_id": "20ad3602",
+      "text": "Hey, beni kim zannediyorsun sen?!"
+    },
+    {
+      "id": "2767abc6",
+      "bank_id": "20ad3602",
+      "text": "Gerçekten senin ilgine layık mıyım? Ne kadar da heyecan verici."
+    },
+    {
+      "id": "288574c8",
+      "bank_id": "20ad3602",
+      "text": "İnsanı büyüleyen bir havan var."
+    },
+    {
+      "id": "288574c9",
+      "bank_id": "20ad3602",
+      "text": "Bu çok romantik."
+    },
+    {
+      "id": "288574ca",
+      "bank_id": "20ad3602",
+      "text": "Beni nasıl çileden çıkaracağını iyi biliyorsun."
+    },
+    {
+      "id": "288574cb",
+      "bank_id": "20ad3602",
+      "text": "Çok tatlı numaralar bunlar."
+    },
+    {
+      "id": "288574cc",
+      "bank_id": "20ad3602",
+      "text": "Ne kadar da romantik."
+    },
+    {
+      "id": "288574cd",
+      "bank_id": "20ad3602",
+      "text": "Ah, bu beni resmen eritiyor."
+    },
+    {
+      "id": "288574ce",
+      "bank_id": "20ad3602",
+      "text": "Ah, harika."
+    },
+    {
+      "id": "28d82c88",
+      "bank_id": "20ad3602",
+      "text": "Beni kim sanıyorsun ki sen?"
+    },
+    {
+      "id": "28d82c89",
+      "bank_id": "20ad3602",
+      "text": "Ben mi?! Aptal olma!"
+    },
+    {
+      "id": "28d82c8a",
+      "bank_id": "20ad3602",
+      "text": "Lütfen ilginizi daha münasip birine yöneltin."
+    },
+    {
+      "id": "28d82c8b",
+      "bank_id": "20ad3602",
+      "text": "Korkarım fena halde yanılıyorsunuz."
+    },
+    {
+      "id": "28d82c8c",
+      "bank_id": "20ad3602",
+      "text": "Şey, sanırım beni başka biriyle karıştırdın..."
+    },
+    {
+      "id": "28d82c8e",
+      "bank_id": "20ad3602",
+      "text": "Lütfen ama! Git başka birini bul!"
+    },
+    {
+      "id": "28d82c8f",
+      "bank_id": "20ad3602",
+      "text": "Mmm, aradığın kişinin ben olduğunu hiç sanmıyorum."
+    },
+    {
+      "id": "31858318",
+      "bank_id": "20ad3602",
+      "text": "Rüyalarımda seni göreceğim."
+    },
+    {
+      "id": "31858319",
+      "bank_id": "20ad3602",
+      "text": "Nasıl romantik olunacağını bilen pek az insan var."
+    },
+    {
+      "id": "3185831b",
+      "bank_id": "20ad3602",
+      "text": "Bayağı ustaca bir kur yapma şekli."
+    },
+    {
+      "id": "3185831c",
+      "bank_id": "20ad3602",
+      "text": "Tam bir aşk cambazısın sen."
+    },
+    {
+      "id": "3185831d",
+      "bank_id": "20ad3602",
+      "text": "Rüyalarımda seni göreceğim."
+    },
+    {
+      "id": "3185831e",
+      "bank_id": "20ad3602",
+      "text": "Görünüşe göre romantizm henüz ölmemiş."
+    },
+    {
+      "id": "3185831f",
+      "bank_id": "20ad3602",
+      "text": "İçimi pamuk gibi yapıyorsun."
+    },
+    {
+      "id": "36937810",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "36937811",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "36937812",
+      "bank_id": "20ad3602",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "36937814",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "36937815",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "36937816",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "36937817",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "3f938678",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "3f938679",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "3f93867a",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "3f93867b",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "3f93867c",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "3f93867d",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "3f93867f",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "45a7fd88",
+      "bank_id": "20ad3602",
+      "text": "Lütfen ilginizi daha münasip birine yöneltin."
+    },
+    {
+      "id": "45a7fd89",
+      "bank_id": "20ad3602",
+      "text": "Korkarım fena halde yanılıyorsunuz."
+    },
+    {
+      "id": "45a7fd8a",
+      "bank_id": "20ad3602",
+      "text": "Beni kim sanıyorsun ki sen?"
+    },
+    {
+      "id": "45a7fd8b",
+      "bank_id": "20ad3602",
+      "text": "Ben mi?! Aptal olma!"
+    },
+    {
+      "id": "45a7fd8c",
+      "bank_id": "20ad3602",
+      "text": "Lütfen ama! Git başka birini bul!"
+    },
+    {
+      "id": "45a7fd8d",
+      "bank_id": "20ad3602",
+      "text": "Mmm, aradığın kişinin ben olduğunu hiç sanmıyorum."
+    },
+    {
+      "id": "45a7fd8e",
+      "bank_id": "20ad3602",
+      "text": "Şey, sanırım beni başka biriyle karıştırdın..."
+    },
+    {
+      "id": "470caab1",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "470caab2",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "470caab3",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "470caab4",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "470caab5",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "470caab6",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "470caab7",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "4ea80bd8",
+      "bank_id": "20ad3602",
+      "text": "Hmm, sanırım yanlış kişiye denk geldin."
+    },
+    {
+      "id": "4ea80bd9",
+      "bank_id": "20ad3602",
+      "text": "Hey, beni kim zannediyorsun sen?!"
+    },
+    {
+      "id": "4ea80bdb",
+      "bank_id": "20ad3602",
+      "text": "Bu pek, şey, pek uygun kaçmadı, hani yani."
+    },
+    {
+      "id": "4ea80bdc",
+      "bank_id": "20ad3602",
+      "text": "Doğru kişiye hitap ettiğinize inanmıyorum."
+    },
+    {
+      "id": "4ea80bdd",
+      "bank_id": "20ad3602",
+      "text": "Muhakkak başka birini arıyor olmalısın."
+    },
+    {
+      "id": "4ea80bde",
+      "bank_id": "20ad3602",
+      "text": "Aradığın kişinin ben olduğunu sanmıyorum. Olmasa iyi edersin."
+    },
+    {
+      "id": "4ea80bdf",
+      "bank_id": "20ad3602",
+      "text": "Doğru kişiyi bulduğundan emin misin?! Domuz aşkına..."
+    },
+    {
+      "id": "4fbada88",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "4fbada8a",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "4fbada8b",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "4fbada8c",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "4fbada8d",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "4fbada8e",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "4fbada8f",
+      "bank_id": "20ad3602",
+      "text": "Sanmıyorum."
+    },
+    {
+      "id": "520cbbe0",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "520cbbe2",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "520cbbe3",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "520cbbe4",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "520cbbe5",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "520cbbe6",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "520cbbe7",
+      "bank_id": "20ad3602",
+      "text": "Hmmmm!"
+    },
+    {
+      "id": "54bae2a9",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "54bae2aa",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "54bae2ab",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "54bae2ac",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "54bae2ad",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "54bae2ae",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "54bae2af",
+      "bank_id": "20ad3602",
+      "text": "Şey..."
+    },
+    {
+      "id": "6cded7b0",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "6cded7b1",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "6cded7b2",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "6cded7b4",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "6cded7b5",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "6cded7b6",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "6cded7b7",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "728143d1",
+      "bank_id": "20ad3602",
+      "text": "Pek çekici sayılmaz."
+    },
+    {
+      "id": "728143d2",
+      "bank_id": "20ad3602",
+      "text": "Dünyayı daha çirkin bir yer haline getirmeye çalışıyorsun değil mi?"
+    },
+    {
+      "id": "728143d3",
+      "bank_id": "20ad3602",
+      "text": "Tam anlamıyla itici sayılmaz ama o yolda emin adımlarla ilerliyorsun."
+    },
+    {
+      "id": "728143d4",
+      "bank_id": "20ad3602",
+      "text": "Bayağı berbat bir şey bu."
+    },
+    {
+      "id": "728143d5",
+      "bank_id": "20ad3602",
+      "text": "Şu manzaraya da bak!"
+    },
+    {
+      "id": "75dee598",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "75dee599",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "75dee59a",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "75dee59b",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "75dee59c",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "75dee59d",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "75dee59f",
+      "bank_id": "20ad3602",
+      "text": "Ooooooh..."
+    },
+    {
+      "id": "7c40a5d8",
+      "bank_id": "20ad3602",
+      "text": "Erkek olduğum için gurur duymamı sağlıyorsun."
+    },
+    {
+      "id": "7c40a5da",
+      "bank_id": "20ad3602",
+      "text": "Seni düşünüyordum ben de."
+    },
+    {
+      "id": "7c40a5db",
+      "bank_id": "20ad3602",
+      "text": "Daha sonra boş musun?"
+    },
+    {
+      "id": "7c40a5dc",
+      "bank_id": "20ad3602",
+      "text": "İçimi kıpır kıpır ediyorsun."
+    },
+    {
+      "id": "7c40a5dd",
+      "bank_id": "20ad3602",
+      "text": "Rüyalarıma girdin."
+    },
+    {
+      "id": "7c40a5de",
+      "bank_id": "20ad3602",
+      "text": "Seni görmekten asla bıkmıyorum."
+    },
+    {
+      "id": "7c40a5df",
+      "bank_id": "20ad3602",
+      "text": "Sırılsıklam aşık oldum!"
+    },
+    {
+      "id": "7d815500",
+      "bank_id": "20ad3602",
+      "text": "Bayağı berbat bir şey."
+    },
+    {
+      "id": "7d815502",
+      "bank_id": "20ad3602",
+      "text": "Bence çirkinliğin tanımı tam olarak bu."
+    },
+    {
+      "id": "7d815503",
+      "bank_id": "20ad3602",
+      "text": "Sanırım bu mahalledeki evlerin fiyatı az önce düştü."
+    },
+    {
+      "id": "7d815504",
+      "bank_id": "20ad3602",
+      "text": "Hepimizi hasta etmene hiç lüzum yok."
+    },
+    {
+      "id": "7d815505",
+      "bank_id": "20ad3602",
+      "text": "\"Çirkinlik\" konusunda üstüne yok doğrusu."
+    },
+    {
+      "id": "8140adf9",
+      "bank_id": "20ad3602",
+      "text": "Kadın olduğum için gurur duymamı sağlıyorsun."
+    },
+    {
+      "id": "8140adfa",
+      "bank_id": "20ad3602",
+      "text": "Bugün seni görmeyi umuyordum."
+    },
+    {
+      "id": "8140adfb",
+      "bank_id": "20ad3602",
+      "text": "Cidden bir harikasın."
+    },
+    {
+      "id": "8140adfc",
+      "bank_id": "20ad3602",
+      "text": "Seni görmeyi umut ediyordum ben de."
+    },
+    {
+      "id": "8140adfd",
+      "bank_id": "20ad3602",
+      "text": "Daha sonra boş musun?"
+    },
+    {
+      "id": "8140adfe",
+      "bank_id": "20ad3602",
+      "text": "Kendimi öyle kadınsı hissettiriyorsun ki."
+    },
+    {
+      "id": "8140adff",
+      "bank_id": "20ad3602",
+      "text": "İtiraf etmeliyim ki vuruldum sana."
+    },
+    {
+      "id": "81e018e8",
+      "bank_id": "20ad3602",
+      "text": "Pek bir cazibelisin sen öyle değil mi?"
+    },
+    {
+      "id": "81e018e9",
+      "bank_id": "20ad3602",
+      "text": "Bayağı bir hoşsun hani?"
+    },
+    {
+      "id": "81e018ea",
+      "bank_id": "20ad3602",
+      "text": "Ah, ne kadar da şeytani bir harikalık."
+    },
+    {
+      "id": "81e018eb",
+      "bank_id": "20ad3602",
+      "text": "Bir erkeğin kalbini nasıl çalacağını gerçekten çok iyi biliyorsun."
+    },
+    {
+      "id": "81e018ed",
+      "bank_id": "20ad3602",
+      "text": "Ayy, çok tatlısın sen."
+    },
+    {
+      "id": "81e018ee",
+      "bank_id": "20ad3602",
+      "text": "Hihihi. Tam bir cilvelisin sen."
+    },
+    {
+      "id": "81e018ef",
+      "bank_id": "20ad3602",
+      "text": "Ooo, tam bir cazibe abidesisin."
+    },
+    {
+      "id": "8ce02a18",
+      "bank_id": "20ad3602",
+      "text": "Her geçen gün senden biraz daha hoşlanıyorum."
+    },
+    {
+      "id": "8ce02a19",
+      "bank_id": "20ad3602",
+      "text": "Ayy, çok romantiksin!"
+    },
+    {
+      "id": "8ce02a1a",
+      "bank_id": "20ad3602",
+      "text": "Ne büyük bir baştan çıkarma! Kalbim duracak!"
+    },
+    {
+      "id": "8ce02a1b",
+      "bank_id": "20ad3602",
+      "text": "Büyülendim resmen!"
+    },
+    {
+      "id": "8ce02a1c",
+      "bank_id": "20ad3602",
+      "text": "Ah, tam bir baştan çıkarıcısın."
+    },
+    {
+      "id": "8ce02a1e",
+      "bank_id": "20ad3602",
+      "text": "Lokum gibisin sen lokum. Tatlı mı tatlı bir lokum."
+    },
+    {
+      "id": "8ce02a1f",
+      "bank_id": "20ad3602",
+      "text": "İçimi sıcacık yapıyorsun."
+    },
+    {
+      "id": "a0a73632",
+      "bank_id": "20ad3602",
+      "text": "Kalp hırsızı olarak ün salmış değilsin herhalde, değil mi?"
+    },
+    {
+      "id": "a0a73633",
+      "bank_id": "20ad3602",
+      "text": "Ah, bir ünlü benden hoşlanıyor! Bu inanılmaz."
+    },
+    {
+      "id": "a0a73634",
+      "bank_id": "20ad3602",
+      "text": "Senin gibi ünlü birinin benim gibi sıradan biriyle ilgilenebileceğine inanamıyorum!"
+    },
+    {
+      "id": "a0a73635",
+      "bank_id": "20ad3602",
+      "text": "Ah, bir ünlü benden hoşlanıyor! Bu inanılmaz."
+    },
+    {
+      "id": "a0a73637",
+      "bank_id": "20ad3602",
+      "text": "Amanın! Bu bana mıydı? Ama sen ünlüsün!"
+    },
+    {
+      "id": "a7a74138",
+      "bank_id": "20ad3602",
+      "text": "Büyük üne sahip birinin günün birinde beni fark edeceğini hep biliyordum."
+    },
+    {
+      "id": "a7a74139",
+      "bank_id": "20ad3602",
+      "text": "Senin gibi ünlü birinin benim gibi sıradan biriyle ilgilenebileceğine inanamıyorum!"
+    },
+    {
+      "id": "a7a7413a",
+      "bank_id": "20ad3602",
+      "text": "Amanın! Bu bana mıydı? Ama sen ünlüsün!"
+    },
+    {
+      "id": "a7a7413e",
+      "bank_id": "20ad3602",
+      "text": "Ah, bir ünlü benden hoşlanıyor! Bu inanılmaz."
+    },
+    {
+      "id": "a7a7413f",
+      "bank_id": "20ad3602",
+      "text": "Kalp hırsızı olarak ün salmış değilsin herhalde, değil mi?"
+    },
+    {
+      "id": "aa7cae51",
+      "bank_id": "20ad3602",
+      "text": "Ah! Çok... çok gururum okşandı! Vay be!"
+    },
+    {
+      "id": "aa7cae52",
+      "bank_id": "20ad3602",
+      "text": "Ah, ama sen çok ünlüsün! Ne diyeceğimi bilemiyorum!"
+    },
+    {
+      "id": "aa7cae55",
+      "bank_id": "20ad3602",
+      "text": "Gerçeeeeekten mi? Ay, hiç beklemezdim! Küçük dilimi yuttum valla! Hihihi!"
+    },
+    {
+      "id": "aa7cae56",
+      "bank_id": "20ad3602",
+      "text": "Duygularıma büsbütün yenik düştüm resmen!"
+    },
+    {
+      "id": "ad451267",
+      "bank_id": "20ad3602",
+      "text": "Bu kadar ünlü birinin beni fark edeceğini rüyamda bile göremezdim."
+    },
+    {
+      "id": "b1c992a8",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "b1c992a9",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "b1c992aa",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "b1c992ab",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "b1c992ac",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "b1c992ad",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "b1c992ae",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "b57cbf82",
+      "bank_id": "20ad3602",
+      "text": "Ah, ama sen çok ünlüsün! Ne diyeceğimi bilemiyorum!"
+    },
+    {
+      "id": "b57cbf83",
+      "bank_id": "20ad3602",
+      "text": "Ah! Çok... çok gururum okşandı! Vay be!"
+    },
+    {
+      "id": "b57cbf85",
+      "bank_id": "20ad3602",
+      "text": "Gerçeeeeekten mi? Ay, hiç beklemezdim! Küçük dilimi yuttum valla! Hihihi!"
+    },
+    {
+      "id": "b57cbf86",
+      "bank_id": "20ad3602",
+      "text": "Duygularıma büsbütün yenik düştüm resmen!"
+    },
+    {
+      "id": "bac9a0f8",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "bac9a0f9",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "bac9a0fb",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "bac9a0fc",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "bac9a0fd",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "bac9a0fe",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "bac9a0ff",
+      "bank_id": "20ad3602",
+      "text": "Oooooh. Hihihi."
+    },
+    {
+      "id": "bb8f8e09",
+      "bank_id": "20ad3602",
+      "text": "Pek güzel sayılmazsın, orası kesin."
+    },
+    {
+      "id": "bb8f8e0a",
+      "bank_id": "20ad3602",
+      "text": "Görünüşün bayağı zevksizce."
+    },
+    {
+      "id": "bb8f8e0b",
+      "bank_id": "20ad3602",
+      "text": "Ayak takımının kaderidir çekici olmamak."
+    },
+    {
+      "id": "c68f9fb8",
+      "bank_id": "20ad3602",
+      "text": "Şu suratı önüme koyup durma artık!"
+    },
+    {
+      "id": "c68f9fb9",
+      "bank_id": "20ad3602",
+      "text": "Bazıları kadar çirkin değilsin ama övünülecek bir şey de yok ortada."
+    },
+    {
+      "id": "c68f9fba",
+      "bank_id": "20ad3602",
+      "text": "Bütün avam takımı senin kadar çirkin midir?"
+    },
+    {
+      "id": "c68f9fbb",
+      "bank_id": "20ad3602",
+      "text": "Güzellikten nasibini almamışlığını bu kadar yüzsüzce sergilemek zorunda mısın?"
+    },
+    {
+      "id": "c68f9fbc",
+      "bank_id": "20ad3602",
+      "text": "İğrenç falan değilsin. Sadece pek çekici de değilsin, o kadar."
+    },
+    {
+      "id": "c68f9fbe",
+      "bank_id": "20ad3602",
+      "text": "O surat için ruhsat falan gerekiyor mu?"
+    },
+    {
+      "id": "c68f9fbf",
+      "bank_id": "20ad3602",
+      "text": "Görünüşüne biraz daha özen göstermek isteyebilirsin."
+    },
+    {
+      "id": "ca4838a8",
+      "bank_id": "20ad3602",
+      "text": "Korkarım bir hata yaptınız."
+    },
+    {
+      "id": "ca4838a9",
+      "bank_id": "20ad3602",
+      "text": "Beni tamamen başka biriyle karıştırmış olmalısınız."
+    },
+    {
+      "id": "ca4838aa",
+      "bank_id": "20ad3602",
+      "text": "Başka birini arıyor olmalısın."
+    },
+    {
+      "id": "ca4838ab",
+      "bank_id": "20ad3602",
+      "text": "Kör olmalısın çünkü aradığın kişi kesinlikle ben değilim."
+    },
+    {
+      "id": "ca4838ac",
+      "bank_id": "20ad3602",
+      "text": "Beni kastettiğinden emin misin?"
+    },
+    {
+      "id": "ca4838ad",
+      "bank_id": "20ad3602",
+      "text": "Sen kendini kim sanıyorsun?! Daha da önemlisi, beni kim sanıyorsun??"
+    },
+    {
+      "id": "ca4838ae",
+      "bank_id": "20ad3602",
+      "text": "Beni kim sanıyorsun bilmiyorum ama o kişi ben değilim."
+    },
+    {
+      "id": "cdc6deb8",
+      "bank_id": "20ad3602",
+      "text": "Ah, tam bir baştan çıkarıcısın."
+    },
+    {
+      "id": "cdc6deba",
+      "bank_id": "20ad3602",
+      "text": "Öyle tatlısın ki."
+    },
+    {
+      "id": "cdc6debb",
+      "bank_id": "20ad3602",
+      "text": "İçimi kıpır kıpır ediyorsun."
+    },
+    {
+      "id": "cdc6debc",
+      "bank_id": "20ad3602",
+      "text": "Her geçen gün senden biraz daha hoşlanıyorum."
+    },
+    {
+      "id": "cdc6debd",
+      "bank_id": "20ad3602",
+      "text": "Lokum gibisin sen lokum. Tatlı mı tatlı bir lokum."
+    },
+    {
+      "id": "cdc6debe",
+      "bank_id": "20ad3602",
+      "text": "Ne büyük bir baştan çıkarma! Kalbim duracak!"
+    },
+    {
+      "id": "cdc6debf",
+      "bank_id": "20ad3602",
+      "text": "Büyülendim resmen!"
+    },
+    {
+      "id": "cf187dac",
+      "bank_id": "20ad3602",
+      "text": "Bu tamamen uygunsuz bir hareket!"
+    },
+    {
+      "id": "cf187daf",
+      "bank_id": "20ad3602",
+      "text": "Bunun uygun olduğundan emin değilim. Pek çok, pek çok nedenden ötürü."
+    },
+    {
+      "id": "d215d188",
+      "bank_id": "20ad3602",
+      "text": "Ooh..."
+    },
+    {
+      "id": "d215d189",
+      "bank_id": "20ad3602",
+      "text": "Ooh..."
+    },
+    {
+      "id": "d215d18a",
+      "bank_id": "20ad3602",
+      "text": "Ooh..."
+    },
+    {
+      "id": "d215d18b",
+      "bank_id": "20ad3602",
+      "text": "Ooh..."
+    },
+    {
+      "id": "d215d18c",
+      "bank_id": "20ad3602",
+      "text": "Ooh..."
+    },
+    {
+      "id": "d215d18d",
+      "bank_id": "20ad3602",
+      "text": "Vay canına."
+    },
+    {
+      "id": "d215d18e",
+      "bank_id": "20ad3602",
+      "text": "Şahane."
+    },
+    {
+      "id": "d2c6e659",
+      "bank_id": "20ad3602",
+      "text": "Ayy, çok tatlısın sen."
+    },
+    {
+      "id": "d2c6e65a",
+      "bank_id": "20ad3602",
+      "text": "Hihihi. Tam bir cilvelisin sen."
+    },
+    {
+      "id": "d2c6e65b",
+      "bank_id": "20ad3602",
+      "text": "Ooo, tam bir cazibe abidesisin."
+    },
+    {
+      "id": "d2c6e65c",
+      "bank_id": "20ad3602",
+      "text": "Pek bir cazibelisin sen öyle değil mi?"
+    },
+    {
+      "id": "d2c6e65d",
+      "bank_id": "20ad3602",
+      "text": "Bayağı bir hoşsun hani?"
+    },
+    {
+      "id": "d2c6e65e",
+      "bank_id": "20ad3602",
+      "text": "Ah, ne kadar da şeytani bir harikalık."
+    },
+    {
+      "id": "d2c6e65f",
+      "bank_id": "20ad3602",
+      "text": "Bir kadının kalbini nasıl çalacağını gerçekten çok iyi biliyorsun."
+    },
+    {
+      "id": "d34846f8",
+      "bank_id": "20ad3602",
+      "text": "Umarım gözlüklerini unutmuşsundur ve bu numara gerçekten bana yönelik değildir."
+    },
+    {
+      "id": "d34846f9",
+      "bank_id": "20ad3602",
+      "text": "Yanlış kişiye denk geldiğinden neredeyse eminim."
+    },
+    {
+      "id": "d34846fb",
+      "bank_id": "20ad3602",
+      "text": "Bunun korkunç bir hata olduğunu düşünüyorum."
+    },
+    {
+      "id": "d34846fc",
+      "bank_id": "20ad3602",
+      "text": "Benimle konuşuyor olamazsın herhalde."
+    },
+    {
+      "id": "d34846fd",
+      "bank_id": "20ad3602",
+      "text": "Beni başka biri zannediyor olabilir misiniz?"
+    },
+    {
+      "id": "d34846fe",
+      "bank_id": "20ad3602",
+      "text": "Beni başka biriyle karıştırdın."
+    },
+    {
+      "id": "d34846ff",
+      "bank_id": "20ad3602",
+      "text": "Yok ya, beni kastediyor olamazsın."
+    },
+    {
+      "id": "db15dfd8",
+      "bank_id": "20ad3602",
+      "text": "İşte böyle!"
+    },
+    {
+      "id": "db15dfd9",
+      "bank_id": "20ad3602",
+      "text": "Oooh!"
+    },
+    {
+      "id": "db15dfdb",
+      "bank_id": "20ad3602",
+      "text": "Ah, hoş."
+    },
+    {
+      "id": "db15dfdc",
+      "bank_id": "20ad3602",
+      "text": "Aman!"
+    },
+    {
+      "id": "db15dfdd",
+      "bank_id": "20ad3602",
+      "text": "Ayyy!"
+    },
+    {
+      "id": "db15dfde",
+      "bank_id": "20ad3602",
+      "text": "Oooh!"
+    },
+    {
+      "id": "db15dfdf",
+      "bank_id": "20ad3602",
+      "text": "Oooh!"
+    },
+    {
+      "id": "e289bb42",
+      "bank_id": "20ad3602",
+      "text": "Bu kadar çirkin olma."
+    },
+    {
+      "id": "eb89c9af",
+      "bank_id": "20ad3602",
+      "text": "Bu kadar çirkin olmak zorunda mısın?"
+    },
+    {
+      "id": "f38af888",
+      "bank_id": "20ad3602",
+      "text": "Ah, benim gibi sıradan birini mi fark ettin?"
+    },
+    {
+      "id": "f38af889",
+      "bank_id": "20ad3602",
+      "text": "Ah, gururum çok okşandı. Çok ünlüsün falan ya hani."
+    },
+    {
+      "id": "f38af88a",
+      "bank_id": "20ad3602",
+      "text": "Şöhretin romantik niyetlerinin önünden gidiyor. Daha fazla memnun olamazdım."
+    },
+    {
+      "id": "f38af88b",
+      "bank_id": "20ad3602",
+      "text": "Gerçekten senin ilgine layık mıyım? Ne kadar da heyecan verici."
+    },
+    {
+      "id": "f38af88d",
+      "bank_id": "20ad3602",
+      "text": "Bir ünlü benimle nasıl ilgilenebilir ki?"
+    },
+    {
+      "id": "f38af88e",
+      "bank_id": "20ad3602",
+      "text": "Ah, bir süperstar tarafından kur yapılmak gibi bir şey bu!"
+    },
+    {
+      "id": "f38af88f",
+      "bank_id": "20ad3602",
+      "text": "Ah. Varlığımdan haberdar olduğunu bile sanmıyordum."
+    },
+    {
+      "id": "f9727848",
+      "bank_id": "20ad3602",
+      "text": "Amanın! Ay! Şey... amanın! Hihihi!"
+    },
+    {
+      "id": "f9727849",
+      "bank_id": "20ad3602",
+      "text": "Ah! Görevlerin herkesçe biliniyor, şimdi de romantik meyillerin!"
+    },
+    {
+      "id": "f972784a",
+      "bank_id": "20ad3602",
+      "text": "Sen ve ben mi??? Hobbe aşkına inanılmaz!"
+    },
+    {
+      "id": "f972784b",
+      "bank_id": "20ad3602",
+      "text": "Bu banaaa mıydııı??? Vay be! Şöhreti ve talihi nasıl kendime çekeceğimi iyi biliyorum, değil mi?!"
+    },
+    {
+      "id": "f972784c",
+      "bank_id": "20ad3602",
+      "text": "Neeeeee? Beeen miii? Ooooh! Hihihi!"
+    },
+    {
+      "id": "f972784d",
+      "bank_id": "20ad3602",
+      "text": "Ooo! Bir ünlü bana asılıyor! Oooohh!!!!"
+    },
+    {
+      "id": "f972784e",
+      "bank_id": "20ad3602",
+      "text": "Ooooh! Vay canına! Ama sen çok ünlüsün! Bense değilim!"
+    },
+    {
+      "id": "fe8b0a38",
+      "bank_id": "20ad3602",
+      "text": "Ah, gururum çok okşandı. Çok ünlüsün falan ya hani."
+    },
+    {
+      "id": "fe8b0a39",
+      "bank_id": "20ad3602",
+      "text": "Ah, benim gibi sıradan birini mi fark ettin?"
+    },
+    {
+      "id": "fe8b0a3a",
+      "bank_id": "20ad3602",
+      "text": "Gerçekten senin ilgine layık mıyım? Ne kadar da heyecan verici."
+    },
+    {
+      "id": "fe8b0a3b",
+      "bank_id": "20ad3602",
+      "text": "Şöhretin romantik niyetlerinin önünden gidiyor. Daha fazla memnun olamazdım."
+    },
+    {
+      "id": "fe8b0a3c",
+      "bank_id": "20ad3602",
+      "text": "Bir ünlü benimle nasıl ilgilenebilir ki?"
+    },
+    {
+      "id": "fe8b0a3e",
+      "bank_id": "20ad3602",
+      "text": "Ah. Varlığımdan haberdar olduğunu bile sanmıyordum."
+    },
+    {
+      "id": "fe8b0a3f",
+      "bank_id": "20ad3602",
+      "text": "Ah, bir süperstar tarafından kur yapılmak gibi bir şey bu!"
+    }
+  ]
+}

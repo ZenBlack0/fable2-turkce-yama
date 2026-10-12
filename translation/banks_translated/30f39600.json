@@ -1,0 +1,856 @@
+{
+  "bank_id": "30f39600",
+  "total_strings": 170,
+  "strings": [
+    {
+      "id": "003b4001",
+      "bank_id": "30f39600",
+      "text": "1. Oyuncunun Kahramanlarını Kullan"
+    },
+    {
+      "id": "01adb75b",
+      "bank_id": "30f39600",
+      "text": "Oyuncu Profilini Seçin"
+    },
+    {
+      "id": "02d2c067",
+      "bank_id": "30f39600",
+      "text": "%1 efsun taşı %2 eşyasına başarıyla uygulandı."
+    },
+    {
+      "id": "03a0481f",
+      "bank_id": "30f39600",
+      "text": "%1 yeteneği hakkında daha fazla bilgi edinmek için yeterli deneyiminiz yok."
+    },
+    {
+      "id": "079ad0ab",
+      "bank_id": "30f39600",
+      "text": "Bölüm 4'ü Satın Al"
+    },
+    {
+      "id": "0c50a836",
+      "bank_id": "30f39600",
+      "text": "Deneyim Payı"
+    },
+    {
+      "id": "0c9456dd",
+      "bank_id": "30f39600",
+      "text": "Daha zengin bir Fable II deneyimi için indirdiğiniz içeriği Premium sürüme yükseltin. Knothole Adası için bir yükseltme mevcut."
+    },
+    {
+      "id": "0c9456de",
+      "bank_id": "30f39600",
+      "text": "Daha zengin bir Fable II deneyimi için indirdiğiniz içeriği Premium sürüme yükseltin. Geleceği Gör için bir yükseltme mevcut."
+    },
+    {
+      "id": "0cc13ad4",
+      "bank_id": "30f39600",
+      "text": "Kötülük:"
+    },
+    {
+      "id": "0d474def",
+      "bank_id": "30f39600",
+      "text": "Oyundan zorla çıkarıldınız."
+    },
+    {
+      "id": "10516547",
+      "bank_id": "30f39600",
+      "text": "Çekicilik:"
+    },
+    {
+      "id": "10c93374",
+      "bank_id": "30f39600",
+      "text": "Şu suçla itham edildiniz:"
+    },
+    {
+      "id": "12315329",
+      "bank_id": "30f39600",
+      "text": "Dışadönüklük:"
+    },
+    {
+      "id": "17c6c36c",
+      "bank_id": "30f39600",
+      "text": "%1 yeteneği hakkında pratik bilginiz yok, bu yüzden onu bırakamazsınız."
+    },
+    {
+      "id": "17dc8874",
+      "bank_id": "30f39600",
+      "text": "Çakmaklı Tabanca"
+    },
+    {
+      "id": "1c40dcf8",
+      "bank_id": "30f39600",
+      "text": "Bölüm 1'de ortaklaşa oyun kullanılamaz. <x_img> tuşuna basarak gereken bölümleri satın alıp %1 ile oyuna katılın."
+    },
+    {
+      "id": "1ca71cf4",
+      "bank_id": "30f39600",
+      "text": "Bu oyuncu şu anda müsait değil."
+    },
+    {
+      "id": "1ccdd181",
+      "bank_id": "30f39600",
+      "text": "= Toplam İrade Puanı:"
+    },
+    {
+      "id": "1ddfff63",
+      "bank_id": "30f39600",
+      "text": "%1 üzerindeki tüm efsun taşlarını kaldırmayı başaramadınız."
+    },
+    {
+      "id": "1f75a187",
+      "bank_id": "30f39600",
+      "text": "İndirilebilir içerik farkı nedeniyle bağlantı reddedildi. %1 oyuncusunun şunu indirmesi gerekiyor:"
+    },
+    {
+      "id": "210b2c5a",
+      "bank_id": "30f39600",
+      "text": "Oyuncu Puanı"
+    },
+    {
+      "id": "21e72ae9",
+      "bank_id": "30f39600",
+      "text": "Çakmaklı Tüfek"
+    },
+    {
+      "id": "227898f0",
+      "bank_id": "30f39600",
+      "text": "Karşı Cins Kıyafeti:"
+    },
+    {
+      "id": "230f808e",
+      "bank_id": "30f39600",
+      "text": "Kabalık:"
+    },
+    {
+      "id": "23668e01",
+      "bank_id": "30f39600",
+      "text": "Hiçbir suçla itham edilmediniz."
+    },
+    {
+      "id": "247fe8cb",
+      "bank_id": "30f39600",
+      "text": "Westcliff kasabasına giden zorlu bir yolculukta Hammer'a katılın."
+    },
+    {
+      "id": "24fac4c0",
+      "bank_id": "30f39600",
+      "text": "Ortaklaşa oyun partnerinizle olan bağlantınız koptu."
+    },
+    {
+      "id": "257feabe",
+      "bank_id": "30f39600",
+      "text": "Haydut topraklarında birlikte savaşın ve korkunç balverine'lerle yüzleşin. En büyük dövüşçülerin zafer ya da ölüm aradığı Çile'de yarışma hakkını kazanın."
+    },
+    {
+      "id": "267fec11",
+      "bank_id": "30f39600",
+      "text": "Kalabalıkları kana susamış bir çılgınlığa sürükleyip Albion'un en büyük şampiyonu olabilir misiniz?"
+    },
+    {
+      "id": "29f7a933",
+      "bank_id": "30f39600",
+      "text": "Fable II - Bölüm 2 indirmesi tamamlandı. Bu bölümü oynamak için oyunu yeniden başlatın."
+    },
+    {
+      "id": "2d625583",
+      "bank_id": "30f39600",
+      "text": "Kötü Kadın"
+    },
+    {
+      "id": "2f81912c",
+      "bank_id": "30f39600",
+      "text": "Efsun Taşı Uygula"
+    },
+    {
+      "id": "30140e36",
+      "bank_id": "30f39600",
+      "text": "İyi Kadın"
+    },
+    {
+      "id": "30501edd",
+      "bank_id": "30f39600",
+      "text": "Bu oyuncu zaten başka bir ortaklaşa oyunda yer alıyor."
+    },
+    {
+      "id": "3268038d",
+      "bank_id": "30f39600",
+      "text": "1. Oyuncu"
+    },
+    {
+      "id": "3268038e",
+      "bank_id": "30f39600",
+      "text": "2. Oyuncu"
+    },
+    {
+      "id": "33419648",
+      "bank_id": "30f39600",
+      "text": "Daha zengin bir Fable II deneyimi için indirdiğiniz içeriği Premium sürüme yükseltin. Hem Knothole Adası hem de Geleceği Gör için yükseltmeler mevcuttur."
+    },
+    {
+      "id": "34f54070",
+      "bank_id": "30f39600",
+      "text": "Efsun Taşları:"
+    },
+    {
+      "id": "3601cc02",
+      "bank_id": "30f39600",
+      "text": "Kötü Erkek"
+    },
+    {
+      "id": "363091c1",
+      "bank_id": "30f39600",
+      "text": "Taret Tabancası"
+    },
+    {
+      "id": "36d04175",
+      "bank_id": "30f39600",
+      "text": "Tutuklamaya Diren"
+    },
+    {
+      "id": "39947e7d",
+      "bank_id": "30f39600",
+      "text": "Hafif Tatar Yayı"
+    },
+    {
+      "id": "39a602b9",
+      "bank_id": "30f39600",
+      "text": "En yeni indirilebilir içeriklerle Fable II deneyiminizi zenginleştirin. Knothole Adası hemen indirilmeye hazır."
+    },
+    {
+      "id": "39a602ba",
+      "bank_id": "30f39600",
+      "text": "En yeni indirilebilir içeriklerle Fable II deneyiminizi zenginleştirin. Geleceği Gör hemen indirilmeye hazır."
+    },
+    {
+      "id": "3ac9b92c",
+      "bank_id": "30f39600",
+      "text": "Kamu Hizmeti"
+    },
+    {
+      "id": "3be85567",
+      "bank_id": "30f39600",
+      "text": "Ortaklaşa oyun partnerinizle bağlantınız koptu. İlerlemeniz kaydedildi."
+    },
+    {
+      "id": "3c5d13bd",
+      "bank_id": "30f39600",
+      "text": "Bölüm 4'te Kule'ye Girin"
+    },
+    {
+      "id": "3cc94973",
+      "bank_id": "30f39600",
+      "text": "Önceki Suçlar"
+    },
+    {
+      "id": "3e74540e",
+      "bank_id": "30f39600",
+      "text": "Korkutuculuk:"
+    },
+    {
+      "id": "4a7a3075",
+      "bank_id": "30f39600",
+      "text": "Pala"
+    },
+    {
+      "id": "4ac090dc",
+      "bank_id": "30f39600",
+      "text": "%1 üzerindeki tüm efsun taşlarını başarıyla kaldırdınız."
+    },
+    {
+      "id": "53224919",
+      "bank_id": "30f39600",
+      "text": "Eğlence:"
+    },
+    {
+      "id": "53e08b78",
+      "bank_id": "30f39600",
+      "text": "Zaman Kontrolü"
+    },
+    {
+      "id": "53e08b79",
+      "bank_id": "30f39600",
+      "text": "Zaman Kontrolü"
+    },
+    {
+      "id": "53e08b7a",
+      "bank_id": "30f39600",
+      "text": "Zaman Kontrolü"
+    },
+    {
+      "id": "53e08b7d",
+      "bank_id": "30f39600",
+      "text": "Zaman Kontrolü"
+    },
+    {
+      "id": "53e08b7e",
+      "bank_id": "30f39600",
+      "text": "Zaman Kontrolü"
+    },
+    {
+      "id": "53e08b7f",
+      "bank_id": "30f39600",
+      "text": "Zaman Kontrolü"
+    },
+    {
+      "id": "549fc71b",
+      "bank_id": "30f39600",
+      "text": "Bölüm 5'i Satın Al"
+    },
+    {
+      "id": "5583578d",
+      "bank_id": "30f39600",
+      "text": "Efsun taşını uygulayamazsınız. %1 zaten tamamen donatılmış."
+    },
+    {
+      "id": "5afff149",
+      "bank_id": "30f39600",
+      "text": "Düşmanlarınıza doğru fırlayacak mistik kılıçlar çağırın."
+    },
+    {
+      "id": "5afff14a",
+      "bank_id": "30f39600",
+      "text": "Düşmanlarınıza doğru fırlayacak mistik kılıçlar çağırın."
+    },
+    {
+      "id": "5afff14b",
+      "bank_id": "30f39600",
+      "text": "Düşmanlarınıza doğru fırlayacak mistik kılıçlar çağırın."
+    },
+    {
+      "id": "5afff14c",
+      "bank_id": "30f39600",
+      "text": "Düşmanlarınıza doğru fırlayacak mistik kılıçlar çağırın."
+    },
+    {
+      "id": "5afff14d",
+      "bank_id": "30f39600",
+      "text": "Düşmanlarınıza doğru fırlayacak mistik kılıçlar çağırın."
+    },
+    {
+      "id": "5afff14e",
+      "bank_id": "30f39600",
+      "text": "Mistik kılıçlar üzerinde tam hakimiyete sahipsiniz."
+    },
+    {
+      "id": "5fdb77ff",
+      "bank_id": "30f39600",
+      "text": "%1 yeteneği hakkında bildiğiniz her şeyi bıraktınız."
+    },
+    {
+      "id": "63320869",
+      "bank_id": "30f39600",
+      "text": "Oyun kurucuyla aynı indirilebilir içeriğe sahip olmadığınız için bu oyuna katılamazsınız."
+    },
+    {
+      "id": "6587352c",
+      "bank_id": "30f39600",
+      "text": "%1 deneyim puanına mal olur."
+    },
+    {
+      "id": "6a3bc159",
+      "bank_id": "30f39600",
+      "text": "İkincil boyayı kaldırın."
+    },
+    {
+      "id": "6a3bc15a",
+      "bank_id": "30f39600",
+      "text": "Birincil boyayı kaldırın."
+    },
+    {
+      "id": "6e72f904",
+      "bank_id": "30f39600",
+      "text": "Bu oyun oturumuna bağlanamazsınız. Kurucunun Fable II sürümü sizinkinden farklı."
+    },
+    {
+      "id": "6e9c953c",
+      "bank_id": "30f39600",
+      "text": "Genel:"
+    },
+    {
+      "id": "71149e94",
+      "bank_id": "30f39600",
+      "text": "Bölüm 1'de ortaklaşa oyun kullanılamadığı için %1 ile bağlantı kurulamadı. <x_img> tuşuna basarak gereken bölümleri satın alıp %1 ile hemen oyuna katılın."
+    },
+    {
+      "id": "732abf60",
+      "bank_id": "30f39600",
+      "text": "Gürz"
+    },
+    {
+      "id": "741582e1",
+      "bank_id": "30f39600",
+      "text": "%1 adlı oyuncunun oynamakta olduğu bölüme sahip olmadığınız için izleyici modunda devam edeceksiniz. Bu modda başarımlar kazanamazsınız.   Tam etkileşimli oynamak için gereken bölümleri satın almak amacıyla <x_img> tuşuna basın."
+    },
+    {
+      "id": "74477b96",
+      "bank_id": "30f39600",
+      "text": "Yeni bir ortaklaşa oyuna katılmak mevcut oyunu sonlandıracaktır. Devam edilsin mi?"
+    },
+    {
+      "id": "74b5f55b",
+      "bank_id": "30f39600",
+      "text": "Boş"
+    },
+    {
+      "id": "78f8a464",
+      "bank_id": "30f39600",
+      "text": "En yeni indirilebilir içeriklerle Fable II deneyiminizi zenginleştirin. Hem Knothole Adası hem de Geleceği Gör hemen indirilmeye hazır."
+    },
+    {
+      "id": "7a15e026",
+      "bank_id": "30f39600",
+      "text": "Balta"
+    },
+    {
+      "id": "7da91143",
+      "bank_id": "30f39600",
+      "text": "Oyun kurucuyla aynı indirilebilir içeriğe sahip olmadığınız için bu oyuna katılamazsınız. Şunu indirmeniz gerekiyor:"
+    },
+    {
+      "id": "7e5c3dbf",
+      "bank_id": "30f39600",
+      "text": "İndirilebilir içerik farkı nedeniyle %1 tarafından gelen katılma isteği reddedildi."
+    },
+    {
+      "id": "7ffe5e90",
+      "bank_id": "30f39600",
+      "text": "Girdap"
+    },
+    {
+      "id": "7ffe5e91",
+      "bank_id": "30f39600",
+      "text": "Girdap"
+    },
+    {
+      "id": "7ffe5e92",
+      "bank_id": "30f39600",
+      "text": "Girdap"
+    },
+    {
+      "id": "7ffe5e95",
+      "bank_id": "30f39600",
+      "text": "Girdap"
+    },
+    {
+      "id": "7ffe5e96",
+      "bank_id": "30f39600",
+      "text": "Girdap"
+    },
+    {
+      "id": "7ffe5e97",
+      "bank_id": "30f39600",
+      "text": "Girdap"
+    },
+    {
+      "id": "825147d0",
+      "bank_id": "30f39600",
+      "text": "Hantal düşmanlarınıza karşı avantaj elde etmek için zamanı yavaşlatın. Ayrıca bir sürpriz saldırı yapmak üzere düşmana doğru hızla atılmak için <left.img> kullanarak tek bir düşmanı da hedef alabilirsiniz."
+    },
+    {
+      "id": "825147d1",
+      "bank_id": "30f39600",
+      "text": "Hantal düşmanlarınıza karşı avantaj elde etmek için zamanı yavaşlatın. Ayrıca bir sürpriz saldırı yapmak üzere düşmana doğru hızla atılmak için <left.img> kullanarak tek bir düşmanı da hedef alabilirsiniz."
+    },
+    {
+      "id": "825147d4",
+      "bank_id": "30f39600",
+      "text": "Zaman kimse için durmaz. Sizin dışınızda."
+    },
+    {
+      "id": "825147d6",
+      "bank_id": "30f39600",
+      "text": "Hantal düşmanlarınıza karşı avantaj elde etmek için zamanı yavaşlatın. Ayrıca bir sürpriz saldırı yapmak üzere düşmana doğru hızla atılmak için <left.img> kullanarak tek bir düşmanı da hedef alabilirsiniz."
+    },
+    {
+      "id": "825147d7",
+      "bank_id": "30f39600",
+      "text": "Hantal düşmanlarınıza karşı avantaj elde etmek için zamanı yavaşlatın. Ayrıca bir sürpriz saldırı yapmak üzere düşmana doğru hızla atılmak için <left.img> kullanarak tek bir düşmanı da hedef alabilirsiniz."
+    },
+    {
+      "id": "82bb4728",
+      "bank_id": "30f39600",
+      "text": "Katana"
+    },
+    {
+      "id": "839d0af8",
+      "bank_id": "30f39600",
+      "text": "Korsan lordu ve eşsiz bir megaloman olan Reaver ile tanışın. Ruhunuzun derinliklerine yolculuk edin, ölümün gözünün içine bakın ve onu bir sopayla dürtün."
+    },
+    {
+      "id": "849d0c6b",
+      "bank_id": "30f39600",
+      "text": "Kahramanları bir araya getirebilir, Lucien ile yüzleşebilir ve dünyanın kaderini belirleyebilir misiniz? Hikâyeniz nasıl son bulacak?"
+    },
+    {
+      "id": "84bbcc46",
+      "bank_id": "30f39600",
+      "text": "Saflık:"
+    },
+    {
+      "id": "868aafc6",
+      "bank_id": "30f39600",
+      "text": "Nötr Kadın"
+    },
+    {
+      "id": "869d0fb1",
+      "bank_id": "30f39600",
+      "text": "Boğazkesenlerin ve hazine avcılarının pusuda beklediği Bloodstone korsan limanına girecek kadar Kahraman mısınız?"
+    },
+    {
+      "id": "8af4a3a7",
+      "bank_id": "30f39600",
+      "text": "Uzun Kılıç"
+    },
+    {
+      "id": "8c139b49",
+      "bank_id": "30f39600",
+      "text": "Bu ortaklaşa oyun zaten dolu."
+    },
+    {
+      "id": "9114e494",
+      "bank_id": "30f39600",
+      "text": "Hammer"
+    },
+    {
+      "id": "913c5f3c",
+      "bank_id": "30f39600",
+      "text": "Romantizm:"
+    },
+    {
+      "id": "916c3831",
+      "bank_id": "30f39600",
+      "text": "Bir Fable II başarımı kazandınız. Başarımınızı almak için Bölüm 2'yi indirin."
+    },
+    {
+      "id": "91753259",
+      "bank_id": "30f39600",
+      "text": "%1 oyuncusuna bağlanılıyor"
+    },
+    {
+      "id": "92ead1a6",
+      "bank_id": "30f39600",
+      "text": "%1 oyununuza katılmak istiyor. Kabul ediyor musunuz?"
+    },
+    {
+      "id": "9308ed17",
+      "bank_id": "30f39600",
+      "text": "Saçma Tüfeği"
+    },
+    {
+      "id": "940a8368",
+      "bank_id": "30f39600",
+      "text": "İkincil boyayı uygulayın."
+    },
+    {
+      "id": "940a836b",
+      "bank_id": "30f39600",
+      "text": "Birincil boyayı uygulayın."
+    },
+    {
+      "id": "9681f8e8",
+      "bank_id": "30f39600",
+      "text": "2. Oyuncuya bağlanılıyor"
+    },
+    {
+      "id": "97965bd1",
+      "bank_id": "30f39600",
+      "text": "İyilik:"
+    },
+    {
+      "id": "a151e368",
+      "bank_id": "30f39600",
+      "text": "Efsun Taşlarını Kaldır"
+    },
+    {
+      "id": "a2344a82",
+      "bank_id": "30f39600",
+      "text": "Ağır Tatar Yayı"
+    },
+    {
+      "id": "a3bfa87d",
+      "bank_id": "30f39600",
+      "text": "%1 şu anda oynamakta olduğunuz bölümü satın almadığı için izleyici modunda olacaktır."
+    },
+    {
+      "id": "a4fa1591",
+      "bank_id": "30f39600",
+      "text": "Dost Canlılığı:"
+    },
+    {
+      "id": "a6db2a70",
+      "bank_id": "30f39600",
+      "text": "Ceza Öde"
+    },
+    {
+      "id": "a881a3ed",
+      "bank_id": "30f39600",
+      "text": "Beceri:"
+    },
+    {
+      "id": "ac7dd5bd",
+      "bank_id": "30f39600",
+      "text": "Bağlantı reddedildi. %1 yalnızca Bölüm 1'e sahip ve ortaklaşa oynayamaz."
+    },
+    {
+      "id": "af54127c",
+      "bank_id": "30f39600",
+      "text": "Ceza %d altın."
+    },
+    {
+      "id": "b0cac2f8",
+      "bank_id": "30f39600",
+      "text": "%1 yeteneği hakkında edindiğiniz bilgilerin bir kısmını bıraktınız. Artık kullanımında daha az mahirsiniz."
+    },
+    {
+      "id": "b1135953",
+      "bank_id": "30f39600",
+      "text": "Reddet"
+    },
+    {
+      "id": "b11e9a6e",
+      "bank_id": "30f39600",
+      "text": "Çocukluk:"
+    },
+    {
+      "id": "b2178ed3",
+      "bank_id": "30f39600",
+      "text": "Efsun Taşı Kaldırma"
+    },
+    {
+      "id": "b2aa14db",
+      "bank_id": "30f39600",
+      "text": "Katılmak için ikinci bir kumandada <start.img> tuşuna basın."
+    },
+    {
+      "id": "b56c2b10",
+      "bank_id": "30f39600",
+      "text": "Kılıçlar"
+    },
+    {
+      "id": "b56c2b12",
+      "bank_id": "30f39600",
+      "text": "Kılıçlar"
+    },
+    {
+      "id": "b56c2b13",
+      "bank_id": "30f39600",
+      "text": "Kılıçlar"
+    },
+    {
+      "id": "b56c2b14",
+      "bank_id": "30f39600",
+      "text": "Kılıçlar"
+    },
+    {
+      "id": "b56c2b15",
+      "bank_id": "30f39600",
+      "text": "Kılıçlar"
+    },
+    {
+      "id": "b56c2b17",
+      "bank_id": "30f39600",
+      "text": "Kılıçlar"
+    },
+    {
+      "id": "b66a6c75",
+      "bank_id": "30f39600",
+      "text": "Seri Tatar Yayı"
+    },
+    {
+      "id": "bc81af95",
+      "bank_id": "30f39600",
+      "text": "Yeni bir yetenek öğrendiniz: %1."
+    },
+    {
+      "id": "c056fc61",
+      "bank_id": "30f39600",
+      "text": "Gülünçlük:"
+    },
+    {
+      "id": "c1a0517d",
+      "bank_id": "30f39600",
+      "text": "Nötr Erkek"
+    },
+    {
+      "id": "c44b4ea2",
+      "bank_id": "30f39600",
+      "text": "1. Oyuncunun Kahramanını Değiştir"
+    },
+    {
+      "id": "c492309c",
+      "bank_id": "30f39600",
+      "text": "İrade Kahramanını ararken ruhsuz bir gardiyan kılığına bürünün ve Kule'nin karanlık koridorlarında görkemli bir firara öncülük edin."
+    },
+    {
+      "id": "c4ef7e49",
+      "bank_id": "30f39600",
+      "text": "Çirkinlik:"
+    },
+    {
+      "id": "c592320f",
+      "bank_id": "30f39600",
+      "text": "Vaktiyle cennet gibi olan bir kasabanın tekinsiz bataklıklarına bir geçit açıp bugüne kadarki en büyük sınavınızla yüzleşebilir misiniz?"
+    },
+    {
+      "id": "c71d7b9f",
+      "bank_id": "30f39600",
+      "text": "Bölüm 2'yi Satın Al"
+    },
+    {
+      "id": "c7923555",
+      "bank_id": "30f39600",
+      "text": "Çaresizliğin hüküm sürdüğü o dehşet verici yapıya, Lucien'in kalesine yolculuk edin."
+    },
+    {
+      "id": "c83dbf3e",
+      "bank_id": "30f39600",
+      "text": "Ahlak:"
+    },
+    {
+      "id": "cfd4dc53",
+      "bank_id": "30f39600",
+      "text": "Neşe:"
+    },
+    {
+      "id": "d07b559f",
+      "bank_id": "30f39600",
+      "text": "Nezaket:"
+    },
+    {
+      "id": "d24ef13c",
+      "bank_id": "30f39600",
+      "text": "%1 yeteneği konusundaki kavrayışınız kayda değer biçimde arttı."
+    },
+    {
+      "id": "d3047bf0",
+      "bank_id": "30f39600",
+      "text": "Saldırganlık:"
+    },
+    {
+      "id": "d3286d5f",
+      "bank_id": "30f39600",
+      "text": "İyi Erkek"
+    },
+    {
+      "id": "d5ff2ece",
+      "bank_id": "30f39600",
+      "text": "Taret Tüfeği"
+    },
+    {
+      "id": "d6843e9e",
+      "bank_id": "30f39600",
+      "text": "Müstehcenlik:"
+    },
+    {
+      "id": "d85e2207",
+      "bank_id": "30f39600",
+      "text": "Ün Payı"
+    },
+    {
+      "id": "d8e3e63f",
+      "bank_id": "30f39600",
+      "text": "Güç:"
+    },
+    {
+      "id": "da65362a",
+      "bank_id": "30f39600",
+      "text": "Saygınlık"
+    },
+    {
+      "id": "dcf22791",
+      "bank_id": "30f39600",
+      "text": "Bölüm 5'te Bloodstone Sizi Bekliyor"
+    },
+    {
+      "id": "df40425f",
+      "bank_id": "30f39600",
+      "text": "Hoyratlık:"
+    },
+    {
+      "id": "df99ea44",
+      "bank_id": "30f39600",
+      "text": "Kurmalı Tüfek"
+    },
+    {
+      "id": "e4e8b591",
+      "bank_id": "30f39600",
+      "text": "Ortaklaşa oyun oturumuna bağlanılamadı."
+    },
+    {
+      "id": "e4f34088",
+      "bank_id": "30f39600",
+      "text": "Düşmanlarınızı havaya kaldırıp fırlatan güçlü hortumlar yaratmak için kudretli elementsel güçleri çağırın. Muazzam hasar için tek tek hedefleri vurun ya da daha az hasarla daha fazla düşmanı etkilemek için alan etkisi kullanın."
+    },
+    {
+      "id": "e4f34089",
+      "bank_id": "30f39600",
+      "text": "Düşmanlarınızı havaya kaldırıp fırlatan güçlü hortumlar yaratmak için kudretli elementsel güçleri çağırın. Muazzam hasar için tek tek hedefleri vurun ya da daha az hasarla daha fazla düşmanı etkilemek için alan etkisi kullanın."
+    },
+    {
+      "id": "e4f3408b",
+      "bank_id": "30f39600",
+      "text": "Düşmanlarınızı havaya kaldırıp fırlatan güçlü hortumlar yaratmak için kudretli elementsel güçleri çağırın. Muazzam hasar için tek tek hedefleri vurun ya da daha az hasarla daha fazla düşmanı etkilemek için alan etkisi kullanın."
+    },
+    {
+      "id": "e4f3408c",
+      "bank_id": "30f39600",
+      "text": "Girdap üzerindeki kontrolünüz tam."
+    },
+    {
+      "id": "e4f3408e",
+      "bank_id": "30f39600",
+      "text": "Düşmanlarınızı havaya kaldırıp fırlatan güçlü hortumlar yaratmak için kudretli elementsel güçleri çağırın. Muazzam hasar için tek tek hedefleri vurun ya da daha az hasarla daha fazla düşmanı etkilemek için alan etkisi kullanın."
+    },
+    {
+      "id": "e4f3408f",
+      "bank_id": "30f39600",
+      "text": "Düşmanlarınızı havaya kaldırıp fırlatan güçlü hortumlar yaratmak için kudretli elementsel güçleri çağırın. Muazzam hasar için tek tek hedefleri vurun ya da daha az hasarla daha fazla düşmanı etkilemek için alan etkisi kullanın."
+    },
+    {
+      "id": "e647233e",
+      "bank_id": "30f39600",
+      "text": "İrade:"
+    },
+    {
+      "id": "ec679892",
+      "bank_id": "30f39600",
+      "text": "%1 adlı oyuncunun oynamakta olduğu bölümü indirdiniz ve artık oyuna tam olarak dahil olabilirsiniz."
+    },
+    {
+      "id": "ef0c2f62",
+      "bank_id": "30f39600",
+      "text": "Asillik:"
+    },
+    {
+      "id": "f0061b43",
+      "bank_id": "30f39600",
+      "text": "Kurmalı Tabanca"
+    },
+    {
+      "id": "f1b91cf4",
+      "bank_id": "30f39600",
+      "text": "Satır"
+    },
+    {
+      "id": "f1c7e660",
+      "bank_id": "30f39600",
+      "text": "Altın Payı"
+    },
+    {
+      "id": "f56bae6e",
+      "bank_id": "30f39600",
+      "text": "%1 oynamakta olduğunuz bölümü indirdiği için artık izleyici modunda değil."
+    },
+    {
+      "id": "f84e7a2d",
+      "bank_id": "30f39600",
+      "text": "Bölüm 3'ü Satın Al"
+    },
+    {
+      "id": "fe20dc46",
+      "bank_id": "30f39600",
+      "text": "%1 hediyenizi aldı."
+    }
+  ]
+}

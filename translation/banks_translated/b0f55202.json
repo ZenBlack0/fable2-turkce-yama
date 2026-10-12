@@ -1,0 +1,441 @@
+{
+  "bank_id": "b0f55202",
+  "total_strings": 87,
+  "strings": [
+    {
+      "id": "0720c3cd",
+      "bank_id": "b0f55202",
+      "text": "Çile Şampiyonları Lucien'in askerlerinin gözünü korkutamaz!"
+    },
+    {
+      "id": "0720c3ce",
+      "bank_id": "b0f55202",
+      "text": "Bir dakika! Çile'yi kazandıysan... bu Kule'ye gittiğin anlamına gelir!"
+    },
+    {
+      "id": "08dbdfbc",
+      "bank_id": "b0f55202",
+      "text": "Bu dünyada çok vaktin kalmadı. Yargıçların sadece dış görünüşünü değiştirdiğini mi sanıyorsun? Ölüm içten içe büyüyor."
+    },
+    {
+      "id": "0c211a8a",
+      "bank_id": "b0f55202",
+      "text": "Beni tanımadın mı aşkım? Beni kurban etmeden önce karındım senin. Bak halime ne oldu. Bunu bana sen yaptın."
+    },
+    {
+      "id": "0c4e103c",
+      "bank_id": "b0f55202",
+      "text": "Şu kulede can kurtarmak için sergilediğin o zavallı maskaralıkların hepsini duydum. Seni zayıf herif!"
+    },
+    {
+      "id": "0c4e103e",
+      "bank_id": "b0f55202",
+      "text": "O kuledeki bir avuç dertsiz tasasız herifi kurtarmak için zengin olma fırsatını teptiğin doğru mu?"
+    },
+    {
+      "id": "0c4e103f",
+      "bank_id": "b0f55202",
+      "text": "O kulede ne haltlar karıştırıyordun sahiden?"
+    },
+    {
+      "id": "1b829eb2",
+      "bank_id": "b0f55202",
+      "text": "Aileni geri getirmek için katlettiğin onca insan... Onların da aileleri olduğunu düşünmedin mi? Hem geri gelenin sahiden kendi ailen olduğundan ne kadar eminsin ki?"
+    },
+    {
+      "id": "1bb7ddb4",
+      "bank_id": "b0f55202",
+      "text": "Demek sırrın hâlâ güvende... Ve seninle evlenmeye kandırdığın bunca insan bir süre daha aldatılmış kalacak. Ama bunun sonsuza dek süreceğini mi sanıyorsun gerçekten?"
+    },
+    {
+      "id": "1c90ca47",
+      "bank_id": "b0f55202",
+      "text": "Kule'deki mahkûmlar yardımın için feryat ediyor. Neden onların yanına gitmiyorsun? Hani onların dostuydun? Hani kurtarıcılarıydın?"
+    },
+    {
+      "id": "1d59e03c",
+      "bank_id": "b0f55202",
+      "text": "Çile'de dövüşmüş olmanın seni dişli bir rakip yaptığını mı sanıyorsun?"
+    },
+    {
+      "id": "1d59e03f",
+      "bank_id": "b0f55202",
+      "text": "Hey, ben seni Çile'de görmedim mi ya?"
+    },
+    {
+      "id": "1da5ab2d",
+      "bank_id": "b0f55202",
+      "text": "Çile'den sağ çıkmış olman muhafız saldırısından da sağ çıkacağın anlamına gelmez."
+    },
+    {
+      "id": "1da5ab2e",
+      "bank_id": "b0f55202",
+      "text": "İddiasına varım Çile'de hiçbir muhafızla dövüşmemişsindir!"
+    },
+    {
+      "id": "2640e07e",
+      "bank_id": "b0f55202",
+      "text": "Kendi gençliğini kurtarmak için masum bir çocuğun gençliğini feda etmekten daha alçakça ve korkakça bir şey var mıdır?"
+    },
+    {
+      "id": "2d5a3490",
+      "bank_id": "b0f55202",
+      "text": "Kaçan herif sensin demek! Bunun için devasa bir ödül alacağım!"
+    },
+    {
+      "id": "2d5a3493",
+      "bank_id": "b0f55202",
+      "text": "Ait olduğun yere, doğruca Kule'ye geri dönüyorsun. Artık senin için kaçış falan yok."
+    },
+    {
+      "id": "2d933e4c",
+      "bank_id": "b0f55202",
+      "text": "Ah, Gölgeler'e sunduğun o kurbanların acısı... öyle enfes ki. Istıraplarının tadı hâlâ damağımda."
+    },
+    {
+      "id": "2e7e5877",
+      "bank_id": "b0f55202",
+      "text": "Çiftçilerin buyruklarını yerine getirecek kadar mı düştün? Üstelik onlar için canını tehlikeye atacak kadar ha?"
+    },
+    {
+      "id": "36c1c58f",
+      "bank_id": "b0f55202",
+      "text": "Bob'un acısına son verecek yürek yoktu sende. Onun öyle yaşamak istediğini mi sanıyorsun? Akılsız, kırık dökük ve yapayalnız?"
+    },
+    {
+      "id": "388497b4",
+      "bank_id": "b0f55202",
+      "text": "Kule'de onca insanın ölmesinin senin kabahatin olduğunu söylüyorlar. Canavar!"
+    },
+    {
+      "id": "388497b7",
+      "bank_id": "b0f55202",
+      "text": "O Kule'de ne yaptığını duydum. Onca insan senin yüzünden öldü. Senin gibi bir canavar adalete teslim edilmeli."
+    },
+    {
+      "id": "43db3023",
+      "bank_id": "b0f55202",
+      "text": "Ah, Giles iyi bir adamdı... Sadece kendi haline bırakılmak, oğlunu büyütmek, toprağı işlemek istiyordu. Sense o toprağı onun kanıyla suladın."
+    },
+    {
+      "id": "4d2884dc",
+      "bank_id": "b0f55202",
+      "text": "Aileni nasıl geri getirdin bilmiyorum ama teslim olmazsan onları yine kaybedeceksin."
+    },
+    {
+      "id": "4d2884df",
+      "bank_id": "b0f55202",
+      "text": "Aileni nasıl geri getirdiğin tam bir muamma. Suçlu olmana şaşmamalı."
+    },
+    {
+      "id": "502e0458",
+      "bank_id": "b0f55202",
+      "text": "Dash'i öldüren sen değil miydin? Nasıl yetiştin ulan o herife?"
+    },
+    {
+      "id": "502e045a",
+      "bank_id": "b0f55202",
+      "text": "O arsız herif Dash'i hakladığına göre epey hızlı olmalısın."
+    },
+    {
+      "id": "502e045b",
+      "bank_id": "b0f55202",
+      "text": "Rookridge'de olanları duydum. Dash'i hiç sevmezdim ama bu onu öldürebileceğin anlamına gelmez."
+    },
+    {
+      "id": "56e629cb",
+      "bank_id": "b0f55202",
+      "text": "Kule'de eziyet ettiğin o zayıf insanların çığlıkları hoşuna gitti mi? Artık beslenemeyecek hale gelene dek onların ızdırabından beslendik."
+    },
+    {
+      "id": "585e78df",
+      "bank_id": "b0f55202",
+      "text": "Nihayet dünya senin bir sahtekârdan başka bir şey olmadığını öğrendi. Ama o insanların seninle aşk için mi evlendiğini sanıyorsun? Açgözlülük o. Şöhretini ve altınını istiyorlar, başka hiçbir şey değil."
+    },
+    {
+      "id": "5a79444b",
+      "bank_id": "b0f55202",
+      "text": "Sırf cebin altınla dolsun diye onca insan öldü..."
+    },
+    {
+      "id": "5d0f3a1d",
+      "bank_id": "b0f55202",
+      "text": "O zavallı kızcağız... sadece yardımını istemişti. Sense sırf kendi kibrini tatmin edebilmek için onun yaşam enerjisini pazarlık konusu yaptın."
+    },
+    {
+      "id": "5f34df70",
+      "bank_id": "b0f55202",
+      "text": "Dur bir dakika, Ripper'ı sen öldürdün, di mi? Ah, bu intikam pek tatlı olacak işte."
+    },
+    {
+      "id": "5f34df71",
+      "bank_id": "b0f55202",
+      "text": "Ripper'ı öldüren sendin! Sen çıkıp gelmeden önce çetesine katılacaktım ulan!"
+    },
+    {
+      "id": "5f34df72",
+      "bank_id": "b0f55202",
+      "text": "Ripper'ı hakladın, di mi? İyi adamdı be. Hesap vakti geldi galiba!"
+    },
+    {
+      "id": "65e2684c",
+      "bank_id": "b0f55202",
+      "text": "O Kule'de nasıl bu kadar zengin oldun bilmiyorum ama o paraları elinden almaktan büyük zevk duyacağım."
+    },
+    {
+      "id": "65e2684d",
+      "bank_id": "b0f55202",
+      "text": "Hadi söyle bakalım, bunca altını almak için kulede ne pis bir pazarlık yaptın? Gerçi o altınları ben alacağım, çok sağ olasın."
+    },
+    {
+      "id": "65e2684e",
+      "bank_id": "b0f55202",
+      "text": "Zengin olmak için çevirdiğin fırıldakların hepsini biliyorum. Altınların için seni öldürmek zorunda kalacak olmak neredeyse üzecek beni."
+    },
+    {
+      "id": "6eed512d",
+      "bank_id": "b0f55202",
+      "text": "Aileni geri getirmek için çevirdiğin kirli dümenlerin hepsini biliyorum. Orada birkaç haydut da vardı hani."
+    },
+    {
+      "id": "6eed512e",
+      "bank_id": "b0f55202",
+      "text": "Hadi anlat bakalım, aileni geri getirmek için kulede ne pis bir pazarlık yaptın?"
+    },
+    {
+      "id": "6eed512f",
+      "bank_id": "b0f55202",
+      "text": "O aptal aileni geri getirmek için kaç kişiyi öldürmen gerekti ha? Evet evet, ne yaptığını biliyorum."
+    },
+    {
+      "id": "76d69b40",
+      "bank_id": "b0f55202",
+      "text": "Beni tanımadın mı aşkım? Beni kurban etmeden önce kocandım senin. Bak ne hale geldim. Bunu bana sen yaptın."
+    },
+    {
+      "id": "7c435dbc",
+      "bank_id": "b0f55202",
+      "text": "Thag'dan kurtardığın için sana teşekkür etmem gerekirdi aslında, fakat yine de kanunları çiğnedin."
+    },
+    {
+      "id": "7c435dbf",
+      "bank_id": "b0f55202",
+      "text": "Thag gibi bir haydutu öldüren biri nasıl suça bulaşır?"
+    },
+    {
+      "id": "7ce7f6b0",
+      "bank_id": "b0f55202",
+      "text": "Önce haydutlar çiftçinin karısını katletti, sonra da sen onu katlettin. Ne cesaret ama, ne destansı görevler..."
+    },
+    {
+      "id": "809d6665",
+      "bank_id": "b0f55202",
+      "text": "O zavallı insanlar onları Thag'dan kurtarmak için orada olduğunu sanmıştı. Sense onları sefalet dolu bir hayata mahkûm ettin."
+    },
+    {
+      "id": "833b7b98",
+      "bank_id": "b0f55202",
+      "text": "Ben de Çile'yi kazanırdım hani, biliyor musun. Sadece canım istemedi."
+    },
+    {
+      "id": "833b7b99",
+      "bank_id": "b0f55202",
+      "text": "Hey, Çile'yi sen kazanmamış mıydın? Hep bir şampiyon öldürmek istemişimdir."
+    },
+    {
+      "id": "833b7b9b",
+      "bank_id": "b0f55202",
+      "text": "Çile'yi kazanmış olman zerre umurumda değil. Kesin hile falan yapmışsındır."
+    },
+    {
+      "id": "909a55b9",
+      "bank_id": "b0f55202",
+      "text": "O Kule'den hiç çıkmamış olmayı dileyeceksin."
+    },
+    {
+      "id": "909a55ba",
+      "bank_id": "b0f55202",
+      "text": "Peki o Kule'ye haydutları alıyorlar mı hiç? Orada iyi para kırıldığını duydum."
+    },
+    {
+      "id": "909a55bb",
+      "bank_id": "b0f55202",
+      "text": "Hadi anlatsana, o Kule'de ne haltlar karıştırıyorlar? Oradaydın sonuçta, di mi?"
+    },
+    {
+      "id": "953e5b9d",
+      "bank_id": "b0f55202",
+      "text": "Aileni ebediyen çürümeye terk ettin; peki ne uğruna? Yaşamak için hiçbir gayesi kalmamış bir Kule dolusu yabancı uğruna."
+    },
+    {
+      "id": "9b8dc08d",
+      "bank_id": "b0f55202",
+      "text": "Thag'ı öldüren pislik sensin demek! Bana baba gibiydi o! Pis, kaba saba bir baba tabii!"
+    },
+    {
+      "id": "9b8dc08e",
+      "bank_id": "b0f55202",
+      "text": "Thag'ı öldürüp paçayı kurtarabileceğini mi sandın?"
+    },
+    {
+      "id": "9b8dc08f",
+      "bank_id": "b0f55202",
+      "text": "Thag'ı hiç sevmezdim, ama bu o pisliği öldürme hakkını sana vermez."
+    },
+    {
+      "id": "9d11f180",
+      "bank_id": "b0f55202",
+      "text": "Pek zengin sayılmazsın gerçi, ama elindekiler de işimi görür."
+    },
+    {
+      "id": "9d11f181",
+      "bank_id": "b0f55202",
+      "text": "Bu sabah o sıcacık rahat evinde kalmış olmayı dilemiyor musun şimdi?"
+    },
+    {
+      "id": "9d11f182",
+      "bank_id": "b0f55202",
+      "text": "Bu günü kârlı kılmaya yetecek kadar altını bir kenara istiflemişsin bakıyorum."
+    },
+    {
+      "id": "a6311cc1",
+      "bank_id": "b0f55202",
+      "text": "Brightwood'un en iyi haydudundan mahrum kalması senin suçun. Ripper senin yüzünden asıldı!"
+    },
+    {
+      "id": "a6311cc2",
+      "bank_id": "b0f55202",
+      "text": "Ripper'ı zaptiyelerin eline teslim eden sendin! Astırdılar adamı senin yüzünden, seni domuz seni!"
+    },
+    {
+      "id": "a6311cc3",
+      "bank_id": "b0f55202",
+      "text": "Ripper'ı kanuna nasıl teslim edersin? Tanıdığım en düzgün katildi o."
+    },
+    {
+      "id": "a6baf1bb",
+      "bank_id": "b0f55202",
+      "text": "Zavallı Bob canını bağışlaman için nasıl da yalvarmıştı, o gözlerdeki korku nasıl da büyüktü... Tetiği çekerken kendini güçlü hissettin mi bari? Dostunun onu neden katlettiğini anladığını mı sanıyorsun?"
+    },
+    {
+      "id": "a9edffe4",
+      "bank_id": "b0f55202",
+      "text": "Kule'deki o haşerelere yardım ettiğini mi sanıyorsun? Sadece onların ızdırabını uzattın."
+    },
+    {
+      "id": "b8f765f3",
+      "bank_id": "b0f55202",
+      "text": "Alex sonunda mutluluğu bulduğunu sanmıştı. Ah, kalbinin kırılışındaki o ses ne kadar da lezizdi. Kendini çaresizce ölüme atarken kopardığı o feryat..."
+    },
+    {
+      "id": "c21c5b34",
+      "bank_id": "b0f55202",
+      "text": "Hey, Brightwood'daki şu muhafızları öldürmeleri için bizim elemanlardan bazılarına yardım etmiştin, di mi? Kusura bakma ama vefa mefa pek umurumda değil."
+    },
+    {
+      "id": "c21c5b35",
+      "bank_id": "b0f55202",
+      "text": "Brightwood'daki çiftliği basmaları için bizim çocuklara yardım etmiş miydin? Şimdi de bizimle mi savaşıyorsun yani?"
+    },
+    {
+      "id": "c21c5b36",
+      "bank_id": "b0f55202",
+      "text": "Brightwood'daki o sünepe çiftçiye karşı yaptığın gibi bizim tarafımızda dövüşüyor olmalıydın."
+    },
+    {
+      "id": "cdc58930",
+      "bank_id": "b0f55202",
+      "text": "Son zamanlarda Çile'de dövüştüğünü duyup duruyorum. O mekândan uzak duramıyorsun, di mi?"
+    },
+    {
+      "id": "cdc58931",
+      "bank_id": "b0f55202",
+      "text": "Şu yeni Çile'de sosyete takımını eğlendirmeyi seviyorsun galiba? Bir kucak köpeğinden başka bir şey değilsin."
+    },
+    {
+      "id": "cdc58932",
+      "bank_id": "b0f55202",
+      "text": "Çile'deki her meydan okumayı bitirmiş birini öldürme fırsatı her gün ele geçmez doğrusu. Nefis!"
+    },
+    {
+      "id": "ce15d7e8",
+      "bank_id": "b0f55202",
+      "text": "Çile'ye girmeyi nasıl başardın yahu? Hep benim de hayalim olmuştur!"
+    },
+    {
+      "id": "ce15d7ea",
+      "bank_id": "b0f55202",
+      "text": "Hey, Çile'de Kuduz ile tanıştın mı? Vaktiyle buraların en iyisiydi."
+    },
+    {
+      "id": "ce15d7eb",
+      "bank_id": "b0f55202",
+      "text": "Çile'de dövüşsünler diye kaçırılan birkaç arkadaşım vardı. Belki onlarla karşılaşmışsındır. Ve öldürmüşsündür."
+    },
+    {
+      "id": "daebe37f",
+      "bank_id": "b0f55202",
+      "text": "Yaşamını senden çekerlerken Yargıçların o soğuk dokunuşu nasıl hissettirdi bakalım?"
+    },
+    {
+      "id": "e44c0280",
+      "bank_id": "b0f55202",
+      "text": "Sen mi? Yolkesenlerin liderini sen mi öldürdün? İnanmam."
+    },
+    {
+      "id": "e44c0281",
+      "bank_id": "b0f55202",
+      "text": "Yol Kesenler Loncası'nın elinden nasıl kurtuldun ulan? Kellen için sözleşme çıkarmışlardı."
+    },
+    {
+      "id": "e44c0282",
+      "bank_id": "b0f55202",
+      "text": "Şu suikast girişimlerinden sağ kurtulmana hayran kaldım doğrusu. O yolkesenler fena çetrefilli piçlerdir."
+    },
+    {
+      "id": "e4dfdc38",
+      "bank_id": "b0f55202",
+      "text": "Kule'ye ilk adım atan kişiyle sahiden aynı insan mısın sen? Orası seni değiştirdi. Öyle korkunç şeyler yaptın ki. Artık insan bile sayılmazsın."
+    },
+    {
+      "id": "e7357001",
+      "bank_id": "b0f55202",
+      "text": "O Kule'de ne oldu ya da onca insan nasıl sağ kurtuldu bilmiyorum ama senin bir parmağın olduğunu söylüyorlar. Yine de kanunları çiğnedin."
+    },
+    {
+      "id": "e7357002",
+      "bank_id": "b0f55202",
+      "text": "Belki teslim olduğunda Kule'de tam olarak ne haltlar döndüğünü anlatırsın."
+    },
+    {
+      "id": "e9fbf8bf",
+      "bank_id": "b0f55202",
+      "text": "Altınlarını anlamsız bağışlarla çarçur ediyorsun. Işık sana yardım edemez. Hiçbir şey edemez."
+    },
+    {
+      "id": "ebe76105",
+      "bank_id": "b0f55202",
+      "text": "Çile şampiyonu olabilirsin ama benden korkamazsın!"
+    },
+    {
+      "id": "ebe76106",
+      "bank_id": "b0f55202",
+      "text": "Vay vay, karşımızda bir Çile şampiyonu var demek. Etkilendim gerçi ama bu kanunları çiğnediğin gerçeğini değiştirmez."
+    },
+    {
+      "id": "f5a739f8",
+      "bank_id": "b0f55202",
+      "text": "O berbat Kule'den kaçtıktan sonra neden suça bulaşasın ki?"
+    },
+    {
+      "id": "f5a739fb",
+      "bank_id": "b0f55202",
+      "text": "O Kule'de kalacaktın, suçlu!"
+    },
+    {
+      "id": "f7a64ea6",
+      "bank_id": "b0f55202",
+      "text": "Thag'dan kurtardığın insanların sana gerçekten minnettar olduğunu mu sanıyorsun? Arkandan gülüyorlar. Zayıflığına gülüyorlar."
+    }
+  ]
+}

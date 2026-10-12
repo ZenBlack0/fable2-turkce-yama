@@ -1,0 +1,591 @@
+{
+  "bank_id": "30b3b600",
+  "total_strings": 117,
+  "strings": [
+    {
+      "id": "0022789e",
+      "bank_id": "30b3b600",
+      "text": "Genç yaşta yıkıcı bir kayıp yaşadı... ve hiçbir zaman bundan tam olarak kurtulamadı."
+    },
+    {
+      "id": "00c1f8f2",
+      "bank_id": "30b3b600",
+      "text": "Devam etmek için şu çukura atlaman gerekecek. Endişelenme, dipteki su düşüşünü yumuşatacak."
+    },
+    {
+      "id": "00daf59b",
+      "bank_id": "30b3b600",
+      "text": "Güç, bir savaşçının en büyük varlığıdır. Yakın dövüşte kaba kuvvetten daha etkili hiçbir şey yoktur."
+    },
+    {
+      "id": "01227a71",
+      "bank_id": "30b3b600",
+      "text": "Atan... gelmiş geçmiş en kudretli Kahramanlardan biri."
+    },
+    {
+      "id": "013f7e4e",
+      "bank_id": "30b3b600",
+      "text": "İrade, büyü güçlerine hükmetmeni sağlar."
+    },
+    {
+      "id": "02227be4",
+      "bank_id": "30b3b600",
+      "text": "Kahramanlar Loncası'na hoş geldin."
+    },
+    {
+      "id": "04227eca",
+      "bank_id": "30b3b600",
+      "text": "İşte buradasın."
+    },
+    {
+      "id": "052280b9",
+      "bank_id": "30b3b600",
+      "text": "Bugün yaşayan hiçbir insan Lonca'nın yandığı geceyi hatırlamaz. Ve şimdi unutulup gitti."
+    },
+    {
+      "id": "052280bb",
+      "bank_id": "30b3b600",
+      "text": "Fakat Kahramanların hepsi yok olmadı."
+    },
+    {
+      "id": "052280bd",
+      "bank_id": "30b3b600",
+      "text": "Yüzyıllar boyunca bu akademi, damarlarında akan aynı kanla birbirine bağlı, Albion'un en üstün yetenekli oğullarını ve kızlarını eğitti."
+    },
+    {
+      "id": "052280bf",
+      "bank_id": "30b3b600",
+      "text": "Bir zamanlar Albion halkının taptığı büyük Kahramanlar, zamanla korkulan ve nefret edilen kişilere dönüştü."
+    },
+    {
+      "id": "11875f98",
+      "bank_id": "30b3b600",
+      "text": "Bunlar işe yarayacak. Şimdi benimle yürü."
+    },
+    {
+      "id": "11d5b6db",
+      "bank_id": "30b3b600",
+      "text": "Usta dövüşçüler ustalığı ve menzilli dövüşü tercih eder."
+    },
+    {
+      "id": "121782cd",
+      "bank_id": "30b3b600",
+      "text": "Cehennem Ateşi, düşmanlarını kavurmak ve yakmak için büyülü alevleri çağırır."
+    },
+    {
+      "id": "138762fe",
+      "bank_id": "30b3b600",
+      "text": "Karavanının yanında bir sandık var. İçine işine yarayabilecek birkaç şey bıraktım."
+    },
+    {
+      "id": "1440656e",
+      "bank_id": "30b3b600",
+      "text": "Bu kırık kapıların ardında Kahramanlar Loncası uzanıyor."
+    },
+    {
+      "id": "14876451",
+      "bank_id": "30b3b600",
+      "text": "Ayrılmaya hazır olduğunda kapıların yanında benimle buluş."
+    },
+    {
+      "id": "158765c1",
+      "bank_id": "30b3b600",
+      "text": "O gün geldi çattı."
+    },
+    {
+      "id": "158765c4",
+      "bank_id": "30b3b600",
+      "text": "Yıllar önce kız kardeşinin intikamını almana yardım edeceğime söz vermiştim."
+    },
+    {
+      "id": "168767b7",
+      "bank_id": "30b3b600",
+      "text": "Bugün bu kampın güvenliğini terk edip Lucien'i arayacaksın. Yolculuk kolay olmayacak."
+    },
+    {
+      "id": "1844dfcc",
+      "bank_id": "30b3b600",
+      "text": "İlk yeteneklerini şimdi seç. Patlama Dalgası gibi bir İrade yeteneği bilhassa faydalı olabilir."
+    },
+    {
+      "id": "1844dfcd",
+      "bank_id": "30b3b600",
+      "text": "İlk yeteneklerini şimdi seç. Şok Dalgası gibi bir İrade yeteneği bilhassa faydalı olabilir."
+    },
+    {
+      "id": "1844dfce",
+      "bank_id": "30b3b600",
+      "text": "İlk yeteneklerini şimdi seç. Defetme gibi bir İrade yeteneği bilhassa faydalı olabilir."
+    },
+    {
+      "id": "18876a9d",
+      "bank_id": "30b3b600",
+      "text": "Ah, işte buradasın. Sadık dostun da yanında."
+    },
+    {
+      "id": "1efcda0c",
+      "bank_id": "30b3b600",
+      "text": "Uçuşan Çark'a vurup geçide güç vermek için İrade becerini kullan."
+    },
+    {
+      "id": "21fcdec5",
+      "bank_id": "30b3b600",
+      "text": "Etkinleştirildiğinde Bower Gölü'ne geri dönmeni sağlayacak."
+    },
+    {
+      "id": "28d082b8",
+      "bank_id": "30b3b600",
+      "text": "Işığa adım at: Kahramanların gerçek gücünü öğren."
+    },
+    {
+      "id": "2b4febf0",
+      "bank_id": "30b3b600",
+      "text": "Şok Dalgası, düşmanlarına doğru bir enerji patlaması göndererek onları yakındaki nesnelere fırlatır. Dar alanlarda çok etkilidir."
+    },
+    {
+      "id": "2b4febf1",
+      "bank_id": "30b3b600",
+      "text": "Patlama Dalgası, düşmanlarına doğru bir enerji dalgası göndererek onları yakındaki nesnelere fırlatır. Dar alanlarda çok etkilidir."
+    },
+    {
+      "id": "2b4febf3",
+      "bank_id": "30b3b600",
+      "text": "Defetme, düşmanlarına doğru bir enerji patlaması göndererek onları yakındaki nesnelere fırlatır. Dar alanlarda çok etkilidir."
+    },
+    {
+      "id": "2bd08771",
+      "bank_id": "30b3b600",
+      "text": "Lonca sana tepki verdi..."
+    },
+    {
+      "id": "3cd22488",
+      "bank_id": "30b3b600",
+      "text": "Karanlık alanlarda görmek için fenerini kullan."
+    },
+    {
+      "id": "3e8557b4",
+      "bank_id": "30b3b600",
+      "text": "Mezar, Bower Gölü'nün ortasındaki adadadır."
+    },
+    {
+      "id": "404907dc",
+      "bank_id": "30b3b600",
+      "text": "Sen de aynısını yapmalısın."
+    },
+    {
+      "id": "40855a9a",
+      "bank_id": "30b3b600",
+      "text": "Bunu bensiz de yapabilirsin. Git."
+    },
+    {
+      "id": "4149094f",
+      "bank_id": "30b3b600",
+      "text": "İnanılmaz zorluklarla karşılaştı ama seninkiler daha da çetin olacak. Ve onun gibi sen de galip gelmelisin."
+    },
+    {
+      "id": "41855c0d",
+      "bank_id": "30b3b600",
+      "text": "Kaderini gerçekleştirmek istiyorsan mezara girmelisin."
+    },
+    {
+      "id": "41fb6b3c",
+      "bank_id": "30b3b600",
+      "text": "Kılıçlar, seni korumak veya düşmanlarını uzaktan şişlemek için büyülü kılıçlar yaratır."
+    },
+    {
+      "id": "429ceed1",
+      "bank_id": "30b3b600",
+      "text": "Hızın ne kadar yüksekse, düşmanlarına saldırılarını o kadar çabuk savurabilirsin."
+    },
+    {
+      "id": "44fb6ff5",
+      "bank_id": "30b3b600",
+      "text": "Kılıçlar, düşmanlarınızı şişlemek için büyülü kılıçlar yaratır."
+    },
+    {
+      "id": "4cf0550d",
+      "bank_id": "30b3b600",
+      "text": "Kendine sor bakalım, seni ne daha güçlü kılar: kendini savunamayanları öldürmek mi, yoksa yaşamalarına izin vermek mi?"
+    },
+    {
+      "id": "50a0480b",
+      "bank_id": "30b3b600",
+      "text": "İrade yeteneğini geliştirmek, büyüyü kullanabileceğin yolların sayısını artırır."
+    },
+    {
+      "id": "52fdda40",
+      "bank_id": "30b3b600",
+      "text": "Bunu al."
+    },
+    {
+      "id": "52fdda42",
+      "bank_id": "30b3b600",
+      "text": "Güçlü bir eserdir bu; bir zamanlar tüm Kahramanların taşıdığı türden. Başkalarının giremediği yerlere girmene izin verecektir."
+    },
+    {
+      "id": "52fdda44",
+      "bank_id": "30b3b600",
+      "text": "Gerektiğinde seninle konuşmamı da sağlayacak."
+    },
+    {
+      "id": "53fddc33",
+      "bank_id": "30b3b600",
+      "text": "Potansiyelinin farkına varma vaktin geldi."
+    },
+    {
+      "id": "54fddda6",
+      "bank_id": "30b3b600",
+      "text": "Fakat elindeki bu silahlarla Thag senin için fazlasıyla dişli bir rakip."
+    },
+    {
+      "id": "56fde08c",
+      "bank_id": "30b3b600",
+      "text": "Şimdi git."
+    },
+    {
+      "id": "57260053",
+      "bank_id": "30b3b600",
+      "text": "Buradan ayrılmak için bir İrade yeteneği öğrenmelisin."
+    },
+    {
+      "id": "57fde27f",
+      "bank_id": "30b3b600",
+      "text": "Yeniden dışarı çıktığında daha güçlü olacaksın-- çok daha güçlü."
+    },
+    {
+      "id": "582601c6",
+      "bank_id": "30b3b600",
+      "text": "O Cullis Geçidi'ni etkinleştirebilmek için bir İrade yeteneği almalısın."
+    },
+    {
+      "id": "589478b0",
+      "bank_id": "30b3b600",
+      "text": "Henüz İrade kullanamadın. Fakat bu mekâna ulaşma eylemi bile sana İrade deneyimi kazandırdı."
+    },
+    {
+      "id": "58e863de",
+      "bank_id": "30b3b600",
+      "text": "Bünyen ne kadar güçlüyse, yakın dövüş silahlarıyla o kadar fazla hasar verirsin."
+    },
+    {
+      "id": "58fde3d2",
+      "bank_id": "30b3b600",
+      "text": "Mühür o mezara girmene izin verecektir."
+    },
+    {
+      "id": "592603b9",
+      "bank_id": "30b3b600",
+      "text": "Geçit yalnızca İrade eğitimi almış biri için etkinleşir."
+    },
+    {
+      "id": "59947a23",
+      "bank_id": "30b3b600",
+      "text": "Bir yeteneği artırdıkça etkileri de gelişir."
+    },
+    {
+      "id": "59fde545",
+      "bank_id": "30b3b600",
+      "text": "Şimdi göle doğru aşağı bak."
+    },
+    {
+      "id": "5a947b96",
+      "bank_id": "30b3b600",
+      "text": "Ve o aynı Kahraman kanı senin de damarlarında akıyor."
+    },
+    {
+      "id": "5b947d09",
+      "bank_id": "30b3b600",
+      "text": "İlk yeteneklerini şimdi seç. Kuvvet İtişi gibi bir İrade yeteneği bilhassa faydalı olabilir."
+    },
+    {
+      "id": "5c947efc",
+      "bank_id": "30b3b600",
+      "text": "Bir Kahraman'ın gücünün üç temeli Güç, Beceri ve İrade'dir. Her biri farklı bir dövüş disiplinini temsil eder."
+    },
+    {
+      "id": "5e90e989",
+      "bank_id": "30b3b600",
+      "text": "Coşkunun faydası olacaktır elbet. Ama dikkat et, seni yiyip bitirmesin."
+    },
+    {
+      "id": "5e9481c2",
+      "bank_id": "30b3b600",
+      "text": "Dövüşte kullandığın disiplinlere karşılık gelen deneyim de kazanırsın. Düşmanlarına vur, Gücünü geliştir. Onları vur, Becerini artır."
+    },
+    {
+      "id": "5f9483b5",
+      "bank_id": "30b3b600",
+      "text": "Yendiğiniz her düşman size genel deneyim verir; bu deneyim herhangi bir disiplindeki herhangi bir yeteneği geliştirmek için kullanılabilir."
+    },
+    {
+      "id": "639abad9",
+      "bank_id": "30b3b600",
+      "text": "Daha sonra onu Bower Gölü'ne geri dönmek için kullanabilirsin, orada Thag ile yüzleşeceksin."
+    },
+    {
+      "id": "64c11448",
+      "bank_id": "30b3b600",
+      "text": "Ve şimdi senin yüzünden hiçbir şeyleri kalmadı."
+    },
+    {
+      "id": "65c1163b",
+      "bank_id": "30b3b600",
+      "text": "Söyle bana bakalım, öldürmek senin kanına nasıl uydu?"
+    },
+    {
+      "id": "69c11c67",
+      "bank_id": "30b3b600",
+      "text": "Hayatını bir düşün. Gittiğin tüm yerleri, tanıdığın insanları, yaptığın her şeyi."
+    },
+    {
+      "id": "6ac11dda",
+      "bank_id": "30b3b600",
+      "text": "Kaç an, kaç hatıra?"
+    },
+    {
+      "id": "6b3fbecc",
+      "bank_id": "30b3b600",
+      "text": "Fakat Albion'u değiştirmeyi planlayan tek kişi o Kahraman değildi. Halkı, Eski Krallık'ın yıkılışından bu yana en tehlikeli çağda yaşıyordu. Ve kapıda daha büyük bir yıkım vardı."
+    },
+    {
+      "id": "6bc11f4d",
+      "bank_id": "30b3b600",
+      "text": "Thag ve adamları-- onların da en az o kadarı vardı."
+    },
+    {
+      "id": "6f7f6200",
+      "bank_id": "30b3b600",
+      "text": "Cullis Geçidi'ni etkinleştirmek için İrade kullanman gerekecek."
+    },
+    {
+      "id": "707f63f3",
+      "bank_id": "30b3b600",
+      "text": "Geçidi açmak için İradeni serbest bırak."
+    },
+    {
+      "id": "727f66d9",
+      "bank_id": "30b3b600",
+      "text": "İradeni kanıtla. Uçuşan Çark'ı yok et."
+    },
+    {
+      "id": "728de9f7",
+      "bank_id": "30b3b600",
+      "text": "Işığa adım at: Kahramanların gerçek gücünü öğren."
+    },
+    {
+      "id": "738deb6a",
+      "bank_id": "30b3b600",
+      "text": "Lonca sana tepki verdi..."
+    },
+    {
+      "id": "7c9a14c1",
+      "bank_id": "30b3b600",
+      "text": "Cullis Geçidi'ni etkinleştirmek için bir İrade yeteneği öğrenmelisin."
+    },
+    {
+      "id": "849ae358",
+      "bank_id": "30b3b600",
+      "text": "Sağlığın ne kadar yüksekse, o kadar fazla hasar alabilirsin."
+    },
+    {
+      "id": "89429f28",
+      "bank_id": "30b3b600",
+      "text": "Karavanına git. Malzemelerini yakındaki sandıkta bıraktım."
+    },
+    {
+      "id": "8a42a09b",
+      "bank_id": "30b3b600",
+      "text": "Kendi evini göstermesi için kör bir kadına mı ihtiyacın var? Pek cesaret verici değil bu."
+    },
+    {
+      "id": "8c42a3e1",
+      "bank_id": "30b3b600",
+      "text": "Yolculuğun için ihtiyacın olan her şeyi sandıkta bulacaksın."
+    },
+    {
+      "id": "8eb6742a",
+      "bank_id": "30b3b600",
+      "text": "Daha dayanıklı bir Kahraman, savaşta yere düşmeden önce daha fazla hasara göğüs gerebilir."
+    },
+    {
+      "id": "8fcce15e",
+      "bank_id": "30b3b600",
+      "text": "Kuvvet İtişi, düşmanlarına doğru bir enerji patlaması göndererek onları yakındaki nesnelere fırlatır. Dar alanlarda çok etkilidir."
+    },
+    {
+      "id": "927ea7df",
+      "bank_id": "30b3b600",
+      "text": "Bunun gibi kenarlardan atlayarak uzun bir yürüyüşten tasarruf edebilirsin."
+    },
+    {
+      "id": "9f2e9299",
+      "bank_id": "30b3b600",
+      "text": "Manan arttıkça daha fazla büyü yapabilirsin."
+    },
+    {
+      "id": "a59423a9",
+      "bank_id": "30b3b600",
+      "text": "Daha sonra onu Bower Gölü'ne geri dönmek için kullanabilirsin. Oradan Bowerstone'a yürüyebilirsin-- orada görmen gereken bir şey var."
+    },
+    {
+      "id": "a707737e",
+      "bank_id": "30b3b600",
+      "text": "Beceri, daha hızlı ve yüksek isabetle ateş etmeni sağlar."
+    },
+    {
+      "id": "a80774d1",
+      "bank_id": "30b3b600",
+      "text": "İrade, büyü güçleri üzerinde kontrol sahibi olmanı sağlar."
+    },
+    {
+      "id": "a9077644",
+      "bank_id": "30b3b600",
+      "text": "Artık topladığınız deneyimi güce, beceriye veya iradeye aktarabilirsiniz."
+    },
+    {
+      "id": "aa077837",
+      "bank_id": "30b3b600",
+      "text": "Güç, yakın dövüş silahlarıyla yapılan çarpışmayı geliştirir."
+    },
+    {
+      "id": "ac077b1d",
+      "bank_id": "30b3b600",
+      "text": "Kanın uyanıyor..."
+    },
+    {
+      "id": "b0a593d8",
+      "bank_id": "30b3b600",
+      "text": "Tebrikler, Kahraman. Unutma, canın ne zaman isterse keşif yapmakta özgürsün."
+    },
+    {
+      "id": "b12bf40b",
+      "bank_id": "30b3b600",
+      "text": "Pekâlâ, düşüncelerin sende kalsın. Ama bil ki bugünkü eylemlerin birçok hayat kurtardı."
+    },
+    {
+      "id": "b150634c",
+      "bank_id": "30b3b600",
+      "text": "Zamanı Yavaşlat, çevrendeki zamanın akışını yavaşlatmanı sağlar."
+    },
+    {
+      "id": "b3a59891",
+      "bank_id": "30b3b600",
+      "text": "Unutma, canın ne zaman isterse keşif yapmakta özgürsün."
+    },
+    {
+      "id": "b4506805",
+      "bank_id": "30b3b600",
+      "text": "Zaman Kontrolü, çevrendeki dünyayı yavaşlatmana veya akıl almaz bir hızla hareket etmene imkân tanır."
+    },
+    {
+      "id": "b738d0f8",
+      "bank_id": "30b3b600",
+      "text": "Şok, düşmanlarını sersemletir ve yıldırımlarla çarpar."
+    },
+    {
+      "id": "b8f9efd4",
+      "bank_id": "30b3b600",
+      "text": "Potansiyelinin kilidini açmaya hazırsın."
+    },
+    {
+      "id": "bbb1c85f",
+      "bank_id": "30b3b600",
+      "text": "Korkma, seninle Lonca mührü aracılığıyla konuşuyorum."
+    },
+    {
+      "id": "bcb1ca32",
+      "bank_id": "30b3b600",
+      "text": "Şu yeşil küreler öldürdüğün yaratıkların bilgisini ve deneyimini taşır."
+    },
+    {
+      "id": "bdb1cba5",
+      "bank_id": "30b3b600",
+      "text": "Onları kendine çek, böylece daha da güçleneceksin."
+    },
+    {
+      "id": "c72c4bd8",
+      "bank_id": "30b3b600",
+      "text": "Yaptığın yanlış değildi. Ve bunu yapmak zorunda kalacağın son sefer de kesinlikle bu değil."
+    },
+    {
+      "id": "d106130d",
+      "bank_id": "30b3b600",
+      "text": "Bu kırık kapıların ardında Kahramanlar Loncası uzanıyor."
+    },
+    {
+      "id": "d1cf3fc6",
+      "bank_id": "30b3b600",
+      "text": "Girdap, düşmanlarını yakındaki enkazla ve hatta diğer düşmanlarla hırpalayacak güçlü bir rüzgâr fırtınası yaratır!"
+    },
+    {
+      "id": "d745ed4f",
+      "bank_id": "30b3b600",
+      "text": "Tebrikler. Artık yolculuğuna başlamaya hazırsın. Cullis Geçidi'ni kullan."
+    },
+    {
+      "id": "d9586f16",
+      "bank_id": "30b3b600",
+      "text": "Beceri, silah kullanımında seni daha hızlı ve daha hassas yapacaktır."
+    },
+    {
+      "id": "d9afd567",
+      "bank_id": "30b3b600",
+      "text": "Güç, dövüşte darbelerinin kudretini artırır."
+    },
+    {
+      "id": "da10c164",
+      "bank_id": "30b3b600",
+      "text": "Tebrikler, Kahraman. Unutma, canın ne zaman isterse keşif yapmakta özgürsün. Görevin daima seni bekliyor olacak."
+    },
+    {
+      "id": "dbf48378",
+      "bank_id": "30b3b600",
+      "text": "Hangi yetenekleri seçersen seç, yolculuğunda sana büyük kıymeti dokunacaktır."
+    },
+    {
+      "id": "ddf4865e",
+      "bank_id": "30b3b600",
+      "text": "Önünde inanılmaz bir güç uzanıyor. Onu kavramalısın."
+    },
+    {
+      "id": "def48831",
+      "bank_id": "30b3b600",
+      "text": "Başarmak için yeteneklerini geliştirmelisin."
+    },
+    {
+      "id": "e0ffb4a2",
+      "bank_id": "30b3b600",
+      "text": "Saldırmadan önce onu durdurmalısın."
+    },
+    {
+      "id": "e1ffb615",
+      "bank_id": "30b3b600",
+      "text": "Altın için iki adam gönderdi, hiçbiri dönmeyince de kan için kendisi gelecek."
+    },
+    {
+      "id": "f24e3d53",
+      "bank_id": "30b3b600",
+      "text": "Karanlık alanlarda görmek için fenerini kullan."
+    },
+    {
+      "id": "fa226f0c",
+      "bank_id": "30b3b600",
+      "text": "Güçlendi, dünyayı uygun gördüğü gibi yeniden şekillendirecek kadar güçlendi."
+    },
+    {
+      "id": "fb2270ff",
+      "bank_id": "30b3b600",
+      "text": "Fakat dünya onu ezmeye çalıştığında, karşılık verdi."
+    },
+    {
+      "id": "fe2275b8",
+      "bank_id": "30b3b600",
+      "text": "Şu duvarlara bir bak."
+    },
+    {
+      "id": "ff22772b",
+      "bank_id": "30b3b600",
+      "text": "Ve o aynı Kahraman kanı senin de damarlarında akıyor."
+    }
+  ]
+}

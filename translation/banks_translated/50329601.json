@@ -1,0 +1,896 @@
+{
+  "bank_id": "50329601",
+  "total_strings": 178,
+  "strings": [
+    {
+      "id": "04db1110",
+      "bank_id": "50329601",
+      "text": "Dikkat et, içinde kemik olabilir."
+    },
+    {
+      "id": "04db1111",
+      "bank_id": "50329601",
+      "text": "Bahse girerim yollarda böyle yemekler bulamıyorsundur."
+    },
+    {
+      "id": "04db1113",
+      "bank_id": "50329601",
+      "text": "İyice çiğnemeyi unutma."
+    },
+    {
+      "id": "04db1114",
+      "bank_id": "50329601",
+      "text": "Şu nadir demlenmiş dodo sakatatlarına ne diyorsun?"
+    },
+    {
+      "id": "04db1115",
+      "bank_id": "50329601",
+      "text": "Bu yemeğin tuzu peri gözyaşlarından geliyor. Nefis, sen de katılıyorsundur eminim."
+    },
+    {
+      "id": "04db1116",
+      "bank_id": "50329601",
+      "text": "Kahraman yemeği dediğin böyle olur, değil mi?"
+    },
+    {
+      "id": "04db1117",
+      "bank_id": "50329601",
+      "text": "Kemikleri çatır çatır çiğneyebilirsin, bak gördün mü?"
+    },
+    {
+      "id": "06186a5a",
+      "bank_id": "50329601",
+      "text": "Aşağı sokakta ne olduğunu duydun mu? Bir tavuk bir çocuğu yemiş. Öyle diyorlar."
+    },
+    {
+      "id": "06186a5b",
+      "bank_id": "50329601",
+      "text": "Aşağı sokakta ne olduğunu duydun mu? Bir tavuk bir çocuğu yemiş. Öyle diyorlar."
+    },
+    {
+      "id": "06186a5c",
+      "bank_id": "50329601",
+      "text": "Aşağı sokakta ne olduğunu duydun mu? Bir tavuk bir çocuğu yemiş. Öyle diyorlar."
+    },
+    {
+      "id": "06186a5d",
+      "bank_id": "50329601",
+      "text": "Aşağı sokakta ne olduğunu duydun mu? Bir tavuk bir çocuğu yemiş. Öyle diyorlar."
+    },
+    {
+      "id": "06186a5e",
+      "bank_id": "50329601",
+      "text": "Aşağı sokakta ne olduğunu duydun mu? Bir tavuk bir çocuğu yemiş. Öyle diyorlar."
+    },
+    {
+      "id": "07f548e8",
+      "bank_id": "50329601",
+      "text": "Bu yemek insanın damağını şenlendirmiyor mu?"
+    },
+    {
+      "id": "07f548e9",
+      "bank_id": "50329601",
+      "text": "Umarım elmas trüf mantarını seviyorsundur."
+    },
+    {
+      "id": "07f548ea",
+      "bank_id": "50329601",
+      "text": "Bize bir baksana! Beraber yemek yiyoruz falan!"
+    },
+    {
+      "id": "07f548eb",
+      "bank_id": "50329601",
+      "text": "Parmaklarınla yiyince tadı daha güzel oluyor."
+    },
+    {
+      "id": "07f548ec",
+      "bank_id": "50329601",
+      "text": "Güzelce karnını doyursan iyi edersin."
+    },
+    {
+      "id": "07f548ed",
+      "bank_id": "50329601",
+      "text": "Dün gece çok garip bir rüya gördüm."
+    },
+    {
+      "id": "07f548ee",
+      "bank_id": "50329601",
+      "text": "Ailece sofraya oturmak ne güzel."
+    },
+    {
+      "id": "08e7b1b1",
+      "bank_id": "50329601",
+      "text": "Deney yapmayı bıraktığını söylemiştin!"
+    },
+    {
+      "id": "08e7b1ba",
+      "bank_id": "50329601",
+      "text": "Ne cüretle?! O benim kocam seni ahlaksız!"
+    },
+    {
+      "id": "0a5b4919",
+      "bank_id": "50329601",
+      "text": "Hey, kocamdan uzak dur!"
+    },
+    {
+      "id": "0a5b491a",
+      "bank_id": "50329601",
+      "text": "O benim erkeğim! Uzak dur ondan!"
+    },
+    {
+      "id": "0a5b491b",
+      "bank_id": "50329601",
+      "text": "Kocama ne yapıyorsun sen öyle!"
+    },
+    {
+      "id": "0a5b491c",
+      "bank_id": "50329601",
+      "text": "Hey, git kendine başka erkek bul!"
+    },
+    {
+      "id": "0a5b491d",
+      "bank_id": "50329601",
+      "text": "Benim adamımla ne işin var senin?!"
+    },
+    {
+      "id": "0bdb1c10",
+      "bank_id": "50329601",
+      "text": "Bu yemeğin tuzu peri gözyaşlarından geliyor. Nefis, sen de katılıyorsundur eminim."
+    },
+    {
+      "id": "0bdb1c11",
+      "bank_id": "50329601",
+      "text": "Şu nadir demlenmiş dodo sakatatlarına ne diyorsun?"
+    },
+    {
+      "id": "0bdb1c12",
+      "bank_id": "50329601",
+      "text": "Bu yemeği dün gece meyhanede kazandım."
+    },
+    {
+      "id": "0bdb1c13",
+      "bank_id": "50329601",
+      "text": "Güzel, değil mi? Kendim avladım!"
+    },
+    {
+      "id": "0bdb1c14",
+      "bank_id": "50329601",
+      "text": "Bahse girerim yollarda böyle yemekler bulamıyorsundur."
+    },
+    {
+      "id": "0bdb1c15",
+      "bank_id": "50329601",
+      "text": "*öksürür* Pöh, amma da devasa bir göz küresiydi."
+    },
+    {
+      "id": "0bdb1c16",
+      "bank_id": "50329601",
+      "text": "Tavuk gagaları midemi bulandırıyor."
+    },
+    {
+      "id": "0d5c605a",
+      "bank_id": "50329601",
+      "text": "Nefes almak zorunda olmamanın tek iyi yanı, en azından ayak takımının kokusunu çekmek zorunda kalmıyorum."
+    },
+    {
+      "id": "0f1878a8",
+      "bank_id": "50329601",
+      "text": "Aşağı sokakta ne olduğunu duydun mu? Bir tavuk bir çocuğu yemiş. Öyle diyorlar."
+    },
+    {
+      "id": "0f1878a9",
+      "bank_id": "50329601",
+      "text": "Aşağı sokakta ne olduğunu duydun mu? Bir tavuk bir çocuğu yemiş. Öyle diyorlar."
+    },
+    {
+      "id": "0f1878ab",
+      "bank_id": "50329601",
+      "text": "Aşağı sokakta ne olduğunu duydun mu? Bir tavuk bir çocuğu yemiş. Öyle diyorlar."
+    },
+    {
+      "id": "0f1878ae",
+      "bank_id": "50329601",
+      "text": "Aşağı sokakta ne olduğunu duydun mu? Bir tavuk bir çocuğu yemiş. Öyle diyorlar."
+    },
+    {
+      "id": "0f1878af",
+      "bank_id": "50329601",
+      "text": "Gördün mü, hobbe eti tıpkı tavuk gibi demiştim sana."
+    },
+    {
+      "id": "0f4c8968",
+      "bank_id": "50329601",
+      "text": "Ahh, olmak istediğim yer tam da burası."
+    },
+    {
+      "id": "0f4c8969",
+      "bank_id": "50329601",
+      "text": "Vardık."
+    },
+    {
+      "id": "0f4c896a",
+      "bank_id": "50329601",
+      "text": "İşte geldik."
+    },
+    {
+      "id": "0f4c896b",
+      "bank_id": "50329601",
+      "text": "Nihayet."
+    },
+    {
+      "id": "0f4c896c",
+      "bank_id": "50329601",
+      "text": "İşte burası."
+    },
+    {
+      "id": "0f4c896d",
+      "bank_id": "50329601",
+      "text": "Geldik."
+    },
+    {
+      "id": "0f4c896e",
+      "bank_id": "50329601",
+      "text": "Başardık."
+    },
+    {
+      "id": "0f5767ea",
+      "bank_id": "50329601",
+      "text": "Kocanız sizden boşandı ve bölgeyi terk etti."
+    },
+    {
+      "id": "0f6ef083",
+      "bank_id": "50329601",
+      "text": "Hey, o benim kocam! Uzak dur ondan seni sürtük!"
+    },
+    {
+      "id": "0f6ef088",
+      "bank_id": "50329601",
+      "text": "Kocama ne yapmaya çalışıyorsun sen?!"
+    },
+    {
+      "id": "10f55738",
+      "bank_id": "50329601",
+      "text": "Şöyle oturup sessizce bir yemek yiyelim, olur mu?"
+    },
+    {
+      "id": "10f55739",
+      "bank_id": "50329601",
+      "text": "Annemin yaptığı yemekleri hatırlatıyor bana."
+    },
+    {
+      "id": "10f5573b",
+      "bank_id": "50329601",
+      "text": "Bizim manavın sebzeleri çok taze, sence de öyle değil mi?"
+    },
+    {
+      "id": "10f5573c",
+      "bank_id": "50329601",
+      "text": "Bu pelteleşmiş yakutlar pek lezzetliymiş."
+    },
+    {
+      "id": "10f5573d",
+      "bank_id": "50329601",
+      "text": "Gerçek bir gurme dükkânı bulana kadar bununla idare edeceğiz artık."
+    },
+    {
+      "id": "10f5573e",
+      "bank_id": "50329601",
+      "text": "Eskiden yediğim domuz yeminden çok daha lezzetli."
+    },
+    {
+      "id": "10f5573f",
+      "bank_id": "50329601",
+      "text": "Bir değişiklik yapıp seninle yemek yemek çok güzel."
+    },
+    {
+      "id": "114d4075",
+      "bank_id": "50329601",
+      "text": "Kocamı baştan çıkarmaya mı çalışıyorsun sen?!"
+    },
+    {
+      "id": "114d407e",
+      "bank_id": "50329601",
+      "text": "O hediyelerini en çok canını yakacak yerine soksana sen!"
+    },
+    {
+      "id": "184c97b8",
+      "bank_id": "50329601",
+      "text": "Güzel. Tam da olmak istediğim yer."
+    },
+    {
+      "id": "184c97b9",
+      "bank_id": "50329601",
+      "text": "Geldik."
+    },
+    {
+      "id": "184c97bb",
+      "bank_id": "50329601",
+      "text": "Şahane. Buradayız işte."
+    },
+    {
+      "id": "184c97bc",
+      "bank_id": "50329601",
+      "text": "Ahh, işte geldik."
+    },
+    {
+      "id": "184c97bd",
+      "bank_id": "50329601",
+      "text": "Tam da olmak istediğim yer."
+    },
+    {
+      "id": "184c97be",
+      "bank_id": "50329601",
+      "text": "Başardık."
+    },
+    {
+      "id": "184c97bf",
+      "bank_id": "50329601",
+      "text": "Geldik işte."
+    },
+    {
+      "id": "1dc6c388",
+      "bank_id": "50329601",
+      "text": "Merak etme, bu tamamen vejetaryen!"
+    },
+    {
+      "id": "1dc6c38a",
+      "bank_id": "50329601",
+      "text": "Nasıl buldun? Kahramanlara layık, değil mi?"
+    },
+    {
+      "id": "1dc6c38b",
+      "bank_id": "50329601",
+      "text": "Geçen sefer alev topu balığı yediğimizde bütün gece gözümü kırpmamıştım."
+    },
+    {
+      "id": "1dc6c38c",
+      "bank_id": "50329601",
+      "text": "Pöh, bundan sonra fena gaz yapacağım kesin!"
+    },
+    {
+      "id": "1dc6c38d",
+      "bank_id": "50329601",
+      "text": "Yemek yerken resmen uyuşup kalıyorum."
+    },
+    {
+      "id": "1dc6c38e",
+      "bank_id": "50329601",
+      "text": "Gerçek bir gurme dükkânı bulana kadar bununla idare edeceğiz artık."
+    },
+    {
+      "id": "1dc6c38f",
+      "bank_id": "50329601",
+      "text": "Bu pelteleşmiş yakutlar pek lezzetliymiş."
+    },
+    {
+      "id": "22c6cba9",
+      "bank_id": "50329601",
+      "text": "Merak etme, bu tamamen vejetaryen!"
+    },
+    {
+      "id": "22c6cbaa",
+      "bank_id": "50329601",
+      "text": "Geçen sefer alev topu balığı yediğimizde bütün gece gözümü kırpmamıştım."
+    },
+    {
+      "id": "22c6cbab",
+      "bank_id": "50329601",
+      "text": "Bu sefer sebzeleri yıkamayı akıl ettim."
+    },
+    {
+      "id": "22c6cbac",
+      "bank_id": "50329601",
+      "text": "Biraz rom veya bira ile tadı daha iyi olurdu, anlarsın ya."
+    },
+    {
+      "id": "22c6cbad",
+      "bank_id": "50329601",
+      "text": "E, bir sonraki sefere nereye gidiyorsun?"
+    },
+    {
+      "id": "22c6cbae",
+      "bank_id": "50329601",
+      "text": "Bunun gerçek sotelenmiş kraken olduğuna bir an bile inanmam."
+    },
+    {
+      "id": "22c6cbaf",
+      "bank_id": "50329601",
+      "text": "Kuzum, yemek yemek ne kadar bayağı ve yorucu bir eylem, öyle değil mi tatlım?"
+    },
+    {
+      "id": "24afee92",
+      "bank_id": "50329601",
+      "text": "Ne dolaplar çeviriyorsunuz siz oğlanlar? Umarım tuhaf işler peşinde değilsinizdir."
+    },
+    {
+      "id": "24afee99",
+      "bank_id": "50329601",
+      "text": "Benim adamıma hediye vermeye kalkma sakın!"
+    },
+    {
+      "id": "374cb70d",
+      "bank_id": "50329601",
+      "text": "Sürekli bir mağara görüyorum rüyamda, ama gözümdeki çamurdan hiçbir şey göremiyorum."
+    },
+    {
+      "id": "3bd517d5",
+      "bank_id": "50329601",
+      "text": "Kocama neden hediye verirsin ki aklım almıyor?!"
+    },
+    {
+      "id": "3bd517de",
+      "bank_id": "50329601",
+      "text": "Benim kocam hafifmeşrep kadınlardan hediye kabul etmez!"
+    },
+    {
+      "id": "4b8b9a88",
+      "bank_id": "50329601",
+      "text": "Hadi. Yol bu taraftan."
+    },
+    {
+      "id": "4b8b9a8a",
+      "bank_id": "50329601",
+      "text": "Bu taraftan şimdi. Hadi."
+    },
+    {
+      "id": "4b8b9a8b",
+      "bank_id": "50329601",
+      "text": "Yanlış yoldan gidiyorsun."
+    },
+    {
+      "id": "4b8b9a8c",
+      "bank_id": "50329601",
+      "text": "Hadi ama!"
+    },
+    {
+      "id": "4b8b9a8d",
+      "bank_id": "50329601",
+      "text": "Buradan! Bu taraftan."
+    },
+    {
+      "id": "4b8b9a8e",
+      "bank_id": "50329601",
+      "text": "Yanlış yoldan gitmeye hiç niyetim yok."
+    },
+    {
+      "id": "4b8b9a8f",
+      "bank_id": "50329601",
+      "text": "Baksana buraya. Doğru yol bu değil."
+    },
+    {
+      "id": "508ba2a9",
+      "bank_id": "50329601",
+      "text": "Hadi. Bu taraftan."
+    },
+    {
+      "id": "508ba2aa",
+      "bank_id": "50329601",
+      "text": "Geride kalma."
+    },
+    {
+      "id": "508ba2ab",
+      "bank_id": "50329601",
+      "text": "Gel. Bu taraftan."
+    },
+    {
+      "id": "508ba2ac",
+      "bank_id": "50329601",
+      "text": "Buradan. Hadi gidelim."
+    },
+    {
+      "id": "508ba2ad",
+      "bank_id": "50329601",
+      "text": "Oyalanma."
+    },
+    {
+      "id": "508ba2ae",
+      "bank_id": "50329601",
+      "text": "Son Derece Ayrıntılı Yol Tarifi Kitabı doğru yolun burası olduğunu yazıyor."
+    },
+    {
+      "id": "508ba2af",
+      "bank_id": "50329601",
+      "text": "Yolun bu olduğuna kesinlikle eminim."
+    },
+    {
+      "id": "58d294b2",
+      "bank_id": "50329601",
+      "text": "Yemeğimin tadı bir tuhaf."
+    },
+    {
+      "id": "5a606244",
+      "bank_id": "50329601",
+      "text": "Ne? Benim kocam yabancı adamlardan hediye kabul etmez..."
+    },
+    {
+      "id": "5a60624f",
+      "bank_id": "50329601",
+      "text": "Az önce kocama verdiğin şey bir hediye miydi? Ne dolaplar çeviriyorsun sen?"
+    },
+    {
+      "id": "5f9b7f92",
+      "bank_id": "50329601",
+      "text": "Artık tatlımı alabilir miyim? Lütfeeeen?"
+    },
+    {
+      "id": "60e60d94",
+      "bank_id": "50329601",
+      "text": "Orada benim adamıma ne veriyorsun sen öyle?!"
+    },
+    {
+      "id": "60e60d9f",
+      "bank_id": "50329601",
+      "text": "Siz erkekler ne yapıyorsunuz öyle? Kocamdan uzak durun!"
+    },
+    {
+      "id": "61d2a29f",
+      "bank_id": "50329601",
+      "text": "Bu tofu mu? Öğğk."
+    },
+    {
+      "id": "689b8dff",
+      "bank_id": "50329601",
+      "text": "Neden her gün aynı şeyleri yiyoruz ki?"
+    },
+    {
+      "id": "6afc9486",
+      "bank_id": "50329601",
+      "text": "Ama, ama o bir erkek! Ve evli! Uzak dur ondan!"
+    },
+    {
+      "id": "6afc948d",
+      "bank_id": "50329601",
+      "text": "Benim adamımdan uzak dur seni pis cadı!"
+    },
+    {
+      "id": "6ef55108",
+      "bank_id": "50329601",
+      "text": "Hey, benim adamıma hediye vererek ne yapmaya çalışıyorsun?"
+    },
+    {
+      "id": "6ef55109",
+      "bank_id": "50329601",
+      "text": "Benim erkeğime hediye vermeye kalkmasan iyi edersin."
+    },
+    {
+      "id": "6ef5510d",
+      "bank_id": "50329601",
+      "text": "Kocama verdiğin şey bir hediye mi? Ne cüretle?"
+    },
+    {
+      "id": "6ef5510e",
+      "bank_id": "50329601",
+      "text": "Burada birisi hediye verecekse o da ben olurum!"
+    },
+    {
+      "id": "6ef5510f",
+      "bank_id": "50329601",
+      "text": "Kocama hediye vermeyi kes!"
+    },
+    {
+      "id": "70d5aa0b",
+      "bank_id": "50329601",
+      "text": "Cadı avcılarına rastlarsan, benim yerime kafalarından vur onları, olur mu?"
+    },
+    {
+      "id": "755af070",
+      "bank_id": "50329601",
+      "text": "Dünya hatırladığımdan çok daha farklı görünüyor."
+    },
+    {
+      "id": "7d929d97",
+      "bank_id": "50329601",
+      "text": "Bacaklarım yine biraz gevşemiş gibi. Yeniden dikmem gerekebilir."
+    },
+    {
+      "id": "7dc172f1",
+      "bank_id": "50329601",
+      "text": "Onu rahat bırak, seni kötü büyücü kadın!"
+    },
+    {
+      "id": "7dc172fa",
+      "bank_id": "50329601",
+      "text": "Gözlerime inanamıyorum! Aman Tanrım!"
+    },
+    {
+      "id": "9dd77e61",
+      "bank_id": "50329601",
+      "text": "Yemeği beğendin mi? Tarifini ormandaki deli bir kocakarıdan aldım."
+    },
+    {
+      "id": "9dd77e62",
+      "bank_id": "50329601",
+      "text": "Yemeği beğendin mi? Tarifini ormandaki deli bir kocakarıdan aldım."
+    },
+    {
+      "id": "9dd77e63",
+      "bank_id": "50329601",
+      "text": "Yemeği beğendin mi? Tarifini ormandaki deli bir kocakarıdan aldım."
+    },
+    {
+      "id": "9dd77e64",
+      "bank_id": "50329601",
+      "text": "Yemeği beğendin mi? Tarifini ormandaki deli bir kocakarıdan aldım."
+    },
+    {
+      "id": "9dd77e65",
+      "bank_id": "50329601",
+      "text": "Yemeği beğendin mi? Tarifini ormandaki deli bir kocakarıdan aldım."
+    },
+    {
+      "id": "a8d78f90",
+      "bank_id": "50329601",
+      "text": "Yemeği beğendin mi? Tarifini ormandaki deli bir kocakarıdan aldım."
+    },
+    {
+      "id": "a8d78f92",
+      "bank_id": "50329601",
+      "text": "Yemeği beğendin mi? Tarifini ormandaki deli bir kocakarıdan aldım."
+    },
+    {
+      "id": "a8d78f93",
+      "bank_id": "50329601",
+      "text": "Yemeği beğendin mi? Tarifini ormandaki deli bir kocakarıdan aldım."
+    },
+    {
+      "id": "a8d78f94",
+      "bank_id": "50329601",
+      "text": "Ağzın açıkken yemek yeme."
+    },
+    {
+      "id": "a8d78f95",
+      "bank_id": "50329601",
+      "text": "Yemeği beğendin mi? Tarifini ormandaki deli bir kocakarıdan aldım."
+    },
+    {
+      "id": "b37052a7",
+      "bank_id": "50329601",
+      "text": "Benim erkeğime bulaşmasan iyi edersin seni fingirdek!"
+    },
+    {
+      "id": "b37052ac",
+      "bank_id": "50329601",
+      "text": "Bu ne biçim saçmalık böyle? Adamımdan uzak dur!"
+    },
+    {
+      "id": "bfd49060",
+      "bank_id": "50329601",
+      "text": "Benim adamımla ne işin var seni cadı?!"
+    },
+    {
+      "id": "bfd4906b",
+      "bank_id": "50329601",
+      "text": "Ne dolaplar çeviriyorsun sen? O evli bir adam!"
+    },
+    {
+      "id": "c0eeb728",
+      "bank_id": "50329601",
+      "text": "Yollarda böyle yemekler bulabiliyor musun?"
+    },
+    {
+      "id": "c0eeb729",
+      "bank_id": "50329601",
+      "text": "Bu tarifi bana anneannem vermişti. Bir keşişten çalmış."
+    },
+    {
+      "id": "c0eeb72a",
+      "bank_id": "50329601",
+      "text": "Bunun gerçek sotelenmiş kraken olduğuna bir an bile inanmam."
+    },
+    {
+      "id": "c0eeb72b",
+      "bank_id": "50329601",
+      "text": "Kuzum, yemek yemek ne kadar bayağı ve yorucu bir eylem, öyle değil mi tatlım?"
+    },
+    {
+      "id": "c0eeb72d",
+      "bank_id": "50329601",
+      "text": "Hava böyle kalır mı dersin?"
+    },
+    {
+      "id": "c0eeb72e",
+      "bank_id": "50329601",
+      "text": "Bütün o maceralar insanın iştahını fena açıyor olmalı."
+    },
+    {
+      "id": "c0eeb72f",
+      "bank_id": "50329601",
+      "text": "Yine sensiz yemek yememek öyle güzel ki."
+    },
+    {
+      "id": "ca1e1c18",
+      "bank_id": "50329601",
+      "text": "Onun yerine neden yaban mersinli turta yiyemiyoruz ki?"
+    },
+    {
+      "id": "cbeec858",
+      "bank_id": "50329601",
+      "text": "Bu bende fena gaz yapacak... Ah!"
+    },
+    {
+      "id": "cbeec859",
+      "bank_id": "50329601",
+      "text": "Valla bu yemek beni fena bozacak."
+    },
+    {
+      "id": "cbeec85a",
+      "bank_id": "50329601",
+      "text": "Bu yemek insanın damağını şenlendirmiyor mu?"
+    },
+    {
+      "id": "cbeec85b",
+      "bank_id": "50329601",
+      "text": "Umarım elmas trüf mantarını seviyorsundur."
+    },
+    {
+      "id": "cbeec85c",
+      "bank_id": "50329601",
+      "text": "Hava böyle kalır mı dersin?"
+    },
+    {
+      "id": "cbeec85e",
+      "bank_id": "50329601",
+      "text": "Yine sensiz yemek yememek öyle güzel ki."
+    },
+    {
+      "id": "cbeec85f",
+      "bank_id": "50329601",
+      "text": "Bütün o maceralar insanın iştahını fena açıyor olmalı."
+    },
+    {
+      "id": "cf1e2439",
+      "bank_id": "50329601",
+      "text": "Annee! Yemeğim bana bakıyor."
+    },
+    {
+      "id": "cf388f82",
+      "bank_id": "50329601",
+      "text": "Umarım ona benim için bir hediye satıyorsundur."
+    },
+    {
+      "id": "cf388f89",
+      "bank_id": "50329601",
+      "text": "Benim kocam senin hediyelerini istemez."
+    },
+    {
+      "id": "d2379fe0",
+      "bank_id": "50329601",
+      "text": "Ah, harika. Doğru yol burası."
+    },
+    {
+      "id": "d2379fe1",
+      "bank_id": "50329601",
+      "text": "Yol bu taraftan. Evet, eminim."
+    },
+    {
+      "id": "d2379fe2",
+      "bank_id": "50329601",
+      "text": "Yol kesinlikle bu taraftan."
+    },
+    {
+      "id": "d2379fe3",
+      "bank_id": "50329601",
+      "text": "Evet, bu taraftan."
+    },
+    {
+      "id": "d2379fe4",
+      "bank_id": "50329601",
+      "text": "Eminim. Güzergah burası."
+    },
+    {
+      "id": "d2379fe5",
+      "bank_id": "50329601",
+      "text": "Ah, mükemmel. Bak gördün mü. Asla kaybolmam."
+    },
+    {
+      "id": "d2379fe7",
+      "bank_id": "50329601",
+      "text": "Bu taraftan. Yön duygum çok kuvvetlidir."
+    },
+    {
+      "id": "d6fd0340",
+      "bank_id": "50329601",
+      "text": "Hop! Benim adamıma ne veriyorsun sen orada?!"
+    },
+    {
+      "id": "d6fd034b",
+      "bank_id": "50329601",
+      "text": "Senin süprüntülerini istemiyor o seni fingirdek!"
+    },
+    {
+      "id": "d937aae9",
+      "bank_id": "50329601",
+      "text": "Yol kesinlikle bu taraftan."
+    },
+    {
+      "id": "d937aaea",
+      "bank_id": "50329601",
+      "text": "Bu taraftan. Bu taraftan şimdi."
+    },
+    {
+      "id": "e3d386ac",
+      "bank_id": "50329601",
+      "text": "Vaktiyle Bowerstone belediye başkanıydım biliyor musun. Yoksa değil miydim? Beynimde kurtlar kaynaşıyor sanki..."
+    },
+    {
+      "id": "e909c7e0",
+      "bank_id": "50329601",
+      "text": "Hey sen. Bekle!"
+    },
+    {
+      "id": "e909c7e1",
+      "bank_id": "50329601",
+      "text": "Bekle. O kadar hızlı değil."
+    },
+    {
+      "id": "e909c7e3",
+      "bank_id": "50329601",
+      "text": "Bekle... Seni takip etmeye çalışıyorum."
+    },
+    {
+      "id": "e909c7e4",
+      "bank_id": "50329601",
+      "text": "Baksana, beni kaybedeceksin!"
+    },
+    {
+      "id": "e909c7e5",
+      "bank_id": "50329601",
+      "text": "Şey, yavaş olan insanları beklemek nezakettendir derler."
+    },
+    {
+      "id": "e909c7e6",
+      "bank_id": "50329601",
+      "text": "Hey. Beni burada bırakıp gitme!"
+    },
+    {
+      "id": "e909c7e7",
+      "bank_id": "50329601",
+      "text": "Acelen ne?"
+    },
+    {
+      "id": "f009d2e0",
+      "bank_id": "50329601",
+      "text": "Ah, ben hamım, sense formundasın. Havasını atıp durma."
+    },
+    {
+      "id": "f009d2e1",
+      "bank_id": "50329601",
+      "text": "Pek hızlısın. Biraz dursana."
+    },
+    {
+      "id": "f009d2e2",
+      "bank_id": "50329601",
+      "text": "Hey, beni bekle!"
+    },
+    {
+      "id": "f009d2e3",
+      "bank_id": "50329601",
+      "text": "Hey. Ben senin kadar hızlı değilim."
+    },
+    {
+      "id": "f009d2e4",
+      "bank_id": "50329601",
+      "text": "Bekle lütfen."
+    },
+    {
+      "id": "f009d2e5",
+      "bank_id": "50329601",
+      "text": "Bensiz çekip gitme!"
+    },
+    {
+      "id": "f009d2e6",
+      "bank_id": "50329601",
+      "text": "Beni bekle!"
+    },
+    {
+      "id": "f5850316",
+      "bank_id": "50329601",
+      "text": "Kocamın önünde yapma şunu!"
+    },
+    {
+      "id": "f585031d",
+      "bank_id": "50329601",
+      "text": "Kocamı baştan çıkarıp elimden alamazsın! O beni seviyor!"
+    }
+  ]
+}

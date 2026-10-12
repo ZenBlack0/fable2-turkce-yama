@@ -1,0 +1,696 @@
+{
+  "bank_id": "80f79600",
+  "total_strings": 138,
+  "strings": [
+    {
+      "id": "0182475b",
+      "bank_id": "80f79600",
+      "text": "Garth Bebeği"
+    },
+    {
+      "id": "0589284c",
+      "bank_id": "80f79600",
+      "text": "İntikam arzusu ve kişisel bir adalet mücadelesiyle hareket ediyorsunuz. Kin tutmakla kalmaz, kininizi öfkeli bir yumrukla patlayıp etrafınızdaki herkesin üzerine saçılana dek ezersiniz."
+    },
+    {
+      "id": "05d6b9ae",
+      "bank_id": "80f79600",
+      "text": "Çocuklarına bir midilli alacak serveti olmayanlar için en iyi ikinci seçenek budur."
+    },
+    {
+      "id": "09b3d283",
+      "bank_id": "80f79600",
+      "text": "Savaşçı Çizgisi"
+    },
+    {
+      "id": "0af7b365",
+      "bank_id": "80f79600",
+      "text": "Albion'un en kötü şöhretli seri katilisiniz. Hayata karşı umursamazlığınız kan dondurucudur. Çok sayıda masum köylüyü katlettiğinizde bu unvan ücretsiz olur."
+    },
+    {
+      "id": "0ca0a8ff",
+      "bank_id": "80f79600",
+      "text": "Lucien Bebeği"
+    },
+    {
+      "id": "0f889233",
+      "bank_id": "80f79600",
+      "text": "İstenmeyen tipleri bulup ortadan kaldırabilen bir paralı askersiniz. Tabii doğru fiyat karşılığında. Yeterince Ödül Avcısı veya Kamu Hizmeti görevi tamamladığınızda bu unvan ücretsiz olur."
+    },
+    {
+      "id": "13e72907",
+      "bank_id": "80f79600",
+      "text": "Altın Kesesi"
+    },
+    {
+      "id": "15490111",
+      "bank_id": "80f79600",
+      "text": "Bu kolonya ağırlıklı olarak gübre ve yeni doğmuş bebek kafası gibi kokar. Yaşlı vatandaşlar arasında popülerdir."
+    },
+    {
+      "id": "166f0484",
+      "bank_id": "80f79600",
+      "text": "Kılıcınızla bir bütünsünüz."
+    },
+    {
+      "id": "1741bd97",
+      "bank_id": "80f79600",
+      "text": "Som Altın Kolye"
+    },
+    {
+      "id": "183eab5e",
+      "bank_id": "80f79600",
+      "text": "Kılıç"
+    },
+    {
+      "id": "18ba5408",
+      "bank_id": "80f79600",
+      "text": "Dilenci Yüzüğü"
+    },
+    {
+      "id": "19f99fcf",
+      "bank_id": "80f79600",
+      "text": "Bu yüzük takan kişinin ruh halini yansıtacak şekilde renk değiştirir. Sevgilinizin böylesine değersiz bir yüzük almaktan duyduğu öfke yüzünden çoğu zaman kırmızı olmasını bekleyin."
+    },
+    {
+      "id": "1a936038",
+      "bank_id": "80f79600",
+      "text": "Rasta"
+    },
+    {
+      "id": "1aaaac66",
+      "bank_id": "80f79600",
+      "text": "Peri Gözyaşları Parfümü"
+    },
+    {
+      "id": "1b521379",
+      "bank_id": "80f79600",
+      "text": "Sert, akademik hatlara sahip bir bebek. Büyü sanatlarına ya da havalı dökümlü cübbelere ilgi duyan herkes için idealdir."
+    },
+    {
+      "id": "1dad1010",
+      "bank_id": "80f79600",
+      "text": "İlk bakışta gayet güzel bir mücevher gibi görünebilir ancak daha yakından bakarsanız son derece kalitesiz bir çöp parçası olduğunu anlarsınız."
+    },
+    {
+      "id": "1e20aa9b",
+      "bank_id": "80f79600",
+      "text": "Kahraman Unvanı"
+    },
+    {
+      "id": "201a3a76",
+      "bank_id": "80f79600",
+      "text": "Çocuklar kılıç kullanmayı öğrenmek için hiçbir zaman çok küçük değildir. Gerçi bu bir yürümeye başlayan çocuk için biraz fazla büyük olabilir."
+    },
+    {
+      "id": "20adea3b",
+      "bank_id": "80f79600",
+      "text": "Uzun Saç"
+    },
+    {
+      "id": "2804ac0a",
+      "bank_id": "80f79600",
+      "text": "At Kuyruğu"
+    },
+    {
+      "id": "299d835a",
+      "bank_id": "80f79600",
+      "text": "Sevdikleri: Bir şeylere vurmak, etrafı dağıtmak. Sevmedikleri: Uzun kelimeler, yıkanmak."
+    },
+    {
+      "id": "2dd7305e",
+      "bank_id": "80f79600",
+      "text": "Parfüm"
+    },
+    {
+      "id": "2f85afcf",
+      "bank_id": "80f79600",
+      "text": "İki Örgü"
+    },
+    {
+      "id": "2fa5ff86",
+      "bank_id": "80f79600",
+      "text": "Ortadan Ayrık"
+    },
+    {
+      "id": "33de406f",
+      "bank_id": "80f79600",
+      "text": "Pahalı olmayan ama çok hoş bir mücevher. Eski Krallık bakireleri arasında bir zamanlar çok gözde olduğu söylenirdi ancak yakın zamanda büyük yatakların keşfedilmesi değerini düşürdü."
+    },
+    {
+      "id": "37c3cbaa",
+      "bank_id": "80f79600",
+      "text": "'Hobbe Kokusu' Parfümü"
+    },
+    {
+      "id": "38d1b969",
+      "bank_id": "80f79600",
+      "text": "Her yerdeki çocuklar bu tantanalı boyanmış kutudan çıkan tıngırtılı teneke ağıta bayılır."
+    },
+    {
+      "id": "392ac9d5",
+      "bank_id": "80f79600",
+      "text": "Tebrikler, tamamen sıradan birisiniz."
+    },
+    {
+      "id": "39d9d122",
+      "bank_id": "80f79600",
+      "text": "Omuzlarınıza tam ulaşacak uzunluğa sahip olduğu için bu adı almıştır. Ve saçtan yapılmıştır."
+    },
+    {
+      "id": "44946052",
+      "bank_id": "80f79600",
+      "text": "Tamamen sıradan bir yüzük."
+    },
+    {
+      "id": "45188321",
+      "bank_id": "80f79600",
+      "text": "'Annenin yüzüne kafa atarım' diyen bir saç modeli mi istiyorsunuz? Savaşçı çizgisini seçin."
+    },
+    {
+      "id": "46b700ae",
+      "bank_id": "80f79600",
+      "text": "Oyuncak"
+    },
+    {
+      "id": "478c0e63",
+      "bank_id": "80f79600",
+      "text": "Her çocuk için nefis bir hediye. Ta ki küçük porselen yüzü sıradan bir oyun sırasında paramparça olana kadar."
+    },
+    {
+      "id": "4ba9257e",
+      "bank_id": "80f79600",
+      "text": "Zümrüt"
+    },
+    {
+      "id": "511d8e69",
+      "bank_id": "80f79600",
+      "text": "Bilinmeyen kökenli gizemli kumaşlardan yapılan bu bebek, kaderinizi okumaya olduğu kadar ona yön vermeye de hazır görünen kör bir tarot falcısına aittir."
+    },
+    {
+      "id": "56063563",
+      "bank_id": "80f79600",
+      "text": "Vaktiyle Çiftçi Giles'a ait olan bu anahtar bir parmaklığı açacak gibi görünüyor."
+    },
+    {
+      "id": "576edd1f",
+      "bank_id": "80f79600",
+      "text": "Normal Saç"
+    },
+    {
+      "id": "59e490df",
+      "bank_id": "80f79600",
+      "text": "Büyük bir işçilik örneği sayılmaz ama sevdiceğinizin elinde dağılmaz veya hafif bir boyun kangrenine bile yol açmaz."
+    },
+    {
+      "id": "5a06c8ff",
+      "bank_id": "80f79600",
+      "text": "Bir mücevherden ziyade çürümüş ve fosilleşmiş bir odun parçasıdır. Muhtemelen yanmış bir evin enkazından da aynı şıklıkta örnekler bulabilirsiniz."
+    },
+    {
+      "id": "5babbd14",
+      "bank_id": "80f79600",
+      "text": "Küçük kızlar bir nedenden ötürü bu tuhaf, biçimsiz bebeklere sarılmaya bayılır. Belki de gizlice kara büyü ayinlerinde kullandıkları içindir."
+    },
+    {
+      "id": "62553231",
+      "bank_id": "80f79600",
+      "text": "Oyuncak Yay"
+    },
+    {
+      "id": "65c056e2",
+      "bank_id": "80f79600",
+      "text": "Eski Krallık'taki en değerli mücevherler olan üç İlahiyat Taşından biridir. Bunun Archon'a bir rüyada tanrıların bir hediyesi olarak sunulduğu söylenir. Krallığın yıkılışından sonra bu taşlar dünyanın dört bir yanına dağıldı ve çoğu zaman efsaneden ibaret görülseler de binlerce insan onları bulmaya hayatını adadı."
+    },
+    {
+      "id": "69c2e16f",
+      "bank_id": "80f79600",
+      "text": "Aslan Yelesi"
+    },
+    {
+      "id": "6b61d223",
+      "bank_id": "80f79600",
+      "text": "Bir avuç kumaş parçası olsa bile bu devasa bebek erdem ve doğruluk saçar."
+    },
+    {
+      "id": "6c062414",
+      "bank_id": "80f79600",
+      "text": "Oyuncak At"
+    },
+    {
+      "id": "6c36cf4d",
+      "bank_id": "80f79600",
+      "text": "Çoğu kadın maceracının işe başlarken benimsediği saç modeli."
+    },
+    {
+      "id": "6cd49f19",
+      "bank_id": "80f79600",
+      "text": "Çakmaklı bir ateşli silahın bu ölçekli modeliyle bir çocuğun içindeki haydutu ortaya çıkarın."
+    },
+    {
+      "id": "6d00b734",
+      "bank_id": "80f79600",
+      "text": "Oldukça nadir bulunan bu değerli taş harika bir romantik hediyedir."
+    },
+    {
+      "id": "6d48d73a",
+      "bank_id": "80f79600",
+      "text": "İlk bakışta güzel görünebilir ancak takanın parmağını çürütmesi muhtemeldir."
+    },
+    {
+      "id": "6f9a92b5",
+      "bank_id": "80f79600",
+      "text": "Bu bebekte takıntılı ve karanlık bir ifade vardır, sanki bir tür hasret onu delirtiyormuş gibi. 3 yaş ve üzeri için tavsiye edilir."
+    },
+    {
+      "id": "71922d1f",
+      "bank_id": "80f79600",
+      "text": "Dalgalı ve dağınık bir hayat tarzını tercih edenler için."
+    },
+    {
+      "id": "72d16b82",
+      "bank_id": "80f79600",
+      "text": "Scanque'ten bir fıs sıkın ve o özel kişiyi kendinize çekin. Ve şunu da... ve şunu da... ve şunu da..."
+    },
+    {
+      "id": "72f8ba7f",
+      "bank_id": "80f79600",
+      "text": "Kazıtılmış Kafa"
+    },
+    {
+      "id": "73bc9ba5",
+      "bank_id": "80f79600",
+      "text": "İp atlama sevgisini layıkıyla ifade edebilecek bir saç modeli isteyenler için."
+    },
+    {
+      "id": "742dda49",
+      "bank_id": "80f79600",
+      "text": "Porselen Bebek"
+    },
+    {
+      "id": "78a81853",
+      "bank_id": "80f79600",
+      "text": "'Permütasyon' Parfümü"
+    },
+    {
+      "id": "79aaf345",
+      "bank_id": "80f79600",
+      "text": "Oyuncak Gürz"
+    },
+    {
+      "id": "79b1675d",
+      "bank_id": "80f79600",
+      "text": "Bu kese Kader Odası'ndaki sihirli bir sandıkta belirdi. İçindeki altın ise tamamen gerçektir."
+    },
+    {
+      "id": "7b75725b",
+      "bank_id": "80f79600",
+      "text": "Paslı Kolye"
+    },
+    {
+      "id": "7d7b964e",
+      "bank_id": "80f79600",
+      "text": "Bez Bebek"
+    },
+    {
+      "id": "7e9afd10",
+      "bank_id": "80f79600",
+      "text": "'Scanque' Parfümü"
+    },
+    {
+      "id": "7f75de1e",
+      "bank_id": "80f79600",
+      "text": "Sevgili Charlie, Lütfen bu hoş maceracıyı takip et ve fazla korkmamaya çalış. Ninen."
+    },
+    {
+      "id": "80996cee",
+      "bank_id": "80f79600",
+      "text": "Neredeyse toplum içinde takılamayacak kadar güzel, göz alıcı bir mücevher parçası."
+    },
+    {
+      "id": "812a5827",
+      "bank_id": "80f79600",
+      "text": "Sonsuzluk Yüzüğü"
+    },
+    {
+      "id": "82a80149",
+      "bank_id": "80f79600",
+      "text": "Giles'ın Parmaklık Anahtarı"
+    },
+    {
+      "id": "832bdbe4",
+      "bank_id": "80f79600",
+      "text": "Miggins Nine'nin Notu"
+    },
+    {
+      "id": "8a2b7ec6",
+      "bank_id": "80f79600",
+      "text": "İntikamcı"
+    },
+    {
+      "id": "8e479500",
+      "bank_id": "80f79600",
+      "text": "En değerli malzemelerden yapılmamış olabilir ama söz konusu nişan olduğunda yüksek bir başarı oranına sahiptir."
+    },
+    {
+      "id": "8ed0906e",
+      "bank_id": "80f79600",
+      "text": "Yakut"
+    },
+    {
+      "id": "8f22164a",
+      "bank_id": "80f79600",
+      "text": "Hayvanları seviyor musunuz? Bu saç modeliyle buklelerinizi minik yaratıklar için bir sığınak haline getirin."
+    },
+    {
+      "id": "92d91e63",
+      "bank_id": "80f79600",
+      "text": "Kahraman Bebeği"
+    },
+    {
+      "id": "92d91e68",
+      "bank_id": "80f79600",
+      "text": "Kahraman Bebeği"
+    },
+    {
+      "id": "94f340d5",
+      "bank_id": "80f79600",
+      "text": "Mücevher"
+    },
+    {
+      "id": "95453e79",
+      "bank_id": "80f79600",
+      "text": "Bunun gibi ucuz mücevherler taktıktan sonra insanların kafasının koptuğuna dair söylentiler çoğunlukla asılsızdır."
+    },
+    {
+      "id": "9609e8ec",
+      "bank_id": "80f79600",
+      "text": "Yalnızca en iyi periler seçilir ve üreticiler o ekstra tatlı koku için onların kederden değil sevinçten ağlamasına özen gösterir."
+    },
+    {
+      "id": "9742625a",
+      "bank_id": "80f79600",
+      "text": "Çiçekler"
+    },
+    {
+      "id": "97685892",
+      "bank_id": "80f79600",
+      "text": "Hesaplı Kolye"
+    },
+    {
+      "id": "97c21412",
+      "bank_id": "80f79600",
+      "text": "Yaldızlı Çiçekler"
+    },
+    {
+      "id": "97ef0687",
+      "bank_id": "80f79600",
+      "text": "Her çocuk için nefis bir hediye. Ayrıca onları hayatın vahşi şiddetine de hazırlar."
+    },
+    {
+      "id": "98039e09",
+      "bank_id": "80f79600",
+      "text": "Hammer Bebeği"
+    },
+    {
+      "id": "99ab1522",
+      "bank_id": "80f79600",
+      "text": "Bütün kızların büyüyünce olmak istediği türden bir günümüz Kahramanı. Büyüdüğünde iyi mi olacak yoksa kötü mü? Siz karar verin!"
+    },
+    {
+      "id": "99ab1529",
+      "bank_id": "80f79600",
+      "text": "Bütün erkeklerin büyüyünce olmak istediği türden bir günümüz Kahramanı. Büyüdüğünde iyi mi olacak yoksa kötü mü? Siz karar verin!"
+    },
+    {
+      "id": "9a78da10",
+      "bank_id": "80f79600",
+      "text": "Sakal"
+    },
+    {
+      "id": "9a83b6d8",
+      "bank_id": "80f79600",
+      "text": "Değerli taşların en nadidesi olup aşkınızın hedefini arzudan deliye döndürmesi garantilidir."
+    },
+    {
+      "id": "9bd08ccd",
+      "bank_id": "80f79600",
+      "text": "Zenginlerin çelik takviyeli boyunlara sahip olmasının sebebi işte bu tür mücevherlerdir. En kaliteli ve nadir malzemelerle üretilmiş enfes bir kolye."
+    },
+    {
+      "id": "9c296239",
+      "bank_id": "80f79600",
+      "text": "Ödül Avcısı"
+    },
+    {
+      "id": "9e86db0d",
+      "bank_id": "80f79600",
+      "text": "Ruh Hali Yüzüğü"
+    },
+    {
+      "id": "a40fd5f3",
+      "bank_id": "80f79600",
+      "text": "Serttir, parlaktır ve hayatı kolaylaştırır. Altındır. Harcayın, biriktirin ya da dağıtın ama sakın ağzınıza sokmayın. Nereden geçtiğini asla bilemezsiniz."
+    },
+    {
+      "id": "a67b4017",
+      "bank_id": "80f79600",
+      "text": "Ayıların açıkça efsanevi yaratıklar olmasına rağmen çocuklar yine de onların varlığına inanır. Sanki bu kadar sevimli ve kucaklanası bir şey gerçek olabilirmiş gibi."
+    },
+    {
+      "id": "ab053c0c",
+      "bank_id": "80f79600",
+      "text": "Saçlarınızın başınızın iki yanından aşağı dökülmesine izin verin. Ortadaki ayrım hayattaki yolculuğunuzu ve karşılaşacağınız birçok çetrefilli durumu temsil eder."
+    },
+    {
+      "id": "abdbbacf",
+      "bank_id": "80f79600",
+      "text": "Örgüler"
+    },
+    {
+      "id": "ac70c23b",
+      "bank_id": "80f79600",
+      "text": "Canlı balverine'lerden misk çıkarmanın getirdiği işletme maliyetleri yüzünden bu parfüm oldukça pahalıdır. Yine de bir randevu ayarlamanızı sağlar; zamanın yüzde altmışında her defasında işe yarar."
+    },
+    {
+      "id": "acb31ee8",
+      "bank_id": "80f79600",
+      "text": "Efsanevi Midilli yaratığından esinlenilmiştir, sırtınızdaki sinekleri savurabilirsiniz."
+    },
+    {
+      "id": "adf83ac5",
+      "bank_id": "80f79600",
+      "text": "Önde ciddiyet, arkada ziyafet."
+    },
+    {
+      "id": "ae680222",
+      "bank_id": "80f79600",
+      "text": "Saç Kesimi"
+    },
+    {
+      "id": "b78ca46b",
+      "bank_id": "80f79600",
+      "text": "Mücevherat"
+    },
+    {
+      "id": "b86d0ead",
+      "bank_id": "80f79600",
+      "text": "Ametist"
+    },
+    {
+      "id": "bb208e4e",
+      "bank_id": "80f79600",
+      "text": "Mektup"
+    },
+    {
+      "id": "bb369c88",
+      "bank_id": "80f79600",
+      "text": "Biri bir hobbe'nin tüm pis kokusunu tek bir leş gibi şişeye tıkıştırmayı başarmış. Neden mi? Bunu dünya asla öğrenemeyebilir. Hiçbir insan bunu kendi isteğiyle bedenine veya giysisine sürmemelidir."
+    },
+    {
+      "id": "bc86ecab",
+      "bank_id": "80f79600",
+      "text": "Oyuncak Müzik Kutusu"
+    },
+    {
+      "id": "bcf75659",
+      "bank_id": "80f79600",
+      "text": "Saçlarınızı gür bir uzunluğa getirin ancak düzenli bakım yapmayı unutmayın."
+    },
+    {
+      "id": "be7199bd",
+      "bank_id": "80f79600",
+      "text": "Güzel Kolye"
+    },
+    {
+      "id": "bfd106dd",
+      "bank_id": "80f79600",
+      "text": "Oltu Taşı"
+    },
+    {
+      "id": "c5a42c30",
+      "bank_id": "80f79600",
+      "text": "Omuz Hizası Saç"
+    },
+    {
+      "id": "c9da4824",
+      "bank_id": "80f79600",
+      "text": "Nispeten yaygın olan ve birçok Albion madeninde bulunan zümrütler yine de canlılıkları sebebiyle değer görür."
+    },
+    {
+      "id": "d09cdd9f",
+      "bank_id": "80f79600",
+      "text": "Saç"
+    },
+    {
+      "id": "d30409fb",
+      "bank_id": "80f79600",
+      "text": "Oyuncak Tabanca"
+    },
+    {
+      "id": "d44475d5",
+      "bank_id": "80f79600",
+      "text": "Umarız bekâret yemini etmişsinizdir çünkü bu saçla pek randevuya çıkamazsınız."
+    },
+    {
+      "id": "d4d2c1ab",
+      "bank_id": "80f79600",
+      "text": "Theresa Bebeği"
+    },
+    {
+      "id": "d51092a8",
+      "bank_id": "80f79600",
+      "text": "Zorba"
+    },
+    {
+      "id": "d5f2a435",
+      "bank_id": "80f79600",
+      "text": "Şıklar, kelleşenler ve bitliler tarafından sıkça tercih edilir."
+    },
+    {
+      "id": "d60be04b",
+      "bank_id": "80f79600",
+      "text": "Her çocuk için nefis bir hediye. Ayrıca onları hayatın vahşi şiddetine de hazırlar."
+    },
+    {
+      "id": "d620c9fd",
+      "bank_id": "80f79600",
+      "text": "Dağınık Saç"
+    },
+    {
+      "id": "d640a781",
+      "bank_id": "80f79600",
+      "text": "9.042 Numaralı Aşk İksiri"
+    },
+    {
+      "id": "da8af934",
+      "bank_id": "80f79600",
+      "text": "Kahramanlar Loncası'nın kadim mührü dokunduğunuzda sıcacık hissettiriyor."
+    },
+    {
+      "id": "db83ba54",
+      "bank_id": "80f79600",
+      "text": "Çoğu erkek maceracının işe başlarken benimsediği saç modeli."
+    },
+    {
+      "id": "ddccc95e",
+      "bank_id": "80f79600",
+      "text": "Aşk manevi olabilir ama dünyanın en pahalı yüzüğüne sahip olmak her zaman işe yarar. Hiçbir parmak büyülenmekten kaçınamaz."
+    },
+    {
+      "id": "e0638973",
+      "bank_id": "80f79600",
+      "text": "Köpek Bebeği"
+    },
+    {
+      "id": "e378555c",
+      "bank_id": "80f79600",
+      "text": "Oyuncak Kılıç"
+    },
+    {
+      "id": "e3fd2f24",
+      "bank_id": "80f79600",
+      "text": "Ebedi Aşk Yüzüğü"
+    },
+    {
+      "id": "e4500154",
+      "bank_id": "80f79600",
+      "text": "Kıymetli Kolye"
+    },
+    {
+      "id": "e5b761fd",
+      "bank_id": "80f79600",
+      "text": "Bu harika yüzük en titiz olanlar haricinde herkesin kalbini eritecektir."
+    },
+    {
+      "id": "e7a80017",
+      "bank_id": "80f79600",
+      "text": "Kadın Maceracı Saç Modeli"
+    },
+    {
+      "id": "e8043e22",
+      "bank_id": "80f79600",
+      "text": "Kibar Yüzük"
+    },
+    {
+      "id": "eab099f5",
+      "bank_id": "80f79600",
+      "text": "Oyuncak Ayı"
+    },
+    {
+      "id": "ecb6ca84",
+      "bank_id": "80f79600",
+      "text": "Kötü şöhretli zevk düşkününün bu benzeriyle en sevdiğiniz Reaver anlarını yeniden canlandırın. 32 eklem noktası, sadık tabancası ve tam kalça pompalama hareketiyle eksiksiz!"
+    },
+    {
+      "id": "ee86715e",
+      "bank_id": "80f79600",
+      "text": "Reaver Bebeği"
+    },
+    {
+      "id": "f012a6a5",
+      "bank_id": "80f79600",
+      "text": "Milli Örgü Cemiyeti tarafından yapılan bir araştırma, örgülü insanların daha çok eğlendiğini göstermiştir."
+    },
+    {
+      "id": "f288891f",
+      "bank_id": "80f79600",
+      "text": "Keşiş Tıraşı"
+    },
+    {
+      "id": "f2d7c3c0",
+      "bank_id": "80f79600",
+      "text": "Yüzük"
+    },
+    {
+      "id": "f40387f0",
+      "bank_id": "80f79600",
+      "text": "Archon'un Rüyası"
+    },
+    {
+      "id": "f710b31a",
+      "bank_id": "80f79600",
+      "text": "Elmas"
+    },
+    {
+      "id": "f78d021f",
+      "bank_id": "80f79600",
+      "text": "Bıyık"
+    },
+    {
+      "id": "fc5ad26e",
+      "bank_id": "80f79600",
+      "text": "Lonca Mührü"
+    },
+    {
+      "id": "fe6bfa10",
+      "bank_id": "80f79600",
+      "text": "Safir"
+    },
+    {
+      "id": "ffcdfb8e",
+      "bank_id": "80f79600",
+      "text": "Erkek Maceracı Saç Modeli"
+    }
+  ]
+}

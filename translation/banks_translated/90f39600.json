@@ -1,0 +1,636 @@
+{
+  "bank_id": "90f39600",
+  "total_strings": 126,
+  "strings": [
+    {
+      "id": "00462928",
+      "bank_id": "90f39600",
+      "text": "Alt Vücut"
+    },
+    {
+      "id": "01dea404",
+      "bank_id": "90f39600",
+      "text": "Eller"
+    },
+    {
+      "id": "026b4a0d",
+      "bank_id": "90f39600",
+      "text": "Arkadaşlar"
+    },
+    {
+      "id": "0426877c",
+      "bank_id": "90f39600",
+      "text": "Hiçbiri"
+    },
+    {
+      "id": "0584c9aa",
+      "bank_id": "90f39600",
+      "text": "Beceri Puanı:"
+    },
+    {
+      "id": "05e7767a",
+      "bank_id": "90f39600",
+      "text": "Yalnızca Cemiyet olarak bilinen gizemli teşkilat, kabul etmeye niyetli olanlara suikast kontratları teklif eder. Albion'daki ahval ne kadar vahim bir hâl alırsa, bu ölümcül fırsatlar da o denli çoğalacaktır."
+    },
+    {
+      "id": "085ec861",
+      "bank_id": "90f39600",
+      "text": "Yeterince deneyim kazandığınızda barmenlik yaparak yüklü miktarda altın kazanabilirsiniz; zira işin yüksek kademeleri içkileri pek süratle servis etmenize imkân tanır. Yine de hiçbirini dökmemeye dikkat edin."
+    },
+    {
+      "id": "0c16c0e2",
+      "bank_id": "90f39600",
+      "text": "İfadeler"
+    },
+    {
+      "id": "105cef07",
+      "bank_id": "90f39600",
+      "text": "Başarılı bir dilenci olmak için evvela insanların sevgisini kazanmaya çalışın, ardından Dilen ifadesini kullanın. Biri size bir kez altın verdi mi, artık daha fazla sadaka beklemeyin."
+    },
+    {
+      "id": "13e57ab3",
+      "bank_id": "90f39600",
+      "text": "Doldurma Süresi:"
+    },
+    {
+      "id": "1a6b47a3",
+      "bank_id": "90f39600",
+      "text": "Bir taverna oyununda haddinden fazla borca batarsanız, Oyun Ustası ödemeyi aksattığınız gerekçesiyle sizi kanun adamlarına ihbar edebilir."
+    },
+    {
+      "id": "1bc32d10",
+      "bank_id": "90f39600",
+      "text": "Deneyim:"
+    },
+    {
+      "id": "1cc79762",
+      "bank_id": "90f39600",
+      "text": "Oyundaki en değerli efsun taşları, öldürdüğünüz her yaratık için size sahiden para kazandırır. Nihayet sevdiğiniz işi yaparak para kazanmanın yolu!"
+    },
+    {
+      "id": "1d479fc8",
+      "bank_id": "90f39600",
+      "text": "Bir silaha efsun taşı taktığınızda onu bir daha çıkaramazsınız, bu yüzden dikkatli seçin. Diğer yandan fazla da beklemeyin; zira bulunacak daha pek çok efsun taşı vardır."
+    },
+    {
+      "id": "246730ca",
+      "bank_id": "90f39600",
+      "text": "Ayaklar"
+    },
+    {
+      "id": "24c9f764",
+      "bank_id": "90f39600",
+      "text": "Şişmanlık:"
+    },
+    {
+      "id": "26fbc197",
+      "bank_id": "90f39600",
+      "text": "Çıkmak istediğinizden emin misiniz?<br><br>%d Deneyim Puanı<br>%d Altın"
+    },
+    {
+      "id": "284dd9a3",
+      "bank_id": "90f39600",
+      "text": "Albion'da bulunmayı, muhabbet edilmeyi ve umulur ki açılmayı bekleyen dokuz İblis Kapısı vardır."
+    },
+    {
+      "id": "28bd70f8",
+      "bank_id": "90f39600",
+      "text": "Yakın Dövüş"
+    },
+    {
+      "id": "2b111687",
+      "bank_id": "90f39600",
+      "text": "Devam Et"
+    },
+    {
+      "id": "2d025796",
+      "bank_id": "90f39600",
+      "text": "Envanterinizdeki neredeyse her eşya hediye olarak verilebilir ve söz konusu insanların sevgisini kazanmak olduğunda hediyenin yerini sahiden hiçbir şey tutamaz. Evet, Albion hakikaten son derece maddiyatçı bir topluma dönüşmüştür. Her köylünün ne tür şeylerden hoşlandığını öğrenmeye bakın; böylece çok geçmeden sevgilerini ve dostluklarını kazanabilirsiniz."
+    },
+    {
+      "id": "30f8c14b",
+      "bank_id": "90f39600",
+      "text": "Yüksek kademe büyüleri hazırlarken saldırılara karşı savunmasız kalırsınız, ancak darbe almak hazırlığınızı bölmez. Bazen sahiden güçlü bir İrade saldırısı savurmak adına acıya katlanmaya değer."
+    },
+    {
+      "id": "35c7ea40",
+      "bank_id": "90f39600",
+      "text": "Stiller"
+    },
+    {
+      "id": "37beae92",
+      "bank_id": "90f39600",
+      "text": "Hadi durmayın, o kupayı sergileyip etrafınızdaki herkesi etkileyin. Neler başardığınızı insanlara duyurmanın ve ününüzü artırmanın harika bir yoludur. Kupayı ne kadar çok insan görürse, o kadar meşhur olursunuz."
+    },
+    {
+      "id": "38afaeb9",
+      "bank_id": "90f39600",
+      "text": "Üst Vücut"
+    },
+    {
+      "id": "398d288d",
+      "bank_id": "90f39600",
+      "text": "Menzil:"
+    },
+    {
+      "id": "3990179c",
+      "bank_id": "90f39600",
+      "text": "Ahlak:"
+    },
+    {
+      "id": "39c58847",
+      "bank_id": "90f39600",
+      "text": "Parıldayan iz sizi genellikle gitmeniz gereken yere ulaştırır, ancak kimi zaman kendi yolunuzu kendiniz bulmanız gerekir."
+    },
+    {
+      "id": "39e146ca",
+      "bank_id": "90f39600",
+      "text": "Saldırı Hızı:"
+    },
+    {
+      "id": "3aa10d0e",
+      "bank_id": "90f39600",
+      "text": "Paltolar"
+    },
+    {
+      "id": "3bf1e836",
+      "bank_id": "90f39600",
+      "text": "Envanterinizdeki bir köpek tasmasını kullanarak en sadık, dört ayaklı dostunuza takabilirsiniz. Tasmayı kullanmak köpeğinize yeni bir isim verme fırsatı da sağlar."
+    },
+    {
+      "id": "3d76a3d5",
+      "bank_id": "90f39600",
+      "text": "Takipçilerinize peşinizi bırakmalarını söyleyin. Sizi rahat bırakıp kendi hayatlarına döneceklerdir."
+    },
+    {
+      "id": "3d9762a6",
+      "bank_id": "90f39600",
+      "text": "Yiyecek ve İçecek"
+    },
+    {
+      "id": "3df4b974",
+      "bank_id": "90f39600",
+      "text": "Şarjör Başına Mermi:"
+    },
+    {
+      "id": "3fa895ac",
+      "bank_id": "90f39600",
+      "text": "Mobilya"
+    },
+    {
+      "id": "4144910d",
+      "bank_id": "90f39600",
+      "text": "Yükleme Başarısız"
+    },
+    {
+      "id": "414d63b3",
+      "bank_id": "90f39600",
+      "text": "Eşli oyunda oyuncular, etkilerini katbekat artırmak için ifadelerini eşzamanlı olarak sergileyebilir."
+    },
+    {
+      "id": "418fd86d",
+      "bank_id": "90f39600",
+      "text": "Çekicilik:"
+    },
+    {
+      "id": "440d152c",
+      "bank_id": "90f39600",
+      "text": "Otomatik Katılma seçeneği sayesinde dünyanıza kimlerin dâhil olacağını belirleyebilirsiniz. Dünyanızda yalnızca davet ettiğiniz Kahramanları görmek istiyorsanız Kapalı yapın."
+    },
+    {
+      "id": "46eb6c4c",
+      "bank_id": "90f39600",
+      "text": "İrade kullanıcıları tarafından gerçek dünyadan bir sığınak olarak inşa edilen cennet misali bir evden bahsedilir. Efsaneye göre, konuşan devasa bir kayanın ardında saklıdır."
+    },
+    {
+      "id": "48874094",
+      "bank_id": "90f39600",
+      "text": "Kupalar"
+    },
+    {
+      "id": "49ef1f53",
+      "bank_id": "90f39600",
+      "text": "İçecekler"
+    },
+    {
+      "id": "49f5a45d",
+      "bank_id": "90f39600",
+      "text": "Ev Değeri Artışı:"
+    },
+    {
+      "id": "4acc71dc",
+      "bank_id": "90f39600",
+      "text": "Yaşlanma:"
+    },
+    {
+      "id": "4bada1fd",
+      "bank_id": "90f39600",
+      "text": "Çıkmak istediğinizden emin misiniz?\n\nHarcanmamış deneyim ve altınınız şu Kahramana aktarılacaktır:\n%1 Deneyim Puanı\n%2 Altın"
+    },
+    {
+      "id": "4c62c081",
+      "bank_id": "90f39600",
+      "text": "Yeni Oyun"
+    },
+    {
+      "id": "5343d359",
+      "bank_id": "90f39600",
+      "text": "Hediyeyi kabul et"
+    },
+    {
+      "id": "5409651e",
+      "bank_id": "90f39600",
+      "text": "Her Albion evreni yalnızca bir Kahraman bebeği barındırır. Altısının tamamını toplamak için diğer evrenlerdeki Kahramanlarla (Xbox LIVE Arkadaşları olarak da bilinir) takas yapmanız gerekecektir."
+    },
+    {
+      "id": "54161795",
+      "bank_id": "90f39600",
+      "text": "Hasar:"
+    },
+    {
+      "id": "56d3cc2e",
+      "bank_id": "90f39600",
+      "text": "Fiyat:"
+    },
+    {
+      "id": "59e3f26f",
+      "bank_id": "90f39600",
+      "text": "Banshee'ler kurbanlarının ruhlarının ta derinliklerini görebilir. Duymak istemedikleri her şeyi yüzlerine vurarak morallerini altüst ederler."
+    },
+    {
+      "id": "5bbab71f",
+      "bank_id": "90f39600",
+      "text": "Yol Ver"
+    },
+    {
+      "id": "5c035d9d",
+      "bank_id": "90f39600",
+      "text": "İyileştirme Puanı:"
+    },
+    {
+      "id": "5dbb6bc3",
+      "bank_id": "90f39600",
+      "text": "Bloodstone, insanların kendi başlarının çaresine baktığı kanunsuz bir kasabadır. Muhafızlarla başınız derde girmeyebilir; ancak yerli ahali adaleti kendi elleriyle sağlayacaktır."
+    },
+    {
+      "id": "5f63da40",
+      "bank_id": "90f39600",
+      "text": "Aksesuarlar"
+    },
+    {
+      "id": "606141b7",
+      "bank_id": "90f39600",
+      "text": "Altın"
+    },
+    {
+      "id": "683533d0",
+      "bank_id": "90f39600",
+      "text": "Çiçekler, çikolatalar ve oyuncaklar gibi hediyeler; neredeyse herkesin sevgisini kazanmanın ucuz ve kolay yollarıdır."
+    },
+    {
+      "id": "6b0380d2",
+      "bank_id": "90f39600",
+      "text": "Şanınız arttıkça hayranlarınız imzanızı alabilmek için can atacaktır. İmza dağıtmak için öncelikle genel mağazalarda satılan imza kartı satın almanız gerekir."
+    },
+    {
+      "id": "6cce4474",
+      "bank_id": "90f39600",
+      "text": "Kaos büyüsü beklenmedik düşman davranışlarına yol açabilir. Haydutlar yerleri paspaslamaya başladığında, vaziyete tamamen hâkim olduğunuzu anlarsınız!"
+    },
+    {
+      "id": "6e4d91a0",
+      "bank_id": "90f39600",
+      "text": "Aşktan daha yüce bir hediye yoktur, ancak altın da hemen arkasından ikinci gelir."
+    },
+    {
+      "id": "6e8f5934",
+      "bank_id": "90f39600",
+      "text": "Mermi Kapasitesi:"
+    },
+    {
+      "id": "6f0a8931",
+      "bank_id": "90f39600",
+      "text": "Sağlık Çubuğu Uzatması:"
+    },
+    {
+      "id": "6f2274fc",
+      "bank_id": "90f39600",
+      "text": "Hediye"
+    },
+    {
+      "id": "6f2a66ea",
+      "bank_id": "90f39600",
+      "text": "\"Bize Gidelim\" ifadesi, Albion'un şehvet düşkünü vatandaşları üzerinde gayet iyi işe yarar. Yine de bunu toplumun daha tutucu kesimleri üzerinde denerseniz, yalnızca öfkelerini kabartırsınız."
+    },
+    {
+      "id": "71426346",
+      "bank_id": "90f39600",
+      "text": "Yeni basımlar ve eski ciltler için Bowerstone Kitabevi'ne sık sık uğrayın. İstemediğiniz kitapları da orada satabilirsiniz."
+    },
+    {
+      "id": "71867ce9",
+      "bank_id": "90f39600",
+      "text": "Ucuz efsun taşlarının ufak tefek olumsuz etkileri olabilir, ancak sağladığı faydalar yine de bu zahmete değebilir."
+    },
+    {
+      "id": "7702956b",
+      "bank_id": "90f39600",
+      "text": "Takip Et"
+    },
+    {
+      "id": "786cd87f",
+      "bank_id": "90f39600",
+      "text": "Başparmak Aşağı"
+    },
+    {
+      "id": "7966ac7f",
+      "bank_id": "90f39600",
+      "text": "Kartlar"
+    },
+    {
+      "id": "797f7109",
+      "bank_id": "90f39600",
+      "text": "Köpeğinize numaralar öğretirseniz, ifadelerinize o da eşlik edebilir."
+    },
+    {
+      "id": "7a9cc1c8",
+      "bank_id": "90f39600",
+      "text": "Fikir birliğini belirtmenin ve \"evet\" demenin en ideal yolu."
+    },
+    {
+      "id": "7d4840e6",
+      "bank_id": "90f39600",
+      "text": "Mana:"
+    },
+    {
+      "id": "80bed368",
+      "bank_id": "90f39600",
+      "text": "Saflık:"
+    },
+    {
+      "id": "81288c23",
+      "bank_id": "90f39600",
+      "text": "Bir Kahraman olduğunuzda, istediğiniz an deneyim harcayarak yeni yetenekler satın alabilirsiniz. Bunu yapmak için Duraklatma menüsünden Yetenekler ekranına gidin."
+    },
+    {
+      "id": "8178d3d6",
+      "bank_id": "90f39600",
+      "text": "Düşmanların haddinden fazla blok yaptığını görürseniz, onlara karşı Gösterişli Vuruş kullanın."
+    },
+    {
+      "id": "85b11643",
+      "bank_id": "90f39600",
+      "text": "Ev Değeri:"
+    },
+    {
+      "id": "874d3d2e",
+      "bank_id": "90f39600",
+      "text": "<a_img> ile başlayın"
+    },
+    {
+      "id": "8b352fad",
+      "bank_id": "90f39600",
+      "text": "Eşli oyunda oyuncular, kazanılan deneyim miktarını katbekat artırmak için saldırılarını eşzamanlı gerçekleştirebilir."
+    },
+    {
+      "id": "8c9bb3f6",
+      "bank_id": "90f39600",
+      "text": "Usta işi bir kafadan vuruş düşmanların kellesini uçurabilir!"
+    },
+    {
+      "id": "8e1246bd",
+      "bank_id": "90f39600",
+      "text": "Maskeler"
+    },
+    {
+      "id": "8efb0160",
+      "bank_id": "90f39600",
+      "text": "Arkeolog Belle, gizli bir Eski Krallık yadigârını gün yüzüne çıkarmayı hayatının gayesi bellemiştir; ancak son ipuçlarını çözmek için yardıma ihtiyacı vardır. Kendisi genellikle Fairfax Kalesi'ndeki kazı alanını teftiş ederken bulunabilir."
+    },
+    {
+      "id": "8f5c4437",
+      "bank_id": "90f39600",
+      "text": "İrade Puanı:"
+    },
+    {
+      "id": "95907f2b",
+      "bank_id": "90f39600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "9b57e643",
+      "bank_id": "90f39600",
+      "text": "Boyalar"
+    },
+    {
+      "id": "9b825eef",
+      "bank_id": "90f39600",
+      "text": "Altın: $%1"
+    },
+    {
+      "id": "a249f346",
+      "bank_id": "90f39600",
+      "text": "Öğrendiğiniz kimi yetenekleri beğenmezseniz, onları unutup deneyiminizi geri alabilirsiniz."
+    },
+    {
+      "id": "a2546960",
+      "bank_id": "90f39600",
+      "text": "Kitaplar ve Belgeler"
+    },
+    {
+      "id": "a30a5181",
+      "bank_id": "90f39600",
+      "text": "Yeterince seri davranırsanız, haksızlık ettiğiniz birine Özür Dile ifadesini kullanabilirsiniz. Şayet kişi sizden yeterince hoşlanıyorsa, muhafızlara şikâyet etmek yerine sizi affedebilir. Bu ifade Yön Tuşlarının Yukarı yuvasında belirir."
+    },
+    {
+      "id": "a86a320c",
+      "bank_id": "90f39600",
+      "text": "Tehdit Et"
+    },
+    {
+      "id": "a9da4b1f",
+      "bank_id": "90f39600",
+      "text": "Değiştir"
+    },
+    {
+      "id": "aa3492da",
+      "bank_id": "90f39600",
+      "text": "Yiyecek"
+    },
+    {
+      "id": "aa48ea3a",
+      "bank_id": "90f39600",
+      "text": "Sol Tampona dokunmak kamerayı arkanıza odaklar. Basılı tutmaksa etrafa birinci şahıs gözünden bakmanızı sağlar."
+    },
+    {
+      "id": "ab9b51fd",
+      "bank_id": "90f39600",
+      "text": "Silahlar"
+    },
+    {
+      "id": "aceb807b",
+      "bank_id": "90f39600",
+      "text": "Eşi benzeri olmayan dövmeler Bower Gölü yakınlarındaki çingene kampında bulunabilir."
+    },
+    {
+      "id": "b2ea5aa7",
+      "bank_id": "90f39600",
+      "text": "Gereken Fiziksel Güç:"
+    },
+    {
+      "id": "b5aa4198",
+      "bank_id": "90f39600",
+      "text": "Kasaba muhafızları kimi zaman yaratıklar ve suçlularla başa çıkmak için gezgin maceracıları kiralar. Kanunun ters tarafına düşecek olursanız, topluma olan borcunuzu ödemek adına bu meseleleri halledebilirsiniz."
+    },
+    {
+      "id": "b892a262",
+      "bank_id": "90f39600",
+      "text": "İksirler"
+    },
+    {
+      "id": "b8c0e1fb",
+      "bank_id": "90f39600",
+      "text": "Kimi sahnelerde Yön Tuşlarını kullanarak yorum yapabilirsiniz. Yukarı olumlu, aşağı ise olumsuz bir yorumdur."
+    },
+    {
+      "id": "be4deded",
+      "bank_id": "90f39600",
+      "text": "Gelir"
+    },
+    {
+      "id": "c72a5e96",
+      "bank_id": "90f39600",
+      "text": "Saç"
+    },
+    {
+      "id": "c8c95f69",
+      "bank_id": "90f39600",
+      "text": "Mallara tam fiyatını yalnızca ahmaklar öder. Zaman zaman hangi indirimlerin olduğunu görmek için haritanızı kontrol edin. Yeni bir kılıç için sahiden yanıp tutuşuyor ama paranız yetmiyorsa, sabrınız yüzde 75 oranına varan bir indirim fırsatıyla ödüllendirilebilir."
+    },
+    {
+      "id": "d1bebb15",
+      "bank_id": "90f39600",
+      "text": "En İyi"
+    },
+    {
+      "id": "d40854ed",
+      "bank_id": "90f39600",
+      "text": "%1 ile etkileşime geçin"
+    },
+    {
+      "id": "d4724c25",
+      "bank_id": "90f39600",
+      "text": "Menzilli"
+    },
+    {
+      "id": "d4e9ac0e",
+      "bank_id": "90f39600",
+      "text": "Işık Tapınağı'na yapılan bağışlar, başka şeylerin yanı sıra deneyim puanı da kazandırabilir."
+    },
+    {
+      "id": "d73c47c5",
+      "bank_id": "90f39600",
+      "text": "Özür Dile"
+    },
+    {
+      "id": "db66c235",
+      "bank_id": "90f39600",
+      "text": "Biriyle aynı fikirde olmadığınızı belirtmenin ve \"hayır\" demenin mükemmel yolu."
+    },
+    {
+      "id": "deb6517d",
+      "bank_id": "90f39600",
+      "text": "Efsun Taşları"
+    },
+    {
+      "id": "e2adaf26",
+      "bank_id": "90f39600",
+      "text": "Albion'un en büyük simyacısı Leo Head'in esrarengiz bir şekilde ortadan kaybolmadan önce son bir iksir hazırladığı ve bu iksirin Fairfax Kalesi'nin derinliklerinde bir yerlerde yattığı söylenir."
+    },
+    {
+      "id": "e3893c00",
+      "bank_id": "90f39600",
+      "text": "Kupa"
+    },
+    {
+      "id": "e76ccfc4",
+      "bank_id": "90f39600",
+      "text": "Başlıklar"
+    },
+    {
+      "id": "e9614182",
+      "bank_id": "90f39600",
+      "text": "Sabırsız ve açgözlü davranıp etrafta düşman varken sandıkları açmaya kalkışırsanız, size bir hayat dersi vermeleri kuvvetle muhtemeldir."
+    },
+    {
+      "id": "ea392258",
+      "bank_id": "90f39600",
+      "text": "Kıyafetler"
+    },
+    {
+      "id": "eb511d40",
+      "bank_id": "90f39600",
+      "text": "Dil"
+    },
+    {
+      "id": "ecddb6bb",
+      "bank_id": "90f39600",
+      "text": "Yozlaşmış davranışlar görünümünüzü de yozlaştırır. Ama felekten bir gün çalmak için katlanılacak küçük bir bedel, öyle değil mi?"
+    },
+    {
+      "id": "ee4b0971",
+      "bank_id": "90f39600",
+      "text": "Sosyal"
+    },
+    {
+      "id": "eee5d5a7",
+      "bank_id": "90f39600",
+      "text": "Alkol:"
+    },
+    {
+      "id": "ef4efcbe",
+      "bank_id": "90f39600",
+      "text": "Kayıtlı oyununuz yüklenemedi."
+    },
+    {
+      "id": "f0d16529",
+      "bank_id": "90f39600",
+      "text": "İnsanlardan sizi takip etmelerini isteyin. Sizden yeterince hoşlanıyorlarsa veya yeterince korkmuşlarsa pek çok kişi kabul edecektir. Sizi ne kadar uzağa kadar takip edecekleri ise size duydukları sevgiye veya korkuya bağlıdır."
+    },
+    {
+      "id": "f3fd9b5e",
+      "bank_id": "90f39600",
+      "text": "Banshee'ler etraflarında daima kendilerini saldırılardan koruyan ucube yavrularıyla belirirler. Bir banshee'yi öldürebilmek için önce bu bacak kadar veletleri ortadan kaldırmanız gerekir."
+    },
+    {
+      "id": "f52c7c18",
+      "bank_id": "90f39600",
+      "text": "Güç Puanı:"
+    },
+    {
+      "id": "f5805b07",
+      "bank_id": "90f39600",
+      "text": "Daha yeni işlediğiniz o suçtan ötürü pişman mısınız? İnsanların sizi affedip affetmeyeceğini görmek için özür dilemeyi deneyin. Sizden nefret etmiyorlarsa paçayı kurtarmanıza izin verebilirler. Muhafızları çağırmadan önce onları hemencecik ikna etmeniz gerekecektir.\n(Bu ifade bir suç işlediğinizde <dpad.img> üzerinde belirir ve İfade Çarkı üzerinden erişilemez.)"
+    },
+    {
+      "id": "f72b83ea",
+      "bank_id": "90f39600",
+      "text": "Başparmak Yukarı"
+    },
+    {
+      "id": "fadaed9f",
+      "bank_id": "90f39600",
+      "text": "Hediyeler"
+    },
+    {
+      "id": "fbc0e44c",
+      "bank_id": "90f39600",
+      "text": "Albion denizlerine yelken açmış korsanların en gaddarı ve en korkulanı Kaptan Dread idi. Tüm hazinesini gömdüğü adaya insanı ancak efsunlu bir geminin götürebileceği söylenir."
+    },
+    {
+      "id": "fede25ce",
+      "bank_id": "90f39600",
+      "text": "Ün:"
+    }
+  ]
+}

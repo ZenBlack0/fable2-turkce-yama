@@ -1,0 +1,656 @@
+{
+  "bank_id": "70f35202",
+  "total_strings": 130,
+  "strings": [
+    {
+      "id": "1e7304aa",
+      "bank_id": "70f35202",
+      "text": "Oynamama izin ver de suratına yumruk atmayayım."
+    },
+    {
+      "id": "1e7304ab",
+      "bank_id": "70f35202",
+      "text": "Hiç altınım yok ama ciddi bir kumar problemim var. Oynayabilir miyim?"
+    },
+    {
+      "id": "1e7304ac",
+      "bank_id": "70f35202",
+      "text": "Kumarın sadece halkı kontrol etmenin bir yolu olduğunu biliyor muydun?"
+    },
+    {
+      "id": "1e7304ad",
+      "bank_id": "70f35202",
+      "text": "Cebimdeki pamukçuklarla kumar oynayabilir miyim?"
+    },
+    {
+      "id": "1e7304ae",
+      "bank_id": "70f35202",
+      "text": "Bahse girerim sen hiç kaybetmiyorsundur ha? Neyse, yine de deneyebilirim."
+    },
+    {
+      "id": "277312f8",
+      "bank_id": "70f35202",
+      "text": "Bir fikrim var. Sen gözlerini kapatsan ben de kazandığımda sana söylesem nasıl olur?"
+    },
+    {
+      "id": "277312f9",
+      "bank_id": "70f35202",
+      "text": "Kumar oynamak için oyuncak para kullanabilir miyim?"
+    },
+    {
+      "id": "277312fb",
+      "bank_id": "70f35202",
+      "text": "Üç yıl sonra bana biraz altın miras kalacak. Şimdi onunla kumar oynayabilir miyim?"
+    },
+    {
+      "id": "277312fe",
+      "bank_id": "70f35202",
+      "text": "Kazanmama izin ver, sana bir içki ısmarlayayım."
+    },
+    {
+      "id": "277312ff",
+      "bank_id": "70f35202",
+      "text": "Evden bir tür kablo sistemiyle oynayabilir miyim?"
+    },
+    {
+      "id": "31997110",
+      "bank_id": "70f35202",
+      "text": "Bu çekilmez bir durum! Daha romantik bir yere gitmemizi talep ediyorum!"
+    },
+    {
+      "id": "31997111",
+      "bank_id": "70f35202",
+      "text": "Beni sonsuza dek kaybetmek istemiyorsan, romantizm için uygun mekânlar bulmaya daha çok çaba göstersen iyi edersin."
+    },
+    {
+      "id": "31997112",
+      "bank_id": "70f35202",
+      "text": "Sırf sıradan biriyim diye güzel yerlere gitmek istemediğimi mi sanıyorsun? Fena halde yanılıyorsun."
+    },
+    {
+      "id": "31997113",
+      "bank_id": "70f35202",
+      "text": "Beni romantik bir yere götürmeyeceksen benimle konuşma bile."
+    },
+    {
+      "id": "31997114",
+      "bank_id": "70f35202",
+      "text": "Hepsi bu kadar mı yani?! Kesinlikle gidebileceğimiz daha hoş yerler vardır."
+    },
+    {
+      "id": "31997115",
+      "bank_id": "70f35202",
+      "text": "Bu ilişkiyi pek alevli tuttuğun söylenemez. Beni romantik bir yere götür."
+    },
+    {
+      "id": "31997117",
+      "bank_id": "70f35202",
+      "text": "Artık beni sevmiyor olmalısın. Yoksa türlü türlü romantik mekânlara giderdik."
+    },
+    {
+      "id": "33503d20",
+      "bank_id": "70f35202",
+      "text": "Kiran düşmezse gidip çiftlik hayvanlarıyla yaşayacağım."
+    },
+    {
+      "id": "33503d21",
+      "bank_id": "70f35202",
+      "text": "İstediğin bu saçma sapan kira da neyin nesi?! Burası Fairfax Kalesi değil bir kere!"
+    },
+    {
+      "id": "33503d22",
+      "bank_id": "70f35202",
+      "text": "Yani kiraya bu kadar bindirirsen ben köri soslu inci alışkanlığımı nasıl sürdüreceğim?"
+    },
+    {
+      "id": "33503d23",
+      "bank_id": "70f35202",
+      "text": "Bu kira bedelleri resmen soygun!"
+    },
+    {
+      "id": "33503d24",
+      "bank_id": "70f35202",
+      "text": "İstediğin bu kirayla ben nasıl boğazımı doyuracağım?"
+    },
+    {
+      "id": "33503d26",
+      "bank_id": "70f35202",
+      "text": "Biraz insaf be ev sahibi. Kiran çok yüksek, bunu sen de biliyorsun. Ödeyemiyorum!"
+    },
+    {
+      "id": "33503d27",
+      "bank_id": "70f35202",
+      "text": "Bu fahiş kiraları istemeye devam edersen soluğu sokakta alacağım."
+    },
+    {
+      "id": "37bc7e42",
+      "bank_id": "70f35202",
+      "text": "Onun yerine içki yarışına iddiaya girsek nasıl olur?"
+    },
+    {
+      "id": "37bc7e43",
+      "bank_id": "70f35202",
+      "text": "Ayak tırnağı kesikleriyle oynayabilir miyim?"
+    },
+    {
+      "id": "37bc7e44",
+      "bank_id": "70f35202",
+      "text": "Bütün altınlarımı kaybetmeyeceğime söz verirsen oynarım."
+    },
+    {
+      "id": "37bc7e45",
+      "bank_id": "70f35202",
+      "text": "Sadece sonunda zengin olacağım garanti edilirse oynarım. Kulağa adil bir anlaşma gibi geliyor mu?"
+    },
+    {
+      "id": "37bc7e47",
+      "bank_id": "70f35202",
+      "text": "Bahse girmek için ruhumu kullanabilir miyim? Bir şeyler ediyor olmalı."
+    },
+    {
+      "id": "385044c0",
+      "bank_id": "70f35202",
+      "text": "Kira fiyatını indirmezsen yakında bir köprünün altında yaşayacağım."
+    },
+    {
+      "id": "385044c1",
+      "bank_id": "70f35202",
+      "text": "Kiran bizi öldürüyor! Birazcık indiremez misin?"
+    },
+    {
+      "id": "385044c2",
+      "bank_id": "70f35202",
+      "text": "İtiraz etmek istemem ama kira ücretleriniz gerçekten çok pahalı."
+    },
+    {
+      "id": "385044c3",
+      "bank_id": "70f35202",
+      "text": "Bütün hayatım boyunca malikanelerde yaşadım ama kiranız cidden çok yüksek."
+    },
+    {
+      "id": "385044c5",
+      "bank_id": "70f35202",
+      "text": "Kirayı indirmezsen taşınmak zorunda kalacağım."
+    },
+    {
+      "id": "385044c6",
+      "bank_id": "70f35202",
+      "text": "Kirayı zor denkleştiriyorum. Birazcık düşüremez miydin?"
+    },
+    {
+      "id": "385044c7",
+      "bank_id": "70f35202",
+      "text": "Kira fazlasıyla yüksek. Daha fazla ödemeye gücüm yetmeyecek!"
+    },
+    {
+      "id": "38997c18",
+      "bank_id": "70f35202",
+      "text": "Beni neden hiç romantik bir yere götürmüyorsun?"
+    },
+    {
+      "id": "38997c19",
+      "bank_id": "70f35202",
+      "text": "Burası pek romantik bir yer sayılmaz. İyice gına geldi artık."
+    },
+    {
+      "id": "38997c1a",
+      "bank_id": "70f35202",
+      "text": "Değişiklik olsun diye başka bir yere gitsek ölmezdik hani."
+    },
+    {
+      "id": "38997c1c",
+      "bank_id": "70f35202",
+      "text": "Böyle bir ortamda kaldığımız sürece mutlu olmamı mı bekliyorsun? Çok daha hoş bir yere gitmemizin vakti geldi."
+    },
+    {
+      "id": "38997c1d",
+      "bank_id": "70f35202",
+      "text": "Bu ortamdan öyle bıktım ki! Romantizme daha elverişli bir yer bul, yoksa bu ateş tamamen sönecek..."
+    },
+    {
+      "id": "38997c1e",
+      "bank_id": "70f35202",
+      "text": "Hiç güzel bir yere gitmemekten canıma tak etti artık! Hadi ama, bize küçük bir gezi ayarla olmaz mı?"
+    },
+    {
+      "id": "38997c1f",
+      "bank_id": "70f35202",
+      "text": "Ömrümü heba etmeyi bırakıp beni güzel bir yere götürsen nasıl olur?"
+    },
+    {
+      "id": "3ebc8948",
+      "bank_id": "70f35202",
+      "text": "Bana defol deyip demeyeceğine dair iddiaya girebilir miyim?"
+    },
+    {
+      "id": "3ebc8949",
+      "bank_id": "70f35202",
+      "text": "Daha kolay bir oyunun yok mu? Gördüğün gibi inanılmaz derecede aptalım da."
+    },
+    {
+      "id": "3ebc894a",
+      "bank_id": "70f35202",
+      "text": "Bir torba havuçla kumar oynayamam herhalde, değil mi?"
+    },
+    {
+      "id": "3ebc894e",
+      "bank_id": "70f35202",
+      "text": "Bu sefer kazanmama izin verir misin?"
+    },
+    {
+      "id": "3ebc894f",
+      "bank_id": "70f35202",
+      "text": "Bir dahaki sefere borcum olsun mu?"
+    },
+    {
+      "id": "408f5ae8",
+      "bank_id": "70f35202",
+      "text": "Bu zamlı kirayı nasıl ödemem bekleniyor?"
+    },
+    {
+      "id": "408f5ae9",
+      "bank_id": "70f35202",
+      "text": "Bu lanet kirayı kim ödeyebilir ki?"
+    },
+    {
+      "id": "408f5aed",
+      "bank_id": "70f35202",
+      "text": "Bu kiralar düpedüz saçmalık. Burada kalırsam bir günde iflas ederim."
+    },
+    {
+      "id": "408f5aee",
+      "bank_id": "70f35202",
+      "text": "Kira düşmezse yaşayacak daha ucuz bir yer bulmam gerekecek."
+    },
+    {
+      "id": "408f5aef",
+      "bank_id": "70f35202",
+      "text": "Bu kira fiyatları delilik. Yaşayacak daha ucuz bir yer bulmam lazım."
+    },
+    {
+      "id": "4a411320",
+      "bank_id": "70f35202",
+      "text": "Kira fiyatların harika!"
+    },
+    {
+      "id": "4a411321",
+      "bank_id": "70f35202",
+      "text": "Kira tarifelerin mükemmel. Lütfen yükseltme."
+    },
+    {
+      "id": "4a411322",
+      "bank_id": "70f35202",
+      "text": "Bu eve bayılıyorum. Çoğunlukla aldığın düşük kira yüzünden tabii..."
+    },
+    {
+      "id": "4a411324",
+      "bank_id": "70f35202",
+      "text": "Şu anki yüksek kira zihniyetine uymadığını görmek beni çok sevindirdi."
+    },
+    {
+      "id": "4a411325",
+      "bank_id": "70f35202",
+      "text": "Buradaki kira ücretleri gayet hakkaniyetli."
+    },
+    {
+      "id": "4a411326",
+      "bank_id": "70f35202",
+      "text": "Sakın kirayı artırma, şu an tam kıvamında. Mis gibi düşük!"
+    },
+    {
+      "id": "4a411327",
+      "bank_id": "70f35202",
+      "text": "Eskiden dibi delik bir kovada yaşardım ama buranın kirası ondan bile ucuz!"
+    },
+    {
+      "id": "4b8f6c18",
+      "bank_id": "70f35202",
+      "text": "Bu kira fiyatları saçmalık. Taşınmam lazım."
+    },
+    {
+      "id": "4b8f6c19",
+      "bank_id": "70f35202",
+      "text": "Kiram çok yüksek. Taşınmak zorunda kalacağım."
+    },
+    {
+      "id": "4b8f6c1c",
+      "bank_id": "70f35202",
+      "text": "Kira düşmezse yaşayacak daha ucuz bir yer bulmam gerekecek."
+    },
+    {
+      "id": "4b8f6c1e",
+      "bank_id": "70f35202",
+      "text": "Buranın kirası çok pahalı. Zar zor denkleştiriyorum."
+    },
+    {
+      "id": "4b8f6c1f",
+      "bank_id": "70f35202",
+      "text": "Kira düşmezse yaşayacak daha ucuz bir yer bulmam gerekecek."
+    },
+    {
+      "id": "53412108",
+      "bank_id": "70f35202",
+      "text": "Uygun kira ücretlerinizden son derece memnunum."
+    },
+    {
+      "id": "53412109",
+      "bank_id": "70f35202",
+      "text": "Bu ucuz kira tarifeleri sayesinde günde iki kez ejderha sütünde banyo yapabiliyorum!"
+    },
+    {
+      "id": "5341210a",
+      "bank_id": "70f35202",
+      "text": "Düşük kiran sayesinde buradan hiç taşınmak zorunda kalmayacağım."
+    },
+    {
+      "id": "5341210b",
+      "bank_id": "70f35202",
+      "text": "Eskiden dibi delik bir kovada yaşardım ama buranın kirası ondan bile ucuz!"
+    },
+    {
+      "id": "5341210c",
+      "bank_id": "70f35202",
+      "text": "Kira tarifelerine bayılıyorum! Sonsuza kadar burada kalacağım."
+    },
+    {
+      "id": "5341210d",
+      "bank_id": "70f35202",
+      "text": "Kasabadaki bütün ev sahipleri arasında en iyi tarife sende!"
+    },
+    {
+      "id": "5341210f",
+      "bank_id": "70f35202",
+      "text": "Harika bir ev sahibisin! Kira fiyatların en iyisi!"
+    },
+    {
+      "id": "952ee6ca",
+      "bank_id": "70f35202",
+      "text": "Bak ne diyeceğim. Kafayı zilzurna bulayım, sonra oynarım. Tamam mı?"
+    },
+    {
+      "id": "952ee6cb",
+      "bank_id": "70f35202",
+      "text": "Hiç kutu oyunun yok mu?"
+    },
+    {
+      "id": "952ee6cc",
+      "bank_id": "70f35202",
+      "text": "Ne eğlenceli olurdu biliyor musun? Başlamam için bana avans olarak birkaç deste altın versen."
+    },
+    {
+      "id": "952ee6cd",
+      "bank_id": "70f35202",
+      "text": "Hile yapsam bir sakıncası olur mu?"
+    },
+    {
+      "id": "952ee6ce",
+      "bank_id": "70f35202",
+      "text": "Oyunu kazanması biraz daha kolay hale getirsen nasıl olur? Sırf benim için..."
+    },
+    {
+      "id": "9e2ef518",
+      "bank_id": "70f35202",
+      "text": "Hızlı bir oyun için küçük erkek kardeşimi takas edebilir miyim?"
+    },
+    {
+      "id": "9e2ef519",
+      "bank_id": "70f35202",
+      "text": "Ruhumla kumar oynayabilir miyim? En az üç altın sikke eder."
+    },
+    {
+      "id": "9e2ef51b",
+      "bank_id": "70f35202",
+      "text": "Birkaç kumar fişi karşılığında rol yapma kitabı takas edebilir miyim?"
+    },
+    {
+      "id": "9e2ef51e",
+      "bank_id": "70f35202",
+      "text": "Ya hep ya hiç, hadi ama. Bu sefer kaybedersem bir yıllığına uşağın olurum."
+    },
+    {
+      "id": "9e2ef51f",
+      "bank_id": "70f35202",
+      "text": "Birkaç kumar fişine altın dişimi takas ederim."
+    },
+    {
+      "id": "d70c1530",
+      "bank_id": "70f35202",
+      "text": "Kiraya verecek bir eve paranın yetmesi ne güzel olsa gerek."
+    },
+    {
+      "id": "d70c1531",
+      "bank_id": "70f35202",
+      "text": "Benim yerim gayet uygun aslında. Beterlerini de kiraladım."
+    },
+    {
+      "id": "d70c1533",
+      "bank_id": "70f35202",
+      "text": "Kiraya verecek bir eve paranın yetmesi ne güzel olsa gerek."
+    },
+    {
+      "id": "e182215a",
+      "bank_id": "70f35202",
+      "text": "Beni neden hiç romantik bir yere götürmüyorsun?"
+    },
+    {
+      "id": "e182215c",
+      "bank_id": "70f35202",
+      "text": "Hiç güzel bir yere gitmemekten canıma tak etti artık! Hadi ama, bize küçük bir gezi ayarla olmaz mı?"
+    },
+    {
+      "id": "e182215d",
+      "bank_id": "70f35202",
+      "text": "Ömrümü heba etmeyi bırakıp beni güzel bir yere götürsen nasıl olur?"
+    },
+    {
+      "id": "e182215e",
+      "bank_id": "70f35202",
+      "text": "Böyle bir ortamda kaldığımız sürece mutlu olmamı mı bekliyorsun? Çok daha hoş bir yere gitmemizin vakti geldi."
+    },
+    {
+      "id": "e182215f",
+      "bank_id": "70f35202",
+      "text": "Bu ortamdan öyle bıktım ki! Romantizme daha elverişli bir yer bul, yoksa bu ateş tamamen sönecek..."
+    },
+    {
+      "id": "e6a8a4b0",
+      "bank_id": "70f35202",
+      "text": "Burada yaşamaya bayılıyorum. Kira fiyatları çok düşük!"
+    },
+    {
+      "id": "e6a8a4b1",
+      "bank_id": "70f35202",
+      "text": "Kiran açık ara en uygunu!"
+    },
+    {
+      "id": "e6a8a4b2",
+      "bank_id": "70f35202",
+      "text": "Kiran açık ara en uygunu!"
+    },
+    {
+      "id": "e6a8a4b6",
+      "bank_id": "70f35202",
+      "text": "Bu kira fiyatlarına bayılıyorum. Bunun üstüne yok!"
+    },
+    {
+      "id": "e6a8a4b7",
+      "bank_id": "70f35202",
+      "text": "Benim evin kirasının üstüne yoktur. Öyle ucuz ki!"
+    },
+    {
+      "id": "e8ea17d8",
+      "bank_id": "70f35202",
+      "text": "Kuralları bana anlatabilir misin?"
+    },
+    {
+      "id": "e8ea17da",
+      "bank_id": "70f35202",
+      "text": "Sanırım seni iflas ettirecek bir sistem çözdüm. Oynayabilir miyim?"
+    },
+    {
+      "id": "e8ea17db",
+      "bank_id": "70f35202",
+      "text": "Çıplak oynasak daha eğlenceli olmaz mıydı?"
+    },
+    {
+      "id": "e8ea17dc",
+      "bank_id": "70f35202",
+      "text": "Zilzurna sarhoş olayım, sonra kumar oynamaya hazırım, tamam mı?"
+    },
+    {
+      "id": "e8ea17dd",
+      "bank_id": "70f35202",
+      "text": "Dün gece 3 dişimi kaybettim. Onlarla bahse girebilir miyim?"
+    },
+    {
+      "id": "e91a16b8",
+      "bank_id": "70f35202",
+      "text": "Dün gece birkaç dişimi kaybettim. Onlarla kumar oynayabilir miyim?"
+    },
+    {
+      "id": "e91a16b9",
+      "bank_id": "70f35202",
+      "text": "Masanda muşta kazanılabildiğini duydum. Yok mu? Palyaço peleti peki?"
+    },
+    {
+      "id": "e91a16bd",
+      "bank_id": "70f35202",
+      "text": "Oynarsam biraz palyaço peleti kazanabilir miyim?"
+    },
+    {
+      "id": "e91a16be",
+      "bank_id": "70f35202",
+      "text": "Huysuzlar ve testiler oyunu oynayabilir miyiz?"
+    },
+    {
+      "id": "e91a16bf",
+      "bank_id": "70f35202",
+      "text": "Çıplak oynasam olur mu? Yani tamamen çırılçıplak."
+    },
+    {
+      "id": "edea1ff9",
+      "bank_id": "70f35202",
+      "text": "Oynamama izin verirsen sana bir kupa bira ısmarlarım."
+    },
+    {
+      "id": "edea1ffa",
+      "bank_id": "70f35202",
+      "text": "Kazanmama izin verirsen sana yaban mersinli turta veririm."
+    },
+    {
+      "id": "edea1ffb",
+      "bank_id": "70f35202",
+      "text": "Veresiye oynamama izin verirsen sana bir şarkı söylerim."
+    },
+    {
+      "id": "edea1ffc",
+      "bank_id": "70f35202",
+      "text": "Hadi ama, oynamama izin ver. Evde borcumu ödeyebileceğim eşyalarım var."
+    },
+    {
+      "id": "edea1ffd",
+      "bank_id": "70f35202",
+      "text": "Kumar fişleri karşılığında birkaç tutam saç verebilir miyim?"
+    },
+    {
+      "id": "ee898ae8",
+      "bank_id": "70f35202",
+      "text": "Hadi ama, oynamama izin ver. Bu sefer uslu duracağıma söz veriyorum."
+    },
+    {
+      "id": "ee898ae9",
+      "bank_id": "70f35202",
+      "text": "Hadi ama, kumar oynamam lazım. Bir daha kafana masa fırlatmayacağım. Cidden."
+    },
+    {
+      "id": "ee898aed",
+      "bank_id": "70f35202",
+      "text": "Bütün altınları nerede tutuyorsun peki? Görebilir miyim?"
+    },
+    {
+      "id": "ee898aee",
+      "bank_id": "70f35202",
+      "text": "Bana oynamayı yasakladığını biliyorum ama değiştim ben. Söz veriyorum!"
+    },
+    {
+      "id": "ee898aef",
+      "bank_id": "70f35202",
+      "text": "Oynamama izin ver de kimseye kadın iç çamaşırı giydiğini söylemeyeyim."
+    },
+    {
+      "id": "efa8b29a",
+      "bank_id": "70f35202",
+      "text": "Benim evin kirasının üstüne yoktur. Acayip düşük!"
+    },
+    {
+      "id": "efa8b29b",
+      "bank_id": "70f35202",
+      "text": "Umarım kiralar hiç değişmez. Öyle düşük ki her gece içmeye param yetiyor."
+    },
+    {
+      "id": "efa8b29c",
+      "bank_id": "70f35202",
+      "text": "Senden daha iyi bir ev sahibi yok! Kira fiyatlarına bayılıyorum!"
+    },
+    {
+      "id": "efa8b29d",
+      "bank_id": "70f35202",
+      "text": "Bu kadar ucuz bir yerde yaşayacağımı hiç düşünmezdim. Harika bir şey."
+    },
+    {
+      "id": "efa8b29f",
+      "bank_id": "70f35202",
+      "text": "Bütün dünyada senden daha iyi bir ev sahibi bulabileceğimi hiç sanmıyorum."
+    },
+    {
+      "id": "f41a27e8",
+      "bank_id": "70f35202",
+      "text": "Sana borcum olduğunu biliyorum ama yine de oynamama izin verebilirsin, değil mi?"
+    },
+    {
+      "id": "f41a27e9",
+      "bank_id": "70f35202",
+      "text": "Eski düğmelerle oynayabilir miyim?"
+    },
+    {
+      "id": "f41a27ec",
+      "bank_id": "70f35202",
+      "text": "Hiç param olmasa da oynayabilir miyim?"
+    },
+    {
+      "id": "f41a27ee",
+      "bank_id": "70f35202",
+      "text": "Ödül olarak hâlâ o titreşimli tavşanlardan veriyor musun?"
+    },
+    {
+      "id": "f41a27ef",
+      "bank_id": "70f35202",
+      "text": "Muhafızların geçen hafta dolandırıcılıktan tutukladığı kişi sen değil misin?"
+    },
+    {
+      "id": "f9899c18",
+      "bank_id": "70f35202",
+      "text": "Senin için bir şarkı söyleyip dans etsem kumar oynamama izin verir misin?"
+    },
+    {
+      "id": "f9899c19",
+      "bank_id": "70f35202",
+      "text": "Dart oyunu başlatmalısın. Ne dersin?"
+    },
+    {
+      "id": "f9899c1c",
+      "bank_id": "70f35202",
+      "text": "Onun yerine pire oyunu oynasak nasıl olur?"
+    },
+    {
+      "id": "f9899c1e",
+      "bank_id": "70f35202",
+      "text": "Kaybedince masanın patladığı şu oyunlardan getirmelisin."
+    },
+    {
+      "id": "f9899c1f",
+      "bank_id": "70f35202",
+      "text": "İşi ilginçleştirelim. Ben kazanırsam uçurumdan atlamak zorundasın."
+    }
+  ]
+}

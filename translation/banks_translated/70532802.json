@@ -1,0 +1,631 @@
+{
+  "bank_id": "70532802",
+  "total_strings": 125,
+  "strings": [
+    {
+      "id": "016524b3",
+      "bank_id": "70532802",
+      "text": "Bir hobbe bile o kıyafetlerle ölü bulunmak istemez. Al, kendine yeni giysiler edin."
+    },
+    {
+      "id": "016524b4",
+      "bank_id": "70532802",
+      "text": "Yeni bir dona ihtiyacın var. Nereden bildiğimi sorma."
+    },
+    {
+      "id": "016524b5",
+      "bank_id": "70532802",
+      "text": "Aman yarabbim, tam bir moda felaketisin. Baştan aşağı yeni bir kıyafete ihtiyacın var."
+    },
+    {
+      "id": "016524b6",
+      "bank_id": "70532802",
+      "text": "Kendi kendine mi giyindin? Bir daha yapma sakın."
+    },
+    {
+      "id": "1db0b6c1",
+      "bank_id": "70532802",
+      "text": "Üstlerimizden birinin hoşuna gidip gitmediğine baksana bir?"
+    },
+    {
+      "id": "1db0b6c4",
+      "bank_id": "70532802",
+      "text": "Eldiven çeşitlerimizi denemeye ne dersin?"
+    },
+    {
+      "id": "1db0b6c6",
+      "bank_id": "70532802",
+      "text": "Daha yeni harika ayakkabılar geldi."
+    },
+    {
+      "id": "1db0b6c7",
+      "bank_id": "70532802",
+      "text": "Ah, sorununun ne olduğunu anladım. Seni kör annen giydirdi, değil mi? Bu konuda yardımcı olabilirim."
+    },
+    {
+      "id": "22b0bee0",
+      "bank_id": "70532802",
+      "text": "İhtiyacın olan şey güzel, sıcak bir palto."
+    },
+    {
+      "id": "22b0bee5",
+      "bank_id": "70532802",
+      "text": "Tüm kıyafetlerini senin için boyayabilirim. Kulağa nasıl geliyor?"
+    },
+    {
+      "id": "22b0bee6",
+      "bank_id": "70532802",
+      "text": "Bu hayatımda gördüğüm en cırtlak kıyafet. İhtiyacın olan şey daha fazla fuşya. Bu sezonun rengi o."
+    },
+    {
+      "id": "22b0bee7",
+      "bank_id": "70532802",
+      "text": "Çan şeklinde bir şeyler denemek ister misin?"
+    },
+    {
+      "id": "240f6ce0",
+      "bank_id": "70532802",
+      "text": "Sana yakışacak tek bir şey var. Daha fazla saç!"
+    },
+    {
+      "id": "240f6ce1",
+      "bank_id": "70532802",
+      "text": "Favori bırakmayı hiç düşündün mü?"
+    },
+    {
+      "id": "240f6ce3",
+      "bank_id": "70532802",
+      "text": "Saçların ölmüş de mezarından sürünerek çıkmış gibi duruyor. İzin ver de düzelteyim şunu."
+    },
+    {
+      "id": "240f6ce6",
+      "bank_id": "70532802",
+      "text": "Biraz kıllı görünüyorsun. Ağda ister misin?"
+    },
+    {
+      "id": "25714aa1",
+      "bank_id": "70532802",
+      "text": "Bütün yüzünü makyaja boğabilirim, kulağa nasıl geliyor?"
+    },
+    {
+      "id": "25714aa2",
+      "bank_id": "70532802",
+      "text": "Dur tahmin edeyim! Hobbe pisliğinden yapılmış bir peruk takıyorsun ve benden bundan biraz daha iyi bir şey istiyorsun. Haklı mıyım?"
+    },
+    {
+      "id": "25714aa3",
+      "bank_id": "70532802",
+      "text": "Sana ne yakışır biliyor musun? Güzel bir sıfır numara tıraş."
+    },
+    {
+      "id": "25714aa4",
+      "bank_id": "70532802",
+      "text": "Kafanda bir sıçan ölmüş gibi duruyor. Güzel bir saç kesimi ister misin?"
+    },
+    {
+      "id": "2b0f77e3",
+      "bank_id": "70532802",
+      "text": "Kirli sakalla muhteşem görünürdün."
+    },
+    {
+      "id": "2b0f77e4",
+      "bank_id": "70532802",
+      "text": "Bıyığın yoksa bir hiçsin demektir."
+    },
+    {
+      "id": "2b0f77e5",
+      "bank_id": "70532802",
+      "text": "Belki şu kaşların için bir şeyler yapabiliriz. Mesela bir kılıçla budamak gibi."
+    },
+    {
+      "id": "2b0f77e6",
+      "bank_id": "70532802",
+      "text": "Şu burun kıllarını aldırmayı düşündün mü hiç?"
+    },
+    {
+      "id": "30715bd0",
+      "bank_id": "70532802",
+      "text": "Bence iki yandan örgülü saç sana çok yakışır."
+    },
+    {
+      "id": "30715bd2",
+      "bank_id": "70532802",
+      "text": "Güzel, kocaman favorilere ne dersin?"
+    },
+    {
+      "id": "30715bd3",
+      "bank_id": "70532802",
+      "text": "Ah, söylememe izin verirsen heybetli bir bıyık sende harika dururdu. Çeşitlerim hem erkeklere hem kadınlara çok yakışıyor."
+    },
+    {
+      "id": "30715bd5",
+      "bank_id": "70532802",
+      "text": "Pala bıyığa ne dersin peki?"
+    },
+    {
+      "id": "3cecc0b0",
+      "bank_id": "70532802",
+      "text": "Ne kadar çok harcarsan o kadar kaliteli mallar stoklayabilirim."
+    },
+    {
+      "id": "3cecc0b3",
+      "bank_id": "70532802",
+      "text": "Çok altın harcarsan daha fazla malzeme alabilirim. O yüzden hadi ama, harca!"
+    },
+    {
+      "id": "3db7eac1",
+      "bank_id": "70532802",
+      "text": "Birkaç kova makyajla yüzünü zar zor kurtarabilirim sanırım."
+    },
+    {
+      "id": "3db7eac4",
+      "bank_id": "70532802",
+      "text": "Bütün tırnaklarını farklı bir renge boyamamı ister misin?"
+    },
+    {
+      "id": "3db7eac6",
+      "bank_id": "70532802",
+      "text": "Sanırım şu kırışıklıkları kapatacak tam doğru makyaj bende var."
+    },
+    {
+      "id": "3db7eac7",
+      "bank_id": "70532802",
+      "text": "Etrafta öyle görünerek dolaşmak bir yük olmalı. İzin ver o yükü üzerinden alıp yerine güzellik koyayım."
+    },
+    {
+      "id": "42b7f2e0",
+      "bank_id": "70532802",
+      "text": "İhtiyacın olan şey sıfır numara kafa. Yıkamaya bile gerek kalmaz, anladın mı?"
+    },
+    {
+      "id": "42b7f2e5",
+      "bank_id": "70532802",
+      "text": "İhtiyacın olan şey gür bir sakal bıyık."
+    },
+    {
+      "id": "42b7f2e6",
+      "bank_id": "70532802",
+      "text": "Hmm, belki yüzünü başka birine benzeyecek şekilde boyarsak sosyal hayatını kurtarabiliriz."
+    },
+    {
+      "id": "42b7f2e7",
+      "bank_id": "70532802",
+      "text": "Biliyor musun, bence at kuyruğu sende harika dururdu."
+    },
+    {
+      "id": "4a13ba90",
+      "bank_id": "70532802",
+      "text": "Çok narin ellerim vardır, o yüzden istediğin her yerine dövme yapabilirim. Neresi olursa."
+    },
+    {
+      "id": "4a13ba95",
+      "bank_id": "70532802",
+      "text": "Şey, 'güve' dövmelerimiz çok popülerdir."
+    },
+    {
+      "id": "4a13ba96",
+      "bank_id": "70532802",
+      "text": "İlgilenirsen çıplak, dans eden bir hobbe dövmemiz var."
+    },
+    {
+      "id": "4a13ba97",
+      "bank_id": "70532802",
+      "text": "Trol dövmelerim çok popülerdir."
+    },
+    {
+      "id": "4b3f37d1",
+      "bank_id": "70532802",
+      "text": "O kıyafetlerin modası geçmiş. Sana bu sezonun modasını göstereyim."
+    },
+    {
+      "id": "4b3f37d4",
+      "bank_id": "70532802",
+      "text": "İstediğin şey güzel, fırfırlı bir gömlek."
+    },
+    {
+      "id": "4b3f37d6",
+      "bank_id": "70532802",
+      "text": "En son balverine kılından kazaklarımızı gördün mü hiç?"
+    },
+    {
+      "id": "4b3f37d7",
+      "bank_id": "70532802",
+      "text": "Hayır, hayır, hayır! İnsan içine o kıyafetlerle çıkamazsın! Ne düşünüyordun ki?"
+    },
+    {
+      "id": "503f3ff0",
+      "bank_id": "70532802",
+      "text": "Sende pek fiyakalı duracak bir sandık dolusu gömlek geldi az önce."
+    },
+    {
+      "id": "503f3ff5",
+      "bank_id": "70532802",
+      "text": "İhtiyacın olan şey özel paltolarımızdan biri."
+    },
+    {
+      "id": "503f3ff6",
+      "bank_id": "70532802",
+      "text": "Sende harika duracak bir ceketim var. Hmm, belki de durmaz."
+    },
+    {
+      "id": "503f3ff7",
+      "bank_id": "70532802",
+      "text": "Belki kaliteli deri eldivenlerimiz ilgini çeker?"
+    },
+    {
+      "id": "64b09610",
+      "bank_id": "70532802",
+      "text": "Kasabanın dörtte üçüne gölge düşürecek bir şapkaya ne dersin?"
+    },
+    {
+      "id": "64b09611",
+      "bank_id": "70532802",
+      "text": "Ah, anladım, berduşlardan kıyafet çalmaktan bıktın demek? Evet, sanırım aradığın şey bizde var."
+    },
+    {
+      "id": "64b09612",
+      "bank_id": "70532802",
+      "text": "Biliyor musun, mini şortla harika görünürdün bence."
+    },
+    {
+      "id": "64b09617",
+      "bank_id": "70532802",
+      "text": "Dikenli çorap çeşitlerimi görmek ister misin?"
+    },
+    {
+      "id": "68c2539a",
+      "bank_id": "70532802",
+      "text": "Kötücül bir şeye ne dersin? Çok fena bir kelebek dövmesi yaparım."
+    },
+    {
+      "id": "68c2539c",
+      "bank_id": "70532802",
+      "text": "Dörtnala koşan iki at dövmesine ne dersin? Üç? Dört koşan at, son teklifim bu."
+    },
+    {
+      "id": "68c2539d",
+      "bank_id": "70532802",
+      "text": "Bugün Bloodstone tarzı dövmelerde özel bir indirimim var."
+    },
+    {
+      "id": "68c2539f",
+      "bank_id": "70532802",
+      "text": "Omuz dövmeleri şu sıralar çok revaçta."
+    },
+    {
+      "id": "6db0a47a",
+      "bank_id": "70532802",
+      "text": "Son model şapka teknolojisini kuşanmadan oraya çıkmayı ciddi ciddi düşünmüyorsun herhalde?"
+    },
+    {
+      "id": "6db0a47c",
+      "bank_id": "70532802",
+      "text": "Şu düğmeler fırlayıp birinin gözünü çıkaracak neredeyse. Sana birkaç beden büyüğünü göstereyim."
+    },
+    {
+      "id": "6db0a47d",
+      "bank_id": "70532802",
+      "text": "Güzel, fırfırlı bir gömleğe ne dersin?"
+    },
+    {
+      "id": "6db0a47f",
+      "bank_id": "70532802",
+      "text": "Tipine bakılırsa baştan aşağı yeni bir gardırop öneririm."
+    },
+    {
+      "id": "744212a0",
+      "bank_id": "70532802",
+      "text": "Neye ihtiyacın var biliyor musun? Yüz dövmesine! Çirkinler arasında çok popülerdir."
+    },
+    {
+      "id": "744212a1",
+      "bank_id": "70532802",
+      "text": "Yüzüne on farklı renkte dövme yapabilirim."
+    },
+    {
+      "id": "744212a3",
+      "bank_id": "70532802",
+      "text": "İhtiyacın olan şey pahalı mürekkeplerle yapılmış destansı bir sahne dövmesi."
+    },
+    {
+      "id": "744212a6",
+      "bank_id": "70532802",
+      "text": "Güven bana, bir dövmeye ihtiyacın var. Yoksa dışarıdaki diğer tüm aptallardan nasıl ayırt edileceksin?"
+    },
+    {
+      "id": "77889d40",
+      "bank_id": "70532802",
+      "text": "Hmm, bir tıraş sana gerçekten iyi gelirdi. Şu üst dudağına baksana bir."
+    },
+    {
+      "id": "77889d41",
+      "bank_id": "70532802",
+      "text": "Aman yarabbim, saçına ne oldu böyle? Artık kazımaktan başka yapabileceğimiz hiçbir şey kalmamış."
+    },
+    {
+      "id": "77889d42",
+      "bank_id": "70532802",
+      "text": "Vücudunun her yerine ağda yapabilirim. Hem de sadece çok ama çok acıtır."
+    },
+    {
+      "id": "77889d47",
+      "bank_id": "70532802",
+      "text": "Şu kaşlarını senin için boyamamı ister misin?"
+    },
+    {
+      "id": "8088abaa",
+      "bank_id": "70532802",
+      "text": "O saçla mucizeler yaratabilirim. Mesela ıslak bir sıçandan sökülmemiş gibi görünmesini sağlayabilirim."
+    },
+    {
+      "id": "8088abac",
+      "bank_id": "70532802",
+      "text": "Ah, baştan aşağı bir değişime ihtiyacın var. Önce yüzünü sökerek başlayalım mı?"
+    },
+    {
+      "id": "8088abad",
+      "bank_id": "70532802",
+      "text": "Sana tıpkı benimki gibi bir saç modeli yapabilirim."
+    },
+    {
+      "id": "8088abaf",
+      "bank_id": "70532802",
+      "text": "Güzel bir çift favoriye ne dersin?"
+    },
+    {
+      "id": "9afbf5b0",
+      "bank_id": "70532802",
+      "text": "Bence ihtiyacın olan şey şu sıradan vücudunu gizlemeye çalışacak büyük bir palto."
+    },
+    {
+      "id": "9afbf5b1",
+      "bank_id": "70532802",
+      "text": "Yok, dur söyleme. Yeni bir şapka istiyorsun, değil mi? Şu kocaman kafana bakarak bile anlayabiliyorum."
+    },
+    {
+      "id": "9afbf5b2",
+      "bank_id": "70532802",
+      "text": "Böyle giyinik halde dışarı çıkamazsın. Benim bez çuvallardan biri bile daha iyi dururdu."
+    },
+    {
+      "id": "9afbf5b7",
+      "bank_id": "70532802",
+      "text": "Gerçekten ihtiyacın olan şey el dikimi paltolarımızdan biri."
+    },
+    {
+      "id": "a3fc039a",
+      "bank_id": "70532802",
+      "text": "Şu yağ katmanlarını saklayacak tam aradığın şey bende var."
+    },
+    {
+      "id": "a3fc039c",
+      "bank_id": "70532802",
+      "text": "Sana o kıyafetler içinde ne kadar alımlı göründüğünü söyleyen oldu mu hiç? Tabii ki olmadı. Kıyafetini ben seçeyim."
+    },
+    {
+      "id": "a3fc039d",
+      "bank_id": "70532802",
+      "text": "Samarkand'ın ipek fabrikalarından yeni çıkmış yepyeni iç çamaşırlarım var."
+    },
+    {
+      "id": "a3fc039f",
+      "bank_id": "70532802",
+      "text": "O kıyafetler sana hiç uymamış. Neden benim Westcliff serimi denemiyorsun?"
+    },
+    {
+      "id": "aaf67cb8",
+      "bank_id": "70532802",
+      "text": "Lens takmayı denedin mi hiç? Seni on yaş daha genç gösterir."
+    },
+    {
+      "id": "aaf67cba",
+      "bank_id": "70532802",
+      "text": "Seni on yaş daha genç gösterecek yeni spor kıyafetlerim var."
+    },
+    {
+      "id": "aaf67cbb",
+      "bank_id": "70532802",
+      "text": "Şu bel kısmı epey dar görünüyor. Daha büyük bir şeye ihtiyacın var, değil mi?"
+    },
+    {
+      "id": "aaf67cbd",
+      "bank_id": "70532802",
+      "text": "Karanlıkta parlayan donlarımı görmek ister misin?"
+    },
+    {
+      "id": "aff68459",
+      "bank_id": "70532802",
+      "text": "Bence güzel, koyu renkli bir gömlek sana çok yakışır."
+    },
+    {
+      "id": "aff6845a",
+      "bank_id": "70532802",
+      "text": "O üstle ölü halde bile görülmemelisin. Bunu düzeltebilirim. Seni öldürmeden tabii."
+    },
+    {
+      "id": "aff6845b",
+      "bank_id": "70532802",
+      "text": "Güzel bir şapka ilgini çeker mi?"
+    },
+    {
+      "id": "aff6845c",
+      "bank_id": "70532802",
+      "text": "Stokta harika çizmelerim var. Arabanın arkasından düşüvermiş."
+    },
+    {
+      "id": "bbf1e471",
+      "bank_id": "70532802",
+      "text": "Hmm, zor mesele. Vücudunu çöpe atıp baştan başlamak daha kolay olabilir."
+    },
+    {
+      "id": "bbf1e474",
+      "bank_id": "70532802",
+      "text": "Bütün vücudunu tıraş etmeyi hiç düşündün mü?"
+    },
+    {
+      "id": "bbf1e476",
+      "bank_id": "70532802",
+      "text": "Başlangıç olarak kafandaki o berbat dağınıklığı kazıyabilirim."
+    },
+    {
+      "id": "bbf1e477",
+      "bank_id": "70532802",
+      "text": "Şey, yüz nakli pek yapmıyorum aslında. Ama seninkinden kurtulmak istersen çok keskin bir bıçağım var."
+    },
+    {
+      "id": "c0f1ec10",
+      "bank_id": "70532802",
+      "text": "Saçını Westcliff tarzı yapmamı ister misin?"
+    },
+    {
+      "id": "c0f1ec15",
+      "bank_id": "70532802",
+      "text": "Yana taranmış saç sana gerçekten benzersiz bir hava katardı."
+    },
+    {
+      "id": "c0f1ec16",
+      "bank_id": "70532802",
+      "text": "Saç rengini değiştirerek başlayabiliriz. Kafanı bir kova kusmuğa sokmuşsun gibi duruyor."
+    },
+    {
+      "id": "c0f1ec17",
+      "bank_id": "70532802",
+      "text": "Kaşlarını boyamamı ister misin? Belki güzel bir turuncu tonu?"
+    },
+    {
+      "id": "c5b0b280",
+      "bank_id": "70532802",
+      "text": "Kendi teninin bir dövmesine ne dersin? Neredeyse hiç fark edilmez."
+    },
+    {
+      "id": "c5b0b282",
+      "bank_id": "70532802",
+      "text": "Burada olduğuna göre bir dövme istiyor olmalısın, değil mi?"
+    },
+    {
+      "id": "c5b0b283",
+      "bank_id": "70532802",
+      "text": "En yeni dövmelerimizi görmek ister misin?"
+    },
+    {
+      "id": "c5b0b285",
+      "bank_id": "70532802",
+      "text": "Herkes şu yeni Kule dövmelerinden yaptırıyor. İster misin bir tane?"
+    },
+    {
+      "id": "df02bbf0",
+      "bank_id": "70532802",
+      "text": "Sana ne yakışır biliyor musun, bir at kuyruğu!"
+    },
+    {
+      "id": "df02bbf1",
+      "bank_id": "70532802",
+      "text": "Birazcık makyaj şu kırışıklıkları çok güzel kapatır."
+    },
+    {
+      "id": "df02bbf3",
+      "bank_id": "70532802",
+      "text": "Gerçekten baştan aşağı bir değişime ihtiyacın var."
+    },
+    {
+      "id": "df02bbf6",
+      "bank_id": "70532802",
+      "text": "Kabarık bir saç modelini hiç düşündün mü?"
+    },
+    {
+      "id": "e602c6f3",
+      "bank_id": "70532802",
+      "text": "O senin doğal saç rengin değil, değil mi? Vah vah. İzin ver de düzelteyim şunu."
+    },
+    {
+      "id": "e602c6f4",
+      "bank_id": "70532802",
+      "text": "Sana bir sakal verelim mi?"
+    },
+    {
+      "id": "e602c6f5",
+      "bank_id": "70532802",
+      "text": "Ekstra gür favorilere ne dersin peki?"
+    },
+    {
+      "id": "e602c6f6",
+      "bank_id": "70532802",
+      "text": "Şu elmacık kemiklerini ortaya çıkaracak tam aradığın bıyık bende var."
+    },
+    {
+      "id": "ed7e23b8",
+      "bank_id": "70532802",
+      "text": "Özel indirimleri yalnızca gerçekten sevdiğim insanlara yaparım."
+    },
+    {
+      "id": "ed7e23ba",
+      "bank_id": "70532802",
+      "text": "İndirim yaptığım bilinir. Doğru müşterilere en azından."
+    },
+    {
+      "id": "ed7e23bb",
+      "bank_id": "70532802",
+      "text": "Biz dükkâncılar özel müşterilere özel indirimler yapmayı severiz."
+    },
+    {
+      "id": "ed7e23bc",
+      "bank_id": "70532802",
+      "text": "Arada bir indirime girerim. Kontrol etmeye değer her zaman."
+    },
+    {
+      "id": "ed7e23bd",
+      "bank_id": "70532802",
+      "text": "Arada bir bir dosta indirim yaparım. Ama herkese söyleme sakın."
+    },
+    {
+      "id": "f27e2b59",
+      "bank_id": "70532802",
+      "text": "Dükkânımı kontrol etmeye devam etmelisin. Ne zaman indirime gireceğimi asla bilemezsin."
+    },
+    {
+      "id": "f27e2b5a",
+      "bank_id": "70532802",
+      "text": "İndirimlere dikkat et. Gerçek bir kelepir yakalayabilirsin."
+    },
+    {
+      "id": "f27e2b5b",
+      "bank_id": "70532802",
+      "text": "Yolculuklarında herhangi bir eşya bulursan mutlaka bana göster. Satın almak ilgimi çekebilir."
+    },
+    {
+      "id": "f27e2b5c",
+      "bank_id": "70532802",
+      "text": "Ne zaman indirime gireceğimi asla bilemezsin."
+    },
+    {
+      "id": "f27e2b5d",
+      "bank_id": "70532802",
+      "text": "Gelecekte bazı eşyaları indirime sokabilirim."
+    },
+    {
+      "id": "f9fc6ad3",
+      "bank_id": "70532802",
+      "text": "Ah, bir şişe mürekkep ve şu tenle yarım saatte neler yapabilirdim neler."
+    },
+    {
+      "id": "f9fc6ad4",
+      "bank_id": "70532802",
+      "text": "Gözüme bir gelenekçi gibi göründün. Çok güzel bir kadına dolanmış bir yılan dövmesi ister misin?"
+    },
+    {
+      "id": "f9fc6ad5",
+      "bank_id": "70532802",
+      "text": "Tenin resmen dövme yapılmak için yalvarıyor. Daha ne kadar böyle acı çekmesine izin vereceksin?"
+    },
+    {
+      "id": "f9fc6ad6",
+      "bank_id": "70532802",
+      "text": "Vücudunu bir sanat eserine dönüştürebilirim."
+    },
+    {
+      "id": "fa6519b6",
+      "bank_id": "70532802",
+      "text": "Patates çuvalı giysen de olurdu yani. Kendine düzgün bir üstlük al."
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "bank_id": "000dab00",
+  "total_strings": 166,
+  "strings": [
+    {
+      "id": "00a28c38",
+      "bank_id": "000dab00",
+      "text": "Gaddarlığınızın hiçbir mazereti olamaz."
+    },
+    {
+      "id": "00a28c39",
+      "bank_id": "000dab00",
+      "text": "Utanç verici! Belki de biraz öfke kontrolü eğitimi almayı düşünmelisiniz."
+    },
+    {
+      "id": "00a28c3a",
+      "bank_id": "000dab00",
+      "text": "İnsanları zevk için hırpalıyorsun değil mi?"
+    },
+    {
+      "id": "00a28c3b",
+      "bank_id": "000dab00",
+      "text": "Damarına mı bastılar yoksa ne?"
+    },
+    {
+      "id": "00a28c3c",
+      "bank_id": "000dab00",
+      "text": "Ortalıkta gezip insanlara öyle vurmanın hiçbir mazereti olamaz. Çok yanlış!"
+    },
+    {
+      "id": "00a28c3d",
+      "bank_id": "000dab00",
+      "text": "Bir kerecik olsun kendine hakim olmayı denesene sen?"
+    },
+    {
+      "id": "00a28c3f",
+      "bank_id": "000dab00",
+      "text": "Neden böyle bir şey yaptın ki?"
+    },
+    {
+      "id": "011a7987",
+      "bank_id": "000dab00",
+      "text": "Bu kabul edilemez! Kendisi bana evlenme teklif etmişti!"
+    },
+    {
+      "id": "011a798c",
+      "bank_id": "000dab00",
+      "text": "Bu kabul edilemez! Kendisi bana evlenme teklif etmişti!"
+    },
+    {
+      "id": "01eea066",
+      "bank_id": "000dab00",
+      "text": "Şey, övünmek gibi olmasın ama o harika maceracıyla nişanlıyım."
+    },
+    {
+      "id": "01eea06d",
+      "bank_id": "000dab00",
+      "text": "Şey, övünmek gibi olmasın ama o harika maceracı hanımla nişanlıyım."
+    },
+    {
+      "id": "10aa56a7",
+      "bank_id": "000dab00",
+      "text": "Ama... ama o benimle nişanlı! Bana bunu nasıl yapabilir?!"
+    },
+    {
+      "id": "10aa56ac",
+      "bank_id": "000dab00",
+      "text": "Ama... ama o benimle nişanlı! Bana bunu nasıl yapabilir?!"
+    },
+    {
+      "id": "16cc61c0",
+      "bank_id": "000dab00",
+      "text": "Oh evet, sağlam bir cinayete bayılırım!"
+    },
+    {
+      "id": "173195e7",
+      "bank_id": "000dab00",
+      "text": "Ne kadar aşağılık bir hainlik! O benimle sözlü!"
+    },
+    {
+      "id": "173195ec",
+      "bank_id": "000dab00",
+      "text": "Ne kadar aşağılık bir hainlik! O benimle sözlü!"
+    },
+    {
+      "id": "1ab1f610",
+      "bank_id": "000dab00",
+      "text": "Beni öldürmeye kalkışmayacaksın değil mi??"
+    },
+    {
+      "id": "1ab1f611",
+      "bank_id": "000dab00",
+      "text": "Hayatında yapmak istediğin şey bu mu yani? İnsanları öldürmeye çalışmak mı?"
+    },
+    {
+      "id": "1ab1f612",
+      "bank_id": "000dab00",
+      "text": "Onları öldürmediğin için şanslısın!"
+    },
+    {
+      "id": "1ab1f614",
+      "bank_id": "000dab00",
+      "text": "Katillik heveslerin tek kelimeyle iğrenç!"
+    },
+    {
+      "id": "1ab1f615",
+      "bank_id": "000dab00",
+      "text": "Yaklaşma bana sakın, seni katil özentisi!"
+    },
+    {
+      "id": "1ab1f616",
+      "bank_id": "000dab00",
+      "text": "Bugün başka birini öldürmeye kalkışacak mısın bari?"
+    },
+    {
+      "id": "1ab1f617",
+      "bank_id": "000dab00",
+      "text": "O kasabalının neredeyse işini bitiren sendin değil mi?"
+    },
+    {
+      "id": "1d0e9460",
+      "bank_id": "000dab00",
+      "text": "İki yüzlü yosma! Bana nişan yüzüğü verip tek aşkının ben olduğumu söylemişti!"
+    },
+    {
+      "id": "1d0e946b",
+      "bank_id": "000dab00",
+      "text": "İki yüzlü domuz! Bana nişan yüzüğü verip tek aşkının ben olduğumu söylemişti!"
+    },
+    {
+      "id": "1fda8691",
+      "bank_id": "000dab00",
+      "text": "Çok mutluyum. O harika adamla nişanlandım."
+    },
+    {
+      "id": "1fda869a",
+      "bank_id": "000dab00",
+      "text": "Çok mutluyum. O harika kadınla nişanlandım."
+    },
+    {
+      "id": "21cd1cb7",
+      "bank_id": "000dab00",
+      "text": "Bana resmen evlenme teklif etti ya la! İnanabiliyor musun?"
+    },
+    {
+      "id": "21cd1cbc",
+      "bank_id": "000dab00",
+      "text": "Bana resmen evlenme teklif etti ya la! İnanabiliyor musun?"
+    },
+    {
+      "id": "23b20478",
+      "bank_id": "000dab00",
+      "text": "Sen! Az kalsın katil oluyordun! Yazıklar olsun sana."
+    },
+    {
+      "id": "23b20479",
+      "bank_id": "000dab00",
+      "text": "İnsanlara zerre saygın yok mu senin? Onları öldürebilirdin!"
+    },
+    {
+      "id": "23b2047a",
+      "bank_id": "000dab00",
+      "text": "En azından işi doğru düzgün yapıp canlarını almalıydın."
+    },
+    {
+      "id": "23b2047b",
+      "bank_id": "000dab00",
+      "text": "Adam öldürme havasındasın demek? Yolundan çekilsek iyi olur."
+    },
+    {
+      "id": "23b2047c",
+      "bank_id": "000dab00",
+      "text": "Gerçekten bu kadar şiddete gerek var mıydı? Neredeyse öldürüyordun onları!"
+    },
+    {
+      "id": "23b2047d",
+      "bank_id": "000dab00",
+      "text": "Hâlâ hayatta olmaları büyük şans. Nasıl yapabildin bunu?!"
+    },
+    {
+      "id": "23b2047f",
+      "bank_id": "000dab00",
+      "text": "Neden onları öldürmeye çalıştın ki?!"
+    },
+    {
+      "id": "279efa63",
+      "bank_id": "000dab00",
+      "text": "Şu kadın benim karım olacak bilesin."
+    },
+    {
+      "id": "279efa68",
+      "bank_id": "000dab00",
+      "text": "Şu adam benim kocam olacak bilesin."
+    },
+    {
+      "id": "3b6ab6b6",
+      "bank_id": "000dab00",
+      "text": "Ne dedin sen???!! O benimle evlenecekti güya!"
+    },
+    {
+      "id": "3b6ab6bd",
+      "bank_id": "000dab00",
+      "text": "Ne dedin sen???!! Tüylerinden asacağım o herifi! Benimle evlenecekti güya!"
+    },
+    {
+      "id": "44e39111",
+      "bank_id": "000dab00",
+      "text": "Ne?! Ama o bana evlenme teklif etmişti!"
+    },
+    {
+      "id": "44e3911a",
+      "bank_id": "000dab00",
+      "text": "Ne?! Ama o bana evlenme teklif etmişti!"
+    },
+    {
+      "id": "4ac06ea0",
+      "bank_id": "000dab00",
+      "text": "Kurbanın kim olduğunu bilen var mı?"
+    },
+    {
+      "id": "4ac06ea1",
+      "bank_id": "000dab00",
+      "text": "Tofunun içinde boğduklarını duydum."
+    },
+    {
+      "id": "4ac06ea2",
+      "bank_id": "000dab00",
+      "text": "Şiddetli ölümler bu yıl kesinlikle arttı."
+    },
+    {
+      "id": "4ac06ea6",
+      "bank_id": "000dab00",
+      "text": "Bir dakika önce yaşayıp küfrederler, bir dakika sonra fos."
+    },
+    {
+      "id": "4ac06ea7",
+      "bank_id": "000dab00",
+      "text": "Biri bana kurbanın gözüne çatalla vurduklarını söyledi."
+    },
+    {
+      "id": "5226d1c7",
+      "bank_id": "000dab00",
+      "text": "Bana resmen evlenme teklif etti ya la! İnanabiliyor musun?"
+    },
+    {
+      "id": "5226d1cc",
+      "bank_id": "000dab00",
+      "text": "Bana resmen evlenme teklif etti ya la! İnanabiliyor musun?"
+    },
+    {
+      "id": "52bf0716",
+      "bank_id": "000dab00",
+      "text": "Neeeeee?? Lağım faresi pislik! Ben onunla nişanlıyım!"
+    },
+    {
+      "id": "52bf071d",
+      "bank_id": "000dab00",
+      "text": "Neeeeee?? Aşüfte kaltak! Ben onunla nişanlıyım!"
+    },
+    {
+      "id": "53c07c8a",
+      "bank_id": "000dab00",
+      "text": "Bu lanet cinayetler tam bir dert. Bütün bu millet sokağı tıkıyor."
+    },
+    {
+      "id": "53c07c8b",
+      "bank_id": "000dab00",
+      "text": "Katili gören oldu mu hiç?"
+    },
+    {
+      "id": "53c07c8c",
+      "bank_id": "000dab00",
+      "text": "Kaza değildi, orası kesin."
+    },
+    {
+      "id": "53c07c8d",
+      "bank_id": "000dab00",
+      "text": "İnanamıyorum. Evimin dibinde bir cinayet ha!"
+    },
+    {
+      "id": "53c07c8f",
+      "bank_id": "000dab00",
+      "text": "Cinayet olduğunu söylüyorlar!"
+    },
+    {
+      "id": "63e03a26",
+      "bank_id": "000dab00",
+      "text": "Onunla evleneceğim ben, biliyorsun değil mi?"
+    },
+    {
+      "id": "63e03a2d",
+      "bank_id": "000dab00",
+      "text": "Onunla evleneceğim ben, biliyorsun değil mi?"
+    },
+    {
+      "id": "6621b5b1",
+      "bank_id": "000dab00",
+      "text": "Ne?! Ama o bana evlenme teklif etmişti!!"
+    },
+    {
+      "id": "6621b5ba",
+      "bank_id": "000dab00",
+      "text": "Ne?! Ama o bana evlenme teklif etmişti!!"
+    },
+    {
+      "id": "6c1d7301",
+      "bank_id": "000dab00",
+      "text": "Ah evet, duymadın mı? Onunla sözlendim ben!"
+    },
+    {
+      "id": "6c1d730a",
+      "bank_id": "000dab00",
+      "text": "Ah evet, duymadın mı? Onunla sözlendim ben!"
+    },
+    {
+      "id": "6ca8f483",
+      "bank_id": "000dab00",
+      "text": "Bu kabul edilemez! Kendisi bana evlenme teklif etmişti!"
+    },
+    {
+      "id": "6ca8f488",
+      "bank_id": "000dab00",
+      "text": "Bu kabul edilemez! Kendisi bana evlenme teklif etmişti!"
+    },
+    {
+      "id": "76a51801",
+      "bank_id": "000dab00",
+      "text": "Şey, övünmek gibi olmasın ama o harika adamla nişanlandım."
+    },
+    {
+      "id": "76a5180a",
+      "bank_id": "000dab00",
+      "text": "Şey, övünmek gibi olmasın ama o harika kadınla nişanlandım."
+    },
+    {
+      "id": "7b41f6f0",
+      "bank_id": "000dab00",
+      "text": "Kimi incittiğin umurunda değil gibi görünüyor."
+    },
+    {
+      "id": "7b41f6f1",
+      "bank_id": "000dab00",
+      "text": "Böyle bir şeyi nasıl yapabildin?"
+    },
+    {
+      "id": "7b41f6f3",
+      "bank_id": "000dab00",
+      "text": "Bütün bu şiddetten zevk alıyor olmalısın."
+    },
+    {
+      "id": "7b41f6f6",
+      "bank_id": "000dab00",
+      "text": "Pek şiddet yanlısısın doğrusu."
+    },
+    {
+      "id": "7b41f6f7",
+      "bank_id": "000dab00",
+      "text": "Zevk için mi dövdün onları yoksa ne?"
+    },
+    {
+      "id": "824201f2",
+      "bank_id": "000dab00",
+      "text": "Yaptığın şey için haklı bir sebebin vardı herhalde."
+    },
+    {
+      "id": "824201f3",
+      "bank_id": "000dab00",
+      "text": "Onları döverken bir yerini incittin mi bari?"
+    },
+    {
+      "id": "824201f4",
+      "bank_id": "000dab00",
+      "text": "Beni de pataklamayacaksın değil mi?"
+    },
+    {
+      "id": "824201f5",
+      "bank_id": "000dab00",
+      "text": "Ciddi şekilde yaralanabilirlerdi!"
+    },
+    {
+      "id": "824201f6",
+      "bank_id": "000dab00",
+      "text": "Bu kadar şiddet meraklısı olman şart mı?"
+    },
+    {
+      "id": "86f84180",
+      "bank_id": "000dab00",
+      "text": "Ama... ama o benimle nişanlı! Bana bunu nasıl yapabilir?!"
+    },
+    {
+      "id": "86f8418b",
+      "bank_id": "000dab00",
+      "text": "Ama... ama o benimle nişanlı! Bana bunu nasıl yapabilir?!"
+    },
+    {
+      "id": "8c770ef6",
+      "bank_id": "000dab00",
+      "text": "Ah evet, duymadın mı? Onunla sözlendim ben!"
+    },
+    {
+      "id": "8c770efd",
+      "bank_id": "000dab00",
+      "text": "Ah evet, duymadın mı? Onunla sözlendim ben!"
+    },
+    {
+      "id": "95f17c51",
+      "bank_id": "000dab00",
+      "text": "Onunla evleneceğim ben, biliyorsun değil mi?"
+    },
+    {
+      "id": "95f17c5a",
+      "bank_id": "000dab00",
+      "text": "Onunla evleneceğim ben, biliyorsun değil mi?"
+    },
+    {
+      "id": "9c852a27",
+      "bank_id": "000dab00",
+      "text": "Ama... ama o benimle evli! Bana bunu nasıl yapabilir?!"
+    },
+    {
+      "id": "aa56acb8",
+      "bank_id": "000dab00",
+      "text": "Buralarda can ucuz zaten."
+    },
+    {
+      "id": "aa56acb9",
+      "bank_id": "000dab00",
+      "text": "Eline ilk kez kan bulaşmıyor herhalde, değil mi?"
+    },
+    {
+      "id": "aa56acbd",
+      "bank_id": "000dab00",
+      "text": "Ortalıkta gezip istediğin kişiyi öylece öldüremezsin!"
+    },
+    {
+      "id": "aa56acbe",
+      "bank_id": "000dab00",
+      "text": "Bir cana kıydın sen!"
+    },
+    {
+      "id": "aa56acbf",
+      "bank_id": "000dab00",
+      "text": "Sana ne yapmış olurlarsa olsunlar bunu hak etmemişlerdi!"
+    },
+    {
+      "id": "ac8e9c58",
+      "bank_id": "000dab00",
+      "text": "Neden onları öldürmeye çalıştın peki?"
+    },
+    {
+      "id": "ac8e9c59",
+      "bank_id": "000dab00",
+      "text": "Onlara yaptıklarından sonra hayatta kaldıklarına şükretsinler."
+    },
+    {
+      "id": "ac8e9c5d",
+      "bank_id": "000dab00",
+      "text": "Onları öldürmeye mi *çalışıyordun* yani?"
+    },
+    {
+      "id": "ac8e9c5e",
+      "bank_id": "000dab00",
+      "text": "Kanunlar zerre umurunda değil mi senin?"
+    },
+    {
+      "id": "ac8e9c5f",
+      "bank_id": "000dab00",
+      "text": "Sadece canının istediğini yapıyorsun değil mi? İnsan öldürsen de öldürmesen de."
+    },
+    {
+      "id": "ae3090f0",
+      "bank_id": "000dab00",
+      "text": "Şu kadın benim karım olacak bilesin."
+    },
+    {
+      "id": "ae3090fb",
+      "bank_id": "000dab00",
+      "text": "Şu adam benim kocam olacak bilesin."
+    },
+    {
+      "id": "b0e24826",
+      "bank_id": "000dab00",
+      "text": "Neeeeee?? Lağım faresi pislik! Ben onunla nişanlıyım!"
+    },
+    {
+      "id": "b0e2482d",
+      "bank_id": "000dab00",
+      "text": "Neeeeee?? Aşüfte kaltak! Ben onunla nişanlıyım!"
+    },
+    {
+      "id": "b556bde8",
+      "bank_id": "000dab00",
+      "text": "Eee, onları öldürmek iyi hissettirdi mi bari?"
+    },
+    {
+      "id": "b556bde9",
+      "bank_id": "000dab00",
+      "text": "Bir katilin o taş kalbine sahipsin sen. Buralarda pek çok kişi öyledir gerçi."
+    },
+    {
+      "id": "b556bdec",
+      "bank_id": "000dab00",
+      "text": "Katil! Nasıl yapabildin bunu?!"
+    },
+    {
+      "id": "b556bdee",
+      "bank_id": "000dab00",
+      "text": "Katillerin hepsi ömür boyu içeri tıkılmalı. Evet, doğru duydun!"
+    },
+    {
+      "id": "b556bdef",
+      "bank_id": "000dab00",
+      "text": "Aşağılık bir katilsin sen! Evet öyle!"
+    },
+    {
+      "id": "b78ead88",
+      "bank_id": "000dab00",
+      "text": "Seni kızdıracak bir şey yapmış olmalılar herhalde, ha?"
+    },
+    {
+      "id": "b78ead89",
+      "bank_id": "000dab00",
+      "text": "Yakalanmayı göze alacaksan en azından işi hakkıyla yap."
+    },
+    {
+      "id": "b78ead8c",
+      "bank_id": "000dab00",
+      "text": "Beni de öldürmeye kalkışmayacaksın, değil mi?"
+    },
+    {
+      "id": "b78ead8e",
+      "bank_id": "000dab00",
+      "text": "Bu bir maceracı görevi falan değil! Biz de insanız!"
+    },
+    {
+      "id": "b78ead8f",
+      "bank_id": "000dab00",
+      "text": "Kendine hâkim ol! Neredeyse öldürüyordun onları!"
+    },
+    {
+      "id": "c7409a08",
+      "bank_id": "000dab00",
+      "text": "Sen! Katil sensin!"
+    },
+    {
+      "id": "c7409a0a",
+      "bank_id": "000dab00",
+      "text": "Cinayetten daha kötü bir şey yoktur biliyorsun değil mi. Hiçbir şey! Yani, hemen hemen hiçbir şey..."
+    },
+    {
+      "id": "c7409a0b",
+      "bank_id": "000dab00",
+      "text": "Ne kadar taş kalpli bir katilsin sen öyle."
+    },
+    {
+      "id": "c7409a0c",
+      "bank_id": "000dab00",
+      "text": "O hareketlerini gördüm. Doğuştan bir manyaksın sen resmen."
+    },
+    {
+      "id": "c7409a0d",
+      "bank_id": "000dab00",
+      "text": "Toprağa girmeyi hak ettikleri sürece sorun yok."
+    },
+    {
+      "id": "c7409a0e",
+      "bank_id": "000dab00",
+      "text": "İnsan hayatına zerre saygın yok mu da zerre pişmanlık duymadan onu söndürebiliyorsun?"
+    },
+    {
+      "id": "c7409a0f",
+      "bank_id": "000dab00",
+      "text": "Katil! O kanlı ellerle bana yaklaşmaya cüret bile etme!"
+    },
+    {
+      "id": "c8369886",
+      "bank_id": "000dab00",
+      "text": "Ne dedin sen?! Tüylerinden asacağım o herifi! Benimle evlenecekti güya!"
+    },
+    {
+      "id": "c836988d",
+      "bank_id": "000dab00",
+      "text": "Ne dedin sen?! Benimle evlenecekti güya!"
+    },
+    {
+      "id": "cc40a229",
+      "bank_id": "000dab00",
+      "text": "Neden?! Sana ne yaptılar ki sanki?!"
+    },
+    {
+      "id": "cc40a22a",
+      "bank_id": "000dab00",
+      "text": "Katillerle konuşmam ben!"
+    },
+    {
+      "id": "cc40a22b",
+      "bank_id": "000dab00",
+      "text": "Bir katilsin sen! Tam olarak busun işte!"
+    },
+    {
+      "id": "cc40a22c",
+      "bank_id": "000dab00",
+      "text": "Can almaya alıştın artık değil mi?"
+    },
+    {
+      "id": "cc40a22d",
+      "bank_id": "000dab00",
+      "text": "Bir can almak nasıl bir duyguymuş bakalım?"
+    },
+    {
+      "id": "cc40a22e",
+      "bank_id": "000dab00",
+      "text": "Hayat senin için öyle ucuz bir şey mi ki bir çırpıda fırlatıp atabiliyorsun?"
+    },
+    {
+      "id": "cc40a22f",
+      "bank_id": "000dab00",
+      "text": "Yalnızca bir katil bu kadar duygusuz olabilir."
+    },
+    {
+      "id": "d58a30c0",
+      "bank_id": "000dab00",
+      "text": "Onunla nişanlı olduğumu biliyor muydun?"
+    },
+    {
+      "id": "d58a30cb",
+      "bank_id": "000dab00",
+      "text": "Onunla nişanlı olduğumu biliyor muydun?"
+    },
+    {
+      "id": "d6910f23",
+      "bank_id": "000dab00",
+      "text": "Ne kadar aşağılık bir hainlik! O benimle sözlü!"
+    },
+    {
+      "id": "d6910f28",
+      "bank_id": "000dab00",
+      "text": "Ne kadar aşağılık bir hainlik! O benimle sözlü!"
+    },
+    {
+      "id": "d8b9fb56",
+      "bank_id": "000dab00",
+      "text": "Çok mutluyum. O harika adamla nişanlandım."
+    },
+    {
+      "id": "d8b9fb5d",
+      "bank_id": "000dab00",
+      "text": "Çok mutluyum. O harika kadınla nişanlandım."
+    },
+    {
+      "id": "e6104aa4",
+      "bank_id": "000dab00",
+      "text": "Oh! İnsan pis bir işle karşılaşmadan sokakta yürüyemez oldu!"
+    },
+    {
+      "id": "e6104aa5",
+      "bank_id": "000dab00",
+      "text": "Bir cana kasteden bu hain saldırının sorumlusu kim?"
+    },
+    {
+      "id": "e6104aa7",
+      "bank_id": "000dab00",
+      "text": "Hâlâ yaşıyor mu? Kim yaptıysa pek becerikli değilmiş o halde."
+    },
+    {
+      "id": "ed1055a0",
+      "bank_id": "000dab00",
+      "text": "Az kalsın bir cinayet oluyordu!"
+    },
+    {
+      "id": "ed1055a1",
+      "bank_id": "000dab00",
+      "text": "Cinayete teşebbüs mü? İnanamıyorum!"
+    },
+    {
+      "id": "ed1055a2",
+      "bank_id": "000dab00",
+      "text": "Ölmüşler mi? Hayır mı? Tüh."
+    },
+    {
+      "id": "ed1055a3",
+      "bank_id": "000dab00",
+      "text": "Büyütülecek ne var anlamıyorum. Hâlâ hayattalar işte, değil mi?"
+    },
+    {
+      "id": "ed1055a4",
+      "bank_id": "000dab00",
+      "text": "Biri başkasını mı öldürmeye çalışmış? Ne kadar da muğlak."
+    },
+    {
+      "id": "ed1055a5",
+      "bank_id": "000dab00",
+      "text": "Ölmüşler mi yani? Hayır mı? Oh çok şükür."
+    },
+    {
+      "id": "ed1055a6",
+      "bank_id": "000dab00",
+      "text": "Birini öldürmeye mi çalışmışlar?!"
+    },
+    {
+      "id": "f1f4e8e1",
+      "bank_id": "000dab00",
+      "text": "Hayır! Cinayetti bu! Cinayet!"
+    },
+    {
+      "id": "f1f4e8e2",
+      "bank_id": "000dab00",
+      "text": "Cinayet olduğu kesin görünüyor."
+    },
+    {
+      "id": "f1f4e8e3",
+      "bank_id": "000dab00",
+      "text": "Kimin yaptığını gören oldu mu?"
+    },
+    {
+      "id": "f1f4e8e4",
+      "bank_id": "000dab00",
+      "text": "Bir ceset mi? Durun bakayım!"
+    },
+    {
+      "id": "f1f4e8e5",
+      "bank_id": "000dab00",
+      "text": "Lağım çukuruna bir leş daha düşmüş anlaşılan."
+    },
+    {
+      "id": "f1f4e8e6",
+      "bank_id": "000dab00",
+      "text": "Ayaktakımı şu korkunç şeyin etrafına nasıl da üşüşmüş baksanıza. Ne zevksizlik."
+    },
+    {
+      "id": "f1f4e8e7",
+      "bank_id": "000dab00",
+      "text": "Cinayet! Medeni toplumun çöküşüne bundan daha açık delil mi gerek?"
+    },
+    {
+      "id": "f1fc8931",
+      "bank_id": "000dab00",
+      "text": "Ne?! Ama ben onunla evliyim!"
+    },
+    {
+      "id": "f1fc893a",
+      "bank_id": "000dab00",
+      "text": "Ne?! Ama ben onunla evliyim!"
+    },
+    {
+      "id": "f7a27dd0",
+      "bank_id": "000dab00",
+      "text": "Ne yaptığını gördüm. Hiç hoş değildi."
+    },
+    {
+      "id": "f7a27dd1",
+      "bank_id": "000dab00",
+      "text": "İnsanların canını yakmak hoşuna gidiyor değil mi?!"
+    },
+    {
+      "id": "f7a27dd2",
+      "bank_id": "000dab00",
+      "text": "Bunu nasıl yapabildin?"
+    },
+    {
+      "id": "f7a27dd4",
+      "bank_id": "000dab00",
+      "text": "Kendinden utanmalısın!"
+    },
+    {
+      "id": "f7a27dd5",
+      "bank_id": "000dab00",
+      "text": "Ne rezilce bir davranış! İnsan ortalıkta gezip millete vurmaz!"
+    },
+    {
+      "id": "f7a27dd6",
+      "bank_id": "000dab00",
+      "text": "Ha! Biri ters tarafından kalkmış anlaşılan."
+    },
+    {
+      "id": "f7a27dd7",
+      "bank_id": "000dab00",
+      "text": "Amma da sağlam bir dayak attın ha."
+    },
+    {
+      "id": "fbd06fc7",
+      "bank_id": "000dab00",
+      "text": "İki yüzlü yosma! Bana nişan yüzüğü verip tek aşkının ben olduğumu söylemişti!"
+    },
+    {
+      "id": "fbd06fcc",
+      "bank_id": "000dab00",
+      "text": "İki yüzlü domuz! Bana nişan yüzüğü verip tek aşkının ben olduğumu söylemişti!"
+    },
+    {
+      "id": "fcf4fa10",
+      "bank_id": "000dab00",
+      "text": "Bakın! Bir ceset! Kim yaptı bunu?"
+    },
+    {
+      "id": "fcf4fa12",
+      "bank_id": "000dab00",
+      "text": "Doğru mu? Cinayet mi işlenmiş?"
+    },
+    {
+      "id": "fcf4fa13",
+      "bank_id": "000dab00",
+      "text": "Kafanın boynundan kopmak üzere olduğunu duydum!"
+    },
+    {
+      "id": "fcf4fa14",
+      "bank_id": "000dab00",
+      "text": "Tam anlamıyla vahşice bir şeydi bu."
+    },
+    {
+      "id": "fcf4fa15",
+      "bank_id": "000dab00",
+      "text": "Bir cinayet daha mı? Ne oldu, bu hafta üçüncü mü bu?"
+    },
+    {
+      "id": "fcf4fa16",
+      "bank_id": "000dab00",
+      "text": "En alçakça cinayet!"
+    },
+    {
+      "id": "fcf4fa17",
+      "bank_id": "000dab00",
+      "text": "Ne kadar manasız bir kıyım. Bayılacak gibi oluyorum."
+    },
+    {
+      "id": "fe68c253",
+      "bank_id": "000dab00",
+      "text": "Onunla nişanlı olduğumu biliyor muydun?"
+    },
+    {
+      "id": "fe68c258",
+      "bank_id": "000dab00",
+      "text": "Onunla nişanlı olduğumu biliyor muydun?"
+    }
+  ]
+}

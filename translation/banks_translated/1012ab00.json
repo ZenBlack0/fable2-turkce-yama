@@ -1,0 +1,936 @@
+{
+  "bank_id": "1012ab00",
+  "total_strings": 186,
+  "strings": [
+    {
+      "id": "08f7bbe8",
+      "bank_id": "1012ab00",
+      "text": "Ah, nereden bildin? En sevdiğim! Hem de ne kadar romantik!"
+    },
+    {
+      "id": "08f7bbe9",
+      "bank_id": "1012ab00",
+      "text": "Bunun bu kadar romantik olduğuna inanamıyorum."
+    },
+    {
+      "id": "08f7bbeb",
+      "bank_id": "1012ab00",
+      "text": "Ah, bu ne kadar romantik bir hediye. Çok sevdim! Nereden bildin?"
+    },
+    {
+      "id": "08f7bbec",
+      "bank_id": "1012ab00",
+      "text": "Bu resmen romantizmin ta kendisi."
+    },
+    {
+      "id": "08f7bbed",
+      "bank_id": "1012ab00",
+      "text": "Beni gerçekten dinliyorsun, değil mi? Bu olağanüstü romantik."
+    },
+    {
+      "id": "08f7bbee",
+      "bank_id": "1012ab00",
+      "text": "O kadar romantik ki bayılabilirim."
+    },
+    {
+      "id": "08f7bbef",
+      "bank_id": "1012ab00",
+      "text": "Bana bundan daha romantik bir şey alamazdın."
+    },
+    {
+      "id": "0d079cb0",
+      "bank_id": "1012ab00",
+      "text": "Bunu ikinci el dükkânından mı aldın? Yeterince iyi sanırım."
+    },
+    {
+      "id": "0d079cb1",
+      "bank_id": "1012ab00",
+      "text": "Elimde parçalanacak diye korkuyorum."
+    },
+    {
+      "id": "0d079cb3",
+      "bank_id": "1012ab00",
+      "text": "Pek kaliteli sayılmaz, değil mi?"
+    },
+    {
+      "id": "0d079cb4",
+      "bank_id": "1012ab00",
+      "text": "Hayatımda bu kadar... bu kadar feci üretilmiş bir şey görmedim."
+    },
+    {
+      "id": "0d079cb5",
+      "bank_id": "1012ab00",
+      "text": "Bu en düşük kalitede bir şey."
+    },
+    {
+      "id": "0d079cb6",
+      "bank_id": "1012ab00",
+      "text": "Bunu çöplükten mi aşırdın?"
+    },
+    {
+      "id": "0d079cb7",
+      "bank_id": "1012ab00",
+      "text": "Bu benim aldığım eşyalar kadar kaliteli sayılır."
+    },
+    {
+      "id": "1407a7b0",
+      "bank_id": "1012ab00",
+      "text": "Bu ancak dilencilere layık."
+    },
+    {
+      "id": "1407a7b1",
+      "bank_id": "1012ab00",
+      "text": "Ne berbat bir eşya."
+    },
+    {
+      "id": "1407a7b2",
+      "bank_id": "1012ab00",
+      "text": "Zenginlerin kullandığı türden değil, öyle mi?"
+    },
+    {
+      "id": "1407a7b3",
+      "bank_id": "1012ab00",
+      "text": "Bana göre yeterince iyi görünüyor."
+    },
+    {
+      "id": "1407a7b4",
+      "bank_id": "1012ab00",
+      "text": "Nankör gibi görünmek istemem ama epey kalitesiz."
+    },
+    {
+      "id": "1407a7b5",
+      "bank_id": "1012ab00",
+      "text": "Pek harika bir kalitede sayılmaz ama önemli olan niyettir derler ya."
+    },
+    {
+      "id": "1407a7b6",
+      "bank_id": "1012ab00",
+      "text": "Pek iyi değil, değil mi?"
+    },
+    {
+      "id": "278786d8",
+      "bank_id": "1012ab00",
+      "text": "Vay canına! Elbette seninle evlenirim!"
+    },
+    {
+      "id": "278786da",
+      "bank_id": "1012ab00",
+      "text": "Ciddi misin? Evleneceğime inanamıyorum!"
+    },
+    {
+      "id": "278786db",
+      "bank_id": "1012ab00",
+      "text": "Evet! Hadi yapalım şu işi!"
+    },
+    {
+      "id": "278786dc",
+      "bank_id": "1012ab00",
+      "text": "Neden olmasın ki?"
+    },
+    {
+      "id": "278786dd",
+      "bank_id": "1012ab00",
+      "text": "Ne? Şoke oldum! Yani, evet!"
+    },
+    {
+      "id": "278786de",
+      "bank_id": "1012ab00",
+      "text": "Ah, elbette! Sonsuza dek senin olacağım."
+    },
+    {
+      "id": "278786df",
+      "bank_id": "1012ab00",
+      "text": "Çok duygulandım. Elbette evlenirim!"
+    },
+    {
+      "id": "2c878ef9",
+      "bank_id": "1012ab00",
+      "text": "Aman tanrım, evet! Hadi evlenelim!"
+    },
+    {
+      "id": "2c878efa",
+      "bank_id": "1012ab00",
+      "text": "Ağlayacağım galiba. Evet, kabul ediyorum!"
+    },
+    {
+      "id": "2c878efb",
+      "bank_id": "1012ab00",
+      "text": "Evet, evet, elbette seninle evlenirim!"
+    },
+    {
+      "id": "2c878efc",
+      "bank_id": "1012ab00",
+      "text": "Şaka mı yapıyorsun? Seninim!"
+    },
+    {
+      "id": "2c878efd",
+      "bank_id": "1012ab00",
+      "text": "Ah! Seninle bir saniye bile düşünmeden evlenirim!"
+    },
+    {
+      "id": "2c878efe",
+      "bank_id": "1012ab00",
+      "text": "İnanamıyorum! Evet, bin kere evet."
+    },
+    {
+      "id": "2c878eff",
+      "bank_id": "1012ab00",
+      "text": "Ah, sonunda! Bir evlilik teklifi! Evet!"
+    },
+    {
+      "id": "2d060748",
+      "bank_id": "1012ab00",
+      "text": "Seninle evlenmek mi?! Elbette!"
+    },
+    {
+      "id": "2d060749",
+      "bank_id": "1012ab00",
+      "text": "Pek evlilik tipi biri değilimdir ama senin için evet!"
+    },
+    {
+      "id": "2d06074a",
+      "bank_id": "1012ab00",
+      "text": "Bu çok beklenmedikti! Elbette seninle evlenirim!"
+    },
+    {
+      "id": "2d06074b",
+      "bank_id": "1012ab00",
+      "text": "Evet! Kalbim yalnızca sana ait!"
+    },
+    {
+      "id": "2d06074d",
+      "bank_id": "1012ab00",
+      "text": "Vay be, evet!"
+    },
+    {
+      "id": "2d06074e",
+      "bank_id": "1012ab00",
+      "text": "İnanamıyorum! Cevabım evet!"
+    },
+    {
+      "id": "2d06074f",
+      "bank_id": "1012ab00",
+      "text": "Gerçekten evlenmek istiyorsun! Harika!"
+    },
+    {
+      "id": "305339c2",
+      "bank_id": "1012ab00",
+      "text": "Bu o kadar kalitesiz ki yüzüne zor bakıyorum."
+    },
+    {
+      "id": "305339c3",
+      "bank_id": "1012ab00",
+      "text": "Böyle ucuzluklar için fazla zengin ve önemli biriyim."
+    },
+    {
+      "id": "355341e2",
+      "bank_id": "1012ab00",
+      "text": "Böyle zavallı bir eşyayla hayatta görünmem."
+    },
+    {
+      "id": "355341e3",
+      "bank_id": "1012ab00",
+      "text": "Ne kepaze bir çerçöp."
+    },
+    {
+      "id": "380618f8",
+      "bank_id": "1012ab00",
+      "text": "Evet, hadi dünyaevine girelim!"
+    },
+    {
+      "id": "380618f9",
+      "bank_id": "1012ab00",
+      "text": "Kabul!"
+    },
+    {
+      "id": "380618fa",
+      "bank_id": "1012ab00",
+      "text": "Elbette kabul ediyorum!"
+    },
+    {
+      "id": "380618fb",
+      "bank_id": "1012ab00",
+      "text": "Bu günün hayalini ne kadar zamandır kuruyordum! Evet! Evet!"
+    },
+    {
+      "id": "380618fc",
+      "bank_id": "1012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "380618fe",
+      "bank_id": "1012ab00",
+      "text": "Ah evet, karın olacağım!"
+    },
+    {
+      "id": "380618ff",
+      "bank_id": "1012ab00",
+      "text": "Elbette seninle evlenirim!"
+    },
+    {
+      "id": "3e99548b",
+      "bank_id": "1012ab00",
+      "text": "Giysi mi? Ne hoş bir düşünce. Teşekkürler."
+    },
+    {
+      "id": "3e99548d",
+      "bank_id": "1012ab00",
+      "text": "Kıyafete asla hayır demem."
+    },
+    {
+      "id": "43995ca9",
+      "bank_id": "1012ab00",
+      "text": "Teşekkür ederim. Tam da bedenime göre görünüyor."
+    },
+    {
+      "id": "43995cad",
+      "bank_id": "1012ab00",
+      "text": "Bana tam oturacak gibi duruyor. Sağ olasın."
+    },
+    {
+      "id": "68592e40",
+      "bank_id": "1012ab00",
+      "text": "Adını pek duymadım ama yine de sağ ol."
+    },
+    {
+      "id": "68592e41",
+      "bank_id": "1012ab00",
+      "text": "Çok naziksin. Gerçi sadece vasat bir şöhretsin ama olsun."
+    },
+    {
+      "id": "68592e44",
+      "bank_id": "1012ab00",
+      "text": "Normalde yalnızca gerçek şöhretlerden imza toplarım ama sende ışık var."
+    },
+    {
+      "id": "68592e46",
+      "bank_id": "1012ab00",
+      "text": "Teşekkürler. Daha da ünlü olacağına eminim."
+    },
+    {
+      "id": "68592e47",
+      "bank_id": "1012ab00",
+      "text": "Teşekkürler! Yeğenim buna bayılacak."
+    },
+    {
+      "id": "6b4d27d8",
+      "bank_id": "1012ab00",
+      "text": "Vay canına, bu geğirerek \"seni seviyorum\" demekten bile daha romantik."
+    },
+    {
+      "id": "6b4d27d9",
+      "bank_id": "1012ab00",
+      "text": "İnsanların çok romantik olduğunu duyardım ama başıma geleceğini hiç düşünmezdim."
+    },
+    {
+      "id": "6b4d27da",
+      "bank_id": "1012ab00",
+      "text": "Sanki yıldızlara uzanıp onları bana vermişsin gibi. Tabii küle dönüşme riski olmadan."
+    },
+    {
+      "id": "6b4d27db",
+      "bank_id": "1012ab00",
+      "text": "Bu, tarihin en romantik hediyeleri arasına girecek."
+    },
+    {
+      "id": "6b4d27dd",
+      "bank_id": "1012ab00",
+      "text": "Şimdiye kadarki en romantik şey!"
+    },
+    {
+      "id": "6b4d27de",
+      "bank_id": "1012ab00",
+      "text": "Ne inanılmaz, ne harika bir romantizm! Çok sevdim!"
+    },
+    {
+      "id": "6b4d27df",
+      "bank_id": "1012ab00",
+      "text": "Bu resmen romantizmin vücut bulmuş hali."
+    },
+    {
+      "id": "6d593661",
+      "bank_id": "1012ab00",
+      "text": "Şimdilik pek bir değeri olduğunu sanmıyorum ama belli de olmaz."
+    },
+    {
+      "id": "764d3908",
+      "bank_id": "1012ab00",
+      "text": "İnsanların çok romantik olduğunu duyardım ama başıma geleceğini hiç düşünmezdim."
+    },
+    {
+      "id": "764d3909",
+      "bank_id": "1012ab00",
+      "text": "Vay canına, bu geğirerek \"seni seviyorum\" demekten bile daha romantik."
+    },
+    {
+      "id": "764d390a",
+      "bank_id": "1012ab00",
+      "text": "Bu, tarihin en romantik hediyeleri arasına girecek."
+    },
+    {
+      "id": "764d390b",
+      "bank_id": "1012ab00",
+      "text": "Sanki yıldızlara uzanıp onları bana vermişsin gibi. Tabii anında buharlaşma derdi olmadan."
+    },
+    {
+      "id": "764d390c",
+      "bank_id": "1012ab00",
+      "text": "Şimdiye kadarki en romantik şey!"
+    },
+    {
+      "id": "764d390e",
+      "bank_id": "1012ab00",
+      "text": "Bu resmen romantizmin vücut bulmuş hali."
+    },
+    {
+      "id": "764d390f",
+      "bank_id": "1012ab00",
+      "text": "Ne inanılmaz, ne harika bir romantizm! Çok sevdim!"
+    },
+    {
+      "id": "77dbd98e",
+      "bank_id": "1012ab00",
+      "text": "Vay, bayıldım! Bütün gün bununla oynayacağım!"
+    },
+    {
+      "id": "7aa0f178",
+      "bank_id": "1012ab00",
+      "text": "Yok, bu bana göre değil."
+    },
+    {
+      "id": "7aa0f179",
+      "bank_id": "1012ab00",
+      "text": "Teşekkürler ama geri çeviriyorum."
+    },
+    {
+      "id": "7aa0f17a",
+      "bank_id": "1012ab00",
+      "text": "Yok, teşekkürler."
+    },
+    {
+      "id": "7aa0f17b",
+      "bank_id": "1012ab00",
+      "text": "Yok, teşekkürler."
+    },
+    {
+      "id": "7aa0f17c",
+      "bank_id": "1012ab00",
+      "text": "Yok, sağ ol."
+    },
+    {
+      "id": "7aa0f17d",
+      "bank_id": "1012ab00",
+      "text": "Pek sanmıyorum. Sende kalsın."
+    },
+    {
+      "id": "7aa0f17e",
+      "bank_id": "1012ab00",
+      "text": "Yok, teşekkürler."
+    },
+    {
+      "id": "80dbe7db",
+      "bank_id": "1012ab00",
+      "text": "Vay, teşekkürler maceracı. Pek oyuncağım yok benim."
+    },
+    {
+      "id": "83a0ff48",
+      "bank_id": "1012ab00",
+      "text": "Bunu gerçekten kabul edemem. Yani, almasam daha iyi."
+    },
+    {
+      "id": "83a0ff49",
+      "bank_id": "1012ab00",
+      "text": "Yok, teşekkürler."
+    },
+    {
+      "id": "83a0ff4b",
+      "bank_id": "1012ab00",
+      "text": "Yok, teşekkürler."
+    },
+    {
+      "id": "83a0ff4c",
+      "bank_id": "1012ab00",
+      "text": "Yok, teşekkür ederim."
+    },
+    {
+      "id": "83a0ff4d",
+      "bank_id": "1012ab00",
+      "text": "Reddetmek zorundayım."
+    },
+    {
+      "id": "83a0ff4e",
+      "bank_id": "1012ab00",
+      "text": "Yok, sağ ol."
+    },
+    {
+      "id": "83a0ff4f",
+      "bank_id": "1012ab00",
+      "text": "Yok, teşekkürler."
+    },
+    {
+      "id": "899f2501",
+      "bank_id": "1012ab00",
+      "text": "Teşekkürler. Her kızın biraz korunmaya ihtiyacı vardır."
+    },
+    {
+      "id": "899f2504",
+      "bank_id": "1012ab00",
+      "text": "Bunu hiç beklemiyordum. Sanırım nasıl kullanılacağını öğrenebilirim."
+    },
+    {
+      "id": "8e9f2d21",
+      "bank_id": "1012ab00",
+      "text": "Bunu iyi bir iş için kullanabileceğime eminim. Nerede o kaynanam?"
+    },
+    {
+      "id": "8e9f2d27",
+      "bank_id": "1012ab00",
+      "text": "Tam bana göreymiş. Teşekkürler."
+    },
+    {
+      "id": "989cb679",
+      "bank_id": "1012ab00",
+      "text": "Nefis. Sağ olasın."
+    },
+    {
+      "id": "989cb67e",
+      "bank_id": "1012ab00",
+      "text": "Leziz görünüyor!"
+    },
+    {
+      "id": "989cb67f",
+      "bank_id": "1012ab00",
+      "text": "Bunu hemen yiyebilirim. Ve yiyeceğim de."
+    },
+    {
+      "id": "9e1c8988",
+      "bank_id": "1012ab00",
+      "text": "Bundan daha romantik bir şey olabilir mi?"
+    },
+    {
+      "id": "9e1c898a",
+      "bank_id": "1012ab00",
+      "text": "Bundan daha romantik bir şey olamaz."
+    },
+    {
+      "id": "9e1c898b",
+      "bank_id": "1012ab00",
+      "text": "Bu hayatımda aldığım en romantik hediyelerden biri!"
+    },
+    {
+      "id": "9e1c898c",
+      "bank_id": "1012ab00",
+      "text": "Böyle romantik şeylere hiç alışkın değilim."
+    },
+    {
+      "id": "9e1c898d",
+      "bank_id": "1012ab00",
+      "text": "İnanılmaz derecede romantik."
+    },
+    {
+      "id": "9e1c898e",
+      "bank_id": "1012ab00",
+      "text": "Adımı bulutlara kazısan bile bundan daha romantik olamazdın."
+    },
+    {
+      "id": "9e1c898f",
+      "bank_id": "1012ab00",
+      "text": "Romantizmin tam özünü yakalamışsın."
+    },
+    {
+      "id": "a160ddd8",
+      "bank_id": "1012ab00",
+      "text": "Bu kalitede şeylere sık rastlanmaz."
+    },
+    {
+      "id": "a160ddda",
+      "bank_id": "1012ab00",
+      "text": "Saf kalite."
+    },
+    {
+      "id": "a160dddb",
+      "bank_id": "1012ab00",
+      "text": "Ne inanılmaz bir parça! Böylesini hiç görmemiştim!"
+    },
+    {
+      "id": "a160dddc",
+      "bank_id": "1012ab00",
+      "text": "Baştan aşağı birinci sınıf kalite."
+    },
+    {
+      "id": "a160dddd",
+      "bank_id": "1012ab00",
+      "text": "Bu kadar iyi bir şeyi nereden buldun?"
+    },
+    {
+      "id": "a160ddde",
+      "bank_id": "1012ab00",
+      "text": "Bu, hayattaki en seçkin şeylerden biri. Teşekkür ederim."
+    },
+    {
+      "id": "a160dddf",
+      "bank_id": "1012ab00",
+      "text": "Ustalıkla işlenmiş bir eşya. Kusursuz."
+    },
+    {
+      "id": "a31c91a9",
+      "bank_id": "1012ab00",
+      "text": "Bundan daha romantik bir şey olabilir mi?"
+    },
+    {
+      "id": "a31c91aa",
+      "bank_id": "1012ab00",
+      "text": "Bu hayatımda aldığım en romantik hediyelerden biri!"
+    },
+    {
+      "id": "a31c91ab",
+      "bank_id": "1012ab00",
+      "text": "Bundan daha romantik bir şey olamaz."
+    },
+    {
+      "id": "a31c91ac",
+      "bank_id": "1012ab00",
+      "text": "İnanılmaz derecede romantik."
+    },
+    {
+      "id": "a31c91ad",
+      "bank_id": "1012ab00",
+      "text": "Böyle romantik şeylere hiç alışkın değilim."
+    },
+    {
+      "id": "a31c91ae",
+      "bank_id": "1012ab00",
+      "text": "Romantizmin tam özünü yakalamışsın."
+    },
+    {
+      "id": "a31c91af",
+      "bank_id": "1012ab00",
+      "text": "Adımı bulutlara kazısan bile bundan daha romantik olamazdın."
+    },
+    {
+      "id": "a39cc7a9",
+      "bank_id": "1012ab00",
+      "text": "Nefis. Bunu akşam yemeğinde yerim."
+    },
+    {
+      "id": "a39cc7ac",
+      "bank_id": "1012ab00",
+      "text": "Karnım da acıkmıştı zaten. Teşekkürler."
+    },
+    {
+      "id": "a660e5f9",
+      "bank_id": "1012ab00",
+      "text": "Şu kaliteye bak. İnanılmaz."
+    },
+    {
+      "id": "a660e5fa",
+      "bank_id": "1012ab00",
+      "text": "Bunları duymuştum ama bu kalitede bir tanesini yakından hiç görmemiştim."
+    },
+    {
+      "id": "a660e5fb",
+      "bank_id": "1012ab00",
+      "text": "Bu gerçekten yüksek kalite. Teşekkürler!"
+    },
+    {
+      "id": "a660e5fc",
+      "bank_id": "1012ab00",
+      "text": "İyi kaliteli mal bu."
+    },
+    {
+      "id": "a660e5fd",
+      "bank_id": "1012ab00",
+      "text": "Bu kalitede bir şeyi nereden buldun?"
+    },
+    {
+      "id": "a660e5fe",
+      "bank_id": "1012ab00",
+      "text": "Yalnızca en yüksek kalite yeterli olurdu. Teşekkür ederim."
+    },
+    {
+      "id": "a660e5ff",
+      "bank_id": "1012ab00",
+      "text": "Senin de benim gibi kaliteden anladığını görüyorum. Teşekkür ederim."
+    },
+    {
+      "id": "a75f15e0",
+      "bank_id": "1012ab00",
+      "text": "Çok tatlısın, teşekkürler."
+    },
+    {
+      "id": "a75f15e1",
+      "bank_id": "1012ab00",
+      "text": "Bir kadını nasıl tavlayacağını gerçekten biliyorsun."
+    },
+    {
+      "id": "a75f15e3",
+      "bank_id": "1012ab00",
+      "text": "Biliyor musun, bu çok tatlı bir hareket."
+    },
+    {
+      "id": "a81310a8",
+      "bank_id": "1012ab00",
+      "text": "Ne güzel oyuncak! Teşekkürler!"
+    },
+    {
+      "id": "ac34b1d1",
+      "bank_id": "1012ab00",
+      "text": "Çok pahalı görünüyor. Ne kadar naziksin!"
+    },
+    {
+      "id": "ac34b1d4",
+      "bank_id": "1012ab00",
+      "text": "Bu kadar pahalı bir şeyi hiç görmemiştim."
+    },
+    {
+      "id": "ad131849",
+      "bank_id": "1012ab00",
+      "text": "Harika oyuncak! Sağ ol!"
+    },
+    {
+      "id": "b734c302",
+      "bank_id": "1012ab00",
+      "text": "Bu çok pahalı görünüyor. Çok teşekkür ederim."
+    },
+    {
+      "id": "b734c303",
+      "bank_id": "1012ab00",
+      "text": "Benim için mi? Ama sana bir servete mal olmuş olmalı! Teşekkürler."
+    },
+    {
+      "id": "b734c305",
+      "bank_id": "1012ab00",
+      "text": "Bu ucuz bir şey değil, değil mi? Teşekkürler!"
+    },
+    {
+      "id": "bc072941",
+      "bank_id": "1012ab00",
+      "text": "En son iksir içtiğimde boyum bir metre kısalmıştı."
+    },
+    {
+      "id": "bc072946",
+      "bank_id": "1012ab00",
+      "text": "Rengi pek tuhafmış. Böğğ! Tadı ayak gibi!"
+    },
+    {
+      "id": "bd98ffbe",
+      "bank_id": "1012ab00",
+      "text": "Çöplükte bulunan türden bir ıvır zıvıra benziyor."
+    },
+    {
+      "id": "bd98ffbf",
+      "bank_id": "1012ab00",
+      "text": "Elimde bununla asla görünemem. Bir itibarım var."
+    },
+    {
+      "id": "bea5d9b8",
+      "bank_id": "1012ab00",
+      "text": "Bunu kullanamam."
+    },
+    {
+      "id": "c1073161",
+      "bank_id": "1012ab00",
+      "text": "Bunun ne işe yarayacağını merak ediyorum..."
+    },
+    {
+      "id": "c1073166",
+      "bank_id": "1012ab00",
+      "text": "Teşekkürler! İçim kıpır kıpır oldu. Tuhaf hissettiriyor."
+    },
+    {
+      "id": "c19143ee",
+      "bank_id": "1012ab00",
+      "text": "Bunu dükkânlarda görmüştüm. Bir gün sahip olacağımı hiç düşünmezdim! Sağ ol!"
+    },
+    {
+      "id": "c299075e",
+      "bank_id": "1012ab00",
+      "text": "Bu ne biçim dandik bir işçilik böyle?!"
+    },
+    {
+      "id": "c299075f",
+      "bank_id": "1012ab00",
+      "text": "Ben gerçek kaliteye alışkınım. Bu kesinlikle öyle değil."
+    },
+    {
+      "id": "c3a5e159",
+      "bank_id": "1012ab00",
+      "text": "Bunu bana vermemen gerekiyordu!"
+    },
+    {
+      "id": "ca91523b",
+      "bank_id": "1012ab00",
+      "text": "Hep bunlardan bir tane istemiştim! Eyvallah!"
+    },
+    {
+      "id": "d10ed3c0",
+      "bank_id": "1012ab00",
+      "text": "Böyle şeylerin yaşını geçeli onlarca yıl oldu."
+    },
+    {
+      "id": "d10ed3c1",
+      "bank_id": "1012ab00",
+      "text": "Bu çocukça nesnelere nasıl bir heves duyabilirim ki?"
+    },
+    {
+      "id": "d10ed3c2",
+      "bank_id": "1012ab00",
+      "text": "Sümüklü velet değilim ben."
+    },
+    {
+      "id": "d10ed3c3",
+      "bank_id": "1012ab00",
+      "text": "Bu küçükler için."
+    },
+    {
+      "id": "d10ed3c4",
+      "bank_id": "1012ab00",
+      "text": "Dört yaşında gibi mi duruyorum?"
+    },
+    {
+      "id": "d10ed3c5",
+      "bank_id": "1012ab00",
+      "text": "Bir çocuk bundan benden daha çok keyif alır sanırım."
+    },
+    {
+      "id": "d10ed3c7",
+      "bank_id": "1012ab00",
+      "text": "Böyle şeylerin yaşını geçtim artık."
+    },
+    {
+      "id": "d80edec8",
+      "bank_id": "1012ab00",
+      "text": "Beni kaç yaşında sanıyorsun?"
+    },
+    {
+      "id": "d80edec9",
+      "bank_id": "1012ab00",
+      "text": "Yeğenime verebilirim sanırım."
+    },
+    {
+      "id": "d80edeca",
+      "bank_id": "1012ab00",
+      "text": "Çocuk değilim ben."
+    },
+    {
+      "id": "d80edecc",
+      "bank_id": "1012ab00",
+      "text": "Sizin bu gençlik modanıza ayak uyduramam."
+    },
+    {
+      "id": "d80edecd",
+      "bank_id": "1012ab00",
+      "text": "Beni bir çocukla karıştırdın galiba."
+    },
+    {
+      "id": "d80edece",
+      "bank_id": "1012ab00",
+      "text": "Çocuk eşyasıyla ne işim olur benim?"
+    },
+    {
+      "id": "d80edecf",
+      "bank_id": "1012ab00",
+      "text": "Bu çocuklar için."
+    },
+    {
+      "id": "f0334440",
+      "bank_id": "1012ab00",
+      "text": "Mükemmel bir hediye. En üst düzey standartta olduğu belli."
+    },
+    {
+      "id": "f0334441",
+      "bank_id": "1012ab00",
+      "text": "Bu kalibrede nesnelere nadiren rastlanır. Harika."
+    },
+    {
+      "id": "f1782d90",
+      "bank_id": "1012ab00",
+      "text": "Kendi türünün zirvesi resmen."
+    },
+    {
+      "id": "f1782d91",
+      "bank_id": "1012ab00",
+      "text": "Üstün kalitede bir eşya."
+    },
+    {
+      "id": "f7334f4c",
+      "bank_id": "1012ab00",
+      "text": "Benim yüksek standartlarıma kesinlikle uyuyor."
+    },
+    {
+      "id": "f7334f4d",
+      "bank_id": "1012ab00",
+      "text": "Baştan aşağı fevkalade kalite."
+    },
+    {
+      "id": "f878389c",
+      "bank_id": "1012ab00",
+      "text": "Harika bir örnek. Teşekkür ederim."
+    },
+    {
+      "id": "f878389d",
+      "bank_id": "1012ab00",
+      "text": "Diğer kıymetli eşyalarımın yanına pek yakışacak."
+    },
+    {
+      "id": "f98de350",
+      "bank_id": "1012ab00",
+      "text": "Susuzluğumu tam dindirecek. Sağ ol!"
+    },
+    {
+      "id": "f98de356",
+      "bank_id": "1012ab00",
+      "text": "Soğuk bir içeceğe çok ihtiyacım vardı. Teşekkür ederim."
+    },
+    {
+      "id": "f98de357",
+      "bank_id": "1012ab00",
+      "text": "Susamış olduğumu nereden bildin? Teşekkürler!"
+    },
+    {
+      "id": "fe8deb70",
+      "bank_id": "1012ab00",
+      "text": "Ben de tam ne kadar susadığımı düşünüyordum. Sağ olasın."
+    },
+    {
+      "id": "fe8deb75",
+      "bank_id": "1012ab00",
+      "text": "Ne kadar ferahlatıcı! Teşekkürler!"
+    },
+    {
+      "id": "fff7ad98",
+      "bank_id": "1012ab00",
+      "text": "Beni gerçekten dinliyorsun, değil mi? Bu olağanüstü romantik."
+    },
+    {
+      "id": "fff7ad99",
+      "bank_id": "1012ab00",
+      "text": "Romantizmin ta kendisi."
+    },
+    {
+      "id": "fff7ad9a",
+      "bank_id": "1012ab00",
+      "text": "Bana bundan daha romantik bir şey alamazdın."
+    },
+    {
+      "id": "fff7ad9b",
+      "bank_id": "1012ab00",
+      "text": "O kadar romantik ki bayılabilirim."
+    },
+    {
+      "id": "fff7ad9c",
+      "bank_id": "1012ab00",
+      "text": "Nereden bildin? En sevdiğim! Hem de ne kadar romantik!"
+    },
+    {
+      "id": "fff7ad9d",
+      "bank_id": "1012ab00",
+      "text": "Ne kadar romantik bir hediye. Çok sevdim! Nereden bildin?"
+    },
+    {
+      "id": "fff7ad9e",
+      "bank_id": "1012ab00",
+      "text": "Bunun bu kadar romantik olduğuna inanamıyorum."
+    }
+  ]
+}

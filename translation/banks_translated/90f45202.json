@@ -1,0 +1,656 @@
+{
+  "bank_id": "90f45202",
+  "total_strings": 130,
+  "strings": [
+    {
+      "id": "03b0b0f0",
+      "bank_id": "90f45202",
+      "text": "Artık dayanamıyorum. Senden nefret ediyorum!"
+    },
+    {
+      "id": "03b0b0f3",
+      "bank_id": "90f45202",
+      "text": "Senden oldum olası nefret ederdim. Şimdi bağırsaklarını deşme fırsatım var işte."
+    },
+    {
+      "id": "090f6078",
+      "bank_id": "90f45202",
+      "text": "Lucien için çalışıyor olman umurumda değil. Yasaları çiğneyip yanına kâr kalacağını sanma."
+    },
+    {
+      "id": "090f607b",
+      "bank_id": "90f45202",
+      "text": "Demek sen de Lucien'in avanaklarından birisin ha?"
+    },
+    {
+      "id": "0c8a3ac1",
+      "bank_id": "90f45202",
+      "text": "Ha ha! Doğru kıyafetleri giydiğine emin misin canım?"
+    },
+    {
+      "id": "0c8a3ac2",
+      "bank_id": "90f45202",
+      "text": "Oho, aramızda bir karşı cins kılığına giren varmış meğer! Cesaretine hayran kaldım. Ama yine de seni öldüreceğim."
+    },
+    {
+      "id": "0c8a3ac3",
+      "bank_id": "90f45202",
+      "text": "Ooo, tuhaf tuhaf giyinmeye meraklısın demek ha? Ho ho!"
+    },
+    {
+      "id": "13c9b82c",
+      "bank_id": "90f45202",
+      "text": "Hayatımda gördüğüm en çirkin kıyafetler bunlar. Ben ki üstü başı paçavra adamlarla dolu bir kampta yaşıyorum."
+    },
+    {
+      "id": "13c9b82d",
+      "bank_id": "90f45202",
+      "text": "Ölsem o kıyafetlerle yakalanmam. Tabii sen yakalanacaksın, o ayrı."
+    },
+    {
+      "id": "13c9b82f",
+      "bank_id": "90f45202",
+      "text": "Ne biçim kıyafetler lan bunlar?! Seni öldürdükten sonra yakacağım onları."
+    },
+    {
+      "id": "15635f92",
+      "bank_id": "90f45202",
+      "text": "Hadi ama kocakarı, yeterince yaşadın zaten."
+    },
+    {
+      "id": "15635f99",
+      "bank_id": "90f45202",
+      "text": "Hadi ama ihtiyar, yeterince yaşadın zaten."
+    },
+    {
+      "id": "1808b83d",
+      "bank_id": "90f45202",
+      "text": "İşim bittiğinde o kadar hoş görünmeyeceksin."
+    },
+    {
+      "id": "1808b83e",
+      "bank_id": "90f45202",
+      "text": "Herkesin dönüp sana bakması hoşuna gidiyor değil mi? İşim bittiğinde insanların midesini bulandıracaksın."
+    },
+    {
+      "id": "1b8f0501",
+      "bank_id": "90f45202",
+      "text": "Seni adalete teslim edeceğim, aşağılık haydut."
+    },
+    {
+      "id": "1b8f0502",
+      "bank_id": "90f45202",
+      "text": "Nefret ettiğim bir şey varsa o da haydutlardır!"
+    },
+    {
+      "id": "1feaf3a6",
+      "bank_id": "90f45202",
+      "text": "Görünüşünü çok fazla önemsiyorsun. Seni geberttiğimde hiçbir işe yaramayacak o."
+    },
+    {
+      "id": "1feaf3ad",
+      "bank_id": "90f45202",
+      "text": "İçimden çok yaramaz şeyler yapma hissi uyandırıyorsun. Seni öldürmek zorunda olmam ne acı."
+    },
+    {
+      "id": "22be9b90",
+      "bank_id": "90f45202",
+      "text": "Seni telaşlandırmak istemem ama üst dudağında tuhaf küçük bir hayvan yaşıyor."
+    },
+    {
+      "id": "22be9b91",
+      "bank_id": "90f45202",
+      "text": "O bıyık seni kendini beğenmiş bir ahmak gibi gösteriyor."
+    },
+    {
+      "id": "22be9b93",
+      "bank_id": "90f45202",
+      "text": "Şu bıyığı suratından çekip koparalım bakalım, ha?"
+    },
+    {
+      "id": "25918f13",
+      "bank_id": "90f45202",
+      "text": "Bahse girerim kızlar arasında pek popülersindir. Bugünden sonra hiç olmayacaksın ama."
+    },
+    {
+      "id": "25918f18",
+      "bank_id": "90f45202",
+      "text": "Şu kavgayı unutup biraz eğlensek nasıl olur tatlım?"
+    },
+    {
+      "id": "268712bd",
+      "bank_id": "90f45202",
+      "text": "Ne oldu? Altına mı yaptın?"
+    },
+    {
+      "id": "268712be",
+      "bank_id": "90f45202",
+      "text": "Taş gibi bacakların varmış ha! Ha ha!"
+    },
+    {
+      "id": "268712bf",
+      "bank_id": "90f45202",
+      "text": "Dizlerden korktuğumu nereden bildin?"
+    },
+    {
+      "id": "3323a0e0",
+      "bank_id": "90f45202",
+      "text": "Güzel kıyafetler! Ha ha!"
+    },
+    {
+      "id": "3323a0e3",
+      "bank_id": "90f45202",
+      "text": "Ben de herkes kadar açık görüşlüyümdür ama o kıyafetleri giymemelisin."
+    },
+    {
+      "id": "39dae9a4",
+      "bank_id": "90f45202",
+      "text": "Siz yolkesenler kendinizi çok özel sanıyorsunuz. Aslında süslü birer pislikten başka bir şey değilsiniz."
+    },
+    {
+      "id": "39dae9a7",
+      "bank_id": "90f45202",
+      "text": "Her zaman bir yolkeseni haklamak istemişimdir!"
+    },
+    {
+      "id": "3aa39088",
+      "bank_id": "90f45202",
+      "text": "Oradan manzaraya iyi bak seni uzun ucube. Son görüşün olacak."
+    },
+    {
+      "id": "3aa39089",
+      "bank_id": "90f45202",
+      "text": "Oradan bana asla ulaşamazsın."
+    },
+    {
+      "id": "3aa3908b",
+      "bank_id": "90f45202",
+      "text": "Ne derler bilirsin, boyun ne kadar uzunsa kafanı uçurmak için o kadar yükseğe zıplamam gerekir."
+    },
+    {
+      "id": "3be466f1",
+      "bank_id": "90f45202",
+      "text": "Pek ateşli olduğunu sanıyorsun değil mi?"
+    },
+    {
+      "id": "3be466fa",
+      "bank_id": "90f45202",
+      "text": "Silahları bırakıp güzel bir randevuya çıkamamamız ne kötü tatlım."
+    },
+    {
+      "id": "3d5d9396",
+      "bank_id": "90f45202",
+      "text": "Yaptığın onca şey... Katlettiğin onca insan... Böylesine kötü bir varlığın kurtarılabileceğini mi sanıyorsun? Sonsuza dek lanetlendin."
+    },
+    {
+      "id": "402cb0e0",
+      "bank_id": "90f45202",
+      "text": "Katıksız bir kötüsün değil mi? Etrafta senin gibilerden daha çok olmalı."
+    },
+    {
+      "id": "402cb0e1",
+      "bank_id": "90f45202",
+      "text": "Gölgeler Tapınağı'na kurban götürdüğüm son seferden beri böyle bir kötülük görmemiştim."
+    },
+    {
+      "id": "402cb0e2",
+      "bank_id": "90f45202",
+      "text": "Vaktinde epey pislik işler yapmışsın ha. Etkilendim doğrusu."
+    },
+    {
+      "id": "40a7a53c",
+      "bank_id": "90f45202",
+      "text": "O üniformayı giymeye layık değilsin!"
+    },
+    {
+      "id": "40a7a53e",
+      "bank_id": "90f45202",
+      "text": "O kıyafeti kimden çaldın sen? Çünkü benimki haftalardır kayıp!"
+    },
+    {
+      "id": "40a7a53f",
+      "bank_id": "90f45202",
+      "text": "Sen haydut falan değilsin! Sırf bizdenmiş gibi davrandığın için seni ekstra yavaş öldüreceğim."
+    },
+    {
+      "id": "4319ebc5",
+      "bank_id": "90f45202",
+      "text": "Ömrümde rastladığım en aşağılık ve yozlaşmış suçlusun."
+    },
+    {
+      "id": "4319ebc6",
+      "bank_id": "90f45202",
+      "text": "Sende ahlak namına zerre yok, senin sorunun bu işte!"
+    },
+    {
+      "id": "4599baa3",
+      "bank_id": "90f45202",
+      "text": "Dövüşmek için fazla çekicisin canım. Onun yerine birlikte cennete doğru bir yolculuğa çıksak ya?"
+    },
+    {
+      "id": "4599baa8",
+      "bank_id": "90f45202",
+      "text": "Seninle işim bittiğinde yaşayan hiçbir kadın seni çekici bulmayacak."
+    },
+    {
+      "id": "46c8fc10",
+      "bank_id": "90f45202",
+      "text": "O üniformayı nereden buldun?!"
+    },
+    {
+      "id": "46c8fc13",
+      "bank_id": "90f45202",
+      "text": "O üniformaya layık değilsin."
+    },
+    {
+      "id": "54779521",
+      "bank_id": "90f45202",
+      "text": "Güzel dövme. Belki ben de benzerini yaptırırım. Ya da seninkini söküp alırım."
+    },
+    {
+      "id": "54779522",
+      "bank_id": "90f45202",
+      "text": "Hey, tatlı dövmeymiş. Nerede yaptırdın?"
+    },
+    {
+      "id": "54779523",
+      "bank_id": "90f45202",
+      "text": "Siz de dövmenin sizi sert gösterdiğini sanıyorsunuz ha? Güldürmeyin beni."
+    },
+    {
+      "id": "57d73f78",
+      "bank_id": "90f45202",
+      "text": "Ne kadar güçlü olduğun umurumda değil, yerde koca bir et yığını olarak kalacaksın."
+    },
+    {
+      "id": "57d73f79",
+      "bank_id": "90f45202",
+      "text": "Şu kaslara bak! Bahse girerim bir trolü kaldırabilirsin, değil mi?"
+    },
+    {
+      "id": "57d73f7b",
+      "bank_id": "90f45202",
+      "text": "Sizin gibi güçlü tiplerin hepsi sonunda en yumuşak çıkanlar olur."
+    },
+    {
+      "id": "5a2a0568",
+      "bank_id": "90f45202",
+      "text": "Ayy, benim için mi bu kadar süslendin?"
+    },
+    {
+      "id": "5a2a0569",
+      "bank_id": "90f45202",
+      "text": "Aman Tanrım, ne büyük gaf! Bugün makyajımı yapmayı unutmuşum."
+    },
+    {
+      "id": "67ace4d1",
+      "bank_id": "90f45202",
+      "text": "Çırılçıplak dolaşarak işleri sadece daha da berbat ediyorsun!"
+    },
+    {
+      "id": "67ace4d2",
+      "bank_id": "90f45202",
+      "text": "Öğğk, bir çıplak suçlu daha. Arada bir biraz kıyafet çalamıyor musunuz siz?"
+    },
+    {
+      "id": "6abe798f",
+      "bank_id": "90f45202",
+      "text": "Nefretten başka hiçbir şey hissetmeyeceksin ve başkalarında uyandıracağın tek duygu da bu olacak."
+    },
+    {
+      "id": "6bfbb2c8",
+      "bank_id": "90f45202",
+      "text": "Sende bir dirhem iyilik yok. Haydut olmalıymışsın sen!"
+    },
+    {
+      "id": "6bfbb2c9",
+      "bank_id": "90f45202",
+      "text": "Böyle kötü mü doğdun yoksa bir yerlerden mi öğrendin?"
+    },
+    {
+      "id": "6bfbb2cb",
+      "bank_id": "90f45202",
+      "text": "Ne kadar kötü olduğun umurumda değil. Yine de geberteceğim seni."
+    },
+    {
+      "id": "70232507",
+      "bank_id": "90f45202",
+      "text": "Biz çirkin haydutların sevgili bulmasına engel olanlar tam da senin gibi adamlar işte. Nefret ediyorum bundan!"
+    },
+    {
+      "id": "7023250c",
+      "bank_id": "90f45202",
+      "text": "Bir saniye bekle tatlım, aklıma resmini çizeyim. Amma da afetsin ha."
+    },
+    {
+      "id": "711f1a72",
+      "bank_id": "90f45202",
+      "text": "Ver bir öpücük!"
+    },
+    {
+      "id": "711f1a79",
+      "bank_id": "90f45202",
+      "text": "Bahse girerim her istediğin kızı elde ediyorsundur değil mi? Senden nefret etmek için bir sebep daha."
+    },
+    {
+      "id": "74574fb5",
+      "bank_id": "90f45202",
+      "text": "Senin gibi kötülerin icabına bakılmalı!"
+    },
+    {
+      "id": "74574fb6",
+      "bank_id": "90f45202",
+      "text": "Tepeden tırnağa kötü bir pisliksin ve seni içeri tıkacağım."
+    },
+    {
+      "id": "79eb40e8",
+      "bank_id": "90f45202",
+      "text": "Sen bir sümsük, bir domuz ve tam bir pisliksin."
+    },
+    {
+      "id": "79eb40e9",
+      "bank_id": "90f45202",
+      "text": "Sana bakmak bile kanımı beynime sıçratıyor."
+    },
+    {
+      "id": "79eb40ea",
+      "bank_id": "90f45202",
+      "text": "İnsanların çoğundan nefret ederim. Ama senden GERÇEKTEN nefret ediyorum!"
+    },
+    {
+      "id": "7bef9a35",
+      "bank_id": "90f45202",
+      "text": "Kimi kandırmaya çalışıyorsun? Sen yolkesen falan değilsin!"
+    },
+    {
+      "id": "7bef9a36",
+      "bank_id": "90f45202",
+      "text": "Bir yolkesen gibi dövüşmüyorsun. Lonca'dan olmana imkân yok."
+    },
+    {
+      "id": "7bef9a37",
+      "bank_id": "90f45202",
+      "text": "Hayduta karşı yolkesen! İşte nihai kapışma!"
+    },
+    {
+      "id": "8da22890",
+      "bank_id": "90f45202",
+      "text": "Böyle görünmenin her yaptığının yanına kâr kalacağı anlamına geldiğini mi sanıyorsun? Fena yanılıyorsun!"
+    },
+    {
+      "id": "8da22893",
+      "bank_id": "90f45202",
+      "text": "Şu güzel yüzün için ne yapabileceğimize bir bakalım bakalım."
+    },
+    {
+      "id": "9a1b7031",
+      "bank_id": "90f45202",
+      "text": "Ben senin gibi afet değilim belki ama yakında sen de öyle olmayacaksın."
+    },
+    {
+      "id": "9a1b7032",
+      "bank_id": "90f45202",
+      "text": "Başkalarının aklını başından alabilirsin ama ben bir kanun adamıyım!"
+    },
+    {
+      "id": "9d16cd90",
+      "bank_id": "90f45202",
+      "text": "Sen karşılaştığım en büyük lanet hobbe emicisin."
+    },
+    {
+      "id": "9d16cd91",
+      "bank_id": "90f45202",
+      "text": "Bunun çok canını yakacağından emin olacağım. Hem de çok."
+    },
+    {
+      "id": "9d16cd93",
+      "bank_id": "90f45202",
+      "text": "Senden tiksindiğim kadar tiksindiğim başka kimseyle karşılaşmadım."
+    },
+    {
+      "id": "9febce14",
+      "bank_id": "90f45202",
+      "text": "Senin gibi yaşlı adamları dövmemem gerekirdi... Ama neyse canım."
+    },
+    {
+      "id": "9febce1f",
+      "bank_id": "90f45202",
+      "text": "Senin gibi yaşlı kadınları dövmemem gerekirdi... Ama neyse canım."
+    },
+    {
+      "id": "a2f9941d",
+      "bank_id": "90f45202",
+      "text": "Senden öyle bıktım ve usandım ki!"
+    },
+    {
+      "id": "a2f9941e",
+      "bank_id": "90f45202",
+      "text": "Kanımı oldum olası beynime sıçratmışsındır. Seni pataklamaktan büyük zevk alacağım."
+    },
+    {
+      "id": "a4027c39",
+      "bank_id": "90f45202",
+      "text": "Şu Lucien denen herif için Kule'de çalışanlardansın, değil mi?"
+    },
+    {
+      "id": "a4027c3a",
+      "bank_id": "90f45202",
+      "text": "Hey, Lucien için çalışmak nasıl bir şeydi?"
+    },
+    {
+      "id": "a4027c3b",
+      "bank_id": "90f45202",
+      "text": "Patronun Lucien'e söyle, haydutları rahat bıraksın."
+    },
+    {
+      "id": "a7eb3410",
+      "bank_id": "90f45202",
+      "text": "Ne yapıyorsun sen, her gün 20 kilometre falan mı koşuyorsun? Vay anasını."
+    },
+    {
+      "id": "a7eb3411",
+      "bank_id": "90f45202",
+      "text": "Taş gibi zindesin maşallah, değil mi?"
+    },
+    {
+      "id": "a7eb3412",
+      "bank_id": "90f45202",
+      "text": "Çok spor yapıyorsun değil mi? Ben şahsen yemeyi ve öldürmeyi tercih ederim."
+    },
+    {
+      "id": "a88be601",
+      "bank_id": "90f45202",
+      "text": "Duyduğuma göre çok fena bir insanmışsın. Nasıl oldu da haydut olmadın sen?"
+    },
+    {
+      "id": "a88be602",
+      "bank_id": "90f45202",
+      "text": "Bayağı kötüsün sen ha. Kötü, kötü, çok kötü. Yaramaz bile denebilir."
+    },
+    {
+      "id": "a88be603",
+      "bank_id": "90f45202",
+      "text": "Söylemem gerek ki keşke ben de senin kadar kötü olsaydım. Anında haydutlar kralı olurdum!"
+    },
+    {
+      "id": "aa400d08",
+      "bank_id": "90f45202",
+      "text": "Senin gibi kötü bir pislik olmadan burası çok daha güzel bir yer olacak!"
+    },
+    {
+      "id": "aa400d0b",
+      "bank_id": "90f45202",
+      "text": "Kötülüğüne bir son vererek dünyaya büyük bir iyilik yapmış olacağım."
+    },
+    {
+      "id": "af8ed58c",
+      "bank_id": "90f45202",
+      "text": "Yüreğindeki karanlığı hissedebiliyorum; çürümüş ve solmuş."
+    },
+    {
+      "id": "b0bc9431",
+      "bank_id": "90f45202",
+      "text": "Bütün bu kavgayı unutup biraz eğlenelim. Ne dersin tatlım?"
+    },
+    {
+      "id": "b0bc943a",
+      "bank_id": "90f45202",
+      "text": "Birinin o güzel yüzünü dağıtma vakti gelmişti zaten."
+    },
+    {
+      "id": "b29c3160",
+      "bank_id": "90f45202",
+      "text": "Kusurlarından keyif alıyorsun değil mi? Birbirimize çok benziyoruz."
+    },
+    {
+      "id": "b29c3162",
+      "bank_id": "90f45202",
+      "text": "Neredeyse benim kadar çok zaafın var."
+    },
+    {
+      "id": "b29c3163",
+      "bank_id": "90f45202",
+      "text": "Fena halde yozlaşmış birisin. Bu hoşuma gitti."
+    },
+    {
+      "id": "b2efdb11",
+      "bank_id": "90f45202",
+      "text": "Senden daha çok nefret ettiğim kimse yok. Bunu sana göstermek için sabırsızlanıyorum."
+    },
+    {
+      "id": "b2efdb12",
+      "bank_id": "90f45202",
+      "text": "Ah, sana hiç tahammülüm yok! Boynunu kırmaktan büyük zevk alacağım."
+    },
+    {
+      "id": "b70991e0",
+      "bank_id": "90f45202",
+      "text": "Korkutucu bir herifsin ama biraz yüreğin olmadan haydut olunmuyor."
+    },
+    {
+      "id": "b70991e1",
+      "bank_id": "90f45202",
+      "text": "Senin gibi tipler rüyalarıma giriyor."
+    },
+    {
+      "id": "b70991e2",
+      "bank_id": "90f45202",
+      "text": "Beni korkutmuyorsun. Hiç hem de. Zerre kadar. Şey, belki birazcık. Sakın kızma hemen."
+    },
+    {
+      "id": "c5f715c2",
+      "bank_id": "90f45202",
+      "text": "O aptal suratını baştan yaratacağım senin, tatlı çocuk."
+    },
+    {
+      "id": "c5f715c9",
+      "bank_id": "90f45202",
+      "text": "Hey tatlım, sen ve ben; mum ışığında bir akşam yemeği ve koca bir yığın yumuşak saman. Ne dersin?"
+    },
+    {
+      "id": "cb130933",
+      "bank_id": "90f45202",
+      "text": "Bu işler için biraz yaşlanmadın mı dede?"
+    },
+    {
+      "id": "cb130938",
+      "bank_id": "90f45202",
+      "text": "Bu işler için biraz yaşlanmadın mı büyükanne?"
+    },
+    {
+      "id": "cf26df20",
+      "bank_id": "90f45202",
+      "text": "Kötülük yapanlar muhafızların ana yemeğidir. Ve akşam yemeği vakti geldi!"
+    },
+    {
+      "id": "cf26df23",
+      "bank_id": "90f45202",
+      "text": "Yaptığın onca korkunç şeyin bedelini ödeyeceksin!"
+    },
+    {
+      "id": "d9e47881",
+      "bank_id": "90f45202",
+      "text": "Etin yozlaşmayla çürümüş. Kanın ise zehirleyen ve yok eden murdar bir balçık."
+    },
+    {
+      "id": "dd3424d0",
+      "bank_id": "90f45202",
+      "text": "Amma da şık giyinmişsin ha? O kıyafetleri soğuk, ölü bedeninden söküp aldığımda iyi satarım."
+    },
+    {
+      "id": "dd3424d1",
+      "bank_id": "90f45202",
+      "text": "Kıyafetlerini kesinlikle kendime alıyorum."
+    },
+    {
+      "id": "dd3424d3",
+      "bank_id": "90f45202",
+      "text": "Güzel kıyafetler. Seni öldürdükten sonra belki kendime saklarım."
+    },
+    {
+      "id": "e2d893c8",
+      "bank_id": "90f45202",
+      "text": "Bana fazla yaklaşma bak."
+    },
+    {
+      "id": "e2d893c9",
+      "bank_id": "90f45202",
+      "text": "İnsanları korkutmaktan zevk alıyorsun değil mi? Şey, beni... beni öyle kolay kolay korkutamazsın."
+    },
+    {
+      "id": "e2d893cb",
+      "bank_id": "90f45202",
+      "text": "Şimdi, şey, aramızdaki hesabı düzgün tutalım tamam mı? Hah şöyle."
+    },
+    {
+      "id": "e66d07e7",
+      "bank_id": "90f45202",
+      "text": "O güzel yüzünü dağıtmak çok yazık olacak canım."
+    },
+    {
+      "id": "e66d07ec",
+      "bank_id": "90f45202",
+      "text": "O güzel yüzünü dağıtmak çok yazık olacak. Şansına küs."
+    },
+    {
+      "id": "eb3430b5",
+      "bank_id": "90f45202",
+      "text": "Muhafızlar kime karşı savaşırlarsa savaşsınlar korkuyu yenmek üzere eğitilir!"
+    },
+    {
+      "id": "eb3430b6",
+      "bank_id": "90f45202",
+      "text": "Senden korkmuyorum. Yani pek sayılmaz. Öyle çok çok korkmuyorum yani."
+    },
+    {
+      "id": "f856cc0c",
+      "bank_id": "90f45202",
+      "text": "Seni lanet aptal. Neden oracıkta geberip ölmüyorsun? Beni zahmetten kurtarırdın."
+    },
+    {
+      "id": "f856cc0e",
+      "bank_id": "90f45202",
+      "text": "Öldürmeyi senin kadar istediğim başka kimseyle karşılaşmadım."
+    },
+    {
+      "id": "f856cc0f",
+      "bank_id": "90f45202",
+      "text": "Öldürmek işin bir parçası. Ama seninle zevkten dört köşe olacağım."
+    },
+    {
+      "id": "f8f4f8a4",
+      "bank_id": "90f45202",
+      "text": "Nüdistlerle dövüşmekten her zaman keyif almışımdır."
+    },
+    {
+      "id": "f8f4f8a5",
+      "bank_id": "90f45202",
+      "text": "Sanırım çıplaklar plajının şu tarafta birkaç kilometre ötede olduğunu göreceksin."
+    },
+    {
+      "id": "f8f4f8a7",
+      "bank_id": "90f45202",
+      "text": "Ha ha! Bugün giyinmeyi unuttun mu?"
+    }
+  ]
+}

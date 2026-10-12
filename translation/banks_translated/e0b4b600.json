@@ -1,0 +1,921 @@
+{
+  "bank_id": "e0b4b600",
+  "total_strings": 183,
+  "strings": [
+    {
+      "id": "02c25316",
+      "bank_id": "e0b4b600",
+      "text": "Lucien nasıl uygun görürse ona öyle hizmet edeceğim."
+    },
+    {
+      "id": "03c25489",
+      "bank_id": "e0b4b600",
+      "text": "Kaderimizi Lord Lucien ile birleştirmekle iyi ettik."
+    },
+    {
+      "id": "041ff007",
+      "bank_id": "e0b4b600",
+      "text": "Yola çıkmaya hazır olduğunda beni nerede bulacağını biliyorsun."
+    },
+    {
+      "id": "04c2567c",
+      "bank_id": "e0b4b600",
+      "text": "Lütfen yapma. Bana söylediğin her şeyi sorgusuz sualsiz yapacağım."
+    },
+    {
+      "id": "05c257ea",
+      "bank_id": "e0b4b600",
+      "text": "Bu sesler varken bazen düşünmek bile zor..."
+    },
+    {
+      "id": "05c257ef",
+      "bank_id": "e0b4b600",
+      "text": "Beni öldürme. Beni hatırlıyorsun, adım... adım..."
+    },
+    {
+      "id": "06c25942",
+      "bank_id": "e0b4b600",
+      "text": "Ne yapıyorsun sen?"
+    },
+    {
+      "id": "1009bb78",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Sana bir emir verildi."
+    },
+    {
+      "id": "1033ccd7",
+      "bank_id": "e0b4b600",
+      "text": "Biliyorum evlat. Ama o geri dönecektir."
+    },
+    {
+      "id": "1033ccdc",
+      "bank_id": "e0b4b600",
+      "text": "Biliyorum evlat. Ama o geri dönecektir."
+    },
+    {
+      "id": "1109bceb",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Bak, yoksa acı çekersin."
+    },
+    {
+      "id": "1309c031",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Sana söylenen yere bak."
+    },
+    {
+      "id": "14938a79",
+      "bank_id": "e0b4b600",
+      "text": "Birinci Hafta"
+    },
+    {
+      "id": "14938a7b",
+      "bank_id": "e0b4b600",
+      "text": "Üçüncü Hafta"
+    },
+    {
+      "id": "1507c440",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Bırak açlıktan ölsünler."
+    },
+    {
+      "id": "1607c633",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Onlara yiyecek verilmeyecek."
+    },
+    {
+      "id": "1609c48a",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Efendin bakmanı emrediyor."
+    },
+    {
+      "id": "1707c7a6",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Hayatın için yalvar."
+    },
+    {
+      "id": "1709c67d",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Gözlerini emredilen yere çevir."
+    },
+    {
+      "id": "1807c919",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Yalvarmanı emrediyorum."
+    },
+    {
+      "id": "1907ca8c",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Mahkûmları besleme."
+    },
+    {
+      "id": "1b07cdd2",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Bu adamlara yardım etmemeni emrediyorum."
+    },
+    {
+      "id": "1c07cf45",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Yiyeceği esirgemen emredilmişti."
+    },
+    {
+      "id": "2107d764",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Bana boyun eğ ve yalvar."
+    },
+    {
+      "id": "2207d8d7",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Yalvaracaksın."
+    },
+    {
+      "id": "2e6a1fd9",
+      "bank_id": "e0b4b600",
+      "text": "Komutan seni görmek istiyor."
+    },
+    {
+      "id": "3a1fa93b",
+      "bank_id": "e0b4b600",
+      "text": "Yeni dünyaya doğru bir adım at. Geride yalnızca kaos ve umutsuzluk yatar."
+    },
+    {
+      "id": "3b4c2498",
+      "bank_id": "e0b4b600",
+      "text": "Sana itaat ettireceğim."
+    },
+    {
+      "id": "3e4c2951",
+      "bank_id": "e0b4b600",
+      "text": "Sana harcadığım zamanın hiçbiri boşa gitmedi."
+    },
+    {
+      "id": "3eae4aae",
+      "bank_id": "e0b4b600",
+      "text": "Eşyalarını Hammer'a bırakıp Kule'ye doğru yola çıkılsın mı?"
+    },
+    {
+      "id": "42bed4db",
+      "bank_id": "e0b4b600",
+      "text": "Direndiğin her saniye sen zayıflıyorsun, bense güçleniyorum."
+    },
+    {
+      "id": "45bed994",
+      "bank_id": "e0b4b600",
+      "text": "Bana saygı göstereceksin!"
+    },
+    {
+      "id": "45d54e68",
+      "bank_id": "e0b4b600",
+      "text": "Hazır olduğunda eşyalarını bana ver. Sanırım taşıyabilirim."
+    },
+    {
+      "id": "46d54fdb",
+      "bank_id": "e0b4b600",
+      "text": "Şu ağzı kokulu köpeğe iyi bakacağım, söz."
+    },
+    {
+      "id": "47bedcfa",
+      "bank_id": "e0b4b600",
+      "text": "İtaat edeceksin, yoksa seni haklarım."
+    },
+    {
+      "id": "47d5514e",
+      "bank_id": "e0b4b600",
+      "text": "Ne zaman hazırsan."
+    },
+    {
+      "id": "48bede6d",
+      "bank_id": "e0b4b600",
+      "text": "Seni yerle bir edecek, sonra da uygun gördüğüm gibi yeniden inşa edeceğim."
+    },
+    {
+      "id": "49559d94",
+      "bank_id": "e0b4b600",
+      "text": "Güzel."
+    },
+    {
+      "id": "4b55a0fa",
+      "bank_id": "e0b4b600",
+      "text": "Şimdi, şuraya bak."
+    },
+    {
+      "id": "4b5b50b8",
+      "bank_id": "e0b4b600",
+      "text": "Sanırım bu adamı tanıyorsun."
+    },
+    {
+      "id": "4c55a26d",
+      "bank_id": "e0b4b600",
+      "text": "Kıpırdama."
+    },
+    {
+      "id": "4d2765a5",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Sana bir emir verildi!"
+    },
+    {
+      "id": "4de5c6f8",
+      "bank_id": "e0b4b600",
+      "text": "Şu ana kadar iyi iş çıkardın."
+    },
+    {
+      "id": "4e276718",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Başka seçeneğin yok!"
+    },
+    {
+      "id": "4f27688b",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! İrademe boyun eğ!"
+    },
+    {
+      "id": "4f5b56e4",
+      "bank_id": "e0b4b600",
+      "text": "Fakat itaat edemeyenler işe yaramazdır."
+    },
+    {
+      "id": "50276a7e",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Bir hiçliğe dönüşeceksin!"
+    },
+    {
+      "id": "505b5857",
+      "bank_id": "e0b4b600",
+      "text": "İtaat etmeyenler zorla itaat ettirilebilir."
+    },
+    {
+      "id": "50e5cbb1",
+      "bank_id": "e0b4b600",
+      "text": "Seni özel bir görev için seçtim..."
+    },
+    {
+      "id": "51276bd1",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Sana emredileni yap!"
+    },
+    {
+      "id": "515b59ca",
+      "bank_id": "e0b4b600",
+      "text": "268, çeneni kapa!"
+    },
+    {
+      "id": "52276d44",
+      "bank_id": "e0b4b600",
+      "text": "Çok şey kaybediyorsun. Hem de ne uğruna?"
+    },
+    {
+      "id": "525b5bbd",
+      "bank_id": "e0b4b600",
+      "text": "Muhafız 268, sessiz olmanı emrediyorum."
+    },
+    {
+      "id": "530b45b0",
+      "bank_id": "e0b4b600",
+      "text": "Üç..."
+    },
+    {
+      "id": "53276f37",
+      "bank_id": "e0b4b600",
+      "text": "Seninkinden çok daha asi mizaçları dize getirdim."
+    },
+    {
+      "id": "5330a0ae",
+      "bank_id": "e0b4b600",
+      "text": "Bu herif kaçığın teki."
+    },
+    {
+      "id": "540b4723",
+      "bank_id": "e0b4b600",
+      "text": "İki..."
+    },
+    {
+      "id": "542770aa",
+      "bank_id": "e0b4b600",
+      "text": "Buraya gel dedim. Bana itaat et."
+    },
+    {
+      "id": "550b4896",
+      "bank_id": "e0b4b600",
+      "text": "Beş..."
+    },
+    {
+      "id": "5530a3f4",
+      "bank_id": "e0b4b600",
+      "text": "Komutan bunu kafeste tutmakta haklı. Tehlikeli biri, öyle."
+    },
+    {
+      "id": "560b4a09",
+      "bank_id": "e0b4b600",
+      "text": "Dört..."
+    },
+    {
+      "id": "5630a567",
+      "bank_id": "e0b4b600",
+      "text": "Hey, orada ne yapıyorsun kaçık herif?"
+    },
+    {
+      "id": "570b4bfc",
+      "bank_id": "e0b4b600",
+      "text": "Ama seni kurtaracağım. On saniye."
+    },
+    {
+      "id": "5718bd18",
+      "bank_id": "e0b4b600",
+      "text": "Bu da beni boynundaki o yeni takıya getiriyor. O tasma Lord Lucien'in itaat programının bir parçasıdır."
+    },
+    {
+      "id": "580b4d6f",
+      "bank_id": "e0b4b600",
+      "text": "Herkesin bir kırılma noktası vardır ve ben seninkini bulacağım."
+    },
+    {
+      "id": "5818be8b",
+      "bank_id": "e0b4b600",
+      "text": "Komutan sana... bunu açıklayacaktır."
+    },
+    {
+      "id": "5830a84d",
+      "bank_id": "e0b4b600",
+      "text": "Bu heriften uzak dur, benden söylemesi. Bir dolaplar çeviriyor."
+    },
+    {
+      "id": "5918c07e",
+      "bank_id": "e0b4b600",
+      "text": "En önemlisi, sana söyleneni yap ve tasmayı çıkarmaya kalkışma. Çünkü çıkaramazsın ve denemenin cezası bile ölümdür. Hem de öyle çabuk ve acısız türden değil."
+    },
+    {
+      "id": "5a0b50b5",
+      "bank_id": "e0b4b600",
+      "text": "Bu ahmak artık iflah olmaz."
+    },
+    {
+      "id": "5a18c1d1",
+      "bank_id": "e0b4b600",
+      "text": "Şimdi Komutan'a tekmil ver."
+    },
+    {
+      "id": "5c18c537",
+      "bank_id": "e0b4b600",
+      "text": "Günaydın solucan. Kule'ye hoş geldin. Umarım seversin, çünkü buradan asla ayrılamayacaksın."
+    },
+    {
+      "id": "5d18c6aa",
+      "bank_id": "e0b4b600",
+      "text": "Şu anda kışladayız. Burada yiyip uyuyacaksın ve geri kalan zamanında Komutan seni nereye verirse orada çalışacaksın."
+    },
+    {
+      "id": "5e09ff66",
+      "bank_id": "e0b4b600",
+      "text": "Her neyse, Lil'e mektup yazmak için sabırsızlanıyorum. Ona her şeyi anlatacağım."
+    },
+    {
+      "id": "5e18c81d",
+      "bank_id": "e0b4b600",
+      "text": "Görevin, burayı inşa eden ayak takımını hizaya sokmak ve onun dışında Komutan ne derse sorgusuz sualsiz yapmaktır. Bir emir aldığında derhâl itaat edeceksin."
+    },
+    {
+      "id": "5f0a00d9",
+      "bank_id": "e0b4b600",
+      "text": "Gayet sakin ve sessiz duruyor."
+    },
+    {
+      "id": "610b5bba",
+      "bank_id": "e0b4b600",
+      "text": "Bir."
+    },
+    {
+      "id": "620b5d2d",
+      "bank_id": "e0b4b600",
+      "text": "Öyle olsun."
+    },
+    {
+      "id": "6227cd48",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Komutan'a teşekkür et, yoksa acı çekersin."
+    },
+    {
+      "id": "62ada504",
+      "bank_id": "e0b4b600",
+      "text": "Mükemmel bir asker olacaksın."
+    },
+    {
+      "id": "62dc3296",
+      "bank_id": "e0b4b600",
+      "text": "Hammer haklı. Kule'ye bir kez girdiğinde ayrılmak çok güç olacak."
+    },
+    {
+      "id": "6327cf3b",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Sana bir emir verildi."
+    },
+    {
+      "id": "640a08f8",
+      "bank_id": "e0b4b600",
+      "text": "Ah, Lil beni şimdi bir görseydi... Üniformalı erkeklere her zaman bayılmıştır."
+    },
+    {
+      "id": "640a08fd",
+      "bank_id": "e0b4b600",
+      "text": "Gerçi maskeyi benim sevdiğimden daha fazla seveceğini sanmam. Çok korkutucu duruyorlar ama o şeyin içinde zor nefes alıyordum."
+    },
+    {
+      "id": "6427d0ae",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Sana söyleneni yap."
+    },
+    {
+      "id": "64dc35fc",
+      "bank_id": "e0b4b600",
+      "text": "Tebrikler. Çile'den sağ çıkmayı başaran pek az kişi vardır."
+    },
+    {
+      "id": "650a0a6b",
+      "bank_id": "e0b4b600",
+      "text": "Beni nöbetçi yaptıklarına inanabiliyor musun? Hem de ilk günümde! Birilerini etkilemiş olmalıyım."
+    },
+    {
+      "id": "65ada9dd",
+      "bank_id": "e0b4b600",
+      "text": "Gidebilirsiniz."
+    },
+    {
+      "id": "660a0bde",
+      "bank_id": "e0b4b600",
+      "text": "Hey! Sensin! Birlikte gelmiştik, hatırladın mı? Alışabildin mi bari?"
+    },
+    {
+      "id": "680a0f21",
+      "bank_id": "e0b4b600",
+      "text": "Öyle mi dersin?"
+    },
+    {
+      "id": "680a0f24",
+      "bank_id": "e0b4b600",
+      "text": "Gerçi bana hiç sorun çıkarmıyor."
+    },
+    {
+      "id": "6827d6da",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Gösterdiği merhamet için teşekkürünü sun."
+    },
+    {
+      "id": "690a1097",
+      "bank_id": "e0b4b600",
+      "text": "Hücresine yalnızca Komutan'ın girmesine izin var."
+    },
+    {
+      "id": "6927d84d",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Efendin ona teşekkür etmeni emrediyor."
+    },
+    {
+      "id": "6a0a120a",
+      "bank_id": "e0b4b600",
+      "text": "Lucien onu yakalamak için koca bir manga gönderdi."
+    },
+    {
+      "id": "6a0a120f",
+      "bank_id": "e0b4b600",
+      "text": "Büyücü falan olduğu söyleniyor."
+    },
+    {
+      "id": "6b0a13fd",
+      "bank_id": "e0b4b600",
+      "text": "Şu adama dikkat et. Adı Garth."
+    },
+    {
+      "id": "6bafbc0a",
+      "bank_id": "e0b4b600",
+      "text": "Burada bekliyor olacağım."
+    },
+    {
+      "id": "6c663415",
+      "bank_id": "e0b4b600",
+      "text": "Bu kılıcı al."
+    },
+    {
+      "id": "6d42924c",
+      "bank_id": "e0b4b600",
+      "text": "Birkaç raundu izlemeye bile girdim. Şu hobbe'lerle olan... tek kelimeyle harikaydı!"
+    },
+    {
+      "id": "6ddc43c7",
+      "bank_id": "e0b4b600",
+      "text": "Hammer'a yalnızca görevinin bir sonraki kısmına kesinlikle hazır olduğunda katıl."
+    },
+    {
+      "id": "6e42943f",
+      "bank_id": "e0b4b600",
+      "text": "İnsanın canı gerçekten kendisi de denemek istiyor!"
+    },
+    {
+      "id": "70429705",
+      "bank_id": "e0b4b600",
+      "text": "Muhteşemdi! Her adımında yorumları baştan sona dinledim."
+    },
+    {
+      "id": "7e5d9480",
+      "bank_id": "e0b4b600",
+      "text": "Unutma, çok uzun süre uzak kalabilirsin."
+    },
+    {
+      "id": "7fd0ae4a",
+      "bank_id": "e0b4b600",
+      "text": "Belki yarın yaparım."
+    },
+    {
+      "id": "805d97e6",
+      "bank_id": "e0b4b600",
+      "text": "Düzene sokmak istediğin ne varsa, tam zamanı."
+    },
+    {
+      "id": "815d9959",
+      "bank_id": "e0b4b600",
+      "text": "İyi misin?"
+    },
+    {
+      "id": "89a65168",
+      "bank_id": "e0b4b600",
+      "text": "Komutan'ı görmeye gitmiyor muydun? Bekletilmeyi hiç sevmez o."
+    },
+    {
+      "id": "8ba6544e",
+      "bank_id": "e0b4b600",
+      "text": "Acele etsen iyi olur ha?"
+    },
+    {
+      "id": "8ca65621",
+      "bank_id": "e0b4b600",
+      "text": "Belki bir ara birlikte nöbet tutarız."
+    },
+    {
+      "id": "8e17e329",
+      "bank_id": "e0b4b600",
+      "text": "Herkes gemiyeeeee!"
+    },
+    {
+      "id": "8ee694b2",
+      "bank_id": "e0b4b600",
+      "text": "Bob'u takip edin."
+    },
+    {
+      "id": "8fe69625",
+      "bank_id": "e0b4b600",
+      "text": "Kılıcı alın."
+    },
+    {
+      "id": "90e69798",
+      "bank_id": "e0b4b600",
+      "text": "Komutan'ın odasına gidin."
+    },
+    {
+      "id": "91e6990b",
+      "bank_id": "e0b4b600",
+      "text": "Yeniden eğitim odasına tekmil verin."
+    },
+    {
+      "id": "92e69afe",
+      "bank_id": "e0b4b600",
+      "text": "Gözaltı merkezine tekmil verin."
+    },
+    {
+      "id": "9363e788",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Emirlerin onu öldürmendir."
+    },
+    {
+      "id": "93e69c51",
+      "bank_id": "e0b4b600",
+      "text": "Komutan'a tekmil verin."
+    },
+    {
+      "id": "9463e97b",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Bu adam ölmeli."
+    },
+    {
+      "id": "94e69dc4",
+      "bank_id": "e0b4b600",
+      "text": "Gemiye binin."
+    },
+    {
+      "id": "9536b810",
+      "bank_id": "e0b4b600",
+      "text": "Ben Komutan'ım."
+    },
+    {
+      "id": "9536b811",
+      "bank_id": "e0b4b600",
+      "text": "Sen Acemi 273'sün. Bu numara rastgele verilmedi. Senden önce 272 aceminin iradesini kırdığım için sana verildi. Sen zincirdeki sıradaki halkadan başka bir şey değilsin."
+    },
+    {
+      "id": "9536b815",
+      "bank_id": "e0b4b600",
+      "text": "Buraya Harap Kule'nin yeniden inşasını denetlemek ve Lucien nasıl uygun görürse ona öyle hizmet etmek için getirildin."
+    },
+    {
+      "id": "9536b816",
+      "bank_id": "e0b4b600",
+      "text": "Benim işim senin gibi Muhafızların itaatini sağlamaktır."
+    },
+    {
+      "id": "9536b817",
+      "bank_id": "e0b4b600",
+      "text": "Bilmen gereken tek şey bu."
+    },
+    {
+      "id": "9563eaee",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Öldür onu."
+    },
+    {
+      "id": "959c265c",
+      "bank_id": "e0b4b600",
+      "text": "Güzel, çabuk öğreniyorsun."
+    },
+    {
+      "id": "95e69fb7",
+      "bank_id": "e0b4b600",
+      "text": "Hammer ile konuşun."
+    },
+    {
+      "id": "96e6a12a",
+      "bank_id": "e0b4b600",
+      "text": "Ayrılmaya hazır olduğunuzda iskeleye gidin."
+    },
+    {
+      "id": "9736bb76",
+      "bank_id": "e0b4b600",
+      "text": "İtaat etmemek boynundaki aygıtın devreye girmesine yol açacaktır."
+    },
+    {
+      "id": "9836bce9",
+      "bank_id": "e0b4b600",
+      "text": "Sana söylediğim her şeyi sorgusuz sualsiz yapacaksın."
+    },
+    {
+      "id": "9873256f",
+      "bank_id": "e0b4b600",
+      "text": "137. Hafta"
+    },
+    {
+      "id": "989c2b15",
+      "bank_id": "e0b4b600",
+      "text": "Bu kadar yeter."
+    },
+    {
+      "id": "9936be5c",
+      "bank_id": "e0b4b600",
+      "text": "Sen boyun eğene kadar bu devam edecek."
+    },
+    {
+      "id": "9963f11a",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Bu zavallı hayata son vermeni emrediyorum."
+    },
+    {
+      "id": "9a36bfcf",
+      "bank_id": "e0b4b600",
+      "text": "Bu hoş bir deneyim değildir. İrade gücünü kaybedeceksin. Anıların ve deneyimlerin çekilip alınacak."
+    },
+    {
+      "id": "9a63f28d",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Merhamet göstermeden öldürmelisin."
+    },
+    {
+      "id": "9b36c1a2",
+      "bank_id": "e0b4b600",
+      "text": "Belki direnebileceğini sanıyorsun. Bazıları başta öyle düşünür... kişisel onur denilen yanıltıcı bir duygu."
+    },
+    {
+      "id": "9c36c315",
+      "bank_id": "e0b4b600",
+      "text": "Şimdi: buraya gel. Bana itaat et."
+    },
+    {
+      "id": "9da87810",
+      "bank_id": "e0b4b600",
+      "text": "Öyle mi? Ben orayı senin bitirdiğin sürenin yarısında ezer geçerdim."
+    },
+    {
+      "id": "9e36c67b",
+      "bank_id": "e0b4b600",
+      "text": "Karar vermelisin: onurun senin için gerçekten o kadar önemli mi?"
+    },
+    {
+      "id": "9ea87983",
+      "bank_id": "e0b4b600",
+      "text": "Tamamdır. İlgine teşekkürler."
+    },
+    {
+      "id": "a0a87ce9",
+      "bank_id": "e0b4b600",
+      "text": "Tamam, pekala, fazla havalara girme; sandala sığmayacaksın."
+    },
+    {
+      "id": "b50fb1c8",
+      "bank_id": "e0b4b600",
+      "text": "Bob'u öldürün veya canını bağışlayın."
+    },
+    {
+      "id": "b67211a1",
+      "bank_id": "e0b4b600",
+      "text": "Emirlere her karşı geldiğinizde tasma deneyiminizi tüketecektir. Bu etkiler kalıcıdır."
+    },
+    {
+      "id": "b70fb52e",
+      "bank_id": "e0b4b600",
+      "text": "Komutan'a itaat edin veya etmeyin."
+    },
+    {
+      "id": "b80fb681",
+      "bank_id": "e0b4b600",
+      "text": "Mahkûmları besleyin veya aç bırakın."
+    },
+    {
+      "id": "bacaca84",
+      "bank_id": "e0b4b600",
+      "text": "Kule"
+    },
+    {
+      "id": "c5b0d3d4",
+      "bank_id": "e0b4b600",
+      "text": "Eminim dönecektir."
+    },
+    {
+      "id": "c5b0d3df",
+      "bank_id": "e0b4b600",
+      "text": "Eminim dönecektir."
+    },
+    {
+      "id": "cb80b430",
+      "bank_id": "e0b4b600",
+      "text": "Bana itaat et... yoksa acı çekersin."
+    },
+    {
+      "id": "cc80b5a3",
+      "bank_id": "e0b4b600",
+      "text": "Çabuk ol - sabrım taşmadan önce."
+    },
+    {
+      "id": "cd80b716",
+      "bank_id": "e0b4b600",
+      "text": "Şimdi, öldür onu."
+    },
+    {
+      "id": "d280bf35",
+      "bank_id": "e0b4b600",
+      "text": "Sabrımı sınama."
+    },
+    {
+      "id": "d7dd48e6",
+      "bank_id": "e0b4b600",
+      "text": "Numaram rastgele değil. Ben zincirdeki sıradaki halkadan başka bir şey değilim."
+    },
+    {
+      "id": "d8dd4a59",
+      "bank_id": "e0b4b600",
+      "text": "Bana söylediğin her şeyi sorgusuz sualsiz yapacağım."
+    },
+    {
+      "id": "dddd5278",
+      "bank_id": "e0b4b600",
+      "text": "İlerlememiz itaatin bir ürünüdür."
+    },
+    {
+      "id": "dedd53eb",
+      "bank_id": "e0b4b600",
+      "text": "Lucien dünyayı yeniden inşa edecek."
+    },
+    {
+      "id": "df42ff99",
+      "bank_id": "e0b4b600",
+      "text": "38. Hafta"
+    },
+    {
+      "id": "e0c640d0",
+      "bank_id": "e0b4b600",
+      "text": "Zayıflar direnir. Cahiller başkaldırır."
+    },
+    {
+      "id": "e0d81b33",
+      "bank_id": "e0b4b600",
+      "text": "Kılıcı alın."
+    },
+    {
+      "id": "e0dd5731",
+      "bank_id": "e0b4b600",
+      "text": "Bu proje en çılgın hayallerimin bile ötesinde hırslı."
+    },
+    {
+      "id": "e1c64243",
+      "bank_id": "e0b4b600",
+      "text": "Hayatta kalmak itaatkâr olanların ayrıcalığıdır."
+    },
+    {
+      "id": "e1dd58a4",
+      "bank_id": "e0b4b600",
+      "text": "Benden istenen tek şey itaattir."
+    },
+    {
+      "id": "e3c645a9",
+      "bank_id": "e0b4b600",
+      "text": "İtaat hayattır. Hayat itaattir."
+    },
+    {
+      "id": "e3dd5b8a",
+      "bank_id": "e0b4b600",
+      "text": "Çabamla, emeklerimle, inancımla Albion dönüşecek."
+    },
+    {
+      "id": "e4c6471c",
+      "bank_id": "e0b4b600",
+      "text": "Kule eskiyi temizlerken yeni bir hayat bahşeder."
+    },
+    {
+      "id": "e4dd5d7d",
+      "bank_id": "e0b4b600",
+      "text": "Yeni dünya mükemmelliği içinde tanınmaz olacak."
+    },
+    {
+      "id": "e5c6488f",
+      "bank_id": "e0b4b600",
+      "text": "İtaat yakıttır. Düzen ateştir."
+    },
+    {
+      "id": "e6c64a62",
+      "bank_id": "e0b4b600",
+      "text": "Benim iradem senin iradendir."
+    },
+    {
+      "id": "e6ebbcb3",
+      "bank_id": "e0b4b600",
+      "text": "Güçlü dur. İradeni kırmalarına izin verme."
+    },
+    {
+      "id": "e7c64bd5",
+      "bank_id": "e0b4b600",
+      "text": "Seçenek yok, yalnızca boyun eğiş var."
+    },
+    {
+      "id": "eac650ae",
+      "bank_id": "e0b4b600",
+      "text": "İtaat edecek gücün var mı?"
+    },
+    {
+      "id": "ebc65201",
+      "bank_id": "e0b4b600",
+      "text": "Vazife her şeydir, benlik bir hiçtir."
+    },
+    {
+      "id": "f343da54",
+      "bank_id": "e0b4b600",
+      "text": "İtaat et! Yalvar yoksa yok edilirsin."
+    },
+    {
+      "id": "f71fdbf0",
+      "bank_id": "e0b4b600",
+      "text": "Kule da pek eğlenceli olmayacak. Gitmeden önce biraz dinlenmelisin."
+    },
+    {
+      "id": "f81fdd63",
+      "bank_id": "e0b4b600",
+      "text": "Her neyse, ben iskeleye doğru geçeceğim."
+    },
+    {
+      "id": "f8243df3",
+      "bank_id": "e0b4b600",
+      "text": "İyi günler."
+    },
+    {
+      "id": "f91fded6",
+      "bank_id": "e0b4b600",
+      "text": "Çile şampiyonunun en yakın dostuna yol açın!"
+    },
+    {
+      "id": "f98799ce",
+      "bank_id": "e0b4b600",
+      "text": "Bir ay içinde döneceğine on altına bahse girerim!"
+    },
+    {
+      "id": "fa879ba1",
+      "bank_id": "e0b4b600",
+      "text": "Şey... hoşça kal."
+    },
+    {
+      "id": "fb879d14",
+      "bank_id": "e0b4b600",
+      "text": "Hadi, acele et. Medcezir beklemez."
+    },
+    {
+      "id": "fd244592",
+      "bank_id": "e0b4b600",
+      "text": "Bir yerde olman gerekmiyor muydu?"
+    },
+    {
+      "id": "fe244705",
+      "bank_id": "e0b4b600",
+      "text": "Sonra görüşürüz."
+    }
+  ]
+}

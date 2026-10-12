@@ -1,0 +1,711 @@
+{
+  "bank_id": "70309601",
+  "total_strings": 141,
+  "strings": [
+    {
+      "id": "023504f1",
+      "bank_id": "70309601",
+      "text": "Hey, annem döndü! Bugün döneceğini söylemiştim sana!"
+    },
+    {
+      "id": "0307747b",
+      "bank_id": "70309601",
+      "text": "Belki artık sürekli öyle üzülmeyi bırakırsın anne. Babam döndü!"
+    },
+    {
+      "id": "038b304d",
+      "bank_id": "70309601",
+      "text": "Yalan söylemişsin anne! Babam bir trolle kaçmamış işte! Bak!?"
+    },
+    {
+      "id": "0d351620",
+      "bank_id": "70309601",
+      "text": "Sen niye anneciğim gibi görevlere çıkmıyorsun ki?"
+    },
+    {
+      "id": "0e8b41fc",
+      "bank_id": "70309601",
+      "text": "Dediğin gibi kulaklarımın arkasını da temizledim!"
+    },
+    {
+      "id": "104823d1",
+      "bank_id": "70309601",
+      "text": "Babam yine gidecek mi anne?"
+    },
+    {
+      "id": "1b483500",
+      "bank_id": "70309601",
+      "text": "Babacığım yine gidecek mi anne?"
+    },
+    {
+      "id": "2c58cf63",
+      "bank_id": "70309601",
+      "text": "Yaşasın! Annem döndüğüne göre bu gece bana masal okuyabilir!"
+    },
+    {
+      "id": "2ead60d8",
+      "bank_id": "70309601",
+      "text": "Babana ne kadar uslu bir çocuk olduğunu gösterecek misin?"
+    },
+    {
+      "id": "2ead60d9",
+      "bank_id": "70309601",
+      "text": "Şu baban yine o havalı maceralarından birine çıktı. Günün birinde senin de aynısını yapacağını tahmin ediyorum."
+    },
+    {
+      "id": "2ead60da",
+      "bank_id": "70309601",
+      "text": "Baban maceralarından döndü tatlım!"
+    },
+    {
+      "id": "2ead60db",
+      "bank_id": "70309601",
+      "text": "Eee küçük prensim, babana sıradaki macerası için iyi şanslar dilemeyecek misin?"
+    },
+    {
+      "id": "2ead60dd",
+      "bank_id": "70309601",
+      "text": "Hadi bakalım ufaklık, babacığına sıradaki görevi için iyi şanslar dilemeyecek misin?"
+    },
+    {
+      "id": "2ead60de",
+      "bank_id": "70309601",
+      "text": "Babana ne kadar cici bir çocuk olduğunu gösterecek misin?"
+    },
+    {
+      "id": "2ead60df",
+      "bank_id": "70309601",
+      "text": "Baban pek çok maceraya gidip geldi ama ikimizi de hâlâ çok seviyor. En sevdiği adam da sensin."
+    },
+    {
+      "id": "3358da66",
+      "bank_id": "70309601",
+      "text": "Belki artık sürekli öyle üzülmeyi bırakırsın baba. Annem döndü!"
+    },
+    {
+      "id": "39ad7208",
+      "bank_id": "70309601",
+      "text": "O hoppala annen maceralara koşup dururken biz erkekler birbirimize tutunmalıyız."
+    },
+    {
+      "id": "39ad7209",
+      "bank_id": "70309601",
+      "text": "Annene ne kadar uslu bir çocuk olduğunu gösterecek misin bakalım?"
+    },
+    {
+      "id": "39ad720a",
+      "bank_id": "70309601",
+      "text": "Eee küçük prensim, annene sıradaki macerası için iyi şanslar dilemeyecek misin?"
+    },
+    {
+      "id": "39ad720b",
+      "bank_id": "70309601",
+      "text": "Annen maceralarından döndü oğlum. Biraz canlan bakalım."
+    },
+    {
+      "id": "39ad720c",
+      "bank_id": "70309601",
+      "text": "Hadi bakalım ufaklık, annene sıradaki görevi için iyi şanslar dilemeyecek misin?"
+    },
+    {
+      "id": "39ad720e",
+      "bank_id": "70309601",
+      "text": "Annen pek çok maceraya gidip geldi ama ikimizi de hâlâ çok seviyor. Biz onun özel adamlarıyız."
+    },
+    {
+      "id": "39ad720f",
+      "bank_id": "70309601",
+      "text": "Annene ne kadar cici bir çocuk olduğunu gösterecek misin?"
+    },
+    {
+      "id": "48544c38",
+      "bank_id": "70309601",
+      "text": "Baban buradayken yaramazlık yapmasan iyi edersin oğlum."
+    },
+    {
+      "id": "48544c39",
+      "bank_id": "70309601",
+      "text": "Benim tatlı küçük maceracım kimmiş bakalım?"
+    },
+    {
+      "id": "48544c3a",
+      "bank_id": "70309601",
+      "text": "Tıpkı baban gibi bir keratamsın sen de, değil mi?"
+    },
+    {
+      "id": "48544c3b",
+      "bank_id": "70309601",
+      "text": "Babana bir merhaba de bakalım oğlum."
+    },
+    {
+      "id": "48544c3c",
+      "bank_id": "70309601",
+      "text": "Küçük bir maceracı varmış burada. Tıpkı babası gibi."
+    },
+    {
+      "id": "48544c3d",
+      "bank_id": "70309601",
+      "text": "Hadi oğlum, babana sıradaki macerası için iyi şanslar dile."
+    },
+    {
+      "id": "48544c3e",
+      "bank_id": "70309601",
+      "text": "Küçük bir maceracı varmış burada. Tıpkı babası gibi."
+    },
+    {
+      "id": "502f0898",
+      "bank_id": "70309601",
+      "text": "Ben sadece patronunla muhatap olurum."
+    },
+    {
+      "id": "502f089a",
+      "bank_id": "70309601",
+      "text": "Sana söyleyecek hiçbir sözüm yok."
+    },
+    {
+      "id": "502f089b",
+      "bank_id": "70309601",
+      "text": "Senin gibi bir emir kuluyla niye konuşayım ki?"
+    },
+    {
+      "id": "502f089c",
+      "bank_id": "70309601",
+      "text": "Emir kullarına ayıracak vaktim yok benim."
+    },
+    {
+      "id": "502f089d",
+      "bank_id": "70309601",
+      "text": "Ne istiyorsun? Senin gibilerle iş yapmam."
+    },
+    {
+      "id": "51545a08",
+      "bank_id": "70309601",
+      "text": "Hadi oğlum, annene sıradaki macerası için iyi şanslar dile."
+    },
+    {
+      "id": "51545a09",
+      "bank_id": "70309601",
+      "text": "Hadi oğlum, annene sıradaki macerası için iyi şanslar dile."
+    },
+    {
+      "id": "51545a0b",
+      "bank_id": "70309601",
+      "text": "Küçük bir maceracı varmış burada. Tıpkı annesi gibi."
+    },
+    {
+      "id": "51545a0c",
+      "bank_id": "70309601",
+      "text": "Benim tatlı küçük maceracım kimmiş bakalım?"
+    },
+    {
+      "id": "51545a0e",
+      "bank_id": "70309601",
+      "text": "Annene bir merhaba de bakalım oğlum."
+    },
+    {
+      "id": "51545a0f",
+      "bank_id": "70309601",
+      "text": "Tıpkı annen gibi bir afacansın sen de, değil mi?"
+    },
+    {
+      "id": "552f10b9",
+      "bank_id": "70309601",
+      "text": "Buraya ait değilsin. Bunu hepimiz biliyoruz."
+    },
+    {
+      "id": "552f10ba",
+      "bank_id": "70309601",
+      "text": "Ben sadece liderinle muhatap olurum."
+    },
+    {
+      "id": "552f10bb",
+      "bank_id": "70309601",
+      "text": "Seninle konuşmamam gerekiyor."
+    },
+    {
+      "id": "552f10bc",
+      "bank_id": "70309601",
+      "text": "Bir uşaktan başka bir şey değilsin, seni niye dinleyecekmişim?"
+    },
+    {
+      "id": "552f10bd",
+      "bank_id": "70309601",
+      "text": "Hizmetkârlarla konuşmam ben."
+    },
+    {
+      "id": "552f10be",
+      "bank_id": "70309601",
+      "text": "Senin gibilerle konuşmaya hiç niyetim yok."
+    },
+    {
+      "id": "552f10bf",
+      "bank_id": "70309601",
+      "text": "Burada hiçbir hükmün yok. Sadece amirinle muhatap olurum, başka kimseyle değil."
+    },
+    {
+      "id": "587fe372",
+      "bank_id": "70309601",
+      "text": "Babamla maceralara gitmeme neden izin vermiyorsun ki?"
+    },
+    {
+      "id": "5d1f5492",
+      "bank_id": "70309601",
+      "text": "Hep beraber büyük bir pikniğe gidebilir miyiz anne? Bahse girerim babam da bizimle gelir."
+    },
+    {
+      "id": "617ff15f",
+      "bank_id": "70309601",
+      "text": "Babamla nasıl evlendin ki? Erkekler çok iğrenç."
+    },
+    {
+      "id": "661f62ff",
+      "bank_id": "70309601",
+      "text": "Hobbe dolu bir mağarada arkadaşlarımla gidip oynayabilir miyim anne?"
+    },
+    {
+      "id": "712f9394",
+      "bank_id": "70309601",
+      "text": "Hey, babam döndü! Bugün döneceğini söylemiştim sana!"
+    },
+    {
+      "id": "71862a47",
+      "bank_id": "70309601",
+      "text": "Annemle nasıl evlendin ki? Kızlar çok iğrenç."
+    },
+    {
+      "id": "75f839b8",
+      "bank_id": "70309601",
+      "text": "Babana ne kadar cici bir kız olduğunu gösterecek misin?"
+    },
+    {
+      "id": "75f839b9",
+      "bank_id": "70309601",
+      "text": "Şu hoppala baban maceralara koşup dururken biz kızlar birbirimize tutunmalıyız."
+    },
+    {
+      "id": "75f839ba",
+      "bank_id": "70309601",
+      "text": "Eee küçük prenses, babana sıradaki macerası için iyi şanslar dilemeyecek misin?"
+    },
+    {
+      "id": "75f839bb",
+      "bank_id": "70309601",
+      "text": "Biz babacığının özel prensesleriyiz çünkü ikimizi de çok seviyor."
+    },
+    {
+      "id": "75f839bd",
+      "bank_id": "70309601",
+      "text": "Hadi tatlım, babacığına sıradaki görevi için iyi şanslar dilemeyecek misin?"
+    },
+    {
+      "id": "75f839be",
+      "bank_id": "70309601",
+      "text": "Babana ne kadar uslu bir kız olduğunu gösterecek misin?"
+    },
+    {
+      "id": "75f839bf",
+      "bank_id": "70309601",
+      "text": "Baban pek çok maceraya gidip geldi ama ikimizi de hâlâ çok seviyor. Biz onun özel kızlarıyız."
+    },
+    {
+      "id": "762f9bb5",
+      "bank_id": "70309601",
+      "text": "Sen niye babacığım gibi görevlere çıkmıyorsun ki?"
+    },
+    {
+      "id": "7886354a",
+      "bank_id": "70309601",
+      "text": "Akşam yemeğinde ne var baba?"
+    },
+    {
+      "id": "7badac54",
+      "bank_id": "70309601",
+      "text": "Anneciğim geldi! Belki ona sürekli buralarda olmayışıyla senin erkekliğini nasıl zedelediğini, ya da her ne dediysen onu anlatırsın."
+    },
+    {
+      "id": "80adb475",
+      "bank_id": "70309601",
+      "text": "Annem başka bir görevden döndü! Sen niye onunla hiç gitmiyorsun baba?"
+    },
+    {
+      "id": "80f84ae8",
+      "bank_id": "70309601",
+      "text": "O hoppala annen maceralara koşup dururken biz birbirimize tutunmalıyız."
+    },
+    {
+      "id": "80f84ae9",
+      "bank_id": "70309601",
+      "text": "Annene ne kadar cici bir kız olduğunu gösterecek misin bakalım?"
+    },
+    {
+      "id": "80f84aea",
+      "bank_id": "70309601",
+      "text": "Biz anneciğinin özel insanlarıyız çünkü ikimizi de çok seviyor. Değil mi prensesim?"
+    },
+    {
+      "id": "80f84aeb",
+      "bank_id": "70309601",
+      "text": "Eee küçük prensesim, annene sıradaki macerası için iyi şanslar dilemeyecek misin?"
+    },
+    {
+      "id": "80f84aec",
+      "bank_id": "70309601",
+      "text": "Hadi tatlım, annene sıradaki görevi için iyi şanslar dilemeyecek misin?"
+    },
+    {
+      "id": "80f84aee",
+      "bank_id": "70309601",
+      "text": "Annen pek çok maceraya gidip geldi ama ikimizi de hâlâ çok seviyor prenses."
+    },
+    {
+      "id": "80f84aef",
+      "bank_id": "70309601",
+      "text": "Annene ne kadar uslu bir kız olduğunu gösterecek misin?"
+    },
+    {
+      "id": "82f99398",
+      "bank_id": "70309601",
+      "text": "Baban buradayken yaramazlık yapmasan iyi edersin küçük hanım."
+    },
+    {
+      "id": "82f99399",
+      "bank_id": "70309601",
+      "text": "Benim tatlı küçük maceracım kimmiş bakalım?"
+    },
+    {
+      "id": "82f9939a",
+      "bank_id": "70309601",
+      "text": "Tıpkı baban gibi bir keratamsın sen de, değil mi?"
+    },
+    {
+      "id": "82f9939b",
+      "bank_id": "70309601",
+      "text": "Babana bir merhaba de bakalım kızım."
+    },
+    {
+      "id": "82f9939c",
+      "bank_id": "70309601",
+      "text": "Hadi kızım, babana sıradaki macerası için iyi şanslar dile."
+    },
+    {
+      "id": "82f9939d",
+      "bank_id": "70309601",
+      "text": "Hadi kızım, babana sıradaki macerası için iyi şanslar dile."
+    },
+    {
+      "id": "82f9939e",
+      "bank_id": "70309601",
+      "text": "Küçük bir maceracı varmış burada. Tıpkı babası gibi."
+    },
+    {
+      "id": "8bf9a1e8",
+      "bank_id": "70309601",
+      "text": "Hadi kızım, annene sıradaki macerası için iyi şanslar dile."
+    },
+    {
+      "id": "8bf9a1e9",
+      "bank_id": "70309601",
+      "text": "Hadi kızım, annene sıradaki macerası için iyi şanslar dile."
+    },
+    {
+      "id": "8bf9a1eb",
+      "bank_id": "70309601",
+      "text": "Küçük bir maceracı varmış burada. Tıpkı annesi gibi."
+    },
+    {
+      "id": "8bf9a1ec",
+      "bank_id": "70309601",
+      "text": "Benim tatlı küçük maceracım kimmiş bakalım?"
+    },
+    {
+      "id": "8bf9a1ed",
+      "bank_id": "70309601",
+      "text": "Annen buradayken yaramazlık yapmasan iyi edersin küçük hanım."
+    },
+    {
+      "id": "8bf9a1ee",
+      "bank_id": "70309601",
+      "text": "Annene bir merhaba de bakalım kızım."
+    },
+    {
+      "id": "8bf9a1ef",
+      "bank_id": "70309601",
+      "text": "Tıpkı annen gibi bir haylazsın sen de, değil mi?"
+    },
+    {
+      "id": "9ca53551",
+      "bank_id": "70309601",
+      "text": "Belki arkadaşınla konuşurum ama seninle asla."
+    },
+    {
+      "id": "9d67e8e8",
+      "bank_id": "70309601",
+      "text": "Annemle maceralara gitmeme neden izin vermiyorsun ki?"
+    },
+    {
+      "id": "a267f089",
+      "bank_id": "70309601",
+      "text": "Annemle maceralara gitmeme neden izin vermiyorsun ki?"
+    },
+    {
+      "id": "a9bbcc71",
+      "bank_id": "70309601",
+      "text": "Dediğin gibi kulaklarımın arkasını da temizledim!"
+    },
+    {
+      "id": "ab11f7cd",
+      "bank_id": "70309601",
+      "text": "Akşam yemeğinde ne var anne?"
+    },
+    {
+      "id": "ab131c93",
+      "bank_id": "70309601",
+      "text": "Anneciğim döndüğüne göre bu akşam hep beraber yemek yiyebilir miyiz?"
+    },
+    {
+      "id": "b2132796",
+      "bank_id": "70309601",
+      "text": "Sence annem dediğin gibi bize hediyeler getirmiş midir?"
+    },
+    {
+      "id": "b4bbdda0",
+      "bank_id": "70309601",
+      "text": "Baba! Yalan söylemişsin! Annem bir trolle kaçmamış işte! Bak!?"
+    },
+    {
+      "id": "b612097c",
+      "bank_id": "70309601",
+      "text": "Akşam yemeğinde ne var anne?"
+    },
+    {
+      "id": "b692dbb7",
+      "bank_id": "70309601",
+      "text": "Hep beraber büyük bir pikniğe gidebilir miyiz baba? Bahse girerim annem de bizimle gelir."
+    },
+    {
+      "id": "b7989078",
+      "bank_id": "70309601",
+      "text": "Babam başka bir görevden döndü! Sen niye onunla hiç gitmiyorsun anne?"
+    },
+    {
+      "id": "b8062bba",
+      "bank_id": "70309601",
+      "text": "Söz dinlesen iyi edersin kızım, yoksa annene söylerim."
+    },
+    {
+      "id": "b8062bbb",
+      "bank_id": "70309601",
+      "text": "Annenin uzakta çok vakit geçirdiğini biliyorum ama bir düşünsene, sen bir maceracının kızısın."
+    },
+    {
+      "id": "b8062bbc",
+      "bank_id": "70309601",
+      "text": "Sataşan oğlan olursa hemen annene söyle. O onların hakkından gelir."
+    },
+    {
+      "id": "b8062bbd",
+      "bank_id": "70309601",
+      "text": "Tıpkı annen gibi gerçek bir maceracı olacaksın, değil mi tatlım?"
+    },
+    {
+      "id": "b8062bbe",
+      "bank_id": "70309601",
+      "text": "Umarım ödevini yapmışsındır, yoksa annen hiç memnun olmayacak."
+    },
+    {
+      "id": "b8ea5a90",
+      "bank_id": "70309601",
+      "text": "Seninle konuşmamam gerekiyor."
+    },
+    {
+      "id": "b8ea5a93",
+      "bank_id": "70309601",
+      "text": "Seninle muhatap olmam imkânsız."
+    },
+    {
+      "id": "b8ea5a94",
+      "bank_id": "70309601",
+      "text": "Seninle konuşmaya neden tenezzül edeyim ki?"
+    },
+    {
+      "id": "b8ea5a95",
+      "bank_id": "70309601",
+      "text": "Gerçekten sana söyleyecek hiçbir şeyim yok."
+    },
+    {
+      "id": "b8ea5a96",
+      "bank_id": "70309601",
+      "text": "Astlarla iş yapmam ben."
+    },
+    {
+      "id": "b8ea5a97",
+      "bank_id": "70309601",
+      "text": "Seninle muhatap olmuyorum. Sen bir hiçsin."
+    },
+    {
+      "id": "bc989819",
+      "bank_id": "70309601",
+      "text": "Babacığın geldi! Belki ona sürekli buralarda olmayışıyla ömrünün en güzel yıllarını nasıl çaldığını, ya da her ne dediysen onu anlatırsın."
+    },
+    {
+      "id": "bd92e6ba",
+      "bank_id": "70309601",
+      "text": "Hobbe dolu bir mağarada arkadaşlarımla gidip oynayabilir miyim baba?"
+    },
+    {
+      "id": "bfea6590",
+      "bank_id": "70309601",
+      "text": "Emir kullarıyla iş yapan birine mi benziyorum?"
+    },
+    {
+      "id": "bfea6591",
+      "bank_id": "70309601",
+      "text": "Astlarla hiçbir temasım olmaz benim."
+    },
+    {
+      "id": "bfea6592",
+      "bank_id": "70309601",
+      "text": "Seninle iş yapacağımı mı sandın? Arkadaşını buraya çağır."
+    },
+    {
+      "id": "bfea6593",
+      "bank_id": "70309601",
+      "text": "Senin gibilerle işim olmaz."
+    },
+    {
+      "id": "bfea6594",
+      "bank_id": "70309601",
+      "text": "Kusura bakma, seninle muhatap olmama izin verilmiyor."
+    },
+    {
+      "id": "bfea6595",
+      "bank_id": "70309601",
+      "text": "Gerçekten sana ayıracak vaktim yok."
+    },
+    {
+      "id": "bfea6596",
+      "bank_id": "70309601",
+      "text": "Seninle konuşmama izin yok."
+    },
+    {
+      "id": "c1063988",
+      "bank_id": "70309601",
+      "text": "Tıpkı baban gibi gerçek bir maceracı olacaksın, değil mi tatlım?"
+    },
+    {
+      "id": "c1063989",
+      "bank_id": "70309601",
+      "text": "Sataşan oğlan olursa hemen babana söyle. O onların hakkından gelir."
+    },
+    {
+      "id": "c106398b",
+      "bank_id": "70309601",
+      "text": "Umarım ödevini yapmışsındır, yoksa baban hiç memnun olmayacak."
+    },
+    {
+      "id": "c106398e",
+      "bank_id": "70309601",
+      "text": "Babanın uzakta çok vakit geçirdiğini biliyorum ama bir düşünsene, sen bir maceracının kızısın."
+    },
+    {
+      "id": "c106398f",
+      "bank_id": "70309601",
+      "text": "Söz dinlesen iyi edersin kızım, yoksa babana söylerim."
+    },
+    {
+      "id": "c4f93b0e",
+      "bank_id": "70309601",
+      "text": "Babam döndüğüne göre bu akşam hep beraber yemek yiyebilir miyiz?"
+    },
+    {
+      "id": "cddee590",
+      "bank_id": "70309601",
+      "text": "Eee, siz ikiniz birlikte misiniz?"
+    },
+    {
+      "id": "cddee591",
+      "bank_id": "70309601",
+      "text": "Birlikte bulduğunuz hazineyi paylaşıyor musunuz bari?"
+    },
+    {
+      "id": "cddee593",
+      "bank_id": "70309601",
+      "text": "Bahse girerim ikiniz de payınıza düşen savaşı fazlasıyla görmüşsünüzdür."
+    },
+    {
+      "id": "cddee594",
+      "bank_id": "70309601",
+      "text": "Sizin gibi iki maceracının birlikte çalıştığını görmek pek sık rastlanan bir şey değil."
+    },
+    {
+      "id": "cddee595",
+      "bank_id": "70309601",
+      "text": "İddiasına girerim ikiniz de birbirinizle yarışıyorsunuzdur."
+    },
+    {
+      "id": "cddee596",
+      "bank_id": "70309601",
+      "text": "Siz ikiniz ne zamandır tanışıyorsunuz?"
+    },
+    {
+      "id": "cddee597",
+      "bank_id": "70309601",
+      "text": "Eee, hanginiz lidersiniz bakalım?"
+    },
+    {
+      "id": "cdf9495b",
+      "bank_id": "70309601",
+      "text": "Sence babam dediğin gibi bize hediyeler getirmiş midir?"
+    },
+    {
+      "id": "d0cc08a4",
+      "bank_id": "70309601",
+      "text": "Korkarım emir kullarıyla muhatap olmuyorum."
+    },
+    {
+      "id": "d0cc08a7",
+      "bank_id": "70309601",
+      "text": "Senin gibilerle iş yapmamak benim prensibimdir."
+    },
+    {
+      "id": "d4def090",
+      "bank_id": "70309601",
+      "text": "Geçmişte ikinizden sadece birinizi görmüş olmam ne tuhaf. Arkadaşın nereli?"
+    },
+    {
+      "id": "d4def091",
+      "bank_id": "70309601",
+      "text": "Başka diyarlardan bir misafire sahip olmak hoş bir duygu olsa gerek, değil mi?"
+    },
+    {
+      "id": "d5cc1045",
+      "bank_id": "70309601",
+      "text": "Arkadaşınla konuşurum ama sana güvenmiyorum."
+    },
+    {
+      "id": "d5cc1046",
+      "bank_id": "70309601",
+      "text": "Senin gibilere ayıracak vaktim yok."
+    },
+    {
+      "id": "d6748734",
+      "bank_id": "70309601",
+      "text": "Annem yine gidecek mi baba?"
+    },
+    {
+      "id": "db748ed5",
+      "bank_id": "70309601",
+      "text": "Annem yine gidecek mi baba?"
+    },
+    {
+      "id": "eb7d8ce8",
+      "bank_id": "70309601",
+      "text": "Senin gibi emir kullarıyla muhatap olmam ben."
+    },
+    {
+      "id": "fa07662e",
+      "bank_id": "70309601",
+      "text": "Yaşasın! Babam döndüğüne göre bu gece bana masal okuyabilir!"
+    }
+  ]
+}

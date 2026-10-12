@@ -1,0 +1,606 @@
+{
+  "bank_id": "d0532802",
+  "total_strings": 120,
+  "strings": [
+    {
+      "id": "027a1833",
+      "bank_id": "d0532802",
+      "text": "Çok korkmuş olmalılar, minik yavrucaklar. Lütfen, onları bulmalısınız."
+    },
+    {
+      "id": "037a19a6",
+      "bank_id": "d0532802",
+      "text": "Oh, çok şükür bitti. Ama çocuklar! Hepsi kaçtı."
+    },
+    {
+      "id": "04b0239a",
+      "bank_id": "d0532802",
+      "text": "Kurutma Evi Kapı Anahtarı"
+    },
+    {
+      "id": "05acf520",
+      "bank_id": "d0532802",
+      "text": "\"Bir zamanlar Huysuz George adında bir tavşan yaşarmış. Zıplamayı, oynamayı ve keşifler yapmayı ne çok severmiş. Bir gün annesinin ve yetmiş dört kardeşinin evden uzaklaşmaması yönündeki uyarılarına kulak asmayarak macera ve harika keşifler için ininden ayrılmış.\nGeorge, havuç ağırlıklı beslenmesine çeşitlilik katacak bir şeyler arayarak yola koyulmuş. Sadece yeni hiçbir şey bulamamakla kalmamış, geri döndüğünde inin kapısının kilitli olduğunu görmüş. 'Olamaz!' demiş kendi kendine. 'İnin kapısı kilitli.'\nZavallı Huysuz George, bitkin ve bir deri bir kemik kalana dek sonraki kırk yıl boyunca diyarda dolaşmaktan başka çare bulamamış; ta ki dört taş kapıya rastlayana kadar. Onlarda büyülü bir şeyler olduğunu hemen anlamış. Ona eve giden yolu göstereceklermiş.\nİlk kapıdan geçmiş ve bir böğürtlen çalılığına denk gelmiş; geri dönerken pek de kabarık olmayan kuyruğuna diken batmış. Tamamen sarmaşıklarla kaplı ikinci kapıdan geçmiş ama yine hiçbir şey olmamış. Üçüncü kapıdan hoplayarak geçmiş, pürüzlü bir ağaç kütüğünün yanından geçmiş ve başka da pek bir şey görememiş. Sonunda son kapıdan geçmiş ve orada tuhaf, devasa bir yaratığın iskeletini bulmuş.\nAma durun! Dahası da varmış! Bir kayanın üzerinde büyük, garip süslemeli bir yumurta duruyormuş. Yumurtayı bir zamanlar sevimli olan patileriyle kapıp zıplayarak inine dönmüş. Kapı hâlâ kilitliymiş ama George ne yapması gerektiğini biliyormuş. Yumurtayı yakındaki büyük sepete koymalıymış. 'Buldum,' diye düşünmüş. 'Yumurtayı yakındaki büyük sepete koyacağım.' Ve koyduğunda...\"\nHikâyenin geri kalanı eksik görünüyor."
+    },
+    {
+      "id": "0d8432e0",
+      "bank_id": "d0532802",
+      "text": "Şimdi sana en büyük hediyeyi bahşedeceğim. Ölüm!"
+    },
+    {
+      "id": "0e843453",
+      "bank_id": "d0532802",
+      "text": "Teşekkür ederim akılsız ölümlü. Bana özgürlüğümü verdin."
+    },
+    {
+      "id": "0f8435c6",
+      "bank_id": "d0532802",
+      "text": "Evet! Besle beni! Kemiklerime et getir! Cesedime hayat ver!"
+    },
+    {
+      "id": "143d8624",
+      "bank_id": "d0532802",
+      "text": "Yerine getirilmesi gereken kaderler."
+    },
+    {
+      "id": "180c7f53",
+      "bank_id": "d0532802",
+      "text": "Yaşayanların varlığını hissediyorum... Yalvarışıma kulak ver ölümlü!"
+    },
+    {
+      "id": "190c80c6",
+      "bank_id": "d0532802",
+      "text": "Bir zamanlar cesur bir şövalyeydim, aşağılık bir nekromansır tarafından bu korkunç boyutta sonsuzluğa mahkûm edildim."
+    },
+    {
+      "id": "1a0c82b9",
+      "bank_id": "d0532802",
+      "text": "Beni bu azaptan yalnızca yakınlarda saklanan ışıkcıklar kurtarabilir."
+    },
+    {
+      "id": "1b0c842c",
+      "bank_id": "d0532802",
+      "text": "Onları bana getir ki sonunda huzura kavuşabileyim."
+    },
+    {
+      "id": "1c3f49a9",
+      "bank_id": "d0532802",
+      "text": "Bunlar onun adamları. Onun uğruna ölebilecek sadık askerler."
+    },
+    {
+      "id": "1dc2c413",
+      "bank_id": "d0532802",
+      "text": "Zehirli nehre dikkat et. Karşıya güvenle geçmek için fazla maddisin."
+    },
+    {
+      "id": "25bd3797",
+      "bank_id": "d0532802",
+      "text": "Teşekkür ederim. Bu... bu korkunç bir şeydi."
+    },
+    {
+      "id": "26bd390a",
+      "bank_id": "d0532802",
+      "text": "Burası lanetli. Şuna bir baksana! Bu... şeyler - dünyanın tüm rengini emip bitirdiler."
+    },
+    {
+      "id": "27b27564",
+      "bank_id": "d0532802",
+      "text": "Başardın! Tüm şu renklere baksana! Hepimizi kurtardın!"
+    },
+    {
+      "id": "27bd3afd",
+      "bank_id": "d0532802",
+      "text": "Diğerlerini kurtarmalısın! Neler olup bittiğinden hiç haberleri yok. Al, buna ihtiyacın olacak."
+    },
+    {
+      "id": "29f50b76",
+      "bank_id": "d0532802",
+      "text": "Bunlar onun adamları. Onun uğruna ölebilecek sadık askerler."
+    },
+    {
+      "id": "2dc4e53a",
+      "bank_id": "d0532802",
+      "text": "Çocuklar tarafından üzeri boyanmış eski bir mezar mührü."
+    },
+    {
+      "id": "32257d06",
+      "bank_id": "d0532802",
+      "text": "Bu heykel yalnızca doğru kostümü giyiyorsanız tepki verecektir."
+    },
+    {
+      "id": "32f64286",
+      "bank_id": "d0532802",
+      "text": "Şimdiden yıllar sonrası. Bir kraliçe yaşlılığın ağırlığını hissediyor. Ve koca bir krallığın sorumluluğunu."
+    },
+    {
+      "id": "32f6428d",
+      "bank_id": "d0532802",
+      "text": "Şimdiden yıllar sonrası. Bir kral yaşlılığın ağırlığını hissediyor. Ve koca bir krallığın sorumluluğunu."
+    },
+    {
+      "id": "336edb49",
+      "bank_id": "d0532802",
+      "text": "İhtiyacın olan son kostüm şu sandığın içinde. Tüm yaratıkların en vahşisi olmak zorunda kalacaksın. Bunu yapabilir misin?"
+    },
+    {
+      "id": "372a10b0",
+      "bank_id": "d0532802",
+      "text": "Kendine dikkat et Küçük Sparrow. Ve unutma, ben her zaman buradayım, her zaman izliyorum."
+    },
+    {
+      "id": "382a1223",
+      "bank_id": "d0532802",
+      "text": "Şimdilik hayatını yaşamalı ve gelecek olana hazırlanmalısın."
+    },
+    {
+      "id": "392a1396",
+      "bank_id": "d0532802",
+      "text": "Bunları zamanla anlayacaksın."
+    },
+    {
+      "id": "3cbc12f7",
+      "bank_id": "d0532802",
+      "text": "Kapıyı açabilmek için canavarın kostümünü bulman gerekecek. Parçaları yolun ilerisinde yatıyor. Ama gerçek canavarlara dikkat et."
+    },
+    {
+      "id": "3d2333cb",
+      "bank_id": "d0532802",
+      "text": "Kırmızı gölgelere yalnızca Şok gibi yıkıcı büyülerle zarar verilebilir. Onları yenebilmek için böyle bir büyü öğrenmeniz gerekecek."
+    },
+    {
+      "id": "3f88b237",
+      "bank_id": "d0532802",
+      "text": "Bunlar onun halkı. Gazabından korkan tebaası. Onun iradesi önünde eğilip her sözüne itaat edenler."
+    },
+    {
+      "id": "3f88b23c",
+      "bank_id": "d0532802",
+      "text": "Bunlar onun halkı. Gazabından korkan tebaası. Onun iradesi önünde eğilip her sözüne itaat edenler."
+    },
+    {
+      "id": "4230d036",
+      "bank_id": "d0532802",
+      "text": "Görü"
+    },
+    {
+      "id": "459dc420",
+      "bank_id": "d0532802",
+      "text": "Madam Ursula'nın Ufaklıklar Okulu"
+    },
+    {
+      "id": "4d296b33",
+      "bank_id": "d0532802",
+      "text": "Önünde ne olduğunu sana gösterme vaktim geldi."
+    },
+    {
+      "id": "50de55c0",
+      "bank_id": "d0532802",
+      "text": "Bunların hepsi çok yanlış!"
+    },
+    {
+      "id": "51de57b3",
+      "bank_id": "d0532802",
+      "text": "Beni yalnız bırakın!"
+    },
+    {
+      "id": "53ae3072",
+      "bank_id": "d0532802",
+      "text": "Bazı kapılar yalnızca büyülü heykeller etkinleştirilerek açılabilir."
+    },
+    {
+      "id": "53de5a99",
+      "bank_id": "d0532802",
+      "text": "Bundan hiç hoşlanmadım!"
+    },
+    {
+      "id": "56de5f52",
+      "bank_id": "d0532802",
+      "text": "Arghh!"
+    },
+    {
+      "id": "572b3d40",
+      "bank_id": "d0532802",
+      "text": "Hiçbir Kahramanın böyle gülünç kıyafetler giymeye tenezzül etmeyeceğine ve bu yüzden sonsuza kadar burada kapana kısılacağıma inanıyordu."
+    },
+    {
+      "id": "57de60c5",
+      "bank_id": "d0532802",
+      "text": "Hayııır. Hayııır. [sızlanır]"
+    },
+    {
+      "id": "58800124",
+      "bank_id": "d0532802",
+      "text": "Bu kasabanın sırlarının anahtarı olduğunu söylüyorlar."
+    },
+    {
+      "id": "59800297",
+      "bank_id": "d0532802",
+      "text": "Şunu da unutma, boya kalemlerini burun deliklerinde saklıyorlar. O yüzden yerinde olsam dikkatli olurdum."
+    },
+    {
+      "id": "5a2b4219",
+      "bank_id": "d0532802",
+      "text": "Beni hapseden nekromansırın ürkütücü bir mizah anlayışı vardı. Ve kostüm partilerine karşı sapkın bir sevgisi."
+    },
+    {
+      "id": "5b8005fd",
+      "bank_id": "d0532802",
+      "text": "Hepsini buldun. Harika iş! Al, çocuklar bunu sana vermek istiyor."
+    },
+    {
+      "id": "5c6cb1b2",
+      "bank_id": "d0532802",
+      "text": "Elimi tut, son bir kez."
+    },
+    {
+      "id": "5e6cb498",
+      "bank_id": "d0532802",
+      "text": "Gerçekleşmesi gereken gelecekler."
+    },
+    {
+      "id": "5f6cb60b",
+      "bank_id": "d0532802",
+      "text": "Sana böyle bir geleceği gösterme vaktim geldi."
+    },
+    {
+      "id": "606cb7fe",
+      "bank_id": "d0532802",
+      "text": "Pek çok iplik var; sayılamayacak kadar çok."
+    },
+    {
+      "id": "616cb951",
+      "bank_id": "d0532802",
+      "text": "Yine de hepsinin birleştiği anlar, kaçınılmaz olaylar vardır."
+    },
+    {
+      "id": "61e274c2",
+      "bank_id": "d0532802",
+      "text": "Huysuz Tavşan"
+    },
+    {
+      "id": "626cbac4",
+      "bank_id": "d0532802",
+      "text": "Sorusunun ne olduğunu biliyorum. Evet, Kule'nin benim için de bir hediyesi vardı."
+    },
+    {
+      "id": "636cbcb7",
+      "bank_id": "d0532802",
+      "text": "Gelecek bana hep fısıldadı ve ben onun sesini körü körüne takip ettim. Ama şimdi olası tüm gelecekleri görebiliyorum."
+    },
+    {
+      "id": "65568750",
+      "bank_id": "d0532802",
+      "text": "Beni yalnız bırakın!"
+    },
+    {
+      "id": "656cbf9d",
+      "bank_id": "d0532802",
+      "text": "Yine buradasın. Bir gün buraya döneceğini biliyordun, değil mi?"
+    },
+    {
+      "id": "67568ab6",
+      "bank_id": "d0532802",
+      "text": "Hayır! Durun!"
+    },
+    {
+      "id": "68445655",
+      "bank_id": "d0532802",
+      "text": "Bunlar onun adamları. Onun uğruna ölebilecek sadık askerler. Birçoğu memleketteki ve uzak diyarlardaki savaş meydanlarında çoktan can verdi."
+    },
+    {
+      "id": "6844565e",
+      "bank_id": "d0532802",
+      "text": "Bunlar onun adamları. Onun uğruna ölebilecek sadık askerler. Birçoğu memleketteki ve uzak diyarlardaki savaş meydanlarında çoktan can verdi."
+    },
+    {
+      "id": "68568c29",
+      "bank_id": "d0532802",
+      "text": "İmdat! İmdat!"
+    },
+    {
+      "id": "6a568f0f",
+      "bank_id": "d0532802",
+      "text": "[sızlanır]"
+    },
+    {
+      "id": "716f43eb",
+      "bank_id": "d0532802",
+      "text": "Işıkcıklar yaşayan her şeyden korkar. Ölülerin sureti arkasına saklanırsan onların güvenini kazanırsın."
+    },
+    {
+      "id": "726f455e",
+      "bank_id": "d0532802",
+      "text": "Onları bana getir. Sana yalvarıyorum."
+    },
+    {
+      "id": "733ddc47",
+      "bank_id": "d0532802",
+      "text": "Şunu da unutma, boya kalemlerini burun deliklerinde saklıyorlar."
+    },
+    {
+      "id": "74754fb2",
+      "bank_id": "d0532802",
+      "text": "Madam Ursula'nın Günlüğü"
+    },
+    {
+      "id": "783ed4b0",
+      "bank_id": "d0532802",
+      "text": "Bu, okul müdiresinin hayattayken tuttuğu günlük gibi görünüyor.\n\"Myrtle bir vazoya konulduğundan beri çocuklar çok daha sakin görünüyor. Cansız bedenini sırasının yanında bulduğum gün yüzlerinde öyle sinsi gülücükler vardı ki. Ve giysilerindeki kan... Ama hayır, bu bir kazaydı. Sadece bu kadar. Korkunç, çok korkunç bir kaza.\nDiğer haberlere gelirsek, Matty'nin son toplama testinde bu kadar başarılı olduğunu görmek beni mutlu etti!\""
+    },
+    {
+      "id": "79fcff41",
+      "bank_id": "d0532802",
+      "text": "ZEHİRLİ BALVERİNE"
+    },
+    {
+      "id": "7b55ab64",
+      "bank_id": "d0532802",
+      "text": "SARI GÖLGELER"
+    },
+    {
+      "id": "8e2e4dd0",
+      "bank_id": "d0532802",
+      "text": "Mezar seni çağırıyor!"
+    },
+    {
+      "id": "9106601e",
+      "bank_id": "d0532802",
+      "text": "Ashfield adında bir evin kilidine uyduğu varsayılır. Ancak teoriyi test etmek için söz konusu evi bulmak gerekir."
+    },
+    {
+      "id": "932e558f",
+      "bank_id": "d0532802",
+      "text": "Daha önce hiç gerçek bir nekromansırla karşılaşmadın, yaşayan ölümlü. Bu yapacağın son şey olacak."
+    },
+    {
+      "id": "942e5762",
+      "bank_id": "d0532802",
+      "text": "Ölüme direnme. Onu kucakla!"
+    },
+    {
+      "id": "94bc5de4",
+      "bank_id": "d0532802",
+      "text": "Ashfield Evi Anahtarı"
+    },
+    {
+      "id": "952e58d5",
+      "bank_id": "d0532802",
+      "text": "Sen sadece gerçekleşmeyi bekleyen bir cesetsin."
+    },
+    {
+      "id": "a8232758",
+      "bank_id": "d0532802",
+      "text": "Kurutma Evi'nin kapısını açan mavi bir anahtar."
+    },
+    {
+      "id": "af6e59a4",
+      "bank_id": "d0532802",
+      "text": "O nereye götürürse peşinden giderlerdi."
+    },
+    {
+      "id": "af6e59af",
+      "bank_id": "d0532802",
+      "text": "O nereye götürürse peşinden giderlerdi."
+    },
+    {
+      "id": "b5c33db2",
+      "bank_id": "d0532802",
+      "text": "Dingly Yumurtası"
+    },
+    {
+      "id": "b98cc2b0",
+      "bank_id": "d0532802",
+      "text": "Oldukça renkli bir yumurta. Hangi harika tavuk yumurtlamış olabilir bunu?"
+    },
+    {
+      "id": "ba7c0837",
+      "bank_id": "d0532802",
+      "text": "Bunlar onun halkı. Ona tapan tebaası. Kendilerine rehberlik etmesi, onları koruması ve yönetmesi için ona güvenenler."
+    },
+    {
+      "id": "bd0a1830",
+      "bank_id": "d0532802",
+      "text": "Hayııır! [çığlık atar]"
+    },
+    {
+      "id": "be2e9eba",
+      "bank_id": "d0532802",
+      "text": "Lanetli kafatasının bilmecesini çözün."
+    },
+    {
+      "id": "ce2e812f",
+      "bank_id": "d0532802",
+      "text": "KIRMIZI GÖLGELER"
+    },
+    {
+      "id": "d0da9e51",
+      "bank_id": "d0532802",
+      "text": "Lanetin mahiyetini araştırın."
+    },
+    {
+      "id": "d0da9e58",
+      "bank_id": "d0532802",
+      "text": "Lahdi açın."
+    },
+    {
+      "id": "d0da9e5a",
+      "bank_id": "d0532802",
+      "text": "Balverine Kıyafeti'ni bulun."
+    },
+    {
+      "id": "d0da9e5b",
+      "bank_id": "d0532802",
+      "text": "Işıkcıkları bulun."
+    },
+    {
+      "id": "d0da9e5c",
+      "bank_id": "d0532802",
+      "text": "Işıkcıkları bulun."
+    },
+    {
+      "id": "d0da9e5d",
+      "bank_id": "d0532802",
+      "text": "Işıkcıkları şövalyenin mezarına götürün."
+    },
+    {
+      "id": "d0da9e5e",
+      "bank_id": "d0532802",
+      "text": "Nekromansırı yenin."
+    },
+    {
+      "id": "d0da9e5f",
+      "bank_id": "d0532802",
+      "text": "Sandığı açın."
+    },
+    {
+      "id": "d3f34b21",
+      "bank_id": "d0532802",
+      "text": "Sonunda hepimiz huzur içinde yatabiliriz."
+    },
+    {
+      "id": "d8465351",
+      "bank_id": "d0532802",
+      "text": "HORTLAK NEKROMANSIR"
+    },
+    {
+      "id": "d9366208",
+      "bank_id": "d0532802",
+      "text": "Kırmızı Mühür"
+    },
+    {
+      "id": "daed7b96",
+      "bank_id": "d0532802",
+      "text": "Geleceğin pek çok ipliği vardır; sayılamayacak kadar çok."
+    },
+    {
+      "id": "de3995f4",
+      "bank_id": "d0532802",
+      "text": "Ahh, ne büyük bir rahatlama. Teşekkür ederim."
+    },
+    {
+      "id": "e03998da",
+      "bank_id": "d0532802",
+      "text": "Neyse ki onu tuzağa düşürmeyi başardım. Biraz da sen oyna bakalım onunla, değişiklik olsun."
+    },
+    {
+      "id": "e1399a4d",
+      "bank_id": "d0532802",
+      "text": "Şu şişman kuşlardan birini bir mağaraya kadar takip ettiğim son sefer oldu bu."
+    },
+    {
+      "id": "e17b1189",
+      "bank_id": "d0532802",
+      "text": "Hadi git bakalım, küçük kelebek!"
+    },
+    {
+      "id": "e2530880",
+      "bank_id": "d0532802",
+      "text": "Dingly İni"
+    },
+    {
+      "id": "e27b137c",
+      "bank_id": "d0532802",
+      "text": "Al. Çocukken yakalamıştım bunu. Sanırım bir kelebek."
+    },
+    {
+      "id": "e39f8d90",
+      "bank_id": "d0532802",
+      "text": "Unutma, ışıkcıklar yaşayan etten korkar. Yalnızca bir ceset kılığında senin peşinden gelirler."
+    },
+    {
+      "id": "e47b8960",
+      "bank_id": "d0532802",
+      "text": "Lanetin kaynağını araştırın."
+    },
+    {
+      "id": "e47b8961",
+      "bank_id": "d0532802",
+      "text": "Okul müdiresiyle konuşun."
+    },
+    {
+      "id": "e47b8962",
+      "bank_id": "d0532802",
+      "text": "Çocukları kurtarın."
+    },
+    {
+      "id": "e47b8963",
+      "bank_id": "d0532802",
+      "text": "Okul müdiresiyle konuşun."
+    },
+    {
+      "id": "e47b8965",
+      "bank_id": "d0532802",
+      "text": "Laneti araştırın."
+    },
+    {
+      "id": "e47b8966",
+      "bank_id": "d0532802",
+      "text": "Köylüleri renkli gölgelerden kurtarın."
+    },
+    {
+      "id": "e47b8967",
+      "bank_id": "d0532802",
+      "text": "Yaşlı Ned ile konuşun."
+    },
+    {
+      "id": "e47b896c",
+      "bank_id": "d0532802",
+      "text": "Lanetin kaynağını araştırın."
+    },
+    {
+      "id": "e47b896d",
+      "bank_id": "d0532802",
+      "text": "Prizmayı yok edin."
+    },
+    {
+      "id": "e576dc8f",
+      "bank_id": "d0532802",
+      "text": "Geleceği görme vaktiniz geldi."
+    },
+    {
+      "id": "e9ccc39d",
+      "bank_id": "d0532802",
+      "text": "Onları hissedebiliyorum. Daha fazla ışıkcık, alaycı güneş ışınları gibi havayı yarıyor. Onları bana getir!"
+    },
+    {
+      "id": "f140197f",
+      "bank_id": "d0532802",
+      "text": "Yardım edin bana! Lütfen! Durdurun şunları!"
+    },
+    {
+      "id": "f76c2545",
+      "bank_id": "d0532802",
+      "text": "Kostüm Partisi"
+    },
+    {
+      "id": "f77e0cbc",
+      "bank_id": "d0532802",
+      "text": "Bu büyülü heykel, onu birebir taklit edersen yolu açacak."
+    },
+    {
+      "id": "fa389708",
+      "bank_id": "d0532802",
+      "text": "Işığa girin."
+    },
+    {
+      "id": "fa38970a",
+      "bank_id": "d0532802",
+      "text": "Tahtınıza yaklaşın."
+    },
+    {
+      "id": "fa38970b",
+      "bank_id": "d0532802",
+      "text": "Theresa'nın elini tutun."
+    },
+    {
+      "id": "fda95a3f",
+      "bank_id": "d0532802",
+      "text": "Evet! Evet! Beni tutan zincirlerin kayıp gittiğini hissedebiliyorum. Daha fazlasını getir, yalvarırım."
+    },
+    {
+      "id": "fe2787c6",
+      "bank_id": "d0532802",
+      "text": "Uğursuz yaratıklar nereye götürürsen oraya gelecektir. Ama yalnızca seni kendilerinden biri olarak tanırlarsa."
+    }
+  ]
+}

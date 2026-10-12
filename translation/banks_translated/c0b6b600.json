@@ -1,0 +1,1071 @@
+{
+  "bank_id": "c0b6b600",
+  "total_strings": 213,
+  "strings": [
+    {
+      "id": "02b23fef",
+      "bank_id": "c0b6b600",
+      "text": "Oh evet! Şu haydutlara bu işin nasıl yapıldığını göster!"
+    },
+    {
+      "id": "03b24142",
+      "bank_id": "c0b6b600",
+      "text": "Vay canına! Hiç acımıyorsun, değil mi?"
+    },
+    {
+      "id": "044dcae3",
+      "bank_id": "c0b6b600",
+      "text": "Hadi Cullis Geçidi'ne gidelim."
+    },
+    {
+      "id": "04b24335",
+      "bank_id": "c0b6b600",
+      "text": "Gözünü bile açtırmadın herife!"
+    },
+    {
+      "id": "054dcc56",
+      "bank_id": "c0b6b600",
+      "text": "Bir şeyleri kırma sırası bende."
+    },
+    {
+      "id": "056edae8",
+      "bank_id": "c0b6b600",
+      "text": "O... bir Kıymık mı?"
+    },
+    {
+      "id": "076eddce",
+      "bank_id": "c0b6b600",
+      "text": "Gün batımı harikadır. O şeyse tam bir kabus."
+    },
+    {
+      "id": "086edfa1",
+      "bank_id": "c0b6b600",
+      "text": "İnanılmaz, değil mi?"
+    },
+    {
+      "id": "096ee114",
+      "bank_id": "c0b6b600",
+      "text": "Bunun teselli etmesi gerektiğini biliyorum ama hiç etmiyor."
+    },
+    {
+      "id": "0a6ee287",
+      "bank_id": "c0b6b600",
+      "text": "Ufak bir avantajımız var; bizim ölmemizi istemiyorlar."
+    },
+    {
+      "id": "0c6ee5ed",
+      "bank_id": "c0b6b600",
+      "text": "Ve yalnız da değil. Kendi ordusunu getirmiş gibi görünüyor."
+    },
+    {
+      "id": "12cc687b",
+      "bank_id": "c0b6b600",
+      "text": "Harekete devam edin yoksa her şey biter."
+    },
+    {
+      "id": "130e1946",
+      "bank_id": "c0b6b600",
+      "text": "Sakın durmayın, neredeyse bitirdim."
+    },
+    {
+      "id": "13cc69ee",
+      "bank_id": "c0b6b600",
+      "text": "Onlara yardım edemeyiz."
+    },
+    {
+      "id": "1bce21ae",
+      "bank_id": "c0b6b600",
+      "text": "Komutan'ın odasına ulaşmalıyız yoksa burada ölürüz."
+    },
+    {
+      "id": "1e223cf0",
+      "bank_id": "c0b6b600",
+      "text": "Garth'a saldırıyorlar!"
+    },
+    {
+      "id": "1f223e63",
+      "bank_id": "c0b6b600",
+      "text": "Biri sızdı, Garth tehlikede!"
+    },
+    {
+      "id": "229457b8",
+      "bank_id": "c0b6b600",
+      "text": "Oh tabii, sen orada oturup düşünürken bütün işi biz yapalım. Dinlenme sırası BANA gelince haber verirsin, olur mu?"
+    },
+    {
+      "id": "232244af",
+      "bank_id": "c0b6b600",
+      "text": "Garth! Dikkat et!"
+    },
+    {
+      "id": "2394592b",
+      "bank_id": "c0b6b600",
+      "text": "Arkamı kollamanız için ikinize güvenmek zorundayım."
+    },
+    {
+      "id": "24224602",
+      "bank_id": "c0b6b600",
+      "text": "Garth'ın üzerine çullanıyorlar!"
+    },
+    {
+      "id": "24945a9e",
+      "bank_id": "c0b6b600",
+      "text": "Kapıyı başlatmak için odaklanmam gerekecek."
+    },
+    {
+      "id": "252247f5",
+      "bank_id": "c0b6b600",
+      "text": "Hadi, onları Garth'ın üzerinden çekmeliyiz!"
+    },
+    {
+      "id": "26d44065",
+      "bank_id": "c0b6b600",
+      "text": "Lucien'in adamlarından tek birinin bile Garth'a yaklaşmasına izin vermeyin. Çalışmasına imkân tanınmalı."
+    },
+    {
+      "id": "2c0a07a0",
+      "bank_id": "c0b6b600",
+      "text": "Ne oldu? Bir kadından dayak yemeye alışık değil misin?"
+    },
+    {
+      "id": "2d070a29",
+      "bank_id": "c0b6b600",
+      "text": "Ve hepsini yutarsan ölümüne sebep olabilir."
+    },
+    {
+      "id": "2d0a0913",
+      "bank_id": "c0b6b600",
+      "text": "Bir türlü teslim olamıyorsun, değil mi?"
+    },
+    {
+      "id": "2e0a0a86",
+      "bank_id": "c0b6b600",
+      "text": "İşin bitti senin!"
+    },
+    {
+      "id": "2f0a0c79",
+      "bank_id": "c0b6b600",
+      "text": "Sabahı görecek kadar yaşasaydın her yanın sızlardı."
+    },
+    {
+      "id": "2fbc3008",
+      "bank_id": "c0b6b600",
+      "text": "Dur ve dövüş, yoksa ikimiz de öleceğiz."
+    },
+    {
+      "id": "30bc31fb",
+      "bank_id": "c0b6b600",
+      "text": "Bizi yavaşlatmalarına izin veremeyiz!"
+    },
+    {
+      "id": "310a0f5f",
+      "bank_id": "c0b6b600",
+      "text": "Bunu blokla bakalım!"
+    },
+    {
+      "id": "31bc336e",
+      "bank_id": "c0b6b600",
+      "text": "Kalk ayağa! Fazla vakit yok!"
+    },
+    {
+      "id": "320711c8",
+      "bank_id": "c0b6b600",
+      "text": "Yine aynı eski saçmalıklar."
+    },
+    {
+      "id": "320a1132",
+      "bank_id": "c0b6b600",
+      "text": "Beğendin mi bunu?"
+    },
+    {
+      "id": "330713bb",
+      "bank_id": "c0b6b600",
+      "text": "Bir süreliğine Tapınağa geri döndüm..."
+    },
+    {
+      "id": "330a12a5",
+      "bank_id": "c0b6b600",
+      "text": "Neden Lucien'in yanına, evine kaçmıyorsun?"
+    },
+    {
+      "id": "3375b497",
+      "bank_id": "c0b6b600",
+      "text": "Eve uğradığını varsayıyorum. Heh... Amma aile buluşması olmuştur ama!"
+    },
+    {
+      "id": "3407152e",
+      "bank_id": "c0b6b600",
+      "text": "Dönmüş olman gerçekten harika."
+    },
+    {
+      "id": "3434b8e0",
+      "bank_id": "c0b6b600",
+      "text": "Çok yaklaştık, birkaç küçük ayar daha..."
+    },
+    {
+      "id": "3534ba53",
+      "bank_id": "c0b6b600",
+      "text": "Hadi, hadi..."
+    },
+    {
+      "id": "35bc399a",
+      "bank_id": "c0b6b600",
+      "text": "Seni alt etmelerine izin verme."
+    },
+    {
+      "id": "36071874",
+      "bank_id": "c0b6b600",
+      "text": "Kimseye zerre faydası dokunmamış bir yığın batıl inanç saçmalığı."
+    },
+    {
+      "id": "3634bbc6",
+      "bank_id": "c0b6b600",
+      "text": "Neredeyse bitti..."
+    },
+    {
+      "id": "36bc3b0d",
+      "bank_id": "c0b6b600",
+      "text": "Onlardan daha güçlüsün. Hadi!"
+    },
+    {
+      "id": "370719e7",
+      "bank_id": "c0b6b600",
+      "text": "Hey -- bunlar sana şimşek atan silahlar yapmayı öğreten Eski Krallık şemaları değil ki."
+    },
+    {
+      "id": "37138070",
+      "bank_id": "c0b6b600",
+      "text": "Böyle bir gücü nadiren gördüm."
+    },
+    {
+      "id": "3734bdb9",
+      "bank_id": "c0b6b600",
+      "text": "Onları biraz daha oyala yeter."
+    },
+    {
+      "id": "380a1a44",
+      "bank_id": "c0b6b600",
+      "text": "Lucien'e katılmakla büyük bir hata yaptın!"
+    },
+    {
+      "id": "381381e3",
+      "bank_id": "c0b6b600",
+      "text": "Senin dengin değiller."
+    },
+    {
+      "id": "3834bf2c",
+      "bank_id": "c0b6b600",
+      "text": "Birazcık daha."
+    },
+    {
+      "id": "39071ccd",
+      "bank_id": "c0b6b600",
+      "text": "Bin yıl önce yazılmış kitaplara dayanarak herkese hayatını nasıl yaşayacağını dikte etmeye çalışan cahil adamlar."
+    },
+    {
+      "id": "390a1c37",
+      "bank_id": "c0b6b600",
+      "text": "O delinin uğruna nasıl dövüşebiliyorsun?"
+    },
+    {
+      "id": "3934c09f",
+      "bank_id": "c0b6b600",
+      "text": "Oh... bunun olmaması gerekiyordu. Kahretsin."
+    },
+    {
+      "id": "3a34c272",
+      "bank_id": "c0b6b600",
+      "text": "Bu şeyi göz açıp kapayıncaya kadar çalıştırırım."
+    },
+    {
+      "id": "3c13882f",
+      "bank_id": "c0b6b600",
+      "text": "Belki de buradan sağ çıkabiliriz."
+    },
+    {
+      "id": "3d138982",
+      "bank_id": "c0b6b600",
+      "text": "İyi dövüşüyorsun, hakkını teslim etmeliyim."
+    },
+    {
+      "id": "3e00cf86",
+      "bank_id": "c0b6b600",
+      "text": "Gemiye binin."
+    },
+    {
+      "id": "3e0b319b",
+      "bank_id": "c0b6b600",
+      "text": "Pek güvenme buna. Lucien'in adamları buralarda bir yerlerdedir."
+    },
+    {
+      "id": "3e138b75",
+      "bank_id": "c0b6b600",
+      "text": "Hak ettiğinden daha hızlı bir ölüm oldu."
+    },
+    {
+      "id": "40af922e",
+      "bank_id": "c0b6b600",
+      "text": "Neredeyse vardık. Hadi!"
+    },
+    {
+      "id": "410b3654",
+      "bank_id": "c0b6b600",
+      "text": "Ön kapıyı kullanmamalıyız. Lucien'in adamları bizi bekliyor olacaktır."
+    },
+    {
+      "id": "4234ceea",
+      "bank_id": "c0b6b600",
+      "text": "Pekala, neredeyse bitirdim."
+    },
+    {
+      "id": "42af9574",
+      "bank_id": "c0b6b600",
+      "text": "Yeniden hareket etmeliyiz."
+    },
+    {
+      "id": "430b39ba",
+      "bank_id": "c0b6b600",
+      "text": "Yıllardır buraya kimse ayak basmamış gibi görünüyor."
+    },
+    {
+      "id": "4334d05d",
+      "bank_id": "c0b6b600",
+      "text": "Onlarla dövüşmeye devam et, neredeyse bitiriyorum."
+    },
+    {
+      "id": "43af96e7",
+      "bank_id": "c0b6b600",
+      "text": "Oda pek uzakta değil. Hadi gidelim!"
+    },
+    {
+      "id": "4400d918",
+      "bank_id": "c0b6b600",
+      "text": "Kayıp muhafızı bulun."
+    },
+    {
+      "id": "440b3b2d",
+      "bank_id": "c0b6b600",
+      "text": "Beni takip edin. Başka bir giriş yolu biliyorum."
+    },
+    {
+      "id": "44e62540",
+      "bank_id": "c0b6b600",
+      "text": "Biraz fazla hevesli davranmış olabilirim."
+    },
+    {
+      "id": "4500da8b",
+      "bank_id": "c0b6b600",
+      "text": "Silahları kuşanın."
+    },
+    {
+      "id": "45af99cd",
+      "bank_id": "c0b6b600",
+      "text": "Hadi. Karşılaşacağımız son engel bu olmayacak."
+    },
+    {
+      "id": "46e628a6",
+      "bank_id": "c0b6b600",
+      "text": "Hadi ama!"
+    },
+    {
+      "id": "4700ddd1",
+      "bank_id": "c0b6b600",
+      "text": "Komutan'ın odasına gidin."
+    },
+    {
+      "id": "47e62a19",
+      "bank_id": "c0b6b600",
+      "text": "Hadi buradan bir gemiye atlayıp gidelim."
+    },
+    {
+      "id": "4800df44",
+      "bank_id": "c0b6b600",
+      "text": "Komutan'ı alt edin."
+    },
+    {
+      "id": "4900e137",
+      "bank_id": "c0b6b600",
+      "text": "Kule rıhtımına inmek için bir Cullis Geçidi kullanın."
+    },
+    {
+      "id": "4994ad86",
+      "bank_id": "c0b6b600",
+      "text": "Beceri Kahramanı'nı aramadan önce Albion'daki hayatınıza geri dönün."
+    },
+    {
+      "id": "4a00e2aa",
+      "bank_id": "c0b6b600",
+      "text": "Komutan'ın odasına dönün."
+    },
+    {
+      "id": "4b00e41d",
+      "bank_id": "c0b6b600",
+      "text": "Pencereden dışarı bakın."
+    },
+    {
+      "id": "4ee86df3",
+      "bank_id": "c0b6b600",
+      "text": "Ölmeye bu kadar mı hevesliydin?"
+    },
+    {
+      "id": "4f83f5d7",
+      "bank_id": "c0b6b600",
+      "text": "Beyaz ışığa vurun!"
+    },
+    {
+      "id": "50819796",
+      "bank_id": "c0b6b600",
+      "text": "Tasmalarımızı ve şu muhafızı yok edecek kadar İrade toplayabilmek yıllarımı aldı. Bende hiç derman kalmadı. O yüzden bir bela çıkarsa iş sana düşüyor."
+    },
+    {
+      "id": "5083f74a",
+      "bank_id": "c0b6b600",
+      "text": "Kıymıklar! Yalnızca enerji kaynakları açığa çıktığında yok edilebilirler."
+    },
+    {
+      "id": "55554c14",
+      "bank_id": "c0b6b600",
+      "text": "Ne bekliyorsunuz?"
+    },
+    {
+      "id": "56554d87",
+      "bank_id": "c0b6b600",
+      "text": "Çabuk olun!"
+    },
+    {
+      "id": "5681a128",
+      "bank_id": "c0b6b600",
+      "text": "Beni kurtarmaya geldin."
+    },
+    {
+      "id": "5720813f",
+      "bank_id": "c0b6b600",
+      "text": "Şimdi gidin!"
+    },
+    {
+      "id": "57554f7a",
+      "bank_id": "c0b6b600",
+      "text": "Kapıdan girin!"
+    },
+    {
+      "id": "5981a5e1",
+      "bank_id": "c0b6b600",
+      "text": "Yeniden karşılaştık, Kahraman."
+    },
+    {
+      "id": "5a81a754",
+      "bank_id": "c0b6b600",
+      "text": "Kule'den çıkmanın tek yolu Komutan'ın odasından geçiyor."
+    },
+    {
+      "id": "5b81a8c7",
+      "bank_id": "c0b6b600",
+      "text": "O yüzden hazırlanın ve harekete geçelim."
+    },
+    {
+      "id": "5c81aaba",
+      "bank_id": "c0b6b600",
+      "text": "Ama boynundaki o tasmayla ikimize de bir hayrın dokunmaz."
+    },
+    {
+      "id": "5d81ac2d",
+      "bank_id": "c0b6b600",
+      "text": "İşte-- çıkardım onu."
+    },
+    {
+      "id": "5faaafb0",
+      "bank_id": "c0b6b600",
+      "text": "Öff! Seni hatırlıyorum! Bunu uzatacağım."
+    },
+    {
+      "id": "60104bfc",
+      "bank_id": "c0b6b600",
+      "text": "Çok etkileyici. Ama henüz varmadık. Hadi gidelim."
+    },
+    {
+      "id": "60aab123",
+      "bank_id": "c0b6b600",
+      "text": "Aaargh! Sana acının ne olduğunu göstereceğim!"
+    },
+    {
+      "id": "6155b580",
+      "bank_id": "c0b6b600",
+      "text": "O da ne -- bu İrade kullanıcısı!"
+    },
+    {
+      "id": "61aab296",
+      "bank_id": "c0b6b600",
+      "text": "Ööğ! Bana bir daha vuramayacaksın!"
+    },
+    {
+      "id": "6355b8e6",
+      "bank_id": "c0b6b600",
+      "text": "Yakalayın onu!"
+    },
+    {
+      "id": "6455ba59",
+      "bank_id": "c0b6b600",
+      "text": "Ve tasma takmıyor!"
+    },
+    {
+      "id": "65aab8c2",
+      "bank_id": "c0b6b600",
+      "text": "Öff! Bundan daha beterlerini gördüm."
+    },
+    {
+      "id": "66aabab5",
+      "bank_id": "c0b6b600",
+      "text": "Aaargh! Diğerleri gibi sen de öleceksin!"
+    },
+    {
+      "id": "68ff84fc",
+      "bank_id": "c0b6b600",
+      "text": "Beni dize getiremezsin!"
+    },
+    {
+      "id": "69ff866f",
+      "bank_id": "c0b6b600",
+      "text": "Bundan daha kötülerinden sağ çıktım ben."
+    },
+    {
+      "id": "6a9d6290",
+      "bank_id": "c0b6b600",
+      "text": "Bayağı ağırdan aldın doğrusu ama başardın işte."
+    },
+    {
+      "id": "6b278bd7",
+      "bank_id": "c0b6b600",
+      "text": "Etkileyici bir hamle dostum."
+    },
+    {
+      "id": "6b9d6403",
+      "bank_id": "c0b6b600",
+      "text": "Peki içerisi nasıldı? Hayal ettiğim kadar korkunç muydu?"
+    },
+    {
+      "id": "6c278d4a",
+      "bank_id": "c0b6b600",
+      "text": "Böyle devam edersen Lucien'in ortada ordusu filan kalmayacak!"
+    },
+    {
+      "id": "6cff8b28",
+      "bank_id": "c0b6b600",
+      "text": "Burada ölmeyeceğim!"
+    },
+    {
+      "id": "6d278f3d",
+      "bank_id": "c0b6b600",
+      "text": "Dünyada pek az insan bunu başarabilirdi!"
+    },
+    {
+      "id": "6dff8c9b",
+      "bank_id": "c0b6b600",
+      "text": "Ah, keşke güçlerim yanımda olsaydı."
+    },
+    {
+      "id": "6eff8e0e",
+      "bank_id": "c0b6b600",
+      "text": "Hah, elinden gelenin hepsi bu mu?"
+    },
+    {
+      "id": "6fff8fe1",
+      "bank_id": "c0b6b600",
+      "text": "Korkaklar!"
+    },
+    {
+      "id": "72ff94ba",
+      "bank_id": "c0b6b600",
+      "text": "Ağh! Bensiz dışarı çıkamazsın."
+    },
+    {
+      "id": "739d70fb",
+      "bank_id": "c0b6b600",
+      "text": "Daha iyisini bilmeseydim eğer..."
+    },
+    {
+      "id": "73ff962d",
+      "bank_id": "c0b6b600",
+      "text": "Bu darbelerden daha fazlasını kaldıramam."
+    },
+    {
+      "id": "7461ec9b",
+      "bank_id": "c0b6b600",
+      "text": "Yıllar sonra..."
+    },
+    {
+      "id": "749d726e",
+      "bank_id": "c0b6b600",
+      "text": "Gerçekten sensin!"
+    },
+    {
+      "id": "7718ad5f",
+      "bank_id": "c0b6b600",
+      "text": "Oh, sen ona aldırma."
+    },
+    {
+      "id": "779d7727",
+      "bank_id": "c0b6b600",
+      "text": "İnanamıyorum... Gerçekten buradasın!"
+    },
+    {
+      "id": "7818af32",
+      "bank_id": "c0b6b600",
+      "text": "Amma da oyalandın."
+    },
+    {
+      "id": "799d7a0d",
+      "bank_id": "c0b6b600",
+      "text": "Başardın! Garth'ı kurtardın!"
+    },
+    {
+      "id": "868b3610",
+      "bank_id": "c0b6b600",
+      "text": "Cullis Geçidi gücü: %1%"
+    },
+    {
+      "id": "87c69102",
+      "bank_id": "c0b6b600",
+      "text": "Seni koca cadı!"
+    },
+    {
+      "id": "87c69109",
+      "bank_id": "c0b6b600",
+      "text": "Seni koca pislik!"
+    },
+    {
+      "id": "88ef43fb",
+      "bank_id": "c0b6b600",
+      "text": "Defol git. Lucien de çok geçmeden sana katılacak zaten!"
+    },
+    {
+      "id": "89ef456e",
+      "bank_id": "c0b6b600",
+      "text": "Bana bir daha ayak bağı olamayacaksın."
+    },
+    {
+      "id": "8aef46c1",
+      "bank_id": "c0b6b600",
+      "text": "Biri daha devrildi. Daha kaç kişi var?"
+    },
+    {
+      "id": "8b79845f",
+      "bank_id": "c0b6b600",
+      "text": "Bu adamlar için yapabileceğimiz hiçbir şey yok."
+    },
+    {
+      "id": "8bef48b4",
+      "bank_id": "c0b6b600",
+      "text": "Tıpkı senin gibi Lucien'in ordusu da toza toprağa karışacak."
+    },
+    {
+      "id": "8c2ea15f",
+      "bank_id": "c0b6b600",
+      "text": "İrade Kahramanı"
+    },
+    {
+      "id": "8c6c5e47",
+      "bank_id": "c0b6b600",
+      "text": "Bu kılık da neyin nesi böyle? Bir tür fantezi mi-- neyse, beni ilgilendirmez..."
+    },
+    {
+      "id": "8c798632",
+      "bank_id": "c0b6b600",
+      "text": "Hepsini kurtarabilmeyi çok isterdim ama vakit yok."
+    },
+    {
+      "id": "8cef4a27",
+      "bank_id": "c0b6b600",
+      "text": "Körlemesine itaatin seni nereye getirdiğini ancak şimdi anlıyorsun."
+    },
+    {
+      "id": "9093676d",
+      "bank_id": "c0b6b600",
+      "text": "Memur 273, Komutan'a tekmil verin."
+    },
+    {
+      "id": "91d632bd",
+      "bank_id": "c0b6b600",
+      "text": "Bunun nafile olduğunu görmüyor musun?"
+    },
+    {
+      "id": "92b9efd2",
+      "bank_id": "c0b6b600",
+      "text": "Bekle. Biraz... Biraz dinlenmeliyim."
+    },
+    {
+      "id": "988be0a0",
+      "bank_id": "c0b6b600",
+      "text": "Cullis Geçidi ile aramızda duruyorlar."
+    },
+    {
+      "id": "998be213",
+      "bank_id": "c0b6b600",
+      "text": "Yolumuzu dövüşerek açmak zorundayız."
+    },
+    {
+      "id": "9b8be579",
+      "bank_id": "c0b6b600",
+      "text": "Lucien'in adamları. Beni arıyorlar."
+    },
+    {
+      "id": "9d9216b9",
+      "bank_id": "c0b6b600",
+      "text": "Aynen, o kadar kadim bir şeyin içinde bilgelik barındırması imkânsız zaten."
+    },
+    {
+      "id": "9e8bea32",
+      "bank_id": "c0b6b600",
+      "text": "Tam da sevdiğim gibi."
+    },
+    {
+      "id": "a0206ac0",
+      "bank_id": "c0b6b600",
+      "text": "Her taraftan geliyorlar!"
+    },
+    {
+      "id": "a28f0430",
+      "bank_id": "c0b6b600",
+      "text": "Ne oldu? Artık eğlenceli gelmiyor muyum?"
+    },
+    {
+      "id": "a38f05a3",
+      "bank_id": "c0b6b600",
+      "text": "Lucien'in çarpık güçlerinin etkileyici olduğunu mu sanıyorsun? Bir de bunu dene!"
+    },
+    {
+      "id": "a58f0889",
+      "bank_id": "c0b6b600",
+      "text": "Beni şimdi görüyor musun Lucien? Görüyor musun?"
+    },
+    {
+      "id": "a88f0d42",
+      "bank_id": "c0b6b600",
+      "text": "Karşılık verebildiğimde pek eğlenceli olmuyor, değil mi?"
+    },
+    {
+      "id": "a98f0f35",
+      "bank_id": "c0b6b600",
+      "text": "Bu sadece küçük bir tadımlıktı. Biraz daha ister misin?"
+    },
+    {
+      "id": "ac14b29f",
+      "bank_id": "c0b6b600",
+      "text": "Hemen şimdi gitmeliyiz."
+    },
+    {
+      "id": "ad14b472",
+      "bank_id": "c0b6b600",
+      "text": "Hadi ama!"
+    },
+    {
+      "id": "ae14b5e5",
+      "bank_id": "c0b6b600",
+      "text": "Aklını mı kaçırdın sen? Çabuk şu lanet gemiye bin!"
+    },
+    {
+      "id": "b1c0ad78",
+      "bank_id": "c0b6b600",
+      "text": "Karayı bir daha göremeyeceğimi sanıyordum. Yardımın için teşekkür ederim."
+    },
+    {
+      "id": "b2c0aeeb",
+      "bank_id": "c0b6b600",
+      "text": "Senin arkadaşlarından biri daha mı?"
+    },
+    {
+      "id": "b4390310",
+      "bank_id": "c0b6b600",
+      "text": "Bunun acıttığını mı sandın? Ben sana acının ne olduğunu göstereceğim!"
+    },
+    {
+      "id": "b4c0b231",
+      "bank_id": "c0b6b600",
+      "text": "Hıh."
+    },
+    {
+      "id": "b5390483",
+      "bank_id": "c0b6b600",
+      "text": "Ah! Buna pişman olacaksın!"
+    },
+    {
+      "id": "bbd606e0",
+      "bank_id": "c0b6b600",
+      "text": "Onlarla tek başına başa çıkmak zorundasın. Elimden hiçbir şey gelmiyor."
+    },
+    {
+      "id": "bc390f88",
+      "bank_id": "c0b6b600",
+      "text": "Öff! Bu da Lucien'in sana öğrettiği o kirli numaralardan biri mi?"
+    },
+    {
+      "id": "bcb632c6",
+      "bank_id": "c0b6b600",
+      "text": "Üzgünüm ama bunu sen istedin!"
+    },
+    {
+      "id": "bdb634b9",
+      "bank_id": "c0b6b600",
+      "text": "Mutlu oldun mu şimdi?"
+    },
+    {
+      "id": "be3912ee",
+      "bank_id": "c0b6b600",
+      "text": "Hey! Bu acıttı!"
+    },
+    {
+      "id": "bf391441",
+      "bank_id": "c0b6b600",
+      "text": "Ööğ! Şimdi sıra bende!"
+    },
+    {
+      "id": "c0391634",
+      "bank_id": "c0b6b600",
+      "text": "Ööğ! Pek de çekingen değiller hani!"
+    },
+    {
+      "id": "c13917a7",
+      "bank_id": "c0b6b600",
+      "text": "Aaargh! Bunun bir daha yanına kalmasına izin vermeyeceğim!"
+    },
+    {
+      "id": "c239191a",
+      "bank_id": "c0b6b600",
+      "text": "Ih! O lanet Kule'den hiç ayrılmamış olmayı dileteceğim sana!"
+    },
+    {
+      "id": "c2b63c58",
+      "bank_id": "c0b6b600",
+      "text": "Biri daha devrildi!"
+    },
+    {
+      "id": "c2bdd3e8",
+      "bank_id": "c0b6b600",
+      "text": "Hadi ama!"
+    },
+    {
+      "id": "c3391a8d",
+      "bank_id": "c0b6b600",
+      "text": "Iıı-- Oh. Demek tamamen işe yaramaz biri değilmişsin!"
+    },
+    {
+      "id": "c3b63dcb",
+      "bank_id": "c0b6b600",
+      "text": "Evet, aynısını Lucien'e de yapacağım!"
+    },
+    {
+      "id": "c3bdd55b",
+      "bank_id": "c0b6b600",
+      "text": "Buradan kurtulmak istemiyor musun?"
+    },
+    {
+      "id": "c41d5bc7",
+      "bank_id": "c0b6b600",
+      "text": "Rıhtıma ulaşmak için bunu kullanabiliriz. Hadi gelin şimdi."
+    },
+    {
+      "id": "c4bdd6ce",
+      "bank_id": "c0b6b600",
+      "text": "Harekete geçmeliyiz."
+    },
+    {
+      "id": "c51d5dba",
+      "bank_id": "c0b6b600",
+      "text": "Nihayet!"
+    },
+    {
+      "id": "c51d5dbf",
+      "bank_id": "c0b6b600",
+      "text": "Artık beni korumana gerek kalmadığını söyleyebiliriz sanırım."
+    },
+    {
+      "id": "c5b64111",
+      "bank_id": "c0b6b600",
+      "text": "Bunu kendi başına açtın!"
+    },
+    {
+      "id": "c5bdd8a1",
+      "bank_id": "c0b6b600",
+      "text": "Hadi gidelim!"
+    },
+    {
+      "id": "c6b64284",
+      "bank_id": "c0b6b600",
+      "text": "Hayır, kalkma sakın. Ah, sanırım kalkamazsın zaten."
+    },
+    {
+      "id": "c6bdda14",
+      "bank_id": "c0b6b600",
+      "text": "Boşa harcayacak vakit yok."
+    },
+    {
+      "id": "c7b64477",
+      "bank_id": "c0b6b600",
+      "text": "Hak ettiğini buldun mu şimdi?"
+    },
+    {
+      "id": "c7bddb87",
+      "bank_id": "c0b6b600",
+      "text": "Harekete devam etmeliyiz."
+    },
+    {
+      "id": "c8b645ea",
+      "bank_id": "c0b6b600",
+      "text": "Senin için buraya kadarmış o zaman!"
+    },
+    {
+      "id": "c8bddd7a",
+      "bank_id": "c0b6b600",
+      "text": "Ne bekliyorsunuz?"
+    },
+    {
+      "id": "c9b6475d",
+      "bank_id": "c0b6b600",
+      "text": "Bütün bu zavallıları kim gömecek acaba?"
+    },
+    {
+      "id": "ce0b1ac4",
+      "bank_id": "c0b6b600",
+      "text": "Hmm. Bu konuda gerçekten hemfikir olabiliriz."
+    },
+    {
+      "id": "cf0b1cb7",
+      "bank_id": "c0b6b600",
+      "text": "Ama bunu kısa keselim. Yapacak çok işimiz var."
+    },
+    {
+      "id": "d02c4453",
+      "bank_id": "c0b6b600",
+      "text": "Kalan Kıymık: %1"
+    },
+    {
+      "id": "d5d37328",
+      "bank_id": "c0b6b600",
+      "text": "Ah! Bunlardan kaç tane var böyle Garth?"
+    },
+    {
+      "id": "e19e5f3b",
+      "bank_id": "c0b6b600",
+      "text": "Her gün kafanın içinde biri \"Kahraman'ın sağ salim dönüşüne dair görüsüm\" diye fısıldayıp dururken bunu yapmak biraz zor tabii. Doğrusu birkaç kez Theresa'nın suratının ortasına patlatmak istediğim oldu."
+    },
+    {
+      "id": "e37da150",
+      "bank_id": "c0b6b600",
+      "text": "Merdivenlerden yukarı çıkıyorlar!"
+    },
+    {
+      "id": "e57da4b6",
+      "bank_id": "c0b6b600",
+      "text": "Merdivendeler, dikkat edin!"
+    },
+    {
+      "id": "e67da629",
+      "bank_id": "c0b6b600",
+      "text": "Merdivenlerde muhafızlar var!"
+    },
+    {
+      "id": "e77da79c",
+      "bank_id": "c0b6b600",
+      "text": "Komşuları da mı davet ettin? Basamaklardan yukarı çıkıyorlar!"
+    },
+    {
+      "id": "e87da90f",
+      "bank_id": "c0b6b600",
+      "text": "Lanet olasıcalar basamaklardan yukarı çıkıyor!"
+    },
+    {
+      "id": "e8805fe4",
+      "bank_id": "c0b6b600",
+      "text": "Umudumu hiç kaybetmedim."
+    },
+    {
+      "id": "eeef2eb3",
+      "bank_id": "c0b6b600",
+      "text": "Henüz bitmedi bu. Devamı geliyor!"
+    },
+    {
+      "id": "efc26842",
+      "bank_id": "c0b6b600",
+      "text": "İşte burası."
+    },
+    {
+      "id": "f1030878",
+      "bank_id": "c0b6b600",
+      "text": "Beni durduramayacaksınız!"
+    },
+    {
+      "id": "f1ef330c",
+      "bank_id": "c0b6b600",
+      "text": "Daha fazlası geliyor!"
+    },
+    {
+      "id": "f20309eb",
+      "bank_id": "c0b6b600",
+      "text": "Bana daha fazla eziyet edemeyeceksiniz!"
+    },
+    {
+      "id": "f3ef3652",
+      "bank_id": "c0b6b600",
+      "text": "İşte geliyorlar!"
+    },
+    {
+      "id": "f4ef37c5",
+      "bank_id": "c0b6b600",
+      "text": "Hazırlanın!"
+    },
+    {
+      "id": "f5030ea4",
+      "bank_id": "c0b6b600",
+      "text": "Şimdi gerçek gücün ne olduğunu göreceksiniz!"
+    },
+    {
+      "id": "f703118a",
+      "bank_id": "c0b6b600",
+      "text": "Bu küstahlığınızın bedelini ödeyeceksiniz!"
+    },
+    {
+      "id": "f803137d",
+      "bank_id": "c0b6b600",
+      "text": "Özgürüm!"
+    },
+    {
+      "id": "f863a349",
+      "bank_id": "c0b6b600",
+      "text": "Yaşamak istiyorsanız hepinizin bizimle gemiye geri dönmesini öneririm!"
+    },
+    {
+      "id": "fbd8db11",
+      "bank_id": "c0b6b600",
+      "text": "Eh neyse, çok geçmeden kendim öğreneceğim nasıl olsa -- yeniden sahadayız!"
+    },
+    {
+      "id": "fd68354a",
+      "bank_id": "c0b6b600",
+      "text": "Her neyse, tekrar hoş geldin!"
+    },
+    {
+      "id": "fd79e4fc",
+      "bank_id": "c0b6b600",
+      "text": "Komutan her türlü itaatsizliği cezalandıracaktır."
+    },
+    {
+      "id": "fdb23830",
+      "bank_id": "c0b6b600",
+      "text": "Hey Garth, bunu gördün mü?! Tek vuruşta!"
+    },
+    {
+      "id": "fe79e66f",
+      "bank_id": "c0b6b600",
+      "text": "Hadi öyleyse, emirlerinize bakın."
+    },
+    {
+      "id": "feb239a3",
+      "bank_id": "c0b6b600",
+      "text": "Vay canına, biraz aceleci davranıyorsun sanki?"
+    },
+    {
+      "id": "ff79e7c2",
+      "bank_id": "c0b6b600",
+      "text": "İnşaat alanına mı gidiyorsun?"
+    }
+  ]
+}

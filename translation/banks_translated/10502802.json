@@ -1,0 +1,976 @@
+{
+  "bank_id": "10502802",
+  "total_strings": 194,
+  "strings": [
+    {
+      "id": "02984600",
+      "bank_id": "10502802",
+      "text": "Hayatımızı kahkahayla dolduruyorsun canım."
+    },
+    {
+      "id": "02984602",
+      "bank_id": "10502802",
+      "text": "Böyle komik biriyle evleneceğimi biliyordum zaten."
+    },
+    {
+      "id": "02984603",
+      "bank_id": "10502802",
+      "text": "Böyle bir soytarıyla evlenmenin hayatı ilginç kılacağını biliyordum! Haha!"
+    },
+    {
+      "id": "02984604",
+      "bank_id": "10502802",
+      "text": "Hayatı kesinlikle eğlenceli kılıyorsun canım."
+    },
+    {
+      "id": "02984605",
+      "bank_id": "10502802",
+      "text": "Sen bir insanın evlenebileceği en komik kişisin."
+    },
+    {
+      "id": "11cd2b40",
+      "bank_id": "10502802",
+      "text": "Senden daha az güzel biriyle asla evlenmemeliymişim."
+    },
+    {
+      "id": "11cd2b41",
+      "bank_id": "10502802",
+      "text": "Yüzün her geçen gün daha da güzelleşiyor canım."
+    },
+    {
+      "id": "11cd2b42",
+      "bank_id": "10502802",
+      "text": "Seni bir dikişte denizci romu gibi içebilirim!"
+    },
+    {
+      "id": "11cd2b43",
+      "bank_id": "10502802",
+      "text": "Yakışıklının dibisin sen canım!"
+    },
+    {
+      "id": "11cd2b44",
+      "bank_id": "10502802",
+      "text": "Şu gözlere bütün gün bakabilirim."
+    },
+    {
+      "id": "11cd2b45",
+      "bank_id": "10502802",
+      "text": "Seni kaşıkla yiyebilirim!"
+    },
+    {
+      "id": "11cd2b47",
+      "bank_id": "10502802",
+      "text": "Gerçekten harika görünüyorsun canım."
+    },
+    {
+      "id": "18cd3648",
+      "bank_id": "10502802",
+      "text": "Ellerimi üzerinden güçlükle çekiyorum sevgilim. Hav!"
+    },
+    {
+      "id": "18cd3649",
+      "bank_id": "10502802",
+      "text": "Her geçen gün daha da ateşli oluyorsun sevgilim."
+    },
+    {
+      "id": "18cd364a",
+      "bank_id": "10502802",
+      "text": "Kelimelerle anlatılamayacak kadar yakışıklısın tatlım."
+    },
+    {
+      "id": "18cd364c",
+      "bank_id": "10502802",
+      "text": "Yakışıklılığın beni şaşırtmaktan hiç geri kalmıyor canım."
+    },
+    {
+      "id": "18cd364d",
+      "bank_id": "10502802",
+      "text": "Kesinlikle bir kadının umut edebileceği en yakışıklı eşsin."
+    },
+    {
+      "id": "18cd364e",
+      "bank_id": "10502802",
+      "text": "Ne leziz bir şeftali böyle! Ham hum! Seni yiyebilirim!"
+    },
+    {
+      "id": "18cd364f",
+      "bank_id": "10502802",
+      "text": "Aman tanrım, şuna bir bak! Taş gibi taş!"
+    },
+    {
+      "id": "1c3f6960",
+      "bank_id": "10502802",
+      "text": "Böyle, şey, böyle saygıdeğer bir Kahramanla evli olmak ha-harika bir duygu."
+    },
+    {
+      "id": "1c3f6961",
+      "bank_id": "10502802",
+      "text": "Seni kızdıracak hiçbir şey yapmam canım, valla yapmam."
+    },
+    {
+      "id": "1c3f6963",
+      "bank_id": "10502802",
+      "text": "Şey, her şey yolunda mı canım? Güzel, güzel..."
+    },
+    {
+      "id": "1c3f6964",
+      "bank_id": "10502802",
+      "text": "Kız-kızma lütfen canım."
+    },
+    {
+      "id": "1c3f6965",
+      "bank_id": "10502802",
+      "text": "Hadi ama kız-kızma canım."
+    },
+    {
+      "id": "1c3f6966",
+      "bank_id": "10502802",
+      "text": "Her... her istediğin var mı canım?"
+    },
+    {
+      "id": "1c3f6967",
+      "bank_id": "10502802",
+      "text": "Kızma... lütfen... kızma canım."
+    },
+    {
+      "id": "233f7460",
+      "bank_id": "10502802",
+      "text": "Kız-kızma lütfen canım."
+    },
+    {
+      "id": "233f7461",
+      "bank_id": "10502802",
+      "text": "Kız-kızma lütfen canım."
+    },
+    {
+      "id": "233f7462",
+      "bank_id": "10502802",
+      "text": "Her... her şey yolunda mı canım?"
+    },
+    {
+      "id": "233f7463",
+      "bank_id": "10502802",
+      "text": "Kızma... lütfen... kızma canım."
+    },
+    {
+      "id": "233f7464",
+      "bank_id": "10502802",
+      "text": "Her... her istediğin var mı canım?"
+    },
+    {
+      "id": "233f7465",
+      "bank_id": "10502802",
+      "text": "Böyle, şey, böyle saygıdeğer bir Kahramanla evli olmak ha-harika bir duygu."
+    },
+    {
+      "id": "233f7466",
+      "bank_id": "10502802",
+      "text": "Oh, sev-sevgilim, seni üzecek bir şey yapmamaya çalışırım."
+    },
+    {
+      "id": "2595b152",
+      "bank_id": "10502802",
+      "text": "Keşke seninle hiç tanışmasaydım!"
+    },
+    {
+      "id": "2595b153",
+      "bank_id": "10502802",
+      "text": "Keşke seninle hiç tanışmasaydım!"
+    },
+    {
+      "id": "2595b154",
+      "bank_id": "10502802",
+      "text": "Zamanı geri alıp seninle hiç tanışmamış olmayı öyle çok isterdim ki!"
+    },
+    {
+      "id": "2595b155",
+      "bank_id": "10502802",
+      "text": "Keşke hiç karşılaşmasaydık!"
+    },
+    {
+      "id": "2595b157",
+      "bank_id": "10502802",
+      "text": "Zamanı geri alıp seninle hiç tanışmamış olmayı öyle çok isterdim ki!"
+    },
+    {
+      "id": "2c95bc58",
+      "bank_id": "10502802",
+      "text": "Keşke hiç karşılaşmasaydık!"
+    },
+    {
+      "id": "2c95bc59",
+      "bank_id": "10502802",
+      "text": "Zamanı geri alıp seninle hiç tanışmamış olmayı öyle çok isterdim ki!"
+    },
+    {
+      "id": "2c95bc5a",
+      "bank_id": "10502802",
+      "text": "Zamanı geri alıp seninle hiç tanışmamış olmayı öyle çok isterdim ki!"
+    },
+    {
+      "id": "2c95bc5e",
+      "bank_id": "10502802",
+      "text": "Zamanı geri alıp seninle hiç tanışmamış olmayı öyle çok isterdim ki!"
+    },
+    {
+      "id": "2c95bc5f",
+      "bank_id": "10502802",
+      "text": "Keşke seninle hiç tanışmasaydım!"
+    },
+    {
+      "id": "2ee46cb8",
+      "bank_id": "10502802",
+      "text": "Hayatımda güneş gibi doğuyorsun."
+    },
+    {
+      "id": "2ee46cba",
+      "bank_id": "10502802",
+      "text": "Seni canımı yakacak kadar çok seviyorum."
+    },
+    {
+      "id": "2ee46cbb",
+      "bank_id": "10502802",
+      "text": "Sen burada yokken hiçbir şey doğru gitmiyor."
+    },
+    {
+      "id": "2ee46cbc",
+      "bank_id": "10502802",
+      "text": "Birini bu kadar sevebileceğimi hiç düşünmezdim."
+    },
+    {
+      "id": "2ee46cbd",
+      "bank_id": "10502802",
+      "text": "Sana sırılsıklam aşığım."
+    },
+    {
+      "id": "33e47459",
+      "bank_id": "10502802",
+      "text": "Seni patlayacak kadar çok seviyorum."
+    },
+    {
+      "id": "33e4745a",
+      "bank_id": "10502802",
+      "text": "Sensiz hiçbir şeyin anlamı yok."
+    },
+    {
+      "id": "33e4745b",
+      "bank_id": "10502802",
+      "text": "Sensiz hayatımın hiçbir anlamı kalmaz."
+    },
+    {
+      "id": "33e4745c",
+      "bank_id": "10502802",
+      "text": "Aşkınla başımı döndürüyorsun!"
+    },
+    {
+      "id": "33e4745d",
+      "bank_id": "10502802",
+      "text": "Aşkın olmadan ben bir hiçim."
+    },
+    {
+      "id": "36a8dfd0",
+      "bank_id": "10502802",
+      "text": "Oh! İyisin değil mi, se-sevgilim?"
+    },
+    {
+      "id": "36a8dfd1",
+      "bank_id": "10502802",
+      "text": "Oh! İyisin değil mi, se-sevgilim?"
+    },
+    {
+      "id": "36a8dfd4",
+      "bank_id": "10502802",
+      "text": "Oh! İyisin değil mi, se-sevgilim?"
+    },
+    {
+      "id": "36a8dfd6",
+      "bank_id": "10502802",
+      "text": "Oh! İyisin değil mi, se-sevgilim?"
+    },
+    {
+      "id": "36a8dfd7",
+      "bank_id": "10502802",
+      "text": "Oh! İyisin değil mi, se-sevgilim?"
+    },
+    {
+      "id": "3ba8e7f0",
+      "bank_id": "10502802",
+      "text": "Oh! İyisin değil mi, se-sevgilim?"
+    },
+    {
+      "id": "3ba8e7f1",
+      "bank_id": "10502802",
+      "text": "Oh! İyisin değil mi, se-sevgilim?"
+    },
+    {
+      "id": "3ba8e7f5",
+      "bank_id": "10502802",
+      "text": "Oh! İyisin değil mi, se-sevgilim?"
+    },
+    {
+      "id": "3ba8e7f6",
+      "bank_id": "10502802",
+      "text": "Oh! İyisin değil mi, se-sevgilim?"
+    },
+    {
+      "id": "3ba8e7f7",
+      "bank_id": "10502802",
+      "text": "Oh! İyisin değil mi, se-sevgilim?"
+    },
+    {
+      "id": "40a67f08",
+      "bank_id": "10502802",
+      "text": "Daha komik biriyle evlenemezdim, bundan eminim."
+    },
+    {
+      "id": "40a67f09",
+      "bank_id": "10502802",
+      "text": "İlahi, tam bir şapşalsın aşkım."
+    },
+    {
+      "id": "40a67f0a",
+      "bank_id": "10502802",
+      "text": "Eskiden hayatın çok ciddi olduğunu düşünürdüm ama sen fikrimi değiştirdin canım."
+    },
+    {
+      "id": "40a67f0b",
+      "bank_id": "10502802",
+      "text": "Sevgilim, seninle bu evde kahkaha hiç eksik olmuyor."
+    },
+    {
+      "id": "40a67f0d",
+      "bank_id": "10502802",
+      "text": "Umarım her zaman şimdiki kadar gülebiliriz."
+    },
+    {
+      "id": "40a67f0e",
+      "bank_id": "10502802",
+      "text": "Evliliğin bu kadar eğlenceli olabileceğini kimse söylememişti."
+    },
+    {
+      "id": "40a67f0f",
+      "bank_id": "10502802",
+      "text": "Yanımda sen varken yüzümde bir tebessümle yaşlanabilirim."
+    },
+    {
+      "id": "4266a4c8",
+      "bank_id": "10502802",
+      "text": "Ah aşkım, ben seninim."
+    },
+    {
+      "id": "4266a4c9",
+      "bank_id": "10502802",
+      "text": "Senin için can alırım."
+    },
+    {
+      "id": "4266a4cd",
+      "bank_id": "10502802",
+      "text": "Sensiz yaşamaktansa ölmeyi yeğlerim."
+    },
+    {
+      "id": "4266a4ce",
+      "bank_id": "10502802",
+      "text": "Bana o kadar çok iyi geliyorsun ki."
+    },
+    {
+      "id": "4266a4cf",
+      "bank_id": "10502802",
+      "text": "Sonsuza dek seninim!"
+    },
+    {
+      "id": "4ba690b8",
+      "bank_id": "10502802",
+      "text": "Şu şapşallığına bayılıyorum canım."
+    },
+    {
+      "id": "4ba690b9",
+      "bank_id": "10502802",
+      "text": "Doğrusu, bu kadar kahkaha yüzünden bir gün dişlerim dökülecek canım."
+    },
+    {
+      "id": "4ba690ba",
+      "bank_id": "10502802",
+      "text": "Hiçbir evlilik neşeyle bu kadar kutsanmamıştır."
+    },
+    {
+      "id": "4ba690bb",
+      "bank_id": "10502802",
+      "text": "Evimizi kahkahalarla dolduruyorsun sevgilim."
+    },
+    {
+      "id": "4ba690bc",
+      "bank_id": "10502802",
+      "text": "Senin gibi biriyle evliyken hayat asla sıkıcı olmuyor."
+    },
+    {
+      "id": "4ba690be",
+      "bank_id": "10502802",
+      "text": "Ciddi biriyle kim evlenmek ister ki? Sen tam bana göresin!"
+    },
+    {
+      "id": "4ba690bf",
+      "bank_id": "10502802",
+      "text": "Daha komik biriyle evlenemezdim, orası kesin."
+    },
+    {
+      "id": "4d66b678",
+      "bank_id": "10502802",
+      "text": "Ruhumu tamamlıyorsun!"
+    },
+    {
+      "id": "4d66b679",
+      "bank_id": "10502802",
+      "text": "Sana deliler gibi tutkunum bebeğim."
+    },
+    {
+      "id": "4d66b67c",
+      "bank_id": "10502802",
+      "text": "Sonsuza dek seninim!"
+    },
+    {
+      "id": "4d66b67e",
+      "bank_id": "10502802",
+      "text": "Benim her şeyimsin."
+    },
+    {
+      "id": "4d66b67f",
+      "bank_id": "10502802",
+      "text": "Hayatımı güzelleştirdin."
+    },
+    {
+      "id": "56910590",
+      "bank_id": "10502802",
+      "text": "Seninle evlenmek hayatımın en büyük hatasıydı!"
+    },
+    {
+      "id": "56910591",
+      "bank_id": "10502802",
+      "text": "Şu lağım işçisiyle evlenseydim keşke!"
+    },
+    {
+      "id": "56910593",
+      "bank_id": "10502802",
+      "text": "Seninle hiç evlenmemeliydim!"
+    },
+    {
+      "id": "56910594",
+      "bank_id": "10502802",
+      "text": "Seni nasıl sevebildim ben ya?!"
+    },
+    {
+      "id": "56910595",
+      "bank_id": "10502802",
+      "text": "Ciddi ciddi boşanmayı düşünüyordum..."
+    },
+    {
+      "id": "56910596",
+      "bank_id": "10502802",
+      "text": "Nasıl oldu da senin gibi bir pislikle evlendim ben?"
+    },
+    {
+      "id": "56910597",
+      "bank_id": "10502802",
+      "text": "Seninle evlenirken kafam güzeldi herhalde!"
+    },
+    {
+      "id": "56d9dcb2",
+      "bank_id": "10502802",
+      "text": "Lavdan daha ateşlisin tatlım."
+    },
+    {
+      "id": "56d9dcb3",
+      "bank_id": "10502802",
+      "text": "Dünyanın en yakışıklı perisi bile yanında çirkin kalırdı!"
+    },
+    {
+      "id": "56d9dcb4",
+      "bank_id": "10502802",
+      "text": "Dünyanın en yakışıklı perisi bile yanında çirkin kalırdı!"
+    },
+    {
+      "id": "56d9dcb5",
+      "bank_id": "10502802",
+      "text": "Bu kadar yakışıklı biriyle nasıl birlikte oldum ben?"
+    },
+    {
+      "id": "56d9dcb7",
+      "bank_id": "10502802",
+      "text": "Tam bir afetle evlenmişim."
+    },
+    {
+      "id": "5d911090",
+      "bank_id": "10502802",
+      "text": "Her geçen gün senden daha çok iğreniyorum."
+    },
+    {
+      "id": "5d911091",
+      "bank_id": "10502802",
+      "text": "Yüzünü görmekten bıktım artık!"
+    },
+    {
+      "id": "5d911092",
+      "bank_id": "10502802",
+      "text": "Sonra da ne diye kafayı çekip sarhoş oluyorum diye soruyorsun... Pöh!"
+    },
+    {
+      "id": "5d911093",
+      "bank_id": "10502802",
+      "text": "Seninle nikâh kıymak için kafayı yemiş olmalıydım!"
+    },
+    {
+      "id": "5d911094",
+      "bank_id": "10502802",
+      "text": "Ne diye evlendim ki seninle?"
+    },
+    {
+      "id": "5d911095",
+      "bank_id": "10502802",
+      "text": "Ah, keşke yeniden bekâr olsaydım!"
+    },
+    {
+      "id": "5d911096",
+      "bank_id": "10502802",
+      "text": "Seni gördüğüm güne lanet olsun!"
+    },
+    {
+      "id": "5dd9e7b8",
+      "bank_id": "10502802",
+      "text": "Tam bir afetle evlenmişim."
+    },
+    {
+      "id": "5dd9e7b9",
+      "bank_id": "10502802",
+      "text": "Dünyanın en güzel perisi bile yanında çirkin kalırdı!"
+    },
+    {
+      "id": "5dd9e7ba",
+      "bank_id": "10502802",
+      "text": "Seninle güzelliğin için evlenmedim ama fena da olmadı hani!"
+    },
+    {
+      "id": "5dd9e7be",
+      "bank_id": "10502802",
+      "text": "Dünyanın en güzel perisi bile yanında çirkin kalırdı!"
+    },
+    {
+      "id": "5dd9e7bf",
+      "bank_id": "10502802",
+      "text": "Böyle taş gibi biriyle evlendiğime inanamıyorum."
+    },
+    {
+      "id": "76ef9028",
+      "bank_id": "10502802",
+      "text": "Tek ihtiyacımız birbirimiziz."
+    },
+    {
+      "id": "76ef9029",
+      "bank_id": "10502802",
+      "text": "Ömrümün geri kalanını seninle geçirmek istiyorum."
+    },
+    {
+      "id": "76ef902a",
+      "bank_id": "10502802",
+      "text": "Sensiz hayatımın hiçbir anlamı kalmazdı."
+    },
+    {
+      "id": "76ef902b",
+      "bank_id": "10502802",
+      "text": "Hiç kimseye karşı böyle hissetmemiştim."
+    },
+    {
+      "id": "76ef902c",
+      "bank_id": "10502802",
+      "text": "Benim için soluduğum havadan bile daha önemlisin."
+    },
+    {
+      "id": "76ef902d",
+      "bank_id": "10502802",
+      "text": "Senin için canımı veririm."
+    },
+    {
+      "id": "76ef902e",
+      "bank_id": "10502802",
+      "text": "Seni sevdiğim gibi kimseyi sevmeyeceğim."
+    },
+    {
+      "id": "7e6e77b0",
+      "bank_id": "10502802",
+      "text": "Şu gözlere bütün gün bakabilirim."
+    },
+    {
+      "id": "7e6e77b1",
+      "bank_id": "10502802",
+      "text": "Seni kaşıkla yiyebilirim!"
+    },
+    {
+      "id": "7e6e77b3",
+      "bank_id": "10502802",
+      "text": "Gerçekten harika görünüyorsun canım."
+    },
+    {
+      "id": "7e6e77b4",
+      "bank_id": "10502802",
+      "text": "Senden daha az yakışıklı biriyle asla evlenmemeliymişim."
+    },
+    {
+      "id": "7e6e77b5",
+      "bank_id": "10502802",
+      "text": "Yüzün her geçen gün daha da yakışıklı görünüyor canım."
+    },
+    {
+      "id": "7e6e77b6",
+      "bank_id": "10502802",
+      "text": "Seni bir dikişte denizci romu gibi içebilirim!"
+    },
+    {
+      "id": "7e6e77b7",
+      "bank_id": "10502802",
+      "text": "Yakışıklının dibisin sen canım!"
+    },
+    {
+      "id": "7fef9e78",
+      "bank_id": "10502802",
+      "text": "Sensiz ölürüm."
+    },
+    {
+      "id": "7fef9e79",
+      "bank_id": "10502802",
+      "text": "Hiç kimseyi bu kadar sevmemiştim."
+    },
+    {
+      "id": "7fef9e7b",
+      "bank_id": "10502802",
+      "text": "Sen benim her şeyimsin."
+    },
+    {
+      "id": "7fef9e7c",
+      "bank_id": "10502802",
+      "text": "Bu dünyadaki bütün güzelliklerin toplamısın sen."
+    },
+    {
+      "id": "7fef9e7d",
+      "bank_id": "10502802",
+      "text": "Sana olan aşkımdan çatlayacak gibiyim."
+    },
+    {
+      "id": "7fef9e7e",
+      "bank_id": "10502802",
+      "text": "Senden önce hayatım bir çöplüktü."
+    },
+    {
+      "id": "7fef9e7f",
+      "bank_id": "10502802",
+      "text": "Benim her şeyimsin."
+    },
+    {
+      "id": "856e82b0",
+      "bank_id": "10502802",
+      "text": "Güzelliğin beni şaşırtmaktan hiç geri kalmıyor canım."
+    },
+    {
+      "id": "856e82b1",
+      "bank_id": "10502802",
+      "text": "Kesinlikle bir erkeğin umut edebileceği en güzel eşsin."
+    },
+    {
+      "id": "856e82b2",
+      "bank_id": "10502802",
+      "text": "Ne leziz bir şeftali böyle! Ham hum! Seni yiyebilirim!"
+    },
+    {
+      "id": "856e82b3",
+      "bank_id": "10502802",
+      "text": "Aman tanrım, şuna bir bak! Taş gibi taş!"
+    },
+    {
+      "id": "856e82b4",
+      "bank_id": "10502802",
+      "text": "Ellerimi üzerinden güçlükle çekiyorum sevgilim. Hav!"
+    },
+    {
+      "id": "856e82b5",
+      "bank_id": "10502802",
+      "text": "Her geçen gün daha da ateşli oluyorsun sevgilim."
+    },
+    {
+      "id": "856e82b6",
+      "bank_id": "10502802",
+      "text": "Kelimelerle anlatılamayacak kadar güzelsin tatlım."
+    },
+    {
+      "id": "8a5c6422",
+      "bank_id": "10502802",
+      "text": "Kalbimi söküp çıkarabilseydim, fiyonk yapıp sana verirdim."
+    },
+    {
+      "id": "8a5c6423",
+      "bank_id": "10502802",
+      "text": "Sonsuza dek seninim."
+    },
+    {
+      "id": "8a5c6424",
+      "bank_id": "10502802",
+      "text": "Aklıma senden başka kimse gelmiyor. Beni tamamlıyorsun."
+    },
+    {
+      "id": "8a5c6425",
+      "bank_id": "10502802",
+      "text": "Tepeden tırnağa seninim."
+    },
+    {
+      "id": "8a5c6427",
+      "bank_id": "10502802",
+      "text": "Kalbim yalnızca sana ait!"
+    },
+    {
+      "id": "915c6f28",
+      "bank_id": "10502802",
+      "text": "Kalbimdeki tek kişi sensin."
+    },
+    {
+      "id": "915c6f29",
+      "bank_id": "10502802",
+      "text": "Kalbimi çaldın."
+    },
+    {
+      "id": "915c6f2a",
+      "bank_id": "10502802",
+      "text": "Seninim."
+    },
+    {
+      "id": "915c6f2e",
+      "bank_id": "10502802",
+      "text": "Tepeden tırnağa seninim."
+    },
+    {
+      "id": "915c6f2f",
+      "bank_id": "10502802",
+      "text": "Sonsuza dek seninim."
+    },
+    {
+      "id": "b8ecf2b1",
+      "bank_id": "10502802",
+      "text": "Şey, her şey yolunda mı canım?"
+    },
+    {
+      "id": "b8ecf2b2",
+      "bank_id": "10502802",
+      "text": "Rahatın yerinde değil mi sevgilim?"
+    },
+    {
+      "id": "b8ecf2b3",
+      "bank_id": "10502802",
+      "text": "Hadi ama korkutma beni."
+    },
+    {
+      "id": "b8ecf2b4",
+      "bank_id": "10502802",
+      "text": "Korkutma beni canım."
+    },
+    {
+      "id": "b8ecf2b5",
+      "bank_id": "10502802",
+      "text": "Ters damarın tutmasın şimdi yine."
+    },
+    {
+      "id": "b8ecf2b6",
+      "bank_id": "10502802",
+      "text": "Her şey, şey, yolunda mı aşkım?"
+    },
+    {
+      "id": "b8ecf2b7",
+      "bank_id": "10502802",
+      "text": "Umarım her şey gönlüncedir aşkım."
+    },
+    {
+      "id": "c3ed03e0",
+      "bank_id": "10502802",
+      "text": "Şey, her şey yolunda mı canım?"
+    },
+    {
+      "id": "c3ed03e2",
+      "bank_id": "10502802",
+      "text": "Hadi ama korkutma beni."
+    },
+    {
+      "id": "c3ed03e3",
+      "bank_id": "10502802",
+      "text": "Rahatın yerinde değil mi sevgilim?"
+    },
+    {
+      "id": "c3ed03e4",
+      "bank_id": "10502802",
+      "text": "Ters damarın tutmasın şimdi yine."
+    },
+    {
+      "id": "c3ed03e5",
+      "bank_id": "10502802",
+      "text": "Hadi ama korkutma beni."
+    },
+    {
+      "id": "c3ed03e6",
+      "bank_id": "10502802",
+      "text": "Umarım her şey gönlüncedir aşkım."
+    },
+    {
+      "id": "c3ed03e7",
+      "bank_id": "10502802",
+      "text": "Her şey, şey, yolunda mı aşkım?"
+    },
+    {
+      "id": "df4a38e0",
+      "bank_id": "10502802",
+      "text": "Seni nasıl sevebildim ben ya?!"
+    },
+    {
+      "id": "df4a38e1",
+      "bank_id": "10502802",
+      "text": "Ciddi ciddi boşanmayı düşünüyordum..."
+    },
+    {
+      "id": "df4a38e2",
+      "bank_id": "10502802",
+      "text": "Nasıl oldu da senin gibi bir pislikle evlendim ben?"
+    },
+    {
+      "id": "df4a38e3",
+      "bank_id": "10502802",
+      "text": "Seninle evlenirken kafam güzeldi herhalde!"
+    },
+    {
+      "id": "df4a38e4",
+      "bank_id": "10502802",
+      "text": "Seninle evlenmek hayatımın en büyük hatasıydı!"
+    },
+    {
+      "id": "df4a38e5",
+      "bank_id": "10502802",
+      "text": "Şu lağım işçisiyle evlenseydim keşke!"
+    },
+    {
+      "id": "df4a38e7",
+      "bank_id": "10502802",
+      "text": "Seninle hiç evlenmemeliydim!"
+    },
+    {
+      "id": "e64a43e8",
+      "bank_id": "10502802",
+      "text": "Ne diye evlendim ki seninle?"
+    },
+    {
+      "id": "e64a43e9",
+      "bank_id": "10502802",
+      "text": "Ah, keşke yeniden bekâr olsaydım!"
+    },
+    {
+      "id": "e64a43ea",
+      "bank_id": "10502802",
+      "text": "Seni gördüğüm güne lanet olsun!"
+    },
+    {
+      "id": "e64a43ec",
+      "bank_id": "10502802",
+      "text": "Her geçen gün senden daha çok iğreniyorum."
+    },
+    {
+      "id": "e64a43ed",
+      "bank_id": "10502802",
+      "text": "Yüzünü görmekten bıktım artık!"
+    },
+    {
+      "id": "e64a43ee",
+      "bank_id": "10502802",
+      "text": "Sonra da ne diye kafayı çekip sarhoş oluyorum diye soruyorsun... Pöh!"
+    },
+    {
+      "id": "e64a43ef",
+      "bank_id": "10502802",
+      "text": "Seninle nikâh kıymak için kafayı yemiş olmalıydım!"
+    },
+    {
+      "id": "eafff1d8",
+      "bank_id": "10502802",
+      "text": "Ayıkken bile seviyorum seni. Buna ne dersin?"
+    },
+    {
+      "id": "eafff1d9",
+      "bank_id": "10502802",
+      "text": "Benim aradığım insan sensin! Oh evet."
+    },
+    {
+      "id": "eafff1da",
+      "bank_id": "10502802",
+      "text": "Para pul iyi hoş da, seninle paylaştığımız şey... o çok daha güzel."
+    },
+    {
+      "id": "eafff1db",
+      "bank_id": "10502802",
+      "text": "Nereden geldiğin umurumda bile değil. Önemli olan tek şey aşkımız."
+    },
+    {
+      "id": "eafff1dd",
+      "bank_id": "10502802",
+      "text": "Hayatımdaki en önemli şey sensin."
+    },
+    {
+      "id": "eafff1de",
+      "bank_id": "10502802",
+      "text": "Sensiz ne yapardım hiç bilmiyorum."
+    },
+    {
+      "id": "eafff1df",
+      "bank_id": "10502802",
+      "text": "Sana tek kelimeyle bayılıyorum bebeğim."
+    },
+    {
+      "id": "f6000308",
+      "bank_id": "10502802",
+      "text": "Aşk dedikleri böyle bir şey mi? Yoksa sadece sarhoş muyum?"
+    },
+    {
+      "id": "f6000309",
+      "bank_id": "10502802",
+      "text": "Birine karşı böyle hissedeceğimi hiç düşünmezdim."
+    },
+    {
+      "id": "f600030a",
+      "bank_id": "10502802",
+      "text": "O buzdan zırhımı birinin delebileceğini hiç sanmazdım. Ama sen başardın işte."
+    },
+    {
+      "id": "f600030b",
+      "bank_id": "10502802",
+      "text": "Hayatıma yepyeni bir anlam kattın!"
+    },
+    {
+      "id": "f600030c",
+      "bank_id": "10502802",
+      "text": "İçimi kıpır kıpır ediyorsun!"
+    },
+    {
+      "id": "f600030e",
+      "bank_id": "10502802",
+      "text": "Seni bulduğum için o kadar mutluyum ki aşkım!"
+    },
+    {
+      "id": "f600030f",
+      "bank_id": "10502802",
+      "text": "Tek bir kelime etmen yeter, seninim."
+    },
+    {
+      "id": "f79834d1",
+      "bank_id": "10502802",
+      "text": "Hayatımızı kahkahayla dolduruyorsun canım."
+    },
+    {
+      "id": "f79834d2",
+      "bank_id": "10502802",
+      "text": "Böyle bir soytarıyla evlenmenin hayatı ilginç kılacağını biliyordum! Haha!"
+    },
+    {
+      "id": "f79834d3",
+      "bank_id": "10502802",
+      "text": "Şu şapşallığına bayılıyorum canım."
+    }
+  ]
+}

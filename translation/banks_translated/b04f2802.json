@@ -1,0 +1,1176 @@
+{
+  "bank_id": "b04f2802",
+  "total_strings": 234,
+  "strings": [
+    {
+      "id": "1226057a",
+      "bank_id": "b04f2802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "1226057b",
+      "bank_id": "b04f2802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "1226057c",
+      "bank_id": "b04f2802",
+      "text": "Sipariş vermek ister misiniz?"
+    },
+    {
+      "id": "1226057d",
+      "bank_id": "b04f2802",
+      "text": "Size bir içki ikram edebilir miyim?"
+    },
+    {
+      "id": "1226057e",
+      "bank_id": "b04f2802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "1b261348",
+      "bank_id": "b04f2802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "1b261349",
+      "bank_id": "b04f2802",
+      "text": "Bardan bir şey alır mıydınız?"
+    },
+    {
+      "id": "1b26134b",
+      "bank_id": "b04f2802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "1b26134e",
+      "bank_id": "b04f2802",
+      "text": "Bir içki ister misiniz?"
+    },
+    {
+      "id": "1b26134f",
+      "bank_id": "b04f2802",
+      "text": "Siz ne alırdınız?"
+    },
+    {
+      "id": "23dfd5fa",
+      "bank_id": "b04f2802",
+      "text": "Çok sert bir şey olmasın lütfen. Başıma vurabilir."
+    },
+    {
+      "id": "23dfd5fb",
+      "bank_id": "b04f2802",
+      "text": "Sanırım avam tabakasının pek sevdiği şu köpüklü içeceklerden birini deneyeceğim."
+    },
+    {
+      "id": "27ec48f2",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha ister misiniz?"
+    },
+    {
+      "id": "27ec48f3",
+      "bank_id": "b04f2802",
+      "text": "Biraz daha alır mıydınız?"
+    },
+    {
+      "id": "27ec48f4",
+      "bank_id": "b04f2802",
+      "text": "Henüz bitirmediniz mi?"
+    },
+    {
+      "id": "27ec48f5",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha çeker mi canınız?"
+    },
+    {
+      "id": "27ec48f7",
+      "bank_id": "b04f2802",
+      "text": "Bir içkiye daha hazır mısınız?"
+    },
+    {
+      "id": "288fb8f8",
+      "bank_id": "b04f2802",
+      "text": "İçecek bir şey?"
+    },
+    {
+      "id": "288fb8f9",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    },
+    {
+      "id": "288fb8fd",
+      "bank_id": "b04f2802",
+      "text": "Bir şeyler içmek ister misiniz?"
+    },
+    {
+      "id": "288fb8fe",
+      "bank_id": "b04f2802",
+      "text": "Ne getireyim size?"
+    },
+    {
+      "id": "288fb8ff",
+      "bank_id": "b04f2802",
+      "text": "Size bir içki?"
+    },
+    {
+      "id": "2eec53f8",
+      "bank_id": "b04f2802",
+      "text": "Hâlâ susuz musunuz?"
+    },
+    {
+      "id": "2eec53f9",
+      "bank_id": "b04f2802",
+      "text": "Tazeleyelim mi?"
+    },
+    {
+      "id": "2eec53fa",
+      "bank_id": "b04f2802",
+      "text": "Bir içki daha ister misiniz?"
+    },
+    {
+      "id": "2eec53fe",
+      "bank_id": "b04f2802",
+      "text": "Biraz daha?"
+    },
+    {
+      "id": "2eec53ff",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha?"
+    },
+    {
+      "id": "2f475811",
+      "bank_id": "b04f2802",
+      "text": "Sırada ne var?"
+    },
+    {
+      "id": "2f475812",
+      "bank_id": "b04f2802",
+      "text": "Daha fazla içki?"
+    },
+    {
+      "id": "2f475813",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha vakti geldi mi?"
+    },
+    {
+      "id": "2f475814",
+      "bank_id": "b04f2802",
+      "text": "Başka bir şey ister misiniz?"
+    },
+    {
+      "id": "2f475815",
+      "bank_id": "b04f2802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "320fbc22",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha?"
+    },
+    {
+      "id": "320fbc23",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha?"
+    },
+    {
+      "id": "320fbc24",
+      "bank_id": "b04f2802",
+      "text": "Bir tur daha?"
+    },
+    {
+      "id": "320fbc25",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha doldurayım mı?"
+    },
+    {
+      "id": "320fbc27",
+      "bank_id": "b04f2802",
+      "text": "Hâlâ kurumuş gibi misiniz?"
+    },
+    {
+      "id": "338fca28",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    },
+    {
+      "id": "338fca29",
+      "bank_id": "b04f2802",
+      "text": "İçecek bir şey?"
+    },
+    {
+      "id": "338fca2c",
+      "bank_id": "b04f2802",
+      "text": "Bardan bir şey?"
+    },
+    {
+      "id": "338fca2e",
+      "bank_id": "b04f2802",
+      "text": "Bir içki belki?"
+    },
+    {
+      "id": "338fca2f",
+      "bank_id": "b04f2802",
+      "text": "Boğazınızı ıslatacak bir şey?"
+    },
+    {
+      "id": "390fc728",
+      "bank_id": "b04f2802",
+      "text": "Bir içki daha?"
+    },
+    {
+      "id": "390fc729",
+      "bank_id": "b04f2802",
+      "text": "Bir tur daha?"
+    },
+    {
+      "id": "390fc72a",
+      "bank_id": "b04f2802",
+      "text": "Bir içki daha?"
+    },
+    {
+      "id": "390fc72e",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha?"
+    },
+    {
+      "id": "390fc72f",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha?"
+    },
+    {
+      "id": "3a476940",
+      "bank_id": "b04f2802",
+      "text": "Sırada ne var?"
+    },
+    {
+      "id": "3a476942",
+      "bank_id": "b04f2802",
+      "text": "Ne getirebilirim size?"
+    },
+    {
+      "id": "3a476943",
+      "bank_id": "b04f2802",
+      "text": "Bu sefer ne olsun?"
+    },
+    {
+      "id": "3a476944",
+      "bank_id": "b04f2802",
+      "text": "Şimdi ne alırdınız?"
+    },
+    {
+      "id": "3a476945",
+      "bank_id": "b04f2802",
+      "text": "Başka bir şey var mı?"
+    },
+    {
+      "id": "56b21072",
+      "bank_id": "b04f2802",
+      "text": "Bana sadece bir içki getir. Islak ve baharatlı olsun."
+    },
+    {
+      "id": "56b21073",
+      "bank_id": "b04f2802",
+      "text": "Buradaki en erkekçe içki hangisi?"
+    },
+    {
+      "id": "56b21074",
+      "bank_id": "b04f2802",
+      "text": "Bir içkiye ihtiyacım var! Hemen!"
+    },
+    {
+      "id": "56b21075",
+      "bank_id": "b04f2802",
+      "text": "Bir bardak Jack of Blades. Buz gibi olsun."
+    },
+    {
+      "id": "56b21077",
+      "bank_id": "b04f2802",
+      "text": "Ne istediğimi biliyorsun."
+    },
+    {
+      "id": "575ae188",
+      "bank_id": "b04f2802",
+      "text": "Daha fazla bira?"
+    },
+    {
+      "id": "575ae18a",
+      "bank_id": "b04f2802",
+      "text": "Tazeleyelim mi?"
+    },
+    {
+      "id": "575ae18b",
+      "bank_id": "b04f2802",
+      "text": "İyisin bakalım?"
+    },
+    {
+      "id": "575ae18c",
+      "bank_id": "b04f2802",
+      "text": "Doldurmamı ister misiniz?"
+    },
+    {
+      "id": "575ae18d",
+      "bank_id": "b04f2802",
+      "text": "Başka bir şey?"
+    },
+    {
+      "id": "5c5ae9a9",
+      "bank_id": "b04f2802",
+      "text": "Susadınız mı?"
+    },
+    {
+      "id": "5c5ae9aa",
+      "bank_id": "b04f2802",
+      "text": "Aynısından bir daha?"
+    },
+    {
+      "id": "5c5ae9ab",
+      "bank_id": "b04f2802",
+      "text": "Tazeleyelim mi?"
+    },
+    {
+      "id": "5c5ae9ac",
+      "bank_id": "b04f2802",
+      "text": "Başka bir isteğiniz var mı?"
+    },
+    {
+      "id": "5c5ae9ad",
+      "bank_id": "b04f2802",
+      "text": "Hâlâ susuz musunuz?"
+    },
+    {
+      "id": "5cc3b592",
+      "bank_id": "b04f2802",
+      "text": "Bir gün buradan çıkacağım. Ve o zaman öleceksin! Duyuyor musun beni? Öleceksin!"
+    },
+    {
+      "id": "5cc3b593",
+      "bank_id": "b04f2802",
+      "text": "Sizin için daha fazla çalışmaktansa kendimi öldürürüm daha iyi! Duyuyor musun beni?!"
+    },
+    {
+      "id": "5cc3b594",
+      "bank_id": "b04f2802",
+      "text": "Yalvarıyorum sana! Bize böyle... böyle işkence edip durmayın!"
+    },
+    {
+      "id": "5cc3b595",
+      "bank_id": "b04f2802",
+      "text": "Biz ne yaptık? Bunu hak edecek ne yaptık biz? Cevap ver bana!"
+    },
+    {
+      "id": "5cc3b596",
+      "bank_id": "b04f2802",
+      "text": "Bunu bize nasıl yaparsınız?! Ve neden konuşmuyorsun??? Konuuuş! Lanet olsun sana!"
+    },
+    {
+      "id": "5db21b78",
+      "bank_id": "b04f2802",
+      "text": "Hiç kraken likörünüz var mı?"
+    },
+    {
+      "id": "5db21b79",
+      "bank_id": "b04f2802",
+      "text": "Bize biraz ateş suyu getirir misin?"
+    },
+    {
+      "id": "5db21b7a",
+      "bank_id": "b04f2802",
+      "text": "Bir Oakfield ekşisi alabilir miyim?"
+    },
+    {
+      "id": "5db21b7e",
+      "bank_id": "b04f2802",
+      "text": "Şu an biraz hobbe suyu için adam öldürebilirim."
+    },
+    {
+      "id": "5db21b7f",
+      "bank_id": "b04f2802",
+      "text": "Bize güzel bir bardak kurbağa salyası ver."
+    },
+    {
+      "id": "5e0d1f91",
+      "bank_id": "b04f2802",
+      "text": "Bir Bloodstone Özel alayım, çok teşekkürler."
+    },
+    {
+      "id": "5e0d1f92",
+      "bank_id": "b04f2802",
+      "text": "Jack of Blades kokteyli servis ediyor musunuz? Çok fena çarptığını duydum."
+    },
+    {
+      "id": "5e0d1f93",
+      "bank_id": "b04f2802",
+      "text": "Bir bardak hobbe suyu lütfen."
+    },
+    {
+      "id": "5e0d1f94",
+      "bank_id": "b04f2802",
+      "text": "Güzel bir bardak Kumkazı Romu lütfen."
+    },
+    {
+      "id": "5edf4022",
+      "bank_id": "b04f2802",
+      "text": "Bir iki yudum daha atarsam bir boğayla bilek güreşi yapmaya hazır olacağım."
+    },
+    {
+      "id": "5edf4023",
+      "bank_id": "b04f2802",
+      "text": "Bu kasabanın derdi ne biliyor musun?! Yeterince börekçi dükkânı yok!"
+    },
+    {
+      "id": "5edf4024",
+      "bank_id": "b04f2802",
+      "text": "Hık, hık, he he he, oh, hık!"
+    },
+    {
+      "id": "5edf4025",
+      "bank_id": "b04f2802",
+      "text": "Sanırım az önce şu köstebek turşularından birini yuttum."
+    },
+    {
+      "id": "5edf4027",
+      "bank_id": "b04f2802",
+      "text": "Özür dilerim, kendinizi tanıtmama izin verin. Ben nasılım?"
+    },
+    {
+      "id": "5f60eb58",
+      "bank_id": "b04f2802",
+      "text": "Gittiğine hâlâ inanamıyorum."
+    },
+    {
+      "id": "5f60eb5a",
+      "bank_id": "b04f2802",
+      "text": "Huzur içinde yat, eski dostum."
+    },
+    {
+      "id": "5f60eb5b",
+      "bank_id": "b04f2802",
+      "text": "Vaktim geldiğinde umarım bana da böyle güzel bir yer düşer."
+    },
+    {
+      "id": "5f60eb5c",
+      "bank_id": "b04f2802",
+      "text": "Düşünsene, aşağıda solucanlar ziyafet çekiyor."
+    },
+    {
+      "id": "5f60eb5d",
+      "bank_id": "b04f2802",
+      "text": "Toprak nasıl gidiyor bakalım?"
+    },
+    {
+      "id": "5f60eb5e",
+      "bank_id": "b04f2802",
+      "text": "Ne zavallı küçük bir mezar."
+    },
+    {
+      "id": "5f60eb5f",
+      "bank_id": "b04f2802",
+      "text": "Ne trajik bir kayıp."
+    },
+    {
+      "id": "60d583a0",
+      "bank_id": "b04f2802",
+      "text": "Ah, hiç pembe kokteyliniz var mı?"
+    },
+    {
+      "id": "60d583a1",
+      "bank_id": "b04f2802",
+      "text": "Çok sert bir şey olmasın lütfen. Başıma vurabilir."
+    },
+    {
+      "id": "60d583a2",
+      "bank_id": "b04f2802",
+      "text": "Bir içki lütfen!"
+    },
+    {
+      "id": "60d583a3",
+      "bank_id": "b04f2802",
+      "text": "İnsanı yere seren cinsten bir bardak."
+    },
+    {
+      "id": "60d583a4",
+      "bank_id": "b04f2802",
+      "text": "Güzel, uzun bir içki için adam öldürebilirim."
+    },
+    {
+      "id": "60d583a5",
+      "bank_id": "b04f2802",
+      "text": "Güzel bir bardak yavru trol suyu lütfen."
+    },
+    {
+      "id": "60d583a7",
+      "bank_id": "b04f2802",
+      "text": "Ah, bir buzlu çay için adam öldürürdüm."
+    },
+    {
+      "id": "61ddf0b8",
+      "bank_id": "b04f2802",
+      "text": "Bırakın! Beni! Çıkayııım!"
+    },
+    {
+      "id": "61ddf0b9",
+      "bank_id": "b04f2802",
+      "text": "Neyiniz var sizin?? İnsan değilsiniz siz!"
+    },
+    {
+      "id": "61ddf0bb",
+      "bank_id": "b04f2802",
+      "text": "Sana altın... Altın bulurum! İstediğin kadar altın! Lütfen! Lütfen dinle beni!"
+    },
+    {
+      "id": "61ddf0be",
+      "bank_id": "b04f2802",
+      "text": "Artık canımı benden emmeyeceksiniz! Gördün mü? Gördün müü?! Argh! Argh! Ha ha ha ha!"
+    },
+    {
+      "id": "61ddf0bf",
+      "bank_id": "b04f2802",
+      "text": "Bu, bu günah dolu hayatımın bedeli. Söylüyorum işte. Bedeli bu! Duyuyor musunuz beni hepiniz??!"
+    },
+    {
+      "id": "6460f379",
+      "bank_id": "b04f2802",
+      "text": "Büyük bir trajedi..."
+    },
+    {
+      "id": "6460f37a",
+      "bank_id": "b04f2802",
+      "text": "Seni asla unutmayacağız."
+    },
+    {
+      "id": "6460f37b",
+      "bank_id": "b04f2802",
+      "text": "Bir dakika ya. Yanlış mezardayım ben."
+    },
+    {
+      "id": "6460f37c",
+      "bank_id": "b04f2802",
+      "text": "Bütün aile buralarda gömülü."
+    },
+    {
+      "id": "6460f37d",
+      "bank_id": "b04f2802",
+      "text": "Buraya sadece parçaları gömüldü. Kalanını balverine'ler yedi."
+    },
+    {
+      "id": "6460f37e",
+      "bank_id": "b04f2802",
+      "text": "Evet, gerçekten de hasta olduğunu söylemiştin bize. Neden inanmadık ki sana?"
+    },
+    {
+      "id": "6460f37f",
+      "bank_id": "b04f2802",
+      "text": "Umarım öbür dünya sana iyi davranıyordur."
+    },
+    {
+      "id": "65df4b28",
+      "bank_id": "b04f2802",
+      "text": "Sence içkileri sulandırıyorlar mı? Çünkü hiçbir şey hissetmiyorum. Başta bacaklarım olmak üzere."
+    },
+    {
+      "id": "65df4b29",
+      "bank_id": "b04f2802",
+      "text": "Dostum, bunca beklemek insanı kesinlikle susatıyor."
+    },
+    {
+      "id": "65df4b2a",
+      "bank_id": "b04f2802",
+      "text": "Hey, bardağım bitmeden önce içinde ne vardı öyle? Biliyorsun hani, içindeki?"
+    },
+    {
+      "id": "65df4b2e",
+      "bank_id": "b04f2802",
+      "text": "Ahh, insanın kafasına çekiç gibi iniyor, değil mi."
+    },
+    {
+      "id": "65df4b2f",
+      "bank_id": "b04f2802",
+      "text": "Sence kim kazanırdı, bir ayı mı yoksa bir goril mi?"
+    },
+    {
+      "id": "679f3922",
+      "bank_id": "b04f2802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "679f3923",
+      "bank_id": "b04f2802",
+      "text": "Zehrin ne olsun?"
+    },
+    {
+      "id": "679f3924",
+      "bank_id": "b04f2802",
+      "text": "Hadi ama, ne alırdınız?"
+    },
+    {
+      "id": "679f3925",
+      "bank_id": "b04f2802",
+      "text": "Bugün ne içiyorsunuz?"
+    },
+    {
+      "id": "679f3927",
+      "bank_id": "b04f2802",
+      "text": "Hadi ama, ne alırdınız?"
+    },
+    {
+      "id": "67d58ea8",
+      "bank_id": "b04f2802",
+      "text": "Bir Oakfield ekşisi alayım lütfen."
+    },
+    {
+      "id": "67d58ea9",
+      "bank_id": "b04f2802",
+      "text": "Ah, bir bira için adam öldürürdüm."
+    },
+    {
+      "id": "67d58eaa",
+      "bank_id": "b04f2802",
+      "text": "En iyi biranızdan lütfen!"
+    },
+    {
+      "id": "67d58eac",
+      "bank_id": "b04f2802",
+      "text": "Hakkında o kadar çok şey duyduğum şu hobbe suyu nedir acaba?"
+    },
+    {
+      "id": "67d58ead",
+      "bank_id": "b04f2802",
+      "text": "En kaliteli içkinizden, lütfen."
+    },
+    {
+      "id": "67d58eae",
+      "bank_id": "b04f2802",
+      "text": "İçinde küçük şemsiyeler olan içkilerden var mı?"
+    },
+    {
+      "id": "67d58eaf",
+      "bank_id": "b04f2802",
+      "text": "Şu Oakfield ekşisinden var mı?"
+    },
+    {
+      "id": "690d30c0",
+      "bank_id": "b04f2802",
+      "text": "Soğuk olduğu sürece her şey olur."
+    },
+    {
+      "id": "690d30c2",
+      "bank_id": "b04f2802",
+      "text": "Bir Westcliff Tükürük Kovası alayım. Kulağa geldiğinden daha lezzetlidir."
+    },
+    {
+      "id": "690d30c3",
+      "bank_id": "b04f2802",
+      "text": "Bir Jack of Blades lütfen."
+    },
+    {
+      "id": "690d30c4",
+      "bank_id": "b04f2802",
+      "text": "Yıllardır ne içmedim biliyor musun? Bir Kızıl Cübbe."
+    },
+    {
+      "id": "690d30c5",
+      "bank_id": "b04f2802",
+      "text": "Şu Jack of Blades kokteyllerinden var mı sizde?"
+    },
+    {
+      "id": "6e9f4428",
+      "bank_id": "b04f2802",
+      "text": "Bütün günüm yok - ne olsun?"
+    },
+    {
+      "id": "6e9f4429",
+      "bank_id": "b04f2802",
+      "text": "Hadi ama, ne alırdınız?"
+    },
+    {
+      "id": "6e9f442a",
+      "bank_id": "b04f2802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "6e9f442e",
+      "bank_id": "b04f2802",
+      "text": "Acele edin biraz - ne alırdınız?"
+    },
+    {
+      "id": "6e9f442f",
+      "bank_id": "b04f2802",
+      "text": "Çabuk olun - ne alırdınız?"
+    },
+    {
+      "id": "73af6529",
+      "bank_id": "b04f2802",
+      "text": "Bana bak! En azından bunu yap! En azından gözlerimin içine bak!"
+    },
+    {
+      "id": "73af652a",
+      "bank_id": "b04f2802",
+      "text": "Canavar! Bunun için yanacaksın! Duyuyor musun beni?! Sonsuza dek yanacaksın!"
+    },
+    {
+      "id": "73af652b",
+      "bank_id": "b04f2802",
+      "text": "Benim... Bir oğlum var... Ve küçük bir kızım... Onların... Onların bana ihtiyacı var. Duymuyor musun beni?! Bana ihtiyaçları var!!"
+    },
+    {
+      "id": "78540f48",
+      "bank_id": "b04f2802",
+      "text": "Doldurayım mı?"
+    },
+    {
+      "id": "78540f49",
+      "bank_id": "b04f2802",
+      "text": "Tazeleyelim mi?"
+    },
+    {
+      "id": "78540f4d",
+      "bank_id": "b04f2802",
+      "text": "Tazeleyelim mi?"
+    },
+    {
+      "id": "78540f4e",
+      "bank_id": "b04f2802",
+      "text": "Biraz daha içecek?"
+    },
+    {
+      "id": "78540f4f",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha ister misiniz?"
+    },
+    {
+      "id": "835420f8",
+      "bank_id": "b04f2802",
+      "text": "Daha fazla içki?"
+    },
+    {
+      "id": "835420f9",
+      "bank_id": "b04f2802",
+      "text": "Bir içki daha?"
+    },
+    {
+      "id": "835420fc",
+      "bank_id": "b04f2802",
+      "text": "Biraz daha içki?"
+    },
+    {
+      "id": "835420fe",
+      "bank_id": "b04f2802",
+      "text": "Tazeleyeyim mi?"
+    },
+    {
+      "id": "835420ff",
+      "bank_id": "b04f2802",
+      "text": "Gördüğüm boş bir bardak mı yoksa?"
+    },
+    {
+      "id": "8ed06374",
+      "bank_id": "b04f2802",
+      "text": "Yine o rüyayı gördüm. Evimde, karımla, çocuğumla olduğum rüyayı. Çığlıklarım birinizi uyandırdıysa kusura bakmayın."
+    },
+    {
+      "id": "8ed06376",
+      "bank_id": "b04f2802",
+      "text": "Onları... Onları bir daha asla göremeyeceğim, değil mi? Ve onlar bana ne olduğunu asla bilemeyecekler..."
+    },
+    {
+      "id": "8ed06377",
+      "bank_id": "b04f2802",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "9a02ad0a",
+      "bank_id": "b04f2802",
+      "text": "Şimdi ne istersiniz?"
+    },
+    {
+      "id": "9a02ad0b",
+      "bank_id": "b04f2802",
+      "text": "Sırada ne var?"
+    },
+    {
+      "id": "9a02ad0c",
+      "bank_id": "b04f2802",
+      "text": "Taze bir içki lazım mı?"
+    },
+    {
+      "id": "9a02ad0d",
+      "bank_id": "b04f2802",
+      "text": "Hâlâ biraz kurumuş gibisiniz."
+    },
+    {
+      "id": "9a02ad0e",
+      "bank_id": "b04f2802",
+      "text": "Hâlâ susuz musunuz?"
+    },
+    {
+      "id": "9ec3c362",
+      "bank_id": "b04f2802",
+      "text": "İçki isteyen?"
+    },
+    {
+      "id": "9ec3c363",
+      "bank_id": "b04f2802",
+      "text": "Ne istiyorsun bakalım?"
+    },
+    {
+      "id": "9ec3c364",
+      "bank_id": "b04f2802",
+      "text": "Canınız ne çekiyor?"
+    },
+    {
+      "id": "9ec3c365",
+      "bank_id": "b04f2802",
+      "text": "Ne tür bir içki istersiniz?"
+    },
+    {
+      "id": "9ec3c367",
+      "bank_id": "b04f2802",
+      "text": "Bir içkiye hazır mısınız?"
+    },
+    {
+      "id": "a302bb58",
+      "bank_id": "b04f2802",
+      "text": "Hâlâ susamış görünüyorsunuz."
+    },
+    {
+      "id": "a302bb59",
+      "bank_id": "b04f2802",
+      "text": "Daha fazlasına susadınız mı?"
+    },
+    {
+      "id": "a302bb5b",
+      "bank_id": "b04f2802",
+      "text": "Hâlâ susuz musunuz?"
+    },
+    {
+      "id": "a302bb5e",
+      "bank_id": "b04f2802",
+      "text": "Bir tane daha lazım mı?"
+    },
+    {
+      "id": "a302bb5f",
+      "bank_id": "b04f2802",
+      "text": "Bir içki daha lazım mı orada?"
+    },
+    {
+      "id": "a5c3ce68",
+      "bank_id": "b04f2802",
+      "text": "Size bira?"
+    },
+    {
+      "id": "a5c3ce69",
+      "bank_id": "b04f2802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "a5c3ce6a",
+      "bank_id": "b04f2802",
+      "text": "Soğuk bir tane ister misiniz?"
+    },
+    {
+      "id": "a5c3ce6e",
+      "bank_id": "b04f2802",
+      "text": "İçki ister misiniz?"
+    },
+    {
+      "id": "a5c3ce6f",
+      "bank_id": "b04f2802",
+      "text": "Bir bira çeker mi canınız?"
+    },
+    {
+      "id": "a719d6c8",
+      "bank_id": "b04f2802",
+      "text": "Bir bardak hobbe suyu alayım. Çok köpüklü olmasın."
+    },
+    {
+      "id": "a719d6c9",
+      "bank_id": "b04f2802",
+      "text": "Susuzluktan ölüyorum burada. Bira, çabuk."
+    },
+    {
+      "id": "a719d6cd",
+      "bank_id": "b04f2802",
+      "text": "Bir içki, herhangi bir içki."
+    },
+    {
+      "id": "a719d6ce",
+      "bank_id": "b04f2802",
+      "text": "Şu Eski Krallık kokteyllerinden yapıyor musunuz?"
+    },
+    {
+      "id": "a719d6cf",
+      "bank_id": "b04f2802",
+      "text": "Bir bardak stout lütfen."
+    },
+    {
+      "id": "affc4980",
+      "bank_id": "b04f2802",
+      "text": "Lucien burayı ne yapacak bilmiyorum. Umurumda da değil. Tek umudum buranın tepesine yıkılması. Yavaşça. Ve acı vererek."
+    },
+    {
+      "id": "affc4981",
+      "bank_id": "b04f2802",
+      "text": "Buna daha ne kadar dayanabilirim bilmiyorum. Ben... Artık dayanamıyorum."
+    },
+    {
+      "id": "affc4982",
+      "bank_id": "b04f2802",
+      "text": "Ailemi bir daha asla göremeyeceğim. Asla... Asla... Asla..."
+    },
+    {
+      "id": "affc4986",
+      "bank_id": "b04f2802",
+      "text": "*mırıldanır* Hepinizi öldüreceğim... Yapacağım bunu... Parçalanmış ve kanlı... Hepinizi öldüreceğim... Gözlerini oyup... Gözlerini... Hepinizi öldüreceğim..."
+    },
+    {
+      "id": "affc4987",
+      "bank_id": "b04f2802",
+      "text": "Böyle mi bitecekti? Yaşadığım bunca şeyden sonra? Arrrgghhhh!"
+    },
+    {
+      "id": "b219e878",
+      "bank_id": "b04f2802",
+      "text": "Bir trolü bile yere serebilecek bir şey istiyorum."
+    },
+    {
+      "id": "b219e879",
+      "bank_id": "b04f2802",
+      "text": "Şu Kızıl Cübbe kokteyllerinden var mı? Sert şeyler için fazla akşamdan kalmayım."
+    },
+    {
+      "id": "b219e87c",
+      "bank_id": "b04f2802",
+      "text": "Her zamankinden alayım."
+    },
+    {
+      "id": "b219e87e",
+      "bank_id": "b04f2802",
+      "text": "Biraz Bowerstone stout alabilir miyim?"
+    },
+    {
+      "id": "b219e87f",
+      "bank_id": "b04f2802",
+      "text": "Pembe bir şeyiniz var mı?"
+    },
+    {
+      "id": "b790eda2",
+      "bank_id": "b04f2802",
+      "text": "Bu yerde öleceğim. Hepimiz öleceğiz... Aramızdaki son kişiye kadar..."
+    },
+    {
+      "id": "b790eda3",
+      "bank_id": "b04f2802",
+      "text": "Hayır! Hayır! Hayııır! Lütfen hayır! Yapmalıyım... Yapmalıyım... Hayıır!"
+    },
+    {
+      "id": "b790eda4",
+      "bank_id": "b04f2802",
+      "text": "Bazen Komutan'ı delirtmenin daha kolay olacağını düşünüyorum. Böylece her şeyi temelli bitirirdi."
+    },
+    {
+      "id": "b790eda5",
+      "bank_id": "b04f2802",
+      "text": "*şarkı söyler* Hatırlamaz mısın beni, hatırlamaz mısın ben gidince. Gittim gittim gittim gittim."
+    },
+    {
+      "id": "b790eda7",
+      "bank_id": "b04f2802",
+      "text": "Buraya en iyi dostumla getirildim, daha üç hafta olmadı. O ilk haftayı bile çıkaramadı. Şanslı olan oymuş meğer."
+    },
+    {
+      "id": "c279c0b8",
+      "bank_id": "b04f2802",
+      "text": "Eee, öbür taraf nasıl bir yer?"
+    },
+    {
+      "id": "c279c0ba",
+      "bank_id": "b04f2802",
+      "text": "Bana musallat olmak için geri döneceğini söylemiştin. Ha, ne kadar az bildiğini gösterir bu!"
+    },
+    {
+      "id": "c279c0bb",
+      "bank_id": "b04f2802",
+      "text": "Bazen yanımda durduğunu hissedebildiğimi sanıyorum. Öyle değilsin, değil mi??!"
+    },
+    {
+      "id": "c5d44020",
+      "bank_id": "b04f2802",
+      "text": "Heykellere pek düşkün değilimdir ama bu hiç de fena sayılmaz."
+    },
+    {
+      "id": "c5d44021",
+      "bank_id": "b04f2802",
+      "text": "Bir taş parçası için fena değil."
+    },
+    {
+      "id": "c5d44022",
+      "bank_id": "b04f2802",
+      "text": "Olağanüstü bir sanat eseri!"
+    },
+    {
+      "id": "c5d44023",
+      "bank_id": "b04f2802",
+      "text": "Heykel gibi heykel!"
+    },
+    {
+      "id": "c5d44024",
+      "bank_id": "b04f2802",
+      "text": "Heybetli, değil mi?"
+    },
+    {
+      "id": "c5d44026",
+      "bank_id": "b04f2802",
+      "text": "Bu heykele bayıldım doğrusu."
+    },
+    {
+      "id": "c5d44027",
+      "bank_id": "b04f2802",
+      "text": "Bunu yontmak ciddi bir yetenek gerektirir."
+    },
+    {
+      "id": "c779c85a",
+      "bank_id": "b04f2802",
+      "text": "Çok trajik..."
+    },
+    {
+      "id": "c779c85b",
+      "bank_id": "b04f2802",
+      "text": "Biraz tuhaf hissettiğini söylerken yalan söylemiyordun, değil mi?"
+    },
+    {
+      "id": "cad447c0",
+      "bank_id": "b04f2802",
+      "text": "Çarpıcı bir poz doğrusu."
+    },
+    {
+      "id": "cad447c1",
+      "bank_id": "b04f2802",
+      "text": "Her an canlanabilecek gibi duruyor."
+    },
+    {
+      "id": "cad447c2",
+      "bank_id": "b04f2802",
+      "text": "Son derece canlı gibi, değil mi?"
+    },
+    {
+      "id": "cad447c3",
+      "bank_id": "b04f2802",
+      "text": "Heykeltıraşlık ustalığının güzel bir örneği."
+    },
+    {
+      "id": "cad447c5",
+      "bank_id": "b04f2802",
+      "text": "Güzel bir heykelmiş."
+    },
+    {
+      "id": "cad447c6",
+      "bank_id": "b04f2802",
+      "text": "Şu heykeli gördün mü? Harika, değil mi."
+    },
+    {
+      "id": "cad447c7",
+      "bank_id": "b04f2802",
+      "text": "İşte heykel dediğin böyle olur."
+    },
+    {
+      "id": "dc9d18a8",
+      "bank_id": "b04f2802",
+      "text": "Size bir içki getireyim mi?"
+    },
+    {
+      "id": "dc9d18aa",
+      "bank_id": "b04f2802",
+      "text": "Bir içki ister misiniz?"
+    },
+    {
+      "id": "dc9d18ab",
+      "bank_id": "b04f2802",
+      "text": "Size bir içki koyayım mı?"
+    },
+    {
+      "id": "dc9d18ac",
+      "bank_id": "b04f2802",
+      "text": "Bir şey ister misiniz?"
+    },
+    {
+      "id": "dc9d18ad",
+      "bank_id": "b04f2802",
+      "text": "Ne arzu ederdiniz?"
+    },
+    {
+      "id": "dd17da5a",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    },
+    {
+      "id": "dd17da5b",
+      "bank_id": "b04f2802",
+      "text": "İçki isteyen?"
+    },
+    {
+      "id": "dd17da5c",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    },
+    {
+      "id": "dd17da5d",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    },
+    {
+      "id": "dd17da5e",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    },
+    {
+      "id": "e19d2049",
+      "bank_id": "b04f2802",
+      "text": "Size bir şey getireyim mi?"
+    },
+    {
+      "id": "e19d204a",
+      "bank_id": "b04f2802",
+      "text": "İçecek bir şey alır mısınız?"
+    },
+    {
+      "id": "e19d204b",
+      "bank_id": "b04f2802",
+      "text": "Size bir içki getireyim mi?"
+    },
+    {
+      "id": "e19d204c",
+      "bank_id": "b04f2802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "e19d204d",
+      "bank_id": "b04f2802",
+      "text": "Ne getirebilirim size?"
+    },
+    {
+      "id": "e617e8a8",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    },
+    {
+      "id": "e617e8a9",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    },
+    {
+      "id": "e617e8ab",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    },
+    {
+      "id": "e617e8ae",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    },
+    {
+      "id": "e617e8af",
+      "bank_id": "b04f2802",
+      "text": "İçki?"
+    }
+  ]
+}

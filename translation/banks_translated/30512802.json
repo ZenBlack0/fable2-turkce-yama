@@ -1,0 +1,766 @@
+{
+  "bank_id": "30512802",
+  "total_strings": 152,
+  "strings": [
+    {
+      "id": "0d329538",
+      "bank_id": "30512802",
+      "text": "Al şunu da beni rahat bırak Allah aşkına."
+    },
+    {
+      "id": "0d329539",
+      "bank_id": "30512802",
+      "text": "Al şu lanet hediyeyi de gözümün önünden kaybol."
+    },
+    {
+      "id": "0d32953d",
+      "bank_id": "30512802",
+      "text": "Bak, al şunu ve bir daha gözüme görünme sakın."
+    },
+    {
+      "id": "0d32953e",
+      "bank_id": "30512802",
+      "text": "Hey! Sen! Buraya gel de şunu al çabuk!"
+    },
+    {
+      "id": "0d32953f",
+      "bank_id": "30512802",
+      "text": "Al şunu da çek git başımdan."
+    },
+    {
+      "id": "12667388",
+      "bank_id": "30512802",
+      "text": "Ay! Ne kadar harikasın sen öyle! Sana bir hediye vereyim!"
+    },
+    {
+      "id": "1266738a",
+      "bank_id": "30512802",
+      "text": "A, senmişsin! Hi hi! Lütfen şu küçük hediyemi kabul et!"
+    },
+    {
+      "id": "1266738b",
+      "bank_id": "30512802",
+      "text": "Seni çok seviyorum! Şu hediyeyi al!"
+    },
+    {
+      "id": "1266738c",
+      "bank_id": "30512802",
+      "text": "Senin gibi muhteşem biri bir hediyeyi hak eder."
+    },
+    {
+      "id": "1266738d",
+      "bank_id": "30512802",
+      "text": "A, senmişsin! Kalbimin ta derinliklerinden kopup gelen bir hediyem var sana!"
+    },
+    {
+      "id": "1266738e",
+      "bank_id": "30512802",
+      "text": "Öyle olağanüstü, öyle fevkaladesin ki sana bu hediyeyi vermem şart."
+    },
+    {
+      "id": "1266738f",
+      "bank_id": "30512802",
+      "text": "Kelimenin tam anlamıyla ilahisin! Sana sevgimin bir nişanesini sunayım."
+    },
+    {
+      "id": "17667ba9",
+      "bank_id": "30512802",
+      "text": "Seni çok seviyorum! Şu hediyeyi al!"
+    },
+    {
+      "id": "17667baa",
+      "bank_id": "30512802",
+      "text": "A, senmişsin! Kalbimin ta derinliklerinden kopup gelen bir hediyem var sana!"
+    },
+    {
+      "id": "17667bab",
+      "bank_id": "30512802",
+      "text": "Ay! Ne kadar harikasın sen öyle! Sana bir hediye vereyim!"
+    },
+    {
+      "id": "17667bac",
+      "bank_id": "30512802",
+      "text": "A, senmişsin! Hi hi! Lütfen şu küçük hediyemi kabul et!"
+    },
+    {
+      "id": "17667bad",
+      "bank_id": "30512802",
+      "text": "Sana resmen bayılıyorum! Şu hediyeyi al!"
+    },
+    {
+      "id": "17667bae",
+      "bank_id": "30512802",
+      "text": "Sana tek kelimeyle bayılıyorum! Lütfen bu hediyeyi kabul et."
+    },
+    {
+      "id": "17667baf",
+      "bank_id": "30512802",
+      "text": "Kelimenin tam anlamıyla ilahisin! Sana sevgimin bir nişanesini sunayım."
+    },
+    {
+      "id": "1832a668",
+      "bank_id": "30512802",
+      "text": "Bak, al şunu da bir daha beni rahatsız etme."
+    },
+    {
+      "id": "1832a669",
+      "bank_id": "30512802",
+      "text": "Al! Beni rahat bırakasın diye bir rüşvet işte."
+    },
+    {
+      "id": "1832a66c",
+      "bank_id": "30512802",
+      "text": "Al şunu da çek git."
+    },
+    {
+      "id": "1832a66e",
+      "bank_id": "30512802",
+      "text": "Beni rahat bırakırsan şunu alabilirsin."
+    },
+    {
+      "id": "1832a66f",
+      "bank_id": "30512802",
+      "text": "Hey! Al şunu da git buradan!"
+    },
+    {
+      "id": "1ae93682",
+      "bank_id": "30512802",
+      "text": "Al bakalım, belki bu hediye kendini daha az çirkin hissetmeni sağlar."
+    },
+    {
+      "id": "23e944ef",
+      "bank_id": "30512802",
+      "text": "Öyle çirkinsin ki resmen bir ödülü hak ediyorsun!"
+    },
+    {
+      "id": "2dd92b01",
+      "bank_id": "30512802",
+      "text": "Hey, komik şey! Senin için bir şeyim var."
+    },
+    {
+      "id": "2dd92b02",
+      "bank_id": "30512802",
+      "text": "Hey, komedyen! Bir baksana buraya, bir şey vereceğim."
+    },
+    {
+      "id": "2dd92b03",
+      "bank_id": "30512802",
+      "text": "Senin gibi komik biri için bir şeyim var."
+    },
+    {
+      "id": "2dd92b04",
+      "bank_id": "30512802",
+      "text": "Öyle komik bir insansın ki sana hediye vermeden duramadım."
+    },
+    {
+      "id": "2dd92b05",
+      "bank_id": "30512802",
+      "text": "Soytarılara hediye vermeyi severim. Al bakalım."
+    },
+    {
+      "id": "30ac13e8",
+      "bank_id": "30512802",
+      "text": "Amma da soytarısın ha! Al, şunu al..."
+    },
+    {
+      "id": "30ac13e9",
+      "bank_id": "30512802",
+      "text": "Ha ha! Hediye ister misin soytarı?"
+    },
+    {
+      "id": "30ac13ea",
+      "bank_id": "30512802",
+      "text": "Senin gibi gülmekten kırıp geçiren biri için bir hediyem var..."
+    },
+    {
+      "id": "30ac13eb",
+      "bank_id": "30512802",
+      "text": "Ay, beni öyle çok güldürüyorsun ki! Sana bir ödül vereyim..."
+    },
+    {
+      "id": "30ac13ed",
+      "bank_id": "30512802",
+      "text": "Resmen kahkaha tufanısın! İşine yarayabilecek bir şeyim var..."
+    },
+    {
+      "id": "30ac13ee",
+      "bank_id": "30512802",
+      "text": "Hey, komik şey! Sana bir hediyem var..."
+    },
+    {
+      "id": "30ac13ef",
+      "bank_id": "30512802",
+      "text": "Çok komiksin ya! Sana bir şey vereyim..."
+    },
+    {
+      "id": "38d93cb2",
+      "bank_id": "30512802",
+      "text": "Beni gerçekten güldürüyorsun. Al bakalım, bunu al."
+    },
+    {
+      "id": "38d93cb3",
+      "bank_id": "30512802",
+      "text": "Bir hediye ister misin komik maceracı?"
+    },
+    {
+      "id": "38d93cb4",
+      "bank_id": "30512802",
+      "text": "Beni güldürdüğün için bir hediyeyi hak ettin."
+    },
+    {
+      "id": "38d93cb5",
+      "bank_id": "30512802",
+      "text": "Buralarda komik birilerini tanıyan var mı?"
+    },
+    {
+      "id": "3bac2518",
+      "bank_id": "30512802",
+      "text": "Öyle komiksin ki sana şunu vermeden edemeyeceğim."
+    },
+    {
+      "id": "3bac2519",
+      "bank_id": "30512802",
+      "text": "Ha ha! Hediye ister misin soytarı?"
+    },
+    {
+      "id": "3bac251a",
+      "bank_id": "30512802",
+      "text": "Onca insana neşe saçtığın için sana bu hediyeyi bahşediyorum."
+    },
+    {
+      "id": "3bac251b",
+      "bank_id": "30512802",
+      "text": "Ay, beni öyle çok güldürüyorsun ki! Sana bir ödül vereyim..."
+    },
+    {
+      "id": "3bac251c",
+      "bank_id": "30512802",
+      "text": "Çok komiksin ya! Sana bir şey vereyim..."
+    },
+    {
+      "id": "3bac251e",
+      "bank_id": "30512802",
+      "text": "Amma da soytarısın ha! Al, şunu al..."
+    },
+    {
+      "id": "3bac251f",
+      "bank_id": "30512802",
+      "text": "Resmen kahkaha tufanısın! İşine yarayabilecek bir şeyim var..."
+    },
+    {
+      "id": "3e20bfa1",
+      "bank_id": "30512802",
+      "text": "Öyle iyi bir babasın ki sana bu hediyeyi aldım."
+    },
+    {
+      "id": "3e20bfaa",
+      "bank_id": "30512802",
+      "text": "Öyle iyi bir annesin ki sana bu hediyeyi aldım."
+    },
+    {
+      "id": "75b28a14",
+      "bank_id": "30512802",
+      "text": "Ay, ne kadar harikasın sen. Al! Şunu al!"
+    },
+    {
+      "id": "7ab29235",
+      "bank_id": "30512802",
+      "text": "Öyle inanılmaz, öyle harikasın ki sana bir şey aldım."
+    },
+    {
+      "id": "7fc3c6f0",
+      "bank_id": "30512802",
+      "text": "Buralarda gerçekten kötü birini gördün mü hiç?"
+    },
+    {
+      "id": "7fc3c6f1",
+      "bank_id": "30512802",
+      "text": "Şu küçük hediye için yeterince kötü müsün bakalım?"
+    },
+    {
+      "id": "7fc3c6f2",
+      "bank_id": "30512802",
+      "text": "Buralarda gerçekten kötü birini gördün mü? Öyle birini bulmam lazım."
+    },
+    {
+      "id": "7fc3c6f6",
+      "bank_id": "30512802",
+      "text": "Tepeden tırnağa tamamen kötü birini tanıyan var mı?"
+    },
+    {
+      "id": "7fc3c6f7",
+      "bank_id": "30512802",
+      "text": "Kötü müsün sen? Hmm, pek sayılmaz. Pek de kötü değilsin. Neyse boşver, aramaya devam edeyim."
+    },
+    {
+      "id": "8460b638",
+      "bank_id": "30512802",
+      "text": "Pöh! Al şu hediyeyi de belki ne kadar çirkin olduğunu unutursun."
+    },
+    {
+      "id": "8460b639",
+      "bank_id": "30512802",
+      "text": "Bunu verecek kadar çirkin birini arıyordum. Tam aradığım kişisin."
+    },
+    {
+      "id": "8460b63a",
+      "bank_id": "30512802",
+      "text": "Aman Tanrım! Ne kadar iğrenç bir yaratık... Belki bu küçük hediye ızdırabını hafifletir."
+    },
+    {
+      "id": "8460b63b",
+      "bank_id": "30512802",
+      "text": "O korkunç görünüşünle dünyayı daha ilginç bir yer kılıyorsun. Al bakalım, zahmetine karşılık şu hediyeyi al."
+    },
+    {
+      "id": "8460b63d",
+      "bank_id": "30512802",
+      "text": "Bu hediyeyi hak edecek kadar çirkinsin işte."
+    },
+    {
+      "id": "8460b63e",
+      "bank_id": "30512802",
+      "text": "O nasıl bir surat öyle! İşine yarayabilecek bir şeyim var."
+    },
+    {
+      "id": "8460b63f",
+      "bank_id": "30512802",
+      "text": "Öyle çirkinsin ki sana acıdım resmen. Al, şunu al."
+    },
+    {
+      "id": "88c3d4da",
+      "bank_id": "30512802",
+      "text": "Buralarda kimse yeterince kötü görünmüyor."
+    },
+    {
+      "id": "88c3d4db",
+      "bank_id": "30512802",
+      "text": "Bu hediye için yeterince kötü müsün?"
+    },
+    {
+      "id": "88c3d4dc",
+      "bank_id": "30512802",
+      "text": "Bu hediye için yeterince kötü müsün?"
+    },
+    {
+      "id": "88c3d4dd",
+      "bank_id": "30512802",
+      "text": "Hmm, aslında pek de kötü değilsin, değil mi. Yazık."
+    },
+    {
+      "id": "88c3d4df",
+      "bank_id": "30512802",
+      "text": "Gerçekten kötü birini arıyorum ben."
+    },
+    {
+      "id": "8e81e538",
+      "bank_id": "30512802",
+      "text": "Bir hediyeyi hak ettin sen, vallahi hak ettin!"
+    },
+    {
+      "id": "8e81e539",
+      "bank_id": "30512802",
+      "text": "Hey harika insan! Hediye ister misin?"
+    },
+    {
+      "id": "8e81e53d",
+      "bank_id": "30512802",
+      "text": "Ey harika insan, lütfen şu küçük hediyemi kabul et."
+    },
+    {
+      "id": "8e81e53e",
+      "bank_id": "30512802",
+      "text": "Ay, ne kadar harikasın sen. Al! Şunu al!"
+    },
+    {
+      "id": "8e81e53f",
+      "bank_id": "30512802",
+      "text": "Seni öyle çok seviyorum ki sana hediye almadan edemedim."
+    },
+    {
+      "id": "8f60c768",
+      "bank_id": "30512802",
+      "text": "Pöh! Al şu hediyeyi de belki ne kadar çirkin olduğunu unutursun."
+    },
+    {
+      "id": "8f60c769",
+      "bank_id": "30512802",
+      "text": "Gah! Ne canavar ama! Al, şunu al. Korkma ayna değil."
+    },
+    {
+      "id": "8f60c76a",
+      "bank_id": "30512802",
+      "text": "Aman Tanrım! Ne kadar iğrenç bir yaratık... Belki bu küçük hediye ızdırabını hafifletir."
+    },
+    {
+      "id": "8f60c76b",
+      "bank_id": "30512802",
+      "text": "Vah vah! Böyle bir çirkinlik biraz teselliyi hak eder. Lütfen, şunu al..."
+    },
+    {
+      "id": "8f60c76c",
+      "bank_id": "30512802",
+      "text": "Tüh! Zavallı, çirkin şey seni. Al, şunu al..."
+    },
+    {
+      "id": "8f60c76e",
+      "bank_id": "30512802",
+      "text": "Aman Tanrım! Öyle çirkinsin ki sana bir şey vermem gerektiğini hissettim..."
+    },
+    {
+      "id": "8f60c76f",
+      "bank_id": "30512802",
+      "text": "Ay! Senin gibi görünen biri bu hediyeyi hak eder. Belki işe yarar."
+    },
+    {
+      "id": "9981f668",
+      "bank_id": "30512802",
+      "text": "Ay, öyle inanılmazsın ki bu hediyeyi gerçekten hak ediyorsun."
+    },
+    {
+      "id": "9981f669",
+      "bank_id": "30512802",
+      "text": "Öyle harikasın ki sana bunu aldım."
+    },
+    {
+      "id": "9981f66c",
+      "bank_id": "30512802",
+      "text": "Hey harika insan! Hediye ister misin?"
+    },
+    {
+      "id": "9981f66e",
+      "bank_id": "30512802",
+      "text": "Öyle muhteşemsin ki -- bu hediyeyi gerçekten hak ediyorsun."
+    },
+    {
+      "id": "9981f66f",
+      "bank_id": "30512802",
+      "text": "Hey harika insan! Hediye ister misin?"
+    },
+    {
+      "id": "a35a8388",
+      "bank_id": "30512802",
+      "text": "Seni görmeye tahammülüm yok! Al şunu da git buradan!"
+    },
+    {
+      "id": "a35a838a",
+      "bank_id": "30512802",
+      "text": "Beni rahatsız etmeyeceğine söz verirsen sana bir hediye veririm."
+    },
+    {
+      "id": "a35a838b",
+      "bank_id": "30512802",
+      "text": "Iyy, yine sen! Beni rahat bırakırsan sana bir şey veririm!"
+    },
+    {
+      "id": "a35a838c",
+      "bank_id": "30512802",
+      "text": "Sana katlanamıyorum! O yüzden şu küçük eşyayı al ve bir daha beni rahatsız etme."
+    },
+    {
+      "id": "a35a838d",
+      "bank_id": "30512802",
+      "text": "Senden kurtulmanın tek bir yolu var: rüşvet. Al şunu da defol git."
+    },
+    {
+      "id": "a35a838e",
+      "bank_id": "30512802",
+      "text": "Lütfen git buradan. Bu hediyeyle sana rüşvet veriyorum işte."
+    },
+    {
+      "id": "a35a838f",
+      "bank_id": "30512802",
+      "text": "Kesinlikle aşağılık birisin! Şu eşyayı al ve defol!"
+    },
+    {
+      "id": "a576a4f0",
+      "bank_id": "30512802",
+      "text": "Tatlı sevgilim, senin için bu hediyeyi temin ettim. Umarım beğenirsin."
+    },
+    {
+      "id": "a576a4f1",
+      "bank_id": "30512802",
+      "text": "Hayatım, son zamanlarda öyle harikaydın ki sana şu hediyeyi aldım."
+    },
+    {
+      "id": "a576a4f2",
+      "bank_id": "30512802",
+      "text": "Öyle harikasın ki canım, sana ufak bir hediye kaptım."
+    },
+    {
+      "id": "a576a4f3",
+      "bank_id": "30512802",
+      "text": "Hey canım, sana ufak bir hediye aldım. Umarım beğenirsin."
+    },
+    {
+      "id": "a576a4f4",
+      "bank_id": "30512802",
+      "text": "Hayatım, son zamanlarda öyle harikaydın ki sana şu hediyeyi aldım."
+    },
+    {
+      "id": "a576a4f5",
+      "bank_id": "30512802",
+      "text": "Sana güzel bir hediye aldım canım. Açsana!"
+    },
+    {
+      "id": "a576a4f7",
+      "bank_id": "30512802",
+      "text": "Son zamanlarda öyle iyiydin ki sana küçük bir hediye aldım canım."
+    },
+    {
+      "id": "a6a457a0",
+      "bank_id": "30512802",
+      "text": "İyi işlerin için bir ödülü hak ediyorsun. Al..."
+    },
+    {
+      "id": "a6a457a1",
+      "bank_id": "30512802",
+      "text": "Yalnızca senin gibi iyi biri bu hediyeyi hak eder."
+    },
+    {
+      "id": "a6a457a3",
+      "bank_id": "30512802",
+      "text": "Öyle iyi bir insansın ki. Lütfen bu hediyeyi kabul et."
+    },
+    {
+      "id": "a6a457a4",
+      "bank_id": "30512802",
+      "text": "Aziz gibi bir insansın sen. Lütfen şu mütevazı hediyemi kabul et."
+    },
+    {
+      "id": "a6a457a5",
+      "bank_id": "30512802",
+      "text": "Senin gibi erdemli biri bir ödülü hak eder."
+    },
+    {
+      "id": "a6a457a6",
+      "bank_id": "30512802",
+      "text": "İyi işlerin için bir ödülü hak ediyorsun. Buyur bakalım..."
+    },
+    {
+      "id": "a6a457a7",
+      "bank_id": "30512802",
+      "text": "İyi insanlar hediyeleri hak eder derler. Al bakalım."
+    },
+    {
+      "id": "a85a8ba9",
+      "bank_id": "30512802",
+      "text": "Sen! Al şu hediyeyi de bizi rahat bırak!"
+    },
+    {
+      "id": "a85a8baa",
+      "bank_id": "30512802",
+      "text": "Iyy, yine sen! Beni rahat bırakırsan sana bir şey veririm!"
+    },
+    {
+      "id": "a85a8bab",
+      "bank_id": "30512802",
+      "text": "Senden öyle nefret ediyorum ki, sırf çekip gidesin diye sana bir şey vereceğim!"
+    },
+    {
+      "id": "a85a8bac",
+      "bank_id": "30512802",
+      "text": "Seni görmeye tahammülüm yok! Al şunu da git buradan!"
+    },
+    {
+      "id": "a85a8bad",
+      "bank_id": "30512802",
+      "text": "Sen! Al şu hediyeyi de bizi rahat bırak!"
+    },
+    {
+      "id": "a85a8bae",
+      "bank_id": "30512802",
+      "text": "Sana bir şey verirsem gözümün önünden kaybolacağına söz verir misin?"
+    },
+    {
+      "id": "a85a8baf",
+      "bank_id": "30512802",
+      "text": "Kesinlikle aşağılık birisin! Şu eşyayı al ve defol!"
+    },
+    {
+      "id": "ab63fb41",
+      "bank_id": "30512802",
+      "text": "Bak, sana bir hediye aldım! Dünyanın en iyi annesine!"
+    },
+    {
+      "id": "ab63fb4a",
+      "bank_id": "30512802",
+      "text": "Bak, sana bir hediye aldım! Dünyanın en iyi babasına!"
+    },
+    {
+      "id": "ac76aff8",
+      "bank_id": "30512802",
+      "text": "Al bakalım, sana bir hediye aldım canım. Umarım beğenirsin."
+    },
+    {
+      "id": "ac76aff9",
+      "bank_id": "30512802",
+      "text": "Hayatım, son zamanlarda öyle harikaydın ki sana şu hediyeyi aldım."
+    },
+    {
+      "id": "ac76affa",
+      "bank_id": "30512802",
+      "text": "Son zamanlarda öyle iyiydin ki sana küçük bir hediye aldım canım."
+    },
+    {
+      "id": "ac76affc",
+      "bank_id": "30512802",
+      "text": "Hayatım, son zamanlarda öyle harikaydın ki sana şu hediyeyi aldım."
+    },
+    {
+      "id": "ac76affd",
+      "bank_id": "30512802",
+      "text": "Tatlı sevgilim, senin için bu hediyeyi temin ettim. Umarım beğenirsin."
+    },
+    {
+      "id": "ac76affe",
+      "bank_id": "30512802",
+      "text": "Hayatım, son zamanlarda öyle harikaydın ki sana şu hediyeyi aldım."
+    },
+    {
+      "id": "ac76afff",
+      "bank_id": "30512802",
+      "text": "Öyle harikasın ki canım, sana ufak bir hediye kaptım."
+    },
+    {
+      "id": "ada462a0",
+      "bank_id": "30512802",
+      "text": "Aziz gibi bir insansın sen. Lütfen şu mütevazı hediyemi kabul et."
+    },
+    {
+      "id": "ada462a1",
+      "bank_id": "30512802",
+      "text": "Erdemin bir ödülü hak ediyor doğrusu. Al..."
+    },
+    {
+      "id": "ada462a2",
+      "bank_id": "30512802",
+      "text": "Bu hediyeyi gerçekten iyi biri için saklıyordum."
+    },
+    {
+      "id": "ada462a3",
+      "bank_id": "30512802",
+      "text": "Öyle tatlısın ki sana bunu almaya karar verdim."
+    },
+    {
+      "id": "ada462a4",
+      "bank_id": "30512802",
+      "text": "Öyle iyi bir insansın ki. Lütfen bu hediyeyi kabul et."
+    },
+    {
+      "id": "ada462a5",
+      "bank_id": "30512802",
+      "text": "Yalnızca senin gibi iyi biri bu hediyeyi hak eder."
+    },
+    {
+      "id": "ada462a6",
+      "bank_id": "30512802",
+      "text": "İyi işlerin için bir ödülü hak ediyorsun. Al..."
+    },
+    {
+      "id": "ca3b3eb0",
+      "bank_id": "30512802",
+      "text": "Kesinlikle saygı uyandırıyorsun! Ve bu küçük ödülü hak ediyorsun..."
+    },
+    {
+      "id": "ca3b3eb1",
+      "bank_id": "30512802",
+      "text": "Bütün saygımızı hak ediyorsun! Lütfen, şu hediyeyi kabul et."
+    },
+    {
+      "id": "ca3b3eb2",
+      "bank_id": "30512802",
+      "text": "Sana öyle saygı duyuyorum ki sana bir şey vermek istiyorum."
+    },
+    {
+      "id": "ca3b3eb3",
+      "bank_id": "30512802",
+      "text": "Saygımı hak ediyorsun. Ve bu hediyeyi de."
+    },
+    {
+      "id": "ca3b3eb4",
+      "bank_id": "30512802",
+      "text": "Saygımı hak ediyorsun. Ve bu hediyeyi de."
+    },
+    {
+      "id": "ca3b3eb5",
+      "bank_id": "30512802",
+      "text": "Ne kadar etkileyici! Senin için bir şeyim var..."
+    },
+    {
+      "id": "ca3b3eb7",
+      "bank_id": "30512802",
+      "text": "Yalnızca senin gibi saygıdeğer birinin takdir edebileceği bir şeyim var."
+    },
+    {
+      "id": "d13b49b8",
+      "bank_id": "30512802",
+      "text": "Sana öyle saygı duyuyorum ki sana bir hediye aldım."
+    },
+    {
+      "id": "d13b49b9",
+      "bank_id": "30512802",
+      "text": "Ne kadar etkileyici! Senin için bir şeyim var..."
+    },
+    {
+      "id": "d13b49ba",
+      "bank_id": "30512802",
+      "text": "Senin gibi saygıyı hak eden biri bu hediyeyi hak eder."
+    },
+    {
+      "id": "d13b49bc",
+      "bank_id": "30512802",
+      "text": "Böyle saygıdeğer bir kişi kesinlikle hediyeme layıktır."
+    },
+    {
+      "id": "d13b49bd",
+      "bank_id": "30512802",
+      "text": "Bütün saygımızı hak ediyorsun! Lütfen, şu hediyeyi kabul et."
+    },
+    {
+      "id": "d13b49be",
+      "bank_id": "30512802",
+      "text": "Senden daha çok saygı duyduğum kimse yok. Lütfen şunu al."
+    },
+    {
+      "id": "d13b49bf",
+      "bank_id": "30512802",
+      "text": "Saygımı hak ediyorsun. Ve bu hediyeyi de."
+    },
+    {
+      "id": "e3a0d1f8",
+      "bank_id": "30512802",
+      "text": "Elimdeki hediyeyi sana vermem için epey kötü bir Kahraman olman gerekirdi."
+    },
+    {
+      "id": "e3a0d1f9",
+      "bank_id": "30512802",
+      "text": "Sana verecek fena bir hediyem var. Ama ancak kendin yeterince kötü olduğunda."
+    },
+    {
+      "id": "e3a0d1fb",
+      "bank_id": "30512802",
+      "text": "Bulduğum eşyayı hak ettiğini mi sanıyorsun? Yok canım. Onu hakkıyla kullanmak için epey kötü olman gerekirdi."
+    },
+    {
+      "id": "f2e2e781",
+      "bank_id": "30512802",
+      "text": "Her zaman iyi şeyler yapıyorsun, o yüzden bu hediye senin olmalı."
+    },
+    {
+      "id": "f4633a14",
+      "bank_id": "30512802",
+      "text": "Agh! Şu hediyeyi sana verirsem beni rahat bırakır mısın?"
+    },
+    {
+      "id": "f9634235",
+      "bank_id": "30512802",
+      "text": "Seni korkunç insan seni. Al şunu da git buradan."
+    },
+    {
+      "id": "fde2f930",
+      "bank_id": "30512802",
+      "text": "İyi insanlar hediyeleri hak eder. Al bakalım."
+    }
+  ]
+}

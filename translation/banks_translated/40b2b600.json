@@ -1,0 +1,941 @@
+{
+  "bank_id": "40b2b600",
+  "total_strings": 187,
+  "strings": [
+    {
+      "id": "004d6031",
+      "bank_id": "40b2b600",
+      "text": "Hakiki büyülü eşyalar, sadece beş altın."
+    },
+    {
+      "id": "07bef9c4",
+      "bank_id": "40b2b600",
+      "text": "Hadi, bir dilek tut."
+    },
+    {
+      "id": "09befd2a",
+      "bank_id": "40b2b600",
+      "text": "Hadi küçük Sparrow, benimle birlikte dilek tut."
+    },
+    {
+      "id": "0a2ca937",
+      "bank_id": "40b2b600",
+      "text": "Orada neler oluyor öyle?"
+    },
+    {
+      "id": "0abefe9d",
+      "bank_id": "40b2b600",
+      "text": "Bir dilek tut."
+    },
+    {
+      "id": "0e3c9e54",
+      "bank_id": "40b2b600",
+      "text": "Bu kadar yeter Sparrow!"
+    },
+    {
+      "id": "108fac91",
+      "bank_id": "40b2b600",
+      "text": "Acele edin, stoklar tükenmek üzere!"
+    },
+    {
+      "id": "113ca32d",
+      "bank_id": "40b2b600",
+      "text": "Kes şunu! Kes artık!"
+    },
+    {
+      "id": "194384e0",
+      "bank_id": "40b2b600",
+      "text": "Hadi küçük Sparrow, bakalım orada neler dönüyor."
+    },
+    {
+      "id": "1c4389b9",
+      "bank_id": "40b2b600",
+      "text": "Şu pis herif... Ondan nefret ediyorum."
+    },
+    {
+      "id": "1eb43514",
+      "bank_id": "40b2b600",
+      "text": "Malların sahiden büyülüyse neden asıl pazarda satmak yerine Eski Şehir'de tezgâh açtın?"
+    },
+    {
+      "id": "1ecd6853",
+      "bank_id": "40b2b600",
+      "text": "Böyle saçmalamayı kes artık!"
+    },
+    {
+      "id": "1fcd69c6",
+      "bank_id": "40b2b600",
+      "text": "Bazen akraba olduğumuza inanamıyorum."
+    },
+    {
+      "id": "20cd6bb9",
+      "bank_id": "40b2b600",
+      "text": "Bunu yapmandan nefret ettiğimi biliyorsun!"
+    },
+    {
+      "id": "21b439ed",
+      "bank_id": "40b2b600",
+      "text": "Eh, o eşya her zevke göre değil tabii; besbelli bu kalabalık daha seçici."
+    },
+    {
+      "id": "21cd6d2c",
+      "bank_id": "40b2b600",
+      "text": "Pöff! Bazen çok can sıkıcı olabiliyorsun."
+    },
+    {
+      "id": "21d8f884",
+      "bank_id": "40b2b600",
+      "text": "Erkek kardeşim adına kusura bakmayın, burada olduğu için çok heyecanlı sadece. İkimiz de öyleyiz. Hadi gel!"
+    },
+    {
+      "id": "21d8f88f",
+      "bank_id": "40b2b600",
+      "text": "Kız kardeşim adına kusura bakmayın, burada olduğu için çok heyecanlı sadece. İkimiz de öyleyiz. Hadi gel!"
+    },
+    {
+      "id": "22cd6e9f",
+      "bank_id": "40b2b600",
+      "text": "Kes şunu artık!"
+    },
+    {
+      "id": "2bc14a8f",
+      "bank_id": "40b2b600",
+      "text": "Hâlâ benimle misin?"
+    },
+    {
+      "id": "2cc14c62",
+      "bank_id": "40b2b600",
+      "text": "Öyle dikilip durma şapşal."
+    },
+    {
+      "id": "36d1b283",
+      "bank_id": "40b2b600",
+      "text": "Satıcı öyle sanıyor. O gün eski harabelerin yanında neye denk geldiğinden haberi bile yok. Ama senin bir fikrin var, değil mi?"
+    },
+    {
+      "id": "39f864cf",
+      "bank_id": "40b2b600",
+      "text": "Gözüne kestirdiğin bir şey var mı?"
+    },
+    {
+      "id": "3af866a2",
+      "bank_id": "40b2b600",
+      "text": "Sizin için ne yapabilirim?"
+    },
+    {
+      "id": "3bf86815",
+      "bank_id": "40b2b600",
+      "text": "Üzerinde adınızın yazdığı harika bir müzik kutum var."
+    },
+    {
+      "id": "3d37c31f",
+      "bank_id": "40b2b600",
+      "text": "Hadi gidip şu müzik kutusunu satın alalım."
+    },
+    {
+      "id": "3e37c4f2",
+      "bank_id": "40b2b600",
+      "text": "Neler yapabileceğini görmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "402cdf23",
+      "bank_id": "40b2b600",
+      "text": "Hepiniz çok zavallısınız!"
+    },
+    {
+      "id": "40934170",
+      "bank_id": "40b2b600",
+      "text": "Geliyor musun? Lord Lucien'i bekletmek istemeyiz."
+    },
+    {
+      "id": "419342e3",
+      "bank_id": "40b2b600",
+      "text": "Oyalanmayı kes artık. Bu çok önemli!"
+    },
+    {
+      "id": "42b6535f",
+      "bank_id": "40b2b600",
+      "text": "Bu güruh paralarını çöpe atacaksa bari bize atsalar."
+    },
+    {
+      "id": "431cdba0",
+      "bank_id": "40b2b600",
+      "text": "Hey, kendine bak hele. Tıpkı bir Kahraman gibi."
+    },
+    {
+      "id": "4354ac43",
+      "bank_id": "40b2b600",
+      "text": "Hadi uyu artık."
+    },
+    {
+      "id": "439345c9",
+      "bank_id": "40b2b600",
+      "text": "Hadi bakalım küçük Sparrow."
+    },
+    {
+      "id": "439c989c",
+      "bank_id": "40b2b600",
+      "text": "Bakalım burada şansımız yaver gidecek mi."
+    },
+    {
+      "id": "43b65532",
+      "bank_id": "40b2b600",
+      "text": "Başka neyin var?"
+    },
+    {
+      "id": "4454ae36",
+      "bank_id": "40b2b600",
+      "text": "Hadi Sparrow, yatağa git."
+    },
+    {
+      "id": "449c9a0f",
+      "bank_id": "40b2b600",
+      "text": "Şuna bir göz atalım mı?"
+    },
+    {
+      "id": "451cde86",
+      "bank_id": "40b2b600",
+      "text": "[güler] Umarım kimse istememiştir onu!"
+    },
+    {
+      "id": "4549cc14",
+      "bank_id": "40b2b600",
+      "text": "Ben alıyorum!"
+    },
+    {
+      "id": "459c9be2",
+      "bank_id": "40b2b600",
+      "text": "Onunla konuşmaya değer olabilir, ne dersin?"
+    },
+    {
+      "id": "461ce079",
+      "bank_id": "40b2b600",
+      "text": "Eğlenceli görünüyor!"
+    },
+    {
+      "id": "4649cd87",
+      "bank_id": "40b2b600",
+      "text": "Çok bilgece! Şimdi şunu aklında tut: Büyü yalnızca zifiri karanlıkta bakarsan çalışır."
+    },
+    {
+      "id": "471ce1ec",
+      "bank_id": "40b2b600",
+      "text": "Sanırım artık trollerle savaşmaya hazırsın."
+    },
+    {
+      "id": "47b1070c",
+      "bank_id": "40b2b600",
+      "text": "Kolu üç kez çevirin, tek bir dileğiniz kabul olsun!"
+    },
+    {
+      "id": "481ce35f",
+      "bank_id": "40b2b600",
+      "text": "Bu kasabayı daha güvenli bir yer haline getirdin. <giggles>"
+    },
+    {
+      "id": "4849d0ed",
+      "bank_id": "40b2b600",
+      "text": "Ne yapıyorsun sen? Şu aptalları cesaretlendirme."
+    },
+    {
+      "id": "4b65f937",
+      "bank_id": "40b2b600",
+      "text": "Sırf orada durmak için bir altın sikke ha. Kulağa fena gelmiyor değil mi?"
+    },
+    {
+      "id": "4bb10db8",
+      "bank_id": "40b2b600",
+      "text": "Bu hakiki bir sihirli ayna. İçine baktığınız sürece sizi güzelleştirir!"
+    },
+    {
+      "id": "4c65faaa",
+      "bank_id": "40b2b600",
+      "text": "Hmm... Sadece bir altınım kaldı. Ama haklısın: Onu yeni girişimime yatırmalıyım. Anlaştık."
+    },
+    {
+      "id": "4cb10f2b",
+      "bank_id": "40b2b600",
+      "text": "Buna ne dersiniz: En kaliteli içkilerle dolu sihirli bir matara; asla doldurulması gerekmez!"
+    },
+    {
+      "id": "4d65fc1d",
+      "bank_id": "40b2b600",
+      "text": "Yaparız... bir altın sikke karşılığında."
+    },
+    {
+      "id": "4db1109e",
+      "bank_id": "40b2b600",
+      "text": "İşte bu tam bir mucize."
+    },
+    {
+      "id": "4eb11271",
+      "bank_id": "40b2b600",
+      "text": "Bu küçük, gösterişsiz kutu aslında kadimlerin yarattığı bir cihazdır. Eski Krallık hükümdarlarının bizzat kullandığı türden!"
+    },
+    {
+      "id": "50b11557",
+      "bank_id": "40b2b600",
+      "text": "Bayanlar ve baylaaar..."
+    },
+    {
+      "id": "51b116ca",
+      "bank_id": "40b2b600",
+      "text": "Gizemli ve mucizevi eşyalar toplayarak diyarı karış karış gezdim -- şimdi bunları size sadece beş altın gibi mütevazı bir fiyata sunuyorum."
+    },
+    {
+      "id": "52b118bd",
+      "bank_id": "40b2b600",
+      "text": "Bunu bir düşünün."
+    },
+    {
+      "id": "5491f9c0",
+      "bank_id": "40b2b600",
+      "text": "Saçmalamayı kes artık!"
+    },
+    {
+      "id": "5691fd26",
+      "bank_id": "40b2b600",
+      "text": "Pek akıllısın sen değil mi?"
+    },
+    {
+      "id": "5791fe99",
+      "bank_id": "40b2b600",
+      "text": "Değişiklik olsun diye biraz da kendine vursana!"
+    },
+    {
+      "id": "5988d7a8",
+      "bank_id": "40b2b600",
+      "text": "Tam bir saçmalık yığını. Mallarının hepsi çöp!"
+    },
+    {
+      "id": "5c88dc61",
+      "bank_id": "40b2b600",
+      "text": "Şey, sandığım şey değilmiş, boş verin..."
+    },
+    {
+      "id": "5d8dd172",
+      "bank_id": "40b2b600",
+      "text": "Müzik kutusu kullanılsın mı?"
+    },
+    {
+      "id": "60ba18cb",
+      "bank_id": "40b2b600",
+      "text": "Hey! Ben senin ablanım!"
+    },
+    {
+      "id": "61ba1abe",
+      "bank_id": "40b2b600",
+      "text": "Ah! Canım yandı seni aptal!"
+    },
+    {
+      "id": "62ba1c11",
+      "bank_id": "40b2b600",
+      "text": "Hey! Annemle babama sana vurmayacağıma söz verdiğime dua et!"
+    },
+    {
+      "id": "64c844fd",
+      "bank_id": "40b2b600",
+      "text": "Ve ilk altın sikkeyi kaptık!"
+    },
+    {
+      "id": "65a57434",
+      "bank_id": "40b2b600",
+      "text": "Benimle gel kız kardeşim."
+    },
+    {
+      "id": "65a5743f",
+      "bank_id": "40b2b600",
+      "text": "Benimle gel küçük kardeşim."
+    },
+    {
+      "id": "66a7d2a0",
+      "bank_id": "40b2b600",
+      "text": "Hadi. Çemberde dur."
+    },
+    {
+      "id": "68a7d586",
+      "bank_id": "40b2b600",
+      "text": "Sorun yok küçük Sparrow. Korkma sakın."
+    },
+    {
+      "id": "69a7d779",
+      "bank_id": "40b2b600",
+      "text": "Can yakmıyor."
+    },
+    {
+      "id": "6be06dcc",
+      "bank_id": "40b2b600",
+      "text": "Yapma şunu. Peşimize takılıp kalacak sonra."
+    },
+    {
+      "id": "6c215704",
+      "bank_id": "40b2b600",
+      "text": "O kutuyu alacak parayı bulmalıyız. Kesinlikle bulmalıyız."
+    },
+    {
+      "id": "6ce06fbf",
+      "bank_id": "40b2b600",
+      "text": "Ona fazla bağlanma."
+    },
+    {
+      "id": "6d2158f7",
+      "bank_id": "40b2b600",
+      "text": "Daha fazla altını nereden bulabiliriz acaba... Bir fikrin var mı?"
+    },
+    {
+      "id": "6ee07285",
+      "bank_id": "40b2b600",
+      "text": "Çok sevimli biliyorum ama ona bakamayız."
+    },
+    {
+      "id": "6ee24e73",
+      "bank_id": "40b2b600",
+      "text": "Fairfax Kalesi'ne gidilsin mi?"
+    },
+    {
+      "id": "6f215bdd",
+      "bank_id": "40b2b600",
+      "text": "Hâlâ yeterince altınımız yok."
+    },
+    {
+      "id": "7167727f",
+      "bank_id": "40b2b600",
+      "text": "[güler]"
+    },
+    {
+      "id": "726773d2",
+      "bank_id": "40b2b600",
+      "text": "[güler]"
+    },
+    {
+      "id": "72c344a4",
+      "bank_id": "40b2b600",
+      "text": "Nereye gidiyorsun?"
+    },
+    {
+      "id": "76f1256f",
+      "bank_id": "40b2b600",
+      "text": "Bak, bir tane var orada!"
+    },
+    {
+      "id": "77f126c2",
+      "bank_id": "40b2b600",
+      "text": "Orada işte! Al onu."
+    },
+    {
+      "id": "78f128b5",
+      "bank_id": "40b2b600",
+      "text": "Hey, bir tane bulduk."
+    },
+    {
+      "id": "7b8ee7f8",
+      "bank_id": "40b2b600",
+      "text": "[güler]"
+    },
+    {
+      "id": "7c342090",
+      "bank_id": "40b2b600",
+      "text": "Rahat bırak onu! Şu zorbalardan bile daha betersin!"
+    },
+    {
+      "id": "7e8eecb1",
+      "bank_id": "40b2b600",
+      "text": "[güler]"
+    },
+    {
+      "id": "7f342569",
+      "bank_id": "40b2b600",
+      "text": "Kes şunu! Nasıl bu kadar zalim olabiliyorsun? Zavallı şey."
+    },
+    {
+      "id": "7fbeb158",
+      "bank_id": "40b2b600",
+      "text": "Bayıldım buna!"
+    },
+    {
+      "id": "80beb2cb",
+      "bank_id": "40b2b600",
+      "text": "Harika!"
+    },
+    {
+      "id": "82824180",
+      "bank_id": "40b2b600",
+      "text": "Beş altın sikke... Hadi gidip yatalım artık."
+    },
+    {
+      "id": "848244e6",
+      "bank_id": "40b2b600",
+      "text": "Neden hâlâ buradayız ki?"
+    },
+    {
+      "id": "84beb977",
+      "bank_id": "40b2b600",
+      "text": "Çok hoş!"
+    },
+    {
+      "id": "85824659",
+      "bank_id": "40b2b600",
+      "text": "İşte bunun o şey olduğuna öyle emindim ki. Sanki... sanki artık Eski Şehir'de sıkışıp kalmayacakmışız gibi bir his vardı içimde."
+    },
+    {
+      "id": "8582465c",
+      "bank_id": "40b2b600",
+      "text": "Kutu bizi neden yanında götürmedi ki?"
+    },
+    {
+      "id": "85bebaea",
+      "bank_id": "40b2b600",
+      "text": "Harika küçük Sparrow!"
+    },
+    {
+      "id": "868247cc",
+      "bank_id": "40b2b600",
+      "text": "Diliyorum ki..."
+    },
+    {
+      "id": "86bebc5d",
+      "bank_id": "40b2b600",
+      "text": "Bu çok harika!"
+    },
+    {
+      "id": "878249bf",
+      "bank_id": "40b2b600",
+      "text": "Ama... Nereye gitti ki şimdi?"
+    },
+    {
+      "id": "89824c85",
+      "bank_id": "40b2b600",
+      "text": "Dilerim ki... dilerim ki..."
+    },
+    {
+      "id": "8edd9bfc",
+      "bank_id": "40b2b600",
+      "text": "Beni dinle Rose: O haftanın sonunda sen ve küçük Sparrow'un hayalinize bir adım bile yaklaşamamış olacaktınız-- o güzel kalenin içine zerre yaklaşamayacaktınız."
+    },
+    {
+      "id": "8fb78af9",
+      "bank_id": "40b2b600",
+      "text": "Ve bir altın sikke daha aldık. Gerçekten başarıyoruz!"
+    },
+    {
+      "id": "8fdd9d6f",
+      "bank_id": "40b2b600",
+      "text": "Beş altın sikkeyle bir hafta boyunca karnımızı doyurabilirdik."
+    },
+    {
+      "id": "9116cb61",
+      "bank_id": "40b2b600",
+      "text": "Dört altın sikke! Hayatımda bir arada bu kadar çok para görmemiştim! Sadece bir tane daha lazım."
+    },
+    {
+      "id": "92dda228",
+      "bank_id": "40b2b600",
+      "text": "İçindeki bir parça onun büyü olduğuna inanmak istiyor."
+    },
+    {
+      "id": "938b76ea",
+      "bank_id": "40b2b600",
+      "text": "Hey küçük Sparrow, hadi dileğimizi tutalım."
+    },
+    {
+      "id": "93dda39b",
+      "bank_id": "40b2b600",
+      "text": "Satıcı öyle sanıyor. Neye denk geldiğinden haberi bile yok. Ama senin bir fikrin var, değil mi?"
+    },
+    {
+      "id": "94dda50e",
+      "bank_id": "40b2b600",
+      "text": "Beş altın sikkeye cevabını alabilirdin."
+    },
+    {
+      "id": "955195da",
+      "bank_id": "40b2b600",
+      "text": "Büyü diye bir şey yoktur!"
+    },
+    {
+      "id": "95705480",
+      "bank_id": "40b2b600",
+      "text": "Müzik kutusunu sessiz bir yere götürün ve açın."
+    },
+    {
+      "id": "95dda6e1",
+      "bank_id": "40b2b600",
+      "text": "Ne? Sen... gerçekten öyle olabileceğini mi düşünüyorsun?"
+    },
+    {
+      "id": "96705673",
+      "bank_id": "40b2b600",
+      "text": "Yatağa gidin. Bugün yapacak başka bir şey kalmadı."
+    },
+    {
+      "id": "96dda854",
+      "bank_id": "40b2b600",
+      "text": "Gençler büyüye inanamayacak kadar hayat yorgunuysa sahiden de karanlık zamanlarda yaşıyoruz demektir."
+    },
+    {
+      "id": "977057e6",
+      "bank_id": "40b2b600",
+      "text": "Fairfax Kalesi'ne seyahat edin."
+    },
+    {
+      "id": "98705959",
+      "bank_id": "40b2b600",
+      "text": "Lord Lucien ile tanışın."
+    },
+    {
+      "id": "98ddabba",
+      "bank_id": "40b2b600",
+      "text": "Bak, gözlerinin iyi görmediğini anlıyorum ama sana söylüyorum, o müzik kutusu tam bir çöp."
+    },
+    {
+      "id": "99ddad2d",
+      "bank_id": "40b2b600",
+      "text": "Senin yaşındaki çoğu çocuk hevesle inanır."
+    },
+    {
+      "id": "9a705cbf",
+      "bank_id": "40b2b600",
+      "text": "Kargaşaya doğru Rose'u takip edin."
+    },
+    {
+      "id": "9b705e12",
+      "bank_id": "40b2b600",
+      "text": "Müzik kutusunu satın almak için beş altın sikke kazanın."
+    },
+    {
+      "id": "9c705f85",
+      "bank_id": "40b2b600",
+      "text": "Müzik kutusunu satın alın."
+    },
+    {
+      "id": "a17067a4",
+      "bank_id": "40b2b600",
+      "text": "Çemberin içinde durun."
+    },
+    {
+      "id": "a585a433",
+      "bank_id": "40b2b600",
+      "text": "Girişimci çocuklarsınız vesselam. Sevdim sizi!"
+    },
+    {
+      "id": "a685a5a6",
+      "bank_id": "40b2b600",
+      "text": "Şimdi tek yapmanız gereken şu küçük cihazım için bir poz vermek. Sonuçlar karşısında resmen afallayacaksınız!"
+    },
+    {
+      "id": "a785a719",
+      "bank_id": "40b2b600",
+      "text": "Ne-yapacaksınız?"
+    },
+    {
+      "id": "a885a88c",
+      "bank_id": "40b2b600",
+      "text": "Tüccar Murgo'dan aldığım harika bir kitapla kelime haznemi geliştiriyorum: Eşanlamlılar sözlüğü!"
+    },
+    {
+      "id": "a985aa7f",
+      "bank_id": "40b2b600",
+      "text": "Biraz şapşal bir tip değil mi? Ama eğlenceli olabilir bu."
+    },
+    {
+      "id": "ae7720e0",
+      "bank_id": "40b2b600",
+      "text": "İşe yarar hiçbir şeyin yok mu senin?"
+    },
+    {
+      "id": "aff2c056",
+      "bank_id": "40b2b600",
+      "text": "Uslu durmaya çalış. Sokakta değiliz artık. Kaledeyiz!"
+    },
+    {
+      "id": "b17725b9",
+      "bank_id": "40b2b600",
+      "text": "Hepiniz çok zavallısınız!"
+    },
+    {
+      "id": "b570333c",
+      "bank_id": "40b2b600",
+      "text": "[horlar]"
+    },
+    {
+      "id": "b5f8cdb0",
+      "bank_id": "40b2b600",
+      "text": "Başardık! Artık müzik kutusunu alabiliriz!"
+    },
+    {
+      "id": "b7703602",
+      "bank_id": "40b2b600",
+      "text": "[horlar]"
+    },
+    {
+      "id": "b8163b48",
+      "bank_id": "40b2b600",
+      "text": "Hadi kaleye gidelim!"
+    },
+    {
+      "id": "b87037f5",
+      "bank_id": "40b2b600",
+      "text": "[horlar]"
+    },
+    {
+      "id": "bb067b2c",
+      "bank_id": "40b2b600",
+      "text": "Tam da ihtiyacımız olan şey bu."
+    },
+    {
+      "id": "bc067c9f",
+      "bank_id": "40b2b600",
+      "text": "Kulağa harika geliyor."
+    },
+    {
+      "id": "bd067e72",
+      "bank_id": "40b2b600",
+      "text": "Hadi yapalım şunu. Altına gerçekten ihtiyacımız var."
+    },
+    {
+      "id": "c0984ef3",
+      "bank_id": "40b2b600",
+      "text": "Çok saçma bu."
+    },
+    {
+      "id": "c0e87683",
+      "bank_id": "40b2b600",
+      "text": "Pekâlâ, tamam. Küçük cennetimize hoş geldiniz."
+    },
+    {
+      "id": "c0ec73fc",
+      "bank_id": "40b2b600",
+      "text": "Üç altın sikke oldu... İki tane daha bulursak kutuyu alabiliriz."
+    },
+    {
+      "id": "c1985066",
+      "bank_id": "40b2b600",
+      "text": "Daha iyi bir şeyin yok mu?"
+    },
+    {
+      "id": "c1e87876",
+      "bank_id": "40b2b600",
+      "text": "Burada ne arıyorsun sen? Seni dilemediğime eminim!"
+    },
+    {
+      "id": "c274a233",
+      "bank_id": "40b2b600",
+      "text": "Gözlerini kapat, birlikte dileyeceğiz."
+    },
+    {
+      "id": "c548c399",
+      "bank_id": "40b2b600",
+      "text": "Müzik kutusu satın alınsın mı?"
+    },
+    {
+      "id": "cd0988d4",
+      "bank_id": "40b2b600",
+      "text": "Hadi küçük Sparrow, uyan bakalım."
+    },
+    {
+      "id": "cf098c3a",
+      "bank_id": "40b2b600",
+      "text": "Senin için geri döneceğim, söz veriyorum."
+    },
+    {
+      "id": "d0098dad",
+      "bank_id": "40b2b600",
+      "text": "Sorun yok köpekçik. Lord Lucien'in kalesine gidiyoruz!"
+    },
+    {
+      "id": "d2e972af",
+      "bank_id": "40b2b600",
+      "text": "Hadi ama, buralarda bir şeyler yapmamız karşılığında bize altın verecek biri mutlaka olmalı."
+    },
+    {
+      "id": "d2effc0c",
+      "bank_id": "40b2b600",
+      "text": "Ya gerçekse?"
+    },
+    {
+      "id": "d3effdff",
+      "bank_id": "40b2b600",
+      "text": "Beş altın sikkeyi bulabileceğimize bahse girerim... ve belki de buradan kurtuluş yolumuz bu olur sonunda."
+    },
+    {
+      "id": "d4efff52",
+      "bank_id": "40b2b600",
+      "text": "Kaybedecek neyimiz var ki, küçük Sparrow?"
+    },
+    {
+      "id": "da02a470",
+      "bank_id": "40b2b600",
+      "text": "Ben de tam seni aramaya geliyordum!"
+    },
+    {
+      "id": "db02a5e3",
+      "bank_id": "40b2b600",
+      "text": "Buradasın işte! Merak etmeye başlamıştım."
+    },
+    {
+      "id": "dc02a756",
+      "bank_id": "40b2b600",
+      "text": "Nereye koştun öyle?"
+    },
+    {
+      "id": "dc578caf",
+      "bank_id": "40b2b600",
+      "text": "Beni bekle!"
+    },
+    {
+      "id": "dd578e02",
+      "bank_id": "40b2b600",
+      "text": "Hey! Geri dön!"
+    },
+    {
+      "id": "ddf35db7",
+      "bank_id": "40b2b600",
+      "text": "Pekâlâ, bir poz ver bakalım genç dostum!"
+    },
+    {
+      "id": "de23d92e",
+      "bank_id": "40b2b600",
+      "text": "Geride kalıp durma uyuşuk seni."
+    },
+    {
+      "id": "de578ff5",
+      "bank_id": "40b2b600",
+      "text": "Nereye koşuyorsun öyle? Bekle!"
+    },
+    {
+      "id": "df23da81",
+      "bank_id": "40b2b600",
+      "text": "Geliyor musun gelmiyor musun?"
+    },
+    {
+      "id": "e023dc74",
+      "bank_id": "40b2b600",
+      "text": "Hadi ama. Yapacak işlerimiz var, unuttun mu?"
+    },
+    {
+      "id": "e123dde7",
+      "bank_id": "40b2b600",
+      "text": "Ne bekliyorsunuz?"
+    },
+    {
+      "id": "e223df5a",
+      "bank_id": "40b2b600",
+      "text": "Hadi küçük Sparrow!"
+    },
+    {
+      "id": "e2b7b988",
+      "bank_id": "40b2b600",
+      "text": "Ne gündü ama..."
+    },
+    {
+      "id": "e3b7bb7b",
+      "bank_id": "40b2b600",
+      "text": "Bu ayak işleri için fazla yaşlanıyorum artık."
+    },
+    {
+      "id": "e4b7bcee",
+      "bank_id": "40b2b600",
+      "text": "Üç satış daha yaparsam eve gidebilirim."
+    },
+    {
+      "id": "eb279b00",
+      "bank_id": "40b2b600",
+      "text": "Suretini yakalayıp sihirli bir kâğıt parçasının üzerine aktarıyor. Bu beni çok zengin edecek!"
+    },
+    {
+      "id": "ec50d3c0",
+      "bank_id": "40b2b600",
+      "text": "Ben alıyorum! Beş altınım tam burada hazır!"
+    },
+    {
+      "id": "ed50d5b3",
+      "bank_id": "40b2b600",
+      "text": "Harika seçim efendim! Yalnızca tıpasını asla açmamaya dikkat edin, yoksa büyü bozulur."
+    },
+    {
+      "id": "ee0853d5",
+      "bank_id": "40b2b600",
+      "text": "Müzik kutusunu satın alalım. Harika olacak bu!"
+    },
+    {
+      "id": "ef50d899",
+      "bank_id": "40b2b600",
+      "text": "Uyan artık. Bunun bir dolandırıcılık olduğunu görmüyor musun?"
+    },
+    {
+      "id": "f027a33f",
+      "bank_id": "40b2b600",
+      "text": "Merhaba çocuklar."
+    },
+    {
+      "id": "f127a492",
+      "bank_id": "40b2b600",
+      "text": "Merhaba. O da ne öyle?"
+    },
+    {
+      "id": "f227a605",
+      "bank_id": "40b2b600",
+      "text": "Bu mu? Bugüne dek tasarlanmış en muazzam cihaz sadece."
+    },
+    {
+      "id": "f2952850",
+      "bank_id": "40b2b600",
+      "text": "Bak küçük Sparrow..."
+    },
+    {
+      "id": "f39529c3",
+      "bank_id": "40b2b600",
+      "text": "Bunun şans getirdiğini söylerler. Dört yapraklı yonca bulmak gibi. Yonca bulmayı tercih ederdim gerçi."
+    },
+    {
+      "id": "f4952bb6",
+      "bank_id": "40b2b600",
+      "text": "Neydi o? Öğğ! İğrenç."
+    },
+    {
+      "id": "f6952e9c",
+      "bank_id": "40b2b600",
+      "text": "Karısı ve küçük kızı öldüğünden beri Lord Lucien çok üzgün olmalı..."
+    },
+    {
+      "id": "f795300f",
+      "bank_id": "40b2b600",
+      "text": "Keşke orada yaşayabilseydik."
+    },
+    {
+      "id": "f89531e2",
+      "bank_id": "40b2b600",
+      "text": "O koca yemek salonunu düşünsene. Yılın bu zamanında Lord Lucien kesin ördek kızartması yiyordur."
+    },
+    {
+      "id": "f89531e7",
+      "bank_id": "40b2b600",
+      "text": "Ama karısı ve küçük kızı öldüğünden beri çok yalnız olmalı. O koca kalede tek başına..."
+    },
+    {
+      "id": "f8d77ff4",
+      "bank_id": "40b2b600",
+      "text": "Bunu daha iyi bilmen gerekirdi!"
+    },
+    {
+      "id": "f92ecdd1",
+      "bank_id": "40b2b600",
+      "text": "Çocukluk"
+    },
+    {
+      "id": "f9953355",
+      "bank_id": "40b2b600",
+      "text": "Fairfax Kalesi karlar altında ne kadar güzel görünüyor."
+    },
+    {
+      "id": "f9d78167",
+      "bank_id": "40b2b600",
+      "text": "Yok, sorun değil."
+    },
+    {
+      "id": "fad782da",
+      "bank_id": "40b2b600",
+      "text": "Sorun yok Sparrow."
+    }
+  ]
+}

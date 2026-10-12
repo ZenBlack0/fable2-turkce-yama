@@ -1,0 +1,941 @@
+{
+  "bank_id": "9010ab00",
+  "total_strings": 187,
+  "strings": [
+    {
+      "id": "1363dc29",
+      "bank_id": "9010ab00",
+      "text": "Hediyenizi küçümsemek istemem ulu maceracı. Ancak pek de layık bir hediye sayılmaz."
+    },
+    {
+      "id": "1363dc2a",
+      "bank_id": "9010ab00",
+      "text": "Peh! Büyük bir Kahraman olduğun için etkilenirdim belki ama bu hurda parçası berbat."
+    },
+    {
+      "id": "1363dc2c",
+      "bank_id": "9010ab00",
+      "text": "Ben... Senin gibi birinin bana hediye verdiğine inanamıyorum! Çöpün teki olsa bile."
+    },
+    {
+      "id": "1363dc2d",
+      "bank_id": "9010ab00",
+      "text": "A! Evet, teşekkürler... İnanılmaz! Ünlü insanların neyi iyi bir hediye sandığı gerçekten inanılmaz..."
+    },
+    {
+      "id": "15db63f0",
+      "bank_id": "9010ab00",
+      "text": "Orijinal bir şey bulmayı deneyebilirdin."
+    },
+    {
+      "id": "15db63f1",
+      "bank_id": "9010ab00",
+      "text": "Bunlarla artık hiç ilgilenmiyorum."
+    },
+    {
+      "id": "15db63f2",
+      "bank_id": "9010ab00",
+      "text": "Aman, bir tane daha mı!"
+    },
+    {
+      "id": "15db63f4",
+      "bank_id": "9010ab00",
+      "text": "Bu biblolardan bir tanesini daha ne diye isteyeyim ki?"
+    },
+    {
+      "id": "15db63f5",
+      "bank_id": "9010ab00",
+      "text": "Bu nesnelerden bıktım artık."
+    },
+    {
+      "id": "15db63f6",
+      "bank_id": "9010ab00",
+      "text": "Pek bir orijinalsin sen de."
+    },
+    {
+      "id": "15db63f7",
+      "bank_id": "9010ab00",
+      "text": "Bunlardan bir tanesini daha ne yapayım ben?"
+    },
+    {
+      "id": "1885104d",
+      "bank_id": "9010ab00",
+      "text": "Onu istemiyorum."
+    },
+    {
+      "id": "1c63ea78",
+      "bank_id": "9010ab00",
+      "text": "Ne diyeceğimi bilemiyorum büyük Kahraman. Şunun dışında... neden gidip başkasına vermiyorsun?"
+    },
+    {
+      "id": "1c63ea7b",
+      "bank_id": "9010ab00",
+      "text": "Vay canına, bu kadar tanınmış birinin bana... şey, bunu vermesi..."
+    },
+    {
+      "id": "1c63ea7c",
+      "bank_id": "9010ab00",
+      "text": "Hımm, bu biblo namının hakkını vermiyor."
+    },
+    {
+      "id": "1c63ea7d",
+      "bank_id": "9010ab00",
+      "text": "Ah, ne kadar... ilginç bir hediye. Eh, en azından ünlüsün! Bu da bir değer katar!"
+    },
+    {
+      "id": "1c63ea7f",
+      "bank_id": "9010ab00",
+      "text": "O berbat hediyeni o koca ünlü kıçına sokabilirsin."
+    },
+    {
+      "id": "1dd3e681",
+      "bank_id": "9010ab00",
+      "text": "Bu bir çeşit kötü şaka mı?!"
+    },
+    {
+      "id": "1dd3e682",
+      "bank_id": "9010ab00",
+      "text": "Bunun komik olduğunu mu sanıyorsun?!"
+    },
+    {
+      "id": "1dd3e683",
+      "bank_id": "9010ab00",
+      "text": "Bu da neyin nesi böyle?!"
+    },
+    {
+      "id": "1dd3e684",
+      "bank_id": "9010ab00",
+      "text": "Hobbe aşkına bu da neyin nesi böyle?!"
+    },
+    {
+      "id": "1dd3e685",
+      "bank_id": "9010ab00",
+      "text": "Bu çöpü istemiyorum!"
+    },
+    {
+      "id": "1dd3e686",
+      "bank_id": "9010ab00",
+      "text": "Bu bir şakaysa gerçekten çok kalitesiz!"
+    },
+    {
+      "id": "1dd3e687",
+      "bank_id": "9010ab00",
+      "text": "Uzak tut şunu benden!"
+    },
+    {
+      "id": "1edb71d8",
+      "bank_id": "9010ab00",
+      "text": "Değişiklik olsun diye alabileceğin başka hiçbir şey yok muydu?"
+    },
+    {
+      "id": "1edb71d9",
+      "bank_id": "9010ab00",
+      "text": "Hediyelerinde biraz çeşitlilik olsa fena olmazdı."
+    },
+    {
+      "id": "1edb71da",
+      "bank_id": "9010ab00",
+      "text": "O sende kalsın. Benim kendime ait var zaten."
+    },
+    {
+      "id": "1edb71db",
+      "bank_id": "9010ab00",
+      "text": "Eeeeeeeeesneme. Sıkıldım bundan!"
+    },
+    {
+      "id": "1edb71dc",
+      "bank_id": "9010ab00",
+      "text": "Bir tane daha gerçekten istemiyorum."
+    },
+    {
+      "id": "1edb71dd",
+      "bank_id": "9010ab00",
+      "text": "Bunu bana zaten vermemiş miydin?"
+    },
+    {
+      "id": "1edb71df",
+      "bank_id": "9010ab00",
+      "text": "Bunlardan bıktım doğrusu."
+    },
+    {
+      "id": "238521fc",
+      "bank_id": "9010ab00",
+      "text": "O çöpü ne diye isteyeyim ben?"
+    },
+    {
+      "id": "2569ec99",
+      "bank_id": "9010ab00",
+      "text": "Bu hediye yüzünden seni zindana attırmam gerekirdi."
+    },
+    {
+      "id": "28d3f830",
+      "bank_id": "9010ab00",
+      "text": "Bunu ne diye isteyeyim ki?!"
+    },
+    {
+      "id": "28d3f832",
+      "bank_id": "9010ab00",
+      "text": "O çöp sende kalsın!"
+    },
+    {
+      "id": "28d3f833",
+      "bank_id": "9010ab00",
+      "text": "Onu istemiyorum!"
+    },
+    {
+      "id": "28d3f834",
+      "bank_id": "9010ab00",
+      "text": "Tam bir hurda parçası!"
+    },
+    {
+      "id": "28d3f835",
+      "bank_id": "9010ab00",
+      "text": "Senin o saçmalıklarını istemiyorum!"
+    },
+    {
+      "id": "28d3f836",
+      "bank_id": "9010ab00",
+      "text": "Bunu istemiyorum!"
+    },
+    {
+      "id": "28d3f837",
+      "bank_id": "9010ab00",
+      "text": "Bu değersiz süs eşyasını bana ne diye uzatıyorsun?"
+    },
+    {
+      "id": "38b652a0",
+      "bank_id": "9010ab00",
+      "text": "Amma da berbat bir hediye."
+    },
+    {
+      "id": "38b652a1",
+      "bank_id": "9010ab00",
+      "text": "Bu bir çeşit şaka mı??!"
+    },
+    {
+      "id": "38b652a2",
+      "bank_id": "9010ab00",
+      "text": "Ha. Bu mu yani?"
+    },
+    {
+      "id": "38b652a4",
+      "bank_id": "9010ab00",
+      "text": "Zerre kadar etkilenmedim."
+    },
+    {
+      "id": "38b652a5",
+      "bank_id": "9010ab00",
+      "text": "Bu hediyeden daha iyi hastalıklar geçirdim ben."
+    },
+    {
+      "id": "38b652a6",
+      "bank_id": "9010ab00",
+      "text": "Bu çöpe hediye mi diyorsun sen şimdi?"
+    },
+    {
+      "id": "38b652a7",
+      "bank_id": "9010ab00",
+      "text": "Bunun yerine bir çuval kapı kolu almayı tercih ederdim."
+    },
+    {
+      "id": "3b0cd463",
+      "bank_id": "9010ab00",
+      "text": "Teşekkürler baba! Çok güzelmiş."
+    },
+    {
+      "id": "3b0cd468",
+      "bank_id": "9010ab00",
+      "text": "Teşekkürler anne! Çok güzelmiş."
+    },
+    {
+      "id": "3d487aa8",
+      "bank_id": "9010ab00",
+      "text": "Bunlardan daha fazlasına ihtiyacım yok."
+    },
+    {
+      "id": "3d487aa9",
+      "bank_id": "9010ab00",
+      "text": "Belki de başka bir yerden alışveriş yapmayı deneyebilirsin."
+    },
+    {
+      "id": "3d487aaa",
+      "bank_id": "9010ab00",
+      "text": "Bunlardan yorulmaya başladım artık."
+    },
+    {
+      "id": "3d487aab",
+      "bank_id": "9010ab00",
+      "text": "Bir tane daha mı? Arabanın arkasından mı düştü bunlar?"
+    },
+    {
+      "id": "3d487aac",
+      "bank_id": "9010ab00",
+      "text": "Pek orijinal sayılmazsın, değil mi?"
+    },
+    {
+      "id": "3d487aad",
+      "bank_id": "9010ab00",
+      "text": "Yeterince var bende, teşekkürler."
+    },
+    {
+      "id": "3d487aae",
+      "bank_id": "9010ab00",
+      "text": "Bunlardan daha mı çok?"
+    },
+    {
+      "id": "3f80d080",
+      "bank_id": "9010ab00",
+      "text": "İstemiyorum bunu!"
+    },
+    {
+      "id": "3f80d081",
+      "bank_id": "9010ab00",
+      "text": "Hayır hayır hayır. Bunu bana veremezsin, olmaz."
+    },
+    {
+      "id": "3f80d082",
+      "bank_id": "9010ab00",
+      "text": "Bunu seveceğimi sana ne düşündürdü acaba?!"
+    },
+    {
+      "id": "3f80d084",
+      "bank_id": "9010ab00",
+      "text": "Bana böyle sudan bir nesne vermeye kalkışma."
+    },
+    {
+      "id": "3f80d085",
+      "bank_id": "9010ab00",
+      "text": "Bir çeşit çöp müzesinin küratörüne mi benziyorum ben?"
+    },
+    {
+      "id": "3f80d086",
+      "bank_id": "9010ab00",
+      "text": "Tam bir çöp parçası."
+    },
+    {
+      "id": "3f80d087",
+      "bank_id": "9010ab00",
+      "text": "Git ait olduğu yere, kanalizasyona at bunu!"
+    },
+    {
+      "id": "41b66088",
+      "bank_id": "9010ab00",
+      "text": "Bunu aldığım için sevinmem mi gerekiyor yani?"
+    },
+    {
+      "id": "41b66089",
+      "bank_id": "9010ab00",
+      "text": "Sözde hediyenden sadece bir ahmak zevk alırdı."
+    },
+    {
+      "id": "41b6608a",
+      "bank_id": "9010ab00",
+      "text": "Bunu kim ister ki?"
+    },
+    {
+      "id": "41b6608b",
+      "bank_id": "9010ab00",
+      "text": "Gelmiş geçmiş en berbat hediye."
+    },
+    {
+      "id": "41b6608c",
+      "bank_id": "9010ab00",
+      "text": "Bunu ne diye isteyeyim ben??!!"
+    },
+    {
+      "id": "41b6608d",
+      "bank_id": "9010ab00",
+      "text": "Dürüst olacağım. Hiç sevmedim bunu."
+    },
+    {
+      "id": "41b6608f",
+      "bank_id": "9010ab00",
+      "text": "Ne? Nefret ettiğin başka kimseyi bulamadın da bana mı veriyorsun?"
+    },
+    {
+      "id": "464888f8",
+      "bank_id": "9010ab00",
+      "text": "Bunların hepsiyle bir dükkân açabilirim artık."
+    },
+    {
+      "id": "464888f9",
+      "bank_id": "9010ab00",
+      "text": "Bunlardan kaç tane istediğimi sanıyorsun sen?"
+    },
+    {
+      "id": "464888fb",
+      "bank_id": "9010ab00",
+      "text": "Hımmm, bunlardan bende zaten bir sürü var."
+    },
+    {
+      "id": "464888fc",
+      "bank_id": "9010ab00",
+      "text": "Bu biblolardan bir tane daha mı? Sabrımı sınıyorsun."
+    },
+    {
+      "id": "464888fd",
+      "bank_id": "9010ab00",
+      "text": "Beni hafızasız mı sanıyorsun? Zaten bunlardan birkaç tane var bende!"
+    },
+    {
+      "id": "464888fe",
+      "bank_id": "9010ab00",
+      "text": "Bunları satmaya mı başlayayım yani, ne yapayım?"
+    },
+    {
+      "id": "464888ff",
+      "bank_id": "9010ab00",
+      "text": "Yine o olamaz."
+    },
+    {
+      "id": "4705f7fe",
+      "bank_id": "9010ab00",
+      "text": "Hediyelerin yüz karası."
+    },
+    {
+      "id": "4880dee8",
+      "bank_id": "9010ab00",
+      "text": "Bununla bana hakaret etme!"
+    },
+    {
+      "id": "4880dee9",
+      "bank_id": "9010ab00",
+      "text": "Benim belli standartlarım var bilesin!"
+    },
+    {
+      "id": "4880deea",
+      "bank_id": "9010ab00",
+      "text": "Müsait bir yerine sok."
+    },
+    {
+      "id": "4880deeb",
+      "bank_id": "9010ab00",
+      "text": "Bunun yerine bir torba cüzzam almayı tercih ederdim."
+    },
+    {
+      "id": "4880deec",
+      "bank_id": "9010ab00",
+      "text": "Git başkasına ver bunu!"
+    },
+    {
+      "id": "4880deed",
+      "bank_id": "9010ab00",
+      "text": "Bunu ne yapayım ben?!"
+    },
+    {
+      "id": "4880deef",
+      "bank_id": "9010ab00",
+      "text": "Ne?! Sende kalsın!"
+    },
+    {
+      "id": "4a132583",
+      "bank_id": "9010ab00",
+      "text": "Neden bana hep aynı şeyleri veriyorsun?"
+    },
+    {
+      "id": "51133086",
+      "bank_id": "9010ab00",
+      "text": "Bir tane daha olamaz!"
+    },
+    {
+      "id": "535f1998",
+      "bank_id": "9010ab00",
+      "text": "Bana çocukken sahip olduğum bir köpeği hatırlatıyorsun."
+    },
+    {
+      "id": "535f1999",
+      "bank_id": "9010ab00",
+      "text": "Sevmediğin insanların üstüne o bacağını nasıl kaldıracağını iyi biliyorsundur ha? Ho ho!"
+    },
+    {
+      "id": "535f199a",
+      "bank_id": "9010ab00",
+      "text": "Ne kadar da asil bir yoldaş ama değil mi? Ah evet."
+    },
+    {
+      "id": "535f199b",
+      "bank_id": "9010ab00",
+      "text": "Ah, ne şahane bir delikanlı."
+    },
+    {
+      "id": "535f199e",
+      "bank_id": "9010ab00",
+      "text": "Gezintiye mi çıktın bakalım?"
+    },
+    {
+      "id": "5768c468",
+      "bank_id": "9010ab00",
+      "text": "Ünlü olduğunu biliyorum ama ninem bile bundan daha iyi hediyeler veriyor."
+    },
+    {
+      "id": "5a953fc6",
+      "bank_id": "9010ab00",
+      "text": "Bu harika baba!"
+    },
+    {
+      "id": "5a953fcd",
+      "bank_id": "9010ab00",
+      "text": "Bu harika anne!"
+    },
+    {
+      "id": "5ae04da1",
+      "bank_id": "9010ab00",
+      "text": "Peh, bunlardan şimdiden gına geldi."
+    },
+    {
+      "id": "5c68cc09",
+      "bank_id": "9010ab00",
+      "text": "Ah, senin gibi ünlü birinin daha iyi hediyeler vereceğini düşünmüştüm."
+    },
+    {
+      "id": "65e05ed0",
+      "bank_id": "9010ab00",
+      "text": "Bunlardan biraz sıkıldım artık."
+    },
+    {
+      "id": "7dbb3c51",
+      "bank_id": "9010ab00",
+      "text": "Senin o aptal hediyeni istemiyorum."
+    },
+    {
+      "id": "7f5187b1",
+      "bank_id": "9010ab00",
+      "text": "Pek akıllı bir itsin sen, değil mi?"
+    },
+    {
+      "id": "7f5187b2",
+      "bank_id": "9010ab00",
+      "text": "Pek akıllı bir köpek değil misin sen?! Öylesin tabii!"
+    },
+    {
+      "id": "7f5187b3",
+      "bank_id": "9010ab00",
+      "text": "Etkileyici bir ufaklık."
+    },
+    {
+      "id": "7f5187b4",
+      "bank_id": "9010ab00",
+      "text": "Sadece aptal bir kırma değilsin sen, değil mi?"
+    },
+    {
+      "id": "7f5187b5",
+      "bank_id": "9010ab00",
+      "text": "Bir pire torbası için fena değil."
+    },
+    {
+      "id": "7f5187b6",
+      "bank_id": "9010ab00",
+      "text": "İnsanın sahiplenmekten gurur duyacağı bir av köpeği."
+    },
+    {
+      "id": "7f5187b7",
+      "bank_id": "9010ab00",
+      "text": "Bu kadar uslu itlerin var olduğunu hiç bilmezdim."
+    },
+    {
+      "id": "8159da80",
+      "bank_id": "9010ab00",
+      "text": "Ne harika bir hediye baba!"
+    },
+    {
+      "id": "8159da8b",
+      "bank_id": "9010ab00",
+      "text": "Ne harika bir hediye anne!"
+    },
+    {
+      "id": "88bb4d80",
+      "bank_id": "9010ab00",
+      "text": "Iyyy. Bunu bana ne diye veriyorsun?"
+    },
+    {
+      "id": "8a1fbe4c",
+      "bank_id": "9010ab00",
+      "text": "Ünlü falan olduğunu biliyorum ama beklediğim şey bu değildi."
+    },
+    {
+      "id": "8a1fbe4d",
+      "bank_id": "9010ab00",
+      "text": "Evet, ünlü bir maceracıdan bir hediye! Ah... pek de zahmet etmemiş olan birinden..."
+    },
+    {
+      "id": "8a1fbe4e",
+      "bank_id": "9010ab00",
+      "text": "Evet... Senin gibi ünlü birinin daha iyi hediyeler vereceğini düşünmüştüm."
+    },
+    {
+      "id": "8a5198e0",
+      "bank_id": "9010ab00",
+      "text": "Ne harika bir köpek."
+    },
+    {
+      "id": "8a5198e2",
+      "bank_id": "9010ab00",
+      "text": "Gördün mü? Ne köpek ama."
+    },
+    {
+      "id": "8a5198e3",
+      "bank_id": "9010ab00",
+      "text": "Çok sevimli değil mi ama?"
+    },
+    {
+      "id": "8a5198e4",
+      "bank_id": "9010ab00",
+      "text": "Akıllı köpek!"
+    },
+    {
+      "id": "8a5198e5",
+      "bank_id": "9010ab00",
+      "text": "Pek akıllı bir delikanlı bu, değil mi?"
+    },
+    {
+      "id": "8a5198e6",
+      "bank_id": "9010ab00",
+      "text": "Çok asil bir köpek bu."
+    },
+    {
+      "id": "8a5198e7",
+      "bank_id": "9010ab00",
+      "text": "Ah, ne kadar da harika bir köpek örneği değil mi?"
+    },
+    {
+      "id": "9b3975c3",
+      "bank_id": "9010ab00",
+      "text": "Nefret ettim bundan!"
+    },
+    {
+      "id": "9c4e08f3",
+      "bank_id": "9010ab00",
+      "text": "Harika! Tam istediğim şey baba!"
+    },
+    {
+      "id": "9c4e08f8",
+      "bank_id": "9010ab00",
+      "text": "Harika! Tam istediğim şey anne!"
+    },
+    {
+      "id": "a23980c6",
+      "bank_id": "9010ab00",
+      "text": "Bunu sevmedim."
+    },
+    {
+      "id": "a3ee97dd",
+      "bank_id": "9010ab00",
+      "text": "Bir tane daha mı? Bıktım artık bunlardan."
+    },
+    {
+      "id": "a8a6f431",
+      "bank_id": "9010ab00",
+      "text": "Şey, ıı, bu şey, ilginçmiş. Gerçek bir ünlü hediyesi, evet..."
+    },
+    {
+      "id": "a8a6f432",
+      "bank_id": "9010ab00",
+      "text": "Hımm, madem senden geldi açık artırmayla satabilirim sanırım..."
+    },
+    {
+      "id": "a8a6f433",
+      "bank_id": "9010ab00",
+      "text": "Aah, pek benim tarzım değil ama her gün de ünlü birinden hediye almıyor insan..."
+    },
+    {
+      "id": "a8a6f434",
+      "bank_id": "9010ab00",
+      "text": "Bunu ne yapayım ben?! Kim olduğun umurumda bile değil!"
+    },
+    {
+      "id": "a8a6f435",
+      "bank_id": "9010ab00",
+      "text": "Sırf ünlüsün diye bana bu çöpü verebileceğini mi sanıyorsun?"
+    },
+    {
+      "id": "a8a6f436",
+      "bank_id": "9010ab00",
+      "text": "Ününüzün farkındayım ama bu durum hediyenizi daha az berbat kılmıyor."
+    },
+    {
+      "id": "a8a6f437",
+      "bank_id": "9010ab00",
+      "text": "Evet, şey, bunu gerçekten istediğimi sanmıyorum. Gerçi bu kadar ünlü birinden gelmiş olsa da."
+    },
+    {
+      "id": "aeeea90c",
+      "bank_id": "9010ab00",
+      "text": "Neden bir tane daha isteyeyim ki?"
+    },
+    {
+      "id": "b3a70560",
+      "bank_id": "9010ab00",
+      "text": "Vay canına, şey, evet... bana bir şey verdiğine inanamıyorum. Gerçi... çöpün teki ama olsun."
+    },
+    {
+      "id": "b3a70562",
+      "bank_id": "9010ab00",
+      "text": "Hımm, hediye seçme yeteneğinle ünlü olmadın sen, değil mi?"
+    },
+    {
+      "id": "b3a70563",
+      "bank_id": "9010ab00",
+      "text": "Oooo, gerçekten çok ünlü birinden bir hediye ve bu... ah. Belki satabilirim bunu..."
+    },
+    {
+      "id": "b3a70564",
+      "bank_id": "9010ab00",
+      "text": "Ne berbat bir şey bu! Yine de en azından bir ünlüden geldi."
+    },
+    {
+      "id": "b3a70565",
+      "bank_id": "9010ab00",
+      "text": "Bunu isteyeceğimi mi sanıyorsun?? Sırf süperstarsın diye mi yani?? Peh!"
+    },
+    {
+      "id": "b3a70566",
+      "bank_id": "9010ab00",
+      "text": "Bu kadar ünlü birine kaba davranmak gibi bir niyetim yok ama bu hediye hiç hoşuma gitmedi."
+    },
+    {
+      "id": "b3a70567",
+      "bank_id": "9010ab00",
+      "text": "Şimdilerde ünlü maceracılar bunları mı dağıtıyor yani? Hımm..."
+    },
+    {
+      "id": "ba4d6702",
+      "bank_id": "9010ab00",
+      "text": "Ooo! Pek akıllı bir ufaklıksın sen, değil mi?"
+    },
+    {
+      "id": "be1e0c54",
+      "bank_id": "9010ab00",
+      "text": "Bu çok korkunç! İstemiyorum bunu!"
+    },
+    {
+      "id": "c31e1475",
+      "bank_id": "9010ab00",
+      "text": "Iyyy! Bütün dünya tarihindeki en berbat hediye bu!"
+    },
+    {
+      "id": "c34d756f",
+      "bank_id": "9010ab00",
+      "text": "Vay canına! Dünyanın en havalı köpeği sen olmalısın!"
+    },
+    {
+      "id": "c408f870",
+      "bank_id": "9010ab00",
+      "text": "Yüzüme tükürseydin daha iyiydi be?"
+    },
+    {
+      "id": "c408f871",
+      "bank_id": "9010ab00",
+      "text": "Bir hediyeden bu kadar nefret edebileceğimi hiç düşünmezdim."
+    },
+    {
+      "id": "c408f872",
+      "bank_id": "9010ab00",
+      "text": "Hediyelerin yüz karası."
+    },
+    {
+      "id": "c408f873",
+      "bank_id": "9010ab00",
+      "text": "Bu hediye yüzünden seni zindana attırmam gerekirdi."
+    },
+    {
+      "id": "c408f874",
+      "bank_id": "9010ab00",
+      "text": "Nankör gibi görünmek istemem ama bu berbat."
+    },
+    {
+      "id": "c408f876",
+      "bank_id": "9010ab00",
+      "text": "Ne düşünüyordun acaba?!"
+    },
+    {
+      "id": "c408f877",
+      "bank_id": "9010ab00",
+      "text": "Şimdiye kadar birinin bana verdiği en kötü hediye bu olmalı!"
+    },
+    {
+      "id": "c9090010",
+      "bank_id": "9010ab00",
+      "text": "Kanalizasyondan bir kutu doldurup üstüne fiyonk taksan ancak bu kadar kötü olurdu."
+    },
+    {
+      "id": "c9090011",
+      "bank_id": "9010ab00",
+      "text": "Kendinden nefret ettirmeye mi çalışıyorsun sen?"
+    },
+    {
+      "id": "c9090012",
+      "bank_id": "9010ab00",
+      "text": "Kelimeleri kullansaydın bana ancak bu kadar hakaret edebilirdin."
+    },
+    {
+      "id": "c9090013",
+      "bank_id": "9010ab00",
+      "text": "Şüphesiz alabileceğim en berbat hediye bu."
+    },
+    {
+      "id": "c9090015",
+      "bank_id": "9010ab00",
+      "text": "Ne?! Bari vursaydın beni!"
+    },
+    {
+      "id": "c9090016",
+      "bank_id": "9010ab00",
+      "text": "Iyyy! Berbat hediyeler yarışmasında bu birincilik ödülü alır."
+    },
+    {
+      "id": "c9090017",
+      "bank_id": "9010ab00",
+      "text": "Sana teşekkür etmeliyim sanırım. Şimdiye kadar hiç kimse bundan daha kötü bir hediye almamıştır."
+    },
+    {
+      "id": "cae8c510",
+      "bank_id": "9010ab00",
+      "text": "Bir tanesine daha gerçekten ihtiyacım yok."
+    },
+    {
+      "id": "cae8c511",
+      "bank_id": "9010ab00",
+      "text": "Bu şeylerde sana özel indirim mi yapıyorlar?"
+    },
+    {
+      "id": "cae8c512",
+      "bank_id": "9010ab00",
+      "text": "Bunlardan biriyle daha ne yapmam gerekiyor acaba?"
+    },
+    {
+      "id": "cae8c516",
+      "bank_id": "9010ab00",
+      "text": "Başka hiçbir şeyin yok mu senin?"
+    },
+    {
+      "id": "cae8c517",
+      "bank_id": "9010ab00",
+      "text": "Aynı şeyden fena halde gına geldi."
+    },
+    {
+      "id": "cf442be6",
+      "bank_id": "9010ab00",
+      "text": "Yaşasın, harika hediye anne!"
+    },
+    {
+      "id": "cf442bed",
+      "bank_id": "9010ab00",
+      "text": "Yaşasın, harika hediye baba!"
+    },
+    {
+      "id": "d3e8d37a",
+      "bank_id": "9010ab00",
+      "text": "Neden başka bir yerden alışveriş yapmayı denemiyorsun?"
+    },
+    {
+      "id": "d3e8d37b",
+      "bank_id": "9010ab00",
+      "text": "Bir tane daha mı?!"
+    },
+    {
+      "id": "d3e8d37c",
+      "bank_id": "9010ab00",
+      "text": "Sende bu şeylerle dolu bir depo olmalı!"
+    },
+    {
+      "id": "d3e8d37d",
+      "bank_id": "9010ab00",
+      "text": "Vay canına, çooook orijinalsin."
+    },
+    {
+      "id": "d3e8d37f",
+      "bank_id": "9010ab00",
+      "text": "Verecek başka bir şey düşünemedin mi?"
+    },
+    {
+      "id": "e2406e42",
+      "bank_id": "9010ab00",
+      "text": "Hediyen batsın!"
+    },
+    {
+      "id": "e2406e43",
+      "bank_id": "9010ab00",
+      "text": "Buna hediye mi diyorsun? Resmen dayak istiyorsun sen."
+    },
+    {
+      "id": "e2406e44",
+      "bank_id": "9010ab00",
+      "text": "Bana bundan daha kötüsünü veremezdin!"
+    },
+    {
+      "id": "e2406e45",
+      "bank_id": "9010ab00",
+      "text": "Bir keresinde doğum günümde üç dişim kırılmıştı. O bile bundan daha iyi bir hediyeydi."
+    },
+    {
+      "id": "e2406e47",
+      "bank_id": "9010ab00",
+      "text": "Ya benden nefret etmemi istiyorsun ya da aptalsın."
+    },
+    {
+      "id": "e29ca210",
+      "bank_id": "9010ab00",
+      "text": "Çok sevdim baba, teşekkürler!"
+    },
+    {
+      "id": "e29ca21b",
+      "bank_id": "9010ab00",
+      "text": "Çok sevdim anne, teşekkürler!"
+    },
+    {
+      "id": "e3a2d382",
+      "bank_id": "9010ab00",
+      "text": "Bu kadar ünlü birinin hediye vermesi çok ince bir davranış. Ama bunu pek sevmedim doğrusu."
+    },
+    {
+      "id": "e9407948",
+      "bank_id": "9010ab00",
+      "text": "Bundan ne kadar nefret ettiğimi bilmiyor musun?"
+    },
+    {
+      "id": "e9407949",
+      "bank_id": "9010ab00",
+      "text": "Öff, bundan daha çok nefret ettiğim başka hiçbir şey aklıma gelmiyor!"
+    },
+    {
+      "id": "e940794a",
+      "bank_id": "9010ab00",
+      "text": "Bana neden bu kadar iğrenç bir şey veriyorsun?"
+    },
+    {
+      "id": "e940794e",
+      "bank_id": "9010ab00",
+      "text": "Bana bir daha asla böyle bir hediye verme!"
+    },
+    {
+      "id": "e940794f",
+      "bank_id": "9010ab00",
+      "text": "Buna hiç katlanamadığımı bilmeliydin."
+    },
+    {
+      "id": "eca2e1ef",
+      "bank_id": "9010ab00",
+      "text": "Ah ama bu... çöp. Ben ünlü insanların havalı olduğunu sanırdım."
+    },
+    {
+      "id": "ee19daf0",
+      "bank_id": "9010ab00",
+      "text": "Bana bu kadar korkunç bir hediye verebildiğine inanamıyorum."
+    },
+    {
+      "id": "ee19daf1",
+      "bank_id": "9010ab00",
+      "text": "Bütün dünyada en çok nefret ettiğim şeyin bu olduğunu... nereden bildin?"
+    },
+    {
+      "id": "ef59ff22",
+      "bank_id": "9010ab00",
+      "text": "Harika bir numara! Bunu yapmayı nereden öğrendin sen??"
+    },
+    {
+      "id": "f85a0d0f",
+      "bank_id": "9010ab00",
+      "text": "Bu çok iyi!"
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "bank_id": "c0f69600",
+  "total_strings": 125,
+  "strings": [
+    {
+      "id": "00c966a5",
+      "bank_id": "c0f69600",
+      "text": "Güneşin üzerinde yürümek için."
+    },
+    {
+      "id": "03291fa9",
+      "bank_id": "c0f69600",
+      "text": "Dört Mevsim Şapkası"
+    },
+    {
+      "id": "06ea0cb5",
+      "bank_id": "c0f69600",
+      "text": "Yollarda pusuya yatıp soyacak ve öldürecek yolcular aramak için mükemmel bir palto."
+    },
+    {
+      "id": "0f0814a3",
+      "bank_id": "c0f69600",
+      "text": "Ateşli Randevu Kıyafeti"
+    },
+    {
+      "id": "0fae1d65",
+      "bank_id": "c0f69600",
+      "text": "Yolkesen Kıyafeti"
+    },
+    {
+      "id": "109b26f2",
+      "bank_id": "c0f69600",
+      "text": "Gölge Müridi Kıyafeti"
+    },
+    {
+      "id": "156a9147",
+      "bank_id": "c0f69600",
+      "text": "Tavuk Kostümü"
+    },
+    {
+      "id": "16df14f0",
+      "bank_id": "c0f69600",
+      "text": "Gölgeler Tapınağı'ndaki züppeler sadece kötülük oynuyor olabilir ama bu kıyafetin yaydığı kötü niyet aurası tartışılmazdır."
+    },
+    {
+      "id": "1d242d8c",
+      "bank_id": "c0f69600",
+      "text": "Yarım Bot"
+    },
+    {
+      "id": "1eebdaec",
+      "bank_id": "c0f69600",
+      "text": "Çift Kemerli Ceket"
+    },
+    {
+      "id": "1f4138bb",
+      "bank_id": "c0f69600",
+      "text": "Bunlardan birini giymek kesinlikle bir prenses olmadığınızın kesin bir işaretidir."
+    },
+    {
+      "id": "201cf5fd",
+      "bank_id": "c0f69600",
+      "text": "Tokalı Makosen"
+    },
+    {
+      "id": "20fc34bc",
+      "bank_id": "c0f69600",
+      "text": "Şehirli Capotain Şapkası"
+    },
+    {
+      "id": "21f8df40",
+      "bank_id": "c0f69600",
+      "text": "Gökyüzünü yorgan, yeryüzünü yatak belleyenler için mükemmel pantolon."
+    },
+    {
+      "id": "229a1c6c",
+      "bank_id": "c0f69600",
+      "text": "Kule Muhafızı Kıyafeti"
+    },
+    {
+      "id": "24691d02",
+      "bank_id": "c0f69600",
+      "text": "Gölge Müridi Cübbesi"
+    },
+    {
+      "id": "25608eeb",
+      "bank_id": "c0f69600",
+      "text": "Hafif, ferah ve saldırgan derecede renkli. Gözlerinizi, saçınızı, etrafınızdaki herkesin gözlerini ve saçını ve halüsinasyonunu görebileceğiniz her türlü göz veya saçı tamamlar."
+    },
+    {
+      "id": "27c6774f",
+      "bank_id": "c0f69600",
+      "text": "Pek bilinmeyen bir gerçek şudur ki tavuk kostümü aslında Meredith Sock'un dev bir tavuğun Albion'a dehşet saçtığı Megafowl adlı korku romanına dayanmaktadır."
+    },
+    {
+      "id": "2f3041d1",
+      "bank_id": "c0f69600",
+      "text": "Tül Baş Örtüsü"
+    },
+    {
+      "id": "34d8b1b6",
+      "bank_id": "c0f69600",
+      "text": "Kadın Çiftçi Kıyafeti"
+    },
+    {
+      "id": "3941bf5b",
+      "bank_id": "c0f69600",
+      "text": "Gökyüzünü yorgan, yeryüzünü yatak belleyenler için mükemmel gömlek."
+    },
+    {
+      "id": "39c5e0c6",
+      "bank_id": "c0f69600",
+      "text": "Benzersiz bir iç manşet detayına sahip bu modaya uygun botlar, tekmeleme başlayana kadar son derece fiyakalı görünmenizi sağlar."
+    },
+    {
+      "id": "3a0d8c3d",
+      "bank_id": "c0f69600",
+      "text": "Askeri Kanun Madde 17, Fıkra 1'de belirtildiği üzere: 'Muhafızlık, zorunlu askere alınanların ellerini asıl silahlardan sonraki en etkili silahları olarak kabul eder ki asıl silahlar çok daha etkilidir. Bu silahları kınında tutmamak Saldırganlık Eylemi sayılacak ve ölümle cezalandırılacaktır.'"
+    },
+    {
+      "id": "3ace136b",
+      "bank_id": "c0f69600",
+      "text": "Kıyafet Yok"
+    },
+    {
+      "id": "3cc8239a",
+      "bank_id": "c0f69600",
+      "text": "Son derece işlevsel bir giysi; başı serin tutar veya havlu, güneşlik ya da köpek boyutunda bir çadır olarak kullanılmak üzere açılabilir."
+    },
+    {
+      "id": "3d3819d5",
+      "bank_id": "c0f69600",
+      "text": "Bu aşamada aslında sadece bir arada durmaları için aralarına biraz palto dikilmiş bir avuç yamadan ibarettir."
+    },
+    {
+      "id": "44446266",
+      "bank_id": "c0f69600",
+      "text": "Oakfield'in oldukça 'toprak kokan' bölgesinde yaşayan Işık Tapınağı keşişleri için eldivenler mutlak bir zorunluluktur."
+    },
+    {
+      "id": "4490b208",
+      "bank_id": "c0f69600",
+      "text": "Albion burjuvazisinin bir parçası olun; alt sınıflara küçümsemeyle, üst sınıflara ise hasetle bakabileceğiniz bir mevkidir burası."
+    },
+    {
+      "id": "464ae79c",
+      "bank_id": "c0f69600",
+      "text": "Gökyüzünü yorgan, yeryüzünü yatak belleyenler için mükemmel kıyafet."
+    },
+    {
+      "id": "466070ae",
+      "bank_id": "c0f69600",
+      "text": "Bu gülünç yenilikçi ayakkabıları giyebilecekken neden insanların sizi ciddiye almasına izin veresiniz ki? Büyük, pofuduk ve rahattırlar. Neredeyse fazla rahat..."
+    },
+    {
+      "id": "4725febb",
+      "bank_id": "c0f69600",
+      "text": "Gölge Müridi Maskesi"
+    },
+    {
+      "id": "4806bd70",
+      "bank_id": "c0f69600",
+      "text": "Kule Muhafızı Alınlığı"
+    },
+    {
+      "id": "48a37a77",
+      "bank_id": "c0f69600",
+      "text": "Biri eski bir un çuvalının kolalanmış kalıntılarını, hâlâ eski bir un çuvalının kolalanmış kalıntıları olmayı canı gönülden dileyen bir şapkaya dönüştürmüş."
+    },
+    {
+      "id": "48beccf9",
+      "bank_id": "c0f69600",
+      "text": "Keşiş Cübbesi"
+    },
+    {
+      "id": "49111e01",
+      "bank_id": "c0f69600",
+      "text": "Fakir Başlığı"
+    },
+    {
+      "id": "495cdccd",
+      "bank_id": "c0f69600",
+      "text": "Şık ve işlevsel bu zarif palto, bakışları acayip derecede büyük ellerinizden uzaklaştırmak için tasarlanmış büyük boy manşetlere sahiptir."
+    },
+    {
+      "id": "4e2ff804",
+      "bank_id": "c0f69600",
+      "text": "Gölgeler Tapınağı'ndaki züppeler sadece kötülük oynuyor olabilir ama bu pantolonun yaydığı kötü niyet aurası tartışılmazdır."
+    },
+    {
+      "id": "4fff9ede",
+      "bank_id": "c0f69600",
+      "text": "Tarikatçı Pantolonu"
+    },
+    {
+      "id": "50437b99",
+      "bank_id": "c0f69600",
+      "text": "Bir tavuk olmak için tavuk gibi düşünmek gerekir. Ve bir tavuk kafası takmak."
+    },
+    {
+      "id": "556dd297",
+      "bank_id": "c0f69600",
+      "text": "Bower Gölü kampına uyum sağlamak mı istiyorsunuz? Bunu giyin!"
+    },
+    {
+      "id": "56726a59",
+      "bank_id": "c0f69600",
+      "text": "Erkek Çiftçi Kıyafeti"
+    },
+    {
+      "id": "56868ac3",
+      "bank_id": "c0f69600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nYağmur, günümüz Albion'unda saçların ıslanmasının önde gelen nedenidir. Bu modaya uygun sofistike şapka, zararlı yıkanmayı engellemek için tasarlanmış ıslaklık önleme teknolojilerine sahiptir."
+    },
+    {
+      "id": "58acc610",
+      "bank_id": "c0f69600",
+      "text": "Bacağınızı gösterecek kadar zengin olduğunuz ama bunun bir skandal yaratacak kadar zengin olmadığı durumlar için."
+    },
+    {
+      "id": "5b653a67",
+      "bank_id": "c0f69600",
+      "text": "Yollarda pusuya yatıp soyacak ve öldürecek yolcular aramak için mükemmel çizmeler."
+    },
+    {
+      "id": "5b7c2d1f",
+      "bank_id": "c0f69600",
+      "text": "Yamalı Palto"
+    },
+    {
+      "id": "5e8c3003",
+      "bank_id": "c0f69600",
+      "text": "Kat Kat Etek"
+    },
+    {
+      "id": "629e4cac",
+      "bank_id": "c0f69600",
+      "text": "Güneş Yeleği"
+    },
+    {
+      "id": "658c0d21",
+      "bank_id": "c0f69600",
+      "text": "Erkek Gezgin Gömleği"
+    },
+    {
+      "id": "663e6caf",
+      "bank_id": "c0f69600",
+      "text": "Ayakkabı Yok"
+    },
+    {
+      "id": "685c90a8",
+      "bank_id": "c0f69600",
+      "text": "Köylü Başörtüsü"
+    },
+    {
+      "id": "6a4e6859",
+      "bank_id": "c0f69600",
+      "text": "Işığa taparken başka hiçbir pantolon iş görmez."
+    },
+    {
+      "id": "6b5d0026",
+      "bank_id": "c0f69600",
+      "text": "Keçe Astarlı Fayton Eldiveni"
+    },
+    {
+      "id": "6d33a9a8",
+      "bank_id": "c0f69600",
+      "text": "Takunya"
+    },
+    {
+      "id": "76fe159d",
+      "bank_id": "c0f69600",
+      "text": "Çıplak Alt Beden"
+    },
+    {
+      "id": "778d9cff",
+      "bank_id": "c0f69600",
+      "text": "Albion burjuvazisinin bir parçası olun; alt sınıflara küçümsemeyle, üst sınıflara ise hasetle bakabileceğiniz bir mevkidir burası."
+    },
+    {
+      "id": "78bbf89d",
+      "bank_id": "c0f69600",
+      "text": "Kendinizi her zaman olmak istediğiniz şeye dönüştürün. Aynanın karşısına geçin ve kendinize sorun: \"Beni kovalar mıydın? Ben olsam kovalardım. Hem de fena kovalardım.\""
+    },
+    {
+      "id": "7bdf31a2",
+      "bank_id": "c0f69600",
+      "text": "Çıplak Üst Beden"
+    },
+    {
+      "id": "7cf28eb8",
+      "bank_id": "c0f69600",
+      "text": "Askeri Kanun Madde 108, Fıkra 4'te belirtildiği üzere: 'Yeni enerji tasarrufu düzenlemeleri uyarınca paltolar artık zorunludur. Muhafız tesislerinin ısıtmasını eleştirmeye kalkışmak Uygunsuz Davranış sayılacak ve ölümle cezalandırılacaktır.'"
+    },
+    {
+      "id": "7dac8eee",
+      "bank_id": "c0f69600",
+      "text": "Asırlık bir klasik. Büyük boy düğmeler 'Fazladan düğme iliklemeye vaktim yok' der."
+    },
+    {
+      "id": "7e2e5e62",
+      "bank_id": "c0f69600",
+      "text": "Erkek Gezgin Pantolonu"
+    },
+    {
+      "id": "820968c4",
+      "bank_id": "c0f69600",
+      "text": "Yolkesenler bu eldivenlerle sıradan suçluların nasırlarından kaçınır, ellerini narin ve pürüzsüz tutarlar."
+    },
+    {
+      "id": "8464054d",
+      "bank_id": "c0f69600",
+      "text": "Bu kıyafetin yumuşak cübbesinin Işık Tapınağı keşişleri tarafından tercih edilmesine şaşmamalı."
+    },
+    {
+      "id": "8653779e",
+      "bank_id": "c0f69600",
+      "text": "Yolkesen Eldiveni"
+    },
+    {
+      "id": "8a5e6ad5",
+      "bank_id": "c0f69600",
+      "text": "Köylü Şapkası"
+    },
+    {
+      "id": "8afcfded",
+      "bank_id": "c0f69600",
+      "text": "Kıyafet Yok"
+    },
+    {
+      "id": "9037bc5c",
+      "bank_id": "c0f69600",
+      "text": "Geçimini toprağı işleyerek kazananların giydiği türden."
+    },
+    {
+      "id": "99a32c75",
+      "bank_id": "c0f69600",
+      "text": "Kadın Gezgin Kıyafeti"
+    },
+    {
+      "id": "99f0e0a1",
+      "bank_id": "c0f69600",
+      "text": "'Asla aynı anda giyebileceğinden daha fazla eteğe sahip olma' şeklindeki eski gezgin atasözünün muazzam bir örneği."
+    },
+    {
+      "id": "9cf075eb",
+      "bank_id": "c0f69600",
+      "text": "Yollarda pusuya yatıp soyacak ve öldürecek yolcular aramak için mükemmel pantolon."
+    },
+    {
+      "id": "a25a745c",
+      "bank_id": "c0f69600",
+      "text": "Fakir Bluzu"
+    },
+    {
+      "id": "a3f022ff",
+      "bank_id": "c0f69600",
+      "text": "Yolkesen Paltosu"
+    },
+    {
+      "id": "a52eeca0",
+      "bank_id": "c0f69600",
+      "text": "Kule Muhafızı Pantolonu"
+    },
+    {
+      "id": "a6c028d1",
+      "bank_id": "c0f69600",
+      "text": "Yolkesen Pantolonu"
+    },
+    {
+      "id": "a7a1e5ac",
+      "bank_id": "c0f69600",
+      "text": "Keşiş Eldiveni"
+    },
+    {
+      "id": "ac53b28d",
+      "bank_id": "c0f69600",
+      "text": "Tavuk Kostümü Gövdesi"
+    },
+    {
+      "id": "ac8fdb14",
+      "bank_id": "c0f69600",
+      "text": "Tavuk Kostümü Ayakları"
+    },
+    {
+      "id": "acb432a7",
+      "bank_id": "c0f69600",
+      "text": "Yol Kesenler Loncası kimin üye olacağı konusunda çok seçicidir. Ama onlar gibi giyinebiliyorken üyeliğe kimin ihtiyacı var ki?"
+    },
+    {
+      "id": "ad8f3345",
+      "bank_id": "c0f69600",
+      "text": "İşlemeli Günlük Tunik"
+    },
+    {
+      "id": "afe8bc54",
+      "bank_id": "c0f69600",
+      "text": "Askeri Kanun Madde 2, Fıkra 412'de belirtildiği üzere: 'Her Muhafız üyesinin çizmelerini her zaman temiz, cilalı ve iyice tokalı tutması görevidir. Standartların altında çizme sergilemek Muhafız Mülküne Zarar Verme sayılacak ve ölümle cezalandırılacaktır.'"
+    },
+    {
+      "id": "b1db1c31",
+      "bank_id": "c0f69600",
+      "text": "Yamalı ve hiç de şık durmayan bir etek. Balolara, akşam yemeklerine veya saygın sokaklara gitmek için pek ideal değil."
+    },
+    {
+      "id": "b2ddefe3",
+      "bank_id": "c0f69600",
+      "text": "Orijinal ve hâlâ en iyisi. Yoğun talep üzerine bu sezon meraklı böcekleri uzak tutmak için dar paçalı taytlar geri dönüyor."
+    },
+    {
+      "id": "b49ce329",
+      "bank_id": "c0f69600",
+      "text": "Çünkü bazen her şeyi havalandırmanız gerekir."
+    },
+    {
+      "id": "b5e6a497",
+      "bank_id": "c0f69600",
+      "text": "Bu zarif deri çizme çifti uzun yürüyüşler, şık dövüş adımları ve ara sıra dans etmek için harikadır."
+    },
+    {
+      "id": "b672e67b",
+      "bank_id": "c0f69600",
+      "text": "Tavuk Kostümü Başlığı"
+    },
+    {
+      "id": "b9c38c62",
+      "bank_id": "c0f69600",
+      "text": "Askeri Kanun Madde 1, Fıkra 1'de belirtildiği üzere: 'Muhafızlığın resmi tutumu, saç bantlarının modasının asla geçmediği ve geçmeyeceğidir. Saç bantlarının modaya uygunluğunu kabul etmemek Vatana İhanet sayılacak ve ölümle cezalandırılacaktır.'"
+    },
+    {
+      "id": "bb8cc3a6",
+      "bank_id": "c0f69600",
+      "text": "Şık ama asla gösterişli değil; kısa kollar kolları sergilerken keskin frak kuyrukları geniş kılıcı tamamlar."
+    },
+    {
+      "id": "bb8e591f",
+      "bank_id": "c0f69600",
+      "text": "Şık ama rahat, cüretkâr bir toka estetiğine sahip. Bu bilek boyu botlar iş oraya varırsa koşmaya hazır olduğunuzu dünyaya bildirir."
+    },
+    {
+      "id": "bc1c69f3",
+      "bank_id": "c0f69600",
+      "text": "Bu yumuşak cübbelerin Işık Tapınağı keşişleri tarafından tercih edilmesine şaşmamalı."
+    },
+    {
+      "id": "bc927acf",
+      "bank_id": "c0f69600",
+      "text": "Keşiş Çizmeleri"
+    },
+    {
+      "id": "bce9815a",
+      "bank_id": "c0f69600",
+      "text": "Tarlalarda ömürlerini tüketen Oakfield kadınlarının tercihi."
+    },
+    {
+      "id": "be5d9125",
+      "bank_id": "c0f69600",
+      "text": "Yolkesen Çizmeleri"
+    },
+    {
+      "id": "bf3b0526",
+      "bank_id": "c0f69600",
+      "text": "Lucien'in ordusunun bir üyesi olmak ister misiniz? Bu kıyafet hem Kule'deki mahkûmları korumak hem de Albion genelinde Lucien adına kasabaları yerle bir etmek için idealdir."
+    },
+    {
+      "id": "c11de12a",
+      "bank_id": "c0f69600",
+      "text": "Burjuva Kıyafeti"
+    },
+    {
+      "id": "c1c09a5a",
+      "bank_id": "c0f69600",
+      "text": "Garip şekli kendine güvensiz olanları caydırabilir ama meraklıları inanılmaz derecede rahat olduklarına ve duruşunuza harikalar yarattığına yemin eder."
+    },
+    {
+      "id": "c4ce0d97",
+      "bank_id": "c0f69600",
+      "text": "Manşetli Palto"
+    },
+    {
+      "id": "c5e3b15b",
+      "bank_id": "c0f69600",
+      "text": "Yolkesenlerin imzası. Bir yol boyunca bu şapkanın yaklaştığını gören yolcular başlarının dertte olduğunu anlarlar."
+    },
+    {
+      "id": "caac7460",
+      "bank_id": "c0f69600",
+      "text": "Gölgeler Tapınağı'ndaki züppeler sadece kötülük oynuyor olabilir ama bu cübbelerin yaydığı kötü niyet aurası tartışılmazdır."
+    },
+    {
+      "id": "cb0d3bd3",
+      "bank_id": "c0f69600",
+      "text": "Geçimini toprağı işleyerek kazananların giydiği türden."
+    },
+    {
+      "id": "cba930c1",
+      "bank_id": "c0f69600",
+      "text": "Seksi ve çekici mi, yoksa korkunç bir ucube mi? Üzerinize geçirin ve kendiniz karar verin."
+    },
+    {
+      "id": "cbd34687",
+      "bank_id": "c0f69600",
+      "text": "Zarif ve hafif; benzersiz desenler kılıf erişimini engellemeden tamamlar."
+    },
+    {
+      "id": "ce04fc3b",
+      "bank_id": "c0f69600",
+      "text": "Keşiş Pantolonu"
+    },
+    {
+      "id": "d0007fc8",
+      "bank_id": "c0f69600",
+      "text": "Maske Yok"
+    },
+    {
+      "id": "d1370a2d",
+      "bank_id": "c0f69600",
+      "text": "Aksesuar Yok"
+    },
+    {
+      "id": "d2680e92",
+      "bank_id": "c0f69600",
+      "text": "İmza Etek"
+    },
+    {
+      "id": "d432fd8e",
+      "bank_id": "c0f69600",
+      "text": "Kule Muhafızı Çizmeleri"
+    },
+    {
+      "id": "d57ef067",
+      "bank_id": "c0f69600",
+      "text": "Kule Muhafızı Eldiveni"
+    },
+    {
+      "id": "d660268b",
+      "bank_id": "c0f69600",
+      "text": "Başlık Yok"
+    },
+    {
+      "id": "d97f8bfa",
+      "bank_id": "c0f69600",
+      "text": "Kule Muhafızı Paltosu"
+    },
+    {
+      "id": "dc601c56",
+      "bank_id": "c0f69600",
+      "text": "Bu konik, imkânsız derecede uzun şapka 'zamansız' diye bağırıyor. İlkbahar koleksiyonundan."
+    },
+    {
+      "id": "dd57dadd",
+      "bank_id": "c0f69600",
+      "text": "Erkek Orta Sınıf Kıyafeti"
+    },
+    {
+      "id": "ddbc1e3b",
+      "bank_id": "c0f69600",
+      "text": "Eldiven Yok"
+    },
+    {
+      "id": "defc5976",
+      "bank_id": "c0f69600",
+      "text": "Bu kirli ve üzerinize oturmayan üstlük muhtemelen vücudunuzda feci bir döküntüye yol açacaktır."
+    },
+    {
+      "id": "df7fbbc9",
+      "bank_id": "c0f69600",
+      "text": "Klasik Ekoseli Pantolon"
+    },
+    {
+      "id": "e1632354",
+      "bank_id": "c0f69600",
+      "text": "Klasik Yelek ve Gömlek Kombini"
+    },
+    {
+      "id": "e6baa9ac",
+      "bank_id": "c0f69600",
+      "text": "Güzel bir çapraz dikişe sahip bu şehirli eldivenler, kaliteli yemek mekânlarında ya da hela temizlerken aynı derecede yerindedir."
+    },
+    {
+      "id": "e839a0e8",
+      "bank_id": "c0f69600",
+      "text": "Çizgili Bandana"
+    },
+    {
+      "id": "eac1b349",
+      "bank_id": "c0f69600",
+      "text": "Aşırı aç olanlardan şehvetli bakışlar, diğer herkesten ise içten kahkahalar uyandıracağı kesin."
+    },
+    {
+      "id": "eaed70f6",
+      "bank_id": "c0f69600",
+      "text": "Erkek Gezgin Kıyafeti"
+    },
+    {
+      "id": "ee77b00b",
+      "bank_id": "c0f69600",
+      "text": "Tavuk Kostümü Pantolonu"
+    },
+    {
+      "id": "f22dff21",
+      "bank_id": "c0f69600",
+      "text": "Yolkesen Şapkası"
+    },
+    {
+      "id": "f965f232",
+      "bank_id": "c0f69600",
+      "text": "Askeri Kanun Madde 4, Fıkra 7'de belirtildiği üzere: 'Bir komutanın huzurunda düzgünce pantolon giymemiş olmak Görevi İhmal sayılacak ve ölümle cezalandırılacaktır.'"
+    },
+    {
+      "id": "fa1bfe75",
+      "bank_id": "c0f69600",
+      "text": "Deri Çizmeler"
+    },
+    {
+      "id": "fe62616f",
+      "bank_id": "c0f69600",
+      "text": "Palto Yok"
+    },
+    {
+      "id": "ff40c966",
+      "bank_id": "c0f69600",
+      "text": "Uzun, havadar kollar her şeyi hayal gücüne bırakırken derin dekolte hayal gücü kıt olanların imdadına yetişir."
+    },
+    {
+      "id": "ffd53617",
+      "bank_id": "c0f69600",
+      "text": "Keşiş Kıyafeti"
+    }
+  ]
+}

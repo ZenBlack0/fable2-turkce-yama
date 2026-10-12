@@ -1,0 +1,501 @@
+{
+  "bank_id": "80f19600",
+  "total_strings": 99,
+  "strings": [
+    {
+      "id": "0a36be70",
+      "bank_id": "80f19600",
+      "text": "Düşmüş yaratıkların hayaletimsi gölgelerini yanınızda savaşmaları için çağırın."
+    },
+    {
+      "id": "0a36be72",
+      "bank_id": "80f19600",
+      "text": "Düşmüş yaratıkların hayaletimsi gölgelerini yanınızda savaşmaları için çağırın."
+    },
+    {
+      "id": "0a36be73",
+      "bank_id": "80f19600",
+      "text": "Düşmüş yaratıkların hayaletimsi gölgelerini yanınızda savaşmaları için çağırın."
+    },
+    {
+      "id": "0a36be74",
+      "bank_id": "80f19600",
+      "text": "Düşmüş yaratıkların hayaletimsi gölgelerini yanınızda savaşmaları için çağırın."
+    },
+    {
+      "id": "0a36be75",
+      "bank_id": "80f19600",
+      "text": "Düşmüş yaratıkların hayaletimsi gölgelerini yanınızda savaşmaları için çağırın."
+    },
+    {
+      "id": "0a36be77",
+      "bank_id": "80f19600",
+      "text": "Usta bir ölüm büyücüsüsünüz. Gölgeler dilediğiniz gibi emrinize amadedir."
+    },
+    {
+      "id": "0ee31d41",
+      "bank_id": "80f19600",
+      "text": "Kaos"
+    },
+    {
+      "id": "0ee31d42",
+      "bank_id": "80f19600",
+      "text": "Kaos"
+    },
+    {
+      "id": "0ee31d43",
+      "bank_id": "80f19600",
+      "text": "Kaos"
+    },
+    {
+      "id": "0ee31d44",
+      "bank_id": "80f19600",
+      "text": "Kaos"
+    },
+    {
+      "id": "0ee31d45",
+      "bank_id": "80f19600",
+      "text": "Kaos"
+    },
+    {
+      "id": "0ee31d46",
+      "bank_id": "80f19600",
+      "text": "Kaos"
+    },
+    {
+      "id": "2644e869",
+      "bank_id": "80f19600",
+      "text": "Çevik Dövüş Tarzları"
+    },
+    {
+      "id": "2644e86a",
+      "bank_id": "80f19600",
+      "text": "Çevik Dövüş Tarzları"
+    },
+    {
+      "id": "2644e86b",
+      "bank_id": "80f19600",
+      "text": "Çevik Dövüş Tarzları"
+    },
+    {
+      "id": "2644e86c",
+      "bank_id": "80f19600",
+      "text": "Çevik Dövüş Tarzları"
+    },
+    {
+      "id": "2644e86d",
+      "bank_id": "80f19600",
+      "text": "Çevik Dövüş Tarzları"
+    },
+    {
+      "id": "2644e86e",
+      "bank_id": "80f19600",
+      "text": "Çevik Dövüş Tarzları"
+    },
+    {
+      "id": "26bfe380",
+      "bank_id": "80f19600",
+      "text": "<b>Çevik Dövüş Tarzı 4: Bölgesel Nişan Alma</b>\nNişan alma düğmesini <y_img> basılı tutarken, bölgesel nişan imlecini açmak için <lefttrigger.img> tuşunu basılı tutun. Bunu düşmanın vücudunun hangi bölgesine nişan alacağınızı seçmek için kullanabilirsiniz. Vücut kısımları arasında geçiş yapmak için <left.img> kullanın. Neleri vurabileceğinizi görmek için farklı düşmanlarda deneyin!\n\n<b>Çevik Dövüş Tarzı 3:  Yakınlaştırma</b>\nNişan alma düğmesini <y_img> daha uzun süre basılı tutmak kilitlendiğiniz düşmana daha fazla yaklaşmanızı sağlar. Ne kadar yakınlaştırırsanız atışınız o kadar güçlü olacaktır.\n\n<b>Çevik Dövüş Tarzı 2:  Hedefli Menzilli Saldırı</b>\nNişan moduna girmek için <y_img> tuşunu basılı tutun; bu mod <left.img> ile elle nişan almanızı sağlar. Nişangâhınız bir düşmana yaklaştığında, daha kolay hedef almanız için üzerine kilitlenecektir.\nBir düşmana kilitliyken yakındaki diğer düşmanlara anında geçiş yapmak için <left.img> hafifçe itin.\n\n<b>Çevik Dövüş Tarzı 1:  Yuvarlanma</b>\nSilahınız kınından çekilmiş vaziyette bir rakiple yüzleşirken herhangi bir yöne yuvarlanmak için <a_img> dokunun.  Yuvarlanırken hiçbir hasar almazsınız, bu yüzden zor durumlarda hayatta kalmak için bunu kullanın!"
+    },
+    {
+      "id": "26bfe381",
+      "bank_id": "80f19600",
+      "text": "Sonraki Yetenek<motif.img>\n<b>Çevik Dövüş Tarzı 4: Bölgesel Nişan Alma</b>\nNişan alma düğmesini <y_img> basılı tutarken, bölgesel nişan imlecini açmak için <lefttrigger.img> tuşunu basılı tutun. Bunu düşmanın vücudunun hangi bölgesine nişan alacağınızı seçmek için kullanabilirsiniz. Vücut kısımları arasında geçiş yapmak için <left.img> kullanın. Neleri vurabileceğinizi görmek için farklı düşmanlarda deneyin!\n\nZaten Açılmış Yetenekler\n<b>Çevik Dövüş Tarzı 3:  Yakınlaştırma</b>\nNişan alma düğmesini <y_img> daha uzun süre basılı tutmak kilitlendiğiniz düşmana daha fazla yaklaşmanızı sağlar. Ne kadar yakınlaştırırsanız atışınız o kadar güçlü olacaktır.\n\n<b>Çevik Dövüş Tarzı 2:  Hedefli Menzilli Saldırı</b>\nNişan moduna girmek için <y_img> tuşunu basılı tutun; bu mod <left.img> ile elle nişan almanızı sağlar. Nişangâhınız bir düşmana yaklaştığında, daha kolay hedef almanız için üzerine kilitlenecektir.\nBir düşmana kilitliyken yakındaki diğer düşmanlara anında geçiş yapmak için <left.img> hafifçe itin.\n\n<b>Çevik Dövüş Tarzı 1:  Yuvarlanma</b>\nSilahınız kınından çekilmiş vaziyette bir rakiple yüzleşirken herhangi bir yöne yuvarlanmak için <a_img> dokunun.  Yuvarlanırken hiçbir hasar almazsınız, bu yüzden zor durumlarda hayatta kalmak için bunu kullanın!"
+    },
+    {
+      "id": "26bfe383",
+      "bank_id": "80f19600",
+      "text": "Tüm Çevik Dövüş Tarzlarını Açtınız<motif.img>\n<b>Çevik Dövüş Tarzı 4: Bölgesel Nişan Alma</b>\nNişan alma düğmesini <y_img> basılı tutarken, bölgesel nişan imlecini açmak için <lefttrigger.img> tuşunu basılı tutun. Bunu düşmanın vücudunun hangi bölgesine nişan alacağınızı seçmek için kullanabilirsiniz. Vücut kısımları arasında geçiş yapmak için <left.img> kullanın. Neleri vurabileceğinizi görmek için farklı düşmanlarda deneyin!\n\n<b>Çevik Dövüş Tarzı 3:  Yakınlaştırma</b>\nNişan alma düğmesini <y_img> daha uzun süre basılı tutmak kilitlendiğiniz düşmana daha fazla yaklaşmanızı sağlar. Ne kadar yakınlaştırırsanız atışınız o kadar güçlü olacaktır.\n\n<b>Çevik Dövüş Tarzı 2:  Hedefli Menzilli Saldırı</b>\nNişan moduna girmek için <y_img> tuşunu basılı tutun; bu mod <left.img> ile elle nişan almanızı sağlar. Nişangâhınız bir düşmana yaklaştığında, daha kolay hedef almanız için üzerine kilitlenecektir.\nBir düşmana kilitliyken yakındaki diğer düşmanlara anında geçiş yapmak için <left.img> hafifçe itin.\n\n<b>Çevik Dövüş Tarzı 1:  Yuvarlanma</b>\nSilahınız kınından çekilmiş vaziyette bir rakiple yüzleşirken herhangi bir yöne yuvarlanmak için <a_img> dokunun.  Yuvarlanırken hiçbir hasar almazsınız, bu yüzden zor durumlarda hayatta kalmak için bunu kullanın!"
+    },
+    {
+      "id": "31bae5a8",
+      "bank_id": "80f19600",
+      "text": "= Toplam Güç Puanı:"
+    },
+    {
+      "id": "509f8450",
+      "bank_id": "80f19600",
+      "text": "Cehennem Ateşi"
+    },
+    {
+      "id": "509f8451",
+      "bank_id": "80f19600",
+      "text": "Cehennem Ateşi"
+    },
+    {
+      "id": "509f8452",
+      "bank_id": "80f19600",
+      "text": "Cehennem Ateşi"
+    },
+    {
+      "id": "509f8455",
+      "bank_id": "80f19600",
+      "text": "Cehennem Ateşi"
+    },
+    {
+      "id": "509f8456",
+      "bank_id": "80f19600",
+      "text": "Cehennem Ateşi"
+    },
+    {
+      "id": "509f8457",
+      "bank_id": "80f19600",
+      "text": "Cehennem Ateşi"
+    },
+    {
+      "id": "5cfa09a8",
+      "bank_id": "80f19600",
+      "text": "Kimse sizi itip kakamaz."
+    },
+    {
+      "id": "5cfa09aa",
+      "bank_id": "80f19600",
+      "text": "Som bir enerji duvarı etrafınızdaki tüm düşmanları geri püskürterek size daha fazla manevra alanı sağlar. Tek tek düşmanları da hedef alabilirsiniz."
+    },
+    {
+      "id": "5cfa09ab",
+      "bank_id": "80f19600",
+      "text": "Som bir enerji duvarı etrafınızdaki tüm düşmanları geri püskürterek size daha fazla manevra alanı sağlar. Tek tek düşmanları da hedef alabilirsiniz."
+    },
+    {
+      "id": "5cfa09ac",
+      "bank_id": "80f19600",
+      "text": "Som bir enerji duvarı etrafınızdaki tüm düşmanları geri püskürterek size daha fazla manevra alanı sağlar. Tek tek düşmanları da hedef alabilirsiniz."
+    },
+    {
+      "id": "5cfa09ad",
+      "bank_id": "80f19600",
+      "text": "Som bir enerji duvarı etrafınızdaki tüm düşmanları geri püskürterek size daha fazla manevra alanı sağlar. Tek tek düşmanları da hedef alabilirsiniz."
+    },
+    {
+      "id": "5cfa09af",
+      "bank_id": "80f19600",
+      "text": "Som bir enerji duvarı etrafınızdaki tüm düşmanları geri püskürterek size daha fazla manevra alanı sağlar. Tek tek düşmanları da hedef alabilirsiniz."
+    },
+    {
+      "id": "6238f378",
+      "bank_id": "80f19600",
+      "text": "Şok"
+    },
+    {
+      "id": "6238f379",
+      "bank_id": "80f19600",
+      "text": "Şok"
+    },
+    {
+      "id": "6238f37b",
+      "bank_id": "80f19600",
+      "text": "Şok"
+    },
+    {
+      "id": "6238f37c",
+      "bank_id": "80f19600",
+      "text": "Şok"
+    },
+    {
+      "id": "6238f37e",
+      "bank_id": "80f19600",
+      "text": "Şok"
+    },
+    {
+      "id": "6238f37f",
+      "bank_id": "80f19600",
+      "text": "Şok"
+    },
+    {
+      "id": "6384fdd0",
+      "bank_id": "80f19600",
+      "text": "Düşmanlarınıza bir elektrik enerjisi patlamasıyla hasar verin."
+    },
+    {
+      "id": "6384fdd1",
+      "bank_id": "80f19600",
+      "text": "Düşmanlarınıza bir elektrik enerjisi patlamasıyla hasar verin."
+    },
+    {
+      "id": "6384fdd2",
+      "bank_id": "80f19600",
+      "text": "Bu büyüdeki ustalığınız sahiden de şok edici."
+    },
+    {
+      "id": "6384fdd5",
+      "bank_id": "80f19600",
+      "text": "Düşmanlarınıza bir elektrik enerjisi patlamasıyla hasar verin."
+    },
+    {
+      "id": "6384fdd6",
+      "bank_id": "80f19600",
+      "text": "Düşmanlarınıza bir elektrik enerjisi patlamasıyla hasar verin."
+    },
+    {
+      "id": "6384fdd7",
+      "bank_id": "80f19600",
+      "text": "Düşmanlarınıza bir elektrik enerjisi patlamasıyla hasar verin."
+    },
+    {
+      "id": "63dd8269",
+      "bank_id": "80f19600",
+      "text": "Dayanıklılık"
+    },
+    {
+      "id": "63dd826a",
+      "bank_id": "80f19600",
+      "text": "Dayanıklılık"
+    },
+    {
+      "id": "63dd826b",
+      "bank_id": "80f19600",
+      "text": "Dayanıklılık"
+    },
+    {
+      "id": "63dd826c",
+      "bank_id": "80f19600",
+      "text": "Dayanıklılık"
+    },
+    {
+      "id": "63dd826d",
+      "bank_id": "80f19600",
+      "text": "Dayanıklılık"
+    },
+    {
+      "id": "63dd826e",
+      "bank_id": "80f19600",
+      "text": "Dayanıklılık"
+    },
+    {
+      "id": "74bea350",
+      "bank_id": "80f19600",
+      "text": "Ölüleri Dirilt"
+    },
+    {
+      "id": "74bea351",
+      "bank_id": "80f19600",
+      "text": "Ölüleri Dirilt"
+    },
+    {
+      "id": "74bea352",
+      "bank_id": "80f19600",
+      "text": "Ölüleri Dirilt"
+    },
+    {
+      "id": "74bea355",
+      "bank_id": "80f19600",
+      "text": "Ölüleri Dirilt"
+    },
+    {
+      "id": "74bea356",
+      "bank_id": "80f19600",
+      "text": "Ölüleri Dirilt"
+    },
+    {
+      "id": "74bea357",
+      "bank_id": "80f19600",
+      "text": "Ölüleri Dirilt"
+    },
+    {
+      "id": "76d22580",
+      "bank_id": "80f19600",
+      "text": "Sağlık çubuğunuzun uzunluğunu artırır."
+    },
+    {
+      "id": "76d22581",
+      "bank_id": "80f19600",
+      "text": "Sağlık çubuğunuzun uzunluğunu artırır."
+    },
+    {
+      "id": "76d22583",
+      "bank_id": "80f19600",
+      "text": "Dayanıklılığınızı en üst seviyeye çıkardınız."
+    },
+    {
+      "id": "76d22584",
+      "bank_id": "80f19600",
+      "text": "Sağlık çubuğunuzun uzunluğunu artırır."
+    },
+    {
+      "id": "76d22586",
+      "bank_id": "80f19600",
+      "text": "Sağlık çubuğunuzun uzunluğunu artırır."
+    },
+    {
+      "id": "76d22587",
+      "bank_id": "80f19600",
+      "text": "Sağlık çubuğunuzun uzunluğunu artırır."
+    },
+    {
+      "id": "825147d3",
+      "bank_id": "80f19600",
+      "text": "Hantal düşmanlarınıza karşı avantaj elde etmek için zamanı yavaşlatın. Ayrıca bir sürpriz saldırı yapmak üzere düşmana doğru hızla atılmak için <left.img> kullanarak tek bir düşmanı da hedef alabilirsiniz."
+    },
+    {
+      "id": "849105e1",
+      "bank_id": "80f19600",
+      "text": "Güç İtişi"
+    },
+    {
+      "id": "849105e2",
+      "bank_id": "80f19600",
+      "text": "Güç İtişi"
+    },
+    {
+      "id": "849105e3",
+      "bank_id": "80f19600",
+      "text": "Güç İtişi"
+    },
+    {
+      "id": "849105e4",
+      "bank_id": "80f19600",
+      "text": "Güç İtişi"
+    },
+    {
+      "id": "849105e5",
+      "bank_id": "80f19600",
+      "text": "Güç İtişi"
+    },
+    {
+      "id": "849105e6",
+      "bank_id": "80f19600",
+      "text": "Güç İtişi"
+    },
+    {
+      "id": "91e70bd2",
+      "bank_id": "80f19600",
+      "text": "Büyü Seçici"
+    },
+    {
+      "id": "9e0a6e8d",
+      "bank_id": "80f19600",
+      "text": "Çevik Dövüş Tarzları"
+    },
+    {
+      "id": "a976d588",
+      "bank_id": "80f19600",
+      "text": "Kaosun nihai taşıyıcısısınız!"
+    },
+    {
+      "id": "a976d58a",
+      "bank_id": "80f19600",
+      "text": "Düşmanlarınızın aklını başından almak için bir Delilik Maskesi çağırın, sonrasında neler olacağını asla kestiremezsiniz. Belki kendi dostlarına saldırırlar, belki de o kan lekelerini temizlemek için yerleri paspaslarlar. Ağınıza daha fazla düşman düşürmek için büyünüzü geniş bir alana yayın ya da çok daha uzun süreli bir etki için tek bir hedefi seçin."
+    },
+    {
+      "id": "a976d58b",
+      "bank_id": "80f19600",
+      "text": "Düşmanlarınızın aklını başından almak için bir Delilik Maskesi çağırın, sonrasında neler olacağını asla kestiremezsiniz. Belki kendi dostlarına saldırırlar, belki de o kan lekelerini temizlemek için yerleri paspaslarlar. Ağınıza daha fazla düşman düşürmek için büyünüzü geniş bir alana yayın ya da çok daha uzun süreli bir etki için tek bir hedefi seçin."
+    },
+    {
+      "id": "a976d58c",
+      "bank_id": "80f19600",
+      "text": "Düşmanlarınızın aklını başından almak için bir Delilik Maskesi çağırın, sonrasında neler olacağını asla kestiremezsiniz. Belki kendi dostlarına saldırırlar, belki de o kan lekelerini temizlemek için yerleri paspaslarlar. Ağınıza daha fazla düşman düşürmek için büyünüzü geniş bir alana yayın ya da çok daha uzun süreli bir etki için tek bir hedefi seçin."
+    },
+    {
+      "id": "a976d58d",
+      "bank_id": "80f19600",
+      "text": "Düşmanlarınızın aklını başından almak için bir Delilik Maskesi çağırın, sonrasında neler olacağını asla kestiremezsiniz. Belki kendi dostlarına saldırırlar, belki de o kan lekelerini temizlemek için yerleri paspaslarlar. Ağınıza daha fazla düşman düşürmek için büyünüzü geniş bir alana yayın ya da çok daha uzun süreli bir etki için tek bir hedefi seçin."
+    },
+    {
+      "id": "a976d58f",
+      "bank_id": "80f19600",
+      "text": "Düşmanlarınızın aklını başından almak için bir Delilik Maskesi çağırın, sonrasında neler olacağını asla kestiremezsiniz. Belki kendi dostlarına saldırırlar, belki de o kan lekelerini temizlemek için yerleri paspaslarlar. Ağınıza daha fazla düşman düşürmek için büyünüzü geniş bir alana yayın ya da çok daha uzun süreli bir etki için tek bir hedefi seçin."
+    },
+    {
+      "id": "afa8ead9",
+      "bank_id": "80f19600",
+      "text": "Fiziksel Gücünüzü en üst seviyeye çıkardınız."
+    },
+    {
+      "id": "afa8eada",
+      "bank_id": "80f19600",
+      "text": "Yakın dövüş silahlarıyla verdiğiniz hasarı artırır."
+    },
+    {
+      "id": "afa8eadb",
+      "bank_id": "80f19600",
+      "text": "Yakın dövüş silahlarıyla verdiğiniz hasarı artırır."
+    },
+    {
+      "id": "afa8eadc",
+      "bank_id": "80f19600",
+      "text": "Yakın dövüş silahlarıyla verdiğiniz hasarı artırır."
+    },
+    {
+      "id": "afa8eadd",
+      "bank_id": "80f19600",
+      "text": "Yakın dövüş silahlarıyla verdiğiniz hasarı artırır."
+    },
+    {
+      "id": "afa8eade",
+      "bank_id": "80f19600",
+      "text": "Yakın dövüş silahlarıyla verdiğiniz hasarı artırır."
+    },
+    {
+      "id": "c9070fde",
+      "bank_id": "80f19600",
+      "text": "= Toplam Beceri Puanı:"
+    },
+    {
+      "id": "daf320ab",
+      "bank_id": "80f19600",
+      "text": "x"
+    },
+    {
+      "id": "e6179f70",
+      "bank_id": "80f19600",
+      "text": "Bir düşmana doğru kuyruklu alev topu fırlatın ya da bir ateş çemberi çağırarak etrafınızdaki herkesi kavurun."
+    },
+    {
+      "id": "e6179f72",
+      "bank_id": "80f19600",
+      "text": "Bir düşmana doğru kuyruklu alev topu fırlatın ya da bir ateş çemberi çağırarak etrafınızdaki herkesi kavurun."
+    },
+    {
+      "id": "e6179f73",
+      "bank_id": "80f19600",
+      "text": "Bir düşmana doğru kuyruklu alev topu fırlatın ya da bir ateş çemberi çağırarak etrafınızdaki herkesi kavurun."
+    },
+    {
+      "id": "e6179f74",
+      "bank_id": "80f19600",
+      "text": "Bir düşmana doğru kuyruklu alev topu fırlatın ya da bir ateş çemberi çağırarak etrafınızdaki herkesi kavurun."
+    },
+    {
+      "id": "e6179f75",
+      "bank_id": "80f19600",
+      "text": "Bir düşmana doğru kuyruklu alev topu fırlatın ya da bir ateş çemberi çağırarak etrafınızdaki herkesi kavurun."
+    },
+    {
+      "id": "e6179f77",
+      "bank_id": "80f19600",
+      "text": "Ateşi başlatanların en büyüğüsünüz."
+    },
+    {
+      "id": "ec665d28",
+      "bank_id": "80f19600",
+      "text": "Fiziksel Güç"
+    },
+    {
+      "id": "ec665d29",
+      "bank_id": "80f19600",
+      "text": "Fiziksel Güç"
+    },
+    {
+      "id": "ec665d2b",
+      "bank_id": "80f19600",
+      "text": "Fiziksel Güç"
+    },
+    {
+      "id": "ec665d2c",
+      "bank_id": "80f19600",
+      "text": "Fiziksel Güç"
+    },
+    {
+      "id": "ec665d2e",
+      "bank_id": "80f19600",
+      "text": "Fiziksel Güç"
+    },
+    {
+      "id": "ec665d2f",
+      "bank_id": "80f19600",
+      "text": "Fiziksel Güç"
+    }
+  ]
+}

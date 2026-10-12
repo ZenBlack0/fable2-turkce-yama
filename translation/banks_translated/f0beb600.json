@@ -1,0 +1,471 @@
+{
+  "bank_id": "f0beb600",
+  "total_strings": 93,
+  "strings": [
+    {
+      "id": "03b2aaad",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Meyhanesi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. İçin bakalım."
+    },
+    {
+      "id": "08d4a4e5",
+      "bank_id": "f0beb600",
+      "text": "Manav Tezgâhı İndirimi"
+    },
+    {
+      "id": "0b645347",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Giyim Tezgâhı, kasaba köprüsüne odaklanan artan güvenlik endişeleri nedeniyle şu anda bir kıtlık yaşıyor. Köprü hâlâ ayaktaysa kıyafet satarak bir servet kazanabilirsiniz."
+    },
+    {
+      "id": "0bcf9309",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Meyhanesi önümüzdeki birkaç gün boyunca indirimde. Burada sarhoş OLMAMAK için deli olmak gerek!"
+    },
+    {
+      "id": "0dda4a2f",
+      "bank_id": "f0beb600",
+      "text": "Giyim Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "11406d63",
+      "bank_id": "f0beb600",
+      "text": "Giyim Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "11fff9cb",
+      "bank_id": "f0beb600",
+      "text": "Handa Büyük İndirim"
+    },
+    {
+      "id": "1208b107",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Dövmecisi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Gelin ve vücudunuza her zaman işletmek istediğiniz o deseni yaptırın."
+    },
+    {
+      "id": "1403070f",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Giyim Tezgâhı, bazı natüristlerin iddialarına rağmen halkın sürekli çıplak dolaşmanın pek de hoş bir şey olmadığını fark etmesi nedeniyle şu anda büyük bir kıtlık yaşıyor. Lütfen buraya gelip kıyafet satışı yapın."
+    },
+    {
+      "id": "1572efbb",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Erkek Terzisi, bir kutu boya ve birkaç tavuğun karıştığı talihsiz bir olay nedeniyle şu anda küçük bir kıtlık yaşıyor. Fazla erkek kıyafetlerinizi biraz ekstra para karşılığında burada satabilirsiniz."
+    },
+    {
+      "id": "1725bfec",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Dövmecisi tedarik sorunları nedeniyle şu anda küçük bir kıtlık yaşıyor. Fiyatlar arttı ancak sunabileceğiniz eşyalar için ekstra ödeme yapacaklar."
+    },
+    {
+      "id": "18d26b8d",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Manav Tezgâhı yeni mahsul tarifeleri nedeniyle şu anda bir kıtlık çekiyor. Oakfield'e el altından mahsul getiren bir girişimci mallarını elden çıkarmakta hiç zorlanmayacaktır."
+    },
+    {
+      "id": "1ca03c55",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Manav Tezgâhı, plansız bir yetiştiriciler toplantısında stokların çoğunun üzerine oturulması nedeniyle şu anda küçük bir kıtlık yaşıyor. Aklı başında meyve sebze satıcıları burada satış yaparak iyi kazanır."
+    },
+    {
+      "id": "1dd5a4d7",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Dövmecisi önümüzdeki birkaç gün boyunca indirimde. Kolunuza, göğsünüze, yüzünüze, nereye isterseniz bir iğne batırtmak için harika bir fırsat!"
+    },
+    {
+      "id": "1ecf9ddf",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Manav Tezgâhı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Kelepir fiyatlarla sağlıklı beslenin!"
+    },
+    {
+      "id": "223aba95",
+      "bank_id": "f0beb600",
+      "text": "Manav Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "22b74314",
+      "bank_id": "f0beb600",
+      "text": "Taş Kesici Kıtlığı"
+    },
+    {
+      "id": "231142a4",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Silah Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Tasarruf ettiğiniz altınlar, kaliteli mallarımızla haydutları katlettiğinizde onların almaya geldiği şey olabilir!"
+    },
+    {
+      "id": "246aca77",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide Büyük Kıtlık"
+    },
+    {
+      "id": "265dc9be",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Dövmecisi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Mürekkep ucuzladı!"
+    },
+    {
+      "id": "283b0d70",
+      "bank_id": "f0beb600",
+      "text": "Taş Kesici Devasa Kıtlığı"
+    },
+    {
+      "id": "30a063f8",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Dövmecisi önümüzdeki birkaç gün boyunca indirimde. Uygun fiyatlarla vücudunuzu çekici desenlerle süsleyin."
+    },
+    {
+      "id": "38c424a2",
+      "bank_id": "f0beb600",
+      "text": "Tüccar Kıtlığı"
+    },
+    {
+      "id": "3ae44f9f",
+      "bank_id": "f0beb600",
+      "text": "Manav Tezgâhı Kıtlığı"
+    },
+    {
+      "id": "3b3ca8c0",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide Büyük Kıtlık"
+    },
+    {
+      "id": "3b72674a",
+      "bank_id": "f0beb600",
+      "text": "Tüccar Devasa Kıtlığı"
+    },
+    {
+      "id": "3ef89694",
+      "bank_id": "f0beb600",
+      "text": "Tüccar Büyük Kıtlığı"
+    },
+    {
+      "id": "3f42d501",
+      "bank_id": "f0beb600",
+      "text": "Erkek Terzisi Kıtlığı"
+    },
+    {
+      "id": "40f95bfe",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Silah Tezgâhı, yerel halkın Işık Tapınağı'nın pasifist öğretilerini fazla ciddiye alması nedeniyle şu anda büyük bir kıtlık yaşıyor. Girişimci biri halkı yeniden silahlandırarak iyi para kazanabilir."
+    },
+    {
+      "id": "4644859c",
+      "bank_id": "f0beb600",
+      "text": "Taş Kesici Büyük İndirimi"
+    },
+    {
+      "id": "4f96cd85",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Giyim Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Üşüyorsanız yardımcı olabiliriz."
+    },
+    {
+      "id": "50f11648",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide İndirim"
+    },
+    {
+      "id": "54ba2802",
+      "bank_id": "f0beb600",
+      "text": "Taş Kesici Devasa İndirimi"
+    },
+    {
+      "id": "5675909d",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide Devasa İndirim"
+    },
+    {
+      "id": "58d4bf58",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Taş Kesicisi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Daha fazla beklemeyin; o silahı hemen bugün daha ölümcül hale getirin!"
+    },
+    {
+      "id": "59f79635",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Dövmecisi tedarik sorunları nedeniyle şu anda küçük bir kıtlık yaşıyor. Fiyatlar arttı ancak sunabileceğiniz eşyalar için ekstra ödeme yapacaklar."
+    },
+    {
+      "id": "5f9227b5",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide Büyük İndirim"
+    },
+    {
+      "id": "62f65eb4",
+      "bank_id": "f0beb600",
+      "text": "Tüccar İndirimi"
+    },
+    {
+      "id": "687dd0b6",
+      "bank_id": "f0beb600",
+      "text": "Silah Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "6b058484",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Dövmecisi tedarik sorunları nedeniyle şu anda büyük bir kıtlık yaşıyor. Fiyatlar arttı ancak sunabileceğiniz eşyalar için devasa ödemeler yapacaklar."
+    },
+    {
+      "id": "6b9c79fe",
+      "bank_id": "f0beb600",
+      "text": "Tüccar Büyük İndirimi"
+    },
+    {
+      "id": "6cd52b5e",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide Devasa Kıtlık"
+    },
+    {
+      "id": "70eb9a28",
+      "bank_id": "f0beb600",
+      "text": "Silah Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "76b58907",
+      "bank_id": "f0beb600",
+      "text": "Giyim Tezgâhı İndirimi"
+    },
+    {
+      "id": "790d8757",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Giyim Tezgâhı güveler yüzünden şu anda küçük bir kıtlık yaşıyor. Aptal güveler! Güvesiz her türlü kıyafet burada çok rağbet görüyor."
+    },
+    {
+      "id": "7f256f77",
+      "bank_id": "f0beb600",
+      "text": "Handa Devasa İndirim"
+    },
+    {
+      "id": "7f40944e",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Tüccarı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Kelepir avına çıkın ve köşeyi dönün."
+    },
+    {
+      "id": "82e66ab6",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Taş Kesicisi önümüzdeki birkaç gün boyunca indirimde. Bu efsun taşlarını sıcağı sıcağına ya da elektrikliyken veya yara izine dirençliyken kapın."
+    },
+    {
+      "id": "835ca6bd",
+      "bank_id": "f0beb600",
+      "text": "Manav Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "83da45b1",
+      "bank_id": "f0beb600",
+      "text": "Handa Devasa Kıtlık"
+    },
+    {
+      "id": "8cf94552",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Dövmecisi tedarik sorunları nedeniyle şu anda bir kıtlık yaşıyor. Fiyatlar arttı ancak sunabileceğiniz eşyalar için iyi para ödeyecekler."
+    },
+    {
+      "id": "8d2ef33a",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide Büyük İndirim"
+    },
+    {
+      "id": "8ef31ae3",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Meyhanesi, mekândaki şiddetli bir arbede sırasında stokların tahrip olması nedeniyle şu anda küçük bir kıtlık yaşıyor. Hırpalanmamış veya bozulmamış her türlü yiyecek ve içeceği almaya can atıyorlar."
+    },
+    {
+      "id": "92959cc4",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Taş Kesicisi, tedarikçiyle yaşanan bir anlaşmazlık nedeniyle şu anda bir kıtlık yaşıyor. Onlara biraz efsun taşı temin etmek isterseniz, iyi para kazanırsınız."
+    },
+    {
+      "id": "94453057",
+      "bank_id": "f0beb600",
+      "text": "Manav Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "96dfab9e",
+      "bank_id": "f0beb600",
+      "text": "Taş Kesici Büyük Kıtlığı"
+    },
+    {
+      "id": "97e5a659",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Dövmecisi tedarik sorunları nedeniyle şu anda büyük bir kıtlık yaşıyor. Fiyatlar arttı ancak sunabileceğiniz eşyalar için devasa ödemeler yapacaklar."
+    },
+    {
+      "id": "9891d64d",
+      "bank_id": "f0beb600",
+      "text": "Giyim Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "98a782c9",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Meyhanesi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Ucuz içkiden daha iyisi yoktur! (Benzer şekilde ucuz olan alkolsüz içeceklerimiz de mevcuttur.)"
+    },
+    {
+      "id": "99f7dc62",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Taş Kesicisi, haydut faaliyetleri (gerçek ve hayali) nedeniyle şu anda büyük bir kıtlık çekiyor. Efsun taşı satmak istiyorsanız oraya gidin. Sadece haydutlara dikkat edin (belki)."
+    },
+    {
+      "id": "9bc68366",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide Kıtlık"
+    },
+    {
+      "id": "9c5d7f8b",
+      "bank_id": "f0beb600",
+      "text": "Handa İndirim"
+    },
+    {
+      "id": "a4e01ffe",
+      "bank_id": "f0beb600",
+      "text": "Silah Tezgâhı İndirimi"
+    },
+    {
+      "id": "a57e067a",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Dövmecisi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Tasarruf ettiğiniz parayla daha da çok dövme yaptırabilirsiniz."
+    },
+    {
+      "id": "a5daba27",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Manav Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Daha iyi fiyatları bulabileceğiniz tek yer daha büyük indirimi olan bir tezgâhtır."
+    },
+    {
+      "id": "a8f805ad",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Dövmecisi tedarik sorunları nedeniyle şu anda bir kıtlık yaşıyor. Fiyatlar arttı ancak sunabileceğiniz eşyalar için iyi para ödeyecekler."
+    },
+    {
+      "id": "ac8ef984",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide Devasa İndirim"
+    },
+    {
+      "id": "b561bb9a",
+      "bank_id": "f0beb600",
+      "text": "Taş Kesici İndirimi"
+    },
+    {
+      "id": "baca0a35",
+      "bank_id": "f0beb600",
+      "text": "Giyim Tezgâhı Kıtlığı"
+    },
+    {
+      "id": "bb94e6c9",
+      "bank_id": "f0beb600",
+      "text": "Handa Kıtlık"
+    },
+    {
+      "id": "bc87d8ae",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Taş Kesicisi ailevi bir hastalık nedeniyle şu anda küçük bir kıtlık yaşıyor. Bulaşıcı değildir, bu yüzden elden çıkarmak istediğiniz efsun taşları varsa uğrayın."
+    },
+    {
+      "id": "bda80328",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Tüccarı, bölgesel sos kıtlığının zincirleme etkileri nedeniyle şu anda büyük bir kıtlık çekiyor. Sizin gibi bir Kahraman bürokrasiyi aşıp mallarını satarak voleyi vurabilir."
+    },
+    {
+      "id": "be489d3b",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Meyhanesi sağlık ve güvenlik şikâyetleri nedeniyle şu anda bir kıtlık çekiyor. Sağlıklı yiyecek ve içecekleriniz varsa size fazlasıyla ödeme yapacaklardır."
+    },
+    {
+      "id": "c3dcdb5c",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Silah Tezgâhı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Ucuz bir şey alın ve hemen bugün birinin kafasına geçirin!"
+    },
+    {
+      "id": "c4e0d302",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Tüccarı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. İndirimleri seviyorsanız bunu daha da çok seveceksiniz."
+    },
+    {
+      "id": "c52eff5b",
+      "bank_id": "f0beb600",
+      "text": "Manav Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "c5788ada",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Silah Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Ona özel biri olduğunu hissettirecek o süslü savaş çekicini evinize götürün."
+    },
+    {
+      "id": "cde31b81",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Giyim Tezgâhı, bir grup natüristin kasabadaki herkesi kıyafet almayı bırakmaya ikna etmesinin ardından önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor."
+    },
+    {
+      "id": "d0aa6490",
+      "bank_id": "f0beb600",
+      "text": "Tüccar Devasa İndirimi"
+    },
+    {
+      "id": "d8c92c2e",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Tüccarı, imar kısıtlamaları konusundaki uzayan bir anlaşmazlık nedeniyle şu anda bir kıtlık yaşıyor. Fırsat, kurnaz pazarlıkçıyı bekliyor."
+    },
+    {
+      "id": "dc7fc75d",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Giyim Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Fiyatlarımız tam anlamıyla çılgınca sayılmaz, ancak biraz dengesizdir."
+    },
+    {
+      "id": "de03ce37",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Manav Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Tüm kök sebzeler ve yuvarlakımsı meyveler indirimde."
+    },
+    {
+      "id": "defecb79",
+      "bank_id": "f0beb600",
+      "text": "Oakfield Manav Tezgâhı, o hınzır Vic'in mallarımızın çoğunu yemiş olması nedeniyle şu anda büyük bir kıtlık çekiyor. Bir mahsul satıcısı kesinlikle iyi para kazanabilir."
+    },
+    {
+      "id": "df077b80",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Tüccarı, son zamanlarda açıklanamayan birkaç kundaklama eylemi nedeniyle şu anda küçük bir kıtlık çekiyor. Satacak bir şeyiniz varsa burası tam yeri."
+    },
+    {
+      "id": "e8188281",
+      "bank_id": "f0beb600",
+      "text": "Handa Büyük Kıtlık"
+    },
+    {
+      "id": "e9cd9ca4",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Tüccarı önümüzdeki birkaç gün boyunca indirimde. Uğrayın ve çılgınca ticaret yapın!"
+    },
+    {
+      "id": "ef9aa805",
+      "bank_id": "f0beb600",
+      "text": "Giyim Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "f32428bf",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Dövmecisi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Kalıcı desenlerle kaplanmak için daha iyi bir zaman olmamıştı!"
+    },
+    {
+      "id": "f3c49dc5",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide İndirim"
+    },
+    {
+      "id": "f6fdac7f",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide Kıtlık"
+    },
+    {
+      "id": "f790f3cb",
+      "bank_id": "f0beb600",
+      "text": "Bowerstone Meyhanesi, küçük bir kervan soygunu nedeniyle şu anda büyük bir kıtlık yaşıyor. Fazla yiyecek ve içeceklerinizi burada satabilirsiniz!"
+    },
+    {
+      "id": "fafd7f60",
+      "bank_id": "f0beb600",
+      "text": "Çingene Kampı Taş Kesicisi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Efsun taşlarına ihtiyacınız varsa size öyle bir teklif yapabiliriz ki!"
+    },
+    {
+      "id": "fb9c3a3b",
+      "bank_id": "f0beb600",
+      "text": "Dövmecide Devasa Kıtlık"
+    }
+  ]
+}

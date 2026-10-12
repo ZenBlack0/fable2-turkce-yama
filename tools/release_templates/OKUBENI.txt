@@ -1,0 +1,107 @@
+FABLE II TÜRKÇE YAMA — v@VERSION@
+=================================
+
+Bu yama, Fable II (Game of the Year / Platinum sürümü) oyununu Xenia Canary
+emülatöründe Türkçe oynamanızı sağlar (menüler, görevler, konuşmalar ve altyazılar).
+
+Bu pakette oyunun kendisi YOKTUR. Kendi Fable II ISO dosyanızı kullanırsınız;
+kurucu yalnızca küçük "fark yamaları" uygular.
+
+
+1) GEREKSİNİMLER
+----------------
+ * Windows 10 veya 11 (64 bit)
+ * Fable II GOTY / Platinum ISO dosyası (Xbox 360, Title ID 4D5307F1, Media ID 716F0A0D).
+   Başka sürümler (ör. ilk çıkış diski) çalışmaz; kurucu sizi uyarır.
+ * Xenia Canary — https://github.com/xenia-canary/xenia-canary-releases/releases
+   adresinden indirin, bir klasöre çıkarın ve BİR KEZ açıp kapatın
+   (ayar dosyasını oluşturması için).
+ * Yaklaşık 9 GB boş disk alanı (ISO oyun klasörüne çıkarılır).
+
+
+2) KURULUM
+----------
+ 1. Fable2_Turkce_Kurulum.exe dosyasına çift tıklayın.
+    (Windows "bilinmeyen yayıncı" derse: Ek bilgi → Yine de çalıştır. Bkz. SSS.)
+ 2. Kurucu sırayla şunları sorar:
+    a) "Fable II ISO dosyasını seçin": ISO dosyanızı gösterin. Kurucu doğru oyun
+       olup olmadığını kontrol eder.
+    b) "HEDEF klasörü seçin": oyunun çıkarılacağı boş bir klasör (örn. D:\Fable2).
+       Birkaç dakika sürer.
+    c) Yama otomatik uygulanır ve her dosya doğrulanır.
+    d) "Xenia Canary klasörünü seçin": xenia_canary.exe dosyasının bulunduğu klasör.
+       Xenia o sırada KAPALI olmalıdır.
+ 3. Kurucu şunları kendisi yapar: Xenia ayarlarını (altyazılar için gerekli
+    ROV ayarı dahil) düzenler, eski ayar dosyasının yedeğini alır, Xenia'nın
+    Fable II yamalarını açar ve shader önbelleğini temizler.
+ 4. "Kurulum tamamlandı" mesajını görünce bitti. Ayrıntılar, hedef klasördeki
+    kurulum_raporu.txt dosyasındadır.
+
+
+3) OYUNU BAŞLATMA
+-----------------
+ 1. Xenia Canary'yi açın, File → Open ile hedef klasördeki default.xex dosyasını seçin.
+ 2. Oyunda Seçenekler (Options) → Dil (Language) = English (United Kingdom) seçili olsun.
+    Yama İngilizce (UK) dil dosyasının yerine geçtiği için Türkçe görünür.
+ 3. Altyazıları oyun içi Seçenekler'den açık tutun.
+
+
+4) SIK SORULANLAR
+-----------------
+S: Altyazılar görünmüyor.
+C: Xenia'da altyazılar yalnızca ROV ayarıyla görünür. Kurucu bunu ayarlar. Elle:
+   Xenia'yı KAPATIN, xenia-canary.config.toml dosyasında [GPU] bölümünde
+   render_target_path_d3d12 = "rov"  yazdığından emin olun. ROV bazı bilgisayarlarda
+   daha yavaş olabilir.
+
+S: Yeni bir yere ilk girdiğimde oyun kısa süre donuyor.
+C: Normaldir. Görüntü bozulmasın diye shader'lar arka planda değil anında derlenir
+   (async_shader_compilation = false). Oynadıkça shader önbelleği dolar ve donmalar
+   azalır.
+
+S: GPU sürekli %99 çalışıyor.
+C: Kurucu kare hızını 60'a sınırlar (framerate_limit = 60). Ayar yoksa Xenia
+   config'inde [GPU] altına framerate_limit = 60 yazın.
+
+S: Antivirüs / SmartScreen uyarı veriyor.
+C: Kurucu imzasız bir programdır ve xdelta3.exe (fark yaması aracı) içerir; bu yüzden
+   bazı antivirüsler yanlış alarm verebilir. Güvenmiyorsanız kurucuyu kullanmayın;
+   Elle_Kurulum klasöründeki yama_uygula.bat yöntemini deneyin. Dosyaların özetlerini
+   SHA256SUMS.txt ile karşılaştırabilirsiniz. Antivirüs xdelta3.exe'yi engellerse,
+   kurulum süresince korumayı geçici kapatmanız gerekebilir.
+
+S: "Bu ISO yamayla uyumlu değil" veya "orijinal sürümle eşleşmiyor" hatası.
+C: Yalnızca Fable II GOTY/Platinum (Media ID 716F0A0D) desteklenir. Önceden
+   değiştirilmiş (başka yama uygulanmış) bir oyun klasörü de bu hatayı verir:
+   yeni, boş bir hedef klasör seçip ISO'dan yeniden çıkarın.
+
+S: Kurulumu nasıl geri alırım?
+C: Oyunu yeni bir klasöre çıkardığınız için orijinal ISO'nuz hiç değişmez. Geri almak
+   için hedef klasörü silmeniz yeterlidir. Xenia ayarlarını eski haline getirmek için
+   Xenia klasöründeki xenia-canary.config.toml.yedek-<tarih> dosyasını
+   xenia-canary.config.toml adıyla geri kopyalayın (Xenia kapalıyken). Yamalar için
+   patches klasöründeki .yedek-<tarih> dosyası aynı şekilde geri kopyalanır.
+
+S: Bazı yerler İngilizce kaldı veya yazı taşıyor.
+C: Bunu bildirin (aşağıya bakın).
+
+
+5) HATA BİLDİRME
+----------------
+ @REPO_URL@/issues
+adresinden "Çeviri hatası" veya "Teknik sorun" şablonunu seçin. Lütfen ekleyin:
+ * Ekran görüntüsü (mümkünse görüntü + altyazı birlikte)
+ * Oyundaki bölge / görev adı ve konuşan karakter
+ * Yanlış görünen metin ve varsa önerdiğiniz düzeltme
+ * Teknik sorunlarda: Xenia sürümü, ekran kartınız, kurulum_raporu.txt
+
+
+6) TEŞEKKÜRLER
+--------------
+ * Fable II PT-BR çeviri projesi — format araştırmasına ışık tuttu
+ * Fable2Modding topluluğu
+ * xenia-fable2-patches / xenia-canary game-patches yazarları
+ * Xenia ve Xenia Canary geliştiricileri
+ * xdelta (Joshua MacDonald)
+ Fable II, Lionhead Studios / Microsoft'a aittir. Bu proje resmi değildir; oyunun
+ hiçbir dosyasını içermez.

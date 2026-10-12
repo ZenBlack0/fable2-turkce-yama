@@ -1,0 +1,801 @@
+{
+  "bank_id": "60b23602",
+  "total_strings": 159,
+  "strings": [
+    {
+      "id": "0090c9c0",
+      "bank_id": "60b23602",
+      "text": "Ağaç öğütme makinesinden geçmiş gibisin. Hiç karşılık vermez misin sen?"
+    },
+    {
+      "id": "0090c9c2",
+      "bank_id": "60b23602",
+      "text": "Epey bir dayak yemişsin ha, değil mi?"
+    },
+    {
+      "id": "0090c9c5",
+      "bank_id": "60b23602",
+      "text": "Dövüşmekten çok yerde yuvarlanarak vakit geçirmişe benziyorsun."
+    },
+    {
+      "id": "01f96f7a",
+      "bank_id": "60b23602",
+      "text": "Bıyık bırakacaksan onunkisi kadar iyi görünmeli."
+    },
+    {
+      "id": "01f96f7d",
+      "bank_id": "60b23602",
+      "text": "Hmm, dudağının üstünden o kılların nasıl döküldüğüne baksana bir. Muazzam, değil mi?"
+    },
+    {
+      "id": "05f619e0",
+      "bank_id": "60b23602",
+      "text": "Birkaç kez adamakıllı kırbaçlanmadan bu kadar yara izi alamazsın."
+    },
+    {
+      "id": "05f619e4",
+      "bank_id": "60b23602",
+      "text": "Hmm, ağır yaralandıkları yerlerdeki yara izlerini görebiliyorsun."
+    },
+    {
+      "id": "0af62180",
+      "bank_id": "60b23602",
+      "text": "Dünyanın en iyi dövüşçüsü olamaz, baksana üzerinde bir sürü yara izi var."
+    },
+    {
+      "id": "0af62187",
+      "bank_id": "60b23602",
+      "text": "Sadece yara izlerine bakarak bile kaç kez yere serildiklerini anlayabilirsin."
+    },
+    {
+      "id": "0af97d4e",
+      "bank_id": "60b23602",
+      "text": "Bütün gün okşamak isteyeceğin türden bir bıyık."
+    },
+    {
+      "id": "0e2fedcd",
+      "bank_id": "60b23602",
+      "text": "Ha ha! Üstünde hiçbir şey yok!"
+    },
+    {
+      "id": "0f90e800",
+      "bank_id": "60b23602",
+      "text": "Becerilerin gelişmezse büsbütün tanınmaz hale gelme yolundasın."
+    },
+    {
+      "id": "0f90e804",
+      "bank_id": "60b23602",
+      "text": "Tanınmayacak kadar yara bere içinde kalmadan önce o saldırılardan korunsan iyi edersin."
+    },
+    {
+      "id": "0f90e807",
+      "bank_id": "60b23602",
+      "text": "Bayağı darbe almışsın bakıyorum. Ama daha kötülerini de gördüm."
+    },
+    {
+      "id": "12bb18fb",
+      "bank_id": "60b23602",
+      "text": "Dükkânda buna benzer ayakkabılar gördüm ama gücüm yetmedi almaya."
+    },
+    {
+      "id": "12bb18fc",
+      "bank_id": "60b23602",
+      "text": "O kalitede bir çift ayakkabıya sahip olmak için her şeyini vermez miydin?"
+    },
+    {
+      "id": "1490f020",
+      "bank_id": "60b23602",
+      "text": "Belki daha iyi dövüşseydin bu kadar yara izin olmazdı."
+    },
+    {
+      "id": "1490f026",
+      "bank_id": "60b23602",
+      "text": "Bütün o yara izlerini nereden aldın öyle?"
+    },
+    {
+      "id": "1490f027",
+      "bank_id": "60b23602",
+      "text": "Görünüşe bakılırsa fena dayaklar yemişsin."
+    },
+    {
+      "id": "192fff7c",
+      "bank_id": "60b23602",
+      "text": "Üstünde hiçbir şey yokken üşümüyor musun?"
+    },
+    {
+      "id": "1ac09482",
+      "bank_id": "60b23602",
+      "text": "Ormanda devriye gezen korucu musun sen?"
+    },
+    {
+      "id": "1bbb26c8",
+      "bank_id": "60b23602",
+      "text": "Bahse girerim o ayakkabılar çok rahattır."
+    },
+    {
+      "id": "1bbb26cf",
+      "bank_id": "60b23602",
+      "text": "Kendime tam da şunlar gibi bir çift ayakkabı aşırmalıyım."
+    },
+    {
+      "id": "27e91780",
+      "bank_id": "60b23602",
+      "text": "Bazı insanlarda zerre saygı yok."
+    },
+    {
+      "id": "27e91786",
+      "bank_id": "60b23602",
+      "text": "Görmek istediğim en son şeydi bu."
+    },
+    {
+      "id": "2ee92283",
+      "bank_id": "60b23602",
+      "text": "Zamanında çok çıplak vücut gördüm ama bu midemi bulandıracak."
+    },
+    {
+      "id": "2ee92284",
+      "bank_id": "60b23602",
+      "text": "Lütfen ama, gerçekten buna katlanmak zorunda mıyız?"
+    },
+    {
+      "id": "362617c9",
+      "bank_id": "60b23602",
+      "text": "Ortalıkta çıplak gezmek istiyorsan bana uyar."
+    },
+    {
+      "id": "362617cd",
+      "bank_id": "60b23602",
+      "text": "İşte öyle! Göster bakalım hünerlerini!"
+    },
+    {
+      "id": "362617cf",
+      "bank_id": "60b23602",
+      "text": "Sal gitsin her şeyi be!"
+    },
+    {
+      "id": "40c13dc8",
+      "bank_id": "60b23602",
+      "text": "Vay vay, baskıcı üst sınıfların bir mensubu musunuz yoksa?"
+    },
+    {
+      "id": "40c13dca",
+      "bank_id": "60b23602",
+      "text": "Pek pahalı kıyafetlermiş bunlar."
+    },
+    {
+      "id": "40c13dcb",
+      "bank_id": "60b23602",
+      "text": "Aman da pek bir asil görünüyorsun!"
+    },
+    {
+      "id": "40c13dcc",
+      "bank_id": "60b23602",
+      "text": "Senin o süslü kıyafetlerini giyeceğime patates çuvalı giyerim daha iyi."
+    },
+    {
+      "id": "40c13dcd",
+      "bank_id": "60b23602",
+      "text": "İki parça gösterişli kıyafet yüzünden benden üstün olduğunu mu sanıyorsun?"
+    },
+    {
+      "id": "40c13dce",
+      "bank_id": "60b23602",
+      "text": "Kıyafet seçiminizden çok etkilendim."
+    },
+    {
+      "id": "40c13dcf",
+      "bank_id": "60b23602",
+      "text": "Üzerinizdeki ne muhteşem bir kıyafet öyle."
+    },
+    {
+      "id": "41262979",
+      "bank_id": "60b23602",
+      "text": "Herkes çırılçıplak gezip de paçayı kurtaramaz ama sana yakışmış."
+    },
+    {
+      "id": "4126297e",
+      "bank_id": "60b23602",
+      "text": "Tabiatın giysisi. Bunun üstüne yok, değil mi?"
+    },
+    {
+      "id": "4126297f",
+      "bank_id": "60b23602",
+      "text": "Yapılması gereken bu işte. Tabiatla bağı koparmamak."
+    },
+    {
+      "id": "45c145e9",
+      "bank_id": "60b23602",
+      "text": "Vay canına, şuna da bak. Amma da sosyetiksin ha."
+    },
+    {
+      "id": "45c145ea",
+      "bank_id": "60b23602",
+      "text": "Pek bir klas görünüyorsun."
+    },
+    {
+      "id": "45c145eb",
+      "bank_id": "60b23602",
+      "text": "Keşke şunlar gibi kıyafetler alacak param olsaydı."
+    },
+    {
+      "id": "45c145ec",
+      "bank_id": "60b23602",
+      "text": "Ooh... Gülünç görünüyorsun!"
+    },
+    {
+      "id": "45c145ed",
+      "bank_id": "60b23602",
+      "text": "Kim sanıyorsun sen kendini ha?! Kral falan mı??"
+    },
+    {
+      "id": "45c145ee",
+      "bank_id": "60b23602",
+      "text": "Ah, evet, son derece harika bir kıyafet seçimi."
+    },
+    {
+      "id": "45c145ef",
+      "bank_id": "60b23602",
+      "text": "Aah, kılığınızı kıyafetinizi pek beğendim."
+    },
+    {
+      "id": "492bcd98",
+      "bank_id": "60b23602",
+      "text": "Bu edepsizliktir! Derhâl örtünün!"
+    },
+    {
+      "id": "492bcd99",
+      "bank_id": "60b23602",
+      "text": "Vah vah, ayıbınızı örtecek bir giysi almaya gücünüz yetmedi mi?"
+    },
+    {
+      "id": "492bcd9a",
+      "bank_id": "60b23602",
+      "text": "Hey, üstüne bir şeyler giymeye ne dersin?"
+    },
+    {
+      "id": "492bcd9e",
+      "bank_id": "60b23602",
+      "text": "Öyle üşümüyor musun?"
+    },
+    {
+      "id": "522bdbe8",
+      "bank_id": "60b23602",
+      "text": "Burası striptiz kulübüne mi benziyor?"
+    },
+    {
+      "id": "522bdbec",
+      "bank_id": "60b23602",
+      "text": "Çıplak doğduk diye çıplak yaşamak zorunda değiliz."
+    },
+    {
+      "id": "522bdbed",
+      "bank_id": "60b23602",
+      "text": "Lütfen, çırılçıplak şahıslarla uğraşmadan da uyumakta yeterince zorlanıyorum zaten."
+    },
+    {
+      "id": "522bdbee",
+      "bank_id": "60b23602",
+      "text": "Çıplak koşucu!"
+    },
+    {
+      "id": "5373fca8",
+      "bank_id": "60b23602",
+      "text": "Hepimize bir iyilik yap da giyin hadi, olur mu?"
+    },
+    {
+      "id": "5373fcaa",
+      "bank_id": "60b23602",
+      "text": "Hepimizin midesini bulandırmana gerek yok. Üstüne bir şeyler giy."
+    },
+    {
+      "id": "5373fcac",
+      "bank_id": "60b23602",
+      "text": "Hey sen, ört şu çirkin derini!"
+    },
+    {
+      "id": "58740449",
+      "bank_id": "60b23602",
+      "text": "Üstüne bir şeyler giyer misin lütfen? Zaten yeterince kabus görüyorum."
+    },
+    {
+      "id": "5874044a",
+      "bank_id": "60b23602",
+      "text": "Örtün üstünü! Çocukları travmaya sokacaksın! Beni de!"
+    },
+    {
+      "id": "5874044d",
+      "bank_id": "60b23602",
+      "text": "Ört şu pisliğini seni sapık!"
+    },
+    {
+      "id": "7dec07ca",
+      "bank_id": "60b23602",
+      "text": "Kazara bir serseriye denk geldiğimden beri bu kadar iğrenç bir kılık görmemiştim."
+    },
+    {
+      "id": "7dec07cb",
+      "bank_id": "60b23602",
+      "text": "Sefaletinize şahit olmak istemiyorum. Yıkılın karşımdan."
+    },
+    {
+      "id": "88ec197a",
+      "bank_id": "60b23602",
+      "text": "O aşağılık kılıkla soluduğumuz havayı bile kirletiyorsunuz."
+    },
+    {
+      "id": "88ec197b",
+      "bank_id": "60b23602",
+      "text": "Buralarda evsiz kıyafetiyle dolaşmak yasaya aykırı değil mi?"
+    },
+    {
+      "id": "8a107cab",
+      "bank_id": "60b23602",
+      "text": "Yerde pek vakit geçirmişe benzemiyor. Neredeyse hiç yara izi yok."
+    },
+    {
+      "id": "8a107cae",
+      "bank_id": "60b23602",
+      "text": "Orada burada bir iki çizik var mı? Ama pek yara izi yok. Etkileyici."
+    },
+    {
+      "id": "92d97828",
+      "bank_id": "60b23602",
+      "text": "Oh, giyim kuşam konusunda fevkalade iyi bir zevkiniz var."
+    },
+    {
+      "id": "92d97829",
+      "bank_id": "60b23602",
+      "text": "Aşkolsun, çığır açan modamı taklit ederek beni gururlandırıyorsunuz."
+    },
+    {
+      "id": "92d9782a",
+      "bank_id": "60b23602",
+      "text": "Pişti!"
+    },
+    {
+      "id": "92d9782b",
+      "bank_id": "60b23602",
+      "text": "Hey, benim gardırobumu mu karıştırdın sen?"
+    },
+    {
+      "id": "92d9782c",
+      "bank_id": "60b23602",
+      "text": "Albion'un en iyi giyim mağazalarından alışveriş yaptığını görüyorum."
+    },
+    {
+      "id": "92d9782d",
+      "bank_id": "60b23602",
+      "text": "Kıyafet zevklerimiz aynı görünüyor!"
+    },
+    {
+      "id": "92d9782e",
+      "bank_id": "60b23602",
+      "text": "Hey, kardeş bile olabiliriz!"
+    },
+    {
+      "id": "93108af8",
+      "bank_id": "60b23602",
+      "text": "Şunda neredeyse hiç yara izi yok."
+    },
+    {
+      "id": "93108afe",
+      "bank_id": "60b23602",
+      "text": "Yeni doğmuş bebek teni gibi! Bu kadar kavgaya karışmış biri için hiç fena değil."
+    },
+    {
+      "id": "9bd98678",
+      "bank_id": "60b23602",
+      "text": "Hey, güzel kıyafetler! Pişti olduk! Ha ha!"
+    },
+    {
+      "id": "9bd98679",
+      "bank_id": "60b23602",
+      "text": "Benimle aynı yerden mi alışveriş yaptın yoksa?"
+    },
+    {
+      "id": "9bd9867b",
+      "bank_id": "60b23602",
+      "text": "Kıyafetlerini cidden beğendim. Bende de tıpatıp aynısı var."
+    },
+    {
+      "id": "9bd9867c",
+      "bank_id": "60b23602",
+      "text": "Ne kadar şahane kıyafetleriniz var öyle."
+    },
+    {
+      "id": "9bd9867d",
+      "bank_id": "60b23602",
+      "text": "Terzinizi tavsiye eder misiniz acaba? Tam da bunlara benzer kıyafetlere ihtiyacım vardı."
+    },
+    {
+      "id": "9bd9867e",
+      "bank_id": "60b23602",
+      "text": "Ah evet, bu kombinin modası asla geçmez."
+    },
+    {
+      "id": "9bd9867f",
+      "bank_id": "60b23602",
+      "text": "Modadan anladığın kesin."
+    },
+    {
+      "id": "9f689812",
+      "bank_id": "60b23602",
+      "text": "Eteklerden pek anlamam ama bu tek kelimeyle berbat."
+    },
+    {
+      "id": "9f689813",
+      "bank_id": "60b23602",
+      "text": "Ne kadar iğrenç bir etek!"
+    },
+    {
+      "id": "9f689815",
+      "bank_id": "60b23602",
+      "text": "Neden böylesine iğrenç bir kumaş parçasını giyersin ki?"
+    },
+    {
+      "id": "aa68a942",
+      "bank_id": "60b23602",
+      "text": "Ne kadar korkunç bir etek."
+    },
+    {
+      "id": "aa68a943",
+      "bank_id": "60b23602",
+      "text": "O etek tam bir fecaat!"
+    },
+    {
+      "id": "aa68a945",
+      "bank_id": "60b23602",
+      "text": "O etek neyden yapılmış öyle? Hobbe derisinden mi?"
+    },
+    {
+      "id": "bb1c1b30",
+      "bank_id": "60b23602",
+      "text": "Hayırdır? Kıyafetlerin mi ıslandı?"
+    },
+    {
+      "id": "bb1c1b31",
+      "bank_id": "60b23602",
+      "text": "Çıplaklıkta yanlış bir şey yok."
+    },
+    {
+      "id": "bb1c1b37",
+      "bank_id": "60b23602",
+      "text": "Kıyafet almaya paran yetmiyorsa bizimkileri aşırmaya kalkma sakın."
+    },
+    {
+      "id": "bd863da1",
+      "bank_id": "60b23602",
+      "text": "Ne biçim eziksin sen be! Giydiğin şey etek yahu!"
+    },
+    {
+      "id": "bd863da2",
+      "bank_id": "60b23602",
+      "text": "Ne oldu? Bacakların pantolonuna sığmayacak kadar kalın mı geldi?"
+    },
+    {
+      "id": "c02b06b2",
+      "bank_id": "60b23602",
+      "text": "Bütün o savaşları daha fazla yara izi almadan atlatmayı nasıl başardın?"
+    },
+    {
+      "id": "c02b06b3",
+      "bank_id": "60b23602",
+      "text": "En azından onca dövüş yakışıklılığından bir şey kaybettirmemiş."
+    },
+    {
+      "id": "c02b06b5",
+      "bank_id": "60b23602",
+      "text": "Bana o numaralarını göstermelisin. Bu kadar az yara izi olduğuna göre bir bildiğin olmalı."
+    },
+    {
+      "id": "c3f7dc61",
+      "bank_id": "60b23602",
+      "text": "Şu çıplaklar kampından gelmiş olmalı. Yok dur bir dakika. Çıplaklar kampı yok ki."
+    },
+    {
+      "id": "c3f7dc67",
+      "bank_id": "60b23602",
+      "text": "Kimi insan kıyafet sever, kimi insan sevmez."
+    },
+    {
+      "id": "c41c291b",
+      "bank_id": "60b23602",
+      "text": "Dur söyleme. Tabiatla baş başa kalmak istiyorsun değil mi?"
+    },
+    {
+      "id": "c41c291d",
+      "bank_id": "60b23602",
+      "text": "Giysi almaya para yetmiyor ha? Bilirim o günleri."
+    },
+    {
+      "id": "c41c291f",
+      "bank_id": "60b23602",
+      "text": "Öyle ortalıkta gezerken üşümüyor musun hiç?"
+    },
+    {
+      "id": "c5e1c720",
+      "bank_id": "60b23602",
+      "text": "Ne kadar iğrenç kıyafetler öyle. Ay!"
+    },
+    {
+      "id": "c5e1c721",
+      "bank_id": "60b23602",
+      "text": "Aman yarabbi, o rezil kılığın gözlerimi kanatıyor!"
+    },
+    {
+      "id": "c5e1c722",
+      "bank_id": "60b23602",
+      "text": "Ben bile senden daha şık giyiniyorum."
+    },
+    {
+      "id": "c5e1c723",
+      "bank_id": "60b23602",
+      "text": "Ha, nesin sen öyle, kokmuş dilencinin teki mi?!"
+    },
+    {
+      "id": "c5e1c724",
+      "bank_id": "60b23602",
+      "text": "İşler pek iyi gitmiyor galiba? Üzülme, düzelir elbet."
+    },
+    {
+      "id": "c5e1c725",
+      "bank_id": "60b23602",
+      "text": "Bunlardan daha iyi kıyafetler almaya gücün yeter herhalde."
+    },
+    {
+      "id": "c5e1c727",
+      "bank_id": "60b23602",
+      "text": "Dilenciliğe başvurmak zorunda kalmışa benziyorsun. Durum o kadar mı vahim?"
+    },
+    {
+      "id": "c8f7e401",
+      "bank_id": "60b23602",
+      "text": "Gördüğüm en özgür ruhlu insan vallahi."
+    },
+    {
+      "id": "c8f7e405",
+      "bank_id": "60b23602",
+      "text": "Sence de kıyafetleri fazla mı kısıtlayıcı bulmuşlar?"
+    },
+    {
+      "id": "cb2b17e0",
+      "bank_id": "60b23602",
+      "text": "Cildin hâlâ gayet sağlıklı görünüyor. Bahse girerim pek vurmalarına izin vermiyorsun, değil mi?"
+    },
+    {
+      "id": "cb2b17e2",
+      "bank_id": "60b23602",
+      "text": "Korkunç şekilde yara bere içinde kalmamayı nasıl beceriyor acaba?"
+    },
+    {
+      "id": "cb2b17e4",
+      "bank_id": "60b23602",
+      "text": "O yara izlerini uzak tutacak kadar bayağı yeteneklisin ha, değil mi?"
+    },
+    {
+      "id": "cce1d228",
+      "bank_id": "60b23602",
+      "text": "Düzgün kıyafetler alamayacak kadar tembel misin yani?"
+    },
+    {
+      "id": "cce1d229",
+      "bank_id": "60b23602",
+      "text": "Görünüşe göre talihin yaver gitmemiş. O yollardan ben de geçtim dostum."
+    },
+    {
+      "id": "cce1d22a",
+      "bank_id": "60b23602",
+      "text": "Hey, ben o kıyafetleri geçen yıl hayır kurumuna bağışlamamış mıydım?"
+    },
+    {
+      "id": "cce1d22c",
+      "bank_id": "60b23602",
+      "text": "Böylesine sefil kıyafetler giyeceğime çırılçıplak yürürüm daha iyi."
+    },
+    {
+      "id": "cce1d22d",
+      "bank_id": "60b23602",
+      "text": "Ayaktakımının üniformasını giymişsiniz."
+    },
+    {
+      "id": "cce1d22e",
+      "bank_id": "60b23602",
+      "text": "O kıyafetleri nereden buldun öyle? Çöplükten mi?"
+    },
+    {
+      "id": "cce1d22f",
+      "bank_id": "60b23602",
+      "text": "Senin gibi bir maceracı doğru dürüst kıyafetler bile alamıyor mu yani? Neyin var senin?"
+    },
+    {
+      "id": "ce34c7e1",
+      "bank_id": "60b23602",
+      "text": "Onları giyeceğime yalınayak gezerim daha iyi."
+    },
+    {
+      "id": "ce34c7e4",
+      "bank_id": "60b23602",
+      "text": "O ayakkabıları giyeceğine ayaklarını kessen daha iyi."
+    },
+    {
+      "id": "d5ee8640",
+      "bank_id": "60b23602",
+      "text": "Fairfax ailesine mi mensupsunuz acaba?"
+    },
+    {
+      "id": "d5ee8641",
+      "bank_id": "60b23602",
+      "text": "Ne kadar şahane kumaşlar giyiyorsunuz öyle."
+    },
+    {
+      "id": "d934d913",
+      "bank_id": "60b23602",
+      "text": "O ayakkabıları giymek için içlerine ne kaçtı acaba?"
+    },
+    {
+      "id": "d934d914",
+      "bank_id": "60b23602",
+      "text": "Hayatımda bu kadar çirkin bir çift ayakkabı görmedim."
+    },
+    {
+      "id": "dcee914c",
+      "bank_id": "60b23602",
+      "text": "Ah evet, halka tepeden bakan birine en yakışır kıyafet doğrusu."
+    },
+    {
+      "id": "dcee914d",
+      "bank_id": "60b23602",
+      "text": "Terziniz kim acaba? Son derece harika bir kıyafet."
+    },
+    {
+      "id": "dd115aea",
+      "bank_id": "60b23602",
+      "text": "Onca ayakkabı varken seçe seçe onları mı seçtin?"
+    },
+    {
+      "id": "dd115aeb",
+      "bank_id": "60b23602",
+      "text": "Neden öyle ayakkabılar seçersin ki?"
+    },
+    {
+      "id": "dd115aec",
+      "bank_id": "60b23602",
+      "text": "Ayakların sana ne yaptı da onları böyle cezalandırıyorsun?"
+    },
+    {
+      "id": "dfee3e51",
+      "bank_id": "60b23602",
+      "text": "Vay canına, keşke bende de öyle bir etek olsaydı!"
+    },
+    {
+      "id": "dfee3e56",
+      "bank_id": "60b23602",
+      "text": "O etek uğruna ölünecek cinsten!"
+    },
+    {
+      "id": "dfee3e57",
+      "bank_id": "60b23602",
+      "text": "Vay canına, keşke bende de öyle bir etek olsaydı!"
+    },
+    {
+      "id": "e2116289",
+      "bank_id": "60b23602",
+      "text": "O ayakkabılar pek iyi değil."
+    },
+    {
+      "id": "e211628b",
+      "bank_id": "60b23602",
+      "text": "Normalde bunu söylemem ama o ayakkabılar berbat."
+    },
+    {
+      "id": "e211628c",
+      "bank_id": "60b23602",
+      "text": "Ölsem de senin ayakkabılarını giymem."
+    },
+    {
+      "id": "e22b9ef1",
+      "bank_id": "60b23602",
+      "text": "Keşke bunu yapacak cesaretim olsaydı!"
+    },
+    {
+      "id": "e22b9ef7",
+      "bank_id": "60b23602",
+      "text": "Biraz et göstermekte yanlış bir şey yok."
+    },
+    {
+      "id": "e4ee4670",
+      "bank_id": "60b23602",
+      "text": "Ben etek giyecek olsaydım tam da böylesini giyerdim."
+    },
+    {
+      "id": "e4ee4675",
+      "bank_id": "60b23602",
+      "text": "İşte ben buna güzel etek derim."
+    },
+    {
+      "id": "e4ee4676",
+      "bank_id": "60b23602",
+      "text": "İşte bu güzel bir etek!"
+    },
+    {
+      "id": "e4ee4677",
+      "bank_id": "60b23602",
+      "text": "O etek bacaklarını çok güzel sergiliyor."
+    },
+    {
+      "id": "eb2bacdb",
+      "bank_id": "60b23602",
+      "text": "İnsanın hayalini kurduğu özgürlük bu işte. Kıyafete kimin ihtiyacı var?"
+    },
+    {
+      "id": "eb2bacdf",
+      "bank_id": "60b23602",
+      "text": "Hepimiz çıplak gezmeliyiz!"
+    },
+    {
+      "id": "ef291d1a",
+      "bank_id": "60b23602",
+      "text": "Pek etkileyici sayılmaz, değil mi? Şu yara izlerine baksana!"
+    },
+    {
+      "id": "ef291d1c",
+      "bank_id": "60b23602",
+      "text": "İşinin ehli hiçbir dövüşçünün bu kadar çok yara izi olmaz."
+    },
+    {
+      "id": "f0cd0f83",
+      "bank_id": "60b23602",
+      "text": "Bastığın yere dikkat et, o parmak koruyucuları kirletmek istemeyiz değil mi."
+    },
+    {
+      "id": "f0cd0f84",
+      "bank_id": "60b23602",
+      "text": "Selam, sadece ayakkabılarına hayran kaldım da."
+    },
+    {
+      "id": "f0cd0f87",
+      "bank_id": "60b23602",
+      "text": "O ayakkabılar tek kelimeyle muhteşem."
+    },
+    {
+      "id": "f429253a",
+      "bank_id": "60b23602",
+      "text": "Şu yara izlerine baksana. Buralardaki en iyi dövüşçü değilsin ha?"
+    },
+    {
+      "id": "f429253d",
+      "bank_id": "60b23602",
+      "text": "İyi biriysen o kadar feci yara almazsın."
+    },
+    {
+      "id": "f590b891",
+      "bank_id": "60b23602",
+      "text": "Bayağı feci yara bere almışsın ama en azından hâlâ hayattasın."
+    },
+    {
+      "id": "f590b892",
+      "bank_id": "60b23602",
+      "text": "Bütün o yara izleriyle pek çekici görünmüyorsun..."
+    },
+    {
+      "id": "f590b894",
+      "bank_id": "60b23602",
+      "text": "Hiç yara almadan kazandığın bir dövüş oldu mu acaba?"
+    },
+    {
+      "id": "f7cd1a88",
+      "bank_id": "60b23602",
+      "text": "O ayakkabıların içinde ayakların pek mutlu olmalı."
+    },
+    {
+      "id": "f7cd1a8a",
+      "bank_id": "60b23602",
+      "text": "Hmm, bunlar harika ayakkabılar."
+    },
+    {
+      "id": "f7cd1a8f",
+      "bank_id": "60b23602",
+      "text": "O ayakkabılar ayağına paçavra sarmaktan daha iyi görünüyor, hakkını teslim edeyim."
+    }
+  ]
+}

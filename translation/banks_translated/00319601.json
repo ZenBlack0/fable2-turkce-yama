@@ -1,0 +1,956 @@
+{
+  "bank_id": "00319601",
+  "total_strings": 190,
+  "strings": [
+    {
+      "id": "034bc6b8",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "034bc6b9",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "034bc6ba",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "034bc6bb",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "034bc6bc",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "034bc6bd",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "034bc6be",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "065a16d1",
+      "bank_id": "00319601",
+      "text": "Aslan Yürekli."
+    },
+    {
+      "id": "0c4bd488",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "0c4bd489",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "0c4bd48b",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "0c4bd48c",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "0c4bd48d",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "0c4bd48e",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "0c4bd48f",
+      "bank_id": "00319601",
+      "text": "İntikamcı! İntikamcı yaptı bunu!"
+    },
+    {
+      "id": "0c567b60",
+      "bank_id": "00319601",
+      "text": "Sana Belediye Başkanı dediklerinde ata benzediğini kastediyorlar sanmıştım."
+    },
+    {
+      "id": "0c567b61",
+      "bank_id": "00319601",
+      "text": "Otorite figürlerinden pek haz etmem, Belediye Başkanı."
+    },
+    {
+      "id": "0c567b62",
+      "bank_id": "00319601",
+      "text": "Hey, Belediye Başkanı. Başımıza tam bir belasın sen."
+    },
+    {
+      "id": "0c9d5c1f",
+      "bank_id": "00319601",
+      "text": "Silahşor."
+    },
+    {
+      "id": "115f5e04",
+      "bank_id": "00319601",
+      "text": "Lokum mu?! Ha ha, ne koca bir avanak! Bir öpücük ver bakalım lokum! Seni seviyorum lokum!"
+    },
+    {
+      "id": "115f5e06",
+      "bank_id": "00319601",
+      "text": "Bak sen, bizim küçük şirin Lokum gelmiş."
+    },
+    {
+      "id": "115f5e07",
+      "bank_id": "00319601",
+      "text": "En son gördüğüm lokumun sonu hela çukuru olmuştu."
+    },
+    {
+      "id": "21b6b591",
+      "bank_id": "00319601",
+      "text": "Master Chief mi? Şerif gibi bir şey mi o? Aman, kimin umurunda!"
+    },
+    {
+      "id": "21b6b592",
+      "bank_id": "00319601",
+      "text": "Kendine Master Chief mi diyorsun? Buraların tek şefi benim."
+    },
+    {
+      "id": "25718b70",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "25718b71",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "25718b72",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "25718b74",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "25718b75",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "25718b76",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "25718b77",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "25b02520",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "25b02521",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "25b02522",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "25b02523",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "25b02524",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "25b02526",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "25b02527",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "2ab02cc0",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "2ab02cc1",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "2ab02cc2",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "2ab02cc3",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "2ab02cc5",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "2ab02cc6",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "2ab02cc7",
+      "bank_id": "00319601",
+      "text": "Zorba! Zorba yaptı bunu!"
+    },
+    {
+      "id": "2abbcf89",
+      "bank_id": "00319601",
+      "text": "Bak sen, bizim küçük Lokum gelmiş. Sana acıyacağımı sanma sakın."
+    },
+    {
+      "id": "2abbcf8a",
+      "bank_id": "00319601",
+      "text": "Gel buraya Lokum. Seni adaletin sosuyla kaplayacağım."
+    },
+    {
+      "id": "2ce01ce9",
+      "bank_id": "00319601",
+      "text": "Soytarılara ayıracak vaktim yok benim."
+    },
+    {
+      "id": "2ce01cea",
+      "bank_id": "00319601",
+      "text": "Bizi güldürecek misin Şakacı? Hiç sanmıyorum."
+    },
+    {
+      "id": "2e719958",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "2e719959",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "2e71995a",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "2e71995b",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "2e71995c",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "2e71995d",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "2e71995f",
+      "bank_id": "00319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan yaptı bunu!"
+    },
+    {
+      "id": "31cea0c8",
+      "bank_id": "00319601",
+      "text": "Beni çocukluğuma götürdü resmen. O zamanlar da zevk için serçe avlardım."
+    },
+    {
+      "id": "31cea0c9",
+      "bank_id": "00319601",
+      "text": "Şimdi uçup gitmeye kalkma sakın Sparrow."
+    },
+    {
+      "id": "31cea0ca",
+      "bank_id": "00319601",
+      "text": "Kanatlarını keseceğim senin Sparrow."
+    },
+    {
+      "id": "32c9e188",
+      "bank_id": "00319601",
+      "text": "Kılıç yaptı!"
+    },
+    {
+      "id": "32c9e189",
+      "bank_id": "00319601",
+      "text": "Suçlu Kılıç!"
+    },
+    {
+      "id": "32c9e18a",
+      "bank_id": "00319601",
+      "text": "Kılıç yaptı bunu!"
+    },
+    {
+      "id": "32c9e18b",
+      "bank_id": "00319601",
+      "text": "Kılıç'tı!"
+    },
+    {
+      "id": "32c9e18c",
+      "bank_id": "00319601",
+      "text": "Kılıç'tı!"
+    },
+    {
+      "id": "32c9e18d",
+      "bank_id": "00319601",
+      "text": "Kılıç yaptı bunu!"
+    },
+    {
+      "id": "32c9e18e",
+      "bank_id": "00319601",
+      "text": "Kılıç! Kılıç yaptı bunu!"
+    },
+    {
+      "id": "35cf1bc0",
+      "bank_id": "00319601",
+      "text": "Köpekleri ne kadar sevdiğin umurumda bile değil. Aşağı iniyorsun!"
+    },
+    {
+      "id": "35cf1bc3",
+      "bank_id": "00319601",
+      "text": "Demek sana Köpek Sever diyorlar. Bu tam olarak ne anlama geliyor peki? Bilmek istemiyorum."
+    },
+    {
+      "id": "3728ebe4",
+      "bank_id": "00319601",
+      "text": "Olamaz, Sonsuz Istıraplı İşkencenin Gölge İblisi gelmiş! Sadece normal işkence değil yani."
+    },
+    {
+      "id": "3728ebe6",
+      "bank_id": "00319601",
+      "text": "Geri bas Gölge İblisi! Senden k-k-korkmuyorum!"
+    },
+    {
+      "id": "3728ebe7",
+      "bank_id": "00319601",
+      "text": "Gölge İblisi mı? Rookridge'deki şu tarikatçılar kadar kaçıksın herhalde."
+    },
+    {
+      "id": "39372595",
+      "bank_id": "00319601",
+      "text": "Gölge İblisi."
+    },
+    {
+      "id": "3b934750",
+      "bank_id": "00319601",
+      "text": "Uçup gitmeye kalkma sakın küçük Sparrow."
+    },
+    {
+      "id": "3b934753",
+      "bank_id": "00319601",
+      "text": "Gel buraya Sparrow. Seni pek güzel bir kafese kilitleyeceğim."
+    },
+    {
+      "id": "3bc9efd8",
+      "bank_id": "00319601",
+      "text": "Kılıç'tı o!"
+    },
+    {
+      "id": "3bc9efd9",
+      "bank_id": "00319601",
+      "text": "Kılıç yaptı bunu!"
+    },
+    {
+      "id": "3bc9efdb",
+      "bank_id": "00319601",
+      "text": "Kılıç yaptı bunu!"
+    },
+    {
+      "id": "3bc9efdc",
+      "bank_id": "00319601",
+      "text": "Kılıç'tı o!"
+    },
+    {
+      "id": "3bc9efdd",
+      "bank_id": "00319601",
+      "text": "Suçlu Kılıç!"
+    },
+    {
+      "id": "3bc9efde",
+      "bank_id": "00319601",
+      "text": "Bunu yapan Kılıç'tı!"
+    },
+    {
+      "id": "3bc9efdf",
+      "bank_id": "00319601",
+      "text": "Kılıç bir suçlu!"
+    },
+    {
+      "id": "42274770",
+      "bank_id": "00319601",
+      "text": "Şu yüreğini söküp alalım da bakalım aslana benziyor mu."
+    },
+    {
+      "id": "42274772",
+      "bank_id": "00319601",
+      "text": "Bakalım ne kadar cesurmuşsun Aslan Yürekli."
+    },
+    {
+      "id": "42274773",
+      "bank_id": "00319601",
+      "text": "Yüreğini hayvanat bahçesinden aldığını duydum. Doğru mu?"
+    },
+    {
+      "id": "4330dfe1",
+      "bank_id": "00319601",
+      "text": "Kralın suça tenezzül edeceğini düşünmek bile! O halde kral katli vakti!"
+    },
+    {
+      "id": "4330dfe2",
+      "bank_id": "00319601",
+      "text": "Kralın suça başvurmaya ihtiyacı varmış gibi sanki. Zenginlere ayrıcalık tanımıyoruz biliyorsun değil mi? Cezayı ödeyene kadar tabii."
+    },
+    {
+      "id": "46b3ad3e",
+      "bank_id": "00319601",
+      "text": "Cellat."
+    },
+    {
+      "id": "4bbaf638",
+      "bank_id": "00319601",
+      "text": "Köpek Seversin demek ha? Küçük zaaflarını itiraf edecek cesarete sahip pek az kişi vardır."
+    },
+    {
+      "id": "4e5560b0",
+      "bank_id": "00319601",
+      "text": "Bakalım nişanın ne kadar iyiymiş Silahşor."
+    },
+    {
+      "id": "4e5560b1",
+      "bank_id": "00319601",
+      "text": "Karşılaştığım son silahşorun alnına altı kurşun saplanmıştı."
+    },
+    {
+      "id": "4e5560b2",
+      "bank_id": "00319601",
+      "text": "Kendine Silahşor demek seni havalı mı yapıyor sanıyorsun? Ne eziksin be."
+    },
+    {
+      "id": "4ed22cc4",
+      "bank_id": "00319601",
+      "text": "Sana boşuna Dangalak demiyorlar seni sersem ahmak."
+    },
+    {
+      "id": "4ed22cc7",
+      "bank_id": "00319601",
+      "text": "Dangalak mı? Böyle bir isimle suça bulaşmana hiç şaşmamalı."
+    },
+    {
+      "id": "53348a58",
+      "bank_id": "00319601",
+      "text": "Beni korkutamazsın Korku Tellalı."
+    },
+    {
+      "id": "53348a5a",
+      "bank_id": "00319601",
+      "text": "Hakkında her şeyi duydum Korku Tellalı."
+    },
+    {
+      "id": "53348a5b",
+      "bank_id": "00319601",
+      "text": "İstediğin kadar korku yay, ben öyle kolay kolay korkmam."
+    },
+    {
+      "id": "5903c069",
+      "bank_id": "00319601",
+      "text": "Belki de bütün o salatalardan kaçmasaydın bir şansın olurdu."
+    },
+    {
+      "id": "5903c06a",
+      "bank_id": "00319601",
+      "text": "Ne oldu Salata Kaçkını? Nefes almakta zorlanıyor musun yoksa?"
+    },
+    {
+      "id": "5bf045b9",
+      "bank_id": "00319601",
+      "text": "Beni idam edemezsin Cellat."
+    },
+    {
+      "id": "5bf045ba",
+      "bank_id": "00319601",
+      "text": "Kendi idamına hoş geldin Cellat."
+    },
+    {
+      "id": "5bf045bb",
+      "bank_id": "00319601",
+      "text": "Olamaz! Cellat bu!"
+    },
+    {
+      "id": "5dc646b5",
+      "bank_id": "00319601",
+      "text": "Kraliçe."
+    },
+    {
+      "id": "62944d0f",
+      "bank_id": "00319601",
+      "text": "Belediye Başkanı."
+    },
+    {
+      "id": "74315115",
+      "bank_id": "00319601",
+      "text": "Bana pek cesur görünmedin Aslan Yürekli."
+    },
+    {
+      "id": "74315116",
+      "bank_id": "00319601",
+      "text": "Yüreği bir aslandan çaldın demek ha? Eh, onu geri vermeni sağlayacağım."
+    },
+    {
+      "id": "74c80e74",
+      "bank_id": "00319601",
+      "text": "Haydutlar hiçbir kralın önünde eğilmez!"
+    },
+    {
+      "id": "74c80e75",
+      "bank_id": "00319601",
+      "text": "Hey Kral, ben cumhuriyetçiyim!"
+    },
+    {
+      "id": "74c80e77",
+      "bank_id": "00319601",
+      "text": "Hep bir kral öldürmek istemiştim!"
+    },
+    {
+      "id": "7669d788",
+      "bank_id": "00319601",
+      "text": "Belediye Başkanı olman umurumda bile değil, seni içeri tıkıyorum."
+    },
+    {
+      "id": "7669d78b",
+      "bank_id": "00319601",
+      "text": "Belediye Başkanı olabilirsin ama kimse kanunun üzerinde değildir."
+    },
+    {
+      "id": "90e54a55",
+      "bank_id": "00319601",
+      "text": "Hey dangalak! Ha ha! Sana hakaret etmeme gerek bile yok! Dangalak! Dangalak!"
+    },
+    {
+      "id": "90e54a56",
+      "bank_id": "00319601",
+      "text": "Sana neden Dangalak dediklerini anlayabiliyorum!"
+    },
+    {
+      "id": "90e54a57",
+      "bank_id": "00319601",
+      "text": "<singalong> Sen bir dangalaksın, dangalaksın, evet öylesin."
+    },
+    {
+      "id": "940c52d0",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "940c52d1",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "940c52d2",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "940c52d4",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "940c52d5",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "940c52d6",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "940c52d7",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "9d0c6138",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "9d0c6139",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "9d0c613a",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "9d0c613b",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "9d0c613c",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "9d0c613d",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "9d0c613f",
+      "bank_id": "00319601",
+      "text": "Ödül Avcısı! Ödül Avcısı yaptı bunu!"
+    },
+    {
+      "id": "a17433e0",
+      "bank_id": "00319601",
+      "text": "Kasap bir suçlu!"
+    },
+    {
+      "id": "a17433e1",
+      "bank_id": "00319601",
+      "text": "Bunu yapan Kasap'tı!"
+    },
+    {
+      "id": "a17433e2",
+      "bank_id": "00319601",
+      "text": "Suçlu Kasap!"
+    },
+    {
+      "id": "a17433e3",
+      "bank_id": "00319601",
+      "text": "Kasap'tı o!"
+    },
+    {
+      "id": "a17433e4",
+      "bank_id": "00319601",
+      "text": "Kasap yaptı bunu!"
+    },
+    {
+      "id": "a17433e6",
+      "bank_id": "00319601",
+      "text": "Kasap yaptı bunu!"
+    },
+    {
+      "id": "a17433e7",
+      "bank_id": "00319601",
+      "text": "Kasap'tı o!"
+    },
+    {
+      "id": "a6743b80",
+      "bank_id": "00319601",
+      "text": "Kasap'tı o!"
+    },
+    {
+      "id": "a6743b81",
+      "bank_id": "00319601",
+      "text": "Kasap yaptı bunu!"
+    },
+    {
+      "id": "a6743b82",
+      "bank_id": "00319601",
+      "text": "Suçlu Kasap!"
+    },
+    {
+      "id": "a6743b83",
+      "bank_id": "00319601",
+      "text": "Kasap yaptı bunu!"
+    },
+    {
+      "id": "a6743b85",
+      "bank_id": "00319601",
+      "text": "Kasap! Kasap yaptı bunu!"
+    },
+    {
+      "id": "a6743b86",
+      "bank_id": "00319601",
+      "text": "Kasap yaptı bunu!"
+    },
+    {
+      "id": "a6743b87",
+      "bank_id": "00319601",
+      "text": "Kasap'tı o!"
+    },
+    {
+      "id": "ae857089",
+      "bank_id": "00319601",
+      "text": "Korku Tellalı."
+    },
+    {
+      "id": "b2b7b104",
+      "bank_id": "00319601",
+      "text": "Hep bir kraliçe öldürmek istemiştim!"
+    },
+    {
+      "id": "b2b7b106",
+      "bank_id": "00319601",
+      "text": "Hey Kraliçe, ben cumhuriyetçiyim!"
+    },
+    {
+      "id": "b2b7b107",
+      "bank_id": "00319601",
+      "text": "Haydutlar hiçbir kraliçenin önünde eğilmez!"
+    },
+    {
+      "id": "b2fec964",
+      "bank_id": "00319601",
+      "text": "Master Chief mi? Bu ne biçim bir isim böyle?!"
+    },
+    {
+      "id": "b2fec965",
+      "bank_id": "00319601",
+      "text": "Demek Master Chief sensin ha? Daha çok zırh beklerdim."
+    },
+    {
+      "id": "b2fec967",
+      "bank_id": "00319601",
+      "text": "Adın neydi senin? Master Şef mi? Hadi bir şeyler pişirelim. Yok dur, Master Chief'ti değil mi? Aman kimin umurunda."
+    },
+    {
+      "id": "b80aad58",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "b80aad59",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "b80aad5a",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "b80aad5b",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "b80aad5c",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "b80aad5d",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "b80aad5e",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Suçu Seçilmiş Kişi işledi!"
+    },
+    {
+      "id": "be6ae3e4",
+      "bank_id": "00319601",
+      "text": "Demek salatalardan kaçabiliyorsun ama kılıcımdan kaçabilir misin bakalım?"
+    },
+    {
+      "id": "be6ae3e6",
+      "bank_id": "00319601",
+      "text": "Birinin hıyarlardan nefret etmesini anlarım ama diğer bütün o güzel yeşilliklerden neden kaçarsın ki Salata Kaçkını? Vitamin dolular!"
+    },
+    {
+      "id": "be6ae3e7",
+      "bank_id": "00319601",
+      "text": "Salatalarla ne alıp veremediğin var senin ha? Ha?!"
+    },
+    {
+      "id": "c0fd29f8",
+      "bank_id": "00319601",
+      "text": "Buraların tek Celladı benim!"
+    },
+    {
+      "id": "c0fd29fb",
+      "bank_id": "00319601",
+      "text": "Komik şey, Muhafız okulundayken bana Cellat derlerdi. Nedenini görmek ister misin?"
+    },
+    {
+      "id": "c10abba8",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "c10abba9",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "c10abbab",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "c10abbac",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "c10abbad",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "c10abbae",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "c10abbaf",
+      "bank_id": "00319601",
+      "text": "Seçilmiş Kişi! Seçilmiş Kişi yaptı bunu!"
+    },
+    {
+      "id": "c274de1d",
+      "bank_id": "00319601",
+      "text": "Yeterince dehşet yaydın Korku Tellalı. Burada bitiyor."
+    },
+    {
+      "id": "c274de1e",
+      "bank_id": "00319601",
+      "text": "Artık kimseyi korkutamayacaksın Korku Tellalı."
+    },
+    {
+      "id": "c423c780",
+      "bank_id": "00319601",
+      "text": "Şakacı."
+    },
+    {
+      "id": "c4dcf5b5",
+      "bank_id": "00319601",
+      "text": "Lokum."
+    },
+    {
+      "id": "c9f2cd95",
+      "bank_id": "00319601",
+      "text": "Salata Kaçkını."
+    },
+    {
+      "id": "cb75c150",
+      "bank_id": "00319601",
+      "text": "Sihirbaz! Sihirbaz yaptı bunu!"
+    },
+    {
+      "id": "cb75c152",
+      "bank_id": "00319601",
+      "text": "Sihirbaz'dı o!"
+    },
+    {
+      "id": "cb75c153",
+      "bank_id": "00319601",
+      "text": "Sihirbaz yaptı bunu!"
+    },
+    {
+      "id": "cb75c154",
+      "bank_id": "00319601",
+      "text": "Bunu yapan Sihirbaz'dı!"
+    },
+    {
+      "id": "cb75c155",
+      "bank_id": "00319601",
+      "text": "Sihirbaz'dı o!"
+    },
+    {
+      "id": "cc142289",
+      "bank_id": "00319601",
+      "text": "Kraliçenin suça başvurmaya ihtiyacı varmış gibi sanki. Zenginlere ayrıcalık tanımıyoruz biliyorsun değil mi? Cezayı ödeyene kadar tabii."
+    },
+    {
+      "id": "cc14228a",
+      "bank_id": "00319601",
+      "text": "Kraliçenin suça tenezzül edeceğini düşünmek bile! O halde hükümdar katli vakti!"
+    },
+    {
+      "id": "cd58a9a8",
+      "bank_id": "00319601",
+      "text": "Kral."
+    },
+    {
+      "id": "d1c1c869",
+      "bank_id": "00319601",
+      "text": "Beni korkutamazsın Gölge İblisi. Seni içeri tıkıyorum!"
+    },
+    {
+      "id": "d1c1c86a",
+      "bank_id": "00319601",
+      "text": "Şu kötü Gölge İblisi'ni duymuştum. Ve seni alaşağı eden kişi ben olacağım."
+    },
+    {
+      "id": "d6dc08d8",
+      "bank_id": "00319601",
+      "text": "Silahlarını bırak Silahşor."
+    },
+    {
+      "id": "d6dc08db",
+      "bank_id": "00319601",
+      "text": "Demek Silahşor sensin ha? Tetiğe basmaya meraklı ahmaklara ne yaptığımızı göstereyim sana."
+    },
+    {
+      "id": "da0fa507",
+      "bank_id": "00319601",
+      "text": "Sparrow."
+    },
+    {
+      "id": "dd59f70a",
+      "bank_id": "00319601",
+      "text": "Dangalak."
+    },
+    {
+      "id": "f18b4fd8",
+      "bank_id": "00319601",
+      "text": "Master Chief."
+    },
+    {
+      "id": "fe78471c",
+      "bank_id": "00319601",
+      "text": "Çocukken bir palyaço beni travmatize etmişti. Sana aynısını yapmaktan büyük zevk alacağım Şakacı."
+    },
+    {
+      "id": "fe78471d",
+      "bank_id": "00319601",
+      "text": "Şakacı, bunu daha önce duyduysan beni durdur. İki haydut bir meyhaneye girer. Ve sonra sen ölürsün. Ha ha!"
+    },
+    {
+      "id": "fe78471f",
+      "bank_id": "00319601",
+      "text": "Hadi bize bir fıkra anlat Şakacı!"
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "bank_id": "d0b5b600",
+  "total_strings": 122,
+  "strings": [
+    {
+      "id": "00ea363d",
+      "bank_id": "d0b5b600",
+      "text": "Pekala! Biri olmayı başardığında geri gel de o zaman içeri alalım seni!"
+    },
+    {
+      "id": "033a2434",
+      "bank_id": "d0b5b600",
+      "text": "Muazzam."
+    },
+    {
+      "id": "056861b6",
+      "bank_id": "d0b5b600",
+      "text": "Buralarda yenecek düzgün bir şey var mı acaba? Kimi görsem sadece yer fıstığı kemiriyor."
+    },
+    {
+      "id": "06686329",
+      "bank_id": "d0b5b600",
+      "text": "Lucien bu ayak takımını orduya mı dönüştürüyormuş? Bunu nasıl becerdiğini hakikaten görmek isterdim."
+    },
+    {
+      "id": "0b686ac8",
+      "bank_id": "d0b5b600",
+      "text": "Küçük bir kızken Çile hakkında hikâyeler duyardım. Orada dövüşmenin nasıl bir şey olduğunu hayal ederdim hep. Gerçeğini göreceğim hiç aklıma gelmezdi."
+    },
+    {
+      "id": "0c686cbb",
+      "bank_id": "d0b5b600",
+      "text": "Buralarda epey tekinsiz tipler var. Sizler hariç tabii."
+    },
+    {
+      "id": "0e686f81",
+      "bank_id": "d0b5b600",
+      "text": "Bu Çile ne zamandır var acaba? İnşa etmesi amma zahmetli olmuştur ha."
+    },
+    {
+      "id": "0f687174",
+      "bank_id": "d0b5b600",
+      "text": "Çile'nin büyük olacağını biliyordum ama bu kadarını da beklemiyordum. Kış aylarında amma cereyan yapıyordur burası."
+    },
+    {
+      "id": "106872e7",
+      "bank_id": "d0b5b600",
+      "text": "Sanırım millet Çile'de ölünce kof adamlar olarak geri gelebiliyor, değil mi? Organizatörler için amma kârlı iş ha; masrafı az."
+    },
+    {
+      "id": "10ec4cf5",
+      "bank_id": "d0b5b600",
+      "text": "Heyecan X %1"
+    },
+    {
+      "id": "1168745a",
+      "bank_id": "d0b5b600",
+      "text": "Bu heriflerden kaçı dağıttığımız haydut kampındandır acaba? Bu gece eve döndüklerinde fena bir sürprizle karşılaşacaklar!"
+    },
+    {
+      "id": "126875cd",
+      "bank_id": "d0b5b600",
+      "text": "Westcliff hakkında ne derseniz deyin, gördüğüm çoğu yerden daha sivri ve havalı surları var."
+    },
+    {
+      "id": "169f384c",
+      "bank_id": "d0b5b600",
+      "text": "Sıkıcı."
+    },
+    {
+      "id": "1e29347d",
+      "bank_id": "d0b5b600",
+      "text": "Özel giriş şartları var mıdır acaba? Yani Çile için diyorum. Bir tür feragatname falan imzalatıyorlar mıdır sence?"
+    },
+    {
+      "id": "1fb7b017",
+      "bank_id": "d0b5b600",
+      "text": "Artık tam bir şöhretsin. Bahse girerim Murray ve Kuduz seni Çile'ye sokmak için can atıyordur."
+    },
+    {
+      "id": "20b7b18a",
+      "bank_id": "d0b5b600",
+      "text": "Herkese ne kumaştan dokunduğunu gösterdin valla. Şimdi bu işin Çile'de nasıl yapıldığını göstermeye hazır mısın?"
+    },
+    {
+      "id": "21b7b37d",
+      "bank_id": "d0b5b600",
+      "text": "Murray ile Kuduz büyük çıkışın için şimdiden bilet satmaya başladılar bile."
+    },
+    {
+      "id": "2d93a840",
+      "bank_id": "d0b5b600",
+      "text": "Tamamdır, sıradaki kim bakalım?"
+    },
+    {
+      "id": "2f54ce21",
+      "bank_id": "d0b5b600",
+      "text": "Yalnız şu arkadaşını içeri sokmama imkân yok. Dışarıda kalıp adımla istediği kadar dalga geçebilir."
+    },
+    {
+      "id": "2f678823",
+      "bank_id": "d0b5b600",
+      "text": "Lucien kaç kişi topladı acaba? Şu Kule sahiden devasa bir şey; bir sürü muhafıza ihtiyacı olmalı."
+    },
+    {
+      "id": "2f7ae928",
+      "bank_id": "d0b5b600",
+      "text": "Bizi unutmayın sakın! Sizin gibi birine ihtiyacımız var."
+    },
+    {
+      "id": "3193ae8c",
+      "bank_id": "d0b5b600",
+      "text": "Gorgoron'a bakmayın sakın. Gorgoron'un şu an tırnak batması var. Çok fena, şeytani bir tırnak batması."
+    },
+    {
+      "id": "3293b07f",
+      "bank_id": "d0b5b600",
+      "text": "Şey, bir sonraki olarak çıkmama imkân yok. Benim şey, tatar yayıma fena halde soğuk algınlığı vurdu."
+    },
+    {
+      "id": "3393b1d2",
+      "bank_id": "d0b5b600",
+      "text": "Ah, şey, bu fırsatı memnuniyetle değerlendirirdim lakin ben, kem küm... Uğurlu cübbemin kuru temizlemeden dönmesini bekliyorum hâlâ."
+    },
+    {
+      "id": "3493b345",
+      "bank_id": "d0b5b600",
+      "text": "Ah vallahi, çok isterdim değil mi? Evet, ama kafamda tartmam gereken koca bir etik karmaşa var henüz. Evet, aynen öyle."
+    },
+    {
+      "id": "361be105",
+      "bank_id": "d0b5b600",
+      "text": "Eğlenceli."
+    },
+    {
+      "id": "371458e3",
+      "bank_id": "d0b5b600",
+      "text": "Hadi oğlum. Senle ben ona tezahürat yaparız."
+    },
+    {
+      "id": "371458e8",
+      "bank_id": "d0b5b600",
+      "text": "Hadi oğlum. Senle ben ona tezahürat yaparız."
+    },
+    {
+      "id": "3f713d46",
+      "bank_id": "d0b5b600",
+      "text": "Biraz gereksiz bir tekrar oldu sanki, değil mi?"
+    },
+    {
+      "id": "40713f39",
+      "bank_id": "d0b5b600",
+      "text": "Kendi zamanında buraların en iyi Çile dövüşçüsüydü."
+    },
+    {
+      "id": "457146d8",
+      "bank_id": "d0b5b600",
+      "text": "Baksana Murray, Çile'ye girmeye çalışan bir çift ayaktakımı daha. Burada dövüşmek için meşhur olmak gerektiğini kimse bilmiyor mu yahu?"
+    },
+    {
+      "id": "4671484b",
+      "bank_id": "d0b5b600",
+      "text": "Bana Andy Kıkırdaklı Sprunkeldink adını koyduğu için kabahat tamamen annemde."
+    },
+    {
+      "id": "4671484e",
+      "bank_id": "d0b5b600",
+      "text": "Bak, Joe Kıkırdaklı Sprunkeldink desen insanın aklında kalacak bir isim mesela."
+    },
+    {
+      "id": "47714a3e",
+      "bank_id": "d0b5b600",
+      "text": "Yıkılın karşımdan. Adınızı sanınızı duymadık bile."
+    },
+    {
+      "id": "49714d04",
+      "bank_id": "d0b5b600",
+      "text": "Ben mi? Herkes tanır beni! Ben Kuduz 'Boğucu' McGraw'ım!"
+    },
+    {
+      "id": "4a714ef7",
+      "bank_id": "d0b5b600",
+      "text": "Ha öyle mi, senin adın ne peki?"
+    },
+    {
+      "id": "4b71506a",
+      "bank_id": "d0b5b600",
+      "text": "Bir avuç meçhul tip değil."
+    },
+    {
+      "id": "4c7151d8",
+      "bank_id": "d0b5b600",
+      "text": "Mesele sadece havada uçuşan kafalar falan değil ki. Millet sadece büyük isimleri görmek için para ödüyor. Willy Dulaçan veya Kerpeten Sally gibi."
+    },
+    {
+      "id": "4c7151dd",
+      "bank_id": "d0b5b600",
+      "text": "Çok özür dilerim ama korkarım bu biraz vahşi bir meslek."
+    },
+    {
+      "id": "51896168",
+      "bank_id": "d0b5b600",
+      "text": "Burada epey kaliteli teçhizat var. Savaş çekiçleri nasıl acaba çok merak ettim?"
+    },
+    {
+      "id": "62977ffc",
+      "bank_id": "d0b5b600",
+      "text": "Heyecan Verici."
+    },
+    {
+      "id": "650c587c",
+      "bank_id": "d0b5b600",
+      "text": "Neyin nesiydi şimdi bu böyle?"
+    },
+    {
+      "id": "660c59ef",
+      "bank_id": "d0b5b600",
+      "text": "Bol şans! (sonra hayaletsi bir fısıltıyla) Ve Tatlı Dilli Büyücü'ye dikkat et..."
+    },
+    {
+      "id": "66a212a8",
+      "bank_id": "d0b5b600",
+      "text": "Vasat."
+    },
+    {
+      "id": "670c5b42",
+      "bank_id": "d0b5b600",
+      "text": "İçeri buyur öyleyse."
+    },
+    {
+      "id": "87177690",
+      "bank_id": "d0b5b600",
+      "text": "Yahu, yarışmacılardan biri hakkında ta... şeyden beri bu kadar tantana kopmamıştı, Nakavt Nora'dan beri. Hatırladın mı onu Kuduz? Ah..."
+    },
+    {
+      "id": "88177803",
+      "bank_id": "d0b5b600",
+      "text": "Evet, şey... Sadede gelirsek, Çile'nin neredeyse kesin ölüm geçidindeki yerinizi hak ettiniz."
+    },
+    {
+      "id": "891779f3",
+      "bank_id": "d0b5b600",
+      "text": "Bakın burada kim varmış! Hayatımda gördüğüm en has Çile yarışmacısı."
+    },
+    {
+      "id": "8a177b69",
+      "bank_id": "d0b5b600",
+      "text": "Epey bir gürültü kopardın dışarıda değil mi? Artık herkes kim olduğunu biliyor."
+    },
+    {
+      "id": "8a1a3cf6",
+      "bank_id": "d0b5b600",
+      "text": "Ölmeye pek heveslisin ha? Heh! Sevdim bunu. Yürü öyleyse! Yalnız köpek dışarıda kalmak zorunda."
+    },
+    {
+      "id": "8a72a89a",
+      "bank_id": "d0b5b600",
+      "text": "Kule'ye geçiş hakkı kazanmak için Çile'de yarışın."
+    },
+    {
+      "id": "8b177cdc",
+      "bank_id": "d0b5b600",
+      "text": "Dövüşçülerimiz çok çabuk nalları dikince seyirciler fena halde bozuluyor."
+    },
+    {
+      "id": "8c177e4f",
+      "bank_id": "d0b5b600",
+      "text": "Ama hayatta kalırsan bir efsane olursun ve Lucien'in ordusuna girmeyi garantilersin! Şimdiye kadar hiçbir kazananın bu fırsatı teptiğini görmedim."
+    },
+    {
+      "id": "8d178022",
+      "bank_id": "d0b5b600",
+      "text": "O Nora beni her an nakavt edebilirdi valla. Ne oldu acaba ona?"
+    },
+    {
+      "id": "8e178195",
+      "bank_id": "d0b5b600",
+      "text": "Neyse ne. İçeri girmeden önce düzgünce donandığından emin ol."
+    },
+    {
+      "id": "9117866e",
+      "bank_id": "d0b5b600",
+      "text": "Özel sektör güvenlik işleri pek ballıymış diye duydum."
+    },
+    {
+      "id": "921787c1",
+      "bank_id": "d0b5b600",
+      "text": "Tamamdır, içeri köpek sokmak yasak. Sağlık ve güvenlik tedbiri, anlarsın ya?"
+    },
+    {
+      "id": "92ae3493",
+      "bank_id": "d0b5b600",
+      "text": "Çile'ye girmeye hazır mısınız?"
+    },
+    {
+      "id": "9936ce54",
+      "bank_id": "d0b5b600",
+      "text": "Aslında son birkaç tanesi kaldı elimde. Bütün frenküzümü aromalıları sona saklıyordum."
+    },
+    {
+      "id": "9a36cfc7",
+      "bank_id": "d0b5b600",
+      "text": "Görünüşüme aldanmayın. Ben bir kılık değiştirme ustasıyım; her şekle bürünebilir, her düşmanı kandırabilir, her maskeli balo yarışmasını kazanabilirim. Ama kötüyüm ben. Çok, ama çok kötüyüm."
+    },
+    {
+      "id": "9c36d32d",
+      "bank_id": "d0b5b600",
+      "text": "Selamlar. Ben Gorgoron, Ruhbiçen; kutsal ve saf olan her şeyin belalısı. Meyveli sakız ister misiniz?"
+    },
+    {
+      "id": "aad22dfc",
+      "bank_id": "d0b5b600",
+      "text": "Büyük girişini neredeyse kaçırıyordum!"
+    },
+    {
+      "id": "abd22f6f",
+      "bank_id": "d0b5b600",
+      "text": "Sana tezahürat yapacağım!"
+    },
+    {
+      "id": "ad57d332",
+      "bank_id": "d0b5b600",
+      "text": "Bakın: cidden yarışmak istiyorsanız gidin kendinize bir isim yapın da seyircilerin sahiden umurunda olsun..."
+    },
+    {
+      "id": "add232b5",
+      "bank_id": "d0b5b600",
+      "text": "Hey! İçeride bol şans!"
+    },
+    {
+      "id": "ae57d4a5",
+      "bank_id": "d0b5b600",
+      "text": "Şans. Tek ihtiyacınız olan şey bu. Birazcık şans ve çok geçmeden meşhur olursunuz."
+    },
+    {
+      "id": "af57d618",
+      "bank_id": "d0b5b600",
+      "text": "Bilirsin ya, daha önce hiç düşünmemiştim ama kız haklı aslında."
+    },
+    {
+      "id": "b057d78b",
+      "bank_id": "d0b5b600",
+      "text": "Haklı falan değil!"
+    },
+    {
+      "id": "b157d97b",
+      "bank_id": "d0b5b600",
+      "text": "Biraz muğlak ama. Hangi yıllar yani? 'Geçmişte belirsiz bir zaman diliminde' desen de olurmuş."
+    },
+    {
+      "id": "b157d97e",
+      "bank_id": "d0b5b600",
+      "text": "Yani Irving 'Boğucu' Gibbons'u anlarım; biraz sert gösteriyor insanı, değil mi?"
+    },
+    {
+      "id": "b257dad1",
+      "bank_id": "d0b5b600",
+      "text": "Ama Kuduz senin gerçek adın değil ki."
+    },
+    {
+      "id": "b357dc44",
+      "bank_id": "d0b5b600",
+      "text": "Şey işte. Korkutucu duruyor ya."
+    },
+    {
+      "id": "b457de32",
+      "bank_id": "d0b5b600",
+      "text": "Hem sadece bir gün de değildi. Yıllarca en iyisi oydu. 'Eski yıllarda' demesi lazımdı aslında."
+    },
+    {
+      "id": "b457de37",
+      "bank_id": "d0b5b600",
+      "text": "Bana kafa karıştırıcı geldi."
+    },
+    {
+      "id": "b557dfaa",
+      "bank_id": "d0b5b600",
+      "text": "Ne? Ne demek istiyorsun?"
+    },
+    {
+      "id": "b557dfaf",
+      "bank_id": "d0b5b600",
+      "text": "Yani, 'onun' zamanı değildi sanırım. 'Eski' zamanlarda demesi gerekirdi."
+    },
+    {
+      "id": "b657e11d",
+      "bank_id": "d0b5b600",
+      "text": "E zaten kuduz bir köpeksen 'Boğucu' kısmına ne gerek var ki?"
+    },
+    {
+      "id": "b9e6b560",
+      "bank_id": "d0b5b600",
+      "text": "Harika olacak."
+    },
+    {
+      "id": "ba6d901a",
+      "bank_id": "d0b5b600",
+      "text": "Vay canına. Yeri bulduk diyebilirim."
+    },
+    {
+      "id": "bb873dcd",
+      "bank_id": "d0b5b600",
+      "text": "Gidiyoruz öyleyse, değil mi? İnsan neticede bir şeyden ölecek işte."
+    },
+    {
+      "id": "bce6ba39",
+      "bank_id": "d0b5b600",
+      "text": "Burası epey tekinsiz görünüyor."
+    },
+    {
+      "id": "c15b1010",
+      "bank_id": "d0b5b600",
+      "text": "Ün işleri nasıl gidiyor bakalım? Biraz ara mı verdin?"
+    },
+    {
+      "id": "c35b1376",
+      "bank_id": "d0b5b600",
+      "text": "Eee, meşhur oldun mu bari? Kulağıma henüz hiçbir macera masalı gelmedi."
+    },
+    {
+      "id": "c45b14e9",
+      "bank_id": "d0b5b600",
+      "text": "Buralarda henüz senden bahseden yok, en azından benim duyduğum kadarıyla. Çoğunlukla yemekten, kavgadan konuşuyorlar... sonrası da çirkinleşiyor zaten."
+    },
+    {
+      "id": "c60ec2d0",
+      "bank_id": "d0b5b600",
+      "text": "İhtiyacın olan her şey yanında mı? Bir kere girdin mi tek çıkış yolu kazanmaktır. Ya da nalları dikmek. Kazanmak daha iyi bir seçenek tabii."
+    },
+    {
+      "id": "c682b8e1",
+      "bank_id": "d0b5b600",
+      "text": "Heyecan Seviyesi: Sıkıcı"
+    },
+    {
+      "id": "c682b8e2",
+      "bank_id": "d0b5b600",
+      "text": "Heyecan Seviyesi: Vasat"
+    },
+    {
+      "id": "c682b8e3",
+      "bank_id": "d0b5b600",
+      "text": "Heyecan Seviyesi: Eğlenceli"
+    },
+    {
+      "id": "c682b8e4",
+      "bank_id": "d0b5b600",
+      "text": "Heyecan Seviyesi: Heyecan Verici!"
+    },
+    {
+      "id": "c682b8e5",
+      "bank_id": "d0b5b600",
+      "text": "Heyecan Seviyesi: Muazzam!"
+    },
+    {
+      "id": "c90ec7a9",
+      "bank_id": "d0b5b600",
+      "text": "Bizim için biraz kan dökmeye hazır mısın? Kendi kanın da iş görür gerçi."
+    },
+    {
+      "id": "ca9d38e8",
+      "bank_id": "d0b5b600",
+      "text": "Gorgoron ödülü zerre umursamaz. Ben sadece zarar, tahribat ve halüsinasyon saçmak isterim. Ben ete kemiğe bürünmüş fesatlığın ta kendisiyim."
+    },
+    {
+      "id": "cd9d3da1",
+      "bank_id": "d0b5b600",
+      "text": "Örgülü saçlarım ikna edici değil mi yoksa?"
+    },
+    {
+      "id": "ce2fca40",
+      "bank_id": "d0b5b600",
+      "text": "Buldum. Kuduz 'Ölümsaçan'a ne dersin?"
+    },
+    {
+      "id": "cf2fcc33",
+      "bank_id": "d0b5b600",
+      "text": "Bak, değiştirmiyorum işte!"
+    },
+    {
+      "id": "d02fcda6",
+      "bank_id": "d0b5b600",
+      "text": "Hmm, Kuduz 'Kıyıcı' nasıl?"
+    },
+    {
+      "id": "d0f96504",
+      "bank_id": "d0b5b600",
+      "text": "Millet senden bahsetmeye başladı bile. Ya da en azından sarhoş sarhoş sayıklıyorlar diyelim."
+    },
+    {
+      "id": "d12fcf19",
+      "bank_id": "d0b5b600",
+      "text": "Kapat şu konuyu artık Murray."
+    },
+    {
+      "id": "d22fd08c",
+      "bank_id": "d0b5b600",
+      "text": "Senin birini boğduğunu hiç görmedim ama. Daha ziyade balta savuran tiplerdendin sen."
+    },
+    {
+      "id": "d2f9686a",
+      "bank_id": "d0b5b600",
+      "text": "Dışarıda yaptıklarına aynen devam et. İnsanlar farkına varmaya başladı bile."
+    },
+    {
+      "id": "d32fd27f",
+      "bank_id": "d0b5b600",
+      "text": "Evet ama Kuduz 'Balta Savuran' McGraw kulağa aynı gelmiyor işte, değil mi?"
+    },
+    {
+      "id": "d3606584",
+      "bank_id": "d0b5b600",
+      "text": "Az önce harika bir ekiptik değil mi? O balverine piçlerinin hiç şansı yoktu."
+    },
+    {
+      "id": "d3f969dd",
+      "bank_id": "d0b5b600",
+      "text": "Bunun gibi bir iki macera daha yaşa, Murray ile Kuduz Çile'ye girmen için ayaklarına kapanır valla."
+    },
+    {
+      "id": "d4606777",
+      "bank_id": "d0b5b600",
+      "text": "Gördün mü bak? İşte bahsettiğim tam da buydu. Hayatım boyunca ettiğim bütün dualardan çok daha fazla hayır işledik az önce."
+    },
+    {
+      "id": "d52fd545",
+      "bank_id": "d0b5b600",
+      "text": "Kuduz 'Boğucu'nun nesi varmış ki? Bal gibi de oturuyor işte."
+    },
+    {
+      "id": "d6606a5d",
+      "bank_id": "d0b5b600",
+      "text": "Başardık! Işığın içine kadar peşimizden geleceklerini sanmıyorum..."
+    },
+    {
+      "id": "dc2fe04a",
+      "bank_id": "d0b5b600",
+      "text": "Aa, Kuduz 'Nacakçı'ya ne dersin peki?"
+    },
+    {
+      "id": "dd2fe23d",
+      "bank_id": "d0b5b600",
+      "text": "Murray 'Çeneni Kapa Artık'a ne dersin asıl?"
+    },
+    {
+      "id": "ddaab038",
+      "bank_id": "d0b5b600",
+      "text": "Neyi bekliyorsun?"
+    },
+    {
+      "id": "de4cba3c",
+      "bank_id": "d0b5b600",
+      "text": "Sadece bir fikirdi canım."
+    },
+    {
+      "id": "deaab1ab",
+      "bank_id": "d0b5b600",
+      "text": "Hepsi senin için haykırıyor biliyorsun değil mi. Kaderinle yüzleşme vaktin geldi!"
+    },
+    {
+      "id": "df4cbbaf",
+      "bank_id": "d0b5b600",
+      "text": "Alıngan şey."
+    },
+    {
+      "id": "e0aab4f1",
+      "bank_id": "d0b5b600",
+      "text": "Ne zaman hazırsan."
+    },
+    {
+      "id": "e14cbef5",
+      "bank_id": "d0b5b600",
+      "text": "Daha ne kadar dikileceğiz burada böyle?"
+    },
+    {
+      "id": "e8788fde",
+      "bank_id": "d0b5b600",
+      "text": "Bu tatil beldesinde takılmaktan hoşlanmadığımdan değil ama artık Çile'ye girmenin bir yoluna baksak iyi olur."
+    },
+    {
+      "id": "ea55d128",
+      "bank_id": "d0b5b600",
+      "text": "Merak etme, ben ona göz kulak olurum!"
+    },
+    {
+      "id": "ebea6571",
+      "bank_id": "d0b5b600",
+      "text": "Ne var yani? Delikanlıya bol şans diledim sadece, hepsi bu."
+    },
+    {
+      "id": "ebea657a",
+      "bank_id": "d0b5b600",
+      "text": "Ne var yani? Kıza bol şans diledim sadece, hepsi bu."
+    },
+    {
+      "id": "ef9912e2",
+      "bank_id": "d0b5b600",
+      "text": "Mevcut:"
+    },
+    {
+      "id": "fb15426f",
+      "bank_id": "d0b5b600",
+      "text": "Nereye gidiyorsun? Çile ta oradaki koca heyula işte. Köpeği dert etme, ben bakarım ona."
+    },
+    {
+      "id": "fdea3164",
+      "bank_id": "d0b5b600",
+      "text": "Biraz terbiye öğrendiğinde geri gelsek nasıl olur?"
+    },
+    {
+      "id": "feea32d7",
+      "bank_id": "d0b5b600",
+      "text": "Hey, kimse Kuduz'a nasıl davranacağını söyleyemez. Dışarıda kalabilirsin şişko!"
+    }
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "bank_id": "802f9601",
+  "total_strings": 141,
+  "strings": [
+    {
+      "id": "0b64cec9",
+      "bank_id": "802f9601",
+      "text": "Hem kaçık bir keşişi neden etkilemek isteyesin ki?"
+    },
+    {
+      "id": "28b10c98",
+      "bank_id": "802f9601",
+      "text": "Yakınlarda küçük çaplı indirim yapan bir dükkân var."
+    },
+    {
+      "id": "28b10c9a",
+      "bank_id": "802f9601",
+      "text": "Yakınlarda yeni bir indirim var. Çok büyük değil ama yine de iyi."
+    },
+    {
+      "id": "28b10c9b",
+      "bank_id": "802f9601",
+      "text": "Buralara yakın bir yerde ufak bir indirim olduğunu duydum."
+    },
+    {
+      "id": "28b10c9c",
+      "bank_id": "802f9601",
+      "text": "Yakınlardaki pek büyük bir indirim değil ama hiç yoktan iyidir."
+    },
+    {
+      "id": "28b10c9d",
+      "bank_id": "802f9601",
+      "text": "Yakındaki o küçük indirime gittin mi?"
+    },
+    {
+      "id": "2c0c1536",
+      "bank_id": "802f9601",
+      "text": "Çile'de yarışmaya mı çalışıyordun? Adını bile duymadım."
+    },
+    {
+      "id": "2c0c1537",
+      "bank_id": "802f9601",
+      "text": "Ha! Çile'ye girebileceğini sandın, öyle mi?"
+    },
+    {
+      "id": "2db114b9",
+      "bank_id": "802f9601",
+      "text": "İndirim olduğunu duydum. Gerçi öyle pek bir kelepir yok."
+    },
+    {
+      "id": "2f7da808",
+      "bank_id": "802f9601",
+      "text": "En iyisi Oakfield'e gitmen. Şu anda orada indirim var!"
+    },
+    {
+      "id": "2f7da809",
+      "bank_id": "802f9601",
+      "text": "Oakfield'e git, orada indirim var."
+    },
+    {
+      "id": "2f7da80d",
+      "bank_id": "802f9601",
+      "text": "İndirim arıyorsan Oakfield gitmek için iyi bir yer."
+    },
+    {
+      "id": "2f7da80e",
+      "bank_id": "802f9601",
+      "text": "En iyisi Oakfield'e gitmen. Şu anda orada indirim var!"
+    },
+    {
+      "id": "2f7da80f",
+      "bank_id": "802f9601",
+      "text": "Oakfield'de indirim var. Bu hafta oraya gidebilirim."
+    },
+    {
+      "id": "350c231a",
+      "bank_id": "802f9601",
+      "text": "Çile'deki yerini hak etmen gerek, bilirsin ya."
+    },
+    {
+      "id": "350c231b",
+      "bank_id": "802f9601",
+      "text": "Kendini kanıtlamadan Çile'ye giremezsin."
+    },
+    {
+      "id": "3a7db9b8",
+      "bank_id": "802f9601",
+      "text": "Oakfield'de indirim var."
+    },
+    {
+      "id": "3a7db9b9",
+      "bank_id": "802f9601",
+      "text": "Eğer indirim istiyorsan, şu anda gidilecek yer Oakfield."
+    },
+    {
+      "id": "3a7db9bc",
+      "bank_id": "802f9601",
+      "text": "Şey, şu sıralar Oakfield'de indirim var, değil mi?"
+    },
+    {
+      "id": "3a7db9be",
+      "bank_id": "802f9601",
+      "text": "Güzel bir indirim istiyorsan Oakfield'e gitmelisin."
+    },
+    {
+      "id": "3a7db9bf",
+      "bank_id": "802f9601",
+      "text": "Öyleyse Oakfield'e gitsen iyi edersin. Şu anda orada harika bir indirim olduğunu duydum."
+    },
+    {
+      "id": "3f40faf2",
+      "bank_id": "802f9601",
+      "text": "Tam bu kasabada bir indirim var."
+    },
+    {
+      "id": "3f40faf3",
+      "bank_id": "802f9601",
+      "text": "Bu kasabada indirim var, bilirsin ya."
+    },
+    {
+      "id": "3f40faf4",
+      "bank_id": "802f9601",
+      "text": "Şanslı günündesin. Bu kasabada indirim yapan bir dükkân var!"
+    },
+    {
+      "id": "3f40faf5",
+      "bank_id": "802f9601",
+      "text": "Şans bu ya, bu kasabada bir indirim var."
+    },
+    {
+      "id": "3f40faf7",
+      "bank_id": "802f9601",
+      "text": "Şey, tam buralarda bir indirim var!"
+    },
+    {
+      "id": "456a0f30",
+      "bank_id": "802f9601",
+      "text": "Şu Reaver'ı etkilemek de bayağı zor, değil mi?"
+    },
+    {
+      "id": "456a0f31",
+      "bank_id": "802f9601",
+      "text": "Şu Reaver'ı etkilemek için özel bir şeyler gerek."
+    },
+    {
+      "id": "464105f8",
+      "bank_id": "802f9601",
+      "text": "Kasabadaki dükkânlardan birinde indirim olduğunu biliyor muydun?"
+    },
+    {
+      "id": "464105f9",
+      "bank_id": "802f9601",
+      "text": "Baksana, tam bu kasabada indirim var."
+    },
+    {
+      "id": "464105fa",
+      "bank_id": "802f9601",
+      "text": "Çok heyecanlıyım, kasabada harika indirim yapan bir dükkân var."
+    },
+    {
+      "id": "464105fe",
+      "bank_id": "802f9601",
+      "text": "Tam da bu kasabada bir indirim var."
+    },
+    {
+      "id": "464105ff",
+      "bank_id": "802f9601",
+      "text": "Tam burada, kasabada indirim olduğunu bilmiyor muydun?"
+    },
+    {
+      "id": "4a6a16d0",
+      "bank_id": "802f9601",
+      "text": "Şu Reaver'ı etkilemek hiç kolay değil, değil mi?"
+    },
+    {
+      "id": "4a6a16d1",
+      "bank_id": "802f9601",
+      "text": "Reaver'ı etkilemeye mi çalışıyorsun? Hiç kolay olmayacak."
+    },
+    {
+      "id": "5c690d78",
+      "bank_id": "802f9601",
+      "text": "Westcliff'i dene, orada indirim olduğu söyleniyor."
+    },
+    {
+      "id": "5c690d79",
+      "bank_id": "802f9601",
+      "text": "Westcliff'e gidersen muhtemelen bir indirim bulursun."
+    },
+    {
+      "id": "5c690d7d",
+      "bank_id": "802f9601",
+      "text": "Westcliff'te indirim olduğunu bilmiyor muydun?"
+    },
+    {
+      "id": "5c690d7e",
+      "bank_id": "802f9601",
+      "text": "Ne tesadüf. Ben de az önce Westcliff'te indirim olduğunu duydum."
+    },
+    {
+      "id": "5c690d7f",
+      "bank_id": "802f9601",
+      "text": "Westcliff'te indirim var, bilirsin ya."
+    },
+    {
+      "id": "631a71e7",
+      "bank_id": "802f9601",
+      "text": "İndirim olduğunu duydum. Alışveriş zamanı!"
+    },
+    {
+      "id": "67691ea8",
+      "bank_id": "802f9601",
+      "text": "Westcliff'te indirim yapan bazı dükkânlar var."
+    },
+    {
+      "id": "67691ea9",
+      "bank_id": "802f9601",
+      "text": "Yakında Westcliff'e gidiyorum, oradaki bazı dükkânlarda indirim var."
+    },
+    {
+      "id": "67691eac",
+      "bank_id": "802f9601",
+      "text": "Westcliff'te indirim yok muydu?"
+    },
+    {
+      "id": "67691eae",
+      "bank_id": "802f9601",
+      "text": "Şu anda Westcliff'te indirim var."
+    },
+    {
+      "id": "67691eaf",
+      "bank_id": "802f9601",
+      "text": "En iyi tercihin Westcliff olur. Şu anda orada indirim var!"
+    },
+    {
+      "id": "72086001",
+      "bank_id": "802f9601",
+      "text": "Yakınlarda güzel, küçük bir indirim var."
+    },
+    {
+      "id": "72086002",
+      "bank_id": "802f9601",
+      "text": "Buralarda bir indirim var, değil mi?"
+    },
+    {
+      "id": "72086003",
+      "bank_id": "802f9601",
+      "text": "Yakınlarda bir yerde indirim yok mu? Çok büyük değil ama yine de indirim."
+    },
+    {
+      "id": "72086004",
+      "bank_id": "802f9601",
+      "text": "Yakınlarda bir çeşit indirim yok mu?"
+    },
+    {
+      "id": "72086005",
+      "bank_id": "802f9601",
+      "text": "Yakınlardaki indirimi gördün mü? Çok büyük bir şey değil ama yeterince iyi."
+    },
+    {
+      "id": "7c15b388",
+      "bank_id": "802f9601",
+      "text": "Buradan çok uzakta olmayan devasa indirimi gördün mü?"
+    },
+    {
+      "id": "7c15b389",
+      "bank_id": "802f9601",
+      "text": "İnanılmaz bir indirim var, gördün mü?"
+    },
+    {
+      "id": "7c15b38d",
+      "bank_id": "802f9601",
+      "text": "İndirime gittin mi? Dükkân neredeyse malları bedavaya veriyor."
+    },
+    {
+      "id": "7c15b38e",
+      "bank_id": "802f9601",
+      "text": "Buralara yakın devasa bir indirim var. Büyük indirimler."
+    },
+    {
+      "id": "7c15b38f",
+      "bank_id": "802f9601",
+      "text": "Büyük indirimi duydun mu? Daha sonra gidip bir bakmam gerek."
+    },
+    {
+      "id": "7d0871b0",
+      "bank_id": "802f9601",
+      "text": "Buradan çok uzakta olmayan güzel bir indirim var."
+    },
+    {
+      "id": "7d0871b2",
+      "bank_id": "802f9601",
+      "text": "Kasabadaki dükkânlardan birinde güzel bir indirim var."
+    },
+    {
+      "id": "7d0871b3",
+      "bank_id": "802f9601",
+      "text": "Yakınlarda bir indirim yok muydu?"
+    },
+    {
+      "id": "7d0871b4",
+      "bank_id": "802f9601",
+      "text": "Kasabada güzel bir indirim var, değil mi?"
+    },
+    {
+      "id": "7d0871b5",
+      "bank_id": "802f9601",
+      "text": "Yakındaki indirimden harika şeyler aldım."
+    },
+    {
+      "id": "8715c538",
+      "bank_id": "802f9601",
+      "text": "Buralara yakın yerlerde inanılmaz fiyat indirimleri var. Bir servet tasarruf edebilirsin!"
+    },
+    {
+      "id": "8715c539",
+      "bank_id": "802f9601",
+      "text": "Yakınlardaki o devasa indirimi gördün mü? Tüm altınımı alıp geliyorum."
+    },
+    {
+      "id": "8715c53c",
+      "bank_id": "802f9601",
+      "text": "Yakındaki dev indirimi gördün mü?"
+    },
+    {
+      "id": "8715c53e",
+      "bank_id": "802f9601",
+      "text": "Buralardaki dükkânlardaki kelepirleri gördün mü? İnanılmaz!"
+    },
+    {
+      "id": "8715c53f",
+      "bank_id": "802f9601",
+      "text": "Buralara yakın yerlerde inanılmaz fiyat indirimleri var. Bir servet tasarruf edebilirsin."
+    },
+    {
+      "id": "9e9ab638",
+      "bank_id": "802f9601",
+      "text": "İksir depolamak için harika bir zaman. İndirim var."
+    },
+    {
+      "id": "9e9ab63a",
+      "bank_id": "802f9601",
+      "text": "İksir indirimleri için aktara uğradın mı?"
+    },
+    {
+      "id": "9e9ab63b",
+      "bank_id": "802f9601",
+      "text": "Mana iksirlerinde indirim olduğunu duydum."
+    },
+    {
+      "id": "9e9ab63c",
+      "bank_id": "802f9601",
+      "text": "İksirlerde bazı kelepirler var."
+    },
+    {
+      "id": "9e9ab63d",
+      "bank_id": "802f9601",
+      "text": "Mana depolama vakti geldi, indirim var."
+    },
+    {
+      "id": "9e9ab63e",
+      "bank_id": "802f9601",
+      "text": "Mana iksirlerinde indirim olduğunu duydum."
+    },
+    {
+      "id": "9e9ab63f",
+      "bank_id": "802f9601",
+      "text": "İksirlerde indirim mi var dedin? Sanki tam fiyatını ödeyemezmişim gibi."
+    },
+    {
+      "id": "9ebc6702",
+      "bank_id": "802f9601",
+      "text": "Evet, Bloodstone'a git, orada indirim var."
+    },
+    {
+      "id": "9ebc6703",
+      "bank_id": "802f9601",
+      "text": "Bloodstone'da indirim var, bilirsin ya."
+    },
+    {
+      "id": "9ebc6704",
+      "bank_id": "802f9601",
+      "text": "Bloodstone'da bir indirim olduğunu duydum. Neden oraya gitmiyorsun?"
+    },
+    {
+      "id": "9ebc6705",
+      "bank_id": "802f9601",
+      "text": "Bloodstone'da indirim var, bilirsin ya."
+    },
+    {
+      "id": "9ebc6707",
+      "bank_id": "802f9601",
+      "text": "Güzel kelepirler arıyorsan Bloodstone'da indirim var."
+    },
+    {
+      "id": "a39abdd9",
+      "bank_id": "802f9601",
+      "text": "Dükkânlardan birinde iksirlerde özel bir indirim var."
+    },
+    {
+      "id": "a39abdda",
+      "bank_id": "802f9601",
+      "text": "Mana iksirlerinde indirim olduğunu duydum."
+    },
+    {
+      "id": "a39abddb",
+      "bank_id": "802f9601",
+      "text": "İksirlerdeki indirimi duydun mu?"
+    },
+    {
+      "id": "a39abddc",
+      "bank_id": "802f9601",
+      "text": "İksir almanın tam zamanı. İndirim var."
+    },
+    {
+      "id": "a39abddd",
+      "bank_id": "802f9601",
+      "text": "İksir dükkânlarında kelepirler olduğunu duydum."
+    },
+    {
+      "id": "a39abdde",
+      "bank_id": "802f9601",
+      "text": "Belki de hakkında bir şeyler duyduğum bu iksir indiriminden yararlanmalıyım."
+    },
+    {
+      "id": "a39abddf",
+      "bank_id": "802f9601",
+      "text": "İksirlerde indirim yapıyorlar. Belki de biraz stok yapmalıyım."
+    },
+    {
+      "id": "a460c709",
+      "bank_id": "802f9601",
+      "text": "Bowerstone'a gittin mi hiç? Çok güzel bir yer."
+    },
+    {
+      "id": "a5bc7208",
+      "bank_id": "802f9601",
+      "text": "Bloodstone'da indirim var."
+    },
+    {
+      "id": "a5bc7209",
+      "bank_id": "802f9601",
+      "text": "Çok komik. Ben de az önce Bloodstone'da indirim olduğunu duydum."
+    },
+    {
+      "id": "a5bc720a",
+      "bank_id": "802f9601",
+      "text": "Aslında Bloodstone'da indirim var."
+    },
+    {
+      "id": "a5bc720e",
+      "bank_id": "802f9601",
+      "text": "Bloodstone'da indirim var, bilirsin ya."
+    },
+    {
+      "id": "a5bc720f",
+      "bank_id": "802f9601",
+      "text": "Bloodstone'da indirim var, bilirsin ya."
+    },
+    {
+      "id": "a7a655b1",
+      "bank_id": "802f9601",
+      "text": "Şimdi düşününce, Bowerstone'da indirim vardı."
+    },
+    {
+      "id": "a7a655b2",
+      "bank_id": "802f9601",
+      "text": "Bowerstone Pazarı'nda indirim olduğunu duydum. Orayı denemelisin."
+    },
+    {
+      "id": "a7a655b3",
+      "bank_id": "802f9601",
+      "text": "Şu anda Bowerstone'da indirim var."
+    },
+    {
+      "id": "a7a655b4",
+      "bank_id": "802f9601",
+      "text": "Duymadın mı, Bowerstone'da indirim var."
+    },
+    {
+      "id": "a7a655b5",
+      "bank_id": "802f9601",
+      "text": "Bowerstone'da indirim olduğunu duydum."
+    },
+    {
+      "id": "b2a666e0",
+      "bank_id": "802f9601",
+      "text": "Yılın bu zamanında Bowerstone'da harika indirimler olur."
+    },
+    {
+      "id": "b2a666e2",
+      "bank_id": "802f9601",
+      "text": "Bowerstone'da indirim yaptıklarını duymadın mı?"
+    },
+    {
+      "id": "b2a666e3",
+      "bank_id": "802f9601",
+      "text": "Bowerstone Pazarı'na gitmek istersen, orada indirim olduğunu duydum."
+    },
+    {
+      "id": "b2a666e4",
+      "bank_id": "802f9601",
+      "text": "Bowerstone'da indirim olduğunu biliyor muydun?"
+    },
+    {
+      "id": "b2a666e5",
+      "bank_id": "802f9601",
+      "text": "Hemen Bowerstone Pazarı'na git, oradaki dükkânlarda indirim var."
+    },
+    {
+      "id": "bb71ccf4",
+      "bank_id": "802f9601",
+      "text": "Başkeşiş'i etkilemenin birçok yolunu bulabileceğinden eminim. Tapınağın senin gibi birine ihtiyacı var."
+    },
+    {
+      "id": "bb71ccf5",
+      "bank_id": "802f9601",
+      "text": "Başkeşiş kolay kolay etkilenmez, değil mi?"
+    },
+    {
+      "id": "bb71ccf7",
+      "bank_id": "802f9601",
+      "text": "Başkeşiş'i etkilemenin yollarını mı arıyorsun?"
+    },
+    {
+      "id": "c271d7f8",
+      "bank_id": "802f9601",
+      "text": "Demek bu işi yapabileceğini Başkeşiş'e göstermen gerek, ha?"
+    },
+    {
+      "id": "c271d7f9",
+      "bank_id": "802f9601",
+      "text": "Başkeşiş'in senin yeterince tecrübeli olmadığını düşündüğünü duydum. Sanırım birkaç sağlam göreve atılıp yanıldığını ona gösterme vakti."
+    },
+    {
+      "id": "c271d7fa",
+      "bank_id": "802f9601",
+      "text": "Başkeşiş'i etkilemek istiyorsan burada yapacak pek çok şey bulabileceğinden eminim."
+    },
+    {
+      "id": "c672ede0",
+      "bank_id": "802f9601",
+      "text": "Bower Gölü'ne bir uğramalısın. Şu sıralar orada indirim var."
+    },
+    {
+      "id": "c672ede1",
+      "bank_id": "802f9601",
+      "text": "Bower Gölü'nde indirim bulabilirsin."
+    },
+    {
+      "id": "c672ede3",
+      "bank_id": "802f9601",
+      "text": "Bower Gölü'ndeki indirimi duydun mu?"
+    },
+    {
+      "id": "c672ede6",
+      "bank_id": "802f9601",
+      "text": "İndirim için gidilecek yer Bower Gölü."
+    },
+    {
+      "id": "c672ede7",
+      "bank_id": "802f9601",
+      "text": "Bower Gölü'ndeki indirimi duymadın mı?"
+    },
+    {
+      "id": "cd72f8e2",
+      "bank_id": "802f9601",
+      "text": "Bower Gölü'ne gitmelisin. Orada indirim var."
+    },
+    {
+      "id": "cd72f8e3",
+      "bank_id": "802f9601",
+      "text": "Bower Gölü'ndeki indirime gittin mi?"
+    },
+    {
+      "id": "cd72f8e4",
+      "bank_id": "802f9601",
+      "text": "Bower Gölü'nde indirim var, bilirsin ya."
+    },
+    {
+      "id": "cd72f8e5",
+      "bank_id": "802f9601",
+      "text": "Bower Gölü'nde indirim olduğunu duydum. Neden oraya gitmiyorsun?"
+    },
+    {
+      "id": "cd72f8e6",
+      "bank_id": "802f9601",
+      "text": "Bower Gölü'ndeki indirimi duydun mu?"
+    },
+    {
+      "id": "d48372f2",
+      "bank_id": "802f9601",
+      "text": "İndirim istiyorsan Bowerstone Eski Şehri'ne git."
+    },
+    {
+      "id": "d48372f3",
+      "bank_id": "802f9601",
+      "text": "Bowerstone Eski Şehri'nde indirim var."
+    },
+    {
+      "id": "d48372f4",
+      "bank_id": "802f9601",
+      "text": "Bowerstone'daki Eski Şehir'e gitmek istersen, orada indirim olduğunu duydum."
+    },
+    {
+      "id": "d48372f5",
+      "bank_id": "802f9601",
+      "text": "Bowerstone Eski Şehri'ne gitmelisin, orada indirim var."
+    },
+    {
+      "id": "d48372f7",
+      "bank_id": "802f9601",
+      "text": "Aradığın şey indirimse, gitmek isteyeceğin yer Bowerstone Eski Şehri'dir."
+    },
+    {
+      "id": "db837df8",
+      "bank_id": "802f9601",
+      "text": "Bowerstone Eski Şehri'nde şu anda indirim var."
+    },
+    {
+      "id": "db837df9",
+      "bank_id": "802f9601",
+      "text": "Bowerstone'daki Eski Şehir'e gitmekten çekinmiyorsan, şu anda orada iyi bir indirim olduğunu duydum."
+    },
+    {
+      "id": "db837dfa",
+      "bank_id": "802f9601",
+      "text": "Bowerstone Eski Şehri'ne gidersen oradaki dükkânlarda güzel indirimler bulursun."
+    },
+    {
+      "id": "db837dfe",
+      "bank_id": "802f9601",
+      "text": "Bowerstone'daki Eski Şehir'e git. Orada indirim var, bilirsin ya."
+    },
+    {
+      "id": "db837dff",
+      "bank_id": "802f9601",
+      "text": "Bowerstone Eski Şehri'nde kelepirler bulabileceğini söylüyorlar."
+    },
+    {
+      "id": "ead83338",
+      "bank_id": "802f9601",
+      "text": "İndirimleri kollamak gerek. Ne zaman bir kelepir bulacağını asla bilemezsin."
+    },
+    {
+      "id": "ead83339",
+      "bank_id": "802f9601",
+      "text": "Dükkânlara gidip indirim var mı bir bakacağım."
+    },
+    {
+      "id": "ead8333a",
+      "bank_id": "802f9601",
+      "text": "Hizmetkârlarım yerel dükkânlardaki indirimleri her zaman kollar."
+    },
+    {
+      "id": "ead8333b",
+      "bank_id": "802f9601",
+      "text": "Görünüşe göre yerel dükkânlarda bazen indirimler oluyormuş. Tabii ben böyle şeylere hiç dikkat etmem."
+    },
+    {
+      "id": "ead8333d",
+      "bank_id": "802f9601",
+      "text": "Asla hiçbir şeyi tam fiyatına almam. Hep indirimleri beklerim."
+    },
+    {
+      "id": "ead8333e",
+      "bank_id": "802f9601",
+      "text": "Dükkânlardaki indirimleri kolla, ucuz mal almak için harika bir fırsattır."
+    },
+    {
+      "id": "ead8333f",
+      "bank_id": "802f9601",
+      "text": "Dükkânlarda hiç indirim yakaladın mı? Ben her zaman bir tane bulmaya çalışırım."
+    },
+    {
+      "id": "f5d84468",
+      "bank_id": "802f9601",
+      "text": "Dükkânlardaki indirimleri hep kollarım. Ne zaman çıkacağını asla bilemezsin."
+    },
+    {
+      "id": "f5d84469",
+      "bank_id": "802f9601",
+      "text": "Dükkânlarda genelde bir indirim olur. İstediğim şeyi o zaman alırım."
+    },
+    {
+      "id": "f5d8446a",
+      "bank_id": "802f9601",
+      "text": "Hizmetçim yerel dükkânlardaki indirimleri her zaman kollar. Nedenini bilmiyorum."
+    },
+    {
+      "id": "f5d8446b",
+      "bank_id": "802f9601",
+      "text": "Dükkânların indirim yapmasını beklememe hiç gerek yok. Yani, beni kim sanıyorsun?"
+    },
+    {
+      "id": "f5d8446c",
+      "bank_id": "802f9601",
+      "text": "İndirimler için gözünü açık tutmalısın."
+    },
+    {
+      "id": "f5d8446e",
+      "bank_id": "802f9601",
+      "text": "Dükkânlardaki indirimler için daima gözünü dört aç."
+    },
+    {
+      "id": "f5d8446f",
+      "bank_id": "802f9601",
+      "text": "Dükkânlardaki indirimleri kolla, ucuz mal almak için harika bir fırsattır."
+    }
+  ]
+}

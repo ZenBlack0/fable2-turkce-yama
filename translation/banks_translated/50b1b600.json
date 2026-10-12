@@ -1,0 +1,821 @@
+{
+  "bank_id": "50b1b600",
+  "total_strings": 163,
+  "strings": [
+    {
+      "id": "03e63b60",
+      "bank_id": "50b1b600",
+      "text": "Daha önce bunlarla hiç dövüştün mü?"
+    },
+    {
+      "id": "04e63cd3",
+      "bank_id": "50b1b600",
+      "text": "Bayağı dövüşmüş gibisin doğrusu. Ya öyle ya da çok çabuk öğreniyorsun."
+    },
+    {
+      "id": "06e64039",
+      "bank_id": "50b1b600",
+      "text": "Harikaydı! O şeylerin hiç şansı yoktu."
+    },
+    {
+      "id": "09e644f2",
+      "bank_id": "50b1b600",
+      "text": "Artık hiç ışıkcık görmüyorum ve hiçbir kof adam peşimizden gelmedi."
+    },
+    {
+      "id": "0a82b640",
+      "bank_id": "50b1b600",
+      "text": "Hadi ama... bu şey çok ağır."
+    },
+    {
+      "id": "0ae64665",
+      "bank_id": "50b1b600",
+      "text": "Burada güvendeyiz herhalde."
+    },
+    {
+      "id": "0e4409c0",
+      "bank_id": "50b1b600",
+      "text": "Pek konuşmuyorsun, değil mi?"
+    },
+    {
+      "id": "10440d26",
+      "bank_id": "50b1b600",
+      "text": "Bir şey duydun mu?"
+    },
+    {
+      "id": "10851747",
+      "bank_id": "50b1b600",
+      "text": "Neredeyse bitirdik sayılır yani."
+    },
+    {
+      "id": "11440e99",
+      "bank_id": "50b1b600",
+      "text": "Yok ya... muhtemelen kuruntumdur."
+    },
+    {
+      "id": "1185193a",
+      "bank_id": "50b1b600",
+      "text": "Sadece bir oda kalmış olmalı."
+    },
+    {
+      "id": "1391a19b",
+      "bank_id": "50b1b600",
+      "text": "Pekala... ikinci kapı, ikinci plaka."
+    },
+    {
+      "id": "17192bc8",
+      "bank_id": "50b1b600",
+      "text": "Oh... Benden çok öndesin bakıyorum."
+    },
+    {
+      "id": "1a193081",
+      "bank_id": "50b1b600",
+      "text": "Sen olduğun yerde kal o zaman."
+    },
+    {
+      "id": "1fa5d11c",
+      "bank_id": "50b1b600",
+      "text": "Biricik evladımı hiçbir koruma olmadan bilinmeyen tehlikelere salamam."
+    },
+    {
+      "id": "20a5d28f",
+      "bank_id": "50b1b600",
+      "text": "Bir refakatçi bulacağım ve bu konu burada kapanmıştır."
+    },
+    {
+      "id": "22a5d5d5",
+      "bank_id": "50b1b600",
+      "text": "Baba, kutsal metinler mağaraya yalnızca iki keşişin girebileceğini açıkça söylüyor. Başka hiç kimsenin değil."
+    },
+    {
+      "id": "264d8243",
+      "bank_id": "50b1b600",
+      "text": "Başkeşişin rızasını kazanmalısın."
+    },
+    {
+      "id": "2b107f90",
+      "bank_id": "50b1b600",
+      "text": "...hmm... silahlı... epey heybetli... ama oraya öyle herkesi gönderemem."
+    },
+    {
+      "id": "2c108103",
+      "bank_id": "50b1b600",
+      "text": "Bir anlığına sana bakmama izin ver..."
+    },
+    {
+      "id": "2c68d148",
+      "bank_id": "50b1b600",
+      "text": "Sazlıkların oraya"
+    },
+    {
+      "id": "2e9d1dee",
+      "bank_id": "50b1b600",
+      "text": "Bize barışçıl bir keşiş değil, bir Kahraman lazım."
+    },
+    {
+      "id": "2f1085dc",
+      "bank_id": "50b1b600",
+      "text": "Ah! Merhaba evladım. Acaba..."
+    },
+    {
+      "id": "2f68d601",
+      "bank_id": "50b1b600",
+      "text": "Gece açan otlar sarar dansa gidenleri, hüzünlü mehtap rüyalarında."
+    },
+    {
+      "id": "3010874a",
+      "bank_id": "50b1b600",
+      "text": "Öhöm."
+    },
+    {
+      "id": "31108922",
+      "bank_id": "50b1b600",
+      "text": "Zındık."
+    },
+    {
+      "id": "32108a95",
+      "bank_id": "50b1b600",
+      "text": "Biraderler, bizi yalnız bırakın."
+    },
+    {
+      "id": "35275d40",
+      "bank_id": "50b1b600",
+      "text": "Hazır olduğunuzda en güçlü keşişimiz sizi bekliyor olacak."
+    },
+    {
+      "id": "36275f33",
+      "bank_id": "50b1b600",
+      "text": "Şimdi ben diğerlerini toplayıp Kutsama için hazırlık yapmalıyım."
+    },
+    {
+      "id": "383ab3ab",
+      "bank_id": "50b1b600",
+      "text": "Sazlıkların oraya"
+    },
+    {
+      "id": "429248eb",
+      "bank_id": "50b1b600",
+      "text": "Tarikatımızın önünde mühim bir vazife var ve senin gibi tecrübeli bir maceracının yardımına fena halde ihtiyacımız var."
+    },
+    {
+      "id": "43924a5e",
+      "bank_id": "50b1b600",
+      "text": "Rookridge'deki marifetlerini duydum. Herkes duydu."
+    },
+    {
+      "id": "44924c31",
+      "bank_id": "50b1b600",
+      "text": "Işığa şükürler olsun! Dualarım kabul oldu."
+    },
+    {
+      "id": "53099468",
+      "bank_id": "50b1b600",
+      "text": "Gel! Benimle biraz yürü."
+    },
+    {
+      "id": "53b96197",
+      "bank_id": "50b1b600",
+      "text": "Işığın Efendileri, bu suyu kutsayın ki onunla yeni bir hayata bir kez daha can verelim."
+    },
+    {
+      "id": "540995db",
+      "bank_id": "50b1b600",
+      "text": "Rookridge'de ne yaptığını duydum."
+    },
+    {
+      "id": "540995de",
+      "bank_id": "50b1b600",
+      "text": "Bize çok faydan dokunabileceğini düşünüyorum."
+    },
+    {
+      "id": "54b9630a",
+      "bank_id": "50b1b600",
+      "text": "Yeni hayat filizlendikçe biz de yeşereceğiz."
+    },
+    {
+      "id": "55a00610",
+      "bank_id": "50b1b600",
+      "text": "Çok güzel, değil mi?"
+    },
+    {
+      "id": "57a00976",
+      "bank_id": "50b1b600",
+      "text": "Keşke bu şeyi taşımaktan fazlasını yapabilseydim."
+    },
+    {
+      "id": "58a00ae9",
+      "bank_id": "50b1b600",
+      "text": "İnanılmazdı doğrusu."
+    },
+    {
+      "id": "59099dfa",
+      "bank_id": "50b1b600",
+      "text": "Sensin! Dönmen için dua etmiştim."
+    },
+    {
+      "id": "5ddee32f",
+      "bank_id": "50b1b600",
+      "text": "Hadi, plakanın üzerine çık."
+    },
+    {
+      "id": "5e825e3f",
+      "bank_id": "50b1b600",
+      "text": "Savaşmak için bir sebep bulmasına ihtiyacımız olacak."
+    },
+    {
+      "id": "5edee482",
+      "bank_id": "50b1b600",
+      "text": "Zor bir şey değil, sadece plakanın üzerinde dur."
+    },
+    {
+      "id": "5fdee675",
+      "bank_id": "50b1b600",
+      "text": "Çekinme, basınç plakasının üzerine bas."
+    },
+    {
+      "id": "651a5b97",
+      "bank_id": "50b1b600",
+      "text": "O da ne?"
+    },
+    {
+      "id": "661a5d0a",
+      "bank_id": "50b1b600",
+      "text": "Şey... senin devreye girdiğin yer burası, değil mi?"
+    },
+    {
+      "id": "6e15bac0",
+      "bank_id": "50b1b600",
+      "text": "Biliyor musun, hayatımın zirve noktası muhtemelen bu olacak."
+    },
+    {
+      "id": "6f15bcb3",
+      "bank_id": "50b1b600",
+      "text": "Gerçi o zamana kadar yaşlı bir kadın olurum, yani paçayı yırtmış olurum herhalde."
+    },
+    {
+      "id": "7015be26",
+      "bank_id": "50b1b600",
+      "text": "Umarım bir dahaki sefere bunu yapacak başka birini bulurlar."
+    },
+    {
+      "id": "7115bf99",
+      "bank_id": "50b1b600",
+      "text": "Bir iki dik yer var ama o kadar."
+    },
+    {
+      "id": "7215c10c",
+      "bank_id": "50b1b600",
+      "text": "Şimdilik o kadar da kötü sayılmaz."
+    },
+    {
+      "id": "7315c2ff",
+      "bank_id": "50b1b600",
+      "text": "Ah evet, bu şeyin daha da ağırlaştığını hissedebiliyorum. Pek hoş doğrusu."
+    },
+    {
+      "id": "7415c452",
+      "bank_id": "50b1b600",
+      "text": "Pekala, işte açıldı."
+    },
+    {
+      "id": "77dc099b",
+      "bank_id": "50b1b600",
+      "text": "Görünüşe göre diğer plaka merdivenlerin yukarısında. Bir bakıverir misin?"
+    },
+    {
+      "id": "7bbf1184",
+      "bank_id": "50b1b600",
+      "text": "Plakanın üzerine bas ve bu iş bitsin."
+    },
+    {
+      "id": "7c15d0ca",
+      "bank_id": "50b1b600",
+      "text": "Pek epik bir şiir konusu sayılmaz, değil mi?"
+    },
+    {
+      "id": "7d15d2bd",
+      "bank_id": "50b1b600",
+      "text": "\"Bir mağarada testi taşıdığım gün!\""
+    },
+    {
+      "id": "7d70fcd6",
+      "bank_id": "50b1b600",
+      "text": "Belki biraz itibar kazansaydın sana güvenmeye daha meyilli olurdum."
+    },
+    {
+      "id": "7e70fe49",
+      "bank_id": "50b1b600",
+      "text": "Pek heybetli görünüyorsun ama topluluğumuzun hayatta kalmasını tamamen yabancı birine emanet edemem."
+    },
+    {
+      "id": "7ebf165d",
+      "bank_id": "50b1b600",
+      "text": "Hadi ama, bu son plaka."
+    },
+    {
+      "id": "7f1422f7",
+      "bank_id": "50b1b600",
+      "text": "Gülünç durumların en alası..."
+    },
+    {
+      "id": "8014246a",
+      "bank_id": "50b1b600",
+      "text": "Ortalıkta tek bir refakatçi bile yok."
+    },
+    {
+      "id": "811425dd",
+      "bank_id": "50b1b600",
+      "text": "Gerçekten yeterince güvenli olabilir mi ki... hayır."
+    },
+    {
+      "id": "85245d88",
+      "bank_id": "50b1b600",
+      "text": "Hâlâ itibarı olan birini bulmam gerek."
+    },
+    {
+      "id": "872460ee",
+      "bank_id": "50b1b600",
+      "text": "Belki de Hana falan ilan asmalıyım?"
+    },
+    {
+      "id": "87c44738",
+      "bank_id": "50b1b600",
+      "text": "İşte oldu!"
+    },
+    {
+      "id": "88246241",
+      "bank_id": "50b1b600",
+      "text": "Keşke eski Kahramanlar bir kereliğine hâlâ buralarda olsaydı."
+    },
+    {
+      "id": "882d03dc",
+      "bank_id": "50b1b600",
+      "text": "Ama elimden pek bir şey gelmiyor çünkü keşişler asla kimsenin kafasını gözünü yarmamak üzerine kutsal yemin ederler."
+    },
+    {
+      "id": "88710e02",
+      "bank_id": "50b1b600",
+      "text": "Neden tavernaya gidip onlar hakkında bir şeyler yapabilecek misin bakmıyorsun? Güzel bir başlangıç olurdu."
+    },
+    {
+      "id": "88710e07",
+      "bank_id": "50b1b600",
+      "text": "Evet... Rookridge son zamanlarda haydutlar yüzünden korkunç günler geçiriyor."
+    },
+    {
+      "id": "892d054f",
+      "bank_id": "50b1b600",
+      "text": "Öyle değiller."
+    },
+    {
+      "id": "89c44a1e",
+      "bank_id": "50b1b600",
+      "text": "Bu ilki."
+    },
+    {
+      "id": "89d790a6",
+      "bank_id": "50b1b600",
+      "text": "Acaba bu testiyi taşımak hakkında ne düşünürdü merak ediyorum."
+    },
+    {
+      "id": "8a5c161f",
+      "bank_id": "50b1b600",
+      "text": "Benim duracağım yer burası. Sanırım seninki merdivenlerin başında... tabii ıslanmak istemiyorsan."
+    },
+    {
+      "id": "8ac44bf1",
+      "bank_id": "50b1b600",
+      "text": "Basınç plakalarına ağırlık vermek kapıları açacaktır."
+    },
+    {
+      "id": "8ad79219",
+      "bank_id": "50b1b600",
+      "text": "Fikrini ne değiştirdi acaba merak ediyorum."
+    },
+    {
+      "id": "8c2d0a08",
+      "bank_id": "50b1b600",
+      "text": "O mağarada yanımda olman içimi rahatlatacak, evet kesinlikle."
+    },
+    {
+      "id": "8cc44ed7",
+      "bank_id": "50b1b600",
+      "text": "Şimdi, babama göre suyu toplayabilmek için sırasıyla bu üç kapıdan geçmemiz gerekiyor."
+    },
+    {
+      "id": "8d2d0bfb",
+      "bank_id": "50b1b600",
+      "text": "Oh, güçlü ve yakışıklı birisin, değil mi?"
+    },
+    {
+      "id": "8dc4504a",
+      "bank_id": "50b1b600",
+      "text": "Vay canına! Hayatımda hiç böyle bir şey görmedim. Asla."
+    },
+    {
+      "id": "8e2d0d6e",
+      "bank_id": "50b1b600",
+      "text": "Kendilerini akıllı sanan bazı tipler bana Hammer der."
+    },
+    {
+      "id": "8e415be8",
+      "bank_id": "50b1b600",
+      "text": "Plakanın üzerinde durabilir misin lütfen? Burası her ne kadar güzel olsa da çok fazla kalmak istemiyorum..."
+    },
+    {
+      "id": "8f2d0ec1",
+      "bank_id": "50b1b600",
+      "text": "Ben Rahibe Hannah."
+    },
+    {
+      "id": "8fd79a38",
+      "bank_id": "50b1b600",
+      "text": "O bir savaşçıydı, bilirsin. Işık Tapınağı'nı kuran adam."
+    },
+    {
+      "id": "902d10b4",
+      "bank_id": "50b1b600",
+      "text": "Ah, o güzel şarkı söyleyen sesimin kalabalıkları toplayacağını biliyordum."
+    },
+    {
+      "id": "90415ece",
+      "bank_id": "50b1b600",
+      "text": "Plakanın üzerine geri çıkman gerek."
+    },
+    {
+      "id": "90d79bab",
+      "bank_id": "50b1b600",
+      "text": "Şimdi ana odaya geri dönüyoruz."
+    },
+    {
+      "id": "90dcd094",
+      "bank_id": "50b1b600",
+      "text": "...mmm... hayır..."
+    },
+    {
+      "id": "914160a1",
+      "bank_id": "50b1b600",
+      "text": "Çeşmeyle ne kadar oyalanırsak, o şeylerden o kadar fazlası üzerimize gelir."
+    },
+    {
+      "id": "91d79d1e",
+      "bank_id": "50b1b600",
+      "text": "Pekala, sanırım bundan alabileceğimiz suyun hepsi bu kadar."
+    },
+    {
+      "id": "922d139a",
+      "bank_id": "50b1b600",
+      "text": "Selam oğlum. Merhaba."
+    },
+    {
+      "id": "92416214",
+      "bank_id": "50b1b600",
+      "text": "Zor bir şey değil, yukarıdaki plakanın üzerinde dur sadece."
+    },
+    {
+      "id": "932d150d",
+      "bank_id": "50b1b600",
+      "text": "Demek refakatçim sensin ha? Babam uğrayacağını söylemişti."
+    },
+    {
+      "id": "93416387",
+      "bank_id": "50b1b600",
+      "text": "Diğer plaka tam şurada, en tepede olmalı."
+    },
+    {
+      "id": "93d7a064",
+      "bank_id": "50b1b600",
+      "text": "Gerçek gücün çekici savurmakta değil, onu yere bırakmakta yattığını söylemişti."
+    },
+    {
+      "id": "94d7a1d7",
+      "bank_id": "50b1b600",
+      "text": "Şiddete sonsuza dek tövbe edip tarikatı kurdu."
+    },
+    {
+      "id": "954166ed",
+      "bank_id": "50b1b600",
+      "text": "Hadi, merdivenlerin başındaki plakanın üzerinde dur."
+    },
+    {
+      "id": "95d7a34a",
+      "bank_id": "50b1b600",
+      "text": "Ama sonra aydınlığa kavuştu diyorlar."
+    },
+    {
+      "id": "96d7a53d",
+      "bank_id": "50b1b600",
+      "text": "Savaşta yüzlerce adam öldürmüş. Belki de binlerce."
+    },
+    {
+      "id": "9820ac7c",
+      "bank_id": "50b1b600",
+      "text": "Mağaraya ne kadar erken varırsan o kadar iyi."
+    },
+    {
+      "id": "9920adef",
+      "bank_id": "50b1b600",
+      "text": "Mağara uzak değil. İçeride bol şans."
+    },
+    {
+      "id": "9b20b135",
+      "bank_id": "50b1b600",
+      "text": "Dediğim gibi, mağara hemen şurada."
+    },
+    {
+      "id": "a080b10f",
+      "bank_id": "50b1b600",
+      "text": "Evet, peki. Kendini bana kanıtla, o zaman konuşuruz."
+    },
+    {
+      "id": "a4cb1ecf",
+      "bank_id": "50b1b600",
+      "text": "İşte bu, son oda burası."
+    },
+    {
+      "id": "a5cb20a2",
+      "bank_id": "50b1b600",
+      "text": "Neredeyse bitmiş olmalı. Bunu daha önce de söylediğimi biliyorum ama umarım bu sefer doğrudur."
+    },
+    {
+      "id": "a6cb2215",
+      "bank_id": "50b1b600",
+      "text": "Sanırım son plaka şurada."
+    },
+    {
+      "id": "a6f14520",
+      "bank_id": "50b1b600",
+      "text": "Açıkça söyleyeyim, biraz kıskanıyorum doğrusu."
+    },
+    {
+      "id": "a7f14693",
+      "bank_id": "50b1b600",
+      "text": "Bütün heyecanı sen yaşıyorsun, bense bir katır gibi bu lanet şeyi taşımakla kalıyorum."
+    },
+    {
+      "id": "a83aab68",
+      "bank_id": "50b1b600",
+      "text": "Dualarımda sana da yer vereceğim. Hatta belki şimdi başlarım."
+    },
+    {
+      "id": "a93aacdb",
+      "bank_id": "50b1b600",
+      "text": "Işık seni korusun!"
+    },
+    {
+      "id": "aaf14b6c",
+      "bank_id": "50b1b600",
+      "text": "Babam bundan bahsetti mi? Evet."
+    },
+    {
+      "id": "ab3ab021",
+      "bank_id": "50b1b600",
+      "text": "Hemen işe koyulmak istiyorsun herhalde."
+    },
+    {
+      "id": "abf14cdf",
+      "bank_id": "50b1b600",
+      "text": "İçeride ne dövüş edilecekse hepsi sana ait."
+    },
+    {
+      "id": "afa7b99c",
+      "bank_id": "50b1b600",
+      "text": "Belki kasabada onu etkilemenin bir yolunu bulabilirsin."
+    },
+    {
+      "id": "b1887060",
+      "bank_id": "50b1b600",
+      "text": "Doldu! Ana odaya geri dönelim o zaman."
+    },
+    {
+      "id": "b4da4d90",
+      "bank_id": "50b1b600",
+      "text": "Işığın yok mu senin?"
+    },
+    {
+      "id": "b5aa78df",
+      "bank_id": "50b1b600",
+      "text": "Pekala, işte sıradaki. Suyu yakalamak için eskisi gibi çeşmenin yanında duracağım."
+    },
+    {
+      "id": "b5edeeeb",
+      "bank_id": "50b1b600",
+      "text": "Şey... Tehlike herkesin harcı değil herhalde."
+    },
+    {
+      "id": "b6aa7ab2",
+      "bank_id": "50b1b600",
+      "text": "Kahretsin, geliyorlar!"
+    },
+    {
+      "id": "b7da5269",
+      "bank_id": "50b1b600",
+      "text": "Hey! Bütün gün seninle karanlıkta debelenecek değilim."
+    },
+    {
+      "id": "c36a20f4",
+      "bank_id": "50b1b600",
+      "text": "İtibarı olan birine ihtiyacım var. Sen bu vasfa uymuyorsun."
+    },
+    {
+      "id": "c5e75636",
+      "bank_id": "50b1b600",
+      "text": "Şimdi, Altın Palamut'u beslemek Işık Pınarı'ndan alınan kutsal suyla yapılır."
+    },
+    {
+      "id": "c66a254d",
+      "bank_id": "50b1b600",
+      "text": "Bu işi adını sanını hiç duymadığım birine veremem!"
+    },
+    {
+      "id": "c7e7591c",
+      "bank_id": "50b1b600",
+      "text": "Kutsal metnimiz bu mağaraya iki keşişin girmesi gerektiğini söyler: en güçlü olan ve başkeşişin seçeceği ikinci bir keşiş."
+    },
+    {
+      "id": "c8780851",
+      "bank_id": "50b1b600",
+      "text": "Şey, diğer plakanın üzerinde dur. Devasa bir içecek istemiyorsan tabii."
+    },
+    {
+      "id": "c8e75a8f",
+      "bank_id": "50b1b600",
+      "text": "Fakat pınar, oldukça tehlikeli olduğu söylenen yakındaki bir mağarada yer alıyor."
+    },
+    {
+      "id": "c994fde0",
+      "bank_id": "50b1b600",
+      "text": "Heh... oldukça etkileyici ama... hayır, sanmıyorum."
+    },
+    {
+      "id": "c9e75c62",
+      "bank_id": "50b1b600",
+      "text": "Bu yüzden ikinci bir keşiş yerine, ilkinin yanına bir koruyucu göndermeyi seçtim. Ve ilgileniyorsan o kişi sensin..."
+    },
+    {
+      "id": "cae75dd5",
+      "bank_id": "50b1b600",
+      "text": "Açıkçası bu beni endişelendiriyor, bilhassa buradaki en güçlü keşiş kendi evladım olduğu için."
+    },
+    {
+      "id": "cb74cda3",
+      "bank_id": "50b1b600",
+      "text": "Mağara uzak değil."
+    },
+    {
+      "id": "cbe75f48",
+      "bank_id": "50b1b600",
+      "text": "Buraya gelirken önünden geçmişsindir muhtemelen."
+    },
+    {
+      "id": "cc74cf16",
+      "bank_id": "50b1b600",
+      "text": "Basitçe, kutsal mağaraya git ve keşişe Işık Pınarı'na kadar refakat et."
+    },
+    {
+      "id": "cce7613b",
+      "bank_id": "50b1b600",
+      "text": "Mağara bu yolun hemen sonunda."
+    },
+    {
+      "id": "cfabbdf0",
+      "bank_id": "50b1b600",
+      "text": "Sen misin? Sen misin oğlum?"
+    },
+    {
+      "id": "d04b3b90",
+      "bank_id": "50b1b600",
+      "text": "Lanet olsun!"
+    },
+    {
+      "id": "d0abbf63",
+      "bank_id": "50b1b600",
+      "text": "Bayağı bir yoldaşın varmış. Beni bir daha yalamasına izin vermemeyi hatırlat bana."
+    },
+    {
+      "id": "d14b3d03",
+      "bank_id": "50b1b600",
+      "text": "Suyu korumaya çalışıyor olmalılar..."
+    },
+    {
+      "id": "d1abc0d3",
+      "bank_id": "50b1b600",
+      "text": "Yok canım, ama ona saldırdığın için iyi bir köpeksin sen."
+    },
+    {
+      "id": "d1abc0d6",
+      "bank_id": "50b1b600",
+      "text": "Öğğ. Bu çok iğrenç."
+    },
+    {
+      "id": "d24b3ef6",
+      "bank_id": "50b1b600",
+      "text": "Bunu yaptıklarını bilmiyordum."
+    },
+    {
+      "id": "d2abc249",
+      "bank_id": "50b1b600",
+      "text": "Kimmiş iyi köpek? Kof adamların kafasını kim koparırmış?"
+    },
+    {
+      "id": "d3abc438",
+      "bank_id": "50b1b600",
+      "text": "Tamam, endişelenmeye başladım şimdi."
+    },
+    {
+      "id": "d3abc43c",
+      "bank_id": "50b1b600",
+      "text": "O şey her ne idiyse... ona hazır mısın?"
+    },
+    {
+      "id": "d3abc43d",
+      "bank_id": "50b1b600",
+      "text": "Nerede bu..."
+    },
+    {
+      "id": "d3abc43e",
+      "bank_id": "50b1b600",
+      "text": "Hey! Geri dön! Diğer tarafta ne var kim bilir!"
+    },
+    {
+      "id": "d3abc43f",
+      "bank_id": "50b1b600",
+      "text": "Sence iyi midir?"
+    },
+    {
+      "id": "d4abc5af",
+      "bank_id": "50b1b600",
+      "text": "Ne var orada?"
+    },
+    {
+      "id": "d6abc8f5",
+      "bank_id": "50b1b600",
+      "text": "Dünyada neyin nesiydi o öyle?"
+    },
+    {
+      "id": "da0d8ec8",
+      "bank_id": "50b1b600",
+      "text": "Ah, harika. Sadece bu şeyin akması durana kadar beklememiz gerek."
+    },
+    {
+      "id": "dc0d922e",
+      "bank_id": "50b1b600",
+      "text": "Ama böyle kalırsa devriliverir, sonra halimiz ne olur?"
+    },
+    {
+      "id": "dd0d9381",
+      "bank_id": "50b1b600",
+      "text": "Dinlenmek istersin diye bu testiyi düz tabanlı yaparlardı diye düşünür insan."
+    },
+    {
+      "id": "ddabd3fa",
+      "bank_id": "50b1b600",
+      "text": "Öff. Başlayalım mı?"
+    },
+    {
+      "id": "df0d96e7",
+      "bank_id": "50b1b600",
+      "text": "Neredeyse bitti!"
+    },
+    {
+      "id": "e2b39acc",
+      "bank_id": "50b1b600",
+      "text": "Hacı'yı bulacaksanız Kutsama devam etmeli."
+    },
+    {
+      "id": "e98f75fe",
+      "bank_id": "50b1b600",
+      "text": "Ve senin şunun üzerinde durman gerek."
+    },
+    {
+      "id": "eb8f78c4",
+      "bank_id": "50b1b600",
+      "text": "Suyun akmasını sağlamak ikimizin de çabasını gerektirecek."
+    },
+    {
+      "id": "ec8f7ab7",
+      "bank_id": "50b1b600",
+      "text": "Ben burada duruyorum ki onu yakalayabileyim."
+    },
+    {
+      "id": "ee8f7d9d",
+      "bank_id": "50b1b600",
+      "text": "Şimdi, bu odada iki plaka var."
+    },
+    {
+      "id": "ef8672e8",
+      "bank_id": "50b1b600",
+      "text": "Önden buyur."
+    },
+    {
+      "id": "f086745b",
+      "bank_id": "50b1b600",
+      "text": "Altın olsun ya da olmasın, lanet bir palamut ne kadar suya ihtiyaç duyar ki?"
+    },
+    {
+      "id": "f18675ce",
+      "bank_id": "50b1b600",
+      "text": "Yani baksana şuna, devasa bir şey."
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "bank_id": "302e9601",
+  "total_strings": 138,
+  "strings": [
+    {
+      "id": "0185a891",
+      "bank_id": "302e9601",
+      "text": "Şu evi satın alan kişi o işte."
+    },
+    {
+      "id": "0185a895",
+      "bank_id": "302e9601",
+      "text": "İşte mutlu bir ev sahibi daha geçiyor."
+    },
+    {
+      "id": "0185a896",
+      "bank_id": "302e9601",
+      "text": "Şu maceracının yeni bir ev satın aldığını duydum."
+    },
+    {
+      "id": "1737f020",
+      "bank_id": "302e9601",
+      "text": "Ah, şu orman havasını içine çek. Canlandırıcı değil mi?"
+    },
+    {
+      "id": "1737f021",
+      "bank_id": "302e9601",
+      "text": "Brightwood'a neden geldim hiç bilmiyorum."
+    },
+    {
+      "id": "1737f022",
+      "bank_id": "302e9601",
+      "text": "Çocukken buradaki ağaçlardan birine adımı kazımıştım. Hangisi olduğunu bilmiyorum gerçi."
+    },
+    {
+      "id": "1737f023",
+      "bank_id": "302e9601",
+      "text": "Brightwood'da pek sık yürümem."
+    },
+    {
+      "id": "1737f024",
+      "bank_id": "302e9601",
+      "text": "Bana sorarsan bu sözde aydınlık ormanların altında her zaman karanlık bir şeyler pusuya yatmıştır."
+    },
+    {
+      "id": "1737f025",
+      "bank_id": "302e9601",
+      "text": "Adı Brightwood olduğuna göre buralardaki ağaçların karanlıkta parlayacağını falan sanmıştım."
+    },
+    {
+      "id": "1737f027",
+      "bank_id": "302e9601",
+      "text": "Ormanlardan hep korkmuşumdur. Buradakilerden bile."
+    },
+    {
+      "id": "1d240660",
+      "bank_id": "302e9601",
+      "text": "Duyduğuma göre bazı evler satılmış."
+    },
+    {
+      "id": "1d240663",
+      "bank_id": "302e9601",
+      "text": "Bu evlerden biri geçenlerde satıldı."
+    },
+    {
+      "id": "1d240667",
+      "bank_id": "302e9601",
+      "text": "Şu maceracı sonunda evi sattı. Muhtemelen orada pek vakit geçirmiyordu."
+    },
+    {
+      "id": "1e37fb28",
+      "bank_id": "302e9601",
+      "text": "Brightwood'u her zaman sevmişimdir. Kendine has bir havası var."
+    },
+    {
+      "id": "1e37fb29",
+      "bank_id": "302e9601",
+      "text": "Buralardaki çiftliği hiç ziyaret ettin mi?"
+    },
+    {
+      "id": "1e37fb2a",
+      "bank_id": "302e9601",
+      "text": "Doğada olmak çok güzel."
+    },
+    {
+      "id": "1e37fb2c",
+      "bank_id": "302e9601",
+      "text": "Bir zamanlar buralardaki çiftlik ailemindi. Tabii o zamanlar Brightwood'un çoğu bizimdi."
+    },
+    {
+      "id": "1e37fb2d",
+      "bank_id": "302e9601",
+      "text": "Pek orman kadını sayılmam."
+    },
+    {
+      "id": "1e37fb2e",
+      "bank_id": "302e9601",
+      "text": "Buralarda bir yerlerde bir çiftlik yok muydu?"
+    },
+    {
+      "id": "1e37fb2f",
+      "bank_id": "302e9601",
+      "text": "Brightwood fena değil ama Westcliff'te olmayı tercih ederdim."
+    },
+    {
+      "id": "236762bc",
+      "bank_id": "302e9601",
+      "text": "Yok artık, kocanı şu angaryacı haydutlara satmadın, di mi? Vay canına."
+    },
+    {
+      "id": "239bd080",
+      "bank_id": "302e9601",
+      "text": "İtiraf etmeliyim ki gece buralarda dolaşmak insanın tüylerini ürpertmeye yeter."
+    },
+    {
+      "id": "239bd081",
+      "bank_id": "302e9601",
+      "text": "Burada kaç kişinin gömülü olduğunu merak ediyorum."
+    },
+    {
+      "id": "239bd083",
+      "bank_id": "302e9601",
+      "text": "Gömülü olan anne babamı ayda en az bir kez ziyaret ederim."
+    },
+    {
+      "id": "239bd084",
+      "bank_id": "302e9601",
+      "text": "Mezar yerim talimat verdiğim gibi yabani otlardan temizleniyor mudur acaba..."
+    },
+    {
+      "id": "239bd085",
+      "bank_id": "302e9601",
+      "text": "Ara sıra buraya gelip atalarımın mezarlarını incelemeyi severim."
+    },
+    {
+      "id": "239bd086",
+      "bank_id": "302e9601",
+      "text": "Bu rutubetli yerde yatmaktansa denize gömülmeyi tercih ederdim."
+    },
+    {
+      "id": "239bd087",
+      "bank_id": "302e9601",
+      "text": "Mezarlıkta yatan bir akrabam var. Ailenin gerçek anlamda parası olduğu zamanlardan kalma."
+    },
+    {
+      "id": "24241162",
+      "bank_id": "302e9601",
+      "text": "Şu maceracı sonunda evi sattı."
+    },
+    {
+      "id": "24241165",
+      "bank_id": "302e9601",
+      "text": "Şu maceracının bir ev sattığını duydum. Paraya ihtiyacı vardı herhalde."
+    },
+    {
+      "id": "24241166",
+      "bank_id": "302e9601",
+      "text": "Eskiden bir evi vardı ama sattı."
+    },
+    {
+      "id": "2a9bdb82",
+      "bank_id": "302e9601",
+      "text": "Buralara gömülmeme imkân yok. Denizde yakılmak, işte öyle gitmek isterim."
+    },
+    {
+      "id": "2a9bdb83",
+      "bank_id": "302e9601",
+      "text": "Şu süslü mezarlardan birinde yatmaktansa denize gömülmeyi tercih ederim."
+    },
+    {
+      "id": "2a9bdb84",
+      "bank_id": "302e9601",
+      "text": "Geceleri buralar biraz ürkütücü oluyor."
+    },
+    {
+      "id": "2a9bdb85",
+      "bank_id": "302e9601",
+      "text": "Buralarda gömülü epey ilginç insanlar var."
+    },
+    {
+      "id": "2a9bdb86",
+      "bank_id": "302e9601",
+      "text": "Atalarım burada gömülü. Yakın zamandakiler değil gerçi. Gücümüz yetmedi."
+    },
+    {
+      "id": "2eddf45a",
+      "bank_id": "302e9601",
+      "text": "Duyduğuma göre bu dükkânlardan bazılarının kapanması gerekecekmiş. Yeterince kâr yok."
+    },
+    {
+      "id": "2eddf45d",
+      "bank_id": "302e9601",
+      "text": "Düşük cirolarıyla bu dükkânların bazılarının nasıl açık kaldığına şaşmalı."
+    },
+    {
+      "id": "2eddf45e",
+      "bank_id": "302e9601",
+      "text": "Bu kadar düşük kârlarla bu dükkânların bazılarının ne kadar dayanabileceğinden emin değilim."
+    },
+    {
+      "id": "32f0c231",
+      "bank_id": "302e9601",
+      "text": "Açgözlü ev sahiplerinden öyle bıktım ki."
+    },
+    {
+      "id": "32f0c234",
+      "bank_id": "302e9601",
+      "text": "Ev sahiplerine katlanamıyorum. Varsa yoksa altınları."
+    },
+    {
+      "id": "32f0c236",
+      "bank_id": "302e9601",
+      "text": "Gerçek insanlardan kâr sağlamaya çalışan bu ev sahiplerinin bazılarından öyle usandım ki."
+    },
+    {
+      "id": "32f0c237",
+      "bank_id": "302e9601",
+      "text": "Pöh, şu ev sahipleri; senden koparabildikleri her şeyi koparmaya çalışırlar hep."
+    },
+    {
+      "id": "37de02a8",
+      "bank_id": "302e9601",
+      "text": "Yerel dükkânlar bu düşük kârlarla nasıl batmıyor ki?"
+    },
+    {
+      "id": "37de02ab",
+      "bank_id": "302e9601",
+      "text": "Buradaki dükkânların bazılarında cidden büyük kelepirler var."
+    },
+    {
+      "id": "37de02af",
+      "bank_id": "302e9601",
+      "text": "Bu dükkânların bazılarının nasıl açık kalabildiğine şaşmalı."
+    },
+    {
+      "id": "37f0c9d0",
+      "bank_id": "302e9601",
+      "text": "Bu kiralara kimin gücü yetebilir ki? Delilik bu."
+    },
+    {
+      "id": "37f0c9d6",
+      "bank_id": "302e9601",
+      "text": "Gözünü altın bürümemiş tek bir ev sahibi bile yok."
+    },
+    {
+      "id": "37f0c9d7",
+      "bank_id": "302e9601",
+      "text": "Bu ev sahipleri sadece kendilerini düşünüyor."
+    },
+    {
+      "id": "4142946f",
+      "bank_id": "302e9601",
+      "text": "Karını köle olarak mı sattın? Çıldırmış olmalısın!"
+    },
+    {
+      "id": "4afbde98",
+      "bank_id": "302e9601",
+      "text": "Dikkatlice bakarsan patikadan Fairfax Kalesi'ni görebilirsin."
+    },
+    {
+      "id": "4c74fd38",
+      "bank_id": "302e9601",
+      "text": "Bazı ev sahiplerinin kendilerinden başkalarını da umursadığını görmek ne kadar ferahlatıcı."
+    },
+    {
+      "id": "4c74fd3a",
+      "bank_id": "302e9601",
+      "text": "Ev sahibimi çok seviyorum. Bize çok iyi bir anlaşma yaptı."
+    },
+    {
+      "id": "4c74fd3b",
+      "bank_id": "302e9601",
+      "text": "Böyle düşük kira fiyatları görmek insana iyi geliyor. Helal olsun ev sahibine!"
+    },
+    {
+      "id": "4c74fd3d",
+      "bank_id": "302e9601",
+      "text": "Harika bir ev sahibim var, bana çok iyi bir fiyat veriyor."
+    },
+    {
+      "id": "4ffbe6b9",
+      "bank_id": "302e9601",
+      "text": "Kahraman Tepesi'ne gittin mi hiç?"
+    },
+    {
+      "id": "517504da",
+      "bank_id": "302e9601",
+      "text": "Şunu söylemeliyim ki buralardaki ev sahibi insana paradan çok değer veriyor."
+    },
+    {
+      "id": "517504db",
+      "bank_id": "302e9601",
+      "text": "Kira fiyatlarıma bayılıyorum. Umarım hiç değişmez."
+    },
+    {
+      "id": "517504dc",
+      "bank_id": "302e9601",
+      "text": "Buradaki kiralar civardaki en düşük fiyatlar. Harika bir şey."
+    },
+    {
+      "id": "80e99a21",
+      "bank_id": "302e9601",
+      "text": "Kira fiyatlarından pek şikâyet edemem."
+    },
+    {
+      "id": "80e99a26",
+      "bank_id": "302e9601",
+      "text": "Bu ay kiramı ödeyebileceğimi sanıyorum, çok şükür."
+    },
+    {
+      "id": "80e99a27",
+      "bank_id": "302e9601",
+      "text": "Eh, en azından bazı ev sahipleri insaflı davranıyor."
+    },
+    {
+      "id": "85e9a1c0",
+      "bank_id": "302e9601",
+      "text": "Bu kasabadaki kiralardan pek şikâyet edilemez."
+    },
+    {
+      "id": "85e9a1c6",
+      "bank_id": "302e9601",
+      "text": "Buralarda kiralar oldukça makul görünüyor."
+    },
+    {
+      "id": "85e9a1c7",
+      "bank_id": "302e9601",
+      "text": "Bu kasabada kiralar tam olması gerektiği gibi görünüyor."
+    },
+    {
+      "id": "8d5066ea",
+      "bank_id": "302e9601",
+      "text": "Bir maceracı neden dükkân satın alır ki?"
+    },
+    {
+      "id": "8d5066ed",
+      "bank_id": "302e9601",
+      "text": "Şu maceracıya dükkân aldıran şey neydi acaba?"
+    },
+    {
+      "id": "8d5066ee",
+      "bank_id": "302e9601",
+      "text": "Heyecan dolu maceralara atılan biri neden bir dükkân istesin ki?"
+    },
+    {
+      "id": "96507538",
+      "bank_id": "302e9601",
+      "text": "Demek şu maceracı ticarete atılıp bir dükkân satın aldı, ha?"
+    },
+    {
+      "id": "9650753b",
+      "bank_id": "302e9601",
+      "text": "Bir maceracının dükkân işletmesi mi? Kulağa pek macera dolu gelmiyor."
+    },
+    {
+      "id": "9650753f",
+      "bank_id": "302e9601",
+      "text": "Geçimini canavar öldürerek sağlayan biri neden dükkân satın alır ki?"
+    },
+    {
+      "id": "97615038",
+      "bank_id": "302e9601",
+      "text": "Duyduğuma göre kasabadaki dükkânlardan biri geçenlerde satılmış."
+    },
+    {
+      "id": "9761503b",
+      "bank_id": "302e9601",
+      "text": "Şunun dükkânı kâr getirmiyor olmalı. Satılmış."
+    },
+    {
+      "id": "9761503c",
+      "bank_id": "302e9601",
+      "text": "Şu maceracı dükkânı sattı biliyor musun. Pek altın kazandırmıyor olmalı."
+    },
+    {
+      "id": "9c6157d9",
+      "bank_id": "302e9601",
+      "text": "Şu maceracı sonunda dükkânı sattı."
+    },
+    {
+      "id": "9c6157da",
+      "bank_id": "302e9601",
+      "text": "Sanırım dükkân sahibi olmak maceraya atılmak kadar heyecan verici değil."
+    },
+    {
+      "id": "9c6157dd",
+      "bank_id": "302e9601",
+      "text": "Şu maceracı sonunda dükkânını sattı."
+    },
+    {
+      "id": "ba69e718",
+      "bank_id": "302e9601",
+      "text": "En kısa zamanda bu iğrenç kasabayı terk etmeliyim."
+    },
+    {
+      "id": "ba69e719",
+      "bank_id": "302e9601",
+      "text": "Bu iğrenç, tiksindirici virane kasabada ne işim var benim."
+    },
+    {
+      "id": "ba69e71a",
+      "bank_id": "302e9601",
+      "text": "Bu kasabada kendimi evimde hissettiren bir şeyler var nedense."
+    },
+    {
+      "id": "ba69e71b",
+      "bank_id": "302e9601",
+      "text": "Kimin ne dediği umurumda değil, Bloodstone Albion'un en güzel kasabası. Şuna bir baksana!"
+    },
+    {
+      "id": "ba69e71c",
+      "bank_id": "302e9601",
+      "text": "Bloodstone'a neden geldim hiç ama hiç bilmiyorum."
+    },
+    {
+      "id": "ba69e71d",
+      "bank_id": "302e9601",
+      "text": "Bu kasaba çürük balık gibi kokuyor."
+    },
+    {
+      "id": "ba69e71e",
+      "bank_id": "302e9601",
+      "text": "Bu kasabada kendimi hiç güvende hissetmiyorum."
+    },
+    {
+      "id": "c0965d4d",
+      "bank_id": "302e9601",
+      "text": "Saat kulesini gördün mü? Harika, değil mi?"
+    },
+    {
+      "id": "c108d943",
+      "bank_id": "302e9601",
+      "text": "Yerel dükkânların işleri gayet iyi gidiyor gibi görünüyor."
+    },
+    {
+      "id": "c108d944",
+      "bank_id": "302e9601",
+      "text": "Yerel dükkânlar kâr ediyor ama en azından derimizi yüzmüyorlar."
+    },
+    {
+      "id": "c108d947",
+      "bank_id": "302e9601",
+      "text": "Dükkânların işleri yeterince iyi gidiyor gibi görünüyor."
+    },
+    {
+      "id": "c2c00c48",
+      "bank_id": "302e9601",
+      "text": "Ne yaptın ne?! Karını köle olarak mı sattın?! Seni tebrik mi etsem yoksa yüzüne mi tükürsem bilemedim."
+    },
+    {
+      "id": "c2c00c4d",
+      "bank_id": "302e9601",
+      "text": "Karını köle olarak sattığına inanamıyorum!"
+    },
+    {
+      "id": "c2c00c4e",
+      "bank_id": "302e9601",
+      "text": "Karını köle olarak sattığın doğru olamaz... Bu seni tam bir canavar yapar."
+    },
+    {
+      "id": "c2c00c4f",
+      "bank_id": "302e9601",
+      "text": "Karını gerçekten köle olarak satmadın, değil mi? İnanamıyorum!"
+    },
+    {
+      "id": "c369f568",
+      "bank_id": "302e9601",
+      "text": "Buraya tekinsiz derken neyi kastediyorlar sence? Ekstra kalın atkılar mı takmalıyız?"
+    },
+    {
+      "id": "c369f569",
+      "bank_id": "302e9601",
+      "text": "Bloodstone'a gelmemem gerektiğini biliyordum. Biri altın kesemi çaldı."
+    },
+    {
+      "id": "c369f56b",
+      "bank_id": "302e9601",
+      "text": "Şu tuzlu deniz havasını içine çek. Sağlığa iyi gelir."
+    },
+    {
+      "id": "c369f56c",
+      "bank_id": "302e9601",
+      "text": "Bloodstone'a gelmek için aklımı mı kaçırmıştım acaba? Bir anlığına aklımı yitirmiş olmalıyım."
+    },
+    {
+      "id": "c369f56d",
+      "bank_id": "302e9601",
+      "text": "Ah, Bloodstone berbat bir yer. Ne zaman ayrılabileceğim buradan?"
+    },
+    {
+      "id": "c369f56e",
+      "bank_id": "302e9601",
+      "text": "Bloodstone'da doğdum, Bloodstone'da öleceğim."
+    },
+    {
+      "id": "c369f56f",
+      "bank_id": "302e9601",
+      "text": "Güzel vakit geçirmek için Bloodstone gibisi yoktur."
+    },
+    {
+      "id": "c808e449",
+      "bank_id": "302e9601",
+      "text": "Buralardaki dükkân sahipleri hayatlarını sürdürecek kadar kazanıyor sanırım."
+    },
+    {
+      "id": "c808e44a",
+      "bank_id": "302e9601",
+      "text": "Eh, en azından derimizi yüzmeye çalışmayan bazı dükkânlar var. Güzel bir şey doğrusu."
+    },
+    {
+      "id": "c808e44e",
+      "bank_id": "302e9601",
+      "text": "Bu dükkânların kapanma tehlikesi yok. Güzel kâr ediyorlar."
+    },
+    {
+      "id": "cb966efc",
+      "bank_id": "302e9601",
+      "text": "Bütün hayatım boyunca Bowerstone'da yaşadım."
+    },
+    {
+      "id": "cdc01df8",
+      "bank_id": "302e9601",
+      "text": "Yok artık, karını şu angaryacı haydutlara satmadın, di mi? Vay canına."
+    },
+    {
+      "id": "cdc01dfc",
+      "bank_id": "302e9601",
+      "text": "Karını gerçekten köle olarak satmadın, değil mi? Bu aşağılıkça bir şey!"
+    },
+    {
+      "id": "cdc01dfe",
+      "bank_id": "302e9601",
+      "text": "Karını köle olarak mı sattın? Ne korkunç bir şey!"
+    },
+    {
+      "id": "cdc01dff",
+      "bank_id": "302e9601",
+      "text": "Karını köle olarak mı sattın?! Hayatımda duyduğum en berbat şey bu!"
+    },
+    {
+      "id": "d353da60",
+      "bank_id": "302e9601",
+      "text": "Buradaki gölü satın alıp arka bahçeme koyabilir miyim acaba..."
+    },
+    {
+      "id": "d353da61",
+      "bank_id": "302e9601",
+      "text": "Çok daha gençken buradaki gölde yüzerdim."
+    },
+    {
+      "id": "d353da62",
+      "bank_id": "302e9601",
+      "text": "Buraya sadece göl için geliyorum. Yıllık banyomu aradan çıkarıyor."
+    },
+    {
+      "id": "d353da63",
+      "bank_id": "302e9601",
+      "text": "Güzel gölleri varmış."
+    },
+    {
+      "id": "d353da64",
+      "bank_id": "302e9601",
+      "text": "Gezginler yıllardır burada kamp kuruyor."
+    },
+    {
+      "id": "d353da65",
+      "bank_id": "302e9601",
+      "text": "Genç bir kızken hep göl kenarına pikniğe gelirdim."
+    },
+    {
+      "id": "d353da67",
+      "bank_id": "302e9601",
+      "text": "Buranın insana gerçekten özgür ve hoş hissettiren bir yanı var."
+    },
+    {
+      "id": "da53e568",
+      "bank_id": "302e9601",
+      "text": "Piknik yapmak için harika bir yer burası."
+    },
+    {
+      "id": "da53e569",
+      "bank_id": "302e9601",
+      "text": "Gölde yüzmeyi hep istemişimdir. Ama yüzme bilmiyorum."
+    },
+    {
+      "id": "da53e56a",
+      "bank_id": "302e9601",
+      "text": "Buranın gerçekten sakinleştirici bir havası var. Göl yüzünden olmalı."
+    },
+    {
+      "id": "da53e56c",
+      "bank_id": "302e9601",
+      "text": "Bir gün o gölü satın alabilirim belki."
+    },
+    {
+      "id": "da53e56d",
+      "bank_id": "302e9601",
+      "text": "Göl hayal ettiğim kadar kirli değilmiş."
+    },
+    {
+      "id": "da53e56e",
+      "bank_id": "302e9601",
+      "text": "Bir keresinde buradaki gölün dibinde altın bir sikke bulmuştum. Şimdi her tarafı didik didik ettiler gerçi."
+    },
+    {
+      "id": "da53e56f",
+      "bank_id": "302e9601",
+      "text": "O göl beni korkutuyor. Onca su. Dev bir küvet gibi."
+    },
+    {
+      "id": "dc6c97a3",
+      "bank_id": "302e9601",
+      "text": "Buralardaki dükkânlar sırtımızdan semiriyor."
+    },
+    {
+      "id": "dc6c97a4",
+      "bank_id": "302e9601",
+      "text": "Bu açgözlü dükkân sahipleri kârdan başka hiçbir şeyi umursamıyor."
+    },
+    {
+      "id": "dc6c97a7",
+      "bank_id": "302e9601",
+      "text": "Bu dükkânların bazıları bizi altından yapılmış sanıyor."
+    },
+    {
+      "id": "e36ca2a9",
+      "bank_id": "302e9601",
+      "text": "Buralardaki dükkân sahipleri alın teriyle kazandığımız altınlarımızla köşeyi dönüyor."
+    },
+    {
+      "id": "e36ca2aa",
+      "bank_id": "302e9601",
+      "text": "Buralardaki dükkânların bazıları resmen voleyi vuruyor."
+    },
+    {
+      "id": "e36ca2ae",
+      "bank_id": "302e9601",
+      "text": "Bu dükkânlar deli gibi kâr ediyor."
+    },
+    {
+      "id": "fa95e8a8",
+      "bank_id": "302e9601",
+      "text": "Kendime ait bir evimin olmasını öyle çok istiyorum ki."
+    },
+    {
+      "id": "fa95e8ab",
+      "bank_id": "302e9601",
+      "text": "Ah, kendime ait bir evim olsaydı ne kadar harika olurdu."
+    },
+    {
+      "id": "fa95e8ac",
+      "bank_id": "302e9601",
+      "text": "Kendi evimi alabilmek için canımı verirdim..."
+    },
+    {
+      "id": "fc85a0f0",
+      "bank_id": "302e9601",
+      "text": "Şu evi satın aldın mı bari?"
+    },
+    {
+      "id": "fc85a0f4",
+      "bank_id": "302e9601",
+      "text": "Şu maceracının artık yeni bir evi olduğu doğru mu?"
+    },
+    {
+      "id": "fc85a0f7",
+      "bank_id": "302e9601",
+      "text": "Şu evin satıldığını duydum!"
+    },
+    {
+      "id": "ff95f049",
+      "bank_id": "302e9601",
+      "text": "Kendime ait bir evim olması için neler vermezdim."
+    },
+    {
+      "id": "ff95f04a",
+      "bank_id": "302e9601",
+      "text": "Keşke bir ev satın alacak gücüm olsaydı."
+    },
+    {
+      "id": "ff95f04b",
+      "bank_id": "302e9601",
+      "text": "Kendime ait bir evimin olmasını her zaman hayal etmişimdir."
+    },
+    {
+      "id": "ff95f04c",
+      "bank_id": "302e9601",
+      "text": "Bu günlerden birinde kendi evimi alacağım. Gücüm yettiğinde yani."
+    },
+    {
+      "id": "ff95f04d",
+      "bank_id": "302e9601",
+      "text": "Ah, kendime ait bir ev için neler vermezdim bir bilsen."
+    }
+  ]
+}

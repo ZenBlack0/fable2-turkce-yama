@@ -1,0 +1,856 @@
+{
+  "bank_id": "304e2802",
+  "total_strings": 170,
+  "strings": [
+    {
+      "id": "006e8645",
+      "bank_id": "304e2802",
+      "text": "Bakar mısın, maceracılık işinde hiç açık pozisyon var mı acaba? Maaşı nasıldır?"
+    },
+    {
+      "id": "006e8646",
+      "bank_id": "304e2802",
+      "text": "Huzursuzluk çıkarma sakın, biz kasabamızı sakin ve huzurlu severiz."
+    },
+    {
+      "id": "02cafbfa",
+      "bank_id": "304e2802",
+      "text": "Annemle babamdan çok daha iyisin!"
+    },
+    {
+      "id": "06bb4e58",
+      "bank_id": "304e2802",
+      "text": "Albion'u keşfe mi çıktın?"
+    },
+    {
+      "id": "06bb4e5a",
+      "bank_id": "304e2802",
+      "text": "Ben de Kahraman olabilirdim biliyor musun. Lanet düz tabanlık yüzünden işte."
+    },
+    {
+      "id": "06bb4e5b",
+      "bank_id": "304e2802",
+      "text": "Hakkında pek bir şey duydum mu emin değilim."
+    },
+    {
+      "id": "06bb4e5c",
+      "bank_id": "304e2802",
+      "text": "Bazen nerede yaşadığımı unutuyorum. Ama meyhanenin yerini her zaman bilirim."
+    },
+    {
+      "id": "06bb4e5d",
+      "bank_id": "304e2802",
+      "text": "İsteseydim ben de Kahraman olabilirdim biliyor musun."
+    },
+    {
+      "id": "06bb4e5e",
+      "bank_id": "304e2802",
+      "text": "Her zaman söylerim, bir toplumun temeli alt sınıflar üzerindeki demir yumruğudur, haksız mıyım?"
+    },
+    {
+      "id": "06bb4e5f",
+      "bank_id": "304e2802",
+      "text": "Şu yeni ekonomik modelleri aklın alıyor mu? İnsanın feleğini şaşırtıyor valla."
+    },
+    {
+      "id": "0713433e",
+      "bank_id": "304e2802",
+      "text": "Vay canına, neredeyse şey gibisin, yani gerçek bir Kahraman gibi!"
+    },
+    {
+      "id": "0bbb5679",
+      "bank_id": "304e2802",
+      "text": "Son zamanlarda heyecanlı bir yerlere gittin mi?"
+    },
+    {
+      "id": "0bbb567a",
+      "bank_id": "304e2802",
+      "text": "Yeni bir havadis var mı?"
+    },
+    {
+      "id": "0bbb567b",
+      "bank_id": "304e2802",
+      "text": "Kahraman olmak güzel şey olmalı..."
+    },
+    {
+      "id": "0bbb567c",
+      "bank_id": "304e2802",
+      "text": "Nefesimin kusuruna bakma."
+    },
+    {
+      "id": "0bbb567d",
+      "bank_id": "304e2802",
+      "text": "Bayağı sık yıkanıyorsun galiba..."
+    },
+    {
+      "id": "0bbb567e",
+      "bank_id": "304e2802",
+      "text": "Sanırım yarını bahçelerde geçireceğim. Bu yıl çiçekler bir harika."
+    },
+    {
+      "id": "0bbb567f",
+      "bank_id": "304e2802",
+      "text": "Öyle canım sıkkın ki sorma. Bu sabah sefilin teki benimle konuşmaya cüret etti!"
+    },
+    {
+      "id": "0c5ac168",
+      "bank_id": "304e2802",
+      "text": "Bu günlerde Kahraman görmek pek nadir rastlanan bir durum."
+    },
+    {
+      "id": "0c5ac169",
+      "bank_id": "304e2802",
+      "text": "Fena halde akşamdan kalmayım."
+    },
+    {
+      "id": "0c5ac16a",
+      "bank_id": "304e2802",
+      "text": "Havada ayak takımının o hafif kokusunu alıyor musun sen de?"
+    },
+    {
+      "id": "0c5ac16b",
+      "bank_id": "304e2802",
+      "text": "Üçüncü bir bahçıvan tutmamaya karar verdim. Üzerimden büyük bir yük kalktı doğrusu."
+    },
+    {
+      "id": "0c5ac16d",
+      "bank_id": "304e2802",
+      "text": "Yolculuktan döndün demek?"
+    },
+    {
+      "id": "0c5ac16e",
+      "bank_id": "304e2802",
+      "text": "Heyecanlı görevler var mı?"
+    },
+    {
+      "id": "0c5ac16f",
+      "bank_id": "304e2802",
+      "text": "Senin hakkında ne düşüneceğimi henüz bilemiyorum."
+    },
+    {
+      "id": "1013510b",
+      "bank_id": "304e2802",
+      "text": "Bazı arkadaşlarım senin için bir hayran kulübü kurmayı düşünüyor!"
+    },
+    {
+      "id": "175ad298",
+      "bank_id": "304e2802",
+      "text": "Boynumdaki şu ben giderek büyüyor mu ne?"
+    },
+    {
+      "id": "175ad299",
+      "bank_id": "304e2802",
+      "text": "Senin hakkında ne düşüneceğimi tam kestiremedim henüz."
+    },
+    {
+      "id": "175ad29a",
+      "bank_id": "304e2802",
+      "text": "Malikanemi yeniden dekore ettiriyorum. Duvardaki o eski elmas desenleri artık pek demode oldu."
+    },
+    {
+      "id": "175ad29b",
+      "bank_id": "304e2802",
+      "text": "Bugünlerde eli yüzü düzgün hizmetçi bulmak imkânsız, değil mi?"
+    },
+    {
+      "id": "175ad29c",
+      "bank_id": "304e2802",
+      "text": "Pek fazla Kahraman görmeyiz buralarda."
+    },
+    {
+      "id": "175ad29e",
+      "bank_id": "304e2802",
+      "text": "Maceralarından bir haber var mı?"
+    },
+    {
+      "id": "175ad29f",
+      "bank_id": "304e2802",
+      "text": "Meşgul müydün bu aralar?"
+    },
+    {
+      "id": "1d6e9121",
+      "bank_id": "304e2802",
+      "text": "Kasabanın kurallarına uy."
+    },
+    {
+      "id": "1d6e9122",
+      "bank_id": "304e2802",
+      "text": "Huzuru bozmaya kalkışma sakın."
+    },
+    {
+      "id": "2091de84",
+      "bank_id": "304e2802",
+      "text": "Ne yapıyorsun sen?"
+    },
+    {
+      "id": "2591e6a5",
+      "bank_id": "304e2802",
+      "text": "Canavarlarla savaştığın doğru mu?"
+    },
+    {
+      "id": "3c443b28",
+      "bank_id": "304e2802",
+      "text": "Benim hizmetçilerimden biri misin? Yok, sanırım değilsin, kusura bakma."
+    },
+    {
+      "id": "3c443b29",
+      "bank_id": "304e2802",
+      "text": "Ben de bir savaşçı olabilirdim biliyor musun. Ah evet, gençliğimde meç tutmayı iyi bilirdim."
+    },
+    {
+      "id": "3c443b2a",
+      "bank_id": "304e2802",
+      "text": "Maceracı hayatı nasıl gidiyor bakalım?"
+    },
+    {
+      "id": "3c443b2b",
+      "bank_id": "304e2802",
+      "text": "Dünyayı epey bir geziyorsundur herhalde, ha?"
+    },
+    {
+      "id": "3c443b2c",
+      "bank_id": "304e2802",
+      "text": "Epey tehlikeli durumlara düşüyorsundur herhalde, değil mi?"
+    },
+    {
+      "id": "3c443b2d",
+      "bank_id": "304e2802",
+      "text": "Zorlu bir hayat sürmüş olmalısın. Yaban ellerde yaşamak kolay değildir."
+    },
+    {
+      "id": "3c443b2e",
+      "bank_id": "304e2802",
+      "text": "Bir keresinde bir hobbe ile dövüştüm biliyor musun. Gerçi daha ziyade kartondan bir maketti. Ama olsun."
+    },
+    {
+      "id": "426db401",
+      "bank_id": "304e2802",
+      "text": "Merhaba maceracı."
+    },
+    {
+      "id": "426db402",
+      "bank_id": "304e2802",
+      "text": "Yoluna devam et."
+    },
+    {
+      "id": "45444978",
+      "bank_id": "304e2802",
+      "text": "Zamanında gerçekten korkunç şeyler görmüş olmalısın."
+    },
+    {
+      "id": "45444979",
+      "bank_id": "304e2802",
+      "text": "Balverine'lerin kısmen insan olduğu doğru mu?"
+    },
+    {
+      "id": "4544497b",
+      "bank_id": "304e2802",
+      "text": "Dünyayı epey bir görüyor olmalısın."
+    },
+    {
+      "id": "4544497c",
+      "bank_id": "304e2802",
+      "text": "Bütün bu yolculuklarında bir sürü hatıra eşyası topluyorsundur herhalde."
+    },
+    {
+      "id": "4544497d",
+      "bank_id": "304e2802",
+      "text": "Büyülü yaratıkların sayısının dünya genelinde arttığı doğru mu? Ne heyecan verici."
+    },
+    {
+      "id": "4544497e",
+      "bank_id": "304e2802",
+      "text": "Şu yerdeki o şeyi yapan sen değil miydin? Hani bilirsin ya. Şu meseleyi."
+    },
+    {
+      "id": "4544497f",
+      "bank_id": "304e2802",
+      "text": "Albion'da ayak basmadığın bir yer kaldı mı hiç?"
+    },
+    {
+      "id": "4b182b7a",
+      "bank_id": "304e2802",
+      "text": "Adın dilden dile dolaşmaya başladı doğrusu!"
+    },
+    {
+      "id": "4b182b7b",
+      "bank_id": "304e2802",
+      "text": "İnsanlar senden bahsetmeye başladı bile. Harika biri olduğunu söylüyorlar!"
+    },
+    {
+      "id": "4b182b7c",
+      "bank_id": "304e2802",
+      "text": "Şan ve şöhret yolunda emin adımlarla ilerliyorsun desene."
+    },
+    {
+      "id": "4b182b7d",
+      "bank_id": "304e2802",
+      "text": "Hey, şu şeyi yapan sen değil miydin? Hani şu... Şeyle yapılan? Muhteşemdi."
+    },
+    {
+      "id": "4b182b7e",
+      "bank_id": "304e2802",
+      "text": "Büyük işlerinin haberi yayılmaya başladı."
+    },
+    {
+      "id": "4b182b7f",
+      "bank_id": "304e2802",
+      "text": "Yıldızının parlamaya başladığını görüyorum. Önünde parlak bir gelecek seziyorum."
+    },
+    {
+      "id": "558db4c0",
+      "bank_id": "304e2802",
+      "text": "Kaç zamandır manikür yaptırmadım."
+    },
+    {
+      "id": "558db4c1",
+      "bank_id": "304e2802",
+      "text": "Son modalar hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "558db4c2",
+      "bank_id": "304e2802",
+      "text": "Görevde misin?"
+    },
+    {
+      "id": "558db4c3",
+      "bank_id": "304e2802",
+      "text": "Daha önce tanışmış mıydık?"
+    },
+    {
+      "id": "558db4c4",
+      "bank_id": "304e2802",
+      "text": "İyi görevlere çıktın mı bari?"
+    },
+    {
+      "id": "558db4c5",
+      "bank_id": "304e2802",
+      "text": "Meşgulsün herhalde, ha?"
+    },
+    {
+      "id": "558db4c7",
+      "bank_id": "304e2802",
+      "text": "Neler oluyor bakalım?"
+    },
+    {
+      "id": "5c8dbfc8",
+      "bank_id": "304e2802",
+      "text": "Selam!"
+    },
+    {
+      "id": "5c8dbfc9",
+      "bank_id": "304e2802",
+      "text": "Bir Kahraman, ha? Seni görmek ne güzel."
+    },
+    {
+      "id": "5c8dbfca",
+      "bank_id": "304e2802",
+      "text": "Daha önce karşılaşmış mıydık?"
+    },
+    {
+      "id": "5c8dbfcc",
+      "bank_id": "304e2802",
+      "text": "Şu yeni çizmelerim de fena halde sıkıyor."
+    },
+    {
+      "id": "5c8dbfcd",
+      "bank_id": "304e2802",
+      "text": "Doğrusu şu sıralar ekonomimiz gayet iyi gidiyor."
+    },
+    {
+      "id": "5c8dbfce",
+      "bank_id": "304e2802",
+      "text": "İyisin bakalım?"
+    },
+    {
+      "id": "5c8dbfcf",
+      "bank_id": "304e2802",
+      "text": "Selam. Kahramanlık işleri mi?"
+    },
+    {
+      "id": "78043dfd",
+      "bank_id": "304e2802",
+      "text": "Kaçıncı seviye Kahramansın bakalım?"
+    },
+    {
+      "id": "80492368",
+      "bank_id": "304e2802",
+      "text": "Bir dahaki sefere bir canavarla savaştığında bana bir diş falan getirebilir misin?"
+    },
+    {
+      "id": "83044f2c",
+      "bank_id": "304e2802",
+      "text": "Son zamanlarda hiç prenses kurtardın mı?"
+    },
+    {
+      "id": "85492b09",
+      "bank_id": "304e2802",
+      "text": "Uzun sakallı, sivri şapkalı büyücülerle karşılaştın mı hiç?"
+    },
+    {
+      "id": "8dc27c68",
+      "bank_id": "304e2802",
+      "text": "Senin için canımı veririm. Ciddiyim bak."
+    },
+    {
+      "id": "8dc27c6a",
+      "bank_id": "304e2802",
+      "text": "Seni kendimi bildim bileli tanıyormuşum gibi hissediyorum."
+    },
+    {
+      "id": "8dc27c6b",
+      "bank_id": "304e2802",
+      "text": "Seni tanımış olmak benim için bir onurdur."
+    },
+    {
+      "id": "92c28409",
+      "bank_id": "304e2802",
+      "text": "Senden daha büyüğü yok."
+    },
+    {
+      "id": "92c2840a",
+      "bank_id": "304e2802",
+      "text": "En büyüksün sen!"
+    },
+    {
+      "id": "92c2840b",
+      "bank_id": "304e2802",
+      "text": "Senden daha iyisi yok!"
+    },
+    {
+      "id": "932e89e0",
+      "bank_id": "304e2802",
+      "text": "Lütfen yasalarımıza uymayı unutmayın."
+    },
+    {
+      "id": "932e89e3",
+      "bank_id": "304e2802",
+      "text": "Unutmayın, kasabamızdayken öyle tuhaf numaralar istemeyiz."
+    },
+    {
+      "id": "99f246b0",
+      "bank_id": "304e2802",
+      "text": "Şanının arttığını görmekten mutluluk duyuyorum."
+    },
+    {
+      "id": "99f246b1",
+      "bank_id": "304e2802",
+      "text": "Son başarılarını öğrenmek beni ziyadesiyle memnun etti."
+    },
+    {
+      "id": "99f246b3",
+      "bank_id": "304e2802",
+      "text": "Meyhanedeki dostlarım şimdiden senden bahsediyor."
+    },
+    {
+      "id": "99f246b4",
+      "bank_id": "304e2802",
+      "text": "Hey, işlerin sahiden de açılmaya başladı, değil mi?"
+    },
+    {
+      "id": "99f246b7",
+      "bank_id": "304e2802",
+      "text": "Tabii ki adını duydum!"
+    },
+    {
+      "id": "9bc92638",
+      "bank_id": "304e2802",
+      "text": "Buradayken lütfen yasalara riayet edin."
+    },
+    {
+      "id": "9bc9263b",
+      "bank_id": "304e2802",
+      "text": "Burası huzurlu bir kasabadır."
+    },
+    {
+      "id": "a0f251b8",
+      "bank_id": "304e2802",
+      "text": "Şöhret basamaklarını tırmanıyorsun doğrusu!"
+    },
+    {
+      "id": "a0f251b9",
+      "bank_id": "304e2802",
+      "text": "Bu daha şöhretinin başlangıcı, göreceksin bak."
+    },
+    {
+      "id": "a0f251bc",
+      "bank_id": "304e2802",
+      "text": "İtibarın henüz göklere ulaşmamış olabilir ama çoktan yerden kesildi."
+    },
+    {
+      "id": "a0f251bd",
+      "bank_id": "304e2802",
+      "text": "Mücadeleye devam et dostum, tüm diyardaki en ünlü maceracı olacaksın."
+    },
+    {
+      "id": "a0f251bf",
+      "bank_id": "304e2802",
+      "text": "Son zamanlarda işleri epey bir yoluna koydun doğrusu."
+    },
+    {
+      "id": "a3c7bed1",
+      "bank_id": "304e2802",
+      "text": "Meşhur olduğunu görmek beni çok sevindiriyor."
+    },
+    {
+      "id": "a3c7bed2",
+      "bank_id": "304e2802",
+      "text": "İnsanlar tüm o meşhur kahramanlıklarını konuşuyor. Ve laf yayılmaya devam edecek, göreceksin!"
+    },
+    {
+      "id": "a3c7bed3",
+      "bank_id": "304e2802",
+      "text": "Son zamanlarda ortalığı fena salladın, değil mi? Helal olsun."
+    },
+    {
+      "id": "a3c7bed4",
+      "bank_id": "304e2802",
+      "text": "Merak etme, yakında ünün daha da uzaklara yayılacak."
+    },
+    {
+      "id": "a3c7bed5",
+      "bank_id": "304e2802",
+      "text": "Amma da meşhur oldun ha dostum."
+    },
+    {
+      "id": "a69022e2",
+      "bank_id": "304e2802",
+      "text": "Görevlerini duyup duruyorum. Aferin sana!"
+    },
+    {
+      "id": "a69022e3",
+      "bank_id": "304e2802",
+      "text": "Şöhretin tadını çıkarmaya başladın, değil mi? Ne güzel."
+    },
+    {
+      "id": "a69022e4",
+      "bank_id": "304e2802",
+      "text": "Ününün nasıl arttığını görmek beni çok mutlu ediyor. Eminim daha da büyüyecek."
+    },
+    {
+      "id": "a69022e5",
+      "bank_id": "304e2802",
+      "text": "Hak ettiğin değeri gördüğün için öyle sevindim ki."
+    },
+    {
+      "id": "a69022e7",
+      "bank_id": "304e2802",
+      "text": "Hak ettiğin takdiri topladığını görmek çok güzel."
+    },
+    {
+      "id": "a7990c94",
+      "bank_id": "304e2802",
+      "text": "Sen bir tanesin."
+    },
+    {
+      "id": "ac9914b5",
+      "bank_id": "304e2802",
+      "text": "Harikasın sen!"
+    },
+    {
+      "id": "ad902de8",
+      "bank_id": "304e2802",
+      "text": "Dünya nihayet ne kadar muazzam biri olduğunu fark ediyor."
+    },
+    {
+      "id": "ad902de9",
+      "bank_id": "304e2802",
+      "text": "Daha da meşhur olacağını adım gibi biliyorum."
+    },
+    {
+      "id": "ad902dea",
+      "bank_id": "304e2802",
+      "text": "Şöhretin iyice yayılmaya başladı, değil mi? Ne güzel."
+    },
+    {
+      "id": "ad902dee",
+      "bank_id": "304e2802",
+      "text": "İşler tıkırında gidiyor ha. Herkes senden bahsediyor."
+    },
+    {
+      "id": "ad902def",
+      "bank_id": "304e2802",
+      "text": "Gördüğün bunca ilgi ve şöhretin tadını çıkarıyorsundur herhalde, değil mi dostum?"
+    },
+    {
+      "id": "aec7d000",
+      "bank_id": "304e2802",
+      "text": "Herkes senden bahsetmeye başladı ve bundan daha fazla mutlu olamazdım."
+    },
+    {
+      "id": "aec7d002",
+      "bank_id": "304e2802",
+      "text": "Son zamanlarda herkes seni konuşuyor. Ne harika bir şey değil mi?"
+    },
+    {
+      "id": "aec7d003",
+      "bank_id": "304e2802",
+      "text": "Umarım daha da meşhur olursun!"
+    },
+    {
+      "id": "aec7d004",
+      "bank_id": "304e2802",
+      "text": "Böyle tanınır olduğunu görmek çok güzel."
+    },
+    {
+      "id": "aec7d005",
+      "bank_id": "304e2802",
+      "text": "Yakında tam bir halk kahramanı olacaksın dostum, eminim."
+    },
+    {
+      "id": "b3001d48",
+      "bank_id": "304e2802",
+      "text": "Yolculuklarında epey bir kötülükle karşılaşıyor olmalısın."
+    },
+    {
+      "id": "b3001d49",
+      "bank_id": "304e2802",
+      "text": "Bugünlerde maceracılık işleri nasıl gidiyor?"
+    },
+    {
+      "id": "b3001d4a",
+      "bank_id": "304e2802",
+      "text": "Son zamanlarda ilginç insanlarla karşılaştın mı?"
+    },
+    {
+      "id": "b3001d4b",
+      "bank_id": "304e2802",
+      "text": "Öldürdüğün son canavar neydi?"
+    },
+    {
+      "id": "b3001d4c",
+      "bank_id": "304e2802",
+      "text": "Neredeyse her gün hayatını tehlikeye atıyorsun. Nasıl yapıyorsun bunu?"
+    },
+    {
+      "id": "b3001d4d",
+      "bank_id": "304e2802",
+      "text": "Gençken ben de görevlere çıkmak isterdim."
+    },
+    {
+      "id": "b3001d4e",
+      "bank_id": "304e2802",
+      "text": "İlginç bir yerlere gittin mi?"
+    },
+    {
+      "id": "bc002b98",
+      "bank_id": "304e2802",
+      "text": "Sahi, maceracılık gerçekten nasıl bir şey?"
+    },
+    {
+      "id": "bc002b99",
+      "bank_id": "304e2802",
+      "text": "Hayatını görevlere çıkarak geçireceğini ne zaman anladın?"
+    },
+    {
+      "id": "bc002b9b",
+      "bank_id": "304e2802",
+      "text": "Maceracıların emekliliği var mı acaba?"
+    },
+    {
+      "id": "bc002b9c",
+      "bank_id": "304e2802",
+      "text": "Şu göçebe hayatından zevk alıyor musun?"
+    },
+    {
+      "id": "bc002b9d",
+      "bank_id": "304e2802",
+      "text": "Şöhret arayışın nasıl gidiyor bakalım, hm?"
+    },
+    {
+      "id": "bc002b9e",
+      "bank_id": "304e2802",
+      "text": "Son zamanlarda epey bir şey hakladın mı?"
+    },
+    {
+      "id": "bc002b9f",
+      "bank_id": "304e2802",
+      "text": "Son zamanlarda hiç zindanlara indin mi?"
+    },
+    {
+      "id": "c6cf1ab0",
+      "bank_id": "304e2802",
+      "text": "En büyüksün sen!"
+    },
+    {
+      "id": "c6cf1ab1",
+      "bank_id": "304e2802",
+      "text": "Seni tanıdığım için öyle şanslıyım ki. Çok ama çok şanslıyım."
+    },
+    {
+      "id": "c6cf1ab2",
+      "bank_id": "304e2802",
+      "text": "O muazzam heybetin karşısında nutkum tutuluyor."
+    },
+    {
+      "id": "c6cf1ab3",
+      "bank_id": "304e2802",
+      "text": "Sana olan hayranlığımın daha fazla artması imkânsız."
+    },
+    {
+      "id": "c6cf1ab4",
+      "bank_id": "304e2802",
+      "text": "Senin için dünyanın öbür ucuna giderim."
+    },
+    {
+      "id": "c6cf1ab6",
+      "bank_id": "304e2802",
+      "text": "Sen harikalığın ta kendisisin resmen."
+    },
+    {
+      "id": "c6cf1ab7",
+      "bank_id": "304e2802",
+      "text": "Dünyada senin kadar muhteşem biri yok."
+    },
+    {
+      "id": "cbcf2250",
+      "bank_id": "304e2802",
+      "text": "Gözümde ne kadar harika olduğunu kelimelerle anlatamam."
+    },
+    {
+      "id": "cbcf2251",
+      "bank_id": "304e2802",
+      "text": "Bence sen en iyisisin. En ama en iyisi."
+    },
+    {
+      "id": "cbcf2252",
+      "bank_id": "304e2802",
+      "text": "Seni memnun etmek için elimden gelen her şeyi yapardım."
+    },
+    {
+      "id": "cbcf2253",
+      "bank_id": "304e2802",
+      "text": "Kelimeler senin o eşsizliğini anlatmaya yetmez."
+    },
+    {
+      "id": "cbcf2255",
+      "bank_id": "304e2802",
+      "text": "Sana hayranım. Tek kelimeyle hayranım."
+    },
+    {
+      "id": "cbcf2256",
+      "bank_id": "304e2802",
+      "text": "Bastığın toprağa kurban olurum."
+    },
+    {
+      "id": "cbcf2257",
+      "bank_id": "304e2802",
+      "text": "Senin gibi biriyle karşılaşacağımı hiç düşünmemiştim."
+    },
+    {
+      "id": "d0933d30",
+      "bank_id": "304e2802",
+      "text": "Gerçekten inanılmazsın, biliyorsun değil mi."
+    },
+    {
+      "id": "d0933d31",
+      "bank_id": "304e2802",
+      "text": "Ne kadar harika olduğuna inanamıyorum hâlâ."
+    },
+    {
+      "id": "d0933d33",
+      "bank_id": "304e2802",
+      "text": "Hayatımda gördüğüm en olağanüstü insansın."
+    },
+    {
+      "id": "d0933d34",
+      "bank_id": "304e2802",
+      "text": "Heybetin beni büyülüyor resmen."
+    },
+    {
+      "id": "d0933d35",
+      "bank_id": "304e2802",
+      "text": "Dünyanın geri kalanı senin çizmelerini boyamaya bile layık değil."
+    },
+    {
+      "id": "d0933d36",
+      "bank_id": "304e2802",
+      "text": "Nasıl bu kadar muhteşem olmayı başardın ki?"
+    },
+    {
+      "id": "d0933d37",
+      "bank_id": "304e2802",
+      "text": "Senden daha çok sevdiğim kimse yok."
+    },
+    {
+      "id": "d1875331",
+      "bank_id": "304e2802",
+      "text": "Hiç balverine ile karşılaştın mı? Kulağa gerçekten korkutucu geliyorlar."
+    },
+    {
+      "id": "d7934830",
+      "bank_id": "304e2802",
+      "text": "Varlığının her bir zerresine tapıyorum."
+    },
+    {
+      "id": "d7934831",
+      "bank_id": "304e2802",
+      "text": "Sana ne kadar değer verdiğimi anlatmaya kelimeler yetmez."
+    },
+    {
+      "id": "d7934832",
+      "bank_id": "304e2802",
+      "text": "Senin için ateşlerin içinden geçerim!"
+    },
+    {
+      "id": "d7934833",
+      "bank_id": "304e2802",
+      "text": "Sen dilimlenmiş somun ekmekten beri çıkmış en harika şeysin."
+    },
+    {
+      "id": "d7934834",
+      "bank_id": "304e2802",
+      "text": "Benim için öyle özelsin ki."
+    },
+    {
+      "id": "d7934835",
+      "bank_id": "304e2802",
+      "text": "Sen benim kahramanımsın. Benim harika kahramanım."
+    },
+    {
+      "id": "d7934836",
+      "bank_id": "304e2802",
+      "text": "Bütün Albion'da senden daha iyi bir insan yok."
+    },
+    {
+      "id": "dc876460",
+      "bank_id": "304e2802",
+      "text": "Acaba kaç tane haydut öldürdün şimdiye dek. Çok olmalı."
+    },
+    {
+      "id": "dc876462",
+      "bank_id": "304e2802",
+      "text": "Hiç başka maceracılarla karşılaşıyor musun? Bugünlerde pek kalmadı gibi sanki."
+    },
+    {
+      "id": "dc876463",
+      "bank_id": "304e2802",
+      "text": "Çoğu insan senin gördüklerini görseydi aklını kaçırırdı."
+    },
+    {
+      "id": "dc876464",
+      "bank_id": "304e2802",
+      "text": "Bir kapışmada kim alırdı dersin, balverine'ler mi yoksa troller mi?"
+    },
+    {
+      "id": "dc876465",
+      "bank_id": "304e2802",
+      "text": "Keşke ben de senin gibi bütün o heyecan verici maceralara atılabilseydim."
+    },
+    {
+      "id": "dc876466",
+      "bank_id": "304e2802",
+      "text": "Ben zaten pek iyi bir maceracı olamazdım. Düz tabanlık işte."
+    },
+    {
+      "id": "dc876467",
+      "bank_id": "304e2802",
+      "text": "Hobbe'ler de göründükleri kadar kötü kokar mı acaba? Yok canım, konunun kendisiyle ilgilendiğimden değil. Hanım arkadaşlarımla iddiaya girdik de."
+    },
+    {
+      "id": "fbcaf0f7",
+      "bank_id": "304e2802",
+      "text": "Keşke hep yanımızda olsan."
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "bank_id": "d0afb600",
+  "total_strings": 109,
+  "strings": [
+    {
+      "id": "012c32d2",
+      "bank_id": "d0afb600",
+      "text": "Kahramanın Tepiklediği Tavuklar: %1\nYancının Tepiklediği Tavuklar: %2\n\nKahramanın Vurduğu Uçar Şalterler: %3\nYancının Vurduğu Uçar Şalterler: %4\n\nKahramanın En Yüksek Çarpanı: x%5\nYancının En Yüksek Çarpanı: x%6"
+    },
+    {
+      "id": "01b3df74",
+      "bank_id": "d0afb600",
+      "text": "Yancı Kazandı"
+    },
+    {
+      "id": "074975a0",
+      "bank_id": "d0afb600",
+      "text": "Kolezyum Maketi"
+    },
+    {
+      "id": "09f27452",
+      "bank_id": "d0afb600",
+      "text": "Yancının En Yüksek Skoru: %1"
+    },
+    {
+      "id": "09f3d02f",
+      "bank_id": "d0afb600",
+      "text": "Gerçekten fevkalade. Bir başarılı şeytan çıkarma daha!"
+    },
+    {
+      "id": "0af3d182",
+      "bank_id": "d0afb600",
+      "text": "Bu kafatası harika bir kâğıt ağırlığı olur. Pek enfes şey."
+    },
+    {
+      "id": "0b85427b",
+      "bank_id": "d0afb600",
+      "text": "Şimdi, bedavaya vermeyi ne kadar çok istesem de, saf altın olarak tam tutardan daha azını kabul edemem. Korumam gereken bir itibarım var."
+    },
+    {
+      "id": "0c5afe8f",
+      "bank_id": "d0afb600",
+      "text": "Toplam En Yüksek Skor: %1"
+    },
+    {
+      "id": "0eaa3b0f",
+      "bank_id": "d0afb600",
+      "text": "Kolezyum\n\nTheodore üçüzleri tarafından inşa edilen efsanevi dövüş arenası Kolezyum'a hoş geldiniz.\nTanınan süre zarfında kazanabildiğiniz kadar puan kazanın. Yaratıkları öldürerek puan toplayın ve Uçar Şalterleri vurarak çarpanınızı yükseltin. Ayrıca tavukları tepikleyerek fazladan puan da kazanabilirsiniz.\nAşağıdaki kurallar geçerlidir:\nDövüş esnasında iksir kullanamaz veya envanterinizdeki eşyaları değiştiremezsiniz, bu yüzden dövüş öncesi ve sonrasındaki vakti akıllıca değerlendirin.\nYere serilirseniz çarpanınız sıfırlanacaktır.\nBol şans ve Kolezyum Ayıcıkları elinize kuvvet versin."
+    },
+    {
+      "id": "1323b7ee",
+      "bank_id": "d0afb600",
+      "text": "Yancının Skoru (x%1): %2"
+    },
+    {
+      "id": "13ea0408",
+      "bank_id": "d0afb600",
+      "text": "Bunlar senin adamların. Senin uğruna canını verecek sadık askerler. Birçoğu çoktan can verdi bile, gerek vatandaki gerek uzak diyarlardaki savaş meydanlarında."
+    },
+    {
+      "id": "14ea05fb",
+      "bank_id": "d0afb600",
+      "text": "Nereye önderlik edersen arkandan gelirler."
+    },
+    {
+      "id": "16ea08c1",
+      "bank_id": "d0afb600",
+      "text": "Şimdiden nice yıllar sonrası bu. Yaşlılığın omuzlarına çöktüğünü hissediyorsun. Ve koca bir krallığın sorumluluğunu."
+    },
+    {
+      "id": "17ea0ab4",
+      "bank_id": "d0afb600",
+      "text": "İşte gerçek gelecek bu. Henüz doğmamış ama kaderinde büyüklük yazılı olan evladın."
+    },
+    {
+      "id": "1b55af52",
+      "bank_id": "d0afb600",
+      "text": "Kolezyum'da dövüşerek ilerleyin ve yapabildiğiniz en yüksek skoru elde etmeye çalışın."
+    },
+    {
+      "id": "1c17341f",
+      "bank_id": "d0afb600",
+      "text": "Bu nadide ayı, Kolezyum'u kuran üç kardeşin en büyüğü Augustus Theodore'u temsil eder. Kürkünün üzerinde iki rakam dövmesi vardır. Bir sekiz ve bir beş."
+    },
+    {
+      "id": "1faf36b7",
+      "bank_id": "d0afb600",
+      "text": "Bu sevimli ayı, Kolezyum'u kuran üç kardeşin en yeteneklisi Alvin Theodore'u temsil eder. Usta bir büyü kullanıcıydı ve belki de büyücü şapkasına işlenmiş iki rakam sayısal bir büyünün parçasıdır. Bunlar bir ve dokuzdur."
+    },
+    {
+      "id": "216254ae",
+      "bank_id": "d0afb600",
+      "text": "Mallarıma göz atmayı da unutmayın sakın. Hepsi ıvır zıvır değil ya!"
+    },
+    {
+      "id": "244cff7c",
+      "bank_id": "d0afb600",
+      "text": "Yeni Kahraman Rekoru"
+    },
+    {
+      "id": "262105f7",
+      "bank_id": "d0afb600",
+      "text": "Tebrikler, üç Theodore ayısından birini buldunuz. Diğer ikisini de bulabilir misiniz?"
+    },
+    {
+      "id": "2721076a",
+      "bank_id": "d0afb600",
+      "text": "Bir Theodore ayısı daha buldunuz! Geriye sadece bir tane kaldı."
+    },
+    {
+      "id": "272b5f0c",
+      "bank_id": "d0afb600",
+      "text": "Kahraman Kazandı"
+    },
+    {
+      "id": "282108dd",
+      "bank_id": "d0afb600",
+      "text": "Tebrikler! Üç Theodore ayısının hepsini buldunuz! Kolezyum'un özel ödüllerini kazandınız. Müessesemizden bir içki için ve ufak bir şey daha..."
+    },
+    {
+      "id": "2c7275fd",
+      "bank_id": "d0afb600",
+      "text": "Bunda bol şans dilerim. Ve bunu sana bedavaya verdiğimi kimseye söyleme sakın. Bunun itibarıma neler yapacağını tahmin bile edemezsin."
+    },
+    {
+      "id": "30bcc552",
+      "bank_id": "d0afb600",
+      "text": "Tıpkı Aurora'nın kaderi gibi."
+    },
+    {
+      "id": "31ba1b70",
+      "bank_id": "d0afb600",
+      "text": "Üçüncülük Ödülü"
+    },
+    {
+      "id": "32bcc8b8",
+      "bank_id": "d0afb600",
+      "text": "Yine de bunların hiçbiri zerre kadar mühim değil."
+    },
+    {
+      "id": "33bcca2e",
+      "bank_id": "d0afb600",
+      "text": "Bir gün Albion'un kaderinin ellerinde olacağı bir çocuk."
+    },
+    {
+      "id": "35d9d3f9",
+      "bank_id": "d0afb600",
+      "text": "BİR PELÜŞ OYUNCAK!"
+    },
+    {
+      "id": "41890430",
+      "bank_id": "d0afb600",
+      "text": "\"AAA\" Ayıcık Kupası"
+    },
+    {
+      "id": "4588b4bf",
+      "bank_id": "d0afb600",
+      "text": "İkincilik Ödülü"
+    },
+    {
+      "id": "45a89156",
+      "bank_id": "d0afb600",
+      "text": "Kahramanın Öldürdüğü Yaratıklar: %1"
+    },
+    {
+      "id": "4b3232c4",
+      "bank_id": "d0afb600",
+      "text": "Kolezyum Skorları\n\n%1 puan - Nihai Ödül\n%2 puan - Birincilik Ödülü\n%3 puan - İkincilik Ödülü\n%4 puan - Üçüncülük Ödülü\n\nDenemeye devam edin! En azından ödüllerimiz tükenene kadar her seferinde farklı bir ödül verilir ve kazanılan her puan başına bir altın kazanırsınız."
+    },
+    {
+      "id": "50853dc2",
+      "bank_id": "d0afb600",
+      "text": "Tıpkı henüz keşfedilmemiş diyarlarınki gibi."
+    },
+    {
+      "id": "50a6a469",
+      "bank_id": "d0afb600",
+      "text": "Murgo'nun kervanına ve akıl almaz eşyalarına erişmek istiyorsanız, premium indirilebilir içeriği satın almanız gerekmektedir. Şimdi satın almak için <x_img> düğmesine basın."
+    },
+    {
+      "id": "52084bbb",
+      "bank_id": "d0afb600",
+      "text": "Dövüş!"
+    },
+    {
+      "id": "55085074",
+      "bank_id": "d0afb600",
+      "text": "Üç..."
+    },
+    {
+      "id": "56a08542",
+      "bank_id": "d0afb600",
+      "text": "Toplam Skor: %1"
+    },
+    {
+      "id": "5708535a",
+      "bank_id": "d0afb600",
+      "text": "Bir..."
+    },
+    {
+      "id": "580854cd",
+      "bank_id": "d0afb600",
+      "text": "İki..."
+    },
+    {
+      "id": "5acf882b",
+      "bank_id": "d0afb600",
+      "text": "Kaynağım bana pek öyle büyülü bir şey getirmedi ama dükkânımda incelemeniz için oldukça şaşırtıcı yeni eşyalar var."
+    },
+    {
+      "id": "5b75bf2b",
+      "bank_id": "d0afb600",
+      "text": "Kalan Süre: %1:%2"
+    },
+    {
+      "id": "5b807b32",
+      "bank_id": "d0afb600",
+      "text": "Dövüş arenasının minyatür bir maketi. Bir çeşit kilden yapılmış gibi görünse de etrafa kesif bir bayat kan kokusu yayıyor."
+    },
+    {
+      "id": "5c7dfbcb",
+      "bank_id": "d0afb600",
+      "text": "Gizemli Murgo'nun Muamma Kervanı"
+    },
+    {
+      "id": "5dae6c94",
+      "bank_id": "d0afb600",
+      "text": "Kaptan Ayıcık"
+    },
+    {
+      "id": "60a912f4",
+      "bank_id": "d0afb600",
+      "text": "Yancı Çarpanı Arttı"
+    },
+    {
+      "id": "63e62315",
+      "bank_id": "d0afb600",
+      "text": "Büyücü Ayıcık"
+    },
+    {
+      "id": "65c2353f",
+      "bank_id": "d0afb600",
+      "text": "Pişman olmayacaksınız. Umarım. Ama her ihtimale karşı diğer, daha sıradan eşyalarıma da biraz altın harcamayı unutmayın."
+    },
+    {
+      "id": "67225b98",
+      "bank_id": "d0afb600",
+      "text": "Yeni Toplam Rekor"
+    },
+    {
+      "id": "68031991",
+      "bank_id": "d0afb600",
+      "text": "Yancının Tepiklediği Tavuklar: %1"
+    },
+    {
+      "id": "695dc7cf",
+      "bank_id": "d0afb600",
+      "text": "UÇUŞAN ÇARKI VURUN!"
+    },
+    {
+      "id": "7265fe27",
+      "bank_id": "d0afb600",
+      "text": "Lanetli eşya şu anda kullanılamaz."
+    },
+    {
+      "id": "7522e839",
+      "bank_id": "d0afb600",
+      "text": "Birincilik Ödülü"
+    },
+    {
+      "id": "75dd354a",
+      "bank_id": "d0afb600",
+      "text": "TAVUĞU TEPİKLEYİN!"
+    },
+    {
+      "id": "7ce4ce80",
+      "bank_id": "d0afb600",
+      "text": "İşte hakiki gelecek bu. Henüz doğmamış ama kaderinde büyüklük yazılı olan kızı."
+    },
+    {
+      "id": "7ce4ce8b",
+      "bank_id": "d0afb600",
+      "text": "İşte hakiki gelecek bu. Henüz doğmamış ama kaderinde büyüklük yazılı olan oğlu."
+    },
+    {
+      "id": "7cebf261",
+      "bank_id": "d0afb600",
+      "text": "Kolezyum'a Gir"
+    },
+    {
+      "id": "7cebf262",
+      "bank_id": "d0afb600",
+      "text": "Kımıldayan her şeye saldırın!"
+    },
+    {
+      "id": "7cebf263",
+      "bank_id": "d0afb600",
+      "text": "Kolezyum'dan Ayrıl."
+    },
+    {
+      "id": "7ef912e4",
+      "bank_id": "d0afb600",
+      "text": "Tüccar Murgo Bowerstone'a döndü. Yanında hangi sırları getirdi dersiniz?"
+    },
+    {
+      "id": "7faa804c",
+      "bank_id": "d0afb600",
+      "text": "Kahraman Çarpanı Sıfırlandı"
+    },
+    {
+      "id": "80a5d0fd",
+      "bank_id": "d0afb600",
+      "text": "Kral Ayıcık"
+    },
+    {
+      "id": "81bed426",
+      "bank_id": "d0afb600",
+      "text": "Nihai Ödül"
+    },
+    {
+      "id": "880ba148",
+      "bank_id": "d0afb600",
+      "text": "Ve Murgo'dan alışveriş yapmaya devam etmeyi unutmayın!"
+    },
+    {
+      "id": "883305e5",
+      "bank_id": "d0afb600",
+      "text": "Kalan Süre: %1:0%2"
+    },
+    {
+      "id": "8abba6fc",
+      "bank_id": "d0afb600",
+      "text": "Kahraman Çarpanı Arttı"
+    },
+    {
+      "id": "8b0ba601",
+      "bank_id": "d0afb600",
+      "text": "Bol şanslar, eski dostum."
+    },
+    {
+      "id": "8c0f443a",
+      "bank_id": "d0afb600",
+      "text": "Süre"
+    },
+    {
+      "id": "8c4151be",
+      "bank_id": "d0afb600",
+      "text": "Görü bahşeden nesneden henüz bir iz yok ama lezzet kervanımda vaktinize değecek başka bir şeyler mutlaka bulacaksınız."
+    },
+    {
+      "id": "8d10d9db",
+      "bank_id": "d0afb600",
+      "text": "Kahramanın Tepiklediği Tavuklar: %1"
+    },
+    {
+      "id": "91faac0c",
+      "bank_id": "d0afb600",
+      "text": "Kazandınız!"
+    },
+    {
+      "id": "974f41bc",
+      "bank_id": "d0afb600",
+      "text": "\"Ayı hedefle. Iskalasan bile yıldızların arasına inersin.\" - Anne"
+    },
+    {
+      "id": "976cda39",
+      "bank_id": "d0afb600",
+      "text": "Tavuk Bonusu"
+    },
+    {
+      "id": "9a4f4675",
+      "bank_id": "d0afb600",
+      "text": "Büyülü puana ulaşman gerek her halükârda, Ayıcıklar'dan daha fazlasını istiyorsan şayet. Kardeşlerimin rakamlarını birleştir bir araya, son aleti çalıştırmak için gayret et."
+    },
+    {
+      "id": "a3d63a53",
+      "bank_id": "d0afb600",
+      "text": "Bunlar senin halkın. Gazabından korkan tebaan. İradenin önünde eğilen ve her sözüne itaat eden kulların."
+    },
+    {
+      "id": "a572d82e",
+      "bank_id": "d0afb600",
+      "text": "Kar küresi Murgo'ya verilsin mi?"
+    },
+    {
+      "id": "ac6ea7ef",
+      "bank_id": "d0afb600",
+      "text": "Ve bu da sizin tahtınız. Albion'un kudret makamı - sayısız karar aldığınız, adaleti sağladığınız ve bir ulusa liderlik ettiğiniz yer."
+    },
+    {
+      "id": "ae074a3c",
+      "bank_id": "d0afb600",
+      "text": "Kahramanın Skoru (x%1): %2"
+    },
+    {
+      "id": "b18ed82b",
+      "bank_id": "d0afb600",
+      "text": "Pek hoş bir hatıra oldu, değil mi?"
+    },
+    {
+      "id": "b28ed99e",
+      "bank_id": "d0afb600",
+      "text": "A, ne kadar heyecan verici değil mi? O kar küresinde lanetten zerre eser yok."
+    },
+    {
+      "id": "b5bea922",
+      "bank_id": "d0afb600",
+      "text": "Bu Ayıcık, Theodore kardeşlerin özünü damıtır: Augustus, Alvin ve Ambrose. Yalnızca bir Kolezyum şampiyonu onu elinde tutabilir."
+    },
+    {
+      "id": "b73bd844",
+      "bank_id": "d0afb600",
+      "text": "Yancının Öldürdüğü Yaratıklar: %1"
+    },
+    {
+      "id": "b84d10e4",
+      "bank_id": "d0afb600",
+      "text": "Kahramanın Skoru: %1\nYancının Skoru: %2\nToplam Skor: %3\n\nKahramanın En Yüksek Skoru: %4\nYancının En Yüksek Skoru: %5\nToplam En Yüksek Skor: %6\n\nKahramanın Öldürdüğü Yaratıklar: %7\nYancının Öldürdüğü Yaratıklar: %8"
+    },
+    {
+      "id": "ba7c083c",
+      "bank_id": "d0afb600",
+      "text": "Bunlar onun halkı. Ona tapan tebaası. Kendilerine yol göstermesi, onları koruması ve yönetmesi için ona güvenenler."
+    },
+    {
+      "id": "c1a66627",
+      "bank_id": "d0afb600",
+      "text": "Kafatası Murgo'ya verilsin mi?"
+    },
+    {
+      "id": "c65a1098",
+      "bank_id": "d0afb600",
+      "text": "Hakiki uçan süpürgeler! Usta cadılar tarafından yalnızca en aerodinamik kıllar kullanılarak yapıldı! Uçurumdan aşağı fırlatın ve yere nasıl çakıldığını izleyin!"
+    },
+    {
+      "id": "c75a120b",
+      "bank_id": "d0afb600",
+      "text": "Büyülü elmalarda özel indirim! İçinde ne bulacağınızı asla bilemezsiniz! Yarım solucan mı? Tam bir solucan mı? İki solucan mı? Hemen bugün bir ısırık alın ve öğrenin!"
+    },
+    {
+      "id": "c804e73a",
+      "bank_id": "d0afb600",
+      "text": "Bunlar senin adamların. Senin uğruna canını verecek sadık askerler."
+    },
+    {
+      "id": "c85a13fe",
+      "bank_id": "d0afb600",
+      "text": "İnanılmaz yeni diş fırçalarımızı deneyin! Gülüşünüzü en saf beyaza kadar parlatma garantili. Tebeşir alerjisi olanlara tavsiye edilmez!"
+    },
+    {
+      "id": "cb5a18b7",
+      "bank_id": "d0afb600",
+      "text": "Muhteşem yeni görünmez mürekkebimizi kullanarak arkadaşlarınızı hayrete düşürün! Lütfen kalemin de görünmez olduğunu ve kolayca kaybolabileceğini unutmayın."
+    },
+    {
+      "id": "cc5a1a2a",
+      "bank_id": "d0afb600",
+      "text": "Çekingen, kendi halinde biri misiniz? Patronunuz, iş arkadaşlarınız ve potansiyel hayat arkadaşlarınız tarafından fark edilmiyor musunuz? O halde patentli zilli pantolonumu deneyin - ve bir daha asla görmezden gelinmeyin!"
+    },
+    {
+      "id": "cd5a1b9d",
+      "bank_id": "d0afb600",
+      "text": "Sonsuz yaşamın sırrı, sadece bir avuç altın karşılığında emrinizde! Üstelik aldatıcı reklamcılığın sırrını da yanında bedavaya veriyorum!"
+    },
+    {
+      "id": "cf964874",
+      "bank_id": "d0afb600",
+      "text": "Yancı Çarpanı Sıfırlandı"
+    },
+    {
+      "id": "d0d61b32",
+      "bank_id": "d0afb600",
+      "text": "Ve bu da sizin tahtınız. Albion'un kudret makamı; sayısız karar aldığınız, gaddar bir adalet dağıttığınız ve savaşlar ilan ettiğiniz yer."
+    },
+    {
+      "id": "d1d986f4",
+      "bank_id": "d0afb600",
+      "text": "Başarısız oldunuz."
+    },
+    {
+      "id": "d96ac00d",
+      "bank_id": "d0afb600",
+      "text": "Uçuşan Çark Bonusu"
+    },
+    {
+      "id": "dbbed2cd",
+      "bank_id": "d0afb600",
+      "text": "Bonus Puanlar"
+    },
+    {
+      "id": "e6d80926",
+      "bank_id": "d0afb600",
+      "text": "Bunlar senin halkın. Sana tapan tebaan. Kendilerine yol göstermen, onları koruman ve yönetmen için sana güvenen insanlar."
+    },
+    {
+      "id": "ed071a30",
+      "bank_id": "d0afb600",
+      "text": "Yeni Yancı Rekoru"
+    },
+    {
+      "id": "effc6d8d",
+      "bank_id": "d0afb600",
+      "text": "Kolezyum"
+    },
+    {
+      "id": "f3d8bd6d",
+      "bank_id": "d0afb600",
+      "text": "Skor: %1"
+    },
+    {
+      "id": "f3e270a3",
+      "bank_id": "d0afb600",
+      "text": "Ve bu da onun tahtı. Albion'un kudret makamı; sayısız karar aldığı, adaleti sağladığı ve bir ulusa liderlik ettiği yer."
+    },
+    {
+      "id": "f3e270a8",
+      "bank_id": "d0afb600",
+      "text": "Ve bu da onun tahtı. Albion'un kudret makamı; sayısız karar aldığı, adaleti sağladığı ve bir ulusa liderlik ettiği yer."
+    },
+    {
+      "id": "f77f022e",
+      "bank_id": "d0afb600",
+      "text": "Bu sevimli ufaklık, Kolezyum'u kuran üç kardeşin en küçüğü Ambrose Theodore'u temsil eder. Berbat bir mimar ve neredeyse diğer her konuda da tamamen işe yaramaz olmasına rağmen, kendini sanayinin önemli bir kaptanı sanırdı ve kardeşleri de onun bu hevesini kırmazdı."
+    },
+    {
+      "id": "fa41b483",
+      "bank_id": "d0afb600",
+      "text": "Kolezyum'dan ayrılmak için ekmek kırıntısı izini takip edin veya başka bir turnuva başlatmak için <a_img> düğmesine basın."
+    },
+    {
+      "id": "fb5bebc8",
+      "bank_id": "d0afb600",
+      "text": "Kahramanın En Yüksek Skoru: %1"
+    },
+    {
+      "id": "feae6758",
+      "bank_id": "d0afb600",
+      "text": "Tüm Oyunlarda Kahramanın Skoru: %1\nTüm Oyunlarda Yancının Skoru: %2\nTüm Oyunlarda Toplam Skor: %3\n\nTamamlanan Kolezyum Oyunlarının Sayısı: %4\nKazanılan Toplam Altın: %5\nKahramanın En Az Yere Serilme Sayısı: %6\nYancının En Az Yere Serilme Sayısı: %7"
+    },
+    {
+      "id": "ffa4d093",
+      "bank_id": "d0afb600",
+      "text": "Ve bu da onun tahtı. Albion'un kudret makamı - sayısız karar aldığı, gaddar bir adalet dağıttığı ve savaşlar ilan ettiği yer."
+    },
+    {
+      "id": "ffa4d098",
+      "bank_id": "d0afb600",
+      "text": "Ve bu da onun tahtı. Albion'un kudret makamı - sayısız karar aldığı, gaddar bir adalet dağıttığı ve savaşlar ilan ettiği yer."
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "bank_id": "d0f29600",
+  "total_strings": 68,
+  "strings": [
+    {
+      "id": "06bff2d7",
+      "bank_id": "d0f29600",
+      "text": "Seviye %1 Becerisini Bırak (%2 iade edilir)"
+    },
+    {
+      "id": "0d6186a8",
+      "bank_id": "d0f29600",
+      "text": "İsabet"
+    },
+    {
+      "id": "0d6186a9",
+      "bank_id": "d0f29600",
+      "text": "İsabet"
+    },
+    {
+      "id": "0d6186aa",
+      "bank_id": "d0f29600",
+      "text": "İsabet"
+    },
+    {
+      "id": "0d6186ad",
+      "bank_id": "d0f29600",
+      "text": "İsabet"
+    },
+    {
+      "id": "0d6186ae",
+      "bank_id": "d0f29600",
+      "text": "İsabet"
+    },
+    {
+      "id": "0d6186af",
+      "bank_id": "d0f29600",
+      "text": "İsabet"
+    },
+    {
+      "id": "1259230f",
+      "bank_id": "d0f29600",
+      "text": "Seviye %1 Öğren (bedeli: %2)"
+    },
+    {
+      "id": "1804dae8",
+      "bank_id": "d0f29600",
+      "text": "İrade"
+    },
+    {
+      "id": "18c3982d",
+      "bank_id": "d0f29600",
+      "text": "bedeli"
+    },
+    {
+      "id": "1eb3a450",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzları"
+    },
+    {
+      "id": "21f012b0",
+      "bank_id": "d0f29600",
+      "text": "İrade"
+    },
+    {
+      "id": "26bfe384",
+      "bank_id": "d0f29600",
+      "text": "Sonraki Yetenek<motif.img>\n<b>Çevik Dövüş Tarzı 1:  Yuvarlanma</b>\nSilahınız kınından çıkmış halde bir rakiple yüzleşirken, herhangi bir yöne yuvarlanmak için <a_img> tuşuna basın.  Yuvarlanırken hiç hasar almazsınız, bu yüzden zor anlarda hayatta kalmak için bunu kullanın!\n\nGelecekteki Yetenekler:\n<bullet.img>Çevik Dövüş Tarzı 2: Nişan Alarak Menzilli Saldırı\n<bullet.img>Çevik Dövüş Tarzı 3: Yakınlaştırma\n<bullet.img>Çevik Dövüş Tarzı 4: Alt Hedefleme"
+    },
+    {
+      "id": "26bfe386",
+      "bank_id": "d0f29600",
+      "text": "Sonraki Yetenek<motif.img>\n<b>Çevik Dövüş Tarzı 3:  Yakınlaştırma</b>\nNişan alma tuşunu <y_img> daha uzun süre basılı tutmak, kilitlenilen bir düşmana daha da yakınlaştırır. Ne kadar yakınlaştırırsanız, atışınız o kadar güçlü olur.\n\nKilidi Açılmış Yetenekler\n<b>Çevik Dövüş Tarzı 2:  Nişan Alarak Menzilli Saldırı</b>\nNişan moduna girmek için <y_img> tuşunu basılı tutun; bu mod <left.img> kullanarak elle nişan almanızı sağlar. Nişangâhınız bir düşmana yaklaştığında, daha kolay hedef almak için ona yapışır.\nBir düşmana kilitliyken yakındaki diğer düşmanlara anında geçiş yapmak için <left.img> hafifçe ittirin.\n\n<b>Çevik Dövüş Tarzı 1:  Yuvarlanma</b>\nSilahınız kınından çıkmış halde bir rakiple yüzleşirken, herhangi bir yöne yuvarlanmak için <a_img> tuşuna basın.  Yuvarlanırken hiç hasar almazsınız, bu yüzden zor anlarda hayatta kalmak için bunu kullanın!\n\nGelecekteki Yetenekler:\n<bullet.img>Çevik Dövüş Tarzı 4: Alt Hedefleme"
+    },
+    {
+      "id": "26bfe387",
+      "bank_id": "d0f29600",
+      "text": "Sonraki Yetenek<motif.img>\n<b>Çevik Dövüş Tarzı 2:  Nişan Alarak Menzilli Saldırı</b>\nNişan moduna girmek için <y_img> tuşunu basılı tutun; bu mod <left.img> kullanarak elle nişan almanızı sağlar. Nişangâhınız bir düşmana yaklaştığında, daha kolay hedef almak için ona yapışır.\nBir düşmana kilitliyken yakındaki diğer düşmanlara anında geçiş yapmak için <left.img> hafifçe ittirin.\n\nKilidi Açılmış Yetenekler\n<b>Çevik Dövüş Tarzı 1:  Yuvarlanma</b>\nSilahınız kınından çıkmış halde bir rakiple yüzleşirken, herhangi bir yöne yuvarlanmak için <a_img> tuşuna basın.  Yuvarlanırken hiç hasar almazsınız, bu yüzden zor anlarda hayatta kalmak için bunu kullanın!\n\nGelecekteki Yetenekler:\n\n<bullet.img>Çevik Dövüş Tarzı 3: Yakınlaştırma\n<bullet.img>Çevik Dövüş Tarzı 4: Alt Hedefleme"
+    },
+    {
+      "id": "37360616",
+      "bank_id": "d0f29600",
+      "text": "Bir büyü seçmek için <dpad.img> üzerinde sola ve sağa hareket edin. Büyü seviyesi seçmek için yukarı ve aşağı hareket edin."
+    },
+    {
+      "id": "373e12cd",
+      "bank_id": "d0f29600",
+      "text": "Büyüyü Yukarıdaki Yuvalara Kopyala"
+    },
+    {
+      "id": "37570319",
+      "bank_id": "d0f29600",
+      "text": "Bırak"
+    },
+    {
+      "id": "402e00c1",
+      "bank_id": "d0f29600",
+      "text": "Öğren"
+    },
+    {
+      "id": "45cc2198",
+      "bank_id": "d0f29600",
+      "text": "Hız seviyenizi azami düzeye çıkardınız."
+    },
+    {
+      "id": "45cc219a",
+      "bank_id": "d0f29600",
+      "text": "Tüm darbelerinizin hızını ve menzilli silahları ne kadar çabuk doldurduğunuzu artırır."
+    },
+    {
+      "id": "45cc219b",
+      "bank_id": "d0f29600",
+      "text": "Tüm darbelerinizin hızını ve menzilli silahları ne kadar çabuk doldurduğunuzu artırır."
+    },
+    {
+      "id": "45cc219c",
+      "bank_id": "d0f29600",
+      "text": "Tüm darbelerinizin hızını ve menzilli silahları ne kadar çabuk doldurduğunuzu artırır."
+    },
+    {
+      "id": "45cc219d",
+      "bank_id": "d0f29600",
+      "text": "Tüm darbelerinizin hızını ve menzilli silahları ne kadar çabuk doldurduğunuzu artırır."
+    },
+    {
+      "id": "45cc219f",
+      "bank_id": "d0f29600",
+      "text": "Tüm darbelerinizin hızını ve menzilli silahları ne kadar çabuk doldurduğunuzu artırır."
+    },
+    {
+      "id": "577fab4a",
+      "bank_id": "d0f29600",
+      "text": "Çevik Dövüş Tarzı 4: Alt Hedefleme"
+    },
+    {
+      "id": "577fab4c",
+      "bank_id": "d0f29600",
+      "text": "Çevik Dövüş Tarzı 2: Nişan Alarak Menzilli Saldırı"
+    },
+    {
+      "id": "577fab4d",
+      "bank_id": "d0f29600",
+      "text": "Çevik Dövüş Tarzı 3: Yakınlaştırma"
+    },
+    {
+      "id": "577fab4f",
+      "bank_id": "d0f29600",
+      "text": "Çevik Dövüş Tarzı 1: Yuvarlanma"
+    },
+    {
+      "id": "67bae80b",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzı 4: Karşı Saldırılar"
+    },
+    {
+      "id": "67bae80c",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzı 3: Zincirleme Saldırılar"
+    },
+    {
+      "id": "67bae80d",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzı 2: Gösterişli Vuruşlar"
+    },
+    {
+      "id": "67bae80e",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzı 1: Blok"
+    },
+    {
+      "id": "6bfc4c5f",
+      "bank_id": "d0f29600",
+      "text": "Güç"
+    },
+    {
+      "id": "75ecb99a",
+      "bank_id": "d0f29600",
+      "text": "Bu yetenek hakkında öğrenilecek her şeyi öğrendiniz. Deneyiminizi başka alanlarda harcayın."
+    },
+    {
+      "id": "7c7ab793",
+      "bank_id": "d0f29600",
+      "text": "Beceri"
+    },
+    {
+      "id": "7fc7509b",
+      "bank_id": "d0f29600",
+      "text": "Beceri"
+    },
+    {
+      "id": "81f4a9f1",
+      "bank_id": "d0f29600",
+      "text": "Hız"
+    },
+    {
+      "id": "81f4a9f2",
+      "bank_id": "d0f29600",
+      "text": "Hız"
+    },
+    {
+      "id": "81f4a9f3",
+      "bank_id": "d0f29600",
+      "text": "Hız"
+    },
+    {
+      "id": "81f4a9f4",
+      "bank_id": "d0f29600",
+      "text": "Hız"
+    },
+    {
+      "id": "81f4a9f5",
+      "bank_id": "d0f29600",
+      "text": "Hız"
+    },
+    {
+      "id": "81f4a9f6",
+      "bank_id": "d0f29600",
+      "text": "Hız"
+    },
+    {
+      "id": "9f6c9c20",
+      "bank_id": "d0f29600",
+      "text": "Daha iyi isabet, tüm tüfekler ve tatar yaylarıyla verdiğiniz hasarı artırmanızı sağlar."
+    },
+    {
+      "id": "9f6c9c21",
+      "bank_id": "d0f29600",
+      "text": "Daha iyi isabet, tüm tüfekler ve tatar yaylarıyla verdiğiniz hasarı artırmanızı sağlar."
+    },
+    {
+      "id": "9f6c9c23",
+      "bank_id": "d0f29600",
+      "text": "Daha iyi isabet, tüm tüfekler ve tatar yaylarıyla verdiğiniz hasarı artırmanızı sağlar."
+    },
+    {
+      "id": "9f6c9c24",
+      "bank_id": "d0f29600",
+      "text": "İsabet seviyenizi azami düzeye çıkardınız."
+    },
+    {
+      "id": "9f6c9c26",
+      "bank_id": "d0f29600",
+      "text": "Daha iyi isabet, tüm tüfekler ve tatar yaylarıyla verdiğiniz hasarı artırmanızı sağlar."
+    },
+    {
+      "id": "9f6c9c27",
+      "bank_id": "d0f29600",
+      "text": "Daha iyi isabet, tüm tüfekler ve tatar yaylarıyla verdiğiniz hasarı artırmanızı sağlar."
+    },
+    {
+      "id": "b77e102e",
+      "bank_id": "d0f29600",
+      "text": "Yanma Süresi"
+    },
+    {
+      "id": "c3c3b301",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzları"
+    },
+    {
+      "id": "c3c3b302",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzları"
+    },
+    {
+      "id": "c3c3b303",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzları"
+    },
+    {
+      "id": "c3c3b304",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzları"
+    },
+    {
+      "id": "c3c3b305",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzları"
+    },
+    {
+      "id": "c3c3b306",
+      "bank_id": "d0f29600",
+      "text": "Gaddar Dövüş Tarzları"
+    },
+    {
+      "id": "c69ebd06",
+      "bank_id": "d0f29600",
+      "text": "iade edilir"
+    },
+    {
+      "id": "d3626e89",
+      "bank_id": "d0f29600",
+      "text": "Seviye 1"
+    },
+    {
+      "id": "d3626e8a",
+      "bank_id": "d0f29600",
+      "text": "Seviye 2"
+    },
+    {
+      "id": "d3626e8b",
+      "bank_id": "d0f29600",
+      "text": "Seviye 3"
+    },
+    {
+      "id": "d3626e8c",
+      "bank_id": "d0f29600",
+      "text": "Seviye 4"
+    },
+    {
+      "id": "d3626e8d",
+      "bank_id": "d0f29600",
+      "text": "Seviye 5"
+    },
+    {
+      "id": "d90706b7",
+      "bank_id": "d0f29600",
+      "text": "Güç"
+    },
+    {
+      "id": "e0278e56",
+      "bank_id": "d0f29600",
+      "text": "Yanma Hasarı"
+    },
+    {
+      "id": "eac77d3c",
+      "bank_id": "d0f29600",
+      "text": "Bu yetenekten vazgeçmek istediğinizden emin misiniz?"
+    },
+    {
+      "id": "f7abdf51",
+      "bank_id": "d0f29600",
+      "text": "Sonraki Yetenek<motif.img>\n<b>Gaddar Dövüş Tarzı 4:  Karşı Saldırılar</b>\n\nBir düşman tam size saldırmak üzereyken, hamlesine Karşı Saldırı yapmak için <x_img> tuşuna basarken <left.img> ile onun yönünü gösterin. Kendi etrafında dönecek ve bitirici bir hamle için sersemleyecektir!\n\n Kilidi Açılmış Yetenekler\n\n<b>Gaddar Dövüş Tarzı 3:  Zincirleme Saldırılar</b>\n\nVuruşlarınızı kusursuz zamanlayarak darbeleri birbirine zincirleyebilir, hızlandırabilir ve hasarlarınızı artırabilirsiniz. <x_img> tuşuna basmanız gereken kesin zaman aralığını bildiren ince ipuçlarına dikkat edin.\n\nAyrıca menzilli bir silahı doldururken, doldurma sesini duyduğunuz anda <y_img> tuşuna dokunursanız anında doldurursunuz.\n\n <b> Gaddar Dövüş Tarzı 2:  Gösterişli Vuruşlar</b>Gösterişli Vuruş için güç toplamak amacıyla <x_img> tuşunu basılı tutun. Titreşimi hissettiğinizde, bir düşmanın bloğunu kıracak veya blok yapmayan düşmanları havaya fırlatacak kadar güçlü bir darbe indirmek için <x_img> tuşunu bırakın! Bu onları yere serecek ve köpeğiniz onlara saldırabilecektir.\n\n Dikkat edin: Gösterişli Vuruş için güç toplarken saldırıya uğrarsanız otomatik olarak blok yaparsınız ve ardından yeniden güç toplamanız gerekir.\n\n <b>Gaddar Dövüş Tarzı 1:  Blok</b>\n Blok</b>\nHerhangi bir yönden gelen tüm darbeleri engellemek için <x_img> tuşunu basılı tutun.  Bir adım geri çekilirsiniz ama güvende olursunuz.\n\nSonraki Yetenek<motif.img>\n<b>Gaddar Dövüş Tarzı 4:  Karşı Saldırılar</b>\n\nBir düşman tam size saldırmak üzereyken, hamlesine Karşı Saldırı yapmak için <x_img> tuşuna basarken <left.img> ile onun yönünü gösterin. Kendi etrafında dönecek ve bitirici bir hamle için sersemleyecektir!\n\n Kilidi Açılmış Yetenekler\n\n<b>Gaddar Dövüş Tarzı 3:  Zincirleme Saldırılar</b>\n\nVuruşlarınızı kusursuz zamanlayarak darbeleri birbirine zincirleyebilir, hızlandırabilir ve hasarlarınızı artırabilirsiniz. <x_img> tuşuna basmanız gereken kesin zaman aralığını bildiren ince ipuçlarına dikkat edin.\n\nAyrıca menzilli bir silahı doldururken, doldurma sesini duyduğunuz anda <y_img> tuşuna dokunursanız anında doldurursunuz.\n\n <b> Gaddar Dövüş Tarzı 2:  Gösterişli Vuruşlar</b>Gösterişli Vuruş için güç toplamak amacıyla <x_img> tuşunu basılı tutun. Titreşimi hissettiğinizde, bir düşmanın bloğunu kıracak veya blok yapmayan düşmanları havaya fırlatacak kadar güçlü bir darbe indirmek için <x_img> tuşunu bırakın! Bu onları yere serecek ve köpeğiniz onlara saldırabilecektir.\n\n Dikkat edin: Gösterişli Vuruş için güç toplarken saldırıya uğrarsanız otomatik olarak blok yaparsınız ve ardından yeniden güç toplamanız gerekir.\n\n <b>Gaddar Dövüş Tarzı 1:  Blok</b>\n\nHerhangi bir yönden gelen tüm darbeleri engellemek için <x_img> tuşunu basılı tutun.  Bir adım geri çekilirsiniz ama güvende olursunuz."
+    },
+    {
+      "id": "f7abdf52",
+      "bank_id": "d0f29600",
+      "text": "Tüm Gaddar Dövüş Tarzlarının kilidini açtınız<motif.img>\n<b>Gaddar Dövüş Tarzı 4:  Karşı Saldırılar</b>\nBir düşman tam size saldırmak üzereyken, hamlesine Karşı Saldırı yapmak için <x_img> tuşuna basarken <left.img> ile onun yönünü gösterin. Kendi etrafında dönecek ve bitirici bir hamle için sersemleyecektir!\n\n<b>Gaddar Dövüş Tarzı 3:  Zincirleme Saldırılar</b>\nVuruşlarınızı kusursuz zamanlayarak darbeleri birbirine zincirleyebilir, hızlandırabilir ve hasarlarınızı artırabilirsiniz. <x_img> tuşuna basmanız gereken kesin zaman aralığını bildiren ince ipuçlarına dikkat edin.\nAyrıca menzilli bir silahı doldururken, doldurma sesini duyduğunuz anda <y_img> tuşuna dokunursanız anında doldurursunuz.\n\n<b> Gaddar Dövüş Tarzı 2:  Gösterişli Vuruşlar</b>Gösterişli Vuruş için güç toplamak amacıyla <x_img> tuşunu basılı tutun.  Titreşimi hissettiğinizde, bir düşmanın bloğunu kıracak veya blok yapmayan düşmanları havaya fırlatacak kadar güçlü bir darbe indirmek için <x_img> tuşunu bırakın!  Bu onları yere serecek ve köpeğiniz onlara saldırabilecektir.\nDikkat edin:  Gösterişli Vuruş için güç toplarken saldırıya uğrarsanız otomatik olarak blok yaparsınız ve ardından yeniden güç toplamanız gerekir.\n<b>Gaddar Dövüş Tarzı 1:  </b>\n Blok</b>\nHerhangi bir yönden gelen tüm darbeleri engellemek için <x_img> tuşunu basılı tutun.  Bir adım geri çekilirsiniz ama güvende olursunuz.\n\nSonraki Yetenek<motif.img>\n<b>Gaddar Dövüş Tarzı 4:  Karşı Saldırılar</b>\n\nBir düşman tam size saldırmak üzereyken, hamlesine Karşı Saldırı yapmak için <x_img> tuşuna basarken <left.img> ile onun yönünü gösterin. Kendi etrafında dönecek ve bitirici bir hamle için sersemleyecektir!\n\n Kilidi Açılmış Yetenekler\n\n<b>Gaddar Dövüş Tarzı 3:  Zincirleme Saldırılar</b>\n\nVuruşlarınızı kusursuz zamanlayarak darbeleri birbirine zincirleyebilir, hızlandırabilir ve hasarlarınızı artırabilirsiniz. <x_img> tuşuna basmanız gereken kesin zaman aralığını bildiren ince ipuçlarına dikkat edin.\n\nAyrıca menzilli bir silahı doldururken, doldurma sesini duyduğunuz anda <y_img> tuşuna dokunursanız anında doldurursunuz.\n\n <b> Gaddar Dövüş Tarzı 2:  Gösterişli Vuruşlar</b>\nGösterişli Vuruş için güç toplamak amacıyla <x_img> tuşunu basılı tutun. Titreşimi hissettiğinizde, bir düşmanın bloğunu kıracak veya blok yapmayan düşmanları havaya fırlatacak kadar güçlü bir darbe indirmek için <x_img> tuşunu bırakın! Bu onları yere serecek ve köpeğiniz onlara saldırabilecektir.\n\n Dikkat edin:  Gösterişli Vuruş için güç toplarken saldırıya uğrarsanız otomatik olarak blok yaparsınız ve ardından yeniden güç toplamanız gerekir.\n\n <b>Gaddar Dövüş Tarzı 1:  Blok</b>\n\nHerhangi bir yönden gelen tüm darbeleri engellemek için <x_img> tuşunu basılı tutun.  Bir adım geri çekilirsiniz ama güvende olursunuz."
+    },
+    {
+      "id": "f7b895c1",
+      "bank_id": "d0f29600",
+      "text": "Darbe Hasarı"
+    }
+  ]
+}

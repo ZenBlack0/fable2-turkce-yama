@@ -1,0 +1,1026 @@
+{
+  "bank_id": "90b6b600",
+  "total_strings": 204,
+  "strings": [
+    {
+      "id": "03978242",
+      "bank_id": "90b6b600",
+      "text": "Sahayı kontrol edecek güvenilir birine ihtiyacım var."
+    },
+    {
+      "id": "067fd7d0",
+      "bank_id": "90b6b600",
+      "text": "On yıldır Kule'desin. Garth olmadan ayrılamazsın."
+    },
+    {
+      "id": "0aac459e",
+      "bank_id": "90b6b600",
+      "text": "Açlıktan ölmemize izin verme."
+    },
+    {
+      "id": "0cac48e4",
+      "bank_id": "90b6b600",
+      "text": "Yardım et bana."
+    },
+    {
+      "id": "0dac4a57",
+      "bank_id": "90b6b600",
+      "text": "Kolu çek."
+    },
+    {
+      "id": "0fac4dbd",
+      "bank_id": "90b6b600",
+      "text": "Lütfen, merhamet aşkına."
+    },
+    {
+      "id": "20515418",
+      "bank_id": "90b6b600",
+      "text": "Sana itaatsizliğin bedelini göstereceğim."
+    },
+    {
+      "id": "20b4f433",
+      "bank_id": "90b6b600",
+      "text": "Sabırlı ol, zamanın burada pek bir anlamı yoktur."
+    },
+    {
+      "id": "235158d1",
+      "bank_id": "90b6b600",
+      "text": "Şimdiye kadarki ilerlemen içler acısıydı."
+    },
+    {
+      "id": "28e2fc97",
+      "bank_id": "90b6b600",
+      "text": "Beni bin kere yere serebilirsin ama asla canlı kurtulamazsın."
+    },
+    {
+      "id": "29e2fe0a",
+      "bank_id": "90b6b600",
+      "text": "Bir asker asla teslim olmaz!"
+    },
+    {
+      "id": "2ae2fffd",
+      "bank_id": "90b6b600",
+      "text": "Buna güç mü diyorsun? Lord Lucien seni ezip geçecek."
+    },
+    {
+      "id": "2ed7e928",
+      "bank_id": "90b6b600",
+      "text": "Bir daha ne zaman konuşabiliriz bilmiyorum. Komutan beni Kule'nin daha derinlerine göndermekle tehdit etti."
+    },
+    {
+      "id": "2fc9f220",
+      "bank_id": "90b6b600",
+      "text": "Beni bir kenara itebileceğini mi sandın?"
+    },
+    {
+      "id": "2fd28e99",
+      "bank_id": "90b6b600",
+      "text": "İmdat!"
+    },
+    {
+      "id": "30c9f393",
+      "bank_id": "90b6b600",
+      "text": "Hahaha!"
+    },
+    {
+      "id": "30d2900c",
+      "bank_id": "90b6b600",
+      "text": "Yemek yemezsek öleceğiz."
+    },
+    {
+      "id": "30dcc738",
+      "bank_id": "90b6b600",
+      "text": "Bu adam bu haftaki kotasını dolduramadı."
+    },
+    {
+      "id": "31c9f506",
+      "bank_id": "90b6b600",
+      "text": "Kule'nin gerçek gücünü öğreneceksin!"
+    },
+    {
+      "id": "31d291ff",
+      "bank_id": "90b6b600",
+      "text": "Haftalardır hiçbir şey yemedik."
+    },
+    {
+      "id": "32c9f6f9",
+      "bank_id": "90b6b600",
+      "text": "Şu acıyı hissediyor musun? Bu sadece başlangıç!"
+    },
+    {
+      "id": "32d29352",
+      "bank_id": "90b6b600",
+      "text": "Bizi öldürüyorsunuz!"
+    },
+    {
+      "id": "33c9f86c",
+      "bank_id": "90b6b600",
+      "text": "Sizler haşereden başka bir şey değilsiniz!"
+    },
+    {
+      "id": "33d7f0c7",
+      "bank_id": "90b6b600",
+      "text": "Burası çok güçlü... ama dönüşeceği şeyin yanında sadece bir gölge kalır."
+    },
+    {
+      "id": "34c9f9df",
+      "bank_id": "90b6b600",
+      "text": "Lucien'in dünyası görkemli olacak. Ama sen onu asla göremeyeceksin."
+    },
+    {
+      "id": "34d7f2ba",
+      "bank_id": "90b6b600",
+      "text": "Duyabiliyor musun?"
+    },
+    {
+      "id": "35c9fbb2",
+      "bank_id": "90b6b600",
+      "text": "Ölmeden önce itaati öğreneceksin!"
+    },
+    {
+      "id": "35d7f42d",
+      "bank_id": "90b6b600",
+      "text": "İrademizin çekilip alınışının sesini."
+    },
+    {
+      "id": "36d9adb8",
+      "bank_id": "90b6b600",
+      "text": "Sahayı koruyan adam tekmil vermekte gecikti."
+    },
+    {
+      "id": "36dcd04a",
+      "bank_id": "90b6b600",
+      "text": "Şu kolu çek."
+    },
+    {
+      "id": "37d9af2b",
+      "bank_id": "90b6b600",
+      "text": "Eğer adamı görevini ihmal ederken bulursan, işkence odasına götür ve sonraki emirleri bekle."
+    },
+    {
+      "id": "37dcd23d",
+      "bank_id": "90b6b600",
+      "text": "Acıyı hak ediyor ve ona bunu sen uygulayacaksın."
+    },
+    {
+      "id": "39d9b271",
+      "bank_id": "90b6b600",
+      "text": "Üst kademenin inşası yarın başlıyor."
+    },
+    {
+      "id": "3c540f75",
+      "bank_id": "90b6b600",
+      "text": "Lucien'in kuklalarının elinden gelenin en iyisi bu mu?!"
+    },
+    {
+      "id": "42d9a75f",
+      "bank_id": "90b6b600",
+      "text": "Sana yalvarıyorum."
+    },
+    {
+      "id": "45d9ac18",
+      "bank_id": "90b6b600",
+      "text": "Bir daha asla kotamı kaçırmayacağım."
+    },
+    {
+      "id": "46d9ad8b",
+      "bank_id": "90b6b600",
+      "text": "Yalnızca dur."
+    },
+    {
+      "id": "47d9af7e",
+      "bank_id": "90b6b600",
+      "text": "Lütfen dur artık."
+    },
+    {
+      "id": "49d9b244",
+      "bank_id": "90b6b600",
+      "text": "<screams> Lütfen!"
+    },
+    {
+      "id": "4b8a8583",
+      "bank_id": "90b6b600",
+      "text": "Mmmm, lezzetli yemek. Nefis, nefis."
+    },
+    {
+      "id": "4bd9b5aa",
+      "bank_id": "90b6b600",
+      "text": "Ne istersen yaparım."
+    },
+    {
+      "id": "4bfd6180",
+      "bank_id": "90b6b600",
+      "text": "Ah! Seni çok önceden öldürmeliydim!"
+    },
+    {
+      "id": "4c335718",
+      "bank_id": "90b6b600",
+      "text": "Ama ben itaatkârım. Ve o bunu yapmadan önce seni ortadan kaldıracağım."
+    },
+    {
+      "id": "4c8a8776",
+      "bank_id": "90b6b600",
+      "text": "Hemen bir şeyler atıştırıp geliyorum."
+    },
+    {
+      "id": "4cd9b71d",
+      "bank_id": "90b6b600",
+      "text": "Daha fazla dayanamam."
+    },
+    {
+      "id": "4cfd6373",
+      "bank_id": "90b6b600",
+      "text": "Argh! Beni öldürmenin bu kokuşmuş dünyayı kurtaracağını mı sanıyorsun?"
+    },
+    {
+      "id": "4d31819e",
+      "bank_id": "90b6b600",
+      "text": "İnşaat sahasını derhâl araştır!"
+    },
+    {
+      "id": "4d8a88e9",
+      "bank_id": "90b6b600",
+      "text": "Fakat onlara hiç yiyecek verilmesi yasak, bu yüzden kontrollere dokunma; yoksa pişman olursun."
+    },
+    {
+      "id": "4dfd64e6",
+      "bank_id": "90b6b600",
+      "text": "Uff! Asla kazanamayacağın bir savaşı veriyorsun."
+    },
+    {
+      "id": "4e8a8a5c",
+      "bank_id": "90b6b600",
+      "text": "Eğer sana zorluk çıkarırlarsa kırmızı şalteri çek; bu onlara işkence eder. Çenelerini güzelce kapatır."
+    },
+    {
+      "id": "4f335bd1",
+      "bank_id": "90b6b600",
+      "text": "Düzeni sağlayamadığım için Lord Lucien beni öldürecek."
+    },
+    {
+      "id": "4f8a8bcf",
+      "bank_id": "90b6b600",
+      "text": "Burada dur ve ben dönene kadar şu solucanlara göz kulak ol."
+    },
+    {
+      "id": "4ffd67cc",
+      "bank_id": "90b6b600",
+      "text": "Öff!"
+    },
+    {
+      "id": "508a8da2",
+      "bank_id": "90b6b600",
+      "text": "Kapa çeneni!"
+    },
+    {
+      "id": "508a8da7",
+      "bank_id": "90b6b600",
+      "text": "Ah, buradasın demek."
+    },
+    {
+      "id": "50fd69bf",
+      "bank_id": "90b6b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "51fd6b12",
+      "bank_id": "90b6b600",
+      "text": "Öff!"
+    },
+    {
+      "id": "52fd6c85",
+      "bank_id": "90b6b600",
+      "text": "Ha! Bu hiçbir şey. Duyuyor musun beni?"
+    },
+    {
+      "id": "53208c1b",
+      "bank_id": "90b6b600",
+      "text": "Bu kadar yeter."
+    },
+    {
+      "id": "541d6098",
+      "bank_id": "90b6b600",
+      "text": "Yerde, ait olduğun o pislik gibi mi öleceksin?"
+    },
+    {
+      "id": "54208d8b",
+      "bank_id": "90b6b600",
+      "text": "Hevesin takdir edildi; fakat Lucien'in istediği şey itaattir."
+    },
+    {
+      "id": "54208d8e",
+      "bank_id": "90b6b600",
+      "text": "Yeter dedim."
+    },
+    {
+      "id": "5461121d",
+      "bank_id": "90b6b600",
+      "text": "Seninle konuşurken kaçıp gitme!"
+    },
+    {
+      "id": "55208f61",
+      "bank_id": "90b6b600",
+      "text": "Mükemmel ilerleme kaydediyorsun. Gidebilirsin."
+    },
+    {
+      "id": "55f86769",
+      "bank_id": "90b6b600",
+      "text": "Dikkat et!"
+    },
+    {
+      "id": "561d63fe",
+      "bank_id": "90b6b600",
+      "text": "Bunu çok önceden yapmalıydım!"
+    },
+    {
+      "id": "56bb5c48",
+      "bank_id": "90b6b600",
+      "text": "Yemek, yemeğe ihtiyacım var!"
+    },
+    {
+      "id": "56e4f2de",
+      "bank_id": "90b6b600",
+      "text": "Ölümün için Lucien bana teşekkür edecek!"
+    },
+    {
+      "id": "571d6551",
+      "bank_id": "90b6b600",
+      "text": "Lucien'in gücü benimkinden katbekat üstün. Onunla yüzleşebileceğini mi sanıyorsun?"
+    },
+    {
+      "id": "57bb5e3b",
+      "bank_id": "90b6b600",
+      "text": "Açlıktan ölüyorum!"
+    },
+    {
+      "id": "57e4f4b1",
+      "bank_id": "90b6b600",
+      "text": "Geri bas casus!"
+    },
+    {
+      "id": "58bb5fae",
+      "bank_id": "90b6b600",
+      "text": "Kolu çek de yiyecek bir şeyler alayım."
+    },
+    {
+      "id": "58e4f624",
+      "bank_id": "90b6b600",
+      "text": "Bir hainden daha kötüsü yoktur!"
+    },
+    {
+      "id": "59e4f797",
+      "bank_id": "90b6b600",
+      "text": "Ödülün ölüm olacak."
+    },
+    {
+      "id": "5ae4f90a",
+      "bank_id": "90b6b600",
+      "text": "Geber!"
+    },
+    {
+      "id": "5b0333a8",
+      "bank_id": "90b6b600",
+      "text": "Haftalardır hiçbir şey yemedik."
+    },
+    {
+      "id": "5c03351b",
+      "bank_id": "90b6b600",
+      "text": "Yemek yemezsek öleceğiz."
+    },
+    {
+      "id": "5dbb674d",
+      "bank_id": "90b6b600",
+      "text": "Neden bize yardım etmiyorsun?"
+    },
+    {
+      "id": "5e033861",
+      "bank_id": "90b6b600",
+      "text": "Doyurun karnımızı!"
+    },
+    {
+      "id": "5f54c163",
+      "bank_id": "90b6b600",
+      "text": "Hayır."
+    },
+    {
+      "id": "6054c2d6",
+      "bank_id": "90b6b600",
+      "text": "Lütfen yapma."
+    },
+    {
+      "id": "61033d3a",
+      "bank_id": "90b6b600",
+      "text": "Neden!?"
+    },
+    {
+      "id": "6154c449",
+      "bank_id": "90b6b600",
+      "text": "Sana yalvarıyorum."
+    },
+    {
+      "id": "6254c63c",
+      "bank_id": "90b6b600",
+      "text": "Dokunma ona. Lütfen."
+    },
+    {
+      "id": "701636e3",
+      "bank_id": "90b6b600",
+      "text": "Pes etme. Buradan kaçmalıyız."
+    },
+    {
+      "id": "710fbdee",
+      "bank_id": "90b6b600",
+      "text": "Neler olduğunu öğren. Bunu kendini affettirmek için bir fırsat olarak görebilirsin."
+    },
+    {
+      "id": "71163856",
+      "bank_id": "90b6b600",
+      "text": "Dikkatli ol. Şimdi kaybedemeyiz."
+    },
+    {
+      "id": "71ff92c7",
+      "bank_id": "90b6b600",
+      "text": "Ugh! Beni korumalısın. Hâlâ zayıfım."
+    },
+    {
+      "id": "721639c9",
+      "bank_id": "90b6b600",
+      "text": "Sen onlardan daha güçlüsün. Odaklan."
+    },
+    {
+      "id": "73163bbc",
+      "bank_id": "90b6b600",
+      "text": "Gardını düşürme."
+    },
+    {
+      "id": "74163d2f",
+      "bank_id": "90b6b600",
+      "text": "Sana yardım ederdim ama güçlerim tüketildi."
+    },
+    {
+      "id": "74364019",
+      "bank_id": "90b6b600",
+      "text": "Nereye gidiyorsun?"
+    },
+    {
+      "id": "75163e82",
+      "bank_id": "90b6b600",
+      "text": "Keşke savaşa katılabilseydim ama ikimiz için de yeterince güçlü olmak zorundasın."
+    },
+    {
+      "id": "76164075",
+      "bank_id": "90b6b600",
+      "text": "Bu hayatının en önemli savaşı. Kendini yüzüstü bırakma."
+    },
+    {
+      "id": "771641e8",
+      "bank_id": "90b6b600",
+      "text": "Acıyı bir kenara bırak ve karşılık ver."
+    },
+    {
+      "id": "7816435b",
+      "bank_id": "90b6b600",
+      "text": "Komutan'ın odasına vardığımızda sana yardım edebileceğim. O zamana kadar tek başınasın."
+    },
+    {
+      "id": "7b53da4f",
+      "bank_id": "90b6b600",
+      "text": "Bana teşekkür edeceksin."
+    },
+    {
+      "id": "7c53dc22",
+      "bank_id": "90b6b600",
+      "text": "Bana teşekkür et dedim."
+    },
+    {
+      "id": "7f9fd7cf",
+      "bank_id": "90b6b600",
+      "text": "Senin evlenecek biri olduğunu hiç düşünmezdim."
+    },
+    {
+      "id": "809fd9a2",
+      "bank_id": "90b6b600",
+      "text": "Pek yuva kuracak tip değilsin, ha?"
+    },
+    {
+      "id": "819fdb15",
+      "bank_id": "90b6b600",
+      "text": "Sorun değil, beni hiç ilgilendirmez."
+    },
+    {
+      "id": "83ba3060",
+      "bank_id": "90b6b600",
+      "text": "Saldırılarımı sonsuza dek engelleyemezsin!"
+    },
+    {
+      "id": "83fd2b28",
+      "bank_id": "90b6b600",
+      "text": "Ne düşündüğünü biliyorum ama peşinde olduğum şey intikam değil. İntikam yalnızca talihli bir yan ürün."
+    },
+    {
+      "id": "84ba31d3",
+      "bank_id": "90b6b600",
+      "text": "Arrrrrr!"
+    },
+    {
+      "id": "86ba3539",
+      "bank_id": "90b6b600",
+      "text": "Asla yorulmam. Asla geri adım atmam. Sen de aynısını söyleyebilir misin?"
+    },
+    {
+      "id": "86fd2fe1",
+      "bank_id": "90b6b600",
+      "text": "Komutan ölmeden hiçbir yere gitmiyoruz."
+    },
+    {
+      "id": "87aefe78",
+      "bank_id": "90b6b600",
+      "text": "Şu ana kadar iyi gidiyorsun."
+    },
+    {
+      "id": "87fd3154",
+      "bank_id": "90b6b600",
+      "text": "Şimdi Komutan'ı bulmamız gerek."
+    },
+    {
+      "id": "89ba39f2",
+      "bank_id": "90b6b600",
+      "text": "Düşeceksin. Bu sadece an meselesi."
+    },
+    {
+      "id": "89fd34ba",
+      "bank_id": "90b6b600",
+      "text": "Yeni bir acemi kafilesi getiriliyor."
+    },
+    {
+      "id": "8a251958",
+      "bank_id": "90b6b600",
+      "text": "Sen, görev yerine geç."
+    },
+    {
+      "id": "8aaf0331",
+      "bank_id": "90b6b600",
+      "text": "Senin için önemli bir ders hazırladım."
+    },
+    {
+      "id": "8ab1237c",
+      "bank_id": "90b6b600",
+      "text": "Benim ölümüm önemsizdir. Gelecek olanı durdurmaya gücün yetmez."
+    },
+    {
+      "id": "8aba3b65",
+      "bank_id": "90b6b600",
+      "text": "İtaat edeceksin! İtaat edeceksin!"
+    },
+    {
+      "id": "8afd362d",
+      "bank_id": "90b6b600",
+      "text": "Bir baksana."
+    },
+    {
+      "id": "8b251acb",
+      "bank_id": "90b6b600",
+      "text": "Emredersiniz efendim!"
+    },
+    {
+      "id": "8f252173",
+      "bank_id": "90b6b600",
+      "text": "Ailen var mı?"
+    },
+    {
+      "id": "8f252174",
+      "bank_id": "90b6b600",
+      "text": "Karım hayran kalırdı."
+    },
+    {
+      "id": "8f252175",
+      "bank_id": "90b6b600",
+      "text": "Burası harika... Kendi kendini inşa ediyor."
+    },
+    {
+      "id": "8f252176",
+      "bank_id": "90b6b600",
+      "text": "Bu sabah başladıklarında yirmiydi."
+    },
+    {
+      "id": "8f252177",
+      "bank_id": "90b6b600",
+      "text": "Köleler dün gece işi bitirdiğinde duvar on fit boyundaydı."
+    },
+    {
+      "id": "902522ea",
+      "bank_id": "90b6b600",
+      "text": "Ben... Ben evleneli hmm, ne kadar oldu acaba?"
+    },
+    {
+      "id": "9125245d",
+      "bank_id": "90b6b600",
+      "text": "Epey bir zaman oldu sanırım."
+    },
+    {
+      "id": "946ebfcb",
+      "bank_id": "90b6b600",
+      "text": "Lucien'i durduramazsın. Benimle savaşacak gücü bile zor buluyorsun!"
+    },
+    {
+      "id": "956ec1be",
+      "bank_id": "90b6b600",
+      "text": "Birey bir hiçtir. İtaatimin gücüyle seni yok edeceğim."
+    },
+    {
+      "id": "98d12473",
+      "bank_id": "90b6b600",
+      "text": "Gelmeye devam edecekler. Tetikte ol."
+    },
+    {
+      "id": "99d125e6",
+      "bank_id": "90b6b600",
+      "text": "Şimdi pes etme."
+    },
+    {
+      "id": "9ad12759",
+      "bank_id": "90b6b600",
+      "text": "Mükemmel."
+    },
+    {
+      "id": "9bd128cc",
+      "bank_id": "90b6b600",
+      "text": "Bizimle özgürlüğümüzün arasında duruyorlar."
+    },
+    {
+      "id": "9cd12abf",
+      "bank_id": "90b6b600",
+      "text": "Onlara merhamet gösterme."
+    },
+    {
+      "id": "9dd12c12",
+      "bank_id": "90b6b600",
+      "text": "Güzel!"
+    },
+    {
+      "id": "a1b20bf0",
+      "bank_id": "90b6b600",
+      "text": "Oda buradan uzak değil."
+    },
+    {
+      "id": "a2b20d63",
+      "bank_id": "90b6b600",
+      "text": "Komutan düştüğünde gücümü yeniden kazanacağım."
+    },
+    {
+      "id": "a4699803",
+      "bank_id": "90b6b600",
+      "text": "Beni beslemediklerinden bu yana... hatırlamıyorum bile."
+    },
+    {
+      "id": "a56999f6",
+      "bank_id": "90b6b600",
+      "text": "Kolu çek, lütfen!"
+    },
+    {
+      "id": "a5bf5fad",
+      "bank_id": "90b6b600",
+      "text": "Komutan'ın odası artık uzak değil. Yakın dur."
+    },
+    {
+      "id": "a6699b69",
+      "bank_id": "90b6b600",
+      "text": "Yardım edin bize!"
+    },
+    {
+      "id": "a6b213af",
+      "bank_id": "90b6b600",
+      "text": "Komutan'ın odasına vardığımızda daha çok işe yarayacağım."
+    },
+    {
+      "id": "a7699cdc",
+      "bank_id": "90b6b600",
+      "text": "Sana yalvarıyorum, bir şey yap."
+    },
+    {
+      "id": "a7b21502",
+      "bank_id": "90b6b600",
+      "text": "İyi gidiyorsun. Hâlâ hayattayız."
+    },
+    {
+      "id": "a8b216f5",
+      "bank_id": "90b6b600",
+      "text": "Beni koruduğun sürece bir şansımız var."
+    },
+    {
+      "id": "adbea571",
+      "bank_id": "90b6b600",
+      "text": "Sabırlı ol."
+    },
+    {
+      "id": "aebea6e4",
+      "bank_id": "90b6b600",
+      "text": "Fark etmez. O tasmayı taktığın sürece gücün hiçbir işe yaramaz."
+    },
+    {
+      "id": "afbea857",
+      "bank_id": "90b6b600",
+      "text": "Buraya nasıl geldiğini bilmiyorum... ama ne olduğunu biliyorum."
+    },
+    {
+      "id": "b38d85e0",
+      "bank_id": "90b6b600",
+      "text": "Darbelerin bana vız gelir!"
+    },
+    {
+      "id": "b58d88c6",
+      "bank_id": "90b6b600",
+      "text": "Tüm toparlayabildiğin güç bu mu?"
+    },
+    {
+      "id": "b68d8ab9",
+      "bank_id": "90b6b600",
+      "text": "Ne kadar aciz olduğunu görüyor musun?"
+    },
+    {
+      "id": "b78d8c2c",
+      "bank_id": "90b6b600",
+      "text": "Gücümü Kule'den alıyorum; o senin gücünü tüketirken bile."
+    },
+    {
+      "id": "b88d8d9f",
+      "bank_id": "90b6b600",
+      "text": "Bizi yenebileceğini nasıl düşünebilirsin ki?"
+    },
+    {
+      "id": "bb2cd773",
+      "bank_id": "90b6b600",
+      "text": "Bir şey yap!"
+    },
+    {
+      "id": "bb7215b3",
+      "bank_id": "90b6b600",
+      "text": "Bak dedim."
+    },
+    {
+      "id": "bc721724",
+      "bank_id": "90b6b600",
+      "text": "Öğrendiğin her şey silinip gidecek."
+    },
+    {
+      "id": "bc721726",
+      "bank_id": "90b6b600",
+      "text": "(iç çeker)"
+    },
+    {
+      "id": "bc721727",
+      "bank_id": "90b6b600",
+      "text": "İtaatsizlik ettiğin her saniye tasma zihninden daha fazla anı söküp alıyor."
+    },
+    {
+      "id": "bd721899",
+      "bank_id": "90b6b600",
+      "text": "Beni etkilesen iyi ederdin... ve hiç etkilenmedim."
+    },
+    {
+      "id": "be2cdbcc",
+      "bank_id": "90b6b600",
+      "text": "Bana yardım etmezsen öleceğim!"
+    },
+    {
+      "id": "be721a0c",
+      "bank_id": "90b6b600",
+      "text": "Bunu bütün gün yapabilirim... ve her dakikasından zevk alırım."
+    },
+    {
+      "id": "bf721bff",
+      "bank_id": "90b6b600",
+      "text": "Bakacaksın."
+    },
+    {
+      "id": "c02cdf12",
+      "bank_id": "90b6b600",
+      "text": "Bunu neden yapıyorsun?"
+    },
+    {
+      "id": "c12ce085",
+      "bank_id": "90b6b600",
+      "text": "Burada ölmek istemiyorum."
+    },
+    {
+      "id": "c7663e54",
+      "bank_id": "90b6b600",
+      "text": "Pekala, buradan sonrasını ben devralıyorum."
+    },
+    {
+      "id": "ca66432d",
+      "bank_id": "90b6b600",
+      "text": "Bir gece daha dayanamazlar. Komutan memnun kalacak."
+    },
+    {
+      "id": "d3ebe30e",
+      "bank_id": "90b6b600",
+      "text": "Sen... Bana ihanet edeceğini anlamalıydım."
+    },
+    {
+      "id": "d5534138",
+      "bank_id": "90b6b600",
+      "text": "Yalvar! Bana itaat et."
+    },
+    {
+      "id": "d63f6030",
+      "bank_id": "90b6b600",
+      "text": "Sana bir seçenek sunmuyorum."
+    },
+    {
+      "id": "d65342ab",
+      "bank_id": "90b6b600",
+      "text": "Şimdi - yalvar. Merhamet göstermem için bana yalvar."
+    },
+    {
+      "id": "d73f61a3",
+      "bank_id": "90b6b600",
+      "text": "Şimdiye kadar öğrenmiş olacağını ummuştum."
+    },
+    {
+      "id": "d753441e",
+      "bank_id": "90b6b600",
+      "text": "Mükemmel."
+    },
+    {
+      "id": "d93f6489",
+      "bank_id": "90b6b600",
+      "text": "Acele etmelisin."
+    },
+    {
+      "id": "d9823796",
+      "bank_id": "90b6b600",
+      "text": "Çünkü ben öyle söylüyorum."
+    },
+    {
+      "id": "dc3f6942",
+      "bank_id": "90b6b600",
+      "text": "Fazlasıyla tahmin edilebilirdin."
+    },
+    {
+      "id": "df824128",
+      "bank_id": "90b6b600",
+      "text": "Bu proje senin en vahşi hayallerinin bile ötesinde hırslı."
+    },
+    {
+      "id": "e082429b",
+      "bank_id": "90b6b600",
+      "text": "Yine de ilerlememiz bir mucize değil."
+    },
+    {
+      "id": "e28245e1",
+      "bank_id": "90b6b600",
+      "text": "Kule şu ana kadar on yıl aldı ve tamamlanana kadar çok daha fazlasını alacak."
+    },
+    {
+      "id": "e2be02a7",
+      "bank_id": "90b6b600",
+      "text": "Doyurun karnımızı!"
+    },
+    {
+      "id": "e3824754",
+      "bank_id": "90b6b600",
+      "text": "Bakalım ne kadar iyi öğrenmişsin."
+    },
+    {
+      "id": "e3be041a",
+      "bank_id": "90b6b600",
+      "text": "İmdat!"
+    },
+    {
+      "id": "e48248c7",
+      "bank_id": "90b6b600",
+      "text": "Sana vuracağım. Ve sen bana teşekkür edeceksin."
+    },
+    {
+      "id": "e5824aba",
+      "bank_id": "90b6b600",
+      "text": "Bu, itaatin bir ürünüdür."
+    },
+    {
+      "id": "e6824c2d",
+      "bank_id": "90b6b600",
+      "text": "Kavramı anlıyorsun, değil mi?"
+    },
+    {
+      "id": "e83da7f0",
+      "bank_id": "90b6b600",
+      "text": "Şimdi bana teşekkür et. İtaat et."
+    },
+    {
+      "id": "ea37aae2",
+      "bank_id": "90b6b600",
+      "text": "Gösterdiğin bunca umuttan sonra bana ihanet mi ediyorsun?"
+    },
+    {
+      "id": "ea3daad6",
+      "bank_id": "90b6b600",
+      "text": "Ve bir kez daha. Bana teşekkür et. İtaat et."
+    },
+    {
+      "id": "ea48369b",
+      "bank_id": "90b6b600",
+      "text": "KOMUTAN"
+    },
+    {
+      "id": "eb3dac49",
+      "bank_id": "90b6b600",
+      "text": "Çektiğin acı için bana teşekkür et. İtaat et."
+    },
+    {
+      "id": "edd9dc88",
+      "bank_id": "90b6b600",
+      "text": "Pekala öyleyse. Sen ve o yer değiştireceksiniz ve senin zayıflığını paylaşıp paylaşmadığını göreceğiz."
+    },
+    {
+      "id": "efd9dfee",
+      "bank_id": "90b6b600",
+      "text": "Onun yerinde olmayı mı tercih ederdin? Bunu ayarlayabilirim."
+    },
+    {
+      "id": "f0409f48",
+      "bank_id": "90b6b600",
+      "text": "Kule seni ele geçirecek ve gücün görkemli yeni dünyamıza yakıt olacak."
+    },
+    {
+      "id": "f0d9e141",
+      "bank_id": "90b6b600",
+      "text": "Onun sana aynı merhameti göstereceğini mi sanıyorsun?"
+    },
+    {
+      "id": "f1d9e334",
+      "bank_id": "90b6b600",
+      "text": "Neden direniyorsun?"
+    },
+    {
+      "id": "f2d9e4a7",
+      "bank_id": "90b6b600",
+      "text": "Seçimin onu kurtarmayacak. Yine de işkence görecek."
+    },
+    {
+      "id": "f2fed068",
+      "bank_id": "90b6b600",
+      "text": "Geliyorum efendim!"
+    },
+    {
+      "id": "f340a401",
+      "bank_id": "90b6b600",
+      "text": "Kule'ye karşı koyamazsın. Direnişin yalnızca ölümünü daha acı verici hale getirecektir."
+    },
+    {
+      "id": "f3fed1db",
+      "bank_id": "90b6b600",
+      "text": "Acemi 273, yeniden eğitim odasına tekmil ver."
+    },
+    {
+      "id": "f4c36d65",
+      "bank_id": "90b6b600",
+      "text": "Acemi 273, gözaltı merkezine tekmil ver."
+    },
+    {
+      "id": "f4d9e78d",
+      "bank_id": "90b6b600",
+      "text": "Sana bir emir verdim."
+    },
+    {
+      "id": "f4fed34e",
+      "bank_id": "90b6b600",
+      "text": "Biliyor musun, artık neredeyse fark etmiyorum bile. Kendi kalp atışım kadar tanıdık."
+    },
+    {
+      "id": "f5fed521",
+      "bank_id": "90b6b600",
+      "text": "Kışlaya tekmil verme emrin var!"
+    },
+    {
+      "id": "f6fed694",
+      "bank_id": "90b6b600",
+      "text": "Bir ailem olmadığına seviniyorum."
+    },
+    {
+      "id": "f6fed695",
+      "bank_id": "90b6b600",
+      "text": "Ha. Az önce tuhaf bir his..."
+    },
+    {
+      "id": "f7fed807",
+      "bank_id": "90b6b600",
+      "text": "Belki de tasmadandır. Bu sesler varken bazen düşünmek bile zor."
+    },
+    {
+      "id": "f8fed9fc",
+      "bank_id": "90b6b600",
+      "text": "Keşke senin gücüne sahip olsaydım."
+    },
+    {
+      "id": "f8fed9ff",
+      "bank_id": "90b6b600",
+      "text": "Komutan'a direndiğini duydum..."
+    },
+    {
+      "id": "f9fedb6d",
+      "bank_id": "90b6b600",
+      "text": "Komutan bu sabah bana bir acemiye işkence ettirdi. Zavallı herifin ailesini özlediğini söylediğini duymuş."
+    }
+  ]
+}

@@ -1,0 +1,861 @@
+{
+  "bank_id": "70b7b600",
+  "total_strings": 171,
+  "strings": [
+    {
+      "id": "007f07fe",
+      "bank_id": "70b7b600",
+      "text": "Süre doldu."
+    },
+    {
+      "id": "00a52b11",
+      "bank_id": "70b7b600",
+      "text": "Hiç de öyle değil."
+    },
+    {
+      "id": "01a52c84",
+      "bank_id": "70b7b600",
+      "text": "Bu sana kalmış. Seni buradan dilediğin yere gönderebilirim. Ne istiyorsun?"
+    },
+    {
+      "id": "02a52e77",
+      "bank_id": "70b7b600",
+      "text": "Eve dönmek istiyorum. Samarkand'a."
+    },
+    {
+      "id": "03a39be2",
+      "bank_id": "70b7b600",
+      "text": "Oakfield'deki çiftlikte odun kırın."
+    },
+    {
+      "id": "04a5315d",
+      "bank_id": "70b7b600",
+      "text": "Evet, evet, evet, evet. Ama daha önemli meselelere gelelim: peki ya ben? Bana ne var? Nakit fena olmazdı."
+    },
+    {
+      "id": "050e3a64",
+      "bank_id": "70b7b600",
+      "text": "Fakat veda etme vakti geldi."
+    },
+    {
+      "id": "050e3a6f",
+      "bank_id": "70b7b600",
+      "text": "Fakat veda etme vakti geldi."
+    },
+    {
+      "id": "0b23212e",
+      "bank_id": "70b7b600",
+      "text": "Oduncu İşi\nKazanılan altın: %1\nEn yüksek seri: %2\nBaşarılı vuruşlar: %3\nToplam kazanılan altın: %4\nTerfiye kalan altın: %5"
+    },
+    {
+      "id": "0c33551e",
+      "bank_id": "70b7b600",
+      "text": "Çekiç kullanmayı bilmiyor musun?"
+    },
+    {
+      "id": "0cd21f21",
+      "bank_id": "70b7b600",
+      "text": "Terfiye kalan altın:"
+    },
+    {
+      "id": "0d53c0d6",
+      "bank_id": "70b7b600",
+      "text": "İyi bir vuruş yapmak için hedef tam vurulacak noktanın üzerindeyken <a_img> tuşuna basın. Ne kadar hızlı keserseniz o kadar çok altın kazanırsınız. Altın çarpanını artırmak için ıskalamadan peş peşe 10 vuruş yapın."
+    },
+    {
+      "id": "0daa492c",
+      "bank_id": "70b7b600",
+      "text": "Demirci"
+    },
+    {
+      "id": "0ec7370c",
+      "bank_id": "70b7b600",
+      "text": "Devam Et"
+    },
+    {
+      "id": "110fb7c3",
+      "bank_id": "70b7b600",
+      "text": "Kanun tarafından arandığınız sürece bu işi alamazsınız."
+    },
+    {
+      "id": "1186b35e",
+      "bank_id": "70b7b600",
+      "text": "Güzel şekil alıyor."
+    },
+    {
+      "id": "12e8d6c0",
+      "bank_id": "70b7b600",
+      "text": "Tamamlanmış bir kılıç işte."
+    },
+    {
+      "id": "17050db0",
+      "bank_id": "70b7b600",
+      "text": "Bekle! Bunu nasıl yapabildin?!"
+    },
+    {
+      "id": "1b0513fc",
+      "bank_id": "70b7b600",
+      "text": "Ve şimdi senin için ayrılma vakti."
+    },
+    {
+      "id": "1b22ec3a",
+      "bank_id": "70b7b600",
+      "text": "Başarılı vuruşlar: %1"
+    },
+    {
+      "id": "1c05156f",
+      "bank_id": "70b7b600",
+      "text": "Dünyanın tadını çıkarmak artık sana kalmış."
+    },
+    {
+      "id": "1d0516c2",
+      "bank_id": "70b7b600",
+      "text": "Fakat Kule... benim."
+    },
+    {
+      "id": "1e0518b5",
+      "bank_id": "70b7b600",
+      "text": "Yıkıl karşımdan."
+    },
+    {
+      "id": "217fd851",
+      "bank_id": "70b7b600",
+      "text": "Kazanılan para: %1"
+    },
+    {
+      "id": "26743722",
+      "bank_id": "70b7b600",
+      "text": "Başarılı vuruşlar:"
+    },
+    {
+      "id": "283a2bc6",
+      "bank_id": "70b7b600",
+      "text": "Oduncu"
+    },
+    {
+      "id": "29cd0e6f",
+      "bank_id": "70b7b600",
+      "text": "Demirci"
+    },
+    {
+      "id": "2d0b5d68",
+      "bank_id": "70b7b600",
+      "text": "Bowerstone'da silah dövün."
+    },
+    {
+      "id": "305cf6fb",
+      "bank_id": "70b7b600",
+      "text": "Düzgün vuramaz mısın?"
+    },
+    {
+      "id": "320b5cf7",
+      "bank_id": "70b7b600",
+      "text": "Oduncu İşi"
+    },
+    {
+      "id": "34802362",
+      "bank_id": "70b7b600",
+      "text": "Kuzeye gitmek, o savaşçı keşişlerle çalışmak istiyorum. Şiddetten kaçınmaktan öyle bıkmıştım ki... şimdi de ona sebep olmaktan usandım."
+    },
+    {
+      "id": "380b1126",
+      "bank_id": "70b7b600",
+      "text": "Brightwood'da odun kırın."
+    },
+    {
+      "id": "38985255",
+      "bank_id": "70b7b600",
+      "text": "İşi alın"
+    },
+    {
+      "id": "38fa625c",
+      "bank_id": "70b7b600",
+      "text": "Demirci İşi"
+    },
+    {
+      "id": "3a165580",
+      "bank_id": "70b7b600",
+      "text": "Çabuk ol, soğumadan önce."
+    },
+    {
+      "id": "3bcf5344",
+      "bank_id": "70b7b600",
+      "text": "Talimatlar"
+    },
+    {
+      "id": "3ffd1298",
+      "bank_id": "70b7b600",
+      "text": "Terfiye kalan altın: %1"
+    },
+    {
+      "id": "402315a9",
+      "bank_id": "70b7b600",
+      "text": "Kalan süre:"
+    },
+    {
+      "id": "42bf765f",
+      "bank_id": "70b7b600",
+      "text": "Bowerstone'da içki servisi yapın."
+    },
+    {
+      "id": "4559e5a7",
+      "bank_id": "70b7b600",
+      "text": "Bowerstone Demircisi"
+    },
+    {
+      "id": "48b98312",
+      "bank_id": "70b7b600",
+      "text": "Bir kılıç bitti."
+    },
+    {
+      "id": "49ad6516",
+      "bank_id": "70b7b600",
+      "text": "Güzel kılıç."
+    },
+    {
+      "id": "49babb4c",
+      "bank_id": "70b7b600",
+      "text": "Iskaladı."
+    },
+    {
+      "id": "4cd4374c",
+      "bank_id": "70b7b600",
+      "text": "Kalan süre:"
+    },
+    {
+      "id": "4e3018d0",
+      "bank_id": "70b7b600",
+      "text": "Bloodstone'da içki servisi yapın"
+    },
+    {
+      "id": "4f0fac8c",
+      "bank_id": "70b7b600",
+      "text": "Mükemmel bir çekiç darbesi."
+    },
+    {
+      "id": "54d7b434",
+      "bank_id": "70b7b600",
+      "text": "Ah... Söylemeliyim ki arada sırada Albion'a uğramam gerekecek. Wraithmarsh'taki bazı arkadaşlara karşı bir borcum var."
+    },
+    {
+      "id": "54d7b437",
+      "bank_id": "70b7b600",
+      "text": "Ha, bu arada, ara sıra Wraithmarsh'a küçük bir şey götürmek istemezsin herhalde, değil mi? Yok yok, ben de öyle tahmin etmiştim..."
+    },
+    {
+      "id": "55cd0be6",
+      "bank_id": "70b7b600",
+      "text": "Bowerstone Barmeni"
+    },
+    {
+      "id": "580220cd",
+      "bank_id": "70b7b600",
+      "text": "Oakfield'deki rüzgâr değirmeninde odun kırın."
+    },
+    {
+      "id": "5a8f0824",
+      "bank_id": "70b7b600",
+      "text": "Bu harika bir kılıç."
+    },
+    {
+      "id": "5ee8cd4b",
+      "bank_id": "70b7b600",
+      "text": "Kılıca vurmaya çalış."
+    },
+    {
+      "id": "5f24c991",
+      "bank_id": "70b7b600",
+      "text": "Bu iş görür."
+    },
+    {
+      "id": "600ab07c",
+      "bank_id": "70b7b600",
+      "text": "İşi alın"
+    },
+    {
+      "id": "60433683",
+      "bank_id": "70b7b600",
+      "text": "<s4>Mevcut Altın: %1</s4>"
+    },
+    {
+      "id": "6241189a",
+      "bank_id": "70b7b600",
+      "text": "Bu işi almak için %1 bir oduncu olmalısın.\nDaha düşük seviyeli odunculuk işleri yaparak terfi kazan."
+    },
+    {
+      "id": "633de02b",
+      "bank_id": "70b7b600",
+      "text": "Artık %1 bir demircisiniz."
+    },
+    {
+      "id": "66b6948b",
+      "bank_id": "70b7b600",
+      "text": "Güzel dövme işi."
+    },
+    {
+      "id": "66ffe707",
+      "bank_id": "70b7b600",
+      "text": "İyi vuruş."
+    },
+    {
+      "id": "69720d65",
+      "bank_id": "70b7b600",
+      "text": "Fakat Kahraman'ın hikâyesi burada bitmiyor. Koca bir dünya onun dönüşünü bekliyordu."
+    },
+    {
+      "id": "69720d6e",
+      "bank_id": "70b7b600",
+      "text": "Fakat Kahraman'ın hikâyesi burada bitmiyor. Koca bir dünya onun dönüşünü bekliyordu."
+    },
+    {
+      "id": "6e620dd6",
+      "bank_id": "70b7b600",
+      "text": "Acele et, süre tükeniyor."
+    },
+    {
+      "id": "6fd78bdd",
+      "bank_id": "70b7b600",
+      "text": "Başarılı çekiç darbeleri: %1"
+    },
+    {
+      "id": "70f2986e",
+      "bank_id": "70b7b600",
+      "text": "Bu iş şu anda mevcut değil. Daha sonra tekrar kontrol edin."
+    },
+    {
+      "id": "744c2b38",
+      "bank_id": "70b7b600",
+      "text": "Toplam kazanılan altın: %1\nTerfi için gereken: %2"
+    },
+    {
+      "id": "75764a7e",
+      "bank_id": "70b7b600",
+      "text": "Artık %1 bir oduncusunuz."
+    },
+    {
+      "id": "787ed4c7",
+      "bank_id": "70b7b600",
+      "text": "Örsün dövülmeye ihtiyacı yok."
+    },
+    {
+      "id": "796400b7",
+      "bank_id": "70b7b600",
+      "text": "Bu işi almak için %1 bir demirci olmalısın.\nDaha düşük seviyeli demircilik işleri yaparak terfi kazan."
+    },
+    {
+      "id": "7a573b80",
+      "bank_id": "70b7b600",
+      "text": "Kendine iyi bak."
+    },
+    {
+      "id": "7b573d73",
+      "bank_id": "70b7b600",
+      "text": "Sanırım bu son vedamız olacak."
+    },
+    {
+      "id": "7e5741cc",
+      "bank_id": "70b7b600",
+      "text": "Sanırım Albion'u sana bırakacağım. Zaten bu konuda yapabileceğim bir şey yok."
+    },
+    {
+      "id": "80574512",
+      "bank_id": "70b7b600",
+      "text": "Onca berbat şey çok yazıktı."
+    },
+    {
+      "id": "81574685",
+      "bank_id": "70b7b600",
+      "text": "Gerçekten inanılmaz işler başardın."
+    },
+    {
+      "id": "82579cf8",
+      "bank_id": "70b7b600",
+      "text": "Oduncu <star-2.img>"
+    },
+    {
+      "id": "82579cf9",
+      "bank_id": "70b7b600",
+      "text": "Oduncu <star-3.img>"
+    },
+    {
+      "id": "82579cfb",
+      "bank_id": "70b7b600",
+      "text": "Oduncu <star-1.img>"
+    },
+    {
+      "id": "82579cfe",
+      "bank_id": "70b7b600",
+      "text": "Oduncu <star-4.img>"
+    },
+    {
+      "id": "82579cff",
+      "bank_id": "70b7b600",
+      "text": "Oduncu <star-5.img>"
+    },
+    {
+      "id": "82cb743d",
+      "bank_id": "70b7b600",
+      "text": "Oakfield Çiftliği Oduncusu"
+    },
+    {
+      "id": "879b099d",
+      "bank_id": "70b7b600",
+      "text": "Demirci İşi Kazanılan altın: %1\nEn yüksek seri: %2\nTamamlanan kılıçlar: %3\nToplam kazanılan altın: %4\nTerfi için gereken: %5"
+    },
+    {
+      "id": "89bc5861",
+      "bank_id": "70b7b600",
+      "text": "Seri: %1"
+    },
+    {
+      "id": "89c33261",
+      "bank_id": "70b7b600",
+      "text": "İyi bir çekiç darbesi vurmak için hedef tam vurulacak noktanın üzerindeyken <a_img> tuşuna dokunun. Altın çarpanını artırmak için kusursuz bir kılıç yapın."
+    },
+    {
+      "id": "8f80f77f",
+      "bank_id": "70b7b600",
+      "text": "Vurmak için <a_img> tuşuna basın. İşten çıkmak için <b_img> tuşuna basın."
+    },
+    {
+      "id": "91e1c33d",
+      "bank_id": "70b7b600",
+      "text": "Talimatlar"
+    },
+    {
+      "id": "983c8881",
+      "bank_id": "70b7b600",
+      "text": "Süren bitti."
+    },
+    {
+      "id": "99c4b4d5",
+      "bank_id": "70b7b600",
+      "text": "Bu hazır."
+    },
+    {
+      "id": "9a6463ba",
+      "bank_id": "70b7b600",
+      "text": "Müzik kutusunu kullanın."
+    },
+    {
+      "id": "9c88d3dd",
+      "bank_id": "70b7b600",
+      "text": "Çekiç kullanmayı biliyorsun."
+    },
+    {
+      "id": "9cac2fdf",
+      "bank_id": "70b7b600",
+      "text": "Tam bir kılıç olmuş doğrusu."
+    },
+    {
+      "id": "9e0a9540",
+      "bank_id": "70b7b600",
+      "text": "Demirci olarak çalışın."
+    },
+    {
+      "id": "a12d1aa5",
+      "bank_id": "70b7b600",
+      "text": "Örse vurmayı bırak."
+    },
+    {
+      "id": "a178a1eb",
+      "bank_id": "70b7b600",
+      "text": "Ee, Albion'la tek başına başa çıkabileceğini düşünüyor musun?"
+    },
+    {
+      "id": "a278a35e",
+      "bank_id": "70b7b600",
+      "text": "Bir süreliğine buradan uzaklaşmam gerek. Bir değişiklik yapıp biraz kafamı toplamalıyım."
+    },
+    {
+      "id": "a29964f8",
+      "bank_id": "70b7b600",
+      "text": "Oakfield Değirmeni Oduncusu"
+    },
+    {
+      "id": "a378a531",
+      "bank_id": "70b7b600",
+      "text": "Geriye pek bir şey bırakıyor sayılmam zaten."
+    },
+    {
+      "id": "a3f7599f",
+      "bank_id": "70b7b600",
+      "text": "Biliyorsun, Işık Tapınağı yüzyıllardır o mağaraya barışçıl keşişler gönderiyor. Eskiden merak ederdim, neden hepsi kof adamlar tarafından katledilmedi diye?"
+    },
+    {
+      "id": "a40ca70c",
+      "bank_id": "70b7b600",
+      "text": "Elveda, Hammer."
+    },
+    {
+      "id": "a478a6a4",
+      "bank_id": "70b7b600",
+      "text": "Şey. Belki bir tek şey. Şimdiye kadar sahip olduğum en büyük dost hakkında."
+    },
+    {
+      "id": "a50ca8ff",
+      "bank_id": "70b7b600",
+      "text": "Hepimiz Kader'in tutsaklarıyız. Şimdilik."
+    },
+    {
+      "id": "a5a80ef0",
+      "bank_id": "70b7b600",
+      "text": "Ya da zenginlik. Hayal edebileceğinden daha fazla altın; canının istediği her şeye harcamak üzere."
+    },
+    {
+      "id": "a5dccd0c",
+      "bank_id": "70b7b600",
+      "text": "Başarılı kılıçlar:"
+    },
+    {
+      "id": "a6a81063",
+      "bank_id": "70b7b600",
+      "text": "Fakat onların hayatları, Kule'yi inşa ederken ölen sayısız masumun canı pahasına geri gelir."
+    },
+    {
+      "id": "a778ab7d",
+      "bank_id": "70b7b600",
+      "text": "Kendine iyi bak."
+    },
+    {
+      "id": "a7a811d3",
+      "bank_id": "70b7b600",
+      "text": "Sevgi: Sana en yakın olanlar... sadık köpeğin bile... hayata geri döndürülecektir."
+    },
+    {
+      "id": "a7a811d6",
+      "bank_id": "70b7b600",
+      "text": "Sevgi: Sana en yakın olanlar... ailen ve hatta sadık köpeğin bile... hayata geri döndürülecektir."
+    },
+    {
+      "id": "a80cadb8",
+      "bank_id": "70b7b600",
+      "text": "Sen ne yaptın?"
+    },
+    {
+      "id": "a834cb90",
+      "bank_id": "70b7b600",
+      "text": "Böyle yaparak asla bir demirci olamazsın."
+    },
+    {
+      "id": "a8a81349",
+      "bank_id": "70b7b600",
+      "text": "Fakat bunu yaparak aileni bir daha asla göremeyeceğini bil."
+    },
+    {
+      "id": "a8a8134c",
+      "bank_id": "70b7b600",
+      "text": "Bu fedakârca bir hediyedir: tek ödülün Albion'un minnettarlığı olacaktır."
+    },
+    {
+      "id": "a8dcd1c5",
+      "bank_id": "70b7b600",
+      "text": "Üretilen kılıçlar:"
+    },
+    {
+      "id": "a90caf2b",
+      "bank_id": "70b7b600",
+      "text": "Ona ayinden bahsettim. Nerede olacağımızdan."
+    },
+    {
+      "id": "a945c761",
+      "bank_id": "70b7b600",
+      "text": "İyi bir darbe."
+    },
+    {
+      "id": "aa0cb09e",
+      "bank_id": "70b7b600",
+      "text": "Ve bunun olması gerekiyordu. Çünkü eşyanın tabiatı böyledir."
+    },
+    {
+      "id": "aaa657e3",
+      "bank_id": "70b7b600",
+      "text": "Bu kılıç tamam."
+    },
+    {
+      "id": "aaad82c4",
+      "bank_id": "70b7b600",
+      "text": "Toplam kazanılan altın:"
+    },
+    {
+      "id": "ab0cb271",
+      "bank_id": "70b7b600",
+      "text": "Yapmasaydım bunların hiçbiri gerçekleşemezdi."
+    },
+    {
+      "id": "ac0cb3e4",
+      "bank_id": "70b7b600",
+      "text": "İlk başta senin hakkında şüphelerim vardı. Ama tanıştığımıza sevindim. Ve tekrar karşılaşacağız. Bundan emin olabilirsin."
+    },
+    {
+      "id": "ac830d1d",
+      "bank_id": "70b7b600",
+      "text": "Kılıç dövüldü!"
+    },
+    {
+      "id": "ad0cb552",
+      "bank_id": "70b7b600",
+      "text": "Ah... Söylemeliyim ki çok da uzak olmayan bir gelecekte Albion'a dönmem gerekecek. Wraithmarsh'taki bazı arkadaşlar benden bir şeyler bekliyor."
+    },
+    {
+      "id": "ad0cb557",
+      "bank_id": "70b7b600",
+      "text": "Ah... Söylemeliyim ki yaklaşık bir yıl içinde buraya dönmem gerekecek. Wraithmarsh'taki bazı arkadaşlar benden bir şeyler bekliyor."
+    },
+    {
+      "id": "ae062e9d",
+      "bank_id": "70b7b600",
+      "text": "Tamamen yanlış vuruyorsun."
+    },
+    {
+      "id": "ae0cb6ca",
+      "bank_id": "70b7b600",
+      "text": "Kahraman Tepesi'nde Lucien seni dinlediğini söylediğinde ne demek istedi?"
+    },
+    {
+      "id": "af0cb8bd",
+      "bank_id": "70b7b600",
+      "text": "Theresa... gitmeden önce..."
+    },
+    {
+      "id": "af83d1bb",
+      "bank_id": "70b7b600",
+      "text": "Toplam kazanılan altın: %1\nTerfi için gereken: %2"
+    },
+    {
+      "id": "b163f56d",
+      "bank_id": "70b7b600",
+      "text": "Oduncu"
+    },
+    {
+      "id": "b29d482c",
+      "bank_id": "70b7b600",
+      "text": "Tamamdır. Çekici bırak."
+    },
+    {
+      "id": "b3240ca6",
+      "bank_id": "70b7b600",
+      "text": "Güzel ve keskin bir tane."
+    },
+    {
+      "id": "b331927c",
+      "bank_id": "70b7b600",
+      "text": "Bu kılıç tamamlandı."
+    },
+    {
+      "id": "b3a824fa",
+      "bank_id": "70b7b600",
+      "text": "Neyi seçeceksin?"
+    },
+    {
+      "id": "b4a8266d",
+      "bank_id": "70b7b600",
+      "text": "Fakat sevdiğin herkes ve Kule'nin tüm tutsakları ölü kalmaya devam edecek ve yeni bulduğun bu refaha tanıklık edemeyecekler."
+    },
+    {
+      "id": "bab75d8f",
+      "bank_id": "70b7b600",
+      "text": "Hepimiz Kader'in tutsaklarıyız. Şimdilik. Bunu değiştirmeye niyetliyim."
+    },
+    {
+      "id": "bac32221",
+      "bank_id": "70b7b600",
+      "text": "Örse değil, kılıca vur."
+    },
+    {
+      "id": "be795d95",
+      "bank_id": "70b7b600",
+      "text": "Hızlı vur yoksa soğuyacak."
+    },
+    {
+      "id": "c0224e35",
+      "bank_id": "70b7b600",
+      "text": "Altın Çarpanı: %1"
+    },
+    {
+      "id": "c3788908",
+      "bank_id": "70b7b600",
+      "text": "Demirci <star-1.img>"
+    },
+    {
+      "id": "c378890a",
+      "bank_id": "70b7b600",
+      "text": "Demirci <star-3.img>"
+    },
+    {
+      "id": "c378890b",
+      "bank_id": "70b7b600",
+      "text": "Demirci <star-2.img>"
+    },
+    {
+      "id": "c378890c",
+      "bank_id": "70b7b600",
+      "text": "Demirci <star-5.img>"
+    },
+    {
+      "id": "c378890d",
+      "bank_id": "70b7b600",
+      "text": "Demirci <star-4.img>"
+    },
+    {
+      "id": "c48b913a",
+      "bank_id": "70b7b600",
+      "text": "Öyle değil."
+    },
+    {
+      "id": "c71c7ecf",
+      "bank_id": "70b7b600",
+      "text": "Kusursuz kılıç dövüldü!"
+    },
+    {
+      "id": "cf583588",
+      "bank_id": "70b7b600",
+      "text": "İyi bir darbe."
+    },
+    {
+      "id": "d3ca4a35",
+      "bank_id": "70b7b600",
+      "text": "Şu kılıcı bitirecek kadar vaktin var, hepsi bu."
+    },
+    {
+      "id": "d7f079a2",
+      "bank_id": "70b7b600",
+      "text": "İyi bir iş çıkarıyorsun."
+    },
+    {
+      "id": "d84ce0c4",
+      "bank_id": "70b7b600",
+      "text": "Dövmek için <a_img> tuşuna dokunun. İşten çıkmak için <b_img> tuşuna basın."
+    },
+    {
+      "id": "d9c37bca",
+      "bank_id": "70b7b600",
+      "text": "En yüksek seri:"
+    },
+    {
+      "id": "dc9c3562",
+      "bank_id": "70b7b600",
+      "text": "İşi alın"
+    },
+    {
+      "id": "dd27f69f",
+      "bank_id": "70b7b600",
+      "text": "Demir tavında dövülür."
+    },
+    {
+      "id": "dedc398d",
+      "bank_id": "70b7b600",
+      "text": "İşte kılıç böyle yapılır."
+    },
+    {
+      "id": "e1c812c1",
+      "bank_id": "70b7b600",
+      "text": "Çünkü hiç yoktu da ondan. Mağara bir sınavdır. Savaşa gitmek istersen onu her zaman bulursun."
+    },
+    {
+      "id": "e619945f",
+      "bank_id": "70b7b600",
+      "text": "Bloodstone Barmeni"
+    },
+    {
+      "id": "e6cd2daf",
+      "bank_id": "70b7b600",
+      "text": "Aynen öyle vurmaya devam et."
+    },
+    {
+      "id": "e7d58f7f",
+      "bank_id": "70b7b600",
+      "text": "Oduncu olarak çalışın."
+    },
+    {
+      "id": "e8a7b5a3",
+      "bank_id": "70b7b600",
+      "text": "Hadi, soğumasına izin verme."
+    },
+    {
+      "id": "f1678780",
+      "bank_id": "70b7b600",
+      "text": "Kule yüzünden ailesini ve arkadaşlarını kaybeden herkes, sevdiklerine kavuştu; şaşkın ama yara almamış haldeler. Yakında tüm Albion minnettarlıkla dolacak ve bu büyük, fedakâr Kahraman'ın adını sonsuza dek yüceltecek. Ve onun uğruna nelerden vazgeçtiğini bilecekler."
+    },
+    {
+      "id": "f2678973",
+      "bank_id": "70b7b600",
+      "text": "Geri döndüğünde tüylü dostun seni bekliyor olacak. Ve seni bencil ya da duygusuz ilan edebilecek olan herkes, bu yerde kendi ailesini kaybetmiş olanlar bile böyle bir seçim karşısında muhtemelen aynısını yapacaklarını bilecektir."
+    },
+    {
+      "id": "f5678dcc",
+      "bank_id": "70b7b600",
+      "text": "Öyle olsun."
+    },
+    {
+      "id": "f7679112",
+      "bank_id": "70b7b600",
+      "text": "Evinde seni sıcak bir karşılama bekliyor. Ve seni bencil ya da duygusuz ilan edebilecek olan herkes, bu yerde kendi ailesini kaybetmiş olanlar bile böyle bir seçim karşısında muhtemelen aynısını yapacaklarını bilecektir."
+    },
+    {
+      "id": "f8679285",
+      "bank_id": "70b7b600",
+      "text": "Karaya döndüğünde insan aklının alamayacağı bir servet bulacaksın. Ve seni bencil ya da duygusuz ilan edebilecek olanlar ise kayıplarına yanmaktan ve kıskançlıktan kudurmaktan başka bir şey yapamayacaktır."
+    },
+    {
+      "id": "f9b04659",
+      "bank_id": "70b7b600",
+      "text": "Brightwood Oduncusu"
+    },
+    {
+      "id": "faee28dc",
+      "bank_id": "70b7b600",
+      "text": "Seri: %1"
+    },
+    {
+      "id": "fba52372",
+      "bank_id": "70b7b600",
+      "text": "Kuzeye gitmek istiyorum. Şiddeti anlamaya çalıştıkları o manastırı bulmak istiyorum. Eğer iç huzura giden yolu gerçekten bulmuşlarsa, bunu bilmek isterim."
+    },
+    {
+      "id": "fc70602b",
+      "bank_id": "70b7b600",
+      "text": "Kazanılan altın:"
+    },
+    {
+      "id": "fca524e5",
+      "bank_id": "70b7b600",
+      "text": "Elveda Kahraman. Beni bu belanın içine sürüklediğin için sana ne kadar teşekkür etsem az."
+    },
+    {
+      "id": "fd511ddc",
+      "bank_id": "70b7b600",
+      "text": "Ve hikâyemiz burada sona eriyor. Kahraman zafer kazanmıştı. Lucien yenilgiye uğratılmış ve Harap Kule için yaptığı planlar boşa çıkarılmıştı."
+    },
+    {
+      "id": "fda52658",
+      "bank_id": "70b7b600",
+      "text": "Güven bana, heyecan verici kısımları bulurum."
+    },
+    {
+      "id": "fea527c9",
+      "bank_id": "70b7b600",
+      "text": "Hayır. Benim işim bitti."
+    },
+    {
+      "id": "fea527cb",
+      "bank_id": "70b7b600",
+      "text": "Pekala. Ama ayağımın altından çekil. Hammer?"
+    },
+    {
+      "id": "fea527cd",
+      "bank_id": "70b7b600",
+      "text": "İki keşiş hiçbir şey bulamazdı. Ama bir savaşçı savaşı bulur. Her zaman."
+    },
+    {
+      "id": "fea527cf",
+      "bank_id": "70b7b600",
+      "text": "Tanıştığımız gün o mağarada neden saldırıya uğradığımızı biliyorum. O kof adamları yanınla sen getirdin."
+    },
+    {
+      "id": "ffa529be",
+      "bank_id": "70b7b600",
+      "text": "Ooh, Samarkand'a hiç gitmedim. Sıcak geceler, egzotik maddeler ve... sınır tanımayan insanlar."
+    }
+  ]
+}

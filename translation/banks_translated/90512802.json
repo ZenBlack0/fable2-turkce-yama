@@ -1,0 +1,1031 @@
+{
+  "bank_id": "90512802",
+  "total_strings": 205,
+  "strings": [
+    {
+      "id": "09aa2da2",
+      "bank_id": "90512802",
+      "text": "Bir ara oynamalıyız."
+    },
+    {
+      "id": "1c248e7a",
+      "bank_id": "90512802",
+      "text": "Zorda kaldığında o silah işini görüyor olmalı. Yoksa hâlâ hayatta olamazdın."
+    },
+    {
+      "id": "1c248e7b",
+      "bank_id": "90512802",
+      "text": "O silahla bir sürü şey öldürdün mü?"
+    },
+    {
+      "id": "1c248e7c",
+      "bank_id": "90512802",
+      "text": "O silahla çoğu düşmanın hakkından gelebiliyor olmalısın."
+    },
+    {
+      "id": "1c248e7d",
+      "bank_id": "90512802",
+      "text": "Fena bir silah değil. Sırtın duvara dayandığında iş görür diye düşünüyorum."
+    },
+    {
+      "id": "1c248e7e",
+      "bank_id": "90512802",
+      "text": "Silahın uzun zamandır sende mi?"
+    },
+    {
+      "id": "1ec9e260",
+      "bank_id": "90512802",
+      "text": "O silahla kötü bir niyetin olmadığını umuyorum. Kaldır şunu."
+    },
+    {
+      "id": "1ec9e263",
+      "bank_id": "90512802",
+      "text": "Silahını başka bir yere doğrultmanı tavsiye ederim."
+    },
+    {
+      "id": "2232fe98",
+      "bank_id": "90512802",
+      "text": "Ölmek istemiyorum!"
+    },
+    {
+      "id": "2232fe9a",
+      "bank_id": "90512802",
+      "text": "Dikkat etmezsen birini öldüreceksin."
+    },
+    {
+      "id": "2232fe9b",
+      "bank_id": "90512802",
+      "text": "Aaa! Hayır, öldürme bizi!"
+    },
+    {
+      "id": "2232fe9c",
+      "bank_id": "90512802",
+      "text": "Birinin ölümüne sebep olacaksın seni deli. O kişi ben olmasam iyi edersin."
+    },
+    {
+      "id": "2232fe9d",
+      "bank_id": "90512802",
+      "text": "Birinin canı yanacak."
+    },
+    {
+      "id": "25249c48",
+      "bank_id": "90512802",
+      "text": "O silah kiminle dövüşüyorsan onu alt etmeye yeter sanırım."
+    },
+    {
+      "id": "25249c49",
+      "bank_id": "90512802",
+      "text": "O silahla bir sürü canavar avlamışsındır kesin."
+    },
+    {
+      "id": "25249c4b",
+      "bank_id": "90512802",
+      "text": "O silahla çok canavar öldürdün mü?"
+    },
+    {
+      "id": "25249c4e",
+      "bank_id": "90512802",
+      "text": "Onunla kaç kişi öldürdün?"
+    },
+    {
+      "id": "25249c4f",
+      "bank_id": "90512802",
+      "text": "Evet, o silah iyi görünüyor."
+    },
+    {
+      "id": "273306b9",
+      "bank_id": "90512802",
+      "text": "O silahı öylece açıkta tutmanın ne kadar tehlikeli olduğunun farkında mısın?"
+    },
+    {
+      "id": "273306ba",
+      "bank_id": "90512802",
+      "text": "Ne yapıyorsun sen?! Kaldır şu silahı!"
+    },
+    {
+      "id": "273306bb",
+      "bank_id": "90512802",
+      "text": "Birinin canı fena yanmadan önce kaldır şunu ortalıktan."
+    },
+    {
+      "id": "273306bc",
+      "bank_id": "90512802",
+      "text": "Onunla birini yaralaman umurumda değil. Yeter ki bana dokunma, tamam mı?"
+    },
+    {
+      "id": "273306bd",
+      "bank_id": "90512802",
+      "text": "O silah hiç tekin değil!"
+    },
+    {
+      "id": "27d271a8",
+      "bank_id": "90512802",
+      "text": "Birini öldürtmeye mi çalışıyorsun sen?"
+    },
+    {
+      "id": "27d271a9",
+      "bank_id": "90512802",
+      "text": "Dikkat et orada!"
+    },
+    {
+      "id": "27d271aa",
+      "bank_id": "90512802",
+      "text": "Oh, dikkatli ol lütfen, o şey birini fena yaralayabilir."
+    },
+    {
+      "id": "27d271ab",
+      "bank_id": "90512802",
+      "text": "Onunla birini sakatlayabilirsin valla."
+    },
+    {
+      "id": "27d271ad",
+      "bank_id": "90512802",
+      "text": "Dikkat et! Onunla birini öldürebilirsin!"
+    },
+    {
+      "id": "27d271ae",
+      "bank_id": "90512802",
+      "text": "Önüne bak! Birini öldüreceksin!"
+    },
+    {
+      "id": "27d271af",
+      "bank_id": "90512802",
+      "text": "Bu gidişle kesin birinin canı yanacak."
+    },
+    {
+      "id": "28152982",
+      "bank_id": "90512802",
+      "text": "Onu üzerimde kullanma sakın!"
+    },
+    {
+      "id": "2a8d26da",
+      "bank_id": "90512802",
+      "text": "Senin gibi biri için amma yaman bir silah."
+    },
+    {
+      "id": "2a8d26db",
+      "bank_id": "90512802",
+      "text": "Elindeki ne biçim bir silah öyle! Yarışmada filan mı kazandın?"
+    },
+    {
+      "id": "2b3cd650",
+      "bank_id": "90512802",
+      "text": "Aaa! Hayır!"
+    },
+    {
+      "id": "2b3cd651",
+      "bank_id": "90512802",
+      "text": "Aaa! Hayır!"
+    },
+    {
+      "id": "2b3cd652",
+      "bank_id": "90512802",
+      "text": "Aaa! Hayır!"
+    },
+    {
+      "id": "2b3cd656",
+      "bank_id": "90512802",
+      "text": "Bana ateş etme!"
+    },
+    {
+      "id": "2b3cd657",
+      "bank_id": "90512802",
+      "text": "Aaa! Hayır!"
+    },
+    {
+      "id": "2c4fbdd1",
+      "bank_id": "90512802",
+      "text": "Sen resmen suç yolundasın ha."
+    },
+    {
+      "id": "2c4fbdd2",
+      "bank_id": "90512802",
+      "text": "Yoluna devam et seni sokak sıçanı."
+    },
+    {
+      "id": "311537ef",
+      "bank_id": "90512802",
+      "text": "Hey, onunla bana vurmayı planlamıyorsun değil mi?!"
+    },
+    {
+      "id": "32d282d8",
+      "bank_id": "90512802",
+      "text": "Aklını mı kaçırdın sen! O şey birini öldürebilir!"
+    },
+    {
+      "id": "32d282d9",
+      "bank_id": "90512802",
+      "text": "Hey, birinin canına kıyacaksın!"
+    },
+    {
+      "id": "32d282da",
+      "bank_id": "90512802",
+      "text": "Dikkat etmezsen birini sakatlayacaksın."
+    },
+    {
+      "id": "32d282db",
+      "bank_id": "90512802",
+      "text": "Lütfen, onunla dikkatli ol. Saçma bir kaza yüzünden ölmek istemiyorum."
+    },
+    {
+      "id": "32d282dc",
+      "bank_id": "90512802",
+      "text": "Dur! Onunla birini öldürebilirsin!"
+    },
+    {
+      "id": "32d282de",
+      "bank_id": "90512802",
+      "text": "Onunla birini öldürtmeye mi çalışıyorsun sen?"
+    },
+    {
+      "id": "32d282df",
+      "bank_id": "90512802",
+      "text": "Maniaklaşma! Kaldır şunu!"
+    },
+    {
+      "id": "338d3528",
+      "bank_id": "90512802",
+      "text": "Böyle bir silahın varken kimseden korkmuyorsundur herhalde."
+    },
+    {
+      "id": "338d3529",
+      "bank_id": "90512802",
+      "text": "Gerçekten inanılmaz bir silah bu."
+    },
+    {
+      "id": "338d352b",
+      "bank_id": "90512802",
+      "text": "Böylesine harika bir silahı nasıl ele geçirdin?"
+    },
+    {
+      "id": "338d352e",
+      "bank_id": "90512802",
+      "text": "Bayağı yaman bir silahın var."
+    },
+    {
+      "id": "338d352f",
+      "bank_id": "90512802",
+      "text": "O silahı kimden aşırdın? Senin gibilere fazla lüks."
+    },
+    {
+      "id": "343ce4ba",
+      "bank_id": "90512802",
+      "text": "Aaa! Hayır!"
+    },
+    {
+      "id": "343ce4bb",
+      "bank_id": "90512802",
+      "text": "Aaa! Hayır!"
+    },
+    {
+      "id": "343ce4bc",
+      "bank_id": "90512802",
+      "text": "Aaa! Hayır!"
+    },
+    {
+      "id": "343ce4bd",
+      "bank_id": "90512802",
+      "text": "Aaa! Hayır!"
+    },
+    {
+      "id": "343ce4bf",
+      "bank_id": "90512802",
+      "text": "Aaa! Hayır!"
+    },
+    {
+      "id": "38211e90",
+      "bank_id": "90512802",
+      "text": "Aaaaaah!"
+    },
+    {
+      "id": "38211e91",
+      "bank_id": "90512802",
+      "text": "Aaaaaah!"
+    },
+    {
+      "id": "38211e92",
+      "bank_id": "90512802",
+      "text": "Aaaaaah!"
+    },
+    {
+      "id": "38211e96",
+      "bank_id": "90512802",
+      "text": "Aaaaaah!"
+    },
+    {
+      "id": "38211e97",
+      "bank_id": "90512802",
+      "text": "Aaaaaah!"
+    },
+    {
+      "id": "3e424194",
+      "bank_id": "90512802",
+      "text": "Bana yaklaşma sakın."
+    },
+    {
+      "id": "41212cfa",
+      "bank_id": "90512802",
+      "text": "Aaaaaah!"
+    },
+    {
+      "id": "41212cfb",
+      "bank_id": "90512802",
+      "text": "Aaaaaah!"
+    },
+    {
+      "id": "41212cfc",
+      "bank_id": "90512802",
+      "text": "Aaaaaah!"
+    },
+    {
+      "id": "41212cfd",
+      "bank_id": "90512802",
+      "text": "Aaaaaah!"
+    },
+    {
+      "id": "41212cff",
+      "bank_id": "90512802",
+      "text": "Aaaaaah!"
+    },
+    {
+      "id": "434249b5",
+      "bank_id": "90512802",
+      "text": "Git buradan."
+    },
+    {
+      "id": "4770bdfd",
+      "bank_id": "90512802",
+      "text": "İmdat!"
+    },
+    {
+      "id": "4a1c943e",
+      "bank_id": "90512802",
+      "text": "Dikkat et! O silah tehlikeli!"
+    },
+    {
+      "id": "5270cf2c",
+      "bank_id": "90512802",
+      "text": "Aagh!"
+    },
+    {
+      "id": "531ca20b",
+      "bank_id": "90512802",
+      "text": "Dikkatli ol, canımı yakabilirsin!"
+    },
+    {
+      "id": "57129e38",
+      "bank_id": "90512802",
+      "text": "Siz veletler hepiniz aynısınız!"
+    },
+    {
+      "id": "57129e3a",
+      "bank_id": "90512802",
+      "text": "Git başkasına musallat ol çocuk."
+    },
+    {
+      "id": "57129e3b",
+      "bank_id": "90512802",
+      "text": "Seni pis küçük sokak çocuğu. Uzak dur benden."
+    },
+    {
+      "id": "5c12a5da",
+      "bank_id": "90512802",
+      "text": "Yine bela mı arıyorsun sen?"
+    },
+    {
+      "id": "5c12a5db",
+      "bank_id": "90512802",
+      "text": "Senin gibi küçük yaratıklara söyleyecek sözüm yok benim."
+    },
+    {
+      "id": "602976b8",
+      "bank_id": "90512802",
+      "text": "Hmm, fena silah değil sanırım. Ama dünyanın en iyisi de sayılmaz, değil mi?"
+    },
+    {
+      "id": "604ba392",
+      "bank_id": "90512802",
+      "text": "Daha iyi bir silah bulamadın mı? Tam bir çöp bu."
+    },
+    {
+      "id": "604ba393",
+      "bank_id": "90512802",
+      "text": "Şu hurda parçasıyla sahiden görevlere mi çıkıyorsun sen?"
+    },
+    {
+      "id": "604ba394",
+      "bank_id": "90512802",
+      "text": "Senin gibi bir maceracının böyle işe yaramaz bir silahla ne işi var?"
+    },
+    {
+      "id": "604ba395",
+      "bank_id": "90512802",
+      "text": "Senin gibi birinin bundan daha iyi bir silahı olmalıydı."
+    },
+    {
+      "id": "604ba397",
+      "bank_id": "90512802",
+      "text": "Bundan daha iyi bir silah almaya gücün yeterdi herhalde."
+    },
+    {
+      "id": "65297e59",
+      "bank_id": "90512802",
+      "text": "Fena silah değil. Onunla büyük bir şeyler öldürecek misin bari?"
+    },
+    {
+      "id": "674bae98",
+      "bank_id": "90512802",
+      "text": "Silahlardan pek anlamam ama bu pek iyi görünmüyor. Yani senin için."
+    },
+    {
+      "id": "674bae99",
+      "bank_id": "90512802",
+      "text": "Böyle derme çatma bir silahla pek uzağa gidemezsin."
+    },
+    {
+      "id": "674bae9a",
+      "bank_id": "90512802",
+      "text": "Daha iyi bir silah almaya paran yetmiyor mu?"
+    },
+    {
+      "id": "674bae9e",
+      "bank_id": "90512802",
+      "text": "Bundan daha iyi bir silah bulamadın mı?"
+    },
+    {
+      "id": "674bae9f",
+      "bank_id": "90512802",
+      "text": "Buna silah mı diyorsun sen? Çalı çırpı kullansan da olurmuş."
+    },
+    {
+      "id": "6e6c7e30",
+      "bank_id": "90512802",
+      "text": "Vurma bana! Lütfen!"
+    },
+    {
+      "id": "6e6c7e31",
+      "bank_id": "90512802",
+      "text": "Hayır! Vurma bana!"
+    },
+    {
+      "id": "6e6c7e32",
+      "bank_id": "90512802",
+      "text": "Hayır! Lütfen! Canımı yakma!"
+    },
+    {
+      "id": "6e6c7e34",
+      "bank_id": "90512802",
+      "text": "Yalvarırım vurma bana!"
+    },
+    {
+      "id": "6e6c7e35",
+      "bank_id": "90512802",
+      "text": "Yalvarırım! Vurma bana!"
+    },
+    {
+      "id": "6e6c7e36",
+      "bank_id": "90512802",
+      "text": "Bana vurmayacaksın değil mi?!"
+    },
+    {
+      "id": "6e6c7e37",
+      "bank_id": "90512802",
+      "text": "Vurma bana!"
+    },
+    {
+      "id": "741d6eea",
+      "bank_id": "90512802",
+      "text": "Birini vurmak istiyorsan kendini vur!"
+    },
+    {
+      "id": "741d6eeb",
+      "bank_id": "90512802",
+      "text": "O şeyi bana doğrultma! Ateş alabilir!"
+    },
+    {
+      "id": "741d6eec",
+      "bank_id": "90512802",
+      "text": "Lütfen onu bana doğrultma, patlayabilir."
+    },
+    {
+      "id": "741d6eed",
+      "bank_id": "90512802",
+      "text": "O şeyi bana doğrultma! Ateş alabilir!"
+    },
+    {
+      "id": "741d6eee",
+      "bank_id": "90512802",
+      "text": "Onu başkasına doğrult!"
+    },
+    {
+      "id": "762f7530",
+      "bank_id": "90512802",
+      "text": "Hayır! Ateş etme!"
+    },
+    {
+      "id": "762f7531",
+      "bank_id": "90512802",
+      "text": "Hayır! Ateş etme! Ateş etme!"
+    },
+    {
+      "id": "762f7532",
+      "bank_id": "90512802",
+      "text": "Hayır! Ateş etme! Ateş etme!"
+    },
+    {
+      "id": "762f7534",
+      "bank_id": "90512802",
+      "text": "Vurma beni! Yalvarırım!"
+    },
+    {
+      "id": "762f7535",
+      "bank_id": "90512802",
+      "text": "Bana ateş etme! Yalvarırım!"
+    },
+    {
+      "id": "762f7536",
+      "bank_id": "90512802",
+      "text": "Hayır! Ateş etme! Ateş etme!"
+    },
+    {
+      "id": "762f7537",
+      "bank_id": "90512802",
+      "text": "Lütfen! Ateş etme!"
+    },
+    {
+      "id": "776c8c18",
+      "bank_id": "90512802",
+      "text": "Aman tanrım! Onunla bana vurmayı mı planlıyorsun?!"
+    },
+    {
+      "id": "776c8c19",
+      "bank_id": "90512802",
+      "text": "Aagh! O şeyle beni öldürebilirsin!"
+    },
+    {
+      "id": "776c8c1a",
+      "bank_id": "90512802",
+      "text": "Hey! Dikkat et! Canımı yakabilirsin!"
+    },
+    {
+      "id": "776c8c1b",
+      "bank_id": "90512802",
+      "text": "O şeyi bana doğru sallayıp durma!"
+    },
+    {
+      "id": "776c8c1c",
+      "bank_id": "90512802",
+      "text": "Aagh! O şeyle beni öldürebilirsin!"
+    },
+    {
+      "id": "776c8c1d",
+      "bank_id": "90512802",
+      "text": "Bana vuracak mısın yoksa?!"
+    },
+    {
+      "id": "776c8c1f",
+      "bank_id": "90512802",
+      "text": "Onu bana doğrultma! İmdat!"
+    },
+    {
+      "id": "7d1d7d38",
+      "bank_id": "90512802",
+      "text": "Lütfen, ateş etme!"
+    },
+    {
+      "id": "7d1d7d39",
+      "bank_id": "90512802",
+      "text": "Lütfen beni vurma!"
+    },
+    {
+      "id": "7d1d7d3b",
+      "bank_id": "90512802",
+      "text": "Lütfen, ateş etme!"
+    },
+    {
+      "id": "7d1d7d3e",
+      "bank_id": "90512802",
+      "text": "Ateş etme! Aaaaah!"
+    },
+    {
+      "id": "7d1d7d3f",
+      "bank_id": "90512802",
+      "text": "Lütfen, ateş etme! Ateş etme!"
+    },
+    {
+      "id": "7f2f8318",
+      "bank_id": "90512802",
+      "text": "Lütfen onu başka bir yere doğrult."
+    },
+    {
+      "id": "7f2f8319",
+      "bank_id": "90512802",
+      "text": "Beni vurmayacaksın değil mi?!"
+    },
+    {
+      "id": "7f2f831a",
+      "bank_id": "90512802",
+      "text": "Vurma beni!"
+    },
+    {
+      "id": "7f2f831b",
+      "bank_id": "90512802",
+      "text": "Şunu başka bir yere doğrultsan nasıl olur?"
+    },
+    {
+      "id": "7f2f831c",
+      "bank_id": "90512802",
+      "text": "Onu başka yere doğrult!"
+    },
+    {
+      "id": "7f2f831d",
+      "bank_id": "90512802",
+      "text": "Bana ateş etme!"
+    },
+    {
+      "id": "7f2f831f",
+      "bank_id": "90512802",
+      "text": "Ateş etme! Lütfen!"
+    },
+    {
+      "id": "83f7a548",
+      "bank_id": "90512802",
+      "text": "Ne kadar berbat bir çocuksun sen."
+    },
+    {
+      "id": "88f7ad69",
+      "bank_id": "90512802",
+      "text": "Burnunun üstüne bir yumruk patlatmalı senin."
+    },
+    {
+      "id": "8e1f5f20",
+      "bank_id": "90512802",
+      "text": "O silahla vatandaşların canını tehlikeye atıyorsun."
+    },
+    {
+      "id": "8e1f5f23",
+      "bank_id": "90512802",
+      "text": "Silahlarla yapılan maskaralıklara asla müsamaha göstermem. Lütfen kaldır onu."
+    },
+    {
+      "id": "8e217c78",
+      "bank_id": "90512802",
+      "text": "Onunla ne yapıyorsun öyle? Birini öldürtmeye mi çalışıyorsun?"
+    },
+    {
+      "id": "8e217c7a",
+      "bank_id": "90512802",
+      "text": "O silah hiç tekin değil."
+    },
+    {
+      "id": "8e217c7b",
+      "bank_id": "90512802",
+      "text": "Hey, o silahla dikkatli ol. Birinin canı yanabilir!"
+    },
+    {
+      "id": "8e217c7c",
+      "bank_id": "90512802",
+      "text": "Hey, o şey birinin kafasını uçurabilir!"
+    },
+    {
+      "id": "8e217c7d",
+      "bank_id": "90512802",
+      "text": "Resmen geliyorum diyen bir kaza bu."
+    },
+    {
+      "id": "920be90e",
+      "bank_id": "90512802",
+      "text": "Senden hoşlanmıyorum!"
+    },
+    {
+      "id": "93218419",
+      "bank_id": "90512802",
+      "text": "Lütfen silahını kaldır, beni çok tedirgin ediyorsun."
+    },
+    {
+      "id": "9321841a",
+      "bank_id": "90512802",
+      "text": "Onunla kimseye saldırmayacaksın değil mi?"
+    },
+    {
+      "id": "9321841b",
+      "bank_id": "90512802",
+      "text": "O şey birini öldürebilir, biliyorsun değil mi."
+    },
+    {
+      "id": "9321841c",
+      "bank_id": "90512802",
+      "text": "Silahını kaldır. Birini öldürmeyi planlamıyorsan tabii."
+    },
+    {
+      "id": "9321841d",
+      "bank_id": "90512802",
+      "text": "Hey, birinin kellesi kopmadan önce kaldır şu silahı!"
+    },
+    {
+      "id": "96b86878",
+      "bank_id": "90512802",
+      "text": "Silahını kaldırmanı öneririm. Hemen."
+    },
+    {
+      "id": "96b8687b",
+      "bank_id": "90512802",
+      "text": "O silah hiç tekin değil!"
+    },
+    {
+      "id": "9908c140",
+      "bank_id": "90512802",
+      "text": "Bak buraya, o silahı kullanmayı planlamıyorsan iyi edersin."
+    },
+    {
+      "id": "9908c143",
+      "bank_id": "90512802",
+      "text": "Önüne bak vatandaş. O silah birini incitebilir."
+    },
+    {
+      "id": "9b0bf75b",
+      "bank_id": "90512802",
+      "text": "Çöpün tekisin!"
+    },
+    {
+      "id": "9c71614c",
+      "bank_id": "90512802",
+      "text": "Lütfen silahını kaldır. Oyuncak gibi muamele edilemeyecek kadar tehlikeli bir şey o."
+    },
+    {
+      "id": "9c71614f",
+      "bank_id": "90512802",
+      "text": "O silah ciddi yaralanmalara yol açabilir."
+    },
+    {
+      "id": "a41226c1",
+      "bank_id": "90512802",
+      "text": "Şey, özgün bir silah, hakkını vermek lazım."
+    },
+    {
+      "id": "a41226c2",
+      "bank_id": "90512802",
+      "text": "Haha! Hayatımda gördüğüm en aptalca silah bu!"
+    },
+    {
+      "id": "a41226c3",
+      "bank_id": "90512802",
+      "text": "O saçma sapan silahla şiddetin mantıksız doğasına dair bir mesaj mı vermeye çalışıyorsun?"
+    },
+    {
+      "id": "a41226c4",
+      "bank_id": "90512802",
+      "text": "Haha! Nereden buldun o salakça silahı?"
+    },
+    {
+      "id": "a41226c5",
+      "bank_id": "90512802",
+      "text": "Hehe! Buna silah mı diyorsun sen?! Gülünç resmen!"
+    },
+    {
+      "id": "a8b58188",
+      "bank_id": "90512802",
+      "text": "Senin gibi serserilere ayıracak vaktim yok benim."
+    },
+    {
+      "id": "a8b5818b",
+      "bank_id": "90512802",
+      "text": "Bir gün boylayacaksın parmaklıkların ardını, adım gibi eminim."
+    },
+    {
+      "id": "acf1d5e4",
+      "bank_id": "90512802",
+      "text": "Böyle devam edersen sonun çok kötü olacak."
+    },
+    {
+      "id": "acf1d5e5",
+      "bank_id": "90512802",
+      "text": "Senin gibi çocuklar midemi bulandırıyor."
+    },
+    {
+      "id": "acf1d5e7",
+      "bank_id": "90512802",
+      "text": "Senin gibi veletlere tahammülüm yok."
+    },
+    {
+      "id": "af123870",
+      "bank_id": "90512802",
+      "text": "Ne biçim bir silah bu böyle?! Haha!"
+    },
+    {
+      "id": "af123872",
+      "bank_id": "90512802",
+      "text": "Ömrümde gördüğüm en gülünç silah bu."
+    },
+    {
+      "id": "af123873",
+      "bank_id": "90512802",
+      "text": "Hihi! Buna silah mı diyorsun?! Çok komik."
+    },
+    {
+      "id": "af123874",
+      "bank_id": "90512802",
+      "text": "Haha, ne, haha, bu ne be?!"
+    },
+    {
+      "id": "af123875",
+      "bank_id": "90512802",
+      "text": "Haha! Silah değil ki bu! Lanet olası bir oyuncak!"
+    },
+    {
+      "id": "b3f1e0e8",
+      "bank_id": "90512802",
+      "text": "Yolumdan çekil seni sokak sıçanı."
+    },
+    {
+      "id": "b3f1e0e9",
+      "bank_id": "90512802",
+      "text": "Seni küçük velet."
+    },
+    {
+      "id": "b3f1e0ea",
+      "bank_id": "90512802",
+      "text": "Seni mendebur çocuk."
+    },
+    {
+      "id": "b750a9f8",
+      "bank_id": "90512802",
+      "text": "Pöh! Ölmek istemiyorsan daha iyi bir silaha ihtiyacın olacak!"
+    },
+    {
+      "id": "b8225728",
+      "bank_id": "90512802",
+      "text": "Başkasına ateş et! Bana değil!"
+    },
+    {
+      "id": "bb345ee1",
+      "bank_id": "90512802",
+      "text": "Ateş etmeyeceksin değil mi?"
+    },
+    {
+      "id": "bc50b199",
+      "bank_id": "90512802",
+      "text": "Ha! Ne diyorsun sen buna?!! Ne berbat bir silah!"
+    },
+    {
+      "id": "bd225ec9",
+      "bank_id": "90512802",
+      "text": "Oh, vurma beni!"
+    },
+    {
+      "id": "c6347010",
+      "bank_id": "90512802",
+      "text": "Vurma beni!"
+    },
+    {
+      "id": "d2d3a061",
+      "bank_id": "90512802",
+      "text": "Lütfen o silahı ait olduğu yere geri koy."
+    },
+    {
+      "id": "d2d3a062",
+      "bank_id": "90512802",
+      "text": "Burası silah sallanacak yer değil. Birini incitebilirsin vatandaş."
+    },
+    {
+      "id": "df0c7392",
+      "bank_id": "90512802",
+      "text": "Haha! Onu kullanamazsın ki! Herkes sana güler!"
+    },
+    {
+      "id": "e0c944c1",
+      "bank_id": "90512802",
+      "text": "Geri bas orada oğlum! Senin gibilere hiç güvenmem."
+    },
+    {
+      "id": "e0c944ca",
+      "bank_id": "90512802",
+      "text": "Geri bas orada kızım! Senin gibilere hiç güvenmem."
+    },
+    {
+      "id": "e2cd87fe",
+      "bank_id": "90512802",
+      "text": "Birinin canını yakacaksın."
+    },
+    {
+      "id": "e5358728",
+      "bank_id": "90512802",
+      "text": "Onu başka bir yere doğrultsan iyi edersin. Bir kaza çok ciddi sonuçlar doğurur."
+    },
+    {
+      "id": "e535872b",
+      "bank_id": "90512802",
+      "text": "Bir kanun adamına ateş etmek intihardır. İndir şunu."
+    },
+    {
+      "id": "e80c81ff",
+      "bank_id": "90512802",
+      "text": "Hihi. Şimdiye kadarki en şapşal silah bu!"
+    },
+    {
+      "id": "ebcd95cb",
+      "bank_id": "90512802",
+      "text": "Hey, bu tehlikeli bir şey biliyorsun değil mi."
+    },
+    {
+      "id": "ed194a31",
+      "bank_id": "90512802",
+      "text": "Lütfen vurma bana!"
+    },
+    {
+      "id": "ed194a32",
+      "bank_id": "90512802",
+      "text": "Hey, o şeyi bana doğru sallama! Ben bir şey yapmadım!"
+    },
+    {
+      "id": "ed194a33",
+      "bank_id": "90512802",
+      "text": "Neden onu bana doğrultuyorsun?"
+    },
+    {
+      "id": "ed194a34",
+      "bank_id": "90512802",
+      "text": "Ne diye o şeyi bana doğru sallıyorsun?"
+    },
+    {
+      "id": "ed194a35",
+      "bank_id": "90512802",
+      "text": "Bana vurmayı aklından bile geçirmesen iyi edersin."
+    },
+    {
+      "id": "ef92da0d",
+      "bank_id": "90512802",
+      "text": "Vay canına! Harika bir silah! Dokunabilir miyim, kullanabilir miyim, lütfen lütfen?"
+    },
+    {
+      "id": "f33d4e54",
+      "bank_id": "90512802",
+      "text": "Suçlu olma yolunda ilerliyorsun anlaşılan."
+    },
+    {
+      "id": "f33d4e55",
+      "bank_id": "90512802",
+      "text": "Pislik küçük bir çocuksun sen."
+    },
+    {
+      "id": "f33d4e57",
+      "bank_id": "90512802",
+      "text": "Küçük bir haydutsun sen sadece."
+    },
+    {
+      "id": "f8195b60",
+      "bank_id": "90512802",
+      "text": "Vurma bana! Vurma bana!"
+    },
+    {
+      "id": "f8195b62",
+      "bank_id": "90512802",
+      "text": "Lütfen! Vurma bana!"
+    },
+    {
+      "id": "f8195b63",
+      "bank_id": "90512802",
+      "text": "Ne? Bana vurmayacaksın değil mi??"
+    },
+    {
+      "id": "f8195b64",
+      "bank_id": "90512802",
+      "text": "O şeyi başkasının suratına salla, olur mu?"
+    },
+    {
+      "id": "f8195b65",
+      "bank_id": "90512802",
+      "text": "Bana vurmayacaksın değil mi?"
+    },
+    {
+      "id": "fa3d5958",
+      "bank_id": "90512802",
+      "text": "Ne kadar berbat bir çocuksun sen."
+    },
+    {
+      "id": "fa3d5959",
+      "bank_id": "90512802",
+      "text": "Seni pislik şey!"
+    },
+    {
+      "id": "fa3d595a",
+      "bank_id": "90512802",
+      "text": "Korkunç bir veletsin sen."
+    },
+    {
+      "id": "fa92ebbc",
+      "bank_id": "90512802",
+      "text": "Ooo, bu kadar iyi bir silahı nasıl buldun?"
+    },
+    {
+      "id": "fdd9c485",
+      "bank_id": "90512802",
+      "text": "O şeyle birini yaralayacak olursan hesabını bana verirsin."
+    },
+    {
+      "id": "fdd9c486",
+      "bank_id": "90512802",
+      "text": "Burası silah kullanma yeri değil. Seni uyarıyorum."
+    }
+  ]
+}

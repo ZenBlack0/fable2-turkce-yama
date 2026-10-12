@@ -1,0 +1,646 @@
+{
+  "bank_id": "30b23602",
+  "total_strings": 128,
+  "strings": [
+    {
+      "id": "016bae8a",
+      "bank_id": "30b23602",
+      "text": "Demek Arfur o yakalama emirlerini yırttı ha? Bugün bir sürü mutlu suçlu olacak desenize..."
+    },
+    {
+      "id": "03057860",
+      "bank_id": "30b23602",
+      "text": "Oakfield'e gitmek istiyorsan atlaman gerekecek."
+    },
+    {
+      "id": "03057862",
+      "bank_id": "30b23602",
+      "text": "Rookridge Köprüsü'nü gördün mü? Yıkılmış gitmiş!"
+    },
+    {
+      "id": "03057863",
+      "bank_id": "30b23602",
+      "text": "Oakfield'e gitmeye çalışıyorsan bol şans dilerim."
+    },
+    {
+      "id": "081b7636",
+      "bank_id": "30b23602",
+      "text": "O haydutları nasıl öldürdüğünü gördün mü? Işığa şükürler olsun güvendeyiz!"
+    },
+    {
+      "id": "081b763d",
+      "bank_id": "30b23602",
+      "text": "O haydutları nasıl öldürdüğünü gördün mü? Işığa şükürler olsun güvendeyiz!"
+    },
+    {
+      "id": "083c7630",
+      "bank_id": "30b23602",
+      "text": "Şu ayyaş Pete yine şişesini kaybetmiş. Hiç şaşırmadım doğrusu."
+    },
+    {
+      "id": "0e8d0854",
+      "bank_id": "30b23602",
+      "text": "Zavallı Monty'ye yaptıklarını duydum. Cık cık. O pislikten nasıl kurtulacak şimdi?"
+    },
+    {
+      "id": "11817f07",
+      "bank_id": "30b23602",
+      "text": "Etrafta o zorbalar varken küçük yeğenlerim tek başlarına dışarı çıkmaya korkuyor."
+    },
+    {
+      "id": "12c10484",
+      "bank_id": "30b23602",
+      "text": "Derek'in o emirleri geri alması ne büyük şans. Alamasaydı neler olurdu düşünmek bile istemiyorum."
+    },
+    {
+      "id": "13806d11",
+      "bank_id": "30b23602",
+      "text": "Endişelenmeye başlamıştım ben de. Epeydir Bowerstone'dan gelen kimseyi görmemiştik."
+    },
+    {
+      "id": "13806d12",
+      "bank_id": "30b23602",
+      "text": "Bowerstone'dan bir haber var mı? Ticaret yolunu yeniden açmamız lazım!"
+    },
+    {
+      "id": "13806d13",
+      "bank_id": "30b23602",
+      "text": "Demek Rookridge üzerinden geldin? Kaybolan çocuktan bir haber var mı peki? Herkes o çocuk için çok endişeleniyor."
+    },
+    {
+      "id": "13806d14",
+      "bank_id": "30b23602",
+      "text": "Bowerstone'dan bir daha kimsenin buraya gelemeyeceğini düşünmeye başlamıştım."
+    },
+    {
+      "id": "13806d15",
+      "bank_id": "30b23602",
+      "text": "Bu, Bowerstone ile ticarete yeniden başlayabileceğimiz anlamına mı geliyor?"
+    },
+    {
+      "id": "16818727",
+      "bank_id": "30b23602",
+      "text": "Biri şu küçük zorbalar hakkında bir şeyler yapmalı. Ya evlere taş atıyorlar ya da zavallı hayvanlara eziyet ediyorlar."
+    },
+    {
+      "id": "1e807e40",
+      "bank_id": "30b23602",
+      "text": "Nihayet! Bowerstone'dan biri buralara kadar gelebildi sonunda!"
+    },
+    {
+      "id": "1e807e42",
+      "bank_id": "30b23602",
+      "text": "Bowerstone'dan mı geldin? Birinin gelebilmesine çok sevindim!"
+    },
+    {
+      "id": "1e807e43",
+      "bank_id": "30b23602",
+      "text": "Rookridge'den nasıl geçebildin? Köprü hâlâ yıkık değil mi?"
+    },
+    {
+      "id": "1e807e44",
+      "bank_id": "30b23602",
+      "text": "Aylardır Bowerstone'dan buraya seyahat eden ilk kişisin."
+    },
+    {
+      "id": "1e807e45",
+      "bank_id": "30b23602",
+      "text": "O haydut tuzaklarını nasıl atlatabildin peki?"
+    },
+    {
+      "id": "367f3a24",
+      "bank_id": "30b23602",
+      "text": "Thag'ın kaçırdığı insanları canlı görebileceğimi hiç sanmıyordum."
+    },
+    {
+      "id": "367f3a25",
+      "bank_id": "30b23602",
+      "text": "Harika bir şey değil mi? Dostlarımız geri döndü!"
+    },
+    {
+      "id": "367f3a27",
+      "bank_id": "30b23602",
+      "text": "Thag dostlarımızı öldürmediği için öyle mutluyum ki."
+    },
+    {
+      "id": "3b9751ae",
+      "bank_id": "30b23602",
+      "text": "O baş belası haydutlar bir daha buraya gelmeden önce iki kez düşünecek!"
+    },
+    {
+      "id": "3b9751af",
+      "bank_id": "30b23602",
+      "text": "Çok endişelenmiştim ama kurtulduk işte!"
+    },
+    {
+      "id": "3d7f4528",
+      "bank_id": "30b23602",
+      "text": "Duydun mu? Thag'ın kaçırdığı insanlar kurtarılmış!"
+    },
+    {
+      "id": "3d7f4529",
+      "bank_id": "30b23602",
+      "text": "Dostlarımız güvende!"
+    },
+    {
+      "id": "3d7f452a",
+      "bank_id": "30b23602",
+      "text": "Bizimkilerin iyi olduğuna öyle sevindim ki."
+    },
+    {
+      "id": "410261f8",
+      "bank_id": "30b23602",
+      "text": "Oakfield keşişlerini epeydir görmedim. Onlar bile bu yola çıkmaya cesaret edemiyor."
+    },
+    {
+      "id": "410261fa",
+      "bank_id": "30b23602",
+      "text": "Birinin Rookridge Köprüsü'nü tamir etmesi gerek. Oakfield çiftçilerinden erzak almamız lazım."
+    },
+    {
+      "id": "410261fb",
+      "bank_id": "30b23602",
+      "text": "Rookridge yakınlarında bir çocuk kayboldu, tek dileğim hobbe'lerin eline düşmemiş olması."
+    },
+    {
+      "id": "410261fc",
+      "bank_id": "30b23602",
+      "text": "Kuzenlerimden biri Oakfield yolunu kesen haydutlara katıldı."
+    },
+    {
+      "id": "410261fd",
+      "bank_id": "30b23602",
+      "text": "Kimse Oakfield Yolu'nda seyahat etmek istemiyor. Her yer haydut kaynıyor."
+    },
+    {
+      "id": "410261fe",
+      "bank_id": "30b23602",
+      "text": "Hizmetçimin ailesi Oakfield'li ama haftalardır onlardan haber alamıyor."
+    },
+    {
+      "id": "410261ff",
+      "bank_id": "30b23602",
+      "text": "Balımı normalde Oakfield'den getirtirim. Ama o haydutlar yollarda cirit atarken değil tabii."
+    },
+    {
+      "id": "46026999",
+      "bank_id": "30b23602",
+      "text": "Köprü tamir edilene kadar Oakfield ile ticaret yapılamaz."
+    },
+    {
+      "id": "4602699a",
+      "bank_id": "30b23602",
+      "text": "Rookridge'in haydut kaynadığını söylüyorlar. Bir de hobbe'ler tabii!"
+    },
+    {
+      "id": "4602699b",
+      "bank_id": "30b23602",
+      "text": "Rookridge Köprüsü yıkıkken kimse Oakfield'e ulaşamaz."
+    },
+    {
+      "id": "4602699c",
+      "bank_id": "30b23602",
+      "text": "Oakfield'i ziyaret etmeyi planlıyordum; buraların en iyi bira şerbetçiotu ordadır ama yalan oldu artık."
+    },
+    {
+      "id": "4602699d",
+      "bank_id": "30b23602",
+      "text": "Haydutlar ve yıkık köprüler... Aylardır kimsenin Oakfield'e gidememiş olmasına şaşmamalı değil mi?"
+    },
+    {
+      "id": "4602699e",
+      "bank_id": "30b23602",
+      "text": "Sahi mi bu? Bakımsız bir köprü yüzünden Oakfield'den gelen ithal ipek tütünüm buraya ulaşamıyor mu yani?"
+    },
+    {
+      "id": "4602699f",
+      "bank_id": "30b23602",
+      "text": "Oakfield'de piknik yapmayı planlıyordum ama artık pek gerçekleşecek gibi durmuyor."
+    },
+    {
+      "id": "469762dc",
+      "bank_id": "30b23602",
+      "text": "Tek umudum Thag'ın başkasını göndermemesi."
+    },
+    {
+      "id": "469762de",
+      "bank_id": "30b23602",
+      "text": "Çingene kampı sayende kurtuldu."
+    },
+    {
+      "id": "469762df",
+      "bank_id": "30b23602",
+      "text": "Thag yeni haydut avcısı dostumuzdan korksa iyi eder!"
+    },
+    {
+      "id": "4ea30be3",
+      "bank_id": "30b23602",
+      "text": "Yakalama emirlerini duydun mu? Derek hepsini kaybetmiş. O suçlular kaçıp kurtulabilir! Muhafızlık sınavını nasıl geçti ki bu herif?"
+    },
+    {
+      "id": "5113c35c",
+      "bank_id": "30b23602",
+      "text": "Sonunda Monty ile Belinda bir araya geldi!"
+    },
+    {
+      "id": "59a31d13",
+      "bank_id": "30b23602",
+      "text": "Sahi, Derek kadar ahmak birini gördün mü hiç? Taşıdığı bütün emirleri kaybetmiş."
+    },
+    {
+      "id": "5abad85d",
+      "bank_id": "30b23602",
+      "text": "Çingene kampı bir kez daha özgürlüğüne kavuştu, tebrikler!"
+    },
+    {
+      "id": "5abad85e",
+      "bank_id": "30b23602",
+      "text": "Teşekkürler, çok teşekkürler! Haydutlar gitti sonunda!"
+    },
+    {
+      "id": "5abad85f",
+      "bank_id": "30b23602",
+      "text": "İşte haydut avcısı, yeni kahramanımız!"
+    },
+    {
+      "id": "5dd959e6",
+      "bank_id": "30b23602",
+      "text": "Güzel işti çocuk. Sen olmasaydın Derek bütün o haydutların serbest kalmasına göz yumacaktı."
+    },
+    {
+      "id": "65bae98c",
+      "bank_id": "30b23602",
+      "text": "O haydutları alt ettin! Çok teşekkür ederiz!"
+    },
+    {
+      "id": "65bae98e",
+      "bank_id": "30b23602",
+      "text": "O haydutun suratına sağlam bir tekme indirdin, çok iyiydi!"
+    },
+    {
+      "id": "65bae98f",
+      "bank_id": "30b23602",
+      "text": "Aferin! Birinin o haydutlara gününü gösterme vakti gelmişti zaten."
+    },
+    {
+      "id": "6d6f2db1",
+      "bank_id": "30b23602",
+      "text": "Biri bizi Thag belasından kurtarmalı!"
+    },
+    {
+      "id": "6d6f2db2",
+      "bank_id": "30b23602",
+      "text": "Thag bizimkileri kaçırdığı için bedelini ödeyecek!"
+    },
+    {
+      "id": "6d6f2db3",
+      "bank_id": "30b23602",
+      "text": "İnsanlarımızı Thag'ın elinden kurtarmalıyız. Yani benden daha cesur biri kurtarmalı tabii."
+    },
+    {
+      "id": "6f9023cd",
+      "bank_id": "30b23602",
+      "text": "O maceracının Rookridge üzerinden geldiğini söylüyorlar. Şu çocuğun kaybolduğu yer, değil mi?"
+    },
+    {
+      "id": "6f9023ce",
+      "bank_id": "30b23602",
+      "text": "Gördün mü bak? Sonunda biri Bowerstone tarafından geldi."
+    },
+    {
+      "id": "786f3ee0",
+      "bank_id": "30b23602",
+      "text": "Thag kaçırdığı insanlara ne yapacak acaba... Onları bir daha asla göremeyeceğiz!"
+    },
+    {
+      "id": "786f3ee2",
+      "bank_id": "30b23602",
+      "text": "Biri dostlarımızı kurtarmalı. Yoksa sonları geldi demektir."
+    },
+    {
+      "id": "786f3ee3",
+      "bank_id": "30b23602",
+      "text": "Thag kaçırdığı insanlara ne yapacak acaba? Onları bir daha asla göremeyeceğiz!"
+    },
+    {
+      "id": "78903218",
+      "bank_id": "30b23602",
+      "text": "Rookridge'deki şu kayıp çocuğu duydun mu?"
+    },
+    {
+      "id": "78903219",
+      "bank_id": "30b23602",
+      "text": "Şu Kahraman bütün o haydutları nasıl atlatabildi acaba?"
+    },
+    {
+      "id": "7890321b",
+      "bank_id": "30b23602",
+      "text": "Uzun zamandır Rookridge'den geçmeyi başaran ilk kişi o."
+    },
+    {
+      "id": "7890321e",
+      "bank_id": "30b23602",
+      "text": "Birinin Bowerstone'dan dövüşe dövüşe geldiğini duydum. Ne için geldi bilmiyorum gerçi."
+    },
+    {
+      "id": "7890321f",
+      "bank_id": "30b23602",
+      "text": "Gördün mü? Eninde sonunda Bowerstone'dan birinin geleceğini söylemiştim sana."
+    },
+    {
+      "id": "8a0717a1",
+      "bank_id": "30b23602",
+      "text": "O haydutlar tam bir baş belası. Biri Thag'ı durdurmalı artık!"
+    },
+    {
+      "id": "8a0717a2",
+      "bank_id": "30b23602",
+      "text": "Çok gençti zavallı. Kimse böyle ölmeyi hak etmez."
+    },
+    {
+      "id": "8a0717a3",
+      "bank_id": "30b23602",
+      "text": "Ya geri dönerlerse? Hepimizin sonu gelir!"
+    },
+    {
+      "id": "8c728e9c",
+      "bank_id": "30b23602",
+      "text": "Zavallı dostlarımızın köle olarak satıldığına inanamıyorum."
+    },
+    {
+      "id": "8c728e9d",
+      "bank_id": "30b23602",
+      "text": "Doğru mu sahiden? Dostlarımız köle olarak mı satılmış? Ne korkunç!"
+    },
+    {
+      "id": "8c728e9e",
+      "bank_id": "30b23602",
+      "text": "Dostlarımızın başına gelenlere inanamıyorum."
+    },
+    {
+      "id": "950728d0",
+      "bank_id": "30b23602",
+      "text": "Burada gerçekten güvende miyiz şimdi? Bowerstone asla yardım göndermez."
+    },
+    {
+      "id": "950728d2",
+      "bank_id": "30b23602",
+      "text": "Kesin Thag'ın işidir bu! Kötü, katil haydut pisliği."
+    },
+    {
+      "id": "950728d3",
+      "bank_id": "30b23602",
+      "text": "Sevgili dostumuz öldü. Hayat son zamanlarda bize karşı çok acımasız."
+    },
+    {
+      "id": "95729ce8",
+      "bank_id": "30b23602",
+      "text": "Anlamıyorum. Onları Thag öldürmediyse neredeler peki?"
+    },
+    {
+      "id": "95729ce9",
+      "bank_id": "30b23602",
+      "text": "Bu çok korkunç! Komşularımız köleliğe satılmış!"
+    },
+    {
+      "id": "95729ceb",
+      "bank_id": "30b23602",
+      "text": "Dostlarımızın başına gelenlere inanamıyorum..."
+    },
+    {
+      "id": "b2128442",
+      "bank_id": "30b23602",
+      "text": "Demek Monty hâlâ Belinda'nın peşinde koşuyor ha? O korkunç annesini nasıl atlatacak hiç bilmiyorum."
+    },
+    {
+      "id": "b35d0974",
+      "bank_id": "30b23602",
+      "text": "Doğum günün kutlu olsun, güzel geçiyor mu bari?"
+    },
+    {
+      "id": "b35d0976",
+      "bank_id": "30b23602",
+      "text": "Umarım güzel bir doğum günü geçiriyorsundur."
+    },
+    {
+      "id": "b35d0977",
+      "bank_id": "30b23602",
+      "text": "Eee, hiç hediye aldın mı bari?"
+    },
+    {
+      "id": "b85d1115",
+      "bank_id": "30b23602",
+      "text": "Doğum günün kutlu olsun."
+    },
+    {
+      "id": "b85d1116",
+      "bank_id": "30b23602",
+      "text": "Hey, doğum günün olduğunu duydum! Tebrik ederim."
+    },
+    {
+      "id": "b85d1117",
+      "bank_id": "30b23602",
+      "text": "Doğum günün mü bugün? Umarım harika bir gün geçirirsin."
+    },
+    {
+      "id": "b96958a8",
+      "bank_id": "30b23602",
+      "text": "Olamaz, Thag sıradaki kimi öldürecek acaba? Lütfen yardım edin bize!"
+    },
+    {
+      "id": "b96958aa",
+      "bank_id": "30b23602",
+      "text": "Thag bunun bedelini ödeyecek. Onu durdurmalısınız!"
+    },
+    {
+      "id": "b96958ab",
+      "bank_id": "30b23602",
+      "text": "Dostum öldü benim. Bize yardım etmek zorundasınız."
+    },
+    {
+      "id": "be696049",
+      "bank_id": "30b23602",
+      "text": "Ah ne trajedi, başımıza ne felaketler açtın baksana!"
+    },
+    {
+      "id": "be69604a",
+      "bank_id": "30b23602",
+      "text": "Bize yardım edebileceğini biliyorum. Haydutlardan intikamımızı almalıyız."
+    },
+    {
+      "id": "be69604b",
+      "bank_id": "30b23602",
+      "text": "Thag başta sen olmak üzere hepimizi birer birer öldürecek!"
+    },
+    {
+      "id": "cbea16e1",
+      "bank_id": "30b23602",
+      "text": "Kutsandık resmen. Bu genç çocuk Bower Gölü'nü haydutlardan temizledi!"
+    },
+    {
+      "id": "cbea16e2",
+      "bank_id": "30b23602",
+      "text": "Bu çok özel biri. Başka kim bizi Thag belasından kurtarabilirdi ki?"
+    },
+    {
+      "id": "cbea16e3",
+      "bank_id": "30b23602",
+      "text": "Haydutlar bizi bir daha rahatsız etmeden önce iki kez düşünecek!"
+    },
+    {
+      "id": "cbea16e4",
+      "bank_id": "30b23602",
+      "text": "Haydutlar o çocuktan sağlam bir ders aldı doğrusu."
+    },
+    {
+      "id": "cbea16e5",
+      "bank_id": "30b23602",
+      "text": "Şu Kahraman çok büyük yerlere gelecek. Thag'ın işini bitirmek öyle herkesin harcı değil."
+    },
+    {
+      "id": "cbea16e6",
+      "bank_id": "30b23602",
+      "text": "O haydut Thag'ın terör saltanatı şu Kahraman sayesinde son buldu."
+    },
+    {
+      "id": "cbea16e7",
+      "bank_id": "30b23602",
+      "text": "Thag bize pek bulaşmazdı gerçi ama artık ortalıkta olmadığını bilmek yine de güzel."
+    },
+    {
+      "id": "d225c5e7",
+      "bank_id": "30b23602",
+      "text": "Pete zararsız bir adamdır. Altınını kim niye alsın öyle?"
+    },
+    {
+      "id": "d484c1f0",
+      "bank_id": "30b23602",
+      "text": "Şu zorbalara haddini bildiren çocuk bu değil mi ya? Hey! Aferin sana!"
+    },
+    {
+      "id": "d6ea2810",
+      "bank_id": "30b23602",
+      "text": "İşte o! Thag'ı ve haydutlarını alt eden maceracı."
+    },
+    {
+      "id": "d6ea2813",
+      "bank_id": "30b23602",
+      "text": "Duydun mu? Thag'ın ona karşı zerre şansı yokmuş!"
+    },
+    {
+      "id": "d6ea2814",
+      "bank_id": "30b23602",
+      "text": "Pek gösterişli durmuyor ama Thag'ı yenebilen herkes saygıyı hak eder."
+    },
+    {
+      "id": "d6ea2815",
+      "bank_id": "30b23602",
+      "text": "Thag'ı biri öldürecek idiyse o kişi kesinlikle özel biri olmalıydı zaten."
+    },
+    {
+      "id": "d6ea2816",
+      "bank_id": "30b23602",
+      "text": "Cinayeti onaylamam pek ama kurban sadist bir hayduttu neticede. O yüzden sorun yok."
+    },
+    {
+      "id": "d6ea2817",
+      "bank_id": "30b23602",
+      "text": "Haydut Thag topraklarımızın belasıydı. Ve onun sürülüşü için teşekkür etmemiz gereken kişi tam da şu Kahraman."
+    },
+    {
+      "id": "f2d0aba0",
+      "bank_id": "30b23602",
+      "text": "Sen, sen başardın! Thag artık bize musallat olamayacak."
+    },
+    {
+      "id": "f2d0aba1",
+      "bank_id": "30b23602",
+      "text": "Haydutlar gitti! Aferin sana kahraman!"
+    },
+    {
+      "id": "f2d0aba3",
+      "bank_id": "30b23602",
+      "text": "Thag öldü! Çok yaşa... şey, sen çok yaşa!"
+    },
+    {
+      "id": "f2d0aba4",
+      "bank_id": "30b23602",
+      "text": "Şu korkunç Thag herifinin icabına baktığınızı duydum. Tebrik ederim."
+    },
+    {
+      "id": "f2d0aba5",
+      "bank_id": "30b23602",
+      "text": "Demek o kaba herif Thag artık yok ha. Evet, sende dürüst bir Kahraman kumaşı var."
+    },
+    {
+      "id": "f2d0aba6",
+      "bank_id": "30b23602",
+      "text": "Thag'a kafa tutmak sağlam yürek isterdi. Onu alt etmek için de biraz beceri gerekirdi tabii."
+    },
+    {
+      "id": "f2d0aba7",
+      "bank_id": "30b23602",
+      "text": "Şu Thag kendini fazla dev aynasında görüyordu zaten. Hak ettiğini buldu."
+    },
+    {
+      "id": "f6ebb5e1",
+      "bank_id": "30b23602",
+      "text": "Demek Pete şişesini buldu ha? Şey, sanırım bu iyi bir şey."
+    },
+    {
+      "id": "f8056731",
+      "bank_id": "30b23602",
+      "text": "Oakfield'e gitmeyi mi planlıyorsun? Hiç kolay olmayacak bilesin."
+    },
+    {
+      "id": "f8056732",
+      "bank_id": "30b23602",
+      "text": "Rookridge'deki şu çocuğun kaybolduğu mağaraya bir baksan iyi olur."
+    },
+    {
+      "id": "f8056733",
+      "bank_id": "30b23602",
+      "text": "Son zamanlarda Oakfield'e gitmeyi denedin mi hiç? İmkânsız."
+    },
+    {
+      "id": "f9d0b6a0",
+      "bank_id": "30b23602",
+      "text": "Artık Thag'ın işini bitirdiğine göre sıradan halk daha rahat nefes alacaktır eminim."
+    },
+    {
+      "id": "f9d0b6a1",
+      "bank_id": "30b23602",
+      "text": "Aman ne kadar da harika. O aşağılık Thag canavarını ortadan kaldırdınız."
+    },
+    {
+      "id": "f9d0b6a2",
+      "bank_id": "30b23602",
+      "text": "Thag bazıları için de bir Kahramandı biliyor musun. Çoğunlukla kötü tiplerdi gerçi ama olsun."
+    },
+    {
+      "id": "f9d0b6a3",
+      "bank_id": "30b23602",
+      "text": "Görünüşe göre Thag böbürlendiği kadar yaman değilmiş öyleyse."
+    },
+    {
+      "id": "f9d0b6a4",
+      "bank_id": "30b23602",
+      "text": "Birinin Thag'a haddini bildirme vakti gelmişti zaten. Aferin sana!"
+    },
+    {
+      "id": "f9d0b6a5",
+      "bank_id": "30b23602",
+      "text": "Thag'ı öldürdüğün için artık bir sürü insan çok daha rahat bir hayat sürecek."
+    },
+    {
+      "id": "f9d0b6a6",
+      "bank_id": "30b23602",
+      "text": "Benim kahramanımsın sen! Umarım Thag'a gününü göstermişsindir."
+    },
+    {
+      "id": "fa6ba384",
+      "bank_id": "30b23602",
+      "text": "O yakalama emirleri olmasaydı burası hırsızların eline geçebilirdi."
+    }
+  ]
+}

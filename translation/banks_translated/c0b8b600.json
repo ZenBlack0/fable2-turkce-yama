@@ -1,0 +1,831 @@
+{
+  "bank_id": "c0b8b600",
+  "total_strings": 165,
+  "strings": [
+    {
+      "id": "000bfc12",
+      "bank_id": "c0b8b600",
+      "text": "Albion'a geri dönerken kaderinizi keşfedin."
+    },
+    {
+      "id": "004d71c9",
+      "bank_id": "c0b8b600",
+      "text": "Phineas Amcamın dediği gibi: Hayat sana yıkık bir köprü verirse, sen de köprünata yap."
+    },
+    {
+      "id": "012d1b73",
+      "bank_id": "c0b8b600",
+      "text": "Tamamlanan Bira Serisi: %1"
+    },
+    {
+      "id": "014d73bc",
+      "bank_id": "c0b8b600",
+      "text": "Hadi Barnum, aslanım benim. Bir çaresini bulursun. Yapabildiğin bir şey varsa o da ayaküstü kafa patlatmaktır."
+    },
+    {
+      "id": "024d752f",
+      "bank_id": "c0b8b600",
+      "text": "Yani tam da tapuyu satın aldıktan hemen sonra ha. GÜÜÜM, yerle bir."
+    },
+    {
+      "id": "02c1ead8",
+      "bank_id": "c0b8b600",
+      "text": "Artık Seviye %1 barmensiniz"
+    },
+    {
+      "id": "034d7682",
+      "bank_id": "c0b8b600",
+      "text": "Vah vah, vah vah. Bu nasıl gelebilir başıma?"
+    },
+    {
+      "id": "037a4fb0",
+      "bank_id": "c0b8b600",
+      "text": "Bira doldurmayı gerçekten iyi biliyorsun."
+    },
+    {
+      "id": "0c8cfed5",
+      "bank_id": "c0b8b600",
+      "text": "Köpüğü pek oturmamış."
+    },
+    {
+      "id": "0d3e7237",
+      "bank_id": "c0b8b600",
+      "text": "Güzel. Bunu kendim içmek zorunda kalabilirim."
+    },
+    {
+      "id": "0f7479df",
+      "bank_id": "c0b8b600",
+      "text": "Vasat bir bardak bira."
+    },
+    {
+      "id": "109b84de",
+      "bank_id": "c0b8b600",
+      "text": "Rookridge'de içki servisi yapın."
+    },
+    {
+      "id": "12759a86",
+      "bank_id": "c0b8b600",
+      "text": "Silahı Ele Geçirin ve Lucien'i Alt Edin"
+    },
+    {
+      "id": "13af3cd0",
+      "bank_id": "c0b8b600",
+      "text": "Süre doldu."
+    },
+    {
+      "id": "155a2e0c",
+      "bank_id": "c0b8b600",
+      "text": "Yine de lütfen dikkatli ol. Bu haydutlar çok tehlikeli bir güruh."
+    },
+    {
+      "id": "165a2fff",
+      "bank_id": "c0b8b600",
+      "text": "Muhafızların şansı pek yaver gitmedi ama sen de katıldığına göre her şeyin şahane olacağını biliyorum. O altınlar çuvalla akacak pek yakında!"
+    },
+    {
+      "id": "17059f13",
+      "bank_id": "c0b8b600",
+      "text": "Peşime düşmeye bile zahmet etme. Bütün Albion'un en hızlı adamıyım ben!"
+    },
+    {
+      "id": "185a32c5",
+      "bank_id": "c0b8b600",
+      "text": "Muazzam! Sana güvenebileceğimi biliyordum kadim dostum!"
+    },
+    {
+      "id": "1981091e",
+      "bank_id": "c0b8b600",
+      "text": "Bu hiç iyi olmadı."
+    },
+    {
+      "id": "1df3fc5e",
+      "bank_id": "c0b8b600",
+      "text": "Beceri Kahramanı"
+    },
+    {
+      "id": "1e9b14ca",
+      "bank_id": "c0b8b600",
+      "text": "Hepsi ufak bir pürüz sadece, eminim. Çok geçmeden o köprüden geçiş ücreti alıyor olacağım. Ve bana yardım eden de payını kapacak tabii. Ah evet..."
+    },
+    {
+      "id": "208f3319",
+      "bank_id": "c0b8b600",
+      "text": "Bunun parasını senden kesmek zorunda kalacağım."
+    },
+    {
+      "id": "20d7c4ba",
+      "bank_id": "c0b8b600",
+      "text": "Talimatlar"
+    },
+    {
+      "id": "225a0b21",
+      "bank_id": "c0b8b600",
+      "text": "Servis etmek için <a_img> tuşuna basın. İşten ayrılmak için <b_img> tuşuna basın."
+    },
+    {
+      "id": "22955cc4",
+      "bank_id": "c0b8b600",
+      "text": "Sorun değil! Düşünmek için ne kadar vakte ihtiyacın varsa kullan. Sonunda ihtiyar Barnum'un hakkını vereceğini biliyorum."
+    },
+    {
+      "id": "23c2ced6",
+      "bank_id": "c0b8b600",
+      "text": "Hâlâ orada mısın? Vaktini boşa harcıyorsun seni uyuşuk sümüklüböcek."
+    },
+    {
+      "id": "23e060c3",
+      "bank_id": "c0b8b600",
+      "text": "Barmen"
+    },
+    {
+      "id": "2461a688",
+      "bank_id": "c0b8b600",
+      "text": "Şanslısın ki keyfim pek yerinde. Enayinin birine köprüyü satmayı başardım ya la. Hem de o mereti havaya uçurmadan hemen önce. <laughs>"
+    },
+    {
+      "id": "2561a87b",
+      "bank_id": "c0b8b600",
+      "text": "O yüzden işini hemencecik bitireceğimden emin olabilirsin. Nasıl fikir?"
+    },
+    {
+      "id": "25f5d3e5",
+      "bank_id": "c0b8b600",
+      "text": "Doldurmayı bırakın."
+    },
+    {
+      "id": "275c29e9",
+      "bank_id": "c0b8b600",
+      "text": "Barmen olarak çalışın."
+    },
+    {
+      "id": "27615b50",
+      "bank_id": "c0b8b600",
+      "text": "Kışşt, gitsene be?! Kışşt!"
+    },
+    {
+      "id": "2761ab41",
+      "bank_id": "c0b8b600",
+      "text": "Sizleri buraya göndermekten hiç bıkmazlar mı bunlar?"
+    },
+    {
+      "id": "28615cc3",
+      "bank_id": "c0b8b600",
+      "text": "Pirelerinin tatile ihtiyacı var-- neden onları nehrin dibine götürmüyorsun?"
+    },
+    {
+      "id": "29615eb6",
+      "bank_id": "c0b8b600",
+      "text": "Uçurumun hemen kenarında değerli kemiklerden oluşan bir zula olduğunu duydum. Dur, sana harita çizeyim."
+    },
+    {
+      "id": "2a616029",
+      "bank_id": "c0b8b600",
+      "text": "Aşağı inip seni pestil edene kadar bu şeyi sallayacağım!"
+    },
+    {
+      "id": "2b61619c",
+      "bank_id": "c0b8b600",
+      "text": "Kaybol buradan seni lanet köpek!"
+    },
+    {
+      "id": "2d6164e2",
+      "bank_id": "c0b8b600",
+      "text": "Tam o burnunun ortasına kurşunu çakacağım."
+    },
+    {
+      "id": "2e616655",
+      "bank_id": "c0b8b600",
+      "text": "Git bir dizi sosis kovala seni hırçın it!"
+    },
+    {
+      "id": "30024a30",
+      "bank_id": "c0b8b600",
+      "text": "Fena bir bardak değil."
+    },
+    {
+      "id": "33616e74",
+      "bank_id": "c0b8b600",
+      "text": "İşte bu kadar, kaçmayı deneyeceğim. Ahh, ne fayda..."
+    },
+    {
+      "id": "3448c205",
+      "bank_id": "c0b8b600",
+      "text": "Oh, dikkatli olun!"
+    },
+    {
+      "id": "34616fe7",
+      "bank_id": "c0b8b600",
+      "text": "Beni rahat bırak be seni koca fare!"
+    },
+    {
+      "id": "34e37f14",
+      "bank_id": "c0b8b600",
+      "text": "Leziz görünen bir bardak bira."
+    },
+    {
+      "id": "3712f483",
+      "bank_id": "c0b8b600",
+      "text": "Phineas Amcamın dediği gibi: Dürüst bir adamın ekmeğini ya da köprüsünü alan haydudun vay haline."
+    },
+    {
+      "id": "3812f676",
+      "bank_id": "c0b8b600",
+      "text": "O rutubetli ayaktakımı en son duyduğuma göre Rookridge'de terk edilmiş bir handa saklanıyormuş."
+    },
+    {
+      "id": "3912f7e9",
+      "bank_id": "c0b8b600",
+      "text": "Bütün bu maskaralığa son vereceğini biliyorum."
+    },
+    {
+      "id": "39c66cb7",
+      "bank_id": "c0b8b600",
+      "text": "Bir dahaki sefere daha iyi bir bira köpüğü tutturmaya çalış."
+    },
+    {
+      "id": "3a12f95c",
+      "bank_id": "c0b8b600",
+      "text": "Köprüm kurulup işlemeye başlayınca sana hakkını layıkıyla ödeyebileceğim."
+    },
+    {
+      "id": "413c56a0",
+      "bank_id": "c0b8b600",
+      "text": "Aah, Kahraman dönüyor! Muazzam bir başarı. Pek güzel yaptın, helal olsun!"
+    },
+    {
+      "id": "42086ff2",
+      "bank_id": "c0b8b600",
+      "text": "Buna bira mı diyorsun sen?"
+    },
+    {
+      "id": "42f821af",
+      "bank_id": "c0b8b600",
+      "text": "Harika gidiyorsunuz çocuklar! Ben hemen... hemen döneceğim!"
+    },
+    {
+      "id": "433c5986",
+      "bank_id": "c0b8b600",
+      "text": "Yine de en azından artık köprüyü yeniden inşa etmek zorunda olan ben değilim."
+    },
+    {
+      "id": "443c5b79",
+      "bank_id": "c0b8b600",
+      "text": "Tabii tapuların pek sahte olduğu ortaya çıktı, yani geçiş ücreti meselesi tam planlandığı gibi yürümeyecek."
+    },
+    {
+      "id": "463c5e5f",
+      "bank_id": "c0b8b600",
+      "text": "Tamam, parasız kalmış olabilirim ama yine toparlarım. Hep toparlarım."
+    },
+    {
+      "id": "483c61a5",
+      "bank_id": "c0b8b600",
+      "text": "Neyse, söz verdiğim gibi sadık eş anlamlılar sözlüğüm burada. Ne zaman leksikolojik bir muammada kalacağın hiç belli olmaz."
+    },
+    {
+      "id": "4a0ffe13",
+      "bank_id": "c0b8b600",
+      "text": "Harika doldurulmuş bir bardak bira."
+    },
+    {
+      "id": "4cd59b2f",
+      "bank_id": "c0b8b600",
+      "text": "Kalan süre:"
+    },
+    {
+      "id": "51ba5a39",
+      "bank_id": "c0b8b600",
+      "text": "Bir dahaki sefere köpüğe dikkat et."
+    },
+    {
+      "id": "561d406c",
+      "bank_id": "c0b8b600",
+      "text": "Barmen"
+    },
+    {
+      "id": "57086f4c",
+      "bank_id": "c0b8b600",
+      "text": "Bunu kimse içmez."
+    },
+    {
+      "id": "57388f60",
+      "bank_id": "c0b8b600",
+      "text": "Haydutlar, anlarsın ya. Bir avuç dişsiz soyguncu. Buraya gelirken görmüşsündür muhtemelen. Her yerde mantar gibi bitip duruyorlar."
+    },
+    {
+      "id": "583890d3",
+      "bank_id": "c0b8b600",
+      "text": "Onlara sağlam bir ders veremez misin acaba? Eski günlerin hatrına?"
+    },
+    {
+      "id": "59389246",
+      "bank_id": "c0b8b600",
+      "text": "Elimdeki son altın kuruşa kadar mal oldu ama ticaret harçları falan derken böyle bir şey parasını fazlasıyla çıkarır."
+    },
+    {
+      "id": "594cc122",
+      "bank_id": "c0b8b600",
+      "text": "Oh evet, aradığım şey buydu işte."
+    },
+    {
+      "id": "5a389439",
+      "bank_id": "c0b8b600",
+      "text": "Yalnız lanet meret paramparça oldu. Ve kimse onu yeniden inşa edecek kadar yaklaşamıyor bile."
+    },
+    {
+      "id": "5d3898f2",
+      "bank_id": "c0b8b600",
+      "text": "Ah, bunu yaparsan sevincimden dört köşe olurum. Hatta eski eş anlamlılar sözlüğümü bile alabilirsin. Nasılsa artık ezbere biliyorum."
+    },
+    {
+      "id": "5d7f22fd",
+      "bank_id": "c0b8b600",
+      "text": "Güç Kahramanını Saflarınıza Katın"
+    },
+    {
+      "id": "60ccd800",
+      "bank_id": "c0b8b600",
+      "text": "Öyle bira dolduramazsın!"
+    },
+    {
+      "id": "62165d4d",
+      "bank_id": "c0b8b600",
+      "text": "Bir Kahramanın Doğuşu"
+    },
+    {
+      "id": "63c68caf",
+      "bank_id": "c0b8b600",
+      "text": "Süre doldu!"
+    },
+    {
+      "id": "6e794021",
+      "bank_id": "c0b8b600",
+      "text": "Nefis bir bardak bira."
+    },
+    {
+      "id": "707d24af",
+      "bank_id": "c0b8b600",
+      "text": "Aferin sana. Bunun parasını ödeyeceksin bilesin."
+    },
+    {
+      "id": "72206d27",
+      "bank_id": "c0b8b600",
+      "text": "Doldurmayı bırakın."
+    },
+    {
+      "id": "7580f114",
+      "bank_id": "c0b8b600",
+      "text": "Şu köpüğe bir baksana. Kusursuz."
+    },
+    {
+      "id": "75860bb7",
+      "bank_id": "c0b8b600",
+      "text": "Yakalayın onu!"
+    },
+    {
+      "id": "75860bbc",
+      "bank_id": "c0b8b600",
+      "text": "Yakalayın onu!"
+    },
+    {
+      "id": "7a576589",
+      "bank_id": "c0b8b600",
+      "text": "Barmen <star-1.img>"
+    },
+    {
+      "id": "7a57658a",
+      "bank_id": "c0b8b600",
+      "text": "Barmen <star-2.img>"
+    },
+    {
+      "id": "7a57658b",
+      "bank_id": "c0b8b600",
+      "text": "Barmen <star-3.img>"
+    },
+    {
+      "id": "7a57658c",
+      "bank_id": "c0b8b600",
+      "text": "Barmen <star-4.img>"
+    },
+    {
+      "id": "7a57658d",
+      "bank_id": "c0b8b600",
+      "text": "Barmen <star-5.img>"
+    },
+    {
+      "id": "7a6941bf",
+      "bank_id": "c0b8b600",
+      "text": "Patrona haber versek iyi olur!"
+    },
+    {
+      "id": "7b694312",
+      "bank_id": "c0b8b600",
+      "text": "Biri geliyor."
+    },
+    {
+      "id": "7f98eae9",
+      "bank_id": "c0b8b600",
+      "text": "Tam kıvamında köpük."
+    },
+    {
+      "id": "85b120c0",
+      "bank_id": "c0b8b600",
+      "text": "Bundan daha iyi doldurabilirsin."
+    },
+    {
+      "id": "85cc88c7",
+      "bank_id": "c0b8b600",
+      "text": "Hayır, hayır, çok fazla köpük."
+    },
+    {
+      "id": "85d4bba2",
+      "bank_id": "c0b8b600",
+      "text": "Daha iyilerini de gördüm."
+    },
+    {
+      "id": "8860da60",
+      "bank_id": "c0b8b600",
+      "text": "Barmenlik İşi \nKazanılan Altın: %1 En Yüksek Seri: %2 Doldurulan Biralar: %3 \nToplam kazanılan altın: %4 \nTerfi için gereken: %5"
+    },
+    {
+      "id": "935cf431",
+      "bank_id": "c0b8b600",
+      "text": "Ortalığı fena batırdın."
+    },
+    {
+      "id": "94d6635c",
+      "bank_id": "c0b8b600",
+      "text": "Gerçek bir hanımefendisiniz, tanıdığım en zarifisiniz. Teşekkür ederim!"
+    },
+    {
+      "id": "961e4d06",
+      "bank_id": "c0b8b600",
+      "text": "Şunda kusursuz bir köpük var işte."
+    },
+    {
+      "id": "9781a3bb",
+      "bank_id": "c0b8b600",
+      "text": "O rezaleti kim içecek şimdi?"
+    },
+    {
+      "id": "9a081ed0",
+      "bank_id": "c0b8b600",
+      "text": "Bira doldurmak için <a_img> tuşuna dokunun. Ne kadar uzun doldurursanız köpüğü o kadar iyi olur. Ama taşırmamaya dikkat edin! Altın çarpanınızı artırmak için art arda 3 mükemmel bira doldurun."
+    },
+    {
+      "id": "9b013aa1",
+      "bank_id": "c0b8b600",
+      "text": "O köpük pek doğru görünmüyor."
+    },
+    {
+      "id": "9c8b417a",
+      "bank_id": "c0b8b600",
+      "text": "Bunun parasını ödemek zorunda kalacaksın."
+    },
+    {
+      "id": "9e5f70ae",
+      "bank_id": "c0b8b600",
+      "text": "Toplam kazanılan altın: %1\nTerfi için gereken: %2"
+    },
+    {
+      "id": "a208eb94",
+      "bank_id": "c0b8b600",
+      "text": "Pek iyi bir bardak sayılmaz."
+    },
+    {
+      "id": "a4d5dfb4",
+      "bank_id": "c0b8b600",
+      "text": "Bundan böyle uslu duracağım. Haydutluk işini bırakıyorum, yemin ederim. Sadece doğru yoldan gideceğim. Yaşamama izin verin, lütfen!"
+    },
+    {
+      "id": "a5d5e127",
+      "bank_id": "c0b8b600",
+      "text": "Bakın, dersimi aldım. Hayatım boyunca adaletten kaçabileceğimi sanıyordum ama yanılmışım."
+    },
+    {
+      "id": "a6d5e29a",
+      "bank_id": "c0b8b600",
+      "text": "Benden ne istiyorsun seni tüylü manyak? Ah bak işte, patronun da geldi şimdi. Bittim ben."
+    },
+    {
+      "id": "a7961a84",
+      "bank_id": "c0b8b600",
+      "text": "Dikkatli ol!"
+    },
+    {
+      "id": "a8e4fb7d",
+      "bank_id": "c0b8b600",
+      "text": "Süre doldu!"
+    },
+    {
+      "id": "a8ebfb2b",
+      "bank_id": "c0b8b600",
+      "text": "İrade Kahramanı"
+    },
+    {
+      "id": "a9246ff5",
+      "bank_id": "c0b8b600",
+      "text": "Barmenlik İşi"
+    },
+    {
+      "id": "b0e427c7",
+      "bank_id": "c0b8b600",
+      "text": "Tamamen yanlış yaptın."
+    },
+    {
+      "id": "b165dc03",
+      "bank_id": "c0b8b600",
+      "text": "Oakfield Barmeni"
+    },
+    {
+      "id": "b40ffbe0",
+      "bank_id": "c0b8b600",
+      "text": "Hem de doğru düzgün bir maceracı! Bahse girerim o kız kardeşin seninle gurur duyuyordur."
+    },
+    {
+      "id": "b4cce670",
+      "bank_id": "c0b8b600",
+      "text": "Kusursuz bir dolduruş."
+    },
+    {
+      "id": "b50ffd53",
+      "bank_id": "c0b8b600",
+      "text": "Şu haline bir bak, koca adam olmuşsun!"
+    },
+    {
+      "id": "b60ffec6",
+      "bank_id": "c0b8b600",
+      "text": "Ama geçmişten bahsederek vakit kaybetmeyelim!"
+    },
+    {
+      "id": "b71000b9",
+      "bank_id": "c0b8b600",
+      "text": "Oh, senin hatan değildi. Hem çok uzun zaman önceydi. O zamandan beri bir sürü heyecanlı işe girdim."
+    },
+    {
+      "id": "b810022c",
+      "bank_id": "c0b8b600",
+      "text": "Evet, güzel zamanlardı. Çoğu yani. Eh, bazıları."
+    },
+    {
+      "id": "b910039a",
+      "bank_id": "c0b8b600",
+      "text": "Pek tuttuğu söylenemez gerçi. Hâlâ canım sıkılır o meseleye."
+    },
+    {
+      "id": "b910039f",
+      "bank_id": "c0b8b600",
+      "text": "Benim! Barnum! Bowerstone'dan, hatırladın mı? Fotoğraf çekme işimde bana yardım etmiştin!"
+    },
+    {
+      "id": "b92f2485",
+      "bank_id": "c0b8b600",
+      "text": "Şunun köpüğüne bir baksana. Harika."
+    },
+    {
+      "id": "b935f5e6",
+      "bank_id": "c0b8b600",
+      "text": "Pek leziz görünen bir bira."
+    },
+    {
+      "id": "ba100572",
+      "bank_id": "c0b8b600",
+      "text": "Vay canına, beni domuz derisine sarıp sosis diye satsınlar! Bak kim gelmiş!"
+    },
+    {
+      "id": "bb53e29d",
+      "bank_id": "c0b8b600",
+      "text": "O köpük her yere taştı be."
+    },
+    {
+      "id": "bb81cd12",
+      "bank_id": "c0b8b600",
+      "text": "Daha güzel biralar gördüm."
+    },
+    {
+      "id": "bc75af16",
+      "bank_id": "c0b8b600",
+      "text": "Fena bir bardak değil."
+    },
+    {
+      "id": "bdebc5ec",
+      "bank_id": "c0b8b600",
+      "text": "Oakfield'de içki servisi yapın."
+    },
+    {
+      "id": "c21011ea",
+      "bank_id": "c0b8b600",
+      "text": "Daha geçen gün asrın anlaşmasını yaptım. O harikulade tuhaf herif bana Rookridge'deki köprüyü sattı!"
+    },
+    {
+      "id": "c250f8f6",
+      "bank_id": "c0b8b600",
+      "text": "Buna köpük mü diyorsun sen?"
+    },
+    {
+      "id": "c310135d",
+      "bank_id": "c0b8b600",
+      "text": "Bana gelince, şu anda işler biraz arapsaçına döndü. Halbuki her şey ne güzel gidiyordu."
+    },
+    {
+      "id": "c33df90b",
+      "bank_id": "c0b8b600",
+      "text": "Başarılı biralar:"
+    },
+    {
+      "id": "c43dfafe",
+      "bank_id": "c0b8b600",
+      "text": "Doldurulan biralar:"
+    },
+    {
+      "id": "c59840eb",
+      "bank_id": "c0b8b600",
+      "text": "Daha iyi bir bira görmemiştim."
+    },
+    {
+      "id": "c810d621",
+      "bank_id": "c0b8b600",
+      "text": "Berbat bir bira."
+    },
+    {
+      "id": "cd575224",
+      "bank_id": "c0b8b600",
+      "text": "Bundan daha iyisini yapabilirsin."
+    },
+    {
+      "id": "d1a397f9",
+      "bank_id": "c0b8b600",
+      "text": "Kısas"
+    },
+    {
+      "id": "d1d9453a",
+      "bank_id": "c0b8b600",
+      "text": "Biraya daha fazla saygı göstermelisin."
+    },
+    {
+      "id": "da941504",
+      "bank_id": "c0b8b600",
+      "text": "İrade Kahramanını Saflarınıza Katın"
+    },
+    {
+      "id": "e03eacf6",
+      "bank_id": "c0b8b600",
+      "text": "<laughs> Kusura bakma pislik, benim kaçmam gerek!"
+    },
+    {
+      "id": "e13eae69",
+      "bank_id": "c0b8b600",
+      "text": "O kendini beğenmiş suratına bütün gün ateş edebilirim."
+    },
+    {
+      "id": "e23eafdc",
+      "bank_id": "c0b8b600",
+      "text": "Beni kovalamaya çalışan son aptalın yüzü mosmor oldu ve yere yığıldı. Bense çoktan fersah fersah uzaktaydım."
+    },
+    {
+      "id": "e2da1748",
+      "bank_id": "c0b8b600",
+      "text": "Bu işi alabilmek için %1 barmen olmalısınız.\nDaha düşük dereceli barmenlik işleri yaparak terfi kazanın."
+    },
+    {
+      "id": "e33eb14f",
+      "bank_id": "c0b8b600",
+      "text": "Ben daha kundaktayken muhafızları peşime takıp atlatıyordum. Senin ne şansın olabilir ki?"
+    },
+    {
+      "id": "e43eb322",
+      "bank_id": "c0b8b600",
+      "text": "Beni yakalayabileceğini mi sanıyorsun? Neden bana Dash derler sanıyorsun aptal?"
+    },
+    {
+      "id": "e5bdf066",
+      "bank_id": "c0b8b600",
+      "text": "Kusursuz bir bira için daha iyi bir iş çıkarman gerek."
+    },
+    {
+      "id": "e74caa17",
+      "bank_id": "c0b8b600",
+      "text": "Çekil git başımdan seni çılgın kırma it!"
+    },
+    {
+      "id": "e84cab8a",
+      "bank_id": "c0b8b600",
+      "text": "Lütfen! Yakalanamam-- yakalanamam işte!"
+    },
+    {
+      "id": "e94cad7d",
+      "bank_id": "c0b8b600",
+      "text": "Uslu duracağım! Söz veriyorum! Şu sahibin buraya gelmeden önce bırak beni!"
+    },
+    {
+      "id": "e961280d",
+      "bank_id": "c0b8b600",
+      "text": "Haydut Lideri: Dash"
+    },
+    {
+      "id": "ea9d9242",
+      "bank_id": "c0b8b600",
+      "text": "Güzel bir bardak."
+    },
+    {
+      "id": "ebcff950",
+      "bank_id": "c0b8b600",
+      "text": "Tam bir felaket-i azamet."
+    },
+    {
+      "id": "eccffac3",
+      "bank_id": "c0b8b600",
+      "text": "Aman ne hengame. Ne hengame ama."
+    },
+    {
+      "id": "edcffcb6",
+      "bank_id": "c0b8b600",
+      "text": "Aman tanrım, aman tanrım, aman tanrım."
+    },
+    {
+      "id": "f05876a4",
+      "bank_id": "c0b8b600",
+      "text": "Köprüm yeniden inşa edilmezse mahvolurum. İlk kez başıma gelmiyor gerçi, söyleyeyim."
+    },
+    {
+      "id": "f09f4048",
+      "bank_id": "c0b8b600",
+      "text": "İyi bir bira değil bu."
+    },
+    {
+      "id": "f0f90378",
+      "bank_id": "c0b8b600",
+      "text": "Westcliff'te içki servisi yapın."
+    },
+    {
+      "id": "f151a7db",
+      "bank_id": "c0b8b600",
+      "text": "Gerçek bir beyefendisiniz, tanıdığım en zarifisiniz. Teşekkür ederim!"
+    },
+    {
+      "id": "f2203b6b",
+      "bank_id": "c0b8b600",
+      "text": "Fena değil ama köpüğe dikkat et."
+    },
+    {
+      "id": "f258798a",
+      "bank_id": "c0b8b600",
+      "text": "Herkesin kendine ait köprüsü olamaz bilirsin. Geleceğin zengin bir adamına yardım ediyor olacaksın. Gerçek bir altın milyonerine!"
+    },
+    {
+      "id": "f3587b7d",
+      "bank_id": "c0b8b600",
+      "text": "Kaşık düzeltme işim battıktan sonra her şeyi rayına oturttum sanmıştım. Ve şimdi de bu."
+    },
+    {
+      "id": "f3f67987",
+      "bank_id": "c0b8b600",
+      "text": "Beceri Kahramanını Saflarınıza Katın"
+    },
+    {
+      "id": "f7ad6a43",
+      "bank_id": "c0b8b600",
+      "text": "Bunun parasını ödemek zorunda kalacaksın."
+    },
+    {
+      "id": "f7dac552",
+      "bank_id": "c0b8b600",
+      "text": "Süre doldu."
+    },
+    {
+      "id": "f810f448",
+      "bank_id": "c0b8b600",
+      "text": "Güç Kahramanı"
+    },
+    {
+      "id": "f9a82361",
+      "bank_id": "c0b8b600",
+      "text": "Yani Rookridge'deki bütün haydutları temizleyecek misin?"
+    },
+    {
+      "id": "fbc6b981",
+      "bank_id": "c0b8b600",
+      "text": "Rookridge Barmeni"
+    },
+    {
+      "id": "fdfbc117",
+      "bank_id": "c0b8b600",
+      "text": "Westcliff Barmeni"
+    },
+    {
+      "id": "fe4d6ee3",
+      "bank_id": "c0b8b600",
+      "text": "Yine de paralarını ödeyemezdim gerçi. Ah kahretsin! Battım! Battım, battım, battım."
+    },
+    {
+      "id": "ff4d7056",
+      "bank_id": "c0b8b600",
+      "text": "Ah evet, belki uçan mühendisler falan buluruz. Haydutların tam üstünden uçup giderler."
+    },
+    {
+      "id": "ffd9f224",
+      "bank_id": "c0b8b600",
+      "text": "Beş para etmez bira."
+    }
+  ]
+}

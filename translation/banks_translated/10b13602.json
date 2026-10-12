@@ -1,0 +1,571 @@
+{
+  "bank_id": "10b13602",
+  "total_strings": 113,
+  "strings": [
+    {
+      "id": "0198c570",
+      "bank_id": "10b13602",
+      "text": "Duyduğuma göre Brightwood'daki haydutlar sonunda şu çiftçiyi öldürmüş."
+    },
+    {
+      "id": "0198c574",
+      "bank_id": "10b13602",
+      "text": "Çiftçi Giles için çok yazık oldu."
+    },
+    {
+      "id": "0198c577",
+      "bank_id": "10b13602",
+      "text": "Demek haydutlar sonunda Çiftçi Giles'ı hakladı. En azından artık huzur içinde yatabiliriz."
+    },
+    {
+      "id": "034942b0",
+      "bank_id": "10b13602",
+      "text": "Şu köprü tamir edilene kadar Bowerstone ile ticaret yapmamız imkânsız."
+    },
+    {
+      "id": "034942b2",
+      "bank_id": "10b13602",
+      "text": "Rookridge bir kez güvenli hâle gelsin, hepimiz Bowerstone'u ziyaret edebiliriz!"
+    },
+    {
+      "id": "034942b4",
+      "bank_id": "10b13602",
+      "text": "Bowerstone ile yeniden ticarete başlayamazsak açlıktan kırılacağız."
+    },
+    {
+      "id": "04d6be3b",
+      "bank_id": "10b13602",
+      "text": "Miggins Nine o çocuk için fazla endişeleniyor. Eminim iyi durumdadır."
+    },
+    {
+      "id": "0698cd10",
+      "bank_id": "10b13602",
+      "text": "Peh, bana sorarsan o çiftçi bunu hak etmişti."
+    },
+    {
+      "id": "0698cd17",
+      "bank_id": "10b13602",
+      "text": "Zavallı Çiftçi Giles. Önce karısı haydutlarca öldürüldü, şimdi de kendisi."
+    },
+    {
+      "id": "07e4be30",
+      "bank_id": "10b13602",
+      "text": "Ripper ölmüş ha? Oh canıma değsin!"
+    },
+    {
+      "id": "07e4be33",
+      "bank_id": "10b13602",
+      "text": "Ripper öldüğüne göre Çiftçi Giles pek bir rahatlamıştır artık."
+    },
+    {
+      "id": "08dfdaf8",
+      "bank_id": "10b13602",
+      "text": "O çiftçiye yardım etmeniz pek ince bir davranıştı. En azından bedava meyve falan alabildiniz mi?"
+    },
+    {
+      "id": "08dfdafa",
+      "bank_id": "10b13602",
+      "text": "O çiftçiye yardım etmeniz pek ince bir davranıştı. En azından bedava meyve falan alabildiniz mi?"
+    },
+    {
+      "id": "08dfdafc",
+      "bank_id": "10b13602",
+      "text": "O çiftçiye yardım etmeniz pek ince bir davranıştı. En azından bedava meyve falan alabildiniz mi?"
+    },
+    {
+      "id": "08dfdafd",
+      "bank_id": "10b13602",
+      "text": "O çiftçiye yardım etmeniz pek ince bir davranıştı. En azından bedava meyve falan alabildiniz mi?"
+    },
+    {
+      "id": "09d6c5da",
+      "bank_id": "10b13602",
+      "text": "Gölün yanındaki o mağaranın çok tehlikeli olduğunu söylüyorlar."
+    },
+    {
+      "id": "09d6c5db",
+      "bank_id": "10b13602",
+      "text": "Charlie kaybolduğunda gölde yüzmüyor muydu?"
+    },
+    {
+      "id": "11dfe8c8",
+      "bank_id": "10b13602",
+      "text": "O çiftçiye yardım etmeniz pek ince bir davranıştı. En azından bedava meyve falan alabildiniz mi?"
+    },
+    {
+      "id": "11dfe8cc",
+      "bank_id": "10b13602",
+      "text": "O çiftçiye yardım etmeniz pek ince bir davranıştı. En azından bedava meyve falan alabildiniz mi?"
+    },
+    {
+      "id": "11dfe8cf",
+      "bank_id": "10b13602",
+      "text": "O çiftçiye yardım etmeniz pek ince bir davranıştı. En azından bedava meyve falan alabildiniz mi?"
+    },
+    {
+      "id": "1ef982c2",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki çiftçinin başına korkunç bir şey geldiğini duydum. Bunun hakkında bir şey bilmiyorsundur herhalde, canım?"
+    },
+    {
+      "id": "1ef982c3",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki çiftçinin başına korkunç bir şey geldiğini duydum. Bunun hakkında bir şey bilmiyorsundur herhalde, canım?"
+    },
+    {
+      "id": "1ef982c5",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki çiftçinin başına bir şey geldiğini duydum. Bunun hakkında bir şey bilmiyorsundur herhalde, tatlım?"
+    },
+    {
+      "id": "1ef982c7",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki çiftçinin başına korkunç bir şey geldiğini duydum. Bunun hakkında bir şey bilmiyorsundur herhalde, canım?"
+    },
+    {
+      "id": "29f99470",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki o çiftçinin başına gelenler ne korkunç değil mi?"
+    },
+    {
+      "id": "29f99473",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki çiftçinin başına korkunç bir şey geldiğini duydum. Bunun hakkında bir şey bilmiyorsundur herhalde, canım?"
+    },
+    {
+      "id": "29f99474",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki şu çiftçinin başına geleni duydun mu? Bahtı karaymış."
+    },
+    {
+      "id": "29f99477",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki çiftçinin başına korkunç bir şey geldiğini duydum. Bunun hakkında bir şey bilmiyorsundur herhalde, canım?"
+    },
+    {
+      "id": "3325f5da",
+      "bank_id": "10b13602",
+      "text": "Charlie g-gitti mi yani? Şimdi kiminle dalga geçeceğiz biz?"
+    },
+    {
+      "id": "343fe88d",
+      "bank_id": "10b13602",
+      "text": "Charlie'nin iyi olacağını biliyordum. Ninesi ona hâlâ on yaşındaymış gibi davranıyor diye bir şeyi olmaz."
+    },
+    {
+      "id": "3b79c6a0",
+      "bank_id": "10b13602",
+      "text": "Ozan mı? Sadece beş para etmez olmakla kalmıyor, ölümüne sıkıcı..."
+    },
+    {
+      "id": "3b79c6a2",
+      "bank_id": "10b13602",
+      "text": "Şu ozanı dinledin mi hiç? Berbat bir ses, şarkıları da bir o kadar sıkıcı. Hiçbir olay olmuyor."
+    },
+    {
+      "id": "3d3ff6d8",
+      "bank_id": "10b13602",
+      "text": "Charlie döndü diye Miggins Nine öyle bir rahatladı ki."
+    },
+    {
+      "id": "3d3ff6d9",
+      "bank_id": "10b13602",
+      "text": "Charlie uzun bir süre daha mağara falan keşfetmeye kalkmaz artık!"
+    },
+    {
+      "id": "3e7f23ac",
+      "bank_id": "10b13602",
+      "text": "Bowerstone'un neye benzediğini neredeyse unutmuştum. Çok da kalabalık. Oakfield'de yaşadığıma öyle memnunum ki."
+    },
+    {
+      "id": "3e7f23ad",
+      "bank_id": "10b13602",
+      "text": "Bowerstone'un neye benzediğini neredeyse unutmuştum. Çok da kalabalık. Oakfield'de yaşadığıma öyle memnunum ki."
+    },
+    {
+      "id": "3e7f23ae",
+      "bank_id": "10b13602",
+      "text": "Artık istediğimiz zaman Bowerstone'dan Oakfield'e gidebiliriz."
+    },
+    {
+      "id": "42740db1",
+      "bank_id": "10b13602",
+      "text": "Hey, duyduğuma göre Ripper'ın ahbabıymışsın."
+    },
+    {
+      "id": "42740db4",
+      "bank_id": "10b13602",
+      "text": "Haydutlar Giles'ın çiftliğini darmadağın etmiş. Zavallı adam."
+    },
+    {
+      "id": "42740db7",
+      "bank_id": "10b13602",
+      "text": "Artık Brightwood çiftliğinin yanına bile yaklaşmam. O savaşı en sonunda şu haydutlar kazandı."
+    },
+    {
+      "id": "47741551",
+      "bank_id": "10b13602",
+      "text": "Hey, Ripper'a yardım eden sen değil miydin?"
+    },
+    {
+      "id": "47741557",
+      "bank_id": "10b13602",
+      "text": "Çiftçi Giles'ın başına geleni duydun mu?"
+    },
+    {
+      "id": "477f31f8",
+      "bank_id": "10b13602",
+      "text": "Biliyor musun, köprü yeniden açıldığına göre galiba burada kalacağım."
+    },
+    {
+      "id": "477f31f9",
+      "bank_id": "10b13602",
+      "text": "Biliyor musun, köprü yeniden açıldığına göre galiba burada kalacağım."
+    },
+    {
+      "id": "477f31fb",
+      "bank_id": "10b13602",
+      "text": "Köprü onarıldığına göre belki de Oakfield'e gitmeliyim."
+    },
+    {
+      "id": "68842022",
+      "bank_id": "10b13602",
+      "text": "Charlie'yi kurtardığın için teşekkürler!"
+    },
+    {
+      "id": "689131fe",
+      "bank_id": "10b13602",
+      "text": "Son zamanlarda Charlie'yi görmedin değil mi? Miggins Nine meraktan delirmek üzere."
+    },
+    {
+      "id": "6ba18314",
+      "bank_id": "10b13602",
+      "text": "Charlie ölmüş mü? Ne... ne oldu ki?"
+    },
+    {
+      "id": "6ba18316",
+      "bank_id": "10b13602",
+      "text": "Sevgili Charlie, ne kadar da işe yaramaz bir maceracıydı... Bir gün olacağı buydu."
+    },
+    {
+      "id": "6ba18317",
+      "bank_id": "10b13602",
+      "text": "Miggins Nine kahrolmuş olmalı. Küçük Charlie onun tüm dünyasıydı."
+    },
+    {
+      "id": "70a18b35",
+      "bank_id": "10b13602",
+      "text": "Bizim Charlie'nin öldüğüne inanamıyorum. O takma saçlarını özleyeceğim."
+    },
+    {
+      "id": "70a18b36",
+      "bank_id": "10b13602",
+      "text": "Koca adama çocuk gibi muamele edersen böyle olur işte... Charlie'nin zaten hiç şansı yoktu."
+    },
+    {
+      "id": "70a18b37",
+      "bank_id": "10b13602",
+      "text": "Charlie hep maceracı olmak isterdi. Sonunun böyle biteceği belliydi."
+    },
+    {
+      "id": "71842e0f",
+      "bank_id": "10b13602",
+      "text": "Demek Charlie iyi ha? Onunla yine dalga geçebilir miyim yani?"
+    },
+    {
+      "id": "71913fc9",
+      "bank_id": "10b13602",
+      "text": "Charlie'nin başının çaresine bakabileceğinden eminim."
+    },
+    {
+      "id": "71913fcb",
+      "bank_id": "10b13602",
+      "text": "Miggins Nine perişan halde. Torunu Charlie kayıp."
+    },
+    {
+      "id": "795cc82e",
+      "bank_id": "10b13602",
+      "text": "Güzellikle rica etsem kendinizi kurban olarak sunmama izin verir misiniz? Hadi ama, mızıkçılık yapmayın."
+    },
+    {
+      "id": "795cc82f",
+      "bank_id": "10b13602",
+      "text": "Birkaç kişi toplanıp âlem çevirmeyi planlıyoruz. Bize katılmak ister misin? Bir gün gerçekten yapacağız. Göreceksin."
+    },
+    {
+      "id": "7cb99296",
+      "bank_id": "10b13602",
+      "text": "Değil mi ama? Bu cübbeler pek rahat, değil mi? Kulübümüzde sadece en iyisi bulunur. Yani Tapınağımızda."
+    },
+    {
+      "id": "7cb99297",
+      "bank_id": "10b13602",
+      "text": "Bu cübbeler pek rahat, değil mi? Kulübümüzde sadece en iyisi bulunur. Yani Tapınağımızda."
+    },
+    {
+      "id": "7d198438",
+      "bank_id": "10b13602",
+      "text": "Giles öldükten sonra çiftliğinin başına gelenler gerçekten içler acısı."
+    },
+    {
+      "id": "7d198439",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki o çiftlik bugünlerde tam bir felaket."
+    },
+    {
+      "id": "7d19843d",
+      "bank_id": "10b13602",
+      "text": "Haydutlar Giles'ın çiftliğini fena talan etti. Ve kimse onları durdurmak için parmağını bile kıpırdatmadı."
+    },
+    {
+      "id": "7d19843e",
+      "bank_id": "10b13602",
+      "text": "Giles öldükten sonra çiftliğinin başına gelenler gerçekten içler acısı."
+    },
+    {
+      "id": "7d19843f",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki o çiftlik artık eskisi gibi değil."
+    },
+    {
+      "id": "88199568",
+      "bank_id": "10b13602",
+      "text": "Yıllar önce bir Brightwood haydutuyla çıkmıştım, o çiftçi ailenin canına okumalarından önce."
+    },
+    {
+      "id": "88199569",
+      "bank_id": "10b13602",
+      "text": "Bana sorarsan o aptal çiftlik haydutlarca basıldığından beri Brightwood çok daha iyi durumda."
+    },
+    {
+      "id": "8819956c",
+      "bank_id": "10b13602",
+      "text": "Giles ve ailesinin başına gelenler çok üzücü."
+    },
+    {
+      "id": "8819956e",
+      "bank_id": "10b13602",
+      "text": "Brightwood artık eskisi gibi güzel bir yer değil. Şu haydutlar orayı resmen ele geçirdi."
+    },
+    {
+      "id": "8819956f",
+      "bank_id": "10b13602",
+      "text": "O Brightwood haydutları ortalığı resmen ele geçirdi. Duyduğuma göre kampları son zamanlarda iyice serpilmiş."
+    },
+    {
+      "id": "9b9bbeb6",
+      "bank_id": "10b13602",
+      "text": "İ... İnanmıyorum, Charlie ölmüş olamaz... *hık*"
+    },
+    {
+      "id": "a21e785a",
+      "bank_id": "10b13602",
+      "text": "O köprü tamir edilmezse belki de ben de haydutlara katılırım."
+    },
+    {
+      "id": "a21e785b",
+      "bank_id": "10b13602",
+      "text": "Bowerstone ile yeniden ticarete başlayamazsak açlıktan kırılacağız."
+    },
+    {
+      "id": "a21e785d",
+      "bank_id": "10b13602",
+      "text": "Keşke biri Rookridge'deki şu haydutların hakkından gelse."
+    },
+    {
+      "id": "ab1e86a8",
+      "bank_id": "10b13602",
+      "text": "Bunca güzel Oakfield mahsulü heba oluyor, hiçbirini Bowerstone'a ulaştıramıyoruz."
+    },
+    {
+      "id": "ab1e86ab",
+      "bank_id": "10b13602",
+      "text": "Köprü hâlâ kullanılamaz durumdayken Bowerstone ile nasıl ticaret yapacağız ki?"
+    },
+    {
+      "id": "ac108a9e",
+      "bank_id": "10b13602",
+      "text": "Köprünün tamir edildiği kötü oldu be. Milletin aşağı düşüşünü izlemek hoşuma gidiyordu!"
+    },
+    {
+      "id": "ad8909d1",
+      "bank_id": "10b13602",
+      "text": "Bazen Charlie'nin çocuk olmadığını unutuyorum. Benden yaşlı yahu!"
+    },
+    {
+      "id": "ad8909d3",
+      "bank_id": "10b13602",
+      "text": "Bizim Charlie'yi son belasından çekip çıkarmayı başardığına sevindim."
+    },
+    {
+      "id": "b3ac4fba",
+      "bank_id": "10b13602",
+      "text": "Brightwood'daki o çiftliği görmelisin. İşleri tıkırında."
+    },
+    {
+      "id": "b3ac4fbb",
+      "bank_id": "10b13602",
+      "text": "Giles'ın çiftliği bugünlerde iyice serpilmiş, değil mi? Yaşadıklarından sonra bunu hak etmişti."
+    },
+    {
+      "id": "b3ac4fbc",
+      "bank_id": "10b13602",
+      "text": "Son zamanlarda Giles'ın çiftliğini gördün mü? İşleri gayet iyi gidiyor."
+    },
+    {
+      "id": "b3ac4fbd",
+      "bank_id": "10b13602",
+      "text": "Giles'ın çiftliği bugünlerde iyice serpilmiş, değil mi? Yaşadıklarından sonra bunu hak etmişti."
+    },
+    {
+      "id": "b3ac4fbe",
+      "bank_id": "10b13602",
+      "text": "Giles'ın çiftliğinin bugünlerde bu kadar iyi olmasına sevindim."
+    },
+    {
+      "id": "b8891b00",
+      "bank_id": "10b13602",
+      "text": "Bizim Charlie'nin iyi olduğuna sevindim."
+    },
+    {
+      "id": "bcac5d88",
+      "bank_id": "10b13602",
+      "text": "O Brightwood haydut kampının bugünlerde harabeden ibaret olmasına öyle sevindim ki."
+    },
+    {
+      "id": "bcac5d89",
+      "bank_id": "10b13602",
+      "text": "Giles o çiftliğini gerçekten de harika bir başarıya dönüştürdü."
+    },
+    {
+      "id": "bcac5d8b",
+      "bank_id": "10b13602",
+      "text": "Giles'ın çiftliği bugünlerde pek hoş bir yer oldu. O haydutlardan da eser yok."
+    },
+    {
+      "id": "bcac5d8e",
+      "bank_id": "10b13602",
+      "text": "Eskiden Brightwood'da şirin bir haydut kampı vardı. Şimdi harabe oldu."
+    },
+    {
+      "id": "bcac5d8f",
+      "bank_id": "10b13602",
+      "text": "Giles diye bir adamı duydun mu hiç? Yaklaşık on yıl önce karısını kaybetti, kendisi de neredeyse ölüyordu ama şimdi çiftliği harika durumda."
+    },
+    {
+      "id": "c0d1d5fe",
+      "bank_id": "10b13602",
+      "text": "Charlie kayıp. Başına bir şey gelmemiştir umarım!"
+    },
+    {
+      "id": "c884cf1c",
+      "bank_id": "10b13602",
+      "text": "Çiftçi Giles sana çok şey borçlu. Ripper da öyle. Onu öldürebilirdin."
+    },
+    {
+      "id": "c884cf1e",
+      "bank_id": "10b13602",
+      "text": "O haydutların icabına baktığına öyle sevindim ki! Ripper suçlarının cezasını çekecek."
+    },
+    {
+      "id": "c9d1e3cb",
+      "bank_id": "10b13602",
+      "text": "Charlie nerede? Miggins Nine onun için çok endişeleniyor."
+    },
+    {
+      "id": "d184dd69",
+      "bank_id": "10b13602",
+      "text": "Sayende Ripper uzun süre parmaklıklar ardında kalacak!"
+    },
+    {
+      "id": "d474ab98",
+      "bank_id": "10b13602",
+      "text": "Ripper'ın tüm yaptıklarının cezasını çekeceğinden eminim."
+    },
+    {
+      "id": "d474ab9b",
+      "bank_id": "10b13602",
+      "text": "Artık o haydutlar Çiftçi Giles'ı rahatsız edemez. Ripper tutuklanmışken hele."
+    },
+    {
+      "id": "d895cf64",
+      "bank_id": "10b13602",
+      "text": "Cübbeleri niye giymiyorsun? İyi biri olmayı falan düşünmüyorsun, değil mi?"
+    },
+    {
+      "id": "d895cf65",
+      "bank_id": "10b13602",
+      "text": "Cübbeleri niye giymiyorsun? İyi biri olmayı falan düşünmüyorsun, değil mi?"
+    },
+    {
+      "id": "d974b3ba",
+      "bank_id": "10b13602",
+      "text": "Demek Ripper tutuklandı! Şu çiftçi pek rahatlamıştır."
+    },
+    {
+      "id": "de2ca41c",
+      "bank_id": "10b13602",
+      "text": "Biri Giles'a yardım etmeli. Haydutlar Brightwood'daki çiftliğini rahat bırakmıyor hiç."
+    },
+    {
+      "id": "de2ca41d",
+      "bank_id": "10b13602",
+      "text": "O haydutlar habire Brightwood çiftliğine saldırıyor."
+    },
+    {
+      "id": "de2ca41e",
+      "bank_id": "10b13602",
+      "text": "Zavallı Çiftçi Giles. O haydutlar yakasını hiç bırakmıyor."
+    },
+    {
+      "id": "e72cb268",
+      "bank_id": "10b13602",
+      "text": "Şu haydutlar Çiftçi Giles'ı neden rahat bırakamıyor ki?"
+    },
+    {
+      "id": "e72cb269",
+      "bank_id": "10b13602",
+      "text": "Brightwood'da başı fena dertte olan bir çiftlik var."
+    },
+    {
+      "id": "e72cb26b",
+      "bank_id": "10b13602",
+      "text": "O Brightwood çiftliğinde çalışan ben olmadığıma memnunum. Bilirsin işte, haydutların durmadan saldırdığı o çiftlik."
+    },
+    {
+      "id": "ed83e8c8",
+      "bank_id": "10b13602",
+      "text": "Ripper'a yaptıklarının bedelini ödettin. Güzel."
+    },
+    {
+      "id": "ed83e8ca",
+      "bank_id": "10b13602",
+      "text": "Ripper'ı ve diğer tüm o haydutları öldürmek zor oldu mu?"
+    },
+    {
+      "id": "f283f0eb",
+      "bank_id": "10b13602",
+      "text": "Çiftçi Giles sana çok şey borçlu. Hepimiz borçluyuz. Ripper tam bir belaydı."
+    },
+    {
+      "id": "f8493101",
+      "bank_id": "10b13602",
+      "text": "Biri şu köprüyü tamir etmeli. Ama bunca haydut varken tehlikeli iş."
+    },
+    {
+      "id": "f8493103",
+      "bank_id": "10b13602",
+      "text": "Barnum diye biri var, köprünün kendisine ait olduğunu sanıyor. İnanabiliyor musun? Köprü ortada bile yok artık!"
+    },
+    {
+      "id": "f8493104",
+      "bank_id": "10b13602",
+      "text": "Birinin o köprüyle ilgilenmesi lazım. O olmadan dünyayla bağımız koptu."
+    },
+    {
+      "id": "fce4ac82",
+      "bank_id": "10b13602",
+      "text": "Artık o haydutlar Çiftçi Giles'ı rahatsız edemez. Ripper ölmüşken hele."
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "bank_id": "40ae3602",
+  "total_strings": 130,
+  "strings": [
+    {
+      "id": "12999631",
+      "bank_id": "40ae3602",
+      "text": "Beni Çile'den geri çevirdiler ya. Çok güçlüymüşüm, diğerlerine haksızlık olurmuş."
+    },
+    {
+      "id": "12999632",
+      "bank_id": "40ae3602",
+      "text": "Kılıç iyidir hoştur ama hiçbir şey ağzının ortasına sağlam bir tekmeyle boy ölçüşemez."
+    },
+    {
+      "id": "144268c0",
+      "bank_id": "40ae3602",
+      "text": "Demek sonunda dünyaevine girdin ha. Ne harika."
+    },
+    {
+      "id": "144268c1",
+      "bank_id": "40ae3602",
+      "text": "Evlendiğine inanamıyorum! Tebrik ederim!"
+    },
+    {
+      "id": "144268c2",
+      "bank_id": "40ae3602",
+      "text": "Tebrikler! Durulup yuva kurduğunu görmek çok güzel."
+    },
+    {
+      "id": "144268c4",
+      "bank_id": "40ae3602",
+      "text": "Yerleşip aile kuruyoruz demek ha? Bu pek hayırlı bir şey."
+    },
+    {
+      "id": "144268c5",
+      "bank_id": "40ae3602",
+      "text": "Umarım harika bir düğününüz olmuştur."
+    },
+    {
+      "id": "144268c6",
+      "bank_id": "40ae3602",
+      "text": "Ne diye evlenmek istedin ki sanki. Herkesin kendi tercihi gerçi."
+    },
+    {
+      "id": "144268c7",
+      "bank_id": "40ae3602",
+      "text": "Bir kişi daha evliliğin sefil hayatına katıldı demek."
+    },
+    {
+      "id": "1d427728",
+      "bank_id": "40ae3602",
+      "text": "Evliliğinizi kutlarım! Sizin adınıza ne kadar sevindim bilemezsiniz."
+    },
+    {
+      "id": "1d427729",
+      "bank_id": "40ae3602",
+      "text": "Son izdivacınızı öğrenmekten büyük memnuniyet duydum."
+    },
+    {
+      "id": "1d42772a",
+      "bank_id": "40ae3602",
+      "text": "Geçmiş olsun. Başını bağlamışsın diye duydum."
+    },
+    {
+      "id": "1d42772b",
+      "bank_id": "40ae3602",
+      "text": "Demek evlendin ha? Hepimizin başına gelir."
+    },
+    {
+      "id": "1d42772c",
+      "bank_id": "40ae3602",
+      "text": "Başını bağladın demek ha? Aferin sana!"
+    },
+    {
+      "id": "1d42772d",
+      "bank_id": "40ae3602",
+      "text": "Birilerinin dünyaevine girdiğini görmek her zaman güzeldir."
+    },
+    {
+      "id": "1d42772f",
+      "bank_id": "40ae3602",
+      "text": "Evliliğinizi tebrik ederim!"
+    },
+    {
+      "id": "2c21ffa4",
+      "bank_id": "40ae3602",
+      "text": "Bana sorarsan bütün suçluları pestili çıkana kadar dövmemize izin vermeliler. Bak o zaman bu ülkede suç oranı nasıl düşer."
+    },
+    {
+      "id": "2c21ffa7",
+      "bank_id": "40ae3602",
+      "text": "Biliyor musun, benden amma ozan olurdu ha. Sesim tam yerinde. Dinle bak: Laaa! Laaa!"
+    },
+    {
+      "id": "2f7cfbd1",
+      "bank_id": "40ae3602",
+      "text": "Kendi gerdek gecemi hâlâ hatırlarım. Sonrasındaki yıllara yazık oldu ama. Ha ha!"
+    },
+    {
+      "id": "2f7cfbd4",
+      "bank_id": "40ae3602",
+      "text": "Balayına nereye gittikleri hakkında bir fikrin var mı?"
+    },
+    {
+      "id": "2f7cfbd6",
+      "bank_id": "40ae3602",
+      "text": "Ben hariç herkes evleniyor gibi sanki."
+    },
+    {
+      "id": "2f7cfbd7",
+      "bank_id": "40ae3602",
+      "text": "Yakında çocukları olur herhalde."
+    },
+    {
+      "id": "347d03f0",
+      "bank_id": "40ae3602",
+      "text": "Sence o evlilik ne kadar sürer?"
+    },
+    {
+      "id": "347d03f1",
+      "bank_id": "40ae3602",
+      "text": "O Kahramanın hiç evleneceğini sanmazdım."
+    },
+    {
+      "id": "347d03f2",
+      "bank_id": "40ae3602",
+      "text": "Düğüne davet edildin mi? Kesin fakir fukara düğünü olmuştur gerçi."
+    },
+    {
+      "id": "347d03f3",
+      "bank_id": "40ae3602",
+      "text": "Bir Kahramanın evlenmesi mi... Ne kadar da göz kamaştırıcı."
+    },
+    {
+      "id": "347d03f5",
+      "bank_id": "40ae3602",
+      "text": "Evliliği duydun mu?"
+    },
+    {
+      "id": "347d03f6",
+      "bank_id": "40ae3602",
+      "text": "Kasabada bir evli çift daha. Görmek her zaman güzel."
+    },
+    {
+      "id": "347d03f7",
+      "bank_id": "40ae3602",
+      "text": "Düğünün pek hoş geçtiğini duydum."
+    },
+    {
+      "id": "406b6f08",
+      "bank_id": "40ae3602",
+      "text": "Boşandığınızı öğrendiğime öyle üzüldüm ki."
+    },
+    {
+      "id": "406b6f09",
+      "bank_id": "40ae3602",
+      "text": "Evlilik kutsal bir müessesedir ama her zaman iyi sonuç vermez."
+    },
+    {
+      "id": "406b6f0a",
+      "bank_id": "40ae3602",
+      "text": "İşte evlilik dedikleri budur. İki dakika bile sürmez."
+    },
+    {
+      "id": "406b6f0b",
+      "bank_id": "40ae3602",
+      "text": "Demek evlilik yürümedi ha? Benim gibi yarım düzine eskitene kadar bekle sen hele."
+    },
+    {
+      "id": "406b6f0c",
+      "bank_id": "40ae3602",
+      "text": "Boşandın mı? Ah, çok üzüldüm."
+    },
+    {
+      "id": "406b6f0d",
+      "bank_id": "40ae3602",
+      "text": "Evliliğine yazık olmuş. Ama aşka küsme hemen."
+    },
+    {
+      "id": "406b6f0e",
+      "bank_id": "40ae3602",
+      "text": "Boşandığını duyduğuma üzüldüm."
+    },
+    {
+      "id": "44ea3845",
+      "bank_id": "40ae3602",
+      "text": "Geçen gün bir kitap okudum. İçinde kelimeler bile vardı."
+    },
+    {
+      "id": "44ea3846",
+      "bank_id": "40ae3602",
+      "text": "Biz muhafızların adı kötüye çıkmış ama sıradaki adamdan daha kaba saba değiliz."
+    },
+    {
+      "id": "45386d38",
+      "bank_id": "40ae3602",
+      "text": "Ha! Bir yuva daha yıkıldı demek ha?"
+    },
+    {
+      "id": "45386d39",
+      "bank_id": "40ae3602",
+      "text": "Güzel hareket. Beğendiğin birini görürsen alacaksın. Ben öyle derim."
+    },
+    {
+      "id": "45386d3a",
+      "bank_id": "40ae3602",
+      "text": "O aileyi pervasız aşk maceranla nasıl darmadağın edersin?"
+    },
+    {
+      "id": "45386d3b",
+      "bank_id": "40ae3602",
+      "text": "Başkalarının evliliklerine hiç saygın yok mu senin?"
+    },
+    {
+      "id": "45386d3d",
+      "bank_id": "40ae3602",
+      "text": "Sen etraftayken hiçbir aile güvende değil."
+    },
+    {
+      "id": "45386d3e",
+      "bank_id": "40ae3602",
+      "text": "İstediğini elde ettiğin sürece kimi incittiğin umurunda bile değil."
+    },
+    {
+      "id": "45386d3f",
+      "bank_id": "40ae3602",
+      "text": "Evli barklı insanlara asılırken işin ucundakileri hiç düşünmüyor musun?"
+    },
+    {
+      "id": "45665a19",
+      "bank_id": "40ae3602",
+      "text": "Muhafızlık işini bırakıp kendi küçük çiftliğimi almayı hayal ediyorum. Giles adında bir arkadaşım vardı, öyle yapmıştı."
+    },
+    {
+      "id": "45665a1a",
+      "bank_id": "40ae3602",
+      "text": "Bize daha iyi çizmeler verirler sanırdım. Bu taş gibi şeylerle devriye gezmek hiç kolay değil."
+    },
+    {
+      "id": "496b7d58",
+      "bank_id": "40ae3602",
+      "text": "Sıkma canını, denizdeki tek balık o değil ya."
+    },
+    {
+      "id": "496b7d59",
+      "bank_id": "40ae3602",
+      "text": "Umarım boşanman çok tatsız geçmemiştir."
+    },
+    {
+      "id": "496b7d5b",
+      "bank_id": "40ae3602",
+      "text": "Evlilik zor iş olabilir ama eminim çabuk toparlanırsın."
+    },
+    {
+      "id": "496b7d5c",
+      "bank_id": "40ae3602",
+      "text": "Bir evliliğin bitmesi çok kalp kırabilir. Ama insan atlatıyor! Ha ha!"
+    },
+    {
+      "id": "496b7d5d",
+      "bank_id": "40ae3602",
+      "text": "Boşandın demek? Evet, alt tabakada böyle şeyler olur zaten."
+    },
+    {
+      "id": "496b7d5e",
+      "bank_id": "40ae3602",
+      "text": "Ne oldu? Aldatırken mi yakalandın? Benim başıma gelen buydu valla!"
+    },
+    {
+      "id": "496b7d5f",
+      "bank_id": "40ae3602",
+      "text": "Boşanmak başına gelebilecek en iyi şeydir. Görürsün bak."
+    },
+    {
+      "id": "50387e68",
+      "bank_id": "40ae3602",
+      "text": "Etrafta aileleri yıktığına bakılırsa aile kurumu pek umurunda değil galiba."
+    },
+    {
+      "id": "50387e69",
+      "bank_id": "40ae3602",
+      "text": "Yuva yıktığını duydum. Öyle duvar yıkmaktan falan bahsetmiyorum ha."
+    },
+    {
+      "id": "50387e6a",
+      "bank_id": "40ae3602",
+      "text": "O aile öyle mutlu görünüyordu ki. Ta ki sen gelip aralarına nifak sokana kadar."
+    },
+    {
+      "id": "50387e6b",
+      "bank_id": "40ae3602",
+      "text": "Toplumumuzun dokusunu paramparça edenler tam da senin gibi yuva yıkanlardır."
+    },
+    {
+      "id": "50387e6c",
+      "bank_id": "40ae3602",
+      "text": "O güzelim aileyi dağıttığına inanamıyorum!"
+    },
+    {
+      "id": "50387e6e",
+      "bank_id": "40ae3602",
+      "text": "Seni yuva yıkıcı seni!"
+    },
+    {
+      "id": "50387e6f",
+      "bank_id": "40ae3602",
+      "text": "Aileleri dağıtmaktan zevk mi alıyorsun?"
+    },
+    {
+      "id": "5cfe73c8",
+      "bank_id": "40ae3602",
+      "text": "Şu gargoyle'ler ne garip şeyler öyle değil mi? Acaba bir şey mi saklıyorlar..."
+    },
+    {
+      "id": "5cfe73c9",
+      "bank_id": "40ae3602",
+      "text": "O gargoyle'lerden birine bir dahaki yaklaşışımda kafasını uçuracağım."
+    },
+    {
+      "id": "5cfe73cd",
+      "bank_id": "40ae3602",
+      "text": "Geçen gün o taş gargoyle'lerden biri bana resmen hakaret etti. Valla doğru!"
+    },
+    {
+      "id": "5cfe73ce",
+      "bank_id": "40ae3602",
+      "text": "Şu gargoyle'ler ne garip şeyler öyle değil mi? Acaba bir şey mi saklıyorlar..."
+    },
+    {
+      "id": "5cfe73cf",
+      "bank_id": "40ae3602",
+      "text": "O gargoyle'lerden birinin bana hakaret ettiğini bir daha duyarsam o koca ağzını havaya uçuracağım."
+    },
+    {
+      "id": "660cfa91",
+      "bank_id": "40ae3602",
+      "text": "Benden tavsiye istersen: Fırsat buldukça sağlık iksirlerini stokla derim."
+    },
+    {
+      "id": "660cfa92",
+      "bank_id": "40ae3602",
+      "text": "Muhafız olunca iyi para kazanırsın sanırsın değil mi? Ben de öyle sanmıştım. Ha!"
+    },
+    {
+      "id": "67fe8578",
+      "bank_id": "40ae3602",
+      "text": "O gargoyle'lerden birine taş fırlatmayı denedim ama kıramadım."
+    },
+    {
+      "id": "6d778647",
+      "bank_id": "40ae3602",
+      "text": "Başkasını umursamıyor. Bunca yuva yıkmasını nasıl açıklarsın?"
+    },
+    {
+      "id": "6d77864c",
+      "bank_id": "40ae3602",
+      "text": "Başkasını umursamıyor. Bunca yuva yıkmasını nasıl açıklarsın?"
+    },
+    {
+      "id": "a5e99b95",
+      "bank_id": "40ae3602",
+      "text": "Haydutlar çirkin suratlarını buralarda göstermese iyi eder. Onları pestilleri çıkana kadar döverim. Üstüne bir posta daha döverim."
+    },
+    {
+      "id": "a5e99b96",
+      "bank_id": "40ae3602",
+      "text": "Asayişi sağlamak nankör bir iştir. Gerçi bazıları teşekkür ediyor hani."
+    },
+    {
+      "id": "acefd4b0",
+      "bank_id": "40ae3602",
+      "text": "Ağırlık mı çalışıyorsun sen?"
+    },
+    {
+      "id": "acefd4b1",
+      "bank_id": "40ae3602",
+      "text": "Neyden kaynaklanıyor bilmem ama eskisinden daha güçlü görünüyorsun."
+    },
+    {
+      "id": "acefd4b2",
+      "bank_id": "40ae3602",
+      "text": "Eskisinden daha güçlü duruyorsun. İlaç falan kullanmıyorsun, değil mi?"
+    },
+    {
+      "id": "acefd4b4",
+      "bank_id": "40ae3602",
+      "text": "Son zamanlarda gücün artmış gibi görünüyor. Etkileyici."
+    },
+    {
+      "id": "acefd4b5",
+      "bank_id": "40ae3602",
+      "text": "Etrafına yepyeni bir güç halesi yayıyorsun."
+    },
+    {
+      "id": "acefd4b6",
+      "bank_id": "40ae3602",
+      "text": "Şu kasların gittikçe büyümüş gibi görünüyor."
+    },
+    {
+      "id": "acefd4b7",
+      "bank_id": "40ae3602",
+      "text": "Spor mu yapıyorsun? Bir şekilde daha güçlü duruyorsun."
+    },
+    {
+      "id": "b3b94448",
+      "bank_id": "40ae3602",
+      "text": "Ne oluyor burada bakalım? Dağılın, bakacak bir şey yok! *öksürür* Alıştırma yapıyorum da."
+    },
+    {
+      "id": "b3b9444b",
+      "bank_id": "40ae3602",
+      "text": "Ayaklarım koptu valla. İşi bırakıp oturarak yapabileceğim bir işe mi girsem..."
+    },
+    {
+      "id": "b5efe298",
+      "bank_id": "40ae3602",
+      "text": "Eskisinden daha fazla güce sahip görünüyorsun. Ağır şeyleri kaldırmaya epey vakit harcıyor olmalısın."
+    },
+    {
+      "id": "b5efe299",
+      "bank_id": "40ae3602",
+      "text": "Bugünlerde epey kaslanmış görünüyorsun."
+    },
+    {
+      "id": "b5efe29a",
+      "bank_id": "40ae3602",
+      "text": "Vay canına, amma güçlü görünüyorsun."
+    },
+    {
+      "id": "b5efe29b",
+      "bank_id": "40ae3602",
+      "text": "Ağırlık falan mı kaldırıyorsun sen?"
+    },
+    {
+      "id": "b5efe29c",
+      "bank_id": "40ae3602",
+      "text": "Hey, spor mu yapıyorsun? Bir şekilde... daha güçlü görünüyorsun."
+    },
+    {
+      "id": "b5efe29d",
+      "bank_id": "40ae3602",
+      "text": "Vay canına, bugün gerçekten daha güçlü duruyorsun. Nasıl oldu o?"
+    },
+    {
+      "id": "b5efe29f",
+      "bank_id": "40ae3602",
+      "text": "Kasların durmadan büyüyor sanki. Artık bayağı güçlü olmalısın."
+    },
+    {
+      "id": "b6cdd070",
+      "bank_id": "40ae3602",
+      "text": "Sanat kursuna yazılsam iyi olacak... Değişiklik olsun diye birkaç Aranıyor ilanı çizerdim."
+    },
+    {
+      "id": "b6cdd073",
+      "bank_id": "40ae3602",
+      "text": "Buradaki şartlar değişmezse Muhafızlar Loncası'na haber vereceğim. Sarhoşlara kafa atmaktan gına geldi."
+    },
+    {
+      "id": "beaea9c1",
+      "bank_id": "40ae3602",
+      "text": "Demek nişanlandın ha! Ne güzel."
+    },
+    {
+      "id": "beaea9c2",
+      "bank_id": "40ae3602",
+      "text": "Nişanlandığını duydum. Tebrik ederim."
+    },
+    {
+      "id": "beaea9c3",
+      "bank_id": "40ae3602",
+      "text": "Nişanınızı tebrik ederim."
+    },
+    {
+      "id": "beaea9c4",
+      "bank_id": "40ae3602",
+      "text": "Nişanlandın demek ha? Fazla sürmez."
+    },
+    {
+      "id": "beaea9c5",
+      "bank_id": "40ae3602",
+      "text": "Nişanlandığını duydum. Tebrikler."
+    },
+    {
+      "id": "c56ce840",
+      "bank_id": "40ae3602",
+      "text": "Bazı insanlar sadece kendilerini düşünür. Şuradaki yuva yıkan gibi."
+    },
+    {
+      "id": "c56ce841",
+      "bank_id": "40ae3602",
+      "text": "Şunun öylece damlayıp mutlu bir evliliği darmadağın etmesi sence de korkunç değil mi?"
+    },
+    {
+      "id": "c56ce842",
+      "bank_id": "40ae3602",
+      "text": "Şu yuva yıkıcı midemi bulandırıyor."
+    },
+    {
+      "id": "c56ce846",
+      "bank_id": "40ae3602",
+      "text": "Yuva yıkan biri var şurada."
+    },
+    {
+      "id": "c56ce847",
+      "bank_id": "40ae3602",
+      "text": "Bazı insanlar başkalarının hayatını karartmayı hiç umursamaz. Benim gibi!"
+    },
+    {
+      "id": "c9aebb70",
+      "bank_id": "40ae3602",
+      "text": "Nişanlandın mı? Tebrik ederim."
+    },
+    {
+      "id": "c9aebb72",
+      "bank_id": "40ae3602",
+      "text": "Nişanlandığını duydum. Tebrikler."
+    },
+    {
+      "id": "c9aebb73",
+      "bank_id": "40ae3602",
+      "text": "Nişanınızı tebrik ederim!"
+    },
+    {
+      "id": "c9aebb74",
+      "bank_id": "40ae3602",
+      "text": "Nişanınızı tebrik ederim, maceracı."
+    },
+    {
+      "id": "c9aebb75",
+      "bank_id": "40ae3602",
+      "text": "Nişanlandın ha? Güzel hareket."
+    },
+    {
+      "id": "ce6cf6ab",
+      "bank_id": "40ae3602",
+      "text": "Kendi mutluluğu uğruna bir aileyi mahveden gamsız bir maceracıya güven olmaz işte."
+    },
+    {
+      "id": "ce6cf6ac",
+      "bank_id": "40ae3602",
+      "text": "Kendi mutluluğu için bir aileyi darmadağın etmek gibisi yok valla!"
+    },
+    {
+      "id": "ce6cf6ad",
+      "bank_id": "40ae3602",
+      "text": "İnsanların hayatını mahvettin, seni yuva yıkıcı."
+    },
+    {
+      "id": "ce6cf6af",
+      "bank_id": "40ae3602",
+      "text": "Sırf eğlencesine aileleri yıkıyor. Valla doğru."
+    },
+    {
+      "id": "d067a161",
+      "bank_id": "40ae3602",
+      "text": "Her zamankinden daha zinde görünüyorsun. Alıştırma mı yapıyorsun?"
+    },
+    {
+      "id": "d067a162",
+      "bank_id": "40ae3602",
+      "text": "Sende bir değişiklik var. Sanki daha hızlısın, daha çeviksin ve işte, daha iyisin."
+    },
+    {
+      "id": "d067a167",
+      "bank_id": "40ae3602",
+      "text": "Bayağı zinde görünüyorsun. Çok mu antrenman yaptın?"
+    },
+    {
+      "id": "d64b5874",
+      "bank_id": "40ae3602",
+      "text": "Babam hep doktor olmamı isterdi. Ama kemik kırmak onları kaynatmaktan çok daha eğlenceli."
+    },
+    {
+      "id": "d64b5877",
+      "bank_id": "40ae3602",
+      "text": "Bugünlerdeki muhafızlık başvurularını bir görmelisin. Okuma yazma falan bilmeni istiyorlar. Sokaklarda devriye gezen bir avuç sümsük üniversiteli görürüz artık."
+    },
+    {
+      "id": "d967af4b",
+      "bank_id": "40ae3602",
+      "text": "Göster bakalım şu yeni becerilerini o zaman."
+    },
+    {
+      "id": "d967af4d",
+      "bank_id": "40ae3602",
+      "text": "Yeni beceriler öğrendiğini duydum!"
+    },
+    {
+      "id": "d967af4f",
+      "bank_id": "40ae3602",
+      "text": "Bir şekilde farklı görünüyorsun. Daha kudretli."
+    },
+    {
+      "id": "df85bf7c",
+      "bank_id": "40ae3602",
+      "text": "Geçen hafta hep geç vardiyadaydım. Görev başında kestirmemize izin verseler o kadar da kötü olmazdı aslında."
+    },
+    {
+      "id": "df85bf7f",
+      "bank_id": "40ae3602",
+      "text": "Suçtan nefret ederim ben. Yani harbiden nefret ederim. Uğraşması öyle zor bir iş ki bilsen."
+    },
+    {
+      "id": "dfb4bbbd",
+      "bank_id": "40ae3602",
+      "text": "Kötü tiplerden payına düşeni fazlasıyla almışsındır herhalde. Dünya pislik dolu."
+    },
+    {
+      "id": "dfb4bbbe",
+      "bank_id": "40ae3602",
+      "text": "Sokakları korumaktansa maceraya atılmak çok daha eğlenceli olsa gerek. Ama birinin bu işi yapması lazım."
+    },
+    {
+      "id": "ef83de5c",
+      "bank_id": "40ae3602",
+      "text": "İşteki ilk günümü hatırlarım. Bir haydudun kafasını ikiye yarmıştım. Ah, genç olmak vardı be."
+    },
+    {
+      "id": "ef83de5f",
+      "bank_id": "40ae3602",
+      "text": "Bazen Muhafız okulunda olduğum günleri özlüyorum. Hayatımın en güzel günleriydi."
+    },
+    {
+      "id": "f9922771",
+      "bank_id": "40ae3602",
+      "text": "Etrafında tuhaf bir ışıltı var. Neredeyse... büyülü gibi."
+    },
+    {
+      "id": "f9922776",
+      "bank_id": "40ae3602",
+      "text": "Sende bir değişiklik var. Tuhaf bir enerji..."
+    },
+    {
+      "id": "f9922777",
+      "bank_id": "40ae3602",
+      "text": "Büyülü auran eskisinden çok daha güçlü görünüyor."
+    },
+    {
+      "id": "fe922f11",
+      "bank_id": "40ae3602",
+      "text": "İrade gücünü eskisinden çok daha iyi kontrol ediyor gibisin."
+    },
+    {
+      "id": "fe922f15",
+      "bank_id": "40ae3602",
+      "text": "Etrafında yeni bir büyülü ışıltı var."
+    },
+    {
+      "id": "fe922f17",
+      "bank_id": "40ae3602",
+      "text": "Sende bir değişiklik var. Bu yeni büyülü aura..."
+    }
+  ]
+}

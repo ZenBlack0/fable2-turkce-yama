@@ -1,0 +1,761 @@
+{
+  "bank_id": "e0329601",
+  "total_strings": 151,
+  "strings": [
+    {
+      "id": "047adcd0",
+      "bank_id": "e0329601",
+      "text": "Kral mı? Neye hükmediyorsun ki? Arka bahçeye mi?"
+    },
+    {
+      "id": "047adcd1",
+      "bank_id": "e0329601",
+      "text": "Kral mı? Neye hükmediyorsun ki? Arka bahçeye mi?"
+    },
+    {
+      "id": "047adcd3",
+      "bank_id": "e0329601",
+      "text": "Kral mı? Neye hükmediyorsun ki? Arka bahçeye mi?"
+    },
+    {
+      "id": "047adcd4",
+      "bank_id": "e0329601",
+      "text": "Kral mı? Neye hükmediyorsun ki? Arka bahçeye mi?"
+    },
+    {
+      "id": "047adcd5",
+      "bank_id": "e0329601",
+      "text": "Kral mı? Kime hükmediyorsun o zaman? Arka bahçeye mi?"
+    },
+    {
+      "id": "047adcd6",
+      "bank_id": "e0329601",
+      "text": "Kral mı? Neye hükmediyorsun ki? Arka bahçeye mi?"
+    },
+    {
+      "id": "047adcd7",
+      "bank_id": "e0329601",
+      "text": "Kral mı? Neye hükmediyorsun ki? Arka bahçeye mi?"
+    },
+    {
+      "id": "0b7ae7d0",
+      "bank_id": "e0329601",
+      "text": "Neredeyse hiçbir şeyin sana ait değilken nasıl Kral olabilirsin ki?"
+    },
+    {
+      "id": "0b7ae7d1",
+      "bank_id": "e0329601",
+      "text": "Neredeyse hiçbir şeyin sana ait değilken nasıl Kral olabilirsin ki?"
+    },
+    {
+      "id": "0b7ae7d2",
+      "bank_id": "e0329601",
+      "text": "Neredeyse hiçbir şeyin sana ait değilken nasıl Kral olabilirsin ki?"
+    },
+    {
+      "id": "0b7ae7d3",
+      "bank_id": "e0329601",
+      "text": "Neredeyse hiçbir şeyin sana ait değilken nasıl Kral olabilirsin ki?"
+    },
+    {
+      "id": "0b7ae7d4",
+      "bank_id": "e0329601",
+      "text": "Neredeyse hiçbir şeyin sana ait değilken nasıl Kral olabilirsin ki?"
+    },
+    {
+      "id": "0b7ae7d5",
+      "bank_id": "e0329601",
+      "text": "Neredeyse hiçbir şeyin sana ait değilken nasıl Kral olabilirsin ki?"
+    },
+    {
+      "id": "0b7ae7d6",
+      "bank_id": "e0329601",
+      "text": "Neredeyse hiçbir şeyin sana ait değilken nasıl Kral olabilirsin ki?"
+    },
+    {
+      "id": "18fd8ce0",
+      "bank_id": "e0329601",
+      "text": "Sana neden Salata Kaçkını diyorlar? Pek öyle domuz gibi şişko sayılmazsın."
+    },
+    {
+      "id": "18fd8ce1",
+      "bank_id": "e0329601",
+      "text": "Sana Salata Kaçkını demek zalimce değil mi? Bana gayet normal boyutlarda görünüyorsun."
+    },
+    {
+      "id": "18fd8ce2",
+      "bank_id": "e0329601",
+      "text": "Salata Kaçkını denecek kadar koca kıçlı değilsin."
+    },
+    {
+      "id": "18fd8ce3",
+      "bank_id": "e0329601",
+      "text": "Salata Kaçkını gibi bir isimle şişman olacağını düşünmüştüm."
+    },
+    {
+      "id": "18fd8ce4",
+      "bank_id": "e0329601",
+      "text": "Gerçek bir Salata Kaçkını olmak istiyorsan turtaları ve pastaları kürekle yemeye başlaman gerek."
+    },
+    {
+      "id": "18fd8ce5",
+      "bank_id": "e0329601",
+      "text": "Salata Kaçkını mı? Gayet dengeli besleniyor gibi görünüyorsun."
+    },
+    {
+      "id": "18fd8ce7",
+      "bank_id": "e0329601",
+      "text": "Salata Kaçkını mı? O şişkolar için bir isim, senin için değil!"
+    },
+    {
+      "id": "1ffd97e8",
+      "bank_id": "e0329601",
+      "text": "Salata Kaçkını olmak için fazla zindesin!"
+    },
+    {
+      "id": "1ffd97e9",
+      "bank_id": "e0329601",
+      "text": "Salata Kaçkını! O ismin sana uymasını istiyorsan biraz kilo al."
+    },
+    {
+      "id": "1ffd97ea",
+      "bank_id": "e0329601",
+      "text": "Bence Salata Kaçkını denecek kadar şişman değilsin."
+    },
+    {
+      "id": "1ffd97ec",
+      "bank_id": "e0329601",
+      "text": "Salata Kaçkını gibi görünmüyorsun. İri kemikli bile değilsin."
+    },
+    {
+      "id": "1ffd97ed",
+      "bank_id": "e0329601",
+      "text": "Salata Kaçkını gibi bir isimle daha obez olman gerekmez miydi?"
+    },
+    {
+      "id": "1ffd97ee",
+      "bank_id": "e0329601",
+      "text": "Kaynanam tam bir salata kaçkınıdır. Sen değilsin."
+    },
+    {
+      "id": "1ffd97ef",
+      "bank_id": "e0329601",
+      "text": "Salata Kaçkını mı? Arada bir havuç yemekten hoşlanıyor gibi görünüyorsun."
+    },
+    {
+      "id": "6507a8c0",
+      "bank_id": "e0329601",
+      "text": "Dur bir dakika, senin Silahşor olduğunu sanıyordum?"
+    },
+    {
+      "id": "6507a8c1",
+      "bank_id": "e0329601",
+      "text": "Bunun bir tüfek olmadığının farkındasın değil mi Silahşor?"
+    },
+    {
+      "id": "6507a8c3",
+      "bank_id": "e0329601",
+      "text": "Biraz tuhaf görünen bir tüfekmiş bu Silahşor."
+    },
+    {
+      "id": "6507a8c4",
+      "bank_id": "e0329601",
+      "text": "Tüfeklere sırtını mı döndün yoksa Silahşor?"
+    },
+    {
+      "id": "6507a8c5",
+      "bank_id": "e0329601",
+      "text": "Sana Silahşor dendiği izlenimine kapılmıştım. Yoksa yanılıyor muyum?"
+    },
+    {
+      "id": "6507a8c6",
+      "bank_id": "e0329601",
+      "text": "Onunla ne yapıyorsun? Senin Silahşor olduğunu sanıyordum."
+    },
+    {
+      "id": "6507a8c7",
+      "bank_id": "e0329601",
+      "text": "O silah ismine pek uymuyor bilesin."
+    },
+    {
+      "id": "6c07b3c0",
+      "bank_id": "e0329601",
+      "text": "Yahu, elinde epey garip bir tüfek var Silahşor."
+    },
+    {
+      "id": "6c07b3c1",
+      "bank_id": "e0329601",
+      "text": "Hımm, Silahşor, uygun bir silahının olmaması bu çetin zamanlarda maceracıların maruz kaldığı kalıplara karşı bir başkaldırı mı?"
+    },
+    {
+      "id": "6c07b3c2",
+      "bank_id": "e0329601",
+      "text": "Ne oldu? Tüfeğin mi bitti Silahşor?"
+    },
+    {
+      "id": "6c07b3c3",
+      "bank_id": "e0329601",
+      "text": "Buna tüfek mi diyorsun sen Silahşor?"
+    },
+    {
+      "id": "6c07b3c4",
+      "bank_id": "e0329601",
+      "text": "O silahı göstererek bütün hayranlarını hayal kırıklığına uğratacaksın Silahşor."
+    },
+    {
+      "id": "6c07b3c5",
+      "bank_id": "e0329601",
+      "text": "Alınma ama Silahşor, o tüfek falan değil."
+    },
+    {
+      "id": "6c07b3c6",
+      "bank_id": "e0329601",
+      "text": "Hey Silahşor, tüfeğin ne olduğunu bildiğinden emin misin?"
+    },
+    {
+      "id": "725b9332",
+      "bank_id": "e0329601",
+      "text": "Bıçak benim! O ben olacağım!"
+    },
+    {
+      "id": "7b5ba11f",
+      "bank_id": "e0329601",
+      "text": "Ben Bıçak olmak istiyorum!"
+    },
+    {
+      "id": "7fae2412",
+      "bank_id": "e0329601",
+      "text": "Herkes geriye çekilsin, Zorba benim!"
+    },
+    {
+      "id": "868481b8",
+      "bank_id": "e0329601",
+      "text": "Ben Kasap olmak istiyorum!"
+    },
+    {
+      "id": "88ae327f",
+      "bank_id": "e0329601",
+      "text": "Bana bakın, Zorba benim!"
+    },
+    {
+      "id": "8b848959",
+      "bank_id": "e0329601",
+      "text": "Bana Kasap derler, tamam mı?"
+    },
+    {
+      "id": "90f8edb2",
+      "bank_id": "e0329601",
+      "text": "Kelle Avcısı benim!"
+    },
+    {
+      "id": "99f8fb9f",
+      "bank_id": "e0329601",
+      "text": "Herkes bana... Kelle Avcısı desin!"
+    },
+    {
+      "id": "9e7da0a1",
+      "bank_id": "e0329601",
+      "text": "Bir Cellat biraz daha... ne bileyim, öldüresiye çılgın olmalı değil miydi?"
+    },
+    {
+      "id": "9e7da0a2",
+      "bank_id": "e0329601",
+      "text": "Cellat mı? Şaka mı bu?"
+    },
+    {
+      "id": "9e7da0a3",
+      "bank_id": "e0329601",
+      "text": "Hıh. Cellat demek ha? Bir yanlışlık olmalı."
+    },
+    {
+      "id": "9e7da0a4",
+      "bank_id": "e0329601",
+      "text": "Cellat gibi bir isimle kimi korkutmaya çalışıyorsun sen? Güldürme beni."
+    },
+    {
+      "id": "9e7da0a5",
+      "bank_id": "e0329601",
+      "text": "Sen mi? Cellat ha? Bu benim kendime Bay Kibar Sofra Adabı demem gibi bir şey. *geğirir*"
+    },
+    {
+      "id": "9e7da0a6",
+      "bank_id": "e0329601",
+      "text": "Demek şu Cellat sensin hı? Ne bileyim, daha... cani birini bekliyordum."
+    },
+    {
+      "id": "9e7da0a7",
+      "bank_id": "e0329601",
+      "text": "Cellat mı? Korkarım o havayı sende pek göremiyorum."
+    },
+    {
+      "id": "a97db1d2",
+      "bank_id": "e0329601",
+      "text": "Bilemedim. Cellat gibi bir isim için yeterince cani görünmüyorsun."
+    },
+    {
+      "id": "a97db1d4",
+      "bank_id": "e0329601",
+      "text": "Kendine Cellat mı diyorsun? Dalga geçiyor olmalısın!"
+    },
+    {
+      "id": "a97db1d5",
+      "bank_id": "e0329601",
+      "text": "Hadi ama! Cellat mı? Ancak iyi niyet gösterileri infaz ediyor olabilirsin."
+    },
+    {
+      "id": "a97db1d6",
+      "bank_id": "e0329601",
+      "text": "Cellat mı? Bu unvan kesinlikle yanlış verilmiş."
+    },
+    {
+      "id": "a97db1d7",
+      "bank_id": "e0329601",
+      "text": "Kendine Cellat mı diyorsun? En son kimi idam ettin ki?"
+    },
+    {
+      "id": "b5ea21b8",
+      "bank_id": "e0329601",
+      "text": "İşlemeli bir minder kadar korkutucusun Korku Tellalı."
+    },
+    {
+      "id": "b5ea21b9",
+      "bank_id": "e0329601",
+      "text": "Pek dehşet verici sayılmazsın Korku Tellalı."
+    },
+    {
+      "id": "b5ea21ba",
+      "bank_id": "e0329601",
+      "text": "Korku Tellalı mı? Balık tellalı olmadığına emin misin?"
+    },
+    {
+      "id": "b5ea21bb",
+      "bank_id": "e0329601",
+      "text": "Korku Tellalıymış, külahıma anlat!"
+    },
+    {
+      "id": "b5ea21bc",
+      "bank_id": "e0329601",
+      "text": "Korku Tellalı, bir kutu kedi yavrusu kadar korkutucusun. Dişsiz kedi yavruları. Aslında o bayağı korkutucu olurdu."
+    },
+    {
+      "id": "b5ea21bd",
+      "bank_id": "e0329601",
+      "text": "Hiç de korkunç değilsin Korku Tellalı!"
+    },
+    {
+      "id": "b5ea21be",
+      "bank_id": "e0329601",
+      "text": "Korku Tellalı mı? Hiç korku saldığını görmedik!"
+    },
+    {
+      "id": "b9d15331",
+      "bank_id": "e0329601",
+      "text": "Dangalak mı? Ağır bir lakap bu! Aslında gayet iyisin."
+    },
+    {
+      "id": "b9d15332",
+      "bank_id": "e0329601",
+      "text": "Aslında gayet hoş birisin Dangalak."
+    },
+    {
+      "id": "b9d15333",
+      "bank_id": "e0329601",
+      "text": "Dangalak mı? Garip bir şekilde senden hoşlandım."
+    },
+    {
+      "id": "b9d15334",
+      "bank_id": "e0329601",
+      "text": "Dangalak lakabı sana pek uymuyor."
+    },
+    {
+      "id": "b9d15335",
+      "bank_id": "e0329601",
+      "text": "Ben sana Dangalak demezdim."
+    },
+    {
+      "id": "b9d15336",
+      "bank_id": "e0329601",
+      "text": "Dangalak olmak için fazla cana yakınsın doğrusu."
+    },
+    {
+      "id": "b9d15337",
+      "bank_id": "e0329601",
+      "text": "Benim kafamdaki Dangalak tanımına uymuyorsun."
+    },
+    {
+      "id": "beea2f88",
+      "bank_id": "e0329601",
+      "text": "Bir şalgam kadar korkutucusun Korku Tellalı."
+    },
+    {
+      "id": "beea2f89",
+      "bank_id": "e0329601",
+      "text": "Korku Tellalı mı? Güldürme beni."
+    },
+    {
+      "id": "beea2f8b",
+      "bank_id": "e0329601",
+      "text": "Korku Tellalı demek ha? Hiç korkmuş gibi durmuyorum değil mi."
+    },
+    {
+      "id": "beea2f8c",
+      "bank_id": "e0329601",
+      "text": "Pek öyle korkunç sayılmazsın Korku Tellalı."
+    },
+    {
+      "id": "beea2f8d",
+      "bank_id": "e0329601",
+      "text": "Korku Tellalı denen birinin daha... şey, korkutucu olacağını sanırdım."
+    },
+    {
+      "id": "beea2f8e",
+      "bank_id": "e0329601",
+      "text": "Korku Tellalı mı? He canım, tabii."
+    },
+    {
+      "id": "beea2f8f",
+      "bank_id": "e0329601",
+      "text": "Korku Tellalı denecek kadar korkutucu değilsin."
+    },
+    {
+      "id": "c4d16460",
+      "bank_id": "e0329601",
+      "text": "Gerçekten sana Dangalak denmesini hak ediyor musun?"
+    },
+    {
+      "id": "c4d16462",
+      "bank_id": "e0329601",
+      "text": "O kadar da fena değilsin be Dangalak."
+    },
+    {
+      "id": "c4d16463",
+      "bank_id": "e0329601",
+      "text": "O kadar da kötü olduğunu düşünmüyorum Dangalak."
+    },
+    {
+      "id": "c4d16464",
+      "bank_id": "e0329601",
+      "text": "Sana Dangalak denmesi için fazla iyisin."
+    },
+    {
+      "id": "c4d16465",
+      "bank_id": "e0329601",
+      "text": "Sana Dangalak demek pek yakışmıyor."
+    },
+    {
+      "id": "c4d16466",
+      "bank_id": "e0329601",
+      "text": "Neden biri sana Dangalak desin ki? O kadar kötü değilsin."
+    },
+    {
+      "id": "c4d16467",
+      "bank_id": "e0329601",
+      "text": "Sana Dangalak demeleri ne yazık, bana gayet cana yakın görünüyorsun."
+    },
+    {
+      "id": "c937f880",
+      "bank_id": "e0329601",
+      "text": "Hadi bakalım, göster şu yüreğini. Bahse girerim aslana falan benzemiyordur."
+    },
+    {
+      "id": "c937f881",
+      "bank_id": "e0329601",
+      "text": "Hey Aslan Yürekli! Son zamanlarda hiç kavgadan kaçtın mı?"
+    },
+    {
+      "id": "c937f882",
+      "bank_id": "e0329601",
+      "text": "Cesaretten bu kadar yoksun biri için Aslan Yürekli pek uygun bir lakap gibi görünmüyor."
+    },
+    {
+      "id": "c937f883",
+      "bank_id": "e0329601",
+      "text": "Aslan Yürekli mi? Bir aslan vücudunun geri kalanına nasıl kan pompalayabilir ki? Çok saçma."
+    },
+    {
+      "id": "c937f884",
+      "bank_id": "e0329601",
+      "text": "Bir Aslan Yürekli biraz daha... ne bileyim, cesur olmalı değil miydi?"
+    },
+    {
+      "id": "c937f886",
+      "bank_id": "e0329601",
+      "text": "Hıh. Aslan Yürekli demek ha? Bir yanlışlık olmalı."
+    },
+    {
+      "id": "c937f887",
+      "bank_id": "e0329601",
+      "text": "Aslan Yürekli mi? Şaka mı bu?"
+    },
+    {
+      "id": "cc331c33",
+      "bank_id": "e0329601",
+      "text": "Neredeyse hiçbir şeyin sana ait değilken nasıl Kraliçe olabilirsin ki?"
+    },
+    {
+      "id": "ce3800a0",
+      "bank_id": "e0329601",
+      "text": "Aslan yüreği mi? Hiç sanmıyorum!"
+    },
+    {
+      "id": "ce3800a1",
+      "bank_id": "e0329601",
+      "text": "Bana kalırsa senin adın Tavşan Yürekli olmalıymış! Haha!"
+    },
+    {
+      "id": "ce3800a2",
+      "bank_id": "e0329601",
+      "text": "Bu kadar az cesareti olan birine nasıl Aslan Yürekli denir?"
+    },
+    {
+      "id": "ce3800a3",
+      "bank_id": "e0329601",
+      "text": "Aslan Yürekli mi? Bu unvan kesinlikle yanlış verilmiş."
+    },
+    {
+      "id": "ce3800a5",
+      "bank_id": "e0329601",
+      "text": "Aslan Yürekli lafının her zaman cesur anlamına geldiğini sanırdım. Değilmiş meğer."
+    },
+    {
+      "id": "ce3800a6",
+      "bank_id": "e0329601",
+      "text": "Yüreğinin aslanla pek bir alakası olduğundan emin değilim..."
+    },
+    {
+      "id": "ce3800a7",
+      "bank_id": "e0329601",
+      "text": "Bilemedim. Aslan Yürekli gibi bir isim için yeterince cesur görünmüyorsun."
+    },
+    {
+      "id": "d02b7400",
+      "bank_id": "e0329601",
+      "text": "Gölge İblisi gibi bir isimle beni korkutmaya çalışıyorsan hiç işe yaramıyor."
+    },
+    {
+      "id": "d02b7401",
+      "bank_id": "e0329601",
+      "text": "Gölge İblisi gibi bir isimle milleti korkutmaya mı çalışıyorsun? Bana o kadar da kötü görünmüyorsun."
+    },
+    {
+      "id": "d02b7402",
+      "bank_id": "e0329601",
+      "text": "Gölge İblisi gibi bir isimle insanları korkutmaya mı çalışıyorsun? O kadar da fena değilsin."
+    },
+    {
+      "id": "d02b7403",
+      "bank_id": "e0329601",
+      "text": "Gölge İblisi mi? Şeytani falan bile değilsin ki?"
+    },
+    {
+      "id": "d02b7404",
+      "bank_id": "e0329601",
+      "text": "Pek öyle korkutucu sayılmazsın Gölge İblisi."
+    },
+    {
+      "id": "d02b7405",
+      "bank_id": "e0329601",
+      "text": "Gölge İblisi mi? Konyak kadehinde bir kedi yavrusu kadar korkutucusun."
+    },
+    {
+      "id": "d02b7407",
+      "bank_id": "e0329601",
+      "text": "Gölge İblisi gibi bir isimle milleti korkutmaya mı çalışıyorsun? Bana o kadar da kötü görünmüyorsun."
+    },
+    {
+      "id": "d5795f2d",
+      "bank_id": "e0329601",
+      "text": "İntikamcı benim!"
+    },
+    {
+      "id": "d72b7f08",
+      "bank_id": "e0329601",
+      "text": "Kendine Gölge İblisi mi diyorsun? Ama hiç korkutucu değilsin ki!"
+    },
+    {
+      "id": "d72b7f09",
+      "bank_id": "e0329601",
+      "text": "Gölge İblisi mi? Ha, iyi denemeydi!"
+    },
+    {
+      "id": "d72b7f0a",
+      "bank_id": "e0329601",
+      "text": "Gölge İblisi mi? Pek öyle kötü biri sayılmazsın, değil mi?"
+    },
+    {
+      "id": "d72b7f0c",
+      "bank_id": "e0329601",
+      "text": "Gölge İblisi mi? Ne kadar gülünç."
+    },
+    {
+      "id": "d72b7f0d",
+      "bank_id": "e0329601",
+      "text": "Gölge İblisi senin gibiler için fazla korkutucu bir isim."
+    },
+    {
+      "id": "d72b7f0e",
+      "bank_id": "e0329601",
+      "text": "İsmin sana hiç uymuyor Gölge İblisi."
+    },
+    {
+      "id": "d72b7f0f",
+      "bank_id": "e0329601",
+      "text": "Bana pek öyle kötü görünmüyorsun Gölge İblisi."
+    },
+    {
+      "id": "daa428a1",
+      "bank_id": "e0329601",
+      "text": "Sparrow sen gençken iyiydi ama artık o ismi değiştirmenin vakti gelmedi mi?"
+    },
+    {
+      "id": "daa428a2",
+      "bank_id": "e0329601",
+      "text": "Sparrow mu? Artık o ismi geride bırakmadın mı?"
+    },
+    {
+      "id": "daa428a3",
+      "bank_id": "e0329601",
+      "text": "Şüphesiz Sparrow isminden daha uygun bir unvan bulabilirsin."
+    },
+    {
+      "id": "daa428a4",
+      "bank_id": "e0329601",
+      "text": "Şimdiye kadar Sparrow ismini aşmış olman gerekmez miydi?"
+    },
+    {
+      "id": "daa428a5",
+      "bank_id": "e0329601",
+      "text": "Artık yeni bir isim almanın vakti gelmedi mi Sparrow?"
+    },
+    {
+      "id": "daa428a6",
+      "bank_id": "e0329601",
+      "text": "Sparrow senin gibi biri için fazla sıradan bir unvan."
+    },
+    {
+      "id": "daa428a7",
+      "bank_id": "e0329601",
+      "text": "Artık sana Sparrow denmeyecek kadar meşhursun herhalde."
+    },
+    {
+      "id": "dbc10624",
+      "bank_id": "e0329601",
+      "text": "Bana Tavuk Kovalayan deyin!"
+    },
+    {
+      "id": "e079705c",
+      "bank_id": "e0329601",
+      "text": "Ben İntikamcı olmak istiyorum!"
+    },
+    {
+      "id": "e0c10dc5",
+      "bank_id": "e0329601",
+      "text": "Ben Tavuk Kovalayan'ım! Tavukları kovalarım!"
+    },
+    {
+      "id": "e5a439d0",
+      "bank_id": "e0329601",
+      "text": "Kendine Sparrow demek için artık biraz yaşlanmadın mı?"
+    },
+    {
+      "id": "e5a439d2",
+      "bank_id": "e0329601",
+      "text": "Sparrow senin için fazla çocukça bir unvan değil mi?"
+    },
+    {
+      "id": "e5a439d3",
+      "bank_id": "e0329601",
+      "text": "Kendine Sparrow demek için biraz yaşını başını almadın mı sence de?"
+    },
+    {
+      "id": "e5a439d4",
+      "bank_id": "e0329601",
+      "text": "Sparrow mu? Yeni bir isim alma vakti geldi, değil mi?"
+    },
+    {
+      "id": "e5a439d5",
+      "bank_id": "e0329601",
+      "text": "Sparrow olmak için fazla yaşlısın yahu!"
+    },
+    {
+      "id": "e5a439d6",
+      "bank_id": "e0329601",
+      "text": "Sparrow artık sana pek uymuyor."
+    },
+    {
+      "id": "e5a439d7",
+      "bank_id": "e0329601",
+      "text": "Neden kendine Sparrow demekte ısrar ediyorsun? Hiç uymuyor."
+    },
+    {
+      "id": "f0146d38",
+      "bank_id": "e0329601",
+      "text": "Şakacı mı? Beni hiç güldürdüğünü sanmıyorum."
+    },
+    {
+      "id": "f0146d39",
+      "bank_id": "e0329601",
+      "text": "Şakacı mı? Marul yatağında bernez sosuyla servis edilse bile bir şakayı tanıyamazsın."
+    },
+    {
+      "id": "f0146d3a",
+      "bank_id": "e0329601",
+      "text": "Şakacı denen birinin daha komik olması gerekmez miydi?"
+    },
+    {
+      "id": "f0146d3b",
+      "bank_id": "e0329601",
+      "text": "Şakacı mı? Bir vergi denetimi kadar komiksin."
+    },
+    {
+      "id": "f0146d3c",
+      "bank_id": "e0329601",
+      "text": "Şakacı mı? Ölü bir papağan kadar komiksin."
+    },
+    {
+      "id": "f0146d3d",
+      "bank_id": "e0329601",
+      "text": "Sende uzaktan yakından komik tek bir taraf bile yok Şakacı."
+    },
+    {
+      "id": "f0146d3e",
+      "bank_id": "e0329601",
+      "text": "Şakacı mı? Beni hiç güldürdüğünü sanmıyorum."
+    },
+    {
+      "id": "f9147b08",
+      "bank_id": "e0329601",
+      "text": "Hiç birini güldürdün mü ki sen Şakacı?"
+    },
+    {
+      "id": "f9147b09",
+      "bank_id": "e0329601",
+      "text": "Şakacı mı? Kıtlık kadar komiksin."
+    },
+    {
+      "id": "f9147b0b",
+      "bank_id": "e0329601",
+      "text": "Nasıl Şakacı olabilirsin ki? Sende zerre kadar mizah anlayışı yok."
+    },
+    {
+      "id": "f9147b0c",
+      "bank_id": "e0329601",
+      "text": "Nasıl Şakacı olabilirsin ki? Sende zerre kadar mizah anlayışı yok."
+    },
+    {
+      "id": "f9147b0d",
+      "bank_id": "e0329601",
+      "text": "Bir enfeksiyon kadar komiksin Şakacı."
+    },
+    {
+      "id": "f9147b0e",
+      "bank_id": "e0329601",
+      "text": "Şakacı, meyve kokteylindeki bir tezek kadar komiksin."
+    },
+    {
+      "id": "f9147b0f",
+      "bank_id": "e0329601",
+      "text": "Şakacı mı? Güldürme beni."
+    }
+  ]
+}

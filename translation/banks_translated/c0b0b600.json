@@ -1,0 +1,1156 @@
+{
+  "bank_id": "c0b0b600",
+  "total_strings": 230,
+  "strings": [
+    {
+      "id": "007af4f6",
+      "bank_id": "c0b0b600",
+      "text": "Tüccar"
+    },
+    {
+      "id": "04847139",
+      "bank_id": "c0b0b600",
+      "text": "İki buçuk milyon altın değerinde mülke sahipsiniz. Kraliçe ve Kral unvanları artık tüm Tellallardan alınabilir."
+    },
+    {
+      "id": "04cb1441",
+      "bank_id": "c0b0b600",
+      "text": "Bowerstone Pazarı (12 altın)"
+    },
+    {
+      "id": "0505ae9d",
+      "bank_id": "c0b0b600",
+      "text": "Oakfield (8 altın)"
+    },
+    {
+      "id": "0510b466",
+      "bank_id": "c0b0b600",
+      "text": "Nereye yelken açmak istersiniz?"
+    },
+    {
+      "id": "0835d3f1",
+      "bank_id": "c0b0b600",
+      "text": "Labirent 1"
+    },
+    {
+      "id": "0835d3f2",
+      "bank_id": "c0b0b600",
+      "text": "Labirent 2"
+    },
+    {
+      "id": "08fc66c3",
+      "bank_id": "c0b0b600",
+      "text": "Oakfield heykeltıraşı kahraman modellere fena halde muhtaç."
+    },
+    {
+      "id": "090beeed",
+      "bank_id": "c0b0b600",
+      "text": "Katil doğanız size Kasap unvanını kazandırdı. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "0afa2bb2",
+      "bank_id": "c0b0b600",
+      "text": "Gölgeler Tapınağı, Işık takipçilerinden temelli kurtulmaya karar verdi."
+    },
+    {
+      "id": "0afea880",
+      "bank_id": "c0b0b600",
+      "text": "Eve dönmelisiniz. Korkunç bir şey oldu!"
+    },
+    {
+      "id": "0b9073af",
+      "bank_id": "c0b0b600",
+      "text": "Barmen Kız"
+    },
+    {
+      "id": "0bfa2d25",
+      "bank_id": "c0b0b600",
+      "text": "Gölge takipçilerinin Işık Tapınağı'nı ve tüm rahiplerini yok etmeye hazırlandığına dair söylentiler var."
+    },
+    {
+      "id": "0cefa179",
+      "bank_id": "c0b0b600",
+      "text": "Bowerstone Mezarlığı Konağı satın alınabilir durumda. Yeni sahibine hangi sırları açacak acaba?"
+    },
+    {
+      "id": "0cfeabe6",
+      "bank_id": "c0b0b600",
+      "text": "Görünüşe göre birisi sizin kellenize ödül koymuş."
+    },
+    {
+      "id": "0d0ae578",
+      "bank_id": "c0b0b600",
+      "text": "Kuyumcu"
+    },
+    {
+      "id": "0defa2ef",
+      "bank_id": "c0b0b600",
+      "text": "Albion'un en görkemli mülkü olan Fairfax Kalesi satın alınabilir durumda."
+    },
+    {
+      "id": "0dfead59",
+      "bank_id": "c0b0b600",
+      "text": "Rookridge'de bir hayaletin görüldüğüne dair raporlar var. Belki birisi onun huzur... ya da intikam bulmasına yardım etmelidir."
+    },
+    {
+      "id": "0ecf8beb",
+      "bank_id": "c0b0b600",
+      "text": "Dangalak olarak çağrılmayı hak edecek kadar çok insanı sinir ettiniz. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "0ede8374",
+      "bank_id": "c0b0b600",
+      "text": "Oyun Ustası"
+    },
+    {
+      "id": "0efeaec9",
+      "bank_id": "c0b0b600",
+      "text": "Gölgeler Tapınağı'ndaki Talihsizlik Çarkı yeni kurbanlar için susadı."
+    },
+    {
+      "id": "0f9134e0",
+      "bank_id": "c0b0b600",
+      "text": "Ölüler Salonu"
+    },
+    {
+      "id": "0fae414b",
+      "bank_id": "c0b0b600",
+      "text": "Çekicilik:"
+    },
+    {
+      "id": "0fd72a5e",
+      "bank_id": "c0b0b600",
+      "text": "Mobilya Satıcısı"
+    },
+    {
+      "id": "0ffeb0ba",
+      "bank_id": "c0b0b600",
+      "text": "Oakfield'deki iyi işlerini sürdürebilmek için Işık Tapınağı'nın bağışlara ihtiyacı var. Kim bilir, belki bizzat Işığın kendisi hayırseverliğinizi ödüllendirir."
+    },
+    {
+      "id": "1000ef16",
+      "bank_id": "c0b0b600",
+      "text": "Çile kalabalığı geri dönmeniz için tezahürat yapıyor. Hayranlarınızı gerçekten hayal kırıklığına uğratabilir misiniz?"
+    },
+    {
+      "id": "10282cc2",
+      "bank_id": "c0b0b600",
+      "text": "Eşinizin sizin için bir hediyesi var."
+    },
+    {
+      "id": "1100f089",
+      "bank_id": "c0b0b600",
+      "text": "Hobbe'lerin bir mağaraya yerleşmesinde sıra dışı bir şey yoktur. Ancak burası birinin evi."
+    },
+    {
+      "id": "113e64dc",
+      "bank_id": "c0b0b600",
+      "text": "Hobbe Mağarası"
+    },
+    {
+      "id": "11821caa",
+      "bank_id": "c0b0b600",
+      "text": "saygısızlık"
+    },
+    {
+      "id": "11956e37",
+      "bank_id": "c0b0b600",
+      "text": "Kızıl Levreği: %1 / 8"
+    },
+    {
+      "id": "11feb385",
+      "bank_id": "c0b0b600",
+      "text": "Korkunç bir koku Rookridge Hanı'nı iflasa sürüklüyor. Peki bu kokuya ne sebep oluyor olabilir?"
+    },
+    {
+      "id": "1223325d",
+      "bank_id": "c0b0b600",
+      "text": "Hiçbiri"
+    },
+    {
+      "id": "132f8828",
+      "bank_id": "c0b0b600",
+      "text": "Kasa Taşıyıcısı"
+    },
+    {
+      "id": "1800fb8e",
+      "bank_id": "c0b0b600",
+      "text": "Brightwood'daki bir çiftlik sürekli haydut tehdidi altında."
+    },
+    {
+      "id": "189a5f3c",
+      "bank_id": "c0b0b600",
+      "text": "Nehir Mağarası"
+    },
+    {
+      "id": "18a7a93b",
+      "bank_id": "c0b0b600",
+      "text": "Sözleşmeyi okuyun ve hedefi öldürün."
+    },
+    {
+      "id": "18b49d7b",
+      "bank_id": "c0b0b600",
+      "text": "Reaver'ın Arka Geçidi"
+    },
+    {
+      "id": "1900fd61",
+      "bank_id": "c0b0b600",
+      "text": "Brightwood haydutlarının sorun çıkaran bir çiftçiden kurtulmak için yardıma ihtiyacı var."
+    },
+    {
+      "id": "1922fa31",
+      "bank_id": "c0b0b600",
+      "text": "Batık Gemi"
+    },
+    {
+      "id": "19af407b",
+      "bank_id": "c0b0b600",
+      "text": "Terfi ettiniz! Bir sonraki seviye işi almak için <b_img> tuşuna basın."
+    },
+    {
+      "id": "1a00fed4",
+      "bank_id": "c0b0b600",
+      "text": "Maceracı ve bir o kadar da aptal iki kardeş kadim bir kötülüğü uyandırdı."
+    },
+    {
+      "id": "1a194188",
+      "bank_id": "c0b0b600",
+      "text": "Fairfax Mahzeni"
+    },
+    {
+      "id": "1a4fb0fc",
+      "bank_id": "c0b0b600",
+      "text": "Sevmedikleri:"
+    },
+    {
+      "id": "1b010047",
+      "bank_id": "c0b0b600",
+      "text": "Sarhoş denizci Tuzlu Jack, korkunç korsan Kaptan Dread'in hayaletini gördüğünü iddia ediyor."
+    },
+    {
+      "id": "1d0103ad",
+      "bank_id": "c0b0b600",
+      "text": "İki eşlilikten paçayı sıyırabileceğinizi sandınız, değil mi?"
+    },
+    {
+      "id": "1de1d39e",
+      "bank_id": "c0b0b600",
+      "text": "Takma Ad Belirle"
+    },
+    {
+      "id": "1e4b6297",
+      "bank_id": "c0b0b600",
+      "text": "Mücevher Mağarası"
+    },
+    {
+      "id": "1ecc6301",
+      "bank_id": "c0b0b600",
+      "text": "Korku/Komik:"
+    },
+    {
+      "id": "1fa6677a",
+      "bank_id": "c0b0b600",
+      "text": "Bowerstone Pazarı (25 Altın)"
+    },
+    {
+      "id": "20082ca2",
+      "bank_id": "c0b0b600",
+      "text": "Fairfax Mezarı"
+    },
+    {
+      "id": "216cc968",
+      "bank_id": "c0b0b600",
+      "text": "Yürüyerek %1 saatlik yolculuk"
+    },
+    {
+      "id": "24041ffa",
+      "bank_id": "c0b0b600",
+      "text": "Ulayan Salonlar"
+    },
+    {
+      "id": "2484ff33",
+      "bank_id": "c0b0b600",
+      "text": "Muhafızın notunu okuyun ve köleleri kurtarın."
+    },
+    {
+      "id": "24a8c9f7",
+      "bank_id": "c0b0b600",
+      "text": "Terzi"
+    },
+    {
+      "id": "274ef52a",
+      "bank_id": "c0b0b600",
+      "text": "Yemek sevginiz ve egzersizden kaçışınız size Salata Kaçkını unvanını kazandırdı. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "286752cd",
+      "bank_id": "c0b0b600",
+      "text": "Tepe Mağarası"
+    },
+    {
+      "id": "289b6c21",
+      "bank_id": "c0b0b600",
+      "text": "Gizli Mahzen"
+    },
+    {
+      "id": "2a17b146",
+      "bank_id": "c0b0b600",
+      "text": "Çile'deki zaferiniz size Aslan Yürekli unvanını kazandırdı. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "2b050b6d",
+      "bank_id": "c0b0b600",
+      "text": "Lonca Mağarası"
+    },
+    {
+      "id": "2cc492ba",
+      "bank_id": "c0b0b600",
+      "text": "Orman Mabedi"
+    },
+    {
+      "id": "2d299b8b",
+      "bank_id": "c0b0b600",
+      "text": "Westcliff"
+    },
+    {
+      "id": "2dd342fe",
+      "bank_id": "c0b0b600",
+      "text": "saygı"
+    },
+    {
+      "id": "32cc5b9c",
+      "bank_id": "c0b0b600",
+      "text": "Bloodstone (25 altın)"
+    },
+    {
+      "id": "3527902b",
+      "bank_id": "c0b0b600",
+      "text": "Köylü"
+    },
+    {
+      "id": "353c90f2",
+      "bank_id": "c0b0b600",
+      "text": "Silah Satıcısı"
+    },
+    {
+      "id": "38fe1cdc",
+      "bank_id": "c0b0b600",
+      "text": "Köpeğinize Köpek Sever olarak anılmayı hak edecek kadar numara öğrettiniz. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "3bdc9bcd",
+      "bank_id": "c0b0b600",
+      "text": "Haydut Sahili"
+    },
+    {
+      "id": "3c77c31a",
+      "bank_id": "c0b0b600",
+      "text": "é"
+    },
+    {
+      "id": "3e39b621",
+      "bank_id": "c0b0b600",
+      "text": "Twinblade'in Mezarı"
+    },
+    {
+      "id": "41076026",
+      "bank_id": "c0b0b600",
+      "text": "Sadık yoldaşınız."
+    },
+    {
+      "id": "4189837c",
+      "bank_id": "c0b0b600",
+      "text": "Kabir"
+    },
+    {
+      "id": "418e9709",
+      "bank_id": "c0b0b600",
+      "text": "?"
+    },
+    {
+      "id": "4200a66b",
+      "bank_id": "c0b0b600",
+      "text": "ve"
+    },
+    {
+      "id": "42b23932",
+      "bank_id": "c0b0b600",
+      "text": "Işık Tapınağı'nın sahibi olarak Seçilmiş Kişi unvanını kazandınız. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "43de5bc3",
+      "bank_id": "c0b0b600",
+      "text": "."
+    },
+    {
+      "id": "43f2d4f8",
+      "bank_id": "c0b0b600",
+      "text": "Hatıralar Sokağı"
+    },
+    {
+      "id": "45746158",
+      "bank_id": "c0b0b600",
+      "text": "Ev Hanımı"
+    },
+    {
+      "id": "457a7458",
+      "bank_id": "c0b0b600",
+      "text": "Bower Gölü Mezarı"
+    },
+    {
+      "id": "4d4c7268",
+      "bank_id": "c0b0b600",
+      "text": "Beceri Kahramanı'nı bulmalı ve saflarınıza katmalısınız."
+    },
+    {
+      "id": "4e461b6f",
+      "bank_id": "c0b0b600",
+      "text": "Sözleşmedeki talimatları takip edin."
+    },
+    {
+      "id": "504c4cb9",
+      "bank_id": "c0b0b600",
+      "text": ","
+    },
+    {
+      "id": "52c507bb",
+      "bank_id": "c0b0b600",
+      "text": "Komik/Korku:"
+    },
+    {
+      "id": "53d6c56e",
+      "bank_id": "c0b0b600",
+      "text": "Kurak Deniz"
+    },
+    {
+      "id": "54623e2a",
+      "bank_id": "c0b0b600",
+      "text": "Gizemli Mezar"
+    },
+    {
+      "id": "547771e5",
+      "bank_id": "c0b0b600",
+      "text": "çirkin"
+    },
+    {
+      "id": "5733f858",
+      "bank_id": "c0b0b600",
+      "text": "Unutulmuş Hisar"
+    },
+    {
+      "id": "58ff29ba",
+      "bank_id": "c0b0b600",
+      "text": "Ahlak:"
+    },
+    {
+      "id": "5c84b7d1",
+      "bank_id": "c0b0b600",
+      "text": "Bowerstone Pazarı"
+    },
+    {
+      "id": "5d1c0709",
+      "bank_id": "c0b0b600",
+      "text": "Bloodstone"
+    },
+    {
+      "id": "61eb713c",
+      "bank_id": "c0b0b600",
+      "text": "Profil kartını okuyun."
+    },
+    {
+      "id": "64ffc810",
+      "bank_id": "c0b0b600",
+      "text": "Köpeğin Fikirleri:"
+    },
+    {
+      "id": "65f6506a",
+      "bank_id": "c0b0b600",
+      "text": "Albion'un Lokumu olacak kadar çok kişi tarafından seviliyorsunuz. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "669492ff",
+      "bank_id": "c0b0b600",
+      "text": "Oyuncu Fikirleri:"
+    },
+    {
+      "id": "67b8ec03",
+      "bank_id": "c0b0b600",
+      "text": "Dövmeci"
+    },
+    {
+      "id": "68fcc5a4",
+      "bank_id": "c0b0b600",
+      "text": "Shelley Mahzeni"
+    },
+    {
+      "id": "69226126",
+      "bank_id": "c0b0b600",
+      "text": "Kahramanlar Mezarı"
+    },
+    {
+      "id": "6a5d7408",
+      "bank_id": "c0b0b600",
+      "text": "Favoriler"
+    },
+    {
+      "id": "6f4f2435",
+      "bank_id": "c0b0b600",
+      "text": "Eşiniz boşanmayı düşünüyor."
+    },
+    {
+      "id": "718f6add",
+      "bank_id": "c0b0b600",
+      "text": "Gemi Kaptanı"
+    },
+    {
+      "id": "71eac33b",
+      "bank_id": "c0b0b600",
+      "text": "Pınar"
+    },
+    {
+      "id": "73b8157a",
+      "bank_id": "c0b0b600",
+      "text": "Harap Kule - İskele"
+    },
+    {
+      "id": "759e6db9",
+      "bank_id": "c0b0b600",
+      "text": "Bowerstone Mezarlığı"
+    },
+    {
+      "id": "759f7fe1",
+      "bank_id": "c0b0b600",
+      "text": "Nottaki talimatları takip edin."
+    },
+    {
+      "id": "77337f10",
+      "bank_id": "c0b0b600",
+      "text": "Yolculuk masrafını karşılayamıyorsunuz!"
+    },
+    {
+      "id": "778d262e",
+      "bank_id": "c0b0b600",
+      "text": "Ev Erkeği"
+    },
+    {
+      "id": "7a37370b",
+      "bank_id": "c0b0b600",
+      "text": "Fairfax Bahçeleri"
+    },
+    {
+      "id": "7cb97594",
+      "bank_id": "c0b0b600",
+      "text": "Knothole Adası (25 Altın)"
+    },
+    {
+      "id": "7da3fa02",
+      "bank_id": "c0b0b600",
+      "text": "Brightwood - Derinorman Mağarası"
+    },
+    {
+      "id": "7db77c97",
+      "bank_id": "c0b0b600",
+      "text": "Şerif"
+    },
+    {
+      "id": "7e95a73e",
+      "bank_id": "c0b0b600",
+      "text": "Simyacı"
+    },
+    {
+      "id": "7e9c0c8b",
+      "bank_id": "c0b0b600",
+      "text": "Oakfield"
+    },
+    {
+      "id": "7f38009f",
+      "bank_id": "c0b0b600",
+      "text": "Yankı Madeni"
+    },
+    {
+      "id": "803ab2b8",
+      "bank_id": "c0b0b600",
+      "text": "Sevdikleri:"
+    },
+    {
+      "id": "80706489",
+      "bank_id": "c0b0b600",
+      "text": "Hiçbiri"
+    },
+    {
+      "id": "8107b89d",
+      "bank_id": "c0b0b600",
+      "text": "Bu sandığı açmak için %1 gümüş anahtara ihtiyacınız var."
+    },
+    {
+      "id": "827339ca",
+      "bank_id": "c0b0b600",
+      "text": "Çiftlik Mahzeni"
+    },
+    {
+      "id": "82831159",
+      "bank_id": "c0b0b600",
+      "text": "Bu kazı noktasına bir şey gömmek istiyor musunuz?"
+    },
+    {
+      "id": "8572da89",
+      "bank_id": "c0b0b600",
+      "text": "Muhafızın notunu okuyun ve suçluları öldürün."
+    },
+    {
+      "id": "8760e9f0",
+      "bank_id": "c0b0b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "87d3f32d",
+      "bank_id": "c0b0b600",
+      "text": "?"
+    },
+    {
+      "id": "87e1b2e4",
+      "bank_id": "c0b0b600",
+      "text": "Fairfax Kalesi'nin sahibi olarak Belediye Başkanı unvanını kazandınız. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "8860eb63",
+      "bank_id": "c0b0b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8960ecd6",
+      "bank_id": "c0b0b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8c0710a2",
+      "bank_id": "c0b0b600",
+      "text": "Lady Grey'in Mezarı"
+    },
+    {
+      "id": "8cfd4c14",
+      "bank_id": "c0b0b600",
+      "text": "Oakfield (20 altın)"
+    },
+    {
+      "id": "8df67116",
+      "bank_id": "c0b0b600",
+      "text": "Evde bir aile acil durumu var!"
+    },
+    {
+      "id": "932e445d",
+      "bank_id": "c0b0b600",
+      "text": "Saygı:"
+    },
+    {
+      "id": "934f8bc7",
+      "bank_id": "c0b0b600",
+      "text": "Han Mağarası"
+    },
+    {
+      "id": "93a8d723",
+      "bank_id": "c0b0b600",
+      "text": "Harabe Mağarası"
+    },
+    {
+      "id": "966b13c1",
+      "bank_id": "c0b0b600",
+      "text": "Pınar Mağarası"
+    },
+    {
+      "id": "96f4f788",
+      "bank_id": "c0b0b600",
+      "text": "Hayırsever Taşralılar Tapınağı'nın size ihtiyacı var!"
+    },
+    {
+      "id": "97742bec",
+      "bank_id": "c0b0b600",
+      "text": "Westcliff (20 altın)"
+    },
+    {
+      "id": "97f4f97b",
+      "bank_id": "c0b0b600",
+      "text": "Max ve Sam yine yapacağını yaptı. Ama bu sefer nasıl bir kötülüğü serbest bıraktılar acaba?"
+    },
+    {
+      "id": "97f737d2",
+      "bank_id": "c0b0b600",
+      "text": "Işık Tapınağı artık satın alınabilir durumda."
+    },
+    {
+      "id": "98f73945",
+      "bank_id": "c0b0b600",
+      "text": "Gölgeler Tapınağı artık satın alınabilir durumda."
+    },
+    {
+      "id": "99436099",
+      "bank_id": "c0b0b600",
+      "text": "Aslan Başı Adası"
+    },
+    {
+      "id": "998a9def",
+      "bank_id": "c0b0b600",
+      "text": "Harap Kule"
+    },
+    {
+      "id": "99f4fc41",
+      "bank_id": "c0b0b600",
+      "text": "Çiftçi Giles oğlu için uygun bir eş bulmakta zorlanıyor."
+    },
+    {
+      "id": "9abc9040",
+      "bank_id": "c0b0b600",
+      "text": "Muhafız"
+    },
+    {
+      "id": "9af73cab",
+      "bank_id": "c0b0b600",
+      "text": "Bowerstone mezarcısının mezarlık konağında tuhaf deneyler yaptığı söyleniyor."
+    },
+    {
+      "id": "9b0c862a",
+      "bank_id": "c0b0b600",
+      "text": "Gölgeler Tapınağı'nın sahibi olarak Gölge İblisi unvanını kazandınız. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "9b108e41",
+      "bank_id": "c0b0b600",
+      "text": "Göze basılsın mı?"
+    },
+    {
+      "id": "9b1ee7e6",
+      "bank_id": "c0b0b600",
+      "text": "Hakkınızdaki Fikri:"
+    },
+    {
+      "id": "9bf4ffa7",
+      "bank_id": "c0b0b600",
+      "text": "Barnum Westcliff için büyük bir yeniden geliştirme planlıyor. Tek ihtiyacı yatırımcılar."
+    },
+    {
+      "id": "9bf73e1e",
+      "bank_id": "c0b0b600",
+      "text": "Westcliff'in atış poligonunda yarışın. Kazanılacak ödüller var!"
+    },
+    {
+      "id": "9c040a11",
+      "bank_id": "c0b0b600",
+      "text": "Gargoyle'in gizli hazinesini bulun."
+    },
+    {
+      "id": "9d040b81",
+      "bank_id": "c0b0b600",
+      "text": "Uğursuz Gölgeler Tapınağı yeni üyeler arıyor. Katılmak ister misiniz?"
+    },
+    {
+      "id": "9d040b84",
+      "bank_id": "c0b0b600",
+      "text": "Rookridge ile Oakfield arasındaki köprü harabeye döndü. Yeniden inşasını engelleyen haydutlarla birinin ilgilenmesi gerekiyor."
+    },
+    {
+      "id": "9d8fb64f",
+      "bank_id": "c0b0b600",
+      "text": "Güzellik Uzmanı"
+    },
+    {
+      "id": "9da4f599",
+      "bank_id": "c0b0b600",
+      "text": "Rookridge"
+    },
+    {
+      "id": "9db1fab7",
+      "bank_id": "c0b0b600",
+      "text": "<s4>%1</s4> haritanıza eklendi."
+    },
+    {
+      "id": "9e8a61b7",
+      "bank_id": "c0b0b600",
+      "text": "Gemiyle ve yürüyerek %1 saatlik yolculuk"
+    },
+    {
+      "id": "a004105d",
+      "bank_id": "c0b0b600",
+      "text": "Zavallı Charlie büyükannesiyle piknik yaparken bir mağarada kayboldu."
+    },
+    {
+      "id": "a2f75227",
+      "bank_id": "c0b0b600",
+      "text": "iyi"
+    },
+    {
+      "id": "a4f0005e",
+      "bank_id": "c0b0b600",
+      "text": "Brightwood Mezarı"
+    },
+    {
+      "id": "a915a196",
+      "bank_id": "c0b0b600",
+      "text": "Terk Edilmiş Kale"
+    },
+    {
+      "id": "ab5752ae",
+      "bank_id": "c0b0b600",
+      "text": "Bu karakter için yeni bir isim girin."
+    },
+    {
+      "id": "ab661be8",
+      "bank_id": "c0b0b600",
+      "text": "Kuyu Mağarası"
+    },
+    {
+      "id": "ac0150a5",
+      "bank_id": "c0b0b600",
+      "text": "Çile"
+    },
+    {
+      "id": "ac9a9e99",
+      "bank_id": "c0b0b600",
+      "text": "Kanun Kaçağı olarak anılacak kadar çok suç işlediniz. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "adba3720",
+      "bank_id": "c0b0b600",
+      "text": "sevgi"
+    },
+    {
+      "id": "ae4203c4",
+      "bank_id": "c0b0b600",
+      "text": "Westcliff (25 altın)"
+    },
+    {
+      "id": "af300777",
+      "bank_id": "c0b0b600",
+      "text": "Haydut"
+    },
+    {
+      "id": "b049c054",
+      "bank_id": "c0b0b600",
+      "text": "Obruk"
+    },
+    {
+      "id": "b29f344d",
+      "bank_id": "c0b0b600",
+      "text": "Taş Ustası"
+    },
+    {
+      "id": "b481f0de",
+      "bank_id": "c0b0b600",
+      "text": "Barmen"
+    },
+    {
+      "id": "b71a1c81",
+      "bank_id": "c0b0b600",
+      "text": "Korsan Mağarası"
+    },
+    {
+      "id": "b851914a",
+      "bank_id": "c0b0b600",
+      "text": "Gemiyle %1 saatlik yolculuk"
+    },
+    {
+      "id": "b8bb69b5",
+      "bank_id": "c0b0b600",
+      "text": "Bowerstone Eski Şehir"
+    },
+    {
+      "id": "b96f9cc4",
+      "bank_id": "c0b0b600",
+      "text": "Kapat"
+    },
+    {
+      "id": "baadc655",
+      "bank_id": "c0b0b600",
+      "text": "Bloodstone Koyu"
+    },
+    {
+      "id": "bb854844",
+      "bank_id": "c0b0b600",
+      "text": "Fairfax Kalesi"
+    },
+    {
+      "id": "bd737bfb",
+      "bank_id": "c0b0b600",
+      "text": "Çeşme Mezarı"
+    },
+    {
+      "id": "be13cb35",
+      "bank_id": "c0b0b600",
+      "text": "Ev"
+    },
+    {
+      "id": "be185468",
+      "bank_id": "c0b0b600",
+      "text": "Kış Dağ Evi"
+    },
+    {
+      "id": "be4f62e2",
+      "bank_id": "c0b0b600",
+      "text": "Thag adlı bir haydut Bower Gölü'ne terör estiriyor. Onu öldürmek Bowerstone yolunu açacaktır."
+    },
+    {
+      "id": "be4f62e7",
+      "bank_id": "c0b0b600",
+      "text": "Güç Kahramanı'nı bulmalı ve saflarınıza katmalısınız."
+    },
+    {
+      "id": "bf4f6455",
+      "bank_id": "c0b0b600",
+      "text": "Mirasınızı keşfetme ve Lucien'i bulma yolculuğunuza başlama zamanı geldi."
+    },
+    {
+      "id": "c04f65c8",
+      "bank_id": "c0b0b600",
+      "text": "İrade Kahramanı'nı bulmalı ve saflarınıza katmalısınız."
+    },
+    {
+      "id": "c347aaf4",
+      "bank_id": "c0b0b600",
+      "text": "mizah"
+    },
+    {
+      "id": "c3971410",
+      "bank_id": "c0b0b600",
+      "text": "Haydut Sahili"
+    },
+    {
+      "id": "c56ea417",
+      "bank_id": "c0b0b600",
+      "text": "Eski Kalay Madeni"
+    },
+    {
+      "id": "c5f220b3",
+      "bank_id": "c0b0b600",
+      "text": "Memnun ve mutlu."
+    },
+    {
+      "id": "c770e96b",
+      "bank_id": "c0b0b600",
+      "text": "Satıcı"
+    },
+    {
+      "id": "c802e26c",
+      "bank_id": "c0b0b600",
+      "text": "Wraithmarsh"
+    },
+    {
+      "id": "cad35458",
+      "bank_id": "c0b0b600",
+      "text": "nefret"
+    },
+    {
+      "id": "ce11cbac",
+      "bank_id": "c0b0b600",
+      "text": "Gargoyle Definesi"
+    },
+    {
+      "id": "cfd9625d",
+      "bank_id": "c0b0b600",
+      "text": "Tavuk Kovalayan olarak çağrılmayı hak edecek kadar tavuk tekmelediniz. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "d0b6b73c",
+      "bank_id": "c0b0b600",
+      "text": "kötü"
+    },
+    {
+      "id": "d11caf3a",
+      "bank_id": "c0b0b600",
+      "text": "Çiftlik Yurdu"
+    },
+    {
+      "id": "d18c5f6f",
+      "bank_id": "c0b0b600",
+      "text": "Ödül Avcısı olarak çağrılmayı hak edecek kadar yaratık ve suçlu avladınız. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "d3a2a7eb",
+      "bank_id": "c0b0b600",
+      "text": "Obruk"
+    },
+    {
+      "id": "d4d1891c",
+      "bank_id": "c0b0b600",
+      "text": "Tuvaletlere bu taraftan. Kendi kâğıdınızı getirin."
+    },
+    {
+      "id": "d61ee9f1",
+      "bank_id": "c0b0b600",
+      "text": "Aşk:"
+    },
+    {
+      "id": "dbad1f41",
+      "bank_id": "c0b0b600",
+      "text": "Esprileriniz ve aptalca maskaralıklarınız size Şakacı unvanını kazandırdı. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "dbc0249b",
+      "bank_id": "c0b0b600",
+      "text": "Dükkân Sahibi"
+    },
+    {
+      "id": "dde7c407",
+      "bank_id": "c0b0b600",
+      "text": "Karttaki talimatları takip edin."
+    },
+    {
+      "id": "de14174b",
+      "bank_id": "c0b0b600",
+      "text": "Archon Düğümü"
+    },
+    {
+      "id": "e00e5e0c",
+      "bank_id": "c0b0b600",
+      "text": "Twinblade'in Mezarı"
+    },
+    {
+      "id": "e1db10a9",
+      "bank_id": "c0b0b600",
+      "text": "Muhafızın notunu okuyun ve yaratıkları öldürün."
+    },
+    {
+      "id": "e1dcd275",
+      "bank_id": "c0b0b600",
+      "text": "Brightwood"
+    },
+    {
+      "id": "e33c77f0",
+      "bank_id": "c0b0b600",
+      "text": "Kuaför"
+    },
+    {
+      "id": "e3c9bb39",
+      "bank_id": "c0b0b600",
+      "text": "Parlayan izi takip edin."
+    },
+    {
+      "id": "e3d17501",
+      "bank_id": "c0b0b600",
+      "text": "Bir odunculuk işi mevcut. Odun yarmaktan daha destansı bir şey yoktur."
+    },
+    {
+      "id": "e3d17502",
+      "bank_id": "c0b0b600",
+      "text": "Bir barmenlik işi mevcut. Kusursuz bir bira doldurabilir misin?"
+    },
+    {
+      "id": "e3d17503",
+      "bank_id": "c0b0b600",
+      "text": "Bir demircilik işi mevcut. Albion'daki en keskin kılıçları dövebilir misin?"
+    },
+    {
+      "id": "e441dc8f",
+      "bank_id": "c0b0b600",
+      "text": "Yeni Görev"
+    },
+    {
+      "id": "e568cab2",
+      "bank_id": "c0b0b600",
+      "text": "Faytonla %1 saatlik yolculuk"
+    },
+    {
+      "id": "e59f3479",
+      "bank_id": "c0b0b600",
+      "text": "Bowerstone Pazarı (8 altın)"
+    },
+    {
+      "id": "e94487bb",
+      "bank_id": "c0b0b600",
+      "text": "Ozan"
+    },
+    {
+      "id": "ea01d4aa",
+      "bank_id": "c0b0b600",
+      "text": " "
+    },
+    {
+      "id": "eabd7e9b",
+      "bank_id": "c0b0b600",
+      "text": "Eşiniz artık sizi sevmiyor ve boşanmak istiyor."
+    },
+    {
+      "id": "eac8c9ae",
+      "bank_id": "c0b0b600",
+      "text": "O kadar çok insanın yüreğine korku saldınız ki Korku Tellalı unvanını kazandınız. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "eb55a0a8",
+      "bank_id": "c0b0b600",
+      "text": "Nereye gitmek istersiniz?"
+    },
+    {
+      "id": "ed364876",
+      "bank_id": "c0b0b600",
+      "text": "çekicilik"
+    },
+    {
+      "id": "f14d1cae",
+      "bank_id": "c0b0b600",
+      "text": "korku"
+    },
+    {
+      "id": "f3be72da",
+      "bank_id": "c0b0b600",
+      "text": "Gölgeler Tapınağı"
+    },
+    {
+      "id": "f47f9ac9",
+      "bank_id": "c0b0b600",
+      "text": "Westcliff (12 altın)"
+    },
+    {
+      "id": "f6c8a39a",
+      "bank_id": "c0b0b600",
+      "text": "Deniz yolculuğu masrafını karşılayamıyorsunuz!"
+    },
+    {
+      "id": "f77546ea",
+      "bank_id": "c0b0b600",
+      "text": "Eski Mezar"
+    },
+    {
+      "id": "f8377b7f",
+      "bank_id": "c0b0b600",
+      "text": "Albion'un en ölümcül suikastçısısınız ve bu nedenle Cellat unvanını kazandınız. Bu unvan artık tüm Tellallardan ücretsiz."
+    },
+    {
+      "id": "f865b119",
+      "bank_id": "c0b0b600",
+      "text": "Kuyu"
+    },
+    {
+      "id": "f9062aff",
+      "bank_id": "c0b0b600",
+      "text": "Terry Cotter'ın Ordusu"
+    },
+    {
+      "id": "f90744a7",
+      "bank_id": "c0b0b600",
+      "text": "Bower Gölü"
+    },
+    {
+      "id": "fc6cf46d",
+      "bank_id": "c0b0b600",
+      "text": "Takma Ad Belirle"
+    },
+    {
+      "id": "fc98ee33",
+      "bank_id": "c0b0b600",
+      "text": "Kâbus Çukuru"
+    },
+    {
+      "id": "fd4a343a",
+      "bank_id": "c0b0b600",
+      "text": "Kasa"
+    },
+    {
+      "id": "feda3875",
+      "bank_id": "c0b0b600",
+      "text": "Gölge Mahkemesi"
+    },
+    {
+      "id": "ffd39b74",
+      "bank_id": "c0b0b600",
+      "text": "Lady Grey'in Mezarı"
+    }
+  ]
+}

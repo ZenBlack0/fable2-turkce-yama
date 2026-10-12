@@ -1,0 +1,556 @@
+{
+  "bank_id": "6010ab00",
+  "total_strings": 110,
+  "strings": [
+    {
+      "id": "182006f2",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın tamamen yok edilişi için gölgelere şükranlarımızı sunarız!"
+    },
+    {
+      "id": "182006f3",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın o cici keşişleri gölge solucanları arasında kıvrım kıvrım kıvransın!"
+    },
+    {
+      "id": "3337052a",
+      "bank_id": "6010ab00",
+      "text": "Westcliff'teki atış poligonunda bir şansın olması için usta bir nişancı olman gerekir."
+    },
+    {
+      "id": "3337052b",
+      "bank_id": "6010ab00",
+      "text": "Westcliff atış poligonu öyle zordur ki çoğu insan denemeye bile kalkışmaz."
+    },
+    {
+      "id": "3337052c",
+      "bank_id": "6010ab00",
+      "text": "Ateş etmeyi bildiğini mi sanıyorsun? Westcliff atış poligonunu bir dene de görelim."
+    },
+    {
+      "id": "38370cc9",
+      "bank_id": "6010ab00",
+      "text": "Westcliff atış poligonunu yenen biri var mı emin değilim."
+    },
+    {
+      "id": "38370ccb",
+      "bank_id": "6010ab00",
+      "text": "Westcliff atış poligonunda hiç şansını denedin mi?"
+    },
+    {
+      "id": "38370ccc",
+      "bank_id": "6010ab00",
+      "text": "Westcliff atış poligonu sadece en iyiler içindir."
+    },
+    {
+      "id": "3ed1d166",
+      "bank_id": "6010ab00",
+      "text": "Nihayet o keşişlerden kurtulduk. Bize karşı bir şey yaptıkları yoktu gerçi ama yine de."
+    },
+    {
+      "id": "3ed1d167",
+      "bank_id": "6010ab00",
+      "text": "Işığın o kılı kırk yaran keşişleri gittiğine göre artık kötülüğümüzü yaymakta serbestiz."
+    },
+    {
+      "id": "40b8fb91",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı eskiden ne güzel bir yerdi."
+    },
+    {
+      "id": "40b8fb92",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nı böyle harap halde görmek çok üzücü."
+    },
+    {
+      "id": "40b8fb93",
+      "bank_id": "6010ab00",
+      "text": "O korkunç trajediden beri Oakfield bir daha eskisi gibi olamadı."
+    },
+    {
+      "id": "40b8fb94",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nı böyle harap halde görmek çok üzücü."
+    },
+    {
+      "id": "40b8fb95",
+      "bank_id": "6010ab00",
+      "text": "Oakfield'deki o Tapınak yıllardır terk edilmiş halde."
+    },
+    {
+      "id": "40b8fb96",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nı böyle harap halde görmek çok üzücü."
+    },
+    {
+      "id": "40b8fb97",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nı böyle harap halde görmek çok üzücü."
+    },
+    {
+      "id": "468c38c1",
+      "bank_id": "6010ab00",
+      "text": "Atış poligonunu yenmeyi nasıl başardın?"
+    },
+    {
+      "id": "468c38c4",
+      "bank_id": "6010ab00",
+      "text": "İsteseydim ben de atış poligonunu yenerdim. Canım isteseydi yani."
+    },
+    {
+      "id": "468c38c5",
+      "bank_id": "6010ab00",
+      "text": "Millet hep o poligonun zorluğundan dem vurur. Saçmalık. Baksana sen bile yenebiliyorsun."
+    },
+    {
+      "id": "4bb90cc0",
+      "bank_id": "6010ab00",
+      "text": "Başında gözetleyen bir Tapınak olmasa bile Oakfield yavaş yavaş toparlanıyor gibi."
+    },
+    {
+      "id": "4bb90cc2",
+      "bank_id": "6010ab00",
+      "text": "Oakfield ahalisi o katliamın etkisinden hâlâ kurtulamadı. Üstelik on yıldan fazla oldu."
+    },
+    {
+      "id": "4bb90cc3",
+      "bank_id": "6010ab00",
+      "text": "Tapınak yıkıldığından beri Oakfield asla eskisi gibi olmadı. Bugünlerde bir görsen keşke."
+    },
+    {
+      "id": "4bb90cc4",
+      "bank_id": "6010ab00",
+      "text": "Son birkaç yılda hiç Oakfield'e uğradın mı? O korkunç katliamdan sonra toparlanıyor gibi görünüyor."
+    },
+    {
+      "id": "4bb90cc5",
+      "bank_id": "6010ab00",
+      "text": "Son zamanlarda Oakfield'e gittin mi? Yıllar önceki o katliamdan beri az değişmedi hani."
+    },
+    {
+      "id": "4bb90cc6",
+      "bank_id": "6010ab00",
+      "text": "Tapınak yıkıldığından beri Oakfield asla eskisi gibi olmadı. Bugünlerde bir görsen keşke."
+    },
+    {
+      "id": "4bb90cc7",
+      "bank_id": "6010ab00",
+      "text": "Hizmetkârlarımdan biri bunca yıl önceki o korkunç Oakfield katliamından sağ kurtulanlardan. İyi bir hizmetçidir ama gecenin bir yarısı attığı çığlıklar pek bir can sıkıcı."
+    },
+    {
+      "id": "501703b8",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı başımızın belasıydı. Şimdiyse yalnızca ışıkla kutsandık."
+    },
+    {
+      "id": "501703b9",
+      "bank_id": "6010ab00",
+      "text": "Toprak illetinden şifa buldu. Karanlık tarikatından temizlendi."
+    },
+    {
+      "id": "501703bb",
+      "bank_id": "6010ab00",
+      "text": "Işık bir kez daha Gölge'ye galebe çaldı. Bu an için çok uzun zamandır dua ediyorduk."
+    },
+    {
+      "id": "518c4a73",
+      "bank_id": "6010ab00",
+      "text": "Vay canına! Atış poligonunu yendiğine göre harika bir nişancı olmalısın!"
+    },
+    {
+      "id": "518c4a74",
+      "bank_id": "6010ab00",
+      "text": "Bayağı iyi olmalısın herhalde. Ne de olsa atış poligonunu yendin."
+    },
+    {
+      "id": "518c4a75",
+      "bank_id": "6010ab00",
+      "text": "Bunca atıştan sonra iyi bir ödül alabildin mi bari?"
+    },
+    {
+      "id": "5d1ad008",
+      "bank_id": "6010ab00",
+      "text": "Karın... Şey... Ölü, değil mi? Nasıl bir his peki?"
+    },
+    {
+      "id": "5d1ad00c",
+      "bank_id": "6010ab00",
+      "text": "Seninle yenge şey yaparken... Bilirsin ya... Bir yerinin kopup düşmesinden korkmuyor musun?"
+    },
+    {
+      "id": "5d1ad00e",
+      "bank_id": "6010ab00",
+      "text": "Mezar açmak seni mutluluğa götürüyorsa öyle olsun bakalım. Ama doğrusu pek alışılmadık."
+    },
+    {
+      "id": "621ad829",
+      "bank_id": "6010ab00",
+      "text": "Karın, şey, yani çok hoş tabii ki. Ama şey değil mi, bilirsin ya... Ölü?"
+    },
+    {
+      "id": "621ad82c",
+      "bank_id": "6010ab00",
+      "text": "N'oldu? Seninle evlenecek canlı birini bulamadın mı?"
+    },
+    {
+      "id": "621ad82e",
+      "bank_id": "6010ab00",
+      "text": "Ölümün ötesine geçen aşkları duymuştum ama senin vakan biraz aşırıya kaçmış..."
+    },
+    {
+      "id": "693907fc",
+      "bank_id": "6010ab00",
+      "text": "Diyorum ki, şu menfur Işık Tapınağı'nın icabına bakarsan ahbaplara büyük bir kıyak geçmiş olursun."
+    },
+    {
+      "id": "693907fd",
+      "bank_id": "6010ab00",
+      "text": "Diyorum ki, şu menfur Işık Tapınağı'nın icabına bakarsan ahbaplara büyük bir kıyak geçmiş olursun."
+    },
+    {
+      "id": "6cf6b41a",
+      "bank_id": "6010ab00",
+      "text": "Birinin atış poligonunu yendiği doğru mu?"
+    },
+    {
+      "id": "6f588450",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı'nın yok olması iyi bir şey sanırım, değil mi canım?"
+    },
+    {
+      "id": "6f588451",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı'nın yok olması iyi bir şey sanırım, değil mi canım?"
+    },
+    {
+      "id": "6f588452",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı'nın yok olması iyi bir şey sanırım, değil mi canım?"
+    },
+    {
+      "id": "6f588455",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı'nın yok olması iyi bir şey sanırım, değil mi canım?"
+    },
+    {
+      "id": "6f588457",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı'nın yok olması iyi bir şey sanırım, değil mi canım?"
+    },
+    {
+      "id": "785892b8",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı'nın yok olması iyi bir şey sanırım, değil mi canım?"
+    },
+    {
+      "id": "785892bc",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı'nın yok olması iyi bir şey sanırım, değil mi canım?"
+    },
+    {
+      "id": "785892bd",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı'nın yok olması iyi bir şey sanırım, değil mi canım?"
+    },
+    {
+      "id": "785892bf",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı'nın yok olması iyi bir şey sanırım, değil mi canım?"
+    },
+    {
+      "id": "799c6cd8",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yok olması ne yazık. Sence de öyle değil mi hayatım?"
+    },
+    {
+      "id": "799c6cda",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yok olması ne kadar da yazık. Sence de öyle değil mi hayatım?"
+    },
+    {
+      "id": "799c6cdd",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yok olması ne kadar da yazık. Sence de öyle değil mi hayatım?"
+    },
+    {
+      "id": "799c6cde",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yok olması ne kadar da yazık. Sence de öyle değil mi hayatım?"
+    },
+    {
+      "id": "799c6cdf",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yok olması ne kadar da yazık. Sence de öyle değil mi hayatım?"
+    },
+    {
+      "id": "849c7e0b",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yok olması ne kadar da yazık. Sence de öyle değil mi hayatım?"
+    },
+    {
+      "id": "849c7e0c",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yok olması ne kadar da yazık. Sence de öyle değil mi hayatım?"
+    },
+    {
+      "id": "849c7e0e",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yok olması ne kadar da yazık. Sence de öyle değil mi hayatım?"
+    },
+    {
+      "id": "849c7e0f",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yok olması ne kadar da yazık. Sence de öyle değil mi hayatım?"
+    },
+    {
+      "id": "858b55fd",
+      "bank_id": "6010ab00",
+      "text": "O kadar çok arkadaşım öldürüldü ki... Çok korkunç."
+    },
+    {
+      "id": "858b55fe",
+      "bank_id": "6010ab00",
+      "text": "Burası keşişler olmadan asla eskisi gibi olmayacak. Peki ya ekinlerimiz ne olacak?"
+    },
+    {
+      "id": "858b55ff",
+      "bank_id": "6010ab00",
+      "text": "Başımıza gelen en feci şey bu..."
+    },
+    {
+      "id": "880d2afd",
+      "bank_id": "6010ab00",
+      "text": "Doğru mu? Mezarcı bir zombiyle mi evlendi? Öööğk, gerdek gecesini düşünmek bile istemiyorum..."
+    },
+    {
+      "id": "880d2afe",
+      "bank_id": "6010ab00",
+      "text": "İnsan mezarcının karısının o tuhaf... kokusundan rahatsız olacağını düşünür."
+    },
+    {
+      "id": "908b672c",
+      "bank_id": "6010ab00",
+      "text": "Tapınak artık yokken ekinlerimize ne olacak?"
+    },
+    {
+      "id": "908b672e",
+      "bank_id": "6010ab00",
+      "text": "Tapınak olmadan bizim halimiz ne olacak?"
+    },
+    {
+      "id": "930d3c2c",
+      "bank_id": "6010ab00",
+      "text": "Mezarcının yeni karısıyla tanıştın mı? Onda ters giden bir şeyler var."
+    },
+    {
+      "id": "930d3c2e",
+      "bank_id": "6010ab00",
+      "text": "Mezarcının karısı... Bilmem ki. Bir tuhaf ve tekinsiz duruyor."
+    },
+    {
+      "id": "953ff301",
+      "bank_id": "6010ab00",
+      "text": "İnsan mezarcının karısının o tuhaf... kokusundan rahatsız olacağını düşünür."
+    },
+    {
+      "id": "953ff302",
+      "bank_id": "6010ab00",
+      "text": "Doğru mu? Mezarcı bir zombiyle mi evlendi? Yasal mı ki bu?"
+    },
+    {
+      "id": "9e40016d",
+      "bank_id": "6010ab00",
+      "text": "Mezarcının karısı... Bayağı çürümüş gibi duruyor."
+    },
+    {
+      "id": "a58d1cc1",
+      "bank_id": "6010ab00",
+      "text": "O kokmuş atış poligonunun yanına bile yaklaşmazdım ama bugünlerde çok daha nezih."
+    },
+    {
+      "id": "a58d1cc2",
+      "bank_id": "6010ab00",
+      "text": "Westcliff kendine çeki düzen verdiğinden beri atış poligonuna bayılıyorum."
+    },
+    {
+      "id": "a58d1cc6",
+      "bank_id": "6010ab00",
+      "text": "O aptal atış poligonunda şansımı denedim ama bana göre değilmiş."
+    },
+    {
+      "id": "a58d1cc7",
+      "bank_id": "6010ab00",
+      "text": "Westcliff'teki o atış poligonu fena bozuldu. Tıpkı kasabanın geri kalanı gibi. Eskiden bir karakteri vardı."
+    },
+    {
+      "id": "ab648e7c",
+      "bank_id": "6010ab00",
+      "text": "Ah, Gölgeler Tapınağı eski günlerdeki gibi değil artık..."
+    },
+    {
+      "id": "ab648e7d",
+      "bank_id": "6010ab00",
+      "text": "A evet, kuzenim eskiden Gölgeler Tapınağı'na sık sık giderdi. Ama artık oraya kimse uğramıyor."
+    },
+    {
+      "id": "ae8d2b2a",
+      "bank_id": "6010ab00",
+      "text": "Atış poligonunun eskiden ne kadar döküntü olduğunu hatırlıyor musun? Bir de şimdiki haline bak!"
+    },
+    {
+      "id": "ae8d2b2b",
+      "bank_id": "6010ab00",
+      "text": "O atış poligonu eskiden harikaydı. Şimdiyse süslü bir zırvalıktan ibaret."
+    },
+    {
+      "id": "ae8d2b2c",
+      "bank_id": "6010ab00",
+      "text": "Atış poligonunun eskiden ne kadar döküntü olduğunu hatırlıyor musun? Bir de şimdiki haline bak!"
+    },
+    {
+      "id": "ae8d2b2d",
+      "bank_id": "6010ab00",
+      "text": "Atış poligonunun yeni sahibi eskisinden çok daha kibar."
+    },
+    {
+      "id": "c04b28d0",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı yok olduğu için öyle mutluyum ki!"
+    },
+    {
+      "id": "c04b28d3",
+      "bank_id": "6010ab00",
+      "text": "Bizi Gölgeler Tapınağı belasından kurtardın. Çok teşekkürler!"
+    },
+    {
+      "id": "c04b28d6",
+      "bank_id": "6010ab00",
+      "text": "Şu lanet Gölge tarikatçılarına hiç katlanamazdım. Onlarsız çok daha iyi."
+    },
+    {
+      "id": "c74b33d2",
+      "bank_id": "6010ab00",
+      "text": "O tarikatçılar sana ne yaptı ki sanki? Onları çok sevdiğimden değil gerçi."
+    },
+    {
+      "id": "c74b33d4",
+      "bank_id": "6010ab00",
+      "text": "Gölgeler Tapınağı'nı yok eden sensin. Teşekkür ederiz!"
+    },
+    {
+      "id": "c74b33d6",
+      "bank_id": "6010ab00",
+      "text": "Sayende dünya daha iyi bir yer oldu. Gölgeler Tapınağı artık yok!"
+    },
+    {
+      "id": "d016bd9a",
+      "bank_id": "6010ab00",
+      "text": "Mezarcının karısı... Bilmem ki. Bir tuhaf ve tekinsiz duruyor."
+    },
+    {
+      "id": "e408fd22",
+      "bank_id": "6010ab00",
+      "text": "Westcliff atış poligonu öyle zordur ki çoğu insan denemeye bile kalkışmaz."
+    },
+    {
+      "id": "e408fd23",
+      "bank_id": "6010ab00",
+      "text": "Westcliff'teki atış poligonunda bir şansın olması için usta bir nişancı olman gerekir."
+    },
+    {
+      "id": "ef090e50",
+      "bank_id": "6010ab00",
+      "text": "Westcliff atış poligonunu yenen biri var mı emin değilim."
+    },
+    {
+      "id": "ef090e55",
+      "bank_id": "6010ab00",
+      "text": "Westcliff'teki poligonda bir deneme yaptım ama ikinci turu geçemedim."
+    },
+    {
+      "id": "f109e069",
+      "bank_id": "6010ab00",
+      "text": "Teşekkürler! Teşekkürler! En karanlık düşmanlarımızı hezimete uğrattın."
+    },
+    {
+      "id": "f109e06a",
+      "bank_id": "6010ab00",
+      "text": "Kara gölgeyi bu topraklardan söküp attın. Artık her yer ışık!"
+    },
+    {
+      "id": "f109e06b",
+      "bank_id": "6010ab00",
+      "text": "Bize ve tüm Albion'a büyük bir iyilik ettin. Gölgeler Tapınağı ışıkla arındırıldı!"
+    },
+    {
+      "id": "f45778c0",
+      "bank_id": "6010ab00",
+      "text": "Duymadın mı? Şu gölge herifleri bütün Oakfield keşişlerini kılıçtan geçirmiş. Resmen katliam."
+    },
+    {
+      "id": "f45778c1",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yıkıldığına inanamıyorum. Kim böyle bir şey yapar ki?"
+    },
+    {
+      "id": "f45778c2",
+      "bank_id": "6010ab00",
+      "text": "Doğruymuş. Işık Tapınağı'nın keşişleri artık yaşamıyor."
+    },
+    {
+      "id": "f45778c3",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı keşişleri bu son darbenin ardından asla toparlanamaz."
+    },
+    {
+      "id": "f45778c4",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın harabeye döndüğüne hâlâ inanamıyorum."
+    },
+    {
+      "id": "f45778c6",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'ndaki bütün keşişler ölmüş mü? Nasıl olabilir böyle bir şey?!"
+    },
+    {
+      "id": "f45778c7",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nın yıkıldığına inanamıyorum. Kim böyle bir şey yapar ki?"
+    },
+    {
+      "id": "f95780e0",
+      "bank_id": "6010ab00",
+      "text": "Bana sorarsan her şeye burnunu sokan o keşişler olmadan Oakfield çok daha iyi bir yer oldu."
+    },
+    {
+      "id": "f95780e1",
+      "bank_id": "6010ab00",
+      "text": "Oakfield'de yaşananlar ne feci şey. Duymadın mı yoksa?"
+    },
+    {
+      "id": "f95780e2",
+      "bank_id": "6010ab00",
+      "text": "Oakfield'in o tatlı taşra esintisinde böyle bir şey nasıl gerçekleşebilir?"
+    },
+    {
+      "id": "f95780e3",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nı her kim yıktıysa cezasını çekmeli."
+    },
+    {
+      "id": "f95780e5",
+      "bank_id": "6010ab00",
+      "text": "Oakfield'de yaşananlar öyle korkunç ki. Bütün o insanlar öldürüldü, keşişler bile."
+    },
+    {
+      "id": "f95780e6",
+      "bank_id": "6010ab00",
+      "text": "Işık Tapınağı'nı her kim yıktıysa cezasını çekmeli."
+    },
+    {
+      "id": "f95780e7",
+      "bank_id": "6010ab00",
+      "text": "Oakfield'de ne olduğunu duydun mu? Pek dehşet bir iş."
+    }
+  ]
+}

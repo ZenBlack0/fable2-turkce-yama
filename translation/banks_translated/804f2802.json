@@ -1,0 +1,706 @@
+{
+  "bank_id": "804f2802",
+  "total_strings": 140,
+  "strings": [
+    {
+      "id": "033e2f61",
+      "bank_id": "804f2802",
+      "text": "Ah, ünlü biri bizi ziyaret ediyor!"
+    },
+    {
+      "id": "0e3e4090",
+      "bank_id": "804f2802",
+      "text": "Vay canına, buraya geleceğini hiç düşünmemiştim!"
+    },
+    {
+      "id": "12a867d0",
+      "bank_id": "804f2802",
+      "text": "Daha da ünlü olacağından eminim. Ben de öyle! Ne de olsa seninle evliyim!"
+    },
+    {
+      "id": "12a867d1",
+      "bank_id": "804f2802",
+      "text": "Daha da ünlü olacağından eminim. Ben de öyle! Ne de olsa seninle evliyim!"
+    },
+    {
+      "id": "12a867d3",
+      "bank_id": "804f2802",
+      "text": "Daha da ünlü olacağından eminim. Ben de öyle! Ne de olsa seninle evliyim!"
+    },
+    {
+      "id": "12a867d6",
+      "bank_id": "804f2802",
+      "text": "Gerçekten ünlü olduğunda herkes bana bir prenses gibi davranmak zorunda kalacak. Ah, evet."
+    },
+    {
+      "id": "12a867d7",
+      "bank_id": "804f2802",
+      "text": "Şu şöhret için çalışmaya devam et tatlım. Dünyayı aşan bir üne sahip olmanı istiyorum."
+    },
+    {
+      "id": "131b434d",
+      "bank_id": "804f2802",
+      "text": "Pardon bakar mısınız? Nasıl bu kadar çirkin oldunuz?"
+    },
+    {
+      "id": "19a872d2",
+      "bank_id": "804f2802",
+      "text": "Şu şöhret için çalışmaya devam et tatlım. Dünyayı aşan bir üne sahip olmanı istiyorum."
+    },
+    {
+      "id": "19a872d3",
+      "bank_id": "804f2802",
+      "text": "Daha da ünlü olacağından eminim. Ben de öyle! Ne de olsa seninle evliyim!"
+    },
+    {
+      "id": "19a872d4",
+      "bank_id": "804f2802",
+      "text": "Şöhretin her geçen gün büyüyor sevgilim."
+    },
+    {
+      "id": "19a872d5",
+      "bank_id": "804f2802",
+      "text": "Daha da ünlü olacağından eminim. Ben de öyle! Ne de olsa seninle evliyim!"
+    },
+    {
+      "id": "19a872d6",
+      "bank_id": "804f2802",
+      "text": "Bütün arkadaşlarım seni duymuş. Yakında bütün dünya kim olduğunu bilecek."
+    },
+    {
+      "id": "1e1b54fc",
+      "bank_id": "804f2802",
+      "text": "Öğğk! Sen bir canavar mısın?"
+    },
+    {
+      "id": "1ff3e5f3",
+      "bank_id": "804f2802",
+      "text": "Eminim insanlar bu kadar çirkin olduğun için seninle dalga geçiyordur."
+    },
+    {
+      "id": "26f3f0f6",
+      "bank_id": "804f2802",
+      "text": "Iyyy! Şuna bir bak. Hobbe'lerden bile daha çirkinsin."
+    },
+    {
+      "id": "2a8d26dc",
+      "bank_id": "804f2802",
+      "text": "Senin gibi biri için inanılmaz bir silaha benziyor."
+    },
+    {
+      "id": "2a8d26dd",
+      "bank_id": "804f2802",
+      "text": "Vay canına, elindeki inanılmaz derecede güçlü bir silah!"
+    },
+    {
+      "id": "2a8d26de",
+      "bank_id": "804f2802",
+      "text": "Böylesine harika bir silahı nasıl ele geçirdin?"
+    },
+    {
+      "id": "334c85a0",
+      "bank_id": "804f2802",
+      "text": "Merak etme, çirkinlik bu sezon çok moda."
+    },
+    {
+      "id": "334c85a1",
+      "bank_id": "804f2802",
+      "text": "Sen etraftayken yediklerimi midemde tutabileceğimden emin değilim."
+    },
+    {
+      "id": "334c85a2",
+      "bank_id": "804f2802",
+      "text": "Korkunçluk için ödül verilmemesi ne büyük talihsizlik."
+    },
+    {
+      "id": "334c85a4",
+      "bank_id": "804f2802",
+      "text": "Birdenbire midem bulanmaya başladı."
+    },
+    {
+      "id": "334c85a5",
+      "bank_id": "804f2802",
+      "text": "O yüzü edepli insanların önünde göstermeye devam etmek zorunda mısın?"
+    },
+    {
+      "id": "334c85a6",
+      "bank_id": "804f2802",
+      "text": "Eee, bir Kahraman mısın yoksa hilkat garibesi bir canavar mı?"
+    },
+    {
+      "id": "334c85a7",
+      "bank_id": "804f2802",
+      "text": "Sana bakınca bile içim kalkıyor."
+    },
+    {
+      "id": "3a170380",
+      "bank_id": "804f2802",
+      "text": "Böyle bir göz zevki katiliyle evli olduğuma inanamıyorum."
+    },
+    {
+      "id": "3a170381",
+      "bank_id": "804f2802",
+      "text": "Vay canına! Bu resmen iğrençliğin ta kendisi!"
+    },
+    {
+      "id": "3a170382",
+      "bank_id": "804f2802",
+      "text": "Senin kadar çirkin bir şeyi daha önce hiç görmemiştim."
+    },
+    {
+      "id": "3a170384",
+      "bank_id": "804f2802",
+      "text": "Böyle bir çirkinlik kayıtlara geçmeden kalmamalı. Gerçekten tarihi bir an."
+    },
+    {
+      "id": "3a170385",
+      "bank_id": "804f2802",
+      "text": "Bu resmen iğrençliğin ta kendisi!"
+    },
+    {
+      "id": "3a170386",
+      "bank_id": "804f2802",
+      "text": "Gözlerimin şimdiye kadar katlanmak zorunda kaldığı en çirkin şeysin."
+    },
+    {
+      "id": "3a170387",
+      "bank_id": "804f2802",
+      "text": "Sana bakmak midemi altüst ediyor."
+    },
+    {
+      "id": "3c4c9388",
+      "bank_id": "804f2802",
+      "text": "Çirkinliğin tehlikeleri konusunda muazzam bir reklam panosu gibisin."
+    },
+    {
+      "id": "3c4c9389",
+      "bank_id": "804f2802",
+      "text": "Gezgin ucube topluluğu en büyük gösteri yıldızını arıyor olmalı."
+    },
+    {
+      "id": "3c4c938a",
+      "bank_id": "804f2802",
+      "text": "Öğğ, akşam yemeğimi burnumdan getireceksin."
+    },
+    {
+      "id": "3c4c938b",
+      "bank_id": "804f2802",
+      "text": "Öh! Demek bir trol bir hobbe ile çiftleşse ortaya bu çıkarmış."
+    },
+    {
+      "id": "3c4c938c",
+      "bank_id": "804f2802",
+      "text": "Herkes gözlerini kaçırsın!"
+    },
+    {
+      "id": "3c4c938d",
+      "bank_id": "804f2802",
+      "text": "Öğğ, akşam yemeğimi burnumdan getireceksin."
+    },
+    {
+      "id": "3c4c938f",
+      "bank_id": "804f2802",
+      "text": "Amacın çirkin olmaksa tam turnayı gözünden vurmuşsun."
+    },
+    {
+      "id": "431711e8",
+      "bank_id": "804f2802",
+      "text": "Güzellik sadece derinin yüzeyindedir derler ama senin güzellik yoksunluğun akıl almaz derecede derin."
+    },
+    {
+      "id": "431711e9",
+      "bank_id": "804f2802",
+      "text": "Belki de o hırpalanmış tipini düzeltebilecek bir ameliyat vardır."
+    },
+    {
+      "id": "431711ea",
+      "bank_id": "804f2802",
+      "text": "Sana bakmak midemdeki safranın yukarı fırlamasına sebep oluyor."
+    },
+    {
+      "id": "431711eb",
+      "bank_id": "804f2802",
+      "text": "Hayatımda ne manzaralar gördüm ama açık ara en çirkini sensin."
+    },
+    {
+      "id": "431711ec",
+      "bank_id": "804f2802",
+      "text": "Korkunç bir kaza falan mı geçirdin sen?"
+    },
+    {
+      "id": "431711ed",
+      "bank_id": "804f2802",
+      "text": "Körlüğü resmen bir nimete dönüştürüyorsun."
+    },
+    {
+      "id": "431711ef",
+      "bank_id": "804f2802",
+      "text": "Korkunçluğun bile adını kirletiyorsun."
+    },
+    {
+      "id": "447f0020",
+      "bank_id": "804f2802",
+      "text": "Şöhretin bize senden önce ulaştı yabancı."
+    },
+    {
+      "id": "447f0021",
+      "bank_id": "804f2802",
+      "text": "Ah, sensin demek. Buralara yabancı olabilirsin ama haberler tez yayılır."
+    },
+    {
+      "id": "447f0023",
+      "bank_id": "804f2802",
+      "text": "Hepimiz yaptıklarını duyduk yabancı."
+    },
+    {
+      "id": "447f0026",
+      "bank_id": "804f2802",
+      "text": "Ha evet, kim olduğunu hepimiz biliyoruz yabancı."
+    },
+    {
+      "id": "447f0027",
+      "bank_id": "804f2802",
+      "text": "Selam. Buralara pek ünlü ziyaretçi gelmez."
+    },
+    {
+      "id": "4b7f0b22",
+      "bank_id": "804f2802",
+      "text": "Buraya geldiğine inanamıyorum. Ünlü insanlar buraya asla uğramaz."
+    },
+    {
+      "id": "4b7f0b23",
+      "bank_id": "804f2802",
+      "text": "Kasabaya yeni gelmiş olsan bile çoğu insan kim olduğunu biliyor."
+    },
+    {
+      "id": "4b7f0b24",
+      "bank_id": "804f2802",
+      "text": "Vay canına, kasabamızda bir şöhret! Ne zaman geldin?"
+    },
+    {
+      "id": "4b7f0b25",
+      "bank_id": "804f2802",
+      "text": "Yaptığın işlerin haberi senden önce ulaştı bize yabancı."
+    },
+    {
+      "id": "4b7f0b26",
+      "bank_id": "804f2802",
+      "text": "Yaptıklarının namı senden önce geliyor."
+    },
+    {
+      "id": "78516f51",
+      "bank_id": "804f2802",
+      "text": "Öğğk! Popoya benziyorsun!"
+    },
+    {
+      "id": "83518080",
+      "bank_id": "804f2802",
+      "text": "Çok komik görünüyorsun. Bir de çirkin."
+    },
+    {
+      "id": "93ee1aa4",
+      "bank_id": "804f2802",
+      "text": "Belli bir derece ün kazanmış olmana çok sevindim canım."
+    },
+    {
+      "id": "93ee1aa5",
+      "bank_id": "804f2802",
+      "text": "Ünün yayıldıkça sana olan sevgim de yayılıyor canım. Hmm, sevgi yayılabilir, değil mi?"
+    },
+    {
+      "id": "93ee1aa6",
+      "bank_id": "804f2802",
+      "text": "Buralardaki herkes kim olduğunu biliyor tatlım. Diğer yerlerin çoğunda da öyle!"
+    },
+    {
+      "id": "9f3f49f7",
+      "bank_id": "804f2802",
+      "text": "Gerçekten sensin! Bu döküntü kasabaya geleceğine inanamıyorum."
+    },
+    {
+      "id": "a3f44a28",
+      "bank_id": "804f2802",
+      "text": "Korkunç bir canavar gibi görünmek zorunda mısın gerçekten?"
+    },
+    {
+      "id": "a3f44a2a",
+      "bank_id": "804f2802",
+      "text": "Etrafta bu kadar korkunç görünerek dolaşmaya hiç gerek yok aşkım."
+    },
+    {
+      "id": "a3f44a2b",
+      "bank_id": "804f2802",
+      "text": "Etrafta bu kadar korkunç görünerek dolaşmaya hiç gerek yok aşkım."
+    },
+    {
+      "id": "a3f44a2c",
+      "bank_id": "804f2802",
+      "text": "Güzel değilsin canım, bunu biliyorum. Ama biraz çaba göstersen olmaz mı?"
+    },
+    {
+      "id": "a3f44a2d",
+      "bank_id": "804f2802",
+      "text": "Böyle bir göz zevki katiliyle evli olduğuma inanamıyorum."
+    },
+    {
+      "id": "a63f54fa",
+      "bank_id": "804f2802",
+      "text": "Yenisin buralarda. Ama adını duydum."
+    },
+    {
+      "id": "a8f451c9",
+      "bank_id": "804f2802",
+      "text": "Korkunç bir canavar gibi görünmek zorunda mısın gerçekten?"
+    },
+    {
+      "id": "a8f451ca",
+      "bank_id": "804f2802",
+      "text": "Etrafta bu kadar korkunç görünerek dolaşmaya hiç gerek yok aşkım."
+    },
+    {
+      "id": "a8f451cb",
+      "bank_id": "804f2802",
+      "text": "Sadece dış görünüşe önem verdiğimden değil. Ama senden iğrenmemek de güzel olurdu hani."
+    },
+    {
+      "id": "a8f451cc",
+      "bank_id": "804f2802",
+      "text": "Böyle bir göz zevki katiliyle evli olduğuma inanamıyorum."
+    },
+    {
+      "id": "a8f451cd",
+      "bank_id": "804f2802",
+      "text": "Güzel değilsin canım, bunu biliyorum. Ama biraz çaba göstersen olmaz mı?"
+    },
+    {
+      "id": "c3394d50",
+      "bank_id": "804f2802",
+      "text": "Vay canına! Sensin! Sen daha buraya gelmeden önce bile hakkında çok şey duymuştum!"
+    },
+    {
+      "id": "c3394d51",
+      "bank_id": "804f2802",
+      "text": "Buralarda daha önce hiç bu kadar ünlü birini görmemiştik."
+    },
+    {
+      "id": "c3394d53",
+      "bank_id": "804f2802",
+      "text": "Hepimiz seni duyduk yabancı."
+    },
+    {
+      "id": "c3394d54",
+      "bank_id": "804f2802",
+      "text": "Ah, evet yabancı, kim olduğunu biliyorum. Namın senden önce geliyor."
+    },
+    {
+      "id": "c3394d55",
+      "bank_id": "804f2802",
+      "text": "Kasabamıza hoş geldiniz. Böylesine yüksek üne sahip ziyaretçilerimiz pek nadir olur."
+    },
+    {
+      "id": "c3394d56",
+      "bank_id": "804f2802",
+      "text": "Hey yabancı, buralarda seni duymayan kalmadı."
+    },
+    {
+      "id": "c3394d57",
+      "bank_id": "804f2802",
+      "text": "Burada yeni olabilirsin ama hakkında her şeyi duyduk."
+    },
+    {
+      "id": "ca395850",
+      "bank_id": "804f2802",
+      "text": "Namın bize çoktan ulaştı yabancı."
+    },
+    {
+      "id": "ca395851",
+      "bank_id": "804f2802",
+      "text": "Yüceliğin kulaklarıma kadar geldi yabancı."
+    },
+    {
+      "id": "ca395852",
+      "bank_id": "804f2802",
+      "text": "Senin hakkında epey şey duyduk yabancı."
+    },
+    {
+      "id": "ca395853",
+      "bank_id": "804f2802",
+      "text": "Hey, senin hakkında çok şey duydum yabancı."
+    },
+    {
+      "id": "ca395854",
+      "bank_id": "804f2802",
+      "text": "Ah, daha önce tanışmadık ama adını kesinlikle duydum!"
+    },
+    {
+      "id": "ca395855",
+      "bank_id": "804f2802",
+      "text": "Yabancı olabilirsin ama buralarda bilinmeyen biri değilsin."
+    },
+    {
+      "id": "ca395856",
+      "bank_id": "804f2802",
+      "text": "Tanışmadık ama kim olduğunu biliyorum!"
+    },
+    {
+      "id": "cd6ba141",
+      "bank_id": "804f2802",
+      "text": "Vay canına, ünlülerin dünyanın bu köşesine geleceğini hiç düşünmezdim. Hoş geldiniz."
+    },
+    {
+      "id": "cd6ba142",
+      "bank_id": "804f2802",
+      "text": "Burada olmanız ne harika bir sürpriz. Şöhretiniz hepimize ulaştı."
+    },
+    {
+      "id": "cd6ba144",
+      "bank_id": "804f2802",
+      "text": "Ah, dünyanın bu köşesine hoş geldiniz dememe izin verin, ünlü maceracı."
+    },
+    {
+      "id": "cd6ba146",
+      "bank_id": "804f2802",
+      "text": "Dünyanın bu köşesini ziyaret etmeye karar vermeniz harika. Buralarda gerçek bir şöhretsiniz."
+    },
+    {
+      "id": "cd6ba147",
+      "bank_id": "804f2802",
+      "text": "Dünyanın bizim tarafımıza hoş geldiniz, ünlü maceracı!"
+    },
+    {
+      "id": "d26ba960",
+      "bank_id": "804f2802",
+      "text": "Buraları ilk kez mi ziyaret ediyorsun? Pek ünlü görmeyiz biz."
+    },
+    {
+      "id": "d26ba962",
+      "bank_id": "804f2802",
+      "text": "Buralara yabancı olabilirsin ama yaptıklarının haberi buraya çoktan ulaştı."
+    },
+    {
+      "id": "d26ba965",
+      "bank_id": "804f2802",
+      "text": "Daha önce buraya gelmemiştin, değil mi? Maceralarının hikâyeleri buraya kadar ulaştı ama."
+    },
+    {
+      "id": "d26ba966",
+      "bank_id": "804f2802",
+      "text": "Ah, dünyanın bu köşesine ne zaman geleceğini merak ediyordum, maceracı."
+    },
+    {
+      "id": "d26ba967",
+      "bank_id": "804f2802",
+      "text": "Ah, merhaba! Buralarda yeni olabilirsin ama hakkında her şeyi duyduk!"
+    },
+    {
+      "id": "dff7fe01",
+      "bank_id": "804f2802",
+      "text": "Bütün kasabamızı çirkin gösteriyorsun!"
+    },
+    {
+      "id": "dff7fe02",
+      "bank_id": "804f2802",
+      "text": "Öğğ, yüzünde bir şey var! Ah, o senin yüzünmüş meğer!"
+    },
+    {
+      "id": "dff7fe03",
+      "bank_id": "804f2802",
+      "text": "Aman yarabbim, şu manzaraya da bakın!"
+    },
+    {
+      "id": "dff7fe04",
+      "bank_id": "804f2802",
+      "text": "Gah! Gözlerim!"
+    },
+    {
+      "id": "dff7fe05",
+      "bank_id": "804f2802",
+      "text": "Hay bin hobbe aşkına, şu manzaraya bak!"
+    },
+    {
+      "id": "dff7fe06",
+      "bank_id": "804f2802",
+      "text": "Mesele sadece çekici olmaman değil. Resmen bakılamaz derecedesin."
+    },
+    {
+      "id": "dff7fe07",
+      "bank_id": "804f2802",
+      "text": "Bütün mahallenin havasını bozuyorsun."
+    },
+    {
+      "id": "eaf80fb0",
+      "bank_id": "804f2802",
+      "text": "Bu kadar itici hale gelmek yıllarını almış olmalı."
+    },
+    {
+      "id": "eaf80fb2",
+      "bank_id": "804f2802",
+      "text": "Yüz nakli yaptırmayı hiç düşündün mü?"
+    },
+    {
+      "id": "eaf80fb3",
+      "bank_id": "804f2802",
+      "text": "Teşekkür ederim! Sırf senin yanında durduğum için kendimi yakışıklı hissediyorum."
+    },
+    {
+      "id": "eaf80fb4",
+      "bank_id": "804f2802",
+      "text": "Öğğ! Bir tür kaza falan geçirmiş olmalısın."
+    },
+    {
+      "id": "eaf80fb5",
+      "bank_id": "804f2802",
+      "text": "Valla domuzlar iki ayak üstünde yürüseydi..."
+    },
+    {
+      "id": "eaf80fb6",
+      "bank_id": "804f2802",
+      "text": "Bana çocukken gördüğüm bir trolü hatırlatıyorsun, öğğ."
+    },
+    {
+      "id": "eaf80fb7",
+      "bank_id": "804f2802",
+      "text": "Böyle görünmene sebep olacak korkunç bir şey yaşanmış olmalı."
+    },
+    {
+      "id": "efe6ea78",
+      "bank_id": "804f2802",
+      "text": "Gah! Resmen bir trolle evlenmişim."
+    },
+    {
+      "id": "efe6ea79",
+      "bank_id": "804f2802",
+      "text": "Hayatımın geri kalanında o yüzünü göreceğimi düşündükçe."
+    },
+    {
+      "id": "efe6ea7a",
+      "bank_id": "804f2802",
+      "text": "Komşuları iğrendirmemeni istemek çok mu fazla? Ya da beni tabii."
+    },
+    {
+      "id": "efe6ea7b",
+      "bank_id": "804f2802",
+      "text": "Aşkımız sadece dış görünüşten ibaret değil canım ama belki de yeni bir cilde ihtiyacın vardır."
+    },
+    {
+      "id": "efe6ea7d",
+      "bank_id": "804f2802",
+      "text": "Gerçekten tatlım, biraz daha çaba gösterebilirdin."
+    },
+    {
+      "id": "efe6ea7e",
+      "bank_id": "804f2802",
+      "text": "Evlendiğimizde de böyle mi görünüyordun sen?"
+    },
+    {
+      "id": "efe6ea7f",
+      "bank_id": "804f2802",
+      "text": "Nasıl göründüğünün pek bir önemi yok sanırım. Ama yine de."
+    },
+    {
+      "id": "f55833c8",
+      "bank_id": "804f2802",
+      "text": "Şey, biraz makyaj yapmayı denedin mi hiç tatlım?"
+    },
+    {
+      "id": "f55833ca",
+      "bank_id": "804f2802",
+      "text": "Sevgilim, son zamanlarda kendini epey saldın, değil mi?"
+    },
+    {
+      "id": "f55833cb",
+      "bank_id": "804f2802",
+      "text": "Benim için hâlâ güzelsin. Yani, tamamen itici sayılmazsın en azından."
+    },
+    {
+      "id": "f55833cc",
+      "bank_id": "804f2802",
+      "text": "Hayatımın geri kalanında o yüzünü göreceğimi düşündükçe."
+    },
+    {
+      "id": "f55833cd",
+      "bank_id": "804f2802",
+      "text": "Evliyiz falan biliyorum ama dostum, çok çirkinsin be."
+    },
+    {
+      "id": "f55833ce",
+      "bank_id": "804f2802",
+      "text": "Korkunçluk bir eşte aranan en cazip özellik değil doğrusu, hiç değil."
+    },
+    {
+      "id": "f55833cf",
+      "bank_id": "804f2802",
+      "text": "İlk tanıştığımızdan beri simanın... şey... değiştiğine eminim."
+    },
+    {
+      "id": "fa583be9",
+      "bank_id": "804f2802",
+      "text": "Gerçekten tatlım, biraz daha çaba gösterebilirdin."
+    },
+    {
+      "id": "fa583bea",
+      "bank_id": "804f2802",
+      "text": "Evlendiğimizde de böyle mi görünüyordun sen?"
+    },
+    {
+      "id": "fa583beb",
+      "bank_id": "804f2802",
+      "text": "Nasıl göründüğünün pek bir önemi yok sanırım. Ama yine de."
+    },
+    {
+      "id": "fa583bec",
+      "bank_id": "804f2802",
+      "text": "Gah! Resmen bir trolle evlenmişim."
+    },
+    {
+      "id": "fa583bed",
+      "bank_id": "804f2802",
+      "text": "Hayatımın geri kalanında o yüzünü göreceğimi düşündükçe."
+    },
+    {
+      "id": "fa583bee",
+      "bank_id": "804f2802",
+      "text": "Komşuları iğrendirmemeni istemek çok mu fazla? Ya da beni tabii."
+    },
+    {
+      "id": "fa583bef",
+      "bank_id": "804f2802",
+      "text": "Aşkımız sadece dış görünüşten ibaret değil ama belki yeni bir cilde ihtiyacın vardır."
+    },
+    {
+      "id": "fae6fba8",
+      "bank_id": "804f2802",
+      "text": "Bir miğfer takmayı hiç düşündün mü sevgilim? Daha güvenli olurdu. Ben de yüzünü görmek zorunda kalmazdım."
+    },
+    {
+      "id": "fae6fba9",
+      "bank_id": "804f2802",
+      "text": "Evliyiz falan biliyorum ama oğlum çok çirkinsin be."
+    },
+    {
+      "id": "fae6fbaa",
+      "bank_id": "804f2802",
+      "text": "Korkunçluk bir kocada aranan en cazip özellik değil doğrusu."
+    },
+    {
+      "id": "fae6fbab",
+      "bank_id": "804f2802",
+      "text": "İlk tanıştığımızdan beri simanın... şey... değiştiğine eminim."
+    },
+    {
+      "id": "fae6fbac",
+      "bank_id": "804f2802",
+      "text": "Görünüşün hakkında bir şeyler yapmayı denedin mi hiç tatlım?"
+    },
+    {
+      "id": "fae6fbae",
+      "bank_id": "804f2802",
+      "text": "Sevgilim, son zamanlarda kendini epey saldın, değil mi?"
+    },
+    {
+      "id": "fae6fbaf",
+      "bank_id": "804f2802",
+      "text": "Benim için hâlâ yakışıklısın canım. Yani, tamamen itici sayılmazsın en azından."
+    }
+  ]
+}

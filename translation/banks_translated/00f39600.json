@@ -1,0 +1,1716 @@
+{
+  "bank_id": "00f39600",
+  "total_strings": 342,
+  "strings": [
+    {
+      "id": "001fe93d",
+      "bank_id": "00f39600",
+      "text": "Lehçe (Polonya)"
+    },
+    {
+      "id": "00b1a806",
+      "bank_id": "00f39600",
+      "text": "Müzik"
+    },
+    {
+      "id": "00f9c577",
+      "bank_id": "00f39600",
+      "text": "Fiyatları Ayarla"
+    },
+    {
+      "id": "013f2933",
+      "bank_id": "00f39600",
+      "text": "Kontroller"
+    },
+    {
+      "id": "0147601b",
+      "bank_id": "00f39600",
+      "text": "Yunanca (Yunanistan)"
+    },
+    {
+      "id": "0211eff4",
+      "bank_id": "00f39600",
+      "text": "Etkileşim"
+    },
+    {
+      "id": "023e0ad7",
+      "bank_id": "00f39600",
+      "text": "Xbox LIVE eşli oyun indirmesi %1 gün içinde hazır!"
+    },
+    {
+      "id": "02ade71d",
+      "bank_id": "00f39600",
+      "text": "Belediye Binası"
+    },
+    {
+      "id": "03ad1440",
+      "bank_id": "00f39600",
+      "text": "Giysi Satın Al"
+    },
+    {
+      "id": "0401e829",
+      "bank_id": "00f39600",
+      "text": "Suç"
+    },
+    {
+      "id": "05829286",
+      "bank_id": "00f39600",
+      "text": "Kaydet ve Çık"
+    },
+    {
+      "id": "058b94c1",
+      "bank_id": "00f39600",
+      "text": "Slovakça (Slovakya)"
+    },
+    {
+      "id": "07db8692",
+      "bank_id": "00f39600",
+      "text": "Aileler"
+    },
+    {
+      "id": "095c5507",
+      "bank_id": "00f39600",
+      "text": "Oyun"
+    },
+    {
+      "id": "095f28ea",
+      "bank_id": "00f39600",
+      "text": "Kiraya Ver"
+    },
+    {
+      "id": "0a67c423",
+      "bank_id": "00f39600",
+      "text": "İçecek Tüccarı"
+    },
+    {
+      "id": "0b8eed14",
+      "bank_id": "00f39600",
+      "text": "Tüfek Tüccarı"
+    },
+    {
+      "id": "0badc909",
+      "bank_id": "00f39600",
+      "text": "İrade - Kaos"
+    },
+    {
+      "id": "0c6c82e8",
+      "bank_id": "00f39600",
+      "text": "Güzellik Uzmanı"
+    },
+    {
+      "id": "0d353934",
+      "bank_id": "00f39600",
+      "text": "Satın Al ve Taşın"
+    },
+    {
+      "id": "0d6665e8",
+      "bank_id": "00f39600",
+      "text": "Dekorasyon"
+    },
+    {
+      "id": "0d898694",
+      "bank_id": "00f39600",
+      "text": "Posta"
+    },
+    {
+      "id": "0e3d8e95",
+      "bank_id": "00f39600",
+      "text": "Kahraman Görüşü"
+    },
+    {
+      "id": "102dc52e",
+      "bank_id": "00f39600",
+      "text": "Et Tüccarı"
+    },
+    {
+      "id": "10ce3657",
+      "bank_id": "00f39600",
+      "text": "Sat"
+    },
+    {
+      "id": "110d996d",
+      "bank_id": "00f39600",
+      "text": "Ev"
+    },
+    {
+      "id": "121a1280",
+      "bank_id": "00f39600",
+      "text": "Bilinmiyor"
+    },
+    {
+      "id": "121a1281",
+      "bank_id": "00f39600",
+      "text": "Tanınan"
+    },
+    {
+      "id": "121a1282",
+      "bank_id": "00f39600",
+      "text": "Aşina"
+    },
+    {
+      "id": "121a1283",
+      "bank_id": "00f39600",
+      "text": "Gözde"
+    },
+    {
+      "id": "121a1284",
+      "bank_id": "00f39600",
+      "text": "Meşhur"
+    },
+    {
+      "id": "121a1285",
+      "bank_id": "00f39600",
+      "text": "Seçkin"
+    },
+    {
+      "id": "121a1286",
+      "bank_id": "00f39600",
+      "text": "Öncü"
+    },
+    {
+      "id": "121a1287",
+      "bank_id": "00f39600",
+      "text": "Efsanevi"
+    },
+    {
+      "id": "142d4a90",
+      "bank_id": "00f39600",
+      "text": "Küt"
+    },
+    {
+      "id": "14d592a1",
+      "bank_id": "00f39600",
+      "text": "Portekizce (Brezilya)"
+    },
+    {
+      "id": "15c2eadb",
+      "bank_id": "00f39600",
+      "text": "Oyun"
+    },
+    {
+      "id": "178bc2f2",
+      "bank_id": "00f39600",
+      "text": "Mini Harita"
+    },
+    {
+      "id": "195dd905",
+      "bank_id": "00f39600",
+      "text": "Saf"
+    },
+    {
+      "id": "197b2f89",
+      "bank_id": "00f39600",
+      "text": "2. Oyuncu Duraklattı"
+    },
+    {
+      "id": "19cf8a56",
+      "bank_id": "00f39600",
+      "text": "Hasar Türleri:"
+    },
+    {
+      "id": "19e5a287",
+      "bank_id": "00f39600",
+      "text": "Herkes"
+    },
+    {
+      "id": "1c42a3de",
+      "bank_id": "00f39600",
+      "text": "<b>Temel Değer</b>\nBinanın eşyasız temel fiyatıdır.\n\n<b>Kasaba Ekonomisi</b>\nBir kasaba ne kadar zenginse, içindeki binaların fiyatları da o kadar yüksek olur. Kasaba ekonomik bir durgunluk yaşıyorsa, fiyatlar ciddi oranda düşecektir.\n\n<b>Boş Değil</b>\nSatın almak istediğiniz evde hâlâ oturanlar varsa, mevcut sakinleri taşınmaya ikna etmek için fazladan ödeme yapmanız gerekecektir.\n\n<b>Sahibi Öldürüldü</b>\nHiçbir şey emlak fiyatlarını cinayet kadar düşüremez. Bir evin sahiplerini katletmek, kötü kalpli kodamanların en sevdiği taktiktir. \n\n<b>Kahraman Hakkındaki Görüş</b>\nBir evin sahipleri sizden hoşlanıyorsa, fiyatı sizin için kırmaya razı olacaklardır. Tabii sizden nefret ediyorlarsa, devasa bir fiyat artışına hazırlıklı olun.\n\n<b>Satış Fiyatı</b>\nYukarıdaki tüm etkenlere dayanan genel fiyattır."
+    },
+    {
+      "id": "1d8a61aa",
+      "bank_id": "00f39600",
+      "text": "Adres"
+    },
+    {
+      "id": "1d8c2713",
+      "bank_id": "00f39600",
+      "text": "Silah Tüccarı"
+    },
+    {
+      "id": "203a48f3",
+      "bank_id": "00f39600",
+      "text": "Satın Al ve Eşinizle Taşının"
+    },
+    {
+      "id": "20b9c54f",
+      "bank_id": "00f39600",
+      "text": "İyi/Saf Eylemler"
+    },
+    {
+      "id": "2320b7e0",
+      "bank_id": "00f39600",
+      "text": "Hediye"
+    },
+    {
+      "id": "24295be3",
+      "bank_id": "00f39600",
+      "text": "Almanca (Almanya)"
+    },
+    {
+      "id": "24914d01",
+      "bank_id": "00f39600",
+      "text": "Kötü olduğunuz kadar yozlaşmışsınız da. Dünya böylesine karanlık bir varlığı nâdiren görmüştür."
+    },
+    {
+      "id": "253fc723",
+      "bank_id": "00f39600",
+      "text": "Hediye"
+    },
+    {
+      "id": "265b02af",
+      "bank_id": "00f39600",
+      "text": "Günlük kesilecek ev bütçesini belirleyin"
+    },
+    {
+      "id": "26d5af1d",
+      "bank_id": "00f39600",
+      "text": "Portekizce (Portekiz)"
+    },
+    {
+      "id": "27b5db97",
+      "bank_id": "00f39600",
+      "text": "%1 oyuncusunu atmak istediğinizden emin misiniz?"
+    },
+    {
+      "id": "2afd7894",
+      "bank_id": "00f39600",
+      "text": "Görevler/Haritalar"
+    },
+    {
+      "id": "2c6cebba",
+      "bank_id": "00f39600",
+      "text": "Parıldayan İz Parlaklığı"
+    },
+    {
+      "id": "2cc37858",
+      "bank_id": "00f39600",
+      "text": "Soğuk"
+    },
+    {
+      "id": "2d9f1ffa",
+      "bank_id": "00f39600",
+      "text": "Yozlaşmış"
+    },
+    {
+      "id": "2e5b950c",
+      "bank_id": "00f39600",
+      "text": "İrade - Cehennem Ateşi"
+    },
+    {
+      "id": "2f763ac6",
+      "bank_id": "00f39600",
+      "text": "Genel"
+    },
+    {
+      "id": "2fe8d768",
+      "bank_id": "00f39600",
+      "text": "<y_img>"
+    },
+    {
+      "id": "30ca1cf3",
+      "bank_id": "00f39600",
+      "text": "Tabanca Tüccarı"
+    },
+    {
+      "id": "31b6804a",
+      "bank_id": "00f39600",
+      "text": "%d altınınız var"
+    },
+    {
+      "id": "3503f261",
+      "bank_id": "00f39600",
+      "text": "Japonca"
+    },
+    {
+      "id": "352fa3db",
+      "bank_id": "00f39600",
+      "text": "Albion'un gördüğü en saf ve en hayırsever varlıksınız."
+    },
+    {
+      "id": "35a4feac",
+      "bank_id": "00f39600",
+      "text": "Bağnaz"
+    },
+    {
+      "id": "35d5c571",
+      "bank_id": "00f39600",
+      "text": "%s konumuna seyahat etmek istiyor musunuz? Burası '%s' için en yakın noktadır. (Bu yolculuk %s sürecektir.)"
+    },
+    {
+      "id": "3603f3fc",
+      "bank_id": "00f39600",
+      "text": "Korece"
+    },
+    {
+      "id": "3645897a",
+      "bank_id": "00f39600",
+      "text": "Takip Et"
+    },
+    {
+      "id": "36d15c01",
+      "bank_id": "00f39600",
+      "text": "Fransızca (Fransa)"
+    },
+    {
+      "id": "3703f50f",
+      "bank_id": "00f39600",
+      "text": "Hintçe"
+    },
+    {
+      "id": "3703f513",
+      "bank_id": "00f39600",
+      "text": "Macarca"
+    },
+    {
+      "id": "3771214a",
+      "bank_id": "00f39600",
+      "text": "Başkalarının kaderini umursamayacak kadar kendi zevklerinizle meşgulsünüz."
+    },
+    {
+      "id": "3803f68d",
+      "bank_id": "00f39600",
+      "text": "İtalyanca"
+    },
+    {
+      "id": "381a3f55",
+      "bank_id": "00f39600",
+      "text": "<x_img>"
+    },
+    {
+      "id": "382a8be0",
+      "bank_id": "00f39600",
+      "text": "İrade - Zaman Kontrolü"
+    },
+    {
+      "id": "382b2a00",
+      "bank_id": "00f39600",
+      "text": "Bilinmiyor"
+    },
+    {
+      "id": "3903f820",
+      "bank_id": "00f39600",
+      "text": "Hollandaca"
+    },
+    {
+      "id": "3903f823",
+      "bank_id": "00f39600",
+      "text": "Norveççe"
+    },
+    {
+      "id": "3add2659",
+      "bank_id": "00f39600",
+      "text": "Kesici"
+    },
+    {
+      "id": "3d138a3a",
+      "bank_id": "00f39600",
+      "text": "%s konumuna seyahat etmek istiyor musunuz? Burası '%s' için en yakın noktadır."
+    },
+    {
+      "id": "3de3e1a6",
+      "bank_id": "00f39600",
+      "text": "İksir Tüccarı"
+    },
+    {
+      "id": "3e040011",
+      "bank_id": "00f39600",
+      "text": "Çekçe"
+    },
+    {
+      "id": "3e680d0e",
+      "bank_id": "00f39600",
+      "text": "Giysi Sat"
+    },
+    {
+      "id": "3e6913a1",
+      "bank_id": "00f39600",
+      "text": "Ses"
+    },
+    {
+      "id": "40040323",
+      "bank_id": "00f39600",
+      "text": "Arapça"
+    },
+    {
+      "id": "40040337",
+      "bank_id": "00f39600",
+      "text": "Afrikaanca"
+    },
+    {
+      "id": "405d404f",
+      "bank_id": "00f39600",
+      "text": "Her eyleminize habislik yön veriyor. Başka hiçbir şeyi zerre umursamıyorsunuz."
+    },
+    {
+      "id": "4104054d",
+      "bank_id": "00f39600",
+      "text": "Fince"
+    },
+    {
+      "id": "41040556",
+      "bank_id": "00f39600",
+      "text": "Fransızca"
+    },
+    {
+      "id": "4194a7c3",
+      "bank_id": "00f39600",
+      "text": "Bu dövmeyi yaptırmak için öncelikle aynı bölgeyi kaplayan diğer dövmeleri sildirmeniz gerekir; ancak bunun için gereken %d altına sahip değilsiniz."
+    },
+    {
+      "id": "429af585",
+      "bank_id": "00f39600",
+      "text": "Bu eşyayı almaya gücünüz yetmiyor."
+    },
+    {
+      "id": "4304086b",
+      "bank_id": "00f39600",
+      "text": "Danca"
+    },
+    {
+      "id": "4304086f",
+      "bank_id": "00f39600",
+      "text": "Almanca"
+    },
+    {
+      "id": "432c590c",
+      "bank_id": "00f39600",
+      "text": "Ev"
+    },
+    {
+      "id": "440409ee",
+      "bank_id": "00f39600",
+      "text": "İspanyolca"
+    },
+    {
+      "id": "440409f1",
+      "bank_id": "00f39600",
+      "text": "Yunanca"
+    },
+    {
+      "id": "440409f3",
+      "bank_id": "00f39600",
+      "text": "İngilizce"
+    },
+    {
+      "id": "475c095d",
+      "bank_id": "00f39600",
+      "text": "Silah Sat"
+    },
+    {
+      "id": "48836fde",
+      "bank_id": "00f39600",
+      "text": "Fiyat:"
+    },
+    {
+      "id": "49d8c5ea",
+      "bank_id": "00f39600",
+      "text": "Sat"
+    },
+    {
+      "id": "4c1fcc9d",
+      "bank_id": "00f39600",
+      "text": "%1 gün"
+    },
+    {
+      "id": "4c558b1a",
+      "bank_id": "00f39600",
+      "text": "Japonca (Japonya)"
+    },
+    {
+      "id": "4cd8e244",
+      "bank_id": "00f39600",
+      "text": "Kazanılan İfadeler"
+    },
+    {
+      "id": "4d0417bd",
+      "bank_id": "00f39600",
+      "text": "Rusça"
+    },
+    {
+      "id": "4d57dff8",
+      "bank_id": "00f39600",
+      "text": "Çocuklar"
+    },
+    {
+      "id": "4d5b0827",
+      "bank_id": "00f39600",
+      "text": "Kupalar"
+    },
+    {
+      "id": "4d6c7c61",
+      "bank_id": "00f39600",
+      "text": "Bowerstone"
+    },
+    {
+      "id": "4e04192d",
+      "bank_id": "00f39600",
+      "text": "İsveççe"
+    },
+    {
+      "id": "4e041930",
+      "bank_id": "00f39600",
+      "text": "Slovakça"
+    },
+    {
+      "id": "4e3f35e3",
+      "bank_id": "00f39600",
+      "text": "Kaydet"
+    },
+    {
+      "id": "4f041b42",
+      "bank_id": "00f39600",
+      "text": "Lehçe"
+    },
+    {
+      "id": "505af3e1",
+      "bank_id": "00f39600",
+      "text": "Bu dövmeye zaten sahipsiniz."
+    },
+    {
+      "id": "50e847ed",
+      "bank_id": "00f39600",
+      "text": "Sevgi"
+    },
+    {
+      "id": "53042108",
+      "bank_id": "00f39600",
+      "text": "Türkçe"
+    },
+    {
+      "id": "53fd2223",
+      "bank_id": "00f39600",
+      "text": "Dükkân"
+    },
+    {
+      "id": "54231da6",
+      "bank_id": "00f39600",
+      "text": "Mücevher Tüccarı"
+    },
+    {
+      "id": "5495b86b",
+      "bank_id": "00f39600",
+      "text": "Kalan Süre"
+    },
+    {
+      "id": "54ecf0ab",
+      "bank_id": "00f39600",
+      "text": "Tapınak"
+    },
+    {
+      "id": "564b8efa",
+      "bank_id": "00f39600",
+      "text": "Ok"
+    },
+    {
+      "id": "565175c8",
+      "bank_id": "00f39600",
+      "text": "Kiracıyı Çıkar"
+    },
+    {
+      "id": "5716de80",
+      "bank_id": "00f39600",
+      "text": "Oyuncu Kartını Gör"
+    },
+    {
+      "id": "59ae3be7",
+      "bank_id": "00f39600",
+      "text": "Rehber Sesi"
+    },
+    {
+      "id": "5af6c400",
+      "bank_id": "00f39600",
+      "text": "Görev Adı"
+    },
+    {
+      "id": "5b3c36ba",
+      "bank_id": "00f39600",
+      "text": "Zorluk"
+    },
+    {
+      "id": "5bc49e84",
+      "bank_id": "00f39600",
+      "text": "Duraklatıldı"
+    },
+    {
+      "id": "5c6d7075",
+      "bank_id": "00f39600",
+      "text": "İyiliğin Felaketi"
+    },
+    {
+      "id": "5c7bada1",
+      "bank_id": "00f39600",
+      "text": "Nefret"
+    },
+    {
+      "id": "5cf887a7",
+      "bank_id": "00f39600",
+      "text": "Eşyalar"
+    },
+    {
+      "id": "60409fa4",
+      "bank_id": "00f39600",
+      "text": "Görev Özeti"
+    },
+    {
+      "id": "60980fea",
+      "bank_id": "00f39600",
+      "text": "Çince (Geleneksel Çince)"
+    },
+    {
+      "id": "60980fed",
+      "bank_id": "00f39600",
+      "text": "Çince (Basitleştirilmiş Çince)"
+    },
+    {
+      "id": "6117f491",
+      "bank_id": "00f39600",
+      "text": "İrade - Kılıçlar"
+    },
+    {
+      "id": "611923ab",
+      "bank_id": "00f39600",
+      "text": "Macarca (Macaristan)"
+    },
+    {
+      "id": "6179f1a1",
+      "bank_id": "00f39600",
+      "text": "Aziz"
+    },
+    {
+      "id": "61d5e738",
+      "bank_id": "00f39600",
+      "text": "Kiracılarınızı evden çıkarmak istediğinizden emin misiniz?"
+    },
+    {
+      "id": "62228ac5",
+      "bank_id": "00f39600",
+      "text": "İskele"
+    },
+    {
+      "id": "638aa6d0",
+      "bank_id": "00f39600",
+      "text": "Kitap Tüccarı"
+    },
+    {
+      "id": "63deb1a8",
+      "bank_id": "00f39600",
+      "text": "Normal"
+    },
+    {
+      "id": "6448286c",
+      "bank_id": "00f39600",
+      "text": "İyi"
+    },
+    {
+      "id": "6485eb4d",
+      "bank_id": "00f39600",
+      "text": "Toplam"
+    },
+    {
+      "id": "64c41664",
+      "bank_id": "00f39600",
+      "text": "indirim"
+    },
+    {
+      "id": "66d98011",
+      "bank_id": "00f39600",
+      "text": "Boş Değil"
+    },
+    {
+      "id": "67ee9ee3",
+      "bank_id": "00f39600",
+      "text": "Gulyabani"
+    },
+    {
+      "id": "69ad1e74",
+      "bank_id": "00f39600",
+      "text": "Ahlaki açıdan gri bir bölgede yaşıyorsunuz; canınız ne zaman ne isterse onu yapıyorsunuz."
+    },
+    {
+      "id": "6a71111b",
+      "bank_id": "00f39600",
+      "text": "Dükkân Sahibinin Görüşü"
+    },
+    {
+      "id": "6b820cbc",
+      "bank_id": "00f39600",
+      "text": "Norveççe (Norveç)"
+    },
+    {
+      "id": "6c07b21f",
+      "bank_id": "00f39600",
+      "text": "Genelev"
+    },
+    {
+      "id": "6c471c2d",
+      "bank_id": "00f39600",
+      "text": "Benzersiz"
+    },
+    {
+      "id": "6cdffd8e",
+      "bank_id": "00f39600",
+      "text": "Kaydet (Devre Dışı)"
+    },
+    {
+      "id": "6e1bc38b",
+      "bank_id": "00f39600",
+      "text": "Hayatınıza rehberlik eden ilke beden ve zihin saflığıdır; \"ahlak\" gibi sıradan meseleleri pek dert etmezsiniz."
+    },
+    {
+      "id": "6ed8aff9",
+      "bank_id": "00f39600",
+      "text": "Satın Al"
+    },
+    {
+      "id": "6eeb1f30",
+      "bank_id": "00f39600",
+      "text": "Yakınlaştır"
+    },
+    {
+      "id": "7064eff7",
+      "bank_id": "00f39600",
+      "text": "Kuaför"
+    },
+    {
+      "id": "708bf844",
+      "bank_id": "00f39600",
+      "text": "Toplam mülk değeri:"
+    },
+    {
+      "id": "70be4804",
+      "bank_id": "00f39600",
+      "text": "Stokta kalmadı! Birkaç gün sonra tekrar uğrayın."
+    },
+    {
+      "id": "7213a2e5",
+      "bank_id": "00f39600",
+      "text": "Çık"
+    },
+    {
+      "id": "730f1b74",
+      "bank_id": "00f39600",
+      "text": "%1 gün"
+    },
+    {
+      "id": "7370a56d",
+      "bank_id": "00f39600",
+      "text": "Kötülüğün Felaketi"
+    },
+    {
+      "id": "754e071b",
+      "bank_id": "00f39600",
+      "text": "Dükkân Sahibi"
+    },
+    {
+      "id": "77169e95",
+      "bank_id": "00f39600",
+      "text": "Hollandaca (Hollanda)"
+    },
+    {
+      "id": "779b61e7",
+      "bank_id": "00f39600",
+      "text": "Bonuslar"
+    },
+    {
+      "id": "7a2da824",
+      "bank_id": "00f39600",
+      "text": "Her eyleminize fedakârlık ve dünyayı daha iyi bir yer kılabileceğinize olan inanç yön veriyor."
+    },
+    {
+      "id": "7a8b3cd1",
+      "bank_id": "00f39600",
+      "text": "Genel Eşya Tüccarı"
+    },
+    {
+      "id": "7abb0965",
+      "bank_id": "00f39600",
+      "text": "Bu mülkü kiraya vermek istediğinizden emin misiniz?"
+    },
+    {
+      "id": "7b96277d",
+      "bank_id": "00f39600",
+      "text": "Yetenekler"
+    },
+    {
+      "id": "7bcf214b",
+      "bank_id": "00f39600",
+      "text": "Oyun Duraklatıldı"
+    },
+    {
+      "id": "7e23d1c5",
+      "bank_id": "00f39600",
+      "text": "Boya Uygula"
+    },
+    {
+      "id": "8035340d",
+      "bank_id": "00f39600",
+      "text": "Evlilik"
+    },
+    {
+      "id": "805f59e2",
+      "bank_id": "00f39600",
+      "text": "İndirme 1 gün içinde hazır. Eşli oyunlu Xbox LIVE paketi."
+    },
+    {
+      "id": "80f141e4",
+      "bank_id": "00f39600",
+      "text": "Halkın Görüşü"
+    },
+    {
+      "id": "8388c4d6",
+      "bank_id": "00f39600",
+      "text": "İrade - Ölüleri Dirilt"
+    },
+    {
+      "id": "83ace164",
+      "bank_id": "00f39600",
+      "text": "Sahne duraklatıldı."
+    },
+    {
+      "id": "864122c6",
+      "bank_id": "00f39600",
+      "text": "Kasaba Ekonomisi"
+    },
+    {
+      "id": "869fcb3c",
+      "bank_id": "00f39600",
+      "text": "Kıçımı Öp"
+    },
+    {
+      "id": "86cf9cef",
+      "bank_id": "00f39600",
+      "text": "Mobilya Tüccarı"
+    },
+    {
+      "id": "88ce9730",
+      "bank_id": "00f39600",
+      "text": "Kaydet ve Devam Et"
+    },
+    {
+      "id": "88e2f3ab",
+      "bank_id": "00f39600",
+      "text": "Hedefinizi seçin:"
+    },
+    {
+      "id": "89bedbda",
+      "bank_id": "00f39600",
+      "text": "Yapılandırma"
+    },
+    {
+      "id": "8a3a5048",
+      "bank_id": "00f39600",
+      "text": "Çevrim İçi Küreler"
+    },
+    {
+      "id": "8a5ee512",
+      "bank_id": "00f39600",
+      "text": "Mülkü sattınız."
+    },
+    {
+      "id": "8c274f14",
+      "bank_id": "00f39600",
+      "text": "Onları kapı dışarı ettiniz."
+    },
+    {
+      "id": "8df75fae",
+      "bank_id": "00f39600",
+      "text": "Fırsatçı"
+    },
+    {
+      "id": "8e987782",
+      "bank_id": "00f39600",
+      "text": "Korkunç Kahkaha"
+    },
+    {
+      "id": "8f2d60a0",
+      "bank_id": "00f39600",
+      "text": "Altyazılar"
+    },
+    {
+      "id": "902ab223",
+      "bank_id": "00f39600",
+      "text": "Aktif Görevler"
+    },
+    {
+      "id": "91700bd9",
+      "bank_id": "00f39600",
+      "text": "Kötü"
+    },
+    {
+      "id": "95446d0c",
+      "bank_id": "00f39600",
+      "text": "Gayrimenkul"
+    },
+    {
+      "id": "95e13df7",
+      "bank_id": "00f39600",
+      "text": "Bilgi:"
+    },
+    {
+      "id": "95eed8fd",
+      "bank_id": "00f39600",
+      "text": "Kaldır"
+    },
+    {
+      "id": "9797cc5c",
+      "bank_id": "00f39600",
+      "text": "Dükkân Sahibi İndirimi"
+    },
+    {
+      "id": "9a3e3437",
+      "bank_id": "00f39600",
+      "text": "Fiyatlar"
+    },
+    {
+      "id": "9b2450dc",
+      "bank_id": "00f39600",
+      "text": "Kamera Hassasiyeti"
+    },
+    {
+      "id": "9b8bee4b",
+      "bank_id": "00f39600",
+      "text": "Bu dövmeyi yaptırmak için aynı bölgeyi kaplayan diğer dövmeleri sildirmeniz gerekecek. Bunun bedeli %d altın olacaktır, devam etmek istediğinizden emin misiniz?"
+    },
+    {
+      "id": "9c1f30e4",
+      "bank_id": "00f39600",
+      "text": "Patlayıcı"
+    },
+    {
+      "id": "9c74a11b",
+      "bank_id": "00f39600",
+      "text": "Mermi"
+    },
+    {
+      "id": "9dde0c73",
+      "bank_id": "00f39600",
+      "text": "Sahibi"
+    },
+    {
+      "id": "9f0e25bd",
+      "bank_id": "00f39600",
+      "text": "Sonraki Bölümü Al"
+    },
+    {
+      "id": "9fffb830",
+      "bank_id": "00f39600",
+      "text": "Hasar:"
+    },
+    {
+      "id": "a057082a",
+      "bank_id": "00f39600",
+      "text": "Geçmiş"
+    },
+    {
+      "id": "a0d1f6e5",
+      "bank_id": "00f39600",
+      "text": "Satın Al ve Kiraya Ver"
+    },
+    {
+      "id": "a29a12e5",
+      "bank_id": "00f39600",
+      "text": "Can:"
+    },
+    {
+      "id": "a2de9049",
+      "bank_id": "00f39600",
+      "text": "Balık Tüccarı"
+    },
+    {
+      "id": "a34b3fda",
+      "bank_id": "00f39600",
+      "text": "Kamera Eğimi"
+    },
+    {
+      "id": "a4425cf7",
+      "bank_id": "00f39600",
+      "text": "Şu anda bu eşyayı kullanıyorsunuz. Satmak istediğinizden emin misiniz?"
+    },
+    {
+      "id": "a5268b30",
+      "bank_id": "00f39600",
+      "text": "Silahlar"
+    },
+    {
+      "id": "a57ad1f2",
+      "bank_id": "00f39600",
+      "text": "<x_img>"
+    },
+    {
+      "id": "a6ae8118",
+      "bank_id": "00f39600",
+      "text": "İspanyolca (Latin Amerika)"
+    },
+    {
+      "id": "a82d1487",
+      "bank_id": "00f39600",
+      "text": "İrade - Girdap"
+    },
+    {
+      "id": "a995daad",
+      "bank_id": "00f39600",
+      "text": "Kötü/Yozlaşmış Eylemler"
+    },
+    {
+      "id": "aa3b8077",
+      "bank_id": "00f39600",
+      "text": "Bar"
+    },
+    {
+      "id": "aaf2a288",
+      "bank_id": "00f39600",
+      "text": "Sefih"
+    },
+    {
+      "id": "acd7cc82",
+      "bank_id": "00f39600",
+      "text": "Dekorasyondan Çık"
+    },
+    {
+      "id": "ad4f81bc",
+      "bank_id": "00f39600",
+      "text": "Yoksay"
+    },
+    {
+      "id": "ad809fe6",
+      "bank_id": "00f39600",
+      "text": "Parıldayan İz"
+    },
+    {
+      "id": "adae8c0d",
+      "bank_id": "00f39600",
+      "text": "İspanyolca (İspanya)"
+    },
+    {
+      "id": "adcf381d",
+      "bank_id": "00f39600",
+      "text": "Ün"
+    },
+    {
+      "id": "aeebe8ed",
+      "bank_id": "00f39600",
+      "text": "Sahipleri Öldürüldü"
+    },
+    {
+      "id": "af8368d2",
+      "bank_id": "00f39600",
+      "text": "Gezgin Tüccar"
+    },
+    {
+      "id": "afdbfe4c",
+      "bank_id": "00f39600",
+      "text": "Kâr"
+    },
+    {
+      "id": "b038eed3",
+      "bank_id": "00f39600",
+      "text": "Destansı"
+    },
+    {
+      "id": "b0c67359",
+      "bank_id": "00f39600",
+      "text": "Giysi"
+    },
+    {
+      "id": "b166b1c6",
+      "bank_id": "00f39600",
+      "text": "Video"
+    },
+    {
+      "id": "b1ed7927",
+      "bank_id": "00f39600",
+      "text": "Dekorasyon Moduna Girin."
+    },
+    {
+      "id": "b21393c0",
+      "bank_id": "00f39600",
+      "text": "Özel Ödül İndirimi"
+    },
+    {
+      "id": "b44519dc",
+      "bank_id": "00f39600",
+      "text": "Görevler"
+    },
+    {
+      "id": "b4bb523e",
+      "bank_id": "00f39600",
+      "text": "Temel Değer:"
+    },
+    {
+      "id": "b5786154",
+      "bank_id": "00f39600",
+      "text": "İsveççe (İsveç)"
+    },
+    {
+      "id": "b61bf2e6",
+      "bank_id": "00f39600",
+      "text": "At: %1"
+    },
+    {
+      "id": "b68ff546",
+      "bank_id": "00f39600",
+      "text": "Yarı Saydamlık"
+    },
+    {
+      "id": "b70e9dab",
+      "bank_id": "00f39600",
+      "text": "Ateş"
+    },
+    {
+      "id": "b71ced37",
+      "bank_id": "00f39600",
+      "text": "İrade - Güç İtişi"
+    },
+    {
+      "id": "b76b8b9a",
+      "bank_id": "00f39600",
+      "text": "Bloodstone"
+    },
+    {
+      "id": "b7feecca",
+      "bank_id": "00f39600",
+      "text": "Kaydır"
+    },
+    {
+      "id": "b8545225",
+      "bank_id": "00f39600",
+      "text": "Son Fiyat"
+    },
+    {
+      "id": "ba0b97e8",
+      "bank_id": "00f39600",
+      "text": "Dövmeci"
+    },
+    {
+      "id": "ba4a1516",
+      "bank_id": "00f39600",
+      "text": "Yol Ver"
+    },
+    {
+      "id": "babba5de",
+      "bank_id": "00f39600",
+      "text": "Ayarlardan memnun kalana kadar gamayı ayarlayın."
+    },
+    {
+      "id": "bf72498e",
+      "bank_id": "00f39600",
+      "text": "Eşya Sat"
+    },
+    {
+      "id": "bf8ce021",
+      "bank_id": "00f39600",
+      "text": "Danca (Danimarka)"
+    },
+    {
+      "id": "bfa8c924",
+      "bank_id": "00f39600",
+      "text": "Dükkân"
+    },
+    {
+      "id": "c01c2fe5",
+      "bank_id": "00f39600",
+      "text": "Fotoğraf Çek"
+    },
+    {
+      "id": "c0411d55",
+      "bank_id": "00f39600",
+      "text": "Devam Et"
+    },
+    {
+      "id": "c132cd5a",
+      "bank_id": "00f39600",
+      "text": "Bütçe Belirle"
+    },
+    {
+      "id": "c1aa1bd1",
+      "bank_id": "00f39600",
+      "text": "Depo"
+    },
+    {
+      "id": "c2e26b38",
+      "bank_id": "00f39600",
+      "text": "Alçak"
+    },
+    {
+      "id": "c3085bd4",
+      "bank_id": "00f39600",
+      "text": "İstatistikler"
+    },
+    {
+      "id": "c4ea7b8d",
+      "bank_id": "00f39600",
+      "text": "İblis"
+    },
+    {
+      "id": "c515efad",
+      "bank_id": "00f39600",
+      "text": "Mahsul Tüccarı"
+    },
+    {
+      "id": "c5386ef7",
+      "bank_id": "00f39600",
+      "text": "Korku"
+    },
+    {
+      "id": "c60da332",
+      "bank_id": "00f39600",
+      "text": "Satın Al"
+    },
+    {
+      "id": "c6667c4a",
+      "bank_id": "00f39600",
+      "text": "Hediyeler"
+    },
+    {
+      "id": "c6b1a49c",
+      "bank_id": "00f39600",
+      "text": "Korece (Kore)"
+    },
+    {
+      "id": "c72d9850",
+      "bank_id": "00f39600",
+      "text": "Eşya Satın Al"
+    },
+    {
+      "id": "c73cb456",
+      "bank_id": "00f39600",
+      "text": "Açıldı"
+    },
+    {
+      "id": "c7627535",
+      "bank_id": "00f39600",
+      "text": "Gamayı dairesel görüntünün sol tarafındaki metni zar zor görebileceğiniz şekilde ayarlayın."
+    },
+    {
+      "id": "c78ea5c5",
+      "bank_id": "00f39600",
+      "text": "İstatistikleri Gör"
+    },
+    {
+      "id": "c8cc9242",
+      "bank_id": "00f39600",
+      "text": "Westcliff"
+    },
+    {
+      "id": "c8daa2b3",
+      "bank_id": "00f39600",
+      "text": "Bu sahne bitene kadar ayrılamazsınız."
+    },
+    {
+      "id": "c8dfcb03",
+      "bank_id": "00f39600",
+      "text": "%buildingname% adlı mülkü %amount% karşılığında satın almak istediğinizden emin misiniz?"
+    },
+    {
+      "id": "c91fe46b",
+      "bank_id": "00f39600",
+      "text": "Navigasyon"
+    },
+    {
+      "id": "caac32c1",
+      "bank_id": "00f39600",
+      "text": "Fotoğraf çekiliyor..."
+    },
+    {
+      "id": "cab72d06",
+      "bank_id": "00f39600",
+      "text": "Dekorasyon Modu"
+    },
+    {
+      "id": "cb59e6dc",
+      "bank_id": "00f39600",
+      "text": "Gama"
+    },
+    {
+      "id": "cc0fc355",
+      "bank_id": "00f39600",
+      "text": "Mülk artık sizin!"
+    },
+    {
+      "id": "ccbb0787",
+      "bank_id": "00f39600",
+      "text": "Temel Değer"
+    },
+    {
+      "id": "cccd7084",
+      "bank_id": "00f39600",
+      "text": "- DLC"
+    },
+    {
+      "id": "cd5bbd5a",
+      "bank_id": "00f39600",
+      "text": "Yetenekler"
+    },
+    {
+      "id": "cd615869",
+      "bank_id": "00f39600",
+      "text": "Değiştir"
+    },
+    {
+      "id": "cd8559d8",
+      "bank_id": "00f39600",
+      "text": "Bedel"
+    },
+    {
+      "id": "cdb7fa54",
+      "bank_id": "00f39600",
+      "text": "Hediye Tüccarı"
+    },
+    {
+      "id": "ce346146",
+      "bank_id": "00f39600",
+      "text": "İngilizce (ABD)"
+    },
+    {
+      "id": "ce34615e",
+      "bank_id": "00f39600",
+      "text": "İngilizce (Birleşik Krallık)"
+    },
+    {
+      "id": "cfd7eb26",
+      "bank_id": "00f39600",
+      "text": "Kaydetmeden Çık"
+    },
+    {
+      "id": "d1830d29",
+      "bank_id": "00f39600",
+      "text": "Görüntü"
+    },
+    {
+      "id": "d1b5bcfd",
+      "bank_id": "00f39600",
+      "text": "Öğreticiler"
+    },
+    {
+      "id": "d2477b66",
+      "bank_id": "00f39600",
+      "text": "Bedeninizin saflığına olan bağlılığınız, yalnızca saf kötülüğe olan adanmışlığınızla yarışabilir."
+    },
+    {
+      "id": "d2bacfe0",
+      "bank_id": "00f39600",
+      "text": "Yükleme başarısız. Lütfen daha sonra tekrar deneyin."
+    },
+    {
+      "id": "d3b3a2fb",
+      "bank_id": "00f39600",
+      "text": "1. Bölümde kürelerle etkileşim mevcut değildir. Kürelerle etkileşime geçmek için 2. Bölümü indirin."
+    },
+    {
+      "id": "d3f58c68",
+      "bank_id": "00f39600",
+      "text": "Fiyatları Ayarla\n\nFiyatları varsayılan tutardan daha yüksek ya da düşük belirleyin. Yüksek tutmak yozlaşma, düşük tutmak saflık eylemidir."
+    },
+    {
+      "id": "d44b8943",
+      "bank_id": "00f39600",
+      "text": "Zehir"
+    },
+    {
+      "id": "d5779c77",
+      "bank_id": "00f39600",
+      "text": "İtalyanca (İtalya)"
+    },
+    {
+      "id": "d670845b",
+      "bank_id": "00f39600",
+      "text": "Ağır Silah Tüccarı"
+    },
+    {
+      "id": "d699332b",
+      "bank_id": "00f39600",
+      "text": "Hayvan Malzemecisi"
+    },
+    {
+      "id": "d753c718",
+      "bank_id": "00f39600",
+      "text": "Çekçe (Çek Cumhuriyeti)"
+    },
+    {
+      "id": "d825eaac",
+      "bank_id": "00f39600",
+      "text": "Kirayı Ayarla\n\nKirayı varsayılan tutardan daha yüksek ya da düşük belirleyin. Yüksek tutmak yozlaşma, düşük tutmak saflık eylemidir."
+    },
+    {
+      "id": "d946b06e",
+      "bank_id": "00f39600",
+      "text": "Kiracı"
+    },
+    {
+      "id": "d950abdd",
+      "bank_id": "00f39600",
+      "text": "Seçenekler"
+    },
+    {
+      "id": "d9e265f0",
+      "bank_id": "00f39600",
+      "text": "Taş Yontucusu"
+    },
+    {
+      "id": "db42f5a1",
+      "bank_id": "00f39600",
+      "text": "Yalnızca Arkadaşlar"
+    },
+    {
+      "id": "db7b70db",
+      "bank_id": "00f39600",
+      "text": "Aile Evi Olarak Belirle"
+    },
+    {
+      "id": "dccad9ef",
+      "bank_id": "00f39600",
+      "text": "Turta Tüccarı"
+    },
+    {
+      "id": "dd15a196",
+      "bank_id": "00f39600",
+      "text": "Tezgâh"
+    },
+    {
+      "id": "dd6bf920",
+      "bank_id": "00f39600",
+      "text": "Kamera"
+    },
+    {
+      "id": "df50a243",
+      "bank_id": "00f39600",
+      "text": "İrade - Şok"
+    },
+    {
+      "id": "df6357fb",
+      "bank_id": "00f39600",
+      "text": "Rusça (Rusya)"
+    },
+    {
+      "id": "e010e09d",
+      "bank_id": "00f39600",
+      "text": "Ekran Görüntüsü Yüklendi"
+    },
+    {
+      "id": "e07b8234",
+      "bank_id": "00f39600",
+      "text": "Ev Bonusları"
+    },
+    {
+      "id": "e106e95a",
+      "bank_id": "00f39600",
+      "text": "Mülk artık kiralıktır."
+    },
+    {
+      "id": "e15994e2",
+      "bank_id": "00f39600",
+      "text": "Serbest Katılım"
+    },
+    {
+      "id": "e18df982",
+      "bank_id": "00f39600",
+      "text": "Elektrik"
+    },
+    {
+      "id": "e1fc104f",
+      "bank_id": "00f39600",
+      "text": "Ekipman"
+    },
+    {
+      "id": "e2d29682",
+      "bank_id": "00f39600",
+      "text": "Hafif Silah Tüccarı"
+    },
+    {
+      "id": "e4994933",
+      "bank_id": "00f39600",
+      "text": "Boya Tüccarı"
+    },
+    {
+      "id": "e4c88087",
+      "bank_id": "00f39600",
+      "text": "İndirme %1 gün içinde hazır. Eşli oyunlu Xbox LIVE paketi."
+    },
+    {
+      "id": "e4fc664a",
+      "bank_id": "00f39600",
+      "text": "<b>Temel Değer</b>\nDükkânın temel fiyatıdır.\n\n<b>Dükkân Serveti</b>\nBir dükkân ne kadar varlıklıysa fiyatı da o denli yüksek olur. Kasabanın genel refahı da değerini etkileyecektir\n\n<b>Sahibi Öldürüldü</b>\nMevcut dükkân sahibini öldürmek dükkânın değerini ciddi ölçüde düşürecektir\n\n<b>Kahraman Hakkındaki Görüş</b>\nBir dükkânın sahipleri sizden hoşlanıyorsa fiyatı sizin için kırmaya razı olacaklardır. Tabii sizden nefret ediyorlarsa devasa bir fiyat artışına hazırlıklı olun.\n\n<b>Satış Fiyatı</b>\nYukarıdaki tüm etkenlere dayanan genel fiyattır."
+    },
+    {
+      "id": "e5aedd85",
+      "bank_id": "00f39600",
+      "text": "Sesler"
+    },
+    {
+      "id": "e60c4ffa",
+      "bank_id": "00f39600",
+      "text": "Seyir Defteri"
+    },
+    {
+      "id": "e6a5f1f2",
+      "bank_id": "00f39600",
+      "text": "Xbox LIVE eşli oyun indirmesi 1 gün içinde hazır!"
+    },
+    {
+      "id": "e7b3659d",
+      "bank_id": "00f39600",
+      "text": "Hiçbiri"
+    },
+    {
+      "id": "e8cb12e3",
+      "bank_id": "00f39600",
+      "text": "Nişanı Ters Çevir"
+    },
+    {
+      "id": "e8f01a9c",
+      "bank_id": "00f39600",
+      "text": "Unvanlar"
+    },
+    {
+      "id": "ea6031ce",
+      "bank_id": "00f39600",
+      "text": "Kıtlık"
+    },
+    {
+      "id": "eae4878c",
+      "bank_id": "00f39600",
+      "text": "Alet Tüccarı"
+    },
+    {
+      "id": "eaf60772",
+      "bank_id": "00f39600",
+      "text": "fiyat artışı"
+    },
+    {
+      "id": "ec9faeee",
+      "bank_id": "00f39600",
+      "text": "Kaynak"
+    },
+    {
+      "id": "ed080acc",
+      "bank_id": "00f39600",
+      "text": "Çiftlik"
+    },
+    {
+      "id": "eda30c95",
+      "bank_id": "00f39600",
+      "text": "Zafer"
+    },
+    {
+      "id": "edd85566",
+      "bank_id": "00f39600",
+      "text": "Satış Masrafları"
+    },
+    {
+      "id": "ee79207b",
+      "bank_id": "00f39600",
+      "text": "Dekorasyon"
+    },
+    {
+      "id": "eeee126b",
+      "bank_id": "00f39600",
+      "text": "Yiyecek Tüccarı"
+    },
+    {
+      "id": "eff58620",
+      "bank_id": "00f39600",
+      "text": "%1 yalnızca 1. Bölüme sahip ve etkileşime kapalı."
+    },
+    {
+      "id": "f03f59c5",
+      "bank_id": "00f39600",
+      "text": "Mülk artık aile evinizdir."
+    },
+    {
+      "id": "f0715b2d",
+      "bank_id": "00f39600",
+      "text": "%buildingname% adlı mülkü %amount% karşılığında satmak istediğinizden emin misiniz?"
+    },
+    {
+      "id": "f0c3761a",
+      "bank_id": "00f39600",
+      "text": "İndirimdeki eşyalar"
+    },
+    {
+      "id": "f0d7fca9",
+      "bank_id": "00f39600",
+      "text": "<y_img>"
+    },
+    {
+      "id": "f351d528",
+      "bank_id": "00f39600",
+      "text": "Bu mülkü satın almak için yeterli altınınız yok."
+    },
+    {
+      "id": "f371eafe",
+      "bank_id": "00f39600",
+      "text": "Oakfield"
+    },
+    {
+      "id": "f4f1c80a",
+      "bank_id": "00f39600",
+      "text": "Sahibi"
+    },
+    {
+      "id": "f5232fad",
+      "bank_id": "00f39600",
+      "text": "Not: Bu benzersiz bir binadır. Bir kez satın aldığınızda satamazsınız."
+    },
+    {
+      "id": "f690c1c3",
+      "bank_id": "00f39600",
+      "text": "Silah Satın Al"
+    },
+    {
+      "id": "f6aae5c7",
+      "bank_id": "00f39600",
+      "text": "Giysi Tüccarı"
+    },
+    {
+      "id": "f7ec4071",
+      "bank_id": "00f39600",
+      "text": "Safiyetçi"
+    },
+    {
+      "id": "f8bd5182",
+      "bank_id": "00f39600",
+      "text": "Efsun Taşları"
+    },
+    {
+      "id": "facdadce",
+      "bank_id": "00f39600",
+      "text": "Küre Etkileşimi"
+    },
+    {
+      "id": "fbfc857e",
+      "bank_id": "00f39600",
+      "text": "Hayırsever"
+    },
+    {
+      "id": "fc5584cb",
+      "bank_id": "00f39600",
+      "text": "Kirayı Ayarla"
+    },
+    {
+      "id": "fc96fb50",
+      "bank_id": "00f39600",
+      "text": "İndirim"
+    },
+    {
+      "id": "fe1c60d9",
+      "bank_id": "00f39600",
+      "text": "Dükkân"
+    },
+    {
+      "id": "fe7e07eb",
+      "bank_id": "00f39600",
+      "text": "Öpücük Yolla"
+    },
+    {
+      "id": "fe81342a",
+      "bank_id": "00f39600",
+      "text": "Tatar Yayı Tüccarı"
+    },
+    {
+      "id": "ff8125ba",
+      "bank_id": "00f39600",
+      "text": "Başkalarına yardım etmek için elinizden geleni yaparsınız, ancak kendinize de yardım etmeyi ihmal etmezsiniz; genellikle yiyecek, içecek ve türlü zevklerle."
+    }
+  ]
+}

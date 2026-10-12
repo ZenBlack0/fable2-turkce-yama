@@ -1,0 +1,576 @@
+{
+  "bank_id": "b0bcb600",
+  "total_strings": 114,
+  "strings": [
+    {
+      "id": "033e08ae",
+      "bank_id": "b0bcb600",
+      "text": "Çoğu Kapı'nın benden ne kadar aşağıda olduğuna bir örnek istersen Bowerstone Mezarlığı'na git. Orada aptal bir hayvandan hallice bir kaya parçası var. Ters gitmiş trajik bir lanet işte."
+    },
+    {
+      "id": "1835a936",
+      "bank_id": "b0bcb600",
+      "text": "Bir İblis Kapısı olduğumu biliyorsun, değil mi? Neyin bekçiliğini yaptığımı görmek istemiyor musun?"
+    },
+    {
+      "id": "1935aaa9",
+      "bank_id": "b0bcb600",
+      "text": "İyi be. Sen kaşındın. Kendi müziğimi kendim yaparım o zaman. La! Re! Fa! Sol!"
+    },
+    {
+      "id": "1a35ac1c",
+      "bank_id": "b0bcb600",
+      "text": "Bana daha fazla işkence etme, yalvarırım. Notaların lavtandan süzüldüğünü neredeyse hissedebiliyorum. Çal şunu, hadi ama."
+    },
+    {
+      "id": "1b35ad8f",
+      "bank_id": "b0bcb600",
+      "text": "Bahse girerim harikasındır, öyle değil mi? Gerçek bir lavta kahramanı."
+    },
+    {
+      "id": "1bada310",
+      "bank_id": "b0bcb600",
+      "text": "Zamanın sınavına göğüs germemiz ve insanların mutluluğunu ya da acısını zerrece umursamamamız gerekirdi. Bunu Oakfield'deki Kapı'ya anlatmayı dene bir de. Duygusal budala."
+    },
+    {
+      "id": "1c35af62",
+      "bank_id": "b0bcb600",
+      "text": "Hadi ama! Öyle dikilip durma! Bir şeyler çal, lütfen!"
+    },
+    {
+      "id": "21d4294c",
+      "bank_id": "b0bcb600",
+      "text": "Bana bir iyilik yap da Brightwood'daki Kapı'nın ne sakladığını öğren, olur mu? O burnu büyük yaşlı herif ne olduğunu kimseye söylemiyor. Sır saklamasına izin verilen tek kişi benim bir kere."
+    },
+    {
+      "id": "22a1149c",
+      "bank_id": "b0bcb600",
+      "text": "Ah, evet! Bravo! Virtüözlere layık bir performans! Tek kelimeyle harika!"
+    },
+    {
+      "id": "25a11955",
+      "bank_id": "b0bcb600",
+      "text": "Teşekkürler üstat, teşekkürler."
+    },
+    {
+      "id": "2ae03e28",
+      "bank_id": "b0bcb600",
+      "text": "Melodiyi şanına yakışır şekilde bitirmeye çalış!"
+    },
+    {
+      "id": "2ce4bd46",
+      "bank_id": "b0bcb600",
+      "text": "Yoldan çıkarıcı Westcliff Kapısı ile konuşurken dikkatli ol. Kötü bir örnektir kendisi."
+    },
+    {
+      "id": "2fe045c7",
+      "bank_id": "b0bcb600",
+      "text": "Ve şimdi muhteşem final!"
+    },
+    {
+      "id": "30e047ba",
+      "bank_id": "b0bcb600",
+      "text": "Şimdi o son notayı bas!"
+    },
+    {
+      "id": "31e0492d",
+      "bank_id": "b0bcb600",
+      "text": "Büyük kapanış vakti!"
+    },
+    {
+      "id": "3c6dc5a0",
+      "bank_id": "b0bcb600",
+      "text": "O yaşlı iskelet Scythe yüz yılda bir falan buralara uğrardı. Ama ona da açılacak değildim tabii."
+    },
+    {
+      "id": "3cdf4930",
+      "bank_id": "b0bcb600",
+      "text": "Öğle yemeğinde gaz çıkarmanın komik olduğunu sanıyor."
+    },
+    {
+      "id": "3cdf4931",
+      "bank_id": "b0bcb600",
+      "text": "Islık çalmayı bildiğini sanıyor."
+    },
+    {
+      "id": "3cdf4932",
+      "bank_id": "b0bcb600",
+      "text": "Bulaşıktaki payına düşeni yıkamayı reddediyor."
+    },
+    {
+      "id": "3cdf4933",
+      "bank_id": "b0bcb600",
+      "text": "Ağzı açık yemek yiyor."
+    },
+    {
+      "id": "3cdf4934",
+      "bank_id": "b0bcb600",
+      "text": "Dünyanın en sinir bozucu gülüşüne sahip."
+    },
+    {
+      "id": "3cdf4935",
+      "bank_id": "b0bcb600",
+      "text": "Çorba içerken korkunç bir höpürdetme sesi çıkarıyor."
+    },
+    {
+      "id": "3cdf4936",
+      "bank_id": "b0bcb600",
+      "text": "Toplum içinde burnunu karıştırıyor."
+    },
+    {
+      "id": "3cdf4937",
+      "bank_id": "b0bcb600",
+      "text": "Parmaklarını durmadan yüksek sesle kütletiyor."
+    },
+    {
+      "id": "3cdf493c",
+      "bank_id": "b0bcb600",
+      "text": "Mangalı \"bir günlüğüne\" ödünç aldı ama bir daha asla geri getirmedi."
+    },
+    {
+      "id": "3cdf493d",
+      "bank_id": "b0bcb600",
+      "text": "Handa herkese bir tur bira ısmarlayacağını söyledi ama ısmarlamadı."
+    },
+    {
+      "id": "3d6dc713",
+      "bank_id": "b0bcb600",
+      "text": "Jack of Blades bir keresinde beni açmaya çalışmıştı. Ejderha evresinden önceydi gerçi ama hiçbir şeyi değiştirmezdi."
+    },
+    {
+      "id": "3ddf4aa0",
+      "bank_id": "b0bcb600",
+      "text": "Kasabanın en iyi pul kapmaca oyuncusu ve müvekkil bu unvanı kendisi için istiyor."
+    },
+    {
+      "id": "3ddf4aa1",
+      "bank_id": "b0bcb600",
+      "text": "Hep müvekkille aynı tip pantolon giyiyor, müvekkil de bunun \"kendi tarzını baltaladığını\" düşünüyor."
+    },
+    {
+      "id": "3ddf4aa2",
+      "bank_id": "b0bcb600",
+      "text": "Aşk eylemini icra eden insanların pencerelerinden içeri dikizlemeyi seviyor."
+    },
+    {
+      "id": "3ddf4aa3",
+      "bank_id": "b0bcb600",
+      "text": "Hanımları etkilemek için haydut taklidi yaptı. Haydutlar bu tür şeyleri hafife almaz."
+    },
+    {
+      "id": "3ddf4aa4",
+      "bank_id": "b0bcb600",
+      "text": "Önceki sözleşmenin suikast bedelini ödemedi."
+    },
+    {
+      "id": "3ddf4aa5",
+      "bank_id": "b0bcb600",
+      "text": "Herkese müvekkilin bin defadan fazla duyduğu berbat bir fıkrayı anlatıp duruyor."
+    },
+    {
+      "id": "3ddf4aa6",
+      "bank_id": "b0bcb600",
+      "text": "Müvekkilin her yerine bira döktü."
+    },
+    {
+      "id": "3ddf4aae",
+      "bank_id": "b0bcb600",
+      "text": "Cemiyet'in aylık kotasını doldurabilmesi için ortadan kaldırılması gerekiyor."
+    },
+    {
+      "id": "3ddf4aaf",
+      "bank_id": "b0bcb600",
+      "text": "Tavuklara kötü davranıyor."
+    },
+    {
+      "id": "3e6dc886",
+      "bank_id": "b0bcb600",
+      "text": "Bizzat Archon'un sırdaşıydım ben. Bana herkesten çok güvenirdi."
+    },
+    {
+      "id": "3f79e898",
+      "bank_id": "b0bcb600",
+      "text": "Brightwood Kapısı'nın o utanç verici sırrını öğrenebildin mi bari? Umarım gerçekten küçük düşürücü bir şeydir."
+    },
+    {
+      "id": "3fdf4d8c",
+      "bank_id": "b0bcb600",
+      "text": "Pek çok insanı suçlu çıkaracak bazı sırlar biliyor."
+    },
+    {
+      "id": "3fdf4d8d",
+      "bank_id": "b0bcb600",
+      "text": "Mahkemede nüfuzlu bir hayduta karşı tanıklık yapacak."
+    },
+    {
+      "id": "411c6e5f",
+      "bank_id": "b0bcb600",
+      "text": "Bower Gölü'ndeki Kapı da kendini bir çeşit sanatçı sanıyor. <laughs> Bu dünyada kalan tek sanat eseri benim bir kere."
+    },
+    {
+      "id": "426dcf32",
+      "bank_id": "b0bcb600",
+      "text": "Beni açtırmak için küçük bir dans edebileceğini veya abuk subuk bir görevi tamamlayabileceğini sanan Kahramanların sayısını unuttum. Saçmalık."
+    },
+    {
+      "id": "436dd0a5",
+      "bank_id": "b0bcb600",
+      "text": "Asıl İblis Kapısı benim, önemli olan tek kapı da benim. Geri kalanların hepsi soluk birer taklit."
+    },
+    {
+      "id": "468efe24",
+      "bank_id": "b0bcb600",
+      "text": "Müvekkilin tahsil etmek istediği devasa bir hayat sigortası poliçesi var."
+    },
+    {
+      "id": "468efe25",
+      "bank_id": "b0bcb600",
+      "text": "Çok gürültücü bir komşu."
+    },
+    {
+      "id": "468efe28",
+      "bank_id": "b0bcb600",
+      "text": "Müvekkille randevuya çıkmayı reddetti."
+    },
+    {
+      "id": "468efe29",
+      "bank_id": "b0bcb600",
+      "text": "Cemiyet'i önceki sözleşmede fazla para almakla suçladı ve paranın tamamını ödemeyi reddetti."
+    },
+    {
+      "id": "468efe2a",
+      "bank_id": "b0bcb600",
+      "text": "Tiyatro gösterileri sırasında konuşuyor."
+    },
+    {
+      "id": "468efe2b",
+      "bank_id": "b0bcb600",
+      "text": "Bir Meredith Sock romanının sonunu açık etti."
+    },
+    {
+      "id": "468efe2d",
+      "bank_id": "b0bcb600",
+      "text": "Kazara Cemiyet'in en iyi suikastçılarından birini öldürdü."
+    },
+    {
+      "id": "468efe2e",
+      "bank_id": "b0bcb600",
+      "text": "Örnek bir vatandaş olup vergi ödemekle tehdit etti."
+    },
+    {
+      "id": "468efe2f",
+      "bank_id": "b0bcb600",
+      "text": "Müvekkilin gizli kalmasını tercih edeceği bazı suç faaliyetlerine şahit oldu."
+    },
+    {
+      "id": "478eff96",
+      "bank_id": "b0bcb600",
+      "text": "Çayını höpürdeterek içiyor."
+    },
+    {
+      "id": "478eff97",
+      "bank_id": "b0bcb600",
+      "text": "Burnunu silmek yerine durmadan burnunu çekiyor."
+    },
+    {
+      "id": "478eff98",
+      "bank_id": "b0bcb600",
+      "text": "Sürekli diğer insanların dilbilgisini düzeltip duruyor."
+    },
+    {
+      "id": "478eff99",
+      "bank_id": "b0bcb600",
+      "text": "Yüklü miktarda borç para aldı ve henüz geri ödemedi."
+    },
+    {
+      "id": "478eff9a",
+      "bank_id": "b0bcb600",
+      "text": "Aynı şarkıyı döne döne söyleyip duruyor."
+    },
+    {
+      "id": "478eff9b",
+      "bank_id": "b0bcb600",
+      "text": "Portakalın tek meyve olduğunu sanıyor."
+    },
+    {
+      "id": "478eff9c",
+      "bank_id": "b0bcb600",
+      "text": "Gerçekten önemli insanlarla arkadaş olduğunu iddia ediyor. Ama alakası bile yok."
+    },
+    {
+      "id": "478eff9d",
+      "bank_id": "b0bcb600",
+      "text": "Bu haftanın hedefi olarak rastgele seçildi."
+    },
+    {
+      "id": "478eff9e",
+      "bank_id": "b0bcb600",
+      "text": "Emekli olmayı düşünen gizli bir suikastçı. Cemiyet'in buna izin veremeyeceği kadar çok şey biliyor."
+    },
+    {
+      "id": "478eff9f",
+      "bank_id": "b0bcb600",
+      "text": "İstemsiz organ bağışçısı kartını imzaladı."
+    },
+    {
+      "id": "488f0170",
+      "bank_id": "b0bcb600",
+      "text": "Cadı olmakla suçlandı. Cemiyet kanıt aramaz."
+    },
+    {
+      "id": "488f0171",
+      "bank_id": "b0bcb600",
+      "text": "Rüzgârın ve gökyüzünün ilah olduğunu düşünüyor ve siz de inanana kadar durmuyor."
+    },
+    {
+      "id": "488f0172",
+      "bank_id": "b0bcb600",
+      "text": "En iyi arkadaşınızmış gibi davranıyor ama bir yandan erkek arkadaşınızla fingirdeşiyor."
+    },
+    {
+      "id": "488f0173",
+      "bank_id": "b0bcb600",
+      "text": "Çok kıskanç bir kadınla evli olan bir adamla ilişkisi var."
+    },
+    {
+      "id": "488f0174",
+      "bank_id": "b0bcb600",
+      "text": "Olayları çok fazla abartıyor ve insanları hayal kırıklığına uğratıyor."
+    },
+    {
+      "id": "488f0175",
+      "bank_id": "b0bcb600",
+      "text": "Aynı şeyleri tekrar tekrar söyleyip duruyor."
+    },
+    {
+      "id": "488f0176",
+      "bank_id": "b0bcb600",
+      "text": "İnsanların yüzüne yüzüne hapşırıyor."
+    },
+    {
+      "id": "488f0177",
+      "bank_id": "b0bcb600",
+      "text": "Dinliyormuş gibi yapıyor ama aslında aklı bambaşka yerde."
+    },
+    {
+      "id": "488f017a",
+      "bank_id": "b0bcb600",
+      "text": "Kütüphaneden aldığı kitabın iade süresini fena halde geçirdi."
+    },
+    {
+      "id": "488f017b",
+      "bank_id": "b0bcb600",
+      "text": "Bir dükkânda indirim olduğunda hep kaynak yapıyor."
+    },
+    {
+      "id": "498f02e0",
+      "bank_id": "b0bcb600",
+      "text": "Ozanı defalarca şarkı söylemesi için cesaretlendirdi."
+    },
+    {
+      "id": "498f02e1",
+      "bank_id": "b0bcb600",
+      "text": "Cemiyet'in kâhinlerine göre bir gün Albion'un en güçlü insanı olacak."
+    },
+    {
+      "id": "498f02e4",
+      "bank_id": "b0bcb600",
+      "text": "Okuldayken müvekkile zorbalık yapardı."
+    },
+    {
+      "id": "498f02e5",
+      "bank_id": "b0bcb600",
+      "text": "Yanlış kişiyi hafife aldı."
+    },
+    {
+      "id": "498f02e6",
+      "bank_id": "b0bcb600",
+      "text": "Bütün çikolatalardan birer ısırık alıp kalanları kutuya geri koyuyor."
+    },
+    {
+      "id": "498f02e7",
+      "bank_id": "b0bcb600",
+      "text": "Yemek yerken dünyanın en sinir bozucu çiğneme seslerini çıkarıyor."
+    },
+    {
+      "id": "583069a8",
+      "bank_id": "b0bcb600",
+      "text": "Müziğe kafayı takmış bir İblis Kapısı! Üstelik Eski Krallık boru senfonileri bile değil! En azından Bloodstone'un ta o ucunda pek bir şey duyamayacak."
+    },
+    {
+      "id": "6a57b62d",
+      "bank_id": "b0bcb600",
+      "text": "Wraithmarsh'taki o yaşlı sıkıcı herif hâlâ seyirci diye sızlanıp duruyor. Biz İblis Kapıları eğlence nesnesi değil, kadim hazinelerin ve bilgeliğin arşivleri olmalıyız!"
+    },
+    {
+      "id": "7531deaf",
+      "bank_id": "b0bcb600",
+      "text": "Ne düşündüğünü biliyorum. \"Taş gibi sağır\", değil mi? Hep öyle derler zaten. Ses tellerimin granitten yapılmış olması benim suçum değil ya?"
+    },
+    {
+      "id": "762d7048",
+      "bank_id": "b0bcb600",
+      "text": "Hayır, hayır, hayır! Gürültü isteseydim kendimi dinlerdim."
+    },
+    {
+      "id": "7631e002",
+      "bank_id": "b0bcb600",
+      "text": "Çok şanslısın! Uzuvların var, gırtlağın var... Ben şarkı bile söyleyemiyorum. Bir enstrümana dokunamıyorum bile!"
+    },
+    {
+      "id": "7731e1f5",
+      "bank_id": "b0bcb600",
+      "text": "Buradan bir müzisyenin geçmesi için asırlarca bekledim. Çalmayı bildiğini sanmıyorum? Bilmiyor musun? Eh, peki o zaman..."
+    },
+    {
+      "id": "782d73ae",
+      "bank_id": "b0bcb600",
+      "text": "Gerçek bir müzisyen olduğunu sanmıştım. O lavtayı başkasından mı çaldın yoksa?"
+    },
+    {
+      "id": "792d7501",
+      "bank_id": "b0bcb600",
+      "text": "Hobbe gaz yarışmalarında bile bundan daha fazla melodi gördüm."
+    },
+    {
+      "id": "8b6fa876",
+      "bank_id": "b0bcb600",
+      "text": "Nasıl bir çağda yaşıyoruz. Rookridge'deki kuzenimin ölümüne sıkılmasına şaşmamalı. Gerçi o havlayan tüy yumağının onu kısa bir süre de olsa eğlendireceğine bahse girerim."
+    },
+    {
+      "id": "8d52ed40",
+      "bank_id": "b0bcb600",
+      "text": "En büyük hayranınım biliyor musun? Eserlerinin büyük bir hayranıyım. Özellikle de o eski komik şarkıların. Onları duymaya bayılırdım!"
+    },
+    {
+      "id": "8f52f0a6",
+      "bank_id": "b0bcb600",
+      "text": "Hadi ama, güzel bir konser ver de kulise geçmene izin vereyim. Ne dersin?"
+    },
+    {
+      "id": "9052f219",
+      "bank_id": "b0bcb600",
+      "text": "Tamam, adını sanını hiç duymadım ama yine de çaldığını duymak için her şeyi yapardım."
+    },
+    {
+      "id": "94b56462",
+      "bank_id": "b0bcb600",
+      "text": "Son birkaç bin yılda gördüğüm yozlaşmalardan bazılarına inanamazsın. Üstelik çoğunun sorumlusu Westcliff'teki o Kapı. Utanç verici."
+    },
+    {
+      "id": "a2a8c1f6",
+      "bank_id": "b0bcb600",
+      "text": "Bloodstone İblis Kapısı"
+    },
+    {
+      "id": "abf795f4",
+      "bank_id": "b0bcb600",
+      "text": "Kusura bakma, orada olduğunu görmedim."
+    },
+    {
+      "id": "aca712d8",
+      "bank_id": "b0bcb600",
+      "text": "Ozanlar eskiden hep buradan geçerdi ama yıllardır bir lavta görmedim. La!"
+    },
+    {
+      "id": "acf79767",
+      "bank_id": "b0bcb600",
+      "text": "Kulağa berbat geliyor, değil mi? Do! Fa! Mi! Ah, nafile."
+    },
+    {
+      "id": "ada7144b",
+      "bank_id": "b0bcb600",
+      "text": "Konserlere bile gidemiyorum. Müziksiz, melodisiz, amaçsız öylece burada tıkılıp kaldım işte."
+    },
+    {
+      "id": "aed13109",
+      "bank_id": "b0bcb600",
+      "text": "Eee, Wraithmarsh'taki o gazman tiyatrocu o kadar can attığı seyircisini bulabildi mi bari?"
+    },
+    {
+      "id": "aef79a4d",
+      "bank_id": "b0bcb600",
+      "text": "Do! Do Mi Re! Do!"
+    },
+    {
+      "id": "afa71791",
+      "bank_id": "b0bcb600",
+      "text": "Sol! Mi! Re! Ah, gerçek bir müzik dinlemek için neler vermezdim..."
+    },
+    {
+      "id": "b2a71c6a",
+      "bank_id": "b0bcb600",
+      "text": "La! Re! Fa!"
+    },
+    {
+      "id": "b3a71ddd",
+      "bank_id": "b0bcb600",
+      "text": "Mi! La! Sol! Ah, belki de haklılar. İblis Kapıları'nın şarkı söylemekle ne işi olur. Taş müziği sadece gürültüden ibaret..."
+    },
+    {
+      "id": "c554c77b",
+      "bank_id": "b0bcb600",
+      "text": "Bower Gölü Kapısı hâlâ büyük bir yazar gibi davranmaya devam ediyor mu? Ne büyük bir hezeyan."
+    },
+    {
+      "id": "c6677d18",
+      "bank_id": "b0bcb600",
+      "text": "Gerçek olabilir mi bu? Nihayet gerçek bir müzik mi?"
+    },
+    {
+      "id": "c7677e8b",
+      "bank_id": "b0bcb600",
+      "text": "Bir lavtacının varlığını hissediyorum!"
+    },
+    {
+      "id": "c867807e",
+      "bank_id": "b0bcb600",
+      "text": "Faaaa! Dooo! Reeee! Bekle!"
+    },
+    {
+      "id": "cc7f22a2",
+      "bank_id": "b0bcb600",
+      "text": "Bowerstone Mezarlığı'ndaki leş meraklısı Kapı ile konuşma talihsizliğine eriştin mi henüz? Epey kısıtlı bir kelime dağarcığı var, katılacağına eminim."
+    },
+    {
+      "id": "d027eeec",
+      "bank_id": "b0bcb600",
+      "text": "O melankolik Oakfield Kapısı sana utanç verici bir şey yaptırdı mı henüz?"
+    },
+    {
+      "id": "dd2abfcf",
+      "bank_id": "b0bcb600",
+      "text": "Fairfax İblis Kapısı"
+    },
+    {
+      "id": "e65afc48",
+      "bank_id": "b0bcb600",
+      "text": "Harikulade. Devam et lütfen."
+    },
+    {
+      "id": "e75afe3b",
+      "bank_id": "b0bcb600",
+      "text": "Ne güzel bir müzik... Daha fazla! Daha fazla!"
+    },
+    {
+      "id": "e85affae",
+      "bank_id": "b0bcb600",
+      "text": "Ah, harika çalıyorsun. Sakın durma!"
+    },
+    {
+      "id": "ed10d498",
+      "bank_id": "b0bcb600",
+      "text": "Hemen pes etme ama. Neden bir daha denemiyorsun?"
+    },
+    {
+      "id": "ed5b074d",
+      "bank_id": "b0bcb600",
+      "text": "Evet, çalmaya devam et!"
+    },
+    {
+      "id": "ef5ba2aa",
+      "bank_id": "b0bcb600",
+      "text": "Rookridge Kapısı'nın o tüylü yoldaşını son derece eğlenceli bulacağına eminim."
+    }
+  ]
+}

@@ -1,0 +1,1471 @@
+{
+  "bank_id": "e0ad3602",
+  "total_strings": 293,
+  "strings": [
+    {
+      "id": "00941100",
+      "bank_id": "e0ad3602",
+      "text": "Hmm, bu konuda seninle pek aynı fikirde değilim."
+    },
+    {
+      "id": "00941101",
+      "bank_id": "e0ad3602",
+      "text": "Bu konuda pek emin değilim."
+    },
+    {
+      "id": "00941102",
+      "bank_id": "e0ad3602",
+      "text": "Hmm, katıldığımdan pek emin değilim."
+    },
+    {
+      "id": "00941104",
+      "bank_id": "e0ad3602",
+      "text": "Bu konuda sana katılamayacağım."
+    },
+    {
+      "id": "00941105",
+      "bank_id": "e0ad3602",
+      "text": "Bu konuda pek emin değilim."
+    },
+    {
+      "id": "00941106",
+      "bank_id": "e0ad3602",
+      "text": "Boş konuşuyorsun."
+    },
+    {
+      "id": "00941107",
+      "bank_id": "e0ad3602",
+      "text": "Yok ya, yanılıyorsun."
+    },
+    {
+      "id": "0158f140",
+      "bank_id": "e0ad3602",
+      "text": "Çok teşekkürler."
+    },
+    {
+      "id": "0158f142",
+      "bank_id": "e0ad3602",
+      "text": "Ah teşekkürler!"
+    },
+    {
+      "id": "0158f143",
+      "bank_id": "e0ad3602",
+      "text": "Ah teşekkürler!"
+    },
+    {
+      "id": "0158f144",
+      "bank_id": "e0ad3602",
+      "text": "Ah teşekkürler!"
+    },
+    {
+      "id": "0158f145",
+      "bank_id": "e0ad3602",
+      "text": "Şey, teşekkürler."
+    },
+    {
+      "id": "0158f146",
+      "bank_id": "e0ad3602",
+      "text": "Çok teşekkürler."
+    },
+    {
+      "id": "0158f147",
+      "bank_id": "e0ad3602",
+      "text": "Ah teşekkürler!"
+    },
+    {
+      "id": "05f6b394",
+      "bank_id": "e0ad3602",
+      "text": "Bunu kim yaptıysa çok uzağa gitmiş olamaz."
+    },
+    {
+      "id": "05f6b397",
+      "bank_id": "e0ad3602",
+      "text": "Soruşturmamızda yeni bir ipucu yok mu? Kahretsin."
+    },
+    {
+      "id": "09941f68",
+      "bank_id": "e0ad3602",
+      "text": "Bu konuda seninle aynı gözle baktığımızdan emin değilim."
+    },
+    {
+      "id": "09941f69",
+      "bank_id": "e0ad3602",
+      "text": "Yok, yok, katılmıyorum."
+    },
+    {
+      "id": "09941f6a",
+      "bank_id": "e0ad3602",
+      "text": "Ne? Yok canım, hiç sanmam."
+    },
+    {
+      "id": "09941f6b",
+      "bank_id": "e0ad3602",
+      "text": "Orada yanılıyorsun işte."
+    },
+    {
+      "id": "09941f6c",
+      "bank_id": "e0ad3602",
+      "text": "Hmm, bu konuda sana katıldığımı sanmıyorum."
+    },
+    {
+      "id": "09941f6d",
+      "bank_id": "e0ad3602",
+      "text": "Cidden mi? Hiç sanmıyorum."
+    },
+    {
+      "id": "09941f6f",
+      "bank_id": "e0ad3602",
+      "text": "Sanmıyorum."
+    },
+    {
+      "id": "09e9fef1",
+      "bank_id": "e0ad3602",
+      "text": "Bugünlerde ortalık bayağı sessiz. Tam da sevdiğimiz gibi."
+    },
+    {
+      "id": "09e9fef2",
+      "bank_id": "e0ad3602",
+      "text": "Ahh, böyle her yerin huzur dolu olmasına bayılmıyor musun?"
+    },
+    {
+      "id": "109b058d",
+      "bank_id": "e0ad3602",
+      "text": "Fırsatını bulsa bu kasabanın altını üstüne getirecek biri geçiyor oradan."
+    },
+    {
+      "id": "109b058e",
+      "bank_id": "e0ad3602",
+      "text": "Teyakkuzda kalalım. Kasabada azılı bir suçlu var."
+    },
+    {
+      "id": "10d74b68",
+      "bank_id": "e0ad3602",
+      "text": "Çok üzgünüm ama artık gitmem gerekiyor."
+    },
+    {
+      "id": "10d74b69",
+      "bank_id": "e0ad3602",
+      "text": "Korkarım önceden ayarlanmış bir işim var. Görüşürüz."
+    },
+    {
+      "id": "10d74b6a",
+      "bank_id": "e0ad3602",
+      "text": "Sonra görüşürüz, ben kaçtım."
+    },
+    {
+      "id": "10d74b6b",
+      "bank_id": "e0ad3602",
+      "text": "Eh, artık gitmeliyim. Görüşürüz."
+    },
+    {
+      "id": "10d74b6c",
+      "bank_id": "e0ad3602",
+      "text": "Geç kaldığımı yeni fark ettim. Sonra görüşürüz."
+    },
+    {
+      "id": "10d74b6d",
+      "bank_id": "e0ad3602",
+      "text": "Kabalık etmek istemem ama gitmem lazım!"
+    },
+    {
+      "id": "10d74b6e",
+      "bank_id": "e0ad3602",
+      "text": "Eh, artık hemen fırlamam lazım."
+    },
+    {
+      "id": "19d759b8",
+      "bank_id": "e0ad3602",
+      "text": "Artık cidden gitmeliyim. Görüşürüz!"
+    },
+    {
+      "id": "19d759b9",
+      "bank_id": "e0ad3602",
+      "text": "Geç kalıyorum. Sonra görüşürüz."
+    },
+    {
+      "id": "19d759bb",
+      "bank_id": "e0ad3602",
+      "text": "Korkarım hemen fırlamam lazım."
+    },
+    {
+      "id": "19d759bc",
+      "bank_id": "e0ad3602",
+      "text": "Artık cidden gitmeliyim. Görüşürüz!"
+    },
+    {
+      "id": "19d759bd",
+      "bank_id": "e0ad3602",
+      "text": "Hoşça kal, artık gitmem gerek."
+    },
+    {
+      "id": "19d759be",
+      "bank_id": "e0ad3602",
+      "text": "Artık gitmeliyim. Görüşürüz."
+    },
+    {
+      "id": "19d759bf",
+      "bank_id": "e0ad3602",
+      "text": "Gitmem lazım artık. Hoşça kal."
+    },
+    {
+      "id": "1c4e3c40",
+      "bank_id": "e0ad3602",
+      "text": "Bu son derece endişe verici."
+    },
+    {
+      "id": "1c4e3c41",
+      "bank_id": "e0ad3602",
+      "text": "Aman tanrım. Vah vah vah."
+    },
+    {
+      "id": "1c4e3c42",
+      "bank_id": "e0ad3602",
+      "text": "Olamaz, bu... bu hiç iyi değil."
+    },
+    {
+      "id": "1c4e3c43",
+      "bank_id": "e0ad3602",
+      "text": "Bu seni de korkutmuyor mu?"
+    },
+    {
+      "id": "1c4e3c44",
+      "bank_id": "e0ad3602",
+      "text": "Bu, bu... hiç ama hiç hoşuma gitmedi."
+    },
+    {
+      "id": "1c4e3c45",
+      "bank_id": "e0ad3602",
+      "text": "Korkutucu değil mi?"
+    },
+    {
+      "id": "1c4e3c47",
+      "bank_id": "e0ad3602",
+      "text": "Beni cidden çok korkutuyor."
+    },
+    {
+      "id": "1e9742d5",
+      "bank_id": "e0ad3602",
+      "text": "Dikkatli olun, bilinen bir küçük suçlu geçiyor."
+    },
+    {
+      "id": "1e9742d6",
+      "bank_id": "e0ad3602",
+      "text": "Uyanık olun, aramızda tescilli bir suçlu var."
+    },
+    {
+      "id": "234e4748",
+      "bank_id": "e0ad3602",
+      "text": "Hepimizin sonu geldi."
+    },
+    {
+      "id": "234e4749",
+      "bank_id": "e0ad3602",
+      "text": "Aman tanrım. Vah vah."
+    },
+    {
+      "id": "234e474a",
+      "bank_id": "e0ad3602",
+      "text": "Ah, bu o kadar korkutucu ki."
+    },
+    {
+      "id": "234e474c",
+      "bank_id": "e0ad3602",
+      "text": "Aman tanrım. Vah vah."
+    },
+    {
+      "id": "234e474d",
+      "bank_id": "e0ad3602",
+      "text": "Olamaz. Amanın amanın..."
+    },
+    {
+      "id": "234e474e",
+      "bank_id": "e0ad3602",
+      "text": "Bu hiç ama hiç iyi değil."
+    },
+    {
+      "id": "234e474f",
+      "bank_id": "e0ad3602",
+      "text": "Kahretsin... şaka yapıyorsun herhalde..."
+    },
+    {
+      "id": "25e79430",
+      "bank_id": "e0ad3602",
+      "text": "Hiçbir şey anlamıyorum yahu!"
+    },
+    {
+      "id": "25e79431",
+      "bank_id": "e0ad3602",
+      "text": "Hiçbir şey anlamadım doğrusu."
+    },
+    {
+      "id": "25e79433",
+      "bank_id": "e0ad3602",
+      "text": "Sence de kafa karıştırıcı değil mi?"
+    },
+    {
+      "id": "25e79434",
+      "bank_id": "e0ad3602",
+      "text": "Bu beni resmen karmaşaya sürüklüyor."
+    },
+    {
+      "id": "25e79435",
+      "bank_id": "e0ad3602",
+      "text": "Akıl almaz bir şey bu."
+    },
+    {
+      "id": "25e79436",
+      "bank_id": "e0ad3602",
+      "text": "Gerçekten anlam veremiyorum."
+    },
+    {
+      "id": "25e79437",
+      "bank_id": "e0ad3602",
+      "text": "Hiçbir şey anlamadım. Ya sen?"
+    },
+    {
+      "id": "2ce79f30",
+      "bank_id": "e0ad3602",
+      "text": "Anlamsız bir mesele."
+    },
+    {
+      "id": "2ce79f31",
+      "bank_id": "e0ad3602",
+      "text": "Bana pek mantıklı gelmiyor."
+    },
+    {
+      "id": "2ce79f32",
+      "bank_id": "e0ad3602",
+      "text": "Bana hiç mantıklı gelmiyor."
+    },
+    {
+      "id": "2ce79f33",
+      "bank_id": "e0ad3602",
+      "text": "Hiçbir şey anlamadım doğrusu."
+    },
+    {
+      "id": "2ce79f34",
+      "bank_id": "e0ad3602",
+      "text": "Hiçbir anlam ifade etmiyor..."
+    },
+    {
+      "id": "2ce79f35",
+      "bank_id": "e0ad3602",
+      "text": "Aklım almıyor yahu!"
+    },
+    {
+      "id": "2ce79f36",
+      "bank_id": "e0ad3602",
+      "text": "Bütün bunlar ne anlama geliyor ki?"
+    },
+    {
+      "id": "40ac5970",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "40ac5971",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "40ac5972",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "40ac5973",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "40ac5974",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "40ac5976",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "40ac5977",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "41c00f60",
+      "bank_id": "e0ad3602",
+      "text": "Bu insanı deli etmiyor mu sence de?"
+    },
+    {
+      "id": "41c00f61",
+      "bank_id": "e0ad3602",
+      "text": "Beni cidden fena halde sinirlendiriyor."
+    },
+    {
+      "id": "41c00f62",
+      "bank_id": "e0ad3602",
+      "text": "Sadece düşüncesi bile içimi öfkeyle dolduruyor!"
+    },
+    {
+      "id": "41c00f63",
+      "bank_id": "e0ad3602",
+      "text": "İnanılmaz derecede can sıkıcı bir şey."
+    },
+    {
+      "id": "41c00f64",
+      "bank_id": "e0ad3602",
+      "text": "Beni gerçekten çok öfkelendiriyor."
+    },
+    {
+      "id": "41c00f66",
+      "bank_id": "e0ad3602",
+      "text": "Bu insanı deli etmiyor mu sence de?"
+    },
+    {
+      "id": "41c00f67",
+      "bank_id": "e0ad3602",
+      "text": "Ah, sadece düşününce bile deliye dönüyorum!"
+    },
+    {
+      "id": "458b3e12",
+      "bank_id": "e0ad3602",
+      "text": "Pek emin değilim."
+    },
+    {
+      "id": "458b3e13",
+      "bank_id": "e0ad3602",
+      "text": "Eminim diyemem."
+    },
+    {
+      "id": "458b3e14",
+      "bank_id": "e0ad3602",
+      "text": "Hmm. Bu konuda pek emin değilim."
+    },
+    {
+      "id": "458b3e15",
+      "bank_id": "e0ad3602",
+      "text": "Kesin olarak bir şey söyleyemem doğrusu."
+    },
+    {
+      "id": "458b3e17",
+      "bank_id": "e0ad3602",
+      "text": "Pek emin değilim."
+    },
+    {
+      "id": "45ac6110",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "45ac6111",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "45ac6112",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "45ac6113",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "45ac6115",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "45ac6116",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "45ac6117",
+      "bank_id": "e0ad3602",
+      "text": "Hımm."
+    },
+    {
+      "id": "46c01700",
+      "bank_id": "e0ad3602",
+      "text": "Dostum, bu beni öyle öfkelendiriyor ki!"
+    },
+    {
+      "id": "46c01701",
+      "bank_id": "e0ad3602",
+      "text": "Beni çıldırtıyor bu!"
+    },
+    {
+      "id": "46c01702",
+      "bank_id": "e0ad3602",
+      "text": "Çıldırtıcı değil mi?"
+    },
+    {
+      "id": "46c01703",
+      "bank_id": "e0ad3602",
+      "text": "Hiçbir şey beni bundan daha fazla öfkelendiremez."
+    },
+    {
+      "id": "46c01705",
+      "bank_id": "e0ad3602",
+      "text": "Ah, bu beni deli ediyor!"
+    },
+    {
+      "id": "46c01706",
+      "bank_id": "e0ad3602",
+      "text": "Ne?! Kanımı beynime sıçratıyor resmen!"
+    },
+    {
+      "id": "46c01707",
+      "bank_id": "e0ad3602",
+      "text": "Ah, tam da bekleneceği gibi!"
+    },
+    {
+      "id": "4c8b4918",
+      "bank_id": "e0ad3602",
+      "text": "Emin değilim."
+    },
+    {
+      "id": "4c8b4919",
+      "bank_id": "e0ad3602",
+      "text": "Tamamen emin değilim."
+    },
+    {
+      "id": "4c8b491a",
+      "bank_id": "e0ad3602",
+      "text": "Pek bilmiyorum doğrusu."
+    },
+    {
+      "id": "4c8b491c",
+      "bank_id": "e0ad3602",
+      "text": "O konuda gerçekten bir şey bilmiyorum."
+    },
+    {
+      "id": "4c8b491d",
+      "bank_id": "e0ad3602",
+      "text": "Kayıtsız şartsız emin değilim."
+    },
+    {
+      "id": "4c8b491e",
+      "bank_id": "e0ad3602",
+      "text": "Belki, belki de..."
+    },
+    {
+      "id": "4c8b491f",
+      "bank_id": "e0ad3602",
+      "text": "Hmm, belki öyledir, belki değildir."
+    },
+    {
+      "id": "51e566d0",
+      "bank_id": "e0ad3602",
+      "text": "Ben de tam olarak bunu düşünüyordum."
+    },
+    {
+      "id": "51e566d1",
+      "bank_id": "e0ad3602",
+      "text": "Daha fazla katılamazdım."
+    },
+    {
+      "id": "51e566d3",
+      "bank_id": "e0ad3602",
+      "text": "Ah evet, haklısın."
+    },
+    {
+      "id": "51e566d4",
+      "bank_id": "e0ad3602",
+      "text": "Tamamen aynı fikirdeyim."
+    },
+    {
+      "id": "51e566d5",
+      "bank_id": "e0ad3602",
+      "text": "Kesinlikle katılıyorum."
+    },
+    {
+      "id": "51e566d6",
+      "bank_id": "e0ad3602",
+      "text": "Haksız sayılmazsın."
+    },
+    {
+      "id": "51e566d7",
+      "bank_id": "e0ad3602",
+      "text": "Aynen, çok doğru valla."
+    },
+    {
+      "id": "5486c898",
+      "bank_id": "e0ad3602",
+      "text": "İşler nasıl gidiyor?"
+    },
+    {
+      "id": "5486c89a",
+      "bank_id": "e0ad3602",
+      "text": "Her şey nasıl?"
+    },
+    {
+      "id": "5486c89b",
+      "bank_id": "e0ad3602",
+      "text": "Eee sende durumlar nasıl?"
+    },
+    {
+      "id": "5486c89c",
+      "bank_id": "e0ad3602",
+      "text": "Her şey yolunda mı?"
+    },
+    {
+      "id": "5486c89d",
+      "bank_id": "e0ad3602",
+      "text": "Nasıl gidiyor?"
+    },
+    {
+      "id": "5486c89e",
+      "bank_id": "e0ad3602",
+      "text": "Umarım hayat sana iyi davranıyordur?"
+    },
+    {
+      "id": "5486c89f",
+      "bank_id": "e0ad3602",
+      "text": "Eee nasıl gidiyor işler güçler?"
+    },
+    {
+      "id": "58e571d0",
+      "bank_id": "e0ad3602",
+      "text": "Gönülden katılıyorum."
+    },
+    {
+      "id": "58e571d1",
+      "bank_id": "e0ad3602",
+      "text": "Daha fazla katılamazdım."
+    },
+    {
+      "id": "58e571d2",
+      "bank_id": "e0ad3602",
+      "text": "Orada haksız sayılmazsın."
+    },
+    {
+      "id": "58e571d3",
+      "bank_id": "e0ad3602",
+      "text": "O konuda haklısın."
+    },
+    {
+      "id": "58e571d4",
+      "bank_id": "e0ad3602",
+      "text": "Evet, haklısın."
+    },
+    {
+      "id": "58e571d5",
+      "bank_id": "e0ad3602",
+      "text": "Evet, kesinlikle katılıyorum."
+    },
+    {
+      "id": "58e571d6",
+      "bank_id": "e0ad3602",
+      "text": "Evet, katılıyorum."
+    },
+    {
+      "id": "5986d0b9",
+      "bank_id": "e0ad3602",
+      "text": "Her şey nasıl gidiyor?"
+    },
+    {
+      "id": "5986d0ba",
+      "bank_id": "e0ad3602",
+      "text": "İşler nasıl?"
+    },
+    {
+      "id": "5986d0bb",
+      "bank_id": "e0ad3602",
+      "text": "Her şey yolunda mı?"
+    },
+    {
+      "id": "5986d0bc",
+      "bank_id": "e0ad3602",
+      "text": "Nasıl gidiyor?"
+    },
+    {
+      "id": "5986d0bd",
+      "bank_id": "e0ad3602",
+      "text": "Durumlar nasıl?"
+    },
+    {
+      "id": "5986d0be",
+      "bank_id": "e0ad3602",
+      "text": "İyisindir umarım?"
+    },
+    {
+      "id": "5986d0bf",
+      "bank_id": "e0ad3602",
+      "text": "Hayat nasıl gidiyor?"
+    },
+    {
+      "id": "5e97afe0",
+      "bank_id": "e0ad3602",
+      "text": "Bütün bunların ne anlama geldiğini merak ediyorum."
+    },
+    {
+      "id": "5e97afe1",
+      "bank_id": "e0ad3602",
+      "text": "Çok gizemli, değil mi?"
+    },
+    {
+      "id": "5e97afe2",
+      "bank_id": "e0ad3602",
+      "text": "Gerçek bir gizem doğrusu."
+    },
+    {
+      "id": "5e97afe3",
+      "bank_id": "e0ad3602",
+      "text": "Ne kadar da gizemli."
+    },
+    {
+      "id": "5e97afe4",
+      "bank_id": "e0ad3602",
+      "text": "Her şey o kadar tuhaf ki."
+    },
+    {
+      "id": "5e97afe6",
+      "bank_id": "e0ad3602",
+      "text": "Tam bir gizem."
+    },
+    {
+      "id": "5e97afe7",
+      "bank_id": "e0ad3602",
+      "text": "Bütün bunlar ne anlama gelebilir ki?"
+    },
+    {
+      "id": "630f14ea",
+      "bank_id": "e0ad3602",
+      "text": "Onun hakkında ne düşünüyorsun peki?"
+    },
+    {
+      "id": "6397b780",
+      "bank_id": "e0ad3602",
+      "text": "Bütün bunların ne anlama geldiğini kim bilebilir ki."
+    },
+    {
+      "id": "6397b781",
+      "bank_id": "e0ad3602",
+      "text": "Bütün bunlar ne anlama gelebilir ki?"
+    },
+    {
+      "id": "6397b782",
+      "bank_id": "e0ad3602",
+      "text": "Her şey bir gizem perdesiyle kaplı, değil mi?"
+    },
+    {
+      "id": "6397b783",
+      "bank_id": "e0ad3602",
+      "text": "Gizeme bürünmüş durumda."
+    },
+    {
+      "id": "6397b785",
+      "bank_id": "e0ad3602",
+      "text": "Kesinlikle çok gizemli."
+    },
+    {
+      "id": "6397b786",
+      "bank_id": "e0ad3602",
+      "text": "Hmm, bana sorarsan her şey çok gizemli."
+    },
+    {
+      "id": "6397b787",
+      "bank_id": "e0ad3602",
+      "text": "Bilmeceler kutusu içindeki bir muammaya sarılı bir gizem gibi sanki."
+    },
+    {
+      "id": "689ab86d",
+      "bank_id": "e0ad3602",
+      "text": "İpucu aramaya devam edersek belki bir şeyler bulabiliriz."
+    },
+    {
+      "id": "689ab86e",
+      "bank_id": "e0ad3602",
+      "text": "Bunu çözebiliriz. Sadece kafa kafaya vermemiz gerek."
+    },
+    {
+      "id": "6de08d50",
+      "bank_id": "e0ad3602",
+      "text": "Gülmemek lazım ama insan bazen kendini tutamıyor işte. Ha."
+    },
+    {
+      "id": "6de08d51",
+      "bank_id": "e0ad3602",
+      "text": "Yüzümü güldürüyor doğrusu, söylemeden edemeyeceğim."
+    },
+    {
+      "id": "6de08d52",
+      "bank_id": "e0ad3602",
+      "text": "Ha ha, aslında bayağı komik."
+    },
+    {
+      "id": "6de08d53",
+      "bank_id": "e0ad3602",
+      "text": "İçimi gıdıklıyor valla."
+    },
+    {
+      "id": "6de08d54",
+      "bank_id": "e0ad3602",
+      "text": "Ha ha! Gülmemek elde değil!"
+    },
+    {
+      "id": "6de08d55",
+      "bank_id": "e0ad3602",
+      "text": "Aslında bayağı komik."
+    },
+    {
+      "id": "6de08d57",
+      "bank_id": "e0ad3602",
+      "text": "Düşününce epey komik aslında."
+    },
+    {
+      "id": "74e09858",
+      "bank_id": "e0ad3602",
+      "text": "Eh, gülmemek elde değil."
+    },
+    {
+      "id": "74e09859",
+      "bank_id": "e0ad3602",
+      "text": "Ha! Aslında resmen kahkaha tufanı."
+    },
+    {
+      "id": "74e0985a",
+      "bank_id": "e0ad3602",
+      "text": "Eh, kabul etmek gerekir ki bayağı komik."
+    },
+    {
+      "id": "74e0985c",
+      "bank_id": "e0ad3602",
+      "text": "Gerçekten son derece eğlenceli."
+    },
+    {
+      "id": "74e0985d",
+      "bank_id": "e0ad3602",
+      "text": "Son derece eğlenceli."
+    },
+    {
+      "id": "74e0985e",
+      "bank_id": "e0ad3602",
+      "text": "Komik şeyler bunlar."
+    },
+    {
+      "id": "74e0985f",
+      "bank_id": "e0ad3602",
+      "text": "A-ha! Bayağı eğlenceli, değil mi?"
+    },
+    {
+      "id": "a1e72f69",
+      "bank_id": "e0ad3602",
+      "text": "Yine kanunları çiğneyeceği kesin olan biri geçiyor oradan."
+    },
+    {
+      "id": "a1e72f6a",
+      "bank_id": "e0ad3602",
+      "text": "Şuradaki tip bazı kabahatlerin sorumlusudur işte."
+    },
+    {
+      "id": "b0cdf760",
+      "bank_id": "e0ad3602",
+      "text": "Korkarım hiçbir haberim yok."
+    },
+    {
+      "id": "b0cdf761",
+      "bank_id": "e0ad3602",
+      "text": "Hiçbir şey duymadım."
+    },
+    {
+      "id": "b0cdf762",
+      "bank_id": "e0ad3602",
+      "text": "Yok, pek bir şey duyduğumu söyleyemem."
+    },
+    {
+      "id": "b0cdf764",
+      "bank_id": "e0ad3602",
+      "text": "Hiç haberim yok."
+    },
+    {
+      "id": "b0cdf765",
+      "bank_id": "e0ad3602",
+      "text": "Dikkate değer bir şey duymadım."
+    },
+    {
+      "id": "b0cdf766",
+      "bank_id": "e0ad3602",
+      "text": "Tek bir şey bile duymadım."
+    },
+    {
+      "id": "b0cdf767",
+      "bank_id": "e0ad3602",
+      "text": "Hiçbir şey olduğu yok."
+    },
+    {
+      "id": "b4c5dd40",
+      "bank_id": "e0ad3602",
+      "text": "Şunun üstünden gözümüzü ayırmasak iyi olur."
+    },
+    {
+      "id": "b4c5dd43",
+      "bank_id": "e0ad3602",
+      "text": "O üçkâğıtçı daha önce yakalanmıştı, o yüzden gözünüzü dört açın."
+    },
+    {
+      "id": "b9b30bac",
+      "bank_id": "e0ad3602",
+      "text": "Son davamızı düşünüp duruyorum ama çözmeye hâlâ yaklaşamadık."
+    },
+    {
+      "id": "b9b30baf",
+      "bank_id": "e0ad3602",
+      "text": "Yeni bir şey çıktı mı? Bu suçu cidden çözmemiz gerek. Aptal gibi görünmeye başladık."
+    },
+    {
+      "id": "b9ce0548",
+      "bank_id": "e0ad3602",
+      "text": "Henüz kayda değer bir şey duymadım."
+    },
+    {
+      "id": "b9ce0549",
+      "bank_id": "e0ad3602",
+      "text": "Korkarım pek haberim yok."
+    },
+    {
+      "id": "b9ce054a",
+      "bank_id": "e0ad3602",
+      "text": "Hiçbir şey duymadım."
+    },
+    {
+      "id": "b9ce054b",
+      "bank_id": "e0ad3602",
+      "text": "Buralarda yeni bir haber yok."
+    },
+    {
+      "id": "b9ce054c",
+      "bank_id": "e0ad3602",
+      "text": "Yeni bir şey duymadım."
+    },
+    {
+      "id": "b9ce054d",
+      "bank_id": "e0ad3602",
+      "text": "Buralarda yeni bir haber yok."
+    },
+    {
+      "id": "b9ce054f",
+      "bank_id": "e0ad3602",
+      "text": "Haber yok."
+    },
+    {
+      "id": "bbaddea0",
+      "bank_id": "e0ad3602",
+      "text": "Ne kadar korkunç!"
+    },
+    {
+      "id": "bbaddea1",
+      "bank_id": "e0ad3602",
+      "text": "Aman tanrım!"
+    },
+    {
+      "id": "bbaddea2",
+      "bank_id": "e0ad3602",
+      "text": "Korkunç değil mi?"
+    },
+    {
+      "id": "bbaddea4",
+      "bank_id": "e0ad3602",
+      "text": "Olamaz! Bu tek kelimeyle korkunç."
+    },
+    {
+      "id": "bbaddea5",
+      "bank_id": "e0ad3602",
+      "text": "Vah vah, olamaz!"
+    },
+    {
+      "id": "bbaddea6",
+      "bank_id": "e0ad3602",
+      "text": "Olamaz!"
+    },
+    {
+      "id": "bbaddea7",
+      "bank_id": "e0ad3602",
+      "text": "Olamaz!"
+    },
+    {
+      "id": "bf969328",
+      "bank_id": "e0ad3602",
+      "text": "Harika, değil mi?"
+    },
+    {
+      "id": "bf969329",
+      "bank_id": "e0ad3602",
+      "text": "Mükemmel değil mi?"
+    },
+    {
+      "id": "bf96932a",
+      "bank_id": "e0ad3602",
+      "text": "Ah, içimi öyle büyük bir neşeyle dolduruyor ki."
+    },
+    {
+      "id": "bf96932b",
+      "bank_id": "e0ad3602",
+      "text": "Gerçekten sevinç verici bir haber bu."
+    },
+    {
+      "id": "bf96932d",
+      "bank_id": "e0ad3602",
+      "text": "Buna öyle çok sevindim ki."
+    },
+    {
+      "id": "bf96932e",
+      "bank_id": "e0ad3602",
+      "text": "Bu beni çok mutlu ediyor!"
+    },
+    {
+      "id": "bf96932f",
+      "bank_id": "e0ad3602",
+      "text": "Tek kelimeyle harika, sence de öyle değil mi?"
+    },
+    {
+      "id": "c4adec88",
+      "bank_id": "e0ad3602",
+      "text": "Ne kadar korkunç."
+    },
+    {
+      "id": "c4adec89",
+      "bank_id": "e0ad3602",
+      "text": "Ne kadar feci."
+    },
+    {
+      "id": "c4adec8a",
+      "bank_id": "e0ad3602",
+      "text": "Bu hiç iyi olmadı."
+    },
+    {
+      "id": "c4adec8b",
+      "bank_id": "e0ad3602",
+      "text": "Bu berbat bir şey!"
+    },
+    {
+      "id": "c4adec8c",
+      "bank_id": "e0ad3602",
+      "text": "Bu berbat bir şey!"
+    },
+    {
+      "id": "c4adec8d",
+      "bank_id": "e0ad3602",
+      "text": "Bu çok feci!"
+    },
+    {
+      "id": "c4adec8f",
+      "bank_id": "e0ad3602",
+      "text": "Olamaz!"
+    },
+    {
+      "id": "c87f57b4",
+      "bank_id": "e0ad3602",
+      "text": "Silahlarınızı hazır tutun, oradan azılı bir suçlu geçiyor."
+    },
+    {
+      "id": "c87f57b7",
+      "bank_id": "e0ad3602",
+      "text": "O suçlu çok ciddi işler karıştırdı. Gözünüzü dört açsanız iyi edersiniz."
+    },
+    {
+      "id": "ca96a458",
+      "bank_id": "e0ad3602",
+      "text": "İnsanın yüzünü güldürüyor valla."
+    },
+    {
+      "id": "ca96a459",
+      "bank_id": "e0ad3602",
+      "text": "Bundan daha mutlu olamazdım."
+    },
+    {
+      "id": "ca96a45a",
+      "bank_id": "e0ad3602",
+      "text": "Böyle haberler insanın kalbini neşeyle dolduruyor, değil mi?"
+    },
+    {
+      "id": "ca96a45b",
+      "bank_id": "e0ad3602",
+      "text": "Harika değil mi?"
+    },
+    {
+      "id": "ca96a45c",
+      "bank_id": "e0ad3602",
+      "text": "Çok güzel değil mi?"
+    },
+    {
+      "id": "ca96a45e",
+      "bank_id": "e0ad3602",
+      "text": "Ve bundan daha mutlu olamazdım doğrusu."
+    },
+    {
+      "id": "ca96a45f",
+      "bank_id": "e0ad3602",
+      "text": "Ah, bu harika."
+    },
+    {
+      "id": "d2975181",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhaba!"
+    },
+    {
+      "id": "d2975182",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhaba!"
+    },
+    {
+      "id": "d2975183",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhaba!"
+    },
+    {
+      "id": "d2975184",
+      "bank_id": "e0ad3602",
+      "text": "Hey, selam."
+    },
+    {
+      "id": "d2975185",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhaba!"
+    },
+    {
+      "id": "d2975186",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhaba!"
+    },
+    {
+      "id": "d2975187",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhaba!"
+    },
+    {
+      "id": "d5ee3c89",
+      "bank_id": "e0ad3602",
+      "text": "Şu suçluya göz kulak olsak iyi ederiz. Pis herifin teki."
+    },
+    {
+      "id": "d5ee3c8a",
+      "bank_id": "e0ad3602",
+      "text": "Etrafta böyle azılı bir suçlu varken tetikte olmalıyız."
+    },
+    {
+      "id": "d6cfe0e0",
+      "bank_id": "e0ad3602",
+      "text": "Konuyu değiştirelim, olur mu?"
+    },
+    {
+      "id": "d6cfe0e1",
+      "bank_id": "e0ad3602",
+      "text": "Her neyse, devam edelim..."
+    },
+    {
+      "id": "d6cfe0e2",
+      "bank_id": "e0ad3602",
+      "text": "Her neyse..."
+    },
+    {
+      "id": "d6cfe0e4",
+      "bank_id": "e0ad3602",
+      "text": "Her neyse, devam edelim..."
+    },
+    {
+      "id": "d6cfe0e5",
+      "bank_id": "e0ad3602",
+      "text": "Hmm, evet, her neyse..."
+    },
+    {
+      "id": "d6cfe0e6",
+      "bank_id": "e0ad3602",
+      "text": "Başka bir şeyden bahsedelim."
+    },
+    {
+      "id": "d6cfe0e7",
+      "bank_id": "e0ad3602",
+      "text": "Aman her neyse. Başka bir şeyden bahsedelim."
+    },
+    {
+      "id": "d8ca8a3c",
+      "bank_id": "e0ad3602",
+      "text": "Şu maceracı hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "d8ca8a3d",
+      "bank_id": "e0ad3602",
+      "text": "Şu görev peşinde koşan kişi hakkındaki kanaatin nedir?"
+    },
+    {
+      "id": "d8ca8a3e",
+      "bank_id": "e0ad3602",
+      "text": "Şu maceracı hakkında fikrin nedir?"
+    },
+    {
+      "id": "d8ca8a3f",
+      "bank_id": "e0ad3602",
+      "text": "Şu maceracı peki, ne diyorsun?"
+    },
+    {
+      "id": "dd976330",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhaba."
+    },
+    {
+      "id": "dd976332",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhabalar."
+    },
+    {
+      "id": "dd976333",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhabalar."
+    },
+    {
+      "id": "dd976334",
+      "bank_id": "e0ad3602",
+      "text": "Selamlar."
+    },
+    {
+      "id": "dd976335",
+      "bank_id": "e0ad3602",
+      "text": "Merhabalar."
+    },
+    {
+      "id": "dd976336",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhabalar."
+    },
+    {
+      "id": "dd976337",
+      "bank_id": "e0ad3602",
+      "text": "Ah, merhabalar."
+    },
+    {
+      "id": "df565e98",
+      "bank_id": "e0ad3602",
+      "text": "Harika!"
+    },
+    {
+      "id": "df565e99",
+      "bank_id": "e0ad3602",
+      "text": "Çok sevindirici bir haber!"
+    },
+    {
+      "id": "df565e9a",
+      "bank_id": "e0ad3602",
+      "text": "Güzel!"
+    },
+    {
+      "id": "df565e9b",
+      "bank_id": "e0ad3602",
+      "text": "Nefis."
+    },
+    {
+      "id": "df565e9c",
+      "bank_id": "e0ad3602",
+      "text": "Harika!"
+    },
+    {
+      "id": "df565e9d",
+      "bank_id": "e0ad3602",
+      "text": "Güzel!"
+    },
+    {
+      "id": "df565e9e",
+      "bank_id": "e0ad3602",
+      "text": "Bu harika bir haber."
+    },
+    {
+      "id": "dfcfeec8",
+      "bank_id": "e0ad3602",
+      "text": "Her neyse, devam edelim..."
+    },
+    {
+      "id": "dfcfeec9",
+      "bank_id": "e0ad3602",
+      "text": "Hm, belki de konuyu değiştirmeliyiz."
+    },
+    {
+      "id": "dfcfeeca",
+      "bank_id": "e0ad3602",
+      "text": "Bu kadar yeter ama."
+    },
+    {
+      "id": "dfcfeecb",
+      "bank_id": "e0ad3602",
+      "text": "Ama başka bir şeyden bahsedelim."
+    },
+    {
+      "id": "dfcfeecc",
+      "bank_id": "e0ad3602",
+      "text": "Ama başka bir şeyden bahsedelim."
+    },
+    {
+      "id": "dfcfeecd",
+      "bank_id": "e0ad3602",
+      "text": "Her neyse..."
+    },
+    {
+      "id": "dfcfeecf",
+      "bank_id": "e0ad3602",
+      "text": "Her neyse, devam edelim..."
+    },
+    {
+      "id": "e4240250",
+      "bank_id": "e0ad3602",
+      "text": "Hazır sürüyorken bu sakin zamanların tadını çıkaralım."
+    },
+    {
+      "id": "e4240253",
+      "bank_id": "e0ad3602",
+      "text": "Böyle zamanlarda muhafız olduğuma şükrediyorum. Yapacak hiçbir iş yok. En sevdiğim aktivite."
+    },
+    {
+      "id": "e8566ce8",
+      "bank_id": "e0ad3602",
+      "text": "Harika bir şey bu!"
+    },
+    {
+      "id": "e8566ce9",
+      "bank_id": "e0ad3602",
+      "text": "Harika bir şey bu!"
+    },
+    {
+      "id": "e8566ceb",
+      "bank_id": "e0ad3602",
+      "text": "Mükemmel!"
+    },
+    {
+      "id": "e8566cec",
+      "bank_id": "e0ad3602",
+      "text": "Olağanüstü!"
+    },
+    {
+      "id": "e8566ced",
+      "bank_id": "e0ad3602",
+      "text": "Harika haber!"
+    },
+    {
+      "id": "e8566cee",
+      "bank_id": "e0ad3602",
+      "text": "Çok iyi be!"
+    },
+    {
+      "id": "e8566cef",
+      "bank_id": "e0ad3602",
+      "text": "Harika!"
+    },
+    {
+      "id": "eef23c28",
+      "bank_id": "e0ad3602",
+      "text": "Şikâyet ettiğimden değil ama son zamanlarda ortalık biraz fazla sıkıcı değil miydi?"
+    },
+    {
+      "id": "eef23c2b",
+      "bank_id": "e0ad3602",
+      "text": "Suç oranları düştü, çaya batırmalık bisküvilerimiz tazelendi... hayat bundan daha güzel olamazdı."
+    },
+    {
+      "id": "ef7ca730",
+      "bank_id": "e0ad3602",
+      "text": "Ah, ne kadar üzücü."
+    },
+    {
+      "id": "ef7ca731",
+      "bank_id": "e0ad3602",
+      "text": "Bu feci derecede üzücü."
+    },
+    {
+      "id": "ef7ca732",
+      "bank_id": "e0ad3602",
+      "text": "Yazık oldu valla."
+    },
+    {
+      "id": "ef7ca733",
+      "bank_id": "e0ad3602",
+      "text": "Ah, ne kadar acı."
+    },
+    {
+      "id": "ef7ca734",
+      "bank_id": "e0ad3602",
+      "text": "Ah, ne kadar acı."
+    },
+    {
+      "id": "ef7ca735",
+      "bank_id": "e0ad3602",
+      "text": "Gerçekten çok yazık."
+    },
+    {
+      "id": "ef7ca737",
+      "bank_id": "e0ad3602",
+      "text": "Çok üzücü, değil mi?"
+    },
+    {
+      "id": "f658e011",
+      "bank_id": "e0ad3602",
+      "text": "Teşekkürler!"
+    },
+    {
+      "id": "f658e012",
+      "bank_id": "e0ad3602",
+      "text": "Ah teşekkürler!"
+    },
+    {
+      "id": "f658e013",
+      "bank_id": "e0ad3602",
+      "text": "Ah teşekkürler!"
+    },
+    {
+      "id": "f658e014",
+      "bank_id": "e0ad3602",
+      "text": "Ah teşekkürler!"
+    },
+    {
+      "id": "f658e015",
+      "bank_id": "e0ad3602",
+      "text": "Teşekkürler."
+    },
+    {
+      "id": "f658e016",
+      "bank_id": "e0ad3602",
+      "text": "Teşekkür ederim."
+    },
+    {
+      "id": "f658e017",
+      "bank_id": "e0ad3602",
+      "text": "Ah teşekkürler!"
+    },
+    {
+      "id": "f67cb238",
+      "bank_id": "e0ad3602",
+      "text": "Bunun olduğuna inanamıyorum... inanamıyorum."
+    },
+    {
+      "id": "f67cb239",
+      "bank_id": "e0ad3602",
+      "text": "Ah, bu... bu korkunç bir şey."
+    },
+    {
+      "id": "f67cb23a",
+      "bank_id": "e0ad3602",
+      "text": "Bu çok üzücü."
+    },
+    {
+      "id": "f67cb23c",
+      "bank_id": "e0ad3602",
+      "text": "Bu gerçekten bayağı üzücü bir durum."
+    },
+    {
+      "id": "f67cb23d",
+      "bank_id": "e0ad3602",
+      "text": "Beni çok üzüyor."
+    },
+    {
+      "id": "f67cb23e",
+      "bank_id": "e0ad3602",
+      "text": "Büyük talihsizlik doğrusu."
+    },
+    {
+      "id": "f67cb23f",
+      "bank_id": "e0ad3602",
+      "text": "Hmm, yazık oldu doğrusu."
+    }
+  ]
+}

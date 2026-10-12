@@ -1,0 +1,661 @@
+{
+  "bank_id": "30bbb600",
+  "total_strings": 131,
+  "strings": [
+    {
+      "id": "0738bd14",
+      "bank_id": "30bbb600",
+      "text": "Etkileyici bir gösteriydi, etkileyici bir ödülü hak ediyor."
+    },
+    {
+      "id": "0bb16bc2",
+      "bank_id": "30bbb600",
+      "text": "Yıllık Cadı Avı Bülteni"
+    },
+    {
+      "id": "0da25a90",
+      "bank_id": "30bbb600",
+      "text": "Hevesiniz kırılmasın."
+    },
+    {
+      "id": "0dd73037",
+      "bank_id": "30bbb600",
+      "text": "Ah, fena halde şanssızlıktı. Neredeyse sonuna kadar gelmiştiniz. Belki bir dahaki sefere."
+    },
+    {
+      "id": "0ea25c03",
+      "bank_id": "30bbb600",
+      "text": "Denemeye devam edin, başaracaksınız."
+    },
+    {
+      "id": "0ee28e00",
+      "bank_id": "30bbb600",
+      "text": "İddiaya girerim çok pratik yapıyorsunuzdur."
+    },
+    {
+      "id": "0fdb4596",
+      "bank_id": "30bbb600",
+      "text": "Geriye... Geriye bulunacak sadece tek bir parçası kaldı. O da Fairfax Bahçeleri'nde bir yerlerdeki mahzende."
+    },
+    {
+      "id": "0fe28ff3",
+      "bank_id": "30bbb600",
+      "text": "Mükemmel bir nişancısınız."
+    },
+    {
+      "id": "10db4709",
+      "bank_id": "30bbb600",
+      "text": "Doğru mezarı bulacağınıza eminim. Sizinle gelirdim ama... Şey, dışarı pek çıkmamaya çalışıyorum. İnsanlarla karşılaşabilirim."
+    },
+    {
+      "id": "11db48fc",
+      "bank_id": "30bbb600",
+      "text": "En azından parçaların serin ve kuru yerlere düşmüş."
+    },
+    {
+      "id": "11e292d9",
+      "bank_id": "30bbb600",
+      "text": "Ah, aferin."
+    },
+    {
+      "id": "12db4a6f",
+      "bank_id": "30bbb600",
+      "text": "Ah, tamam, evet. Çok teşekkür ederim. Muhtemelen bir arkadaşa sahip olmaya en çok yaklaştığım şeysiniz. Acınası, değil mi?"
+    },
+    {
+      "id": "14db4db5",
+      "bank_id": "30bbb600",
+      "text": "Ah, harika. Evet. Zavallı Lady Grey'im. Sana ne yaptılar böyle?"
+    },
+    {
+      "id": "15a26708",
+      "bank_id": "30bbb600",
+      "text": "Ah, şanssızlık."
+    },
+    {
+      "id": "16a831a8",
+      "bank_id": "30bbb600",
+      "text": "Ah, çok yakındı."
+    },
+    {
+      "id": "17a26a6e",
+      "bank_id": "30bbb600",
+      "text": "Gözünüzü hedeften ayırmayın."
+    },
+    {
+      "id": "17a8331b",
+      "bank_id": "30bbb600",
+      "text": "Bunda az kalsın vuruyordunuz."
+    },
+    {
+      "id": "18a26bc1",
+      "bank_id": "30bbb600",
+      "text": "Ne talihsizlik."
+    },
+    {
+      "id": "19a26db4",
+      "bank_id": "30bbb600",
+      "text": "Ah, neredeyse oluyordu."
+    },
+    {
+      "id": "1aa26f27",
+      "bank_id": "30bbb600",
+      "text": "Dikkatinizi dağıtmayın şimdi."
+    },
+    {
+      "id": "1ba2709a",
+      "bank_id": "30bbb600",
+      "text": "Sanırım hareket etti, yani pek sizin suçunuz sayılmaz."
+    },
+    {
+      "id": "1ca2720d",
+      "bank_id": "30bbb600",
+      "text": "Şanssızlık."
+    },
+    {
+      "id": "233439f5",
+      "bank_id": "30bbb600",
+      "text": "Lady Grey setinin son parçası!"
+    },
+    {
+      "id": "2823a50e",
+      "bank_id": "30bbb600",
+      "text": "Ah, atış poligonumuzda bu tür davranışları hiç teşvik etmeyiz, hayır hayır."
+    },
+    {
+      "id": "2a23a854",
+      "bank_id": "30bbb600",
+      "text": "Yeterince yüksek puan alırsanız bir sonraki tura geçersiniz."
+    },
+    {
+      "id": "2b23a9c7",
+      "bank_id": "30bbb600",
+      "text": "Masum köylülerin kartondan hedeflerini vurmanın son derece sert karşılanacağını ve puanınızdan kesileceğini söylemeye gerek bile yok."
+    },
+    {
+      "id": "2b3e8e00",
+      "bank_id": "30bbb600",
+      "text": "Ah, ne yazık oldu. Belki bir dahaki sefere daha iyi yaparsınız."
+    },
+    {
+      "id": "2d23ad2d",
+      "bank_id": "30bbb600",
+      "text": "Ah, çok iyi. Şimdi, lütfen vurabildiğiniz kadar çok hedef vurmaya çalışın."
+    },
+    {
+      "id": "2df63a0c",
+      "bank_id": "30bbb600",
+      "text": "Dünyanın en muazzam ödülü sayılmaz ama yine de gurur duyulacak bir şey."
+    },
+    {
+      "id": "3719fd44",
+      "bank_id": "30bbb600",
+      "text": "Tatlı leydim. Sana her zaman bakacağıma söz veriyorum."
+    },
+    {
+      "id": "3a1a021d",
+      "bank_id": "30bbb600",
+      "text": "Ah, seni daha önce fark etmemiştim... Tuhaf küçük adam. Yine de seni garip bir şekilde çekici buluyorum."
+    },
+    {
+      "id": "3bd67352",
+      "bank_id": "30bbb600",
+      "text": "Bowerstone Mezarlığı'ndaki yalnız mezar bekçisi garip bir deney yürütüyor."
+    },
+    {
+      "id": "3c414908",
+      "bank_id": "30bbb600",
+      "text": "Buradayım! İçeri gelin."
+    },
+    {
+      "id": "3d414afb",
+      "bank_id": "30bbb600",
+      "text": "Bodrumdayım. Her şey hazır."
+    },
+    {
+      "id": "3f414dc1",
+      "bank_id": "30bbb600",
+      "text": "İçeri gelin! Kapı açık."
+    },
+    {
+      "id": "40d21474",
+      "bank_id": "30bbb600",
+      "text": "İlk tur bile yeni başlayanlar için zorlayıcı olabilir. Bir dahaki sefere bol şans."
+    },
+    {
+      "id": "486df288",
+      "bank_id": "30bbb600",
+      "text": "Tüm aile için eğlence! Küçükler ve kalp rahatsızlığı olanlar hariç."
+    },
+    {
+      "id": "496df47b",
+      "bank_id": "30bbb600",
+      "text": "Gelin ve kendinize neşeli, heyecan verici bir deneyim hediye edin."
+    },
+    {
+      "id": "4a6df5ee",
+      "bank_id": "30bbb600",
+      "text": "Neden tamamen yeni, tamamen yasal ve hiç de fena olmayan atış poligonumuzu denemiyorsunuz millet? Ha-ha."
+    },
+    {
+      "id": "533f615e",
+      "bank_id": "30bbb600",
+      "text": "Bir para ödülü. Lütfen hediye dükkânına uğrayın."
+    },
+    {
+      "id": "54b4f662",
+      "bank_id": "30bbb600",
+      "text": "Bacaklar verilsin mi?"
+    },
+    {
+      "id": "55b4f7d5",
+      "bank_id": "30bbb600",
+      "text": "Gövde verilsin mi?"
+    },
+    {
+      "id": "56b4f948",
+      "bank_id": "30bbb600",
+      "text": "Mezar bekçisi için vücut parçaları toplansın mı?"
+    },
+    {
+      "id": "57b4fb3b",
+      "bank_id": "30bbb600",
+      "text": "Kollar verilsin mi?"
+    },
+    {
+      "id": "58b4fcae",
+      "bank_id": "30bbb600",
+      "text": "Gövde verilsin mi?"
+    },
+    {
+      "id": "59b4fe01",
+      "bank_id": "30bbb600",
+      "text": "Kafa verilsin mi?"
+    },
+    {
+      "id": "5a3cf898",
+      "bank_id": "30bbb600",
+      "text": "Size şunu sunmaktan mutluluk duyarım..."
+    },
+    {
+      "id": "5ab4fff4",
+      "bank_id": "30bbb600",
+      "text": "Kollar verilsin mi?"
+    },
+    {
+      "id": "5bb50167",
+      "bank_id": "30bbb600",
+      "text": "Bacaklar verilsin mi?"
+    },
+    {
+      "id": "5db5044d",
+      "bank_id": "30bbb600",
+      "text": "Mezar bekçisi için vücut parçaları toplansın mı?"
+    },
+    {
+      "id": "5f656728",
+      "bank_id": "30bbb600",
+      "text": "Vay canına, kazanılacak epey sevimli ödüllerimiz var. <laughs>"
+    },
+    {
+      "id": "61656a0e",
+      "bank_id": "30bbb600",
+      "text": "Cansız kötüleri vurmak harika bir stres atma yöntemidir. Hadi, deneyin bir!"
+    },
+    {
+      "id": "62656be1",
+      "bank_id": "30bbb600",
+      "text": "Bir deneyin! Neden olmasın? Hepsi tertemiz, masum eğlence. <laughs>"
+    },
+    {
+      "id": "6b00330c",
+      "bank_id": "30bbb600",
+      "text": "İlk, şey, bilimsel keşif seferiniz Rookridge'e. Oradaki bir mağarada gizlenmiş güzel bir vücut parçası olmalı."
+    },
+    {
+      "id": "6c0034ff",
+      "bank_id": "30bbb600",
+      "text": "İyi şanslar!"
+    },
+    {
+      "id": "6e0037c5",
+      "bank_id": "30bbb600",
+      "text": "Ah, güzel, güzel."
+    },
+    {
+      "id": "6e5625db",
+      "bank_id": "30bbb600",
+      "text": "Ah, nihayet! Bu günün geleceğini hiç düşünmemiştim tatlı leydim."
+    },
+    {
+      "id": "6f56274e",
+      "bank_id": "30bbb600",
+      "text": "Seni laboratuvarıma götürme vaktim geldi."
+    },
+    {
+      "id": "75bf4ed0",
+      "bank_id": "30bbb600",
+      "text": "Bazı insanlar... Şey, ondan pek hoşlanmazlardı. Gerçekte ne kadar harika bir insan olduğunu göremediler."
+    },
+    {
+      "id": "762247a4",
+      "bank_id": "30bbb600",
+      "text": "Artık silahınızı bırakabilirsiniz."
+    },
+    {
+      "id": "76bf5043",
+      "bank_id": "30bbb600",
+      "text": "Ona bir cadı dediler ve... Şey, kafasını kestiler. Sonra da bedenini üç farklı yere gömdüler."
+    },
+    {
+      "id": "77bf5236",
+      "bank_id": "30bbb600",
+      "text": "Ama böyle korkunç hikâyelerle vakit kaybetmeyelim. İkinci parçası Bloodstone ile Wraithmarsh arasındaki bir mezarda saklı. Lütfen onu bulun."
+    },
+    {
+      "id": "78a092ca",
+      "bank_id": "30bbb600",
+      "text": "Kadın Üst Bedeni"
+    },
+    {
+      "id": "7abf568f",
+      "bank_id": "30bbb600",
+      "text": "Ah, o! Gerçekten, sahiden o!"
+    },
+    {
+      "id": "7bbf5862",
+      "bank_id": "30bbb600",
+      "text": "Artık size gerçeği söylesem iyi olur. Gördüğünüz gibi sadece bilimi ilerletmiyorum. Ben... Ben aşkı ilerletiyorum."
+    },
+    {
+      "id": "7cbf59d5",
+      "bank_id": "30bbb600",
+      "text": "Bu... Bu Lady Grey. Yani, en azından bir parçası. Çok uzun zaman önce yaşadı; korkunç, barbarca bir dönemde ve Bowerstone Belediye Başkanı'ydı."
+    },
+    {
+      "id": "7d9e1596",
+      "bank_id": "30bbb600",
+      "text": "Çok iyi. Artık son tura başlayabiliriz."
+    },
+    {
+      "id": "7ee2c171",
+      "bank_id": "30bbb600",
+      "text": "Gerekli beceriler olmadan Atış Poligonu'na girmek biraz tehlikeli olabilir. Belki de önce menzilli silah kullanmayı öğrenmelisiniz."
+    },
+    {
+      "id": "827de2c2",
+      "bank_id": "30bbb600",
+      "text": "Ah, tekrar oynamak ister misiniz?"
+    },
+    {
+      "id": "86b869e0",
+      "bank_id": "30bbb600",
+      "text": "Üst gövdeyi mezar bekçisine verin."
+    },
+    {
+      "id": "86b8e605",
+      "bank_id": "30bbb600",
+      "text": "Kadın Alt Bedeni"
+    },
+    {
+      "id": "87b86b53",
+      "bank_id": "30bbb600",
+      "text": "Wraithmarsh'taki bir mezardan bedenin parçasını ele geçirin."
+    },
+    {
+      "id": "88b86cc6",
+      "bank_id": "30bbb600",
+      "text": "Kafayı mezar bekçisine verin."
+    },
+    {
+      "id": "89b86eb9",
+      "bank_id": "30bbb600",
+      "text": "Fairfax Bahçeleri'ndeki bir mezardan Lady Grey'in kafasını ele geçirin."
+    },
+    {
+      "id": "8ab8702c",
+      "bank_id": "30bbb600",
+      "text": "Mezar bekçisi için vücut parçaları toplansın mı?"
+    },
+    {
+      "id": "8c589574",
+      "bank_id": "30bbb600",
+      "text": "Wraithmarsh'a giden yolun kilidini açın."
+    },
+    {
+      "id": "8cb87372",
+      "bank_id": "30bbb600",
+      "text": "Alt gövdeyi mezar bekçisine verin."
+    },
+    {
+      "id": "8d1ff8b0",
+      "bank_id": "30bbb600",
+      "text": "Aaaaaah! Hayatım bitti!"
+    },
+    {
+      "id": "8db874e5",
+      "bank_id": "30bbb600",
+      "text": "Rookridge'deki bir mağaradan bir vücut parçası ele geçirin."
+    },
+    {
+      "id": "8e1ffa23",
+      "bank_id": "30bbb600",
+      "text": "Hayıııır! Ne yaptınız siz?! O benim içindi. Benim!"
+    },
+    {
+      "id": "8f1ffb96",
+      "bank_id": "30bbb600",
+      "text": "Sevebileceğim tek kişi sensin. Çok mutlu olacağız."
+    },
+    {
+      "id": "92b87c84",
+      "bank_id": "30bbb600",
+      "text": "Mezar bekçisini koruyun."
+    },
+    {
+      "id": "93b87e77",
+      "bank_id": "30bbb600",
+      "text": "Mezar bekçisini takip edin."
+    },
+    {
+      "id": "95ca5183",
+      "bank_id": "30bbb600",
+      "text": "Şimdiye kadar karşılaştığım en yetenekli nişancısınız, büyük ödülümüzü sonuna kadar hak ettiniz! Ha ha ha! Güle güle kullanın."
+    },
+    {
+      "id": "96cc1b54",
+      "bank_id": "30bbb600",
+      "text": "Ateş edebilirsiniz!"
+    },
+    {
+      "id": "98cc1eba",
+      "bank_id": "30bbb600",
+      "text": "Ve... Başla!"
+    },
+    {
+      "id": "99cc202d",
+      "bank_id": "30bbb600",
+      "text": "Ateş serbest!"
+    },
+    {
+      "id": "a2829147",
+      "bank_id": "30bbb600",
+      "text": "Çoktan ölmüş olsa da bu bacakların bir zamanlar güzel bir kadına ait olduğuna hiç şüphe yok."
+    },
+    {
+      "id": "a572a2d9",
+      "bank_id": "30bbb600",
+      "text": "Ah, küçük ama pek hoş bir ödül."
+    },
+    {
+      "id": "a8d1ec23",
+      "bank_id": "30bbb600",
+      "text": "Albion'un en iyi atış poligonunda becerinizi sınayın!"
+    },
+    {
+      "id": "a9d1ed96",
+      "bank_id": "30bbb600",
+      "text": "Bazı harika ödüllere giden yolda ateş edin!"
+    },
+    {
+      "id": "aad1ef09",
+      "bank_id": "30bbb600",
+      "text": "Westcliff atış poligonunda tüm aile için eğlence!"
+    },
+    {
+      "id": "abebb283",
+      "bank_id": "30bbb600",
+      "text": "Yepyeni ve çok geliştirilmiş atış poligonunda becerinizi sınamak ister misiniz?"
+    },
+    {
+      "id": "acfd215a",
+      "bank_id": "30bbb600",
+      "text": "Aferin. Şimdi başlıyoruz... Tur 2!"
+    },
+    {
+      "id": "acfed20f",
+      "bank_id": "30bbb600",
+      "text": "Umarım bizi tekrar ziyaret edersiniz."
+    },
+    {
+      "id": "af7bec20",
+      "bank_id": "30bbb600",
+      "text": "Artık feshedilmiş olan Albion Cadı Avcıları Cemiyeti'nin bu antik bülteni, Lady Grey adındaki bir kadının 'cadılık ve makul olmayan çekicilik' suçlamalarıyla yakalanmasını ayrıntılarıyla anlatıyor. Ana makale, Cadı Avcısı Generali Vincent Hopkins'in Bowerstone halkı önünde sunduğu muzaffer kanıtları tasvir ediyor.\nCoşkulu alkışlar ve çığlıklar arasında, 'Erkekleri iğrenç iksirlerle kölesi yapıyor ve göğüsleri son derece ahlaksızca öne fırlıyor,' diyerek sözlerini tamamladı.\nO dönemde Bowerstone Belediye Başkanı olan Lady Grey, ayrıca hobbe'lerle düşüp kalkmak ve Kahramanları yoldan çıkarmaya çalışmakla suçlandı. Cemiyet oy birliğiyle onun idam edilmesine ve parçalanmasına, beden parçalarının nerelere gizleneceğine ise bir komitenin karar vermesine hükmetti.\nMakaleye eşlik eden Cadı Avcısı Generali resmi, yakın zamanda boynuzlar ve çeşitli kaba hakaretler eklenerek tahrip edilmiş gibi görünüyor."
+    },
+    {
+      "id": "b0a8fc53",
+      "bank_id": "30bbb600",
+      "text": "Demek istediğim şey, çeşitli anatomik numunelerin tamamen yasal ve hiç de tekinsiz olmayan bir şekilde toplanması."
+    },
+    {
+      "id": "b1a8fdc6",
+      "bank_id": "30bbb600",
+      "text": "Çok ama çok önemli meseleler. Tek yapmanız gereken birkaç değerli ceset parçası toplamak."
+    },
+    {
+      "id": "b2a8ffb9",
+      "bank_id": "30bbb600",
+      "text": "Yoksa... Evet! Bu yüzyılın en önemli bilimsel deneyine yardımcı olmak ister miydiniz?"
+    },
+    {
+      "id": "b3a9012c",
+      "bank_id": "30bbb600",
+      "text": "Hâlâ orada mısınız? Gidin başımdan."
+    },
+    {
+      "id": "b4a9029f",
+      "bank_id": "30bbb600",
+      "text": "Şey, içerideyim ama meşgulüm. Kesinlikle anormal olmayan hiçbir şey yapmıyorum."
+    },
+    {
+      "id": "b5a90472",
+      "bank_id": "30bbb600",
+      "text": "Evde yokum."
+    },
+    {
+      "id": "b7950996",
+      "bank_id": "30bbb600",
+      "text": "Bu, Bowerstone mezar bekçisi Victor'un günlüğüdür. Erken dönemdeki kayıtların çoğu yalnızlık ve kasabanın çeşitli kızlarına duyulan karşılıksız aşklar hakkındaki karanlık, kederli düşüncelerden oluşuyor. Victor, hem mezarlığın yanındaki evi ve beraberindeki işi, hem de arkadaş olmaya çalıştığı herkes için kendisini bir yabancı kılan damgayı miras aldı.\nBir kayıt, büyükbabasının inşa ettiği gizli odayı keşfettiği günü işaret ediyor; orada başka şeylerin yanı sıra gördüğü en güzel kadının tablosunu bulmuştu: Lady Grey. Tıpkı büyükbabası gibi o da kadına aşık oldu ve büyükbabasının başarısız olduğu yerde, diriltme ve aşk büyüleri üzerine tehlikeli deneylerine devam ederek başarılı olmaya karar verdi. Lady Grey'i hayata geri döndürecek ve birlikte mutluluğu bulacaklardı."
+    },
+    {
+      "id": "b98d4457",
+      "bank_id": "30bbb600",
+      "text": "Performansınız büyüleyiciydi. Beceriniz bu son derece nadir ve enfes ödülü hak ediyor."
+    },
+    {
+      "id": "bd30c8c6",
+      "bank_id": "30bbb600",
+      "text": "Gerçekten çok iyi."
+    },
+    {
+      "id": "be30cab9",
+      "bank_id": "30bbb600",
+      "text": "Ne kadar da etkileyici."
+    },
+    {
+      "id": "c03be23f",
+      "bank_id": "30bbb600",
+      "text": "Lady Grey'in Kafası"
+    },
+    {
+      "id": "c330d258",
+      "bank_id": "30bbb600",
+      "text": "İşte tam olarak bu."
+    },
+    {
+      "id": "c430d3cb",
+      "bank_id": "30bbb600",
+      "text": "Mükemmel form."
+    },
+    {
+      "id": "c630d711",
+      "bank_id": "30bbb600",
+      "text": "Harika."
+    },
+    {
+      "id": "c730d884",
+      "bank_id": "30bbb600",
+      "text": "Güzel gösteri!"
+    },
+    {
+      "id": "c830da77",
+      "bank_id": "30bbb600",
+      "text": "Övgüye değer beceriler."
+    },
+    {
+      "id": "c930dbea",
+      "bank_id": "30bbb600",
+      "text": "Bu gerçekten bayağı iyi."
+    },
+    {
+      "id": "ca30dd5d",
+      "bank_id": "30bbb600",
+      "text": "Hedefi kesinlikle vurdunuz!"
+    },
+    {
+      "id": "d0f5c507",
+      "bank_id": "30bbb600",
+      "text": "Kafa verilsin mi?"
+    },
+    {
+      "id": "d204bdf0",
+      "bank_id": "30bbb600",
+      "text": "Cık cık. Ah canım."
+    },
+    {
+      "id": "d304bf63",
+      "bank_id": "30bbb600",
+      "text": "<exasperation>"
+    },
+    {
+      "id": "d489c1df",
+      "bank_id": "30bbb600",
+      "text": "Gördüğünüz gibi oldukça hoş bir nesne bu."
+    },
+    {
+      "id": "d704c5af",
+      "bank_id": "30bbb600",
+      "text": "Lütfen köylüleri vurmaktan kaçının."
+    },
+    {
+      "id": "d804c702",
+      "bank_id": "30bbb600",
+      "text": "Unutmayın, köylüleri vurmak puanınızı düşürür."
+    },
+    {
+      "id": "d904c8f5",
+      "bank_id": "30bbb600",
+      "text": "Ateşinizi kötü ve suçlu görünen her şeye odaklayın. Bu da hiç köylü vurmamak anlamına gelir."
+    },
+    {
+      "id": "ea19d6c0",
+      "bank_id": "30bbb600",
+      "text": "Aşk Acıtır"
+    },
+    {
+      "id": "ed6f70a8",
+      "bank_id": "30bbb600",
+      "text": "Giriş tam şurada."
+    },
+    {
+      "id": "ee6f721b",
+      "bank_id": "30bbb600",
+      "text": "Hazır olduğunuzda hemen içeri girin."
+    },
+    {
+      "id": "f03af1e1",
+      "bank_id": "30bbb600",
+      "text": "Bravo! Mükemmel bir performans."
+    },
+    {
+      "id": "f06f7561",
+      "bank_id": "30bbb600",
+      "text": "Çemberin içinde durursanız eğlenceye başlayabiliriz."
+    },
+    {
+      "id": "f7e520f0",
+      "bank_id": "30bbb600",
+      "text": "Affedersiniz efendim."
+    },
+    {
+      "id": "f7e520fb",
+      "bank_id": "30bbb600",
+      "text": "Affedersiniz hanımefendi."
+    },
+    {
+      "id": "f9b526fc",
+      "bank_id": "30bbb600",
+      "text": "Victor'un Günlüğü"
+    },
+    {
+      "id": "fad62ea8",
+      "bank_id": "30bbb600",
+      "text": "Oldukça iyi korunmuş bir gövde. Bir kafası eksik."
+    },
+    {
+      "id": "fb565fb2",
+      "bank_id": "30bbb600",
+      "text": "Ah canım, oynamak için yeterli altınınız yok gibi görünüyor. Ama olduğunda lütfen yine gelin!"
+    }
+  ]
+}

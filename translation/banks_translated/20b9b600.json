@@ -1,0 +1,786 @@
+{
+  "bank_id": "20b9b600",
+  "total_strings": 156,
+  "strings": [
+    {
+      "id": "01fac008",
+      "bank_id": "20b9b600",
+      "text": "Gördüğün gibi kendime yeni bir iş yeri buldum. Biraz gözlerden uzak kabul ediyorum ama biz seçkin bir acenteyiz."
+    },
+    {
+      "id": "02ade639",
+      "bank_id": "20b9b600",
+      "text": "Arkadaşlarım bunu senin yanına bırakmaz, bilesin. Kahretsin, pek bir sessizsin."
+    },
+    {
+      "id": "043cfce3",
+      "bank_id": "20b9b600",
+      "text": "Bana yardım eder misin?"
+    },
+    {
+      "id": "053cfe56",
+      "bank_id": "20b9b600",
+      "text": "Ripper yaptıklarının bedelini ödemeli."
+    },
+    {
+      "id": "059ea55f",
+      "bank_id": "20b9b600",
+      "text": "Bu mahzenden asla canlı çıkamayacaksın!"
+    },
+    {
+      "id": "063cffc9",
+      "bank_id": "20b9b600",
+      "text": "Onun asıldığını görene kadar bana rahat yok."
+    },
+    {
+      "id": "069ea732",
+      "bank_id": "20b9b600",
+      "text": "Seni ortadan ikiye ayıracağım!"
+    },
+    {
+      "id": "094332c7",
+      "bank_id": "20b9b600",
+      "text": "Tamam, tamam, yakaladın beni."
+    },
+    {
+      "id": "09c29ec3",
+      "bank_id": "20b9b600",
+      "text": "Islık çalmayı biliyorsun değil mi? Lanet olasıca..."
+    },
+    {
+      "id": "09f1211b",
+      "bank_id": "20b9b600",
+      "text": "Jenny'nin intikamını aldın, bunu asla unutmayacağım. Teşekkür ederim. Artık oğlumu geri getirebilirim. Burayı yeniden yuva yapma vaktimiz geldi."
+    },
+    {
+      "id": "0a4334ba",
+      "bank_id": "20b9b600",
+      "text": "Ama beni öldürmeyeceksin, değil mi? Bu yanlış olur. Çok yanlış olur. Benim ihtiyacım olan şey adalet."
+    },
+    {
+      "id": "0a71d662",
+      "bank_id": "20b9b600",
+      "text": "Hayır ama onu kesinlikle öldürebiliriz."
+    },
+    {
+      "id": "0a71d669",
+      "bank_id": "20b9b600",
+      "text": "Hayır ama onu kesinlikle öldürebiliriz."
+    },
+    {
+      "id": "0cf125d4",
+      "bank_id": "20b9b600",
+      "text": "Off, yine kim o-- Ah, döndün demek."
+    },
+    {
+      "id": "0ef1293a",
+      "bank_id": "20b9b600",
+      "text": "Keşke geberip gittiğini görebilseydim. Umarım canını acıtmışsındır. Yavaş ve acı dolu..."
+    },
+    {
+      "id": "0ff12aad",
+      "bank_id": "20b9b600",
+      "text": "Peki ya Ripper? Öldü herhalde."
+    },
+    {
+      "id": "131b449d",
+      "bank_id": "20b9b600",
+      "text": "Pöh! ...Neden orada öylece hareketsiz yatıyorsun güzel bayan..."
+    },
+    {
+      "id": "1666a2af",
+      "bank_id": "20b9b600",
+      "text": "Bedelini ödeyecek Jenny. Buna bizzat emin olacağım."
+    },
+    {
+      "id": "1a4f54bc",
+      "bank_id": "20b9b600",
+      "text": "Beni yarı yolda bırakmayacağınızı biliyordum çocuklar!"
+    },
+    {
+      "id": "1ba925c2",
+      "bank_id": "20b9b600",
+      "text": "Hemen kitapçıya git ve uygun bir \"ıslık çalmanın temelleri\" kitabı bul. Dudak nağmeleri olmadan bu işi yapamazsın."
+    },
+    {
+      "id": "1bbc722c",
+      "bank_id": "20b9b600",
+      "text": "Bir, iki ve, şey... bu üçtü, değil mi?"
+    },
+    {
+      "id": "1cc47d43",
+      "bank_id": "20b9b600",
+      "text": "Ona güvenemeyeceğimizi söylemiştim."
+    },
+    {
+      "id": "1cc47d48",
+      "bank_id": "20b9b600",
+      "text": "Ona güvenemeyeceğimizi söylemiştim."
+    },
+    {
+      "id": "1d4f5975",
+      "bank_id": "20b9b600",
+      "text": "Ripper!"
+    },
+    {
+      "id": "1dbc7572",
+      "bank_id": "20b9b600",
+      "text": "Bilmiyorum. Bayağı yüksek burası."
+    },
+    {
+      "id": "1ebc76e5",
+      "bank_id": "20b9b600",
+      "text": "Evet. Atlama vakti!"
+    },
+    {
+      "id": "224756b4",
+      "bank_id": "20b9b600",
+      "text": "Ripper'ı Bağışla"
+    },
+    {
+      "id": "24d96075",
+      "bank_id": "20b9b600",
+      "text": "Tam da bu konuyla ilgili bir kitabın var, değil mi? Oku onu."
+    },
+    {
+      "id": "263b2aec",
+      "bank_id": "20b9b600",
+      "text": "Karım adaleti hak ediyor. O... öyle tatlı bir kadındı ki, öyle..."
+    },
+    {
+      "id": "26e906d4",
+      "bank_id": "20b9b600",
+      "text": "Kaç ıslıktı o yahu? Bir mi, iki mi?"
+    },
+    {
+      "id": "273b2c5f",
+      "bank_id": "20b9b600",
+      "text": "O aşağılığı bana getirirsen sana ömrümce minnettar kalırım."
+    },
+    {
+      "id": "283b2e32",
+      "bank_id": "20b9b600",
+      "text": "Dikkatli ol. Ripper istediğini almak için her şeyi yapar."
+    },
+    {
+      "id": "29e90bad",
+      "bank_id": "20b9b600",
+      "text": "Üç. Her zaman üçtür. Nasıl unutabilirsin aklım almıyor? Üç!"
+    },
+    {
+      "id": "2a077678",
+      "bank_id": "20b9b600",
+      "text": "Lütfen, merhamet et!"
+    },
+    {
+      "id": "2e7a9d18",
+      "bank_id": "20b9b600",
+      "text": "Buradan asla canlı çıkamayacaksın!"
+    },
+    {
+      "id": "2f7a9e8b",
+      "bank_id": "20b9b600",
+      "text": "İşte bu kadar çocuklar!"
+    },
+    {
+      "id": "307aa07e",
+      "bank_id": "20b9b600",
+      "text": "Nasıl, beğendin mi? Bu sadece tadımlıktı, inan bana!"
+    },
+    {
+      "id": "34415e66",
+      "bank_id": "20b9b600",
+      "text": "Brightwood'daki bir çiftçi öldürülüp soyulsun mu?"
+    },
+    {
+      "id": "386c9c17",
+      "bank_id": "20b9b600",
+      "text": "Biliyor musun, o çiftçinin karısından amma da güzel ganimet olurdu ha."
+    },
+    {
+      "id": "38d40816",
+      "bank_id": "20b9b600",
+      "text": "(iç çeker)"
+    },
+    {
+      "id": "396c9d8a",
+      "bank_id": "20b9b600",
+      "text": "Ama çok fazla direndi."
+    },
+    {
+      "id": "3a6c9f7d",
+      "bank_id": "20b9b600",
+      "text": "Yazık oldu... güzel kadındı."
+    },
+    {
+      "id": "3c40e4e7",
+      "bank_id": "20b9b600",
+      "text": "Ne?! Ripper, eğer sensen hemen kaçmaya başla derim. Şimdi."
+    },
+    {
+      "id": "3d40e65a",
+      "bank_id": "20b9b600",
+      "text": "Ha... Ne istiyorsun o zaman?"
+    },
+    {
+      "id": "46a4a30b",
+      "bank_id": "20b9b600",
+      "text": "Bunu bir daha denemeyeceğim. Vallahi."
+    },
+    {
+      "id": "47a4a4fe",
+      "bank_id": "20b9b600",
+      "text": "Tamam, yakaladın beni."
+    },
+    {
+      "id": "4ddc1aa4",
+      "bank_id": "20b9b600",
+      "text": "Ripper'ın haydut çetesinin Brightwood'daki faaliyetlerini genişletmesine yardım edin."
+    },
+    {
+      "id": "4fdc35d7",
+      "bank_id": "20b9b600",
+      "text": "Adamlarımı Brightwood'daki kamplarında bulabilirsin."
+    },
+    {
+      "id": "50dc374a",
+      "bank_id": "20b9b600",
+      "text": "Islık çalmayı unutma sakın. Islık çalmayı biliyorsun, değil mi?"
+    },
+    {
+      "id": "51dc393d",
+      "bank_id": "20b9b600",
+      "text": "Onları bekletme sakın. Pek bir tez canlıdırlar."
+    },
+    {
+      "id": "541557d9",
+      "bank_id": "20b9b600",
+      "text": "Giles'ın Mahzen Anahtarı"
+    },
+    {
+      "id": "581677fb",
+      "bank_id": "20b9b600",
+      "text": "Ne yapacaksın yani, önce oturup baştan sona okuyacak mısın? Lütfen ama, ben onu çok daha iyi kullanırım."
+    },
+    {
+      "id": "5916796e",
+      "bank_id": "20b9b600",
+      "text": "Bütün gün burada dikilebilirim, o yüzden uzat şunu gitsin, olur mu?"
+    },
+    {
+      "id": "5a167ac1",
+      "bank_id": "20b9b600",
+      "text": "İkimizin de vaktini boşa harcamanın lüzumu yok. Bunu sen de görüyorsun herhalde?"
+    },
+    {
+      "id": "5a50a9e0",
+      "bank_id": "20b9b600",
+      "text": "İnsan umut ediyor işte. Dinle, mahzendeki eşyaları kendin için almaya kalkarsan seni bizzat biz öldürürüz."
+    },
+    {
+      "id": "5c50acc6",
+      "bank_id": "20b9b600",
+      "text": "İçimden bir ses yeni dostumuzun başaracağını söylüyor... ya da denerken nalları dikeceğini."
+    },
+    {
+      "id": "5d50aeb9",
+      "bank_id": "20b9b600",
+      "text": "Ve bu haydudun hepsinin hakkından gelebileceğini mi sanıyorsun?"
+    },
+    {
+      "id": "5fc2910c",
+      "bank_id": "20b9b600",
+      "text": "Elveda domuz uşağı! Bir dahaki görüşmemizde bıçağı gözlerinin tam ortasına saplayacağım!"
+    },
+    {
+      "id": "605f6d00",
+      "bank_id": "20b9b600",
+      "text": "Sizi aptallar!"
+    },
+    {
+      "id": "60ce9c40",
+      "bank_id": "20b9b600",
+      "text": "Lanet olsun Ripper! Onu bulacağımı söylemiştim sana. Sadece biraz daha zamana ihtiyacım var hepsi bu."
+    },
+    {
+      "id": "60ce9c4b",
+      "bank_id": "20b9b600",
+      "text": "Ne?! Bir kadın mı gönderiyorsun yani?! Onu bulacağımı söylemiştim sana Ripper. Sadece biraz daha zamana ihtiyacım var hepsi bu."
+    },
+    {
+      "id": "622134f8",
+      "bank_id": "20b9b600",
+      "text": "Boş ver adaleti! İntikam!"
+    },
+    {
+      "id": "6321366b",
+      "bank_id": "20b9b600",
+      "text": "Bu iş adaleti gerektiriyor!"
+    },
+    {
+      "id": "642137de",
+      "bank_id": "20b9b600",
+      "text": "Giles! Giles öldü!"
+    },
+    {
+      "id": "67eedb8b",
+      "bank_id": "20b9b600",
+      "text": "Kızıl Hasat"
+    },
+    {
+      "id": "6a96b958",
+      "bank_id": "20b9b600",
+      "text": "Ripper'ın muhafızlarını alt edin."
+    },
+    {
+      "id": "6a96b959",
+      "bank_id": "20b9b600",
+      "text": "Ripper'ı alt edin."
+    },
+    {
+      "id": "6a96b95b",
+      "bank_id": "20b9b600",
+      "text": "Brightwood'daki haydut kampına gidin."
+    },
+    {
+      "id": "6a96b95d",
+      "bank_id": "20b9b600",
+      "text": "Giles'ın yanına dönün."
+    },
+    {
+      "id": "6bb93477",
+      "bank_id": "20b9b600",
+      "text": "Kampta! Yakalayın onu!"
+    },
+    {
+      "id": "6bb9347c",
+      "bank_id": "20b9b600",
+      "text": "Kampta! Yakalayın onu!"
+    },
+    {
+      "id": "6fcf3edd",
+      "bank_id": "20b9b600",
+      "text": "Vay canına, seninle burada karşılaşmak ne hoş. Nasıl, alışabildin mi buralara?"
+    },
+    {
+      "id": "82019ca8",
+      "bank_id": "20b9b600",
+      "text": "Acelen mi var senin? Pekala o zaman, çiftçiyi öldür ve mahzenine sakladığı şeyleri sakın kendin almaya kalkışma."
+    },
+    {
+      "id": "82c69558",
+      "bank_id": "20b9b600",
+      "text": "Hey! Sen! Aşağıya bak!"
+    },
+    {
+      "id": "83546048",
+      "bank_id": "20b9b600",
+      "text": "Demek çocuklarımın o çiftçi heriften istediklerini almalarına yardım edeceksin ha?"
+    },
+    {
+      "id": "85da191b",
+      "bank_id": "20b9b600",
+      "text": "İlle de gidip ne olduğunu öğrenmek zorundaydın değil mi?"
+    },
+    {
+      "id": "865f615c",
+      "bank_id": "20b9b600",
+      "text": "Aklından ne geçtiğini biliyorum: \"Bu yasal mı acaba? Ya başıma feci bir şey gelip sakatlanırsam?\" Böyle bir fırsatın önüne birkaç ufak tefek şüphenin geçmesine izin vermeyeceksin, değil mi?!"
+    },
+    {
+      "id": "88da1dd4",
+      "bank_id": "20b9b600",
+      "text": "Sadece bunu söylemen yeterliydi."
+    },
+    {
+      "id": "890cd274",
+      "bank_id": "20b9b600",
+      "text": "Karşılık versenize sizi işe yaramaz itler!"
+    },
+    {
+      "id": "8a0cd3e7",
+      "bank_id": "20b9b600",
+      "text": "İnanamıyorum buna!"
+    },
+    {
+      "id": "8b0cd55a",
+      "bank_id": "20b9b600",
+      "text": "Hayır!"
+    },
+    {
+      "id": "8b48a403",
+      "bank_id": "20b9b600",
+      "text": "Giles'ın tüfeğine dikkat etsen iyi olur. O canavarı kendi elleriyle yaptı ve adamlarımdan az can almadı."
+    },
+    {
+      "id": "8c48a5f6",
+      "bank_id": "20b9b600",
+      "text": "Onu mahzende saklıyor. Ve artık onu oradan çıkaramayacak kadar lanet bir aptal."
+    },
+    {
+      "id": "8d48a769",
+      "bank_id": "20b9b600",
+      "text": "Elinden gelirse kimsenin canını bağışlama. Giles bunu yıllardır hak ediyordu."
+    },
+    {
+      "id": "91c4c677",
+      "bank_id": "20b9b600",
+      "text": "Hadi ama, bütün gün vaktim yok benim."
+    },
+    {
+      "id": "93ff2101",
+      "bank_id": "20b9b600",
+      "text": "Eee, bu işi yapacak mısın yapmayacak mısın?"
+    },
+    {
+      "id": "94ff22f4",
+      "bank_id": "20b9b600",
+      "text": "Benim çocuklarla iyi anlaşacaksın."
+    },
+    {
+      "id": "95637637",
+      "bank_id": "20b9b600",
+      "text": "Sana yeni bir teklifim var."
+    },
+    {
+      "id": "95ff2467",
+      "bank_id": "20b9b600",
+      "text": "Bana çok faydan dokunur."
+    },
+    {
+      "id": "96ff25da",
+      "bank_id": "20b9b600",
+      "text": "Eee, ilgini çekti mi?"
+    },
+    {
+      "id": "995015cb",
+      "bank_id": "20b9b600",
+      "text": "Evet!"
+    },
+    {
+      "id": "9a2a5e16",
+      "bank_id": "20b9b600",
+      "text": "Durun, lütfen! Teslim oluyorum! Bana ne isterseniz yapın, sadece... sadece öldürmeyin beni."
+    },
+    {
+      "id": "9a5017be",
+      "bank_id": "20b9b600",
+      "text": "İşte bu kadar!"
+    },
+    {
+      "id": "a0b20760",
+      "bank_id": "20b9b600",
+      "text": "Geçen hafta neydi o, üç adam mı kaybettin? Bu hafta iki kişi daha mı? Kendine güzel ufak bir mezarlık yapıyorsun bakıyorum."
+    },
+    {
+      "id": "a2e40612",
+      "bank_id": "20b9b600",
+      "text": "Koparın onun gırtlağını!"
+    },
+    {
+      "id": "a2e40619",
+      "bank_id": "20b9b600",
+      "text": "Koparın onun gırtlağını!"
+    },
+    {
+      "id": "a3b20c39",
+      "bank_id": "20b9b600",
+      "text": "Mesele şu ki mahzeninde ele geçirmeyi çok istediğimiz ufak bir şey var. Sakın kendin almaya kalkışma, duydun mu?"
+    },
+    {
+      "id": "a4b20dac",
+      "bank_id": "20b9b600",
+      "text": "Çiftçinin adı Giles. Toprakla uğraşmak için mesleği bırakmadan önce otuz yıl devriyede görev yapmıştı."
+    },
+    {
+      "id": "a51a7429",
+      "bank_id": "20b9b600",
+      "text": "Giles"
+    },
+    {
+      "id": "a5b20f1f",
+      "bank_id": "20b9b600",
+      "text": "O gelincik peşinde olduğumuz şeyi söyledi sana, değil mi?"
+    },
+    {
+      "id": "a6b210f2",
+      "bank_id": "20b9b600",
+      "text": "Güzel. Arfur'un bize eli yüzü düzgün bir işbitirici gönderme vakti gelmişti zaten. Bana Ripper derler."
+    },
+    {
+      "id": "a7a8f658",
+      "bank_id": "20b9b600",
+      "text": "Şimdi, sana ufak bir teklifim var."
+    },
+    {
+      "id": "a8a8f7cb",
+      "bank_id": "20b9b600",
+      "text": "Eski dostun Arfur'u hatırlıyorsun, değil mi? Elbette hatırlıyorsun. Senden o kadar rica ettiğim halde o yakalama emirlerini bana vermemiştin."
+    },
+    {
+      "id": "a8e0e670",
+      "bank_id": "20b9b600",
+      "text": "Çabuk olun çocuklar! Bütün gün vaktim yok!"
+    },
+    {
+      "id": "a9a8f9be",
+      "bank_id": "20b9b600",
+      "text": "Vay canına! Bak şu işe, kim gelmiş. Seni en son gördüğümde o kız kardeşinle koşturan ufak bir velettin."
+    },
+    {
+      "id": "a9e0e7e3",
+      "bank_id": "20b9b600",
+      "text": "Hadi aslanlarım! Kafasını hedef alın!"
+    },
+    {
+      "id": "aae0e956",
+      "bank_id": "20b9b600",
+      "text": "Ah! İşte benim çocuklar bir selam vermeye gelmiş!"
+    },
+    {
+      "id": "ab1b2835",
+      "bank_id": "20b9b600",
+      "text": "Ripper adalete teslim edilsin mi?"
+    },
+    {
+      "id": "aba8fc84",
+      "bank_id": "20b9b600",
+      "text": "Hedefimiz Brightwood'daki bir çiftçi. Eskiden muhafızdı, o yüzden senin gibi birine işimiz düşebilir. Ne diyorsun?"
+    },
+    {
+      "id": "ac1cb126",
+      "bank_id": "20b9b600",
+      "text": "Yok yahu, benim nefes alışım o. Fena üşütmüşüm de."
+    },
+    {
+      "id": "aca8fe77",
+      "bank_id": "20b9b600",
+      "text": "Böyle ticareti kısıtlarsan bütün ekonomi çöker be! O yüzden gidip aşırmak zorundayız."
+    },
+    {
+      "id": "acc8be6f",
+      "bank_id": "20b9b600",
+      "text": "Bir hayduda asla kazık atma!"
+    },
+    {
+      "id": "ad1cb299",
+      "bank_id": "20b9b600",
+      "text": "H-- O bir ıslık mıydı?"
+    },
+    {
+      "id": "ada8ffea",
+      "bank_id": "20b9b600",
+      "text": "Bilirsin işte nasıl olduğunu. Belli bir metanın ele geçirilmesi lazım gelir ve mülk sahibi de bunu mezkur beyefendilere satmaya pek yanaşmaz hani."
+    },
+    {
+      "id": "adc8bfc2",
+      "bank_id": "20b9b600",
+      "text": "Bütün şanı şerefi kendin alacağını mı sandın?"
+    },
+    {
+      "id": "ae1cb409",
+      "bank_id": "20b9b600",
+      "text": "Kapa çeneni de ıslıkları bekle."
+    },
+    {
+      "id": "ae1cb40c",
+      "bank_id": "20b9b600",
+      "text": "Neden ağaçların arasında saklanmak zorundayız yine? Birini mi basacağız?"
+    },
+    {
+      "id": "aea9015d",
+      "bank_id": "20b9b600",
+      "text": "Bu arkadaşlarım, hepsi de has adamlar, rutin bir... ticari muamele esnasında ufak bir can sıkıntısına düştüler."
+    },
+    {
+      "id": "aeb21d6a",
+      "bank_id": "20b9b600",
+      "text": "Karısını hakladım ya, daha ne?!"
+    },
+    {
+      "id": "af1cb5ff",
+      "bank_id": "20b9b600",
+      "text": "Islıkları dinliyoruz burada hatırladın mı seni şapşal?"
+    },
+    {
+      "id": "afb21edd",
+      "bank_id": "20b9b600",
+      "text": "Evet, bu bize cidden çok yardımcı oldu Ethan. Şimdi çiftliği korumak için domuz ahbaplarından bir ordu topladı. Muhtemelen bizi avlamaya da hazırlanıyordur."
+    },
+    {
+      "id": "b01cb752",
+      "bank_id": "20b9b600",
+      "text": "Pek bir sessiz, ha? Kartı olan var mı?"
+    },
+    {
+      "id": "b1a120bb",
+      "bank_id": "20b9b600",
+      "text": "Ateşe hazır olun!"
+    },
+    {
+      "id": "b2a1222e",
+      "bank_id": "20b9b600",
+      "text": "İşte biri geliyor şimdi!"
+    },
+    {
+      "id": "b831a59b",
+      "bank_id": "20b9b600",
+      "text": "Pekala, sen kazandın."
+    },
+    {
+      "id": "b931a70e",
+      "bank_id": "20b9b600",
+      "text": "Beni domuz efendine götür o zaman. Ama ne sen ne Giles ne de bir başkası Ripper'ın işini öyle kolay bitiremez."
+    },
+    {
+      "id": "bea8864c",
+      "bank_id": "20b9b600",
+      "text": "Harika! Şimdi, benim çocuklar yabancılara karşı biraz tedbirlidir. Meslek icabı işte. O yüzden kamplarına vardığında üç kere ıslık çalman gerekecek."
+    },
+    {
+      "id": "c0421bfb",
+      "bank_id": "20b9b600",
+      "text": "Hadi ama! Hâlâ ikiye biriz!"
+    },
+    {
+      "id": "c1a88b05",
+      "bank_id": "20b9b600",
+      "text": "Yolun açık olsun o zaman!"
+    },
+    {
+      "id": "c67e7aa6",
+      "bank_id": "20b9b600",
+      "text": "Ripper'ı öldürün ya da onu Çiftçi Giles'a götürün."
+    },
+    {
+      "id": "cd634aa8",
+      "bank_id": "20b9b600",
+      "text": "Hayallerinle kafamı şişirme ihtiyar muhafız."
+    },
+    {
+      "id": "ce499024",
+      "bank_id": "20b9b600",
+      "text": "Bunu etrafa yayma sakın!"
+    },
+    {
+      "id": "cf634d8e",
+      "bank_id": "20b9b600",
+      "text": "Ne? Hayır! Ben değildim! Adamlarımdan biri yaptı! Lütfen maceracı, konuş onunla!"
+    },
+    {
+      "id": "d0634f61",
+      "bank_id": "20b9b600",
+      "text": "He he, evet. Beni o domuz şerifine götür artık. Sanki daha önce hiç hapse girmedim. Hem bana da tatil olur."
+    },
+    {
+      "id": "d0e9617f",
+      "bank_id": "20b9b600",
+      "text": "Züğürt Çiftçi"
+    },
+    {
+      "id": "d586ba30",
+      "bank_id": "20b9b600",
+      "text": "Sen... bunun bedelini ödeyeceksin Ripper."
+    },
+    {
+      "id": "d686bba3",
+      "bank_id": "20b9b600",
+      "text": "Hiç sanmıyorum..."
+    },
+    {
+      "id": "d786bd16",
+      "bank_id": "20b9b600",
+      "text": "Hayır. O bunu istemezdi..."
+    },
+    {
+      "id": "d7f28a90",
+      "bank_id": "20b9b600",
+      "text": "Çiftçi Giles'ı öldürün."
+    },
+    {
+      "id": "d886be89",
+      "bank_id": "20b9b600",
+      "text": "Benimle Bowerstone'a geliyorsun. Ve asılacaksın. Buna adım gibi emin olacağım."
+    },
+    {
+      "id": "da86c1ef",
+      "bank_id": "20b9b600",
+      "text": "Yine kim o-- Ripper."
+    },
+    {
+      "id": "db86c342",
+      "bank_id": "20b9b600",
+      "text": "Bunu asla unutmayacağım."
+    },
+    {
+      "id": "dc86c535",
+      "bank_id": "20b9b600",
+      "text": "Ve sen... o andan beri bu anın hayalini kuruyordum... o andan beri..."
+    },
+    {
+      "id": "dcf2924f",
+      "bank_id": "20b9b600",
+      "text": "Brightwood'daki haydut kampına gidin."
+    },
+    {
+      "id": "ddd6d3df",
+      "bank_id": "20b9b600",
+      "text": "Haydut Lideri: Ripper"
+    },
+    {
+      "id": "ddf29422",
+      "bank_id": "20b9b600",
+      "text": "Haydut kampında üç kez ıslık çalın."
+    },
+    {
+      "id": "def29595",
+      "bank_id": "20b9b600",
+      "text": "Giles'ın çiftliğine gidin."
+    },
+    {
+      "id": "e393d914",
+      "bank_id": "20b9b600",
+      "text": "Ne yaptığını sanıyorsun sen?! Öldürün onu!"
+    },
+    {
+      "id": "e393d91f",
+      "bank_id": "20b9b600",
+      "text": "Ne yaptığını sanıyorsun sen?! Öldürün onu!"
+    },
+    {
+      "id": "e524f52c",
+      "bank_id": "20b9b600",
+      "text": "Ve yemin ederim ki keşke seni önce onlar öldürseydi diyeceksin."
+    },
+    {
+      "id": "e624f69f",
+      "bank_id": "20b9b600",
+      "text": "Bir, iki, üç, yaaaaah!"
+    },
+    {
+      "id": "e6edba1b",
+      "bank_id": "20b9b600",
+      "text": "Geldiler! Artık aşağı atlayabilirim değil mi? Bu dal iki dalağımı birden deşti."
+    },
+    {
+      "id": "e7edbb8e",
+      "bank_id": "20b9b600",
+      "text": "Üçüncü ıslığı bekle!"
+    },
+    {
+      "id": "e824f9e5",
+      "bank_id": "20b9b600",
+      "text": "Bak bu bir hataydı işte. İyi işbitiricilerin ne kadar zor bulunduğunu biliyor musun sen? Seninle bizzat ilgilenmem gerekecek."
+    },
+    {
+      "id": "ea571307",
+      "bank_id": "20b9b600",
+      "text": "Ripper'ı Öldür"
+    },
+    {
+      "id": "faed39a6",
+      "bank_id": "20b9b600",
+      "text": "Giles'ın çiftliğindeki mahzenin anahtarı."
+    }
+  ]
+}

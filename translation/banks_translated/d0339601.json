@@ -1,0 +1,641 @@
+{
+  "bank_id": "d0339601",
+  "total_strings": 127,
+  "strings": [
+    {
+      "id": "144d0f72",
+      "bank_id": "d0339601",
+      "text": "Heh, bu kadar uzun süre evli kalacağımızı hiç düşünür müydün? Hah hah ha!"
+    },
+    {
+      "id": "144d0f73",
+      "bank_id": "d0339601",
+      "text": "Bu kadar uzun süre evli kalacağımızı hiç düşünür müydün? Ha ha!"
+    },
+    {
+      "id": "144d0f74",
+      "bank_id": "d0339601",
+      "text": "Bu kadar uzun süre evli kalacağımızı hiç düşünür müydün? Ha ha!"
+    },
+    {
+      "id": "144d0f75",
+      "bank_id": "d0339601",
+      "text": "Bu kadar uzun süre evli kalacağımızı hiç düşünür müydün? Ha ha!"
+    },
+    {
+      "id": "144d0f77",
+      "bank_id": "d0339601",
+      "text": "Bu kadar uzun süre evli kalacağımızı hiç düşünür müydün? Ha ha!"
+    },
+    {
+      "id": "1b4d1a78",
+      "bank_id": "d0339601",
+      "text": "Bu kadar uzun süre evli kalacağımızı hiç düşünür müydün? Ha ha!"
+    },
+    {
+      "id": "1b4d1a79",
+      "bank_id": "d0339601",
+      "text": "Bu kadar uzun süre evli kalacağımızı hiç düşünür müydün? Ha ha!"
+    },
+    {
+      "id": "1b4d1a7a",
+      "bank_id": "d0339601",
+      "text": "Bu kadar uzun süre evli kalacağımızı hiç düşünür müydün? Ha ha!"
+    },
+    {
+      "id": "1b4d1a7e",
+      "bank_id": "d0339601",
+      "text": "Bu kadar uzun süre evli kalacağımızı hiç düşünür müydün? Ha ha!"
+    },
+    {
+      "id": "1b4d1a7f",
+      "bank_id": "d0339601",
+      "text": "Bu kadar uzun süre evli kalacağımızı hiç düşünür müydün? Ha ha!"
+    },
+    {
+      "id": "2e7d0ce8",
+      "bank_id": "d0339601",
+      "text": "Neredeyse ihtiyacımız olan her şeye sahibiz."
+    },
+    {
+      "id": "2e7d0ce9",
+      "bank_id": "d0339601",
+      "text": "Bize bakmakta çok iyi iş çıkardın."
+    },
+    {
+      "id": "2e7d0cea",
+      "bank_id": "d0339601",
+      "text": "Rahata ve zenginliğe alışkınımdır gerçi ama hiçbir şikâyetim yok."
+    },
+    {
+      "id": "2e7d0ceb",
+      "bank_id": "d0339601",
+      "text": "Sayende şu an ihtiyacımız olan her şeye sahibiz sevgilim."
+    },
+    {
+      "id": "2e7d0ced",
+      "bank_id": "d0339601",
+      "text": "Hiçbir şikâyetim yok. İyi yiyor, iyi yaşıyoruz."
+    },
+    {
+      "id": "2e7d0cee",
+      "bank_id": "d0339601",
+      "text": "Şikâyet edemem valla. Sayende aç kaldığımız yok."
+    },
+    {
+      "id": "2e7d0cef",
+      "bank_id": "d0339601",
+      "text": "Kral değiliz belki ama fukara da sayılmayız."
+    },
+    {
+      "id": "397d1e18",
+      "bank_id": "d0339601",
+      "text": "Sayende durumumuz gayet iyi."
+    },
+    {
+      "id": "397d1e19",
+      "bank_id": "d0339601",
+      "text": "Hiçbir şikâyetim yok. İhtiyacımız olanı her zaman getiriyorsun."
+    },
+    {
+      "id": "397d1e1a",
+      "bank_id": "d0339601",
+      "text": "Şey, altın içinde yüzüyoruz sayılmaz ama şu sıralar her şey gayet yolunda."
+    },
+    {
+      "id": "397d1e1b",
+      "bank_id": "d0339601",
+      "text": "Şu an hayatımız fazlasıyla rahat."
+    },
+    {
+      "id": "397d1e1c",
+      "bank_id": "d0339601",
+      "text": "Aah, yaşamak bu işte... Geçinmek için gereken her şeye sahibiz."
+    },
+    {
+      "id": "397d1e1e",
+      "bank_id": "d0339601",
+      "text": "Benden yana hiçbir şikâyet yok. Masamızdan yemek hiç eksik olmuyor."
+    },
+    {
+      "id": "397d1e1f",
+      "bank_id": "d0339601",
+      "text": "Sayende oldukça rahat yaşıyoruz sevgilim."
+    },
+    {
+      "id": "475d5871",
+      "bank_id": "d0339601",
+      "text": "Daha evleneli az bir zaman oldu. Birlikte yaşlanacağımızı düşünüyor musun?"
+    },
+    {
+      "id": "475d5872",
+      "bank_id": "d0339601",
+      "text": "Daha evleneli az bir zaman oldu. Birlikte yaşlanacağımızı düşünüyor musun?"
+    },
+    {
+      "id": "475d5873",
+      "bank_id": "d0339601",
+      "text": "Yaşlanıp yıllar yılı evli kaldığımız günlerde nasıl olacağız sence?"
+    },
+    {
+      "id": "475d5874",
+      "bank_id": "d0339601",
+      "text": "Umarım evliliğimiz annemle babamınkinden daha uzun sürer."
+    },
+    {
+      "id": "475d5875",
+      "bank_id": "d0339601",
+      "text": "Bakalım şu evlilik işi nasıl gidecek."
+    },
+    {
+      "id": "475d5876",
+      "bank_id": "d0339601",
+      "text": "Bu, birlikte çıkacağımız harika bir serüvenin henüz başlangıcı sadece. Hani herkesin bildiği adıyla... evlilik!"
+    },
+    {
+      "id": "475d5877",
+      "bank_id": "d0339601",
+      "text": "Umarım evliliğimiz uzun yıllar boyunca devam eder."
+    },
+    {
+      "id": "4fc9ffc8",
+      "bank_id": "d0339601",
+      "text": "Evlendik! Başıma gelen en güzel şeysin sevgilim!"
+    },
+    {
+      "id": "4fc9ffc9",
+      "bank_id": "d0339601",
+      "text": "Seninle evlenmek bir rüyanın gerçek olması gibi bebeğim."
+    },
+    {
+      "id": "4fc9ffca",
+      "bank_id": "d0339601",
+      "text": "Ve böylece yeni evliler olarak hayatımız başlıyor. Daha mutlu olamazdım."
+    },
+    {
+      "id": "4fc9ffcb",
+      "bank_id": "d0339601",
+      "text": "Bu, birlikte çıkacağımız harika bir yolculuğun başlangıcı tatlım."
+    },
+    {
+      "id": "4fc9ffcd",
+      "bank_id": "d0339601",
+      "text": "Evlendiğimize hâlâ inanamıyorum! Rüya gibi bir şey!"
+    },
+    {
+      "id": "4fc9ffce",
+      "bank_id": "d0339601",
+      "text": "Evlendik! Evlendik işte! Harika değil mi?!"
+    },
+    {
+      "id": "4fc9ffcf",
+      "bank_id": "d0339601",
+      "text": "Birlikte çok mutlu olacağımızı içten içe biliyorum!"
+    },
+    {
+      "id": "525d69a0",
+      "bank_id": "d0339601",
+      "text": "Umarım evliliğimiz annemle babamınkinden daha uzun sürer."
+    },
+    {
+      "id": "525d69a2",
+      "bank_id": "d0339601",
+      "text": "Yaşlanıp yıllar yılı evli kaldığımız günlerde nasıl olacağız sence?"
+    },
+    {
+      "id": "525d69a3",
+      "bank_id": "d0339601",
+      "text": "Daha evleneli az bir zaman oldu. Birlikte yaşlanacağımızı düşünüyor musun?"
+    },
+    {
+      "id": "525d69a4",
+      "bank_id": "d0339601",
+      "text": "Bakalım şu evlilik işi nasıl gidecek."
+    },
+    {
+      "id": "525d69a5",
+      "bank_id": "d0339601",
+      "text": "Daha evleneli az bir zaman oldu. Birlikte yaşlanacağımızı düşünüyor musun?"
+    },
+    {
+      "id": "525d69a6",
+      "bank_id": "d0339601",
+      "text": "Daha evleneli az bir zaman oldu. Birlikte yaşlanacağımızı düşünüyor musun?"
+    },
+    {
+      "id": "525d69a7",
+      "bank_id": "d0339601",
+      "text": "Bu, birlikte çıkacağımız harika bir serüvenin henüz başlangıcı sadece. Hani herkesin bildiği adıyla... evlilik!"
+    },
+    {
+      "id": "5aca1178",
+      "bank_id": "d0339601",
+      "text": "Seninle evlenmek bir rüyanın gerçek olması gibi bebeğim."
+    },
+    {
+      "id": "5aca1179",
+      "bank_id": "d0339601",
+      "text": "Evlendik! Başıma gelen en güzel şeysin sevgilim!"
+    },
+    {
+      "id": "5aca117a",
+      "bank_id": "d0339601",
+      "text": "Bu, birlikte çıkacağımız harika bir yolculuğun başlangıcı tatlım."
+    },
+    {
+      "id": "5aca117b",
+      "bank_id": "d0339601",
+      "text": "Ve böylece yeni evliler olarak hayatımız başlıyor. Daha mutlu olamazdım."
+    },
+    {
+      "id": "5aca117c",
+      "bank_id": "d0339601",
+      "text": "Evlendiğimize hâlâ inanamıyorum! Rüya gibi bir şey!"
+    },
+    {
+      "id": "5aca117e",
+      "bank_id": "d0339601",
+      "text": "Birlikte çok mutlu olacağımızı içten içe biliyorum!"
+    },
+    {
+      "id": "5aca117f",
+      "bank_id": "d0339601",
+      "text": "Evlendik! Evlendik işte! Harika değil mi?!"
+    },
+    {
+      "id": "5e2d1e01",
+      "bank_id": "d0339601",
+      "text": "Maddi durumumuz hakkında şikâyet edemem valla."
+    },
+    {
+      "id": "5e2d1e02",
+      "bank_id": "d0339601",
+      "text": "Şunu söylemeliyim ki, bugünlerde durumumuz gayet iyi."
+    },
+    {
+      "id": "5e2d1e03",
+      "bank_id": "d0339601",
+      "text": "Mali durumumuzdan epey memnunum."
+    },
+    {
+      "id": "5e2d1e04",
+      "bank_id": "d0339601",
+      "text": "Şunu söylemeliyim ki, bugünlerde durumumuz gayet iyi."
+    },
+    {
+      "id": "5e2d1e05",
+      "bank_id": "d0339601",
+      "text": "Şu sıralar durumumuz gayet iyi."
+    },
+    {
+      "id": "692d2fb0",
+      "bank_id": "d0339601",
+      "text": "Şunu söylemeliyim ki, bugünlerde durumumuz gayet iyi."
+    },
+    {
+      "id": "692d2fb2",
+      "bank_id": "d0339601",
+      "text": "Şunu söylemeliyim ki, bugünlerde durumumuz gayet iyi."
+    },
+    {
+      "id": "692d2fb3",
+      "bank_id": "d0339601",
+      "text": "Şunu söylemeliyim ki, bugünlerde durumumuz gayet iyi."
+    },
+    {
+      "id": "692d2fb4",
+      "bank_id": "d0339601",
+      "text": "Geçinmek için elimizdeki para hakkında zerre şikâyetim yok."
+    },
+    {
+      "id": "692d2fb5",
+      "bank_id": "d0339601",
+      "text": "Şu sıralar durumumuz gayet iyi."
+    },
+    {
+      "id": "776cd8a1",
+      "bank_id": "d0339601",
+      "text": "Bunca yıldır evli olduğumuzu düşünmek ne tuhaf. Zaman ne kadar çabuk geçiyor, değil mi?"
+    },
+    {
+      "id": "776cd8a2",
+      "bank_id": "d0339601",
+      "text": "Bunca yıldır evli olduğumuzu düşünmek ne tuhaf. Zaman ne kadar çabuk geçiyor, değil mi?"
+    },
+    {
+      "id": "776cd8a3",
+      "bank_id": "d0339601",
+      "text": "Kaç yıldır evli olduğumuza inanabiliyor musun? Belki de birlikte yaşlanırız sahiden."
+    },
+    {
+      "id": "776cd8a4",
+      "bank_id": "d0339601",
+      "text": "Bunca yıldır evli olduğumuzu düşünmek ne tuhaf. Zaman ne kadar çabuk geçiyor, değil mi?"
+    },
+    {
+      "id": "776cd8a5",
+      "bank_id": "d0339601",
+      "text": "Evliliğimiz hâlâ sapasağlam devam ediyor. Kimin aklına gelirdi? Ha ha."
+    },
+    {
+      "id": "776cd8a6",
+      "bank_id": "d0339601",
+      "text": "Bunca yıldır evli olduğumuzu düşünmek ne tuhaf. Zaman ne kadar çabuk geçiyor, değil mi?"
+    },
+    {
+      "id": "776cd8a7",
+      "bank_id": "d0339601",
+      "text": "Bunca yıldır evli olduğumuzu düşünmek ne tuhaf. Zaman ne kadar çabuk geçiyor, değil mi?"
+    },
+    {
+      "id": "80c782d3",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanamıyorum."
+    },
+    {
+      "id": "826ce9d0",
+      "bank_id": "d0339601",
+      "text": "Bunca yıldır evli olduğumuzu düşünmek ne tuhaf. Zaman ne kadar çabuk geçiyor, değil mi?"
+    },
+    {
+      "id": "826ce9d2",
+      "bank_id": "d0339601",
+      "text": "Evliliğimiz hâlâ sapasağlam devam ediyor. Kimin aklına gelirdi? Ha ha."
+    },
+    {
+      "id": "826ce9d3",
+      "bank_id": "d0339601",
+      "text": "Bunca yıldır evli olduğumuzu düşünmek ne tuhaf. Zaman ne kadar çabuk geçiyor, değil mi?"
+    },
+    {
+      "id": "826ce9d4",
+      "bank_id": "d0339601",
+      "text": "Bunca yıldır evli olduğumuzu düşünmek ne tuhaf. Zaman ne kadar çabuk geçiyor, değil mi?"
+    },
+    {
+      "id": "826ce9d5",
+      "bank_id": "d0339601",
+      "text": "Vay be, epey bir yıldır evliyiz değil mi."
+    },
+    {
+      "id": "826ce9d6",
+      "bank_id": "d0339601",
+      "text": "Bunca yıldır evli olduğumuzu düşünmek ne tuhaf. Zaman ne kadar çabuk geçiyor, değil mi?"
+    },
+    {
+      "id": "826ce9d7",
+      "bank_id": "d0339601",
+      "text": "Bunca yıldır evli olduğumuzu düşünmek ne tuhaf. Zaman ne kadar çabuk geçiyor, değil mi?"
+    },
+    {
+      "id": "8e472a98",
+      "bank_id": "d0339601",
+      "text": "Evimiz şimdilik yaşamak için gayet kabul edilebilir bir yer."
+    },
+    {
+      "id": "8e472a99",
+      "bank_id": "d0339601",
+      "text": "Evimiz yeterince rahat sayılır sanırım."
+    },
+    {
+      "id": "8e472a9a",
+      "bank_id": "d0339601",
+      "text": "Fena sayılmayan bir evimiz var işte."
+    },
+    {
+      "id": "8e472a9b",
+      "bank_id": "d0339601",
+      "text": "Evimiz mi? Şikâyet edemem valla, sızlanmaya gerek yok."
+    },
+    {
+      "id": "8e472a9c",
+      "bank_id": "d0339601",
+      "text": "Evimizde yaşamaktan gocunmuyorum ama mutlaka daha güzel yerler de vardır."
+    },
+    {
+      "id": "8e472a9d",
+      "bank_id": "d0339601",
+      "text": "Yakında daha güzel bir evi karşılayabilecek durumda olur muyuz sence?"
+    },
+    {
+      "id": "8e472a9e",
+      "bank_id": "d0339601",
+      "text": "Daha iyi bir yer bulana kadar bu ev işimizi görür."
+    },
+    {
+      "id": "974738ec",
+      "bank_id": "d0339601",
+      "text": "Sanırım bu ev işimizi görür. Şimdilik."
+    },
+    {
+      "id": "974738ed",
+      "bank_id": "d0339601",
+      "text": "Evimizden daha iyisini bulabileceğimize eminim. Ama onu geleceğe bırakalım."
+    },
+    {
+      "id": "974738ef",
+      "bank_id": "d0339601",
+      "text": "Evimiz fena değil hani."
+    },
+    {
+      "id": "c2f88b38",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c2f88b3a",
+      "bank_id": "d0339601",
+      "text": "Asırlardır evli olduğumuzun farkında mısın? Bir de yürümeyeceğini söylemişlerdi."
+    },
+    {
+      "id": "c2f88b3b",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c2f88b3c",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c2f88b3d",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c2f88b3e",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c2f88b3f",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c7f892d9",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c7f892da",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c7f892db",
+      "bank_id": "d0339601",
+      "text": "Asırlardır evli olduğumuzun farkında mısın? Bir de yürümeyeceğini söylemişlerdi."
+    },
+    {
+      "id": "c7f892dc",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c7f892dd",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c7f892de",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c7f892df",
+      "bank_id": "d0339601",
+      "text": "Bunca zamandır evli olduğumuza inanabiliyor musun? Sanki daha dün tanışmışız gibi."
+    },
+    {
+      "id": "c8dd0b9a",
+      "bank_id": "d0339601",
+      "text": "Düğün günümüzü hatırlıyor musun? Bunca zaman önce olduğuna inanamıyorum."
+    },
+    {
+      "id": "c8dd0b9b",
+      "bank_id": "d0339601",
+      "text": "Daha geçen gün evlenmişiz gibi hissettirmiyor mu? Oysa o kadar uzun zaman oldu ki."
+    },
+    {
+      "id": "c8dd0b9c",
+      "bank_id": "d0339601",
+      "text": "Daha geçen gün evlenmişiz gibi hissettirmiyor mu? Oysa o kadar uzun zaman oldu ki."
+    },
+    {
+      "id": "c8dd0b9d",
+      "bank_id": "d0339601",
+      "text": "Daha geçen gün evlenmişiz gibi hissettirmiyor mu? Oysa o kadar uzun zaman oldu ki."
+    },
+    {
+      "id": "c8dd0b9e",
+      "bank_id": "d0339601",
+      "text": "Daha geçen gün evlenmişiz gibi hissettirmiyor mu? Oysa o kadar uzun zaman oldu ki."
+    },
+    {
+      "id": "d1dd19e8",
+      "bank_id": "d0339601",
+      "text": "Daha geçen gün evlenmişiz gibi hissettirmiyor mu? Oysa o kadar uzun zaman oldu ki."
+    },
+    {
+      "id": "d1dd19e9",
+      "bank_id": "d0339601",
+      "text": "Daha geçen gün evlenmişiz gibi hissettirmiyor mu? Oysa o kadar uzun zaman oldu ki."
+    },
+    {
+      "id": "d1dd19eb",
+      "bank_id": "d0339601",
+      "text": "Daha geçen gün evlenmişiz gibi hissettirmiyor mu? Oysa o kadar uzun zaman oldu ki."
+    },
+    {
+      "id": "d1dd19ee",
+      "bank_id": "d0339601",
+      "text": "Düğün günümüzü hatırlıyor musun? Bunca zaman önce olduğuna inanamıyorum."
+    },
+    {
+      "id": "d1dd19ef",
+      "bank_id": "d0339601",
+      "text": "Daha geçen gün evlenmişiz gibi hissettirmiyor mu? Oysa o kadar uzun zaman oldu ki."
+    },
+    {
+      "id": "e1050cd0",
+      "bank_id": "d0339601",
+      "text": "Evlendiğimiz için hâlâ öyle heyecanlıyım ki."
+    },
+    {
+      "id": "e1050cd1",
+      "bank_id": "d0339601",
+      "text": "Şimdiye kadar evlilik hayatı pek beklediğim gibi çıkmadı. Sence nasıl?"
+    },
+    {
+      "id": "e1050cd2",
+      "bank_id": "d0339601",
+      "text": "Şimdiye kadar evlilik hayatı pek beklediğim gibi çıkmadı. Sence nasıl?"
+    },
+    {
+      "id": "e1050cd6",
+      "bank_id": "d0339601",
+      "text": "Birlikte yaşlanabileceğimizi düşünüyor musun?"
+    },
+    {
+      "id": "e1050cd7",
+      "bank_id": "d0339601",
+      "text": "Evli olmak öyle yeni ve heyecan verici ki, değil mi? ÖYLE DEĞİL Mİ?!"
+    },
+    {
+      "id": "e7c4b3fa",
+      "bank_id": "d0339601",
+      "text": "Bilirsin ya, bize bakmak için daha fazlasını yapabilirdin."
+    },
+    {
+      "id": "e7c4b3fb",
+      "bank_id": "d0339601",
+      "text": "Bu evliliğe birazcık daha altın koysan nasıl olur?"
+    },
+    {
+      "id": "e7c4b3fc",
+      "bank_id": "d0339601",
+      "text": "Bilirsin ya, bize bakmak için daha fazlasını yapabilirdin."
+    },
+    {
+      "id": "e7c4b3fd",
+      "bank_id": "d0339601",
+      "text": "Bilirsin ya, bize bakmak için daha fazlasını yapabilirdin."
+    },
+    {
+      "id": "e7c4b3fe",
+      "bank_id": "d0339601",
+      "text": "Bilirsin ya, bize bakmak için daha fazlasını yapabilirdin."
+    },
+    {
+      "id": "ea051b3a",
+      "bank_id": "d0339601",
+      "text": "Şimdiye kadar evlilik hayatı pek beklediğim gibi çıkmadı. Sence nasıl?"
+    },
+    {
+      "id": "ea051b3b",
+      "bank_id": "d0339601",
+      "text": "Birlikte yaşlanabileceğimizi düşünüyor musun?"
+    },
+    {
+      "id": "ea051b3c",
+      "bank_id": "d0339601",
+      "text": "Şimdiye kadar evlilik hayatı pek beklediğim gibi çıkmadı. Sence nasıl?"
+    },
+    {
+      "id": "ea051b3d",
+      "bank_id": "d0339601",
+      "text": "Evlendiğimiz için hâlâ öyle heyecanlıyım ki."
+    },
+    {
+      "id": "ea051b3f",
+      "bank_id": "d0339601",
+      "text": "Evlendiğimiz için hâlâ öyle heyecanlıyım ki."
+    },
+    {
+      "id": "f0c4c1cb",
+      "bank_id": "d0339601",
+      "text": "Bilirsin ya, birazcık daha altına sahiden hiç fena olmazdı hani."
+    }
+  ]
+}

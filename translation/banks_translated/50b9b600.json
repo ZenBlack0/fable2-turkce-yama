@@ -1,0 +1,536 @@
+{
+  "bank_id": "50b9b600",
+  "total_strings": 106,
+  "strings": [
+    {
+      "id": "04f2b1fb",
+      "bank_id": "50b9b600",
+      "text": "Bu yol mahallenin daha yoksul kesimine gider."
+    },
+    {
+      "id": "05f2b36e",
+      "bank_id": "50b9b600",
+      "text": "Ayrıca mezarlığa da çıkar, ki orası mahallenin daha ölü kısmıdır, ha ha."
+    },
+    {
+      "id": "090da2b8",
+      "bank_id": "50b9b600",
+      "text": "Ben ozanım, anladın mı? Bu da üzerinde çalıştığım şarkı! Şey... ilk şarkım sayılır. Henüz yeni başlıyorum."
+    },
+    {
+      "id": "0a0da42b",
+      "bank_id": "50b9b600",
+      "text": "Şunu bir dinle!"
+    },
+    {
+      "id": "0ba852f1",
+      "bank_id": "50b9b600",
+      "text": "Efsun taşları. Ne olduklarına dair hiçbir fikrim yok ama burada satıyorlar."
+    },
+    {
+      "id": "0c0da771",
+      "bank_id": "50b9b600",
+      "text": "O! Hey! Sen şu! Bower Gölü'nün Kahramanı!"
+    },
+    {
+      "id": "0e0b278f",
+      "bank_id": "50b9b600",
+      "text": "Aradığın şey kıyafetse, buranın seçkisi harikadır."
+    },
+    {
+      "id": "0e9ede91",
+      "bank_id": "50b9b600",
+      "text": "Muhafızlar arasında yer aldı gerçi kendisi, ama kimsede yoktu böylesi bir yürek böylesi."
+    },
+    {
+      "id": "0e9ede9a",
+      "bank_id": "50b9b600",
+      "text": "Muhafızlar arasında yer aldı gerçi kendisi, ama kimsede yoktu böylesi bir yürek böylesi."
+    },
+    {
+      "id": "0f0b2962",
+      "bank_id": "50b9b600",
+      "text": "Şık görünmedikten sonra efsanevi bir maceracı olmanın ne anlamı var, değil mi?"
+    },
+    {
+      "id": "0f0dabca",
+      "bank_id": "50b9b600",
+      "text": "\"Bower Gölü'ne vardı bir Kahraman, o Thag'ın canına okudu aman aman!\""
+    },
+    {
+      "id": "0f293d9c",
+      "bank_id": "50b9b600",
+      "text": "Ve işte burası kasaba meydanı; Bowerstone'un ta kalbi."
+    },
+    {
+      "id": "100dadbd",
+      "bank_id": "50b9b600",
+      "text": "Ee... şimdilik elimdeki bu kadar. Ama seninle Bowerstone'da turlarsam belki biraz ilham gelir!"
+    },
+    {
+      "id": "112940e2",
+      "bank_id": "50b9b600",
+      "text": "Dur bakayım, düşüneyim... \"Vardı Kahraman kasaba meydanına, eşsiz bir ozanın diyarına.\" Gerçi beni çiftleşme mevsimindeki yaban domuzlarının çığlığına benzetenler de oldu ya, o da sayılıyorsa tabii."
+    },
+    {
+      "id": "11316308",
+      "bank_id": "50b9b600",
+      "text": "Neyse, ben kaçayım artık. Bu kasaba ahalisinin müziğe ihtiyacı var!"
+    },
+    {
+      "id": "12168790",
+      "bank_id": "50b9b600",
+      "text": "Ninesi kaçık bir koca karıydı hani, geriye tek kalan Charlie'nin şapkasıydı yani."
+    },
+    {
+      "id": "12294255",
+      "bank_id": "50b9b600",
+      "text": "İşte naçizane zanaatımı burada icra ederim. Pek samimi bir yer, değil mi?"
+    },
+    {
+      "id": "16316b27",
+      "bank_id": "50b9b600",
+      "text": "O-- uyanmışsın!"
+    },
+    {
+      "id": "17316c9a",
+      "bank_id": "50b9b600",
+      "text": "Sen uyurken bir şarkı uydurmaya çalışıyordum ama horultuların dikkatimi dağıttı. Sonunda ben de sızıp kalmışım."
+    },
+    {
+      "id": "18316e0d",
+      "bank_id": "50b9b600",
+      "text": "A, merak etme, yerde yattım. Meydandaki her zamanki köşemden çok daha rahattı."
+    },
+    {
+      "id": "23dc4854",
+      "bank_id": "50b9b600",
+      "text": "Ha-ha! İnek ve Korse! Buralarda \"alkol\" denen bir zıkkım satıyorlarmış güya. Kendim hiç denemedim, ha ha!"
+    },
+    {
+      "id": "25dc4bba",
+      "bank_id": "50b9b600",
+      "text": "Bakalım... \"Kahraman gitti İnek ve Korse'ye, ee..., kafiye de uymadı zorlamayınca hiçbir şeye.\" Hımm, olmadı galiba..."
+    },
+    {
+      "id": "26dc4d2d",
+      "bank_id": "50b9b600",
+      "text": "Burada genelde iş de bulabilirsin. Maceracılık da ozanlığa benziyorsa eğer, bir işe ihtiyacın olacak."
+    },
+    {
+      "id": "2d3fa158",
+      "bank_id": "50b9b600",
+      "text": "Daha iyi bir rehber bulamazsın."
+    },
+    {
+      "id": "2e3fa2cb",
+      "bank_id": "50b9b600",
+      "text": "Boştayım, bilesin."
+    },
+    {
+      "id": "303fa611",
+      "bank_id": "50b9b600",
+      "text": "Bowerstone'u adım gibi bilirim."
+    },
+    {
+      "id": "333faaea",
+      "bank_id": "50b9b600",
+      "text": "Sana rehberlik etmemi ister misin?"
+    },
+    {
+      "id": "343fac5d",
+      "bank_id": "50b9b600",
+      "text": "Tüm bilgim emrine amadedir."
+    },
+    {
+      "id": "36109a17",
+      "bank_id": "50b9b600",
+      "text": "Fikrini değiştirirsen kasaba meydanında olacağım!"
+    },
+    {
+      "id": "37109b8a",
+      "bank_id": "50b9b600",
+      "text": "Yakında görüşürüz."
+    },
+    {
+      "id": "39021a77",
+      "bank_id": "50b9b600",
+      "text": "Gerçi epey bir zamanını aldı ya, sonunda büyücüyü kurtardı ya."
+    },
+    {
+      "id": "39021a7c",
+      "bank_id": "50b9b600",
+      "text": "Gerçi epey bir zamanını aldı ya, sonunda büyücüyü kurtardı ya."
+    },
+    {
+      "id": "3a2be4cc",
+      "bank_id": "50b9b600",
+      "text": "Kahraman dönüştü tam bir cinayet ustasına, kimse erişemez artık onun kanlı zanaatına."
+    },
+    {
+      "id": "3bbc56af",
+      "bank_id": "50b9b600",
+      "text": "Tuhaf kokuyu unutturuyor en azından."
+    },
+    {
+      "id": "3bd38140",
+      "bank_id": "50b9b600",
+      "text": "O Max ile Sam denen veletler tam baş belası, bir kitapla seans yapıp hortlakları uyandırdı hepsi."
+    },
+    {
+      "id": "3cbc5802",
+      "bank_id": "50b9b600",
+      "text": "Aah, şu gizemli İksir Dükkânı. Her türlü yaraya derman bulunur burada."
+    },
+    {
+      "id": "3d2be985",
+      "bank_id": "50b9b600",
+      "text": "Son zamanlardaki ölümler tam bir anormallik. Bu suçun bir adı var, o da suikast yani."
+    },
+    {
+      "id": "3ed38619",
+      "bank_id": "50b9b600",
+      "text": "Kahraman çarpıştı zombilerin alayıyla. Eski kitapları okumak hep biter belayla."
+    },
+    {
+      "id": "47f9ec56",
+      "bank_id": "50b9b600",
+      "text": "Kahraman rezillikte yeni dipler boyladı, iki eşli olduğu ortaya çıkınca herkes ayıpladı."
+    },
+    {
+      "id": "47f9ec5d",
+      "bank_id": "50b9b600",
+      "text": "Kahraman rezillikte yeni dipler boyladı, iki eşli olduğu ortaya çıkınca herkes ayıpladı."
+    },
+    {
+      "id": "4b544448",
+      "bank_id": "50b9b600",
+      "text": "Şey, mobilyalar hakkında şarkı söylememem tavsiye edildi de."
+    },
+    {
+      "id": "4e544901",
+      "bank_id": "50b9b600",
+      "text": "İşte burada mobilya satarlar. Tabii içine koyacak bir evin yoksa pek bir işe yaramaz ya."
+    },
+    {
+      "id": "51558ba5",
+      "bank_id": "50b9b600",
+      "text": "Ozanın rehberlik teklifi kabul edilsin mi?"
+    },
+    {
+      "id": "55bcacad",
+      "bank_id": "50b9b600",
+      "text": "O, merhaba. Son zamanlarda hiç heyecanlı maceralara atılmadın mı? Malzemem tükendi de."
+    },
+    {
+      "id": "5e143ab7",
+      "bank_id": "50b9b600",
+      "text": "Tarih bize der ki, kulak ver bu söze: Geçmişi kurcalamak dert açar başınıza, hem de mezara dek."
+    },
+    {
+      "id": "5f143c2a",
+      "bank_id": "50b9b600",
+      "text": "Bunu bizzat yaşadı buralı bir Arkeolog kadın. Kahraman yardım etti de, artık rahata kavuştu kadim."
+    },
+    {
+      "id": "642f7438",
+      "bank_id": "50b9b600",
+      "text": "Bowerstone'a dönün."
+    },
+    {
+      "id": "6cfb3dae",
+      "bank_id": "50b9b600",
+      "text": "<laughs> Nasıl uyduruyorum ama bunları?"
+    },
+    {
+      "id": "6efb40f4",
+      "bank_id": "50b9b600",
+      "text": "Sadece millete yatma vaktinin geldiğini duyurmaz, bilesin. Unvan da satar. Canın ne zaman isim değiştirmek isterse yanına bir uğra."
+    },
+    {
+      "id": "6ffb4267",
+      "bank_id": "50b9b600",
+      "text": "Bakalım... \"Kahraman yeni bir unvan almaya karar kıldı, her hikâyede şanla anılacak bir ada sarıldı.\""
+    },
+    {
+      "id": "71fb454d",
+      "bank_id": "50b9b600",
+      "text": "İşte ciğerleri sağlam bir ahbap: Tellal."
+    },
+    {
+      "id": "84d2472b",
+      "bank_id": "50b9b600",
+      "text": "Ah! Kendi vefatım hakkında şarkı söylememeyi yeğlerim, çok teşekkürler."
+    },
+    {
+      "id": "85d2489e",
+      "bank_id": "50b9b600",
+      "text": "Aaah! Antrenman yapman gerektiğini anlıyorum ama ölürsem ozanlık yeteneklerim epey kısıtlanır."
+    },
+    {
+      "id": "86d24a71",
+      "bank_id": "50b9b600",
+      "text": "Öff! Enerjini şarkısını söyleyebileceğim hoş bir küçük görevde harcasan nasıl olur?"
+    },
+    {
+      "id": "8d4787c4",
+      "bank_id": "50b9b600",
+      "text": "Görülmemişti böylesi bir şampiyon asla. Kahraman getirdi dehşet, hem de sevinç gırla."
+    },
+    {
+      "id": "8e48a8dc",
+      "bank_id": "50b9b600",
+      "text": "Otuz saniye bile dayanamazsın. Muhafızlar parçalar seni."
+    },
+    {
+      "id": "8f48aa4f",
+      "bank_id": "50b9b600",
+      "text": "Az önce şaka yapıyordum yahu. Mezarlarımızı senin leş gibi cesedinle kirletmeyiz. Tarlalarda çürü git daha iyi! <laughs>"
+    },
+    {
+      "id": "90478c9d",
+      "bank_id": "50b9b600",
+      "text": "Çile seyircisi coşkuyla alkışladı kazananı, sonra da evlerine gidip yediler akşam aşını."
+    },
+    {
+      "id": "9048ac22",
+      "bank_id": "50b9b600",
+      "text": "Sen bizden değilsin ve kimsenin de saygısını kazanmadın."
+    },
+    {
+      "id": "941117ec",
+      "bank_id": "50b9b600",
+      "text": "Burada her türlü şeyi bulabilirsin. Bowerstone Genel Mağazası burası."
+    },
+    {
+      "id": "97111ca5",
+      "bank_id": "50b9b600",
+      "text": "Yemekler tezgâhlarda satılan pislikten daha iyidir herhalde. Cırcır olma ihtimalin daha düşük en azından."
+    },
+    {
+      "id": "9f509240",
+      "bank_id": "50b9b600",
+      "text": "A, yine merhaba! Belki bir tur daha yürüyüşe katılabilirim sana. Şarkı sözleri için harika bir ilham kaynağısın!"
+    },
+    {
+      "id": "a6090436",
+      "bank_id": "50b9b600",
+      "text": "En tekinsiz mağaranın koynunda, bir maceracı kayboldu yolunda."
+    },
+    {
+      "id": "a673dda0",
+      "bank_id": "50b9b600",
+      "text": "Kahraman kayboldu nice yıllar boyunca, hapishaneyi kendine meslek edindi orda."
+    },
+    {
+      "id": "aa0b414f",
+      "bank_id": "50b9b600",
+      "text": "Bir ara yanıma uğra, ey Bower Gölü'nün ulu Kahramanı!"
+    },
+    {
+      "id": "ab0b4322",
+      "bank_id": "50b9b600",
+      "text": "Meydandaki yerime dönsem iyi olacak galiba. Başkası kapmadan önce."
+    },
+    {
+      "id": "ac4f06f7",
+      "bank_id": "50b9b600",
+      "text": "Beni her zaman kasaba meydanında lavtamı tıngırdatırken bulabilirsin!"
+    },
+    {
+      "id": "ad4f086a",
+      "bank_id": "50b9b600",
+      "text": "O, gidiyor musun?"
+    },
+    {
+      "id": "af4f0997",
+      "bank_id": "50b9b600",
+      "text": "Bu yol kasabanın en güzel mahallelerinden birine çıkar."
+    },
+    {
+      "id": "b04f0b0a",
+      "bank_id": "50b9b600",
+      "text": "Eskiden böyle değildi tabii, diyeyim sana. Ama son on yılda epey bir tadilat gördü."
+    },
+    {
+      "id": "b511cff8",
+      "bank_id": "50b9b600",
+      "text": "Ah, evet, soylu demirci. Her iyi maceracının kadim dostu."
+    },
+    {
+      "id": "b711d2de",
+      "bank_id": "50b9b600",
+      "text": "Ho-ho, bu güzel olacak. \"Kahraman uğradı güvenilir demirciye, dillerden düşmeyecek bir kılıç edinsin diye. Ve, şey... ııı, kenarda duran ozan ise, susmaya karar verdi. Derhâl.\""
+    },
+    {
+      "id": "b811d4b1",
+      "bank_id": "50b9b600",
+      "text": "Buradan silah alabilirsin. En kaliteli Bowerstone çeliği."
+    },
+    {
+      "id": "bcdc222f",
+      "bank_id": "50b9b600",
+      "text": "İşte burası Bower Köprüsü!"
+    },
+    {
+      "id": "bddc2382",
+      "bank_id": "50b9b600",
+      "text": "Pek bir köprü gibi, değil mi? Alışveriş yapmak istersen genelde şuraya birkaç tezgâh açılır."
+    },
+    {
+      "id": "bedc2575",
+      "bank_id": "50b9b600",
+      "text": "\"Kahraman gururla dikildi Bower Köprüsü'ne, ıslak sıçan kokusu yükselirken ta yüzüne.\" Bunda biraz epik bir hava yakalamaya çalışıyorum..."
+    },
+    {
+      "id": "c1713e0c",
+      "bank_id": "50b9b600",
+      "text": "Kahramana Rookridge'i temizleme görevi verildi, köprüyü ele geçiren haydutların defteri dürüldü."
+    },
+    {
+      "id": "c43d0b17",
+      "bank_id": "50b9b600",
+      "text": "Güzel şehir, değil mi?"
+    },
+    {
+      "id": "c47142c5",
+      "bank_id": "50b9b600",
+      "text": "Oakfield ahalisi koroya katıldı şevkle, en süslü teşekkürler sıralandı lügatle."
+    },
+    {
+      "id": "c53d0c8a",
+      "bank_id": "50b9b600",
+      "text": "Harika bir mimari."
+    },
+    {
+      "id": "cce7c634",
+      "bank_id": "50b9b600",
+      "text": "Ah! Kale."
+    },
+    {
+      "id": "cee7c91a",
+      "bank_id": "50b9b600",
+      "text": "Buralardakiler kederden aklını kaçırdığını söylüyor. Şimdiye çoktan ölmüştür herhalde."
+    },
+    {
+      "id": "cfe7ca8d",
+      "bank_id": "50b9b600",
+      "text": "Lord Fairfax buralarda görünmeyeli, ohooo, neredeyse on yıl oldu."
+    },
+    {
+      "id": "d5d90f8c",
+      "bank_id": "50b9b600",
+      "text": "Şampiyon, Şampiyon, Şampiyon, Şampiyon. Şampiyon, Şampiyon, Şampiyon, Şampiyon."
+    },
+    {
+      "id": "d7205e2c",
+      "bank_id": "50b9b600",
+      "text": "Ripper denen haydut artık yok, Kahraman gösterdi ona kapıyı çoktan."
+    },
+    {
+      "id": "d86333e8",
+      "bank_id": "50b9b600",
+      "text": "Burası pek bir özeldir: berber!"
+    },
+    {
+      "id": "d8bdfc43",
+      "bank_id": "50b9b600",
+      "text": "Artık o çiftçi yok bu hayatta, zalim Kahraman kapıyı gösterdi ona da."
+    },
+    {
+      "id": "d8be2a4a",
+      "bank_id": "50b9b600",
+      "text": "Büyüdüğünüz şehre dönün."
+    },
+    {
+      "id": "d8d91445",
+      "bank_id": "50b9b600",
+      "text": "Kahraman fethetti korkulan Çile'yi, tek bir kelime özetler bu muazzam olayı."
+    },
+    {
+      "id": "d9bdfe36",
+      "bank_id": "50b9b600",
+      "text": "Kahraman eşkıyalarla haydutlara katıldı, zavallı bir çiftçiye türlü eziyetler çektirdi."
+    },
+    {
+      "id": "da2062e5",
+      "bank_id": "50b9b600",
+      "text": "Tehdit ettiği o çiftlik kurtuldu sonunda, elmalarla kirazlar boy verir artık huzurla."
+    },
+    {
+      "id": "db6338a1",
+      "bank_id": "50b9b600",
+      "text": "Sadece saç kesmiyorlar, biliyor musun. Anında sakal bile çıkarabiliyorlar! Şey, bana çok heyecan verici gelmişti açıkçası."
+    },
+    {
+      "id": "e2edf9d7",
+      "bank_id": "50b9b600",
+      "text": "Asker olmak yazılmıştı gerçi kaderine, kimse bu kadar nefret uyandırmamıştı böylesine."
+    },
+    {
+      "id": "e2edf9dc",
+      "bank_id": "50b9b600",
+      "text": "Asker olmak yazılmıştı gerçi kaderine, kimse bu kadar nefret uyandırmamıştı böylesine."
+    },
+    {
+      "id": "e3675067",
+      "bank_id": "50b9b600",
+      "text": "Kötülüğün dudağı uçukladı hayretle, Kahraman cüretkâr bir firar tertipleyince."
+    },
+    {
+      "id": "e6b25e72",
+      "bank_id": "50b9b600",
+      "text": "Muhafızlar her mahlukatla başa çıkamaz her an, onlara yardım etmekse tam bir heyecan."
+    },
+    {
+      "id": "e750bc68",
+      "bank_id": "50b9b600",
+      "text": "Ben şahsen rıhtıma pek yanaşmamaya çalışırım. Pek tekinsiz tipler dolanır buralarda, ne demek istediğimi anlarsın ya."
+    },
+    {
+      "id": "e7a302a4",
+      "bank_id": "50b9b600",
+      "text": "Bunun için yanaştı sadık Tellal'a, kala kala \"Şişko Çirkin Yalancı\" kaldı bahtına."
+    },
+    {
+      "id": "e7a302af",
+      "bank_id": "50b9b600",
+      "text": "Bunun için yanaştı sadık Tellal'a, kala kala \"Şişko Çirkin Yalancı\" kaldı bahtına."
+    },
+    {
+      "id": "ea50c121",
+      "bank_id": "50b9b600",
+      "text": "Bowerstone'da satın alabileceğin hemen her şey buraya tekneyle gelir."
+    },
+    {
+      "id": "ef54dddb",
+      "bank_id": "50b9b600",
+      "text": "İşte burada da yerel posta arabası durağı var."
+    },
+    {
+      "id": "f054df4e",
+      "bank_id": "50b9b600",
+      "text": "Normalde Oakfield'e hızlı seferler yapar. Ama son zamanlarda o tarafta haydut belası var, bu yüzden bir süreliğine kapalı."
+    },
+    {
+      "id": "f154e121",
+      "bank_id": "50b9b600",
+      "text": "Bunun hakkında bir şarkı yazacaktım. Ama sonra yazmadım."
+    },
+    {
+      "id": "f1e06c25",
+      "bank_id": "50b9b600",
+      "text": "İstenen şantaj parasını ödeseydi bari, sonsuza dek el üstünde tutulurdu belki."
+    },
+    {
+      "id": "f1e06c2e",
+      "bank_id": "50b9b600",
+      "text": "İstenen şantaj parasını ödeseydi bari, sonsuza dek el üstünde tutulurdu belki."
+    },
+    {
+      "id": "f3176dbf",
+      "bank_id": "50b9b600",
+      "text": "Kahraman adamı kurtardı selametle, ninesinin yanına ulaştırdı afiyetle."
+    }
+  ]
+}

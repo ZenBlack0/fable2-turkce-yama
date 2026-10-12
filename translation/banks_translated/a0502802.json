@@ -1,0 +1,751 @@
+{
+  "bank_id": "a0502802",
+  "total_strings": 149,
+  "strings": [
+    {
+      "id": "07bea940",
+      "bank_id": "a0502802",
+      "text": "Ciddi biriyle kim evlenmek ister ki? Sen tam bana göresin!"
+    },
+    {
+      "id": "07bea941",
+      "bank_id": "a0502802",
+      "text": "Daha komik biriyle evlenemezdim, orası kesin."
+    },
+    {
+      "id": "07bea942",
+      "bank_id": "a0502802",
+      "text": "Senin gibi biriyle evliyken hayat asla sıkıcı olmuyor."
+    },
+    {
+      "id": "07bea944",
+      "bank_id": "a0502802",
+      "text": "Hiçbir evlilik neşeyle bu kadar kutsanmamıştır."
+    },
+    {
+      "id": "07bea945",
+      "bank_id": "a0502802",
+      "text": "Evimizi kahkahalarla dolduruyorsun sevgilim."
+    },
+    {
+      "id": "07bea946",
+      "bank_id": "a0502802",
+      "text": "Şu şapşallığına bayılıyorum canım."
+    },
+    {
+      "id": "07bea947",
+      "bank_id": "a0502802",
+      "text": "Vallahi bunca gülmekten bir gün dişlerim dökülecek aşkım."
+    },
+    {
+      "id": "10beb7a8",
+      "bank_id": "a0502802",
+      "text": "Eskiden hayatın çok ciddi bir şey olduğunu sanırdım ama sen fikrimi değiştirdin canım."
+    },
+    {
+      "id": "10beb7a9",
+      "bank_id": "a0502802",
+      "text": "Sevgilim, seninle bu evde kahkaha hiç eksik olmuyor."
+    },
+    {
+      "id": "10beb7aa",
+      "bank_id": "a0502802",
+      "text": "Daha komik biriyle evlenemezdim, bundan eminim."
+    },
+    {
+      "id": "10beb7ab",
+      "bank_id": "a0502802",
+      "text": "İlahi, tam bir şapşalsın aşkım."
+    },
+    {
+      "id": "10beb7ac",
+      "bank_id": "a0502802",
+      "text": "Evliliğin bu kadar eğlenceli olabileceğini kimse söylememişti."
+    },
+    {
+      "id": "10beb7ad",
+      "bank_id": "a0502802",
+      "text": "Yanımda sen varken yüzümde bir tebessümle yaşlanabilirim."
+    },
+    {
+      "id": "10beb7af",
+      "bank_id": "a0502802",
+      "text": "Umarım her zaman şimdiki kadar gülebiliriz."
+    },
+    {
+      "id": "1ebc3bd0",
+      "bank_id": "a0502802",
+      "text": "Bir sonraki sefere nereye gitmeyi düşünüyorsun?"
+    },
+    {
+      "id": "1ebc3bd1",
+      "bank_id": "a0502802",
+      "text": "Yakında başka bir göreve gidecek misin?"
+    },
+    {
+      "id": "1ebc3bd3",
+      "bank_id": "a0502802",
+      "text": "Bir sonraki sefere nereye gitmeyi düşünüyorsun?"
+    },
+    {
+      "id": "1ebc3bd6",
+      "bank_id": "a0502802",
+      "text": "Aklında güzel görevler var mı?"
+    },
+    {
+      "id": "1ebc3bd7",
+      "bank_id": "a0502802",
+      "text": "Bir sonraki görevin için planın var mı?"
+    },
+    {
+      "id": "25bc46d2",
+      "bank_id": "a0502802",
+      "text": "Bir sonraki görevin için planın var mı?"
+    },
+    {
+      "id": "25bc46d3",
+      "bank_id": "a0502802",
+      "text": "Aklında güzel görevler var mı?"
+    },
+    {
+      "id": "25bc46d4",
+      "bank_id": "a0502802",
+      "text": "Bir sonraki görevin için planın var mı?"
+    },
+    {
+      "id": "25bc46d5",
+      "bank_id": "a0502802",
+      "text": "Bir sonraki sefere nereye gitmeyi düşünüyorsun?"
+    },
+    {
+      "id": "25bc46d6",
+      "bank_id": "a0502802",
+      "text": "Bu hafta biraz alışveriş yapmamız lazım."
+    },
+    {
+      "id": "43d6cae0",
+      "bank_id": "a0502802",
+      "text": "Bayağı meşhur oluyorsun sevgilim. Dikkat et de başına vurmasın."
+    },
+    {
+      "id": "43d6cae1",
+      "bank_id": "a0502802",
+      "text": "Bugünlerde senin görevlerini konuşanlar sadece arkadaşlarım değil bilesin tatlım."
+    },
+    {
+      "id": "43d6cae2",
+      "bank_id": "a0502802",
+      "text": "Bütün arkadaşlarım senin yükselen şöhretini kıskanıyor canım. Bunun beni ne kadar mutlu ettiğini anlatamam."
+    },
+    {
+      "id": "43d6cae3",
+      "bank_id": "a0502802",
+      "text": "Son zamanlarda ünün giderek arttı tatlım. İnsanlar beni bile tanımaya başladı!"
+    },
+    {
+      "id": "43d6cae4",
+      "bank_id": "a0502802",
+      "text": "Bayağı meşhur olmaya başladın canım!"
+    },
+    {
+      "id": "43d6cae6",
+      "bank_id": "a0502802",
+      "text": "Kiminle evli olduğumu bu kadar çok insanın bilmesine inanamıyorum."
+    },
+    {
+      "id": "43d6cae7",
+      "bank_id": "a0502802",
+      "text": "Şöhret basamaklarını tırmanıyorsun vallahi sevgilim."
+    },
+    {
+      "id": "48d6d280",
+      "bank_id": "a0502802",
+      "text": "Bugünlerde senin görevlerini konuşanlar sadece arkadaşlarım değil bilesin tatlım."
+    },
+    {
+      "id": "48d6d281",
+      "bank_id": "a0502802",
+      "text": "Bayağı meşhur oluyorsun sevgilim. Dikkat et de başına vurmasın."
+    },
+    {
+      "id": "48d6d282",
+      "bank_id": "a0502802",
+      "text": "Son zamanlarda ünün giderek arttı tatlım. İnsanlar beni bile tanımaya başladı!"
+    },
+    {
+      "id": "48d6d283",
+      "bank_id": "a0502802",
+      "text": "Bütün arkadaşlarım senin yükselen şöhretini kıskanıyor canım. Bunun beni ne kadar mutlu ettiğini anlatamam."
+    },
+    {
+      "id": "48d6d285",
+      "bank_id": "a0502802",
+      "text": "Bayağı meşhur olmaya başladın canım!"
+    },
+    {
+      "id": "48d6d286",
+      "bank_id": "a0502802",
+      "text": "Şöhret basamaklarını tırmanıyorsun vallahi sevgilim."
+    },
+    {
+      "id": "48d6d287",
+      "bank_id": "a0502802",
+      "text": "Kiminle evli olduğumu bu kadar çok insanın bilmesine inanamıyorum."
+    },
+    {
+      "id": "57797398",
+      "bank_id": "a0502802",
+      "text": "Ah, seninle olmak beni öyle mutlu ediyor ki!"
+    },
+    {
+      "id": "5779739a",
+      "bank_id": "a0502802",
+      "text": "Öyle harikasın ki şansıma inanamıyorum canım."
+    },
+    {
+      "id": "5779739b",
+      "bank_id": "a0502802",
+      "text": "Ah, seninle olmak beni öyle mutlu ediyor ki!"
+    },
+    {
+      "id": "5779739c",
+      "bank_id": "a0502802",
+      "text": "Kimse beni senden daha mutlu edemezdi."
+    },
+    {
+      "id": "5779739d",
+      "bank_id": "a0502802",
+      "text": "Öyle harikasın ki şansıma inanamıyorum canım."
+    },
+    {
+      "id": "5c797bb9",
+      "bank_id": "a0502802",
+      "text": "Ah, seninle olmak beni öyle mutlu ediyor ki!"
+    },
+    {
+      "id": "5c797bba",
+      "bank_id": "a0502802",
+      "text": "Ah, seninle olmak beni öyle mutlu ediyor ki!"
+    },
+    {
+      "id": "5c797bbb",
+      "bank_id": "a0502802",
+      "text": "Ah, seninle olmak beni öyle mutlu ediyor ki!"
+    },
+    {
+      "id": "5c797bbc",
+      "bank_id": "a0502802",
+      "text": "Öyle harikasın ki şansıma inanamıyorum canım."
+    },
+    {
+      "id": "5c797bbd",
+      "bank_id": "a0502802",
+      "text": "Seninle evlenmek hayatımda yaptığım en iyi şeydi."
+    },
+    {
+      "id": "5d18e6a8",
+      "bank_id": "a0502802",
+      "text": "Senin gibi bir kısmeti kapabildiğime hâlâ inanamıyorum. Çok şanslı bir adamım."
+    },
+    {
+      "id": "5d18e6a9",
+      "bank_id": "a0502802",
+      "text": "Umarım çok çabuk maceraya atılmak zorunda kalmazsın."
+    },
+    {
+      "id": "5d18e6aa",
+      "bank_id": "a0502802",
+      "text": "Seninle evli olmak harika bir peri masalı gibi."
+    },
+    {
+      "id": "5d18e6ab",
+      "bank_id": "a0502802",
+      "text": "Seninle evlendiğim için kendimi şanslı sayıyorum."
+    },
+    {
+      "id": "5d18e6ad",
+      "bank_id": "a0502802",
+      "text": "Umarım sen de benim kadar mutlusundur."
+    },
+    {
+      "id": "5d18e6ae",
+      "bank_id": "a0502802",
+      "text": "Evlilik tam hayal ettiğin gibi değil mi?"
+    },
+    {
+      "id": "5d18e6af",
+      "bank_id": "a0502802",
+      "text": "Bir de bir Kahramanla evlenmenin hata olduğunu söylerlerdi! Ne anlarlar ki."
+    },
+    {
+      "id": "6818f7d8",
+      "bank_id": "a0502802",
+      "text": "Seninle vakit geçirmeyi çok seviyorum canım."
+    },
+    {
+      "id": "6818f7d9",
+      "bank_id": "a0502802",
+      "text": "Senin gibi bir kısmeti kapabildiğime hâlâ inanamıyorum. Çok şanslı bir kızım."
+    },
+    {
+      "id": "6818f7da",
+      "bank_id": "a0502802",
+      "text": "Aramızdaki bu bağ asla kopmayacak aşkım."
+    },
+    {
+      "id": "6818f7db",
+      "bank_id": "a0502802",
+      "text": "Umarım sen de benim kadar mutlusundur canım."
+    },
+    {
+      "id": "6818f7dc",
+      "bank_id": "a0502802",
+      "text": "Birlikteki hayatımızı çok seviyorum."
+    },
+    {
+      "id": "6818f7de",
+      "bank_id": "a0502802",
+      "text": "Birlikte mutlu olacağımızı her zaman biliyordum."
+    },
+    {
+      "id": "6818f7df",
+      "bank_id": "a0502802",
+      "text": "Şu görevlerine hemen gitmek zorunda değilsin, değil mi?"
+    },
+    {
+      "id": "7c36bb78",
+      "bank_id": "a0502802",
+      "text": "Birlikteki hayatımızı çok seviyorum."
+    },
+    {
+      "id": "7c36bb7a",
+      "bank_id": "a0502802",
+      "text": "Birlikte mutlu olacağımızı her zaman biliyordum."
+    },
+    {
+      "id": "7c36bb7b",
+      "bank_id": "a0502802",
+      "text": "Kimse beni senin kadar mutlu edemezdi."
+    },
+    {
+      "id": "7c36bb7c",
+      "bank_id": "a0502802",
+      "text": "Umarım çok çabuk maceraya atılmak zorunda kalmazsın."
+    },
+    {
+      "id": "7c36bb7d",
+      "bank_id": "a0502802",
+      "text": "Birlikte mutlu olacağımızı her zaman biliyordum."
+    },
+    {
+      "id": "7c36bb7e",
+      "bank_id": "a0502802",
+      "text": "Aramızdaki bu bağ asla kopmayacak aşkım."
+    },
+    {
+      "id": "7c36bb7f",
+      "bank_id": "a0502802",
+      "text": "Umarım sen de benim kadar mutlusundur canım."
+    },
+    {
+      "id": "8136c319",
+      "bank_id": "a0502802",
+      "text": "Umarım sen de benim kadar mutlusundur."
+    },
+    {
+      "id": "8136c31a",
+      "bank_id": "a0502802",
+      "text": "Evlilik tam hayal ettiğin gibi değil mi?"
+    },
+    {
+      "id": "8136c31b",
+      "bank_id": "a0502802",
+      "text": "Bir de bir Kahramanla evlenmenin hata olduğunu söylerlerdi! Ne anlarlar ki."
+    },
+    {
+      "id": "8136c31c",
+      "bank_id": "a0502802",
+      "text": "Biliyor musun? Seninle mutluluktan havalara uçuyorum."
+    },
+    {
+      "id": "8136c31d",
+      "bank_id": "a0502802",
+      "text": "Umarım çok çabuk maceraya atılmak zorunda kalmazsın."
+    },
+    {
+      "id": "8136c31e",
+      "bank_id": "a0502802",
+      "text": "Seninle evli olmak harika bir peri masalı gibi."
+    },
+    {
+      "id": "8136c31f",
+      "bank_id": "a0502802",
+      "text": "Seninle evlendiğim için kendimi şanslı sayıyorum."
+    },
+    {
+      "id": "89ed3480",
+      "bank_id": "a0502802",
+      "text": "Belki bu gece bizim oğlanlarla dışarı çıkarım."
+    },
+    {
+      "id": "89ed3481",
+      "bank_id": "a0502802",
+      "text": "Evimizi temiz tutmak hiç kolay değil bilesin."
+    },
+    {
+      "id": "89ed3482",
+      "bank_id": "a0502802",
+      "text": "Bu akşam yemekte ne yesek acaba?"
+    },
+    {
+      "id": "89ed3484",
+      "bank_id": "a0502802",
+      "text": "Hayatın sadece bundan mı ibaret olduğunu hiç düşünüyor musun?"
+    },
+    {
+      "id": "89ed3485",
+      "bank_id": "a0502802",
+      "text": "Neden o gerdek gecesi kıyafetini artık hiç giymiyorsun ki...?"
+    },
+    {
+      "id": "89ed3486",
+      "bank_id": "a0502802",
+      "text": "Yakında bir maceraya çıkıyor musun canım?"
+    },
+    {
+      "id": "89ed3487",
+      "bank_id": "a0502802",
+      "text": "Belki bu gece bizim oğlanlarla kafayı çekerim."
+    },
+    {
+      "id": "92ed42e8",
+      "bank_id": "a0502802",
+      "text": "Her şey yolunda mı sevgili kocam?"
+    },
+    {
+      "id": "92ed42e9",
+      "bank_id": "a0502802",
+      "text": "Belki bugün uzun bir yürüyüşe çıkarım."
+    },
+    {
+      "id": "92ed42ea",
+      "bank_id": "a0502802",
+      "text": "Yakında bir maceraya çıkıyor musun canım?"
+    },
+    {
+      "id": "92ed42eb",
+      "bank_id": "a0502802",
+      "text": "Nedense bir Kahramanla evli olmanın daha heyecanlı olacağını düşünmüştüm."
+    },
+    {
+      "id": "92ed42ec",
+      "bank_id": "a0502802",
+      "text": "Sanırım bir kitap kulübüne katılacağım."
+    },
+    {
+      "id": "92ed42ed",
+      "bank_id": "a0502802",
+      "text": "Artık hiç eğlenceli bir şey yapmıyoruz."
+    },
+    {
+      "id": "92ed42ef",
+      "bank_id": "a0502802",
+      "text": "Yakında yine maceraya çıkarsın herhalde."
+    },
+    {
+      "id": "93ee1aa0",
+      "bank_id": "a0502802",
+      "text": "Böyle devam et hayatım. Her geçen gün daha da ünleniyorsun!"
+    },
+    {
+      "id": "93ee1aa1",
+      "bank_id": "a0502802",
+      "text": "Bayağı meşhur olmaya başladın canım!"
+    },
+    {
+      "id": "93ee1aa3",
+      "bank_id": "a0502802",
+      "text": "Şöhretin her geçen gün büyüyor sevgilim."
+    },
+    {
+      "id": "9aee25a1",
+      "bank_id": "a0502802",
+      "text": "Ünün yayıldıkça sana olan sevgim de yayılıyor canım. Hmm, sevgi yayılabilir, değil mi?"
+    },
+    {
+      "id": "9aee25a2",
+      "bank_id": "a0502802",
+      "text": "Buralardaki herkes kim olduğunu biliyor tatlım. Diğer yerlerin çoğunda da öyle!"
+    },
+    {
+      "id": "9aee25a3",
+      "bank_id": "a0502802",
+      "text": "İyi gidiyorsun bebeğim ama biraz daha ünlü olmaya çalışsan olmaz mı? Tanıdığım herkesin gözüne sokmak istiyorum."
+    },
+    {
+      "id": "9aee25a4",
+      "bank_id": "a0502802",
+      "text": "Böyle devam et hayatım. Her geçen gün daha da ünleniyorsun!"
+    },
+    {
+      "id": "9aee25a5",
+      "bank_id": "a0502802",
+      "text": "Böyle devam et hayatım. Her geçen gün daha da ünleniyorsun!"
+    },
+    {
+      "id": "9aee25a6",
+      "bank_id": "a0502802",
+      "text": "Böyle devam et hayatım. Her geçen gün daha da ünleniyorsun!"
+    },
+    {
+      "id": "a001eea0",
+      "bank_id": "a0502802",
+      "text": "Sanırım bir kitap kulübüne katılacağım."
+    },
+    {
+      "id": "a001eea1",
+      "bank_id": "a0502802",
+      "text": "Artık hiç eğlenceli bir şey yapmıyoruz."
+    },
+    {
+      "id": "a001eea3",
+      "bank_id": "a0502802",
+      "text": "Yakında yine maceraya çıkarsın herhalde."
+    },
+    {
+      "id": "a001eea4",
+      "bank_id": "a0502802",
+      "text": "Her şey yolunda mı bir tanem?"
+    },
+    {
+      "id": "a001eea5",
+      "bank_id": "a0502802",
+      "text": "Belki bugün uzun bir yürüyüşe çıkarım."
+    },
+    {
+      "id": "a001eea6",
+      "bank_id": "a0502802",
+      "text": "Yakında bir maceraya çıkıyor musun canım?"
+    },
+    {
+      "id": "a001eea7",
+      "bank_id": "a0502802",
+      "text": "Nedense bir maceracıyla evli olmanın daha heyecanlı olacağını düşünmüştüm."
+    },
+    {
+      "id": "a701f9a0",
+      "bank_id": "a0502802",
+      "text": "Hayatın sadece bundan mı ibaret olduğunu hiç düşünüyor musun?"
+    },
+    {
+      "id": "a701f9a1",
+      "bank_id": "a0502802",
+      "text": "Neden o gerdek gecesi kıyafetini artık hiç giymiyorsun ki...?"
+    },
+    {
+      "id": "a701f9a2",
+      "bank_id": "a0502802",
+      "text": "Yakında bir maceraya çıkıyor musun canım?"
+    },
+    {
+      "id": "a701f9a3",
+      "bank_id": "a0502802",
+      "text": "Belki bu gece bizim kızlarla kafayı çekmeye giderim."
+    },
+    {
+      "id": "a701f9a4",
+      "bank_id": "a0502802",
+      "text": "Belki bu gece bizim kızlarla dışarı çıkarım."
+    },
+    {
+      "id": "a701f9a5",
+      "bank_id": "a0502802",
+      "text": "Evimizi temiz tutmak hiç kolay değil bilesin."
+    },
+    {
+      "id": "a701f9a6",
+      "bank_id": "a0502802",
+      "text": "Bu akşam yemekte ne yesek acaba?"
+    },
+    {
+      "id": "a8fc3a81",
+      "bank_id": "a0502802",
+      "text": "Bir süperstarla evliyim ben!"
+    },
+    {
+      "id": "a8fc3a82",
+      "bank_id": "a0502802",
+      "text": "Böyle bir yıldızla evli olduğum için bütün arkadaşlarım beni kıskanıyor!"
+    },
+    {
+      "id": "a8fc3a83",
+      "bank_id": "a0502802",
+      "text": "Böyle bir yıldızla evli olduğum için bütün arkadaşlarım beni kıskanıyor!"
+    },
+    {
+      "id": "a8fc3a84",
+      "bank_id": "a0502802",
+      "text": "Böyle bir yıldızla evli olduğum için bütün arkadaşlarım beni kıskanıyor!"
+    },
+    {
+      "id": "a8fc3a85",
+      "bank_id": "a0502802",
+      "text": "Bir süperstarla evliyim ben!"
+    },
+    {
+      "id": "b3fc4c30",
+      "bank_id": "a0502802",
+      "text": "Bir süperstarla evliyim ben!"
+    },
+    {
+      "id": "b3fc4c32",
+      "bank_id": "a0502802",
+      "text": "Böyle bir yıldızla evli olduğum için bütün arkadaşlarım beni kıskanıyor!"
+    },
+    {
+      "id": "b3fc4c33",
+      "bank_id": "a0502802",
+      "text": "Böyle bir yıldızla evli olduğum için bütün arkadaşlarım beni kıskanıyor!"
+    },
+    {
+      "id": "b3fc4c34",
+      "bank_id": "a0502802",
+      "text": "Bir süperstarla evliyim ben!"
+    },
+    {
+      "id": "b3fc4c35",
+      "bank_id": "a0502802",
+      "text": "Büyük bir yıldızla evleneceğimi her zaman biliyordum."
+    },
+    {
+      "id": "b85ce8f9",
+      "bank_id": "a0502802",
+      "text": "Benimle gurur duymamı sağlıyorsun tatlım. Kahramanlar arasında bir yıldızsın!"
+    },
+    {
+      "id": "b85ce8fa",
+      "bank_id": "a0502802",
+      "text": "İstersen bana kibirli de ama ne kadar büyük bir şöhret olduğunu düşündükçe gururdan kabarıyorum."
+    },
+    {
+      "id": "b85ce8fd",
+      "bank_id": "a0502802",
+      "text": "Beni öyle gururlandırdın ki! Ne kadar meşhur olduğuna hâlâ inanamıyorum!"
+    },
+    {
+      "id": "b85ce8fe",
+      "bank_id": "a0502802",
+      "text": "Beni öyle gururlandırdın ki! Ne kadar meşhur olduğuna hâlâ inanamıyorum!"
+    },
+    {
+      "id": "c35cfa29",
+      "bank_id": "a0502802",
+      "text": "Beni çok gururlandırıyorsun tatlım. Kahramanlar arasında bir yıldızsın!"
+    },
+    {
+      "id": "c35cfa2a",
+      "bank_id": "a0502802",
+      "text": "İstersen bana kibirli de ama ne kadar büyük bir şöhret olduğunu düşündükçe gururdan kabarıyorum."
+    },
+    {
+      "id": "c35cfa2b",
+      "bank_id": "a0502802",
+      "text": "Eşim sayesinde şöhrete ulaşacağımı her zaman biliyordum!"
+    },
+    {
+      "id": "c35cfa2c",
+      "bank_id": "a0502802",
+      "text": "Ünlü biriyle evli olduğum için çok şanslıyım."
+    },
+    {
+      "id": "c35cfa2e",
+      "bank_id": "a0502802",
+      "text": "Kiminle evli olduğumu bu kadar çok insanın bilmesine inanamıyorum."
+    },
+    {
+      "id": "c35cfa2f",
+      "bank_id": "a0502802",
+      "text": "Beni öyle gururlandırdın ki! Ne kadar meşhur olduğuna hâlâ inanamıyorum!"
+    },
+    {
+      "id": "dc308ed8",
+      "bank_id": "a0502802",
+      "text": "Sayende herkes bana gıpta ediyor sevgilim. Ününün eşi benzeri yok!"
+    },
+    {
+      "id": "dc308ed9",
+      "bank_id": "a0502802",
+      "text": "Ah, gerçekten meşhur biriyle evleneceğimi hep biliyordum. Tahminimde de haklıymışım!"
+    },
+    {
+      "id": "dc308eda",
+      "bank_id": "a0502802",
+      "text": "Şöhreti seninkinden büyük tek bir Allah'ın kulu yok canım. Kimse yok!"
+    },
+    {
+      "id": "dc308edb",
+      "bank_id": "a0502802",
+      "text": "Saf altınla evliyim ben! Daha fazla meşhur olamazsın canım."
+    },
+    {
+      "id": "dc308edc",
+      "bank_id": "a0502802",
+      "text": "Seninle öyle gurur duyuyorum ki sevgilim. Bütün dünya kim olduğunu biliyor!"
+    },
+    {
+      "id": "dc308edd",
+      "bank_id": "a0502802",
+      "text": "Dünyayı kasıp kavurdun vallahi hayatım. Çok gurur duyuyorum."
+    },
+    {
+      "id": "dc308ede",
+      "bank_id": "a0502802",
+      "text": "Böyle meşhur bir maceracıyla evli olduğuma inanamıyorum!"
+    },
+    {
+      "id": "e5309d28",
+      "bank_id": "a0502802",
+      "text": "Dünyayı kasıp kavurdun vallahi hayatım. Çok gurur duyuyorum."
+    },
+    {
+      "id": "e5309d29",
+      "bank_id": "a0502802",
+      "text": "Seninle öyle gurur duyuyorum ki sevgilim. Bütün dünya kim olduğunu biliyor!"
+    },
+    {
+      "id": "e5309d2b",
+      "bank_id": "a0502802",
+      "text": "Böyle meşhur bir maceracıyla evli olduğuma inanamıyorum!"
+    },
+    {
+      "id": "e5309d2c",
+      "bank_id": "a0502802",
+      "text": "Ah, gerçekten meşhur biriyle evleneceğimi hep biliyordum. Tahminimde de haklıymışım!"
+    },
+    {
+      "id": "e5309d2d",
+      "bank_id": "a0502802",
+      "text": "Sayende herkes bana gıpta ediyor sevgilim. Ününün eşi benzeri yok!"
+    },
+    {
+      "id": "e5309d2e",
+      "bank_id": "a0502802",
+      "text": "Saf altınla evliyim ben! Daha fazla meşhur olamazsın canım."
+    },
+    {
+      "id": "e5309d2f",
+      "bank_id": "a0502802",
+      "text": "Şöhreti seninkinden büyük tek bir Allah'ın kulu yok canım. Kimse yok!"
+    },
+    {
+      "id": "f79834d4",
+      "bank_id": "a0502802",
+      "text": "Hayatı kesinlikle eğlenceli kılıyorsun canım."
+    },
+    {
+      "id": "f79834d5",
+      "bank_id": "a0502802",
+      "text": "Beni güldürmek için ne yapman gerektiğini her zaman biliyorsun."
+    }
+  ]
+}

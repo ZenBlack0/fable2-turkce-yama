@@ -1,0 +1,616 @@
+{
+  "bank_id": "50522802",
+  "total_strings": 122,
+  "strings": [
+    {
+      "id": "1d8fdb86",
+      "bank_id": "50522802",
+      "text": "Eşiniz sizden boşandı ve bölgeyi terk etti."
+    },
+    {
+      "id": "1ee8b05a",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuz öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "1ee8b05b",
+      "bank_id": "50522802",
+      "text": "Oğlumuz bugünlerde niye bu kadar mahzun? Git konuş onunla."
+    },
+    {
+      "id": "1ee8b05c",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuz öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "1ee8b05d",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuz öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "1ee8b05e",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuz niye bu kadar üzgün? Bir şeyler yapamaz mısın?"
+    },
+    {
+      "id": "27e8bea8",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuz öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "27e8bea9",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuz öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "27e8beab",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuz niye bu kadar üzgün? Bir şeyler yapamaz mısın?"
+    },
+    {
+      "id": "27e8beae",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuz öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "27e8beaf",
+      "bank_id": "50522802",
+      "text": "Oğlumuz bugünlerde niye bu kadar mahzun? Git konuş onunla."
+    },
+    {
+      "id": "3b18d051",
+      "bank_id": "50522802",
+      "text": "Oğlumuzu son ziyaretinden beri hiç bu kadar mutlu görmemiştim. Sen uzaktayken seni çok özlüyor."
+    },
+    {
+      "id": "3b18d052",
+      "bank_id": "50522802",
+      "text": "Oğlumuz sen yokken seni çok özlüyor. Eve döndün diye nasıl da sevindiğini görmedin mi?"
+    },
+    {
+      "id": "3b18d053",
+      "bank_id": "50522802",
+      "text": "Öyle mutlu bir oğlumuz var ki. Hele sen yanındayken keyfine diyecek yok."
+    },
+    {
+      "id": "3b18d054",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuz sen buralardayken hep çok mutlu."
+    },
+    {
+      "id": "3b18d055",
+      "bank_id": "50522802",
+      "text": "Oğlunla daha fazla vakit geçirmelisin. Seninle olmayı çok seviyor."
+    },
+    {
+      "id": "3b18d056",
+      "bank_id": "50522802",
+      "text": "Küçük prensimiz seni yeniden yanında gördüğü için sevinçten havalara uçtu. Keşke daha uzun kalsan."
+    },
+    {
+      "id": "3b18d057",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuzun sen döndün diye nasıl mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "3ebc55f2",
+      "bank_id": "50522802",
+      "text": "Oğlumuzla yeterince vakit geçirdiğinden emin misin?"
+    },
+    {
+      "id": "3ebc55f3",
+      "bank_id": "50522802",
+      "text": "Oğlumuza vakit ayır."
+    },
+    {
+      "id": "3ebc55f4",
+      "bank_id": "50522802",
+      "text": "Oğlumuzla yeterince vakit geçirdiğinden emin misin?"
+    },
+    {
+      "id": "3ebc55f5",
+      "bank_id": "50522802",
+      "text": "Oğlumuzla oyun oynasana biraz? Çok hoşuna gideceğinden eminim."
+    },
+    {
+      "id": "3ebc55f7",
+      "bank_id": "50522802",
+      "text": "Oğlumuzla yeterince vakit geçirdiğinden emin ol."
+    },
+    {
+      "id": "45bc60f8",
+      "bank_id": "50522802",
+      "text": "Oğlumuzla yeterince vakit geçirdiğinden emin misin?"
+    },
+    {
+      "id": "45bc60f9",
+      "bank_id": "50522802",
+      "text": "Oğlumuzla yeterince vakit geçirdiğinden emin misin?"
+    },
+    {
+      "id": "45bc60fa",
+      "bank_id": "50522802",
+      "text": "Oğlumuzla yeterince vakit geçirdiğinden emin misin?"
+    },
+    {
+      "id": "45bc60fe",
+      "bank_id": "50522802",
+      "text": "Oğlumuzla yeterince vakit geçirdiğinden emin ol."
+    },
+    {
+      "id": "45bc60ff",
+      "bank_id": "50522802",
+      "text": "Oğlumuza vakit ayır."
+    },
+    {
+      "id": "4618e180",
+      "bank_id": "50522802",
+      "text": "Oğlumuzu son ziyaretinden beri hiç bu kadar mutlu görmemiştim. Sen uzaktayken seni çok özlüyor."
+    },
+    {
+      "id": "4618e182",
+      "bank_id": "50522802",
+      "text": "Öyle mutlu bir oğlumuz var ki. Hele sen yanındayken keyfine diyecek yok."
+    },
+    {
+      "id": "4618e183",
+      "bank_id": "50522802",
+      "text": "Oğlumuz sen yokken seni çok özlüyor. Eve döndün diye nasıl da sevindiğini görmedin mi?"
+    },
+    {
+      "id": "4618e184",
+      "bank_id": "50522802",
+      "text": "Oğlunla daha fazla vakit geçirmelisin. Seninle olmayı çok seviyor."
+    },
+    {
+      "id": "4618e185",
+      "bank_id": "50522802",
+      "text": "Bizim ufaklık sen buralardayken hep çok mutlu."
+    },
+    {
+      "id": "4618e186",
+      "bank_id": "50522802",
+      "text": "Küçük oğlumuzun sen döndün diye nasıl mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "4618e187",
+      "bank_id": "50522802",
+      "text": "Küçük prensimiz seni yeniden yanında gördüğü için sevinçten havalara uçtu. Keşke daha uzun kalsan."
+    },
+    {
+      "id": "5fd268e0",
+      "bank_id": "50522802",
+      "text": "Kendine çeki düzen versen iyi olur, yoksa bu evlilik biter."
+    },
+    {
+      "id": "5fd268e1",
+      "bank_id": "50522802",
+      "text": "Ciddi ciddi senden boşanmayı düşünüyorum."
+    },
+    {
+      "id": "5fd268e3",
+      "bank_id": "50522802",
+      "text": "Diyorum sana, bu iş böyle devam ederse senden boşanırım."
+    },
+    {
+      "id": "5fd268e4",
+      "bank_id": "50522802",
+      "text": "Seni bir daha uyarmayacağım. Ya hareketlerini düzelt ya da boşanma davası açarım."
+    },
+    {
+      "id": "5fd268e5",
+      "bank_id": "50522802",
+      "text": "Kendine çeki düzen versen iyi olur, yoksa bu evlilik biter!"
+    },
+    {
+      "id": "5fd268e6",
+      "bank_id": "50522802",
+      "text": "Kendine çeki düzen versen iyi olur, yoksa bu evlilik biter!"
+    },
+    {
+      "id": "5fd268e7",
+      "bank_id": "50522802",
+      "text": "Bir şeyler değişse iyi olur yoksa boşanacağız."
+    },
+    {
+      "id": "66d273e0",
+      "bank_id": "50522802",
+      "text": "Senden gelecek bir yanlış adım daha olursa gözünün yaşına bakmaz anında boşanırım."
+    },
+    {
+      "id": "66d273e1",
+      "bank_id": "50522802",
+      "text": "Seni bir daha uyarmayacağım. Ya hareketlerini düzelt ya da boşanma davası açarım."
+    },
+    {
+      "id": "66d273e2",
+      "bank_id": "50522802",
+      "text": "Bir şeyler değişse iyi olur yoksa boşanacağız."
+    },
+    {
+      "id": "66d273e3",
+      "bank_id": "50522802",
+      "text": "Kendine çeki düzen versen iyi olur, yoksa bu evlilik biter!"
+    },
+    {
+      "id": "66d273e4",
+      "bank_id": "50522802",
+      "text": "Buralarda bir şeyler değişse iyi olur, yoksa boşanmak isteyeceğim."
+    },
+    {
+      "id": "66d273e5",
+      "bank_id": "50522802",
+      "text": "Kendine çeki düzen versen iyi olur, yoksa bu evlilik biter!"
+    },
+    {
+      "id": "66d273e6",
+      "bank_id": "50522802",
+      "text": "Kendine çeki düzen versen iyi olur, yoksa bu evlilik biter!"
+    },
+    {
+      "id": "a7fa8ce0",
+      "bank_id": "50522802",
+      "text": "Bizim kız bugün diğer çocuklarla dışarıda oynadı mı acaba?"
+    },
+    {
+      "id": "a7fa8ce1",
+      "bank_id": "50522802",
+      "text": "Bilirsin ya, kızımıza güzel bir hediye falan alsan dünyalar onun olurdu."
+    },
+    {
+      "id": "a7fa8ce2",
+      "bank_id": "50522802",
+      "text": "Güzel kızımızın büyüdüğünde çok mühim bir mertebeye geleceğine tüm kalbimle inanıyorum."
+    },
+    {
+      "id": "a7fa8ce3",
+      "bank_id": "50522802",
+      "text": "Hmm, küçük prensesimizi yeterince hediyeye boğuyor muyuz acaba? Bir tane daha hiç fena olmazdı hani."
+    },
+    {
+      "id": "a7fa8ce6",
+      "bank_id": "50522802",
+      "text": "Bilirsin ya, bence kızımıza güzel bir hediye alsaydık sevinçten havalara uçardı."
+    },
+    {
+      "id": "a7fa8ce7",
+      "bank_id": "50522802",
+      "text": "Bu hafta kızımızın ödevlerine yardım edeceğim. O kadar çok ödevi var ki!"
+    },
+    {
+      "id": "ade7c710",
+      "bank_id": "50522802",
+      "text": "Küçük kızımız öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "ade7c711",
+      "bank_id": "50522802",
+      "text": "Küçük kızımız öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "ade7c713",
+      "bank_id": "50522802",
+      "text": "Küçük kızımız öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "ade7c716",
+      "bank_id": "50522802",
+      "text": "Kızımız bugünlerde niye bu kadar mahzun? Git konuş onunla."
+    },
+    {
+      "id": "ade7c717",
+      "bank_id": "50522802",
+      "text": "Küçük kızımız öyle üzgün ki. Yüreğimi sızlatıyor valla."
+    },
+    {
+      "id": "b4e7d212",
+      "bank_id": "50522802",
+      "text": "Küçük kızımız öyle üzgün ki. Yüreğimi sızlatıyor valla."
+    },
+    {
+      "id": "b4e7d213",
+      "bank_id": "50522802",
+      "text": "Küçük kızımız öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "b4e7d214",
+      "bank_id": "50522802",
+      "text": "Kızımızı böylesine mutsuz görmeye dayanamıyorum. Bu konuda bir şeyler yap, ne olursun?"
+    },
+    {
+      "id": "b4e7d215",
+      "bank_id": "50522802",
+      "text": "Küçük kızımız öyle mutsuz ki. Yüreğim parçalanıyor resmen."
+    },
+    {
+      "id": "b4e7d216",
+      "bank_id": "50522802",
+      "text": "Kızımız bugünlerde niye bu kadar mahzun? Git konuş onunla."
+    },
+    {
+      "id": "bf5a8560",
+      "bank_id": "50522802",
+      "text": "Oğlumuzu bu kadar mutsuz ettiğini görmek son derece acı verici. Neden bu konuda bir şeyler yapmıyorsun?"
+    },
+    {
+      "id": "bf5a8561",
+      "bank_id": "50522802",
+      "text": "Sen etraftayken küçük prensimiz hiç ama hiç mutlu değil. Belki de bunu düzeltmenin vakti gelmiştir."
+    },
+    {
+      "id": "bf5a8562",
+      "bank_id": "50522802",
+      "text": "Oğlumuzla daha çok vakit geçirsen iyi olur. Sürekli öyle üzgün duruyor ki."
+    },
+    {
+      "id": "bf5a8563",
+      "bank_id": "50522802",
+      "text": "Oğlumuzun senden hoşlandığını bile sanmıyorum. Bu konuda bir şeyler yapmalısın."
+    },
+    {
+      "id": "bf5a8564",
+      "bank_id": "50522802",
+      "text": "Yapacak bir sürü mühim işin olduğunu biliyorum ama oğlunun mutluluğu hiç mi umurunda değil?"
+    },
+    {
+      "id": "bf5a8565",
+      "bank_id": "50522802",
+      "text": "Oğlumuz seni gördüğüne pek sevinmiş gibi durmuyor. Onu neşelendirmeyi denemelisin."
+    },
+    {
+      "id": "bf5a8567",
+      "bank_id": "50522802",
+      "text": "Oğlumuzun neden bu kadar mutsuz olduğunu hiç merak etmiyor musun? Biraz daha gayret göstermelisin."
+    },
+    {
+      "id": "c65a9068",
+      "bank_id": "50522802",
+      "text": "Oğlumuz seni gördüğüne pek sevinmiş gibi durmuyor. Onu neşelendirmeyi denemelisin."
+    },
+    {
+      "id": "c65a9069",
+      "bank_id": "50522802",
+      "text": "Yapacak bir sürü mühim işin olduğunu biliyorum ama oğlunun mutluluğu hiç mi umurunda değil?"
+    },
+    {
+      "id": "c65a906a",
+      "bank_id": "50522802",
+      "text": "Oğlumuzun neden bu kadar mutsuz olduğunu hiç merak etmiyor musun? Biraz daha gayret göstermelisin."
+    },
+    {
+      "id": "c65a906c",
+      "bank_id": "50522802",
+      "text": "Sen etraftayken küçük prensimiz hiç ama hiç mutlu değil. Belki de bunu düzeltmenin vakti gelmiştir."
+    },
+    {
+      "id": "c65a906d",
+      "bank_id": "50522802",
+      "text": "Oğlumuzu bu kadar mutsuz ettiğini görmek son derece acı verici. Neden bu konuda bir şeyler yapmıyorsun?"
+    },
+    {
+      "id": "c65a906e",
+      "bank_id": "50522802",
+      "text": "Oğlumuzun senden hoşlandığını bile sanmıyorum. Bu konuda bir şeyler yapmalısın."
+    },
+    {
+      "id": "c65a906f",
+      "bank_id": "50522802",
+      "text": "Oğlumuzla daha çok vakit geçirsen iyi olur. Sürekli öyle üzgün duruyor ki."
+    },
+    {
+      "id": "d0d267e0",
+      "bank_id": "50522802",
+      "text": "Bilirsin ya, bence oğlumuza güzel bir hediye alsaydık sevinçten havalara uçardı."
+    },
+    {
+      "id": "d0d267e1",
+      "bank_id": "50522802",
+      "text": "Bu hafta oğlumuzun ev ödevlerine yardım edeceğim. O kadar çok ödevi var ki!"
+    },
+    {
+      "id": "d0d267e3",
+      "bank_id": "50522802",
+      "text": "Oğlumuzun okulda dersleri çok iyi gidiyor, biliyor musun?"
+    },
+    {
+      "id": "d0d267e4",
+      "bank_id": "50522802",
+      "text": "Sevgili oğlumuzun büyüdüğünde çok mühim bir mertebeye geleceğine tüm kalbimle inanıyorum."
+    },
+    {
+      "id": "d0d267e5",
+      "bank_id": "50522802",
+      "text": "Hmm, küçük prensimizi yeterince hediyeye boğuyor muyuz acaba? Bir tane daha hiç fena olmazdı hani."
+    },
+    {
+      "id": "d0d267e6",
+      "bank_id": "50522802",
+      "text": "Bizim oğlan bugün diğer çocuklarla dışarıda oynadı mı acaba?"
+    },
+    {
+      "id": "d0d267e7",
+      "bank_id": "50522802",
+      "text": "Bilirsin ya, oğlumuza güzel bir hediye falan alsan bayılırdı valla."
+    },
+    {
+      "id": "d3fbd800",
+      "bank_id": "50522802",
+      "text": "Kızımızın senden hoşlandığını bile sanmıyorum. Bu konuda bir şeyler yapmalısın."
+    },
+    {
+      "id": "d3fbd801",
+      "bank_id": "50522802",
+      "text": "Kızımızla daha çok vakit geçirsen iyi olur. Sürekli öyle üzgün duruyor ki."
+    },
+    {
+      "id": "d3fbd802",
+      "bank_id": "50522802",
+      "text": "Sen buralarda yokken küçük prensesimiz hiç mutlu değil. Belki de bunu düzeltmenin vakti gelmiştir."
+    },
+    {
+      "id": "d3fbd803",
+      "bank_id": "50522802",
+      "text": "Kızımızı bu kadar mutsuz ettiğini görmek son derece acı verici. Neden bu konuda bir şeyler yapmıyorsun?"
+    },
+    {
+      "id": "d3fbd804",
+      "bank_id": "50522802",
+      "text": "Kızımızın neden bu kadar mutsuz olduğunu hiç merak etmiyor musun? Biraz daha gayret göstermelisin."
+    },
+    {
+      "id": "d3fbd806",
+      "bank_id": "50522802",
+      "text": "Kızımız seni gördüğüne pek sevinmiş gibi durmuyor. Onu neşelendirmeyi denemelisin."
+    },
+    {
+      "id": "d3fbd807",
+      "bank_id": "50522802",
+      "text": "Yapacak bir sürü mühim işin olduğunu biliyorum ama kızının mutluluğu hiç mi umurunda değil?"
+    },
+    {
+      "id": "d7d272e0",
+      "bank_id": "50522802",
+      "text": "Hmm, küçük prensimizi yeterince hediyeye boğuyor muyuz acaba? Bir tane daha hiç fena olmazdı hani."
+    },
+    {
+      "id": "d7d272e1",
+      "bank_id": "50522802",
+      "text": "Sevgili oğlumuzun büyüdüğünde çok mühim bir mertebeye geleceğine tüm kalbimle inanıyorum."
+    },
+    {
+      "id": "d7d272e2",
+      "bank_id": "50522802",
+      "text": "Bilirsin ya, oğlumuza güzel bir hediye falan alsan bayılırdı valla."
+    },
+    {
+      "id": "d7d272e3",
+      "bank_id": "50522802",
+      "text": "Bizim oğlan bugün diğer çocuklarla dışarıda oynadı mı acaba?"
+    },
+    {
+      "id": "d7d272e4",
+      "bank_id": "50522802",
+      "text": "Bu hafta oğlumuzun ev ödevlerine yardım edeceğim. O kadar çok ödevi var ki!"
+    },
+    {
+      "id": "d7d272e5",
+      "bank_id": "50522802",
+      "text": "Bilirsin ya, bence oğlumuza güzel bir hediye alsaydık sevinçten havalara uçardı."
+    },
+    {
+      "id": "d7d272e6",
+      "bank_id": "50522802",
+      "text": "Oğlumuzun okulda dersleri çok iyi gidiyor, biliyor musun?"
+    },
+    {
+      "id": "d8fbe020",
+      "bank_id": "50522802",
+      "text": "Kızımızla daha çok vakit geçirsen iyi olur. Sürekli öyle üzgün duruyor ki."
+    },
+    {
+      "id": "d8fbe021",
+      "bank_id": "50522802",
+      "text": "Kızımızın senden hoşlandığını bile sanmıyorum. Bu konuda bir şeyler yapmalısın."
+    },
+    {
+      "id": "d8fbe022",
+      "bank_id": "50522802",
+      "text": "Kızımızı bu kadar mutsuz ettiğini görmek son derece acı verici. Neden bu konuda bir şeyler yapmıyorsun?"
+    },
+    {
+      "id": "d8fbe023",
+      "bank_id": "50522802",
+      "text": "Sen buralarda yokken küçük prensesimiz hiç mutlu değil. Belki de bunu düzeltmenin vakti gelmiştir."
+    },
+    {
+      "id": "d8fbe025",
+      "bank_id": "50522802",
+      "text": "Kızımızın neden bu kadar mutsuz olduğunu hiç merak etmiyor musun? Biraz daha gayret göstermelisin."
+    },
+    {
+      "id": "d8fbe026",
+      "bank_id": "50522802",
+      "text": "Yapacak bir sürü mühim işin olduğunu biliyorum ama kızının mutluluğu hiç mi umurunda değil?"
+    },
+    {
+      "id": "d8fbe027",
+      "bank_id": "50522802",
+      "text": "Kızımız seni gördüğüne pek sevinmiş gibi durmuyor. Onu neşelendirmeyi denemelisin."
+    },
+    {
+      "id": "ed339590",
+      "bank_id": "50522802",
+      "text": "Oğlumuzun bu kadar mutlu görünmesine öyle seviniyorum ki."
+    },
+    {
+      "id": "ed339591",
+      "bank_id": "50522802",
+      "text": "Böylesine mutlu küçük bir oğlumuz olduğu için çok şanslıyız."
+    },
+    {
+      "id": "ed339592",
+      "bank_id": "50522802",
+      "text": "Öyle tatlı bir oğlumuz var ki."
+    },
+    {
+      "id": "ed339596",
+      "bank_id": "50522802",
+      "text": "Bizim oğlan harika bir çocuk maşallah. Hep öyle neşeli ki."
+    },
+    {
+      "id": "ed339597",
+      "bank_id": "50522802",
+      "text": "Böylesine mutlu küçük bir oğlumuz olduğu için çok şanslıyız."
+    },
+    {
+      "id": "f633a3fa",
+      "bank_id": "50522802",
+      "text": "Öyle tatlı bir oğlumuz var ki."
+    },
+    {
+      "id": "f633a3fb",
+      "bank_id": "50522802",
+      "text": "Bizim oğlan harika bir çocuk maşallah. Hep öyle neşeli ki."
+    },
+    {
+      "id": "f633a3fc",
+      "bank_id": "50522802",
+      "text": "Böylesine mutlu küçük bir oğlumuz olduğu için çok şanslıyız."
+    },
+    {
+      "id": "f633a3fd",
+      "bank_id": "50522802",
+      "text": "Böylesine mutlu küçük bir oğlumuz olduğu için çok şanslıyız."
+    },
+    {
+      "id": "f633a3ff",
+      "bank_id": "50522802",
+      "text": "Minik oğlumuzun mutlu olması beni öyle sevindiriyor ki."
+    },
+    {
+      "id": "f7d96b10",
+      "bank_id": "50522802",
+      "text": "Artık bana zerre değer vermiyorsun gibi görünüyor. İşler düzelmezse seni terk edeceğim!"
+    },
+    {
+      "id": "f7d96b11",
+      "bank_id": "50522802",
+      "text": "Diyorum sana, hareketlerini düzeltmezsen seni terk ederim."
+    },
+    {
+      "id": "f7d96b13",
+      "bank_id": "50522802",
+      "text": "Artık bana zerre değer vermiyorsun gibi görünüyor. İşler düzelmezse seni terk edeceğim!"
+    },
+    {
+      "id": "f7d96b16",
+      "bank_id": "50522802",
+      "text": "İşleri yoluna koymazsan senden boşanıyorum!"
+    },
+    {
+      "id": "f7d96b17",
+      "bank_id": "50522802",
+      "text": "Artık bana zerre değer vermiyorsun gibi görünüyor. İşler düzelmezse seni terk edeceğim!"
+    }
+  ]
+}

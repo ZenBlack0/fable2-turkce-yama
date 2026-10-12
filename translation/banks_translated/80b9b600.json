@@ -1,0 +1,756 @@
+{
+  "bank_id": "80b9b600",
+  "total_strings": 150,
+  "strings": [
+    {
+      "id": "02a5ed88",
+      "bank_id": "80b9b600",
+      "text": "Albion'un en iyi nişancıları becerilerini Westcliff poligonunda sınıyor. En büyük ödülü kazanabilir misiniz?"
+    },
+    {
+      "id": "050ed1af",
+      "bank_id": "80b9b600",
+      "text": "Aman, ateş etmeyi keser misin artık?"
+    },
+    {
+      "id": "060ed302",
+      "bank_id": "80b9b600",
+      "text": "Böyle devam edersen bir yere varamayacaksın."
+    },
+    {
+      "id": "0908d428",
+      "bank_id": "80b9b600",
+      "text": "Felaket Çarkı, tüm kötülüğümüzü sanatsal bir gösterişle ifade etmemizi sağlıyor. Ondan sonuna kadar yararlan."
+    },
+    {
+      "id": "0a08d59b",
+      "bank_id": "80b9b600",
+      "text": "Kendi Gölgeler Tapınağımızın ödül sisteminde puan kazanmaktan daha büyük bir ödül hayal edilebilir mi?"
+    },
+    {
+      "id": "0b200a1d",
+      "bank_id": "80b9b600",
+      "text": "Pınar Mağarası Gölgeler Tapınağı'na karşı savunulsun mu?"
+    },
+    {
+      "id": "0b3447c0",
+      "bank_id": "80b9b600",
+      "text": "<b>Puanlama</b>\nHedefi vurmak: 1 puan\nKafadan vurmak: 3 puan\nYanlış hedefi vurmak: -1 puan\nYanlış hedefi kafadan vurmak: -3 puan"
+    },
+    {
+      "id": "0c08d8e1",
+      "bank_id": "80b9b600",
+      "text": "Umarım dört bir yanda daha da leziz kurbanlar arıyorsundur. Çark asla doymaz."
+    },
+    {
+      "id": "0e344c99",
+      "bank_id": "80b9b600",
+      "text": "<b>Westcliff Atış Poligonu Kuralları</b>Ödül kazanmak için üç raundu da tamamlayın!Bir sonraki raunda geçmek için hedef puanı aşın.Üç raunt boyunca topladığınız puan ödülünüzü belirleyecektir."
+    },
+    {
+      "id": "0f7bd5b3",
+      "bank_id": "80b9b600",
+      "text": "2. Raunt Puanı:"
+    },
+    {
+      "id": "102a7826",
+      "bank_id": "80b9b600",
+      "text": "Ne zaman istersen geri gel öyleyse. Ben buralardayım."
+    },
+    {
+      "id": "156a8277",
+      "bank_id": "80b9b600",
+      "text": "Şunu söyleyebilir miyim, muhteşemdi. Benden azıcık daha kötüsün. Bunun için sana saygı duyuyorum."
+    },
+    {
+      "id": "166a83ea",
+      "bank_id": "80b9b600",
+      "text": "Başarını derhâl Cornelius'a bildireceğiz."
+    },
+    {
+      "id": "1b24604a",
+      "bank_id": "80b9b600",
+      "text": "Gölgeler Tapınağı'na sırtını dönme. Bize ihtiyacın var! Hadi ama. Lütfen?"
+    },
+    {
+      "id": "219bc8a7",
+      "bank_id": "80b9b600",
+      "text": "Toplam Puan:"
+    },
+    {
+      "id": "263b192c",
+      "bank_id": "80b9b600",
+      "text": "Atış Poligonunda şansını denemek ister misin?"
+    },
+    {
+      "id": "2b3f1450",
+      "bank_id": "80b9b600",
+      "text": "Bu ne kadar vasat bir nişancı olduğunu unutturur mu bilmem."
+    },
+    {
+      "id": "2b587665",
+      "bank_id": "80b9b600",
+      "text": "Atış Poligonu Tamamlandı\nPuan: %1"
+    },
+    {
+      "id": "2d99d63b",
+      "bank_id": "80b9b600",
+      "text": "Bununla kafayı bulup sızmaya ne dersin? Beni iflas ettirmeyi de kes artık."
+    },
+    {
+      "id": "2e8a578e",
+      "bank_id": "80b9b600",
+      "text": "3. Raunt Puanı:"
+    },
+    {
+      "id": "362406bc",
+      "bank_id": "80b9b600",
+      "text": "Oakfield'deki herkesi öldürün."
+    },
+    {
+      "id": "3724082f",
+      "bank_id": "80b9b600",
+      "text": "Hain Wilbur'a dönün."
+    },
+    {
+      "id": "387f2f9e",
+      "bank_id": "80b9b600",
+      "text": "Bizi bırakma. Lütfen tekrar düşün."
+    },
+    {
+      "id": "39240b75",
+      "bank_id": "80b9b600",
+      "text": "Hain Wilbur ile Oakfield'de buluşun."
+    },
+    {
+      "id": "3a11a0b8",
+      "bank_id": "80b9b600",
+      "text": "Kendi türünü mü öldüreceksin? Onlar senin kendi türünden, değil mi?"
+    },
+    {
+      "id": "3b11a22b",
+      "bank_id": "80b9b600",
+      "text": "Köylüleri vur, lanet haydutları değil!"
+    },
+    {
+      "id": "3d11a571",
+      "bank_id": "80b9b600",
+      "text": "Hey, haydutları vurma!"
+    },
+    {
+      "id": "4011a9ca",
+      "bank_id": "80b9b600",
+      "text": "Haydutlarla ne alıp veremediğin var ki sanki?"
+    },
+    {
+      "id": "401ed68b",
+      "bank_id": "80b9b600",
+      "text": "Eğlencene katılırdık ama bizim Charlton ilk kan görünce biraz fenalaşıyor."
+    },
+    {
+      "id": "4111abbd",
+      "bank_id": "80b9b600",
+      "text": "Hedef köylüler seni aptal."
+    },
+    {
+      "id": "431edb44",
+      "bank_id": "80b9b600",
+      "text": "İnsan sadece umut edebilir Charlton. Sadece umut edebilir."
+    },
+    {
+      "id": "441edd37",
+      "bank_id": "80b9b600",
+      "text": "Bugün tarihi bir gün Charlton. Torunlarına anlatacağın bir gün."
+    },
+    {
+      "id": "4897a1ab",
+      "bank_id": "80b9b600",
+      "text": "Evet, bizim dışımızda tabii."
+    },
+    {
+      "id": "4a35aa84",
+      "bank_id": "80b9b600",
+      "text": "Adamlarım seni Oakfield'de bekliyor."
+    },
+    {
+      "id": "4a97a4f1",
+      "bank_id": "80b9b600",
+      "text": "Kimse kaçamaz. O yüzden acele etme ve gördüğün herkesi öldür."
+    },
+    {
+      "id": "4b35ac77",
+      "bank_id": "80b9b600",
+      "text": "Işık Tapınağı'nın keşişlerinin olabildiğince acı çektiğinden emin ol."
+    },
+    {
+      "id": "4b97a664",
+      "bank_id": "80b9b600",
+      "text": "Vakit kaybetmeyelim. Şimdiye çoktan yatağımızda olabilirdik. Zaten çıkışı senin için barikatla kapattık."
+    },
+    {
+      "id": "4bf5f594",
+      "bank_id": "80b9b600",
+      "text": "Ne oldu? Ateş etmeyi bilmiyor musun yoksa? Olay bu mu?"
+    },
+    {
+      "id": "4bfec69f",
+      "bank_id": "80b9b600",
+      "text": "Sen kutsal bir şampiyonsun, Işığın bizzat bize gönderdiği birisin. Tekrar teşekkür ederim."
+    },
+    {
+      "id": "4cf5f707",
+      "bank_id": "80b9b600",
+      "text": "Sen de o yufka yürekli çıtkırıldımlardan değilsin, değil mi? Köylüleri öldürme fikri seni telaşlandırmıyor herhalde?"
+    },
+    {
+      "id": "4d35af5d",
+      "bank_id": "80b9b600",
+      "text": "Sayende bir zamanlar bereket diyarı olan yer, ceset bereketi diyarı olacak."
+    },
+    {
+      "id": "4d5a43e4",
+      "bank_id": "80b9b600",
+      "text": "Korkarım Gölgeler, Albion'da Işığın kalan son meşalesini de söndürecek."
+    },
+    {
+      "id": "4d97a94a",
+      "bank_id": "80b9b600",
+      "text": "Demek o kişi sensin. Grim'in yeni gözdesi. Sanırım artık sadece biraz kötü olmak yetmiyor."
+    },
+    {
+      "id": "4e5a4557",
+      "bank_id": "80b9b600",
+      "text": "Tarikatımızın ve onu çevreleyen toprakların geleceği tehlikede."
+    },
+    {
+      "id": "4ef5fa6d",
+      "bank_id": "80b9b600",
+      "text": "Hadi ama! Kaybedecek neyin var ki?"
+    },
+    {
+      "id": "4f5a46ca",
+      "bank_id": "80b9b600",
+      "text": "Tapınağın hiçbir zaman bir şampiyona bu kadar ihtiyacı olmamıştı."
+    },
+    {
+      "id": "506ddba6",
+      "bank_id": "80b9b600",
+      "text": "Biz hariç ama."
+    },
+    {
+      "id": "536de07f",
+      "bank_id": "80b9b600",
+      "text": "Yeterince kötü demeye çalışıyorsun herhalde?"
+    },
+    {
+      "id": "538b9300",
+      "bank_id": "80b9b600",
+      "text": "Başkeşişe dönün."
+    },
+    {
+      "id": "53defc2c",
+      "bank_id": "80b9b600",
+      "text": "Vay canına, dalaklarıma kurşun sıkayım. Bunu kazanacağını hiç düşünmemiştim: büyük ödül. Nasıl yaptın bunu?"
+    },
+    {
+      "id": "542405e2",
+      "bank_id": "80b9b600",
+      "text": "İnsanın midesini bulandırmaya yeter, değil mi? Tıpkı puanın gibi."
+    },
+    {
+      "id": "548b94f3",
+      "bank_id": "80b9b600",
+      "text": "Cornelius Grim'i öldürün."
+    },
+    {
+      "id": "56785e57",
+      "bank_id": "80b9b600",
+      "text": "Pekâlâ. Bakalım ne kazanmışsın."
+    },
+    {
+      "id": "578b994c",
+      "bank_id": "80b9b600",
+      "text": "Gölge tapanların ilk pınarı kirletmesini engelleyin."
+    },
+    {
+      "id": "58f759d2",
+      "bank_id": "80b9b600",
+      "text": "Gölgeler Tapınağı adına Oakfield halkı kılıçtan geçirilsin mi?"
+    },
+    {
+      "id": "598b9c92",
+      "bank_id": "80b9b600",
+      "text": "Son heykel odasını araştırın."
+    },
+    {
+      "id": "5a8b9e05",
+      "bank_id": "80b9b600",
+      "text": "Gölge tapanların ikinci pınarı kirletmesini engelleyin."
+    },
+    {
+      "id": "5c7fb078",
+      "bank_id": "80b9b600",
+      "text": "Acele et de içeri gir!"
+    },
+    {
+      "id": "5d7fb1eb",
+      "bank_id": "80b9b600",
+      "text": "Giriş hemen burada. Kör müsün?"
+    },
+    {
+      "id": "5e7fb35e",
+      "bank_id": "80b9b600",
+      "text": "Başlamak için çemberin içine adım atman yeterli."
+    },
+    {
+      "id": "6490cba8",
+      "bank_id": "80b9b600",
+      "text": "Nüfus: %1"
+    },
+    {
+      "id": "680a1c31",
+      "bank_id": "80b9b600",
+      "text": "Gerçekten yapacağını düşünüyor musun?"
+    },
+    {
+      "id": "680a1c3a",
+      "bank_id": "80b9b600",
+      "text": "Gerçekten yapacağını düşünüyor musun?"
+    },
+    {
+      "id": "690b1bb5",
+      "bank_id": "80b9b600",
+      "text": "Silah kullanmayı bilen birine benziyorsun."
+    },
+    {
+      "id": "690b1bbe",
+      "bank_id": "80b9b600",
+      "text": "Silah kullanmayı bilen bir kıza benziyorsun."
+    },
+    {
+      "id": "6aaa66b2",
+      "bank_id": "80b9b600",
+      "text": "Atış poligonunda yarışmak için 50 altın ödensin mi?"
+    },
+    {
+      "id": "6fd35360",
+      "bank_id": "80b9b600",
+      "text": "Hey, o berbat atışı herkes gördü mü?"
+    },
+    {
+      "id": "70b60a78",
+      "bank_id": "80b9b600",
+      "text": "Ödül Derecesi:"
+    },
+    {
+      "id": "70d354d3",
+      "bank_id": "80b9b600",
+      "text": "Daha önce bir şeye ateş ettiğinden emin misin?"
+    },
+    {
+      "id": "71d35646",
+      "bank_id": "80b9b600",
+      "text": "Bu kadarı da utanç verici doğrusu."
+    },
+    {
+      "id": "72bd975c",
+      "bank_id": "80b9b600",
+      "text": "İçler acısı."
+    },
+    {
+      "id": "72d35839",
+      "bank_id": "80b9b600",
+      "text": "Saçmalık!"
+    },
+    {
+      "id": "73bd98cf",
+      "bank_id": "80b9b600",
+      "text": "Ha!"
+    },
+    {
+      "id": "73d359ac",
+      "bank_id": "80b9b600",
+      "text": "Çok yakındı... Ama yeterince yakın değil."
+    },
+    {
+      "id": "74d35b1f",
+      "bank_id": "80b9b600",
+      "text": "Nişanına bir baksana sen?"
+    },
+    {
+      "id": "76d35e65",
+      "bank_id": "80b9b600",
+      "text": "Bundan daha çok çabalaman gerek."
+    },
+    {
+      "id": "795062fa",
+      "bank_id": "80b9b600",
+      "text": "Sen Tapınağın dünya üzerindeki bizzat kendi gölgesisin. Kurbanların bu taşların içinde atan karanlık kalbi hoşnut etti. Ve ödül sistemimizin en büyük ödülünü kazandın!"
+    },
+    {
+      "id": "7dd3696a",
+      "bank_id": "80b9b600",
+      "text": "Bu sefer gözlerini açmayı denemeye ne dersin?"
+    },
+    {
+      "id": "7ed36add",
+      "bank_id": "80b9b600",
+      "text": "Gerçek dünyada bugüne kadar nasıl hayatta kaldın sen?"
+    },
+    {
+      "id": "808b95cc",
+      "bank_id": "80b9b600",
+      "text": "Kendine güveniyorsan Westcliff atış poligonunu dene!"
+    },
+    {
+      "id": "8125adf0",
+      "bank_id": "80b9b600",
+      "text": "+1"
+    },
+    {
+      "id": "828b9912",
+      "bank_id": "80b9b600",
+      "text": "Ateş et! Ateş et! Ateş et! Üstelik ödüller kazan!"
+    },
+    {
+      "id": "838b9a85",
+      "bank_id": "80b9b600",
+      "text": "Albion'un en iyi atış poligonu! Tam burada!"
+    },
+    {
+      "id": "8425b249",
+      "bank_id": "80b9b600",
+      "text": "+2"
+    },
+    {
+      "id": "8d6938a2",
+      "bank_id": "80b9b600",
+      "text": "Işığın Savunucusu"
+    },
+    {
+      "id": "911d5ced",
+      "bank_id": "80b9b600",
+      "text": "2. Raundu geçtin!"
+    },
+    {
+      "id": "940839a4",
+      "bank_id": "80b9b600",
+      "text": "Westcliff atış poligonunda yarışın."
+    },
+    {
+      "id": "9cee65fc",
+      "bank_id": "80b9b600",
+      "text": "1. Raunt Puanı:"
+    },
+    {
+      "id": "9dae2b48",
+      "bank_id": "80b9b600",
+      "text": "Atış Poligonu Puanları\n\n175 puan  -  Birincilik Ödülü\n150 puan  -  İkincilik Ödülü\n125 puan  -  Üçüncülük Ödülü\n95 puan  -  Dördüncülük Ödülü\n65 puan  -  Beşincilik Ödülü\n45 puan  -  Altıncılık Ödülü"
+    },
+    {
+      "id": "a1d0eb83",
+      "bank_id": "80b9b600",
+      "text": "Toplanın, toplanın! Ateş ederek nefis ödüllere ulaşın."
+    },
+    {
+      "id": "a2d0ed76",
+      "bank_id": "80b9b600",
+      "text": "Bir sonraki büyük yağma için hedef talimi mi lazım? Yağma becerilerinizi burada bileyin."
+    },
+    {
+      "id": "a3d0eee9",
+      "bank_id": "80b9b600",
+      "text": "Nişancılık marifetlerini göster!"
+    },
+    {
+      "id": "a50eecd6",
+      "bank_id": "80b9b600",
+      "text": "Affedersin."
+    },
+    {
+      "id": "a6f234a7",
+      "bank_id": "80b9b600",
+      "text": "İşte bu işe yarayabilir, eminim."
+    },
+    {
+      "id": "a90ef302",
+      "bank_id": "80b9b600",
+      "text": "Ah, pek çoluk çocuğa karışamam. Yani o kadar kötü olmam falan derken, karım bunun kötü bir fikir olacağını düşünüyor."
+    },
+    {
+      "id": "a95ffca8",
+      "bank_id": "80b9b600",
+      "text": "Bak, eğer kötü olmak istiyorsan yapılması gereken budur."
+    },
+    {
+      "id": "aa5ffe1b",
+      "bank_id": "80b9b600",
+      "text": "Şimdi gerçek doğandan kaçmıyorsun ya?"
+    },
+    {
+      "id": "ab5fff8e",
+      "bank_id": "80b9b600",
+      "text": "İşte bu. Büyük olan."
+    },
+    {
+      "id": "ac2a8d04",
+      "bank_id": "80b9b600",
+      "text": "Hedef: %1\nPuan: %2"
+    },
+    {
+      "id": "ae13dc00",
+      "bank_id": "80b9b600",
+      "text": "Kaderimiz senin ellerinde."
+    },
+    {
+      "id": "af13ddf3",
+      "bank_id": "80b9b600",
+      "text": "Dualarımızda hep sen olacaksın."
+    },
+    {
+      "id": "b113e0d9",
+      "bank_id": "80b9b600",
+      "text": "Ne pahasına olursa olsun mağarayı korumalısın."
+    },
+    {
+      "id": "b21c4207",
+      "bank_id": "80b9b600",
+      "text": "Westcliff Atış Poligonu"
+    },
+    {
+      "id": "b5684fb4",
+      "bank_id": "80b9b600",
+      "text": "Ateş serbest!"
+    },
+    {
+      "id": "b6685127",
+      "bank_id": "80b9b600",
+      "text": "Ve... başla!"
+    },
+    {
+      "id": "b868540d",
+      "bank_id": "80b9b600",
+      "text": "Ateş etmeye başla!"
+    },
+    {
+      "id": "ba738334",
+      "bank_id": "80b9b600",
+      "text": "Karanlığın güçlerine olan bağlılığını bir kez ve tamamen kanıtlama vaktin geldi."
+    },
+    {
+      "id": "bc0babe3",
+      "bank_id": "80b9b600",
+      "text": "Ne bekliyordun ki sanki? Berbattın işte."
+    },
+    {
+      "id": "bd73878d",
+      "bank_id": "80b9b600",
+      "text": "Oakfield'deki yaşayan her bir canı yok etmeni istiyorum."
+    },
+    {
+      "id": "be619a87",
+      "bank_id": "80b9b600",
+      "text": "Ha. Sonuna kadar gideceğini sanıyordum. Ama gidemedin."
+    },
+    {
+      "id": "c0497174",
+      "bank_id": "80b9b600",
+      "text": "Hedef Puan: %3"
+    },
+    {
+      "id": "c0497175",
+      "bank_id": "80b9b600",
+      "text": "Hedef Puan: %2"
+    },
+    {
+      "id": "c0497176",
+      "bank_id": "80b9b600",
+      "text": "Hedef Puan: %1"
+    },
+    {
+      "id": "c77f4a24",
+      "bank_id": "80b9b600",
+      "text": "Vay canına. Doğrusu iyi bir atıştı bu."
+    },
+    {
+      "id": "d33af9c0",
+      "bank_id": "80b9b600",
+      "text": "Hmm, belki de onun yerine gerçekten, ama gerçekten çok kötü birinin gelmesini beklemeliyim."
+    },
+    {
+      "id": "d53445d9",
+      "bank_id": "80b9b600",
+      "text": "Buraya para ödemeden girebileceğini mi sandın? Parayı sökül ya da kaybol."
+    },
+    {
+      "id": "d6b654b1",
+      "bank_id": "80b9b600",
+      "text": "Aferin sana. Son raunda kalmayı başardın."
+    },
+    {
+      "id": "d71aeddb",
+      "bank_id": "80b9b600",
+      "text": "Oakfield Katliamı"
+    },
+    {
+      "id": "de1a4f36",
+      "bank_id": "80b9b600",
+      "text": "Bir hedef daha devrildi."
+    },
+    {
+      "id": "dfffb56c",
+      "bank_id": "80b9b600",
+      "text": "Burada ne arıyorsun? Hayatında hiç tüfek ya da tatar yayı kullandın mı sen? Vaktimi boşa harcama."
+    },
+    {
+      "id": "e34cb708",
+      "bank_id": "80b9b600",
+      "text": "Harika. Kurallar basit; vurabildiğin kadar çok hedefi vur."
+    },
+    {
+      "id": "e41a5848",
+      "bank_id": "80b9b600",
+      "text": "İyi nişan."
+    },
+    {
+      "id": "e48867c9",
+      "bank_id": "80b9b600",
+      "text": "Kes şunu artık olur mu? Kendini rezil ediyorsun."
+    },
+    {
+      "id": "e51a5a3b",
+      "bank_id": "80b9b600",
+      "text": "Güzel!"
+    },
+    {
+      "id": "e54cba6e",
+      "bank_id": "80b9b600",
+      "text": "Ha! Sakın ola haydutlara ateş etme. Puanına mal olur. O pis haydut katillerinden değilsin, değil mi?"
+    },
+    {
+      "id": "e61a5bae",
+      "bank_id": "80b9b600",
+      "text": "Harika bir atış."
+    },
+    {
+      "id": "e64cbbc1",
+      "bank_id": "80b9b600",
+      "text": "Yeterince puan topla ve bir sonraki bölüme geç. Anlaşıldı mı?"
+    },
+    {
+      "id": "e78a71c9",
+      "bank_id": "80b9b600",
+      "text": "Atış Poligonu Başarısız\nPuan: %1"
+    },
+    {
+      "id": "e81a5ef4",
+      "bank_id": "80b9b600",
+      "text": "Ooo, tam bir katilsin sen!"
+    },
+    {
+      "id": "e84cbf27",
+      "bank_id": "80b9b600",
+      "text": "Hedefin o aşağılık köylüler. Çantada keklik hepsi. <snicker>."
+    },
+    {
+      "id": "e87848fd",
+      "bank_id": "80b9b600",
+      "text": "Katılmak için 2. Seviye Çevik Dövüş Tarzı gerekir."
+    },
+    {
+      "id": "e91a6067",
+      "bank_id": "80b9b600",
+      "text": "Güzel atıştı doğrusu!"
+    },
+    {
+      "id": "e962af07",
+      "bank_id": "80b9b600",
+      "text": "Bir el daha denemek ister misin?"
+    },
+    {
+      "id": "e97e52da",
+      "bank_id": "80b9b600",
+      "text": "Resmen bir karton katliamı."
+    },
+    {
+      "id": "ea194b67",
+      "bank_id": "80b9b600",
+      "text": "Aferin sana, en sadık müridim! Oakfield katliamı tarihe Tapınağın en karanlık zaferi olarak geçecek."
+    },
+    {
+      "id": "ea1a61da",
+      "bank_id": "80b9b600",
+      "text": "Elin amma da titremezmiş."
+    },
+    {
+      "id": "ea711b73",
+      "bank_id": "80b9b600",
+      "text": "Üstelik ilk raunt en kolay seviyeydi. Bayağı bir talim yapman gerekecek."
+    },
+    {
+      "id": "ea7e544d",
+      "bank_id": "80b9b600",
+      "text": "Seninle birlikte biraz yağma yapmak fena olmazdı hani."
+    },
+    {
+      "id": "eb1a634d",
+      "bank_id": "80b9b600",
+      "text": "Amma da yaman bir atıcısın ha."
+    },
+    {
+      "id": "ecf258ac",
+      "bank_id": "80b9b600",
+      "text": "Geçenlerde o zavallı Oakfield köyüne uğradın mı hiç? Oradaki muazzam kanlı icraatların sayesinde mezarlıktan farksız hale geldi."
+    },
+    {
+      "id": "eff25d65",
+      "bank_id": "80b9b600",
+      "text": "Görülmeye değer harika bir manzara. Bazen elime sıcak bir çikolata ve bir sandalye alıp tamamen ıssızlaşmış haline öylece dalıp gidiyorum."
+    },
+    {
+      "id": "f01163fa",
+      "bank_id": "80b9b600",
+      "text": "Katılmak için en az 50 altın gerekir."
+    },
+    {
+      "id": "f4525908",
+      "bank_id": "80b9b600",
+      "text": "Harika. Gölgeler her zaman daha fazla kurbana açtır."
+    },
+    {
+      "id": "f4ba4bfc",
+      "bank_id": "80b9b600",
+      "text": "Pek az kişi böyle bir ödülü kazanacak kadar iyidir. Başarmana şaşırdım doğrusu. Al bakalım."
+    },
+    {
+      "id": "f6525c6e",
+      "bank_id": "80b9b600",
+      "text": "Tapınağımızın kadim liderlerinin söylemeyi pek sevdiği gibi, kurbanlar ödüllere vesile olur."
+    },
+    {
+      "id": "f7525dc1",
+      "bank_id": "80b9b600",
+      "text": "Ah, şu habis çarkımıza biraz daha yağ. Çok güzel."
+    },
+    {
+      "id": "fc6cb268",
+      "bank_id": "80b9b600",
+      "text": "Oakfield'de seni bekleyen iki burnu havada ahmak bulacaksın. Şimdi oraya git ve göğsümü kabart."
+    },
+    {
+      "id": "fcecfe14",
+      "bank_id": "80b9b600",
+      "text": "Gölgeler Tapınağı, Işık Tapınağı'nın işini bir kez ve tamamen bitirmeye karar verdi."
+    },
+    {
+      "id": "fd6cb3db",
+      "bank_id": "80b9b600",
+      "text": "Omurgasız mankafaların arasındaki zehirli bir Gölgesin sen."
+    },
+    {
+      "id": "fe6cb54e",
+      "bank_id": "80b9b600",
+      "text": "Tapınağın üyeleri arasında gerçekten habis bir ruh göreceğim bugünü uzun zamandır hayal ediyordum."
+    }
+  ]
+}

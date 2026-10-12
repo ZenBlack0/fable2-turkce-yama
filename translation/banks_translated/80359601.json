@@ -1,0 +1,1591 @@
+{
+  "bank_id": "80359601",
+  "total_strings": 317,
+  "strings": [
+    {
+      "id": "0769cb90",
+      "bank_id": "80359601",
+      "text": "Seninle konuşmak istemiyorum."
+    },
+    {
+      "id": "12532c51",
+      "bank_id": "80359601",
+      "text": "Defol git, seni baş belası."
+    },
+    {
+      "id": "12532c52",
+      "bank_id": "80359601",
+      "text": "Hey, seni küçük afacan."
+    },
+    {
+      "id": "12532c53",
+      "bank_id": "80359601",
+      "text": "Ne küçük bir canavarsın sen öyle."
+    },
+    {
+      "id": "1d164f38",
+      "bank_id": "80359601",
+      "text": "Merhabalar."
+    },
+    {
+      "id": "1d164f3a",
+      "bank_id": "80359601",
+      "text": "Merhabalar."
+    },
+    {
+      "id": "1d164f3b",
+      "bank_id": "80359601",
+      "text": "Merhabalar."
+    },
+    {
+      "id": "1d533d80",
+      "bank_id": "80359601",
+      "text": "Yine neyin peşindesin bakalım?"
+    },
+    {
+      "id": "1d533d82",
+      "bank_id": "80359601",
+      "text": "Bana fazla yaklaşma çocuk."
+    },
+    {
+      "id": "1d533d83",
+      "bank_id": "80359601",
+      "text": "Hey sen, yine ne işler karıştırdın?"
+    },
+    {
+      "id": "221656d9",
+      "bank_id": "80359601",
+      "text": "Merhaba çocuk."
+    },
+    {
+      "id": "221656da",
+      "bank_id": "80359601",
+      "text": "Merhaba çocuk."
+    },
+    {
+      "id": "221656db",
+      "bank_id": "80359601",
+      "text": "Merhaba çocuk."
+    },
+    {
+      "id": "23c9cab7",
+      "bank_id": "80359601",
+      "text": "Merhaba!"
+    },
+    {
+      "id": "28e7c000",
+      "bank_id": "80359601",
+      "text": "Evet, hadi göster günlerini baba!"
+    },
+    {
+      "id": "28e7c00b",
+      "bank_id": "80359601",
+      "text": "Evet, hadi göster günlerini anne!"
+    },
+    {
+      "id": "291f1218",
+      "bank_id": "80359601",
+      "text": "Selam sana çirkinlik abidesi."
+    },
+    {
+      "id": "291f1219",
+      "bank_id": "80359601",
+      "text": "Selam. Alınma ama manzaran fena halde ilginç."
+    },
+    {
+      "id": "291f121a",
+      "bank_id": "80359601",
+      "text": "Ah, şey, esenlikler dilerim."
+    },
+    {
+      "id": "291f121b",
+      "bank_id": "80359601",
+      "text": "Aman efendim! Yani, merhabalar."
+    },
+    {
+      "id": "291f121d",
+      "bank_id": "80359601",
+      "text": "Selam! Şey... biraz, kem küm, farklı görünüyorsun!"
+    },
+    {
+      "id": "291f121e",
+      "bank_id": "80359601",
+      "text": "Aman tanrım! Yani, merhaba."
+    },
+    {
+      "id": "291f121f",
+      "bank_id": "80359601",
+      "text": "Ah, şey, kem küm, selam!"
+    },
+    {
+      "id": "2ac9d5ba",
+      "bank_id": "80359601",
+      "text": "Merhaba!"
+    },
+    {
+      "id": "3067a6e7",
+      "bank_id": "80359601",
+      "text": "Selam!"
+    },
+    {
+      "id": "3098874d",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "3098874e",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "3098874f",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "313e053d",
+      "bank_id": "80359601",
+      "text": "İlgilendiğimi mi sanıyorsun?"
+    },
+    {
+      "id": "313e053e",
+      "bank_id": "80359601",
+      "text": "Peh! Zaten kimse izlemiyor."
+    },
+    {
+      "id": "341f2348",
+      "bank_id": "80359601",
+      "text": "Merhaba derdim ama gözlerimi kanatıyorsun."
+    },
+    {
+      "id": "341f2349",
+      "bank_id": "80359601",
+      "text": "Selam. Vay canına, sahiden çok çirkinsin."
+    },
+    {
+      "id": "341f234a",
+      "bank_id": "80359601",
+      "text": "Ah! Şey, merhaba, kem küm."
+    },
+    {
+      "id": "341f234b",
+      "bank_id": "80359601",
+      "text": "Amanın! Şey, esenlikler."
+    },
+    {
+      "id": "341f234c",
+      "bank_id": "80359601",
+      "text": "Merhaba çirkin."
+    },
+    {
+      "id": "341f234e",
+      "bank_id": "80359601",
+      "text": "Mer-öğk-haba."
+    },
+    {
+      "id": "341f234f",
+      "bank_id": "80359601",
+      "text": "Öff! Evet, selam."
+    },
+    {
+      "id": "3767b1ea",
+      "bank_id": "80359601",
+      "text": "Selam!"
+    },
+    {
+      "id": "37ba3fc0",
+      "bank_id": "80359601",
+      "text": "Ne istiyorsun seni küçük şeytan?"
+    },
+    {
+      "id": "37ba3fc1",
+      "bank_id": "80359601",
+      "text": "Ah sen! Hakkındaki her şeyi duydum."
+    },
+    {
+      "id": "37ba3fc3",
+      "bank_id": "80359601",
+      "text": "Ne var yine?!"
+    },
+    {
+      "id": "37e84925",
+      "bank_id": "80359601",
+      "text": "Selam genç kız."
+    },
+    {
+      "id": "37e8492e",
+      "bank_id": "80359601",
+      "text": "Selam delikanlı."
+    },
+    {
+      "id": "3b9898fc",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "3b9898fe",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "3b9898ff",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "3d4d8678",
+      "bank_id": "80359601",
+      "text": "Seni tekrar görmek ne güzel!"
+    },
+    {
+      "id": "3d4d8679",
+      "bank_id": "80359601",
+      "text": "Ah, döndün demek?"
+    },
+    {
+      "id": "3d4d867a",
+      "bank_id": "80359601",
+      "text": "Ah, seni görmek öyle iyi geldi ki!"
+    },
+    {
+      "id": "3d4d867b",
+      "bank_id": "80359601",
+      "text": "Seni bir kez daha görmek insana can veriyor."
+    },
+    {
+      "id": "3d4d867d",
+      "bank_id": "80359601",
+      "text": "Ooo, dönmüşsün!"
+    },
+    {
+      "id": "3d4d867e",
+      "bank_id": "80359601",
+      "text": "Ah, seni gördüğüme çok sevindim!"
+    },
+    {
+      "id": "3d4d867f",
+      "bank_id": "80359601",
+      "text": "Seni görmek harika!"
+    },
+    {
+      "id": "3eba4ac4",
+      "bank_id": "80359601",
+      "text": "Yine yeni bir yaramazlık peşinde misin?"
+    },
+    {
+      "id": "3eba4ac5",
+      "bank_id": "80359601",
+      "text": "Git de başkasını rahatsız et."
+    },
+    {
+      "id": "3eba4ac6",
+      "bank_id": "80359601",
+      "text": "Merhaba sen."
+    },
+    {
+      "id": "44b2e9c8",
+      "bank_id": "80359601",
+      "text": "Ayy, geri dönmüşsün."
+    },
+    {
+      "id": "44b2e9c9",
+      "bank_id": "80359601",
+      "text": "Hey tatlım. Döndün demek."
+    },
+    {
+      "id": "44b2e9cd",
+      "bank_id": "80359601",
+      "text": "Güzeller güzelim. Aşkım."
+    },
+    {
+      "id": "44b2e9ce",
+      "bank_id": "80359601",
+      "text": "Bana ilham veriyorsun."
+    },
+    {
+      "id": "44b2e9cf",
+      "bank_id": "80359601",
+      "text": "Hihihi. Selam sevgilim."
+    },
+    {
+      "id": "456f0fd8",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "484d97a8",
+      "bank_id": "80359601",
+      "text": "Eee, her şey nasıl gidiyor bakalım?"
+    },
+    {
+      "id": "484d97a9",
+      "bank_id": "80359601",
+      "text": "Ay, sevgilim dönmüş."
+    },
+    {
+      "id": "484d97aa",
+      "bank_id": "80359601",
+      "text": "Yeniden seninle olmak harika."
+    },
+    {
+      "id": "484d97ab",
+      "bank_id": "80359601",
+      "text": "Ah ne tatlı... seni görmek çok güzel!"
+    },
+    {
+      "id": "484d97ac",
+      "bank_id": "80359601",
+      "text": "Merhaba canımın içi."
+    },
+    {
+      "id": "484d97ae",
+      "bank_id": "80359601",
+      "text": "Ah, merhaba tatlım!"
+    },
+    {
+      "id": "484d97af",
+      "bank_id": "80359601",
+      "text": "Seni yeniden görmek istiyordum!"
+    },
+    {
+      "id": "4a6f17f9",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "4fb2fb78",
+      "bank_id": "80359601",
+      "text": "Hihihi. Selam!"
+    },
+    {
+      "id": "4fb2fb79",
+      "bank_id": "80359601",
+      "text": "Ah, çok tatlı bir şeysin sen."
+    },
+    {
+      "id": "4fb2fb7c",
+      "bank_id": "80359601",
+      "text": "Selam! *kıkırdar*"
+    },
+    {
+      "id": "4fb2fb7e",
+      "bank_id": "80359601",
+      "text": "Hihihi. Yüzümü güldürüyorsun."
+    },
+    {
+      "id": "4fb2fb7f",
+      "bank_id": "80359601",
+      "text": "Mmmm. Çok tatlısın."
+    },
+    {
+      "id": "5e6a6fc8",
+      "bank_id": "80359601",
+      "text": "Amanın! Yani, merhaba."
+    },
+    {
+      "id": "5e6a6fca",
+      "bank_id": "80359601",
+      "text": "Korkunç!"
+    },
+    {
+      "id": "5e6a6fcb",
+      "bank_id": "80359601",
+      "text": "Öğk! Bu... ilginç bir yüzmüş."
+    },
+    {
+      "id": "5e6a6fcc",
+      "bank_id": "80359601",
+      "text": "Gözlere şenliksin. Yani görünüşün gözlerimi kanatıyor anlamında."
+    },
+    {
+      "id": "5e6a6fcd",
+      "bank_id": "80359601",
+      "text": "Amanın! Yani, merhaba."
+    },
+    {
+      "id": "5e6a6fce",
+      "bank_id": "80359601",
+      "text": "Söylemeliyim ki hayatımda karşılaştığım EN çirkin şeysin sen."
+    },
+    {
+      "id": "5e6a6fcf",
+      "bank_id": "80359601",
+      "text": "Amanın! Yani, merhaba."
+    },
+    {
+      "id": "60496917",
+      "bank_id": "80359601",
+      "text": "Merhabalar güzel kız."
+    },
+    {
+      "id": "6049691c",
+      "bank_id": "80359601",
+      "text": "Merhabalar delikanlı."
+    },
+    {
+      "id": "617d21c8",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "617d21ca",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "617d21cb",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "617d21cc",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "617d21cd",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "617d21ce",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "617d21cf",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "636a77e9",
+      "bank_id": "80359601",
+      "text": "Öğğk! Şey, selam."
+    },
+    {
+      "id": "636a77ea",
+      "bank_id": "80359601",
+      "text": "Öğk! Uzak tut şunu!"
+    },
+    {
+      "id": "636a77eb",
+      "bank_id": "80359601",
+      "text": "Ah, iğrenç. Yani, şey, merhaba."
+    },
+    {
+      "id": "636a77ec",
+      "bank_id": "80359601",
+      "text": "Biri seni çirkinlik sopasıyla fena dövmüş olmalı!"
+    },
+    {
+      "id": "636a77ed",
+      "bank_id": "80359601",
+      "text": "Öğğk! Şey, selam."
+    },
+    {
+      "id": "636a77ee",
+      "bank_id": "80359601",
+      "text": "Öğğk! Şey, selam."
+    },
+    {
+      "id": "636a77ef",
+      "bank_id": "80359601",
+      "text": "Öğğk! Şey, selam."
+    },
+    {
+      "id": "667d29e9",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "667d29ea",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "667d29eb",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "667d29ec",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "667d29ed",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "667d29ee",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "667d29ef",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "6b94671e",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "71212a80",
+      "bank_id": "80359601",
+      "text": "Bu iyi olacağa benziyor."
+    },
+    {
+      "id": "71212a81",
+      "bank_id": "80359601",
+      "text": "Ne yapacağını görmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "71212a82",
+      "bank_id": "80359601",
+      "text": "Bu izlemeye değer olmalı."
+    },
+    {
+      "id": "71212a83",
+      "bank_id": "80359601",
+      "text": "Şimdi bizim için ne gibi cazip bir teklifin var bakalım?"
+    },
+    {
+      "id": "71212a84",
+      "bank_id": "80359601",
+      "text": "Ah, bu izlemeye değer olacak."
+    },
+    {
+      "id": "71212a86",
+      "bank_id": "80359601",
+      "text": "Hadi göster marifetini."
+    },
+    {
+      "id": "71212a87",
+      "bank_id": "80359601",
+      "text": "Ah, bunu görmek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "7228d261",
+      "bank_id": "80359601",
+      "text": "Göster bana! Göster bana!"
+    },
+    {
+      "id": "7228d262",
+      "bank_id": "80359601",
+      "text": "Ah! Hadi görelim!"
+    },
+    {
+      "id": "7228d263",
+      "bank_id": "80359601",
+      "text": "Ah, ne yapacaksın bakalım?"
+    },
+    {
+      "id": "7228d264",
+      "bank_id": "80359601",
+      "text": "Ah evet, hadi görelim!"
+    },
+    {
+      "id": "7228d265",
+      "bank_id": "80359601",
+      "text": "Evet, hadi ama!"
+    },
+    {
+      "id": "7228d266",
+      "bank_id": "80359601",
+      "text": "Ah, bunu görmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "7228d267",
+      "bank_id": "80359601",
+      "text": "Göz kamaştırıcı bir manzara olacağından eminim."
+    },
+    {
+      "id": "7494756b",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "76028100",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "76028101",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "76028103",
+      "bank_id": "80359601",
+      "text": "Merhaba tatlım."
+    },
+    {
+      "id": "76028104",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "76028105",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "76028106",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "76028107",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "762132a0",
+      "bank_id": "80359601",
+      "text": "Hadi ama! Sabırsızlanıyorum!"
+    },
+    {
+      "id": "762132a1",
+      "bank_id": "80359601",
+      "text": "Bunu dört gözle bekliyorum!"
+    },
+    {
+      "id": "762132a2",
+      "bank_id": "80359601",
+      "text": "Ah, göster bakalım bu iş nasıl yapılırmış."
+    },
+    {
+      "id": "762132a3",
+      "bank_id": "80359601",
+      "text": "Ah, ne büyük bir merak."
+    },
+    {
+      "id": "762132a5",
+      "bank_id": "80359601",
+      "text": "Bu gözlere ziyafet olacak."
+    },
+    {
+      "id": "762132a6",
+      "bank_id": "80359601",
+      "text": "Ah, devam et lütfen. Eveeeet."
+    },
+    {
+      "id": "762132a7",
+      "bank_id": "80359601",
+      "text": "Hadi görelim bakalım!"
+    },
+    {
+      "id": "7b6c9a24",
+      "bank_id": "80359601",
+      "text": "Selam çocuk."
+    },
+    {
+      "id": "7b6c9a26",
+      "bank_id": "80359601",
+      "text": "Her şey yolundadır umarım ufaklık."
+    },
+    {
+      "id": "7b6c9a27",
+      "bank_id": "80359601",
+      "text": "Nasıl gidiyor?"
+    },
+    {
+      "id": "7d028c00",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "7d028c01",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "7d028c02",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "7d028c03",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "7d028c04",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "7d028c05",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "7d028c06",
+      "bank_id": "80359601",
+      "text": "Merhaba canım."
+    },
+    {
+      "id": "7d28e390",
+      "bank_id": "80359601",
+      "text": "Bunu dört gözle bekliyorum!"
+    },
+    {
+      "id": "7d28e392",
+      "bank_id": "80359601",
+      "text": "Bunu hatırlamak istiyorum!"
+    },
+    {
+      "id": "7d28e393",
+      "bank_id": "80359601",
+      "text": "Bahse girerim harika bir manzara olacak!"
+    },
+    {
+      "id": "7d28e394",
+      "bank_id": "80359601",
+      "text": "Ah, bunu seveceğim kesin."
+    },
+    {
+      "id": "7d28e395",
+      "bank_id": "80359601",
+      "text": "Oh. Göster bana. Çok meraklandım doğrusu."
+    },
+    {
+      "id": "7d28e396",
+      "bank_id": "80359601",
+      "text": "Hadi! Gözüm hep üzerindedir biliyorsun!"
+    },
+    {
+      "id": "7d28e397",
+      "bank_id": "80359601",
+      "text": "Ne harika bir manzara! Bakalım neymiş!"
+    },
+    {
+      "id": "806ca1c5",
+      "bank_id": "80359601",
+      "text": "Ah, merhaba çocuk."
+    },
+    {
+      "id": "806ca1c6",
+      "bank_id": "80359601",
+      "text": "Selamlar!"
+    },
+    {
+      "id": "806ca1c7",
+      "bank_id": "80359601",
+      "text": "Nasılsın?"
+    },
+    {
+      "id": "828535f0",
+      "bank_id": "80359601",
+      "text": "Ah canım benim. Her gülden daha güzelsin."
+    },
+    {
+      "id": "828535f1",
+      "bank_id": "80359601",
+      "text": "Senin yanında altın bile parıltısını kaybeder."
+    },
+    {
+      "id": "828535f2",
+      "bank_id": "80359601",
+      "text": "Merhabalar."
+    },
+    {
+      "id": "828535f3",
+      "bank_id": "80359601",
+      "text": "Ah, benim tatlı çöreğim. Ne lezizsin öyle."
+    },
+    {
+      "id": "828535f4",
+      "bank_id": "80359601",
+      "text": "Nihayet geldin demek."
+    },
+    {
+      "id": "828535f5",
+      "bank_id": "80359601",
+      "text": "Nihayet sevgilim benim."
+    },
+    {
+      "id": "828535f7",
+      "bank_id": "80359601",
+      "text": "Ah, tatlım benim."
+    },
+    {
+      "id": "83ba0068",
+      "bank_id": "80359601",
+      "text": "Hey! Selam ünlü kişi!"
+    },
+    {
+      "id": "83ba0069",
+      "bank_id": "80359601",
+      "text": "Vay canına, sen olduğuna inanamıyorum!"
+    },
+    {
+      "id": "83ba006d",
+      "bank_id": "80359601",
+      "text": "Hey! Sensin!"
+    },
+    {
+      "id": "83ba006e",
+      "bank_id": "80359601",
+      "text": "Ah! Sensin! Harika!"
+    },
+    {
+      "id": "83ba006f",
+      "bank_id": "80359601",
+      "text": "Vay canına, çok ünlüsün sen! Selam!"
+    },
+    {
+      "id": "898540f8",
+      "bank_id": "80359601",
+      "text": "Merhaba, sen küçük bir güneş ışığı mısın nesin öyle."
+    },
+    {
+      "id": "898540f9",
+      "bank_id": "80359601",
+      "text": "Merhabalar efendim."
+    },
+    {
+      "id": "898540fa",
+      "bank_id": "80359601",
+      "text": "Merhabalar canım."
+    },
+    {
+      "id": "898540fc",
+      "bank_id": "80359601",
+      "text": "Her gittiğinde nefesimi kesiyorsun ama döndüğünde geri veriyorsun."
+    },
+    {
+      "id": "898540fd",
+      "bank_id": "80359601",
+      "text": "Seni yeniden görmek ne kadar da büyüleyici."
+    },
+    {
+      "id": "898540fe",
+      "bank_id": "80359601",
+      "text": "Meeeerhabaaaalar."
+    },
+    {
+      "id": "898540ff",
+      "bank_id": "80359601",
+      "text": "Ah, içimi öyle aydınlatıyorsun ki."
+    },
+    {
+      "id": "89e04511",
+      "bank_id": "80359601",
+      "text": "Ooo, döndün demek!"
+    },
+    {
+      "id": "89e04512",
+      "bank_id": "80359601",
+      "text": "Ah, seni gördüğüme çok sevindim!"
+    },
+    {
+      "id": "89e04513",
+      "bank_id": "80359601",
+      "text": "Ah, seni görmek yüreğimi kabartıyor!"
+    },
+    {
+      "id": "89e04514",
+      "bank_id": "80359601",
+      "text": "Seni yeniden görmek ne hoş!"
+    },
+    {
+      "id": "89e04515",
+      "bank_id": "80359601",
+      "text": "Ah, döndün demek?"
+    },
+    {
+      "id": "89e04516",
+      "bank_id": "80359601",
+      "text": "Ah, seni görmek güneşi içine çekmek gibi bir şey!"
+    },
+    {
+      "id": "89e04517",
+      "bank_id": "80359601",
+      "text": "Dönmüş olman ne harika canım benim."
+    },
+    {
+      "id": "8ca8a922",
+      "bank_id": "80359601",
+      "text": "Selam tatlım."
+    },
+    {
+      "id": "8ca8a923",
+      "bank_id": "80359601",
+      "text": "Selam, seni bekliyordum ben de..."
+    },
+    {
+      "id": "8ca8a924",
+      "bank_id": "80359601",
+      "text": "Seni beklerdim ama dönmene bayılıyorum."
+    },
+    {
+      "id": "8ca8a925",
+      "bank_id": "80359601",
+      "text": "Seni beklemek ızdırap ama görmek safi zevk."
+    },
+    {
+      "id": "8ca8a927",
+      "bank_id": "80359601",
+      "text": "Seni bekliyordum ama buna o kadar değiyor ki."
+    },
+    {
+      "id": "8eba1198",
+      "bank_id": "80359601",
+      "text": "Gözlerime inanamıyorum! Selam!"
+    },
+    {
+      "id": "8eba1199",
+      "bank_id": "80359601",
+      "text": "Bayağı ünlüsün sen, değil mi?"
+    },
+    {
+      "id": "8eba119c",
+      "bank_id": "80359601",
+      "text": "Ah! Selam! Sensin!"
+    },
+    {
+      "id": "8eba119e",
+      "bank_id": "80359601",
+      "text": "İlk doğacak çocuğuma senin adını vereceğim!"
+    },
+    {
+      "id": "8eba119f",
+      "bank_id": "80359601",
+      "text": "Selam! Hakkındaki her şeyi duydum!"
+    },
+    {
+      "id": "912bac28",
+      "bank_id": "80359601",
+      "text": "Öğk! Bebekken seni yere falan mı düşürdüler?"
+    },
+    {
+      "id": "912bac2a",
+      "bank_id": "80359601",
+      "text": "Böyle mi doğdun sen?"
+    },
+    {
+      "id": "912bac2b",
+      "bank_id": "80359601",
+      "text": "Öğk! Bu... ilginç bir yüzmüş."
+    },
+    {
+      "id": "912bac2c",
+      "bank_id": "80359601",
+      "text": "Selam. Bu tipe bir el atsan iyi edersin belki."
+    },
+    {
+      "id": "912bac2d",
+      "bank_id": "80359601",
+      "text": "Dostum, talih sana fena kazık atmış."
+    },
+    {
+      "id": "912bac2e",
+      "bank_id": "80359601",
+      "text": "Aman tanrım! İyi misiniz acaba?"
+    },
+    {
+      "id": "912bac2f",
+      "bank_id": "80359601",
+      "text": "Ahh, hmm, esenlikler."
+    },
+    {
+      "id": "92c208fc",
+      "bank_id": "80359601",
+      "text": "Zerre kadar ilgilenmiyorum."
+    },
+    {
+      "id": "92c208ff",
+      "bank_id": "80359601",
+      "text": "Hoşuma gitmezse seni tutuklamaya hazırım."
+    },
+    {
+      "id": "93a8b428",
+      "bank_id": "80359601",
+      "text": "Sevgilim. Beklemeyi bırakabilirim artık."
+    },
+    {
+      "id": "93a8b429",
+      "bank_id": "80359601",
+      "text": "Harika. Çok uzun zaman olmuştu."
+    },
+    {
+      "id": "93a8b42a",
+      "bank_id": "80359601",
+      "text": "Ah, beklemek o kadar uzun sürüyor ki canım."
+    },
+    {
+      "id": "93a8b42e",
+      "bank_id": "80359601",
+      "text": "Gel buraya da sana bir bakayım!"
+    },
+    {
+      "id": "93a8b42f",
+      "bank_id": "80359601",
+      "text": "Asırlardır bekliyorum. Seni çok özledim."
+    },
+    {
+      "id": "94e05640",
+      "bank_id": "80359601",
+      "text": "Merhaba sen."
+    },
+    {
+      "id": "94e05642",
+      "bank_id": "80359601",
+      "text": "Ah, merhaba!"
+    },
+    {
+      "id": "94e05643",
+      "bank_id": "80359601",
+      "text": "Seni yeniden görmeyi umuyordum."
+    },
+    {
+      "id": "94e05644",
+      "bank_id": "80359601",
+      "text": "Eee, her şey nasıl gidiyor bakalım?"
+    },
+    {
+      "id": "94e05645",
+      "bank_id": "80359601",
+      "text": "Merhaba tatlım!"
+    },
+    {
+      "id": "94e05646",
+      "bank_id": "80359601",
+      "text": "Seni yeniden görmek harika."
+    },
+    {
+      "id": "94e05647",
+      "bank_id": "80359601",
+      "text": "Ah, seni görmek öyle güzel ki!"
+    },
+    {
+      "id": "962bb3c9",
+      "bank_id": "80359601",
+      "text": "Şey... evet... merhaba."
+    },
+    {
+      "id": "962bb3ca",
+      "bank_id": "80359601",
+      "text": "Aman tanrım. Yani, selamlar."
+    },
+    {
+      "id": "962bb3cb",
+      "bank_id": "80359601",
+      "text": "Öğk! Neyin var senin?"
+    },
+    {
+      "id": "962bb3cc",
+      "bank_id": "80359601",
+      "text": "Selam! Şey... o senin gerçek yüzün mü?"
+    },
+    {
+      "id": "962bb3cd",
+      "bank_id": "80359601",
+      "text": "Evet, peki, merhaba falan filan."
+    },
+    {
+      "id": "962bb3ce",
+      "bank_id": "80359601",
+      "text": "Öğk! Evet... Merhaba."
+    },
+    {
+      "id": "962bb3cf",
+      "bank_id": "80359601",
+      "text": "Aman tanrım!"
+    },
+    {
+      "id": "9a64be0e",
+      "bank_id": "80359601",
+      "text": "Öğğk! Şey, selam."
+    },
+    {
+      "id": "9cb63df4",
+      "bank_id": "80359601",
+      "text": "Ne var yine?!"
+    },
+    {
+      "id": "9cb63df6",
+      "bank_id": "80359601",
+      "text": "Beni yalnız bırak sokak faresi."
+    },
+    {
+      "id": "9cb63df7",
+      "bank_id": "80359601",
+      "text": "Ne?!"
+    },
+    {
+      "id": "a1b64595",
+      "bank_id": "80359601",
+      "text": "Sen. Evet, senin hakkındaki her şeyi biliyorum."
+    },
+    {
+      "id": "a1b64596",
+      "bank_id": "80359601",
+      "text": "Senin gibilere ayıracak vaktim yok."
+    },
+    {
+      "id": "a1b64597",
+      "bank_id": "80359601",
+      "text": "İlerle bakalım."
+    },
+    {
+      "id": "a289b944",
+      "bank_id": "80359601",
+      "text": "Selamlar."
+    },
+    {
+      "id": "a364cc5b",
+      "bank_id": "80359601",
+      "text": "Öğğk! Şey, selam."
+    },
+    {
+      "id": "a789c165",
+      "bank_id": "80359601",
+      "text": "Selamlar."
+    },
+    {
+      "id": "a913e398",
+      "bank_id": "80359601",
+      "text": "Yuh! Kimse bunu görmek istemiyor!"
+    },
+    {
+      "id": "ae13ebb9",
+      "bank_id": "80359601",
+      "text": "Oh sanırım hepimizin izlemesini istiyorsun."
+    },
+    {
+      "id": "c2ab00d0",
+      "bank_id": "80359601",
+      "text": "Sırada ne olduğunu görmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "c2ab00d1",
+      "bank_id": "80359601",
+      "text": "Ah, çok uzun zamandır bekliyordum."
+    },
+    {
+      "id": "c2ab00d3",
+      "bank_id": "80359601",
+      "text": "Evet. Görelim o zaman."
+    },
+    {
+      "id": "c2ab00d4",
+      "bank_id": "80359601",
+      "text": "Ah evet, her hareketin hipnotize edici."
+    },
+    {
+      "id": "c2ab00d5",
+      "bank_id": "80359601",
+      "text": "Ne kadar keyifli. Gözlerimi senden alamıyorum."
+    },
+    {
+      "id": "c2ab00d6",
+      "bank_id": "80359601",
+      "text": "Ooo evet. Göster marifetini! Vuhuuu!"
+    },
+    {
+      "id": "c2ab00d7",
+      "bank_id": "80359601",
+      "text": "Ooo, ne yapacaksın bakalım?"
+    },
+    {
+      "id": "c2e7de22",
+      "bank_id": "80359601",
+      "text": "Göster onlara baba!"
+    },
+    {
+      "id": "c2e7de29",
+      "bank_id": "80359601",
+      "text": "Göster onlara anne!"
+    },
+    {
+      "id": "c5b06e13",
+      "bank_id": "80359601",
+      "text": "Ne?!"
+    },
+    {
+      "id": "c9ab0bd0",
+      "bank_id": "80359601",
+      "text": "Bunu görmeyi hayatım boyunca beklemiştim."
+    },
+    {
+      "id": "c9ab0bd1",
+      "bank_id": "80359601",
+      "text": "Kendini tutma sakın. Can kulağıyla izliyorum."
+    },
+    {
+      "id": "c9ab0bd2",
+      "bank_id": "80359601",
+      "text": "İşte bu tatlım. İşte bu!"
+    },
+    {
+      "id": "c9ab0bd3",
+      "bank_id": "80359601",
+      "text": "Sana bakmaktan kendimi alamıyorum."
+    },
+    {
+      "id": "c9ab0bd4",
+      "bank_id": "80359601",
+      "text": "Göster bize hünerlerini. Ooo evet."
+    },
+    {
+      "id": "c9ab0bd5",
+      "bank_id": "80359601",
+      "text": "Göster marifetlerini bana."
+    },
+    {
+      "id": "c9ab0bd6",
+      "bank_id": "80359601",
+      "text": "Mmm, evet. Devam et."
+    },
+    {
+      "id": "cc76edb5",
+      "bank_id": "80359601",
+      "text": "Merhabalar!"
+    },
+    {
+      "id": "cc76edb7",
+      "bank_id": "80359601",
+      "text": "İyi misin çocuk?"
+    },
+    {
+      "id": "ccb07916",
+      "bank_id": "80359601",
+      "text": "Ne?!"
+    },
+    {
+      "id": "ccecf3c2",
+      "bank_id": "80359601",
+      "text": "Vay, bakın millet. Bir ünlüye selam veriyorum!"
+    },
+    {
+      "id": "ccecf3c3",
+      "bank_id": "80359601",
+      "text": "Hey! Sen! Gerçekten çok ünlüsün sen!"
+    },
+    {
+      "id": "ccecf3c4",
+      "bank_id": "80359601",
+      "text": "Ah, ünlü bir maceracı! Merhabalar!"
+    },
+    {
+      "id": "ccecf3c5",
+      "bank_id": "80359601",
+      "text": "Hey, gerçek bir ünlüsün sen!"
+    },
+    {
+      "id": "ccecf3c7",
+      "bank_id": "80359601",
+      "text": "Ah, sensin! Merhabalar!"
+    },
+    {
+      "id": "ce31dd10",
+      "bank_id": "80359601",
+      "text": "Ah, bir ünlü!"
+    },
+    {
+      "id": "ce31dd11",
+      "bank_id": "80359601",
+      "text": "Sen olduğuna inanamıyorum! Merhaba!"
+    },
+    {
+      "id": "ce31dd13",
+      "bank_id": "80359601",
+      "text": "Hey, sen ünlüsün!"
+    },
+    {
+      "id": "d24e4a43",
+      "bank_id": "80359601",
+      "text": "Beni yalnız bırak."
+    },
+    {
+      "id": "d2ecfc48",
+      "bank_id": "80359601",
+      "text": "Tam bir kalp hırsızısın sen değil mi?"
+    },
+    {
+      "id": "d2ecfc49",
+      "bank_id": "80359601",
+      "text": "Ah, meeeerhaba. Hihihi."
+    },
+    {
+      "id": "d2ecfc4a",
+      "bank_id": "80359601",
+      "text": "Merhaba sevgilim."
+    },
+    {
+      "id": "d2ecfc4b",
+      "bank_id": "80359601",
+      "text": "Seni çok özledim tatlım benim."
+    },
+    {
+      "id": "d2ecfc4d",
+      "bank_id": "80359601",
+      "text": "Hihihi. Tekrar merhaba."
+    },
+    {
+      "id": "d2ecfc4e",
+      "bank_id": "80359601",
+      "text": "Selamlar. Ay yüzüm kızardı."
+    },
+    {
+      "id": "d2ecfc4f",
+      "bank_id": "80359601",
+      "text": "Mmmm. Seni görmek ne güzel."
+    },
+    {
+      "id": "d376f8b8",
+      "bank_id": "80359601",
+      "text": "Ah merhaba!"
+    },
+    {
+      "id": "d376f8b9",
+      "bank_id": "80359601",
+      "text": "Selam! Nasıl gidiyor?"
+    },
+    {
+      "id": "d3ecfec8",
+      "bank_id": "80359601",
+      "text": "Gerçekten sen olduğuna inanamıyorum."
+    },
+    {
+      "id": "d3ecfec9",
+      "bank_id": "80359601",
+      "text": "Gözlerime inanamıyorum! Merhaba!"
+    },
+    {
+      "id": "d3ecfeca",
+      "bank_id": "80359601",
+      "text": "Sahiden sen misin? Vay canına."
+    },
+    {
+      "id": "d3ecfece",
+      "bank_id": "80359601",
+      "text": "Aman tanrım! Ne diyeceğimi bilemiyorum! Selam!"
+    },
+    {
+      "id": "d3ecfecf",
+      "bank_id": "80359601",
+      "text": "Vay be, sensin! Selam!"
+    },
+    {
+      "id": "d7963322",
+      "bank_id": "80359601",
+      "text": "Göster onlara anne!"
+    },
+    {
+      "id": "d7963329",
+      "bank_id": "80359601",
+      "text": "Göster onlara baba!"
+    },
+    {
+      "id": "d91166fe",
+      "bank_id": "80359601",
+      "text": "Selam."
+    },
+    {
+      "id": "d94e5546",
+      "bank_id": "80359601",
+      "text": "Beni yalnız bırak."
+    },
+    {
+      "id": "dc835b8c",
+      "bank_id": "80359601",
+      "text": "Merhaba genç adam."
+    },
+    {
+      "id": "dc835b8d",
+      "bank_id": "80359601",
+      "text": "Merhabalar."
+    },
+    {
+      "id": "dc835b8e",
+      "bank_id": "80359601",
+      "text": "Esenlikler dilerim."
+    },
+    {
+      "id": "dded0df8",
+      "bank_id": "80359601",
+      "text": "Ah, merhabalar. Geleceğini bilseydim temiz gömleğimi giyerdim."
+    },
+    {
+      "id": "dded0df9",
+      "bank_id": "80359601",
+      "text": "Beni liseli bir kız gibi kıkırdatıyorsun."
+    },
+    {
+      "id": "dded0dfa",
+      "bank_id": "80359601",
+      "text": "Merhaba benim küçük kıymetli mücevherim."
+    },
+    {
+      "id": "dded0dfb",
+      "bank_id": "80359601",
+      "text": "Haber verseydin uşağıma temiz gömleğimi getirtirdim."
+    },
+    {
+      "id": "dded0dfc",
+      "bank_id": "80359601",
+      "text": "Ah, buradasın demek canım."
+    },
+    {
+      "id": "dded0dfe",
+      "bank_id": "80359601",
+      "text": "Epey zaman oldu. Seni özledim."
+    },
+    {
+      "id": "dded0dff",
+      "bank_id": "80359601",
+      "text": "Ah, döndün demek. *kıkırdar*"
+    },
+    {
+      "id": "e21174cb",
+      "bank_id": "80359601",
+      "text": "Selam."
+    },
+    {
+      "id": "e29ab9e3",
+      "bank_id": "80359601",
+      "text": "Evet, hadi göster günlerini baba!"
+    },
+    {
+      "id": "e29ab9e8",
+      "bank_id": "80359601",
+      "text": "Evet, hadi göster günlerini anne!"
+    },
+    {
+      "id": "e41a286e",
+      "bank_id": "80359601",
+      "text": "Şey, evet, merhaba."
+    },
+    {
+      "id": "e50e31d8",
+      "bank_id": "80359601",
+      "text": "Vaktimizi boşa harcıyorsun."
+    },
+    {
+      "id": "e50e31d9",
+      "bank_id": "80359601",
+      "text": "Yapacaksan yap da git artık!"
+    },
+    {
+      "id": "e50e31da",
+      "bank_id": "80359601",
+      "text": "Ya yap ya da git!"
+    },
+    {
+      "id": "e50e31db",
+      "bank_id": "80359601",
+      "text": "Bitir şunu artık! İçecek içkim var benim."
+    },
+    {
+      "id": "e50e31dc",
+      "bank_id": "80359601",
+      "text": "Bunu neden görmek isteyeyim ki?"
+    },
+    {
+      "id": "e50e31dd",
+      "bank_id": "80359601",
+      "text": "Vaktimi boşa harcayıp durma!"
+    },
+    {
+      "id": "e50e31de",
+      "bank_id": "80359601",
+      "text": "Hadi gel bakalım o zaman!"
+    },
+    {
+      "id": "e58369d8",
+      "bank_id": "80359601",
+      "text": "Selam."
+    },
+    {
+      "id": "e58369d9",
+      "bank_id": "80359601",
+      "text": "Selam çocuk."
+    },
+    {
+      "id": "e58369db",
+      "bank_id": "80359601",
+      "text": "Merhaba."
+    },
+    {
+      "id": "ed1a36bb",
+      "bank_id": "80359601",
+      "text": "Merhaba çirkin."
+    },
+    {
+      "id": "ee0e4028",
+      "bank_id": "80359601",
+      "text": "Hadi... artık... yap... şunu!"
+    },
+    {
+      "id": "ee0e4029",
+      "bank_id": "80359601",
+      "text": "Bundan nefret edeceğimi şimdiden biliyorum."
+    },
+    {
+      "id": "ee0e402b",
+      "bank_id": "80359601",
+      "text": "Ah ne diye zahmet edersin ki?"
+    },
+    {
+      "id": "ee0e402c",
+      "bank_id": "80359601",
+      "text": "Ne yaptığın zerre umurumda değil."
+    },
+    {
+      "id": "ee0e402d",
+      "bank_id": "80359601",
+      "text": "Buna şahit olmak zorunda mıyım ben?"
+    },
+    {
+      "id": "ee0e402e",
+      "bank_id": "80359601",
+      "text": "Vaktimi çalıyorsun!"
+    },
+    {
+      "id": "ee0e402f",
+      "bank_id": "80359601",
+      "text": "İlgilenmiyorum!"
+    },
+    {
+      "id": "facf9a18",
+      "bank_id": "80359601",
+      "text": "Merhaba!"
+    },
+    {
+      "id": "facf9a1a",
+      "bank_id": "80359601",
+      "text": "Merhaba!"
+    },
+    {
+      "id": "facf9a1b",
+      "bank_id": "80359601",
+      "text": "Merhaba!"
+    },
+    {
+      "id": "fc69ba61",
+      "bank_id": "80359601",
+      "text": "Ne istiyorsun?"
+    },
+    {
+      "id": "ffcfa239",
+      "bank_id": "80359601",
+      "text": "Merhaba!"
+    },
+    {
+      "id": "ffcfa23a",
+      "bank_id": "80359601",
+      "text": "Merhaba!"
+    },
+    {
+      "id": "ffcfa23b",
+      "bank_id": "80359601",
+      "text": "Merhaba!"
+    }
+  ]
+}

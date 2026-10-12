@@ -1,0 +1,891 @@
+{
+  "bank_id": "b0b1b600",
+  "total_strings": 177,
+  "strings": [
+    {
+      "id": "000dfeef",
+      "bank_id": "b0b1b600",
+      "text": "Hadi gidip dileğimizi dileyelim, küçük Sparrow!"
+    },
+    {
+      "id": "00994993",
+      "bank_id": "b0b1b600",
+      "text": "Hayır!"
+    },
+    {
+      "id": "00eb2941",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın üçüncü Kahraman olan Reaver'ı etkilemesi gerekiyordu."
+    },
+    {
+      "id": "020e0235",
+      "bank_id": "b0b1b600",
+      "text": "Çok akıllıca, küçükler!"
+    },
+    {
+      "id": "038012a5",
+      "bank_id": "b0b1b600",
+      "text": "Biliyor musun, bana çok uzun zaman önce tanıdığım başka bir küçük çocuğu hatırlatıyorsun."
+    },
+    {
+      "id": "038012ae",
+      "bank_id": "b0b1b600",
+      "text": "Biliyor musun, bana çok uzun zaman önce tanıdığım başka bir küçük kızı hatırlatıyorsun."
+    },
+    {
+      "id": "03994e6c",
+      "bank_id": "b0b1b600",
+      "text": "İstediğim bu değildi... ama hiçbir şey yoluma taş koyamaz."
+    },
+    {
+      "id": "04994fdf",
+      "bank_id": "b0b1b600",
+      "text": "Neler oluyor?"
+    },
+    {
+      "id": "059951b2",
+      "bank_id": "b0b1b600",
+      "text": "Özür dilerim."
+    },
+    {
+      "id": "06995325",
+      "bank_id": "b0b1b600",
+      "text": "Hayır, bekle. Yapma!"
+    },
+    {
+      "id": "07edafa8",
+      "bank_id": "b0b1b600",
+      "text": "Söz veriyorum, canını yakmayacak."
+    },
+    {
+      "id": "08edb11b",
+      "bank_id": "b0b1b600",
+      "text": "Lütfen çemberin içine geçer misiniz?"
+    },
+    {
+      "id": "08edb11e",
+      "bank_id": "b0b1b600",
+      "text": "Şey..."
+    },
+    {
+      "id": "099c1c07",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın Çile'ye girebilmek için ün kazanması gerekiyordu."
+    },
+    {
+      "id": "09edb28e",
+      "bank_id": "b0b1b600",
+      "text": "Endişelenecek hiçbir şey yok."
+    },
+    {
+      "id": "0a9c1dfa",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın Lucien'in ordusuna katılabilmek için Çile'yi kazanması gerekiyordu."
+    },
+    {
+      "id": "0aedb461",
+      "bank_id": "b0b1b600",
+      "text": "O da ne?"
+    },
+    {
+      "id": "0bedb5d4",
+      "bank_id": "b0b1b600",
+      "text": "Belki bu ayarlanabilir."
+    },
+    {
+      "id": "0cedb747",
+      "bank_id": "b0b1b600",
+      "text": "Bir şatoda yaşamak... tıpkı buradaki gibi."
+    },
+    {
+      "id": "0dedb93a",
+      "bank_id": "b0b1b600",
+      "text": "Bakalım onlara sahip misiniz görelim."
+    },
+    {
+      "id": "0e1a24e7",
+      "bank_id": "b0b1b600",
+      "text": "Düşüşten sağ çıkamazdın."
+    },
+    {
+      "id": "0eedbaad",
+      "bank_id": "b0b1b600",
+      "text": "Yeniden inşa etmek için... yani harika bir şey üzerinde çalışıyorum ve bunun için özel yetenekleri olan kişilere ihtiyacım var."
+    },
+    {
+      "id": "0f63d71c",
+      "bank_id": "b0b1b600",
+      "text": "Peki masalımızın Kahramanı kim?"
+    },
+    {
+      "id": "0f8fa8d9",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın hikâyesi sonsuza dek mutlu bir şekilde devam etti."
+    },
+    {
+      "id": "1263dbd5",
+      "bank_id": "b0b1b600",
+      "text": "Ve böylece hikâyemiz başlıyor..."
+    },
+    {
+      "id": "1681c7a7",
+      "bank_id": "b0b1b600",
+      "text": "Öyleyse kaderi önünde açılsın."
+    },
+    {
+      "id": "1681c7ac",
+      "bank_id": "b0b1b600",
+      "text": "Öyleyse kaderi önünde açılsın."
+    },
+    {
+      "id": "187dbdae",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, büyülü bir müzik kutusu alabilmek için para kazanıyordu."
+    },
+    {
+      "id": "1a4a14c3",
+      "bank_id": "b0b1b600",
+      "text": "Mucizeler, dilekler ve rüyalar satılık; hem de uygun fiyatlarla!"
+    },
+    {
+      "id": "1a7dc0f4",
+      "bank_id": "b0b1b600",
+      "text": "Kahramana, Lord Lucien'in huzuruna çıkma izni verilmişti."
+    },
+    {
+      "id": "1d4a199c",
+      "bank_id": "b0b1b600",
+      "text": "Toplanın, toplanın!"
+    },
+    {
+      "id": "1f4a1ce2",
+      "bank_id": "b0b1b600",
+      "text": "Gelin ahali, toplanın!"
+    },
+    {
+      "id": "204a1e55",
+      "bank_id": "b0b1b600",
+      "text": "Asrın indirimi için toplanın!"
+    },
+    {
+      "id": "391f0250",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, kız kardeşiyle birlikte Bowerstone'un Eski Şehir bölgesinde yaşıyordu."
+    },
+    {
+      "id": "391f025b",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, kız kardeşiyle birlikte Bowerstone'un Eski Şehir bölgesinde yaşıyordu."
+    },
+    {
+      "id": "4c3b845b",
+      "bank_id": "b0b1b600",
+      "text": "[Güler]"
+    },
+    {
+      "id": "4d3b85ce",
+      "bank_id": "b0b1b600",
+      "text": "Ha ha ha. Çok eğlenceli."
+    },
+    {
+      "id": "4f89398f",
+      "bank_id": "b0b1b600",
+      "text": "Merhaba genç adam."
+    },
+    {
+      "id": "50a3f76b",
+      "bank_id": "b0b1b600",
+      "text": "[Güler]"
+    },
+    {
+      "id": "51a3f8de",
+      "bank_id": "b0b1b600",
+      "text": "Burada tek başına dolanmamalısın."
+    },
+    {
+      "id": "52a3fab1",
+      "bank_id": "b0b1b600",
+      "text": "Önüne bak, ufaklık."
+    },
+    {
+      "id": "53a3fc24",
+      "bank_id": "b0b1b600",
+      "text": "Kız kardeşine benden selam söyle."
+    },
+    {
+      "id": "549688a8",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, keşişe mağaradaki Işık Pınarı'na kadar eşlik edecekti."
+    },
+    {
+      "id": "54a3fd97",
+      "bank_id": "b0b1b600",
+      "text": "Görünüşe göre bugün de bir şey yiyemeyeceksin."
+    },
+    {
+      "id": "55968a1b",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın başkeşişi etkilemek için ün kazanması gerekiyordu."
+    },
+    {
+      "id": "56968b8e",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın Işık Tapınağı başkeşişini bulması gerekiyordu."
+    },
+    {
+      "id": "573cc8de",
+      "bank_id": "b0b1b600",
+      "text": "Ne kadar hoş."
+    },
+    {
+      "id": "583ccab1",
+      "bank_id": "b0b1b600",
+      "text": "Mükemmel."
+    },
+    {
+      "id": "593ccc24",
+      "bank_id": "b0b1b600",
+      "text": "Evet, çok etkileyici."
+    },
+    {
+      "id": "5a3ccd97",
+      "bank_id": "b0b1b600",
+      "text": "Harika."
+    },
+    {
+      "id": "5b3ccf0a",
+      "bank_id": "b0b1b600",
+      "text": "Ah, çok güzel."
+    },
+    {
+      "id": "5d61196c",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman ve Reaver, Bloodstone'dan kaçmak için mağaralardan geçmek zorundaydı."
+    },
+    {
+      "id": "5f2da322",
+      "bank_id": "b0b1b600",
+      "text": "Dileğin neydi?"
+    },
+    {
+      "id": "5f730fbf",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın Kule'de hayatta kalması ve Garth'ı bulması gerekiyordu."
+    },
+    {
+      "id": "602da495",
+      "bank_id": "b0b1b600",
+      "text": "Ee, söylesene; ne diledin?"
+    },
+    {
+      "id": "60731112",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman Çile'yi kazanmıştı ve artık Lucien'in ordusunda bir acemi er olarak Kule'ye yelken açabilirdi."
+    },
+    {
+      "id": "612da608",
+      "bank_id": "b0b1b600",
+      "text": "Evet lordum. Onu bize satan adam sihirli olduğunu söylemişti."
+    },
+    {
+      "id": "622da7fb",
+      "bank_id": "b0b1b600",
+      "text": "Kutu benim umurumda değil; dikkate değer olan şey, onu kullanabilmiş olmanız."
+    },
+    {
+      "id": "632da96e",
+      "bank_id": "b0b1b600",
+      "text": "Yok oldu lordum. Tam kuruyorduk, dilek tuttuk, sonra parlamaya başladı ve birden kayboldu."
+    },
+    {
+      "id": "642daac1",
+      "bank_id": "b0b1b600",
+      "text": "Siz kullandıktan sonra."
+    },
+    {
+      "id": "652dacb4",
+      "bank_id": "b0b1b600",
+      "text": "İşte geldik. Lord Lucien? Çocuklar burada."
+    },
+    {
+      "id": "66188478",
+      "bank_id": "b0b1b600",
+      "text": "Uuuhhh."
+    },
+    {
+      "id": "662dae27",
+      "bank_id": "b0b1b600",
+      "text": "Çocuklar. Büyülü bir kutunuz olduğu kulağıma geldi. Görebilir miyim?"
+    },
+    {
+      "id": "6763ab20",
+      "bank_id": "b0b1b600",
+      "text": "Her gün bu şatoya bakıp ne kadar güzel olduğunu düşünüyoruz; ikimiz de."
+    },
+    {
+      "id": "680cf8be",
+      "bank_id": "b0b1b600",
+      "text": "%1 / 5 altın sikke"
+    },
+    {
+      "id": "69188931",
+      "bank_id": "b0b1b600",
+      "text": "Oooooh."
+    },
+    {
+      "id": "6963ae06",
+      "bank_id": "b0b1b600",
+      "text": "Gerçekten harika, değil mi?"
+    },
+    {
+      "id": "6a63aff9",
+      "bank_id": "b0b1b600",
+      "text": "Ama içerisi hayal ettiğimden bile daha güzelmiş."
+    },
+    {
+      "id": "6b63b16c",
+      "bank_id": "b0b1b600",
+      "text": "Hıh. Az konuşan biri."
+    },
+    {
+      "id": "6bbefbe1",
+      "bank_id": "b0b1b600",
+      "text": "İrade enerjin azaldı. Dikkatli ol!"
+    },
+    {
+      "id": "6c63b2df",
+      "bank_id": "b0b1b600",
+      "text": "Ah, merhaba Usta Garth."
+    },
+    {
+      "id": "6c7dfd83",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman ve yoldaşları, Garth'ın Brightwood'daki Cullis Geçidi'ne girmek zorundaydı."
+    },
+    {
+      "id": "6c7dfd88",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman ve yoldaşları, Garth'ın Brightwood'daki Cullis Geçidi'ne girmek zorundaydı."
+    },
+    {
+      "id": "6d63b4b2",
+      "bank_id": "b0b1b600",
+      "text": "Ah, kuzey kanadında. Lord Lucien oraya hiç adım atmadı... Leydi Fairfax ile küçük Amelia'nın trajik ölümlerinden bu yana."
+    },
+    {
+      "id": "6e63b625",
+      "bank_id": "b0b1b600",
+      "text": "Büyük ziyafet salonu nerede?"
+    },
+    {
+      "id": "6eba9fd9",
+      "bank_id": "b0b1b600",
+      "text": "[nefesi kesilir]"
+    },
+    {
+      "id": "6f63b798",
+      "bank_id": "b0b1b600",
+      "text": "Ah, duymuştum. Çok korkunç bir şeydi."
+    },
+    {
+      "id": "72ee0358",
+      "bank_id": "b0b1b600",
+      "text": "Ona \"lordum\" diye hitap edin. Sadece size sorulduğunda konuşun."
+    },
+    {
+      "id": "73ee04cb",
+      "bank_id": "b0b1b600",
+      "text": "Çok güzel. Şimdi, Lord Lucien ile karşılaştığınızda her zaman saygılı olmalısınız."
+    },
+    {
+      "id": "74ee06be",
+      "bank_id": "b0b1b600",
+      "text": "Ve Leydi Fairfax'tan ya da Amelia'dan sakın bahsetmeyin."
+    },
+    {
+      "id": "75ee0811",
+      "bank_id": "b0b1b600",
+      "text": "Peki efendim."
+    },
+    {
+      "id": "7842d80c",
+      "bank_id": "b0b1b600",
+      "text": "Yıllar süren iyileşme sürecinin ardından Kahraman artık çingene kampında kör bir kâhinle birlikte yaşıyordu."
+    },
+    {
+      "id": "7b42dcc5",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, kör kâhinden bir doğum günü hediyesi almıştı."
+    },
+    {
+      "id": "7ce246ef",
+      "bank_id": "b0b1b600",
+      "text": "Ne? Şaka mı bu?"
+    },
+    {
+      "id": "7de24842",
+      "bank_id": "b0b1b600",
+      "text": "Geri çevirmek zorundayım çocuk ama yine de teşekkürler."
+    },
+    {
+      "id": "7ee24a35",
+      "bank_id": "b0b1b600",
+      "text": "Belki başka bir zaman."
+    },
+    {
+      "id": "8214ef88",
+      "bank_id": "b0b1b600",
+      "text": "Teklifimi yeniden düşündün mü?"
+    },
+    {
+      "id": "825179f4",
+      "bank_id": "b0b1b600",
+      "text": "Ah, evet."
+    },
+    {
+      "id": "8314f17b",
+      "bank_id": "b0b1b600",
+      "text": "Asla o kadar aç kalmayız. Cevabımız \"hayır!\""
+    },
+    {
+      "id": "8514f441",
+      "bank_id": "b0b1b600",
+      "text": "Merhaba genç Rose. Karnın aç gibi görünüyor."
+    },
+    {
+      "id": "85517e4d",
+      "bank_id": "b0b1b600",
+      "text": "Nerede kalmıştım?"
+    },
+    {
+      "id": "855b9017",
+      "bank_id": "b0b1b600",
+      "text": "Yeter artık!"
+    },
+    {
+      "id": "865b918a",
+      "bank_id": "b0b1b600",
+      "text": "Beni seni cezalandırmak zorunda bırakma çocuk!"
+    },
+    {
+      "id": "877c5208",
+      "bank_id": "b0b1b600",
+      "text": "Ne istiyorsun?"
+    },
+    {
+      "id": "8814f91a",
+      "bank_id": "b0b1b600",
+      "text": "Yine geleceksin. Ve ben seni bekliyor olacağım."
+    },
+    {
+      "id": "887c53fb",
+      "bank_id": "b0b1b600",
+      "text": "Sessiz ol evlat."
+    },
+    {
+      "id": "897c556e",
+      "bank_id": "b0b1b600",
+      "text": "Ooh. Tamam, sakin ol, cici... kızgın sokak köpeği..."
+    },
+    {
+      "id": "89ac30a3",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın Wraithmarsh'ı geçerek Bloodstone'a ulaşması gerekiyordu."
+    },
+    {
+      "id": "89ac30a8",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın Wraithmarsh'ı geçerek Bloodstone'a ulaşması gerekiyordu."
+    },
+    {
+      "id": "8c7c5a27",
+      "bank_id": "b0b1b600",
+      "text": "İşe yaradı! Dileğimiz gerçek oldu!"
+    },
+    {
+      "id": "8d3b71bf",
+      "bank_id": "b0b1b600",
+      "text": "Hadi gel küçük Sparrow, gidip oynayalım."
+    },
+    {
+      "id": "8d7c5b9a",
+      "bank_id": "b0b1b600",
+      "text": "Sizi almam için gönderildim."
+    },
+    {
+      "id": "8e3b7312",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman yeniden bir çocuktu ve hem kusursuz hem de garip bir yerde Rose ile kavuşmuştu."
+    },
+    {
+      "id": "8e7c5d0d",
+      "bank_id": "b0b1b600",
+      "text": "Ben Lord Lucien için çalışıyorum küçük hanım. Kendisi sizi şatosunda görmeyi çok arzu ediyor."
+    },
+    {
+      "id": "8f461d69",
+      "bank_id": "b0b1b600",
+      "text": "İyi akşamlar Jeeves. İşte Lord Lucien'in istediği çocuklar."
+    },
+    {
+      "id": "8f461d6f",
+      "bank_id": "b0b1b600",
+      "text": "Mükemmel!"
+    },
+    {
+      "id": "90461ede",
+      "bank_id": "b0b1b600",
+      "text": "Lütfen beni takip edin."
+    },
+    {
+      "id": "914620b1",
+      "bank_id": "b0b1b600",
+      "text": "Merhaba efendim."
+    },
+    {
+      "id": "9828c863",
+      "bank_id": "b0b1b600",
+      "text": "Senin küçük hırsızlarından biri olmak mı? Asla o kadar aç kalmayız."
+    },
+    {
+      "id": "9fab68ca",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, Bower Gölü'ndeki ayini tamamlayacaktı."
+    },
+    {
+      "id": "a087890e",
+      "bank_id": "b0b1b600",
+      "text": "Kış geldi ve Bowerstone Eski Şehir sokaklarında yaşam zorlu. Siz ve kız kardeşiniz Rose hayatta kalmak için elinizden geleni yapıyorsunuz."
+    },
+    {
+      "id": "a347b221",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın Bower Gölü'ndeki haydut lideri Thag'ı alt etmesi gerekiyordu."
+    },
+    {
+      "id": "a5be1be8",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın Lucien ile yüzleşmek için müzik kutusunu Kule'ye götürmesi gerekiyordu."
+    },
+    {
+      "id": "a6766195",
+      "bank_id": "b0b1b600",
+      "text": "[Güler]"
+    },
+    {
+      "id": "abb2d6b0",
+      "bank_id": "b0b1b600",
+      "text": "Sessizlik!"
+    },
+    {
+      "id": "ac55f5a4",
+      "bank_id": "b0b1b600",
+      "text": "Daha yakına gel."
+    },
+    {
+      "id": "ac55f5af",
+      "bank_id": "b0b1b600",
+      "text": "Ah, kusura bakma... genç bayan. Gözlerim eskisi gibi görmüyor."
+    },
+    {
+      "id": "acb2d823",
+      "bank_id": "b0b1b600",
+      "text": "Sizler Kahramansınız... ama o üçünden hiçbiri değilsiniz..."
+    },
+    {
+      "id": "adb2d996",
+      "bank_id": "b0b1b600",
+      "text": "Siz nesiniz?"
+    },
+    {
+      "id": "aeb2db09",
+      "bank_id": "b0b1b600",
+      "text": "Lordum, ne oldu? O ışık da ne?"
+    },
+    {
+      "id": "afb2dcfc",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanlar mı? Eski masallardaki gibi mi yani?"
+    },
+    {
+      "id": "b0b2de6f",
+      "bank_id": "b0b1b600",
+      "text": "Ah!"
+    },
+    {
+      "id": "b2b2e1b5",
+      "bank_id": "b0b1b600",
+      "text": "Doğru. Kanınız... Sizler Kahramansınız."
+    },
+    {
+      "id": "b4eebe4c",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman ve Garth, Komutanı bulup Kule'den birlikte kaçmak zorundaydı."
+    },
+    {
+      "id": "b7eec305",
+      "bank_id": "b0b1b600",
+      "text": "Kule'de yıllarını geçiren Kahramanın hâlâ Garth'ı bulması gerekiyordu."
+    },
+    {
+      "id": "b9b2ecba",
+      "bank_id": "b0b1b600",
+      "text": "Bekleyin. Burada, burada bir şey vardı..."
+    },
+    {
+      "id": "bab2ee2d",
+      "bank_id": "b0b1b600",
+      "text": "Biriniz dördüncüsü."
+    },
+    {
+      "id": "bf655ed4",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, Westcliff'teki o büyük arenayı, Çile'yi öğrenmişti."
+    },
+    {
+      "id": "c26563ad",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman ile Hammer, Westcliff'teki Çile'ye gideceklerdi."
+    },
+    {
+      "id": "c2e8ca33",
+      "bank_id": "b0b1b600",
+      "text": "Merhaba çocuklar."
+    },
+    {
+      "id": "c2f07742",
+      "bank_id": "b0b1b600",
+      "text": "Pekala, hikâyeye daha sonra devam edeceğiz."
+    },
+    {
+      "id": "c31a88d4",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, Bower Gölü'nün altındaki mezarda kendisini büyük bir gücün beklediğini biliyordu."
+    },
+    {
+      "id": "c31a88df",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, Bower Gölü'nün altındaki mezarda kendisini büyük bir gücün beklediğini biliyordu."
+    },
+    {
+      "id": "c3e8cba6",
+      "bank_id": "b0b1b600",
+      "text": "Merhaba, müzik kutusunu almaya geldik."
+    },
+    {
+      "id": "c58efc50",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, Lucien'in eski uşağıyla İnek ve Korse'de buluşacaktı."
+    },
+    {
+      "id": "c619afab",
+      "bank_id": "b0b1b600",
+      "text": "Tanınan statüsüne ulaştın."
+    },
+    {
+      "id": "c719b11e",
+      "bank_id": "b0b1b600",
+      "text": "Aşina Olunan statüsüne ulaştın."
+    },
+    {
+      "id": "c819b2f1",
+      "bank_id": "b0b1b600",
+      "text": "Meşhur statüsüne ulaştın."
+    },
+    {
+      "id": "c88f0129",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın, Lucien'in Garth'ı tuttuğu Kule'ye giden bir yol bulması gerekiyordu."
+    },
+    {
+      "id": "c89a21e0",
+      "bank_id": "b0b1b600",
+      "text": "Ne kadar istikrarlı vurursan dövüş çarpanın o kadar yükselir."
+    },
+    {
+      "id": "c919b464",
+      "bank_id": "b0b1b600",
+      "text": "Ünlü statüsüne ulaştın."
+    },
+    {
+      "id": "c99a2353",
+      "bank_id": "b0b1b600",
+      "text": "Daha yüksek bir dövüş çarpanı, daha fazla deneyim demektir. Bakalım ne kadar yükseltebileceksin."
+    },
+    {
+      "id": "ca19b5d7",
+      "bank_id": "b0b1b600",
+      "text": "Şanlı statüsüne ulaştın."
+    },
+    {
+      "id": "cb19b74a",
+      "bank_id": "b0b1b600",
+      "text": "Önder statüsüne ulaştın."
+    },
+    {
+      "id": "cb9a26b9",
+      "bank_id": "b0b1b600",
+      "text": "Dövüş çarpanını daha da yükseltmeye çalış."
+    },
+    {
+      "id": "cc19b93d",
+      "bank_id": "b0b1b600",
+      "text": "Efsanevi statüsüne ulaştın."
+    },
+    {
+      "id": "d319d343",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, Brightwood'daki kulesinde Garth ile buluşacaktı."
+    },
+    {
+      "id": "d3d22f50",
+      "bank_id": "b0b1b600",
+      "text": "Oyun oynayacak zaman değil çocuk!"
+    },
+    {
+      "id": "d4d230c3",
+      "bank_id": "b0b1b600",
+      "text": "Bunu yapmak zorunda mısın?"
+    },
+    {
+      "id": "d7d2359c",
+      "bank_id": "b0b1b600",
+      "text": "Derhâl kes şunu!"
+    },
+    {
+      "id": "d9d238e2",
+      "bank_id": "b0b1b600",
+      "text": "Sabrımı taşırma çocuk."
+    },
+    {
+      "id": "dad23a55",
+      "bank_id": "b0b1b600",
+      "text": "Benim huzurumda haddini bileceksin!"
+    },
+    {
+      "id": "e1e66350",
+      "bank_id": "b0b1b600",
+      "text": "Evet, onları öyle çok özlüyor ki."
+    },
+    {
+      "id": "e2e664c3",
+      "bank_id": "b0b1b600",
+      "text": "Peki... nerede yemek yiyor?"
+    },
+    {
+      "id": "e3e666b6",
+      "bank_id": "b0b1b600",
+      "text": "Aslında öğünlerinin çoğunu çalışma odasında yer."
+    },
+    {
+      "id": "e4e66829",
+      "bank_id": "b0b1b600",
+      "text": "Geceli gündüzlü orada çalışır, araştırmalar yapar..."
+    },
+    {
+      "id": "e5e6699c",
+      "bank_id": "b0b1b600",
+      "text": "Neyi araştırıyor?"
+    },
+    {
+      "id": "e66f9ca1",
+      "bank_id": "b0b1b600",
+      "text": "Merhaba genç hanımlar."
+    },
+    {
+      "id": "e66f9caa",
+      "bank_id": "b0b1b600",
+      "text": "Merhaba genç efendiler."
+    },
+    {
+      "id": "e6e66b0f",
+      "bank_id": "b0b1b600",
+      "text": "Çoğunlukla tarihi. Lord Lucien her türlü antikaya pek meraklıdır ama esasen Eski Krallık ile ilgili şeylerle ilgilenir."
+    },
+    {
+      "id": "e8e66e55",
+      "bank_id": "b0b1b600",
+      "text": "Eski Şehir'de mallarının Eski Krallık'tan geldiğini söyleyen bir tüccar vardı."
+    },
+    {
+      "id": "e9e66fc8",
+      "bank_id": "b0b1b600",
+      "text": "Evet... evet, sanırım Lord Lucien... bunu duymuştu."
+    },
+    {
+      "id": "eae671bb",
+      "bank_id": "b0b1b600",
+      "text": "Ondan bir parça satın aldık, bir dilek diledik ve işte buradayız!"
+    },
+    {
+      "id": "ef7fdd14",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın Oakfield'e yolculuk etmesi gerekiyordu."
+    },
+    {
+      "id": "f07fde87",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, Bowerstone Pazarı'nda kör kâhinden gelecek haberleri bekliyordu."
+    },
+    {
+      "id": "f17fe07a",
+      "bank_id": "b0b1b600",
+      "text": "Kahramandan, Bowerstone Pazarı'nda kör kâhinle buluşması istenmişti."
+    },
+    {
+      "id": "f2a42a44",
+      "bank_id": "b0b1b600",
+      "text": "Ah... sadece bir tüccarmış."
+    },
+    {
+      "id": "f5a42f1d",
+      "bank_id": "b0b1b600",
+      "text": "Bu kalabalıktan hiçbir şey göremiyorum."
+    },
+    {
+      "id": "f64481a2",
+      "bank_id": "b0b1b600",
+      "text": "Dinlersen, sana onun hikâyesini anlatacağım."
+    },
+    {
+      "id": "f64481a9",
+      "bank_id": "b0b1b600",
+      "text": "Dinlersen, sana onun hikâyesini anlatacağım."
+    },
+    {
+      "id": "fbd85b42",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, büyülü müzik kutusunu kullanmak üzere yoldaydı."
+    },
+    {
+      "id": "fbd85b49",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, büyülü müzik kutusunu kullanmak üzere yoldaydı."
+    },
+    {
+      "id": "fdeb2488",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın Wraithmarsh'taki Gölge Mahkemesi'ni bulması gerekiyordu."
+    },
+    {
+      "id": "feeb267b",
+      "bank_id": "b0b1b600",
+      "text": "Kahramanın o korkunç sözünü yerine getirdikten sonra Reaver'a dönmesi gerekiyordu."
+    },
+    {
+      "id": "ff0dfd7c",
+      "bank_id": "b0b1b600",
+      "text": "Çevir kolu bakalım; ama tenha bir yere gitmeyi unutma, tamam mı?"
+    },
+    {
+      "id": "ff1d36bd",
+      "bank_id": "b0b1b600",
+      "text": "Kahraman, tapınakta neyin ters gittiğini öğrenmek için Rahibe Hannah'yı takip ediyordu."
+    },
+    {
+      "id": "ff994820",
+      "bank_id": "b0b1b600",
+      "text": "Senin de yaşamana izin veremem."
+    }
+  ]
+}

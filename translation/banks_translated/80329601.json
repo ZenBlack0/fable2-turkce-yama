@@ -1,0 +1,841 @@
+{
+  "bank_id": "80329601",
+  "total_strings": 167,
+  "strings": [
+    {
+      "id": "010f3841",
+      "bank_id": "80329601",
+      "text": "Oh Lokum... beni tamamlıyorsun."
+    },
+    {
+      "id": "010f3844",
+      "bank_id": "80329601",
+      "text": "Pek bir tatlısın değil mi Lokum!"
+    },
+    {
+      "id": "010f3847",
+      "bank_id": "80329601",
+      "text": "Oh, Lokum'um benim! Çok romantiksin!"
+    },
+    {
+      "id": "01b678eb",
+      "bank_id": "80329601",
+      "text": "Kendine Kraliçe demek için biraz kıllı değil misin? Ha ha."
+    },
+    {
+      "id": "01b678ec",
+      "bank_id": "80329601",
+      "text": "Hep mi kraliçeydin yoksa kendini yeni mi keşfettin?"
+    },
+    {
+      "id": "03b31510",
+      "bank_id": "80329601",
+      "text": "Bu fiyatları ödemem ben."
+    },
+    {
+      "id": "03b31512",
+      "bank_id": "80329601",
+      "text": "Bizde ne kadar altın var sanıyorsun sen?"
+    },
+    {
+      "id": "03b31513",
+      "bank_id": "80329601",
+      "text": "Ne?! Bunların hepsi fazlasıyla pahalı!"
+    },
+    {
+      "id": "03b31514",
+      "bank_id": "80329601",
+      "text": "Buradaki hiçbir şeye gücüm yetmez benim."
+    },
+    {
+      "id": "03b31515",
+      "bank_id": "80329601",
+      "text": "Bizi zengin falan mı sanıyorsun sen?"
+    },
+    {
+      "id": "03b31516",
+      "bank_id": "80329601",
+      "text": "Yaldızlı örtüler altında uyuyup elmas çatallarla yemek yiyor olabilirim ama bu fiyatlar bile fazla."
+    },
+    {
+      "id": "03b31517",
+      "bank_id": "80329601",
+      "text": "Bu fiyatlar tam bir rezalet."
+    },
+    {
+      "id": "045a603c",
+      "bank_id": "80329601",
+      "text": "Kaçın bakalım, çünkü ben Korku Tellalı'yım!"
+    },
+    {
+      "id": "06dc5388",
+      "bank_id": "80329601",
+      "text": "Gerçekten de Seçilmiş Kişi olduğunu kanıtlıyorsun."
+    },
+    {
+      "id": "06dc5389",
+      "bank_id": "80329601",
+      "text": "Çok asilce bir davranış Seçilmiş Kişi."
+    },
+    {
+      "id": "080f4348",
+      "bank_id": "80329601",
+      "text": "Oh, Lokum'um benim, öyle romantiksin ki!"
+    },
+    {
+      "id": "080f4349",
+      "bank_id": "80329601",
+      "text": "Sadece bir Lokum bu kadar romantik olabilir!"
+    },
+    {
+      "id": "0f907db0",
+      "bank_id": "80329601",
+      "text": "Aman, beni amma korkuttun Korku Tellalı!"
+    },
+    {
+      "id": "0f907db3",
+      "bank_id": "80329601",
+      "text": "Ooooh! Hepsinin içinde en korkuncusun sen Korku Tellalı."
+    },
+    {
+      "id": "10360461",
+      "bank_id": "80329601",
+      "text": "Ben Lokum'um!"
+    },
+    {
+      "id": "1529391a",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Master Chief olarak bilinecektir!"
+    },
+    {
+      "id": "169088b2",
+      "bank_id": "80329601",
+      "text": "Dah! Neredeyse kalp krizi geçirtiyordun bana Korku Tellalı!"
+    },
+    {
+      "id": "169088b5",
+      "bank_id": "80329601",
+      "text": "Sana neden Korku Tellalı dediklerini anlıyorum: Ödüm patladı!"
+    },
+    {
+      "id": "169088b6",
+      "bank_id": "80329601",
+      "text": "Aaaah! Sen... gerçekten de Korku Tellalı'sın."
+    },
+    {
+      "id": "1b361590",
+      "bank_id": "80329601",
+      "text": "Lokum! Benim o işte!"
+    },
+    {
+      "id": "1b39dfcc",
+      "bank_id": "80329601",
+      "text": "Harika Lokum."
+    },
+    {
+      "id": "1b39dfcd",
+      "bank_id": "80329601",
+      "text": "Ah, gerçekten de dünyanın Lokum'usun sen!"
+    },
+    {
+      "id": "1b39dfce",
+      "bank_id": "80329601",
+      "text": "Ayyy, gerçekten de dünyanın Lokum'usun sen!"
+    },
+    {
+      "id": "1dcaca84",
+      "bank_id": "80329601",
+      "text": "Ben Belediye Başkanı'yım!"
+    },
+    {
+      "id": "227ae95f",
+      "bank_id": "80329601",
+      "text": "Ben Kraliçeyim, o yüzden herkes önümde eğilmek zorunda!"
+    },
+    {
+      "id": "22cad2a5",
+      "bank_id": "80329601",
+      "text": "Ben Belediye Başkanı olmak istiyorum!"
+    },
+    {
+      "id": "2439ee18",
+      "bank_id": "80329601",
+      "text": "Pek güzelmiş o Lokum."
+    },
+    {
+      "id": "2439ee1b",
+      "bank_id": "80329601",
+      "text": "Ha, iyiymiş Lokum."
+    },
+    {
+      "id": "2a1c81d0",
+      "bank_id": "80329601",
+      "text": "Hay aksi, şu Kasap değil mi!"
+    },
+    {
+      "id": "2a1c81d1",
+      "bank_id": "80329601",
+      "text": "Bittik biz -- bu Kasap!"
+    },
+    {
+      "id": "2a1c81d4",
+      "bank_id": "80329601",
+      "text": "Hayır! Kasap hepimizi boğazlamaya gelmiş!"
+    },
+    {
+      "id": "2f1c89f1",
+      "bank_id": "80329601",
+      "text": "Kasap! Canınızı kurtarmak için kaçın!"
+    },
+    {
+      "id": "2f1c89f6",
+      "bank_id": "80329601",
+      "text": "Bu Kasap! Hepimiz öleceğiz!"
+    },
+    {
+      "id": "2f6348fe",
+      "bank_id": "80329601",
+      "text": "Sihirbaz ben olucam! Ben olucam işte!"
+    },
+    {
+      "id": "386356cb",
+      "bank_id": "80329601",
+      "text": "Herkes bana Sihirbaz desin!"
+    },
+    {
+      "id": "46fabdd7",
+      "bank_id": "80329601",
+      "text": "Köpekleri çok seviyorum, o yüzden bana Köpek Sever deyin!"
+    },
+    {
+      "id": "4de1409c",
+      "bank_id": "80329601",
+      "text": "Sana bu yüzden mi Seçilmiş Kişi diyorlar?"
+    },
+    {
+      "id": "4dfac8da",
+      "bank_id": "80329601",
+      "text": "Ben Köpek Sever'im! Köpekler her dediğimi yapar!"
+    },
+    {
+      "id": "595443b3",
+      "bank_id": "80329601",
+      "text": "Ben Aslan Yürekli olabilir miyim?"
+    },
+    {
+      "id": "5ab027cb",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Gölge İblisi olarak bilinecektir!"
+    },
+    {
+      "id": "5c9eb9ff",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Köpek Sever olarak bilinecektir!"
+    },
+    {
+      "id": "60544eb6",
+      "bank_id": "80329601",
+      "text": "Tamam, o zaman ben Aslan Yürekli'yim, değil mi?"
+    },
+    {
+      "id": "624f0b22",
+      "bank_id": "80329601",
+      "text": "Vay canına! Tam Sihirbaz büyüsü bu işte!"
+    },
+    {
+      "id": "624f0b23",
+      "bank_id": "80329601",
+      "text": "Harika! Bir numara daha yap Sihirbaz!"
+    },
+    {
+      "id": "624f0b25",
+      "bank_id": "80329601",
+      "text": "Ah! Sihirbaz ne muazzam şeyler yapabiliyor öyle!"
+    },
+    {
+      "id": "656024ab",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... İntikamcı olarak bilinecektir!"
+    },
+    {
+      "id": "6d4f1c50",
+      "bank_id": "80329601",
+      "text": "Vay be! Böyle bir şeyi yalnızca Sihirbaz yapabilirdi!"
+    },
+    {
+      "id": "6d4f1c53",
+      "bank_id": "80329601",
+      "text": "Vay canına! Sihirbaz'ın ne yaptığını gördün mü?!"
+    },
+    {
+      "id": "6eb00034",
+      "bank_id": "80329601",
+      "text": "Silahşor ben olucam! Ben olucam işte!"
+    },
+    {
+      "id": "721e55ac",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Kasap olarak bilinecektir!"
+    },
+    {
+      "id": "738a0bd3",
+      "bank_id": "80329601",
+      "text": "İşte şimdi her şeyi gördüm. Kendine Kral diyen bir kadın."
+    },
+    {
+      "id": "738a0bd4",
+      "bank_id": "80329601",
+      "text": "Seninki gibi göğüsleri olan pek kral görülmez."
+    },
+    {
+      "id": "73b007d5",
+      "bank_id": "80329601",
+      "text": "Ben Silahşor olacağım!"
+    },
+    {
+      "id": "74e60d05",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Sparrow olarak bilinecektir!"
+    },
+    {
+      "id": "752c659d",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Lokum olarak bilinecektir!"
+    },
+    {
+      "id": "78b6ed21",
+      "bank_id": "80329601",
+      "text": "Master Chief'in önünde eğilin!"
+    },
+    {
+      "id": "795bc835",
+      "bank_id": "80329601",
+      "text": "Bu salata değil ama, değil mi?"
+    },
+    {
+      "id": "7a8a16d8",
+      "bank_id": "80329601",
+      "text": "Kral olmak için biraz fazla kadınsı değil misin? Şey, belki de değilsin."
+    },
+    {
+      "id": "7a8a16d9",
+      "bank_id": "80329601",
+      "text": "Kadın krallara pek sık rastlanmaz doğrusu. Ha ha."
+    },
+    {
+      "id": "7a8a16dd",
+      "bank_id": "80329601",
+      "text": "Kral bir hanımefendi için garip bir unvan değil mi?"
+    },
+    {
+      "id": "7a8a16de",
+      "bank_id": "80329601",
+      "text": "Bir Kral için biraz fazla dolgun göğüslü görünüyorsun."
+    },
+    {
+      "id": "7bc7c7ff",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Salata Kaçkını olarak bilinecektir!"
+    },
+    {
+      "id": "7f37ef58",
+      "bank_id": "80329601",
+      "text": "İnsanların bu fiyatları ödeyecek kadar aptal olduğunu mu sanıyorsun?"
+    },
+    {
+      "id": "80620283",
+      "bank_id": "80329601",
+      "text": "Vay canına. Gerçekten Silahşor'sun sen!"
+    },
+    {
+      "id": "83b6fe50",
+      "bank_id": "80329601",
+      "text": "Ben Master Chief'im!"
+    },
+    {
+      "id": "8437f779",
+      "bank_id": "80329601",
+      "text": "Ne biçim fiyatlar bunlar böyle?! Burada kral ve kraliçe değiliz bilesin!"
+    },
+    {
+      "id": "8437f77a",
+      "bank_id": "80329601",
+      "text": "Bu fiyatlar gülünç! Kimin gücü yeter buna?!"
+    },
+    {
+      "id": "8437f77b",
+      "bank_id": "80329601",
+      "text": "Ha! Bu fiyatları ödeyecek birini bulursan şansına küs!"
+    },
+    {
+      "id": "8437f77c",
+      "bank_id": "80329601",
+      "text": "Pöh! Bu fiyatlar şaka falan mı? Kendinize saklayın."
+    },
+    {
+      "id": "8437f77d",
+      "bank_id": "80329601",
+      "text": "O fiyatları ödeyeceğimi sanıyorsan avucunu yalarsın."
+    },
+    {
+      "id": "8437f77e",
+      "bank_id": "80329601",
+      "text": "Nasıl yani? Bu fiyatlar tam bir rezalet. Benim için bile!"
+    },
+    {
+      "id": "8437f77f",
+      "bank_id": "80329601",
+      "text": "Yumuşak elmaslardan bir yatakta uyuyor olabilirim ama bu fahiş fiyatları ödemem!"
+    },
+    {
+      "id": "84cd9ae1",
+      "bank_id": "80329601",
+      "text": "Ben Seçilmiş Kişi'yim! Ben Seçilmiş Kişi'yim!"
+    },
+    {
+      "id": "852f725f",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Silahşor olarak bilinecektir!"
+    },
+    {
+      "id": "872b6d56",
+      "bank_id": "80329601",
+      "text": "Kanun Kaçağı'nın suç işlemesi mi? Ne büyük sürpriz."
+    },
+    {
+      "id": "8a079672",
+      "bank_id": "80329601",
+      "text": "Pek güzel bir parça etmiş o! Sana boşuna Kasap demiyorlar."
+    },
+    {
+      "id": "8a079674",
+      "bank_id": "80329601",
+      "text": "Eti herkes kadar severim. Tabii sıradaki kişi sen değilsen Kasap!"
+    },
+    {
+      "id": "8a079675",
+      "bank_id": "80329601",
+      "text": "Bunu neyden kestin Kasap? Aslında vazgeçtim, söyleme."
+    },
+    {
+      "id": "8e2b7853",
+      "bank_id": "80329601",
+      "text": "Hepimiz senin bir suçlu olduğunu biliyoruz Kanun Kaçağı!"
+    },
+    {
+      "id": "8e2b7854",
+      "bank_id": "80329601",
+      "text": "Tam bir suçlusun sen Kanun Kaçağı!"
+    },
+    {
+      "id": "8e2b7856",
+      "bank_id": "80329601",
+      "text": "Kanun Kaçağı! Suç işleyeceğin belliydi zaten!"
+    },
+    {
+      "id": "8f279293",
+      "bank_id": "80329601",
+      "text": "<laughs> Tepeden tırnağa Şakacı'sın sen."
+    },
+    {
+      "id": "8f279294",
+      "bank_id": "80329601",
+      "text": "<laughs> Şakacı denmeyi gerçekten hak ediyorsun."
+    },
+    {
+      "id": "8f279295",
+      "bank_id": "80329601",
+      "text": "<laughs> Böyle bir şeyi yalnızca Şakacı akıl edebilirdi!"
+    },
+    {
+      "id": "8fcdac10",
+      "bank_id": "80329601",
+      "text": "Ben Seçilmiş Kişi'yim! Ben Seçilmiş Kişi'yim!"
+    },
+    {
+      "id": "8ff1d933",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Seçilmiş Kişi olarak bilinecektir!"
+    },
+    {
+      "id": "91867945",
+      "bank_id": "80329601",
+      "text": "Ben Kralım! Ben Kralım!"
+    },
+    {
+      "id": "9507a7a3",
+      "bank_id": "80329601",
+      "text": "Ah, mahalle kasabımdan güzel bir parça et. Sana öyle diyorlar değil mi?"
+    },
+    {
+      "id": "9507a7a5",
+      "bank_id": "80329601",
+      "text": "Sahi, şey... o et ne tür bir hayvandan Kasap?"
+    },
+    {
+      "id": "9612764a",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Ödül Avcısı olarak bilinecektir!"
+    },
+    {
+      "id": "96a6c5c3",
+      "bank_id": "80329601",
+      "text": "Ben Dangalak'ım!"
+    },
+    {
+      "id": "9793ec8a",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Şakacı olarak bilinecektir!"
+    },
+    {
+      "id": "98c384f1",
+      "bank_id": "80329601",
+      "text": "Herkes bana... Şakacı desin!"
+    },
+    {
+      "id": "98c75d4f",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Kılıç olarak bilinecektir!"
+    },
+    {
+      "id": "9a27a3c3",
+      "bank_id": "80329601",
+      "text": "Ha ha, bayağı komik birisin Şakacı."
+    },
+    {
+      "id": "9a27a3c5",
+      "bank_id": "80329601",
+      "text": "<laughs> Sana neden Şakacı dediklerini görebiliyorum."
+    },
+    {
+      "id": "9d55f0b1",
+      "bank_id": "80329601",
+      "text": "Yiyecekten ayrılmak sana pek uymaz Salata Kaçkını."
+    },
+    {
+      "id": "9d55f0b3",
+      "bank_id": "80329601",
+      "text": "Ne, salata yok mu Salata Kaçkını?"
+    },
+    {
+      "id": "9da6d0c6",
+      "bank_id": "80329601",
+      "text": "Ben Dangalak'ım!"
+    },
+    {
+      "id": "9e27d40e",
+      "bank_id": "80329601",
+      "text": "Ben Cellat olmak istiyorum!"
+    },
+    {
+      "id": "a3c39620",
+      "bank_id": "80329601",
+      "text": "Benim! Şakacı!"
+    },
+    {
+      "id": "a4125ea2",
+      "bank_id": "80329601",
+      "text": "Sana neden Kılıç dediklerini anlıyorum. Elindeki o şeyle şuna bir baksana!"
+    },
+    {
+      "id": "a4125ea4",
+      "bank_id": "80329601",
+      "text": "Kılıç kullanmayı iyi biliyorsun Kılıç."
+    },
+    {
+      "id": "a455fbb2",
+      "bank_id": "80329601",
+      "text": "Onu kendin yememiş olmana şaşırdım Salata Kaçkını."
+    },
+    {
+      "id": "a455fbb5",
+      "bank_id": "80329601",
+      "text": "Sanırım onun yerine salata alacağım Salata Kaçkını. Ha ha."
+    },
+    {
+      "id": "a727e25b",
+      "bank_id": "80329601",
+      "text": "Ve benim adım da... Cellat!"
+    },
+    {
+      "id": "a8293b0a",
+      "bank_id": "80329601",
+      "text": "Adı Gölge İblisi olan biri için bile bu çok kötüydü."
+    },
+    {
+      "id": "a8293b0c",
+      "bank_id": "80329601",
+      "text": "Demek bu yüzden sana Gölge İblisi diyorlar."
+    },
+    {
+      "id": "ab1269a8",
+      "bank_id": "80329601",
+      "text": "Etrafta kılıç savuracağın belliydi zaten Kılıç."
+    },
+    {
+      "id": "ab1269aa",
+      "bank_id": "80329601",
+      "text": "Güzel kılıç, Kılıç."
+    },
+    {
+      "id": "abaa45c1",
+      "bank_id": "80329601",
+      "text": "Sana neden Dangalak dediklerine dair bir kanıta daha ihtiyacımız varmış gibi."
+    },
+    {
+      "id": "abaa45c6",
+      "bank_id": "80329601",
+      "text": "Dangalaklığına bir örnek daha, Dangalak."
+    },
+    {
+      "id": "b1294959",
+      "bank_id": "80329601",
+      "text": "Korkunç bir şeydi bu. Sana Gölge İblisi demelerine şaşmamalı."
+    },
+    {
+      "id": "b129495b",
+      "bank_id": "80329601",
+      "text": "Böylesine kötü bir şeyi ancak bir Gölge İblisi yapabilirdi."
+    },
+    {
+      "id": "b248db22",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Cellat olarak bilinecektir!"
+    },
+    {
+      "id": "b4aa542a",
+      "bank_id": "80329601",
+      "text": "Ne kadar Dangalak olduğunu kanıtlamaya mı çalışıyorsun?"
+    },
+    {
+      "id": "b4aa542c",
+      "bank_id": "80329601",
+      "text": "Sana neden Dangalak dediklerini anlayabiliyorum."
+    },
+    {
+      "id": "b4c55ade",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Tavuk Kovalayan olarak bilinecektir!"
+    },
+    {
+      "id": "bd24e75b",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Aslan Yürekli olarak bilinecektir!"
+    },
+    {
+      "id": "bdba8b31",
+      "bank_id": "80329601",
+      "text": "Bir dakika, bir erkek çocuk nasıl Kraliçe olabilir ki?"
+    },
+    {
+      "id": "bfc05a95",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Korku Tellalı olarak bilinecektir!"
+    },
+    {
+      "id": "c4c5b651",
+      "bank_id": "80329601",
+      "text": "Uuuuh, çok korkun benden, ben Gölge İblisi'yim."
+    },
+    {
+      "id": "c8ba9c60",
+      "bank_id": "80329601",
+      "text": "Kraliçeler genelde kadın olmaz mı?"
+    },
+    {
+      "id": "ca8f1238",
+      "bank_id": "80329601",
+      "text": "Krallar genelde erkek olmaz mı?"
+    },
+    {
+      "id": "cbdd38f7",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Kraliçe olarak bilinecektir!"
+    },
+    {
+      "id": "cdb66cd1",
+      "bank_id": "80329601",
+      "text": "Evet, ben Kanun Kaçağı'yım!"
+    },
+    {
+      "id": "cf8f19d9",
+      "bank_id": "80329601",
+      "text": "Bir dakika, bir kız nasıl Kral olabilir ki?"
+    },
+    {
+      "id": "cfc5c780",
+      "bank_id": "80329601",
+      "text": "Canavarlar bile beni görünce kaçar. Ben Gölge İblisi'yim!"
+    },
+    {
+      "id": "d406b752",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Kral olarak bilinecektir!"
+    },
+    {
+      "id": "d76708e4",
+      "bank_id": "80329601",
+      "text": "Aaaah! Oh, sensin Silahşor. Anlamalıydım."
+    },
+    {
+      "id": "d8b67e00",
+      "bank_id": "80329601",
+      "text": "Bundan sonra bana Kanun Kaçağı deyin!"
+    },
+    {
+      "id": "dc671080",
+      "bank_id": "80329601",
+      "text": "Silah savurmayı iyi biliyorsun doğrusu... şey, Silahşor."
+    },
+    {
+      "id": "dc671086",
+      "bank_id": "80329601",
+      "text": "Vay canına! Oh, Silahşor. Atış talimi mi yapıyorsun?"
+    },
+    {
+      "id": "dc671087",
+      "bank_id": "80329601",
+      "text": "Müthiş atış Silahşor!"
+    },
+    {
+      "id": "df4068b3",
+      "bank_id": "80329601",
+      "text": "Cellat peşimizden geliyor!"
+    },
+    {
+      "id": "df4068b4",
+      "bank_id": "80329601",
+      "text": "Hepimiz idam edileceğiz. Cellat bu!"
+    },
+    {
+      "id": "e2e9d38d",
+      "bank_id": "80329601",
+      "text": "Bana bakın! Ben Sparrow'um!"
+    },
+    {
+      "id": "e425dad1",
+      "bank_id": "80329601",
+      "text": "Maruldan nefret ederim! Ben Salata Kaçkını'yım!"
+    },
+    {
+      "id": "e64073b9",
+      "bank_id": "80329601",
+      "text": "Cellat kan peşinde!"
+    },
+    {
+      "id": "e64073ba",
+      "bank_id": "80329601",
+      "text": "Cellat hepimizin kellesini uçuracak!"
+    },
+    {
+      "id": "e64073bf",
+      "bank_id": "80329601",
+      "text": "Dikkat edin! Cellat bizi öldürecek!"
+    },
+    {
+      "id": "e9ec9e21",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Zorba olarak bilinecektir!"
+    },
+    {
+      "id": "ede9e53c",
+      "bank_id": "80329601",
+      "text": "Benim adım... Sparrow!"
+    },
+    {
+      "id": "ef25ec00",
+      "bank_id": "80329601",
+      "text": "Öyle şişkoyum ki bana Salata Kaçkını derler!"
+    },
+    {
+      "id": "ef40f9a9",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Sihirbaz olarak bilinecektir!"
+    },
+    {
+      "id": "f45bd50e",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Kanun Kaçağı olarak bilinecektir!"
+    },
+    {
+      "id": "f8b303e1",
+      "bank_id": "80329601",
+      "text": "Bu çok pahalı!"
+    },
+    {
+      "id": "f8b303e2",
+      "bank_id": "80329601",
+      "text": "Bu fiyatlar tam bir fıkra! Herhangi birinin gücü nasıl yetecek bunlara!"
+    },
+    {
+      "id": "f8b303e3",
+      "bank_id": "80329601",
+      "text": "Her şeyin bu kadar pahalı olmasına inanamıyorum."
+    },
+    {
+      "id": "f8b303e4",
+      "bank_id": "80329601",
+      "text": "Oh evet, her şeyden ikişer tane alayım. Dünyadaki bütün altınların olduğu kesemi çıkarayım hemen. Pöh."
+    },
+    {
+      "id": "f8b303e5",
+      "bank_id": "80329601",
+      "text": "Buradan bir şey alabilmek için bayağı zengin birini soymam gerekirdi."
+    },
+    {
+      "id": "f8b303e6",
+      "bank_id": "80329601",
+      "text": "Herhangi birinin bu fahiş fiyatları nasıl ödeyebileceğini aklım almıyor."
+    },
+    {
+      "id": "f8b303e7",
+      "bank_id": "80329601",
+      "text": "Yüksek perakende fiyatlarına alışkınım ama bu kadarı kabul edilemez."
+    },
+    {
+      "id": "f8b66a80",
+      "bank_id": "80329601",
+      "text": "Kraliçe olmak için biraz fazla erkeksi değil misin? Şey, belki de değilsin."
+    },
+    {
+      "id": "f8b66a81",
+      "bank_id": "80329601",
+      "text": "Aman da tam bir kraliçesin."
+    },
+    {
+      "id": "f8b66a85",
+      "bank_id": "80329601",
+      "text": "Bir erkek için Kraliçe garip bir unvan değil mi? Hmm, belki de değildir."
+    },
+    {
+      "id": "f8b66a86",
+      "bank_id": "80329601",
+      "text": "Gördüğüm ilk göğüs kıllı Kraliçesin sen."
+    },
+    {
+      "id": "f95a4e8d",
+      "bank_id": "80329601",
+      "text": "Grrr! Ben Korku Tellalı'yım!"
+    },
+    {
+      "id": "fb176665",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Belediye Başkanı olarak bilinecektir!"
+    },
+    {
+      "id": "fddc45bd",
+      "bank_id": "80329601",
+      "text": "Seçilmiş Kişi'ye layık bir hareket."
+    },
+    {
+      "id": "fddc45be",
+      "bank_id": "80329601",
+      "text": "Böyle bir hareketi yalnızca Seçilmiş Kişi sergileyebilirdi."
+    },
+    {
+      "id": "fe1ad96c",
+      "bank_id": "80329601",
+      "text": "Bugünden tezi yok, bu vatandaş herkes tarafından... Dangalak olarak bilinecektir!"
+    }
+  ]
+}

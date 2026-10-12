@@ -1,0 +1,971 @@
+{
+  "bank_id": "60f45202",
+  "total_strings": 193,
+  "strings": [
+    {
+      "id": "07adc698",
+      "bank_id": "60f45202",
+      "text": "Bizi henüz yenemedin."
+    },
+    {
+      "id": "07adc69a",
+      "bank_id": "60f45202",
+      "text": "Biraz dik durun be!"
+    },
+    {
+      "id": "07adc69b",
+      "bank_id": "60f45202",
+      "text": "Beni yarı yolda bırakıp kaçmaya kalkmayın sakın sizi korkaklar."
+    },
+    {
+      "id": "07cf8e51",
+      "bank_id": "60f45202",
+      "text": "Korkudan paçaları tutuştu. Baksanıza şuna."
+    },
+    {
+      "id": "07cf8e5a",
+      "bank_id": "60f45202",
+      "text": "Korkudan paçaları tutuştu. Baksanıza şuna."
+    },
+    {
+      "id": "180fc950",
+      "bank_id": "60f45202",
+      "text": "Al bakalım, kemir şu kemiği!"
+    },
+    {
+      "id": "180fc952",
+      "bank_id": "60f45202",
+      "text": "Hayvanlara karşı acımasızlığımla bilinirim. Al sana kanıtı."
+    },
+    {
+      "id": "180fc953",
+      "bank_id": "60f45202",
+      "text": "Köpeklerden nefret ederim!"
+    },
+    {
+      "id": "1cd4bc54",
+      "bank_id": "60f45202",
+      "text": "Ha, aynen öyle!"
+    },
+    {
+      "id": "1cd4bc56",
+      "bank_id": "60f45202",
+      "text": "Al bakalım!"
+    },
+    {
+      "id": "1cd4bc57",
+      "bank_id": "60f45202",
+      "text": "Nasıl geldi ama?"
+    },
+    {
+      "id": "1e0731d4",
+      "bank_id": "60f45202",
+      "text": "Hadi biraz eğlenelim çocuklar."
+    },
+    {
+      "id": "1e0731d6",
+      "bank_id": "60f45202",
+      "text": "Kaçmaya başlasan iyi edersin. Biz daha kalabalığız."
+    },
+    {
+      "id": "1e0731d7",
+      "bank_id": "60f45202",
+      "text": "Kıyıma hazır mısınız çocuklar?"
+    },
+    {
+      "id": "27bec944",
+      "bank_id": "60f45202",
+      "text": "Bize kafa tutmakla hayatının hatasını yaptın seni maceracı ahmak."
+    },
+    {
+      "id": "27bec94f",
+      "bank_id": "60f45202",
+      "text": "Bize kafa tutmakla hayatının hatasını yaptın kadın."
+    },
+    {
+      "id": "2df4b450",
+      "bank_id": "60f45202",
+      "text": "Belki de kaçsak iyi olur."
+    },
+    {
+      "id": "2df4b451",
+      "bank_id": "60f45202",
+      "text": "Birlikte hareket etmeliyiz yoksa işimiz biter."
+    },
+    {
+      "id": "2df4b453",
+      "bank_id": "60f45202",
+      "text": "Tüyüp kaçmayı düşünmüyorsunuz değil mi çocuklar?"
+    },
+    {
+      "id": "2fbebb02",
+      "bank_id": "60f45202",
+      "text": "Artık ölü sayılır. Kazanacağımızı söylememiş miydim size?"
+    },
+    {
+      "id": "2fbebb09",
+      "bank_id": "60f45202",
+      "text": "Artık ölü sayılır. Kazanacağımızı söylememiş miydim size?"
+    },
+    {
+      "id": "351e9488",
+      "bank_id": "60f45202",
+      "text": "Diğer baskın grubuyla gitmem gerektiğini biliyordum."
+    },
+    {
+      "id": "351e9489",
+      "bank_id": "60f45202",
+      "text": "Düzgünce dövüşmeye hazır mısınız artık yoksa ne bekliyorsunuz sizi mankafalar?"
+    },
+    {
+      "id": "351e948b",
+      "bank_id": "60f45202",
+      "text": "Kıpırdayın çocuklar. Vites yükseltmemiz lazım!"
+    },
+    {
+      "id": "3fb69dcc",
+      "bank_id": "60f45202",
+      "text": "Acına son vereyim mi, ne dersin?"
+    },
+    {
+      "id": "3fb69dcd",
+      "bank_id": "60f45202",
+      "text": "Sonunun geldiğini bilmek nasıl bir duygu acaba?"
+    },
+    {
+      "id": "3fb69dcf",
+      "bank_id": "60f45202",
+      "text": "İşinin bitirilmesine hazır mısın?"
+    },
+    {
+      "id": "417eaa95",
+      "bank_id": "60f45202",
+      "text": "Hiç bu kadar zavallı bir kız görmüş müydünüz beyler?"
+    },
+    {
+      "id": "417eaa9e",
+      "bank_id": "60f45202",
+      "text": "Hiç bu kadar zavallı bir bücür görmüş müydünüz beyler?"
+    },
+    {
+      "id": "44f93237",
+      "bank_id": "60f45202",
+      "text": "Elimize düştü!"
+    },
+    {
+      "id": "44f9323c",
+      "bank_id": "60f45202",
+      "text": "Elimize düştü!"
+    },
+    {
+      "id": "503ecfd1",
+      "bank_id": "60f45202",
+      "text": "Hadi beyler, deşelim şunun bağırsaklarını!"
+    },
+    {
+      "id": "503ecfda",
+      "bank_id": "60f45202",
+      "text": "Hadi beyler, deşelim şunun bağırsaklarını!"
+    },
+    {
+      "id": "5c138609",
+      "bank_id": "60f45202",
+      "text": "Artık beni yenemezsin."
+    },
+    {
+      "id": "5c13860a",
+      "bank_id": "60f45202",
+      "text": "Fırsatın varken kaçıp gitmeliydin."
+    },
+    {
+      "id": "5c13860b",
+      "bank_id": "60f45202",
+      "text": "Gülümse biraz ya! Benim için gurur dolu bir an bu."
+    },
+    {
+      "id": "60e12898",
+      "bank_id": "60f45202",
+      "text": "Utanmana hiç gerek yok. Karşımızda zerre şansın yoktu zaten."
+    },
+    {
+      "id": "60e12899",
+      "bank_id": "60f45202",
+      "text": "Bu kadarı da fazla kolay oldu değil mi çocuklar?"
+    },
+    {
+      "id": "60e1289b",
+      "bank_id": "60f45202",
+      "text": "Hepimizi yenebileceğini sandın değil mi? Fena halde yanıldın işte."
+    },
+    {
+      "id": "62a948d5",
+      "bank_id": "60f45202",
+      "text": "Acıttı mı? Oh olsun."
+    },
+    {
+      "id": "62a948d6",
+      "bank_id": "60f45202",
+      "text": "Görelim bakalım nasıl kanıyorsun!"
+    },
+    {
+      "id": "62a948d7",
+      "bank_id": "60f45202",
+      "text": "En iyisi benim!"
+    },
+    {
+      "id": "63dbbe55",
+      "bank_id": "60f45202",
+      "text": "Ciğerlerini kulaklarından söküp sana güleceğiz."
+    },
+    {
+      "id": "63dbbe56",
+      "bank_id": "60f45202",
+      "text": "Gelin de şu göt kafalıya haydutların neler yapabileceğini gösterelim."
+    },
+    {
+      "id": "63dbbe57",
+      "bank_id": "60f45202",
+      "text": "Sayıca azsın, silahın yetersiz ve şansın bitti!"
+    },
+    {
+      "id": "7082f0c9",
+      "bank_id": "60f45202",
+      "text": "Hadi çocuklar. Azıcık daha dayanın, dövüş bitmek üzere."
+    },
+    {
+      "id": "7082f0ca",
+      "bank_id": "60f45202",
+      "text": "Kutlamaya başlasak iyi olur artık."
+    },
+    {
+      "id": "7082f0cb",
+      "bank_id": "60f45202",
+      "text": "Bunu kolayca kazanacağımızı söylemiştim değil mi?"
+    },
+    {
+      "id": "708cf155",
+      "bank_id": "60f45202",
+      "text": "Tamam, buraya kadar. Şimdi seni sahiden öldüreceğiz."
+    },
+    {
+      "id": "708cf156",
+      "bank_id": "60f45202",
+      "text": "Geri dönüş şimdi başlıyor çocuklar!"
+    },
+    {
+      "id": "708cf157",
+      "bank_id": "60f45202",
+      "text": "Geri dönmeye hazır mıyız?"
+    },
+    {
+      "id": "7260d3cc",
+      "bank_id": "60f45202",
+      "text": "Eğer bu bizim sonumuz olacaksa, öyle bir son yapalım ki falan filan. Biliyorsunuz işte."
+    },
+    {
+      "id": "7260d3ce",
+      "bank_id": "60f45202",
+      "text": "Yanımdan ayrılmayın çocuklar."
+    },
+    {
+      "id": "7260d3cf",
+      "bank_id": "60f45202",
+      "text": "Hadi be! Bundan daha iyisini yapabiliriz!"
+    },
+    {
+      "id": "75580fcc",
+      "bank_id": "60f45202",
+      "text": "Uyumayın çocuklar. Şu hobbe yalakasının işini bitirmemiz gerek hâlâ."
+    },
+    {
+      "id": "75580fcd",
+      "bank_id": "60f45202",
+      "text": "Hemen havalara girmeyin, henüz tam olarak kazanmadık."
+    },
+    {
+      "id": "75580fce",
+      "bank_id": "60f45202",
+      "text": "Hadi bitirelim şu işi çocuklar."
+    },
+    {
+      "id": "7ac6a747",
+      "bank_id": "60f45202",
+      "text": "Hepimizin hakkından gelebileceğini sanıyor. Buna ne dersiniz çocuklar?"
+    },
+    {
+      "id": "7ac6a74c",
+      "bank_id": "60f45202",
+      "text": "Hepimizin hakkından gelebileceğini sanıyor. Buna ne dersiniz çocuklar?"
+    },
+    {
+      "id": "7b6a8711",
+      "bank_id": "60f45202",
+      "text": "Hepimizin hakkından gelemez."
+    },
+    {
+      "id": "7b6a871a",
+      "bank_id": "60f45202",
+      "text": "Hepimizin hakkından gelemez."
+    },
+    {
+      "id": "807d286d",
+      "bank_id": "60f45202",
+      "text": "Öldürücü darbeyi kim indirmek ister?"
+    },
+    {
+      "id": "807d286e",
+      "bank_id": "60f45202",
+      "text": "Göz açıp kapayıncaya kadar biter bu iş. Sonra evlerimize döneriz."
+    },
+    {
+      "id": "807d286f",
+      "bank_id": "60f45202",
+      "text": "Kazanıyor olabiliriz ama bu rahatlayabileceğimiz anlamına gelmez."
+    },
+    {
+      "id": "85361a12",
+      "bank_id": "60f45202",
+      "text": "Neredeyse öldü bile. Son bir gayret beyler!"
+    },
+    {
+      "id": "85361a19",
+      "bank_id": "60f45202",
+      "text": "Neredeyse öldü bile. Son bir gayret beyler!"
+    },
+    {
+      "id": "85f06fe0",
+      "bank_id": "60f45202",
+      "text": "Şu heriften ilk kanı akıtana parlak bir madeni para benden."
+    },
+    {
+      "id": "85f06feb",
+      "bank_id": "60f45202",
+      "text": "Şu kızdan ilk kanı akıtana parlak bir madeni para benden."
+    },
+    {
+      "id": "8913ea69",
+      "bank_id": "60f45202",
+      "text": "Ye bakalım şunu seni sersem it!"
+    },
+    {
+      "id": "8913ea6a",
+      "bank_id": "60f45202",
+      "text": "Tasmasız dolaşmak neymiş gör bakalım!"
+    },
+    {
+      "id": "8913ea6b",
+      "bank_id": "60f45202",
+      "text": "İşte insan köpeği böyle ısırır!"
+    },
+    {
+      "id": "8a662c11",
+      "bank_id": "60f45202",
+      "text": "Al bakalım!"
+    },
+    {
+      "id": "8a662c12",
+      "bank_id": "60f45202",
+      "text": "İşte böyle!"
+    },
+    {
+      "id": "8a662c13",
+      "bank_id": "60f45202",
+      "text": "Evet!"
+    },
+    {
+      "id": "8b086e8c",
+      "bank_id": "60f45202",
+      "text": "Al ye bunu!"
+    },
+    {
+      "id": "8b086e8d",
+      "bank_id": "60f45202",
+      "text": "Beğendin mi?"
+    },
+    {
+      "id": "8b086e8f",
+      "bank_id": "60f45202",
+      "text": "İşte oldu!"
+    },
+    {
+      "id": "8c3ae40c",
+      "bank_id": "60f45202",
+      "text": "Karnını deşeceğiz ve bundan büyük keyif alacağız."
+    },
+    {
+      "id": "8c3ae40d",
+      "bank_id": "60f45202",
+      "text": "Hepimizi birden asla yenemezsin."
+    },
+    {
+      "id": "8c3ae40f",
+      "bank_id": "60f45202",
+      "text": "Karşımızda zerre şansın yok!"
+    },
+    {
+      "id": "8cd85f73",
+      "bank_id": "60f45202",
+      "text": "Şu herifin acısına son verelim gitsin."
+    },
+    {
+      "id": "8cd85f78",
+      "bank_id": "60f45202",
+      "text": "Şu sürtüğün acısına son verelim gitsin."
+    },
+    {
+      "id": "8f498881",
+      "bank_id": "60f45202",
+      "text": "Onu paramparça etmeye hazır mısınız beyler?"
+    },
+    {
+      "id": "8f49888a",
+      "bank_id": "60f45202",
+      "text": "Onu paramparça etmeye hazır mısınız beyler?"
+    },
+    {
+      "id": "91177834",
+      "bank_id": "60f45202",
+      "text": "Hiç şansı yok. Biz daha kalabalığız!"
+    },
+    {
+      "id": "9117783f",
+      "bank_id": "60f45202",
+      "text": "Hiç şansı yok. Biz daha kalabalığız!"
+    },
+    {
+      "id": "9592705d",
+      "bank_id": "60f45202",
+      "text": "Hadi izin ver de seni öldüreyim, evime gidip bir tabak fasulye yiyeceğim."
+    },
+    {
+      "id": "9592705e",
+      "bank_id": "60f45202",
+      "text": "En azından büyük bir hayduta yenildiğini söyleyebilirsin. Tabii ölmüş olman dışında."
+    },
+    {
+      "id": "9592705f",
+      "bank_id": "60f45202",
+      "text": "Haha! Tam istediğim yere kıstırdım seni."
+    },
+    {
+      "id": "9849d491",
+      "bank_id": "60f45202",
+      "text": "Dikkatli ol, biz daha kalabalığız ve kavgaya bayılırız."
+    },
+    {
+      "id": "9849d492",
+      "bank_id": "60f45202",
+      "text": "Henüz yenilmedik!"
+    },
+    {
+      "id": "9849d493",
+      "bank_id": "60f45202",
+      "text": "Toparlanın beyler! Bu bir emirdir."
+    },
+    {
+      "id": "98ec170c",
+      "bank_id": "60f45202",
+      "text": "Bu hıyar henüz kazanmadı."
+    },
+    {
+      "id": "98ec170d",
+      "bank_id": "60f45202",
+      "text": "İşimiz bitmekten çok uzak. Devam edin!"
+    },
+    {
+      "id": "98ec170f",
+      "bank_id": "60f45202",
+      "text": "Kazanmana bilerek izin veriyorduk."
+    },
+    {
+      "id": "9abfcf68",
+      "bank_id": "60f45202",
+      "text": "Asla kaybetmeyeceğini sanıyordun değil mi? Fena halde yanıldın."
+    },
+    {
+      "id": "9abfcf69",
+      "bank_id": "60f45202",
+      "text": "Oh, bundan öyle büyük keyif alıyorum ki."
+    },
+    {
+      "id": "9abfcf6a",
+      "bank_id": "60f45202",
+      "text": "Pes etsen iyi edersin. Ben kazandım."
+    },
+    {
+      "id": "9c96f682",
+      "bank_id": "60f45202",
+      "text": "Onunla yerleri paspas etmeye hazır mısınız çocuklar?"
+    },
+    {
+      "id": "9c96f689",
+      "bank_id": "60f45202",
+      "text": "Onunla yerleri paspas etmeye hazır mısınız çocuklar?"
+    },
+    {
+      "id": "9def6bc1",
+      "bank_id": "60f45202",
+      "text": "Tüm bunlardan sonra iyi bir ganimet alsak bari."
+    },
+    {
+      "id": "9def6bc2",
+      "bank_id": "60f45202",
+      "text": "Bunun için ölmeye değer mi sahiden çocuklar?"
+    },
+    {
+      "id": "9def6bc3",
+      "bank_id": "60f45202",
+      "text": "Varınızı yoğunuzu ortaya koyun. Hâlâ kazanabiliriz!"
+    },
+    {
+      "id": "9f9c9dec",
+      "bank_id": "60f45202",
+      "text": "Nasılmış bakalım seni uyuz köpek?"
+    },
+    {
+      "id": "9f9c9ded",
+      "bank_id": "60f45202",
+      "text": "Al bakalım seni aptal it!"
+    },
+    {
+      "id": "9f9c9dee",
+      "bank_id": "60f45202",
+      "text": "Al bunu seni kırma!"
+    },
+    {
+      "id": "a5faff27",
+      "bank_id": "60f45202",
+      "text": "Hadi şu kızı lime lime edelim!"
+    },
+    {
+      "id": "a5faff2c",
+      "bank_id": "60f45202",
+      "text": "Hadi şu oğlanı lime lime edelim!"
+    },
+    {
+      "id": "a7468144",
+      "bank_id": "60f45202",
+      "text": "İşimiz bitince bu zaferi kutlamak için koca bir ziyafet çekmeye ne dersiniz?"
+    },
+    {
+      "id": "a7468145",
+      "bank_id": "60f45202",
+      "text": "Unutulmayacak bir zafer olacak bu çocuklar."
+    },
+    {
+      "id": "a7468147",
+      "bank_id": "60f45202",
+      "text": "Neşelen biraz. Birazdan bir avuç karizmatik haydutun elinde can vereceksin."
+    },
+    {
+      "id": "aac445a2",
+      "bank_id": "60f45202",
+      "text": "İşini bitirmeye hazır mıyız o zaman?"
+    },
+    {
+      "id": "aac445a9",
+      "bank_id": "60f45202",
+      "text": "İşini bitirmeye hazır mıyız o zaman?"
+    },
+    {
+      "id": "adfcb635",
+      "bank_id": "60f45202",
+      "text": "Acıttı değil mi?"
+    },
+    {
+      "id": "adfcb636",
+      "bank_id": "60f45202",
+      "text": "Bunun gibi daha nicesi var bende."
+    },
+    {
+      "id": "af2f2bb4",
+      "bank_id": "60f45202",
+      "text": "Bu gece içkiler benden çocuklar. Ama önce şu domuzu gebertelim."
+    },
+    {
+      "id": "af2f2bb5",
+      "bank_id": "60f45202",
+      "text": "Geliyoruz senin için!"
+    },
+    {
+      "id": "af2f2bb6",
+      "bank_id": "60f45202",
+      "text": "Senden çok daha dişli maceracıları mezara gömdük biz."
+    },
+    {
+      "id": "b0f12358",
+      "bank_id": "60f45202",
+      "text": "Bir hayduta bulaşmayacaktın. Şimdi geberip gideceksin."
+    },
+    {
+      "id": "b0f1235a",
+      "bank_id": "60f45202",
+      "text": "Biraz daha hayatta kalmaya çalış. Bitmesi için fazla eğleniyorum."
+    },
+    {
+      "id": "b0f1235b",
+      "bank_id": "60f45202",
+      "text": "Yeterince oynadık. Artık bu işi bitiriyorum."
+    },
+    {
+      "id": "b1ab3628",
+      "bank_id": "60f45202",
+      "text": "İşimiz neredeyse bitti çocuklar."
+    },
+    {
+      "id": "b1ab3629",
+      "bank_id": "60f45202",
+      "text": "Artık bizi kimse durduramaz."
+    },
+    {
+      "id": "b1ab362a",
+      "bank_id": "60f45202",
+      "text": "Neredeyse kazandık çocuklar."
+    },
+    {
+      "id": "b25f3ce0",
+      "bank_id": "60f45202",
+      "text": "Göğsündeki atan kalbi kim söküp almak ister?"
+    },
+    {
+      "id": "b25f3ceb",
+      "bank_id": "60f45202",
+      "text": "Göğsündeki atan kalbi kim söküp almak ister?"
+    },
+    {
+      "id": "bb1aa248",
+      "bank_id": "60f45202",
+      "text": "Dövüş işini insanlara bıraksan iyi edersin."
+    },
+    {
+      "id": "bb1aa249",
+      "bank_id": "60f45202",
+      "text": "Bundan sonra kuyruk salla da görelim bakalım!"
+    },
+    {
+      "id": "bb1aa24a",
+      "bank_id": "60f45202",
+      "text": "Ha! Hiçbir lanet köpek beni ısıramaz!"
+    },
+    {
+      "id": "bbe05eb4",
+      "bank_id": "60f45202",
+      "text": "Artık gerçek erkeklerin öne çıkıp kendini gösterme vakti geldi."
+    },
+    {
+      "id": "bbe05eb5",
+      "bank_id": "60f45202",
+      "text": "Köşeye sıkışmış bir grup hayduttan daha tehlikelisi yoktur."
+    },
+    {
+      "id": "bbe05eb6",
+      "bank_id": "60f45202",
+      "text": "Hadi sizi koca korkaklar, dövüşecek miyiz yoksa ne?"
+    },
+    {
+      "id": "bc2dae54",
+      "bank_id": "60f45202",
+      "text": "Sen haydutlara karşı ha. Sonunun iyi bitmeyeceğini biliyor olmalıydın."
+    },
+    {
+      "id": "bc2dae56",
+      "bank_id": "60f45202",
+      "text": "Ah, tadını çıkarın adamlar. Haydut olmak tam da bununla ilgilidir."
+    },
+    {
+      "id": "bc2dae57",
+      "bank_id": "60f45202",
+      "text": "Senden sıkılmaya başladık artık."
+    },
+    {
+      "id": "bd7f3780",
+      "bank_id": "60f45202",
+      "text": "Hadi ona biz haydutların nasıl öldürdüğünü, katlettiğini ve yağmaladığını gösterelim."
+    },
+    {
+      "id": "bd7f378b",
+      "bank_id": "60f45202",
+      "text": "Hadi ona biz haydutların nasıl öldürdüğünü, katlettiğini ve yağmaladığını gösterelim."
+    },
+    {
+      "id": "bdeb5c10",
+      "bank_id": "60f45202",
+      "text": "Eh, en azından denedin. Önemli olan da bu değil mi? Haha."
+    },
+    {
+      "id": "bdeb5c11",
+      "bank_id": "60f45202",
+      "text": "Bütün eşyalarını şimdi bana verirsen cesedinden toplamak için eğilmek zorunda kalmam."
+    },
+    {
+      "id": "bdf19674",
+      "bank_id": "60f45202",
+      "text": "Gördün mü? Haydutlar kadar iyi değilsin işte. Bu kadar basit."
+    },
+    {
+      "id": "bdf19675",
+      "bank_id": "60f45202",
+      "text": "Bunun bu kadar çabuk bitecek olması ne yazık."
+    },
+    {
+      "id": "bdf19677",
+      "bank_id": "60f45202",
+      "text": "Kötü hissetme, sadece senden daha iyiyim o kadar."
+    },
+    {
+      "id": "c2baac18",
+      "bank_id": "60f45202",
+      "text": "Öldürücü darbe benim!"
+    },
+    {
+      "id": "c2baac19",
+      "bank_id": "60f45202",
+      "text": "Seni almaya geliyoruz!"
+    },
+    {
+      "id": "c2baac1b",
+      "bank_id": "60f45202",
+      "text": "Öldürücü darbe benim!"
+    },
+    {
+      "id": "c3d9c891",
+      "bank_id": "60f45202",
+      "text": "Kaçmasına izin vermeyin çocuklar."
+    },
+    {
+      "id": "c3d9c89a",
+      "bank_id": "60f45202",
+      "text": "Kaçmasına izin vermeyin çocuklar."
+    },
+    {
+      "id": "c83d8cd8",
+      "bank_id": "60f45202",
+      "text": "Görkemli bir son yapalım şuna çocuklar."
+    },
+    {
+      "id": "c83d8cd9",
+      "bank_id": "60f45202",
+      "text": "İşimizi kolaylaştırıp hemen şimdi teslim olmaya ne dersin?"
+    },
+    {
+      "id": "c83d8cda",
+      "bank_id": "60f45202",
+      "text": "Vay vay vay. Sen neredeyse öldün sayılır, bizse dipdiriyiz."
+    },
+    {
+      "id": "caa9d530",
+      "bank_id": "60f45202",
+      "text": "Temiz vuruş!"
+    },
+    {
+      "id": "caa9d531",
+      "bank_id": "60f45202",
+      "text": "Yakaladım seni!"
+    },
+    {
+      "id": "caa9d532",
+      "bank_id": "60f45202",
+      "text": "Bunu nasıl buldun bakalım?"
+    },
+    {
+      "id": "cbdc4ab0",
+      "bank_id": "60f45202",
+      "text": "Burada profesyonelce bir iş çıkaralım."
+    },
+    {
+      "id": "cbdc4ab1",
+      "bank_id": "60f45202",
+      "text": "Hadi şu enayiyi parçalara ayıralım."
+    },
+    {
+      "id": "cbdc4ab2",
+      "bank_id": "60f45202",
+      "text": "Hadi şu enayiyi parçalara ayıralım."
+    },
+    {
+      "id": "cf6bdf18",
+      "bank_id": "60f45202",
+      "text": "Hadi çocuklar, bunu hâlâ kazanabiliriz!"
+    },
+    {
+      "id": "cf6bdf19",
+      "bank_id": "60f45202",
+      "text": "Dik durun çocuklar!"
+    },
+    {
+      "id": "cf6bdf1b",
+      "bank_id": "60f45202",
+      "text": "Geçen dövüşümüzü hatırlayın çocuklar. O zaman da geri dönmüştük."
+    },
+    {
+      "id": "d15ca670",
+      "bank_id": "60f45202",
+      "text": "Hadi kasap gibi doğrayalım şunu çocuklar!"
+    },
+    {
+      "id": "d15ca67b",
+      "bank_id": "60f45202",
+      "text": "Hadi kasap gibi doğrayalım şunu çocuklar!"
+    },
+    {
+      "id": "d362a579",
+      "bank_id": "60f45202",
+      "text": "Vahşi bir hayvan sürüsü olabiliriz ama sürü halinde avlanırız. Ve avımızı köşeye sıkıştırdık."
+    },
+    {
+      "id": "d362a57a",
+      "bank_id": "60f45202",
+      "text": "Görkemli bir zafer olacak bu çocuklar!"
+    },
+    {
+      "id": "d362a57b",
+      "bank_id": "60f45202",
+      "text": "Neredeyse bitti. Birkaç bıçak darbesi daha."
+    },
+    {
+      "id": "d5f57064",
+      "bank_id": "60f45202",
+      "text": "Derini diri diri yüzeceğim!"
+    },
+    {
+      "id": "d5f57065",
+      "bank_id": "60f45202",
+      "text": "Albion'daki bütün köpekleri geberttiğimi sanıyordum. Sonuncusunu da halletme vakti geldi."
+    },
+    {
+      "id": "d5f57067",
+      "bank_id": "60f45202",
+      "text": "Pire ısırığından daha beter, değil mi?"
+    },
+    {
+      "id": "d6b922bc",
+      "bank_id": "60f45202",
+      "text": "Oh evet, bugün çok verimli bir iş günü geçiriyorum."
+    },
+    {
+      "id": "d6b922bd",
+      "bank_id": "60f45202",
+      "text": "Sana esaslı bir ders veriyorum burada."
+    },
+    {
+      "id": "d6b922be",
+      "bank_id": "60f45202",
+      "text": "Kabul et artık, hiç şansın yoktu."
+    },
+    {
+      "id": "d728b5d2",
+      "bank_id": "60f45202",
+      "text": "İşini kim bitirmek ister? Benim oyum kendime."
+    },
+    {
+      "id": "d728b5d9",
+      "bank_id": "60f45202",
+      "text": "İşini kim bitirmek ister? Benim oyum kendime."
+    },
+    {
+      "id": "d88d7db0",
+      "bank_id": "60f45202",
+      "text": "Kimsenin pes etmesini istemiyorum!"
+    },
+    {
+      "id": "d88d7db1",
+      "bank_id": "60f45202",
+      "text": "Pes etmeyin. Sadece birazcık şansa ihtiyacımız var!"
+    },
+    {
+      "id": "d88d7db2",
+      "bank_id": "60f45202",
+      "text": "Daha bitmedi bu çocuklar!"
+    },
+    {
+      "id": "e0362770",
+      "bank_id": "60f45202",
+      "text": "Al bakalım seni pireli kırma!"
+    },
+    {
+      "id": "e0362771",
+      "bank_id": "60f45202",
+      "text": "Üç bacakla koşmak nasıl olurmuş bir gör bakalım köpek!"
+    },
+    {
+      "id": "e0362773",
+      "bank_id": "60f45202",
+      "text": "Bir sonraki kuyruğunu koparacak!"
+    },
+    {
+      "id": "e56e64a3",
+      "bank_id": "60f45202",
+      "text": "İşi bitti çocuklar. İndirin şunun kepenklerini."
+    },
+    {
+      "id": "e56e64a8",
+      "bank_id": "60f45202",
+      "text": "İşi bitti çocuklar. İndirin şunun kepenklerini."
+    },
+    {
+      "id": "f002dda0",
+      "bank_id": "60f45202",
+      "text": "Buradan sağ çıkmak istiyorsak bundan daha iyisini yapmalıyız."
+    },
+    {
+      "id": "f002dda1",
+      "bank_id": "60f45202",
+      "text": "Kıçımıza tekmeyi basıyorlar."
+    },
+    {
+      "id": "f002dda2",
+      "bank_id": "60f45202",
+      "text": "Kenetlenin çocuklar. Yine de kazanacağız bunu."
+    },
+    {
+      "id": "f20e5592",
+      "bank_id": "60f45202",
+      "text": "Çiftçilik gibi güvenli bir iş seçmeliydin. Artık çok geç."
+    },
+    {
+      "id": "f20e5599",
+      "bank_id": "60f45202",
+      "text": "Bir avuç hayduta karşı bir kadın ha... Evinde otursaydın ya canım."
+    },
+    {
+      "id": "f880d4b0",
+      "bank_id": "60f45202",
+      "text": "Kazanacağımızı söylememiş miydim size?"
+    },
+    {
+      "id": "f880d4b2",
+      "bank_id": "60f45202",
+      "text": "Bize kaybetmenin utanılacak bir yanı yok."
+    },
+    {
+      "id": "f880d4b3",
+      "bank_id": "60f45202",
+      "text": "Hadi çocuklar. Bu gece biralar benden!"
+    },
+    {
+      "id": "f9ca1e18",
+      "bank_id": "60f45202",
+      "text": "Hadi oradan!"
+    },
+    {
+      "id": "f9ca1e1a",
+      "bank_id": "60f45202",
+      "text": "Acıttı değil mi?"
+    },
+    {
+      "id": "f9ca1e1b",
+      "bank_id": "60f45202",
+      "text": "Al bakalım!"
+    },
+    {
+      "id": "fb725e31",
+      "bank_id": "60f45202",
+      "text": "Gözlerini üzerimize diktiği güne lanet edecek."
+    },
+    {
+      "id": "fb725e3a",
+      "bank_id": "60f45202",
+      "text": "Gözlerini üzerimize diktiği güne lanet edecek."
+    }
+  ]
+}

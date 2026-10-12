@@ -1,0 +1,876 @@
+{
+  "bank_id": "e0b03602",
+  "total_strings": 174,
+  "strings": [
+    {
+      "id": "01cebb82",
+      "bank_id": "e0b03602",
+      "text": "Oakfield'e bir şans verin."
+    },
+    {
+      "id": "01cebb83",
+      "bank_id": "e0b03602",
+      "text": "Oakfield iyi bir tercih olur."
+    },
+    {
+      "id": "01cebb84",
+      "bank_id": "e0b03602",
+      "text": "Neden Oakfield'i denemiyorsun?"
+    },
+    {
+      "id": "01cebb85",
+      "bank_id": "e0b03602",
+      "text": "Oakfield'i dene."
+    },
+    {
+      "id": "01cebb87",
+      "bank_id": "e0b03602",
+      "text": "Oakfield'i denedin mi?"
+    },
+    {
+      "id": "03345414",
+      "bank_id": "e0b03602",
+      "text": "Kumarda bayağı bir altın kaybetti biliyorsun."
+    },
+    {
+      "id": "0334541f",
+      "bank_id": "e0b03602",
+      "text": "Kumarda bayağı bir altın kaybetti biliyorsun."
+    },
+    {
+      "id": "08cec688",
+      "bank_id": "e0b03602",
+      "text": "Oakfield'i denemeni öneririm."
+    },
+    {
+      "id": "08cec689",
+      "bank_id": "e0b03602",
+      "text": "Oakfield'i denemelisin."
+    },
+    {
+      "id": "08cec68a",
+      "bank_id": "e0b03602",
+      "text": "Neden Oakfield'e bir şans vermiyorsun?"
+    },
+    {
+      "id": "08cec68e",
+      "bank_id": "e0b03602",
+      "text": "Oakfield'i bir dene."
+    },
+    {
+      "id": "08cec68f",
+      "bank_id": "e0b03602",
+      "text": "Oakfield'e bir şans vermelisin."
+    },
+    {
+      "id": "0af734e4",
+      "bank_id": "e0b03602",
+      "text": "Kumar oynamayı zerre beceremiyor."
+    },
+    {
+      "id": "0af734ef",
+      "bank_id": "e0b03602",
+      "text": "Kumar oynamayı zerre beceremiyor."
+    },
+    {
+      "id": "0ee793aa",
+      "bank_id": "e0b03602",
+      "text": "Kumar oynamam lazım! Oynayabileceğimi söyle bana!"
+    },
+    {
+      "id": "0ee793ab",
+      "bank_id": "e0b03602",
+      "text": "Fena kumar oynayasım var. Bildiğin bir yer var mı?"
+    },
+    {
+      "id": "0ee793ac",
+      "bank_id": "e0b03602",
+      "text": "Bugün bütün birikimimi kumara yatırasım var. Ama nerede?"
+    },
+    {
+      "id": "0ee793ad",
+      "bank_id": "e0b03602",
+      "text": "Sanırım sonra şu meyhane oyunlarından birini oynayacağım. Buralarda bir yerde var, değil mi?"
+    },
+    {
+      "id": "0ee793ae",
+      "bank_id": "e0b03602",
+      "text": "Buralarda hiç kumar oyunu var mı biliyor musun?"
+    },
+    {
+      "id": "17e7a1f8",
+      "bank_id": "e0b03602",
+      "text": "Daha sonra bir meyhane oyununda bana katılsana?"
+    },
+    {
+      "id": "17e7a1f9",
+      "bank_id": "e0b03602",
+      "text": "Meyhanede büyük bir kumar gecesi planladım."
+    },
+    {
+      "id": "17e7a1fb",
+      "bank_id": "e0b03602",
+      "text": "Daha sonra birkaç oyun oynamak için hana gitmeyi planlıyorum."
+    },
+    {
+      "id": "17e7a1fe",
+      "bank_id": "e0b03602",
+      "text": "Paralarımı o kumar oyunu için biriktiriyordum."
+    },
+    {
+      "id": "17e7a1ff",
+      "bank_id": "e0b03602",
+      "text": "Bu kasabada bir meyhane oyunu varmış. Biliyor muydun? Ben daha yeni öğrendim."
+    },
+    {
+      "id": "1c5cce80",
+      "bank_id": "e0b03602",
+      "text": "Kumardan servet kazanıyor olmalı. Bu işte çok iyi."
+    },
+    {
+      "id": "1c5cce8b",
+      "bank_id": "e0b03602",
+      "text": "Kumardan servet kazanıyor olmalı. Bu işte çok iyi."
+    },
+    {
+      "id": "3cd54ac6",
+      "bank_id": "e0b03602",
+      "text": "Harika bir kumarbaz. Kazandıklarını duydun mu?"
+    },
+    {
+      "id": "3cd54acd",
+      "bank_id": "e0b03602",
+      "text": "Harika bir kumarbaz. Kazandıklarını duydun mu?"
+    },
+    {
+      "id": "41205008",
+      "bank_id": "e0b03602",
+      "text": "Hiç gitmedim ama ilginç bir yere benziyor."
+    },
+    {
+      "id": "4120500a",
+      "bank_id": "e0b03602",
+      "text": "Oraya bir kez gitmiştim ama çok uzun zaman önceydi."
+    },
+    {
+      "id": "4120500b",
+      "bank_id": "e0b03602",
+      "text": "Orasının nasıl bir yer olduğunu hep merak etmişimdir."
+    },
+    {
+      "id": "4120500c",
+      "bank_id": "e0b03602",
+      "text": "Hiç gitmedim. Gideceğimden de emin değilim."
+    },
+    {
+      "id": "4120500d",
+      "bank_id": "e0b03602",
+      "text": "Hani şu şeyin yaşadığı yer değil miydi orası? Biliyorsun ya, şu komik bacaklı olan?"
+    },
+    {
+      "id": "43203957",
+      "bank_id": "e0b03602",
+      "text": "Altınlarının çoğunu o oyunda kaybetmiş olmalı."
+    },
+    {
+      "id": "4320395c",
+      "bank_id": "e0b03602",
+      "text": "Altınlarının çoğunu o oyunda kaybetmiş olmalı."
+    },
+    {
+      "id": "4550e480",
+      "bank_id": "e0b03602",
+      "text": "Bower Gölü'ne gidin."
+    },
+    {
+      "id": "4550e481",
+      "bank_id": "e0b03602",
+      "text": "Bower Gölü'ne gitmelisin."
+    },
+    {
+      "id": "4550e484",
+      "bank_id": "e0b03602",
+      "text": "Bower Gölü'ne baktın mı?"
+    },
+    {
+      "id": "4550e486",
+      "bank_id": "e0b03602",
+      "text": "Bower Gölü'nü bir dene."
+    },
+    {
+      "id": "4550e487",
+      "bank_id": "e0b03602",
+      "text": "Bower Gölü'ndeki kamp muhtemelen başlamak için iyi bir yer."
+    },
+    {
+      "id": "46205829",
+      "bank_id": "e0b03602",
+      "text": "Geçen hafta oraya gidecektim. Ama sonra gitmedim. Maymun iştahlıyım işte."
+    },
+    {
+      "id": "4620582a",
+      "bank_id": "e0b03602",
+      "text": "Sen hiç gittin mi? Belki ben de bir gün uğrarım."
+    },
+    {
+      "id": "4620582b",
+      "bank_id": "e0b03602",
+      "text": "Orada yaşayan bir kuzenim var."
+    },
+    {
+      "id": "4620582c",
+      "bank_id": "e0b03602",
+      "text": "Evet, oranın nasıl bir yer olduğunu hep görmek istemişimdir."
+    },
+    {
+      "id": "4620582d",
+      "bank_id": "e0b03602",
+      "text": "Epeydir gitmedim. Çok değişti mi acaba?"
+    },
+    {
+      "id": "4646d526",
+      "bank_id": "e0b03602",
+      "text": "Keşke onun gibi kumar oynayabilseydim. Zengin olurdum."
+    },
+    {
+      "id": "4646d52d",
+      "bank_id": "e0b03602",
+      "text": "Keşke onun gibi kumar oynayabilseydim. Zengin olurdum."
+    },
+    {
+      "id": "4a50eca0",
+      "bank_id": "e0b03602",
+      "text": "Bower Gölü'nü denedin mi?"
+    },
+    {
+      "id": "4a50eca1",
+      "bank_id": "e0b03602",
+      "text": "Bower Gölü'nü dene."
+    },
+    {
+      "id": "4a50eca6",
+      "bank_id": "e0b03602",
+      "text": "En iyi yer Bower Gölü olmalı. Oradaki kampa git."
+    },
+    {
+      "id": "4a50eca7",
+      "bank_id": "e0b03602",
+      "text": "Bower Gölü'ne ne dersin?"
+    },
+    {
+      "id": "4ec1df62",
+      "bank_id": "e0b03602",
+      "text": "Berbat bir kumarbaz."
+    },
+    {
+      "id": "4ec1df69",
+      "bank_id": "e0b03602",
+      "text": "Berbat bir kumarbaz."
+    },
+    {
+      "id": "52149131",
+      "bank_id": "e0b03602",
+      "text": "Kumardan bir servet kazandı."
+    },
+    {
+      "id": "5214913a",
+      "bank_id": "e0b03602",
+      "text": "Kumardan bir servet kazandı."
+    },
+    {
+      "id": "66ad2551",
+      "bank_id": "e0b03602",
+      "text": "Yaman bir kumarbaz, benden söylemesi."
+    },
+    {
+      "id": "66ad255a",
+      "bank_id": "e0b03602",
+      "text": "Yaman bir kumarbaz, benden söylemesi."
+    },
+    {
+      "id": "6a8c6fa2",
+      "bank_id": "e0b03602",
+      "text": "Beni orada asla göremezsiniz. O yeri zerre kadar sevmem."
+    },
+    {
+      "id": "6a8c6fa3",
+      "bank_id": "e0b03602",
+      "text": "O yere hiç mi hiç ısınamadım."
+    },
+    {
+      "id": "6c7a69c4",
+      "bank_id": "e0b03602",
+      "text": "Ah, orası harikulade bir yer değil mi?"
+    },
+    {
+      "id": "6c7a69c5",
+      "bank_id": "e0b03602",
+      "text": "Ah, ara sıra oraya gitmekten pek keyif alırım."
+    },
+    {
+      "id": "6f8c7742",
+      "bank_id": "e0b03602",
+      "text": "O yerden fena halde haz etmem."
+    },
+    {
+      "id": "6f8c7743",
+      "bank_id": "e0b03602",
+      "text": "Daha az sevdiğim başka bir yer düşünemiyorum."
+    },
+    {
+      "id": "737a74c0",
+      "bank_id": "e0b03602",
+      "text": "Ah, tüm diyarda bundan daha güzel bir muhit bulamazsınız."
+    },
+    {
+      "id": "737a74c1",
+      "bank_id": "e0b03602",
+      "text": "Ah, evet, en sevdiğim yerlerden biridir."
+    },
+    {
+      "id": "78abe592",
+      "bank_id": "e0b03602",
+      "text": "Duyduğuma göre skorlarımı geçme tehlikesi hiç yok."
+    },
+    {
+      "id": "78abe599",
+      "bank_id": "e0b03602",
+      "text": "Duyduğuma göre skorlarımı geçme tehlikesi hiç yok."
+    },
+    {
+      "id": "78cf1976",
+      "bank_id": "e0b03602",
+      "text": "Onun kadar kötü oynayan birini hiç görmemiştim."
+    },
+    {
+      "id": "78cf197d",
+      "bank_id": "e0b03602",
+      "text": "Onun kadar kötü oynayan birini hiç görmemiştim."
+    },
+    {
+      "id": "806ec650",
+      "bank_id": "e0b03602",
+      "text": "Kumar oynamasını yasaklamalılar. Berbat oynuyor."
+    },
+    {
+      "id": "806ec65b",
+      "bank_id": "e0b03602",
+      "text": "Kumar oynamasını yasaklamalılar. Berbat oynuyor."
+    },
+    {
+      "id": "81bd7800",
+      "bank_id": "e0b03602",
+      "text": "Harika bir yer orası. Keşke şu an orada olsaydım."
+    },
+    {
+      "id": "81bd7801",
+      "bank_id": "e0b03602",
+      "text": "Ah, bayılırım oraya."
+    },
+    {
+      "id": "81bd7804",
+      "bank_id": "e0b03602",
+      "text": "Birkaç kez gittim. Güzel yer."
+    },
+    {
+      "id": "81bd7806",
+      "bank_id": "e0b03602",
+      "text": "Bütün Albion'da en sevdiğim yerlerden biridir."
+    },
+    {
+      "id": "81bd7807",
+      "bank_id": "e0b03602",
+      "text": "Ah, evet, orası çok hoştur."
+    },
+    {
+      "id": "82b8edc6",
+      "bank_id": "e0b03602",
+      "text": "Tarihin en berbat kumarbazı olmalı."
+    },
+    {
+      "id": "82b8edcd",
+      "bank_id": "e0b03602",
+      "text": "Tarihin en berbat kumarbazı olmalı."
+    },
+    {
+      "id": "838b74b1",
+      "bank_id": "e0b03602",
+      "text": "Buralarda oynayacak bildiğim hiçbir yer yok."
+    },
+    {
+      "id": "838b74b2",
+      "bank_id": "e0b03602",
+      "text": "Yakınlarda oynayacak bir yer olduğunu sanmıyorum."
+    },
+    {
+      "id": "838b74b3",
+      "bank_id": "e0b03602",
+      "text": "Yakınlarda hiç oyun yok. Kusura bakma."
+    },
+    {
+      "id": "838b74b4",
+      "bank_id": "e0b03602",
+      "text": "Buralara yakın bir oyun bilmiyorum."
+    },
+    {
+      "id": "838b74b5",
+      "bank_id": "e0b03602",
+      "text": "Buralarda oyun olduğunu sanmam."
+    },
+    {
+      "id": "86bd8020",
+      "bank_id": "e0b03602",
+      "text": "Oranın üstüne yer yok. Yeterince altın biriktirince oraya taşınmayı düşünüyorum."
+    },
+    {
+      "id": "86bd8021",
+      "bank_id": "e0b03602",
+      "text": "Ah, dünyadaki en harika yer."
+    },
+    {
+      "id": "86bd8025",
+      "bank_id": "e0b03602",
+      "text": "Ah, bayılıyorum oraya!"
+    },
+    {
+      "id": "86bd8026",
+      "bank_id": "e0b03602",
+      "text": "Albion'da en sevdiğim yerlerden biridir."
+    },
+    {
+      "id": "86bd8027",
+      "bank_id": "e0b03602",
+      "text": "Ah, oraya bayılıyorum."
+    },
+    {
+      "id": "87c504e7",
+      "bank_id": "e0b03602",
+      "text": "Daha önce onun gibi kumar oynayan birini görmemiştim. Ne yaptığını iyi biliyor."
+    },
+    {
+      "id": "87c504ec",
+      "bank_id": "e0b03602",
+      "text": "Daha önce onun gibi kumar oynayan birini görmemiştim. Ne yaptığını iyi biliyor."
+    },
+    {
+      "id": "89c6c6e0",
+      "bank_id": "e0b03602",
+      "text": "Geçen hafta Çarkıfelek Kutusu'nda bir servet kaybettim. Geri kazanmam gerek. Ama nerede oynayabilirim ki?"
+    },
+    {
+      "id": "89c6c6e1",
+      "bank_id": "e0b03602",
+      "text": "Tamamen şans işi olduğunu biliyorum ama yine de Çarkıfelek Kutusu oynamayı çok istiyorum. Nerede oynayabilirim?"
+    },
+    {
+      "id": "89c6c6e3",
+      "bank_id": "e0b03602",
+      "text": "Çarkıfelek Kutusu oynamak için ellerim titriyor."
+    },
+    {
+      "id": "89c6c6e6",
+      "bank_id": "e0b03602",
+      "text": "Acil paraya ihtiyacım var. Buralarda bildiğin Çarkıfelek Kutusu oyunu var mı?"
+    },
+    {
+      "id": "89c6c6e7",
+      "bank_id": "e0b03602",
+      "text": "Buralarda hiç Çarkıfelek Kutusu oyunu var mı?"
+    },
+    {
+      "id": "8e8b85e0",
+      "bank_id": "e0b03602",
+      "text": "Buralarda hiç meyhane oyunu olduğunu sanmıyorum."
+    },
+    {
+      "id": "8e8b85e2",
+      "bank_id": "e0b03602",
+      "text": "Oynayabileceğin bir yer bilmiyorum. Kusura bakma."
+    },
+    {
+      "id": "8e8b85e3",
+      "bank_id": "e0b03602",
+      "text": "Bu civarda bildiğim hiç meyhane oyunu yok."
+    },
+    {
+      "id": "8e8b85e4",
+      "bank_id": "e0b03602",
+      "text": "Buralarda hiç oyun olmadığına neredeyse eminim."
+    },
+    {
+      "id": "8e8b85e5",
+      "bank_id": "e0b03602",
+      "text": "Buralarda onu oynayabileceğin bir yer olduğunu sanmıyorum."
+    },
+    {
+      "id": "90c6d1e2",
+      "bank_id": "e0b03602",
+      "text": "Çarkıfelek Kutusu dozuma ihtiyacım var. Hemen şimdi."
+    },
+    {
+      "id": "90c6d1e3",
+      "bank_id": "e0b03602",
+      "text": "Bir sonraki Çarkıfelek Kutusu oyunum için sabırsızlanıyorum. Bunun için nereye gitmem gerektiğini biliyor musun?"
+    },
+    {
+      "id": "90c6d1e4",
+      "bank_id": "e0b03602",
+      "text": "Nerede Çarkıfelek Kutusu oynayabileceğimi biliyor musun?"
+    },
+    {
+      "id": "90c6d1e5",
+      "bank_id": "e0b03602",
+      "text": "Çarkıfelek Kutusu oynayabileceğim bir yer olmalı. Resmen bağımlısı oldum."
+    },
+    {
+      "id": "90c6d1e6",
+      "bank_id": "e0b03602",
+      "text": "Yeniden Çarkıfelek Kutusu oynamak için sabırsızlanıyorum."
+    },
+    {
+      "id": "9134fcc7",
+      "bank_id": "e0b03602",
+      "text": "Harika bir meyhane oyuncusu. Epey oyun kazandı."
+    },
+    {
+      "id": "9134fccc",
+      "bank_id": "e0b03602",
+      "text": "Harika bir meyhane oyuncusu. Epey oyun kazandı."
+    },
+    {
+      "id": "91aed8a0",
+      "bank_id": "e0b03602",
+      "text": "Az önce oynarken gördün mü onu? Doğuştan yetenekli."
+    },
+    {
+      "id": "91aed8ab",
+      "bank_id": "e0b03602",
+      "text": "Az önce oynarken gördün mü onu? Doğuştan yetenekli."
+    },
+    {
+      "id": "95c46548",
+      "bank_id": "e0b03602",
+      "text": "Orası gerçekten korkutucu bir yer."
+    },
+    {
+      "id": "95c46549",
+      "bank_id": "e0b03602",
+      "text": "Umarım oraya hiç ayak basmak zorunda kalmam. O kadar korkutucu bir yer ki."
+    },
+    {
+      "id": "9dfb1762",
+      "bank_id": "e0b03602",
+      "text": "Bence Westcliff tam aradığın yer."
+    },
+    {
+      "id": "9dfb1763",
+      "bank_id": "e0b03602",
+      "text": "Westcliff'e bir şans verin."
+    },
+    {
+      "id": "9dfb1764",
+      "bank_id": "e0b03602",
+      "text": "Westcliff'e bir şans vermelisin."
+    },
+    {
+      "id": "9dfb1765",
+      "bank_id": "e0b03602",
+      "text": "Bunun için muhtemelen Westcliff'e gitmelisin."
+    },
+    {
+      "id": "9dfb1767",
+      "bank_id": "e0b03602",
+      "text": "Westcliff'e ne dersin?"
+    },
+    {
+      "id": "9ec4739c",
+      "bank_id": "e0b03602",
+      "text": "O yerin düşüncesi bile beni dehşete düşürüyor."
+    },
+    {
+      "id": "9ec4739d",
+      "bank_id": "e0b03602",
+      "text": "Çok korkunç bir yer olduğu söyleniyor. Buna da kesinlikle inanırım."
+    },
+    {
+      "id": "a4c14542",
+      "bank_id": "e0b03602",
+      "text": "Kilit Taşı'nın resmen müptelası oldum. Nerede oynayabilirim?"
+    },
+    {
+      "id": "a4c14543",
+      "bank_id": "e0b03602",
+      "text": "Ah, bana biraz Kilit Taşı aksiyonu lazım."
+    },
+    {
+      "id": "a4c14544",
+      "bank_id": "e0b03602",
+      "text": "Nasıl oynandığını anladığımdan emin değilim ama Kilit Taşı'na fena tutuldum. Nerede bir el atabileceğimi biliyor musun?"
+    },
+    {
+      "id": "a4c14545",
+      "bank_id": "e0b03602",
+      "text": "Kilit Taşı oynamaya bayılıyorum. En yakın oyun nerede?"
+    },
+    {
+      "id": "a4c14547",
+      "bank_id": "e0b03602",
+      "text": "Canım fena halde bir el Kilit Taşı çekiyor."
+    },
+    {
+      "id": "a4fb2268",
+      "bank_id": "e0b03602",
+      "text": "Westcliff denemek için iyi bir yer."
+    },
+    {
+      "id": "a4fb2269",
+      "bank_id": "e0b03602",
+      "text": "Westcliff'e ne dersin? Tam aradığın yer olabileceğini duydum."
+    },
+    {
+      "id": "a4fb226a",
+      "bank_id": "e0b03602",
+      "text": "Westcliff bunun için genelde iyi bir yerdir."
+    },
+    {
+      "id": "a4fb226e",
+      "bank_id": "e0b03602",
+      "text": "Neden Westcliff'e gitmeyesin ki?"
+    },
+    {
+      "id": "a4fb226f",
+      "bank_id": "e0b03602",
+      "text": "Westcliff'i dene."
+    },
+    {
+      "id": "aba47840",
+      "bank_id": "e0b03602",
+      "text": "Oradan nefret ediyorum."
+    },
+    {
+      "id": "aba47841",
+      "bank_id": "e0b03602",
+      "text": "Öff. O yerden gerçekten nefret ediyorum."
+    },
+    {
+      "id": "aba47842",
+      "bank_id": "e0b03602",
+      "text": "Oradan nefret ediyorum."
+    },
+    {
+      "id": "aba47846",
+      "bank_id": "e0b03602",
+      "text": "Çöp bir yer orası."
+    },
+    {
+      "id": "aba47847",
+      "bank_id": "e0b03602",
+      "text": "Albion'da oradan daha berbat bir yer yoktur."
+    },
+    {
+      "id": "abc15048",
+      "bank_id": "e0b03602",
+      "text": "Kilit Taşı oynamayı bırakamıyorum. Biraz daha nerede oynayabileceğimi biliyor musun?"
+    },
+    {
+      "id": "abc15049",
+      "bank_id": "e0b03602",
+      "text": "En son Kilit Taşı oynadığımda başım ağrımıştı. Yine de tekrar oynamak istiyorum. Sadece nerede oynayacağımı bilmiyorum."
+    },
+    {
+      "id": "abc1504a",
+      "bank_id": "e0b03602",
+      "text": "Geçen sefer bütün birikimimi kaybettiğimi biliyorum ama yine de Kilit Taşı oynamak istiyorum."
+    },
+    {
+      "id": "abc1504e",
+      "bank_id": "e0b03602",
+      "text": "Canım fena halde bir el Kilit Taşı istiyor. Nerede bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "abc1504f",
+      "bank_id": "e0b03602",
+      "text": "Tekrar Kilit Taşı oynamak için sabırsızlanıyorum. Ama nerede?"
+    },
+    {
+      "id": "b4a486aa",
+      "bank_id": "e0b03602",
+      "text": "Orada ölmüş olsam bile o yerden bundan daha fazla nefret edemezdim."
+    },
+    {
+      "id": "b4a486ab",
+      "bank_id": "e0b03602",
+      "text": "O yerden ne kadar nefret ettiğimi anlatamam."
+    },
+    {
+      "id": "b4a486ac",
+      "bank_id": "e0b03602",
+      "text": "Oraya bir kez gittim. Hayatımın en berbat deneyimiydi."
+    },
+    {
+      "id": "b4a486ad",
+      "bank_id": "e0b03602",
+      "text": "Albion'daki en korkunç yer orası olmalı."
+    },
+    {
+      "id": "b4a486af",
+      "bank_id": "e0b03602",
+      "text": "O yere hiç dayanamıyorum."
+    },
+    {
+      "id": "c206b2a0",
+      "bank_id": "e0b03602",
+      "text": "Evet, tam burada, kasabada oynayabilirsin."
+    },
+    {
+      "id": "c206b2a1",
+      "bank_id": "e0b03602",
+      "text": "Buralarda oynayabileceğine neredeyse eminim."
+    },
+    {
+      "id": "c206b2a4",
+      "bank_id": "e0b03602",
+      "text": "Bu kasabada harika meyhane oyunları var."
+    },
+    {
+      "id": "c206b2a6",
+      "bank_id": "e0b03602",
+      "text": "Şansına bak ki tam burada, kasabada oynayabilirsin."
+    },
+    {
+      "id": "c206b2a7",
+      "bank_id": "e0b03602",
+      "text": "Onu tam burada, kasabada oynayabilirsin."
+    },
+    {
+      "id": "c706ba40",
+      "bank_id": "e0b03602",
+      "text": "Tam bu kasabada meyhane oyunları var."
+    },
+    {
+      "id": "c706ba41",
+      "bank_id": "e0b03602",
+      "text": "Burada, kasabada bir oyun bulabileceğine neredeyse eminim."
+    },
+    {
+      "id": "c706ba45",
+      "bank_id": "e0b03602",
+      "text": "Yakınlarda bazı oyunlar var."
+    },
+    {
+      "id": "c706ba46",
+      "bank_id": "e0b03602",
+      "text": "O oyun tam bu kasabada var."
+    },
+    {
+      "id": "c706ba47",
+      "bank_id": "e0b03602",
+      "text": "Burada, kasabada bir oyun var."
+    },
+    {
+      "id": "c75db956",
+      "bank_id": "e0b03602",
+      "text": "Ondan daha iyi bir kumarbaz görmedim."
+    },
+    {
+      "id": "c75db95d",
+      "bank_id": "e0b03602",
+      "text": "Ondan daha iyi bir kumarbaz görmedim."
+    },
+    {
+      "id": "c8697997",
+      "bank_id": "e0b03602",
+      "text": "Hayatımda gördüğüm en kötü oyuncu."
+    },
+    {
+      "id": "c869799c",
+      "bank_id": "e0b03602",
+      "text": "Hayatımda gördüğüm en kötü oyuncu."
+    },
+    {
+      "id": "ce467810",
+      "bank_id": "e0b03602",
+      "text": "Tarihin en berbat kumarbazı."
+    },
+    {
+      "id": "ce46781b",
+      "bank_id": "e0b03602",
+      "text": "Tarihin en berbat kumarbazı."
+    },
+    {
+      "id": "d0cf43b6",
+      "bank_id": "e0b03602",
+      "text": "Oyun ustasını yerle bir etmiş diyorlar. Bayağı da para kazanmış."
+    },
+    {
+      "id": "eb0fc8e0",
+      "bank_id": "e0b03602",
+      "text": "Beni orayı ziyaret ederken göremezsin. Çok korkunç..."
+    },
+    {
+      "id": "eb0fc8e1",
+      "bank_id": "e0b03602",
+      "text": "O yerin adını duymak bile tüylerimi ürpertiyor."
+    },
+    {
+      "id": "eb0fc8e2",
+      "bank_id": "e0b03602",
+      "text": "Bana sorarsan Albion'daki en korkunç yerlerden biri."
+    },
+    {
+      "id": "eb0fc8e6",
+      "bank_id": "e0b03602",
+      "text": "Orası çok korkutucu. Bir daha asla dönmem."
+    },
+    {
+      "id": "eb0fc8e7",
+      "bank_id": "e0b03602",
+      "text": "Cehennem gibi korkunç bir yer orası."
+    },
+    {
+      "id": "eb4eb050",
+      "bank_id": "e0b03602",
+      "text": "Hmm, orayı hiç ziyaret ettiğimi sanmıyorum."
+    },
+    {
+      "id": "eb4eb051",
+      "bank_id": "e0b03602",
+      "text": "Hizmetkârlarımdan birinin oralı olduğunu sanıyorum."
+    },
+    {
+      "id": "f24ebb5c",
+      "bank_id": "e0b03602",
+      "text": "Bu sefil dünyadaki diğer yerlerden ne daha iyi ne de daha kötü."
+    },
+    {
+      "id": "f24ebb5d",
+      "bank_id": "e0b03602",
+      "text": "Tipik bir Albion bölgesi, öyle değil mi?"
+    },
+    {
+      "id": "f40fd6ca",
+      "bank_id": "e0b03602",
+      "text": "Bayağı korkutucu bir yer orası."
+    },
+    {
+      "id": "f40fd6cb",
+      "bank_id": "e0b03602",
+      "text": "Bana sorarsan fena halde korkutucu bir yer."
+    },
+    {
+      "id": "f40fd6cc",
+      "bank_id": "e0b03602",
+      "text": "Beni oraya giderken göremezsin. Ürkütücü bir yer."
+    },
+    {
+      "id": "f40fd6cd",
+      "bank_id": "e0b03602",
+      "text": "O kadar korkunç bir yer ki. Umarım oraya hiç gitmek zorunda kalmam."
+    },
+    {
+      "id": "f40fd6cf",
+      "bank_id": "e0b03602",
+      "text": "Orası benim için fazlasıyla korkutucu."
+    }
+  ]
+}

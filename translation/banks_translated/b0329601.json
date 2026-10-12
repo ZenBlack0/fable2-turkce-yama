@@ -1,0 +1,956 @@
+{
+  "bank_id": "b0329601",
+  "total_strings": 190,
+  "strings": [
+    {
+      "id": "064d16e7",
+      "bank_id": "b0329601",
+      "text": "Ondan fena halde etkilendim."
+    },
+    {
+      "id": "064d16ec",
+      "bank_id": "b0329601",
+      "text": "Bir kadın bu kadar güzel olamaz, kesinlikle olamaz."
+    },
+    {
+      "id": "0918db20",
+      "bank_id": "b0329601",
+      "text": "Annemle tanıştın mı? Gerçekten çok korkutucudur."
+    },
+    {
+      "id": "0918db2b",
+      "bank_id": "b0329601",
+      "text": "Babamla tanıştın mı? Gerçekten çok korkutucudur."
+    },
+    {
+      "id": "0ad661d7",
+      "bank_id": "b0329601",
+      "text": "Ömrümde böyle bir güzellik görmedim."
+    },
+    {
+      "id": "0ad661dc",
+      "bank_id": "b0329601",
+      "text": "İstediği her kadını elde edebilir."
+    },
+    {
+      "id": "0c2a1560",
+      "bank_id": "b0329601",
+      "text": "Oldukça göz kamaştırıcı, sence de öyle değil mi?"
+    },
+    {
+      "id": "0c2a156b",
+      "bank_id": "b0329601",
+      "text": "Tek kelimeyle büyüleyici."
+    },
+    {
+      "id": "100eea25",
+      "bank_id": "b0329601",
+      "text": "Ha, annemden daha komik biri yoktur!"
+    },
+    {
+      "id": "100eea2e",
+      "bank_id": "b0329601",
+      "text": "Ha, babamdan daha komik biri yoktur!"
+    },
+    {
+      "id": "17fc5137",
+      "bank_id": "b0329601",
+      "text": "Gülmekten kırılmak istiyorsan annemle konuşmalısın."
+    },
+    {
+      "id": "17fc513c",
+      "bank_id": "b0329601",
+      "text": "Gülmekten kırılmak istiyorsan babamla konuşmalısın."
+    },
+    {
+      "id": "19342145",
+      "bank_id": "b0329601",
+      "text": "O kadından daha beter birini görmemişsindir."
+    },
+    {
+      "id": "1934214e",
+      "bank_id": "b0329601",
+      "text": "O adamdan daha beter birini görmemişsindir."
+    },
+    {
+      "id": "30ea3bf5",
+      "bank_id": "b0329601",
+      "text": "Ne aşağılık bir kadın."
+    },
+    {
+      "id": "30ea3bfe",
+      "bank_id": "b0329601",
+      "text": "Ne aşağılık bir adam."
+    },
+    {
+      "id": "345af826",
+      "bank_id": "b0329601",
+      "text": "Annem harika biri, biliyor musun? Görevlere çıkıyor ve bana hediyeler getiriyor!"
+    },
+    {
+      "id": "345af82d",
+      "bank_id": "b0329601",
+      "text": "Babam harika biri, biliyor musun? Görevlere çıkıyor ve bana hediyeler getiriyor!"
+    },
+    {
+      "id": "349b7d36",
+      "bank_id": "b0329601",
+      "text": "Keşke onun gibi güzel olsaydım."
+    },
+    {
+      "id": "349b7d3d",
+      "bank_id": "b0329601",
+      "text": "Bence çok sevimli."
+    },
+    {
+      "id": "3e145791",
+      "bank_id": "b0329601",
+      "text": "Böyle görünmek için ne kadar para harcamış acaba?"
+    },
+    {
+      "id": "3e14579a",
+      "bank_id": "b0329601",
+      "text": "Gözlerimi ondan alamıyorum."
+    },
+    {
+      "id": "408541f6",
+      "bank_id": "b0329601",
+      "text": "Gerçekten çok etkileyici."
+    },
+    {
+      "id": "408541fd",
+      "bank_id": "b0329601",
+      "text": "Ne kadın ama!"
+    },
+    {
+      "id": "41da8816",
+      "bank_id": "b0329601",
+      "text": "Rüya gibi değil mi?"
+    },
+    {
+      "id": "41da881d",
+      "bank_id": "b0329601",
+      "text": "Çok yakışıklı."
+    },
+    {
+      "id": "444cea12",
+      "bank_id": "b0329601",
+      "text": "Tüylerimi ürpertiyor. İliklerine kadar kötü."
+    },
+    {
+      "id": "444cea19",
+      "bank_id": "b0329601",
+      "text": "Tüylerimi ürpertiyor. İliklerine kadar kötü."
+    },
+    {
+      "id": "46d2edf7",
+      "bank_id": "b0329601",
+      "text": "Babam her türlü canavarla dövüşür."
+    },
+    {
+      "id": "46d2edfc",
+      "bank_id": "b0329601",
+      "text": "Annem her türlü canavarla dövüşür."
+    },
+    {
+      "id": "4a901ae4",
+      "bank_id": "b0329601",
+      "text": "Benim annem seninkinden kat kat daha ünlü bir kere."
+    },
+    {
+      "id": "4a901aef",
+      "bank_id": "b0329601",
+      "text": "Benim babam seninkinden kat kat daha ünlü bir kere."
+    },
+    {
+      "id": "4a9fc942",
+      "bank_id": "b0329601",
+      "text": "Babam o kadar ünlü ki herkes adını biliyor!"
+    },
+    {
+      "id": "4a9fc949",
+      "bank_id": "b0329601",
+      "text": "Annem o kadar ünlü ki herkes adını biliyor!"
+    },
+    {
+      "id": "4dc16181",
+      "bank_id": "b0329601",
+      "text": "Annem dünyanın en korkunç kadını!"
+    },
+    {
+      "id": "4dc1618a",
+      "bank_id": "b0329601",
+      "text": "Babam dünyanın en korkunç Kahramanı!"
+    },
+    {
+      "id": "504b4d81",
+      "bank_id": "b0329601",
+      "text": "Seni yerim ben!"
+    },
+    {
+      "id": "504b4d82",
+      "bank_id": "b0329601",
+      "text": "Gel bakalım öyleyse!"
+    },
+    {
+      "id": "504b4d83",
+      "bank_id": "b0329601",
+      "text": "Sana hayatının dayağını atacağım!"
+    },
+    {
+      "id": "504b4d84",
+      "bank_id": "b0329601",
+      "text": "Suratını parça pinçik edeceğim!"
+    },
+    {
+      "id": "504b4d85",
+      "bank_id": "b0329601",
+      "text": "Kafanı patlatmamı ister misin ha?"
+    },
+    {
+      "id": "504b4d86",
+      "bank_id": "b0329601",
+      "text": "Tırnaklarımı gözlerine öyle bir sokarım ki ömrün boyunca et parçası görürsün!"
+    },
+    {
+      "id": "504b4d87",
+      "bank_id": "b0329601",
+      "text": "Hadi gel! Nadir elmas koleksiyonumla seni lime lime edeceğim!"
+    },
+    {
+      "id": "514d4125",
+      "bank_id": "b0329601",
+      "text": "Babam en komik fıkraları anlatır."
+    },
+    {
+      "id": "514d412e",
+      "bank_id": "b0329601",
+      "text": "Annem en komik fıkraları anlatır."
+    },
+    {
+      "id": "533b2692",
+      "bank_id": "b0329601",
+      "text": "Keşke annelerimizi değiş tokuş edebilseydik, benimkinden gına geldi artık."
+    },
+    {
+      "id": "533b2699",
+      "bank_id": "b0329601",
+      "text": "Keşke babalarımızı değiş tokuş edebilseydik, benimkinden gına geldi artık."
+    },
+    {
+      "id": "53e64e76",
+      "bank_id": "b0329601",
+      "text": "Asil bir kandan geliyor olmalı."
+    },
+    {
+      "id": "53e64e7d",
+      "bank_id": "b0329601",
+      "text": "Eski çağın usta ressamları bile onun güzelliğini tasvir edemezdi."
+    },
+    {
+      "id": "53e98321",
+      "bank_id": "b0329601",
+      "text": "Benim gibilerin yüzüne dönüp bakmaz bile."
+    },
+    {
+      "id": "53e9832a",
+      "bank_id": "b0329601",
+      "text": "Onda özel bir şeyler var. Belli oluyor."
+    },
+    {
+      "id": "553d36b1",
+      "bank_id": "b0329601",
+      "text": "Şu pazulara bir bak. Aman tanrım."
+    },
+    {
+      "id": "553d36ba",
+      "bank_id": "b0329601",
+      "text": "Resim gibi güzel, değil mi?"
+    },
+    {
+      "id": "5b4b5f30",
+      "bank_id": "b0329601",
+      "text": "Hakkından gelemem mi sandın? Bir daha düşün!"
+    },
+    {
+      "id": "5b4b5f32",
+      "bank_id": "b0329601",
+      "text": "Sıkıysa gel!"
+    },
+    {
+      "id": "5b4b5f33",
+      "bank_id": "b0329601",
+      "text": "Sana gününü göstereceğim!"
+    },
+    {
+      "id": "5b4b5f34",
+      "bank_id": "b0329601",
+      "text": "Suratını dağıtıp baştan yapacağım!"
+    },
+    {
+      "id": "5b4b5f35",
+      "bank_id": "b0329601",
+      "text": "Canın sağlam bir dayak istiyor galiba, öyle mi?"
+    },
+    {
+      "id": "5b4b5f36",
+      "bank_id": "b0329601",
+      "text": "Dövüşmek mi istiyorsun? O zaman dövüşelim!"
+    },
+    {
+      "id": "5b4b5f37",
+      "bank_id": "b0329601",
+      "text": "Canını milim milim alacağım!"
+    },
+    {
+      "id": "5b721355",
+      "bank_id": "b0329601",
+      "text": "Dünya onun kötülüğü olmadan çok daha güzel bir yer olurdu."
+    },
+    {
+      "id": "5b72135e",
+      "bank_id": "b0329601",
+      "text": "Dünya onun kötülüğü olmadan çok daha güzel bir yer olurdu."
+    },
+    {
+      "id": "5bc47583",
+      "bank_id": "b0329601",
+      "text": "Bence çok sevimli."
+    },
+    {
+      "id": "5bc47588",
+      "bank_id": "b0329601",
+      "text": "Erkekler onun gibi görünmek için canını verirdi."
+    },
+    {
+      "id": "5d27fea0",
+      "bank_id": "b0329601",
+      "text": "Görelim bakalım neyin varmış."
+    },
+    {
+      "id": "5d27fea1",
+      "bank_id": "b0329601",
+      "text": "Senden korktuğum yok."
+    },
+    {
+      "id": "5d27fea2",
+      "bank_id": "b0329601",
+      "text": "O zaman dövüşeceğiz!"
+    },
+    {
+      "id": "5d27fea3",
+      "bank_id": "b0329601",
+      "text": "Kendimi savunmayı iyi bilirim, haberin olsun."
+    },
+    {
+      "id": "5d27fea4",
+      "bank_id": "b0329601",
+      "text": "Sıkıysa gel!"
+    },
+    {
+      "id": "5d27fea6",
+      "bank_id": "b0329601",
+      "text": "Kan istiyorsan, al sana kan."
+    },
+    {
+      "id": "5d27fea7",
+      "bank_id": "b0329601",
+      "text": "Beni yenebileceğini mi sanıyorsun? Göreceğiz!"
+    },
+    {
+      "id": "5dd022c6",
+      "bank_id": "b0329601",
+      "text": "Dünyamızda böyle bir güzelliğin var olabileceğini hayal bile edemezdim."
+    },
+    {
+      "id": "5dd022cd",
+      "bank_id": "b0329601",
+      "text": "Çok yakışıklı bir Kahraman."
+    },
+    {
+      "id": "62280640",
+      "bank_id": "b0329601",
+      "text": "Hadi yapalım şu işi o zaman."
+    },
+    {
+      "id": "62280641",
+      "bank_id": "b0329601",
+      "text": "Dövüş hareketleri bunlar."
+    },
+    {
+      "id": "62280642",
+      "bank_id": "b0329601",
+      "text": "Kulaklarını kafandan sökene kadar yumruklayacağım seni."
+    },
+    {
+      "id": "62280643",
+      "bank_id": "b0329601",
+      "text": "Onurum beni buna mecbur kılıyor. Dövüşelim!"
+    },
+    {
+      "id": "62280645",
+      "bank_id": "b0329601",
+      "text": "Kendini çok sert sanıyorsun, değil mi? Hadi gel!"
+    },
+    {
+      "id": "62280646",
+      "bank_id": "b0329601",
+      "text": "Demek kavga istiyorsun ha? Pekala o zaman!"
+    },
+    {
+      "id": "62280647",
+      "bank_id": "b0329601",
+      "text": "Sana iyi bir ders vereceğim."
+    },
+    {
+      "id": "63847714",
+      "bank_id": "b0329601",
+      "text": "Onun kadar taş kalpli ve alenen kötü biri yoktur."
+    },
+    {
+      "id": "6384771f",
+      "bank_id": "b0329601",
+      "text": "Onun kadar taş kalpli ve alenen kötü biri yoktur."
+    },
+    {
+      "id": "674a8fa1",
+      "bank_id": "b0329601",
+      "text": "Hayatımda gördüğüm en güzel kadın."
+    },
+    {
+      "id": "674a8faa",
+      "bank_id": "b0329601",
+      "text": "Şu yakışıklı Kahramanlardan nefret etmiyor musunuz? Bize dönüp bakan bile yok."
+    },
+    {
+      "id": "6b4757e4",
+      "bank_id": "b0329601",
+      "text": "Ondan daha kötü niyetli biri asla görülmedi."
+    },
+    {
+      "id": "6b4757ef",
+      "bank_id": "b0329601",
+      "text": "Ondan daha kötü niyetli biri asla görülmedi."
+    },
+    {
+      "id": "6bf54242",
+      "bank_id": "b0329601",
+      "text": "Herkes annemin kim olduğunu bilir. Çok ünlüdür."
+    },
+    {
+      "id": "6bf54249",
+      "bank_id": "b0329601",
+      "text": "Herkes babamın kim olduğunu bilir. Çok ünlüdür."
+    },
+    {
+      "id": "79fd5dc4",
+      "bank_id": "b0329601",
+      "text": "İçi öyle büyük bir nefretle dolu ki."
+    },
+    {
+      "id": "79fd5dcf",
+      "bank_id": "b0329601",
+      "text": "İçi öyle büyük bir nefretle dolu ki."
+    },
+    {
+      "id": "80290800",
+      "bank_id": "b0329601",
+      "text": "Model filan olmadığından emin misin?"
+    },
+    {
+      "id": "8029080b",
+      "bank_id": "b0329601",
+      "text": "Bekâr mı dedin? Beni ilgilendirdiğinden değil de..."
+    },
+    {
+      "id": "8d3e2313",
+      "bank_id": "b0329601",
+      "text": "Son zamanlarda babama ne oluyor bilmiyorum ama keşke yine çekip gitse."
+    },
+    {
+      "id": "8d3e2318",
+      "bank_id": "b0329601",
+      "text": "Son zamanlarda anneme ne oluyor bilmiyorum ama keşke yine çekip gitse."
+    },
+    {
+      "id": "8eabb233",
+      "bank_id": "b0329601",
+      "text": "Katıksız kötülükle dolu bir kalbi var."
+    },
+    {
+      "id": "8eabb238",
+      "bank_id": "b0329601",
+      "text": "Katıksız kötülükle dolu bir kalbi var."
+    },
+    {
+      "id": "901fa217",
+      "bank_id": "b0329601",
+      "text": "Tüm kadınların peşinden koştuğuna eminim."
+    },
+    {
+      "id": "901fa21c",
+      "bank_id": "b0329601",
+      "text": "Onunkisi gibi bir yüzü ancak rüyalarda gördüm."
+    },
+    {
+      "id": "95fca090",
+      "bank_id": "b0329601",
+      "text": "Tek kelimeyle ışıl ışıl!"
+    },
+    {
+      "id": "95fca09b",
+      "bank_id": "b0329601",
+      "text": "İyi soydan geliyor."
+    },
+    {
+      "id": "a0decd37",
+      "bank_id": "b0329601",
+      "text": "Annem bir sürü göreve çıktı, şimdi de çok ünlü oldu."
+    },
+    {
+      "id": "a0decd3c",
+      "bank_id": "b0329601",
+      "text": "Babam bir sürü göreve çıktı, şimdi de çok ünlü oldu."
+    },
+    {
+      "id": "a380ae97",
+      "bank_id": "b0329601",
+      "text": "Kahraman olduğu her halinden belli."
+    },
+    {
+      "id": "a380ae9c",
+      "bank_id": "b0329601",
+      "text": "Sence onunla bir şansım olur mu?"
+    },
+    {
+      "id": "a48534a3",
+      "bank_id": "b0329601",
+      "text": "Gölgesi bile kötü. Brrrr!"
+    },
+    {
+      "id": "a48534a8",
+      "bank_id": "b0329601",
+      "text": "Gölgesi bile kötü. Brrrr!"
+    },
+    {
+      "id": "a5511233",
+      "bank_id": "b0329601",
+      "text": "Bana bulaşmasan iyi edersin, yoksa annem hakkından gelir."
+    },
+    {
+      "id": "a5511238",
+      "bank_id": "b0329601",
+      "text": "Bana bulaşmasan iyi edersin, yoksa babam hakkından gelir."
+    },
+    {
+      "id": "a95dad10",
+      "bank_id": "b0329601",
+      "text": "Büyüleyici, sence de öyle değil mi?"
+    },
+    {
+      "id": "a95dad1b",
+      "bank_id": "b0329601",
+      "text": "Eh, sanırım yakışıklı sayılır."
+    },
+    {
+      "id": "a9ba2f63",
+      "bank_id": "b0329601",
+      "text": "Neden bu kadar kötü biri ki?"
+    },
+    {
+      "id": "a9ba2f68",
+      "bank_id": "b0329601",
+      "text": "Neden bu kadar kötü biri ki?"
+    },
+    {
+      "id": "aa130ea6",
+      "bank_id": "b0329601",
+      "text": "Gerçekten oldukça yakışıklı."
+    },
+    {
+      "id": "aa130ead",
+      "bank_id": "b0329601",
+      "text": "Bu kadar güzel görünmek için kesinlikle bıçak altına yatmış."
+    },
+    {
+      "id": "ad9c3533",
+      "bank_id": "b0329601",
+      "text": "Babam harikadır. Senin babandan kat kat daha iyidir."
+    },
+    {
+      "id": "ad9c3538",
+      "bank_id": "b0329601",
+      "text": "Annem harikadır. Senin annenden kat kat daha iyidir."
+    },
+    {
+      "id": "be8c0812",
+      "bank_id": "b0329601",
+      "text": "Evden ayrılacak yaşa geleceğim günü iple çekiyorum. Babam beni delirtiyor."
+    },
+    {
+      "id": "be8c0819",
+      "bank_id": "b0329601",
+      "text": "Evden ayrılacak yaşa geleceğim günü iple çekiyorum. Annem beni delirtiyor."
+    },
+    {
+      "id": "bfad9f06",
+      "bank_id": "b0329601",
+      "text": "Babam öyle müthiş ki, kahraman filan gibi yani."
+    },
+    {
+      "id": "bfad9f0d",
+      "bank_id": "b0329601",
+      "text": "Annem öyle müthiş ki, kahraman filan gibi yani."
+    },
+    {
+      "id": "c1ad9ee4",
+      "bank_id": "b0329601",
+      "text": "Annem evdeyken hep güleriz."
+    },
+    {
+      "id": "c1ad9eef",
+      "bank_id": "b0329601",
+      "text": "Babam evdeyken hep güleriz."
+    },
+    {
+      "id": "c42dae36",
+      "bank_id": "b0329601",
+      "text": "Babam kılıç, balta, tatar yayı, büyü ve başka şeyler de kullanabilir."
+    },
+    {
+      "id": "c42dae3d",
+      "bank_id": "b0329601",
+      "text": "Annem kılıç, balta, tatar yayı, büyü ve başka şeyler de kullanabilir."
+    },
+    {
+      "id": "c5816256",
+      "bank_id": "b0329601",
+      "text": "Evet, annem bir maceracı. Bir gün beni de yanına alıp göreve çıkacak."
+    },
+    {
+      "id": "c581625d",
+      "bank_id": "b0329601",
+      "text": "Evet, babam bir maceracı. Bir gün beni de yanına alıp göreve çıkacak."
+    },
+    {
+      "id": "c597c765",
+      "bank_id": "b0329601",
+      "text": "Keyif için insanlara işkence ediyormuş diye duydum."
+    },
+    {
+      "id": "c597c76e",
+      "bank_id": "b0329601",
+      "text": "Keyif için insanlara işkence ediyormuş diye duydum."
+    },
+    {
+      "id": "ca16f7f1",
+      "bank_id": "b0329601",
+      "text": "Gördüğüm en güzel kadın..."
+    },
+    {
+      "id": "ca16f7fa",
+      "bank_id": "b0329601",
+      "text": "İşte erkek dediğin böyle olur."
+    },
+    {
+      "id": "ca795ed1",
+      "bank_id": "b0329601",
+      "text": "İştah kabartıcı bir numune."
+    },
+    {
+      "id": "ca795eda",
+      "bank_id": "b0329601",
+      "text": "Savaş boyası olmadan nasıl göründüğünü merak ediyorum."
+    },
+    {
+      "id": "cfc1d5a3",
+      "bank_id": "b0329601",
+      "text": "Gerçekten çok güzel."
+    },
+    {
+      "id": "cfc1d5a8",
+      "bank_id": "b0329601",
+      "text": "Rüya gibi değil mi?"
+    },
+    {
+      "id": "cff421c7",
+      "bank_id": "b0329601",
+      "text": "İşte tüm Albion'un en karanlık ruhu geçiyor."
+    },
+    {
+      "id": "d60592b0",
+      "bank_id": "b0329601",
+      "text": "Peh, babamla yaşamak zorunda olmadığın için şanslısın. Tam bir baş belası."
+    },
+    {
+      "id": "d60592bb",
+      "bank_id": "b0329601",
+      "text": "Peh, annemle yaşamak zorunda olmadığın için şanslısın. Tam bir baş belası."
+    },
+    {
+      "id": "d8fc0892",
+      "bank_id": "b0329601",
+      "text": "Albion'daki en kötü insan olabilir."
+    },
+    {
+      "id": "d8fc0899",
+      "bank_id": "b0329601",
+      "text": "Albion'daki en kötü insan olabilir."
+    },
+    {
+      "id": "de71f1a1",
+      "bank_id": "b0329601",
+      "text": "Oldukça yakışıklı, kabul ediyorum."
+    },
+    {
+      "id": "de71f1aa",
+      "bank_id": "b0329601",
+      "text": "Tam bir afet doğrusu."
+    },
+    {
+      "id": "e0bee950",
+      "bank_id": "b0329601",
+      "text": "Tek bir adamda bu kadar çok kötülüğün barınabileceğini hiç bilmezdim."
+    },
+    {
+      "id": "e0bee95b",
+      "bank_id": "b0329601",
+      "text": "Tek bir kadında bu kadar çok kötülüğün barınabileceğini hiç bilmezdim."
+    },
+    {
+      "id": "e2f6fce1",
+      "bank_id": "b0329601",
+      "text": "Babam dünyanın en korkunç kahramanı!"
+    },
+    {
+      "id": "e2f6fcea",
+      "bank_id": "b0329601",
+      "text": "Annem dünyanın en korkunç kadını!"
+    },
+    {
+      "id": "e4f79df3",
+      "bank_id": "b0329601",
+      "text": "Böyle bir kadın için her şeyi yapardım."
+    },
+    {
+      "id": "e4f79df8",
+      "bank_id": "b0329601",
+      "text": "Bana kalırsa tam bir erkek."
+    },
+    {
+      "id": "f007358b",
+      "bank_id": "b0329601",
+      "text": "Gerçekten çok kötü, değil mi?"
+    },
+    {
+      "id": "f1d2fe21",
+      "bank_id": "b0329601",
+      "text": "Fena değil. Bir erkeğe göre yani."
+    },
+    {
+      "id": "f1d2fe2a",
+      "bank_id": "b0329601",
+      "text": "Vay canına! Görevime dilediği gün talip olabilir."
+    },
+    {
+      "id": "f5013647",
+      "bank_id": "b0329601",
+      "text": "Peh, eminim yüzünde üç ton makyaj vardır."
+    },
+    {
+      "id": "f501364c",
+      "bank_id": "b0329601",
+      "text": "Taş gibi delikanlı ha! Gel annene!"
+    },
+    {
+      "id": "f634a274",
+      "bank_id": "b0329601",
+      "text": "Babam harika bir maceraya çıktı ve bir canavar öldürdü. Hem de kocaman."
+    },
+    {
+      "id": "f634a27f",
+      "bank_id": "b0329601",
+      "text": "Annem harika bir maceraya çıktı ve bir canavar öldürdü. Hem de kocaman."
+    },
+    {
+      "id": "f663a550",
+      "bank_id": "b0329601",
+      "text": "Senin baban iyi hoş ama benimki dünyanın en iyisi."
+    },
+    {
+      "id": "f663a55b",
+      "bank_id": "b0329601",
+      "text": "Senin annen iyi hoş ama benimki dünyanın en iyisi."
+    },
+    {
+      "id": "f699fec0",
+      "bank_id": "b0329601",
+      "text": "Nereye ayak bassa, kötülük arkasından gelir."
+    },
+    {
+      "id": "f699fecb",
+      "bank_id": "b0329601",
+      "text": "Nereye ayak bassa, kötülük arkasından gelir."
+    },
+    {
+      "id": "f858aa73",
+      "bank_id": "b0329601",
+      "text": "Bu şeftaliyi akşama kadar yerim!"
+    },
+    {
+      "id": "f858aa78",
+      "bank_id": "b0329601",
+      "text": "Gördüğüm tüm erkeklerden daha leziz. Ne var?! Doğru ama."
+    },
+    {
+      "id": "f86a4f30",
+      "bank_id": "b0329601",
+      "text": "Dene bakalım öyleyse!"
+    },
+    {
+      "id": "f86a4f31",
+      "bank_id": "b0329601",
+      "text": "Senle ben! Burada, hemen şimdi!"
+    },
+    {
+      "id": "f86a4f33",
+      "bank_id": "b0329601",
+      "text": "Dövüşmek mi istiyorsun? Gel öyleyse!"
+    },
+    {
+      "id": "f86a4f34",
+      "bank_id": "b0329601",
+      "text": "Seni düelloya davet ediyorum, seni it herif!"
+    },
+    {
+      "id": "f86a4f35",
+      "bank_id": "b0329601",
+      "text": "Sana kolay kolay unutamayacağın bir ders vereceğim!"
+    },
+    {
+      "id": "f86a4f36",
+      "bank_id": "b0329601",
+      "text": "Kan mı istiyorsun? Gel de al!"
+    },
+    {
+      "id": "f86a4f37",
+      "bank_id": "b0329601",
+      "text": "Canına okuyacağım senin!"
+    },
+    {
+      "id": "faef9ad0",
+      "bank_id": "b0329601",
+      "text": "Fena değil ama belki aramaya devam etmeliyiz."
+    },
+    {
+      "id": "faef9ad1",
+      "bank_id": "b0329601",
+      "text": "Evet, burada yaşayabiliriz sanırım."
+    },
+    {
+      "id": "faef9ad2",
+      "bank_id": "b0329601",
+      "text": "Bir ev, evet. Ama gerçekten bizim evimiz olmaya değer mi?"
+    },
+    {
+      "id": "faef9ad3",
+      "bank_id": "b0329601",
+      "text": "İstesem bile bundan daha kayıtsız kalamazdım."
+    },
+    {
+      "id": "faef9ad4",
+      "bank_id": "b0329601",
+      "text": "Daha iyilerini gördüm. Ama iş görür belki."
+    },
+    {
+      "id": "faef9ad6",
+      "bank_id": "b0329601",
+      "text": "Korkunç filan değil. Sadece özel bir yanı da yok."
+    },
+    {
+      "id": "faef9ad7",
+      "bank_id": "b0329601",
+      "text": "Fena değil sanırım."
+    },
+    {
+      "id": "ff6a5a30",
+      "bank_id": "b0329601",
+      "text": "Bunu sen istedin!"
+    },
+    {
+      "id": "ff6a5a31",
+      "bank_id": "b0329601",
+      "text": "Bir kadının nasıl dövüştüğünü görmek ister misin?!"
+    },
+    {
+      "id": "ff6a5a32",
+      "bank_id": "b0329601",
+      "text": "Göstereceğim sana!"
+    },
+    {
+      "id": "ff6a5a33",
+      "bank_id": "b0329601",
+      "text": "Bırakın da hakkından geleyim!"
+    },
+    {
+      "id": "ff6a5a34",
+      "bank_id": "b0329601",
+      "text": "Gel buraya seni!"
+    },
+    {
+      "id": "ff6a5a35",
+      "bank_id": "b0329601",
+      "text": "Çok dişli olduğunu sanıyorsun ha?"
+    },
+    {
+      "id": "ff6a5a36",
+      "bank_id": "b0329601",
+      "text": "Hadi gel bakalım o zaman!"
+    },
+    {
+      "id": "ffc5d7a7",
+      "bank_id": "b0329601",
+      "text": "İlahi bir güzellik, sence de öyle değil mi?"
+    },
+    {
+      "id": "ffc5d7ac",
+      "bank_id": "b0329601",
+      "text": "Aman tanrım! Erkeklerin böyle olabileceğini hiç bilmiyordum."
+    },
+    {
+      "id": "ffefa2f0",
+      "bank_id": "b0329601",
+      "text": "Belki daha iyi bir ev bulabiliriz."
+    },
+    {
+      "id": "ffefa2f1",
+      "bank_id": "b0329601",
+      "text": "Başka bir şey bulamazsak idare eder."
+    },
+    {
+      "id": "ffefa2f2",
+      "bank_id": "b0329601",
+      "text": "Pek etkilenmiş sayılmam."
+    },
+    {
+      "id": "ffefa2f3",
+      "bank_id": "b0329601",
+      "text": "Bir ev işte. Diğerlerinden ne daha kötü, ne daha iyi."
+    },
+    {
+      "id": "ffefa2f5",
+      "bank_id": "b0329601",
+      "text": "Bilmem ki. Fena değil sanırım."
+    },
+    {
+      "id": "ffefa2f6",
+      "bank_id": "b0329601",
+      "text": "Şey, aramaya devam etsek iyi olur galiba."
+    },
+    {
+      "id": "ffefa2f7",
+      "bank_id": "b0329601",
+      "text": "İdare eder ama bununla yetinmemeliyiz, değil mi?"
+    }
+  ]
+}

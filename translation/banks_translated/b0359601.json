@@ -1,0 +1,831 @@
+{
+  "bank_id": "b0359601",
+  "total_strings": 165,
+  "strings": [
+    {
+      "id": "0292bd21",
+      "bank_id": "b0359601",
+      "text": "Yüz boyasını nasıl süreceğini iyi biliyor doğrusu."
+    },
+    {
+      "id": "0292bd27",
+      "bank_id": "b0359601",
+      "text": "Biraz allık ona pek bir yakışmış."
+    },
+    {
+      "id": "05a78528",
+      "bank_id": "b0359601",
+      "text": "İyi saç kesimi bir fersah öteden belli olur."
+    },
+    {
+      "id": "05a7852f",
+      "bank_id": "b0359601",
+      "text": "Sence o saç kesimi bana da yakışır mıydı?"
+    },
+    {
+      "id": "07d7af0a",
+      "bank_id": "b0359601",
+      "text": "O eldivenlerle dokunma bana sakın. Berbat şeyler."
+    },
+    {
+      "id": "07d7af0c",
+      "bank_id": "b0359601",
+      "text": "O korkunç eldivenleri takmanın özel bir sebebi var mı?"
+    },
+    {
+      "id": "07d7af0f",
+      "bank_id": "b0359601",
+      "text": "Eldivenlerinin pek hayranı değilim."
+    },
+    {
+      "id": "0af97d4b",
+      "bank_id": "b0359601",
+      "text": "Bıyıklı erkekleri severim. Yani şuna baksana bir!"
+    },
+    {
+      "id": "0b92cb0a",
+      "bank_id": "b0359601",
+      "text": "Güzel bir kat yüz boyası harikalar yaratıyor, değil mi?"
+    },
+    {
+      "id": "0b92cb0d",
+      "bank_id": "b0359601",
+      "text": "Keşke ben de kendime öyle makyaj yapabilseydim."
+    },
+    {
+      "id": "0cb96ad9",
+      "bank_id": "b0359601",
+      "text": "En temizi ben olmayabilirim ama en azından burnumun altında bir kir şeridi yok."
+    },
+    {
+      "id": "0cb96add",
+      "bank_id": "b0359601",
+      "text": "Nadir bir tırtıl cinsi mi o? Yoksa sadece koca bir burun pisliği mi?"
+    },
+    {
+      "id": "0cb96ade",
+      "bank_id": "b0359601",
+      "text": "Bir kova çamurdan su içmişsin gibi duruyor."
+    },
+    {
+      "id": "0eaf372f",
+      "bank_id": "b0359601",
+      "text": "Dudağının üstündeki de ne öyle? Hormonların mı azdı senin?"
+    },
+    {
+      "id": "10b82523",
+      "bank_id": "b0359601",
+      "text": "Vay canına, sihirli bir tarağın falan olmalı."
+    },
+    {
+      "id": "10b82524",
+      "bank_id": "b0359601",
+      "text": "Söylememe izin verirsen harika saçların var."
+    },
+    {
+      "id": "10b82525",
+      "bank_id": "b0359601",
+      "text": "Saçını kim yapıyor? Harika görünüyor."
+    },
+    {
+      "id": "1561419a",
+      "bank_id": "b0359601",
+      "text": "Kafandaki şapka mı yoksa bir trol pisliği mi?"
+    },
+    {
+      "id": "1561419d",
+      "bank_id": "b0359601",
+      "text": "Herkes şapkayı taşıyamaz. Mesela sen."
+    },
+    {
+      "id": "1561419e",
+      "bank_id": "b0359601",
+      "text": "Çıkar şu korkunç şeyi kafandan."
+    },
+    {
+      "id": "17b83028",
+      "bank_id": "b0359601",
+      "text": "Saç kesimini kopyalasam darılır mısın?"
+    },
+    {
+      "id": "17b8302a",
+      "bank_id": "b0359601",
+      "text": "Yeni saç kesimi mi? Güzel görünüyor."
+    },
+    {
+      "id": "17b8302f",
+      "bank_id": "b0359601",
+      "text": "Bir tutam saç için hiç fena değil."
+    },
+    {
+      "id": "17b97c09",
+      "bank_id": "b0359601",
+      "text": "Burnunun altındaki o pisliğin içinde yaşayan bir şey mi var?"
+    },
+    {
+      "id": "17b97c0c",
+      "bank_id": "b0359601",
+      "text": "Yok, o bıyık sana hiç mi hiç yakışmamış."
+    },
+    {
+      "id": "17b97c0f",
+      "bank_id": "b0359601",
+      "text": "Öff. Tıraş et şunu. Lütfen."
+    },
+    {
+      "id": "19293a4a",
+      "bank_id": "b0359601",
+      "text": "Saçına ne oldu senin öyle?"
+    },
+    {
+      "id": "19293a4b",
+      "bank_id": "b0359601",
+      "text": "Kafanda sıçanlar yuva yapmış gibi duruyor."
+    },
+    {
+      "id": "19293a4c",
+      "bank_id": "b0359601",
+      "text": "Yerinde olsam berberimi değiştirirdim."
+    },
+    {
+      "id": "192a2acd",
+      "bank_id": "b0359601",
+      "text": "Vay canına, bir yolkesen, bu çok havalı!"
+    },
+    {
+      "id": "1d5fcdbf",
+      "bank_id": "b0359601",
+      "text": "Üst dudağına ağda yaptırabileceğini biliyor mudur acaba? Hi hi."
+    },
+    {
+      "id": "1e294269",
+      "bank_id": "b0359601",
+      "text": "Vah vah. Saçına ne yaptın sen böyle?"
+    },
+    {
+      "id": "1e29426a",
+      "bank_id": "b0359601",
+      "text": "Berberin bir kaza mı geçirdi ne oldu?"
+    },
+    {
+      "id": "1e29426c",
+      "bank_id": "b0359601",
+      "text": "Saçını çocuklara mı kestirdin sen?"
+    },
+    {
+      "id": "1e614fe8",
+      "bank_id": "b0359601",
+      "text": "Şapka meselesini bir daha düşünsen iyi edersin."
+    },
+    {
+      "id": "1e614feb",
+      "bank_id": "b0359601",
+      "text": "Kafalarına ne takmış bunlar böyle yahu?"
+    },
+    {
+      "id": "1e614fee",
+      "bank_id": "b0359601",
+      "text": "O şapkayı nereden buldun öyle? Çöplükten mi?"
+    },
+    {
+      "id": "2070db55",
+      "bank_id": "b0359601",
+      "text": "Ah, inananlardan biriyle karşılaşmak her zaman güzeldir. Işık yolunu daima aydınlatsın."
+    },
+    {
+      "id": "2070db56",
+      "bank_id": "b0359601",
+      "text": "Aah, Işığın bir müridi daha. Yolun açık ve parlak olsun."
+    },
+    {
+      "id": "2070db57",
+      "bank_id": "b0359601",
+      "text": "Nasıl gidiyor aydınlanmış kardeşim."
+    },
+    {
+      "id": "212d4a30",
+      "bank_id": "b0359601",
+      "text": "Ha ha! Pek de güzel görünüyorsun hani! Vay canına!"
+    },
+    {
+      "id": "212d4a31",
+      "bank_id": "b0359601",
+      "text": "Karnaval sezonu geldi mi şimdiden?"
+    },
+    {
+      "id": "212d4a33",
+      "bank_id": "b0359601",
+      "text": "Kendinden hiç utanmıyor musun sen?"
+    },
+    {
+      "id": "212d4a34",
+      "bank_id": "b0359601",
+      "text": "Bir zamanlar ben de yüz süslemelerine merak salmıştım ama pek başarılı olamamıştım."
+    },
+    {
+      "id": "212d4a35",
+      "bank_id": "b0359601",
+      "text": "Hmm, belki ben de benzer bir tarz denemeliyim."
+    },
+    {
+      "id": "212d4a36",
+      "bank_id": "b0359601",
+      "text": "Buraya gel tatlım! Ha ha! Rezilliğin böylesi..."
+    },
+    {
+      "id": "212d4a37",
+      "bank_id": "b0359601",
+      "text": "Pek afetsin ha! Ha ha!"
+    },
+    {
+      "id": "282d5530",
+      "bank_id": "b0359601",
+      "text": "Aman da sıradan bir yosma gibi görünüyorsun."
+    },
+    {
+      "id": "282d5531",
+      "bank_id": "b0359601",
+      "text": "Hanımefendi misiniz siz?"
+    },
+    {
+      "id": "282d5532",
+      "bank_id": "b0359601",
+      "text": "Pek yüzsüz bir fingirdeksin sen."
+    },
+    {
+      "id": "282d5533",
+      "bank_id": "b0359601",
+      "text": "Ooh... Bir sonraki görevin için güzel görünmeye çalışıyorsun demek ha?"
+    },
+    {
+      "id": "282d5534",
+      "bank_id": "b0359601",
+      "text": "Hayatımda gördüğüm en inandırıcılıktan uzak kadınsın."
+    },
+    {
+      "id": "282d5535",
+      "bank_id": "b0359601",
+      "text": "Genelev seçmelerine mi katılıyorsun? Ha ha!"
+    },
+    {
+      "id": "282d5536",
+      "bank_id": "b0359601",
+      "text": "Pek cici küçük bir kızsın sen bakıyorum. Ha ha!"
+    },
+    {
+      "id": "2b8dec37",
+      "bank_id": "b0359601",
+      "text": "Bu hafta sonu cümbüş planlama partisine katılıyor musun muhterem mürit?"
+    },
+    {
+      "id": "35a1631a",
+      "bank_id": "b0359601",
+      "text": "Ölsen beni öyle bir şapkayla göremezsin."
+    },
+    {
+      "id": "35a1631c",
+      "bank_id": "b0359601",
+      "text": "Bazı insanlar kafalarına hiçbir şey takmamalı."
+    },
+    {
+      "id": "3aa16b3b",
+      "bank_id": "b0359601",
+      "text": "O şapkanın ne kadar berbat göründüğünü fark ediyorlar mıdır acaba?"
+    },
+    {
+      "id": "3aa16b3c",
+      "bank_id": "b0359601",
+      "text": "Belki de o çirkin şey kazara kafalarına düşüvermiştir."
+    },
+    {
+      "id": "3b5a6078",
+      "bank_id": "b0359601",
+      "text": "Görevlere böyle mi çıkıyorsun yani? Ha ha!"
+    },
+    {
+      "id": "3b5a607a",
+      "bank_id": "b0359601",
+      "text": "Pek gülünç bir kıyafetmiş bu. Ha ha."
+    },
+    {
+      "id": "3fec4101",
+      "bank_id": "b0359601",
+      "text": "Saçını kim kesti bunların? Kör, makaslı bir manyak mı?"
+    },
+    {
+      "id": "3fec4104",
+      "bank_id": "b0359601",
+      "text": "Sanki biri bir hayvanın kürkünü yolup kafalarına yapıştırmış gibi."
+    },
+    {
+      "id": "405a681a",
+      "bank_id": "b0359601",
+      "text": "Ha! Şuna da bak! Kostüm partisine mi gidiyorsun?"
+    },
+    {
+      "id": "405a681b",
+      "bank_id": "b0359601",
+      "text": "Kendini bu kadar ciddiye aldığını görmek ne hoş."
+    },
+    {
+      "id": "405a681d",
+      "bank_id": "b0359601",
+      "text": "Hep bir süslenip püsleniyorsun, değil mi?"
+    },
+    {
+      "id": "42b9d8f8",
+      "bank_id": "b0359601",
+      "text": "Bütün o makyaja hiç lüzum yok bilesin."
+    },
+    {
+      "id": "42b9d8fa",
+      "bank_id": "b0359601",
+      "text": "O makyajın sana yakıştığından pek emin değilim."
+    },
+    {
+      "id": "42b9d8fd",
+      "bank_id": "b0359601",
+      "text": "Bütün o makyajla neyi gizlemeye çalışıyorsun öyle?"
+    },
+    {
+      "id": "47b9e099",
+      "bank_id": "b0359601",
+      "text": "Şey... enteresan bir makyajmış..."
+    },
+    {
+      "id": "47b9e09a",
+      "bank_id": "b0359601",
+      "text": "Kendini tamamen yanlış boyamışsın."
+    },
+    {
+      "id": "47b9e09c",
+      "bank_id": "b0359601",
+      "text": "İstediğin kadar boyan. Hiçbir faydası olmaz."
+    },
+    {
+      "id": "49f760b0",
+      "bank_id": "b0359601",
+      "text": "Korkunç bir oyuncak bebeğe benziyor, sence de öyle değil mi?"
+    },
+    {
+      "id": "49f760b7",
+      "bank_id": "b0359601",
+      "text": "Bütün o boyalarla ucuz bir fahişeye benziyor."
+    },
+    {
+      "id": "4aec52b2",
+      "bank_id": "b0359601",
+      "text": "Öyle saçla evden adımımı atmazdım ben."
+    },
+    {
+      "id": "4aec52b4",
+      "bank_id": "b0359601",
+      "text": "Kafasına helâ kovası mı boşalttı biri ne yaptı?"
+    },
+    {
+      "id": "50f76bb2",
+      "bank_id": "b0359601",
+      "text": "Güzelleşmek mi istiyorsun? Çıkar şu çamuru yüzünden."
+    },
+    {
+      "id": "50f76bb4",
+      "bank_id": "b0359601",
+      "text": "Kübizm tarzı bir makyaj mı denedin ne yaptın?"
+    },
+    {
+      "id": "54260a9b",
+      "bank_id": "b0359601",
+      "text": "Fiyakalı yolkesen kıyafeti ha? Loncalarının bir üyesi misin yoksa?"
+    },
+    {
+      "id": "54260a9e",
+      "bank_id": "b0359601",
+      "text": "Neden bir yolkesen gibi giyindin? Onlardan biri değilsin, değil mi?"
+    },
+    {
+      "id": "5b3ca8e1",
+      "bank_id": "b0359601",
+      "text": "Öyle bir şapkayla tarlalarda çiftçilik yaparak çok vakit geçiriyor olmalısın."
+    },
+    {
+      "id": "5d2618e8",
+      "bank_id": "b0359601",
+      "text": "Aman tanrım! Bir yolkesen!"
+    },
+    {
+      "id": "5d2618ef",
+      "bank_id": "b0359601",
+      "text": "Bir dakika dur bakalım! Gerçek bir yolkesen değilsin, değil mi?"
+    },
+    {
+      "id": "612b8de3",
+      "bank_id": "b0359601",
+      "text": "Şunlardan daha iyi bir eldiven bulamadılar mı yani?"
+    },
+    {
+      "id": "612b8de7",
+      "bank_id": "b0359601",
+      "text": "Ellerini bir sıçanın kıçına sokmuş gibi görünüyorlar."
+    },
+    {
+      "id": "66c18648",
+      "bank_id": "b0359601",
+      "text": "Hanımefendiler bıyık bırakmaz bir kere!"
+    },
+    {
+      "id": "682b98e2",
+      "bank_id": "b0359601",
+      "text": "En son böyle eldivenler gördüğümde kasaptaydım."
+    },
+    {
+      "id": "682b98e4",
+      "bank_id": "b0359601",
+      "text": "Bana sorarsan o eldivenleri yakmak lazım."
+    },
+    {
+      "id": "690e2c65",
+      "bank_id": "b0359601",
+      "text": "Lucien'in takımındansın demek."
+    },
+    {
+      "id": "6bc18e69",
+      "bank_id": "b0359601",
+      "text": "Bıyığını neden tıraş etmiyorsun hanımefendi?"
+    },
+    {
+      "id": "700e3769",
+      "bank_id": "b0359601",
+      "text": "O deli Lucien'in tarafını nasıl tutabildin?"
+    },
+    {
+      "id": "85341241",
+      "bank_id": "b0359601",
+      "text": "Belki de ölmelerini bekleriz, o eldivenleri kendimize alırız."
+    },
+    {
+      "id": "85341244",
+      "bank_id": "b0359601",
+      "text": "Şu eldivenleri gördün mü? Çok güzeller değil mi?"
+    },
+    {
+      "id": "8a0ad101",
+      "bank_id": "b0359601",
+      "text": "Göçebe misin sen?"
+    },
+    {
+      "id": "8a0ad104",
+      "bank_id": "b0359601",
+      "text": "Seni Bower Gölü'nde görmemiş miydim ben?"
+    },
+    {
+      "id": "8a341a60",
+      "bank_id": "b0359601",
+      "text": "O eldivenler bana da lazım doğrusu."
+    },
+    {
+      "id": "8a341a66",
+      "bank_id": "b0359601",
+      "text": "Öyle bir çift eldivene hiç hayır demezdim."
+    },
+    {
+      "id": "8eaf50d9",
+      "bank_id": "b0359601",
+      "text": "Kendine pek tatlı bir yüz boyamışsın öyle. Cidden çok tatlı."
+    },
+    {
+      "id": "8eaf50dd",
+      "bank_id": "b0359601",
+      "text": "Çok hoş görünüyorsun. Tam kıvamında bir makyaj."
+    },
+    {
+      "id": "8eaf50df",
+      "bank_id": "b0359601",
+      "text": "O makyaj seni cidden çok güzelleştirmiş."
+    },
+    {
+      "id": "950ae2b3",
+      "bank_id": "b0359601",
+      "text": "Bower Gölü'nden misin sen?"
+    },
+    {
+      "id": "950ae2b4",
+      "bank_id": "b0359601",
+      "text": "Yollarda çok vakit geçiriyorsun ha, değil mi?"
+    },
+    {
+      "id": "99af6208",
+      "bank_id": "b0359601",
+      "text": "Bu görünüm için güzellik dükkânına mı gittin?"
+    },
+    {
+      "id": "99af620c",
+      "bank_id": "b0359601",
+      "text": "Oh, makyajını yapış tarzını çok beğendim."
+    },
+    {
+      "id": "99af620f",
+      "bank_id": "b0359601",
+      "text": "Makyajın en güzel hatlarını cidden öne çıkarmış."
+    },
+    {
+      "id": "a2bbd488",
+      "bank_id": "b0359601",
+      "text": "Belki de tüy dökme sanatıyla henüz tanışmadınız?"
+    },
+    {
+      "id": "a2bbd489",
+      "bank_id": "b0359601",
+      "text": "Bazı kültürlerde kadında yüz kıllarının çok makbul olduğu söylenir. Bizimkinde değil gerçi."
+    },
+    {
+      "id": "a2bbd48a",
+      "bank_id": "b0359601",
+      "text": "Tersine gitmek istemem ama dostum, o bıyık seni keçiye benzetmiş!"
+    },
+    {
+      "id": "a2bbd48b",
+      "bank_id": "b0359601",
+      "text": "Bir hobbe'yi öpmeyi yeğlerim. En azından dudakları ipek gibi pürüzsüz! Ha ha!"
+    },
+    {
+      "id": "a2bbd48c",
+      "bank_id": "b0359601",
+      "text": "O kıllı dudağını sergilemene lüzum yok. Bazılarımız bu konularda epey hassastır."
+    },
+    {
+      "id": "a2bbd48d",
+      "bank_id": "b0359601",
+      "text": "Koca bir bıyık kadar tatlı, kadınsı ve çekici hiçbir şey olamaz."
+    },
+    {
+      "id": "a2bbd48e",
+      "bank_id": "b0359601",
+      "text": "Bana ilk kız arkadaşımı hatırlatıyorsun. Gerçi onun bıyığı bu kadar pala değildi."
+    },
+    {
+      "id": "aaaba96a",
+      "bank_id": "b0359601",
+      "text": "Tapınağınızı çok uzun zaman önce ziyaret etmiştim. Pek aydınlıktı."
+    },
+    {
+      "id": "aaaba96d",
+      "bank_id": "b0359601",
+      "text": "Şu kaçık ışık tapanlardan birisin demek sen?"
+    },
+    {
+      "id": "abbbe2d8",
+      "bank_id": "b0359601",
+      "text": "Ha ha, o üst dudak için baltanın ağzını kullanmak isteyebilirsin canım!"
+    },
+    {
+      "id": "abbbe2d9",
+      "bank_id": "b0359601",
+      "text": "Burnunun altındaki bir böcek mi senin?"
+    },
+    {
+      "id": "abbbe2db",
+      "bank_id": "b0359601",
+      "text": "Bıyık bıraktığın için tebrikler. Çok gurur duyuyor olmalısın. Ha ha."
+    },
+    {
+      "id": "abbbe2dc",
+      "bank_id": "b0359601",
+      "text": "Sahi, kadınlığınla hiç mi gurur duymuyorsun?"
+    },
+    {
+      "id": "abbbe2dd",
+      "bank_id": "b0359601",
+      "text": "Yüzümde öyle kıllı bir parazit olacağına yüzümün kopup düşmesini yeğlerdim."
+    },
+    {
+      "id": "abbbe2de",
+      "bank_id": "b0359601",
+      "text": "O dudağa ağda yaptırmayı deneyebilirsin tatlım."
+    },
+    {
+      "id": "abbbe2df",
+      "bank_id": "b0359601",
+      "text": "A, bu benim de tıraş olmama gerek kalmadığı anlamına mı geliyor yani?"
+    },
+    {
+      "id": "acf408a0",
+      "bank_id": "b0359601",
+      "text": "Pek fiyakalı bir çift eldivenin varmış orada."
+    },
+    {
+      "id": "acf408a4",
+      "bank_id": "b0359601",
+      "text": "Bahse girerim o eldivenlerin içinde ellerin gülümsüyordur."
+    },
+    {
+      "id": "acf408a6",
+      "bank_id": "b0359601",
+      "text": "O eldivenleri hangi dükkândan aldın? Bayıldım."
+    },
+    {
+      "id": "afabb109",
+      "bank_id": "b0359601",
+      "text": "İyi işlerine devam et cana yakın keşiş."
+    },
+    {
+      "id": "afabb10a",
+      "bank_id": "b0359601",
+      "text": "Ah, Işık Tapınağı'ndansın herhalde."
+    },
+    {
+      "id": "afabb10e",
+      "bank_id": "b0359601",
+      "text": "Ah, Işık Tapınağı'ndan muhterem bir keşiş."
+    },
+    {
+      "id": "afd5e520",
+      "bank_id": "b0359601",
+      "text": "Siz omurgasız keşişlerden ve değersiz tapınağınızdan nefret ediyorum. Cümbüş bile planlamıyorsunuzdur kesin!"
+    },
+    {
+      "id": "afd5e521",
+      "bank_id": "b0359601",
+      "text": "Seni pislik Işık aşığı! Tapınağınız yıkılacak!"
+    },
+    {
+      "id": "b1f41041",
+      "bank_id": "b0359601",
+      "text": "Eldivenlerini alsam darılır mısın? Öylesine sordum!"
+    },
+    {
+      "id": "b1f41046",
+      "bank_id": "b0359601",
+      "text": "Hey, eldivenlerini beğendim."
+    },
+    {
+      "id": "b1f41047",
+      "bank_id": "b0359601",
+      "text": "O eldivenlere bayıldım!"
+    },
+    {
+      "id": "c77a8b20",
+      "bank_id": "b0359601",
+      "text": "O burnun altında kıllı ve iğrenç bir şey var."
+    },
+    {
+      "id": "c77a8b27",
+      "bank_id": "b0359601",
+      "text": "Yüzüne bir şey tırmanmış da ölmüş gibi duruyor."
+    },
+    {
+      "id": "cf04a398",
+      "bank_id": "b0359601",
+      "text": "Yanlış inancı benimsemişsin. Çık o gölgelerden."
+    },
+    {
+      "id": "cf04a39a",
+      "bank_id": "b0359601",
+      "text": "Işığı kalbine kabul etmek için henüz çok geç değil, yolunu şaşırmış dostum."
+    },
+    {
+      "id": "cf04a39b",
+      "bank_id": "b0359601",
+      "text": "Gölgelere sırtını dön dostum. Işığı kucakla."
+    },
+    {
+      "id": "d07a990b",
+      "bank_id": "b0359601",
+      "text": "Buna bıyık mı diyor yani? Daha çok tekerlek izine benziyor."
+    },
+    {
+      "id": "d07a990d",
+      "bank_id": "b0359601",
+      "text": "Tıraş bıçaklarının bir sebebi var. Biri ona söylemeli."
+    },
+    {
+      "id": "e17353e1",
+      "bank_id": "b0359601",
+      "text": "O bıyığı gerçekten çok iyi taşıyorsun."
+    },
+    {
+      "id": "e17353e3",
+      "bank_id": "b0359601",
+      "text": "O kıllı üst dudağı bayağı beğendim doğrusu."
+    },
+    {
+      "id": "e17353e4",
+      "bank_id": "b0359601",
+      "text": "Çorba mı süzüyorsun sen? Güzelmiş."
+    },
+    {
+      "id": "ec736512",
+      "bank_id": "b0359601",
+      "text": "Daha güzel bir bıyık görmemiştim. Yani kaynanamınki hariç belki. O kendininkini yağlar da."
+    },
+    {
+      "id": "ec736513",
+      "bank_id": "b0359601",
+      "text": "O kıllı dudak tam bir başarı, benden söylemesi."
+    },
+    {
+      "id": "ec736514",
+      "bank_id": "b0359601",
+      "text": "Ne bıyık ama! Amma da erkeksi!"
+    },
+    {
+      "id": "f0bc6486",
+      "bank_id": "b0359601",
+      "text": "Karanlık bütün ışığını defetsin, gölgelerin müridi."
+    },
+    {
+      "id": "f0bc6487",
+      "bank_id": "b0359601",
+      "text": "Selamlar gölge dostu kardeşim. Kötülük için harika bir gün, değil mi?"
+    },
+    {
+      "id": "f31c4bf0",
+      "bank_id": "b0359601",
+      "text": "O şapka seni cidden çok iyi göstermiş."
+    },
+    {
+      "id": "f31c4bf1",
+      "bank_id": "b0359601",
+      "text": "O şapkaya bayıldım!"
+    },
+    {
+      "id": "f31c4bf6",
+      "bank_id": "b0359601",
+      "text": "Dikkat et de biri o şapkayı aşırmasın."
+    },
+    {
+      "id": "f8331994",
+      "bank_id": "b0359601",
+      "text": "Neden henüz makyaj yapmama izin verilmiyor ki?"
+    },
+    {
+      "id": "f8fca821",
+      "bank_id": "b0359601",
+      "text": "Keşke benim de öyle bir şapkam olsaydı."
+    },
+    {
+      "id": "f8fca827",
+      "bank_id": "b0359601",
+      "text": "Şunun gibi bir şapkaya hiç hayır demezdim."
+    },
+    {
+      "id": "fc1c59db",
+      "bank_id": "b0359601",
+      "text": "Şapka sana yakışmış."
+    },
+    {
+      "id": "fc1c59dd",
+      "bank_id": "b0359601",
+      "text": "O harika şapkayı nereden aldın?"
+    },
+    {
+      "id": "fc1c59df",
+      "bank_id": "b0359601",
+      "text": "Hey, şapkanı beğendim."
+    },
+    {
+      "id": "fca776db",
+      "bank_id": "b0359601",
+      "text": "Şundakine göre hiç fena olmayan saçlar."
+    },
+    {
+      "id": "fca776de",
+      "bank_id": "b0359601",
+      "text": "Parmaklarımı o saçların arasında gezdirerek saatler geçirebilirim."
+    },
+    {
+      "id": "fd3321b5",
+      "bank_id": "b0359601",
+      "text": "Merhaba güzel bayan! Hi hi!"
+    },
+    {
+      "id": "fd5d2c0e",
+      "bank_id": "b0359601",
+      "text": "Köylü değilsiniz gerçi ama kıyafetleriniz yüksek mevki sahibi birine de yakışmıyor."
+    },
+    {
+      "id": "fdfcafc0",
+      "bank_id": "b0359601",
+      "text": "Normalde şapkalardan pek hoşlanmam. Ama o bayağı iyiymiş."
+    },
+    {
+      "id": "fdfcafc5",
+      "bank_id": "b0359601",
+      "text": "Pek fiyakalı bir serpuş bu, değil mi?"
+    },
+    {
+      "id": "fed7a120",
+      "bank_id": "b0359601",
+      "text": "Kusura bakma ama o eldivenler berbat görünüyor."
+    },
+    {
+      "id": "fed7a121",
+      "bank_id": "b0359601",
+      "text": "O eldivenleri yanlışlıkla mı taktın? Umarım öyledir."
+    },
+    {
+      "id": "fed7a127",
+      "bank_id": "b0359601",
+      "text": "O zevksiz eldivenleri iddiaya girdin diye falan mı taktın yoksa?"
+    }
+  ]
+}

@@ -1,0 +1,851 @@
+{
+  "bank_id": "80f85202",
+  "total_strings": 169,
+  "strings": [
+    {
+      "id": "025fc3ed",
+      "bank_id": "80f85202",
+      "text": "İçinden akıp giden gücü hissedebiliyor musun?"
+    },
+    {
+      "id": "02722700",
+      "bank_id": "80f85202",
+      "text": "Onun kararıydı bu, sonuçlarına da o katlansın."
+    },
+    {
+      "id": "0272270b",
+      "bank_id": "80f85202",
+      "text": "Onun kararıydı bu, sonuçlarına da o katlansın."
+    },
+    {
+      "id": "0aa297b0",
+      "bank_id": "80f85202",
+      "text": "Şimdi mi?"
+    },
+    {
+      "id": "0ba29923",
+      "bank_id": "80f85202",
+      "text": "Kahraman, dünyayı bir delinin bencil rüyasından kurtardığın için ödülünü, armağanını alma vaktin geldi."
+    },
+    {
+      "id": "0bf420fd",
+      "bank_id": "80f85202",
+      "text": "Geriye üç tane kaldı."
+    },
+    {
+      "id": "0cae5d8c",
+      "bank_id": "80f85202",
+      "text": "Bunu yapabilmek akıl almaz bir irade gerektirirdi. Benim asla sahip olamayacağım bir güç bu."
+    },
+    {
+      "id": "0d07c6c4",
+      "bank_id": "80f85202",
+      "text": "Aklını mı kaçırdın sen?"
+    },
+    {
+      "id": "0e7d566e",
+      "bank_id": "80f85202",
+      "text": "Sabah görüşürüz."
+    },
+    {
+      "id": "12f34428",
+      "bank_id": "80f85202",
+      "text": "Vedalaşmayı kaçırdın."
+    },
+    {
+      "id": "139fbece",
+      "bank_id": "80f85202",
+      "text": "Hayııır!"
+    },
+    {
+      "id": "13a2a59b",
+      "bank_id": "80f85202",
+      "text": "Onları geri getirmeme izin verebilirdin."
+    },
+    {
+      "id": "13f3459b",
+      "bank_id": "80f85202",
+      "text": "Annemle babam dışarı çıktı!"
+    },
+    {
+      "id": "141c48f3",
+      "bank_id": "80f85202",
+      "text": "Eee, önce ne yapalım?"
+    },
+    {
+      "id": "14a2a70e",
+      "bank_id": "80f85202",
+      "text": "Onlar masumdu."
+    },
+    {
+      "id": "159fc211",
+      "bank_id": "80f85202",
+      "text": "Artık yalnız kalmak istemiyorum."
+    },
+    {
+      "id": "159fc214",
+      "bank_id": "80f85202",
+      "text": "Lütfen! Burada kusursuz bir hayatımız var işte!"
+    },
+    {
+      "id": "15a2a8e1",
+      "bank_id": "80f85202",
+      "text": "Hepsini geri getirebilirdim."
+    },
+    {
+      "id": "169fc387",
+      "bank_id": "80f85202",
+      "text": "Her şeyi mahvedeceksin!"
+    },
+    {
+      "id": "16a2aa54",
+      "bank_id": "80f85202",
+      "text": "(son nefesi)"
+    },
+    {
+      "id": "17a2abc7",
+      "bank_id": "80f85202",
+      "text": "Hiç susmayacak sanmıştım."
+    },
+    {
+      "id": "183ad802",
+      "bank_id": "80f85202",
+      "text": "Herkesin bir kırılma noktası vardır ve ben seninkini bulacağım."
+    },
+    {
+      "id": "186ba9d1",
+      "bank_id": "80f85202",
+      "text": "Büyüyünce eski hikâyelerdeki gibi bir Kahraman olmak istiyorum."
+    },
+    {
+      "id": "189fc6e8",
+      "bank_id": "80f85202",
+      "text": "Lütfen, beni bir daha bırakıp gitme!"
+    },
+    {
+      "id": "189fc6ed",
+      "bank_id": "80f85202",
+      "text": "Gitme!"
+    },
+    {
+      "id": "18a2adba",
+      "bank_id": "80f85202",
+      "text": "Ah kusura bakma, yoksa onu sen mi öldürmek istiyordun?"
+    },
+    {
+      "id": "19a2af2d",
+      "bank_id": "80f85202",
+      "text": "Lucien... öldü. Peki... şimdi ne olacak?"
+    },
+    {
+      "id": "19b5abc8",
+      "bank_id": "80f85202",
+      "text": "Ha ha... Çıktığında öyle bir üşüyeceksin ki."
+    },
+    {
+      "id": "19f34f2d",
+      "bank_id": "80f85202",
+      "text": "Hadi ama kalk, dışarısı öyle güzel ki."
+    },
+    {
+      "id": "1cb5b081",
+      "bank_id": "80f85202",
+      "text": "Ben kıyıda kalsam iyi olacak galiba. En azından kuru kalırım."
+    },
+    {
+      "id": "2a44317a",
+      "bank_id": "80f85202",
+      "text": "Serveti Seç?"
+    },
+    {
+      "id": "2a77aba8",
+      "bank_id": "80f85202",
+      "text": "[çığlık atar]"
+    },
+    {
+      "id": "2aaf77ee",
+      "bank_id": "80f85202",
+      "text": "Lütfen! Yatağına dön. Korkuyorum."
+    },
+    {
+      "id": "2baf7941",
+      "bank_id": "80f85202",
+      "text": "İçeri dön hemen. Başımı fena belaya sokacaksın!"
+    },
+    {
+      "id": "2caf7b34",
+      "bank_id": "80f85202",
+      "text": "Dışarı çıkma sakın! Annemle babam çok kızacak."
+    },
+    {
+      "id": "2d77b061",
+      "bank_id": "80f85202",
+      "text": "[çığlık atar]"
+    },
+    {
+      "id": "2daf7ca7",
+      "bank_id": "80f85202",
+      "text": "Deli misin sen? Dışarısı tehlikeli."
+    },
+    {
+      "id": "2eaf7e1a",
+      "bank_id": "80f85202",
+      "text": "Nereye gidiyorsun?"
+    },
+    {
+      "id": "308cf508",
+      "bank_id": "80f85202",
+      "text": "Hemen sıkıldın mı? Bütün bu oyunlar dikkatini darmadağın etmiş senin."
+    },
+    {
+      "id": "318cf6fb",
+      "bank_id": "80f85202",
+      "text": "Başka bir şey oynamak istiyor musun o zaman?"
+    },
+    {
+      "id": "328cf86e",
+      "bank_id": "80f85202",
+      "text": "Pekala, bunu şimdi yapmak zorunda değiliz."
+    },
+    {
+      "id": "360ad946",
+      "bank_id": "80f85202",
+      "text": "Of! Bunun intikamı alınmalı işte!"
+    },
+    {
+      "id": "370adb39",
+      "bank_id": "80f85202",
+      "text": "Hak ettiğini bulacak o!"
+    },
+    {
+      "id": "37dde311",
+      "bank_id": "80f85202",
+      "text": "Reaver da kararına katılıyor! Bu kadar mı alçaldın yani?"
+    },
+    {
+      "id": "39d64179",
+      "bank_id": "80f85202",
+      "text": "Ne diyeceğimi bilemiyorum. Senden bekleyeceğim en son şeydi bu. Pek çok şüpheli işe kalkıştın... ama bu yaptığın gerçekten çok asilceydi."
+    },
+    {
+      "id": "3a939893",
+      "bank_id": "80f85202",
+      "text": "Sanırım tavuklar kümeslerinden kaçmış."
+    },
+    {
+      "id": "3c0ae2d8",
+      "bank_id": "80f85202",
+      "text": "Seni yakalamasına izin verme! Ööğ, iğrenç!"
+    },
+    {
+      "id": "3d0ae44b",
+      "bank_id": "80f85202",
+      "text": "Uuu, bu fena yakacak!"
+    },
+    {
+      "id": "3e0ae63e",
+      "bank_id": "80f85202",
+      "text": "Aman, dikkat et!"
+    },
+    {
+      "id": "400ae904",
+      "bank_id": "80f85202",
+      "text": "Dikkatli ol!"
+    },
+    {
+      "id": "410aeaf7",
+      "bank_id": "80f85202",
+      "text": "Aman!"
+    },
+    {
+      "id": "4193a398",
+      "bank_id": "80f85202",
+      "text": "Hadi ama! Yapacak bir sürü eğlenceli şey var."
+    },
+    {
+      "id": "420aec6a",
+      "bank_id": "80f85202",
+      "text": "Ah, bunun bedelini ödeyeceksin seni pis kokulu böcek!"
+    },
+    {
+      "id": "42b9af55",
+      "bank_id": "80f85202",
+      "text": "Babam öldüğünde... Çok korkunçtu. Düşünmeye bile zor tahammül ediyorum. Onu bizzat feda etmekse... hayır."
+    },
+    {
+      "id": "430aeddd",
+      "bank_id": "80f85202",
+      "text": "Önce sen vur onlara! Önce sen vur!"
+    },
+    {
+      "id": "4393a6fe",
+      "bank_id": "80f85202",
+      "text": "Aman, mızmızlık etme. Yapacak o kadar çok şey var ki!"
+    },
+    {
+      "id": "4493a851",
+      "bank_id": "80f85202",
+      "text": "Canın ne yapmak isterse onu yaparım. Aklından ne geçiyor?"
+    },
+    {
+      "id": "4593a9c4",
+      "bank_id": "80f85202",
+      "text": "Hadi eski ekin tarlalarındaki böcekleri avlayalım."
+    },
+    {
+      "id": "4693abb7",
+      "bank_id": "80f85202",
+      "text": "Hadi ama, biraz eğlenelim."
+    },
+    {
+      "id": "4793ad2a",
+      "bank_id": "80f85202",
+      "text": "Hadi gölde yüzmeye gidelim."
+    },
+    {
+      "id": "47b3d0e5",
+      "bank_id": "80f85202",
+      "text": "Sevgiyi Seç?"
+    },
+    {
+      "id": "481f8a9b",
+      "bank_id": "80f85202",
+      "text": "Tamamdır. Geç öne bakalım küçük Sparrow!"
+    },
+    {
+      "id": "4893ae9d",
+      "bank_id": "80f85202",
+      "text": "Atış talimi yapabilmen için etrafa birkaç şişe dizdim."
+    },
+    {
+      "id": "4c692d60",
+      "bank_id": "80f85202",
+      "text": "Geri döndüğüne... çok sevindim."
+    },
+    {
+      "id": "4f693239",
+      "bank_id": "80f85202",
+      "text": "Hadi... hadi uyumaya dönelim."
+    },
+    {
+      "id": "506f991c",
+      "bank_id": "80f85202",
+      "text": "Korumak için savaştığın şey de ne?"
+    },
+    {
+      "id": "526f9c62",
+      "bank_id": "80f85202",
+      "text": "Korumaya değer olduğunu düşündüğün şey sahiden bu mu?"
+    },
+    {
+      "id": "536f9dd5",
+      "bank_id": "80f85202",
+      "text": "Bizi en çok sevdiklerimizden koparan bu dünya mı?"
+    },
+    {
+      "id": "5c88d33c",
+      "bank_id": "80f85202",
+      "text": "Aman hadi, yatağına dön. Artık burada yapacak eğlenceli hiçbir şey kalmadı."
+    },
+    {
+      "id": "5e88d602",
+      "bank_id": "80f85202",
+      "text": "Sen öyle patır kütür dolanırken uyuyamıyorum."
+    },
+    {
+      "id": "5f88d7f5",
+      "bank_id": "80f85202",
+      "text": "Gerçekten çok can sıkıcı oluyorsun ama."
+    },
+    {
+      "id": "60079b20",
+      "bank_id": "80f85202",
+      "text": "Sevdiğim birini geri getirmek için neredeyse her şeyi yapardım."
+    },
+    {
+      "id": "61304de0",
+      "bank_id": "80f85202",
+      "text": "Eğer hayata bu kadar az değer veriyorsan neden sadece parayı alıp gitmiyorsun?"
+    },
+    {
+      "id": "630050ec",
+      "bank_id": "80f85202",
+      "text": "[sızlanır]"
+    },
+    {
+      "id": "63079ff9",
+      "bank_id": "80f85202",
+      "text": "Ah, sanırım midem bulanıyor..."
+    },
+    {
+      "id": "63079ffc",
+      "bank_id": "80f85202",
+      "text": "Ama binlercesini geri getirebilirdin. Bu korkunç yerin bütün kurbanları... Onların da aileleri vardı..."
+    },
+    {
+      "id": "660055a5",
+      "bank_id": "80f85202",
+      "text": "Oooo. Hayır. Hayır."
+    },
+    {
+      "id": "67449052",
+      "bank_id": "80f85202",
+      "text": "Seni zaten iki kez öldürdüm. Bu sefer geri dönüşün olmayacak."
+    },
+    {
+      "id": "682e8547",
+      "bank_id": "80f85202",
+      "text": "Kule tamamen faaliyete geçti. Lucien mutlaka durdurulmalı."
+    },
+    {
+      "id": "684491c5",
+      "bank_id": "80f85202",
+      "text": "Ölümün, Kule'nin yeniden inşasındaki son taş olacak."
+    },
+    {
+      "id": "694493b8",
+      "bank_id": "80f85202",
+      "text": "Yeni Krallık, sana dair hiçbir hatırayla ya da izle lekelenmeyecek."
+    },
+    {
+      "id": "6a44952b",
+      "bank_id": "80f85202",
+      "text": "Boş bir düşün peşinde hayatını heba ettin."
+    },
+    {
+      "id": "6b44969e",
+      "bank_id": "80f85202",
+      "text": "Bu dünyanın ve kendinin ızdırabını uzatmakta neden bu kadar ısrarcısın?"
+    },
+    {
+      "id": "6c449871",
+      "bank_id": "80f85202",
+      "text": "Şimdi ölmenin ne kadar daha kolay olacağını göremiyor musun?"
+    },
+    {
+      "id": "6d2ec9ce",
+      "bank_id": "80f85202",
+      "text": "Binlercesini geri getirebilirdin! Ya da en azından sevdiklerini! Onlardan vazgeçtin... Ne uğruna? Bir avuç altın için mi?"
+    },
+    {
+      "id": "6d4499e4",
+      "bank_id": "80f85202",
+      "text": "Yeni Krallık bir milyon yıl boyunca ayakta kalacak."
+    },
+    {
+      "id": "6de9e7d4",
+      "bank_id": "80f85202",
+      "text": "Ne? O da ne öyle?"
+    },
+    {
+      "id": "6dfa3216",
+      "bank_id": "80f85202",
+      "text": "Vay canına, sadece iki tane kaldı!"
+    },
+    {
+      "id": "6e449b57",
+      "bank_id": "80f85202",
+      "text": "Bu dünyada yanlış olan her şeyin timsalisin sen."
+    },
+    {
+      "id": "6f449cca",
+      "bank_id": "80f85202",
+      "text": "Uğruna mücadele ettiğin her şey Kule'nin haşmeti altında ezilip yok olacak."
+    },
+    {
+      "id": "6fe9eb3a",
+      "bank_id": "80f85202",
+      "text": "Ne yapıyorsun sen?"
+    },
+    {
+      "id": "70722ae9",
+      "bank_id": "80f85202",
+      "text": "İnanılmaz! Bunu yapacağını hiç düşünmemiştim! Şimdi ne olacak?"
+    },
+    {
+      "id": "707fe4a8",
+      "bank_id": "80f85202",
+      "text": "Yaptığın onca korkunç şeye rağmen Lucien'i alt etmek için ne gerekiyorsa mübahtır diye düşünmüştüm."
+    },
+    {
+      "id": "70e9ecad",
+      "bank_id": "80f85202",
+      "text": "Adi bir oyuncağın seni kurtaracağını mı sanıyorsun? Herhangi bir şeyin seni kurtarabileceğini mi sanıyorsun?"
+    },
+    {
+      "id": "736b90d0",
+      "bank_id": "80f85202",
+      "text": "Annem pazara bir dahaki gidişlerinde ikimizi de yanlarında götüreceklerini söyledi. Orada çok eğleneceksin küçük Sparrow."
+    },
+    {
+      "id": "746b9243",
+      "bank_id": "80f85202",
+      "text": "Bugünün gelmiş geçmiş en eğlenceli gün olmasını istiyorum."
+    },
+    {
+      "id": "7c5f1e8f",
+      "bank_id": "80f85202",
+      "text": "Ama bu... Biliyor musun, sana sadece acıyorum."
+    },
+    {
+      "id": "7c6b9f3b",
+      "bank_id": "80f85202",
+      "text": "Eğleniyor musun küçük Sparrow?"
+    },
+    {
+      "id": "7d6ba0ae",
+      "bank_id": "80f85202",
+      "text": "Annemle babam varmış mıdır acaba?"
+    },
+    {
+      "id": "7e6ba201",
+      "bank_id": "80f85202",
+      "text": "Annemle babam yarın döneceklerini söylediler. Bowerstone Pazarı'na gitmek uzun sürüyor."
+    },
+    {
+      "id": "7f6ba3f4",
+      "bank_id": "80f85202",
+      "text": "Annemle babam pazardan bize ne getirecek acaba?"
+    },
+    {
+      "id": "8029511e",
+      "bank_id": "80f85202",
+      "text": "Kısas"
+    },
+    {
+      "id": "806ba567",
+      "bank_id": "80f85202",
+      "text": "Annem bir keresinde beni Bowerstone Pazarı'na götürmüştü ve Fairfax Kalesi'ni görmüştüm. İnanılmazdı. Umarım bir gün tekrar gidebilirim."
+    },
+    {
+      "id": "816ba6da",
+      "bank_id": "80f85202",
+      "text": "Babam Bowerstone yolundaki çiftçilere ve tüccarlara saldıran Thag adında bir haydut olduğunu söyledi. Bugün saldırmasa iyi eder, yoksa babam ona iyi bir dayak atar!"
+    },
+    {
+      "id": "826ba84d",
+      "bank_id": "80f85202",
+      "text": "Keşke bir prenses olabilseydim de Bowerstone'daki gibi bir kalede yaşayabilseydim."
+    },
+    {
+      "id": "830ab15e",
+      "bank_id": "80f85202",
+      "text": "Gel. Elimi tut."
+    },
+    {
+      "id": "840ab331",
+      "bank_id": "80f85202",
+      "text": "Kule uyandı. Ve hâlâ tek bir dileği yerine getirecek güce sahip... Seninkini."
+    },
+    {
+      "id": "85439235",
+      "bank_id": "80f85202",
+      "text": "Vereceğini düşündüğüm bir karar değildi bu."
+    },
+    {
+      "id": "91e40a92",
+      "bank_id": "80f85202",
+      "text": "Yüzyıllar boyunca bu akademi, damarlarında akan aynı kanla birbirine bağlı, Albion'un en üstün yetenekli oğullarını ve kızlarını eğitti."
+    },
+    {
+      "id": "9969c528",
+      "bank_id": "80f85202",
+      "text": "Dur! Ne yaptığını düşün bir!"
+    },
+    {
+      "id": "9a83ef28",
+      "bank_id": "80f85202",
+      "text": "Fedakârlığı Seç?"
+    },
+    {
+      "id": "9b69c80e",
+      "bank_id": "80f85202",
+      "text": "Düzenin güzelliğini bir düşün. Kusursuz bir düzen!"
+    },
+    {
+      "id": "9c69c9e1",
+      "bank_id": "80f85202",
+      "text": "Kaosa bir son vereceğim!"
+    },
+    {
+      "id": "9d69cb54",
+      "bank_id": "80f85202",
+      "text": "Dur artık seni aptal! Seni böcek! Durmanı emrediyorum!"
+    },
+    {
+      "id": "9e69ccc7",
+      "bank_id": "80f85202",
+      "text": "Delilik, sefalet, anlamsız katliamlar! Hepsi yok olacak!"
+    },
+    {
+      "id": "a069d02d",
+      "bank_id": "80f85202",
+      "text": "Uyu! Uyumanı emrediyorum! Uyu!"
+    },
+    {
+      "id": "a1a6c6d0",
+      "bank_id": "80f85202",
+      "text": "Yeni Krallık'ta kadere de kaosa da yer olmayacak... Kahramanlara da."
+    },
+    {
+      "id": "a2a6c843",
+      "bank_id": "80f85202",
+      "text": "Böylesine soğuk bir dünya var olmayı hak etmiyor."
+    },
+    {
+      "id": "a3a6ca36",
+      "bank_id": "80f85202",
+      "text": "Dünyadan bir aileden başka hiçbir şey istememiştim ve o küçücük istek bile fazla görüldü."
+    },
+    {
+      "id": "a49f51ea",
+      "bank_id": "80f85202",
+      "text": "Theresa'nın elini tutun."
+    },
+    {
+      "id": "a4a6cba9",
+      "bank_id": "80f85202",
+      "text": "Seni dar görüşlü aptal! Kayıp acısı çeken tek kişinin sen mi olduğunu sanıyorsun?"
+    },
+    {
+      "id": "a5855770",
+      "bank_id": "80f85202",
+      "text": "Şimdi... uyu."
+    },
+    {
+      "id": "a68558e3",
+      "bank_id": "80f85202",
+      "text": "Yine de yeteneklerin, yakında benim olacak olan Kule'nin sonsuz kudretinin yanında bir hiç!"
+    },
+    {
+      "id": "a7855a56",
+      "bank_id": "80f85202",
+      "text": "Kudretin hayret verici. İki kez ölümü aldattın."
+    },
+    {
+      "id": "a7896aea",
+      "bank_id": "80f85202",
+      "text": "Seni tanıdığımı sanıyordum ama fena halde yanılmışım."
+    },
+    {
+      "id": "a9a8153c",
+      "bank_id": "80f85202",
+      "text": "Fedakârlık: Kule'nin inşasında can veren herkesi diriltmeyi seçebilirsiniz."
+    },
+    {
+      "id": "aaa816af",
+      "bank_id": "80f85202",
+      "text": "Şimdi sıra sende. Bir dilek tut ama akıllıca seç, zira bütün Albion'u etkileyecek."
+    },
+    {
+      "id": "ab5da0d8",
+      "bank_id": "80f85202",
+      "text": "Sorun yok küçük Sparrow. Korkma sakın."
+    },
+    {
+      "id": "aba81802",
+      "bank_id": "80f85202",
+      "text": "Binlerce yıl önce Eski Krallık Archon'unun yaptığı gibi, sen de Kule'nin kalbinde duruyorsun."
+    },
+    {
+      "id": "b5b44d55",
+      "bank_id": "80f85202",
+      "text": "Yaşasın! Birini buldun. Bakalım geri kalanları da bulabilecek misin."
+    },
+    {
+      "id": "b8d25ce7",
+      "bank_id": "80f85202",
+      "text": "Uyumaya dön."
+    },
+    {
+      "id": "b9d25e5a",
+      "bank_id": "80f85202",
+      "text": "Bir şey yok küçük Sparrow."
+    },
+    {
+      "id": "ba1313f0",
+      "bank_id": "80f85202",
+      "text": "Saldırılarımı sonsuza dek durduramazsın."
+    },
+    {
+      "id": "bb131563",
+      "bank_id": "80f85202",
+      "text": "Elinden gelenin hepsi bu mu?"
+    },
+    {
+      "id": "bd131849",
+      "bank_id": "80f85202",
+      "text": "Bunu bir zafer mi sanıyorsun? Yalnızca kaçınılmaz olanı erteliyorsun."
+    },
+    {
+      "id": "bfed510b",
+      "bank_id": "80f85202",
+      "text": "Sonuncusu! Bu koccaaaamaaan olacak!"
+    },
+    {
+      "id": "c0131d02",
+      "bank_id": "80f85202",
+      "text": "Geleceği de mi durdurma niyetindesin? Kazanamayacağın bir savaşı veriyorsun."
+    },
+    {
+      "id": "c04dee7c",
+      "bank_id": "80f85202",
+      "text": "Neden? Neden araya girmek zorundasın?"
+    },
+    {
+      "id": "c1131ef5",
+      "bank_id": "80f85202",
+      "text": "Peki bana ulaştığında ne yapacaksın? Beni yenmeyi umamazsın bile."
+    },
+    {
+      "id": "c14defef",
+      "bank_id": "80f85202",
+      "text": "Kader öyle buyurduğu için mi?"
+    },
+    {
+      "id": "c1f6d9cd",
+      "bank_id": "80f85202",
+      "text": "Mükemmel seçim, ben olsam aynısını yapardım."
+    },
+    {
+      "id": "c24df142",
+      "bank_id": "80f85202",
+      "text": "Ben öyle bir şey yok diyorum. Bugün kadere son vereceğim. Ve senin de sonunu getireceğim."
+    },
+    {
+      "id": "c2f1d229",
+      "bank_id": "80f85202",
+      "text": "[Hıçkırır] Baba! Onu durdurabilirdim!"
+    },
+    {
+      "id": "cf084e08",
+      "bank_id": "80f85202",
+      "text": "Harika bir atış. Bunun gibi dört tane daha vurabilir misin?"
+    },
+    {
+      "id": "d35042b3",
+      "bank_id": "80f85202",
+      "text": "Keşke orada yaşayabilseydik."
+    },
+    {
+      "id": "d37d691d",
+      "bank_id": "80f85202",
+      "text": "Reaver da kararına katılıyor! O ayinde sana ne oldu öyle?"
+    },
+    {
+      "id": "d5504599",
+      "bank_id": "80f85202",
+      "text": "Fairfax Kalesi karlar altında ne kadar güzel görünüyor."
+    },
+    {
+      "id": "d66ebfa7",
+      "bank_id": "80f85202",
+      "text": "Her şeyi duyduk."
+    },
+    {
+      "id": "d76ec11a",
+      "bank_id": "80f85202",
+      "text": "Evet: bir dilek tutuldu-- ve dünya sonuçlarına katlanacak."
+    },
+    {
+      "id": "ddb0ec47",
+      "bank_id": "80f85202",
+      "text": "(mırıldanır)"
+    },
+    {
+      "id": "df87fbbc",
+      "bank_id": "80f85202",
+      "text": "Hayır!"
+    },
+    {
+      "id": "e02df908",
+      "bank_id": "80f85202",
+      "text": "Gidebilirsiniz."
+    },
+    {
+      "id": "e32dfdc1",
+      "bank_id": "80f85202",
+      "text": "Mükemmel bir asker olacaksın."
+    },
+    {
+      "id": "e351f152",
+      "bank_id": "80f85202",
+      "text": "Müzik Kutusu Kalkanı"
+    },
+    {
+      "id": "e7747580",
+      "bank_id": "80f85202",
+      "text": "Şimdi ne yapacaksın? Bana doğru sürünerek mi geleceksin?!"
+    },
+    {
+      "id": "e7cf9eb0",
+      "bank_id": "80f85202",
+      "text": "Theresa ile konuşun."
+    },
+    {
+      "id": "e8747773",
+      "bank_id": "80f85202",
+      "text": "Senin yerin yerin dibidir. Kudretim seninkinden fersah fersah üstün."
+    },
+    {
+      "id": "e92873aa",
+      "bank_id": "80f85202",
+      "text": "Hey! Kimse Sparrow'a vurup da yanına kâr bırakamaz!"
+    },
+    {
+      "id": "e9cfa196",
+      "bank_id": "80f85202",
+      "text": "Lucien'i bulun."
+    },
+    {
+      "id": "ea747a59",
+      "bank_id": "80f85202",
+      "text": "Ayağa kalkmaya neden zahmet ediyorsun ki? Sadece gözlerini kapat ve acını dindirmeme izin ver."
+    },
+    {
+      "id": "eb747bcc",
+      "bank_id": "80f85202",
+      "text": "Bu kusurlu dünya da tıpkı senin gibi çökecek ve yerinde akıl almaz saflıkta bir nizam yükselecek."
+    },
+    {
+      "id": "ebcfa4fc",
+      "bank_id": "80f85202",
+      "text": "Ödülünüzü Kader Odası'nda alın."
+    },
+    {
+      "id": "eccfa66f",
+      "bank_id": "80f85202",
+      "text": "Çemberin içinde durun."
+    },
+    {
+      "id": "ed747f12",
+      "bank_id": "80f85202",
+      "text": "Kulağına fısıldayan ölümün o tatlı sesini duymuyor musun? Çağrısına kulak ver."
+    },
+    {
+      "id": "edcfa7c2",
+      "bank_id": "80f85202",
+      "text": "Ailenizin yanına dönün."
+    },
+    {
+      "id": "ee748085",
+      "bank_id": "80f85202",
+      "text": "Görüyor musun şimdi? Mücadelenin ne kadar anlamsız olduğunu? Davanın ne kadar boş olduğunu?"
+    },
+    {
+      "id": "eecfa9b5",
+      "bank_id": "80f85202",
+      "text": "Bowerstone Eski Şehir'deki heykelinizi görün."
+    },
+    {
+      "id": "f302d1ce",
+      "bank_id": "80f85202",
+      "text": "Bu nafile direnişte neden bu kadar ısrarcısın?"
+    },
+    {
+      "id": "fc07b155",
+      "bank_id": "80f85202",
+      "text": "Müzik Kutusu Saldırısı"
+    }
+  ]
+}

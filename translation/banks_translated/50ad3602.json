@@ -1,0 +1,651 @@
+{
+  "bank_id": "50ad3602",
+  "total_strings": 129,
+  "strings": [
+    {
+      "id": "03176598",
+      "bank_id": "50ad3602",
+      "text": "Bazen Lord Lucien bunca yıldır neredeydi diye merak ediyorum."
+    },
+    {
+      "id": "03176599",
+      "bank_id": "50ad3602",
+      "text": "Son zamanlarda dünyada bir değişiklik fark ettin mi? Sanki kara bulutlar toplanıyor gibi."
+    },
+    {
+      "id": "0317659c",
+      "bank_id": "50ad3602",
+      "text": "Tarot falcısını duydun mu? Buralara ne diye geri dönmüş ki?"
+    },
+    {
+      "id": "0317659d",
+      "bank_id": "50ad3602",
+      "text": "Millet Lucien hakkında konuşup duruyor. Endişeleniyorum."
+    },
+    {
+      "id": "0317659f",
+      "bank_id": "50ad3602",
+      "text": "Ortalık karışıyor, hiç hoşuma gitmiyor bu. Albion eskiden güzel bir yerdi."
+    },
+    {
+      "id": "09bfeb81",
+      "bank_id": "50ad3602",
+      "text": "Kartlardaki hünerinle arkadaşlarını büyüle! Talih Kulesi'ni hemen oyna!"
+    },
+    {
+      "id": "09bfeb82",
+      "bank_id": "50ad3602",
+      "text": "Karttan kaleyi fethedebilir misin? Talih Kulesi oyna ve gör!"
+    },
+    {
+      "id": "09bfeb84",
+      "bank_id": "50ad3602",
+      "text": "Talih Kulesi'nde aklını sına bakalım!"
+    },
+    {
+      "id": "137894c8",
+      "bank_id": "50ad3602",
+      "text": "Haydi başlayalım!"
+    },
+    {
+      "id": "137894cd",
+      "bank_id": "50ad3602",
+      "text": "Oyunlar başlasın!"
+    },
+    {
+      "id": "137894ce",
+      "bank_id": "50ad3602",
+      "text": "Oyun vakti geldi!"
+    },
+    {
+      "id": "1e7830e3",
+      "bank_id": "50ad3602",
+      "text": "Şarkı söylememi dinlemeye mi geldin, yoksa destansı bir hikâye anlatmamı mı?"
+    },
+    {
+      "id": "27fd588d",
+      "bank_id": "50ad3602",
+      "text": "Sen buralı değil misin? Bugünlerde pek güzel oldu."
+    },
+    {
+      "id": "27fd588e",
+      "bank_id": "50ad3602",
+      "text": "Buranın gerçekten sefil bir virane olduğu zamanları hatırlıyorum."
+    },
+    {
+      "id": "27fd588f",
+      "bank_id": "50ad3602",
+      "text": "Yıllar geçtikçe burası epey güzelleşti."
+    },
+    {
+      "id": "28409ff8",
+      "bank_id": "50ad3602",
+      "text": "Kasabadan kovalanmamak amma da güzel şeymiş."
+    },
+    {
+      "id": "32fd6a3c",
+      "bank_id": "50ad3602",
+      "text": "Eskiden burada mı yaşıyordun? Korkunç bir yerdi, değil mi?"
+    },
+    {
+      "id": "32fd6a3e",
+      "bank_id": "50ad3602",
+      "text": "Son birkaç yıldır burası çok daha güzel oldu."
+    },
+    {
+      "id": "32fd6a3f",
+      "bank_id": "50ad3602",
+      "text": "Bahçeleri buraya yapmaya karar verdiklerine sevindim."
+    },
+    {
+      "id": "349fc193",
+      "bank_id": "50ad3602",
+      "text": "Silahın namlusunu döndürmekten bile eğlenceli! İşte Çarkıfelek Kutusu!"
+    },
+    {
+      "id": "349fc195",
+      "bank_id": "50ad3602",
+      "text": "Çarkıfelek Kutusu'nda seni zenginlikler bekliyor! Hemen oyna!"
+    },
+    {
+      "id": "349fc196",
+      "bank_id": "50ad3602",
+      "text": "Çarkı çevirip kazanacak becerin var mı? Oyna ve gör!"
+    },
+    {
+      "id": "4416d698",
+      "bank_id": "50ad3602",
+      "text": "Kilit Taşı! Bütün akıllı insanların oynadığı oyun."
+    },
+    {
+      "id": "4416d69d",
+      "bank_id": "50ad3602",
+      "text": "Kilit Taşı kadar iyi bir oyun yoktur."
+    },
+    {
+      "id": "4416d69e",
+      "bank_id": "50ad3602",
+      "text": "Oynamak istediğin oyun işte Kilit Taşı!"
+    },
+    {
+      "id": "448a9f0a",
+      "bank_id": "50ad3602",
+      "text": "La-di-la-do. Benim işimde ses egzersizleri çok önemlidir, bilirsin ya."
+    },
+    {
+      "id": "45f44e28",
+      "bank_id": "50ad3602",
+      "text": "Talih Kulesi oyna! Yeterince akıllıysan tabii!"
+    },
+    {
+      "id": "45f44e2b",
+      "bank_id": "50ad3602",
+      "text": "Beynine bir ziyafet çek. Talih Kulesi oyna!"
+    },
+    {
+      "id": "45f44e2e",
+      "bank_id": "50ad3602",
+      "text": "Kart oynamayı bildiğini mi sanıyorsun? Bir de Talih Kulesi'ni dene!"
+    },
+    {
+      "id": "514ae0f2",
+      "bank_id": "50ad3602",
+      "text": "Kumar vakti!"
+    },
+    {
+      "id": "514ae0f4",
+      "bank_id": "50ad3602",
+      "text": "Bol şans dostum!"
+    },
+    {
+      "id": "514ae0f7",
+      "bank_id": "50ad3602",
+      "text": "Bol şans!"
+    },
+    {
+      "id": "572a71b0",
+      "bank_id": "50ad3602",
+      "text": "Hangisi daha kötü bilemiyorum; kemiklerime işleyen soğuk mu, midemdeki açlık mı."
+    },
+    {
+      "id": "572a71b1",
+      "bank_id": "50ad3602",
+      "text": "Şu Murgo da hep o döküntü mallarını kakalamaya çalışıyor. İçlerinde sihirden çok pas var."
+    },
+    {
+      "id": "572a71b2",
+      "bank_id": "50ad3602",
+      "text": "Şu karın tek bir iyi yanı var: En azından bütün pisliği örtüyor. Üstelik burnumun delikleri donduğu için o kokuyu hiç almıyorum."
+    },
+    {
+      "id": "602a7f9c",
+      "bank_id": "50ad3602",
+      "text": "Her kış bir öncekinden daha acı geçiyor. Biranın tam tersi. Ah, şimdi sıcak bir bira olsa ne iyi giderdi."
+    },
+    {
+      "id": "602a7f9d",
+      "bank_id": "50ad3602",
+      "text": "Fairfax'ta bahar gelmiş bile diyorlar. Sosyete lordları ve leydileri kış gitsin diye para bayılmış olmalı."
+    },
+    {
+      "id": "602a7f9f",
+      "bank_id": "50ad3602",
+      "text": "Bir gün bu sokaklardan kurtulup bir kalede yaşayacağım! Her sabah sıcak et suyuyla banyo yapacağım. Oohhh mis!"
+    },
+    {
+      "id": "626e5f29",
+      "bank_id": "50ad3602",
+      "text": "Tamam, haydi oynayalım!"
+    },
+    {
+      "id": "626e5f2a",
+      "bank_id": "50ad3602",
+      "text": "Haydi kumar oynayalım!"
+    },
+    {
+      "id": "626e5f2f",
+      "bank_id": "50ad3602",
+      "text": "Haydi oynayalım!"
+    },
+    {
+      "id": "62d4bde0",
+      "bank_id": "50ad3602",
+      "text": "O kulenin bunca yıldır neden yükseldiğini bilseydim kendimi çok daha güvende hissederdim."
+    },
+    {
+      "id": "62d4bde1",
+      "bank_id": "50ad3602",
+      "text": "Son zamanlarda uzaktaki kuleyi gördün mü? Böyle bir işin altından kim maddi olarak kalkabilir ki?"
+    },
+    {
+      "id": "62d4bde2",
+      "bank_id": "50ad3602",
+      "text": "Pek bir şeyden korkmam ama o kule içimi ürpertiyor. Lanet olası öyle devasa ki."
+    },
+    {
+      "id": "62d4bde3",
+      "bank_id": "50ad3602",
+      "text": "Bu kadar büyük bir şey hayra alamet olamaz. Baksana şuna."
+    },
+    {
+      "id": "62d4bde4",
+      "bank_id": "50ad3602",
+      "text": "Bana mı öyle geliyor yoksa Kule neredeyse bitti mi? Bu hiç iyiye işaret değil."
+    },
+    {
+      "id": "62d4bde5",
+      "bank_id": "50ad3602",
+      "text": "Biri gidip de o kulede neler döndüğüne neden bakmıyor?"
+    },
+    {
+      "id": "62d4bde7",
+      "bank_id": "50ad3602",
+      "text": "O kule bittiğinde sence ne olacak?"
+    },
+    {
+      "id": "69d4c8e8",
+      "bank_id": "50ad3602",
+      "text": "O kuleye her baktığımda tüylerim diken diken oluyor."
+    },
+    {
+      "id": "69d4c8e9",
+      "bank_id": "50ad3602",
+      "text": "Kulenin gölgesi bir gün hepimizi yutacak. Şuna bir baksana."
+    },
+    {
+      "id": "69d4c8ea",
+      "bank_id": "50ad3602",
+      "text": "O kule rüyalarıma giriyor."
+    },
+    {
+      "id": "69d4c8ec",
+      "bank_id": "50ad3602",
+      "text": "O kulenin görüntüsü bile içimi dehşetle dolduruyor."
+    },
+    {
+      "id": "69d4c8ed",
+      "bank_id": "50ad3602",
+      "text": "Bazen bu ülkeden kaçmamız gerektiğini düşünüyorum. O kule her geçen gün daha da tekinsiz görünüyor."
+    },
+    {
+      "id": "69d4c8ee",
+      "bank_id": "50ad3602",
+      "text": "O kuleye çok uzun süre bakınca insanın içine bir tuhaflık çöktüğünü fark ettin mi?"
+    },
+    {
+      "id": "69d4c8ef",
+      "bank_id": "50ad3602",
+      "text": "O kule bittiğinde dünyanın sonu gelecek. Yaz bir kenara bu lafımı."
+    },
+    {
+      "id": "72026afb",
+      "bank_id": "50ad3602",
+      "text": "Bunun gibi bir kart oyunu daha yok! Yaklaşın ve Talih Kulesi oynayın!"
+    },
+    {
+      "id": "72026afd",
+      "bank_id": "50ad3602",
+      "text": "Bütün usta kartçılara çağrı! Talih Kulesi oynayacak kadar zeki misiniz?"
+    },
+    {
+      "id": "72026afe",
+      "bank_id": "50ad3602",
+      "text": "Albion'un en iyi kart oyununu oynamaya cesaretiniz var mı? Talih Kulesi sizi bekliyor!"
+    },
+    {
+      "id": "7962344b",
+      "bank_id": "50ad3602",
+      "text": "En zor oyunu oynayabileceğinizi sanıyorsanız öne çıkın! Karşınızda Kilit Taşı!"
+    },
+    {
+      "id": "7962344d",
+      "bank_id": "50ad3602",
+      "text": "Kilit Taşı oynayın! Kazanmak için zehir gibi bir kafa ve bir avuç altın gerekecek!"
+    },
+    {
+      "id": "7d31a770",
+      "bank_id": "50ad3602",
+      "text": "Giles'ın çiftliğinin o halini her gördüğümde, ellerine fırsat geçmişken o haydutları neden kimsenin durdurmadığını merak ediyorum."
+    },
+    {
+      "id": "7d31a771",
+      "bank_id": "50ad3602",
+      "text": "Haydutların Brightwood'daki o çiftliğe yaptıkları çok korkunç."
+    },
+    {
+      "id": "7d31a773",
+      "bank_id": "50ad3602",
+      "text": "Birileri o haydutların Çiftçi Giles'ı öldürmesine engel olabilirdi."
+    },
+    {
+      "id": "7d31a776",
+      "bank_id": "50ad3602",
+      "text": "Haydutlar bastığında Brightwood'daki o çiftlikte yaşamak istemezdim doğrusu."
+    },
+    {
+      "id": "7d31a777",
+      "bank_id": "50ad3602",
+      "text": "Son zamanlarda Brightwood'a gittin mi? Haydutların işi bittikten sonra oradaki çiftlik tam bir harabeye dönmüş."
+    },
+    {
+      "id": "8431b272",
+      "bank_id": "50ad3602",
+      "text": "Evet ya, Brightwood'daki o çiftliğin haydutlar karşısında hiç şansı yoktu."
+    },
+    {
+      "id": "8431b273",
+      "bank_id": "50ad3602",
+      "text": "Pislik haydutların neler yapabileceğini görmek istiyorsan Brightwood'daki o çiftliğe bir uğra yeter."
+    },
+    {
+      "id": "8431b274",
+      "bank_id": "50ad3602",
+      "text": "İnsan birilerinin haydutların Brightwood çiftliğindeki herkesi katletmesine engel olabileceğini düşünürdü."
+    },
+    {
+      "id": "8431b275",
+      "bank_id": "50ad3602",
+      "text": "Çiftçi Giles'a kimse yardım etmedi ve başına gelene bak. Öldü gitti, çiftliği de harabeye döndü."
+    },
+    {
+      "id": "8431b276",
+      "bank_id": "50ad3602",
+      "text": "Brightwood'daki o çiftliğin başına gelenlere yazık oldu, değil mi?"
+    },
+    {
+      "id": "905104ab",
+      "bank_id": "50ad3602",
+      "text": "Hay bin kunduz. Hava bundan daha da soğursa kendimi sıcacık bir hücreye kilitleyeceğim."
+    },
+    {
+      "id": "9598b460",
+      "bank_id": "50ad3602",
+      "text": "Çarkıfelek Kutusu! Düşünen insanın tercih ettiği oyun!"
+    },
+    {
+      "id": "9598b463",
+      "bank_id": "50ad3602",
+      "text": "Harika Çarkıfelek Kutusu oyunumla heyecandan ağzınızın suyu akacak!"
+    },
+    {
+      "id": "9598b466",
+      "bank_id": "50ad3602",
+      "text": "Çarkıfelek Kutusu ayağınıza geldi!"
+    },
+    {
+      "id": "b218cd51",
+      "bank_id": "50ad3602",
+      "text": "Bahse girerim Fairfax ahalisi o süslü pantolonları ve süslü sıcak yelekleriyle bu soğuğu çekmek zorunda kalmıyordur."
+    },
+    {
+      "id": "b218cd52",
+      "bank_id": "50ad3602",
+      "text": "Ufaklıklar bu lanet ayazda nasıl hayatta kalıyor bilmem. Zaten bir dirhem etleri yok kemiklerinin üstünde."
+    },
+    {
+      "id": "b218cd53",
+      "bank_id": "50ad3602",
+      "text": "Brrrrr! Parmaklarımı neredeyse hiç hissetmiyorum."
+    },
+    {
+      "id": "bd18de80",
+      "bank_id": "50ad3602",
+      "text": "Dün o burnu havada Fairfax züppelerini gördün mü? Altın atkılara, elmas eldivenlere bürünmüşler. İnsanın midesi bulanıyor."
+    },
+    {
+      "id": "bd18de82",
+      "bank_id": "50ad3602",
+      "text": "Delik deşik olmayan bir çift çorap için adam öldürürdüm. Hem hareket etmiş olur, ısınırdım."
+    },
+    {
+      "id": "bd18de83",
+      "bank_id": "50ad3602",
+      "text": "Soğuk ısırması mı? Resmen soğuk tarafından parçalandım ben! Buz sarkıtları tarafından hırpalandım! Ayazdan paramparça oldum!"
+    },
+    {
+      "id": "be2e49d2",
+      "bank_id": "50ad3602",
+      "text": "Ne içersin?"
+    },
+    {
+      "id": "be2e49d3",
+      "bank_id": "50ad3602",
+      "text": "Bir içki ister misin?"
+    },
+    {
+      "id": "be2e49d4",
+      "bank_id": "50ad3602",
+      "text": "Dur tahmin edeyim. Bir kupa mı?"
+    },
+    {
+      "id": "be2e49d5",
+      "bank_id": "50ad3602",
+      "text": "Bir şeyler içmek ister misiniz?"
+    },
+    {
+      "id": "be2e49d7",
+      "bank_id": "50ad3602",
+      "text": "Ferahlatıcı bir içeceğe ne dersiniz?"
+    },
+    {
+      "id": "be387c82",
+      "bank_id": "50ad3602",
+      "text": "Sipariş verecek misin vermeyecek misin?"
+    },
+    {
+      "id": "be387c83",
+      "bank_id": "50ad3602",
+      "text": "Zehrin ne olsun?"
+    },
+    {
+      "id": "be387c84",
+      "bank_id": "50ad3602",
+      "text": "Şöyle güzel, buz gibi bir içecek ister misiniz?"
+    },
+    {
+      "id": "be387c85",
+      "bank_id": "50ad3602",
+      "text": "Susuzluğunuzu yatıştıracak bir şeyler?"
+    },
+    {
+      "id": "be387c86",
+      "bank_id": "50ad3602",
+      "text": "Susamış görünüyorsun. Ne alırsın?"
+    },
+    {
+      "id": "c06099b0",
+      "bank_id": "50ad3602",
+      "text": "Orada bir şey olduğunu bilmiyordum. Kim inşa ediyor olabilir ki?"
+    },
+    {
+      "id": "c06099b1",
+      "bank_id": "50ad3602",
+      "text": "O kule başa bela. Bak benden söylemesi."
+    },
+    {
+      "id": "c06099b2",
+      "bank_id": "50ad3602",
+      "text": "Uzaktaki o kule aklımı kurcalıyor. Amacı ne olabilir ki?"
+    },
+    {
+      "id": "c06099b3",
+      "bank_id": "50ad3602",
+      "text": "Uzaktaki o kulenin yükselmesi beni endişelendiriyor."
+    },
+    {
+      "id": "c06099b4",
+      "bank_id": "50ad3602",
+      "text": "O kulenin her yıl biraz daha büyümesi sence de garip değil mi?"
+    },
+    {
+      "id": "c06099b6",
+      "bank_id": "50ad3602",
+      "text": "Belki de oraya bir gözetleme kulesi inşa ediyorlardır. Gerçi fena halde büyük görünüyor."
+    },
+    {
+      "id": "c06099b7",
+      "bank_id": "50ad3602",
+      "text": "Oradaki o kule de neyin nesi öyle? Kim durmadan yükseltiyor onu?"
+    },
+    {
+      "id": "c442160e",
+      "bank_id": "50ad3602",
+      "text": "Ben alaylıyım, kendi kendimi yetiştirdim yani."
+    },
+    {
+      "id": "c4e0b141",
+      "bank_id": "50ad3602",
+      "text": "Gölgeler Tapınağı'na karşı duracak cesaret kimsede yoktu ve Oakfield'de neler olduğunu biliyorsun."
+    },
+    {
+      "id": "c4e0b142",
+      "bank_id": "50ad3602",
+      "text": "Keşke birileri o Gölge tarikatçılarını durdurmaya çalışsaydı, o zaman Işık Tapınağı bugün hâlâ ayakta olurdu."
+    },
+    {
+      "id": "c4e0b143",
+      "bank_id": "50ad3602",
+      "text": "Işık Tapınağı'nın Gölge müritlerine karşı hiç şansı yoktu."
+    },
+    {
+      "id": "c4e0b144",
+      "bank_id": "50ad3602",
+      "text": "Bazen Oakfield'e gidip o aptal tapınaktan geriye ne kaldığına bakmayı seviyorum."
+    },
+    {
+      "id": "c4e0b145",
+      "bank_id": "50ad3602",
+      "text": "O Gölge keşişleri Işık Tapınağı'nın hakkından iyi geldi ama, değil mi?"
+    },
+    {
+      "id": "c4e0b146",
+      "bank_id": "50ad3602",
+      "text": "Oakfield'deki tapınağın başına gelenler çok esef verici bir trajedi."
+    },
+    {
+      "id": "c4e0b147",
+      "bank_id": "50ad3602",
+      "text": "Işık Tapınağı'nın bu şekilde yok edilmesine nasıl izin verdik?"
+    },
+    {
+      "id": "c560a150",
+      "bank_id": "50ad3602",
+      "text": "Bir insan ta oraya ne halt yemeye kule dikmek ister ki?"
+    },
+    {
+      "id": "c560a151",
+      "bank_id": "50ad3602",
+      "text": "O kuleye bakmak bile içimi ürpertiyor."
+    },
+    {
+      "id": "c560a152",
+      "bank_id": "50ad3602",
+      "text": "Eski tarih kitaplarında Eski Krallık zamanında büyük bir kule olduğunu okumuştum. Ama o yok edilmişti."
+    },
+    {
+      "id": "c560a153",
+      "bank_id": "50ad3602",
+      "text": "Böyle bir adada bir kule sahibi olmaya hayır demezdim doğrusu. Belki bir gün satın alırım."
+    },
+    {
+      "id": "c560a155",
+      "bank_id": "50ad3602",
+      "text": "Uzaktaki o kuleyi fark ettin mi? Kim inşa ediyor olabilir?"
+    },
+    {
+      "id": "c560a156",
+      "bank_id": "50ad3602",
+      "text": "O kule kime ait acaba?"
+    },
+    {
+      "id": "c560a157",
+      "bank_id": "50ad3602",
+      "text": "Uzaktaki o yarı inşa edilmiş kulede biraz tuhaf bir şeyler var, sence de öyle değil mi?"
+    },
+    {
+      "id": "c9e46cb9",
+      "bank_id": "50ad3602",
+      "text": "Bir el Çarkıfelek Kutusu oynamak ister misiniz? Eğlence garantili!"
+    },
+    {
+      "id": "c9e46cba",
+      "bank_id": "50ad3602",
+      "text": "Şahane Çarkıfelek Kutusu ile şansınızı deneyin!"
+    },
+    {
+      "id": "c9e46cbc",
+      "bank_id": "50ad3602",
+      "text": "Kumar oynayacak cesaretin var mı? Çarkıfelek Kutusu Albion'un en gözde oyunu!"
+    },
+    {
+      "id": "cfe0c2f0",
+      "bank_id": "50ad3602",
+      "text": "Oakfield'deki o zavallı keşişlere muhakkak birileri yardım edebilirdi."
+    },
+    {
+      "id": "d8ef7ae8",
+      "bank_id": "50ad3602",
+      "text": "Öğğk, burası iğrenç. Galiba lağımlar yine patladı."
+    },
+    {
+      "id": "d8ef7aea",
+      "bank_id": "50ad3602",
+      "text": "Sen bir aralar burada yaşamıyor muydun? Bugünlerde hiç tekin bir yer değil."
+    },
+    {
+      "id": "d8ef7aeb",
+      "bank_id": "50ad3602",
+      "text": "Bir yanım buranın daha nezih bir yer olmasını isterdi ama neyse ki elimizde hâlâ genelev var."
+    },
+    {
+      "id": "dbe8fe09",
+      "bank_id": "50ad3602",
+      "text": "Kahramanların ünlerini diyara yaymalarına yardım ediyorum. Yani aslında sadece senin. O yüzden senin müşteriliğine gerçekten ihtiyacım var."
+    },
+    {
+      "id": "dc325085",
+      "bank_id": "50ad3602",
+      "text": "Perilous Spandex gelmiş geçmiş en sevdiğim Kahramandır. Gerçi sen de hemen onun arkasındasın tabii!"
+    },
+    {
+      "id": "ddef8289",
+      "bank_id": "50ad3602",
+      "text": "Hay Allah, burası daha da berbat olabilir mi acaba?"
+    },
+    {
+      "id": "ddef828a",
+      "bank_id": "50ad3602",
+      "text": "Eski Şehir'e tekrar hoş geldin. O koku mu, evet genelde böyledir burası."
+    },
+    {
+      "id": "ddef828b",
+      "bank_id": "50ad3602",
+      "text": "Eskiden buraların fena olmadığını hatırlıyorum ama şimdi içler acısı."
+    },
+    {
+      "id": "fa1757b0",
+      "bank_id": "50ad3602",
+      "text": "Bower Gölü'nde mi büyüdün?"
+    },
+    {
+      "id": "fa1757b1",
+      "bank_id": "50ad3602",
+      "text": "Lucien ne dolaplar çeviriyor acaba?"
+    },
+    {
+      "id": "fa1757b2",
+      "bank_id": "50ad3602",
+      "text": "Duyduğuma göre o tuhaf falcı geri dönmüş."
+    },
+    {
+      "id": "fa1757b4",
+      "bank_id": "50ad3602",
+      "text": "Lord Lucien'in karanlık işlere bulaştığı gerçekten doğru olabilir mi?"
+    },
+    {
+      "id": "fa1757b5",
+      "bank_id": "50ad3602",
+      "text": "Fairfax Kalesi'nin böyle terk edildiğini görmek oldukça üzücü."
+    }
+  ]
+}

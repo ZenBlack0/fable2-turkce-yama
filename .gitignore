@@ -1,0 +1,48 @@
+# Oyun verisi (ASLA commit edilmez)
+*.iso
+*.xex
+*.bnk
+*.babel
+*.xdelta
+extracted_original/
+extracted_game/
+$SystemUpdate/
+nxeart/
+
+# Uretilen / yerel dosyalar
+output/
+release/
+work/
+cache/
+cache_host/
+tools/bin/
+tools/installer/stage/
+__pycache__/
+*.pyc
+*.zip
+*.rar
+*.exe
+*.log
+*.bak
+*.yedek-*
+*.shader_taban
+
+# Ingilizce kaynak metin dokumleri (extract_source.py kullanicinin kendi oyunundan uretir)
+translation/source.json
+translation/banks/
+translation/pubgames_src/
+translation/input_maps/
+translation/master_translations.json
+translation/duplicates.json
+translation/skipped.json
+translation/too_long.json
+translation/banks_overview.md
+translation/reports/ui_too_long.md
+translation/reports/ui_overflow.*
+translation/reports/**/queue.json
+translation/reports/**/batch_cur.json
+
+# Editor
+.vscode/
+.idea/
+Thumbs.db

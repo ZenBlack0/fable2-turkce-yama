@@ -1,0 +1,521 @@
+{
+  "bank_id": "30ac3602",
+  "total_strings": 103,
+  "strings": [
+    {
+      "id": "0993b713",
+      "bank_id": "30ac3602",
+      "text": "Sonunda o et takıntılı kapıyı susturduğunu duydum. Çok şükür."
+    },
+    {
+      "id": "14196636",
+      "bank_id": "30ac3602",
+      "text": "Rookridge'deki konuşan kayayı gördün mü? Harika bir şeydir sanıyordum ama meğer bayağı zavallı bir şeymiş."
+    },
+    {
+      "id": "1a204ed8",
+      "bank_id": "30ac3602",
+      "text": "Ben de pabucumu çıkarıp muhafıza fırlattım, sonra gökyüzü yere indi ve burada uyandım!"
+    },
+    {
+      "id": "1a204ed9",
+      "bank_id": "30ac3602",
+      "text": "En güzeli kadehinde yüzen bir parmak bulmaktır, çünkü o zaman bir tane bedava kaparsın. Parmağını kesmek istemezsin herhalde, di mi?"
+    },
+    {
+      "id": "1a204eda",
+      "bank_id": "30ac3602",
+      "text": "Sana söylemekten de çekinmem hani, anadan üryan haliyle hayatımda gördüğüm en kıllı herifti. Hi hi!"
+    },
+    {
+      "id": "1a204edb",
+      "bank_id": "30ac3602",
+      "text": "Bir dakika yahu! Burası Zarif ve Saygın Hanımefendiler Kulübü değil ki! Yoksa öyle mi? Kimse var mı?"
+    },
+    {
+      "id": "1a204edc",
+      "bank_id": "30ac3602",
+      "text": "Tuzlu fıstık dolu koca bir kese. Üstüne yoktur."
+    },
+    {
+      "id": "1a204ede",
+      "bank_id": "30ac3602",
+      "text": "Beni kovamazsın! Ben istifa ediyom! Dur bi dakka, sen benim patronum değilsin ki... Olsun, yine de istifa ediyom!"
+    },
+    {
+      "id": "1a204edf",
+      "bank_id": "30ac3602",
+      "text": "Peynirli soğanlı. Diğerinden kalmamıştı. Ben de dedim ki..."
+    },
+    {
+      "id": "2d694552",
+      "bank_id": "30ac3602",
+      "text": "Wraithmarsh'taki bir mağarada konuşan bir kapı var ama ben olsam uzak dururdum. Kendi sesine bayılıyor."
+    },
+    {
+      "id": "320f1b6e",
+      "bank_id": "30ac3602",
+      "text": "Of, geçen gün beni berbat bir tiyatro oyununa sürüklediler. Taş gibi donuk bir oyunculuk dedikleri bu olsa gerek."
+    },
+    {
+      "id": "4c6fb483",
+      "bank_id": "30ac3602",
+      "text": "Brightwood'daki konuşan kayayı gördün mü? Biraz utangaç gibi. Gerçi bir taş olduğunu düşünürsek normal."
+    },
+    {
+      "id": "576fc633",
+      "bank_id": "30ac3602",
+      "text": "Brightwood'daki o İblis Kapısı hiç renk vermiyor, değil mi?"
+    },
+    {
+      "id": "60ed3790",
+      "bank_id": "30ac3602",
+      "text": "Bowerstone'daki mezarlığa gitmekten nefret ediyorum. Ölüler rahatsız ettiğinden değil gerçi. Şu İblis Kapısı yüzünden. Beni yiyiverecekmiş gibi gelip duruyor."
+    },
+    {
+      "id": "67ed4294",
+      "bank_id": "30ac3602",
+      "text": "Bowerstone mezarlığına gidersen dikkat et. Orada ete kafayı takmış konuşan bir kaya parçası var."
+    },
+    {
+      "id": "719e5300",
+      "bank_id": "30ac3602",
+      "text": "Kuzum, kimsede şu fıstıklı Çile şekerlerinden var mı? Haklarında o kadar çok şey duydum ki ama tatma şerefine henüz nail olamadım. Biri bana o fıstıklardan getirsin lütfen!"
+    },
+    {
+      "id": "719e5301",
+      "bank_id": "30ac3602",
+      "text": "Ama meğer çilekler Oakfield'denmiş! Az kalsın kadının yüzünün ortasına tükürüyordum haha, valla bak. Ay!"
+    },
+    {
+      "id": "719e5302",
+      "bank_id": "30ac3602",
+      "text": "Bir konserdeydim hani, tilki davul çalıyordu, karıncalar da koro halinde şarkı söylüyordu ve her yer bedava mantar doluydu!"
+    },
+    {
+      "id": "719e5303",
+      "bank_id": "30ac3602",
+      "text": "Gözlerimin önünde kurda dönüştü adam! Ya öyleydi ya da sakalı sahiden çok ama çok hızlı uzuyordu."
+    },
+    {
+      "id": "719e5304",
+      "bank_id": "30ac3602",
+      "text": "Eve koca çamurlu çizmeleriyle girdi. Ben de ona olmaz dedim. Olmaz!"
+    },
+    {
+      "id": "719e5305",
+      "bank_id": "30ac3602",
+      "text": "Ben de doktoru yakasından tuttuğum gibi şu dil basma çubuğunu gözüne soktum. Şahane bir partiydi."
+    },
+    {
+      "id": "719e5307",
+      "bank_id": "30ac3602",
+      "text": "Ödül törenindeydim tamam mı? Ne bir konuşma hazırlamıştım ne bir şey. Ay, ne rezillikti ama!"
+    },
+    {
+      "id": "789e5e08",
+      "bank_id": "30ac3602",
+      "text": "Bana sorarsan parmağını oraya sokmaya çalıştığı için kabahat en başından kendisindeydi. Ne dediğimi anlıyon mu?"
+    },
+    {
+      "id": "789e5e09",
+      "bank_id": "30ac3602",
+      "text": "*sarhoş mırıltıları*"
+    },
+    {
+      "id": "789e5e0a",
+      "bank_id": "30ac3602",
+      "text": "Domuz da keşişe demiş ki, \"Ben de fıstıkların parasını sen ödüyorsun sanıyordum.\" Ha ha ha."
+    },
+    {
+      "id": "789e5e0c",
+      "bank_id": "30ac3602",
+      "text": "İşte o zaman bizim çocuklar da bari biz de çorbaya atlayalım dediler. Ho ho!"
+    },
+    {
+      "id": "789e5e0d",
+      "bank_id": "30ac3602",
+      "text": "Ballı ve altın pullu çilek banyolarımdan birini daha yapıyordum ki bir de ne fark edeyim! İpek kirpiklerimi takmamışım!"
+    },
+    {
+      "id": "789e5e0e",
+      "bank_id": "30ac3602",
+      "text": "Sokağın tam ortasına bir çukur kazdım tamam mı, sonra içini şununla doldurdum... Ay, kokusunu almalıydın haha!"
+    },
+    {
+      "id": "789e5e0f",
+      "bank_id": "30ac3602",
+      "text": "Memesinden tuttuğum gibi can havliyle asıldım. Ama o sırada tatlı gelmişti bile anlarsın ya. İyisinden hem de."
+    },
+    {
+      "id": "78b37d80",
+      "bank_id": "30ac3602",
+      "text": "Burası sakin ve huzurlu. Pek saldırı olmaz buralarda."
+    },
+    {
+      "id": "78b37d81",
+      "bank_id": "30ac3602",
+      "text": "Burası çok tehlikeli ama bize bir şey olmaz herhalde."
+    },
+    {
+      "id": "78b37d84",
+      "bank_id": "30ac3602",
+      "text": "Burası yürüyüş yapmak için güzel, huzurlu bir yer."
+    },
+    {
+      "id": "78b37d86",
+      "bank_id": "30ac3602",
+      "text": "Bu bölgede birinin saldırıya uğradığını hiç duymadım. Güvende oluruz herhalde."
+    },
+    {
+      "id": "78b37d87",
+      "bank_id": "30ac3602",
+      "text": "Buralarda pek saldırı falan duyulmaz."
+    },
+    {
+      "id": "7d54a55a",
+      "bank_id": "30ac3602",
+      "text": "Ah, o lafazan mineral varlığın gür sesini sahiden özlüyorum. Evet, konuşan kayayı. Çok da seçkindir kendisi."
+    },
+    {
+      "id": "7db385a0",
+      "bank_id": "30ac3602",
+      "text": "Burada güvende oluruz. Bizi öldürmeye niyetli pek bir şey yok."
+    },
+    {
+      "id": "7db385a1",
+      "bank_id": "30ac3602",
+      "text": "Burada iyi oluruz. Buralarda gezerken kimsenin canı yanmadı."
+    },
+    {
+      "id": "7db385a5",
+      "bank_id": "30ac3602",
+      "text": "Burası sakin bir yer. Yürüyüş için iyi."
+    },
+    {
+      "id": "7db385a6",
+      "bank_id": "30ac3602",
+      "text": "Burası pek tehlikeli görünmüyor."
+    },
+    {
+      "id": "7db385a7",
+      "bank_id": "30ac3602",
+      "text": "Burada başımıza bir şey gelmez. Sahiden bulunabilecek en güvenli yer burası."
+    },
+    {
+      "id": "87de1cba",
+      "bank_id": "30ac3602",
+      "text": "Hey, şu İblis Kapısı'yla bayağı vakit geçirdin. Arkasında ne vardı?"
+    },
+    {
+      "id": "a8a1580d",
+      "bank_id": "30ac3602",
+      "text": "Hey, şu konuşan kayayla laflayan sen değil miydin? Kendini pek beğenmiş olduğunu duydum."
+    },
+    {
+      "id": "ac7f56a7",
+      "bank_id": "30ac3602",
+      "text": "Şu konuşan kayayla çene çalıyordum. Yeterince yozlaşmış değilmişim, inanabiliyor musun? Az kalsın yapıştırıyordum bir tane."
+    },
+    {
+      "id": "af38b398",
+      "bank_id": "30ac3602",
+      "text": "Bir vandalı bulmak ne kadar zor olabilir ki?"
+    },
+    {
+      "id": "af38b39a",
+      "bank_id": "30ac3602",
+      "text": "Buradaki herkes o vandal olabilir."
+    },
+    {
+      "id": "af38b39b",
+      "bank_id": "30ac3602",
+      "text": "O vandalı hâlâ yakalayamamış olmalarına inanamıyorum. Sen inanabiliyor musun?"
+    },
+    {
+      "id": "af38b39c",
+      "bank_id": "30ac3602",
+      "text": "Muhafızların vandalları yakalamak umurunda bile değil."
+    },
+    {
+      "id": "af38b39d",
+      "bank_id": "30ac3602",
+      "text": "Vandaldan hâlâ iz yok mu? Asla yakalayamazlar onu."
+    },
+    {
+      "id": "af38b39e",
+      "bank_id": "30ac3602",
+      "text": "Bir vandalın izini sürmek ne kadar zor olabilir ki?"
+    },
+    {
+      "id": "af38b39f",
+      "bank_id": "30ac3602",
+      "text": "Yani o vandal sokaklarda hâlâ cezasızca cirit mi atıyor?"
+    },
+    {
+      "id": "b1a16659",
+      "bank_id": "30ac3602",
+      "text": "Biri seni şu İblis Kapısı'nın önünde türlü türlü tuhaf hareketler yaparken görmüş. Değmiştir umarım."
+    },
+    {
+      "id": "b438bbbd",
+      "bank_id": "30ac3602",
+      "text": "O vandalı asla yakalayamazlar."
+    },
+    {
+      "id": "b438bbbe",
+      "bank_id": "30ac3602",
+      "text": "Küçük bir suç olabilir ama yine de şu vandallık davasının çözüldüğünü görmek isterim."
+    },
+    {
+      "id": "b438bbbf",
+      "bank_id": "30ac3602",
+      "text": "Vandalın kim olduğunu kim bilir..."
+    },
+    {
+      "id": "b4cebbd9",
+      "bank_id": "30ac3602",
+      "text": "E, o konuşan kayanın önünde birini öptün mü? Evlenme teklif etmedin herhalde, ettin mi yoksa? İşte buna romantizm derim."
+    },
+    {
+      "id": "b57f648a",
+      "bank_id": "30ac3602",
+      "text": "Şu kaya parçası tam bir tatlı dilli kerata. İblis Kapısı'ndaki ifrit lafının hakkını sahiden veriyor."
+    },
+    {
+      "id": "b6c89849",
+      "bank_id": "30ac3602",
+      "text": "Geçen hafta Bloodstone'daki o konuşan taş yüzü yine duydum. Budala şey hâlâ müzik peşinde koşuyor."
+    },
+    {
+      "id": "bfdafedb",
+      "bank_id": "30ac3602",
+      "text": "Nereye kayboldu o konuşan kaya? Ne kadar yozlaşmış olduğumu kanıtlayacaktım ama gitmiş."
+    },
+    {
+      "id": "c0585508",
+      "bank_id": "30ac3602",
+      "text": "Hey, şu İblis Kapısı'nı açtıran sen değil miydin? Bayağı sağlam bir şarkıcı olmalısın."
+    },
+    {
+      "id": "c1c8a9f8",
+      "bank_id": "30ac3602",
+      "text": "Bloodstone'daki o çirkin konuşan kaya parçasının yanından geçtin mi hiç? Bloodstone'a hiç yakışmayacak derecede müziğe bayılıyor."
+    },
+    {
+      "id": "cb5866b9",
+      "bank_id": "30ac3602",
+      "text": "O koca konuşan taşı açmak için şu lavtanı mı kullandın? Bayağı marifetli olmalısın."
+    },
+    {
+      "id": "cba012ea",
+      "bank_id": "30ac3602",
+      "text": "Burası öyle bir yer ki ne zaman bir mahlukatın ortaya çıkıp kıçımızı ısıracağını asla bilemezsin."
+    },
+    {
+      "id": "cba012eb",
+      "bank_id": "30ac3602",
+      "text": "Buralarda bazen insanları öldürüyorlar. Gözünü dört açsan iyi edersin."
+    },
+    {
+      "id": "cba012ec",
+      "bank_id": "30ac3602",
+      "text": "Tehlikeye karşı tetikte ol. Ne zaman üstümüze sinsice geleceğini asla bilemezsin."
+    },
+    {
+      "id": "cba012ed",
+      "bank_id": "30ac3602",
+      "text": "Dikkatli olsak iyi olur, buralarda insanların saldırıya uğradığını duydum."
+    },
+    {
+      "id": "cba012ee",
+      "bank_id": "30ac3602",
+      "text": "Geçen hafta şu insanların saldırıya uğradığı yer burası değil miydi?"
+    },
+    {
+      "id": "d1eca7de",
+      "bank_id": "30ac3602",
+      "text": "Fairfax'ta bile konuşan bir kaya var biliyor musun. Tam bir züppedir hem de."
+    },
+    {
+      "id": "d4a02138",
+      "bank_id": "30ac3602",
+      "text": "Burası her an bir şeyin ya da birinin üstüne atlayabileceği türden bir yere benziyor."
+    },
+    {
+      "id": "d4a02139",
+      "bank_id": "30ac3602",
+      "text": "Bu yerde ne zaman bir şeyin fırlayıp sana saldıracağını asla bilemezsin."
+    },
+    {
+      "id": "d4a0213b",
+      "bank_id": "30ac3602",
+      "text": "Bu bölgede saldırılar olduğunu duydum."
+    },
+    {
+      "id": "d4a0213e",
+      "bank_id": "30ac3602",
+      "text": "Böyle yerlerde her türlü saldırı duyulur. Hiç hoşuma gitmiyor bu durum."
+    },
+    {
+      "id": "d4a0213f",
+      "bank_id": "30ac3602",
+      "text": "Tetikle olmakta fayda var. Buralarda bazen insanlar saldırıya uğrar."
+    },
+    {
+      "id": "dc5932ac",
+      "bank_id": "30ac3602",
+      "text": "Artık gerçek oyuncu kalmadı da ne demek? Bower Gölü'ndeki şu İblis Kapısı zamazingosu gelmiş geçmiş en iyisi olduğunu söylüyor."
+    },
+    {
+      "id": "e01962b1",
+      "bank_id": "30ac3602",
+      "text": "Burası çok tehlikeli. Daha güvenli bir yer bulalım!"
+    },
+    {
+      "id": "e01962b2",
+      "bank_id": "30ac3602",
+      "text": "Bu yerden çekip gitmeliyiz! Burası tehlikeli!"
+    },
+    {
+      "id": "e01962b3",
+      "bank_id": "30ac3602",
+      "text": "Burada olmamalıydık! Ne kadar tehlikeli olduğundan haberin var mı?!"
+    },
+    {
+      "id": "e01962b4",
+      "bank_id": "30ac3602",
+      "text": "Burası tam bir ölüm tuzağı!"
+    },
+    {
+      "id": "e01962b5",
+      "bank_id": "30ac3602",
+      "text": "Buranın ne kadar tehlikeli olduğundan haberin var mı? Şimdiye kadar ölmediğimiz bir mucize!"
+    },
+    {
+      "id": "e2ad9756",
+      "bank_id": "30ac3602",
+      "text": "Sonunda birinin o konuşan kayayı susturduğunu görüyorum."
+    },
+    {
+      "id": "e55940fb",
+      "bank_id": "30ac3602",
+      "text": "Sana diyorum, doğru valla. Bower Gölü'nde konuşan bir kaya var! Önemli bir yazar olduğunu söyleyip duruyor!"
+    },
+    {
+      "id": "e6a434f0",
+      "bank_id": "30ac3602",
+      "text": "Konuşan şu taş yüze hâlâ alışamadım. Onu duydun mu hiç?"
+    },
+    {
+      "id": "e6a434f1",
+      "bank_id": "30ac3602",
+      "text": "O konuşan kayaların yüzyıllardır uykuda olduğunu söylerler. Ama şimdi kesinlikle uyanıklar. Buradan pek uzak olmayan bir yerde bir tane var."
+    },
+    {
+      "id": "e6a434f3",
+      "bank_id": "30ac3602",
+      "text": "Buralardaki şu İblis Kapısı'nı gördün mü?"
+    },
+    {
+      "id": "e6a434f4",
+      "bank_id": "30ac3602",
+      "text": "Civardaki İblis Kapısı ile hasbihal etme fırsatı buldunuz mu? Büyüleyici, öyle değil mi?"
+    },
+    {
+      "id": "e6a434f5",
+      "bank_id": "30ac3602",
+      "text": "Şu İblis Kapısı'nda son derece tekinsiz bir şeyler var. Ondan uzak durmaya çalışıyorum."
+    },
+    {
+      "id": "e6a434f6",
+      "bank_id": "30ac3602",
+      "text": "Beni o İblis Kapısı'yla konuşurken göremezsin. Görmedin mi onu? Buralardan pek uzak değil."
+    },
+    {
+      "id": "e6a434f7",
+      "bank_id": "30ac3602",
+      "text": "Buralarda yakınlarda konuşan bir kaya var. Doğru valla."
+    },
+    {
+      "id": "eb1973e0",
+      "bank_id": "30ac3602",
+      "text": "Bu bölge çok tehlikeli. Gidelim buradan, lütfen!"
+    },
+    {
+      "id": "eb1973e2",
+      "bank_id": "30ac3602",
+      "text": "Burada kalırsak ne kadar büyük bir tehlikede olduğumuzdan haberin var mı?"
+    },
+    {
+      "id": "eb1973e3",
+      "bank_id": "30ac3602",
+      "text": "Burada çok fazla kalırsak öldürülmemiz işten bile değil!"
+    },
+    {
+      "id": "eb1973e4",
+      "bank_id": "30ac3602",
+      "text": "Burası çok tehlikeli. Kesin bir şey bize saldıracak."
+    },
+    {
+      "id": "eb1973e5",
+      "bank_id": "30ac3602",
+      "text": "Burada kalmam ben! Zifiri tehlikeli burası!"
+    },
+    {
+      "id": "eb3301de",
+      "bank_id": "30ac3602",
+      "text": "O serseri kimse kim, sakın oyuncaklarımı kırmasın."
+    },
+    {
+      "id": "eda43ff0",
+      "bank_id": "30ac3602",
+      "text": "Acaba dünyadaki İblis Kapıları'nın yeniden uyanmasına ne sebep oldu? Bizim civardakini incelemekten hiç bıkmıyorum."
+    },
+    {
+      "id": "eda43ff1",
+      "bank_id": "30ac3602",
+      "text": "Civardaki İblis Kapımız üzerine biraz araştırma yapıyordum. Altı yüz yıldan fazla bir süredir sessiz kaldığını biliyor muydun?"
+    },
+    {
+      "id": "eda43ff2",
+      "bank_id": "30ac3602",
+      "text": "Bana sorarsan şu lanet İblis Kapısı'nın çenesini kapatmak lazım. Neden bir denemiyorsun?"
+    },
+    {
+      "id": "eda43ff3",
+      "bank_id": "30ac3602",
+      "text": "Buradan pek uzakta olmayan şu konuşan kayayı görmüş olmalısın. Acayip bir şey."
+    },
+    {
+      "id": "eda43ff4",
+      "bank_id": "30ac3602",
+      "text": "Bazen gidip civardaki İblis Kapımızı görmeyi seviyorum. Gerçek olduğuna hâlâ inanamıyorum."
+    },
+    {
+      "id": "eda43ff5",
+      "bank_id": "30ac3602",
+      "text": "Buralarda o tuhaf konuşan kayalardan bir tane var biliyorsun. İblis Kapısı diyorlar adına."
+    },
+    {
+      "id": "eda43ff6",
+      "bank_id": "30ac3602",
+      "text": "Bizim civardaki İblis Kapısı'yla lafladın mı hiç?"
+    },
+    {
+      "id": "f433102b",
+      "bank_id": "30ac3602",
+      "text": "Milletin eşyalarını kimin kırıp döktüğünü kimse bilmiyor."
+    },
+    {
+      "id": "f887df9d",
+      "bank_id": "30ac3602",
+      "text": "Bu vandalı nasıl bulmamız bekleniyor ki? Hiç görgü tanığı yoktu."
+    },
+    {
+      "id": "f887df9e",
+      "bank_id": "30ac3602",
+      "text": "Bana sorarsan kasabaya bir hobbe sızdı ve eşyaları parçalamaya başladı."
+    }
+  ]
+}

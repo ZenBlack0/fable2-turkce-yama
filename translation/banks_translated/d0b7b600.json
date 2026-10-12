@@ -1,0 +1,771 @@
+{
+  "bank_id": "d0b7b600",
+  "total_strings": 153,
+  "strings": [
+    {
+      "id": "004e8028",
+      "bank_id": "d0b7b600",
+      "text": "Charles kof adamlardan korunsun mu?"
+    },
+    {
+      "id": "014e819b",
+      "bank_id": "d0b7b600",
+      "text": "Charles'ın şapkası Miggins Nine'ye verilsin mi?"
+    },
+    {
+      "id": "034e84e1",
+      "bank_id": "d0b7b600",
+      "text": "Charlie aransın mı?"
+    },
+    {
+      "id": "06718a10",
+      "bank_id": "d0b7b600",
+      "text": "Yani haydut Ripper'ı avlayıp bana canlı mı getireceksin?"
+    },
+    {
+      "id": "06e87c40",
+      "bank_id": "d0b7b600",
+      "text": "Nasıl oluyor da hiçbiri nerede olduğumuzu çözemiyor?"
+    },
+    {
+      "id": "076e61d0",
+      "bank_id": "d0b7b600",
+      "text": "Miggins Nine'nin yanına dönün."
+    },
+    {
+      "id": "086e6343",
+      "bank_id": "d0b7b600",
+      "text": "Charles'a mezardan çıkışına kadar eşlik edin."
+    },
+    {
+      "id": "096e6536",
+      "bank_id": "d0b7b600",
+      "text": "Charles'ın şapkasını Miggins Nine'ye gösterin."
+    },
+    {
+      "id": "0a6e66a9",
+      "bank_id": "d0b7b600",
+      "text": "Charles'ın eşyalarını toplayın."
+    },
+    {
+      "id": "0aff592f",
+      "bank_id": "d0b7b600",
+      "text": "Evet. Çok etkileyici."
+    },
+    {
+      "id": "0b6e681c",
+      "bank_id": "d0b7b600",
+      "text": "Kahramanlar Mezarı'nda Charlie'yi arayın."
+    },
+    {
+      "id": "0d6e6b62",
+      "bank_id": "d0b7b600",
+      "text": "Charles'ın şapkasını Miggins Nine'ye gösterin."
+    },
+    {
+      "id": "0e64c9c0",
+      "bank_id": "d0b7b600",
+      "text": "Ah, acele edersiniz değil mi? Öyle tatlı bir çocuktur ki ve yapayalnız kaldı."
+    },
+    {
+      "id": "0e6e6cd5",
+      "bank_id": "d0b7b600",
+      "text": "Charles'ı kof adamlardan koruyun."
+    },
+    {
+      "id": "0f64cbb3",
+      "bank_id": "d0b7b600",
+      "text": "Zavallı yavrumun o mezarlarda kaybolduğunu düşündükçe yüreğim parçalanıyor. Lütfen onu bana geri getirin."
+    },
+    {
+      "id": "1064cd26",
+      "bank_id": "d0b7b600",
+      "text": "Ah, lütfen oğlumu o korkunç mezardan kurtarın."
+    },
+    {
+      "id": "136e74f4",
+      "bank_id": "d0b7b600",
+      "text": "Charles'ın lahdi açmasına yardım edin."
+    },
+    {
+      "id": "146e7667",
+      "bank_id": "d0b7b600",
+      "text": "Charles'ın eşyalarını Miggins Nine'ye götürün."
+    },
+    {
+      "id": "1566a13c",
+      "bank_id": "d0b7b600",
+      "text": "Ripper gibiler yaşamayı hak etmiyor... İnsan denmeyi bile hak etmiyorlar."
+    },
+    {
+      "id": "17e18fdf",
+      "bank_id": "d0b7b600",
+      "text": "Gargoyle Haritası"
+    },
+    {
+      "id": "1866a5f5",
+      "bank_id": "d0b7b600",
+      "text": "Benim için en önemli olan şeyi elimden aldı... Ama başka hiçbir şey alamayacak. İzin vermeyeceğim."
+    },
+    {
+      "id": "235074f6",
+      "bank_id": "d0b7b600",
+      "text": "Gargoyle'ler"
+    },
+    {
+      "id": "2d980492",
+      "bank_id": "d0b7b600",
+      "text": "Charlie'yi Kurtarmak"
+    },
+    {
+      "id": "37fe923b",
+      "bank_id": "d0b7b600",
+      "text": "Onu o korkunç mezarlarda bırakmadınız, değil mi?"
+    },
+    {
+      "id": "38fe93ae",
+      "bank_id": "d0b7b600",
+      "text": "Charlie sizi görünce korktu mu? Ona notu göstermenizi söylemiştim."
+    },
+    {
+      "id": "39fe9501",
+      "bank_id": "d0b7b600",
+      "text": "Ona dondurma almadım diye hâlâ surat mı asıyor?"
+    },
+    {
+      "id": "3b88da1f",
+      "bank_id": "d0b7b600",
+      "text": "Vay vay, gargoyle'lerle konuşamayacak kadar kötü, herkesi öldürmek isteyen koca baş belası gelmiş meğer. Küçük bir bebişi bile korkutamazsın sen!"
+    },
+    {
+      "id": "3df39f03",
+      "bank_id": "d0b7b600",
+      "text": "Oo evet, güzel yara izleri. Desene kıçına tekme yemeyi bayağı seviyorsun."
+    },
+    {
+      "id": "4b5533db",
+      "bank_id": "d0b7b600",
+      "text": "Ah!"
+    },
+    {
+      "id": "4bac37f5",
+      "bank_id": "d0b7b600",
+      "text": "Ne istiyorsun o zaman?"
+    },
+    {
+      "id": "4bf29ae8",
+      "bank_id": "d0b7b600",
+      "text": "Hazinemiz senin olsun. Seni koca korkak."
+    },
+    {
+      "id": "4c4f677a",
+      "bank_id": "d0b7b600",
+      "text": "Küçük oğlumdan vaz mı geçiyorsunuz? Bundan daha cesur olduğunuzu sanıyordum..."
+    },
+    {
+      "id": "4c55354e",
+      "bank_id": "d0b7b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "4d553721",
+      "bank_id": "d0b7b600",
+      "text": "Öff!"
+    },
+    {
+      "id": "4e553894",
+      "bank_id": "d0b7b600",
+      "text": "Ayyy!"
+    },
+    {
+      "id": "4ef29fa1",
+      "bank_id": "d0b7b600",
+      "text": "Tebrikler maceracı. En gizli mabedimize kadar ulaştın."
+    },
+    {
+      "id": "4f553a07",
+      "bank_id": "d0b7b600",
+      "text": "Ah!"
+    },
+    {
+      "id": "50553bfa",
+      "bank_id": "d0b7b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "52aeb013",
+      "bank_id": "d0b7b600",
+      "text": "Gitti mi sence?"
+    },
+    {
+      "id": "52aeb018",
+      "bank_id": "d0b7b600",
+      "text": "Gitti mi sence?"
+    },
+    {
+      "id": "53924928",
+      "bank_id": "d0b7b600",
+      "text": "(alkışlar)"
+    },
+    {
+      "id": "5f02cfc3",
+      "bank_id": "d0b7b600",
+      "text": "Teşekkür ederim. Çok teşekkür ederim."
+    },
+    {
+      "id": "6002d1b6",
+      "bank_id": "d0b7b600",
+      "text": "Unutma... Yapabilirsen onu canlı yakala."
+    },
+    {
+      "id": "74626206",
+      "bank_id": "d0b7b600",
+      "text": "Beni vuramazsın ki! Beni vuramazsın ki!"
+    },
+    {
+      "id": "756263f9",
+      "bank_id": "d0b7b600",
+      "text": "Nişancılığının da ten kokun kadar berbat olduğunu duydum."
+    },
+    {
+      "id": "76aeb697",
+      "bank_id": "d0b7b600",
+      "text": "Onu gözümün önünden asla ayırmamalıydım."
+    },
+    {
+      "id": "77aeb80a",
+      "bank_id": "d0b7b600",
+      "text": "Zavallı yavrucak şimdiye kadar korkudan aklını kaçırmıştır."
+    },
+    {
+      "id": "78aeb9fd",
+      "bank_id": "d0b7b600",
+      "text": "Tek başına kalmak için çok küçük. Başına kesin bir şey gelecek!"
+    },
+    {
+      "id": "78ed8c76",
+      "bank_id": "d0b7b600",
+      "text": "Ama onun yerine hediyen burada. Umarım beğenirsin."
+    },
+    {
+      "id": "7a626b98",
+      "bank_id": "d0b7b600",
+      "text": "Hadi nişanını görelim; tabii tutturabilirsen!"
+    },
+    {
+      "id": "7aed8f5c",
+      "bank_id": "d0b7b600",
+      "text": "Çok yaramaz bir çocuksun sen!"
+    },
+    {
+      "id": "7b626d0b",
+      "bank_id": "d0b7b600",
+      "text": "Gördüğüm en acınası Kahraman müsveddesisin. Ki ben çok gördüm."
+    },
+    {
+      "id": "7bed90cf",
+      "bank_id": "d0b7b600",
+      "text": "Şanslısın ki bugün doğum günün, yoksa sana sağlam bir dayak atardım."
+    },
+    {
+      "id": "7c626efe",
+      "bank_id": "d0b7b600",
+      "text": "Ha! Leş gibi kokan nefesini ta buradan alabiliyorum."
+    },
+    {
+      "id": "7d627051",
+      "bank_id": "d0b7b600",
+      "text": "Kendini akıllı mı sanıyorsun? Pöh! Bulaşık kovasında bile senden çok beyin gördüm ben."
+    },
+    {
+      "id": "7ded9415",
+      "bank_id": "d0b7b600",
+      "text": "Charlie! Neredeydin sen? Öyle çok endişelendim ki!"
+    },
+    {
+      "id": "7e6271c4",
+      "bank_id": "d0b7b600",
+      "text": "Bunca asırdır burada oturup beklediğim şey bu muydu yani? Sen miydin?! Pöh!"
+    },
+    {
+      "id": "7f6273b7",
+      "bank_id": "d0b7b600",
+      "text": "Bunca zaman mezara girmekten nasıl kaçtın seni çürük kollu hobbe pisliği?"
+    },
+    {
+      "id": "8062752a",
+      "bank_id": "d0b7b600",
+      "text": "Usta bir nişancıdan ziyade tam bir çatlaksın sen! <laughs>"
+    },
+    {
+      "id": "81067068",
+      "bank_id": "d0b7b600",
+      "text": "Ah... Peki. Pekâlâ."
+    },
+    {
+      "id": "8162769d",
+      "bank_id": "d0b7b600",
+      "text": "Yıkıl karşımdan seni leş yiyici it maymunu!"
+    },
+    {
+      "id": "863d7c30",
+      "bank_id": "d0b7b600",
+      "text": "Ripper ve haydutları bir çiftçi aileyi terörize ediyor."
+    },
+    {
+      "id": "8e5ac3b3",
+      "bank_id": "d0b7b600",
+      "text": "Ah, merhaba canım. Ama Charlie nerede? Onu bulamadın mı?"
+    },
+    {
+      "id": "8f52514a",
+      "bank_id": "d0b7b600",
+      "text": "Ne? Benimle alay etmek için geri döndüysen çok pişman olursun!"
+    },
+    {
+      "id": "903be590",
+      "bank_id": "d0b7b600",
+      "text": "Al. Doğum günü hediyesini al. Bana sadece o tatlı, güzel çocuğu hatırlatacak. Ah!"
+    },
+    {
+      "id": "913be703",
+      "bank_id": "d0b7b600",
+      "text": "Öyle masum bir çocuktu ki. Bir karıncayı bile incitmezdi."
+    },
+    {
+      "id": "923be8f6",
+      "bank_id": "d0b7b600",
+      "text": "Ah! Biliyordum! Başından beri biliyordum!"
+    },
+    {
+      "id": "94ba806c",
+      "bank_id": "d0b7b600",
+      "text": "Ha! Bir de bana çirkin derler! Bir hobbe'yi bile korkutursun sen!"
+    },
+    {
+      "id": "988fc1c2",
+      "bank_id": "d0b7b600",
+      "text": "Ah seni sakar ahmak! Milyon yıl geçse beni vuramazsın."
+    },
+    {
+      "id": "998fc3b5",
+      "bank_id": "d0b7b600",
+      "text": "İşte ömrümde gördüğüm en gereksiz kemik ve kan israfı gidiyor."
+    },
+    {
+      "id": "99d72160",
+      "bank_id": "d0b7b600",
+      "text": "Buraya bakmak asla aklına gelmeyecek."
+    },
+    {
+      "id": "99d7216b",
+      "bank_id": "d0b7b600",
+      "text": "Buraya bakmak asla aklına gelmeyecek."
+    },
+    {
+      "id": "9a8fc528",
+      "bank_id": "d0b7b600",
+      "text": "Kıçımın üstüne hedef tahtası çizsem yine gider ayakkabına nişan alırsın."
+    },
+    {
+      "id": "9b8fc69b",
+      "bank_id": "d0b7b600",
+      "text": "Şu donuk gözlerinden düzgün nişan alamayacağını anlayabiliyorum."
+    },
+    {
+      "id": "9c16bd90",
+      "bank_id": "d0b7b600",
+      "text": "Otuz yıl muhafızlık yaptım, bir sürü haydutla uğraştım... Ama Ripper... O alçak bambaşka bir şey."
+    },
+    {
+      "id": "9c8fc80e",
+      "bank_id": "d0b7b600",
+      "text": "Beni görmezden gelmeye çalışma seni pembe göbekli şapşal."
+    },
+    {
+      "id": "9d16bf03",
+      "bank_id": "d0b7b600",
+      "text": "Korkağın teki o. Bir kasap."
+    },
+    {
+      "id": "9d8fc9e1",
+      "bank_id": "d0b7b600",
+      "text": "Hey, gelsene sıkıyorsa... Kendine güveniyorsan tabii."
+    },
+    {
+      "id": "9e58754f",
+      "bank_id": "d0b7b600",
+      "text": "Albion'daki yolculuklarınız boyunca çok sayıda gargoyle ile karşılaşacaksınız. Özel bir ödül almak için hepsini yok edin."
+    },
+    {
+      "id": "9e8fcb54",
+      "bank_id": "d0b7b600",
+      "text": "Beni vurmayı denemeni söylerdim ama muhtemelen kendi gözünü çıkarırsın."
+    },
+    {
+      "id": "9f8fccc7",
+      "bank_id": "d0b7b600",
+      "text": "Taştan yapılmış olabilirim ama en azından kör değilim!"
+    },
+    {
+      "id": "a08fceba",
+      "bank_id": "d0b7b600",
+      "text": "Bir tezek yığınıyla koca kaleyi bile tutturamazsın sen."
+    },
+    {
+      "id": "a516cbfb",
+      "bank_id": "d0b7b600",
+      "text": "Kusura bakmayın yabancı. Şey, çiftliğime... Hoş geldiniz."
+    },
+    {
+      "id": "a616cd6e",
+      "bank_id": "d0b7b600",
+      "text": "Bugünlerde buralarda pek bir şey yetiştiği yok gerçi."
+    },
+    {
+      "id": "a662465a",
+      "bank_id": "d0b7b600",
+      "text": "Vay vay, gargoyle vurmayacak kadar kibar, burnu havada gereksiz tip gelmiş meğer. Naber?"
+    },
+    {
+      "id": "a716cec1",
+      "bank_id": "d0b7b600",
+      "text": "O hayvanlar, Ripper ve çetesi... Aylardır bizi bu topraklardan sürmeye çalışıyorlar."
+    },
+    {
+      "id": "a816d0b4",
+      "bank_id": "d0b7b600",
+      "text": "Beni, oğlumu... Karımı..."
+    },
+    {
+      "id": "a916d227",
+      "bank_id": "d0b7b600",
+      "text": "Cehennemin dibine gitmelerini söyledim..."
+    },
+    {
+      "id": "aa16d39a",
+      "bank_id": "d0b7b600",
+      "text": "Onlar da... Hemen geri geldiler. Ve onu öldürdüler. Karımı tam gözlerimin önünde öldürdüler. Bunun nasıl bir his olduğu hakkında bir fikrin var mı?"
+    },
+    {
+      "id": "ab16d50d",
+      "bank_id": "d0b7b600",
+      "text": "Güvenli olana kadar oğlumu uzağa gönderdim. Yapılması gereken şeyi... Yapana kadar."
+    },
+    {
+      "id": "bc70fd98",
+      "bank_id": "d0b7b600",
+      "text": "Bana ne zaman sarılacaksın yine, güzel hanım?"
+    },
+    {
+      "id": "bd70ff0b",
+      "bank_id": "d0b7b600",
+      "text": "Sabah oldu ve güneş yağıyor."
+    },
+    {
+      "id": "be7100fe",
+      "bank_id": "d0b7b600",
+      "text": "Neden orada öyle hareketsiz yatıyorsun güzel hanım?"
+    },
+    {
+      "id": "c271072a",
+      "bank_id": "d0b7b600",
+      "text": "(mırıldanır)"
+    },
+    {
+      "id": "c371089d",
+      "bank_id": "d0b7b600",
+      "text": "Gece oldu ve ben hâlâ bekliyorum."
+    },
+    {
+      "id": "cb518844",
+      "bank_id": "d0b7b600",
+      "text": "Delirmişsin sen! Uzak dur benden!"
+    },
+    {
+      "id": "d285601b",
+      "bank_id": "d0b7b600",
+      "text": "(havlar)"
+    },
+    {
+      "id": "d6f685a3",
+      "bank_id": "d0b7b600",
+      "text": "Sanırım kurtarıcının vaktini yeterince çaldık. Şimdi eve gidip güzel bir bardak çay içelim."
+    },
+    {
+      "id": "dbe318cb",
+      "bank_id": "d0b7b600",
+      "text": "Hayır. Canlı. Yapabilirsen canlı getir. Ölürken yüzüne bakmak istiyorum."
+    },
+    {
+      "id": "dce31abe",
+      "bank_id": "d0b7b600",
+      "text": "Ölü ya da diri, umurumda değil..."
+    },
+    {
+      "id": "dde31c11",
+      "bank_id": "d0b7b600",
+      "text": "Onu bul. Lütfen. Onu bana getir."
+    },
+    {
+      "id": "ea5adaec",
+      "bank_id": "d0b7b600",
+      "text": "50 gargoyle'den %1 tanesi yok edildi"
+    },
+    {
+      "id": "ea879140",
+      "bank_id": "d0b7b600",
+      "text": "Sana kaç kere söylemem gerek; ninenin göremeyeceği yere gitme."
+    },
+    {
+      "id": "eb879333",
+      "bank_id": "d0b7b600",
+      "text": "Charlie! Seni yaramaz küçük velet, yaşlı ninene böyle korku vermek ha."
+    },
+    {
+      "id": "ec8794a6",
+      "bank_id": "d0b7b600",
+      "text": "Çok şükür başardık!"
+    },
+    {
+      "id": "ed6b84d8",
+      "bank_id": "d0b7b600",
+      "text": "Çiftçilerin haydutlardan daha iyi olduğunu sanıyorsun değil mi? Seçkinci pislik!"
+    },
+    {
+      "id": "ee308b00",
+      "bank_id": "d0b7b600",
+      "text": "Bunca hazineyle ne yapacaksın bakalım?"
+    },
+    {
+      "id": "ee6ae69a",
+      "bank_id": "d0b7b600",
+      "text": "Ne oldu sana öyle? Parmakların ateş edemeyecek kadar tombul mu kaldı?"
+    },
+    {
+      "id": "ee6b864b",
+      "bank_id": "d0b7b600",
+      "text": "Seni şu çiftliğe gömsek nasıl olur dersin? Belki ağaç falan olursun."
+    },
+    {
+      "id": "ee87978c",
+      "bank_id": "d0b7b600",
+      "text": "Çocuklar ancak böyle öğrenir. Charlie'yi geri getirdiğin için teşekkür ederim cesur mert maceracı."
+    },
+    {
+      "id": "ef308cf3",
+      "bank_id": "d0b7b600",
+      "text": "Nasılmış bakalım elma?"
+    },
+    {
+      "id": "ef5f5270",
+      "bank_id": "d0b7b600",
+      "text": "Birkaç atış tüyosu istiyorsun ha? Gözlerini açık tutmayı dene seni sersem herif."
+    },
+    {
+      "id": "ef87997f",
+      "bank_id": "d0b7b600",
+      "text": "Aslında bence bunu seni kurtaran kişi almalı."
+    },
+    {
+      "id": "ef9c9510",
+      "bank_id": "d0b7b600",
+      "text": "(alkışlar)"
+    },
+    {
+      "id": "f05d150c",
+      "bank_id": "d0b7b600",
+      "text": "(dil çıkarır)"
+    },
+    {
+      "id": "f05f53e3",
+      "bank_id": "d0b7b600",
+      "text": "Bana şunu söyle: Tatar yayının neresinden tutulacağını bilmediğin doğru mu? <laughs>"
+    },
+    {
+      "id": "f0879ad2",
+      "bank_id": "d0b7b600",
+      "text": "Bana 'Ama nine' deme! Bence bu yıl doğum günü hediyeni hak etmiyorsun."
+    },
+    {
+      "id": "f09c9683",
+      "bank_id": "d0b7b600",
+      "text": "(alkışlar)"
+    },
+    {
+      "id": "f1308fd9",
+      "bank_id": "d0b7b600",
+      "text": "Hepsini bir kerede yeme sakın!"
+    },
+    {
+      "id": "f15f5556",
+      "bank_id": "d0b7b600",
+      "text": "Senin hakkında bir kehanet olduğunu duydum evet. Şeyle ilgiliydi... GELMİŞ GEÇMİŞ EN BERBAT NİŞANCI! Evet, tam olarak buydu! <laughs>"
+    },
+    {
+      "id": "f16b8b04",
+      "bank_id": "d0b7b600",
+      "text": "O çiftçinin hayatını zindan ettiğimizi mi sanıyorsun? Senin için neler planladığımızı gör de bak!"
+    },
+    {
+      "id": "f1879c45",
+      "bank_id": "d0b7b600",
+      "text": "Ama nine!"
+    },
+    {
+      "id": "f230914c",
+      "bank_id": "d0b7b600",
+      "text": "(güler)"
+    },
+    {
+      "id": "f25f56c9",
+      "bank_id": "d0b7b600",
+      "text": "Hey, ne yapacaksın ha? Beni vuracak mısın? Ay... Titriyorum resmen! Anneciğim kurtar! Ay!"
+    },
+    {
+      "id": "f35f58bc",
+      "bank_id": "d0b7b600",
+      "text": "Hey! Sen şu kudretli maceracısın değil mi? Senin için bir görevim var: Taş kıçımı öp!"
+    },
+    {
+      "id": "f36b8e6a",
+      "bank_id": "d0b7b600",
+      "text": "Buraya gel de o karısına neler yaptığımızı sana bir göstereyim!"
+    },
+    {
+      "id": "f4309492",
+      "bank_id": "d0b7b600",
+      "text": "Haha."
+    },
+    {
+      "id": "f45f5a2f",
+      "bank_id": "d0b7b600",
+      "text": "Bunca silahla ne yapıyorsun öyle? Oyuncak sapan kullansan da olurmuş seni koca bebek."
+    },
+    {
+      "id": "f46b8fdd",
+      "bank_id": "d0b7b600",
+      "text": "Hey, artık bir ırgat olduğuna göre yabayla dövüşmen gerekmez miydi? <laughs>"
+    },
+    {
+      "id": "f487a11e",
+      "bank_id": "d0b7b600",
+      "text": "Bağırmak hiç kibar bir davranış değil canım. Şimdi eve gidip güzel bir bardak çay içelim."
+    },
+    {
+      "id": "f5309605",
+      "bank_id": "d0b7b600",
+      "text": "(kıkırdar)"
+    },
+    {
+      "id": "f55f5b82",
+      "bank_id": "d0b7b600",
+      "text": "Hey! Sana hakaret ederken bana bak. Seni yürüyen gübre çuvalı."
+    },
+    {
+      "id": "f587a2f1",
+      "bank_id": "d0b7b600",
+      "text": "Ben bir maceracıyım nine! Ve benim adım Charles! Charles!"
+    },
+    {
+      "id": "f65f5d75",
+      "bank_id": "d0b7b600",
+      "text": "Kahraman. Can iksirin falan var mı? <laughs> Hiç becerin yok, gün gibi ortada."
+    },
+    {
+      "id": "f79ca188",
+      "bank_id": "d0b7b600",
+      "text": "Evet!"
+    },
+    {
+      "id": "f8debf35",
+      "bank_id": "d0b7b600",
+      "text": "Kalan gargoyle'leri yok edin (%1 kaldı)."
+    },
+    {
+      "id": "f99ca4ee",
+      "bank_id": "d0b7b600",
+      "text": "Çok iyi!"
+    },
+    {
+      "id": "f9dec0a8",
+      "bank_id": "d0b7b600",
+      "text": "Gargoyle mağarasındaki gargoyle hazinesini bulun."
+    },
+    {
+      "id": "fa9ca641",
+      "bank_id": "d0b7b600",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "fadec21b",
+      "bank_id": "d0b7b600",
+      "text": "En az 50 gargoyle yok edin."
+    },
+    {
+      "id": "fb9ca834",
+      "bank_id": "d0b7b600",
+      "text": "Aferin dostum!"
+    },
+    {
+      "id": "fbdec38e",
+      "bank_id": "d0b7b600",
+      "text": "En az 40 gargoyle yok edin."
+    },
+    {
+      "id": "fc17e495",
+      "bank_id": "d0b7b600",
+      "text": "Yok ettiğiniz taş gargoyle'in enkazı arasında bulunan bu kadim parşömende şu sözler yazılıdır: 'Kendini çok akıllı sanıyorsun değil mi? Kayıp Gargoyle Hazinesi'ni asla bulamayacaksın. Milyon yıl geçse de bulamazsın. Taşlar Şehri'nin nehir zindanında çok iyi saklandı. Çatla da patla!' Parşömenin alt kısmında Bowerstone Pazarı'ndaki bir konumu gösteren ayrıntılı bir harita vardır."
+    },
+    {
+      "id": "fc9ca9a7",
+      "bank_id": "d0b7b600",
+      "text": "Bunda akıl varmış!"
+    },
+    {
+      "id": "fcdec561",
+      "bank_id": "d0b7b600",
+      "text": "En az 30 gargoyle yok edin."
+    },
+    {
+      "id": "fd5f687a",
+      "bank_id": "d0b7b600",
+      "text": "Selam. Benim adım Ahır Kapısı. Bahse girerim beni vuramazsın."
+    },
+    {
+      "id": "fd9cab1a",
+      "bank_id": "d0b7b600",
+      "text": "(alkışlar)"
+    },
+    {
+      "id": "fddec6d4",
+      "bank_id": "d0b7b600",
+      "text": "En az 20 gargoyle yok edin."
+    },
+    {
+      "id": "fe5f69ed",
+      "bank_id": "d0b7b600",
+      "text": "Bana şunu söyle: Senin gibi çöp bir nişancı nasıl hayatta kalabiliyor? Pöh! Bayağı ballı bir herif olmalısın."
+    },
+    {
+      "id": "fe7fce89",
+      "bank_id": "d0b7b600",
+      "text": "Gidiyor musunuz? Belki daha kahraman bir yüreğe sahip biri çıkagelir de zavallı oğluma yardım eder."
+    },
+    {
+      "id": "fe9cac8d",
+      "bank_id": "d0b7b600",
+      "text": "(alkışlar)"
+    },
+    {
+      "id": "fedec847",
+      "bank_id": "d0b7b600",
+      "text": "En az 10 gargoyle yok edin."
+    },
+    {
+      "id": "ffdeca3a",
+      "bank_id": "d0b7b600",
+      "text": "Gargoyle mağarasına gidin."
+    }
+  ]
+}

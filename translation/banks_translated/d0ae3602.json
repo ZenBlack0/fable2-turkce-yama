@@ -1,0 +1,541 @@
+{
+  "bank_id": "d0ae3602",
+  "total_strings": 107,
+  "strings": [
+    {
+      "id": "0505b3d4",
+      "bank_id": "d0ae3602",
+      "text": "Kocası ona fena halde içerlemiş görünüyor. Dikkat etsin, yoksa yine bekâr kalacak!"
+    },
+    {
+      "id": "0505b3df",
+      "bank_id": "d0ae3602",
+      "text": "Kocası ona fena halde içerlemiş görünüyor. Dikkat etsin, yoksa yine bekâr kalacak!"
+    },
+    {
+      "id": "0935bad4",
+      "bank_id": "d0ae3602",
+      "text": "Yakında boşanırsa hiç şaşırma. Git de o zavallı karısına bir sor."
+    },
+    {
+      "id": "0935badf",
+      "bank_id": "d0ae3602",
+      "text": "Yakında boşanırsa hiç şaşırma. Git de o zavallı karısına bir sor."
+    },
+    {
+      "id": "156bcc71",
+      "bank_id": "d0ae3602",
+      "text": "Kocana hiç bakmıyor musun? Zavallıcık pek bir mutsuz."
+    },
+    {
+      "id": "156bcc73",
+      "bank_id": "d0ae3602",
+      "text": "Üstüme vazife değil gerçi ama kocan hiç de mutlu görünmüyor."
+    },
+    {
+      "id": "156bcc76",
+      "bank_id": "d0ae3602",
+      "text": "Kocana cidden acıyorum. Sana katlanmak zorunda. Ne kadar mutsuz olduğu ta uzaktan belli."
+    },
+    {
+      "id": "17cb8ba4",
+      "bank_id": "d0ae3602",
+      "text": "Karısının suratından düşen bin parça, sanki limon yutmuş gibi ekşi ekşi bakıyor."
+    },
+    {
+      "id": "17cb8baf",
+      "bank_id": "d0ae3602",
+      "text": "Karısının suratından düşen bin parça, sanki limon yutmuş gibi ekşi ekşi bakıyor."
+    },
+    {
+      "id": "188d28e1",
+      "bank_id": "d0ae3602",
+      "text": "Kocasının mutluluğuna daha çok özen göstermezse pek yakında kendini bekâr bulabilir."
+    },
+    {
+      "id": "188d28ea",
+      "bank_id": "d0ae3602",
+      "text": "Kocasının mutluluğuna daha çok özen göstermezse pek yakında kendini bekâr bulabilir."
+    },
+    {
+      "id": "1c6bd773",
+      "bank_id": "d0ae3602",
+      "text": "Evde işlere hiç bakmıyor musun? Kocan artık canından bezmiş gibi duruyor."
+    },
+    {
+      "id": "1c6bd774",
+      "bank_id": "d0ae3602",
+      "text": "Kusuruma bakmazsan söyleyeyim, son günlerde kocan pek bir mutsuz görünüyor."
+    },
+    {
+      "id": "1cba2758",
+      "bank_id": "d0ae3602",
+      "text": "Bence bu yılın hasadı iyi olacak."
+    },
+    {
+      "id": "1cba275a",
+      "bank_id": "d0ae3602",
+      "text": "Bu senenin ekinleri için içimde iyi bir his var."
+    },
+    {
+      "id": "1cba275b",
+      "bank_id": "d0ae3602",
+      "text": "Bütün hasadı satabilirsek bir yıl daha idare ederiz."
+    },
+    {
+      "id": "21ba2f79",
+      "bank_id": "d0ae3602",
+      "text": "Hayatımı çiftçilikle geçirmeyi beklemiyordum açıkçası. Balerin olacaktım ben..."
+    },
+    {
+      "id": "21ba2f7a",
+      "bank_id": "d0ae3602",
+      "text": "Sabahtan akşama dek çalış, hayatını kazanmanın da böylesi! Na na na na"
+    },
+    {
+      "id": "21ba2f7b",
+      "bank_id": "d0ae3602",
+      "text": "Yeni bir sulama sistemi deniyorum. Temelde sadece yağmur yağmasını bekliyorum. Eski sistemle neredeyse aynı aslında."
+    },
+    {
+      "id": "39072670",
+      "bank_id": "d0ae3602",
+      "text": "Kusuruma bakmazsan söyleyeyim, son zamanlarda karın pek bir mutsuz görünüyor."
+    },
+    {
+      "id": "39072677",
+      "bank_id": "d0ae3602",
+      "text": "Evde işlere hiç bakmıyor musun? Karın artık canından bezmiş gibi duruyor."
+    },
+    {
+      "id": "3da8bcf3",
+      "bank_id": "d0ae3602",
+      "text": "Sence de karısı pek bir perişan görünmüyor mu?"
+    },
+    {
+      "id": "3da8bcf8",
+      "bank_id": "d0ae3602",
+      "text": "Sence de karısı pek bir perişan görünmüyor mu?"
+    },
+    {
+      "id": "4207345a",
+      "bank_id": "d0ae3602",
+      "text": "Karına cidden acıyorum. Sana katlanmak zorunda. Ne kadar perişan olduğu ta uzaktan belli."
+    },
+    {
+      "id": "4207345d",
+      "bank_id": "d0ae3602",
+      "text": "Karına hiç bakmıyor musun? Zavallıcık pek bir mutsuz."
+    },
+    {
+      "id": "4207345f",
+      "bank_id": "d0ae3602",
+      "text": "Üstüme vazife değil gerçi ama karın hiç de mutlu görünmüyor."
+    },
+    {
+      "id": "5248dc22",
+      "bank_id": "d0ae3602",
+      "text": "Çilekeş karısından duyduğuma göre yakında bir evlilik danışmanına ihtiyacı olacak."
+    },
+    {
+      "id": "5248dc29",
+      "bank_id": "d0ae3602",
+      "text": "Çilekeş karısından duyduğuma göre yakında bir evlilik danışmanına ihtiyacı olacak."
+    },
+    {
+      "id": "5b94a322",
+      "bank_id": "d0ae3602",
+      "text": "Evliliği için gerçekten daha fazla çaba göstermeli. Karısı çok mutsuz."
+    },
+    {
+      "id": "5b94a329",
+      "bank_id": "d0ae3602",
+      "text": "Evliliği için gerçekten daha fazla çaba göstermeli. Karısı çok mutsuz."
+    },
+    {
+      "id": "5ef8e7d6",
+      "bank_id": "d0ae3602",
+      "text": "Karına daha iyi baksan iyi edersin! Zavallıcık perişan halde!"
+    },
+    {
+      "id": "64a02d25",
+      "bank_id": "d0ae3602",
+      "text": "Evlilik emek ve özveri ister, onda da ikisi birden yok gibi."
+    },
+    {
+      "id": "64a02d2e",
+      "bank_id": "d0ae3602",
+      "text": "Evlilik emek ve özveri ister, onda da ikisi birden yok gibi."
+    },
+    {
+      "id": "67fe8579",
+      "bank_id": "d0ae3602",
+      "text": "O gargoyle'lerden biri bana yine bağırmaya başlarsa yemin ederim tuzla buz edeceğim."
+    },
+    {
+      "id": "67fe857c",
+      "bank_id": "d0ae3602",
+      "text": "Şu gargoyle'lere dikkat et. Göründükleri kadar da terbiyesizler."
+    },
+    {
+      "id": "67fe857e",
+      "bank_id": "d0ae3602",
+      "text": "Şu gargoyle'ler pek kaba. Geçen gün yanından geçerken biri bana hakaret edip durdu."
+    },
+    {
+      "id": "67fe857f",
+      "bank_id": "d0ae3602",
+      "text": "Her yerde gördüğün o taş gargoyle'ler var ya. Onları yok edecek kadar güçlü birinin türlü türlü hazinelere konacağını duydum."
+    },
+    {
+      "id": "68d03425",
+      "bank_id": "d0ae3602",
+      "text": "Karısından duyduğuma göre pek de öyle örnek bir koca sayılmaz."
+    },
+    {
+      "id": "68d0342e",
+      "bank_id": "d0ae3602",
+      "text": "Duyduğuma göre pek de öyle örnek bir eş sayılmaz."
+    },
+    {
+      "id": "6b8c8dc4",
+      "bank_id": "d0ae3602",
+      "text": "Bu seneki mahsul iyi olsa iyi olur."
+    },
+    {
+      "id": "6b8c8dc5",
+      "bank_id": "d0ae3602",
+      "text": "Birkaç yıl önce ekinlere bir musibet dadanmıştı. Yine olursa mahvoluruz."
+    },
+    {
+      "id": "6b8c8dc7",
+      "bank_id": "d0ae3602",
+      "text": "Gelecek yıl ekinleri çeşitlendirmeyi düşünüyorum."
+    },
+    {
+      "id": "6cd17714",
+      "bank_id": "d0ae3602",
+      "text": "Nasıl oluyor da kunduracıların geceleyin işlerini yapan perileri oluyor? Benim canına yandığımın perileri nerede?"
+    },
+    {
+      "id": "6cd17715",
+      "bank_id": "d0ae3602",
+      "text": "Bütün ömrün hasadın etrafında dönünce işler kolay olmuyor. Bir kez ters gitmeye görsün, lügatimi mazur gör ama hobbe'lendin demektir."
+    },
+    {
+      "id": "6cd17717",
+      "bank_id": "d0ae3602",
+      "text": "Benim gibiler olmasa Albion açlıktan kırılırdı. Gerçi kimsenin yaptığım işin kıymetini bildiği de yok ya."
+    },
+    {
+      "id": "721bfb25",
+      "bank_id": "d0ae3602",
+      "text": "Karısının mutluluğuna daha çok özen göstermezse pek yakında kendini bekâr bulabilir."
+    },
+    {
+      "id": "721bfb2e",
+      "bank_id": "d0ae3602",
+      "text": "Karısının mutluluğuna daha çok özen göstermezse pek yakında kendini bekâr bulabilir."
+    },
+    {
+      "id": "728c98c8",
+      "bank_id": "d0ae3602",
+      "text": "Acaba tırpanlarımın kendi kendine biçmesini sağlayacak bir Efsun Taşı bulabilir miyim?"
+    },
+    {
+      "id": "728c98c9",
+      "bank_id": "d0ae3602",
+      "text": "Toprağın verdiğini toprak geri alır. Ne anlama geldiğinden hiçbir zaman emin olamadım gerçi..."
+    },
+    {
+      "id": "728c98ca",
+      "bank_id": "d0ae3602",
+      "text": "Haydutlarla ve hobbe'lerle dövüşmek hoş tabii, ama esas zorluk arıyorsan gel de toprağı işle."
+    },
+    {
+      "id": "73d18218",
+      "bank_id": "d0ae3602",
+      "text": "Bize gereken şey, işleri bizim yerimize yapacak büyüyle çalışan bir araba."
+    },
+    {
+      "id": "73d18219",
+      "bank_id": "d0ae3602",
+      "text": "Belki de farklı ekinler ekmeye başlamamızın vakti gelmiştir."
+    },
+    {
+      "id": "73d1821a",
+      "bank_id": "d0ae3602",
+      "text": "Hangi sulama yöntemlerini kullandığımızı merak ediyorsundur kesin. Şey, bu bir sır."
+    },
+    {
+      "id": "7827a236",
+      "bank_id": "d0ae3602",
+      "text": "Evliliği için gerçekten daha fazla çaba göstermeli. Kocası çok mutsuz."
+    },
+    {
+      "id": "7827a23d",
+      "bank_id": "d0ae3602",
+      "text": "Evliliği için gerçekten daha fazla çaba göstermeli. Kocası çok mutsuz."
+    },
+    {
+      "id": "7a7d4552",
+      "bank_id": "d0ae3602",
+      "text": "Kocasından duyduğuma göre pek de öyle örnek bir eş sayılmaz."
+    },
+    {
+      "id": "7a7d4559",
+      "bank_id": "d0ae3602",
+      "text": "Duyduğuma göre pek de öyle örnek bir koca sayılmaz."
+    },
+    {
+      "id": "7ead4c52",
+      "bank_id": "d0ae3602",
+      "text": "Evlilik emek ve özveri ister, onda da ikisi birden yok gibi."
+    },
+    {
+      "id": "7ead4c59",
+      "bank_id": "d0ae3602",
+      "text": "Evlilik emek ve özveri ister, onda da ikisi birden yok gibi."
+    },
+    {
+      "id": "7fc74f10",
+      "bank_id": "d0ae3602",
+      "text": "Yakında boşanırsa hiç şaşırma. Git de o zavallı herife bir sor."
+    },
+    {
+      "id": "7fc74f1b",
+      "bank_id": "d0ae3602",
+      "text": "Yakında boşanırsa hiç şaşırma. Git de o zavallı herife bir sor."
+    },
+    {
+      "id": "8e04ba61",
+      "bank_id": "d0ae3602",
+      "text": "Kötü bir eş olmalı. Kocası zerre kadar bile mutlu görünmüyor."
+    },
+    {
+      "id": "8e04ba6a",
+      "bank_id": "d0ae3602",
+      "text": "Kötü bir koca olmalı. Yanındaki adam zerre kadar bile mutlu görünmüyor."
+    },
+    {
+      "id": "b093aced",
+      "bank_id": "d0ae3602",
+      "text": "Biraz çiftçilik yapmaya hevesin yok mu? Neyse boş ver, hayatta beceremezsin. Bir şeylere vurmayı gerektirmiyor sonuçta. Tabii hayvan yetiştirmiyorsan."
+    },
+    {
+      "id": "b093acee",
+      "bank_id": "d0ae3602",
+      "text": "Kendi mahsulünün büyüdüğünü görmek kadar güzel bir şey yoktur. Şey, belki kârla satmak daha güzeldir."
+    },
+    {
+      "id": "b093acef",
+      "bank_id": "d0ae3602",
+      "text": "Dört sene ziraat oku, peki ne için? Sabahtan akşama dek tarlada katır gibi çalışmak için."
+    },
+    {
+      "id": "bab55d05",
+      "bank_id": "d0ae3602",
+      "text": "Çilekeş kocasından duyduğuma göre yakında bir evlilik danışmanına ihtiyacı olacak."
+    },
+    {
+      "id": "bab55d0e",
+      "bank_id": "d0ae3602",
+      "text": "Çilekeş kocasından duyduğuma göre yakında bir evlilik danışmanına ihtiyacı olacak."
+    },
+    {
+      "id": "bb93be1c",
+      "bank_id": "d0ae3602",
+      "text": "O şehir züppeleri taşradan ne anlar. Çiftçilik zor zanaat."
+    },
+    {
+      "id": "bb93be1e",
+      "bank_id": "d0ae3602",
+      "text": "Böcek istilasıyla başımız fena derde girdi ama ekinlerimizi kurtarmayı başardık."
+    },
+    {
+      "id": "bb93be1f",
+      "bank_id": "d0ae3602",
+      "text": "Hasat toplayan mekanik bir araba ne güzel işime yarardı..."
+    },
+    {
+      "id": "c8312b05",
+      "bank_id": "d0ae3602",
+      "text": "Kötü bir eş olmalı. Karısı zerre kadar bile mutlu görünmüyor."
+    },
+    {
+      "id": "c8312b0e",
+      "bank_id": "d0ae3602",
+      "text": "Kötü bir koca olmalı. Karısı zerre kadar bile mutlu görünmüyor."
+    },
+    {
+      "id": "c8fef64c",
+      "bank_id": "d0ae3602",
+      "text": "Işığın aşkına, ben neden çiftçi oldum ki sanki?"
+    },
+    {
+      "id": "c8fef64d",
+      "bank_id": "d0ae3602",
+      "text": "*iç çeker* Bir çiftçinin işi asla bitmez."
+    },
+    {
+      "id": "c8fef64e",
+      "bank_id": "d0ae3602",
+      "text": "Çiftçi olmanın en berbat yanı sabahın köründe kalkmaktır."
+    },
+    {
+      "id": "ca3ad957",
+      "bank_id": "d0ae3602",
+      "text": "Sence de kocası pek bir perişan görünmüyor mu?"
+    },
+    {
+      "id": "ca3ad95c",
+      "bank_id": "d0ae3602",
+      "text": "Sence de kocası pek bir perişan görünmüyor mu?"
+    },
+    {
+      "id": "cb1c4788",
+      "bank_id": "d0ae3602",
+      "text": "Umarım bugünlerde karının sıhhati yerindedir."
+    },
+    {
+      "id": "cb1c4789",
+      "bank_id": "d0ae3602",
+      "text": "Karın diğer hanımlarla biraz dedikodu kaynatmaya gelebilir, kapımız açık tabii ki."
+    },
+    {
+      "id": "cb1c478a",
+      "bank_id": "d0ae3602",
+      "text": "Dün gördüğüm senin hanım değil miydi? Başında pek hoş bir şapka vardı."
+    },
+    {
+      "id": "cb1c478b",
+      "bank_id": "d0ae3602",
+      "text": "Senin hanım geçen gün hepimize bir turta getirdi. Hoş kadın vesselam."
+    },
+    {
+      "id": "cb1c478c",
+      "bank_id": "d0ae3602",
+      "text": "Bugünlerde karını pek göremiyorum ortalıkta. Evde oturuyor herhalde."
+    },
+    {
+      "id": "cb1c478d",
+      "bank_id": "d0ae3602",
+      "text": "Dün dükkânlarda karını gördüm."
+    },
+    {
+      "id": "cb1c478e",
+      "bank_id": "d0ae3602",
+      "text": "Bugünlerde karın nasıl bakalım?"
+    },
+    {
+      "id": "cd9f01d0",
+      "bank_id": "d0ae3602",
+      "text": "Kocasının suratından düşen bin parça, sanki limon yutmuş gibi ekşi ekşi bakıyor."
+    },
+    {
+      "id": "cd9f01db",
+      "bank_id": "d0ae3602",
+      "text": "Kocasının suratından düşen bin parça, sanki limon yutmuş gibi ekşi ekşi bakıyor."
+    },
+    {
+      "id": "d1ff0498",
+      "bank_id": "d0ae3602",
+      "text": "Herkes çiftçilik hayatına uygun değildir. Üstün bir zekâ gerektirir bu iş."
+    },
+    {
+      "id": "d1ff0499",
+      "bank_id": "d0ae3602",
+      "text": "Bu hayat insanın belini büküyor, bilesin."
+    },
+    {
+      "id": "d1ff049b",
+      "bank_id": "d0ae3602",
+      "text": "Bir çiftçi olarak en çok ihtiyaç duyacağın şey, gübre kokusuna karşı yüksek bir tahammüldür."
+    },
+    {
+      "id": "d41c55d8",
+      "bank_id": "d0ae3602",
+      "text": "Bugünlerde karınla hayatın tadını çıkarıyor musun?"
+    },
+    {
+      "id": "d41c55d9",
+      "bank_id": "d0ae3602",
+      "text": "Karına benden selam söyle, olur mu?"
+    },
+    {
+      "id": "d41c55db",
+      "bank_id": "d0ae3602",
+      "text": "Geçen gün karını gördüm sanırım. Şu uzun boylu kız mıydı? Hımm, belki de başkasıyla karıştırıyorum."
+    },
+    {
+      "id": "d41c55dc",
+      "bank_id": "d0ae3602",
+      "text": "Umarım karınla aranızda her şey yolundadır."
+    },
+    {
+      "id": "d41c55dd",
+      "bank_id": "d0ae3602",
+      "text": "Şu küçük seferlerine çıktığında karını pek özlüyor olmalısın."
+    },
+    {
+      "id": "d41c55de",
+      "bank_id": "d0ae3602",
+      "text": "Senin hanım bugün yanında değil mi?"
+    },
+    {
+      "id": "d41c55df",
+      "bank_id": "d0ae3602",
+      "text": "Duyduğuma göre karının pek alışılmadık bir dövmesi varmış. Dedikodudan ibaret mi yoksa? Hır hır!"
+    },
+    {
+      "id": "e7862c31",
+      "bank_id": "d0ae3602",
+      "text": "Toprağı işlemeye başladığım ilk günü hâlâ hatırlarım. Elime üç kıymık batmış, ayağım da bir balkabağına sıkışmıştı."
+    },
+    {
+      "id": "e7862c32",
+      "bank_id": "d0ae3602",
+      "text": "Babam çiftçiydi. Onun babası da çiftçiydi. Onun babasının babası da çiftçiydi. Onun babasının babasının babasıysa sütyen satıcısıydı."
+    },
+    {
+      "id": "e7862c33",
+      "bank_id": "d0ae3602",
+      "text": "Çiftçilik maceralara atılmak kadar heyecan verici olmayabilir ama çoğu hayattan daha iyidir."
+    },
+    {
+      "id": "f2863d60",
+      "bank_id": "d0ae3602",
+      "text": "Aradığın şey ellerinde koca koca nasırlar biriktirmekse, çiftçiliğe başla derim."
+    },
+    {
+      "id": "f2863d62",
+      "bank_id": "d0ae3602",
+      "text": "Bu hafta yeni bir böcek ilacı deniyorum. Portakal kabuğu ve biradan yapıldı."
+    },
+    {
+      "id": "f2863d63",
+      "bank_id": "d0ae3602",
+      "text": "Bir gün çocuklarım olursa umarım başka bir yol bulurlar. Bu hayat bazen fazla zalim ve çetin olabiliyor."
+    },
+    {
+      "id": "f931b63c",
+      "bank_id": "d0ae3602",
+      "text": "Belki kocan benim terziyi denemek ister. Gerçi aşırı pahalıdır kendisi."
+    },
+    {
+      "id": "f931b63d",
+      "bank_id": "d0ae3602",
+      "text": "Kocan bir ara bize katılıp münazara yapmalı ve pipo tüttürmeli."
+    },
+    {
+      "id": "f931b63e",
+      "bank_id": "d0ae3602",
+      "text": "Dün gördüğüm senin kocan değil miydi? Başında pek hoş bir şapka vardı."
+    },
+    {
+      "id": "f931b63f",
+      "bank_id": "d0ae3602",
+      "text": "Senin adam geçen gün bana bir kadeh ısmarladı. İyi çocuk vesselam."
+    }
+  ]
+}

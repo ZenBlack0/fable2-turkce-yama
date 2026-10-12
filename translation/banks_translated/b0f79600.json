@@ -1,0 +1,416 @@
+{
+  "bank_id": "b0f79600",
+  "total_strings": 82,
+  "strings": [
+    {
+      "id": "01163262",
+      "bank_id": "b0f79600",
+      "text": "Seçilmiş Kişi"
+    },
+    {
+      "id": "02840d82",
+      "bank_id": "b0f79600",
+      "text": "Korku Tellalı"
+    },
+    {
+      "id": "0311e4ba",
+      "bank_id": "b0f79600",
+      "text": "Aslan Yürekli"
+    },
+    {
+      "id": "095f2e3d",
+      "bank_id": "b0f79600",
+      "text": "Sınırlı bir süre boyunca canınızın kendi kendine çok hızlı yenilenmesini sağlar. Bu içecek esas olarak öğütülmüş kahve çekirdeklerinin demlenmesinden oluşur."
+    },
+    {
+      "id": "0df772a5",
+      "bank_id": "b0f79600",
+      "text": "Lonca Mührü"
+    },
+    {
+      "id": "0fc3bd70",
+      "bank_id": "b0f79600",
+      "text": "Yolkesen Pantolonu"
+    },
+    {
+      "id": "17122ff4",
+      "bank_id": "b0f79600",
+      "text": "Silahşor"
+    },
+    {
+      "id": "1781227e",
+      "bank_id": "b0f79600",
+      "text": "Lucien'in deri ciltli planlarının ayrıntılı bir kaydı."
+    },
+    {
+      "id": "17e501fd",
+      "bank_id": "b0f79600",
+      "text": "Lucien'in Günlüğü (11. Sayfa)"
+    },
+    {
+      "id": "1852f71a",
+      "bank_id": "b0f79600",
+      "text": "Köpeğiniz en iyi dostunuzdur. Ona sadece iyi davranmakla kalmaz, eğitimini de önemsersiniz. Köpeğinize yeterince numara öğrettiğinizde bu unvan ücretsiz olur."
+    },
+    {
+      "id": "1fb67e7d",
+      "bank_id": "b0f79600",
+      "text": "Başka bir boyuttan gelen yüce savaşçı Hal'ın ruhu içinizde yaşıyor."
+    },
+    {
+      "id": "30e1fb8e",
+      "bank_id": "b0f79600",
+      "text": "Elinizde bir silahla doğmuşsunuz. Silah çekmekte hızlısınız ve isabetiniz ölümcül."
+    },
+    {
+      "id": "315618ca",
+      "bank_id": "b0f79600",
+      "text": "(Lucien'in sesinin yankısını dinlemek için bunu envanterinizde kullanın.)\nAraştırmalarımda artık yalnız değilim. Garth, Samarkand'ın batı uçlarından geldi ve çalışmaları benimkileri fersah fersah aşıyor. Eski Krallık eserleri konusunda olağanüstü bir yatkınlık sergiliyor.\nBugün örümcek ağları gibi narince örülmüş ışıkların som taşın içinde parıldamasını hayretle izledim. Olağanüstü."
+    },
+    {
+      "id": "31e243c8",
+      "bank_id": "b0f79600",
+      "text": "Lucien'in Günlüğü (1. Sayfa)"
+    },
+    {
+      "id": "355f4961",
+      "bank_id": "b0f79600",
+      "text": "(Lucien'in sesinin yankısını dinlemek için bunu envanterinizde kullanın.)\nBaşka çare yok: Kule'nin benim ömrüm içinde tamamlanabilmesinin tek yolu zorla çalıştırmadır.\nGarth bu ihtimal karşısındaki endişemi paylaşıyor ama kararlılığımı da paylaştığına inanıyorum.\nBazen geleneksel ahlak kavramları ne kadar zor olursa olsun yıkılmalı, askıya alınmalıdır. Ahlak güzel bir şeydir... ancak mantıksal sınırına kadar götürüldüğünde bizi gerçek büyüklükten alıkoyabilir."
+    },
+    {
+      "id": "39e54672",
+      "bank_id": "b0f79600",
+      "text": "Salata Kaçkını"
+    },
+    {
+      "id": "3cd7b61b",
+      "bank_id": "b0f79600",
+      "text": "Sevgilim,\nLütfen derhâl eve dön. Kızımız hakkında vahim haberlerim var.\nSadık kocan,\n%1."
+    },
+    {
+      "id": "3cdf76f2",
+      "bank_id": "b0f79600",
+      "text": "Makam için yarışmaktan ve kanalizasyon sistemleri hakkında kararlar almaktan hoşlanıyorsunuz. Fairfax Kalesi'ne sahip olduğunuzda bu unvan ücretsiz olur."
+    },
+    {
+      "id": "3f51f88c",
+      "bank_id": "b0f79600",
+      "text": "Albion'daki en kötücül varlıklardan birisiniz. Gölgeler Tapınağı'na sahip olduğunuzda bu unvan ücretsiz olur."
+    },
+    {
+      "id": "40293470",
+      "bank_id": "b0f79600",
+      "text": "Turtalar, etler, çikolatalar, küçük binalar... Sağlıksız olduğu sürece yemeyeceğiniz hiçbir şey yok. Yeterince şişmanladığınızda bu unvan ücretsiz olur."
+    },
+    {
+      "id": "40b25926",
+      "bank_id": "b0f79600",
+      "text": "Aslan Yelesi İksiri"
+    },
+    {
+      "id": "4140f031",
+      "bank_id": "b0f79600",
+      "text": "Sevgilim,\nLütfen derhâl eve dön. Oğlumuz hakkında vahim haberlerim var.\nSadık kocan,\n%1."
+    },
+    {
+      "id": "48063462",
+      "bank_id": "b0f79600",
+      "text": "Genellikle bir muhafızın kılıç darbesini hafifletmek veya son suikasta uğrayanın kanını emmek için kullanılan zarif bir palto."
+    },
+    {
+      "id": "4e183bf2",
+      "bank_id": "b0f79600",
+      "text": "Yolkesen Çizmeleri"
+    },
+    {
+      "id": "56f41fc8",
+      "bank_id": "b0f79600",
+      "text": "Büyü sanatlarına öylesine heves sarmış biri değilsiniz, siz İrade'nin yüce ustasısınız."
+    },
+    {
+      "id": "57c72c71",
+      "bank_id": "b0f79600",
+      "text": "Kısacık bir şort giymeye cesaretiniz var mı?"
+    },
+    {
+      "id": "592352e7",
+      "bank_id": "b0f79600",
+      "text": "Yolkesenler ellerini zarardan korumaya çok dikkat eder. Bu eldivenler silah savurmak, hedefleri boğmak ve tenin harika bir şekilde pürüzsüz kalmasını sağlamak için mükemmeldir."
+    },
+    {
+      "id": "5da0d0eb",
+      "bank_id": "b0f79600",
+      "text": "Başkalarını sinir etmek için elinizden geleni yapıyorsunuz. Belki özgüven sorununuz vardır. Ya da belki sadece bir ahmaksınızdır. Yeterince insanın sizden nefret etmesini sağladığınızda bu unvan ücretsiz olur."
+    },
+    {
+      "id": "656b5fcb",
+      "bank_id": "b0f79600",
+      "text": "Albion'un en korkulan suikastçısısınız, doğru fiyat karşılığında herkese ölüm getirensiniz. Yeterince suikast görevi tamamladığınızda bu unvan ücretsiz olur."
+    },
+    {
+      "id": "674dffcb",
+      "bank_id": "b0f79600",
+      "text": "Sevgilim,\nLütfen derhâl eve dön. Oğlumuz hakkında vahim haberlerim var.\nSadık karın,\n%1."
+    },
+    {
+      "id": "677083d1",
+      "bank_id": "b0f79600",
+      "text": "Dangalak"
+    },
+    {
+      "id": "6e3a5555",
+      "bank_id": "b0f79600",
+      "text": "Sevgilim,\nLütfen derhâl eve dön. Kızımız hakkında vahim haberlerim var.\nSadık karın,\n%1."
+    },
+    {
+      "id": "6eb66cf6",
+      "bank_id": "b0f79600",
+      "text": "Kraliçe"
+    },
+    {
+      "id": "7b979b99",
+      "bank_id": "b0f79600",
+      "text": "Suç sizin için sadece bir hobi değil, bir yaşam tarzıdır. Yeterince suç işlediğinizde bu unvan ücretsiz olur."
+    },
+    {
+      "id": "7c008387",
+      "bank_id": "b0f79600",
+      "text": "Tavuk Kovalayan"
+    },
+    {
+      "id": "7c1b751c",
+      "bank_id": "b0f79600",
+      "text": "Kaçırma Mektubu"
+    },
+    {
+      "id": "842ee8c8",
+      "bank_id": "b0f79600",
+      "text": "Bazı yolkesenler pantolon sevmez ve işlerini çıplak bacaklarla yapmayı tercih eder ancak Yolkesen Düsturu bu konuda nettir: Her zaman uygun bacak koruması giyilmelidir."
+    },
+    {
+      "id": "8662531e",
+      "bank_id": "b0f79600",
+      "text": "Ya gençliğinize özlem duyuyorsunuz ya da bir kuşsunuz."
+    },
+    {
+      "id": "866f33fa",
+      "bank_id": "b0f79600",
+      "text": "(Lucien'in sesinin yankısını dinlemek için bunu envanterinizde kullanın.)\nBu gece Bowerstone sokaklarını dolduran kalabalıklara yukarıdan bakıyor ve karanlık, acı bir haset duyuyorum.\nOnların huzurunu, canlılığını, o... hayatlarını arzuluyorum. Fairfax Kalesi sessiz. Sevgili Helena'm, canım Amelia'm... İkinizi de dehşetli özlüyorum."
+    },
+    {
+      "id": "8a1850e4",
+      "bank_id": "b0f79600",
+      "text": "Sparrow"
+    },
+    {
+      "id": "8add894f",
+      "bank_id": "b0f79600",
+      "text": "Kral"
+    },
+    {
+      "id": "8c73b921",
+      "bank_id": "b0f79600",
+      "text": "Yolkesen Eldiveni"
+    },
+    {
+      "id": "99c0edc2",
+      "bank_id": "b0f79600",
+      "text": "Yolkesen Şapkası"
+    },
+    {
+      "id": "99eb3282",
+      "bank_id": "b0f79600",
+      "text": "(Lucien'in sesinin yankısını dinlemek için bunu envanterinizde kullanın.)\nEski Krallık'ın Archonlarının hükümdarlıklarının sonlarına doğru kendi ölümlülükleriyle öfkeyle yüzleştiklerini keşfettim; ölümün kaçınılmazlığını reddetmişlerdi. En azından bu felsefeyi paylaşıyor olmamız biraz teselli veriyor.\nDünyalarını değiştirmek için büyük çabalar sarf ettiler. Büyük çabalar. Bunu Garth'a çıtlattığımda sessizliğe büründü. Buna şaşıyorum."
+    },
+    {
+      "id": "9b365644",
+      "bank_id": "b0f79600",
+      "text": "Lucien'in Günlüğü"
+    },
+    {
+      "id": "a4d09267",
+      "bank_id": "b0f79600",
+      "text": "Kahve İksiri"
+    },
+    {
+      "id": "a4e0b340",
+      "bank_id": "b0f79600",
+      "text": "Işıltılı bilgeliğiniz ve lütfunuz sizi iyi olan her şey için parlayan bir fener haline getiriyor. Işık Tapınağı'nı satın aldığınızda bu unvan ücretsiz olur."
+    },
+    {
+      "id": "a5b4c410",
+      "bank_id": "b0f79600",
+      "text": "Lucien'in Günlüğü (5. Sayfa)"
+    },
+    {
+      "id": "a6835578",
+      "bank_id": "b0f79600",
+      "text": "Yılmaz, cesur doğanız sizi başkalarının gitmeye cesaret edemeyeceği yerlere götürür. Çile şampiyonu olduğunuzda bu unvan ücretsiz olur."
+    },
+    {
+      "id": "a6a5c655",
+      "bank_id": "b0f79600",
+      "text": "İnsanların hayatına kahkaha katıyorsunuz; bazen bilerek bile yapıyorsunuz bunu. Yeterince insanı güldürdüğünüzde bu unvan ücretsiz olur."
+    },
+    {
+      "id": "a8412a42",
+      "bank_id": "b0f79600",
+      "text": "Bu çizmeler yürümek, ezmek, tekmelemek veya kurbanınızın değerli eşyalarıyla sıvışmayı içeren başka herhangi bir şey için yapılmıştır."
+    },
+    {
+      "id": "a8c764e0",
+      "bank_id": "b0f79600",
+      "text": "Herkesin yüreğine korku salıyorsunuz. Varlığınız bile çoğu insanı korkutmaya yeter. Yeterince köylü sizden korktuğunda bu unvan ücretsiz olur."
+    },
+    {
+      "id": "aaff1be7",
+      "bank_id": "b0f79600",
+      "text": "Bu dikkat çekici aygıta bağlı büyü, uzak mesafelerden Theresa ile iletişim kurmanızı sağlar. Eğer bu amaçla kullanmak isterseniz mistik bir fener görevi de görür."
+    },
+    {
+      "id": "ab1c4260",
+      "bank_id": "b0f79600",
+      "text": "Lucien'in Günlüğü (9. Sayfa)"
+    },
+    {
+      "id": "ae188b1f",
+      "bank_id": "b0f79600",
+      "text": "(Lucien'in sesinin yankısını dinlemek için bunu envanterinizde kullanın.)\nHayatım ve gayem artık Albion kıyılarının çok ötesinde. Adımı taşıyan kalede uzun süre kalmayacağım.\nKadimlerin teknolojisine olan hâkimiyetim katlanarak artıyor ve bugün tam burada, şehir içinde umut vadeden iki aday olduğunu öğrendim. Aradığım titanlardan ikisi burnumun dibinde olabilir mi? Henüz sadece çocuklar ama... Ah, canım Amelia."
+    },
+    {
+      "id": "b356651f",
+      "bank_id": "b0f79600",
+      "text": "(Lucien'in sesinin yankısını dinlemek için bunu envanterinizde kullanın.)\nAnakaradan bu kadar uzakta olmaktan beklenmedik bir sevinç duyuyorum. Burada beni bu dünyaya başka hiçbir bağın bağlamadığını hayal edebiliyorum. Geçmiş yok. Acı yok. Sadece önümdeki o büyük görev.\nArtık üs neredeyse tamamlandı. Gemilerimizin en azından bir limanı olacak! Ne yazık ki bugün işçilerimizden ilki can verdi. Bu beklenmedik bir durum değildi. Ne olursa olsun devam etmeliyiz."
+    },
+    {
+      "id": "b8bd5a36",
+      "bank_id": "b0f79600",
+      "text": "Sevgilim, Derhâl eve dön. %1 hakkında vahim haberlerim var. Sonsuza dek seninim, Sadık %2, %3."
+    },
+    {
+      "id": "bb2974a7",
+      "bank_id": "b0f79600",
+      "text": "Master Chief"
+    },
+    {
+      "id": "bc1002ac",
+      "bank_id": "b0f79600",
+      "text": "Saçınız ve sakalınız mümkün olan en uzun boya ulaşarak onları uygun gördüğünüz şekilde biçimlendirmenize olanak tanır."
+    },
+    {
+      "id": "bcc762b8",
+      "bank_id": "b0f79600",
+      "text": "Lucien'in Günlüğü (4. Sayfa)"
+    },
+    {
+      "id": "c2f5a534",
+      "bank_id": "b0f79600",
+      "text": "Sırf varlığınız bile etrafınızdakilerin sevgisini uyandırır. O kadar sevilesi birisiniz işte. Yeterince insanın sizi sevmesini sağladığınızda bu unvan ücretsiz olur."
+    },
+    {
+      "id": "c3c47468",
+      "bank_id": "b0f79600",
+      "text": "Köpek Sever"
+    },
+    {
+      "id": "c3f2bc06",
+      "bank_id": "b0f79600",
+      "text": "Gölge İblisi"
+    },
+    {
+      "id": "c4e9d99f",
+      "bank_id": "b0f79600",
+      "text": "Şakacı"
+    },
+    {
+      "id": "c7f13fd3",
+      "bank_id": "b0f79600",
+      "text": "Mini Şort"
+    },
+    {
+      "id": "c93cc28f",
+      "bank_id": "b0f79600",
+      "text": "Kasap"
+    },
+    {
+      "id": "ca13e39c",
+      "bank_id": "b0f79600",
+      "text": "Tüm Albion'un Kraliçesisiniz. Dünya önünüzde diz çöküyor."
+    },
+    {
+      "id": "cdb42dd2",
+      "bank_id": "b0f79600",
+      "text": "Yolkesen Paltosu"
+    },
+    {
+      "id": "cf147525",
+      "bank_id": "b0f79600",
+      "text": "Tüm Albion'un Kralısınız. Dünya önünüzde diz çöküyor."
+    },
+    {
+      "id": "d01262a3",
+      "bank_id": "b0f79600",
+      "text": "(Lucien'in sesinin yankısını dinlemek için bunu envanterinizde kullanın.)\nSevgili Helena'm ve Amelia'm gözlerimi her kapattığımda hâlâ beni ziyaret ediyor ama dün gece gördüğüm rüyalar daha önce peşimi bırakmayanların hiçbirine benzemiyordu. Kör, kukuletalı bir kadın ve gölgeli, bir deri bir kemik kalmış başka suretler gördüm.\nFakat gün doğumu taşıyabileceği tüm anlamları çoktan silip süpürdü. Yeni yeteneklerimin sunabileceği tek şey bu mu? Gizemli görüler ve kehanet dolu bilmeceler mi? Tam bir gece uykusunun tadını çıkarmayı yeğlerdim."
+    },
+    {
+      "id": "d382e1ea",
+      "bank_id": "b0f79600",
+      "text": "Sihirbaz"
+    },
+    {
+      "id": "d748fb72",
+      "bank_id": "b0f79600",
+      "text": "Albion genelinde bir yolkesen şapkası kadar tanınabilir çok az başlık vardır. Onu görmek genellikle ölüm ya da en azından tüm değerli eşyaların kaybı anlamına gelir."
+    },
+    {
+      "id": "e123ac02",
+      "bank_id": "b0f79600",
+      "text": "(Lucien'in sesinin yankısını dinlemek için bunu envanterinizde kullanın.)\nBugün İrade'nin ilk kıpırtılarını hissettim. Şimdiye kadar yaşadığım hiçbir şeye benzemiyordu. Güçlü, baştan çıkarıcı. Ve fazlasıyla kısa. Daha fazlasına açım.\nGarth hoşnutsuz görünüyordu. 'Kibrine yenilme' diyebildiği tek şey oldu. Zekice olsa da düşüncelerinin sıklıkla çelişkili ve çekingen olduğu benim için artık netleşiyor. Başaracağımız şeyin güzelliğini kavrayamıyor mu?"
+    },
+    {
+      "id": "e1c7067b",
+      "bank_id": "b0f79600",
+      "text": "Kanun Kaçağı"
+    },
+    {
+      "id": "e1cac1dd",
+      "bank_id": "b0f79600",
+      "text": "Çocukken kümes hayvanları yüzünden ağır bir travma geçirdiniz ve şimdi bütün tavuklardan nefret ediyorsunuz. Belirli sayıda tavuk tekmelediğinizde bu unvan ücretsiz olur."
+    },
+    {
+      "id": "e4c57e6e",
+      "bank_id": "b0f79600",
+      "text": "Lokum"
+    },
+    {
+      "id": "eb246d60",
+      "bank_id": "b0f79600",
+      "text": "Belediye Başkanı"
+    },
+    {
+      "id": "eced3d90",
+      "bank_id": "b0f79600",
+      "text": "Lucien'in Günlüğü (14. Sayfa)"
+    },
+    {
+      "id": "f1b4b1b1",
+      "bank_id": "b0f79600",
+      "text": "Cellat"
+    },
+    {
+      "id": "f7802fc3",
+      "bank_id": "b0f79600",
+      "text": "Lucien'in Günlüğü (8. Sayfa)"
+    },
+    {
+      "id": "fcb42e89",
+      "bank_id": "b0f79600",
+      "text": "Lucien'in Günlüğü (15. Sayfa)"
+    },
+    {
+      "id": "fcd74bf2",
+      "bank_id": "b0f79600",
+      "text": "(Lucien'in sesinin yankısını dinlemek için bunu envanterinizde kullanın.)\nBelki de Westcliff zor kullanma ikileminin cevabıdır. Çile galipleri bilhassa sağlam kumaştan olmalıdır; fiziksel olarak ideal elemanlar.\nİtaat meselelerine gelince... Buraya geldiklerinde ortaya çıkabilecek her türlü hoşnutsuzluğa bir cevap bulmuş olabileceğime inanıyorum. Kule'nin inşasını hiçbir şeyin tehlikeye atmasına izin veremem."
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "bank_id": "e0b1b600",
+  "total_strings": 153,
+  "strings": [
+    {
+      "id": "01ddc455",
+      "bank_id": "e0b1b600",
+      "text": "Belki de köpeğini takip etmelisin."
+    },
+    {
+      "id": "0a06506c",
+      "bank_id": "e0b1b600",
+      "text": "Pekâlâ, düşüncelerin sende kalsın. Ama bil ki bugünkü eylemlerin birçok hayat kurtardı."
+    },
+    {
+      "id": "0b0651df",
+      "bank_id": "e0b1b600",
+      "text": "Bütün Kahramanların yapması gerektiği gibi bu yüke sen de alışacaksın."
+    },
+    {
+      "id": "0e065698",
+      "bank_id": "e0b1b600",
+      "text": "Hissediyorsun, değil mi? Bu mesafeden bile kudreti içinde yankılanıyor. Yeniden inşa edilen Harap Kule, Albion'un üzerine bir kez daha o sapkın gölgesini düşürüyor."
+    },
+    {
+      "id": "0e88eae8",
+      "bank_id": "e0b1b600",
+      "text": "Bunu nasıl yaptın?! Öldü bile!"
+    },
+    {
+      "id": "0f06580b",
+      "bank_id": "e0b1b600",
+      "text": "Bak."
+    },
+    {
+      "id": "100659f6",
+      "bank_id": "e0b1b600",
+      "text": "Kartlar bana bunu gösterdi."
+    },
+    {
+      "id": "100659f7",
+      "bank_id": "e0b1b600",
+      "text": "İşte burada..."
+    },
+    {
+      "id": "100659f8",
+      "bank_id": "e0b1b600",
+      "text": "Kız kardeşin bu yüzden öldü..."
+    },
+    {
+      "id": "100659f9",
+      "bank_id": "e0b1b600",
+      "text": "...ve onunla bu yüzden yüzleşeceksin."
+    },
+    {
+      "id": "100659fa",
+      "bank_id": "e0b1b600",
+      "text": "Bazıları bunun ilk dilek olduğunu söyler: kof ve yozlaşmış bir dünyanın sonu. Ve onun yerini daha saf bir dünyanın alması."
+    },
+    {
+      "id": "100659fb",
+      "bank_id": "e0b1b600",
+      "text": "Ve şimdi Kule, Lucien'in ellerinde bir kez daha yükseliyor."
+    },
+    {
+      "id": "100659fc",
+      "bank_id": "e0b1b600",
+      "text": "Tamamlandığı ve ilk dileğin dilendiği gün, içinde bir ışık parıldadı; oysa doğası daha karanlık olamazdı."
+    },
+    {
+      "id": "100659fd",
+      "bank_id": "e0b1b600",
+      "text": "Albion paramparça oldu. Asırlık medeniyet bir anda silindi, halkı varoluştan silinip gitti."
+    },
+    {
+      "id": "100659fe",
+      "bank_id": "e0b1b600",
+      "text": "Kule, dünyadaki tüm büyünün bir kanalı olarak tasarlandı; Krallığın hükümdarına gerçekliği kendi iradesine göre bükebileceği kadar büyük bir güç bahşediyordu."
+    },
+    {
+      "id": "100659ff",
+      "bank_id": "e0b1b600",
+      "text": "Lucien, kendisinin Kule'yi kullanmasını engelleyecek birinin gelişini önceden bildiren belgeler buldu."
+    },
+    {
+      "id": "11065b51",
+      "bank_id": "e0b1b600",
+      "text": "Bu olağanüstü yapı daha önce bir kez, Eski Krallık çağında inşa edilmişti."
+    },
+    {
+      "id": "12065cc4",
+      "bank_id": "e0b1b600",
+      "text": "Gecikme için özür dilerim. Olaylar gerçekten çok hızlı gelişiyor."
+    },
+    {
+      "id": "1406602a",
+      "bank_id": "e0b1b600",
+      "text": "Coşkulu olmanın faydası olacaktır elbet. Ama dikkat et, seni yiyip bitirmesin."
+    },
+    {
+      "id": "1506619d",
+      "bank_id": "e0b1b600",
+      "text": "Sorumluluğun ağırlığını hissediyor musun artık?"
+    },
+    {
+      "id": "15c19026",
+      "bank_id": "e0b1b600",
+      "text": "Kilitli kapının etrafından dolaşacak başka bir yol bulun."
+    },
+    {
+      "id": "16c19199",
+      "bank_id": "e0b1b600",
+      "text": "Oakfield'deki başkeşişi bulun."
+    },
+    {
+      "id": "17296890",
+      "bank_id": "e0b1b600",
+      "text": "Zavallı Joey için çok endişeleniyorum."
+    },
+    {
+      "id": "17c1930c",
+      "bank_id": "e0b1b600",
+      "text": "Theresa'nın gelmesini bekleyin."
+    },
+    {
+      "id": "18296a03",
+      "bank_id": "e0b1b600",
+      "text": "Ah, önden buyurun."
+    },
+    {
+      "id": "18c194ff",
+      "bank_id": "e0b1b600",
+      "text": "Bowerstone'u keşfedin."
+    },
+    {
+      "id": "19296bf6",
+      "bank_id": "e0b1b600",
+      "text": "Mağaraya girelim mi? Lütfen?"
+    },
+    {
+      "id": "19c19652",
+      "bank_id": "e0b1b600",
+      "text": "Bowerstone Pazarı'nda Theresa ile buluşun."
+    },
+    {
+      "id": "1d4346f0",
+      "bank_id": "e0b1b600",
+      "text": "Dal!"
+    },
+    {
+      "id": "1e434863",
+      "bank_id": "e0b1b600",
+      "text": "Ne?"
+    },
+    {
+      "id": "1f4349d6",
+      "bank_id": "e0b1b600",
+      "text": "Pardon."
+    },
+    {
+      "id": "20434b49",
+      "bank_id": "e0b1b600",
+      "text": "İllaki farklı olacaksın değil mi."
+    },
+    {
+      "id": "21ed96e4",
+      "bank_id": "e0b1b600",
+      "text": "Delik deşik edin şunları!"
+    },
+    {
+      "id": "22434eae",
+      "bank_id": "e0b1b600",
+      "text": "A bakın! Bir yolcu daha."
+    },
+    {
+      "id": "22434eaf",
+      "bank_id": "e0b1b600",
+      "text": "Oakfield'e gitmek mi istiyorsun? Yüzmen gerekecek tatlım!"
+    },
+    {
+      "id": "23435002",
+      "bank_id": "e0b1b600",
+      "text": "<laughs> Evet, atla!"
+    },
+    {
+      "id": "23f3da07",
+      "bank_id": "e0b1b600",
+      "text": "Daha sert vur! Evet!"
+    },
+    {
+      "id": "240408bc",
+      "bank_id": "e0b1b600",
+      "text": "Gel."
+    },
+    {
+      "id": "244351f5",
+      "bank_id": "e0b1b600",
+      "text": "Atla, atla, atla!"
+    },
+    {
+      "id": "24ed9bbd",
+      "bank_id": "e0b1b600",
+      "text": "Ateş etmeyi bırakmayın!"
+    },
+    {
+      "id": "24f3dbfa",
+      "bank_id": "e0b1b600",
+      "text": "İşte böyle yapılır! Ez geç şu alçakları!"
+    },
+    {
+      "id": "25040a2f",
+      "bank_id": "e0b1b600",
+      "text": "Lucien şu an orada işte. Harap Kule'de."
+    },
+    {
+      "id": "25f3dd6d",
+      "bank_id": "e0b1b600",
+      "text": "Canın yandı mı seni küçük pislik?!"
+    },
+    {
+      "id": "26040b82",
+      "bank_id": "e0b1b600",
+      "text": "Hâlâ eski ekipmanlarını kullanıyorsun. Görevin zorlu bir görev; daha iyi hazırlanmalısın."
+    },
+    {
+      "id": "27040d75",
+      "bank_id": "e0b1b600",
+      "text": "Yeni ekipman satın aldığını görüyorum. Öyle yapmakla akıllılık ettin, zira buradan sonraki yolculuğun oldukça çetin geçecek."
+    },
+    {
+      "id": "278887a9",
+      "bank_id": "e0b1b600",
+      "text": "Ben bu kapıyı açmaya çalışırken sen başka bir giriş yolu bulabilecek misin bir bak."
+    },
+    {
+      "id": "2cefbcbb",
+      "bank_id": "e0b1b600",
+      "text": "HOBBE'LER"
+    },
+    {
+      "id": "2e7deab7",
+      "bank_id": "e0b1b600",
+      "text": "Ah, iğrenç şeyler!"
+    },
+    {
+      "id": "2eea1edc",
+      "bank_id": "e0b1b600",
+      "text": "Kahretsin, kilitli... Lanet olsun!"
+    },
+    {
+      "id": "2f78c0de",
+      "bank_id": "e0b1b600",
+      "text": "Geri döndüm. Ana meydandaki saat kulesinin yanında benimle buluş."
+    },
+    {
+      "id": "2f7dec2a",
+      "bank_id": "e0b1b600",
+      "text": "Ama onlar... Olamaz... Yani gerçekten çocuk olamazlardı, değil mi?"
+    },
+    {
+      "id": "307ded9d",
+      "bank_id": "e0b1b600",
+      "text": "Ah, Joey!"
+    },
+    {
+      "id": "3178c423",
+      "bank_id": "e0b1b600",
+      "text": "Yeni ekipman istediğinde haritanı kontrol etmelisin. Şu anda Bowerstone'da indirim var sanırım."
+    },
+    {
+      "id": "3178c424",
+      "bank_id": "e0b1b600",
+      "text": "Bu arada yeni ekipmanlar almalı ve önündeki zorluklara hazırlanmalısın. Ama paraya ihtiyacın olacak."
+    },
+    {
+      "id": "3178c425",
+      "bank_id": "e0b1b600",
+      "text": "Kahraman, artık dinlenme vaktin geldi. Handa güzel bir gece uykusu çekmeye çalış, yarın görüşürüz."
+    },
+    {
+      "id": "3178c426",
+      "bank_id": "e0b1b600",
+      "text": "Paraya ihtiyacın varsa bulunacak işler var. Demircinin çırak aradığını biliyorum..."
+    },
+    {
+      "id": "3278c597",
+      "bank_id": "e0b1b600",
+      "text": "Çocukluk evine dönmelisin. Orada seni görmek isteyen biri var."
+    },
+    {
+      "id": "3478c8f8",
+      "bank_id": "e0b1b600",
+      "text": "Kötü haberlerim var. Korkarım gecikeceğim."
+    },
+    {
+      "id": "3478c8fd",
+      "bank_id": "e0b1b600",
+      "text": "Kötü haberlerim var: Korkarım bir süre gecikeceğim."
+    },
+    {
+      "id": "399028ce",
+      "bank_id": "e0b1b600",
+      "text": "Oradan çıkmalısın. Yüzeye doğru ilerle, çabuk."
+    },
+    {
+      "id": "4b1a5707",
+      "bank_id": "e0b1b600",
+      "text": "Ölebilir mi?"
+    },
+    {
+      "id": "4b1a570c",
+      "bank_id": "e0b1b600",
+      "text": "Ölebilir mi?"
+    },
+    {
+      "id": "534224d9",
+      "bank_id": "e0b1b600",
+      "text": "Mağaraya girmek istemezsin herhalde?"
+    },
+    {
+      "id": "554babd3",
+      "bank_id": "e0b1b600",
+      "text": "Beni bekle!"
+    },
+    {
+      "id": "58239408",
+      "bank_id": "e0b1b600",
+      "text": "Hadi ilerlemeye devam edelim."
+    },
+    {
+      "id": "595ec92b",
+      "bank_id": "e0b1b600",
+      "text": "Tam bu noktaya, şu an okumakta olduğunuz plaketi taşıyan bir heykel dikilmiştir. Bu plaket, o plaketi anmaktadır. Ayrıca heykelin kendisi de vaktiyle yaptığı bazı şeylerle takdir toplayan bir adama aittir."
+    },
+    {
+      "id": "5d239c27",
+      "bank_id": "e0b1b600",
+      "text": "Özür dilerim... Zavallı olduğumu düşünüyor olmalısın."
+    },
+    {
+      "id": "5e239d9a",
+      "bank_id": "e0b1b600",
+      "text": "Hiç merhametin yok mu senin? O benim oğlum."
+    },
+    {
+      "id": "5f239f0d",
+      "bank_id": "e0b1b600",
+      "text": "Haklısın, Joey için cesur olmalıyım."
+    },
+    {
+      "id": "6134e15b",
+      "bank_id": "e0b1b600",
+      "text": "Unutma, nişancılığını geliştirmek için deneyimi beceriye harcayabilirsin."
+    },
+    {
+      "id": "6234e2ce",
+      "bank_id": "e0b1b600",
+      "text": "Onları tatar yayınla buradan haklamaya ne dersin?"
+    },
+    {
+      "id": "6334e4a1",
+      "bank_id": "e0b1b600",
+      "text": "Onları yayınla buradan haklamaya ne dersin?"
+    },
+    {
+      "id": "6434e614",
+      "bank_id": "e0b1b600",
+      "text": "Onları tüfeğinle buradan haklamaya ne dersin?"
+    },
+    {
+      "id": "6534e787",
+      "bank_id": "e0b1b600",
+      "text": "Doğrudan üstlerine atlarsan sayıca üstün gelirler."
+    },
+    {
+      "id": "6634e97a",
+      "bank_id": "e0b1b600",
+      "text": "Dur! Haydutlar var."
+    },
+    {
+      "id": "691a792b",
+      "bank_id": "e0b1b600",
+      "text": "Bu kartlar sana çok şey gösterecek."
+    },
+    {
+      "id": "6a1a7a9e",
+      "bank_id": "e0b1b600",
+      "text": "Bir bak bakalım..."
+    },
+    {
+      "id": "72654d63",
+      "bank_id": "e0b1b600",
+      "text": "En basit seçimin bile çok uzaklara uzanan sonuçları olabileceğini asla unutma."
+    },
+    {
+      "id": "745f21f8",
+      "bank_id": "e0b1b600",
+      "text": "Güvenlik Modu'nu kapatmak için silahınız çekiliyken <dpad.img> üzerine basın. Bu, saldırgan olmayan kişilere vurmanızı sağlar."
+    },
+    {
+      "id": "752ec73e",
+      "bank_id": "e0b1b600",
+      "text": "Hobbe'lerin boyuna aldanma. Sayıca üstün olduklarında başa bela olabilirler."
+    },
+    {
+      "id": "7565523c",
+      "bank_id": "e0b1b600",
+      "text": "Dünya Thag olmadan çok daha iyi bir yer ve Bower Gölü sana kesinlikle minnettar."
+    },
+    {
+      "id": "77655502",
+      "bank_id": "e0b1b600",
+      "text": "Burada yaşadığın zamandan bu yana çok şey değişti, özellikle çocukluğunu geçirdiğin Eski Şehir."
+    },
+    {
+      "id": "786556f5",
+      "bank_id": "e0b1b600",
+      "text": "Ama eylemlerinin etkisini gerçekten görmek için Bowerstone'dan öteye bakmana gerek yok."
+    },
+    {
+      "id": "7a73e3f0",
+      "bank_id": "e0b1b600",
+      "text": "Kaç yaşındasın sen, sekiz mi?"
+    },
+    {
+      "id": "7b73e563",
+      "bank_id": "e0b1b600",
+      "text": "Korkak tavuk, korkak tavuk! Gıd gıd gıdak!"
+    },
+    {
+      "id": "7c73e6d6",
+      "bank_id": "e0b1b600",
+      "text": "Hey! Ne oldu? Yükseklikten mi korkuyorsun?"
+    },
+    {
+      "id": "8073ed02",
+      "bank_id": "e0b1b600",
+      "text": "En kötü ne olabilir ki?"
+    },
+    {
+      "id": "8173eef5",
+      "bank_id": "e0b1b600",
+      "text": "Hadi atla seni koca bebek."
+    },
+    {
+      "id": "8473f34e",
+      "bank_id": "e0b1b600",
+      "text": "Yakında atlayacak mısın? Çünkü çişim geldi ve kaçırmak istemiyorum."
+    },
+    {
+      "id": "8573f521",
+      "bank_id": "e0b1b600",
+      "text": "Kapa çeneni!"
+    },
+    {
+      "id": "99f58707",
+      "bank_id": "e0b1b600",
+      "text": "İyi şanslar."
+    },
+    {
+      "id": "9af588fa",
+      "bank_id": "e0b1b600",
+      "text": "Oakfield yolu tehlikeli olacak."
+    },
+    {
+      "id": "9bbbee5f",
+      "bank_id": "e0b1b600",
+      "text": "Önce senin gitmen gerçekten en iyisi bence."
+    },
+    {
+      "id": "9cbbf032",
+      "bank_id": "e0b1b600",
+      "text": "Joey'nin başı kim bilir ne beladadır."
+    },
+    {
+      "id": "9db27023",
+      "bank_id": "e0b1b600",
+      "text": "Etrafından dolaşacak bir yol görüyor musun?"
+    },
+    {
+      "id": "9dbbf1a5",
+      "bank_id": "e0b1b600",
+      "text": "Gerçekten ilerlemeye devam etmeliyiz."
+    },
+    {
+      "id": "9eb27196",
+      "bank_id": "e0b1b600",
+      "text": "Ben, şey... Burada bekleyeyim o zaman, olur mu?"
+    },
+    {
+      "id": "a4dbe3a2",
+      "bank_id": "e0b1b600",
+      "text": "HOBBE"
+    },
+    {
+      "id": "ab1c6b70",
+      "bank_id": "e0b1b600",
+      "text": "Bu tahta yollar biraz... çürük gibi görünüyor."
+    },
+    {
+      "id": "ac1c6ce3",
+      "bank_id": "e0b1b600",
+      "text": "Tanrı aşkına... Yükseklikten nefret ederim."
+    },
+    {
+      "id": "ac83780f",
+      "bank_id": "e0b1b600",
+      "text": "Gerçi bazı Kahramanlar böylesi bir merhameti tatmin edici bulmaz."
+    },
+    {
+      "id": "ad8379e2",
+      "bank_id": "e0b1b600",
+      "text": "Öldürmek her zaman gerekli değildir. Çoğu zaman bir düşmanı silahsızlandırmak ya da paniğe sokmak yeterlidir."
+    },
+    {
+      "id": "ae1c6fc9",
+      "bank_id": "e0b1b600",
+      "text": "Şey, sence burası güvenli mi?"
+    },
+    {
+      "id": "afc556eb",
+      "bank_id": "e0b1b600",
+      "text": "İşte bu! Evet! Ay bakamıyorum!"
+    },
+    {
+      "id": "b0c5585e",
+      "bank_id": "e0b1b600",
+      "text": "Öldü mü henüz? Bayılacağım... Sanırım bayılacağım."
+    },
+    {
+      "id": "b11c7482",
+      "bank_id": "e0b1b600",
+      "text": "Aşağı bakmazsam iyi olacağım."
+    },
+    {
+      "id": "b1c55a31",
+      "bank_id": "e0b1b600",
+      "text": "Geber! Geber! Geber seni iğrenç canavar!"
+    },
+    {
+      "id": "b21c7675",
+      "bank_id": "e0b1b600",
+      "text": "Aşağı bakma, aşağı bakma... Aman Tanrım, ne kadar da derinmiş!"
+    },
+    {
+      "id": "b2c55ba4",
+      "bank_id": "e0b1b600",
+      "text": "Ah, her yer kan içinde!"
+    },
+    {
+      "id": "b32cbece",
+      "bank_id": "e0b1b600",
+      "text": "Yol boyunca sana yardımcı olması için biraz altın."
+    },
+    {
+      "id": "b6d3658f",
+      "bank_id": "e0b1b600",
+      "text": "Oğlum Joey içeride!"
+    },
+    {
+      "id": "b70d52cc",
+      "bank_id": "e0b1b600",
+      "text": "Yolculuk Başlıyor"
+    },
+    {
+      "id": "b7be2628",
+      "bank_id": "e0b1b600",
+      "text": "Işık Tapınağı'ndaki başkeşişle konuş ve bu Hacı hakkında neler öğrenebileceğine bir bak."
+    },
+    {
+      "id": "b7d36762",
+      "bank_id": "e0b1b600",
+      "text": "Yardıma ihtiyacı var! Ama, şey, içeri tek başıma girmeye biraz korkuyorum."
+    },
+    {
+      "id": "b8d368d5",
+      "bank_id": "e0b1b600",
+      "text": "Belki birlikte girebiliriz?"
+    },
+    {
+      "id": "b9be290e",
+      "bank_id": "e0b1b600",
+      "text": "Lucien'den önce üç Kahramanı bulmalısın. Çünkü sen Dördüncüsün: onun çöküşünü getirecek olan kişi."
+    },
+    {
+      "id": "babe2ae1",
+      "bank_id": "e0b1b600",
+      "text": "Oakfield'de kutsal bir ayinin vizyonunu gördüm. Kurtuluş, buruk da olsa, inanılmaz bir güce sahip biri tarafından getiriliyor."
+    },
+    {
+      "id": "c0983224",
+      "bank_id": "e0b1b600",
+      "text": "Tebrikler. Muhafızlara Thag'ın öldüğünü söyleyeceğim. Tehdit ortadan kalktığına göre Bowerstone yolu yeniden açılabilir."
+    },
+    {
+      "id": "c1392de8",
+      "bank_id": "e0b1b600",
+      "text": "Burası benim içimi ürpertiyor vallahi!"
+    },
+    {
+      "id": "c2fd426c",
+      "bank_id": "e0b1b600",
+      "text": "Evet! Hepsini havaya uçur!"
+    },
+    {
+      "id": "c33930ce",
+      "bank_id": "e0b1b600",
+      "text": "Bir şey duydun mu?"
+    },
+    {
+      "id": "c43932a1",
+      "bank_id": "e0b1b600",
+      "text": "Neden hiç güzel bir mağara olmaz ki? Yeterli aydınlatması olan ve içinde canavar bulunmayan bir yer."
+    },
+    {
+      "id": "c5fd4725",
+      "bank_id": "e0b1b600",
+      "text": "Oh! Çok iyiydi! Evet, bunun gibi daha fazla büyü!"
+    },
+    {
+      "id": "c8ba79b4",
+      "bank_id": "e0b1b600",
+      "text": "Grr"
+    },
+    {
+      "id": "cbba7e0d",
+      "bank_id": "e0b1b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "df47f974",
+      "bank_id": "e0b1b600",
+      "text": "Atladı! Vallahi atladı!"
+    },
+    {
+      "id": "df47f97f",
+      "bank_id": "e0b1b600",
+      "text": "Atladı! Vallahi atladı!"
+    },
+    {
+      "id": "e00a3e64",
+      "bank_id": "e0b1b600",
+      "text": "Beni duyabiliyor musun Joey?"
+    },
+    {
+      "id": "e10a3fd7",
+      "bank_id": "e0b1b600",
+      "text": "Orada mısın? Sesimi duyabiliyor musun?"
+    },
+    {
+      "id": "e30a433d",
+      "bank_id": "e0b1b600",
+      "text": "Joey? Orada mısın?"
+    },
+    {
+      "id": "e8df6412",
+      "bank_id": "e0b1b600",
+      "text": "Biz konuşurken bile Lucien'in ajanları diyarı tarıyor."
+    },
+    {
+      "id": "e9df6585",
+      "bank_id": "e0b1b600",
+      "text": "Ve Kahramanların yaşam gücü olan İrade'nin ta kendisi, Kule'nin gücünün anahtarıdır."
+    },
+    {
+      "id": "eadf6778",
+      "bank_id": "e0b1b600",
+      "text": "Kartlarda gördüğün üç Kahramanın her biri, Lucien'in çöküşüne giden gizli yolda birer basamaktır."
+    },
+    {
+      "id": "ebdf68eb",
+      "bank_id": "e0b1b600",
+      "text": "Seçim. Geleceğinde korkunç bir karar seni bekliyor... Ve hemen ardında görkemli bir mükâfat."
+    },
+    {
+      "id": "ecdf6a5e",
+      "bank_id": "e0b1b600",
+      "text": "Hırsız. Bu Kahraman içinde tek bir ışık kırıntısı dahi barındırmayan bir ruha sahip. Boğulmuş yabani otlar ve sular görüyorum. Ulaşılamaz bir yerde duruyor."
+    },
+    {
+      "id": "eddf6c31",
+      "bank_id": "e0b1b600",
+      "text": "Büyücü, bilgeliğin yolunu izler ama her daim çatışmaya sürüklenir. Bu Kahramanı müttefik yapmak sana pahalıya mal olacak."
+    },
+    {
+      "id": "eedf6da4",
+      "bank_id": "e0b1b600",
+      "text": "Hacı. Bu Kahraman muazzam bir ruha ve müthiş bir güce sahip... Ama henüz açığa çıkmamış. Hacı'nın yolu kuzeye uzanıyor."
+    },
+    {
+      "id": "efdf6f17",
+      "bank_id": "e0b1b600",
+      "text": "Kutsal Emanet. Kule'nin dehşetini önceden görenler tarafından yaratılmış akıl almaz güçte kadim bir aygıt. Onu taşıyacak güce sahip olanı ve onu çağırabilecek üç kişiyi bekliyor."
+    },
+    {
+      "id": "f0df708a",
+      "bank_id": "e0b1b600",
+      "text": "Gel, içeri adım at. Kartlar sana yolunu söyleyecek."
+    },
+    {
+      "id": "f0df708f",
+      "bank_id": "e0b1b600",
+      "text": "Kartlar bize geleceği anlatacak... Senin kaderini."
+    },
+    {
+      "id": "f48a10c3",
+      "bank_id": "e0b1b600",
+      "text": "Canım sıkıldı, geri dönebilir miyiz artık?"
+    },
+    {
+      "id": "f58a12b6",
+      "bank_id": "e0b1b600",
+      "text": "Hayır! Köprüyü korumak bizim işimiz."
+    },
+    {
+      "id": "f68a1429",
+      "bank_id": "e0b1b600",
+      "text": "Ama yıkılmış işte; kimse geçemez ki."
+    },
+    {
+      "id": "f78a159c",
+      "bank_id": "e0b1b600",
+      "text": "Zor bir iş olduğunu söylemedim zaten."
+    },
+    {
+      "id": "f88a170f",
+      "bank_id": "e0b1b600",
+      "text": "Biraz heyecan için neler vermezdim."
+    },
+    {
+      "id": "f98a18e2",
+      "bank_id": "e0b1b600",
+      "text": "Evet, şöyle temiz bir kavga gibi. Birinin arkasından gizlice yaklaşıp boğazını sıkmak gibi!"
+    },
+    {
+      "id": "fa8a1a55",
+      "bank_id": "e0b1b600",
+      "text": "Hımm, ben daha azına da razıyım."
+    },
+    {
+      "id": "faddb950",
+      "bank_id": "e0b1b600",
+      "text": "Korkma oğlum, baban yardım getirdi."
+    },
+    {
+      "id": "fb8a1bc8",
+      "bank_id": "e0b1b600",
+      "text": "Buna ne dersin?"
+    },
+    {
+      "id": "fbb9e5bb",
+      "bank_id": "e0b1b600",
+      "text": "Ah çok şükür. Bir an için kaçtın sandım."
+    },
+    {
+      "id": "fbddbac3",
+      "bank_id": "e0b1b600",
+      "text": "Geliyoruz oğlum."
+    },
+    {
+      "id": "fc8a1dbb",
+      "bank_id": "e0b1b600",
+      "text": "Çok iyiydi! Hadi, bir daha yap."
+    },
+    {
+      "id": "fcddbcb6",
+      "bank_id": "e0b1b600",
+      "text": "Joey, olduğun yerde kal sakın kıpırdama."
+    }
+  ]
+}

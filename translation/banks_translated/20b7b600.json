@@ -1,0 +1,756 @@
+{
+  "bank_id": "20b7b600",
+  "total_strings": 150,
+  "strings": [
+    {
+      "id": "028b5884",
+      "bank_id": "20b7b600",
+      "text": "Reaver'ın mührü geri alınsın mı?"
+    },
+    {
+      "id": "038b5a77",
+      "bank_id": "20b7b600",
+      "text": "Reaver'ın mührünü kıza verip gençliğini kurban et?\nMührü kendine saklarsan kalıcı olarak yaşlanabilirsin."
+    },
+    {
+      "id": "048b5bea",
+      "bank_id": "20b7b600",
+      "text": "Reaver'ın görevi kabul edilsin mi?"
+    },
+    {
+      "id": "05abaca7",
+      "bank_id": "20b7b600",
+      "text": "Lucien'in ilerleyişi endişe verici; kıymıklar çok güçlü bir silah. Onları yenmenin bir yolunu bulmalıyım."
+    },
+    {
+      "id": "0d90d5f5",
+      "bank_id": "20b7b600",
+      "text": "Seni gidi fingirdek seni!"
+    },
+    {
+      "id": "188b8a92",
+      "bank_id": "20b7b600",
+      "text": "BANSHEE"
+    },
+    {
+      "id": "19c1525a",
+      "bank_id": "20b7b600",
+      "text": "Seç."
+    },
+    {
+      "id": "1d32c0eb",
+      "bank_id": "20b7b600",
+      "text": "BANSHEE'LER"
+    },
+    {
+      "id": "2b744d25",
+      "bank_id": "20b7b600",
+      "text": "Bloodstone bataklıkların ta öte tarafında. Oraya gitmeni öneririm, çabuk ol."
+    },
+    {
+      "id": "2c07a84a",
+      "bank_id": "20b7b600",
+      "text": "(çığlık atar)"
+    },
+    {
+      "id": "30c6db70",
+      "bank_id": "20b7b600",
+      "text": "Westcliff'te bir partide çalıyordum, etrafta bir sürü güzel kız, fıçı fıçı bira... Bir de gözümü açtım ki buradayım."
+    },
+    {
+      "id": "31c6dce3",
+      "bank_id": "20b7b600",
+      "text": "Senin Bloodstone'da ne işin var hem? Ben bile geleli birkaç gün oldu şunun şurasında."
+    },
+    {
+      "id": "32c6de56",
+      "bank_id": "20b7b600",
+      "text": "Her neyse, ben gidip yerlilerin müziğe kulağı var mı bir bakayım <hic> Görüşürüz, ha ha!"
+    },
+    {
+      "id": "33c6dfc9",
+      "bank_id": "20b7b600",
+      "text": "Yedi kavga gördüm, pek mahrem bir dövme yaptırdım ve bütün altınlarımı çaldırdım. Malzeme madeni resmen!"
+    },
+    {
+      "id": "34c6e1bc",
+      "bank_id": "20b7b600",
+      "text": "Vay canına! Bakın kim gelmiş! Bower Gölü Kahramanı!"
+    },
+    {
+      "id": "3690a8c4",
+      "bank_id": "20b7b600",
+      "text": "Başka seçeneğim var mı ki?"
+    },
+    {
+      "id": "36c6e482",
+      "bank_id": "20b7b600",
+      "text": "\"Bower Gölü Kahramanı, yedi bir sürü pastayı, sonra falan filan bir şeyler\" Olmadı mı? Neyse boşver."
+    },
+    {
+      "id": "36f10160",
+      "bank_id": "20b7b600",
+      "text": "Sen öyle diyorsan öyledir."
+    },
+    {
+      "id": "37c6e675",
+      "bank_id": "20b7b600",
+      "text": "Hayatımda çaldığım ilk şarkıydı o be! Nasıldı bakayım?"
+    },
+    {
+      "id": "37f102d3",
+      "bank_id": "20b7b600",
+      "text": "Yakında nerede olduğunu öğreneceğiz. Vakti gelince onun yanına gideceğiz."
+    },
+    {
+      "id": "38f10446",
+      "bank_id": "20b7b600",
+      "text": "İşte bu yüzden önce Hırsızı bulmalıyız."
+    },
+    {
+      "id": "3990ad9d",
+      "bank_id": "20b7b600",
+      "text": "Hazır mısın?"
+    },
+    {
+      "id": "39f10639",
+      "bank_id": "20b7b600",
+      "text": "Ama dikkati dağılmış durumda. O da üçüncü Kahramanı arıyor."
+    },
+    {
+      "id": "3af107ac",
+      "bank_id": "20b7b600",
+      "text": "Beklediğimiz her saat, Lucien amacına ulaşmaya biraz daha yaklaşıyor."
+    },
+    {
+      "id": "439c6d3f",
+      "bank_id": "20b7b600",
+      "text": "Ama iki kişisiniz. Yalnızca biri gerekiyor."
+    },
+    {
+      "id": "449c6e92",
+      "bank_id": "20b7b600",
+      "text": "Bir seçim yapmalısın, çabuk ol."
+    },
+    {
+      "id": "459c7005",
+      "bank_id": "20b7b600",
+      "text": "Kurallar çiğnenemez. Karanlık Mührü kim taşıyorsa onu alacağız."
+    },
+    {
+      "id": "45d350d3",
+      "bank_id": "20b7b600",
+      "text": "Yaşıyor mu ki?"
+    },
+    {
+      "id": "47b21e2e",
+      "bank_id": "20b7b600",
+      "text": "Gördüğün gibi, hiçbir şey yapmamanın da sonuçları var. Senin yardımın olmadan Işığın müritleri katledildi. Tapınak terk edildi ve artık kimse Işığın yolundan gitmiyor."
+    },
+    {
+      "id": "47d35439",
+      "bank_id": "20b7b600",
+      "text": "Yanında bir köpek vardı hani, öyleydi sanki."
+    },
+    {
+      "id": "48d355ac",
+      "bank_id": "20b7b600",
+      "text": "Sisin içine doğru kaçtı gitti."
+    },
+    {
+      "id": "49d3571f",
+      "bank_id": "20b7b600",
+      "text": "[Güler] banshee'ler çoktan haklamıştır onu."
+    },
+    {
+      "id": "4ad358f2",
+      "bank_id": "20b7b600",
+      "text": "Aynen öyle, o melez iti bir daha göremezsin, benden söylemesi."
+    },
+    {
+      "id": "4bd35a65",
+      "bank_id": "20b7b600",
+      "text": "Sen Bloodstone'dansın, ha?"
+    },
+    {
+      "id": "4cd35bd8",
+      "bank_id": "20b7b600",
+      "text": "Yok... Yok. Üzerinde oranın kokusu yok senin."
+    },
+    {
+      "id": "4dd35d4b",
+      "bank_id": "20b7b600",
+      "text": "Habis bir yer orası. Adalet diye bir şey olsaydı yerle bir edilirdi."
+    },
+    {
+      "id": "51cc6ba9",
+      "bank_id": "20b7b600",
+      "text": "Elmacık kemiklerimin o kadar aşağıda olduğunu mu iddia ediyorsun yani?"
+    },
+    {
+      "id": "55c8c27f",
+      "bank_id": "20b7b600",
+      "text": "Biraz talim yapacağım. O Kıymık ile savaşırken az kalsın Garth'ın kafasını uçuruyordum."
+    },
+    {
+      "id": "598b2930",
+      "bank_id": "20b7b600",
+      "text": "Banshee'yi alt edin."
+    },
+    {
+      "id": "5a8b2aa3",
+      "bank_id": "20b7b600",
+      "text": "Banshee'yi alt edin."
+    },
+    {
+      "id": "5b3a96c8",
+      "bank_id": "20b7b600",
+      "text": "Ve şimdi, bataklık köyü yuttu ve Oakvale artık acı bir hatıradan ibaret."
+    },
+    {
+      "id": "5b8b2c16",
+      "bank_id": "20b7b600",
+      "text": "Yakındaki bataklıkları keşfedin."
+    },
+    {
+      "id": "5d3a9a2e",
+      "bank_id": "20b7b600",
+      "text": "Hayatta kalanlar hayatlarını yeniden kurdular... ancak ikinci ve son kez yıkılması için."
+    },
+    {
+      "id": "5e3a9b81",
+      "bank_id": "20b7b600",
+      "text": "Yeni bir tehdit içeriden geldi. Pervasız bir genç köylü, gölge güçleriyle bir anlaşma yaptı ve bedel olarak köyün diğer tüm sakinlerinin canını aldılar. Tüm ailesini, tüm arkadaşlarını, sevdiği herkesi."
+    },
+    {
+      "id": "5f3a9d74",
+      "bank_id": "20b7b600",
+      "text": "Ve bu çok uzun zaman önceydi. Burası nice zalimce işlere tanıklık etti."
+    },
+    {
+      "id": "5f8b3242",
+      "bank_id": "20b7b600",
+      "text": "Wraithmarsh'tan çıkıp Bloodstone'a doğru yol alın."
+    },
+    {
+      "id": "5fa2f664",
+      "bank_id": "20b7b600",
+      "text": "Reaver pazarlığı bir kez daha yerine getirdi."
+    },
+    {
+      "id": "603a9ee7",
+      "bank_id": "20b7b600",
+      "text": "Altı yüz yıl önce haydutlar köye saldırdı ve yerle bir edip yaktı."
+    },
+    {
+      "id": "608b3435",
+      "bank_id": "20b7b600",
+      "text": "Bataklıkların içinden Bloodstone'a doğru ilerlemeye devam edin."
+    },
+    {
+      "id": "60a2f7d7",
+      "bank_id": "20b7b600",
+      "text": "Ama kurbanlar bittiğinde, onun için geleceğiz. Bunu o da iyi bilir."
+    },
+    {
+      "id": "623aa1cd",
+      "bank_id": "20b7b600",
+      "text": "Burası eskiden Oakvale'di, gerçi son gördüğümden beri kökten değişmiş."
+    },
+    {
+      "id": "6e76c091",
+      "bank_id": "20b7b600",
+      "text": "Garth ve Hammer seni Brightwood'da bekliyor."
+    },
+    {
+      "id": "704c6716",
+      "bank_id": "20b7b600",
+      "text": "Burada neden olduğunu bile biliyorum. Hiç şüphesiz olağanüstü yeteneklerimi duydun ve Lucien'i devirmek için çıktığın o yarım yamalak görevde sana katılmamı bekliyorsun."
+    },
+    {
+      "id": "714c6889",
+      "bank_id": "20b7b600",
+      "text": "Şu ana kadar nasıl gidiyorum?"
+    },
+    {
+      "id": "719e1080",
+      "bank_id": "20b7b600",
+      "text": "Hammer döndüğünde seni çağıracağım."
+    },
+    {
+      "id": "724c6a7c",
+      "bank_id": "20b7b600",
+      "text": "Ne de olsa senin çapında bir şöhret, kendi ayarındaki diğer yıldızları arayacaktır."
+    },
+    {
+      "id": "72d95eda",
+      "bank_id": "20b7b600",
+      "text": "Hammer, Hırsızın yerini öğrendi. En kısa sürede Lonca'ya dön."
+    },
+    {
+      "id": "734c6bef",
+      "bank_id": "20b7b600",
+      "text": "Hadi ama, hadi. Kimsenin Lucien'in Kule'sinden kaçıp benim krallığımda fark edilmeden caka satabileceğini düşünmemiştin herhalde, değil mi?"
+    },
+    {
+      "id": "754c6f35",
+      "bank_id": "20b7b600",
+      "text": "Birini arıyor olmalısın. Ve benden başka kim olabilir ki?"
+    },
+    {
+      "id": "7693b33a",
+      "bank_id": "20b7b600",
+      "text": "Yüzün! O bataklıkta fena bir şeye denk geldin, değil mi? Vay canına."
+    },
+    {
+      "id": "7c1aacbd",
+      "bank_id": "20b7b600",
+      "text": "<laughs> Kalçalarımın öyle göründüğünü mü sanıyorsun?"
+    },
+    {
+      "id": "7cb0316c",
+      "bank_id": "20b7b600",
+      "text": "Bir şekilde Lonca mührünün gücünü kesiyor."
+    },
+    {
+      "id": "7db032df",
+      "bank_id": "20b7b600",
+      "text": "Bloodstone bataklıkların ta öte tarafında. Oraya gitmeni öneririm, çabuk ol."
+    },
+    {
+      "id": "7ec3e32a",
+      "bank_id": "20b7b600",
+      "text": "Tamamdır. Kışt. Yallah. Yoluna bak. Yaylan. Geh weg! Allez-vous en."
+    },
+    {
+      "id": "7fb41c3b",
+      "bank_id": "20b7b600",
+      "text": "Üstelik harika bir sohbet ustası. Saatler sürecek o pırıltılı yatak sohbetlerini sabırsızlıkla bekliyorum."
+    },
+    {
+      "id": "7fbfb998",
+      "bank_id": "20b7b600",
+      "text": "Mahsur Kaldınız"
+    },
+    {
+      "id": "80b03798",
+      "bank_id": "20b7b600",
+      "text": "Ama şimdilik tek başınasın."
+    },
+    {
+      "id": "80d76991",
+      "bank_id": "20b7b600",
+      "text": "Burada neyimiz varmış bakalım?"
+    },
+    {
+      "id": "81b0390b",
+      "bank_id": "20b7b600",
+      "text": "Şey. Tamamen tek başına sayılmazsın."
+    },
+    {
+      "id": "82b03afe",
+      "bank_id": "20b7b600",
+      "text": "Ama Hammer ve Garth sana ulaşamıyor."
+    },
+    {
+      "id": "83365af5",
+      "bank_id": "20b7b600",
+      "text": "Gördüğün gibi, Gölgeler Tapınağı'na yardım ettiğinde bu keşişlerin kaderini mühürlemiş oldun. Tapınak terk edildi. Ve o günden beri kimse Işığın yolundan gitmedi."
+    },
+    {
+      "id": "83b03c51",
+      "bank_id": "20b7b600",
+      "text": "Dikkatli ol -- buradaki sis tekinsiz."
+    },
+    {
+      "id": "84cfbcff",
+      "bank_id": "20b7b600",
+      "text": "Bu kapının diğer taraftan açılması gerekiyor."
+    },
+    {
+      "id": "85b03fb7",
+      "bank_id": "20b7b600",
+      "text": "Şimdi beni duyabiliyor olmalısın."
+    },
+    {
+      "id": "86b0412a",
+      "bank_id": "20b7b600",
+      "text": "Hayattasın. Cullis Geçidi arızalandı ve Hammer ile Garth Lonca'ya geri gönderildi."
+    },
+    {
+      "id": "86c55bc6",
+      "bank_id": "20b7b600",
+      "text": "Muhatap olmaya değer biri olduğunu bana kanıtla, o zaman tüm dikkatimi sana veririm."
+    },
+    {
+      "id": "87b0429d",
+      "bank_id": "20b7b600",
+      "text": "Wraithmarsh'a ulaşmayı başardın."
+    },
+    {
+      "id": "87c55db9",
+      "bank_id": "20b7b600",
+      "text": "Bak ne diyeceğim. Neden gidip birkaç yolcuyu kurtarmıyorsun ya da birkaç canavar öldürmüyorsun, ya da birkaç yolcuyu öldürmüyorsun... Ayrıntılar önemsiz."
+    },
+    {
+      "id": "8cc56558",
+      "bank_id": "20b7b600",
+      "text": "Özellikle de bir erkeğin \"cennet\" anlayışını baştan tanımlayabilecek olanlar."
+    },
+    {
+      "id": "8d64a0e4",
+      "bank_id": "20b7b600",
+      "text": "KADİM KOF ADAM"
+    },
+    {
+      "id": "8dc566cb",
+      "bank_id": "20b7b600",
+      "text": "Birilerinin gelmesi her zaman hoş bir sürprizdir -- benim şu küçük sahil cennetime pek fazla ziyaretçi uğramaz."
+    },
+    {
+      "id": "8ec568be",
+      "bank_id": "20b7b600",
+      "text": "Vay. Merhaba bakalım."
+    },
+    {
+      "id": "90071a18",
+      "bank_id": "20b7b600",
+      "text": "Neredeyse vardın. Neredeyse güvendesin."
+    },
+    {
+      "id": "9064a5bd",
+      "bank_id": "20b7b600",
+      "text": "KADİM KOF ADAMLAR"
+    },
+    {
+      "id": "90c56b84",
+      "bank_id": "20b7b600",
+      "text": "Ama korkarım hiç kimselere vakit harcamaktan nefret ederim. O da sensin."
+    },
+    {
+      "id": "9164f36c",
+      "bank_id": "20b7b600",
+      "text": "Reaver'ı bulun ve davanıza katılması için onu ikna edin."
+    },
+    {
+      "id": "91c56d77",
+      "bank_id": "20b7b600",
+      "text": "Ve Bloodstone'da birini arıyorsan, dürüst olalım: beni arıyorsun."
+    },
+    {
+      "id": "92541cab",
+      "bank_id": "20b7b600",
+      "text": "Enerjini boşuna harcıyorsun."
+    },
+    {
+      "id": "92c56eea",
+      "bank_id": "20b7b600",
+      "text": "Ama sen öyle değilsin. Sen birini arıyorsun."
+    },
+    {
+      "id": "93541e1e",
+      "bank_id": "20b7b600",
+      "text": "Bize zarar veremezsin."
+    },
+    {
+      "id": "93c5705d",
+      "bank_id": "20b7b600",
+      "text": "İnsanların Wraithmarsh'ı aştığı o nadir anlarda hep kaybolmuş, kafası karışmış... korkmuş olurlar."
+    },
+    {
+      "id": "9b9af3f8",
+      "bank_id": "20b7b600",
+      "text": "Reaver'ı etkilemeye yetecek kadar ün kazanın."
+    },
+    {
+      "id": "9d9af6de",
+      "bank_id": "20b7b600",
+      "text": "Gölge Mahkemesi tarafından kimin gençliğinin ve güzelliğinin alınacağına karar vermek için mührü kullanın."
+    },
+    {
+      "id": "9e9af8b1",
+      "bank_id": "20b7b600",
+      "text": "Reaver'a dönün."
+    },
+    {
+      "id": "9f887b41",
+      "bank_id": "20b7b600",
+      "text": "Ne?! Hayır... Sen... Bunu yapamazsın. Lütfen. Yapma. Lütfen."
+    },
+    {
+      "id": "9f9afa24",
+      "bank_id": "20b7b600",
+      "text": "Mührü alın."
+    },
+    {
+      "id": "a09afb92",
+      "bank_id": "20b7b600",
+      "text": "Gölgeleri alt edin."
+    },
+    {
+      "id": "a09afb97",
+      "bank_id": "20b7b600",
+      "text": "Karanlık mührün sahibini Wraithmarsh'ta bulun."
+    },
+    {
+      "id": "a0d2a190",
+      "bank_id": "20b7b600",
+      "text": "Bana... Bana ne oldu böyle? Hayııır!"
+    },
+    {
+      "id": "a0e6326a",
+      "bank_id": "20b7b600",
+      "text": "...ancak güzelliğin zerresi olmayan birini güzellikten mahrum edemeyeceğimiz için, çok daha değerli bir şeyi alacağız: bilgiyi."
+    },
+    {
+      "id": "a15e798c",
+      "bank_id": "20b7b600",
+      "text": "Kaynağı bulup yok etmen gerek."
+    },
+    {
+      "id": "a25e7b7f",
+      "bank_id": "20b7b600",
+      "text": "Ve bunu sana karşı kullanıyor."
+    },
+    {
+      "id": "a29afefd",
+      "bank_id": "20b7b600",
+      "text": "Reaver'ı bulun."
+    },
+    {
+      "id": "a35e7cd2",
+      "bank_id": "20b7b600",
+      "text": "Bataklıktaki bir şey sisi kontrol ediyor..."
+    },
+    {
+      "id": "a3d2a669",
+      "bank_id": "20b7b600",
+      "text": "(hıçkırarak ağlar)"
+    },
+    {
+      "id": "a699df70",
+      "bank_id": "20b7b600",
+      "text": "Anahtar alınsın mı?"
+    },
+    {
+      "id": "ab227f97",
+      "bank_id": "20b7b600",
+      "text": "Hey dostum! Reaver ile bir işin mi var?"
+    },
+    {
+      "id": "ab227f9c",
+      "bank_id": "20b7b600",
+      "text": "Hey canım! Reaver ile bir işin mi var?"
+    },
+    {
+      "id": "ab5a7647",
+      "bank_id": "20b7b600",
+      "text": "Aman, çek git ve vaktimi boşa harcamayacak biri olduğunu kanıtla."
+    },
+    {
+      "id": "ae1cfec8",
+      "bank_id": "20b7b600",
+      "text": "Neredeyiz biz? Çok korkuyorum. Ben... Ben sadece eve dönmek istiyorum."
+    },
+    {
+      "id": "b2229230",
+      "bank_id": "20b7b600",
+      "text": "Beni duyabiliyor musun?"
+    },
+    {
+      "id": "b31d06e7",
+      "bank_id": "20b7b600",
+      "text": "Lütfen! Yardım edin!"
+    },
+    {
+      "id": "b366ec83",
+      "bank_id": "20b7b600",
+      "text": "Beceri Kahramanı"
+    },
+    {
+      "id": "b41d085a",
+      "bank_id": "20b7b600",
+      "text": "Ben ve birkaç arkadaşım, bulduğumuz çok eski bir kitaptan bir şeyler okuyorduk. İçinde bir sürü garip kelime vardı."
+    },
+    {
+      "id": "b51d09cd",
+      "bank_id": "20b7b600",
+      "text": "Sonra parlak bir ışık oldu ve ben... Burada uyandım!"
+    },
+    {
+      "id": "b5c23bbb",
+      "bank_id": "20b7b600",
+      "text": "(hıçkırarak ağlar)"
+    },
+    {
+      "id": "b6c23d2e",
+      "bank_id": "20b7b600",
+      "text": "Bana... Bana ne oldu böyle? Hayır!"
+    },
+    {
+      "id": "ba111bb8",
+      "bank_id": "20b7b600",
+      "text": "Eve dönülsün mü?"
+    },
+    {
+      "id": "bba83740",
+      "bank_id": "20b7b600",
+      "text": "Hayır -- hayır, lütfen!"
+    },
+    {
+      "id": "bca83933",
+      "bank_id": "20b7b600",
+      "text": "Hayır... Hayır!"
+    },
+    {
+      "id": "bda83aa6",
+      "bank_id": "20b7b600",
+      "text": "Sanırım seni de yakacağım. [Güler]"
+    },
+    {
+      "id": "bea83c19",
+      "bank_id": "20b7b600",
+      "text": "Ee, senin hakkında ne yapsam acaba?"
+    },
+    {
+      "id": "c2a84245",
+      "bank_id": "20b7b600",
+      "text": "[Çığlık atar]"
+    },
+    {
+      "id": "c4819fe6",
+      "bank_id": "20b7b600",
+      "text": "Gençliğini ve güzelliğini kim kurban edecek? Kahraman mı yoksa kız mı? Şimdi seç..."
+    },
+    {
+      "id": "c4fde952",
+      "bank_id": "20b7b600",
+      "text": "Arka tarafta."
+    },
+    {
+      "id": "c5fdeac5",
+      "bank_id": "20b7b600",
+      "text": "İçeride silaha el sürme sakın -- Reaver elini havaya uçurur, muhtemelen diğer dokuz parmağını da."
+    },
+    {
+      "id": "c657756d",
+      "bank_id": "20b7b600",
+      "text": "İçeride."
+    },
+    {
+      "id": "cb10c3b6",
+      "bank_id": "20b7b600",
+      "text": "Biriniz Karanlık Mührü taşıyor."
+    },
+    {
+      "id": "cc10c529",
+      "bank_id": "20b7b600",
+      "text": "Biri, Hırsızlar Kralı kendininkini koruyabilsin diye gençliğini ve güzelliğini takas edecek."
+    },
+    {
+      "id": "cc10c52c",
+      "bank_id": "20b7b600",
+      "text": "Sadık kaldığımız pazarlık işte budur."
+    },
+    {
+      "id": "cc55420f",
+      "bank_id": "20b7b600",
+      "text": "Bloodstone'daki Hırsıza ulaşmak için Cullis Geçidi'ne ihtiyacın olacak."
+    },
+    {
+      "id": "cc99a93c",
+      "bank_id": "20b7b600",
+      "text": "Biz... Sadece oyun oynuyorduk. Bir daha asla kitap okumayacağım."
+    },
+    {
+      "id": "cd10c69c",
+      "bank_id": "20b7b600",
+      "text": "Hoş geldin."
+    },
+    {
+      "id": "cd5543e2",
+      "bank_id": "20b7b600",
+      "text": "Garth'ın Cullis Geçidi Brightwood'da."
+    },
+    {
+      "id": "ce10c80f",
+      "bank_id": "20b7b600",
+      "text": "Hoş geldin."
+    },
+    {
+      "id": "cf99adf5",
+      "bank_id": "20b7b600",
+      "text": "Lütfen, ben sadece ailemi tekrar görmek istiyorum."
+    },
+    {
+      "id": "d010cb55",
+      "bank_id": "20b7b600",
+      "text": "Hoş geldin."
+    },
+    {
+      "id": "da575a06",
+      "bank_id": "20b7b600",
+      "text": "Gördüğün gibi, senin yokluğunda Tapınak fazlasıyla refaha erdi. Senin yardımın olmasaydı burası terk edilmiş, halkı da ölmüş ya da dağılmış olurdu."
+    },
+    {
+      "id": "e278f53c",
+      "bank_id": "20b7b600",
+      "text": "Sis yüzünden seninle irtibatı tekrar kaybedebilirim."
+    },
+    {
+      "id": "e378f6af",
+      "bank_id": "20b7b600",
+      "text": "Ama dikkatli ol: daha fazlası olabilir, o yüzden tetikte kal."
+    },
+    {
+      "id": "e478f802",
+      "bank_id": "20b7b600",
+      "text": "Aferin!"
+    },
+    {
+      "id": "e5c8ecb7",
+      "bank_id": "20b7b600",
+      "text": "Benim kuleme gitmemiz gerek. Oradaki Cullis Geçidi bizi Hırsıza götürecek."
+    },
+    {
+      "id": "e7d5eaad",
+      "bank_id": "20b7b600",
+      "text": "Wraithmarsh'ta mahsur kaldınız. Bloodstone'a giden yolu bulmalısınız."
+    },
+    {
+      "id": "ec8f4073",
+      "bank_id": "20b7b600",
+      "text": "Çok etkileyici. Banshee saldırılarından sağ çıkan pek azdır."
+    },
+    {
+      "id": "ec8f4076",
+      "bank_id": "20b7b600",
+      "text": "İyi ilerliyorsun."
+    },
+    {
+      "id": "ed67b654",
+      "bank_id": "20b7b600",
+      "text": "Hangisi olacak? Bilgi mi, gençlik mi? Kahraman mı, yoksa kız mı? Şimdi seç."
+    },
+    {
+      "id": "ed8f41e6",
+      "bank_id": "20b7b600",
+      "text": "Artık bataklığın neredeyse yarısını geçtin."
+    },
+    {
+      "id": "ee8f4359",
+      "bank_id": "20b7b600",
+      "text": "Göz açıp kapayıncaya kadar Bloodstone'da olacaksın."
+    },
+    {
+      "id": "f0d42b39",
+      "bank_id": "20b7b600",
+      "text": "Döndün demek! Adamlarım merakından yerinde duramıyor."
+    },
+    {
+      "id": "fe6dc84e",
+      "bank_id": "20b7b600",
+      "text": "Tüh be. Oysa bir ışık var sanmıştım."
+    }
+  ]
+}

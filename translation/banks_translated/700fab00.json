@@ -1,0 +1,866 @@
+{
+  "bank_id": "700fab00",
+  "total_strings": 172,
+  "strings": [
+    {
+      "id": "06e14e11",
+      "bank_id": "700fab00",
+      "text": "Onunla evlendiğimden beri öyle mutluyum ki."
+    },
+    {
+      "id": "06e14e1a",
+      "bank_id": "700fab00",
+      "text": "Onunla evlendiğimden beri öyle mutluyum ki."
+    },
+    {
+      "id": "08d3e437",
+      "bank_id": "700fab00",
+      "text": "Onunla evli olduğuma inanabiliyor musun?"
+    },
+    {
+      "id": "08d3e43c",
+      "bank_id": "700fab00",
+      "text": "Onunla evli olduğuma inanabiliyor musun?"
+    },
+    {
+      "id": "0ea5c1e3",
+      "bank_id": "700fab00",
+      "text": "Şuradaki benim karım. Şanslı bir adam mıyım neyim?"
+    },
+    {
+      "id": "0ea5c1e8",
+      "bank_id": "700fab00",
+      "text": "Şuradaki benim kocam. Şanslı bir adam mıyım neyim?"
+    },
+    {
+      "id": "12d31500",
+      "bank_id": "700fab00",
+      "text": "Ama... Ama o benimle evli! Bunu bana nasıl yapabilir?!"
+    },
+    {
+      "id": "12d3150b",
+      "bank_id": "700fab00",
+      "text": "Ama... Ama o benimle evli! Bunu bana nasıl yapabilir?!"
+    },
+    {
+      "id": "15ae7268",
+      "bank_id": "700fab00",
+      "text": "A, demek ayak takımına karıştık ha? Ne kadar da canlandırıcı!"
+    },
+    {
+      "id": "15ae7269",
+      "bank_id": "700fab00",
+      "text": "Böyle yerleri duymuştum. Ne kadar da heyecan verici!"
+    },
+    {
+      "id": "15ae726a",
+      "bank_id": "700fab00",
+      "text": "Vay canına, bu çarşafları yılda bir falan değiştiriyor olmalılar!"
+    },
+    {
+      "id": "15ae726b",
+      "bank_id": "700fab00",
+      "text": "<sniff> Aşkın kokusu bu işte!"
+    },
+    {
+      "id": "15ae726c",
+      "bank_id": "700fab00",
+      "text": "Bu yerdeki aşkın kokusunu neredeyse alabiliyorsun."
+    },
+    {
+      "id": "15ae726d",
+      "bank_id": "700fab00",
+      "text": "Şu meyhaneyi yerinden oynatalım bebeğim."
+    },
+    {
+      "id": "15ae726e",
+      "bank_id": "700fab00",
+      "text": "Bir meyhane yatağı mı? Umarım tahtakurusu var mı diye bakmışlardır."
+    },
+    {
+      "id": "17cca9d1",
+      "bank_id": "700fab00",
+      "text": "Doğrusu çok güzel, sağlam bir yatak..."
+    },
+    {
+      "id": "17cca9d2",
+      "bank_id": "700fab00",
+      "text": "Çarşafları en son ne zaman değiştirdin?"
+    },
+    {
+      "id": "17cca9d3",
+      "bank_id": "700fab00",
+      "text": "Ooo, yatak dediğin böyle olur işte."
+    },
+    {
+      "id": "17cca9d4",
+      "bank_id": "700fab00",
+      "text": "Bu yatak tamamen senin, öyle mi?"
+    },
+    {
+      "id": "17cca9d5",
+      "bank_id": "700fab00",
+      "text": "Vay canına, bu çarşaflar çuval bezinden yapılmamış."
+    },
+    {
+      "id": "17cca9d6",
+      "bank_id": "700fab00",
+      "text": "A, demek senin yatağın bu? Burada olduğuma inanamıyorum."
+    },
+    {
+      "id": "17cca9d7",
+      "bank_id": "700fab00",
+      "text": "Eh, çarşafların temiz olduğu sürece sorun yok."
+    },
+    {
+      "id": "1eae80b8",
+      "bank_id": "700fab00",
+      "text": "Burasının çarşaflarını değiştiriyorlar mı bari?"
+    },
+    {
+      "id": "1eae80b9",
+      "bank_id": "700fab00",
+      "text": "Bir han yatağı ha? Ne kadar da romantiksin."
+    },
+    {
+      "id": "1eae80bb",
+      "bank_id": "700fab00",
+      "text": "Bir handa bir oda mı? Başkasıyla evli değilsin, değil mi?"
+    },
+    {
+      "id": "1eae80bc",
+      "bank_id": "700fab00",
+      "text": "Buna romantik bir kaçamak dersin herhalde, değil mi?"
+    },
+    {
+      "id": "1eae80bd",
+      "bank_id": "700fab00",
+      "text": "Ama hijyenik olduğundan emin misin?"
+    },
+    {
+      "id": "1eae80be",
+      "bank_id": "700fab00",
+      "text": "Vay be, böyle zengin kiralık yerlerde hiç yapmamıştım."
+    },
+    {
+      "id": "1eae80bf",
+      "bank_id": "700fab00",
+      "text": "Biliyor musun? Sanırım daha önce burada yapmıştım..."
+    },
+    {
+      "id": "22ccbb00",
+      "bank_id": "700fab00",
+      "text": "İşte aradığım şey tam olarak bu."
+    },
+    {
+      "id": "22ccbb02",
+      "bank_id": "700fab00",
+      "text": "Gıcırtıları bütün kasaba duyacak şimdi."
+    },
+    {
+      "id": "22ccbb03",
+      "bank_id": "700fab00",
+      "text": "Yatağı bir teste tabi tutalım mı öyleyse?"
+    },
+    {
+      "id": "22ccbb04",
+      "bank_id": "700fab00",
+      "text": "Yatağında tuhaf bir koku var. Sabun mu o?"
+    },
+    {
+      "id": "22ccbb05",
+      "bank_id": "700fab00",
+      "text": "Ne dersin? Yatağını bir teste tabi tutalım mı?"
+    },
+    {
+      "id": "22ccbb06",
+      "bank_id": "700fab00",
+      "text": "Ay, yatağın! Hayal ettiğimden bile yumuşakmış."
+    },
+    {
+      "id": "22ccbb07",
+      "bank_id": "700fab00",
+      "text": "Nihayet, senin odan! Uzun zamandır bu anı hayal ediyordum."
+    },
+    {
+      "id": "292130f0",
+      "bank_id": "700fab00",
+      "text": "Yatağında tuhaf bir koku var. Sabun mu o?"
+    },
+    {
+      "id": "292130f1",
+      "bank_id": "700fab00",
+      "text": "Ne dersin? Yatağını bir teste tabi tutalım mı?"
+    },
+    {
+      "id": "292130f2",
+      "bank_id": "700fab00",
+      "text": "Ay, yatağın! Hayal ettiğimden bile yumuşakmış."
+    },
+    {
+      "id": "292130f3",
+      "bank_id": "700fab00",
+      "text": "Nihayet, senin odan! Uzun zamandır bu anı hayal ediyordum."
+    },
+    {
+      "id": "292130f4",
+      "bank_id": "700fab00",
+      "text": "İşte aradığım şey tam olarak bu."
+    },
+    {
+      "id": "292130f6",
+      "bank_id": "700fab00",
+      "text": "Gıcırtıları bütün kasaba duyacak şimdi."
+    },
+    {
+      "id": "292130f7",
+      "bank_id": "700fab00",
+      "text": "Yatağı bir teste tabi tutalım mı öyleyse?"
+    },
+    {
+      "id": "2e213890",
+      "bank_id": "700fab00",
+      "text": "Senin yatağın bu demek? Güzel. Pek öyle yumru yumru da değil."
+    },
+    {
+      "id": "2e213891",
+      "bank_id": "700fab00",
+      "text": "Vay canına, bu çarşaflar çuval bezinden yapılmamış."
+    },
+    {
+      "id": "2e213892",
+      "bank_id": "700fab00",
+      "text": "A, demek senin yatağın bu? Burada olduğuma inanamıyorum."
+    },
+    {
+      "id": "2e213893",
+      "bank_id": "700fab00",
+      "text": "Eh, çarşafların temiz olduğu sürece sorun yok."
+    },
+    {
+      "id": "2e213895",
+      "bank_id": "700fab00",
+      "text": "Doğrusu çok güzel, sağlam bir yatak..."
+    },
+    {
+      "id": "2e213896",
+      "bank_id": "700fab00",
+      "text": "Çarşafları en son ne zaman değiştirdin?"
+    },
+    {
+      "id": "2e213897",
+      "bank_id": "700fab00",
+      "text": "Yatak dediğin böyle olur işte."
+    },
+    {
+      "id": "30e3cda8",
+      "bank_id": "700fab00",
+      "text": "Artık evlenmemiz gerektiğini sanmıyorum. Üzgünüm."
+    },
+    {
+      "id": "30e3cda9",
+      "bank_id": "700fab00",
+      "text": "Düğünü iptal etmeliyiz. Artık sana karşı öyle hissetmiyorum."
+    },
+    {
+      "id": "30e3cdab",
+      "bank_id": "700fab00",
+      "text": "Üzgünüm, seninle evlenemem. Artık seni sevmiyorum."
+    },
+    {
+      "id": "30e3cdac",
+      "bank_id": "700fab00",
+      "text": "Eskiden benim için evrenin merkeziydin. Ama korkarım artık seni sevmiyorum. Nişanımızı bitirmeliyiz."
+    },
+    {
+      "id": "30e3cdad",
+      "bank_id": "700fab00",
+      "text": "Korkarım nişanımıza bir son vermeliyim. Artık ruh ikizi değiliz."
+    },
+    {
+      "id": "30e3cdae",
+      "bank_id": "700fab00",
+      "text": "Evlenmek için çok genç olduğuma karar verdim. Düğün iptal."
+    },
+    {
+      "id": "30e3cdaf",
+      "bank_id": "700fab00",
+      "text": "Dışarıda yuva kurmam için çok fazla erkek var. Nişan bozuldu."
+    },
+    {
+      "id": "334abda8",
+      "bank_id": "700fab00",
+      "text": "Kimin yatağında yaptığımız umurumda bile değil!"
+    },
+    {
+      "id": "334abda9",
+      "bank_id": "700fab00",
+      "text": "Hadi bu yatağa bu işin nasıl yapıldığını gösterelim."
+    },
+    {
+      "id": "334abdaa",
+      "bank_id": "700fab00",
+      "text": "Bu haneye tecavüz sayılmaz mı? Ne kadar heyecan verici!"
+    },
+    {
+      "id": "334abdab",
+      "bank_id": "700fab00",
+      "text": "Daha önce sadece kendi yatağımda yatmıştım..."
+    },
+    {
+      "id": "334abdad",
+      "bank_id": "700fab00",
+      "text": "Bunu burada yapmamız gerektiğinden emin misin? Ya sahipleri çıkıp gelirse?"
+    },
+    {
+      "id": "334abdae",
+      "bank_id": "700fab00",
+      "text": "Başkasının yatağında mı? Şey, örtüyü üstümüzde tuttuğumuz sürece sorun yok."
+    },
+    {
+      "id": "334abdaf",
+      "bank_id": "700fab00",
+      "text": "Herkesin yatağında yaparım ben bebeğim."
+    },
+    {
+      "id": "392d9947",
+      "bank_id": "700fab00",
+      "text": "Onunla evli olduğuma inanabiliyor musun?"
+    },
+    {
+      "id": "392d994c",
+      "bank_id": "700fab00",
+      "text": "Onunla evli olduğuma inanabiliyor musun?"
+    },
+    {
+      "id": "3cbd1ba6",
+      "bank_id": "700fab00",
+      "text": "Neeeeee?? Lağım faresi pislik! Ben onunla evliyim!"
+    },
+    {
+      "id": "3cbd1bad",
+      "bank_id": "700fab00",
+      "text": "Neeeeee?? Aşüfte kaltak! Ben onunla evliyim!"
+    },
+    {
+      "id": "3e4aced8",
+      "bank_id": "700fab00",
+      "text": "Burada en son kim yaptı acaba? Hi hi."
+    },
+    {
+      "id": "3e4aced9",
+      "bank_id": "700fab00",
+      "text": "A, yatak mı ödünç alıyoruz? Fena!"
+    },
+    {
+      "id": "3e4aceda",
+      "bank_id": "700fab00",
+      "text": "Bilemiyorum... Başka birinin yatak odası mı?"
+    },
+    {
+      "id": "3e4acedb",
+      "bank_id": "700fab00",
+      "text": "Burada mı? Ya ilaçlanmamışsa?"
+    },
+    {
+      "id": "3e4acedc",
+      "bank_id": "700fab00",
+      "text": "Burada mı? Ya yakalanırsak?"
+    },
+    {
+      "id": "3e4acede",
+      "bank_id": "700fab00",
+      "text": "Başkasının evine gizlice sızmak mı? Ne yaramazlık!"
+    },
+    {
+      "id": "3e4acedf",
+      "bank_id": "700fab00",
+      "text": "Bu yatağın temiz olduğundan emin misin?"
+    },
+    {
+      "id": "3fe7f0b0",
+      "bank_id": "700fab00",
+      "text": "Buna romantik bir kaçamak dersin herhalde, değil mi?"
+    },
+    {
+      "id": "3fe7f0b1",
+      "bank_id": "700fab00",
+      "text": "Ama hijyenik olduğundan emin misin?"
+    },
+    {
+      "id": "3fe7f0b2",
+      "bank_id": "700fab00",
+      "text": "Vay be, böyle zengin kiralık yerlerde hiç yapmamıştım."
+    },
+    {
+      "id": "3fe7f0b3",
+      "bank_id": "700fab00",
+      "text": "Biliyor musun? Sanırım daha önce burada yapmıştım..."
+    },
+    {
+      "id": "3fe7f0b4",
+      "bank_id": "700fab00",
+      "text": "Burasının çarşaflarını değiştiriyorlar mı bari?"
+    },
+    {
+      "id": "3fe7f0b5",
+      "bank_id": "700fab00",
+      "text": "Bir han yatağı ha? Ne kadar da romantiksin."
+    },
+    {
+      "id": "3fe7f0b7",
+      "bank_id": "700fab00",
+      "text": "Bir handa bir oda mı? Başkasıyla evli değilsin, değil mi?"
+    },
+    {
+      "id": "46e7fbb8",
+      "bank_id": "700fab00",
+      "text": "Bu yerdeki aşkın kokusunu neredeyse alabiliyorsun."
+    },
+    {
+      "id": "46e7fbb9",
+      "bank_id": "700fab00",
+      "text": "Şu meyhaneyi yerinden oynatalım bebeğim."
+    },
+    {
+      "id": "46e7fbba",
+      "bank_id": "700fab00",
+      "text": "Bir meyhane yatağı mı? Umarım tahtakurusu var mı diye bakmışlardır."
+    },
+    {
+      "id": "46e7fbbc",
+      "bank_id": "700fab00",
+      "text": "A, demek ayak takımına karıştık ha? Ne kadar da canlandırıcı!"
+    },
+    {
+      "id": "46e7fbbd",
+      "bank_id": "700fab00",
+      "text": "Böyle yerleri duymuştum. Ne kadar da heyecan verici!"
+    },
+    {
+      "id": "46e7fbbe",
+      "bank_id": "700fab00",
+      "text": "Vay canına, bu çarşafları yılda bir falan değiştiriyor olmalılar!"
+    },
+    {
+      "id": "46e7fbbf",
+      "bank_id": "700fab00",
+      "text": "*koklar* Aşkın kokusu bu işte!"
+    },
+    {
+      "id": "4ae701a6",
+      "bank_id": "700fab00",
+      "text": "Onun benim karım olduğunu biliyor muydun? Ah evet."
+    },
+    {
+      "id": "4ae701ad",
+      "bank_id": "700fab00",
+      "text": "Onun benim kocam olduğunu biliyor muydun? Ah evet."
+    },
+    {
+      "id": "53243a81",
+      "bank_id": "700fab00",
+      "text": "Ah, evet, onunla öyle mutluyum ki."
+    },
+    {
+      "id": "53243a8a",
+      "bank_id": "700fab00",
+      "text": "Ah, evet, onunla öyle mutluyum ki."
+    },
+    {
+      "id": "54116c06",
+      "bank_id": "700fab00",
+      "text": "Ne dedin sen?! Tüylerinden asacağım o herifi! O benimle evli!"
+    },
+    {
+      "id": "54116c0d",
+      "bank_id": "700fab00",
+      "text": "Ne dedin sen?! O benimle evli!"
+    },
+    {
+      "id": "5dabdf81",
+      "bank_id": "700fab00",
+      "text": "Onunla evli olduğumu biliyorsundur herhalde. Çok gösterişli bir düğündü doğrusu."
+    },
+    {
+      "id": "5dabdf8a",
+      "bank_id": "700fab00",
+      "text": "Onunla evli olduğumu biliyorsundur herhalde. Çok gösterişli bir düğündü doğrusu."
+    },
+    {
+      "id": "626be2a3",
+      "bank_id": "700fab00",
+      "text": "Ne kadar alçakça bir hainlik! O benimle evli!"
+    },
+    {
+      "id": "626be2a8",
+      "bank_id": "700fab00",
+      "text": "Ne kadar alçakça bir hainlik! O benimle evli!"
+    },
+    {
+      "id": "737dd676",
+      "bank_id": "700fab00",
+      "text": "Onunla evli olduğumu biliyorsundur herhalde. Çok gösterişli bir düğündü doğrusu."
+    },
+    {
+      "id": "737dd67d",
+      "bank_id": "700fab00",
+      "text": "Ah, evet, onunla öyle mutluyum ki."
+    },
+    {
+      "id": "7cf843d1",
+      "bank_id": "700fab00",
+      "text": "Onun benim karım olduğunu biliyor muydun? Ah evet."
+    },
+    {
+      "id": "7cf843da",
+      "bank_id": "700fab00",
+      "text": "Onun benim kocam olduğunu biliyor muydun? Ah evet."
+    },
+    {
+      "id": "87ab4347",
+      "bank_id": "700fab00",
+      "text": "İki yüzlü yosma! Evlendiğimizde tek aşkının ben olduğumu söylemişti!"
+    },
+    {
+      "id": "87ab434c",
+      "bank_id": "700fab00",
+      "text": "İki yüzlü domuz! Evlendiğimizde tek aşkının ben olduğumu söylemişti!"
+    },
+    {
+      "id": "8cf54d07",
+      "bank_id": "700fab00",
+      "text": "Bu kabul edilemez! Ben onunla evliyim!"
+    },
+    {
+      "id": "8cf54d0c",
+      "bank_id": "700fab00",
+      "text": "Bu kabul edilemez! Ben onunla evliyim!"
+    },
+    {
+      "id": "95375870",
+      "bank_id": "700fab00",
+      "text": "Şuradaki benim karım. Şanslı bir kız mıyım neyim?"
+    },
+    {
+      "id": "9537587b",
+      "bank_id": "700fab00",
+      "text": "Şuradaki benim kocam. Şanslı bir kız mıyım neyim?"
+    },
+    {
+      "id": "9c852a2c",
+      "bank_id": "700fab00",
+      "text": "Ama... Ama o benimle evli! Bunu bana nasıl yapabilir?!"
+    },
+    {
+      "id": "9ebe1f51",
+      "bank_id": "700fab00",
+      "text": "Gerçekten çok rahat görünüyor."
+    },
+    {
+      "id": "9ebe1f52",
+      "bank_id": "700fab00",
+      "text": "Güzel bir yatağın varmış doğrusu."
+    },
+    {
+      "id": "9ebe1f53",
+      "bank_id": "700fab00",
+      "text": "Ne zamandır sende bu yatak?"
+    },
+    {
+      "id": "9ebe1f54",
+      "bank_id": "700fab00",
+      "text": "Ay! Sağlam mı bari?"
+    },
+    {
+      "id": "9ebe1f55",
+      "bank_id": "700fab00",
+      "text": "Ne yaptın, yatağı çöplükten mi aşırdın?"
+    },
+    {
+      "id": "9ebe1f56",
+      "bank_id": "700fab00",
+      "text": "Ne kadar lüks bir yatak şiltesi."
+    },
+    {
+      "id": "9ebe1f57",
+      "bank_id": "700fab00",
+      "text": "Çarşafları kendin mi açarsın yoksa hizmetçin mi var?"
+    },
+    {
+      "id": "a30c6967",
+      "bank_id": "700fab00",
+      "text": "Ne kadar alçakça bir hainlik! O benimle evli!"
+    },
+    {
+      "id": "a30c696c",
+      "bank_id": "700fab00",
+      "text": "Ne kadar alçakça bir hainlik! O benimle evli!"
+    },
+    {
+      "id": "a8e967e0",
+      "bank_id": "700fab00",
+      "text": "İki yüzlü yosma! Evlendiğimizde tek aşkının ben olduğumu söylemişti!"
+    },
+    {
+      "id": "a8e967eb",
+      "bank_id": "700fab00",
+      "text": "İki yüzlü domuz! Evlendiğimizde tek aşkının ben olduğumu söylemişti!"
+    },
+    {
+      "id": "a9be3080",
+      "bank_id": "700fab00",
+      "text": "Ne güzel bir yatağın var öyle."
+    },
+    {
+      "id": "a9be3082",
+      "bank_id": "700fab00",
+      "text": "Bu yatağın senin olduğuna emin misin? Tanıdık geldi de."
+    },
+    {
+      "id": "a9be3083",
+      "bank_id": "700fab00",
+      "text": "Güzel bir yatağın varmış doğrusu."
+    },
+    {
+      "id": "a9be3084",
+      "bank_id": "700fab00",
+      "text": "Vay canına, koca bir yatağa gücün yetiyor demek?"
+    },
+    {
+      "id": "a9be3085",
+      "bank_id": "700fab00",
+      "text": "Çok fazla leke yok... Evet, iş görür."
+    },
+    {
+      "id": "a9be3086",
+      "bank_id": "700fab00",
+      "text": "İnsanın üzerinde uyuduğu mobilyadan daha önemli hiçbir şey yoktur. Ve diğer şeyleri yaptığı..."
+    },
+    {
+      "id": "a9be3087",
+      "bank_id": "700fab00",
+      "text": "İnsanın yatağı krallığının bir parçasıdır."
+    },
+    {
+      "id": "bc90f840",
+      "bank_id": "700fab00",
+      "text": "Onunla evliyim ben, bilesin."
+    },
+    {
+      "id": "bc90f84b",
+      "bank_id": "700fab00",
+      "text": "Onunla evliyim ben, bilesin."
+    },
+    {
+      "id": "bfc0c2d6",
+      "bank_id": "700fab00",
+      "text": "Onunla evlendiğimden beri öyle mutluyum ki."
+    },
+    {
+      "id": "bfc0c2dd",
+      "bank_id": "700fab00",
+      "text": "Onunla evlendiğimden beri öyle mutluyum ki."
+    },
+    {
+      "id": "c7458a36",
+      "bank_id": "700fab00",
+      "text": "Ne dedin sen???!! O benimle evli!"
+    },
+    {
+      "id": "c7458a3d",
+      "bank_id": "700fab00",
+      "text": "Ne dedin sen???!! Tüylerinden asacağım o herifi! O benimle evli!"
+    },
+    {
+      "id": "d0be6491",
+      "bank_id": "700fab00",
+      "text": "Ne?! Ama ben onunla evliyim!"
+    },
+    {
+      "id": "d0be649a",
+      "bank_id": "700fab00",
+      "text": "Ne?! Ama ben onunla evliyim!"
+    },
+    {
+      "id": "d8138db8",
+      "bank_id": "700fab00",
+      "text": "Herkesin gözü önünde mi? Ne büyük skandal!"
+    },
+    {
+      "id": "d8138db9",
+      "bank_id": "700fab00",
+      "text": "Burada mı? Ama çok uygunsuz görünüyor."
+    },
+    {
+      "id": "d8138dba",
+      "bank_id": "700fab00",
+      "text": "A, milletin görmesi hoşuna gidiyor demek?"
+    },
+    {
+      "id": "d8138dbb",
+      "bank_id": "700fab00",
+      "text": "Herkesin önünde mi? Olur öyleyse."
+    },
+    {
+      "id": "d8138dbc",
+      "bank_id": "700fab00",
+      "text": "Tam burada mı? Şey, biraz teşhirciliği severim doğrusu."
+    },
+    {
+      "id": "d8138dbd",
+      "bank_id": "700fab00",
+      "text": "Birileri izlerken yapmak ister miyim emin değilim. Tuhaf yani."
+    },
+    {
+      "id": "d8138dbe",
+      "bank_id": "700fab00",
+      "text": "Ama ya biri bizi görürse?!"
+    },
+    {
+      "id": "de99da96",
+      "bank_id": "700fab00",
+      "text": "Neeeeee?? Aşüfte kaltak! Ben onunla evliyim!"
+    },
+    {
+      "id": "de99da9d",
+      "bank_id": "700fab00",
+      "text": "Neeeeee?? Lağım faresi pislik! Ben onunla evliyim!"
+    },
+    {
+      "id": "e1139b88",
+      "bank_id": "700fab00",
+      "text": "Daha önce hiç bu kadar.... Kamuya açık bir yerde yapmamıştım."
+    },
+    {
+      "id": "e1139b89",
+      "bank_id": "700fab00",
+      "text": "Burada mı? Eh, millete unutulmaz bir gösteri sunalım öyleyse."
+    },
+    {
+      "id": "e1139b8b",
+      "bank_id": "700fab00",
+      "text": "Burada mı yapmak istiyorsun? Ama insanlar görebilir!"
+    },
+    {
+      "id": "e1139b8c",
+      "bank_id": "700fab00",
+      "text": "Herkesin ortasında mı? Amma da fena birisin sen..."
+    },
+    {
+      "id": "e1139b8d",
+      "bank_id": "700fab00",
+      "text": "Ama bu uluorta ahlaksızlık sayılmaz mı?"
+    },
+    {
+      "id": "e1139b8e",
+      "bank_id": "700fab00",
+      "text": "Güzel. Bütün arkadaşlarım turnayı gözünden vurduğumu görebilir."
+    },
+    {
+      "id": "e1139b8f",
+      "bank_id": "700fab00",
+      "text": "Bırak izlesinler! Ve öğrensinler..."
+    },
+    {
+      "id": "e56f89d3",
+      "bank_id": "700fab00",
+      "text": "Onunla evliyim ben, bilesin."
+    },
+    {
+      "id": "e56f89d8",
+      "bank_id": "700fab00",
+      "text": "Onunla evliyim ben, bilesin."
+    },
+    {
+      "id": "e8f567e6",
+      "bank_id": "700fab00",
+      "text": "Onunla evli olduğumu biliyorsundur herhalde. Çok gösterişli bir düğündü doğrusu."
+    },
+    {
+      "id": "e8f567ed",
+      "bank_id": "700fab00",
+      "text": "Ah evet, onunla öyle mutluyum ki."
+    },
+    {
+      "id": "f4eb1d98",
+      "bank_id": "700fab00",
+      "text": "Bilemiyorum... Başka birinin yatak odası mı?"
+    },
+    {
+      "id": "f4eb1d99",
+      "bank_id": "700fab00",
+      "text": "Burada mı? Ya ilaçlanmamışsa?"
+    },
+    {
+      "id": "f4eb1d9a",
+      "bank_id": "700fab00",
+      "text": "Burada en son kim yaptı acaba? Hi hi."
+    },
+    {
+      "id": "f4eb1d9b",
+      "bank_id": "700fab00",
+      "text": "A, yatak mı ödünç alıyoruz? Fena!"
+    },
+    {
+      "id": "f4eb1d9c",
+      "bank_id": "700fab00",
+      "text": "Başkasının evine gizlice sızmak mı? Ne yaramazlık!"
+    },
+    {
+      "id": "f4eb1d9d",
+      "bank_id": "700fab00",
+      "text": "Bu yatağın temiz olduğundan emin misin?"
+    },
+    {
+      "id": "f4eb1d9e",
+      "bank_id": "700fab00",
+      "text": "Burada mı? Ya yakalanırsak?"
+    },
+    {
+      "id": "f883c803",
+      "bank_id": "700fab00",
+      "text": "Bu kabul edilemez! Ben onunla evliyim!"
+    },
+    {
+      "id": "f883c808",
+      "bank_id": "700fab00",
+      "text": "Bu kabul edilemez! Ben onunla evliyim!"
+    },
+    {
+      "id": "fdeb2be8",
+      "bank_id": "700fab00",
+      "text": "Başkasının yatağında mı? Şey, örtüyü üstümüzde tuttuğumuz sürece sorun yok."
+    },
+    {
+      "id": "fdeb2be9",
+      "bank_id": "700fab00",
+      "text": "Herkesin yatağında yaparım ben tatlım."
+    },
+    {
+      "id": "fdeb2beb",
+      "bank_id": "700fab00",
+      "text": "Bunu burada yapmamız gerektiğinden emin misin? Ya sahipleri çıkıp gelirse?"
+    },
+    {
+      "id": "fdeb2bec",
+      "bank_id": "700fab00",
+      "text": "Bu haneye tecavüz sayılmaz mı? Ne kadar heyecan verici!"
+    },
+    {
+      "id": "fdeb2bed",
+      "bank_id": "700fab00",
+      "text": "Daha önce sadece kendi yatağımda yatmıştım..."
+    },
+    {
+      "id": "fdeb2bee",
+      "bank_id": "700fab00",
+      "text": "Kimin yatağında yaptığımız umurumda bile değil!"
+    },
+    {
+      "id": "fdeb2bef",
+      "bank_id": "700fab00",
+      "text": "Hadi bu yatağa bu işin nasıl yapıldığını gösterelim."
+    }
+  ]
+}

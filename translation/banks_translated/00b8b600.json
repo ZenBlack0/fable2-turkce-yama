@@ -1,0 +1,461 @@
+{
+  "bank_id": "00b8b600",
+  "total_strings": 91,
+  "strings": [
+    {
+      "id": "00bed7b2",
+      "bank_id": "00b8b600",
+      "text": "Böylesine sevilmek özel bir yürek ister. Tek kötü yanı peşine bir güruhun takılmasıdır her seher."
+    },
+    {
+      "id": "00f2f00b",
+      "bank_id": "00b8b600",
+      "text": "Sparrow pek de vahşi olmayan bir kuştur, çoğu zaman bir çocuğa konan addır."
+    },
+    {
+      "id": "017c76ab",
+      "bank_id": "00b8b600",
+      "text": "Kahraman bir mağaraya girmesi için kandırıldı; kimsenin onun kadar cesur olmadığı bir kez daha anlaşıldı."
+    },
+    {
+      "id": "01f2f1fe",
+      "bank_id": "00b8b600",
+      "text": "Ama yaptığı işler hepimizi etkiledi; bu Sparrow yuvadan uçtu besbelli."
+    },
+    {
+      "id": "02099db0",
+      "bank_id": "00b8b600",
+      "text": "Ama hakaretler onu incitmez, hepsini peşin sayar; adın Dangalak olsaydı sen de öyle yapardın ey yâr."
+    },
+    {
+      "id": "02099dbb",
+      "bank_id": "00b8b600",
+      "text": "Ama hakaretler onu incitmez, hepsini peşin sayar; adın Dangalak olsaydı sen de öyle yapardın ey yâr."
+    },
+    {
+      "id": "0ad09da0",
+      "bank_id": "00b8b600",
+      "text": "Doğru ve hak olan her şeyin takipçisi, kötülüğün fatihi, Işık'ın sevgilisi."
+    },
+    {
+      "id": "0ba33661",
+      "bank_id": "00b8b600",
+      "text": "Kahraman bir kadın bulup çiftliğe yolladı onu. Ama herkes biliyordu, yanlış cinsiyetteydi sonu."
+    },
+    {
+      "id": "0ba3366a",
+      "bank_id": "00b8b600",
+      "text": "Kahraman bir kadın bulup çiftliğe yolladı onu. Ama herkes biliyordu, yanlış cinsiyetteydi sonu."
+    },
+    {
+      "id": "0bd24953",
+      "bank_id": "00b8b600",
+      "text": "Elinde kılıcıyla hobbe'lerin belası oldu; onu kandıran adama gelince, aklını kaçırmış olmalı."
+    },
+    {
+      "id": "0bd24958",
+      "bank_id": "00b8b600",
+      "text": "Elinde kılıcıyla hobbe'lerin belası oldu; onu kandıran adama gelince, aklını kaçırmış olmalı."
+    },
+    {
+      "id": "0dd0a279",
+      "bank_id": "00b8b600",
+      "text": "Her şey bitip karanlık dağıldığında, sana teşekkür etmeliyiz ey Seçilmiş Olan, yanımızda."
+    },
+    {
+      "id": "0e445bc4",
+      "bank_id": "00b8b600",
+      "text": "Gözlerinde korkunç bir açlık görürsün. Boşuna ona Korku Tellalı demezler, bilesin."
+    },
+    {
+      "id": "0e445bcf",
+      "bank_id": "00b8b600",
+      "text": "Gözlerinde korkunç bir açlık görürsün. Boşuna ona Korku Tellalı demezler, bilesin."
+    },
+    {
+      "id": "11b85706",
+      "bank_id": "00b8b600",
+      "text": "Onu her zaman pusuda bulursunuz, bir tavuğa çizmesini geçirmek için bekler durur."
+    },
+    {
+      "id": "11b8570d",
+      "bank_id": "00b8b600",
+      "text": "Onu her zaman pusuda bulursunuz, bir tavuğa çizmesini geçirmek için bekler durur."
+    },
+    {
+      "id": "15828280",
+      "bank_id": "00b8b600",
+      "text": "Ondan daha iyisi, akıllısı ya da güçlüsü yoktur; aksini iddia edenlerse sadece hasetle doludur."
+    },
+    {
+      "id": "18828759",
+      "bank_id": "00b8b600",
+      "text": "Kahraman bir kez daha Çile'yi fethetti; bundan sadece tek bir ders çıkar ve gayet nettir."
+    },
+    {
+      "id": "1b50c070",
+      "bank_id": "00b8b600",
+      "text": "Öyle olmadığı anlaşıldı ve şimdi evlendiler. Ölülerin hatırına umalım da mutlu mesut yaşasınlar."
+    },
+    {
+      "id": "236f409c",
+      "bank_id": "00b8b600",
+      "text": "Albion'un Şakacısı güldürür çoğumuzu; en suratsızın bile açar asık yüzünü."
+    },
+    {
+      "id": "266f4555",
+      "bank_id": "00b8b600",
+      "text": "Gülmekten yerlere yatıp devamını istersiniz; şansınız varsa bir de tekrar dinlersiniz."
+    },
+    {
+      "id": "2c56b204",
+      "bank_id": "00b8b600",
+      "text": "Ağzındaki dil o kadar keskin değil gerçi, ama bir kılıç bir lavtadan ya da arptan iyidir besbelli."
+    },
+    {
+      "id": "2f56b6dd",
+      "bank_id": "00b8b600",
+      "text": "Kılıç denen kahraman taşır pek yaman bir kılıç; kalemden kudretli, görmezden gelenin sonu feci bir çöküş."
+    },
+    {
+      "id": "3460dc7c",
+      "bank_id": "00b8b600",
+      "text": "Aşağılık Gölge İblisi'yle ne zaman karşılaşsa, dünya hırpalanır, kirlenir ve düşer yasa."
+    },
+    {
+      "id": "348f74c7",
+      "bank_id": "00b8b600",
+      "text": "Getirdiği dehşetten daha büyüğü yoktur cihanda. Dilenciden krala kadar herkesin kâbusu bu anda."
+    },
+    {
+      "id": "348f74cc",
+      "bank_id": "00b8b600",
+      "text": "Getirdiği dehşetten daha büyüğü yoktur cihanda. Dilenciden krala kadar herkesin kâbusu bu anda."
+    },
+    {
+      "id": "34ef60ac",
+      "bank_id": "00b8b600",
+      "text": "Ama sessiz kalıp yoldan çekilseler iyi olur, yoksa İntikamcı öldürmek için bir sebep bulur."
+    },
+    {
+      "id": "36af2a9f",
+      "bank_id": "00b8b600",
+      "text": "Şimdi geceye musallat olan iki hayalet var. Aşk doğru bitmediğinde yüreği fena yakar."
+    },
+    {
+      "id": "375a88d4",
+      "bank_id": "00b8b600",
+      "text": "Yargıçlar orada bedellerini talep ettiler, hain kurbanlarla ödendi dediler."
+    },
+    {
+      "id": "3760e135",
+      "bank_id": "00b8b600",
+      "text": "Karanlığın dostu, ışığın yıkıcısı; kıyametin, kıtlığın ve dehşetin taşıyıcısı."
+    },
+    {
+      "id": "37ef6565",
+      "bank_id": "00b8b600",
+      "text": "İntikamcı gibi bir isimle bazıları der ki, bu kahraman modası geçmiş, yürüyen bir klişe belki."
+    },
+    {
+      "id": "3ccd5dd3",
+      "bank_id": "00b8b600",
+      "text": "Her birini açmayı başaran yegâne kişi, karşınızdaki Kahraman'dır; ne de muazzam bir işti!"
+    },
+    {
+      "id": "3ccd5dd8",
+      "bank_id": "00b8b600",
+      "text": "Her birini açmayı başaran yegâne kişi, karşınızdaki Kahraman'dır; ne de muazzam bir işti!"
+    },
+    {
+      "id": "3d192f71",
+      "bank_id": "00b8b600",
+      "text": "Kanunun daima yanlış tarafında yer alır; halk ise ona hayranlıkla bakar kalır."
+    },
+    {
+      "id": "3d192f7a",
+      "bank_id": "00b8b600",
+      "text": "Kanunun daima yanlış tarafında yer alır; halk ise ona hayranlıkla bakar kalır."
+    },
+    {
+      "id": "3e5e1f52",
+      "bank_id": "00b8b600",
+      "text": "Ve sonunda birini dirilttiğinde, Kahraman öne geçti. Bekçi çok üzgün şimdi, ölülerle bile randevuya gidemedi."
+    },
+    {
+      "id": "3f4b0423",
+      "bank_id": "00b8b600",
+      "text": "Adı Zorba'dır, düşünmeden dövüşür durur; ertesi sabah kiminle dövüştüğünü unutur."
+    },
+    {
+      "id": "3f4b0428",
+      "bank_id": "00b8b600",
+      "text": "Adı Zorba'dır, düşünmeden dövüşür durur; ertesi sabah kiminle dövüştüğünü unutur."
+    },
+    {
+      "id": "47ed47d5",
+      "bank_id": "00b8b600",
+      "text": "Ödül Avcısı, alçakların katili. Suçlular dikkat edin, bakışları pek tedirgin."
+    },
+    {
+      "id": "4805d074",
+      "bank_id": "00b8b600",
+      "text": "Çiftçinin tüm istediği, oğlu için cici bir kızdı. Kudretli Kahraman'dan yardım istedi, aradığı kısmet azdı."
+    },
+    {
+      "id": "580f08ba",
+      "bank_id": "00b8b600",
+      "text": "İşte geliyor Cellat, günahkâra da azizeye de ecel getiren cellat."
+    },
+    {
+      "id": "601c2219",
+      "bank_id": "00b8b600",
+      "text": "İnsanın kendi canından ve kanından daha değerlisi yoktur. Kahramanlar kaybolduğunda durum hiç de iyi olmadı doğrusu."
+    },
+    {
+      "id": "603711c1",
+      "bank_id": "00b8b600",
+      "text": "Ve sonunda birini dirilttiğinde, Kahraman kenara çekildi. Bekçi minnettar kaldı, ceset artık geliniydi."
+    },
+    {
+      "id": "6314f7a6",
+      "bank_id": "00b8b600",
+      "text": "Onu gördüğünüzde durup \"merhaba\" deyin, gerçi kendinizi bir hayalperest olarak bulabilirsiniz bilin."
+    },
+    {
+      "id": "6314f7ad",
+      "bank_id": "00b8b600",
+      "text": "Onu gördüğünüzde durup \"merhaba\" deyin, gerçi rüya gördüğünüzü anlayabilirsiniz demin."
+    },
+    {
+      "id": "64cf2248",
+      "bank_id": "00b8b600",
+      "text": "Kuyruğunu sallaması sevincini gösterir; bütün istediği ciyaklayan bir oyuncaktır, ne verirsen verir."
+    },
+    {
+      "id": "672ce152",
+      "bank_id": "00b8b600",
+      "text": "Kahraman Wraithmarsh'ın kalbine yürüdü; boğucu küllerle kaplı çorak bir diyardı gördüğü."
+    },
+    {
+      "id": "67cf2701",
+      "bank_id": "00b8b600",
+      "text": "Bir Köpek Sever bir tazının gerçek değerini bilir; derin bir dostluğun sadık yoldaşıdır, can verir."
+    },
+    {
+      "id": "699b0058",
+      "bank_id": "00b8b600",
+      "text": "Bir trol pek kadimdir, ondan daha yaşlısı yoktur; etrafa pis bir koku saldığı anlaşıldı çoktur."
+    },
+    {
+      "id": "6c9b0511",
+      "bank_id": "00b8b600",
+      "text": "Onu katleden Kahraman işini gayet iyi yaptı; ve şimdi o kokudan arınmış bir han kaldı."
+    },
+    {
+      "id": "6f70af69",
+      "bank_id": "00b8b600",
+      "text": "Ah, döndünüz demek! Son maceralarınızı kesinlikle büyüleyecek ve şaşırtacak epik baladlara dönüştürdüm."
+    },
+    {
+      "id": "7416a035",
+      "bank_id": "00b8b600",
+      "text": "Ama onun istediği bu değildi ve sonunda babasına dedi: Çiftçilik yapmaktan daha güzel şeyler var hayatta besbelli."
+    },
+    {
+      "id": "8071d3a0",
+      "bank_id": "00b8b600",
+      "text": "Orada Gölge Mahkemesi'ni buldu ve soyluca, gençliğini siğillerle takas etti usulca."
+    },
+    {
+      "id": "8071d3ab",
+      "bank_id": "00b8b600",
+      "text": "Orada Gölge Mahkemesi'ni buldu ve soyluca, gençliğini siğillerle takas etti usulca."
+    },
+    {
+      "id": "8693ee37",
+      "bank_id": "00b8b600",
+      "text": "Bizzat Archon'dan daha zengin ve heybetli; yeni efendinizi selamlayın ve sağlığına kadeh kaldırın besbelli."
+    },
+    {
+      "id": "8793efaa",
+      "bank_id": "00b8b600",
+      "text": "Başlarınızı eğin Albion Kralı'nın önünde; bana biraz altın ödedi söyleyeyim diye bu türküyle,"
+    },
+    {
+      "id": "924c642b",
+      "bank_id": "00b8b600",
+      "text": "Tüm Albion boyunca canlı kayalar vardır. Kaç tane olduğunu kimse bilmez; beşten fazla olduğu kesindir."
+    },
+    {
+      "id": "99b87195",
+      "bank_id": "00b8b600",
+      "text": "Yoluna çıkan herkesin katili. İşte geliyor kasap ve bizler onun avıyız besbelli."
+    },
+    {
+      "id": "99b8719e",
+      "bank_id": "00b8b600",
+      "text": "Yoluna çıkan herkesin katili. İşte geliyor kasap ve bizler onun avıyız besbelli."
+    },
+    {
+      "id": "9d1ffb56",
+      "bank_id": "00b8b600",
+      "text": "Muhafızların sokakları suçtan temizlemesine yardım eder, aynı zamanda üç beş kuruş para da cebe iner."
+    },
+    {
+      "id": "9d1ffb5d",
+      "bank_id": "00b8b600",
+      "text": "Muhafızların sokakları suçtan temizlemesine yardım eder, aynı zamanda üç beş kuruş para da cebe iner."
+    },
+    {
+      "id": "a1832014",
+      "bank_id": "00b8b600",
+      "text": "Onu çok uzaklara kadar takip ettiyseniz nasihat için artık çok geç; çoktan onun bir sonraki kurbanı oldunuz, vazgeç."
+    },
+    {
+      "id": "a183201f",
+      "bank_id": "00b8b600",
+      "text": "Onu çok uzaklara kadar takip ettiyseniz nasihat için artık çok geç; çoktan onun bir sonraki kurbanı oldunuz, vazgeç."
+    },
+    {
+      "id": "a24cea98",
+      "bank_id": "00b8b600",
+      "text": "Kahraman bir büyücüyü kurtarmaya çalıştı; ne var ki sahneyi kötücül gölgeler kapladı."
+    },
+    {
+      "id": "a54cef51",
+      "bank_id": "00b8b600",
+      "text": "Asker büyücüyü alıp götürdü; bu da büyük bir kedere yol açtı, herkes gördü."
+    },
+    {
+      "id": "a7bbf887",
+      "bank_id": "00b8b600",
+      "text": "Mezar bekçileri öyle yalnız, öyle dost canlısı ve utangaçtır ki; elveda dememiş bir kadınla tanışmak ne zordur sanki."
+    },
+    {
+      "id": "a8f46236",
+      "bank_id": "00b8b600",
+      "text": "Başkaları incelikli yetenek ve hünerlere sahiptir; ama Zorbalar katletmeyi, incitmeyi, sakatlamayı ve öldürmeyi sever, kâfidir."
+    },
+    {
+      "id": "aaf3e942",
+      "bank_id": "00b8b600",
+      "text": "Zekidir ve iliklerine kadar yaman; Kanun Kaçağı'nı yakalayamaz hiçbir zaman."
+    },
+    {
+      "id": "aaf3e949",
+      "bank_id": "00b8b600",
+      "text": "Zekidir ve iliklerine kadar yaman; Kanun Kaçağı'nı yakalayamaz hiçbir zaman."
+    },
+    {
+      "id": "b4b991d6",
+      "bank_id": "00b8b600",
+      "text": "Öfke dolu bir hayalet intikam peşindeydi. Kahraman aşkı buldu ama hepsi sadece bir roldü, bitti."
+    },
+    {
+      "id": "c2f46005",
+      "bank_id": "00b8b600",
+      "text": "Onu biraz etine dolgun bulacaksınız. Kızartılmadıkça hiçbir yemeği yemez, şaşacaksınız."
+    },
+    {
+      "id": "c2f4600e",
+      "bank_id": "00b8b600",
+      "text": "Onu biraz etine dolgun bulacaksınız. Kızartılmadıkça hiçbir yemeği yemez, şaşacaksınız."
+    },
+    {
+      "id": "c2f5e9ef",
+      "bank_id": "00b8b600",
+      "text": "Pek çok hobbe orada alt edildi, böylece Oakfield yolculuğu tamamlandı."
+    },
+    {
+      "id": "c3f5eb42",
+      "bank_id": "00b8b600",
+      "text": "Rookridge'deki haydutlar azıtmıştı yine, Kahraman'ı zorladılar bir mağaranın içine."
+    },
+    {
+      "id": "c40586c4",
+      "bank_id": "00b8b600",
+      "text": "Master Chief'in yeri Albion değil aslında, bu yüzden zorlanıyorum ona bir türkü yakmakta."
+    },
+    {
+      "id": "c932d803",
+      "bank_id": "00b8b600",
+      "text": "Dangalak denen Kahraman hak etti nefretimizi; varlığıyla bile çileden çıkarır hepimizi."
+    },
+    {
+      "id": "c932d808",
+      "bank_id": "00b8b600",
+      "text": "Dangalak denen Kahraman hak etti nefretimizi; varlığıyla bile çileden çıkarır hepimizi."
+    },
+    {
+      "id": "cf46fb6e",
+      "bank_id": "00b8b600",
+      "text": "Zindanda bir iksir bulunduğunu söylerler; sizi tepetaklak edecek kadar tuhaftır derler."
+    },
+    {
+      "id": "dbb2691c",
+      "bank_id": "00b8b600",
+      "text": "Silahşorlar onları ölümcül bir etkiyle kullanır; gerçi niyetleri bazen şüpheli kalır."
+    },
+    {
+      "id": "deb26dd5",
+      "bank_id": "00b8b600",
+      "text": "Saçma Tüfeği, tabanca, tüfek ve dahası; eski büyücülerin ilmi kadar tehlikelidir bu teknoloji harikası."
+    },
+    {
+      "id": "dfb6aa2d",
+      "bank_id": "00b8b600",
+      "text": "Yine de Salata Kaçkını umursamaz hiç; meğerki \"şuradaki bir turta mı?\" diye sormak için."
+    },
+    {
+      "id": "e0abfb05",
+      "bank_id": "00b8b600",
+      "text": "Tavuk Kovalayan, geçmişten gelen bir seda; kim derdi ki bu isim yaşayacak bunca zaman sonra."
+    },
+    {
+      "id": "e5b25c9f",
+      "bank_id": "00b8b600",
+      "text": "Kahraman bize tehlike getiren her şeyi avladı. Dünya sonunda güvende, bundan daha tuhafı olamazdı."
+    },
+    {
+      "id": "ec277577",
+      "bank_id": "00b8b600",
+      "text": "Ey Sihirbaz, kudretin öyle muazzam ki; yükselir, fetheder, hepimizi titretir sanki."
+    },
+    {
+      "id": "ec7a9bd4",
+      "bank_id": "00b8b600",
+      "text": "Bizzat Archon'dan daha zengin ve heybetli; yeni hanımınızı selamlayın ve sağlığına kadeh kaldırın besbelli."
+    },
+    {
+      "id": "ed2776ea",
+      "bank_id": "00b8b600",
+      "text": "Bir düşünce, bir söz, elin ufak bir hareketi; ve düşmanlar koca bir kum yığınına dönüverdi."
+    },
+    {
+      "id": "ef04a24c",
+      "bank_id": "00b8b600",
+      "text": "Sosis, pirzola ya da domuz turtası istemeyin sakın. Bunu yapan kim olursa olsun hemen ölür, bakın."
+    },
+    {
+      "id": "ef7aa0ad",
+      "bank_id": "00b8b600",
+      "text": "Başlarınızı eğin Albion Kraliçesi'nin önünde; altın ve başarı peşindedir her gününde."
+    },
+    {
+      "id": "f7fdc410",
+      "bank_id": "00b8b600",
+      "text": "Şatosundaki Belediye Başkanı'na selam olsun; bu kadar zengin olmak çekilen zahmete değsin dursun."
+    },
+    {
+      "id": "f7fdc41b",
+      "bank_id": "00b8b600",
+      "text": "Şatosundaki Belediye Başkanı'na selam olsun; bu kadar zengin olmak çekilen zahmete değsin dursun."
+    },
+    {
+      "id": "ffbed5df",
+      "bank_id": "00b8b600",
+      "text": "Lokum dedikleri kişi sahiden pek hoştur; onun kadar aranan, sevilen ve beğenilen biri yoktur."
+    }
+  ]
+}

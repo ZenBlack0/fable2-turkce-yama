@@ -1,0 +1,526 @@
+{
+  "bank_id": "002e9601",
+  "total_strings": 104,
+  "strings": [
+    {
+      "id": "0438b318",
+      "bank_id": "002e9601",
+      "text": "Demek Rupert sonunda babasına gerçeği anlattı ha. Giles iyi adamdır, anlayışla karşılar."
+    },
+    {
+      "id": "0438b31a",
+      "bank_id": "002e9601",
+      "text": "Rupert için yaptığın şey çok ince bir davranıştı."
+    },
+    {
+      "id": "0438b31b",
+      "bank_id": "002e9601",
+      "text": "Bunca yıldan sonra Rupert'ı mutlu görmek ne güzel. Üstelik artık babasından hiçbir sırrı da yok."
+    },
+    {
+      "id": "0938bb39",
+      "bank_id": "002e9601",
+      "text": "Bunca yıldan sonra Rupert'ı mutlu görmek ne güzel. Üstelik artık babasından hiçbir sırrı da yok."
+    },
+    {
+      "id": "0938bb3a",
+      "bank_id": "002e9601",
+      "text": "Bunca yıldan sonra Rupert'ı mutlu görmek ne güzel. Üstelik artık babasından hiçbir sırrı da yok."
+    },
+    {
+      "id": "0938bb3b",
+      "bank_id": "002e9601",
+      "text": "Bunca yaşadıklarından sonra Rupert mutlu olmayı hak ediyor."
+    },
+    {
+      "id": "236762b8",
+      "bank_id": "002e9601",
+      "text": "Kocanı köle pazarında nasıl satabildin?! Bu tek kelimeyle korkunç!"
+    },
+    {
+      "id": "236762ba",
+      "bank_id": "002e9601",
+      "text": "Kocanı köle olarak mı sattın? Ne dehşet verici!"
+    },
+    {
+      "id": "236762bb",
+      "bank_id": "002e9601",
+      "text": "Ne yaptın ne yaptın?! Kocanı bir et parçası gibi sattın mı? İnanamıyorum!"
+    },
+    {
+      "id": "28676a59",
+      "bank_id": "002e9601",
+      "text": "Kocanı sahiden köle olarak satmadın, değil mi? Ne biçim bir canavarsın sen?!"
+    },
+    {
+      "id": "28676a5a",
+      "bank_id": "002e9601",
+      "text": "Kocanı köle olarak mı sattın?! Bunu nasıl yapabildin?!!"
+    },
+    {
+      "id": "28676a5b",
+      "bank_id": "002e9601",
+      "text": "Kocanı sahiden köle olarak satmadın, değil mi? İnanamıyorum!"
+    },
+    {
+      "id": "28676a5c",
+      "bank_id": "002e9601",
+      "text": "Ne yaptın ne yaptın?! Kocanı köle olarak mı sattın?! Tebrik mi etsem yüzüne mi tükürsem bilemedim."
+    },
+    {
+      "id": "2ee02f21",
+      "bank_id": "002e9601",
+      "text": "Giles emekli olmaktan bahsediyor. Ama önce şu oğlanın işini halletmeden olmaz tabii."
+    },
+    {
+      "id": "2ee02f22",
+      "bank_id": "002e9601",
+      "text": "Giles oğlu Rupert'a düzgün bir kız bulmaya çalışıyor gibi görünüyor. Uygun birini tanıyor musun?"
+    },
+    {
+      "id": "2ee02f23",
+      "bank_id": "002e9601",
+      "text": "Zavallı Giles oğlu için öyle endişeleniyor ki. Bana sorarsan birbirleriyle daha çok konuşmalılar."
+    },
+    {
+      "id": "31d86984",
+      "bank_id": "002e9601",
+      "text": "Ömrümün sonuna kadar o banshee yüzünden kabuslar göreceğim."
+    },
+    {
+      "id": "39e04050",
+      "bank_id": "002e9601",
+      "text": "Giles oğlu Rupert'a düzgün bir kız bulmaya çalışıyor gibi görünüyor. Uygun birini tanıyor musun?"
+    },
+    {
+      "id": "39e04052",
+      "bank_id": "002e9601",
+      "text": "Zavallı Rupert... Babasının ona yine bir kadın bulmaya çalıştığını duydum."
+    },
+    {
+      "id": "39e04053",
+      "bank_id": "002e9601",
+      "text": "Giles oğlu Rupert'a düzgün bir kız bulmaya çalışıyor gibi görünüyor. Uygun birini tanıyor musun?"
+    },
+    {
+      "id": "3cd87b34",
+      "bank_id": "002e9601",
+      "text": "O banshee'nin konuştuğunu duydun mu? Birkaç kelamından sonra kendimi asmaya hazırdım valla."
+    },
+    {
+      "id": "5a6bc739",
+      "bank_id": "002e9601",
+      "text": "Duyduğuma göre şu ahmak arkeo-ne karın ağrısıysa o kadın fena bir sürprizle karşılaşmış."
+    },
+    {
+      "id": "5a6bc73e",
+      "bank_id": "002e9601",
+      "text": "Fairfax'taki arkeoloğun inanılmaz bir şey kazıp çıkardığını duydum."
+    },
+    {
+      "id": "5a6bc73f",
+      "bank_id": "002e9601",
+      "text": "Belle'in Eski Krallık'tan kalma bir yaratık kazıp çıkardığını söylüyorlar. Doğru olabilir mi bu?"
+    },
+    {
+      "id": "5ee88e48",
+      "bank_id": "002e9601",
+      "text": "Şu işe yaramaz Bowerstone muhafızları zor işlerini başkalarına yaptırmak zorunda kalıyor biliyor musun."
+    },
+    {
+      "id": "5ee88e49",
+      "bank_id": "002e9601",
+      "text": "Doğru valla. Bowerstone'da canavarların izini sürsünler diye dövüşçüler kiralayan bir adam var."
+    },
+    {
+      "id": "5ee88e4d",
+      "bank_id": "002e9601",
+      "text": "Bowerstone muhafızları canavarları ve haydutları alt etmekte zorlanıyor. Görünüşe göre artık maceracı kiralıyorlar."
+    },
+    {
+      "id": "5ee88e4e",
+      "bank_id": "002e9601",
+      "text": "Doğru valla. Bowerstone'da canavarların izini sürsünler diye dövüşçüler kiralayan bir adam var."
+    },
+    {
+      "id": "5ee88e4f",
+      "bank_id": "002e9601",
+      "text": "Evet, Bowerstone muhafızları pis işlerini yaptırmak için maceracılar tutuyor. Bayağı acınası doğrusu."
+    },
+    {
+      "id": "656bd868",
+      "bank_id": "002e9601",
+      "text": "O arkeolog nasıl bir canavar kazıp çıkardı ki acaba?"
+    },
+    {
+      "id": "656bd869",
+      "bank_id": "002e9601",
+      "text": "Fairfax'taki arkeoloğun inanılmaz bir şey kazıp çıkardığını duydum."
+    },
+    {
+      "id": "656bd86c",
+      "bank_id": "002e9601",
+      "text": "Belle'in tuhaf bir kadın olduğunu her zaman biliyordum zaten. Beni haklı çıkardı işte."
+    },
+    {
+      "id": "656bd86e",
+      "bank_id": "002e9601",
+      "text": "Şu Belle'in kazıp çıkardığı şey doğru mu? Sahiden Eski Krallık'tan bir yaratık mı? Vay canına."
+    },
+    {
+      "id": "69e89ff8",
+      "bank_id": "002e9601",
+      "text": "Bowerstone'daki şu işe yaramaz muhafızlar artık bütün zor işlerini başkalarına devrediyor. İnanabiliyor musun?"
+    },
+    {
+      "id": "69e89ff9",
+      "bank_id": "002e9601",
+      "text": "Yeterince cesur olsaydım Bowerstone'a gider Ödül Avcısı olurdum."
+    },
+    {
+      "id": "69e89ffc",
+      "bank_id": "002e9601",
+      "text": "Ödül avcısı olmak ne hoş olurdu değil mi? Çok heyecanlı. Bowerstone muhafızları onları kiralıyor biliyorsun."
+    },
+    {
+      "id": "69e89ffe",
+      "bank_id": "002e9601",
+      "text": "Belki de ödül avcısı olurum. Bowerstone muhafızlarının yenilerini aradığını duydum."
+    },
+    {
+      "id": "69e89fff",
+      "bank_id": "002e9601",
+      "text": "Yeterince cesur olsaydım Bowerstone'a gider Ödül Avcısı olurdum."
+    },
+    {
+      "id": "854a1b30",
+      "bank_id": "002e9601",
+      "text": "Fairfax'taki arkeolog için eski bir parşömen arıyorum. İyi para ödüyor."
+    },
+    {
+      "id": "854a1b33",
+      "bank_id": "002e9601",
+      "text": "Fairfax Bahçeleri'ndeki şu arkeolog kadın durmadan parşömen arıyor."
+    },
+    {
+      "id": "854a1b34",
+      "bank_id": "002e9601",
+      "text": "Bana sorarsan, kendine isterse arkeolog desin, geçmişi kazıp çıkarmak bir kadının işi değildir."
+    },
+    {
+      "id": "854a1b35",
+      "bank_id": "002e9601",
+      "text": "Fairfax Bahçeleri'nin kendine has bir arkeoloğu var. Arkadaşımdır hem de."
+    },
+    {
+      "id": "8c4a2630",
+      "bank_id": "002e9601",
+      "text": "Albion'un en önde gelen arkeoloğunu arıyorsan Fairfax'tan öteye bakmana gerek yok."
+    },
+    {
+      "id": "8c4a2631",
+      "bank_id": "002e9601",
+      "text": "Fairfax sosyetesi çok ilericidir. Albion'un ilk kadın arkeoloğunu işte orada bulursun."
+    },
+    {
+      "id": "8c4a2635",
+      "bank_id": "002e9601",
+      "text": "Ancak Fairfax'tan biri bütün vaktini eski parşömenlere kafayı takarak geçirebilir zaten."
+    },
+    {
+      "id": "8c4a2636",
+      "bank_id": "002e9601",
+      "text": "Dünyayı keşfetmeyi seviyorsan Fairfax arkeoloğunun o eski parşömenleri bulmak için her zaman yardıma ihtiyacı olur."
+    },
+    {
+      "id": "97d8a46b",
+      "bank_id": "002e9601",
+      "text": "Yeni eşinizin biraz tuhaf bir kokusu var, öyle değil mi?"
+    },
+    {
+      "id": "a1c71350",
+      "bank_id": "002e9601",
+      "text": "Rupert'ın kadınlarla ilgilenmediğini bilmiyor muydun?"
+    },
+    {
+      "id": "a1c71351",
+      "bank_id": "002e9601",
+      "text": "Rupert ona bulduğun kızdan pek memnun kalmadı, di mi? E, daha iyisini bilmeliydin."
+    },
+    {
+      "id": "a1c71352",
+      "bank_id": "002e9601",
+      "text": "Zavallı Rupert, babası ona bir kadın bulmaya kalktı. Neyse ki sonunda her şey tatlıya bağlandı."
+    },
+    {
+      "id": "a6381761",
+      "bank_id": "002e9601",
+      "text": "Duydun mu hayatım? Salak herifin teki bir cesetle evlenmiş! Bugünlerde neler oluyor neler..."
+    },
+    {
+      "id": "a6381763",
+      "bank_id": "002e9601",
+      "text": "Duydun mu hayatım? Salak herifin teki bir cesetle evlenmiş! Bugünlerde neler oluyor neler..."
+    },
+    {
+      "id": "a6381764",
+      "bank_id": "002e9601",
+      "text": "Duydun mu hayatım? Salak herifin teki bir cesetle evlenmiş! Bugünlerde neler oluyor neler..."
+    },
+    {
+      "id": "a6381766",
+      "bank_id": "002e9601",
+      "text": "Duydun mu hayatım? Salak herifin teki bir cesetle evlenmiş! Bugünlerde neler oluyor neler..."
+    },
+    {
+      "id": "a6381767",
+      "bank_id": "002e9601",
+      "text": "Duydun mu hayatım? Salak herifin teki bir cesetle evlenmiş! Bugünlerde neler oluyor neler..."
+    },
+    {
+      "id": "aac721bc",
+      "bank_id": "002e9601",
+      "text": "Rupert ona bulduğun kızdan pek memnun kalmadı, di mi? E, daha iyisini bilmeliydin."
+    },
+    {
+      "id": "aac721bd",
+      "bank_id": "002e9601",
+      "text": "Rupert o çiftliğe hiç uymadı zaten. Ve hiçbir zaman bir kızla evlenmeyecekti."
+    },
+    {
+      "id": "aac721bf",
+      "bank_id": "002e9601",
+      "text": "Rupert ona bulduğun kızdan pek memnun kalmadı, di mi? E, daha iyisini bilmeliydin."
+    },
+    {
+      "id": "ab381f02",
+      "bank_id": "002e9601",
+      "text": "Duydun mu hayatım? Salak herifin teki bir cesetle evlenmiş! Bugünlerde neler oluyor neler..."
+    },
+    {
+      "id": "ab381f05",
+      "bank_id": "002e9601",
+      "text": "Duydun mu hayatım? Salak herifin teki bir cesetle evlenmiş! Bugünlerde neler oluyor neler..."
+    },
+    {
+      "id": "ab381f06",
+      "bank_id": "002e9601",
+      "text": "Duydun mu hayatım? Salak herifin teki bir cesetle evlenmiş! Bugünlerde neler oluyor neler..."
+    },
+    {
+      "id": "ab381f07",
+      "bank_id": "002e9601",
+      "text": "Duydun mu hayatım? Salak herifin teki bir cesetle evlenmiş! Bugünlerde neler oluyor neler..."
+    },
+    {
+      "id": "b548f78c",
+      "bank_id": "002e9601",
+      "text": "Yaşa be! Banshee'yi öldürdün!"
+    },
+    {
+      "id": "b548f78d",
+      "bank_id": "002e9601",
+      "text": "Oley be! Banshee saldırısından sağ kurtulduk!"
+    },
+    {
+      "id": "b565b843",
+      "bank_id": "002e9601",
+      "text": "Kocanı köle olarak mı sattın? Güzel taktik valla."
+    },
+    {
+      "id": "ba48ffac",
+      "bank_id": "002e9601",
+      "text": "Başardın! Banshee öldü! Kurtulduk!"
+    },
+    {
+      "id": "ba48ffad",
+      "bank_id": "002e9601",
+      "text": "Şu banshee nalları dikti işte! Helal!"
+    },
+    {
+      "id": "d516c5b9",
+      "bank_id": "002e9601",
+      "text": "Bir zombiyle evlenmek mi? Çift kişilik tabut yapıyorlar mı ki?"
+    },
+    {
+      "id": "d516c5ba",
+      "bank_id": "002e9601",
+      "text": "Victor'un karısının şu tuhaf... kokusundan rahatsız olacağını düşünürdün değil mi."
+    },
+    {
+      "id": "d610aff8",
+      "bank_id": "002e9601",
+      "text": "İnsanlar sağda solda suikasta kurban gidiyor. Başına ödül konmuş bir sürü insan var anlaşılan."
+    },
+    {
+      "id": "d610aff9",
+      "bank_id": "002e9601",
+      "text": "En sevdiğim meyhanenin müdavimlerinden biri az önce suikasta uğradı. Bugünlerde kimse güvende değil."
+    },
+    {
+      "id": "d610affd",
+      "bank_id": "002e9601",
+      "text": "Sıradaki suikast kime olacak acaba?"
+    },
+    {
+      "id": "d610affe",
+      "bank_id": "002e9601",
+      "text": "Bu suikastlar sahiden çok endişe verici. Arkasında kim var acaba?"
+    },
+    {
+      "id": "d610afff",
+      "bank_id": "002e9601",
+      "text": "Bütün bu suikastların arkasında kim var dersin?"
+    },
+    {
+      "id": "d967a468",
+      "bank_id": "002e9601",
+      "text": "Bowerstone'da birinin suikastçı kiraladığını duydum. Gerçi kim olduğunu bilen yok."
+    },
+    {
+      "id": "d967a46a",
+      "bank_id": "002e9601",
+      "text": "Bowerstone'da bir yerlerde Suikastçılar Cemiyeti'nin bir temsilcisi var. Ama kim olduğunu kimse bilmiyor."
+    },
+    {
+      "id": "d967a46b",
+      "bank_id": "002e9601",
+      "text": "Bowerstone'da bir yerlerde insanların suikastçı kiraladığı doğru mu?"
+    },
+    {
+      "id": "d967a46c",
+      "bank_id": "002e9601",
+      "text": "Bowerstone'da iş dağıtan bir suikastçılar loncası var biliyorsun. Hep bir suikastçı olmak istemiştim..."
+    },
+    {
+      "id": "d967a46d",
+      "bank_id": "002e9601",
+      "text": "Evimin karşısındaki barın eski sahibini bilirsin. Geçen hafta suikasta kurban gitti."
+    },
+    {
+      "id": "dd581098",
+      "bank_id": "002e9601",
+      "text": "Şu Victor yine bir işler çeviriyor. Ölü bir kadın hakkında söylenip duruyor."
+    },
+    {
+      "id": "dd58109a",
+      "bank_id": "002e9601",
+      "text": "Lady Grey hakkındaki hikâyeyi duydun mu? Onu cadılıkla suçlayıp kalıntılarını Albion'un dört bir yanına saçmışlar."
+    },
+    {
+      "id": "dd58109b",
+      "bank_id": "002e9601",
+      "text": "Şu Victor yine bir işler çeviriyor. Ölü bir belediye başkanı hakkında söylenip duruyor."
+    },
+    {
+      "id": "de67ac0a",
+      "bank_id": "002e9601",
+      "text": "Bowerstone'da birinin suikastçı kiraladığını duydum. Gerçi kim olduğunu bilen yok."
+    },
+    {
+      "id": "de67ac0b",
+      "bank_id": "002e9601",
+      "text": "Şu suikastçılar loncasının Bowerstone'da adam kiralamasına neden kimse engel olmuyor?"
+    },
+    {
+      "id": "de67ac0d",
+      "bank_id": "002e9601",
+      "text": "Bowerstone'daki şu suikastçılardan birini kiralamayı düşünüyorum. Kurtulmak istediğim biri var da."
+    },
+    {
+      "id": "e110c128",
+      "bank_id": "002e9601",
+      "text": "Bu suikastlar giderek daha da kötüleşiyor."
+    },
+    {
+      "id": "e110c129",
+      "bank_id": "002e9601",
+      "text": "Birinin suikasta kurban gittiğini duydum."
+    },
+    {
+      "id": "e110c12c",
+      "bank_id": "002e9601",
+      "text": "Son zamanlarda meydana gelen suikastları duydun mu?"
+    },
+    {
+      "id": "e110c12e",
+      "bank_id": "002e9601",
+      "text": "Her yerde insanlar suikasta uğruyor ve kimin yaptığı meçhul."
+    },
+    {
+      "id": "e110c12f",
+      "bank_id": "002e9601",
+      "text": "Birinin suikasta kurban gittiğini duydum."
+    },
+    {
+      "id": "e25818b9",
+      "bank_id": "002e9601",
+      "text": "Bowerstone'un eskiden Lady Grey adında bir belediye başkanı vardı. Onu cadılıkla yargılayıp kalıntılarını diyara saçtılar."
+    },
+    {
+      "id": "e25818ba",
+      "bank_id": "002e9601",
+      "text": "Lady Grey'i biliyorsun, değil mi? Yüzlerce yıl önce Bowerstone'u yönetmişti. Ondan daha soğuk bir kadının olmadığını söylerler."
+    },
+    {
+      "id": "e25818bb",
+      "bank_id": "002e9601",
+      "text": "Zavallı mezarcı. Bir keresinde bana evlenme teklif etmişti. Sonra da terler içinde kaçıp gitti."
+    },
+    {
+      "id": "e9ba4f86",
+      "bank_id": "002e9601",
+      "text": "Hey, şu banshee'ye gününü gösterdin valla. Helal olsun."
+    },
+    {
+      "id": "e9ba4f87",
+      "bank_id": "002e9601",
+      "text": "O banshee'yi senin için biraz hırpalayıp kıvamına getirmiştim. Fark ettin mi?"
+    },
+    {
+      "id": "f0ba5a82",
+      "bank_id": "002e9601",
+      "text": "O banshee'yle ilgilenmek için burada olmasaydın ne olurdu düşünmek bile istemiyorum."
+    },
+    {
+      "id": "f0ba5a83",
+      "bank_id": "002e9601",
+      "text": "O banshee'yi öldürmen iyi oldu. Bu yerin yeterince derdi var zaten."
+    },
+    {
+      "id": "f32ab9c3",
+      "bank_id": "002e9601",
+      "text": "Biliyor musun, buralarda kendi kölemizin olması hiç fena olmazdı..."
+    },
+    {
+      "id": "f32ab9c4",
+      "bank_id": "002e9601",
+      "text": "Biliyor musun, buralarda kendi kölemizin olması hiç fena olmazdı..."
+    },
+    {
+      "id": "f32ab9c7",
+      "bank_id": "002e9601",
+      "text": "Biliyor musun, buralarda kendi kölemizin olması hiç fena olmazdı..."
+    },
+    {
+      "id": "fa2ac4c0",
+      "bank_id": "002e9601",
+      "text": "Hiçbir şeyden haberi olmayan bir köylüyü zorla çalıştırma kampına götürmedin değil mi hayatım?"
+    },
+    {
+      "id": "fa2ac4c2",
+      "bank_id": "002e9601",
+      "text": "Biliyor musun, buralarda zorla çalıştırılacak kendi uşağımızın olması hiç fena olmazdı..."
+    },
+    {
+      "id": "fa2ac4c4",
+      "bank_id": "002e9601",
+      "text": "Biliyor musun, buralarda kendi kölemizin olması hiç fena olmazdı... Şaka yapıyorum canım!"
+    },
+    {
+      "id": "fa2ac4c6",
+      "bank_id": "002e9601",
+      "text": "Biliyor musun, buralarda kendi kölemizin olması hiç fena olmazdı..."
+    }
+  ]
+}

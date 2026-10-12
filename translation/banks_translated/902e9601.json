@@ -1,0 +1,716 @@
+{
+  "bank_id": "902e9601",
+  "total_strings": 142,
+  "strings": [
+    {
+      "id": "07e5faa8",
+      "bank_id": "902e9601",
+      "text": "Oakfield içimi ısıtıyor. Buradan hiç ayrılmak istemiyorum."
+    },
+    {
+      "id": "07e5faaa",
+      "bank_id": "902e9601",
+      "text": "Altın meşe palamudu olmasaydı buranın hali ne olurdu acaba?"
+    },
+    {
+      "id": "07e5faab",
+      "bank_id": "902e9601",
+      "text": "Burası beni daha sade günlere götürüyor."
+    },
+    {
+      "id": "07e5faac",
+      "bank_id": "902e9601",
+      "text": "Bütün bu çiftçiler resmen gübre kokuyor."
+    },
+    {
+      "id": "07e5faad",
+      "bank_id": "902e9601",
+      "text": "Bu kasabada herkesin çiftçilikten bahsetmesinden öyle bıktım ki."
+    },
+    {
+      "id": "07e5faae",
+      "bank_id": "902e9601",
+      "text": "Buraya bu zavallı insanların toprakta çalışmalarını görmeye geldim."
+    },
+    {
+      "id": "07e5faaf",
+      "bank_id": "902e9601",
+      "text": "Bu sade ve iyi kalpli insanlar çoktan geçmişte kalmış bir devrin yadigârı."
+    },
+    {
+      "id": "094372c8",
+      "bank_id": "902e9601",
+      "text": "Buraya Çile'yi görmeye geldim."
+    },
+    {
+      "id": "094372ca",
+      "bank_id": "902e9601",
+      "text": "Geçen hafta Çile'ye gittim. Ne korkunç bir gösteriydi!"
+    },
+    {
+      "id": "094372cb",
+      "bank_id": "902e9601",
+      "text": "Bu kıyılara hiç gemi yanaştığını görür müsün?"
+    },
+    {
+      "id": "094372cc",
+      "bank_id": "902e9601",
+      "text": "Westcliff, Albion'un en çılgın kasabasıdır."
+    },
+    {
+      "id": "094372cd",
+      "bank_id": "902e9601",
+      "text": "Westcliff dünyadaki en iyi kasaba."
+    },
+    {
+      "id": "094372ce",
+      "bank_id": "902e9601",
+      "text": "Çile, Westcliff'in en büyük başarısıdır."
+    },
+    {
+      "id": "094372cf",
+      "bank_id": "902e9601",
+      "text": "Bu haftaki Çile için bilet buldum."
+    },
+    {
+      "id": "0ce60249",
+      "bank_id": "902e9601",
+      "text": "Burada hayat daha sade. Tıpkı benim gibi."
+    },
+    {
+      "id": "0ce6024a",
+      "bank_id": "902e9601",
+      "text": "Buralardaki hasat kokusunu seviyorum. Şehrin o pis kokusundan öyle farklı ki."
+    },
+    {
+      "id": "0ce6024b",
+      "bank_id": "902e9601",
+      "text": "Ah, modern hayatın bütün stresinden uzakta toprak işlemek..."
+    },
+    {
+      "id": "0ce6024c",
+      "bank_id": "902e9601",
+      "text": "Bu kasaba öyle sıkıcı ki."
+    },
+    {
+      "id": "0ce6024d",
+      "bank_id": "902e9601",
+      "text": "Beni bu aptallar gibi çiftçilik yaparken asla göremezsiniz."
+    },
+    {
+      "id": "0ce6024e",
+      "bank_id": "902e9601",
+      "text": "Arada bir taşrayı ziyaret etmek insana iyi geliyor."
+    },
+    {
+      "id": "0ce6024f",
+      "bank_id": "902e9601",
+      "text": "Ah, taşra halkı öyle dürüst ve sade ki. Evet, insanı tazeliyor."
+    },
+    {
+      "id": "0e437ae9",
+      "bank_id": "902e9601",
+      "text": "Çile muhteşem, değil mi?"
+    },
+    {
+      "id": "0e437aea",
+      "bank_id": "902e9601",
+      "text": "Biliyor musun, Çile aslında ne zamandır burada, merak ediyorum."
+    },
+    {
+      "id": "0e437aeb",
+      "bank_id": "902e9601",
+      "text": "Bu uçurum gerçekten batıda mı? Daha çok güney-güney-kuzeybatıda değil miyiz?"
+    },
+    {
+      "id": "0e437aec",
+      "bank_id": "902e9601",
+      "text": "Westcliff, erkeklerin erkek olmaya geldiği yerdir. Babam öyle derdi hep."
+    },
+    {
+      "id": "0e437aed",
+      "bank_id": "902e9601",
+      "text": "Eskiden Westcliff'e sürekli gelirdim."
+    },
+    {
+      "id": "0e437aee",
+      "bank_id": "902e9601",
+      "text": "Westcliff'e yapılan bu küçük gezilerden gerçekten zevk alıyorum."
+    },
+    {
+      "id": "0e437aef",
+      "bank_id": "902e9601",
+      "text": "Ah, Westcliff'e sık sık tatile gelirim ben."
+    },
+    {
+      "id": "11984cc8",
+      "bank_id": "902e9601",
+      "text": "Bu korkunç yeri bırakıp medeniyete dönebilir miyiz artık?"
+    },
+    {
+      "id": "11984cca",
+      "bank_id": "902e9601",
+      "text": "Çoğu insanın Wraithmarsh'tan uzak durmasının bir sebebi var."
+    },
+    {
+      "id": "11984ccb",
+      "bank_id": "902e9601",
+      "text": "Burası resmen tekinsiz. Eskiden burada Oakvale adında bir kasaba olduğunu biliyor muydun?"
+    },
+    {
+      "id": "11984ccc",
+      "bank_id": "902e9601",
+      "text": "Bu yerde hayaletlerin kokusunu neredeyse alabiliyorsun."
+    },
+    {
+      "id": "11984ccd",
+      "bank_id": "902e9601",
+      "text": "Buralarda benim zevkime göre çok fazla hayalet var."
+    },
+    {
+      "id": "11984cce",
+      "bank_id": "902e9601",
+      "text": "Burada eski bir kasabanın hayaletinden başka hiçbir şey yok."
+    },
+    {
+      "id": "11984ccf",
+      "bank_id": "902e9601",
+      "text": "Bir gün Wraithmarsh'ı ziyaret edeceğim hiç aklıma gelmezdi."
+    },
+    {
+      "id": "12f13580",
+      "bank_id": "902e9601",
+      "text": "Bu yerde köşenin arkasında kimin saklandığını asla bilemezsin."
+    },
+    {
+      "id": "12f13581",
+      "bank_id": "902e9601",
+      "text": "Dostum burası çok iç karartıcı bir yer."
+    },
+    {
+      "id": "12f13582",
+      "bank_id": "902e9601",
+      "text": "Annem bu sokaklara adım atmamı yasaklardı biliyor musun."
+    },
+    {
+      "id": "12f13583",
+      "bank_id": "902e9601",
+      "text": "Ah lütfen, çıkar beni bu korkunç sokaklardan."
+    },
+    {
+      "id": "12f13584",
+      "bank_id": "902e9601",
+      "text": "Ben buralarda büyüdüm biliyor musun."
+    },
+    {
+      "id": "12f13586",
+      "bank_id": "902e9601",
+      "text": "Eski bir şehir olduğunu düşünürsek etraf o kadar da kötü görünmüyor."
+    },
+    {
+      "id": "12f13587",
+      "bank_id": "902e9601",
+      "text": "Buraya boşuna Eski Şehir demiyorlar biliyorsun. Bayağı eski."
+    },
+    {
+      "id": "169854e9",
+      "bank_id": "902e9601",
+      "text": "Neden Wraithmarsh'tayız biz? Burası berbat!"
+    },
+    {
+      "id": "169854ea",
+      "bank_id": "902e9601",
+      "text": "Tam burada eskiden şirin, küçük bir kasaba olduğunu düşününce... Şimdi ise kötülük ve hayaletlerden başka hiçbir şey yok."
+    },
+    {
+      "id": "169854eb",
+      "bank_id": "902e9601",
+      "text": "Wraithmarsh'ta sadece hayaletler yaşar. Yani gerçi 'yaşar' doğru kelime sayılmaz sanırım."
+    },
+    {
+      "id": "169854ec",
+      "bank_id": "902e9601",
+      "text": "Neden bilmiyorum ama burası bana berbat şiirler yazma isteği veriyor."
+    },
+    {
+      "id": "169854ed",
+      "bank_id": "902e9601",
+      "text": "Kimsenin bu tekinsiz yere gelmemesine şaşmamalı."
+    },
+    {
+      "id": "169854ee",
+      "bank_id": "902e9601",
+      "text": "Bu hayaletler ve acı hatıralar vadisinde ölümün ve çürümenin kokusunu alabiliyorsun."
+    },
+    {
+      "id": "169854ef",
+      "bank_id": "902e9601",
+      "text": "Ölümün ve çürümenin kokusu bu lanetli topraklara sinmiş durumda."
+    },
+    {
+      "id": "17f13da0",
+      "bank_id": "902e9601",
+      "text": "Bu rüzgârlı sokaklarda kendimi evimde gibi hissediyorum."
+    },
+    {
+      "id": "17f13da1",
+      "bank_id": "902e9601",
+      "text": "Saklambaç oynamak için iyi bir yer burası."
+    },
+    {
+      "id": "17f13da2",
+      "bank_id": "902e9601",
+      "text": "Bu rüzgârlı sokaklar çiş kokuyor."
+    },
+    {
+      "id": "17f13da3",
+      "bank_id": "902e9601",
+      "text": "Gençliğimde buraya hiç gelmemiştim. Neden acaba."
+    },
+    {
+      "id": "17f13da5",
+      "bank_id": "902e9601",
+      "text": "Bowerstone'un bu kısmı tam bir labirent."
+    },
+    {
+      "id": "17f13da6",
+      "bank_id": "902e9601",
+      "text": "Eski Şehir'in nesini seviyorum biliyor musun? Kokusunu. Bana büyüdüğüm çiftliği hatırlatıyor."
+    },
+    {
+      "id": "17f13da7",
+      "bank_id": "902e9601",
+      "text": "Daha gençken bu sokaklarda sürekli saklambaç oynardım."
+    },
+    {
+      "id": "2a9bdb80",
+      "bank_id": "902e9601",
+      "text": "Aile büyüğünü mezarında bir kez daha ziyaret etme vakti."
+    },
+    {
+      "id": "2a9bdb81",
+      "bank_id": "902e9601",
+      "text": "Kendi mezarımın bundan çok daha görkemli olmasını umuyorum kesinlikle."
+    },
+    {
+      "id": "3fa78b48",
+      "bank_id": "902e9601",
+      "text": "Gölgeler Tapınağı'ndaki kuzenimi ziyaret edecektim. Ama sonra yeterince kötü olmadığı için onu kovduklarını hatırladım."
+    },
+    {
+      "id": "3fa78b49",
+      "bank_id": "902e9601",
+      "text": "Amcam o tapınakta gölgelere ya da bir o kadar saçma başka şeylere tapınarak çok vakit geçirirdi."
+    },
+    {
+      "id": "3fa78b4a",
+      "bank_id": "902e9601",
+      "text": "Rookridge'i her zaman sevmişimdir. Tam kayalık ve tepelik bir yer."
+    },
+    {
+      "id": "3fa78b4b",
+      "bank_id": "902e9601",
+      "text": "Buradayken şu Gölge müritlerine bir uğrayabilirim belki."
+    },
+    {
+      "id": "3fa78b4c",
+      "bank_id": "902e9601",
+      "text": "Gölgeler Tapınağı bu bölgenin tamamını karanlık ve korkunç gösteriyor."
+    },
+    {
+      "id": "3fa78b4d",
+      "bank_id": "902e9601",
+      "text": "Yukarıdaki o karanlık binadan uzak dururdum ben olsam. Kötü, çok kötü bir yer."
+    },
+    {
+      "id": "3fa78b4e",
+      "bank_id": "902e9601",
+      "text": "Rookridge'de yürümek bende hep baş dönmesi yapıyor."
+    },
+    {
+      "id": "45e21e40",
+      "bank_id": "902e9601",
+      "text": "Aman tanrım, şu evlere bir baksana. Pek yüksek sosyete sayılmaz, değil mi?"
+    },
+    {
+      "id": "45e21e41",
+      "bank_id": "902e9601",
+      "text": "Annem her zaman Bowerstone'un bir hanımefendiye göre bir yer olmadığını söylerdi."
+    },
+    {
+      "id": "45e21e42",
+      "bank_id": "902e9601",
+      "text": "Buralardaki insanlar kendilerini çok saygın sanıyor. Ama Bowerstone'un yüzeyini biraz kazırsan tonla pislik bulursun."
+    },
+    {
+      "id": "45e21e43",
+      "bank_id": "902e9601",
+      "text": "Burayı pek sevmiyorum. Bowerstone'luların tuhaf bir kokusu var."
+    },
+    {
+      "id": "45e21e44",
+      "bank_id": "902e9601",
+      "text": "Küçükken aşağıdaki iskeleye gelen erzak teknelerini izlemeyi çok severdim."
+    },
+    {
+      "id": "45e21e45",
+      "bank_id": "902e9601",
+      "text": "Bowerstone'dan daha hayat dolu bir yer yoktur."
+    },
+    {
+      "id": "45e21e47",
+      "bank_id": "902e9601",
+      "text": "Bütün hayatım boyunca Bowerstone'da yaşadım. Burayı çok seviyorum."
+    },
+    {
+      "id": "48a79998",
+      "bank_id": "902e9601",
+      "text": "Rookridge'de biraz tekinsiz bir şeyler var. Bence o karanlık tapınak yüzünden."
+    },
+    {
+      "id": "48a79999",
+      "bank_id": "902e9601",
+      "text": "Oradan aşağısı bayağı derin bir uçurum, değil mi?"
+    },
+    {
+      "id": "48a7999b",
+      "bank_id": "902e9601",
+      "text": "Oakfield'in tek kötü yanı Gölgeler Tapınağı'nın bu kadar yakınından geçmek zorunda olmak."
+    },
+    {
+      "id": "48a7999c",
+      "bank_id": "902e9601",
+      "text": "Sanırım Rookridge bir zamanlar Dunecrest olarak biliniyordu. Ama çok uzun zaman önceydi ve isim tutmadı."
+    },
+    {
+      "id": "48a7999d",
+      "bank_id": "902e9601",
+      "text": "Bu yollar oldukça tehlikeli olabilir. Ama huzurlu Oakfield'e ulaşmak genelde buna değer."
+    },
+    {
+      "id": "48a7999e",
+      "bank_id": "902e9601",
+      "text": "Bayağı acayip bir yer şu Rookridge, sence de öyle değil mi?"
+    },
+    {
+      "id": "48a7999f",
+      "bank_id": "902e9601",
+      "text": "Bowerstone'a giden yol bu taraf, değil mi? Yoksa yanlış tarafa mı gidiyorum?"
+    },
+    {
+      "id": "4ce22948",
+      "bank_id": "902e9601",
+      "text": "Buraya neden Brownstone demediklerini hiç merak ettin mi? Belki de bir yazım hatasıydı."
+    },
+    {
+      "id": "4ce22949",
+      "bank_id": "902e9601",
+      "text": "Oradaki köprünün üstünde genelde bir sürü satıcı bulabilirsin."
+    },
+    {
+      "id": "4ce2294a",
+      "bank_id": "902e9601",
+      "text": "Bu kasaba her zaman hayat doludur. İşte bu yüzden burada yaşıyorum."
+    },
+    {
+      "id": "4ce2294c",
+      "bank_id": "902e9601",
+      "text": "Bowerstone'da o kadar çok sıradan halk var ki."
+    },
+    {
+      "id": "4ce2294d",
+      "bank_id": "902e9601",
+      "text": "Bowerstone'un üstüne çökmüş çok tuhaf bir koku var, sence de öyle değil mi?"
+    },
+    {
+      "id": "4ce2294e",
+      "bank_id": "902e9601",
+      "text": "Ah, çek içine şunu. Bu kasabadaki kanalizasyon sisteminin kıymetini gerçekten anlıyorsun."
+    },
+    {
+      "id": "4ce2294f",
+      "bank_id": "902e9601",
+      "text": "Bir gün buralarda bir tezgâh açabilirim belki."
+    },
+    {
+      "id": "6fa48710",
+      "bank_id": "902e9601",
+      "text": "Burası çok karanlık. Sadece dışarı çıkmak istiyorum."
+    },
+    {
+      "id": "6fa48711",
+      "bank_id": "902e9601",
+      "text": "Bu yerlerdeki rutubet gerçekten çok sağlıksız biliyorsun."
+    },
+    {
+      "id": "6fa48713",
+      "bank_id": "902e9601",
+      "text": "Burası öyle böyle rutubet kokmuyor hani."
+    },
+    {
+      "id": "6fa48714",
+      "bank_id": "902e9601",
+      "text": "Bu mağarada bir an daha geçirmeye hiç niyetim yok."
+    },
+    {
+      "id": "6fa48715",
+      "bank_id": "902e9601",
+      "text": "Söyler misin lütfen, ben neden bir mağaradayım?"
+    },
+    {
+      "id": "6fa48716",
+      "bank_id": "902e9601",
+      "text": "Geçen gece rüyamda böyle bir mağara gördüm. Yalnız duvarlar sıcak ve etliydi..."
+    },
+    {
+      "id": "6fa48717",
+      "bank_id": "902e9601",
+      "text": "Çocukken evden kaçmıştım ve tam bir ay boyunca böyle bir mağarada yaşamıştım."
+    },
+    {
+      "id": "76a49210",
+      "bank_id": "902e9601",
+      "text": "Bu mağarayı derhâl terk etmek niyetindeyim."
+    },
+    {
+      "id": "76a49211",
+      "bank_id": "902e9601",
+      "text": "Bu mağaradan çıkarılmayı talep ediyorum. Hatta taşınarak çıkarılmayı."
+    },
+    {
+      "id": "76a49212",
+      "bank_id": "902e9601",
+      "text": "Mağaralar pek bana göre değil."
+    },
+    {
+      "id": "76a49213",
+      "bank_id": "902e9601",
+      "text": "Benim bir mağarada ne cehennem işim var zaten?"
+    },
+    {
+      "id": "76a49214",
+      "bank_id": "902e9601",
+      "text": "Bu mağaradan çıkabilir miyiz artık?"
+    },
+    {
+      "id": "76a49215",
+      "bank_id": "902e9601",
+      "text": "Mağaraları sevmiyorum. Buraya neden girdim ki ben zaten?"
+    },
+    {
+      "id": "76a49216",
+      "bank_id": "902e9601",
+      "text": "Bir mağarada ne işim var benim?!"
+    },
+    {
+      "id": "a3c429f8",
+      "bank_id": "902e9601",
+      "text": "Mızmız de bana ama zindanları hiçbir zaman sevmemişimdir."
+    },
+    {
+      "id": "a3c429fa",
+      "bank_id": "902e9601",
+      "text": "Bir keresinde rüyamda böyle bir zindan görmüştüm. Sonu iyi bitmemişti."
+    },
+    {
+      "id": "a3c429fb",
+      "bank_id": "902e9601",
+      "text": "Biri beni bu lanet zindandan çıkarabilir mi artık?"
+    },
+    {
+      "id": "a3c429fc",
+      "bank_id": "902e9601",
+      "text": "Ne güzel olurdu biliyor musun? Bir zindanın gardiyanı olmak."
+    },
+    {
+      "id": "a3c429fd",
+      "bank_id": "902e9601",
+      "text": "Böyle bir zindana kilitlenmekten gocunmazdım doğrusu. Bayağı klas bir yer, ne demek istediğimi anladın mı?"
+    },
+    {
+      "id": "a3c429fe",
+      "bank_id": "902e9601",
+      "text": "Bu zindan bana evdekini hatırlatıyor."
+    },
+    {
+      "id": "a3c429ff",
+      "bank_id": "902e9601",
+      "text": "Lanet olası bir zindanda sürünerek bir an daha geçirmeyeceğim!"
+    },
+    {
+      "id": "a8c43199",
+      "bank_id": "902e9601",
+      "text": "Zindanlardan nefret ediyorum!"
+    },
+    {
+      "id": "a8c4319a",
+      "bank_id": "902e9601",
+      "text": "Bunca insanın öldüğü zindan burası değil miydi?"
+    },
+    {
+      "id": "a8c4319b",
+      "bank_id": "902e9601",
+      "text": "Bu zindanda kim bilir kaç kişiye işkence edilmiştir."
+    },
+    {
+      "id": "a8c4319c",
+      "bank_id": "902e9601",
+      "text": "Bir gün kendime ait bir zindanım olsa hiç fena olmazdı."
+    },
+    {
+      "id": "a8c4319d",
+      "bank_id": "902e9601",
+      "text": "Hımm, bu zindan biraz fetiş bir yer sanki."
+    },
+    {
+      "id": "a8c4319e",
+      "bank_id": "902e9601",
+      "text": "Sevdiğim tek zindan hizmetkârlarımı kırbaçlayabildiğim bodrumumdaki zindandır."
+    },
+    {
+      "id": "a8c4319f",
+      "bank_id": "902e9601",
+      "text": "Albion'da kaç tane zindan var acaba?"
+    },
+    {
+      "id": "af4d0350",
+      "bank_id": "902e9601",
+      "text": "İnsana tam kâbus gördürecek türden bir yer burası."
+    },
+    {
+      "id": "af4d0351",
+      "bank_id": "902e9601",
+      "text": "Burayı sevmedim. Çok korkutucu."
+    },
+    {
+      "id": "af4d0353",
+      "bank_id": "902e9601",
+      "text": "Burası resmen korku hikâyelerine konu olacak türden bir yer."
+    },
+    {
+      "id": "af4d0354",
+      "bank_id": "902e9601",
+      "text": "Bu yeri sevmedim. Kanımı donduruyor resmen."
+    },
+    {
+      "id": "af4d0355",
+      "bank_id": "902e9601",
+      "text": "Burası son derece huzursuz edici."
+    },
+    {
+      "id": "af4d0356",
+      "bank_id": "902e9601",
+      "text": "Burada korkmuyor musun? Ben korkuyorum."
+    },
+    {
+      "id": "af4d0357",
+      "bank_id": "902e9601",
+      "text": "Tekinsiz bir yer burası, değil mi?"
+    },
+    {
+      "id": "b51575d0",
+      "bank_id": "902e9601",
+      "text": "Bu bahçelerde dünyanın bütün dertlerini unutabilirsin."
+    },
+    {
+      "id": "b51575d1",
+      "bank_id": "902e9601",
+      "text": "Fairfax Kalesi'nde eskiden her hafta partiler verildiğini biliyor muydun? Çok uzun zaman önceydi gerçi."
+    },
+    {
+      "id": "b51575d2",
+      "bank_id": "902e9601",
+      "text": "Buradaki bütün o züppe insanlardan nefret ediyorum."
+    },
+    {
+      "id": "b51575d4",
+      "bank_id": "902e9601",
+      "text": "Günlerimi böyle bir lüks içinde geçirmekten çok zevk alıyorum."
+    },
+    {
+      "id": "b51575d5",
+      "bank_id": "902e9601",
+      "text": "Fairfax'tan daha güzel bir kasaba hiç olmadı."
+    },
+    {
+      "id": "b51575d6",
+      "bank_id": "902e9601",
+      "text": "Fairfax berbat bir yer. Her şey öyle temiz ki."
+    },
+    {
+      "id": "b51575d7",
+      "bank_id": "902e9601",
+      "text": "Fairfax halkı midemi bulandırıyor. Çok süslüler. Dangalaklar."
+    },
+    {
+      "id": "b64d0e50",
+      "bank_id": "902e9601",
+      "text": "Bu bölge içimi umutsuzlukla dolduruyor."
+    },
+    {
+      "id": "b64d0e51",
+      "bank_id": "902e9601",
+      "text": "Burası son derece tekinsiz."
+    },
+    {
+      "id": "b64d0e52",
+      "bank_id": "902e9601",
+      "text": "Burası çok korkunç bir yer."
+    },
+    {
+      "id": "b64d0e53",
+      "bank_id": "902e9601",
+      "text": "Burayı sevmedim. Cehennem gibi ürkütücü."
+    },
+    {
+      "id": "b64d0e54",
+      "bank_id": "902e9601",
+      "text": "Bu yerde saçlarım diken diken oluyor."
+    },
+    {
+      "id": "b64d0e55",
+      "bank_id": "902e9601",
+      "text": "Burası düpedüz ürpertici."
+    },
+    {
+      "id": "b64d0e56",
+      "bank_id": "902e9601",
+      "text": "Burası tüylerimi ürpertiyor."
+    },
+    {
+      "id": "be158438",
+      "bank_id": "902e9601",
+      "text": "Albion'da evim diyebileceğim tek yer burası."
+    },
+    {
+      "id": "be158439",
+      "bank_id": "902e9601",
+      "text": "Keşke bütün Albion da Fairfax kadar hoş olsaydı."
+    },
+    {
+      "id": "be15843a",
+      "bank_id": "902e9601",
+      "text": "Etrafta züppe kodamanlardan başka kimse yok."
+    },
+    {
+      "id": "be15843b",
+      "bank_id": "902e9601",
+      "text": "Bütün bu züppe insanlar kusma isteği uyandırıyor bende."
+    },
+    {
+      "id": "be15843c",
+      "bank_id": "902e9601",
+      "text": "Ah, burası öyle züppe bir yer ki beni her an kovacaklar sanıyorum."
+    },
+    {
+      "id": "be15843d",
+      "bank_id": "902e9601",
+      "text": "Saman nezlem olmasa buranın tadını çok daha fazla çıkarırdım. <sneezes>"
+    },
+    {
+      "id": "be15843f",
+      "bank_id": "902e9601",
+      "text": "Keşke bütün o kodamanlarla birlikte burada yaşamaya gücüm yetseydi."
+    }
+  ]
+}

@@ -1,0 +1,916 @@
+{
+  "bank_id": "a012ab00",
+  "total_strings": 182,
+  "strings": [
+    {
+      "id": "0357f6e8",
+      "bank_id": "a012ab00",
+      "text": "Baksana! Ya emniyete al ya da ateş etmeyi kes!"
+    },
+    {
+      "id": "0357f6eb",
+      "bank_id": "a012ab00",
+      "text": "Aklını mı kaçırdın vatandaş? Silahın patlayıp birini öldürebilir!"
+    },
+    {
+      "id": "083bc360",
+      "bank_id": "a012ab00",
+      "text": "Eski usul nişan al ve ateş et, ha?"
+    },
+    {
+      "id": "083bc361",
+      "bank_id": "a012ab00",
+      "text": "Bunun emniyet kilidi takılı, değil mi?"
+    },
+    {
+      "id": "083bc364",
+      "bank_id": "a012ab00",
+      "text": "O şey zırhı delebiliyor mu?"
+    },
+    {
+      "id": "083bc366",
+      "bank_id": "a012ab00",
+      "text": "Çocukken bir havalı tüfeğim vardı. Gerçi pek aynı şey sayılmaz."
+    },
+    {
+      "id": "083bc367",
+      "bank_id": "a012ab00",
+      "text": "Güzel atış!"
+    },
+    {
+      "id": "0d3bcb00",
+      "bank_id": "a012ab00",
+      "text": "Tetik düşürme hevesinde misin?"
+    },
+    {
+      "id": "0d3bcb01",
+      "bank_id": "a012ab00",
+      "text": "Hiç birinin kafasındaki elmayı vurmayı denedin mi?"
+    },
+    {
+      "id": "0d3bcb05",
+      "bank_id": "a012ab00",
+      "text": "Demek en sevdiğin silah bu?"
+    },
+    {
+      "id": "0d3bcb06",
+      "bank_id": "a012ab00",
+      "text": "Hedef talimi mi yapıyorsun?"
+    },
+    {
+      "id": "0d3bcb07",
+      "bank_id": "a012ab00",
+      "text": "Üzerine bir düzine düşman gelirken nasıl nişan alıyorsun ki?"
+    },
+    {
+      "id": "0e6eebb7",
+      "bank_id": "a012ab00",
+      "text": "Dostum! Benim ortalıkta öyle bir silah sallamama asla izin vermezlerdi!"
+    },
+    {
+      "id": "12610d58",
+      "bank_id": "a012ab00",
+      "text": "Hey! Ölüp gitmek istemiyorum, bilirsin ya."
+    },
+    {
+      "id": "12610d59",
+      "bank_id": "a012ab00",
+      "text": "Dikkat etsene! Görünmez haydutları mı öldürüyorsun nesin?"
+    },
+    {
+      "id": "12610d5d",
+      "bank_id": "a012ab00",
+      "text": "Geliyorum diyen bir kaza bu resmen."
+    },
+    {
+      "id": "12610d5e",
+      "bank_id": "a012ab00",
+      "text": "Dikkatli ol! Birinin canı yanabilir!"
+    },
+    {
+      "id": "12610d5f",
+      "bank_id": "a012ab00",
+      "text": "Ne yapıyorsun sen?! Birini fena yaralayabilirsin."
+    },
+    {
+      "id": "13d5adb5",
+      "bank_id": "a012ab00",
+      "text": "O silahı kaldır lütfen. Kolayca birinin canını yakabilirsin."
+    },
+    {
+      "id": "13d5adb6",
+      "bank_id": "a012ab00",
+      "text": "Silahını kaldırman konusunda ısrar ediyorum. Geliyorum diyen bir kaza bu."
+    },
+    {
+      "id": "156ef6ba",
+      "bank_id": "a012ab00",
+      "text": "Onu öyle ortalıkta çıkarmamalısın. Ya yanlışlıkla birini vurursan?"
+    },
+    {
+      "id": "1d611e88",
+      "bank_id": "a012ab00",
+      "text": "O şeyle çok ciddi bir hasara yol açacaksın."
+    },
+    {
+      "id": "1d611e89",
+      "bank_id": "a012ab00",
+      "text": "Bugün kimseyi öldürmemeye ne dersin? Kaldır onu."
+    },
+    {
+      "id": "1d611e8c",
+      "bank_id": "a012ab00",
+      "text": "Bunu durdurmazsan sonu kötü bitecek."
+    },
+    {
+      "id": "1d611e8e",
+      "bank_id": "a012ab00",
+      "text": "Bunu öyle kullanmanın yeri burası değil!"
+    },
+    {
+      "id": "1d611e8f",
+      "bank_id": "a012ab00",
+      "text": "Hey, dikkatli ol!"
+    },
+    {
+      "id": "1e4e26b1",
+      "bank_id": "a012ab00",
+      "text": "Delirdin mi sen vatandaş? Birini öldürebilirsin. Silahını kaldır."
+    },
+    {
+      "id": "1e4e26b2",
+      "bank_id": "a012ab00",
+      "text": "Baksana! Ya emniyete al ya da ateş etmeyi kes!"
+    },
+    {
+      "id": "283c2bf0",
+      "bank_id": "a012ab00",
+      "text": "Şu lanet şeyin susmasını sağlayamaz mısın?? Beni deli ediyor!"
+    },
+    {
+      "id": "283c2bf1",
+      "bank_id": "a012ab00",
+      "text": "O kılıç istek parça çalmıyordur herhalde? 'Çeneni kapatmak' gibi mesela?"
+    },
+    {
+      "id": "283c2bf3",
+      "bank_id": "a012ab00",
+      "text": "Lütfen ama, kimi kandırmaya çalışıyorsun? Dudaklarının kıpırdadığını görebiliyorum."
+    },
+    {
+      "id": "283c2bf4",
+      "bank_id": "a012ab00",
+      "text": "Şarkı söyleyen kılıçların modası geçen yılda kaldı. Artık şiir okuyan terlikler moda."
+    },
+    {
+      "id": "283c2bf5",
+      "bank_id": "a012ab00",
+      "text": "Ne dikkate değer bir silah parçası. O kadar keskin ama bir o kadar detone."
+    },
+    {
+      "id": "283c2bf6",
+      "bank_id": "a012ab00",
+      "text": "Bana onu daha fazla dinletmektense onunla beni öldürmeni tercih ederdim."
+    },
+    {
+      "id": "283c2bf7",
+      "bank_id": "a012ab00",
+      "text": "Kılıcın 'Hobbe Şarkısı'nı biliyor mu?"
+    },
+    {
+      "id": "2f3c36f0",
+      "bank_id": "a012ab00",
+      "text": "Şarkı söyleyen bir kılıç mı? O da bir şey mi. Bende çok nadir bir dans eden kaşık takımı var."
+    },
+    {
+      "id": "2f3c36f1",
+      "bank_id": "a012ab00",
+      "text": "Keşke o kılıcın sesi biraz daha zarif olsaydı, şüphesiz tüm Albion'un en harikulade eseri olurdu."
+    },
+    {
+      "id": "2f3c36f2",
+      "bank_id": "a012ab00",
+      "text": "Kılıcına biraz şan dersi vermeyi denedin mi hiç?"
+    },
+    {
+      "id": "2f3c36f3",
+      "bank_id": "a012ab00",
+      "text": "Şu kılıcının akordu fena halde kaçmış."
+    },
+    {
+      "id": "2f3c36f4",
+      "bank_id": "a012ab00",
+      "text": "Fakat bir kılıç nasıl şarkı söyleyebilir ki? Bir tür büyü olmalı."
+    },
+    {
+      "id": "2f3c36f5",
+      "bank_id": "a012ab00",
+      "text": "Kaldır şu aptal kılıcı, olur mu? Bu şarkıya daha fazla dayanamayacağım!"
+    },
+    {
+      "id": "2f3c36f6",
+      "bank_id": "a012ab00",
+      "text": "Vay canına, şarkı söyleyen bir kılıç. İnanılmaz."
+    },
+    {
+      "id": "32cc6070",
+      "bank_id": "a012ab00",
+      "text": "Yine mi? Zaten altınımın çoğunu aldın!"
+    },
+    {
+      "id": "32cc6071",
+      "bank_id": "a012ab00",
+      "text": "Ööğ, hayır. Nerelerde sürtündüğünü kim bilir?"
+    },
+    {
+      "id": "32cc6073",
+      "bank_id": "a012ab00",
+      "text": "Sana yalnızca doğum günümde geliyorum, unuttun mu?"
+    },
+    {
+      "id": "32cc6076",
+      "bank_id": "a012ab00",
+      "text": "Gerçekten çok acelem var, yoksa bu teklifini düşünebilirdim."
+    },
+    {
+      "id": "32cc6077",
+      "bank_id": "a012ab00",
+      "text": "İsterdim ama bedavaya vermediğin sürece param yetmez."
+    },
+    {
+      "id": "3899f290",
+      "bank_id": "a012ab00",
+      "text": "Bunun yerine güzel, büyük bir turta ve bir kadeh biraya para vermeyi tercih ederim."
+    },
+    {
+      "id": "3899f291",
+      "bank_id": "a012ab00",
+      "text": "Ne dedin sen? Hadi oradan!"
+    },
+    {
+      "id": "3899f292",
+      "bank_id": "a012ab00",
+      "text": "Ah, hayır teşekkürler. Bu yıl bunu zaten yaptım."
+    },
+    {
+      "id": "3899f293",
+      "bank_id": "a012ab00",
+      "text": "Hiç bu kadar şoke olmamıştım! Çok mu pahalısın?"
+    },
+    {
+      "id": "3899f294",
+      "bank_id": "a012ab00",
+      "text": "Hmm, şu an hiç sırası değil."
+    },
+    {
+      "id": "3899f296",
+      "bank_id": "a012ab00",
+      "text": "Ben halimden memnun bekâr bir kadınım, çok teşekkür ederim."
+    },
+    {
+      "id": "3899f297",
+      "bank_id": "a012ab00",
+      "text": "Hey, para ödemeye ihtiyacı olan birine mi benziyorum?"
+    },
+    {
+      "id": "39cc6b72",
+      "bank_id": "a012ab00",
+      "text": "Bunun için para ödemem gerektiğini sana düşündüren ne?"
+    },
+    {
+      "id": "39cc6b73",
+      "bank_id": "a012ab00",
+      "text": "Senin gibi insanlara para ödemem ben."
+    },
+    {
+      "id": "39cc6b74",
+      "bank_id": "a012ab00",
+      "text": "Hayır! Rahat bırak beni!"
+    },
+    {
+      "id": "39cc6b75",
+      "bank_id": "a012ab00",
+      "text": "Neden senin için para ödemek isteyeyim ki?"
+    },
+    {
+      "id": "39cc6b76",
+      "bank_id": "a012ab00",
+      "text": "Bütün bunları bedavaya da bulabilirim, bilirsin ya."
+    },
+    {
+      "id": "3d99fab0",
+      "bank_id": "a012ab00",
+      "text": "Keşke yapabilseydim ama hepsini içkiye yatırdım."
+    },
+    {
+      "id": "3d99fab1",
+      "bank_id": "a012ab00",
+      "text": "Belki başka bir gün, tatlım."
+    },
+    {
+      "id": "3d99fab2",
+      "bank_id": "a012ab00",
+      "text": "Ne kadar iğrenç! Kendi kendime sevişmeyi gayet iyi becerebiliyorum!"
+    },
+    {
+      "id": "3d99fab3",
+      "bank_id": "a012ab00",
+      "text": "Sende hiç mi utanma yok?!"
+    },
+    {
+      "id": "3d99fab5",
+      "bank_id": "a012ab00",
+      "text": "Şey... şimdi olmaz! Kız arkadaşım görebilir!"
+    },
+    {
+      "id": "3d99fab6",
+      "bank_id": "a012ab00",
+      "text": "Maaşımı alana kadar bekle, tatlım."
+    },
+    {
+      "id": "3d99fab7",
+      "bank_id": "a012ab00",
+      "text": "Sana söylemiştim. Gelecek salı. Ve kostümü de getir."
+    },
+    {
+      "id": "598a62ed",
+      "bank_id": "a012ab00",
+      "text": "Ateş etmeyi seviyorsun, değil mi? Emniyet kilidini takılı tuttuğundan emin ol yeter."
+    },
+    {
+      "id": "598a62ee",
+      "bank_id": "a012ab00",
+      "text": "Onayladığımı söyleyemem ama emniyet kilidi takılı olduğu sürece sorun yok."
+    },
+    {
+      "id": "5d1d9cd7",
+      "bank_id": "a012ab00",
+      "text": "Havalı. Bununla birinin kulağını rahatça uçurabilirsin!"
+    },
+    {
+      "id": "5ec95a88",
+      "bank_id": "a012ab00",
+      "text": "Çek şu şeyi önümden!"
+    },
+    {
+      "id": "5ec95a89",
+      "bank_id": "a012ab00",
+      "text": "Muhafızlar böyle ortalıkta dolanmandan hiç hoşlanmayacak."
+    },
+    {
+      "id": "5ec95a8d",
+      "bank_id": "a012ab00",
+      "text": "Kınına sok şunu! Burada insanlar var."
+    },
+    {
+      "id": "5ec95a8e",
+      "bank_id": "a012ab00",
+      "text": "Öf! Dikkat et! O çok tehlikeli!"
+    },
+    {
+      "id": "5ec95a8f",
+      "bank_id": "a012ab00",
+      "text": "Bu hiç güvenli değil, bilirsin ya!"
+    },
+    {
+      "id": "641da7da",
+      "bank_id": "a012ab00",
+      "text": "Bununla hiç hobbe vurdun mu?"
+    },
+    {
+      "id": "69c96c38",
+      "bank_id": "a012ab00",
+      "text": "Bunu burada yapmak yerine neden bir zindanda yapmıyorsun?"
+    },
+    {
+      "id": "69c96c39",
+      "bank_id": "a012ab00",
+      "text": "Herkes şu manyağın yolundan çekilsin."
+    },
+    {
+      "id": "69c96c3c",
+      "bank_id": "a012ab00",
+      "text": "Hey, birinin ölümüne sebep olacaksın."
+    },
+    {
+      "id": "69c96c3e",
+      "bank_id": "a012ab00",
+      "text": "Şu şeye biraz daha dikkat et!"
+    },
+    {
+      "id": "69c96c3f",
+      "bank_id": "a012ab00",
+      "text": "Dikkat etsene be!"
+    },
+    {
+      "id": "77973961",
+      "bank_id": "a012ab00",
+      "text": "O şeyi burada öylece sallayamazsın!"
+    },
+    {
+      "id": "77973962",
+      "bank_id": "a012ab00",
+      "text": "Hey, birinin gözünü çıkaracaksın! Ya da kafasını uçuracaksın."
+    },
+    {
+      "id": "77973963",
+      "bank_id": "a012ab00",
+      "text": "Bu pek güvenli değil, bilirsin ya."
+    },
+    {
+      "id": "77973964",
+      "bank_id": "a012ab00",
+      "text": "Dikkatli olsana yahu."
+    },
+    {
+      "id": "77973965",
+      "bank_id": "a012ab00",
+      "text": "Bunu durdurmazsan sonumuz uzuvlarını kaybetmiş bir kasaba olacak."
+    },
+    {
+      "id": "77d91160",
+      "bank_id": "a012ab00",
+      "text": "Pek ilgilenmiyorum, teşekkürler."
+    },
+    {
+      "id": "77d91161",
+      "bank_id": "a012ab00",
+      "text": "Kusura bakmazsanız almayayım."
+    },
+    {
+      "id": "77d91163",
+      "bank_id": "a012ab00",
+      "text": "Şu an yapacak alışverişim var. Belki sonra."
+    },
+    {
+      "id": "77d91166",
+      "bank_id": "a012ab00",
+      "text": "Şu anda hiç havasında değilim."
+    },
+    {
+      "id": "77d91167",
+      "bank_id": "a012ab00",
+      "text": "Havasında değilim."
+    },
+    {
+      "id": "7ed91c62",
+      "bank_id": "a012ab00",
+      "text": "Şimdi olmaz canım."
+    },
+    {
+      "id": "7ed91c63",
+      "bank_id": "a012ab00",
+      "text": "Keşke param yetseydi tatlım."
+    },
+    {
+      "id": "7ed91c64",
+      "bank_id": "a012ab00",
+      "text": "Bugün biraz kırgınım. Belki başka zaman."
+    },
+    {
+      "id": "7ed91c65",
+      "bank_id": "a012ab00",
+      "text": "Keşke vaktim olsaydı tatlım."
+    },
+    {
+      "id": "7ed91c66",
+      "bank_id": "a012ab00",
+      "text": "Şu an nakit param biraz az."
+    },
+    {
+      "id": "80832430",
+      "bank_id": "a012ab00",
+      "text": "Kavgada epey işe yarayacağına bahse girerim."
+    },
+    {
+      "id": "80832431",
+      "bank_id": "a012ab00",
+      "text": "Buna ne tarz vurma tekniği diyorsun?"
+    },
+    {
+      "id": "80832434",
+      "bank_id": "a012ab00",
+      "text": "Onu buralarda öylece sallamamalısın."
+    },
+    {
+      "id": "80832436",
+      "bank_id": "a012ab00",
+      "text": "Bana en iyi dövüş hareketlerini göster."
+    },
+    {
+      "id": "80832437",
+      "bank_id": "a012ab00",
+      "text": "Vay canına! Harika beceriler!"
+    },
+    {
+      "id": "82974a90",
+      "bank_id": "a012ab00",
+      "text": "Dikkat et! Birini incitebilirsin."
+    },
+    {
+      "id": "82974a92",
+      "bank_id": "a012ab00",
+      "text": "Dikkatli ol seni manyak!"
+    },
+    {
+      "id": "82974a93",
+      "bank_id": "a012ab00",
+      "text": "Hey, o şeyi nereye savurduğuna dikkat et!"
+    },
+    {
+      "id": "82974a94",
+      "bank_id": "a012ab00",
+      "text": "Birini öldürmeye mi çalışıyorsun?"
+    },
+    {
+      "id": "82974a95",
+      "bank_id": "a012ab00",
+      "text": "Kaldır şunu seni kaçık!"
+    },
+    {
+      "id": "85832bd0",
+      "bank_id": "a012ab00",
+      "text": "Çile'de tıpkı buna benzer bir silahı olan bir adam görmüştüm."
+    },
+    {
+      "id": "85832bd1",
+      "bank_id": "a012ab00",
+      "text": "Onu doğru tuttuğundan emin misin? Ha!"
+    },
+    {
+      "id": "85832bd5",
+      "bank_id": "a012ab00",
+      "text": "Silahını sergilemeyi seviyorsun, değil mi?"
+    },
+    {
+      "id": "85832bd6",
+      "bank_id": "a012ab00",
+      "text": "Vay canına, bu işte gerçekten iyisin, değil mi?"
+    },
+    {
+      "id": "85832bd7",
+      "bank_id": "a012ab00",
+      "text": "Böcek mevsiminde bunlardan biri çok işime yarardı."
+    },
+    {
+      "id": "85c387c2",
+      "bank_id": "a012ab00",
+      "text": "Dikkat et! Birini gerçekten yaralayabilirsin!"
+    },
+    {
+      "id": "8a179958",
+      "bank_id": "a012ab00",
+      "text": "O şeyi ateşlemeyi nerede öğrendin?"
+    },
+    {
+      "id": "8a17995a",
+      "bank_id": "a012ab00",
+      "text": "Kılıç kullanmaktan daha güvenli görünüyor."
+    },
+    {
+      "id": "8a17995b",
+      "bank_id": "a012ab00",
+      "text": "O şeyle birkaç haydut vurduğuna bahse girerim."
+    },
+    {
+      "id": "8a17995c",
+      "bank_id": "a012ab00",
+      "text": "O şeyi ne kadar uzağa ateşleyebiliyorsun?"
+    },
+    {
+      "id": "8a17995d",
+      "bank_id": "a012ab00",
+      "text": "Atış talimi mi yapıyorsun?"
+    },
+    {
+      "id": "8ec3962f",
+      "bank_id": "a012ab00",
+      "text": "Hoo! Böyle devam edersen kesin kan dökülecek."
+    },
+    {
+      "id": "8f17a179",
+      "bank_id": "a012ab00",
+      "text": "Bunu ateşlemek sağlam bir el gerektiriyor olmalı."
+    },
+    {
+      "id": "8f17a17a",
+      "bank_id": "a012ab00",
+      "text": "Bu bir balverine'in kafasını gerçekten uçurabilir!"
+    },
+    {
+      "id": "8f17a17b",
+      "bank_id": "a012ab00",
+      "text": "Emniyete almış olman ne iyi."
+    },
+    {
+      "id": "8f17a17c",
+      "bank_id": "a012ab00",
+      "text": "Ava mı gidiyorsun?"
+    },
+    {
+      "id": "8f17a17d",
+      "bank_id": "a012ab00",
+      "text": "Çok tepiyor mu o şey?"
+    },
+    {
+      "id": "921b90a3",
+      "bank_id": "a012ab00",
+      "text": "Ben öyle şeylerden hoşlanmam."
+    },
+    {
+      "id": "921b90a4",
+      "bank_id": "a012ab00",
+      "text": "Bana göre değil. Öyle olsaydı bile seninle olmazdı."
+    },
+    {
+      "id": "921b90a5",
+      "bank_id": "a012ab00",
+      "text": "Senin gibilerden pek hoşlanmam."
+    },
+    {
+      "id": "921b90a6",
+      "bank_id": "a012ab00",
+      "text": "Senin tipinle gerçekten ilgilenmiyorum."
+    },
+    {
+      "id": "a8229010",
+      "bank_id": "a012ab00",
+      "text": "Neden balta kullanmıyorsun? Asıl silah odur."
+    },
+    {
+      "id": "a8229011",
+      "bank_id": "a012ab00",
+      "text": "Mesafeni korumayı seviyorsun, öyle mi?"
+    },
+    {
+      "id": "a8229014",
+      "bank_id": "a012ab00",
+      "text": "Savaşın ortasında onu kullanmak çelik gibi sinirler gerektiriyor olmalı."
+    },
+    {
+      "id": "a8229016",
+      "bank_id": "a012ab00",
+      "text": "Hazır, nişan al, ateş."
+    },
+    {
+      "id": "a8229017",
+      "bank_id": "a012ab00",
+      "text": "O şeyi nasıl ateşleyeceğini gerçekten biliyorsun, değil mi?"
+    },
+    {
+      "id": "a882e302",
+      "bank_id": "a012ab00",
+      "text": "Ateş etme! Ateş etme!"
+    },
+    {
+      "id": "a882e303",
+      "bank_id": "a012ab00",
+      "text": "Hey, o şeyi bana doğru doğrultma."
+    },
+    {
+      "id": "a882e304",
+      "bank_id": "a012ab00",
+      "text": "Beni vurma! Başka birini vur."
+    },
+    {
+      "id": "a882e305",
+      "bank_id": "a012ab00",
+      "text": "Emniyete al şunu Tanrı aşkına!"
+    },
+    {
+      "id": "a882e307",
+      "bank_id": "a012ab00",
+      "text": "Lütfen, onu burada kullanma!"
+    },
+    {
+      "id": "a97ee753",
+      "bank_id": "a012ab00",
+      "text": "Havalı! Büyüyünce ben de onlardan bir tane istiyorum!"
+    },
+    {
+      "id": "ad229830",
+      "bank_id": "a012ab00",
+      "text": "O şeyi ateşlemek nasıl bir duygu?"
+    },
+    {
+      "id": "ad229831",
+      "bank_id": "a012ab00",
+      "text": "Bununla hiç hobbe avladın mı?"
+    },
+    {
+      "id": "ad229835",
+      "bank_id": "a012ab00",
+      "text": "Bunu ormanda yapsaydın kendimi biraz daha iyi hissederdim."
+    },
+    {
+      "id": "ad229836",
+      "bank_id": "a012ab00",
+      "text": "Onu başka bir yerde ateşleyemez misin?"
+    },
+    {
+      "id": "ad229837",
+      "bank_id": "a012ab00",
+      "text": "Emniyeti açık bırakmadığından emin ol."
+    },
+    {
+      "id": "af82ee08",
+      "bank_id": "a012ab00",
+      "text": "Ateş etme!"
+    },
+    {
+      "id": "af82ee09",
+      "bank_id": "a012ab00",
+      "text": "O şeyi nereye doğrulttuğuna dikkat et!"
+    },
+    {
+      "id": "af82ee0a",
+      "bank_id": "a012ab00",
+      "text": "Muhafızlar bunun için canına okuyacak. Emniyetin takılı değil!"
+    },
+    {
+      "id": "af82ee0e",
+      "bank_id": "a012ab00",
+      "text": "Onu bana doğrultma!"
+    },
+    {
+      "id": "af82ee0f",
+      "bank_id": "a012ab00",
+      "text": "Ölmek istemiyorum!"
+    },
+    {
+      "id": "b07ef256",
+      "bank_id": "a012ab00",
+      "text": "Çok tehlikeli görünüyor. Onu canavarlar üzerinde mi kullanıyorsun?"
+    },
+    {
+      "id": "ba226950",
+      "bank_id": "a012ab00",
+      "text": "O şeyi nasıl kullanacağını gerçekten biliyorsun, değil mi?"
+    },
+    {
+      "id": "ba226951",
+      "bank_id": "a012ab00",
+      "text": "Görevlerinde ona çok ihtiyacın oluyor olmalı."
+    },
+    {
+      "id": "ba226953",
+      "bank_id": "a012ab00",
+      "text": "Maceraya atılırken bunu mu kullanıyorsun?"
+    },
+    {
+      "id": "ba226956",
+      "bank_id": "a012ab00",
+      "text": "Bununla öldürdüğün en büyük şey neydi?"
+    },
+    {
+      "id": "ba226957",
+      "bank_id": "a012ab00",
+      "text": "O şeyle canımı sıkmaya başladın artık."
+    },
+    {
+      "id": "c1227452",
+      "bank_id": "a012ab00",
+      "text": "Şahsen güzel bir menzilli silahı tercih ederim."
+    },
+    {
+      "id": "c1227453",
+      "bank_id": "a012ab00",
+      "text": "Hey, dikkat et."
+    },
+    {
+      "id": "c1227454",
+      "bank_id": "a012ab00",
+      "text": "Keşke ben de senin gibi silah kullanabilseydim."
+    },
+    {
+      "id": "c1227455",
+      "bank_id": "a012ab00",
+      "text": "Onu nasıl kullanacağını gerçekten biliyorsun, değil mi?"
+    },
+    {
+      "id": "c1227456",
+      "bank_id": "a012ab00",
+      "text": "Önemli olanın silah değil, onu kullanan kişi olduğunu söylerler."
+    },
+    {
+      "id": "deac5b7c",
+      "bank_id": "a012ab00",
+      "text": "Bu son derece güvensiz bir davranış!"
+    },
+    {
+      "id": "deac5b7f",
+      "bank_id": "a012ab00",
+      "text": "Onunla birine zarar vermeyi planlamadığını tüm kalbimle umuyorum."
+    },
+    {
+      "id": "e574bb18",
+      "bank_id": "a012ab00",
+      "text": "Hepimizin ölümüne mi sebep olmaya çalışıyorsun?"
+    },
+    {
+      "id": "e574bb1a",
+      "bank_id": "a012ab00",
+      "text": "Onu başka bir yerde ateşle. Lütfen!"
+    },
+    {
+      "id": "e574bb1b",
+      "bank_id": "a012ab00",
+      "text": "Lütfen bizi vurma!"
+    },
+    {
+      "id": "e574bb1c",
+      "bank_id": "a012ab00",
+      "text": "Emniyete al şunu. Birini öldürebilirsin."
+    },
+    {
+      "id": "e574bb1d",
+      "bank_id": "a012ab00",
+      "text": "İmdat! Dolu bu silah!"
+    },
+    {
+      "id": "ea74c339",
+      "bank_id": "a012ab00",
+      "text": "Dikkatli ol, o silah dolu!"
+    },
+    {
+      "id": "ea74c33a",
+      "bank_id": "a012ab00",
+      "text": "O şeyi nereye doğrulttuğuna dikkat et! Birinin kafasını uçuracaksın."
+    },
+    {
+      "id": "ea74c33b",
+      "bank_id": "a012ab00",
+      "text": "Atışlarını bunu hak edenlere sakla!"
+    },
+    {
+      "id": "ea74c33c",
+      "bank_id": "a012ab00",
+      "text": "Onunla dikkatli ol. Hiçbirimiz vurulmaktan hoşlanmayız."
+    },
+    {
+      "id": "ea74c33d",
+      "bank_id": "a012ab00",
+      "text": "Geliyorum diyen bir kaza resmen. Emniyete al şunu."
+    },
+    {
+      "id": "ed912772",
+      "bank_id": "a012ab00",
+      "text": "Deli bir nişancı mısın nesin sen?"
+    },
+    {
+      "id": "ed912773",
+      "bank_id": "a012ab00",
+      "text": "O şey hepimizi vurup öldürebilir!"
+    },
+    {
+      "id": "ed912774",
+      "bank_id": "a012ab00",
+      "text": "Kaldır onu! Patlayıp birini öldürebilir!"
+    },
+    {
+      "id": "ed912775",
+      "bank_id": "a012ab00",
+      "text": "Emniyeti açık bırakmaman gerekiyordu!"
+    },
+    {
+      "id": "ed912777",
+      "bank_id": "a012ab00",
+      "text": "O şeyle ne yapmaya çalışıyorsun sen?!"
+    },
+    {
+      "id": "f4913278",
+      "bank_id": "a012ab00",
+      "text": "Emniyetin açık olduğunu bilmiyor musun?!"
+    },
+    {
+      "id": "f4913279",
+      "bank_id": "a012ab00",
+      "text": "O şeyi ateşlemeyi planlamıyorsun herhalde?! Kaldır şunu!"
+    },
+    {
+      "id": "f491327a",
+      "bank_id": "a012ab00",
+      "text": "Hey, sivillerin etrafında ateş etmek yok!"
+    },
+    {
+      "id": "f491327e",
+      "bank_id": "a012ab00",
+      "text": "Buralarda gerçek mermi sıkmaman gerekiyordu!"
+    },
+    {
+      "id": "f491327f",
+      "bank_id": "a012ab00",
+      "text": "Deli misin sen? O şey birini öldürebilir."
+    },
+    {
+      "id": "f6e65e14",
+      "bank_id": "a012ab00",
+      "text": "Orada dikkatli olduğunu biliyorum ama burası hedef talimi yapılacak yer değil."
+    },
+    {
+      "id": "f6e65e17",
+      "bank_id": "a012ab00",
+      "text": "Yabanın ortasında bir yerlerde ateş etmeyi tercih etmez miydin?"
+    }
+  ]
+}

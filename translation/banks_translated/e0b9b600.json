@@ -1,0 +1,701 @@
+{
+  "bank_id": "e0b9b600",
+  "total_strings": 139,
+  "strings": [
+    {
+      "id": "003a6ae1",
+      "bank_id": "e0b9b600",
+      "text": "Et koşuyor. Et ağza koşmuyor. Argh!"
+    },
+    {
+      "id": "03119b50",
+      "bank_id": "e0b9b600",
+      "text": "Ahh... et. Et güzel!"
+    },
+    {
+      "id": "0611a029",
+      "bank_id": "e0b9b600",
+      "text": "Şimdi içeri git sen."
+    },
+    {
+      "id": "078a0801",
+      "bank_id": "e0b9b600",
+      "text": "Ne büyük talihsizlik. İhtiyacın olan kıyafetlerden yalnızca birini görebiliyorum. Görevin henüz bitmekten çok uzak..."
+    },
+    {
+      "id": "096c139a",
+      "bank_id": "e0b9b600",
+      "text": "Aslan yelesi saç modeli olması şart. Gerçekten öyle."
+    },
+    {
+      "id": "0a07de98",
+      "bank_id": "e0b9b600",
+      "text": "Hayır, hayır, hayır. Bu hiç doğru değil. Odaklanın lütfen."
+    },
+    {
+      "id": "0c07e1fe",
+      "bank_id": "e0b9b600",
+      "text": "Hayır! Eserimi katlediyorsunuz! Dikkat edin lütfen."
+    },
+    {
+      "id": "0c2c0e88",
+      "bank_id": "e0b9b600",
+      "text": "Diğer İblis Kapıları bunu duymasa iyi olur..."
+    },
+    {
+      "id": "0d07e351",
+      "bank_id": "e0b9b600",
+      "text": "En baştan bir daha. Hazır olduğunuzda."
+    },
+    {
+      "id": "0d2c107b",
+      "bank_id": "e0b9b600",
+      "text": "Bu ne haysiyetsizlik! Bu ne ayıp!"
+    },
+    {
+      "id": "0e07e4c4",
+      "bank_id": "e0b9b600",
+      "text": "Ah, çok yaklaştınız! Ama kelimeleri hissetmelisiniz. Hissedin onları!"
+    },
+    {
+      "id": "0e2c11ee",
+      "bank_id": "e0b9b600",
+      "text": "Bir zamanlar koruduğum hazineleri düşündükçe!"
+    },
+    {
+      "id": "0f07e6b7",
+      "bank_id": "e0b9b600",
+      "text": "Şimdi, yeniden başlayalım, olur mu?"
+    },
+    {
+      "id": "0f2c1341",
+      "bank_id": "e0b9b600",
+      "text": "Yalvarırım, sırrımı kimseye açık etmeyin."
+    },
+    {
+      "id": "0f737d04",
+      "bank_id": "e0b9b600",
+      "text": "İblis Kapısı'na çıtır civciv yedirilsin mi?"
+    },
+    {
+      "id": "1107e99d",
+      "bank_id": "e0b9b600",
+      "text": "Şimdi bir kez daha, en baştan."
+    },
+    {
+      "id": "112c16a7",
+      "bank_id": "e0b9b600",
+      "text": "Agh! Senden hiç kurtulamayacak mıyım ben?"
+    },
+    {
+      "id": "122c181a",
+      "bank_id": "e0b9b600",
+      "text": "Bir türlü duramadın, değil mi?"
+    },
+    {
+      "id": "12d29f73",
+      "bank_id": "e0b9b600",
+      "text": "Çekip git buradan. Lütfen!"
+    },
+    {
+      "id": "1317f1a8",
+      "bank_id": "e0b9b600",
+      "text": "Bir düşüneyim... Bir haydut şapkası. Bu son derece önemli. Ve bir de..."
+    },
+    {
+      "id": "132c198d",
+      "bank_id": "e0b9b600",
+      "text": "Pekala, güzel! Sen kaşındın!"
+    },
+    {
+      "id": "13d2a0e6",
+      "bank_id": "e0b9b600",
+      "text": "Çekip git buradan. Lütfen!"
+    },
+    {
+      "id": "154f691b",
+      "bank_id": "e0b9b600",
+      "text": "Bir de kendine Kutsal Peynir Taşıyıcısı mı diyorsun? Kıyafetinin bir parçası eksik. Üstelik en önemli parçası!"
+    },
+    {
+      "id": "1994b938",
+      "bank_id": "e0b9b600",
+      "text": "Kutsal Peynir Taşıyıcısı kılığına girmiş olamazsın. Doğru kıyafetlerin hiçbiri üzerinde yok!"
+    },
+    {
+      "id": "1ec47a11",
+      "bank_id": "e0b9b600",
+      "text": "Mmm, ayrıca... sosyetik bir gömlek! Evet, aynen öyle."
+    },
+    {
+      "id": "2497e85c",
+      "bank_id": "e0b9b600",
+      "text": "Rasta saçları göremiyorum..."
+    },
+    {
+      "id": "2697eba2",
+      "bank_id": "e0b9b600",
+      "text": "Rastanın ne olduğunu biliyorsun, değil mi?"
+    },
+    {
+      "id": "2797ed15",
+      "bank_id": "e0b9b600",
+      "text": "Bu bana pek rasta gibi gelmedi..."
+    },
+    {
+      "id": "387d13fb",
+      "bank_id": "e0b9b600",
+      "text": "Evet, kadın Peynir Taşıyıcıları için bile. Şimdi düşündüm de herkesten çok onların ihtiyacı var buna."
+    },
+    {
+      "id": "3cfd57dc",
+      "bank_id": "e0b9b600",
+      "text": "Lezzetli et, ama... cılız et!"
+    },
+    {
+      "id": "3ffd5c95",
+      "bank_id": "e0b9b600",
+      "text": "Büyük et gerek! Canlı et!"
+    },
+    {
+      "id": "43c24114",
+      "bank_id": "e0b9b600",
+      "text": "Dediğim gibi, Kutsal Peynir Taşıyıcısı gereken tüm yüz ve kafa kıllarına sahip olmalıdır. Sadece birine değil. Kadim ayinler bu konuda çok nettir."
+    },
+    {
+      "id": "4a29ecf1",
+      "bank_id": "e0b9b600",
+      "text": "Ah. Demek o korkunç peynir kıtlığı bitti ha... Kahretsin. Şey, harika yani, evet."
+    },
+    {
+      "id": "521de9d7",
+      "bank_id": "e0b9b600",
+      "text": "Mmm, ayrıca... bir korse! Evet, aynen öyle."
+    },
+    {
+      "id": "5bd39dfb",
+      "bank_id": "e0b9b600",
+      "text": "Hayır, hayır! Bu tamamen yanlış! İçinize bakın. Yapabileceğinizi biliyorum."
+    },
+    {
+      "id": "5cd39f6e",
+      "bank_id": "e0b9b600",
+      "text": "Bir kez daha deneyelim."
+    },
+    {
+      "id": "650440d8",
+      "bank_id": "e0b9b600",
+      "text": "Bu muazzam edebiyat şaheserini deneyimleme şansına eriştiniz."
+    },
+    {
+      "id": "6604424b",
+      "bank_id": "e0b9b600",
+      "text": "Yedi perdelik yapıyı ustaca kullanışımı fark ettiniz mi?"
+    },
+    {
+      "id": "6704443e",
+      "bank_id": "e0b9b600",
+      "text": "Ah, ne kadar da fevkalade. Metin resmen ışık saçıyor!"
+    },
+    {
+      "id": "6c044bdd",
+      "bank_id": "e0b9b600",
+      "text": "Ve şimdi devam eseri üzerinde çalışmaya başlamalıyım..."
+    },
+    {
+      "id": "6ed60c00",
+      "bank_id": "e0b9b600",
+      "text": "İnsanın utancıyla baş başa bırakılmasını istemesi çok mu fazla? Yanında peynir bile yok."
+    },
+    {
+      "id": "6f08b05c",
+      "bank_id": "e0b9b600",
+      "text": "Öyle... aynen öyle, evet. Yani öncelikle, rasta saçların nerede?"
+    },
+    {
+      "id": "6fd60df3",
+      "bank_id": "e0b9b600",
+      "text": "Hm, ülkeyi kasıp kavuran bir peynir kıtlığı olması ne iyi."
+    },
+    {
+      "id": "7008b1cf",
+      "bank_id": "e0b9b600",
+      "text": "Ha! Hı-hı! Ve... ve sonra, şey... favori sakala ihtiyacın var."
+    },
+    {
+      "id": "71d610d9",
+      "bank_id": "e0b9b600",
+      "text": "Bazı insanlar laftan hiç anlamıyor. Hem senin peynirin nerede?"
+    },
+    {
+      "id": "7208b515",
+      "bank_id": "e0b9b600",
+      "text": "Tabii ki sen, şey, yani... hâlâ Kutsal Peynir Taşıyıcısı üniformasına sahip değilsin."
+    },
+    {
+      "id": "741539f3",
+      "bank_id": "e0b9b600",
+      "text": "Pala bıyık son derece büyük bir öneme sahiptir."
+    },
+    {
+      "id": "7dd484bb",
+      "bank_id": "e0b9b600",
+      "text": "Bu kılıkla bir Peynir Taşıyıcısı olduğunu iddia etmiyorsundur herhalde? Saçın tamamen yanlış!"
+    },
+    {
+      "id": "800aa2ee",
+      "bank_id": "e0b9b600",
+      "text": "Bir düşüneyim... Bir çiftçi şapkası. Bu son derece önemli. Ve bir de..."
+    },
+    {
+      "id": "8915f48b",
+      "bank_id": "e0b9b600",
+      "text": "Aynen öyle, evet. Yani öncelikle, aslan yelesi saçın nerede?"
+    },
+    {
+      "id": "8a15f67e",
+      "bank_id": "e0b9b600",
+      "text": "Ha? Heh! Ve... ve sonra da, şey... pala bıyığa ihtiyacın olacak."
+    },
+    {
+      "id": "98222bc3",
+      "bank_id": "e0b9b600",
+      "text": "İblis Kapısı için rol yapılsın mı?"
+    },
+    {
+      "id": "987c84d0",
+      "bank_id": "e0b9b600",
+      "text": "Alfred ve Rupert buna gücenip orta parmaklarıyla son derece AŞAĞILAYICI bir harekette bulundular."
+    },
+    {
+      "id": "997c8643",
+      "bank_id": "e0b9b600",
+      "text": "Sokak çocukları da buna karşılık olarak son derece kaba ve yakışıksız HAMLALARLA cevap verdi."
+    },
+    {
+      "id": "99b5aa98",
+      "bank_id": "e0b9b600",
+      "text": "Sen et yer? Sen ne et yer?"
+    },
+    {
+      "id": "9a7c8836",
+      "bank_id": "e0b9b600",
+      "text": "Alfred şiddet dolu niyetini derin bir HIRILDAMAYLA belli etti ama ergen haydutların gözünü korkutamadı."
+    },
+    {
+      "id": "9b435bcd",
+      "bank_id": "e0b9b600",
+      "text": "İblis Kapısı'na peynir verilsin mi?"
+    },
+    {
+      "id": "9b7c89a9",
+      "bank_id": "e0b9b600",
+      "text": "Rupert KANA SUSAMIŞ KÜKREMESİYLE çok daha başarılı oldu, öyle ki serseriler peşlerini bıraktı."
+    },
+    {
+      "id": "9bb5adfe",
+      "bank_id": "e0b9b600",
+      "text": "Canlı et! Eeeeeet!"
+    },
+    {
+      "id": "9cb5af51",
+      "bank_id": "e0b9b600",
+      "text": "Aç! Çok zamandır et yok!"
+    },
+    {
+      "id": "9d7c8c8f",
+      "bank_id": "e0b9b600",
+      "text": "Rupert arkadaşıyla sokakta salına salına yürürken aniden KAHKAHALARA boğuldu."
+    },
+    {
+      "id": "9e7c8e62",
+      "bank_id": "e0b9b600",
+      "text": "Yakın dostu Alfred az önce son derece ağır kokulu bir şekilde GAZ ÇIKARMIŞTI."
+    },
+    {
+      "id": "9eb5b2b7",
+      "bank_id": "e0b9b600",
+      "text": "Dudaklardan kan damlıyor, tüyler uçuşuyor, mmm. Evet! Şimdi! Şimdi!"
+    },
+    {
+      "id": "9f7c8fd5",
+      "bank_id": "e0b9b600",
+      "text": "Yolun karşısındaki gürültücü bir grup genç PARMAKLARIYLA İŞARET EDEREK ve alaycı KIKIRDAMALARLA onunla dalga geçti."
+    },
+    {
+      "id": "a17ed192",
+      "bank_id": "e0b9b600",
+      "text": "Son."
+    },
+    {
+      "id": "a27ed305",
+      "bank_id": "e0b9b600",
+      "text": "Ve destansı hikâyemiz son derece mutlu bir şekilde son bulur, zira vedalaşırlarken her biri kusursuz birer ÖPÜCÜK kondurur."
+    },
+    {
+      "id": "a3ad0914",
+      "bank_id": "e0b9b600",
+      "text": "Şu gördüğüm bir korse mi? Hayır, kesinlikle değil."
+    },
+    {
+      "id": "a47c97f4",
+      "bank_id": "e0b9b600",
+      "text": "Maceranın tam bu noktasında gözü güzel Jeannie'ye takıldı ve aşk dolu bir TAPINMAYLA dizlerinin üzerine çöktü."
+    },
+    {
+      "id": "a57c9967",
+      "bank_id": "e0b9b600",
+      "text": "Rupert'ın ilgisi Jeannie'nin dikkatini çekmeyi başardı ve yerel bir meyhanede gece boyunca DANS ETTİLER."
+    },
+    {
+      "id": "a5ad0c7a",
+      "bank_id": "e0b9b600",
+      "text": "Korse yok mu? Ah, çok yazık."
+    },
+    {
+      "id": "a6ad0ded",
+      "bank_id": "e0b9b600",
+      "text": "Metinler korse konusunda oldukça nettir maalesef."
+    },
+    {
+      "id": "a73776ec",
+      "bank_id": "e0b9b600",
+      "text": "\"Gümüş pelerin\" demeliydim. Asla bulamazdı onu."
+    },
+    {
+      "id": "a837785f",
+      "bank_id": "e0b9b600",
+      "text": "Dışarıdaki onca olağanüstü hazineleriyle o muhteşem İblis Kapıları varken... İnsan neden burada vaktini boşa harcar ki?"
+    },
+    {
+      "id": "a9a1457d",
+      "bank_id": "e0b9b600",
+      "text": "Peki, son oyunumu sergileyecek misiniz?"
+    },
+    {
+      "id": "a9d58cda",
+      "bank_id": "e0b9b600",
+      "text": "Mezarlık İblis Kapısı"
+    },
+    {
+      "id": "aa377ba5",
+      "bank_id": "e0b9b600",
+      "text": "Aklı başında hiç kimse böyle bir kıyafet kombinasyonu giymez. Gerçi şu an bu pek de bir teselli sayılmaz."
+    },
+    {
+      "id": "aaf16423",
+      "bank_id": "e0b9b600",
+      "text": "Rasta saç modeli olması şart. Gerçekten öyle."
+    },
+    {
+      "id": "ae63fba8",
+      "bank_id": "e0b9b600",
+      "text": "Evet! Bir lanet! Şimdi defol git yoksa gökyüzü başına yıkılacak!"
+    },
+    {
+      "id": "af9d53e0",
+      "bank_id": "e0b9b600",
+      "text": "Senin gibiler için burada hiçbir şey yok. Sadece sıkıcı, sıradan, Kahramanlara layık olmayan şeyler. Gerçekten."
+    },
+    {
+      "id": "b09d5553",
+      "bank_id": "e0b9b600",
+      "text": "Bak, defolup gider misin lütfen."
+    },
+    {
+      "id": "b19d56c6",
+      "bank_id": "e0b9b600",
+      "text": "Her an."
+    },
+    {
+      "id": "b29d58b9",
+      "bank_id": "e0b9b600",
+      "text": "Evet. Korkunç çıbanlar. Her delikten fışkıran kanlar..."
+    },
+    {
+      "id": "b3640347",
+      "bank_id": "e0b9b600",
+      "text": "Oh. Ah. Şuna da bakın..."
+    },
+    {
+      "id": "b39d5a2c",
+      "bank_id": "e0b9b600",
+      "text": "Tamam, gaz yok. Ama olabilirdi. Her an çıkabilir."
+    },
+    {
+      "id": "b464053a",
+      "bank_id": "e0b9b600",
+      "text": "Seni gördüklerinde insanlar 'Ne aptal biri' diyecek."
+    },
+    {
+      "id": "b49d5b9f",
+      "bank_id": "e0b9b600",
+      "text": "Bütün yer zehirli gazla kaplı. Çok kötü. Ölümcül hatta."
+    },
+    {
+      "id": "b56406ad",
+      "bank_id": "e0b9b600",
+      "text": "Kutsal Peynir Taşıyıcılığı'nın laneti işte böyledir."
+    },
+    {
+      "id": "b59d5d72",
+      "bank_id": "e0b9b600",
+      "text": "Oh! <coughs> Koş. Çabuk. Çık buradan."
+    },
+    {
+      "id": "b6ba1d03",
+      "bank_id": "e0b9b600",
+      "text": "Ya favori sakal ya da hiç."
+    },
+    {
+      "id": "c3d6a330",
+      "bank_id": "e0b9b600",
+      "text": "Belki bana yardımcı olabilirsiniz?"
+    },
+    {
+      "id": "c78bbbe4",
+      "bank_id": "e0b9b600",
+      "text": "Korkarım sanatım sizinkini fersah fersah aşıyor. Daha fazla oyunculuk becerisi öğrenmelisiniz."
+    },
+    {
+      "id": "c8d6aaef",
+      "bank_id": "e0b9b600",
+      "text": "Ah, aramızda beliren bir tiyatro oyuncusu mu yoksa?"
+    },
+    {
+      "id": "c98bbeca",
+      "bank_id": "e0b9b600",
+      "text": "Ve böylesine zorlu bir role hazır olduğunuzda geri gelin."
+    },
+    {
+      "id": "c9d6ac42",
+      "bank_id": "e0b9b600",
+      "text": "Hayatı deneyimlemiş, sözlerimi layık bir performansla tamamlayabilecek biri mi?"
+    },
+    {
+      "id": "ca3270e8",
+      "bank_id": "e0b9b600",
+      "text": "Ne büyük talihsizlik. Gerçekten öyle."
+    },
+    {
+      "id": "ca7307a8",
+      "bank_id": "e0b9b600",
+      "text": "Bütün bu meseleyi kapatamaz mıyız? Lütfen?"
+    },
+    {
+      "id": "ca8bc0bd",
+      "bank_id": "e0b9b600",
+      "text": "Dünyayı görün. Sevinçlerini ve acılarını deneyimleyin."
+    },
+    {
+      "id": "cad6ae35",
+      "bank_id": "e0b9b600",
+      "text": "Ben Albion'un en büyük trajedi yazarıyım, 7.452 oyunun müellifiyim. Ve şu anda taç eserim olacak şaheserime son rötuşları yapıyorum."
+    },
+    {
+      "id": "cb32725b",
+      "bank_id": "e0b9b600",
+      "text": "Hiç yok mu diyorsun?"
+    },
+    {
+      "id": "cb73091b",
+      "bank_id": "e0b9b600",
+      "text": "Baksanıza, yerin yarılıp tam da şurada... duran birini yuttuğu zamanlar bu sıralar değil miydi?"
+    },
+    {
+      "id": "cc3273ce",
+      "bank_id": "e0b9b600",
+      "text": "Peynir olmadan içeri alamam maalesef."
+    },
+    {
+      "id": "cc730a8e",
+      "bank_id": "e0b9b600",
+      "text": "İnsanlar bu aşamaya gelince genelde pes eder. Ama bu pes etmedi."
+    },
+    {
+      "id": "d24b5763",
+      "bank_id": "e0b9b600",
+      "text": "Tüm büyük ustalarla çalıştım. Beni geri çevirmezsiniz herhalde?"
+    },
+    {
+      "id": "d34b58d6",
+      "bank_id": "e0b9b600",
+      "text": "Bu binyılın en büyük sanatsal başarılarından birine hayat verebilirsiniz."
+    },
+    {
+      "id": "d3de6e33",
+      "bank_id": "e0b9b600",
+      "text": "Brightwood İblis Kapısı"
+    },
+    {
+      "id": "d44b5a49",
+      "bank_id": "e0b9b600",
+      "text": "Böyle bir fırsatın elinizden kayıp gitmesine gerçekten izin verebilir misiniz?"
+    },
+    {
+      "id": "d54b5c3c",
+      "bank_id": "e0b9b600",
+      "text": "Düz yazımı bilemek için yüzyıllar harcadım ve şimdi bunun bir parçası olabilirsiniz!"
+    },
+    {
+      "id": "d54c15f8",
+      "bank_id": "e0b9b600",
+      "text": "Laftan anlamaz mısın sen?"
+    },
+    {
+      "id": "d74c18de",
+      "bank_id": "e0b9b600",
+      "text": "Kilidimi açmanın sırrı... peynirdir!"
+    },
+    {
+      "id": "d82a0643",
+      "bank_id": "e0b9b600",
+      "text": "Harika, harika. Tek yapmanız gereken repliklerimin her birine uygun bir ifadeyle eşlik etmek."
+    },
+    {
+      "id": "d84c1ab1",
+      "bank_id": "e0b9b600",
+      "text": "Aman, pekâlâ o zaman. Ama sizi uyarmadığımı söylemeyin."
+    },
+    {
+      "id": "d92a0836",
+      "bank_id": "e0b9b600",
+      "text": "Bırakın tasvirlerimin gücü size rehberlik etsin."
+    },
+    {
+      "id": "d93ae551",
+      "bank_id": "e0b9b600",
+      "text": "Şuna ihtiyacın var... bir yosma eteği. Evet ve..."
+    },
+    {
+      "id": "d94c1c24",
+      "bank_id": "e0b9b600",
+      "text": "Yine de hiç zahmet etmezdim ben olsam."
+    },
+    {
+      "id": "da4c1d97",
+      "bank_id": "e0b9b600",
+      "text": "Evet. Peynir talep ediyorum. Hadi yaylan bakalım! Git!"
+    },
+    {
+      "id": "daa023bc",
+      "bank_id": "e0b9b600",
+      "text": "Hadi ama! İstediğinizi biliyorsunuz. Harika olacak!"
+    },
+    {
+      "id": "db4c1f0a",
+      "bank_id": "e0b9b600",
+      "text": "Tatile çıkıyorum. Temelli. Çok uzaklara."
+    },
+    {
+      "id": "dba0252f",
+      "bank_id": "e0b9b600",
+      "text": "Benimle iş birliği yapmadığınıza pişman olacaksınız. Albion Sanat Tarihi'nde kendi sayfanız olacaktı!"
+    },
+    {
+      "id": "dc4c20fd",
+      "bank_id": "e0b9b600",
+      "text": "Sen dönene kadar ben burada olmam bile muhtemelen."
+    },
+    {
+      "id": "dda02875",
+      "bank_id": "e0b9b600",
+      "text": "Sözlerim sağır kulaklara mı çarpıyor? Sanata olan kutsal vazifemizi hiç mi umursamıyorsunuz?"
+    },
+    {
+      "id": "f0b3b744",
+      "bank_id": "e0b9b600",
+      "text": "Bu hayatta insanın karşısına çıkacak en büyük fırsat! Geri dönün!"
+    },
+    {
+      "id": "f1b3b937",
+      "bank_id": "e0b9b600",
+      "text": "Beni böyle terk edemezsiniz! Kim olduğumu bilmiyor musunuz siz?!"
+    },
+    {
+      "id": "f347a017",
+      "bank_id": "e0b9b600",
+      "text": "Şuna ihtiyacın var... sosyetik pantolon. Evet ve..."
+    },
+    {
+      "id": "f3b3bc1d",
+      "bank_id": "e0b9b600",
+      "text": "Nereye gidiyorsunuz? Şöhreti düşünün! Hayranlarımızı düşünün!"
+    },
+    {
+      "id": "f4e63dd0",
+      "bank_id": "e0b9b600",
+      "text": "Bower Gölü İblis Kapısı"
+    },
+    {
+      "id": "f776dd04",
+      "bank_id": "e0b9b600",
+      "text": "Haydut şapkası olmadan hiç kimse peynir krallığı hakkını kazanamaz."
+    },
+    {
+      "id": "f7f6f9ce",
+      "bank_id": "e0b9b600",
+      "text": "Şimdi git!"
+    },
+    {
+      "id": "f82ec2c8",
+      "bank_id": "e0b9b600",
+      "text": "Buna daha ne kadar katlanabilirim bilmiyorum."
+    },
+    {
+      "id": "f8f6fba1",
+      "bank_id": "e0b9b600",
+      "text": "Bir bakalım. Hmm..."
+    },
+    {
+      "id": "f92ec4bb",
+      "bank_id": "e0b9b600",
+      "text": "Benimle konuşmadıkları sürece gayet iyi olacağım."
+    },
+    {
+      "id": "f976e06a",
+      "bank_id": "e0b9b600",
+      "text": "Sorabilir miyim, gereken haydut şapkası nerede?"
+    },
+    {
+      "id": "f9f6fd14",
+      "bank_id": "e0b9b600",
+      "text": "Çok güzel. Ama Kutsal Peynir Taşıyıcılığı üniformasının en önemli parçaları hâlâ eksik."
+    },
+    {
+      "id": "fa2ec62e",
+      "bank_id": "e0b9b600",
+      "text": "Aynen öyle, öylece dikil orada. La la la. Dii dii dii."
+    },
+    {
+      "id": "fa76e1dd",
+      "bank_id": "e0b9b600",
+      "text": "Bir haydut şapkasından daha kutsal hiçbir şey yoktur."
+    },
+    {
+      "id": "faf6fe87",
+      "bank_id": "e0b9b600",
+      "text": "Ah, neden? Neden ben? Ne zaman pes edeceğini hiç bilmiyorsun, değil mi?"
+    },
+    {
+      "id": "fb03f58b",
+      "bank_id": "e0b9b600",
+      "text": "Ve..."
+    },
+    {
+      "id": "fbf7007a",
+      "bank_id": "e0b9b600",
+      "text": "Şimdi git buradan. Ben, şey... yüz yıllık kış uykuma başlamak üzereyim."
+    },
+    {
+      "id": "fe3a679b",
+      "bank_id": "e0b9b600",
+      "text": "İçeride et, sonra içeride hazine. Güzel."
+    },
+    {
+      "id": "ff3a690e",
+      "bank_id": "e0b9b600",
+      "text": "Et nerede? Sen et? Çok büyük!"
+    }
+  ]
+}

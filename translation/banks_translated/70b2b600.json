@@ -1,0 +1,931 @@
+{
+  "bank_id": "70b2b600",
+  "total_strings": 185,
+  "strings": [
+    {
+      "id": "07a1e309",
+      "bank_id": "70b2b600",
+      "text": "Oakfield'e seyahat edin ve başkeşişle konuşun."
+    },
+    {
+      "id": "08d18f57",
+      "bank_id": "70b2b600",
+      "text": "Hey, bayan!"
+    },
+    {
+      "id": "08d18f5c",
+      "bank_id": "70b2b600",
+      "text": "Hey, ahbap!"
+    },
+    {
+      "id": "0c3b9e94",
+      "bank_id": "70b2b600",
+      "text": "Yakalayın şunu çocuklar."
+    },
+    {
+      "id": "0c3b9e9f",
+      "bank_id": "70b2b600",
+      "text": "Yakalayın şunu çocuklar."
+    },
+    {
+      "id": "21d5ffa8",
+      "bank_id": "70b2b600",
+      "text": "Duydunuz mu ahali? Artık benimsiniz!"
+    },
+    {
+      "id": "22d6011b",
+      "bank_id": "70b2b600",
+      "text": "Seni... pislik..."
+    },
+    {
+      "id": "244ff55b",
+      "bank_id": "70b2b600",
+      "text": "Aklını başına topla - tuzak olabilir."
+    },
+    {
+      "id": "24d60461",
+      "bank_id": "70b2b600",
+      "text": "Seninle iş yapmak güzeldi!"
+    },
+    {
+      "id": "2673c370",
+      "bank_id": "70b2b600",
+      "text": "Size verilen kader kartlarını inceleyin. Onları envanterinizdeki Eşyalar'ın Kitaplar ve Belgeler bölümünde bulabilirsiniz."
+    },
+    {
+      "id": "270c8a9c",
+      "bank_id": "70b2b600",
+      "text": "Evet, yakalayın onu!"
+    },
+    {
+      "id": "27d6093a",
+      "bank_id": "70b2b600",
+      "text": "İşe yaramazın teki olduğunu her zaman biliyordum! Ömrümün sonuna kadar Sparrow adına lanet okuyacağım!"
+    },
+    {
+      "id": "280c8c0f",
+      "bank_id": "70b2b600",
+      "text": "Öldürün onu!"
+    },
+    {
+      "id": "290c8de2",
+      "bank_id": "70b2b600",
+      "text": "Yakalayın şu pis haydutu!"
+    },
+    {
+      "id": "2cc818ac",
+      "bank_id": "70b2b600",
+      "text": "Ama bunlar sadece hikâye, değil mi? Düşünemiyorum bile..."
+    },
+    {
+      "id": "2fc81d65",
+      "bank_id": "70b2b600",
+      "text": "O hikâyeleri hep duyardım, bilirsin ya; hobbe'ler çocukları kaçırır ve... ve onları da hobbe'lere dönüştürür."
+    },
+    {
+      "id": "306086b8",
+      "bank_id": "70b2b600",
+      "text": "Şey, hâlâ kafesteyiz ama. Hey, çıkarsana bizi buradan!"
+    },
+    {
+      "id": "3160882b",
+      "bank_id": "70b2b600",
+      "text": "Thag öldü, inanamıyorum! Dertlerimiz bitti!"
+    },
+    {
+      "id": "31eddeb2",
+      "bank_id": "70b2b600",
+      "text": "Aferin güzel kızım, çıkar bizi buradan!"
+    },
+    {
+      "id": "31eddeb9",
+      "bank_id": "70b2b600",
+      "text": "Aferin aslanım, çıkar bizi buradan!"
+    },
+    {
+      "id": "3260899e",
+      "bank_id": "70b2b600",
+      "text": "Ne diyorsun Sparrow? Kapıyı şimdi açacaksın değil mi? Bilirsin, seni hep sevmişimdir."
+    },
+    {
+      "id": "34608ce4",
+      "bank_id": "70b2b600",
+      "text": "Evet! Buradan çıkıyoruz artık!"
+    },
+    {
+      "id": "36608fca",
+      "bank_id": "70b2b600",
+      "text": "Evet, ben de hissettim -- Thag'ın kanı ta buraya kadar üstüme sıçradı sanırım."
+    },
+    {
+      "id": "376091bd",
+      "bank_id": "70b2b600",
+      "text": "Gördün mü bunu? Bizim küçük Sparrow'un ne yaptığını gördün mü?"
+    },
+    {
+      "id": "3a41f0db",
+      "bank_id": "70b2b600",
+      "text": "Bizi burada bırakma."
+    },
+    {
+      "id": "3b41f24e",
+      "bank_id": "70b2b600",
+      "text": "Kocamı tekrar görmek istiyorum."
+    },
+    {
+      "id": "3b8fea4b",
+      "bank_id": "70b2b600",
+      "text": "Ha! Dövüşmeyi nereden öğrendin sen?"
+    },
+    {
+      "id": "3c41f421",
+      "bank_id": "70b2b600",
+      "text": "Bizi çıkaracaksın değil mi Sparrow? Bilirsin, seni hep sevmişimdir!"
+    },
+    {
+      "id": "3c42f97b",
+      "bank_id": "70b2b600",
+      "text": "Dikkat et! Pusu kurmuşlar!"
+    },
+    {
+      "id": "3c8fec3e",
+      "bank_id": "70b2b600",
+      "text": "Ha! Bundan daha iyisini yapman gerekecek!"
+    },
+    {
+      "id": "3d41f594",
+      "bank_id": "70b2b600",
+      "text": "Bizi burada bırakmayın."
+    },
+    {
+      "id": "3e41f707",
+      "bank_id": "70b2b600",
+      "text": "Kapıyı açın lütfen!"
+    },
+    {
+      "id": "40201ca4",
+      "bank_id": "70b2b600",
+      "text": "Geçin bakalım... yol açık!"
+    },
+    {
+      "id": "42201f8a",
+      "bank_id": "70b2b600",
+      "text": "Bunu yapan herifin elini sıkmak isterdim doğrusu!"
+    },
+    {
+      "id": "42fcad67",
+      "bank_id": "70b2b600",
+      "text": "Ne?! Neydi lan o öyle?!"
+    },
+    {
+      "id": "4320217d",
+      "bank_id": "70b2b600",
+      "text": "Görünüşe göre biri o haydut elebaşını haklamış, artık yol güvenli."
+    },
+    {
+      "id": "43fcaeda",
+      "bank_id": "70b2b600",
+      "text": "Bu ne biçim bir büyü böyle?! Kimsin sen?!"
+    },
+    {
+      "id": "486a02f0",
+      "bank_id": "70b2b600",
+      "text": "Çıkarın bizi buradan, olur mu?"
+    },
+    {
+      "id": "496a0463",
+      "bank_id": "70b2b600",
+      "text": "Bizi öldürecekler."
+    },
+    {
+      "id": "49de3c6c",
+      "bank_id": "70b2b600",
+      "text": "Thag'ın kampı Bower Gölü'nün diğer ucunda. Bol şans."
+    },
+    {
+      "id": "4a47b73f",
+      "bank_id": "70b2b600",
+      "text": "Atla, atla, atla!"
+    },
+    {
+      "id": "4b6a0749",
+      "bank_id": "70b2b600",
+      "text": "Thag'ın bizi yemesine izin verme."
+    },
+    {
+      "id": "4e6a0c02",
+      "bank_id": "70b2b600",
+      "text": "Şu Thag tam bir deli! Bize zarar vermesine izin verme Sparrow!"
+    },
+    {
+      "id": "4f0240ab",
+      "bank_id": "70b2b600",
+      "text": "Kimse benim gibi nişan alamaz!"
+    },
+    {
+      "id": "4f283bbd",
+      "bank_id": "70b2b600",
+      "text": "Buraya asla gelmemeliydin!"
+    },
+    {
+      "id": "4f3c171e",
+      "bank_id": "70b2b600",
+      "text": "Güçlendin ama aklını başına topla. Bu dövüş kolay olmayacak."
+    },
+    {
+      "id": "5002421e",
+      "bank_id": "70b2b600",
+      "text": "Ha ha ha! İyi hedef tahtası oldun be!"
+    },
+    {
+      "id": "510243f1",
+      "bank_id": "70b2b600",
+      "text": "Fena acıttı değil mi?"
+    },
+    {
+      "id": "513c1a64",
+      "bank_id": "70b2b600",
+      "text": "Onu durdurmazsan Thag yakında kampa saldıracak."
+    },
+    {
+      "id": "51965332",
+      "bank_id": "70b2b600",
+      "text": "Kafes kapısı Thag'ın anahtarıyla açılsın mı?"
+    },
+    {
+      "id": "52024564",
+      "bank_id": "70b2b600",
+      "text": "Bana daha fazla kurşun harcatma!"
+    },
+    {
+      "id": "5272c5f0",
+      "bank_id": "70b2b600",
+      "text": "Görüyorsun ya... Şey, muhtemelen bunu önceden söylemeliydim ama... içeride bir iki hobbe olabilir."
+    },
+    {
+      "id": "530246d7",
+      "bank_id": "70b2b600",
+      "text": "Ha! Yakaladım seni!"
+    },
+    {
+      "id": "53a89b9b",
+      "bank_id": "70b2b600",
+      "text": "Haydut Elebaşı: Thag"
+    },
+    {
+      "id": "55240889",
+      "bank_id": "70b2b600",
+      "text": "Görünüşe göre Thag, Bower Gölü kampına giden tüccarları esir alıyormuş. Herkes için bir tehlike ve icabına bakılmalı."
+    },
+    {
+      "id": "5524088c",
+      "bank_id": "70b2b600",
+      "text": "Demek öyle-- Bowerstone yolu kapalı."
+    },
+    {
+      "id": "5572ca49",
+      "bank_id": "70b2b600",
+      "text": "Yolun buradan geçmesi ne büyük şans, ben... tek başıma içeri girmeye cesaret edemedim."
+    },
+    {
+      "id": "57240bd2",
+      "bank_id": "70b2b600",
+      "text": "Hiç şüphe yok ki Bower Gölü yakınındaki kampındalar."
+    },
+    {
+      "id": "58240d45",
+      "bank_id": "70b2b600",
+      "text": "Yeni gücünle onu ve çetesini alt edip görevine devam edebilmelisin."
+    },
+    {
+      "id": "5c5bd350",
+      "bank_id": "70b2b600",
+      "text": "Kule'ye bakın."
+    },
+    {
+      "id": "5d64cb02",
+      "bank_id": "70b2b600",
+      "text": "Kapat çeneni dedim. Bir daha söylemeyeceğim!"
+    },
+    {
+      "id": "5d7ef7a8",
+      "bank_id": "70b2b600",
+      "text": "Lanet olsun sana!"
+    },
+    {
+      "id": "5dc373ba",
+      "bank_id": "70b2b600",
+      "text": "İyiliğini asla unutmayacaklar."
+    },
+    {
+      "id": "5e64ccf5",
+      "bank_id": "70b2b600",
+      "text": "Bunu bize yapmazsın değil mi Sparrow?"
+    },
+    {
+      "id": "5e7ef91b",
+      "bank_id": "70b2b600",
+      "text": "Thag sabırsızlanıyor!"
+    },
+    {
+      "id": "5f64ce68",
+      "bank_id": "70b2b600",
+      "text": "Kes sesini!"
+    },
+    {
+      "id": "5f7efa8e",
+      "bank_id": "70b2b600",
+      "text": "Bunun beni durduracağını mı sanıyorsun?"
+    },
+    {
+      "id": "6064cfdb",
+      "bank_id": "70b2b600",
+      "text": "Hayır! Onu dinleme."
+    },
+    {
+      "id": "60c10e1c",
+      "bank_id": "70b2b600",
+      "text": "Onun yüzünden Bowerstone yolu kapalı."
+    },
+    {
+      "id": "6164d14e",
+      "bank_id": "70b2b600",
+      "text": "Anahtarı bana ver, karşılığını fazlasıyla ödeyeyim."
+    },
+    {
+      "id": "61688a87",
+      "bank_id": "70b2b600",
+      "text": "Sabırsız Thag'a kimse karşı gelemez! Bağırsaklarını bizzat deşeceğim!"
+    },
+    {
+      "id": "61c10f8f",
+      "bank_id": "70b2b600",
+      "text": "Thag pek zeki biri sayılmaz ama saymasını bilir."
+    },
+    {
+      "id": "6264d321",
+      "bank_id": "70b2b600",
+      "text": "Bak-- bela istemiyorum ben."
+    },
+    {
+      "id": "62688c7a",
+      "bank_id": "70b2b600",
+      "text": "Hazırlanman için sana üç saniye veriyorum..."
+    },
+    {
+      "id": "6364d494",
+      "bank_id": "70b2b600",
+      "text": "O köleler bana ait. Paralarını ödedim."
+    },
+    {
+      "id": "63688ded",
+      "bank_id": "70b2b600",
+      "text": "Dur yok, iki -- Lanet olsun! Geberrrr!"
+    },
+    {
+      "id": "6464d607",
+      "bank_id": "70b2b600",
+      "text": "Onları dışarı çıkarmayı aklından bile geçirme."
+    },
+    {
+      "id": "676bc85c",
+      "bank_id": "70b2b600",
+      "text": "D-durdurun onları! İşte böyle!"
+    },
+    {
+      "id": "67c11901",
+      "bank_id": "70b2b600",
+      "text": "O haydutlar kendine Thag diyen bir adama hizmet ediyordu."
+    },
+    {
+      "id": "68897678",
+      "bank_id": "70b2b600",
+      "text": "Thag ve adamlarını alt etmek için yeni güçlerini serbest bırak!"
+    },
+    {
+      "id": "6a6bcd15",
+      "bank_id": "70b2b600",
+      "text": "Evet! Uzak tutun onları bizden!"
+    },
+    {
+      "id": "6b897b31",
+      "bank_id": "70b2b600",
+      "text": "Onları alt etmek için yeni edindiğin yeteneklerini kullan!"
+    },
+    {
+      "id": "6e852c00",
+      "bank_id": "70b2b600",
+      "text": "Çok geç kaldım! O... Oğlumu şeye dönüştürmüşler..."
+    },
+    {
+      "id": "718530d9",
+      "bank_id": "70b2b600",
+      "text": "Ona o hikâyelerin uydurma olduğunu söylerdim hep. Ama gerçekmiş. Ah..."
+    },
+    {
+      "id": "72e609d0",
+      "bank_id": "70b2b600",
+      "text": "Thag'a kimse zarar veremezdi hani!"
+    },
+    {
+      "id": "73e60b43",
+      "bank_id": "70b2b600",
+      "text": "Bunu yapmayı nereden öğrendin sen?!"
+    },
+    {
+      "id": "75e60ea9",
+      "bank_id": "70b2b600",
+      "text": "Bırak şunu!"
+    },
+    {
+      "id": "78e61362",
+      "bank_id": "70b2b600",
+      "text": "Kanıyorum! Resmen kanıyorum!"
+    },
+    {
+      "id": "78f98891",
+      "bank_id": "70b2b600",
+      "text": "Bowerstone'a doğru yola çık. Orada seninle buluşacağım."
+    },
+    {
+      "id": "79e614d5",
+      "bank_id": "70b2b600",
+      "text": "Bunun bedelini ödeyeceksin!"
+    },
+    {
+      "id": "7da6aa0a",
+      "bank_id": "70b2b600",
+      "text": "Mahkûmları serbest bırakın."
+    },
+    {
+      "id": "7da6aa0c",
+      "bank_id": "70b2b600",
+      "text": "Haydutları alt edin."
+    },
+    {
+      "id": "7da6aa0d",
+      "bank_id": "70b2b600",
+      "text": "Thag'ı yenin."
+    },
+    {
+      "id": "7da6aa0f",
+      "bank_id": "70b2b600",
+      "text": "Thag'ın kampına gidin."
+    },
+    {
+      "id": "817bcb78",
+      "bank_id": "70b2b600",
+      "text": "Joey!"
+    },
+    {
+      "id": "847bd031",
+      "bank_id": "70b2b600",
+      "text": "Özür dilerim, ben... daha önce hiç böyle bir şey görmemiştim."
+    },
+    {
+      "id": "84f380ac",
+      "bank_id": "70b2b600",
+      "text": "Kafesin anahtarı köle tacirine verilsin mi?"
+    },
+    {
+      "id": "855d983c",
+      "bank_id": "70b2b600",
+      "text": "Sen kim olduğunu sanıyorsun?! Hele bir ayağa kalkayım gör sen."
+    },
+    {
+      "id": "885d9cf5",
+      "bank_id": "70b2b600",
+      "text": "Sabırsız Thag'ı kimse yere seremez!"
+    },
+    {
+      "id": "8915a3ee",
+      "bank_id": "70b2b600",
+      "text": "Bilmiyorum... adım da Regina bu arada. Neyse, ben gidiyorum artık. Tekrar teşekkürler!"
+    },
+    {
+      "id": "8a15a541",
+      "bank_id": "70b2b600",
+      "text": "Ah, evet, teşekkürler."
+    },
+    {
+      "id": "8b15a734",
+      "bank_id": "70b2b600",
+      "text": "Özgürüz!"
+    },
+    {
+      "id": "8c15a8a7",
+      "bank_id": "70b2b600",
+      "text": "Toprakların patikalarında ve yollarında rüzgârdan başka efendimiz olmadan özgürce dolaşmak... önümüzde uzanan zaman tıpkı... neydi o kelime Reg...?"
+    },
+    {
+      "id": "8e15ab8d",
+      "bank_id": "70b2b600",
+      "text": "Çok teşekkür ederim!"
+    },
+    {
+      "id": "8e661b03",
+      "bank_id": "70b2b600",
+      "text": "Kusura bakmayın vatandaş. Haydut faaliyetleri yüzünden Bowerstone yolu kapalı."
+    },
+    {
+      "id": "8f661cf6",
+      "bank_id": "70b2b600",
+      "text": "Korkarım haydut Thag hayatta olduğu sürece yol kapalı kalacak."
+    },
+    {
+      "id": "90661e69",
+      "bank_id": "70b2b600",
+      "text": "Acelen varsa Thag'ın icabına kendin de bakabilirsin tabii!"
+    },
+    {
+      "id": "95bffb58",
+      "bank_id": "70b2b600",
+      "text": "Şimdi kalbimi kırdın işte. Benim olduğunda bunun bedelini ödeyeceksin."
+    },
+    {
+      "id": "97bffebe",
+      "bank_id": "70b2b600",
+      "text": "Eee ne diyorsun yabancı? Bugün biraz zenginleşmek ister misin?"
+    },
+    {
+      "id": "98c00011",
+      "bank_id": "70b2b600",
+      "text": "Thag'ı hakladın sen, bu çöp parçasını da rahatça öldürürsün!"
+    },
+    {
+      "id": "9f9bbe50",
+      "bank_id": "70b2b600",
+      "text": "[Şarkı söyler] ...Bower Gölü."
+    },
+    {
+      "id": "a19bc1b6",
+      "bank_id": "70b2b600",
+      "text": "Şimdi hatırladım! Demirci ocağında açık bir iş vardı. Nakde sıkıştıysan bir bakmaya değer."
+    },
+    {
+      "id": "a29bc329",
+      "bank_id": "70b2b600",
+      "text": "[Şarkı söyler] ...falan filan."
+    },
+    {
+      "id": "a376f896",
+      "bank_id": "70b2b600",
+      "text": "Yakalayın onu!"
+    },
+    {
+      "id": "a376f89d",
+      "bank_id": "70b2b600",
+      "text": "Yakalayın onu!"
+    },
+    {
+      "id": "a601ba8c",
+      "bank_id": "70b2b600",
+      "text": "Biri daha Thag'ın önünde diz çöktü!"
+    },
+    {
+      "id": "a8d02fb9",
+      "bank_id": "70b2b600",
+      "text": "Ha. Kaybetmem imkânsız!"
+    },
+    {
+      "id": "a901bf45",
+      "bank_id": "70b2b600",
+      "text": "Aynen öyle! Ait olduğun yerde, yerde geber."
+    },
+    {
+      "id": "ad248040",
+      "bank_id": "70b2b600",
+      "text": "Boyunu aşan işlere bulaştın!"
+    },
+    {
+      "id": "ae248233",
+      "bank_id": "70b2b600",
+      "text": "Bakalım için neye benziyormuş!"
+    },
+    {
+      "id": "b0248519",
+      "bank_id": "70b2b600",
+      "text": "Bunu nasıl buldun?"
+    },
+    {
+      "id": "b06729dc",
+      "bank_id": "70b2b600",
+      "text": "Haydut kampına gidin ve Bower Gölü'ne dehşet saçan haydutları alt edin."
+    },
+    {
+      "id": "b2f9eef4",
+      "bank_id": "70b2b600",
+      "text": "Sıcak parayı az önce geri çevirdin!"
+    },
+    {
+      "id": "b32489d2",
+      "bank_id": "70b2b600",
+      "text": "Beni yenebilecek kimse yok!"
+    },
+    {
+      "id": "b3255257",
+      "bank_id": "70b2b600",
+      "text": "Hadi benzetin şunu sersemler."
+    },
+    {
+      "id": "b325525c",
+      "bank_id": "70b2b600",
+      "text": "Kızın teki sadece."
+    },
+    {
+      "id": "b38e0ebc",
+      "bank_id": "70b2b600",
+      "text": "Aaaaa!"
+    },
+    {
+      "id": "b3f9f067",
+      "bank_id": "70b2b600",
+      "text": "Kaçıksın sen... biliyorsun değil mi? Kaçık!"
+    },
+    {
+      "id": "b4248b45",
+      "bank_id": "70b2b600",
+      "text": "Öleceğin yer burası çocuk!"
+    },
+    {
+      "id": "b474bfed",
+      "bank_id": "70b2b600",
+      "text": "Lütfen! Lütfen kalk ayağa! Tek başıma asla başaramam!"
+    },
+    {
+      "id": "b48e102f",
+      "bank_id": "70b2b600",
+      "text": "İşte bu... işte bu benim oğlum!"
+    },
+    {
+      "id": "b58e1182",
+      "bank_id": "70b2b600",
+      "text": "Joey, kapıyı baban için açabilir misin?"
+    },
+    {
+      "id": "b5f9f34d",
+      "bank_id": "70b2b600",
+      "text": "Bunu yaptığına... inanamıyorum!"
+    },
+    {
+      "id": "b7622d4a",
+      "bank_id": "70b2b600",
+      "text": "Birkaç sikke el değiştirdi ve birkaç dürüst insan yıllarca sürecek bir sefalete mahkûm edildi. Kalbin bu kadar mı katı? Belki de Lucien'i yanlış sebeplerden ötürü yok edeceksin. Ama sanırım bununla yetinmek gerekecek."
+    },
+    {
+      "id": "be334520",
+      "bank_id": "70b2b600",
+      "text": "Thag kafesin anahtarını kulübesinde tutuyor. Bir sandığın içinde!"
+    },
+    {
+      "id": "c13349f9",
+      "bank_id": "70b2b600",
+      "text": "Lütfen! Anahtarı alıp bizi dışarı çıkarın!"
+    },
+    {
+      "id": "c457fe33",
+      "bank_id": "70b2b600",
+      "text": "Bir baksak iyi olur. Ben... hemen arkanda olacağım."
+    },
+    {
+      "id": "c557ffa6",
+      "bank_id": "70b2b600",
+      "text": "Neydi o?"
+    },
+    {
+      "id": "ca9271b0",
+      "bank_id": "70b2b600",
+      "text": "En başta yakalandılar ya işte? Böyle pislikler özgür olmayı hak etmiyor."
+    },
+    {
+      "id": "cb927323",
+      "bank_id": "70b2b600",
+      "text": "Tek yapman gereken fazladan birkaç altınla çekip gitmek, bu ayaktakımını nereden bulduğumu kimsenin bilmesine gerek yok."
+    },
+    {
+      "id": "cccbadc1",
+      "bank_id": "70b2b600",
+      "text": "Ha! Hiçbir kız Thag'ı alt edemez!"
+    },
+    {
+      "id": "cccbadca",
+      "bank_id": "70b2b600",
+      "text": "Ha! Hiçbir toy velet Thag'ı alt edemez!"
+    },
+    {
+      "id": "cdab7cd0",
+      "bank_id": "70b2b600",
+      "text": "Büyünüzü biriktirmek için <b_img> tuşunu basılı tutun, ardından büyüyü yapmak için bırakın."
+    },
+    {
+      "id": "cf92796f",
+      "bank_id": "70b2b600",
+      "text": "Şu zayıfları dinleme. Beni dinle."
+    },
+    {
+      "id": "cfe029d0",
+      "bank_id": "70b2b600",
+      "text": "Hayır! Püskürtün şunları! Püskürtün şunları!"
+    },
+    {
+      "id": "d0927ac2",
+      "bank_id": "70b2b600",
+      "text": "Bu çerçöp için sana nakit para ödeyeceğim."
+    },
+    {
+      "id": "d1927cb5",
+      "bank_id": "70b2b600",
+      "text": "Bu insanlar zaten neredeyse bir hiç. Ama onları iyi bir işte kullanırım ben."
+    },
+    {
+      "id": "d1a33123",
+      "bank_id": "70b2b600",
+      "text": "Şimdi haydut elebaşı Thag'ı alt etmelisiniz, yoksa yeni baskınlar gelecektir."
+    },
+    {
+      "id": "d1e02d36",
+      "bank_id": "70b2b600",
+      "text": "Seni alt etmelerine izin verme! Hepimiz öleceğiz!"
+    },
+    {
+      "id": "d2e02ea9",
+      "bank_id": "70b2b600",
+      "text": "Vur onlara! Karşılık ver! Joeyjoeyjoeyjoey..."
+    },
+    {
+      "id": "d4abb67e",
+      "bank_id": "70b2b600",
+      "text": "Sakın cüret etme!"
+    },
+    {
+      "id": "d4d25d98",
+      "bank_id": "70b2b600",
+      "text": "Thag serbest olduğu sürece yol kapalı kalmak zorunda."
+    },
+    {
+      "id": "d5d25f0b",
+      "bank_id": "70b2b600",
+      "text": "Şu Thag denen adama dikkat et, durdurulamaz olduğunu duydum."
+    },
+    {
+      "id": "d7d26251",
+      "bank_id": "70b2b600",
+      "text": "Kusura bakma ahbap. Haydut faaliyetleri yüzünden Brightwood yolu kapalı."
+    },
+    {
+      "id": "d916d543",
+      "bank_id": "70b2b600",
+      "text": "Geliyorum oğlum!"
+    },
+    {
+      "id": "da16d736",
+      "bank_id": "70b2b600",
+      "text": "Bu Joey, sesini duyabiliyorum."
+    },
+    {
+      "id": "db5db43f",
+      "bank_id": "70b2b600",
+      "text": "Bowerstone'a seyahat edin."
+    },
+    {
+      "id": "de6f45bc",
+      "bank_id": "70b2b600",
+      "text": "Ah! Bu ne içindi şimdi?"
+    },
+    {
+      "id": "e26f4be8",
+      "bank_id": "70b2b600",
+      "text": "Biraz heyecan için neler vermezdim."
+    },
+    {
+      "id": "e36f4d5b",
+      "bank_id": "70b2b600",
+      "text": "Kapa çeneni!"
+    },
+    {
+      "id": "e492791b",
+      "bank_id": "70b2b600",
+      "text": "Uff! Şanslı atış."
+    },
+    {
+      "id": "e4abad93",
+      "bank_id": "70b2b600",
+      "text": "Haydut"
+    },
+    {
+      "id": "e5927a8e",
+      "bank_id": "70b2b600",
+      "text": "Hele bir elime geçireyim seni!"
+    },
+    {
+      "id": "e6927c61",
+      "bank_id": "70b2b600",
+      "text": "Buna atış mı diyorsun sen?"
+    },
+    {
+      "id": "e7927dd4",
+      "bank_id": "70b2b600",
+      "text": "Gel buraya!"
+    },
+    {
+      "id": "e8927f47",
+      "bank_id": "70b2b600",
+      "text": "Kimse benden iyi nişan alamaz!"
+    },
+    {
+      "id": "e9cf8b81",
+      "bank_id": "70b2b600",
+      "text": "Anahtar Thag'da Sparrow."
+    },
+    {
+      "id": "eacf8d74",
+      "bank_id": "70b2b600",
+      "text": "Lütfen, çıkarın bizi!"
+    },
+    {
+      "id": "ebcf8ee7",
+      "bank_id": "70b2b600",
+      "text": "Bizi neden burada tutuyor bilmiyorum ama iyi bir şey olmadığı kesin!"
+    },
+    {
+      "id": "eccf905a",
+      "bank_id": "70b2b600",
+      "text": "Thag bizi kaçırdı."
+    },
+    {
+      "id": "edd83f96",
+      "bank_id": "70b2b600",
+      "text": "Lütfen, masum insanları bir şeylerin içinden çıkarma namına bizi dışarı çıkarın."
+    },
+    {
+      "id": "eed84109",
+      "bank_id": "70b2b600",
+      "text": "Lütfen, kafesi açın."
+    },
+    {
+      "id": "efd842fc",
+      "bank_id": "70b2b600",
+      "text": "Kampa geri dönmek istiyorum!"
+    },
+    {
+      "id": "f0d8446f",
+      "bank_id": "70b2b600",
+      "text": "Kafesi açın, yalvarırım."
+    },
+    {
+      "id": "f1d845c2",
+      "bank_id": "70b2b600",
+      "text": "Bizi dışarı çıkar Sparrow, olur mu?"
+    },
+    {
+      "id": "f217bd55",
+      "bank_id": "70b2b600",
+      "text": "Canımı yakamazsın!"
+    },
+    {
+      "id": "f4629292",
+      "bank_id": "70b2b600",
+      "text": "Sersemledim!"
+    },
+    {
+      "id": "f8a33b86",
+      "bank_id": "70b2b600",
+      "text": "Hadi, benzetin şunu!"
+    },
+    {
+      "id": "f8a33b8d",
+      "bank_id": "70b2b600",
+      "text": "Hadi, yakalayın kızı."
+    },
+    {
+      "id": "fa530097",
+      "bank_id": "70b2b600",
+      "text": "Şu haydutun kaçmasına izin vermeyin!"
+    },
+    {
+      "id": "fb53020a",
+      "bank_id": "70b2b600",
+      "text": "Bunun bedelini ödeyeceksin seni pis katil!"
+    },
+    {
+      "id": "fc5303fd",
+      "bank_id": "70b2b600",
+      "text": "Kafasını uçurun!"
+    },
+    {
+      "id": "fca9e7a0",
+      "bank_id": "70b2b600",
+      "text": "Geçin bakalım... yol açık!"
+    },
+    {
+      "id": "fea9ea86",
+      "bank_id": "70b2b600",
+      "text": "Bunu kim yaptıysa elini sıkmak isterdim doğrusu!"
+    },
+    {
+      "id": "ffa9ec79",
+      "bank_id": "70b2b600",
+      "text": "Nihayet biri şu Thag'ın icabına baktı demek."
+    }
+  ]
+}

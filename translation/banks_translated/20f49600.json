@@ -1,0 +1,616 @@
+{
+  "bank_id": "20f49600",
+  "total_strings": 122,
+  "strings": [
+    {
+      "id": "02d09265",
+      "bank_id": "20f49600",
+      "text": "Kibir Laneti Efsun Taşı"
+    },
+    {
+      "id": "03dfd445",
+      "bank_id": "20f49600",
+      "text": "Budaklı Efsun Taşı"
+    },
+    {
+      "id": "04912d55",
+      "bank_id": "20f49600",
+      "text": "Kel Olmak Güzeldir"
+    },
+    {
+      "id": "06521055",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Sağ üst köşesindeki üç nokta haricinde tamamen boş görünüyor."
+    },
+    {
+      "id": "0702026f",
+      "bank_id": "20f49600",
+      "text": "Haşmet dövmelerinizin tam seti, dövüşte ilave koruma sağlar."
+    },
+    {
+      "id": "083843c8",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Üzerinde \"Şimdi sadece 42 sayısını düşünün\" yazıyor."
+    },
+    {
+      "id": "089b6dc5",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "08bb1b93",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "0c13bac1",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Ortasına devasa bir göz çizilmiş."
+    },
+    {
+      "id": "0d435e06",
+      "bank_id": "20f49600",
+      "text": "Oakfield Ekşisi"
+    },
+    {
+      "id": "0d617fab",
+      "bank_id": "20f49600",
+      "text": "Büyüleyici Efsun Taşı"
+    },
+    {
+      "id": "12c00b9c",
+      "bank_id": "20f49600",
+      "text": "Kutu Şarap"
+    },
+    {
+      "id": "13c8fc34",
+      "bank_id": "20f49600",
+      "text": "İlave zırhınız ve gür, fırça gibi bir sakalınız olur."
+    },
+    {
+      "id": "14901e16",
+      "bank_id": "20f49600",
+      "text": "Hakikaten Etkileyici Sakal Bıyık"
+    },
+    {
+      "id": "18a6759f",
+      "bank_id": "20f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKolayca yara izi alırsınız ancak bu sizi biraz daha çekici kılar. İnsanlar hafiften tehlikeli tipleri sever."
+    },
+    {
+      "id": "1f2de0b3",
+      "bank_id": "20f49600",
+      "text": "Her vuruş normal hasar yerine elektrik hasarı verir. Bütün o enerji saçlarınızın dökülmesine yol açmıştır."
+    },
+    {
+      "id": "1fc93032",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Çözülemez bir dilde yazılmış üç tekil kelime içeriyor."
+    },
+    {
+      "id": "1fcf1e66",
+      "bank_id": "20f49600",
+      "text": "İştah kaçırıcı adına rağmen bu içki, ucuzluğu ve sebep olduğu bilinen körlük vakalarının nispeten azlığı sayesinde son derece popüler hale gelmiştir."
+    },
+    {
+      "id": "2091ec19",
+      "bank_id": "20f49600",
+      "text": "Güzellik Halesi"
+    },
+    {
+      "id": "2128f428",
+      "bank_id": "20f49600",
+      "text": "Karaciğer hasarı yüzünden sapsarı kesileceğiniz için bu adı almıştır. Yüzde yetmiş alkollü, tadı ise lokum gibi."
+    },
+    {
+      "id": "21e25fdb",
+      "bank_id": "20f49600",
+      "text": "Bütün o Azrail dövmeleriyle hem havalı hem de tehlikelisiniz. İnsanların gördükleri hoşlarına gidiyor."
+    },
+    {
+      "id": "2223e787",
+      "bank_id": "20f49600",
+      "text": "Hasara karşı daha dayanıklı olursunuz ama garip bir şekilde daha kolay yara izi alırsınız.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "2457b73f",
+      "bank_id": "20f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nNormalden daha güçlü bir zırhınız olur fakat şansınız yaver gitmediğinden dövüşte daha sık darbe alırsınız. Ayrıca daha az hasar verirsiniz."
+    },
+    {
+      "id": "2496239f",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "2519a05d",
+      "bank_id": "20f49600",
+      "text": "Suikast Kontratı"
+    },
+    {
+      "id": "26df8107",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Ortasına tuhaf bir sembol çizilmiş."
+    },
+    {
+      "id": "273caf33",
+      "bank_id": "20f49600",
+      "text": "Ağaçkabuğu Efsun Taşı"
+    },
+    {
+      "id": "2cf7cc5d",
+      "bank_id": "20f49600",
+      "text": "Birinin kulağına... ya da belki bir çiçeğe benzeyen kaba bir çizim."
+    },
+    {
+      "id": "2dc426ff",
+      "bank_id": "20f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nYalnızca daha çekici olmakla kalmaz, vahşi bir güçle dövüşür ve hasarı hiç umursamazsınız."
+    },
+    {
+      "id": "349d6803",
+      "bank_id": "20f49600",
+      "text": "İlave zırhınız olur ama bu oldukça dikkat çekici Azrail dövmelerinizi kapatmaz."
+    },
+    {
+      "id": "34b85ba4",
+      "bank_id": "20f49600",
+      "text": "İki parçayı birleştirip gözlerinizi kıstığınızda büyük bir yengeç resmi ortaya çıkıyor."
+    },
+    {
+      "id": "3598d56e",
+      "bank_id": "20f49600",
+      "text": "Saç Miğfer"
+    },
+    {
+      "id": "3b1f65dc",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "3bd05c2a",
+      "bank_id": "20f49600",
+      "text": "Zırh puanı ve kullanışlı bir aydınlatma kaynağı sağlar. Mağaralar veya aysız geceler için harikadır."
+    },
+    {
+      "id": "3dbbbf08",
+      "bank_id": "20f49600",
+      "text": "Kusursuz Ten Efsun Taşı"
+    },
+    {
+      "id": "41483e15",
+      "bank_id": "20f49600",
+      "text": "Kellik"
+    },
+    {
+      "id": "43de6271",
+      "bank_id": "20f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nİlave zırh kazandırır."
+    },
+    {
+      "id": "47331e27",
+      "bank_id": "20f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nDövüş dışında insanlar sizi çok çekici bulur. Dövüşte ise kolay yaralanan ve pek de tehdit oluşturmayan biri olarak görürler."
+    },
+    {
+      "id": "4ac6f743",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "4bc6f936",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "4e2cada1",
+      "bank_id": "20f49600",
+      "text": "Azrail'in Cazibesi"
+    },
+    {
+      "id": "4f61f0b6",
+      "bank_id": "20f49600",
+      "text": "Dengeli, neredeyse zevk düşkünü bir Viognier. Domuz kabuğu, saç spreyi ve anason dokunuşlarıyla açılır."
+    },
+    {
+      "id": "4f729ea3",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "4fa73e1c",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Üzerinde küçük bir buluttan çıkan yıldırımla çarpılan bir adamın çocukça çizimi var."
+    },
+    {
+      "id": "4fc376c2",
+      "bank_id": "20f49600",
+      "text": "Halkı büyüleyen ve yolunuzu aydınlatan içsel bir güzellikle parıldıyor gibisiniz."
+    },
+    {
+      "id": "503060eb",
+      "bank_id": "20f49600",
+      "text": "Efsun Taşı"
+    },
+    {
+      "id": "52184985",
+      "bank_id": "20f49600",
+      "text": "Adil Haşmet"
+    },
+    {
+      "id": "56599c60",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Üzerinde üç fasulyeli güveç tarifi yazıyor ancak malzemelerde sadece iki çeşit fasulye istenmiş."
+    },
+    {
+      "id": "56dc6faf",
+      "bank_id": "20f49600",
+      "text": "Kumkazı Romu"
+    },
+    {
+      "id": "5e077150",
+      "bank_id": "20f49600",
+      "text": "Işıltı"
+    },
+    {
+      "id": "603375b7",
+      "bank_id": "20f49600",
+      "text": "Sürpriz, porto şarabı çıktı."
+    },
+    {
+      "id": "6035ec38",
+      "bank_id": "20f49600",
+      "text": "Kişi kendini beğenmiş bir ahmak olsaydı burnuyla ahududu, kavun ve ipek maymunu kokularını ayırt edebilirdi."
+    },
+    {
+      "id": "636bb5ed",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "6a0971d7",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Kenarlarını karmaşık bir sembol dizisi süslüyor."
+    },
+    {
+      "id": "6b740899",
+      "bank_id": "20f49600",
+      "text": "Üçüncü Kroki Parçası"
+    },
+    {
+      "id": "6de1f4c7",
+      "bank_id": "20f49600",
+      "text": "Haşmet dövmeleriniz sizi normalde olacağınızdan daha çekici kılar."
+    },
+    {
+      "id": "6f5ea722",
+      "bank_id": "20f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nDaha az hasar alırsınız ve bunu gösterecek yara izleriniz de olmaz."
+    },
+    {
+      "id": "761a4768",
+      "bank_id": "20f49600",
+      "text": "Tamamlanan Kroki"
+    },
+    {
+      "id": "77c14af6",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Ortasına oldukça edepsiz bir resim çizilmiş."
+    },
+    {
+      "id": "7a4c71c5",
+      "bank_id": "20f49600",
+      "text": "Kudretli Meşe Efsun Taşı"
+    },
+    {
+      "id": "7bde166d",
+      "bank_id": "20f49600",
+      "text": "Doğanın Miğferi"
+    },
+    {
+      "id": "7ccc19ab",
+      "bank_id": "20f49600",
+      "text": "Bu şarabı yapmak için zehirli böğürtlenleri ezenlerin ayaklarının yeşile dönüp koptuğu söylenir. Öte yandan biraz köpek öldüreni ve körlüğü dert etmiyorsanız sizi çabucak sarhoş eder."
+    },
+    {
+      "id": "7d35127d",
+      "bank_id": "20f49600",
+      "text": "Çekici Yara İzleri Efsun Taşı"
+    },
+    {
+      "id": "832ca1ac",
+      "bank_id": "20f49600",
+      "text": "Hobbe Suyu"
+    },
+    {
+      "id": "8488531f",
+      "bank_id": "20f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nCanınız pahasına ilave zırhınız olur: Canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "84c705ea",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "86125f55",
+      "bank_id": "20f49600",
+      "text": "Silahınız normal hasar yerine elektrik hasarı verir.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "87a91f1d",
+      "bank_id": "20f49600",
+      "text": "Fidan Efsun Taşı"
+    },
+    {
+      "id": "88a29a8c",
+      "bank_id": "20f49600",
+      "text": "Acı sos, tuz ve muhtemelen tinerden oluşan bir kokteyl."
+    },
+    {
+      "id": "89163591",
+      "bank_id": "20f49600",
+      "text": "Zehirli Böğürtlen İksiri"
+    },
+    {
+      "id": "89ac4c69",
+      "bank_id": "20f49600",
+      "text": "Estetik ameliyata gerek kalmadan sizi daha çekici kılacak büyülü bir efsun taşıdır.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "8b90d0ad",
+      "bank_id": "20f49600",
+      "text": "Haşmetli Savunma"
+    },
+    {
+      "id": "8e5927eb",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Sayfaya bir tür yaratığın, muhtemelen dev bir ördeğin büyük bir simgesi filigran olarak işlenmiş gibi görünüyor."
+    },
+    {
+      "id": "924a423a",
+      "bank_id": "20f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nİnsanlar yara izi tutmaya çok daha az meylli olan kusursuz teninize hayran kalır."
+    },
+    {
+      "id": "92b3e793",
+      "bank_id": "20f49600",
+      "text": "Ateş böcekleri bile güzelliğinize kapılır ve etrafınızda uçuşurlarken daha da çekici olursunuz."
+    },
+    {
+      "id": "938e64dd",
+      "bank_id": "20f49600",
+      "text": "Güzel ve Çirkin Efsun Taşı"
+    },
+    {
+      "id": "93dda876",
+      "bank_id": "20f49600",
+      "text": "İşveli Ayyaş"
+    },
+    {
+      "id": "94dbea1b",
+      "bank_id": "20f49600",
+      "text": "Daha fazla zırhınız olur ve sizi biraz daha çekici kılan ateş böcekleriyle çevrilirsiniz."
+    },
+    {
+      "id": "9828dad1",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "98908507",
+      "bank_id": "20f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nDaha yüksek zırh sağlar; dövüşte daha fazla hasar verip daha az hasar alırsınız. Hakikaten hiçbir olumsuz yanı yok."
+    },
+    {
+      "id": "9898f305",
+      "bank_id": "20f49600",
+      "text": "Çok zaman önce deniz suyunu içemeyeceklerini anlayan girişimci denizciler tarafından geliştirilen bu rom ve su karışımının etkileri, iriyarı bir lostromonun yüzünüze yumruk atmasından farksızdır."
+    },
+    {
+      "id": "9ef3584a",
+      "bank_id": "20f49600",
+      "text": "Sarı Peri"
+    },
+    {
+      "id": "9fd6a7a7",
+      "bank_id": "20f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nİnsanlara daha çekici gelirsiniz ancak güzellik her şey demek değildir: Canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "a301f4e0",
+      "bank_id": "20f49600",
+      "text": "Silahınızın hasar türünü elektriğe dönüştürür ve yüzünüze favoriler ekler. Hanımlar bayılır!"
+    },
+    {
+      "id": "a46a6215",
+      "bank_id": "20f49600",
+      "text": "Fırtınada Sığınak"
+    },
+    {
+      "id": "a55d9851",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Üzerinde güçlükle seçilebilen \"Bu bir rüya değil\" sözleri yazıyor."
+    },
+    {
+      "id": "aa2d08e5",
+      "bank_id": "20f49600",
+      "text": "Boş Kabuk Efsun Taşı"
+    },
+    {
+      "id": "abc5f4b5",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "abceb0b9",
+      "bank_id": "20f49600",
+      "text": "Şok Edici Saç Dökülmesi"
+    },
+    {
+      "id": "b0164502",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "b2ad427c",
+      "bank_id": "20f49600",
+      "text": "Gür bir sakalınız olur ve insanlar buna bayılır. Yüzünüze cuk oturur."
+    },
+    {
+      "id": "b68738fe",
+      "bank_id": "20f49600",
+      "text": "İkinci Kroki Parçası"
+    },
+    {
+      "id": "bcc2e97a",
+      "bank_id": "20f49600",
+      "text": "Seçkin Bordo Şarabı"
+    },
+    {
+      "id": "bd58a9c2",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Çoktan unutulmuş bir baladın nota kaydını içeriyor gibi görünüyor."
+    },
+    {
+      "id": "beabcfe1",
+      "bank_id": "20f49600",
+      "text": "Sürünün Savunması"
+    },
+    {
+      "id": "bf4f627f",
+      "bank_id": "20f49600",
+      "text": "Sözleşmede ölümünüzün ardından Lord Lucien Fairfax'ın Darius Zing'e 5.000 altın ödeyeceği ayrıntılarıyla belirtilmektedir."
+    },
+    {
+      "id": "c2d63cf7",
+      "bank_id": "20f49600",
+      "text": "Bunu herkes yakıştıramaz ama o kazıtılmış kafayla inanılmaz çekici görünüyorsunuz."
+    },
+    {
+      "id": "c6060518",
+      "bank_id": "20f49600",
+      "text": "Işık Ağacı"
+    },
+    {
+      "id": "c72d8e07",
+      "bank_id": "20f49600",
+      "text": "Birinci Kroki Parçası"
+    },
+    {
+      "id": "caa8ca1a",
+      "bank_id": "20f49600",
+      "text": "Suikastçılar Loncası'nın yerini gösteren bir harita. Altındaki ince yazıda şöyle deniyor: Hiçbir üye hiçbir zaman bu haritanın birden fazla parçasını üzerinde taşımamalıdır. Darius Zing'in emriyle."
+    },
+    {
+      "id": "cafec715",
+      "bank_id": "20f49600",
+      "text": "Bu sıradan bordo şarabındaki vanilya esintileri, meşe dokunuşları ve meyve reçeli fısıltıları tamamen hayal ürünüdür."
+    },
+    {
+      "id": "cb922aa0",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "cb9ca450",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "cd49b785",
+      "bank_id": "20f49600",
+      "text": "Karanlık Yıllanmış"
+    },
+    {
+      "id": "ce1ea534",
+      "bank_id": "20f49600",
+      "text": "Hasara karşı daha dayanıklısınız. Ya da belki acıyı hissetmeyecek kadar körkütük sarhoşsunuz."
+    },
+    {
+      "id": "d611cd56",
+      "bank_id": "20f49600",
+      "text": "Cazibeli Sakal Bıyık"
+    },
+    {
+      "id": "d73e44b6",
+      "bank_id": "20f49600",
+      "text": "Şerbetçiotu Efendisi"
+    },
+    {
+      "id": "dd960413",
+      "bank_id": "20f49600",
+      "text": "Çizim besbelli bir tür harita."
+    },
+    {
+      "id": "dede79af",
+      "bank_id": "20f49600",
+      "text": "Zamanın akışıyla bir miktar yıpranmış kadim bir parşömen. Üzerinde bir aslana binmiş, daha hızlı gitmesi için kırbaç kullanan bir farenin resmi var."
+    },
+    {
+      "id": "e13e6ae9",
+      "bank_id": "20f49600",
+      "text": "Azrail Zırhı"
+    },
+    {
+      "id": "e327ce4f",
+      "bank_id": "20f49600",
+      "text": "Aslında onlar ateş böcekleridir. Düşmanları normal hasar yerine elektrik hasarıyla çarpma yeteneğiniz gibi onlar da sizi biraz daha çekici kılar."
+    },
+    {
+      "id": "e6c8725f",
+      "bank_id": "20f49600",
+      "text": "Sofra Şarabı"
+    },
+    {
+      "id": "e91362c7",
+      "bank_id": "20f49600",
+      "text": "Bazı çevrelerde Kanı Emilen Gölgelerin Karanlık Rekoltesi olarak da bilinir. Gölgeler Tapınağı'nın ilk keşiş tarikatı tarafından yapılmış son derece nadir ve kadim bir şarap. Bir zamanlar kurban ayinlerinde kullanılırdı, şimdiyse aşırı zenginler tarafından koklanıyor, yudumlanıyor ve tükürülüyor."
+    },
+    {
+      "id": "e916effd",
+      "bank_id": "20f49600",
+      "text": "Ağaç Özsuyu Efsun Taşı"
+    },
+    {
+      "id": "eeb12a3c",
+      "bank_id": "20f49600",
+      "text": "Kadın olsanız bile her zaman gür ve kaba bir sakalınız olur."
+    },
+    {
+      "id": "ef3b1f1c",
+      "bank_id": "20f49600",
+      "text": "Her daim çakırkeyifsiniz ve etrafa sinyaller gönderme eğilimindesiniz. Bu da insanların size daha çok kapılmasını sağlar."
+    },
+    {
+      "id": "efee7e6e",
+      "bank_id": "20f49600",
+      "text": "Cesaret Şerbeti"
+    },
+    {
+      "id": "f449c776",
+      "bank_id": "20f49600",
+      "text": "Kadim Parşömen"
+    },
+    {
+      "id": "f750da2f",
+      "bank_id": "20f49600",
+      "text": "Saçlarınız pahasına ilave zırh kazandırır."
+    },
+    {
+      "id": "fb290230",
+      "bank_id": "20f49600",
+      "text": "Sertkereste Efsun Taşı"
+    },
+    {
+      "id": "fcbe9d82",
+      "bank_id": "20f49600",
+      "text": "Sakallı Yıldırım"
+    },
+    {
+      "id": "fd1151b7",
+      "bank_id": "20f49600",
+      "text": "Bu efsun taşı takılı olduğu sürece kelsinizdir. Yine de sakal bıyık bırakabilirsiniz."
+    }
+  ]
+}

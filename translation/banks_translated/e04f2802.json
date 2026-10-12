@@ -1,0 +1,796 @@
+{
+  "bank_id": "e04f2802",
+  "total_strings": 158,
+  "strings": [
+    {
+      "id": "073fbdfc",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin!"
+    },
+    {
+      "id": "1ad983c1",
+      "bank_id": "e04f2802",
+      "text": "Seni tekrar görmek her zaman bir zevk."
+    },
+    {
+      "id": "1ad983c2",
+      "bank_id": "e04f2802",
+      "text": "Aah, seni görmek ne güzel dostum."
+    },
+    {
+      "id": "1ad983c3",
+      "bank_id": "e04f2802",
+      "text": "Seni her zamanki gibi görmek harika."
+    },
+    {
+      "id": "1ad983c4",
+      "bank_id": "e04f2802",
+      "text": "Seni görmek her zaman harika."
+    },
+    {
+      "id": "1ad983c5",
+      "bank_id": "e04f2802",
+      "text": "Sevdiğim pek az insan vardır ama sen onlardan birisin."
+    },
+    {
+      "id": "1edf1c50",
+      "bank_id": "e04f2802",
+      "text": "Ah, seni tekrar gördüğüme çok sevindim!"
+    },
+    {
+      "id": "1edf1c51",
+      "bank_id": "e04f2802",
+      "text": "Seninle vakit geçirmekten gerçekten keyif alıyorum."
+    },
+    {
+      "id": "1edf1c52",
+      "bank_id": "e04f2802",
+      "text": "Buralardaki en güzel şeysin sen."
+    },
+    {
+      "id": "1edf1c53",
+      "bank_id": "e04f2802",
+      "text": "Gözlerime bayram ettirdin dostum."
+    },
+    {
+      "id": "1edf1c54",
+      "bank_id": "e04f2802",
+      "text": "Keşke herkes senin gibi olsa."
+    },
+    {
+      "id": "1edf1c55",
+      "bank_id": "e04f2802",
+      "text": "Sen gerçekten çok özelsin."
+    },
+    {
+      "id": "1edf1c57",
+      "bank_id": "e04f2802",
+      "text": "İyi bir insansın. Yani bence öyle."
+    },
+    {
+      "id": "21640370",
+      "bank_id": "e04f2802",
+      "text": "O inanılmaz şöhretinin başını döndürmediğini görmek ne güzel."
+    },
+    {
+      "id": "21640371",
+      "bank_id": "e04f2802",
+      "text": "Meşhur olabilirsin ama hâlâ aynı insansın. İşte senin bu huyunu seviyorum."
+    },
+    {
+      "id": "21640373",
+      "bank_id": "e04f2802",
+      "text": "Torunlarıma bir zamanlar nasıl ulu ve meşhur bir Kahraman'la tanıştığımı anlatabileceğim."
+    },
+    {
+      "id": "21640376",
+      "bank_id": "e04f2802",
+      "text": "Gelmiş geçmiş en büyük maceracısın sen."
+    },
+    {
+      "id": "21640377",
+      "bank_id": "e04f2802",
+      "text": "İtiraf etmeliyim ki ünlü bir dostumun olması hoşuma gidiyor."
+    },
+    {
+      "id": "25d99570",
+      "bank_id": "e04f2802",
+      "text": "Ah, seni tekrar görmek ne güzel."
+    },
+    {
+      "id": "25d99572",
+      "bank_id": "e04f2802",
+      "text": "Keşke daha çok insan senin gibi olsa."
+    },
+    {
+      "id": "25d99573",
+      "bank_id": "e04f2802",
+      "text": "Bütün maceracılar hakkında daha iyi düşünmemi sağlıyorsun."
+    },
+    {
+      "id": "25d99574",
+      "bank_id": "e04f2802",
+      "text": "Sen tek kelimeyle harikasın, cidden öylesin."
+    },
+    {
+      "id": "25d99575",
+      "bank_id": "e04f2802",
+      "text": "Seni gördüğüme her zaman çok memnun olurum."
+    },
+    {
+      "id": "25df2758",
+      "bank_id": "e04f2802",
+      "text": "Senin gibisi cidden yok."
+    },
+    {
+      "id": "25df2759",
+      "bank_id": "e04f2802",
+      "text": "Senin gibisi cidden yok."
+    },
+    {
+      "id": "25df275a",
+      "bank_id": "e04f2802",
+      "text": "Olabileceğin kadar harikasın."
+    },
+    {
+      "id": "25df275c",
+      "bank_id": "e04f2802",
+      "text": "Sen bir harikasın."
+    },
+    {
+      "id": "25df275d",
+      "bank_id": "e04f2802",
+      "text": "Her zamanki gibi bir harikasın."
+    },
+    {
+      "id": "25df275e",
+      "bank_id": "e04f2802",
+      "text": "En sevdiğim insanlardan birisin bilesin."
+    },
+    {
+      "id": "25df275f",
+      "bank_id": "e04f2802",
+      "text": "Hey, nasıl gidiyor ahbap?"
+    },
+    {
+      "id": "27cdb013",
+      "bank_id": "e04f2802",
+      "text": "Koca dünyadaki en sevdiğim meşhur kahramansın sen."
+    },
+    {
+      "id": "28640e72",
+      "bank_id": "e04f2802",
+      "text": "Bütün dünyada senden daha iyi bir ünlü yok!"
+    },
+    {
+      "id": "28640e73",
+      "bank_id": "e04f2802",
+      "text": "Arkadaşlarıma ne kadar şahane bir ünlüyü tanıdığımı anlatmaya bayılıyorum. Tek kelimeyle harikasın."
+    },
+    {
+      "id": "28640e74",
+      "bank_id": "e04f2802",
+      "text": "Senin gibi ünlü birini tanıdığım için çok şanslıyım."
+    },
+    {
+      "id": "28640e75",
+      "bank_id": "e04f2802",
+      "text": "Dünyadaki en sevdiğim ünlü sensin!"
+    },
+    {
+      "id": "28640e76",
+      "bank_id": "e04f2802",
+      "text": "Gelmiş geçmiş en büyük ünlüsün sen!"
+    },
+    {
+      "id": "2a3a3238",
+      "bank_id": "e04f2802",
+      "text": "Senin için yapabileceğim bir şey var mı?"
+    },
+    {
+      "id": "2a3a3239",
+      "bank_id": "e04f2802",
+      "text": "Yardım edebileceğim bir şey var mı ahbap?"
+    },
+    {
+      "id": "2a3a323d",
+      "bank_id": "e04f2802",
+      "text": "Fevkaladesin."
+    },
+    {
+      "id": "2a3a323e",
+      "bank_id": "e04f2802",
+      "text": "Bir şeye ihtiyacın olursa bana haber ver."
+    },
+    {
+      "id": "2a3a323f",
+      "bank_id": "e04f2802",
+      "text": "Bir şeye ihtiyacın olursa hemen söyle bana."
+    },
+    {
+      "id": "2ecdbb16",
+      "bank_id": "e04f2802",
+      "text": "Vay canına! Gelmiş geçmiş en meşhur kahraman gibisin! Çok büyüksün!"
+    },
+    {
+      "id": "353a4368",
+      "bank_id": "e04f2802",
+      "text": "Nasıl gidiyor ahbap?"
+    },
+    {
+      "id": "353a4369",
+      "bank_id": "e04f2802",
+      "text": "Umarım iyisindir."
+    },
+    {
+      "id": "353a436c",
+      "bank_id": "e04f2802",
+      "text": "Seni görmek bile günümü aydınlatıyor."
+    },
+    {
+      "id": "353a436e",
+      "bank_id": "e04f2802",
+      "text": "Seni gördüğüme her zaman çok mutlu olurum."
+    },
+    {
+      "id": "353a436f",
+      "bank_id": "e04f2802",
+      "text": "Sana dostum diyebildiğim için çok mutluyum."
+    },
+    {
+      "id": "373b8c1a",
+      "bank_id": "e04f2802",
+      "text": "Seni görmek ne güzel!"
+    },
+    {
+      "id": "373b8c1b",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin!"
+    },
+    {
+      "id": "373b8c1c",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin!"
+    },
+    {
+      "id": "373b8c1d",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin!"
+    },
+    {
+      "id": "373b8c1e",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin!"
+    },
+    {
+      "id": "403b9a68",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin!"
+    },
+    {
+      "id": "403b9a69",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin!"
+    },
+    {
+      "id": "403b9a6b",
+      "bank_id": "e04f2802",
+      "text": "Yine seninle karşılaşmayı umuyordum."
+    },
+    {
+      "id": "403b9a6e",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin! Nasıl gidiyor?"
+    },
+    {
+      "id": "403b9a6f",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin!"
+    },
+    {
+      "id": "4b182b78",
+      "bank_id": "e04f2802",
+      "text": "Ünlenmeye başladığını görüyorum. Başaracağını biliyordum."
+    },
+    {
+      "id": "50183319",
+      "bank_id": "e04f2802",
+      "text": "Evet, elbette adını duydum!"
+    },
+    {
+      "id": "5018331a",
+      "bank_id": "e04f2802",
+      "text": "Bir gün harika bir Kahraman olarak anılacağını adım gibi biliyorum."
+    },
+    {
+      "id": "5018331b",
+      "bank_id": "e04f2802",
+      "text": "Bayağı meşhur olmaya başladın, değil mi?"
+    },
+    {
+      "id": "5018331c",
+      "bank_id": "e04f2802",
+      "text": "Evet, daha geçen gün son görevin hakkında dedikodular duydum."
+    },
+    {
+      "id": "5018331d",
+      "bank_id": "e04f2802",
+      "text": "Vay be, amma da tanınır oldun ha!"
+    },
+    {
+      "id": "5018331e",
+      "bank_id": "e04f2802",
+      "text": "Son marifetlerin hakkında çok güzel şeyler duydum. Aynen böyle devam et."
+    },
+    {
+      "id": "5018331f",
+      "bank_id": "e04f2802",
+      "text": "Ününün artacağını tahmin etmiştim, beni haklı çıkarıyorsun."
+    },
+    {
+      "id": "51345f72",
+      "bank_id": "e04f2802",
+      "text": "Canavarlarla dövüşürken yardıma ihtiyacın olursa haber ver!"
+    },
+    {
+      "id": "55d3d092",
+      "bank_id": "e04f2802",
+      "text": "Buralardaki en iyi insansın sen."
+    },
+    {
+      "id": "5a346d5f",
+      "bank_id": "e04f2802",
+      "text": "Belki bir gün ben de senin kadar büyük biri olabilirim."
+    },
+    {
+      "id": "5ed3deff",
+      "bank_id": "e04f2802",
+      "text": "Büyüyünce tıpkı senin gibi olmak istiyorum."
+    },
+    {
+      "id": "6670b460",
+      "bank_id": "e04f2802",
+      "text": "Öyle harikasın ki! Hem de ünlü birisin!"
+    },
+    {
+      "id": "6670b461",
+      "bank_id": "e04f2802",
+      "text": "Tanıştığım en cana yakın ünlüsün sen."
+    },
+    {
+      "id": "6670b463",
+      "bank_id": "e04f2802",
+      "text": "Şöhretini senin kadar hak eden hiç kimse yok."
+    },
+    {
+      "id": "6670b466",
+      "bank_id": "e04f2802",
+      "text": "Senden daha ünlü ya da daha parlak kimse yok."
+    },
+    {
+      "id": "6670b467",
+      "bank_id": "e04f2802",
+      "text": "Senin gibi meşhur biriyle canciğer kuzu sarması olduğum için insanlar beni öyle kıskanıyor ki."
+    },
+    {
+      "id": "67d29221",
+      "bank_id": "e04f2802",
+      "text": "Vay be! Yani... Vaaaaay canına! En iyisi sensin! Ne Kahraman ama!"
+    },
+    {
+      "id": "67d29222",
+      "bank_id": "e04f2802",
+      "text": "Bütün maceralarını adım adım takip ettim. Çok heyecan vericisin! Ve çok meşhursun!"
+    },
+    {
+      "id": "67d29224",
+      "bank_id": "e04f2802",
+      "text": "Seninle konuştuğum için heyecandan altıma kaçıracağım vallahi! Gerçek bir ünlü!"
+    },
+    {
+      "id": "67d29226",
+      "bank_id": "e04f2802",
+      "text": "Şüphesiz şimdiye dek tanıştığım en şanlı, en seçkin maceracısınız."
+    },
+    {
+      "id": "680c83b4",
+      "bank_id": "e04f2802",
+      "text": "Seni görmek her zaman güzel."
+    },
+    {
+      "id": "680c83b7",
+      "bank_id": "e04f2802",
+      "text": "Keşke bütün vatandaşlar senin gibi olsa."
+    },
+    {
+      "id": "69e40f94",
+      "bank_id": "e04f2802",
+      "text": "Hey, benim için bir sürü yaratık öldür tamam mı?"
+    },
+    {
+      "id": "6d70bf62",
+      "bank_id": "e04f2802",
+      "text": "Bugünlerde hiç de az meşhur değilsin hani. Benim göğsümü kabartıyorsun."
+    },
+    {
+      "id": "6d70bf63",
+      "bank_id": "e04f2802",
+      "text": "Bütün dünya kim olduğunu biliyor. Bana sorarsan bundan daha azını hak etmezdin zaten."
+    },
+    {
+      "id": "6d70bf64",
+      "bank_id": "e04f2802",
+      "text": "Şöhretin baş döndürücü zirvelerine tırmandın."
+    },
+    {
+      "id": "6d70bf65",
+      "bank_id": "e04f2802",
+      "text": "Efsanelerdeki o Kahramanlar kadar meşhur olmayı hak ediyorsun."
+    },
+    {
+      "id": "6d70bf66",
+      "bank_id": "e04f2802",
+      "text": "Senin kadar ünlü biriyle hiç karşılaşmamıştım."
+    },
+    {
+      "id": "6ee417b5",
+      "bank_id": "e04f2802",
+      "text": "Nasılsın?"
+    },
+    {
+      "id": "72d2a352",
+      "bank_id": "e04f2802",
+      "text": "Ooooh! Artık öyle meşhursun ki gerçek olduğuna inanamıyorum neredeyse!"
+    },
+    {
+      "id": "72d2a353",
+      "bank_id": "e04f2802",
+      "text": "Vay canına! Bugün kimi gördüğümü bütün arkadaşlarıma anlatmak için sabırsızlanıyorum! Bana inanmayacaklar!"
+    },
+    {
+      "id": "72d2a354",
+      "bank_id": "e04f2802",
+      "text": "Sizinle konuşmak bir zevk ve şereftir. Gerçekten öyle."
+    },
+    {
+      "id": "72d2a356",
+      "bank_id": "e04f2802",
+      "text": "Maceracılar arasında eşiniz benzeriniz yok, sizinle aynı havayı solumaktan onur duyuyorum."
+    },
+    {
+      "id": "7eef9871",
+      "bank_id": "e04f2802",
+      "text": "Vaaaaaay canına! Bu seeensin! Harika! Dünyadaki en sevdiğim Kahraman'sın sen! Gelmiş geçmiş en iyisi!"
+    },
+    {
+      "id": "80193240",
+      "bank_id": "e04f2802",
+      "text": "Bu kadar büyük ve ünlü birinin yanında bulunmaktan onur duyuyorum."
+    },
+    {
+      "id": "80193241",
+      "bank_id": "e04f2802",
+      "text": "Ah, senin gibi sevimli ünlülerin yanında elim ayağım birbirine dolanıyor!"
+    },
+    {
+      "id": "80193242",
+      "bank_id": "e04f2802",
+      "text": "Böylesi bir üne kavuştuğunu görmekten büyük memnuniyet duyuyorum."
+    },
+    {
+      "id": "80193243",
+      "bank_id": "e04f2802",
+      "text": "Ah, geçmişte pek çok ünlüye dostum dedim ama hiçbiri senin kadar büyük değildi."
+    },
+    {
+      "id": "80193244",
+      "bank_id": "e04f2802",
+      "text": "Tarihe bir efsane, büyük bir zat, hatta bir ilah olarak geçeceksin!"
+    },
+    {
+      "id": "80193246",
+      "bank_id": "e04f2802",
+      "text": "Kimse ünü senin kadar hak etmiyor."
+    },
+    {
+      "id": "80193247",
+      "bank_id": "e04f2802",
+      "text": "Şöhretinin her zerresini hak ediyorsun ey yüce Kahraman!"
+    },
+    {
+      "id": "8145099c",
+      "bank_id": "e04f2802",
+      "text": "Yaşlı bir muhafız için bu sokakları aydınlatıyorsun vallahi."
+    },
+    {
+      "id": "8145099f",
+      "bank_id": "e04f2802",
+      "text": "Senin gibi insanları suçtan korumak bir ayrıcalıktır."
+    },
+    {
+      "id": "85193a60",
+      "bank_id": "e04f2802",
+      "text": "Gerçek bir ünlüyle arkadaş olduğuma hâlâ inanamıyorum."
+    },
+    {
+      "id": "85193a61",
+      "bank_id": "e04f2802",
+      "text": "Şuna da bak! Bayağı meşhur olmuşsun falan."
+    },
+    {
+      "id": "85193a62",
+      "bank_id": "e04f2802",
+      "text": "Bu kadar ünlü biriyle konuştuğuma inanamıyorum!"
+    },
+    {
+      "id": "85193a63",
+      "bank_id": "e04f2802",
+      "text": "Ünlülerle dostluk kurma konusunda eski bir geçmişim vardır. Ama sen hepsini gölgede bıraktın."
+    },
+    {
+      "id": "85193a65",
+      "bank_id": "e04f2802",
+      "text": "Ah, gerçek bir ünlüyle konuşmak öyle muazzam ki!"
+    },
+    {
+      "id": "85193a66",
+      "bank_id": "e04f2802",
+      "text": "Akıl almaz derecede meşhursun. Ama son derece haklı sebeplerle."
+    },
+    {
+      "id": "85193a67",
+      "bank_id": "e04f2802",
+      "text": "Şöhretinin her zerresini hak ediyorsun."
+    },
+    {
+      "id": "89efa9a0",
+      "bank_id": "e04f2802",
+      "text": "Oooooh! En büyüksün sen! Biliyorum herkes söylüyordur bunu. Ama ben ciiiidden içten söylüyorum!"
+    },
+    {
+      "id": "a91362e3",
+      "bank_id": "e04f2802",
+      "text": "Vay canına! Bu çok havalı! En büyük hayranınım senin!"
+    },
+    {
+      "id": "af997348",
+      "bank_id": "e04f2802",
+      "text": "Nasılsın?"
+    },
+    {
+      "id": "b0136de6",
+      "bank_id": "e04f2802",
+      "text": "Bu çok harika! Herkesten daha meşhursun. En sevdiğim Kahraman'sın!"
+    },
+    {
+      "id": "b4997b69",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin! Havalı."
+    },
+    {
+      "id": "b74d1d71",
+      "bank_id": "e04f2802",
+      "text": "Örnek bir vatandaşsınız."
+    },
+    {
+      "id": "b74d1d72",
+      "bank_id": "e04f2802",
+      "text": "A, sizsiniz. Harika."
+    },
+    {
+      "id": "b9e9e4c0",
+      "bank_id": "e04f2802",
+      "text": "Dünyadaki bütün şöhreti hak ediyorsun. Helal olsun!"
+    },
+    {
+      "id": "b9e9e4c1",
+      "bank_id": "e04f2802",
+      "text": "Vay canına! Senin kadar meşhur biriyle tanışacağım hiç aklıma gelmezdi!"
+    },
+    {
+      "id": "b9e9e4c2",
+      "bank_id": "e04f2802",
+      "text": "Bu inanılmaz! Sensin! Albion'un gelmiş geçmiş en büyük maceracılarından biri!"
+    },
+    {
+      "id": "b9e9e4c4",
+      "bank_id": "e04f2802",
+      "text": "Huzurunuzda durmak ne büyük bir şereftir yüce Kahraman."
+    },
+    {
+      "id": "b9e9e4c5",
+      "bank_id": "e04f2802",
+      "text": "Şöhretiniz tüm dünyayı dolaştı ve söylemeliyim ki bunu fazlasıyla hak ettiniz."
+    },
+    {
+      "id": "b9e9e4c6",
+      "bank_id": "e04f2802",
+      "text": "Sensin! Biri beni çimdiklesin, rüya görüyor olmalıyım!"
+    },
+    {
+      "id": "b9e9e4c7",
+      "bank_id": "e04f2802",
+      "text": "Vallahi sen Kahraman değilsen dünyada hiç Kahraman olmamış demektir!"
+    },
+    {
+      "id": "c2e9f328",
+      "bank_id": "e04f2802",
+      "text": "Nutkum tutuldu. Gerçekten de bugüne kadar tanıştığım en itibarlı şahsiyetlerden birisiniz."
+    },
+    {
+      "id": "c2e9f329",
+      "bank_id": "e04f2802",
+      "text": "Ah ne kutlu bir gün ki sizin gibi yüce biriyle müşerref oldum!"
+    },
+    {
+      "id": "c2e9f32a",
+      "bank_id": "e04f2802",
+      "text": "Vay canına! Kanlı canlı karşılaştığım en meşhur maceracı sen olmalısın."
+    },
+    {
+      "id": "c2e9f32b",
+      "bank_id": "e04f2802",
+      "text": "Yaşayan en şanslı adam ben olmalıyım! Senin gibisiyle tanışacağım hiç aklıma gelmezdi!"
+    },
+    {
+      "id": "c2e9f32c",
+      "bank_id": "e04f2802",
+      "text": "Hakkında her şeyi duydum! Tıpkı... tıpkı o efsanelerdeki ulu Kahramanlar gibisin!"
+    },
+    {
+      "id": "c2e9f32d",
+      "bank_id": "e04f2802",
+      "text": "Ooooh! Gerçekten sensin! Öyle harikasın ki! Koyu bir hayranınım!"
+    },
+    {
+      "id": "c2e9f32f",
+      "bank_id": "e04f2802",
+      "text": "Vay canına! Sen olduğuna inanamıyorum!"
+    },
+    {
+      "id": "cc02d3d9",
+      "bank_id": "e04f2802",
+      "text": "Yok, adın hiç tanıdık gelmiyor maalesef."
+    },
+    {
+      "id": "cc02d3db",
+      "bank_id": "e04f2802",
+      "text": "İşlenmemiş bir elmassın sen. Birkaç yıllık macera seni kusursuzca parlatacaktır."
+    },
+    {
+      "id": "cc02d3dd",
+      "bank_id": "e04f2802",
+      "text": "Adını henüz duymamış olmam günün birinde meşhur olamayacağın anlamına gelmez."
+    },
+    {
+      "id": "cc02d3df",
+      "bank_id": "e04f2802",
+      "text": "Kusura bakma, kim olduğuna dair en ufak bir fikrim yok."
+    },
+    {
+      "id": "d702e508",
+      "bank_id": "e04f2802",
+      "text": "Geleceğin yıldızlarını iyi koklarım ve kokunu ta buradan alabiliyorum."
+    },
+    {
+      "id": "d702e50b",
+      "bank_id": "e04f2802",
+      "text": "Sabırlı ol, mükâfatın dillere destan bir şöhret ve servet olacak."
+    },
+    {
+      "id": "d702e50c",
+      "bank_id": "e04f2802",
+      "text": "İnsanların seni tanıması için muhtemelen biraz daha etkileyici işler yapman gerek..."
+    },
+    {
+      "id": "d702e50f",
+      "bank_id": "e04f2802",
+      "text": "Çok iyi bir maceracı olduğuna eminim. Sadece, bilirsin işte, hakkında pek bir şey duymadım..."
+    },
+    {
+      "id": "d893a3e0",
+      "bank_id": "e04f2802",
+      "text": "Sizi görmek harika."
+    },
+    {
+      "id": "d893a3e1",
+      "bank_id": "e04f2802",
+      "text": "Şimdiye kadarki bütün engelleri aştığınızı görmek beni memnun etti."
+    },
+    {
+      "id": "dc0707d1",
+      "bank_id": "e04f2802",
+      "text": "Sizi tekrar görmek bir zevk."
+    },
+    {
+      "id": "dc0707d2",
+      "bank_id": "e04f2802",
+      "text": "Umarım iyisinizdir."
+    },
+    {
+      "id": "e5a9bf38",
+      "bank_id": "e04f2802",
+      "text": "Henüz büyük bir üne kavuşmamış olabilirsin ama şöhret seni bekliyor."
+    },
+    {
+      "id": "e5a9bf39",
+      "bank_id": "e04f2802",
+      "text": "Sıkı çalışma ve azim seni büyüklüğe ulaştıracaktır, eminim."
+    },
+    {
+      "id": "e5a9bf3a",
+      "bank_id": "e04f2802",
+      "text": "En iyi maceracıların bile tanınması zaman alır."
+    },
+    {
+      "id": "e5a9bf3b",
+      "bank_id": "e04f2802",
+      "text": "Yok, affedersin, meşhur olduğunu söyleyemem. Ama sadece sabırlı ol."
+    },
+    {
+      "id": "e5a9bf3c",
+      "bank_id": "e04f2802",
+      "text": "Tanınan bir şampiyon olmak zaman ve emek ister. Ama sende o kumaş var."
+    },
+    {
+      "id": "e5a9bf3d",
+      "bank_id": "e04f2802",
+      "text": "Günün birinde meşhur olacaksın, merak etme. Görürsün bak."
+    },
+    {
+      "id": "e5a9bf3e",
+      "bank_id": "e04f2802",
+      "text": "İnsanların yakında seni tanımaya başlayacağına eminim. Sen sadece iyi olan için dövüşmeye devam et."
+    },
+    {
+      "id": "e7d7dedd",
+      "bank_id": "e04f2802",
+      "text": "Umarım sokaklarımızın güvenliğinden memnunsundur."
+    },
+    {
+      "id": "e7d7dede",
+      "bank_id": "e04f2802",
+      "text": "Seni görmek öyle güzel ki."
+    },
+    {
+      "id": "eea9cd08",
+      "bank_id": "e04f2802",
+      "text": "Sadece insanların aklında yer edecek birkaç şey yapman gerek. O zaman herkes kim olduğunu bilir."
+    },
+    {
+      "id": "eea9cd09",
+      "bank_id": "e04f2802",
+      "text": "Gerçekten çok üzgünüm ama henüz o kadar meşhur değilsin."
+    },
+    {
+      "id": "eea9cd0b",
+      "bank_id": "e04f2802",
+      "text": "Bahse girerim süper bir maceracısın. Günün birinde meşhur olacaksın."
+    },
+    {
+      "id": "eea9cd0c",
+      "bank_id": "e04f2802",
+      "text": "İnsan bir gecede herkesin tanıdığı biri olmayı bekleyemez. Ama başaracak kumaşın olduğuna eminim."
+    },
+    {
+      "id": "eea9cd0d",
+      "bank_id": "e04f2802",
+      "text": "Bütün büyük maceracıların şöhrete kavuşması yıllarca görev yapmayı gerektirdi. Seninki de gelecek."
+    },
+    {
+      "id": "eea9cd0e",
+      "bank_id": "e04f2802",
+      "text": "Meraklanma sakın, işini yapmaya devam edersen meşhur olursun."
+    },
+    {
+      "id": "eea9cd0f",
+      "bank_id": "e04f2802",
+      "text": "Bir gecede büyük isim olunmaz. Ama günün birinde sana da nasip olur."
+    },
+    {
+      "id": "fc3fac4d",
+      "bank_id": "e04f2802",
+      "text": "Hey, sensin!"
+    }
+  ]
+}

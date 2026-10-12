@@ -1,0 +1,681 @@
+{
+  "bank_id": "70afb600",
+  "total_strings": 135,
+  "strings": [
+    {
+      "id": "00f4eeb2",
+      "bank_id": "70afb600",
+      "text": "Korkunç Kahkaha"
+    },
+    {
+      "id": "023a98ad",
+      "bank_id": "70afb600",
+      "text": "Teşekkür"
+    },
+    {
+      "id": "0389a186",
+      "bank_id": "70afb600",
+      "text": "Mistik Murgo'nun dükkânı, paha biçilmez harikalar ve değersiz süs eşyalarıyla dolu bir hazinedir."
+    },
+    {
+      "id": "042906e1",
+      "bank_id": "70afb600",
+      "text": "Son Fener"
+    },
+    {
+      "id": "04b4a997",
+      "bank_id": "70afb600",
+      "text": "Lanetli Kar Küresi"
+    },
+    {
+      "id": "064eb6fb",
+      "bank_id": "70afb600",
+      "text": "Semavi Hisar"
+    },
+    {
+      "id": "06a8c260",
+      "bank_id": "70afb600",
+      "text": "Veda"
+    },
+    {
+      "id": "06e7b01a",
+      "bank_id": "70afb600",
+      "text": "Yalvar"
+    },
+    {
+      "id": "08257ef0",
+      "bank_id": "70afb600",
+      "text": "Tesadüf bu ya, o kutuyu getiren aynı kaynak bana her bakımdan onun kadar dikkate değer yeni bir eşya getireceğine söz verdi. Geleceği görmenizi sağlayan bir eşya! Ah evet."
+    },
+    {
+      "id": "0a2581d6",
+      "bank_id": "70afb600",
+      "text": "Kaynağım, içindeki minyatür köyü eziyetinden ancak sizin gibi saygıdeğer bir Kahramanın kurtarabileceğine beni temin etti."
+    },
+    {
+      "id": "0b258349",
+      "bank_id": "70afb600",
+      "text": "Ama şimdilik sevimli ama hafif lanetli bir kar küresiyle yetinmek zorunda kalacağız."
+    },
+    {
+      "id": "0d2586af",
+      "bank_id": "70afb600",
+      "text": "Hayatta bir kez karşınıza çıkacak bu alışverişi yapın ve en iyi stoklarıma göz atın. Turistlere sattığım o çöplerden hiçbiri yok. Bu bir Murgo sözüdür. Hatta başlamanız için işte size birkaç parça eşya."
+    },
+    {
+      "id": "0ff68680",
+      "bank_id": "70afb600",
+      "text": "Benim deyimimle Her Şeyi Gören Gaipten Haber Alma İletkeni'ni henüz temin edemedim."
+    },
+    {
+      "id": "11f689e6",
+      "bank_id": "70afb600",
+      "text": "Böyle... Çekici bir teklife karşı koyamazsınız herhalde?"
+    },
+    {
+      "id": "12f68b59",
+      "bank_id": "70afb600",
+      "text": "Fakat kaynağım bana ilki kadar lanetli ikinci bir antika getirdi."
+    },
+    {
+      "id": "18ae7fd5",
+      "bank_id": "70afb600",
+      "text": "Kule'de olanları duydum. Sizi suçlayamam. O minik tüylü dost çok kıymetli. Hem de nadir."
+    },
+    {
+      "id": "19b60534",
+      "bank_id": "70afb600",
+      "text": "Biraz daha hırlaşmaya hazırsınızdır herhalde?"
+    },
+    {
+      "id": "1ab606a7",
+      "bank_id": "70afb600",
+      "text": "Satmayı denerdim ama malum kişi bundan pek hoşlanmayabilir. O... O kızınca hiç hoşuma gitmiyor."
+    },
+    {
+      "id": "1bb6081a",
+      "bank_id": "70afb600",
+      "text": "Hadi ama, alın şunu."
+    },
+    {
+      "id": "1c95769a",
+      "bank_id": "70afb600",
+      "text": "Lanetli eşya %1 altın karşılığında satın alınsın mı?"
+    },
+    {
+      "id": "1e659722",
+      "bank_id": "70afb600",
+      "text": "Kule'nin dikkate değer bir replika maketi. Elinizde tuttuğunuzda, gerçek Kule'nin duvarlarından yayılan o aynı doğaüstü uğultuyu hissediyorsunuz."
+    },
+    {
+      "id": "1eb095c6",
+      "bank_id": "70afb600",
+      "text": "Lanetli Kurukafa"
+    },
+    {
+      "id": "22713286",
+      "bank_id": "70afb600",
+      "text": "Öpücük"
+    },
+    {
+      "id": "22ca73db",
+      "bank_id": "70afb600",
+      "text": "Kule'de olanları duydum. Sizi suçlayamam. Koca bir altın dağına kim hayır diyebilir ki?"
+    },
+    {
+      "id": "2a3e555a",
+      "bank_id": "70afb600",
+      "text": "Kupa"
+    },
+    {
+      "id": "2b0c2f68",
+      "bank_id": "70afb600",
+      "text": "Başarısız Görev"
+    },
+    {
+      "id": "2fff4469",
+      "bank_id": "70afb600",
+      "text": "Murgo'nun Karavanı"
+    },
+    {
+      "id": "331e9f5d",
+      "bank_id": "70afb600",
+      "text": "Cheet-Ur Mahzeni\n\nBu mahzen yalnızca dört ayaklı sevgili bir dostunu kaybetmiş olanların karşısına çıkar. Köpeğinizi köpeklerin ahiretinden geri getirmek için mahzene bir insan kurban götürmelisiniz.\nAdadaki ilk yerleşimciler arasındaki en güçlü büyücü olan Cheet-Ur, tanınmış bir köpek aşığıydı. Diğer insanlara ise pek bayılmazdı."
+    },
+    {
+      "id": "3762e423",
+      "bank_id": "70afb600",
+      "text": "Lanetli kar küresi %1 altın karşılığında satın alınsın mı?"
+    },
+    {
+      "id": "3b738f9d",
+      "bank_id": "70afb600",
+      "text": "Tehdit Et"
+    },
+    {
+      "id": "3f0b1c7c",
+      "bank_id": "70afb600",
+      "text": "Murgo'nun eşyası alınsın mı?"
+    },
+    {
+      "id": "4066db43",
+      "bank_id": "70afb600",
+      "text": "Hırla"
+    },
+    {
+      "id": "40e9b8c3",
+      "bank_id": "70afb600",
+      "text": "Kar Küresi"
+    },
+    {
+      "id": "41ea1047",
+      "bank_id": "70afb600",
+      "text": "Ayrıl"
+    },
+    {
+      "id": "434afbb9",
+      "bank_id": "70afb600",
+      "text": "(sızlanır)"
+    },
+    {
+      "id": "45f0cd81",
+      "bank_id": "70afb600",
+      "text": "Gizemli Mağara"
+    },
+    {
+      "id": "47a0cf21",
+      "bank_id": "70afb600",
+      "text": "Köpeğiniz bu dünyadan göçmüş olabilir ama onu ötelerden geri getirmenin bir yolu hâlâ bulunabilir. Daha fazlasını öğrenmek için Knothole Adası'ndaki büyülü mahzene gidin."
+    },
+    {
+      "id": "4dbb3fcc",
+      "bank_id": "70afb600",
+      "text": "Kolezyum"
+    },
+    {
+      "id": "5559487b",
+      "bank_id": "70afb600",
+      "text": "Şu Oakfield keşişleriyle biraz vakit geçirdiğinizi duydum. Onlarla altın meşe maketleri satma işine girmeye çalıştım ama pek hevesli değillerdi."
+    },
+    {
+      "id": "562fe393",
+      "bank_id": "70afb600",
+      "text": "Çekici Duruş"
+    },
+    {
+      "id": "5b40b309",
+      "bank_id": "70afb600",
+      "text": "Kıçımı Öp"
+    },
+    {
+      "id": "5c460f0b",
+      "bank_id": "70afb600",
+      "text": "Geleceğe yaptığınız ziyaretten döndünüz mü? Olumlu geçmiştir umarım, değil mi? Yarın nalları dikeceğinizi öğrenmek için onca zahmete girmek istemezsiniz. Ha ha!"
+    },
+    {
+      "id": "5d4610fe",
+      "bank_id": "70afb600",
+      "text": "İşlerim gayet tıkırında gidiyor. Hepsi sizin sayenizde. İnsanların tüm bu nadir ve mucizevi nesneleri edindiğinizi görmesinden daha iyi bir reklam olamaz."
+    },
+    {
+      "id": "5e461251",
+      "bank_id": "70afb600",
+      "text": "Kaynağım -şey, artık kim olduğunu biliyorsunuzdur herhalde- sizin için son bir şey bıraktı. Yalnızca bir Kahramanın tadını çıkarmayı umabileceği bir şey."
+    },
+    {
+      "id": "5f4613c4",
+      "bank_id": "70afb600",
+      "text": "Sürprizi bozmak istemem ama onu kullandığınızda silahınız hazır olsun."
+    },
+    {
+      "id": "619d7869",
+      "bank_id": "70afb600",
+      "text": "Şapka, Saç Bandı, Bıyık"
+    },
+    {
+      "id": "64083627",
+      "bank_id": "70afb600",
+      "text": "Kahkaha"
+    },
+    {
+      "id": "668a7b09",
+      "bank_id": "70afb600",
+      "text": "Orta Parmak"
+    },
+    {
+      "id": "66cc5fb9",
+      "bank_id": "70afb600",
+      "text": "Ah, güzel, döndünüz."
+    },
+    {
+      "id": "6b440cb8",
+      "bank_id": "70afb600",
+      "text": "Ufacık bile olsa merak etmiyor musunuz?"
+    },
+    {
+      "id": "6d440f9e",
+      "bank_id": "70afb600",
+      "text": "Siz laneti kaldırana kadar kaynağım bana başka özel eşya getirmeyecek. Şey, bu konuda çok ısrarcıydılar."
+    },
+    {
+      "id": "6d8ca94e",
+      "bank_id": "70afb600",
+      "text": "Kule'de biraz vakit geçirdiğinizi duydum. Korkunç, çok korkunç. Satabileceğim güzel bir hediyelik eşya görmediniz, değil mi?"
+    },
+    {
+      "id": "6e441171",
+      "bank_id": "70afb600",
+      "text": "Şu kar küresini sallayana kadar bekleyin hele. [kıkırdar]"
+    },
+    {
+      "id": "6e542e60",
+      "bank_id": "70afb600",
+      "text": "Bu kapı başka bir yerden açılır."
+    },
+    {
+      "id": "70543146",
+      "bank_id": "70afb600",
+      "text": "Bu kapı kilitli."
+    },
+    {
+      "id": "71543339",
+      "bank_id": "70afb600",
+      "text": "Yakında düşman varken bu kapıyı açamazsınız."
+    },
+    {
+      "id": "725434ac",
+      "bank_id": "70afb600",
+      "text": "Bu kapı yalnızca bir uçuşan çark ile açılabilir."
+    },
+    {
+      "id": "7354361f",
+      "bank_id": "70afb600",
+      "text": "Bu kapı şu anda açılamaz."
+    },
+    {
+      "id": "76c1e530",
+      "bank_id": "70afb600",
+      "text": "Yol Kesenler Loncası, ölümüyle tam iş birliği yaptığı için bu cesede teşekkür eder."
+    },
+    {
+      "id": "76c1e531",
+      "bank_id": "70afb600",
+      "text": "Ben öldüm. Daha ne istiyorsun?"
+    },
+    {
+      "id": "76c1e532",
+      "bank_id": "70afb600",
+      "text": "Yanımda değerli bir eşyayla gömülmedim, tamam mı?"
+    },
+    {
+      "id": "7a15a379",
+      "bank_id": "70afb600",
+      "text": "Gaz Çıkar"
+    },
+    {
+      "id": "7a9b3f73",
+      "bank_id": "70afb600",
+      "text": "Ayna Sisi"
+    },
+    {
+      "id": "7b6dd4d3",
+      "bank_id": "70afb600",
+      "text": "Takip Et/Ayrıl"
+    },
+    {
+      "id": "7c46b008",
+      "bank_id": "70afb600",
+      "text": "Burada sadık dostunuz yatıyor. Yaşadığı gibi öldü: Yanı başınızda."
+    },
+    {
+      "id": "7e79b862",
+      "bank_id": "70afb600",
+      "text": "Tavlama Cümlesi"
+    },
+    {
+      "id": "85031d9d",
+      "bank_id": "70afb600",
+      "text": "Hakaret Et"
+    },
+    {
+      "id": "885ce3f5",
+      "bank_id": "70afb600",
+      "text": "Öpücük Gönder"
+    },
+    {
+      "id": "894378cd",
+      "bank_id": "70afb600",
+      "text": "Bu küçük kar küresi son derece gerçekçi bir köy maketi içeriyor. Kulağınıza tutarsanız, çığlık atan insanların uzaktan gelen seslerini güçlükle seçebilirsiniz."
+    },
+    {
+      "id": "8960324f",
+      "bank_id": "70afb600",
+      "text": "Demek Bloodstone'da Reaver ile tanıştınız, öyle mi? Tuhaf herif. Bir keresinde beni vurmaya kalkmıştı."
+    },
+    {
+      "id": "8a1642ca",
+      "bank_id": "70afb600",
+      "text": "Haraç Kes"
+    },
+    {
+      "id": "8a3d5144",
+      "bank_id": "70afb600",
+      "text": "Kule'de olanları duydum. Çoğu insanın ne yaptığınız hakkında fikri bile yok. Ama ben gerçek bir Kahramanı gördüğümde tanırım."
+    },
+    {
+      "id": "8cb107c3",
+      "bank_id": "70afb600",
+      "text": "Beni hatırladınız, değil mi? Murgo! Albion'un en güvenilir mistik alet ve efsunlu eşya tedarikçisi."
+    },
+    {
+      "id": "8db109b6",
+      "bank_id": "70afb600",
+      "text": "Şey, karşımda bir Kahraman gördüğüme inanıyorum. Hakiki bir büyülü müzik kutusunu başka kim tanıyabilirdi ki zaten? Evet, sizi hatırlıyorum!"
+    },
+    {
+      "id": "8fcdedde",
+      "bank_id": "70afb600",
+      "text": "Hediye"
+    },
+    {
+      "id": "8fdd9456",
+      "bank_id": "70afb600",
+      "text": "Tapınma"
+    },
+    {
+      "id": "900d3a5f",
+      "bank_id": "70afb600",
+      "text": "Hava durumunun kontrolünü ait olduğu yere, yani halka geri verdiniz. Artık sadece onların sonsuz minnettarlığına sahip olmakla kalmadınız, dilediğiniz zaman Hava Odası'na girip kar yağdırabilir, yağmur yağdırabilir ya da her yeri güneş ışığına boğabilirsiniz."
+    },
+    {
+      "id": "9a0e3f4c",
+      "bank_id": "70afb600",
+      "text": "Çukur gözler size körlemesine bakıyor ve omurganızdan yukarı bir dehşet ürpertisinin aktığını hissetmekten kendinizi alamıyorsunuz."
+    },
+    {
+      "id": "9c16bb9e",
+      "bank_id": "70afb600",
+      "text": "Zafer Yumruğu"
+    },
+    {
+      "id": "9d12ec92",
+      "bank_id": "70afb600",
+      "text": "Tebrikler! Gordon'u başarıyla dinlediniz ve ücretsiz eşyalarınızı topladınız. Elbette laf bedavadır ama egzotik yeni yerlere seyahat etmek biraz daha pahalıya patlar. Gordon'un denizaltısını tamir etmesine yardım etmek için indirilebilir içeriğin tamamını satın alın."
+    },
+    {
+      "id": "9d12ec97",
+      "bank_id": "70afb600",
+      "text": "Knothole Adası halkının hayatına güneş ışığı getirdiniz. İksir dükkânı stoklarını yenileyebildi ve Sırlar Kutusu'nda yeni eşyalar açıldı."
+    },
+    {
+      "id": "9e12ee0a",
+      "bank_id": "70afb600",
+      "text": "Sayenizde Büyük Knothole Sıcak Dalgası sona erdi. Göller dolacak, ekinler büyüyecek, banyolar yapılacak. Efsun taşı dükkânı da artık stoklarına erişebilmeli."
+    },
+    {
+      "id": "9e2bfaf2",
+      "bank_id": "70afb600",
+      "text": "Islık Çal"
+    },
+    {
+      "id": "a0a70290",
+      "bank_id": "70afb600",
+      "text": "(hırlar)"
+    },
+    {
+      "id": "a5ac68ed",
+      "bank_id": "70afb600",
+      "text": "Mersin Kulübesi: Yalnızca Davetle"
+    },
+    {
+      "id": "aa2ff230",
+      "bank_id": "70afb600",
+      "text": "Kule Heykeli"
+    },
+    {
+      "id": "ab71a662",
+      "bank_id": "70afb600",
+      "text": "Odun Kes"
+    },
+    {
+      "id": "b57f55c7",
+      "bank_id": "70afb600",
+      "text": "Korkarım hâlâ karavanımı kuruyorum. Ama tüm stoklarım geldiğinde öyle muhteşem eşyalar göreceksiniz ki rüyalarınız bile ağlayacak."
+    },
+    {
+      "id": "b67f57ba",
+      "bank_id": "70afb600",
+      "text": "Özel bir müşteri olduğunuz için, sizi idare edecek birkaç parça eşya burada."
+    },
+    {
+      "id": "b8e674a3",
+      "bank_id": "70afb600",
+      "text": "Alkışla"
+    },
+    {
+      "id": "bed2d2ff",
+      "bank_id": "70afb600",
+      "text": "Ah, buradasınız işte! Kaynağım sonunda geldi."
+    },
+    {
+      "id": "c0281151",
+      "bank_id": "70afb600",
+      "text": "Alın, sizin olsun. Bunu asla başka kimseye satamam ve doğrusunu söylemek gerekirse bana dehşet veriyor. Hem de o iyi türden değil."
+    },
+    {
+      "id": "c0344972",
+      "bank_id": "70afb600",
+      "text": "Edepsiz Hamle"
+    },
+    {
+      "id": "c12812c4",
+      "bank_id": "70afb600",
+      "text": "Güzel bir kristal küre veya bazı hoş kartlar umuyordum; bir kova sakatat bile bundan daha iyi olurdu."
+    },
+    {
+      "id": "c22814b7",
+      "bank_id": "70afb600",
+      "text": "Elimde geleceğe dair vizyonlar sunan o eşya var ve şey... Pek beklediğim gibi bir şey değil."
+    },
+    {
+      "id": "c328162a",
+      "bank_id": "70afb600",
+      "text": "Kaynağım sonunda sözünü tuttu!"
+    },
+    {
+      "id": "c409fca2",
+      "bank_id": "70afb600",
+      "text": "Parmakla Gösterip Gül"
+    },
+    {
+      "id": "d2c92494",
+      "bank_id": "70afb600",
+      "text": "Bu fiyata böylesini hiçbir yerde bulamazsınız."
+    },
+    {
+      "id": "d31f69d9",
+      "bank_id": "70afb600",
+      "text": "Özür Dile"
+    },
+    {
+      "id": "d3c92607",
+      "bank_id": "70afb600",
+      "text": "Aramızda kalsın, önce siz sıkı çalışmadığınız sürece kaynağımın o kehanet aletini teslim edeceğini hiç sanmıyorum."
+    },
+    {
+      "id": "d5c9296d",
+      "bank_id": "70afb600",
+      "text": "Bu gizemli eşya inanılmaz maceralara açılan kapınızdır. Bana söylenen buydu en azından."
+    },
+    {
+      "id": "d6d6c4e7",
+      "bank_id": "70afb600",
+      "text": "Buraya Gel İşareti Yap"
+    },
+    {
+      "id": "dea43fde",
+      "bank_id": "70afb600",
+      "text": "Kahramanca Kahkaha"
+    },
+    {
+      "id": "df52754f",
+      "bank_id": "70afb600",
+      "text": "Kan Arzusu Kükremesi"
+    },
+    {
+      "id": "e210e7c8",
+      "bank_id": "70afb600",
+      "text": "Geğir"
+    },
+    {
+      "id": "e5c77b89",
+      "bank_id": "70afb600",
+      "text": "Çorap Kuklası"
+    },
+    {
+      "id": "ea7281bc",
+      "bank_id": "70afb600",
+      "text": "Bowerstone'a giden tüm yollar haydutlar tarafından kesildi. Oakfield'deki biri onları nasıl temizleyeceğiniz konusunda size daha fazla bilgi verebilecektir."
+    },
+    {
+      "id": "eab8b2a1",
+      "bank_id": "70afb600",
+      "text": "Dans Et"
+    },
+    {
+      "id": "ee16d509",
+      "bank_id": "70afb600",
+      "text": "Korkak Tavuk"
+    },
+    {
+      "id": "f10dec37",
+      "bank_id": "70afb600",
+      "text": "Bize Gidelim"
+    },
+    {
+      "id": "f239c41e",
+      "bank_id": "70afb600",
+      "text": "Peki ya siz? Bir Çile şampiyonusunuz ne de olsa. Eskiden kombine biletim vardı ama şu Murray gerçekten asabımı bozuyor. Kaçık herif."
+    },
+    {
+      "id": "f2e69902",
+      "bank_id": "70afb600",
+      "text": "Hava durumu üzerindeki gücü bir zorbaya ve bir soytarıya verdiniz. Küçük insanlar kimin umurunda ki zaten? Yalnızca ödülünüzü almakla kalmadınız, dilediğiniz zaman Hava Odası'na girip kar yağdırabilir, yağmur yağdırabilir ya da her yeri güneş ışığına boğabilirsiniz."
+    },
+    {
+      "id": "f439a700",
+      "bank_id": "70afb600",
+      "text": "Joss Moore. Öldü. Sonra düzeltilecek."
+    },
+    {
+      "id": "f49ce687",
+      "bank_id": "70afb600",
+      "text": "Kurt Islığı"
+    },
+    {
+      "id": "f4f2f486",
+      "bank_id": "70afb600",
+      "text": "Tebrikler! Hisar'ın gizli kalbine indiniz ve zaferle çıktınız."
+    },
+    {
+      "id": "f539a8f0",
+      "bank_id": "70afb600",
+      "text": "Mark Backler. Kaçırıldı. Şantaja uğradı. Kapıdan asla geçemedi."
+    },
+    {
+      "id": "f539a8f1",
+      "bank_id": "70afb600",
+      "text": "Adam Jethro Langridge. Patentleri beklemede."
+    },
+    {
+      "id": "f539a8f2",
+      "bank_id": "70afb600",
+      "text": "D ve J. Sonsuza dek birlikte."
+    },
+    {
+      "id": "f539a8f4",
+      "bank_id": "70afb600",
+      "text": "Cassandra. Bir ceset gibi giyinmeyi severdi. Şimdi öyle oldu."
+    },
+    {
+      "id": "f539a8f5",
+      "bank_id": "70afb600",
+      "text": "\"Beni öldüremezsiniz! Ben yenilmezim!\" Son sözleri."
+    },
+    {
+      "id": "f539a8f6",
+      "bank_id": "70afb600",
+      "text": "JC Taylor. Hamsterlar tarafından canlı canlı yendi."
+    },
+    {
+      "id": "f539a8f7",
+      "bank_id": "70afb600",
+      "text": "J Eckersley. İmzalar: Kuyruk burada başlıyor."
+    },
+    {
+      "id": "f539a8fa",
+      "bank_id": "70afb600",
+      "text": "P. Robinson. Doğuştan sağ kalan."
+    },
+    {
+      "id": "f539a8fb",
+      "bank_id": "70afb600",
+      "text": "Bryn Davies. Diğer mezarları kazdıktan sonra nihayet dinlenmesine izin verildi."
+    },
+    {
+      "id": "f5e000cb",
+      "bank_id": "70afb600",
+      "text": "(havlar)"
+    },
+    {
+      "id": "f8ff80c5",
+      "bank_id": "70afb600",
+      "text": "Şu Thag'a sahiden gününü gösterdiğinizi duydum. İşlerimi mahveden onun gibi iğrenç haydutlar."
+    },
+    {
+      "id": "fd7f3454",
+      "bank_id": "70afb600",
+      "text": "Cheet-Ur Mahzeni'ne bir kurban sunmak için kol çekilsin mi?"
+    },
+    {
+      "id": "fe7f0060",
+      "bank_id": "70afb600",
+      "text": "Murgo ile konuşun."
+    },
+    {
+      "id": "fe7f0062",
+      "bank_id": "70afb600",
+      "text": "Murgo'ya dönün."
+    },
+    {
+      "id": "fe7f0063",
+      "bank_id": "70afb600",
+      "text": "Kar küresini kullanın."
+    },
+    {
+      "id": "fe7f0064",
+      "bank_id": "70afb600",
+      "text": "Kurukafayı kullanın."
+    },
+    {
+      "id": "fe7f0065",
+      "bank_id": "70afb600",
+      "text": "Murgo'ya dönün."
+    },
+    {
+      "id": "fe7f0066",
+      "bank_id": "70afb600",
+      "text": "Kule Heykeli'ni kullanın."
+    },
+    {
+      "id": "fe7f0067",
+      "bank_id": "70afb600",
+      "text": "Murgo'ya dönün."
+    },
+    {
+      "id": "fe7f0069",
+      "bank_id": "70afb600",
+      "text": "Murgo'ya dönün."
+    }
+  ]
+}

@@ -1,0 +1,831 @@
+{
+  "bank_id": "904e2802",
+  "total_strings": 165,
+  "strings": [
+    {
+      "id": "01008069",
+      "bank_id": "904e2802",
+      "text": "Pöh. Sensin demek."
+    },
+    {
+      "id": "0100806a",
+      "bank_id": "904e2802",
+      "text": "Değişiklik olsun diye başka bir kasabayı ziyaret etsene sen?"
+    },
+    {
+      "id": "0100806b",
+      "bank_id": "904e2802",
+      "text": "Havamızı israf ediyorsun."
+    },
+    {
+      "id": "0100806c",
+      "bank_id": "904e2802",
+      "text": "Bana kalsaydı seni çoktan kasabadan kovmuştum."
+    },
+    {
+      "id": "0100806d",
+      "bank_id": "904e2802",
+      "text": "Bu koku da ne? Ah, senmişsin."
+    },
+    {
+      "id": "0b3f5a10",
+      "bank_id": "904e2802",
+      "text": "Birinin seni umursadığını mı sanıyorsun? Adını bile duymadık."
+    },
+    {
+      "id": "0b3f5a13",
+      "bank_id": "904e2802",
+      "text": "Senin gibi berbat biri asla bir baltaya sap olamaz."
+    },
+    {
+      "id": "0b3f5a15",
+      "bank_id": "904e2802",
+      "text": "İtibar mı? Sahip olduğun tek itibar baş belası olmandır."
+    },
+    {
+      "id": "0b3f5a16",
+      "bank_id": "904e2802",
+      "text": "Geber git, adın her ne karın ağrısıysa!"
+    },
+    {
+      "id": "123f6511",
+      "bank_id": "904e2802",
+      "text": "Maceracılığın temiz adını lekeliyorsun ama zaten kimse seni hatırlamayacak."
+    },
+    {
+      "id": "123f6512",
+      "bank_id": "904e2802",
+      "text": "Asla ünlü bir maceracı olamayacaksın. Bir kere ezik olan hep ezik kalır."
+    },
+    {
+      "id": "123f6514",
+      "bank_id": "904e2802",
+      "text": "Senden gına geldi artık, adını bile bilmiyorum üstelik!"
+    },
+    {
+      "id": "123f6515",
+      "bank_id": "904e2802",
+      "text": "Kim olduğun kimsenin umurunda değil!"
+    },
+    {
+      "id": "182d6d84",
+      "bank_id": "904e2802",
+      "text": "Aşağı atlayabileceğin bir köprü olmalı buralarda. Bacağına taş bağlamayı unutma ama."
+    },
+    {
+      "id": "182d6d87",
+      "bank_id": "904e2802",
+      "text": "Kanunu korumaya yemin etmemiş olsaydım kaval kemiğine tekmeyi basardım."
+    },
+    {
+      "id": "24faa8e7",
+      "bank_id": "904e2802",
+      "text": "Senin gibi pisliklerle konuşmam ben."
+    },
+    {
+      "id": "2bfab3ea",
+      "bank_id": "904e2802",
+      "text": "Çok korkunçsun! Git buradan."
+    },
+    {
+      "id": "3596b260",
+      "bank_id": "904e2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "3596b261",
+      "bank_id": "904e2802",
+      "text": "Öff!"
+    },
+    {
+      "id": "3596b264",
+      "bank_id": "904e2802",
+      "text": "Öff!"
+    },
+    {
+      "id": "3596b266",
+      "bank_id": "904e2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "3596b267",
+      "bank_id": "904e2802",
+      "text": "Rüyamda patladığını ve parçalarının her yere saçıldığını gördüm. Uyanmak zorunda kalmam ne yazık."
+    },
+    {
+      "id": "3a96ba00",
+      "bank_id": "904e2802",
+      "text": "Öff!"
+    },
+    {
+      "id": "3a96ba01",
+      "bank_id": "904e2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "3a96ba05",
+      "bank_id": "904e2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "3a96ba06",
+      "bank_id": "904e2802",
+      "text": "Bugün senden nefret ettiğimi söylemiş miydim?"
+    },
+    {
+      "id": "3a96ba07",
+      "bank_id": "904e2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "3dad9e5c",
+      "bank_id": "904e2802",
+      "text": "En sevmediğim vatandaşlardan birisin. O yüzden ayağını denk al."
+    },
+    {
+      "id": "3dad9e5f",
+      "bank_id": "904e2802",
+      "text": "Sokaklarımızı istila edip durmak zorunda mısın?"
+    },
+    {
+      "id": "450afa8d",
+      "bank_id": "904e2802",
+      "text": "Çok huysuzsun. Beni yalnız bırak."
+    },
+    {
+      "id": "500b0c3c",
+      "bank_id": "904e2802",
+      "text": "Beş para etmezsin."
+    },
+    {
+      "id": "5451a4e8",
+      "bank_id": "904e2802",
+      "text": "Ünlü olmayı hak etmiyorsun."
+    },
+    {
+      "id": "5951ac89",
+      "bank_id": "904e2802",
+      "text": "Ünlü insanları severdim sanıyordum ama kimse senden hoşlanmıyor."
+    },
+    {
+      "id": "598f0930",
+      "bank_id": "904e2802",
+      "text": "Bana kalsaydı seni zindana atar, anahtarı da çöpe atardım."
+    },
+    {
+      "id": "598f0933",
+      "bank_id": "904e2802",
+      "text": "Lütfen bir kanunu çiğne. Kılıcımı sana saplamak için sabırsızlanıyorum."
+    },
+    {
+      "id": "5a5b8958",
+      "bank_id": "904e2802",
+      "text": "Ünlüsün diye dik kafalı bir ahmak olmadığın anlamına gelmez."
+    },
+    {
+      "id": "5a5b8959",
+      "bank_id": "904e2802",
+      "text": "Senin gibi ünlülerin yüzüne tükürürüm ben."
+    },
+    {
+      "id": "5a5b895d",
+      "bank_id": "904e2802",
+      "text": "Şöhretini al da başka yere git."
+    },
+    {
+      "id": "5a5b895e",
+      "bank_id": "904e2802",
+      "text": "Bir ünlü olduğunu biliyorum ama bu seni sevmek zorunda olduğum anlamına gelmez."
+    },
+    {
+      "id": "5a5b895f",
+      "bank_id": "904e2802",
+      "text": "Büyük, meşhur bir maceracı olabilirsin ama benim gözümde hep bir aptal kalacaksın."
+    },
+    {
+      "id": "5b8acac0",
+      "bank_id": "904e2802",
+      "text": "Kimse seni sevmiyor! Kimse seni sevmiyor!"
+    },
+    {
+      "id": "60a1b41d",
+      "bank_id": "904e2802",
+      "text": "Gözüm üzerinde."
+    },
+    {
+      "id": "60a1b41e",
+      "bank_id": "904e2802",
+      "text": "Seni izliyorum."
+    },
+    {
+      "id": "655b9a88",
+      "bank_id": "904e2802",
+      "text": "O meşhur kıçını al da defol buradan."
+    },
+    {
+      "id": "655b9a89",
+      "bank_id": "904e2802",
+      "text": "Eskiden ünlülerin harika olduğunu düşünürdüm. Sonra seninle tanıştım."
+    },
+    {
+      "id": "655b9a8c",
+      "bank_id": "904e2802",
+      "text": "Oh, burnu havada bir ünlüye daha tahammülüm yok."
+    },
+    {
+      "id": "655b9a8e",
+      "bank_id": "904e2802",
+      "text": "Kendin hakkında çok yüksek fikirlere sahipsin, değil mi?"
+    },
+    {
+      "id": "655b9a8f",
+      "bank_id": "904e2802",
+      "text": "Hakkında duyduklarım arttıkça adını duymaktan daha çok nefret ediyorum."
+    },
+    {
+      "id": "6b462157",
+      "bank_id": "904e2802",
+      "text": "Çok aptalsın sadece."
+    },
+    {
+      "id": "6c0527c0",
+      "bank_id": "904e2802",
+      "text": "Yüzünü görmeye katlanamıyorum, o yüzden gözümün önünden çekil."
+    },
+    {
+      "id": "6c0527c1",
+      "bank_id": "904e2802",
+      "text": "Neyin çok güzel olacağını biliyor musun? Beni rahat bıraksan çok güzel olurdu."
+    },
+    {
+      "id": "6c0527c2",
+      "bank_id": "904e2802",
+      "text": "Uza buradan, olur mu?"
+    },
+    {
+      "id": "6c0527c6",
+      "bank_id": "904e2802",
+      "text": "Çekil gözümün önünden."
+    },
+    {
+      "id": "6c0527c7",
+      "bank_id": "904e2802",
+      "text": "Kendini ateşe versene sen?"
+    },
+    {
+      "id": "6dcfd82e",
+      "bank_id": "904e2802",
+      "text": "Kim olduğunu herkesin bilmesinin tek sebebi çok huysuz olman."
+    },
+    {
+      "id": "72462c5a",
+      "bank_id": "904e2802",
+      "text": "Leş gibi kokuyorsun!"
+    },
+    {
+      "id": "74ae5ab7",
+      "bank_id": "904e2802",
+      "text": "Maceralarının haberlerini alıp duruyoruz yani, ne olmuş?"
+    },
+    {
+      "id": "7505362a",
+      "bank_id": "904e2802",
+      "text": "Toprak ye de geber."
+    },
+    {
+      "id": "7505362b",
+      "bank_id": "904e2802",
+      "text": "Defol git."
+    },
+    {
+      "id": "7505362c",
+      "bank_id": "904e2802",
+      "text": "Dünyada görmekten en çok zevk alacağım kişisin... Yavaş ve korkunç bir ölümle ölürken."
+    },
+    {
+      "id": "7505362d",
+      "bank_id": "904e2802",
+      "text": "İkile."
+    },
+    {
+      "id": "7505362f",
+      "bank_id": "904e2802",
+      "text": "Sen! Öğğ!"
+    },
+    {
+      "id": "76cfe67b",
+      "bank_id": "904e2802",
+      "text": "Bir kulüp kurdum biliyor musun. Senden nefret edenler kulübü!"
+    },
+    {
+      "id": "7c0e88e0",
+      "bank_id": "904e2802",
+      "text": "Senden nefret ettiğimden değil, yüzünü bir daha hiç görmesem umurumda olmaz sadece."
+    },
+    {
+      "id": "7c0e88e1",
+      "bank_id": "904e2802",
+      "text": "Bütün maceracılar senin gibi aşağılık mıdır?"
+    },
+    {
+      "id": "7c0e88e2",
+      "bank_id": "904e2802",
+      "text": "Milletten öyle kolay nefret eden biri değilimdir. Ama senin ciğerinden nefret ediyorum."
+    },
+    {
+      "id": "7c0e88e6",
+      "bank_id": "904e2802",
+      "text": "Seninle konuşacağıma bir bacağımı kaybetmeyi yeğlerim."
+    },
+    {
+      "id": "7c0e88e7",
+      "bank_id": "904e2802",
+      "text": "Daha ne kadar sana katlanmak zorundayım?"
+    },
+    {
+      "id": "7d4bd500",
+      "bank_id": "904e2802",
+      "text": "Senin gibi birinin bu kadar ünlü olabilmesi toplumumuz adına acı bir tablodur."
+    },
+    {
+      "id": "7d4bd501",
+      "bank_id": "904e2802",
+      "text": "Normalde ünlülerle düşüp kalkarım ama seni görmezden gelmeyi yeğlerim."
+    },
+    {
+      "id": "7d4bd502",
+      "bank_id": "904e2802",
+      "text": "Her zamanki gibi şöhretinle hava atmaya mı geldin?"
+    },
+    {
+      "id": "7d4bd503",
+      "bank_id": "904e2802",
+      "text": "Pöh! Ünlülermiş. Hiçbirinize tahammül edemiyorum."
+    },
+    {
+      "id": "7d4bd504",
+      "bank_id": "904e2802",
+      "text": "Ne kadar ünlü olduğun fark etmez. Hâlâ beş para etmezsin."
+    },
+    {
+      "id": "7d4bd505",
+      "bank_id": "904e2802",
+      "text": "Başarını gözüme sokup durma."
+    },
+    {
+      "id": "7d4bd507",
+      "bank_id": "904e2802",
+      "text": "Yeryüzünde yer israfı olan bir başka ünlü daha."
+    },
+    {
+      "id": "844be008",
+      "bank_id": "904e2802",
+      "text": "Kendini pek büyük ve ünlü sanıyorsun. Ama beş para etmezsin."
+    },
+    {
+      "id": "844be009",
+      "bank_id": "904e2802",
+      "text": "Şöhretinin seni özel kıldığını mı sanıyorsun? Hiç de öyle değil."
+    },
+    {
+      "id": "844be00a",
+      "bank_id": "904e2802",
+      "text": "Umurumda olmayan bir ünlü daha."
+    },
+    {
+      "id": "844be00c",
+      "bank_id": "904e2802",
+      "text": "Şöhret dürüstlüğün yerini tutamaz."
+    },
+    {
+      "id": "844be00d",
+      "bank_id": "904e2802",
+      "text": "Ünün olabilir ama zerre asaletin yok."
+    },
+    {
+      "id": "844be00e",
+      "bank_id": "904e2802",
+      "text": "Beni rahat bırak seni kendini beğenmiş herif."
+    },
+    {
+      "id": "844be00f",
+      "bank_id": "904e2802",
+      "text": "Geber git. Ne kadar ünlü olduğun umurumda bile değil."
+    },
+    {
+      "id": "850e96ca",
+      "bank_id": "904e2802",
+      "text": "A merhaba canım dostum! Yani, defol git seni koca baş belası."
+    },
+    {
+      "id": "850e96cb",
+      "bank_id": "904e2802",
+      "text": "Bir fikrim var. Dilini yutsana sen."
+    },
+    {
+      "id": "850e96cc",
+      "bank_id": "904e2802",
+      "text": "O kendini beğenmiş kafanı koparan olmadı mı hâlâ?"
+    },
+    {
+      "id": "850e96cd",
+      "bank_id": "904e2802",
+      "text": "Bir virüsle arkadaş olmayı yeğlerim."
+    },
+    {
+      "id": "850e96cf",
+      "bank_id": "904e2802",
+      "text": "Laftan anlamıyor musun sen? Sevmiyorum seni."
+    },
+    {
+      "id": "8d5e4334",
+      "bank_id": "904e2802",
+      "text": "Koca dünyadaki herkes senin ne kadar aptal olduğunu biliyor."
+    },
+    {
+      "id": "925e4ad5",
+      "bank_id": "904e2802",
+      "text": "Sırf meşhursun falan diye burnun havada."
+    },
+    {
+      "id": "a2840818",
+      "bank_id": "904e2802",
+      "text": "Ayakkabıma yapışan çamur kadar anca itibarın var."
+    },
+    {
+      "id": "a284081a",
+      "bank_id": "904e2802",
+      "text": "Ezik! Ünlü değilsin ve asla da ünlü olamayacaksın!"
+    },
+    {
+      "id": "a284081b",
+      "bank_id": "904e2802",
+      "text": "Çekil gözümün önünden seni adı sanı belirsiz işe yaramaz!"
+    },
+    {
+      "id": "a284081c",
+      "bank_id": "904e2802",
+      "text": "Kıçımda senden daha çok ünü olan çıbanlar var be!"
+    },
+    {
+      "id": "a284081d",
+      "bank_id": "904e2802",
+      "text": "Çekil karşımdan, her kimsen artık!"
+    },
+    {
+      "id": "a284081e",
+      "bank_id": "904e2802",
+      "text": "Seni vasatlıktan kurtaracak bir şöhretin bile yok."
+    },
+    {
+      "id": "a284081f",
+      "bank_id": "904e2802",
+      "text": "Vaktimi senin gibi kimliği belirsiz alçaklarla harcamam ben!"
+    },
+    {
+      "id": "a7841039",
+      "bank_id": "904e2802",
+      "text": "Kendine maceracı mı diyorsun yani? Adını duyan bile yok."
+    },
+    {
+      "id": "a784103a",
+      "bank_id": "904e2802",
+      "text": "Buralarda kimsenin seni tanımadığına adım gibi eminim. Zaten umursamazlar da."
+    },
+    {
+      "id": "a784103b",
+      "bank_id": "904e2802",
+      "text": "Ha! Kulak kirim bile senden daha meşhurdur!"
+    },
+    {
+      "id": "a784103c",
+      "bank_id": "904e2802",
+      "text": "Adını hiç duymadım! Neden biraz daha incir çekirdeğini doldurmaz görevlere çıkmıyorsun? Ha ha."
+    },
+    {
+      "id": "a784103d",
+      "bank_id": "904e2802",
+      "text": "Dünyada yer israfısın sen! Adını bile duyan yok!"
+    },
+    {
+      "id": "a784103e",
+      "bank_id": "904e2802",
+      "text": "Senin gibi aşağılık bir mahlukun şöhret hayali kurabileceğini mi sanıyorsun? Ha!"
+    },
+    {
+      "id": "a784103f",
+      "bank_id": "904e2802",
+      "text": "Bizim gibilerin arasına karışmaya nasıl cüret edersin köylü! Ünün bile yok senin."
+    },
+    {
+      "id": "b2d4c1d8",
+      "bank_id": "904e2802",
+      "text": "Ha, kendini özel sanıyorsun değil mi? Bizim gibi sıradan insanlardan üstün olduğunu zannediyorsun!"
+    },
+    {
+      "id": "b2d4c1d9",
+      "bank_id": "904e2802",
+      "text": "Al o meşhur suratını da defol buradan!"
+    },
+    {
+      "id": "b2d4c1da",
+      "bank_id": "904e2802",
+      "text": "İtibarının ne kadar yüksek olduğu umurumda değil. Benden zerre hayranlık göremeyeceksin."
+    },
+    {
+      "id": "b2d4c1db",
+      "bank_id": "904e2802",
+      "text": "Belki de geçmişin o ulu Kahramanları gibisindir. En çok nefret edilenlerinden biri yani."
+    },
+    {
+      "id": "b2d4c1dd",
+      "bank_id": "904e2802",
+      "text": "Bütün Albion'un adını duymuş olması ne yazık. Kimsenin tanımadığı biri olarak ölmeni umuyordum."
+    },
+    {
+      "id": "b2d4c1de",
+      "bank_id": "904e2802",
+      "text": "O koca itibarın benim gözümde beş para etmez bilesin!"
+    },
+    {
+      "id": "b2d4c1df",
+      "bank_id": "904e2802",
+      "text": "Ne kadar ünlü olduğun umurumda değil. Bir haydutsun, bir alçaksın sen."
+    },
+    {
+      "id": "b64b1490",
+      "bank_id": "904e2802",
+      "text": "Defol git."
+    },
+    {
+      "id": "b64b1491",
+      "bank_id": "904e2802",
+      "text": "Bu kadar susamış olmasaydım yüzüne tükürürdüm."
+    },
+    {
+      "id": "b64b1492",
+      "bank_id": "904e2802",
+      "text": "Volkanlarla dolu diyarlar olduğunu duydum. Belki birinin içine dalıverirsin."
+    },
+    {
+      "id": "b64b1493",
+      "bank_id": "904e2802",
+      "text": "Dünyaya bir iyilik yap da bir hendekte geber."
+    },
+    {
+      "id": "b64b1494",
+      "bank_id": "904e2802",
+      "text": "Beni yalnız bırak."
+    },
+    {
+      "id": "b64b1496",
+      "bank_id": "904e2802",
+      "text": "İkile seni geri zekâlı."
+    },
+    {
+      "id": "b64b1497",
+      "bank_id": "904e2802",
+      "text": "Aşağı atlayabileceğin bir köprü olmalı buralarda. Bacağına taş bağlamayı unutma ama."
+    },
+    {
+      "id": "bb4b1cb0",
+      "bank_id": "904e2802",
+      "text": "Bir hela çukurunda boğulsaydın dünya daha güzel bir yer olurdu."
+    },
+    {
+      "id": "bb4b1cb1",
+      "bank_id": "904e2802",
+      "text": "Seni sevmiyorum. Kimse seni sevmiyor. İstenmiyorsun burada. Anladın mı?"
+    },
+    {
+      "id": "bb4b1cb2",
+      "bank_id": "904e2802",
+      "text": "Varlığın bile duygularıma bir hakarettir."
+    },
+    {
+      "id": "bb4b1cb3",
+      "bank_id": "904e2802",
+      "text": "Belki başka bir yere gidebilirsin. Mesela okyanusun dibine."
+    },
+    {
+      "id": "bb4b1cb5",
+      "bank_id": "904e2802",
+      "text": "Senin gibi insanlar yüzünden bu dünya bu halde."
+    },
+    {
+      "id": "bb4b1cb6",
+      "bank_id": "904e2802",
+      "text": "Sokaklarımızı istila edip durmak zorunda mısın?"
+    },
+    {
+      "id": "bb4b1cb7",
+      "bank_id": "904e2802",
+      "text": "Sen! Hâlâ kafana yıldırım falan çarpmadı mı senin?"
+    },
+    {
+      "id": "bdd4d308",
+      "bank_id": "904e2802",
+      "text": "O süslü ünün gözümü boyamaz bilesin."
+    },
+    {
+      "id": "bdd4d309",
+      "bank_id": "904e2802",
+      "text": "Bak sen, herkesin dilindeki o koca kafalı, böbürlenen maceracı değil mi bu? Kaybol buradan."
+    },
+    {
+      "id": "bdd4d30a",
+      "bank_id": "904e2802",
+      "text": "Şöhretinden artık gına geldi. Senden katbekat daha layık maceracılar var."
+    },
+    {
+      "id": "bdd4d30b",
+      "bank_id": "904e2802",
+      "text": "Bizim çevrelerde çok konuşuluyorsun. Hepimiz senden iğreniyoruz."
+    },
+    {
+      "id": "bdd4d30c",
+      "bank_id": "904e2802",
+      "text": "Maceralarını duymaktan öyle bıktım ki. Zerre umurumda değiller!"
+    },
+    {
+      "id": "bdd4d30e",
+      "bank_id": "904e2802",
+      "text": "Yüzünü görmeye hâlâ katlanamıyorum. Artık ne kadar meşhur olduğun zerre umurumda değil."
+    },
+    {
+      "id": "bdd4d30f",
+      "bank_id": "904e2802",
+      "text": "Önünde diz çökmemiz falan gerektiğini düşünüyorsun herhalde. Asla!"
+    },
+    {
+      "id": "bf91b561",
+      "bank_id": "904e2802",
+      "text": "Senin hakkında bir şeyler duymaktan öyle bıktım ki."
+    },
+    {
+      "id": "bf91b562",
+      "bank_id": "904e2802",
+      "text": "Ünlü bir maceracı olabilirsin ama bu benim için hiçbir anlam ifade etmiyor."
+    },
+    {
+      "id": "bf91b563",
+      "bank_id": "904e2802",
+      "text": "Yine mi sen. Hep o şöhretinle hava atıyorsun."
+    },
+    {
+      "id": "bf91b564",
+      "bank_id": "904e2802",
+      "text": "Evet evet, meşhursun, ne olmuş yani? Uza buradan."
+    },
+    {
+      "id": "bf91b565",
+      "bank_id": "904e2802",
+      "text": "Pöh! Lanet olası ünlü."
+    },
+    {
+      "id": "c1137291",
+      "bank_id": "904e2802",
+      "text": "Senden daha aptal biri yok."
+    },
+    {
+      "id": "c25a1970",
+      "bank_id": "904e2802",
+      "text": "Daha layık olanlar fark edilmezken herkesin seni tanıması toplumumuz adına utanç verici bir tablodur."
+    },
+    {
+      "id": "c25a1972",
+      "bank_id": "904e2802",
+      "text": "Şan ve şöhret adına ne acınası bir bahaneden ibaretsin sen."
+    },
+    {
+      "id": "c25a1973",
+      "bank_id": "904e2802",
+      "text": "Siz ünlüler hepiniz koca kafalı birer ahmaksınız."
+    },
+    {
+      "id": "c25a1974",
+      "bank_id": "904e2802",
+      "text": "Pöh! İstersen kendine Kahraman de. Ama bana sorarsan efsane olmak ünden fazlasını gerektirir."
+    },
+    {
+      "id": "c25a1977",
+      "bank_id": "904e2802",
+      "text": "Bütün arkadaşlarım senden bahsediyor. Ama emin ol hiçbiri güzel şeyler değil!"
+    },
+    {
+      "id": "c95a2478",
+      "bank_id": "904e2802",
+      "text": "Çizmelerini yalamaya layık olmadığımızı düşünüyorsundur kesin. Lağım borusu yalamayı yeğlerim."
+    },
+    {
+      "id": "c95a2479",
+      "bank_id": "904e2802",
+      "text": "Bütün o şöhretin ne kadar kokuşmuş olduğunu gizleyemez."
+    },
+    {
+      "id": "c95a247c",
+      "bank_id": "904e2802",
+      "text": "Şöhretin en az hak edenleri kayırdığına dair bir kanıt lazımdıysa o kanıt tam olarak sensin."
+    },
+    {
+      "id": "c95a247e",
+      "bank_id": "904e2802",
+      "text": "Sen! O lanet olası itibarını al da münasip bir yerine sok."
+    },
+    {
+      "id": "ca91c690",
+      "bank_id": "904e2802",
+      "text": "Pöh! Meşhur aptal."
+    },
+    {
+      "id": "ca91c692",
+      "bank_id": "904e2802",
+      "text": "Peh! Kendine bir de ünlü diyorsun."
+    },
+    {
+      "id": "ca91c693",
+      "bank_id": "904e2802",
+      "text": "Dünyanın sorunu bu işte, senin gibi tipler meşhur olabiliyor. Pöh!"
+    },
+    {
+      "id": "ca91c694",
+      "bank_id": "904e2802",
+      "text": "Şöhretini münasip bir yerine sok."
+    },
+    {
+      "id": "ca91c695",
+      "bank_id": "904e2802",
+      "text": "Pöh! Aptal ünlü maceracı."
+    },
+    {
+      "id": "cc1383c0",
+      "bank_id": "904e2802",
+      "text": "Senden nefret ediyorum!"
+    },
+    {
+      "id": "de91ac03",
+      "bank_id": "904e2802",
+      "text": "Daha büyük olsaydım seninle dövüşürdüm."
+    },
+    {
+      "id": "e591b706",
+      "bank_id": "904e2802",
+      "text": "Umarım düşüp bir yerini kırarsın."
+    },
+    {
+      "id": "f311e445",
+      "bank_id": "904e2802",
+      "text": "Yetkim olsaydı seni bu kasabadan zevkle men ederdim."
+    },
+    {
+      "id": "f311e446",
+      "bank_id": "904e2802",
+      "text": "Senin gibi insanlar yüzünden bu meslek bir ızdırap."
+    },
+    {
+      "id": "f38e0619",
+      "bank_id": "904e2802",
+      "text": "Katlanamadığım tek bir şey varsa... o da sensin."
+    },
+    {
+      "id": "f38e061a",
+      "bank_id": "904e2802",
+      "text": "Bana bulaşma vatandaş. Senden canıma tak etti artık."
+    },
+    {
+      "id": "fc007848",
+      "bank_id": "904e2802",
+      "text": "Sana söyleyecek hiçbir lafım yok!"
+    },
+    {
+      "id": "fc00784a",
+      "bank_id": "904e2802",
+      "text": "Hepimize bir iyilik yap da kasabayı terk et."
+    },
+    {
+      "id": "fc00784b",
+      "bank_id": "904e2802",
+      "text": "Gerçekten birinin seni sevdiğini mi sanıyorsun?"
+    },
+    {
+      "id": "fc00784c",
+      "bank_id": "904e2802",
+      "text": "Çekil yolumdan."
+    },
+    {
+      "id": "fc00784d",
+      "bank_id": "904e2802",
+      "text": "Ne istiyorsun?"
+    },
+    {
+      "id": "fc00784e",
+      "bank_id": "904e2802",
+      "text": "Oh, sen misin? Hıh."
+    },
+    {
+      "id": "fc00784f",
+      "bank_id": "904e2802",
+      "text": "Pöh. Sensin demek."
+    }
+  ]
+}

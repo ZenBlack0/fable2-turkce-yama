@@ -1,0 +1,731 @@
+{
+  "bank_id": "400fab00",
+  "total_strings": 145,
+  "strings": [
+    {
+      "id": "0152acc0",
+      "bank_id": "400fab00",
+      "text": "Gidip koşarak enerjini atsan daha iyi olmaz mı?"
+    },
+    {
+      "id": "0152acc1",
+      "bank_id": "400fab00",
+      "text": "Beni ne sanıyorsun sen? Bir tür oyuncak falan mı?"
+    },
+    {
+      "id": "0152acc2",
+      "bank_id": "400fab00",
+      "text": "Marifetlerinden etkilendim ama ben bir et parçası değilim!"
+    },
+    {
+      "id": "0152acc3",
+      "bank_id": "400fab00",
+      "text": "Korkarım şu anda pek havamda değilim."
+    },
+    {
+      "id": "0152acc5",
+      "bank_id": "400fab00",
+      "text": "Ben bir oyuncak değilim biliyorsun. Belki sonra."
+    },
+    {
+      "id": "0152acc7",
+      "bank_id": "400fab00",
+      "text": "Başım ağrıyor. Sanırım bir süre de geçmeyecek."
+    },
+    {
+      "id": "03d540f2",
+      "bank_id": "400fab00",
+      "text": "Evlenmeden önce birini gerçekten sevmem gerek."
+    },
+    {
+      "id": "03d540f3",
+      "bank_id": "400fab00",
+      "text": "Bir saniye bile düşünmeden evet derdim. Seni sevseydim."
+    },
+    {
+      "id": "03d540f4",
+      "bank_id": "400fab00",
+      "text": "Seni yeterince sevmiyorum sadece. Üzgünüm."
+    },
+    {
+      "id": "03d540f5",
+      "bank_id": "400fab00",
+      "text": "Seni gerçekten seven birini istemez miydin?"
+    },
+    {
+      "id": "03d540f7",
+      "bank_id": "400fab00",
+      "text": "Kabul etmeden önce seni gerçekten sevmem gerek."
+    },
+    {
+      "id": "0820c448",
+      "bank_id": "400fab00",
+      "text": "Sıradan bir çiftleşme hayvanı değilim ben, bilesin!"
+    },
+    {
+      "id": "0820c449",
+      "bank_id": "400fab00",
+      "text": "Uzak dur benden seni iğrenç tuhaf yaratık!"
+    },
+    {
+      "id": "0820c44a",
+      "bank_id": "400fab00",
+      "text": "Genelevde çalışıyor gibi bir halim mi var? Hımm, fena fikir değil aslında..."
+    },
+    {
+      "id": "0820c44b",
+      "bank_id": "400fab00",
+      "text": "Görünüşe göre gidip kendine başka birini bulman gerek."
+    },
+    {
+      "id": "0820c44c",
+      "bank_id": "400fab00",
+      "text": "Beni ne tür bir hayvan sanıyorsun sen?"
+    },
+    {
+      "id": "0820c44d",
+      "bank_id": "400fab00",
+      "text": "Gülünç olma! Sana karşı hiçbir hissim yok."
+    },
+    {
+      "id": "0820c44e",
+      "bank_id": "400fab00",
+      "text": "Ne?! Seni tanımıyorum bile!"
+    },
+    {
+      "id": "0ad54bf8",
+      "bank_id": "400fab00",
+      "text": "Seni gerçekten seven birini istemez miydin?"
+    },
+    {
+      "id": "0ad54bf9",
+      "bank_id": "400fab00",
+      "text": "Kişisel bir şey değil ama sana karşı o tür hisler beslemiyorum."
+    },
+    {
+      "id": "0ad54bfa",
+      "bank_id": "400fab00",
+      "text": "Kabul etmeden önce seni gerçekten sevmem gerek."
+    },
+    {
+      "id": "0ad54bfe",
+      "bank_id": "400fab00",
+      "text": "Bir saniye bile düşünmeden evet derdim. Seni sevseydim."
+    },
+    {
+      "id": "0ad54bff",
+      "bank_id": "400fab00",
+      "text": "Evlenmeden önce birini gerçekten sevmem gerek."
+    },
+    {
+      "id": "0df8b420",
+      "bank_id": "400fab00",
+      "text": "Ne büyük sürpriz! Ama duygularımızın henüz yeterince güçlü olduğunu sanmıyorum."
+    },
+    {
+      "id": "0df8b421",
+      "bank_id": "400fab00",
+      "text": "Çok tatlısın ama böylesi bir bağlılık için biraz erken olduğunu düşünmüyor musun?"
+    },
+    {
+      "id": "0df8b422",
+      "bank_id": "400fab00",
+      "text": "Peh! Ne diyebilirim ki? Sanmıyorum. Henüz değil."
+    },
+    {
+      "id": "0df8b423",
+      "bank_id": "400fab00",
+      "text": "İyisin hoşsun da. Ama ben buna hazır değilim."
+    },
+    {
+      "id": "0df8b424",
+      "bank_id": "400fab00",
+      "text": "Hımm, buna hazır olduğumuzu sanmıyorum."
+    },
+    {
+      "id": "0df8b425",
+      "bank_id": "400fab00",
+      "text": "Hayır demek zorundayım. Henüz hazır değiliz."
+    },
+    {
+      "id": "0df8b427",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma ama seninle evlenecek kadar sevmiyorum seni."
+    },
+    {
+      "id": "1120d29d",
+      "bank_id": "400fab00",
+      "text": "Yabancılarla yatacak hayvanlar mıyız biz?!"
+    },
+    {
+      "id": "14f8bf28",
+      "bank_id": "400fab00",
+      "text": "Ne diyeceğimi bilemiyorum! Ama ikimiz de hazır olana kadar beklemeliyiz gerçekten."
+    },
+    {
+      "id": "14f8bf29",
+      "bank_id": "400fab00",
+      "text": "Ah, seni kırmak istemem ama hazır olana kadar beklememiz gerektiğini düşünüyorum."
+    },
+    {
+      "id": "14f8bf2a",
+      "bank_id": "400fab00",
+      "text": "Hımm, aceleye getirmemeliyiz bunu. Önce birbirimize uygun olduğumuzdan emin olmalıyız."
+    },
+    {
+      "id": "14f8bf2c",
+      "bank_id": "400fab00",
+      "text": "Ayy, sana çok düşkünüm elbette. Ama henüz seni sevdiğimi sanmıyorum."
+    },
+    {
+      "id": "14f8bf2d",
+      "bank_id": "400fab00",
+      "text": "Ah, gerçekten çok üzgünüm. Ama benim için henüz çok erken. Anlıyorsun, değil mi?"
+    },
+    {
+      "id": "14f8bf2e",
+      "bank_id": "400fab00",
+      "text": "Ayy, ne kadar hoş! Ama seni sevmiyorum. En azından henüz değil."
+    },
+    {
+      "id": "14f8bf2f",
+      "bank_id": "400fab00",
+      "text": "Gerçekten mi? Çok tatlı falan ama ben henüz o şekilde hissetmiyorum."
+    },
+    {
+      "id": "2282c988",
+      "bank_id": "400fab00",
+      "text": "Hımm, aceleye getirmemeliyiz bunu. Önce birbirimize uygun olduğumuzdan emin olmalıyız."
+    },
+    {
+      "id": "2282c98a",
+      "bank_id": "400fab00",
+      "text": "Ne diyeceğimi bilemiyorum! İkimiz de hazır olana kadar beklemeliyiz gerçekten."
+    },
+    {
+      "id": "2282c98b",
+      "bank_id": "400fab00",
+      "text": "Ah, seni kırmak istemem ama hazır olana kadar beklememiz gerektiğini düşünüyorum."
+    },
+    {
+      "id": "2282c98c",
+      "bank_id": "400fab00",
+      "text": "Ayy, ne kadar hoş değil mi? Ama seni sevmiyorum. En azından henüz değil."
+    },
+    {
+      "id": "2282c98d",
+      "bank_id": "400fab00",
+      "text": "Gerçekten mi? Çok tatlı falan ama ben henüz o şekilde hissetmiyorum."
+    },
+    {
+      "id": "2282c98e",
+      "bank_id": "400fab00",
+      "text": "Ayy, sana çok düşkünüm elbette. Ama henüz seni sevdiğimi sanmıyorum."
+    },
+    {
+      "id": "2282c98f",
+      "bank_id": "400fab00",
+      "text": "Ah, gerçekten çok üzgünüm. Ama benim için henüz çok erken. Anlıyorsun, değil mi?"
+    },
+    {
+      "id": "2782d1a9",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma ama seninle evlenecek kadar sevmiyorum seni."
+    },
+    {
+      "id": "2782d1aa",
+      "bank_id": "400fab00",
+      "text": "Hımm, buna hazır olduğumuzu sanmıyorum."
+    },
+    {
+      "id": "2782d1ab",
+      "bank_id": "400fab00",
+      "text": "Hayır demek zorundayım. Henüz hazır değiliz."
+    },
+    {
+      "id": "2782d1ac",
+      "bank_id": "400fab00",
+      "text": "Peh! Ne diyebilirim ki? Sanmıyorum. Henüz değil."
+    },
+    {
+      "id": "2782d1ad",
+      "bank_id": "400fab00",
+      "text": "İyisin hoşsun da. Ama ben buna hazır değilim."
+    },
+    {
+      "id": "2782d1ae",
+      "bank_id": "400fab00",
+      "text": "Ne büyük sürpriz! Ama duygularımızın henüz yeterince güçlü olduğunu sanmıyorum."
+    },
+    {
+      "id": "2782d1af",
+      "bank_id": "400fab00",
+      "text": "Çok tatlısın ama böylesi bir bağlılık için biraz erken olduğunu düşünmüyor musun?"
+    },
+    {
+      "id": "3281a550",
+      "bank_id": "400fab00",
+      "text": "İlgilenebilirdim belki... Ama ben sadece bu kasabadan geçiyordum."
+    },
+    {
+      "id": "3281a551",
+      "bank_id": "400fab00",
+      "text": "Ben sadece bir ziyaretçiyim ama sorman incelik."
+    },
+    {
+      "id": "3281a553",
+      "bank_id": "400fab00",
+      "text": "Ah, kusura bakma ama sıradaki kasabaya geçmem gerek."
+    },
+    {
+      "id": "3281a556",
+      "bank_id": "400fab00",
+      "text": "Buralardan geçiyordum sadece."
+    },
+    {
+      "id": "3281a557",
+      "bank_id": "400fab00",
+      "text": "Buralarda yerleşik hayata geçmeyi pek düşünmüyorum."
+    },
+    {
+      "id": "3981b052",
+      "bank_id": "400fab00",
+      "text": "Buralarda yerleşik hayata geçmeyi pek düşünmüyorum."
+    },
+    {
+      "id": "3981b053",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma, sadece geçiyordum ben."
+    },
+    {
+      "id": "3981b054",
+      "bank_id": "400fab00",
+      "text": "Ben sadece bir ziyaretçiyim ama sorman incelik."
+    },
+    {
+      "id": "3981b055",
+      "bank_id": "400fab00",
+      "text": "Gerçekten kusura bakma ama ben sadece geçiciyim."
+    },
+    {
+      "id": "3981b056",
+      "bank_id": "400fab00",
+      "text": "Ah, kusura bakma ama sıradaki kasabaya geçmem gerek."
+    },
+    {
+      "id": "400cc668",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma ama benim gibi kıvrak birinin bile dinlenmeye ihtiyacı var."
+    },
+    {
+      "id": "400cc66a",
+      "bank_id": "400fab00",
+      "text": "Hemen bir daha yapabileceğimi sanmıyorum tatlım."
+    },
+    {
+      "id": "400cc66b",
+      "bank_id": "400fab00",
+      "text": "Hepimiz maceracıların dayanıklılığına sahip değiliz!"
+    },
+    {
+      "id": "400cc66c",
+      "bank_id": "400fab00",
+      "text": "Bacağımı bile kaldıramıyorum canım. Onun yerine dinlensek nasıl olur?"
+    },
+    {
+      "id": "400cc66d",
+      "bank_id": "400fab00",
+      "text": "Bir kadına biraz mola verin yahu!"
+    },
+    {
+      "id": "400cc66e",
+      "bank_id": "400fab00",
+      "text": "Beni bu şekilde sömürülecek bir çiftlik hayvanı mı sanıyorsun acaba!"
+    },
+    {
+      "id": "400cc66f",
+      "bank_id": "400fab00",
+      "text": "Bir hanımefendiye biraz mühlet verilmeli, sence de öyle değil mi?"
+    },
+    {
+      "id": "450cce09",
+      "bank_id": "400fab00",
+      "text": "Ben bir oyuncak değilim biliyorsun. Belki sonra."
+    },
+    {
+      "id": "450cce0a",
+      "bank_id": "400fab00",
+      "text": "Doyumsuzsun sen! Şey, nefesimi toplayana kadar beklemek zorunda kalacaksın..."
+    },
+    {
+      "id": "450cce0b",
+      "bank_id": "400fab00",
+      "text": "Başım ağrıyor. Sanırım bir süre de geçmeyecek."
+    },
+    {
+      "id": "450cce0c",
+      "bank_id": "400fab00",
+      "text": "Gidip koşarak enerjini atsan daha iyi olmaz mı?"
+    },
+    {
+      "id": "450cce0d",
+      "bank_id": "400fab00",
+      "text": "Beni ne sanıyorsun sen? Bir tür oyuncak falan mı?"
+    },
+    {
+      "id": "450cce0e",
+      "bank_id": "400fab00",
+      "text": "İştahından etkilendim ama ben bir et parçası değilim!"
+    },
+    {
+      "id": "450cce0f",
+      "bank_id": "400fab00",
+      "text": "Korkarım şu anda pek havamda değilim."
+    },
+    {
+      "id": "4f58da18",
+      "bank_id": "400fab00",
+      "text": "O pis tekliflerini başka kapıya götürürsen sevinirim!"
+    },
+    {
+      "id": "4f58da19",
+      "bank_id": "400fab00",
+      "text": "Yok ya. Gazım var ve seni tanımıyorum bile."
+    },
+    {
+      "id": "4f58da1a",
+      "bank_id": "400fab00",
+      "text": "Ne kadar cüretkârsın! Daha doğru dürüst tanışmadık bile!"
+    },
+    {
+      "id": "4f58da1b",
+      "bank_id": "400fab00",
+      "text": "Yabancılarla yatacak hayvanlar mıyız biz?!"
+    },
+    {
+      "id": "4f58da1d",
+      "bank_id": "400fab00",
+      "text": "Yattığım insanları tanımayı tercih ederim."
+    },
+    {
+      "id": "4f58da1e",
+      "bank_id": "400fab00",
+      "text": "Yabancılarla yatıp kalkamayacak kadar hassasım ben."
+    },
+    {
+      "id": "4f58da1f",
+      "bank_id": "400fab00",
+      "text": "Seni tanımıyorum bile. Beni kullanmaya çalışıyorsun sadece."
+    },
+    {
+      "id": "5a58eb48",
+      "bank_id": "400fab00",
+      "text": "Sokak kadını gibi bir halim mi var benim?! Cevap verme sakın..."
+    },
+    {
+      "id": "5a58eb49",
+      "bank_id": "400fab00",
+      "text": "Hey, aradığın kadın o türdense git bir genelev bul!"
+    },
+    {
+      "id": "5a58eb4a",
+      "bank_id": "400fab00",
+      "text": "Sıradan bir yosma değilim ben, bilesin!"
+    },
+    {
+      "id": "5a58eb4b",
+      "bank_id": "400fab00",
+      "text": "Uzak dur benden seni iğrenç tuhaf yaratık!"
+    },
+    {
+      "id": "5a58eb4c",
+      "bank_id": "400fab00",
+      "text": "Ne?! Seni tanımıyorum bile!!"
+    },
+    {
+      "id": "5a58eb4e",
+      "bank_id": "400fab00",
+      "text": "Beni ne tür bir süprüntü sanıyorsun sen?"
+    },
+    {
+      "id": "5a58eb4f",
+      "bank_id": "400fab00",
+      "text": "Gülünç olma! Sana karşı hiçbir hissim yok."
+    },
+    {
+      "id": "63120100",
+      "bank_id": "400fab00",
+      "text": "Ne?! Ah, ama ben buradan geçiyordum sadece. Yakında ayrılıyorum!"
+    },
+    {
+      "id": "63120101",
+      "bank_id": "400fab00",
+      "text": "Ah, ama ben buralarda yaşamıyorum bile. Sadece geçiyordum."
+    },
+    {
+      "id": "63120102",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma, seninle evlenemem. Sadece geçiyordum ben!"
+    },
+    {
+      "id": "63120104",
+      "bank_id": "400fab00",
+      "text": "Gerçekten kusura bakma ama bu büyüleyici yerden sadece geçiyordum."
+    },
+    {
+      "id": "63120105",
+      "bank_id": "400fab00",
+      "text": "Çok naziksin ama sıradaki kasabaya doğru yol alıyorum."
+    },
+    {
+      "id": "63120106",
+      "bank_id": "400fab00",
+      "text": "Buralardan geçiyordum sadece. Yerleşecek falan değilim."
+    },
+    {
+      "id": "63120107",
+      "bank_id": "400fab00",
+      "text": "Sadece geçiyordum, bu yüzden evlilik olmaz."
+    },
+    {
+      "id": "6a7db7c0",
+      "bank_id": "400fab00",
+      "text": "Erkekler, hepiniz aynısınız. Beklemek zorunda kalacaksın işte."
+    },
+    {
+      "id": "6a7db7cb",
+      "bank_id": "400fab00",
+      "text": "Biraz sabırlı olmayı denesene, ha? Pestilim çıktı."
+    },
+    {
+      "id": "6c120f68",
+      "bank_id": "400fab00",
+      "text": "Ah, ne hoş bir sürpriz. Ama reddetmek zorundayım, başka bir kasabaya gidiyorum."
+    },
+    {
+      "id": "6c120f69",
+      "bank_id": "400fab00",
+      "text": "Ne kadar da tatlı ama ben buradan geçiyordum sadece."
+    },
+    {
+      "id": "6c120f6a",
+      "bank_id": "400fab00",
+      "text": "Teklifin çok hoş ama kendi kasabama doğru yola koyulmalıyım."
+    },
+    {
+      "id": "6c120f6b",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma, neden kendine buralı tatlı bir kız bulmuyorsun?"
+    },
+    {
+      "id": "6c120f6c",
+      "bank_id": "400fab00",
+      "text": "Ah, ama ben buraya yakın hiçbir yerde yaşamıyorum. Sıradaki kasabaya doğru gidiyordum sadece."
+    },
+    {
+      "id": "6c120f6d",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma ama kendi kasabama geri dönüyorum."
+    },
+    {
+      "id": "6c120f6f",
+      "bank_id": "400fab00",
+      "text": "Çok üzgünüm ama görüyorsun ya, sadece geçiyordum buradan!"
+    },
+    {
+      "id": "8cbf6c6a",
+      "bank_id": "400fab00",
+      "text": "Dalga geçiyorsun, değil mi? Kimsin sen hem?"
+    },
+    {
+      "id": "8cbf6c6b",
+      "bank_id": "400fab00",
+      "text": "Beni elde etmek için bir gülümsemeden fazlası gerekir."
+    },
+    {
+      "id": "8cbf6c6c",
+      "bank_id": "400fab00",
+      "text": "O kadar hafifmeşrep değilim ben biliyorsun!"
+    },
+    {
+      "id": "8cbf6c6d",
+      "bank_id": "400fab00",
+      "text": "Beni bir tür sokak kadını mı sandın? Seni tanımıyorum bile!"
+    },
+    {
+      "id": "8cbf6c6e",
+      "bank_id": "400fab00",
+      "text": "Ne?! Ama sen tamamen bir yabancısın!"
+    },
+    {
+      "id": "95bf7ab8",
+      "bank_id": "400fab00",
+      "text": "Tamamen yabancılarla yatabilirsin belki ama ben yatmam!"
+    },
+    {
+      "id": "95bf7ab9",
+      "bank_id": "400fab00",
+      "text": "Beni elde etmek için bir gülümsemeden fazlası gerekir."
+    },
+    {
+      "id": "95bf7abb",
+      "bank_id": "400fab00",
+      "text": "Yabancılar tarafından kullanılmaktan hoşlanmam."
+    },
+    {
+      "id": "95bf7abe",
+      "bank_id": "400fab00",
+      "text": "Aşk senin için hiçbir şey ifade etmiyor mu yani?"
+    },
+    {
+      "id": "95bf7abf",
+      "bank_id": "400fab00",
+      "text": "Dalga geçiyorsun, değil mi? Kimsin sen hem?"
+    },
+    {
+      "id": "9ee1aca0",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma ama sarhoş gözlüklerimi diğer pantolonumda unutmuşum."
+    },
+    {
+      "id": "9ee1aca1",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma, sana karşı o kadar çekim hissetmiyorum."
+    },
+    {
+      "id": "9ee1aca2",
+      "bank_id": "400fab00",
+      "text": "Seninle yatağa girmemi sağlayacak kadar kese kâğıdı yok bu dünyada."
+    },
+    {
+      "id": "9ee1aca4",
+      "bank_id": "400fab00",
+      "text": "Gargoyle'lerle ilişkiye girmek gibi bir alışkanlığım yoktur."
+    },
+    {
+      "id": "9ee1aca5",
+      "bank_id": "400fab00",
+      "text": "Belki başka bir sefere? Dış görünüşünün her ayrıntısını değiştirdiğinde?"
+    },
+    {
+      "id": "9ee1aca6",
+      "bank_id": "400fab00",
+      "text": "Bir katırla öpüşmeyi yeğlerim. Ölü bir katırla."
+    },
+    {
+      "id": "9ee1aca7",
+      "bank_id": "400fab00",
+      "text": "Benimle kafa buluyor olmalısın, değil mi?"
+    },
+    {
+      "id": "a7e1ba8f",
+      "bank_id": "400fab00",
+      "text": "Sen öyle görünürken olmaz, kesinlikle olmaz."
+    },
+    {
+      "id": "b3c75820",
+      "bank_id": "400fab00",
+      "text": "Çok üzgünüm ama görüyorsun ya, sadece geçiyordum buradan!"
+    },
+    {
+      "id": "b3c75821",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma ama kendi kasabama geri dönüyorum."
+    },
+    {
+      "id": "b3c75823",
+      "bank_id": "400fab00",
+      "text": "Ah, ama ben buraya yakın hiçbir yerde yaşamıyorum. Sıradaki kasabaya doğru gidiyordum sadece."
+    },
+    {
+      "id": "b3c75824",
+      "bank_id": "400fab00",
+      "text": "Ah, ne hoş bir sürpriz. Ama reddetmek zorundayım, başka bir kasabaya gidiyorum."
+    },
+    {
+      "id": "b3c75825",
+      "bank_id": "400fab00",
+      "text": "Çok tatlısın ama ben buradan geçiyordum sadece."
+    },
+    {
+      "id": "b3c75826",
+      "bank_id": "400fab00",
+      "text": "Teklifin çok hoş ama kendi kasabama doğru yola koyulmalıyım."
+    },
+    {
+      "id": "b3c75827",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma, neden kendine buralı tatlı bir kız bulmuyorsun?"
+    },
+    {
+      "id": "bac76320",
+      "bank_id": "400fab00",
+      "text": "Gerçekten kusura bakma ama bu büyüleyici yerden sadece geçiyordum."
+    },
+    {
+      "id": "bac76321",
+      "bank_id": "400fab00",
+      "text": "Çok naziksin ama sıradaki kasabaya doğru yol alıyorum."
+    },
+    {
+      "id": "bac76322",
+      "bank_id": "400fab00",
+      "text": "Buralardan geçiyordum sadece. Yerleşecek falan değilim."
+    },
+    {
+      "id": "bac76323",
+      "bank_id": "400fab00",
+      "text": "Sadece geçiyordum, bu yüzden evlilik olmaz."
+    },
+    {
+      "id": "bac76324",
+      "bank_id": "400fab00",
+      "text": "Ne? Ah, ama ben buradan geçiyordum sadece. Yakında ayrılıyorum!"
+    },
+    {
+      "id": "bac76325",
+      "bank_id": "400fab00",
+      "text": "Ah, ama ben buralarda yaşamıyorum bile. Sadece geçiyordum."
+    },
+    {
+      "id": "bac76326",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma, seninle evlenemem. Sadece geçiyordum ben!"
+    },
+    {
+      "id": "fc52a520",
+      "bank_id": "400fab00",
+      "text": "Bacağımı bile kaldıramıyorum canım. Onun yerine dinlensek nasıl olur?"
+    },
+    {
+      "id": "fc52a521",
+      "bank_id": "400fab00",
+      "text": "Bir adama biraz mola verin yahu!"
+    },
+    {
+      "id": "fc52a522",
+      "bank_id": "400fab00",
+      "text": "Beni bu şekilde sömürülecek bir çiftlik hayvanı mı sanıyorsun acaba!"
+    },
+    {
+      "id": "fc52a523",
+      "bank_id": "400fab00",
+      "text": "Belki erkekliğimi toparlamak için bana birkaç dakika verebilirsin hayatım."
+    },
+    {
+      "id": "fc52a524",
+      "bank_id": "400fab00",
+      "text": "Kusura bakma ama benim gibi dinç birinin bile dinlenmeye ihtiyacı var."
+    },
+    {
+      "id": "fc52a526",
+      "bank_id": "400fab00",
+      "text": "Hâlâ biraz sızlıyor tatlım."
+    },
+    {
+      "id": "fc52a527",
+      "bank_id": "400fab00",
+      "text": "Hepimiz Kahramanların dayanıklılığına sahip değiliz!"
+    }
+  ]
+}

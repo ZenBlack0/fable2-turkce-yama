@@ -1,0 +1,551 @@
+{
+  "bank_id": "70bab600",
+  "total_strings": 109,
+  "strings": [
+    {
+      "id": "00b50e2f",
+      "bank_id": "70bab600",
+      "text": "Kusura bakmayın, bana aldırmayın. Adım Alex."
+    },
+    {
+      "id": "02b51175",
+      "bank_id": "70bab600",
+      "text": "A! Orada olduğunuzu görmemişim."
+    },
+    {
+      "id": "099c1ec8",
+      "bank_id": "70bab600",
+      "text": "Zaten ne kadar acı çektiğini hiç düşünmemiştim. Ona iyi davran, olur mu? Yoksa sana musallat olmak için geri dönerim."
+    },
+    {
+      "id": "0a9c20bb",
+      "bank_id": "70bab600",
+      "text": "Senden öyle korkunç bir şey yapmanı istemiştim ki... Doğrusunu bildiğine çok sevindim."
+    },
+    {
+      "id": "0b9c222e",
+      "bank_id": "70bab600",
+      "text": "Demek ona âşık oldun, öyle mi? İşin garibi... Artık öfkeli değilim. Huzurlu hissediyorum."
+    },
+    {
+      "id": "1697ac5b",
+      "bank_id": "70bab600",
+      "text": "Ben... Çok iyi biri olduğunuza eminim ama... Bugünlerde pek konuşkan değilim."
+    },
+    {
+      "id": "1997b114",
+      "bank_id": "70bab600",
+      "text": "A! Orada olduğunuzu görmemişim."
+    },
+    {
+      "id": "19d5e30e",
+      "bank_id": "70bab600",
+      "text": "Alex'i sizinle evlenmeye ikna edin."
+    },
+    {
+      "id": "1b97b47a",
+      "bank_id": "70bab600",
+      "text": "Kusura bakmayın, bana aldırmayın. Adım Alex."
+    },
+    {
+      "id": "1c97b5ed",
+      "bank_id": "70bab600",
+      "text": "İnanılmaz değil mi? Bütün bu insanlar, öyle mutlu görünüyorlar ki, değil mi?"
+    },
+    {
+      "id": "1ca8742a",
+      "bank_id": "70bab600",
+      "text": "Beni terk etme! Yardım edebilecek tek kişi sensin!"
+    },
+    {
+      "id": "1f5f5806",
+      "bank_id": "70bab600",
+      "text": "Kâğıda dökmekse daha da uzun sürdü. Ne de olsa bedensizim. Bu da bunu elde etmeyi başarmış olmamı çok daha etkileyici kılıyor."
+    },
+    {
+      "id": "205f59f9",
+      "bank_id": "70bab600",
+      "text": "Yardıma ihtiyacın olursa diye. Benim olmuştu çünkü."
+    },
+    {
+      "id": "215f5b6c",
+      "bank_id": "70bab600",
+      "text": "Sonra, teklifini kabul etmeye hazır olduğunda, sensiz bir hayat hayal edemediğinde, ona bunu ver."
+    },
+    {
+      "id": "225f5cdf",
+      "bank_id": "70bab600",
+      "text": "Kelimeleri tam yerli yerine oturtmak için uzun zaman kafa yordum."
+    },
+    {
+      "id": "245f6025",
+      "bank_id": "70bab600",
+      "text": "Evet. Mükemmel. Kolay olmayacak gerçi. Onu kendine tepeden tırnağa ve sırılsıklam âşık etmek zorunda kalacaksın."
+    },
+    {
+      "id": "26696b7a",
+      "bank_id": "70bab600",
+      "text": "Alex ile evlenin."
+    },
+    {
+      "id": "271e19c7",
+      "bank_id": "70bab600",
+      "text": "Bir yüzük satın alın."
+    },
+    {
+      "id": "32c26a7c",
+      "bank_id": "70bab600",
+      "text": "Ben dünyanın en şanslı kadınıyım. Bir daha mutluluğu bulabileceğimi hiç sanmıyordum. Bunu hak ettiğimi hiç düşünmemiştim. Ben... Sana hiç anlatmadığım bir şey var."
+    },
+    {
+      "id": "34c26d42",
+      "bank_id": "70bab600",
+      "text": "Onun canını öyle çok yaktım ki. Kendi... Kendi canına kıydı. Bunca yıldır bu vicdan azabını içimde taşıdım, bir daha sevebileceğimi rüyamda bile görmezdim. Ta ki seninle tanışana dek."
+    },
+    {
+      "id": "35c26f35",
+      "bank_id": "70bab600",
+      "text": "Daha önce bir kez neredeyse evleniyordum. Çok tatlı bir çocuktu ama... İkimiz de çok gençtik. Fazla gençtik. Korktum ve düğün günü kaçtım."
+    },
+    {
+      "id": "377eac13",
+      "bank_id": "70bab600",
+      "text": "Seni seviyorum."
+    },
+    {
+      "id": "3ccb4081",
+      "bank_id": "70bab600",
+      "text": "Alex'i sizinle evlenmeye ikna edin."
+    },
+    {
+      "id": "42513d73",
+      "bank_id": "70bab600",
+      "text": "Alex'i Bowerstone'da bulacaksın. Ben alemler arasında sıkışıp yapayalnız acı çekerken o hayatını yaşıyor."
+    },
+    {
+      "id": "43513ee6",
+      "bank_id": "70bab600",
+      "text": "Benim onu sevdiğim gibi Alex'in de seni sevmesini sağla. Sonra ona notu ver. Ve sakın sen ona âşık olma."
+    },
+    {
+      "id": "44514059",
+      "bank_id": "70bab600",
+      "text": "Alex'i Bowerstone'da bulacaksın."
+    },
+    {
+      "id": "45d4bd40",
+      "bank_id": "70bab600",
+      "text": "Lütfen, adaleti getirebilecek tek kişi sensin."
+    },
+    {
+      "id": "4620feb8",
+      "bank_id": "70bab600",
+      "text": "Bunun komik olduğunu mu sanıyorsun? Onun bana yaptıkları yüzünden öldüm ben!"
+    },
+    {
+      "id": "46d4bf33",
+      "bank_id": "70bab600",
+      "text": "Teşekkür ederim. Ama acınmak istemiyorum. İntikam istiyorum."
+    },
+    {
+      "id": "4721002b",
+      "bank_id": "70bab600",
+      "text": "Öylece devam edemedim işte."
+    },
+    {
+      "id": "472f1538",
+      "bank_id": "70bab600",
+      "text": "Rookridge'deki hayaletin yanına dönün."
+    },
+    {
+      "id": "4821019e",
+      "bank_id": "70bab600",
+      "text": "Hayatımın en berbat günüydü. Ve şey, hayatımın son günüydü aynı zamanda."
+    },
+    {
+      "id": "482f16ab",
+      "bank_id": "70bab600",
+      "text": "Red mektubu Alex'e verilsin mi?"
+    },
+    {
+      "id": "48d4c219",
+      "bank_id": "70bab600",
+      "text": "O gün ne hissettiysem onun da hissetmesini istiyorum. O acıyı, o aşağılanmayı. Kalbinin öyle çok parçaya ayrılmasını istiyorum ki yaşamaya devam edemesin."
+    },
+    {
+      "id": "49210371",
+      "bank_id": "70bab600",
+      "text": "Bütün o insanların önünde, öyle endişeli ve üzgün görünüyorlardı ki... Ama içten içe güldüklerini anlayabiliyordum."
+    },
+    {
+      "id": "492f181e",
+      "bank_id": "70bab600",
+      "text": "Evi evlilik yuvanız olarak belirleyin. Bunu yapmak için dışarıdaki tabelayı kullanın."
+    },
+    {
+      "id": "49d4c38c",
+      "bank_id": "70bab600",
+      "text": "Hayatımın en berbat günüydü. Ve şey, hayatımın son günüydü aynı zamanda."
+    },
+    {
+      "id": "4a2f19f1",
+      "bank_id": "70bab600",
+      "text": "Sizin ve Alex'in yaşayacağı bir ev satın alın."
+    },
+    {
+      "id": "4a45847e",
+      "bank_id": "70bab600",
+      "text": "Heykelin kaidesindeki levhanın altına birisi şu sözleri kazımış: \"Hayaletten sakının\"."
+    },
+    {
+      "id": "4ad4c57f",
+      "bank_id": "70bab600",
+      "text": "Bütün o insanların önünde, öyle endişeli ve üzgün görünüyorlardı ki... Ama içten içe güldüklerini anlayabiliyordum."
+    },
+    {
+      "id": "4b210657",
+      "bank_id": "70bab600",
+      "text": "O gün ne hissettiysem onun da hissetmesini istiyorum. O acıyı, o aşağılanmayı. Kalbinin öyle çok parçaya ayrılmasını istiyorum ki yaşamaya devam edemesin."
+    },
+    {
+      "id": "4b2f1b64",
+      "bank_id": "70bab600",
+      "text": "Hayaletin intikamı alınsın mı?"
+    },
+    {
+      "id": "4bd4c6d2",
+      "bank_id": "70bab600",
+      "text": "Bunun komik olduğunu mu sanıyorsun? Onun bana yaptıkları yüzünden öldüm ben!"
+    },
+    {
+      "id": "4c2107ca",
+      "bank_id": "70bab600",
+      "text": "Lütfen, adaleti getirebilecek tek kişi sensin."
+    },
+    {
+      "id": "4cd4c845",
+      "bank_id": "70bab600",
+      "text": "Öylece devam edemedim işte."
+    },
+    {
+      "id": "4d2109bd",
+      "bank_id": "70bab600",
+      "text": "Teşekkürler. Ama acınmak istemiyorum. İntikam istiyorum."
+    },
+    {
+      "id": "4d2f1e4a",
+      "bank_id": "70bab600",
+      "text": "Alex artık evlilik teklifinizi kabul etmeye hazır. Sizinle evlenmesini istemek için ona bir yüzük verin ya da kalbini kırmak istiyorsanız ona Red Mektubu'nu verin."
+    },
+    {
+      "id": "4d2f1e4f",
+      "bank_id": "70bab600",
+      "text": "Alex artık evlilik teklifinizi kabul etmeye hazır. Sizinle evlenmesini istemek için ona bir yüzük verin ya da kalbini kırmak istiyorsanız ona Red Mektubu'nu verin."
+    },
+    {
+      "id": "4e2f203d",
+      "bank_id": "70bab600",
+      "text": "Bowerstone Pazarı'na gidin ve Alex'i baştan çıkarın."
+    },
+    {
+      "id": "60b2ff00",
+      "bank_id": "70bab600",
+      "text": "Ruhumun bu dünyada intikamsız dolaşmasına izin verme."
+    },
+    {
+      "id": "61b300f3",
+      "bank_id": "70bab600",
+      "text": "Lütfen yardım edeceğini söyle."
+    },
+    {
+      "id": "62b30266",
+      "bank_id": "70bab600",
+      "text": "Bana yardım eder misin?"
+    },
+    {
+      "id": "636067d0",
+      "bank_id": "70bab600",
+      "text": "Evlenecektim, biliyor musun. Kasabanın en yakışıklı erkeği Alex ile."
+    },
+    {
+      "id": "64606943",
+      "bank_id": "70bab600",
+      "text": "Düğünü planlamak için çok zaman harcadık. Çiçekleri seçtik, yemekleri, müziği, söyleyeceğimiz sözleri belirledik. Ve sonra o büyük gün geldi..."
+    },
+    {
+      "id": "65606b36",
+      "bank_id": "70bab600",
+      "text": "Huzur bulmam gerek. Adaleti bulmam gerek. Belki bana yardım edebilirsin."
+    },
+    {
+      "id": "66606ca9",
+      "bank_id": "70bab600",
+      "text": "Neler çektiğime dair en ufak bir fikrin yok. Beni hâlâ bu dünyada tutan o acının."
+    },
+    {
+      "id": "67606e1c",
+      "bank_id": "70bab600",
+      "text": "Bana... Bana mı bakıyorsun? Sen... Beni görebiliyor musun?"
+    },
+    {
+      "id": "68606f8f",
+      "bank_id": "70bab600",
+      "text": "Ah, nihayet. Çok uzun zamandır burada dolanıyorum, öyle kaybolmuşum ki. Öyle... Öyle öfkeliyim ki."
+    },
+    {
+      "id": "6a6072d5",
+      "bank_id": "70bab600",
+      "text": "(ağlar)"
+    },
+    {
+      "id": "6b67cf73",
+      "bank_id": "70bab600",
+      "text": "Adaleti bulana dek asla huzura kavuşamayacağım."
+    },
+    {
+      "id": "6e77efbd",
+      "bank_id": "70bab600",
+      "text": "Red mektubunu yok edin ve Alex ile evlenin."
+    },
+    {
+      "id": "71607dda",
+      "bank_id": "70bab600",
+      "text": "Ve... Gelmedi."
+    },
+    {
+      "id": "72607f4d",
+      "bank_id": "70bab600",
+      "text": "Sunakta tek başıma kalakaldım. Kalbim ikiye bölündü. Bütün hayatım son buldu."
+    },
+    {
+      "id": "73762e70",
+      "bank_id": "70bab600",
+      "text": "Ve o gelmedi."
+    },
+    {
+      "id": "74762fe3",
+      "bank_id": "70bab600",
+      "text": "Sunakta tek başıma kalakaldım. Kalbim ikiye bölündü. Bütün hayatım son buldu."
+    },
+    {
+      "id": "77c77ac4",
+      "bank_id": "70bab600",
+      "text": "Daha önce bir kez neredeyse evleniyordum. Çok tatlı bir kızdı ama... İkimiz de çok gençtik. Fazla gençtik. Korktum ve düğün günü kaçtım."
+    },
+    {
+      "id": "788d952c",
+      "bank_id": "70bab600",
+      "text": "Demek ona âşık oldun, öyle mi? İşin garibi... Artık öfkeli değilim. Huzurlu hissediyorum."
+    },
+    {
+      "id": "78c77cb7",
+      "bank_id": "70bab600",
+      "text": "Onun canını öyle çok yaktım ki. Kendi... Kendi canına kıydı. Bunca yıldır bu vicdan azabını içimde taşıdım, bir daha sevebileceğimi rüyamda bile görmezdim. Ta ki seninle tanışana dek."
+    },
+    {
+      "id": "7a4e0915",
+      "bank_id": "70bab600",
+      "text": "Sevgili Alex, gerçeği öğrenmenin vakti geldi. Seni sevmiyorum. Seni hiçbir zaman sevmedim. Bütün bunlar benim için sadece bir oyundan ibaretti. İçi boş ve sahtekâr birisin, umarım bu hayatta en ufak bir mutluluk pırıltısı dahi bulamazsın."
+    },
+    {
+      "id": "7a8d9872",
+      "bank_id": "70bab600",
+      "text": "Zaten ne kadar acı çektiğini hiç düşünmemiştim. Ona iyi davran, olur mu? Yoksa sana musallat olmak için geri dönerim."
+    },
+    {
+      "id": "7ac77f9d",
+      "bank_id": "70bab600",
+      "text": "Ben dünyanın en şanslı erkeğiyim. Bir daha mutluluğu bulabileceğimi hiç sanmıyordum. Bunu hak ettiğimi hiç düşünmemiştim. Sana... Hiç anlatmadığım bir şey var."
+    },
+    {
+      "id": "7b8d99e5",
+      "bank_id": "70bab600",
+      "text": "Senden öyle korkunç bir şey yapmanı istemiştim ki... Doğrusunu bildiğine çok sevindim."
+    },
+    {
+      "id": "7c763c5b",
+      "bank_id": "70bab600",
+      "text": "(ağlar)"
+    },
+    {
+      "id": "7cfee6f8",
+      "bank_id": "70bab600",
+      "text": "Terk edilmiş bir âşığın hayaletiyle konuşun ve onun intikam vasıtası olun."
+    },
+    {
+      "id": "7d763dce",
+      "bank_id": "70bab600",
+      "text": "Bana... Bana mı bakıyorsun? S-- Beni görebiliyor musun?"
+    },
+    {
+      "id": "7e763fa1",
+      "bank_id": "70bab600",
+      "text": "Ah, nihayet. Çok uzun zamandır burada dolanıyorum, öyle kaybolmuşum ki. Öyle... Öyle öfkeliyim ki."
+    },
+    {
+      "id": "7f764114",
+      "bank_id": "70bab600",
+      "text": "Huzur bulmam gerek. Adaleti bulmam gerek. Belki bana yardım edebilirsin."
+    },
+    {
+      "id": "80764287",
+      "bank_id": "70bab600",
+      "text": "Neler çektiğime dair en ufak bir fikrin yok. Beni hâlâ bu dünyada tutan o acının."
+    },
+    {
+      "id": "8176447a",
+      "bank_id": "70bab600",
+      "text": "Evlenecektim, biliyor musun. Kasabanın en güzel kızı Alex ile."
+    },
+    {
+      "id": "827645ed",
+      "bank_id": "70bab600",
+      "text": "Düğünü planlamak için çok zaman harcadık. Çiçekleri seçtik, yemekleri, müziği, söyleyeceğimiz sözleri belirledik. Ve sonra o büyük gün geldi... Ve..."
+    },
+    {
+      "id": "8c8faf03",
+      "bank_id": "70bab600",
+      "text": "Evet. Mükemmel. Kolay olmayacak gerçi. Onu kendine tepeden tırnağa ve sırılsıklam âşık etmek zorunda kalacaksın."
+    },
+    {
+      "id": "8d8fb0f6",
+      "bank_id": "70bab600",
+      "text": "Sonra, teklifini kabul etmeye hazır olduğunda, sensiz bir hayat hayal edemediğinde, ona bunu ver."
+    },
+    {
+      "id": "8e8fb269",
+      "bank_id": "70bab600",
+      "text": "Kelimeleri tam yerli yerine oturtmak için uzun zaman kafa yordum."
+    },
+    {
+      "id": "8f8fb3dc",
+      "bank_id": "70bab600",
+      "text": "Kâğıda dökmekse daha da uzun sürdü. Ne de olsa bedensizim. Bu da bunu elde etmeyi başarmış olmamı çok daha etkileyici kılıyor."
+    },
+    {
+      "id": "908fb54f",
+      "bank_id": "70bab600",
+      "text": "Yardıma ihtiyacın olursa diye. Benim olmuştu çünkü."
+    },
+    {
+      "id": "9617b45f",
+      "bank_id": "70bab600",
+      "text": "Red Mektubu"
+    },
+    {
+      "id": "97487e14",
+      "bank_id": "70bab600",
+      "text": "Alex'in kalbini kırın."
+    },
+    {
+      "id": "af9270ae",
+      "bank_id": "70bab600",
+      "text": "Bütün bunlar senin fikrindi, değil mi? Sadece intikam almak istedin. İnanamıyorum buna."
+    },
+    {
+      "id": "b0927201",
+      "bank_id": "70bab600",
+      "text": "Sen! Senin burada ne işin var?! Kalbimi kırdın. Hayatımla oynayıp beni bir kenara attın. Ve şimdi de buradasın öyle mi?!"
+    },
+    {
+      "id": "b19273f4",
+      "bank_id": "70bab600",
+      "text": "Ben de seni sevmiştim. Belki de bu bizim ikinci şansımızdır. B... Belki de biz... <gasps>"
+    },
+    {
+      "id": "b2331b38",
+      "bank_id": "70bab600",
+      "text": "Onu kendine âşık et ve sonra notu ver. O benim hayatımı nasıl mahvettiyse bu da onun hayatını öyle mahvetmeli."
+    },
+    {
+      "id": "b39276da",
+      "bank_id": "70bab600",
+      "text": "Sana yaptıklarım için çok özür dilerim. Kendimi hiç affetmedim, biliyor musun. Ve seni asla... Asla unutmadım."
+    },
+    {
+      "id": "c9ffc7cc",
+      "bank_id": "70bab600",
+      "text": "Beni terk etme! Yardım edebilecek tek kişi sensin!"
+    },
+    {
+      "id": "cc4fc320",
+      "bank_id": "70bab600",
+      "text": "Bana yardım eder misin?"
+    },
+    {
+      "id": "ce4fc606",
+      "bank_id": "70bab600",
+      "text": "Ruhumun bu dünyada intikamsız dolaşmasına izin verme."
+    },
+    {
+      "id": "cf4fc7f9",
+      "bank_id": "70bab600",
+      "text": "Lütfen yardım edeceğini söyle."
+    },
+    {
+      "id": "cfe9e937",
+      "bank_id": "70bab600",
+      "text": "Onunla Evlenin."
+    },
+    {
+      "id": "d042ec1b",
+      "bank_id": "70bab600",
+      "text": "Ya ona Victor'un mektubunu vererek Alex'in kalbini kırın ya da birlikte mutluluğu bulabilmek için onunla evlenin."
+    },
+    {
+      "id": "d98d763a",
+      "bank_id": "70bab600",
+      "text": "Ölüm Bizi Ayırana Dek"
+    },
+    {
+      "id": "e8932bfc",
+      "bank_id": "70bab600",
+      "text": "Benim onu sevdiğim gibi Alex'in de seni sevmesini sağla. Sonra ona notu ver. Ve sakın sen ona âşık olma."
+    },
+    {
+      "id": "e9932d6f",
+      "bank_id": "70bab600",
+      "text": "Alex Bowerstone'da yaşıyor. Bense sefalet içinde."
+    },
+    {
+      "id": "eb9330b5",
+      "bank_id": "70bab600",
+      "text": "Alex'i Bowerstone'da bulacaksın, ben alemler arasında sıkışıp yapayalnız acı çekerken o hayatını yaşıyor."
+    },
+    {
+      "id": "fb983085",
+      "bank_id": "70bab600",
+      "text": "Seni seviyorum."
+    },
+    {
+      "id": "fc45d556",
+      "bank_id": "70bab600",
+      "text": "Onu kendine âşık et ve sonra notu ver. O benim hayatımı nasıl mahvettiyse bu da onun hayatını öyle mahvetmeli."
+    },
+    {
+      "id": "fc47145c",
+      "bank_id": "70bab600",
+      "text": "Alex'e evlenme teklif etmek için bir evlilik yüzüğü kullanın."
+    },
+    {
+      "id": "fdb50956",
+      "bank_id": "70bab600",
+      "text": "Ben... Çok iyi biri olduğunuza eminim ama... Bugünlerde pek konuşkan değilim."
+    },
+    {
+      "id": "fe7d7db9",
+      "bank_id": "70bab600",
+      "text": "Adaleti bulana dek asla huzura kavuşamayacağım."
+    },
+    {
+      "id": "ffb50cbc",
+      "bank_id": "70bab600",
+      "text": "İnanılmaz değil mi? Bütün bu insanlar, öyle mutlu görünüyorlar ki, değil mi?"
+    },
+    {
+      "id": "ffe8c4c5",
+      "bank_id": "70bab600",
+      "text": "Ya ona Victoria'nın mektubunu vererek Alex'in kalbini kırın ya da birlikte mutluluğu bulabilmek için onunla evlenin."
+    }
+  ]
+}

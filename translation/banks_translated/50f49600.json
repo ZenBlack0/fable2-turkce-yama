@@ -1,0 +1,676 @@
+{
+  "bank_id": "50f49600",
+  "total_strings": 134,
+  "strings": [
+    {
+      "id": "008e9682",
+      "bank_id": "50f49600",
+      "text": "Delici Istırap Efsun Taşı"
+    },
+    {
+      "id": "03e00078",
+      "bank_id": "50f49600",
+      "text": "Haşmetli Kof Adam Suikastçısı"
+    },
+    {
+      "id": "07143e7c",
+      "bank_id": "50f49600",
+      "text": "Balverine'lere daha çok hasar verirsiniz ve sizi daha çekici kılan bir ateş böceği sürüsüyle çevrelenirsiniz."
+    },
+    {
+      "id": "07b45574",
+      "bank_id": "50f49600",
+      "text": "Kof Adamlara daha çok hasar verirsiniz ve sizi daha çekici kılan bir ateş böceği sürüsüyle çevrelenirsiniz."
+    },
+    {
+      "id": "0d071ff7",
+      "bank_id": "50f49600",
+      "text": "Çetin Kof Adam Avcısı"
+    },
+    {
+      "id": "0d59a704",
+      "bank_id": "50f49600",
+      "text": "Böceklere karşı artırılmış hasar ve yara izlerine karşı artırılmış direnç."
+    },
+    {
+      "id": "0f294dde",
+      "bank_id": "50f49600",
+      "text": "Çetin Böcek Avcısı"
+    },
+    {
+      "id": "0f672ce3",
+      "bank_id": "50f49600",
+      "text": "Kel Böcek Avcısı"
+    },
+    {
+      "id": "11b2947a",
+      "bank_id": "50f49600",
+      "text": "Kel Kıymık Avcısı"
+    },
+    {
+      "id": "1442777b",
+      "bank_id": "50f49600",
+      "text": "Sarhoş balverine Avcısı"
+    },
+    {
+      "id": "16c96b42",
+      "bank_id": "50f49600",
+      "text": "Balverine Azraili"
+    },
+    {
+      "id": "18f4281a",
+      "bank_id": "50f49600",
+      "text": "Kıymıklara karşı daha fazla hasar verirsiniz ancak genel olarak daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "1b5c00ec",
+      "bank_id": "50f49600",
+      "text": "Kel Kof Adam Avcısı"
+    },
+    {
+      "id": "1c1389b9",
+      "bank_id": "50f49600",
+      "text": "Silah kıymıklara karşı fazladan hasar kazanır. Kuşanan kişi ise ilave sakal bıyık kazanır."
+    },
+    {
+      "id": "1c385b72",
+      "bank_id": "50f49600",
+      "text": "Silahınızla büyük bir beceri sergilersiniz. Ayrıca her fırsatta harika Haşmet dövmeleri koleksiyonunuzu da sergilersiniz."
+    },
+    {
+      "id": "1ca6b4c8",
+      "bank_id": "50f49600",
+      "text": "Hobbe'lere daha çok hasar verin ancak dövüşte daha fazla yara izi alın."
+    },
+    {
+      "id": "2042a627",
+      "bank_id": "50f49600",
+      "text": "Delici Işık"
+    },
+    {
+      "id": "234dc36c",
+      "bank_id": "50f49600",
+      "text": "Silahın kıymıklara verdiği hasar miktarını artırır."
+    },
+    {
+      "id": "24176c6a",
+      "bank_id": "50f49600",
+      "text": "Kel hobbe Avcısı"
+    },
+    {
+      "id": "29a27605",
+      "bank_id": "50f49600",
+      "text": "Sakallı balverine Avcısı"
+    },
+    {
+      "id": "2a78c956",
+      "bank_id": "50f49600",
+      "text": "Balverine Avcısının Sürüsü"
+    },
+    {
+      "id": "2bfe96ae",
+      "bank_id": "50f49600",
+      "text": "Sürülü Kof Adam Avcısı"
+    },
+    {
+      "id": "2d5231ed",
+      "bank_id": "50f49600",
+      "text": "Sakallı Kof Adam Avcısı"
+    },
+    {
+      "id": "30643f24",
+      "bank_id": "50f49600",
+      "text": "Tüm düşmanlara, bilhassa da hobbe'lere fazladan hasar verin. Ayrıca tüm rakiplerden daha az hasar alın."
+    },
+    {
+      "id": "329baf34",
+      "bank_id": "50f49600",
+      "text": "Hobbe Avcısının Sürüsü"
+    },
+    {
+      "id": "362663be",
+      "bank_id": "50f49600",
+      "text": "Sürekli sarhoşsunuzdur ve bu sarhoş öfkenizi böceklere fazladan hasar vermek için odaklayabilirsiniz."
+    },
+    {
+      "id": "3748b669",
+      "bank_id": "50f49600",
+      "text": "Hobbe Avcısının Işığı"
+    },
+    {
+      "id": "37e0e5be",
+      "bank_id": "50f49600",
+      "text": "Silahın balverine'lere verdiği hasar miktarını artırır."
+    },
+    {
+      "id": "3d70213e",
+      "bank_id": "50f49600",
+      "text": "Balverine'lere daha çok hasar verin ancak dövüşte daha fazla yara izi alın."
+    },
+    {
+      "id": "3d8e22ec",
+      "bank_id": "50f49600",
+      "text": "Sakallı Böcek Avcısı"
+    },
+    {
+      "id": "42056c84",
+      "bank_id": "50f49600",
+      "text": "Kel balverine Avcısı"
+    },
+    {
+      "id": "456c2147",
+      "bank_id": "50f49600",
+      "text": "Silah balverine'lere karşı fazladan hasar kazanır. Kuşanan kişi ise ilave sakal bıyık kazanır."
+    },
+    {
+      "id": "46b6beb3",
+      "bank_id": "50f49600",
+      "text": "Sürekli sarhoşsunuzdur ve bu sarhoş öfkenizi hobbe'lere fazladan hasar vermek için odaklayabilirsiniz."
+    },
+    {
+      "id": "497e2dbf",
+      "bank_id": "50f49600",
+      "text": "Çetin balverine Avcısı"
+    },
+    {
+      "id": "4b1f9ac0",
+      "bank_id": "50f49600",
+      "text": "Balverine'lerle dövüşürken ilave hasar verirsiniz ancak canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "4d78db80",
+      "bank_id": "50f49600",
+      "text": "Haşmetli balverine Suikastçısı"
+    },
+    {
+      "id": "4ee5e4ce",
+      "bank_id": "50f49600",
+      "text": "Hobbe'lere daha çok hasar verirsiniz ve sizi daha çekici kılan bir ateş böceği sürüsüyle çevrelenirsiniz."
+    },
+    {
+      "id": "4ef3563e",
+      "bank_id": "50f49600",
+      "text": "Tüm düşmanlara, bilhassa da balverine'lere fazladan hasar verin. Ayrıca tüm rakiplerden daha az hasar alın."
+    },
+    {
+      "id": "50ea3856",
+      "bank_id": "50f49600",
+      "text": "Kof Adamlara daha çok hasar verin ancak dövüşte daha fazla yara izi alın."
+    },
+    {
+      "id": "514e0c1c",
+      "bank_id": "50f49600",
+      "text": "Tılsımlı Kof Adam Avcısı"
+    },
+    {
+      "id": "52a91bbf",
+      "bank_id": "50f49600",
+      "text": "Silahın böceklere verdiği hasar miktarını artırır."
+    },
+    {
+      "id": "53873e98",
+      "bank_id": "50f49600",
+      "text": "Kof Adamları olağanüstü bir beceriyle katledersiniz ve vücudunuz Azrail dövmeleriyle kaplıdır."
+    },
+    {
+      "id": "58d54dcc",
+      "bank_id": "50f49600",
+      "text": "Hobbe Azraili"
+    },
+    {
+      "id": "592af9d0",
+      "bank_id": "50f49600",
+      "text": "Balverine'lere karşı daha fazla hasar verirsiniz ancak genel olarak daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "5971bba0",
+      "bank_id": "50f49600",
+      "text": "Böceklere karşı olağanüstü hüneriniz, karanlık yerlerde yolunuzu aydınlatan bir parıltı verir."
+    },
+    {
+      "id": "5dec80f4",
+      "bank_id": "50f49600",
+      "text": "Hobbe Avcısının Istırabı"
+    },
+    {
+      "id": "63e4c958",
+      "bank_id": "50f49600",
+      "text": "Kof Adamlara karşı daha fazla hasar verirsiniz ancak genel olarak daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "66bc3607",
+      "bank_id": "50f49600",
+      "text": "Balverine Avcısının Işığı"
+    },
+    {
+      "id": "6cd2ca96",
+      "bank_id": "50f49600",
+      "text": "Silahın Kof Adamlara verdiği hasar miktarını artırır."
+    },
+    {
+      "id": "6d599e8f",
+      "bank_id": "50f49600",
+      "text": "Böcek Avcısının Sürüsü"
+    },
+    {
+      "id": "6e245d37",
+      "bank_id": "50f49600",
+      "text": "Böcek Avcısının Istırabı"
+    },
+    {
+      "id": "6ed580b3",
+      "bank_id": "50f49600",
+      "text": "Lanetli Böcek Avcısı"
+    },
+    {
+      "id": "6f641daa",
+      "bank_id": "50f49600",
+      "text": "Hobbe'lere karşı daha fazla hasar verirsiniz ancak genel olarak daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "72a4539e",
+      "bank_id": "50f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nHer ikisine de sahipsiniz: Efsunlu silahla harika bir beceri ve dövüşte daha az hasar alırken daha fazla hasar verme yeteneği."
+    },
+    {
+      "id": "75770006",
+      "bank_id": "50f49600",
+      "text": "Hobbe'leri olağanüstü bir beceriyle katledersiniz ve vücudunuz Azrail dövmeleriyle kaplıdır."
+    },
+    {
+      "id": "76235adb",
+      "bank_id": "50f49600",
+      "text": "Puslukeskin"
+    },
+    {
+      "id": "765a5164",
+      "bank_id": "50f49600",
+      "text": "Talih ve Beceri Efsun Taşı"
+    },
+    {
+      "id": "77bc4c8e",
+      "bank_id": "50f49600",
+      "text": "Hobbe'lerle dövüşürken ilave hasar verirsiniz ancak canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "786d228a",
+      "bank_id": "50f49600",
+      "text": "Kof Adamlara karşı fazladan hasar verirsiniz ve tüm Haşmet dövmelerinizle fazlasıyla etkileyici görünürsünüz."
+    },
+    {
+      "id": "7a83e9a8",
+      "bank_id": "50f49600",
+      "text": "Kof Adamlarla dövüşürken ilave hasar verirsiniz ancak canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "7cb856c3",
+      "bank_id": "50f49600",
+      "text": "Yumuşak Böcek Avcısı"
+    },
+    {
+      "id": "7dc9e15e",
+      "bank_id": "50f49600",
+      "text": "Kıymıklara daha çok hasar verirsiniz ve sizi daha çekici kılan bir ateş böceği sürüsüyle çevrelenirsiniz."
+    },
+    {
+      "id": "7fb88df2",
+      "bank_id": "50f49600",
+      "text": "Lanetli Beceri Efsun Taşı"
+    },
+    {
+      "id": "83fa4724",
+      "bank_id": "50f49600",
+      "text": "Kıymık Avcısının Sürüsü"
+    },
+    {
+      "id": "84cfaffd",
+      "bank_id": "50f49600",
+      "text": "Efsunlu silahla öylesine bir beceriye sahipsinizdir ki ellerinizde parıldıyor gibi görünür."
+    },
+    {
+      "id": "8aa7b383",
+      "bank_id": "50f49600",
+      "text": "Hobbe'lere karşı olağanüstü hüneriniz, karanlık yerlerde yolunuzu aydınlatan bir parıltı verir."
+    },
+    {
+      "id": "8b7733f1",
+      "bank_id": "50f49600",
+      "text": "Böceklere karşı daha fazla hasar verirsiniz ancak genel olarak daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "8deff136",
+      "bank_id": "50f49600",
+      "text": "Tüm düşmanlara, bilhassa da Kof Adamlara fazladan hasar verin. Ayrıca tüm rakiplerden daha az hasar alın."
+    },
+    {
+      "id": "8ff326f9",
+      "bank_id": "50f49600",
+      "text": "Silahınızı hayret verici bir beceriyle kullanırsınız; her daim ne kadar sarhoş olduğunuz düşünüldüğünde bu bilhassa etkileyicidir. Bu efsun taşının adı Puslu adında birine ait arptan gelmiş olabilir."
+    },
+    {
+      "id": "911f8e81",
+      "bank_id": "50f49600",
+      "text": "Sürekli sarhoşsunuzdur ve bu sarhoş öfkenizi Kof Adamlara fazladan hasar vermek için odaklayabilirsiniz."
+    },
+    {
+      "id": "91945b2d",
+      "bank_id": "50f49600",
+      "text": "Kof Adamlara karşı artırılmış hasar ve yara izlerine karşı artırılmış direnç."
+    },
+    {
+      "id": "93410547",
+      "bank_id": "50f49600",
+      "text": "Tılsımlı Böcek Avcısı"
+    },
+    {
+      "id": "958650bc",
+      "bank_id": "50f49600",
+      "text": "Yumuşak Kof Adam Avcısı"
+    },
+    {
+      "id": "970227c0",
+      "bank_id": "50f49600",
+      "text": "Efsunlu silahla beceriniz artar ve Azrail dövmeleri de bir o kadar etkileyicidir."
+    },
+    {
+      "id": "993576ea",
+      "bank_id": "50f49600",
+      "text": "Yumuşak hobbe Avcısı"
+    },
+    {
+      "id": "9bfbe911",
+      "bank_id": "50f49600",
+      "text": "Böceklere karşı fazladan hasar verirsiniz ve tüm Haşmet dövmelerinizle fazlasıyla etkileyici görünürsünüz."
+    },
+    {
+      "id": "a1ae4e12",
+      "bank_id": "50f49600",
+      "text": "Balverine'lere karşı fazladan hasar verirsiniz ve tüm Haşmet dövmelerinizle fazlasıyla etkileyici görünürsünüz."
+    },
+    {
+      "id": "a6d1ede0",
+      "bank_id": "50f49600",
+      "text": "Normalden çok daha büyük hasar verirsiniz ancak karşılığında canınız tehlikeli seviyelere kadar sürekli tükenir.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "a75519e2",
+      "bank_id": "50f49600",
+      "text": "Balverine Avcısının Istırabı"
+    },
+    {
+      "id": "a788aa48",
+      "bank_id": "50f49600",
+      "text": "Hobbe'lere kafanızdaki tüm saçlar pahasına daha çok hasar verirsiniz."
+    },
+    {
+      "id": "a8c4f5af",
+      "bank_id": "50f49600",
+      "text": "Silah Kof Adamlara karşı fazladan hasar kazanır. Kuşanan kişi ise ilave sakal bıyık kazanır."
+    },
+    {
+      "id": "aa8f8389",
+      "bank_id": "50f49600",
+      "text": "Silah hobbe'lere karşı fazladan hasar kazanır. Kuşanan kişi ise ilave sakal bıyık kazanır."
+    },
+    {
+      "id": "ab55a537",
+      "bank_id": "50f49600",
+      "text": "Hobbe'lere karşı artırılmış hasar ve yara izlerine karşı artırılmış direnç."
+    },
+    {
+      "id": "ac768575",
+      "bank_id": "50f49600",
+      "text": "Balverine'lere karşı artırılmış hasar ve yara izlerine karşı artırılmış direnç."
+    },
+    {
+      "id": "ae130c99",
+      "bank_id": "50f49600",
+      "text": "Sürekli sarhoşsunuzdur ve bu sarhoş öfkenizi balverine'lere fazladan hasar vermek için odaklayabilirsiniz."
+    },
+    {
+      "id": "ae2c71d5",
+      "bank_id": "50f49600",
+      "text": "Kof Adamlara karşı olağanüstü hüneriniz, karanlık yerlerde yolunuzu aydınlatan bir parıltı verir."
+    },
+    {
+      "id": "aef2e7fc",
+      "bank_id": "50f49600",
+      "text": "Kof Adam Avcısı"
+    },
+    {
+      "id": "af148f65",
+      "bank_id": "50f49600",
+      "text": "Böceklere daha çok hasar verirsiniz ve sizi daha çekici kılan bir ateş böceği sürüsüyle çevrelenirsiniz."
+    },
+    {
+      "id": "b015ceda",
+      "bank_id": "50f49600",
+      "text": "Kof Adam Azraili"
+    },
+    {
+      "id": "b0bfea4b",
+      "bank_id": "50f49600",
+      "text": "Sakallı hobbe Avcısı"
+    },
+    {
+      "id": "b2331c7e",
+      "bank_id": "50f49600",
+      "text": "Tılsımlı hobbe Avcısı"
+    },
+    {
+      "id": "b5259738",
+      "bank_id": "50f49600",
+      "text": "Kıymıklara kafanızdaki tüm saçlar pahasına daha çok hasar verirsiniz."
+    },
+    {
+      "id": "b5a73b42",
+      "bank_id": "50f49600",
+      "text": "Böcek Avcısının Işığı"
+    },
+    {
+      "id": "b5fa839d",
+      "bank_id": "50f49600",
+      "text": "Böcek Avcısı"
+    },
+    {
+      "id": "b6cb989e",
+      "bank_id": "50f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nEfsunlu silahla beceriklisinizdir ancak kolayca yara izi alırsınız. Dövüşe girdiğinizde hiç kimse oradan yakışıklı ayrılamaz."
+    },
+    {
+      "id": "b6ddd614",
+      "bank_id": "50f49600",
+      "text": "Silahın belirli bir yaratık türüne verdiği hasar miktarını artırır."
+    },
+    {
+      "id": "b7fce9a6",
+      "bank_id": "50f49600",
+      "text": "Kof Adamlara kafanızdaki tüm saçlar pahasına daha çok hasar verirsiniz."
+    },
+    {
+      "id": "b87bacbc",
+      "bank_id": "50f49600",
+      "text": "Silahın hobbe'lere verdiği hasar miktarını artırır."
+    },
+    {
+      "id": "b9d0ee95",
+      "bank_id": "50f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nEfsunlu silahla artırılmış beceriniz ve neredeyse kusursuz bir teniniz vardır: Yara izi alma ihtimaliniz çok daha düşüktür."
+    },
+    {
+      "id": "ba819664",
+      "bank_id": "50f49600",
+      "text": "İki Ucu Keskin Efsun Taşı"
+    },
+    {
+      "id": "ba93eba0",
+      "bank_id": "50f49600",
+      "text": "Balverine'leri olağanüstü bir beceriyle katledersiniz ve vücudunuz Azrail dövmeleriyle kaplıdır."
+    },
+    {
+      "id": "ba977061",
+      "bank_id": "50f49600",
+      "text": "Böceklere daha çok hasar verin ancak dövüşte daha fazla yara izi alın."
+    },
+    {
+      "id": "bbd43cbe",
+      "bank_id": "50f49600",
+      "text": "Balverine'lere kafanızdaki tüm saçlar pahasına daha çok hasar verirsiniz."
+    },
+    {
+      "id": "bc579384",
+      "bank_id": "50f49600",
+      "text": "Sarhoş Böcek Avcısı"
+    },
+    {
+      "id": "be121584",
+      "bank_id": "50f49600",
+      "text": "Balverine Avcısı"
+    },
+    {
+      "id": "c071c59a",
+      "bank_id": "50f49600",
+      "text": "Lanetli Kof Adam Avcısı"
+    },
+    {
+      "id": "c3a15104",
+      "bank_id": "50f49600",
+      "text": "Yumuşak balverine Avcısı"
+    },
+    {
+      "id": "c465a568",
+      "bank_id": "50f49600",
+      "text": "Lanetli Kıymık Avcısı"
+    },
+    {
+      "id": "c4716683",
+      "bank_id": "50f49600",
+      "text": "Böcek Azraili"
+    },
+    {
+      "id": "ca7d51e0",
+      "bank_id": "50f49600",
+      "text": "Haşmetli Beceri"
+    },
+    {
+      "id": "cc09db01",
+      "bank_id": "50f49600",
+      "text": "Böceklere kafanızdaki tüm saçlar pahasına daha çok hasar verirsiniz."
+    },
+    {
+      "id": "cc70851f",
+      "bank_id": "50f49600",
+      "text": "Kof Adam Avcısının Işığı"
+    },
+    {
+      "id": "cc86745d",
+      "bank_id": "50f49600",
+      "text": "Balverine'lere karşı olağanüstü hüneriniz, karanlık yerlerde yolunuzu aydınlatan bir parıltı verir."
+    },
+    {
+      "id": "d204ece3",
+      "bank_id": "50f49600",
+      "text": "Sürekli sarhoşsunuzdur ve bu sarhoş öfkenizi kıymıklara fazladan hasar vermek için odaklayabilirsiniz."
+    },
+    {
+      "id": "d3155754",
+      "bank_id": "50f49600",
+      "text": "Hobbe'lere karşı fazladan hasar verirsiniz ve tüm Haşmet dövmelerinizle fazlasıyla etkileyici görünürsünüz."
+    },
+    {
+      "id": "d3578eb9",
+      "bank_id": "50f49600",
+      "text": "Sarhoş hobbe Avcısı"
+    },
+    {
+      "id": "d47ce063",
+      "bank_id": "50f49600",
+      "text": "Sarhoş Kof Adam Avcısı"
+    },
+    {
+      "id": "d5248604",
+      "bank_id": "50f49600",
+      "text": "Tılsımlı balverine Avcısı"
+    },
+    {
+      "id": "d5623e52",
+      "bank_id": "50f49600",
+      "text": "Lanetli balverine Avcısı"
+    },
+    {
+      "id": "d59a99df",
+      "bank_id": "50f49600",
+      "text": "Beceri ve Güzellik Efsun Taşı"
+    },
+    {
+      "id": "d8adaf4e",
+      "bank_id": "50f49600",
+      "text": "Avcı Efsun Taşı"
+    },
+    {
+      "id": "da2f0ba6",
+      "bank_id": "50f49600",
+      "text": "Silah böceklere karşı fazladan hasar kazanır. Kuşanan kişi ise ilave sakal bıyık kazanır."
+    },
+    {
+      "id": "de5aa096",
+      "bank_id": "50f49600",
+      "text": "Hobbe Avcısı"
+    },
+    {
+      "id": "e5c604a4",
+      "bank_id": "50f49600",
+      "text": "Yıkım Efsun Taşı"
+    },
+    {
+      "id": "ef8c9195",
+      "bank_id": "50f49600",
+      "text": "Çetin hobbe Avcısı"
+    },
+    {
+      "id": "f2b32c6d",
+      "bank_id": "50f49600",
+      "text": "Böceklerle dövüşürken ilave hasar verirsiniz ancak canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "f337a6e2",
+      "bank_id": "50f49600",
+      "text": "Azrail'in Becerisi"
+    },
+    {
+      "id": "f6926c9d",
+      "bank_id": "50f49600",
+      "text": "Tüm düşmanlara, bilhassa da böceklere fazladan hasar verin. Ayrıca tüm rakiplerden daha az hasar alın."
+    },
+    {
+      "id": "f75f988e",
+      "bank_id": "50f49600",
+      "text": "Haşmetli hobbe Suikastçısı"
+    },
+    {
+      "id": "f84e4dca",
+      "bank_id": "50f49600",
+      "text": "Dertli Kof Adam Avcısı"
+    },
+    {
+      "id": "f999c698",
+      "bank_id": "50f49600",
+      "text": "Lanetli hobbe Avcısı"
+    },
+    {
+      "id": "ff5b0053",
+      "bank_id": "50f49600",
+      "text": "Haşmetli Böcek Ezici"
+    },
+    {
+      "id": "ffc9549b",
+      "bank_id": "50f49600",
+      "text": "Sakallı Kıymık Avcısı"
+    },
+    {
+      "id": "ffd61721",
+      "bank_id": "50f49600",
+      "text": "Böcekleri olağanüstü bir beceriyle katledersiniz ve vücudunuz Azrail dövmeleriyle kaplıdır."
+    }
+  ]
+}

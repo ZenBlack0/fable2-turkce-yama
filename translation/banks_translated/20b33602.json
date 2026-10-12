@@ -1,0 +1,566 @@
+{
+  "bank_id": "20b33602",
+  "total_strings": 112,
+  "strings": [
+    {
+      "id": "033738a9",
+      "bank_id": "20b33602",
+      "text": "Wraithmarsh'ta mıydın canım? Oranın tekinsiz ve perili olduğu söylenmez miydi?"
+    },
+    {
+      "id": "033738aa",
+      "bank_id": "20b33602",
+      "text": "Peki Wraithmarsh nasıldı hayatım? Söyledikleri kadar ürpertici miydi?"
+    },
+    {
+      "id": "033738ad",
+      "bank_id": "20b33602",
+      "text": "Peki Wraithmarsh nasıldı hayatım? Söyledikleri kadar ürpertici miydi?"
+    },
+    {
+      "id": "1c0918fd",
+      "bank_id": "20b33602",
+      "text": "Bakıyorum da Reaver seni vurmamış. Biliyorum çünkü vursaydı ıskalamazdı!"
+    },
+    {
+      "id": "1cf59f43",
+      "bank_id": "20b33602",
+      "text": "En azından o şey tehlikeli değildi. Sadece havada süzüldü biraz. Yine de altında durmazdım ama."
+    },
+    {
+      "id": "1cf59f45",
+      "bank_id": "20b33602",
+      "text": "Şu havada yüzen kaya parçası mı? Ne olduğundan bana ne yahu?"
+    },
+    {
+      "id": "1cf59f47",
+      "bank_id": "20b33602",
+      "text": "Yer çekimine meydan okuyan bu yapının ardında gizli bir büyü sanatı olmalı. Yahut belki de bilim havada durma mekânizmasını mükemmelleştirmiştir."
+    },
+    {
+      "id": "1e98cf40",
+      "bank_id": "20b33602",
+      "text": "Kule'den geri dönmeyi başaran tek kişi bu. Sence diğerleri öldü mü?"
+    },
+    {
+      "id": "1e98cf41",
+      "bank_id": "20b33602",
+      "text": "O Kule'de neler olduğunu kimsenin asla bilebileceğini sanmıyorum."
+    },
+    {
+      "id": "1e98cf43",
+      "bank_id": "20b33602",
+      "text": "O Kule'de neler yaşandığını bilmeyi çok isterdim."
+    },
+    {
+      "id": "1e98cf44",
+      "bank_id": "20b33602",
+      "text": "Orada bulunanlar haricinde hiç kimse o Kule'de neler olup bittiğini asla bilemeyecek."
+    },
+    {
+      "id": "1e98cf45",
+      "bank_id": "20b33602",
+      "text": "Kule'den sağ dönmeyi başaran tek maceracı bu. Sence diğerleri öldü mü?"
+    },
+    {
+      "id": "1e98cf46",
+      "bank_id": "20b33602",
+      "text": "O Kule'de neler döndü öyle? Sağ kurtulan tek kişi bu olamaz, değil mi?"
+    },
+    {
+      "id": "1e98cf47",
+      "bank_id": "20b33602",
+      "text": "O Kule'de her ne olduysa oldu, en azından dünyanın sonu gelmedi."
+    },
+    {
+      "id": "1f3ff1cb",
+      "bank_id": "20b33602",
+      "text": "Şu cici kasabamızı pek bir sevdin galiba yabancı?"
+    },
+    {
+      "id": "2109209d",
+      "bank_id": "20b33602",
+      "text": "Eee, Reaver hakkında ne düşündün bakalım? Pek bir cici çocuk değil mi? Bir de yılan kadar güvenilirdir. Ha ha!"
+    },
+    {
+      "id": "24675b93",
+      "bank_id": "20b33602",
+      "text": "Yanlışlıkla Bloodstone'a yanaşan gemiyi duydun mu? Bir daha gören olmamış."
+    },
+    {
+      "id": "24675b94",
+      "bank_id": "20b33602",
+      "text": "Çoğu haritacı Bloodstone limanını haritada sadece bir noktadan ibaret bırakır. Pek az kişi oraya gitmeye cüret edebilir."
+    },
+    {
+      "id": "24675b96",
+      "bank_id": "20b33602",
+      "text": "Şansımı Bloodstone'da denemeyi düşünüyordum. Hep gemileri yağmalamanın hayalini kurmuşumdur."
+    },
+    {
+      "id": "2598da40",
+      "bank_id": "20b33602",
+      "text": "O Kule'de her ne yaşanıyorduysa artık bittiğine sadece seviniyorum."
+    },
+    {
+      "id": "2598da41",
+      "bank_id": "20b33602",
+      "text": "O Kule'deki hadiseler ebediyen bir gizem perdesi ardında kalacak, sen de katılmaz mısın?"
+    },
+    {
+      "id": "2598da42",
+      "bank_id": "20b33602",
+      "text": "Kule'deki bütün o ışıkları gördün mü? Neler oldu acaba..."
+    },
+    {
+      "id": "2598da43",
+      "bank_id": "20b33602",
+      "text": "Keşke o Kule'de neler döndüğünü bilebilseydim."
+    },
+    {
+      "id": "2598da44",
+      "bank_id": "20b33602",
+      "text": "Lucien'in Kulesi'nde gerçekte neler olduğunu bilen tek kişi işte oradan geçiyor."
+    },
+    {
+      "id": "2598da45",
+      "bank_id": "20b33602",
+      "text": "Lucien'in karşısına dikilen diğerlerine ne oldu dersin?"
+    },
+    {
+      "id": "2598da46",
+      "bank_id": "20b33602",
+      "text": "Peki ya Lucien'e kafa tutan diğer bütün Kahramanlar? Nereye kayboldular?"
+    },
+    {
+      "id": "2732f427",
+      "bank_id": "20b33602",
+      "text": "Wraithmarsh hayaletlerle, hortlaklarla falan mı doluydu?"
+    },
+    {
+      "id": "2b676692",
+      "bank_id": "20b33602",
+      "text": "Diyorum sana, bir gün Bloodstone'a gidip şu liderlerini kendi gözlerimle görmeliyim. Reaver'ın afet gibi bir parça olduğunu söylüyorlar."
+    },
+    {
+      "id": "2b676694",
+      "bank_id": "20b33602",
+      "text": "İnsan neden Bloodstone'a gitmek ister ki? Boynuna bıçak saplanmadan iki adım bile atamadığını duydum."
+    },
+    {
+      "id": "2e32ff2a",
+      "bank_id": "20b33602",
+      "text": "Wraithmarsh'ta hiç hayalet gördün mü?"
+    },
+    {
+      "id": "31f3e735",
+      "bank_id": "20b33602",
+      "text": "Geçen geceki o banshee çığlıklarını duydun mu? Canlı birinin yanlarından sıyrılıp geçtiğini söylüyorlar."
+    },
+    {
+      "id": "3cf3f864",
+      "bank_id": "20b33602",
+      "text": "Birinin Wraithmarsh tarafından geldiğini duydun mu? Orasının devasa bir mezarlıktan ibaret olduğunu sanırdım ben."
+    },
+    {
+      "id": "41baf31b",
+      "bank_id": "20b33602",
+      "text": "Tehlikenin ilk işaretinde sıvışmak tam Reaver'a göre bir hareket."
+    },
+    {
+      "id": "4abb016f",
+      "bank_id": "20b33602",
+      "text": "Zaman nihayet Reaver'ı da yakaladı mı dersin?"
+    },
+    {
+      "id": "4ac371d6",
+      "bank_id": "20b33602",
+      "text": "Wraithmarsh'ta bazı tekinsiz işler çevirdiğini duydum."
+    },
+    {
+      "id": "51c37cd2",
+      "bank_id": "20b33602",
+      "text": "Genç bir kızın Wraithmarsh'tan ihtiyar bir kadın olarak döndüğünü söylüyorlar!"
+    },
+    {
+      "id": "527b5fa8",
+      "bank_id": "20b33602",
+      "text": "Ah, Bloodstone'un saldırıya uğradığını duyduğumda en kötüsünden korkmuştum!"
+    },
+    {
+      "id": "527b5fa9",
+      "bank_id": "20b33602",
+      "text": "Ah, Bloodstone'un saldırıya uğradığını duyduğumda en kötüsünden korkmuştum!"
+    },
+    {
+      "id": "527b5faa",
+      "bank_id": "20b33602",
+      "text": "Ah, Bloodstone'un saldırıya uğradığını duyduğumda en kötüsünden korkmuştum!"
+    },
+    {
+      "id": "527b5fab",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'un saldırıya uğradığı doğru mu hayatım?"
+    },
+    {
+      "id": "527b5fac",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'un saldırıya uğradığı doğru mu hayatım?"
+    },
+    {
+      "id": "527b5fad",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'un saldırıya uğradığı doğru mu hayatım?"
+    },
+    {
+      "id": "527b5fae",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'un saldırıya uğradığını duyduğumda öyle çok endişelendim ki. Çok şükür iyisin."
+    },
+    {
+      "id": "5a4b13d7",
+      "bank_id": "20b33602",
+      "text": "Reaver'ın o küçük ayak işine gittikten sonra şu maceracının hali pek iyi görünmüyor."
+    },
+    {
+      "id": "5b7b6df8",
+      "bank_id": "20b33602",
+      "text": "Ah, Bloodstone'un saldırıya uğradığını duyduğumda en kötüsünden korkmuştum!"
+    },
+    {
+      "id": "5b7b6df9",
+      "bank_id": "20b33602",
+      "text": "Ah, Bloodstone'a yapılan saldırıyı duyduğumda öyle çok endişelendim ki."
+    },
+    {
+      "id": "5b7b6dfb",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'un saldırıya uğradığını duyduğumda öyle çok endişelendim ki. Çok şükür iyisin."
+    },
+    {
+      "id": "5b7b6dfc",
+      "bank_id": "20b33602",
+      "text": "Ah, Bloodstone'un saldırıya uğradığını duyduğumda en kötüsünden korkmuştum!"
+    },
+    {
+      "id": "5b7b6dfe",
+      "bank_id": "20b33602",
+      "text": "Ah, Bloodstone'un saldırıya uğradığını duyduğumda kesin öldüğünü sanmıştım."
+    },
+    {
+      "id": "5b7b6dff",
+      "bank_id": "20b33602",
+      "text": "Ah, Bloodstone'un saldırıya uğradığını duyduğumda kesin öldüğünü sanmıştım."
+    },
+    {
+      "id": "5f37c999",
+      "bank_id": "20b33602",
+      "text": "Oooh, evet ya, Reaver sana fena halde tutulacak. Hih hih!"
+    },
+    {
+      "id": "6a37dac9",
+      "bank_id": "20b33602",
+      "text": "Reaver ile tanıştın mı daha? Seni büyük bir sürpriz bekliyor, yalan mı yani! Ha ha!"
+    },
+    {
+      "id": "6d088bb1",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'un hükümdarı Reaver'ın hikâyelerini duydun mu hiç? Bir gün bile yaşlanmıyor sanki."
+    },
+    {
+      "id": "6d088bb6",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'da iki saniye bile dayanamazsın. Bir kere gitmiştim, hâlâ hayatta olmam mucize."
+    },
+    {
+      "id": "6f621a62",
+      "bank_id": "20b33602",
+      "text": "Biri şu Kule hakkında bir şeyler yapacak mı artık? Haydutlar bile korkuyor ondan şimdi."
+    },
+    {
+      "id": "6f621a67",
+      "bank_id": "20b33602",
+      "text": "O uzaktaki kuleden gelen enerjiyi neredeyse hissedebiliyorsun. İçimi bir tuhaf bulandırıyor."
+    },
+    {
+      "id": "730bf808",
+      "bank_id": "20b33602",
+      "text": "Bloodstone ilk defa saldırıya uğramıyor ya. Hem en azından ortalığı yerle bir etmediler."
+    },
+    {
+      "id": "730bf809",
+      "bank_id": "20b33602",
+      "text": "Şu sözde Lord Lucien buralarda yüzünü gösterecek olursa, tam münasip yerine yiyecek o koca kazığı."
+    },
+    {
+      "id": "7608999f",
+      "bank_id": "20b33602",
+      "text": "Korsanların ve boğazkesenlerin kasabası neye benzermiş görmek istiyorsan Bloodstone'a git."
+    },
+    {
+      "id": "76622569",
+      "bank_id": "20b33602",
+      "text": "Kötü bir şeyler yaklaşıyor. Kemiklerimde hissedebiliyorum. Belki de biraz kalsiyum almalıyım."
+    },
+    {
+      "id": "7662256e",
+      "bank_id": "20b33602",
+      "text": "Reaver'ın Bloodstone'dan gittiğini söylüyorlar. Kesin bir belaya delalet bu."
+    },
+    {
+      "id": "7e0c09b8",
+      "bank_id": "20b33602",
+      "text": "O lanet askerler pılıyı pırtıyı toplayıp gitti de rahatladık. Hobbe aşkına, kim bu Lucien denen herif?"
+    },
+    {
+      "id": "7e0c09b9",
+      "bank_id": "20b33602",
+      "text": "Bizim ihtiyar geride kalan o askerlerden birini haklamış. Güya yani. Ha."
+    },
+    {
+      "id": "8c1520b7",
+      "bank_id": "20b33602",
+      "text": "Baksana! Şuradaki maceracının Reaver'ın pis işlerini gördüğünü söylüyorlar. Odasındakileri kastetmiyorum ha!"
+    },
+    {
+      "id": "8eca2bb0",
+      "bank_id": "20b33602",
+      "text": "Hey, köpeğin geri dönmüş! Öldü sanıyordum."
+    },
+    {
+      "id": "8eca2bb1",
+      "bank_id": "20b33602",
+      "text": "Demek köpeğin ölmemiş meğer!"
+    },
+    {
+      "id": "8eca2bb3",
+      "bank_id": "20b33602",
+      "text": "Senin köpeğin ölmemiş miydi? Yanılmışım demek!"
+    },
+    {
+      "id": "8eca2bb4",
+      "bank_id": "20b33602",
+      "text": "Vay canına, tüylü dostunuzun vefat ettiğini sanıyordum."
+    },
+    {
+      "id": "8eca2bb5",
+      "bank_id": "20b33602",
+      "text": "Hımm, köpeğiniz nalları dikmemiş miydi? Ne garip."
+    },
+    {
+      "id": "8eca2bb6",
+      "bank_id": "20b33602",
+      "text": "Hey, köpeğin geri dönmüş! Öldü sanıyordum."
+    },
+    {
+      "id": "8eca2bb7",
+      "bank_id": "20b33602",
+      "text": "Hey, o köpek tahtalı köyü boylamamış mıydı?"
+    },
+    {
+      "id": "93152bb3",
+      "bank_id": "20b33602",
+      "text": "Sana bir dost tavsiyesi. Reaver senden bir resmini çizmeni ya da heykelini yapmanı isterse canını kurtarmak için arkana bakmadan kaç."
+    },
+    {
+      "id": "95ca36b0",
+      "bank_id": "20b33602",
+      "text": "İlginç doğrusu. Köpek dostunuzun vefat ettiği izlenimine kapılmıştım. Belli ki yanılmışım."
+    },
+    {
+      "id": "95ca36b1",
+      "bank_id": "20b33602",
+      "text": "Köpeğinizin ölüm haberinin fazlasıyla abartılmış olduğunu gördüğüme sevindim."
+    },
+    {
+      "id": "95ca36b2",
+      "bank_id": "20b33602",
+      "text": "Hey, o it ölmemiş miydi?"
+    },
+    {
+      "id": "95ca36b3",
+      "bank_id": "20b33602",
+      "text": "Hey, senin itin öldüğünü sanıyordum. Neler dönüyor burada?"
+    },
+    {
+      "id": "95ca36b4",
+      "bank_id": "20b33602",
+      "text": "Köpeğin yaşıyor! Ne harika. Ama nasıl? Öldürüldüğünü duymuştum."
+    },
+    {
+      "id": "95ca36b5",
+      "bank_id": "20b33602",
+      "text": "A, köpeğinin öldüğünü duymuştum. Yanlış duymuşum demek."
+    },
+    {
+      "id": "95ca36b6",
+      "bank_id": "20b33602",
+      "text": "Köpeğin! Ama öldü sanıyordum."
+    },
+    {
+      "id": "968047e8",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'da ne oldu öyle? Askerlerle falan gümbür gümbür saldırıya mı uğradı yani?"
+    },
+    {
+      "id": "9b804f89",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'a kim saldırdı? Kötü insanlar mıydı?"
+    },
+    {
+      "id": "a30ffb16",
+      "bank_id": "20b33602",
+      "text": "Wraithmarsh'tan sağ çıkan sen misin? Oradan hayaletlerden başka hiçbir şey çıkmaz oysa!"
+    },
+    {
+      "id": "aa100613",
+      "bank_id": "20b33602",
+      "text": "O hayalet kasabada epey bir ruhla cenk ederek yolunu açmış olmalısın, ha?"
+    },
+    {
+      "id": "b09de450",
+      "bank_id": "20b33602",
+      "text": "Bana sorarsan Reaver onun gençliğini çaldı. Pek çok şeyi açıklıyor bu."
+    },
+    {
+      "id": "b2bf46f4",
+      "bank_id": "20b33602",
+      "text": "Şu maceracının ellerinde kan var..."
+    },
+    {
+      "id": "bdbf5824",
+      "bank_id": "20b33602",
+      "text": "Kaybolan o çocuğu duydun mu? Reaver ile şu maceracının parmağı var bu işte."
+    },
+    {
+      "id": "c5a3432a",
+      "bank_id": "20b33602",
+      "text": "Lucien'in Bloodstone'a saldırdığını söylüyorlar ama artık her şey normale döndü."
+    },
+    {
+      "id": "c5a3432b",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'da bir şeyler oldu ama kimse ne olduğunu ya da nedenini tam bilmiyor."
+    },
+    {
+      "id": "c5a3432d",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'a yapılan o saldırıyı duydun mu? Ne yaşandığından kimse tam emin değil."
+    },
+    {
+      "id": "caa34aca",
+      "bank_id": "20b33602",
+      "text": "Bazıları Bloodstone saldırısının arkasında Lord Lucien'in olduğunu söylüyor. Ama neden böyle bir şey yapsın ki?"
+    },
+    {
+      "id": "caa34acb",
+      "bank_id": "20b33602",
+      "text": "Bloodstone bir çeşit saldırıya uğradı. Muhtemelen hak etmişti de."
+    },
+    {
+      "id": "caa34acc",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'da ne olduğunu duydun mu? Görünüşe göre her yer normale dönmüş şimdi."
+    },
+    {
+      "id": "cfcaece9",
+      "bank_id": "20b33602",
+      "text": "Dedem kendini bildi bileli Reaver'ın bir gün bile yaşlanmadığına yemin ediyor. Doğa dışı işler."
+    },
+    {
+      "id": "d02031ec",
+      "bank_id": "20b33602",
+      "text": "Uzaktan beliren o gemileri duydun mu? Bana sorarsan hayra alamet değil."
+    },
+    {
+      "id": "dacafe19",
+      "bank_id": "20b33602",
+      "text": "Şu Reaver canı ne zaman isterse beni alabilir. Ki sık sık da alır zaten!"
+    },
+    {
+      "id": "e5949bc1",
+      "bank_id": "20b33602",
+      "text": "Bloodstone'da mıydın? Bana kalırsa orayı toptan yakıp kül etmeleri gerekirdi."
+    },
+    {
+      "id": "e5949bc5",
+      "bank_id": "20b33602",
+      "text": "Bloodstone hakkında yeni bir şeyler duymadın değil mi? Orada birkaç arkadaşım var da."
+    },
+    {
+      "id": "ea1d2d12",
+      "bank_id": "20b33602",
+      "text": "Bir dakika ya. Ailenin öldüğünü söylemişlerdi. Nasıl oluyor da sapasağlam hayattalar o zaman?"
+    },
+    {
+      "id": "ea1d2d13",
+      "bank_id": "20b33602",
+      "text": "Senin ailen ölmemiş miydi? Bu işin içinde bir bit yeniği var."
+    },
+    {
+      "id": "ea1d2d14",
+      "bank_id": "20b33602",
+      "text": "Hepimizin ailenin öldüğünü sanması ve şimdi ölmemiş olmaları çok garip. Üstelik tam da Kule'de bütün o insanlar öldükten hemen sonra..."
+    },
+    {
+      "id": "ea1d2d15",
+      "bank_id": "20b33602",
+      "text": "Ailen nasıl geri döndü bilmem ama keşke benimkiler de dönseydi. Kardeşlerim Kule'de öldü."
+    },
+    {
+      "id": "ea1d2d16",
+      "bank_id": "20b33602",
+      "text": "Ailen nereden çıktı böyle? Öldüklerini sanıyordum."
+    },
+    {
+      "id": "ec262869",
+      "bank_id": "20b33602",
+      "text": "N'oldu sana böyle? Fena halde yaşlanmışsın!"
+    },
+    {
+      "id": "f094ad70",
+      "bank_id": "20b33602",
+      "text": "Saldırıya uğradığında Bloodstone'da olduğun doğru mu?"
+    },
+    {
+      "id": "f094ad74",
+      "bank_id": "20b33602",
+      "text": "Saldırıya uğradığında Bloodstone'da olduğun doğru mu?"
+    },
+    {
+      "id": "f4076c79",
+      "bank_id": "20b33602",
+      "text": "Reaver'ın artık buralarda olmadığına inanamıyorum."
+    },
+    {
+      "id": "f7263999",
+      "bank_id": "20b33602",
+      "text": "İyi misin sen? Sanki bir şey hayat enerjini emip kurutmuş gibi duruyorsun."
+    },
+    {
+      "id": "f7588161",
+      "bank_id": "20b33602",
+      "text": "Bana sorarsan Reaver onun gençliğini çaldı. Pek çok şeyi açıklıyor bu."
+    },
+    {
+      "id": "fe37308a",
+      "bank_id": "20b33602",
+      "text": "Wraithmarsh'ta hiç korkmadın mı sevgilim?"
+    },
+    {
+      "id": "fe37308b",
+      "bank_id": "20b33602",
+      "text": "Peki Wraithmarsh nasıldı hayatım? Söyledikleri kadar ürpertici miydi?"
+    },
+    {
+      "id": "fe37308c",
+      "bank_id": "20b33602",
+      "text": "Peki Wraithmarsh nasıldı hayatım? Söyledikleri kadar ürpertici miydi?"
+    },
+    {
+      "id": "ff077da9",
+      "bank_id": "20b33602",
+      "text": "Reaver'ın nereye gittiğine dair bir fikrin var mı?"
+    }
+  ]
+}

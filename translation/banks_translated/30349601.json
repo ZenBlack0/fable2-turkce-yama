@@ -1,0 +1,1226 @@
+{
+  "bank_id": "30349601",
+  "total_strings": 244,
+  "strings": [
+    {
+      "id": "0390a995",
+      "bank_id": "30349601",
+      "text": "Peh! Sen ha!"
+    },
+    {
+      "id": "03f7cc96",
+      "bank_id": "30349601",
+      "text": "Sadece varlığı bile sokaklarımızı kirletiyor."
+    },
+    {
+      "id": "03f7cc9d",
+      "bank_id": "30349601",
+      "text": "Aman tanrım, bir kadın hiç bu kadar çirkin olabilir mi?"
+    },
+    {
+      "id": "153ca0d1",
+      "bank_id": "30349601",
+      "text": "Domuz ahırında bile daha güzel yüzler gördüm."
+    },
+    {
+      "id": "153ca0da",
+      "bank_id": "30349601",
+      "text": "Böyle görünürken hiç kadın bulabiliyor mudur acaba?"
+    },
+    {
+      "id": "182286b0",
+      "bank_id": "30349601",
+      "text": "Vay, ne kadar da yakışıklı bir vatandaş."
+    },
+    {
+      "id": "182286b3",
+      "bank_id": "30349601",
+      "text": "Affedersiniz, nasılsınız bakalım?"
+    },
+    {
+      "id": "1a52c6c1",
+      "bank_id": "30349601",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "1a52c6c2",
+      "bank_id": "30349601",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "1c717e90",
+      "bank_id": "30349601",
+      "text": "Nasıl gidiyor koca oğlan?"
+    },
+    {
+      "id": "1c717e91",
+      "bank_id": "30349601",
+      "text": "Merhaba yakışıklı!"
+    },
+    {
+      "id": "1c717e93",
+      "bank_id": "30349601",
+      "text": "Selam. Ay, yüzüm kızardı."
+    },
+    {
+      "id": "1c717e94",
+      "bank_id": "30349601",
+      "text": "Seni yeniden görmek ne harika."
+    },
+    {
+      "id": "1c717e95",
+      "bank_id": "30349601",
+      "text": "Bir ara şarap mahzenimi gezmek ister misin?"
+    },
+    {
+      "id": "1c717e96",
+      "bank_id": "30349601",
+      "text": "Merhaba tatlım."
+    },
+    {
+      "id": "1c717e97",
+      "bank_id": "30349601",
+      "text": "Nasıl gidiyor?"
+    },
+    {
+      "id": "23718990",
+      "bank_id": "30349601",
+      "text": "Aman tanrım! Merhaba!"
+    },
+    {
+      "id": "23718991",
+      "bank_id": "30349601",
+      "text": "Eee nasılsın bakalım?"
+    },
+    {
+      "id": "23718992",
+      "bank_id": "30349601",
+      "text": "Fıstık gibi değil misin ama?"
+    },
+    {
+      "id": "23718993",
+      "bank_id": "30349601",
+      "text": "Eee, nasıl gidiyor?"
+    },
+    {
+      "id": "23718994",
+      "bank_id": "30349601",
+      "text": "Merhabalar değerli şey."
+    },
+    {
+      "id": "23718995",
+      "bank_id": "30349601",
+      "text": "Nasıl gidiyor prenses?"
+    },
+    {
+      "id": "23718996",
+      "bank_id": "30349601",
+      "text": "Merhaba güzelim."
+    },
+    {
+      "id": "23fd05a8",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "23fd05a9",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "23fd05aa",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "23fd05ab",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "23fd05ac",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "23fd05ad",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "23fd05ae",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "29a82693",
+      "bank_id": "30349601",
+      "text": "Ona bakmak bile insanın midesini bulandırıyor."
+    },
+    {
+      "id": "29a82698",
+      "bank_id": "30349601",
+      "text": "Ona bakmak bile insanın midesini bulandırıyor."
+    },
+    {
+      "id": "2cfd13f8",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2cfd13f9",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2cfd13fb",
+      "bank_id": "30349601",
+      "text": "<screams>"
+    },
+    {
+      "id": "2cfd13fc",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2cfd13fd",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "2cfd13fe",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2cfd13ff",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "2e81adb8",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "30c28121",
+      "bank_id": "30349601",
+      "text": "Bir balverine'e sarılmayı yeğlerim."
+    },
+    {
+      "id": "30c28122",
+      "bank_id": "30349601",
+      "text": "Burada istenmiyorsun."
+    },
+    {
+      "id": "30c28123",
+      "bank_id": "30349601",
+      "text": "Hoşgörümüzün sınırlarını zorluyorsun."
+    },
+    {
+      "id": "30c28124",
+      "bank_id": "30349601",
+      "text": "Burada istenmiyorsun."
+    },
+    {
+      "id": "30c28125",
+      "bank_id": "30349601",
+      "text": "Defol buradan."
+    },
+    {
+      "id": "30c28126",
+      "bank_id": "30349601",
+      "text": "Git buradan! Kimse seni sevmiyor."
+    },
+    {
+      "id": "30c28127",
+      "bank_id": "30349601",
+      "text": "Gidip debelenecek bir çamurun yok mu senin?"
+    },
+    {
+      "id": "3381b559",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "338ae530",
+      "bank_id": "30349601",
+      "text": "Midemi bulandırıyorsun."
+    },
+    {
+      "id": "338ae531",
+      "bank_id": "30349601",
+      "text": "Gidip sinsice dolaşacak başka bir yer bulamaz mısın?"
+    },
+    {
+      "id": "338ae532",
+      "bank_id": "30349601",
+      "text": "Yine kasabaya dönmüşsün, öyle mi?"
+    },
+    {
+      "id": "338ae533",
+      "bank_id": "30349601",
+      "text": "Peh! Sen ha!"
+    },
+    {
+      "id": "338ae534",
+      "bank_id": "30349601",
+      "text": "Ah.... senmişsin."
+    },
+    {
+      "id": "338ae535",
+      "bank_id": "30349601",
+      "text": "Ah. Yine sen."
+    },
+    {
+      "id": "338ae537",
+      "bank_id": "30349601",
+      "text": "Buraya dönmenin hoş karşılandığını kim söyledi?"
+    },
+    {
+      "id": "3a8af038",
+      "bank_id": "30349601",
+      "text": "Gidin buradan!"
+    },
+    {
+      "id": "3a8af039",
+      "bank_id": "30349601",
+      "text": "Seni kim davet etti?"
+    },
+    {
+      "id": "3a8af03a",
+      "bank_id": "30349601",
+      "text": "Yıkıl karşımdan!"
+    },
+    {
+      "id": "3a8af03c",
+      "bank_id": "30349601",
+      "text": "Tam anlamıyla iğrenç."
+    },
+    {
+      "id": "3a8af03d",
+      "bank_id": "30349601",
+      "text": "Yine mi sen! İpucunu kap ve git artık, olur mu?"
+    },
+    {
+      "id": "3a8af03e",
+      "bank_id": "30349601",
+      "text": "Peh! Sen ha!"
+    },
+    {
+      "id": "3a8af03f",
+      "bank_id": "30349601",
+      "text": "Bu koku da ne? Ah, senmişsin."
+    },
+    {
+      "id": "3b97aa57",
+      "bank_id": "30349601",
+      "text": "Gelmiş geçmiş en çirkin kahraman yarışmasında ikinci olmuş diye duydum. Birinciyi hayal etsenize."
+    },
+    {
+      "id": "3b97aa5c",
+      "bank_id": "30349601",
+      "text": "Onu sirkte sergilemeliler."
+    },
+    {
+      "id": "3bc29250",
+      "bank_id": "30349601",
+      "text": "Başka bir yere gidemez misin?"
+    },
+    {
+      "id": "3bc29252",
+      "bank_id": "30349601",
+      "text": "Uzak dur benden."
+    },
+    {
+      "id": "3bc29253",
+      "bank_id": "30349601",
+      "text": "İnsanları rahatsız ediyorsun, biliyorsun değil mi?"
+    },
+    {
+      "id": "3bc29254",
+      "bank_id": "30349601",
+      "text": "Ne istiyorsun?!"
+    },
+    {
+      "id": "3bc29255",
+      "bank_id": "30349601",
+      "text": "Git bir hobbe yala."
+    },
+    {
+      "id": "3bc29256",
+      "bank_id": "30349601",
+      "text": "Yozlaşmış herif!"
+    },
+    {
+      "id": "3bc29257",
+      "bank_id": "30349601",
+      "text": "Domuz."
+    },
+    {
+      "id": "3efbd2d0",
+      "bank_id": "30349601",
+      "text": "Sadece varlığı bile sokaklarımızı kirletiyor."
+    },
+    {
+      "id": "3efbd2db",
+      "bank_id": "30349601",
+      "text": "Böyle bir çirkinliği engellemek için bir yasa olmalı."
+    },
+    {
+      "id": "46981798",
+      "bank_id": "30349601",
+      "text": "Evet, sanırım ben de bir nevi ünlüyüm. En azından evlilik yoluyla."
+    },
+    {
+      "id": "4698179a",
+      "bank_id": "30349601",
+      "text": "Kiminle evli olduğunu herkesin bilmesi bazen çok garip oluyor."
+    },
+    {
+      "id": "4698179b",
+      "bank_id": "30349601",
+      "text": "Ünlü biriyle evli olmak hiç de kolay değil... Kimi kandırıyorum ben? Harika bir şey!"
+    },
+    {
+      "id": "4698179c",
+      "bank_id": "30349601",
+      "text": "Ünlü biriyle evli olmanın kötü yanları da var. Ama iyi yanları kadar fena değil!"
+    },
+    {
+      "id": "4698179d",
+      "bank_id": "30349601",
+      "text": "Şöhret için evlenmedim ama ona sırtımı dönecek de değilim."
+    },
+    {
+      "id": "4698179e",
+      "bank_id": "30349601",
+      "text": "Büyük bir üne sahip biriyle evleneceğimi her zaman biliyordum."
+    },
+    {
+      "id": "4698179f",
+      "bank_id": "30349601",
+      "text": "Eşimin başarısının asıl sebebinin ben olduğumu söyleyenler var. Ama bunu söylemek bana mı düşer?"
+    },
+    {
+      "id": "47ffe0fe",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "49da5608",
+      "bank_id": "30349601",
+      "text": "Biliyor musun, eğlence anlayışı trolleri öldürmek olan biriyle evli olmak pek de abartıldığı gibi bir şey değil doğrusu."
+    },
+    {
+      "id": "49da560a",
+      "bank_id": "30349601",
+      "text": "Sanırım evli olmak fena değil. Bilmiyorum, belki de beklentilerim çok yüksekti."
+    },
+    {
+      "id": "49da560b",
+      "bank_id": "30349601",
+      "text": "Ne bileyim, bütün hayatını evlenme hayalleri kurarak geçiriyorsun ve sonra... İşte buradasın. Sırada ne var gibi bir şey."
+    },
+    {
+      "id": "49da560c",
+      "bank_id": "30349601",
+      "text": "Evlenmek güzel ama hayatın birdenbire muhteşem falan olmuyor yani."
+    },
+    {
+      "id": "49da560d",
+      "bank_id": "30349601",
+      "text": "Evet, evli olmak fena değil sanırım."
+    },
+    {
+      "id": "49da560e",
+      "bank_id": "30349601",
+      "text": "Evliliğin medeni bir insanın kemale ermesi olduğu söylenir, öyle değil mi? Pek emin değilim."
+    },
+    {
+      "id": "49da560f",
+      "bank_id": "30349601",
+      "text": "Bir maceracıyla evlenmenin bana başka, daha heyecanlı bir hayatın tadını vereceğini hayal etmiştim. Belki de saftım."
+    },
+    {
+      "id": "4b981fb9",
+      "bank_id": "30349601",
+      "text": "Evet, sanırım ben de bir nevi ünlüyüm. En azından evlilik yoluyla."
+    },
+    {
+      "id": "4b981fba",
+      "bank_id": "30349601",
+      "text": "Ünlü biriyle evli olmak hiç de kolay değil... Kimi kandırıyorum ben? Harika bir şey!"
+    },
+    {
+      "id": "4b981fbb",
+      "bank_id": "30349601",
+      "text": "Kiminle evli olduğunu herkesin bilmesi bazen çok garip oluyor."
+    },
+    {
+      "id": "4b981fbc",
+      "bank_id": "30349601",
+      "text": "Şöhret için evlenmedim ama ona sırtımı dönecek de değilim."
+    },
+    {
+      "id": "4b981fbd",
+      "bank_id": "30349601",
+      "text": "Ünlü biriyle evli olmanın kötü yanları da var. Ama iyi yanları kadar fena değil!"
+    },
+    {
+      "id": "4b981fbe",
+      "bank_id": "30349601",
+      "text": "Eşimin başarısının asıl sebebinin ben olduğumu söyleyenler var. Ama bunu söylemek bana mı düşer?"
+    },
+    {
+      "id": "4b981fbf",
+      "bank_id": "30349601",
+      "text": "Büyük bir üne sahip biriyle evleneceğimi her zaman biliyordum."
+    },
+    {
+      "id": "4eda5e29",
+      "bank_id": "30349601",
+      "text": "Biliyor musun, eğlence anlayışı trolleri öldürmek olan biriyle evli olmak pek de abartıldığı gibi bir şey değil doğrusu."
+    },
+    {
+      "id": "4eda5e2a",
+      "bank_id": "30349601",
+      "text": "Evet, evlilikten gayet memnunum. Bazen bekârlık günlerimi özlüyorum gerçi."
+    },
+    {
+      "id": "4eda5e2b",
+      "bank_id": "30349601",
+      "text": "Sanırım evli olmak fena değil. Bilmiyorum, belki de beklentilerim çok yüksekti."
+    },
+    {
+      "id": "4eda5e2c",
+      "bank_id": "30349601",
+      "text": "Evet, evli olmak fena değil sanırım."
+    },
+    {
+      "id": "4eda5e2d",
+      "bank_id": "30349601",
+      "text": "Evlenmek güzel ama hayatın birdenbire muhteşem falan olmuyor yani."
+    },
+    {
+      "id": "4eda5e2e",
+      "bank_id": "30349601",
+      "text": "Bir maceracıyla evlenmenin bana başka, daha heyecanlı bir hayatın tadını vereceğini hayal etmiştim. Belki de saftım."
+    },
+    {
+      "id": "4eda5e2f",
+      "bank_id": "30349601",
+      "text": "Evliliğin medeni bir insanın kemale ermesi olduğu söylenir, öyle değil mi? Pek emin değilim."
+    },
+    {
+      "id": "4f8557f7",
+      "bank_id": "30349601",
+      "text": "Çirkinliğin bile adını kirletiyor."
+    },
+    {
+      "id": "4f8557fc",
+      "bank_id": "30349601",
+      "text": "Şuna baksanıza! Ne manzara ama. Keşke kör olsaydım!"
+    },
+    {
+      "id": "50ffeecb",
+      "bank_id": "30349601",
+      "text": "İmdaaaat!"
+    },
+    {
+      "id": "510e3e25",
+      "bank_id": "30349601",
+      "text": "O yüzle bir balverine'i bile korkutabilir."
+    },
+    {
+      "id": "510e3e2e",
+      "bank_id": "30349601",
+      "text": "Kadınların en güzeli sayılmaz. Yaban domuzlarının da öyle."
+    },
+    {
+      "id": "54d55540",
+      "bank_id": "30349601",
+      "text": "Bu çirkinlik geçidini durduracak bir tür yasak yok mu?"
+    },
+    {
+      "id": "54d5554b",
+      "bank_id": "30349601",
+      "text": "Bu çirkinlik geçidini durduracak bir tür yasak yok mu?"
+    },
+    {
+      "id": "560c9637",
+      "bank_id": "30349601",
+      "text": "Bir hobbe'yi bile korkutabilir."
+    },
+    {
+      "id": "560c963c",
+      "bank_id": "30349601",
+      "text": "Bir hobbe'yi bile korkutabilir."
+    },
+    {
+      "id": "59ae7b48",
+      "bank_id": "30349601",
+      "text": "Merhaba. Tarzını kopyalayabilir miyim?"
+    },
+    {
+      "id": "5eae8369",
+      "bank_id": "30349601",
+      "text": "Merhaba. Umarım büyüyünce ben de senin kadar havalı görünürüm."
+    },
+    {
+      "id": "66eb5652",
+      "bank_id": "30349601",
+      "text": "İki kasaba ötede bir Çirkinler Güzeli yarışmasını kazandığını duydum."
+    },
+    {
+      "id": "66eb5659",
+      "bank_id": "30349601",
+      "text": "İki kasaba ötede bir Çirkinler Kralı yarışmasını kazandığını duydum."
+    },
+    {
+      "id": "8139c4e6",
+      "bank_id": "30349601",
+      "text": "Hiç bu kadar iğrenç bir adam görmüş müydünüz?"
+    },
+    {
+      "id": "8139c4ed",
+      "bank_id": "30349601",
+      "text": "Böyle görünürken asla bir koca bulamayacak."
+    },
+    {
+      "id": "82a8abe0",
+      "bank_id": "30349601",
+      "text": "Ne kadar da alımlı. Benimle bir yürüyüşe çıkar mısınız?"
+    },
+    {
+      "id": "82a8abe1",
+      "bank_id": "30349601",
+      "text": "Aman, bugün nasılsınız bakalım?"
+    },
+    {
+      "id": "82a8abe2",
+      "bank_id": "30349601",
+      "text": "Bugün senin için temiz gömleğimi giydim!"
+    },
+    {
+      "id": "82a8abe3",
+      "bank_id": "30349601",
+      "text": "Gözlere pek bir iyi geliyorsun, biliyorsun değil mi?"
+    },
+    {
+      "id": "82a8abe4",
+      "bank_id": "30349601",
+      "text": "Selam yakışıklı."
+    },
+    {
+      "id": "82a8abe5",
+      "bank_id": "30349601",
+      "text": "Ah, merhabalar."
+    },
+    {
+      "id": "82a8abe7",
+      "bank_id": "30349601",
+      "text": "Nasıl gidiyor?"
+    },
+    {
+      "id": "87655798",
+      "bank_id": "30349601",
+      "text": "<screams>"
+    },
+    {
+      "id": "8765579a",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8765579b",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8765579c",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "8765579d",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8765579e",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "8765579f",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "89a8b6e8",
+      "bank_id": "30349601",
+      "text": "Merhabalar!"
+    },
+    {
+      "id": "89a8b6e9",
+      "bank_id": "30349601",
+      "text": "Mmmm. Çok hoş."
+    },
+    {
+      "id": "89a8b6ea",
+      "bank_id": "30349601",
+      "text": "Vay canına, tam bir güzellik abidesi değil misin sen?"
+    },
+    {
+      "id": "89a8b6ec",
+      "bank_id": "30349601",
+      "text": "Aman, bugün nasılsınız bakalım?"
+    },
+    {
+      "id": "89a8b6ed",
+      "bank_id": "30349601",
+      "text": "Göz kamaştırıyorsun."
+    },
+    {
+      "id": "89a8b6ee",
+      "bank_id": "30349601",
+      "text": "Nasıl gidiyor?"
+    },
+    {
+      "id": "89a8b6ef",
+      "bank_id": "30349601",
+      "text": "Ah, buradasın. Keşke banyo yapsaydım şimdi."
+    },
+    {
+      "id": "89e9f9e1",
+      "bank_id": "30349601",
+      "text": "Böyle göründüğü için onu içeri tıkmalılar."
+    },
+    {
+      "id": "89e9f9ea",
+      "bank_id": "30349601",
+      "text": "Canavarları kaçırdığına bahse girerim. Ya da en azından midelerini bulandırıyordur."
+    },
+    {
+      "id": "8c655fb9",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8c655fba",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8c655fbb",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8c655fbc",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "8c655fbd",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "8c655fbe",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "8c655fbf",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8d04caa8",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8d04caa9",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "8d04caaa",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8d04caab",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "8d04caad",
+      "bank_id": "30349601",
+      "text": "<screams>"
+    },
+    {
+      "id": "8d04caae",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8d04caaf",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "90713833",
+      "bank_id": "30349601",
+      "text": "Onu güzel gösterebilecek bir sarhoşluk gözlüğü henüz icat edilmedi."
+    },
+    {
+      "id": "90713838",
+      "bank_id": "30349601",
+      "text": "Eh, en azından kadınlarımızı çalmıyor. Tabii onları pişirip yemeyi planlamıyorsa."
+    },
+    {
+      "id": "9804dbd8",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "9804dbd9",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "9804dbda",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "9804dbdb",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "9804dbdc",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "9804dbde",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "9804dbdf",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "99d5ae41",
+      "bank_id": "30349601",
+      "text": "Böyle doğmuş olamaz, değil mi? Öğğk!"
+    },
+    {
+      "id": "99d5ae4a",
+      "bank_id": "30349601",
+      "text": "Böyle doğmuş olamaz, değil mi? Öğğk!"
+    },
+    {
+      "id": "9b229fd1",
+      "bank_id": "30349601",
+      "text": "Merhabalar!"
+    },
+    {
+      "id": "9b229fd2",
+      "bank_id": "30349601",
+      "text": "Ah, merhaba sana!"
+    },
+    {
+      "id": "9cd0ea2e",
+      "bank_id": "30349601",
+      "text": "Selam! Gerçekten çok havalı görünüyorsun, biliyor musun."
+    },
+    {
+      "id": "9f25ab11",
+      "bank_id": "30349601",
+      "text": "Çirkin olduğunu duymuştum ama... öğğk, iğrenç!"
+    },
+    {
+      "id": "9f25ab1a",
+      "bank_id": "30349601",
+      "text": "Onun gibi çirkin birini içeri tıkmaları gerekmez mi?"
+    },
+    {
+      "id": "a45ee641",
+      "bank_id": "30349601",
+      "text": "Basbayağı iğrenç biri bu!"
+    },
+    {
+      "id": "a45ee64a",
+      "bank_id": "30349601",
+      "text": "Basbayağı iğrenç biri bu!"
+    },
+    {
+      "id": "a5d0f87b",
+      "bank_id": "30349601",
+      "text": "Selam. Bahse girerim herkes nasıl göründüğünü hatırlıyordur."
+    },
+    {
+      "id": "a6ea1ee3",
+      "bank_id": "30349601",
+      "text": "O yüzle bir balverine'i bile korkutabilir."
+    },
+    {
+      "id": "a6ea1ee8",
+      "bank_id": "30349601",
+      "text": "Erkeklerin en yakışıklısı sayılmaz. Yaban domuzlarının da öyle."
+    },
+    {
+      "id": "a6f376dd",
+      "bank_id": "30349601",
+      "text": "Merhabalar!"
+    },
+    {
+      "id": "a6f376de",
+      "bank_id": "30349601",
+      "text": "Ah, merhaba!"
+    },
+    {
+      "id": "b3d40017",
+      "bank_id": "30349601",
+      "text": "Şuna baksanıza! Hiç böyle bir ucube görmüş müydünüz?"
+    },
+    {
+      "id": "b3d4001c",
+      "bank_id": "30349601",
+      "text": "Şuna baksanıza! Hiç böyle bir ucube görmüş müydünüz?"
+    },
+    {
+      "id": "b4ba0918",
+      "bank_id": "30349601",
+      "text": "Beni bir daha rahatsız edersen seni taşlarım."
+    },
+    {
+      "id": "b4ba0919",
+      "bank_id": "30349601",
+      "text": "Beni yalnız bırak."
+    },
+    {
+      "id": "b4ba091d",
+      "bank_id": "30349601",
+      "text": "Sana merhaba demiyorum ben!"
+    },
+    {
+      "id": "b4ba091e",
+      "bank_id": "30349601",
+      "text": "Ah, senmişsin demek?"
+    },
+    {
+      "id": "b4ba091f",
+      "bank_id": "30349601",
+      "text": "Neden selam verecekmişim sana?"
+    },
+    {
+      "id": "bfba1a48",
+      "bank_id": "30349601",
+      "text": "Defol git."
+    },
+    {
+      "id": "bfba1a49",
+      "bank_id": "30349601",
+      "text": "Başka kapıya."
+    },
+    {
+      "id": "bfba1a4c",
+      "bank_id": "30349601",
+      "text": "Umarım silahın patlamaz. Çok yazık olurdu doğrusu."
+    },
+    {
+      "id": "bfba1a4e",
+      "bank_id": "30349601",
+      "text": "Oylama yaptık: git buradan!"
+    },
+    {
+      "id": "bfba1a4f",
+      "bank_id": "30349601",
+      "text": "Peh, sen. Yalnız bırak beni."
+    },
+    {
+      "id": "c35fa5de",
+      "bank_id": "30349601",
+      "text": "Koş!"
+    },
+    {
+      "id": "c8f42450",
+      "bank_id": "30349601",
+      "text": "Aman, nasılsınız bakalım?"
+    },
+    {
+      "id": "c8f42451",
+      "bank_id": "30349601",
+      "text": "Selamlar ey harika varlık."
+    },
+    {
+      "id": "c8f42452",
+      "bank_id": "30349601",
+      "text": "Hey, tatlım."
+    },
+    {
+      "id": "c8f42453",
+      "bank_id": "30349601",
+      "text": "Hmm, selam sana."
+    },
+    {
+      "id": "c8f42454",
+      "bank_id": "30349601",
+      "text": "Meeeeerhaba, bebeğim."
+    },
+    {
+      "id": "c8f42455",
+      "bank_id": "30349601",
+      "text": "Merhaba şekerim."
+    },
+    {
+      "id": "c8f42457",
+      "bank_id": "30349601",
+      "text": "Selam. Söylesene, daha da mı tatlılaştın sen?"
+    },
+    {
+      "id": "c9af1587",
+      "bank_id": "30349601",
+      "text": "O canavarımsı bakışıyla koca bir orduyu dize getirebilir."
+    },
+    {
+      "id": "c9af158c",
+      "bank_id": "30349601",
+      "text": "O canavarımsı çehresiyle kale surlarını bile yıkabilir."
+    },
+    {
+      "id": "cbe81e7a",
+      "bank_id": "30349601",
+      "text": "Ne?!"
+    },
+    {
+      "id": "cbe81e7b",
+      "bank_id": "30349601",
+      "text": "Öf, yine mi sen."
+    },
+    {
+      "id": "cbe81e7c",
+      "bank_id": "30349601",
+      "text": "Dinlemiyorum seni."
+    },
+    {
+      "id": "cbe81e7d",
+      "bank_id": "30349601",
+      "text": "Şu anda seni görmezden geliyorum."
+    },
+    {
+      "id": "cbe81e7e",
+      "bank_id": "30349601",
+      "text": "Senden temelli kurtulduk sanıyordum."
+    },
+    {
+      "id": "cc5fb42b",
+      "bank_id": "30349601",
+      "text": "Aagh!"
+    },
+    {
+      "id": "cd4d0f50",
+      "bank_id": "30349601",
+      "text": "Böylesine yıkıcı bir çirkinlik gerçekten ender bulunur."
+    },
+    {
+      "id": "cd4d0f53",
+      "bank_id": "30349601",
+      "text": "Domuz ahırında bile daha güzel yüzler gördüm."
+    },
+    {
+      "id": "cd4d0f54",
+      "bank_id": "30349601",
+      "text": "Daha önce hiç böyle bir çirkinlik gördünüz mü?"
+    },
+    {
+      "id": "cff42f58",
+      "bank_id": "30349601",
+      "text": "Merhaba tatlım."
+    },
+    {
+      "id": "cff42f59",
+      "bank_id": "30349601",
+      "text": "Merhabalar yakışıklı!"
+    },
+    {
+      "id": "cff42f5a",
+      "bank_id": "30349601",
+      "text": "Nasılsın bakalım yakışıklı."
+    },
+    {
+      "id": "cff42f5c",
+      "bank_id": "30349601",
+      "text": "Hmmm, merhaba."
+    },
+    {
+      "id": "cff42f5d",
+      "bank_id": "30349601",
+      "text": "Aman tanrım, merhaba sana."
+    },
+    {
+      "id": "cff42f5e",
+      "bank_id": "30349601",
+      "text": "Merhaba cazibeli şey."
+    },
+    {
+      "id": "cff42f5f",
+      "bank_id": "30349601",
+      "text": "İyi günler sana yakışıklı."
+    },
+    {
+      "id": "d171f647",
+      "bank_id": "30349601",
+      "text": "Ona bakmak gözlerimi yaşartıyor."
+    },
+    {
+      "id": "d171f64c",
+      "bank_id": "30349601",
+      "text": "Nasıl bu kadar itici görünebiliyor acaba?"
+    },
+    {
+      "id": "d44d1a5d",
+      "bank_id": "30349601",
+      "text": "Dünya, manzarası üzerinde böyle bir lekeyi hak etmiyor!"
+    },
+    {
+      "id": "d4e82c4b",
+      "bank_id": "30349601",
+      "text": "Ah... şey... harika. Döndün demek."
+    },
+    {
+      "id": "ebbd9772",
+      "bank_id": "30349601",
+      "text": "Ne istiyorsun?!"
+    },
+    {
+      "id": "ee7e33c0",
+      "bank_id": "30349601",
+      "text": "Seni görmemiş gibi yapacağım!"
+    },
+    {
+      "id": "ee7e33c1",
+      "bank_id": "30349601",
+      "text": "Çekil gözümün önünden."
+    },
+    {
+      "id": "ee7e33c2",
+      "bank_id": "30349601",
+      "text": "Git bir çukura yuvarlan."
+    },
+    {
+      "id": "ee7e33c3",
+      "bank_id": "30349601",
+      "text": "Kaybol!"
+    },
+    {
+      "id": "ee7e33c4",
+      "bank_id": "30349601",
+      "text": "Peh! Merhaba."
+    },
+    {
+      "id": "ee7e33c5",
+      "bank_id": "30349601",
+      "text": "Sen ha?"
+    },
+    {
+      "id": "ee7e33c7",
+      "bank_id": "30349601",
+      "text": "Bir şey mi istiyorsun? Başkasına sor!"
+    },
+    {
+      "id": "f173c4d4",
+      "bank_id": "30349601",
+      "text": "Onun gibi çirkin birini içeri tıkmaları gerekmez mi?"
+    },
+    {
+      "id": "f173c4df",
+      "bank_id": "30349601",
+      "text": "Çirkin olduğunu duymuştum ama... öğğk, iğrenç!"
+    },
+    {
+      "id": "f4bda55f",
+      "bank_id": "30349601",
+      "text": "Ne istiyorsun?!"
+    },
+    {
+      "id": "f57e3ec8",
+      "bank_id": "30349601",
+      "text": "Ne istiyorsun?"
+    },
+    {
+      "id": "f57e3ec9",
+      "bank_id": "30349601",
+      "text": "Uzak dur!"
+    },
+    {
+      "id": "f57e3eca",
+      "bank_id": "30349601",
+      "text": "Uza bakalım!"
+    },
+    {
+      "id": "f57e3ecc",
+      "bank_id": "30349601",
+      "text": "Seni görmezden geliyorum!"
+    },
+    {
+      "id": "f57e3ecd",
+      "bank_id": "30349601",
+      "text": "Hıh! Sana söyleyecek hiçbir şeyim yok!"
+    },
+    {
+      "id": "f57e3ece",
+      "bank_id": "30349601",
+      "text": "Pöh! Yoluna devam et!"
+    },
+    {
+      "id": "f57e3ecf",
+      "bank_id": "30349601",
+      "text": "Defol git!"
+    },
+    {
+      "id": "f5e8b086",
+      "bank_id": "30349601",
+      "text": "Vah vah! Ne manzara ama. Keşke kör olsaydım!"
+    },
+    {
+      "id": "f5e8b08d",
+      "bank_id": "30349601",
+      "text": "Çirkinliğin bile adını kirletiyor."
+    },
+    {
+      "id": "f6bdcea4",
+      "bank_id": "30349601",
+      "text": "Yüzüne bir şey fena çarpmış olmalı."
+    },
+    {
+      "id": "f6bdceaf",
+      "bank_id": "30349601",
+      "text": "Yüzüne bir şey fena çarpmış olmalı."
+    },
+    {
+      "id": "fe90a1f4",
+      "bank_id": "30349601",
+      "text": "Peh! Sen ha!"
+    },
+    {
+      "id": "ff618b61",
+      "bank_id": "30349601",
+      "text": "Dostum, canavar olduğunu duymuştum ama böylesini hiç hayal etmemiştim!"
+    },
+    {
+      "id": "ff618b6a",
+      "bank_id": "30349601",
+      "text": "O yüzü ölü bir hobbe'den mi çaldı acaba?"
+    }
+  ]
+}

@@ -1,0 +1,1626 @@
+{
+  "bank_id": "80f55202",
+  "total_strings": 324,
+  "strings": [
+    {
+      "id": "0373ebc5",
+      "bank_id": "80f55202",
+      "text": "Ben buna Muhafız İtişi derim!"
+    },
+    {
+      "id": "0373ebc6",
+      "bank_id": "80f55202",
+      "text": "Yerde uzanmak hoşuna gitti mi bakalım?"
+    },
+    {
+      "id": "03f00d99",
+      "bank_id": "80f55202",
+      "text": "Kalk da pişman ol seni aşağılık dolandırıcı!"
+    },
+    {
+      "id": "03f00d9a",
+      "bank_id": "80f55202",
+      "text": "Aman, yere mi yuvarlandın? Ha ha!"
+    },
+    {
+      "id": "04580e04",
+      "bank_id": "80f55202",
+      "text": "Dikkat, bu dolandırıcı ateş edebiliyor!"
+    },
+    {
+      "id": "04580e07",
+      "bank_id": "80f55202",
+      "text": "Ateş hattından uzak durun!"
+    },
+    {
+      "id": "06a52c39",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "06a52c3a",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "0b1e9d80",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "0b1e9d83",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "0ff0a9c8",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "0ff0a9cb",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "10a2ac54",
+      "bank_id": "80f55202",
+      "text": "Gel buraya seni serseri. Sana eski bir muhafız numarası göstereyim."
+    },
+    {
+      "id": "10a2ac57",
+      "bank_id": "80f55202",
+      "text": "Kafanı bir ganimet gibi Muhafız çay salonunun duvarına asacağım."
+    },
+    {
+      "id": "1234af05",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "1234af06",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "1423737d",
+      "bank_id": "80f55202",
+      "text": "Doymadın mı daha seni kokuşmuş sıçan?"
+    },
+    {
+      "id": "1423737e",
+      "bank_id": "80f55202",
+      "text": "Neden pes etmiyorsun?"
+    },
+    {
+      "id": "147c14ec",
+      "bank_id": "80f55202",
+      "text": "Şunu kesin olarak bitirelim çocuklar!"
+    },
+    {
+      "id": "147c14ef",
+      "bank_id": "80f55202",
+      "text": "Gevşemeyin çocuklar. Bunun işini neredeyse bitirdik."
+    },
+    {
+      "id": "150f87e8",
+      "bank_id": "80f55202",
+      "text": "Bir eksildi!"
+    },
+    {
+      "id": "150f87eb",
+      "bank_id": "80f55202",
+      "text": "Bir muhafıza kafa tutmayacaktın!"
+    },
+    {
+      "id": "159f9418",
+      "bank_id": "80f55202",
+      "text": "Lağımda doğdun, sonunda varacağın yer de orası."
+    },
+    {
+      "id": "159f941b",
+      "bank_id": "80f55202",
+      "text": "Benim hatırıma kalkmaya zahmet etme. Suçlularımı yerde severim ben."
+    },
+    {
+      "id": "161b5d65",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "161b5d66",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "18858a01",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "18858a02",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "1997b773",
+      "bank_id": "80f55202",
+      "text": "Geri çekilin! Geri çekilin!"
+    },
+    {
+      "id": "1bc00cf9",
+      "bank_id": "80f55202",
+      "text": "Bekleyin!"
+    },
+    {
+      "id": "1bc41a55",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "1bc41a56",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "1beb3439",
+      "bank_id": "80f55202",
+      "text": "Asla teslim olmayacağım!"
+    },
+    {
+      "id": "1beb343a",
+      "bank_id": "80f55202",
+      "text": "Suçlu kazanırken bu iş hiç de eğlenceli olmuyor."
+    },
+    {
+      "id": "1c2306a4",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "1c2306a7",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "1c5962f9",
+      "bank_id": "80f55202",
+      "text": "Bu neredeyse bitti dolandırıcı. Teslim ol!"
+    },
+    {
+      "id": "1c5962fa",
+      "bank_id": "80f55202",
+      "text": "Bunun yanına kâr kalmayacağını biliyor olmalıydın."
+    },
+    {
+      "id": "1e7a6a65",
+      "bank_id": "80f55202",
+      "text": "Şimdilik kazanıyor olabilirsin ama bu değişebilir."
+    },
+    {
+      "id": "1e7a6a66",
+      "bank_id": "80f55202",
+      "text": "Bu iyi gitmiyor."
+    },
+    {
+      "id": "1ea2459d",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "1ea2459e",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "1f87cda5",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "1f87cda6",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "20fc92ab",
+      "bank_id": "80f55202",
+      "text": "Ateş et!"
+    },
+    {
+      "id": "2171c87d",
+      "bank_id": "80f55202",
+      "text": "İstediğin kadar havla!"
+    },
+    {
+      "id": "2171c87e",
+      "bank_id": "80f55202",
+      "text": "Kuuç kuç!"
+    },
+    {
+      "id": "2204efe4",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2204efe7",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "22a7cd59",
+      "bank_id": "80f55202",
+      "text": "Herkes geri çekilsin!"
+    },
+    {
+      "id": "232f04f1",
+      "bank_id": "80f55202",
+      "text": "Şu kızı biraz sert bir sorguya çekeceğiz."
+    },
+    {
+      "id": "232f04fa",
+      "bank_id": "80f55202",
+      "text": "Şu herifi biraz sert bir sorguya çekeceğiz."
+    },
+    {
+      "id": "2355a526",
+      "bank_id": "80f55202",
+      "text": "Ölümün eşiğine gelene kadar dövelim onu. Sonra biraz daha dövelim."
+    },
+    {
+      "id": "2355a52d",
+      "bank_id": "80f55202",
+      "text": "Ölümün eşiğine gelene kadar dövelim onu. Sonra biraz daha dövelim."
+    },
+    {
+      "id": "238c7010",
+      "bank_id": "80f55202",
+      "text": "İnfaz tamamlandı!"
+    },
+    {
+      "id": "238c7013",
+      "bank_id": "80f55202",
+      "text": "Öldürdüm gitti!"
+    },
+    {
+      "id": "24b0fa94",
+      "bank_id": "80f55202",
+      "text": "Yakalayın onu!"
+    },
+    {
+      "id": "24b0fa9f",
+      "bank_id": "80f55202",
+      "text": "Yakalayın onu!"
+    },
+    {
+      "id": "257a62c1",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "257a62c2",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "25cb1c9a",
+      "bank_id": "80f55202",
+      "text": "Hücum!"
+    },
+    {
+      "id": "288f7504",
+      "bank_id": "80f55202",
+      "text": "Kanunu çiğnersen böyle olur işte. Kıçının üstüne oturursun!"
+    },
+    {
+      "id": "288f7507",
+      "bank_id": "80f55202",
+      "text": "Yere serildi! Evet!"
+    },
+    {
+      "id": "29d83edc",
+      "bank_id": "80f55202",
+      "text": "Hey, bize ateş etmeyi kes!"
+    },
+    {
+      "id": "29d83edf",
+      "bank_id": "80f55202",
+      "text": "Siper al!"
+    },
+    {
+      "id": "2b42152d",
+      "bank_id": "80f55202",
+      "text": "Seni tanıştırmak istediğim sivri uçlu özel bir arkadaşım var."
+    },
+    {
+      "id": "2b42152e",
+      "bank_id": "80f55202",
+      "text": "Seni aşağılık, uyumsuz kurbağa!"
+    },
+    {
+      "id": "2e988c91",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2e988c92",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2e9a4010",
+      "bank_id": "80f55202",
+      "text": "Kanun her zaman üstün gelir. Gördün mü?"
+    },
+    {
+      "id": "2e9a4013",
+      "bank_id": "80f55202",
+      "text": "Kabul et artık! Kaybettin!"
+    },
+    {
+      "id": "2ec61f80",
+      "bank_id": "80f55202",
+      "text": "Şu işi bitirelim de gidip bir çay içelim."
+    },
+    {
+      "id": "2ec61f83",
+      "bank_id": "80f55202",
+      "text": "Neredeyse bitti!"
+    },
+    {
+      "id": "3005b7b1",
+      "bank_id": "80f55202",
+      "text": "Bir kanun tanımaz daha adaletin tozunu yuttu."
+    },
+    {
+      "id": "3005b7b2",
+      "bank_id": "80f55202",
+      "text": "Hüküm infaz edildi!"
+    },
+    {
+      "id": "307bfc60",
+      "bank_id": "80f55202",
+      "text": "Pes etmeyin şimdi. Başarabiliriz!"
+    },
+    {
+      "id": "307bfc63",
+      "bank_id": "80f55202",
+      "text": "Toparlanın ve cesaretinizi kaybetmeyin!"
+    },
+    {
+      "id": "34533964",
+      "bank_id": "80f55202",
+      "text": "Kaybetmek nasıl bir duyguymuş bakalım?"
+    },
+    {
+      "id": "34533967",
+      "bank_id": "80f55202",
+      "text": "Bitti artık seni sıçan."
+    },
+    {
+      "id": "34ec96b8",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "34ec96bb",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "377aa318",
+      "bank_id": "80f55202",
+      "text": "Saldırın!"
+    },
+    {
+      "id": "383b2145",
+      "bank_id": "80f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "383b2146",
+      "bank_id": "80f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "38b74319",
+      "bank_id": "80f55202",
+      "text": "Ben kaçtım buradan!"
+    },
+    {
+      "id": "38b7431a",
+      "bank_id": "80f55202",
+      "text": "Ben kaçtım buradan!"
+    },
+    {
+      "id": "391698b8",
+      "bank_id": "80f55202",
+      "text": "Pes etmeyin çocuklar. Biz muhafızız. Bunu unutmayın."
+    },
+    {
+      "id": "391698bb",
+      "bank_id": "80f55202",
+      "text": "Hâlâ bir şansımız var."
+    },
+    {
+      "id": "394db4d1",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "394db4d2",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "3bf45572",
+      "bank_id": "80f55202",
+      "text": "Ateş et!"
+    },
+    {
+      "id": "3d4ba3b8",
+      "bank_id": "80f55202",
+      "text": "Bu hiç ama hiç iyi değil."
+    },
+    {
+      "id": "3d4ba3bb",
+      "bank_id": "80f55202",
+      "text": "Kahretsin!"
+    },
+    {
+      "id": "3f3a1a74",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "3f3a1a77",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "4052e920",
+      "bank_id": "80f55202",
+      "text": "Ateşi kesin millet!"
+    },
+    {
+      "id": "44962e0d",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "44962e0e",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "45b9a9b0",
+      "bank_id": "80f55202",
+      "text": "Yaraya baskı yapın!"
+    },
+    {
+      "id": "45b9a9b3",
+      "bank_id": "80f55202",
+      "text": "Çok kolay bir hedef oluyorsun!"
+    },
+    {
+      "id": "4a66c998",
+      "bank_id": "80f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "4a66c99b",
+      "bank_id": "80f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "4a6a8407",
+      "bank_id": "80f55202",
+      "text": "Hücum! Şimdi!"
+    },
+    {
+      "id": "4ccc549d",
+      "bank_id": "80f55202",
+      "text": "Ağır yaralı mısın?"
+    },
+    {
+      "id": "4ccc549e",
+      "bank_id": "80f55202",
+      "text": "Yaşarsın bir şeyin yok."
+    },
+    {
+      "id": "4e0fa5dc",
+      "bank_id": "80f55202",
+      "text": "Kendi iyiliğini düşünüyorsan yerde kalırsın."
+    },
+    {
+      "id": "4e0fa5df",
+      "bank_id": "80f55202",
+      "text": "Aynen öyle, ait olduğun yerde, çamurda kal seni pislik."
+    },
+    {
+      "id": "4ea4eb4f",
+      "bank_id": "80f55202",
+      "text": "Henüz ateş etmeyin!"
+    },
+    {
+      "id": "4ef35a8c",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "4ef35a8f",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "4f4f4dc4",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "4f4f4dc7",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "5012a7a5",
+      "bank_id": "80f55202",
+      "text": "Al bakalım!"
+    },
+    {
+      "id": "5012a7a6",
+      "bank_id": "80f55202",
+      "text": "Acıttı mı seni alçak?"
+    },
+    {
+      "id": "519152a5",
+      "bank_id": "80f55202",
+      "text": "Buraya takviye getirin!"
+    },
+    {
+      "id": "534ec83f",
+      "bank_id": "80f55202",
+      "text": "Ateş!"
+    },
+    {
+      "id": "54135ac7",
+      "bank_id": "80f55202",
+      "text": "Yere yuvarlanmanın sırası değil şimdi!"
+    },
+    {
+      "id": "544b9982",
+      "bank_id": "80f55202",
+      "text": "Derisinden çay salonuna güzel bir kilim yapacağız."
+    },
+    {
+      "id": "544b9989",
+      "bank_id": "80f55202",
+      "text": "Derisinden çay salonuna güzel bir kilim yapacağız."
+    },
+    {
+      "id": "5806e0b5",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "5806e0b6",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "5c627128",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "5c62712b",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "5d56aa84",
+      "bank_id": "80f55202",
+      "text": "Yeniden toparlanın!"
+    },
+    {
+      "id": "5d56aa87",
+      "bank_id": "80f55202",
+      "text": "Yeniden toparlanın!"
+    },
+    {
+      "id": "5dd050d1",
+      "bank_id": "80f55202",
+      "text": "Biri daha gitti!"
+    },
+    {
+      "id": "5dd050d2",
+      "bank_id": "80f55202",
+      "text": "Evet! İçi doldurulmuş sincap gibi geberdi!"
+    },
+    {
+      "id": "5dfb6479",
+      "bank_id": "80f55202",
+      "text": "Tam can alıcı noktadan!"
+    },
+    {
+      "id": "5dfb647a",
+      "bank_id": "80f55202",
+      "text": "Vurdum seni dolandırıcı!"
+    },
+    {
+      "id": "5e15e0ac",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "5e15e0af",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "5f7a0f79",
+      "bank_id": "80f55202",
+      "text": "Daha fazla muhafıza ihtiyacımız var!"
+    },
+    {
+      "id": "61048455",
+      "bank_id": "80f55202",
+      "text": "Madde 72B nekromansiyi kesinlikle yasaklar!"
+    },
+    {
+      "id": "61048456",
+      "bank_id": "80f55202",
+      "text": "Ölülerin huzurunu kaçırmaya nasıl cüret edersin?"
+    },
+    {
+      "id": "617337a9",
+      "bank_id": "80f55202",
+      "text": "Neredeyse başardık çocuklar."
+    },
+    {
+      "id": "617337aa",
+      "bank_id": "80f55202",
+      "text": "Şimdi kaybedemeyiz!"
+    },
+    {
+      "id": "63777629",
+      "bank_id": "80f55202",
+      "text": "Tadını çıkarın çocuklar. Kazanıyoruz!"
+    },
+    {
+      "id": "6377762a",
+      "bank_id": "80f55202",
+      "text": "Kafa kafaya verdiğimizde yenemeyeceğimiz kimse yok."
+    },
+    {
+      "id": "63e443fc",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "63e443ff",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "6413403d",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "6413403e",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "6447b9e1",
+      "bank_id": "80f55202",
+      "text": "Su altındaymışım gibi sanki."
+    },
+    {
+      "id": "6447b9e2",
+      "bank_id": "80f55202",
+      "text": "Kendimi çok tuhaf hissediyorum."
+    },
+    {
+      "id": "65422260",
+      "bank_id": "80f55202",
+      "text": "Bizi yenmeyi umamaz bile. Biz Albion muhafızlarıyız!"
+    },
+    {
+      "id": "6542226b",
+      "bank_id": "80f55202",
+      "text": "Bizi yenmeyi umamaz bile. Biz Albion muhafızlarıyız!"
+    },
+    {
+      "id": "66502614",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "66502617",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "66d38c04",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "66d38c07",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "67b62dd0",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "67b62dd3",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "68ed9d2c",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "68ed9d2f",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "69f110b0",
+      "bank_id": "80f55202",
+      "text": "Bu sana muhafızlara her zaman saygı duyman gerektiğini öğretir."
+    },
+    {
+      "id": "69f110b3",
+      "bank_id": "80f55202",
+      "text": "Yere alışsan iyi edersin, yakında altına gömüleceksin suçlu."
+    },
+    {
+      "id": "6c4350fc",
+      "bank_id": "80f55202",
+      "text": "Öyle kolay pes etmeyeceğim."
+    },
+    {
+      "id": "6c4350ff",
+      "bank_id": "80f55202",
+      "text": "Kazandığını sanıyorsun ha. Sandığından daha dişliyimdir."
+    },
+    {
+      "id": "6c6977f8",
+      "bank_id": "80f55202",
+      "text": "Albion muhafızlarının selamıyla!"
+    },
+    {
+      "id": "6c6977fb",
+      "bank_id": "80f55202",
+      "text": "Bak sen, bunu nasıl buldun bakalım?"
+    },
+    {
+      "id": "6c724d3d",
+      "bank_id": "80f55202",
+      "text": "Keşke evde bir kupa sıcak kakaomun başında olsaydım."
+    },
+    {
+      "id": "6c724d3e",
+      "bank_id": "80f55202",
+      "text": "İşler daha iyi gidebilirdi."
+    },
+    {
+      "id": "6de822f8",
+      "bank_id": "80f55202",
+      "text": "Buraya takviye getirin!"
+    },
+    {
+      "id": "6e752d95",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "6e752d96",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "71b172c1",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "71b172c2",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "74208c15",
+      "bank_id": "80f55202",
+      "text": "Şu haydutu ilk deşene benden bir bira."
+    },
+    {
+      "id": "74208c16",
+      "bank_id": "80f55202",
+      "text": "Hadi çocuklar. Şu kanun tanımaza iyi bir ders vereceğiz."
+    },
+    {
+      "id": "77358195",
+      "bank_id": "80f55202",
+      "text": "Hiç gerçek acı çektin mi? Çekmek üzeresin."
+    },
+    {
+      "id": "77358196",
+      "bank_id": "80f55202",
+      "text": "Seni kasaba meydanında sallandıracağım seni gelincik."
+    },
+    {
+      "id": "78b54965",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "78b54966",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "7a0aded4",
+      "bank_id": "80f55202",
+      "text": "Birkaç darbe daha ve Albion herkes için biraz daha güvenli olacak."
+    },
+    {
+      "id": "7a0aded7",
+      "bank_id": "80f55202",
+      "text": "Bu dövüş neredeyse bitti."
+    },
+    {
+      "id": "7c897cb5",
+      "bank_id": "80f55202",
+      "text": "Birini indirdim!"
+    },
+    {
+      "id": "7c897cb6",
+      "bank_id": "80f55202",
+      "text": "Ben kazandım!"
+    },
+    {
+      "id": "7f2ea9b9",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "7f2ea9ba",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "80ee4e34",
+      "bank_id": "80f55202",
+      "text": "Kahretsin, yaşayan ölülerden nefret ederim."
+    },
+    {
+      "id": "80ee4e37",
+      "bank_id": "80f55202",
+      "text": "Hiçbir yürüyen ceset sürüsü bir Albion muhafızını durduramaz!"
+    },
+    {
+      "id": "81bddfe5",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "81bddfe6",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "8214703c",
+      "bank_id": "80f55202",
+      "text": "Bunun gibi daha nicesi var bende."
+    },
+    {
+      "id": "8214703f",
+      "bank_id": "80f55202",
+      "text": "Kanun benim!"
+    },
+    {
+      "id": "82d6db5c",
+      "bank_id": "80f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "82d6db5f",
+      "bank_id": "80f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "83931b3c",
+      "bank_id": "80f55202",
+      "text": "Daha fazla muhafıza ihtiyacımız var!"
+    },
+    {
+      "id": "85072a61",
+      "bank_id": "80f55202",
+      "text": "Ateşi kesin!"
+    },
+    {
+      "id": "888cbda8",
+      "bank_id": "80f55202",
+      "text": "Köpekleri severim ama beni mecbur bırakıyorsun!"
+    },
+    {
+      "id": "888cbdab",
+      "bank_id": "80f55202",
+      "text": "Tasmada olman gerekirdi senin!"
+    },
+    {
+      "id": "8bcc1fb3",
+      "bank_id": "80f55202",
+      "text": "Hücum!"
+    },
+    {
+      "id": "8f4dde05",
+      "bank_id": "80f55202",
+      "text": "Biri zamanı mı yavaşlattı? Lanet olsun."
+    },
+    {
+      "id": "8f4dde06",
+      "bank_id": "80f55202",
+      "text": "O dolandırıcı nasıl bu kadar hızlı hareket etti öyle?"
+    },
+    {
+      "id": "92deca9e",
+      "bank_id": "80f55202",
+      "text": "Hücum! Şimdi!"
+    },
+    {
+      "id": "92e0409c",
+      "bank_id": "80f55202",
+      "text": "Tekrar ayağa kalkabilir misin?"
+    },
+    {
+      "id": "92e0409f",
+      "bank_id": "80f55202",
+      "text": "Ayağa kalk muhafız!"
+    },
+    {
+      "id": "94aa47ad",
+      "bank_id": "80f55202",
+      "text": "Biz kanunun bükülmez koluyuz!"
+    },
+    {
+      "id": "94aa47ae",
+      "bank_id": "80f55202",
+      "text": "Artık bizi kimse durduramaz!"
+    },
+    {
+      "id": "9a26d41c",
+      "bank_id": "80f55202",
+      "text": "Ruhsatsız ölü diriltmek suç teşkil eder!"
+    },
+    {
+      "id": "9a26d41f",
+      "bank_id": "80f55202",
+      "text": "Lanet olsun, şimdi bir de zombilerle mi dövüşeceğiz?!"
+    },
+    {
+      "id": "9a288c12",
+      "bank_id": "80f55202",
+      "text": "Bize denk olamaz. Muhafızlar galip gelecek!"
+    },
+    {
+      "id": "9a288c19",
+      "bank_id": "80f55202",
+      "text": "Bize denk olamaz. Muhafızlar galip gelecek!"
+    },
+    {
+      "id": "9b02a9b9",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "9b02a9ba",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "9b68e376",
+      "bank_id": "80f55202",
+      "text": "Ateş!"
+    },
+    {
+      "id": "9dbbf8c5",
+      "bank_id": "80f55202",
+      "text": "Hadi, bunu hâlâ kazanabiliriz!"
+    },
+    {
+      "id": "9dbbf8c6",
+      "bank_id": "80f55202",
+      "text": "Henüz kaybetmedik!"
+    },
+    {
+      "id": "9eb84630",
+      "bank_id": "80f55202",
+      "text": "Bu işten geri çekilme vakti!"
+    },
+    {
+      "id": "9eb84633",
+      "bank_id": "80f55202",
+      "text": "Bu işten geri çekilme vakti!"
+    },
+    {
+      "id": "9ed6ea74",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "9ed6ea77",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "9f1406e9",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "9f1406ea",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "9f1e1ee4",
+      "bank_id": "80f55202",
+      "text": "Neler oluyor bakalım?"
+    },
+    {
+      "id": "9f1e1ee7",
+      "bank_id": "80f55202",
+      "text": "Kimin çocuğu bu kadar hızlı hareket edebilir ki?"
+    },
+    {
+      "id": "9f403799",
+      "bank_id": "80f55202",
+      "text": "Ayağa kalk da bir daha yapayım."
+    },
+    {
+      "id": "9f40379a",
+      "bank_id": "80f55202",
+      "text": "Yerde kal suçlu."
+    },
+    {
+      "id": "a08f1938",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "a08f193b",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "a27a49a0",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "a27a49a3",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "a361b6b9",
+      "bank_id": "80f55202",
+      "text": "Bazen muhafız olmaktan nefret ediyorum!"
+    },
+    {
+      "id": "a361b6ba",
+      "bank_id": "80f55202",
+      "text": "Ah, neden hep benim başıma gelir bu?"
+    },
+    {
+      "id": "a3848071",
+      "bank_id": "80f55202",
+      "text": "Al bakalım bunu seni suçlu fino!"
+    },
+    {
+      "id": "a3848072",
+      "bank_id": "80f55202",
+      "text": "Al bakalım seni aptal fino!"
+    },
+    {
+      "id": "a5ebaa94",
+      "bank_id": "80f55202",
+      "text": "Öldü!"
+    },
+    {
+      "id": "a5ebaa97",
+      "bank_id": "80f55202",
+      "text": "O da yere serildi!"
+    },
+    {
+      "id": "ab1352f8",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "ab1352fb",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "ab13e26c",
+      "bank_id": "80f55202",
+      "text": "Senin gibi suçluları kahvaltı niyetine yerim ben. Pastırma gibi küp küp doğranmış tabii ki."
+    },
+    {
+      "id": "ab13e26f",
+      "bank_id": "80f55202",
+      "text": "Senden daha büyük haydutların derisini yüzdüm ben."
+    },
+    {
+      "id": "acfdfb00",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "acfdfb03",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "adf2ffbd",
+      "bank_id": "80f55202",
+      "text": "Tamamen yok edildi!"
+    },
+    {
+      "id": "adf2ffbe",
+      "bank_id": "80f55202",
+      "text": "Gördün mü? Bayağı etkileyiciydim, değil mi?"
+    },
+    {
+      "id": "b0808424",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "b0808427",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "b0fb537d",
+      "bank_id": "80f55202",
+      "text": "Bunu sen istedin!"
+    },
+    {
+      "id": "b0fb537e",
+      "bank_id": "80f55202",
+      "text": "Bu tam da senin içindi!"
+    },
+    {
+      "id": "b1f2b4c0",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "b1f2b4c3",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "b31a9285",
+      "bank_id": "80f55202",
+      "text": "Toparlanın! Toparlanın!"
+    },
+    {
+      "id": "b33ac7a5",
+      "bank_id": "80f55202",
+      "text": "Hiç şansın yok!"
+    },
+    {
+      "id": "b33ac7a6",
+      "bank_id": "80f55202",
+      "text": "Belaya bulaşmadan önce iki kere düşünürsün artık, değil mi?"
+    },
+    {
+      "id": "b5314514",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "b5314517",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "b65ee9d3",
+      "bank_id": "80f55202",
+      "text": "Buralarda muhafızların işleri nasıl hallettiğini bu oğlana gösterme vakti."
+    },
+    {
+      "id": "b65ee9d8",
+      "bank_id": "80f55202",
+      "text": "Buralarda muhafızların işleri nasıl hallettiğini bu kıza gösterme vakti."
+    },
+    {
+      "id": "b80f705c",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "b80f705f",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "b8df9124",
+      "bank_id": "80f55202",
+      "text": "Bu henüz bitmedi."
+    },
+    {
+      "id": "b8df9127",
+      "bank_id": "80f55202",
+      "text": "Beni henüz yenemedin."
+    },
+    {
+      "id": "b9e19d7d",
+      "bank_id": "80f55202",
+      "text": "Serbest ateş!"
+    },
+    {
+      "id": "ba636769",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "ba63676a",
+      "bank_id": "80f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "baafedfa",
+      "bank_id": "80f55202",
+      "text": "Destek çağırın!"
+    },
+    {
+      "id": "babc03a1",
+      "bank_id": "80f55202",
+      "text": "Asla bitmez!"
+    },
+    {
+      "id": "babc03a2",
+      "bank_id": "80f55202",
+      "text": "Bunu lehimize çevirmeliyiz!"
+    },
+    {
+      "id": "bdbacedc",
+      "bank_id": "80f55202",
+      "text": "Yakalayın şu dolandırıcıyı!"
+    },
+    {
+      "id": "bdbacedf",
+      "bank_id": "80f55202",
+      "text": "Derisini yüzelim şu pisliğin!"
+    },
+    {
+      "id": "bdde2d53",
+      "bank_id": "80f55202",
+      "text": "Linç edelim şunu çocuklar."
+    },
+    {
+      "id": "bdde2d58",
+      "bank_id": "80f55202",
+      "text": "Linç edelim şunu çocuklar."
+    },
+    {
+      "id": "bfdd8f64",
+      "bank_id": "80f55202",
+      "text": "Ateşi kesin!"
+    },
+    {
+      "id": "c11b4699",
+      "bank_id": "80f55202",
+      "text": "Saldırın!"
+    },
+    {
+      "id": "c2523b54",
+      "bank_id": "80f55202",
+      "text": "Serbest ateş!"
+    },
+    {
+      "id": "c3530242",
+      "bank_id": "80f55202",
+      "text": "Henüz ateş etmeyin!"
+    },
+    {
+      "id": "c3b0b9ed",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "c3b0b9ee",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "c55ded00",
+      "bank_id": "80f55202",
+      "text": "Bunun bedelini ödeyeceksin dolandırıcı!"
+    },
+    {
+      "id": "c55ded03",
+      "bank_id": "80f55202",
+      "text": "Kafatasını parçalayıp beyninin suç işlemeye yarayan kısmını arayacağım."
+    },
+    {
+      "id": "c61cd3a1",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "c61cd3a2",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "cb722010",
+      "bank_id": "80f55202",
+      "text": "Al bakalım!"
+    },
+    {
+      "id": "cb722013",
+      "bank_id": "80f55202",
+      "text": "Ha!"
+    },
+    {
+      "id": "cdab3251",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "cdab3252",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "cedca1e8",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "cedca1eb",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "cf58d471",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "cf58d472",
+      "bank_id": "80f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "cf86c67c",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "cf86c67f",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "cf9197f8",
+      "bank_id": "80f55202",
+      "text": "Ah, kazanmak ne güzel hissettiriyor!"
+    },
+    {
+      "id": "cf9197fb",
+      "bank_id": "80f55202",
+      "text": "Kanunlara uysaydın bu açmazda olmazdın. Geçmiş olsun!"
+    },
+    {
+      "id": "d12b1964",
+      "bank_id": "80f55202",
+      "text": "İşte ben buna adalet derim!"
+    },
+    {
+      "id": "d12b1967",
+      "bank_id": "80f55202",
+      "text": "Muhafızlara bir puan daha yazın!"
+    },
+    {
+      "id": "d29973cd",
+      "bank_id": "80f55202",
+      "text": "Bir dahaki sefere tek başına dövüşürsün. Bundan sıkılmaya başladım!"
+    },
+    {
+      "id": "d29973ce",
+      "bank_id": "80f55202",
+      "text": "Kötü göründüğünü biliyorum ama moralinizi bozmayın!"
+    },
+    {
+      "id": "d2a9c467",
+      "bank_id": "80f55202",
+      "text": "Destek çağırın!"
+    },
+    {
+      "id": "d358b050",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "d358b053",
+      "bank_id": "80f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "d4076d19",
+      "bank_id": "80f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "d4076d1a",
+      "bank_id": "80f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "db252831",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "db252832",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "dc16f3d8",
+      "bank_id": "80f55202",
+      "text": "Toparlanın! Toparlanın!"
+    },
+    {
+      "id": "df3c84c5",
+      "bank_id": "80f55202",
+      "text": "Bahse girerim bu atış fena acıtmıştır."
+    },
+    {
+      "id": "df3c84c6",
+      "bank_id": "80f55202",
+      "text": "Nereden vuruldun?"
+    },
+    {
+      "id": "dfb8a699",
+      "bank_id": "80f55202",
+      "text": "İşte bu yüzden kurşungeçirmez dona ihtiyacımız var!"
+    },
+    {
+      "id": "dfb8a69a",
+      "bank_id": "80f55202",
+      "text": "Neden herkes muhafızlara ateş etmek istiyor ki?"
+    },
+    {
+      "id": "dfbb2681",
+      "bank_id": "80f55202",
+      "text": "Sonuna kadar dövüşmeye devam edin!"
+    },
+    {
+      "id": "dfbb2682",
+      "bank_id": "80f55202",
+      "text": "Burada özel bir şeyler yapmamız lazım. Kaybediyoruz!"
+    },
+    {
+      "id": "e0d086b1",
+      "bank_id": "80f55202",
+      "text": "Sana fazla güçlüyüz. Pes et!"
+    },
+    {
+      "id": "e0d086b2",
+      "bank_id": "80f55202",
+      "text": "Kanunun tüm ağırlığını üstüne indireceğiz. Ki çoğumuz zaten fazla kiloluyuz."
+    },
+    {
+      "id": "e26ecd8d",
+      "bank_id": "80f55202",
+      "text": "Ateşi kesin millet!"
+    },
+    {
+      "id": "e53c903c",
+      "bank_id": "80f55202",
+      "text": "Kazanamayacağını görmüyor musun?"
+    },
+    {
+      "id": "e53c903f",
+      "bank_id": "80f55202",
+      "text": "Umarım suç işlemenin bu zahmete değmediğini öğreniyorsundur."
+    },
+    {
+      "id": "e72e8ae1",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "e72e8ae2",
+      "bank_id": "80f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "e849879c",
+      "bank_id": "80f55202",
+      "text": "Herkes geri çekilsin!"
+    },
+    {
+      "id": "ec645e35",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "ec645e36",
+      "bank_id": "80f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "f1682d18",
+      "bank_id": "80f55202",
+      "text": "Siper alın!"
+    },
+    {
+      "id": "f1682d1b",
+      "bank_id": "80f55202",
+      "text": "İyi misin dostum?!"
+    },
+    {
+      "id": "f28423e8",
+      "bank_id": "80f55202",
+      "text": "Bunun elimizden kayıp gitmesine imkân yok artık."
+    },
+    {
+      "id": "f28423eb",
+      "bank_id": "80f55202",
+      "text": "Muhafızlar bir kez daha dünyanın pisliğini ezip geçiyor."
+    },
+    {
+      "id": "f46b515e",
+      "bank_id": "80f55202",
+      "text": "Geri çekilin! Geri çekilin!"
+    },
+    {
+      "id": "f593fba4",
+      "bank_id": "80f55202",
+      "text": "Hadi, son bir gayret!"
+    },
+    {
+      "id": "f593fba7",
+      "bank_id": "80f55202",
+      "text": "Henüz yenilmedik çocuklar."
+    },
+    {
+      "id": "f80b0529",
+      "bank_id": "80f55202",
+      "text": "Polis şiddetinin nasıl bir şey olduğunu hiç merak etmiş miydin? Öğrenmek üzeresin."
+    },
+    {
+      "id": "f80b052a",
+      "bank_id": "80f55202",
+      "text": "Kanunun tüm kudretini hissedeceksin."
+    },
+    {
+      "id": "fa0f43a9",
+      "bank_id": "80f55202",
+      "text": "Acımasız ve alışılmadık bir cezaya hazır mısın? Aslında alışılmış türden olacak."
+    },
+    {
+      "id": "fa0f43aa",
+      "bank_id": "80f55202",
+      "text": "Kanunu çiğnedin mi? Boynunu kırarım. Gayet adil."
+    }
+  ]
+}

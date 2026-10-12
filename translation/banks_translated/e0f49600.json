@@ -1,0 +1,591 @@
+{
+  "bank_id": "e0f49600",
+  "total_strings": 117,
+  "strings": [
+    {
+      "id": "005ebe6b",
+      "bank_id": "e0f49600",
+      "text": "Bir silahla savuşturma yaparken hasarın bir yüzdesini saldıran kişiye geri yansıtırsınız."
+    },
+    {
+      "id": "05646f66",
+      "bank_id": "e0f49600",
+      "text": "Yumuşak Ten Efsun Taşı"
+    },
+    {
+      "id": "07cfa7bc",
+      "bank_id": "e0f49600",
+      "text": "Kutsanmış Izdırap Efsun Taşı"
+    },
+    {
+      "id": "0815cdfe",
+      "bank_id": "e0f49600",
+      "text": "Kötü düşmanlar daha çok hasar alır, iyi rakipler daha az; hepsi de Azrail dövmelerinizin tam setine hayran kalır."
+    },
+    {
+      "id": "097f9477",
+      "bank_id": "e0f49600",
+      "text": "Yansıma Laneti"
+    },
+    {
+      "id": "098098b2",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nÖlü düşmanlarınızın üzerinden bu kadar kolay para bulmak içinizi kemirir. Canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "0a2e7151",
+      "bank_id": "e0f49600",
+      "text": "Kısas"
+    },
+    {
+      "id": "0ba909d4",
+      "bank_id": "e0f49600",
+      "text": "İçine hapsedilen ruh dövüşürken ara sıra laf atıp yorum yapar."
+    },
+    {
+      "id": "0d672979",
+      "bank_id": "e0f49600",
+      "text": "Savuşturma yaptığınızda hasarın bir kısmını düşmanlara geri yönlendirirsiniz ancak canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "11c167bf",
+      "bank_id": "e0f49600",
+      "text": "Daha fazla hasar verir ve kendiniz daha az hasar alırsınız.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "11c9ec2f",
+      "bank_id": "e0f49600",
+      "text": "Büyücünün Talihi"
+    },
+    {
+      "id": "165759e2",
+      "bank_id": "e0f49600",
+      "text": "Servetin Haşmeti"
+    },
+    {
+      "id": "1708070f",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKötü düşmanlara fazladan hasar verir, iyilere daha az vurursunuz. Erdemin gücü sizi yara izlerine karşı korur."
+    },
+    {
+      "id": "1892842b",
+      "bank_id": "e0f49600",
+      "text": "Dokunulmaz"
+    },
+    {
+      "id": "1a500872",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKötü düşmanlar darbe vurduğunuzda ilave hasar alır ancak dövüşte genel olarak daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "1b989450",
+      "bank_id": "e0f49600",
+      "text": "Bu kana susamış efsun taşı, yaptığınız her infaz için sizi altınla ödüllendirir.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "1c4fc5e7",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nDövüşte daha çok darbe alırken daha az hasar verirsiniz."
+    },
+    {
+      "id": "205630e1",
+      "bank_id": "e0f49600",
+      "text": "Ateş böcekleri etrafınızı sararak vurulmanızı zorlaştırır: Bir saldırıyı savuşturduğunuzda hasarın bir kısmı rakibe geri yansır."
+    },
+    {
+      "id": "20d747db",
+      "bank_id": "e0f49600",
+      "text": "İradenin Haşmeti"
+    },
+    {
+      "id": "251a5e1b",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nDüşmanları öldürdüğünüzde altın bulma eğilimindesinizdir ve pek yara izi göstermezsiniz. Paranın satın alabileceği cilt bakımı hakikaten şaşırtıcı."
+    },
+    {
+      "id": "25cef45f",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nYara izi almaya daha meyillisinizdir."
+    },
+    {
+      "id": "28d347e2",
+      "bank_id": "e0f49600",
+      "text": "Dövüş sizi zenginleştirir, bu yüzden zengin hobisi edinmişsinizdir: böcek bilimi. Bu da sizi insanlar için ilginç ve çekici kılar."
+    },
+    {
+      "id": "2ff34b0e",
+      "bank_id": "e0f49600",
+      "text": "Gürültü Efsun Taşı"
+    },
+    {
+      "id": "310db25c",
+      "bank_id": "e0f49600",
+      "text": "İraaaade"
+    },
+    {
+      "id": "329ae36c",
+      "bank_id": "e0f49600",
+      "text": "Kötü rakiplere ilave hasar verir, iyilere daha az vurursunuz. Ahlakları ne olursa olsun insanlar Haşmet dövmelerinizin fazlasıyla etkileyici olduğunu kabul etmek zorundadır."
+    },
+    {
+      "id": "32b327a9",
+      "bank_id": "e0f49600",
+      "text": "Her vuruşta düşmanlardan İrade çekersiniz. Bundan daha etkileyici olanı ise Azrail dövmelerinizdir."
+    },
+    {
+      "id": "34e2351e",
+      "bank_id": "e0f49600",
+      "text": "Efsunlu silahla olan becerinizi artırır, kafanızdaki saçları ise kaybedersiniz. Başa baş bir takas."
+    },
+    {
+      "id": "389832e4",
+      "bank_id": "e0f49600",
+      "text": "Kıyamet Kubbesi"
+    },
+    {
+      "id": "39e70e60",
+      "bank_id": "e0f49600",
+      "text": "Azrail'in Aşarı"
+    },
+    {
+      "id": "3aa713f9",
+      "bank_id": "e0f49600",
+      "text": "Bir saldırı indirdiğinizde rakiplerinizden İrade çekerek bunu Haşmet dövmeleriyle kaplı vücudunuza soğurursunuz."
+    },
+    {
+      "id": "3b45726f",
+      "bank_id": "e0f49600",
+      "text": "Haşmetli Ayna"
+    },
+    {
+      "id": "3b63a708",
+      "bank_id": "e0f49600",
+      "text": "Gür Yansıma"
+    },
+    {
+      "id": "3b924d6c",
+      "bank_id": "e0f49600",
+      "text": "Her saldırıda düşmanlardan İrade çekip kendi rezervlerinize eklersiniz. Bu İrade savunmanızı biraz pekiştirerek yara izi almanızı zorlaştırır."
+    },
+    {
+      "id": "3bfc3d4c",
+      "bank_id": "e0f49600",
+      "text": "Bilhassa da saçlar. Öldürülen her düşman bir altın kazandırır ancak tamamen kelsinizdir. Ama zenginken kimin umurunda?"
+    },
+    {
+      "id": "3c400f5c",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nTalih erdeminize gülerken banshee'ler, gölgeler ve Kof Adamlar gibi tekinsiz kötü yaratıklara fazladan hasar verirsiniz."
+    },
+    {
+      "id": "440d9425",
+      "bank_id": "e0f49600",
+      "text": "Sülük Efsun Taşı"
+    },
+    {
+      "id": "4eea43e1",
+      "bank_id": "e0f49600",
+      "text": "Paranın Gücü Efsun Taşı"
+    },
+    {
+      "id": "50b74f25",
+      "bank_id": "e0f49600",
+      "text": "Dikenler"
+    },
+    {
+      "id": "53866f85",
+      "bank_id": "e0f49600",
+      "text": "Daha az darbe alırken daha büyük hasar verirsiniz ve her başarılı vuruşta rakibinizden İrade soğurursunuz."
+    },
+    {
+      "id": "551f6c80",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKötü düşmanlarla dövüşürken fazladan hasar verir, iyi rakiplerle savaşırken daha az vurursunuz. Her halükarda kolayca yara izi alırsınız."
+    },
+    {
+      "id": "56f65fb5",
+      "bank_id": "e0f49600",
+      "text": "Düşmanların saldırılarını savuşturduğunuzda, sanki Azrail dövmeleriniz onlara kırbaç gibi çarpıyormuşçasına hasarın bir kısmını kendileri alırlar."
+    },
+    {
+      "id": "58af3375",
+      "bank_id": "e0f49600",
+      "text": "Bir düşmanı öldürdüğünüzde bir altın alırsınız. Ne kadar öldürürseniz öldürün, daima gür bir sakalınız olur."
+    },
+    {
+      "id": "59ab14c2",
+      "bank_id": "e0f49600",
+      "text": "Büyük Yansıma"
+    },
+    {
+      "id": "5cee3bcd",
+      "bank_id": "e0f49600",
+      "text": "Cila"
+    },
+    {
+      "id": "5eec7176",
+      "bank_id": "e0f49600",
+      "text": "İğneler"
+    },
+    {
+      "id": "5ff3aaf3",
+      "bank_id": "e0f49600",
+      "text": "Erdemli Sakal Bıyık"
+    },
+    {
+      "id": "61445ab4",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBanshee'ler, gölgeler ve Kof Adamlar gibi tekinsiz kötü yaratıklara fazladan hasar verirken muhafızlar gibi iyi rakiplere daha az hasar verirsiniz."
+    },
+    {
+      "id": "63105838",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKendinize böyle söylüyorsunuz. Fazladan hasar verir, daha az darbe alır ve alt ettiğiniz hasımların üzerinde altın bulursunuz."
+    },
+    {
+      "id": "634b496c",
+      "bank_id": "e0f49600",
+      "text": "Erdemli Sürü"
+    },
+    {
+      "id": "6daf9776",
+      "bank_id": "e0f49600",
+      "text": "Sarhoş olsanız bile her saldırıyla düşmanlarınızdan İrade çekebilirsiniz."
+    },
+    {
+      "id": "7512cf9d",
+      "bank_id": "e0f49600",
+      "text": "Uğur Parçası Efsun Taşı"
+    },
+    {
+      "id": "752c1194",
+      "bank_id": "e0f49600",
+      "text": "Savuşturma yaparken hasarı düşmanlara geri yansıtırsınız. Ayrıca dünyaya da ışık yansıtırsınız."
+    },
+    {
+      "id": "75adf747",
+      "bank_id": "e0f49600",
+      "text": "Parlak Keltoş"
+    },
+    {
+      "id": "7945bad7",
+      "bank_id": "e0f49600",
+      "text": "Küçük Yansıma"
+    },
+    {
+      "id": "7c955d31",
+      "bank_id": "e0f49600",
+      "text": "Haydutlar gibi kötü düşmanlara fazladan hasar verir, iyi rakiplere daha az vurursunuz. Ayrıca son derece etkileyici sakalınız da dikkate değerdir."
+    },
+    {
+      "id": "7e03d3e8",
+      "bank_id": "e0f49600",
+      "text": "Her başarılı vuruşta rakiplerinizden İrade çekersiniz. Ekstra İrade yüzünden parıldayarak karanlık yerlerde ışık sağlarsınız."
+    },
+    {
+      "id": "7f481ca5",
+      "bank_id": "e0f49600",
+      "text": "Uğursuz Talih Efsun Taşı"
+    },
+    {
+      "id": "7f7acbc5",
+      "bank_id": "e0f49600",
+      "text": "Sizi büyüyle koruyor gibi görünen Haşmet dövmeleriyle kaplısınızdır. Savuşturmalarınız hasarın bir kısmını düşmanlara geri yansıtır."
+    },
+    {
+      "id": "80c3abec",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nParayı kolay bulursunuz, bu yüzden çok çalışmaya alışık değilsinizdir. Sonuç olarak kolayca yara izi alırsınız."
+    },
+    {
+      "id": "81a528ab",
+      "bank_id": "e0f49600",
+      "text": "Büyücünün Yara İzleri"
+    },
+    {
+      "id": "831433ee",
+      "bank_id": "e0f49600",
+      "text": "Erdemli Şiddet Efsun Taşı"
+    },
+    {
+      "id": "84ff1038",
+      "bank_id": "e0f49600",
+      "text": "Sarhoş Savunması"
+    },
+    {
+      "id": "85fc7bf0",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nYine de bol şans. Efsunlu silahla oldukça beceriklisinizdir ancak berbat talihiniz yüzünden dövüşte daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "8a5bfd3d",
+      "bank_id": "e0f49600",
+      "text": "Kâğıttan Ten Efsun Taşı"
+    },
+    {
+      "id": "8ba217f2",
+      "bank_id": "e0f49600",
+      "text": "Ölü düşmanlarınızın üzerinde bulduğunuz altınla ne yapacaksınız? Azrail dövmelerine gitmeyeceği kesin: onlara zaten sahipsiniz."
+    },
+    {
+      "id": "8bcb01c4",
+      "bank_id": "e0f49600",
+      "text": "Azrail'in Hükmü"
+    },
+    {
+      "id": "8e0ccfad",
+      "bank_id": "e0f49600",
+      "text": "Savuşturmalarınız hasarın bir kısmını düşmanlara geri yansıtır ancak kendiniz daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "8ff22a3a",
+      "bank_id": "e0f49600",
+      "text": "Başarılı savuşturma yapmak hasarı düşmanlara yansıtır. Ayrıca çenenizde kıl çıkarır."
+    },
+    {
+      "id": "939ed227",
+      "bank_id": "e0f49600",
+      "text": "Dövüşün ardından sık sık para bulursunuz. Para sizin başınızı döndürür, bu yüzden her daim biraz sarhoşsunuzdur."
+    },
+    {
+      "id": "94dd50e9",
+      "bank_id": "e0f49600",
+      "text": "Daha fazla hasar verip daha az alırsınız ve bir darbeyi savuşturduğunuzda hasarın bir kısmını saldıran kişiye geri yansıtırsınız."
+    },
+    {
+      "id": "96fbeace",
+      "bank_id": "e0f49600",
+      "text": "Yansıma Işığı"
+    },
+    {
+      "id": "97cfd8d2",
+      "bank_id": "e0f49600",
+      "text": "Altın Dokunuş Efsun Taşı"
+    },
+    {
+      "id": "9b96d64d",
+      "bank_id": "e0f49600",
+      "text": "İlahi Lütuf Efsun Taşı"
+    },
+    {
+      "id": "a0b1f97b",
+      "bank_id": "e0f49600",
+      "text": "Sizden yayılan ışık kötü düşmanlara daha çok, iyi rakiplere daha az hasar verir. Doğal olarak geceleri görmeyi de kolaylaştırır."
+    },
+    {
+      "id": "a37efc36",
+      "bank_id": "e0f49600",
+      "text": "Kökten İmha"
+    },
+    {
+      "id": "a88cedaf",
+      "bank_id": "e0f49600",
+      "text": "İrade Kullanıcısının Pazarlığı"
+    },
+    {
+      "id": "aa0c3cfb",
+      "bank_id": "e0f49600",
+      "text": "Kötü rakiplere daha çok, iyilere daha az hasar verirsiniz. Üstelik hepsini de iyice çakırkeyifken yaparsınız."
+    },
+    {
+      "id": "aedc15a2",
+      "bank_id": "e0f49600",
+      "text": "Kutsal Yara İzleri Efsun Taşı"
+    },
+    {
+      "id": "b4ecaf32",
+      "bank_id": "e0f49600",
+      "text": "Kel İntikamcı"
+    },
+    {
+      "id": "b5499320",
+      "bank_id": "e0f49600",
+      "text": "Zengin Suçluluğu Efsun Taşı"
+    },
+    {
+      "id": "b5fff66b",
+      "bank_id": "e0f49600",
+      "text": "Efsun Taşı"
+    },
+    {
+      "id": "b71678f0",
+      "bank_id": "e0f49600",
+      "text": "Böcek Bilimi"
+    },
+    {
+      "id": "b73ba6e6",
+      "bank_id": "e0f49600",
+      "text": "Kutsal Haşmet"
+    },
+    {
+      "id": "b8b63430",
+      "bank_id": "e0f49600",
+      "text": "Kötülüğü fazladan hasarla cezalandırırken iyi rakiplere daha az hasar verirsiniz. Ayrıca saç uzatmayı da imkânsız bulursunuz."
+    },
+    {
+      "id": "b8e457eb",
+      "bank_id": "e0f49600",
+      "text": "İrade Kullanıcısının Nişanı"
+    },
+    {
+      "id": "ba21dac0",
+      "bank_id": "e0f49600",
+      "text": "Yenilen her düşman bir altın kazandırır. Haşmet dövmelerinizin tadını çıkardığınız gibi onların da tadını çıkarın."
+    },
+    {
+      "id": "ba49e81c",
+      "bank_id": "e0f49600",
+      "text": "Ateş böcekleri etrafınızı sarar. Bu sizi daha çekici kılar ki bu anlaşılabilir bir şeydir; ancak silahınızla daha becerikli olmanızı da sağlar ki bu açıkçası biraz gariptir."
+    },
+    {
+      "id": "bf9d557a",
+      "bank_id": "e0f49600",
+      "text": "Şans Değil Bu Efsun Taşı"
+    },
+    {
+      "id": "c03310e6",
+      "bank_id": "e0f49600",
+      "text": "Berraklık"
+    },
+    {
+      "id": "c09e93c6",
+      "bank_id": "e0f49600",
+      "text": "Para Her Şeyi Satın Alamaz"
+    },
+    {
+      "id": "c3338f56",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKötü rakiplere ilave hasar verirsiniz ancak canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "c5d1b6e5",
+      "bank_id": "e0f49600",
+      "text": "İrade Çağrısı"
+    },
+    {
+      "id": "c894fee0",
+      "bank_id": "e0f49600",
+      "text": "Şehit Laneti Efsun Taşı"
+    },
+    {
+      "id": "ccfc47c1",
+      "bank_id": "e0f49600",
+      "text": "İyilik ve Işık"
+    },
+    {
+      "id": "cff94434",
+      "bank_id": "e0f49600",
+      "text": "Altın Yükü Efsun Taşı"
+    },
+    {
+      "id": "d6568b41",
+      "bank_id": "e0f49600",
+      "text": "Ruh"
+    },
+    {
+      "id": "d85f6c8f",
+      "bank_id": "e0f49600",
+      "text": "Ölü rakiplerinizin üzerinde altın bulursunuz. Bütün o altın neredeyse parıldamanızı sağlar."
+    },
+    {
+      "id": "d8ff5e9d",
+      "bank_id": "e0f49600",
+      "text": "Savuşturma yaptığınızda düşmanın hasarının bir kısmı ona geri yansır. Tıpkı saçsız kafa derinizden yansıyan ışık gibi."
+    },
+    {
+      "id": "df959ede",
+      "bank_id": "e0f49600",
+      "text": "Efsunlu silahla olan becerinizi artırarak ilave hasara yol açar.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "e0e104b6",
+      "bank_id": "e0f49600",
+      "text": "İlahi Talih Efsun Taşı"
+    },
+    {
+      "id": "e0e9b46b",
+      "bank_id": "e0f49600",
+      "text": "İradenin Trajedisi"
+    },
+    {
+      "id": "e1153d67",
+      "bank_id": "e0f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nCanınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "e2771743",
+      "bank_id": "e0f49600",
+      "text": "Paravan"
+    },
+    {
+      "id": "ea497105",
+      "bank_id": "e0f49600",
+      "text": "Düşmanlara vurarak onlardan İrade çekebilirsiniz ancak kendi canınız pahasına: Canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "ec4379ce",
+      "bank_id": "e0f49600",
+      "text": "Yaptığınız her infaz için altın kazanırsınız ancak bunun sonucunda daha az hasar verir ve daha çok darbe alırsınız.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "edbef867",
+      "bank_id": "e0f49600",
+      "text": "Artan silah beceriniz, tıpkı yüzünüz gibi silahınızın da doğaüstü derecede keskin görünmesini sağlar."
+    },
+    {
+      "id": "f3975d5b",
+      "bank_id": "e0f49600",
+      "text": "Yansımanın Belası"
+    },
+    {
+      "id": "f3fc75ff",
+      "bank_id": "e0f49600",
+      "text": "Azrail'in Kısası"
+    },
+    {
+      "id": "f5b6dbbf",
+      "bank_id": "e0f49600",
+      "text": "Eski Zenginlik"
+    },
+    {
+      "id": "f698bce5",
+      "bank_id": "e0f49600",
+      "text": "Pis Zengin"
+    },
+    {
+      "id": "f955610a",
+      "bank_id": "e0f49600",
+      "text": "İrade Işığı"
+    },
+    {
+      "id": "f98dc64a",
+      "bank_id": "e0f49600",
+      "text": "Sarhoş haliniz sizi kestirilemez kılar ve saldırıları savuşturdukça düşmanlar kendilerini kendi darbeleriyle yaralanmış bulurlar."
+    },
+    {
+      "id": "fd759520",
+      "bank_id": "e0f49600",
+      "text": "Savuşturmalarınız hasarın bir kısmını rakiplere yansıtarak sizi nispeten yarasız bırakır."
+    },
+    {
+      "id": "fdd2f60d",
+      "bank_id": "e0f49600",
+      "text": "Savuşturma yaparken hasarın bir kısmını düşmanlara geri yansıtırsınız ama hepsini değil: Dövüş sizde yara izi bırakır."
+    },
+    {
+      "id": "fdeff569",
+      "bank_id": "e0f49600",
+      "text": "Rakiplere vururken onlardan İrade soğurabilirsiniz ancak kolayca yara izi alırsınız."
+    },
+    {
+      "id": "fede06dc",
+      "bank_id": "e0f49600",
+      "text": "Sürekli bir parça sarhoşsunuzdur."
+    },
+    {
+      "id": "ffec3226",
+      "bank_id": "e0f49600",
+      "text": "Ateş böcekleri etrafınızı sarar ve kötü rakiplere ilave hasar verir. Ayrıca sizi daha çekici kılarlar."
+    }
+  ]
+}

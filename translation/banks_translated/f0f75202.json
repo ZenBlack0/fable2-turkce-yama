@@ -1,0 +1,341 @@
+{
+  "bank_id": "f0f75202",
+  "total_strings": 67,
+  "strings": [
+    {
+      "id": "0027d91f",
+      "bank_id": "f0f75202",
+      "text": "Umarım o ahmak Gordon birini bulmayı başarır. Bir ayak parmağımı daha kaybetmeyi göze alamam."
+    },
+    {
+      "id": "0127daf2",
+      "bank_id": "f0f75202",
+      "text": "Donarak ölmek için fazlasıyla önemli biriyim. Karın değil, altının ağırlığı altında ölmeliyim."
+    },
+    {
+      "id": "01b156ed",
+      "bank_id": "f0f75202",
+      "text": "Knothole Adası'nı seveceğinden eminim. Harika bir yerdir. İnsanlar donarak ölmediği zamanlar tabii."
+    },
+    {
+      "id": "07bba0e1",
+      "bank_id": "f0f75202",
+      "text": "Adaya ilk yerleşen kadim uygarlığın insanları, tanrılara karışabilmek amacıyla ruhlarını bu büyülü kaide üzerinden esire yansıtırlardı. Bunu kullanarak resminizi lionhead.com/fable2/photos adresine yükleyebilirsiniz. Büyü işte böyle tuhaf bir şeydir."
+    },
+    {
+      "id": "0cb2aa4b",
+      "bank_id": "f0f75202",
+      "text": "Kutsal bir silah"
+    },
+    {
+      "id": "11c0af6b",
+      "bank_id": "f0f75202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBrodicalılar dünyayı fatihler ve barbarlar olarak dolaşan, ancak daha çok kibarlıklarıyla tanınan bir savaşçı ırkıydı. Zaten kullandıkları acımasız ezici silahları gören pek az kişi onlarla tartışmaya cüret edebilirdi."
+    },
+    {
+      "id": "1425dd26",
+      "bank_id": "f0f75202",
+      "text": "Kahraman resmi çekildi."
+    },
+    {
+      "id": "15123f41",
+      "bank_id": "f0f75202",
+      "text": "Sadece Buz Mabedi'nin anahtarını al ve o Güneş Totemi'ni geri getir, olur mu?"
+    },
+    {
+      "id": "19760052",
+      "bank_id": "f0f75202",
+      "text": "Fena değil, ha? Seni ikna etmeye yardımcı olur diye adadan bazı hediyeler de getirdim."
+    },
+    {
+      "id": "1b906251",
+      "bank_id": "f0f75202",
+      "text": "Brodica Gürzü"
+    },
+    {
+      "id": "1caa1e0e",
+      "bank_id": "f0f75202",
+      "text": "Nereye gidiyorsun? Yanlış bir şey mi söyledim?"
+    },
+    {
+      "id": "2edd63af",
+      "bank_id": "f0f75202",
+      "text": "Ah, ne büyük rahatlama!"
+    },
+    {
+      "id": "2fdd6502",
+      "bank_id": "f0f75202",
+      "text": "Hadi gidelim! Hmm, umarım denizaltım iki kişiyi taşır..."
+    },
+    {
+      "id": "327c2cd5",
+      "bank_id": "f0f75202",
+      "text": "Nadir bir menzilli silah"
+    },
+    {
+      "id": "3a504552",
+      "bank_id": "f0f75202",
+      "text": "Barbar silahı"
+    },
+    {
+      "id": "3b72a604",
+      "bank_id": "f0f75202",
+      "text": "Yargıç Çeliği"
+    },
+    {
+      "id": "48abe168",
+      "bank_id": "f0f75202",
+      "text": "\"Adım Gordon. Yardımınıza şiddetle muhtaç olan Knothole Adası'ndan geliyorum.\""
+    },
+    {
+      "id": "49abe2db",
+      "bank_id": "f0f75202",
+      "text": "\"Kış topraklarımızı esir aldı ve bizi ancak mistik Yaz Taşı'nı geri getirecek kadar yiğit biri kurtarabilir.\""
+    },
+    {
+      "id": "4aabe44e",
+      "bank_id": "f0f75202",
+      "text": "\"Bu dar günümüzde bize yardım etmeniz için canıgönülden yalvarıyorum.\""
+    },
+    {
+      "id": "4dabe907",
+      "bank_id": "f0f75202",
+      "text": "Ah, merhaba! Ben sadece sıradan bir vatandaşım. Buralarda her gün gördüklerinizden."
+    },
+    {
+      "id": "4eabeafa",
+      "bank_id": "f0f75202",
+      "text": "Dur bir dakika, sen onlardan birisin, değil mi? Hani şu maceracı kahraman savaşçı şeylerden. Ah, ne güzel!"
+    },
+    {
+      "id": "4fabec6d",
+      "bank_id": "f0f75202",
+      "text": "Şef bana bir konuşma ezberletti. Bakalım..."
+    },
+    {
+      "id": "5071367b",
+      "bank_id": "f0f75202",
+      "text": "Wretcher'ın Kılıcı"
+    },
+    {
+      "id": "526b47f4",
+      "bank_id": "f0f75202",
+      "text": "Bu silah yalnızca Knothole Adası'nda bulunur. Kıta denginden daha fazla efsun yuvasına sahiptir.\nDöner namlulu ateşli silahların icadı, Albion'daki savaşlarda devrim yarattı. Çok namlulu teknoloji sürekli yeniden doldurma ihtiyacını ortadan kaldırdı ve kullanıcılarına savaş alanında belirgin bir üstünlük sağladı. Bu tüfek teknolojinin biraz vasat bir örneği olsa da, benzer seviyedeki diğer tüfeklerden çok daha faydalı olduğunu kanıtlayacaktır."
+    },
+    {
+      "id": "5b30e7fe",
+      "bank_id": "f0f75202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nAslen Knothole Adası'nın önde gelen mucidi Gordon tarafından tamamen yeni ve benzersiz bir müzik türü yapmak üzere bir enstrüman olarak üretilmiş, fakat kısa sürede bir silah olarak daha kullanışlı olduğu anlaşılmıştır. Özellikle \"Mi Minör Kafaya İndirme\" hamlesi son derece etkilidir."
+    },
+    {
+      "id": "685f2c10",
+      "bank_id": "f0f75202",
+      "text": "Kötücül bir silah"
+    },
+    {
+      "id": "6901d0f0",
+      "bank_id": "f0f75202",
+      "text": "Şef'i kasabanın merkezindeki ofisinde bulabilirsin. Onu görmemen imkânsız."
+    },
+    {
+      "id": "6a8d4926",
+      "bank_id": "f0f75202",
+      "text": "Umarım onu bulduğunda elinde eriyip gitmez."
+    },
+    {
+      "id": "6c01d549",
+      "bank_id": "f0f75202",
+      "text": "Kıtaya dönmen gerekirse burada bekliyor olacağım."
+    },
+    {
+      "id": "708d52b8",
+      "bank_id": "f0f75202",
+      "text": "Knothole Adası'nın kurtarıcısı! Halkıma bizi bu korkunç durumdan kurtaracak bir Kahraman getireceğime söz vermiştim. Sözümü nasıl tuttuğumu görün ey ahali!"
+    },
+    {
+      "id": "718d542b",
+      "bank_id": "f0f75202",
+      "text": "Knothole Adası'na içten ve resmi bir hoş geldiniz dememe izin verin. Elinizi sıkardım ama büyük ihtimalle bir buz saçağı gibi kırılıverirdi."
+    },
+    {
+      "id": "748d58e4",
+      "bank_id": "f0f75202",
+      "text": "Elbette mabede girmek için Buz Anahtarı'na ihtiyacın olacak."
+    },
+    {
+      "id": "758d5a57",
+      "bank_id": "f0f75202",
+      "text": "Tüm bildiğim, son savaşçımızın onu donmuş şelalenin yakınlarında bir yere gömdüğü."
+    },
+    {
+      "id": "768d5bca",
+      "bank_id": "f0f75202",
+      "text": "Bu dondurucu soğuk kesinlikle benim suçum değil. Atalarımız iklimimizi kontrol etmek için kudretli Hava Totemleri'ni kullanırdı, ancak son savaşçılarımız öldüğünden beri bu kış bataklığına saplanıp kaldık."
+    },
+    {
+      "id": "778d5dbd",
+      "bank_id": "f0f75202",
+      "text": "Güneş Totemi'ni Buz Mabedi'nden geri getirmene ihtiyacımız var."
+    },
+    {
+      "id": "79f55fbd",
+      "bank_id": "f0f75202",
+      "text": "Bu silah yalnızca Knothole Adası'nda bulunur. Kıta denginden daha fazla efsun yuvasına sahiptir.\nDöner namlulu ateşli silahların icadı, Albion'daki savaşlarda devrim yarattı. Çok namlulu teknoloji sürekli yeniden doldurma ihtiyacını ortadan kaldırdı ve kullanıcılarına savaş alanında belirgin bir üstünlük sağladı. Bu tüfeğin en iyi günleri çok geride kalmış olsa da, her atıştan sonra doldurmaya üşenenlerin ya da çok acelesi olanların yine de takdirini kazanacaktır."
+    },
+    {
+      "id": "8e8a9291",
+      "bank_id": "f0f75202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBu asadaki efsun sizi yara izlerinden ve aldığınız hasarın bir kısmından korur.\nİrade kullanıcıları öfkelendiğinde en korkunç büyülerini yaparlar. Gerçekten çok ama çok öfkelendiklerinde ise eski usul bir sopayla düşmanlarını peltemsi hale getirirler."
+    },
+    {
+      "id": "9020caac",
+      "bank_id": "f0f75202",
+      "text": "Havanın tadını çıkarmaktan ve altınınızı harcamaktan çekinmeyin."
+    },
+    {
+      "id": "9120cc1f",
+      "bank_id": "f0f75202",
+      "text": "Halkıma güneşi geri getirdim. Ve tabii ki sen de üzerine düşeni yaptın."
+    },
+    {
+      "id": "9220cdf2",
+      "bank_id": "f0f75202",
+      "text": "Başardım! Bu tarihi olay için yeterli bir şampiyon seçtiğime inancım tamdı."
+    },
+    {
+      "id": "99b1a2b2",
+      "bank_id": "f0f75202",
+      "text": "İşte burada kendisi!"
+    },
+    {
+      "id": "99b1a2b9",
+      "bank_id": "f0f75202",
+      "text": "İşte burada kendisi!"
+    },
+    {
+      "id": "9f4a4ac0",
+      "bank_id": "f0f75202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nÇok uzun zaman önce, Albion henüz Eski Krallık hükmü altındayken, uzaydaki bir yarık boyutlar arasında bir geçit açtı. Bu yarıktan içeri yeşil zırhlara bürünmüş, göz alıcı bir kristal kılıç taşıyan muazzam güçte bir savaşçı adım attı. Gerçek adını hiçbir zaman açıklamamış olsa da herkes onu Hal olarak tanırdı. Gelişmiş tüfeğinin ateş gücüne düşmanlarından pek azı karşı koyabilmişti."
+    },
+    {
+      "id": "a51ba2d0",
+      "bank_id": "f0f75202",
+      "text": "Hadi yola koyul o halde! Burada dikilip donmanın âlemi yok."
+    },
+    {
+      "id": "a6349be7",
+      "bank_id": "f0f75202",
+      "text": "Fena değil, ha? Umarım bize yardım edersin. Seni ikna etmeye yardımcı olur diye adadan hediyeler bile getirdim."
+    },
+    {
+      "id": "a71ba636",
+      "bank_id": "f0f75202",
+      "text": "Böyle bir göreve neden kendimizin kalkışmadığını mı merak ediyorsun? Şey, biz artık eski savaşçılar değiliz. Barışçıl, medeni bir halkız. Ayrıca içeri gönderdiğim ilk bir düzine kişi asla canlı çıkamadı."
+    },
+    {
+      "id": "a7349d5a",
+      "bank_id": "f0f75202",
+      "text": "Hemen ayrılamayacağız gerçi. Denizaltım su sızdırıyordu, bu yüzden önce biraz tamirat yapmam gerek."
+    },
+    {
+      "id": "a81ba7a9",
+      "bank_id": "f0f75202",
+      "text": "Acele etmen konusunda ısrar etmeliyim. Ne de olsa totemi getirmeyi kabul etmiştin."
+    },
+    {
+      "id": "ab55c29b",
+      "bank_id": "f0f75202",
+      "text": "Knothole Adası'na seyahat etmek istiyorsanız, premium indirilebilir içeriği satın almanız gerekir. Hemen satın almak için <x_img> düğmesine basın."
+    },
+    {
+      "id": "b0261f0b",
+      "bank_id": "f0f75202",
+      "text": "Dikkate değer bir silah"
+    },
+    {
+      "id": "b1a5e86f",
+      "bank_id": "f0f75202",
+      "text": "Bu silah yalnızca Knothole Adası'nda bulunur. Kıta denginden daha fazla efsun yuvasına sahiptir.\nDöner namlulu ateşli silahların icadı, Albion'daki savaşlarda devrim yarattı. Çok namlulu teknoloji sürekli yeniden doldurma ihtiyacını ortadan kaldırdı ve kullanıcılarına savaş alanında belirgin bir üstünlük sağladı. Bu tüfek, küçük bir orduyu dize getirebilecek kapasitede, teknolojinin oldukça iyi bir örneğidir."
+    },
+    {
+      "id": "b541763e",
+      "bank_id": "f0f75202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBu silahtaki efsun banshee'ler ve kof adamlar gibi kötücül, doğaüstü varlıklara daha büyük hasar vermesini sağlar.\nÇoğu kişinin Beyaz Yargıç dediği bu figür hakkında pek bir şey bilinmez. Sadece gittiği her yerde kötülüklerin izini sürdüğü ve onları düzeltmek uğruna kimseyi esirgemediği bilinir. Hiçbir kılıç bu kadar çok kötülüğü yere sermemiş veya böylesine acımasız bir adalet dağıtmamıştır."
+    },
+    {
+      "id": "b9514cc1",
+      "bank_id": "f0f75202",
+      "text": "Hazır olun..."
+    },
+    {
+      "id": "c2889a76",
+      "bank_id": "f0f75202",
+      "text": "Ah şu yukarıdaki insanlar, kim bilir ne olağanüstü hayatlar yaşıyorlardır."
+    },
+    {
+      "id": "c4889d5c",
+      "bank_id": "f0f75202",
+      "text": "İnşa edilmiş en büyük kapı bu olmalı. Hiçbir gemi oradan geçemez. Çok ince değillerse tabii. Ya da denizaltı."
+    },
+    {
+      "id": "c5889ecf",
+      "bank_id": "f0f75202",
+      "text": "Ya şu köprü! İşlevsel, zarif, çökmüyor da. Harikulade."
+    },
+    {
+      "id": "c7869093",
+      "bank_id": "f0f75202",
+      "text": "Adaya ilk yerleşen kadim uygarlığın insanları, tanrılara karışabilmek amacıyla ruhlarını bu büyülü kaide üzerinden esire yansıtırlardı. Xbox LIVE bağlantınız olsaydı, bunu kullanarak resminizi lionhead.com/fable2/photos adresine yükleyebilirdiniz. Büyü işte böyle tuhaf bir şeydir."
+    },
+    {
+      "id": "c788a215",
+      "bank_id": "f0f75202",
+      "text": "Yani baksana şuna. Şu dişlilerin boyutuna bak! O vinç bir dağı bile kaldırabilir!"
+    },
+    {
+      "id": "cb44ddd8",
+      "bank_id": "f0f75202",
+      "text": "Güçlü iradeli bir silah"
+    },
+    {
+      "id": "cf53d670",
+      "bank_id": "f0f75202",
+      "text": "Bu silah yalnızca Knothole Adası'nda bulunur. Kıta denginden daha fazla efsun yuvasına sahiptir.\nDöner namlulu ateşli silahların icadı, Albion'daki savaşlarda devrim yarattı. Çok namlulu teknoloji sürekli yeniden doldurma ihtiyacını ortadan kaldırdı ve kullanıcılarına savaş alanında belirgin bir üstünlük sağladı. Bu, söz konusu mekânizmanın istisnai ve oldukça nadir bir örneğidir. Herhangi bir ordu bu tüfeklerden sadece birkaç düzinesiyle donatılmış olsaydı, kimse onları durduramazdı."
+    },
+    {
+      "id": "d75ae691",
+      "bank_id": "f0f75202",
+      "text": "Başka bir Kahraman resmi çekilsin mi?"
+    },
+    {
+      "id": "dee61bc4",
+      "bank_id": "f0f75202",
+      "text": "Ahenksizlik Baltası"
+    },
+    {
+      "id": "ea41cb99",
+      "bank_id": "f0f75202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBu silahtaki efsun muhafızlar ve vatandaşlar gibi yasalara bağlı varlıklara daha büyük hasar vermesini sağlar.\nEva Wretcher, savaşlardaki gaddar tabiatı ve vahşetiyle nam salmıştı. Altın ya da güçten ziyade şöhretine takıntılı olarak, yeni meydan okumalar aramak için dünyayı dolaştı. Çoğu zaman bunlar düzinelerce masumun kellesini uçurmayı içeriyordu."
+    },
+    {
+      "id": "f1e9a9d3",
+      "bank_id": "f0f75202",
+      "text": "Gazap Asası"
+    },
+    {
+      "id": "fb7fc9e2",
+      "bank_id": "f0f75202",
+      "text": "Hal'ın Tüfeği"
+    },
+    {
+      "id": "feb15214",
+      "bank_id": "f0f75202",
+      "text": "Şimdi ayrılmak gerçekten güvenli değil. Muhtemelen bir yerlerde denizin dibini boylardık."
+    },
+    {
+      "id": "ffb15387",
+      "bank_id": "f0f75202",
+      "text": "Denizaltı tamir edilir edilmez gidebiliriz. Eminim böylesi bir yeri daha önce hiç görmemişsindir."
+    }
+  ]
+}

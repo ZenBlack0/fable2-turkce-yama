@@ -1,0 +1,906 @@
+{
+  "bank_id": "90349601",
+  "total_strings": 180,
+  "strings": [
+    {
+      "id": "02a6f985",
+      "bank_id": "90349601",
+      "text": "Görünüşünden bile iyi biri olduğu anlaşılıyor."
+    },
+    {
+      "id": "02a6f98e",
+      "bank_id": "90349601",
+      "text": "Görünüşünden bile iyi biri olduğu anlaşılıyor."
+    },
+    {
+      "id": "04871d41",
+      "bank_id": "90349601",
+      "text": "Sahiden, tüm Albion'da bundan daha nefret edilen bir adam var mıdır?"
+    },
+    {
+      "id": "04871d4a",
+      "bank_id": "90349601",
+      "text": "Onu görmeye bile tahammül edemiyorum!"
+    },
+    {
+      "id": "0588d174",
+      "bank_id": "90349601",
+      "text": "Bir lav çukuruna falan yuvarlansa ne harika olurdu değil mi?"
+    },
+    {
+      "id": "0588d17f",
+      "bank_id": "90349601",
+      "text": "Bir lav çukuruna falan yuvarlansa ne harika olurdu değil mi?"
+    },
+    {
+      "id": "0bf2c085",
+      "bank_id": "90349601",
+      "text": "Gerçekten çok cana yakın biri."
+    },
+    {
+      "id": "0bf2c08e",
+      "bank_id": "90349601",
+      "text": "Gerçekten çok cana yakın biri."
+    },
+    {
+      "id": "139f7314",
+      "bank_id": "90349601",
+      "text": "O adamın her şeyinden nefret ediyorum."
+    },
+    {
+      "id": "139f731f",
+      "bank_id": "90349601",
+      "text": "O kadının her şeyinden nefret ediyorum."
+    },
+    {
+      "id": "15757f14",
+      "bank_id": "90349601",
+      "text": "Gözümüz üstünde olmalı. Hâlâ hakkında pek bir şey bilmiyoruz."
+    },
+    {
+      "id": "15757f1f",
+      "bank_id": "90349601",
+      "text": "Ona henüz güvenmezdim ben olsam."
+    },
+    {
+      "id": "159b06f2",
+      "bank_id": "90349601",
+      "text": "Kötü birine benzemiyor ama insan asla tam emin olamıyor."
+    },
+    {
+      "id": "159b06f9",
+      "bank_id": "90349601",
+      "text": "Kötü birine benzemiyor ama insan asla tam emin olamıyor."
+    },
+    {
+      "id": "16b95223",
+      "bank_id": "90349601",
+      "text": "İyiliği ve cömertliği dillerden düşmüyor."
+    },
+    {
+      "id": "16b95228",
+      "bank_id": "90349601",
+      "text": "İyiliği ve cömertliği dillerden düşmüyor."
+    },
+    {
+      "id": "1764c1b0",
+      "bank_id": "90349601",
+      "text": "İşte arkadaş olmak isteyeceğim biri."
+    },
+    {
+      "id": "1764c1bb",
+      "bank_id": "90349601",
+      "text": "Bir şekilde her şeyi yoluna sokuyor gibi hissettiriyor."
+    },
+    {
+      "id": "17deaa36",
+      "bank_id": "90349601",
+      "text": "Biri bizi o iğrenç kadından kurtaramaz mı?"
+    },
+    {
+      "id": "17deaa3d",
+      "bank_id": "90349601",
+      "text": "Normalde başkalarının kötülüğünü istemem ama umarım tez zamanda ölür."
+    },
+    {
+      "id": "1b6253e4",
+      "bank_id": "90349601",
+      "text": "Keşke burayı temelli terk edip gitse!"
+    },
+    {
+      "id": "1b6253ef",
+      "bank_id": "90349601",
+      "text": "Keşke burayı temelli terk edip gitse!"
+    },
+    {
+      "id": "1c20b230",
+      "bank_id": "90349601",
+      "text": "Hakkında ne düşüneceğimi henüz pek bilemiyorum."
+    },
+    {
+      "id": "1c20b23b",
+      "bank_id": "90349601",
+      "text": "Hakkında ne düşüneceğimi henüz pek bilemiyorum."
+    },
+    {
+      "id": "1c34ef97",
+      "bank_id": "90349601",
+      "text": "Hakkında çok güzel şeyler duydum. Umarız buralarda kalır."
+    },
+    {
+      "id": "1c34ef9c",
+      "bank_id": "90349601",
+      "text": "Ah evet, son derece hoş bir kadın."
+    },
+    {
+      "id": "1d385fe4",
+      "bank_id": "90349601",
+      "text": "Hakkında henüz kesin bir karara varmadım."
+    },
+    {
+      "id": "1d385fef",
+      "bank_id": "90349601",
+      "text": "Hakkında henüz kesin bir karara varmadım."
+    },
+    {
+      "id": "21578491",
+      "bank_id": "90349601",
+      "text": "Hâlâ hayatta demek ha? Ne yazık."
+    },
+    {
+      "id": "2157849a",
+      "bank_id": "90349601",
+      "text": "Biri onu hâlâ öldürmedi mi? Yazık."
+    },
+    {
+      "id": "2211ee10",
+      "bank_id": "90349601",
+      "text": "Bir Kahraman için oldukça sevimli biri."
+    },
+    {
+      "id": "2211ee1b",
+      "bank_id": "90349601",
+      "text": "Eminim o da bizim gibi meyhanede bir iki kadeh içmeyi seviyordur."
+    },
+    {
+      "id": "267aa9a0",
+      "bank_id": "90349601",
+      "text": "O maceracıyı gerçekten çok seviyorum."
+    },
+    {
+      "id": "267aa9a1",
+      "bank_id": "90349601",
+      "text": "Gönülden hayran olduğum biri geçiyor işte."
+    },
+    {
+      "id": "267aa9a3",
+      "bank_id": "90349601",
+      "text": "Böyle bir maceracıyı görmek insanın gününü aydınlatıyor, değil mi?"
+    },
+    {
+      "id": "267aa9a6",
+      "bank_id": "90349601",
+      "text": "O maceracıya karşı en ufak bir husumetim yok. Tam aksine."
+    },
+    {
+      "id": "267aa9a7",
+      "bank_id": "90349601",
+      "text": "Çok iyi biri, evet."
+    },
+    {
+      "id": "2d7ab4a2",
+      "bank_id": "90349601",
+      "text": "Normalde maceracı tiplerden pek haz etmem ama o başkaymış."
+    },
+    {
+      "id": "2d7ab4a3",
+      "bank_id": "90349601",
+      "text": "Evet ya, onu seviyorum. Çok cesur bir maceracı."
+    },
+    {
+      "id": "2d7ab4a4",
+      "bank_id": "90349601",
+      "text": "Ne harika bir insan, öyle değil mi?"
+    },
+    {
+      "id": "2d7ab4a5",
+      "bank_id": "90349601",
+      "text": "O maceracının harika biri olduğunu düşünmüyor musun?"
+    },
+    {
+      "id": "2d7ab4a6",
+      "bank_id": "90349601",
+      "text": "Bana sorarsan ondan daha büyük bir maceracı yok."
+    },
+    {
+      "id": "39982c30",
+      "bank_id": "90349601",
+      "text": "Gereksiz bir baş belası kadın."
+    },
+    {
+      "id": "39982c3b",
+      "bank_id": "90349601",
+      "text": "O bakmıyorken arkasından bir dirgen soksak ne dersin?"
+    },
+    {
+      "id": "3ec6ae33",
+      "bank_id": "90349601",
+      "text": "O adama katlanamıyorum!"
+    },
+    {
+      "id": "3ec6ae38",
+      "bank_id": "90349601",
+      "text": "O kadına katlanamıyorum!"
+    },
+    {
+      "id": "409cba33",
+      "bank_id": "90349601",
+      "text": "Ruhumda henüz pek bir iz bırakabilmiş değil."
+    },
+    {
+      "id": "409cba38",
+      "bank_id": "90349601",
+      "text": "Ruhumda henüz pek bir iz bırakabilmiş değil."
+    },
+    {
+      "id": "412efdf2",
+      "bank_id": "90349601",
+      "text": "Aziz gibi bir adam resmen."
+    },
+    {
+      "id": "412efdf9",
+      "bank_id": "90349601",
+      "text": "Azize gibi bir kadın resmen."
+    },
+    {
+      "id": "41ec9916",
+      "bank_id": "90349601",
+      "text": "Tam da ihtiyacımız olan kişi. İşlerimizi yoluna koyacaktır."
+    },
+    {
+      "id": "41ec991d",
+      "bank_id": "90349601",
+      "text": "Gayet düzgün birine benziyor."
+    },
+    {
+      "id": "4cf75054",
+      "bank_id": "90349601",
+      "text": "Buralardaki ayak takımından katbekat daha iyi olduğu kesin."
+    },
+    {
+      "id": "4cf7505f",
+      "bank_id": "90349601",
+      "text": "Buralardaki ayak takımından katbekat daha iyi olduğu kesin."
+    },
+    {
+      "id": "5b8d2124",
+      "bank_id": "90349601",
+      "text": "Onun gibi biriyle arkadaş olmak isterdim doğrusu."
+    },
+    {
+      "id": "5b8d212f",
+      "bank_id": "90349601",
+      "text": "Onun gibi biriyle arkadaş olmak isterdim doğrusu."
+    },
+    {
+      "id": "5dfca835",
+      "bank_id": "90349601",
+      "text": "Biri şu hobbe'ye haddini bildirmeli."
+    },
+    {
+      "id": "5dfca83e",
+      "bank_id": "90349601",
+      "text": "Biri şu sürtüğe haddini bildirmeli."
+    },
+    {
+      "id": "5f2cfe62",
+      "bank_id": "90349601",
+      "text": "Tarihte hiç bu kadar nefret edilen bir adam olmuş muydu?"
+    },
+    {
+      "id": "5f2cfe69",
+      "bank_id": "90349601",
+      "text": "Tarihte hiç bu kadar nefret edilen bir kadın olmuş muydu?"
+    },
+    {
+      "id": "61030a62",
+      "bank_id": "90349601",
+      "text": "Umurumda bile değil açıkçası."
+    },
+    {
+      "id": "61030a69",
+      "bank_id": "90349601",
+      "text": "Umurumda bile değil açıkçası."
+    },
+    {
+      "id": "6109a882",
+      "bank_id": "90349601",
+      "text": "Çok fedakâr biri, değil mi?"
+    },
+    {
+      "id": "6109a889",
+      "bank_id": "90349601",
+      "text": "Çok fedakâr biri, değil mi?"
+    },
+    {
+      "id": "62354758",
+      "bank_id": "90349601",
+      "text": "Şu maceracı var ya... Hayatımda daha fazla nefret ettiğim birini görmedim sanırım."
+    },
+    {
+      "id": "62354759",
+      "bank_id": "90349601",
+      "text": "O maceracıdan sadece haz etmemekle kalmıyorum. Resmen nefret ediyorum."
+    },
+    {
+      "id": "6235475d",
+      "bank_id": "90349601",
+      "text": "Dünyanın onsuz çok daha iyi olacağı biri işte."
+    },
+    {
+      "id": "6235475e",
+      "bank_id": "90349601",
+      "text": "Umarım o maceracının sonu feci olur!"
+    },
+    {
+      "id": "6235475f",
+      "bank_id": "90349601",
+      "text": "Kim geçiyor gördün mü? Kanım beynime sıçrıyor."
+    },
+    {
+      "id": "636c3500",
+      "bank_id": "90349601",
+      "text": "Sence nefret edilmekten zevk mi alıyor?"
+    },
+    {
+      "id": "636c350b",
+      "bank_id": "90349601",
+      "text": "Onu görmeye bile dayanamıyorum."
+    },
+    {
+      "id": "64200396",
+      "bank_id": "90349601",
+      "text": "Üzerine tükürürdüm ama tükürüğüme yazık."
+    },
+    {
+      "id": "6420039d",
+      "bank_id": "90349601",
+      "text": "O kadın olmasın da! Umarım hobbe'ler tarafından parçalanır."
+    },
+    {
+      "id": "679cf313",
+      "bank_id": "90349601",
+      "text": "Normalde Kahramanlara pek hayranlık duymam ama o fikrimi değiştirdi."
+    },
+    {
+      "id": "679cf318",
+      "bank_id": "90349601",
+      "text": "Soylu kandan gelmeyen biri için oldukça çekilebilir bir adam."
+    },
+    {
+      "id": "68ce1c40",
+      "bank_id": "90349601",
+      "text": "Dünyayı daha iyi bir yer haline getiren türden bir insan."
+    },
+    {
+      "id": "68ce1c4b",
+      "bank_id": "90349601",
+      "text": "Dünyayı daha iyi bir yer haline getiren türden bir insan."
+    },
+    {
+      "id": "6a730242",
+      "bank_id": "90349601",
+      "text": "Diğer maceracılar gibi biri işte sanırım."
+    },
+    {
+      "id": "6a730249",
+      "bank_id": "90349601",
+      "text": "Diğer maceracılar gibi biri işte sanırım."
+    },
+    {
+      "id": "6a873f21",
+      "bank_id": "90349601",
+      "text": "İyi bir adam olduğu belli."
+    },
+    {
+      "id": "6a873f2a",
+      "bank_id": "90349601",
+      "text": "Yeterince hoş birine benziyor, değil mi?"
+    },
+    {
+      "id": "6bb86862",
+      "bank_id": "90349601",
+      "text": "İhtiyacı olan herkese yardım eder. Öyle bir yapısı var işte."
+    },
+    {
+      "id": "6bb86869",
+      "bank_id": "90349601",
+      "text": "İhtiyacı olan herkese yardım eder. Öyle bir yapısı var işte."
+    },
+    {
+      "id": "6d355888",
+      "bank_id": "90349601",
+      "text": "Umarım o maceracı bir trolün altında ezilir."
+    },
+    {
+      "id": "6d355889",
+      "bank_id": "90349601",
+      "text": "Tüm maceracılar onun gibi olsaydı her seferinde canavarların tarafını tutardım."
+    },
+    {
+      "id": "6d35588c",
+      "bank_id": "90349601",
+      "text": "Acı dolu bir ölümü ondan daha fazla hak eden biri var mıdır acaba?"
+    },
+    {
+      "id": "6d35588e",
+      "bank_id": "90349601",
+      "text": "Ne aşağılık bir insan."
+    },
+    {
+      "id": "6d35588f",
+      "bank_id": "90349601",
+      "text": "O maceracıdan tek kelimeyle nefret ediyorum!"
+    },
+    {
+      "id": "710ceb73",
+      "bank_id": "90349601",
+      "text": "Kasabamızdaki varlığı son derece memnuniyet verici, öyle değil mi?"
+    },
+    {
+      "id": "710ceb78",
+      "bank_id": "90349601",
+      "text": "Belki de onu bizim kulübe davet edebiliriz."
+    },
+    {
+      "id": "73db5362",
+      "bank_id": "90349601",
+      "text": "Maceracılarda nefret ettiğim her şeye sahip."
+    },
+    {
+      "id": "73db5369",
+      "bank_id": "90349601",
+      "text": "Maceracılarda nefret ettiğim her şeye sahip."
+    },
+    {
+      "id": "75b2c365",
+      "bank_id": "90349601",
+      "text": "O mendeburdan resmen nefret ediyorum."
+    },
+    {
+      "id": "75b2c36e",
+      "bank_id": "90349601",
+      "text": "O mendeburdan resmen nefret ediyorum."
+    },
+    {
+      "id": "781e8b73",
+      "bank_id": "90349601",
+      "text": "Buralarda olmasını seviyorum."
+    },
+    {
+      "id": "781e8b78",
+      "bank_id": "90349601",
+      "text": "Buralarda olmasını seviyorum."
+    },
+    {
+      "id": "7fbd25c5",
+      "bank_id": "90349601",
+      "text": "Son zamanlarda ilginç bir şey yaptı mı acaba?"
+    },
+    {
+      "id": "7fbd25ce",
+      "bank_id": "90349601",
+      "text": "Son zamanlarda ilginç bir şey yaptı mı acaba?"
+    },
+    {
+      "id": "816a5273",
+      "bank_id": "90349601",
+      "text": "Tanıdıkça gerçekten çok sevilen biri."
+    },
+    {
+      "id": "816a5278",
+      "bank_id": "90349601",
+      "text": "Tanıdıkça gerçekten çok sevilen biri."
+    },
+    {
+      "id": "89d05d93",
+      "bank_id": "90349601",
+      "text": "Onu her gördüğümde tepem atıyor."
+    },
+    {
+      "id": "89d05d98",
+      "bank_id": "90349601",
+      "text": "Kahraman taslağının tek kelimeyle yüz karası."
+    },
+    {
+      "id": "8aed1092",
+      "bank_id": "90349601",
+      "text": "O mu? Bana göre bir maceracının ötekinden pek bir farkı yok."
+    },
+    {
+      "id": "8aed1099",
+      "bank_id": "90349601",
+      "text": "O mu? Bana göre bir maceracının ötekinden pek bir farkı yok."
+    },
+    {
+      "id": "8d563ba6",
+      "bank_id": "90349601",
+      "text": "Ne aşağılık bir adam! Umarım biri ona haddini bildirir."
+    },
+    {
+      "id": "8d563bad",
+      "bank_id": "90349601",
+      "text": "Umarım bulaşıcı bir illetten geberip gider."
+    },
+    {
+      "id": "8d7a2477",
+      "bank_id": "90349601",
+      "text": "Çok iyi kalpli biri o."
+    },
+    {
+      "id": "8d7a247c",
+      "bank_id": "90349601",
+      "text": "Dünyanın en dürüst adamıdır o."
+    },
+    {
+      "id": "90d9e550",
+      "bank_id": "90349601",
+      "text": "Onu görmekten bile nefret ediyorum."
+    },
+    {
+      "id": "90d9e55b",
+      "bank_id": "90349601",
+      "text": "Onu görmekten bile nefret ediyorum."
+    },
+    {
+      "id": "92aff150",
+      "bank_id": "90349601",
+      "text": "Hakkında pek bir fikrim yok açıkçası."
+    },
+    {
+      "id": "92aff15b",
+      "bank_id": "90349601",
+      "text": "Hakkında pek bir fikrim yok açıkçası."
+    },
+    {
+      "id": "940162b7",
+      "bank_id": "90349601",
+      "text": "Dünyanın onun gibi daha çok Kahramana ihtiyacı var."
+    },
+    {
+      "id": "940162bc",
+      "bank_id": "90349601",
+      "text": "Ne kadar da hayat dolu, harika bir kadın!"
+    },
+    {
+      "id": "960a71a2",
+      "bank_id": "90349601",
+      "text": "Onunla tanışmaktan büyük memnuniyet duyardım."
+    },
+    {
+      "id": "960a71a9",
+      "bank_id": "90349601",
+      "text": "Onunla tanışmaktan büyük memnuniyet duyardım."
+    },
+    {
+      "id": "96ebaf57",
+      "bank_id": "90349601",
+      "text": "Bir Kahraman olabilir ama bizden biri o da."
+    },
+    {
+      "id": "96ebaf5c",
+      "bank_id": "90349601",
+      "text": "Bir Kahraman olabilir ama bizden biri o da."
+    },
+    {
+      "id": "9f5638a2",
+      "bank_id": "90349601",
+      "text": "Çok hoş bir insan olduğunu duydum."
+    },
+    {
+      "id": "9f5638a9",
+      "bank_id": "90349601",
+      "text": "Çok hoş bir insan olduğunu duydum."
+    },
+    {
+      "id": "a02a1383",
+      "bank_id": "90349601",
+      "text": "Orada durup bizi koruduğunu bilmek içimi rahatlatıyor."
+    },
+    {
+      "id": "a02a1388",
+      "bank_id": "90349601",
+      "text": "Orada durup bizi koruduğunu bilmek içimi rahatlatıyor."
+    },
+    {
+      "id": "a31e5975",
+      "bank_id": "90349601",
+      "text": "Hepimiz için gerçek bir örnek."
+    },
+    {
+      "id": "a31e597e",
+      "bank_id": "90349601",
+      "text": "Hepimiz için gerçek bir örnek."
+    },
+    {
+      "id": "a6a92144",
+      "bank_id": "90349601",
+      "text": "Bilmem ki, fena birine benzemiyor."
+    },
+    {
+      "id": "a6a9214f",
+      "bank_id": "90349601",
+      "text": "Bilmem ki, fena birine benzemiyor."
+    },
+    {
+      "id": "a84cfe83",
+      "bank_id": "90349601",
+      "text": "Ondan ne zaman kurtulacağız acaba?"
+    },
+    {
+      "id": "a84cfe88",
+      "bank_id": "90349601",
+      "text": "Ondan ne zaman kurtulacağız acaba?"
+    },
+    {
+      "id": "ac91c9a5",
+      "bank_id": "90349601",
+      "text": "Bence harika biri doğrusu."
+    },
+    {
+      "id": "ac91c9ae",
+      "bank_id": "90349601",
+      "text": "Bence harika biri doğrusu."
+    },
+    {
+      "id": "adbc8bd1",
+      "bank_id": "90349601",
+      "text": "Keşke birinin ondan kurtulacak kadar gücü olsaydı..."
+    },
+    {
+      "id": "adbc8bda",
+      "bank_id": "90349601",
+      "text": "Umarım geberir gider."
+    },
+    {
+      "id": "afad8ef7",
+      "bank_id": "90349601",
+      "text": "Onu kasabamızdan defetmek için bir şey yapamaz mıyız?"
+    },
+    {
+      "id": "afad8efc",
+      "bank_id": "90349601",
+      "text": "Birinde onun işini bitirecek yürek olmalı."
+    },
+    {
+      "id": "b30502a3",
+      "bank_id": "90349601",
+      "text": "Ne işi var onun burada? Cadı karı."
+    },
+    {
+      "id": "b30502a8",
+      "bank_id": "90349601",
+      "text": "Uyurken öldürürdüm onu. Yeterince çılgın olsaydım tabii."
+    },
+    {
+      "id": "b37407d5",
+      "bank_id": "90349601",
+      "text": "Ona zarar vermek için kendi ayağımı bile yerdim."
+    },
+    {
+      "id": "b37407de",
+      "bank_id": "90349601",
+      "text": "Ona zarar vermek için kendi ayağımı bile yerdim."
+    },
+    {
+      "id": "b5dd90a5",
+      "bank_id": "90349601",
+      "text": "Onunla daha yakından tanışmaktan büyük onur duyardım."
+    },
+    {
+      "id": "b5dd90ae",
+      "bank_id": "90349601",
+      "text": "Onunla daha yakından tanışmaktan büyük onur duyardım."
+    },
+    {
+      "id": "b6810792",
+      "bank_id": "90349601",
+      "text": "Koca bir saray gibi geniş bir yüreği var."
+    },
+    {
+      "id": "b6810799",
+      "bank_id": "90349601",
+      "text": "Koca bir saray gibi geniş bir yüreği var."
+    },
+    {
+      "id": "c26ee1d2",
+      "bank_id": "90349601",
+      "text": "Kesinlikle saygımızı hak ettiğine inanıyorum."
+    },
+    {
+      "id": "c26ee1d9",
+      "bank_id": "90349601",
+      "text": "Kesinlikle saygımızı hak ettiğine inanıyorum."
+    },
+    {
+      "id": "c7b8eb90",
+      "bank_id": "90349601",
+      "text": "İnsanın yanında olmasından huzur duyduğu türden biri işte."
+    },
+    {
+      "id": "c7b8eb9b",
+      "bank_id": "90349601",
+      "text": "İnsanın yanında olmasından huzur duyduğu türden biri işte."
+    },
+    {
+      "id": "c94f1d45",
+      "bank_id": "90349601",
+      "text": "Kendi kanında boğulmalı!"
+    },
+    {
+      "id": "c94f1d4e",
+      "bank_id": "90349601",
+      "text": "Kendi kanında boğulmalı!"
+    },
+    {
+      "id": "cb252945",
+      "bank_id": "90349601",
+      "text": "İyi birine benziyor."
+    },
+    {
+      "id": "cb25294e",
+      "bank_id": "90349601",
+      "text": "İyi birine benziyor."
+    },
+    {
+      "id": "cbbaa8d2",
+      "bank_id": "90349601",
+      "text": "Oldukça düzgün biri olduğu anlaşılıyor."
+    },
+    {
+      "id": "cbbaa8d9",
+      "bank_id": "90349601",
+      "text": "Oldukça düzgün biri olduğu anlaşılıyor."
+    },
+    {
+      "id": "cc9a8f76",
+      "bank_id": "90349601",
+      "text": "Buralarda olmasından hiç rahatsız değilim. Hiç hem de."
+    },
+    {
+      "id": "cc9a8f7d",
+      "bank_id": "90349601",
+      "text": "Tıpkı bizden biri gibi."
+    },
+    {
+      "id": "cd146be6",
+      "bank_id": "90349601",
+      "text": "Onun için her zaman vaktim vardır."
+    },
+    {
+      "id": "cd146bed",
+      "bank_id": "90349601",
+      "text": "Hoş bir adama benziyor bana kalırsa."
+    },
+    {
+      "id": "d104b290",
+      "bank_id": "90349601",
+      "text": "Oldukça dost canlısı biri."
+    },
+    {
+      "id": "d104b29b",
+      "bank_id": "90349601",
+      "text": "Oldukça dost canlısı biri."
+    },
+    {
+      "id": "d68463c6",
+      "bank_id": "90349601",
+      "text": "Bana kalsa istediği kadar buralarda takılabilir."
+    },
+    {
+      "id": "d68463cd",
+      "bank_id": "90349601",
+      "text": "Etrafta onun gibi adamlara daha çok ihtiyacımız var."
+    },
+    {
+      "id": "d7ca7ac1",
+      "bank_id": "90349601",
+      "text": "Aslında gerçekten çok hoş bir kadın."
+    },
+    {
+      "id": "d7ca7aca",
+      "bank_id": "90349601",
+      "text": "Onun gibi daha çok adam olmalı."
+    },
+    {
+      "id": "dd8e6d07",
+      "bank_id": "90349601",
+      "text": "İçimi bulandırıyor resmen."
+    },
+    {
+      "id": "dd8e6d0c",
+      "bank_id": "90349601",
+      "text": "Tam bir cadoloz."
+    },
+    {
+      "id": "ec317b44",
+      "bank_id": "90349601",
+      "text": "Yüreğini ortaya koymayacağı hiçbir iyilik yoktur."
+    },
+    {
+      "id": "ec317b4f",
+      "bank_id": "90349601",
+      "text": "Yüreğini ortaya koymayacağı hiçbir iyilik yoktur."
+    },
+    {
+      "id": "ef47d666",
+      "bank_id": "90349601",
+      "text": "Ondan kurtulmak için bir şey yapamaz mıyız?"
+    },
+    {
+      "id": "ef47d66d",
+      "bank_id": "90349601",
+      "text": "Kasabadan sürülmesi gerek."
+    },
+    {
+      "id": "f2b72694",
+      "bank_id": "90349601",
+      "text": "Onun kadar iyi kalpli az insan vardır."
+    },
+    {
+      "id": "f2b7269f",
+      "bank_id": "90349601",
+      "text": "Onun kadar iyi kalpli az insan vardır."
+    },
+    {
+      "id": "f5a172a4",
+      "bank_id": "90349601",
+      "text": "O gerçek bir hayırseverdir."
+    },
+    {
+      "id": "f5a172af",
+      "bank_id": "90349601",
+      "text": "O gerçek bir hayırseverdir."
+    },
+    {
+      "id": "f9fde541",
+      "bank_id": "90349601",
+      "text": "Tek kelimeyle iğrenç bir kadın!"
+    },
+    {
+      "id": "f9fde54a",
+      "bank_id": "90349601",
+      "text": "Eski günlerde olsa onu en yüksek kirişe asarlardı."
+    },
+    {
+      "id": "fa61c820",
+      "bank_id": "90349601",
+      "text": "Daha aşağılık bir adam görülmüş müdür acaba?"
+    },
+    {
+      "id": "fa61c82b",
+      "bank_id": "90349601",
+      "text": "Daha aşağılık bir kadın görülmüş müdür acaba?"
+    },
+    {
+      "id": "fd65e674",
+      "bank_id": "90349601",
+      "text": "Onun kadar iyi yürekli birini zor bulursunuz."
+    },
+    {
+      "id": "fd65e67f",
+      "bank_id": "90349601",
+      "text": "Onun kadar iyi yürekli birini zor bulursunuz."
+    },
+    {
+      "id": "fdc45da4",
+      "bank_id": "90349601",
+      "text": "Kendini hepimizden üstün sanıyor. Peh!"
+    },
+    {
+      "id": "fdc45daf",
+      "bank_id": "90349601",
+      "text": "Kendini hepimizden üstün sanıyor. Peh!"
+    }
+  ]
+}

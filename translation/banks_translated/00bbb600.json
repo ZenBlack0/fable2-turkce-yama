@@ -1,0 +1,656 @@
+{
+  "bank_id": "00bbb600",
+  "total_strings": 130,
+  "strings": [
+    {
+      "id": "00d00413",
+      "bank_id": "00bbb600",
+      "text": "Çelik Ay"
+    },
+    {
+      "id": "057c3603",
+      "bank_id": "00bbb600",
+      "text": "Pazar Yolu No: 4b, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "06b18bab",
+      "bank_id": "00bbb600",
+      "text": "Oakfield Yolu No: 4"
+    },
+    {
+      "id": "0e2691e6",
+      "bank_id": "00bbb600",
+      "text": "Fairfax Kalesi Yemek Odası"
+    },
+    {
+      "id": "142b8968",
+      "bank_id": "00bbb600",
+      "text": "Oakfield Yolu No: 3"
+    },
+    {
+      "id": "1521aca9",
+      "bank_id": "00bbb600",
+      "text": "Lapa Kulübesi"
+    },
+    {
+      "id": "16aeb4fc",
+      "bank_id": "00bbb600",
+      "text": "Sevdikleriniz ve yabancılar için hediyeler satar."
+    },
+    {
+      "id": "186245c9",
+      "bank_id": "00bbb600",
+      "text": "Oakfield Yolu No: 3, Oakfield"
+    },
+    {
+      "id": "1cf6e014",
+      "bank_id": "00bbb600",
+      "text": "Bower Gölü"
+    },
+    {
+      "id": "1e022e6d",
+      "bank_id": "00bbb600",
+      "text": "Yankı Madeni"
+    },
+    {
+      "id": "2232878b",
+      "bank_id": "00bbb600",
+      "text": "Buradaki faytonlar sizi gitmek istediğiniz her yere götürür."
+    },
+    {
+      "id": "290fd187",
+      "bank_id": "00bbb600",
+      "text": "Rookridge"
+    },
+    {
+      "id": "2c921cb7",
+      "bank_id": "00bbb600",
+      "text": "Efsanevi simyacı Leo Head tarafından inşa edilen kale, daha sonra nezaketi ve asaletiyle Bowerstone'a bir refah çağı getiren Fairfax ailesi tarafından satın alındı. Kalenin son sakini, birkaç yıl önce ortadan kaybolan bahtsız Lord Lucien Fairfax'tı."
+    },
+    {
+      "id": "2e26913f",
+      "bank_id": "00bbb600",
+      "text": "Wraithmarsh"
+    },
+    {
+      "id": "2e8af29f",
+      "bank_id": "00bbb600",
+      "text": "Archon'un Düğümü"
+    },
+    {
+      "id": "30141297",
+      "bank_id": "00bbb600",
+      "text": "Bu maden ilk olarak, jeolog kılığına girmiş bir adamın Albion'un en büyük altın yatağının Rookridge şelalesinin arkasında kazılmayı beklediğini iddia etmesi üzerine açıldı. Adamın bir sahtekâr olduğu ortaya çıktı ve hiç altın bulunamadı. O zamandan beri suyun bolluğu her türlü yaratığı buraya çekti."
+    },
+    {
+      "id": "30b83928",
+      "bank_id": "00bbb600",
+      "text": "Eski Şehir Simyacıları"
+    },
+    {
+      "id": "31706534",
+      "bank_id": "00bbb600",
+      "text": "Gölgeler Tapınağı'ndan atılan kurbanlık bedenlerin vardığı yer burasıdır. Albion yaratıkları arasında 'Yiyebildiğin Kadar Açık Büfe' olarak da bilinir."
+    },
+    {
+      "id": "328e91be",
+      "bank_id": "00bbb600",
+      "text": "Westcliff"
+    },
+    {
+      "id": "32c9f175",
+      "bank_id": "00bbb600",
+      "text": "Mezarlıktaki en eski mezar odası burasıdır. Çoktan unutulmuş pek çok insanın bedenini barındırır. Aynı adı taşıyan en son mezar bekçisinin büyükbabası Victor Shelley tarafından sahiplenilmiştir. İçeride garip deneyler yaptığı söylenir."
+    },
+    {
+      "id": "36c6a74e",
+      "bank_id": "00bbb600",
+      "text": "Eski Şehir Deposu"
+    },
+    {
+      "id": "3914a078",
+      "bank_id": "00bbb600",
+      "text": "Horoz Kulübesi"
+    },
+    {
+      "id": "3d658b47",
+      "bank_id": "00bbb600",
+      "text": "Bowerstone Mezarlığı"
+    },
+    {
+      "id": "3e6eb752",
+      "bank_id": "00bbb600",
+      "text": "Bir zamanların kudretli Kahramanlar Loncası'nın en yetenekli İrade kullanıcıları, gerçek dünyadan bir sığınak olarak bu cennet misali evi ve çevresini inşa etti. Jack of Blades'i alt eden kahraman da dahil olmak üzere pek çok büyük Kahramanın son yıllarını bu inzivagâhta geçirdiği söylenir."
+    },
+    {
+      "id": "3eadee47",
+      "bank_id": "00bbb600",
+      "text": "Fairfax Yeraltı Mezarları"
+    },
+    {
+      "id": "3f5b731e",
+      "bank_id": "00bbb600",
+      "text": "Lady Grey'in Mezarı"
+    },
+    {
+      "id": "414ea625",
+      "bank_id": "00bbb600",
+      "text": "Fairfax"
+    },
+    {
+      "id": "4186d03a",
+      "bank_id": "00bbb600",
+      "text": "Fairfax"
+    },
+    {
+      "id": "46e6a997",
+      "bank_id": "00bbb600",
+      "text": "Çukur"
+    },
+    {
+      "id": "4ab4d681",
+      "bank_id": "00bbb600",
+      "text": "Wraithmarsh"
+    },
+    {
+      "id": "4cfe7feb",
+      "bank_id": "00bbb600",
+      "text": "Fairfax Bahçeleri"
+    },
+    {
+      "id": "4f7d7300",
+      "bank_id": "00bbb600",
+      "text": "Eski Şehir Ivır Zıvır Tezgâhı"
+    },
+    {
+      "id": "4fa348af",
+      "bank_id": "00bbb600",
+      "text": "Işık Tapınağı'nın kurucusu Nurlu Albert ilk Altın Meşe'yi dikip Oakfield'e umut ve bereket getirdiğinde, bölge sakinleri minnettarlıkla bu evi ona verdiler. Günlerinin sonuna kadar burada yaşadı. Yakındaki yel değirmeni bu mülkün bir parçasıdır."
+    },
+    {
+      "id": "50ead7ef",
+      "bank_id": "00bbb600",
+      "text": "Kumkazı Sokağı No: 4, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "54f6d263",
+      "bank_id": "00bbb600",
+      "text": "Lonca Mağarası"
+    },
+    {
+      "id": "58c9af7e",
+      "bank_id": "00bbb600",
+      "text": "Oakfield Rıhtımı"
+    },
+    {
+      "id": "5d211ed3",
+      "bank_id": "00bbb600",
+      "text": "Kumkazı Sokağı No: 1, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "5fb38983",
+      "bank_id": "00bbb600",
+      "text": "Kumkazı Sokağı No: 1c, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "601e3ea8",
+      "bank_id": "00bbb600",
+      "text": "Eski Kalay Madeni"
+    },
+    {
+      "id": "60bd7656",
+      "bank_id": "00bbb600",
+      "text": "Bu geniş tünel ağı, yüzyıllar boyunca malları Bloodstone'a sokup çıkaran kaçakçılar tarafından kullanılmıştır."
+    },
+    {
+      "id": "611e6d2c",
+      "bank_id": "00bbb600",
+      "text": "Düğüm, Eski Krallık'ta maceracılara bir meydan okuma sunmak ve savaştan önce savaşçıların becerisini sınamak için inşa edilmişti. Buraya yolu düşen pek çok sivil tuzaklarında can vermiştir."
+    },
+    {
+      "id": "61caa9ce",
+      "bank_id": "00bbb600",
+      "text": "Nurlu Kulübe"
+    },
+    {
+      "id": "63959478",
+      "bank_id": "00bbb600",
+      "text": "Kahramanlar bir zamanlar zaferlerini kutlamak ve büyük önem taşıyan meseleleri tartışmak için burada toplanırdı. Lonca'dan geriye kalan tek şey burasıdır."
+    },
+    {
+      "id": "64b65f63",
+      "bank_id": "00bbb600",
+      "text": "Gölge Mahkemesi'nin kökeni, onu ilk çağıran adam olan Reaver dışındaki herkes için bir gizemdir. Tek bilinen, içinde yaşayan varlıkların bu dünyaya ait olmadığı ve kabul ettikleri dileklerin çok ağır bir bedeli olduğudur."
+    },
+    {
+      "id": "66c6d8eb",
+      "bank_id": "00bbb600",
+      "text": "Kader Odası"
+    },
+    {
+      "id": "676e361c",
+      "bank_id": "00bbb600",
+      "text": "Hobbe Mağarası"
+    },
+    {
+      "id": "6999a5be",
+      "bank_id": "00bbb600",
+      "text": "Tüm silah ihtiyaçlarınız için buraya gelin."
+    },
+    {
+      "id": "6a47d362",
+      "bank_id": "00bbb600",
+      "text": "Albion'un en eski hanlarından biridir; popülaritesi ve uzun ömrü, şelale suyu kullanılarak yapılan içeceklerinin olağanüstü tazeliğine dayanır."
+    },
+    {
+      "id": "6adf5ccd",
+      "bank_id": "00bbb600",
+      "text": "Kahramanken Haydut Kralı olan Twinblade öldüğünde, adamları liderlerinin layık bir ebedi istirahatgâha sahip olması için bu mağaradaki tüm yaratıkları öldürdüler."
+    },
+    {
+      "id": "6dba0b55",
+      "bank_id": "00bbb600",
+      "text": "Oakfield Yolu No: 2"
+    },
+    {
+      "id": "7216d397",
+      "bank_id": "00bbb600",
+      "text": "Gübre Konağı"
+    },
+    {
+      "id": "74051746",
+      "bank_id": "00bbb600",
+      "text": "Meyve Bahçesi Yolu No: 3, Oakfield"
+    },
+    {
+      "id": "749f0174",
+      "bank_id": "00bbb600",
+      "text": "Eski Şehir Genel Mağazası"
+    },
+    {
+      "id": "76846496",
+      "bank_id": "00bbb600",
+      "text": "Bowerstone Pazarı"
+    },
+    {
+      "id": "77327d72",
+      "bank_id": "00bbb600",
+      "text": "Bowerstone Mezarlığı"
+    },
+    {
+      "id": "7e015cc9",
+      "bank_id": "00bbb600",
+      "text": "Rookridge Yolu No: 1, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "81096962",
+      "bank_id": "00bbb600",
+      "text": "Brightwood"
+    },
+    {
+      "id": "819b37d1",
+      "bank_id": "00bbb600",
+      "text": "Eski Şehir Silahları"
+    },
+    {
+      "id": "86105164",
+      "bank_id": "00bbb600",
+      "text": "Yalnızca tuhaf mektuplar ve gizemli yazılarla dolu parşömenler buluyorsunuz..."
+    },
+    {
+      "id": "87052900",
+      "bank_id": "00bbb600",
+      "text": "Pazar Yolu No: 1c, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "870efddc",
+      "bank_id": "00bbb600",
+      "text": "Shelley Mahzeni"
+    },
+    {
+      "id": "876aad82",
+      "bank_id": "00bbb600",
+      "text": "Rookridge Tapınak Harabeleri"
+    },
+    {
+      "id": "8871fd9a",
+      "bank_id": "00bbb600",
+      "text": "Oakfield Fayton Evi"
+    },
+    {
+      "id": "8a154a5f",
+      "bank_id": "00bbb600",
+      "text": "Dönemin Bowerstone belediye başkanı olan Lady Grey, bir gün buraya gömülme umuduyla bu mezara kendi adını verdi. Kendisini bekleyen kaderi pek az tahmin edebilirdi: Cadılıkla suçlanarak parçalandı ve bedeninin parçaları Albion'un dört bir yanına saçıldı."
+    },
+    {
+      "id": "8a2c3350",
+      "bank_id": "00bbb600",
+      "text": "Eski Şehir Yemek Tezgâhı"
+    },
+    {
+      "id": "8ee7f0b5",
+      "bank_id": "00bbb600",
+      "text": "Rookridge İblis Kapısı"
+    },
+    {
+      "id": "8fca5d33",
+      "bank_id": "00bbb600",
+      "text": "Westcliff"
+    },
+    {
+      "id": "937bc2f2",
+      "bank_id": "00bbb600",
+      "text": "Burası Nurlu Albert'in aydınlanma yaşayıp Işığa olan inancını keşfettiği mağaraydı. İçindeki suların hayat veren özelliklerine rağmen, bu mağaraların çok daha karanlık bir tarafı vardır."
+    },
+    {
+      "id": "93c37b14",
+      "bank_id": "00bbb600",
+      "text": "Bowerstone Eski Şehir Gözetleme Noktası"
+    },
+    {
+      "id": "96968299",
+      "bank_id": "00bbb600",
+      "text": "Kimileri sokak tezgâhlarından alabileceğiniz yemekten daha iyisi olmadığını söyler."
+    },
+    {
+      "id": "9a411348",
+      "bank_id": "00bbb600",
+      "text": "Burada usta çapkın ve kadın avcısı Gavin Pout yaşardı. Sert yakışıklılığı ve çekici kişiliği, onu sonunda bir gece yatağından sürükleyip çıkaran, kafasına bir çuval geçiren ve onu Rookridge geçidinden aşağı atan Oakfield'deki diğer tüm erkeklerin kıskançlık hedefi yaptı."
+    },
+    {
+      "id": "9a9f2880",
+      "bank_id": "00bbb600",
+      "text": "Eski Şehir Kıyafet Tezgâhı"
+    },
+    {
+      "id": "9b09e29a",
+      "bank_id": "00bbb600",
+      "text": "İnsan Müzesi"
+    },
+    {
+      "id": "9e63f91d",
+      "bank_id": "00bbb600",
+      "text": "Kahramanlar Mezarı"
+    },
+    {
+      "id": "a04765bc",
+      "bank_id": "00bbb600",
+      "text": "Rookridge"
+    },
+    {
+      "id": "a0b83840",
+      "bank_id": "00bbb600",
+      "text": "Balverine'lerin bu mağaralara neden bu kadar çekildiğini kimse bilmez ama içgüdüsel olarak buraya kapıldıklarına şüphe yoktur. Bazıları balverine'lerin Albion'da ilk kez burada ortaya çıktığını söyler."
+    },
+    {
+      "id": "a4afd4cf",
+      "bank_id": "00bbb600",
+      "text": "Eski Şehir Hediye Tezgâhı"
+    },
+    {
+      "id": "a61500a1",
+      "bank_id": "00bbb600",
+      "text": "Fairfax Kalesi Kütüphanesi"
+    },
+    {
+      "id": "a6e8bfb5",
+      "bank_id": "00bbb600",
+      "text": "Gölgeler Tarikatı'nın kurucularının, Eski Krallık katedralinin bulunduğu alana tapınaklarını inşa etmek için gereken malzemeleri bu madenden çıkardıkları söylenir. Şimdilerde hobbe'lerin gözde mekânı olarak daha iyi bilinir."
+    },
+    {
+      "id": "a72579db",
+      "bank_id": "00bbb600",
+      "text": "Pazar Yolu No: 1b, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "a83c3fc3",
+      "bank_id": "00bbb600",
+      "text": "Yüzyıllar önce su çekmek için kullanılmış olabilir ama o zamandan beri karanlık yaratıklara, kaçak mallara ve firari mahkûmlara ev sahipliği yapmış, hepsi bu ufacık yerde kendilerine bir yuva kurmuştur."
+    },
+    {
+      "id": "a926bd63",
+      "bank_id": "00bbb600",
+      "text": "Uluyan Salonlar"
+    },
+    {
+      "id": "a934ebe4",
+      "bank_id": "00bbb600",
+      "text": "Oakfield"
+    },
+    {
+      "id": "b1059675",
+      "bank_id": "00bbb600",
+      "text": "Uğurlu Funda"
+    },
+    {
+      "id": "b764beb7",
+      "bank_id": "00bbb600",
+      "text": "Rookridge Gözetleme Noktası"
+    },
+    {
+      "id": "b782b6a3",
+      "bank_id": "00bbb600",
+      "text": "Fairfax Kalesi Taht Odası"
+    },
+    {
+      "id": "bbd7781d",
+      "bank_id": "00bbb600",
+      "text": "Rookridge Tapınak Köprüsü"
+    },
+    {
+      "id": "be377b81",
+      "bank_id": "00bbb600",
+      "text": "Çile inşa edilmeden çok önce, bu madenler sahile yanaşan teknelerle gelen kaçak malları kaçırmak için kullanılıyordu. Günümüzde ise Çile turlarını dolduran daha egzotik yaratıkları getirmek için kullanılıyor."
+    },
+    {
+      "id": "c17acb01",
+      "bank_id": "00bbb600",
+      "text": "İksir arıyorsanız gidilecek yer burasıdır."
+    },
+    {
+      "id": "c206ac44",
+      "bank_id": "00bbb600",
+      "text": "Bu yeraltı mezarları, kalenin ilk sahibi ünlü simyacı Leo Head tarafından inşa edildiklerinden beri el değmeden kalmıştır. En gizli deneylerini burada yürütmüştü."
+    },
+    {
+      "id": "c37f50c5",
+      "bank_id": "00bbb600",
+      "text": "Huzur Çiftliği"
+    },
+    {
+      "id": "c3b18cd0",
+      "bank_id": "00bbb600",
+      "text": "Yardım Eli"
+    },
+    {
+      "id": "c47b386f",
+      "bank_id": "00bbb600",
+      "text": "Kiler"
+    },
+    {
+      "id": "c4ce5999",
+      "bank_id": "00bbb600",
+      "text": "Reaver'ın Arka Geçidi"
+    },
+    {
+      "id": "c4f13b84",
+      "bank_id": "00bbb600",
+      "text": "Twinblade'in Mezarı"
+    },
+    {
+      "id": "c5629d29",
+      "bank_id": "00bbb600",
+      "text": "Buradaki giysiler pek gösterişli olmayabilir ama çıplaklığa kesin çaredir."
+    },
+    {
+      "id": "c57c2f19",
+      "bank_id": "00bbb600",
+      "text": "Burada yetimler, evsizler ve diğer muhtaçlar için bir hayır kurumu kuran yaşlı Gladys ve Moira kardeşler yaşardı. Ne yazık ki bu hayır kurumu ölümleriyle birlikte yok oldu ama onların iyilik dolu ruhu hâlâ bu eve sinmiştir."
+    },
+    {
+      "id": "c6cdcfd5",
+      "bank_id": "00bbb600",
+      "text": "Kumkazı Sokağı No: 2, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "c79ec510",
+      "bank_id": "00bbb600",
+      "text": "Bu evin inşası sırasında ustalar, olağanüstü sağlamlığıyla zırh yapımında ideal olan çok nadir bir metal yatağı buldular."
+    },
+    {
+      "id": "c912ca12",
+      "bank_id": "00bbb600",
+      "text": "Pazar Yolu No: 4a, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "cadedca9",
+      "bank_id": "00bbb600",
+      "text": "Bu tezgâhın stoklarında ne olduğunu asla bilemezsiniz."
+    },
+    {
+      "id": "cd63e12f",
+      "bank_id": "00bbb600",
+      "text": "Her türlü kutuyu depolamak için kullanılır."
+    },
+    {
+      "id": "cda7d60a",
+      "bank_id": "00bbb600",
+      "text": "Rookridge"
+    },
+    {
+      "id": "cf68f68b",
+      "bank_id": "00bbb600",
+      "text": "Bowerstone'daki tek dövmeci. Derinize resim kazımak için kullanılan aletler sadece birazcık paslıdır. Haydi içeri girin ve her zaman istediğiniz o dövmeyi yaptırın!"
+    },
+    {
+      "id": "d0e1965b",
+      "bank_id": "00bbb600",
+      "text": "Westcliff"
+    },
+    {
+      "id": "d33ba806",
+      "bank_id": "00bbb600",
+      "text": "Fairfax Kalesi"
+    },
+    {
+      "id": "d78ce69d",
+      "bank_id": "00bbb600",
+      "text": "Rookridge"
+    },
+    {
+      "id": "d8c66334",
+      "bank_id": "00bbb600",
+      "text": "Bu evi inşa eden çiftçi, yerden havuç sökmedeki olağanüstü hızıyla bilinirdi. Bir gün fazla sert çekti ve gözüne bir havuç girdi. Yakındaki değirmen bu mülkün bir parçasıdır."
+    },
+    {
+      "id": "da0550d8",
+      "bank_id": "00bbb600",
+      "text": "Bloodstone"
+    },
+    {
+      "id": "dbb8112e",
+      "bank_id": "00bbb600",
+      "text": "Muşta"
+    },
+    {
+      "id": "dc7b6653",
+      "bank_id": "00bbb600",
+      "text": "Kumkazı Sokağı No: 1b, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "dc9e660d",
+      "bank_id": "00bbb600",
+      "text": "Ölüler Salonu"
+    },
+    {
+      "id": "dd89412b",
+      "bank_id": "00bbb600",
+      "text": "Oakfield"
+    },
+    {
+      "id": "ddfa5aa6",
+      "bank_id": "00bbb600",
+      "text": "Pınar"
+    },
+    {
+      "id": "de22240a",
+      "bank_id": "00bbb600",
+      "text": "Oakfield Yolu No: 1"
+    },
+    {
+      "id": "df9b0eaa",
+      "bank_id": "00bbb600",
+      "text": "Işık Tapınağı'nın inşasından kısa bir süre sonra terk edilen bu maden, o zamandan beri her türlü yaratığın uğrak yeri oldu. Son zamanlarda neredeyse birinin eviymiş gibi daha medeni görünmeye başladı."
+    },
+    {
+      "id": "e19abecc",
+      "bank_id": "00bbb600",
+      "text": "Oakfield İblis Kapısı"
+    },
+    {
+      "id": "e35caac6",
+      "bank_id": "00bbb600",
+      "text": "Porridge kardeşler, toprağı kolayca sürmelerini ve ürünlerini faytonlara ihtiyaç duymadan diyar boyunca taşımalarını sağlayan inanılmaz güçleriyle tanınırlardı."
+    },
+    {
+      "id": "e73e2a62",
+      "bank_id": "00bbb600",
+      "text": "Gölge Mahkemesi"
+    },
+    {
+      "id": "ee56ff7a",
+      "bank_id": "00bbb600",
+      "text": "Çok uzun zaman önce, Kahramanlar Albion'un kalbine hâlâ sevgi, saygı ve korku salarken, birçoğu bu yeraltı mezarına defnedilmişti."
+    },
+    {
+      "id": "f04e3a9d",
+      "bank_id": "00bbb600",
+      "text": "Eski Şehir'deki hiçbir dükkân bu kadar geniş bir seçkiye sahip değildir."
+    },
+    {
+      "id": "f0c5ae39",
+      "bank_id": "00bbb600",
+      "text": "Rookridge"
+    },
+    {
+      "id": "f0e490c7",
+      "bank_id": "00bbb600",
+      "text": "Fairfax Arkeolojik Alanı"
+    },
+    {
+      "id": "f16e2aa5",
+      "bank_id": "00bbb600",
+      "text": "Fairfax Bahçeleri"
+    },
+    {
+      "id": "f214fe6e",
+      "bank_id": "00bbb600",
+      "text": "Pazar Yolu No: 2, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "f5f0060d",
+      "bank_id": "00bbb600",
+      "text": "Rookridge Taş Çemberi"
+    },
+    {
+      "id": "f9f1b931",
+      "bank_id": "00bbb600",
+      "text": "Fairfax İblis Kapısı"
+    },
+    {
+      "id": "fa8bfa56",
+      "bank_id": "00bbb600",
+      "text": "Bower Gölü"
+    },
+    {
+      "id": "fc25c13d",
+      "bank_id": "00bbb600",
+      "text": "Fairfax Bahçeleri"
+    },
+    {
+      "id": "fcba3871",
+      "bank_id": "00bbb600",
+      "text": "Tavukların küçük kafeslere hapsedilmeme hakkından yararlanması, bu evde yaşamış olan Molly Springwater'ın çabaları sayesindedir. Kendisi ayrıca Megafowl romanının yayımlanmasının ardından başlayan tavuk karşıtı histeri sırasında onların korunması için yoğun kampanyalar yürütmüştür."
+    }
+  ]
+}

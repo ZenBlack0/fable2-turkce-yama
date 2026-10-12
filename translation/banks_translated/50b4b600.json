@@ -1,0 +1,861 @@
+{
+  "bank_id": "50b4b600",
+  "total_strings": 171,
+  "strings": [
+    {
+      "id": "087288ce",
+      "bank_id": "50b4b600",
+      "text": "Önce Garth'a ulaşmalısın. Acele et!"
+    },
+    {
+      "id": "0b916393",
+      "bank_id": "50b4b600",
+      "text": "Yolun artık Brightwood Kulesi'ne çıkıyor. Büyücü seni orada bekliyor."
+    },
+    {
+      "id": "0c916506",
+      "bank_id": "50b4b600",
+      "text": "Şimdi dostumuza gördüğün vizyonunu anlat."
+    },
+    {
+      "id": "0d9166f9",
+      "bank_id": "50b4b600",
+      "text": "Garth'ı Brightwood Kulesi'nde bulacaksın. Onu orada kadim bir teknoloji üzerinde çalışırken gösteren bir görü gördüm."
+    },
+    {
+      "id": "0e91686c",
+      "bank_id": "50b4b600",
+      "text": "Şimdi git."
+    },
+    {
+      "id": "0ed294b2",
+      "bank_id": "50b4b600",
+      "text": "Babam inancının kendisini dünyadan koruyacağını sanıyordu."
+    },
+    {
+      "id": "0f9169df",
+      "bank_id": "50b4b600",
+      "text": "Pekâlâ. Ama aksiyon başladığında beni geride tutabileceğini sanma."
+    },
+    {
+      "id": "0f93a8b6",
+      "bank_id": "50b4b600",
+      "text": "Şüphesiz Lucien'i durdurmak niyetindedir, ancak yardım olmadan bunu yapamaz. Git ve niyetimizi ona bildir."
+    },
+    {
+      "id": "0fd29625",
+      "bank_id": "50b4b600",
+      "text": "Şey, sadece bunu söylemek istemiştim."
+    },
+    {
+      "id": "10916bb2",
+      "bank_id": "50b4b600",
+      "text": "Lucien hâlâ Kahramanları ararken senin için en güvenli yer burası."
+    },
+    {
+      "id": "1093aa29",
+      "bank_id": "50b4b600",
+      "text": "Hammer, sen burada kalmalısın."
+    },
+    {
+      "id": "10d29798",
+      "bank_id": "50b4b600",
+      "text": "Aileni kaybetmenin nasıl bir şey olduğunu bileceğini sanırdım."
+    },
+    {
+      "id": "11916d25",
+      "bank_id": "50b4b600",
+      "text": "Neden? Ben hazırım."
+    },
+    {
+      "id": "11d2990b",
+      "bank_id": "50b4b600",
+      "text": "Sorun değil. Şimdilik sadece önümüzdeki göreve odaklanalım, olur mu?"
+    },
+    {
+      "id": "12d29afe",
+      "bank_id": "50b4b600",
+      "text": "Sadece canım sıkkındı."
+    },
+    {
+      "id": "14d29dc4",
+      "bank_id": "50b4b600",
+      "text": "Babamın ölümü senin suçun değildi."
+    },
+    {
+      "id": "1593b1c8",
+      "bank_id": "50b4b600",
+      "text": "Bu ismi hatırlıyor musun? Lucien'in Rose'u öldürdüğü gece o da oradaydı."
+    },
+    {
+      "id": "15d29fb7",
+      "bank_id": "50b4b600",
+      "text": "Bak, söylediklerim için özür dilerim."
+    },
+    {
+      "id": "1693b3bb",
+      "bank_id": "50b4b600",
+      "text": "Bunu bana söylememiştin! Ona nasıl güveneceğiz ki?"
+    },
+    {
+      "id": "16d2a12a",
+      "bank_id": "50b4b600",
+      "text": "Geldin demek."
+    },
+    {
+      "id": "1793b52e",
+      "bank_id": "50b4b600",
+      "text": "Aynı hatayı bir daha yapmayacağım."
+    },
+    {
+      "id": "1893b681",
+      "bank_id": "50b4b600",
+      "text": "Kahramanlarımızın ikincisi olan Büyücünün Brightwood'da olduğuna inanıyorum. Orada Garth adında güçlü bir İrade kullanıcısı var."
+    },
+    {
+      "id": "1993b874",
+      "bank_id": "50b4b600",
+      "text": "Her biri diğeri hakkındaki gerçeği öğrendiğinde ortaklıkları sona erdi. Hem de şiddetle."
+    },
+    {
+      "id": "1a93b9e7",
+      "bank_id": "50b4b600",
+      "text": "Ve düşmanımızın düşmanı dostumuzdur, öyle mi?"
+    },
+    {
+      "id": "1b93bb5a",
+      "bank_id": "50b4b600",
+      "text": "Garth, Lucien'in Eski Krallık'a olan ilgisinin tıpkı kendisininki gibi tamamen akademik olduğuna inanıyordu."
+    },
+    {
+      "id": "1bd64940",
+      "bank_id": "50b4b600",
+      "text": "Gölgeler öne çıkın!"
+    },
+    {
+      "id": "1c93bccd",
+      "bank_id": "50b4b600",
+      "text": "Ve Lucien de kendi payına, Garth'ın sadece parlak bir bilgin olduğunu düşünüyordu."
+    },
+    {
+      "id": "1cd16fb0",
+      "bank_id": "50b4b600",
+      "text": "Hmpf. Görünüşe göre yine tek başınasın."
+    },
+    {
+      "id": "1cd64b30",
+      "bank_id": "50b4b600",
+      "text": "Siz Garth'ı yakalayın!"
+    },
+    {
+      "id": "1cd64b34",
+      "bank_id": "50b4b600",
+      "text": "Bunu biz alıyoruz!"
+    },
+    {
+      "id": "1dd64ca6",
+      "bank_id": "50b4b600",
+      "text": "Lucien'e hizmet ediyorsun!"
+    },
+    {
+      "id": "1ed17296",
+      "bank_id": "50b4b600",
+      "text": "Bu tamamen senin, ama gördüğümde Lucien'in suratının ortasına patlatmama engel olmaya kalkışmasa iyi eder."
+    },
+    {
+      "id": "1ed64e19",
+      "bank_id": "50b4b600",
+      "text": "Gelin bakalım öyleyse, hepinizi öldüreceğim!"
+    },
+    {
+      "id": "1fd17409",
+      "bank_id": "50b4b600",
+      "text": "Sanırım burada kalmam gerekiyor. Ben de şurada öylece durup patavatsız ve kaba olmaya devam ederim artık."
+    },
+    {
+      "id": "201d72d8",
+      "bank_id": "50b4b600",
+      "text": "Lucien'in günlüğü sürükleyici bir okumadır, temin ederim. Özel bir koleksiyoncunun aynı derecede özel evinde ona güzel bir yer ayıracağından eminim."
+    },
+    {
+      "id": "20d6517f",
+      "bank_id": "50b4b600",
+      "text": "Bir Kıymık mı? İmkânsız!"
+    },
+    {
+      "id": "211d744b",
+      "bank_id": "50b4b600",
+      "text": "Bir teklifin yoksa beni viskimle baş başa bırakmanı öneririm."
+    },
+    {
+      "id": "21d652d2",
+      "bank_id": "50b4b600",
+      "text": "Çabuk ol Kahraman! Lucien'in adamları benim için geliyor!"
+    },
+    {
+      "id": "21eb0644",
+      "bank_id": "50b4b600",
+      "text": "Lonca'ya gidin."
+    },
+    {
+      "id": "221d763e",
+      "bank_id": "50b4b600",
+      "text": "Ve işte yazılı olan bir başka şey: fiyatım. Başka kimsenin görmesine izin verme!"
+    },
+    {
+      "id": "22d65445",
+      "bank_id": "50b4b600",
+      "text": "Bana yardım et yoksa ikimiz de mahvoluruz!"
+    },
+    {
+      "id": "231d7791",
+      "bank_id": "50b4b600",
+      "text": "Son teklifim bu. İster al, ister bırak."
+    },
+    {
+      "id": "241d7904",
+      "bank_id": "50b4b600",
+      "text": "Lucien'in tüm o kirli küçük sırlarını öğrenmek isteyen ne çok insan var."
+    },
+    {
+      "id": "251d7af7",
+      "bank_id": "50b4b600",
+      "text": "Bilmek istediğin her şey yazılı durumda ve nerede olduğunu biliyorum."
+    },
+    {
+      "id": "271d7ddd",
+      "bank_id": "50b4b600",
+      "text": "Seni görüyorum! Vay vay vay. Başka bir teklif mi? Vah vah! Ne kadar da meraklı zihinler var!"
+    },
+    {
+      "id": "2a75e7d4",
+      "bank_id": "50b4b600",
+      "text": "Lucien'in günlüğünü ele geçirin."
+    },
+    {
+      "id": "2b94e984",
+      "bank_id": "50b4b600",
+      "text": "Dikkatli ol. Görünüşe göre Garth ziyaretçileri pek sevmiyor."
+    },
+    {
+      "id": "2c089c68",
+      "bank_id": "50b4b600",
+      "text": "Yağmacı olmadığın anlaşılıyor. Seni kulemde bekleyeceğim. Kahraman."
+    },
+    {
+      "id": "2c1af5e0",
+      "bank_id": "50b4b600",
+      "text": "Kapa çeneni."
+    },
+    {
+      "id": "2c1af5e5",
+      "bank_id": "50b4b600",
+      "text": "Lucien mi?"
+    },
+    {
+      "id": "2c54a92a",
+      "bank_id": "50b4b600",
+      "text": "Bowerstone'da bir indirim olduğunu sanıyorum. Ziyaret etmeye değer olabilir."
+    },
+    {
+      "id": "2d1af753",
+      "bank_id": "50b4b600",
+      "text": "Benimle geliyorsun."
+    },
+    {
+      "id": "2e1af8c6",
+      "bank_id": "50b4b600",
+      "text": "Baba, neler oluyor?"
+    },
+    {
+      "id": "2e694830",
+      "bank_id": "50b4b600",
+      "text": "İrade Kahramanı: Brightwood Kulesi"
+    },
+    {
+      "id": "301afc2c",
+      "bank_id": "50b4b600",
+      "text": "Aradığımız kişi o mu?"
+    },
+    {
+      "id": "311afd9f",
+      "bank_id": "50b4b600",
+      "text": "O benim kızım. O bir keşiş, kahraman değil."
+    },
+    {
+      "id": "31b11308",
+      "bank_id": "50b4b600",
+      "text": "Brightwood'a doğru yola çıksan iyi edersin. Ama beni burada çok uzun süre bırakma."
+    },
+    {
+      "id": "32b114fb",
+      "bank_id": "50b4b600",
+      "text": "Belki de gelmemem daha hayırlı oldu. Bu Garth denen herife güvenebileceğimden pek emin değilim."
+    },
+    {
+      "id": "331b00e5",
+      "bank_id": "50b4b600",
+      "text": "Kımıldama."
+    },
+    {
+      "id": "33b1166e",
+      "bank_id": "50b4b600",
+      "text": "Demek sen dünyayı gezerken ben burada Bayan Gülmece Fıçısı ile kalıyorum. Harika."
+    },
+    {
+      "id": "34d14b30",
+      "bank_id": "50b4b600",
+      "text": "Burası senin \"alınmaca yok\" dediğin kısım oluyor."
+    },
+    {
+      "id": "35d14ca3",
+      "bank_id": "50b4b600",
+      "text": "Boşa harcayacak zaman yok. Şimdi git."
+    },
+    {
+      "id": "36d14e16",
+      "bank_id": "50b4b600",
+      "text": "Bowerstone'daki İnek ve Korse'ye gidin ve Jeeves ile konuşun."
+    },
+    {
+      "id": "3721c54b",
+      "bank_id": "50b4b600",
+      "text": "Biri... Ya da bir şey... Senin tarafına doğru geliyor. Asla böyle bir şey hissetmemiştim."
+    },
+    {
+      "id": "37d14f89",
+      "bank_id": "50b4b600",
+      "text": "Belki. Ama ellerinde kan yok. Lucien'in eylemleri yüzünden onu suçlama."
+    },
+    {
+      "id": "3a1b0bea",
+      "bank_id": "50b4b600",
+      "text": "Ne münasebet. Ben seni ortadan ikiye ayırmadan önce onu bırak hemen!"
+    },
+    {
+      "id": "3b1b0d5d",
+      "bank_id": "50b4b600",
+      "text": "Hannah! Yeminlerin."
+    },
+    {
+      "id": "3f1c60a0",
+      "bank_id": "50b4b600",
+      "text": "O Lucien'in Komutanıydı. Ve görünüşe göre artık büyük güçte bir Eski Krallık silahı olan bir Kıymığı kontrol ediyor."
+    },
+    {
+      "id": "3fd2ac6d",
+      "bank_id": "50b4b600",
+      "text": "Hazır olduğunda Lonca'ya geri dön."
+    },
+    {
+      "id": "401c6213",
+      "bank_id": "50b4b600",
+      "text": "Lucien'in gücü her geçen an daha da heybetli hale geliyor, tıpkı Kule ve onun korkunç mekânizması üzerindeki hâkimiyeti gibi. Lonca'ya geri dön."
+    },
+    {
+      "id": "421c6579",
+      "bank_id": "50b4b600",
+      "text": "Yapabileceğin hiçbir şey yoktu."
+    },
+    {
+      "id": "440e5637",
+      "bank_id": "50b4b600",
+      "text": "Siz Garth'ı yakalayın!"
+    },
+    {
+      "id": "450e57aa",
+      "bank_id": "50b4b600",
+      "text": "Bunu biz alıyoruz!"
+    },
+    {
+      "id": "46a46900",
+      "bank_id": "50b4b600",
+      "text": "Görünüşe göre yardımıma ihtiyacın varmış. Gelmem gerektiğini biliyordum."
+    },
+    {
+      "id": "48a46c66",
+      "bank_id": "50b4b600",
+      "text": "\"Orası\" dediğin Kule mı? O şeyin içinde ne olduğunu bile bilmiyoruz, oraya nasıl gidileceğini ise hiç."
+    },
+    {
+      "id": "49a46dd9",
+      "bank_id": "50b4b600",
+      "text": "Lucien'in Garth'ı alıkoymasına izin veremeyiz. Onu oradan çıkarmalısın."
+    },
+    {
+      "id": "4aa46f4c",
+      "bank_id": "50b4b600",
+      "text": "Lucien Kule'ye gitmek üzere ayrıldığında, personelini resmen terk etti. Eski uşağı Jeeves şimdi günlerini İnek ve Korse'de geçiriyor."
+    },
+    {
+      "id": "4ba4713f",
+      "bank_id": "50b4b600",
+      "text": "Bilebilecek biri var."
+    },
+    {
+      "id": "4ca47292",
+      "bank_id": "50b4b600",
+      "text": "Eğer bu meyhaneye bir gezi anlamına geliyorsa, bu fedakârlığı seve seve yaparız."
+    },
+    {
+      "id": "4da47405",
+      "bank_id": "50b4b600",
+      "text": "Uşağı mı? Bahse girerim bir sürü kirli işe şahit olmuştur."
+    },
+    {
+      "id": "4dd742a8",
+      "bank_id": "50b4b600",
+      "text": "Paran var mı?"
+    },
+    {
+      "id": "4ea475f8",
+      "bank_id": "50b4b600",
+      "text": "Neden bana öyle bakıyorsun?"
+    },
+    {
+      "id": "4fa4776b",
+      "bank_id": "50b4b600",
+      "text": "Bu görev nezaket ve incelik gerektiriyor, senin pek aşina olmadığını düşündüğüm şeyler yani Hammer."
+    },
+    {
+      "id": "4fd7458e",
+      "bank_id": "50b4b600",
+      "text": "Altının var mı yok mu?"
+    },
+    {
+      "id": "50d74761",
+      "bank_id": "50b4b600",
+      "text": "Hadi ama, bütün günüm yok."
+    },
+    {
+      "id": "51a3bbab",
+      "bank_id": "50b4b600",
+      "text": "Belki de donanımını geliştirmek için iyi bir zamandır."
+    },
+    {
+      "id": "578266dc",
+      "bank_id": "50b4b600",
+      "text": "Hayır!"
+    },
+    {
+      "id": "585cfbb5",
+      "bank_id": "50b4b600",
+      "text": "Artık yeterince altınınız var. Lucien'in günlüğünü almak için Jeeves'e dönün."
+    },
+    {
+      "id": "5a826b95",
+      "bank_id": "50b4b600",
+      "text": "Dur orada!"
+    },
+    {
+      "id": "5ec21020",
+      "bank_id": "50b4b600",
+      "text": "<squeak>"
+    },
+    {
+      "id": "70c957bb",
+      "bank_id": "50b4b600",
+      "text": "Sen bir ucubesin-- Lucien'in başarısız bir deneyinden başka hiçbir şey değilsin!"
+    },
+    {
+      "id": "71c9592e",
+      "bank_id": "50b4b600",
+      "text": "Senden korktuğumu mu sanıyorsun?"
+    },
+    {
+      "id": "74c95de7",
+      "bank_id": "50b4b600",
+      "text": "Benimle geliyorsun."
+    },
+    {
+      "id": "75be79e9",
+      "bank_id": "50b4b600",
+      "text": "Bin Parça Altun ve Bir Penicik Dahi Eksik Olmaz!"
+    },
+    {
+      "id": "75c95f5a",
+      "bank_id": "50b4b600",
+      "text": "Çok erken ayrıldın Garth. Lord Lucien'in deneyi kökten bir başarıya ulaştı."
+    },
+    {
+      "id": "76bd3271",
+      "bank_id": "50b4b600",
+      "text": "Hammer'ın kederini atlatması biraz zaman alacaktır."
+    },
+    {
+      "id": "7c3cafa5",
+      "bank_id": "50b4b600",
+      "text": "Kule daha önce de çöktü ve yine çökecek, tıpkı senin gibi."
+    },
+    {
+      "id": "7d3cb118",
+      "bank_id": "50b4b600",
+      "text": "Senin İraden Kule'nin gücü karşısında duramaz."
+    },
+    {
+      "id": "7d8cbd14",
+      "bank_id": "50b4b600",
+      "text": "Garth eskiden Lucien için çalışırdı."
+    },
+    {
+      "id": "7e3cb28b",
+      "bank_id": "50b4b600",
+      "text": "Kölelerin bir gözetmeni olmalıdır."
+    },
+    {
+      "id": "7f3cb47e",
+      "bank_id": "50b4b600",
+      "text": "Lucien senden başlayarak tüm dünyayı köleleştirecek."
+    },
+    {
+      "id": "803cb5d1",
+      "bank_id": "50b4b600",
+      "text": "Ölümünü arayan aciz bir canavar görüyorum!"
+    },
+    {
+      "id": "80e6acd7",
+      "bank_id": "50b4b600",
+      "text": "Arkadan saldırıya uğruyoruz!"
+    },
+    {
+      "id": "813cb744",
+      "bank_id": "50b4b600",
+      "text": "Kazanamayacağını ancak şimdi anlıyorsun."
+    },
+    {
+      "id": "81e6ae4a",
+      "bank_id": "50b4b600",
+      "text": "Arkayı koruyun!"
+    },
+    {
+      "id": "82e6b03d",
+      "bank_id": "50b4b600",
+      "text": "Kımıldayan her şeyi öldürün!"
+    },
+    {
+      "id": "8381d37d",
+      "bank_id": "50b4b600",
+      "text": "Oldukça makul biri gibi görünüyor. Umalım da bize yardım etmeyi kabul etsin."
+    },
+    {
+      "id": "86e298ee",
+      "bank_id": "50b4b600",
+      "text": "Üç Kahramanın ilkini topladın. Ve Lucien'in planlarını alt etmeye bir adım daha yaklaştık."
+    },
+    {
+      "id": "873ff413",
+      "bank_id": "50b4b600",
+      "text": "Haritan arayışında sana yol gösterecektir."
+    },
+    {
+      "id": "89a85ad6",
+      "bank_id": "50b4b600",
+      "text": "Davetsiz misafirler!"
+    },
+    {
+      "id": "8a3ff8ec",
+      "bank_id": "50b4b600",
+      "text": "Görünüşe göre Lucien'in uşağı açgözlülüğe kapılmış."
+    },
+    {
+      "id": "8aa85c49",
+      "bank_id": "50b4b600",
+      "text": "Davetsiz misafirler!"
+    },
+    {
+      "id": "8ba85e3c",
+      "bank_id": "50b4b600",
+      "text": "Davetsiz misafirler!"
+    },
+    {
+      "id": "8c3ffc32",
+      "bank_id": "50b4b600",
+      "text": "Ne yolla olursa olsun biraz para kazanmanın vakti geldi."
+    },
+    {
+      "id": "8ca85faf",
+      "bank_id": "50b4b600",
+      "text": "Davetsiz misafirler!"
+    },
+    {
+      "id": "8d3ffda5",
+      "bank_id": "50b4b600",
+      "text": "Yine de o bilgiye ihtiyacımız var."
+    },
+    {
+      "id": "8ea862f5",
+      "bank_id": "50b4b600",
+      "text": "Davetsiz misafirler!"
+    },
+    {
+      "id": "a33ccb84",
+      "bank_id": "50b4b600",
+      "text": "Buralarda aylak aylak dolaşarak para kazanamazsın, bilesin. İnan bana, denedim."
+    },
+    {
+      "id": "a43ccd77",
+      "bank_id": "50b4b600",
+      "text": "Parayı bul, sonra konuşuruz."
+    },
+    {
+      "id": "a53cceea",
+      "bank_id": "50b4b600",
+      "text": "Altının yoksa konuşacak bir şeyimiz de yok."
+    },
+    {
+      "id": "a7084530",
+      "bank_id": "50b4b600",
+      "text": "Lucien'in adamları saldırıyor. Garth'ı kurtarmalısın!"
+    },
+    {
+      "id": "a80846a3",
+      "bank_id": "50b4b600",
+      "text": "Biri ya da... Bir şey... Senin tarafına doğru geliyor. Asla böyle bir şey hissetmemiştim."
+    },
+    {
+      "id": "a9084816",
+      "bank_id": "50b4b600",
+      "text": "Garth tehlikede. Önce ona ulaşmalısın. Acele et!"
+    },
+    {
+      "id": "aa2fe258",
+      "bank_id": "50b4b600",
+      "text": "Geliyorlar!"
+    },
+    {
+      "id": "ac084cef",
+      "bank_id": "50b4b600",
+      "text": "Vazgeçme sakın."
+    },
+    {
+      "id": "ac2fe5be",
+      "bank_id": "50b4b600",
+      "text": "Öldüreceğin bir şey daha işte, asker!"
+    },
+    {
+      "id": "ad084e42",
+      "bank_id": "50b4b600",
+      "text": "Devam et, neredeyse vardın."
+    },
+    {
+      "id": "ad2fe711",
+      "bank_id": "50b4b600",
+      "text": "Bunlar da ne kaptan?!"
+    },
+    {
+      "id": "ae085035",
+      "bank_id": "50b4b600",
+      "text": "Bu Kahraman bizim için hayati önemde. İlerlemeye devam et."
+    },
+    {
+      "id": "b6c7d93f",
+      "bank_id": "50b4b600",
+      "text": "İyi iş çıkardın Kahraman."
+    },
+    {
+      "id": "b8efc2a0",
+      "bank_id": "50b4b600",
+      "text": "Ve Lucien'in çöküşündeki rolünü açıklamak daha da uzun sürecek."
+    },
+    {
+      "id": "baebecc2",
+      "bank_id": "50b4b600",
+      "text": "Yanılıyorsun."
+    },
+    {
+      "id": "bbebeeb5",
+      "bank_id": "50b4b600",
+      "text": "Oraya asla geri dönmeyeceğim! Duyuyor musun beni?"
+    },
+    {
+      "id": "bcb53970",
+      "bank_id": "50b4b600",
+      "text": "Kapılar kilitli."
+    },
+    {
+      "id": "bf83e3e1",
+      "bank_id": "50b4b600",
+      "text": "Oldukça makul biri gibi görünüyor. Umalım da bize yardım etmeyi kabul etsin."
+    },
+    {
+      "id": "bf83e3e4",
+      "bank_id": "50b4b600",
+      "text": "Yağmacı olmadığın anlaşılıyor. Seni kulemde bekleyeceğim."
+    },
+    {
+      "id": "c083e557",
+      "bank_id": "50b4b600",
+      "text": "Bekle... Bir terslik var."
+    },
+    {
+      "id": "c283e8bd",
+      "bank_id": "50b4b600",
+      "text": "Karşına bu şekilde çıktığım için kusuruma bakma. Bizzat karşılayamayacak kadar meşgulüm."
+    },
+    {
+      "id": "c3c4d999",
+      "bank_id": "50b4b600",
+      "text": "SPIRE MUHAFIZI"
+    },
+    {
+      "id": "c482fdf6",
+      "bank_id": "50b4b600",
+      "text": "İrade Kahramanını bulun."
+    },
+    {
+      "id": "c869ca28",
+      "bank_id": "50b4b600",
+      "text": "GÖLGE"
+    },
+    {
+      "id": "c8fe7986",
+      "bank_id": "50b4b600",
+      "text": "Sen bekle Lucien. Bütün dünya duyacak!"
+    },
+    {
+      "id": "c9fe7b79",
+      "bank_id": "50b4b600",
+      "text": "Lanet bir altın saat bile yok. Hiçbir şey!"
+    },
+    {
+      "id": "cb69cee1",
+      "bank_id": "50b4b600",
+      "text": "GÖLGELER"
+    },
+    {
+      "id": "ce6722f8",
+      "bank_id": "50b4b600",
+      "text": "Brightwood Kulesi'ne gidin."
+    },
+    {
+      "id": "ce6722f9",
+      "bank_id": "50b4b600",
+      "text": "Brightwood Kulesi'nin tepesine çıkın."
+    },
+    {
+      "id": "ce6722fa",
+      "bank_id": "50b4b600",
+      "text": "İrade Kahramanını saflarınıza katın."
+    },
+    {
+      "id": "ce6722fb",
+      "bank_id": "50b4b600",
+      "text": "Theresa'dan talimat almak için Lonca'ya dönün."
+    },
+    {
+      "id": "ce6722fd",
+      "bank_id": "50b4b600",
+      "text": "Theresa'yı dinleyin."
+    },
+    {
+      "id": "ce6722ff",
+      "bank_id": "50b4b600",
+      "text": "Brightwood'a gidin."
+    },
+    {
+      "id": "cefe8318",
+      "bank_id": "50b4b600",
+      "text": "...insan kapatmaları nereden bulur ki? Kapatma dükkânı falan var mı acaba?"
+    },
+    {
+      "id": "cffe848b",
+      "bank_id": "50b4b600",
+      "text": "Yeni bir peruk alabilirim! İçinde fareler olmayan bir şey!"
+    },
+    {
+      "id": "d1fe87d1",
+      "bank_id": "50b4b600",
+      "text": "Demek bin altına bir ev alabilirim ve..."
+    },
+    {
+      "id": "d2fe8944",
+      "bank_id": "50b4b600",
+      "text": "Eli sıkı herif. Ben ona gösteririm."
+    },
+    {
+      "id": "d3706fea",
+      "bank_id": "50b4b600",
+      "text": "SPIRE MUHAFIZLARI"
+    },
+    {
+      "id": "d3fe8b37",
+      "bank_id": "50b4b600",
+      "text": "Yarım ömürlük hizmet!"
+    },
+    {
+      "id": "d4fe8caa",
+      "bank_id": "50b4b600",
+      "text": "O kadar çok seçenek var ki..."
+    },
+    {
+      "id": "d5fe8e1d",
+      "bank_id": "50b4b600",
+      "text": "Bin hobbe'nin keneleri onun kıçında daimi yuva kursun inşallah."
+    },
+    {
+      "id": "efbd7eac",
+      "bank_id": "50b4b600",
+      "text": "Brightwood'a git ve Garth'ı bul."
+    },
+    {
+      "id": "f0bd801f",
+      "bank_id": "50b4b600",
+      "text": "Brightwood'da Garth'ı bul. Onun bilgisi büyük bir kazanç olacaktır."
+    },
+    {
+      "id": "f0ea4e78",
+      "bank_id": "50b4b600",
+      "text": "Gölgeler defolun!"
+    },
+    {
+      "id": "f1205609",
+      "bank_id": "50b4b600",
+      "text": "İrade Kahramanı"
+    },
+    {
+      "id": "f1bd81f2",
+      "bank_id": "50b4b600",
+      "text": "Brightwood kulesine gitmen gerek."
+    },
+    {
+      "id": "f70d30cb",
+      "bank_id": "50b4b600",
+      "text": "Tapınakta bir asker mi? Ama hangi ordudan?"
+    },
+    {
+      "id": "f80d32be",
+      "bank_id": "50b4b600",
+      "text": "Yoksa başka bir paralı asker mi? Alınmaca yok."
+    },
+    {
+      "id": "f90d3411",
+      "bank_id": "50b4b600",
+      "text": "Her halükarda, burada ne arıyor olabilir ki?"
+    },
+    {
+      "id": "f973ad2b",
+      "bank_id": "50b4b600",
+      "text": "Jeeves'in Notu"
+    },
+    {
+      "id": "fa0d3584",
+      "bank_id": "50b4b600",
+      "text": "Görünüşe göre Tapınağı ziyaret etmek için doğru zamanı seçtin."
+    },
+    {
+      "id": "fb0d3777",
+      "bank_id": "50b4b600",
+      "text": "Bir terslik çıkarsa senin yanımda olmanı isterim."
+    },
+    {
+      "id": "fc0d38ea",
+      "bank_id": "50b4b600",
+      "text": "Ve iki kişiyiz. Dövüşemesem bile korkutucu görünebilirim."
+    },
+    {
+      "id": "fd0d3a5d",
+      "bank_id": "50b4b600",
+      "text": "Umarım bu adamı savuşturmaya yeterli olur."
+    }
+  ]
+}

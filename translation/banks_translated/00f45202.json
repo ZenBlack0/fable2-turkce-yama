@@ -1,0 +1,3351 @@
+{
+  "bank_id": "00f45202",
+  "total_strings": 669,
+  "strings": [
+    {
+      "id": "00f8f7a0",
+      "bank_id": "00f45202",
+      "text": "Avam"
+    },
+    {
+      "id": "00f8f7ab",
+      "bank_id": "00f45202",
+      "text": "Avam"
+    },
+    {
+      "id": "01754ca4",
+      "bank_id": "00f45202",
+      "text": "Yozlaşmış"
+    },
+    {
+      "id": "01754caf",
+      "bank_id": "00f45202",
+      "text": "Yozlaşmış"
+    },
+    {
+      "id": "024d4725",
+      "bank_id": "00f45202",
+      "text": "Eğlenceli"
+    },
+    {
+      "id": "024d472e",
+      "bank_id": "00f45202",
+      "text": "Eğlenceli"
+    },
+    {
+      "id": "030ab352",
+      "bank_id": "00f45202",
+      "text": "Gemi Kaptanı"
+    },
+    {
+      "id": "04485398",
+      "bank_id": "00f45202",
+      "text": "Akıncı Lideri"
+    },
+    {
+      "id": "0534cdd7",
+      "bank_id": "00f45202",
+      "text": "Faytoncu"
+    },
+    {
+      "id": "0564d9d7",
+      "bank_id": "00f45202",
+      "text": "Timothy Lightjoy"
+    },
+    {
+      "id": "05e18250",
+      "bank_id": "00f45202",
+      "text": "Çapkın"
+    },
+    {
+      "id": "05e1825b",
+      "bank_id": "00f45202",
+      "text": "Çapkın"
+    },
+    {
+      "id": "069c6579",
+      "bank_id": "00f45202",
+      "text": "Miggins Nine"
+    },
+    {
+      "id": "084c9511",
+      "bank_id": "00f45202",
+      "text": "Gürültücü"
+    },
+    {
+      "id": "084c951a",
+      "bank_id": "00f45202",
+      "text": "Gürültücü"
+    },
+    {
+      "id": "08c17263",
+      "bank_id": "00f45202",
+      "text": "Aksi"
+    },
+    {
+      "id": "08c17268",
+      "bank_id": "00f45202",
+      "text": "Aksi"
+    },
+    {
+      "id": "08db4510",
+      "bank_id": "00f45202",
+      "text": "Uysal"
+    },
+    {
+      "id": "08db451b",
+      "bank_id": "00f45202",
+      "text": "Uysal"
+    },
+    {
+      "id": "097fd853",
+      "bank_id": "00f45202",
+      "text": "Yaralı Muhafız"
+    },
+    {
+      "id": "09936fc1",
+      "bank_id": "00f45202",
+      "text": "Sebastian"
+    },
+    {
+      "id": "0a298c04",
+      "bank_id": "00f45202",
+      "text": "Orta Sınıf"
+    },
+    {
+      "id": "0a298c0f",
+      "bank_id": "00f45202",
+      "text": "Orta Sınıf"
+    },
+    {
+      "id": "0aad3b05",
+      "bank_id": "00f45202",
+      "text": "Sapkın"
+    },
+    {
+      "id": "0aad3b0e",
+      "bank_id": "00f45202",
+      "text": "Sapkın"
+    },
+    {
+      "id": "0adc5b0d",
+      "bank_id": "00f45202",
+      "text": "Biff"
+    },
+    {
+      "id": "0adc5b0e",
+      "bank_id": "00f45202",
+      "text": "Ron"
+    },
+    {
+      "id": "0c4dc313",
+      "bank_id": "00f45202",
+      "text": "Melankolik"
+    },
+    {
+      "id": "0c4dc318",
+      "bank_id": "00f45202",
+      "text": "Melankolik"
+    },
+    {
+      "id": "0c7bf04b",
+      "bank_id": "00f45202",
+      "text": "Çiftçi"
+    },
+    {
+      "id": "0cb52716",
+      "bank_id": "00f45202",
+      "text": "Kuyumcu"
+    },
+    {
+      "id": "0cdafa24",
+      "bank_id": "00f45202",
+      "text": "Tuzlu Jack"
+    },
+    {
+      "id": "0d590ca7",
+      "bank_id": "00f45202",
+      "text": "Pis"
+    },
+    {
+      "id": "0d590cac",
+      "bank_id": "00f45202",
+      "text": "Pis"
+    },
+    {
+      "id": "0d8bc188",
+      "bank_id": "00f45202",
+      "text": "Ozan"
+    },
+    {
+      "id": "0e55ea90",
+      "bank_id": "00f45202",
+      "text": "Haydut"
+    },
+    {
+      "id": "0f73b255",
+      "bank_id": "00f45202",
+      "text": "Biseksüel"
+    },
+    {
+      "id": "0f73b25e",
+      "bank_id": "00f45202",
+      "text": "Biseksüel"
+    },
+    {
+      "id": "0f7940c1",
+      "bank_id": "00f45202",
+      "text": "Kötü"
+    },
+    {
+      "id": "0f7940ca",
+      "bank_id": "00f45202",
+      "text": "Kötü"
+    },
+    {
+      "id": "1091bb03",
+      "bank_id": "00f45202",
+      "text": "Ripper"
+    },
+    {
+      "id": "136f4d22",
+      "bank_id": "00f45202",
+      "text": "Kaba"
+    },
+    {
+      "id": "136f4d29",
+      "bank_id": "00f45202",
+      "text": "Kaba"
+    },
+    {
+      "id": "13c20400",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 3"
+    },
+    {
+      "id": "13c20401",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 2"
+    },
+    {
+      "id": "13c20402",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 1"
+    },
+    {
+      "id": "13c20404",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 7"
+    },
+    {
+      "id": "13c20405",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 6"
+    },
+    {
+      "id": "13c20406",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 5"
+    },
+    {
+      "id": "13c20407",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 4"
+    },
+    {
+      "id": "13c2040a",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 9"
+    },
+    {
+      "id": "13c2040b",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 8"
+    },
+    {
+      "id": "1478ee22",
+      "bank_id": "00f45202",
+      "text": "Aydın"
+    },
+    {
+      "id": "1478ee29",
+      "bank_id": "00f45202",
+      "text": "Aydın"
+    },
+    {
+      "id": "15695c92",
+      "bank_id": "00f45202",
+      "text": "Alçakgönüllü"
+    },
+    {
+      "id": "15695c99",
+      "bank_id": "00f45202",
+      "text": "Alçakgönüllü"
+    },
+    {
+      "id": "1725a6b3",
+      "bank_id": "00f45202",
+      "text": "Reaver'ın Yandaşı"
+    },
+    {
+      "id": "175e7ca1",
+      "bank_id": "00f45202",
+      "text": "Tarquin"
+    },
+    {
+      "id": "178d0cd5",
+      "bank_id": "00f45202",
+      "text": "Cornelius Grim"
+    },
+    {
+      "id": "179c1f96",
+      "bank_id": "00f45202",
+      "text": "Masrafsız"
+    },
+    {
+      "id": "179c1f9d",
+      "bank_id": "00f45202",
+      "text": "Masrafsız"
+    },
+    {
+      "id": "17ac2cc1",
+      "bank_id": "00f45202",
+      "text": "Kadim, hafifçe çürümüş bir savaşçı."
+    },
+    {
+      "id": "17b52656",
+      "bank_id": "00f45202",
+      "text": "Sakin"
+    },
+    {
+      "id": "17b5265d",
+      "bank_id": "00f45202",
+      "text": "Sakin"
+    },
+    {
+      "id": "1807cad7",
+      "bank_id": "00f45202",
+      "text": "Zalim"
+    },
+    {
+      "id": "1807cadc",
+      "bank_id": "00f45202",
+      "text": "Zalim"
+    },
+    {
+      "id": "1814dc9c",
+      "bank_id": "00f45202",
+      "text": "Güç Kahramanı."
+    },
+    {
+      "id": "18bfe651",
+      "bank_id": "00f45202",
+      "text": "Muzır"
+    },
+    {
+      "id": "18bfe65a",
+      "bank_id": "00f45202",
+      "text": "Muzır"
+    },
+    {
+      "id": "19884e13",
+      "bank_id": "00f45202",
+      "text": "Muhafız"
+    },
+    {
+      "id": "19967113",
+      "bank_id": "00f45202",
+      "text": "Tarikatçı"
+    },
+    {
+      "id": "1a0d47a3",
+      "bank_id": "00f45202",
+      "text": "Cornelius Grim"
+    },
+    {
+      "id": "1a8360b3",
+      "bank_id": "00f45202",
+      "text": "Hammer"
+    },
+    {
+      "id": "1a8d8a37",
+      "bank_id": "00f45202",
+      "text": "Saldırgan"
+    },
+    {
+      "id": "1a8d8a3c",
+      "bank_id": "00f45202",
+      "text": "Saldırgan"
+    },
+    {
+      "id": "1b0aacd7",
+      "bank_id": "00f45202",
+      "text": "Damon"
+    },
+    {
+      "id": "1b5e96a4",
+      "bank_id": "00f45202",
+      "text": "İyi Huylu"
+    },
+    {
+      "id": "1b5e96af",
+      "bank_id": "00f45202",
+      "text": "İyi Huylu"
+    },
+    {
+      "id": "1b9285cd",
+      "bank_id": "00f45202",
+      "text": "Bernard"
+    },
+    {
+      "id": "1c6c4f16",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 10"
+    },
+    {
+      "id": "1c6c4f17",
+      "bank_id": "00f45202",
+      "text": "Bölüm Çıkışı Muhafızı 11"
+    },
+    {
+      "id": "1c8575d8",
+      "bank_id": "00f45202",
+      "text": "Çıkışı korur"
+    },
+    {
+      "id": "1d676d2a",
+      "bank_id": "00f45202",
+      "text": "Silah Satıcısı"
+    },
+    {
+      "id": "1d6906d3",
+      "bank_id": "00f45202",
+      "text": "Korkak"
+    },
+    {
+      "id": "1d6906d8",
+      "bank_id": "00f45202",
+      "text": "Korkak"
+    },
+    {
+      "id": "1e405871",
+      "bank_id": "00f45202",
+      "text": "Mutlu"
+    },
+    {
+      "id": "1e40587a",
+      "bank_id": "00f45202",
+      "text": "Mutlu"
+    },
+    {
+      "id": "1e4df690",
+      "bank_id": "00f45202",
+      "text": "Rose"
+    },
+    {
+      "id": "1f668d76",
+      "bank_id": "00f45202",
+      "text": "Eski Çile şampiyonu."
+    },
+    {
+      "id": "2030a3f3",
+      "bank_id": "00f45202",
+      "text": "Damian"
+    },
+    {
+      "id": "20398c84",
+      "bank_id": "00f45202",
+      "text": "Barmen"
+    },
+    {
+      "id": "20c915a1",
+      "bank_id": "00f45202",
+      "text": "Gezgin"
+    },
+    {
+      "id": "211e4eb2",
+      "bank_id": "00f45202",
+      "text": "Bağımsız"
+    },
+    {
+      "id": "211e4eb9",
+      "bank_id": "00f45202",
+      "text": "Bağımsız"
+    },
+    {
+      "id": "212d0a07",
+      "bank_id": "00f45202",
+      "text": "Cesur"
+    },
+    {
+      "id": "212d0a0c",
+      "bank_id": "00f45202",
+      "text": "Cesur"
+    },
+    {
+      "id": "216cb2a4",
+      "bank_id": "00f45202",
+      "text": "Bay Blank"
+    },
+    {
+      "id": "22db5605",
+      "bank_id": "00f45202",
+      "text": "Sosyetik"
+    },
+    {
+      "id": "22db560e",
+      "bank_id": "00f45202",
+      "text": "Sosyetik"
+    },
+    {
+      "id": "24602362",
+      "bank_id": "00f45202",
+      "text": "Kötü Niyetli"
+    },
+    {
+      "id": "24602369",
+      "bank_id": "00f45202",
+      "text": "Kötü Niyetli"
+    },
+    {
+      "id": "253ab850",
+      "bank_id": "00f45202",
+      "text": "Baskın"
+    },
+    {
+      "id": "253ab85b",
+      "bank_id": "00f45202",
+      "text": "Baskın"
+    },
+    {
+      "id": "25539afa",
+      "bank_id": "00f45202",
+      "text": "Gezgin"
+    },
+    {
+      "id": "256dcd87",
+      "bank_id": "00f45202",
+      "text": "Bir Kule muhafızı."
+    },
+    {
+      "id": "25ce64c0",
+      "bank_id": "00f45202",
+      "text": "Kıkırdayan"
+    },
+    {
+      "id": "25ce64cb",
+      "bank_id": "00f45202",
+      "text": "Kıkırdayan"
+    },
+    {
+      "id": "26155586",
+      "bank_id": "00f45202",
+      "text": "Flörtöz"
+    },
+    {
+      "id": "2615558d",
+      "bank_id": "00f45202",
+      "text": "Flörtöz"
+    },
+    {
+      "id": "27013e1b",
+      "bank_id": "00f45202",
+      "text": "Belediye Başkanı"
+    },
+    {
+      "id": "27203ecf",
+      "bank_id": "00f45202",
+      "text": "Jeeves"
+    },
+    {
+      "id": "278d1805",
+      "bank_id": "00f45202",
+      "text": "Kibar"
+    },
+    {
+      "id": "278d180e",
+      "bank_id": "00f45202",
+      "text": "Kibar"
+    },
+    {
+      "id": "282ea245",
+      "bank_id": "00f45202",
+      "text": "Cıvıl Cıvıl"
+    },
+    {
+      "id": "282ea24e",
+      "bank_id": "00f45202",
+      "text": "Cıvıl Cıvıl"
+    },
+    {
+      "id": "28362c37",
+      "bank_id": "00f45202",
+      "text": "Müşkülpesent"
+    },
+    {
+      "id": "28362c3c",
+      "bank_id": "00f45202",
+      "text": "Müşkülpesent"
+    },
+    {
+      "id": "285dffb5",
+      "bank_id": "00f45202",
+      "text": "Nazik"
+    },
+    {
+      "id": "285dffbe",
+      "bank_id": "00f45202",
+      "text": "Nazik"
+    },
+    {
+      "id": "2a544732",
+      "bank_id": "00f45202",
+      "text": "Dostça"
+    },
+    {
+      "id": "2a544739",
+      "bank_id": "00f45202",
+      "text": "Dostça"
+    },
+    {
+      "id": "2a64de4e",
+      "bank_id": "00f45202",
+      "text": "Hector"
+    },
+    {
+      "id": "2aa5bfbf",
+      "bank_id": "00f45202",
+      "text": "Yaşlı Gregg"
+    },
+    {
+      "id": "2afde5f9",
+      "bank_id": "00f45202",
+      "text": "Düellocu"
+    },
+    {
+      "id": "2b1c9dee",
+      "bank_id": "00f45202",
+      "text": "Neville"
+    },
+    {
+      "id": "2b46c030",
+      "bank_id": "00f45202",
+      "text": "Genelev çalışanı"
+    },
+    {
+      "id": "2d4daa67",
+      "bank_id": "00f45202",
+      "text": "Muriel"
+    },
+    {
+      "id": "2d663aa6",
+      "bank_id": "00f45202",
+      "text": "Başkeşiş"
+    },
+    {
+      "id": "2e761f72",
+      "bank_id": "00f45202",
+      "text": "İdealist"
+    },
+    {
+      "id": "2e761f79",
+      "bank_id": "00f45202",
+      "text": "İdealist"
+    },
+    {
+      "id": "2ef13e07",
+      "bank_id": "00f45202",
+      "text": "Açgözlü"
+    },
+    {
+      "id": "2ef13e0c",
+      "bank_id": "00f45202",
+      "text": "Açgözlü"
+    },
+    {
+      "id": "2f07a5e1",
+      "bank_id": "00f45202",
+      "text": "Ayakları Yere Basan"
+    },
+    {
+      "id": "2f07a5ea",
+      "bank_id": "00f45202",
+      "text": "Ayakları Yere Basan"
+    },
+    {
+      "id": "2fe2bdc1",
+      "bank_id": "00f45202",
+      "text": "Tutuk"
+    },
+    {
+      "id": "2fe2bdca",
+      "bank_id": "00f45202",
+      "text": "Tutuk"
+    },
+    {
+      "id": "2fe4c0c1",
+      "bank_id": "00f45202",
+      "text": "Muhtaç"
+    },
+    {
+      "id": "2fe4c0ca",
+      "bank_id": "00f45202",
+      "text": "Muhtaç"
+    },
+    {
+      "id": "30d99407",
+      "bank_id": "00f45202",
+      "text": "Zeki"
+    },
+    {
+      "id": "30d9940c",
+      "bank_id": "00f45202",
+      "text": "Zeki"
+    },
+    {
+      "id": "3169c623",
+      "bank_id": "00f45202",
+      "text": "Dikkatsiz"
+    },
+    {
+      "id": "3169c628",
+      "bank_id": "00f45202",
+      "text": "Dikkatsiz"
+    },
+    {
+      "id": "318581e8",
+      "bank_id": "00f45202",
+      "text": "Deidre"
+    },
+    {
+      "id": "3190963d",
+      "bank_id": "00f45202",
+      "text": "Allen Murray"
+    },
+    {
+      "id": "31b4a691",
+      "bank_id": "00f45202",
+      "text": "Duncan"
+    },
+    {
+      "id": "33032c70",
+      "bank_id": "00f45202",
+      "text": "Taş"
+    },
+    {
+      "id": "33378c36",
+      "bank_id": "00f45202",
+      "text": "Silah Ustası"
+    },
+    {
+      "id": "3355c4c3",
+      "bank_id": "00f45202",
+      "text": "Bebek"
+    },
+    {
+      "id": "33f8a4e1",
+      "bank_id": "00f45202",
+      "text": "Çocuksu"
+    },
+    {
+      "id": "33f8a4ea",
+      "bank_id": "00f45202",
+      "text": "Çocuksu"
+    },
+    {
+      "id": "3449af3e",
+      "bank_id": "00f45202",
+      "text": "Tarikat Lideri"
+    },
+    {
+      "id": "348eb200",
+      "bank_id": "00f45202",
+      "text": "Barney"
+    },
+    {
+      "id": "34b62765",
+      "bank_id": "00f45202",
+      "text": "Trevor"
+    },
+    {
+      "id": "358857f0",
+      "bank_id": "00f45202",
+      "text": "Gezgin Tüccar"
+    },
+    {
+      "id": "358ed840",
+      "bank_id": "00f45202",
+      "text": "Çırak"
+    },
+    {
+      "id": "3605e927",
+      "bank_id": "00f45202",
+      "text": "Saldırganlık Seven"
+    },
+    {
+      "id": "3605e92c",
+      "bank_id": "00f45202",
+      "text": "Saldırganlık Seven"
+    },
+    {
+      "id": "36790e46",
+      "bank_id": "00f45202",
+      "text": "Gergin"
+    },
+    {
+      "id": "36790e4d",
+      "bank_id": "00f45202",
+      "text": "Gergin"
+    },
+    {
+      "id": "3766e001",
+      "bank_id": "00f45202",
+      "text": "Eşcinsel"
+    },
+    {
+      "id": "3766e00a",
+      "bank_id": "00f45202",
+      "text": "Eşcinsel"
+    },
+    {
+      "id": "37f92377",
+      "bank_id": "00f45202",
+      "text": "Öfkeli"
+    },
+    {
+      "id": "37f9237c",
+      "bank_id": "00f45202",
+      "text": "Öfkeli"
+    },
+    {
+      "id": "387422f5",
+      "bank_id": "00f45202",
+      "text": "Ivan"
+    },
+    {
+      "id": "3a409727",
+      "bank_id": "00f45202",
+      "text": "Tutumlu"
+    },
+    {
+      "id": "3a40972c",
+      "bank_id": "00f45202",
+      "text": "Tutumlu"
+    },
+    {
+      "id": "3a50d34d",
+      "bank_id": "00f45202",
+      "text": "Masalcı"
+    },
+    {
+      "id": "3af68d32",
+      "bank_id": "00f45202",
+      "text": "Entelektüel"
+    },
+    {
+      "id": "3af68d39",
+      "bank_id": "00f45202",
+      "text": "Entelektüel"
+    },
+    {
+      "id": "3b2b6022",
+      "bank_id": "00f45202",
+      "text": "Neşeli"
+    },
+    {
+      "id": "3b2b6029",
+      "bank_id": "00f45202",
+      "text": "Neşeli"
+    },
+    {
+      "id": "3c623122",
+      "bank_id": "00f45202",
+      "text": "Belinda"
+    },
+    {
+      "id": "3c7a9a0c",
+      "bank_id": "00f45202",
+      "text": "Edward"
+    },
+    {
+      "id": "3cbf2555",
+      "bank_id": "00f45202",
+      "text": "Hırçın"
+    },
+    {
+      "id": "3cbf255e",
+      "bank_id": "00f45202",
+      "text": "Hırçın"
+    },
+    {
+      "id": "3ce14866",
+      "bank_id": "00f45202",
+      "text": "Buyurgan"
+    },
+    {
+      "id": "3ce1486d",
+      "bank_id": "00f45202",
+      "text": "Buyurgan"
+    },
+    {
+      "id": "3cf2b565",
+      "bank_id": "00f45202",
+      "text": "Kadınsı"
+    },
+    {
+      "id": "3cf2b56e",
+      "bank_id": "00f45202",
+      "text": "Kadınsı"
+    },
+    {
+      "id": "3d98327d",
+      "bank_id": "00f45202",
+      "text": "Barmen Kız"
+    },
+    {
+      "id": "3e305d87",
+      "bank_id": "00f45202",
+      "text": "Darius"
+    },
+    {
+      "id": "3e46f7a7",
+      "bank_id": "00f45202",
+      "text": "Billy"
+    },
+    {
+      "id": "3fb203a6",
+      "bank_id": "00f45202",
+      "text": "Şerif"
+    },
+    {
+      "id": "3ff26a53",
+      "bank_id": "00f45202",
+      "text": "Alastair"
+    },
+    {
+      "id": "401bd785",
+      "bank_id": "00f45202",
+      "text": "Kavgacı"
+    },
+    {
+      "id": "401bd78e",
+      "bank_id": "00f45202",
+      "text": "Kavgacı"
+    },
+    {
+      "id": "407ac014",
+      "bank_id": "00f45202",
+      "text": "Olgun"
+    },
+    {
+      "id": "407ac01f",
+      "bank_id": "00f45202",
+      "text": "Olgun"
+    },
+    {
+      "id": "40d99e17",
+      "bank_id": "00f45202",
+      "text": "Erkek Çocuk"
+    },
+    {
+      "id": "439ab5b5",
+      "bank_id": "00f45202",
+      "text": "Chester"
+    },
+    {
+      "id": "4473ae11",
+      "bank_id": "00f45202",
+      "text": "Dükkân Sahibi"
+    },
+    {
+      "id": "447c8b30",
+      "bank_id": "00f45202",
+      "text": "Joseph"
+    },
+    {
+      "id": "448ecbc4",
+      "bank_id": "00f45202",
+      "text": "Barnum"
+    },
+    {
+      "id": "44b57330",
+      "bank_id": "00f45202",
+      "text": "Kayıp Çocuk"
+    },
+    {
+      "id": "457b4d74",
+      "bank_id": "00f45202",
+      "text": "Meatbane"
+    },
+    {
+      "id": "4596a704",
+      "bank_id": "00f45202",
+      "text": "Bert"
+    },
+    {
+      "id": "4600fc09",
+      "bank_id": "00f45202",
+      "text": "Bir heykeltıraş."
+    },
+    {
+      "id": "46843ad7",
+      "bank_id": "00f45202",
+      "text": "Omurgasız bir dalkavuk."
+    },
+    {
+      "id": "4697c654",
+      "bank_id": "00f45202",
+      "text": "Fakir"
+    },
+    {
+      "id": "4697c65f",
+      "bank_id": "00f45202",
+      "text": "Fakir"
+    },
+    {
+      "id": "478e8789",
+      "bank_id": "00f45202",
+      "text": "Uşak"
+    },
+    {
+      "id": "485a3f44",
+      "bank_id": "00f45202",
+      "text": "Cazibeli"
+    },
+    {
+      "id": "485a3f4f",
+      "bank_id": "00f45202",
+      "text": "Cazibeli"
+    },
+    {
+      "id": "485a9675",
+      "bank_id": "00f45202",
+      "text": "Sabırsız"
+    },
+    {
+      "id": "485a967e",
+      "bank_id": "00f45202",
+      "text": "Sabırsız"
+    },
+    {
+      "id": "4892f7fd",
+      "bank_id": "00f45202",
+      "text": "Silah Satıcısı"
+    },
+    {
+      "id": "48b39766",
+      "bank_id": "00f45202",
+      "text": "Çiftçilik yapan emekli bir muhafız."
+    },
+    {
+      "id": "48b46008",
+      "bank_id": "00f45202",
+      "text": "Brightwood haydutlarının lideri."
+    },
+    {
+      "id": "48fb225e",
+      "bank_id": "00f45202",
+      "text": "Ödül Avcısı Mark"
+    },
+    {
+      "id": "48fed066",
+      "bank_id": "00f45202",
+      "text": "Cesur"
+    },
+    {
+      "id": "48fed06d",
+      "bank_id": "00f45202",
+      "text": "Cesur"
+    },
+    {
+      "id": "496d6007",
+      "bank_id": "00f45202",
+      "text": "Sıkıcı"
+    },
+    {
+      "id": "496d600c",
+      "bank_id": "00f45202",
+      "text": "Sıkıcı"
+    },
+    {
+      "id": "4bda2ab3",
+      "bank_id": "00f45202",
+      "text": "Arfur"
+    },
+    {
+      "id": "4c54c6f3",
+      "bank_id": "00f45202",
+      "text": "Ciddi"
+    },
+    {
+      "id": "4c54c6f8",
+      "bank_id": "00f45202",
+      "text": "Ciddi"
+    },
+    {
+      "id": "4c91e30f",
+      "bank_id": "00f45202",
+      "text": "Robin"
+    },
+    {
+      "id": "4ddb8a94",
+      "bank_id": "00f45202",
+      "text": "Deli"
+    },
+    {
+      "id": "4ddb8a9f",
+      "bank_id": "00f45202",
+      "text": "Deli"
+    },
+    {
+      "id": "4e583c27",
+      "bank_id": "00f45202",
+      "text": "İçedönük"
+    },
+    {
+      "id": "4e583c2c",
+      "bank_id": "00f45202",
+      "text": "İçedönük"
+    },
+    {
+      "id": "4e5c5d86",
+      "bank_id": "00f45202",
+      "text": "Çabuk Tiksinen"
+    },
+    {
+      "id": "4e5c5d8d",
+      "bank_id": "00f45202",
+      "text": "Çabuk Tiksinen"
+    },
+    {
+      "id": "4e649e32",
+      "bank_id": "00f45202",
+      "text": "Dışadönük"
+    },
+    {
+      "id": "4e649e39",
+      "bank_id": "00f45202",
+      "text": "Dışadönük"
+    },
+    {
+      "id": "4f1a7894",
+      "bank_id": "00f45202",
+      "text": "Sakar"
+    },
+    {
+      "id": "4f1a789f",
+      "bank_id": "00f45202",
+      "text": "Sakar"
+    },
+    {
+      "id": "4fabacb5",
+      "bank_id": "00f45202",
+      "text": "Simyacı"
+    },
+    {
+      "id": "50167987",
+      "bank_id": "00f45202",
+      "text": "Tehlikeli"
+    },
+    {
+      "id": "5016798c",
+      "bank_id": "00f45202",
+      "text": "Tehlikeli"
+    },
+    {
+      "id": "5029fd11",
+      "bank_id": "00f45202",
+      "text": "Arkeolog"
+    },
+    {
+      "id": "5094dfd5",
+      "bank_id": "00f45202",
+      "text": "Tezgâh Satıcısı"
+    },
+    {
+      "id": "50bde162",
+      "bank_id": "00f45202",
+      "text": "Simyacı"
+    },
+    {
+      "id": "50f2d92a",
+      "bank_id": "00f45202",
+      "text": "Balthazar"
+    },
+    {
+      "id": "513862d2",
+      "bank_id": "00f45202",
+      "text": "Üst Orta Sınıf"
+    },
+    {
+      "id": "513862d9",
+      "bank_id": "00f45202",
+      "text": "Üst Orta Sınıf"
+    },
+    {
+      "id": "52489a83",
+      "bank_id": "00f45202",
+      "text": "Kararsız"
+    },
+    {
+      "id": "52489a88",
+      "bank_id": "00f45202",
+      "text": "Kararsız"
+    },
+    {
+      "id": "527ad7e7",
+      "bank_id": "00f45202",
+      "text": "Endişeli"
+    },
+    {
+      "id": "527ad7ec",
+      "bank_id": "00f45202",
+      "text": "Endişeli"
+    },
+    {
+      "id": "52d035d0",
+      "bank_id": "00f45202",
+      "text": "Podge"
+    },
+    {
+      "id": "53055410",
+      "bank_id": "00f45202",
+      "text": "Nüfuzlu"
+    },
+    {
+      "id": "5305541b",
+      "bank_id": "00f45202",
+      "text": "Nüfuzlu"
+    },
+    {
+      "id": "532879d4",
+      "bank_id": "00f45202",
+      "text": "Uysal"
+    },
+    {
+      "id": "532879df",
+      "bank_id": "00f45202",
+      "text": "Uysal"
+    },
+    {
+      "id": "534a1933",
+      "bank_id": "00f45202",
+      "text": "Savaşçı. Faydacı."
+    },
+    {
+      "id": "53bacf7a",
+      "bank_id": "00f45202",
+      "text": "Reginald"
+    },
+    {
+      "id": "53d7c4d9",
+      "bank_id": "00f45202",
+      "text": "Wayne"
+    },
+    {
+      "id": "540c33d2",
+      "bank_id": "00f45202",
+      "text": "Şakacı"
+    },
+    {
+      "id": "540c33d9",
+      "bank_id": "00f45202",
+      "text": "Şakacı"
+    },
+    {
+      "id": "540c4075",
+      "bank_id": "00f45202",
+      "text": "Kibirli"
+    },
+    {
+      "id": "540c407e",
+      "bank_id": "00f45202",
+      "text": "Kibirli"
+    },
+    {
+      "id": "542ad0fb",
+      "bank_id": "00f45202",
+      "text": "Rıhtım Tüccarı"
+    },
+    {
+      "id": "5485b7c1",
+      "bank_id": "00f45202",
+      "text": "Gölge"
+    },
+    {
+      "id": "5489a146",
+      "bank_id": "00f45202",
+      "text": "Roger"
+    },
+    {
+      "id": "54da00c9",
+      "bank_id": "00f45202",
+      "text": "Scritty"
+    },
+    {
+      "id": "5523cd65",
+      "bank_id": "00f45202",
+      "text": "Kültürlü"
+    },
+    {
+      "id": "5523cd6e",
+      "bank_id": "00f45202",
+      "text": "Kültürlü"
+    },
+    {
+      "id": "55249b5e",
+      "bank_id": "00f45202",
+      "text": "Victor"
+    },
+    {
+      "id": "55bd5457",
+      "bank_id": "00f45202",
+      "text": "Bowerstone Mezarlığı mezar bekçisi."
+    },
+    {
+      "id": "56861933",
+      "bank_id": "00f45202",
+      "text": "Sadık bir kasaba muhafızı."
+    },
+    {
+      "id": "56866ad0",
+      "bank_id": "00f45202",
+      "text": "Vince"
+    },
+    {
+      "id": "5731ff42",
+      "bank_id": "00f45202",
+      "text": "Bayan Spade"
+    },
+    {
+      "id": "57a20eb8",
+      "bank_id": "00f45202",
+      "text": "Hayat Kadını"
+    },
+    {
+      "id": "58001256",
+      "bank_id": "00f45202",
+      "text": "Cadoloz"
+    },
+    {
+      "id": "5800125d",
+      "bank_id": "00f45202",
+      "text": "Cadoloz"
+    },
+    {
+      "id": "58a912c9",
+      "bank_id": "00f45202",
+      "text": "Perry"
+    },
+    {
+      "id": "59053c48",
+      "bank_id": "00f45202",
+      "text": "Kız Çocuk"
+    },
+    {
+      "id": "5972e061",
+      "bank_id": "00f45202",
+      "text": "Albus"
+    },
+    {
+      "id": "5ac89814",
+      "bank_id": "00f45202",
+      "text": "Akıncı"
+    },
+    {
+      "id": "5adb2502",
+      "bank_id": "00f45202",
+      "text": "Malcolm"
+    },
+    {
+      "id": "5af86bea",
+      "bank_id": "00f45202",
+      "text": "Kutsal Rahibe"
+    },
+    {
+      "id": "5b46e332",
+      "bank_id": "00f45202",
+      "text": "Çaresiz bir anne."
+    },
+    {
+      "id": "5b4b9c62",
+      "bank_id": "00f45202",
+      "text": "Rubbers"
+    },
+    {
+      "id": "5bd241e6",
+      "bank_id": "00f45202",
+      "text": "Fayton Sürücüsü"
+    },
+    {
+      "id": "5c0815e1",
+      "bank_id": "00f45202",
+      "text": "Tellal"
+    },
+    {
+      "id": "5c765c75",
+      "bank_id": "00f45202",
+      "text": "Thag"
+    },
+    {
+      "id": "5d295ad0",
+      "bank_id": "00f45202",
+      "text": "Açık Fikirli"
+    },
+    {
+      "id": "5db5e93c",
+      "bank_id": "00f45202",
+      "text": "Korkunç güce sahip bir keşiş."
+    },
+    {
+      "id": "5f46bd39",
+      "bank_id": "00f45202",
+      "text": "Sunucu"
+    },
+    {
+      "id": "6090667e",
+      "bank_id": "00f45202",
+      "text": "T.O.B.Y. Başkanı"
+    },
+    {
+      "id": "60941972",
+      "bank_id": "00f45202",
+      "text": "Şişman Seven"
+    },
+    {
+      "id": "60941979",
+      "bank_id": "00f45202",
+      "text": "Şişman Seven"
+    },
+    {
+      "id": "60f09a2b",
+      "bank_id": "00f45202",
+      "text": "Demirci"
+    },
+    {
+      "id": "61e08d65",
+      "bank_id": "00f45202",
+      "text": "Giles"
+    },
+    {
+      "id": "626a8e91",
+      "bank_id": "00f45202",
+      "text": "Yalnız"
+    },
+    {
+      "id": "626a8e9a",
+      "bank_id": "00f45202",
+      "text": "Yalnız"
+    },
+    {
+      "id": "62e703a6",
+      "bank_id": "00f45202",
+      "text": "Normal"
+    },
+    {
+      "id": "62e703ad",
+      "bank_id": "00f45202",
+      "text": "Normal"
+    },
+    {
+      "id": "63170cbc",
+      "bank_id": "00f45202",
+      "text": "Victor"
+    },
+    {
+      "id": "637baaa1",
+      "bank_id": "00f45202",
+      "text": "Şişman Düşmanı"
+    },
+    {
+      "id": "637baaaa",
+      "bank_id": "00f45202",
+      "text": "Şişman Düşmanı"
+    },
+    {
+      "id": "64087c50",
+      "bank_id": "00f45202",
+      "text": "Arena Doldurma Organizatörü"
+    },
+    {
+      "id": "64c0d2a6",
+      "bank_id": "00f45202",
+      "text": "Hevesli"
+    },
+    {
+      "id": "64c0d2ad",
+      "bank_id": "00f45202",
+      "text": "Hevesli"
+    },
+    {
+      "id": "65b47752",
+      "bank_id": "00f45202",
+      "text": "Bir arkeolog ve tarihçi."
+    },
+    {
+      "id": "65b5be30",
+      "bank_id": "00f45202",
+      "text": "Öfkeli"
+    },
+    {
+      "id": "65b5be3b",
+      "bank_id": "00f45202",
+      "text": "Öfkeli"
+    },
+    {
+      "id": "65b62c07",
+      "bank_id": "00f45202",
+      "text": "Naomi"
+    },
+    {
+      "id": "660796e6",
+      "bank_id": "00f45202",
+      "text": "Heyecanlı"
+    },
+    {
+      "id": "660796ed",
+      "bank_id": "00f45202",
+      "text": "Heyecanlı"
+    },
+    {
+      "id": "66377b47",
+      "bank_id": "00f45202",
+      "text": "Benjamin"
+    },
+    {
+      "id": "67997370",
+      "bank_id": "00f45202",
+      "text": "Mickey"
+    },
+    {
+      "id": "6843db27",
+      "bank_id": "00f45202",
+      "text": "Haydut"
+    },
+    {
+      "id": "69435afb",
+      "bank_id": "00f45202",
+      "text": "Teslimat Hedefi"
+    },
+    {
+      "id": "6944610a",
+      "bank_id": "00f45202",
+      "text": "Cyril"
+    },
+    {
+      "id": "694e9110",
+      "bank_id": "00f45202",
+      "text": "Unutkan"
+    },
+    {
+      "id": "694e911b",
+      "bank_id": "00f45202",
+      "text": "Unutkan"
+    },
+    {
+      "id": "696e21bd",
+      "bank_id": "00f45202",
+      "text": "Toby"
+    },
+    {
+      "id": "69898f44",
+      "bank_id": "00f45202",
+      "text": "Lucien'in ikinci komutanı."
+    },
+    {
+      "id": "6aea45af",
+      "bank_id": "00f45202",
+      "text": "Başkeşiş"
+    },
+    {
+      "id": "6afd7ac6",
+      "bank_id": "00f45202",
+      "text": "Victoria"
+    },
+    {
+      "id": "6b1a3ed7",
+      "bank_id": "00f45202",
+      "text": "Suikast Hedefi"
+    },
+    {
+      "id": "6b47d853",
+      "bank_id": "00f45202",
+      "text": "Max'ın ikiz kardeşi."
+    },
+    {
+      "id": "6c1d61ab",
+      "bank_id": "00f45202",
+      "text": "Hayat Kadını"
+    },
+    {
+      "id": "6c7a4d66",
+      "bank_id": "00f45202",
+      "text": "Balıkçı"
+    },
+    {
+      "id": "6cf2de3e",
+      "bank_id": "00f45202",
+      "text": "Tezgâh Satıcısı"
+    },
+    {
+      "id": "6d09e965",
+      "bank_id": "00f45202",
+      "text": "Jeremy"
+    },
+    {
+      "id": "6d65d837",
+      "bank_id": "00f45202",
+      "text": "Mahkûm"
+    },
+    {
+      "id": "6d972a58",
+      "bank_id": "00f45202",
+      "text": "Lady Grey"
+    },
+    {
+      "id": "6e452544",
+      "bank_id": "00f45202",
+      "text": "Perhizkâr"
+    },
+    {
+      "id": "6e45254f",
+      "bank_id": "00f45202",
+      "text": "Perhizkâr"
+    },
+    {
+      "id": "6e7b8185",
+      "bank_id": "00f45202",
+      "text": "Terry"
+    },
+    {
+      "id": "6e8d1bea",
+      "bank_id": "00f45202",
+      "text": "Köylü"
+    },
+    {
+      "id": "6e8fa263",
+      "bank_id": "00f45202",
+      "text": "Dengesiz"
+    },
+    {
+      "id": "6e8fa268",
+      "bank_id": "00f45202",
+      "text": "Dengesiz"
+    },
+    {
+      "id": "6ee66904",
+      "bank_id": "00f45202",
+      "text": "Bebek"
+    },
+    {
+      "id": "6f4416cc",
+      "bank_id": "00f45202",
+      "text": "Tüccar"
+    },
+    {
+      "id": "6fcc5822",
+      "bank_id": "00f45202",
+      "text": "Kule Muhafızı"
+    },
+    {
+      "id": "707ca8c4",
+      "bank_id": "00f45202",
+      "text": "Terzi"
+    },
+    {
+      "id": "708607a1",
+      "bank_id": "00f45202",
+      "text": "Sevimli"
+    },
+    {
+      "id": "708607aa",
+      "bank_id": "00f45202",
+      "text": "Sevimli"
+    },
+    {
+      "id": "709a4ca2",
+      "bank_id": "00f45202",
+      "text": "Sevecen"
+    },
+    {
+      "id": "709a4ca9",
+      "bank_id": "00f45202",
+      "text": "Sevecen"
+    },
+    {
+      "id": "72318d5c",
+      "bank_id": "00f45202",
+      "text": "Kutsal Peder"
+    },
+    {
+      "id": "72eeccee",
+      "bank_id": "00f45202",
+      "text": "Wilbur"
+    },
+    {
+      "id": "73678bc1",
+      "bank_id": "00f45202",
+      "text": "Şaşkın"
+    },
+    {
+      "id": "73678bca",
+      "bank_id": "00f45202",
+      "text": "Şaşkın"
+    },
+    {
+      "id": "738a2295",
+      "bank_id": "00f45202",
+      "text": "Rupert"
+    },
+    {
+      "id": "748b29c9",
+      "bank_id": "00f45202",
+      "text": "Penny"
+    },
+    {
+      "id": "75d1e3a9",
+      "bank_id": "00f45202",
+      "text": "Benjamin"
+    },
+    {
+      "id": "75fac198",
+      "bank_id": "00f45202",
+      "text": "Bay Blank"
+    },
+    {
+      "id": "76a98464",
+      "bank_id": "00f45202",
+      "text": "Need A. Name"
+    },
+    {
+      "id": "76d14047",
+      "bank_id": "00f45202",
+      "text": "Komutan"
+    },
+    {
+      "id": "77d50006",
+      "bank_id": "00f45202",
+      "text": "Kenneth"
+    },
+    {
+      "id": "785a54e4",
+      "bank_id": "00f45202",
+      "text": "Cemiyet için bölgesel insan kaynakları müdürü."
+    },
+    {
+      "id": "788f7f63",
+      "bank_id": "00f45202",
+      "text": "Kötü"
+    },
+    {
+      "id": "788f7f68",
+      "bank_id": "00f45202",
+      "text": "Kötü"
+    },
+    {
+      "id": "7a1b4676",
+      "bank_id": "00f45202",
+      "text": "Boğazkesen bir haydut."
+    },
+    {
+      "id": "7a8f835e",
+      "bank_id": "00f45202",
+      "text": "Bessie"
+    },
+    {
+      "id": "7af04f42",
+      "bank_id": "00f45202",
+      "text": "Gizemli"
+    },
+    {
+      "id": "7af04f49",
+      "bank_id": "00f45202",
+      "text": "Gizemli"
+    },
+    {
+      "id": "7b5df764",
+      "bank_id": "00f45202",
+      "text": "Boyle"
+    },
+    {
+      "id": "7b9cdde8",
+      "bank_id": "00f45202",
+      "text": "Magpie"
+    },
+    {
+      "id": "7cad3c8a",
+      "bank_id": "00f45202",
+      "text": "Susannah"
+    },
+    {
+      "id": "7d25d5f7",
+      "bank_id": "00f45202",
+      "text": "Müphem"
+    },
+    {
+      "id": "7d25d5fc",
+      "bank_id": "00f45202",
+      "text": "Müphem"
+    },
+    {
+      "id": "7d70b277",
+      "bank_id": "00f45202",
+      "text": "Elizabeth"
+    },
+    {
+      "id": "7d8bb810",
+      "bank_id": "00f45202",
+      "text": "Çiftçi"
+    },
+    {
+      "id": "7e8baa54",
+      "bank_id": "00f45202",
+      "text": "Saf"
+    },
+    {
+      "id": "7e8baa5f",
+      "bank_id": "00f45202",
+      "text": "Saf"
+    },
+    {
+      "id": "7f6a8984",
+      "bank_id": "00f45202",
+      "text": "Sam'in ikiz kardeşi."
+    },
+    {
+      "id": "7fa800b1",
+      "bank_id": "00f45202",
+      "text": "Ruh Biçici, kutsal ve saf olan her şeyin belası."
+    },
+    {
+      "id": "7fef11a3",
+      "bank_id": "00f45202",
+      "text": "Gezgin Tüccar"
+    },
+    {
+      "id": "8067cf17",
+      "bank_id": "00f45202",
+      "text": "Ev Erkeği"
+    },
+    {
+      "id": "80c34a4d",
+      "bank_id": "00f45202",
+      "text": "Kaptan Raynards"
+    },
+    {
+      "id": "811dbf13",
+      "bank_id": "00f45202",
+      "text": "Yobaz"
+    },
+    {
+      "id": "811dbf18",
+      "bank_id": "00f45202",
+      "text": "Yobaz"
+    },
+    {
+      "id": "81b59e36",
+      "bank_id": "00f45202",
+      "text": "Yaşlı bir deniz kurdu."
+    },
+    {
+      "id": "821bc5f1",
+      "bank_id": "00f45202",
+      "text": "Meredith"
+    },
+    {
+      "id": "827f3917",
+      "bank_id": "00f45202",
+      "text": "Esprili"
+    },
+    {
+      "id": "827f391c",
+      "bank_id": "00f45202",
+      "text": "Esprili"
+    },
+    {
+      "id": "83e7a308",
+      "bank_id": "00f45202",
+      "text": "Tombul"
+    },
+    {
+      "id": "85752a52",
+      "bank_id": "00f45202",
+      "text": "Eğlenceyi Seven"
+    },
+    {
+      "id": "85752a59",
+      "bank_id": "00f45202",
+      "text": "Eğlenceyi Seven"
+    },
+    {
+      "id": "85f6b7a3",
+      "bank_id": "00f45202",
+      "text": "Sıradan"
+    },
+    {
+      "id": "85f6b7a8",
+      "bank_id": "00f45202",
+      "text": "Sıradan"
+    },
+    {
+      "id": "86130bbd",
+      "bank_id": "00f45202",
+      "text": "Köylü"
+    },
+    {
+      "id": "86283f46",
+      "bank_id": "00f45202",
+      "text": "İşveli"
+    },
+    {
+      "id": "86283f4d",
+      "bank_id": "00f45202",
+      "text": "İşveli"
+    },
+    {
+      "id": "8754960f",
+      "bank_id": "00f45202",
+      "text": "Hannah"
+    },
+    {
+      "id": "87c1e5d4",
+      "bank_id": "00f45202",
+      "text": "Sivil Sürgün Ajanı"
+    },
+    {
+      "id": "88266fd8",
+      "bank_id": "00f45202",
+      "text": "Çiftçi"
+    },
+    {
+      "id": "898c7425",
+      "bank_id": "00f45202",
+      "text": "Bağımlı"
+    },
+    {
+      "id": "898c742e",
+      "bank_id": "00f45202",
+      "text": "Bağımlı"
+    },
+    {
+      "id": "8b17e0a3",
+      "bank_id": "00f45202",
+      "text": "Komutan"
+    },
+    {
+      "id": "8b90fd6a",
+      "bank_id": "00f45202",
+      "text": "Rex"
+    },
+    {
+      "id": "8dac9393",
+      "bank_id": "00f45202",
+      "text": "Anormal"
+    },
+    {
+      "id": "8dac9398",
+      "bank_id": "00f45202",
+      "text": "Anormal"
+    },
+    {
+      "id": "8dcd4a73",
+      "bank_id": "00f45202",
+      "text": "Ethan"
+    },
+    {
+      "id": "8e8c0203",
+      "bank_id": "00f45202",
+      "text": "Pat"
+    },
+    {
+      "id": "8eeb078f",
+      "bank_id": "00f45202",
+      "text": "Dene"
+    },
+    {
+      "id": "8f1c5028",
+      "bank_id": "00f45202",
+      "text": "Kof Adam"
+    },
+    {
+      "id": "90a0c8d7",
+      "bank_id": "00f45202",
+      "text": "Kendine Güvenen"
+    },
+    {
+      "id": "90a0c8dc",
+      "bank_id": "00f45202",
+      "text": "Kendine Güvenen"
+    },
+    {
+      "id": "9105ec22",
+      "bank_id": "00f45202",
+      "text": "Cömert"
+    },
+    {
+      "id": "9105ec29",
+      "bank_id": "00f45202",
+      "text": "Cömert"
+    },
+    {
+      "id": "91e3b343",
+      "bank_id": "00f45202",
+      "text": "Bir girişimci."
+    },
+    {
+      "id": "9276d6f2",
+      "bank_id": "00f45202",
+      "text": "Eski Kafalı"
+    },
+    {
+      "id": "9276d6f9",
+      "bank_id": "00f45202",
+      "text": "Eski Kafalı"
+    },
+    {
+      "id": "92dd6842",
+      "bank_id": "00f45202",
+      "text": "Yargıç"
+    },
+    {
+      "id": "92e06fcc",
+      "bank_id": "00f45202",
+      "text": "Jacksap"
+    },
+    {
+      "id": "94153e83",
+      "bank_id": "00f45202",
+      "text": "Kraliyet Tabibi"
+    },
+    {
+      "id": "9437fc7b",
+      "bank_id": "00f45202",
+      "text": "Betty"
+    },
+    {
+      "id": "94d92167",
+      "bank_id": "00f45202",
+      "text": "Müsrif"
+    },
+    {
+      "id": "94d9216c",
+      "bank_id": "00f45202",
+      "text": "Müsrif"
+    },
+    {
+      "id": "95ab06c5",
+      "bank_id": "00f45202",
+      "text": "Muhafız Kaptanı"
+    },
+    {
+      "id": "95dc2e62",
+      "bank_id": "00f45202",
+      "text": "Ham"
+    },
+    {
+      "id": "95dc2e69",
+      "bank_id": "00f45202",
+      "text": "Ham"
+    },
+    {
+      "id": "977d0783",
+      "bank_id": "00f45202",
+      "text": "Enerjik"
+    },
+    {
+      "id": "977d0788",
+      "bank_id": "00f45202",
+      "text": "Enerjik"
+    },
+    {
+      "id": "9788c109",
+      "bank_id": "00f45202",
+      "text": "Max"
+    },
+    {
+      "id": "997fba19",
+      "bank_id": "00f45202",
+      "text": "Alex"
+    },
+    {
+      "id": "99ede5b1",
+      "bank_id": "00f45202",
+      "text": "Arena Organizatörü"
+    },
+    {
+      "id": "9a2a0eb0",
+      "bank_id": "00f45202",
+      "text": "İtaatkâr"
+    },
+    {
+      "id": "9a2a0ebb",
+      "bank_id": "00f45202",
+      "text": "İtaatkâr"
+    },
+    {
+      "id": "9b078ce2",
+      "bank_id": "00f45202",
+      "text": "Derek"
+    },
+    {
+      "id": "9bf83e62",
+      "bank_id": "00f45202",
+      "text": "Gönülsüz bir çiftçi."
+    },
+    {
+      "id": "9d60fe83",
+      "bank_id": "00f45202",
+      "text": "Duygusuz"
+    },
+    {
+      "id": "9d60fe88",
+      "bank_id": "00f45202",
+      "text": "Duygusuz"
+    },
+    {
+      "id": "9e5ab2ce",
+      "bank_id": "00f45202",
+      "text": "Lord Lucien"
+    },
+    {
+      "id": "9f038867",
+      "bank_id": "00f45202",
+      "text": "Terzi"
+    },
+    {
+      "id": "a0c1f510",
+      "bank_id": "00f45202",
+      "text": "Friedrich"
+    },
+    {
+      "id": "a184a2b7",
+      "bank_id": "00f45202",
+      "text": "Norbert"
+    },
+    {
+      "id": "a1b01f6c",
+      "bank_id": "00f45202",
+      "text": "Monty"
+    },
+    {
+      "id": "a1c1f683",
+      "bank_id": "00f45202",
+      "text": "Fyodor"
+    },
+    {
+      "id": "a2c1f876",
+      "bank_id": "00f45202",
+      "text": "Isaac"
+    },
+    {
+      "id": "a3821827",
+      "bank_id": "00f45202",
+      "text": "Haw"
+    },
+    {
+      "id": "a3c1f9e9",
+      "bank_id": "00f45202",
+      "text": "Arthur"
+    },
+    {
+      "id": "a3cc29c9",
+      "bank_id": "00f45202",
+      "text": "Hans"
+    },
+    {
+      "id": "a463e1fb",
+      "bank_id": "00f45202",
+      "text": "Tarot Falcısı"
+    },
+    {
+      "id": "a474fe52",
+      "bank_id": "00f45202",
+      "text": "Fairfax Kalesi Lordu."
+    },
+    {
+      "id": "a4ac2766",
+      "bank_id": "00f45202",
+      "text": "Kaba"
+    },
+    {
+      "id": "a4ac276d",
+      "bank_id": "00f45202",
+      "text": "Kaba"
+    },
+    {
+      "id": "a4c1fb5c",
+      "bank_id": "00f45202",
+      "text": "Desmond"
+    },
+    {
+      "id": "a5329688",
+      "bank_id": "00f45202",
+      "text": "Dilenci"
+    },
+    {
+      "id": "a5780a96",
+      "bank_id": "00f45202",
+      "text": "Ayyaş"
+    },
+    {
+      "id": "a5780a9d",
+      "bank_id": "00f45202",
+      "text": "Ayyaş"
+    },
+    {
+      "id": "a5c1fccf",
+      "bank_id": "00f45202",
+      "text": "Kelvin"
+    },
+    {
+      "id": "a64a210c",
+      "bank_id": "00f45202",
+      "text": "Bay Chips"
+    },
+    {
+      "id": "a6c1fea2",
+      "bank_id": "00f45202",
+      "text": "Mylo"
+    },
+    {
+      "id": "a6fdc0d2",
+      "bank_id": "00f45202",
+      "text": "Gezgin Oyun Ustası"
+    },
+    {
+      "id": "a72cf82b",
+      "bank_id": "00f45202",
+      "text": "Quentin"
+    },
+    {
+      "id": "a7c20015",
+      "bank_id": "00f45202",
+      "text": "Karl"
+    },
+    {
+      "id": "a7fb8ca1",
+      "bank_id": "00f45202",
+      "text": "Çekilmez"
+    },
+    {
+      "id": "a7fb8caa",
+      "bank_id": "00f45202",
+      "text": "Çekilmez"
+    },
+    {
+      "id": "a91269b2",
+      "bank_id": "00f45202",
+      "text": "Habis"
+    },
+    {
+      "id": "a91269b9",
+      "bank_id": "00f45202",
+      "text": "Habis"
+    },
+    {
+      "id": "a9499607",
+      "bank_id": "00f45202",
+      "text": "Nazik"
+    },
+    {
+      "id": "a949960c",
+      "bank_id": "00f45202",
+      "text": "Nazik"
+    },
+    {
+      "id": "a9757122",
+      "bank_id": "00f45202",
+      "text": "Gerald"
+    },
+    {
+      "id": "a9c441d2",
+      "bank_id": "00f45202",
+      "text": "Raskolnikov"
+    },
+    {
+      "id": "aac44345",
+      "bank_id": "00f45202",
+      "text": "Sigmund"
+    },
+    {
+      "id": "ab0f8582",
+      "bank_id": "00f45202",
+      "text": "Kaba"
+    },
+    {
+      "id": "ab0f8589",
+      "bank_id": "00f45202",
+      "text": "Kaba"
+    },
+    {
+      "id": "ab4a7485",
+      "bank_id": "00f45202",
+      "text": "Mutlu"
+    },
+    {
+      "id": "ab4a748e",
+      "bank_id": "00f45202",
+      "text": "Mutlu"
+    },
+    {
+      "id": "ab688d6c",
+      "bank_id": "00f45202",
+      "text": "Ben"
+    },
+    {
+      "id": "ab688d74",
+      "bank_id": "00f45202",
+      "text": "Bev"
+    },
+    {
+      "id": "ab783c9e",
+      "bank_id": "00f45202",
+      "text": "Aristokrat"
+    },
+    {
+      "id": "abba95ab",
+      "bank_id": "00f45202",
+      "text": "Kuaför"
+    },
+    {
+      "id": "abe2ec24",
+      "bank_id": "00f45202",
+      "text": "Koruma"
+    },
+    {
+      "id": "abf42f85",
+      "bank_id": "00f45202",
+      "text": "Dash"
+    },
+    {
+      "id": "acc20834",
+      "bank_id": "00f45202",
+      "text": "Salvador"
+    },
+    {
+      "id": "ad65cce7",
+      "bank_id": "00f45202",
+      "text": "Oyun Ustası"
+    },
+    {
+      "id": "ad87dc56",
+      "bank_id": "00f45202",
+      "text": "Willy"
+    },
+    {
+      "id": "adc209a7",
+      "bank_id": "00f45202",
+      "text": "Armando"
+    },
+    {
+      "id": "adea8df9",
+      "bank_id": "00f45202",
+      "text": "Garth"
+    },
+    {
+      "id": "ae6d7df1",
+      "bank_id": "00f45202",
+      "text": "Murgo"
+    },
+    {
+      "id": "ae79d06d",
+      "bank_id": "00f45202",
+      "text": "Mahkûm"
+    },
+    {
+      "id": "ae7a7633",
+      "bank_id": "00f45202",
+      "text": "Charles"
+    },
+    {
+      "id": "ae888e6b",
+      "bank_id": "00f45202",
+      "text": "Yorumcular"
+    },
+    {
+      "id": "affb2437",
+      "bank_id": "00f45202",
+      "text": "Adam"
+    },
+    {
+      "id": "b0939457",
+      "bank_id": "00f45202",
+      "text": "Dilenci"
+    },
+    {
+      "id": "b10c73b5",
+      "bank_id": "00f45202",
+      "text": "Pete"
+    },
+    {
+      "id": "b14bc4b5",
+      "bank_id": "00f45202",
+      "text": "Çömez Costello"
+    },
+    {
+      "id": "b16896d6",
+      "bank_id": "00f45202",
+      "text": "Bob"
+    },
+    {
+      "id": "b1a4df54",
+      "bank_id": "00f45202",
+      "text": "Nevrotik"
+    },
+    {
+      "id": "b1a4df5f",
+      "bank_id": "00f45202",
+      "text": "Nevrotik"
+    },
+    {
+      "id": "b29f210a",
+      "bank_id": "00f45202",
+      "text": "Frederick"
+    },
+    {
+      "id": "b2b123f9",
+      "bank_id": "00f45202",
+      "text": "Başkeşiş"
+    },
+    {
+      "id": "b2c17ec1",
+      "bank_id": "00f45202",
+      "text": "İri Göğüslü"
+    },
+    {
+      "id": "b348f764",
+      "bank_id": "00f45202",
+      "text": "Çekici"
+    },
+    {
+      "id": "b348f76f",
+      "bank_id": "00f45202",
+      "text": "Çekici"
+    },
+    {
+      "id": "b4ab00e0",
+      "bank_id": "00f45202",
+      "text": "Yaramaz"
+    },
+    {
+      "id": "b4ab00eb",
+      "bank_id": "00f45202",
+      "text": "Yaramaz"
+    },
+    {
+      "id": "b4f6b496",
+      "bank_id": "00f45202",
+      "text": "Korkak"
+    },
+    {
+      "id": "b4f6b49d",
+      "bank_id": "00f45202",
+      "text": "Korkak"
+    },
+    {
+      "id": "b57fadd1",
+      "bank_id": "00f45202",
+      "text": "Şehvetli"
+    },
+    {
+      "id": "b57fadda",
+      "bank_id": "00f45202",
+      "text": "Şehvetli"
+    },
+    {
+      "id": "b5852fb7",
+      "bank_id": "00f45202",
+      "text": "Erdemli"
+    },
+    {
+      "id": "b5852fbc",
+      "bank_id": "00f45202",
+      "text": "Erdemli"
+    },
+    {
+      "id": "b6a984d6",
+      "bank_id": "00f45202",
+      "text": "Sokulgan"
+    },
+    {
+      "id": "b6a984dd",
+      "bank_id": "00f45202",
+      "text": "Sokulgan"
+    },
+    {
+      "id": "b73014b4",
+      "bank_id": "00f45202",
+      "text": "Düzenbaz"
+    },
+    {
+      "id": "b73014bf",
+      "bank_id": "00f45202",
+      "text": "Düzenbaz"
+    },
+    {
+      "id": "b78b320d",
+      "bank_id": "00f45202",
+      "text": "Lee"
+    },
+    {
+      "id": "b7936a60",
+      "bank_id": "00f45202",
+      "text": "Bilgili"
+    },
+    {
+      "id": "b7936a6b",
+      "bank_id": "00f45202",
+      "text": "Bilgili"
+    },
+    {
+      "id": "b8937ba3",
+      "bank_id": "00f45202",
+      "text": "Carl"
+    },
+    {
+      "id": "b9c03f81",
+      "bank_id": "00f45202",
+      "text": "Seçkin"
+    },
+    {
+      "id": "b9c03f8a",
+      "bank_id": "00f45202",
+      "text": "Seçkin"
+    },
+    {
+      "id": "ba734b67",
+      "bank_id": "00f45202",
+      "text": "Korkmuş"
+    },
+    {
+      "id": "ba734b6c",
+      "bank_id": "00f45202",
+      "text": "Korkmuş"
+    },
+    {
+      "id": "ba7a8901",
+      "bank_id": "00f45202",
+      "text": "Charlie"
+    },
+    {
+      "id": "bb140fbf",
+      "bank_id": "00f45202",
+      "text": "Koca Ed"
+    },
+    {
+      "id": "be180c47",
+      "bank_id": "00f45202",
+      "text": "Bağnaz"
+    },
+    {
+      "id": "be180c4c",
+      "bank_id": "00f45202",
+      "text": "Bağnaz"
+    },
+    {
+      "id": "be5d6c2a",
+      "bank_id": "00f45202",
+      "text": "Acımasız bir dolandırıcı."
+    },
+    {
+      "id": "beb6af03",
+      "bank_id": "00f45202",
+      "text": "Haydut"
+    },
+    {
+      "id": "becc762d",
+      "bank_id": "00f45202",
+      "text": "Kasa Taşıyıcısı"
+    },
+    {
+      "id": "bf6bb198",
+      "bank_id": "00f45202",
+      "text": "Digby"
+    },
+    {
+      "id": "c062dc07",
+      "bank_id": "00f45202",
+      "text": "Taş Ustası"
+    },
+    {
+      "id": "c09ef667",
+      "bank_id": "00f45202",
+      "text": "Ürkütücü"
+    },
+    {
+      "id": "c09ef66c",
+      "bank_id": "00f45202",
+      "text": "Ürkütücü"
+    },
+    {
+      "id": "c11abd83",
+      "bank_id": "00f45202",
+      "text": "İffetli"
+    },
+    {
+      "id": "c11abd88",
+      "bank_id": "00f45202",
+      "text": "İffetli"
+    },
+    {
+      "id": "c1496945",
+      "bank_id": "00f45202",
+      "text": "Tommy"
+    },
+    {
+      "id": "c1df78a1",
+      "bank_id": "00f45202",
+      "text": "Çingene"
+    },
+    {
+      "id": "c2f9bfc7",
+      "bank_id": "00f45202",
+      "text": "Korku Seven"
+    },
+    {
+      "id": "c2f9bfcc",
+      "bank_id": "00f45202",
+      "text": "Korku Seven"
+    },
+    {
+      "id": "c45f1bc5",
+      "bank_id": "00f45202",
+      "text": "Zengin aylak"
+    },
+    {
+      "id": "c45fef07",
+      "bank_id": "00f45202",
+      "text": "Hırslı"
+    },
+    {
+      "id": "c45fef0c",
+      "bank_id": "00f45202",
+      "text": "Hırslı"
+    },
+    {
+      "id": "c4813aa5",
+      "bank_id": "00f45202",
+      "text": "Alıngan"
+    },
+    {
+      "id": "c4813aae",
+      "bank_id": "00f45202",
+      "text": "Alıngan"
+    },
+    {
+      "id": "c4af90af",
+      "bank_id": "00f45202",
+      "text": "Meredith"
+    },
+    {
+      "id": "c58fff35",
+      "bank_id": "00f45202",
+      "text": "Şefkatli"
+    },
+    {
+      "id": "c58fff3e",
+      "bank_id": "00f45202",
+      "text": "Şefkatli"
+    },
+    {
+      "id": "c5a882e7",
+      "bank_id": "00f45202",
+      "text": "Saf"
+    },
+    {
+      "id": "c5a882ec",
+      "bank_id": "00f45202",
+      "text": "Saf"
+    },
+    {
+      "id": "c5c72783",
+      "bank_id": "00f45202",
+      "text": "Hacı"
+    },
+    {
+      "id": "c63d2338",
+      "bank_id": "00f45202",
+      "text": "Taş Ustası"
+    },
+    {
+      "id": "c659d115",
+      "bank_id": "00f45202",
+      "text": "Regina"
+    },
+    {
+      "id": "c666b963",
+      "bank_id": "00f45202",
+      "text": "Aptalca"
+    },
+    {
+      "id": "c666b968",
+      "bank_id": "00f45202",
+      "text": "Aptalca"
+    },
+    {
+      "id": "c677db05",
+      "bank_id": "00f45202",
+      "text": "Alaycı"
+    },
+    {
+      "id": "c677db0e",
+      "bank_id": "00f45202",
+      "text": "Alaycı"
+    },
+    {
+      "id": "c680edde",
+      "bank_id": "00f45202",
+      "text": "Horace"
+    },
+    {
+      "id": "c7ccda71",
+      "bank_id": "00f45202",
+      "text": "Kas Seven"
+    },
+    {
+      "id": "c7ccda7a",
+      "bank_id": "00f45202",
+      "text": "Kas Seven"
+    },
+    {
+      "id": "c81241ac",
+      "bank_id": "00f45202",
+      "text": "Kuaför"
+    },
+    {
+      "id": "c88569bd",
+      "bank_id": "00f45202",
+      "text": "Kuduz 'Boğucu' McGraw"
+    },
+    {
+      "id": "c8e61570",
+      "bank_id": "00f45202",
+      "text": "Angus"
+    },
+    {
+      "id": "c9e7041e",
+      "bank_id": "00f45202",
+      "text": "Dükkân Sahibi"
+    },
+    {
+      "id": "ca0e7cb9",
+      "bank_id": "00f45202",
+      "text": "Tüccar"
+    },
+    {
+      "id": "ca2b07a2",
+      "bank_id": "00f45202",
+      "text": "Herman"
+    },
+    {
+      "id": "caabf774",
+      "bank_id": "00f45202",
+      "text": "Onurlu"
+    },
+    {
+      "id": "caabf77f",
+      "bank_id": "00f45202",
+      "text": "Onurlu"
+    },
+    {
+      "id": "cad0bdac",
+      "bank_id": "00f45202",
+      "text": "Muhafız"
+    },
+    {
+      "id": "cadf937f",
+      "bank_id": "00f45202",
+      "text": "Albion'daki en yeteneksiz şahıs."
+    },
+    {
+      "id": "cbf533bc",
+      "bank_id": "00f45202",
+      "text": "Ozan"
+    },
+    {
+      "id": "cc07e9ae",
+      "bank_id": "00f45202",
+      "text": "Dick"
+    },
+    {
+      "id": "cc3a6d62",
+      "bank_id": "00f45202",
+      "text": "Kas Düşmanı"
+    },
+    {
+      "id": "cc3a6d69",
+      "bank_id": "00f45202",
+      "text": "Kas Düşmanı"
+    },
+    {
+      "id": "cc5c2c74",
+      "bank_id": "00f45202",
+      "text": "İrade Ustası."
+    },
+    {
+      "id": "cc8e8a97",
+      "bank_id": "00f45202",
+      "text": "Pis"
+    },
+    {
+      "id": "cc8e8a9c",
+      "bank_id": "00f45202",
+      "text": "Pis"
+    },
+    {
+      "id": "ccc19806",
+      "bank_id": "00f45202",
+      "text": "Korkusuz"
+    },
+    {
+      "id": "ccc1980d",
+      "bank_id": "00f45202",
+      "text": "Korkusuz"
+    },
+    {
+      "id": "ccc3c30d",
+      "bank_id": "00f45202",
+      "text": "Haydut Lideri"
+    },
+    {
+      "id": "cdebe960",
+      "bank_id": "00f45202",
+      "text": "Perişan Anne"
+    },
+    {
+      "id": "ce1a2802",
+      "bank_id": "00f45202",
+      "text": "Tatlı Dilli Büyücü."
+    },
+    {
+      "id": "ce84f6ba",
+      "bank_id": "00f45202",
+      "text": "Kaptan Dread"
+    },
+    {
+      "id": "ceb5e898",
+      "bank_id": "00f45202",
+      "text": "Ron"
+    },
+    {
+      "id": "cf9e7cbe",
+      "bank_id": "00f45202",
+      "text": "Dövmeci"
+    },
+    {
+      "id": "d089eca1",
+      "bank_id": "00f45202",
+      "text": "Gölge Yargıcı"
+    },
+    {
+      "id": "d10b570c",
+      "bank_id": "00f45202",
+      "text": "Doktor"
+    },
+    {
+      "id": "d111e5a4",
+      "bank_id": "00f45202",
+      "text": "Eril"
+    },
+    {
+      "id": "d111e5af",
+      "bank_id": "00f45202",
+      "text": "Eril"
+    },
+    {
+      "id": "d1b34686",
+      "bank_id": "00f45202",
+      "text": "Erkeksi"
+    },
+    {
+      "id": "d1b3468d",
+      "bank_id": "00f45202",
+      "text": "Erkeksi"
+    },
+    {
+      "id": "d261e42b",
+      "bank_id": "00f45202",
+      "text": "Roland"
+    },
+    {
+      "id": "d39f81b4",
+      "bank_id": "00f45202",
+      "text": "Korkak"
+    },
+    {
+      "id": "d39f81bf",
+      "bank_id": "00f45202",
+      "text": "Korkak"
+    },
+    {
+      "id": "d3c45fe4",
+      "bank_id": "00f45202",
+      "text": "Belle Rennock"
+    },
+    {
+      "id": "d3d49447",
+      "bank_id": "00f45202",
+      "text": "Üzgün"
+    },
+    {
+      "id": "d3d4944c",
+      "bank_id": "00f45202",
+      "text": "Üzgün"
+    },
+    {
+      "id": "d3d9258a",
+      "bank_id": "00f45202",
+      "text": "Reaver"
+    },
+    {
+      "id": "d40be0d2",
+      "bank_id": "00f45202",
+      "text": "Henry"
+    },
+    {
+      "id": "d420ad86",
+      "bank_id": "00f45202",
+      "text": "Sevgi Dolu"
+    },
+    {
+      "id": "d420ad8d",
+      "bank_id": "00f45202",
+      "text": "Sevgi Dolu"
+    },
+    {
+      "id": "d4271615",
+      "bank_id": "00f45202",
+      "text": "Lilith"
+    },
+    {
+      "id": "d4e08ca3",
+      "bank_id": "00f45202",
+      "text": "İrade Seven"
+    },
+    {
+      "id": "d4e08ca8",
+      "bank_id": "00f45202",
+      "text": "İrade Seven"
+    },
+    {
+      "id": "d50be245",
+      "bank_id": "00f45202",
+      "text": "Aksi"
+    },
+    {
+      "id": "d60baae9",
+      "bank_id": "00f45202",
+      "text": "Kuyumcu"
+    },
+    {
+      "id": "d60be438",
+      "bank_id": "00f45202",
+      "text": "Ethan"
+    },
+    {
+      "id": "d6345611",
+      "bank_id": "00f45202",
+      "text": "Dangalak"
+    },
+    {
+      "id": "d70be5ab",
+      "bank_id": "00f45202",
+      "text": "Alvar"
+    },
+    {
+      "id": "d79a74d2",
+      "bank_id": "00f45202",
+      "text": "Endişeli bir büyükanne."
+    },
+    {
+      "id": "d7c1e539",
+      "bank_id": "00f45202",
+      "text": "Bloodstone Korsan Kralı. Albion'un en iyi nişancısı."
+    },
+    {
+      "id": "d9d1c267",
+      "bank_id": "00f45202",
+      "text": "Kıskanç"
+    },
+    {
+      "id": "d9d1c26c",
+      "bank_id": "00f45202",
+      "text": "Kıskanç"
+    },
+    {
+      "id": "d9f2ed4a",
+      "bank_id": "00f45202",
+      "text": "Charlton"
+    },
+    {
+      "id": "dae34361",
+      "bank_id": "00f45202",
+      "text": "Fabrika Sahibi"
+    },
+    {
+      "id": "db0bebd7",
+      "bank_id": "00f45202",
+      "text": "Zalim Jack"
+    },
+    {
+      "id": "db18d50c",
+      "bank_id": "00f45202",
+      "text": "Teslimat Görevi Veren"
+    },
+    {
+      "id": "db2681fe",
+      "bank_id": "00f45202",
+      "text": "Işık Tapınağı'nın lideri."
+    },
+    {
+      "id": "db43f21f",
+      "bank_id": "00f45202",
+      "text": "Gölgeler Yüksek Rahibi."
+    },
+    {
+      "id": "dbf9e061",
+      "bank_id": "00f45202",
+      "text": "Hiççi"
+    },
+    {
+      "id": "dbf9e06a",
+      "bank_id": "00f45202",
+      "text": "Hiççi"
+    },
+    {
+      "id": "dce8fce3",
+      "bank_id": "00f45202",
+      "text": "Tekin Olmayan Dave"
+    },
+    {
+      "id": "ddf80cb3",
+      "bank_id": "00f45202",
+      "text": "Canlı"
+    },
+    {
+      "id": "ddf80cb8",
+      "bank_id": "00f45202",
+      "text": "Canlı"
+    },
+    {
+      "id": "de1d10ae",
+      "bank_id": "00f45202",
+      "text": "Çingene"
+    },
+    {
+      "id": "de1dd170",
+      "bank_id": "00f45202",
+      "text": "Komik"
+    },
+    {
+      "id": "de1dd17b",
+      "bank_id": "00f45202",
+      "text": "Komik"
+    },
+    {
+      "id": "ded4ee31",
+      "bank_id": "00f45202",
+      "text": "Kararlı"
+    },
+    {
+      "id": "ded4ee3a",
+      "bank_id": "00f45202",
+      "text": "Kararlı"
+    },
+    {
+      "id": "deea8e98",
+      "bank_id": "00f45202",
+      "text": "Mobilya Satıcısı"
+    },
+    {
+      "id": "dfdb91a1",
+      "bank_id": "00f45202",
+      "text": "İradeden Korkan"
+    },
+    {
+      "id": "dfdb91aa",
+      "bank_id": "00f45202",
+      "text": "İradeden Korkan"
+    },
+    {
+      "id": "e37d4719",
+      "bank_id": "00f45202",
+      "text": "Çile Organizatörü"
+    },
+    {
+      "id": "e38db66e",
+      "bank_id": "00f45202",
+      "text": "Sam"
+    },
+    {
+      "id": "e4aa7eb5",
+      "bank_id": "00f45202",
+      "text": "Martin"
+    },
+    {
+      "id": "e59f5f16",
+      "bank_id": "00f45202",
+      "text": "Tembel"
+    },
+    {
+      "id": "e59f5f1d",
+      "bank_id": "00f45202",
+      "text": "Tembel"
+    },
+    {
+      "id": "e5f49dd0",
+      "bank_id": "00f45202",
+      "text": "İrade Düşmanı"
+    },
+    {
+      "id": "e5f49ddb",
+      "bank_id": "00f45202",
+      "text": "İrade Düşmanı"
+    },
+    {
+      "id": "e66512e7",
+      "bank_id": "00f45202",
+      "text": "Mobilya Satıcısı"
+    },
+    {
+      "id": "e668b1a2",
+      "bank_id": "00f45202",
+      "text": "Tur Rehberi"
+    },
+    {
+      "id": "e72e394b",
+      "bank_id": "00f45202",
+      "text": "Tüccar"
+    },
+    {
+      "id": "e7855521",
+      "bank_id": "00f45202",
+      "text": "Haydut Lideri"
+    },
+    {
+      "id": "e8803e80",
+      "bank_id": "00f45202",
+      "text": "Soğuk"
+    },
+    {
+      "id": "e8803e8b",
+      "bank_id": "00f45202",
+      "text": "Soğuk"
+    },
+    {
+      "id": "e9fd610d",
+      "bank_id": "00f45202",
+      "text": "Stanley"
+    },
+    {
+      "id": "eb30ac72",
+      "bank_id": "00f45202",
+      "text": "Kolay"
+    },
+    {
+      "id": "eb30ac79",
+      "bank_id": "00f45202",
+      "text": "Kolay"
+    },
+    {
+      "id": "eb8dc2ff",
+      "bank_id": "00f45202",
+      "text": "Sid"
+    },
+    {
+      "id": "ed802dd1",
+      "bank_id": "00f45202",
+      "text": "Ev Hanımı"
+    },
+    {
+      "id": "ef4cd526",
+      "bank_id": "00f45202",
+      "text": "Norman"
+    },
+    {
+      "id": "ef6559e5",
+      "bank_id": "00f45202",
+      "text": "Maddeci"
+    },
+    {
+      "id": "ef6559ee",
+      "bank_id": "00f45202",
+      "text": "Maddeci"
+    },
+    {
+      "id": "efc85417",
+      "bank_id": "00f45202",
+      "text": "Hayır Görevlisi"
+    },
+    {
+      "id": "f073e81c",
+      "bank_id": "00f45202",
+      "text": "Ernie"
+    },
+    {
+      "id": "f09ae493",
+      "bank_id": "00f45202",
+      "text": "Huysuz"
+    },
+    {
+      "id": "f09ae498",
+      "bank_id": "00f45202",
+      "text": "Huysuz"
+    },
+    {
+      "id": "f19f1503",
+      "bank_id": "00f45202",
+      "text": "Tom"
+    },
+    {
+      "id": "f232d157",
+      "bank_id": "00f45202",
+      "text": "Kız kardeşin."
+    },
+    {
+      "id": "f2a56d3c",
+      "bank_id": "00f45202",
+      "text": "Keşiş"
+    },
+    {
+      "id": "f42a9a59",
+      "bank_id": "00f45202",
+      "text": "İşsiz"
+    },
+    {
+      "id": "f4517d9e",
+      "bank_id": "00f45202",
+      "text": "Gorgoron"
+    },
+    {
+      "id": "f4bb2ece",
+      "bank_id": "00f45202",
+      "text": "Earl"
+    },
+    {
+      "id": "f50eaa7f",
+      "bank_id": "00f45202",
+      "text": "Haydut"
+    },
+    {
+      "id": "f5c2efba",
+      "bank_id": "00f45202",
+      "text": "Amatör bir maceracı."
+    },
+    {
+      "id": "f5f320f4",
+      "bank_id": "00f45202",
+      "text": "Uzun yıllardır hizmet veren bir uşak."
+    },
+    {
+      "id": "f69ccd83",
+      "bank_id": "00f45202",
+      "text": "Cahil"
+    },
+    {
+      "id": "f69ccd88",
+      "bank_id": "00f45202",
+      "text": "Cahil"
+    },
+    {
+      "id": "f721ce2f",
+      "bank_id": "00f45202",
+      "text": "Frank"
+    },
+    {
+      "id": "f7883066",
+      "bank_id": "00f45202",
+      "text": "Bunalımlı"
+    },
+    {
+      "id": "f788306d",
+      "bank_id": "00f45202",
+      "text": "Bunalımlı"
+    },
+    {
+      "id": "f7f2e513",
+      "bank_id": "00f45202",
+      "text": "Masraflı"
+    },
+    {
+      "id": "f7f2e518",
+      "bank_id": "00f45202",
+      "text": "Masraflı"
+    },
+    {
+      "id": "f7fd521b",
+      "bank_id": "00f45202",
+      "text": "Zachary"
+    },
+    {
+      "id": "f8b039a9",
+      "bank_id": "00f45202",
+      "text": "Lucien"
+    },
+    {
+      "id": "fa7f1291",
+      "bank_id": "00f45202",
+      "text": "Aristokrat"
+    },
+    {
+      "id": "faa96bd9",
+      "bank_id": "00f45202",
+      "text": "Theresa"
+    },
+    {
+      "id": "facbae0e",
+      "bank_id": "00f45202",
+      "text": "Çile yorumcusu."
+    },
+    {
+      "id": "fbb3c48a",
+      "bank_id": "00f45202",
+      "text": "Rahibe Hannah"
+    },
+    {
+      "id": "fbdfff24",
+      "bank_id": "00f45202",
+      "text": "Neşeli"
+    },
+    {
+      "id": "fbdfff2f",
+      "bank_id": "00f45202",
+      "text": "Neşeli"
+    },
+    {
+      "id": "fbf72a5a",
+      "bank_id": "00f45202",
+      "text": "Kasa Taşıyıcısı"
+    },
+    {
+      "id": "fc18aba6",
+      "bank_id": "00f45202",
+      "text": "Hayalet"
+    },
+    {
+      "id": "fda52d82",
+      "bank_id": "00f45202",
+      "text": "Mezar Bekçisi"
+    },
+    {
+      "id": "fe5de5de",
+      "bank_id": "00f45202",
+      "text": "Sihirbaz"
+    },
+    {
+      "id": "fea05d1b",
+      "bank_id": "00f45202",
+      "text": "Filbert"
+    },
+    {
+      "id": "ffc92827",
+      "bank_id": "00f45202",
+      "text": "Çekici"
+    },
+    {
+      "id": "ffc9282c",
+      "bank_id": "00f45202",
+      "text": "Çekici"
+    }
+  ]
+}

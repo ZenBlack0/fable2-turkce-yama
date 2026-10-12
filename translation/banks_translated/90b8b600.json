@@ -1,0 +1,641 @@
+{
+  "bank_id": "90b8b600",
+  "total_strings": 127,
+  "strings": [
+    {
+      "id": "0387c8e0",
+      "bank_id": "90b8b600",
+      "text": "Ve onun karanlık, çarpık özü eline hakikaten çok kötü şeyler yapman için rehberlik etsin."
+    },
+    {
+      "id": "0687cdb9",
+      "bank_id": "90b8b600",
+      "text": "Gölgeleri başka hiç kimsenin memnun edemeyeceği kadar hoşnut ettin. Senden daha günahkâr kimse yok. Ödülün olarak bu silahı al."
+    },
+    {
+      "id": "10e61ec8",
+      "bank_id": "90b8b600",
+      "text": "Mistik güneş tam tepedeyken büyük bir bağış yapın."
+    },
+    {
+      "id": "13e62381",
+      "bank_id": "90b8b600",
+      "text": "Işık Tapınağı'na altın bağışlayın."
+    },
+    {
+      "id": "15b46db5",
+      "bank_id": "90b8b600",
+      "text": "Öz be öz eşin ha! Senin o üstün kötülüğünün önünde saygıyla eğiliyorum. Gerçi onu Kutsalsız Kötülük Ayini'ne saklayabilirdin ama yine de bravo."
+    },
+    {
+      "id": "22ef9c61",
+      "bank_id": "90b8b600",
+      "text": "Kurban etmek için kolu çekin."
+    },
+    {
+      "id": "22ef9c64",
+      "bank_id": "90b8b600",
+      "text": "Mistik gece yarısı vaktinde hakikaten şeytani bir kurban verin."
+    },
+    {
+      "id": "256b39d2",
+      "bank_id": "90b8b600",
+      "text": "Nereye gidiyorsun?"
+    },
+    {
+      "id": "2bbfd74a",
+      "bank_id": "90b8b600",
+      "text": "Ahlak: +%1"
+    },
+    {
+      "id": "35c6e276",
+      "bank_id": "90b8b600",
+      "text": "Bunun için en günahkâr saatlerde kurbanların en iğrencini vermelisiniz. Bol şans!"
+    },
+    {
+      "id": "37c6e55c",
+      "bank_id": "90b8b600",
+      "text": "Hatta o kadar çok sadakat puanın var ki ödül sistemimizden tam anlamıyla yararlanmaya sadece bir adım uzaktasın."
+    },
+    {
+      "id": "38c6e6cf",
+      "bank_id": "90b8b600",
+      "text": "Evet... Kutsalsız Kötülük Ayini'ne katılma şerefini kazandınız."
+    },
+    {
+      "id": "39e7117b",
+      "bank_id": "90b8b600",
+      "text": "Gölgeler Tapınağı'ndaki Feleğin Çarkı'nda müritleri kurban edin."
+    },
+    {
+      "id": "3a12c7a4",
+      "bank_id": "90b8b600",
+      "text": "O pis huysuz Gölgelerin bundan pek etkileneceğini sanmıyorum."
+    },
+    {
+      "id": "3ac6ea15",
+      "bank_id": "90b8b600",
+      "text": "Şunu söylemeliyim ki, bütün ahbaplar şimdiye kadarki kurbanlarından epey etkilendi."
+    },
+    {
+      "id": "3c12ca8a",
+      "bank_id": "90b8b600",
+      "text": "Gölgeler epey açgözlüdür biliyorsun. Bu ancak bir atıştırmalık sayılır."
+    },
+    {
+      "id": "3d12cc7d",
+      "bank_id": "90b8b600",
+      "text": "Gölgeleri memnun etmek istiyorsan bundan çok daha fazla acıya sebep olman lazım."
+    },
+    {
+      "id": "3ec94faf",
+      "bank_id": "90b8b600",
+      "text": "Işığa Bağış Yapmak"
+    },
+    {
+      "id": "41122c80",
+      "bank_id": "90b8b600",
+      "text": "Işık Tapınağı'na bağış yapın."
+    },
+    {
+      "id": "419887f4",
+      "bank_id": "90b8b600",
+      "text": "Ne? Anlamıyorum... Bu... hepsi bir tuzak mıydı yani? Hayır, bu gerçek olamaz. Gerçek olamaz bu. Hayır!"
+    },
+    {
+      "id": "4213e40b",
+      "bank_id": "90b8b600",
+      "text": "Gölgeye Dönüştür"
+    },
+    {
+      "id": "4338ac34",
+      "bank_id": "90b8b600",
+      "text": "Çark için bir kurban daha ha? Pek âlâ."
+    },
+    {
+      "id": "4438ada7",
+      "bank_id": "90b8b600",
+      "text": "Kurbanların arkasını kesme dostum."
+    },
+    {
+      "id": "44988c4d",
+      "bank_id": "90b8b600",
+      "text": "Bu da ne?"
+    },
+    {
+      "id": "4638b08d",
+      "bank_id": "90b8b600",
+      "text": "Ah, bir kurban daha görüyorum. Şahane."
+    },
+    {
+      "id": "484b51d1",
+      "bank_id": "90b8b600",
+      "text": "Kazığa Oturt"
+    },
+    {
+      "id": "49caafc8",
+      "bank_id": "90b8b600",
+      "text": "Bedenime ne oldu böyle?!"
+    },
+    {
+      "id": "49caafca",
+      "bank_id": "90b8b600",
+      "text": "Bir şeyler ters gidiyor. Saçlarım mı uzadı benim az önce?"
+    },
+    {
+      "id": "49caafcb",
+      "bank_id": "90b8b600",
+      "text": "Göğüslerim var benim!"
+    },
+    {
+      "id": "49caafcc",
+      "bank_id": "90b8b600",
+      "text": "Pantolonum bomboş hissettiriyor. Neler oluyor?!"
+    },
+    {
+      "id": "49caafcd",
+      "bank_id": "90b8b600",
+      "text": "Aniden kendimi çok daha zeki hissetmeye başladım."
+    },
+    {
+      "id": "49caafce",
+      "bank_id": "90b8b600",
+      "text": "Bir kadınım ben! Bu artık daha uzun yaşayacağım anlamına mı geliyor?"
+    },
+    {
+      "id": "49caafcf",
+      "bank_id": "90b8b600",
+      "text": "IQ'mun az önce on puan birden fırladığına inanıyorum."
+    },
+    {
+      "id": "4a116ac0",
+      "bank_id": "90b8b600",
+      "text": "Benim için bir hediyen var mı?"
+    },
+    {
+      "id": "4b116cb3",
+      "bank_id": "90b8b600",
+      "text": "Lütfen, meraktan çatlayacağım! Ne var orada?"
+    },
+    {
+      "id": "4d116f99",
+      "bank_id": "90b8b600",
+      "text": "Elindeki ne öyle?"
+    },
+    {
+      "id": "4e36dddf",
+      "bank_id": "90b8b600",
+      "text": "Her bağış size bilgelik ve iç huzuru getirecektir."
+    },
+    {
+      "id": "4ecab7e9",
+      "bank_id": "90b8b600",
+      "text": "Bana ne oldu böyle?! Hayııır!"
+    },
+    {
+      "id": "4ecab7ea",
+      "bank_id": "90b8b600",
+      "text": "Göğüslerim nereye kayboldu?!"
+    },
+    {
+      "id": "4ecab7eb",
+      "bank_id": "90b8b600",
+      "text": "Bacaklarımın arasındaki bu şey de neyin nesi?!"
+    },
+    {
+      "id": "4ecab7ec",
+      "bank_id": "90b8b600",
+      "text": "Bu hiç ama hiç doğru hissettirmiyor. Ben bir erkeğim!"
+    },
+    {
+      "id": "4ecab7ed",
+      "bank_id": "90b8b600",
+      "text": "Neler oluyor? Ve sesime ne oldu öyle?!"
+    },
+    {
+      "id": "4ecab7ee",
+      "bank_id": "90b8b600",
+      "text": "Biri bana testosteron mu enjekte etti acaba?"
+    },
+    {
+      "id": "4ecab7ef",
+      "bank_id": "90b8b600",
+      "text": "Aman... aman tanrım. Göğsüm... ah, öyle hafif hissettiriyor ki."
+    },
+    {
+      "id": "4f36dfb2",
+      "bank_id": "90b8b600",
+      "text": "Ah hoş geldiniz aziz dostum. Lütfen tapınağımıza katkıda bulunun ve Işığın lütfuna nail olun."
+    },
+    {
+      "id": "506075f8",
+      "bank_id": "90b8b600",
+      "text": "Canın kurban vermek mi istiyor? Şu köşedeki emektar Çark'ın yanındaki talimatları takip et yeter."
+    },
+    {
+      "id": "518321ab",
+      "bank_id": "90b8b600",
+      "text": "Ah, bu sahiden fevkalade! Umarım en korkunç şekilde can verirsin seni Işık aşığı kurbağa seni."
+    },
+    {
+      "id": "526078de",
+      "bank_id": "90b8b600",
+      "text": "Umarım kurbanlarını buraya tıpış tıpış getirmekte benimkinden daha çok şansın yaver gider."
+    },
+    {
+      "id": "5283231e",
+      "bank_id": "90b8b600",
+      "text": "<laughs> Burada ne varmış bakalım? Omurgasız bir mum kemiricisi değil mi bu! Ah, umarım can verişin pek pek keyifli olur."
+    },
+    {
+      "id": "52ba5827",
+      "bank_id": "90b8b600",
+      "text": "UĞURSUZLUK ÇARKI"
+    },
+    {
+      "id": "53607ab1",
+      "bank_id": "90b8b600",
+      "text": "Tabeladaki talimatları okudun mu? Gözden kaçırmana imkân yok."
+    },
+    {
+      "id": "538324f1",
+      "bank_id": "90b8b600",
+      "text": "Enfes! Bir Işık budalası! Kesinlikle yanlış tapınağa katıldın azizim. <giggles>"
+    },
+    {
+      "id": "543156ae",
+      "bank_id": "90b8b600",
+      "text": "Işığı adaleti tesis etsin ve sizi her türlü kötülükten korusun."
+    },
+    {
+      "id": "54607c24",
+      "bank_id": "90b8b600",
+      "text": "Yalnızca en kötücül, en korkunç, en şey... şahsi kurban bu işi görür."
+    },
+    {
+      "id": "55607d97",
+      "bank_id": "90b8b600",
+      "text": "Kurbanını en günahkâr saatte vermelisin. Merak etme, her gece bir kez denk gelir."
+    },
+    {
+      "id": "576080fd",
+      "bank_id": "90b8b600",
+      "text": "Kutsalsız Kötülük Ayini'ne yalnızca seçilmiş azınlık katılabilir. Ödül sistemimize dahil olmanın sayısız avantajından yalnızca biri!"
+    },
+    {
+      "id": "59c15ca8",
+      "bank_id": "90b8b600",
+      "text": "Bağış ne kadar büyük olursa mükâfat da o kadar kutsal olur."
+    },
+    {
+      "id": "5a657178",
+      "bank_id": "90b8b600",
+      "text": "Altın: %1"
+    },
+    {
+      "id": "5ac15e1b",
+      "bank_id": "90b8b600",
+      "text": "Kutsal vaktimiz, ışığın en parlak parladığı andır."
+    },
+    {
+      "id": "5b075713",
+      "bank_id": "90b8b600",
+      "text": "Nazik bağışınız için Tanrı sizi korusun. Aydınlanma artık sizindir."
+    },
+    {
+      "id": "5c075886",
+      "bank_id": "90b8b600",
+      "text": "Teşekkür ederiz. Bilgelik ruhunuzu doldursun."
+    },
+    {
+      "id": "5cc16161",
+      "bank_id": "90b8b600",
+      "text": "Hasat Velinimeti kutsal saatte bağışta bulunmalıdır. Kadimden beri hep böyle olmuştur."
+    },
+    {
+      "id": "5d075a79",
+      "bank_id": "90b8b600",
+      "text": "Işık size bilgelik bahşeder."
+    },
+    {
+      "id": "5ea2d73a",
+      "bank_id": "90b8b600",
+      "text": "Gölgelere Kurban Vermek"
+    },
+    {
+      "id": "5ea7af90",
+      "bank_id": "90b8b600",
+      "text": "Doğrusu elindeki son derece nefis bir kurbana benziyor dostum."
+    },
+    {
+      "id": "5f657917",
+      "bank_id": "90b8b600",
+      "text": "Gölge Sadakat Puanı: %1"
+    },
+    {
+      "id": "60657a8a",
+      "bank_id": "90b8b600",
+      "text": "Gençleşilen yıl: %1"
+    },
+    {
+      "id": "60a7b2f6",
+      "bank_id": "90b8b600",
+      "text": "Bu arada, bu heriflerin peşine takılmasını nasıl sağladın? Ben her seferinde akla karayı seçiyorum valla."
+    },
+    {
+      "id": "61657c7d",
+      "bank_id": "90b8b600",
+      "text": "Ahlak: -%1"
+    },
+    {
+      "id": "61a7b469",
+      "bank_id": "90b8b600",
+      "text": "Kurbanı doğrudan kurban çemberine sokman yeterli."
+    },
+    {
+      "id": "656e9df3",
+      "bank_id": "90b8b600",
+      "text": "Küle Çevir"
+    },
+    {
+      "id": "6ba1039b",
+      "bank_id": "90b8b600",
+      "text": "Şok"
+    },
+    {
+      "id": "7009c2a8",
+      "bank_id": "90b8b600",
+      "text": "Gölgeler kurbana asla doymak bilmez. Hakikaten bayılıyorlar bu işe."
+    },
+    {
+      "id": "7209c58e",
+      "bank_id": "90b8b600",
+      "text": "Ve Gölgeler Tapınağı Ödül Sistemi sayesinde yeterince puan kazandığında son derece muhteşem bir ödül alabilirsin."
+    },
+    {
+      "id": "7309c761",
+      "bank_id": "90b8b600",
+      "text": "Kurban çemberine getirdiğin her bir kurban sana güzel bir tomar sadakat puanı kazandırır."
+    },
+    {
+      "id": "73c9f6d8",
+      "bank_id": "90b8b600",
+      "text": "Gölgeler Tapınağı'nda köylüleri kurban edin."
+    },
+    {
+      "id": "7b64cf2c",
+      "bank_id": "90b8b600",
+      "text": "Kıyamet gibiydi! Dünyanın sonuna kendi gözlerimle şahit olmak gibi bir şeydi! Bundan sonra Gölgelerin yeni gözdesi sen olursun hiç şüphem yok."
+    },
+    {
+      "id": "7c64d09f",
+      "bank_id": "90b8b600",
+      "text": "Akıl almaz! Kurban getirenler arasında adeta bir vizyonersin sen!"
+    },
+    {
+      "id": "7d64d272",
+      "bank_id": "90b8b600",
+      "text": "Aman yarabbi! Gölgeler zevkten dört köşe olacak. Bunun için bir kucak dolusu puan alacaksın."
+    },
+    {
+      "id": "836f90d8",
+      "bank_id": "90b8b600",
+      "text": "Lütfen, meraktan çatlayacağım! Ne var orada?"
+    },
+    {
+      "id": "846f924b",
+      "bank_id": "90b8b600",
+      "text": "Benim için bir hediyen var mı?"
+    },
+    {
+      "id": "856f943e",
+      "bank_id": "90b8b600",
+      "text": "Elindeki ne öyle?"
+    },
+    {
+      "id": "864a3510",
+      "bank_id": "90b8b600",
+      "text": "A = 1000 Altın, B = 100 Altın"
+    },
+    {
+      "id": "894a39e9",
+      "bank_id": "90b8b600",
+      "text": "Işık Tapınağı'na bağış yapılsın mı?"
+    },
+    {
+      "id": "8bd4f5d5",
+      "bank_id": "90b8b600",
+      "text": "FELEĞİN ÇARKI ÖDÜL PUANLARI\nÇarkta kurban ettiğiniz her insan size ödül puanı kazandırır.\nKaç puan kazanacağınız ününüze ve günün saatine bağlıdır.\nIşık Tapınağı keşişlerini kurban ederek bonus puan, eşinizi kurban ederek daha da fazlasını kazanın.\nAynı anda birden fazla kurban verebilirsiniz.\nNihai Kötülük Ödülü için 2.000 puan toplayın."
+    },
+    {
+      "id": "92365bec",
+      "bank_id": "90b8b600",
+      "text": "Kelle Uçur"
+    },
+    {
+      "id": "92aea02b",
+      "bank_id": "90b8b600",
+      "text": "Mistik güneş tam tepedeyken büyük bir bağış yapın."
+    },
+    {
+      "id": "95e3dc45",
+      "bank_id": "90b8b600",
+      "text": "Feleğin Çarkı çevrilsin mi?"
+    },
+    {
+      "id": "9b39c057",
+      "bank_id": "90b8b600",
+      "text": "Bu hafta giydiğim üçüncü cübbe bu. Hiçbir şey kurban lekelerini çıkarmıyor."
+    },
+    {
+      "id": "9c39c1ca",
+      "bank_id": "90b8b600",
+      "text": "Çark'ın yanında çalışmak eskiden iştahımı kapatırdı. Ama artık alıştım. Gerçi sakatata hâlâ elimi süremiyorum ya."
+    },
+    {
+      "id": "9d39c3bd",
+      "bank_id": "90b8b600",
+      "text": "Kabul etmek lazım, aramızdan birinin peşine takılıp buraya kadar inecek ahmaklıktaki herkes en korkunç şekilde ölmeyi hak ediyor."
+    },
+    {
+      "id": "a0da8d73",
+      "bank_id": "90b8b600",
+      "text": "Taşlaştır"
+    },
+    {
+      "id": "b172a1a0",
+      "bank_id": "90b8b600",
+      "text": "<giggles> Çark böyle yaptığında bayılıyorum ya. Akılları fena halde karışıyor."
+    },
+    {
+      "id": "b368f31b",
+      "bank_id": "90b8b600",
+      "text": "Aah, evet, bağışınız sahiden çok cömertti lakin bir Hasat Velinimeti'nin şartlarını pek karşılamadı. Öhöm."
+    },
+    {
+      "id": "b372a486",
+      "bank_id": "90b8b600",
+      "text": "<laughs> Şuna bir bakın! Bence ölümü yeğlerdim doğrusu!"
+    },
+    {
+      "id": "b472a679",
+      "bank_id": "90b8b600",
+      "text": "<laughs>Gölgelerin sahiden çok fena bir mizah anlayışı var!"
+    },
+    {
+      "id": "b5884bb6",
+      "bank_id": "90b8b600",
+      "text": "Trolü öldürün."
+    },
+    {
+      "id": "b6884d29",
+      "bank_id": "90b8b600",
+      "text": "Mağaranın içindeki kirliliğin kaynağını bulun."
+    },
+    {
+      "id": "b888500f",
+      "bank_id": "90b8b600",
+      "text": "Joseph'in yanına dönün."
+    },
+    {
+      "id": "b9b98c32",
+      "bank_id": "90b8b600",
+      "text": "Gençleşilen yıl: %1"
+    },
+    {
+      "id": "ba64046a",
+      "bank_id": "90b8b600",
+      "text": "Buraya bakın! Benim için bir şeyiniz var mı?"
+    },
+    {
+      "id": "be43dcf8",
+      "bank_id": "90b8b600",
+      "text": "Evet be! Ah, keşke elimde hareketli görüntü yakalayan bir tür el aygıtı olsaydı da bu anı diğer bütün ahbaplarla paylaşabilseydim."
+    },
+    {
+      "id": "bf43de6b",
+      "bank_id": "90b8b600",
+      "text": "Şimdiye kadar gördüğüm en muazzam manzaraydı. Al bakalım seni gidi Işık Tapınağı pisliği!"
+    },
+    {
+      "id": "c135299b",
+      "bank_id": "90b8b600",
+      "text": "Buraya bakın! Benim için bir şeyiniz var mı?"
+    },
+    {
+      "id": "c143e1b1",
+      "bank_id": "90b8b600",
+      "text": "Ha! O keşişin işini amma kolay bitirdin öyle! Hi hi!"
+    },
+    {
+      "id": "c8bc1f28",
+      "bank_id": "90b8b600",
+      "text": "Toplam bağışlanan altın: %1"
+    },
+    {
+      "id": "c8bc98a8",
+      "bank_id": "90b8b600",
+      "text": "Cık cık. Bu yeterince kötü olmanın yanından bile geçmedi."
+    },
+    {
+      "id": "c9c20fb8",
+      "bank_id": "90b8b600",
+      "text": "Belki de münasip bir vakitte bağışta bulunabilirsiniz? Hasat Ödülü sizi asla hayal kırıklığına uğratmayacaktır."
+    },
+    {
+      "id": "cb8cb2b0",
+      "bank_id": "90b8b600",
+      "text": "Ah, ilham verici bir kurban oldu doğrusu."
+    },
+    {
+      "id": "cc8cb423",
+      "bank_id": "90b8b600",
+      "text": "Ha ha, bundan kesinlikle çok keyif aldım. Biz konuşurken Gölgelerin bayram ettiğine eminim."
+    },
+    {
+      "id": "ccc21471",
+      "bank_id": "90b8b600",
+      "text": "Aah evet, kesinlikle son derece cömertsiniz. Ne yazık ki kutsal vaktimiz değil henüz..."
+    },
+    {
+      "id": "ce8cb709",
+      "bank_id": "90b8b600",
+      "text": "Vay canına, son derece etkileyici bir kurbandı doğrusu."
+    },
+    {
+      "id": "d4e8c650",
+      "bank_id": "90b8b600",
+      "text": "Kutsal saatte yeterince büyük bir bağış yapın ve Hasat Ödülü'ne nail olun."
+    },
+    {
+      "id": "d5e8c7c3",
+      "bank_id": "90b8b600",
+      "text": "Sıradaki Hasat Velinimeti olma şerefini kazandığınıza inanıyorum."
+    },
+    {
+      "id": "d6bd3519",
+      "bank_id": "90b8b600",
+      "text": "Nereye gidiyorsun?"
+    },
+    {
+      "id": "d6e8c9b6",
+      "bank_id": "90b8b600",
+      "text": "Ah, kalbiniz cömertlikten çatlayacak kadar dolu görüyorum ki."
+    },
+    {
+      "id": "d7b454a7",
+      "bank_id": "90b8b600",
+      "text": "İnan bana, bundan çok daha günahkâr bir saat var."
+    },
+    {
+      "id": "d7e59ef8",
+      "bank_id": "90b8b600",
+      "text": "Daha büyük bir bilgeliğe nail olmak için Işığın en parlak olduğu vakitte bağış yapın."
+    },
+    {
+      "id": "d8b4561a",
+      "bank_id": "90b8b600",
+      "text": "Kurban vermek için yanlış saati seçtiniz. Saatlerin en günahkârı bu değil neticede."
+    },
+    {
+      "id": "d8e5a06b",
+      "bank_id": "90b8b600",
+      "text": "Belki de cömertliğiniz sizi yeni Hasat Velinimetimiz yapar. Bundan daha büyük bir mükâfat yoktur."
+    },
+    {
+      "id": "dbe5a524",
+      "bank_id": "90b8b600",
+      "text": "Lütfen, bir bağışta bulunun. Her bir altın parçası bu yaralı toplumu yeniden inşa etmemize yardımcı oluyor."
+    },
+    {
+      "id": "dde5a80a",
+      "bank_id": "90b8b600",
+      "text": "İlgimize muhtaç o kadar çok hayırlı dava var ki..."
+    },
+    {
+      "id": "dee5a9fd",
+      "bank_id": "90b8b600",
+      "text": "Lütfen elinizden geleni verin."
+    },
+    {
+      "id": "e5587090",
+      "bank_id": "90b8b600",
+      "text": "Cinsiyet Değiştir"
+    },
+    {
+      "id": "eac683db",
+      "bank_id": "90b8b600",
+      "text": "Ne? Anlamıyorum... Bu... hepsi bir tuzak mıydı yani? Hayır, bu gerçek olamaz. Gerçek olamaz bu. Hayır!"
+    },
+    {
+      "id": "ebc6854e",
+      "bank_id": "90b8b600",
+      "text": "Bu da ne?"
+    },
+    {
+      "id": "f13183c4",
+      "bank_id": "90b8b600",
+      "text": "Tavuğa Dönüştür"
+    }
+  ]
+}

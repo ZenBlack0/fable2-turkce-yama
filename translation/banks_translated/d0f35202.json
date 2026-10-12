@@ -1,0 +1,1226 @@
+{
+  "bank_id": "d0f35202",
+  "total_strings": 244,
+  "strings": [
+    {
+      "id": "00e81178",
+      "bank_id": "d0f35202",
+      "text": "Oho! Biraz daha mı istiyorsun?"
+    },
+    {
+      "id": "00e81179",
+      "bank_id": "d0f35202",
+      "text": "Hey, senin ölmüş olman gerekiyordu!"
+    },
+    {
+      "id": "00e8117b",
+      "bank_id": "d0f35202",
+      "text": "Ölü taklidi mi yapıyordun ha? Eh, artık taklit yapmana gerek kalmayacak!"
+    },
+    {
+      "id": "037c1914",
+      "bank_id": "d0f35202",
+      "text": "Bazı insanlar ne zaman vazgeçeceğini hiç bilmiyor..."
+    },
+    {
+      "id": "037c1915",
+      "bank_id": "d0f35202",
+      "text": "Hâlâ hayatta mısın? Bu sefer işimi daha iyi yapacağım!"
+    },
+    {
+      "id": "037c1916",
+      "bank_id": "d0f35202",
+      "text": "Işığa doğru gitmen gerekiyordu seni mankafa!"
+    },
+    {
+      "id": "09cd362c",
+      "bank_id": "d0f35202",
+      "text": "Güm!"
+    },
+    {
+      "id": "09cd362d",
+      "bank_id": "d0f35202",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "09cd362e",
+      "bank_id": "d0f35202",
+      "text": "İşte benim tarzım atış!"
+    },
+    {
+      "id": "103f1790",
+      "bank_id": "d0f35202",
+      "text": "Böyle yapmaları can sıkıcı, değil mi?"
+    },
+    {
+      "id": "103f1792",
+      "bank_id": "d0f35202",
+      "text": "Yapabileceğinin en iyisi bu mu? Gebert şu iti!"
+    },
+    {
+      "id": "103f1793",
+      "bank_id": "d0f35202",
+      "text": "Şu hobbe kılıklı maceracının seni savuşturmasına izin verme!"
+    },
+    {
+      "id": "15d4851c",
+      "bank_id": "d0f35202",
+      "text": "Yağma yok!"
+    },
+    {
+      "id": "15d4851e",
+      "bank_id": "d0f35202",
+      "text": "Buna savuşturma derler. Haberiniz olsun diye söylüyorum."
+    },
+    {
+      "id": "15d4851f",
+      "bank_id": "d0f35202",
+      "text": "Çok kolay oldu bu."
+    },
+    {
+      "id": "2090df44",
+      "bank_id": "d0f35202",
+      "text": "Görünüşe göre daha çok talime ihtiyacın var."
+    },
+    {
+      "id": "2090df45",
+      "bank_id": "d0f35202",
+      "text": "Beni asla yenemeyeceksin!"
+    },
+    {
+      "id": "2090df46",
+      "bank_id": "d0f35202",
+      "text": "Ah, bu işi çok kolaylaştırıyorsun!"
+    },
+    {
+      "id": "22fdbdf0",
+      "bank_id": "d0f35202",
+      "text": "Büyü! Pis, hobbe büyüsü!"
+    },
+    {
+      "id": "22fdbdf1",
+      "bank_id": "d0f35202",
+      "text": "O da neyin nesiydi öyle lan?!"
+    },
+    {
+      "id": "22fdbdf2",
+      "bank_id": "d0f35202",
+      "text": "Şu dünyada katlanamadığım tek bir şey varsa, o da büyüdür!"
+    },
+    {
+      "id": "24da87a2",
+      "bank_id": "d0f35202",
+      "text": "Seninle resmen dalga geçiyor."
+    },
+    {
+      "id": "24da87a9",
+      "bank_id": "d0f35202",
+      "text": "Seninle resmen dalga geçiyor."
+    },
+    {
+      "id": "2c6a324d",
+      "bank_id": "d0f35202",
+      "text": "Öyle yapılmaz o iş!"
+    },
+    {
+      "id": "2c6a324e",
+      "bank_id": "d0f35202",
+      "text": "Hadi ama! Bundan daha iyisini yapmalısın."
+    },
+    {
+      "id": "2c6a324f",
+      "bank_id": "d0f35202",
+      "text": "Şu domuz bloklamayı iyi biliyor doğrusu."
+    },
+    {
+      "id": "32a93d77",
+      "bank_id": "d0f35202",
+      "text": "Seni blokladı!"
+    },
+    {
+      "id": "32a93d7c",
+      "bank_id": "d0f35202",
+      "text": "Seni blokladı!"
+    },
+    {
+      "id": "3328d458",
+      "bank_id": "d0f35202",
+      "text": "Lanet büyücüler! Nefret ediyorum hepsinden!"
+    },
+    {
+      "id": "3328d459",
+      "bank_id": "d0f35202",
+      "text": "Oh, tabii o tuhaf İrade numaralarını kullan. Bizi mertçe yenemezsin, değil mi?"
+    },
+    {
+      "id": "3328d45b",
+      "bank_id": "d0f35202",
+      "text": "Büyülerini bir tarafına sok!"
+    },
+    {
+      "id": "36cf2a98",
+      "bank_id": "d0f35202",
+      "text": "Patron düştü! Patron düştü!"
+    },
+    {
+      "id": "36cf2a99",
+      "bank_id": "d0f35202",
+      "text": "Patronu öldürdün!"
+    },
+    {
+      "id": "36cf2a9b",
+      "bank_id": "d0f35202",
+      "text": "Patron öldü!"
+    },
+    {
+      "id": "371b3472",
+      "bank_id": "d0f35202",
+      "text": "Patronun işini bitirdi!"
+    },
+    {
+      "id": "371b3479",
+      "bank_id": "d0f35202",
+      "text": "Patronun işini bitirdi!"
+    },
+    {
+      "id": "374c3d0c",
+      "bank_id": "d0f35202",
+      "text": "Görünüşe göre birinin veterinere gitmesi gerekecek."
+    },
+    {
+      "id": "374c3d0e",
+      "bank_id": "d0f35202",
+      "text": "Bu, uyuz itine bir hayduta bulaşmamayı öğretir."
+    },
+    {
+      "id": "374c3d0f",
+      "bank_id": "d0f35202",
+      "text": "Şu köpek artık nalları dikti!"
+    },
+    {
+      "id": "38264009",
+      "bank_id": "d0f35202",
+      "text": "Hadi ama!"
+    },
+    {
+      "id": "3826400a",
+      "bank_id": "d0f35202",
+      "text": "Güm! Oley be!"
+    },
+    {
+      "id": "3826400b",
+      "bank_id": "d0f35202",
+      "text": "Uçur şu kafayı!"
+    },
+    {
+      "id": "3b13fee1",
+      "bank_id": "d0f35202",
+      "text": "Yetenekli olduğunu kabul etmek gerek, hakkını yemeyelim."
+    },
+    {
+      "id": "3b13feea",
+      "bank_id": "d0f35202",
+      "text": "Yetenekli olduğunu kabul etmek gerek, hakkını yemeyelim."
+    },
+    {
+      "id": "3f737d90",
+      "bank_id": "d0f35202",
+      "text": "Buradan geçiş yok!"
+    },
+    {
+      "id": "3f737d92",
+      "bank_id": "d0f35202",
+      "text": "Bundan daha fazlasını denemen gerekecek!"
+    },
+    {
+      "id": "3f737d93",
+      "bank_id": "d0f35202",
+      "text": "Dur tahmin edeyim, alaylısın değil mi?"
+    },
+    {
+      "id": "41a2d974",
+      "bank_id": "d0f35202",
+      "text": "Patronu öldürdü!"
+    },
+    {
+      "id": "41a2d97f",
+      "bank_id": "d0f35202",
+      "text": "Patronu öldürdü!"
+    },
+    {
+      "id": "426dc1b7",
+      "bank_id": "d0f35202",
+      "text": "Patronu nalladı!"
+    },
+    {
+      "id": "426dc1bc",
+      "bank_id": "d0f35202",
+      "text": "Patronu nalladı!"
+    },
+    {
+      "id": "46511f69",
+      "bank_id": "d0f35202",
+      "text": "Isırmasına izin verme!"
+    },
+    {
+      "id": "46511f6a",
+      "bank_id": "d0f35202",
+      "text": "Şu aptal köpekle oynamayı bırak!"
+    },
+    {
+      "id": "46511f6b",
+      "bank_id": "d0f35202",
+      "text": "Şu iti gebert artık da bana yardım et!"
+    },
+    {
+      "id": "470cbe78",
+      "bank_id": "d0f35202",
+      "text": "Oh, canın yerine geldi ha. Hadi bir daha deneyelim öyleyse."
+    },
+    {
+      "id": "470cbe7a",
+      "bank_id": "d0f35202",
+      "text": "Argh! Zombi falan değilsin, değil mi?"
+    },
+    {
+      "id": "470cbe7b",
+      "bank_id": "d0f35202",
+      "text": "Ölümden döndün demek? Eh, bunun bir daha tekrarlanmamasını sağlayalım o zaman."
+    },
+    {
+      "id": "478d8fcc",
+      "bank_id": "d0f35202",
+      "text": "Bunu bir daha yaparsan tepem atar!"
+    },
+    {
+      "id": "478d8fcd",
+      "bank_id": "d0f35202",
+      "text": "Yılan gibi herifsin ha?"
+    },
+    {
+      "id": "478d8fce",
+      "bank_id": "d0f35202",
+      "text": "Beni bir daha bloklarsan kafanı koparırım!"
+    },
+    {
+      "id": "47edaa83",
+      "bank_id": "d0f35202",
+      "text": "Hmm, emin olmak için ona sopayla dürtmeliyim..."
+    },
+    {
+      "id": "47edaa88",
+      "bank_id": "d0f35202",
+      "text": "Hmm, emin olmak için ona sopayla dürtmeliyim..."
+    },
+    {
+      "id": "4b60d6a4",
+      "bank_id": "d0f35202",
+      "text": "Ah! Seni deli! Şimdi seni nasıl öldüreceğim ben?"
+    },
+    {
+      "id": "51ef8049",
+      "bank_id": "d0f35202",
+      "text": "Seni öldüreceğimi söylemiştim, değil mi?"
+    },
+    {
+      "id": "51ef804a",
+      "bank_id": "d0f35202",
+      "text": "Haydutlara bulaşılmayacağını bilmeliydin."
+    },
+    {
+      "id": "51ef804b",
+      "bank_id": "d0f35202",
+      "text": "Şimdi bakalım ne ganimet varmış."
+    },
+    {
+      "id": "5235a6a1",
+      "bank_id": "d0f35202",
+      "text": "Senden daha hızlıyım!"
+    },
+    {
+      "id": "5235a6a2",
+      "bank_id": "d0f35202",
+      "text": "Elinden gelenin en iyisi bu mu?"
+    },
+    {
+      "id": "5235a6a3",
+      "bank_id": "d0f35202",
+      "text": "Bundan daha iyisini yapman gerekecek!"
+    },
+    {
+      "id": "5416b09c",
+      "bank_id": "d0f35202",
+      "text": "Beni ne kadar yavaş sanıyorsun sen?"
+    },
+    {
+      "id": "5416b09d",
+      "bank_id": "d0f35202",
+      "text": "Evet! Gelmeye devam et!"
+    },
+    {
+      "id": "5416b09f",
+      "bank_id": "d0f35202",
+      "text": "Evet, bloklayabiliyorum, buna ne dersin?"
+    },
+    {
+      "id": "56c49f4c",
+      "bank_id": "d0f35202",
+      "text": "Ve bir kez daha bir düşmanın cesedinin başında duruyorum. Harika hissettiriyor!"
+    },
+    {
+      "id": "56c49f4d",
+      "bank_id": "d0f35202",
+      "text": "Bakalım üzerlerinde ne kadar altın varmış."
+    },
+    {
+      "id": "56c49f4e",
+      "bank_id": "d0f35202",
+      "text": "Eh, eğlenceliydi doğrusu."
+    },
+    {
+      "id": "58a0e705",
+      "bank_id": "d0f35202",
+      "text": "Grr!"
+    },
+    {
+      "id": "58a0e706",
+      "bank_id": "d0f35202",
+      "text": "Gah!"
+    },
+    {
+      "id": "58a0e707",
+      "bank_id": "d0f35202",
+      "text": "Pöh!"
+    },
+    {
+      "id": "5b9e984d",
+      "bank_id": "d0f35202",
+      "text": "Bir dahaki sefere daha iyi şanslar, mankafa!"
+    },
+    {
+      "id": "5b9e984e",
+      "bank_id": "d0f35202",
+      "text": "Bundan çok daha iyi vuruşları savuşturdum ben."
+    },
+    {
+      "id": "5b9e984f",
+      "bank_id": "d0f35202",
+      "text": "Neden uğraşıyorsun ki?"
+    },
+    {
+      "id": "5bc82fc3",
+      "bank_id": "d0f35202",
+      "text": "Daha hızlı hareket etseydin seni bloklayamazdı!"
+    },
+    {
+      "id": "5bc82fc8",
+      "bank_id": "d0f35202",
+      "text": "Daha hızlı hareket etseydin seni bloklayamazdı!"
+    },
+    {
+      "id": "61e9b7ed",
+      "bank_id": "d0f35202",
+      "text": "Acaba bu kıyafetler bana uyar mı..."
+    },
+    {
+      "id": "61e9b7ee",
+      "bank_id": "d0f35202",
+      "text": "Şimdi küçük bir hatıra alma zamanı... Hangi parçasını kessem acaba?"
+    },
+    {
+      "id": "61e9b7ef",
+      "bank_id": "d0f35202",
+      "text": "Oradaki de ne? Bir çeşit mühür mü?"
+    },
+    {
+      "id": "649e0cd3",
+      "bank_id": "d0f35202",
+      "text": "Hayatta olamaz!"
+    },
+    {
+      "id": "649e0cd8",
+      "bank_id": "d0f35202",
+      "text": "Hayatta olamaz!"
+    },
+    {
+      "id": "64d6f8e4",
+      "bank_id": "d0f35202",
+      "text": "Gerçekten asabımı bozuyorsun!"
+    },
+    {
+      "id": "64d6f8e5",
+      "bank_id": "d0f35202",
+      "text": "Yapma şunu artık!"
+    },
+    {
+      "id": "64d6f8e6",
+      "bank_id": "d0f35202",
+      "text": "Beni sadece daha da deli ediyorsun!"
+    },
+    {
+      "id": "64fe0517",
+      "bank_id": "d0f35202",
+      "text": "Hadi ama, ona bundan daha iyi hareketler göster!"
+    },
+    {
+      "id": "64fe051c",
+      "bank_id": "d0f35202",
+      "text": "Hadi ama, ona bundan daha iyi hareketler göster!"
+    },
+    {
+      "id": "73915434",
+      "bank_id": "d0f35202",
+      "text": "Birini öldürdüğümde yerde kalmasını isterim!"
+    },
+    {
+      "id": "73915436",
+      "bank_id": "d0f35202",
+      "text": "Lütfen, seni bir daha öldürmek zorunda olduğumu söyleme..."
+    },
+    {
+      "id": "73915437",
+      "bank_id": "d0f35202",
+      "text": "İşini bitirdiğimi sanıyordum. Neyse."
+    },
+    {
+      "id": "7857d748",
+      "bank_id": "d0f35202",
+      "text": "Hey, senden hoşlandı!"
+    },
+    {
+      "id": "7857d749",
+      "bank_id": "d0f35202",
+      "text": "Ee, ısırığı havlaması kadar sert miymiş dostum?"
+    },
+    {
+      "id": "7857d74a",
+      "bank_id": "d0f35202",
+      "text": "Onunla işimiz bittiğinde şu köpek tam bir hobbe yemi olacak!"
+    },
+    {
+      "id": "797c0144",
+      "bank_id": "d0f35202",
+      "text": "Büyük marifet sanki."
+    },
+    {
+      "id": "797c0145",
+      "bank_id": "d0f35202",
+      "text": "Bunu bir daha yapamazsın, bahse girerim."
+    },
+    {
+      "id": "797c0147",
+      "bank_id": "d0f35202",
+      "text": "Yılan balığı gibisin mübarek."
+    },
+    {
+      "id": "7a346889",
+      "bank_id": "d0f35202",
+      "text": "Ne oldu? Patin mi acıdı? Ha!"
+    },
+    {
+      "id": "7a34688a",
+      "bank_id": "d0f35202",
+      "text": "Hayvanları pek sevmem zaten!"
+    },
+    {
+      "id": "7a34688b",
+      "bank_id": "d0f35202",
+      "text": "Ayy, köpeğin canı mı acımış? Vah vah!"
+    },
+    {
+      "id": "7ee514fc",
+      "bank_id": "d0f35202",
+      "text": "Hey, bu haksızlık!"
+    },
+    {
+      "id": "7ee514fd",
+      "bank_id": "d0f35202",
+      "text": "Ah! Silahsız bir haydutu öldürecek değilsin, değil mi? Heh heh..."
+    },
+    {
+      "id": "7ee514ff",
+      "bank_id": "d0f35202",
+      "text": "Hayır! Silahım! Güzelim silahım!"
+    },
+    {
+      "id": "8217d078",
+      "bank_id": "d0f35202",
+      "text": "Kendine bir de haydut mu diyorsun? Gir araya!"
+    },
+    {
+      "id": "8217d079",
+      "bank_id": "d0f35202",
+      "text": "Önüne gelen itin seni bloklamasına izin vermemelisin!"
+    },
+    {
+      "id": "8217d07b",
+      "bank_id": "d0f35202",
+      "text": "Şu herif seninle oynuyor resmen!"
+    },
+    {
+      "id": "8782cbc1",
+      "bank_id": "d0f35202",
+      "text": "Bu şapşalın seni böyle bloklamasına izin mi vereceksin?"
+    },
+    {
+      "id": "8782cbca",
+      "bank_id": "d0f35202",
+      "text": "Bir kadının seni böyle bloklamasına izin mi vereceksin?"
+    },
+    {
+      "id": "8bf32fc2",
+      "bank_id": "d0f35202",
+      "text": "Patronu yendi!"
+    },
+    {
+      "id": "8bf32fc9",
+      "bank_id": "d0f35202",
+      "text": "Patronu yendi!"
+    },
+    {
+      "id": "8cbe1801",
+      "bank_id": "d0f35202",
+      "text": "Patronu indirdi!"
+    },
+    {
+      "id": "8cbe180a",
+      "bank_id": "d0f35202",
+      "text": "Patronu indirdi!"
+    },
+    {
+      "id": "8de62ca8",
+      "bank_id": "d0f35202",
+      "text": "Kum torbasında bile daha iyi hareketler gördüm."
+    },
+    {
+      "id": "8de62caa",
+      "bank_id": "d0f35202",
+      "text": "Hadi, hadi, uslu oynayın."
+    },
+    {
+      "id": "8de62cab",
+      "bank_id": "d0f35202",
+      "text": "Buna dövüşmek mi diyorsun?"
+    },
+    {
+      "id": "91b998a9",
+      "bank_id": "d0f35202",
+      "text": "Bundan daha iyisini yapmalısın! Hadi!"
+    },
+    {
+      "id": "91b998aa",
+      "bank_id": "d0f35202",
+      "text": "O lanet blokları aşman gerek."
+    },
+    {
+      "id": "91b998ab",
+      "bank_id": "d0f35202",
+      "text": "Sakinliğini kaybetme!"
+    },
+    {
+      "id": "91fa508c",
+      "bank_id": "d0f35202",
+      "text": "Sana acımamı bekleme, uyuz it."
+    },
+    {
+      "id": "91fa508d",
+      "bank_id": "d0f35202",
+      "text": "Daha önce hiç köpek yemedim. Acaba tadın nasıl olacak."
+    },
+    {
+      "id": "91fa508e",
+      "bank_id": "d0f35202",
+      "text": "Köpek arkadaşın fazla dayanamayacak."
+    },
+    {
+      "id": "9332a564",
+      "bank_id": "d0f35202",
+      "text": "Dikkat et, o uyuz itin fena dişleri var."
+    },
+    {
+      "id": "9332a565",
+      "bank_id": "d0f35202",
+      "text": "Dikkat et. Epey büyük dişleri var."
+    },
+    {
+      "id": "9332a567",
+      "bank_id": "d0f35202",
+      "text": "Merak etme dostum. Ondan kendimize kürk yaparız!"
+    },
+    {
+      "id": "97cbec2c",
+      "bank_id": "d0f35202",
+      "text": "Bunu yaptıklarında nefret etmiyor musun resmen?"
+    },
+    {
+      "id": "97cbec2d",
+      "bank_id": "d0f35202",
+      "text": "Aşacaksın onu, pes etme."
+    },
+    {
+      "id": "97cbec2e",
+      "bank_id": "d0f35202",
+      "text": "Böyle devam et. Sonunda geçeceksin o savunmayı."
+    },
+    {
+      "id": "99fe1610",
+      "bank_id": "d0f35202",
+      "text": "Çek şu tetiği bebeğim!"
+    },
+    {
+      "id": "99fe1611",
+      "bank_id": "d0f35202",
+      "text": "Güm güm!"
+    },
+    {
+      "id": "99fe1613",
+      "bank_id": "d0f35202",
+      "text": "Evet!"
+    },
+    {
+      "id": "9a730cd8",
+      "bank_id": "d0f35202",
+      "text": "Ah, seni kurnaz domuz!"
+    },
+    {
+      "id": "9a730cd9",
+      "bank_id": "d0f35202",
+      "text": "Kendini büyük bir şey sanıyorsun, değil mi?"
+    },
+    {
+      "id": "9a730cda",
+      "bank_id": "d0f35202",
+      "text": "Benden önce sen yorulacaksın."
+    },
+    {
+      "id": "9d20fc2d",
+      "bank_id": "d0f35202",
+      "text": "İstediğin kadar viyakla, seni aptal it."
+    },
+    {
+      "id": "9d20fc2e",
+      "bank_id": "d0f35202",
+      "text": "Ne oldu seni kokmuş tüy yumağı? Gerçek bir dövüşten hoşlanmadın mı?"
+    },
+    {
+      "id": "9d20fc2f",
+      "bank_id": "d0f35202",
+      "text": "Git de yavru köpeklerle dövüş sen!"
+    },
+    {
+      "id": "9db4f9a0",
+      "bank_id": "d0f35202",
+      "text": "Gerçekten, bundan daha fazlasını denemelisin."
+    },
+    {
+      "id": "9db4f9a1",
+      "bank_id": "d0f35202",
+      "text": "İlk dövüşün mü bu senin?"
+    },
+    {
+      "id": "9db4f9a3",
+      "bank_id": "d0f35202",
+      "text": "Ha!"
+    },
+    {
+      "id": "9e6b7c4d",
+      "bank_id": "d0f35202",
+      "text": "Tetik çekmeyi sanata dönüştürmüşsün dostum!"
+    },
+    {
+      "id": "9e6b7c4e",
+      "bank_id": "d0f35202",
+      "text": "Böyle bir atış daha yaparsan işi ben bitiririm."
+    },
+    {
+      "id": "9e6b7c4f",
+      "bank_id": "d0f35202",
+      "text": "Nasıl hissettiriyormuş? Bir haydut tarafından vurulmak!"
+    },
+    {
+      "id": "9f113065",
+      "bank_id": "d0f35202",
+      "text": "Seni bütün gün durdurabilirim."
+    },
+    {
+      "id": "9f113066",
+      "bank_id": "d0f35202",
+      "text": "Çöpün tekisin!"
+    },
+    {
+      "id": "9f113067",
+      "bank_id": "d0f35202",
+      "text": "Bana öyle vuramazsın."
+    },
+    {
+      "id": "a0d68d50",
+      "bank_id": "d0f35202",
+      "text": "Daha dişlilerini de öldürdüm."
+    },
+    {
+      "id": "a0d68d51",
+      "bank_id": "d0f35202",
+      "text": "İtiraf etmeliyim ki bundan zevk aldım."
+    },
+    {
+      "id": "a0d68d53",
+      "bank_id": "d0f35202",
+      "text": "Şimdiye kadarki en iyi avımdı bu."
+    },
+    {
+      "id": "a1694914",
+      "bank_id": "d0f35202",
+      "text": "Siz İrade kullanıcıları midemi bulandırıyorsunuz!"
+    },
+    {
+      "id": "a1694916",
+      "bank_id": "d0f35202",
+      "text": "Cadılık bu! Cadılık!"
+    },
+    {
+      "id": "a1694917",
+      "bank_id": "d0f35202",
+      "text": "Şu süslü büyüleri bırak da adam gibi dövüş!"
+    },
+    {
+      "id": "a37b4e86",
+      "bank_id": "d0f35202",
+      "text": "Bakalım üzerinde ne kadar altın varmış."
+    },
+    {
+      "id": "a37b4e8d",
+      "bank_id": "d0f35202",
+      "text": "Bakalım üzerinde ne kadar altın varmış."
+    },
+    {
+      "id": "a5982579",
+      "bank_id": "d0f35202",
+      "text": "Akıllı olduğunu mu sanıyorsun?"
+    },
+    {
+      "id": "a598257a",
+      "bank_id": "d0f35202",
+      "text": "Bunu bütün gün yapamazsın."
+    },
+    {
+      "id": "a598257b",
+      "bank_id": "d0f35202",
+      "text": "Yakında seni geberteceğim!"
+    },
+    {
+      "id": "adb12e32",
+      "bank_id": "d0f35202",
+      "text": "Ne oluyor be?! Hâlâ hayatta!"
+    },
+    {
+      "id": "adb12e39",
+      "bank_id": "d0f35202",
+      "text": "Ne oluyor be?! Hâlâ hayatta!"
+    },
+    {
+      "id": "b0796088",
+      "bank_id": "d0f35202",
+      "text": "Elim! Seni pislik! Acıdı be!"
+    },
+    {
+      "id": "b079608b",
+      "bank_id": "d0f35202",
+      "text": "Ah! Neredeyse serçeparmağımı koparacaktın!"
+    },
+    {
+      "id": "b08b9061",
+      "bank_id": "d0f35202",
+      "text": "Zamanlamayı öyle ayarlamalısın ki seni bloklayamasın."
+    },
+    {
+      "id": "b08b906a",
+      "bank_id": "d0f35202",
+      "text": "Zamanlamayı öyle ayarlamalısın ki seni bloklayamasın."
+    },
+    {
+      "id": "b25da0a4",
+      "bank_id": "d0f35202",
+      "text": "Kimse o bloklamayı sonsuza kadar sürdüremez."
+    },
+    {
+      "id": "b25da0a5",
+      "bank_id": "d0f35202",
+      "text": "Moralini bozma dostum."
+    },
+    {
+      "id": "b25da0a7",
+      "bank_id": "d0f35202",
+      "text": "Şu şapşalın seni bloklayıp durmasına izin veremezsin!"
+    },
+    {
+      "id": "b83a6634",
+      "bank_id": "d0f35202",
+      "text": "Ölmemiş!"
+    },
+    {
+      "id": "b83a663f",
+      "bank_id": "d0f35202",
+      "text": "Ölmemiş!"
+    },
+    {
+      "id": "ba6a3380",
+      "bank_id": "d0f35202",
+      "text": "Ha!"
+    },
+    {
+      "id": "ba6a3381",
+      "bank_id": "d0f35202",
+      "text": "Bunu bütün gün yapabilirim."
+    },
+    {
+      "id": "ba6a3382",
+      "bank_id": "d0f35202",
+      "text": "Hepsi bu kadar mı?"
+    },
+    {
+      "id": "bc93dab0",
+      "bank_id": "d0f35202",
+      "text": "Buna ne dersin? Seni blokladı!"
+    },
+    {
+      "id": "bc93dabb",
+      "bank_id": "d0f35202",
+      "text": "Buna ne dersin? Seni blokladı!"
+    },
+    {
+      "id": "bdf731c0",
+      "bank_id": "d0f35202",
+      "text": "Tamamen şanstı o."
+    },
+    {
+      "id": "bdf731c1",
+      "bank_id": "d0f35202",
+      "text": "Hadi be!"
+    },
+    {
+      "id": "bdf731c3",
+      "bank_id": "d0f35202",
+      "text": "Bir dahaki sefere bu kadar şanslı olamayacaksın."
+    },
+    {
+      "id": "c05d9f34",
+      "bank_id": "d0f35202",
+      "text": "Seni kurnaz pislik!"
+    },
+    {
+      "id": "c05d9f35",
+      "bank_id": "d0f35202",
+      "text": "Ne kadar da can sıkıcı!"
+    },
+    {
+      "id": "c05d9f37",
+      "bank_id": "d0f35202",
+      "text": "Yakalayacağım seni!"
+    },
+    {
+      "id": "c4cfd035",
+      "bank_id": "d0f35202",
+      "text": "Gah! Geri dönmelerinden nefret ediyorum!"
+    },
+    {
+      "id": "c4cfd036",
+      "bank_id": "d0f35202",
+      "text": "Sizin gibiler neden bir türlü yerde kalamıyor?"
+    },
+    {
+      "id": "c4cfd037",
+      "bank_id": "d0f35202",
+      "text": "O da ne?! Ondan nasıl sağ çıktın sen?!"
+    },
+    {
+      "id": "c700522c",
+      "bank_id": "d0f35202",
+      "text": "Sanki görünmez bir kalkanım var!"
+    },
+    {
+      "id": "c700522d",
+      "bank_id": "d0f35202",
+      "text": "Dövüşmeyi nereden öğrendin sen?"
+    },
+    {
+      "id": "c700522e",
+      "bank_id": "d0f35202",
+      "text": "Sıkıysa gel!"
+    },
+    {
+      "id": "cab654b0",
+      "bank_id": "d0f35202",
+      "text": "Evet, her neyse."
+    },
+    {
+      "id": "cab654b2",
+      "bank_id": "d0f35202",
+      "text": "Çok zeki bir şeysin sanki..."
+    },
+    {
+      "id": "cab654b3",
+      "bank_id": "d0f35202",
+      "text": "Tek bir kez şansımın yaver gitmesi yeterli."
+    },
+    {
+      "id": "cc964964",
+      "bank_id": "d0f35202",
+      "text": "Geçebileceğini sanıyordun değil mi?"
+    },
+    {
+      "id": "cc964966",
+      "bank_id": "d0f35202",
+      "text": "Ah, kusura bakma, bana vurmaya mı çalışıyordun?"
+    },
+    {
+      "id": "cc964967",
+      "bank_id": "d0f35202",
+      "text": "Ha! Nasıl buldun bunu?"
+    },
+    {
+      "id": "ced135f0",
+      "bank_id": "d0f35202",
+      "text": "Gitti patronu öldürdü resmen!"
+    },
+    {
+      "id": "ced135fb",
+      "bank_id": "d0f35202",
+      "text": "Gitti patronu öldürdü resmen!"
+    },
+    {
+      "id": "d54cfe50",
+      "bank_id": "d0f35202",
+      "text": "Çekil üzerinden, seni lanet it!"
+    },
+    {
+      "id": "d54cfe52",
+      "bank_id": "d0f35202",
+      "text": "Şu aptal köpeği tekmeleyip at!"
+    },
+    {
+      "id": "d54cfe53",
+      "bank_id": "d0f35202",
+      "text": "Biz onu parçalamadan önce köpeğini geri çağır!"
+    },
+    {
+      "id": "d6ac557c",
+      "bank_id": "d0f35202",
+      "text": "Gah!"
+    },
+    {
+      "id": "d6ac557d",
+      "bank_id": "d0f35202",
+      "text": "Kahretsin!"
+    },
+    {
+      "id": "d6ac557e",
+      "bank_id": "d0f35202",
+      "text": "Gah!"
+    },
+    {
+      "id": "d8de33bc",
+      "bank_id": "d0f35202",
+      "text": "Sıradaki seni bulacak."
+    },
+    {
+      "id": "d8de33be",
+      "bank_id": "d0f35202",
+      "text": "Grr! Argh!"
+    },
+    {
+      "id": "d8de33bf",
+      "bank_id": "d0f35202",
+      "text": "Sıradaki seni bulacak."
+    },
+    {
+      "id": "d9ed6430",
+      "bank_id": "d0f35202",
+      "text": "Çürüyene kadar orada yatabilirsin!"
+    },
+    {
+      "id": "d9ed6432",
+      "bank_id": "d0f35202",
+      "text": "Bitti. Ben kazandım. Sen kaybettin. Hey, beni duyuyor musun? Pöh, aptal ceset."
+    },
+    {
+      "id": "d9ed6433",
+      "bank_id": "d0f35202",
+      "text": "Artık kuşların gözlerini oymasına izin verebilirim."
+    },
+    {
+      "id": "dc0c3e90",
+      "bank_id": "d0f35202",
+      "text": "Son yürüyüşünü yaptın seni baş belası!"
+    },
+    {
+      "id": "dc0c3e91",
+      "bank_id": "d0f35202",
+      "text": "Hey, köpeğin sonunda hadım edilmiş gibi görünüyor!"
+    },
+    {
+      "id": "dc0c3e93",
+      "bank_id": "d0f35202",
+      "text": "Ölü köpek yürüyor!"
+    },
+    {
+      "id": "de87500d",
+      "bank_id": "d0f35202",
+      "text": "Rahat bırak onu, seni kuduz it!"
+    },
+    {
+      "id": "de87500e",
+      "bank_id": "d0f35202",
+      "text": "Seni nerenizden ısırdığına dikkat et!"
+    },
+    {
+      "id": "de87500f",
+      "bank_id": "d0f35202",
+      "text": "Şu uyuz itin seni çok çiğnemesine izin verme."
+    },
+    {
+      "id": "df876e88",
+      "bank_id": "d0f35202",
+      "text": "Hadi ama!"
+    },
+    {
+      "id": "df876e89",
+      "bank_id": "d0f35202",
+      "text": "Daha çok çabala!"
+    },
+    {
+      "id": "df876e8a",
+      "bank_id": "d0f35202",
+      "text": "Daha hızlı hareket et!"
+    },
+    {
+      "id": "e148ab60",
+      "bank_id": "d0f35202",
+      "text": "Daha yeni ısınıyorum."
+    },
+    {
+      "id": "e148ab62",
+      "bank_id": "d0f35202",
+      "text": "Bir sonrakini durduramayacaksın."
+    },
+    {
+      "id": "e148ab63",
+      "bank_id": "d0f35202",
+      "text": "O sadece bir uyarıydı."
+    },
+    {
+      "id": "eb563eb0",
+      "bank_id": "d0f35202",
+      "text": "Pes etme!"
+    },
+    {
+      "id": "eb563eb1",
+      "bank_id": "d0f35202",
+      "text": "Bundan daha iyisini yapabilirsin!"
+    },
+    {
+      "id": "eb563eb3",
+      "bank_id": "d0f35202",
+      "text": "Bundan daha iyisini yapmalısın!"
+    },
+    {
+      "id": "ee869fec",
+      "bank_id": "d0f35202",
+      "text": "Kuyruğundan çek!"
+    },
+    {
+      "id": "ee869fee",
+      "bank_id": "d0f35202",
+      "text": "Umarım o bir kurt-köpek değildir."
+    },
+    {
+      "id": "ee869fef",
+      "bank_id": "d0f35202",
+      "text": "Alt tarafı lanet bir kırma it. Öldür şunu artık!"
+    },
+    {
+      "id": "f2764be7",
+      "bank_id": "d0f35202",
+      "text": "Hâlâ kımıldamıyor değil mi?"
+    },
+    {
+      "id": "f2764bec",
+      "bank_id": "d0f35202",
+      "text": "Hâlâ kımıldamıyor değil mi?"
+    },
+    {
+      "id": "f4191a79",
+      "bank_id": "d0f35202",
+      "text": "Üzerlerinde daha çok delik açın!"
+    },
+    {
+      "id": "f4c11334",
+      "bank_id": "d0f35202",
+      "text": "Bizi rezil ediyorsun!"
+    },
+    {
+      "id": "f4c11336",
+      "bank_id": "d0f35202",
+      "text": "Haydutların adını lekeliyorsun."
+    },
+    {
+      "id": "f4c11337",
+      "bank_id": "d0f35202",
+      "text": "Bu kadarı da utanç verici doğrusu."
+    },
+    {
+      "id": "f53e148c",
+      "bank_id": "d0f35202",
+      "text": "Ve kuşcağız vuruldu!"
+    },
+    {
+      "id": "f53e148e",
+      "bank_id": "d0f35202",
+      "text": "Oh evet, sık o tetiği!"
+    },
+    {
+      "id": "f53e148f",
+      "bank_id": "d0f35202",
+      "text": "Canavar gibi bir atış!"
+    },
+    {
+      "id": "fa52b032",
+      "bank_id": "d0f35202",
+      "text": "Seni böyle bloklamasına izin veremezsin."
+    },
+    {
+      "id": "fa52b039",
+      "bank_id": "d0f35202",
+      "text": "Seni böyle bloklamasına izin veremezsin."
+    },
+    {
+      "id": "ffad2011",
+      "bank_id": "d0f35202",
+      "text": "Hayır! Patron gitti!"
+    },
+    {
+      "id": "ffad2012",
+      "bank_id": "d0f35202",
+      "text": "Kaptan öldü!"
+    },
+    {
+      "id": "ffad2013",
+      "bank_id": "d0f35202",
+      "text": "Patron nalları dikti!"
+    },
+    {
+      "id": "ffb7e370",
+      "bank_id": "d0f35202",
+      "text": "Bu köpeğin işi bitti!"
+    },
+    {
+      "id": "ffb7e372",
+      "bank_id": "d0f35202",
+      "text": "Büyüklerle oynayınca ne oluyormuş gördün mü? Aptal hayvan!"
+    },
+    {
+      "id": "ffb7e373",
+      "bank_id": "d0f35202",
+      "text": "Ölüler diyarında sahibine katılabilirsin artık."
+    }
+  ]
+}

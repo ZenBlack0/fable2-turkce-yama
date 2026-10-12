@@ -1,0 +1,946 @@
+{
+  "bank_id": "b0522802",
+  "total_strings": 188,
+  "strings": [
+    {
+      "id": "00d66668",
+      "bank_id": "b0522802",
+      "text": "Yanaklarınızı bir sakalla süsleyin!"
+    },
+    {
+      "id": "00d66669",
+      "bank_id": "b0522802",
+      "text": "Sakalınızı, bıyığınızı buradan alın!"
+    },
+    {
+      "id": "037170de",
+      "bank_id": "b0522802",
+      "text": "Kıyafetler! Kıyafetler! Her boy ve bedende!"
+    },
+    {
+      "id": "037170df",
+      "bank_id": "b0522802",
+      "text": "Seçkin kıyafet çeşitlerimizle başarının tarzını yakalayın!"
+    },
+    {
+      "id": "050f612b",
+      "bank_id": "b0522802",
+      "text": "Kasabanın en iyi efsun taşları hemen burada!"
+    },
+    {
+      "id": "05630b11",
+      "bank_id": "b0522802",
+      "text": "Leziz içkilerimle kafayı bulun!"
+    },
+    {
+      "id": "0a0f68c9",
+      "bank_id": "b0522802",
+      "text": "Efsun taşlarınızı benden alın!"
+    },
+    {
+      "id": "0a0f68ca",
+      "bank_id": "b0522802",
+      "text": "Sıradan olanla yetinmeyin! Bir efsun taşı edinin!"
+    },
+    {
+      "id": "0a0f68cb",
+      "bank_id": "b0522802",
+      "text": "Daha iyi efsun taşlarını hiçbir yerde bulamazsınız!"
+    },
+    {
+      "id": "0a631330",
+      "bank_id": "b0522802",
+      "text": "Neşeli şarap çeşitlerimizle zilzurna sarhoş olun."
+    },
+    {
+      "id": "0c3e68ba",
+      "bank_id": "b0522802",
+      "text": "Erzakınız mı azalıyor? Gelin benimle konuşun!"
+    },
+    {
+      "id": "111a4561",
+      "bank_id": "b0522802",
+      "text": "Bir şey boyatmak mı istiyorsunuz? Doğru adrestesiniz."
+    },
+    {
+      "id": "161a4d00",
+      "bank_id": "b0522802",
+      "text": "Her renkten boyalar!"
+    },
+    {
+      "id": "1a8f8a10",
+      "bank_id": "b0522802",
+      "text": "Hayat biraz neşesiz mi geliyor? O zaman benden alın ve kafayı çekin!"
+    },
+    {
+      "id": "1a8f8a11",
+      "bank_id": "b0522802",
+      "text": "İçkimden alın! Tadı harika ve kendinizi harika hissettirir!"
+    },
+    {
+      "id": "1a8f8a13",
+      "bank_id": "b0522802",
+      "text": "Alkol! Alkolünüzü tam buradan alın!"
+    },
+    {
+      "id": "1a8f8a16",
+      "bank_id": "b0522802",
+      "text": "Albion'un en iyi biraları!"
+    },
+    {
+      "id": "218f9515",
+      "bank_id": "b0522802",
+      "text": "En kaliteli içeceklerimizle hayatınızın partisini verin!"
+    },
+    {
+      "id": "218f9516",
+      "bank_id": "b0522802",
+      "text": "Harika alkollü içeceklerimle sarhoş olun!"
+    },
+    {
+      "id": "25982bc8",
+      "bank_id": "b0522802",
+      "text": "Yepyeni bir sakalla muhteşem görüneceğinizden eminim."
+    },
+    {
+      "id": "25982bca",
+      "bank_id": "b0522802",
+      "text": "Neden sakallarımızdan birini denemiyorsunuz?"
+    },
+    {
+      "id": "25982bcb",
+      "bank_id": "b0522802",
+      "text": "Sana bir sakal verelim mi?"
+    },
+    {
+      "id": "2a50ca6b",
+      "bank_id": "b0522802",
+      "text": "Lanet bir Kahraman olmaya kalkışma! Hayatta kalmak istiyorsan buradan kuşan!"
+    },
+    {
+      "id": "2a9833e9",
+      "bank_id": "b0522802",
+      "text": "Harika bir sakal yelpazemiz var."
+    },
+    {
+      "id": "2a9833ea",
+      "bank_id": "b0522802",
+      "text": "Sakal bıyık bugünlerde çok revaçta!"
+    },
+    {
+      "id": "2a9833eb",
+      "bank_id": "b0522802",
+      "text": "Yüzünüze biraz sakal ister misiniz?"
+    },
+    {
+      "id": "2f63def2",
+      "bank_id": "b0522802",
+      "text": "Bizde yoksa giymeye değmez demektir!"
+    },
+    {
+      "id": "2f63def3",
+      "bank_id": "b0522802",
+      "text": "Sizi en kaliteli ipeklerle giydirmeme izin verin!"
+    },
+    {
+      "id": "30726bc0",
+      "bank_id": "b0522802",
+      "text": "Merhabalar. Yardımcı olabilir miyim?"
+    },
+    {
+      "id": "30726bc1",
+      "bank_id": "b0522802",
+      "text": "Yardım edebileceğim bir şey varsa söylemeniz yeterli."
+    },
+    {
+      "id": "30726bc2",
+      "bank_id": "b0522802",
+      "text": "Bugün sizin için ne yapabilirim?"
+    },
+    {
+      "id": "30726bc7",
+      "bank_id": "b0522802",
+      "text": "İstediğiniz bir şey görüyor musunuz?"
+    },
+    {
+      "id": "370dbdf7",
+      "bank_id": "b0522802",
+      "text": "Birkaç uzvunu kaybetmiş olanlara özel indirimler!"
+    },
+    {
+      "id": "394463d4",
+      "bank_id": "b0522802",
+      "text": "Sıcak bir günde güzel bir içecekten iyisi yoktur! Şimdi bir tane deneyin!"
+    },
+    {
+      "id": "39727a2a",
+      "bank_id": "b0522802",
+      "text": "Yardımcı olabilir miyim?"
+    },
+    {
+      "id": "39727a2c",
+      "bank_id": "b0522802",
+      "text": "Yardımcı olabileceğim bir şey var mı?"
+    },
+    {
+      "id": "39727a2d",
+      "bank_id": "b0522802",
+      "text": "Nasıl yardımcı olabilirim?"
+    },
+    {
+      "id": "39727a2f",
+      "bank_id": "b0522802",
+      "text": "Orada bir yardıma ihtiyacınız var mı?"
+    },
+    {
+      "id": "3a63f020",
+      "bank_id": "b0522802",
+      "text": "Ceketler, eldivenler, ayakkabılar. Hepsi bende var!"
+    },
+    {
+      "id": "3a63f022",
+      "bank_id": "b0522802",
+      "text": "Kıyafet giymek varken neden çıplak dolaşasınız!"
+    },
+    {
+      "id": "3a63f023",
+      "bank_id": "b0522802",
+      "text": "Sizi giydirmeme izin verin, pişman olmayacaksınız."
+    },
+    {
+      "id": "3cecc0b1",
+      "bank_id": "b0522802",
+      "text": "İnsanlar çok şey satın aldığında yeni mallara harcayacak daha çok param oluyor."
+    },
+    {
+      "id": "3cecc0b6",
+      "bank_id": "b0522802",
+      "text": "Bilirsiniz, daha çok harcarsanız daha kaliteli mallar getirebilirim."
+    },
+    {
+      "id": "3cecc0b7",
+      "bank_id": "b0522802",
+      "text": "Artık kullanmadığınız bir şey var mı? Sizden satın alabilirim."
+    },
+    {
+      "id": "3e1d9274",
+      "bank_id": "b0522802",
+      "text": "Herkes için efsun taşları!"
+    },
+    {
+      "id": "3e1d9276",
+      "bank_id": "b0522802",
+      "text": "Erkek, kadın ve çocuk için efsun taşları!"
+    },
+    {
+      "id": "3e1d9277",
+      "bank_id": "b0522802",
+      "text": "Efsun taşları! Efsun taşlarınızı alın!"
+    },
+    {
+      "id": "40446ed9",
+      "bank_id": "b0522802",
+      "text": "Bir içeceğe mi ihtiyacınız var? Başka yere bakmayın!"
+    },
+    {
+      "id": "407bcce0",
+      "bank_id": "b0522802",
+      "text": "Bugün size nasıl yardımcı olabilirim?"
+    },
+    {
+      "id": "407bcce1",
+      "bank_id": "b0522802",
+      "text": "Hizmetinizdeyim."
+    },
+    {
+      "id": "407bcce2",
+      "bank_id": "b0522802",
+      "text": "Hizmetinizdeyim."
+    },
+    {
+      "id": "407bcce7",
+      "bank_id": "b0522802",
+      "text": "Bugün size ne satabilirim?"
+    },
+    {
+      "id": "431d9a15",
+      "bank_id": "b0522802",
+      "text": "Efsunlanacak bir şeye mi ihtiyacınız var? Başka yere bakmayın!"
+    },
+    {
+      "id": "431d9a16",
+      "bank_id": "b0522802",
+      "text": "Bugün bir efsun taşı alın! Pişman olmayacaksınız."
+    },
+    {
+      "id": "43eccbb2",
+      "bank_id": "b0522802",
+      "text": "İhtiyacınız olmayan bir şey var mı? Sizden alabilirim."
+    },
+    {
+      "id": "43eccbb3",
+      "bank_id": "b0522802",
+      "text": "Genellikle birkaç günde bir stok yenileriz."
+    },
+    {
+      "id": "43eccbb4",
+      "bank_id": "b0522802",
+      "text": "İndirimleri daima kollayın. Ne zaman indirim yapacağım hiç belli olmaz."
+    },
+    {
+      "id": "43eccbb5",
+      "bank_id": "b0522802",
+      "text": "Herhangi bir ürünün tükendiğini görürseniz birkaç gün sonra tekrar deneyin."
+    },
+    {
+      "id": "43eccbb6",
+      "bank_id": "b0522802",
+      "text": "Genellikle birkaç haftada bir stok yenilerim."
+    },
+    {
+      "id": "44e0c052",
+      "bank_id": "b0522802",
+      "text": "İksirlerinizi buradan alın! Can! Mana! Hepsi var!"
+    },
+    {
+      "id": "44e0c053",
+      "bank_id": "b0522802",
+      "text": "Öldürülmeden önce stok yapın!"
+    },
+    {
+      "id": "44e0c057",
+      "bank_id": "b0522802",
+      "text": "Bir sonraki raunttan önce iksire mi ihtiyacınız var? Aradığınız adam benim!"
+    },
+    {
+      "id": "4788bac0",
+      "bank_id": "b0522802",
+      "text": "Neden tek bir renge bağlı kalasınız? Boyalarımdan alın!"
+    },
+    {
+      "id": "497bdaca",
+      "bank_id": "b0522802",
+      "text": "Hoş geldiniz, saygıdeğer müşterim."
+    },
+    {
+      "id": "497bdacc",
+      "bank_id": "b0522802",
+      "text": "Özel bir şey mi arıyorsunuz?"
+    },
+    {
+      "id": "497bdacd",
+      "bank_id": "b0522802",
+      "text": "Yardım etmek için buradayım!"
+    },
+    {
+      "id": "497bdacf",
+      "bank_id": "b0522802",
+      "text": "Bir yardıma ihtiyacınız var mı?"
+    },
+    {
+      "id": "5088c92d",
+      "bank_id": "b0522802",
+      "text": "Her duruma uygun boyalar!"
+    },
+    {
+      "id": "512611ed",
+      "bank_id": "b0522802",
+      "text": "Kendinizi ferahlatıcı bir içecekle ödüllendirin!"
+    },
+    {
+      "id": "5626198c",
+      "bank_id": "b0522802",
+      "text": "Susuzluğunuzu giderin! Bir içecek alın!"
+    },
+    {
+      "id": "57921be0",
+      "bank_id": "b0522802",
+      "text": "Boyalarımızla istediğiniz an renk değiştirin!"
+    },
+    {
+      "id": "5b49d850",
+      "bank_id": "b0522802",
+      "text": "Tüm aksesuarlarınızı buradan alın!"
+    },
+    {
+      "id": "5d7ad516",
+      "bank_id": "b0522802",
+      "text": "Daha lezzetli yiyecekleri başka hiçbir yerde bulamazsınız."
+    },
+    {
+      "id": "609229cd",
+      "bank_id": "b0522802",
+      "text": "Her tondan boyalar! Sadece sizin için!"
+    },
+    {
+      "id": "612e69f6",
+      "bank_id": "b0522802",
+      "text": "Hayatınızı efsunlayın!"
+    },
+    {
+      "id": "6449e6bd",
+      "bank_id": "b0522802",
+      "text": "Herkes için süs eşyaları!"
+    },
+    {
+      "id": "647ae013",
+      "bank_id": "b0522802",
+      "text": "Aş! Karnınız için nefis aş!"
+    },
+    {
+      "id": "682e74f3",
+      "bank_id": "b0522802",
+      "text": "Efsun taşları! Efsun taşları! Efsun taşlarınızı alın!"
+    },
+    {
+      "id": "781b0d10",
+      "bank_id": "b0522802",
+      "text": "Meyve suyu ve suyumuz var."
+    },
+    {
+      "id": "781b0d11",
+      "bank_id": "b0522802",
+      "text": "Sağlıklı içecekler ister misiniz?"
+    },
+    {
+      "id": "781b0d13",
+      "bank_id": "b0522802",
+      "text": "Ferahlatıcı bir içecek çeker mi canınız?"
+    },
+    {
+      "id": "7ad2b398",
+      "bank_id": "b0522802",
+      "text": "Murray ile Kuduz'un anlatımından bıktınız mı? Kusura bakmayın, kulak tıkacım kalmadı!"
+    },
+    {
+      "id": "7e5815eb",
+      "bank_id": "b0522802",
+      "text": "Kıyafetler! Kıyafetlerinizi alın!"
+    },
+    {
+      "id": "7f1b1814",
+      "bank_id": "b0522802",
+      "text": "Albion'da çalışmak insanı susatır. İçeceklerimizi deneyin."
+    },
+    {
+      "id": "7f1b1815",
+      "bank_id": "b0522802",
+      "text": "Sıvı ihtiyacınızı karşılamanız mı gerekiyor? İhtiyacınız olan şey bizde."
+    },
+    {
+      "id": "7f1b1816",
+      "bank_id": "b0522802",
+      "text": "Seçkin içeceklerimizle susuzluğunuzu giderin."
+    },
+    {
+      "id": "7f632a54",
+      "bank_id": "b0522802",
+      "text": "Bowerstone'un en seçkin eşyaları bende!"
+    },
+    {
+      "id": "7f632a56",
+      "bank_id": "b0522802",
+      "text": "Bowerstone'daki en iyi dükkân bende!"
+    },
+    {
+      "id": "7f632a57",
+      "bank_id": "b0522802",
+      "text": "Tüm Bowerstone'da daha iyi ürünler bulamazsınız!"
+    },
+    {
+      "id": "84633275",
+      "bank_id": "b0522802",
+      "text": "Bowerstone'un en seçkin eşyaları!"
+    },
+    {
+      "id": "84633276",
+      "bank_id": "b0522802",
+      "text": "Bowerstone'da kimsede daha iyi ürünler yok!"
+    },
+    {
+      "id": "84633277",
+      "bank_id": "b0522802",
+      "text": "Bowerstone'un en güvenilir satıcısıyım. Kime isterseniz sorun!"
+    },
+    {
+      "id": "8758243e",
+      "bank_id": "b0522802",
+      "text": "Tüm Albion'da daha kaliteli kıyafetler yok. Tam burada."
+    },
+    {
+      "id": "8f193bf0",
+      "bank_id": "b0522802",
+      "text": "Yüzüklerim, kolyelerim ve diğer harika ıvır zıvırlarım var!"
+    },
+    {
+      "id": "9218c984",
+      "bank_id": "b0522802",
+      "text": "Kitaplarımla zekanızı parlatın! Okuyamıyorsanız bile öyleymiş gibi yapabilirsiniz!"
+    },
+    {
+      "id": "9218c985",
+      "bank_id": "b0522802",
+      "text": "Eğitimli olduğunuzu dünyaya kanıtlayın. Kitaplarımdan alın!"
+    },
+    {
+      "id": "961b1108",
+      "bank_id": "b0522802",
+      "text": "Size uygun sakal bende var!"
+    },
+    {
+      "id": "981949dd",
+      "bank_id": "b0522802",
+      "text": "İhtiyacınız olabilecek her türlü aksesuar bende var!"
+    },
+    {
+      "id": "985c5df0",
+      "bank_id": "b0522802",
+      "text": "Okumayı sever misiniz? O halde tam size göre bir şeyimiz var!"
+    },
+    {
+      "id": "985c5df1",
+      "bank_id": "b0522802",
+      "text": "Ahmaklık etmeyin. Kitaplarımızdan birini okuyun."
+    },
+    {
+      "id": "985c5df3",
+      "bank_id": "b0522802",
+      "text": "Güzel bir kitapla zihninizi besleyin."
+    },
+    {
+      "id": "9918d488",
+      "bank_id": "b0522802",
+      "text": "Bir kitap satın alarak zekiymiş gibi görünün!"
+    },
+    {
+      "id": "9918d489",
+      "bank_id": "b0522802",
+      "text": "Birkaç kitapla zihninizi doyurun!"
+    },
+    {
+      "id": "9918d48a",
+      "bank_id": "b0522802",
+      "text": "Akıllıca yazılmış küçük kitaplarımla aklınızı başınızdan alın."
+    },
+    {
+      "id": "9f5c68f4",
+      "bank_id": "b0522802",
+      "text": "Güzel bir kitapla hayatınızı değiştirin."
+    },
+    {
+      "id": "9f5c68f5",
+      "bank_id": "b0522802",
+      "text": "Harika fiyatlarla her çeşit okuma materyalimiz var."
+    },
+    {
+      "id": "9f5c68f6",
+      "bank_id": "b0522802",
+      "text": "Harika ciltlerimizle yepyeni bilgi diyarlarına adım atın."
+    },
+    {
+      "id": "a11b22b9",
+      "bank_id": "b0522802",
+      "text": "Kim sakal ister? Kasabanın en iyisi!"
+    },
+    {
+      "id": "af6a2559",
+      "bank_id": "b0522802",
+      "text": "Canınız biraz ateş etmek mi istiyor? Tetiğinizi ziyadesiyle mutlu edecek her şey bizde var!"
+    },
+    {
+      "id": "b04fad80",
+      "bank_id": "b0522802",
+      "text": "Fazla eşyalarınız varsa onları sizden alabilirim."
+    },
+    {
+      "id": "b04fad81",
+      "bank_id": "b0522802",
+      "text": "Siz ne kadar çok alırsanız ben de o kadar çok mal getirebilirim."
+    },
+    {
+      "id": "b04fad83",
+      "bank_id": "b0522802",
+      "text": "Sizden satın alabileceğim bir şeyiniz var mı?"
+    },
+    {
+      "id": "b04fad86",
+      "bank_id": "b0522802",
+      "text": "İkinci el malları almaktan her zaman mutluluk duyarım. Genelde onları yeni gibi satabiliyorum."
+    },
+    {
+      "id": "b04fad87",
+      "bank_id": "b0522802",
+      "text": "İstediğinizi bulamazsanız başka bir gün tekrar uğrayın. Stok yapmış olabilirim."
+    },
+    {
+      "id": "b4962c9d",
+      "bank_id": "b0522802",
+      "text": "İsteyebileceğiniz tüm kıyafetler hemen burada."
+    },
+    {
+      "id": "b4962c9e",
+      "bank_id": "b0522802",
+      "text": "Stoklarımızla krallar gibi giyinin."
+    },
+    {
+      "id": "b4962c9f",
+      "bank_id": "b0522802",
+      "text": "Sizi giydirmeme izin verin!"
+    },
+    {
+      "id": "b74fb882",
+      "bank_id": "b0522802",
+      "text": "Genellikle birkaç haftada bir stok yaparım."
+    },
+    {
+      "id": "b74fb883",
+      "bank_id": "b0522802",
+      "text": "İstemediğiniz her şeyi her zaman bana satabilirsiniz."
+    },
+    {
+      "id": "b74fb884",
+      "bank_id": "b0522802",
+      "text": "Artık kullanmadığınız bir şeyiniz varsa belki sizden satın alabilirim."
+    },
+    {
+      "id": "b74fb885",
+      "bank_id": "b0522802",
+      "text": "İstenmeyen eşyaları çöpe atmayın, onları kullanacak bir yer her zaman bulabiliriz."
+    },
+    {
+      "id": "b74fb886",
+      "bank_id": "b0522802",
+      "text": "Bilirsiniz, her zaman acemi tüccarları kollarım."
+    },
+    {
+      "id": "bc92e4cc",
+      "bank_id": "b0522802",
+      "text": "Görünüşünüze renk katmak mı istiyorsunuz? Tam ihtiyacınız olan şey bizde."
+    },
+    {
+      "id": "bc92e4cd",
+      "bank_id": "b0522802",
+      "text": "Aksesuarlarımızdan bazılarıyla görünüşünüzü değiştirin."
+    },
+    {
+      "id": "bc92e4ce",
+      "bank_id": "b0522802",
+      "text": "Kendinizi yüzükler ve kolyelerle donatın."
+    },
+    {
+      "id": "bf963dcc",
+      "bank_id": "b0522802",
+      "text": "Harika fiyatlarla her türlü giyim eşyası."
+    },
+    {
+      "id": "bf963dce",
+      "bank_id": "b0522802",
+      "text": "Diyar diyar dolaşsanız bulamayacağınız en kaliteli tuhafiyeci!"
+    },
+    {
+      "id": "bf963dcf",
+      "bank_id": "b0522802",
+      "text": "Eski kıyafetlerinizden bıktınız mı? Yenilerini alın!"
+    },
+    {
+      "id": "c1a223f4",
+      "bank_id": "b0522802",
+      "text": "Harika aksesuarlarımdan alın!"
+    },
+    {
+      "id": "c592f318",
+      "bank_id": "b0522802",
+      "text": "Birkaç aksesuarla görünüşünüzü güzelleştirin."
+    },
+    {
+      "id": "c592f319",
+      "bank_id": "b0522802",
+      "text": "Süs eşyalarımızla kendinizi donatın."
+    },
+    {
+      "id": "c592f31b",
+      "bank_id": "b0522802",
+      "text": "En iyi mücevherlerin hepsi bizde."
+    },
+    {
+      "id": "c5d3d8de",
+      "bank_id": "b0522802",
+      "text": "Kelle uçurma teknolojisindeki en son yenilikleri mi arıyorsunuz? Başka yere bakmayın!"
+    },
+    {
+      "id": "cca23525",
+      "bank_id": "b0522802",
+      "text": "Kolyeler ve yüzükler!"
+    },
+    {
+      "id": "cf1fe830",
+      "bank_id": "b0522802",
+      "text": "Tüm Bowerstone'un en çok satan eşyaları!"
+    },
+    {
+      "id": "cf1fe831",
+      "bank_id": "b0522802",
+      "text": "Bowerstone'un en iyisi tam burada!"
+    },
+    {
+      "id": "cf1fe832",
+      "bank_id": "b0522802",
+      "text": "Tüm Bowerstone'da daha iyi bir alışveriş yeri yok!"
+    },
+    {
+      "id": "d4dcddb0",
+      "bank_id": "b0522802",
+      "text": "İçinizi ısıtacak bir şey mi lazım? İçkilerimizi deneyin!"
+    },
+    {
+      "id": "d4dcddb1",
+      "bank_id": "b0522802",
+      "text": "En seçkin içeceklerimizle çakırkeyif olun."
+    },
+    {
+      "id": "d4dcddb2",
+      "bank_id": "b0522802",
+      "text": "Asla Kusturmayan İçecek çeşitlerimizle tüm dertlerinizi unutun."
+    },
+    {
+      "id": "d6695df4",
+      "bank_id": "b0522802",
+      "text": "Giyim aksesuarları stokta."
+    },
+    {
+      "id": "d7270df5",
+      "bank_id": "b0522802",
+      "text": "Kasabanın en iyi kitapları! Fazla kelime de yok!"
+    },
+    {
+      "id": "d81ff61c",
+      "bank_id": "b0522802",
+      "text": "Bowerstone'un en kaliteli malları!"
+    },
+    {
+      "id": "d81ff61d",
+      "bank_id": "b0522802",
+      "text": "Tüm Bowerstone'da daha kaliteli mallar yok!"
+    },
+    {
+      "id": "d81ff61f",
+      "bank_id": "b0522802",
+      "text": "Bowerstone'un en iyi ürünleri!"
+    },
+    {
+      "id": "db5c9374",
+      "bank_id": "b0522802",
+      "text": "Enayi olmayın! Mallarımdan kapın hemen!"
+    },
+    {
+      "id": "dddceb9c",
+      "bank_id": "b0522802",
+      "text": "Sarhoş ediyorsa kesin bizde vardır!"
+    },
+    {
+      "id": "dddceb9d",
+      "bank_id": "b0522802",
+      "text": "Bir domuzu bile boğacak kadar çok içkimiz var!"
+    },
+    {
+      "id": "dddceb9f",
+      "bank_id": "b0522802",
+      "text": "Harika ateş sularımızla sarhoş olun."
+    },
+    {
+      "id": "de2718f8",
+      "bank_id": "b0522802",
+      "text": "En iyi yazar ve en iyi hikâyeler kitaplarımda bulunur!"
+    },
+    {
+      "id": "e483fc44",
+      "bank_id": "b0522802",
+      "text": "Kılıcınız istediğiniz kadar acıtmıyor mu? Baltanız yorgun mu hissettiriyor? Hemen bugün bir efsun taşı alın!"
+    },
+    {
+      "id": "e483fc45",
+      "bank_id": "b0522802",
+      "text": "Efsun taşları! Onları istediğinizi biliyorsunuz."
+    },
+    {
+      "id": "e483fc47",
+      "bank_id": "b0522802",
+      "text": "En yeni efsun taşlarımızla biçme ve doğrama zevkinizi katlayın."
+    },
+    {
+      "id": "eb840748",
+      "bank_id": "b0522802",
+      "text": "Efsun taşlarımızla silahlarınızı geliştirin."
+    },
+    {
+      "id": "eb840749",
+      "bank_id": "b0522802",
+      "text": "Eskilerini daha da iyi hale getirebilecekken neden yeni şeyler alasınız ki?"
+    },
+    {
+      "id": "ed387f35",
+      "bank_id": "b0522802",
+      "text": "Meşhur sakallarımla yüzünüze biraz karakter katın!"
+    },
+    {
+      "id": "f1fb30c1",
+      "bank_id": "b0522802",
+      "text": "Kıyafetlerinizin renkleriyle oynamak mı istiyorsunuz? Her çeşit boyamız var."
+    },
+    {
+      "id": "f1fb30c2",
+      "bank_id": "b0522802",
+      "text": "Kıyafetinizi bir saatten kısa sürede renklendirin!"
+    },
+    {
+      "id": "f1fb30c3",
+      "bank_id": "b0522802",
+      "text": "Yeni renkler denemek ister misiniz?"
+    },
+    {
+      "id": "f2f8eb64",
+      "bank_id": "b0522802",
+      "text": "Nefis içkilerimle susuzluğunuzu katledin!"
+    },
+    {
+      "id": "f4388a38",
+      "bank_id": "b0522802",
+      "text": "Sakallar! Her şekil ve boyutta!"
+    },
+    {
+      "id": "f4bf8318",
+      "bank_id": "b0522802",
+      "text": "Harika yemeklerimle karnınızı tıka basa doyurun."
+    },
+    {
+      "id": "f4bf831b",
+      "bank_id": "b0522802",
+      "text": "Hiçbir yerde daha leziz yemekler bulamazsınız!"
+    },
+    {
+      "id": "f4c9709c",
+      "bank_id": "b0522802",
+      "text": "Kanamayı durdurmak için iksire mi ihtiyacınız var? Bende var!"
+    },
+    {
+      "id": "f4c9709d",
+      "bank_id": "b0522802",
+      "text": "Kanlı Çile'de hayatta kalmak için ihtiyacın olan her şey, üstelik hiç de fahiş olmayan fiyatlarla!"
+    },
+    {
+      "id": "f8715fad",
+      "bank_id": "b0522802",
+      "text": "İhtiyacınız olabilecek tüm kıyafetler hemen burada."
+    },
+    {
+      "id": "f8715fae",
+      "bank_id": "b0522802",
+      "text": "Albion'un en iyi kıyafetleri! Kendi gözlerinizle görün!"
+    },
+    {
+      "id": "f8715faf",
+      "bank_id": "b0522802",
+      "text": "Size uygun moda bizde!"
+    },
+    {
+      "id": "f9bf8b3a",
+      "bank_id": "b0522802",
+      "text": "Besine mi ihtiyacınız var? Bizde var!"
+    },
+    {
+      "id": "f9d65b64",
+      "bank_id": "b0522802",
+      "text": "Sakal isteyen var mı? Hadi ama, sakal istediğinizi biliyorsunuz!"
+    },
+    {
+      "id": "f9d65b65",
+      "bank_id": "b0522802",
+      "text": "Sakal olmadan hayatta bir yere varamazsınız!"
+    },
+    {
+      "id": "f9d65b67",
+      "bank_id": "b0522802",
+      "text": "Tam size göre bir sakalım var. Hepinize göre!"
+    },
+    {
+      "id": "f9f8f669",
+      "bank_id": "b0522802",
+      "text": "Bir değişiklik yapıp sağlıklı bir şeyler için!"
+    },
+    {
+      "id": "f9f8f66a",
+      "bank_id": "b0522802",
+      "text": "Benimkilerden daha lezzetli içecekler bulamazsınız!"
+    },
+    {
+      "id": "fa03f661",
+      "bank_id": "b0522802",
+      "text": "Ne istiyorsun?"
+    },
+    {
+      "id": "fa03f664",
+      "bank_id": "b0522802",
+      "text": "Bugün size nasıl yardımcı olabilirim?"
+    },
+    {
+      "id": "fa03f666",
+      "bank_id": "b0522802",
+      "text": "Merhaba, yardımcı olabilir miyim?"
+    },
+    {
+      "id": "fa03f667",
+      "bank_id": "b0522802",
+      "text": "Merhabalar, alışveriş yapmaya mı geldiniz?"
+    },
+    {
+      "id": "fa68e3a8",
+      "bank_id": "b0522802",
+      "text": "Düşmüş dövüşçülerin henüz sıcak cesetlerinden toplanmış en iyi ve en nadir silahlar!"
+    },
+    {
+      "id": "fa71180d",
+      "bank_id": "b0522802",
+      "text": "Kitaplar! Kitaplar! Kitaplar!"
+    },
+    {
+      "id": "fcfb4270",
+      "bank_id": "b0522802",
+      "text": "Boyalarımızla kıyafetlerinizin rengini değiştirin."
+    },
+    {
+      "id": "fcfb4272",
+      "bank_id": "b0522802",
+      "text": "Boyalarımızla gardırobunuza renk katın."
+    },
+    {
+      "id": "fcfb4273",
+      "bank_id": "b0522802",
+      "text": "Kıyafetlerinizi boyamayı neden denemiyorsunuz?"
+    },
+    {
+      "id": "ff03fe00",
+      "bank_id": "b0522802",
+      "text": "Ne bakmıştınız?"
+    },
+    {
+      "id": "ff03fe05",
+      "bank_id": "b0522802",
+      "text": "Yardımcı olabilir miyim?"
+    },
+    {
+      "id": "ff03fe06",
+      "bank_id": "b0522802",
+      "text": "Bugün size nasıl yardımcı olabilirim?"
+    },
+    {
+      "id": "ff03fe07",
+      "bank_id": "b0522802",
+      "text": "Yardımcı olabilir miyim?"
+    },
+    {
+      "id": "ff71202c",
+      "bank_id": "b0522802",
+      "text": "Kitaplarımızla cehaletinizi azaltın."
+    }
+  ]
+}

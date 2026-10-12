@@ -1,0 +1,1411 @@
+{
+  "bank_id": "f0349601",
+  "total_strings": 281,
+  "strings": [
+    {
+      "id": "01404ab2",
+      "bank_id": "f0349601",
+      "text": "Şunun kaslarına bakın hele."
+    },
+    {
+      "id": "01404ab9",
+      "bank_id": "f0349601",
+      "text": "Şunun kaslarına bakın hele."
+    },
+    {
+      "id": "051a41b2",
+      "bank_id": "f0349601",
+      "text": "Büyücülere has bir havan var senin."
+    },
+    {
+      "id": "051a41b3",
+      "bank_id": "f0349601",
+      "text": "Tepeden tırnağa bir İrade kullanıcısısın, değil mi?"
+    },
+    {
+      "id": "051a41b4",
+      "bank_id": "f0349601",
+      "text": "Damarlarından büyü aktığı hemen anlaşılıyor."
+    },
+    {
+      "id": "051a41b5",
+      "bank_id": "f0349601",
+      "text": "Ne kadar da gizemli bir görünüş."
+    },
+    {
+      "id": "051a41b7",
+      "bank_id": "f0349601",
+      "text": "Sende tuhaf ve büyüsel bir şeyler var."
+    },
+    {
+      "id": "06fe4256",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "09694527",
+      "bank_id": "f0349601",
+      "text": "Onun kadar güçlü birini hiç gördünüz mü?"
+    },
+    {
+      "id": "0969452c",
+      "bank_id": "f0349601",
+      "text": "Onun kadar güçlü birini hiç gördünüz mü?"
+    },
+    {
+      "id": "0c1a4cb8",
+      "bank_id": "f0349601",
+      "text": "Tuhaf ve doğaüstü şeyleri biliyor gibi bir halin var."
+    },
+    {
+      "id": "0c1a4cb9",
+      "bank_id": "f0349601",
+      "text": "Üzerinde büyüsel bir parıltı var sanki."
+    },
+    {
+      "id": "0c1a4cba",
+      "bank_id": "f0349601",
+      "text": "Gizemli ve tekinsiz bir havan var."
+    },
+    {
+      "id": "0c1a4cbe",
+      "bank_id": "f0349601",
+      "text": "Bayağı... büyücü gibi görünüyorsun!"
+    },
+    {
+      "id": "0c1a4cbf",
+      "bank_id": "f0349601",
+      "text": "Görünüşe göre büyü yapmanın dozunu biraz kaçırmışsın."
+    },
+    {
+      "id": "0ccd6da0",
+      "bank_id": "f0349601",
+      "text": "Lanet bir trolden bile daha güçlü."
+    },
+    {
+      "id": "0ccd6dab",
+      "bank_id": "f0349601",
+      "text": "Lanet bir trolden bile daha güçlü."
+    },
+    {
+      "id": "0df85f77",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "0e4f0fe0",
+      "bank_id": "f0349601",
+      "text": "Miyavvv."
+    },
+    {
+      "id": "0e4f0fe1",
+      "bank_id": "f0349601",
+      "text": "Ooo evet."
+    },
+    {
+      "id": "0e4f0fe2",
+      "bank_id": "f0349601",
+      "text": "Her bakımdan göze hitap ediyor."
+    },
+    {
+      "id": "0e4f0fe3",
+      "bank_id": "f0349601",
+      "text": "İnsanın içini açan bir manzara olacağını tahmin etmiştim!"
+    },
+    {
+      "id": "0e4f0fe4",
+      "bank_id": "f0349601",
+      "text": "Ne afetti ama."
+    },
+    {
+      "id": "0e4f0fe6",
+      "bank_id": "f0349601",
+      "text": "Pek fena sayılmaz."
+    },
+    {
+      "id": "0e4f0fe7",
+      "bank_id": "f0349601",
+      "text": "Oldukça harika görünüyorsun, söylemeden edemeyeceğim."
+    },
+    {
+      "id": "0f37e353",
+      "bank_id": "f0349601",
+      "text": "Bazen keşke senden başka bir annem olsaydı diyorum."
+    },
+    {
+      "id": "0f37e358",
+      "bank_id": "f0349601",
+      "text": "Bazen keşke senden başka bir babam olsaydı diyorum."
+    },
+    {
+      "id": "134f1780",
+      "bank_id": "f0349601",
+      "text": "Fıstık gibi!"
+    },
+    {
+      "id": "134f1781",
+      "bank_id": "f0349601",
+      "text": "Göz banyosu dedikleri bu olsa gerek."
+    },
+    {
+      "id": "134f1782",
+      "bank_id": "f0349601",
+      "text": "Hımm."
+    },
+    {
+      "id": "134f1783",
+      "bank_id": "f0349601",
+      "text": "Ooo, MERhaba."
+    },
+    {
+      "id": "134f1785",
+      "bank_id": "f0349601",
+      "text": "Oooh!"
+    },
+    {
+      "id": "134f1786",
+      "bank_id": "f0349601",
+      "text": "Kaçırılmayacak bir fırsatsın hani."
+    },
+    {
+      "id": "134f1787",
+      "bank_id": "f0349601",
+      "text": "İnsanın gözünü gönlünü açıyor doğrusu."
+    },
+    {
+      "id": "14f86a7a",
+      "bank_id": "f0349601",
+      "text": "Evet! Oley!"
+    },
+    {
+      "id": "17964343",
+      "bank_id": "f0349601",
+      "text": "Tam bir İrade kullanıcısı. Baksanıza şuna."
+    },
+    {
+      "id": "17964348",
+      "bank_id": "f0349601",
+      "text": "Tam bir İrade kullanıcısı. Baksanıza şuna."
+    },
+    {
+      "id": "1b709207",
+      "bank_id": "f0349601",
+      "text": "Bütün arkadaşlarımın anneleri daha iyi."
+    },
+    {
+      "id": "1b70920c",
+      "bank_id": "f0349601",
+      "text": "Keşke babam başka biri olsaydı."
+    },
+    {
+      "id": "1d258ee1",
+      "bank_id": "f0349601",
+      "text": "Güzel tarz."
+    },
+    {
+      "id": "22bf90a2",
+      "bank_id": "f0349601",
+      "text": "Keşke ben de senin kadar komik olsaydım!"
+    },
+    {
+      "id": "22bf90a9",
+      "bank_id": "f0349601",
+      "text": "Ha ha! Bütün arkadaşlarım senin dünyanın en komik babası olduğunu söylüyor."
+    },
+    {
+      "id": "27ceefa0",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "27ceefa1",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "27ceefa3",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "27ceefa4",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "27ceefa5",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "27ceefa6",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "27ceefa7",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "2825a010",
+      "bank_id": "f0349601",
+      "text": "Hey, iyi görünüyorsun."
+    },
+    {
+      "id": "2bc82222",
+      "bank_id": "f0349601",
+      "text": "Ona bulaşmak istemezdim. Ne kadar güçlü olduğu hemen anlaşılıyor."
+    },
+    {
+      "id": "2bc82229",
+      "bank_id": "f0349601",
+      "text": "Ona bulaşmak istemezdim. Ne kadar güçlü olduğu hemen anlaşılıyor."
+    },
+    {
+      "id": "2ecefaa0",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "2ecefaa1",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "2ecefaa2",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "2ecefaa3",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "2ecefaa4",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "2ecefaa5",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "2ecefaa6",
+      "bank_id": "f0349601",
+      "text": "Oley be!"
+    },
+    {
+      "id": "2f1e33c1",
+      "bank_id": "f0349601",
+      "text": "Üzerinden yayılan İrade gücünü neredeyse hissedebiliyorsun."
+    },
+    {
+      "id": "2f1e33ca",
+      "bank_id": "f0349601",
+      "text": "Üzerinden yayılan İrade gücünü neredeyse hissedebiliyorsun."
+    },
+    {
+      "id": "3efb7180",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "3efb7181",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "3efb7182",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "3efb7183",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "3efb7184",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "3efb7186",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "3efb7187",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "3fa5e8a0",
+      "bank_id": "f0349601",
+      "text": "Ben... iyi bir kız olacağım. Söz veriyorum."
+    },
+    {
+      "id": "3fa5e8ab",
+      "bank_id": "f0349601",
+      "text": "Bana zarar vermezsin değil mi babacığım?"
+    },
+    {
+      "id": "40031961",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "40031962",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "40031963",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "40031964",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "40031965",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "40031966",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "40031967",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "43fb79a0",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "43fb79a1",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "43fb79a2",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "43fb79a3",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "43fb79a5",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "43fb79a6",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "43fb79a7",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "46403246",
+      "bank_id": "f0349601",
+      "text": "Taş gibi ve tehlikeli."
+    },
+    {
+      "id": "4640324d",
+      "bank_id": "f0349601",
+      "text": "Taş gibi ve tehlikeli."
+    },
+    {
+      "id": "4b032a90",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "4b032a92",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "4b032a93",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "4b032a94",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "4b032a95",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "4b032a96",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "4b032a97",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "4fb1bca6",
+      "bank_id": "f0349601",
+      "text": "Tam anlamıyla formunda biri."
+    },
+    {
+      "id": "4fb1bcad",
+      "bank_id": "f0349601",
+      "text": "Tam anlamıyla formunda biri."
+    },
+    {
+      "id": "517b92c0",
+      "bank_id": "f0349601",
+      "text": "Diğer çocukların annelerinden çok daha güzelsin."
+    },
+    {
+      "id": "517b92cb",
+      "bank_id": "f0349601",
+      "text": "Büyüyünce umarım senin gibi görünürüm baba."
+    },
+    {
+      "id": "54ed4d00",
+      "bank_id": "f0349601",
+      "text": "Onun kadar uzun boylu bir kadına pek sık rastlayamazsın."
+    },
+    {
+      "id": "54ed4d0b",
+      "bank_id": "f0349601",
+      "text": "Buralardaki diğer adamlardan çok daha uzun boylu."
+    },
+    {
+      "id": "55a11b96",
+      "bank_id": "f0349601",
+      "text": "Keşke onun kadar uzun olsaydım. Elma toplamak için harika olurdu."
+    },
+    {
+      "id": "55a11b9d",
+      "bank_id": "f0349601",
+      "text": "Keşke onun kadar uzun olsaydım. Elma toplamak için harika olurdu."
+    },
+    {
+      "id": "571e8cb1",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "621e9de0",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "67f73523",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "6b9144f4",
+      "bank_id": "f0349601",
+      "text": "Baba, beni korkutuyorsun..."
+    },
+    {
+      "id": "6b9144ff",
+      "bank_id": "f0349601",
+      "text": "Anne, beni korkutuyorsun..."
+    },
+    {
+      "id": "6c238956",
+      "bank_id": "f0349601",
+      "text": "Uslu... uslu durmaya çalışacağım baba."
+    },
+    {
+      "id": "6c23895d",
+      "bank_id": "f0349601",
+      "text": "Yaramazlık yapmayacağıma söz veriyorum anne."
+    },
+    {
+      "id": "6ddb16c5",
+      "bank_id": "f0349601",
+      "text": "Neden diğer babalar gibi olamıyorsun?"
+    },
+    {
+      "id": "6ddb16ce",
+      "bank_id": "f0349601",
+      "text": "Bu günlerden birinde evden kaçacağım."
+    },
+    {
+      "id": "6eb87ab0",
+      "bank_id": "f0349601",
+      "text": "Üzerinde bu dünyaya ait olmayan bir parıltı var."
+    },
+    {
+      "id": "6eb87abb",
+      "bank_id": "f0349601",
+      "text": "Üzerinde bu dünyaya ait olmayan bir parıltı var."
+    },
+    {
+      "id": "6ef74026",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "70180cd1",
+      "bank_id": "f0349601",
+      "text": "O vücudu geliştirmek için epey vakit harcıyor olmalı."
+    },
+    {
+      "id": "70180cda",
+      "bank_id": "f0349601",
+      "text": "O vücudu geliştirmek için epey vakit harcıyor olmalı."
+    },
+    {
+      "id": "7a16870f",
+      "bank_id": "f0349601",
+      "text": "Senin gibi bir annem olduğu için çok şanslıyım."
+    },
+    {
+      "id": "7b517593",
+      "bank_id": "f0349601",
+      "text": "Biz fanilere yukarıdan bakarken başı dönüyor olmalı."
+    },
+    {
+      "id": "7b517598",
+      "bank_id": "f0349601",
+      "text": "Çok uzun boylu! Hanımların bundan hoşlandığını duymuştum."
+    },
+    {
+      "id": "7cbbfe76",
+      "bank_id": "f0349601",
+      "text": "Okuldaki bütün kızlar senin rüya gibi olduğunu söylüyor. Çok tuhaflar gerçekten."
+    },
+    {
+      "id": "7cbbfe7d",
+      "bank_id": "f0349601",
+      "text": "Büyüyünce senin kadar güzel olur muyum sence?"
+    },
+    {
+      "id": "902ae5d8",
+      "bank_id": "f0349601",
+      "text": "Kendine yaptığın değişikliğe bayıldım."
+    },
+    {
+      "id": "902ae5da",
+      "bank_id": "f0349601",
+      "text": "Bu tarz sana çok yakışmış."
+    },
+    {
+      "id": "902ae5db",
+      "bank_id": "f0349601",
+      "text": "İşte bir Kahraman dediğin tam da böyle görünmeli."
+    },
+    {
+      "id": "902ae5dc",
+      "bank_id": "f0349601",
+      "text": "Görünüşüne resmen bayılıyorum."
+    },
+    {
+      "id": "902ae5dd",
+      "bank_id": "f0349601",
+      "text": "Bayağı harika görünüyorsun."
+    },
+    {
+      "id": "902ae5de",
+      "bank_id": "f0349601",
+      "text": "Harika bir tarz."
+    },
+    {
+      "id": "902ae5df",
+      "bank_id": "f0349601",
+      "text": "Kendine yaptığın tarza resmen hayran kaldım."
+    },
+    {
+      "id": "921a6c00",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "921a6c01",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "921a6c02",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "921a6c04",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "921a6c05",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "921a6c06",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "921a6c07",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "94d47dd8",
+      "bank_id": "f0349601",
+      "text": "Ha ha! Şuna da bakın hele!"
+    },
+    {
+      "id": "94d47dda",
+      "bank_id": "f0349601",
+      "text": "Ha ha. Daha da aptalca görünemezdin herhalde?"
+    },
+    {
+      "id": "94d47ddb",
+      "bank_id": "f0349601",
+      "text": "Bundan daha salakça görünmen imkânsızdı!"
+    },
+    {
+      "id": "952aedf9",
+      "bank_id": "f0349601",
+      "text": "Manken falan olmalıydın sen."
+    },
+    {
+      "id": "952aedfa",
+      "bank_id": "f0349601",
+      "text": "Gözlere şenliksin doğrusu."
+    },
+    {
+      "id": "952aedfb",
+      "bank_id": "f0349601",
+      "text": "Keşke senin yarın kadar iyi görünseydim."
+    },
+    {
+      "id": "952aedfc",
+      "bank_id": "f0349601",
+      "text": "Bayağı bir güzelsin hani."
+    },
+    {
+      "id": "952aedfd",
+      "bank_id": "f0349601",
+      "text": "Senin yanında hepimiz çirkin kalıyoruz."
+    },
+    {
+      "id": "952aedfe",
+      "bank_id": "f0349601",
+      "text": "Hmm, son moda bu mu yani? Göz alıcı."
+    },
+    {
+      "id": "952aedff",
+      "bank_id": "f0349601",
+      "text": "Gerçekten çok göz kamaştırıcısın."
+    },
+    {
+      "id": "99d485f9",
+      "bank_id": "f0349601",
+      "text": "Ha ha! Çok şapşal görünüyorsun!"
+    },
+    {
+      "id": "99d485fa",
+      "bank_id": "f0349601",
+      "text": "Daha aptalca bir şey görmemiştim!"
+    },
+    {
+      "id": "99d485fb",
+      "bank_id": "f0349601",
+      "text": "Ha ha! Gülünç görünüyorsun!"
+    },
+    {
+      "id": "9b19c020",
+      "bank_id": "f0349601",
+      "text": "Üzerinde bir dirhem bile yağ yok. Bayağı fit."
+    },
+    {
+      "id": "9b19c02b",
+      "bank_id": "f0349601",
+      "text": "Üzerinde bir dirhem bile yağ yok. Bayağı fit."
+    },
+    {
+      "id": "9b1a7a68",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "9b1a7a69",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "9b1a7a6a",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "9b1a7a6b",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "9b1a7a6c",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "9b1a7a6d",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "9b1a7a6f",
+      "bank_id": "f0349601",
+      "text": "Yaaaaaşasın!"
+    },
+    {
+      "id": "9dc8e365",
+      "bank_id": "f0349601",
+      "text": "En komiği sensin anne!"
+    },
+    {
+      "id": "9dc8e36e",
+      "bank_id": "f0349601",
+      "text": "En komiği sensin baba!"
+    },
+    {
+      "id": "9f3da3d1",
+      "bank_id": "f0349601",
+      "text": "Biz fanilere yukarıdan bakarken başı dönüyor olmalı."
+    },
+    {
+      "id": "9f3da3da",
+      "bank_id": "f0349601",
+      "text": "O kadar uzun ki! Üzerine uygun kıyafet bulmak zor olmalı."
+    },
+    {
+      "id": "a12ea6f7",
+      "bank_id": "f0349601",
+      "text": "Omuzlarına çıksam ondan daha uzun olur muyum sence?"
+    },
+    {
+      "id": "a12ea6fc",
+      "bank_id": "f0349601",
+      "text": "Omuzlarına çıksam ondan daha uzun olur muyum sence?"
+    },
+    {
+      "id": "a4861aa3",
+      "bank_id": "f0349601",
+      "text": "Bana sorarsan tam bir ucube. Baksana şu boyuna."
+    },
+    {
+      "id": "a4861aa8",
+      "bank_id": "f0349601",
+      "text": "Bana sorarsan tam bir ucube. Baksana şu boyuna."
+    },
+    {
+      "id": "b24e97e0",
+      "bank_id": "f0349601",
+      "text": "Kalıplı bir delikanlı, değil mi?"
+    },
+    {
+      "id": "b24e97eb",
+      "bank_id": "f0349601",
+      "text": "Kalıplı bir kız, değil mi?"
+    },
+    {
+      "id": "b5c49528",
+      "bank_id": "f0349601",
+      "text": "Bunun daha çocuk olduğu zamanları hatırlıyor musun?"
+    },
+    {
+      "id": "b5c49529",
+      "bank_id": "f0349601",
+      "text": "Biraz yaşlanmış gibi görünüyor, sence de öyle değil mi?"
+    },
+    {
+      "id": "b5c4952d",
+      "bank_id": "f0349601",
+      "text": "Bugünlerde biraz yaşlı görünüyor."
+    },
+    {
+      "id": "b5c4952e",
+      "bank_id": "f0349601",
+      "text": "Birilerinin yaşı iyiden iyiye belli olmaya başlamış."
+    },
+    {
+      "id": "b5c4952f",
+      "bank_id": "f0349601",
+      "text": "Herkes yaşlanır herhalde."
+    },
+    {
+      "id": "b7f3dfc6",
+      "bank_id": "f0349601",
+      "text": "Buralardaki en güçlü insanlardan biri olmalı."
+    },
+    {
+      "id": "b7f3dfcd",
+      "bank_id": "f0349601",
+      "text": "Buralardaki en güçlü insanlardan biri olmalı."
+    },
+    {
+      "id": "b926a977",
+      "bank_id": "f0349601",
+      "text": "Vay canına, süper görünüyorsun!"
+    },
+    {
+      "id": "b9c67b14",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "bc2f9077",
+      "bank_id": "f0349601",
+      "text": "İyi bir kız olacağım babacığım, söz veriyorum."
+    },
+    {
+      "id": "bc2f907c",
+      "bank_id": "f0349601",
+      "text": "İyi bir kız olacağım anneciğim, söz veriyorum."
+    },
+    {
+      "id": "bec68335",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "c026b47a",
+      "bank_id": "f0349601",
+      "text": "Gerçekten çok havalı görünüyorsun."
+    },
+    {
+      "id": "c0c4a658",
+      "bank_id": "f0349601",
+      "text": "Hepimiz yaşlanıyoruz sanırım. Bazıları diğerlerinden daha hızlı."
+    },
+    {
+      "id": "c0c4a659",
+      "bank_id": "f0349601",
+      "text": "Artık eskisi kadar genç görünmüyor."
+    },
+    {
+      "id": "c0c4a65c",
+      "bank_id": "f0349601",
+      "text": "Tarih öncesinden kalmış gibi duruyor, sence de öyle değil mi?"
+    },
+    {
+      "id": "c0c4a65e",
+      "bank_id": "f0349601",
+      "text": "Bu kadar yaşlı olduğunu fark etmemiştim."
+    },
+    {
+      "id": "c0c4a65f",
+      "bank_id": "f0349601",
+      "text": "Şu maceracı gerçekten yaşlanmaya başlamış."
+    },
+    {
+      "id": "c34a1ca7",
+      "bank_id": "f0349601",
+      "text": "Umarım büyüyünce ben de senin kadar havalı görünürüm."
+    },
+    {
+      "id": "c5830c20",
+      "bank_id": "f0349601",
+      "text": "Bir tür büyücü mü bu? Öyle görünüyor."
+    },
+    {
+      "id": "c5830c2b",
+      "bank_id": "f0349601",
+      "text": "Bir tür büyücü mü bu? Öyle görünüyor."
+    },
+    {
+      "id": "ca4a27aa",
+      "bank_id": "f0349601",
+      "text": "Her zaman böyle havalı mı görünüyordun?"
+    },
+    {
+      "id": "cfe202d8",
+      "bank_id": "f0349601",
+      "text": "Bahse girerim beni havaya tüy gibi kaldırabilirsin, ha?"
+    },
+    {
+      "id": "cfe202d9",
+      "bank_id": "f0349601",
+      "text": "Şimdiye kadar gördüğüm herkesten daha güçlüsün."
+    },
+    {
+      "id": "cfe202dd",
+      "bank_id": "f0349601",
+      "text": "Ağırlık çalışıyorsun, değil mi?"
+    },
+    {
+      "id": "cfe202de",
+      "bank_id": "f0349601",
+      "text": "Tek elinle bir domuzu ikiye bölebilecek gibi görünüyorsun."
+    },
+    {
+      "id": "cfe202df",
+      "bank_id": "f0349601",
+      "text": "Kusuruma bakmazsan tam bir pehlivan yapın var."
+    },
+    {
+      "id": "d1924150",
+      "bank_id": "f0349601",
+      "text": "Hiç kimse beni senin gibi güldüremez baba!"
+    },
+    {
+      "id": "d192415b",
+      "bank_id": "f0349601",
+      "text": "Hihihi, çok komiksin anne."
+    },
+    {
+      "id": "d8fc8930",
+      "bank_id": "f0349601",
+      "text": "Vuhuuu!"
+    },
+    {
+      "id": "d8fc8931",
+      "bank_id": "f0349601",
+      "text": "Vuhuuu!"
+    },
+    {
+      "id": "d8fc8932",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "d8fc8933",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "d8fc8934",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "d8fc8936",
+      "bank_id": "f0349601",
+      "text": "Evet! Eveeeet!"
+    },
+    {
+      "id": "d8fc8937",
+      "bank_id": "f0349601",
+      "text": "Vuhuuu!"
+    },
+    {
+      "id": "dae21408",
+      "bank_id": "f0349601",
+      "text": "Ne kadar güçlüsün öyle?"
+    },
+    {
+      "id": "dae21409",
+      "bank_id": "f0349601",
+      "text": "Bayağı güçlü kasların var senin."
+    },
+    {
+      "id": "dae2140c",
+      "bank_id": "f0349601",
+      "text": "Vay be, çok güçlü görünüyorsun."
+    },
+    {
+      "id": "dae2140e",
+      "bank_id": "f0349601",
+      "text": "Ağır şeyleri kaldırmakta hiç zorlanmıyorsundur herhalde, değil mi?"
+    },
+    {
+      "id": "dae2140f",
+      "bank_id": "f0349601",
+      "text": "Senin kadar güçlüsü pek az bulunur."
+    },
+    {
+      "id": "dd20acd0",
+      "bank_id": "f0349601",
+      "text": "Tarzını beğendim."
+    },
+    {
+      "id": "dd20acd1",
+      "bank_id": "f0349601",
+      "text": "İyi görünüyorsun."
+    },
+    {
+      "id": "dd20acd3",
+      "bank_id": "f0349601",
+      "text": "Harika görünüyorsun."
+    },
+    {
+      "id": "dd20acd4",
+      "bank_id": "f0349601",
+      "text": "Hmm, bütün gün izleyebilirim seni."
+    },
+    {
+      "id": "dd20acd5",
+      "bank_id": "f0349601",
+      "text": "Fevkalade bir tarz."
+    },
+    {
+      "id": "dd20acd6",
+      "bank_id": "f0349601",
+      "text": "Ooo evet! Ateşli!"
+    },
+    {
+      "id": "dd20acd7",
+      "bank_id": "f0349601",
+      "text": "Çok hoş!"
+    },
+    {
+      "id": "ddfc90d0",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "ddfc90d1",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "ddfc90d2",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "ddfc90d3",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "ddfc90d5",
+      "bank_id": "f0349601",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "ddfc90d6",
+      "bank_id": "f0349601",
+      "text": "Yaaaa!"
+    },
+    {
+      "id": "ddfc90d7",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "df073a65",
+      "bank_id": "f0349601",
+      "text": "Beni yine güldürsene babacığım."
+    },
+    {
+      "id": "df073a6e",
+      "bank_id": "f0349601",
+      "text": "Beni yine güldürsene anneciğim."
+    },
+    {
+      "id": "e1ca44d1",
+      "bank_id": "f0349601",
+      "text": "Ha ha! İnsanları güldürmeye mi çalışıyorsun?"
+    },
+    {
+      "id": "e1ca44d4",
+      "bank_id": "f0349601",
+      "text": "Ha ha! Ne kadar gülünç bir tipsin sen öyle."
+    },
+    {
+      "id": "e1ca44d5",
+      "bank_id": "f0349601",
+      "text": "Ha ha! Görünüşün fevkalade komik."
+    },
+    {
+      "id": "e1ca44d6",
+      "bank_id": "f0349601",
+      "text": "İyi bir palyaço olurdun hani."
+    },
+    {
+      "id": "e1ca44d7",
+      "bank_id": "f0349601",
+      "text": "Ha ha! Gülmeye ihtiyacım vardı. Sağ olasın."
+    },
+    {
+      "id": "e2c0abb0",
+      "bank_id": "f0349601",
+      "text": "Yaaaa!"
+    },
+    {
+      "id": "e2c0abb1",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "e2c0abb3",
+      "bank_id": "f0349601",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "e2c0abb4",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "e2c0abb5",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "e2c0abb6",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "e2c0abb7",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    },
+    {
+      "id": "e420b7d0",
+      "bank_id": "f0349601",
+      "text": "Görünüşünden çok etkilendim."
+    },
+    {
+      "id": "e420b7d1",
+      "bank_id": "f0349601",
+      "text": "Gerçekten ilahi bir manzara."
+    },
+    {
+      "id": "e420b7d2",
+      "bank_id": "f0349601",
+      "text": "Hmmm-hmm!"
+    },
+    {
+      "id": "e420b7d3",
+      "bank_id": "f0349601",
+      "text": "Gördüğüm şey hoşuma gitti."
+    },
+    {
+      "id": "e420b7d4",
+      "bank_id": "f0349601",
+      "text": "Çok güzel."
+    },
+    {
+      "id": "e420b7d5",
+      "bank_id": "f0349601",
+      "text": "Seni görmek çok ama çok güzel."
+    },
+    {
+      "id": "e420b7d6",
+      "bank_id": "f0349601",
+      "text": "<whistles>"
+    },
+    {
+      "id": "e65951c0",
+      "bank_id": "f0349601",
+      "text": "Pek iyi bir anne sayılmazsın biliyorsun değil mi."
+    },
+    {
+      "id": "e65951cb",
+      "bank_id": "f0349601",
+      "text": "Pek iyi bir baba sayılmazsın biliyorsun değil mi."
+    },
+    {
+      "id": "e7d30831",
+      "bank_id": "f0349601",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "e8ca4fd0",
+      "bank_id": "f0349601",
+      "text": "Üzerinde bayağı eğlenceli bir tarz taşıyorsun."
+    },
+    {
+      "id": "e8ca4fd1",
+      "bank_id": "f0349601",
+      "text": "Ha ha! Daha önce hiç bu kadar saçma bir şey görmemiştim."
+    },
+    {
+      "id": "e8ca4fd2",
+      "bank_id": "f0349601",
+      "text": "Bayağı kaçık görünüyorsun hani. Ha ha!"
+    },
+    {
+      "id": "e8ca4fd3",
+      "bank_id": "f0349601",
+      "text": "Ha! Tipine bakılırsa insanları güldürmeyi seviyorsun."
+    },
+    {
+      "id": "e8ca4fd4",
+      "bank_id": "f0349601",
+      "text": "Ha ha! O kıyafeti nereden aldın? Aptallar pazarından mı?"
+    },
+    {
+      "id": "e8ca4fd5",
+      "bank_id": "f0349601",
+      "text": "Ne kadar aptal görünüyorsun öyle?! Bayağı!"
+    },
+    {
+      "id": "e8ca4fd6",
+      "bank_id": "f0349601",
+      "text": "Gerçek bir komedi yeteneğin var. Ha ha."
+    },
+    {
+      "id": "e9c0b6b0",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "e9c0b6b1",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "e9c0b6b2",
+      "bank_id": "f0349601",
+      "text": "Vuhuuu!"
+    },
+    {
+      "id": "e9c0b6b3",
+      "bank_id": "f0349601",
+      "text": "Vuhuuu!"
+    },
+    {
+      "id": "e9c0b6b4",
+      "bank_id": "f0349601",
+      "text": "Evet! Eveeeet!"
+    },
+    {
+      "id": "e9c0b6b5",
+      "bank_id": "f0349601",
+      "text": "Vuhuuu!"
+    },
+    {
+      "id": "e9c0b6b6",
+      "bank_id": "f0349601",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "eb551bb7",
+      "bank_id": "f0349601",
+      "text": "Kesinlikle okült işlerle uğraşan biri."
+    },
+    {
+      "id": "eb551bbc",
+      "bank_id": "f0349601",
+      "text": "Kesinlikle okült işlerle uğraşan biri."
+    },
+    {
+      "id": "f1beb762",
+      "bank_id": "f0349601",
+      "text": "Bayağı sıkı çalışıyor olmalısın."
+    },
+    {
+      "id": "f1beb763",
+      "bank_id": "f0349601",
+      "text": "Üzerinde bir dirhem bile yağ yok."
+    },
+    {
+      "id": "f1beb765",
+      "bank_id": "f0349601",
+      "text": "Güzel kaslar ama."
+    },
+    {
+      "id": "f2d31960",
+      "bank_id": "f0349601",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "f4025601",
+      "bank_id": "f0349601",
+      "text": "Bir ağaçla akrabalığın falan var mı?"
+    },
+    {
+      "id": "f4025602",
+      "bank_id": "f0349601",
+      "text": "Yukarıdan manzara nasıl bari?"
+    },
+    {
+      "id": "f4025603",
+      "bank_id": "f0349601",
+      "text": "Boy uzatma tezgâhında epey vakit geçirmiş olmalısın."
+    },
+    {
+      "id": "f4025604",
+      "bank_id": "f0349601",
+      "text": "Hep bu kadar uzun muydun sen?"
+    },
+    {
+      "id": "f4025605",
+      "bank_id": "f0349601",
+      "text": "Bana yukarıdan bakıp durma."
+    },
+    {
+      "id": "fb31ecd6",
+      "bank_id": "f0349601",
+      "text": "Hayatını büyü yaparak kazandığı belli. Şuna baksanıza."
+    },
+    {
+      "id": "fb31ecdd",
+      "bank_id": "f0349601",
+      "text": "Hayatını büyü yaparak kazandığı belli. Şuna baksanıza."
+    },
+    {
+      "id": "fcbec890",
+      "bank_id": "f0349601",
+      "text": "Senden daha formda birini gördüğümü sanmıyorum."
+    },
+    {
+      "id": "fcbec892",
+      "bank_id": "f0349601",
+      "text": "Formunu koruyorsun, değil mi?"
+    },
+    {
+      "id": "fcbec895",
+      "bank_id": "f0349601",
+      "text": "Bayağı egzersiz yapıyor olmalısın, ha?"
+    },
+    {
+      "id": "ff0267b0",
+      "bank_id": "f0349601",
+      "text": "Yukarıdan manzara güzel mi bari?"
+    },
+    {
+      "id": "ff0267b2",
+      "bank_id": "f0349601",
+      "text": "Sana bakacağım diye boynum tutuldu."
+    },
+    {
+      "id": "ff0267b3",
+      "bank_id": "f0349601",
+      "text": "Nasıl bu kadar uzun boylu oldun sen?"
+    },
+    {
+      "id": "ff0267b4",
+      "bank_id": "f0349601",
+      "text": "Bayağı uzunsun hani."
+    },
+    {
+      "id": "ff0267b5",
+      "bank_id": "f0349601",
+      "text": "Ayakkabılarında gizli topuk falan mı var?"
+    },
+    {
+      "id": "fffe3753",
+      "bank_id": "f0349601",
+      "text": "Vuhuuuuu!"
+    }
+  ]
+}

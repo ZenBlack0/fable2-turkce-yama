@@ -1,0 +1,801 @@
+{
+  "bank_id": "c04e2802",
+  "total_strings": 159,
+  "strings": [
+    {
+      "id": "0d0b93fa",
+      "bank_id": "c04e2802",
+      "text": "Kendine ünlü mü diyorsun yani? Ne aptal ama."
+    },
+    {
+      "id": "0d0b93fb",
+      "bank_id": "c04e2802",
+      "text": "Hemen havaya girme öyle seni hobbe pisliği."
+    },
+    {
+      "id": "0d0b93fc",
+      "bank_id": "c04e2802",
+      "text": "Gelmiş geçmiş en berbat ünlü maceracısın sen."
+    },
+    {
+      "id": "0d0b93fd",
+      "bank_id": "c04e2802",
+      "text": "Meşhur mu? Şimdilik vasat bir maceracısın sadece. Bana kalırsa beş para etmezsin."
+    },
+    {
+      "id": "0d0b93fe",
+      "bank_id": "c04e2802",
+      "text": "Öff. O kadar da meşhur değilsin hani."
+    },
+    {
+      "id": "160ba1c8",
+      "bank_id": "c04e2802",
+      "text": "İnsanları etkilemeye başlamış olabilirsin ama benim zerre umurumda değilsin."
+    },
+    {
+      "id": "160ba1c9",
+      "bank_id": "c04e2802",
+      "text": "Kapa çeneni seni çakma ünlü."
+    },
+    {
+      "id": "160ba1cb",
+      "bank_id": "c04e2802",
+      "text": "Adını duyurmaya mı başladın? Ne yazık ki pek kötü bir nam."
+    },
+    {
+      "id": "160ba1ce",
+      "bank_id": "c04e2802",
+      "text": "İki dirhem başarı gördün diye hemen burnun havaya kalktı. Hadi oradan, defol git."
+    },
+    {
+      "id": "160ba1cf",
+      "bank_id": "c04e2802",
+      "text": "Gözümü hiç boyayamazsın seni yarım porsiyon maceracı."
+    },
+    {
+      "id": "27915963",
+      "bank_id": "c04e2802",
+      "text": "Neden bu kadar kötü bir köpek olmak zorundasın ki??"
+    },
+    {
+      "id": "2d3c4192",
+      "bank_id": "c04e2802",
+      "text": "Bir köpeğe göre cidden çok yakışıklısın."
+    },
+    {
+      "id": "2d3c4193",
+      "bank_id": "c04e2802",
+      "text": "Gelmiş geçmiş en fiyakalı köpek bu."
+    },
+    {
+      "id": "2d3c4194",
+      "bank_id": "c04e2802",
+      "text": "Yerim ben seni, seni tatlı köpek!"
+    },
+    {
+      "id": "2d3c4195",
+      "bank_id": "c04e2802",
+      "text": "Ne kadar tatlı bir şeysin sen öyle."
+    },
+    {
+      "id": "2d3c4197",
+      "bank_id": "c04e2802",
+      "text": "Hayatımda gördüğüm en sevimli köpeksin."
+    },
+    {
+      "id": "2e916466",
+      "bank_id": "c04e2802",
+      "text": "Pfft! Aptal it!"
+    },
+    {
+      "id": "343c4c98",
+      "bank_id": "c04e2802",
+      "text": "Ortalıkta bir sürü çirkin hayvan var ama sen onlardan biri değilsin."
+    },
+    {
+      "id": "343c4c99",
+      "bank_id": "c04e2802",
+      "text": "Aman da ne kadar sevimli bir köpekmiş bu?"
+    },
+    {
+      "id": "343c4c9a",
+      "bank_id": "c04e2802",
+      "text": "Pek sevimli bir itsin bilesin."
+    },
+    {
+      "id": "343c4c9e",
+      "bank_id": "c04e2802",
+      "text": "Amma da cana yakın bir şeysin sen öyle, değil mi?"
+    },
+    {
+      "id": "343c4c9f",
+      "bank_id": "c04e2802",
+      "text": "Ne kadar yakışıklı bir şeysin sen."
+    },
+    {
+      "id": "3fb41774",
+      "bank_id": "c04e2802",
+      "text": "Pöh! Şimdikinden katbekat daha ünlü olsan bile yine de hıyarın teki olurdun."
+    },
+    {
+      "id": "44b41f15",
+      "bank_id": "c04e2802",
+      "text": "Birazcık meşhur oldun diye seninle konuşmak isteyeceğimi mi sanıyorsun?"
+    },
+    {
+      "id": "4642d981",
+      "bank_id": "c04e2802",
+      "text": "Dünyanın en berbat köpeğisin sen!"
+    },
+    {
+      "id": "5142eb30",
+      "bank_id": "c04e2802",
+      "text": "Git buradan kuçu kuçu. Sevmiyorum seni!"
+    },
+    {
+      "id": "65290319",
+      "bank_id": "c04e2802",
+      "text": "Kendine ünlü mü diyorsun sen? Ayak nasırlarım bile senden daha çok saygı görüyor be!"
+    },
+    {
+      "id": "6529031a",
+      "bank_id": "c04e2802",
+      "text": "Şöhretin kapısını çalıyor olabilirsin ama umarım o kapı menteşelerinden kopup seni ezer."
+    },
+    {
+      "id": "6529031b",
+      "bank_id": "c04e2802",
+      "text": "Umarım daha fazla ün kazanmazsın. Senden gına geldi artık."
+    },
+    {
+      "id": "6529031d",
+      "bank_id": "c04e2802",
+      "text": "Millet senden bahsediyor olabilir ama sadece arkandan atıp tutuyorlar."
+    },
+    {
+      "id": "6529031e",
+      "bank_id": "c04e2802",
+      "text": "Ünün istediği kadar artsın, hiçbir şey değişmez. Senden hâlâ nefret ediyorum."
+    },
+    {
+      "id": "70291448",
+      "bank_id": "c04e2802",
+      "text": "O şöhretin kafanı nasıl da döndürdüğüne baksana. Ezik."
+    },
+    {
+      "id": "70291449",
+      "bank_id": "c04e2802",
+      "text": "Geçmişin o ölmüş Kahramanlarının şöhretine yaklaşamazsın bile. Gerçi umarım yakında senin de o ölü kısmın gerçekleşir."
+    },
+    {
+      "id": "7029144a",
+      "bank_id": "c04e2802",
+      "text": "Varlığın halkın bazı kesimlerini heyecanlandırabilir ama burada bir pislikten ibaretsin."
+    },
+    {
+      "id": "7029144b",
+      "bank_id": "c04e2802",
+      "text": "Belli bir miktar ün kazanmış olabilirsin ama hâlâ bir aptalsın."
+    },
+    {
+      "id": "7029144e",
+      "bank_id": "c04e2802",
+      "text": "Tanınmaya başladığına sevindim, böylece daha çok insan senden nefret edebilir."
+    },
+    {
+      "id": "7029144f",
+      "bank_id": "c04e2802",
+      "text": "Milletin senden bahsetmesi umurumda mı sanıyorsun? Bir dilenciyle konuşmayı yeğlerim."
+    },
+    {
+      "id": "74ae5ab0",
+      "bank_id": "c04e2802",
+      "text": "Henüz ufacık olan o şöhretin bile ne kadar küçük bir insan olduğunu gizleyemez."
+    },
+    {
+      "id": "74ae5ab1",
+      "bank_id": "c04e2802",
+      "text": "Bir dirhem ün kazandın diye o meziyetler listene kibri de ekleyebiliriz herhalde."
+    },
+    {
+      "id": "74ae5ab2",
+      "bank_id": "c04e2802",
+      "text": "Sürekli duyup durduğumuz o lanet görevlerin hiçbirinde gebermemen ne yazık."
+    },
+    {
+      "id": "74ae5ab3",
+      "bank_id": "c04e2802",
+      "text": "Bir iki maceraya atıldın diye kendini dünyanın efendisi sandın. Peh!"
+    },
+    {
+      "id": "74ae5ab4",
+      "bank_id": "c04e2802",
+      "text": "Meşhur olmaya başlaman umurumda bile değil. Senden hâlâ nefret ediyorum."
+    },
+    {
+      "id": "74ae5ab5",
+      "bank_id": "c04e2802",
+      "text": "Kaç tane muhteşem göreve çıktığın fark etmez, benim gözümde hep bir ezik kalacaksın."
+    },
+    {
+      "id": "784134d4",
+      "bank_id": "c04e2802",
+      "text": "Bir köpeğe göre pek bir havalısın!"
+    },
+    {
+      "id": "7bae65b8",
+      "bank_id": "c04e2802",
+      "text": "Adını duymuş olmam seni sevdiğim anlamına gelmez!"
+    },
+    {
+      "id": "7bae65b9",
+      "bank_id": "c04e2802",
+      "text": "Meşhur olup olmaman kimsenin umurunda değil!"
+    },
+    {
+      "id": "7bae65ba",
+      "bank_id": "c04e2802",
+      "text": "Kendini ünlü falan sanıyorsun herhalde. Tabii canım."
+    },
+    {
+      "id": "7bae65bc",
+      "bank_id": "c04e2802",
+      "text": "Vasat bir üne kavuşmana rağmen senden hâlâ zerre kadar hazzetmiyorum."
+    },
+    {
+      "id": "7bae65bd",
+      "bank_id": "c04e2802",
+      "text": "Tanınmaya başlamış olabilirsin ama bu seni daha çekilir kılmıyor."
+    },
+    {
+      "id": "7bae65be",
+      "bank_id": "c04e2802",
+      "text": "O yarım yamalak meşhur egonu alıp başka yere gitsene sen."
+    },
+    {
+      "id": "7bae65bf",
+      "bank_id": "c04e2802",
+      "text": "Pöh! Sırf bir iki göreve çıktın diye bizden üstün olduğunu sanıyorsundur kesin..."
+    },
+    {
+      "id": "7d413cf5",
+      "bank_id": "c04e2802",
+      "text": "Ayyy, ne kadar muhteşem bir köpekcik!"
+    },
+    {
+      "id": "7e885ce1",
+      "bank_id": "c04e2802",
+      "text": "Buralarda köpekleri ne zaman yasaklayacaklar acaba?"
+    },
+    {
+      "id": "7e885ce2",
+      "bank_id": "c04e2802",
+      "text": "Pis itlerin başıboş gezmesine izin vermek yasak olmalı."
+    },
+    {
+      "id": "7e885ce3",
+      "bank_id": "c04e2802",
+      "text": "O lanet köpeğe tahammül edemiyorum."
+    },
+    {
+      "id": "7e885ce4",
+      "bank_id": "c04e2802",
+      "text": "Bıçaklarınızı bileyin, o lanet köpek burada."
+    },
+    {
+      "id": "7e885ce5",
+      "bank_id": "c04e2802",
+      "text": "Ortalıkta o itin gezinmesindense bir sürü hobbe koşuşmasını yeğlerim."
+    },
+    {
+      "id": "7e885ce6",
+      "bank_id": "c04e2802",
+      "text": "En azından o korkunç hayvana bir tasma takabilirlerdi."
+    },
+    {
+      "id": "7e885ce7",
+      "bank_id": "c04e2802",
+      "text": "Bana kalsaydı bütün köpekleri uyuturdum!"
+    },
+    {
+      "id": "811a1010",
+      "bank_id": "c04e2802",
+      "text": "Bütün Albion'un en huysuz itisin sen."
+    },
+    {
+      "id": "811a1011",
+      "bank_id": "c04e2802",
+      "text": "Umarım bir trol üstüne oturur seni lanet köpek."
+    },
+    {
+      "id": "811a1014",
+      "bank_id": "c04e2802",
+      "text": "Pöh. O aptal ite katlanamıyorum."
+    },
+    {
+      "id": "811a1016",
+      "bank_id": "c04e2802",
+      "text": "Yabanda kalmalıydın seni kokmuş hayvan."
+    },
+    {
+      "id": "811a1017",
+      "bank_id": "c04e2802",
+      "text": "Normalde hayvanları severim ama sen midemi bulandırıyorsun!"
+    },
+    {
+      "id": "813eb950",
+      "bank_id": "c04e2802",
+      "text": "Kaybol buradan pire torbası!"
+    },
+    {
+      "id": "813eb951",
+      "bank_id": "c04e2802",
+      "text": "Uzak dur seni uyuz it."
+    },
+    {
+      "id": "813eb952",
+      "bank_id": "c04e2802",
+      "text": "Çekil yolumdan seni aptal köpek."
+    },
+    {
+      "id": "813eb954",
+      "bank_id": "c04e2802",
+      "text": "Uzak dur benden seni kıllı canavar."
+    },
+    {
+      "id": "813eb955",
+      "bank_id": "c04e2802",
+      "text": "Ne kadar da fena bir hayvan böyle."
+    },
+    {
+      "id": "813eb956",
+      "bank_id": "c04e2802",
+      "text": "Seni kokmuş kırma it."
+    },
+    {
+      "id": "813eb957",
+      "bank_id": "c04e2802",
+      "text": "Gidip kendini yalasana sen?"
+    },
+    {
+      "id": "861a1830",
+      "bank_id": "c04e2802",
+      "text": "Sana bir tekme basıp diğer kasabaya fırlatırdım da ayağımı ısırırsın diye korkuyorum."
+    },
+    {
+      "id": "861a1831",
+      "bank_id": "c04e2802",
+      "text": "Pirelerini başka yere götür seni lanet köpek."
+    },
+    {
+      "id": "861a1835",
+      "bank_id": "c04e2802",
+      "text": "Ne kadar korkunç bir hayvansın sen."
+    },
+    {
+      "id": "861a1836",
+      "bank_id": "c04e2802",
+      "text": "Hepsi senin gibiyse ortalıkta pek köpek olmaması iyi bir şey!"
+    },
+    {
+      "id": "861a1837",
+      "bank_id": "c04e2802",
+      "text": "Gidip kendini yalasana seni pis hayvan."
+    },
+    {
+      "id": "8a3ec7b8",
+      "bank_id": "c04e2802",
+      "text": "Bu dört bacaklı iblislerin aramızda dolaşmasına nasıl izin verirler?"
+    },
+    {
+      "id": "8a3ec7b9",
+      "bank_id": "c04e2802",
+      "text": "Uzak dur benden seni iğrenç yaratık!"
+    },
+    {
+      "id": "8a3ec7ba",
+      "bank_id": "c04e2802",
+      "text": "Pirelerini üzerime bulaştırma sakın!"
+    },
+    {
+      "id": "8a3ec7bb",
+      "bank_id": "c04e2802",
+      "text": "Uçurumdan aşağı fırlatılan bir dalı yakalamaya gitsene sen!"
+    },
+    {
+      "id": "8a3ec7bc",
+      "bank_id": "c04e2802",
+      "text": "Hayatımda bu kadar berbat bir hayvan görmedim."
+    },
+    {
+      "id": "8a3ec7bd",
+      "bank_id": "c04e2802",
+      "text": "Tasmada olman gerekmez miydi senin?"
+    },
+    {
+      "id": "8a3ec7bf",
+      "bank_id": "c04e2802",
+      "text": "Seni sevecek değilim!"
+    },
+    {
+      "id": "9a7460c8",
+      "bank_id": "c04e2802",
+      "text": "Yakamızdan düşmeyen bir üçüncü sınıf ünlü daha."
+    },
+    {
+      "id": "9a7460ca",
+      "bank_id": "c04e2802",
+      "text": "Beni yalnız bırak seni vasat ünlü müsveddesi."
+    },
+    {
+      "id": "9a7460cb",
+      "bank_id": "c04e2802",
+      "text": "Evet, adını duydum. Senden hoşlanmamama yetecek kadar hem de."
+    },
+    {
+      "id": "9a7460cc",
+      "bank_id": "c04e2802",
+      "text": "Şanslısın ki nefretimin çoğunu gerçek ünlülere saklıyorum."
+    },
+    {
+      "id": "9a7460cd",
+      "bank_id": "c04e2802",
+      "text": "Ortalığı karıştırmaya başlamış olabilirsin. Ama aynısını pislik de yapar."
+    },
+    {
+      "id": "9f7468e9",
+      "bank_id": "c04e2802",
+      "text": "İki dirhem şöhretin başını döndürmesine izin verme. Aptal."
+    },
+    {
+      "id": "9f7468ea",
+      "bank_id": "c04e2802",
+      "text": "Meşhur olmaya başladın diye bir kıymetin olduğu anlamına gelmez."
+    },
+    {
+      "id": "9f7468eb",
+      "bank_id": "c04e2802",
+      "text": "Ünlü olmaya başladın diye gelip beni rahatsız etmek zorunda değilsin."
+    },
+    {
+      "id": "9f7468ec",
+      "bank_id": "c04e2802",
+      "text": "Lütfen ama. Sanki o kadar da meşhursun."
+    },
+    {
+      "id": "9f7468ed",
+      "bank_id": "c04e2802",
+      "text": "Lütfen daha fazla meşhur olma. Hakkında bir şeyler duymaktan gına geldi şimdiden."
+    },
+    {
+      "id": "a648f195",
+      "bank_id": "c04e2802",
+      "text": "Hey kuçu, annem karnını iyi doyuruyor mu bari?"
+    },
+    {
+      "id": "a648f19e",
+      "bank_id": "c04e2802",
+      "text": "Hey kuçu, babam karnını iyi doyuruyor mu bari?"
+    },
+    {
+      "id": "aa1440b3",
+      "bank_id": "c04e2802",
+      "text": "Beni rahat bırak köpek!"
+    },
+    {
+      "id": "aa5d44f8",
+      "bank_id": "c04e2802",
+      "text": "Bahse girerim bir sürü dişi köpeğin aklını başından alıyorsundur!"
+    },
+    {
+      "id": "aa5d44f9",
+      "bank_id": "c04e2802",
+      "text": "Vay canına, aynaya bakmak gibi bir şey bu!"
+    },
+    {
+      "id": "aa5d44fa",
+      "bank_id": "c04e2802",
+      "text": "Gelmiş geçmiş en zarif ve güçlü yaratık doğrusu!"
+    },
+    {
+      "id": "aa5d44fb",
+      "bank_id": "c04e2802",
+      "text": "Ne kadar parlak ve gür bir kürkün var öyle!"
+    },
+    {
+      "id": "aa5d44fd",
+      "bank_id": "c04e2802",
+      "text": "Nasıl bu kadar yakışıklı oldun bakalım benim tüylü dostum?"
+    },
+    {
+      "id": "aa5d44fe",
+      "bank_id": "c04e2802",
+      "text": "Bahse girerim dünyanın en yakışıklı köpeğisin sen."
+    },
+    {
+      "id": "aa5d44ff",
+      "bank_id": "c04e2802",
+      "text": "Bir köpek ne kadar sevimli olabilirse o kadar sevimlisin."
+    },
+    {
+      "id": "b1144bb6",
+      "bank_id": "c04e2802",
+      "text": "Senin gibi bir köpeğim olsun hiç istemem."
+    },
+    {
+      "id": "b5370380",
+      "bank_id": "c04e2802",
+      "text": "O kokuşmuş kırma tam bir veba."
+    },
+    {
+      "id": "b5370381",
+      "bank_id": "c04e2802",
+      "text": "O itten artık canıma tak etti."
+    },
+    {
+      "id": "b5370382",
+      "bank_id": "c04e2802",
+      "text": "O lanet iti görmek midemi bulandırıyor."
+    },
+    {
+      "id": "b5370383",
+      "bank_id": "c04e2802",
+      "text": "Böylesi iğrenç canavarların medeni insanların arasında gezmesine nasıl izin veriyorlar aklım almıyor."
+    },
+    {
+      "id": "b5370384",
+      "bank_id": "c04e2802",
+      "text": "Gerçekten iğrenç bir hayvan, sence de öyle değil mi?"
+    },
+    {
+      "id": "b5370386",
+      "bank_id": "c04e2802",
+      "text": "O korkunç köpek hakkında bir şeyler yapamaz mıyız?"
+    },
+    {
+      "id": "b5370387",
+      "bank_id": "c04e2802",
+      "text": "O lanet itten nefret etmiyor musun sen de?"
+    },
+    {
+      "id": "b55d5628",
+      "bank_id": "c04e2802",
+      "text": "Gerçek bir can yakan olmalısın seni küçük kırma."
+    },
+    {
+      "id": "b55d5629",
+      "bank_id": "c04e2802",
+      "text": "Aman da ne kadar güzel bir köpekmiş bu!"
+    },
+    {
+      "id": "b55d562a",
+      "bank_id": "c04e2802",
+      "text": "Çok tatlısın sen ama!"
+    },
+    {
+      "id": "b55d562b",
+      "bank_id": "c04e2802",
+      "text": "Aman yarabbi, hayatımda gördüğüm en sevimli küçük yaratık değilse neyim."
+    },
+    {
+      "id": "b55d562c",
+      "bank_id": "c04e2802",
+      "text": "Vay vay, pek de yakışıklı bir enikmişsin sen."
+    },
+    {
+      "id": "b55d562e",
+      "bank_id": "c04e2802",
+      "text": "Aman da sahibin kadar yakışıklısın bilesin."
+    },
+    {
+      "id": "b55d562f",
+      "bank_id": "c04e2802",
+      "text": "Ayyy, pek tatlı bir şeysin sen."
+    },
+    {
+      "id": "b63eab61",
+      "bank_id": "c04e2802",
+      "text": "Kirli bir köpeği yoldaş olarak kim ister ki?"
+    },
+    {
+      "id": "b63eab62",
+      "bank_id": "c04e2802",
+      "text": "O kokmuş, iğrenç canavarın kimseye bir hayrı yok. Köpek de ondan farklı değil."
+    },
+    {
+      "id": "b63eab63",
+      "bank_id": "c04e2802",
+      "text": "Öff, yine o köpek."
+    },
+    {
+      "id": "b63eab64",
+      "bank_id": "c04e2802",
+      "text": "Kaşınıp duruyorum. Kesin o iğrenç pire torbası yüzündendir."
+    },
+    {
+      "id": "b63eab65",
+      "bank_id": "c04e2802",
+      "text": "O kırmadan nefret ediyorum."
+    },
+    {
+      "id": "ba370ba0",
+      "bank_id": "c04e2802",
+      "text": "Bakın, şu pis küçük kırma burada."
+    },
+    {
+      "id": "ba370ba1",
+      "bank_id": "c04e2802",
+      "text": "Köpeklere katlanamıyorum. Hele o köpeğe hiç."
+    },
+    {
+      "id": "ba370ba2",
+      "bank_id": "c04e2802",
+      "text": "Bütün köpekler onun kadar nefret vericiyse nesillerinin tükenmiş olması iyi bir şey."
+    },
+    {
+      "id": "ba370ba3",
+      "bank_id": "c04e2802",
+      "text": "O lanet hayvanı ibretialem yapmalıyız."
+    },
+    {
+      "id": "ba370ba5",
+      "bank_id": "c04e2802",
+      "text": "O canavarın yine burada olduğunu gördün mü? Nefret ediyorum o köpekten."
+    },
+    {
+      "id": "ba370ba6",
+      "bank_id": "c04e2802",
+      "text": "O köpek gerçekten sinirime dokunuyor."
+    },
+    {
+      "id": "ba370ba7",
+      "bank_id": "c04e2802",
+      "text": "Biri o köpek hakkında bir şeyler yapmalı. Gerçekten katlanamıyorum ona."
+    },
+    {
+      "id": "be263500",
+      "bank_id": "c04e2802",
+      "text": "Bahse girerim canavarlar annemi yakalamaya çalıştığında onu koruyorsundur, değil mi?"
+    },
+    {
+      "id": "be26350b",
+      "bank_id": "c04e2802",
+      "text": "Bahse girerim canavarlar babamı yakalamaya çalıştığında onu koruyorsundur, değil mi?"
+    },
+    {
+      "id": "c0710188",
+      "bank_id": "c04e2802",
+      "text": "Bir gün güzel bir hanımefendi köpekle evlenip dünyanın en tatlı yavrularına sahip olacaksın!"
+    },
+    {
+      "id": "c13ebc90",
+      "bank_id": "c04e2802",
+      "text": "Aptal köpek."
+    },
+    {
+      "id": "c13ebc92",
+      "bank_id": "c04e2802",
+      "text": "O kokuşmuş it."
+    },
+    {
+      "id": "c13ebc93",
+      "bank_id": "c04e2802",
+      "text": "Keşke bir balverine o aptal köpeği yese de bizi ondan kurtarsa."
+    },
+    {
+      "id": "c13ebc94",
+      "bank_id": "c04e2802",
+      "text": "Umarım o köpek kısırlaştırılmıştır. Buralarda onun gibilerden daha fazla istemiyoruz."
+    },
+    {
+      "id": "c13ebc95",
+      "bank_id": "c04e2802",
+      "text": "Lanet it."
+    },
+    {
+      "id": "c57109a9",
+      "bank_id": "c04e2802",
+      "text": "Bahse girerim bir sürü dişi köpek arkadaşın vardır, değil mi?"
+    },
+    {
+      "id": "e48a5d93",
+      "bank_id": "c04e2802",
+      "text": "Ayyy, annemin senin gibi bir köpeği olduğu için çok şanslıyım."
+    },
+    {
+      "id": "e48a5d98",
+      "bank_id": "c04e2802",
+      "text": "Ayyy, babamın senin gibi bir köpeği olduğu için çok şanslıyım."
+    },
+    {
+      "id": "e559244e",
+      "bank_id": "c04e2802",
+      "text": "Ayyy, çooooook tatlısın!"
+    },
+    {
+      "id": "e6e7e555",
+      "bank_id": "c04e2802",
+      "text": "Maceralara çıktığında babama iyi bakman gerek bilesin."
+    },
+    {
+      "id": "e6e7e55e",
+      "bank_id": "c04e2802",
+      "text": "Maceralara çıktığında anneme iyi bakman gerek bilesin."
+    },
+    {
+      "id": "e79704f1",
+      "bank_id": "c04e2802",
+      "text": "Ne istiyorsun köpek?"
+    },
+    {
+      "id": "e79704f2",
+      "bank_id": "c04e2802",
+      "text": "Boğazına kemik kaçırmamaya dikkat et... Pöh!"
+    },
+    {
+      "id": "e79704f3",
+      "bank_id": "c04e2802",
+      "text": "Buralarda köpek istemiyoruz."
+    },
+    {
+      "id": "e79704f4",
+      "bank_id": "c04e2802",
+      "text": "Yahnide amma da lezzetli olurdun ha."
+    },
+    {
+      "id": "e79704f5",
+      "bank_id": "c04e2802",
+      "text": "Ayağımın altına dolanma it."
+    },
+    {
+      "id": "e79704f6",
+      "bank_id": "c04e2802",
+      "text": "İğrenç! Resmen yürüyen parazit yuvası."
+    },
+    {
+      "id": "e79704f7",
+      "bank_id": "c04e2802",
+      "text": "Diğer hayvanların yanına çöplüğe dönsene sen?"
+    },
+    {
+      "id": "ee59329b",
+      "bank_id": "c04e2802",
+      "text": "Kimmiş koca güzel köpek? Senmişsin!"
+    },
+    {
+      "id": "f2971620",
+      "bank_id": "c04e2802",
+      "text": "Uza buradan pire torbası."
+    },
+    {
+      "id": "f2971622",
+      "bank_id": "c04e2802",
+      "text": "Ait olduğun yere yabana dön."
+    },
+    {
+      "id": "f2971623",
+      "bank_id": "c04e2802",
+      "text": "İğrenç bir hayvansın sen."
+    },
+    {
+      "id": "f2971624",
+      "bank_id": "c04e2802",
+      "text": "Biri o kuyruğunu kökünden kesecek senin."
+    },
+    {
+      "id": "f2971625",
+      "bank_id": "c04e2802",
+      "text": "Bu kasabada fazla barınamazsın seni pis pire torbası."
+    },
+    {
+      "id": "f2971626",
+      "bank_id": "c04e2802",
+      "text": "Hmm, kafan kupa duvarıma pek güzel yakışırdı hani."
+    },
+    {
+      "id": "f2971627",
+      "bank_id": "c04e2802",
+      "text": "Huzurumdan defol seni iğrenç canavar!"
+    }
+  ]
+}

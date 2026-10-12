@@ -1,0 +1,506 @@
+{
+  "bank_id": "00beb600",
+  "total_strings": 100,
+  "strings": [
+    {
+      "id": "03e33682",
+      "bank_id": "00beb600",
+      "text": "Demirci Büyük Kıtlığı"
+    },
+    {
+      "id": "04d1bc54",
+      "bank_id": "00beb600",
+      "text": "Mobilyacı Devasa Kıtlığı"
+    },
+    {
+      "id": "056d5f32",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Stilisti şu anda küçük bir boya kıtlığı yaşıyor. Şimdi Bloodstone'a kansız renkleri kim sağlayacak?"
+    },
+    {
+      "id": "063c8f40",
+      "bank_id": "00beb600",
+      "text": "Stilist Büyük İndirimi"
+    },
+    {
+      "id": "08ae4858",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Hediye Tezgâhı tedarik sorunları nedeniyle şu anda bir kıtlık yaşıyor. Elinizdeki her türlü hediye iyi fiyat edecektir."
+    },
+    {
+      "id": "10522017",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Terzisi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Kim bilir hangi korsan kıyafeti kelepirlerini bulacaksınız."
+    },
+    {
+      "id": "105636b3",
+      "bank_id": "00beb600",
+      "text": "Sebze Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "19aa20c6",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Turta Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Daha ucuza kilo alın!"
+    },
+    {
+      "id": "20bc0098",
+      "bank_id": "00beb600",
+      "text": "Mobilyacı Büyük İndirimi"
+    },
+    {
+      "id": "20e1cdff",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Terzisi önümüzdeki birkaç gün boyunca indirimde. Görünüşe göre kıyıya esrarengiz şekilde bazı kıyafetler vurmuş."
+    },
+    {
+      "id": "29c163e7",
+      "bank_id": "00beb600",
+      "text": "Balık Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "2a4577bf",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Terzisi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Tüm korsan kıyafetleri indirimde!"
+    },
+    {
+      "id": "2cf7e9f1",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Sebze Tezgâhı, korsanların sebze karşıtı şarkılar söyleyerek tüm stokları ateşe vermesinin ardından büyük bir kıtlık yaşıyor. Havuç satarak voleyi vurabilirsiniz."
+    },
+    {
+      "id": "2f691f86",
+      "bank_id": "00beb600",
+      "text": "Turta Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "30266b88",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Turta Tezgâhı tedarik sorunları nedeniyle şu anda küçük bir kıtlık yaşıyor. Hepsini yemediyseniz fazla turtalarınızı satmak için harika bir zaman."
+    },
+    {
+      "id": "30d0038c",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Mobilyacısı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Sahibinin aklını kaçırdığını söylüyorlar."
+    },
+    {
+      "id": "3321f7cf",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Balık Tezgâhı, yerel bir korsanın deniz ürünleri âlemi vermesinin ardından şu anda küçük bir kıtlık yaşıyor. Ceplerinizde balık varsa burada iyi bir fiyat alırsınız."
+    },
+    {
+      "id": "348132ac",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Taş Kesicisi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Her zaman istediğiniz o efsun taşını edinme vakti."
+    },
+    {
+      "id": "34b571ea",
+      "bank_id": "00beb600",
+      "text": "Mobilyacı Büyük Kıtlığı"
+    },
+    {
+      "id": "37c13be2",
+      "bank_id": "00beb600",
+      "text": "Taş Kesici Büyük Kıtlığı"
+    },
+    {
+      "id": "3ea2cfc0",
+      "bank_id": "00beb600",
+      "text": "Demirci Kıtlığı"
+    },
+    {
+      "id": "42c6968c",
+      "bank_id": "00beb600",
+      "text": "Turta Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "42f960de",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Hediye Tezgâhı, bir trolün deposuna dalıp stokların çoğunu yok etmesinin ardından şu anda büyük bir kıtlık yaşıyor. Elinizdeki hediyeler çok iyi para edecektir."
+    },
+    {
+      "id": "43301404",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Stilisti önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Tüm stil ihtiyaçlarınız için harika indirimler."
+    },
+    {
+      "id": "436b74bc",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Hediye Tezgâhı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Fırsatınız varken bu kelepirleri kapın!"
+    },
+    {
+      "id": "44ffbade",
+      "bank_id": "00beb600",
+      "text": "Stilist Devasa İndirimi"
+    },
+    {
+      "id": "48500790",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Turta Tezgâhı, son zamanlardaki Turtalar, Biralar ve Korsanlar şöleni nedeniyle şu anda büyük bir kıtlık çekiyor. Kenarda köşede duran tüm kabuklu turtalar bu dükkânda hatırı sayılır bir meblağ edecektir."
+    },
+    {
+      "id": "4929c6a4",
+      "bank_id": "00beb600",
+      "text": "Hediye Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "4fb71d80",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Stilisti şu anda bir boya kıtlığı çekiyor. Şimdi Bloodstone'a kansız renkleri kim sağlayacak?"
+    },
+    {
+      "id": "5049adef",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Balık Tezgâhı, yerel balıkçı filolarından bazılarının aniden çıkan fırtınada yok olmasının ardından kıtlık yaşıyor. Balık yiyenler için zor zamanlar. Gezgin balık satıcıları içinse harika zamanlar."
+    },
+    {
+      "id": "548779f5",
+      "bank_id": "00beb600",
+      "text": "Terzi Devasa İndirimi"
+    },
+    {
+      "id": "57f92bd2",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Stilisti önümüzdeki birkaç gün boyunca indirimde. Artık daha ucuza güzel görünebilirsiniz."
+    },
+    {
+      "id": "5807b527",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Balık Tezgâhı, olta çürümesi salgını nedeniyle şu anda büyük bir kıtlık çekiyor. Envanterinizi kokutan balıklarınız varsa onları iyi fiyata elden çıkarmak için daha iyi bir fırsat bulamazsınız."
+    },
+    {
+      "id": "5cdab9d6",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Stilisti, ana tedarikçisinin bir boya havuzunda boğulmasının ardından şu anda büyük bir boya kıtlığı çekiyor. Serbest boya tüccarları bu durumdan faydalanabilir."
+    },
+    {
+      "id": "5d9522d8",
+      "bank_id": "00beb600",
+      "text": "Mobilyacı Kıtlığı"
+    },
+    {
+      "id": "5f6849c6",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Turta Tezgâhı tedarik sorunları nedeniyle şu anda bir kıtlık yaşıyor. Hepsini yemediyseniz fazla turtalarınızı satmak için harika bir zaman."
+    },
+    {
+      "id": "61b62580",
+      "bank_id": "00beb600",
+      "text": "Taş Kesici Büyük İndirimi"
+    },
+    {
+      "id": "62ae8548",
+      "bank_id": "00beb600",
+      "text": "Hediye Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "653b449a",
+      "bank_id": "00beb600",
+      "text": "Hediye Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "66b7ed8d",
+      "bank_id": "00beb600",
+      "text": "Sebze Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "69352c57",
+      "bank_id": "00beb600",
+      "text": "Sebze Tezgâhı Kıtlığı"
+    },
+    {
+      "id": "694a6896",
+      "bank_id": "00beb600",
+      "text": "Hediye Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "6d5223cf",
+      "bank_id": "00beb600",
+      "text": "Balık Tezgâhı İndirimi"
+    },
+    {
+      "id": "73f112e6",
+      "bank_id": "00beb600",
+      "text": "Stilist İndirimi"
+    },
+    {
+      "id": "7a4ae4dc",
+      "bank_id": "00beb600",
+      "text": "Demirci Dev Kıtlığı"
+    },
+    {
+      "id": "81688f04",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Hediye Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Hediye depolamak için iyi bir zaman olabilir."
+    },
+    {
+      "id": "81d05ee0",
+      "bank_id": "00beb600",
+      "text": "Taş Kesici Kıtlığı"
+    },
+    {
+      "id": "833835de",
+      "bank_id": "00beb600",
+      "text": "Hediye Tezgâhı İndirimi"
+    },
+    {
+      "id": "83ba22ad",
+      "bank_id": "00beb600",
+      "text": "Sebze Tezgâhı İndirimi"
+    },
+    {
+      "id": "86ac0bdd",
+      "bank_id": "00beb600",
+      "text": "Terzi Büyük İndirimi"
+    },
+    {
+      "id": "8d96df9d",
+      "bank_id": "00beb600",
+      "text": "Terzi İndirimi"
+    },
+    {
+      "id": "8e4fffbd",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Balık Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Satabileceklerinden daha fazla balık yakalıyorlar."
+    },
+    {
+      "id": "905f6c52",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Demircisi, dükkân sahibinin bir içki âleminde yanlışlıkla stoklarının bir kısmını bedavaya dağıtmasının ardından küçük bir kıtlık yaşıyor. İhtiyacınız olmayan silahlarınız varsa sizden seve seve alacaktır."
+    },
+    {
+      "id": "968657aa",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Mobilyacısı önümüzdeki birkaç gün boyunca indirimde. O rahat koltuğu satın almanın tam zamanı."
+    },
+    {
+      "id": "99babcc1",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Terzisi, özellikle tatsız bir güve istilasının ardından şu anda büyük bir kıyafet kıtlığı yaşıyor."
+    },
+    {
+      "id": "9abdb6e8",
+      "bank_id": "00beb600",
+      "text": "Turta Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "9f04d7e8",
+      "bank_id": "00beb600",
+      "text": "Hediye Tezgâhı Kıtlığı"
+    },
+    {
+      "id": "a11b27ee",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Mobilyacısı büyük bir yangın nedeniyle şu anda büyük bir kıtlık yaşıyor. İstenmeyen gardırop veya yataktan kurtulmanın tam zamanı."
+    },
+    {
+      "id": "a176d23c",
+      "bank_id": "00beb600",
+      "text": "Stilist Devasa Kıtlığı"
+    },
+    {
+      "id": "a7b3ed54",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Mobilyacısı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Masalar, sandalyeler ve daha fazlası indirimde."
+    },
+    {
+      "id": "a973c6a2",
+      "bank_id": "00beb600",
+      "text": "Stilist Büyük Kıtlığı"
+    },
+    {
+      "id": "a9ba5dd5",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Sebze Tezgâhı, tedarikçinin tüm stoklarını vejetaryen hobbe'lere kaptırmasının ardından bir kıtlık yaşıyor."
+    },
+    {
+      "id": "aa268de0",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Demircisi tedarik sorunları nedeniyle şu anda bir kıtlık çekiyor. İhtiyacınız olmayan silahlarınız varsa sizden seve seve alacaklardır."
+    },
+    {
+      "id": "aac85c0c",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Turta Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Hadi ama, kendinizi şımartın!"
+    },
+    {
+      "id": "acb39aaa",
+      "bank_id": "00beb600",
+      "text": "Turta Tezgâhı Kıtlığı"
+    },
+    {
+      "id": "b13659a0",
+      "bank_id": "00beb600",
+      "text": "Stilist Kıtlığı"
+    },
+    {
+      "id": "b1890fa5",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Balık Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Limanın yakınlarında yüzen üç gözlü bir tür bulunduktan sonra yerel halk bu hafta daha az balık yiyor."
+    },
+    {
+      "id": "b570c706",
+      "bank_id": "00beb600",
+      "text": "Mobilyacı Devasa İndirimi"
+    },
+    {
+      "id": "b5eb9812",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Taş Kesicisi önümüzdeki birkaç gün boyunca indirimde. Her zaman istediğiniz o efsun taşını edinme vakti."
+    },
+    {
+      "id": "b6ecc9f6",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Demircisi, deniz yağmacılarının stokların çoğunu satın almasının ardından şu anda büyük bir kıtlık yaşıyor. İhtiyacınız olmayan silahlarınız varsa sizden seve seve alacaklardır."
+    },
+    {
+      "id": "b73b757a",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Hediye Tezgâhı önümüzdeki birkaç gün boyunca indirimde. O özel kişi için güzel bir hediye almanın tam anı."
+    },
+    {
+      "id": "b7af330d",
+      "bank_id": "00beb600",
+      "text": "Balık Tezgâhı Kıtlığı"
+    },
+    {
+      "id": "b826afc8",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Mobilyacısı bir oduncu grevi nedeniyle şu anda bir kıtlık yaşıyor. İstenmeyen gardırop veya yataktan kurtulmanın tam zamanı."
+    },
+    {
+      "id": "b9238926",
+      "bank_id": "00beb600",
+      "text": "Taş Kesici İndirimi"
+    },
+    {
+      "id": "ba77f216",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Taş Kesicisi, ziyarete gelen bir korsanın stokların çoğunu alıp para ödemeden kaçmasının ardından büyük bir kıtlık çekiyor. Sizden efsun taşı almak için her şeyi yaparlar."
+    },
+    {
+      "id": "bb019fe5",
+      "bank_id": "00beb600",
+      "text": "Balık Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "bbacd286",
+      "bank_id": "00beb600",
+      "text": "Demirci İndirimi"
+    },
+    {
+      "id": "c20b5012",
+      "bank_id": "00beb600",
+      "text": "Turta Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "c7fe711f",
+      "bank_id": "00beb600",
+      "text": "Sebze Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "cbfe2e8e",
+      "bank_id": "00beb600",
+      "text": "Mobilyacı İndirimi"
+    },
+    {
+      "id": "cd8da149",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Balık Tezgâhı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Balıkçı filosu rekor kıran bir av yakaladı."
+    },
+    {
+      "id": "cf2a7344",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Taş Kesicisi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Her zaman istediğiniz o efsun taşını edinme vakti."
+    },
+    {
+      "id": "cf9794c5",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Terzisi şu anda bir kıtlık yaşıyor. Şu sıralar kıyafet tüccarları arıyorlar."
+    },
+    {
+      "id": "cfaaef05",
+      "bank_id": "00beb600",
+      "text": "Sebze Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "d0e6a3ea",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Mobilyacısı, zengin bir korsanın gemisini yeniden dekore etmeye karar vermesinin ardından şu anda küçük bir kıtlık yaşıyor. Elden çıkaracak mobilyanız varsa makul bir fiyat edebilir."
+    },
+    {
+      "id": "d1439e0b",
+      "bank_id": "00beb600",
+      "text": "Balık Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "d374821e",
+      "bank_id": "00beb600",
+      "text": "Taş Kesici Devasa İndirimi"
+    },
+    {
+      "id": "d38b6872",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Taş Kesicisi tedarik sorunları nedeniyle şu anda küçük bir kıtlık yaşıyor. Bağımsız efsun taşı tüccarları burada kâr elde edebilir."
+    },
+    {
+      "id": "d4d87c2d",
+      "bank_id": "00beb600",
+      "text": "Balık Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "db8bbcc0",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Taş Kesicisi, bölgede yeterli mücevher olmaması nedeniyle şu anda bir kıtlık yaşıyor. Bağımsız efsun taşı tüccarları burada kâr elde edebilir."
+    },
+    {
+      "id": "dd19a0a3",
+      "bank_id": "00beb600",
+      "text": "Terzi Devasa Kıtlığı"
+    },
+    {
+      "id": "e22ab24f",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Sebze Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Sağlıklılar, lezzetliler ve ucuzlar."
+    },
+    {
+      "id": "eb749a47",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Sebze Tezgâhı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Korsanlar sebzeye pek düşkün değildir, ama onların kaybı sizin kazancınız."
+    },
+    {
+      "id": "edc2678d",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Sebze Tezgâhı tedarik sorunları nedeniyle şu anda küçük bir kıtlık yaşıyor. Stoklarını yenilemelerine yardım ederek temiz bir kâr elde edebilirsiniz."
+    },
+    {
+      "id": "ef4c399a",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Turta Tezgâhı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Bu fiyatlarla turtaların ne kadar kilo aldırdığını kim umursar?"
+    },
+    {
+      "id": "ef504f6c",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Stilisti önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Artık daha ucuza güzel görünebilirsiniz."
+    },
+    {
+      "id": "f3935a9a",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Hediye Tezgâhı, hediye fabrikasındaki bir grev nedeniyle şu anda küçük bir kıtlık yaşıyor. Elinizdeki her türlü hediye makul bir fiyat edecektir."
+    },
+    {
+      "id": "fc980f7c",
+      "bank_id": "00beb600",
+      "text": "Taş Kesici Devasa Kıtlığı"
+    },
+    {
+      "id": "fd086d8c",
+      "bank_id": "00beb600",
+      "text": "Turta Tezgâhı İndirimi"
+    },
+    {
+      "id": "ff2b546f",
+      "bank_id": "00beb600",
+      "text": "Bloodstone Sebze Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Ucuz sebzeler!"
+    }
+  ]
+}

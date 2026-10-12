@@ -1,0 +1,856 @@
+{
+  "bank_id": "30b0b600",
+  "total_strings": 170,
+  "strings": [
+    {
+      "id": "0532d6af",
+      "bank_id": "30b0b600",
+      "text": "Bu sandık kilitli."
+    },
+    {
+      "id": "2997d60c",
+      "bank_id": "30b0b600",
+      "text": "Harri Baker. Helada ıkınırken can verdi."
+    },
+    {
+      "id": "2997d60d",
+      "bank_id": "30b0b600",
+      "text": "John Lamplugh. Kılıçla tıraş oldu. Kafası koptu."
+    },
+    {
+      "id": "2997d60e",
+      "bank_id": "30b0b600",
+      "text": "Kevin Watt. Elektrik çarptı."
+    },
+    {
+      "id": "2997d60f",
+      "bank_id": "30b0b600",
+      "text": "Matt Humphrey. Yabani tavşanlar tarafından parçalandı."
+    },
+    {
+      "id": "2b97d950",
+      "bank_id": "30b0b600",
+      "text": "Kiernan Sleep. Sadece biraz kestiriyor."
+    },
+    {
+      "id": "2b97d951",
+      "bank_id": "30b0b600",
+      "text": "Rob den Dekker. Bu dünyadaki otuz yılının tadını çıkardı."
+    },
+    {
+      "id": "2b97d953",
+      "bank_id": "30b0b600",
+      "text": "Nathan Smethurst. Kurşunlu sandviçi test etti."
+    },
+    {
+      "id": "2b97d954",
+      "bank_id": "30b0b600",
+      "text": "Dave Carbine. Bir saçma tüfeğinin namlusundan kurşun yedi."
+    },
+    {
+      "id": "2b97d955",
+      "bank_id": "30b0b600",
+      "text": "Lewis Brundish. Paslı bir kaşıkla kafası kesildi."
+    },
+    {
+      "id": "2b97d956",
+      "bank_id": "30b0b600",
+      "text": "Lewis Harvey. Annesi gurur duyardı."
+    },
+    {
+      "id": "2b97d957",
+      "bank_id": "30b0b600",
+      "text": "Fraz Ahmed. Yaşarken onun altındaydık. Ölünce o bizim altımızda kaldı."
+    },
+    {
+      "id": "2b97d95a",
+      "bank_id": "30b0b600",
+      "text": "Sion Hughes. Öfkelendi, mosmor oldu, kendiliğinden alev alıp yandı."
+    },
+    {
+      "id": "2b97d95b",
+      "bank_id": "30b0b600",
+      "text": "Gareth Bourn. Kafasının ağırlığı boynunu kırdı."
+    },
+    {
+      "id": "2c97dac0",
+      "bank_id": "30b0b600",
+      "text": "Sean Francis. Bir zafer parıltısı içinde vuruldu."
+    },
+    {
+      "id": "2c97dac1",
+      "bank_id": "30b0b600",
+      "text": "Andy Cheyne. Her seferinde bir uzvu olacak şekilde toptan fırlatıldı."
+    },
+    {
+      "id": "2c97dac2",
+      "bank_id": "30b0b600",
+      "text": "James Hopkins. Dizanteriden ölüm. Pek hoş değil."
+    },
+    {
+      "id": "2c97dac3",
+      "bank_id": "30b0b600",
+      "text": "Shaun Hogg. Tıkabasa yedi, patladı."
+    },
+    {
+      "id": "2c97dac4",
+      "bank_id": "30b0b600",
+      "text": "Claudio Di Giacomo. Yamyamlar tarafından yendi, sindirildi, sonra dışarı atıldı. Hakkın rahmetine kavuştu."
+    },
+    {
+      "id": "2c97dac5",
+      "bank_id": "30b0b600",
+      "text": "Kenneth Addeh. Eridi. Yavaşça. Bir yanardağın içinde."
+    },
+    {
+      "id": "2c97dac6",
+      "bank_id": "30b0b600",
+      "text": "Jamie Pendleton. Asıldı, sürüklendi, dörde bölündü ve kızartıldı."
+    },
+    {
+      "id": "2c97dac7",
+      "bank_id": "30b0b600",
+      "text": "Daniel Gray. Kendini yemeye başladı. Durmayı unuttu."
+    },
+    {
+      "id": "2c97dacc",
+      "bank_id": "30b0b600",
+      "text": "Ross Thoroughgood. Küreksiz denizde kayboldu."
+    },
+    {
+      "id": "2c97dacd",
+      "bank_id": "30b0b600",
+      "text": "Ben Brooks. Sığ bir derede boğuldu."
+    },
+    {
+      "id": "69a90e70",
+      "bank_id": "30b0b600",
+      "text": "İlginç bir şey bulamadınız."
+    },
+    {
+      "id": "76c1e533",
+      "bank_id": "30b0b600",
+      "text": "Ben Huskins. Yaşam beklentisi tahminlerinin yanlış olduğu kanıtlandı."
+    },
+    {
+      "id": "76c1e534",
+      "bank_id": "30b0b600",
+      "text": "Vincent Hopkins. Cadı Avcısı Generali."
+    },
+    {
+      "id": "76c1e535",
+      "bank_id": "30b0b600",
+      "text": "Bu mezar taşı okunmayacak kadar aşınmış."
+    },
+    {
+      "id": "76c1e536",
+      "bank_id": "30b0b600",
+      "text": "Bu mezar taşındaki yazı okunmayacak kadar silinmiş."
+    },
+    {
+      "id": "76c1e537",
+      "bank_id": "30b0b600",
+      "text": "Zaman, bir zamanlar buraya yazılmış olan her şeyi silip götürmüş."
+    },
+    {
+      "id": "76c1e538",
+      "bank_id": "30b0b600",
+      "text": "Arthur Dandelion. Kâhin ve felaket tellalı."
+    },
+    {
+      "id": "76c1e539",
+      "bank_id": "30b0b600",
+      "text": "Fred Itchy. İlahiyatçı ve düalizm karşıtı."
+    },
+    {
+      "id": "77c1e6a0",
+      "bank_id": "30b0b600",
+      "text": "J Texier. Vıcık vıcık bir sona erdi."
+    },
+    {
+      "id": "77c1e6a1",
+      "bank_id": "30b0b600",
+      "text": "Burada Chris Berry yatıyor. Onu alkışlıyoruz."
+    },
+    {
+      "id": "77c1e6a2",
+      "bank_id": "30b0b600",
+      "text": "Iain Wright. Albion'un bahçıvanı."
+    },
+    {
+      "id": "77c1e6a3",
+      "bank_id": "30b0b600",
+      "text": "Norm ve Aggie. Sonuna kadar el ele."
+    },
+    {
+      "id": "77c1e6a4",
+      "bank_id": "30b0b600",
+      "text": "J Hopkin ve C Carr. Ölümden yıldız ithal edildi."
+    },
+    {
+      "id": "77c1e6a5",
+      "bank_id": "30b0b600",
+      "text": "Colin Cody. Bilim eliyle ölüm."
+    },
+    {
+      "id": "77c1e6a6",
+      "bank_id": "30b0b600",
+      "text": "Jamie Durrant. Yaşam için tasarlandı, ölüm için donanımsızdı."
+    },
+    {
+      "id": "77c1e6a7",
+      "bank_id": "30b0b600",
+      "text": "Stuart Whyte. Zombiler tarafından yendi."
+    },
+    {
+      "id": "77c1e6aa",
+      "bank_id": "30b0b600",
+      "text": "Patrick Barker. Yazılım hatalarını yok etmek için atıyla geldi. Yazılım hataları yüzünden öldü."
+    },
+    {
+      "id": "77c1e6ab",
+      "bank_id": "30b0b600",
+      "text": "Neil Griffiths. Sonunda ana makineye bağlandı."
+    },
+    {
+      "id": "78c1e816",
+      "bank_id": "30b0b600",
+      "text": "Tracey Sellar. Araştırmaları on hobbe'den dokuzunun bir saçma tüfeğini düzgün kullanamadığını gösteriyor."
+    },
+    {
+      "id": "78c1e817",
+      "bank_id": "30b0b600",
+      "text": "Virginia Spencer. Nefret kusanlardan nefret etti. Şimdi İnci Kapılarda nöbette."
+    },
+    {
+      "id": "96850411",
+      "bank_id": "30b0b600",
+      "text": "Şimdi uyuyamazsınız."
+    },
+    {
+      "id": "a3f26fb9",
+      "bank_id": "30b0b600",
+      "text": "Şimdi uyuyamazsınız."
+    },
+    {
+      "id": "a7106f3d",
+      "bank_id": "30b0b600",
+      "text": "Burada uyumak ister misiniz?"
+    },
+    {
+      "id": "a976a2ea",
+      "bank_id": "30b0b600",
+      "text": "Burada Rosie yatıyor. Bir oyuncak ayı."
+    },
+    {
+      "id": "a976a2ec",
+      "bank_id": "30b0b600",
+      "text": "Bilinmeyen Tüccar. Haydut saldırısında can verdi."
+    },
+    {
+      "id": "a976a2ed",
+      "bank_id": "30b0b600",
+      "text": "Burada bir Oakvale köylüsünün kömürleşmiş kalıntıları yatıyor."
+    },
+    {
+      "id": "a976a2ef",
+      "bank_id": "30b0b600",
+      "text": "Brom. Haydut saldırısında can verdi."
+    },
+    {
+      "id": "aa9e8df4",
+      "bank_id": "30b0b600",
+      "text": "İlginç bir şey bulamadınız."
+    },
+    {
+      "id": "bed9d117",
+      "bank_id": "30b0b600",
+      "text": "Burada Giles ve Jenny yatıyor. Hayat size çok acımasız davrandı."
+    },
+    {
+      "id": "c5b895c5",
+      "bank_id": "30b0b600",
+      "text": "Düşmanlar yakındayken uyuyamazsınız."
+    },
+    {
+      "id": "d92271c0",
+      "bank_id": "30b0b600",
+      "text": "Declan MacHugh. Golf sahasında sallandı. Darağacından bir ağaçta."
+    },
+    {
+      "id": "d92271c1",
+      "bank_id": "30b0b600",
+      "text": "Alan Davis. Westcliff Spurs ligi kazanırsa beni uyandırın."
+    },
+    {
+      "id": "d92271c2",
+      "bank_id": "30b0b600",
+      "text": "JP Chassagne. Kaz yağında pişirildi."
+    },
+    {
+      "id": "d92271c3",
+      "bank_id": "30b0b600",
+      "text": "Yutaka Noma. Artık yerin altına yerelleştirildi."
+    },
+    {
+      "id": "d92271c4",
+      "bank_id": "30b0b600",
+      "text": "Jami Johns. Ayaklarınızın altındaki toprağı test ediyor."
+    },
+    {
+      "id": "d92271c5",
+      "bank_id": "30b0b600",
+      "text": "Kevin Dodd. Eskiden böcekleri öldürürdü. Şimdi onların arasında yaşıyor."
+    },
+    {
+      "id": "da2273b0",
+      "bank_id": "30b0b600",
+      "text": "Julia Brown. Bu Kule tasmasının çok dar olduğunu söylemiştim."
+    },
+    {
+      "id": "da2273b1",
+      "bank_id": "30b0b600",
+      "text": "Evangelos Vrocharis. Gerçekten ölmedim, değil mi?"
+    },
+    {
+      "id": "da2273b2",
+      "bank_id": "30b0b600",
+      "text": "Gilles Anderson. Yüzmeye gitti. Kollukları unuttu."
+    },
+    {
+      "id": "da2273b4",
+      "bank_id": "30b0b600",
+      "text": "Tom Hughes. Duvara oturdu, fena düştü. Tahmin edilebilir sonuçlarla."
+    },
+    {
+      "id": "da2273b5",
+      "bank_id": "30b0b600",
+      "text": "Leonard Texier. Mavi, beyaz, kırmızı. Şimdi ölü."
+    },
+    {
+      "id": "da2273b6",
+      "bank_id": "30b0b600",
+      "text": "James Cobbett. Öfkeli okul çocukları tarafından kanlı bir peltiye dönüştürüldü."
+    },
+    {
+      "id": "da2273b7",
+      "bank_id": "30b0b600",
+      "text": "Ollie Loring. Bloodstone'da içmeye gitti. Dayak yedi."
+    },
+    {
+      "id": "da2273ba",
+      "bank_id": "30b0b600",
+      "text": "David Delve. Güverteyi paspasladı ve boynunu kırdı."
+    },
+    {
+      "id": "da2273bb",
+      "bank_id": "30b0b600",
+      "text": "Jigar Sharma. Kuduz bir tavşan ailesine nefis bir ziyafet oldu."
+    },
+    {
+      "id": "e6abe0d0",
+      "bank_id": "30b0b600",
+      "text": "Burada Işık Tapınağı'nın kurucusu Nurlu Albert yatıyor. Artık daha aydınlık bir yerdesin."
+    },
+    {
+      "id": "e8a736a1",
+      "bank_id": "30b0b600",
+      "text": "Blotch. Silahını temizlerken kendi kafasını uçurdu."
+    },
+    {
+      "id": "e8a736a2",
+      "bank_id": "30b0b600",
+      "text": "Casper. Neredeysen artık, önüne bak."
+    },
+    {
+      "id": "e8a736a3",
+      "bank_id": "30b0b600",
+      "text": "Koca Mort. Sana o tofuyu deneme demiştik."
+    },
+    {
+      "id": "e8a736a4",
+      "bank_id": "30b0b600",
+      "text": "İftiracı Jim. Patrona gerçekten hakaret etmemeliydi."
+    },
+    {
+      "id": "e8a736a5",
+      "bank_id": "30b0b600",
+      "text": "Katil Skippy. Boşluğa dikkat etmedi."
+    },
+    {
+      "id": "f2f0a26f",
+      "bank_id": "30b0b600",
+      "text": "Kasaba alarmı çalarken uyuyamazsınız. Uyursanız muhafızlar sizi yakalar!"
+    },
+    {
+      "id": "f439a701",
+      "bank_id": "30b0b600",
+      "text": "Hassas yerlerimi eziyorsun. Başka bir yerde dur."
+    },
+    {
+      "id": "f439a702",
+      "bank_id": "30b0b600",
+      "text": "Meredith Sock. Romanların berbat."
+    },
+    {
+      "id": "f439a703",
+      "bank_id": "30b0b600",
+      "text": "Whitney Hills. Mastara kadar bölündü."
+    },
+    {
+      "id": "f439a704",
+      "bank_id": "30b0b600",
+      "text": "Josh Atkins. Dengesini kaybetti."
+    },
+    {
+      "id": "f439a705",
+      "bank_id": "30b0b600",
+      "text": "Burada Altın Kaz yatıyor. O menüyü etraflıca düşünmeliydi."
+    },
+    {
+      "id": "f439a706",
+      "bank_id": "30b0b600",
+      "text": "Burada Kumkazı yatıyor. Herkesin sevdiği. Kimsenin görmediği."
+    },
+    {
+      "id": "f439a707",
+      "bank_id": "30b0b600",
+      "text": "Kpt. Sparrow. Nerede yanlış gitti her şey?"
+    },
+    {
+      "id": "f439a708",
+      "bank_id": "30b0b600",
+      "text": "Bu alan kiralıktır."
+    },
+    {
+      "id": "f439a709",
+      "bank_id": "30b0b600",
+      "text": "Burada neye bakıyorsun?"
+    },
+    {
+      "id": "f639aa60",
+      "bank_id": "30b0b600",
+      "text": "D.P. Wood. Birçok kişi tarafından özlendi."
+    },
+    {
+      "id": "f639aa61",
+      "bank_id": "30b0b600",
+      "text": "A. Fayton. Artık sana binen yok."
+    },
+    {
+      "id": "f639aa62",
+      "bank_id": "30b0b600",
+      "text": "Bayan Bough Narrow. Neden? Ah, neden?!!"
+    },
+    {
+      "id": "f639aa63",
+      "bank_id": "30b0b600",
+      "text": "Taş. Neye benzediğini bile hatırlayamıyoruz."
+    },
+    {
+      "id": "f639aa64",
+      "bank_id": "30b0b600",
+      "text": "Bay Horses. Hiç şansı olmadı."
+    },
+    {
+      "id": "f639aa65",
+      "bank_id": "30b0b600",
+      "text": "L.T.R. Boks. Hoşça kal eski dostum."
+    },
+    {
+      "id": "f639aa66",
+      "bank_id": "30b0b600",
+      "text": "Ralph Needle. En azından acıtmadı."
+    },
+    {
+      "id": "f639aa67",
+      "bank_id": "30b0b600",
+      "text": "Fran Carucci. Yorum yok."
+    },
+    {
+      "id": "f639aa6e",
+      "bank_id": "30b0b600",
+      "text": "Vinnie Yett. Gittiğini bile fark etmedik."
+    },
+    {
+      "id": "f639aa6f",
+      "bank_id": "30b0b600",
+      "text": "Duke D. Epp of Field. Çok yakındı... Çok yakın."
+    },
+    {
+      "id": "f739abd0",
+      "bank_id": "30b0b600",
+      "text": "Hacı Woolgar. Bir bellek sızıntısında boğuldu."
+    },
+    {
+      "id": "f739abd1",
+      "bank_id": "30b0b600",
+      "text": "Rick Martinez. Kolay tatmin olur. Bilinen bir ambivert."
+    },
+    {
+      "id": "f739abd8",
+      "bank_id": "30b0b600",
+      "text": "Burada bir zamanlar Ned denen bir adam yatıyor, şimdi daha doğru tabirle mefta deniyor."
+    },
+    {
+      "id": "f739abd9",
+      "bank_id": "30b0b600",
+      "text": "Geleceğe yolculuk ettin ve burası senin mezarın. Şaka şaka."
+    },
+    {
+      "id": "f739abda",
+      "bank_id": "30b0b600",
+      "text": "Arkana bak!"
+    },
+    {
+      "id": "f739abdb",
+      "bank_id": "30b0b600",
+      "text": "Kevin Dodd. Bir zeytinle kavgayı kaybetti."
+    },
+    {
+      "id": "f739abdc",
+      "bank_id": "30b0b600",
+      "text": "Charles Edouard. Profeşınıl Yazır."
+    },
+    {
+      "id": "f739abdd",
+      "bank_id": "30b0b600",
+      "text": "Asit damlasına vurdunuz. Gürzünüz eriyor!"
+    },
+    {
+      "id": "f739abde",
+      "bank_id": "30b0b600",
+      "text": "Ted Timmins. Yüzde doksan dokuz ölü."
+    },
+    {
+      "id": "f739abdf",
+      "bank_id": "30b0b600",
+      "text": "Avram Fearnside. Aşağılık herif."
+    },
+    {
+      "id": "f839ad44",
+      "bank_id": "30b0b600",
+      "text": "Gary Simmons. Başı artık bulutlarda dinleniyor."
+    },
+    {
+      "id": "f839ad45",
+      "bank_id": "30b0b600",
+      "text": "Michael Malinowski. İpe bağlı bir topla kafasından vuruldu."
+    },
+    {
+      "id": "f839ad48",
+      "bank_id": "30b0b600",
+      "text": "Anish Antony. Gökyüzünde tavuk tekmeliyor."
+    },
+    {
+      "id": "f839ad49",
+      "bank_id": "30b0b600",
+      "text": "Ollie Purkiss. Ölü köpeğe yeni numaralar öğretemezsin."
+    },
+    {
+      "id": "f839ad4a",
+      "bank_id": "30b0b600",
+      "text": "Ian Faichnie. Gitti ama muhtemelen geri dönüyor."
+    },
+    {
+      "id": "f839ad4b",
+      "bank_id": "30b0b600",
+      "text": "Stewart Lynch. Yakında tekrar ayakta olacak."
+    },
+    {
+      "id": "f839ad4c",
+      "bank_id": "30b0b600",
+      "text": "Moe Green. \"Benim kim olduğumu bilmiyor musun?\""
+    },
+    {
+      "id": "f839ad4d",
+      "bank_id": "30b0b600",
+      "text": "Mike McCarthy. Son nefesini verdi."
+    },
+    {
+      "id": "f839ad4e",
+      "bank_id": "30b0b600",
+      "text": "Mike Ducker. Ormanda kayboldu."
+    },
+    {
+      "id": "f839ad4f",
+      "bank_id": "30b0b600",
+      "text": "Dave Carter. Çocuklukta alındı."
+    },
+    {
+      "id": "f939af36",
+      "bank_id": "30b0b600",
+      "text": "Paul Evans. Vahşi çakallar tarafından öldürüldü."
+    },
+    {
+      "id": "f939af37",
+      "bank_id": "30b0b600",
+      "text": "Rich Bryant. Bu da geçer ya hu."
+    },
+    {
+      "id": "f939af38",
+      "bank_id": "30b0b600",
+      "text": "Richard Ham. Geldiğini duydular."
+    },
+    {
+      "id": "f939af39",
+      "bank_id": "30b0b600",
+      "text": "Patrick Martin. Çok erken geldi."
+    },
+    {
+      "id": "f939af3a",
+      "bank_id": "30b0b600",
+      "text": "Mike West. Dokuzda kalktı. İstasyona gerçekten uğraması gerekiyordu."
+    },
+    {
+      "id": "f939af3b",
+      "bank_id": "30b0b600",
+      "text": "Burada Mini G yatıyor. Bir fincan fazla çay."
+    },
+    {
+      "id": "f939af3c",
+      "bank_id": "30b0b600",
+      "text": "Kont Zamoyski. Dragonstomper ile yaşadı, Dragonstomper ile öldü."
+    },
+    {
+      "id": "f939af3d",
+      "bank_id": "30b0b600",
+      "text": "Charles Griffiths. 48 yaşındayken Reaver'ın .48'liği günlerine son verdi."
+    },
+    {
+      "id": "f939af3e",
+      "bank_id": "30b0b600",
+      "text": "Tek Çorap Simpson. Kendi yansımasıyla kavga etti. İkinci oldu."
+    },
+    {
+      "id": "f939af3f",
+      "bank_id": "30b0b600",
+      "text": "ANDDDEEEEYYYY! Vahşi tavukların saldırısına uğradı. Onları tekmeleyemeyecek kadar iyi biriydi."
+    },
+    {
+      "id": "fa39b090",
+      "bank_id": "30b0b600",
+      "text": "Andy Bass. Altıda gitti."
+    },
+    {
+      "id": "fa39b091",
+      "bank_id": "30b0b600",
+      "text": "Louise Copley. Kendini toprağa kadar tüketti."
+    },
+    {
+      "id": "fa39b092",
+      "bank_id": "30b0b600",
+      "text": "Daniel Dobson. Azraille güreşti. Kaybetti."
+    },
+    {
+      "id": "fa39b093",
+      "bank_id": "30b0b600",
+      "text": "Adam Sibbick. Bir duman bulutu olup uçtu."
+    },
+    {
+      "id": "fa39b094",
+      "bank_id": "30b0b600",
+      "text": "Russell Shaw. Sesin efendisi. Şimdi yerin altında."
+    },
+    {
+      "id": "fa39b095",
+      "bank_id": "30b0b600",
+      "text": "Mark Llabres Hill. Yazarak kendi mezarını kazdı."
+    },
+    {
+      "id": "fa39b096",
+      "bank_id": "30b0b600",
+      "text": "Jonathan Shaw. Dünyayı kurtardı. Kendini kurtaramadı."
+    },
+    {
+      "id": "fa39b097",
+      "bank_id": "30b0b600",
+      "text": "Kalev Tait. Hepsini yiyebileceğini sandı."
+    },
+    {
+      "id": "fa39b09a",
+      "bank_id": "30b0b600",
+      "text": "J Epps ve William Hodge. Küçük bir kutuda birlikte gömüldüler."
+    },
+    {
+      "id": "fa39b09b",
+      "bank_id": "30b0b600",
+      "text": "Matt Hanlon. Gökyüzünü dolduruyor."
+    },
+    {
+      "id": "fb39b200",
+      "bank_id": "30b0b600",
+      "text": "Neil Wallace. Kırık bir sandalyeye oturdu."
+    },
+    {
+      "id": "fb39b201",
+      "bank_id": "30b0b600",
+      "text": "Jennifer Stanners. Kendi ayağından boğuldu."
+    },
+    {
+      "id": "fb39b202",
+      "bank_id": "30b0b600",
+      "text": "Wayne Marx. Hayatta olarak işaretlenmedi."
+    },
+    {
+      "id": "fb39b203",
+      "bank_id": "30b0b600",
+      "text": "John Molloy. Dengesiz."
+    },
+    {
+      "id": "fb39b204",
+      "bank_id": "30b0b600",
+      "text": "Will Braham. Ölümcül bir böceğe yakalandı."
+    },
+    {
+      "id": "fb39b205",
+      "bank_id": "30b0b600",
+      "text": "Dene ve Simon Carter. Acaba hangisi daha akıllıydı?"
+    },
+    {
+      "id": "fb39b206",
+      "bank_id": "30b0b600",
+      "text": "Daniele Duri. Eski halinin bir gölgesi."
+    },
+    {
+      "id": "fb39b207",
+      "bank_id": "30b0b600",
+      "text": "Chris Knott. Sosis yapıldı."
+    },
+    {
+      "id": "fb39b20c",
+      "bank_id": "30b0b600",
+      "text": "Si Jaques. Cansız duruyor."
+    },
+    {
+      "id": "fb39b20d",
+      "bank_id": "30b0b600",
+      "text": "Neil Wakefield. \"İyi misin Neil?\""
+    },
+    {
+      "id": "fc39b3f0",
+      "bank_id": "30b0b600",
+      "text": "Yalancı Andrew. Bir Bloodstone yangınında öldü."
+    },
+    {
+      "id": "fc39b3f1",
+      "bank_id": "30b0b600",
+      "text": "T Fung. Bitirici vuruşu yedi."
+    },
+    {
+      "id": "fc39b3f8",
+      "bank_id": "30b0b600",
+      "text": "K Zarifis. Kurtuluşun acısını çekti."
+    },
+    {
+      "id": "fc39b3f9",
+      "bank_id": "30b0b600",
+      "text": "Julian Thomas. Dev bir piton tarafından yendi."
+    },
+    {
+      "id": "fc39b3fa",
+      "bank_id": "30b0b600",
+      "text": "Neena Jetwani. Çekimi harika."
+    },
+    {
+      "id": "fc39b3fb",
+      "bank_id": "30b0b600",
+      "text": "Burayı çok sevdim."
+    },
+    {
+      "id": "fc39b3fc",
+      "bank_id": "30b0b600",
+      "text": "Stephen Broadley. Parçalarına ayrılmış yatıyor."
+    },
+    {
+      "id": "fc39b3fd",
+      "bank_id": "30b0b600",
+      "text": "Damian Buzugbe. Artık aramızda değil."
+    },
+    {
+      "id": "fc39b3fe",
+      "bank_id": "30b0b600",
+      "text": "Benjamin Johns. Hayır dur, Jami Johns. Belki de Ben? Her neyse, hepsi burada yatıyor."
+    },
+    {
+      "id": "fc39b3ff",
+      "bank_id": "30b0b600",
+      "text": "Georg Backer. Kafasındaki sesler beynini patlattı."
+    },
+    {
+      "id": "fd39b562",
+      "bank_id": "30b0b600",
+      "text": "Ben. Hepinizle çalışmak güzeldi. Pasta mutfakta."
+    },
+    {
+      "id": "fd39b563",
+      "bank_id": "30b0b600",
+      "text": "Nanette Kaulig. Hareket yok."
+    },
+    {
+      "id": "fd39b568",
+      "bank_id": "30b0b600",
+      "text": "Ed Hulshof. Bir tilki tarafından öldürüldü."
+    },
+    {
+      "id": "fd39b569",
+      "bank_id": "30b0b600",
+      "text": "Luke Pressley. Aşırı dozda et yedi."
+    },
+    {
+      "id": "fd39b56a",
+      "bank_id": "30b0b600",
+      "text": "G Portes. Hâlâ çözülmemiş sorunları var."
+    },
+    {
+      "id": "fd39b56b",
+      "bank_id": "30b0b600",
+      "text": "PDM. Bu tarihteki en iyi mezardır ve insanların ebedi istirahatgahlara bakışını sonsuza dek değiştirecektir."
+    },
+    {
+      "id": "fd39b56c",
+      "bank_id": "30b0b600",
+      "text": "D Bryson. Siste kayboldu."
+    },
+    {
+      "id": "fd39b56d",
+      "bank_id": "30b0b600",
+      "text": "Rob Stevens. Savaşta öldü."
+    },
+    {
+      "id": "fd39b56e",
+      "bank_id": "30b0b600",
+      "text": "F Navarro. Trajik saç boyası onu öldürdü."
+    },
+    {
+      "id": "fd39b56f",
+      "bank_id": "30b0b600",
+      "text": "Özel Dedektif Sam Swain. Donanımlıydı ama hiçbir yere gidemedi."
+    },
+    {
+      "id": "fdfb408a",
+      "bank_id": "30b0b600",
+      "text": "Harman Döven Jim. İlk Çile Şampiyonu ve her yönüyle iyi bir adam."
+    },
+    {
+      "id": "fdfb408b",
+      "bank_id": "30b0b600",
+      "text": "Küçük William. Kalbin kılıcından daha büyüktü."
+    },
+    {
+      "id": "fdfb408c",
+      "bank_id": "30b0b600",
+      "text": "Azılı Glenda. Trolün tükürdüğü parçalar burada yatıyor."
+    },
+    {
+      "id": "fdfb408d",
+      "bank_id": "30b0b600",
+      "text": "Tehlikeli Roy. Bir çukura düştü ve çenesini kırdı."
+    },
+    {
+      "id": "fdfb408e",
+      "bank_id": "30b0b600",
+      "text": "Dul Bırakan Willow. Sonunda karını da dul bıraktın."
+    }
+  ]
+}

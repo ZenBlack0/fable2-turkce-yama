@@ -1,0 +1,616 @@
+{
+  "bank_id": "a0afb600",
+  "total_strings": 122,
+  "strings": [
+    {
+      "id": "05b8e691",
+      "bank_id": "a0afb600",
+      "text": "Ve böylece kız hayatta kaldı."
+    },
+    {
+      "id": "05b8e69a",
+      "bank_id": "a0afb600",
+      "text": "Ve böylece oğlan hayatta kaldı."
+    },
+    {
+      "id": "08ad2c71",
+      "bank_id": "a0afb600",
+      "text": "Zamanla oğlanın acısı güce dönüştü. Kederi irade oldu."
+    },
+    {
+      "id": "08ad2c7a",
+      "bank_id": "a0afb600",
+      "text": "Zamanla kızın acısı güce dönüştü. Kederi irade oldu."
+    },
+    {
+      "id": "1173f168",
+      "bank_id": "a0afb600",
+      "text": "Yani bu, şuralarda bir yerde olduğu anlamına gelir... Yok, hayır, bu doğru değil."
+    },
+    {
+      "id": "1373f44e",
+      "bank_id": "a0afb600",
+      "text": "Hmm, bu harika bir keşif olabilir. Eğer haklıysam tabii."
+    },
+    {
+      "id": "13d18896",
+      "bank_id": "a0afb600",
+      "text": "Hazine Belle'e verilsin mi?"
+    },
+    {
+      "id": "13d94ab2",
+      "bank_id": "a0afb600",
+      "text": "Kuvvet İtişi."
+    },
+    {
+      "id": "1473f621",
+      "bank_id": "a0afb600",
+      "text": "Belki de şuraya gömülmüştür... evet, bu mantıklı olabilir."
+    },
+    {
+      "id": "15d58081",
+      "bank_id": "a0afb600",
+      "text": "Eser Belle'e verilsin mi?"
+    },
+    {
+      "id": "2be5f783",
+      "bank_id": "a0afb600",
+      "text": "Eee, nesnenin yerini bulabildin mi?"
+    },
+    {
+      "id": "2ce5f976",
+      "bank_id": "a0afb600",
+      "text": "Eseri bulabildin mi bari?"
+    },
+    {
+      "id": "2d16a734",
+      "bank_id": "a0afb600",
+      "text": "Şok Dalgası."
+    },
+    {
+      "id": "2d16a735",
+      "bank_id": "a0afb600",
+      "text": "Patlama Dalgası."
+    },
+    {
+      "id": "2d16a737",
+      "bank_id": "a0afb600",
+      "text": "Defetme."
+    },
+    {
+      "id": "2de5fae9",
+      "bank_id": "a0afb600",
+      "text": "Burada dikilerek bir şey bulabilmen pek olası değil."
+    },
+    {
+      "id": "373f2ab1",
+      "bank_id": "a0afb600",
+      "text": "Artık Öpücük Gönder ifadesini kullanabilecek kadar ünlüsünüz."
+    },
+    {
+      "id": "3c11551b",
+      "bank_id": "a0afb600",
+      "text": "Fakat bazı kederler öylesine büyüktür ki ölüm bile mesafesini korur."
+    },
+    {
+      "id": "3d11568e",
+      "bank_id": "a0afb600",
+      "text": "Lucien o gece, yoluna çıkabilecek herkesin öldüğünden emin bir halde Fairfax Kalesi'nden ayrıldı."
+    },
+    {
+      "id": "3ee6f668",
+      "bank_id": "a0afb600",
+      "text": "Anne babalar bebeklerine ilk kez baktıklarında, o ana kadar sevginin ne olduğu hakkında hiçbir fikirleri olmadığını anlarlar."
+    },
+    {
+      "id": "3f1159d4",
+      "bank_id": "a0afb600",
+      "text": "On kış Albion'u beyaz örtüyle kapladı, on yaz havayı böcek sesleri ve kahkahalarla doldurdu."
+    },
+    {
+      "id": "3fe6f7db",
+      "bank_id": "a0afb600",
+      "text": "Önlerinde çocuğun yaşayabileceği tüm olası hayatları görürler. Her seçim henüz yapılmayı beklemektedir."
+    },
+    {
+      "id": "41e6fb21",
+      "bank_id": "a0afb600",
+      "text": "Dünyaya bir çocuk getirmek her şeye yepyeni bir bakış açısı kazandırır."
+    },
+    {
+      "id": "489493ea",
+      "bank_id": "a0afb600",
+      "text": "Artık Zafer ifadesini kullanabilecek kadar ünlüsünüz."
+    },
+    {
+      "id": "49e8e398",
+      "bank_id": "a0afb600",
+      "text": "Ve dileğin yerine gelmesiyle, Albion'un Kahramanı ölçülemez bir zenginlikle karaya geri döndü."
+    },
+    {
+      "id": "4be8e6fe",
+      "bank_id": "a0afb600",
+      "text": "Ve Kahramanı bencil veya duygusuz ilan edebilecek olanlar, kayıplarına yanmaktan ve hasetten kudurmaktan başka bir şey yapamadılar."
+    },
+    {
+      "id": "4c84ce5f",
+      "bank_id": "a0afb600",
+      "text": "Hâlâ bulamadın mı?"
+    },
+    {
+      "id": "4ce8e851",
+      "bank_id": "a0afb600",
+      "text": "Paranın satın alamayacağı şeyler pek az ilgi çekiyordu. Satın alabileceği şeyler ise sınırsız görünüyordu."
+    },
+    {
+      "id": "4d84d032",
+      "bank_id": "a0afb600",
+      "text": "Benim için bir şeylerin yok mu?"
+    },
+    {
+      "id": "4e84d1a5",
+      "bank_id": "a0afb600",
+      "text": "Üzerinde kadim ve yeni kazılmış bir şeylerin kokusunu alabiliyorum."
+    },
+    {
+      "id": "4ee8ebb7",
+      "bank_id": "a0afb600",
+      "text": "Yine de hikâye burada bitmiyor. Hayat devam ediyor. Hikâyelerimiz bizim seçtiğimiz yerde son bulur."
+    },
+    {
+      "id": "56facbe1",
+      "bank_id": "a0afb600",
+      "text": "Yine de hikâye burada bitmiyor. Hayat devam ediyor. Hikâyelerimiz bizim seçtiğimiz yerde son bulur."
+    },
+    {
+      "id": "57facd54",
+      "bank_id": "a0afb600",
+      "text": "Haber hızla yayıldı ve çok geçmeden tüm Albion minnetle gözyaşı döktü, bu yüce ve özverili Kahramanı sonsuza dek öveceklerine yeminler etti."
+    },
+    {
+      "id": "58facec7",
+      "bank_id": "a0afb600",
+      "text": "Kule yüzünden ailesini ve dostlarını kaybedenler, sevdiklerini şaşkın ama mucizevi bir şekilde yara almamış halde kendilerini beklerken buldular."
+    },
+    {
+      "id": "59fad0ba",
+      "bank_id": "a0afb600",
+      "text": "Ve dileğin yerine gelmesiyle, Albion'un Kahramanı karaya geri döndü."
+    },
+    {
+      "id": "610fe9a4",
+      "bank_id": "a0afb600",
+      "text": "Şok."
+    },
+    {
+      "id": "61593b7a",
+      "bank_id": "a0afb600",
+      "text": "Çok cömert bir miktar altın karşılığında tabii ki. Sen olmasaydın onu asla bulamazdım."
+    },
+    {
+      "id": "62593ced",
+      "bank_id": "a0afb600",
+      "text": "Bütün hayatımı onu incelemeye adadım. Artık onu alabilir miyim lütfen?"
+    },
+    {
+      "id": "62b04878",
+      "bank_id": "a0afb600",
+      "text": "Artık Tehdit Et ifadesini kullanabilecek kadar kötüsünüz."
+    },
+    {
+      "id": "68e97891",
+      "bank_id": "a0afb600",
+      "text": "İnsanlığa kimsenin umursamadığı eski şeyleri kazıp çıkarmaktan daha büyük bir hediye olabilir mi? Ne kadar cahil bir çağda yaşıyoruz."
+    },
+    {
+      "id": "69e97a04",
+      "bank_id": "a0afb600",
+      "text": "Tehlike, para, heyecan; sana tüm bunları sunabilirim... Yani, tehlike sunabilirim. Bir de biraz can sıkıntısı."
+    },
+    {
+      "id": "6ae97bf7",
+      "bank_id": "a0afb600",
+      "text": "Kadim gizemleri ortaya çıkarmak için dünyayı dolaşır mısın?"
+    },
+    {
+      "id": "6be97d6a",
+      "bank_id": "a0afb600",
+      "text": "Eski eserleri toplamak için akıl almaz tehlikelerle yüzleşir misin?"
+    },
+    {
+      "id": "6d0d3756",
+      "bank_id": "a0afb600",
+      "text": "Artık Özür Dile ifadesini kullanabilecek kadar iyisiniz."
+    },
+    {
+      "id": "6f37ae06",
+      "bank_id": "a0afb600",
+      "text": "Mananız azaldı. Doldurmak için mana iksirleri kullanın."
+    },
+    {
+      "id": "71476194",
+      "bank_id": "a0afb600",
+      "text": "Köpeğin sıcak kürkünün huzuruna uzandı, yeni bir hayatta ilk adımlarını atmaya hazırdı."
+    },
+    {
+      "id": "7147619f",
+      "bank_id": "a0afb600",
+      "text": "Köpeğin sıcak kürkünün huzuruna uzandı, yeni bir hayatta ilk adımlarını atmaya hazırdı."
+    },
+    {
+      "id": "74f06ad8",
+      "bank_id": "a0afb600",
+      "text": "Eseri bulun."
+    },
+    {
+      "id": "781063c3",
+      "bank_id": "a0afb600",
+      "text": "Önlerinde çocuğun yaşayabileceği tüm olası hayatları görürler. Her seçim henüz yapılmayı beklemektedir ve pişmanlık yoktur."
+    },
+    {
+      "id": "7c13b610",
+      "bank_id": "a0afb600",
+      "text": "Sana tekrar ihtiyacım olduğunda haber veririm."
+    },
+    {
+      "id": "7d13b783",
+      "bank_id": "a0afb600",
+      "text": "Bir sonraki yeri deşifre edene kadar yapabileceğin pek bir şey yok."
+    },
+    {
+      "id": "7e477060",
+      "bank_id": "a0afb600",
+      "text": "Ah, çocukluğumdan beri bu anın hayalini kurmuştum. Efsanevi Archon'un Rüyası... Tüm yardımın için teşekkür ederim."
+    },
+    {
+      "id": "7f13bae9",
+      "bank_id": "a0afb600",
+      "text": "Bir sonraki eserin yerini henüz tespit edemedim. Biraz zaman alabilir."
+    },
+    {
+      "id": "81477539",
+      "bank_id": "a0afb600",
+      "text": "Öyle duygulandım ki bütün bu deneyim hakkında uzun bir akademik makale yazacağım."
+    },
+    {
+      "id": "830df65a",
+      "bank_id": "a0afb600",
+      "text": "Girdap."
+    },
+    {
+      "id": "897cbd78",
+      "bank_id": "a0afb600",
+      "text": "Kılıçlar."
+    },
+    {
+      "id": "8baab9f0",
+      "bank_id": "a0afb600",
+      "text": "Her geçen gün o büyük kara duvarlar yükseldi. Her şafak onların gölgesinde daha da karardı ve duvarların ardındaki işler daha da karanlık bir hal aldı."
+    },
+    {
+      "id": "8caabb63",
+      "bank_id": "a0afb600",
+      "text": "Yıllar geçtikçe Kahramanın görevi her zamankinden daha imkânsız görünüyordu."
+    },
+    {
+      "id": "8eaabe49",
+      "bank_id": "a0afb600",
+      "text": "İstenmeyen bir görev zamanın akışını yavaşlatır. Kule'nin içinde bir sonsuzluk geçti."
+    },
+    {
+      "id": "91aac302",
+      "bank_id": "a0afb600",
+      "text": "Lucien o büyük beyaz ışığın ardında kaldı, Garth saklanmayı sürdürdü ve ilki kadar acımasız ve güçlü olan Komutan gibi başkaları ortaya çıktı."
+    },
+    {
+      "id": "92aac4f5",
+      "bank_id": "a0afb600",
+      "text": "Ve yavaş yavaş, özgürlüğe veya dış dünyaya dair tüm düşünceler silinip gitti..."
+    },
+    {
+      "id": "95c9ed3c",
+      "bank_id": "a0afb600",
+      "text": "Artık Kahkaha ifadesini kullanabilecek kadar iyisiniz."
+    },
+    {
+      "id": "9629a3a4",
+      "bank_id": "a0afb600",
+      "text": "Bazıları onların tuhaf bir çift olduğunu söyledi, diğerleri ise gerçek bir aşk hikâyesi gördüklerini... bunu yalnızca zaman gösterecekti."
+    },
+    {
+      "id": "9729a517",
+      "bank_id": "a0afb600",
+      "text": "Güneşli bir sabah, berrak bir gökyüzünün altında, köylüler iki insanın durup birbirlerine olan aşklarını ilan etmelerine tanık olmak için toplandılar."
+    },
+    {
+      "id": "9829a68a",
+      "bank_id": "a0afb600",
+      "text": "Her ömrün içinde büyüklük, hatta kusursuzluk anları vardır; bazıları tek başına yaşanır, bazıları ise paylaşılır."
+    },
+    {
+      "id": "994cfd73",
+      "bank_id": "a0afb600",
+      "text": "Canınız azaldı! İksiriniz ya da yiyeceğiniz var mı?"
+    },
+    {
+      "id": "9a4cfee6",
+      "bank_id": "a0afb600",
+      "text": "Canınız kritik düzeyde!"
+    },
+    {
+      "id": "a920b940",
+      "bank_id": "a0afb600",
+      "text": "Unutmayın: siz aksini seçene kadar vuruşlarınız masum çevre sakinlerine zarar verecektir."
+    },
+    {
+      "id": "a9ad842b",
+      "bank_id": "a0afb600",
+      "text": "Büyük miktarda hasar verseler de normal silahlardan daha yavaştırlar."
+    },
+    {
+      "id": "aaad859e",
+      "bank_id": "a0afb600",
+      "text": "Ağır bir silah aldınız."
+    },
+    {
+      "id": "aad6910c",
+      "bank_id": "a0afb600",
+      "text": "Ve Kahramanı bencil veya duygusuz ilan edebilecek olanlar, kendileri de ailelerini kaybetmiş olanlar, böyle bir seçenek verildiğinde kendilerinin de aynısını yapabileceğini inkâr edemezlerdi."
+    },
+    {
+      "id": "ab5e0288",
+      "bank_id": "a0afb600",
+      "text": "Lütfen, onu almalıyım."
+    },
+    {
+      "id": "abd692ff",
+      "bank_id": "a0afb600",
+      "text": "Yine de hikâye burada bitmiyor. Hayat devam ediyor. Hikâyelerimiz bizim seçtiğimiz yerde son bulur."
+    },
+    {
+      "id": "ad5e05ee",
+      "bank_id": "a0afb600",
+      "text": "Senin için değersiz olacaktır, yalnızca bir akademisyen onun kıymetini gerçekten takdir edebilir. Seni temin ederim karşılığı çok daha değerlidir."
+    },
+    {
+      "id": "ada67584",
+      "bank_id": "a0afb600",
+      "text": "Kahraman, ışığa doğru gitme. Onunla savaş!"
+    },
+    {
+      "id": "add695c5",
+      "bank_id": "a0afb600",
+      "text": "Ve dileğin tutulmasıyla, Albion'un Kahramanı evinde kendisini sıcak bir karşılamanın beklediğini bilmenin huzuruyla karaya geri döndü."
+    },
+    {
+      "id": "ae5e0741",
+      "bank_id": "a0afb600",
+      "text": "Onunla gitmene izin veremem. Önce beni öldürmen gerekir."
+    },
+    {
+      "id": "afa678ea",
+      "bank_id": "a0afb600",
+      "text": "Direnme. Kendini serbest bırakmalısın."
+    },
+    {
+      "id": "b0a67a5d",
+      "bank_id": "a0afb600",
+      "text": "Senin vaktin henüz gelmedi. Bize geri dön."
+    },
+    {
+      "id": "b1ba662b",
+      "bank_id": "a0afb600",
+      "text": "Eğer ilgilenirsen senin için bir arkeolojik maceram daha var."
+    },
+    {
+      "id": "b1ea6fde",
+      "bank_id": "a0afb600",
+      "text": "Artık Haraç Kes ifadesini kullanabilecek kadar kötüsünüz."
+    },
+    {
+      "id": "b2ba679e",
+      "bank_id": "a0afb600",
+      "text": "Araştırma uğruna kendini bir kez daha tehlikeye atmaya hazır mısın?"
+    },
+    {
+      "id": "b3ba6971",
+      "bank_id": "a0afb600",
+      "text": "Toprağa gömülü kadim nesneleri çıkarma alanında daha cüretkâr işler var. Yani, hazırsan tabii."
+    },
+    {
+      "id": "b4ba6ae4",
+      "bank_id": "a0afb600",
+      "text": "Senin için tehlikeli bir görevim daha var."
+    },
+    {
+      "id": "b5ba6c57",
+      "bank_id": "a0afb600",
+      "text": "Bilinmeyen geçmişe doğru daha heyecan verici yolculuklar için mi buradasın?"
+    },
+    {
+      "id": "b6e2292a",
+      "bank_id": "a0afb600",
+      "text": "Bak, tüm parçalara ihtiyacım var, bu çok önemli."
+    },
+    {
+      "id": "b6e63218",
+      "bank_id": "a0afb600",
+      "text": "Arkeolog için bir eser toplansın mı?"
+    },
+    {
+      "id": "ba858fef",
+      "bank_id": "a0afb600",
+      "text": "Zaman Kontrolü."
+    },
+    {
+      "id": "bbad573d",
+      "bank_id": "a0afb600",
+      "text": "Dış görünüşünüz eylemlerinizi yansıtacak şekilde değişmeye başlıyor."
+    },
+    {
+      "id": "bbca5a97",
+      "bank_id": "a0afb600",
+      "text": "Kız, garip bir yatağın başında bekleyen tanıdık bir yüze uyandı."
+    },
+    {
+      "id": "bbca5a9c",
+      "bank_id": "a0afb600",
+      "text": "Oğlan, garip bir yatağın başında bekleyen tanıdık bir yüze uyandı."
+    },
+    {
+      "id": "bfd0344b",
+      "bank_id": "a0afb600",
+      "text": "Ölüleri Dirilt."
+    },
+    {
+      "id": "c6dda64e",
+      "bank_id": "a0afb600",
+      "text": "Artık Korkunç Kahkaha ifadesini kullanabilecek kadar ünlüsünüz."
+    },
+    {
+      "id": "c7b0ba20",
+      "bank_id": "a0afb600",
+      "text": "Ama bu onu başka bir Kahramanın, daha önce hiç görmediği bir adamın ellerinde ezici bir yenilgiye uğramaktan kurtaramadı."
+    },
+    {
+      "id": "c8b0bb93",
+      "bank_id": "a0afb600",
+      "text": "Kendince soylu olabiliyordu. Hatta... nazik bile."
+    },
+    {
+      "id": "c9b0bd06",
+      "bank_id": "a0afb600",
+      "text": "Eylemlerimizin sonuçları böyledir, ölümde bile."
+    },
+    {
+      "id": "cab0bef9",
+      "bank_id": "a0afb600",
+      "text": "Ve yaptığı iyi işler ne olursa olsun, hem gerçek hem de uydurma olan bir kötülük çığının altında kaybolup gitti."
+    },
+    {
+      "id": "cb083fe3",
+      "bank_id": "a0afb600",
+      "text": "Sen! Kayıp uygarlıkların kalıntılarını ararken canını, uzuvlarını ve daha fazlasını riske atmaya istekli misin?"
+    },
+    {
+      "id": "cbb0c06c",
+      "bank_id": "a0afb600",
+      "text": "Buradan pek uzak olmayan bir yerde, başka bir çağın büyük bir Kahramanının mezarı yatıyor."
+    },
+    {
+      "id": "cc084156",
+      "bank_id": "a0afb600",
+      "text": "Ah, sanırım kim olduğumu bilmek istiyorsun. İnsanlar bu çağda ne kadar da gelenekçi..."
+    },
+    {
+      "id": "cd0842c9",
+      "bank_id": "a0afb600",
+      "text": "Benim adım Belle ve ben Albion'un en önde gelen arkeoloğuyum. Tamam mı? Şimdi kadim eserlerin peşinde harika maceralara atılacak mısın yoksa atılmayacak mısın?"
+    },
+    {
+      "id": "cdb0c3b2",
+      "bank_id": "a0afb600",
+      "text": "Bir hayduttu, doğru... ama tarih onu haksız yere yargıladı."
+    },
+    {
+      "id": "ceb0c525",
+      "bank_id": "a0afb600",
+      "text": "Twinblade. Adı bir zamanlar tüm Albion'a korku salardı."
+    },
+    {
+      "id": "d18341d0",
+      "bank_id": "a0afb600",
+      "text": "Dünyayı değiştirme iradesi. Ve her rüyasında hâlâ peşini bırakmayan ölümün intikamını alma iradesi."
+    },
+    {
+      "id": "d18341db",
+      "bank_id": "a0afb600",
+      "text": "Dünyayı değiştirme iradesi. Ve her rüyasında hâlâ peşini bırakmayan ölümün intikamını alma iradesi."
+    },
+    {
+      "id": "d4b0ceb7",
+      "bank_id": "a0afb600",
+      "text": "Huzur içinde yat Twinblade. Üzerine düşen rolü oynadın."
+    },
+    {
+      "id": "e86423aa",
+      "bank_id": "a0afb600",
+      "text": "Daha ileri gidebilmek için şaltere ateş etmeniz gerekecek."
+    },
+    {
+      "id": "ed425328",
+      "bank_id": "a0afb600",
+      "text": "Kadim hazineyi bulun."
+    },
+    {
+      "id": "ee42549b",
+      "bank_id": "a0afb600",
+      "text": "Belle'e dönün."
+    },
+    {
+      "id": "ef0bf1c2",
+      "bank_id": "a0afb600",
+      "text": "Kaos."
+    },
+    {
+      "id": "ef42560e",
+      "bank_id": "a0afb600",
+      "text": "Köpeğinizi takip edin."
+    },
+    {
+      "id": "f04257e1",
+      "bank_id": "a0afb600",
+      "text": "Arkeolog ile konuşun."
+    },
+    {
+      "id": "f1425954",
+      "bank_id": "a0afb600",
+      "text": "Eseri Belle'e verin."
+    },
+    {
+      "id": "f15863f9",
+      "bank_id": "a0afb600",
+      "text": "Artık Kıçımı Öp ifadesini kullanabilecek kadar ünlüsünüz."
+    },
+    {
+      "id": "f2425ac7",
+      "bank_id": "a0afb600",
+      "text": "Eserin yerini tespit etmek için Belle'in notunu inceleyin."
+    },
+    {
+      "id": "f2f44536",
+      "bank_id": "a0afb600",
+      "text": "Günler sonra, Bowerstone'un karanlık sokaklarından uzakta, küçük, kırık bedenine yavaşça can geldi."
+    },
+    {
+      "id": "f2f4453d",
+      "bank_id": "a0afb600",
+      "text": "Günler sonra, Bowerstone'un karanlık sokaklarından uzakta, küçük, kırık bedenine yavaşça can geldi."
+    },
+    {
+      "id": "f4425e2d",
+      "bank_id": "a0afb600",
+      "text": "Arkeolojik eseri kazıp çıkarın."
+    },
+    {
+      "id": "f89f7aa7",
+      "bank_id": "a0afb600",
+      "text": "Ağır yaralandınız. İyileşmek için sağlık iksirleri ya da yiyecek tüketin."
+    },
+    {
+      "id": "f904204f",
+      "bank_id": "a0afb600",
+      "text": "Pekâlâ öyleyse, beni görmezden gelip dikil orada."
+    },
+    {
+      "id": "fbffe3b7",
+      "bank_id": "a0afb600",
+      "text": "Cehennem Ateşi."
+    },
+    {
+      "id": "fcd8c057",
+      "bank_id": "a0afb600",
+      "text": "Artık Takip Et ve Bekle ifadesini kullanabilecek kadar ünlüsünüz."
+    }
+  ]
+}

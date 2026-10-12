@@ -1,0 +1,331 @@
+{
+  "bank_id": "90b0b600",
+  "total_strings": 65,
+  "strings": [
+    {
+      "id": "02d6c37d",
+      "bank_id": "90b0b600",
+      "text": "Oakfield'deki su değirmeni bir kez daha hobbe'lerin saldırısına uğruyor. Çiftçilerin geçimi, onların sonuncusunu da ortadan kaldırmanıza bağlı."
+    },
+    {
+      "id": "04afbb2a",
+      "bank_id": "90b0b600",
+      "text": "Oakfield'deki yel değirmeni bir kez daha hobbe'lerin saldırısına uğruyor. Çiftçilerin geçimi, onların sonuncusunu da ortadan kaldırmanıza bağlı."
+    },
+    {
+      "id": "0fefa635",
+      "bank_id": "90b0b600",
+      "text": "Brightwood Kulesi satın alınabilir durumda. Acaba Garth orada hangi gizemleri araştırıyordu?"
+    },
+    {
+      "id": "131516a1",
+      "bank_id": "90b0b600",
+      "text": "Gizemli Cemiyet profesyonel suikastçılar arıyor."
+    },
+    {
+      "id": "188ffc1a",
+      "bank_id": "90b0b600",
+      "text": "Bowerstone Pazarı'nın bodrumlarını özellikle pis bir böcek türü istila ediyor. Bu imha işi bir profesyonel gerektirir."
+    },
+    {
+      "id": "188ffc1b",
+      "bank_id": "90b0b600",
+      "text": "Bowerstone Pazarı'nın bodrumlarını kasıp kavuran dev böcek istilası var. Hepsini yok edin."
+    },
+    {
+      "id": "2849af78",
+      "bank_id": "90b0b600",
+      "text": "Westcliff, bölgede yaşayan daha güçlü balverine'lerin saldırısı altında. Kuşkusuz bölgede hak iddia ediyorlar. Onlara durumun öyle olmadığını göstermek size kalmış."
+    },
+    {
+      "id": "2849af79",
+      "bank_id": "90b0b600",
+      "text": "Westcliff eteklerindeki çok sayıdaki balverine'den bazıları, oradaki kampa saldıracak kadar cesur ya da çaresiz davranmış. Hiçbirinin kaçmasına izin vermeyin."
+    },
+    {
+      "id": "3520bf73",
+      "bank_id": "90b0b600",
+      "text": "Bütün Bowerstone Pazarı panik içinde. Lucien'in seçkin askerleri ana meydana saldırıyor."
+    },
+    {
+      "id": "3ade0b20",
+      "bank_id": "90b0b600",
+      "text": "Bowerstone Mezarlığı'nda ölüler dirildi. Mezarlarında duramayacak kadar huzursuz bir halde, yaşayanları aramak ve bulduklarında onları öldürmek için yollarda dolaşıyorlar."
+    },
+    {
+      "id": "3e614e95",
+      "bank_id": "90b0b600",
+      "text": "Haydutlar Bowerstone Pazarı'na sızdı! Handa kargaşa çıkarıyorlar, muhtemelen başarılı bir baskını kutluyorlar."
+    },
+    {
+      "id": "44ce3792",
+      "bank_id": "90b0b600",
+      "text": "Haydutlar Bowerstone Pazarı'na yine saldırıyor. Bunlar, ciddi bir dövüş olmadan dükkânları ve sevkiyatları yağmalama haklarından vazgeçmeyecek iyi eğitimli kanun kaçakları."
+    },
+    {
+      "id": "4af2a287",
+      "bank_id": "90b0b600",
+      "text": "Oakfield'deki han bir kez daha hiç istenmeyen misafirlerin kurbanı oldu: haydutlar! Bu küçük çiftçi topluluğu böylesi bir tehditle başa çıkmak için yetersiz kalıyor."
+    },
+    {
+      "id": "4b98d166",
+      "bank_id": "90b0b600",
+      "text": "Bowerstone Eski Şehri'ndeki aşağı yolda yolkesenlerin görüldüğüne dair raporlar var. Kuşkusuz birine suikast düzenlemek üzere yoldalar."
+    },
+    {
+      "id": "4d999e08",
+      "bank_id": "90b0b600",
+      "text": "Hain bir hobbe çetesi Işık Tapınağı'na saldırıyor. Görünüşe göre keşişleri deviriyor ve kutsal heykellerine saygısızlık ediyorlar."
+    },
+    {
+      "id": "4e4c574c",
+      "bank_id": "90b0b600",
+      "text": "Ya Lucien fazlasıyla cüretkâr olmaya başladı ya da adamları üzerindeki kontrolünü kaybetti. Muhafızlarından bazıları Bowerstone Pazarı'nın ortasında işçileri esir almaya çalışıyor."
+    },
+    {
+      "id": "543109e0",
+      "bank_id": "90b0b600",
+      "text": "Bowerstone Pazarı'ndaki bodrumlar yine hobbe'ler tarafından yağmalanıyor. Kökleri kazınmazsa ticaretin darbe alması muhtemel."
+    },
+    {
+      "id": "543109e1",
+      "bank_id": "90b0b600",
+      "text": "Özellikle dişli bir grup hobbe, Bowerstone Pazarı'nın bodrumlarını istila ediyor. Söylemeye gerek yok, bu durum kasabanın ticareti veya sakinleri için hiç iyi değil."
+    },
+    {
+      "id": "5db86c8d",
+      "bank_id": "90b0b600",
+      "text": "Lucien'in seçkin askerlerinden bazıları Bower Gölü civarında başıboş ve kontrolden çıkmış durumda. Onları öldürmeyi yalnızca siz umabilirsiniz."
+    },
+    {
+      "id": "5e3e4c9d",
+      "bank_id": "90b0b600",
+      "text": "Görev Bahisleri"
+    },
+    {
+      "id": "607f11b4",
+      "bank_id": "90b0b600",
+      "text": "Bowerstone Pazarı'ndaki bir handa yolkesenler görüldü. İster bir sonraki sözleşmelerini yerine getirme aşamasında olsunlar, ister sonuncusunu kutluyor olsunlar, ortadan kaldırılmaları şart."
+    },
+    {
+      "id": "6f58b338",
+      "bank_id": "90b0b600",
+      "text": "Çiftçi toplulukları böcek istilalarına karşı her zaman savunmasızdır ve Oakfield da farksız değil. Oradaki bir ev iğrenç haşerelerin istilasına uğramış durumda."
+    },
+    {
+      "id": "6f58b339",
+      "bank_id": "90b0b600",
+      "text": "Çiftçi toplulukları böcek istilalarına karşı her zaman savunmasızdır ve Oakfield da farksız değil. Oradaki bir ev iğrenç haşerelerin istilasına uğramış durumda."
+    },
+    {
+      "id": "7a7b74a4",
+      "bank_id": "90b0b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8143bf68",
+      "bank_id": "90b0b600",
+      "text": "Oakfield, Kule'den gelen seçkin askerlerin saldırısı altında. Amaçları ne olursa olsun, bu ancak bir katliamla sonuçlanabilir. Sizin yardımınız olmadan hiçbir çiftçi onlara karşı koymayı umamaz."
+    },
+    {
+      "id": "83d8bab6",
+      "bank_id": "90b0b600",
+      "text": "Bowerstone Eski Şehri'ndeki bodrumları oldukça pis dev böcekler istila ediyor. Gerçek bir hasara yol açmadan önce imha edilmeleri gerekiyor."
+    },
+    {
+      "id": "83d8bab7",
+      "bank_id": "90b0b600",
+      "text": "Bowerstone Eski Şehri'ndeki bodrumlar dev böceklerle kaynıyor. Şüphesiz yiyecek arıyorlar ama kasabanın sağlığı için ciddi bir tehdit oluşturuyorlar."
+    },
+    {
+      "id": "892c1e60",
+      "bank_id": "90b0b600",
+      "text": "Lucien'in seçkin askerleri Westcliff'e saldırıyor. İster bir amaçları olsun, ister sadece bir yıkım yolunda olsunlar... fark etmez. Onlarla ilgilenmelisiniz."
+    },
+    {
+      "id": "907ff893",
+      "bank_id": "90b0b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "917ffa06",
+      "bank_id": "90b0b600",
+      "text": "Ah!"
+    },
+    {
+      "id": "927ffbf9",
+      "bank_id": "90b0b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "94d32abc",
+      "bank_id": "90b0b600",
+      "text": "Ölümün karanlık ve doğaüstü güçleri banshee'leri Bowerstone Mezarlığı'na çekti. Ölülerin huzur içinde yatabilmesi için onları öldürün."
+    },
+    {
+      "id": "9925882b",
+      "bank_id": "90b0b600",
+      "text": "Rookridge Hanı yine hobbe'lerle sorun yaşıyor. Küçük yaratıklar ucuz biranın kokusuna karşı koyamıyor, hele ki yakınlardaki mağaralarda bulunan yuvalarına bu kadar yakınken."
+    },
+    {
+      "id": "9a04732a",
+      "bank_id": "90b0b600",
+      "text": "Murray ve Kuduz, Çile hobbe'leri için daha iyi kafesler almayı hâlâ reddediyor ve bir grup hobbe daha Westcliff'e kaçtı. Verdikleri hasara bakılırsa müsabakanın sonraki turlarında kullanılmış olmalılar."
+    },
+    {
+      "id": "9a04732b",
+      "bank_id": "90b0b600",
+      "text": "Çile hobbe'leri tutuldukları kafeslerden yine kaçtı ve Westcliff'e terör saçıyor."
+    },
+    {
+      "id": "9d84d5a1",
+      "bank_id": "90b0b600",
+      "text": "Yolkesenler verimli cinayet tarzlarını Oakfield'deki bir hana taşıyor. Biri bir Oakfield sakininin ölmesini istiyor olmalı ama bu süreçte kim bilir kaç masum can verecek."
+    },
+    {
+      "id": "9f1a83b0",
+      "bank_id": "90b0b600",
+      "text": "Hobbe'ler Bower Gölü kampına yine akın etti. Birçoğu bölgeye dağılmış mağaralarda yaşıyor, bu yüzden bu saldırılar hiç de seyrek değil."
+    },
+    {
+      "id": "9f1cac44",
+      "bank_id": "90b0b600",
+      "text": "Bowerstone Eski Şehri haydut saldırısı altında. Kanun kaçaklarının çoğu orada büyüdü ama bu memleket ziyaretleri ne pahasına olursa olsun durdurulmalı."
+    },
+    {
+      "id": "a3f4193e",
+      "bank_id": "90b0b600",
+      "text": "Kule muhafızları Bowerstone Eski Şehri'ne doğru yola çıktı. Siz tehdidi bertaraf edene kadar oradaki hiçbir köylü esir alınmaktan güvende değil."
+    },
+    {
+      "id": "ad329dc4",
+      "bank_id": "90b0b600",
+      "text": "Gölgeler Bowerstone Mezarlığı'nın türbelerine yine musallat oldu. Onlarla ilgilenilmediği sürece insanlar sevdiklerinin mezarlarını ziyaret edemez."
+    },
+    {
+      "id": "ae3c8c7c",
+      "bank_id": "90b0b600",
+      "text": "Kule muhafızları Bower Gölü yollarında kol geziyor. Masumları esir alıp Kule'de çalıştırmak üzere götürmeden önce onları durdurmalısınız."
+    },
+    {
+      "id": "b1a458f1",
+      "bank_id": "90b0b600",
+      "text": "Haydutlar Bowerstone Pazarı'na yine saldırıyor. Bunlar, dükkânları ve sevkiyatları yağmalama haklarından ciddi bir dövüş olmadan vazgeçmeyecek iyi eğitimli kanun kaçakları."
+    },
+    {
+      "id": "b4af7faa",
+      "bank_id": "90b0b600",
+      "text": "Bower Gölü kampındaki gezginler balverine'lerin saldırısına uğruyor. Durdurulmazlarsa gerçek bir salgın baş gösterebilir."
+    },
+    {
+      "id": "ba0865fe",
+      "bank_id": "90b0b600",
+      "text": "Bower Gölü'ndeki kamp yine haydutların saldırısına uğruyor. Oradaki köylüler savunmasız ve çoğu Thag'ın evlerine terör saçtığı o korkunç günleri hâlâ hatırlıyor."
+    },
+    {
+      "id": "c7670c34",
+      "bank_id": "90b0b600",
+      "text": "Görünüşe göre birisi Bower Gölü'ndeki çingenelerden birinin başına ödül koymuş. Yolkesenler şu anda kampa saldırıyor ve yollarına çıkan herkesi öldürecekler."
+    },
+    {
+      "id": "c77ed929",
+      "bank_id": "90b0b600",
+      "text": "Terk edilmiş Işık Tapınağı karanlık yaratıkların uğrak yeri haline geldi. Son zamanlarda etrafında Gölgeler görülmeye başlandı ve kolaylıkla bölgedeki çiftçilere saldırabilirler."
+    },
+    {
+      "id": "ca8b61ff",
+      "bank_id": "90b0b600",
+      "text": "Kule askerleri yine ortalığı birbirine katıyor, bu kez Bowerstone Eski Şehri'nde. Oradaki hiç kimse güvende değil."
+    },
+    {
+      "id": "cbdea410",
+      "bank_id": "90b0b600",
+      "text": "Bir arkeolog, Albion'un dört bir yanına saçılmış kadim eserleri bulmak için yardıma ihtiyaç duyuyor."
+    },
+    {
+      "id": "d4e483f3",
+      "bank_id": "90b0b600",
+      "text": "Oakfield ormanında birkaç balverine görüldü. Daha kalabalık bölgelere ulaşmadan onları öldürün."
+    },
+    {
+      "id": "d95558b2",
+      "bank_id": "90b0b600",
+      "text": "Haydutlar bir kez daha Bowerstone Mezarlığı kalesinin etrafında toplanıyor; şüphesiz sonraki baskınlarını planlıyor ve tükürme yarışları yapıyorlar."
+    },
+    {
+      "id": "df1f17a3",
+      "bank_id": "90b0b600",
+      "text": "Köylüler kaçırılıyor ve zorla ağır işlerde çalıştırılıyor. Birinin onları kurtarması gerek!"
+    },
+    {
+      "id": "df1f17b2",
+      "bank_id": "90b0b600",
+      "text": "Sivil Sürgün Dairesi yeni elemanlar arıyor."
+    },
+    {
+      "id": "e44461a9",
+      "bank_id": "90b0b600",
+      "text": "Görünüşe göre Kule muhafızları, Oakfield çiftçilerini Kule'de çalıştırmak üzere esir almak için yola çıkmış. Belki de planlarını bozmak Lucien'in bizzat kendisine darbe vuracaktır."
+    },
+    {
+      "id": "e4fe2ade",
+      "bank_id": "90b0b600",
+      "text": "Taze mahsullerin kokusuna kapılan hobbe'ler, Oakfield'deki değirmeni bir kez daha istila ediyor."
+    },
+    {
+      "id": "ef1f3169",
+      "bank_id": "90b0b600",
+      "text": "Muhafızlar Albion'un bütün kötülüklerini zapt etmekte güçlük çekiyor. Her türlü yardım memnuniyetle karşılanır."
+    },
+    {
+      "id": "ef4e9ba3",
+      "bank_id": "90b0b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "f04e9d16",
+      "bank_id": "90b0b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "f14e9e89",
+      "bank_id": "90b0b600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "f1e33b19",
+      "bank_id": "90b0b600",
+      "text": "Rookridge'deki tapınaktan gelen Gölge müritleri en sevdikleri yaratıklardan bazılarını çağırdı. Geniş dünyaya kaçmadan önce öldürülmeleri şart."
+    },
+    {
+      "id": "f3a9f068",
+      "bank_id": "90b0b600",
+      "text": "Oakfield'deki bir ev dev böcek istilasından muzdarip. Bunlar normal böceklerden daha azgın ve çiftçiler onları kendi başlarına yok etmeyi umamaz."
+    },
+    {
+      "id": "f3a9f069",
+      "bank_id": "90b0b600",
+      "text": "Oakfield'deki bir ev dev böcek istilasından muzdarip. Bunlar normal böceklerden daha azgın ve çiftçiler onları kendi başlarına yok etmeyi umamaz."
+    },
+    {
+      "id": "f3ae78db",
+      "bank_id": "90b0b600",
+      "text": "Haydutlar Bowerstone Pazarı'na sızdı! Rıhtımda gelen sevkiyatları ele geçirmeye çalışıyorlar ve onları durdurmak size kalmış."
+    },
+    {
+      "id": "f564000e",
+      "bank_id": "90b0b600",
+      "text": "Hobbe'ler Bowerstone Eski Şehri'nin bodrumlarında yine bela çıkarıyor. Küçük iblisler bu karanlık ve rutubetli ortamda kendilerini evlerinde gibi hissediyor."
+    },
+    {
+      "id": "f564000f",
+      "bank_id": "90b0b600",
+      "text": "Hobbe'ler Bowerstone Eski Şehri'nin bodrumlarına girmenin bir yolunu yine buldu. Bu küçük mahlukların sonuncusunu da öldürmeniz gerekiyor."
+    },
+    {
+      "id": "f6cc2b78",
+      "bank_id": "90b0b600",
+      "text": "Bowerstone Mezarlığı'nda bir sonraki vurgunlarını planlayan bir grup yolkesen görüldü. Açık yollarda gözden kaybolmadan önce durdurulmaları gerekiyor."
+    }
+  ]
+}

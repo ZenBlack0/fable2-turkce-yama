@@ -1,0 +1,516 @@
+{
+  "bank_id": "c0beb600",
+  "total_strings": 102,
+  "strings": [
+    {
+      "id": "00e597ce",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Meyhanesi şu anda tedarik sorunları nedeniyle küçük bir kıtlık yaşıyor. Bir içki tüccarı bundan faydalanabilseydi keşke..."
+    },
+    {
+      "id": "0260fc7e",
+      "bank_id": "c0beb600",
+      "text": "Handa Büyük Kıtlık"
+    },
+    {
+      "id": "07398753",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Eczacısı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Aradığınız iksiri kelepir fiyata bulabilirsiniz."
+    },
+    {
+      "id": "098177bc",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kuyumcusu şu anda bir sendika anlaşmazlığı nedeniyle kıtlık çekiyor. Mücevher için fahiş fiyatlar ödersiniz ama satarken onlar da size bolca öder."
+    },
+    {
+      "id": "09a2672d",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Dövme Sanatçısı şu anda tedarik sorunları nedeniyle büyük bir kıtlık yaşıyor. Fiyatlar arttı ancak sunabileceğiniz eşyalar için yüklü miktarda ödeme yapacaklar."
+    },
+    {
+      "id": "0bebc2f1",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Demircisi, baltayla yaşanan bir kazanın çoğu yerlinin silah almasını engellemesi üzerine küçük bir indirim yapıyor. Şanslısınız ki siz öyle ürkek değilsiniz."
+    },
+    {
+      "id": "0cc9f846",
+      "bank_id": "c0beb600",
+      "text": "İçki Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "0cdd0865",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Eczacısı, bir grup çocuğun saçma tabancasıyla tüm iksir şişelerini kırmasının ardından büyük bir kıtlık yaşıyor. Onları yenilemek için iyi para ödeyecekler."
+    },
+    {
+      "id": "0d21c5b7",
+      "bank_id": "c0beb600",
+      "text": "Mobilyacı Büyük Kıtlığı"
+    },
+    {
+      "id": "0da23838",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kitapçısı, bazı ciltlerindeki tüm kelimelerin açıklanamaz bir şekilde düşmesinin ardından kıtlık yaşıyor. Onlara ikinci el bir hizmet sunmak ister misiniz?"
+    },
+    {
+      "id": "11d23e43",
+      "bank_id": "c0beb600",
+      "text": "Demirci Büyük İndirimi"
+    },
+    {
+      "id": "1307d671",
+      "bank_id": "c0beb600",
+      "text": "Eczacı Büyük İndirimi"
+    },
+    {
+      "id": "1afb5190",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kuyumcusu önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Ne bulacağınızı asla bilemezsiniz (yine de muhtemelen mücevherle ilgili olacaktır)."
+    },
+    {
+      "id": "1cb56129",
+      "bank_id": "c0beb600",
+      "text": "Demirci Büyük Kıtlığı"
+    },
+    {
+      "id": "1d9335ba",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kitapçısı, yerel halk arasında okuryazarlığın son zamanlarda şaşırtıcı şekilde artması nedeniyle küçük bir kıtlık yaşıyor."
+    },
+    {
+      "id": "1ee9b6ba",
+      "bank_id": "c0beb600",
+      "text": "Handa İndirim"
+    },
+    {
+      "id": "20cf2b75",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Mobilyacısı ahşap tedarik sorunları nedeniyle şu anda küçük bir kıtlık yaşıyor."
+    },
+    {
+      "id": "28f056b6",
+      "bank_id": "c0beb600",
+      "text": "Kitapçı Devasa İndirimi"
+    },
+    {
+      "id": "2c568cea",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone İçki Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Kafayı çekmek için harika bir zaman."
+    },
+    {
+      "id": "2f606b96",
+      "bank_id": "c0beb600",
+      "text": "Kuyumcu Büyük Kıtlığı"
+    },
+    {
+      "id": "339572f9",
+      "bank_id": "c0beb600",
+      "text": "Dövmecide Devasa İndirim"
+    },
+    {
+      "id": "3566f316",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kuyumcusu, madenci grevi nedeniyle şu anda küçük bir kıtlık yaşıyor. Mücevher satmak için harika, almak içinse berbat bir zaman."
+    },
+    {
+      "id": "3acba6dd",
+      "bank_id": "c0beb600",
+      "text": "Mobilyacı Devasa İndirimi"
+    },
+    {
+      "id": "3c379b62",
+      "bank_id": "c0beb600",
+      "text": "Genel Mağaza Büyük Kıtlığı"
+    },
+    {
+      "id": "3f8e41fe",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kitapçısı, farelerin stoklarının çoğunu kemirmesinin ardından büyük bir kıtlık çekiyor. Cebinizde seyyar bir kütüphane varsa, güzel bir miktar altın kazanabilirsiniz."
+    },
+    {
+      "id": "428f1399",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Mobilyacısı kuduz termit istilası nedeniyle büyük bir kıtlık yaşıyor. Elden çıkarmak istediğiniz masa ve sandalye varsa, iyi bir fiyat alırsınız."
+    },
+    {
+      "id": "465fbe80",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Meyhanesi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Her saat mutlu saat!"
+    },
+    {
+      "id": "4685d682",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Meyhanesi, bir grup turist barbar sürüsünün birkaç kadeh içmek için uğramasının ardından büyük bir kıtlık çekiyor. Yeni erzaklara ihtiyaçları var."
+    },
+    {
+      "id": "499d33a6",
+      "bank_id": "c0beb600",
+      "text": "Genel Mağaza İndirimi"
+    },
+    {
+      "id": "4bae4ef8",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kuyumcusu önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. O özel kişiye özel bir şeyler alın."
+    },
+    {
+      "id": "4d657191",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Eczacısı, tarif kitabını kaybettikten sonra kıtlık çekiyor. Girişimci bir iksir tüccarı böylesi bir durumdan faydalanabilir."
+    },
+    {
+      "id": "4fb157e1",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Demircisi önümüzdeki birkaç gün boyunca indirimde. Belki yeni silahlara ihtiyacınız vardır?"
+    },
+    {
+      "id": "513d8d00",
+      "bank_id": "c0beb600",
+      "text": "Genel Mağaza Büyük İndirimi"
+    },
+    {
+      "id": "524f6810",
+      "bank_id": "c0beb600",
+      "text": "Handa Devasa Kıtlık"
+    },
+    {
+      "id": "58da3160",
+      "bank_id": "c0beb600",
+      "text": "Genel Mağaza Kıtlığı"
+    },
+    {
+      "id": "5fa41dc4",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Genel Mağazası önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. Her şey satılmalı! Ya da en azından birçok şey."
+    },
+    {
+      "id": "62138af9",
+      "bank_id": "c0beb600",
+      "text": "Dövmecide Büyük İndirim"
+    },
+    {
+      "id": "62e31fd8",
+      "bank_id": "c0beb600",
+      "text": "Kuyumcu Dev Kıtlığı"
+    },
+    {
+      "id": "63ee2c9e",
+      "bank_id": "c0beb600",
+      "text": "Genel Mağaza Devasa İndirimi"
+    },
+    {
+      "id": "65348c28",
+      "bank_id": "c0beb600",
+      "text": "Kitapçı Büyük İndirimi"
+    },
+    {
+      "id": "6552a5fe",
+      "bank_id": "c0beb600",
+      "text": "Kitapçı İndirimi"
+    },
+    {
+      "id": "6a2f357a",
+      "bank_id": "c0beb600",
+      "text": "Kitapçı Büyük Kıtlığı"
+    },
+    {
+      "id": "6ab34a47",
+      "bank_id": "c0beb600",
+      "text": "Terzi Kıtlığı"
+    },
+    {
+      "id": "7012cc43",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Demircisi, demirci çekiçlerini kırdıktan sonra kıtlık çekiyor. Çekiç tamir edilmeden önce onlara silah satmak isteyebilirsiniz."
+    },
+    {
+      "id": "71ebfaeb",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Dövme Sanatçısı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Daha ucuz ama umarız hâlâ temiz iğne kullanıyorlardır."
+    },
+    {
+      "id": "7787107c",
+      "bank_id": "c0beb600",
+      "text": "Kuyumcu Kıtlığı"
+    },
+    {
+      "id": "7bbbadd1",
+      "bank_id": "c0beb600",
+      "text": "Dövmecide İndirim"
+    },
+    {
+      "id": "80921f24",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Meyhanesi, bir grup haydutun orada parti vermesinin ardından kıtlık çekiyor. Bir içki tüccarı bundan faydalanabilseydi keşke..."
+    },
+    {
+      "id": "844f615c",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kitapçısı önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. Ancak yerlilerin okuyamayacak kadar aptal olması sizin de öyle olmanız gerektiği anlamına gelmez."
+    },
+    {
+      "id": "84bd4341",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Eczacısı tedarik sorunları nedeniyle şu anda küçük bir kıtlık yaşıyor. İksir satmak için iyi bir zaman olabilir."
+    },
+    {
+      "id": "85152bf7",
+      "bank_id": "c0beb600",
+      "text": "Dövmecide Devasa Kıtlık"
+    },
+    {
+      "id": "8827a1cc",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone İçki Tezgâhı önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. İçki sever misiniz?"
+    },
+    {
+      "id": "8937598b",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Eczacısı önümüzdeki birkaç gün boyunca indirimde. İksir piyasası durgunluktan geçiyor."
+    },
+    {
+      "id": "8b623b6f",
+      "bank_id": "c0beb600",
+      "text": "Terzi Büyük Kıtlığı"
+    },
+    {
+      "id": "8d750e96",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Meyhanesi önümüzdeki birkaç gün boyunca indirimde. Sanki Bloodstone'lular yeterince sarhoş olmuyormuş gibi."
+    },
+    {
+      "id": "9181c496",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Genel Mağazası genel sorunlar nedeniyle şu anda büyük bir kıtlık yaşıyor. Mallar pahalı ama eşyalarınız için iyi para ödeyecekler. Genel olarak."
+    },
+    {
+      "id": "91b094ed",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Mobilyacısı, turta fabrikasından bir grup turistin tüm eşyaları denemek için uğramasının ardından kıtlık çekiyor. Satacak yedek mobilyası olan herkes burada gerçek bir kâr elde edebilir."
+    },
+    {
+      "id": "929eb5d9",
+      "bank_id": "c0beb600",
+      "text": "Eczacı İndirimi"
+    },
+    {
+      "id": "9417a4fb",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Eczacısı önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. Fırsatınız varken iksir stoklayın!"
+    },
+    {
+      "id": "94b69a12",
+      "bank_id": "c0beb600",
+      "text": "Kuyumcu İndirimi"
+    },
+    {
+      "id": "99529d9b",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Demircisi, demir fiyatlarının artmasının ardından küçük bir kıtlık yaşıyor. Kolay altın kazanma şansınız."
+    },
+    {
+      "id": "9e973f49",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Dövme Sanatçısı tedarik sorunları nedeniyle şu anda küçük bir kıtlık yaşıyor. Fiyatlar arttı ancak sunabileceğiniz eşyalar için ekstra ödeme yapacaklar."
+    },
+    {
+      "id": "a01c67a2",
+      "bank_id": "c0beb600",
+      "text": "Handa Devasa İndirim"
+    },
+    {
+      "id": "a24d3c0b",
+      "bank_id": "c0beb600",
+      "text": "Dövmecide Kıtlık"
+    },
+    {
+      "id": "a572ff92",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Genel Mağazası önümüzdeki birkaç gün boyunca indirimde. Ne tür bir kelepir bulacağınızı asla bilemezsiniz."
+    },
+    {
+      "id": "a6e7ee63",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Demircisi, son zamanlarda artan balverine görülme vakalarının herkesi silah almaya itmesinin ardından büyük bir kıtlık yaşıyor. Belki nakde çevirebileceğiniz yedek silahlarınız vardır?"
+    },
+    {
+      "id": "a6f30ff3",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Dövme Sanatçısı önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. Bedeninizi çok ama çok düşük bir fiyata yaşayan bir goblene dönüştürün."
+    },
+    {
+      "id": "a83cde3a",
+      "bank_id": "c0beb600",
+      "text": "Kuyumcu Devasa İndirimi"
+    },
+    {
+      "id": "a8be7e7b",
+      "bank_id": "c0beb600",
+      "text": "Mobilyacı Dev Kıtlığı"
+    },
+    {
+      "id": "aa45d61e",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kuyumcusu önümüzdeki birkaç gün boyunca indirimde. Hayatınızdaki o özel erkeğe veya kadına bir şeyler alın, tabii eşinize de!"
+    },
+    {
+      "id": "aa953af2",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Genel Mağazası küçük sorunlar nedeniyle şu anda küçük bir kıtlık yaşıyor. Satmak için iyi, almak için pek uygun olmayan bir zaman."
+    },
+    {
+      "id": "abaef417",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Mobilyacısı önümüzdeki birkaç gün boyunca indirimde. Oturmak hiç bu kadar ucuz olmamıştı."
+    },
+    {
+      "id": "adfbd3e4",
+      "bank_id": "c0beb600",
+      "text": "Kuyumcu Büyük İndirimi"
+    },
+    {
+      "id": "b0c488d3",
+      "bank_id": "c0beb600",
+      "text": "Eczacı Büyük Kıtlığı"
+    },
+    {
+      "id": "b51f1705",
+      "bank_id": "c0beb600",
+      "text": "Mobilyacı İndirimi"
+    },
+    {
+      "id": "b9c17cda",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kitapçısı önümüzdeki birkaç gün boyunca indirimde. Bilgi az önce ucuzladı!"
+    },
+    {
+      "id": "bdd6d3bf",
+      "bank_id": "c0beb600",
+      "text": "Mobilyacı Kıtlığı"
+    },
+    {
+      "id": "c061f341",
+      "bank_id": "c0beb600",
+      "text": "Eczacı Devasa İndirimi"
+    },
+    {
+      "id": "c25b2778",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Meyhanesi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Bütçenizi sarsmadan çakırkeyif olun."
+    },
+    {
+      "id": "c3228361",
+      "bank_id": "c0beb600",
+      "text": "Demirci Kıtlığı"
+    },
+    {
+      "id": "c34375c4",
+      "bank_id": "c0beb600",
+      "text": "Kitapçı Dev Kıtlığı"
+    },
+    {
+      "id": "c4fadd2c",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Genel Mağazası önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Bulunacak pek çok küçük kelepir var!"
+    },
+    {
+      "id": "c81c2723",
+      "bank_id": "c0beb600",
+      "text": "Eczacı Kıtlığı"
+    },
+    {
+      "id": "c904b288",
+      "bank_id": "c0beb600",
+      "text": "Kitapçı Kıtlığı"
+    },
+    {
+      "id": "cb22178f",
+      "bank_id": "c0beb600",
+      "text": "Eczacı Dev Kıtlığı"
+    },
+    {
+      "id": "ce04b19d",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Terzisi şu anda küçük bir kıtlık yaşıyor. Kasaba halkı her zamankinden bile daha pejmürde giyinmiş durumda."
+    },
+    {
+      "id": "cf952bfc",
+      "bank_id": "c0beb600",
+      "text": "Handa Büyük İndirim"
+    },
+    {
+      "id": "d0e8c247",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Mobilyacısı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Tüm ürünlerde indirim var."
+    },
+    {
+      "id": "d389ba49",
+      "bank_id": "c0beb600",
+      "text": "Demirci Dev Kıtlığı"
+    },
+    {
+      "id": "d3a1e1fc",
+      "bank_id": "c0beb600",
+      "text": "Genel Mağaza Dev Kıtlığı"
+    },
+    {
+      "id": "d50168ff",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Mobilyacısı önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. Yeniden dekore etmeyi planlıyorsanız, tam zamanı!"
+    },
+    {
+      "id": "d57127f3",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Dövme Sanatçısı önümüzdeki birkaç gün boyunca indirimde. Göğsünüzü kapatacak bir şeye mi ihtiyacınız var? Hemen yaptırın!"
+    },
+    {
+      "id": "d634a0ea",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kuyumcusu mücevher kıtlığı nedeniyle şu anda büyük bir kıtlık yaşıyor. Şimdi satmak için harika bir zaman ama alıyorsanız size pahalıya patlar."
+    },
+    {
+      "id": "db26d6d5",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Demircisi önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. Kişisel cephaneliğinizi yenilemek için daha iyi bir zaman olabilir mi?"
+    },
+    {
+      "id": "e0021c40",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Genel Mağazası, aşırı hoşgörülü \"satın almadan önce dene\" politikası nedeniyle kıtlık çekiyor. Eşyalar pahalı ama satmak için iyi bir zaman."
+    },
+    {
+      "id": "e383c8a4",
+      "bank_id": "c0beb600",
+      "text": "Bowerstone Kitapçısı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Bir kitap almak için daha iyi bir bahane ne olabilir?"
+    },
+    {
+      "id": "e4355089",
+      "bank_id": "c0beb600",
+      "text": "Bloodstone Dövme Sanatçısı tedarik sorunları nedeniyle şu anda bir kıtlık yaşıyor. Fiyatlar arttı ancak sunabileceğiniz eşyalar için iyi para ödeyecekler."
+    },
+    {
+      "id": "e49b6234",
+      "bank_id": "c0beb600",
+      "text": "Handa Kıtlık"
+    },
+    {
+      "id": "ea65b74b",
+      "bank_id": "c0beb600",
+      "text": "Dövmecide Büyük Kıtlık"
+    },
+    {
+      "id": "ef4a0fb3",
+      "bank_id": "c0beb600",
+      "text": "Demirci İndirimi"
+    },
+    {
+      "id": "efe44df5",
+      "bank_id": "c0beb600",
+      "text": "Mobilyacı Büyük İndirimi"
+    },
+    {
+      "id": "f96aea1f",
+      "bank_id": "c0beb600",
+      "text": "Demirci Devasa İndirimi"
+    }
+  ]
+}

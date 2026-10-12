@@ -1,0 +1,616 @@
+{
+  "bank_id": "40b13602",
+  "total_strings": 122,
+  "strings": [
+    {
+      "id": "06017c80",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Canın sıkılmış gibi görünüyordun."
+    },
+    {
+      "id": "06017c81",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Epey keyfin kaçmış gibi görünüyordun."
+    },
+    {
+      "id": "06017c82",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Canın sıkılmış gibi görünüyordun."
+    },
+    {
+      "id": "06017c83",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Epey keyfin kaçmış gibi görünüyordun."
+    },
+    {
+      "id": "06017c84",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Epey keyfin kaçmış gibi görünüyordun."
+    },
+    {
+      "id": "06017c85",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Epey keyfin kaçmış gibi görünüyordun."
+    },
+    {
+      "id": "06017c86",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Canın sıkılmış gibi görünüyordun."
+    },
+    {
+      "id": "073ed310",
+      "bank_id": "40b13602",
+      "text": "Paranı o kaçık keşişlere niye çarçur ediyorsun ki?"
+    },
+    {
+      "id": "073ed316",
+      "bank_id": "40b13602",
+      "text": "Bağışlarının bir sürü insana faydası dokunacağına eminim."
+    },
+    {
+      "id": "073ed317",
+      "bank_id": "40b13602",
+      "text": "Işık Tapınağı'na yaptığın bağışlar insanları ne kadar önemsediğini gerçekten gösteriyor."
+    },
+    {
+      "id": "0c3edb35",
+      "bank_id": "40b13602",
+      "text": "Tapınağa bunca bağış yaptığına göre bir nevi azizsin sen."
+    },
+    {
+      "id": "0c3edb36",
+      "bank_id": "40b13602",
+      "text": "Işık Tapınağı'na ancak kalbi böylesine saf biri bu kadar bağış yapabilirdi."
+    },
+    {
+      "id": "0e18c600",
+      "bank_id": "40b13602",
+      "text": "Lütfen, çok korkuyorum. Geri dönelim."
+    },
+    {
+      "id": "0e18c601",
+      "bank_id": "40b13602",
+      "text": "B-beni nereye götürüyorsun? Bu iş hiç hoşuma gitmedi valla!"
+    },
+    {
+      "id": "0e18c602",
+      "bank_id": "40b13602",
+      "text": "Artık eve dönmeyi çok isterdim doğrusu."
+    },
+    {
+      "id": "0e18c607",
+      "bank_id": "40b13602",
+      "text": "B-beni nereye götürüyorsun? Bu iş hiç hoşuma gitmedi valla!"
+    },
+    {
+      "id": "11aa1c21",
+      "bank_id": "40b13602",
+      "text": "Büyükannemin mezarını ziyaret edemedim bir türlü. Her yer kof adamlarla kaynıyor."
+    },
+    {
+      "id": "11aa1c22",
+      "bank_id": "40b13602",
+      "text": "Bowerstone Mezarlığı'nı duydun mu hiç? Ölüler yine mezarlarından kalkıyormuş!"
+    },
+    {
+      "id": "11aa1c23",
+      "bank_id": "40b13602",
+      "text": "Bowerstone Mezarlığı yürüyen ölülerin istilasına uğramış durumda!"
+    },
+    {
+      "id": "1718d468",
+      "bank_id": "40b13602",
+      "text": "Yalvarırım sana, daha ileri gitmeyelim. Burası dehşet verici bir yer."
+    },
+    {
+      "id": "1718d469",
+      "bank_id": "40b13602",
+      "text": "Geri dönemez miyiz lütfen? İ-insanlar ölüyor bu yerde!"
+    },
+    {
+      "id": "1718d46a",
+      "bank_id": "40b13602",
+      "text": "Bu işten zerre hoşlanmadım. Geri dönelim ne olur."
+    },
+    {
+      "id": "1718d46b",
+      "bank_id": "40b13602",
+      "text": "Lütfen, oraya aşağıya inmek istemiyorum!"
+    },
+    {
+      "id": "1718d46c",
+      "bank_id": "40b13602",
+      "text": "Gölgeler Tapınağı'nda yine insan kurban edildiği doğru mu sence?"
+    },
+    {
+      "id": "1718d46d",
+      "bank_id": "40b13602",
+      "text": "Daha fazla devam etmek istemiyorum. Lütfen. Geri dönelim."
+    },
+    {
+      "id": "1718d46f",
+      "bank_id": "40b13602",
+      "text": "Bu hiç ama hiç hoşuma gitmedi. Kasabaya geri dönemez miyiz?"
+    },
+    {
+      "id": "1caa2d50",
+      "bank_id": "40b13602",
+      "text": "Bowerstone Mezarlığı'nın yanına bile yaklaşmazdım ben olsam. O kof adamlar her tarafı ele geçirmiş."
+    },
+    {
+      "id": "1caa2d52",
+      "bank_id": "40b13602",
+      "text": "Mezarlık zombilerle dolup taşarken kız kardeşimin mezarına nasıl çiçek bırakabilirim ki?"
+    },
+    {
+      "id": "1caa2d53",
+      "bank_id": "40b13602",
+      "text": "Bowerstone'da birinin kazara bir sürü hortlak çağırdığını duydum."
+    },
+    {
+      "id": "2758df88",
+      "bank_id": "40b13602",
+      "text": "Bağışlarınız tapınağın yepyeni mertebelere ulaşmasına vesile olacak."
+    },
+    {
+      "id": "293285a1",
+      "bank_id": "40b13602",
+      "text": "Rookridge Hanı'ndaki o kokunun bir trolden geldiği kimin aklına gelirdi ki?"
+    },
+    {
+      "id": "293285a2",
+      "bank_id": "40b13602",
+      "text": "Rookridge Hanı'ndaki o kokunun bir trolden geldiği kimin aklına gelirdi ki?"
+    },
+    {
+      "id": "293285a3",
+      "bank_id": "40b13602",
+      "text": "Rookridge'deki şu hanın işlerinin yeniden iyiye gittiğini duydum."
+    },
+    {
+      "id": "3079b572",
+      "bank_id": "40b13602",
+      "text": "Şu ozanların söyleyecek şarkı bulamamasına şaşmamalı. Hayatı hiç tatmamışlar ki."
+    },
+    {
+      "id": "3079b573",
+      "bank_id": "40b13602",
+      "text": "Şu ozanın ne hakkında şarkı söylediğine dair en ufak bir fikri bile yok."
+    },
+    {
+      "id": "3079b574",
+      "bank_id": "40b13602",
+      "text": "Şu ozanların sağlam bir dayak yemesi lazım. O zaman söyleyecek bir şeyleri olur işte."
+    },
+    {
+      "id": "343296d0",
+      "bank_id": "40b13602",
+      "text": "Demek bir trol hakladın ve Rookridge'deki hanın kokusu dindi ha? Ne tuhaf bir dünya, değil mi?"
+    },
+    {
+      "id": "343296d2",
+      "bank_id": "40b13602",
+      "text": "Rookridge'deki hanın arkasında bir trol mü varmış? Pek acayip."
+    },
+    {
+      "id": "343296d3",
+      "bank_id": "40b13602",
+      "text": "Rookridge Hanı'ndaki o kokunun bir trolden geldiği kimin aklına gelirdi ki?"
+    },
+    {
+      "id": "3b79c6a4",
+      "bank_id": "40b13602",
+      "text": "Olayların hiçbir yere bağlanmadığı bir ozan şarkısı daha duyarsam birini geberteceğim."
+    },
+    {
+      "id": "5b90f701",
+      "bank_id": "40b13602",
+      "text": "Hey, ozanın şarkılarında anlattığı kişi sensin! Sayende performansı hakikaten gelişti."
+    },
+    {
+      "id": "5b90f702",
+      "bank_id": "40b13602",
+      "text": "Şu ozanı son zamanlarda dinledin mi hiç? Hâlâ şarkı söyleyemiyor ama harika sözleri var."
+    },
+    {
+      "id": "5b90f706",
+      "bank_id": "40b13602",
+      "text": "Ozanın besteleri fena sayılmaz hani. Şarkılarda övdüğü Kahraman sen değil misin?"
+    },
+    {
+      "id": "6491056a",
+      "bank_id": "40b13602",
+      "text": "Kabul etmek lazım, bu ozanlar kahramanlık türküleri yakmayı hakikaten iyi biliyor."
+    },
+    {
+      "id": "6491056c",
+      "bank_id": "40b13602",
+      "text": "Ozanlar Kardeşliği'nin en büyük hayranı benim! Ve onların şarkılarında övdüğü kişi de sensin!"
+    },
+    {
+      "id": "6491056d",
+      "bank_id": "40b13602",
+      "text": "Şu ozanın bugünlerde harika şarkıları var doğrusu."
+    },
+    {
+      "id": "6743cae9",
+      "bank_id": "40b13602",
+      "text": "Neyin var senin, Çile rekorunu kıramayacak kadar yavaş mısın yoksa?"
+    },
+    {
+      "id": "6743caeb",
+      "bank_id": "40b13602",
+      "text": "Kafana koyarsan Çile'de yeni bir rekor kırabileceğine adım gibi eminim."
+    },
+    {
+      "id": "6743caee",
+      "bank_id": "40b13602",
+      "text": "Hey, seni Çile'de dövüşürken gördüm. Bir dahaki sefere rekoru kırman dileğiyle artık."
+    },
+    {
+      "id": "6d11ba14",
+      "bank_id": "40b13602",
+      "text": "Rookridge'deki hana gittin mi hiç? Koku o kadar berbat ki şarabı sirkeye çevirir valla."
+    },
+    {
+      "id": "6d11ba17",
+      "bank_id": "40b13602",
+      "text": "Rookridge'deki hana gittin mi hiç? Koku o kadar berbat ki şarabı sirkeye çevirir valla."
+    },
+    {
+      "id": "7211c235",
+      "bank_id": "40b13602",
+      "text": "Rookridge'deki handan uzak dururdum ben olsam. Dehşet bir koku var ve kimse ne olduğunu bilmiyor."
+    },
+    {
+      "id": "7211c236",
+      "bank_id": "40b13602",
+      "text": "Rookridge'deki hana gittin mi hiç? Koku o kadar berbat ki şarabı sirkeye çevirir valla."
+    },
+    {
+      "id": "7211c237",
+      "bank_id": "40b13602",
+      "text": "Geçen hafta Rookridge'de bir iki kadeh içmeye gittim ama meyhane öyle pis kokuyordu ki çıkmak zorunda kaldık."
+    },
+    {
+      "id": "7243dc19",
+      "bank_id": "40b13602",
+      "text": "Çile rekorunu kırmak istiyorsan mahlukatı daha hızlı gebertmen lazım."
+    },
+    {
+      "id": "7243dc1b",
+      "bank_id": "40b13602",
+      "text": "Çile'deki dövüşünden son derece etkilendim. Yeni bir rekor kıramamış olman ne büyük şanssızlık."
+    },
+    {
+      "id": "7243dc1c",
+      "bank_id": "40b13602",
+      "text": "Çile'de epey iyi dövüştün valla. Rekoru kırmak için birazcık şans lazımdı sadece."
+    },
+    {
+      "id": "7ae9fb11",
+      "bank_id": "40b13602",
+      "text": "Bize böylesine cömert bir velinimet bahşettiği için Işığa şükrediyoruz. En büyük ödülü hak eden bir velinimet."
+    },
+    {
+      "id": "7d589395",
+      "bank_id": "40b13602",
+      "text": "Büyük ya da küçük bütün bağışlarınız Işığa şan ve şeref getirir."
+    },
+    {
+      "id": "7d589396",
+      "bank_id": "40b13602",
+      "text": "En ufak bir bağış bile bu diyarın insanlarına derman olur."
+    },
+    {
+      "id": "7d589397",
+      "bank_id": "40b13602",
+      "text": "Bağışınızın ne kadar küçük olduğu mühim değil, kıymeti yine de bilinir. Teşekkür ederiz."
+    },
+    {
+      "id": "98524aac",
+      "bank_id": "40b13602",
+      "text": "Hakkında pis küçük bir sır duydum... Parayı basıp ağızlarını iyi kapattın değil mi?"
+    },
+    {
+      "id": "998a2cd3",
+      "bank_id": "40b13602",
+      "text": "Yakında yeni bir Çile müsabakası başlamıyor mu?"
+    },
+    {
+      "id": "998a2cd4",
+      "bank_id": "40b13602",
+      "text": "Mevcut Çile rekorunu biri kırabilecek mi acaba çok merak ediyorum..."
+    },
+    {
+      "id": "998a2cd6",
+      "bank_id": "40b13602",
+      "text": "Çile'ye mi gidiyorsun? Sağlam bir gösteri olacak herhalde."
+    },
+    {
+      "id": "9c5de588",
+      "bank_id": "40b13602",
+      "text": "İki eşlilik ha? Bunu hak etmiştin zaten."
+    },
+    {
+      "id": "9c5de58b",
+      "bank_id": "40b13602",
+      "text": "Ne olacağını sanıyordun ki? Buralarda iki eşliliği sır olarak saklayamazsın!"
+    },
+    {
+      "id": "9c5de58d",
+      "bank_id": "40b13602",
+      "text": "Seni aptal. Dikkatli olmayacaksan birden fazla kişiyle evlenmeye kalkışmayacaksın."
+    },
+    {
+      "id": "a08a37d0",
+      "bank_id": "40b13602",
+      "text": "Koca servetime bahse girerim ki mevcut Çile rekoru fazla uzun süre ayakta kalamaz."
+    },
+    {
+      "id": "a08a37d1",
+      "bank_id": "40b13602",
+      "text": "Ah, umarım sıradaki Çile yarışmacısı yeni bir rekor kırabilir."
+    },
+    {
+      "id": "a08a37d3",
+      "bank_id": "40b13602",
+      "text": "Çile'yi daha kısa sürede tamamlayabilecek biri mutlaka vardır. Sen ne dersin?"
+    },
+    {
+      "id": "a08a37d6",
+      "bank_id": "40b13602",
+      "text": "Çile rekorunu kırmaya kimse yaklaşamadı bile."
+    },
+    {
+      "id": "a15deda9",
+      "bank_id": "40b13602",
+      "text": "Seni yaramaz çok eşli seni."
+    },
+    {
+      "id": "a15dedaa",
+      "bank_id": "40b13602",
+      "text": "İki eşlilik mi?? Bunu nasıl yaparsın?!"
+    },
+    {
+      "id": "a15dedab",
+      "bank_id": "40b13602",
+      "text": "Demek bir kişiyle evlenmek sana yetmedi ha? Midemi bulandırıyorsun."
+    },
+    {
+      "id": "a15dedad",
+      "bank_id": "40b13602",
+      "text": "Siz maceracılar hepiniz aynısınız. İstediğinizi alın, canınızın çektiğiyle evlenin."
+    },
+    {
+      "id": "a92e0151",
+      "bank_id": "40b13602",
+      "text": "Bütün bu bağışların karşısında keşişlerin ağzı kulaklarındadır herhalde."
+    },
+    {
+      "id": "b7b03030",
+      "bank_id": "40b13602",
+      "text": "Birinin şu deli Tommy'nin icabına bakma vakti gelmişti zaten."
+    },
+    {
+      "id": "b7b03031",
+      "bank_id": "40b13602",
+      "text": "Evet be! Hobbe'ler geberdi sonunda!"
+    },
+    {
+      "id": "b7b03033",
+      "bank_id": "40b13602",
+      "text": "Helal olsun!"
+    },
+    {
+      "id": "bac2e6c9",
+      "bank_id": "40b13602",
+      "text": "Bağışlarınız sayesinde eskisinden çok daha fazla insanın üzerine Işık saçabiliyoruz."
+    },
+    {
+      "id": "bac2e6ca",
+      "bank_id": "40b13602",
+      "text": "Cömert bağışlarınız tüm Albion için çok daha aydınlık bir şafak müjdeliyor."
+    },
+    {
+      "id": "bac2e6cb",
+      "bank_id": "40b13602",
+      "text": "Işık bu muhteşem bağışlarınız için size şükranlarını sunar."
+    },
+    {
+      "id": "beb03b34",
+      "bank_id": "40b13602",
+      "text": "Sayenizde Oakfield artık biraz daha emniyette!"
+    },
+    {
+      "id": "beb03b35",
+      "bank_id": "40b13602",
+      "text": "Yaşasın! Tommy belasından kurtulduk sonunda!"
+    },
+    {
+      "id": "beb03b36",
+      "bank_id": "40b13602",
+      "text": "Çamaşır ipinden iç çamaşırlarımı aşırmıştı biliyor musun."
+    },
+    {
+      "id": "c33520b0",
+      "bank_id": "40b13602",
+      "text": "İzlerini örteceksen bunu daha iyi yapmalıydın. Artık sırrın açığa çıktı."
+    },
+    {
+      "id": "c33520b4",
+      "bank_id": "40b13602",
+      "text": "Birini öldürmenin yaptıklarını örteceğini mi sandın sahiden?"
+    },
+    {
+      "id": "c33520b6",
+      "bank_id": "40b13602",
+      "text": "Hem iki eşlilik *hem de* cinayet ha?"
+    },
+    {
+      "id": "c8352850",
+      "bank_id": "40b13602",
+      "text": "O şantajcıyı gebertmek bir işe yaramadı gördün mü? Ha!"
+    },
+    {
+      "id": "c8352855",
+      "bank_id": "40b13602",
+      "text": "Sadece iki eşli değil. Bir katil aynı zamanda!"
+    },
+    {
+      "id": "c8352857",
+      "bank_id": "40b13602",
+      "text": "Suçlarını daha çok suç işleyerek örtbas etmeye çalışmak da neyin nesi. Peh!"
+    },
+    {
+      "id": "de9c77b8",
+      "bank_id": "40b13602",
+      "text": "Çile rekorunu darmadağın ettin. Çok iyi iş çıkardın!"
+    },
+    {
+      "id": "de9c77bc",
+      "bank_id": "40b13602",
+      "text": "Daha önce hiç kimsenin böyle dövüştüğünü görmemiştim. Yeni Çile rekorunu sonuna kadar hak ettin."
+    },
+    {
+      "id": "de9c77bd",
+      "bank_id": "40b13602",
+      "text": "Buralardaki en iyi Çile dövüşçüsü olduğunu kanıtladın."
+    },
+    {
+      "id": "de9c77be",
+      "bank_id": "40b13602",
+      "text": "Çile'deki kahramanlıklarınla bizlere seyir zevki yaşattığın için teşekkürler. Rekorun uzun yıllar kırılamaz bence."
+    },
+    {
+      "id": "de9c77bf",
+      "bank_id": "40b13602",
+      "text": "Önceki Çile rekorunu kıracağını ta en başından biliyordum. Sen doğuştan bir yarışmacısın."
+    },
+    {
+      "id": "e1cbf52d",
+      "bank_id": "40b13602",
+      "text": "Nasıl oldu bilmiyorum ama kof adamlar mezarlığı terk etti sonunda."
+    },
+    {
+      "id": "e1cbf52e",
+      "bank_id": "40b13602",
+      "text": "Bowerstone Mezarlığı'ndaki bütün o hortlakları defeden sen miydin yoksa?"
+    },
+    {
+      "id": "e39c7f59",
+      "bank_id": "40b13602",
+      "text": "Daha önce hiç kimse Çile'yi senin kadar hızlı tamamlayamamıştı. İnanılmaz bir başarı."
+    },
+    {
+      "id": "e39c7f5c",
+      "bank_id": "40b13602",
+      "text": "Çile'de fena döktürdün valla. O rekorun kırılabileceğini hiç düşünmezdim."
+    },
+    {
+      "id": "e39c7f5e",
+      "bank_id": "40b13602",
+      "text": "Çile katliamlarında yepyeni bir sayfa açtın resmen."
+    },
+    {
+      "id": "e39c7f5f",
+      "bank_id": "40b13602",
+      "text": "Çile'deki olağanüstü performansını hayranlıkla seyrettim. Yeni rekorun sahibi olmayı sonuna kadar hak ediyorsun."
+    },
+    {
+      "id": "ea2c02c1",
+      "bank_id": "40b13602",
+      "text": "Tapınağa altın bağışladığını duydum. Bulabildikleri her yardıma ihtiyaçları var doğrusu."
+    },
+    {
+      "id": "ea2c02c3",
+      "bank_id": "40b13602",
+      "text": "Keşke benim de tapınağa bağışlayacak senin gibi biraz altınım olsaydı."
+    },
+    {
+      "id": "eccc065c",
+      "bank_id": "40b13602",
+      "text": "Mezarlıktaki bütün o hortlakları defettin! Artık büyükannemin mezarını ziyaret edebilirim."
+    },
+    {
+      "id": "eccc065e",
+      "bank_id": "40b13602",
+      "text": "Mezarlık yeniden emniyette!"
+    },
+    {
+      "id": "ef70b6ea",
+      "bank_id": "40b13602",
+      "text": "Şu ozan sonunda kendini toparlamaya başladı valla."
+    },
+    {
+      "id": "ef70b6ec",
+      "bank_id": "40b13602",
+      "text": "Ozanın türkü yakmaya değer bir şeyler bulmasının vakti gelmişti zaten."
+    },
+    {
+      "id": "ef70b6ed",
+      "bank_id": "40b13602",
+      "text": "O ozanlar son zamanlarda kesinlikle epey ilerleme kaydetti."
+    },
+    {
+      "id": "f52c1470",
+      "bank_id": "40b13602",
+      "text": "Işık Tapınağı'na verdiğin her bir altın parçası Oakfield'e derman oluyor."
+    },
+    {
+      "id": "f52c1472",
+      "bank_id": "40b13602",
+      "text": "Keşişlerin bağışlara her daim ihtiyacı var. Yardım etmen ne hoş."
+    },
+    {
+      "id": "f870c539",
+      "bank_id": "40b13602",
+      "text": "Ozanın son şarkılarını dinledin mi hiç? Giderek güzelleşiyor. En azından artık bir şeyler anlatıyor."
+    },
+    {
+      "id": "f870c53b",
+      "bank_id": "40b13602",
+      "text": "Ozan hâlâ şarkı söyleyemiyor gerçi ama en azından şarkıları daha ilgi çekici."
+    },
+    {
+      "id": "f870c53e",
+      "bank_id": "40b13602",
+      "text": "O ozan şarkıları eskisi kadar berbat kokmuyor artık."
+    },
+    {
+      "id": "ff017180",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Epey keyfin kaçmış gibi görünüyordun."
+    },
+    {
+      "id": "ff017181",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Epey keyfin kaçmış gibi görünüyordun."
+    },
+    {
+      "id": "ff017183",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Epey keyfin kaçmış gibi görünüyordun."
+    },
+    {
+      "id": "ff017184",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Epey keyfin kaçmış gibi görünüyordun."
+    },
+    {
+      "id": "ff017185",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Canın sıkılmış gibi görünüyordun."
+    },
+    {
+      "id": "ff017186",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Canın sıkılmış gibi görünüyordun."
+    },
+    {
+      "id": "ff017187",
+      "bank_id": "40b13602",
+      "text": "Sana gelen o mektup ne hakkındaydı? Canın sıkılmış gibi görünüyordun."
+    }
+  ]
+}

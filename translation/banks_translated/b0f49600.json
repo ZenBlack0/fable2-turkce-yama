@@ -1,0 +1,536 @@
+{
+  "bank_id": "b0f49600",
+  "total_strings": 106,
+  "strings": [
+    {
+      "id": "01cbd157",
+      "bank_id": "b0f49600",
+      "text": "Gösterişli bir hanımefendi olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu palto sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "03a65de5",
+      "bank_id": "b0f49600",
+      "text": "Kısacık bir şort giymeye cesaretiniz var mı?"
+    },
+    {
+      "id": "05373625",
+      "bank_id": "b0f49600",
+      "text": "Genellikle tüccarlar tarafından giyilir. Kendi etinin ticaretini yapan tüccarlar."
+    },
+    {
+      "id": "05897866",
+      "bank_id": "b0f49600",
+      "text": "İrade Kullanıcısı Kıyafeti"
+    },
+    {
+      "id": "09f0265b",
+      "bank_id": "b0f49600",
+      "text": "Hal'ın Çizmeleri"
+    },
+    {
+      "id": "0a883a05",
+      "bank_id": "b0f49600",
+      "text": "Kadın Alt Sınıf Kıyafeti"
+    },
+    {
+      "id": "0b431cf7",
+      "bank_id": "b0f49600",
+      "text": "Kendinizi güzel bir kadın gibi hissetmek ister misiniz? Ya da belki sadece o bacak yara izlerinizi kapatmak istersiniz? Bu çizmeler havalı olduğu kadar uzundur da."
+    },
+    {
+      "id": "0dfbbd45",
+      "bank_id": "b0f49600",
+      "text": "Korucu Kıyafeti"
+    },
+    {
+      "id": "177b51d8",
+      "bank_id": "b0f49600",
+      "text": "Yoksul Şapkası"
+    },
+    {
+      "id": "181630ec",
+      "bank_id": "b0f49600",
+      "text": "Gösterişli bir hanımefendi olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu bluz sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "1e661c31",
+      "bank_id": "b0f49600",
+      "text": "Korucu Pantolonu"
+    },
+    {
+      "id": "1f239e47",
+      "bank_id": "b0f49600",
+      "text": "Soylu Hanımefendi Çizmeleri"
+    },
+    {
+      "id": "218f9a85",
+      "bank_id": "b0f49600",
+      "text": "Gösterişli bir hanımefendi olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu kıyafet, başka hiçbir şeyde olmasa bile altın yarışında sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "23bff279",
+      "bank_id": "b0f49600",
+      "text": "(LCE içeriği)\nÇok zaman önce, Albion hâlâ Eski Krallık'ın egemenliği altındayken, uzaydaki bir yarık boyutlar arasında bir geçit açtı. Yarıktan içeriye yeşil bir zırh kuşanmış ve dikkat çekici bir kristal kılıç taşıyan muazzam güçte bir savaşçı adım attı. Gerçek adını hiçbir zaman açıklamasa da herkes onu Hal olarak bilirdi. İşte giydiği çizmeler bunlardı."
+    },
+    {
+      "id": "24099873",
+      "bank_id": "b0f49600",
+      "text": "Büyücü Kıyafeti"
+    },
+    {
+      "id": "24d98df6",
+      "bank_id": "b0f49600",
+      "text": "Aşığın Sorgucu"
+    },
+    {
+      "id": "2651e547",
+      "bank_id": "b0f49600",
+      "text": "Bu ucuz gecekondu sakini kıyafetiyle ayak takımına karışın."
+    },
+    {
+      "id": "2790bad2",
+      "bank_id": "b0f49600",
+      "text": "Soylu Beyefendi Paltosu"
+    },
+    {
+      "id": "2c3fd087",
+      "bank_id": "b0f49600",
+      "text": "Şimdilerde nadiren görülen Korucular ormanda evlerindedir; ağaçlarla güreşir, yabani otlara ve kayalara sokulurlar."
+    },
+    {
+      "id": "2d40ee79",
+      "bank_id": "b0f49600",
+      "text": "Göbeği Açık Ceket"
+    },
+    {
+      "id": "2f3ed4c6",
+      "bank_id": "b0f49600",
+      "text": "Erkek Alt Sınıf Kıyafeti"
+    },
+    {
+      "id": "39053cdd",
+      "bank_id": "b0f49600",
+      "text": "İrade kullanıcılarının hâlâ masallardaki büyücü tasvirine boyun eğdiği bir zamandan kalma. Sivri şapkaların modası İrade'nin ciddi uygulayıcıları arasında çoktan geçti."
+    },
+    {
+      "id": "3970c475",
+      "bank_id": "b0f49600",
+      "text": "Kâşif Paltosu"
+    },
+    {
+      "id": "40ab4ab1",
+      "bank_id": "b0f49600",
+      "text": "Bu büyücü cübbesi ve şapkası, doğru kişinin giymesi durumunda 3. Seviye Şehvet büyüsü yapmasını sağlar."
+    },
+    {
+      "id": "41593898",
+      "bank_id": "b0f49600",
+      "text": "Soylu Beyefendi Pantolonu"
+    },
+    {
+      "id": "43885435",
+      "bank_id": "b0f49600",
+      "text": "Soylu Hanımefendi Paltosu"
+    },
+    {
+      "id": "45338b97",
+      "bank_id": "b0f49600",
+      "text": "Soylu Beyefendi Gömleği"
+    },
+    {
+      "id": "4b0758ad",
+      "bank_id": "b0f49600",
+      "text": "(LCE içeriği)\nÇok zaman önce, Albion hâlâ Eski Krallık'ın egemenliği altındayken, uzaydaki bir yarık boyutlar arasında bir geçit açtı. Yarıktan içeriye yeşil bir zırh kuşanmış ve dikkat çekici bir kristal kılıç taşıyan muazzam güçte bir savaşçı adım attı. Gerçek adını hiçbir zaman açıklamasa da herkes onu Hal olarak bilirdi. İşte zırhlı pantolonu buydu."
+    },
+    {
+      "id": "4b6c1f2a",
+      "bank_id": "b0f49600",
+      "text": "Kum saati gibi bir vücut ve/veya kaburgalarında kalıcı hasar arayanlar için mükemmel bir giysi."
+    },
+    {
+      "id": "4c76ed0c",
+      "bank_id": "b0f49600",
+      "text": "Fahişe Kıyafeti"
+    },
+    {
+      "id": "4c8f84bd",
+      "bank_id": "b0f49600",
+      "text": "Yoksul Eldivenleri"
+    },
+    {
+      "id": "4cfe0d55",
+      "bank_id": "b0f49600",
+      "text": "Dizüstü Çizmeler"
+    },
+    {
+      "id": "534e3112",
+      "bank_id": "b0f49600",
+      "text": "Yoksul Pantolonu"
+    },
+    {
+      "id": "62c17344",
+      "bank_id": "b0f49600",
+      "text": "Bir beyefendi ve bir züppe olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu şapka sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "62d16f6f",
+      "bank_id": "b0f49600",
+      "text": "Soytarı Pantolonu"
+    },
+    {
+      "id": "63094b10",
+      "bank_id": "b0f49600",
+      "text": "Sanki ucuz bir aşk romanının kapağından fırlamış gibi görünün."
+    },
+    {
+      "id": "6348c013",
+      "bank_id": "b0f49600",
+      "text": "Gösterişli bir hanımefendi olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu etek sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "635a6a0a",
+      "bank_id": "b0f49600",
+      "text": "İrade'ye elverişli olmayan kıyafetlerin büyülü tarzınızı kısıtlamasına izin vermeyin. Bu cübbe tüm ciddi büyücülerin tercihidir."
+    },
+    {
+      "id": "640aa273",
+      "bank_id": "b0f49600",
+      "text": "Bu zarif ama abartılı cübbenin tanıklık ettiği gibi, İrade kullanıcılarının oldukça gösteriş meraklısı olduğu bir zaman vardı."
+    },
+    {
+      "id": "670b821e",
+      "bank_id": "b0f49600",
+      "text": "Soylu Beyefendi Şapkası"
+    },
+    {
+      "id": "67aef64a",
+      "bank_id": "b0f49600",
+      "text": "Efsanevi Eski Krallık büyücülerinin giydiği türden. İrade gücüyle at çağırabildikleri söylenirdi, gerçi herhangi bir pratik kullanım için fazlasıyla küçüktüler."
+    },
+    {
+      "id": "6918a046",
+      "bank_id": "b0f49600",
+      "text": "Siz de dünyanın en eski mesleğine katılabilirsiniz. Evet, kuklacılıktan bile daha eski."
+    },
+    {
+      "id": "6d40ff4a",
+      "bank_id": "b0f49600",
+      "text": "Kir pas tutuyor ve oldukça rahatsız."
+    },
+    {
+      "id": "6dcb8379",
+      "bank_id": "b0f49600",
+      "text": "Hal'ın Gövde Zırhı"
+    },
+    {
+      "id": "6e74c966",
+      "bank_id": "b0f49600",
+      "text": "Soylu Beyefendi Çizmeleri"
+    },
+    {
+      "id": "76294887",
+      "bank_id": "b0f49600",
+      "text": "Hal'ın Miğferi"
+    },
+    {
+      "id": "7a7153fe",
+      "bank_id": "b0f49600",
+      "text": "En iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu kıyafet, başka hiçbir şeyde olmasa bile altın yarışında sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "8037049c",
+      "bank_id": "b0f49600",
+      "text": "Bu göz alıcı tüylü başlıkla fazlasıyla dikkat çekin."
+    },
+    {
+      "id": "80e8b4ec",
+      "bank_id": "b0f49600",
+      "text": "İrade'ye elverişli olmayan kıyafetlerin büyülü tarzınızı kısıtlamasına izin vermeyin. Bu kıyafet tüm ciddi büyücülerin tercihidir."
+    },
+    {
+      "id": "8275059d",
+      "bank_id": "b0f49600",
+      "text": "Gösterişli bir hanımefendi olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu çizmeler sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "8accd2ea",
+      "bank_id": "b0f49600",
+      "text": "Uzun bir dilenme seansı sırasında yere bırakıldığında yoldan geçen sahipsiz altınları toplamak için tasarlanmıştır."
+    },
+    {
+      "id": "8c694215",
+      "bank_id": "b0f49600",
+      "text": "Neyin varsa göster gitsin."
+    },
+    {
+      "id": "8cb22387",
+      "bank_id": "b0f49600",
+      "text": "Kâşif Çizmeleri"
+    },
+    {
+      "id": "900af7c9",
+      "bank_id": "b0f49600",
+      "text": "Siz de dünyanın en eski mesleğine katılabilirsiniz. Evet, kuklacılıktan bile daha eski."
+    },
+    {
+      "id": "901e7248",
+      "bank_id": "b0f49600",
+      "text": "Yosma Eteği"
+    },
+    {
+      "id": "90b08887",
+      "bank_id": "b0f49600",
+      "text": "Yosma Eldivenleri"
+    },
+    {
+      "id": "921cca4b",
+      "bank_id": "b0f49600",
+      "text": "Şimdilerde nadiren görülen Korucular ormanda evlerindedir; ağaçlarla güreşir, yabani otlara ve kayalara sokulurlar."
+    },
+    {
+      "id": "93c0f48b",
+      "bank_id": "b0f49600",
+      "text": "Gecelerin Delikanlısı Kıyafeti"
+    },
+    {
+      "id": "953969f3",
+      "bank_id": "b0f49600",
+      "text": "Yoksul Eteği"
+    },
+    {
+      "id": "96a3fbb4",
+      "bank_id": "b0f49600",
+      "text": "Artık patentli PopoKaldıran™ teknolojisine sahip."
+    },
+    {
+      "id": "985d7d07",
+      "bank_id": "b0f49600",
+      "text": "Pudralı Peruk"
+    },
+    {
+      "id": "9cb6f466",
+      "bank_id": "b0f49600",
+      "text": "Soylu Bluzu"
+    },
+    {
+      "id": "a09e8b73",
+      "bank_id": "b0f49600",
+      "text": "Bu cüretkâr ama şık ceketle karın kaslarınızı ya da sarkan göbeğinizi sergileyin."
+    },
+    {
+      "id": "a1281673",
+      "bank_id": "b0f49600",
+      "text": "Hal'ın Kıyafeti"
+    },
+    {
+      "id": "a706c8c5",
+      "bank_id": "b0f49600",
+      "text": "Bu her yerde rastlanan pantolon, farklı etkilerle hem soytarılar hem de erkek hayat kadınları tarafından giyilebilir."
+    },
+    {
+      "id": "a832ed5f",
+      "bank_id": "b0f49600",
+      "text": "Yosma Korsajı"
+    },
+    {
+      "id": "aa9c7e4c",
+      "bank_id": "b0f49600",
+      "text": "Bu ucuz gecekondu sakini kıyafetiyle ayak takımına karışın."
+    },
+    {
+      "id": "ab597650",
+      "bank_id": "b0f49600",
+      "text": "Bir beyefendi ve bir züppe olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu palto sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "ab775ea0",
+      "bank_id": "b0f49600",
+      "text": "Hal'ın Kollukları"
+    },
+    {
+      "id": "b061a2b3",
+      "bank_id": "b0f49600",
+      "text": "Soylu Hanımefendi Şapkası"
+    },
+    {
+      "id": "b7238faa",
+      "bank_id": "b0f49600",
+      "text": "Bir beyefendi ve bir züppe olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu pantolon sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "b873d4ee",
+      "bank_id": "b0f49600",
+      "text": "Yosma Çizmeleri"
+    },
+    {
+      "id": "bdc9c8b1",
+      "bank_id": "b0f49600",
+      "text": "(LCE içeriği)\nÇok zaman önce, Albion hâlâ Eski Krallık'ın egemenliği altındayken, uzaydaki bir yarık boyutlar arasında bir geçit açtı. Yarıktan içeriye yeşil bir zırh kuşanmış ve dikkat çekici bir kristal kılıç taşıyan muazzam güçte bir savaşçı adım attı. Gerçek adını hiçbir zaman açıklamasa da herkes onu Hal olarak bilirdi."
+    },
+    {
+      "id": "c1004a4f",
+      "bank_id": "b0f49600",
+      "text": "Tüccar Kasketi"
+    },
+    {
+      "id": "c1eb6d0f",
+      "bank_id": "b0f49600",
+      "text": "Mini Şort"
+    },
+    {
+      "id": "c67a1d77",
+      "bank_id": "b0f49600",
+      "text": "Hal'ın Bacak Zırhı"
+    },
+    {
+      "id": "c9c25acd",
+      "bank_id": "b0f49600",
+      "text": "Bir beyefendi ve bir züppe olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu gömlek sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "cd0355f1",
+      "bank_id": "b0f49600",
+      "text": "Gösterişli bir hanımefendi olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu şapka sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "cfdb74ab",
+      "bank_id": "b0f49600",
+      "text": "Kaba saba ve çirkin. Koltuk altı bölgesinden yayılan koku da hiç övünülecek bir şey değil."
+    },
+    {
+      "id": "d33afe87",
+      "bank_id": "b0f49600",
+      "text": "Büyücü Şapkası"
+    },
+    {
+      "id": "d5a1c818",
+      "bank_id": "b0f49600",
+      "text": "Korse"
+    },
+    {
+      "id": "d6e06e15",
+      "bank_id": "b0f49600",
+      "text": "Şimdilerde nadiren görülen Korucular ormanda evlerindedir; ağaçlarla güreşir, yabani otlara ve kayalara sokulurlar."
+    },
+    {
+      "id": "d992e890",
+      "bank_id": "b0f49600",
+      "text": "Eski paçavralarla dikilmiş eski bir sirk çadırı parçaları. Bu sezon bütün dilencilerin giydiği şey tam olarak bu."
+    },
+    {
+      "id": "daba432c",
+      "bank_id": "b0f49600",
+      "text": "Albion topraklarının ötesine gitme cesaretini gösteren gözü pek kâşifler geleneksel olarak bu gömleği tercih etmişlerdir."
+    },
+    {
+      "id": "dbf386dd",
+      "bank_id": "b0f49600",
+      "text": "(LCE içeriği)\nÇok zaman önce, Albion hâlâ Eski Krallık'ın egemenliği altındayken, uzaydaki bir yarık boyutlar arasında bir geçit açtı. Yarıktan içeriye yeşil bir zırh kuşanmış ve dikkat çekici bir kristal kılıç taşıyan muazzam güçte bir savaşçı adım attı. Gerçek adını hiçbir zaman açıklamasa da herkes onu Hal olarak bilirdi. Bu miğfer sayesinde hiç kimse yüzünü göremedi. Ve bini aşkın yıl sonra bedeni bulunduğunda içinde sadece toz kalmıştı."
+    },
+    {
+      "id": "dc259091",
+      "bank_id": "b0f49600",
+      "text": "Yoksul Gömleği"
+    },
+    {
+      "id": "dcc49392",
+      "bank_id": "b0f49600",
+      "text": "Düğümlü Gömlek"
+    },
+    {
+      "id": "dfd3172f",
+      "bank_id": "b0f49600",
+      "text": "Kadın Üst Sınıf Kıyafeti"
+    },
+    {
+      "id": "e1292073",
+      "bank_id": "b0f49600",
+      "text": "(LCE içeriği)\nÇok zaman önce, Albion hâlâ Eski Krallık'ın egemenliği altındayken, uzaydaki bir yarık boyutlar arasında bir geçit açtı. Yarıktan içeriye yeşil bir zırh kuşanmış ve dikkat çekici bir kristal kılıç taşıyan muazzam güçte bir savaşçı adım attı. Gerçek adını hiçbir zaman açıklamasa da herkes onu Hal olarak bilirdi. Bu gövde zırhı, dünyamıza vardıktan sadece birkaç saniye sonra onu bir banshee'nin pençelerinden korumuştu."
+    },
+    {
+      "id": "e4ab627a",
+      "bank_id": "b0f49600",
+      "text": "Herkesin doğal hatlarını ön plana çıkaracağı garantilidir."
+    },
+    {
+      "id": "e8027bdf",
+      "bank_id": "b0f49600",
+      "text": "Bu eldivenleri takarken ellerinizin kirlenmesi, takmadığınız zamana kıyasla daha olasıdır."
+    },
+    {
+      "id": "e9d405ec",
+      "bank_id": "b0f49600",
+      "text": "Bir beyefendi ve bir züppe olarak en iyisinden başkasını giyemeyecek kadar sosyetesiniz. Bu çizmeler sizi Albion'un seçkinlerinden biri olarak öne çıkarır."
+    },
+    {
+      "id": "eecd47f8",
+      "bank_id": "b0f49600",
+      "text": "İrade Kullanıcısı Cübbesi"
+    },
+    {
+      "id": "f0ad0579",
+      "bank_id": "b0f49600",
+      "text": "Başbüyücü Cübbesi"
+    },
+    {
+      "id": "f126c499",
+      "bank_id": "b0f49600",
+      "text": "Soylu Eteği"
+    },
+    {
+      "id": "f1460eb2",
+      "bank_id": "b0f49600",
+      "text": "İrade Kullanıcısı Pantolonu"
+    },
+    {
+      "id": "f27c61dd",
+      "bank_id": "b0f49600",
+      "text": "Albion topraklarının ötesine gitme cesaretini gösteren gözü pek kâşifler geleneksel olarak bu çizmeleri tercih etmişlerdir."
+    },
+    {
+      "id": "f2aa195f",
+      "bank_id": "b0f49600",
+      "text": "Korucu Paltosu"
+    },
+    {
+      "id": "f3204038",
+      "bank_id": "b0f49600",
+      "text": "Başbüyücü Takkesi"
+    },
+    {
+      "id": "f50f93b0",
+      "bank_id": "b0f49600",
+      "text": "Kişinin İrade yeteneklerini geliştirdiği söylenen özel bir kumaştan yapılmıştır; gerçi gerçekte tek avantajı, büyücülerin dökümlü cübbelerinin altında rahat hissetmelerini sağlayan hafif bol kesimidir."
+    },
+    {
+      "id": "f53b6a97",
+      "bank_id": "b0f49600",
+      "text": "Albion topraklarının ötesine gitme cesaretini gösteren gözü pek kâşifler geleneksel olarak bu paltoyu tercih etmişlerdir."
+    },
+    {
+      "id": "f67ac6dd",
+      "bank_id": "b0f49600",
+      "text": "Bu kurdeleli güzelliklerle doğrudan fiziksel temastan tarzınızla kaçının."
+    },
+    {
+      "id": "f8b24938",
+      "bank_id": "b0f49600",
+      "text": "Yoksul Çizmeleri"
+    },
+    {
+      "id": "fe2687c4",
+      "bank_id": "b0f49600",
+      "text": "Erkek Üst Sınıf Kıyafeti"
+    },
+    {
+      "id": "fe27bb5d",
+      "bank_id": "b0f49600",
+      "text": "Onları takan yüksek sosyete hanımlarından daha az şanslı olanların saçlarından yapılan pudralı peruklar, zenginliğin gösterişli bir işaretidir. Peruğun tepesindeki tüyün mitolojik kumbazdan geldiği söylenir, gerçi bu iddiayı destekleyecek hiçbir kanıt yoktur."
+    },
+    {
+      "id": "ffae6432",
+      "bank_id": "b0f49600",
+      "text": "(LCE içeriği)\nÇok zaman önce, Albion hâlâ Eski Krallık'ın egemenliği altındayken, uzaydaki bir yarık boyutlar arasında bir geçit açtı. Yarıktan içeriye yeşil bir zırh kuşanmış ve dikkat çekici bir kristal kılıç taşıyan muazzam güçte bir savaşçı adım attı. Gerçek adını hiçbir zaman açıklamasa da herkes onu Hal olarak bilirdi. Bu kolluklar, ellerini kılıcından yayılan yakıcı enerjiden korumuştu."
+    }
+  ]
+}

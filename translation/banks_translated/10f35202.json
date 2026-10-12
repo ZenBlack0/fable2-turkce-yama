@@ -1,0 +1,2401 @@
+{
+  "bank_id": "10f35202",
+  "total_strings": 479,
+  "strings": [
+    {
+      "id": "01669271",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "01669272",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "01669273",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "03d6349d",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "03d6349e",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "03d6349f",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "03e0fd6c",
+      "bank_id": "10f35202",
+      "text": "Kanınla banyo yapacağım."
+    },
+    {
+      "id": "03e0fd6d",
+      "bank_id": "10f35202",
+      "text": "Sadece milletin getir götür işlerini yapıp duruyorsun, değil mi?"
+    },
+    {
+      "id": "03e0fd6f",
+      "bank_id": "10f35202",
+      "text": "Daha sonra kafanı haydut kampında top gibi tekmeleyeceğim."
+    },
+    {
+      "id": "043c356c",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "043c356d",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "043c356f",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "05963d48",
+      "bank_id": "10f35202",
+      "text": "Kendi boğazını kendin kes de beni zahmetten kurtar bari."
+    },
+    {
+      "id": "05963d4a",
+      "bank_id": "10f35202",
+      "text": "Seni kaç kere bıçaklayayım?"
+    },
+    {
+      "id": "05963d4b",
+      "bank_id": "10f35202",
+      "text": "Seni öldürdükten sonra sahip olduğun tüm dost ve akrabaların izini süreceğim."
+    },
+    {
+      "id": "064ac858",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "064ac859",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "064ac85a",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "0849e435",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "0849e436",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "0849e437",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "0ebd8b80",
+      "bank_id": "10f35202",
+      "text": "Daha ölmedim ben."
+    },
+    {
+      "id": "0ebd8b81",
+      "bank_id": "10f35202",
+      "text": "Şimdiden kazandığını sanıyorsun. Ama daha birkaç sürprizim var."
+    },
+    {
+      "id": "0ebd8b82",
+      "bank_id": "10f35202",
+      "text": "Ufak bir hata yapmanı bekliyorum sadece, o an işin bitecek."
+    },
+    {
+      "id": "116fe0f9",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "116fe0fa",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "116fe0fb",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "13444640",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "13444641",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "13444643",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "13cd18b5",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "13cd18b6",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "13cd18b7",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "15aab3b4",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "15aab3b5",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "15aab3b7",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "164a1cf4",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "164a1cf5",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "164a1cf6",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "192b5a8c",
+      "bank_id": "10f35202",
+      "text": "Ah, zavallı maceracı, zalim haydudun karşısında yapayalnız. Ha ha!"
+    },
+    {
+      "id": "192b5a8e",
+      "bank_id": "10f35202",
+      "text": "Oh, kazanmaktan gerçekten zevk alıyorum."
+    },
+    {
+      "id": "192b5a8f",
+      "bank_id": "10f35202",
+      "text": "Çoktan kaybettin bile."
+    },
+    {
+      "id": "194c4cec",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "194c4ced",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "194c4cef",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "1975fa70",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "1975fa72",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "1975fa73",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "20e9a164",
+      "bank_id": "10f35202",
+      "text": "Kendini çok muhteşem sanıyorsun değil mi?"
+    },
+    {
+      "id": "20e9a166",
+      "bank_id": "10f35202",
+      "text": "Zor durumdaki taraf olmayı severim. Elinden geleni ardına koyma!"
+    },
+    {
+      "id": "20e9a167",
+      "bank_id": "10f35202",
+      "text": "Asla pes etmeyeceğim. Duyuyor musun? Asla!"
+    },
+    {
+      "id": "20fc1ba8",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "20fc1baa",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "20fc1bab",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "2140b631",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2140b632",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2140b633",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "22a6ab54",
+      "bank_id": "10f35202",
+      "text": "Bütün dünya tuhaflaştı!"
+    },
+    {
+      "id": "22a6ab55",
+      "bank_id": "10f35202",
+      "text": "Her şey bulanıklaştı."
+    },
+    {
+      "id": "22a6ab57",
+      "bank_id": "10f35202",
+      "text": "Neler? Dönüyor? Burada?"
+    },
+    {
+      "id": "24cf816c",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "24cf816d",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "24cf816f",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "26850989",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2685098a",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2685098b",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "287cf91c",
+      "bank_id": "10f35202",
+      "text": "Ne?! Şimdi bir de zombilerle mi dövüşmem gerek yani?!"
+    },
+    {
+      "id": "287cf91e",
+      "bank_id": "10f35202",
+      "text": "Şimdi ne var? Yaşayan ölüler. Ah, tam bir baş belasılar."
+    },
+    {
+      "id": "287cf91f",
+      "bank_id": "10f35202",
+      "text": "Buralarda bu kadar çok ölünün gömülü olduğunu kim bilirdi ki?"
+    },
+    {
+      "id": "29ceed40",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "29ceed41",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "29ceed43",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "2a3c1ec0",
+      "bank_id": "10f35202",
+      "text": "Henüz pes etmiyorum!"
+    },
+    {
+      "id": "2a3c1ec2",
+      "bank_id": "10f35202",
+      "text": "Dost olmak için henüz çok geç değil, biliyorsun değil mi."
+    },
+    {
+      "id": "2a3c1ec3",
+      "bank_id": "10f35202",
+      "text": "Asla bitmez!"
+    },
+    {
+      "id": "2b5cf02c",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2b5cf02d",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2b5cf02f",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2b715010",
+      "bank_id": "10f35202",
+      "text": "Kasabalardaki koyunlardan hiçbir farkın yok; ekmek parası için çalışıp o küçücük evlerinizde oturup duruyorsunuz..."
+    },
+    {
+      "id": "2b715011",
+      "bank_id": "10f35202",
+      "text": "İstiyorsan dua etmeye başla. Faydası olmaz ya."
+    },
+    {
+      "id": "2b715012",
+      "bank_id": "10f35202",
+      "text": "Birini ortadan ikiye bölmek için can atıyordum. Sanırım o sen olacaksın."
+    },
+    {
+      "id": "2bf969fc",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2bf969fd",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2bf969fe",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2c355ab4",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "2c355ab5",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "2c355ab7",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "2cc95254",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2cc95255",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2cc95256",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2cdc73a4",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2cdc73a5",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2cdc73a6",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2d4e2fd9",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "2d4e2fda",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "2d4e2fdb",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "2e2b483c",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2e2b483e",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2e2b483f",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2ef6d5f8",
+      "bank_id": "10f35202",
+      "text": "Kendi dalağını hiç gördün mü sen?"
+    },
+    {
+      "id": "2ef6d5f9",
+      "bank_id": "10f35202",
+      "text": "Pankreasını söküp çıkaracağım!"
+    },
+    {
+      "id": "2ef6d5fb",
+      "bank_id": "10f35202",
+      "text": "Yüreğini meyve suyu torbası gibi sıkacağım."
+    },
+    {
+      "id": "318add94",
+      "bank_id": "10f35202",
+      "text": "Mezarlıktaki yerini satın aldın mı şimdiden? Çok yakında ihtiyacın olacak."
+    },
+    {
+      "id": "318add95",
+      "bank_id": "10f35202",
+      "text": "Karnını deşeceğim senin!"
+    },
+    {
+      "id": "318add96",
+      "bank_id": "10f35202",
+      "text": "Nasıl ölmek istersin bakalım?"
+    },
+    {
+      "id": "32271f65",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "32271f66",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "32271f67",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "368e1030",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "368e1032",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "368e1033",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "3695bfe0",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "3695bfe2",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "3695bfe3",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "3d3a4420",
+      "bank_id": "10f35202",
+      "text": "Bir randevuma geç kaldım!"
+    },
+    {
+      "id": "3d3a4421",
+      "bank_id": "10f35202",
+      "text": "Başka bir yerde olmam gerek!"
+    },
+    {
+      "id": "3d3a4422",
+      "bank_id": "10f35202",
+      "text": "Anneciğim!"
+    },
+    {
+      "id": "3d83fecc",
+      "bank_id": "10f35202",
+      "text": "Pusuda kalın!"
+    },
+    {
+      "id": "3d83fece",
+      "bank_id": "10f35202",
+      "text": "Bir şeyin arkasına saklanın!"
+    },
+    {
+      "id": "3d83fecf",
+      "bank_id": "10f35202",
+      "text": "Başınızı eğin!"
+    },
+    {
+      "id": "3ef3d629",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "3ef3d62a",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "3ef3d62b",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "3ffc79d0",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "3ffc79d1",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "3ffc79d2",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "40dc9f90",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "40dc9f91",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "40dc9f92",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "428410fc",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "428410fd",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "428410fe",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "43806cb8",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "43806cb9",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "43806cbb",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "44622578",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "44622579",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "4462257b",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "44aaf1ac",
+      "bank_id": "10f35202",
+      "text": "Akciğerlerinden kendime güzel bir gayda yapacağım."
+    },
+    {
+      "id": "44aaf1ad",
+      "bank_id": "10f35202",
+      "text": "Seni paramparça etmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "44aaf1ae",
+      "bank_id": "10f35202",
+      "text": "Dün bir balverine sürüsünü katlettim. Sen daha mı iyi dayanacaksın sanıyorsun?"
+    },
+    {
+      "id": "44b5ef3c",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "44b5ef3e",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "44b5ef3f",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "450629ac",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "450629ad",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "450629ae",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "46f62d14",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "46f62d15",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "46f62d16",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "49719d2d",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "49719d2e",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "49719d2f",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "4c5fd410",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "4c5fd411",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "4c5fd412",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "4d2066e0",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "4d2066e2",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "4d2066e3",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "4d802280",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "4d802281",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "4d802282",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "4f5e48c5",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "4f5e48c6",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "4f5e48c7",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "4fe559f8",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "4fe559f9",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "4fe559fb",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "510a540c",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "510a540e",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "510a540f",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "52796194",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "52796195",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "52796196",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "56e749c1",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "56e749c2",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "56e749c3",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "5b0a0ea5",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "5b0a0ea6",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "5b0a0ea7",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "5b90d0ac",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "5b90d0ad",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "5b90d0ae",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "5d470704",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "5d470705",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "5d470707",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "5f97de24",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "5f97de25",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "5f97de27",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "5fac3864",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "5fac3866",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "5fac3867",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "6060b1fc",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "6060b1fd",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "6060b1ff",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "613ee7e0",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "613ee7e1",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "613ee7e2",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "653152e8",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "653152e9",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "653152ea",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "659975ac",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "659975ad",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "659975ae",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "67940580",
+      "bank_id": "10f35202",
+      "text": "Bana çok çok garip bir şeyler oluyor."
+    },
+    {
+      "id": "67940582",
+      "bank_id": "10f35202",
+      "text": "Bu hiç ama hiç doğru hissettirmiyor..."
+    },
+    {
+      "id": "67940583",
+      "bank_id": "10f35202",
+      "text": "Neler oluyor? Her şey bulanıklaştı."
+    },
+    {
+      "id": "6d6d5328",
+      "bank_id": "10f35202",
+      "text": "Aaaiiihhhh!"
+    },
+    {
+      "id": "6d6d5329",
+      "bank_id": "10f35202",
+      "text": "Çıkarın beni buradan!"
+    },
+    {
+      "id": "6d6d532a",
+      "bank_id": "10f35202",
+      "text": "Beni yakalayamazsın!"
+    },
+    {
+      "id": "6d71f0c1",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "6d71f0c2",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "6d71f0c3",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "73d96e0c",
+      "bank_id": "10f35202",
+      "text": "Son bir arzun var mı?"
+    },
+    {
+      "id": "73d96e0d",
+      "bank_id": "10f35202",
+      "text": "Merak etme, cesedinin vahşi hayvanlarca yenilmemesini sağlarım. Yani çoğunlukla."
+    },
+    {
+      "id": "73d96e0e",
+      "bank_id": "10f35202",
+      "text": "Şimdi seni tam da istediğim kıvama getirdim."
+    },
+    {
+      "id": "74e43744",
+      "bank_id": "10f35202",
+      "text": "Bana biraz müsamaha göstersene, ha? Düztabanım ben."
+    },
+    {
+      "id": "74e43745",
+      "bank_id": "10f35202",
+      "text": "Lanet olsun!"
+    },
+    {
+      "id": "74e43746",
+      "bank_id": "10f35202",
+      "text": "Oh, lanet hobbe!"
+    },
+    {
+      "id": "751b82f8",
+      "bank_id": "10f35202",
+      "text": "Durduğun yerde derini yüzeceğim senin."
+    },
+    {
+      "id": "751b82fa",
+      "bank_id": "10f35202",
+      "text": "Yaşlı, kör bir kadının sana emirler yağdırmasına izin verdiğin doğru mu? Ne eziksin ama."
+    },
+    {
+      "id": "751b82fb",
+      "bank_id": "10f35202",
+      "text": "Senden daha çetin, daha iri ve daha iyi yüzlercesini öldürdüm ben."
+    },
+    {
+      "id": "7576baf8",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "7576bafa",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "7576bafb",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "777a95c1",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "777a95c2",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "777a95c3",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "7b2c1ad0",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "7b2c1ad1",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "7b2c1ad3",
+      "bank_id": "10f35202",
+      "text": "Kaçın!"
+    },
+    {
+      "id": "7f0019ad",
+      "bank_id": "10f35202",
+      "text": "Çok geçmeden bacakların pes edecek, seni hobbe yalakası."
+    },
+    {
+      "id": "7f0019ae",
+      "bank_id": "10f35202",
+      "text": "Kabul et artık, her şey bitti."
+    },
+    {
+      "id": "7f0019af",
+      "bank_id": "10f35202",
+      "text": "Korkunç ölümünden haberdar etmemi istediğin bir ailen var mı?"
+    },
+    {
+      "id": "7f61a1b8",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "7f61a1b9",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "7f61a1ba",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "818b161d",
+      "bank_id": "10f35202",
+      "text": "Beni öldüremezsin!"
+    },
+    {
+      "id": "818b161e",
+      "bank_id": "10f35202",
+      "text": "Aaaiiihhhh!"
+    },
+    {
+      "id": "818b161f",
+      "bank_id": "10f35202",
+      "text": "Canınızı kurtarın!"
+    },
+    {
+      "id": "83ffa9d8",
+      "bank_id": "10f35202",
+      "text": "Koş!"
+    },
+    {
+      "id": "83ffa9d9",
+      "bank_id": "10f35202",
+      "text": "Kaçın!"
+    },
+    {
+      "id": "83ffa9da",
+      "bank_id": "10f35202",
+      "text": "Hemen defolup gidiyorum buradan!"
+    },
+    {
+      "id": "844f2458",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "844f2459",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "844f245b",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "867fd8f0",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "867fd8f1",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "867fd8f3",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "885cdf90",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "885cdf91",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "885cdf93",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8a86d278",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "8a86d27a",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "8a86d27b",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "8ac7ba44",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8ac7ba46",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8ac7ba47",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8cc1ac08",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "8cc1ac09",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "8cc1ac0a",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "8d0de9c8",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8d0de9c9",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "8d0de9cb",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "91f4fd88",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "91f4fd8a",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "91f4fd8b",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "92d58384",
+      "bank_id": "10f35202",
+      "text": "Benimle dövüşmek hayatının en büyük hatasıydı."
+    },
+    {
+      "id": "92d58385",
+      "bank_id": "10f35202",
+      "text": "Ayy, nen var? Öpeyim de geçsin mi isterdin?"
+    },
+    {
+      "id": "92d58387",
+      "bank_id": "10f35202",
+      "text": "Kaybetmek nasıl bir duyguymuş bakalım?"
+    },
+    {
+      "id": "93f27f89",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "93f27f8a",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "93f27f8b",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "960a06f8",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "960a06fa",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "960a06fb",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "98907c30",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "98907c31",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "98907c33",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "9a1e9fb8",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "9a1e9fba",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "9a1e9fbb",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "9a642474",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "9a642476",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "9a642477",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "9bd0343d",
+      "bank_id": "10f35202",
+      "text": "Bir insan nasıl bu kadar hızlı hareket edebilir?"
+    },
+    {
+      "id": "9bd0343e",
+      "bank_id": "10f35202",
+      "text": "Sanki pekmez içinde hareket ediyorum."
+    },
+    {
+      "id": "9bd0343f",
+      "bank_id": "10f35202",
+      "text": "Bir. Şeyler. Çok. Yanlış."
+    },
+    {
+      "id": "9eee6418",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "9eee6419",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "9eee641b",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "a0054de4",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "a0054de5",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "a0054de7",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "a1a018b4",
+      "bank_id": "10f35202",
+      "text": "İşim bittiğinde her tarafta bir parçan olacak."
+    },
+    {
+      "id": "a1a018b6",
+      "bank_id": "10f35202",
+      "text": "Elimde üzerinde adının yazdığı bir kılıç var."
+    },
+    {
+      "id": "a1a018b7",
+      "bank_id": "10f35202",
+      "text": "Umarım burayı sevmişsindir çünkü burada öleceksin."
+    },
+    {
+      "id": "a688fea1",
+      "bank_id": "10f35202",
+      "text": "Kasap vitrinindekinden daha çok yürek var bende."
+    },
+    {
+      "id": "a688fea2",
+      "bank_id": "10f35202",
+      "text": "Gerçek bir haydut asla teslim olmaz."
+    },
+    {
+      "id": "a688fea3",
+      "bank_id": "10f35202",
+      "text": "Şuna berabere desek olmaz mı?"
+    },
+    {
+      "id": "a783cec0",
+      "bank_id": "10f35202",
+      "text": "Tabanları yağlayın!"
+    },
+    {
+      "id": "a783cec1",
+      "bank_id": "10f35202",
+      "text": "Gidelim buradan!"
+    },
+    {
+      "id": "a783cec3",
+      "bank_id": "10f35202",
+      "text": "Koş!"
+    },
+    {
+      "id": "a86a089c",
+      "bank_id": "10f35202",
+      "text": "Argh, bu olamaz!"
+    },
+    {
+      "id": "a86a089d",
+      "bank_id": "10f35202",
+      "text": "Bu hiç ama hiç hoşuma gitmedi..."
+    },
+    {
+      "id": "a86a089f",
+      "bank_id": "10f35202",
+      "text": "Neden hep benim başıma gelir bu?"
+    },
+    {
+      "id": "a8fabba0",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "a8fabba1",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "a8fabba2",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "a9ea3c34",
+      "bank_id": "10f35202",
+      "text": "Canınızı kurtarın!"
+    },
+    {
+      "id": "a9ea3c35",
+      "bank_id": "10f35202",
+      "text": "Tabanları yağlayın!"
+    },
+    {
+      "id": "a9ea3c37",
+      "bank_id": "10f35202",
+      "text": "Geri döneceğim!"
+    },
+    {
+      "id": "aa30d249",
+      "bank_id": "10f35202",
+      "text": "Çok geç olmadan siper alın!"
+    },
+    {
+      "id": "aa30d24a",
+      "bank_id": "10f35202",
+      "text": "Siper alın, çabuk!"
+    },
+    {
+      "id": "aa30d24b",
+      "bank_id": "10f35202",
+      "text": "Evet, bütün kurşunları ye bakalım. Aynen öyle!"
+    },
+    {
+      "id": "abb8678c",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "abb8678d",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "abb8678e",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "ac088470",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "ac088472",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "ac088473",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "ace0b4d9",
+      "bank_id": "10f35202",
+      "text": "Ölüler diriliyor! Ölüler diriliyor!"
+    },
+    {
+      "id": "ace0b4da",
+      "bank_id": "10f35202",
+      "text": "Ah. Lanet zombiler. Nefret ederim onlardan."
+    },
+    {
+      "id": "ace0b4db",
+      "bank_id": "10f35202",
+      "text": "Nekromansiye sığınıyorsun demek, ha?"
+    },
+    {
+      "id": "ada093b0",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "ada093b1",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "ada093b3",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "ae902c49",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "ae902c4a",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "ae902c4b",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "b05d6da0",
+      "bank_id": "10f35202",
+      "text": "Nekromansır! Sizde ölülere zerre saygı yok."
+    },
+    {
+      "id": "b05d6da1",
+      "bank_id": "10f35202",
+      "text": "Tüm o aşağılık, pis numaraların içinde ölüleri savaştırmak da neyin nesi..."
+    },
+    {
+      "id": "b05d6da3",
+      "bank_id": "10f35202",
+      "text": "Hey, şu herifi tanıyorum. Ben seni geçen yıl öldürmemiş miydim yahu?"
+    },
+    {
+      "id": "b2509468",
+      "bank_id": "10f35202",
+      "text": "Ben yerde buz gibi uzanana kadar bu iş bitmez."
+    },
+    {
+      "id": "b2509469",
+      "bank_id": "10f35202",
+      "text": "Asla pes etme! Parolam budur. Ya da millete sürekli 'geber' demeseydim öyle olurdu..."
+    },
+    {
+      "id": "b250946b",
+      "bank_id": "10f35202",
+      "text": "Bu dövüş her an tersine dönebilir."
+    },
+    {
+      "id": "b3654b4c",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "b3654b4d",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "b3654b4e",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "b3a6ce44",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "b3a6ce45",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "b3a6ce46",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "b6df132d",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "b6df132e",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "b6df132f",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "b70b6834",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "b70b6836",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "b70b6837",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "b9c8d564",
+      "bank_id": "10f35202",
+      "text": "Her yerdeki haydutlara bir iyilik yapıp böbreklerini göz çukurlarından sökeceğim. Kolay olacak demiyorum..."
+    },
+    {
+      "id": "b9c8d565",
+      "bank_id": "10f35202",
+      "text": "Son nefesini ver seni maceracı pislik!"
+    },
+    {
+      "id": "b9c8d566",
+      "bank_id": "10f35202",
+      "text": "Sıçanlara güzel bir ziyafet bırakacağım. Cesedini yani."
+    },
+    {
+      "id": "bca9397c",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "bca9397e",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "bca9397f",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "bd795510",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "bd795512",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "bd795513",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "bdeb5c13",
+      "bank_id": "10f35202",
+      "text": "Bu kadar dayanacağını düşünmemiştim. Ama artık neredeyse bitti."
+    },
+    {
+      "id": "be8a63ed",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "be8a63ee",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "be8a63ef",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "bf8562a0",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "bf8562a1",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "bf8562a2",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "bf983a4c",
+      "bank_id": "10f35202",
+      "text": "Ben burada daha fazla kalamam!"
+    },
+    {
+      "id": "bf983a4e",
+      "bank_id": "10f35202",
+      "text": "Galiba kamp ateşini söndürmeyi unuttum!"
+    },
+    {
+      "id": "bf983a4f",
+      "bank_id": "10f35202",
+      "text": "Kampa geri dönün!"
+    },
+    {
+      "id": "c038f27c",
+      "bank_id": "10f35202",
+      "text": "Arghhh!"
+    },
+    {
+      "id": "c038f27d",
+      "bank_id": "10f35202",
+      "text": "Lanet olsun böyle işe!"
+    },
+    {
+      "id": "c038f27e",
+      "bank_id": "10f35202",
+      "text": "Görüşürüz!"
+    },
+    {
+      "id": "c26ad0bc",
+      "bank_id": "10f35202",
+      "text": "Arghhh!"
+    },
+    {
+      "id": "c26ad0be",
+      "bank_id": "10f35202",
+      "text": "Geri döneceğim!"
+    },
+    {
+      "id": "c26ad0bf",
+      "bank_id": "10f35202",
+      "text": "Ben kaçtım buradan!"
+    },
+    {
+      "id": "c28e9cb4",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "c28e9cb6",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "c28e9cb7",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "c2dc4a95",
+      "bank_id": "10f35202",
+      "text": "Kazandığını mı sanıyorsun? Ne kadar da yanılıyorsun."
+    },
+    {
+      "id": "c2dc4a96",
+      "bank_id": "10f35202",
+      "text": "Bunun böyle gitmesi gerekmiyordu..."
+    },
+    {
+      "id": "c2dc4a97",
+      "bank_id": "10f35202",
+      "text": "Beni öldürmeyeceksin değil mi? Hadi ama, hepsi büyük bir yanlış anlaşılmaydı!"
+    },
+    {
+      "id": "c99e1d01",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "c99e1d02",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "c99e1d03",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "cab47d04",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "cab47d05",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "cab47d07",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "cad54860",
+      "bank_id": "10f35202",
+      "text": "Seni başka bir gün öldürürüm!"
+    },
+    {
+      "id": "cad54862",
+      "bank_id": "10f35202",
+      "text": "Kaçın!"
+    },
+    {
+      "id": "cad54863",
+      "bank_id": "10f35202",
+      "text": "Ben kaçtım!"
+    },
+    {
+      "id": "ce02db80",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "ce02db81",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "ce02db83",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "d29ec8e8",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "d29ec8e9",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "d29ec8ea",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "d94937cd",
+      "bank_id": "10f35202",
+      "text": "Sanırım seni parça parça doğrayacağım."
+    },
+    {
+      "id": "d94937ce",
+      "bank_id": "10f35202",
+      "text": "Kafa derini koleksiyonum için eve götüreceğim."
+    },
+    {
+      "id": "d94937cf",
+      "bank_id": "10f35202",
+      "text": "Önce hangi parçanı keseceğime karar veremedim..."
+    },
+    {
+      "id": "d9a46fcd",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "d9a46fce",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "d9a46fcf",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "dc63882c",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "dc63882e",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "dc63882f",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "e0780e71",
+      "bank_id": "10f35202",
+      "text": "Hayatının en kötü gününe hazır mısın?"
+    },
+    {
+      "id": "e0780e72",
+      "bank_id": "10f35202",
+      "text": "Soğuk, cansız bedenini yağmalamak için sabırsızlanıyorum."
+    },
+    {
+      "id": "e0780e73",
+      "bank_id": "10f35202",
+      "text": "Sana küçük bir hediyem var. Öbür tarafa ufak bir yolculuk."
+    },
+    {
+      "id": "e1c8fb95",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "e1c8fb96",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "e1c8fb97",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "e21fa6d0",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "e21fa6d2",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "e21fa6d3",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "e39cde0c",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "e39cde0e",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "e39cde0f",
+      "bank_id": "10f35202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "e54d3194",
+      "bank_id": "10f35202",
+      "text": "Beni öldürürsen mezardan kalkıp ben de seni öldürürüm."
+    },
+    {
+      "id": "e54d3195",
+      "bank_id": "10f35202",
+      "text": "Daha önce çok daha kötü durumlara düştüm ve kazanan ben oldum."
+    },
+    {
+      "id": "e54d3197",
+      "bank_id": "10f35202",
+      "text": "Şimdilik kazanıyor olabilirsin ama bu sürmeyecek."
+    },
+    {
+      "id": "e553bcc4",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "e553bcc5",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "e553bcc7",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "e72956ac",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "e72956ae",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "e72956af",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "e72c9f9c",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "e72c9f9d",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "e72c9f9f",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "eb26d241",
+      "bank_id": "10f35202",
+      "text": "İmdat!"
+    },
+    {
+      "id": "eb26d242",
+      "bank_id": "10f35202",
+      "text": "Yetti artık!"
+    },
+    {
+      "id": "eb26d243",
+      "bank_id": "10f35202",
+      "text": "Ben kaçtım buradan!"
+    },
+    {
+      "id": "eb3b704c",
+      "bank_id": "10f35202",
+      "text": "Bu sabah haydut kampından hiç ayrılmamalıydım."
+    },
+    {
+      "id": "eb3b704d",
+      "bank_id": "10f35202",
+      "text": "Kazanmana izin veriyorum, bilesin. Kıçını tekmelemeye karar verene kadar bekle sen."
+    },
+    {
+      "id": "eb3b704f",
+      "bank_id": "10f35202",
+      "text": "Kahretsin."
+    },
+    {
+      "id": "eba10d75",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "eba10d76",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "eba10d77",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "ed4b8d9d",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "ed4b8d9e",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "ed4b8d9f",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "ed4ea6bc",
+      "bank_id": "10f35202",
+      "text": "Normalde insanları sadece altın için doğrarım ama seni öldürmek eğlenceli olacak."
+    },
+    {
+      "id": "ed4ea6bd",
+      "bank_id": "10f35202",
+      "text": "Gelsene o zaman, görelim bakalım ne mal olduğunu."
+    },
+    {
+      "id": "ed4ea6bf",
+      "bank_id": "10f35202",
+      "text": "Gözlerini oymaktan büyük zevk alacağım."
+    },
+    {
+      "id": "efb871a8",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "efb871a9",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "efb871aa",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "f1132b68",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "f1132b69",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "f1132b6b",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "f28f9914",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "f28f9916",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "f28f9917",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "f3648865",
+      "bank_id": "10f35202",
+      "text": "Asla teslim olmayacağım!"
+    },
+    {
+      "id": "f3648866",
+      "bank_id": "10f35202",
+      "text": "Hâlâ dövüşecek takatim var."
+    },
+    {
+      "id": "f3648867",
+      "bank_id": "10f35202",
+      "text": "Dereyi görmeden paçaları sıvama hemen!"
+    },
+    {
+      "id": "f5e35df1",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "f5e35df2",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "f5e35df3",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "f75d6bf4",
+      "bank_id": "10f35202",
+      "text": "Fırsatın varken tadını çıkar; üstünlüğün uzun sürmeyecek."
+    },
+    {
+      "id": "f75d6bf5",
+      "bank_id": "10f35202",
+      "text": "Nerede bu lanet bizim çocuklar?"
+    },
+    {
+      "id": "f75d6bf6",
+      "bank_id": "10f35202",
+      "text": "Bunca yıl kasabaları yağmala, sonu böyle mi bitecekti yani?"
+    },
+    {
+      "id": "f917df50",
+      "bank_id": "10f35202",
+      "text": "Dikkat et!"
+    },
+    {
+      "id": "f917df51",
+      "bank_id": "10f35202",
+      "text": "Dikkat et!"
+    },
+    {
+      "id": "f917df53",
+      "bank_id": "10f35202",
+      "text": "Kurşun yağıyor!"
+    },
+    {
+      "id": "fa37bbcd",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "fa37bbce",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "fa37bbcf",
+      "bank_id": "10f35202",
+      "text": "Öff!"
+    },
+    {
+      "id": "fa3ae9d4",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "fa3ae9d6",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "fa3ae9d7",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "fae539f9",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "fae539fa",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "fae539fb",
+      "bank_id": "10f35202",
+      "text": "Uh!"
+    },
+    {
+      "id": "fc396e2c",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "fc396e2e",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "fc396e2f",
+      "bank_id": "10f35202",
+      "text": "Öff."
+    },
+    {
+      "id": "fd773950",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "fd773951",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "fd773953",
+      "bank_id": "10f35202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "fd85458f",
+      "bank_id": "10f35202",
+      "text": "O atışlar canını alacak senin!"
+    }
+  ]
+}

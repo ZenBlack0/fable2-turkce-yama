@@ -1,0 +1,2716 @@
+{
+  "bank_id": "40f29600",
+  "total_strings": 542,
+  "strings": [
+    {
+      "id": "00f120d1",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "00f4cb8c",
+      "bank_id": "40f29600",
+      "text": "Steven Grice (FILTER)"
+    },
+    {
+      "id": "00f70a63",
+      "bank_id": "40f29600",
+      "text": "Mark Neyer"
+    },
+    {
+      "id": "01f12244",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "01f4cd7f",
+      "bank_id": "40f29600",
+      "text": "Shun Endo (FILTER)"
+    },
+    {
+      "id": "01f70bd6",
+      "bank_id": "40f29600",
+      "text": "Tony Cox"
+    },
+    {
+      "id": "02f12437",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "02f4ced2",
+      "bank_id": "40f29600",
+      "text": "Rick Kolesar (FILTER)"
+    },
+    {
+      "id": "02f70d49",
+      "bank_id": "40f29600",
+      "text": "Greg Hermann"
+    },
+    {
+      "id": "03235c70",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "03f125aa",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "03f4d045",
+      "bank_id": "40f29600",
+      "text": "Justin Koh (FILTER)"
+    },
+    {
+      "id": "03f70f3c",
+      "bank_id": "40f29600",
+      "text": "Troy Heere"
+    },
+    {
+      "id": "048263d1",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "04b6ea81",
+      "bank_id": "40f29600",
+      "text": "Kabul Et"
+    },
+    {
+      "id": "04f4d238",
+      "bank_id": "40f29600",
+      "text": "<s4>Test</s4>"
+    },
+    {
+      "id": "04f710af",
+      "bank_id": "40f29600",
+      "text": "Michael Kroon"
+    },
+    {
+      "id": "05235f56",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "05a299d0",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "05f4d3ab",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "05f71202",
+      "bank_id": "40f29600",
+      "text": "Craig \"Ixanian\" Nichols"
+    },
+    {
+      "id": "062360c9",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "06f713f5",
+      "bank_id": "40f29600",
+      "text": "Mikey Wetzel"
+    },
+    {
+      "id": "084337db",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0aa2a18f",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0b433c94",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0ba2a362",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0bf71b94",
+      "bank_id": "40f29600",
+      "text": "Kurt Loidl"
+    },
+    {
+      "id": "0c6496e3",
+      "bank_id": "40f29600",
+      "text": "Seç"
+    },
+    {
+      "id": "0ca2a4d5",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0cf71d07",
+      "bank_id": "40f29600",
+      "text": "Eric Lee"
+    },
+    {
+      "id": "0d433ffa",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0db86303",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "0e43416d",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0f27cc50",
+      "bank_id": "40f29600",
+      "text": "Jerome Terroir"
+    },
+    {
+      "id": "0ff2a4f2",
+      "bank_id": "40f29600",
+      "text": "Christopher Peters"
+    },
+    {
+      "id": "1027cdc3",
+      "bank_id": "40f29600",
+      "text": "Jacques Fernandez"
+    },
+    {
+      "id": "10f2a665",
+      "bank_id": "40f29600",
+      "text": "Andrew Slasinski (Aditi)"
+    },
+    {
+      "id": "1127cfb6",
+      "bank_id": "40f29600",
+      "text": "Sirko Manthey"
+    },
+    {
+      "id": "11f2a7d8",
+      "bank_id": "40f29600",
+      "text": "Eric Fleegal"
+    },
+    {
+      "id": "1227d129",
+      "bank_id": "40f29600",
+      "text": "Sebastien Gouaux"
+    },
+    {
+      "id": "122a0f80",
+      "bank_id": "40f29600",
+      "text": "Evan Query (Volt)"
+    },
+    {
+      "id": "12f2a94b",
+      "bank_id": "40f29600",
+      "text": "Josh Olson (Excell Data Corporation)"
+    },
+    {
+      "id": "1324beb4",
+      "bank_id": "40f29600",
+      "text": "Şimdi bir oyuncu profiliyle oturum açmazsanız başarımları kazanamazsınız. Devam etmek istiyor musunuz?"
+    },
+    {
+      "id": "1327d29c",
+      "bank_id": "40f29600",
+      "text": "Aurora Cano"
+    },
+    {
+      "id": "132a1173",
+      "bank_id": "40f29600",
+      "text": "Michael Rhine (Excell Data)"
+    },
+    {
+      "id": "13f2ab3e",
+      "bank_id": "40f29600",
+      "text": "Jeffrey S. \"Dextor\" Blazier"
+    },
+    {
+      "id": "1427d40f",
+      "bank_id": "40f29600",
+      "text": "Luca Marini"
+    },
+    {
+      "id": "142a12e6",
+      "bank_id": "40f29600",
+      "text": "Kelly Rios (Excell Data)"
+    },
+    {
+      "id": "14f2ac91",
+      "bank_id": "40f29600",
+      "text": "Benjamin Ellinger"
+    },
+    {
+      "id": "1527d5e2",
+      "bank_id": "40f29600",
+      "text": "Sergio Petenar"
+    },
+    {
+      "id": "152a1459",
+      "bank_id": "40f29600",
+      "text": "Ann Ruchty (Volt)"
+    },
+    {
+      "id": "152c5330",
+      "bank_id": "40f29600",
+      "text": "Mark McAllister"
+    },
+    {
+      "id": "15f2ae04",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "1627d755",
+      "bank_id": "40f29600",
+      "text": "Vlad Yatseno"
+    },
+    {
+      "id": "162a15cc",
+      "bank_id": "40f29600",
+      "text": "Grayson Nootenboom (Volt)"
+    },
+    {
+      "id": "162c54a3",
+      "bank_id": "40f29600",
+      "text": "Jeffrey Mattson (Volt)"
+    },
+    {
+      "id": "16f2aff7",
+      "bank_id": "40f29600",
+      "text": "<s4>Geliştirme</s4>"
+    },
+    {
+      "id": "1722cfc0",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1727d8c8",
+      "bank_id": "40f29600",
+      "text": "<s4>Pazarlama</s4>"
+    },
+    {
+      "id": "172a17bf",
+      "bank_id": "40f29600",
+      "text": "Kyle O'Keefe (Volt)"
+    },
+    {
+      "id": "172c5616",
+      "bank_id": "40f29600",
+      "text": "David Locke (Excell Data)"
+    },
+    {
+      "id": "17e2c9bb",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "17eb8778",
+      "bank_id": "40f29600",
+      "text": "Geri"
+    },
+    {
+      "id": "17f2b16a",
+      "bank_id": "40f29600",
+      "text": "<s4>Tasarım</s4>"
+    },
+    {
+      "id": "1827dabb",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "182a1912",
+      "bank_id": "40f29600",
+      "text": "Bryce Pinkston (Volt)"
+    },
+    {
+      "id": "182c5789",
+      "bank_id": "40f29600",
+      "text": "Cahlen Lee (Volt)"
+    },
+    {
+      "id": "187e8442",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1895b539",
+      "bank_id": "40f29600",
+      "text": "Yakınlarda düşmanlar varken bu yatağı kullanamazsınız."
+    },
+    {
+      "id": "18e2cb2e",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "18f2b2dd",
+      "bank_id": "40f29600",
+      "text": "John Miller"
+    },
+    {
+      "id": "1922d326",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "192a1a85",
+      "bank_id": "40f29600",
+      "text": "Roderic Ponce (Excell Data)"
+    },
+    {
+      "id": "192c597c",
+      "bank_id": "40f29600",
+      "text": "Joey Knight (Excell Data)"
+    },
+    {
+      "id": "197e8635",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "19e2cc81",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1a22d499",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1a2c5aef",
+      "bank_id": "40f29600",
+      "text": "Jesse Kaplan (Volt)"
+    },
+    {
+      "id": "1a7e87a8",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1ae2ce74",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1b11fbcb",
+      "bank_id": "40f29600",
+      "text": "Öğren"
+    },
+    {
+      "id": "1b22d60c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1b2c5c42",
+      "bank_id": "40f29600",
+      "text": "Shaun Jones (Volt)"
+    },
+    {
+      "id": "1b7e891b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1be2cfe7",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1c22d7ff",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1c2c5e35",
+      "bank_id": "40f29600",
+      "text": "Tyler Johnston (Volt)"
+    },
+    {
+      "id": "1c7e8a8e",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1ce2d15a",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1d7e8c61",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1e22dac5",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1e2a22a4",
+      "bank_id": "40f29600",
+      "text": "Sandra Rumsey (Volt)"
+    },
+    {
+      "id": "1e7e8dd4",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1f2a2417",
+      "bank_id": "40f29600",
+      "text": "Amanda Schneider (Excell Data)"
+    },
+    {
+      "id": "1f7e8f47",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "207e913a",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "20e22fd6",
+      "bank_id": "40f29600",
+      "text": "<s4>Ses Laboratuvarı</s4>"
+    },
+    {
+      "id": "21b71f70",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "21e23149",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "22bf8000",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "232c693a",
+      "bank_id": "40f29600",
+      "text": "Eric Nguyen (Volt)"
+    },
+    {
+      "id": "23b72256",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "242c6aad",
+      "bank_id": "40f29600",
+      "text": "Bob Mowery (Excell Data)"
+    },
+    {
+      "id": "24b723c9",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "26b7272f",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "26e23968",
+      "bank_id": "40f29600",
+      "text": "Kristofor Mellroth"
+    },
+    {
+      "id": "27e23adb",
+      "bank_id": "40f29600",
+      "text": "<s4>Ses</s4>"
+    },
+    {
+      "id": "28e23c4e",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "29e23e21",
+      "bank_id": "40f29600",
+      "text": "Ryan Wilkerson"
+    },
+    {
+      "id": "29f144f3",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2ae23f94",
+      "bank_id": "40f29600",
+      "text": "Jason Shirley"
+    },
+    {
+      "id": "2af14666",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2be24107",
+      "bank_id": "40f29600",
+      "text": "Guy Whitmore"
+    },
+    {
+      "id": "2bf147d9",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2c45b715",
+      "bank_id": "40f29600",
+      "text": "İndir"
+    },
+    {
+      "id": "2ce242fa",
+      "bank_id": "40f29600",
+      "text": "Jeff Linsenbigler (Sakson & Taylor)"
+    },
+    {
+      "id": "2cf1494c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2de2446d",
+      "bank_id": "40f29600",
+      "text": "Kristen Quebe (Sakson & Taylor)"
+    },
+    {
+      "id": "2df14b3f",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2ef14c92",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2fe93f18",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "31c03d48",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "31e9427e",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "32c03f3b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "32e943d1",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "33c040ae",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "33e94544",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "34e94737",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "36c04567",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "36e94a1d",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "37c046da",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "386a198b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "38c0484d",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3a782cce",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3b6a1e44",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3c783014",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3d6a21aa",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3d783187",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3d7f8e80",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3df801a8",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3e4b4dbd",
+      "bank_id": "40f29600",
+      "text": "Kayıt Değiştir"
+    },
+    {
+      "id": "3e6a231d",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3e7f9073",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3ef8031b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3f7834ed",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "407f9359",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "408d8493",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "40f80661",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "418d8606",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "41f807d4",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "425f2920",
+      "bank_id": "40f29600",
+      "text": "Devam Et"
+    },
+    {
+      "id": "428d87f9",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "43743e66",
+      "bank_id": "40f29600",
+      "text": "Korunmasız İlişki"
+    },
+    {
+      "id": "437f9812",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "438d896c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "43b15c27",
+      "bank_id": "40f29600",
+      "text": "Diyaloğu atlayıp görevi kabul etmek için <a_img> tuşunu basılı tutun."
+    },
+    {
+      "id": "43f80b3a",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "448d8adf",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "44f80cad",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "458d8cb2",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4933d56b",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "4978ee60",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "49811d50",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "4a33d6de",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "4a811ec3",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "4b33d8b1",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "4b78f146",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4c78f339",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4c812229",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "4d78f4ac",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4e0c452d",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "4e78f61f",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4e9512f0",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5078f965",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5091cc03",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "509515d6",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5191cdf6",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "51951749",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "52297820",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "5291cf69",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5295193c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5391d0dc",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "53951aaf",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5497c335",
+      "bank_id": "40f29600",
+      "text": "İstatistikler"
+    },
+    {
+      "id": "55165deb",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "55951df5",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "57869418",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5ba97035",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "5bd251f0",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "5c869c37",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5d869daa",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5de79605",
+      "bank_id": "40f29600",
+      "text": "Dil yükleniyor. Lütfen bekleyin."
+    },
+    {
+      "id": "5e869f1d",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5f3e9b18",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6023d1df",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "6123d3b2",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "613e9e7e",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6223d525",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "623e9fd1",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "62803c76",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "631264d6",
+      "bank_id": "40f29600",
+      "text": "Mülkü İncele"
+    },
+    {
+      "id": "64803f5c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "658040cf",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "67209ca5",
+      "bank_id": "40f29600",
+      "text": "Oyundan çıktığınızda deneyiminizin ve altınınızın kaydedilmesi için şimdi bir kayıt seçmelisiniz. Bir kayıt seçmeden devam etmek istiyor musunuz?"
+    },
+    {
+      "id": "67804415",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6a6a059f",
+      "bank_id": "40f29600",
+      "text": "Şimdi İndir"
+    },
+    {
+      "id": "6cbbc040",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6e47a86b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6ebbc3a6",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6f47a9de",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6fbbc519",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7047abb1",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "70bbc68c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "71208433",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7147ad24",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "71bbc87f",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "722085a6",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7247ae97",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "72596c78",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "73208719",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7347b00a",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "73596deb",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "73a1a61b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "73bbcb45",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7420888c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7494e465",
+      "bank_id": "40f29600",
+      "text": "Kayıt Seç"
+    },
+    {
+      "id": "74f5550b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "75208a7f",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "75597131",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "75f556fe",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "76208bd2",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "765972a4",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "76a1aad4",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "76f55851",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "77f559c4",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7859758a",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "78a1ae3a",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "790c4197",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "79167df0",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7959777d",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7999cc6b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "79a1afad",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7a0c430a",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7a99cdde",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7b0c44fd",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7b1680d6",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7b99cfb1",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7c168249",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7c99d124",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7d99d297",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7dda8aeb",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "7de8c4a0",
+      "bank_id": "40f29600",
+      "text": "Seslendirme Prodüksiyon Müdürü: Sini Downing (Side)"
+    },
+    {
+      "id": "7e99d40a",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7ee8c613",
+      "bank_id": "40f29600",
+      "text": "Seslendirme Yönetmeni: Kate Saxon (Side)"
+    },
+    {
+      "id": "7f534a20",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7f7c0553",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7fe8c786",
+      "bank_id": "40f29600",
+      "text": "Seslendirme Prodüksiyonu - Side UK Ltd"
+    },
+    {
+      "id": "805f57a8",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "807c06c6",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "80e8c979",
+      "bank_id": "40f29600",
+      "text": "Seslendirme Kadrosu: Irene Cotton C.D.G., Andy Emery (Side)"
+    },
+    {
+      "id": "813f07a0",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "81534d06",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "815f591b",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "817c08b9",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "81e8caec",
+      "bank_id": "40f29600",
+      "text": "Çocuk Seslendirme Yönetimi: Jacqueline Rice (Side)"
+    },
+    {
+      "id": "82534ef9",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "827c0a2c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "82e8cc5f",
+      "bank_id": "40f29600",
+      "text": "Kayıt Mühendisleri: Phil Evans, Chris Skrzypek,"
+    },
+    {
+      "id": "82fa15a0",
+      "bank_id": "40f29600",
+      "text": "Jason Mai"
+    },
+    {
+      "id": "833f0a86",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "835f5c61",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "837c0b9f",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "83e8ce32",
+      "bank_id": "40f29600",
+      "text": "Ek Seslendirme Yönetimi: Mark Healy (Side)"
+    },
+    {
+      "id": "83ed4b00",
+      "bank_id": "40f29600",
+      "text": "Stan LePard (Panther Modern, LLC)"
+    },
+    {
+      "id": "83fa1713",
+      "bank_id": "40f29600",
+      "text": "<s4>Prodüksiyon</s4>"
+    },
+    {
+      "id": "843f0c79",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "845351df",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "847c0d72",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "84c803d8",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "84e8cfa5",
+      "bank_id": "40f29600",
+      "text": "Ek Seslendirme Yönetimi: Justin Villiers (Side)"
+    },
+    {
+      "id": "84ed4cf3",
+      "bank_id": "40f29600",
+      "text": "Mark Roberts (Panther Modern, LLC)"
+    },
+    {
+      "id": "84fa1886",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "853f0dec",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "857c0ee5",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "85c8054b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "85fa1a79",
+      "bank_id": "40f29600",
+      "text": "<s4>Xbox LIVE Prodüksiyonları</s4>"
+    },
+    {
+      "id": "863f0f5f",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "865f613a",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "867c1058",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "86c8073e",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "86fa1bec",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "877c11cb",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "87e8d47e",
+      "bank_id": "40f29600",
+      "text": "Ant Hales, Andrea Contino, Rob King (Side)"
+    },
+    {
+      "id": "87fa1d5f",
+      "bank_id": "40f29600",
+      "text": "James Stabbert"
+    },
+    {
+      "id": "87fc5c36",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "883f12a5",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "88ef9196",
+      "bank_id": "40f29600",
+      "text": "<s4>Seslendirme</s4>"
+    },
+    {
+      "id": "88fa1f32",
+      "bank_id": "40f29600",
+      "text": "John Rush"
+    },
+    {
+      "id": "88fc5da9",
+      "bank_id": "40f29600",
+      "text": "<s4>Web</s4>"
+    },
+    {
+      "id": "89c80bf7",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "89ef9309",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "89fa20a5",
+      "bank_id": "40f29600",
+      "text": "Dan Price"
+    },
+    {
+      "id": "8a228a3c",
+      "bank_id": "40f29600",
+      "text": "Yatak kullanım bedeli: %1\nFiyat: %2\nToplam: %3"
+    },
+    {
+      "id": "8a727068",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8ac80d6a",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8bc80edd",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8bed57f8",
+      "bank_id": "40f29600",
+      "text": "Tina Chen"
+    },
+    {
+      "id": "8c0152a6",
+      "bank_id": "40f29600",
+      "text": "Burada uyuma bedeli: %1"
+    },
+    {
+      "id": "8c72734e",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8ced596b",
+      "bank_id": "40f29600",
+      "text": "Brian Fetty (Excell Data Corporation)"
+    },
+    {
+      "id": "8cfea24c",
+      "bank_id": "40f29600",
+      "text": "Trevor Hanks"
+    },
+    {
+      "id": "8d727521",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8ded5ade",
+      "bank_id": "40f29600",
+      "text": "Robert Lamb (Volt)"
+    },
+    {
+      "id": "8dfc6548",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "8dfea43a",
+      "bank_id": "40f29600",
+      "text": "Jeff Dubrule"
+    },
+    {
+      "id": "8dfea43f",
+      "bank_id": "40f29600",
+      "text": "J.M. Byrd"
+    },
+    {
+      "id": "8e727694",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8eed5cb1",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "8eef9b28",
+      "bank_id": "40f29600",
+      "text": "Cindy Vanous (NW Connection Services)"
+    },
+    {
+      "id": "8efc673b",
+      "bank_id": "40f29600",
+      "text": "<s4>Kullanıcı Araştırması</s4>"
+    },
+    {
+      "id": "8f727807",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8fed5e24",
+      "bank_id": "40f29600",
+      "text": "<s4>Ses Prodüksiyonu</s4>"
+    },
+    {
+      "id": "8fef9c9b",
+      "bank_id": "40f29600",
+      "text": "<s4>Yayın Editörlüğü</s4>"
+    },
+    {
+      "id": "8ffc68ae",
+      "bank_id": "40f29600",
+      "text": "Jeannie Voirin-Gerde"
+    },
+    {
+      "id": "9028ab60",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "90ed5f97",
+      "bank_id": "40f29600",
+      "text": "Mark Yeend"
+    },
+    {
+      "id": "90ef9e0e",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "90fa2baa",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "90fc6a01",
+      "bank_id": "40f29600",
+      "text": "Rick Achberger (Sakson & Taylor)"
+    },
+    {
+      "id": "90fea8f8",
+      "bank_id": "40f29600",
+      "text": "<s4>Microsoft Özel Teşekkür</s4>"
+    },
+    {
+      "id": "9128acd3",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "91727b6d",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "91ed610a",
+      "bank_id": "40f29600",
+      "text": "Artur Girsky (Panther Modern, LLC)"
+    },
+    {
+      "id": "91ef9fe1",
+      "bank_id": "40f29600",
+      "text": "Phil White (Panther Modern, LLC)"
+    },
+    {
+      "id": "91fa2d1d",
+      "bank_id": "40f29600",
+      "text": "Jason York"
+    },
+    {
+      "id": "91fc6bf4",
+      "bank_id": "40f29600",
+      "text": "Jun Kim"
+    },
+    {
+      "id": "91feaa6b",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "921abd49",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "92ed62fd",
+      "bank_id": "40f29600",
+      "text": "Orville Johnson (Panther Modern, LLC)"
+    },
+    {
+      "id": "92efa154",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "92fc6d67",
+      "bank_id": "40f29600",
+      "text": "Daniel V. Gunn"
+    },
+    {
+      "id": "92feabde",
+      "bank_id": "40f29600",
+      "text": "Wolfgang Blum"
+    },
+    {
+      "id": "931abf3c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "9328b039",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "93efa2c7",
+      "bank_id": "40f29600",
+      "text": "Jerome Hagen"
+    },
+    {
+      "id": "93fc6eda",
+      "bank_id": "40f29600",
+      "text": "Tracey Sellar"
+    },
+    {
+      "id": "93feadb1",
+      "bank_id": "40f29600",
+      "text": "Autumn Allen"
+    },
+    {
+      "id": "93feadb4",
+      "bank_id": "40f29600",
+      "text": "Russ Almond"
+    },
+    {
+      "id": "94114440",
+      "bank_id": "40f29600",
+      "text": "<s4>Kullanıcı Deneyimi</s4>"
+    },
+    {
+      "id": "941ac0af",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "9428b1ac",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "94efa4ba",
+      "bank_id": "40f29600",
+      "text": "<s4>Kullanıcı Araştırması</s4>"
+    },
+    {
+      "id": "94fc704d",
+      "bank_id": "40f29600",
+      "text": "Eric Schuh"
+    },
+    {
+      "id": "94feaf24",
+      "bank_id": "40f29600",
+      "text": "Misty Thomas"
+    },
+    {
+      "id": "95114633",
+      "bank_id": "40f29600",
+      "text": "Whitney Hills"
+    },
+    {
+      "id": "951ac202",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "95efa62d",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "95feb097",
+      "bank_id": "40f29600",
+      "text": "Mark Diller (The Lux Group)"
+    },
+    {
+      "id": "961147a6",
+      "bank_id": "40f29600",
+      "text": "Jimbo Pfeiffer"
+    },
+    {
+      "id": "96205210",
+      "bank_id": "40f29600",
+      "text": "Ryan Atwater (Volt)"
+    },
+    {
+      "id": "9628b4f2",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "964d3483",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "96feb20a",
+      "bank_id": "40f29600",
+      "text": "Kelly Bell"
+    },
+    {
+      "id": "97114919",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "971387f0",
+      "bank_id": "40f29600",
+      "text": "Chris Anderson (Excell Data)"
+    },
+    {
+      "id": "97205383",
+      "bank_id": "40f29600",
+      "text": "Matthew Balkin (Volt)"
+    },
+    {
+      "id": "9728b665",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "97feb3fd",
+      "bank_id": "40f29600",
+      "text": "John Ryan (The Lux Group)"
+    },
+    {
+      "id": "98114a8c",
+      "bank_id": "40f29600",
+      "text": "Natahri Felton"
+    },
+    {
+      "id": "98138963",
+      "bank_id": "40f29600",
+      "text": "Kevin Gordon (Excell Data)"
+    },
+    {
+      "id": "99114c7f",
+      "bank_id": "40f29600",
+      "text": "Greg B. Jones"
+    },
+    {
+      "id": "9a114dd0",
+      "bank_id": "40f29600",
+      "text": "Sam Anderson (Excell Data)"
+    },
+    {
+      "id": "9a114dd1",
+      "bank_id": "40f29600",
+      "text": "Jonathon Bressler (Volt)"
+    },
+    {
+      "id": "9a114dd2",
+      "bank_id": "40f29600",
+      "text": "Steven Duckworth (Excell Data)"
+    },
+    {
+      "id": "9a114dd3",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "9a114dd4",
+      "bank_id": "40f29600",
+      "text": "Jared Frafjord (Excell Data)"
+    },
+    {
+      "id": "9a114dd5",
+      "bank_id": "40f29600",
+      "text": "Matt Hackett (Excell Data)"
+    },
+    {
+      "id": "9a114dd6",
+      "bank_id": "40f29600",
+      "text": "Leif Chappelle (Volt)"
+    },
+    {
+      "id": "9a114dd7",
+      "bank_id": "40f29600",
+      "text": "Jake Farley (Excell Data)"
+    },
+    {
+      "id": "9a114dda",
+      "bank_id": "40f29600",
+      "text": "Aaron Holmes (Volt)"
+    },
+    {
+      "id": "9a114ddb",
+      "bank_id": "40f29600",
+      "text": "Daniel Maret (Excell Data)"
+    },
+    {
+      "id": "9a2f62c6",
+      "bank_id": "40f29600",
+      "text": "Andrew Hopper (Excell Data)"
+    },
+    {
+      "id": "9b114f44",
+      "bank_id": "40f29600",
+      "text": "Melike Ozbulut (Excell Data)"
+    },
+    {
+      "id": "9b114f45",
+      "bank_id": "40f29600",
+      "text": "Shane Nokes (Volt)"
+    },
+    {
+      "id": "9b114f46",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "9b114f47",
+      "bank_id": "40f29600",
+      "text": "Kyle Wescott-McClusky (Excell Data)"
+    },
+    {
+      "id": "9b2298a6",
+      "bank_id": "40f29600",
+      "text": "Rene Legaspi (Volt)"
+    },
+    {
+      "id": "9b2f64b9",
+      "bank_id": "40f29600",
+      "text": "Jesica Horgan (Excell Data)"
+    },
+    {
+      "id": "9c229a19",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "9c69a00f",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "9df4ed58",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "9e205e88",
+      "bank_id": "40f29600",
+      "text": "Joel M. Tippett (Volt)"
+    },
+    {
+      "id": "9e8e76f0",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "9f139468",
+      "bank_id": "40f29600",
+      "text": "Jared Smith (Volt)"
+    },
+    {
+      "id": "9f20607b",
+      "bank_id": "40f29600",
+      "text": "Xhavar Strothers"
+    },
+    {
+      "id": "9f31a95c",
+      "bank_id": "40f29600",
+      "text": "Shane Davis (Excell Data)"
+    },
+    {
+      "id": "9f8e7863",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "9fd16462",
+      "bank_id": "40f29600",
+      "text": "Devam Et"
+    },
+    {
+      "id": "9ff4f0be",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a01395db",
+      "bank_id": "40f29600",
+      "text": "Kris Sletten (Volt)"
+    },
+    {
+      "id": "a02061ee",
+      "bank_id": "40f29600",
+      "text": "James Cook"
+    },
+    {
+      "id": "a02f6c58",
+      "bank_id": "40f29600",
+      "text": "Luis Delgado-Eberhardt (Volt)"
+    },
+    {
+      "id": "a031aacf",
+      "bank_id": "40f29600",
+      "text": "Mario Curro (Volt)"
+    },
+    {
+      "id": "a08e79d6",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a0f4f211",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a113974e",
+      "bank_id": "40f29600",
+      "text": "Matt Wolff (Excell Data)"
+    },
+    {
+      "id": "a1206341",
+      "bank_id": "40f29600",
+      "text": "Brian Gish"
+    },
+    {
+      "id": "a122a238",
+      "bank_id": "40f29600",
+      "text": "Chun-Kai Wang"
+    },
+    {
+      "id": "a12f6dcb",
+      "bank_id": "40f29600",
+      "text": "Zachary Ford (Excell Data)"
+    },
+    {
+      "id": "a18e7b49",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a1a469c5",
+      "bank_id": "40f29600",
+      "text": "Kapalı"
+    },
+    {
+      "id": "a2115a4a",
+      "bank_id": "40f29600",
+      "text": "Rich Bryant"
+    },
+    {
+      "id": "a2139921",
+      "bank_id": "40f29600",
+      "text": "Darren Watson (Excell Data)"
+    },
+    {
+      "id": "a2206534",
+      "bank_id": "40f29600",
+      "text": "Daniel Buehner (Volt)"
+    },
+    {
+      "id": "a222a3ab",
+      "bank_id": "40f29600",
+      "text": "Sean Dayé Gubelman"
+    },
+    {
+      "id": "a224e202",
+      "bank_id": "40f29600",
+      "text": "Kevin Dodd"
+    },
+    {
+      "id": "a22f6fbe",
+      "bank_id": "40f29600",
+      "text": "Dalrek Davis (Volt)"
+    },
+    {
+      "id": "a2f4f577",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a3115c3d",
+      "bank_id": "40f29600",
+      "text": "Dana Fos"
+    },
+    {
+      "id": "a3139a94",
+      "bank_id": "40f29600",
+      "text": "Soren Laulainen (Volt)"
+    },
+    {
+      "id": "a32066a7",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "a322a51e",
+      "bank_id": "40f29600",
+      "text": "Mohamed Awam Zoweil"
+    },
+    {
+      "id": "a324e3f5",
+      "bank_id": "40f29600",
+      "text": "Ram Ki$hore Alavalapati"
+    },
+    {
+      "id": "a32bc821",
+      "bank_id": "40f29600",
+      "text": "Mülke izinsiz girdiniz. Bu yatağı kullanmak istediğinizden emin misiniz?"
+    },
+    {
+      "id": "a32f7111",
+      "bank_id": "40f29600",
+      "text": "Derek DeHoogh (Volt)"
+    },
+    {
+      "id": "a331af88",
+      "bank_id": "40f29600",
+      "text": "Nathan Boroughs (Volt)"
+    },
+    {
+      "id": "a38e7eaf",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a4139c07",
+      "bank_id": "40f29600",
+      "text": "Thomas Wollam (Excell Data)"
+    },
+    {
+      "id": "a420681a",
+      "bank_id": "40f29600",
+      "text": "Eric Anderson (Volt)"
+    },
+    {
+      "id": "a422a6f1",
+      "bank_id": "40f29600",
+      "text": "Jeffrey Kafer"
+    },
+    {
+      "id": "a424e568",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "a42f7284",
+      "bank_id": "40f29600",
+      "text": "Chad Hale (Volt)"
+    },
+    {
+      "id": "a431b17b",
+      "bank_id": "40f29600",
+      "text": "Nicolle Blackwell (Volt)"
+    },
+    {
+      "id": "a48e8002",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a5139dfa",
+      "bank_id": "40f29600",
+      "text": "Vernon Rollins (Excell Data)"
+    },
+    {
+      "id": "a5149b33",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a520698d",
+      "bank_id": "40f29600",
+      "text": "Matt Antonellis (Excell Data)"
+    },
+    {
+      "id": "a522a860",
+      "bank_id": "40f29600",
+      "text": "Desmond Murray"
+    },
+    {
+      "id": "a522a861",
+      "bank_id": "40f29600",
+      "text": "Joe Whitman"
+    },
+    {
+      "id": "a522a864",
+      "bank_id": "40f29600",
+      "text": "Ben Ahroni"
+    },
+    {
+      "id": "a522a865",
+      "bank_id": "40f29600",
+      "text": "Tony Bradley"
+    },
+    {
+      "id": "a522a866",
+      "bank_id": "40f29600",
+      "text": "Steve Larson"
+    },
+    {
+      "id": "a522a867",
+      "bank_id": "40f29600",
+      "text": "Lewis Liaw"
+    },
+    {
+      "id": "a524e6db",
+      "bank_id": "40f29600",
+      "text": "Jeff MacDermot"
+    },
+    {
+      "id": "a52f7477",
+      "bank_id": "40f29600",
+      "text": "Brian Hayward (Volt)"
+    },
+    {
+      "id": "a531b2ee",
+      "bank_id": "40f29600",
+      "text": "Jordan Cumming (Excell Data)"
+    },
+    {
+      "id": "a58e81f5",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a6139f6d",
+      "bank_id": "40f29600",
+      "text": "Robert Gummersall (Volt)"
+    },
+    {
+      "id": "a6149ca6",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a622a9d7",
+      "bank_id": "40f29600",
+      "text": "Russ Glaeser"
+    },
+    {
+      "id": "a624e84e",
+      "bank_id": "40f29600",
+      "text": "Jami Johns"
+    },
+    {
+      "id": "a62f75ea",
+      "bank_id": "40f29600",
+      "text": "David Foster (Volt)"
+    },
+    {
+      "id": "a631b441",
+      "bank_id": "40f29600",
+      "text": "Sean Colbert (Volt)"
+    },
+    {
+      "id": "a7149e19",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a722ab4a",
+      "bank_id": "40f29600",
+      "text": "Tim Duzmal"
+    },
+    {
+      "id": "a724ea21",
+      "bank_id": "40f29600",
+      "text": "Craig Marshall"
+    },
+    {
+      "id": "a72f775d",
+      "bank_id": "40f29600",
+      "text": "Matt Giddings (Volt)"
+    },
+    {
+      "id": "a731b634",
+      "bank_id": "40f29600",
+      "text": "Jared Barnhill (Excell Data)"
+    },
+    {
+      "id": "a7e54332",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "a8149f8c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a822ad3d",
+      "bank_id": "40f29600",
+      "text": "Mark Grimm"
+    },
+    {
+      "id": "a824eb94",
+      "bank_id": "40f29600",
+      "text": "<s4>Test</s4>"
+    },
+    {
+      "id": "a831b7a7",
+      "bank_id": "40f29600",
+      "text": "Chris Barker (Excell Data)"
+    },
+    {
+      "id": "a924ed07",
+      "bank_id": "40f29600",
+      "text": "Patrick Barker"
+    },
+    {
+      "id": "a931b91a",
+      "bank_id": "40f29600",
+      "text": "Matt Benson (Volt)"
+    },
+    {
+      "id": "a9e54618",
+      "bank_id": "40f29600",
+      "text": "<s4>İş Geliştirme</s4>"
+    },
+    {
+      "id": "aa24eefa",
+      "bank_id": "40f29600",
+      "text": "Amritz Lay"
+    },
+    {
+      "id": "aa31ba8d",
+      "bank_id": "40f29600",
+      "text": "Scott Beier (Excell Data)"
+    },
+    {
+      "id": "aa8e8994",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "aae5478b",
+      "bank_id": "40f29600",
+      "text": "Nancy Figatner"
+    },
+    {
+      "id": "ab24f06d",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "ab8e8b07",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "abe5497e",
+      "bank_id": "40f29600",
+      "text": "Shoko Iwano"
+    },
+    {
+      "id": "ace54ad1",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "ade54c44",
+      "bank_id": "40f29600",
+      "text": "Peter Sjoquist (Rompus Recordings Inc.)"
+    },
+    {
+      "id": "aee54e37",
+      "bank_id": "40f29600",
+      "text": "Kyle Fraser (Volt)"
+    },
+    {
+      "id": "afe54faa",
+      "bank_id": "40f29600",
+      "text": "Ken Kato"
+    },
+    {
+      "id": "b0e5511d",
+      "bank_id": "40f29600",
+      "text": "Peter Comley"
+    },
+    {
+      "id": "b5699b53",
+      "bank_id": "40f29600",
+      "text": "İptal"
+    },
+    {
+      "id": "b954e95b",
+      "bank_id": "40f29600",
+      "text": "Aç/Kapa"
+    },
+    {
+      "id": "bfdd546f",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "c1eeecc5",
+      "bank_id": "40f29600",
+      "text": "İptal"
+    },
+    {
+      "id": "c5aa1009",
+      "bank_id": "40f29600",
+      "text": "%1 deneyim kaybettiniz."
+    },
+    {
+      "id": "c7e70b20",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c8e9f5da",
+      "bank_id": "40f29600",
+      "text": "Bedel: %1\nYeterli altınınız yok."
+    },
+    {
+      "id": "c9e70e06",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cae70ff9",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cb500676",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cbd4184b",
+      "bank_id": "40f29600",
+      "text": "<s4>Microsoft Game Studios</s4>"
+    },
+    {
+      "id": "cbe7116c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ccd41a3e",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "cce712df",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cd50095c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cdb332b7",
+      "bank_id": "40f29600",
+      "text": "Bırak"
+    },
+    {
+      "id": "ce48efa4",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "ce500acf",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cee71625",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d0500e15",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d3661fa1",
+      "bank_id": "40f29600",
+      "text": "Korunmalı İlişki"
+    },
+    {
+      "id": "d8a84030",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "daa84316",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "dab4b3f1",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "db05329e",
+      "bank_id": "40f29600",
+      "text": "Yüzerken silah kuşanamazsınız."
+    },
+    {
+      "id": "dba84489",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "dca8467c",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "dd40d3e8",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "dda847ef",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "de40d55b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "de6f20bf",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "df40d6ce",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "df6f2212",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "dfa84b35",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "dfccc6c6",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "e06f2385",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "e1ccca2c",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "e240db87",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e2cccb9f",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "e340dd7a",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e36676ed",
+      "bank_id": "40f29600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "e440deed",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e4cccee5",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "eb3efcb4",
+      "bank_id": "40f29600",
+      "text": "Bu kayıtlı oyun bozuk ve yüklenemiyor."
+    },
+    {
+      "id": "ed62bbf8",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "ee62bd6b",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "f0294e8e",
+      "bank_id": "40f29600",
+      "text": "Etkinleştir"
+    },
+    {
+      "id": "f162c224",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "f362c50a",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "f462c6fd",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "f566ae59",
+      "bank_id": "40f29600",
+      "text": "Açık"
+    },
+    {
+      "id": "fc500ffb",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "fcf4c540",
+      "bank_id": "40f29600",
+      "text": "<s4>Görsel Tasarım</s4>"
+    },
+    {
+      "id": "fd50116e",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "fdf4c733",
+      "bank_id": "40f29600",
+      "text": " "
+    },
+    {
+      "id": "fe5012c1",
+      "bank_id": "40f29600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "fe59aea1",
+      "bank_id": "40f29600",
+      "text": "%1 elde ettiniz."
+    },
+    {
+      "id": "fef11d8b",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fef4c8a6",
+      "bank_id": "40f29600",
+      "text": "Anton Bogaty (FILTER)"
+    },
+    {
+      "id": "fff11f7e",
+      "bank_id": "40f29600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fff4ca19",
+      "bank_id": "40f29600",
+      "text": "Stephen Peringer"
+    },
+    {
+      "id": "fff708f0",
+      "bank_id": "40f29600",
+      "text": "Kutta Srinivasan"
+    },
+    {
+      "id": "ffff9be0",
+      "bank_id": "40f29600",
+      "text": "Boş Yuva"
+    }
+  ]
+}

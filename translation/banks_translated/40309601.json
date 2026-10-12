@@ -1,0 +1,621 @@
+{
+  "bank_id": "40309601",
+  "total_strings": 123,
+  "strings": [
+    {
+      "id": "06958ad8",
+      "bank_id": "40309601",
+      "text": "Hepimiz ipek ve kürk giymeye başlasak iyi olacak. Zengin olduk artık, bilmiyor musun yoksa."
+    },
+    {
+      "id": "06958ad9",
+      "bank_id": "40309601",
+      "text": "Ekonomi bu tempoyu sürdüremez. Yakında bir gün hepsi tepetaklak çökecek, görürsünüz bak."
+    },
+    {
+      "id": "06958add",
+      "bank_id": "40309601",
+      "text": "Albion'un en güzel köylerinden birinde yaşıyoruz."
+    },
+    {
+      "id": "06958ade",
+      "bank_id": "40309601",
+      "text": "Bu köy daha da büyüyebilir mi acaba? İmkânsız herhalde."
+    },
+    {
+      "id": "06958adf",
+      "bank_id": "40309601",
+      "text": "Bu işlerden anlayanların dediğine göre ekonomi daha önce hiç görülmemiş bir zirvede."
+    },
+    {
+      "id": "0ca11acd",
+      "bank_id": "40309601",
+      "text": "Kes şunu!"
+    },
+    {
+      "id": "11959c08",
+      "bank_id": "40309601",
+      "text": "Bu kasabanın böylesine bereketli olması bir nevi mucize. Dilerim hep böyle sürer."
+    },
+    {
+      "id": "11959c09",
+      "bank_id": "40309601",
+      "text": "İşlerimiz bu kadar iyi gidiyorken haydutların ve yolkesenlerin hedefi olmamız kaçınılmaz."
+    },
+    {
+      "id": "11959c0c",
+      "bank_id": "40309601",
+      "text": "Çocuklarım nihayet istedikleri her şeye kavuşabiliyor. Üstelik tek bir işte çalışmam yetiyor!"
+    },
+    {
+      "id": "11959c0e",
+      "bank_id": "40309601",
+      "text": "Sonunda yoksul olmamak pek tuhaf hissettiriyor. Yakında hepimiz saraylarda yaşayacağız!"
+    },
+    {
+      "id": "11959c0f",
+      "bank_id": "40309601",
+      "text": "Dükkânlar ateş pahası ama bugünlerde bunu beklemek lazım zaten."
+    },
+    {
+      "id": "161ae270",
+      "bank_id": "40309601",
+      "text": "Madem durumumuz bu kadar iyi, sokakları elmaslarla falan döşememiz gerekmez miydi sizce de?"
+    },
+    {
+      "id": "161ae271",
+      "bank_id": "40309601",
+      "text": "Bu çeyrek ne muazzam bir mali lütfa dönüştü böyle. Siz de katılmaz mısınız?"
+    },
+    {
+      "id": "161ae272",
+      "bank_id": "40309601",
+      "text": "Bu kira fiyatları daha da yükselemez herhalde. Sırf ekonomi bu kadar iyi gidiyor diye mi yani?"
+    },
+    {
+      "id": "161ae273",
+      "bank_id": "40309601",
+      "text": "Altın içinde yüzüyoruz valla! Buranın adını Zenginlik Şehri koymalılar!"
+    },
+    {
+      "id": "161ae274",
+      "bank_id": "40309601",
+      "text": "Bu kasaba daha önce hiç olmadığı kadar gelişip serpiliyor."
+    },
+    {
+      "id": "161ae275",
+      "bank_id": "40309601",
+      "text": "Buranın bir gün bu kadar zenginleşeceği kimin aklına gelirdi? Dükkânlardaki fiyatlara baksanıza bir."
+    },
+    {
+      "id": "161ae277",
+      "bank_id": "40309601",
+      "text": "Bir nevi altın çağın içinden geçiyor olmalıyız!"
+    },
+    {
+      "id": "17a12c7c",
+      "bank_id": "40309601",
+      "text": "Hiç hoşuma gitmedi bu!"
+    },
+    {
+      "id": "1d1aed78",
+      "bank_id": "40309601",
+      "text": "Buraya bolluk diyarı diyecekler. Hakikaten her şeyimiz bol maşallah!"
+    },
+    {
+      "id": "1d1aed79",
+      "bank_id": "40309601",
+      "text": "Ne devirde yaşıyoruz ama! Albion'un en zengin kasabası olabilir burası!"
+    },
+    {
+      "id": "1d1aed7a",
+      "bank_id": "40309601",
+      "text": "Bu kasaba daha önce hiç bu kadar varlıklı olmamıştı!"
+    },
+    {
+      "id": "1d1aed7c",
+      "bank_id": "40309601",
+      "text": "Görülmemiş bir refah döneminden geçiyoruz. Fırsatımız varken tadını çıkaralım."
+    },
+    {
+      "id": "1d1aed7d",
+      "bank_id": "40309601",
+      "text": "Bu kasaba zenginliğin kitabını yazdı resmen. Hem de şimdi her zamankinden çok."
+    },
+    {
+      "id": "1d1aed7e",
+      "bank_id": "40309601",
+      "text": "Bugünlerde her şey amma da pahalı ha. Neyse ki ben de her zamankinden daha zenginim."
+    },
+    {
+      "id": "1d1aed7f",
+      "bank_id": "40309601",
+      "text": "Lüks! Yaşadığımız şey tam olarak bu işte! Katıksız lüks!"
+    },
+    {
+      "id": "1d503960",
+      "bank_id": "40309601",
+      "text": "Kasabamız sadece mimari açıdan değil, mali açıdan da her daim sağlam temellere sahip olmuştur."
+    },
+    {
+      "id": "1d503961",
+      "bank_id": "40309601",
+      "text": "Burasıyla ilgili hayran kaldığım ve keyif aldığım bir şey varsa o da ekonomik istikrardır."
+    },
+    {
+      "id": "1d503962",
+      "bank_id": "40309601",
+      "text": "Fiyatlar eskiden daha düşüktü gerçi ama en azından şimdi cebimizde bir şeyler alacak altınımız var."
+    },
+    {
+      "id": "1d503963",
+      "bank_id": "40309601",
+      "text": "Burası öyle hemen saraylarla dolup taşmayacak belki ama en azından istediğimiz kadar içkiye paramız yetiyor."
+    },
+    {
+      "id": "1d503964",
+      "bank_id": "40309601",
+      "text": "Kendi evimi almaya gücüm yeter mi henüz emin değilim ama işler pek fena gitmiyor."
+    },
+    {
+      "id": "1d503965",
+      "bank_id": "40309601",
+      "text": "Bu kasabada yaşamayı hep sevmişimdir."
+    },
+    {
+      "id": "1d503967",
+      "bank_id": "40309601",
+      "text": "İşimi koruyabildiğim müddetçe her şey yolunda gider herhalde."
+    },
+    {
+      "id": "24504468",
+      "bank_id": "40309601",
+      "text": "Burada sadece birkaç yıldır yaşıyorum ama eski yerimden katbekat daha iyi."
+    },
+    {
+      "id": "24504469",
+      "bank_id": "40309601",
+      "text": "Şimdi biraz kenara para atmanın tam zamanı, ne olur ne olmaz."
+    },
+    {
+      "id": "2450446a",
+      "bank_id": "40309601",
+      "text": "Buralarda büyüdüğüm zamanları hatırlıyorum da, bunun yanından bile geçecek sayıda dükkân ve ev yoktu."
+    },
+    {
+      "id": "2450446c",
+      "bank_id": "40309601",
+      "text": "Bu kasabanın mimarisi tek kelimeyle harika değil mi sizce de?"
+    },
+    {
+      "id": "2450446d",
+      "bank_id": "40309601",
+      "text": "Şunu söylemeliyim ki, paramın beni sıradan bir insandan üstün kıldığını bilmenin huzuruyla her gece mışıl mışıl uyuyorum."
+    },
+    {
+      "id": "2450446e",
+      "bank_id": "40309601",
+      "text": "Sonunda sadece karın tokluğuna yaşamaktan fazlasını karşılayabilmek amma değişiklik oldu ha."
+    },
+    {
+      "id": "2450446f",
+      "bank_id": "40309601",
+      "text": "Buralarda eskisi kadar çok dilenci görmüyorsunuz artık."
+    },
+    {
+      "id": "339cdb00",
+      "bank_id": "40309601",
+      "text": "Darlamayı kes beni!"
+    },
+    {
+      "id": "339cdb01",
+      "bank_id": "40309601",
+      "text": "Beni darlamayı bırak!"
+    },
+    {
+      "id": "339cdb02",
+      "bank_id": "40309601",
+      "text": "Şu tacizi kesin artık!"
+    },
+    {
+      "id": "339cdb04",
+      "bank_id": "40309601",
+      "text": "Çek elini üstümden seni canavar!"
+    },
+    {
+      "id": "339cdb05",
+      "bank_id": "40309601",
+      "text": "Başımın etini yemeyi bırak!"
+    },
+    {
+      "id": "339cdb06",
+      "bank_id": "40309601",
+      "text": "Beni taciz etmeyi kesin!"
+    },
+    {
+      "id": "339cdb07",
+      "bank_id": "40309601",
+      "text": "Rahat bırak beni!"
+    },
+    {
+      "id": "3b317f22",
+      "bank_id": "40309601",
+      "text": "Rahat bırak beni!"
+    },
+    {
+      "id": "3b317f23",
+      "bank_id": "40309601",
+      "text": "Defol git!"
+    },
+    {
+      "id": "3b317f24",
+      "bank_id": "40309601",
+      "text": "Diyorum sana, rahat bırak beni!"
+    },
+    {
+      "id": "3b317f25",
+      "bank_id": "40309601",
+      "text": "Yıkıl karşımdan öyleyse!"
+    },
+    {
+      "id": "3b317f27",
+      "bank_id": "40309601",
+      "text": "Rahat bırak beni!"
+    },
+    {
+      "id": "3c9ce968",
+      "bank_id": "40309601",
+      "text": "Çekilir dert değil bu!"
+    },
+    {
+      "id": "3c9ce969",
+      "bank_id": "40309601",
+      "text": "Annen görse ne derdi acaba?"
+    },
+    {
+      "id": "3c9ce96a",
+      "bank_id": "40309601",
+      "text": "Defol git!"
+    },
+    {
+      "id": "3c9ce96b",
+      "bank_id": "40309601",
+      "text": "Defol bakayım!"
+    },
+    {
+      "id": "3c9ce96c",
+      "bank_id": "40309601",
+      "text": "Çekil üstümden!"
+    },
+    {
+      "id": "3c9ce96f",
+      "bank_id": "40309601",
+      "text": "Kes şunu!"
+    },
+    {
+      "id": "42318a29",
+      "bank_id": "40309601",
+      "text": "Uyarıyorum seni, bu düpedüz taciz!"
+    },
+    {
+      "id": "42318a2a",
+      "bank_id": "40309601",
+      "text": "Tacizden başka bir şey değil bu!"
+    },
+    {
+      "id": "42318a2c",
+      "bank_id": "40309601",
+      "text": "Bu düpedüz taciz!"
+    },
+    {
+      "id": "42318a2d",
+      "bank_id": "40309601",
+      "text": "Bu rezil davranışa derhâl son verin!"
+    },
+    {
+      "id": "42318a2e",
+      "bank_id": "40309601",
+      "text": "Bu düpedüz taciz!"
+    },
+    {
+      "id": "42318a2f",
+      "bank_id": "40309601",
+      "text": "Katıksız taciz bu, başka bir şey değil!"
+    },
+    {
+      "id": "503fd888",
+      "bank_id": "40309601",
+      "text": "Bu artık ekonomik bir durgunluk değil. Kasaba resmen krizde!"
+    },
+    {
+      "id": "503fd889",
+      "bank_id": "40309601",
+      "text": "Can çekişen ekonomimizi canlandırmak için bir şeyler yapmalıyız!"
+    },
+    {
+      "id": "503fd88a",
+      "bank_id": "40309601",
+      "text": "İşler artık sadece kıt değil. Resmen köküne kıran girdi!"
+    },
+    {
+      "id": "503fd88b",
+      "bank_id": "40309601",
+      "text": "Para bir süre fena halde sıkıntı olacak."
+    },
+    {
+      "id": "503fd88c",
+      "bank_id": "40309601",
+      "text": "Buranın çivisi çıktı valla!"
+    },
+    {
+      "id": "503fd88d",
+      "bank_id": "40309601",
+      "text": "Ekonomi bu haldeyken bu seneyi sağ salim atlatırsak ne âlâ."
+    },
+    {
+      "id": "503fd88e",
+      "bank_id": "40309601",
+      "text": "Lafı dolandırmaya gerek yok, bu kasaba resesyondan geçiyor."
+    },
+    {
+      "id": "593fe6d8",
+      "bank_id": "40309601",
+      "text": "Artık asla iş bulamayacağım. Bu kasabanın başına kara kış çöktü."
+    },
+    {
+      "id": "593fe6d9",
+      "bank_id": "40309601",
+      "text": "İşler yakında düzelmezse hepimiz sokaklara düşeceğiz."
+    },
+    {
+      "id": "593fe6db",
+      "bank_id": "40309601",
+      "text": "Buralarda ekonomi tez zamanda toparlansa iyi olur, yoksa hepimizin başı fena halde belada."
+    },
+    {
+      "id": "593fe6dc",
+      "bank_id": "40309601",
+      "text": "Mahvolacağız! Bu mali buhranı nasıl atlatacağız biz??"
+    },
+    {
+      "id": "593fe6dd",
+      "bank_id": "40309601",
+      "text": "Ekonomimiz çöktü mü yani? Buna nasıl göz yumabildik?"
+    },
+    {
+      "id": "593fe6de",
+      "bank_id": "40309601",
+      "text": "Hepimiz hobbe'ler kadar züğürt kalacağız!"
+    },
+    {
+      "id": "593fe6df",
+      "bank_id": "40309601",
+      "text": "Bütün paramı kumarda heba etmek yerine kenara altın koysaydım keşke. Şimdi mahvoldum işte."
+    },
+    {
+      "id": "63243fb3",
+      "bank_id": "40309601",
+      "text": "İşlerimden birini bırakıp yine de ailemi doyurabileceğim bir gün göreceğim hiç aklıma gelmezdi."
+    },
+    {
+      "id": "63243fb4",
+      "bank_id": "40309601",
+      "text": "Bu bereketli ekonominin tek kusuru herkesin beni soymaya kalkışacak olması."
+    },
+    {
+      "id": "63243fb5",
+      "bank_id": "40309601",
+      "text": "Cebimi yakan koca bir kese dolusu altınım var. Mecazen tabii. Gerçek olsaydı avazım çıktığı kadar bağırırdım."
+    },
+    {
+      "id": "96c5a765",
+      "bank_id": "40309601",
+      "text": "Beni sokakta tutmaya yetecek kadar bile para veremiyorlar. Ben de suça başlayacağım en sonunda!"
+    },
+    {
+      "id": "96c5a766",
+      "bank_id": "40309601",
+      "text": "Bu sefalet dolu zamanlarda dikkatli olmalısın. Her yer hırsız kaynıyor."
+    },
+    {
+      "id": "9cb7375d",
+      "bank_id": "40309601",
+      "text": "Ekonominin iyi gittiğini anlayabiliyorsun. Çoğu insanın yüzünde bir tebessüm var."
+    },
+    {
+      "id": "9cb7375e",
+      "bank_id": "40309601",
+      "text": "Ekonomi iyi gidiyor, bu yüzden suç oranı da düşer derler. Teori öyle en azından."
+    },
+    {
+      "id": "a61de848",
+      "bank_id": "40309601",
+      "text": "Ekonomiyi ahmakların yönetmesine izin verirsen olacağı bu işte. Doğruca bataklığa sürükleniyor."
+    },
+    {
+      "id": "a61de849",
+      "bank_id": "40309601",
+      "text": "Haydutların ekonomi derdine düştüğünü görmezsin değil mi? Hayat onlara güzel valla..."
+    },
+    {
+      "id": "a61de84d",
+      "bank_id": "40309601",
+      "text": "İşler böyle giderse işsizlik kuyruğunda uzun bir sıra olacak."
+    },
+    {
+      "id": "a61de84e",
+      "bank_id": "40309601",
+      "text": "Ödenek alamıyoruz derken ne demek istiyorsun? İşler daha da kötüye giderse nasıl hayatta kalacağım ben?"
+    },
+    {
+      "id": "a61de84f",
+      "bank_id": "40309601",
+      "text": "Bana nasıl çalıştığını sorma. Tek bildiğim ekonomik bir çöküşün içinde olduğumuz."
+    },
+    {
+      "id": "b11df9f8",
+      "bank_id": "40309601",
+      "text": "Son kez söylüyorum, öyle kötü yollara düşecek değilim! Ekonomi ne kadar batarsa batsın!"
+    },
+    {
+      "id": "b11df9f9",
+      "bank_id": "40309601",
+      "text": "Ormanda çer çöp toplamaya geri döneceğiz anlaşılan. Buralarda zerre iş kalmadı."
+    },
+    {
+      "id": "b11df9fc",
+      "bank_id": "40309601",
+      "text": "Bütün dükkânlar indirime gitmek zorunda kalıyor ama yine de çoğumuzun hiçbir şeye gücü yetmiyor."
+    },
+    {
+      "id": "b11df9fe",
+      "bank_id": "40309601",
+      "text": "Bütün kasaba iflasa doğru sürükleniyor. Bir şeylerin tez vakitte değişmesi lazım."
+    },
+    {
+      "id": "b11df9ff",
+      "bank_id": "40309601",
+      "text": "Kara günler kapıda. Ve neredeyse hiç birikimimiz yok!"
+    },
+    {
+      "id": "e5848391",
+      "bank_id": "40309601",
+      "text": "İflas eden tek kişi sen değilsin. Bütün kasaba aynı gemide."
+    },
+    {
+      "id": "e5848392",
+      "bank_id": "40309601",
+      "text": "Kenara para koyman gereken kara günler bunlar işte. Ah keşke koysaydım..."
+    },
+    {
+      "id": "e5848393",
+      "bank_id": "40309601",
+      "text": "Dükkânlarda yiyecek yok, hiçbir yerde iş yok... Uzun bir süre aç kalacağız..."
+    },
+    {
+      "id": "e5848394",
+      "bank_id": "40309601",
+      "text": "Haydut olmalıydım biliyordum işte. Bak onda iş garantisi var en azından."
+    },
+    {
+      "id": "e5848395",
+      "bank_id": "40309601",
+      "text": "Piyasa dengeleri çökünce olacağı budur işte. Resmen lağım çukuruna terk edildik!"
+    },
+    {
+      "id": "ee13a7a0",
+      "bank_id": "40309601",
+      "text": "Mali işlerle kafamı yormam pek. Ama son zamanlarda muhasebecimin epey gerildiğini fark ettim."
+    },
+    {
+      "id": "ee13a7a1",
+      "bank_id": "40309601",
+      "text": "Doğruca bir buhrana sürükleniyor olabiliriz. Tek dileğim muazzam servetimize zeval gelmemesi."
+    },
+    {
+      "id": "ee13a7a2",
+      "bank_id": "40309601",
+      "text": "Sırf karnımı doyurabilmek için bir işe daha girmem gerekecek. Bu üçüncüsü olacak."
+    },
+    {
+      "id": "ee13a7a3",
+      "bank_id": "40309601",
+      "text": "Buralarda her şey niye bu kadar ters gidiyor hiç bilmiyorum. Ticaretle alakalı bir şey diyorlar."
+    },
+    {
+      "id": "ee13a7a4",
+      "bank_id": "40309601",
+      "text": "Her yerde fiyatlar düşüyor ama harcayacak yeterince altınımız yine de yok."
+    },
+    {
+      "id": "ee13a7a5",
+      "bank_id": "40309601",
+      "text": "Bir yerlerde birileri zengin oluyor ama biz olmadığımız kesin."
+    },
+    {
+      "id": "ee13a7a7",
+      "bank_id": "40309601",
+      "text": "Diyorum sana, ticaret canlanmazsa bu kasabanın başı fena halde belaya girecek."
+    },
+    {
+      "id": "ef1f87b1",
+      "bank_id": "40309601",
+      "text": "Ah, ekonomi böylesine tavan yapmışken emeklilik sandığını doldurmam işten bile değil."
+    },
+    {
+      "id": "ef1f87b2",
+      "bank_id": "40309601",
+      "text": "Bu kasabanın ekonomisi için bir altın çağda yaşadığımızı söylüyorlar. Benim altınlar nerede öyleyse?"
+    },
+    {
+      "id": "f08494c0",
+      "bank_id": "40309601",
+      "text": "Buralarda böylesi bir çöküş göreceğim hiç aklıma gelmezdi."
+    },
+    {
+      "id": "f08494c2",
+      "bank_id": "40309601",
+      "text": "İflas ettik! Durumumuz tam olarak bu! Her şey bitti!"
+    },
+    {
+      "id": "f08494c3",
+      "bank_id": "40309601",
+      "text": "Herkesin yüzünden okunuyor. Hepsi altın derdine düşmüş durumda."
+    },
+    {
+      "id": "f08494c4",
+      "bank_id": "40309601",
+      "text": "Altın bulmak bu kadar zorlaşmışken neyle yaşayacağımızı bulamazsak senenin sonunu göremeyiz valla."
+    },
+    {
+      "id": "f08494c5",
+      "bank_id": "40309601",
+      "text": "Ekonomi köpeklerin eline kaldı! Hobbe köpeklerinin eline!"
+    },
+    {
+      "id": "f513b2a8",
+      "bank_id": "40309601",
+      "text": "Dükkânlarda fiyatlar düşüyor ama bugünlerde bir şeyleri karşılamak yine de giderek zorlaşıyor."
+    },
+    {
+      "id": "f513b2a9",
+      "bank_id": "40309601",
+      "text": "İş imkânları günden güne tükeniyor."
+    },
+    {
+      "id": "f513b2aa",
+      "bank_id": "40309601",
+      "text": "Ekonomi tez vakitte toparlansa iyi olur, yoksa çok çetin günler bizi bekliyor."
+    },
+    {
+      "id": "f513b2ac",
+      "bank_id": "40309601",
+      "text": "Bu ekonomik durgunluğun daha da kötüleşmesine izin veremeyiz. Aramızdaki en zenginler için bile felaket anlamına gelebilir bu."
+    },
+    {
+      "id": "f513b2ad",
+      "bank_id": "40309601",
+      "text": "Görünüşe göre çetin bir ekonomik iklime doğru ilerliyoruz. Mali şemsiyelerinizi hazırlama vaktidir."
+    },
+    {
+      "id": "f513b2ae",
+      "bank_id": "40309601",
+      "text": "Kira fiyatlarının düşmesi iyi oldu. Gerçi hâlâ yerin dibindeki bir delikten fazlasına gücüm yetmiyor ya."
+    },
+    {
+      "id": "f513b2af",
+      "bank_id": "40309601",
+      "text": "Bana kalırsa kara günlere doğru gidiyoruz. Son mali tahminleri gördün mü hiç? Ne demek neyden bahsettiğimi bilmiyorsun?"
+    },
+    {
+      "id": "fc0d71a1",
+      "bank_id": "40309601",
+      "text": "Ekonomi bu kadar kötüye giderken suç oranının tavan yapmasına şaşmamalı tabii."
+    },
+    {
+      "id": "fc0d71a2",
+      "bank_id": "40309601",
+      "text": "Sırf resesyon var diye maaşlarımızı düşürmeye kalkmasalar iyi ederler."
+    }
+  ]
+}

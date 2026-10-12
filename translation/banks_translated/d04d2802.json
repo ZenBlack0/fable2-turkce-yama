@@ -1,0 +1,866 @@
+{
+  "bank_id": "d04d2802",
+  "total_strings": 172,
+  "strings": [
+    {
+      "id": "005ad510",
+      "bank_id": "d04d2802",
+      "text": "Şu gülmekten kırıp geçiren köpeksin sen, değil mi?"
+    },
+    {
+      "id": "005ad511",
+      "bank_id": "d04d2802",
+      "text": "Sahibin kadar komik misin sen de? Öylesindir bahse girerim!"
+    },
+    {
+      "id": "005ad512",
+      "bank_id": "d04d2802",
+      "text": "Bize komik numaralar sergileyecek misin?"
+    },
+    {
+      "id": "005ad514",
+      "bank_id": "d04d2802",
+      "text": "Keşke bütün hayvanlar senin mizah anlayışına sahip olsaydı."
+    },
+    {
+      "id": "005ad515",
+      "bank_id": "d04d2802",
+      "text": "Herkesi kahkahalara boğan o hayvansın sen!"
+    },
+    {
+      "id": "005ad516",
+      "bank_id": "d04d2802",
+      "text": "Hadi bakalım köpek, senin çok komik biri olduğunu duydum."
+    },
+    {
+      "id": "005ad517",
+      "bank_id": "d04d2802",
+      "text": "Hey köpecik, güldür bakalım bizi."
+    },
+    {
+      "id": "074cf393",
+      "bank_id": "d04d2802",
+      "text": "Değişiklik olsun diye uslu durmayı deneyemez misin köpekçik?"
+    },
+    {
+      "id": "0832526c",
+      "bank_id": "d04d2802",
+      "text": "Doğruyla yanlışı ayırt edebiliyorsun değil mi oğlum. Bahse girerim bunu sana sahibin öğretmiştir."
+    },
+    {
+      "id": "0832526d",
+      "bank_id": "d04d2802",
+      "text": "Dünyanın en tatlı köpeği olmalısın sen."
+    },
+    {
+      "id": "0832526f",
+      "bank_id": "d04d2802",
+      "text": "Hayvanların da erdemli olamayacağını kim söylemiş?"
+    },
+    {
+      "id": "095ae378",
+      "bank_id": "d04d2802",
+      "text": "Hmm, Üstün Yetenekli Hayvanlar Komedi Akademisi'nde okumuş olmalısın."
+    },
+    {
+      "id": "095ae379",
+      "bank_id": "d04d2802",
+      "text": "Aah, bir köpeğin sahibine çektiğini görmek ne güzel. İkinizin de neşelendirme yeteneği var değil mi?"
+    },
+    {
+      "id": "095ae37a",
+      "bank_id": "d04d2802",
+      "text": "Hünerini göster bakalım köpek."
+    },
+    {
+      "id": "095ae37b",
+      "bank_id": "d04d2802",
+      "text": "Ha! En az o sahibin kadar komiksin herhalde."
+    },
+    {
+      "id": "095ae37c",
+      "bank_id": "d04d2802",
+      "text": "İstesen herkesi kıkırdatabilirsin sen."
+    },
+    {
+      "id": "095ae37d",
+      "bank_id": "d04d2802",
+      "text": "Ho ho! Sen ve sahibin insanları nasıl güldüreceğinizi iyi biliyorsunuz doğrusu."
+    },
+    {
+      "id": "095ae37f",
+      "bank_id": "d04d2802",
+      "text": "Vay canına, küçük bir komedyensin sen desene."
+    },
+    {
+      "id": "0e4cfe96",
+      "bank_id": "d04d2802",
+      "text": "Ben de bazen çok yaramaz olabiliyorum biliyor musun. Sonra annemle babam beni akşam yemeği vermeden yatağa gönderiyor."
+    },
+    {
+      "id": "0faa747d",
+      "bank_id": "d04d2802",
+      "text": "O her zaman yaptığın komik numara neydi köpekçik?"
+    },
+    {
+      "id": "1aaa85ac",
+      "bank_id": "d04d2802",
+      "text": "Komik bir şey havlasana!"
+    },
+    {
+      "id": "388ae718",
+      "bank_id": "d04d2802",
+      "text": "Ha, amma da şapşal bir köpek!"
+    },
+    {
+      "id": "3d8aef39",
+      "bank_id": "d04d2802",
+      "text": "O köpek beni kıkırdatıyor. Ha ha!"
+    },
+    {
+      "id": "3e837ad3",
+      "bank_id": "d04d2802",
+      "text": "Onunla karşılaşana kadar köpeklerden nefret edebileceğimi bilmezdim."
+    },
+    {
+      "id": "458385d6",
+      "bank_id": "d04d2802",
+      "text": "O köpek mi? Ondan uzak durmak en iyisi!"
+    },
+    {
+      "id": "5aeae943",
+      "bank_id": "d04d2802",
+      "text": "Kim uslu bir köpekmiş? Kim uslu bir köpekmiş?"
+    },
+    {
+      "id": "5f9875c0",
+      "bank_id": "d04d2802",
+      "text": "Tek derdin acı ve ızdırap çektirmek, değil mi?"
+    },
+    {
+      "id": "5f9875c1",
+      "bank_id": "d04d2802",
+      "text": "Kötü, safi kötülük. Tıpkı o sahibin gibi."
+    },
+    {
+      "id": "5f9875c2",
+      "bank_id": "d04d2802",
+      "text": "Bir canavar. Katıksız bir canavarsın sen. Tam olarak osun işte."
+    },
+    {
+      "id": "5f9875c3",
+      "bank_id": "d04d2802",
+      "text": "Sıradan bir hayvan nasıl bu kadar kötü niyetli olabilir?"
+    },
+    {
+      "id": "5f9875c4",
+      "bank_id": "d04d2802",
+      "text": "Gittiğin her yere karanlık ve çaresizlik götürüyorsun."
+    },
+    {
+      "id": "5f9875c6",
+      "bank_id": "d04d2802",
+      "text": "Vahşi bir yaratıksın sen."
+    },
+    {
+      "id": "5f9875c7",
+      "bank_id": "d04d2802",
+      "text": "Hiçbir köpek senin kadar habis olamaz."
+    },
+    {
+      "id": "618517b0",
+      "bank_id": "d04d2802",
+      "text": "İşte neşe tazısı geçiyor."
+    },
+    {
+      "id": "618517b1",
+      "bank_id": "d04d2802",
+      "text": "Güzel bir hayvan numarası kadar eğlendirici bir şey bulamıyorum ve bu köpek hepsini biliyor."
+    },
+    {
+      "id": "618517b2",
+      "bank_id": "d04d2802",
+      "text": "Gülmekten katılmak istiyorsan şu meleze dikkat et yeter."
+    },
+    {
+      "id": "618517b3",
+      "bank_id": "d04d2802",
+      "text": "İşte mizah duygusu olan bir sokak köpeği geçiyor."
+    },
+    {
+      "id": "618517b4",
+      "bank_id": "d04d2802",
+      "text": "O köpek resmen kahkaha tufanı."
+    },
+    {
+      "id": "618517b5",
+      "bank_id": "d04d2802",
+      "text": "İnsanları nasıl güldüreceğini çok iyi biliyor bu köpek."
+    },
+    {
+      "id": "618517b7",
+      "bank_id": "d04d2802",
+      "text": "Çok neşeli bir köpek, değil mi."
+    },
+    {
+      "id": "61eaf446",
+      "bank_id": "d04d2802",
+      "text": "Aww, cici köpek. Uslu köpek."
+    },
+    {
+      "id": "64987de0",
+      "bank_id": "d04d2802",
+      "text": "Buralarda meşhur bir köpeksin sen. Kötü icraatlarını bilmeyen yok."
+    },
+    {
+      "id": "64987de1",
+      "bank_id": "d04d2802",
+      "text": "Bir köpeğim olacaksa senin kadar azılı bir şey olmalıydı."
+    },
+    {
+      "id": "64987de2",
+      "bank_id": "d04d2802",
+      "text": "Ancak kötü birinin böyle kötü bir yoldaşı olabilir."
+    },
+    {
+      "id": "64987de3",
+      "bank_id": "d04d2802",
+      "text": "Şimdiye kadar gördüğüm en aşağılık köpeksin sen."
+    },
+    {
+      "id": "64987de5",
+      "bank_id": "d04d2802",
+      "text": "Öldürmekten zevk alıyorsun, değil mi? Üstelik sadece tavşanları ve tavukları da değil..."
+    },
+    {
+      "id": "64987de6",
+      "bank_id": "d04d2802",
+      "text": "Ne kadar da karanlık bir kalp. Yetiştirilme tarzına bağlıyorum ben bunu."
+    },
+    {
+      "id": "64987de7",
+      "bank_id": "d04d2802",
+      "text": "Şimdi bu kadar fena olduğuna göre, yavruyken biri sana eziyet etmiş olmalı."
+    },
+    {
+      "id": "64a99cd8",
+      "bank_id": "d04d2802",
+      "text": "Vay, ne kadar... Şey, güzel ve güçlü bir köpek..."
+    },
+    {
+      "id": "64a99cda",
+      "bank_id": "d04d2802",
+      "text": "Hmm, bahse girerim sahibin yanında senin gibi biri varken güvende uyuyordur..."
+    },
+    {
+      "id": "64a99cdb",
+      "bank_id": "d04d2802",
+      "text": "Şey, cici köpek, evet..."
+    },
+    {
+      "id": "64a99cdc",
+      "bank_id": "d04d2802",
+      "text": "Tüylerini kabartma sakın. Bir şey yaptığım yok benim."
+    },
+    {
+      "id": "64a99cdd",
+      "bank_id": "d04d2802",
+      "text": "Epey bir can almışsın sen. Üstelik sadece kediler de değil."
+    },
+    {
+      "id": "64a99cde",
+      "bank_id": "d04d2802",
+      "text": "B-beni ı-ısırmayacak, değil mi?"
+    },
+    {
+      "id": "64a99cdf",
+      "bank_id": "d04d2802",
+      "text": "Şey, cici köpek. Ciiici köpek."
+    },
+    {
+      "id": "688522b8",
+      "bank_id": "d04d2802",
+      "text": "Köpeğin yaptığı o anı gördün mü - ha ha! - hani o - ha ha! - ay, hatırlamıyor musun?"
+    },
+    {
+      "id": "688522b9",
+      "bank_id": "d04d2802",
+      "text": "O köpek ve sahibi şu komedilerini profesyonelliğe dökmeli bence."
+    },
+    {
+      "id": "688522ba",
+      "bank_id": "d04d2802",
+      "text": "İşte acayip komik bir köpek geçiyor."
+    },
+    {
+      "id": "688522bc",
+      "bank_id": "d04d2802",
+      "text": "İnsanı kahkahalara boğan inanılmaz eğlenceli bir hayvan."
+    },
+    {
+      "id": "688522bd",
+      "bank_id": "d04d2802",
+      "text": "Şu köpeğin maskaralıkları bizi çok eğlendiriyor."
+    },
+    {
+      "id": "688522be",
+      "bank_id": "d04d2802",
+      "text": "Komediyi sahibinden mi öğrendin sen?"
+    },
+    {
+      "id": "688522bf",
+      "bank_id": "d04d2802",
+      "text": "Neyin komik olduğunu iyi bilirim ve o melez tam olarak öyle."
+    },
+    {
+      "id": "692d89b1",
+      "bank_id": "d04d2802",
+      "text": "Ha ha! Sana bakmak bile beni güldürüyor küçük dostum."
+    },
+    {
+      "id": "692d89b2",
+      "bank_id": "d04d2802",
+      "text": "Çok komik bir köpeksin sen."
+    },
+    {
+      "id": "692d89b3",
+      "bank_id": "d04d2802",
+      "text": "Tıpkı sahibin gibi tam bir komedyensin sen."
+    },
+    {
+      "id": "692d89b4",
+      "bank_id": "d04d2802",
+      "text": "Bizi güldürecek misin küçük melez?"
+    },
+    {
+      "id": "692d89b5",
+      "bank_id": "d04d2802",
+      "text": "Yüzümüzü hep güldürüyorsun doğrusu."
+    },
+    {
+      "id": "692d89b6",
+      "bank_id": "d04d2802",
+      "text": "Belki sen ve sahibin birkaç komedi gösterisiyle bizi eğlendirmek istersiniz."
+    },
+    {
+      "id": "692d89b7",
+      "bank_id": "d04d2802",
+      "text": "Aah, işte soytarının köpeği!"
+    },
+    {
+      "id": "69a9a4f9",
+      "bank_id": "d04d2802",
+      "text": "Sana da sahibine de dokunacak değilim oğlum, korkma..."
+    },
+    {
+      "id": "69a9a4fa",
+      "bank_id": "d04d2802",
+      "text": "Sakin ol köpekçik, sadece geçip gidiyorum."
+    },
+    {
+      "id": "69a9a4fb",
+      "bank_id": "d04d2802",
+      "text": "Bana öyle garip garip bakmana gerek yok. He he. Köpekleri severim ben. Tabii ki severim."
+    },
+    {
+      "id": "69a9a4fc",
+      "bank_id": "d04d2802",
+      "text": "O dişlerini öyle yumuşak yerlerime geçirmeye kalkma sakın..."
+    },
+    {
+      "id": "69a9a4fd",
+      "bank_id": "d04d2802",
+      "text": "Sakin ol oğlum. Düşmanın değilim ben."
+    },
+    {
+      "id": "69a9a4fe",
+      "bank_id": "d04d2802",
+      "text": "Aman Tanrım, pek korkunç bir yaratıksın sen, değil mi?"
+    },
+    {
+      "id": "69a9a4ff",
+      "bank_id": "d04d2802",
+      "text": "A-ağızlık t-takman gerekmez miydi senin...?"
+    },
+    {
+      "id": "742d9ae0",
+      "bank_id": "d04d2802",
+      "text": "Ha! Yeni numaralar öğrendin mi bakayım?"
+    },
+    {
+      "id": "742d9ae2",
+      "bank_id": "d04d2802",
+      "text": "Bahse girerim diğer bütün hayvanları da güldürüyorsundur."
+    },
+    {
+      "id": "742d9ae3",
+      "bank_id": "d04d2802",
+      "text": "Beni nasıl neşelendireceğini çok iyi biliyorsun köpekçik."
+    },
+    {
+      "id": "742d9ae4",
+      "bank_id": "d04d2802",
+      "text": "Bugün bize gösterecek komik bir numaran var mı?"
+    },
+    {
+      "id": "742d9ae5",
+      "bank_id": "d04d2802",
+      "text": "Hiçbir köpek beni senin gibi güldüremez."
+    },
+    {
+      "id": "742d9ae6",
+      "bank_id": "d04d2802",
+      "text": "İnsanın yüzünü nasıl güldüreceğini iyi biliyorsun seni komik hayvan seni."
+    },
+    {
+      "id": "742d9ae7",
+      "bank_id": "d04d2802",
+      "text": "Çok eğlenceli bir küçük dostsun sen."
+    },
+    {
+      "id": "8892a663",
+      "bank_id": "d04d2802",
+      "text": "Büyükannemin \"tüm karanlığın kaynağı\" dediği şeysin sen, her ne demekse artık."
+    },
+    {
+      "id": "89886e10",
+      "bank_id": "d04d2802",
+      "text": "Pfff, yine o lanet köpek."
+    },
+    {
+      "id": "89886e12",
+      "bank_id": "d04d2802",
+      "text": "Genelde köpekleri severim ama bunu asla!"
+    },
+    {
+      "id": "89886e13",
+      "bank_id": "d04d2802",
+      "text": "Şu ite daha fazla katlanmak zorunda mıyız?"
+    },
+    {
+      "id": "89886e14",
+      "bank_id": "d04d2802",
+      "text": "Dünyadaki bütün uyuz itlerin içinde en beteri bu. Ne demek \"başka hangi itler\"?"
+    },
+    {
+      "id": "89886e15",
+      "bank_id": "d04d2802",
+      "text": "O köpeğe iyi bir kötek lazım."
+    },
+    {
+      "id": "89886e16",
+      "bank_id": "d04d2802",
+      "text": "Neden biri şu hayvanı henüz vurmadı ki?"
+    },
+    {
+      "id": "89886e17",
+      "bank_id": "d04d2802",
+      "text": "Şu köpek belasından ne zaman kurtulacağız acaba?"
+    },
+    {
+      "id": "8da56077",
+      "bank_id": "d04d2802",
+      "text": "Sen ı-ısıran cinstensin, değil mi?"
+    },
+    {
+      "id": "8f92b166",
+      "bank_id": "d04d2802",
+      "text": "Hep çok kötü şeyler yapıyorsun!"
+    },
+    {
+      "id": "938c82a0",
+      "bank_id": "d04d2802",
+      "text": "Ne kadar da vahşi bir köpeksin sen öyle."
+    },
+    {
+      "id": "938c82a1",
+      "bank_id": "d04d2802",
+      "text": "Düpedüz kötüsün sen!"
+    },
+    {
+      "id": "938c82a2",
+      "bank_id": "d04d2802",
+      "text": "Yozlaşmış küçük bir itsin sen."
+    },
+    {
+      "id": "938c82a4",
+      "bank_id": "d04d2802",
+      "text": "O hayvan safi kötülükten ibaret."
+    },
+    {
+      "id": "938c82a5",
+      "bank_id": "d04d2802",
+      "text": "Bir köpeğin göğsünde bundan daha karanlık bir kalp atmış mıdır acaba?"
+    },
+    {
+      "id": "938c82a6",
+      "bank_id": "d04d2802",
+      "text": "Seni habis alçak seni!"
+    },
+    {
+      "id": "938c82a7",
+      "bank_id": "d04d2802",
+      "text": "Bebeklerin bile kalbini söker alırsın sen, değil mi?"
+    },
+    {
+      "id": "94a56b7a",
+      "bank_id": "d04d2802",
+      "text": "*sızlanır* Isırma beni köpekçik."
+    },
+    {
+      "id": "97c8d3a7",
+      "bank_id": "d04d2802",
+      "text": "*hıçkırır* Annemi istiyorum. O köpek hiç uslu değil!"
+    },
+    {
+      "id": "9c8c9088",
+      "bank_id": "d04d2802",
+      "text": "Sen bir ifritsin! Tüylü, salyalar saçan bir ifrit!"
+    },
+    {
+      "id": "9c8c9089",
+      "bank_id": "d04d2802",
+      "text": "Bir de hayvanların masum olduğunu söylerler... Ama sen tıpkı sahibin gibi habissin!"
+    },
+    {
+      "id": "9c8c908a",
+      "bank_id": "d04d2802",
+      "text": "Çok vahşi bir tazısın sen!"
+    },
+    {
+      "id": "9c8c908b",
+      "bank_id": "d04d2802",
+      "text": "Daha kindar bir köpek görmedim ömrümde!"
+    },
+    {
+      "id": "9c8c908c",
+      "bank_id": "d04d2802",
+      "text": "Neden? Neden bu kadar fena bir köpeksin?"
+    },
+    {
+      "id": "9c8c908d",
+      "bank_id": "d04d2802",
+      "text": "Sahibinle aynı kötü huylara sahipsin sen."
+    },
+    {
+      "id": "9c8c908f",
+      "bank_id": "d04d2802",
+      "text": "Ay, sen tam bir belasın!"
+    },
+    {
+      "id": "9ec8deaa",
+      "bank_id": "d04d2802",
+      "text": "Ah ah... Sen ç-çok korkunç bir köpeksin!"
+    },
+    {
+      "id": "a9297123",
+      "bank_id": "d04d2802",
+      "text": "Görülmüş en komik köpekçiksin sen!"
+    },
+    {
+      "id": "b0297c26",
+      "bank_id": "d04d2802",
+      "text": "Ha ha! Çok komiksin!"
+    },
+    {
+      "id": "b19f63d0",
+      "bank_id": "d04d2802",
+      "text": "Ço-o-o-k yavaş hareket edeceğim. Tamam mı?"
+    },
+    {
+      "id": "b19f63d1",
+      "bank_id": "d04d2802",
+      "text": "Şey, b-beni ısırma, tamam mı?"
+    },
+    {
+      "id": "b19f63d3",
+      "bank_id": "d04d2802",
+      "text": "Şey, cici oğlum..."
+    },
+    {
+      "id": "b19f63d4",
+      "bank_id": "d04d2802",
+      "text": "Ay! Biri beni şu canavardan korusun!"
+    },
+    {
+      "id": "b19f63d5",
+      "bank_id": "d04d2802",
+      "text": "Böyle korkunç bir yaratığın başıboş gezmesine izin verilmemeli kesinlikle."
+    },
+    {
+      "id": "b19f63d6",
+      "bank_id": "d04d2802",
+      "text": "Bayağı yaman bir köpeksin sen doğrusu."
+    },
+    {
+      "id": "b19f63d7",
+      "bank_id": "d04d2802",
+      "text": "Hoşt oğlum! Geri bas bakalım..."
+    },
+    {
+      "id": "b1efefa0",
+      "bank_id": "d04d2802",
+      "text": "Arada bir gerçek bir hayvan olmayı denesene?"
+    },
+    {
+      "id": "b1efefa1",
+      "bank_id": "d04d2802",
+      "text": "Pöh! Züppe itlerle uğraşacak vaktim yok benim."
+    },
+    {
+      "id": "b1efefa2",
+      "bank_id": "d04d2802",
+      "text": "Bir köpekte böylesine takdire şayan niteliklere pek sık rastlanmaz."
+    },
+    {
+      "id": "b1efefa3",
+      "bank_id": "d04d2802",
+      "text": "Kesinlikle çok sevimli bir hayvansın sen."
+    },
+    {
+      "id": "b1efefa4",
+      "bank_id": "d04d2802",
+      "text": "İtaatkâr bir çocuksun sen, değil mi?"
+    },
+    {
+      "id": "b1efefa6",
+      "bank_id": "d04d2802",
+      "text": "Uslu bir köpeksin sen! Evet öylesin! Çok uslu bir köpek!"
+    },
+    {
+      "id": "b1efefa7",
+      "bank_id": "d04d2802",
+      "text": "Bahse girerim başkasını kurtarmak için elinden geleni yaparsın."
+    },
+    {
+      "id": "b6eff740",
+      "bank_id": "d04d2802",
+      "text": "Zayıfları kurtarmaktan eğlenmeye vaktin kalmıyor, değil mi oğlum?"
+    },
+    {
+      "id": "b6eff741",
+      "bank_id": "d04d2802",
+      "text": "Etrafta erdemli bir maceracı olması yetmiyormuş gibi, bir de onun erdemli köpeğine katlanmak zorundayız..."
+    },
+    {
+      "id": "b6eff742",
+      "bank_id": "d04d2802",
+      "text": "Davranışların bir insanda olsa örnek gösterilirdi. Bir hayvan içinse olağanüstü."
+    },
+    {
+      "id": "b6eff743",
+      "bank_id": "d04d2802",
+      "text": "İki ayak üzerinde yürüyemiyor olabilirsin ama en azından ruhun dosdoğru."
+    },
+    {
+      "id": "b6eff745",
+      "bank_id": "d04d2802",
+      "text": "Çok tatlı huylu bir dostsun sen, değil mi?"
+    },
+    {
+      "id": "b6eff746",
+      "bank_id": "d04d2802",
+      "text": "Tepeden tırnağa sahibin gibi aziz maşallah."
+    },
+    {
+      "id": "b6eff747",
+      "bank_id": "d04d2802",
+      "text": "Bu topraklarda gezmiş en erdemli köpeksin sen."
+    },
+    {
+      "id": "b89f6ed0",
+      "bank_id": "d04d2802",
+      "text": "Ay! Bende nadir görülen bir köpek fobisi var biliyor musun!"
+    },
+    {
+      "id": "b89f6ed1",
+      "bank_id": "d04d2802",
+      "text": "Ci-ci-ci-ci köpek."
+    },
+    {
+      "id": "b89f6ed2",
+      "bank_id": "d04d2802",
+      "text": "Bahse girerim istediğin herkesin boğazını parçalayabilirsin, ha? Eveeeet."
+    },
+    {
+      "id": "b89f6ed3",
+      "bank_id": "d04d2802",
+      "text": "Acayip korkunç bir it bu be. Tabii ki tüm saygımla Bay Köpek!"
+    },
+    {
+      "id": "b89f6ed4",
+      "bank_id": "d04d2802",
+      "text": "Şu-şu bir köpek mi yoksa bir balverine mi...?"
+    },
+    {
+      "id": "b89f6ed5",
+      "bank_id": "d04d2802",
+      "text": "Uslu bir çocuksun sen, eveeeet..."
+    },
+    {
+      "id": "b89f6ed6",
+      "bank_id": "d04d2802",
+      "text": "Sakin ol bakalım! Ani hareketler yapmıyorum..."
+    },
+    {
+      "id": "c5608841",
+      "bank_id": "d04d2802",
+      "text": "Bize komik numaralar yapacak mısın??"
+    },
+    {
+      "id": "c9f0e820",
+      "bank_id": "d04d2802",
+      "text": "Şu itten iyi bir kahkaha koparmayı dört gözle bekliyorum."
+    },
+    {
+      "id": "c9f0e821",
+      "bank_id": "d04d2802",
+      "text": "Ah, şu komik melez işte."
+    },
+    {
+      "id": "c9f0e824",
+      "bank_id": "d04d2802",
+      "text": "O köpek beni hep kıkırdatıyor."
+    },
+    {
+      "id": "c9f0e826",
+      "bank_id": "d04d2802",
+      "text": "Köpeğin sıradaki komik numarasının ne olacağını merak ediyorum."
+    },
+    {
+      "id": "c9f0e827",
+      "bank_id": "d04d2802",
+      "text": "Ha, gelmiş geçmiş en komik köpek!"
+    },
+    {
+      "id": "cb3a8890",
+      "bank_id": "d04d2802",
+      "text": "Hiçbir hayvanın kalbi bu kadar kara olmamıştı."
+    },
+    {
+      "id": "cb3a8891",
+      "bank_id": "d04d2802",
+      "text": "O köpek tam bir iblis diyorum sana."
+    },
+    {
+      "id": "cb3a8892",
+      "bank_id": "d04d2802",
+      "text": "Ay! İğrenç bir canavar bu. Kesinlikle dehşet verici."
+    },
+    {
+      "id": "cb3a8893",
+      "bank_id": "d04d2802",
+      "text": "Bana sorarsan --ki sormalısın, bu konularda çok bilgiliyimdir-- birinin ona ağızlık takması lazım."
+    },
+    {
+      "id": "cb3a8894",
+      "bank_id": "d04d2802",
+      "text": "O köpek beni ölümüne korkutuyor."
+    },
+    {
+      "id": "cb3a8896",
+      "bank_id": "d04d2802",
+      "text": "Umarım bugün ete doymuştur. Tırstım doğrusu."
+    },
+    {
+      "id": "cb3a8897",
+      "bank_id": "d04d2802",
+      "text": "Köpekten mi yoksa sahibinden mi daha çok korktuğumu bilemiyorum."
+    },
+    {
+      "id": "cef0efc0",
+      "bank_id": "d04d2802",
+      "text": "Pire torbası olabilir ama komik bir pire torbası."
+    },
+    {
+      "id": "cef0efc1",
+      "bank_id": "d04d2802",
+      "text": "O it her türlü soytarıdan daha komik."
+    },
+    {
+      "id": "cef0efc5",
+      "bank_id": "d04d2802",
+      "text": "O köpek resmen kahkaha tufanı değil mi?"
+    },
+    {
+      "id": "cef0efc6",
+      "bank_id": "d04d2802",
+      "text": "O köpek beni her zaman gülümsetmeyi başarıyor!"
+    },
+    {
+      "id": "cef0efc7",
+      "bank_id": "d04d2802",
+      "text": "O köpekten hep bir kahkaha çıkarıyorum."
+    },
+    {
+      "id": "d03a90b0",
+      "bank_id": "d04d2802",
+      "text": "Tıpkı sahibi kadar vahşi bir köpek."
+    },
+    {
+      "id": "d03a90b1",
+      "bank_id": "d04d2802",
+      "text": "İnsanın gırtlağını söküp atabilir gibi duruyor. Üstelik bundan zevk de alır."
+    },
+    {
+      "id": "d03a90b2",
+      "bank_id": "d04d2802",
+      "text": "Hepimize terör estirmek için gönderilmiş karanlık bir tazı gibi resmen!"
+    },
+    {
+      "id": "d03a90b3",
+      "bank_id": "d04d2802",
+      "text": "O hayvanı her gördüğümde tüylerim diken diken oluyor."
+    },
+    {
+      "id": "d03a90b5",
+      "bank_id": "d04d2802",
+      "text": "Açıkça söyleyeyim, o köpek bende fena tırsıntı yapıyor."
+    },
+    {
+      "id": "d03a90b6",
+      "bank_id": "d04d2802",
+      "text": "Normalde köpeklerden korkmam. Ama o köpek için bir istisna yapacağım."
+    },
+    {
+      "id": "d03a90b7",
+      "bank_id": "d04d2802",
+      "text": "Böğğ! O hayvana bakmak bile kâbus görmeme yetiyor."
+    },
+    {
+      "id": "d06099f0",
+      "bank_id": "d04d2802",
+      "text": "Ha, beni hep güldürüyorsun!"
+    },
+    {
+      "id": "ec918bed",
+      "bank_id": "d04d2802",
+      "text": "Neden bu kadar yaramaz bir köpekçiksin sen?"
+    },
+    {
+      "id": "f1a445e1",
+      "bank_id": "d04d2802",
+      "text": "Koklayıp duruyor. Beni sevmedi galiba..."
+    },
+    {
+      "id": "f434b933",
+      "bank_id": "d04d2802",
+      "text": "O köpek her türlü balverine'den daha korkunç."
+    },
+    {
+      "id": "f7919d1c",
+      "bank_id": "d04d2802",
+      "text": "Yaramaz bir köpeksin sen! Yaramaz!"
+    },
+    {
+      "id": "fb34c436",
+      "bank_id": "d04d2802",
+      "text": "Umarım bana bakmaz. Beni yiyebilir!"
+    },
+    {
+      "id": "fca45710",
+      "bank_id": "d04d2802",
+      "text": "Ci-ci-ci-ci köpekçik."
+    }
+  ]
+}

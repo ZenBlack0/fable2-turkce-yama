@@ -1,0 +1,1001 @@
+{
+  "bank_id": "c0319601",
+  "total_strings": 199,
+  "strings": [
+    {
+      "id": "0cd6a4d1",
+      "bank_id": "c0319601",
+      "text": "Cellat buralardayken kendimi pek güvende hissetmiyorum."
+    },
+    {
+      "id": "0cd6a4d4",
+      "bank_id": "c0319601",
+      "text": "Bunun Cellat olduğuna neredeyse eminim."
+    },
+    {
+      "id": "0cd6a4d7",
+      "bank_id": "c0319601",
+      "text": "Bunun Cellat olduğuna epey eminim."
+    },
+    {
+      "id": "13d6afd6",
+      "bank_id": "c0319601",
+      "text": "Bakın kim gelmiş. Cellat bu."
+    },
+    {
+      "id": "25153bb3",
+      "bank_id": "c0319601",
+      "text": "Çok yaşa Kral!"
+    },
+    {
+      "id": "25153bb5",
+      "bank_id": "c0319601",
+      "text": "Vay canına, Kral bu! Bakın! Bakın!"
+    },
+    {
+      "id": "25153bb6",
+      "bank_id": "c0319601",
+      "text": "Oh, kim olduğunu görüyor musun? Kral bu!"
+    },
+    {
+      "id": "26e7e016",
+      "bank_id": "c0319601",
+      "text": "İşte Silahşor dedikleri kadın bu."
+    },
+    {
+      "id": "26e7e01d",
+      "bank_id": "c0319601",
+      "text": "İşte Silahşor dedikleri adam bu."
+    },
+    {
+      "id": "2cb096e2",
+      "bank_id": "c0319601",
+      "text": "Hey, şu Kılıç değil mi?"
+    },
+    {
+      "id": "2cb096e4",
+      "bank_id": "c0319601",
+      "text": "Bunun maceracı Kılıç olduğuna inanıyorum."
+    },
+    {
+      "id": "33af5d55",
+      "bank_id": "c0319601",
+      "text": "Bakın, Cellat bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "33af5d5e",
+      "bank_id": "c0319601",
+      "text": "Bakın, Cellat bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "35b0a4c8",
+      "bank_id": "c0319601",
+      "text": "Gözlerim beni yanıltmıyorsa bu Kılıç mı?"
+    },
+    {
+      "id": "35b0a4cb",
+      "bank_id": "c0319601",
+      "text": "Evet, bu kesinlikle Kılıç. Ne kadar da cana yakın bir isim değil mi?"
+    },
+    {
+      "id": "35b0a4cc",
+      "bank_id": "c0319601",
+      "text": "Bakın kim geçiyor. Kılıç bu!"
+    },
+    {
+      "id": "35b0a4cd",
+      "bank_id": "c0319601",
+      "text": "Gözlerime inanamıyorum ama bu sahiden Kılıç. Değil mi?"
+    },
+    {
+      "id": "3fe524ef",
+      "bank_id": "c0319601",
+      "text": "Bakın kim geçiyor. Kral bu!"
+    },
+    {
+      "id": "4e048943",
+      "bank_id": "c0319601",
+      "text": "Bakın, Kasap bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "4e048948",
+      "bank_id": "c0319601",
+      "text": "Bakın, Kasap bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "51df7400",
+      "bank_id": "c0319601",
+      "text": "Hey, oradaki Kılıç değil mi?"
+    },
+    {
+      "id": "51df7403",
+      "bank_id": "c0319601",
+      "text": "Kılıç dedikleri kişi bu değil mi?"
+    },
+    {
+      "id": "51df7406",
+      "bank_id": "c0319601",
+      "text": "Ya fena halde yanılıyorum ya da bu Kılıç."
+    },
+    {
+      "id": "56c29b38",
+      "bank_id": "c0319601",
+      "text": "Hey, oradaki Korku Tellalı, değil mi?"
+    },
+    {
+      "id": "56c29b3a",
+      "bank_id": "c0319601",
+      "text": "Kimin geldiğini gördün mü? Korku Tellalı bu."
+    },
+    {
+      "id": "56c29b3b",
+      "bank_id": "c0319601",
+      "text": "Oradaki Korku Tellalı. Uzak durun."
+    },
+    {
+      "id": "56c29b3c",
+      "bank_id": "c0319601",
+      "text": "Korku Tellalı. Karıma seçeceğim türden bir isim."
+    },
+    {
+      "id": "56c29b3d",
+      "bank_id": "c0319601",
+      "text": "Dikkat edin millet. Korku Tellalı burada."
+    },
+    {
+      "id": "56c29b3e",
+      "bank_id": "c0319601",
+      "text": "Şu Korku Tellalı değil mi?"
+    },
+    {
+      "id": "56c29b3f",
+      "bank_id": "c0319601",
+      "text": "Ah, Korku Tellalı aramızda dolaşıyor."
+    },
+    {
+      "id": "5786be8b",
+      "bank_id": "c0319601",
+      "text": "Bunun maceracı Kasap olduğuna inanıyorum."
+    },
+    {
+      "id": "5786be8d",
+      "bank_id": "c0319601",
+      "text": "Hey, şu Kasap değil mi?"
+    },
+    {
+      "id": "5bc2a2d9",
+      "bank_id": "c0319601",
+      "text": "Olamaz. Korku Tellalı."
+    },
+    {
+      "id": "5bc2a2da",
+      "bank_id": "c0319601",
+      "text": "İşte Korku Tellalı. Ben burada kalıyorum."
+    },
+    {
+      "id": "5bc2a2db",
+      "bank_id": "c0319601",
+      "text": "Oh, ben de bir balverine sandım. Korku Tellalı'ymış."
+    },
+    {
+      "id": "5bc2a2dc",
+      "bank_id": "c0319601",
+      "text": "Korku Tellalı. Ondan uzak durun."
+    },
+    {
+      "id": "5bc2a2dd",
+      "bank_id": "c0319601",
+      "text": "Şuraya bakın. Korku Tellalı bu."
+    },
+    {
+      "id": "5bc2a2de",
+      "bank_id": "c0319601",
+      "text": "Korku Tellalı'nın ardından korku mu gelecek?"
+    },
+    {
+      "id": "5bc2a2df",
+      "bank_id": "c0319601",
+      "text": "Korku Tellalı. Kesinlikle uzak duracağım biri."
+    },
+    {
+      "id": "5bef39e2",
+      "bank_id": "c0319601",
+      "text": "Bakın, Kılıç bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "5bef39e9",
+      "bank_id": "c0319601",
+      "text": "Bakın, Kılıç bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "5df67d17",
+      "bank_id": "c0319601",
+      "text": "Vay vay, Silahşor teşrif etmiş."
+    },
+    {
+      "id": "6286d038",
+      "bank_id": "c0319601",
+      "text": "Evet, bu kesinlikle Kasap. Ne kadar da cana yakın bir isim değil mi?"
+    },
+    {
+      "id": "6286d03b",
+      "bank_id": "c0319601",
+      "text": "Gözlerim beni yanıltmıyorsa bu Kasap mı?"
+    },
+    {
+      "id": "6286d03e",
+      "bank_id": "c0319601",
+      "text": "Gözlerime inanamıyorum ama bu sahiden Kasap. Değil mi?"
+    },
+    {
+      "id": "6286d03f",
+      "bank_id": "c0319601",
+      "text": "Bakın kim geçiyor. Kasap bu!"
+    },
+    {
+      "id": "64f68818",
+      "bank_id": "c0319601",
+      "text": "Silahşor dedikleri kişinin bu olduğuna oldukça eminim."
+    },
+    {
+      "id": "64f6881d",
+      "bank_id": "c0319601",
+      "text": "Silahşor yaklaşıyor."
+    },
+    {
+      "id": "64f6881e",
+      "bank_id": "c0319601",
+      "text": "Hiç şüphe yok, bu Silahşor."
+    },
+    {
+      "id": "657f72d5",
+      "bank_id": "c0319601",
+      "text": "Bakın, Sihirbaz bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "657f72de",
+      "bank_id": "c0319601",
+      "text": "Bakın, Sihirbaz bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "667635c8",
+      "bank_id": "c0319601",
+      "text": "Hey, şu Silahşor değil mi?"
+    },
+    {
+      "id": "667635ce",
+      "bank_id": "c0319601",
+      "text": "Bunun maceracı Silahşor olduğuna inanıyorum."
+    },
+    {
+      "id": "6b763dea",
+      "bank_id": "c0319601",
+      "text": "Bakın kim geçiyor. Silahşor bu!"
+    },
+    {
+      "id": "6b763deb",
+      "bank_id": "c0319601",
+      "text": "Gözlerime inanamıyorum ama bu sahiden Silahşor. Değil mi?"
+    },
+    {
+      "id": "6b763ded",
+      "bank_id": "c0319601",
+      "text": "Evet, bu kesinlikle Silahşor. Ne kadar da cana yakın bir isim değil mi?"
+    },
+    {
+      "id": "6b763dee",
+      "bank_id": "c0319601",
+      "text": "Gözlerim beni yanıltmıyorsa bu Silahşor mu?"
+    },
+    {
+      "id": "7563eb08",
+      "bank_id": "c0319601",
+      "text": "Bakın! Seçilmiş Kişi bu!"
+    },
+    {
+      "id": "7563eb0a",
+      "bank_id": "c0319601",
+      "text": "Kimin geldiğini görüyor musun? Seçilmiş Kişi bu."
+    },
+    {
+      "id": "7563eb0b",
+      "bank_id": "c0319601",
+      "text": "Ah, Seçilmiş Kişi. Bak orada, gördün mü?"
+    },
+    {
+      "id": "7563eb0c",
+      "bank_id": "c0319601",
+      "text": "Oh, bakın. Seçilmiş Kişi."
+    },
+    {
+      "id": "7563eb0d",
+      "bank_id": "c0319601",
+      "text": "İşte Seçilmiş Kişi geldi."
+    },
+    {
+      "id": "7563eb0e",
+      "bank_id": "c0319601",
+      "text": "Bunun Seçilmiş Kişi olduğuna kesinlikle eminim."
+    },
+    {
+      "id": "7563eb0f",
+      "bank_id": "c0319601",
+      "text": "Şu Seçilmiş Kişi değil mi?"
+    },
+    {
+      "id": "79566908",
+      "bank_id": "c0319601",
+      "text": "Şu Şakacı değil mi?"
+    },
+    {
+      "id": "7956690a",
+      "bank_id": "c0319601",
+      "text": "Şakacı ha? Hiç anlam veremiyorum."
+    },
+    {
+      "id": "7956690b",
+      "bank_id": "c0319601",
+      "text": "Şakacı mı? Pek kahramanca bir isim sayılmaz, değil mi?"
+    },
+    {
+      "id": "7956690c",
+      "bank_id": "c0319601",
+      "text": "Şakacı dedikleri kişi bu değil mi?"
+    },
+    {
+      "id": "7956690d",
+      "bank_id": "c0319601",
+      "text": "Hey bakın, Şakacı bu, değil mi?"
+    },
+    {
+      "id": "7956690e",
+      "bank_id": "c0319601",
+      "text": "Şakacı mı? Sen mi? Komik bir şeyler yap da görelim."
+    },
+    {
+      "id": "7956690f",
+      "bank_id": "c0319601",
+      "text": "Şakacı dedikleri kişi bu değil mi?"
+    },
+    {
+      "id": "7a63f329",
+      "bank_id": "c0319601",
+      "text": "Seçilmiş Kişi'yi bu kadar yakından göreceğim hiç aklıma gelmezdi."
+    },
+    {
+      "id": "7a63f32a",
+      "bank_id": "c0319601",
+      "text": "Bakın, orada işte. Seçilmiş Kişi bu."
+    },
+    {
+      "id": "7a63f32b",
+      "bank_id": "c0319601",
+      "text": "Bakın! Seçilmiş Kişi!"
+    },
+    {
+      "id": "7a63f32c",
+      "bank_id": "c0319601",
+      "text": "Seçilmiş Kişi'yi bu kadar yakından göreceğim hiç aklıma gelmezdi."
+    },
+    {
+      "id": "7a63f32d",
+      "bank_id": "c0319601",
+      "text": "Seçilmiş Kişi'yi bu kadar yakından göreceğim hiç aklıma gelmezdi."
+    },
+    {
+      "id": "7a63f32e",
+      "bank_id": "c0319601",
+      "text": "Seçilmiş Kişi geldi."
+    },
+    {
+      "id": "7a63f32f",
+      "bank_id": "c0319601",
+      "text": "Bunun neden Seçilmiş Kişi olduğunu şimdi anlıyorum. Görkemli."
+    },
+    {
+      "id": "7dffb324",
+      "bank_id": "c0319601",
+      "text": "İşte Cellat dedikleri adam bu."
+    },
+    {
+      "id": "7dffb32f",
+      "bank_id": "c0319601",
+      "text": "İşte Cellat dedikleri kadın bu."
+    },
+    {
+      "id": "7e567129",
+      "bank_id": "c0319601",
+      "text": "İşte Şakacı geçiyor!"
+    },
+    {
+      "id": "7e56712a",
+      "bank_id": "c0319601",
+      "text": "İşte Şakacı geçiyor."
+    },
+    {
+      "id": "7e56712b",
+      "bank_id": "c0319601",
+      "text": "Oradaki Şakacı değil mi?"
+    },
+    {
+      "id": "7e56712c",
+      "bank_id": "c0319601",
+      "text": "Vay vay vay, Şakacı gelmiş meğer."
+    },
+    {
+      "id": "7e56712d",
+      "bank_id": "c0319601",
+      "text": "Sana söylüyorum, bu Şakacı işte."
+    },
+    {
+      "id": "7e56712e",
+      "bank_id": "c0319601",
+      "text": "Bunun Şakacı olduğuna sahiden inanıyorum."
+    },
+    {
+      "id": "7e56712f",
+      "bank_id": "c0319601",
+      "text": "İşte Şakacı geliyor."
+    },
+    {
+      "id": "96810540",
+      "bank_id": "c0319601",
+      "text": "Bakın kim geçiyor. Sihirbaz bu!"
+    },
+    {
+      "id": "96810541",
+      "bank_id": "c0319601",
+      "text": "Gözlerime inanamıyorum ama bu sahiden Sihirbaz. Değil mi?"
+    },
+    {
+      "id": "96810544",
+      "bank_id": "c0319601",
+      "text": "Gözlerim bana oyun mu oynuyor yoksa bu Sihirbaz mı?"
+    },
+    {
+      "id": "96810547",
+      "bank_id": "c0319601",
+      "text": "Evet, bu kesinlikle Sihirbaz. Ne kadar da cana yakın bir isim değil mi?"
+    },
+    {
+      "id": "9d811040",
+      "bank_id": "c0319601",
+      "text": "Bunun maceracı Sihirbaz olduğuna inanıyorum."
+    },
+    {
+      "id": "9d811046",
+      "bank_id": "c0319601",
+      "text": "Hey, şu Sihirbaz değil mi?"
+    },
+    {
+      "id": "a1c50110",
+      "bank_id": "c0319601",
+      "text": "Oradaki Kanun Kaçağı değil mi?"
+    },
+    {
+      "id": "a1c50111",
+      "bank_id": "c0319601",
+      "text": "Şu Kanun Kaçağı yok mu. Tam bir alçak."
+    },
+    {
+      "id": "a1c50112",
+      "bank_id": "c0319601",
+      "text": "Kanun Kaçağı. Kulağa egzotik ve tehlikeli geliyor. Hoşuma gitti."
+    },
+    {
+      "id": "a1c50113",
+      "bank_id": "c0319601",
+      "text": "Kanun Kaçağı aramızda."
+    },
+    {
+      "id": "a1c50114",
+      "bank_id": "c0319601",
+      "text": "Oh, Kanun Kaçağı bu."
+    },
+    {
+      "id": "a1c50116",
+      "bank_id": "c0319601",
+      "text": "Kanun Kaçağı! Bizzat kendisi."
+    },
+    {
+      "id": "a1c50117",
+      "bank_id": "c0319601",
+      "text": "Kanun Kaçağı'nı görüyorum."
+    },
+    {
+      "id": "a687efda",
+      "bank_id": "c0319601",
+      "text": "İşte Sihirbaz geliyor."
+    },
+    {
+      "id": "a687efdc",
+      "bank_id": "c0319601",
+      "text": "Sihirbaz dedikleri kişi bu, değil mi?"
+    },
+    {
+      "id": "a687efdf",
+      "bank_id": "c0319601",
+      "text": "Yanılmıyorsam bu Sihirbaz."
+    },
+    {
+      "id": "a6c50930",
+      "bank_id": "c0319601",
+      "text": "Kanun Kaçağı. Yaman bir karakter."
+    },
+    {
+      "id": "a6c50931",
+      "bank_id": "c0319601",
+      "text": "Kanun Kaçağı. Sinsi biridir o."
+    },
+    {
+      "id": "a6c50932",
+      "bank_id": "c0319601",
+      "text": "Herkesin Kanun Kaçağı olarak bildiği maceracı bu."
+    },
+    {
+      "id": "a6c50933",
+      "bank_id": "c0319601",
+      "text": "Ah, Kanun Kaçağı."
+    },
+    {
+      "id": "a6c50935",
+      "bank_id": "c0319601",
+      "text": "Bakın kim geçiyor. Kanun Kaçağı bu!"
+    },
+    {
+      "id": "a6c50936",
+      "bank_id": "c0319601",
+      "text": "Ceplerinizi kontrol edin. Kanun Kaçağı bu."
+    },
+    {
+      "id": "a6c50937",
+      "bank_id": "c0319601",
+      "text": "Oh, Kanun Kaçağı. Ta kendisi."
+    },
+    {
+      "id": "ab87f7f9",
+      "bank_id": "c0319601",
+      "text": "Şaka yapmıyorum. Sihirbaz bu."
+    },
+    {
+      "id": "acb921b8",
+      "bank_id": "c0319601",
+      "text": "Ah, Zorba. Onun hakkında hikâyeler duymuştum."
+    },
+    {
+      "id": "acb921b9",
+      "bank_id": "c0319601",
+      "text": "Zorba mı? Ne kadar ilkel."
+    },
+    {
+      "id": "acb921ba",
+      "bank_id": "c0319601",
+      "text": "Zorba'ya asla bulaşmam."
+    },
+    {
+      "id": "acb921bb",
+      "bank_id": "c0319601",
+      "text": "Taş gibi sert. Zorba işte bu."
+    },
+    {
+      "id": "acb921bc",
+      "bank_id": "c0319601",
+      "text": "Zorba. Üzerine geldiğini ta uzaktan fark edersin."
+    },
+    {
+      "id": "acb921bd",
+      "bank_id": "c0319601",
+      "text": "Zorba geri döndü!"
+    },
+    {
+      "id": "acb921be",
+      "bank_id": "c0319601",
+      "text": "Hey, şu Zorba, değil mi?"
+    },
+    {
+      "id": "ae929423",
+      "bank_id": "c0319601",
+      "text": "İşte Sihirbaz dedikleri adam bu."
+    },
+    {
+      "id": "ae929428",
+      "bank_id": "c0319601",
+      "text": "İşte Sihirbaz dedikleri kadın bu."
+    },
+    {
+      "id": "b35283e1",
+      "bank_id": "c0319601",
+      "text": "Bunun maceracı Cellat olduğuna inanıyorum."
+    },
+    {
+      "id": "b35283e7",
+      "bank_id": "c0319601",
+      "text": "Hey, şu Cellat değil mi?"
+    },
+    {
+      "id": "b5b92f88",
+      "bank_id": "c0319601",
+      "text": "Dikkat edin! Zorba bu!"
+    },
+    {
+      "id": "b5b92f89",
+      "bank_id": "c0319601",
+      "text": "Vay canına. Zorba bu."
+    },
+    {
+      "id": "b5b92f8b",
+      "bank_id": "c0319601",
+      "text": "Zorba bu!"
+    },
+    {
+      "id": "b5b92f8c",
+      "bank_id": "c0319601",
+      "text": "Zorba, görüyorum."
+    },
+    {
+      "id": "b5b92f8d",
+      "bank_id": "c0319601",
+      "text": "Zorba! Aklın yetmediği yerde kas gücü konuşur."
+    },
+    {
+      "id": "b5b92f8e",
+      "bank_id": "c0319601",
+      "text": "Aman tanrım. Zorba!"
+    },
+    {
+      "id": "b5b92f8f",
+      "bank_id": "c0319601",
+      "text": "Bakın kim gelmiş! Zorba bu!"
+    },
+    {
+      "id": "ba528ee8",
+      "bank_id": "c0319601",
+      "text": "Gözlerime inanamıyorum ama bu sahiden Cellat. Değil mi?"
+    },
+    {
+      "id": "ba528ee9",
+      "bank_id": "c0319601",
+      "text": "Bakın kim geçiyor. Cellat bu!"
+    },
+    {
+      "id": "ba528eed",
+      "bank_id": "c0319601",
+      "text": "Tüyler ürpertici bir manzara! Cellat!"
+    },
+    {
+      "id": "ba528eee",
+      "bank_id": "c0319601",
+      "text": "Evet, bu kesinlikle Cellat. Ne kadar da cana yakın bir isim değil mi?"
+    },
+    {
+      "id": "bc570ab1",
+      "bank_id": "c0319601",
+      "text": "İşte Kasap dedikleri kadın bu."
+    },
+    {
+      "id": "bc570aba",
+      "bank_id": "c0319601",
+      "text": "İşte Kasap dedikleri adam bu."
+    },
+    {
+      "id": "c774ec50",
+      "bank_id": "c0319601",
+      "text": "Şu Köpek Sever değil mi?"
+    },
+    {
+      "id": "c774ec51",
+      "bank_id": "c0319601",
+      "text": "Bakın! Köpek Sever!"
+    },
+    {
+      "id": "c774ec53",
+      "bank_id": "c0319601",
+      "text": "Oh, Köpek Sever burada."
+    },
+    {
+      "id": "c774ec54",
+      "bank_id": "c0319601",
+      "text": "Ah, ne kadar büyüleyici. Köpek Sever."
+    },
+    {
+      "id": "c774ec55",
+      "bank_id": "c0319601",
+      "text": "Görüyorum ki Köpek Sever geri dönmüş."
+    },
+    {
+      "id": "c774ec56",
+      "bank_id": "c0319601",
+      "text": "Hey bakın, Köpek Sever bu, değil mi?"
+    },
+    {
+      "id": "c774ec57",
+      "bank_id": "c0319601",
+      "text": "Oradaki Köpek Sever değil mi?"
+    },
+    {
+      "id": "ce74f750",
+      "bank_id": "c0319601",
+      "text": "Hiç şüphe yok, bu Köpek Sever."
+    },
+    {
+      "id": "ce74f751",
+      "bank_id": "c0319601",
+      "text": "Vay canına, Köpek Sever bu."
+    },
+    {
+      "id": "ce74f752",
+      "bank_id": "c0319601",
+      "text": "Köpek Sever mi? Kelime anlamıyla öyle değildir umarım?"
+    },
+    {
+      "id": "ce74f753",
+      "bank_id": "c0319601",
+      "text": "Şu it hep Köpek Sever'in peşinden gidiyor."
+    },
+    {
+      "id": "ce74f754",
+      "bank_id": "c0319601",
+      "text": "Oh, Köpek Sever bu. Sana söylüyorum!"
+    },
+    {
+      "id": "ce74f755",
+      "bank_id": "c0319601",
+      "text": "Şu Köpek Sever'i o köpek olmadan hiç görmezsin, değil mi?"
+    },
+    {
+      "id": "ce74f756",
+      "bank_id": "c0319601",
+      "text": "Bakın kim geçiyor. Köpek Sever bu!"
+    },
+    {
+      "id": "cee22508",
+      "bank_id": "c0319601",
+      "text": "Belki bir gün seni kiralarım Ödül Avcısı."
+    },
+    {
+      "id": "cee22509",
+      "bank_id": "c0319601",
+      "text": "Kimin olduğunu görüyor musun? Ödül Avcısı'nın ta kendisi."
+    },
+    {
+      "id": "cee2250a",
+      "bank_id": "c0319601",
+      "text": "İşte Ödül Avcısı geçiyor."
+    },
+    {
+      "id": "cee2250b",
+      "bank_id": "c0319601",
+      "text": "Pek yaman bir müşteri şu Ödül Avcısı."
+    },
+    {
+      "id": "cee2250c",
+      "bank_id": "c0319601",
+      "text": "Oh bakın! Ödül Avcısı orada."
+    },
+    {
+      "id": "cee2250d",
+      "bank_id": "c0319601",
+      "text": "Ödül Avcısı olduğuna inanabiliyor musun?"
+    },
+    {
+      "id": "cee2250e",
+      "bank_id": "c0319601",
+      "text": "Ödül Avcısı, bakın."
+    },
+    {
+      "id": "d7e23358",
+      "bank_id": "c0319601",
+      "text": "Bu sahiden Ödül Avcısı, değil mi?"
+    },
+    {
+      "id": "d7e23359",
+      "bank_id": "c0319601",
+      "text": "Bu sahiden Ödül Avcısı mı? Vay canına!"
+    },
+    {
+      "id": "d7e2335b",
+      "bank_id": "c0319601",
+      "text": "Hey, Ödül Avcısı bu!"
+    },
+    {
+      "id": "d7e2335c",
+      "bank_id": "c0319601",
+      "text": "Harika, şu Ödül Avcısı denen kişi bu."
+    },
+    {
+      "id": "d7e2335d",
+      "bank_id": "c0319601",
+      "text": "Bu gerçekten de Ödül Avcısı."
+    },
+    {
+      "id": "d7e2335e",
+      "bank_id": "c0319601",
+      "text": "Hey, şu Ödül Avcısı, değil mi?"
+    },
+    {
+      "id": "d7e2335f",
+      "bank_id": "c0319601",
+      "text": "Sana söylüyorum, bu Ödül Avcısı."
+    },
+    {
+      "id": "d9d73bc3",
+      "bank_id": "c0319601",
+      "text": "Bakın kim gelmiş, Kasap bu."
+    },
+    {
+      "id": "d9d73bc5",
+      "bank_id": "c0319601",
+      "text": "Bakın kim gelmiş. Kasap bu."
+    },
+    {
+      "id": "d9d73bc6",
+      "bank_id": "c0319601",
+      "text": "Bakın kim geçiyor, Kasap bu."
+    },
+    {
+      "id": "da810ff0",
+      "bank_id": "c0319601",
+      "text": "Sana söylüyorum, Lokum bu."
+    },
+    {
+      "id": "da810ff1",
+      "bank_id": "c0319601",
+      "text": "Lokum dedikleri kişi bu, değil mi?"
+    },
+    {
+      "id": "da810ff2",
+      "bank_id": "c0319601",
+      "text": "Ah, Lokum bu."
+    },
+    {
+      "id": "da810ff3",
+      "bank_id": "c0319601",
+      "text": "Gözlerim beni yanıltmıyorsa bu Lokum mu?"
+    },
+    {
+      "id": "da810ff4",
+      "bank_id": "c0319601",
+      "text": "Vay vay, oradaki Lokum değilse neyim."
+    },
+    {
+      "id": "da810ff6",
+      "bank_id": "c0319601",
+      "text": "Lokum tam orada işte."
+    },
+    {
+      "id": "da810ff7",
+      "bank_id": "c0319601",
+      "text": "Bakın kim gelmiş, Lokum bu."
+    },
+    {
+      "id": "df811790",
+      "bank_id": "c0319601",
+      "text": "Hey bakın, Lokum bu, değil mi?"
+    },
+    {
+      "id": "df811791",
+      "bank_id": "c0319601",
+      "text": "Hey bakın! Lokum bu! Gördünüz mü?"
+    },
+    {
+      "id": "df811792",
+      "bank_id": "c0319601",
+      "text": "Şu maceracıya Lokum diyorlar, biliyorsun değil mi."
+    },
+    {
+      "id": "df811793",
+      "bank_id": "c0319601",
+      "text": "İşte Lokum orada. Merhaba."
+    },
+    {
+      "id": "df811795",
+      "bank_id": "c0319601",
+      "text": "Lokum, tam orada."
+    },
+    {
+      "id": "df811796",
+      "bank_id": "c0319601",
+      "text": "Vay vay. Lokum gelmiş."
+    },
+    {
+      "id": "df811797",
+      "bank_id": "c0319601",
+      "text": "Ah Lokum. Çok tatlısın sen."
+    },
+    {
+      "id": "e4d74d70",
+      "bank_id": "c0319601",
+      "text": "Sana söylüyorum, Kasap bu!"
+    },
+    {
+      "id": "eb6e5388",
+      "bank_id": "c0319601",
+      "text": "Tavuk Kovalayan'a yol açın!"
+    },
+    {
+      "id": "eb6e538a",
+      "bank_id": "c0319601",
+      "text": "Tavuk Kovalayan! Tavuk Kovalayan bu!"
+    },
+    {
+      "id": "eb6e538b",
+      "bank_id": "c0319601",
+      "text": "Tavuk Kovalayan mı? Ciddi misiniz? O mu yani?"
+    },
+    {
+      "id": "eb6e538c",
+      "bank_id": "c0319601",
+      "text": "İşte şu Tavuk Kovalayan geçiyor."
+    },
+    {
+      "id": "eb6e538d",
+      "bank_id": "c0319601",
+      "text": "Şu Tavuk Kovalayan yok mu. Hep hareket halinde."
+    },
+    {
+      "id": "eb6e538e",
+      "bank_id": "c0319601",
+      "text": "Tavuk Kovalayan mı? Tavuklar bizim için bir tehdit mi oluşturuyor ki?"
+    },
+    {
+      "id": "eb6e538f",
+      "bank_id": "c0319601",
+      "text": "Tavuk Kovalayan mı? Ne kadar sıradan."
+    },
+    {
+      "id": "ed9cb7f4",
+      "bank_id": "c0319601",
+      "text": "İşte Kılıç dedikleri kadın bu."
+    },
+    {
+      "id": "ed9cb7ff",
+      "bank_id": "c0319601",
+      "text": "İşte Kılıç dedikleri adam bu."
+    },
+    {
+      "id": "f06e5ba9",
+      "bank_id": "c0319601",
+      "text": "Çiftçiler! Tavuklarınızı kilitleyin. Tavuk Kovalayan geliyor."
+    },
+    {
+      "id": "f06e5baa",
+      "bank_id": "c0319601",
+      "text": "Hey, Tavuk Kovalayan bu!"
+    },
+    {
+      "id": "f06e5bab",
+      "bank_id": "c0319601",
+      "text": "Oh, Tavuk Kovalayan bu. Sana söylüyorum!"
+    },
+    {
+      "id": "f06e5bac",
+      "bank_id": "c0319601",
+      "text": "Tavuklarınızı kilitleyin. Tavuk Kovalayan bu."
+    },
+    {
+      "id": "f06e5bad",
+      "bank_id": "c0319601",
+      "text": "Sana söylüyorum, Tavuk Kovalayan bu."
+    },
+    {
+      "id": "f06e5bae",
+      "bank_id": "c0319601",
+      "text": "Tavuk Kovalayan pek ilham verici bir isim sayılmaz, öyle değil mi?"
+    },
+    {
+      "id": "f06e5baf",
+      "bank_id": "c0319601",
+      "text": "Tavuk Kovalayan. Hmm... pek soylu sayılmaz, değil mi?"
+    },
+    {
+      "id": "f1376d60",
+      "bank_id": "c0319601",
+      "text": "Bakın, Silahşor bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "f1376d6b",
+      "bank_id": "c0319601",
+      "text": "Bakın, Silahşor bu. Ne işler çeviriyor acaba."
+    }
+  ]
+}

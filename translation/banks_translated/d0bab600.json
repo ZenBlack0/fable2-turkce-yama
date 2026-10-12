@@ -1,0 +1,1026 @@
+{
+  "bank_id": "d0bab600",
+  "total_strings": 204,
+  "strings": [
+    {
+      "id": "03a38479",
+      "bank_id": "d0bab600",
+      "text": "Evet! Bunu nasıl başardın bilmiyorum ama tam da aradığım şey buydu. Daha önce hiç poz vermediğin gibi poz vermeye hazırlan!"
+    },
+    {
+      "id": "05a3ac8d",
+      "bank_id": "d0bab600",
+      "text": "Westcliff. Ücret: 100 Altın"
+    },
+    {
+      "id": "08c8b93c",
+      "bank_id": "d0bab600",
+      "text": "Hmm, şuradan biraz daha yontmam gerekiyor..."
+    },
+    {
+      "id": "098a85a0",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "098a85a2",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "098a85a3",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "098a85a4",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "098a85a5",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "098a85a6",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "098a85a7",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "0ac8bc02",
+      "bank_id": "d0bab600",
+      "text": "Ah Susannah, sen bir dehasın."
+    },
+    {
+      "id": "0bc8bdf5",
+      "bank_id": "d0bab600",
+      "text": "Hadi heykel, orada olduğunu biliyorum. Göster kendini."
+    },
+    {
+      "id": "0c595603",
+      "bank_id": "d0bab600",
+      "text": "Ahh, bana yeniden modellik mi yapmak istiyorsun?"
+    },
+    {
+      "id": "0e03d506",
+      "bank_id": "d0bab600",
+      "text": "Henüz bulunamadı."
+    },
+    {
+      "id": "13b8f8ac",
+      "bank_id": "d0bab600",
+      "text": "Heykeltıraş"
+    },
+    {
+      "id": "17b6f761",
+      "bank_id": "d0bab600",
+      "text": "Şunun için heykel yaptırın:"
+    },
+    {
+      "id": "1d428468",
+      "bank_id": "d0bab600",
+      "text": "Boş bir heykel kaidesi buldunuz. Keşke buraya konacak bir heykelinizi yapabilecek bir heykeltıraş olsaydı..."
+    },
+    {
+      "id": "1ee422ef",
+      "bank_id": "d0bab600",
+      "text": "Brightwood. Ücret: 75 Altın"
+    },
+    {
+      "id": "20428921",
+      "bank_id": "d0bab600",
+      "text": "Boş bir heykel kaidesi buldunuz. Oakfield heykeltıraşına buraya konmak üzere bir heykelinizi sipariş edebilirsiniz."
+    },
+    {
+      "id": "20ca9d93",
+      "bank_id": "d0bab600",
+      "text": "Seni çevreleyen alanın kendine has bir enerjisi var; ontolojik huzursuzluğun yarı somut bir temsili. Hadi ama poz vermeye başla!"
+    },
+    {
+      "id": "216461df",
+      "bank_id": "d0bab600",
+      "text": "Ah, zamandan bir anı koparıp kendine mal ettin. Şimdi ben de onu kendime mal edeceğim."
+    },
+    {
+      "id": "21ca9f06",
+      "bank_id": "d0bab600",
+      "text": "Bana poz vermediğin sürece maceracı ruhunu bağlama oturtamam!"
+    },
+    {
+      "id": "22caa0f9",
+      "bank_id": "d0bab600",
+      "text": "İçe kapanıklık bir seçenek değil. Her şeyi dışa vur! Her şeyi sergile!"
+    },
+    {
+      "id": "2e88d390",
+      "bank_id": "d0bab600",
+      "text": "Vay canına! Ne olağanüstü bir dönüşüm! Kusursuzluğun dağlarına tırmandın resmen."
+    },
+    {
+      "id": "3188d869",
+      "bank_id": "d0bab600",
+      "text": "Sesimdeki alayı fark ettiğine şüphe yok. Daha çok çabala. Soyut bir çalışma yapmıyorum."
+    },
+    {
+      "id": "319c9a06",
+      "bank_id": "d0bab600",
+      "text": "Bir heykel siparişi verilsin mi?"
+    },
+    {
+      "id": "327ce1ed",
+      "bank_id": "d0bab600",
+      "text": "Ne bekliyorsunuz?"
+    },
+    {
+      "id": "329c9bf9",
+      "bank_id": "d0bab600",
+      "text": "Susannah ile konuşun."
+    },
+    {
+      "id": "339c9d6c",
+      "bank_id": "d0bab600",
+      "text": "İfadeyi serbest bırakın."
+    },
+    {
+      "id": "33e1cedf",
+      "bank_id": "d0bab600",
+      "text": "Ne yapacağını biliyorsun. Poz vermeye başla!"
+    },
+    {
+      "id": "349c9edf",
+      "bank_id": "d0bab600",
+      "text": "Bir ifade gerçekleştirin ve basılı tutun."
+    },
+    {
+      "id": "34e1d0b2",
+      "bank_id": "d0bab600",
+      "text": "İstediğin herhangi bir şey ama ben bitir diyene kadar pozu koru."
+    },
+    {
+      "id": "359ca0b2",
+      "bank_id": "d0bab600",
+      "text": "Heykeltıraşa modellik yapılsın mı?"
+    },
+    {
+      "id": "3acdf6d0",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "3acdf6d1",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "3acdf6d2",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "3acdf6d3",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "3acdf6d4",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "3acdf6d5",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "3acdf6d7",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "41ce01d8",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "41ce01d9",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "41ce01da",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "41ce01dc",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "41ce01dd",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "41ce01de",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "41ce01df",
+      "bank_id": "d0bab600",
+      "text": "Benimle eve geliyorsun."
+    },
+    {
+      "id": "44086194",
+      "bank_id": "d0bab600",
+      "text": "Çocuğunuzu hobbe'lerin elinden kurtarın!"
+    },
+    {
+      "id": "46290cb8",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum tatlım. Evde görüşürüz."
+    },
+    {
+      "id": "46290cb9",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "46290cba",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "46290cbb",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "46290cbd",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "46290cbe",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "46290cbf",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "51291de8",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "51291de9",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "51291dea",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "51291deb",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "51291dec",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "51291dee",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "51291def",
+      "bank_id": "d0bab600",
+      "text": "Seni seviyorum canım. Evde görüşürüz."
+    },
+    {
+      "id": "52f45304",
+      "bank_id": "d0bab600",
+      "text": "Dehanın bir bedeli vardır, bu yüzden bir dahaki sefere biraz altın getir."
+    },
+    {
+      "id": "55f457dd",
+      "bank_id": "d0bab600",
+      "text": "Ben bir sanatçıyım, hayır kurumu değil!"
+    },
+    {
+      "id": "5690d511",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "5690d512",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "5690d513",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "5690d514",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "5690d515",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "5690d516",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "5690d517",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "6190e646",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "6190e647",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "64ff9c90",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "64ff9c91",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "64ff9c92",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "64ff9c93",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "64ff9c94",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "64ff9c95",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "64ff9c97",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "6671ec01",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "6671ec02",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "6671ec03",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "6671ec04",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "6671ec05",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "6671ec06",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "6671ec07",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "68af7cc4",
+      "bank_id": "d0bab600",
+      "text": "Evet, doğru ya, neden ünlü ve hayran olunan biri olasın ki...?"
+    },
+    {
+      "id": "6bffa798",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "6bffa799",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "6bffa79a",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "6bffa79c",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "6bffa79d",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "6bffa79e",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "6bffa79f",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı kızım."
+    },
+    {
+      "id": "7171fdb0",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "7171fdb2",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "7171fdb3",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "7171fdb4",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "7171fdb5",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "7171fdb6",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "7171fdb7",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "72a40489",
+      "bank_id": "d0bab600",
+      "text": "Susannah'ya modellik yapılsın mı?"
+    },
+    {
+      "id": "735fdeb8",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "735fdeb9",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "735fdeba",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "735fdebb",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "735fdebd",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "735fdebe",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "735fdebf",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "73fc3ce3",
+      "bank_id": "d0bab600",
+      "text": "Çekiciliğinizi artırın."
+    },
+    {
+      "id": "7be209a6",
+      "bank_id": "d0bab600",
+      "text": "Geri dönecektir..."
+    },
+    {
+      "id": "7be209ad",
+      "bank_id": "d0bab600",
+      "text": "Geri dönecektir..."
+    },
+    {
+      "id": "7e5fefe8",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "7e5fefe9",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "7e5fefea",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "7e5fefeb",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "7e5fefec",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "7e5fefee",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "7e5fefef",
+      "bank_id": "d0bab600",
+      "text": "<worried moans>"
+    },
+    {
+      "id": "918305d0",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "918305d1",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "918305d3",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "918305d4",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "918305d5",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "918305d6",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "918305d7",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "929401e4",
+      "bank_id": "d0bab600",
+      "text": "Güzellik geçicidir ama doğru araçlarla ulaşılabilir. Senin için hâlâ umut var."
+    },
+    {
+      "id": "93940357",
+      "bank_id": "d0bab600",
+      "text": "Görünüşünü düzeltirsen maceracı-model kariyerin neredeyse garanti. Bir maceracı modellerimden birini okşamıştı bir keresinde. Elini kestim."
+    },
+    {
+      "id": "959406bd",
+      "bank_id": "d0bab600",
+      "text": "Zarafet ile iticiliğin kesiştiği noktada duruyorsun. Ve ben şahsen iticilik olmadan da idare edebilirdim."
+    },
+    {
+      "id": "988310d0",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "988310d1",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "988310d2",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "988310d3",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "988310d4",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "988310d5",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "988310d6",
+      "bank_id": "d0bab600",
+      "text": "Canı yanmadan önce onu bulmalısın."
+    },
+    {
+      "id": "9ea24538",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "9ea24539",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "9ea2453a",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "9ea2453b",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "9ea2453d",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "9ea2453e",
+      "bank_id": "d0bab600",
+      "text": "Ah, buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "9ea2453f",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "a01ffae4",
+      "bank_id": "d0bab600",
+      "text": "Sadece... şu görünüşünle ilgili bir şeyler yap. Ölümsüzlük seni çağırıyor!"
+    },
+    {
+      "id": "a30053cf",
+      "bank_id": "d0bab600",
+      "text": "Tamamlanan heykelin nereye yerleştirilmesini istersin?"
+    },
+    {
+      "id": "a31fffbd",
+      "bank_id": "d0bab600",
+      "text": "Yine de ters giden bir şeyler var... Ah evet. Güneşte kurumuş gübre yığınlarının bile estetik açıdan daha hoş olduğunu gördüm."
+    },
+    {
+      "id": "a9a25668",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "a9a25669",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "a9a2566a",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "a9a2566b",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "a9a2566c",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "a9a2566e",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "a9a2566f",
+      "bank_id": "d0bab600",
+      "text": "Buradasın demek. Çok endişelendim."
+    },
+    {
+      "id": "b0645ba8",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b0645ba9",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b0645baa",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b0645bab",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b0645bac",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b0645bad",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b0645bae",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b58bd8df",
+      "bank_id": "d0bab600",
+      "text": "Ve böylesine dikkat çekici bir fizyonomi... Seni hemen ölümsüzleştireceğim!"
+    },
+    {
+      "id": "b96469f8",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b96469f9",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b96469fb",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b96469fc",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b96469fd",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b96469fe",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "b96469ff",
+      "bank_id": "d0bab600",
+      "text": "Rookridge'deki hobbe'lerle dolu bir mağaraya gitti!"
+    },
+    {
+      "id": "bb09a4d0",
+      "bank_id": "d0bab600",
+      "text": "%1 altın ödeyerek %2 konumundaki heykel için poz verilsin mi?"
+    },
+    {
+      "id": "c60f3e67",
+      "bank_id": "d0bab600",
+      "text": "Fairfax Bahçeleri. Ücret: 500 Altın"
+    },
+    {
+      "id": "cb4c3329",
+      "bank_id": "d0bab600",
+      "text": "Oakfield'deki bir heykeltıraş yeni bir model arıyor.\nŞanını yaymak ve ün kazanmak için kendi heykellerini sipariş et."
+    },
+    {
+      "id": "cf67b80c",
+      "bank_id": "d0bab600",
+      "text": "Güzel. Duyu dünyamı pozunla doldurdun. Artık bitirebilirsin."
+    },
+    {
+      "id": "d067b9ff",
+      "bank_id": "d0bab600",
+      "text": "Zafer dolu bir poz! Tek yapman gereken bitirmek, ben de yontmaya başlamaya hazır olacağım."
+    },
+    {
+      "id": "d167bb52",
+      "bank_id": "d0bab600",
+      "text": "Evet! Sanki tamamlanmış heykeli şimdiden görüyor gibiyim. Şimdi sadece pozu tamamla."
+    },
+    {
+      "id": "db9fd24b",
+      "bank_id": "d0bab600",
+      "text": "Bloodstone. Ücret: 150 Altın"
+    },
+    {
+      "id": "f01c4f11",
+      "bank_id": "d0bab600",
+      "text": "Oakfield. Ücret: 50 Altın"
+    },
+    {
+      "id": "f0cb454c",
+      "bank_id": "d0bab600",
+      "text": "Umarım ücretin hevesini kırmasına izin vermiyorsundur. Sanatın karşısında altının ne hükmü var?"
+    },
+    {
+      "id": "f1cb473f",
+      "bank_id": "d0bab600",
+      "text": "Hadi ama. Poz ver! Canının çektiğini biliyorsun."
+    },
+    {
+      "id": "f377cf4c",
+      "bank_id": "d0bab600",
+      "text": "Kaidenin üzerinde durun."
+    },
+    {
+      "id": "f3cb4a05",
+      "bank_id": "d0bab600",
+      "text": "Tüm dünyanın hayran kalacağı bir anıta dönüşebilirsin."
+    },
+    {
+      "id": "f4827e60",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "f4827e61",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "f4827e62",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "f4827e63",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "f4827e64",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "f4827e65",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "f4827e67",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "f62160c1",
+      "bank_id": "d0bab600",
+      "text": "Daha fazla boş heykel kaidesi bulmak için dünyayı keşfedin."
+    },
+    {
+      "id": "f8e2b26c",
+      "bank_id": "d0bab600",
+      "text": "Önce zindandan kaçmalısınız."
+    },
+    {
+      "id": "fb828968",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "fb828969",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "fb82896a",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "fb82896c",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "fb82896d",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "fb82896e",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "fb82896f",
+      "bank_id": "d0bab600",
+      "text": "Artık macera yok, tamam mı?"
+    },
+    {
+      "id": "fe8a7471",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "fe8a7472",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "fe8a7473",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "fe8a7474",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "fe8a7475",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "fe8a7476",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    },
+    {
+      "id": "fe8a7477",
+      "bank_id": "d0bab600",
+      "text": "Ah, benim zavallı oğlum."
+    }
+  ]
+}

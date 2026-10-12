@@ -1,0 +1,636 @@
+{
+  "bank_id": "a0bab600",
+  "total_strings": 126,
+  "strings": [
+    {
+      "id": "01eb6052",
+      "bank_id": "a0bab600",
+      "text": "Şey, olay şu ki bir mağara bulduk... ama galiba... kazara bayağı pis bir banshee serbest bıraktık."
+    },
+    {
+      "id": "01f607e8",
+      "bank_id": "a0bab600",
+      "text": "Ama bazen öyle nafile görünüyor ki Toby Kardeş."
+    },
+    {
+      "id": "02eb61c5",
+      "bank_id": "a0bab600",
+      "text": "Şu ana kadar Bloodstone'u birbirine katmıştır herhalde. Yoluna çıkan herkesi katlediyordur."
+    },
+    {
+      "id": "02f6095b",
+      "bank_id": "a0bab600",
+      "text": "Bu kanunsuz kasabayı dönüştüreceğiz. Tek gereken birazcık inanç."
+    },
+    {
+      "id": "0318e6bd",
+      "bank_id": "a0bab600",
+      "text": "Şimdi gidin, Hayırsever Taşralılar elinize rehber olsun."
+    },
+    {
+      "id": "03eb63b8",
+      "bank_id": "a0bab600",
+      "text": "Onu öldürmeniz gerek. Lütfen. Annem öğrenirse..."
+    },
+    {
+      "id": "0433c6e2",
+      "bank_id": "a0bab600",
+      "text": "Toby'yi kasabayı terk edene kadar korkutun veya onu öldürün."
+    },
+    {
+      "id": "047daac1",
+      "bank_id": "a0bab600",
+      "text": "Turta Toby'ye verilsin mi?"
+    },
+    {
+      "id": "04eb652b",
+      "bank_id": "a0bab600",
+      "text": "Evet, aklıma gelmişken, gerçekten Bowerstone'a dönsek iyi olur."
+    },
+    {
+      "id": "04f60ca1",
+      "bank_id": "a0bab600",
+      "text": "Her şeye rağmen çabalarımıza devam etmeliyiz Rahibe Beverly."
+    },
+    {
+      "id": "057dacb4",
+      "bank_id": "a0bab600",
+      "text": "Şarap Toby'ye verilsin mi?"
+    },
+    {
+      "id": "05f60e14",
+      "bank_id": "a0bab600",
+      "text": "Şu meşhur Gümüş Yılan'ı bu kasabadan temizlememiz gerektiği çok açık."
+    },
+    {
+      "id": "067dae27",
+      "bank_id": "a0bab600",
+      "text": "Koyun eti Toby'ye verilsin mi?"
+    },
+    {
+      "id": "06f60f87",
+      "bank_id": "a0bab600",
+      "text": "Ama nasıl? Çok güçlüler. Üstelik Tapınağımızdan bir sürü kutsal emanet çaldılar."
+    },
+    {
+      "id": "077daf9a",
+      "bank_id": "a0bab600",
+      "text": "Toby'nin Bloodstone'u huzurlu bir kasabaya dönüştürmesine yardım edilsin mi?"
+    },
+    {
+      "id": "07f6117a",
+      "bank_id": "a0bab600",
+      "text": "Bize de biraz yardım gerekebilir."
+    },
+    {
+      "id": "08f612ed",
+      "bank_id": "a0bab600",
+      "text": "Doğru söylüyorsun Rahibe. Kesinlikle öyle."
+    },
+    {
+      "id": "1537e84c",
+      "bank_id": "a0bab600",
+      "text": "Ne?! Git başımdan. İşim var!"
+    },
+    {
+      "id": "1737eb92",
+      "bank_id": "a0bab600",
+      "text": "Baksanıza, dedim ki... Ah, siz misiniz? Şey, buradaki işim henüz bitmedi. Neden gidip şey bulmuyorsunuz, durun bakayım... başka ne istiyordum ben?"
+    },
+    {
+      "id": "1837ed05",
+      "bank_id": "a0bab600",
+      "text": "Bir daha söylemeyeceğim. Kaybolun!"
+    },
+    {
+      "id": "1e9ba1b3",
+      "bank_id": "a0bab600",
+      "text": "Evi arayın ve Bağışlanma Şarabı'nı ele geçirin."
+    },
+    {
+      "id": "2102a0bf",
+      "bank_id": "a0bab600",
+      "text": "Bu görev T.O.B.Y.'ye değerinizi kanıtlayacak."
+    },
+    {
+      "id": "2202a212",
+      "bank_id": "a0bab600",
+      "text": "Emanetle döndüğünüzde, Bloodstone'un o kokuşmuş iç yüzünü açıklayacağım."
+    },
+    {
+      "id": "228e8eac",
+      "bank_id": "a0bab600",
+      "text": "Kapıyı açana kadar Toby'nin kapısını çalın."
+    },
+    {
+      "id": "2302a385",
+      "bank_id": "a0bab600",
+      "text": "Dışarıda adımlarınıza dikkat edin. Gölgelerde ne tür karanlık bir varlığın pusuda yattığını asla bilemezsiniz."
+    },
+    {
+      "id": "278c760c",
+      "bank_id": "a0bab600",
+      "text": "İlk bakışta hedefleriniz sıradan haneler gibi görünebilir ama aslında Gümüş Yılan üyelerinin gizli karargahlarıdır."
+    },
+    {
+      "id": "29a1f52a",
+      "bank_id": "a0bab600",
+      "text": "Belki de bu kötülük yuvasında kendinizi evinizde hissediyorsunuzdur ama Tapınağa yardım etmek size büyük ödüller kazandırabilir."
+    },
+    {
+      "id": "29f52a08",
+      "bank_id": "a0bab600",
+      "text": "Yakındaki bir evde gizlendiğini hissediyorum. Görüyorum ki... Dışarıda iki fıçı ve bir el arabası var. Çıkınca sola dönün ve sokaktan yukarı çıkın."
+    },
+    {
+      "id": "2a8c7ac5",
+      "bank_id": "a0bab600",
+      "text": "Burası bir günah şehri. Dikkatli olun. Akbabalar. Her yerde akbabalar var."
+    },
+    {
+      "id": "2af52bfb",
+      "bank_id": "a0bab600",
+      "text": "Yakında daha fazlasını anlatacağım ama önce çalınan ikinci kutsal ayin emanetini geri almalısınız. Bağışlanma Şarabı'dır o."
+    },
+    {
+      "id": "2ba72ec5",
+      "bank_id": "a0bab600",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2df530b4",
+      "bank_id": "a0bab600",
+      "text": "Harika! Ebedi Umut Koyun Eti'ni getirdiniz. Siz T.O.B.Y.'nin layık bir üyesisiniz."
+    },
+    {
+      "id": "2ff5339a",
+      "bank_id": "a0bab600",
+      "text": "Reaver'ı unutun, Bloodstone Gümüş Yılan olarak bilinen gizli bir örgüt tarafından yönetiliyor."
+    },
+    {
+      "id": "30f5350d",
+      "bank_id": "a0bab600",
+      "text": "Bu şehrin bu keşmekeş halinin ardındaki sebebi size anlatma vaktim geldi."
+    },
+    {
+      "id": "37df6bc8",
+      "bank_id": "a0bab600",
+      "text": "(sızlanır)"
+    },
+    {
+      "id": "3af38d05",
+      "bank_id": "a0bab600",
+      "text": "T.O.B.Y."
+    },
+    {
+      "id": "3b9b74f8",
+      "bank_id": "a0bab600",
+      "text": "Ben Toby, T.O.B.Y.'den, yani Hayırsever Taşralılar Tapınağı'ndanım. Bu kasabayı en az Bowerstone ya da Oakfield kadar huzurlu ve sakin bir diyara dönüştürme görevindeyim."
+    },
+    {
+      "id": "3b9b74fd",
+      "bank_id": "a0bab600",
+      "text": "Ama Arınma Ayini için kutsal emanetleri geri getirecek birine ihtiyacım var."
+    },
+    {
+      "id": "3c93bf9b",
+      "bank_id": "a0bab600",
+      "text": "Koyun etini Toby'ye verin."
+    },
+    {
+      "id": "3c9b766b",
+      "bank_id": "a0bab600",
+      "text": "Yine de ne kadar yozlaşmış ve günahkâr bir yer olduğunu fark etmişsinizdir şüphesiz."
+    },
+    {
+      "id": "3d9b77de",
+      "bank_id": "a0bab600",
+      "text": "Hoş geldiniz yabancı. Buralı değilsiniz, değil mi?"
+    },
+    {
+      "id": "481432b0",
+      "bank_id": "a0bab600",
+      "text": "(çığlık atar)"
+    },
+    {
+      "id": "49143423",
+      "bank_id": "a0bab600",
+      "text": "(sızlanır)"
+    },
+    {
+      "id": "4fe155fd",
+      "bank_id": "a0bab600",
+      "text": "Evi arayın ve çalınan Ebedi Umut Koyun Eti'ni ele geçirin."
+    },
+    {
+      "id": "50143f28",
+      "bank_id": "a0bab600",
+      "text": "Anneciğim!"
+    },
+    {
+      "id": "516960fc",
+      "bank_id": "a0bab600",
+      "text": "Bizi öldürecekler!"
+    },
+    {
+      "id": "5214420e",
+      "bank_id": "a0bab600",
+      "text": "İmdat! Lütfen!"
+    },
+    {
+      "id": "5269626f",
+      "bank_id": "a0bab600",
+      "text": "Biri yardım etsin! Lütfen! Kimse yok mu! İmdat!"
+    },
+    {
+      "id": "531443e1",
+      "bank_id": "a0bab600",
+      "text": "Biri bizi kurtarsın!"
+    },
+    {
+      "id": "54144554",
+      "bank_id": "a0bab600",
+      "text": "Kardeşim tam bir ahmak! İmdat!"
+    },
+    {
+      "id": "546965b5",
+      "bank_id": "a0bab600",
+      "text": "İmdat! İmdat!"
+    },
+    {
+      "id": "551446c7",
+      "bank_id": "a0bab600",
+      "text": "İmdat! Bisküvilerimiz bitti!"
+    },
+    {
+      "id": "561448ba",
+      "bank_id": "a0bab600",
+      "text": "(çığlık atar)"
+    },
+    {
+      "id": "56bd3847",
+      "bank_id": "a0bab600",
+      "text": "Hayırsever Taşralılar Tapınağı'nın yardımınıza ihtiyacı var."
+    },
+    {
+      "id": "57144a2d",
+      "bank_id": "a0bab600",
+      "text": "Kardeşim tam bir mankafa! İmdat!"
+    },
+    {
+      "id": "5c02824d",
+      "bank_id": "a0bab600",
+      "text": "T.O.B.Y. karargahından ayrılın."
+    },
+    {
+      "id": "62a446fd",
+      "bank_id": "a0bab600",
+      "text": "Lütfen! Öldürmeyin beni! Giderim! Sonsuza dek giderim! Aagh!"
+    },
+    {
+      "id": "62f01601",
+      "bank_id": "a0bab600",
+      "text": "Bana sorarsanız şu dolandırıcıdan kurtulmalısınız. Korkutup kasabadan kaçırın ya da kafasını kesin, umurumda değil. Buralarda bir sürü insan bunun için size minnettar kalır. Hem endişelenecek muhafız da yok."
+    },
+    {
+      "id": "63848478",
+      "bank_id": "a0bab600",
+      "text": "Hayırsever Taşralılar Tapınağı'nı, Oakfield gezimden ve oranın ne kadar sakin ve mutlu bir topluluk olduğunu gördükten sonra kurdum."
+    },
+    {
+      "id": "63f017f4",
+      "bank_id": "a0bab600",
+      "text": "Bu sefer neymiş, yine tapınak dümeni mi? Heh heh heh. Kesin sahte bir rahip ya da rahibeyle bu kasabayı nasıl temizleyecekleri hakkında konuşup aklınızı çelmiştir."
+    },
+    {
+      "id": "648485eb",
+      "bank_id": "a0bab600",
+      "text": "Bir gün fark ettim ki yodeling sahiden ruhu arındırsa da dünyayı güzelleştirmenin ticaretten daha iyi yolları var."
+    },
+    {
+      "id": "64d58db4",
+      "bank_id": "a0bab600",
+      "text": "Bazı zavallı insanların sokaklarda dolaşıp bedenlerini en günahkâr şekilde satmak zorunda kaldıkları dikkatimi çekti. Bana böyle kayıp bir ruh getirin de ona hatalarını göstereyim."
+    },
+    {
+      "id": "64f01967",
+      "bank_id": "a0bab600",
+      "text": "O domuz her zaman bir dümen çevirip pis işlerini dışarıdan birine yaptırır."
+    },
+    {
+      "id": "6584875e",
+      "bank_id": "a0bab600",
+      "text": "Belki de T.O.B.Y.'nin önceki halini duymuşsunuzdur? Ticaret ve Yodeling Tapınağı'nı?"
+    },
+    {
+      "id": "65d58f27",
+      "bank_id": "a0bab600",
+      "text": "Hatta Arınma Ayini'nin son emanetlerini toplamadan önce sizin için önemli bir görevim var. Temizliği derhâl başlatacak bir görev."
+    },
+    {
+      "id": "65f01ada",
+      "bank_id": "a0bab600",
+      "text": "Demek Toby'nin son kurbanı sizsiniz, öyle mi?"
+    },
+    {
+      "id": "66d5909a",
+      "bank_id": "a0bab600",
+      "text": "Ah, evet, teşekkürler. Milyonlarca kez teşekkürler. Sonunda bu şehri temizleyeceğiz."
+    },
+    {
+      "id": "6a848f7d",
+      "bank_id": "a0bab600",
+      "text": "Tabii bu, o kasabanın başına gelen o korkunç trajediden önceydi. Ne büyük ziyan."
+    },
+    {
+      "id": "6f55dfd0",
+      "bank_id": "a0bab600",
+      "text": "Yodelingin bu şehirdeki insanların kalbini değiştirmeyi başaramamış olması ne acı, Toby Kardeş."
+    },
+    {
+      "id": "7055e143",
+      "bank_id": "a0bab600",
+      "text": "Cesaret, azim ve inançla bunu başaracağız. Bütün kötülükleri bu lağım çukurundan temizleyeceğiz."
+    },
+    {
+      "id": "71915a2d",
+      "bank_id": "a0bab600",
+      "text": "Kasabada hiç fahişe kalmadı. Bölgeden ayrılın ve bu işe yeni başlayan olup olmadığını görmek için geri dönün."
+    },
+    {
+      "id": "7255e4a9",
+      "bank_id": "a0bab600",
+      "text": "Dünyayı kurtaracaksak yöntemlerimizi uyarlamalıyız Rahibe Beverly."
+    },
+    {
+      "id": "73551a61",
+      "bank_id": "a0bab600",
+      "text": "Toby hakkında daha fazla bilgi edinmeye çalışın."
+    },
+    {
+      "id": "77171246",
+      "bank_id": "a0bab600",
+      "text": "Evi arayın ve Kutsal İyilik Turtası'nı ele geçirin."
+    },
+    {
+      "id": "78e95c97",
+      "bank_id": "a0bab600",
+      "text": "Yok, sen söyle ona."
+    },
+    {
+      "id": "78e95c9c",
+      "bank_id": "a0bab600",
+      "text": "Yok, sen söyle ona."
+    },
+    {
+      "id": "8222deba",
+      "bank_id": "a0bab600",
+      "text": "Leziz bir et parçası."
+    },
+    {
+      "id": "918f3170",
+      "bank_id": "a0bab600",
+      "text": "Turtayı bulun. Dünyayı kurtarın."
+    },
+    {
+      "id": "928f32e3",
+      "bank_id": "a0bab600",
+      "text": "Tüm ayin emanetlerini topladığımda, Bloodstone'u Albion'un dört bir yanından gelen Hayırsever Taşralıların kendini evinde hissedeceği bir yere dönüştüreceğiz."
+    },
+    {
+      "id": "938f3456",
+      "bank_id": "a0bab600",
+      "text": "Cesaret, azim ve inançla bütün kötülükleri bu lağım çukurundan yıkayıp atacağız."
+    },
+    {
+      "id": "95874601",
+      "bank_id": "a0bab600",
+      "text": "Bu kötülük yuvasına nizam getirmemize yardım edecek misiniz?"
+    },
+    {
+      "id": "96b322a8",
+      "bank_id": "a0bab600",
+      "text": "Kutsal İyilik Turtası"
+    },
+    {
+      "id": "9bb33f34",
+      "bank_id": "a0bab600",
+      "text": "Bulabildiniz mi?"
+    },
+    {
+      "id": "9cb340a7",
+      "bank_id": "a0bab600",
+      "text": "Verin lütfen. Kasabanın geleceği buna bağlı."
+    },
+    {
+      "id": "9eb3438d",
+      "bank_id": "a0bab600",
+      "text": "Aldınız mı artık?"
+    },
+    {
+      "id": "aca1afd4",
+      "bank_id": "a0bab600",
+      "text": "Tüm umutlarımız size bağlı."
+    },
+    {
+      "id": "af56cc52",
+      "bank_id": "a0bab600",
+      "text": "Turtayı Toby'ye verin."
+    },
+    {
+      "id": "b3d3cbd4",
+      "bank_id": "a0bab600",
+      "text": "Fahişeyi Toby'ye götürün."
+    },
+    {
+      "id": "b7238bb0",
+      "bank_id": "a0bab600",
+      "text": "Diğer kutsal emanetler gibi sıradaki nesne de alelade bir şey gibi görünse de olağanüstü bir güce sahip. O... Kutsal İyilik Turtası."
+    },
+    {
+      "id": "b8238d23",
+      "bank_id": "a0bab600",
+      "text": "Kayıkhanenin yanındaki bir evde tutulduğunu hissediyorum. Burnunuzun sizi yönlendirmesine izin verin yeter."
+    },
+    {
+      "id": "b8702deb",
+      "bank_id": "a0bab600",
+      "text": "Banshee'den korkmuyorsun, değil mi?"
+    },
+    {
+      "id": "b9702f5e",
+      "bank_id": "a0bab600",
+      "text": "Sırf sen korkuyorsun diye herkesi korkak sanıyorsun."
+    },
+    {
+      "id": "ba239009",
+      "bank_id": "a0bab600",
+      "text": "Harika. Yakında ayini gerçekleştirebilecek ve Gümüş Yılan çetesini yok edebileceğim; böylece Hayırsever Taşralı seferimizin yolu açılacak."
+    },
+    {
+      "id": "ba703131",
+      "bank_id": "a0bab600",
+      "text": "O banshee herkesi kılıçtan geçirmeden önce Bloodstone'a gitseniz iyi olur."
+    },
+    {
+      "id": "bb7032a4",
+      "bank_id": "a0bab600",
+      "text": "Bunu görmeme izin vermediğine inanamıyorum."
+    },
+    {
+      "id": "bc703417",
+      "bank_id": "a0bab600",
+      "text": "Sanırım bütün bunlardan kıymetli bir ders çıkardık."
+    },
+    {
+      "id": "bd70358a",
+      "bank_id": "a0bab600",
+      "text": "Evet, asla kardeşinin peşinden bir yere gitme."
+    },
+    {
+      "id": "bdd88d3a",
+      "bank_id": "a0bab600",
+      "text": "Umarım bu ayaktakımı haydutların, boğazkesenlerin ve çapulcuların hepsinin birer hayırsever taşralı olduğu günü görürüm."
+    },
+    {
+      "id": "be65b3c6",
+      "bank_id": "a0bab600",
+      "text": "Şey, tam olarak öyle değil. Hadi, sen söyle ona."
+    },
+    {
+      "id": "be65b3cd",
+      "bank_id": "a0bab600",
+      "text": "Şey, tam olarak öyle değil. Hadi, sen söyle ona."
+    },
+    {
+      "id": "c5900f29",
+      "bank_id": "a0bab600",
+      "text": "Huzurla gidin dostum."
+    },
+    {
+      "id": "d058b9c7",
+      "bank_id": "a0bab600",
+      "text": "Bu kızı lanetlenmenin eşiğinden döndüreceksem gerçekten biraz baş başa kalmaya ihtiyacım var."
+    },
+    {
+      "id": "d158bbba",
+      "bank_id": "a0bab600",
+      "text": "Ona Hayırsever Taşralı yolunu tanıtmam gerek, bu yüzden lütfen dışarıda bekleyebilirseniz."
+    },
+    {
+      "id": "d258bd2d",
+      "bank_id": "a0bab600",
+      "text": "Şimdi ayrılırsanız gerçekten ama gerçekten çok memnun olurum."
+    },
+    {
+      "id": "da79b4d1",
+      "bank_id": "a0bab600",
+      "text": "Tamam peki. İmdat! Ölmek istemiyorum!"
+    },
+    {
+      "id": "db79b644",
+      "bank_id": "a0bab600",
+      "text": "Şuna ne dersin? İmdat! İmdat!"
+    },
+    {
+      "id": "dc79b837",
+      "bank_id": "a0bab600",
+      "text": "Eee, senin o parlak fikrin neymiş?"
+    },
+    {
+      "id": "dd79b9aa",
+      "bank_id": "a0bab600",
+      "text": "Gördün mü? Onlara bisküvi fırlatmanın onları sadece daha çok kızdıracağını söylemiştim."
+    },
+    {
+      "id": "e105c5f9",
+      "bank_id": "a0bab600",
+      "text": "Şarabı Toby'ye verin."
+    },
+    {
+      "id": "e286634f",
+      "bank_id": "a0bab600",
+      "text": "Bloodstone'daki o banshee'yi öldürürseniz çok makbule geçer! Bizim yüzümüzden koca bir kasabanın ölmesini pek istemeyiz!"
+    },
+    {
+      "id": "e8136b94",
+      "bank_id": "a0bab600",
+      "text": "Bana getirdiğiniz kutsal ayin emanetlerini ait oldukları yerlere koydum bile. Bloodstone'a değişim geliyor."
+    },
+    {
+      "id": "e9136d07",
+      "bank_id": "a0bab600",
+      "text": "T.O.B.Y. sizin gibi birini bulduğu için çok talihli."
+    },
+    {
+      "id": "eb13706d",
+      "bank_id": "a0bab600",
+      "text": "Şu zavallı kızlar. Ve erkekler de elbette. Ama kızlarla başlayalım, olur mu?"
+    },
+    {
+      "id": "ec94e545",
+      "bank_id": "a0bab600",
+      "text": "Ebedi Umut Koyun Eti"
+    },
+    {
+      "id": "f099969d",
+      "bank_id": "a0bab600",
+      "text": "Leziz bir yaban mersinli turta."
+    },
+    {
+      "id": "f19aa02f",
+      "bank_id": "a0bab600",
+      "text": "Kutsal emaneti geri getirmek için daha fazla vakte mi ihtiyacınız var? Şey, peki öyleyse."
+    },
+    {
+      "id": "f2ea7374",
+      "bank_id": "a0bab600",
+      "text": "Hadi düşün yola o zaman. Olur mu?"
+    },
+    {
+      "id": "f3ea74e7",
+      "bank_id": "a0bab600",
+      "text": "Bir kese altın olsun bari. Yok, daha iyisi. Bir elmas, evet."
+    },
+    {
+      "id": "f4ea765a",
+      "bank_id": "a0bab600",
+      "text": "Sanırım sıradaki ayin emaneti şey olacak... Şey, bana bir dakika verin."
+    },
+    {
+      "id": "f69d9253",
+      "bank_id": "a0bab600",
+      "text": "Toby'ye bir fahişe getirin."
+    },
+    {
+      "id": "fbf5fe56",
+      "bank_id": "a0bab600",
+      "text": "Biliyorum, biliyorum. Yine de bir yolunu bulmalıyız."
+    },
+    {
+      "id": "fc18dbb8",
+      "bank_id": "a0bab600",
+      "text": "Ama Arınma Ayini için gereken kutsal emanetlerin ilkini geri almadan olmaz: Ebedi Umut Koyun Eti'dir o."
+    },
+    {
+      "id": "fc18dbbd",
+      "bank_id": "a0bab600",
+      "text": "Sahilde, dövmecinin üstündeki bir evde saklandığını hissediyorum. Dün yanından geçerken o leziz ve kutsal kokusunu alabiliyordum."
+    },
+    {
+      "id": "fcf5ffc9",
+      "bank_id": "a0bab600",
+      "text": "Bilmiyorum, bazen bu korkunç şehre asla barış getiremeyeceğimizi düşünüyorum."
+    },
+    {
+      "id": "fd18dd2b",
+      "bank_id": "a0bab600",
+      "text": "Bloodstone'u bugün içinde bulunduğu anarşi çukuruna sürükleyen o vahim kumpastan size bahsedeceğim."
+    },
+    {
+      "id": "fe18de9e",
+      "bank_id": "a0bab600",
+      "text": "T.O.B.Y. sizi takdis ediyor dostum."
+    }
+  ]
+}

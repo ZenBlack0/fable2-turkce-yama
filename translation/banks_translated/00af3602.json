@@ -1,0 +1,736 @@
+{
+  "bank_id": "00af3602",
+  "total_strings": 146,
+  "strings": [
+    {
+      "id": "0d9435d0",
+      "bank_id": "00af3602",
+      "text": "Şu hırsızı hâlâ yakalayamamış olmaları gülünç."
+    },
+    {
+      "id": "0d9435d1",
+      "bank_id": "00af3602",
+      "text": "O hırsızı hâlâ yakalayamadılar."
+    },
+    {
+      "id": "0d9435d2",
+      "bank_id": "00af3602",
+      "text": "Ve hırsız hâlâ yakalanabilmiş değil."
+    },
+    {
+      "id": "0d9435d3",
+      "bank_id": "00af3602",
+      "text": "Hırsız gözaltına alındı mı bari?"
+    },
+    {
+      "id": "0d9435d4",
+      "bank_id": "00af3602",
+      "text": "O hırsızlığı hâlâ çözemediler mi yani?"
+    },
+    {
+      "id": "0d9435d6",
+      "bank_id": "00af3602",
+      "text": "Şu soygunu hâlâ aydınlatamadılar mı?"
+    },
+    {
+      "id": "0d9435d7",
+      "bank_id": "00af3602",
+      "text": "Şu hırsızdan hâlâ bir iz yok mu?"
+    },
+    {
+      "id": "12943df0",
+      "bank_id": "00af3602",
+      "text": "Hırsızın ellerini kesmeliler. Tabii herifi yakalayabilirlerse."
+    },
+    {
+      "id": "12943df1",
+      "bank_id": "00af3602",
+      "text": "Hırsızı hâlâ yakalayamadılar mı? Cık cık."
+    },
+    {
+      "id": "12943df2",
+      "bank_id": "00af3602",
+      "text": "Muhafızlar bu soygunları asla çözemiyor. Kabul edilemez bu."
+    },
+    {
+      "id": "12943df3",
+      "bank_id": "00af3602",
+      "text": "Hırsızı hâlâ yakalayamadılar mı? Vah vah."
+    },
+    {
+      "id": "12943df5",
+      "bank_id": "00af3602",
+      "text": "Muhafızlar hırsızı hâlâ yakalamadı mı yani?"
+    },
+    {
+      "id": "12943df6",
+      "bank_id": "00af3602",
+      "text": "Bir hırsızı yakalamak bu kadar zor olamaz."
+    },
+    {
+      "id": "12943df7",
+      "bank_id": "00af3602",
+      "text": "O hırsız nasıl hâlâ serbestçe dolaşabiliyor?"
+    },
+    {
+      "id": "142cfbc5",
+      "bank_id": "00af3602",
+      "text": "Dikkat etmezsen yüzündeki tebessümü bile çalar bu adam."
+    },
+    {
+      "id": "142cfbce",
+      "bank_id": "00af3602",
+      "text": "Dikkat etmezsen yüzündeki tebessümü bile çalar bu kadın."
+    },
+    {
+      "id": "159a2271",
+      "bank_id": "00af3602",
+      "text": "O hırsızı yakalayamamalarına hiç şaşırmadım. Muhafızların ne kadar aptal olduğunu görmedin mi?"
+    },
+    {
+      "id": "159a2274",
+      "bank_id": "00af3602",
+      "text": "O pis hırsızı yakalayana kadar bütün değerli eşyalarımı koruma altına almam gerekecek."
+    },
+    {
+      "id": "159a2276",
+      "bank_id": "00af3602",
+      "text": "Hırsızın kim olduğunu günün birinde bulabileceklerini sanıyor musun?"
+    },
+    {
+      "id": "1ca52596",
+      "bank_id": "00af3602",
+      "text": "Mülke izinsiz girerken yakalamışlar kadını. Biraz gözetlemeci galiba, değil mi?"
+    },
+    {
+      "id": "1ca5259d",
+      "bank_id": "00af3602",
+      "text": "Mülke izinsiz girerken yakalamışlar adamı. Biraz röntgenci galiba, değil mi?"
+    },
+    {
+      "id": "1e9a305a",
+      "bank_id": "00af3602",
+      "text": "Hırsızın kim olduğunu hâlâ bilmiyorlar mı? Şey, bana öyle bakma!"
+    },
+    {
+      "id": "1e9a305c",
+      "bank_id": "00af3602",
+      "text": "Şu hırsızı hâlâ yakalayamadılar, değil mi?"
+    },
+    {
+      "id": "1e9a305f",
+      "bank_id": "00af3602",
+      "text": "Dışarıda serbest bir hırsız daha."
+    },
+    {
+      "id": "243a8b89",
+      "bank_id": "00af3602",
+      "text": "Sokakta mı uyuyorsun? Sahiden o kadar düştün mü be?"
+    },
+    {
+      "id": "243a8b8d",
+      "bank_id": "00af3602",
+      "text": "Uyuyacak bir yatak bulamadın mı kendine?"
+    },
+    {
+      "id": "25805a34",
+      "bank_id": "00af3602",
+      "text": "Güvenilmez biri olduğunu hep biliyordum. Şimdi de bir hırsız olduğu ortaya çıktı."
+    },
+    {
+      "id": "25805a3f",
+      "bank_id": "00af3602",
+      "text": "Güvenilmez biri olduğunu hep biliyordum. Şimdi de bir hırsız olduğu ortaya çıktı."
+    },
+    {
+      "id": "26151df6",
+      "bank_id": "00af3602",
+      "text": "Başkalarının evinde vakit geçirmeyi seviyor. Hem de davetsizce yani."
+    },
+    {
+      "id": "26151dfd",
+      "bank_id": "00af3602",
+      "text": "Başkalarının evinde vakit geçirmeyi seviyor. Hem de davetsizce yani."
+    },
+    {
+      "id": "26db9739",
+      "bank_id": "00af3602",
+      "text": "Mülke izinsiz girerken seni bir daha yakalamayayım."
+    },
+    {
+      "id": "26db973a",
+      "bank_id": "00af3602",
+      "text": "Öyle başkalarının evine izinsiz girip durma şimdi."
+    },
+    {
+      "id": "27e3818a",
+      "bank_id": "00af3602",
+      "text": "Vandal serbestçe dolaşıyor."
+    },
+    {
+      "id": "27e3818b",
+      "bank_id": "00af3602",
+      "text": "Duyduğuma göre sağı solu kırmayı dökme pek seviyormuş."
+    },
+    {
+      "id": "27e3818d",
+      "bank_id": "00af3602",
+      "text": "Maceracılar bir şeyleri parçalamayı pek seviyor anlaşılan."
+    },
+    {
+      "id": "27e3818e",
+      "bank_id": "00af3602",
+      "text": "Başkalarının eşyalarını kırarken yakalanmış."
+    },
+    {
+      "id": "2a067db5",
+      "bank_id": "00af3602",
+      "text": "Tam bir beceriksiz hırsız. Yakalandı işte, değil mi."
+    },
+    {
+      "id": "2a067dbe",
+      "bank_id": "00af3602",
+      "text": "Tam bir beceriksiz hırsız. Yakalandı işte, değil mi."
+    },
+    {
+      "id": "2a06b541",
+      "bank_id": "00af3602",
+      "text": "Önüne gelen her şeyi kırar bu."
+    },
+    {
+      "id": "2a06b54a",
+      "bank_id": "00af3602",
+      "text": "Önüne gelen her şeyi kırar bu."
+    },
+    {
+      "id": "2f3a9d39",
+      "bank_id": "00af3602",
+      "text": "Bir yatak bul kendine seni serseri!"
+    },
+    {
+      "id": "2f3a9d3c",
+      "bank_id": "00af3602",
+      "text": "İçinde uyuyacak düzgün bir yatağı karşılayabilirsin herhalde."
+    },
+    {
+      "id": "2f971d50",
+      "bank_id": "00af3602",
+      "text": "Attığı her adımda mala zarar veriyor."
+    },
+    {
+      "id": "2f971d5b",
+      "bank_id": "00af3602",
+      "text": "Attığı her adımda mala zarar veriyor."
+    },
+    {
+      "id": "30e38fd8",
+      "bank_id": "00af3602",
+      "text": "Bir vandala sadece bakarak bile kim olduğunu anlarsın. İşte bir tanesi orada."
+    },
+    {
+      "id": "30e38fd9",
+      "bank_id": "00af3602",
+      "text": "Eşyalarınıza dikkat edin, şurada bir vandal var."
+    },
+    {
+      "id": "30e38fdb",
+      "bank_id": "00af3602",
+      "text": "Ne vandal ama."
+    },
+    {
+      "id": "30e38fde",
+      "bank_id": "00af3602",
+      "text": "Şuradaki şu vandal işte."
+    },
+    {
+      "id": "30e38fdf",
+      "bank_id": "00af3602",
+      "text": "İşte şu vandal geliyor."
+    },
+    {
+      "id": "3762bee9",
+      "bank_id": "00af3602",
+      "text": "Sen! Bir vandaldan başka bir şey değilsin."
+    },
+    {
+      "id": "3762beed",
+      "bank_id": "00af3602",
+      "text": "Etrafı tahrip etmek hoşuna gidiyor, değil mi?"
+    },
+    {
+      "id": "407f9b71",
+      "bank_id": "00af3602",
+      "text": "Bir tür hayvan gibi sağı solu kırarken yakalamamışlar mıydı onu?"
+    },
+    {
+      "id": "407f9b7a",
+      "bank_id": "00af3602",
+      "text": "Bir tür hayvan gibi sağı solu kırarken yakalamamışlar mıydı onu?"
+    },
+    {
+      "id": "4262d019",
+      "bank_id": "00af3602",
+      "text": "O eşyaları kırıp dökmekten keyif aldın, değil mi."
+    },
+    {
+      "id": "4262d01c",
+      "bank_id": "00af3602",
+      "text": "Başkalarının eşyalarını kırmak mı? Çocuk değilsin sen."
+    },
+    {
+      "id": "51e8ce4d",
+      "bank_id": "00af3602",
+      "text": "Aramızdan herhangi biri hırsız olabilir."
+    },
+    {
+      "id": "5ce8dffe",
+      "bank_id": "00af3602",
+      "text": "Hırsızın kim olabileceğine dair bir fikrin var mı?"
+    },
+    {
+      "id": "5d0acde1",
+      "bank_id": "00af3602",
+      "text": "Uyuyacak bir yeri bile karşılayamıyor. Sokakta sıçan gibi yatıyor."
+    },
+    {
+      "id": "5d0acdea",
+      "bank_id": "00af3602",
+      "text": "Uyuyacak bir yeri bile karşılayamıyor. Sokakta sıçan gibi yatıyor."
+    },
+    {
+      "id": "63920c33",
+      "bank_id": "00af3602",
+      "text": "Pek bir serseriye benzemiyor, değil mi? Ama ta kendisi!"
+    },
+    {
+      "id": "63920c38",
+      "bank_id": "00af3602",
+      "text": "Pek bir serseriye benzemiyor, değil mi? Ama ta kendisi!"
+    },
+    {
+      "id": "643a0888",
+      "bank_id": "00af3602",
+      "text": "Bir maceracının serseriliğe düştüğünü göreceğim hiç aklıma gelmezdi ama öyle bir devirde yaşıyoruz işte."
+    },
+    {
+      "id": "643a088b",
+      "bank_id": "00af3602",
+      "text": "Serseriler! Nefret ederim onlardan! Hele iri yarı ve güçlü olanlarından."
+    },
+    {
+      "id": "65cdbf9c",
+      "bank_id": "00af3602",
+      "text": "Soygunları çözmek öyle zor ki. Bazen neden uğraştığımızı bile merak ediyorum."
+    },
+    {
+      "id": "65cdbf9f",
+      "bank_id": "00af3602",
+      "text": "Hırsızların elimizden kaçıp gitmesinden bıktım usandım. Ama onları yakalamak da çok zahmetli iş."
+    },
+    {
+      "id": "72467f11",
+      "bank_id": "00af3602",
+      "text": "Sokakta uyurken buldukları şu herif değil mi bu? Tam bir sokak sıçanı."
+    },
+    {
+      "id": "72467f1a",
+      "bank_id": "00af3602",
+      "text": "Sokakta uyurken buldukları şu kadın değil mi bu? Tam bir sokak sıçanı."
+    },
+    {
+      "id": "72947df8",
+      "bank_id": "00af3602",
+      "text": "O vandalı bulacağız. Yapacağımız son şey olsa bile."
+    },
+    {
+      "id": "72947dfb",
+      "bank_id": "00af3602",
+      "text": "Vandalın kim olduğunu görmedin, değil mi?"
+    },
+    {
+      "id": "7456d403",
+      "bank_id": "00af3602",
+      "text": "Dürüst olmak gerekirse o bir maceracı, neden bir şeyler çalmaya ihtiyacı olsun ki?"
+    },
+    {
+      "id": "7456d408",
+      "bank_id": "00af3602",
+      "text": "Dürüst olmak gerekirse o bir maceracı, neden bir şeyler çalmaya ihtiyacı olsun ki?"
+    },
+    {
+      "id": "75e5a42a",
+      "bank_id": "00af3602",
+      "text": "Vandalın kim olduğunu görmedin, değil mi?"
+    },
+    {
+      "id": "7768eeb5",
+      "bank_id": "00af3602",
+      "text": "Umarım gece için uygun bir kalacak yer bulmuşsundur. Benim nöbetimde serserilik istemem."
+    },
+    {
+      "id": "7768eeb6",
+      "bank_id": "00af3602",
+      "text": "Yine sokakta uyumayacaksın, değil mi?"
+    },
+    {
+      "id": "7a01f949",
+      "bank_id": "00af3602",
+      "text": "O hırsızı yakalayacağız, yapacağımız son şey olsa bile. Tabii önce karnımız acıkmaz veya uykumuz gelmezse. Haliyle."
+    },
+    {
+      "id": "7a01f94a",
+      "bank_id": "00af3602",
+      "text": "Bu soygun vakasında yeni bir ipucu yok. Tam bir bilmece."
+    },
+    {
+      "id": "7ae5abc9",
+      "bank_id": "00af3602",
+      "text": "Hımm, tanıdık geliyorsun. O vandal sağı solu kırıp dökerken buralarda mıydın?"
+    },
+    {
+      "id": "91219621",
+      "bank_id": "00af3602",
+      "text": "Evime izinsiz girmeyi aklından bile geçirme."
+    },
+    {
+      "id": "91219625",
+      "bank_id": "00af3602",
+      "text": "Umarım başkalarının evlerine girmemeyi öğrenmişsindir."
+    },
+    {
+      "id": "9c21a750",
+      "bank_id": "00af3602",
+      "text": "Birinin evinde olmayı bu kadar çok istiyorsan git kendi evini al."
+    },
+    {
+      "id": "9c21a755",
+      "bank_id": "00af3602",
+      "text": "İnsanlar evlerinin etrafında dikilip durmandan hiç hoşlanmaz, biliyorsun."
+    },
+    {
+      "id": "9e8e9dd0",
+      "bank_id": "00af3602",
+      "text": "Bakın, sokaklarda bir hırsız daha."
+    },
+    {
+      "id": "9e8e9dd2",
+      "bank_id": "00af3602",
+      "text": "Bana göre maceracıların hepsi birer hırsız."
+    },
+    {
+      "id": "9e8e9dd3",
+      "bank_id": "00af3602",
+      "text": "Eşyalarınıza iyi mukayyet olun, bilinen bir hırsız geçiyor işte."
+    },
+    {
+      "id": "a38ea5f0",
+      "bank_id": "00af3602",
+      "text": "Onun gibi birinin neden çalmaya ihtiyacı olsun ki?"
+    },
+    {
+      "id": "a38ea5f3",
+      "bank_id": "00af3602",
+      "text": "Hırsızların elinden her zaman en çok benim gibi insanlar çeker."
+    },
+    {
+      "id": "a38ea5f5",
+      "bank_id": "00af3602",
+      "text": "Görevlere çıkan birinin çalmadan da yeterince altını olacağını sanırsın."
+    },
+    {
+      "id": "a38ea5f7",
+      "bank_id": "00af3602",
+      "text": "Bana sorarsanız bu maceracıların hepsi birer hırsız."
+    },
+    {
+      "id": "a492ca47",
+      "bank_id": "00af3602",
+      "text": "Evet, o işte. Sana söylüyorum, sokakta uyurken yakalanmış."
+    },
+    {
+      "id": "a492ca4c",
+      "bank_id": "00af3602",
+      "text": "Evet, o işte. Sana söylüyorum, sokakta uyurken yakalanmış."
+    },
+    {
+      "id": "aa4a4755",
+      "bank_id": "00af3602",
+      "text": "Bir vandala benzemiyor olabilir ama ta kendisi."
+    },
+    {
+      "id": "aa4a475e",
+      "bank_id": "00af3602",
+      "text": "Bir vandala benzemiyor olabilir ama ta kendisi."
+    },
+    {
+      "id": "aa563515",
+      "bank_id": "00af3602",
+      "text": "Umarım başka vandallık eylemlerine kalkışmaya hevesin yoktur."
+    },
+    {
+      "id": "aa563516",
+      "bank_id": "00af3602",
+      "text": "Vandallığa hiç müsamaha göstermem. Ona göre ayağını denk al."
+    },
+    {
+      "id": "af4ff593",
+      "bank_id": "00af3602",
+      "text": "Birinci sınıf bir vandal bu, sana söyleyeyim."
+    },
+    {
+      "id": "af4ff598",
+      "bank_id": "00af3602",
+      "text": "Birinci sınıf bir vandal bu, sana söyleyeyim."
+    },
+    {
+      "id": "b438bbb9",
+      "bank_id": "00af3602",
+      "text": "Vandalı yakalayamazlarsa herhangi birimizin malı mülkü kırılabilir."
+    },
+    {
+      "id": "b438bbba",
+      "bank_id": "00af3602",
+      "text": "O vandal hâlâ dışarıda bir şeyleri mahvediyor olabilir."
+    },
+    {
+      "id": "b438bbbb",
+      "bank_id": "00af3602",
+      "text": "O vandalı yakalayana kadar eşyalarımı saklayacağım."
+    },
+    {
+      "id": "b438bbbc",
+      "bank_id": "00af3602",
+      "text": "Başka bir şey parçalanana kadar bekleyin yeter, bir vandal öyle yakalanır işte."
+    },
+    {
+      "id": "b49281f4",
+      "bank_id": "00af3602",
+      "text": "Bu maceracılar, bana sorarsan içten içe hepsi birer hırsız. Baksana şuna."
+    },
+    {
+      "id": "b49281ff",
+      "bank_id": "00af3602",
+      "text": "Bu maceracılar, bana sorarsan içten içe hepsi birer hırsız. Baksana şuna."
+    },
+    {
+      "id": "bd282c91",
+      "bank_id": "00af3602",
+      "text": "Son zamanlardaki bunca vandallığı duydun mu? İşte suçlu orada."
+    },
+    {
+      "id": "bd282c92",
+      "bank_id": "00af3602",
+      "text": "Şu vandal geçiyor işte."
+    },
+    {
+      "id": "bd282c93",
+      "bank_id": "00af3602",
+      "text": "Bir kez vandal olan hep vandaldır."
+    },
+    {
+      "id": "bd282c94",
+      "bank_id": "00af3602",
+      "text": "Bir vandala benzemiyor mu dedin? Fena halde yanılıyorsun."
+    },
+    {
+      "id": "bd282c95",
+      "bank_id": "00af3602",
+      "text": "Bir vandalı bir fersah öteden tanırsın. İşte bir tanesi orada."
+    },
+    {
+      "id": "bd282c97",
+      "bank_id": "00af3602",
+      "text": "Yeni bir vandallık eylemine tanık olursan hiç şaşırma."
+    },
+    {
+      "id": "c09de546",
+      "bank_id": "00af3602",
+      "text": "Tam bir canavar, bilirsin. Gözünün gördüğü her şeyi tahrip eder."
+    },
+    {
+      "id": "c09de54d",
+      "bank_id": "00af3602",
+      "text": "Tam bir canavar, bilirsin. Gözünün gördüğü her şeyi tahrip eder."
+    },
+    {
+      "id": "c8283dc0",
+      "bank_id": "00af3602",
+      "text": "Sana söylüyorum, şu maceracı tam bir vandal."
+    },
+    {
+      "id": "c8283dc2",
+      "bank_id": "00af3602",
+      "text": "Bir maceracının böyle bir vandal olacağını düşünmezdin, değil mi?"
+    },
+    {
+      "id": "c8283dc3",
+      "bank_id": "00af3602",
+      "text": "Şu maceracıya bir baksana. Tepeden tırnağa bir vandal."
+    },
+    {
+      "id": "c8283dc4",
+      "bank_id": "00af3602",
+      "text": "Ne holigan ama."
+    },
+    {
+      "id": "c8283dc6",
+      "bank_id": "00af3602",
+      "text": "Dikkatli olun, o vandal her an saldırabilir."
+    },
+    {
+      "id": "c8283dc7",
+      "bank_id": "00af3602",
+      "text": "Bunca mala mülke zarar veren şu kişi değil mi bu?"
+    },
+    {
+      "id": "c8e0928c",
+      "bank_id": "00af3602",
+      "text": "Bana mı öyle geliyor yoksa hırsızlar çamurdan daha mı adi olmaya başladı?"
+    },
+    {
+      "id": "c8e0928f",
+      "bank_id": "00af3602",
+      "text": "Eşya çaldığı için bir maceracıyı yakaladığıma inanabiliyor musun? Dünya ne hallere geldi?"
+    },
+    {
+      "id": "d2f5a55c",
+      "bank_id": "00af3602",
+      "text": "O hırsızı derdest edeceğim. Et ve kemikten yaratıldığımdan ne kadar eminsem o kadar eminim."
+    },
+    {
+      "id": "d2f5a55f",
+      "bank_id": "00af3602",
+      "text": "O kokmuş hırsızı bulacağım. Sadece ne zaman olduğunu bilmiyorum. Ya da nasıl."
+    },
+    {
+      "id": "e4020007",
+      "bank_id": "00af3602",
+      "text": "Mülke izinsiz girmişti. Bundan sonra kapımı kilitlediğimden emin olacağım."
+    },
+    {
+      "id": "e402000c",
+      "bank_id": "00af3602",
+      "text": "Mülke izinsiz girmişti. Bundan sonra kapımı kilitlediğimden emin olacağım."
+    },
+    {
+      "id": "e61a2784",
+      "bank_id": "00af3602",
+      "text": "Şu izinsiz gireni duydun mu? Suçüstü yakalamışlar."
+    },
+    {
+      "id": "e61a2787",
+      "bank_id": "00af3602",
+      "text": "Evet, o maceracıyı milletin evine gizlice girerken yakalamışlar."
+    },
+    {
+      "id": "e6f4b2e0",
+      "bank_id": "00af3602",
+      "text": "Birinin evine gizlice girdi. Muhafızların onu yakalaması iyi oldu."
+    },
+    {
+      "id": "e6f4b2eb",
+      "bank_id": "00af3602",
+      "text": "Birinin evine gizlice girdi. Muhafızların onu yakalaması iyi oldu."
+    },
+    {
+      "id": "e930c378",
+      "bank_id": "00af3602",
+      "text": "Mala mülke zarar vermekten neden bu kadar zevk alıyorsun?"
+    },
+    {
+      "id": "e930c379",
+      "bank_id": "00af3602",
+      "text": "Sen pis bir vandal ve alçağın tekisin."
+    },
+    {
+      "id": "e930c37a",
+      "bank_id": "00af3602",
+      "text": "Bir şeyleri kırmamaya çalış, olur mu?"
+    },
+    {
+      "id": "e930c37b",
+      "bank_id": "00af3602",
+      "text": "Eskiden ben de senin gibi bir vandaldım. Şimdi ıslah oldum."
+    },
+    {
+      "id": "e930c37c",
+      "bank_id": "00af3602",
+      "text": "Milletin malını mülkünü kırıp döken kişi sensin, değil mi?"
+    },
+    {
+      "id": "e930c37d",
+      "bank_id": "00af3602",
+      "text": "Gerçek bir vandalsın, değil mi?"
+    },
+    {
+      "id": "e930c37e",
+      "bank_id": "00af3602",
+      "text": "Eşyaları kırmak hoşuna gidiyor, değil mi?"
+    },
+    {
+      "id": "f18de7a7",
+      "bank_id": "00af3602",
+      "text": "Bütün o şeyleri parçalarken yakalanan şu adam değil mi bu?"
+    },
+    {
+      "id": "f18de7ac",
+      "bank_id": "00af3602",
+      "text": "Bütün o şeyleri parçalarken yakalanan şu kadın değil mi bu?"
+    },
+    {
+      "id": "f230d148",
+      "bank_id": "00af3602",
+      "text": "Tam bir holigansın sen."
+    },
+    {
+      "id": "f230d149",
+      "bank_id": "00af3602",
+      "text": "Büyü artık seni vandal."
+    },
+    {
+      "id": "f230d14b",
+      "bank_id": "00af3602",
+      "text": "Senin gibi şeyleri parçalamak için tam bir kabadayı olmak gerekir."
+    },
+    {
+      "id": "f230d14c",
+      "bank_id": "00af3602",
+      "text": "Malıma mülküme dokunma sakın seni düşüncesiz vandal."
+    },
+    {
+      "id": "f230d14d",
+      "bank_id": "00af3602",
+      "text": "Vandallık eylemlerini hepimiz biliyoruz."
+    },
+    {
+      "id": "f230d14e",
+      "bank_id": "00af3602",
+      "text": "Hepimiz biraz vandallığı severiz. Marifet yakalanmamakta."
+    },
+    {
+      "id": "f230d14f",
+      "bank_id": "00af3602",
+      "text": "Umarım benim eşyalarımı da tahrip etmezsin."
+    },
+    {
+      "id": "f2b9b568",
+      "bank_id": "00af3602",
+      "text": "Vandallar! Her yerdeler. Maceracılar bile yapıyor bunu."
+    },
+    {
+      "id": "f2b9b56b",
+      "bank_id": "00af3602",
+      "text": "Maceracılardan nefret ediyorum. Sanki suç işleyen tek onlar varmış gibi. Vandallar."
+    },
+    {
+      "id": "f2c949ac",
+      "bank_id": "00af3602",
+      "text": "İşte bir vandal geçiyor. Geçen sefer suçüstü yakalanmıştı."
+    },
+    {
+      "id": "f2c949af",
+      "bank_id": "00af3602",
+      "text": "Şu maceracıya dikkat edin. Bir şeyleri kırmayı pek sever, ne demek istediğimi anlarsınız ya."
+    }
+  ]
+}

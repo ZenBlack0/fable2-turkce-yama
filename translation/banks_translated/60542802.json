@@ -1,0 +1,716 @@
+{
+  "bank_id": "60542802",
+  "total_strings": 142,
+  "strings": [
+    {
+      "id": "07a31edc",
+      "bank_id": "60542802",
+      "text": "Ne oluyor burada böyle?? Uzak dur benim adamımdan!"
+    },
+    {
+      "id": "1344c4e2",
+      "bank_id": "60542802",
+      "text": "Kocamla ne yapıyorsun sen???"
+    },
+    {
+      "id": "1344c4e9",
+      "bank_id": "60542802",
+      "text": "Karımla ne yapıyorsun sen???"
+    },
+    {
+      "id": "15b4bc67",
+      "bank_id": "60542802",
+      "text": "Ne demek istiyorsun?? Ben onun kocasıyım! İki yüzlü fingirdek!"
+    },
+    {
+      "id": "15b4bc6c",
+      "bank_id": "60542802",
+      "text": "Ne demek istiyorsun?? Ben onun kocasıyım! Pis sıçan!"
+    },
+    {
+      "id": "1c3a67a7",
+      "bank_id": "60542802",
+      "text": "Sen neden bahsediyorsun? O benim adamım! Ve bana vereceği bir hesap var, anladın mı beni?!"
+    },
+    {
+      "id": "1c3a67ac",
+      "bank_id": "60542802",
+      "text": "Sen neden bahsediyorsun? O benim kadınım! Ve bana vereceği bir hesap var, tamam mı?!"
+    },
+    {
+      "id": "2d1abac2",
+      "bank_id": "60542802",
+      "text": "Pardon??? Bununla ne demek istiyorsunuz?? Onunla evli olan benim! Ah! Bu hainliğe inanamıyorum!"
+    },
+    {
+      "id": "2d1abac9",
+      "bank_id": "60542802",
+      "text": "Pardon??? Bununla ne demek istiyorsunuz?? Onunla evli olan benim! Ah! Bu hainliğe inanamıyorum!"
+    },
+    {
+      "id": "44f1abd0",
+      "bank_id": "60542802",
+      "text": "O benim adamım! Çekil oradan!"
+    },
+    {
+      "id": "44f1abdb",
+      "bank_id": "60542802",
+      "text": "O benim kadınım! Çekil oradan!"
+    },
+    {
+      "id": "473bd346",
+      "bank_id": "60542802",
+      "text": "Karımla ne yapıyorsun sen???"
+    },
+    {
+      "id": "473bd34d",
+      "bank_id": "60542802",
+      "text": "Kocamla ne yapıyorsun sen???"
+    },
+    {
+      "id": "554d70d6",
+      "bank_id": "60542802",
+      "text": "Affedersiniz efendim?? O benim karım! Şok içindeyim!"
+    },
+    {
+      "id": "554d70dd",
+      "bank_id": "60542802",
+      "text": "Affedersiniz efendim?? O benim kocam! Şok içindeyim!"
+    },
+    {
+      "id": "5b3a4788",
+      "bank_id": "60542802",
+      "text": "Küçük kızımızın ne kadar mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "5b3a478a",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz gülümsemeyi durduramıyor. Sana bayılıyor!"
+    },
+    {
+      "id": "5b3a478b",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz çok mutlu! Harika değil mi?"
+    },
+    {
+      "id": "5b3a478c",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimizin ne kadar mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "5b3a478d",
+      "bank_id": "60542802",
+      "text": "Küçük prensesimiz sen buradayken öyle mutlu ki."
+    },
+    {
+      "id": "5b3a478e",
+      "bank_id": "60542802",
+      "text": "Bizim kendi kız bebeğimiz! Sürekli gülümsemesi harika değil mi?"
+    },
+    {
+      "id": "5b3a478f",
+      "bank_id": "60542802",
+      "text": "Ah, burnundan düşmüş senin. Ve öyle büyük bir mutluluk içinde görünüyor ki!"
+    },
+    {
+      "id": "5d704811",
+      "bank_id": "60542802",
+      "text": "Ne oluyor yahu burada?? Biz evliyiz biliyorsun!"
+    },
+    {
+      "id": "5d704814",
+      "bank_id": "60542802",
+      "text": "Eşimi rahat bırakın. Bu tam bir rezalet!"
+    },
+    {
+      "id": "5d704815",
+      "bank_id": "60542802",
+      "text": "Bunun ne anlama geldiğini bilmek istiyorum! O benim eşim!"
+    },
+    {
+      "id": "5e7a3c90",
+      "bank_id": "60542802",
+      "text": "Küçük kız bebeğimiz çok tatlı değil mi?"
+    },
+    {
+      "id": "5e7a3c91",
+      "bank_id": "60542802",
+      "text": "Bebeği kontrol ettin mi? Rahatsız olmasını istemeyiz."
+    },
+    {
+      "id": "5e7a3c93",
+      "bank_id": "60542802",
+      "text": "Uğraşırsak küçük kız bebeğimizin daha mutlu olabileceğine bahse girerim."
+    },
+    {
+      "id": "5f7b7d00",
+      "bank_id": "60542802",
+      "text": "Ayy, bebek mutlu değil miymiş? N'oldu bakayım? Ha? Nesi varmış?"
+    },
+    {
+      "id": "5f7b7d01",
+      "bank_id": "60542802",
+      "text": "Ayy, benim küçük askerim niye bu kadar üzgünmüş bakayım?"
+    },
+    {
+      "id": "5f7b7d03",
+      "bank_id": "60542802",
+      "text": "Ayy, erkek bebeğim mutsuz muymuş? Tamam geçti, geçti."
+    },
+    {
+      "id": "5f7b7d06",
+      "bank_id": "60542802",
+      "text": "Ayy, bebek mutlu değil miymiş? N'oldu bakayım? Ha? Nesi varmış?"
+    },
+    {
+      "id": "5f7b7d07",
+      "bank_id": "60542802",
+      "text": "Öyle bebek gibi olma oğlum."
+    },
+    {
+      "id": "5ffbe398",
+      "bank_id": "60542802",
+      "text": "Seni hain yosma! Ben senin kocanken başkasına evlilik mi teklif ediyorsun?? Bunca iğrençlik arasında bir de bu!"
+    },
+    {
+      "id": "5ffbe399",
+      "bank_id": "60542802",
+      "text": "Yok artık, bu kadarı da olmaz!!! Ben senin kocan değil miyim!?? Bir de başkasına mı evlilik teklif ediyorsun?? Kabul edilemez!"
+    },
+    {
+      "id": "5ffbe39a",
+      "bank_id": "60542802",
+      "text": "Hey!! Beni hatırladın mı??? Ben senin kocanım!! Ama artık çok sürmez!"
+    },
+    {
+      "id": "5ffbe39b",
+      "bank_id": "60542802",
+      "text": "Ne yaptığını sanıyorsun sen?? Benimle evlisin sen!!!!"
+    },
+    {
+      "id": "5ffbe39c",
+      "bank_id": "60542802",
+      "text": "Nasıl yaparsın bunu??! Ben zaten senin kocanım!"
+    },
+    {
+      "id": "5ffbe39d",
+      "bank_id": "60542802",
+      "text": "Sen ne dedin?! Başkasına mı evlilik teklif ediyorsun? Seni cadı seni!"
+    },
+    {
+      "id": "5ffbe39e",
+      "bank_id": "60542802",
+      "text": "N... Ne yaptığını sanıyorsun sen?? Benimle evlisin!! Yetti be!"
+    },
+    {
+      "id": "603a4fa9",
+      "bank_id": "60542802",
+      "text": "Küçük kızımızın ne kadar mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "603a4faa",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz çok mutlu! Harika değil mi?"
+    },
+    {
+      "id": "603a4fab",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz gülümsemeyi durduramıyor. Sana bayılıyor!"
+    },
+    {
+      "id": "603a4fac",
+      "bank_id": "60542802",
+      "text": "Küçük kızımız sen buradayken öyle mutlu ki."
+    },
+    {
+      "id": "603a4fad",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimizin ne kadar mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "603a4fae",
+      "bank_id": "60542802",
+      "text": "Ah, kız bebeğimizin gülümsediğini görmek içimi eritiyor!"
+    },
+    {
+      "id": "603a4faf",
+      "bank_id": "60542802",
+      "text": "Ah, küçük kızımız çok sevimli değil mi? Ve senin yanındayken öyle mutlu ki!"
+    },
+    {
+      "id": "657a4790",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimizin kadife bez bağlamaması gerektiğinden kesinlikle emin misin?"
+    },
+    {
+      "id": "657a4791",
+      "bank_id": "60542802",
+      "text": "Bebek prensesimizin burnunun bana çektiğine inanıyorum. Sen ne dersin?"
+    },
+    {
+      "id": "657a4792",
+      "bank_id": "60542802",
+      "text": "Biliyor musun, bence bizim kız büyüyünce çok güzel olacak."
+    },
+    {
+      "id": "657a4793",
+      "bank_id": "60542802",
+      "text": "Bizim şu kız sence de çok uyumuyor mu?"
+    },
+    {
+      "id": "657a4794",
+      "bank_id": "60542802",
+      "text": "Bebeği kontrol ettin mi? Rahatsız olmasını istemeyiz."
+    },
+    {
+      "id": "657a4795",
+      "bank_id": "60542802",
+      "text": "Küçük kız bebeğimiz çok tatlı değil mi?"
+    },
+    {
+      "id": "657a4796",
+      "bank_id": "60542802",
+      "text": "Uğraşırsak küçük kız bebeğimizin daha mutlu olabileceğine bahse girerim."
+    },
+    {
+      "id": "66705678",
+      "bank_id": "60542802",
+      "text": "Bunun ne anlama geldiğini bilmek istiyorum! O benim eşim!"
+    },
+    {
+      "id": "66705679",
+      "bank_id": "60542802",
+      "text": "Eşimi rahat bırakın. Bu tam bir rezalet!"
+    },
+    {
+      "id": "6670567c",
+      "bank_id": "60542802",
+      "text": "Ne oluyor yahu burada?? Biz evliyiz biliyorsun!"
+    },
+    {
+      "id": "667b8802",
+      "bank_id": "60542802",
+      "text": "Ayy, benim küçük askerim niye bu kadar üzgünmüş bakayım?"
+    },
+    {
+      "id": "667b8803",
+      "bank_id": "60542802",
+      "text": "Ayy, bebeğim mutsuz muymuş? Neden benim küçük askerim?"
+    },
+    {
+      "id": "667b8804",
+      "bank_id": "60542802",
+      "text": "Ayy, bebeğim mutsuz muymuş? Nesi varmış benim küçük oğlumun?"
+    },
+    {
+      "id": "667b8805",
+      "bank_id": "60542802",
+      "text": "Ayy, bebek mutlu değil miymiş? N'oldu bakayım? Ha? Nesi varmış?"
+    },
+    {
+      "id": "667b8806",
+      "bank_id": "60542802",
+      "text": "Ayy, erkek bebeğim mutsuz muymuş? Tamam geçti, geçti."
+    },
+    {
+      "id": "68fbf1e8",
+      "bank_id": "60542802",
+      "text": "Ne??! Başkasına mı evlilik teklif ediyorsun??? Seni domuz!"
+    },
+    {
+      "id": "68fbf1e9",
+      "bank_id": "60542802",
+      "text": "Nasıl yaparsın bunu??! Ben zaten senin karınım!"
+    },
+    {
+      "id": "68fbf1eb",
+      "bank_id": "60542802",
+      "text": "N... Ne yaptığını sanıyorsun sen?? Benimle evlisin!! Yetti be!"
+    },
+    {
+      "id": "68fbf1ec",
+      "bank_id": "60542802",
+      "text": "Yok artık, bu kadarı da olmaz!!! Ben senin karın değil miyim!?? Bir de başkasına mı evlilik teklif ediyorsun?? Kabul edilemez!"
+    },
+    {
+      "id": "68fbf1ed",
+      "bank_id": "60542802",
+      "text": "Seni hain alçak! Ben senin karınken başkasına evlilik mi teklif ediyorsun?? Bunca iğrençlik arasında bir de bu!"
+    },
+    {
+      "id": "68fbf1ee",
+      "bank_id": "60542802",
+      "text": "Ne yaptığını sanıyorsun sen? Benimle evlisin!"
+    },
+    {
+      "id": "68fbf1ef",
+      "bank_id": "60542802",
+      "text": "Hey!! Beni hatırladın mı??? Ben senin karınım!! Ama artık çok sürmez!"
+    },
+    {
+      "id": "6b2c1b71",
+      "bank_id": "60542802",
+      "text": "Neee?? O benimle de evli! Bunca pis numara arasında bir de bu!"
+    },
+    {
+      "id": "6b2c1b7a",
+      "bank_id": "60542802",
+      "text": "Neee?? O benimle de evli! Bunca pis numara arasında bir de bu!"
+    },
+    {
+      "id": "6cb36eb5",
+      "bank_id": "60542802",
+      "text": "Neee?? O benimle de evli! Bunca pis numara arasında bir de bu!"
+    },
+    {
+      "id": "6cb36ebe",
+      "bank_id": "60542802",
+      "text": "Neee?? O benimle de evli! Bunca pis numara arasında bir de bu!"
+    },
+    {
+      "id": "6e4b1d20",
+      "bank_id": "60542802",
+      "text": "Kimmiş bakalım üzgün küçük oğlan? Ağlama bakalım benim tatlı tombişim!"
+    },
+    {
+      "id": "6e4b1d21",
+      "bank_id": "60542802",
+      "text": "Ayy şimdi, benim küçük askerimin nesi varmış bakayım?"
+    },
+    {
+      "id": "6e4b1d22",
+      "bank_id": "60542802",
+      "text": "Bir şey mi oldu benim küçük sosicime?"
+    },
+    {
+      "id": "6e4b1d24",
+      "bank_id": "60542802",
+      "text": "Tamam tamam, ağlamaya gerek yok benim küçük askerim."
+    },
+    {
+      "id": "6e4b1d25",
+      "bank_id": "60542802",
+      "text": "Bebeklik kederinin derinliklerine kapılma sakın, baban burada!"
+    },
+    {
+      "id": "6e4b1d26",
+      "bank_id": "60542802",
+      "text": "Hadi bakalım, koca oğlanlar ağlamaz değil mi?"
+    },
+    {
+      "id": "6e4b1d27",
+      "bank_id": "60542802",
+      "text": "Kimmiş bakalım bu koca sulugöz? Tamam geçti, geçti. Tıpkı annen gibi cesur olmalısın!"
+    },
+    {
+      "id": "71b1c743",
+      "bank_id": "60542802",
+      "text": "Kafayı mı sıyırdın sen?? Ben onun erkeğiyim! Bu işte bir bit yeniği var!"
+    },
+    {
+      "id": "71b1c748",
+      "bank_id": "60542802",
+      "text": "Kafayı mı sıyırdın sen?? Ben onun erkeğiyim! Bu işte bir bit yeniği var!"
+    },
+    {
+      "id": "774b2b08",
+      "bank_id": "60542802",
+      "text": "Üzülme küçük prensim, sana yalnızca bir annenin bakabileceği gibi bakacağım."
+    },
+    {
+      "id": "774b2b09",
+      "bank_id": "60542802",
+      "text": "Hayır, ağlama benim minik çiçeğim!"
+    },
+    {
+      "id": "774b2b0a",
+      "bank_id": "60542802",
+      "text": "Hayııır, sakın ağlama benim tatlı tombişim!"
+    },
+    {
+      "id": "774b2b0b",
+      "bank_id": "60542802",
+      "text": "Hadi ama, babanın ağladığını görmüyorsun değil mi? Cesur küçük bir çocuk olmalısın!"
+    },
+    {
+      "id": "774b2b0c",
+      "bank_id": "60542802",
+      "text": "Ayy, öyle üzgün olma bakayım. Annen burada."
+    },
+    {
+      "id": "774b2b0d",
+      "bank_id": "60542802",
+      "text": "Benim oğlum üzgün müymüş? Bir yeri mi acımış?"
+    },
+    {
+      "id": "774b2b0f",
+      "bank_id": "60542802",
+      "text": "Ayy şimdi, benim küçük oğlumun nesi varmış bakayım?"
+    },
+    {
+      "id": "79cd0138",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "79cd0139",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz çamur içindeki küçük bir domuzcuk kadar mutlu."
+    },
+    {
+      "id": "79cd013d",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz çok mutlu!"
+    },
+    {
+      "id": "79cd013e",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "79cd013f",
+      "bank_id": "60542802",
+      "text": "Bebeğimiz şimdiye kadar gördüğün en mutlu şey değil mi?"
+    },
+    {
+      "id": "829219d2",
+      "bank_id": "60542802",
+      "text": "Affedersiniz efendim?? O benim kocam! Şok içindeyim!"
+    },
+    {
+      "id": "829219d9",
+      "bank_id": "60542802",
+      "text": "Affedersiniz efendim?? O benim karım! Şok içindeyim!"
+    },
+    {
+      "id": "84cd1268",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "84cd1269",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz çamur içindeki küçük bir domuzcuk kadar mutlu."
+    },
+    {
+      "id": "84cd126c",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz çok mutlu!"
+    },
+    {
+      "id": "84cd126e",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "84cd126f",
+      "bank_id": "60542802",
+      "text": "Kız bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "8b800e21",
+      "bank_id": "60542802",
+      "text": "Sence kız bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "8b800e22",
+      "bank_id": "60542802",
+      "text": "Sence kız bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "8b800e23",
+      "bank_id": "60542802",
+      "text": "Sence kız bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "8b800e24",
+      "bank_id": "60542802",
+      "text": "Sence kız bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "8b800e25",
+      "bank_id": "60542802",
+      "text": "Umarım kız bebeğimiz iyidir."
+    },
+    {
+      "id": "8cec5f17",
+      "bank_id": "60542802",
+      "text": "Neler oluyor burada??? O benim kocam!"
+    },
+    {
+      "id": "8cec5f1c",
+      "bank_id": "60542802",
+      "text": "Neler oluyor burada??? O benim karım!"
+    },
+    {
+      "id": "92c95d90",
+      "bank_id": "60542802",
+      "text": "O benim kadınım! Çekil oradan!"
+    },
+    {
+      "id": "92c95d9b",
+      "bank_id": "60542802",
+      "text": "O benim adamım! Çekil oradan!"
+    },
+    {
+      "id": "96801f50",
+      "bank_id": "60542802",
+      "text": "Umarım kız bebeğimiz iyidir."
+    },
+    {
+      "id": "96801f52",
+      "bank_id": "60542802",
+      "text": "Küçük kızımızla vakit geçirmelisin."
+    },
+    {
+      "id": "96801f53",
+      "bank_id": "60542802",
+      "text": "Sence kız bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "96801f54",
+      "bank_id": "60542802",
+      "text": "Umarım kız bebeğimiz iyidir."
+    },
+    {
+      "id": "96801f55",
+      "bank_id": "60542802",
+      "text": "Sence kız bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "973cd915",
+      "bank_id": "60542802",
+      "text": "Onunla evli misin?? Ben de öyleyim!!! Nasıl yapar bunu??!!"
+    },
+    {
+      "id": "973cd91e",
+      "bank_id": "60542802",
+      "text": "Onunla evli misin?? Ben de öyleyim!!! Nasıl yapar bunu??!!"
+    },
+    {
+      "id": "b840f984",
+      "bank_id": "60542802",
+      "text": "Sen neden bahsediyorsun? O benim adamım! Ve bana vereceği bir hesap var!"
+    },
+    {
+      "id": "b840f98f",
+      "bank_id": "60542802",
+      "text": "Sen neden bahsediyorsun? O benim kadınım! Ve bana vereceği bir hesap var!"
+    },
+    {
+      "id": "b8a7669c",
+      "bank_id": "60542802",
+      "text": "Annesinin küçük hazinesi kimmiş bakalım? Senmişsin!"
+    },
+    {
+      "id": "b8a7669d",
+      "bank_id": "60542802",
+      "text": "Ağu gugu gugu! Kimmiş bu küçük tatlı elma şekeri? Senmişsin!"
+    },
+    {
+      "id": "b8a7669e",
+      "bank_id": "60542802",
+      "text": "Şu gülümsemeye bir baksana! Bir sürü kadının kalbini kıracaksın sen. Evet öyle!"
+    },
+    {
+      "id": "b8a7669f",
+      "bank_id": "60542802",
+      "text": "Sen bir prens olacaksın, bir kral olacaksın, ne istersen o olacaksın! Gıdı gıdı gıdı!"
+    },
+    {
+      "id": "bda76eb9",
+      "bank_id": "60542802",
+      "text": "Gördüğüm en sevimli ufaklıksın neredeyse. Neredeyse benim kadar sevimli! Annene sor istersen."
+    },
+    {
+      "id": "bda76eba",
+      "bank_id": "60542802",
+      "text": "Tıpkı annen gibi cesur bir Kahraman olacaksın, değil mi?"
+    },
+    {
+      "id": "bda76ebb",
+      "bank_id": "60542802",
+      "text": "Babasının küçük oğlu kimmiş? Evet, sensin!"
+    },
+    {
+      "id": "bda76ebc",
+      "bank_id": "60542802",
+      "text": "Benim oğlumun kollarına bir baksana! Şu tombul bacaklara bak! Kesinlikle çok güçlü biri olacaksın!"
+    },
+    {
+      "id": "bda76ebd",
+      "bank_id": "60542802",
+      "text": "Tıpkı benim gibi ateşli bir can yakan olacaksın oğlum, değil mi?"
+    },
+    {
+      "id": "bda76ebe",
+      "bank_id": "60542802",
+      "text": "Şu gülümseme bir milyon bebek güneşi bile gölgede bırakır valla!"
+    },
+    {
+      "id": "bda76ebf",
+      "bank_id": "60542802",
+      "text": "Bütün Albion'un en yakışıklı küçük oğlanı. İşte sensin o!"
+    },
+    {
+      "id": "bec838d4",
+      "bank_id": "60542802",
+      "text": "Ne demek istiyorsun?? Ben onun karısıyım! İki yüzlü fingirdek!"
+    },
+    {
+      "id": "bec838df",
+      "bank_id": "60542802",
+      "text": "Ne demek istiyorsun?? Ben onun karısıyım! Pis sıçan!"
+    },
+    {
+      "id": "c7b73994",
+      "bank_id": "60542802",
+      "text": "Neler oluyor burada??? O benim kocam!"
+    },
+    {
+      "id": "c7b7399f",
+      "bank_id": "60542802",
+      "text": "Neler oluyor burada??? O benim karım!"
+    },
+    {
+      "id": "cac50246",
+      "bank_id": "60542802",
+      "text": "Pardon??? Bununla ne demek istiyorsunuz?? Onunla evli olan benim! Ah! Bu hainliğe inanamıyorum!"
+    },
+    {
+      "id": "cac5024d",
+      "bank_id": "60542802",
+      "text": "Pardon??? Bununla ne demek istiyorsunuz?? Onunla evli olan benim! Ah! Bu hainliğe inanamıyorum!"
+    },
+    {
+      "id": "cf7a1a64",
+      "bank_id": "60542802",
+      "text": "Ne oluyor burada böyle?? Uzak dur benim kadınımdan!"
+    },
+    {
+      "id": "cf7a1a6f",
+      "bank_id": "60542802",
+      "text": "Ne oluyor burada böyle?? Uzak dur benim adamımdan!"
+    },
+    {
+      "id": "e00448b1",
+      "bank_id": "60542802",
+      "text": "Onunla evli misin?? Ben de öyleyim!!! Nasıl yapar bunu??!!"
+    },
+    {
+      "id": "e00448ba",
+      "bank_id": "60542802",
+      "text": "Onunla evli misin?? Ben de öyleyim!!! Nasıl yapar bunu??!!"
+    },
+    {
+      "id": "e2ca6463",
+      "bank_id": "60542802",
+      "text": "Kafayı mı sıyırdın sen?? Ben onun kadınıyım! Bu işte bir bit yeniği var!"
+    },
+    {
+      "id": "e2ca6468",
+      "bank_id": "60542802",
+      "text": "Kafayı mı sıyırdın sen?? Ben onun kadınıyım! Bu işte bir bit yeniği var!"
+    }
+  ]
+}

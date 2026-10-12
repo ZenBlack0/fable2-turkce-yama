@@ -1,0 +1,2526 @@
+{
+  "bank_id": "d012ab00",
+  "total_strings": 504,
+  "strings": [
+    {
+      "id": "0329e49d",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "06596322",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "06816e94",
+      "bank_id": "d012ab00",
+      "text": "İşte böyle!"
+    },
+    {
+      "id": "06816e97",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "0779570c",
+      "bank_id": "d012ab00",
+      "text": "Baaaaahhh!"
+    },
+    {
+      "id": "0da48943",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "0e29f5cc",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "0f59710f",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "12fe1808",
+      "bank_id": "d012ab00",
+      "text": "Biri beni öldürsün artık."
+    },
+    {
+      "id": "12fe1809",
+      "bank_id": "d012ab00",
+      "text": "O kadar sıkıldım ki biraz değişiklik olsun diye beynim kulağımdan fırladı."
+    },
+    {
+      "id": "12fe180a",
+      "bank_id": "d012ab00",
+      "text": "Demek hakkında o kadar çok şey okuduğum iç sıkıntısı buymuş."
+    },
+    {
+      "id": "12fe180b",
+      "bank_id": "d012ab00",
+      "text": "Çok ama çok yorgunum."
+    },
+    {
+      "id": "12fe180d",
+      "bank_id": "d012ab00",
+      "text": "Kuruyan boyayı mı taklit ediyorsun öyle?"
+    },
+    {
+      "id": "12fe180e",
+      "bank_id": "d012ab00",
+      "text": "Çok ama çok sıkıcı."
+    },
+    {
+      "id": "12fe180f",
+      "bank_id": "d012ab00",
+      "text": "Bu can sıkıntısı artık canıma tak etmeye başladı."
+    },
+    {
+      "id": "13d8b8d0",
+      "bank_id": "d012ab00",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "13d8b8d1",
+      "bank_id": "d012ab00",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "13d8b8d3",
+      "bank_id": "d012ab00",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "1423ca6a",
+      "bank_id": "d012ab00",
+      "text": "Pekâlâ! Evet!"
+    },
+    {
+      "id": "1423ca6b",
+      "bank_id": "d012ab00",
+      "text": "Pekâlâ! Evet!"
+    },
+    {
+      "id": "1423ca6c",
+      "bank_id": "d012ab00",
+      "text": "Pekâlâ! Evet!"
+    },
+    {
+      "id": "1423ca6d",
+      "bank_id": "d012ab00",
+      "text": "Pekâlâ! Evet!"
+    },
+    {
+      "id": "1423ca6e",
+      "bank_id": "d012ab00",
+      "text": "Pekâlâ! Evet!"
+    },
+    {
+      "id": "14a49446",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "1a574d40",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "1a574d41",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "1a574d42",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "1a574d43",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "1a574d44",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "1a574d45",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "1a574d47",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "1ad8c3d4",
+      "bank_id": "d012ab00",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "1ad8c3d5",
+      "bank_id": "d012ab00",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "1ad8c3d6",
+      "bank_id": "d012ab00",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "1b416af8",
+      "bank_id": "d012ab00",
+      "text": "Bu o kadar bayatladı ki."
+    },
+    {
+      "id": "1b416afa",
+      "bank_id": "d012ab00",
+      "text": "Daha önce gördüm. Milyonlarca kez."
+    },
+    {
+      "id": "1b416afb",
+      "bank_id": "d012ab00",
+      "text": "Bunu daha kaç kez görmek zorundayım??"
+    },
+    {
+      "id": "1b416afc",
+      "bank_id": "d012ab00",
+      "text": "Bu zaten yapıldı!"
+    },
+    {
+      "id": "1b416afd",
+      "bank_id": "d012ab00",
+      "text": "Hiç bu kadar sıkılmamıştım."
+    },
+    {
+      "id": "1b416afe",
+      "bank_id": "d012ab00",
+      "text": "Büsbütün basmakalıp."
+    },
+    {
+      "id": "1b416aff",
+      "bank_id": "d012ab00",
+      "text": "Ne kadar da sıradan."
+    },
+    {
+      "id": "1b9c3690",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "1b9c3691",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "1b9c3692",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "1b9c3693",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "1b9c3694",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "1b9c3695",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "1b9c3697",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "1d23d8b8",
+      "bank_id": "d012ab00",
+      "text": "Pekâlâ! Evet!"
+    },
+    {
+      "id": "1d23d8b9",
+      "bank_id": "d012ab00",
+      "text": "Pekâlâ! Evet!"
+    },
+    {
+      "id": "1d23d8bb",
+      "bank_id": "d012ab00",
+      "text": "Pekâlâ! Evet!"
+    },
+    {
+      "id": "1d23d8be",
+      "bank_id": "d012ab00",
+      "text": "Pekâlâ! Evet!"
+    },
+    {
+      "id": "1d23d8bf",
+      "bank_id": "d012ab00",
+      "text": "Pekâlâ! Evet!"
+    },
+    {
+      "id": "1dfe29b8",
+      "bank_id": "d012ab00",
+      "text": "Can sıkıntısıyla işkence. İlginç."
+    },
+    {
+      "id": "1dfe29b9",
+      "bank_id": "d012ab00",
+      "text": "O kadar sıkıcı ki şuracıkta düşüp ölebilirim."
+    },
+    {
+      "id": "1dfe29ba",
+      "bank_id": "d012ab00",
+      "text": "İçimi tarifsiz bir umursamazlık kapladı."
+    },
+    {
+      "id": "1dfe29bb",
+      "bank_id": "d012ab00",
+      "text": "Ruhsuzluğa yepyeni bir anlam kazandırdın."
+    },
+    {
+      "id": "1dfe29bc",
+      "bank_id": "d012ab00",
+      "text": "Horlamaya başladım mı henüz?"
+    },
+    {
+      "id": "1dfe29be",
+      "bank_id": "d012ab00",
+      "text": "Çok ruhsuz."
+    },
+    {
+      "id": "1dfe29bf",
+      "bank_id": "d012ab00",
+      "text": "Bunun ardından uyuya kalabilirim."
+    },
+    {
+      "id": "20417299",
+      "bank_id": "d012ab00",
+      "text": "İnanılmaz derecede sıkıldım."
+    },
+    {
+      "id": "2041729a",
+      "bank_id": "d012ab00",
+      "text": "Esniyorum, bir milyon kez esniyorum."
+    },
+    {
+      "id": "2041729b",
+      "bank_id": "d012ab00",
+      "text": "Yeni bir şey yap!"
+    },
+    {
+      "id": "2041729c",
+      "bank_id": "d012ab00",
+      "text": "Çok, çok sıkıcı!"
+    },
+    {
+      "id": "2041729d",
+      "bank_id": "d012ab00",
+      "text": "Hayııır! Yine mi! Sıkıldıııım!"
+    },
+    {
+      "id": "2041729e",
+      "bank_id": "d012ab00",
+      "text": "En hafif tabirle yavan."
+    },
+    {
+      "id": "2041729f",
+      "bank_id": "d012ab00",
+      "text": "Bu tek kelimeyle cansızdı."
+    },
+    {
+      "id": "21575848",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "21575849",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "2157584a",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "2157584c",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "2157584d",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "2157584e",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "2157584f",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "229c4198",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "229c4199",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "229c419a",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "229c419c",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "229c419d",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "229c419e",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "229c419f",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "23737310",
+      "bank_id": "d012ab00",
+      "text": "Baaaaahhh!"
+    },
+    {
+      "id": "23737311",
+      "bank_id": "d012ab00",
+      "text": "Baaaaahhh!"
+    },
+    {
+      "id": "23737312",
+      "bank_id": "d012ab00",
+      "text": "Baaaaahhh!"
+    },
+    {
+      "id": "2a25a4d0",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "2a25a4d1",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "2a25a4d2",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "2a25a4d4",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "2a25a4d5",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "2a25a4d6",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "2a25a4d7",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "2c73817c",
+      "bank_id": "d012ab00",
+      "text": "Baaaaahhh!"
+    },
+    {
+      "id": "2c73817d",
+      "bank_id": "d012ab00",
+      "text": "Baaaaahhh!"
+    },
+    {
+      "id": "2c73817f",
+      "bank_id": "d012ab00",
+      "text": "Baaaaahhh!"
+    },
+    {
+      "id": "2dee8d8c",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "2dee8d8f",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "2eec14a2",
+      "bank_id": "d012ab00",
+      "text": "Bu artık ilgimi çekmiyor."
+    },
+    {
+      "id": "3270a557",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "3325b338",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "3325b339",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "3325b33a",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "3325b33b",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "3325b33c",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "3325b33d",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "3325b33f",
+      "bank_id": "d012ab00",
+      "text": "Oley be evet!"
+    },
+    {
+      "id": "3548f820",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3548f821",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3548f822",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3548f823",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3548f824",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3548f826",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3548f827",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "37ec228f",
+      "bank_id": "d012ab00",
+      "text": "O geçen ayın modasıydı."
+    },
+    {
+      "id": "3970b05a",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "3980c0e0",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3980c0e1",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3980c0e2",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3980c0e3",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3980c0e4",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3980c0e6",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3980c0e7",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3a48ffc0",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3a48ffc1",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3a48ffc2",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3a48ffc3",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3a48ffc5",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3a48ffc6",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3a48ffc7",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "3e80c880",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3e80c881",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3e80c882",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3e80c883",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3e80c885",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3e80c886",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "3e80c887",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "44600a88",
+      "bank_id": "d012ab00",
+      "text": "İyiydi!"
+    },
+    {
+      "id": "44600a8a",
+      "bank_id": "d012ab00",
+      "text": "İyiydi!"
+    },
+    {
+      "id": "44600a8b",
+      "bank_id": "d012ab00",
+      "text": "İyiydi!"
+    },
+    {
+      "id": "47857068",
+      "bank_id": "d012ab00",
+      "text": "Son derece ilgisiz."
+    },
+    {
+      "id": "47857069",
+      "bank_id": "d012ab00",
+      "text": "Zerre kadar uyarıcı değil."
+    },
+    {
+      "id": "4785706a",
+      "bank_id": "d012ab00",
+      "text": "Esnedim! Esnedim diyorum!"
+    },
+    {
+      "id": "4785706b",
+      "bank_id": "d012ab00",
+      "text": "Zaman kaybı!"
+    },
+    {
+      "id": "4785706c",
+      "bank_id": "d012ab00",
+      "text": "Ne kadar da ruhsuz!"
+    },
+    {
+      "id": "4785706d",
+      "bank_id": "d012ab00",
+      "text": "Sıkıcı!"
+    },
+    {
+      "id": "4785706e",
+      "bank_id": "d012ab00",
+      "text": "Horrr!"
+    },
+    {
+      "id": "496012a9",
+      "bank_id": "d012ab00",
+      "text": "İyiydi!"
+    },
+    {
+      "id": "496012aa",
+      "bank_id": "d012ab00",
+      "text": "İyiydi!"
+    },
+    {
+      "id": "496012ab",
+      "bank_id": "d012ab00",
+      "text": "İyiydi!"
+    },
+    {
+      "id": "4c8e0581",
+      "bank_id": "d012ab00",
+      "text": "Üst üste yedi nöbet tutmak bile bundan daha az sıkıcı olurdu."
+    },
+    {
+      "id": "4c8e0582",
+      "bank_id": "d012ab00",
+      "text": "Sanki bu iş yeterince sıkıcı değilmiş gibi."
+    },
+    {
+      "id": "4df864de",
+      "bank_id": "d012ab00",
+      "text": "Uykumu getiriyorsun."
+    },
+    {
+      "id": "4fdf7c6e",
+      "bank_id": "d012ab00",
+      "text": "O geçen yılın modasıydı."
+    },
+    {
+      "id": "50857eb8",
+      "bank_id": "d012ab00",
+      "text": "Esniyorum!"
+    },
+    {
+      "id": "50857eb9",
+      "bank_id": "d012ab00",
+      "text": "Çok çok sıkıcı."
+    },
+    {
+      "id": "50857ebb",
+      "bank_id": "d012ab00",
+      "text": "Sıkıcı sıkıcı sıkıcı!"
+    },
+    {
+      "id": "50857ebc",
+      "bank_id": "d012ab00",
+      "text": "Oh! Yine o olmasın!"
+    },
+    {
+      "id": "50857ebd",
+      "bank_id": "d012ab00",
+      "text": "Bu komaya sokacak cinsten."
+    },
+    {
+      "id": "50857ebe",
+      "bank_id": "d012ab00",
+      "text": "Gördük bunu!"
+    },
+    {
+      "id": "50857ebf",
+      "bank_id": "d012ab00",
+      "text": "Evet, bunu çoktan gördüm."
+    },
+    {
+      "id": "53904925",
+      "bank_id": "d012ab00",
+      "text": "Hiç etkilenmedim."
+    },
+    {
+      "id": "53904926",
+      "bank_id": "d012ab00",
+      "text": "Beni uyutuyorsun vatandaş."
+    },
+    {
+      "id": "56f8732b",
+      "bank_id": "d012ab00",
+      "text": "Eeeesneme."
+    },
+    {
+      "id": "57ccde81",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "57ccde82",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "57ccde83",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "57ccde84",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "57ccde85",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "57ccde86",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "57ccde87",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "58df8abb",
+      "bank_id": "d012ab00",
+      "text": "Sıkıcııı."
+    },
+    {
+      "id": "58e569c0",
+      "bank_id": "d012ab00",
+      "text": "Evet! Güzel!"
+    },
+    {
+      "id": "58e569c1",
+      "bank_id": "d012ab00",
+      "text": "Evet! Güzel!"
+    },
+    {
+      "id": "58e569c3",
+      "bank_id": "d012ab00",
+      "text": "Evet! Güzel!"
+    },
+    {
+      "id": "5a69b0f0",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5a69b0f1",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5a69b0f2",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5a69b0f3",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5a69b0f4",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5a69b0f6",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5a69b0f7",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5c661744",
+      "bank_id": "d012ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "5f5e6c68",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "5f5e6c69",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "5f5e6c6a",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "5f5e6c6b",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "5f5e6c6d",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "5f5e6c6e",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "5f5e6c6f",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "5f69b890",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5f69b891",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5f69b892",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5f69b893",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5f69b895",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5f69b896",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5f69b897",
+      "bank_id": "d012ab00",
+      "text": "Evet! Devam et!"
+    },
+    {
+      "id": "5fe574c4",
+      "bank_id": "d012ab00",
+      "text": "Evet! Güzel!"
+    },
+    {
+      "id": "5fe574c5",
+      "bank_id": "d012ab00",
+      "text": "Evet! Güzel!"
+    },
+    {
+      "id": "5fe574c6",
+      "bank_id": "d012ab00",
+      "text": "Evet! Güzel!"
+    },
+    {
+      "id": "61661f65",
+      "bank_id": "d012ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "62ccf030",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "62ccf032",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "62ccf033",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "62ccf034",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "62ccf035",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "62ccf036",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "62ccf037",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "64a98fa0",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "64a98fa1",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "64a98fa2",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "64a98fa3",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "64a98fa4",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "64a98fa6",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "64a98fa7",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "69a99740",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "69a99741",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "69a99742",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "69a99743",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "69a99745",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "69a99746",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "69a99747",
+      "bank_id": "d012ab00",
+      "text": "Vuuu! Pekâlâ!"
+    },
+    {
+      "id": "6a5e7d98",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "6a5e7d99",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "6a5e7d9a",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "6a5e7d9b",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "6a5e7d9c",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "6a5e7d9e",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "6a5e7d9f",
+      "bank_id": "d012ab00",
+      "text": "Ne?"
+    },
+    {
+      "id": "6d33eb30",
+      "bank_id": "d012ab00",
+      "text": "Haaaa?!"
+    },
+    {
+      "id": "6d33eb31",
+      "bank_id": "d012ab00",
+      "text": "Haaaa?!"
+    },
+    {
+      "id": "6d33eb33",
+      "bank_id": "d012ab00",
+      "text": "Haaaa?!"
+    },
+    {
+      "id": "6d33eb36",
+      "bank_id": "d012ab00",
+      "text": "Haaaa?!"
+    },
+    {
+      "id": "6d33eb37",
+      "bank_id": "d012ab00",
+      "text": "Haaaa?!"
+    },
+    {
+      "id": "6e6611f0",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "6e6611f1",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "6e6611f2",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "711b9138",
+      "bank_id": "d012ab00",
+      "text": "Bu hayatımın en ruhsuz anı."
+    },
+    {
+      "id": "71e26e87",
+      "bank_id": "d012ab00",
+      "text": "Her an komaya girip yere yığılabilirim."
+    },
+    {
+      "id": "72a13cf8",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "7433f632",
+      "bank_id": "d012ab00",
+      "text": "Haaaa?!"
+    },
+    {
+      "id": "7433f633",
+      "bank_id": "d012ab00",
+      "text": "Haaaa?!"
+    },
+    {
+      "id": "7433f634",
+      "bank_id": "d012ab00",
+      "text": "Haaaa?!"
+    },
+    {
+      "id": "7433f635",
+      "bank_id": "d012ab00",
+      "text": "Haaaa?!"
+    },
+    {
+      "id": "7433f636",
+      "bank_id": "d012ab00",
+      "text": "Haaaa?!"
+    },
+    {
+      "id": "751843b0",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "751843b1",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "751843b2",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "751843b4",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "751843b5",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "751843b6",
+      "bank_id": "d012ab00",
+      "text": "Hooooo!"
+    },
+    {
+      "id": "751843b7",
+      "bank_id": "d012ab00",
+      "text": "Hooooo!"
+    },
+    {
+      "id": "76b96260",
+      "bank_id": "d012ab00",
+      "text": "Bir şey yaptığında hizmetçime haber ver."
+    },
+    {
+      "id": "76b96261",
+      "bank_id": "d012ab00",
+      "text": "Esniyorum."
+    },
+    {
+      "id": "76b96262",
+      "bank_id": "d012ab00",
+      "text": "Ne? Ha? Oh, yine mi sen."
+    },
+    {
+      "id": "76b96263",
+      "bank_id": "d012ab00",
+      "text": "Esniyorum."
+    },
+    {
+      "id": "76b96264",
+      "bank_id": "d012ab00",
+      "text": "Hepsi bu mu? Ne kadar sıkıcı."
+    },
+    {
+      "id": "76b96265",
+      "bank_id": "d012ab00",
+      "text": "Bir şey mi yaptın? Fark etmedim bile."
+    },
+    {
+      "id": "76b96267",
+      "bank_id": "d012ab00",
+      "text": "Hııı hııı."
+    },
+    {
+      "id": "77661fdc",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "77661fdd",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "77661fdf",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "77a14499",
+      "bank_id": "d012ab00",
+      "text": "Ha? Ne?"
+    },
+    {
+      "id": "7d759890",
+      "bank_id": "d012ab00",
+      "text": "Vuuu!"
+    },
+    {
+      "id": "7d759891",
+      "bank_id": "d012ab00",
+      "text": "Vuuu!"
+    },
+    {
+      "id": "7d759892",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "7d759893",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "7d759894",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "7d759896",
+      "bank_id": "d012ab00",
+      "text": "Vuuu!"
+    },
+    {
+      "id": "7d759897",
+      "bank_id": "d012ab00",
+      "text": "Hadi!"
+    },
+    {
+      "id": "7db96d68",
+      "bank_id": "d012ab00",
+      "text": "Bu hiç ilginç değil."
+    },
+    {
+      "id": "7db96d69",
+      "bank_id": "d012ab00",
+      "text": "Çok usandırıcı."
+    },
+    {
+      "id": "7db96d6a",
+      "bank_id": "d012ab00",
+      "text": "Esniyorum."
+    },
+    {
+      "id": "7db96d6c",
+      "bank_id": "d012ab00",
+      "text": "Söyleyecek esprili bir lafın yok mu senin?"
+    },
+    {
+      "id": "7db96d6d",
+      "bank_id": "d012ab00",
+      "text": "Aman tanrım. Şuracıkta uyuya kalıyorum."
+    },
+    {
+      "id": "7db96d6e",
+      "bank_id": "d012ab00",
+      "text": "Tavukların osurmasını izlemeyi tercih ederdim."
+    },
+    {
+      "id": "7db96d6f",
+      "bank_id": "d012ab00",
+      "text": "Başladın mı henüz?"
+    },
+    {
+      "id": "7e185198",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "7e185199",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "7e18519a",
+      "bank_id": "d012ab00",
+      "text": "Hooooo!"
+    },
+    {
+      "id": "7e18519b",
+      "bank_id": "d012ab00",
+      "text": "Hooooo!"
+    },
+    {
+      "id": "7e18519c",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "7e18519d",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "7e18519f",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "8275a0b0",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "8275a0b1",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "8275a0b2",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "8275a0b3",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "8275a0b5",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "8275a0b6",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "8275a0b7",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "856047e4",
+      "bank_id": "d012ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "856047e5",
+      "bank_id": "d012ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "86eae708",
+      "bank_id": "d012ab00",
+      "text": "Esniyorum."
+    },
+    {
+      "id": "8af023cd",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "8beaef29",
+      "bank_id": "d012ab00",
+      "text": "<yawns>"
+    },
+    {
+      "id": "8c760521",
+      "bank_id": "d012ab00",
+      "text": "Yaşasınnn!"
+    },
+    {
+      "id": "8c760522",
+      "bank_id": "d012ab00",
+      "text": "Yaşasınnn!"
+    },
+    {
+      "id": "8c760523",
+      "bank_id": "d012ab00",
+      "text": "Yaşasınnn!"
+    },
+    {
+      "id": "8c760524",
+      "bank_id": "d012ab00",
+      "text": "Yaşasınnn!"
+    },
+    {
+      "id": "8c760525",
+      "bank_id": "d012ab00",
+      "text": "Yaşasınnn!"
+    },
+    {
+      "id": "8c8a5a1d",
+      "bank_id": "d012ab00",
+      "text": "Çok sıkıldım."
+    },
+    {
+      "id": "8e35f066",
+      "bank_id": "d012ab00",
+      "text": "Horultu horultu horultu horultu!"
+    },
+    {
+      "id": "8f85224a",
+      "bank_id": "d012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "8f85224b",
+      "bank_id": "d012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "8f85224c",
+      "bank_id": "d012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "8f85224d",
+      "bank_id": "d012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "8f85224e",
+      "bank_id": "d012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "94e46618",
+      "bank_id": "d012ab00",
+      "text": "Hadi ama."
+    },
+    {
+      "id": "94e46619",
+      "bank_id": "d012ab00",
+      "text": "Geldiğin yere geri dön."
+    },
+    {
+      "id": "94e4661a",
+      "bank_id": "d012ab00",
+      "text": "Bundan gına geldi artık."
+    },
+    {
+      "id": "94e4661b",
+      "bank_id": "d012ab00",
+      "text": "Böyle vasat maskaralıklarla aklımı uyuşturuyorsun."
+    },
+    {
+      "id": "94e4661d",
+      "bank_id": "d012ab00",
+      "text": "Uyukluyorum şurada."
+    },
+    {
+      "id": "94e4661e",
+      "bank_id": "d012ab00",
+      "text": "Ne büyük bir vakit kaybı."
+    },
+    {
+      "id": "94e4661f",
+      "bank_id": "d012ab00",
+      "text": "Hadi ama."
+    },
+    {
+      "id": "95f0357c",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "9650ebb1",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "9650ebb2",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "9650ebb3",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "9650ebb4",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "9650ebb5",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "9650ebb6",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "9650ebb7",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "97761650",
+      "bank_id": "d012ab00",
+      "text": "Yaşasınnn!"
+    },
+    {
+      "id": "97761652",
+      "bank_id": "d012ab00",
+      "text": "Yaşasınnn!"
+    },
+    {
+      "id": "97761653",
+      "bank_id": "d012ab00",
+      "text": "Yaşasınnn!"
+    },
+    {
+      "id": "97761654",
+      "bank_id": "d012ab00",
+      "text": "Yaşasınnn!"
+    },
+    {
+      "id": "97761655",
+      "bank_id": "d012ab00",
+      "text": "Yaşasınnn!"
+    },
+    {
+      "id": "978a6b4c",
+      "bank_id": "d012ab00",
+      "text": "Bunun bu kadar sıkıcı olduğuna inanamıyorum."
+    },
+    {
+      "id": "97c8c673",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "98853098",
+      "bank_id": "d012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "98853099",
+      "bank_id": "d012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "9885309b",
+      "bank_id": "d012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "9885309e",
+      "bank_id": "d012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "9885309f",
+      "bank_id": "d012ab00",
+      "text": "Evet! Evet!"
+    },
+    {
+      "id": "98ea4bd1",
+      "bank_id": "d012ab00",
+      "text": "Evet! Güzel!"
+    },
+    {
+      "id": "9cc61d28",
+      "bank_id": "d012ab00",
+      "text": "Pfff. Hepsini daha önce gördüm."
+    },
+    {
+      "id": "9cc61d2b",
+      "bank_id": "d012ab00",
+      "text": "Evet, evet. Yürümeye devam et."
+    },
+    {
+      "id": "9ec8d176",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "9fe47748",
+      "bank_id": "d012ab00",
+      "text": "Bütün numaran bu mu?"
+    },
+    {
+      "id": "9fe47749",
+      "bank_id": "d012ab00",
+      "text": "Beni burada horlatacaksın."
+    },
+    {
+      "id": "9fe4774a",
+      "bank_id": "d012ab00",
+      "text": "En hafif tabirle ilham vermekten uzak."
+    },
+    {
+      "id": "9fe4774b",
+      "bank_id": "d012ab00",
+      "text": "Ne kadar sönük bir performans."
+    },
+    {
+      "id": "9fe4774c",
+      "bank_id": "d012ab00",
+      "text": "Eeeeesneeeme."
+    },
+    {
+      "id": "9fe4774e",
+      "bank_id": "d012ab00",
+      "text": "Yine o olamaz."
+    },
+    {
+      "id": "9fe4774f",
+      "bank_id": "d012ab00",
+      "text": "Sıkıldım."
+    },
+    {
+      "id": "a150fce0",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "a150fce2",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "a150fce3",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "a150fce4",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "a150fce5",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "a150fce6",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "a150fce7",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "a1a19aa4",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "a1a19aa7",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "a3ea5d00",
+      "bank_id": "d012ab00",
+      "text": "Evet! Güzel!"
+    },
+    {
+      "id": "a4bca540",
+      "bank_id": "d012ab00",
+      "text": "Vuuuuuuuu!"
+    },
+    {
+      "id": "a4bca541",
+      "bank_id": "d012ab00",
+      "text": "Vuuuuuuuu!"
+    },
+    {
+      "id": "a4bca544",
+      "bank_id": "d012ab00",
+      "text": "Vuuuuuuuu!"
+    },
+    {
+      "id": "a4bca546",
+      "bank_id": "d012ab00",
+      "text": "Vuuuuuuuu!"
+    },
+    {
+      "id": "a4bca547",
+      "bank_id": "d012ab00",
+      "text": "Vuuuuuuuu!"
+    },
+    {
+      "id": "a9bcad60",
+      "bank_id": "d012ab00",
+      "text": "Vuuuuuuuu!"
+    },
+    {
+      "id": "a9bcad61",
+      "bank_id": "d012ab00",
+      "text": "Vuuuuuuuu!"
+    },
+    {
+      "id": "a9bcad65",
+      "bank_id": "d012ab00",
+      "text": "Vuuuuuuuu!"
+    },
+    {
+      "id": "a9bcad66",
+      "bank_id": "d012ab00",
+      "text": "Vuuuuuuuu!"
+    },
+    {
+      "id": "a9bcad67",
+      "bank_id": "d012ab00",
+      "text": "Vuuuuuuuu!"
+    },
+    {
+      "id": "b1ebe400",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "b1ebe401",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "b1ebe402",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "b1ebe404",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "b1ebe405",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "b1ebe406",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "b1ebe407",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "b36afba1",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "b4abf818",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b4abf81a",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b4abf81b",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b4abf81c",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b4abf81d",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b4abf81e",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b4abf81f",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b9ac0039",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b9ac003a",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b9ac003b",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b9ac003c",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b9ac003d",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b9ac003e",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "b9ac003f",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "ba1d2d61",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "ba3dc6ac",
+      "bank_id": "d012ab00",
+      "text": "Mükemmel!"
+    },
+    {
+      "id": "ba3dc6af",
+      "bank_id": "d012ab00",
+      "text": "Vuuu!"
+    },
+    {
+      "id": "baebf268",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "baebf269",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "baebf26a",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "baebf26b",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "baebf26c",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "baebf26d",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "baebf26f",
+      "bank_id": "d012ab00",
+      "text": "Evet!"
+    },
+    {
+      "id": "bb5c96d8",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "bb5c96da",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "bb5c96db",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "bb5c96dc",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "bb5c96dd",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "bb5c96de",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "bb5c96df",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "be6b0cd0",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "c05c9ef9",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "c05c9efa",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "c05c9efb",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "c05c9efc",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "c05c9efd",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "c05c9efe",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "c05c9eff",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "c2e6c848",
+      "bank_id": "d012ab00",
+      "text": "Zerre etkilenmedim."
+    },
+    {
+      "id": "c2e6c849",
+      "bank_id": "d012ab00",
+      "text": "Ne kadar da sıkıcı."
+    },
+    {
+      "id": "c2e6c84a",
+      "bank_id": "d012ab00",
+      "text": "Uyuya kalıyorum."
+    },
+    {
+      "id": "c2e6c84b",
+      "bank_id": "d012ab00",
+      "text": "Sı-kı-cııı!"
+    },
+    {
+      "id": "c2e6c84c",
+      "bank_id": "d012ab00",
+      "text": "Peh. Eve gitsem iyi olacak sanırım."
+    },
+    {
+      "id": "c2e6c84d",
+      "bank_id": "d012ab00",
+      "text": "Ne büyük bir vakit kaybı."
+    },
+    {
+      "id": "c2e6c84e",
+      "bank_id": "d012ab00",
+      "text": "Bu kadar mı?"
+    },
+    {
+      "id": "c51d3e90",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "c59b6a5c",
+      "bank_id": "d012ab00",
+      "text": "Çok iyi!"
+    },
+    {
+      "id": "c59b6a5f",
+      "bank_id": "d012ab00",
+      "text": "Bravo."
+    },
+    {
+      "id": "cb84e6d8",
+      "bank_id": "d012ab00",
+      "text": "Anladığımdan emin değilim..."
+    },
+    {
+      "id": "cb84e6da",
+      "bank_id": "d012ab00",
+      "text": "Anladığımdan pek emin değilim."
+    },
+    {
+      "id": "cb84e6db",
+      "bank_id": "d012ab00",
+      "text": "Hmmm, bu ne hakkında o zaman..."
+    },
+    {
+      "id": "cb84e6dc",
+      "bank_id": "d012ab00",
+      "text": "O da ne? Ha?"
+    },
+    {
+      "id": "cb84e6dd",
+      "bank_id": "d012ab00",
+      "text": "Burada neler dönüyor yahu?"
+    },
+    {
+      "id": "cb84e6de",
+      "bank_id": "d012ab00",
+      "text": "Biri burada neler olduğunu açıklama nezaketinde bulunabilir mi acaba?"
+    },
+    {
+      "id": "cb84e6df",
+      "bank_id": "d012ab00",
+      "text": "Buradaki durumu tam olarak kavrayabilmiş değilim sanırım."
+    },
+    {
+      "id": "cbe6d698",
+      "bank_id": "d012ab00",
+      "text": "Esniyorum!"
+    },
+    {
+      "id": "cbe6d699",
+      "bank_id": "d012ab00",
+      "text": "Vaktimi boşa harcıyorum."
+    },
+    {
+      "id": "cbe6d69b",
+      "bank_id": "d012ab00",
+      "text": "Sıkıldım."
+    },
+    {
+      "id": "cbe6d69c",
+      "bank_id": "d012ab00",
+      "text": "Hiç ama hiç heyecan verici değil."
+    },
+    {
+      "id": "cbe6d69d",
+      "bank_id": "d012ab00",
+      "text": "Sabrım tükeniyor."
+    },
+    {
+      "id": "cbe6d69e",
+      "bank_id": "d012ab00",
+      "text": "Yatakta olmayı tercih ederdim."
+    },
+    {
+      "id": "cbe6d69f",
+      "bank_id": "d012ab00",
+      "text": "Uyukluyorum şurada."
+    },
+    {
+      "id": "cda4742d",
+      "bank_id": "d012ab00",
+      "text": "Eeeesneme!"
+    },
+    {
+      "id": "d0069f51",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu! Vuuuuu!"
+    },
+    {
+      "id": "d0069f52",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu! Vuuuuu!"
+    },
+    {
+      "id": "d0069f53",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu! Vuuuuu!"
+    },
+    {
+      "id": "d0069f54",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu! Vuuuuu!"
+    },
+    {
+      "id": "d0069f55",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu! Vuuuuu!"
+    },
+    {
+      "id": "d084eef9",
+      "bank_id": "d012ab00",
+      "text": "Bütün bunlar... ne böyle?"
+    },
+    {
+      "id": "d084eefa",
+      "bank_id": "d012ab00",
+      "text": "Anlamıyorum..."
+    },
+    {
+      "id": "d084eefb",
+      "bank_id": "d012ab00",
+      "text": "Burada neler döndüğüne dair en ufak bir fikrim yok."
+    },
+    {
+      "id": "d084eefc",
+      "bank_id": "d012ab00",
+      "text": "Oh, bütün bunlar ne hakkında o zaman?"
+    },
+    {
+      "id": "d084eefd",
+      "bank_id": "d012ab00",
+      "text": "Neler oluyor bakalım?"
+    },
+    {
+      "id": "d084eefe",
+      "bank_id": "d012ab00",
+      "text": "Bütün bunların ne anlama geldiğinden pek emin değilim..."
+    },
+    {
+      "id": "d084eeff",
+      "bank_id": "d012ab00",
+      "text": "İşte bu kafamı biraz karıştırdı..."
+    },
+    {
+      "id": "d12459e8",
+      "bank_id": "d012ab00",
+      "text": "Ha? Biri bir şey açıklasın, lütfen..."
+    },
+    {
+      "id": "d12459e9",
+      "bank_id": "d012ab00",
+      "text": "Anlamıyorum. Zerre kadar anlamıyorum."
+    },
+    {
+      "id": "d12459ed",
+      "bank_id": "d012ab00",
+      "text": "Hmmm... kafam karıştı."
+    },
+    {
+      "id": "d12459ee",
+      "bank_id": "d012ab00",
+      "text": "Bu tek kelimeyle kafa karıştırıcı."
+    },
+    {
+      "id": "d12459ef",
+      "bank_id": "d012ab00",
+      "text": "Korkarım ki hiç anlamadım."
+    },
+    {
+      "id": "d14ccb02",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "d4adc6e0",
+      "bank_id": "d012ab00",
+      "text": "Bir şey nasıl bu kadar sıkıcı olabilir ki?"
+    },
+    {
+      "id": "d73c82be",
+      "bank_id": "d012ab00",
+      "text": "Neden bu kadar sıkıcısın?"
+    },
+    {
+      "id": "d8b0b220",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın! Yaşasın!"
+    },
+    {
+      "id": "d8b0b221",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın! Yaşasın!"
+    },
+    {
+      "id": "d8b0b222",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın! Yaşasın!"
+    },
+    {
+      "id": "d8b0b226",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın! Yaşasın!"
+    },
+    {
+      "id": "d8b0b227",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın! Yaşasın!"
+    },
+    {
+      "id": "da4cd96f",
+      "bank_id": "d012ab00",
+      "text": "Ha?"
+    },
+    {
+      "id": "db06b080",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu! Vuuuuu!"
+    },
+    {
+      "id": "db06b082",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu! Vuuuuu!"
+    },
+    {
+      "id": "db06b083",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu! Vuuuuu!"
+    },
+    {
+      "id": "db06b084",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu! Vuuuuu!"
+    },
+    {
+      "id": "db06b085",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu! Vuuuuu!"
+    },
+    {
+      "id": "dc246b18",
+      "bank_id": "d012ab00",
+      "text": "Anlamadım."
+    },
+    {
+      "id": "dc246b19",
+      "bank_id": "d012ab00",
+      "text": "Ne?!"
+    },
+    {
+      "id": "dc246b1c",
+      "bank_id": "d012ab00",
+      "text": "Burada neler... dönüyor?"
+    },
+    {
+      "id": "dc246b1e",
+      "bank_id": "d012ab00",
+      "text": "Şey, korkarım ki anlamadım."
+    },
+    {
+      "id": "dc246b1f",
+      "bank_id": "d012ab00",
+      "text": "Şey, bu... kafa karıştırıcı.."
+    },
+    {
+      "id": "dda628b7",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "e03c908b",
+      "bank_id": "d012ab00",
+      "text": "Çok ama çok sıkıcı."
+    },
+    {
+      "id": "e096d803",
+      "bank_id": "d012ab00",
+      "text": "Hmm... bunun bir mantığı olduğundan emin değilim..."
+    },
+    {
+      "id": "e1b0c00a",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın! Yaşasın!"
+    },
+    {
+      "id": "e1b0c00b",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın! Yaşasın!"
+    },
+    {
+      "id": "e1b0c00c",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın! Yaşasın!"
+    },
+    {
+      "id": "e1b0c00d",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın! Yaşasın!"
+    },
+    {
+      "id": "e1b0c00f",
+      "bank_id": "d012ab00",
+      "text": "Yaşasın! Yaşasın!"
+    },
+    {
+      "id": "e2a2b591",
+      "bank_id": "d012ab00",
+      "text": "Defol buradan... hemen!"
+    },
+    {
+      "id": "e2a2b592",
+      "bank_id": "d012ab00",
+      "text": "Bırak artık şunu, olur mu!?"
+    },
+    {
+      "id": "e2a2b593",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "e4585a77",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "e4a633ba",
+      "bank_id": "d012ab00",
+      "text": "Yuuuh püüü!"
+    },
+    {
+      "id": "e55b7704",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "e796e302",
+      "bank_id": "d012ab00",
+      "text": "Ha? Bu da neyin nesi?"
+    },
+    {
+      "id": "e796e303",
+      "bank_id": "d012ab00",
+      "text": "Heh... şey... bunun ne hakkında olduğundan pek emin değilim."
+    },
+    {
+      "id": "e796e304",
+      "bank_id": "d012ab00",
+      "text": "Ehm... bu sahiden kafa karıştırıcı."
+    },
+    {
+      "id": "e796e305",
+      "bank_id": "d012ab00",
+      "text": "Şey, buradaki... ne hakkında acaba?"
+    },
+    {
+      "id": "e796e306",
+      "bank_id": "d012ab00",
+      "text": "Şey, sanırım kafam karıştı şimdi..."
+    },
+    {
+      "id": "ea4404e7",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "ea5b7f25",
+      "bank_id": "d012ab00",
+      "text": "Eeeh??"
+    },
+    {
+      "id": "eadcf5b4",
+      "bank_id": "d012ab00",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "eb58657a",
+      "bank_id": "d012ab00",
+      "text": "Eveeeet!"
+    },
+    {
+      "id": "eda2c6c0",
+      "bank_id": "d012ab00",
+      "text": "Berbat bir şey bu!"
+    },
+    {
+      "id": "eda2c6c2",
+      "bank_id": "d012ab00",
+      "text": "Bu ne saçmalık böyle? Yuuuh!"
+    },
+    {
+      "id": "eda2c6c3",
+      "bank_id": "d012ab00",
+      "text": "Gördüklerime inanamıyorum!"
+    },
+    {
+      "id": "ee7bcda7",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "eebe3cda",
+      "bank_id": "d012ab00",
+      "text": "O kadar etkilenmedim ki anlatamam bile."
+    },
+    {
+      "id": "efdcfd55",
+      "bank_id": "d012ab00",
+      "text": "Vuhuu!"
+    },
+    {
+      "id": "f1440fea",
+      "bank_id": "d012ab00",
+      "text": "Yoooook!"
+    },
+    {
+      "id": "f57bd8aa",
+      "bank_id": "d012ab00",
+      "text": "Vuhuuuu!!!!"
+    },
+    {
+      "id": "fc7945dd",
+      "bank_id": "d012ab00",
+      "text": "Baaaaahhh!"
+    }
+  ]
+}

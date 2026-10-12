@@ -1,0 +1,636 @@
+{
+  "bank_id": "70f59600",
+  "total_strings": 126,
+  "strings": [
+    {
+      "id": "0034a731",
+      "bank_id": "70f59600",
+      "text": "Her vuruşta düşmanları sersemletme şansınız vardır ancak böylesi bir gücün bir bedeli vardır: Canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "023c8627",
+      "bank_id": "70f59600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nRakiplere vurduğunuzda canları emilip size aktarılır. Dövüşte daha sert vurur ve hasara karşı daha dirençli olursunuz."
+    },
+    {
+      "id": "0609417a",
+      "bank_id": "70f59600",
+      "text": "Yumuşak Kıymık Avcısı"
+    },
+    {
+      "id": "065fb833",
+      "bank_id": "70f59600",
+      "text": "Her vuruşta sersemletme şansı ekler."
+    },
+    {
+      "id": "068adbff",
+      "bank_id": "70f59600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nDövüşte darbe indirdiğinizde düşmanınızın canının bir kısmını kendinize aktarırsınız. Ancak bu asla yetmez: Canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "06d1c752",
+      "bank_id": "70f59600",
+      "text": "Her vuruşun rakibinizi sersemletme şansı vardır. Gür sakalınız da bir hayli sersemleticidir; çoğu insan bu tarzın altından kalkamaz."
+    },
+    {
+      "id": "07fcc2e4",
+      "bank_id": "70f59600",
+      "text": "Kıymıklara karşı fazladan hasar verirsiniz ve tüm Haşmet dövmelerinizle fazlasıyla etkileyici görünürsünüz."
+    },
+    {
+      "id": "09595dcf",
+      "bank_id": "70f59600",
+      "text": "Trollere karşı fazladan hasar verirsiniz ve tüm Haşmet dövmelerinizle fazlasıyla etkileyici görünürsünüz."
+    },
+    {
+      "id": "0a8ff4f8",
+      "bank_id": "70f59600",
+      "text": "Hayat Kaynağının Işığı"
+    },
+    {
+      "id": "0e85c145",
+      "bank_id": "70f59600",
+      "text": "Gizli İlim Efsun Taşı"
+    },
+    {
+      "id": "1136ecbf",
+      "bank_id": "70f59600",
+      "text": "Kel Ten"
+    },
+    {
+      "id": "11dddc06",
+      "bank_id": "70f59600",
+      "text": "Disiplin Efsun Taşı"
+    },
+    {
+      "id": "1432d8cd",
+      "bank_id": "70f59600",
+      "text": "Haşmet dövmeleriyle kaplıyken saldırırken düşmanları sersemletme şansınız olur."
+    },
+    {
+      "id": "160ff363",
+      "bank_id": "70f59600",
+      "text": "Vücudunuzu kaplayan Azrail dövmeleri son derece uygundur: Düşmanlardan yaşam gücünü emer ve kendinize aktarırsınız."
+    },
+    {
+      "id": "1e6c6fca",
+      "bank_id": "70f59600",
+      "text": "Trollere karşı olağanüstü hüneriniz, karanlık yerlerde yolunuzu aydınlatan bir parıltı verir."
+    },
+    {
+      "id": "1e9b77d6",
+      "bank_id": "70f59600",
+      "text": "Kör Edici Işık"
+    },
+    {
+      "id": "206b3445",
+      "bank_id": "70f59600",
+      "text": "Haşmet"
+    },
+    {
+      "id": "21de5781",
+      "bank_id": "70f59600",
+      "text": "Trol Avcısının Sürüsü"
+    },
+    {
+      "id": "228eba59",
+      "bank_id": "70f59600",
+      "text": "Dövüşten çoğu insandan daha fazlasını öğrenirsiniz, yani daha çok deneyim kazanırsınız. Ve okumuş insanların genellikle sakalı olur."
+    },
+    {
+      "id": "263bb2c4",
+      "bank_id": "70f59600",
+      "text": "Bilgi Çekicidir"
+    },
+    {
+      "id": "27eb8d3a",
+      "bank_id": "70f59600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nSavaşta ilave deneyim kazanırsınız ancak öğrenecek daha çok şeyiniz vardır: Daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "29ec0e11",
+      "bank_id": "70f59600",
+      "text": "Silahın trollere verdiği hasar miktarını artırır."
+    },
+    {
+      "id": "2a9201da",
+      "bank_id": "70f59600",
+      "text": "Kafa Yapmak"
+    },
+    {
+      "id": "2b5364c2",
+      "bank_id": "70f59600",
+      "text": "Trollere karşı artırılmış hasar ve yara izlerine karşı artırılmış direnç."
+    },
+    {
+      "id": "2b55f204",
+      "bank_id": "70f59600",
+      "text": "Lanetli Savaşçı Efsun Taşı"
+    },
+    {
+      "id": "2cc9d487",
+      "bank_id": "70f59600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nDövüş size fazladan deneyim kazandırır ancak bunu nispeten yarasız bir çehrenin ardına saklarsınız."
+    },
+    {
+      "id": "2dd7ac07",
+      "bank_id": "70f59600",
+      "text": "Azrail'in Yankısı"
+    },
+    {
+      "id": "35f2234d",
+      "bank_id": "70f59600",
+      "text": "Kel trol Avcısı"
+    },
+    {
+      "id": "37d3919c",
+      "bank_id": "70f59600",
+      "text": "Kıymık Azraili"
+    },
+    {
+      "id": "39975f50",
+      "bank_id": "70f59600",
+      "text": "Çetin trol Avcısı"
+    },
+    {
+      "id": "3c1cd025",
+      "bank_id": "70f59600",
+      "text": "Her vuruşun düşmanları sersemletme şansı vardır. Siz de biraz sersemlemiş görünürsünüz: Daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "3e6d3859",
+      "bank_id": "70f59600",
+      "text": "Kıymık Avcısının Işığı"
+    },
+    {
+      "id": "3eaf4787",
+      "bank_id": "70f59600",
+      "text": "Haşmet dövmeleriyle kaplısınızdır."
+    },
+    {
+      "id": "3f432429",
+      "bank_id": "70f59600",
+      "text": "Sarhoş Usta"
+    },
+    {
+      "id": "40323a82",
+      "bank_id": "70f59600",
+      "text": "Kendiniz sarhoş gibi tökezlerken düşmanları sersemletme şansınız olur."
+    },
+    {
+      "id": "42b1bf49",
+      "bank_id": "70f59600",
+      "text": "Azrail'in Bedeli"
+    },
+    {
+      "id": "4426ce65",
+      "bank_id": "70f59600",
+      "text": "Sömürücünün Yara İzleri Efsun Taşı"
+    },
+    {
+      "id": "49972c5a",
+      "bank_id": "70f59600",
+      "text": "Savaşçının Yükü Efsun Taşı"
+    },
+    {
+      "id": "4bfbcc10",
+      "bank_id": "70f59600",
+      "text": "Sersem ve Şaşkın"
+    },
+    {
+      "id": "4da08344",
+      "bank_id": "70f59600",
+      "text": "Vücudunuz Haşmet dövmeleri biriktirdiği gibi savaş boyunca siz de fazladan deneyim biriktirirsiniz."
+    },
+    {
+      "id": "50f497d4",
+      "bank_id": "70f59600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nSavaşta çetin ve ölümcül olursunuz ve her zaferle ilave deneyim kazanırsınız."
+    },
+    {
+      "id": "51b738fd",
+      "bank_id": "70f59600",
+      "text": "Hayat Berbat Efsun Taşı"
+    },
+    {
+      "id": "51ea921e",
+      "bank_id": "70f59600",
+      "text": "Hikmetin Haşmeti"
+    },
+    {
+      "id": "534fcdc8",
+      "bank_id": "70f59600",
+      "text": "Taşten Efsun Taşı"
+    },
+    {
+      "id": "54d971a9",
+      "bank_id": "70f59600",
+      "text": "Büyüleyici bir ateş böceği sürüsü etrafınızı sararak sizi daha çekici kılar. Bir rakibe her vurduğunuzda güzel, hareketli ışıklar yüzünden sersemleyebilir."
+    },
+    {
+      "id": "553814bd",
+      "bank_id": "70f59600",
+      "text": "Lanetli trol Avcısı"
+    },
+    {
+      "id": "558630f3",
+      "bank_id": "70f59600",
+      "text": "Dövüşü çok öğretici bulur ve fazladan deneyim kazanırsınız. Bu aydınlanma yolunuzu aydınlatır."
+    },
+    {
+      "id": "5a8ae368",
+      "bank_id": "70f59600",
+      "text": "Teniniz yara izlerine karşı son derece dayanıklıdır ve bu bazen düşmanları sersemletir."
+    },
+    {
+      "id": "5bf9ad9b",
+      "bank_id": "70f59600",
+      "text": "Azrail dövmeleriyle kaplısınızdır."
+    },
+    {
+      "id": "5d4e1d8d",
+      "bank_id": "70f59600",
+      "text": "Kel Emici"
+    },
+    {
+      "id": "60fc5925",
+      "bank_id": "70f59600",
+      "text": "Yumuşak trol Avcısı"
+    },
+    {
+      "id": "6218680f",
+      "bank_id": "70f59600",
+      "text": "Tamamen Haşmet dövmeleriyle kaplısınızdır ve düşmanlarınızdan can sömürme gibi muazzam bir yeteneğe sahipsinizdir."
+    },
+    {
+      "id": "6427d57b",
+      "bank_id": "70f59600",
+      "text": "Güzel, parıldayan ateş böcekleri etrafınızı sarar; her vuruşunuzda düşmanlardan can sömürüp size aktarır."
+    },
+    {
+      "id": "653670e5",
+      "bank_id": "70f59600",
+      "text": "Talih ve Yaşam Efsun Taşı"
+    },
+    {
+      "id": "6b65a5e7",
+      "bank_id": "70f59600",
+      "text": "Kıymıklara karşı artırılmış hasar ve yara izlerine karşı artırılmış direnç."
+    },
+    {
+      "id": "6c5519dd",
+      "bank_id": "70f59600",
+      "text": "Doyumsuz Susuzluk Efsun Taşı"
+    },
+    {
+      "id": "711ce5bf",
+      "bank_id": "70f59600",
+      "text": "İtici Yara İzleri"
+    },
+    {
+      "id": "742f4475",
+      "bank_id": "70f59600",
+      "text": "Her vuruşun düşmanları sersemletme şansı vardır. Keşke kafanıza saçları geri getirme şansı da olsaydı."
+    },
+    {
+      "id": "74709fe7",
+      "bank_id": "70f59600",
+      "text": "Tüm düşmanlara, bilhassa da trollere fazladan hasar verin. Ayrıca tüm rakiplerden daha az hasar alın."
+    },
+    {
+      "id": "747576b6",
+      "bank_id": "70f59600",
+      "text": "Kıymıkları olağanüstü bir beceriyle katledersiniz ve vücudunuz Azrail dövmeleriyle kaplıdır."
+    },
+    {
+      "id": "753ed90e",
+      "bank_id": "70f59600",
+      "text": "Dövüş Ustalığı Efsun Taşı"
+    },
+    {
+      "id": "7c4bd051",
+      "bank_id": "70f59600",
+      "text": "Her silah vuruşu rakibinizden can emerek size aktarır.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "7f1d170a",
+      "bank_id": "70f59600",
+      "text": "Silahınız düşmanlardan can çekip size aktarır. Bir nedenden ötürü bu parıldamanıza yol açar."
+    },
+    {
+      "id": "816a9a23",
+      "bank_id": "70f59600",
+      "text": "Trolleri olağanüstü bir beceriyle katledersiniz ve vücudunuz Azrail dövmeleriyle kaplıdır."
+    },
+    {
+      "id": "85c99361",
+      "bank_id": "70f59600",
+      "text": "Azrail'in Nişanı"
+    },
+    {
+      "id": "86454e3b",
+      "bank_id": "70f59600",
+      "text": "Âlim Sakalı"
+    },
+    {
+      "id": "8b328fbf",
+      "bank_id": "70f59600",
+      "text": "Trollerle dövüşürken ilave hasar verirsiniz ancak canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "8c479b3e",
+      "bank_id": "70f59600",
+      "text": "Haşmetli Kıymık Suikastçısı"
+    },
+    {
+      "id": "8c51ea82",
+      "bank_id": "70f59600",
+      "text": "Hafif bir parıltı, sanki Lonca Mührü ışığınız hep yanıyormuş gibi yolunuzu aydınlatır."
+    },
+    {
+      "id": "8d3d188c",
+      "bank_id": "70f59600",
+      "text": "Savaşa olan pratik ve tedbirli yaklaşımınız, dövüş sırasında normalden daha fazla deneyim kazanmanızı sağlar.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "8d4b2553",
+      "bank_id": "70f59600",
+      "text": "Trol Avcısı"
+    },
+    {
+      "id": "8de6990d",
+      "bank_id": "70f59600",
+      "text": "Haşmetli trol Suikastçısı"
+    },
+    {
+      "id": "8fa40997",
+      "bank_id": "70f59600",
+      "text": "Haşmetin Darbesi"
+    },
+    {
+      "id": "907223c1",
+      "bank_id": "70f59600",
+      "text": "Asalaklar"
+    },
+    {
+      "id": "92a08f43",
+      "bank_id": "70f59600",
+      "text": "Sürekli sarhoş olmanız dövüşte daha akıcı olmanızı ve başkalarının fark etmediği şeyleri sezmenizi sağlayarak daha fazla deneyime dönüşür."
+    },
+    {
+      "id": "93008839",
+      "bank_id": "70f59600",
+      "text": "Felç"
+    },
+    {
+      "id": "93a1ea5d",
+      "bank_id": "70f59600",
+      "text": "Düşmanlar, olağanüstü Azrail dövmeleri setiniz karşısında sık sık sersemler."
+    },
+    {
+      "id": "940edf14",
+      "bank_id": "70f59600",
+      "text": "Sürekli sarhoşsunuzdur ve bu sarhoş öfkenizi trollere fazladan hasar vermek için odaklayabilirsiniz."
+    },
+    {
+      "id": "981b7c10",
+      "bank_id": "70f59600",
+      "text": "Yıldız Işığı"
+    },
+    {
+      "id": "a2867efe",
+      "bank_id": "70f59600",
+      "text": "Savaştan çok şey öğrenerek fazladan deneyim kazanırsınız. Etrafınızda sizi daha çekici kılan bir bilgelik halesi vardır."
+    },
+    {
+      "id": "a524c23e",
+      "bank_id": "70f59600",
+      "text": "Savaşa olan pratik ve tedbirli yaklaşımınız, dövüş sırasında normalden daha fazla deneyim kazanmanızı sağlar. Ancak bu tutkunuz sizi tüketerek canınızı yavaş yavaş tehlikeli seviyelere düşürür.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "a7dcbdfa",
+      "bank_id": "70f59600",
+      "text": "Teniniz yara izlerine karşı son derece dayanıklı hale gelir.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "a7ee86e6",
+      "bank_id": "70f59600",
+      "text": "Kıymık Avcısı"
+    },
+    {
+      "id": "a97c4438",
+      "bank_id": "70f59600",
+      "text": "Kıymıklara daha çok hasar verin ancak dövüşte daha fazla yara izi alın."
+    },
+    {
+      "id": "a9ddb9b8",
+      "bank_id": "70f59600",
+      "text": "Trol Avcısının Işığı"
+    },
+    {
+      "id": "ae0c6609",
+      "bank_id": "70f59600",
+      "text": "Trol Azraili"
+    },
+    {
+      "id": "b163540f",
+      "bank_id": "70f59600",
+      "text": "Trollere kafanızdaki tüm saçlar pahasına daha çok hasar verirsiniz."
+    },
+    {
+      "id": "b2bca21e",
+      "bank_id": "70f59600",
+      "text": "Kıymıklarla dövüşürken ilave hasar verirsiniz ancak canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "b30809d3",
+      "bank_id": "70f59600",
+      "text": "Kıymıklara karşı olağanüstü hüneriniz, karanlık yerlerde yolunuzu aydınlatan bir parıltı verir."
+    },
+    {
+      "id": "b5152ac0",
+      "bank_id": "70f59600",
+      "text": "Sersemletici Favori"
+    },
+    {
+      "id": "b5deb84e",
+      "bank_id": "70f59600",
+      "text": "Sarhoş trol Avcısı"
+    },
+    {
+      "id": "b636a694",
+      "bank_id": "70f59600",
+      "text": "Gür, fırça gibi bir sakalınız vardır. Düşmanların kendi canınızı tazelemek için onların hayatını emmeden önce gördükleri son şey budur."
+    },
+    {
+      "id": "b6729fe4",
+      "bank_id": "70f59600",
+      "text": "Kıymık Avcısının Istırabı"
+    },
+    {
+      "id": "bc1b4ef3",
+      "bank_id": "70f59600",
+      "text": "Kör Talih"
+    },
+    {
+      "id": "bdf7d154",
+      "bank_id": "70f59600",
+      "text": "Silah trollere karşı fazladan hasar kazanır. Kuşanan kişi ise ilave sakal bıyık kazanır."
+    },
+    {
+      "id": "ce037198",
+      "bank_id": "70f59600",
+      "text": "Dövüşten çoğu insandan daha fazlasını öğrenirsiniz, yani daha çok deneyim kazanırsınız. Ve okumuş insanlar ekseriyetle kel olur."
+    },
+    {
+      "id": "ce5dfca5",
+      "bank_id": "70f59600",
+      "text": "Çetin Kıymık Avcısı"
+    },
+    {
+      "id": "cff19154",
+      "bank_id": "70f59600",
+      "text": "Düşmanlardan can emersiniz ve bu sizde sarhoş edici bir etki bırakır."
+    },
+    {
+      "id": "d35d0a08",
+      "bank_id": "70f59600",
+      "text": "İşlenmemiş Potansiyel Efsun Taşı"
+    },
+    {
+      "id": "d4153d75",
+      "bank_id": "70f59600",
+      "text": "Kolayca yara izi alırsınız; öyle ki düşmanlar genellikle afallayıp kalır. Her vuruşta sersemletme şansınız olur."
+    },
+    {
+      "id": "d5dc708a",
+      "bank_id": "70f59600",
+      "text": "Çarpıcı Kusursuzluk"
+    },
+    {
+      "id": "d768f6a5",
+      "bank_id": "70f59600",
+      "text": "Tılsımlı trol Avcısı"
+    },
+    {
+      "id": "d8067fce",
+      "bank_id": "70f59600",
+      "text": "Kanemicinin Maskesi"
+    },
+    {
+      "id": "d8bd0131",
+      "bank_id": "70f59600",
+      "text": "Her vuruşun düşmanları sersemletme şansı vardır. Ayrıca daha fazla hasar verir ve daha az darbe alırsınız."
+    },
+    {
+      "id": "d8c0e24f",
+      "bank_id": "70f59600",
+      "text": "Tüm saçlarınızı kaybettiniz ancak iyi tarafından bakarsak her vuruşta düşmanlardan can emersiniz. Yani anlayacağınız bir taraf kazanırken diğer taraf kaybeder."
+    },
+    {
+      "id": "d97bb4f4",
+      "bank_id": "70f59600",
+      "text": "Tüm düşmanlara, bilhassa da kıymıklara fazladan hasar verin. Ayrıca tüm rakiplerden daha az hasar alın."
+    },
+    {
+      "id": "db0aa1eb",
+      "bank_id": "70f59600",
+      "text": "Büyüleyici Hale"
+    },
+    {
+      "id": "dfa95393",
+      "bank_id": "70f59600",
+      "text": "Gulyabani Efsun Taşı"
+    },
+    {
+      "id": "e12ce3a7",
+      "bank_id": "70f59600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nHer vuruşta düşmanlardan can emersiniz. Bu doğaüstü işlem sizde ilave yara izi olarak bedelini ödetir."
+    },
+    {
+      "id": "e22893f9",
+      "bank_id": "70f59600",
+      "text": "Aydınlanma"
+    },
+    {
+      "id": "e242128e",
+      "bank_id": "70f59600",
+      "text": "Sakallı trol Avcısı"
+    },
+    {
+      "id": "e392f4f3",
+      "bank_id": "70f59600",
+      "text": "Kemik Çatırtısı"
+    },
+    {
+      "id": "e6a7374d",
+      "bank_id": "70f59600",
+      "text": "Haşmetin Sefaleti"
+    },
+    {
+      "id": "ed089c18",
+      "bank_id": "70f59600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nSavaşta daha fazla deneyim kazanırsınız ancak bu yüzünüzden bellidir: Kolayca yara izi alırsınız."
+    },
+    {
+      "id": "ed289c1f",
+      "bank_id": "70f59600",
+      "text": "Her darbede hedefinizin yaşam özünün bir kısmını soğurursunuz ancak dövüşte daha az hasar verir ve daha çok alırsınız.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "ee83f79d",
+      "bank_id": "70f59600",
+      "text": "Trol Avcısının Istırabı"
+    },
+    {
+      "id": "f0ab0bdf",
+      "bank_id": "70f59600",
+      "text": "Trollere karşı daha fazla hasar verirsiniz ancak genel olarak daha az hasar verir ve daha çok alırsınız."
+    },
+    {
+      "id": "f29f6d02",
+      "bank_id": "70f59600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nHer vuruşta düşmanlardan can emersiniz ve kalıcı yara izlerine karşı daha az meyillisinizdir."
+    },
+    {
+      "id": "f43bd28e",
+      "bank_id": "70f59600",
+      "text": "Yaşama Sevinci"
+    },
+    {
+      "id": "f7e5e44f",
+      "bank_id": "70f59600",
+      "text": "Uyuşukluk"
+    },
+    {
+      "id": "f80e723b",
+      "bank_id": "70f59600",
+      "text": "Trollere daha çok hasar verirsiniz ve sizi daha çekici kılan bir ateş böceği sürüsüyle çevrelenirsiniz."
+    },
+    {
+      "id": "fb36ecfc",
+      "bank_id": "70f59600",
+      "text": "Her saldırının düşmanları sersemletme şansı vardır. Etrafınız daima bir ışık halesiyle çevrilidir."
+    },
+    {
+      "id": "fdc5f62e",
+      "bank_id": "70f59600",
+      "text": "Tılsımlı Kıymık Avcısı"
+    },
+    {
+      "id": "fe040267",
+      "bank_id": "70f59600",
+      "text": "Trollere daha çok hasar verin ancak dövüşte daha fazla yara izi alın."
+    },
+    {
+      "id": "fe68fe90",
+      "bank_id": "70f59600",
+      "text": "Yenilenme Efsun Taşı"
+    },
+    {
+      "id": "fea6b8c9",
+      "bank_id": "70f59600",
+      "text": "Sarhoş Kıymık Avcısı"
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "bank_id": "c00dab00",
+  "total_strings": 146,
+  "strings": [
+    {
+      "id": "1120d298",
+      "bank_id": "c00dab00",
+      "text": "Yabancılarla yatıp kalkamayacak kadar hassasım ben."
+    },
+    {
+      "id": "1120d299",
+      "bank_id": "c00dab00",
+      "text": "Seni tanımıyorum bile. Beni kullanmaya çalışıyorsun sadece."
+    },
+    {
+      "id": "1120d29b",
+      "bank_id": "c00dab00",
+      "text": "Yattığım insanları tanımayı tercih ederim."
+    },
+    {
+      "id": "1120d29c",
+      "bank_id": "c00dab00",
+      "text": "Ne kadar cüretkârsın! Daha doğru dürüst tanışmadık bile!"
+    },
+    {
+      "id": "1120d29e",
+      "bank_id": "c00dab00",
+      "text": "O pis tekliflerini başka kapıya götürürsen sevinirim!"
+    },
+    {
+      "id": "1120d29f",
+      "bank_id": "c00dab00",
+      "text": "Yok ya. Gazım var ve seni tanımıyorum bile."
+    },
+    {
+      "id": "124f9f98",
+      "bank_id": "c00dab00",
+      "text": "Ah! Nikâhsız sevişmek çok yanlış olur!"
+    },
+    {
+      "id": "124f9f99",
+      "bank_id": "c00dab00",
+      "text": "Aşkımızı taçlandırmak için düğünümüzü beklememiz gerekmez mi?"
+    },
+    {
+      "id": "124f9f9a",
+      "bank_id": "c00dab00",
+      "text": "Kulağa çılgınca geldiğini biliyorum ama düğün gecemizi beklersek her şey çok daha tatlı olacak."
+    },
+    {
+      "id": "124f9f9b",
+      "bank_id": "c00dab00",
+      "text": "Bana aptal diyebilirsin ama evlenene kadar bekleyelim, tamam mı?"
+    },
+    {
+      "id": "124f9f9c",
+      "bank_id": "c00dab00",
+      "text": "Anneme evlenene kadar bekleyeceğime söz verdim."
+    },
+    {
+      "id": "124f9f9d",
+      "bank_id": "c00dab00",
+      "text": "Bunu düğün gecemize saklayalım."
+    },
+    {
+      "id": "124f9f9e",
+      "bank_id": "c00dab00",
+      "text": "Evlenene kadar beklememiz gerektiğini düşünmüyor musun?"
+    },
+    {
+      "id": "1b4fade8",
+      "bank_id": "c00dab00",
+      "text": "Kusura bakma ama ben eski kafalı bir kızım. Evlilik öncesi ilişkiye inanmam."
+    },
+    {
+      "id": "1b4fade9",
+      "bank_id": "c00dab00",
+      "text": "Beni ne tür bir kız sanıyorsun sen? Evlenene kadar olmaz!"
+    },
+    {
+      "id": "1b4fadeb",
+      "bank_id": "c00dab00",
+      "text": "Nikâh kıyılana kadar beklemeyi tercih ederim."
+    },
+    {
+      "id": "1b4fadec",
+      "bank_id": "c00dab00",
+      "text": "Evlenene kadar böyle bir şey ima etmezsen çok memnun olurum!"
+    },
+    {
+      "id": "1b4faded",
+      "bank_id": "c00dab00",
+      "text": "Biz hayvan değiliz! Medeni insanlar gibi düğün gecemize kadar bekleyeceğiz."
+    },
+    {
+      "id": "1b4fadee",
+      "bank_id": "c00dab00",
+      "text": "Ne duyduğun umurumda değil. Ben namuslu bir kızım. Evlilikten önce olmaz!"
+    },
+    {
+      "id": "1b4fadef",
+      "bank_id": "c00dab00",
+      "text": "Parmağıma yüzük takılana kadar hiçbir şey alamazsın. Her şey usulünce ve yasal olmalı."
+    },
+    {
+      "id": "2f5e6458",
+      "bank_id": "c00dab00",
+      "text": "Bu ne böyle, soğan halkası mı?"
+    },
+    {
+      "id": "2f5e645a",
+      "bank_id": "c00dab00",
+      "text": "Bu döküntü yüzükle seninle evlenmemi mi bekliyorsun?"
+    },
+    {
+      "id": "2f5e645b",
+      "bank_id": "c00dab00",
+      "text": "Şaka falan mı bu? Hayatımda bu kadar acınası bir yüzük görmedim."
+    },
+    {
+      "id": "2f5e645c",
+      "bank_id": "c00dab00",
+      "text": "O çöp yüzükle bir hobbe'yle bile evlenemezsin."
+    },
+    {
+      "id": "2f5e645d",
+      "bank_id": "c00dab00",
+      "text": "Bu çöp parçasının gerçek bir yüzük olduğunu mu sanıyorsun? Asla olmaz."
+    },
+    {
+      "id": "345e6c79",
+      "bank_id": "c00dab00",
+      "text": "Bu ne böyle, soğan halkası mı?"
+    },
+    {
+      "id": "345e6c7a",
+      "bank_id": "c00dab00",
+      "text": "Bu yüzüğü kraker paketinden falan mı çıkardın?"
+    },
+    {
+      "id": "345e6c7b",
+      "bank_id": "c00dab00",
+      "text": "Bu döküntü yüzükle seninle evlenmemi mi bekliyorsun?"
+    },
+    {
+      "id": "345e6c7c",
+      "bank_id": "c00dab00",
+      "text": "Bu çöp parçasının gerçek bir yüzük olduğunu mu sanıyorsun? Asla olmaz."
+    },
+    {
+      "id": "345e6c7d",
+      "bank_id": "c00dab00",
+      "text": "O çöp yüzükle bir hobbe'yle bile evlenemezsin."
+    },
+    {
+      "id": "382fb4e4",
+      "bank_id": "c00dab00",
+      "text": "Beni gerçekten seviyorsan belki bunu gösterebilirsin."
+    },
+    {
+      "id": "412fc2c8",
+      "bank_id": "c00dab00",
+      "text": "Sevgisini göstermek yalnızca hayvanlara mahsus değildir."
+    },
+    {
+      "id": "412fc2c9",
+      "bank_id": "c00dab00",
+      "text": "Gerçek bir romantik aşka sınır tanımaz ve bunu belli eder."
+    },
+    {
+      "id": "412fc2ca",
+      "bank_id": "c00dab00",
+      "text": "Hadi ama, bana neler hissettiğini göster."
+    },
+    {
+      "id": "412fc2cb",
+      "bank_id": "c00dab00",
+      "text": "Bütün dergiler sevgini göstermen gerektiğini söylüyor. Hadi o zaman!"
+    },
+    {
+      "id": "412fc2cc",
+      "bank_id": "c00dab00",
+      "text": "Beni ne kadar önemsediğini göstermek için neden güzel bir şey yapmıyorsun?"
+    },
+    {
+      "id": "412fc2cd",
+      "bank_id": "c00dab00",
+      "text": "Beni ne kadar önemsediğini göster bana."
+    },
+    {
+      "id": "412fc2cf",
+      "bank_id": "c00dab00",
+      "text": "Bana olan sevgini daha sık dile getirsen incilerin dökülmez."
+    },
+    {
+      "id": "4f859150",
+      "bank_id": "c00dab00",
+      "text": "Bana bir şey alsaydın beni sahiden önemsediğini gösterirdi."
+    },
+    {
+      "id": "4f859151",
+      "bank_id": "c00dab00",
+      "text": "Arada bir hediye almak fena olmazdı hani..."
+    },
+    {
+      "id": "4f859152",
+      "bank_id": "c00dab00",
+      "text": "Kimi insanlar hediyelerin birine karşı ne hissettiğini gerçekten gösterdiğini söyler."
+    },
+    {
+      "id": "4f859154",
+      "bank_id": "c00dab00",
+      "text": "Küçük bir hediye hiç fena olmazdı."
+    },
+    {
+      "id": "4f859155",
+      "bank_id": "c00dab00",
+      "text": "Benim bağlılığımı küçük bir yadigârla ödüllendir ki senin de bağlı olduğunu bileyim."
+    },
+    {
+      "id": "4f859156",
+      "bank_id": "c00dab00",
+      "text": "Arada bir hediyeye ne dersin, ha?"
+    },
+    {
+      "id": "4f859157",
+      "bank_id": "c00dab00",
+      "text": "Korkarım ben bir... Ne derler ona, maddecim. Hediyelerimi severim ben."
+    },
+    {
+      "id": "58859fb8",
+      "bank_id": "c00dab00",
+      "text": "Bana küçük bir hediye bahşedersen kalbinin samimi olduğunu anlarım."
+    },
+    {
+      "id": "58859fb9",
+      "bank_id": "c00dab00",
+      "text": "Bana küçük bir süs eşyası ver, niyetinde ciddi olduğunu anlayayım."
+    },
+    {
+      "id": "58859fba",
+      "bank_id": "c00dab00",
+      "text": "Beni etkilemek mi istiyorsun? Biraz altın harca."
+    },
+    {
+      "id": "58859fbb",
+      "bank_id": "c00dab00",
+      "text": "Hediye yoksa aşk da yok. Anladın mı?"
+    },
+    {
+      "id": "58859fbc",
+      "bank_id": "c00dab00",
+      "text": "Bilirsin ya, bazı insanlar sevdikleri kişilere hediye verir..."
+    },
+    {
+      "id": "58859fbd",
+      "bank_id": "c00dab00",
+      "text": "Bana güzel bir şey alabilirdin hani... Bilirsin işte, istersen yani..."
+    },
+    {
+      "id": "58859fbf",
+      "bank_id": "c00dab00",
+      "text": "Arada bir küçük bir hediye hoş olabilirdi."
+    },
+    {
+      "id": "5a983cd8",
+      "bank_id": "c00dab00",
+      "text": "Kusura bakma ama sana karşı o duygusal bağı hissetmiyorum."
+    },
+    {
+      "id": "5a983cda",
+      "bank_id": "c00dab00",
+      "text": "Henüz sevgimi kazanmadın."
+    },
+    {
+      "id": "5a983cdb",
+      "bank_id": "c00dab00",
+      "text": "Bana olan sevgini kanıtla, o zaman düşünürüm."
+    },
+    {
+      "id": "5a983cdc",
+      "bank_id": "c00dab00",
+      "text": "Önce kalbimi kazanmalısın tatlım."
+    },
+    {
+      "id": "5a983cdd",
+      "bank_id": "c00dab00",
+      "text": "Daha bunu hak etmedin."
+    },
+    {
+      "id": "5a983cde",
+      "bank_id": "c00dab00",
+      "text": "Aşkımı hak etmelisin; onu öyle bedavaya vermem."
+    },
+    {
+      "id": "5a983cdf",
+      "bank_id": "c00dab00",
+      "text": "Yeterli bir duygusal yakınlığa ulaştığımızı sanmıyorum."
+    },
+    {
+      "id": "5f9844f9",
+      "bank_id": "c00dab00",
+      "text": "Kusura bakma, sana karşı o hisleri beslemiyorum."
+    },
+    {
+      "id": "5f9844fa",
+      "bank_id": "c00dab00",
+      "text": "Henüz o noktada olduğumuzu sanmıyorum."
+    },
+    {
+      "id": "5f9844fb",
+      "bank_id": "c00dab00",
+      "text": "Seni yeterince sevmiyorum sadece."
+    },
+    {
+      "id": "5f9844fc",
+      "bank_id": "c00dab00",
+      "text": "Bir hayvan gibi kokuyor olabilirim ama bir sonraki adıma geçmek için birini sevmem gerek."
+    },
+    {
+      "id": "5f9844fd",
+      "bank_id": "c00dab00",
+      "text": "Ne diyebilirim ki? Henüz o hissi duymuyorum."
+    },
+    {
+      "id": "5f9844fe",
+      "bank_id": "c00dab00",
+      "text": "Korkarım henüz yeterli bir muhabbet seviyesine ulaşamadık."
+    },
+    {
+      "id": "5f9844ff",
+      "bank_id": "c00dab00",
+      "text": "Sana karşı olan o duygular kalbimde henüz güçlü çarpmıyor."
+    },
+    {
+      "id": "ae08bcc2",
+      "bank_id": "c00dab00",
+      "text": "Seni seviyormuş gibi bir halim mi var? Şey, sevmiyorum."
+    },
+    {
+      "id": "ae08bcc3",
+      "bank_id": "c00dab00",
+      "text": "Sana o kadar aşık değilim, hepsi bu."
+    },
+    {
+      "id": "ae08bcc4",
+      "bank_id": "c00dab00",
+      "text": "Kusura bakma, sana karşı o hisleri beslemiyorum."
+    },
+    {
+      "id": "ae08bcc5",
+      "bank_id": "c00dab00",
+      "text": "Sana karşı gerçekten öyle güçlü şeyler hissetmiyorum."
+    },
+    {
+      "id": "ae08bcc7",
+      "bank_id": "c00dab00",
+      "text": "Kişisel bir şey değil ama seni sevdiğimi sanmıyorum."
+    },
+    {
+      "id": "b508c7c8",
+      "bank_id": "c00dab00",
+      "text": "Sana karşı gerçekten öyle güçlü şeyler hissetmiyorum."
+    },
+    {
+      "id": "b508c7c9",
+      "bank_id": "c00dab00",
+      "text": "Keşke sana karşı öyle hissetseydim ama hissetmiyorum."
+    },
+    {
+      "id": "b508c7ca",
+      "bank_id": "c00dab00",
+      "text": "Kişisel bir şey değil ama seni sevdiğimi sanmıyorum."
+    },
+    {
+      "id": "b508c7ce",
+      "bank_id": "c00dab00",
+      "text": "Sana o kadar aşık değilim, hepsi bu."
+    },
+    {
+      "id": "b508c7cf",
+      "bank_id": "c00dab00",
+      "text": "Seni seviyormuş gibi bir halim mi var? Şey, sevmiyorum."
+    },
+    {
+      "id": "b94a2260",
+      "bank_id": "c00dab00",
+      "text": "Anneme evlenene kadar bekleyeceğime söz verdim."
+    },
+    {
+      "id": "b94a2261",
+      "bank_id": "c00dab00",
+      "text": "Bunu düğün gecemize saklayalım."
+    },
+    {
+      "id": "b94a2262",
+      "bank_id": "c00dab00",
+      "text": "Evlenene kadar beklememiz gerektiğini düşünmüyor musun?"
+    },
+    {
+      "id": "b94a2264",
+      "bank_id": "c00dab00",
+      "text": "Ah! Nikâhsız sevişmek çok yanlış olur!"
+    },
+    {
+      "id": "b94a2265",
+      "bank_id": "c00dab00",
+      "text": "Aşkımızı taçlandırmak için düğünümüzü beklememiz gerekmez mi?"
+    },
+    {
+      "id": "b94a2266",
+      "bank_id": "c00dab00",
+      "text": "Kulağa çılgınca geldiğini biliyorum ama düğün gecemizi beklersek her şey çok daha tatlı olacak."
+    },
+    {
+      "id": "b94a2267",
+      "bank_id": "c00dab00",
+      "text": "Bana aptal diyebilirsin ama evlenene kadar bekleyelim, tamam mı?"
+    },
+    {
+      "id": "babe72c1",
+      "bank_id": "c00dab00",
+      "text": "Gerçekten romantik bir yere gitmeliyiz, sence de öyle değil mi?"
+    },
+    {
+      "id": "babe72c2",
+      "bank_id": "c00dab00",
+      "text": "Neden güzel, romantik bir yere yürüyüşe çıkmıyoruz?"
+    },
+    {
+      "id": "babe72c3",
+      "bank_id": "c00dab00",
+      "text": "Bir değişiklik yapıp romantik bir yere gidelim."
+    },
+    {
+      "id": "babe72c4",
+      "bank_id": "c00dab00",
+      "text": "Bu pis kokulu çukurdan çıkıp güzel bir yürüyüşe hiç fena demezdim."
+    },
+    {
+      "id": "babe72c5",
+      "bank_id": "c00dab00",
+      "text": "Burası bir çöplük. Gidebileceğimiz daha iyi bir yer olmalı."
+    },
+    {
+      "id": "babe72c6",
+      "bank_id": "c00dab00",
+      "text": "Neden havada romantizmin buram buram koktuğu bir yere gitmiyoruz?"
+    },
+    {
+      "id": "babe72c7",
+      "bank_id": "c00dab00",
+      "text": "Romantizm ölmedi biliyorsun, onu gerçekten yaşamak için nereye gideceğimizi bilmemiz yeterli."
+    },
+    {
+      "id": "c24a3048",
+      "bank_id": "c00dab00",
+      "text": "Evlenene kadar böyle bir şey ima etmezsen çok memnun olurum!"
+    },
+    {
+      "id": "c24a3049",
+      "bank_id": "c00dab00",
+      "text": "Biz hayvan değiliz! Medeni insanlar gibi düğün gecemize kadar bekleyeceğiz."
+    },
+    {
+      "id": "c24a304a",
+      "bank_id": "c00dab00",
+      "text": "Ne duyduğun umurumda değil. Evlilik öncesi ilişkiye inanmam!"
+    },
+    {
+      "id": "c24a304b",
+      "bank_id": "c00dab00",
+      "text": "Parmağıma yüzük takılana kadar hiçbir şey alamazsın. Her şey usulünce ve yasal olmalı."
+    },
+    {
+      "id": "c24a304c",
+      "bank_id": "c00dab00",
+      "text": "Kusura bakma ama ben eski kafalı bir delikanlıyım. Evlilik öncesi ilişkiye inanmam."
+    },
+    {
+      "id": "c24a304d",
+      "bank_id": "c00dab00",
+      "text": "Beni ne tür bir çocuk sanıyorsun sen? Evlenene kadar olmaz!"
+    },
+    {
+      "id": "c24a304f",
+      "bank_id": "c00dab00",
+      "text": "Nikâh kıyılana kadar beklemeyi tercih ederim."
+    },
+    {
+      "id": "c5be8470",
+      "bank_id": "c00dab00",
+      "text": "Neden beni romantik bir yere kaçırmıyorsun?"
+    },
+    {
+      "id": "c5be8472",
+      "bank_id": "c00dab00",
+      "text": "Bir değişiklik yapıp güzel bir yere gitsek nasıl olur?"
+    },
+    {
+      "id": "c5be8473",
+      "bank_id": "c00dab00",
+      "text": "Romantik bir yere gitmeyi çok isterdim."
+    },
+    {
+      "id": "c5be8474",
+      "bank_id": "c00dab00",
+      "text": "Bir değişiklik yapıp beni güzel bir yere götürmek ister misin?"
+    },
+    {
+      "id": "c5be8475",
+      "bank_id": "c00dab00",
+      "text": "Bu delikten daha iyi yerler olmalı."
+    },
+    {
+      "id": "c5be8476",
+      "bank_id": "c00dab00",
+      "text": "Seninle daha cennet gibi bir yerde vakit geçirmeyi hayal ediyorum."
+    },
+    {
+      "id": "c5be8477",
+      "bank_id": "c00dab00",
+      "text": "Birlikte ziyaret edebileceğimiz romantik bir mekân olmalı."
+    },
+    {
+      "id": "d67e1568",
+      "bank_id": "c00dab00",
+      "text": "Yüzük niyetine bu ucuz bahane hiç iş görmez."
+    },
+    {
+      "id": "d67e1569",
+      "bank_id": "c00dab00",
+      "text": "Bu iğrenç küçük süs eşyasıyla seninle kesinlikle evlenemem! Aşkımızın senin için anlamı bu kadar mı?!"
+    },
+    {
+      "id": "d67e156a",
+      "bank_id": "c00dab00",
+      "text": "Helada bile daha iyi yüzükler gördüm ben."
+    },
+    {
+      "id": "d67e156b",
+      "bank_id": "c00dab00",
+      "text": "Bu çöp parçasına düğün yüzüğü mü diyorsun sen? Hiç sanmıyorum!"
+    },
+    {
+      "id": "d67e156c",
+      "bank_id": "c00dab00",
+      "text": "Hiçbir kadın böyle bir yüzüğü olan biriyle evlenmez."
+    },
+    {
+      "id": "d67e156d",
+      "bank_id": "c00dab00",
+      "text": "Ah, hayır. Bu yüzük muhtemelen ben 'evet' demeden önce parçalanır. Düzgün bir tane bulamaz mısın?"
+    },
+    {
+      "id": "d67e156e",
+      "bank_id": "c00dab00",
+      "text": "Ne biçim döküntü bir yüzük bu böyle?!"
+    },
+    {
+      "id": "df7e23b8",
+      "bank_id": "c00dab00",
+      "text": "Hımm, bu yüzük muhtemelen ben 'evet' demeden önce parçalanır. Düzgün bir tane bulamaz mısın?"
+    },
+    {
+      "id": "df7e23b9",
+      "bank_id": "c00dab00",
+      "text": "Hiçbir erkek böyle bir yüzüğü olan biriyle evlenmez."
+    },
+    {
+      "id": "df7e23bb",
+      "bank_id": "c00dab00",
+      "text": "Ne biçim döküntü bir yüzük bu böyle?!"
+    },
+    {
+      "id": "df7e23bc",
+      "bank_id": "c00dab00",
+      "text": "Bu iğrenç küçük süs eşyasıyla seninle kesinlikle evlenemem! Aşkımızın senin için anlamı bu kadar mı?!"
+    },
+    {
+      "id": "df7e23bd",
+      "bank_id": "c00dab00",
+      "text": "Hayır, hayır, hayır, hayır. Yüzük niyetine bu ucuz bahane hiç iş görmez."
+    },
+    {
+      "id": "df7e23be",
+      "bank_id": "c00dab00",
+      "text": "Bu çöp parçasına düğün yüzüğü mü diyorsun sen? Hiç sanmıyorum!"
+    },
+    {
+      "id": "df7e23bf",
+      "bank_id": "c00dab00",
+      "text": "Helada bile daha iyi yüzükler gördüm ben."
+    },
+    {
+      "id": "ebe310c0",
+      "bank_id": "c00dab00",
+      "text": "Bir değişiklik yapıp güzel bir yere gitsek nasıl olur?"
+    },
+    {
+      "id": "ebe310c1",
+      "bank_id": "c00dab00",
+      "text": "Romantik bir yere gitmeyi çok isterdim."
+    },
+    {
+      "id": "ebe310c2",
+      "bank_id": "c00dab00",
+      "text": "Neden beni romantik bir yere kaçırmıyorsun?"
+    },
+    {
+      "id": "ebe310c4",
+      "bank_id": "c00dab00",
+      "text": "Seninle daha cennet gibi bir yerde vakit geçirmeyi hayal ediyorum."
+    },
+    {
+      "id": "ebe310c5",
+      "bank_id": "c00dab00",
+      "text": "Birlikte ziyaret edebileceğimiz romantik bir mekân olmalı."
+    },
+    {
+      "id": "ebe310c6",
+      "bank_id": "c00dab00",
+      "text": "Bir değişiklik yapıp beni güzel bir yere götürmek ister misin?"
+    },
+    {
+      "id": "ebe310c7",
+      "bank_id": "c00dab00",
+      "text": "Bu delikten daha iyi yerler olmalı."
+    },
+    {
+      "id": "f3156e30",
+      "bank_id": "c00dab00",
+      "text": "Korkarım henüz yeterli bir muhabbet seviyesine ulaşamadık."
+    },
+    {
+      "id": "f3156e31",
+      "bank_id": "c00dab00",
+      "text": "Sana karşı olan o duygular kalbimde henüz güçlü çarpmıyor."
+    },
+    {
+      "id": "f3156e32",
+      "bank_id": "c00dab00",
+      "text": "Bir hayvan gibi kokuyor olabilirim ama bir sonraki adıma geçmek için birini sevmem gerek."
+    },
+    {
+      "id": "f3156e33",
+      "bank_id": "c00dab00",
+      "text": "Ne diyebilirim ki? Henüz o hissi duymuyorum."
+    },
+    {
+      "id": "f3156e34",
+      "bank_id": "c00dab00",
+      "text": "Henüz o noktada olduğumuzu sanmıyorum."
+    },
+    {
+      "id": "f3156e35",
+      "bank_id": "c00dab00",
+      "text": "Seni yeterince sevmiyorum sadece."
+    },
+    {
+      "id": "f3156e37",
+      "bank_id": "c00dab00",
+      "text": "Kusura bakma, sana karşı o hisleri beslemiyorum."
+    },
+    {
+      "id": "f4e31f28",
+      "bank_id": "c00dab00",
+      "text": "Neden daha romantik bir yer bulmuyoruz?"
+    },
+    {
+      "id": "f4e31f29",
+      "bank_id": "c00dab00",
+      "text": "Romantizm ölmedi biliyorsun, onu gerçekten yaşamak için nereye gideceğimizi bilmemiz yeterli."
+    },
+    {
+      "id": "f4e31f2a",
+      "bank_id": "c00dab00",
+      "text": "Bu pis kokulu çukurdan çıkıp güzel bir yürüyüşe hiç fena demezdim."
+    },
+    {
+      "id": "f4e31f2b",
+      "bank_id": "c00dab00",
+      "text": "Burası bir çöplük. Gidebileceğimiz daha iyi bir yer olmalı."
+    },
+    {
+      "id": "f4e31f2c",
+      "bank_id": "c00dab00",
+      "text": "Neden güzel, romantik bir yere yürüyüşe çıkmıyoruz?"
+    },
+    {
+      "id": "f4e31f2d",
+      "bank_id": "c00dab00",
+      "text": "Bir değişiklik yapıp romantik bir yere gidelim."
+    },
+    {
+      "id": "f4e31f2f",
+      "bank_id": "c00dab00",
+      "text": "Gerçekten romantik bir yere gitmeliyiz, sence de öyle değil mi?"
+    },
+    {
+      "id": "fa157938",
+      "bank_id": "c00dab00",
+      "text": "Henüz sevgimi kazanmadın."
+    },
+    {
+      "id": "fa157939",
+      "bank_id": "c00dab00",
+      "text": "Bana olan sevgini kanıtla, o zaman düşünürüm."
+    },
+    {
+      "id": "fa15793a",
+      "bank_id": "c00dab00",
+      "text": "Kusura bakma ama sana karşı o duygusal bağı hissetmiyorum."
+    },
+    {
+      "id": "fa15793c",
+      "bank_id": "c00dab00",
+      "text": "Aşkımı hak etmelisin; onu öyle bedavaya vermem."
+    },
+    {
+      "id": "fa15793d",
+      "bank_id": "c00dab00",
+      "text": "Yeterli bir duygusal yakınlığa ulaştığımızı sanmıyorum."
+    },
+    {
+      "id": "fa15793e",
+      "bank_id": "c00dab00",
+      "text": "Önce kalbimi kazanmalısın tatlım."
+    },
+    {
+      "id": "fa15793f",
+      "bank_id": "c00dab00",
+      "text": "Daha bunu hak etmedin."
+    }
+  ]
+}

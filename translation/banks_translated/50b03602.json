@@ -1,0 +1,1591 @@
+{
+  "bank_id": "50b03602",
+  "total_strings": 317,
+  "strings": [
+    {
+      "id": "01089db9",
+      "bank_id": "50b03602",
+      "text": "Hiç bu kadar iyi olmamıştım!"
+    },
+    {
+      "id": "01089dba",
+      "bank_id": "50b03602",
+      "text": "Ah, şu an her şey öyle harika ki."
+    },
+    {
+      "id": "01089dbb",
+      "bank_id": "50b03602",
+      "text": "İşler benim için bayağı iyi gidiyor, sağ olasın."
+    },
+    {
+      "id": "01089dbc",
+      "bank_id": "50b03602",
+      "text": "Hayatımda ilk defa cidden mutluyum."
+    },
+    {
+      "id": "01089dbd",
+      "bank_id": "50b03602",
+      "text": "Kader son zamanlarda yüzüme gülüyor."
+    },
+    {
+      "id": "0f11293c",
+      "bank_id": "50b03602",
+      "text": "Hayatımın en güzel gününü yaşıyorum!"
+    },
+    {
+      "id": "12ac215e",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "12ac215f",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "23462a3d",
+      "bank_id": "50b03602",
+      "text": "Ben... ben eve gitmek istiyorum..."
+    },
+    {
+      "id": "2628f211",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "2628f212",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "2628f213",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "2628f214",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "2628f215",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "2628f216",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "2628f217",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "2acf7490",
+      "bank_id": "50b03602",
+      "text": "Hiçbir şey keyfimi kaçıramaz."
+    },
+    {
+      "id": "2acf7491",
+      "bank_id": "50b03602",
+      "text": "Her gün bayram gibi geçiyor, değil mi?"
+    },
+    {
+      "id": "2acf7494",
+      "bank_id": "50b03602",
+      "text": "Her şey çok güzel!"
+    },
+    {
+      "id": "2acf7496",
+      "bank_id": "50b03602",
+      "text": "İnsanın şarkılara başlayıp dans edesi gelmiyor mu sence de?"
+    },
+    {
+      "id": "2acf7497",
+      "bank_id": "50b03602",
+      "text": "Ah, fevkalade bir gün daha."
+    },
+    {
+      "id": "2e463b6c",
+      "bank_id": "50b03602",
+      "text": "Annemi istiyorum..."
+    },
+    {
+      "id": "2fcf7cb0",
+      "bank_id": "50b03602",
+      "text": "Şu an o kadar mutluyum ki bir hobbe'yi bile öpebilirim."
+    },
+    {
+      "id": "2fcf7cb1",
+      "bank_id": "50b03602",
+      "text": "Ahhh, pislik içindeki bir hobbe kadar mutluyum."
+    },
+    {
+      "id": "2fcf7cb5",
+      "bank_id": "50b03602",
+      "text": "Dünya harika bir yer."
+    },
+    {
+      "id": "2fcf7cb6",
+      "bank_id": "50b03602",
+      "text": "Ahhh, gülümsemekten kendimi alamıyorum! Belli olmasa bile!"
+    },
+    {
+      "id": "2fcf7cb7",
+      "bank_id": "50b03602",
+      "text": "Hayat bundan daha güzel olamazdı."
+    },
+    {
+      "id": "31290340",
+      "bank_id": "50b03602",
+      "text": "<sighs>"
+    },
+    {
+      "id": "31290342",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "31290343",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "31290344",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "31290345",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "31290346",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "31290347",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "35b6ce60",
+      "bank_id": "50b03602",
+      "text": "Daha iyi günlerim olmuştu doğrusu."
+    },
+    {
+      "id": "35b6ce61",
+      "bank_id": "50b03602",
+      "text": "Nasıl hissettiğim kimin umurunda ki?"
+    },
+    {
+      "id": "35b6ce62",
+      "bank_id": "50b03602",
+      "text": "Hüzün ruhumu karanlık, koca bir girdap gibi dolduruyor."
+    },
+    {
+      "id": "35b6ce63",
+      "bank_id": "50b03602",
+      "text": "Ah, elimden geldiğince dayanmaya çalışıyorum."
+    },
+    {
+      "id": "35b6ce64",
+      "bank_id": "50b03602",
+      "text": "Dürüst olmak gerekirse hiç iyi değilim. Hem de hiç."
+    },
+    {
+      "id": "35b6ce66",
+      "bank_id": "50b03602",
+      "text": "Çoğu gece ağlayarak uyuyakalıyorum, sorunun cevabı buysa eğer."
+    },
+    {
+      "id": "35b6ce67",
+      "bank_id": "50b03602",
+      "text": "*iç çeker* Cidden umurunda olur muydu ki? Sırf nezaketen soruyorsun işte."
+    },
+    {
+      "id": "3ab6d600",
+      "bank_id": "50b03602",
+      "text": "Sabahları yataktan zor çıkıyorum."
+    },
+    {
+      "id": "3ab6d601",
+      "bank_id": "50b03602",
+      "text": "Ah, beni yalnız bırakın..."
+    },
+    {
+      "id": "3ab6d602",
+      "bank_id": "50b03602",
+      "text": "Çaresizliğin en dipsiz kuyularındayım."
+    },
+    {
+      "id": "3ab6d603",
+      "bank_id": "50b03602",
+      "text": "Keder içindeyim."
+    },
+    {
+      "id": "3ab6d605",
+      "bank_id": "50b03602",
+      "text": "Hiçbir şeyin ne anlamı var ki? Yani gerçekten."
+    },
+    {
+      "id": "3ab6d606",
+      "bank_id": "50b03602",
+      "text": "Her şey o kadar anlamsız geliyor ki. *iç çeker*"
+    },
+    {
+      "id": "3ab6d607",
+      "bank_id": "50b03602",
+      "text": "İnsanın oturup ağlayası gelmiyor mu?"
+    },
+    {
+      "id": "3b1eda41",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker* Hayat hiç adil değil."
+    },
+    {
+      "id": "3ba7e4f7",
+      "bank_id": "50b03602",
+      "text": "<whimper>"
+    },
+    {
+      "id": "3ffbf390",
+      "bank_id": "50b03602",
+      "text": "Diri diri diri."
+    },
+    {
+      "id": "3ffbf391",
+      "bank_id": "50b03602",
+      "text": "Diri diri diri."
+    },
+    {
+      "id": "3ffbf393",
+      "bank_id": "50b03602",
+      "text": "<whistles>"
+    },
+    {
+      "id": "3ffbf396",
+      "bank_id": "50b03602",
+      "text": "Diri diri diri."
+    },
+    {
+      "id": "3ffbf397",
+      "bank_id": "50b03602",
+      "text": "Diri diri diri."
+    },
+    {
+      "id": "42a7effa",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "437b7f21",
+      "bank_id": "50b03602",
+      "text": "Doğruyu söylemek gerekirse bazen öyle korkuyorum ki yatağın altına saklanmak istiyorum."
+    },
+    {
+      "id": "437b7f22",
+      "bank_id": "50b03602",
+      "text": "Endişeliyim, dürüst olmak gerekirse çok endişeliyim."
+    },
+    {
+      "id": "437b7f23",
+      "bank_id": "50b03602",
+      "text": "Küçük bir çocuk gibi korkuyorum."
+    },
+    {
+      "id": "437b7f24",
+      "bank_id": "50b03602",
+      "text": "Şey, son zamanlarda çok don değiştirir oldum."
+    },
+    {
+      "id": "437b7f25",
+      "bank_id": "50b03602",
+      "text": "Neden soruyorsun? Bir şey mi biliyorsun yoksa? Söyle bana!"
+    },
+    {
+      "id": "437b7f26",
+      "bank_id": "50b03602",
+      "text": "Boynumun üstünde bir balta sallansaydı bile bundan daha fazla dehşete kapılamazdım."
+    },
+    {
+      "id": "437b7f27",
+      "bank_id": "50b03602",
+      "text": "Daha fazla kaygılı olamazdım herhalde."
+    },
+    {
+      "id": "45cb5827",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "461eebf0",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker* Neden? Neden?"
+    },
+    {
+      "id": "46fbfe92",
+      "bank_id": "50b03602",
+      "text": "Diri diri diri."
+    },
+    {
+      "id": "46fbfe93",
+      "bank_id": "50b03602",
+      "text": "Diri diri diri."
+    },
+    {
+      "id": "46fbfe94",
+      "bank_id": "50b03602",
+      "text": "Diri diri diri."
+    },
+    {
+      "id": "46fbfe95",
+      "bank_id": "50b03602",
+      "text": "Diri diri diri."
+    },
+    {
+      "id": "46fbfe96",
+      "bank_id": "50b03602",
+      "text": "Diri diri diri."
+    },
+    {
+      "id": "4ccb632a",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "4e7b9050",
+      "bank_id": "50b03602",
+      "text": "Dehşet içindeyim, kesinlikle dehşet içindeyim."
+    },
+    {
+      "id": "4e7b9052",
+      "bank_id": "50b03602",
+      "text": "Hayatımda hiç olmadığım kadar korkuyorum."
+    },
+    {
+      "id": "4e7b9053",
+      "bank_id": "50b03602",
+      "text": "Keşke her şey bitseydi artık. Bütün bunlar... çok fazla geliyor."
+    },
+    {
+      "id": "4e7b9054",
+      "bank_id": "50b03602",
+      "text": "Açıkçası biraz korkuyorum."
+    },
+    {
+      "id": "4e7b9055",
+      "bank_id": "50b03602",
+      "text": "Korkudan taş kesildim."
+    },
+    {
+      "id": "4e7b9056",
+      "bank_id": "50b03602",
+      "text": "Ah, hiç bu kadar ürktüğümü hatırlamıyorum."
+    },
+    {
+      "id": "4e7b9057",
+      "bank_id": "50b03602",
+      "text": "Hiç bu kadar korkmamıştım."
+    },
+    {
+      "id": "523826e1",
+      "bank_id": "50b03602",
+      "text": "Ah, her zamanki gibi."
+    },
+    {
+      "id": "523826e2",
+      "bank_id": "50b03602",
+      "text": "Şikâyet edemem. Sızlanmamak gerek."
+    },
+    {
+      "id": "523826e3",
+      "bank_id": "50b03602",
+      "text": "Eh, fena değil herhalde."
+    },
+    {
+      "id": "523826e4",
+      "bank_id": "50b03602",
+      "text": "İyiyim sanırım."
+    },
+    {
+      "id": "523826e5",
+      "bank_id": "50b03602",
+      "text": "Fena değil."
+    },
+    {
+      "id": "5d383810",
+      "bank_id": "50b03602",
+      "text": "İyiyim."
+    },
+    {
+      "id": "5d383812",
+      "bank_id": "50b03602",
+      "text": "İyiyim, teşekkürler."
+    },
+    {
+      "id": "5d383813",
+      "bank_id": "50b03602",
+      "text": "Ah, iyiyim sağ olasın."
+    },
+    {
+      "id": "5d383814",
+      "bank_id": "50b03602",
+      "text": "Tamam."
+    },
+    {
+      "id": "5d383815",
+      "bank_id": "50b03602",
+      "text": "İdare eder herhalde."
+    },
+    {
+      "id": "5e407688",
+      "bank_id": "50b03602",
+      "text": "Bir... bir korumaya ihtiyacım var..."
+    },
+    {
+      "id": "5e407689",
+      "bank_id": "50b03602",
+      "text": "Ne gördüğümü biliyorum... ama gerçek değildi. Hayır. Olamazdı..."
+    },
+    {
+      "id": "5e40768a",
+      "bank_id": "50b03602",
+      "text": "Evden hiç çıkmamalıydım..."
+    },
+    {
+      "id": "5e40768b",
+      "bank_id": "50b03602",
+      "text": "O ses de neydi öyle?!"
+    },
+    {
+      "id": "5e40768c",
+      "bank_id": "50b03602",
+      "text": "Sadece bir rüya. Hepsi bu..."
+    },
+    {
+      "id": "5e40768d",
+      "bank_id": "50b03602",
+      "text": "Bir ses duydum. Duydum işte biliyorum."
+    },
+    {
+      "id": "5e40768e",
+      "bank_id": "50b03602",
+      "text": "Ölmek istemiyorum... Ölmek istemiyorum..."
+    },
+    {
+      "id": "60ed8690",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "60ed8691",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "60ed8693",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "60ed8696",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "60ed8697",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "674084d8",
+      "bank_id": "50b03602",
+      "text": "Korkulacak tek şey... her şey..."
+    },
+    {
+      "id": "674084d9",
+      "bank_id": "50b03602",
+      "text": "Her şey yolunda, her şey yoluna girecek..."
+    },
+    {
+      "id": "674084db",
+      "bank_id": "50b03602",
+      "text": "Dikkatli olmalıyım, dikkatli olmalıyım..."
+    },
+    {
+      "id": "674084dc",
+      "bank_id": "50b03602",
+      "text": "Bir şey olmadan eve varmalıyım..."
+    },
+    {
+      "id": "674084dd",
+      "bank_id": "50b03602",
+      "text": "Bir şey bana saldıracak, hissediyorum..."
+    },
+    {
+      "id": "674084de",
+      "bank_id": "50b03602",
+      "text": "Biri beni mi takip ediyor??"
+    },
+    {
+      "id": "674084df",
+      "bank_id": "50b03602",
+      "text": "Ben mi? Korkmak mı? Ha! Agh! O da neydi?!"
+    },
+    {
+      "id": "67ed9192",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "67ed9193",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "67ed9194",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "67ed9195",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "67ed9196",
+      "bank_id": "50b03602",
+      "text": "<sighs>"
+    },
+    {
+      "id": "6c2543c0",
+      "bank_id": "50b03602",
+      "text": "İlla bilmek istiyorsan son zamanlarda biraz depresif hissediyorum."
+    },
+    {
+      "id": "6c2543c1",
+      "bank_id": "50b03602",
+      "text": "Eh, yani dürüst olmak gerekirse daha iyi günlerim olmuştu."
+    },
+    {
+      "id": "6c2543c2",
+      "bank_id": "50b03602",
+      "text": "Aslında kendimi moralim bozuk hissediyorum."
+    },
+    {
+      "id": "6c2543c6",
+      "bank_id": "50b03602",
+      "text": "Hayat anlamsız. Bu sorunun cevabı oldu mu?"
+    },
+    {
+      "id": "6c2543c7",
+      "bank_id": "50b03602",
+      "text": "Söylerdim ama kim benim sızlanmalarımı dinlemek ister ki?"
+    },
+    {
+      "id": "7525522a",
+      "bank_id": "50b03602",
+      "text": "Cevap vermenin ne anlamı var? Hiçbir şeyin ne anlamı var?"
+    },
+    {
+      "id": "7525522b",
+      "bank_id": "50b03602",
+      "text": "Ah, şu sıralar işler pek iyi gitmiyor."
+    },
+    {
+      "id": "7525522c",
+      "bank_id": "50b03602",
+      "text": "Yataktan hiç çıkmamış olmayı dilediğin günlerden biri işte."
+    },
+    {
+      "id": "7525522d",
+      "bank_id": "50b03602",
+      "text": "Kendimi bayağı çökkün hissediyorum."
+    },
+    {
+      "id": "7525522f",
+      "bank_id": "50b03602",
+      "text": "Aslında biraz depresyondayım."
+    },
+    {
+      "id": "76192710",
+      "bank_id": "50b03602",
+      "text": "Elimde değil, bugün kendimi çok hüzünlü hissediyorum."
+    },
+    {
+      "id": "76192711",
+      "bank_id": "50b03602",
+      "text": "Hayat bundan mı ibaret yani?"
+    },
+    {
+      "id": "76192712",
+      "bank_id": "50b03602",
+      "text": "Kendimi öyle çökkün hissediyorum ki..."
+    },
+    {
+      "id": "76192714",
+      "bank_id": "50b03602",
+      "text": "Yazıklar olsun bana."
+    },
+    {
+      "id": "76192715",
+      "bank_id": "50b03602",
+      "text": "Ah acı melankoli, gölgeni üzerime düşürdün."
+    },
+    {
+      "id": "76192716",
+      "bank_id": "50b03602",
+      "text": "Bu pislik yuvasında geçen bir gün daha..."
+    },
+    {
+      "id": "76192717",
+      "bank_id": "50b03602",
+      "text": "Neden? Neden her şey böyle olmak zorundaydı?"
+    },
+    {
+      "id": "7c2ea4e0",
+      "bank_id": "50b03602",
+      "text": "Kendimi hüzünlü hissediyorum doğrusu."
+    },
+    {
+      "id": "7c2ea4e1",
+      "bank_id": "50b03602",
+      "text": "Ağlamamak için kendimi zor tutuyorum."
+    },
+    {
+      "id": "7c2ea4e2",
+      "bank_id": "50b03602",
+      "text": "Çaresizlikten patlamak üzereyim."
+    },
+    {
+      "id": "7c2ea4e6",
+      "bank_id": "50b03602",
+      "text": "Hüngür hüngür ağlamaya başlamak üzereyim."
+    },
+    {
+      "id": "7c2ea4e7",
+      "bank_id": "50b03602",
+      "text": "O kadar üzgünüm ki ağlayabilirim."
+    },
+    {
+      "id": "7ca595a0",
+      "bank_id": "50b03602",
+      "text": "Bayağı harikayım valla."
+    },
+    {
+      "id": "7ca595a1",
+      "bank_id": "50b03602",
+      "text": "İşler hiç bu kadar iyi olmamıştı."
+    },
+    {
+      "id": "7ca595a4",
+      "bank_id": "50b03602",
+      "text": "Fevkaladeyim!"
+    },
+    {
+      "id": "7ca595a6",
+      "bank_id": "50b03602",
+      "text": "Neşeden havalara uçuyorum."
+    },
+    {
+      "id": "7ca595a7",
+      "bank_id": "50b03602",
+      "text": "İşler bayağı iyi aslında."
+    },
+    {
+      "id": "7f193578",
+      "bank_id": "50b03602",
+      "text": "Ohh, her şeyin getirdiği bu çaresizlik..."
+    },
+    {
+      "id": "7f193579",
+      "bank_id": "50b03602",
+      "text": "Bugün kalbimde koca bir ağırlıkla yürüyorum..."
+    },
+    {
+      "id": "7f19357a",
+      "bank_id": "50b03602",
+      "text": "Ahh, her şey öyle anlamsız ki."
+    },
+    {
+      "id": "7f19357b",
+      "bank_id": "50b03602",
+      "text": "Hayatımı boşa harcadım..."
+    },
+    {
+      "id": "7f19357c",
+      "bank_id": "50b03602",
+      "text": "Ohh, her şey öyle... *iç çeker*"
+    },
+    {
+      "id": "7f19357d",
+      "bank_id": "50b03602",
+      "text": "Hayatımı böyle hayal etmemiştim..."
+    },
+    {
+      "id": "7f19357f",
+      "bank_id": "50b03602",
+      "text": "Artık hiçbir şeyin ne anlamı kaldı ki?"
+    },
+    {
+      "id": "81752f50",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "81752f51",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "81752f52",
+      "bank_id": "50b03602",
+      "text": "<whimper>"
+    },
+    {
+      "id": "81752f56",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "81752f57",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "81a59d40",
+      "bank_id": "50b03602",
+      "text": "Güzel!"
+    },
+    {
+      "id": "81a59d41",
+      "bank_id": "50b03602",
+      "text": "Bayağı iyiyim."
+    },
+    {
+      "id": "81a59d45",
+      "bank_id": "50b03602",
+      "text": "Süperim."
+    },
+    {
+      "id": "81a59d46",
+      "bank_id": "50b03602",
+      "text": "Harika gidiyor her şey."
+    },
+    {
+      "id": "81a59d47",
+      "bank_id": "50b03602",
+      "text": "Her şey bayağı iyi gidiyor, teşekkürler."
+    },
+    {
+      "id": "850a3780",
+      "bank_id": "50b03602",
+      "text": "La la la la la la la."
+    },
+    {
+      "id": "850a3781",
+      "bank_id": "50b03602",
+      "text": "La la la la la la la."
+    },
+    {
+      "id": "850a3783",
+      "bank_id": "50b03602",
+      "text": "La la la la la la la."
+    },
+    {
+      "id": "850a3786",
+      "bank_id": "50b03602",
+      "text": "La la la la la la la."
+    },
+    {
+      "id": "850a3787",
+      "bank_id": "50b03602",
+      "text": "La la la la la la la."
+    },
+    {
+      "id": "852eb2ca",
+      "bank_id": "50b03602",
+      "text": "Daha iyi günlerim olmuştu. Her şey öyle... Ah, neye yarar ki?"
+    },
+    {
+      "id": "852eb2cb",
+      "bank_id": "50b03602",
+      "text": "Durumlar bundan daha kötü olamazdı."
+    },
+    {
+      "id": "852eb2cc",
+      "bank_id": "50b03602",
+      "text": "Bilirsin işte, bazı günler diğerlerinden daha kolay geçer."
+    },
+    {
+      "id": "852eb2cd",
+      "bank_id": "50b03602",
+      "text": "Umarım işler yakında düzelir."
+    },
+    {
+      "id": "852eb2cf",
+      "bank_id": "50b03602",
+      "text": "Son zamanlarda pek iyi vakit geçirdiğim söylenemez."
+    },
+    {
+      "id": "8a753dba",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8a753dbb",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8a753dbc",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8a753dbd",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8a753dbf",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8c0a4282",
+      "bank_id": "50b03602",
+      "text": "La la la la la la la."
+    },
+    {
+      "id": "8c0a4283",
+      "bank_id": "50b03602",
+      "text": "La la la la la la la."
+    },
+    {
+      "id": "8c0a4284",
+      "bank_id": "50b03602",
+      "text": "La la la la la la la."
+    },
+    {
+      "id": "8c0a4285",
+      "bank_id": "50b03602",
+      "text": "La la la la la la la."
+    },
+    {
+      "id": "8c0a4286",
+      "bank_id": "50b03602",
+      "text": "<hums>"
+    },
+    {
+      "id": "90d04b60",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "90d04b61",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "90d04b62",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "90d04b63",
+      "bank_id": "50b03602",
+      "text": "Ayyy!"
+    },
+    {
+      "id": "90d04b64",
+      "bank_id": "50b03602",
+      "text": "İiik!"
+    },
+    {
+      "id": "90d04b66",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "90d04b67",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "95d05300",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "95d05301",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "95d05302",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "95d05303",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "95d05305",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "95d05306",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "95d05307",
+      "bank_id": "50b03602",
+      "text": "Vaaaaaah."
+    },
+    {
+      "id": "9a540680",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker* ohhh"
+    },
+    {
+      "id": "9a540681",
+      "bank_id": "50b03602",
+      "text": "Ahhh *iç çeker*"
+    },
+    {
+      "id": "9a540683",
+      "bank_id": "50b03602",
+      "text": "Ahhh *iç çeker*"
+    },
+    {
+      "id": "9a540686",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker* ohhh"
+    },
+    {
+      "id": "9a540687",
+      "bank_id": "50b03602",
+      "text": "Ahhh *iç çeker*"
+    },
+    {
+      "id": "9debc068",
+      "bank_id": "50b03602",
+      "text": "Korkuyorum, kısacası bu. Ölesiye korkuyorum."
+    },
+    {
+      "id": "9debc069",
+      "bank_id": "50b03602",
+      "text": "Hiç bu kadar ürkmemiştim."
+    },
+    {
+      "id": "9debc06b",
+      "bank_id": "50b03602",
+      "text": "Korkudan ödüm kopuyor işte."
+    },
+    {
+      "id": "9debc06e",
+      "bank_id": "50b03602",
+      "text": "Hayatımda hiç bu kadar korkmamıştım."
+    },
+    {
+      "id": "a1541182",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker* ohhh"
+    },
+    {
+      "id": "a1541183",
+      "bank_id": "50b03602",
+      "text": "Ahhh *iç çeker*"
+    },
+    {
+      "id": "a1541184",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker* ohhh"
+    },
+    {
+      "id": "a1541185",
+      "bank_id": "50b03602",
+      "text": "Ahhh *iç çeker*"
+    },
+    {
+      "id": "a1541186",
+      "bank_id": "50b03602",
+      "text": "<sniffles>"
+    },
+    {
+      "id": "aa1b1260",
+      "bank_id": "50b03602",
+      "text": "Şu an hayat tek kelimeyle harika."
+    },
+    {
+      "id": "aa1b1261",
+      "bank_id": "50b03602",
+      "text": "Her şey pamuk gibi ve harika."
+    },
+    {
+      "id": "aa1b1262",
+      "bank_id": "50b03602",
+      "text": "Dünya benim istiridyem. Ve ben de onun incisiyim."
+    },
+    {
+      "id": "aa1b1263",
+      "bank_id": "50b03602",
+      "text": "Ah, öyle mutluyum ki!"
+    },
+    {
+      "id": "aa1b1264",
+      "bank_id": "50b03602",
+      "text": "<happy humming>"
+    },
+    {
+      "id": "aa1b1266",
+      "bank_id": "50b03602",
+      "text": "Bir rüyada yaşıyorum adeta."
+    },
+    {
+      "id": "aa1b1267",
+      "bank_id": "50b03602",
+      "text": "Hayat ne güzel değil mi!"
+    },
+    {
+      "id": "af1b1a00",
+      "bank_id": "50b03602",
+      "text": "Ahh! Şu harika havayı içine çek hele!"
+    },
+    {
+      "id": "af1b1a01",
+      "bank_id": "50b03602",
+      "text": "Ah, keşke her gün böyle olsa."
+    },
+    {
+      "id": "af1b1a02",
+      "bank_id": "50b03602",
+      "text": "Dünya ruhuma gülümsüyor adeta."
+    },
+    {
+      "id": "af1b1a03",
+      "bank_id": "50b03602",
+      "text": "Ne kadar da enfes bir gün, değil mi?"
+    },
+    {
+      "id": "af1b1a05",
+      "bank_id": "50b03602",
+      "text": "Hayatımı seviyorum!"
+    },
+    {
+      "id": "af1b1a06",
+      "bank_id": "50b03602",
+      "text": "Her şey öyle harika ki!"
+    },
+    {
+      "id": "af1b1a07",
+      "bank_id": "50b03602",
+      "text": "Bu sabah harika bir haber aldım. Ah, tek kelimeyle mükemmel."
+    },
+    {
+      "id": "b1b93b70",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "b1b93b71",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "b1b93b74",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "b1b93b76",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "b1b93b77",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "b304d9b2",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "b304d9b3",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "b6b94310",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "b6b94311",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "b6b94315",
+      "bank_id": "50b03602",
+      "text": "<whimper>"
+    },
+    {
+      "id": "b6b94316",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "b6b94317",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "ba7912d8",
+      "bank_id": "50b03602",
+      "text": "Beklenebileceği kadar iyi."
+    },
+    {
+      "id": "ba7912d9",
+      "bank_id": "50b03602",
+      "text": "Ah iyi, iyi."
+    },
+    {
+      "id": "ba7912da",
+      "bank_id": "50b03602",
+      "text": "Her zamanki şeyler."
+    },
+    {
+      "id": "ba7912db",
+      "bank_id": "50b03602",
+      "text": "Ah, bilirsin işte."
+    },
+    {
+      "id": "ba7912dc",
+      "bank_id": "50b03602",
+      "text": "Fena değil."
+    },
+    {
+      "id": "ba7912dd",
+      "bank_id": "50b03602",
+      "text": "Fena değil, fena değil."
+    },
+    {
+      "id": "ba7912de",
+      "bank_id": "50b03602",
+      "text": "İyiyim. Bilirsin işte nasıl gittiğini."
+    },
+    {
+      "id": "c3792128",
+      "bank_id": "50b03602",
+      "text": "Bilirsin işte, her günü olduğu gibi karşılıyorum."
+    },
+    {
+      "id": "c3792129",
+      "bank_id": "50b03602",
+      "text": "Ne kötü, ne çok iyi."
+    },
+    {
+      "id": "c379212b",
+      "bank_id": "50b03602",
+      "text": "Haber verecek bir şey yok doğrusu."
+    },
+    {
+      "id": "c379212c",
+      "bank_id": "50b03602",
+      "text": "Her şey aşağı yukarı aynı tas aynı hamam."
+    },
+    {
+      "id": "c379212d",
+      "bank_id": "50b03602",
+      "text": "Ne hüzünlü ne mutlu."
+    },
+    {
+      "id": "c379212e",
+      "bank_id": "50b03602",
+      "text": "Bilirsin, her zamanki gibi."
+    },
+    {
+      "id": "c379212f",
+      "bank_id": "50b03602",
+      "text": "Şöyle böyle."
+    },
+    {
+      "id": "c8e68460",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "c8e68461",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "c8e68463",
+      "bank_id": "50b03602",
+      "text": "<whimpers>"
+    },
+    {
+      "id": "c8e68466",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "c8e68467",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "cc67ce30",
+      "bank_id": "50b03602",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "cc67ce31",
+      "bank_id": "50b03602",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "cc67ce32",
+      "bank_id": "50b03602",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "cc67ce36",
+      "bank_id": "50b03602",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "cc67ce37",
+      "bank_id": "50b03602",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "ccbce560",
+      "bank_id": "50b03602",
+      "text": "Harikayım, sağ olasın!"
+    },
+    {
+      "id": "ccbce561",
+      "bank_id": "50b03602",
+      "text": "Hiç bu kadar iyi olmamıştım!"
+    },
+    {
+      "id": "ccbce563",
+      "bank_id": "50b03602",
+      "text": "Bayağı iyiyim, sorduğun için teşekkürler."
+    },
+    {
+      "id": "ccbce564",
+      "bank_id": "50b03602",
+      "text": "Fevkalade iyiyim, sorduğun için sağ ol."
+    },
+    {
+      "id": "ccbce565",
+      "bank_id": "50b03602",
+      "text": "Tatmin fazlalığından muzdaribim adeta!"
+    },
+    {
+      "id": "ccbce566",
+      "bank_id": "50b03602",
+      "text": "Harika gidiyor!"
+    },
+    {
+      "id": "ccbce567",
+      "bank_id": "50b03602",
+      "text": "Hayatımda hiç bu kadar mutlu hissetmemiştim."
+    },
+    {
+      "id": "cfe68f62",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "cfe68f63",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "cfe68f64",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "cfe68f65",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "cfe68f66",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "d3bcf060",
+      "bank_id": "50b03602",
+      "text": "Ah, harika gidiyor her şey."
+    },
+    {
+      "id": "d3bcf061",
+      "bank_id": "50b03602",
+      "text": "Tek kelimeyle harikayım, teşekkürler."
+    },
+    {
+      "id": "d3bcf062",
+      "bank_id": "50b03602",
+      "text": "Daha iyi olamazdı!"
+    },
+    {
+      "id": "d3bcf063",
+      "bank_id": "50b03602",
+      "text": "Harika gidiyor."
+    },
+    {
+      "id": "d3bcf064",
+      "bank_id": "50b03602",
+      "text": "Bayağı iyi, sağ olasın."
+    },
+    {
+      "id": "d3bcf065",
+      "bank_id": "50b03602",
+      "text": "Daha iyi olamazdı!"
+    },
+    {
+      "id": "d3bcf066",
+      "bank_id": "50b03602",
+      "text": "Her zamankinden daha iyiyim."
+    },
+    {
+      "id": "d567dc1a",
+      "bank_id": "50b03602",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "d567dc1b",
+      "bank_id": "50b03602",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "d567dc1c",
+      "bank_id": "50b03602",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "d567dc1d",
+      "bank_id": "50b03602",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "d567dc1f",
+      "bank_id": "50b03602",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "dc009cd3",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "e1eba790",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "e1eba791",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "e1eba792",
+      "bank_id": "50b03602",
+      "text": "<whimper>"
+    },
+    {
+      "id": "e1eba796",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "e1eba797",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "e300a7d6",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "e6241003",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "eaebb5fa",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "eaebb5fb",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "eaebb5fc",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "eaebb5fd",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "eaebb5ff",
+      "bank_id": "50b03602",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "ed01fad8",
+      "bank_id": "50b03602",
+      "text": "İyi, iyi, iyi."
+    },
+    {
+      "id": "ed01fad9",
+      "bank_id": "50b03602",
+      "text": "Fena değil."
+    },
+    {
+      "id": "ed01fadd",
+      "bank_id": "50b03602",
+      "text": "Olağandışı bir şey yok."
+    },
+    {
+      "id": "ed01fade",
+      "bank_id": "50b03602",
+      "text": "Ah, bilirsin işte, her zamanki gibi."
+    },
+    {
+      "id": "ed01fadf",
+      "bank_id": "50b03602",
+      "text": "Şikâyet edecek bir şey yok."
+    },
+    {
+      "id": "ed241b06",
+      "bank_id": "50b03602",
+      "text": "Ohh, *iç çeker*"
+    },
+    {
+      "id": "f8020c08",
+      "bank_id": "50b03602",
+      "text": "İyiyim."
+    },
+    {
+      "id": "f8020c09",
+      "bank_id": "50b03602",
+      "text": "Peh."
+    },
+    {
+      "id": "f8020c0c",
+      "bank_id": "50b03602",
+      "text": "Pek şikâyet edemem sanırım."
+    },
+    {
+      "id": "f8020c0e",
+      "bank_id": "50b03602",
+      "text": "Şikâyet edecek bir şey yok."
+    },
+    {
+      "id": "f8020c0f",
+      "bank_id": "50b03602",
+      "text": "İyi, iyi. Bilirsin işte."
+    },
+    {
+      "id": "f8323498",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "f832349a",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "f832349b",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "f832349c",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "f832349d",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "fc089598",
+      "bank_id": "50b03602",
+      "text": "Şu an işler benim için süper gidiyor."
+    },
+    {
+      "id": "fc08959a",
+      "bank_id": "50b03602",
+      "text": "Her şey çok harika."
+    },
+    {
+      "id": "fc08959b",
+      "bank_id": "50b03602",
+      "text": "Ahh, bugünlerde bayağı mutluyum, doğruya doğru."
+    },
+    {
+      "id": "fc08959c",
+      "bank_id": "50b03602",
+      "text": "Hiç şikâyetim yok. Her şey lokum gibi."
+    },
+    {
+      "id": "fc08959d",
+      "bank_id": "50b03602",
+      "text": "Bayağı harika her şey."
+    },
+    {
+      "id": "fd323cb9",
+      "bank_id": "50b03602",
+      "text": "<sniffles>"
+    },
+    {
+      "id": "fd323cba",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "fd323cbb",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "fd323cbc",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    },
+    {
+      "id": "fd323cbd",
+      "bank_id": "50b03602",
+      "text": "*burnunu çeker*"
+    }
+  ]
+}

@@ -1,0 +1,936 @@
+{
+  "bank_id": "80b03602",
+  "total_strings": 186,
+  "strings": [
+    {
+      "id": "0411178d",
+      "bank_id": "80b03602",
+      "text": "O kadar mutluyum ki dans edesim geliyor."
+    },
+    {
+      "id": "0a7641a8",
+      "bank_id": "80b03602",
+      "text": "Biz eski tanrılara inanmıyoruz. Avo sadece modası geçmiş bir kavram. Önemli olan tek şey Işık."
+    },
+    {
+      "id": "0a7641aa",
+      "bank_id": "80b03602",
+      "text": "Keşiş olmanın en güzel yanı mı? Bu cübbeler! Öyle yumuşacıklar ki."
+    },
+    {
+      "id": "0a7641ab",
+      "bank_id": "80b03602",
+      "text": "Herkesin içindeki iyiliği ara. En koyu gölgede bile minicik bir ışık zerresi yatar."
+    },
+    {
+      "id": "0f545e57",
+      "bank_id": "80b03602",
+      "text": "Harika olacak bu!"
+    },
+    {
+      "id": "1654695a",
+      "bank_id": "80b03602",
+      "text": "Ha ha, arkadaşlarımla oynamaya başlamak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "1c31f301",
+      "bank_id": "80b03602",
+      "text": "Sana söyleyeyim, küplere bindim!"
+    },
+    {
+      "id": "1c31f302",
+      "bank_id": "80b03602",
+      "text": "Öfkeden kuduruyorum resmen!"
+    },
+    {
+      "id": "1c31f303",
+      "bank_id": "80b03602",
+      "text": "Bayağı kızgınım aslında."
+    },
+    {
+      "id": "1c31f304",
+      "bank_id": "80b03602",
+      "text": "Deliye döndüm vallahi!"
+    },
+    {
+      "id": "1c31f305",
+      "bank_id": "80b03602",
+      "text": "Öfkeden kuduruyorum resmen!"
+    },
+    {
+      "id": "1c31f306",
+      "bank_id": "80b03602",
+      "text": "Öfkeden kuduruyorum resmen!"
+    },
+    {
+      "id": "1c31f307",
+      "bank_id": "80b03602",
+      "text": "Küplere bindiğimi görmüyor musun?!"
+    },
+    {
+      "id": "1ebb5340",
+      "bank_id": "80b03602",
+      "text": "Işık bize rehberlik, sıcaklık ve anlayış getirir."
+    },
+    {
+      "id": "1ebb5341",
+      "bank_id": "80b03602",
+      "text": "Işık beni kucaklayana kadar mutsuz bir ruhtum. Şimdiyse neredeyse fazla mutluyum."
+    },
+    {
+      "id": "1ebb5342",
+      "bank_id": "80b03602",
+      "text": "Tapınağa çoğunlukla cübbeler yüzünden çekildim aslında."
+    },
+    {
+      "id": "273204b0",
+      "bank_id": "80b03602",
+      "text": "Fena halde kızgınım!"
+    },
+    {
+      "id": "273204b2",
+      "bank_id": "80b03602",
+      "text": "Nasıl görünüyorum? Çok kızgınım!"
+    },
+    {
+      "id": "273204b3",
+      "bank_id": "80b03602",
+      "text": "Nasıl olduğumu söyleyeyim sana: Tepem attı!"
+    },
+    {
+      "id": "273204b4",
+      "bank_id": "80b03602",
+      "text": "Ateş püskürüyorum resmen."
+    },
+    {
+      "id": "273204b5",
+      "bank_id": "80b03602",
+      "text": "Öfkeden delirdim!"
+    },
+    {
+      "id": "273204b6",
+      "bank_id": "80b03602",
+      "text": "Hiddetimi hissetmiyor musun?"
+    },
+    {
+      "id": "273204b7",
+      "bank_id": "80b03602",
+      "text": "Tam anlamıyla çileden çıktım!"
+    },
+    {
+      "id": "2b0b44c5",
+      "bank_id": "80b03602",
+      "text": "Güneş bu güzel günde daha parlak parıldamıyor mu sizce de?"
+    },
+    {
+      "id": "340b5328",
+      "bank_id": "80b03602",
+      "text": "Mutluluğumu zapt etmekte zorlanıyorum."
+    },
+    {
+      "id": "37c4c24c",
+      "bank_id": "80b03602",
+      "text": "Bir gün tüm Albion'da Işık Tapınakları olacak. Bu müjdeyi yaymayı öyle çok istiyorum ki."
+    },
+    {
+      "id": "37c4c24d",
+      "bank_id": "80b03602",
+      "text": "Ben sadece Işığın bu boyutta yandığı bir fitilim."
+    },
+    {
+      "id": "37c4c24f",
+      "bank_id": "80b03602",
+      "text": "Bazen tüm dünyanın neden Işığa tapmadığını hiç anlamıyorum. O kadar mantıklı ki."
+    },
+    {
+      "id": "39825fc0",
+      "bank_id": "80b03602",
+      "text": "Kadim metinler henüz o kadar da eski sayılmaz. Ama bir gün olacaklar! Önemli olan da bu."
+    },
+    {
+      "id": "39825fc1",
+      "bank_id": "80b03602",
+      "text": "Bir gün başkeşiş olabilecek miyim acaba..."
+    },
+    {
+      "id": "39825fc3",
+      "bank_id": "80b03602",
+      "text": "Biraz ışığınız var mı? Ha ha, affedersiniz, eski bir keşiş şakası."
+    },
+    {
+      "id": "48be73c3",
+      "bank_id": "80b03602",
+      "text": "Neden istediğim şeye sahip olamıyorum ki?"
+    },
+    {
+      "id": "4ef2a350",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "4ef2a351",
+      "bank_id": "80b03602",
+      "text": "Bana ne yapacağımı söyleme!"
+    },
+    {
+      "id": "4ef2a353",
+      "bank_id": "80b03602",
+      "text": "Peh! Saçmalık ve kokuşmuş soğanlar!"
+    },
+    {
+      "id": "4ef2a356",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "4ef2a357",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "4fbe7ec6",
+      "bank_id": "80b03602",
+      "text": "Büyükler beş para etmez!"
+    },
+    {
+      "id": "55f2ae52",
+      "bank_id": "80b03602",
+      "text": "Birini öldürebilirim şu an!"
+    },
+    {
+      "id": "55f2ae53",
+      "bank_id": "80b03602",
+      "text": "Bir dert bitmeden öbürü başlıyor yahu!"
+    },
+    {
+      "id": "55f2ae54",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "55f2ae55",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "55f2ae56",
+      "bank_id": "80b03602",
+      "text": "Her şey berbat. Berbat, berbat, berbat."
+    },
+    {
+      "id": "5668e1fd",
+      "bank_id": "80b03602",
+      "text": "Kahramanca amellerinin hepsinin kardeşlerimizin iyiliğine vesile olması için dua edeceğim."
+    },
+    {
+      "id": "5668e1fe",
+      "bank_id": "80b03602",
+      "text": "Dün on altı saat boyunca dua ettim. Dizlerime kramplar girdi."
+    },
+    {
+      "id": "5668e1ff",
+      "bank_id": "80b03602",
+      "text": "Nefsi arzulardan uzak durmak o kadar da zor değil. Kimi kandırıyorum ki?"
+    },
+    {
+      "id": "5beb2812",
+      "bank_id": "80b03602",
+      "text": "Biraz Talih Kulesi oynamak istiyorum."
+    },
+    {
+      "id": "5beb2813",
+      "bank_id": "80b03602",
+      "text": "Bir el Talih Kulesi oynamaya öyle ihtiyacım var ki. Nerede oynayabilirim?"
+    },
+    {
+      "id": "5beb2814",
+      "bank_id": "80b03602",
+      "text": "Canım hızlı bir el Talih Kulesi çekiyor. Nerede oynayabileceğim hakkında bir fikrin var mı?"
+    },
+    {
+      "id": "5beb2815",
+      "bank_id": "80b03602",
+      "text": "Nerede bir Talih Kulesi oyunu bulabilirim?"
+    },
+    {
+      "id": "5beb2817",
+      "bank_id": "80b03602",
+      "text": "Yakında hızlı bir el Talih Kulesi oynamazsam çatlayacağım."
+    },
+    {
+      "id": "62642899",
+      "bank_id": "80b03602",
+      "text": "Bu sabah yirmi yedi dua ettim. Rekorum kırk dokuz gerçi."
+    },
+    {
+      "id": "6264289a",
+      "bank_id": "80b03602",
+      "text": "Dünya şiddetin bir çözüm olmadığını ne zaman öğrenecek acaba? Tabii şiddetle ilgili bir bilmece değilse."
+    },
+    {
+      "id": "6264289b",
+      "bank_id": "80b03602",
+      "text": "En sevdiğim iş bağışları saymak. O parlak sikkeler... keşke benim olsalar... Şey, yani dünyevi mallar bir keşiş için hiçbir şeydir."
+    },
+    {
+      "id": "62eb3318",
+      "bank_id": "80b03602",
+      "text": "Bütün hafta Talih Kulesi oynamak için yanıp tutuştum. Nerede oynayabileceğimi biliyor musun?"
+    },
+    {
+      "id": "62eb3319",
+      "bank_id": "80b03602",
+      "text": "Ne zamandır ne oynamadığımı biliyor musun? Talih Kulesi. Nerede bulabilirim acaba?"
+    },
+    {
+      "id": "62eb331a",
+      "bank_id": "80b03602",
+      "text": "Bugün şanslı günümdeyim. Nerede bir Talih Kulesi oyunu bulabilirim acaba?"
+    },
+    {
+      "id": "62eb331e",
+      "bank_id": "80b03602",
+      "text": "Canım fena halde Talih Kulesi oynamak istiyor."
+    },
+    {
+      "id": "62eb331f",
+      "bank_id": "80b03602",
+      "text": "Hızlı bir el Talih Kulesi için dünyaları verirdim. En iyi yer neresi?"
+    },
+    {
+      "id": "665964b8",
+      "bank_id": "80b03602",
+      "text": "Bu yeni ayakkabılar çok rahat! Hem de çok ucuzdu!"
+    },
+    {
+      "id": "665964ba",
+      "bank_id": "80b03602",
+      "text": "Yüzümdeki bu tebessümü silemiyorum bir türlü. Hi hi!"
+    },
+    {
+      "id": "665964bb",
+      "bank_id": "80b03602",
+      "text": "Kalbim neşeyle dolup taşıyor!"
+    },
+    {
+      "id": "665964bc",
+      "bank_id": "80b03602",
+      "text": "Çok tuhaf bir his bu... Sanırım mutluluk denilen şey!"
+    },
+    {
+      "id": "665964bd",
+      "bank_id": "80b03602",
+      "text": "Bazen hayat sana bir kova kusmuk sunar ama bugün bir kova dolusu gül sundu."
+    },
+    {
+      "id": "665964be",
+      "bank_id": "80b03602",
+      "text": "İkram trüflü manikürden sonra adeta yenilenmiş bir kadın gibi hissediyorum."
+    },
+    {
+      "id": "665964bf",
+      "bank_id": "80b03602",
+      "text": "Bazıları altının mutluluk getirdiğini söyler. Biliyor musun, son derece haklılar."
+    },
+    {
+      "id": "6b596c59",
+      "bank_id": "80b03602",
+      "text": "Hayatta olmak için gerçekten harika bir zaman."
+    },
+    {
+      "id": "6b596c5a",
+      "bank_id": "80b03602",
+      "text": "Kusursuz bir gün değil mi ama?"
+    },
+    {
+      "id": "6b596c5b",
+      "bank_id": "80b03602",
+      "text": "Dünya neşe ve mutlulukla dolu. Kesinlikle öyle."
+    },
+    {
+      "id": "6b596c5c",
+      "bank_id": "80b03602",
+      "text": "O kadar mutluyum ki şarkı söyleyebilirim."
+    },
+    {
+      "id": "6b596c5d",
+      "bank_id": "80b03602",
+      "text": "Hayat ne güzel değil mi?"
+    },
+    {
+      "id": "6b596c5e",
+      "bank_id": "80b03602",
+      "text": "Sanki güneş ve ay hepimizin yüzüne gülümsüyor gibi."
+    },
+    {
+      "id": "6b596c5f",
+      "bank_id": "80b03602",
+      "text": "Belki bu hafta küçük bir parti düzenlerim. Evet, pek keyifli olurdu."
+    },
+    {
+      "id": "6f867aa0",
+      "bank_id": "80b03602",
+      "text": "Pek iyi bir havamda değilim."
+    },
+    {
+      "id": "6f867aa1",
+      "bank_id": "80b03602",
+      "text": "Grrr, bir şeyleri yumruklayabilirim, o derece yani."
+    },
+    {
+      "id": "6f867aa2",
+      "bank_id": "80b03602",
+      "text": "Fena halde canım sıkkın."
+    },
+    {
+      "id": "6f867aa6",
+      "bank_id": "80b03602",
+      "text": "Kızgınım ben kızgın!"
+    },
+    {
+      "id": "6f867aa7",
+      "bank_id": "80b03602",
+      "text": "Daha fazla kızgın olamazdım."
+    },
+    {
+      "id": "73b7cdb0",
+      "bank_id": "80b03602",
+      "text": "*neşeli ıslık*"
+    },
+    {
+      "id": "73b7cdb1",
+      "bank_id": "80b03602",
+      "text": "Doo doo doo doo, la la la la la."
+    },
+    {
+      "id": "73b7cdb4",
+      "bank_id": "80b03602",
+      "text": "Ahhh! Ha ha!"
+    },
+    {
+      "id": "73b7cdb6",
+      "bank_id": "80b03602",
+      "text": "La la la la la! Ha ha!"
+    },
+    {
+      "id": "73b7cdb7",
+      "bank_id": "80b03602",
+      "text": "Dum dee dee dum deedly dee!"
+    },
+    {
+      "id": "7650f880",
+      "bank_id": "80b03602",
+      "text": "Hiç bu kadar öfkeli olmamıştım."
+    },
+    {
+      "id": "7650f881",
+      "bank_id": "80b03602",
+      "text": "Hiç sorma bile!"
+    },
+    {
+      "id": "7650f882",
+      "bank_id": "80b03602",
+      "text": "Hiç bilmek istemezsin!"
+    },
+    {
+      "id": "7650f886",
+      "bank_id": "80b03602",
+      "text": "O kadar öfkeliyim ki yüzünün ortasına bir yumruk indirebilirim."
+    },
+    {
+      "id": "7650f887",
+      "bank_id": "80b03602",
+      "text": "Hiç bilmek istemezsin!"
+    },
+    {
+      "id": "7886888a",
+      "bank_id": "80b03602",
+      "text": "Ağzımdan köpükler saçıyorum resmen!"
+    },
+    {
+      "id": "7886888b",
+      "bank_id": "80b03602",
+      "text": "Ne sandın? Delirdim öfkeden!"
+    },
+    {
+      "id": "7886888c",
+      "bank_id": "80b03602",
+      "text": "Pek iyi bir havamda değilim, onu söyleyeyim."
+    },
+    {
+      "id": "7886888d",
+      "bank_id": "80b03602",
+      "text": "Çok kötü bir ruh halindeyim."
+    },
+    {
+      "id": "7886888f",
+      "bank_id": "80b03602",
+      "text": "Dürüst olmak gerekirse birinin kafasını koparmaya hazırım."
+    },
+    {
+      "id": "78b7d550",
+      "bank_id": "80b03602",
+      "text": "La la la la la! Ha ha!"
+    },
+    {
+      "id": "78b7d551",
+      "bank_id": "80b03602",
+      "text": "Dum dee dee dum deedly dee!"
+    },
+    {
+      "id": "78b7d555",
+      "bank_id": "80b03602",
+      "text": "La ra la ree, la ra la raaaaa."
+    },
+    {
+      "id": "78b7d556",
+      "bank_id": "80b03602",
+      "text": "Hi hi, hı hı hı."
+    },
+    {
+      "id": "78b7d557",
+      "bank_id": "80b03602",
+      "text": "Dah dah dah hi!"
+    },
+    {
+      "id": "7f5106ea",
+      "bank_id": "80b03602",
+      "text": "Birinin dişlerini dökmeye hazırım."
+    },
+    {
+      "id": "7f5106eb",
+      "bank_id": "80b03602",
+      "text": "Bana hiç sorma bile."
+    },
+    {
+      "id": "7f5106ec",
+      "bank_id": "80b03602",
+      "text": "Kazan gibi kaynıyorum resmen!"
+    },
+    {
+      "id": "7f5106ed",
+      "bank_id": "80b03602",
+      "text": "Isırmaya hazırım."
+    },
+    {
+      "id": "7f5106ef",
+      "bank_id": "80b03602",
+      "text": "Birini yumruklamaya hazırım."
+    },
+    {
+      "id": "7f79f508",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "7f79f50a",
+      "bank_id": "80b03602",
+      "text": "Şu an birini fena benzetebilirim."
+    },
+    {
+      "id": "7f79f50b",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "7f79f50c",
+      "bank_id": "80b03602",
+      "text": "O kadar kızgınım ki kendimi tekmeleyebilirim."
+    },
+    {
+      "id": "7f79f50d",
+      "bank_id": "80b03602",
+      "text": "Daha ne kadar dayanabilirim bilmiyorum!"
+    },
+    {
+      "id": "8479fd29",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "8479fd2a",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "8479fd2b",
+      "bank_id": "80b03602",
+      "text": "Her şeyden ve herkesten nefret ediyorum... Çok kızgınım çok!"
+    },
+    {
+      "id": "8479fd2c",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "8479fd2d",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "92e6c901",
+      "bank_id": "80b03602",
+      "text": "Gına geldi artık!"
+    },
+    {
+      "id": "92e6c902",
+      "bank_id": "80b03602",
+      "text": "Yetti be!"
+    },
+    {
+      "id": "92e6c903",
+      "bank_id": "80b03602",
+      "text": "Bıktım usandım artık!"
+    },
+    {
+      "id": "92e6c904",
+      "bank_id": "80b03602",
+      "text": "Hepsinden fena halde usandım!"
+    },
+    {
+      "id": "92e6c905",
+      "bank_id": "80b03602",
+      "text": "Her şey berbat!"
+    },
+    {
+      "id": "92e6c906",
+      "bank_id": "80b03602",
+      "text": "Bir insanın olabileceği kadar öfkeliyim!"
+    },
+    {
+      "id": "92e6c907",
+      "bank_id": "80b03602",
+      "text": "Yetti be!"
+    },
+    {
+      "id": "93ff5440",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "93ff5441",
+      "bank_id": "80b03602",
+      "text": "Pöh!"
+    },
+    {
+      "id": "93ff5443",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "93ff5446",
+      "bank_id": "80b03602",
+      "text": "Bıktım artık. Bıktım, usandım ve öfkeliyim!"
+    },
+    {
+      "id": "93ff5447",
+      "bank_id": "80b03602",
+      "text": "Artık BURAMA kadar geldi!"
+    },
+    {
+      "id": "95786224",
+      "bank_id": "80b03602",
+      "text": "Beden sadece fani bir kılıftır. Asıl parıldayan ruhtur."
+    },
+    {
+      "id": "95786225",
+      "bank_id": "80b03602",
+      "text": "Tüm kardeşlerimize şefkat göstermek bizi daha iyi insanlar yapar."
+    },
+    {
+      "id": "95786227",
+      "bank_id": "80b03602",
+      "text": "Işık tarafından henüz kutsandın mı?"
+    },
+    {
+      "id": "9aff5f42",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "9aff5f43",
+      "bank_id": "80b03602",
+      "text": "Olacak iş değil be!"
+    },
+    {
+      "id": "9aff5f44",
+      "bank_id": "80b03602",
+      "text": "Peh, aptal şeyler işte... peh!"
+    },
+    {
+      "id": "9aff5f45",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "9aff5f46",
+      "bank_id": "80b03602",
+      "text": "Her şey tek kelimeyle berbat!"
+    },
+    {
+      "id": "9de6dab0",
+      "bank_id": "80b03602",
+      "text": "Her şey tam bir çöp!"
+    },
+    {
+      "id": "9de6dab2",
+      "bank_id": "80b03602",
+      "text": "Zaman kaybı bu!"
+    },
+    {
+      "id": "9de6dab3",
+      "bank_id": "80b03602",
+      "text": "Çerçöp! Hepsi çerçöp!"
+    },
+    {
+      "id": "9de6dab4",
+      "bank_id": "80b03602",
+      "text": "Birini boğabilirim şu an!"
+    },
+    {
+      "id": "9de6dab5",
+      "bank_id": "80b03602",
+      "text": "Birinin boynunu kıracağım."
+    },
+    {
+      "id": "9de6dab6",
+      "bank_id": "80b03602",
+      "text": "Grrrr *homurdanır*"
+    },
+    {
+      "id": "9de6dab7",
+      "bank_id": "80b03602",
+      "text": "Saçmalık! Zırva!"
+    },
+    {
+      "id": "9fc37a20",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "9fc37a21",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "9fc37a22",
+      "bank_id": "80b03602",
+      "text": "Her gün aynı şey yahu!"
+    },
+    {
+      "id": "9fc37a23",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "9fc37a24",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "9fc37a26",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "9fc37a27",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "a4c381c0",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "a4c381c1",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "a4c381c2",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "a4c381c3",
+      "bank_id": "80b03602",
+      "text": "Korkunç! Her şey tek kelimeyle korkunç!"
+    },
+    {
+      "id": "a4c381c5",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "a4c381c6",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "a4c381c7",
+      "bank_id": "80b03602",
+      "text": "Grrrr! *homurdanır*"
+    },
+    {
+      "id": "ab0705a8",
+      "bank_id": "80b03602",
+      "text": "Ritüeller benim için çok önemlidir. Bir de \"sandalet giyme\" ritüelimi görmelisin."
+    },
+    {
+      "id": "ab0705a9",
+      "bank_id": "80b03602",
+      "text": "Hayat pek heyecan verici sayılmaz ama geçinmek için çalışmaktan iyidir."
+    },
+    {
+      "id": "ab0705ab",
+      "bank_id": "80b03602",
+      "text": "Eskiden kumar oynar ve başka nahoş işlere bulaşırdım. Sonra Işığı gördüm ve temelli değiştim."
+    },
+    {
+      "id": "c60a0e4d",
+      "bank_id": "80b03602",
+      "text": "İstediğim hiçbir şey olmuyor! Hiç adil değil!"
+    },
+    {
+      "id": "d0cf43bd",
+      "bank_id": "80b03602",
+      "text": "Oyun ustasını fena ezmiş diyorlar. Yığınla da para kazanmış."
+    },
+    {
+      "id": "d10a1ffc",
+      "bank_id": "80b03602",
+      "text": "Bu kasaba berbat! Bıktım artık buradan!"
+    },
+    {
+      "id": "d715227c",
+      "bank_id": "80b03602",
+      "text": "Karanlıkta kaç kişi kayboldu acaba? Kaybolan her bir ruha yardım etmek istiyorum."
+    },
+    {
+      "id": "d715227d",
+      "bank_id": "80b03602",
+      "text": "Tüm o zavallı insanların ıssız gölgelerde hayat sürdüğünü düşünmek..."
+    },
+    {
+      "id": "d715227e",
+      "bank_id": "80b03602",
+      "text": "Oakfield'de sadece hasada rehberlik etmiyoruz. İnsanların daha iyi hayatlar yaşamasına yardım ediyoruz."
+    },
+    {
+      "id": "e8eaa770",
+      "bank_id": "80b03602",
+      "text": "Skorm ve Avo artık modası geçmiş kavramlar. Var olan tek şey Işık."
+    },
+    {
+      "id": "e8eaa772",
+      "bank_id": "80b03602",
+      "text": "Gökyüzünde asılı duran güneş, Işığın hepimize bir armağanıdır."
+    },
+    {
+      "id": "e8eaa773",
+      "bank_id": "80b03602",
+      "text": "İnsanların vaktiyle Avo'ya dua ettiğini düşünmek bile ne aptalca! Işığa hamdolsun!"
+    },
+    {
+      "id": "e96b1004",
+      "bank_id": "80b03602",
+      "text": "Keşiş olmanın tek kötü yanı yemekler. Hafif yememiz öğütleniyor."
+    },
+    {
+      "id": "e96b1006",
+      "bank_id": "80b03602",
+      "text": "İtiraf etmeliyim ki bütün o gece lambalarıyla uykuya dalmak bazen epey zor oluyor."
+    },
+    {
+      "id": "e96b1007",
+      "bank_id": "80b03602",
+      "text": "Yeni bir mantra bulmalıyım. Yeni bir mantra bulmalıyım. Yeni bir mantra bulmalıyım. Yeni bir mantra bulmalıyım."
+    },
+    {
+      "id": "ed05ce80",
+      "bank_id": "80b03602",
+      "text": "Katlanmak zorunda kaldığım şeylere inanamıyorum!"
+    },
+    {
+      "id": "ed05ce81",
+      "bank_id": "80b03602",
+      "text": "Yetti artık! Yetti!"
+    },
+    {
+      "id": "ed05ce82",
+      "bank_id": "80b03602",
+      "text": "Her şeyden nefret ediyorum!"
+    },
+    {
+      "id": "ed05ce84",
+      "bank_id": "80b03602",
+      "text": "Bazen hayat öyle... öyle çıldırtıcı olabiliyor ki!"
+    },
+    {
+      "id": "ed05ce85",
+      "bank_id": "80b03602",
+      "text": "Söylemekten çekinmiyorum, aşırı derecede öfkeliyim!"
+    },
+    {
+      "id": "ed05ce86",
+      "bank_id": "80b03602",
+      "text": "Hobbe aşkına! Yetti artık!"
+    },
+    {
+      "id": "ed05ce87",
+      "bank_id": "80b03602",
+      "text": "Bir eniği tekmeleyebilirim şu an! Gah!"
+    },
+    {
+      "id": "ed4ce585",
+      "bank_id": "80b03602",
+      "text": "Tapınağımızın müjdesini tüm dünyaya yaymak istiyorum. Yoksa küp mü demeliydim?"
+    },
+    {
+      "id": "ed4ce586",
+      "bank_id": "80b03602",
+      "text": "İyi haberi duydun mu? Işık her şeyi kucaklıyor! Gerçi pek yeni bir haber sayılmaz bu..."
+    },
+    {
+      "id": "ed4ce587",
+      "bank_id": "80b03602",
+      "text": "Biz keşişlere çikolata yasaktır. Çok karanlık ve Işıktan çok uzak. Belki günün birinde beyaz çikolatayı icat ederiz."
+    },
+    {
+      "id": "f605dce8",
+      "bank_id": "80b03602",
+      "text": "Birinin gözlerini oymaya hazırım şu an!"
+    },
+    {
+      "id": "f605dce9",
+      "bank_id": "80b03602",
+      "text": "Öyle kızgınım ki anlatamam!"
+    },
+    {
+      "id": "f605dcea",
+      "bank_id": "80b03602",
+      "text": "Bıktım usandım. Bana kalsa hepsi hobbe'lerin eline düşsün!"
+    },
+    {
+      "id": "f605dceb",
+      "bank_id": "80b03602",
+      "text": "Neden her şey bu kadar berbat?!"
+    },
+    {
+      "id": "f605dcec",
+      "bank_id": "80b03602",
+      "text": "Buna daha ne kadar katlanabilirim bilmiyorum. Gerçekten bilmiyorum!"
+    },
+    {
+      "id": "f605dced",
+      "bank_id": "80b03602",
+      "text": "Burası beni delirtiyor!"
+    },
+    {
+      "id": "f605dcef",
+      "bank_id": "80b03602",
+      "text": "Her gün aynı lanet şey yahu!"
+    }
+  ]
+}

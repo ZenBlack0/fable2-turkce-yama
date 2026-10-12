@@ -1,0 +1,766 @@
+{
+  "bank_id": "80b1b600",
+  "total_strings": 152,
+  "strings": [
+    {
+      "id": "03ed3706",
+      "bank_id": "80b1b600",
+      "text": "Arama emirlerinin uçuştuğu ara sokak burası olmalı. Bir bakmalıyız."
+    },
+    {
+      "id": "06e20ec0",
+      "bank_id": "80b1b600",
+      "text": "Hadi, küçük Sparrow. Neler yapabildiğini göster ona."
+    },
+    {
+      "id": "0707830a",
+      "bank_id": "80b1b600",
+      "text": "Ama dört altın sikkeyi bulduk bile! Sadece bir tane daha lazım."
+    },
+    {
+      "id": "07e210b3",
+      "bank_id": "80b1b600",
+      "text": "Fotoğraf için poz ver."
+    },
+    {
+      "id": "0be216ff",
+      "bank_id": "80b1b600",
+      "text": "Ne zaman hazır olursanız çocuklar."
+    },
+    {
+      "id": "0ce21852",
+      "bank_id": "80b1b600",
+      "text": "Bundan sonra insanlar sıraya girecek."
+    },
+    {
+      "id": "0de219c5",
+      "bank_id": "80b1b600",
+      "text": "Bir gün kendi kasabamın sahibi olacağım. Gerçi belki burası olmaz..."
+    },
+    {
+      "id": "0f78cf70",
+      "bank_id": "80b1b600",
+      "text": "Bu Edna'ya Lakaplı Nicky'ye borcunu ödememeyi öğretir."
+    },
+    {
+      "id": "1301a577",
+      "bank_id": "80b1b600",
+      "text": "Hadi ama! Tabetmesi o kadar uzun sürmez."
+    },
+    {
+      "id": "15cd9f80",
+      "bank_id": "80b1b600",
+      "text": "Bizim için kolay para. Biraz kaçık biri... Umarım iyidir."
+    },
+    {
+      "id": "182e3726",
+      "bank_id": "80b1b600",
+      "text": "%1% böcek öldürüldü."
+    },
+    {
+      "id": "185aa31c",
+      "bank_id": "80b1b600",
+      "text": "Korkmadığından emin misin?"
+    },
+    {
+      "id": "18912fa6",
+      "bank_id": "80b1b600",
+      "text": "%1% mal parçalandı."
+    },
+    {
+      "id": "18cd1f07",
+      "bank_id": "80b1b600",
+      "text": "Siz çocuk değilsiniz, canavarsınız! Hâlâ depomda olan o vahşi, aşağılık böceklerden hiçbir farkınız yok!"
+    },
+    {
+      "id": "18cda459",
+      "bank_id": "80b1b600",
+      "text": "Eğlenceliydi."
+    },
+    {
+      "id": "19cd20fa",
+      "bank_id": "80b1b600",
+      "text": "Mahvoldum ben. Bütün mallarım yok oldu."
+    },
+    {
+      "id": "2319e761",
+      "bank_id": "80b1b600",
+      "text": "Ve ilk altın sikkeyi aldık."
+    },
+    {
+      "id": "256ee339",
+      "bank_id": "80b1b600",
+      "text": "He-hey, çok geçmeden kepenkleri indirir bu kadın!"
+    },
+    {
+      "id": "25834220",
+      "bank_id": "80b1b600",
+      "text": "Harika iş ufaklık!"
+    },
+    {
+      "id": "27bef127",
+      "bank_id": "80b1b600",
+      "text": "Fotoğraf için poz vererek Barnum'a yardım edin."
+    },
+    {
+      "id": "27f499b4",
+      "bank_id": "80b1b600",
+      "text": "Siz tam bir katilsiniz, değil mi? Doğuştan böcek katilisiniz."
+    },
+    {
+      "id": "28f49b27",
+      "bank_id": "80b1b600",
+      "text": "Siz yapabilirsiniz çocuklar, biliyorum yaparsınız."
+    },
+    {
+      "id": "29f49c9a",
+      "bank_id": "80b1b600",
+      "text": "Bu iğrenç şeylerin beşini de yok ederseniz size ödeme yapacağım."
+    },
+    {
+      "id": "2a8349df",
+      "bank_id": "80b1b600",
+      "text": "Evet, kırıp dökün şunları."
+    },
+    {
+      "id": "2b834bb2",
+      "bank_id": "80b1b600",
+      "text": "Ah, çok iyiydi!"
+    },
+    {
+      "id": "2c4667d8",
+      "bank_id": "80b1b600",
+      "text": "Harikulade! Bu alet çiçek hastalığından bile daha popüler olacak!"
+    },
+    {
+      "id": "2c834d25",
+      "bank_id": "80b1b600",
+      "text": "He-hey, çok geçmeden kepenkleri indirir bu adam!"
+    },
+    {
+      "id": "2e996730",
+      "bank_id": "80b1b600",
+      "text": "İçerideler, kıpırdaşıp duruyorlar... ve sinsi planlar yapıyorlar..."
+    },
+    {
+      "id": "2f9968a3",
+      "bank_id": "80b1b600",
+      "text": "Ne yapacağım ben?"
+    },
+    {
+      "id": "31996b89",
+      "bank_id": "80b1b600",
+      "text": "İğrenç böcekler, nefret ediyorum onlardan."
+    },
+    {
+      "id": "32dabb3e",
+      "bank_id": "80b1b600",
+      "text": "Barnum'un Görüntü Yakalama Cihazı"
+    },
+    {
+      "id": "34e84a1a",
+      "bank_id": "80b1b600",
+      "text": "Ama bir altın sikke daha aldık. Başarıyoruz galiba!"
+    },
+    {
+      "id": "36eff486",
+      "bank_id": "80b1b600",
+      "text": "Başardık! Artık müzik kutusunu alabiliriz!"
+    },
+    {
+      "id": "38a4558e",
+      "bank_id": "80b1b600",
+      "text": "Bundan sonra ne yapacağını görene kadar buradan bir yere kıpırdamam."
+    },
+    {
+      "id": "39a45761",
+      "bank_id": "80b1b600",
+      "text": "Tam burada kalıyorum. Şu aletin çalışıp çalışmadığını görmek istiyorum."
+    },
+    {
+      "id": "3aa458d4",
+      "bank_id": "80b1b600",
+      "text": "Şimdi ne yapıyor acaba?"
+    },
+    {
+      "id": "3ba45a47",
+      "bank_id": "80b1b600",
+      "text": "Birinin ruhunu çaldı mı bari?"
+    },
+    {
+      "id": "3c35b600",
+      "bank_id": "80b1b600",
+      "text": "Ve mallarımın hepsi hâlâ sapasağlam! Dahiyim ben!"
+    },
+    {
+      "id": "3c983589",
+      "bank_id": "80b1b600",
+      "text": "Neden kimse ilgilenmiyor ki? Bir resmin tabedilmesi sadece üç ay sürüyor. Hava güneşliyse daha bile az."
+    },
+    {
+      "id": "3da45dad",
+      "bank_id": "80b1b600",
+      "text": "Geri durun çocuklar. Şu yaşlı ahmağı izlemeye çalışıyoruz."
+    },
+    {
+      "id": "3f248335",
+      "bank_id": "80b1b600",
+      "text": "Fotoğraf için poz verilsin mi?"
+    },
+    {
+      "id": "3f35bad9",
+      "bank_id": "80b1b600",
+      "text": "Tam bir kıyımdı! Aşağılık mahluklara acımak yok, işte görmek istediğim şey bu."
+    },
+    {
+      "id": "3fc7a7c0",
+      "bank_id": "80b1b600",
+      "text": "Yine de küçük mahlukları kılıçtan geçirdiniz, önemli olan da buydu."
+    },
+    {
+      "id": "42c7ac99",
+      "bank_id": "80b1b600",
+      "text": "Pek de dikkatli sayılmazdınız, değil mi?"
+    },
+    {
+      "id": "4ab6e5bf",
+      "bank_id": "80b1b600",
+      "text": "Tüh, lanet olsun."
+    },
+    {
+      "id": "4bb6e712",
+      "bank_id": "80b1b600",
+      "text": "O böcekleri ele geçirmek için neler çekmek zorunda kaldım biliyor musunuz?"
+    },
+    {
+      "id": "4cb6e885",
+      "bank_id": "80b1b600",
+      "text": "Bunu unutmayacağım çocuk."
+    },
+    {
+      "id": "4cc1f4fc",
+      "bank_id": "80b1b600",
+      "text": "Mallarımın bir kısmı kırıldı ama sanırım bunun önüne geçilemezdi."
+    },
+    {
+      "id": "4e8cc30f",
+      "bank_id": "80b1b600",
+      "text": "Ama üç altın sikke oldu bile. Sadece iki tane daha ve müzik kutusunu alabiliriz."
+    },
+    {
+      "id": "4ed11397",
+      "bank_id": "80b1b600",
+      "text": "Hadi ama, geleceği parlak bir girişimciye yardım etseniz ne olur?"
+    },
+    {
+      "id": "4fc1f9b5",
+      "bank_id": "80b1b600",
+      "text": "Küçük mahlukları kılıçtan geçirdiniz ya, önemli olan da bu."
+    },
+    {
+      "id": "4fd1150a",
+      "bank_id": "80b1b600",
+      "text": "Sizin gibi iki sevimli çocuğun resmi birkaç kalbi yumuşatmaya yeter. Ne dersiniz?"
+    },
+    {
+      "id": "50d116fd",
+      "bank_id": "80b1b600",
+      "text": "Karşılığında parlak bir altın sikke var. Bununla kendi işinizi bile kurabilirsiniz."
+    },
+    {
+      "id": "57c5f7ea",
+      "bank_id": "80b1b600",
+      "text": "Şimdi düşününce, o böcekler oraya nasıl girdi acaba merak ediyorum."
+    },
+    {
+      "id": "60f6ad4c",
+      "bank_id": "80b1b600",
+      "text": "Evet, haklısın galiba. Tabii eğer!"
+    },
+    {
+      "id": "61f6af3f",
+      "bank_id": "80b1b600",
+      "text": "Aklından bile geçirme."
+    },
+    {
+      "id": "62f6b092",
+      "bank_id": "80b1b600",
+      "text": "Tamam, tamam. Yalnız o pastadan biraz fena olmazdı hani."
+    },
+    {
+      "id": "63eb6d0b",
+      "bank_id": "80b1b600",
+      "text": "Bu iğrenç şeylerin beşini de yok ederseniz size ödeme yapacağım."
+    },
+    {
+      "id": "64eb6efe",
+      "bank_id": "80b1b600",
+      "text": "Siz yapabilirsiniz çocuklar, biliyorum yaparsınız."
+    },
+    {
+      "id": "6b34e1ca",
+      "bank_id": "80b1b600",
+      "text": "Edna'nın Lakaplı Nicky'ye haraç borcu var."
+    },
+    {
+      "id": "6bed4f2b",
+      "bank_id": "80b1b600",
+      "text": "Başardık! Artık müzik kutusunu alabiliriz!"
+    },
+    {
+      "id": "7262c468",
+      "bank_id": "80b1b600",
+      "text": "Bay Lakap adına sana bir altın vereceğim."
+    },
+    {
+      "id": "73492790",
+      "bank_id": "80b1b600",
+      "text": "Size yer yok çocuklar. Bu büyüklerin işi."
+    },
+    {
+      "id": "742fd8d2",
+      "bank_id": "80b1b600",
+      "text": "Ve üç altın sikke oldu bile. Sadece iki tane daha ve müzik kutusunu alabiliriz."
+    },
+    {
+      "id": "75492af6",
+      "bank_id": "80b1b600",
+      "text": "Şu zavallı adam. Ne kadar aptal göründüğünün farkında mı acaba?"
+    },
+    {
+      "id": "76492c69",
+      "bank_id": "80b1b600",
+      "text": "Hem ne ki o alet?"
+    },
+    {
+      "id": "77492ddc",
+      "bank_id": "80b1b600",
+      "text": "Ayaklarım koptu ama şu sözde sihirli resim yapıcının nasıl çalıştığını görmek için değer."
+    },
+    {
+      "id": "7762cc07",
+      "bank_id": "80b1b600",
+      "text": "Hey çocuk."
+    },
+    {
+      "id": "78492f4f",
+      "bank_id": "80b1b600",
+      "text": "Bütün gün burada dikilirim ben. Yapacak daha iyi bir işim yok."
+    },
+    {
+      "id": "7862cdfa",
+      "bank_id": "80b1b600",
+      "text": "Balthazar'ın Lakaplı Nicky'ye haraç borcu var."
+    },
+    {
+      "id": "7962cf6d",
+      "bank_id": "80b1b600",
+      "text": "Böcekleri rahat bırakıp onun yerine mallarını parçalamaya ne dersin?"
+    },
+    {
+      "id": "7aef8c36",
+      "bank_id": "80b1b600",
+      "text": "Balthazar için böcekler öldürülsün mü?"
+    },
+    {
+      "id": "81d15368",
+      "bank_id": "80b1b600",
+      "text": "Yok, hayır."
+    },
+    {
+      "id": "82d154db",
+      "bank_id": "80b1b600",
+      "text": "Sana söylüyorum, malları kırıp dök, kolay para."
+    },
+    {
+      "id": "82e35fe1",
+      "bank_id": "80b1b600",
+      "text": "Böcekleri rahat bırakıp onun yerine kadının mallarını parçalamaya ne dersin?"
+    },
+    {
+      "id": "84d15821",
+      "bank_id": "80b1b600",
+      "text": "Yok, böcekleri boş ver, malları kırıp dök."
+    },
+    {
+      "id": "8581f5c7",
+      "bank_id": "80b1b600",
+      "text": "<cries>"
+    },
+    {
+      "id": "8681f7ba",
+      "bank_id": "80b1b600",
+      "text": "<cries>"
+    },
+    {
+      "id": "87d15cfa",
+      "bank_id": "80b1b600",
+      "text": "Seni uyarıyorum çocuk. Böcekleri rahat bırak."
+    },
+    {
+      "id": "87e1ff4b",
+      "bank_id": "80b1b600",
+      "text": "Hey! Nişan aldığın yere dikkat et!"
+    },
+    {
+      "id": "883cf369",
+      "bank_id": "80b1b600",
+      "text": "Phineas amcamın dediği gibi, kollarını sıvamak için asla çok genç değilsindir, hele ki böyle zor zamanlarda..."
+    },
+    {
+      "id": "88e2013e",
+      "bank_id": "80b1b600",
+      "text": "Ah! Kes şunu!"
+    },
+    {
+      "id": "89e20291",
+      "bank_id": "80b1b600",
+      "text": "Seni küçük... o altını istiyor musun istemiyor musun?!"
+    },
+    {
+      "id": "8e73d2ab",
+      "bank_id": "80b1b600",
+      "text": "Böcekleri vurun. Öldürmek için vurun."
+    },
+    {
+      "id": "8f73d41e",
+      "bank_id": "80b1b600",
+      "text": "O iğrenç küçük kafalarını parçalarken eşyalarımdan hiçbirini kırmamaya çalışın."
+    },
+    {
+      "id": "8fefbae8",
+      "bank_id": "80b1b600",
+      "text": "Siz çocuk değilsiniz, canavarsınız! Hâlâ depomda olan o vahşi, aşağılık böceklerden hiçbir farkınız yok!"
+    },
+    {
+      "id": "92efbfa1",
+      "bank_id": "80b1b600",
+      "text": "Mahvoldum ben. Bütün mallarım yok oldu."
+    },
+    {
+      "id": "96ffedbc",
+      "bank_id": "80b1b600",
+      "text": "Sihirli falan değil o. Zavallı halkın altınını çalmak için yapılmış boş bir kutu."
+    },
+    {
+      "id": "97ffef2f",
+      "bank_id": "80b1b600",
+      "text": "Sihirli bir fırın olabilir. Pastaları doğrudan ağzına fırlatıyordur belki!"
+    },
+    {
+      "id": "9afff3e8",
+      "bank_id": "80b1b600",
+      "text": "Saçmalama. Kim buna para verir ki?"
+    },
+    {
+      "id": "9bfff55b",
+      "bank_id": "80b1b600",
+      "text": "Bence bir tür... tüfek o. Evet. Muhtemelen kafanı doğrudan uçurur."
+    },
+    {
+      "id": "9cfff6ce",
+      "bank_id": "80b1b600",
+      "text": "Fırına benzemiyor hiç."
+    },
+    {
+      "id": "9dfff8a1",
+      "bank_id": "80b1b600",
+      "text": "Köprüden atlamaktan daha kolay olabilir, heh. Ya da, şey, ooh! Belki de pasta yapıyordur."
+    },
+    {
+      "id": "9efffa14",
+      "bank_id": "80b1b600",
+      "text": "Sihirli resim yapıcıymış, öyle diyor. He canım, tabii."
+    },
+    {
+      "id": "a0cffaa8",
+      "bank_id": "80b1b600",
+      "text": "Bunu bana satan adam optilensi odaklamam gerektiğini söylemişti. Ne demek ki bu şimdi?"
+    },
+    {
+      "id": "a0fffd7a",
+      "bank_id": "80b1b600",
+      "text": "Kocaman bir aldatmaca."
+    },
+    {
+      "id": "a1cffc1b",
+      "bank_id": "80b1b600",
+      "text": "Ooh! Bu beni akıl almaz derecede zengin edecek."
+    },
+    {
+      "id": "a1fffeed",
+      "bank_id": "80b1b600",
+      "text": "Sence gerçekten ne bu alet?"
+    },
+    {
+      "id": "a208e038",
+      "bank_id": "80b1b600",
+      "text": "Evet şapşal... Ha! Kimse o iğrenç, kötü, sinsi böceklerden korkmaz..."
+    },
+    {
+      "id": "a2cffd8e",
+      "bank_id": "80b1b600",
+      "text": "Hımm, her şey tepetaklak görünüyor. Ne kadar da kafa karıştırıcı."
+    },
+    {
+      "id": "a308e1ab",
+      "bank_id": "80b1b600",
+      "text": "Madem korkmuyorsunuz, depomdaki birkaç tanesini acımasızca yok etmeye ne dersiniz?"
+    },
+    {
+      "id": "a508e4f1",
+      "bank_id": "80b1b600",
+      "text": "Anlaştık. Umarım acı çekmelerini sağlarsınız. Tabii bu iğrenç haşereler acı çekebiliyorsa."
+    },
+    {
+      "id": "a6775963",
+      "bank_id": "80b1b600",
+      "text": "Şimdi düşününce, o böcekler oraya nasıl girdi acaba merak ediyorum."
+    },
+    {
+      "id": "a808e94a",
+      "bank_id": "80b1b600",
+      "text": "Şey... sayılır, evet. Siz çocuklar... böceklerden korkmazsınız, değil mi?"
+    },
+    {
+      "id": "ad36b867",
+      "bank_id": "80b1b600",
+      "text": "Yine de küçük mahlukları kılıçtan geçirdiniz, istediğim de buydu zaten."
+    },
+    {
+      "id": "ae36b9da",
+      "bank_id": "80b1b600",
+      "text": "Pek de dikkatli sayılmazdınız, değil mi?"
+    },
+    {
+      "id": "b57addf4",
+      "bank_id": "80b1b600",
+      "text": "Yine de ilk altın sikkemizi aldık!"
+    },
+    {
+      "id": "b6dac220",
+      "bank_id": "80b1b600",
+      "text": "Hahaha!"
+    },
+    {
+      "id": "b7dac393",
+      "bank_id": "80b1b600",
+      "text": "Hahaha!"
+    },
+    {
+      "id": "b8dac506",
+      "bank_id": "80b1b600",
+      "text": "Onun için aynam var benim dostum!"
+    },
+    {
+      "id": "b9dac6f9",
+      "bank_id": "80b1b600",
+      "text": "Haha, külahıma anlat!"
+    },
+    {
+      "id": "badac86c",
+      "bank_id": "80b1b600",
+      "text": "Ruhunuzu çalmayacağı garantilidir. Yoksa paranız iade!"
+    },
+    {
+      "id": "bbdac9df",
+      "bank_id": "80b1b600",
+      "text": "Resim suretinde kendi kopyanızı yaratın. Gözlerinize inanamayacaksınız!"
+    },
+    {
+      "id": "bcdacbb2",
+      "bank_id": "80b1b600",
+      "text": "Gerçeğe yakın anlık bir görüntüyle dostlarınızı ve akrabalarınızı hayrete düşürün!"
+    },
+    {
+      "id": "bebf7fae",
+      "bank_id": "80b1b600",
+      "text": "Ah, lanet olsun."
+    },
+    {
+      "id": "c4dad82a",
+      "bank_id": "80b1b600",
+      "text": "Hahaha! Evet, iyi espri."
+    },
+    {
+      "id": "c5dad99d",
+      "bank_id": "80b1b600",
+      "text": "Cüzdanınızı çalacağı garantilidir demek istedin herhalde."
+    },
+    {
+      "id": "c792e2df",
+      "bank_id": "80b1b600",
+      "text": "Ve bir altın sikke daha aldık. Gerçekten başarıyoruz!"
+    },
+    {
+      "id": "cef4af6f",
+      "bank_id": "80b1b600",
+      "text": "<cries>"
+    },
+    {
+      "id": "cff4b0c2",
+      "bank_id": "80b1b600",
+      "text": "<cries>"
+    },
+    {
+      "id": "d5b6baec",
+      "bank_id": "80b1b600",
+      "text": "Bu Balthazar'a Lakaplı Nicky'ye borcunu ödememeyi öğretir."
+    },
+    {
+      "id": "d6b6bc5f",
+      "bank_id": "80b1b600",
+      "text": "Al, yakala."
+    },
+    {
+      "id": "d6ebdb2e",
+      "bank_id": "80b1b600",
+      "text": "Ama sadece tek bir sihirli kâğıdım var, bu yüzden idare etmek zorunda kalacak."
+    },
+    {
+      "id": "d8b6bfa5",
+      "bank_id": "80b1b600",
+      "text": "Hahaha. Harika iş çocuk. Sende doğuştan bir yetenek var, vallahi var."
+    },
+    {
+      "id": "da8c1e9b",
+      "bank_id": "80b1b600",
+      "text": "Demek poz verip çiçeği burnunda bir fotoğrafçıya yardım edeceksiniz? Ne büyük cömertlik!"
+    },
+    {
+      "id": "daa195af",
+      "bank_id": "80b1b600",
+      "text": "Dört altın sikke! Sadece bir tane daha lazım."
+    },
+    {
+      "id": "daebe15a",
+      "bank_id": "80b1b600",
+      "text": "Hımm... Bunda bir şeyler eksikti... Şey, korkarım düpedüz çirkindi."
+    },
+    {
+      "id": "ddf20048",
+      "bank_id": "80b1b600",
+      "text": "Anlaştık. Umarım acı çekmelerini sağlarsınız. Tabii bu iğrenç haşereler hiç acı çekebiliyorsa."
+    },
+    {
+      "id": "de6dc5d0",
+      "bank_id": "80b1b600",
+      "text": "Çekici bir ifade takınarak Barnum'a yardım edin ya da kaba bir ifade takınarak fotoğrafını mahvedin. Bir ifade sergilemek için <dpad.img> kullanın."
+    },
+    {
+      "id": "def2023b",
+      "bank_id": "80b1b600",
+      "text": "Bir altın sikke karşılığında yaparız."
+    },
+    {
+      "id": "dfc6e0d8",
+      "bank_id": "80b1b600",
+      "text": "Balthazar'ın deposunu böceklerden temizleyin ya da mallarını parçalayın."
+    },
+    {
+      "id": "dff203ae",
+      "bank_id": "80b1b600",
+      "text": "Madem korkmuyorsunuz, depomdaki birkaç tanesini acımasızca yok etmeye ne dersiniz?"
+    },
+    {
+      "id": "e0ef1834",
+      "bank_id": "80b1b600",
+      "text": "Aldatmaca olduğunu söylemiştim!"
+    },
+    {
+      "id": "e0f20501",
+      "bank_id": "80b1b600",
+      "text": "Evet şapşal... Ha! Kimse o iğrenç, kötü, sinsi böceklerden korkmaz..."
+    },
+    {
+      "id": "e1ef19a7",
+      "bank_id": "80b1b600",
+      "text": "Hahaha! Üç ay diyor bir de!"
+    },
+    {
+      "id": "e1f206f4",
+      "bank_id": "80b1b600",
+      "text": "Hayır, saçmalık olurdu."
+    },
+    {
+      "id": "e26250f0",
+      "bank_id": "80b1b600",
+      "text": "Ah merhaba! Hâlâ kafa karıştırıcı bazı pürüzleri çözmeye çalışıyorum. Beş dakika sonra gelebilir misiniz acaba?"
+    },
+    {
+      "id": "e2ef1b1a",
+      "bank_id": "80b1b600",
+      "text": "Şimdi sadece resmin tabedilmesi için üç ay beklemem gerek, sonra onu etrafta göstermeye başlayabilirim. Ah, altının kokusunu şimdiden alabiliyorum!"
+    },
+    {
+      "id": "e2f20867",
+      "bank_id": "80b1b600",
+      "text": "Şey... sayılır, evet. Siz çocuklar... böceklerden korkmazsınız, değil mi?"
+    },
+    {
+      "id": "e3f209da",
+      "bank_id": "80b1b600",
+      "text": "Bir konuda yardıma mı ihtiyacınız var?"
+    },
+    {
+      "id": "e46253d6",
+      "bank_id": "80b1b600",
+      "text": "Ah, şu an epey meşgulüm. Birazdan gelin. Ve evrensel boyutlarda bir hayret fırtınasına hazır olun."
+    },
+    {
+      "id": "e52b4dad",
+      "bank_id": "80b1b600",
+      "text": "Korkmadığından emin misin?"
+    },
+    {
+      "id": "e5625549",
+      "bank_id": "80b1b600",
+      "text": "Göz kamaştırıcı değil mi? Az önce aldım. Çığır açan bir mekânizma."
+    },
+    {
+      "id": "e827bf97",
+      "bank_id": "80b1b600",
+      "text": "O iğrenç küçük kafalarını parçalarken eşyalarımdan hiçbirini kırmamaya çalışın."
+    },
+    {
+      "id": "e927c10a",
+      "bank_id": "80b1b600",
+      "text": "Böcekleri vurun. Öldürmek için vurun."
+    },
+    {
+      "id": "eaaa13f3",
+      "bank_id": "80b1b600",
+      "text": "Demek depomdaki böcekleri temizleyeceksiniz? Acı çektiklerinden emin olun!"
+    },
+    {
+      "id": "ec279cf3",
+      "bank_id": "80b1b600",
+      "text": "Keşke poz verecek bir model bulabilseydim..."
+    },
+    {
+      "id": "f0736180",
+      "bank_id": "80b1b600",
+      "text": "Tam bir kıyımdı! Aşağılık mahluklara acımak yok, işte görmek istediğim şey bu."
+    },
+    {
+      "id": "f3736659",
+      "bank_id": "80b1b600",
+      "text": "Ve bütün mallarım hâlâ sapasağlam! Dahiyim ben!"
+    },
+    {
+      "id": "f75e0e4a",
+      "bank_id": "80b1b600",
+      "text": "Demek depomdaki böcekleri temizleyeceksiniz? Acı çektiklerinden emin olun!"
+    },
+    {
+      "id": "f7821c9c",
+      "bank_id": "80b1b600",
+      "text": "Küçük mahlukları kılıçtan geçirdiniz ya, önemli olan da bu."
+    },
+    {
+      "id": "fa822155",
+      "bank_id": "80b1b600",
+      "text": "Mallarımın bir kısmı kırıldı ama sanırım bunun önüne geçilemezdi."
+    }
+  ]
+}

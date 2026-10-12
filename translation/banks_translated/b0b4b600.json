@@ -1,0 +1,821 @@
+{
+  "bank_id": "b0b4b600",
+  "total_strings": 163,
+  "strings": [
+    {
+      "id": "016b7b0f",
+      "bank_id": "b0b4b600",
+      "text": "Dikkat edin! Ateş ediyor!"
+    },
+    {
+      "id": "026b7ce2",
+      "bank_id": "b0b4b600",
+      "text": "Kıymık ateş açıyor! Dikkat edin!"
+    },
+    {
+      "id": "036b7e55",
+      "bank_id": "b0b4b600",
+      "text": "Yerinizde olsam onun önünden çekilirdim."
+    },
+    {
+      "id": "073a47a8",
+      "bank_id": "b0b4b600",
+      "text": "Gargoyle kızının ayağa kalkmasına yardım etmek isteyen var mı acaba?"
+    },
+    {
+      "id": "0c3a4f47",
+      "bank_id": "b0b4b600",
+      "text": "Hammer'ın yardımınıza ihtiyacı var!"
+    },
+    {
+      "id": "0d3a513a",
+      "bank_id": "b0b4b600",
+      "text": "Hammer sahili tek başına tutamaz. Yardımına ihtiyacı var!"
+    },
+    {
+      "id": "0e3a52ad",
+      "bank_id": "b0b4b600",
+      "text": "Görünüşe göre iri kızın başı dertte. Ama ben de fazlasıyla meşgulüm hani."
+    },
+    {
+      "id": "10a04630",
+      "bank_id": "b0b4b600",
+      "text": "Oh, kalkıver artık Garth, olur mu? Bizi rezil ediyorsun."
+    },
+    {
+      "id": "10dfd728",
+      "bank_id": "b0b4b600",
+      "text": "Evet! Aynen böyle devam!"
+    },
+    {
+      "id": "11dfd89b",
+      "bank_id": "b0b4b600",
+      "text": "Evet, işe yarıyor!"
+    },
+    {
+      "id": "137b2d11",
+      "bank_id": "b0b4b600",
+      "text": "Reaver düştü! Biri onun yerini alsın!"
+    },
+    {
+      "id": "13dfdbe1",
+      "bank_id": "b0b4b600",
+      "text": "Canını yakıyoruz artık!"
+    },
+    {
+      "id": "147b2e84",
+      "bank_id": "b0b4b600",
+      "text": "Biri Reaver'a yardım etsin! Bu Kıymık'ın işini bitireceksek ona ihtiyacımız var!"
+    },
+    {
+      "id": "14dfdd54",
+      "bank_id": "b0b4b600",
+      "text": "Böyle devam edebilirsek fazla dayanamaz!"
+    },
+    {
+      "id": "157b3077",
+      "bank_id": "b0b4b600",
+      "text": "Reaver düştü!"
+    },
+    {
+      "id": "15a04def",
+      "bank_id": "b0b4b600",
+      "text": "Garth düştü! Yardımına ihtiyacı var!"
+    },
+    {
+      "id": "167b31ea",
+      "bank_id": "b0b4b600",
+      "text": "Reaver! İyi mi bir bakın şuna, olur mu? Ona ihtiyacımız var!"
+    },
+    {
+      "id": "16a04f42",
+      "bank_id": "b0b4b600",
+      "text": "Garth'ın iyi olduğundan emin olun. Yaralı görünüyor!"
+    },
+    {
+      "id": "16dfe0ba",
+      "bank_id": "b0b4b600",
+      "text": "Yeterince vurursak onu yok edebiliriz."
+    },
+    {
+      "id": "17a05135",
+      "bank_id": "b0b4b600",
+      "text": "Aman canım, kurnaz büyücümüz biraz uzanmış. Biraz yardım belki?"
+    },
+    {
+      "id": "17dfe22d",
+      "bank_id": "b0b4b600",
+      "text": "Nasılmış bakalım, seni kendini beğenmiş çakıl taşı?!"
+    },
+    {
+      "id": "18d4d27f",
+      "bank_id": "b0b4b600",
+      "text": "Uçuruma ateş etsek de aynı şeydi!"
+    },
+    {
+      "id": "19d4d3d2",
+      "bank_id": "b0b4b600",
+      "text": "Bu bana oldukça nafile bir çaba gibi geliyor."
+    },
+    {
+      "id": "1ad4d545",
+      "bank_id": "b0b4b600",
+      "text": "Onu yenmenin bir yolunu bulmalıyız."
+    },
+    {
+      "id": "1c08c598",
+      "bank_id": "b0b4b600",
+      "text": "Daha fazla asker üretiyor! Bu düpedüz hile ama."
+    },
+    {
+      "id": "1e08c8fe",
+      "bank_id": "b0b4b600",
+      "text": "Daha fazla asker, dikkat edin!"
+    },
+    {
+      "id": "1f08ca51",
+      "bank_id": "b0b4b600",
+      "text": "Görünüşe göre öldürecek daha fazla sözde adamımız var."
+    },
+    {
+      "id": "2008cbc4",
+      "bank_id": "b0b4b600",
+      "text": "Bakın, daha fazla birlik yolda!"
+    },
+    {
+      "id": "2108cdb7",
+      "bank_id": "b0b4b600",
+      "text": "Daha fazla asker çağırıyor!"
+    },
+    {
+      "id": "2308d09d",
+      "bank_id": "b0b4b600",
+      "text": "Daha fazla asker gönderiyor!"
+    },
+    {
+      "id": "28717c4f",
+      "bank_id": "b0b4b600",
+      "text": "Ha ha, bu neredeyse fazla kolay oldu."
+    },
+    {
+      "id": "3544c1e8",
+      "bank_id": "b0b4b600",
+      "text": "Eski Krallık eserleri İrade'ye tepki verir. Sadece doğru büyüyü bulmam gerek."
+    },
+    {
+      "id": "363e3aff",
+      "bank_id": "b0b4b600",
+      "text": "Döndün demek."
+    },
+    {
+      "id": "3644c35b",
+      "bank_id": "b0b4b600",
+      "text": "Bir yolu olmalı..."
+    },
+    {
+      "id": "3844c6a1",
+      "bank_id": "b0b4b600",
+      "text": "Beni koruyun. Zayıf noktasını açığa çıkarmanın bir yolunu bulmalıyım. Olduğunu biliyorum."
+    },
+    {
+      "id": "3b44cb7a",
+      "bank_id": "b0b4b600",
+      "text": "Hiçbir şey işe yaramıyor gibi. Şayet..."
+    },
+    {
+      "id": "3c44cced",
+      "bank_id": "b0b4b600",
+      "text": "İşte bu! Uzun, aralıksız saldırılar. Onu indirmenin tek yolu bu!"
+    },
+    {
+      "id": "4407a8ff",
+      "bank_id": "b0b4b600",
+      "text": "Kıymık"
+    },
+    {
+      "id": "450d7f90",
+      "bank_id": "b0b4b600",
+      "text": "Gidelim mi yoldaş? Dostum?"
+    },
+    {
+      "id": "460d8103",
+      "bank_id": "b0b4b600",
+      "text": "En azından hâlâ birbirimize sahibiz. İleriye ve daima yukarıya!"
+    },
+    {
+      "id": "4a3deb5e",
+      "bank_id": "b0b4b600",
+      "text": "Sanırım neredeyse başardık! Birlikte vurursak işini bitirebiliriz!"
+    },
+    {
+      "id": "4f4031d4",
+      "bank_id": "b0b4b600",
+      "text": "Askerleri ben oyalarım!"
+    },
+    {
+      "id": "50403340",
+      "bank_id": "b0b4b600",
+      "text": "Sonunuz gelmiyor değil mi?! Lanet hamamböcekleri gibisiniz! Gelin bakalım!"
+    },
+    {
+      "id": "50403341",
+      "bank_id": "b0b4b600",
+      "text": "Asla yetmiyor."
+    },
+    {
+      "id": "50403342",
+      "bank_id": "b0b4b600",
+      "text": "Kıymığı yok etmek hepimizin çabasını gerektirecek."
+    },
+    {
+      "id": "50403347",
+      "bank_id": "b0b4b600",
+      "text": "Daha fazla asker çağırıyor."
+    },
+    {
+      "id": "530d959a",
+      "bank_id": "b0b4b600",
+      "text": "Tam da sana ihanet etmeye çalıştığım sırada ha! Ne kadar da münasebetsiz."
+    },
+    {
+      "id": "540d970d",
+      "bank_id": "b0b4b600",
+      "text": "Ben mi? Lucien ile aramızda bir centilmenlik anlaşması vardı! Bana ihanet etmeye nasıl cüret eder?"
+    },
+    {
+      "id": "64e771f9",
+      "bank_id": "b0b4b600",
+      "text": "Ama vah vah, eskisi kadar hayat dolu görünmüyorsun. O Yargıçlar tam bir baş belası olabiliyor, değil mi?"
+    },
+    {
+      "id": "65c3481b",
+      "bank_id": "b0b4b600",
+      "text": "Evet, evet, pek dramatik."
+    },
+    {
+      "id": "66c3498e",
+      "bank_id": "b0b4b600",
+      "text": "Böyle kibirli bir gösteriş meraklısı olmana gerek yok bilesin."
+    },
+    {
+      "id": "671c32f0",
+      "bank_id": "b0b4b600",
+      "text": "Yarım bıraktığınız bir şey varsa, çözmek için son fırsatınız şimdi."
+    },
+    {
+      "id": "67c34b61",
+      "bank_id": "b0b4b600",
+      "text": "Lucien'in seninle bu kadar ilgilenmesine şaşmamalı."
+    },
+    {
+      "id": "681c3463",
+      "bank_id": "b0b4b600",
+      "text": "Reaver'ı bir kez aldığımızda yolunuz dosdoğru Lucien'e çıkacak. Geri dönüş olmayacak."
+    },
+    {
+      "id": "68c34cd4",
+      "bank_id": "b0b4b600",
+      "text": "İlgi odağı olmaya çalışmayı keser misin artık?"
+    },
+    {
+      "id": "691c35d6",
+      "bank_id": "b0b4b600",
+      "text": "Reaver'ın yanına dönüşünün... hareketli olacağını tahmin ediyorum."
+    },
+    {
+      "id": "69c34e47",
+      "bank_id": "b0b4b600",
+      "text": "Daha iyilerini de gördüm."
+    },
+    {
+      "id": "6c2e2046",
+      "bank_id": "b0b4b600",
+      "text": "BÜYÜK KIYMIK"
+    },
+    {
+      "id": "78b0c5f0",
+      "bank_id": "b0b4b600",
+      "text": "Bu işi bitirme vakti geldi!"
+    },
+    {
+      "id": "79b0c763",
+      "bank_id": "b0b4b600",
+      "text": "Şu şeyi yok etme vaktimiz geldi!"
+    },
+    {
+      "id": "7bb0ca49",
+      "bank_id": "b0b4b600",
+      "text": "Neredeyse hallettik!"
+    },
+    {
+      "id": "7cb0cc3c",
+      "bank_id": "b0b4b600",
+      "text": "Birkaç atış daha ve tarihe karışacak!"
+    },
+    {
+      "id": "7e8f769a",
+      "bank_id": "b0b4b600",
+      "text": "Bloodstone Baskını"
+    },
+    {
+      "id": "7eb0cf02",
+      "bank_id": "b0b4b600",
+      "text": "Bunu hemen bitirelim!"
+    },
+    {
+      "id": "7fb0d0f5",
+      "bank_id": "b0b4b600",
+      "text": "Oh, canıma tak etti artık. Gebertelim şu lanet şeyi gitsin."
+    },
+    {
+      "id": "86a61c69",
+      "bank_id": "b0b4b600",
+      "text": "Hammer'ı koruyun."
+    },
+    {
+      "id": "998642d6",
+      "bank_id": "b0b4b600",
+      "text": "Ve her zamanki gibi genç ve hayat dolusun! Amma da kurnazsın ha. Helal olsun sana."
+    },
+    {
+      "id": "9da46570",
+      "bank_id": "b0b4b600",
+      "text": "Aynen böyle devam! Vurabildiğiniz kadar sert vurun!"
+    },
+    {
+      "id": "9fa46856",
+      "bank_id": "b0b4b600",
+      "text": "Ben bu... şeylerle uğraşmakla fazlasıyla meşgulüm. Zayıf noktasını kendiniz açığa çıkarmalısınız."
+    },
+    {
+      "id": "a0a469c9",
+      "bank_id": "b0b4b600",
+      "text": "Böyle kapalıyken canını yakamayız. Daha fazla yıldırıma ihtiyacımız var!"
+    },
+    {
+      "id": "a1a46bbc",
+      "bank_id": "b0b4b600",
+      "text": "Onu durdurmalıyız! Çarpamaz mısın onu falan?"
+    },
+    {
+      "id": "a2a46d2f",
+      "bank_id": "b0b4b600",
+      "text": "Savunmasını tekrar indiremezsek asker göndermeye devam edecek!"
+    },
+    {
+      "id": "a3a46e82",
+      "bank_id": "b0b4b600",
+      "text": "Elinizde ne varsa ateş edin ona!"
+    },
+    {
+      "id": "a4a47075",
+      "bank_id": "b0b4b600",
+      "text": "O kirli küçük sırrını bize tekrar göstermesini sağlayabilseydiniz bu çok daha centilmence olurdu!"
+    },
+    {
+      "id": "a67c3724",
+      "bank_id": "b0b4b600",
+      "text": "Büyük Kıymık"
+    },
+    {
+      "id": "a75d8900",
+      "bank_id": "b0b4b600",
+      "text": "Oh, kulağa pek eğlenceli geliyor doğrusu."
+    },
+    {
+      "id": "a85d8af3",
+      "bank_id": "b0b4b600",
+      "text": "Orada gerçekleştireceğimiz ayin bize Lucien'i yenmek için ihtiyacımız olan silahı sağlayacak."
+    },
+    {
+      "id": "a95d8c66",
+      "bank_id": "b0b4b600",
+      "text": "Kahramanlar Çemberi'nde toplanmalıyız."
+    },
+    {
+      "id": "a9a4df28",
+      "bank_id": "b0b4b600",
+      "text": "Birlikte savunmasını çökerteceğiz!"
+    },
+    {
+      "id": "aa5d8dd9",
+      "bank_id": "b0b4b600",
+      "text": "Peki-- şimdi ne olacak?"
+    },
+    {
+      "id": "aaa4e09b",
+      "bank_id": "b0b4b600",
+      "text": "İrade'ye hükmedişin çok etkileyici!"
+    },
+    {
+      "id": "ab5d8f4c",
+      "bank_id": "b0b4b600",
+      "text": "Ve ondan sonra seni öldürme ihtimalim oldukça yüksek ama... şey, o köprüyü oraya varınca geçeriz, değil mi?"
+    },
+    {
+      "id": "aba4e20e",
+      "bank_id": "b0b4b600",
+      "text": "Çok iyi! Evet!"
+    },
+    {
+      "id": "ac5d913f",
+      "bank_id": "b0b4b600",
+      "text": "Pekala. Tamam, evet, sana yardım edeceğim."
+    },
+    {
+      "id": "ac5fcf96",
+      "bank_id": "b0b4b600",
+      "text": "Batsın intikamım. Bunu onun için yapmıyorum."
+    },
+    {
+      "id": "ad5d9292",
+      "bank_id": "b0b4b600",
+      "text": "O zaman Gölgelerin Kralı'na kimi kurban edeceksin?"
+    },
+    {
+      "id": "ae52c1cc",
+      "bank_id": "b0b4b600",
+      "text": "Fakat devasa, sivri uçlu uçan kaya sözümü kesmeden önce de söylediğim gibi, gerçekten gitmem gerek."
+    },
+    {
+      "id": "ae5d9405",
+      "bank_id": "b0b4b600",
+      "text": "Şey, keyfini çıksın sürsün. İnsanlar biraz abartılıyor, sence de öyle değil mi?"
+    },
+    {
+      "id": "af52c3bf",
+      "bank_id": "b0b4b600",
+      "text": "Beni dinle. Bize yardım etmezsen Lucien dünyayı ve içindeki her bir insanı kontrol edecek."
+    },
+    {
+      "id": "b0a4ea2d",
+      "bank_id": "b0b4b600",
+      "text": "Fena değil. Tabii o kadar büyük bir hedefi ıskalamak da zor hani."
+    },
+    {
+      "id": "b252c878",
+      "bank_id": "b0b4b600",
+      "text": "İşte buna takım çalışması derler!"
+    },
+    {
+      "id": "b252c87d",
+      "bank_id": "b0b4b600",
+      "text": "Şimdi gidemezsin! Sana ihtiyacımız var."
+    },
+    {
+      "id": "b25fd928",
+      "bank_id": "b0b4b600",
+      "text": "Kulağa tam bir katliam gibi geliyordu. Bütün askerler gitti mi?"
+    },
+    {
+      "id": "b352c9eb",
+      "bank_id": "b0b4b600",
+      "text": "Baybay."
+    },
+    {
+      "id": "b35fda9b",
+      "bank_id": "b0b4b600",
+      "text": "Umarım çok uzaktadırlar. Daha ne kadar öldürmeye katlanabilirim bilmiyorum. Her kayanın ve ağacın ardında balverine'ler ve haydutlar var; öldürdüğüm her bir tanesinin yerine iki tanesi geliyor."
+    },
+    {
+      "id": "b452cb5e",
+      "bank_id": "b0b4b600",
+      "text": "Hoş geldin Reaver."
+    },
+    {
+      "id": "b45fdc0e",
+      "bank_id": "b0b4b600",
+      "text": "Lucien alt edilmedikçe Gölgelerle yaptığın anlaşmayı ve gençliğini kaybedeceksin. Benimle gel."
+    },
+    {
+      "id": "b552cd31",
+      "bank_id": "b0b4b600",
+      "text": "Şey... Burada olmaktan pek müşerref oldum... şey, her kimseniz artık."
+    },
+    {
+      "id": "b55d9f0a",
+      "bank_id": "b0b4b600",
+      "text": "Dilsiz olanını tercih ederdim."
+    },
+    {
+      "id": "b55fdde1",
+      "bank_id": "b0b4b600",
+      "text": "Sorun ne Garth?"
+    },
+    {
+      "id": "b65da0fd",
+      "bank_id": "b0b4b600",
+      "text": "Kör demek ha? Hmm."
+    },
+    {
+      "id": "b65fdf54",
+      "bank_id": "b0b4b600",
+      "text": "Bunun sonu ne zaman gelecek? Ne zaman yeterli olacak?"
+    },
+    {
+      "id": "b752d017",
+      "bank_id": "b0b4b600",
+      "text": "Başardık!"
+    },
+    {
+      "id": "b75fe0c7",
+      "bank_id": "b0b4b600",
+      "text": "İnancını kaybetme Hammer. İntikamına çok yaklaştın."
+    },
+    {
+      "id": "b852d18a",
+      "bank_id": "b0b4b600",
+      "text": "Evet. Pek eğlenceli."
+    },
+    {
+      "id": "b85fe2ba",
+      "bank_id": "b0b4b600",
+      "text": "Lucien öldüğünde her şey daha iyi olacak."
+    },
+    {
+      "id": "b952d37d",
+      "bank_id": "b0b4b600",
+      "text": "Ve bununla birlikte, ben kaçtım."
+    },
+    {
+      "id": "b95fe42d",
+      "bank_id": "b0b4b600",
+      "text": "Her şey eskiden nasılsa öyle kalacak. Her kayanın ve ağacın ardında balverine'ler ve haydutlar; öldürdüğüm her bir tanesinin yerine iki tanesi gelecek."
+    },
+    {
+      "id": "bc05ec00",
+      "bank_id": "b0b4b600",
+      "text": "Pekala, ben gidiyorum! Gelen var mı?"
+    },
+    {
+      "id": "bd05edf3",
+      "bank_id": "b0b4b600",
+      "text": "Şu oldukça kullanışlı kaçış tünelinden kaçmamızı öneririm."
+    },
+    {
+      "id": "bf881970",
+      "bank_id": "b0b4b600",
+      "text": "Bu herifler için o güzelim küçük kafanı hiç yorma."
+    },
+    {
+      "id": "c00e7bae",
+      "bank_id": "b0b4b600",
+      "text": "Hey! Dikkatli olmazsan bir sürü aşığı çok mutsuz edebilirsin."
+    },
+    {
+      "id": "c10e7d01",
+      "bank_id": "b0b4b600",
+      "text": "Dikkatli ol lütfen! O bir yara izi bırakabilir!"
+    },
+    {
+      "id": "c1881c56",
+      "bank_id": "b0b4b600",
+      "text": "Silahıma hayran mı kaldın?"
+    },
+    {
+      "id": "c20e7ef4",
+      "bank_id": "b0b4b600",
+      "text": "Oh, birini öyle sakatlayamazsın. İzle de öğren."
+    },
+    {
+      "id": "c2881dc9",
+      "bank_id": "b0b4b600",
+      "text": "Bizi buradan çıkarabilirim. Yani, ne de olsa ben benim, değil mi?"
+    },
+    {
+      "id": "c30e8067",
+      "bank_id": "b0b4b600",
+      "text": "Oh, ne yaptığına baksana. Bu gömleğin ne kadar değerli olduğu hakkında en ufak bir fikrin var mı?"
+    },
+    {
+      "id": "c32c11e0",
+      "bank_id": "b0b4b600",
+      "text": "Yıllardır böyle bir kavgaya karışmamıştım!"
+    },
+    {
+      "id": "c3881fbc",
+      "bank_id": "b0b4b600",
+      "text": "Sadece altı tane üretildi biliyor musun, altı şanslı kişi için."
+    },
+    {
+      "id": "c40e81da",
+      "bank_id": "b0b4b600",
+      "text": "Nasıl cüret edersin?!"
+    },
+    {
+      "id": "c42c1353",
+      "bank_id": "b0b4b600",
+      "text": "Genelde vurduğum ayaktakımına göre epey daha iyi birer hedef oldular."
+    },
+    {
+      "id": "c488212f",
+      "bank_id": "b0b4b600",
+      "text": "Tam bir afet değil mi? Dragonstomper .48."
+    },
+    {
+      "id": "c52c14c6",
+      "bank_id": "b0b4b600",
+      "text": "Şimdi--ha--bu hayatında gördüğün en parlak ve en hayranlık uyandırıcı atış değil miydi? Acımasızca dürüst ol hadi! Ha ha ha!"
+    },
+    {
+      "id": "c5882282",
+      "bank_id": "b0b4b600",
+      "text": "Lanet olsun, fıçıdaki balık gibiyiz."
+    },
+    {
+      "id": "c62c16b9",
+      "bank_id": "b0b4b600",
+      "text": "Ah, keşke böyle bir atışı bir müzede sergileyebilselerdi."
+    },
+    {
+      "id": "c6882475",
+      "bank_id": "b0b4b600",
+      "text": "Pek o kadar şanslı sayılmazlar aslında, şu ana kadar dördünü hakladım bile."
+    },
+    {
+      "id": "c72c182c",
+      "bank_id": "b0b4b600",
+      "text": "Ha! İnsanların canını yakmanın oldukça aydınlatıcı bir yanı var, değil mi?"
+    },
+    {
+      "id": "c78825e8",
+      "bank_id": "b0b4b600",
+      "text": "Bu çocuklarda pek centilmenlik ruhu yok değil mi?"
+    },
+    {
+      "id": "c82c199f",
+      "bank_id": "b0b4b600",
+      "text": "Merak etme, bu rahatsızlık uzun sürmeyecek. Bir saniye sonra ölmüş olacaksın. <laughs>"
+    },
+    {
+      "id": "c888275b",
+      "bank_id": "b0b4b600",
+      "text": "Nefret ettiğim tek bir şey varsa o da haksız dövüştür."
+    },
+    {
+      "id": "ca2c1ce5",
+      "bank_id": "b0b4b600",
+      "text": "İtiraf etmelisin ki oldukça harikayım."
+    },
+    {
+      "id": "d12c27ea",
+      "bank_id": "b0b4b600",
+      "text": "Dikkat etsen iyi olur. Bir şeyler öğrenebilirsin."
+    },
+    {
+      "id": "d22c295d",
+      "bank_id": "b0b4b600",
+      "text": "Bakire öpücüğü değmiş kurşunumu bu yaratıklara harcamak neredeyse yazık gibi geliyor."
+    },
+    {
+      "id": "d285f8a2",
+      "bank_id": "b0b4b600",
+      "text": "Onlara bundan bahsedebilirsin. Sana inanacaklarından değil tabii..."
+    },
+    {
+      "id": "d485fb88",
+      "bank_id": "b0b4b600",
+      "text": "Bir gün torunlarına bu günü anlatabilirsin. Efsanevi Reaver'ın yanında nasıl dövüştüğünü, onun hiçbir hedefi nasıl ıskalamadığını..."
+    },
+    {
+      "id": "d585fd7b",
+      "bank_id": "b0b4b600",
+      "text": "Bekle."
+    },
+    {
+      "id": "d685feee",
+      "bank_id": "b0b4b600",
+      "text": "Neredeyse geldik. Ah, işte gemim yanaşıyor: Reaver."
+    },
+    {
+      "id": "d7860041",
+      "bank_id": "b0b4b600",
+      "text": "Adını Narcissus koyacaktım ama kayıtlarda zaten bir tane varmış."
+    },
+    {
+      "id": "d8860234",
+      "bank_id": "b0b4b600",
+      "text": "Adil ve tamamen tarafsız bir dövüş."
+    },
+    {
+      "id": "d98603a7",
+      "bank_id": "b0b4b600",
+      "text": "İlerlemeye devam et, olur mu? Ve mükemmelliğimin önüne çıkmamaya dikkat et."
+    },
+    {
+      "id": "da86051a",
+      "bank_id": "b0b4b600",
+      "text": "Şanslısın ki tarihin en iyi nişancısının huzurundasın... yani, gelmiş geçmiş en iyisinin."
+    },
+    {
+      "id": "db86068d",
+      "bank_id": "b0b4b600",
+      "text": "Ah, işte bu daha benim tarzım."
+    },
+    {
+      "id": "de742608",
+      "bank_id": "b0b4b600",
+      "text": "Reaver'ı koruyun."
+    },
+    {
+      "id": "de8ced0c",
+      "bank_id": "b0b4b600",
+      "text": "Bakın! Onu bir arada tutan enerjiyi görebilirsiniz!"
+    },
+    {
+      "id": "e0565e98",
+      "bank_id": "b0b4b600",
+      "text": "Ölmenin can sıkıcı olduğunu biliyorum ama hepimiz sonsuza dek yaşayamayız."
+    },
+    {
+      "id": "e156600b",
+      "bank_id": "b0b4b600",
+      "text": "En azından herkese Reaver tarafından öldürüldüğünüzü söyleyebilirsiniz."
+    },
+    {
+      "id": "e55666b7",
+      "bank_id": "b0b4b600",
+      "text": "Oh affedersiniz, umarım ölmek sizin için bir sakınca teşkil etmiyordur."
+    },
+    {
+      "id": "e656682a",
+      "bank_id": "b0b4b600",
+      "text": "Gerçekten, ölseniz sizin için daha hayırlı."
+    },
+    {
+      "id": "e6bad41b",
+      "bank_id": "b0b4b600",
+      "text": "Garth'a baksan iyi edersin. Ben kendime bakmakla epey meşgulüm."
+    },
+    {
+      "id": "e756699d",
+      "bank_id": "b0b4b600",
+      "text": "Hıh! Bu... \"adamları\" öldürmek insanın umduğu kadar tatmin edici değil doğrusu."
+    },
+    {
+      "id": "e7bad58e",
+      "bank_id": "b0b4b600",
+      "text": "Sanırım o büyüsünü yaparken arkasını kollamalıyız."
+    },
+    {
+      "id": "e8bad761",
+      "bank_id": "b0b4b600",
+      "text": "Odaklanmam gerek!"
+    },
+    {
+      "id": "e9bad8d4",
+      "bank_id": "b0b4b600",
+      "text": "Onları benden uzak tutun!"
+    },
+    {
+      "id": "eabada47",
+      "bank_id": "b0b4b600",
+      "text": "O işini yaparken Garth'ı yakalamadıklarından emin olun!"
+    },
+    {
+      "id": "ebbadc3a",
+      "bank_id": "b0b4b600",
+      "text": "Garth'ı korumalısınız!"
+    },
+    {
+      "id": "f67cabb8",
+      "bank_id": "b0b4b600",
+      "text": "Açıkta kalan kıymığa saldırın."
+    },
+    {
+      "id": "f67cabb9",
+      "bank_id": "b0b4b600",
+      "text": "Garth'ı koruyun."
+    },
+    {
+      "id": "f67cabbc",
+      "bank_id": "b0b4b600",
+      "text": "Reaver'ın yanına dönün."
+    },
+    {
+      "id": "f67cabbe",
+      "bank_id": "b0b4b600",
+      "text": "Büyük kıymığı yok edin."
+    },
+    {
+      "id": "f67cabbf",
+      "bank_id": "b0b4b600",
+      "text": "Reaver'ı takip edin."
+    },
+    {
+      "id": "fc6b7350",
+      "bank_id": "b0b4b600",
+      "text": "Ne güzel ışık topları öyle. Can da yakar sanırım."
+    },
+    {
+      "id": "fd6b74c3",
+      "bank_id": "b0b4b600",
+      "text": "Kıymık taarruza geçti. Herkes tetikte olsun!"
+    },
+    {
+      "id": "fe6b76b6",
+      "bank_id": "b0b4b600",
+      "text": "Kıymık'ın ateşinden uzak durmaya çalışın!"
+    }
+  ]
+}

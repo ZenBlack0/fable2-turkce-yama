@@ -1,0 +1,3936 @@
+{
+  "bank_id": "20499600",
+  "total_strings": 786,
+  "strings": [
+    {
+      "id": "00051212",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "007f6235",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0082f08d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "01051385",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "01f7d6e6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "02217b00",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "02b981b8",
+      "bank_id": "20499600",
+      "text": "Köye sorun çıkaran haydutları bulmak için parlayan izi takip edin ve onları öldürün."
+    },
+    {
+      "id": "02f7d859",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "03217cf3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "03f65658",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "03f7d9cc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "03fa29df",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "0485b9ab",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "04acc689",
+      "bank_id": "20499600",
+      "text": "Ödeme İhmali x%d"
+    },
+    {
+      "id": "04f657cb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "04f7dbbf",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "05217fd9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0585bb1e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "05f659be",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "05f7dd12",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0621814c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "06474c01",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "0685bcf1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "06f7de85",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0721833f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0785be64",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "07e0edc3",
+      "bank_id": "20499600",
+      "text": "Geçmiş Suçlar:"
+    },
+    {
+      "id": "07f7e078",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "08218492",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "084ab538",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "08f65e77",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "08f7e1eb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "09218605",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "094ab6ab",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "09f65fea",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0a4ab81e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0af6615d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0b397f48",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0beb3643",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0c218ade",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0c688172",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "0cbc4748",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0ceb3836",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0d218cb1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0d378ae0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0d3982ae",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0d4abcd7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0dbc493b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0deb39a9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0e34f4f1",
+      "bank_id": "20499600",
+      "text": "Cinayete Teşebbüs"
+    },
+    {
+      "id": "0e378c53",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0e398401",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0e4abe4a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0edf8b98",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "0eeb3b1c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0f3985f4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0f4ac03d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0fb38fc7",
+      "bank_id": "20499600",
+      "text": "Sarhoşluk ve Taşkınlık"
+    },
+    {
+      "id": "0fbc4c01",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0fdc08f6",
+      "bank_id": "20499600",
+      "text": "Ağır Ahlaksızlık"
+    },
+    {
+      "id": "0feb3c8f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "0fecbc43",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "10378fb9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "10398767",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1039d01f",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "1089f2a0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "10b3e808",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "10bc4df4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "10eb3e62",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "10ecbe36",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1137912c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1189f413",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "11b3e9fb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "11ecbfa9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "12398a4d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "123c4b2e",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "126906c7",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "1293f22f",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "12aadea0",
+      "bank_id": "20499600",
+      "text": "Darp"
+    },
+    {
+      "id": "12b3eb6e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "12bc50da",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "12db2645",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "12ecc11c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "13379472",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1393f382",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "13bc524d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "13be4e63",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "13ccb8f7",
+      "bank_id": "20499600",
+      "text": "Çalıntı Mal Ticareti"
+    },
+    {
+      "id": "13ecc28f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "143795e5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "14867178",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1493f575",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "14be4fd6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "14ecc462",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "150c6333",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "158672eb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1588d90b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "15b3f027",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "15e2030e",
+      "bank_id": "20499600",
+      "text": "Kamu hizmetinizi tamamlamak için verilen süre doldu."
+    },
+    {
+      "id": "1686745e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1688dafe",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "16b3f19a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "16eebdfb",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "172fd99a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1788dc51",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "17b3f30d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "17eebf6e",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "180c678c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1860e234",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "1888ddc4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1889ff18",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "18eec0c1",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "194bc0fc",
+      "bank_id": "20499600",
+      "text": "Hiçbiri"
+    },
+    {
+      "id": "19867917",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1988dfb7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "19da8917",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "1a0c6ad2",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1a867a8a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1a88e12a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1a8a027e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1b0c6c45",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1b54e9fe",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "1b867c7d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1b8a03d1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1c8a0544",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1d8a0737",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1dafd77c",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "1e8a08aa",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "1f3a07bf",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "1f8a0a1d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "205f6cc2",
+      "bank_id": "20499600",
+      "text": "İflas x%d"
+    },
+    {
+      "id": "20909376",
+      "bank_id": "20499600",
+      "text": "Köye sorun çıkaran hobbe'leri bulmak için parlayan izi takip edin ve onları öldürün."
+    },
+    {
+      "id": "216b90ad",
+      "bank_id": "20499600",
+      "text": "Ödeme İhmali"
+    },
+    {
+      "id": "21b37b37",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "22b37caa",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "22bac554",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "22dd7953",
+      "bank_id": "20499600",
+      "text": "Taciz x%d"
+    },
+    {
+      "id": "23d5103b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "25a22dc9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "26a22fbc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "26d514f4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "27a2312f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "27b1f8c0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "28a23282",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "28b1fab3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "28d517da",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "29b1fc26",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "29d5194d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "29ec00a8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2aec021b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2b2ab65e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2bb9a910",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2cb200ff",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2cb9aa83",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2cec0561",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2d271b93",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2db20252",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2dec06d4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2e271d06",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2e695d28",
+      "bank_id": "20499600",
+      "text": "Çok Oyunculu Menüsü"
+    },
+    {
+      "id": "2eb203c5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2eb9ade9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2f271ef9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2f459bc0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2fb9af5c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2fec0a3a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3027206c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "30459db3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "30498774",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "3076db5d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "30ec0bad",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "312721df",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "31459f26",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "31b0c218",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "31b9b2a2",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "322723b2",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "32879d5b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "32b0c38b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "32b9b415",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "334a6cc5",
+      "bank_id": "20499600",
+      "text": "Silah Teşhir Etme x%d"
+    },
+    {
+      "id": "33879ece",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "33b0c57e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3445a3ff",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3487a0a1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "34e43ebb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3545a552",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3587a214",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "35af4c8c",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "363d06b8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3645a6c5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3687a387",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "36b0ca37",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "36d79655",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "3787a57a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "37b0cbaa",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "37c2814a",
+      "bank_id": "20499600",
+      "text": "Hırsızlık x%d"
+    },
+    {
+      "id": "37e44374",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "383d099e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "388801f0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "38a52a18",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "38b0cd1d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "38cecd96",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "393d0b71",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "39880363",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "39e4465a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3aced0fc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3ae447cd",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3b14630b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3b3d0e57",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3b880649",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3bced26f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3c1464fe",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3c88083c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3ce71274",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "3d146651",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3da53237",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3dced5b5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3df11665",
+      "bank_id": "20499600",
+      "text": "Haraç Kesme"
+    },
+    {
+      "id": "3e1467c4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3e880b02",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3ea533aa",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3ee7155a",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "3f1469b7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3f880cf5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3fa5351d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "3fe716cd",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "40146b2a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "43cd4ba0",
+      "bank_id": "20499600",
+      "text": "Ağır Ödeme İhmali x%d"
+    },
+    {
+      "id": "467bdf90",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "477be103",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "47fc5216",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "481dc6fb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "48bfb5d3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "491dc86e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "497be469",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "49bfb746",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "49fc557c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4a1dc9c1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4a7254e8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4a7be5dc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4abfb939",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4afc56ef",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4b1dcbb4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4b72565b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4bbfbaac",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4c1dcd27",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4c7257ce",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4c7be922",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4c8292de",
+      "bank_id": "20499600",
+      "text": "Hırsızlık"
+    },
+    {
+      "id": "4c96e570",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4cbfbc1f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4cfc5a35",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4d1dce9a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4d347296",
+      "bank_id": "20499600",
+      "text": "Avarelik x%d"
+    },
+    {
+      "id": "4d7bea95",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4da24cf1",
+      "bank_id": "20499600",
+      "text": "Silah Teşhir Etme"
+    },
+    {
+      "id": "4dbfbdf2",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4e247e7b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4e96e856",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4efdd457",
+      "bank_id": "20499600",
+      "text": "Taciz"
+    },
+    {
+      "id": "4f725c87",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "4f96e9c9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5014d090",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "50725e7a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "50777918",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "50bcea9b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "50fed33a",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "5114d203",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "51248334",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "51725fed",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5192fd9f",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "5196ed2f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "51bcec0e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "52777c7e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "52bcede1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "52decebf",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "5314d569",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5324861a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "534de8c0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "53777dd1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "53bcef54",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5414d6dc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5424878d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "544deab3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "54bcf0c7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "55bcf2ba",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5614da22",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "563e9199",
+      "bank_id": "20499600",
+      "text": "Gözaltına Direnme x%d"
+    },
+    {
+      "id": "564ded99",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "570a23a9",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "5714db95",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "58578080",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "594df252",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "59578273",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "599ba07b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "59e475f1",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "5b015fd8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5b578559",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5c9aeff2",
+      "bank_id": "20499600",
+      "text": "Ağır Ahlaksızlık x%d"
+    },
+    {
+      "id": "5c9ba534",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5d01633e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5dd4aaef",
+      "bank_id": "20499600",
+      "text": "Açık Saçıklık"
+    },
+    {
+      "id": "5e016491",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5e578a12",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5e9ba81a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5eb55f86",
+      "bank_id": "20499600",
+      "text": "Şartlı Tahliye İhlali"
+    },
+    {
+      "id": "5f016604",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5f339548",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5f578b85",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5f9ba98d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "5ffe21d0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "600167f7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6033973b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "60c3caa0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "60fe2343",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "61097f63",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "613398ae",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "614faef8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "61c3cc13",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "61e55d8a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "61fe2536",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "62016add",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "620980d6",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "62301733",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "625dc533",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "62c25206",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "62fe26a9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "63181a08",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "633018a6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "634fb1de",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "635dc6a6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6397df94",
+      "bank_id": "20499600",
+      "text": "Darp x%d"
+    },
+    {
+      "id": "63c3cf79",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "63fe281c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "64301a19",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "64339d67",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "644fb3b1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6456193f",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "645dc819",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "648a61db",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "64c3d0ec",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "64cd2e73",
+      "bank_id": "20499600",
+      "text": "Huzuru Bozma"
+    },
+    {
+      "id": "64fe298f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "65181d6e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "65301b8c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "65339eda",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "655dc98c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "658a634e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "65c42c70",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "65fe2b62",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "66167e60",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "66181ec1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6633a04d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "664fb697",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "665dcb7f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "666768d0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "668a6521",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "66c3d432",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "671820b4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "675dccd2",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "678a6694",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "67969023",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "67c3d5a5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "67c42f56",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "67d21dce",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "68182227",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "688a6807",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "68969196",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "68c430c9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "69222740",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "698a69fa",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "69969309",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "69c432bc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "69d22114",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6a18250d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6a54bd76",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "6a5e07f3",
+      "bank_id": "20499600",
+      "text": "Çalıntı Mal Ticareti x%d"
+    },
+    {
+      "id": "6a9694fc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6ac4342f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6ad22287",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6b67708f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6b96966f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6c677262",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6c9697c2",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6cc43775",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6cd225ed",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6cd86a50",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6d6773d5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6dd86bc3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6dfe37da",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6e6f9a80",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6ed86db6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6efe394d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6f3c4fa8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "6f6f9ffe",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "706f9de6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "713c528e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "716f9f59",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "71a36ffd",
+      "bank_id": "20499600",
+      "text": "Üç hobbe'yi öldürün!"
+    },
+    {
+      "id": "723c5461",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "726fa0cc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7321f2b0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "733c55d4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "736fa2bf",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7385eb60",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "73d87555",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7421f423",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "743c5747",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7485ecd3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7521f596",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "756fa585",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7585ee46",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "763c5aad",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "76dc21f8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "777c5d17",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "77dc236b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "786aeb87",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "7885f31f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "78ad77a8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "78dc24de",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "79755845",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "7985f4f2",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "79ad791b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "79afeb50",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "7a85f665",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7ac490c2",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "7bad7c61",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7bb6cf06",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7bdc2997",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7bf88c5f",
+      "bank_id": "20499600",
+      "text": "Kof Adam"
+    },
+    {
+      "id": "7cad7dd4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7cdc2b0a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7d2d59a2",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "7ddc2cfd",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7e91f580",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "7ea4ab1b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7ead813a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7ef68f4b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7fa4ac8e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7fad82ad",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "7ff6913e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "80a4ae61",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "80f69291",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "81a4afd4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "81f69404",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "823b37f0",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "823eff00",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "82a4b147",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "82f695f7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "833f00f3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8353506c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "83a4b33a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "83f6976a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "843f0266",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "84ae1ab8",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "84d5ac1f",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "86535525",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "873f073f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "87ae1f71",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "883f0892",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "88e4ee42",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "893cbe53",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "893f0a05",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "89e4f035",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8a3cbfc6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8ae4f1a8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8b3cc1b9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8bb684a0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8be4f31b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8c3cc32c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8ce4f48e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8db68786",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8dce8538",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8de4f661",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8e7d5c9e",
+      "bank_id": "20499600",
+      "text": "İzinsiz Giriş"
+    },
+    {
+      "id": "8eb68979",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8ee4f7d4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8eefac00",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8f776fcc",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "8fb68aec",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8fce881e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8fe4f947",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "8fefadf3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "90265009",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "90b68c5f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "90ce89f1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "90e4fb3a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "90efaf66",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "916912f0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "916dfe88",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "91ce8b64",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "92691463",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "926e007b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "92b68fa5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "92ce8cd7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "92e5548f",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "93a1fdcd",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "93e55662",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "94691749",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "946e0341",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "94ce903d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "9569193c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "956e0534",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "96691aaf",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "96f11fee",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "97691c02",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "976e081a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "97977db5",
+      "bank_id": "20499600",
+      "text": "Muhafızlara suç işleyerek şartlı tahliyenizi ihlal ettiğiniz bildirildi. Kamu hizmetinizi tamamlayamadınız."
+    },
+    {
+      "id": "98691df5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "986e098d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "99d8469c",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "9b382fa3",
+      "bank_id": "20499600",
+      "text": "Sarhoşluk ve Taşkınlık x%d"
+    },
+    {
+      "id": "9b69224e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "9c692421",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "9f6c1048",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "9fb847f0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a0b84963",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a1b84ad6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a2a3b580",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a2b84c49",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a3447ba5",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "a3796026",
+      "bank_id": "20499600",
+      "text": "İflas"
+    },
+    {
+      "id": "a392fefc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a3a3b773",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a3deb0bb",
+      "bank_id": "20499600",
+      "text": "DLC Paketi Adı 4"
+    },
+    {
+      "id": "a3deb0bc",
+      "bank_id": "20499600",
+      "text": "DLC Paketi Adı 3"
+    },
+    {
+      "id": "a3deb0bd",
+      "bank_id": "20499600",
+      "text": "Geleceği Gör"
+    },
+    {
+      "id": "a3deb0be",
+      "bank_id": "20499600",
+      "text": "Knothole Adası"
+    },
+    {
+      "id": "a4a3b8e6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a4b84faf",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a50be71b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a5b85102",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a60be88e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a6b852f5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a6c94265",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a70bea61",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a7a3bdbf",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a80bebd4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a8a3bf12",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a90bed47",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "a943876e",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "a9a3c085",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "aa0bef3a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "aba6fcc5",
+      "bank_id": "20499600",
+      "text": "Daha önce kanunları çiğnerken hiç görülmemiştiniz."
+    },
+    {
+      "id": "abb224b0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "abb85a94",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ac082e35",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "acb22623",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "acb85c07",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ad2d13e8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ad4687f0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ad8724ac",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "ae2d155b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ae3d648b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "aeb22909",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "af2d16ce",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "afb22afc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b1b22dc2",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b22d1b87",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b2468faf",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b2b22fb5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b2c945ab",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b32d1d7a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b3469102",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b3c9471e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b3e9b987",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "b42d1eed",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b44692f5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b4aa64b8",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "b4c948f1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b589c2ee",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b5c94a64",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b61404e8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b6c94bd7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b6e74b0b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b789c634",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b7b4cb22",
+      "bank_id": "20499600",
+      "text": "Şartlı Tahliye İhlali x%d"
+    },
+    {
+      "id": "b7c94d4a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b7e74cfe",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b8026ce4",
+      "bank_id": "20499600",
+      "text": "Mezar Soygunculuğu x%d"
+    },
+    {
+      "id": "b82540a0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b83fd314",
+      "bank_id": "20499600",
+      "text": "Ağır Ödeme İhmali"
+    },
+    {
+      "id": "b889c7a7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b8e74e51",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b93c92f8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "b9e74fc4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ba254386",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ba3c946b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ba89ca8d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bae751b7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bb140c87",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bb1b6405",
+      "bank_id": "20499600",
+      "text": "Tebrikler. Kamu hizmetiniz tamamlandı."
+    },
+    {
+      "id": "bb254579",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bb3c95de",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bb837863",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bbb90fa8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bbbea6e8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bbd509bb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bc140e7a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bc2546ec",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bc8379d6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bcb9111b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bcbea85b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bcd50b2e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bd140fed",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bd25485f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bd5d39c8",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "bd837b49",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bd8de160",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bdbea9ce",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bdd50c81",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "be5506ce",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "be837d3c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "be8de2d3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "beb91461",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bed50e74",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bf254ba5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bf441000",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bf837eaf",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bf8de446",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bfb915d4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "bfd50fe7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c04411f3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c0838002",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c0beae87",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c0d5115a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c155a9c8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c1b9193a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c1beb07a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c1ef3ec6",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "c24414d9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c255abbb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c28de91f",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c2b91aad",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c2beb1ed",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c31e0d78",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c344164c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c38deaf2",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c41e0eeb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c455ae81",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c48dec65",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c4b10cd8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c53e388b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c5441992",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c555b074",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c5b10e4b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c61e1231",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c63368f9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c63e3a7e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c6441b05",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c6ad4e1b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c71e13a4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c7336a6c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c73e3bd1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c755b35a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c7ad4f8e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c7b11191",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c8336bdf",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c83e3d44",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c854e9f3",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "c855b4cd",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c8ad5161",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c9016a58",
+      "bank_id": "20499600",
+      "text": "Burada mevcut kamu hizmeti görevi bulunmamaktadır."
+    },
+    {
+      "id": "c91e168a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c9336db2",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c93e3f37",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "c9ad52d4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ca1e187d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ca3e40aa",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "caad5447",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cab1166a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cbad563a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cc6f1ba2",
+      "bank_id": "20499600",
+      "text": "Avarelik"
+    },
+    {
+      "id": "cc772838",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cd21b116",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "cd477c1b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cd7729ab",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ce477d8e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cf477f61",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "cf772cf1",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d04780d4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d1954dd0",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "d277314a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d30d4e78",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d40d4feb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d60d5331",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d65d0ee8",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "d70d54a4",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d7e7e8c0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d85d11ce",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "d894a1d6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d8c9f615",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "d8e7eab3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d90d578a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d95d13a1",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "d994a349",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "d9e7ec26",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "da0d597d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "da94a53c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "db94a6af",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "dc94a802",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "dde0c0f8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "dee0c26b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "dee7f3c5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "dfe0c3de",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e10052ee",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "e18d649f",
+      "bank_id": "20499600",
+      "text": "Üç haydutu öldürün!"
+    },
+    {
+      "id": "e1ad45d0",
+      "bank_id": "20499600",
+      "text": "Mezar Soygunculuğu"
+    },
+    {
+      "id": "e1e22a91",
+      "bank_id": "20499600",
+      "text": "Haraç Kesme x%d"
+    },
+    {
+      "id": "e2e0c897",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e3c5a158",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e3e0ca0a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e494a09a",
+      "bank_id": "20499600",
+      "text": "Cinayet"
+    },
+    {
+      "id": "e4c5a2cb",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e4e0cbfd",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e4ec7d5a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e5110cc0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e5c5a4be",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e6110eb3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e6ded79e",
+      "bank_id": "20499600",
+      "text": "Vandalizm x%d"
+    },
+    {
+      "id": "e7ef9ea8",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e8111199",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e846bd78",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e8c5a977",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e902f9e0",
+      "bank_id": "20499600",
+      "text": "Suçlama:"
+    },
+    {
+      "id": "e911130c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e96c07dc",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "e9c5aaea",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "e9efa18e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ea46c05e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "eac5ac5d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "eaefa361",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "eb111652",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "eb46c231",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ec1117c5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ecbe7d9e",
+      "bank_id": "20499600",
+      "text": "Cinayet x%d"
+    },
+    {
+      "id": "ecefa647",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ecf02866",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "ed46c517",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "eddf44ba",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "ef1e4810",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f0035a9a",
+      "bank_id": "20499600",
+      "text": "Vandalizm"
+    },
+    {
+      "id": "f017754e",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f02bce0a",
+      "bank_id": "20499600",
+      "text": "İzinsiz Giriş x%d"
+    },
+    {
+      "id": "f0fffff0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f11e4b76",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f1ce20f0",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f2177894",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f21e4ce9",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f227b777",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "f2ce2263",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f2d130a7",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "f30002d6",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f3177a07",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f4000449",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f43937bb",
+      "bank_id": "20499600",
+      "text": "Açık Saçıklık x%d"
+    },
+    {
+      "id": "f45f94c5",
+      "bank_id": "20499600",
+      "text": "Cinayete Teşebbüs x%d"
+    },
+    {
+      "id": "f4ce2549",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f500063c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f5177d6d",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f5ce273c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f60007af",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f7ce2a02",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f8000af5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f858f397",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "f8865a56",
+      "bank_id": "20499600",
+      "text": "Animasyon"
+    },
+    {
+      "id": "f8ce2bf5",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f9484ccb",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "f958f50a",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "f97f5730",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f982e588",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "f9e1b61d",
+      "bank_id": "20499600",
+      "text": "Gözaltına Direnme"
+    },
+    {
+      "id": "fa050880",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fa58f6fd",
+      "bank_id": "20499600",
+      "text": "Çeşitli"
+    },
+    {
+      "id": "fa7f58a3",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fa82e77b",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fb050a73",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fb82e8ee",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fc7f5b89",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fd050d59",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fd7f5d7c",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fe050ecc",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fe82eda7",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ff7f6042",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "ff82ef1a",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fff7d380",
+      "bank_id": "20499600",
+      "text": "Dövüş"
+    }
+  ]
+}

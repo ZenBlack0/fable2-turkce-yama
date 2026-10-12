@@ -1,0 +1,806 @@
+{
+  "bank_id": "d0309601",
+  "total_strings": 160,
+  "strings": [
+    {
+      "id": "00ebe0e0",
+      "bank_id": "d0309601",
+      "text": "Canavarları kimin öldüreceği konusunda hiç kavga ettiğiniz oluyor mu?"
+    },
+    {
+      "id": "00ebe0e2",
+      "bank_id": "d0309601",
+      "text": "Silahlarınızı birbiriyle paylaşıyor musunuz?"
+    },
+    {
+      "id": "00ebe0e3",
+      "bank_id": "d0309601",
+      "text": "Eee, siz ikiniz birlikte misiniz?"
+    },
+    {
+      "id": "00ebe0e4",
+      "bank_id": "d0309601",
+      "text": "Yanınızda epey bir deneyim taşıyor olmalısınız."
+    },
+    {
+      "id": "00ebe0e5",
+      "bank_id": "d0309601",
+      "text": "Büyük bir savaşta yanında dövüşen birinin daha olmasından zarar gelmez değil mi?"
+    },
+    {
+      "id": "00ebe0e6",
+      "bank_id": "d0309601",
+      "text": "Geçmişte ikinizden sadece birinizi görmüş olmam ne tuhaf. Arkadaşın nereli?"
+    },
+    {
+      "id": "00ebe0e7",
+      "bank_id": "d0309601",
+      "text": "Başka diyarlardan bir misafire sahip olmak hoş bir duygu olsa gerek, değil mi?"
+    },
+    {
+      "id": "0cf5e7e0",
+      "bank_id": "d0309601",
+      "text": "Tam bir holigan ikilisiniz!"
+    },
+    {
+      "id": "0cf5e7e1",
+      "bank_id": "d0309601",
+      "text": "İkinize de tahammül edemiyorum."
+    },
+    {
+      "id": "0cf5e7e3",
+      "bank_id": "d0309601",
+      "text": "Ne kadar iğrenç bir ikili olmuşsunuz öyle."
+    },
+    {
+      "id": "0cf5e7e4",
+      "bank_id": "d0309601",
+      "text": "İkinizin de korkunç bir ölümle ölmesini tüm kalbimle dilerim."
+    },
+    {
+      "id": "0cf5e7e5",
+      "bank_id": "d0309601",
+      "text": "Tarihte bundan daha beter bir haydut ikilisi olamaz."
+    },
+    {
+      "id": "0cf5e7e6",
+      "bank_id": "d0309601",
+      "text": "İkiniz birbirinizi hak ediyorsunuz."
+    },
+    {
+      "id": "0cf5e7e7",
+      "bank_id": "d0309601",
+      "text": "Hanginizden daha çok nefret ettiğimi bilmiyorum bile."
+    },
+    {
+      "id": "13b0c050",
+      "bank_id": "d0309601",
+      "text": "Topraklarımıza böyle haydutları getirmemelisin. O günahkâr bir canavar."
+    },
+    {
+      "id": "13b0c051",
+      "bank_id": "d0309601",
+      "text": "Bu kadın yoldaşının senin üzerindeki zararlı etkisinden endişe duyuyorum."
+    },
+    {
+      "id": "13b0c052",
+      "bank_id": "d0309601",
+      "text": "Şu dostun hepimizin başına felaket getirecek. Tepeden tırnağa yozlaşmış."
+    },
+    {
+      "id": "13b0c053",
+      "bank_id": "d0309601",
+      "text": "Neden böyle bir kötülükle dolaşıyorsun ki? Baş belası olduğunu anlamıyor musun?"
+    },
+    {
+      "id": "13b0c054",
+      "bank_id": "d0309601",
+      "text": "Gördüğüm en habis kadınlardan biri. Dostun tam olarak bu işte."
+    },
+    {
+      "id": "13b0c055",
+      "bank_id": "d0309601",
+      "text": "Şu dostun pek bir tekinsiz görünüyor vallahi."
+    },
+    {
+      "id": "13f5f2e0",
+      "bank_id": "d0309601",
+      "text": "Siz iki canavar ne kadar iğrenç bir ortaklık kurmuşsunuz öyle."
+    },
+    {
+      "id": "13f5f2e1",
+      "bank_id": "d0309601",
+      "text": "Ne kadar aşağılık bir çift olmuşsunuz."
+    },
+    {
+      "id": "13f5f2e2",
+      "bank_id": "d0309601",
+      "text": "İkinizle de vakit geçireceğime kolumu keserim daha iyi."
+    },
+    {
+      "id": "13f5f2e3",
+      "bank_id": "d0309601",
+      "text": "İkinizin de yüzünü görmeye katlanamayan tek kişi ben miyim?"
+    },
+    {
+      "id": "13f5f2e4",
+      "bank_id": "d0309601",
+      "text": "Her gün o kadar insan ölüyor. Ve siz ikiniz buradasınız. Canlı canlı."
+    },
+    {
+      "id": "13f5f2e5",
+      "bank_id": "d0309601",
+      "text": "İkiniz midemi bulandırıyorsunuz!"
+    },
+    {
+      "id": "13f5f2e6",
+      "bank_id": "d0309601",
+      "text": "Olamaz, yine siz ikiniz..."
+    },
+    {
+      "id": "328b6303",
+      "bank_id": "d0309601",
+      "text": "İki oyuncu mu? Bu kurallara aykırı."
+    },
+    {
+      "id": "328b6305",
+      "bank_id": "d0309601",
+      "text": "Hm, iki kişisiniz ha? Belli ki hile tezgâhı kurmuşsunuz. Benim masamda sökmez."
+    },
+    {
+      "id": "328b6306",
+      "bank_id": "d0309601",
+      "text": "İki oyuncu için yeterince yerim olduğunu sanmıyorum. Kusura bakmayın!"
+    },
+    {
+      "id": "342162a0",
+      "bank_id": "d0309601",
+      "text": "Ben sadece kendi işime bakıyorum ey efendiler."
+    },
+    {
+      "id": "342162a1",
+      "bank_id": "d0309601",
+      "text": "Oh, şey, bana aldırmayın ey ulu maceracılar..."
+    },
+    {
+      "id": "342162a2",
+      "bank_id": "d0309601",
+      "text": "Oh, ikiniz de öyle... büyüksünüz ki."
+    },
+    {
+      "id": "342162a4",
+      "bank_id": "d0309601",
+      "text": "Aah, umarım ikinizi de rahatsız etmiyorumdur..."
+    },
+    {
+      "id": "342162a5",
+      "bank_id": "d0309601",
+      "text": "Ben... Umarım ikiniz de bana zarar vermezsiniz."
+    },
+    {
+      "id": "342162a6",
+      "bank_id": "d0309601",
+      "text": "Ne kadar, şey, ulu savaşçılarsınız..."
+    },
+    {
+      "id": "342162a7",
+      "bank_id": "d0309601",
+      "text": "Ben hemen ikinizin de yolundan çekileyim..."
+    },
+    {
+      "id": "3d217088",
+      "bank_id": "d0309601",
+      "text": "Yalvarırım, ikiniz de çok korkunçsunuz... bana zarar vermeyin..."
+    },
+    {
+      "id": "3d217089",
+      "bank_id": "d0309601",
+      "text": "Oh! Uuuuh! Ne kadar haşmetli maceracılarsınız ikiniz de..."
+    },
+    {
+      "id": "3d21708a",
+      "bank_id": "d0309601",
+      "text": "Ayağınıza dolanmama izin vermeyin ey ulu kişiler."
+    },
+    {
+      "id": "3d21708b",
+      "bank_id": "d0309601",
+      "text": "İkiniz de saygımı hak ediyorsunuz. Evet, hak ediyorsunuz..."
+    },
+    {
+      "id": "3d21708c",
+      "bank_id": "d0309601",
+      "text": "Ben, şey, ikinizin önünde eğiliyorum! Yeter ki bana dokunmayın!"
+    },
+    {
+      "id": "3d21708d",
+      "bank_id": "d0309601",
+      "text": "Lütfen, ikinizin de beni öldürebileceğini biliyorum... Ama yapmayın!"
+    },
+    {
+      "id": "3d21708f",
+      "bank_id": "d0309601",
+      "text": "İkiniz de öyle... harikasınız ki... Ahh, evet..."
+    },
+    {
+      "id": "43c9adc8",
+      "bank_id": "d0309601",
+      "text": "Oh, ikiniz de öyle... harikasınız ki."
+    },
+    {
+      "id": "43c9adca",
+      "bank_id": "d0309601",
+      "text": "Ben sadece kendi işime bakıyorum ey efendiler."
+    },
+    {
+      "id": "43c9adcb",
+      "bank_id": "d0309601",
+      "text": "Oh, şey, bana aldırmayın ey ulu maceracılar..."
+    },
+    {
+      "id": "43c9adcc",
+      "bank_id": "d0309601",
+      "text": "Ne kadar, şey, ulu savaşçılarsınız..."
+    },
+    {
+      "id": "43c9adcd",
+      "bank_id": "d0309601",
+      "text": "Ben hemen ikinizin de yolundan çekileyim..."
+    },
+    {
+      "id": "43c9adce",
+      "bank_id": "d0309601",
+      "text": "Aah, umarım ikinizi de rahatsız etmiyorumdur..."
+    },
+    {
+      "id": "43c9adcf",
+      "bank_id": "d0309601",
+      "text": "Ben... Umarım ikiniz de bana zarar vermezsiniz."
+    },
+    {
+      "id": "48c9b5e9",
+      "bank_id": "d0309601",
+      "text": "İkiniz de öyle... harikasınız ki... Ahh, evet..."
+    },
+    {
+      "id": "48c9b5ea",
+      "bank_id": "d0309601",
+      "text": "Ben, şey, ikinizin önünde eğiliyorum! Yeter ki bana dokunmayın!"
+    },
+    {
+      "id": "48c9b5eb",
+      "bank_id": "d0309601",
+      "text": "Lütfen, ikinizin de beni öldürebileceğini biliyorum... Ama yapmayın!"
+    },
+    {
+      "id": "48c9b5ec",
+      "bank_id": "d0309601",
+      "text": "Ayağınıza dolanmama izin vermeyin ey ulu kişiler."
+    },
+    {
+      "id": "48c9b5ed",
+      "bank_id": "d0309601",
+      "text": "İkiniz de saygımı hak ediyorsunuz. Evet, hak ediyorsunuz..."
+    },
+    {
+      "id": "48c9b5ee",
+      "bank_id": "d0309601",
+      "text": "Yalvarırım, ikiniz de çok korkunçsunuz... bana zarar vermeyin..."
+    },
+    {
+      "id": "48c9b5ef",
+      "bank_id": "d0309601",
+      "text": "Oh! Uuuuh! Ne kadar haşmetli maceracılarsınız ikiniz de..."
+    },
+    {
+      "id": "57598918",
+      "bank_id": "d0309601",
+      "text": "Arkadaşın çok ahlaklı bir kadına benziyor."
+    },
+    {
+      "id": "5759891a",
+      "bank_id": "d0309601",
+      "text": "Arkadaşın dürüst bir insana benziyor, değil mi?"
+    },
+    {
+      "id": "5759891b",
+      "bank_id": "d0309601",
+      "text": "Bahse girerim arkadaşın rahibe olacak kadar erdemlidir, değil mi?"
+    },
+    {
+      "id": "5759891c",
+      "bank_id": "d0309601",
+      "text": "Ah, asil bir ruhu var arkadaşının."
+    },
+    {
+      "id": "5759891d",
+      "bank_id": "d0309601",
+      "text": "Şu arkadaşının kötü bir şey yapmasına imkân yok. İyi bir insan o."
+    },
+    {
+      "id": "5759891e",
+      "bank_id": "d0309601",
+      "text": "Yoldaşın son derece onurlu bir kadına benziyor."
+    },
+    {
+      "id": "5759891f",
+      "bank_id": "d0309601",
+      "text": "Arkadaşının tertemiz ruhu gerçekten takdire şayan."
+    },
+    {
+      "id": "5c599139",
+      "bank_id": "d0309601",
+      "text": "Bugünlerde çok erdemli insanlarla arkadaşlık ettiğini görüyorum."
+    },
+    {
+      "id": "5c59913a",
+      "bank_id": "d0309601",
+      "text": "Arkadaşın göründüğü kadar faziletli mi bari?"
+    },
+    {
+      "id": "5c59913b",
+      "bank_id": "d0309601",
+      "text": "Arkadaşın iyi olmanın en doğru yol olduğunu biliyor, değil mi?"
+    },
+    {
+      "id": "5c59913c",
+      "bank_id": "d0309601",
+      "text": "Gerçekten güvenebileceğin birine benziyor şu arkadaşın."
+    },
+    {
+      "id": "5c59913d",
+      "bank_id": "d0309601",
+      "text": "Dürüst bir vatandaş şu arkadaşın, değil mi?"
+    },
+    {
+      "id": "5c59913e",
+      "bank_id": "d0309601",
+      "text": "Ortağında derinden gelen bir ahlak var."
+    },
+    {
+      "id": "5c59913f",
+      "bank_id": "d0309601",
+      "text": "Onun gibi ilkeli insanlarla takıldığını görmek beni mutlu ediyor."
+    },
+    {
+      "id": "770f47f0",
+      "bank_id": "d0309601",
+      "text": "Şu arkadaşın tekinsiz bir tip bilesin. Gözünden anlarım."
+    },
+    {
+      "id": "770f47f1",
+      "bank_id": "d0309601",
+      "text": "Onun gibi pis bir adamı nereden buldun öyle?"
+    },
+    {
+      "id": "770f47f2",
+      "bank_id": "d0309601",
+      "text": "Yoldaşından resmen ahlaksızlık kokusu yayılıyor."
+    },
+    {
+      "id": "770f47f3",
+      "bank_id": "d0309601",
+      "text": "Arkadaşının etrafında tam bir kötülük aurası var. Çok acımasız biri o."
+    },
+    {
+      "id": "770f47f4",
+      "bank_id": "d0309601",
+      "text": "Şu arkadaşın kadar kötü bir varlığı hayatımda hissetmedim."
+    },
+    {
+      "id": "770f47f6",
+      "bank_id": "d0309601",
+      "text": "Şu arkadaşında zerre kalp yok. Baştan aşağı kötülük dolu."
+    },
+    {
+      "id": "770f47f7",
+      "bank_id": "d0309601",
+      "text": "Arkadaşın sanki saf kötülükten yapılmış gibi duruyor!"
+    },
+    {
+      "id": "7c0f4f90",
+      "bank_id": "d0309601",
+      "text": "Neden böyle bir kötülükle dolaşıyorsun ki? Baş belası olduğunu anlamıyor musun?"
+    },
+    {
+      "id": "7c0f4f91",
+      "bank_id": "d0309601",
+      "text": "Şu dostun hepimizin başına felaket getirecek. Tepeden tırnağa yozlaşmış."
+    },
+    {
+      "id": "7c0f4f92",
+      "bank_id": "d0309601",
+      "text": "Bu yeni yoldaşının senin üzerindeki zararlı etkisinden endişe duyuyorum."
+    },
+    {
+      "id": "7c0f4f93",
+      "bank_id": "d0309601",
+      "text": "Topraklarımıza böyle haydutları getirmemelisin. O günahkâr bir canavar."
+    },
+    {
+      "id": "7c0f4f95",
+      "bank_id": "d0309601",
+      "text": "Şu dostunun tamamen yoldan çıktığını bir bakışta anlarsın. Şuna baksana bir."
+    },
+    {
+      "id": "7c0f4f96",
+      "bank_id": "d0309601",
+      "text": "Şu dostun pek bir tekinsiz görünüyor."
+    },
+    {
+      "id": "7c0f4f97",
+      "bank_id": "d0309601",
+      "text": "Gördüğüm en habis adamlardan biri. Dostun tam olarak bu işte."
+    },
+    {
+      "id": "92ec2f2d",
+      "bank_id": "d0309601",
+      "text": "Görünüşe göre arkadaşın iyi biri olmaktan zevk alıyor. Ne ezik ama."
+    },
+    {
+      "id": "a5eeac50",
+      "bank_id": "d0309601",
+      "text": "Bahse girerim arkadaşın keşiş olacak kadar erdemlidir, değil mi?"
+    },
+    {
+      "id": "a5eeac51",
+      "bank_id": "d0309601",
+      "text": "Arkadaşın dürüst bir insana benziyor, değil mi?"
+    },
+    {
+      "id": "a5eeac53",
+      "bank_id": "d0309601",
+      "text": "Bugünlerde çok erdemli insanlarla arkadaşlık ettiğini görüyorum."
+    },
+    {
+      "id": "a5eeac54",
+      "bank_id": "d0309601",
+      "text": "Yoldaşın son derece onurlu bir adama benziyor."
+    },
+    {
+      "id": "a5eeac55",
+      "bank_id": "d0309601",
+      "text": "Arkadaşının tertemiz ruhu gerçekten takdire şayan."
+    },
+    {
+      "id": "a5eeac56",
+      "bank_id": "d0309601",
+      "text": "Şu arkadaşının kötü bir şey yapmasına imkân yok. İyi bir insan o."
+    },
+    {
+      "id": "a5eeac57",
+      "bank_id": "d0309601",
+      "text": "Ah, asil bir ruhu var arkadaşının."
+    },
+    {
+      "id": "ab08f700",
+      "bank_id": "d0309601",
+      "text": "İkinizin de burada olduğuna inanamıyorum!"
+    },
+    {
+      "id": "ab08f701",
+      "bank_id": "d0309601",
+      "text": "Ne muazzam bir ikili olmuşsunuz siz öyle!"
+    },
+    {
+      "id": "ab08f702",
+      "bank_id": "d0309601",
+      "text": "İkinizi de gördüğüme öyle heyecanlandım ki!"
+    },
+    {
+      "id": "ab08f704",
+      "bank_id": "d0309601",
+      "text": "Albion'un sunabileceği en seçkin maceracılarsınız."
+    },
+    {
+      "id": "ab08f705",
+      "bank_id": "d0309601",
+      "text": "İkinizi bir arada görmek ne kadar şahane bir an."
+    },
+    {
+      "id": "ab08f706",
+      "bank_id": "d0309601",
+      "text": "İkinizi görmek günümü aydınlattı doğrusu."
+    },
+    {
+      "id": "ab08f707",
+      "bank_id": "d0309601",
+      "text": "İkinizi de her zaman çok sevmişimdir."
+    },
+    {
+      "id": "aceeb750",
+      "bank_id": "d0309601",
+      "text": "Onun gibi ilkeli insanlarla takıldığını görmek beni mutlu ediyor."
+    },
+    {
+      "id": "aceeb751",
+      "bank_id": "d0309601",
+      "text": "Ortağında derinden gelen bir ahlak var."
+    },
+    {
+      "id": "aceeb752",
+      "bank_id": "d0309601",
+      "text": "Dürüst bir vatandaş şu arkadaşın, değil mi?"
+    },
+    {
+      "id": "aceeb754",
+      "bank_id": "d0309601",
+      "text": "Arkadaşın iyi olmanın en doğru yol olduğunu biliyor, değil mi?"
+    },
+    {
+      "id": "aceeb755",
+      "bank_id": "d0309601",
+      "text": "Arkadaşın adeta bir erdem timsali gibi duruyor. Gerçekten öyle mi?"
+    },
+    {
+      "id": "aceeb756",
+      "bank_id": "d0309601",
+      "text": "Arkadaşın çok ahlaklı bir adama benziyor."
+    },
+    {
+      "id": "b4090568",
+      "bank_id": "d0309601",
+      "text": "Diyarda birlikte yürüyorsunuz ve biz ikinizi birden selamlıyoruz."
+    },
+    {
+      "id": "b4090569",
+      "bank_id": "d0309601",
+      "text": "Bu dünyayı güzelleştiren sizin gibi insanlar işte."
+    },
+    {
+      "id": "b409056a",
+      "bank_id": "d0309601",
+      "text": "Harika bir maceracı ikilisiniz doğrusu."
+    },
+    {
+      "id": "b409056b",
+      "bank_id": "d0309601",
+      "text": "İkiniz kadar lokum gibi pek az insan vardır."
+    },
+    {
+      "id": "b409056c",
+      "bank_id": "d0309601",
+      "text": "Ne harika bir maceracı ikilisi!"
+    },
+    {
+      "id": "b409056d",
+      "bank_id": "d0309601",
+      "text": "Gerçekten harikasınız. İkiniz de."
+    },
+    {
+      "id": "b409056f",
+      "bank_id": "d0309601",
+      "text": "İkiniz de çok büyüksünüz."
+    },
+    {
+      "id": "b8a6c7c1",
+      "bank_id": "d0309601",
+      "text": "Ne kadar iğrenç bir ikili olmuşsunuz öyle."
+    },
+    {
+      "id": "b8a6c7c2",
+      "bank_id": "d0309601",
+      "text": "İkiniz midemi bulandırıyorsunuz!"
+    },
+    {
+      "id": "b8a6c7c3",
+      "bank_id": "d0309601",
+      "text": "İkinize de tahammül edemiyorum."
+    },
+    {
+      "id": "b8a6c7c4",
+      "bank_id": "d0309601",
+      "text": "İkiniz birbirinizi hak ediyorsunuz."
+    },
+    {
+      "id": "b8a6c7c5",
+      "bank_id": "d0309601",
+      "text": "Hanginizden daha çok nefret ettiğimi bilmiyorum bile."
+    },
+    {
+      "id": "b8a6c7c6",
+      "bank_id": "d0309601",
+      "text": "İkinizin de korkunç bir ölümle ölmesini tüm kalbimle dilerim."
+    },
+    {
+      "id": "b8a6c7c7",
+      "bank_id": "d0309601",
+      "text": "Tarihte bundan daha beter bir haydut ikilisi olamaz."
+    },
+    {
+      "id": "c3a6d970",
+      "bank_id": "d0309601",
+      "text": "Olamaz, yine siz ikiniz..."
+    },
+    {
+      "id": "c3a6d972",
+      "bank_id": "d0309601",
+      "text": "Her gün o kadar insan ölüyor. Ve siz ikiniz buradasınız. Canlı canlı."
+    },
+    {
+      "id": "c3a6d973",
+      "bank_id": "d0309601",
+      "text": "Tam bir holigan ikilisiniz!"
+    },
+    {
+      "id": "c3a6d974",
+      "bank_id": "d0309601",
+      "text": "İkinizle de vakit geçireceğime kolumu keserim daha iyi."
+    },
+    {
+      "id": "c3a6d975",
+      "bank_id": "d0309601",
+      "text": "İkinizin de yüzünü görmeye katlanamayan tek kişi ben olamam."
+    },
+    {
+      "id": "c3a6d976",
+      "bank_id": "d0309601",
+      "text": "Siz iki canavar ne kadar iğrenç bir ortaklık kurmuşsunuz öyle."
+    },
+    {
+      "id": "c3a6d977",
+      "bank_id": "d0309601",
+      "text": "Ne kadar aşağılık bir çift olmuşsunuz."
+    },
+    {
+      "id": "cafa9308",
+      "bank_id": "d0309601",
+      "text": "Harika bir maceracı ikilisiniz doğrusu."
+    },
+    {
+      "id": "cafa9309",
+      "bank_id": "d0309601",
+      "text": "İkiniz kadar lokum gibi pek az insan vardır."
+    },
+    {
+      "id": "cafa930a",
+      "bank_id": "d0309601",
+      "text": "Diyarda birlikte yürüyorsunuz ve ikinizi de selamlıyorum."
+    },
+    {
+      "id": "cafa930b",
+      "bank_id": "d0309601",
+      "text": "Bu dünyayı güzelleştiren sizin gibi insanlar işte."
+    },
+    {
+      "id": "cafa930d",
+      "bank_id": "d0309601",
+      "text": "İkiniz de çok harikasınız."
+    },
+    {
+      "id": "cafa930e",
+      "bank_id": "d0309601",
+      "text": "Ne muazzam bir ikili olmuşsunuz siz öyle!"
+    },
+    {
+      "id": "cafa930f",
+      "bank_id": "d0309601",
+      "text": "Gerçekten harikasınız. İkiniz de."
+    },
+    {
+      "id": "d1509511",
+      "bank_id": "d0309601",
+      "text": "İkinize birden yerim olduğunu mu sanıyorsunuz? Yok işte."
+    },
+    {
+      "id": "d1509514",
+      "bank_id": "d0309601",
+      "text": "Masada ikiniz için de yeterince yer yok maalesef."
+    },
+    {
+      "id": "d1509517",
+      "bank_id": "d0309601",
+      "text": "İki oyuncu için yeterli yer yok."
+    },
+    {
+      "id": "d4def092",
+      "bank_id": "d0309601",
+      "text": "Yanınızda epey bir deneyim taşıyor olmalısınız."
+    },
+    {
+      "id": "d4def093",
+      "bank_id": "d0309601",
+      "text": "Büyük bir savaşta yanında dövüşen birinin daha olmasından zarar gelmez değil mi?"
+    },
+    {
+      "id": "d4def094",
+      "bank_id": "d0309601",
+      "text": "Silahlarınızı birbiriyle paylaşıyor musunuz?"
+    },
+    {
+      "id": "d4def095",
+      "bank_id": "d0309601",
+      "text": "Siz ikiniz ne zamandır birlikte seyahat ediyorsunuz?"
+    },
+    {
+      "id": "d4def096",
+      "bank_id": "d0309601",
+      "text": "Canavarları kimin öldüreceği konusunda hiç kavga ettiğiniz oluyor mu?"
+    },
+    {
+      "id": "d5faa4b8",
+      "bank_id": "d0309601",
+      "text": "İkinizi görmek günümü aydınlattı doğrusu."
+    },
+    {
+      "id": "d5faa4b9",
+      "bank_id": "d0309601",
+      "text": "İkinizi de her zaman çok sevmişimdir."
+    },
+    {
+      "id": "d5faa4ba",
+      "bank_id": "d0309601",
+      "text": "Albion'un sunabileceği en seçkin maceracılarsınız."
+    },
+    {
+      "id": "d5faa4bb",
+      "bank_id": "d0309601",
+      "text": "İkinizi bir arada görmek ne kadar şahane bir an."
+    },
+    {
+      "id": "d5faa4bc",
+      "bank_id": "d0309601",
+      "text": "İkinizi de gördüğüme öyle heyecanlandım ki!"
+    },
+    {
+      "id": "d5faa4be",
+      "bank_id": "d0309601",
+      "text": "İkinizin de burada olduğuna inanamıyorum!"
+    },
+    {
+      "id": "d5faa4bf",
+      "bank_id": "d0309601",
+      "text": "Ne harika bir maceracı ikilisi!"
+    },
+    {
+      "id": "e67d1410",
+      "bank_id": "d0309601",
+      "text": "İki oyuncu mu? Kusura bakmayın, ikinizi birden alamam."
+    },
+    {
+      "id": "e67d1413",
+      "bank_id": "d0309601",
+      "text": "İkinizin birden oynamasına izin veremem. Üzgünüm. Masa kuralları."
+    },
+    {
+      "id": "e67d1416",
+      "bank_id": "d0309601",
+      "text": "Birlikte gelen iki oyuncuya güvenmem. Yıkılın karşımdan."
+    },
+    {
+      "id": "f5ebcfb1",
+      "bank_id": "d0309601",
+      "text": "Bahse girerim ikiniz de payınıza düşen savaşı fazlasıyla görmüşsünüzdür."
+    },
+    {
+      "id": "f5ebcfb2",
+      "bank_id": "d0309601",
+      "text": "Siz ikiniz ne zamandır birlikte seyahat ediyorsunuz?"
+    },
+    {
+      "id": "f5ebcfb3",
+      "bank_id": "d0309601",
+      "text": "Birlikte bulduğunuz hazineyi paylaşıyor musunuz bari?"
+    },
+    {
+      "id": "f5ebcfb4",
+      "bank_id": "d0309601",
+      "text": "Siz ikiniz ne zamandır tanışıyorsunuz?"
+    },
+    {
+      "id": "f5ebcfb5",
+      "bank_id": "d0309601",
+      "text": "Eee, hanginiz lidersiniz bakalım?"
+    },
+    {
+      "id": "f5ebcfb6",
+      "bank_id": "d0309601",
+      "text": "İki maceracının sizin gibi birlikte çalıştığına pek sık rastlanmaz."
+    },
+    {
+      "id": "f5ebcfb7",
+      "bank_id": "d0309601",
+      "text": "İddiasına girerim ikiniz de birbirinizle yarışıyorsunuzdur."
+    }
+  ]
+}

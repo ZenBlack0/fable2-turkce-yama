@@ -1,0 +1,1331 @@
+{
+  "bank_id": "100fab00",
+  "total_strings": 265,
+  "strings": [
+    {
+      "id": "09d0d838",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "0ed0dfd9",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "15517be7",
+      "bank_id": "100fab00",
+      "text": "Sorun yok sanırım."
+    },
+    {
+      "id": "1c5186ea",
+      "bank_id": "100fab00",
+      "text": "Pekala ama bir daha yapma."
+    },
+    {
+      "id": "234f0b7e",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "247f2840",
+      "bank_id": "100fab00",
+      "text": "Neredeyse cinayet oluyormuş!"
+    },
+    {
+      "id": "247f2841",
+      "bank_id": "100fab00",
+      "text": "Neredeyse cinayet oluyormuş!"
+    },
+    {
+      "id": "247f2842",
+      "bank_id": "100fab00",
+      "text": "Birini öldürmeye çalıştılar!"
+    },
+    {
+      "id": "247f2843",
+      "bank_id": "100fab00",
+      "text": "Cinayete teşebbüs!"
+    },
+    {
+      "id": "247f2844",
+      "bank_id": "100fab00",
+      "text": "Bu cinayete teşebbüstü!"
+    },
+    {
+      "id": "247f2845",
+      "bank_id": "100fab00",
+      "text": "Cinayete Teşebbüs!"
+    },
+    {
+      "id": "247f2847",
+      "bank_id": "100fab00",
+      "text": "Öldürmeye teşebbüs!"
+    },
+    {
+      "id": "26b6c128",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "26b6c12a",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "26b6c12b",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "26b6c12c",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "26b6c12d",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "26b6c12e",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "26b6c12f",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "2b7f3349",
+      "bank_id": "100fab00",
+      "text": "Birini öldürmeye çalıştılar!"
+    },
+    {
+      "id": "2b7f334a",
+      "bank_id": "100fab00",
+      "text": "Az kalsın birini öldürüyorlardı!"
+    },
+    {
+      "id": "2bb6c8c9",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "2bb6c8ca",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "2bb6c8cb",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "2bb6c8cc",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "2bb6c8cd",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "2bb6c8ce",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "2bb6c8cf",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "2c4f194b",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "2ea5cc80",
+      "bank_id": "100fab00",
+      "text": "Hırsız orada, tam şurada!"
+    },
+    {
+      "id": "2ea5cc81",
+      "bank_id": "100fab00",
+      "text": "Suçlu! Suçlu!"
+    },
+    {
+      "id": "2ea5cc82",
+      "bank_id": "100fab00",
+      "text": "Orada! Suçlu orada!"
+    },
+    {
+      "id": "2ea5cc84",
+      "bank_id": "100fab00",
+      "text": "Alçak göründü!"
+    },
+    {
+      "id": "2ea5cc85",
+      "bank_id": "100fab00",
+      "text": "Haini görüyorum!"
+    },
+    {
+      "id": "2ea5cc86",
+      "bank_id": "100fab00",
+      "text": "Hırsız kaçıyor!"
+    },
+    {
+      "id": "2ea5cc87",
+      "bank_id": "100fab00",
+      "text": "Suçlu! Bakın!"
+    },
+    {
+      "id": "2f78056d",
+      "bank_id": "100fab00",
+      "text": "Kanun tanımaz orada işte!"
+    },
+    {
+      "id": "2f78056e",
+      "bank_id": "100fab00",
+      "text": "Haydut orada işte!"
+    },
+    {
+      "id": "331d3cd0",
+      "bank_id": "100fab00",
+      "text": "Bu saldırıdır!"
+    },
+    {
+      "id": "331d3cd1",
+      "bank_id": "100fab00",
+      "text": "Saldırı!"
+    },
+    {
+      "id": "331d3cd2",
+      "bank_id": "100fab00",
+      "text": "Bakın! Saldırı!"
+    },
+    {
+      "id": "331d3cd3",
+      "bank_id": "100fab00",
+      "text": "Saldırıya izin verilmez!"
+    },
+    {
+      "id": "331d3cd4",
+      "bank_id": "100fab00",
+      "text": "Bunun bedelini ödeyeceksin!"
+    },
+    {
+      "id": "331d3cd6",
+      "bank_id": "100fab00",
+      "text": "Bu bir suç!"
+    },
+    {
+      "id": "331d3cd7",
+      "bank_id": "100fab00",
+      "text": "Çok alçakça!"
+    },
+    {
+      "id": "3366d5d5",
+      "bank_id": "100fab00",
+      "text": "Hırsız kaçıyor!"
+    },
+    {
+      "id": "3366d5d6",
+      "bank_id": "100fab00",
+      "text": "Suçluyu buldum!"
+    },
+    {
+      "id": "37a5dae8",
+      "bank_id": "100fab00",
+      "text": "Kanun kaçağı orada!"
+    },
+    {
+      "id": "37a5dae9",
+      "bank_id": "100fab00",
+      "text": "İşte o aşağılık suçlu!"
+    },
+    {
+      "id": "37a5daea",
+      "bank_id": "100fab00",
+      "text": "Şurada! Suçlu!"
+    },
+    {
+      "id": "37a5daeb",
+      "bank_id": "100fab00",
+      "text": "Haini görüyorum!"
+    },
+    {
+      "id": "37a5daec",
+      "bank_id": "100fab00",
+      "text": "Hırsız kaçıyor!"
+    },
+    {
+      "id": "37a5daed",
+      "bank_id": "100fab00",
+      "text": "Suçlu! Şurada!"
+    },
+    {
+      "id": "37a5daef",
+      "bank_id": "100fab00",
+      "text": "Kanun tanımaz orada!"
+    },
+    {
+      "id": "381d44f0",
+      "bank_id": "100fab00",
+      "text": "Bu bir saldırı!"
+    },
+    {
+      "id": "381d44f1",
+      "bank_id": "100fab00",
+      "text": "Saldırı!"
+    },
+    {
+      "id": "381d44f2",
+      "bank_id": "100fab00",
+      "text": "Saldırı!"
+    },
+    {
+      "id": "381d44f3",
+      "bank_id": "100fab00",
+      "text": "Bu çılgınlık!"
+    },
+    {
+      "id": "381d44f5",
+      "bank_id": "100fab00",
+      "text": "Olamaz! Saldırı!"
+    },
+    {
+      "id": "381d44f6",
+      "bank_id": "100fab00",
+      "text": "Durun! Saldırı!"
+    },
+    {
+      "id": "381d44f7",
+      "bank_id": "100fab00",
+      "text": "Saldırı!"
+    },
+    {
+      "id": "4fa5e070",
+      "bank_id": "100fab00",
+      "text": "İstediğin kadar özür dile. Hiçbir işe yaramaz."
+    },
+    {
+      "id": "4fa5e071",
+      "bank_id": "100fab00",
+      "text": "Beni aptal sanıyorsun herhalde. Muhafızlar hakkından gelecek."
+    },
+    {
+      "id": "4fa5e072",
+      "bank_id": "100fab00",
+      "text": "Sanmıyorum."
+    },
+    {
+      "id": "4fa5e074",
+      "bank_id": "100fab00",
+      "text": "Suç teşkil eden davranışlara asla göz yummam, şimdi de başlayacak değilim."
+    },
+    {
+      "id": "4fa5e075",
+      "bank_id": "100fab00",
+      "text": "Diğer tüm vatandaşlar gibi sen de suçlarının cezasını ödeyeceksin."
+    },
+    {
+      "id": "4fa5e076",
+      "bank_id": "100fab00",
+      "text": "Kimseyi inandıramazsın."
+    },
+    {
+      "id": "4fa5e077",
+      "bank_id": "100fab00",
+      "text": "\"Özür dilerim\" demek kurtarmaz."
+    },
+    {
+      "id": "51bf77b0",
+      "bank_id": "100fab00",
+      "text": "Elimden kaçamazsın!"
+    },
+    {
+      "id": "51bf77b3",
+      "bank_id": "100fab00",
+      "text": "Kaçmaktan vazgeç!"
+    },
+    {
+      "id": "522cb960",
+      "bank_id": "100fab00",
+      "text": "İki katım kadar iri ve üç katım kadar çirkin olsan bile olmaz."
+    },
+    {
+      "id": "522cb961",
+      "bank_id": "100fab00",
+      "text": "Unut bunu."
+    },
+    {
+      "id": "522cb964",
+      "bank_id": "100fab00",
+      "text": "Gözümü korkutamazsın. Çekil git."
+    },
+    {
+      "id": "522cb966",
+      "bank_id": "100fab00",
+      "text": "Senin zorbalığına boyun eğecek değilim."
+    },
+    {
+      "id": "522cb967",
+      "bank_id": "100fab00",
+      "text": "Gözümü korkutmayı istediğin kadar deneyebilirsin. İşe yaramaz."
+    },
+    {
+      "id": "572cc100",
+      "bank_id": "100fab00",
+      "text": "Vazgeç artık, he?"
+    },
+    {
+      "id": "572cc101",
+      "bank_id": "100fab00",
+      "text": "Onun yerine sana defolup gitmeni söylesem nasıl olur?"
+    },
+    {
+      "id": "572cc105",
+      "bank_id": "100fab00",
+      "text": "Yaşlı bir kadından bile altın koparamazsın sen, beni geç."
+    },
+    {
+      "id": "572cc106",
+      "bank_id": "100fab00",
+      "text": "İyi deneme ama öyle kolay korkmam ben."
+    },
+    {
+      "id": "572cc107",
+      "bank_id": "100fab00",
+      "text": "Böyle yaparak benden hiçbir şey koparamazsın."
+    },
+    {
+      "id": "58a5ee58",
+      "bank_id": "100fab00",
+      "text": "Kanunda istisna yoktur."
+    },
+    {
+      "id": "58a5ee59",
+      "bank_id": "100fab00",
+      "text": "Kimse adaletten muaf değildir."
+    },
+    {
+      "id": "58a5ee5a",
+      "bank_id": "100fab00",
+      "text": "Evet evet, git de muhafızlara anlat."
+    },
+    {
+      "id": "58a5ee5b",
+      "bank_id": "100fab00",
+      "text": "İstediğin kadar yalvar, hiçbir şeyi değiştirmeyecek."
+    },
+    {
+      "id": "58a5ee5c",
+      "bank_id": "100fab00",
+      "text": "Kendini kanunun üstünde mi sanıyorsun?"
+    },
+    {
+      "id": "58a5ee5d",
+      "bank_id": "100fab00",
+      "text": "Bağışlayıcı biri olabilirim ama aptal değilim."
+    },
+    {
+      "id": "58a5ee5f",
+      "bank_id": "100fab00",
+      "text": "Seni neden affedeyim ki?"
+    },
+    {
+      "id": "60566f20",
+      "bank_id": "100fab00",
+      "text": "Bunu yapmaya devam edebileceğin anlamına geldiğini sanma sakın."
+    },
+    {
+      "id": "60566f21",
+      "bank_id": "100fab00",
+      "text": "Seni bir daha aynı şeyi yaparken yakalamayayım yeter."
+    },
+    {
+      "id": "60566f22",
+      "bank_id": "100fab00",
+      "text": "Pekala öyleyse. Bu seferlik muhafızlara haber verilmeyecek."
+    },
+    {
+      "id": "60566f23",
+      "bank_id": "100fab00",
+      "text": "Belki de masum bir hataydı."
+    },
+    {
+      "id": "60566f24",
+      "bank_id": "100fab00",
+      "text": "Pekala. Çok yufka yürekliyim ben, bütün sorunum bu."
+    },
+    {
+      "id": "60566f26",
+      "bank_id": "100fab00",
+      "text": "Bu seferlik görmezden gelebilirim sanırım."
+    },
+    {
+      "id": "60566f27",
+      "bank_id": "100fab00",
+      "text": "Seni bu seferlik affediyorum."
+    },
+    {
+      "id": "60c50cb4",
+      "bank_id": "100fab00",
+      "text": "Dur! Emrediyorum!"
+    },
+    {
+      "id": "60c50cb7",
+      "bank_id": "100fab00",
+      "text": "Dur! Dur!"
+    },
+    {
+      "id": "61a1018d",
+      "bank_id": "100fab00",
+      "text": "<giggles> Hiç de korkutucu değilsin."
+    },
+    {
+      "id": "655676c3",
+      "bank_id": "100fab00",
+      "text": "Samimi görünüyorsun. Pekala öyleyse."
+    },
+    {
+      "id": "6ca1133c",
+      "bank_id": "100fab00",
+      "text": "Aynen, ben de sana harçlığımı verecektim zaten..."
+    },
+    {
+      "id": "74052ca8",
+      "bank_id": "100fab00",
+      "text": "Onları buldum!"
+    },
+    {
+      "id": "74052cab",
+      "bank_id": "100fab00",
+      "text": "Suçluyu tespit ettim!"
+    },
+    {
+      "id": "764e34a5",
+      "bank_id": "100fab00",
+      "text": "Elimizde canlı biri var!"
+    },
+    {
+      "id": "764e34a6",
+      "bank_id": "100fab00",
+      "text": "Demek oyunun bu ha?"
+    },
+    {
+      "id": "79ea1b45",
+      "bank_id": "100fab00",
+      "text": "Her yeri arayın!"
+    },
+    {
+      "id": "79ea1b46",
+      "bank_id": "100fab00",
+      "text": "Şu suçluyu bulmalıyız!"
+    },
+    {
+      "id": "79fd929c",
+      "bank_id": "100fab00",
+      "text": "Dur! Kanun emrediyor!"
+    },
+    {
+      "id": "79fd929f",
+      "bank_id": "100fab00",
+      "text": "Gel buraya hırsız!"
+    },
+    {
+      "id": "8230598c",
+      "bank_id": "100fab00",
+      "text": "Orada dur saldırgan!"
+    },
+    {
+      "id": "8230598f",
+      "bank_id": "100fab00",
+      "text": "Dur! Saldırgan! Dur!"
+    },
+    {
+      "id": "83dda203",
+      "bank_id": "100fab00",
+      "text": "Hayır! Seni affetmiyorum."
+    },
+    {
+      "id": "889b2ec0",
+      "bank_id": "100fab00",
+      "text": "Tabii. Bulutun tepesine bir kese altın saklamıştım. Alabilirsin onu."
+    },
+    {
+      "id": "889b2ec1",
+      "bank_id": "100fab00",
+      "text": "Oradan bakınca aptal gibi mi görünüyorum? Yıkıl karşımdan."
+    },
+    {
+      "id": "889b2ec2",
+      "bank_id": "100fab00",
+      "text": "Demek numaran haraç kesmek ha? Ne yazık ki ben kazandım."
+    },
+    {
+      "id": "889b2ec4",
+      "bank_id": "100fab00",
+      "text": "Belki bir muhafız bu talebinizle ilgilenebilir."
+    },
+    {
+      "id": "889b2ec5",
+      "bank_id": "100fab00",
+      "text": "Benden hiçbir şey alamayacaksın suçlu."
+    },
+    {
+      "id": "889b2ec6",
+      "bank_id": "100fab00",
+      "text": "Hadi oradan, haracın kitabını ben yazdım be. Bana sökmez o."
+    },
+    {
+      "id": "889b2ec7",
+      "bank_id": "100fab00",
+      "text": "Beni korkutabileceğini mi sanıyorsun?"
+    },
+    {
+      "id": "8addad06",
+      "bank_id": "100fab00",
+      "text": "Beni aptal falan mı sanıyorsun sen?"
+    },
+    {
+      "id": "8c15c398",
+      "bank_id": "100fab00",
+      "text": "O suçlu kaçmamalı."
+    },
+    {
+      "id": "8c15c39b",
+      "bank_id": "100fab00",
+      "text": "O hırsızın bulunmasını istiyorum!"
+    },
+    {
+      "id": "919b3d28",
+      "bank_id": "100fab00",
+      "text": "Sana altınımı vermeye hiç niyetim yok."
+    },
+    {
+      "id": "919b3d29",
+      "bank_id": "100fab00",
+      "text": "Bu nafile girişimden vazgeçsen iyi edersin."
+    },
+    {
+      "id": "919b3d2a",
+      "bank_id": "100fab00",
+      "text": "Altın mı istiyorsun? Git çalış da kazan."
+    },
+    {
+      "id": "919b3d2b",
+      "bank_id": "100fab00",
+      "text": "Benden tek kuruş bile alamazsın."
+    },
+    {
+      "id": "919b3d2c",
+      "bank_id": "100fab00",
+      "text": "Beni korkutamazsın. Git başkasını rahatsız et."
+    },
+    {
+      "id": "919b3d2d",
+      "bank_id": "100fab00",
+      "text": "Gözümü korkutmaya çalışma."
+    },
+    {
+      "id": "919b3d2f",
+      "bank_id": "100fab00",
+      "text": "Sana hiçbir şey vermiyorum."
+    },
+    {
+      "id": "92a504f8",
+      "bank_id": "100fab00",
+      "text": "Dur! Tam orada dur!"
+    },
+    {
+      "id": "92a504fb",
+      "bank_id": "100fab00",
+      "text": "Bunu sen istedin!"
+    },
+    {
+      "id": "94aaca21",
+      "bank_id": "100fab00",
+      "text": "Seni affetmemin imkânı yok!"
+    },
+    {
+      "id": "95d7c744",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "96474b3e",
+      "bank_id": "100fab00",
+      "text": "Bu bir cinayete teşebbüs!"
+    },
+    {
+      "id": "967229d9",
+      "bank_id": "100fab00",
+      "text": "Suçlu kaçıyor!"
+    },
+    {
+      "id": "967229da",
+      "bank_id": "100fab00",
+      "text": "Kanun tanımaz!"
+    },
+    {
+      "id": "9ad7cf65",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "9c15ede5",
+      "bank_id": "100fab00",
+      "text": "Kamu hizmeti kendi kendine yapılmayacak, bilesin."
+    },
+    {
+      "id": "9c15ede6",
+      "bank_id": "100fab00",
+      "text": "Kamu hizmetinizi yapmayı unutmayın."
+    },
+    {
+      "id": "9f47590b",
+      "bank_id": "100fab00",
+      "text": "Biri bir şey yapsın! Az kalsın bir cinayet işleniyordu!"
+    },
+    {
+      "id": "9faadb50",
+      "bank_id": "100fab00",
+      "text": "Gerçekten pişman değilsin, anlayabiliyorum."
+    },
+    {
+      "id": "a1cc01f4",
+      "bank_id": "100fab00",
+      "text": "Yakalandın."
+    },
+    {
+      "id": "a1cc01f7",
+      "bank_id": "100fab00",
+      "text": "Tutuklusunuz."
+    },
+    {
+      "id": "a8647700",
+      "bank_id": "100fab00",
+      "text": "Tamam ama bitene kadar şartlı tahliyelisin."
+    },
+    {
+      "id": "a8647703",
+      "bank_id": "100fab00",
+      "text": "Pekala, yaptığından emin ol."
+    },
+    {
+      "id": "b005a671",
+      "bank_id": "100fab00",
+      "text": "Dur! Kanun namına!"
+    },
+    {
+      "id": "b005a672",
+      "bank_id": "100fab00",
+      "text": "Orada dur seni suçlu!"
+    },
+    {
+      "id": "b185420c",
+      "bank_id": "100fab00",
+      "text": "Benimsin artık."
+    },
+    {
+      "id": "b185420f",
+      "bank_id": "100fab00",
+      "text": "Seni gözaltına alıyorum."
+    },
+    {
+      "id": "b217f349",
+      "bank_id": "100fab00",
+      "text": "Altın olmadan bu işten para vererek sıyrılamazsın."
+    },
+    {
+      "id": "b217f34a",
+      "bank_id": "100fab00",
+      "text": "Ne yapmaya çalışıyorsun sen? Cep tozuyla ödeme yapamazsın."
+    },
+    {
+      "id": "b2cbd1d0",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b2cbd1d1",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b2cbd1d2",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b2cbd1d3",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b2cbd1d4",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b2cbd1d5",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b2cbd1d7",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar!"
+    },
+    {
+      "id": "b4f2e38c",
+      "bank_id": "100fab00",
+      "text": "Bu işi neredeyse karşılar."
+    },
+    {
+      "id": "b4f2e38f",
+      "bank_id": "100fab00",
+      "text": "Çok güzel. Topluma olan borcunuzu ödediniz."
+    },
+    {
+      "id": "b9cbdcd8",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b9cbdcd9",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b9cbdcda",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b9cbdcdc",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b9cbdcdd",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b9cbdcde",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "b9cbdcdf",
+      "bank_id": "100fab00",
+      "text": "Muhafızlaaaaaaaaaaaar!"
+    },
+    {
+      "id": "bae72738",
+      "bank_id": "100fab00",
+      "text": "Umarım kamu hizmetinizi yapıyorsunuzdur."
+    },
+    {
+      "id": "bae7273b",
+      "bank_id": "100fab00",
+      "text": "Kamu hizmetinizi tamamlamayı unutmayın."
+    },
+    {
+      "id": "bc726c74",
+      "bank_id": "100fab00",
+      "text": "Tamam, al harçlığımı seni koca zorba."
+    },
+    {
+      "id": "bf1735ed",
+      "bank_id": "100fab00",
+      "text": "Gözüm üzerinde olacak, aklına tuhaf fikirler gelmesin."
+    },
+    {
+      "id": "bf1735ee",
+      "bank_id": "100fab00",
+      "text": "Topluma borcunu öde, serbest kalacaksın."
+    },
+    {
+      "id": "c1727415",
+      "bank_id": "100fab00",
+      "text": "Pekala, harçlığımı alabilirsin!"
+    },
+    {
+      "id": "c1834fa1",
+      "bank_id": "100fab00",
+      "text": "Hizmetini tamamla ve borcunu öde."
+    },
+    {
+      "id": "c1834fa2",
+      "bank_id": "100fab00",
+      "text": "Sorumluluklarından kaçma yoksa cezasını çekersin."
+    },
+    {
+      "id": "c3e28411",
+      "bank_id": "100fab00",
+      "text": "Dün mü doğdum sanıyorsun sen?"
+    },
+    {
+      "id": "c3e28412",
+      "bank_id": "100fab00",
+      "text": "Öyle kolay kurtulamazsın!"
+    },
+    {
+      "id": "c3e28413",
+      "bank_id": "100fab00",
+      "text": "Asla olmaz! Bunun bedelini ödeyeceksin!"
+    },
+    {
+      "id": "c3e28414",
+      "bank_id": "100fab00",
+      "text": "Bana uyanıklık yapmaya kalkma seni hırsız."
+    },
+    {
+      "id": "c3e28415",
+      "bank_id": "100fab00",
+      "text": "Aptala benzer bir halim mi var?"
+    },
+    {
+      "id": "c3e28416",
+      "bank_id": "100fab00",
+      "text": "Beni affedici biriyle karıştırdın herhalde."
+    },
+    {
+      "id": "c3e28417",
+      "bank_id": "100fab00",
+      "text": "Sırada ne var peki? Katillerin cezasız çekip gitmesine izin vermek mi? Hiç sanmıyorum."
+    },
+    {
+      "id": "c9957040",
+      "bank_id": "100fab00",
+      "text": "Suçlu! Suçlu!"
+    },
+    {
+      "id": "c9957043",
+      "bank_id": "100fab00",
+      "text": "İşte orada!"
+    },
+    {
+      "id": "cad20a80",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "cad20a81",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "cad20a82",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "cad20a83",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "cad20a84",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "cad20a85",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "cad20a87",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "cee29540",
+      "bank_id": "100fab00",
+      "text": "Beni ne biçim bir enayi sanıyorsun sen?"
+    },
+    {
+      "id": "cee29542",
+      "bank_id": "100fab00",
+      "text": "Muhafızları çağıralım en iyisi, ne dersin?"
+    },
+    {
+      "id": "cee29543",
+      "bank_id": "100fab00",
+      "text": "İyi deneme ama muhafızları çağırıyorum!"
+    },
+    {
+      "id": "cee29544",
+      "bank_id": "100fab00",
+      "text": "Bırak bu işleri."
+    },
+    {
+      "id": "cee29545",
+      "bank_id": "100fab00",
+      "text": "Ha, asla olmaz."
+    },
+    {
+      "id": "cee29546",
+      "bank_id": "100fab00",
+      "text": "Kuru bir özürle cezadan kaçamazsın."
+    },
+    {
+      "id": "cee29547",
+      "bank_id": "100fab00",
+      "text": "Özrünü kabul etmiyorum."
+    },
+    {
+      "id": "d0cdedc5",
+      "bank_id": "100fab00",
+      "text": "Çok teşekkürler. Gidebilirsiniz."
+    },
+    {
+      "id": "d0cdedc6",
+      "bank_id": "100fab00",
+      "text": "Sizinle iş yapmak bir zevkti."
+    },
+    {
+      "id": "d0e81f74",
+      "bank_id": "100fab00",
+      "text": "Bak hele bak, altın yok demek ha? Başın belada öyleyse, değil mi?"
+    },
+    {
+      "id": "d0e81f77",
+      "bank_id": "100fab00",
+      "text": "A, altın yok ha? Cezasını ödeyemeyeceksen suçu işlemeyeceksin."
+    },
+    {
+      "id": "d1d21588",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "d1d21589",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "d1d2158a",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "d1d2158c",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "d1d2158d",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "d1d2158e",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "d1d2158f",
+      "bank_id": "100fab00",
+      "text": "Muhafızlar! Muhafızlar!"
+    },
+    {
+      "id": "d20622e9",
+      "bank_id": "100fab00",
+      "text": "Hey! Suçlu!"
+    },
+    {
+      "id": "d20622ea",
+      "bank_id": "100fab00",
+      "text": "Orada! Durdurun şu hırsızı!"
+    },
+    {
+      "id": "d4bf90d1",
+      "bank_id": "100fab00",
+      "text": "Gel buraya seni suçlu!"
+    },
+    {
+      "id": "d4bf90d2",
+      "bank_id": "100fab00",
+      "text": "Dur yoksa pişman olursun!"
+    },
+    {
+      "id": "d6f3c0cd",
+      "bank_id": "100fab00",
+      "text": "Hey! Sen! Tutuklusun!"
+    },
+    {
+      "id": "d6f3c0ce",
+      "bank_id": "100fab00",
+      "text": "Yakaladım seni şimdi!"
+    },
+    {
+      "id": "db4c34e8",
+      "bank_id": "100fab00",
+      "text": "Bir cinayete teşebbüs!"
+    },
+    {
+      "id": "db4c34e9",
+      "bank_id": "100fab00",
+      "text": "Bu cinayete teşebbüstü!"
+    },
+    {
+      "id": "db4c34ea",
+      "bank_id": "100fab00",
+      "text": "Öldürmeye teşebbüs edildi!"
+    },
+    {
+      "id": "db4c34eb",
+      "bank_id": "100fab00",
+      "text": "Cinayete Teşebbüs!"
+    },
+    {
+      "id": "db4c34ed",
+      "bank_id": "100fab00",
+      "text": "Neredeyse bir cinayet işleniyordu!"
+    },
+    {
+      "id": "db4c34ee",
+      "bank_id": "100fab00",
+      "text": "Şu an bir cinayete teşebbüs ediliyor!"
+    },
+    {
+      "id": "db4c34ef",
+      "bank_id": "100fab00",
+      "text": "Biri neredeyse ölüyordu!"
+    },
+    {
+      "id": "df6ccff9",
+      "bank_id": "100fab00",
+      "text": "Sana bir ders vereceğim!"
+    },
+    {
+      "id": "df6ccffa",
+      "bank_id": "100fab00",
+      "text": "Demek böyle yapmak istiyorsun!"
+    },
+    {
+      "id": "e0674030",
+      "bank_id": "100fab00",
+      "text": "Şu kanun tanımazı derhâl bulun!"
+    },
+    {
+      "id": "e0674033",
+      "bank_id": "100fab00",
+      "text": "Suçlu mutlaka bulunmalı."
+    },
+    {
+      "id": "e09067dd",
+      "bank_id": "100fab00",
+      "text": "Dur! Dur!"
+    },
+    {
+      "id": "e09067de",
+      "bank_id": "100fab00",
+      "text": "Derhâl dur!"
+    },
+    {
+      "id": "e0a15f8c",
+      "bank_id": "100fab00",
+      "text": "Beladan kurtulmak için para ödeyemeyecek kadar fakirsin."
+    },
+    {
+      "id": "e0a15f8f",
+      "bank_id": "100fab00",
+      "text": "Üzgünüm ama fakir insanları öylece bırakmıyoruz."
+    },
+    {
+      "id": "e1e1f8b8",
+      "bank_id": "100fab00",
+      "text": "Orada dur seni katil bozuntusu!"
+    },
+    {
+      "id": "e1e1f8bb",
+      "bank_id": "100fab00",
+      "text": "Dur! Dur seni neredeyse-katil!"
+    },
+    {
+      "id": "e1e75818",
+      "bank_id": "100fab00",
+      "text": "Peh, zaten bahiste kaybedecektim."
+    },
+    {
+      "id": "e1e75819",
+      "bank_id": "100fab00",
+      "text": "Çok güçlü olduğunu sanıyorsun, değil mi? Öylesin galiba. Al bakalım."
+    },
+    {
+      "id": "e1e7581d",
+      "bank_id": "100fab00",
+      "text": "Beni korkutamazsın. Şey, tamam, korkuttun. Al."
+    },
+    {
+      "id": "e1e7581e",
+      "bank_id": "100fab00",
+      "text": "Tamam, altını al ve çekil git!"
+    },
+    {
+      "id": "e1e7581f",
+      "bank_id": "100fab00",
+      "text": "Al bunu, yeter ki bana zarar verme!"
+    },
+    {
+      "id": "e64c4618",
+      "bank_id": "100fab00",
+      "text": "Birini öldürmeye çalıştılar!"
+    },
+    {
+      "id": "e64c4619",
+      "bank_id": "100fab00",
+      "text": "Bu bir cinayete teşebbüs!"
+    },
+    {
+      "id": "e64c461a",
+      "bank_id": "100fab00",
+      "text": "Birini öldürmeye teşebbüs ettiler!"
+    },
+    {
+      "id": "e64c461b",
+      "bank_id": "100fab00",
+      "text": "Bir cinayet teşebbüsüydü bu!"
+    },
+    {
+      "id": "e64c461c",
+      "bank_id": "100fab00",
+      "text": "Cinayete teşebbüs!"
+    },
+    {
+      "id": "e64c461e",
+      "bank_id": "100fab00",
+      "text": "Bir cinayete teşebbüs!"
+    },
+    {
+      "id": "e64c461f",
+      "bank_id": "100fab00",
+      "text": "Birini öldürmeye çalıştılar!"
+    },
+    {
+      "id": "ece76948",
+      "bank_id": "100fab00",
+      "text": "Zevkini böyle mi çıkarıyorsun? Al bakalım."
+    },
+    {
+      "id": "ece76949",
+      "bank_id": "100fab00",
+      "text": "Seni zorba. Al, tepe tepe kullan."
+    },
+    {
+      "id": "ece7694c",
+      "bank_id": "100fab00",
+      "text": "Yeter ki yaşamama izin ver."
+    },
+    {
+      "id": "ece7694e",
+      "bank_id": "100fab00",
+      "text": "Çok bir şeyim yok ama hepsi senin olsun."
+    },
+    {
+      "id": "ece7694f",
+      "bank_id": "100fab00",
+      "text": "Benden uzak durmanı sağlayacaksa buna değer."
+    },
+    {
+      "id": "edb0be50",
+      "bank_id": "100fab00",
+      "text": "O kamu hizmetini bitirene kadar gözüm üzerinde olacak."
+    },
+    {
+      "id": "edb0be53",
+      "bank_id": "100fab00",
+      "text": "Şartlı tahliyeni ihlal etmenin yanına kâr kalacağını sanma. İzliyorum."
+    },
+    {
+      "id": "edcdf8a1",
+      "bank_id": "100fab00",
+      "text": "Ödemeniz sizi akladı. Ama bir daha yaptığınızı görmeyeyim."
+    },
+    {
+      "id": "edcdf8a2",
+      "bank_id": "100fab00",
+      "text": "Cezanız ödendi ama bir daha yapmayın."
+    },
+    {
+      "id": "f16cafb0",
+      "bank_id": "100fab00",
+      "text": "Ah, elbette, buyurun."
+    },
+    {
+      "id": "f16cafb1",
+      "bank_id": "100fab00",
+      "text": "Çok ikna edicisiniz."
+    },
+    {
+      "id": "f16cafb2",
+      "bank_id": "100fab00",
+      "text": "Tamam, tamam, bela istemiyorum."
+    },
+    {
+      "id": "f16cafb3",
+      "bank_id": "100fab00",
+      "text": "Şey, madem öyle diyorsunuz."
+    },
+    {
+      "id": "f16cafb4",
+      "bank_id": "100fab00",
+      "text": "Bana zarar vermediğiniz sürece... Pekala, buyurun."
+    },
+    {
+      "id": "f16cafb5",
+      "bank_id": "100fab00",
+      "text": "Yeter ki bana zarar verme."
+    },
+    {
+      "id": "f16cafb7",
+      "bank_id": "100fab00",
+      "text": "A, şey, pekala... buyurun."
+    },
+    {
+      "id": "f86cbab8",
+      "bank_id": "100fab00",
+      "text": "Evet, her neyse, ne istersen."
+    },
+    {
+      "id": "f86cbab9",
+      "bank_id": "100fab00",
+      "text": "A, tamam, sadece- sadece şunu al ve beni rahat bırak."
+    },
+    {
+      "id": "f86cbaba",
+      "bank_id": "100fab00",
+      "text": "Beni artık rahat bırakırsın, değil mi?"
+    },
+    {
+      "id": "f86cbabc",
+      "bank_id": "100fab00",
+      "text": "Kesinlikle. Evet. Büyük bir zevkle. Gerçekten."
+    },
+    {
+      "id": "f86cbabd",
+      "bank_id": "100fab00",
+      "text": "Birkaç parça altın için ölmeye değmez."
+    },
+    {
+      "id": "f86cbabe",
+      "bank_id": "100fab00",
+      "text": "A, evet, tabii. Al bakalım."
+    },
+    {
+      "id": "f86cbabf",
+      "bank_id": "100fab00",
+      "text": "Evet, aramız iyi kalsın yeter, tamam mı?"
+    }
+  ]
+}

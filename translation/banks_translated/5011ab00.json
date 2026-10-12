@@ -1,0 +1,1256 @@
+{
+  "bank_id": "5011ab00",
+  "total_strings": 250,
+  "strings": [
+    {
+      "id": "04542440",
+      "bank_id": "5011ab00",
+      "text": "Sıkıldığımı söylersem kırılmazsın değil mi koca Kahraman?"
+    },
+    {
+      "id": "08c9ef23",
+      "bank_id": "5011ab00",
+      "text": "Güzel."
+    },
+    {
+      "id": "0b215655",
+      "bank_id": "5011ab00",
+      "text": "Uykumu getirdin yahu. Hep aynı terane. Yeni bir şeyler bulsana ünlü oğlan."
+    },
+    {
+      "id": "0b21565e",
+      "bank_id": "5011ab00",
+      "text": "Uykumu getirdin yahu. Hep aynı terane. Yeni bir şeyler bulsana ünlü kız."
+    },
+    {
+      "id": "0c7da2ae",
+      "bank_id": "5011ab00",
+      "text": "Fena bir tarz değil."
+    },
+    {
+      "id": "0fc9fa26",
+      "bank_id": "5011ab00",
+      "text": "Harika."
+    },
+    {
+      "id": "157db0fb",
+      "bank_id": "5011ab00",
+      "text": "Fena görünmüyorsun herhalde."
+    },
+    {
+      "id": "19a444a3",
+      "bank_id": "5011ab00",
+      "text": "Sıkıcı, sıkıcı, sıkıcı."
+    },
+    {
+      "id": "20a44fa6",
+      "bank_id": "5011ab00",
+      "text": "Bu çooook sıkıcı."
+    },
+    {
+      "id": "25010641",
+      "bank_id": "5011ab00",
+      "text": "Vay canına."
+    },
+    {
+      "id": "26c87728",
+      "bank_id": "5011ab00",
+      "text": "Harika bir tarz!"
+    },
+    {
+      "id": "2bc87ec9",
+      "bank_id": "5011ab00",
+      "text": "Gerçekten çok havalı görünüyorsun."
+    },
+    {
+      "id": "2c0c0db4",
+      "bank_id": "5011ab00",
+      "text": "Fena sayılmaz bir tarzın var."
+    },
+    {
+      "id": "300117f0",
+      "bank_id": "5011ab00",
+      "text": "Vay canına."
+    },
+    {
+      "id": "310c1555",
+      "bank_id": "5011ab00",
+      "text": "Bu tarz bayağı havalıymış."
+    },
+    {
+      "id": "35db5bc1",
+      "bank_id": "5011ab00",
+      "text": "Bu hayatımda gördüğüm en sıkıcı şey olabilir."
+    },
+    {
+      "id": "40db6d70",
+      "bank_id": "5011ab00",
+      "text": "Hep aynı numaraları yapıyorsun."
+    },
+    {
+      "id": "51828c58",
+      "bank_id": "5011ab00",
+      "text": "Çok daha çirkinlerini gördüm. Sevdim bunu!"
+    },
+    {
+      "id": "51828c59",
+      "bank_id": "5011ab00",
+      "text": "Hayır demezdim hani."
+    },
+    {
+      "id": "51828c5a",
+      "bank_id": "5011ab00",
+      "text": "Bana kalırsa oldukça çekici."
+    },
+    {
+      "id": "51828c5b",
+      "bank_id": "5011ab00",
+      "text": "Hiç fena değil."
+    },
+    {
+      "id": "51828c5d",
+      "bank_id": "5011ab00",
+      "text": "Bayağı güzelsin."
+    },
+    {
+      "id": "51828c5e",
+      "bank_id": "5011ab00",
+      "text": "Daha güzellerini gördüm ama çok daha çirkinlerini de gördüm."
+    },
+    {
+      "id": "51828c5f",
+      "bank_id": "5011ab00",
+      "text": "Yatağımdan kovmazdım doğrusu."
+    },
+    {
+      "id": "52cb12b1",
+      "bank_id": "5011ab00",
+      "text": "Tek kelimeyle harikaydı hayatım!"
+    },
+    {
+      "id": "52cb12b2",
+      "bank_id": "5011ab00",
+      "text": "Ah tatlım, çok harikasın!"
+    },
+    {
+      "id": "52cb12b3",
+      "bank_id": "5011ab00",
+      "text": "Vay be, inanılmazdı canım!"
+    },
+    {
+      "id": "52cb12b4",
+      "bank_id": "5011ab00",
+      "text": "Aklımı başımdan alıyorsun sevgilim!"
+    },
+    {
+      "id": "52cb12b5",
+      "bank_id": "5011ab00",
+      "text": "Bir tanesin canım benim!"
+    },
+    {
+      "id": "52cb12b6",
+      "bank_id": "5011ab00",
+      "text": "Beni şaşırtmaktan hiç geri kalmıyorsun tatlım!"
+    },
+    {
+      "id": "52cb12b7",
+      "bank_id": "5011ab00",
+      "text": "Büsbütün büyüleyicisin sevgilim benim!"
+    },
+    {
+      "id": "57644a50",
+      "bank_id": "5011ab00",
+      "text": "Sıkıcı!"
+    },
+    {
+      "id": "57644a51",
+      "bank_id": "5011ab00",
+      "text": "Off, esnedim vallahi."
+    },
+    {
+      "id": "57644a52",
+      "bank_id": "5011ab00",
+      "text": "Ölüm bile bu kadar sıkıcı olamaz herhalde."
+    },
+    {
+      "id": "57644a53",
+      "bank_id": "5011ab00",
+      "text": "Ah, bu cidden bayağı sıkıcı."
+    },
+    {
+      "id": "57644a54",
+      "bank_id": "5011ab00",
+      "text": "Sıkıcı."
+    },
+    {
+      "id": "57644a56",
+      "bank_id": "5011ab00",
+      "text": "Çok sıkıcı."
+    },
+    {
+      "id": "57644a57",
+      "bank_id": "5011ab00",
+      "text": "Sıkıcı, sıkıcı, sıkıcı."
+    },
+    {
+      "id": "5c645270",
+      "bank_id": "5011ab00",
+      "text": "Peh, sıkıcı."
+    },
+    {
+      "id": "5c645271",
+      "bank_id": "5011ab00",
+      "text": "Sıkıcı, sıkıcı, sıkıcı."
+    },
+    {
+      "id": "5c645272",
+      "bank_id": "5011ab00",
+      "text": "Ne kadar da bayat."
+    },
+    {
+      "id": "5c645273",
+      "bank_id": "5011ab00",
+      "text": "Son derece usandırıcı."
+    },
+    {
+      "id": "5c645275",
+      "bank_id": "5011ab00",
+      "text": "Hayatımda hiç bu kadar sıkılmamıştım."
+    },
+    {
+      "id": "5c645276",
+      "bank_id": "5011ab00",
+      "text": "Sıkıcı, sıkıcı, sıkıcı."
+    },
+    {
+      "id": "5c645277",
+      "bank_id": "5011ab00",
+      "text": "Büsbütün sıkıcı."
+    },
+    {
+      "id": "5c829d88",
+      "bank_id": "5011ab00",
+      "text": "Çok beğendim!"
+    },
+    {
+      "id": "5c829d89",
+      "bank_id": "5011ab00",
+      "text": "Mmmm, olur o zaman."
+    },
+    {
+      "id": "5c829d8a",
+      "bank_id": "5011ab00",
+      "text": "Vay vay, şuna da bakın..."
+    },
+    {
+      "id": "5c829d8b",
+      "bank_id": "5011ab00",
+      "text": "Hmm, hoşuma gitti..."
+    },
+    {
+      "id": "5c829d8c",
+      "bank_id": "5011ab00",
+      "text": "Fena görünmüyorsun hani."
+    },
+    {
+      "id": "5c829d8e",
+      "bank_id": "5011ab00",
+      "text": "Mmmm, fena değil."
+    },
+    {
+      "id": "5c829d8f",
+      "bank_id": "5011ab00",
+      "text": "Hiç de öyle çirkin sayılmazsın."
+    },
+    {
+      "id": "5dcb23e0",
+      "bank_id": "5011ab00",
+      "text": "Tek kelimeyle harikaydı hayatım!"
+    },
+    {
+      "id": "5dcb23e2",
+      "bank_id": "5011ab00",
+      "text": "Vay be, inanılmazdı canım!"
+    },
+    {
+      "id": "5dcb23e3",
+      "bank_id": "5011ab00",
+      "text": "Ah tatlım, çok harikasın!"
+    },
+    {
+      "id": "5dcb23e4",
+      "bank_id": "5011ab00",
+      "text": "Bir tanesin canım benim!"
+    },
+    {
+      "id": "5dcb23e5",
+      "bank_id": "5011ab00",
+      "text": "Aklımı başımdan alıyorsun sevgilim!"
+    },
+    {
+      "id": "5dcb23e6",
+      "bank_id": "5011ab00",
+      "text": "Büsbütün büyüleyicisin sevgilim benim!"
+    },
+    {
+      "id": "5dcb23e7",
+      "bank_id": "5011ab00",
+      "text": "Beni şaşırtmaktan hiç geri kalmıyorsun tatlım!"
+    },
+    {
+      "id": "5ffb5310",
+      "bank_id": "5011ab00",
+      "text": "Mmmm..."
+    },
+    {
+      "id": "5ffb5311",
+      "bank_id": "5011ab00",
+      "text": "Oooh!"
+    },
+    {
+      "id": "5ffb5312",
+      "bank_id": "5011ab00",
+      "text": "Mmmm..."
+    },
+    {
+      "id": "5ffb5314",
+      "bank_id": "5011ab00",
+      "text": "Mmmm..."
+    },
+    {
+      "id": "5ffb5315",
+      "bank_id": "5011ab00",
+      "text": "Oooh!"
+    },
+    {
+      "id": "5ffb5316",
+      "bank_id": "5011ab00",
+      "text": "Mmmm..."
+    },
+    {
+      "id": "5ffb5317",
+      "bank_id": "5011ab00",
+      "text": "Mmmm..."
+    },
+    {
+      "id": "6107e3f0",
+      "bank_id": "5011ab00",
+      "text": "Ne kadar da hoş."
+    },
+    {
+      "id": "6107e3f1",
+      "bank_id": "5011ab00",
+      "text": "Pek etkilendim, pek."
+    },
+    {
+      "id": "6107e3f2",
+      "bank_id": "5011ab00",
+      "text": "Yatağımdan kovmazdım doğrusu. Ki bu benim için büyük laftır."
+    },
+    {
+      "id": "6107e3f3",
+      "bank_id": "5011ab00",
+      "text": "Vay, buralarda kim varmış böyle? Merhabalar!"
+    },
+    {
+      "id": "6107e3f4",
+      "bank_id": "5011ab00",
+      "text": "Bakılmayacak gibi değilsin hani."
+    },
+    {
+      "id": "6107e3f5",
+      "bank_id": "5011ab00",
+      "text": "Bayağı hoş."
+    },
+    {
+      "id": "6107e3f7",
+      "bank_id": "5011ab00",
+      "text": "Görünüşün epey hoşuma gitti."
+    },
+    {
+      "id": "63750ac1",
+      "bank_id": "5011ab00",
+      "text": "Tanıştığım diğer tüm ünlüler kadar sıkıcısın."
+    },
+    {
+      "id": "63750ac2",
+      "bank_id": "5011ab00",
+      "text": "Yine mi bu! Yani... harika, ey ulu kişi..."
+    },
+    {
+      "id": "63750ac3",
+      "bank_id": "5011ab00",
+      "text": "Ünlülerden bıkabileceğimi hiç sanmazdım ama işte oluyor."
+    },
+    {
+      "id": "63750ac6",
+      "bank_id": "5011ab00",
+      "text": "Ne kadar feci usandırıcı. Şöhretin böylesi bir tekdüzeliği haklı çıkarmaz."
+    },
+    {
+      "id": "63750ac7",
+      "bank_id": "5011ab00",
+      "text": "Şöhretini böyle mi kazandın yani? Yaman bir sıkıcılık abidesi olarak mı?"
+    },
+    {
+      "id": "6807eef8",
+      "bank_id": "5011ab00",
+      "text": "Bayağı hoşuma gittin."
+    },
+    {
+      "id": "6807eef9",
+      "bank_id": "5011ab00",
+      "text": "Bakılmayacak gibi değilsin."
+    },
+    {
+      "id": "6807eefa",
+      "bank_id": "5011ab00",
+      "text": "Epey güzelsin."
+    },
+    {
+      "id": "6807eefc",
+      "bank_id": "5011ab00",
+      "text": "Tam anlamıyla sevimlisin."
+    },
+    {
+      "id": "6807eefd",
+      "bank_id": "5011ab00",
+      "text": "Ne kadar da alımlı."
+    },
+    {
+      "id": "6807eefe",
+      "bank_id": "5011ab00",
+      "text": "Gördüğüm şey hoşuma gitti."
+    },
+    {
+      "id": "6807eeff",
+      "bank_id": "5011ab00",
+      "text": "Pek bir hoşsun sen öyle."
+    },
+    {
+      "id": "68fb6178",
+      "bank_id": "5011ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "68fb6179",
+      "bank_id": "5011ab00",
+      "text": "Oooh!"
+    },
+    {
+      "id": "68fb617a",
+      "bank_id": "5011ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "68fb617b",
+      "bank_id": "5011ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "68fb617c",
+      "bank_id": "5011ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "68fb617d",
+      "bank_id": "5011ab00",
+      "text": "Oooh!"
+    },
+    {
+      "id": "68fb617f",
+      "bank_id": "5011ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "6dd752e1",
+      "bank_id": "5011ab00",
+      "text": "Şöhret möhret dinlemem, burada uyuya kalacağım valla."
+    },
+    {
+      "id": "6dd752e4",
+      "bank_id": "5011ab00",
+      "text": "Ünlü insanlar ne kadar da sıkıcı olabiliyor."
+    },
+    {
+      "id": "6dd752e6",
+      "bank_id": "5011ab00",
+      "text": "Sıkıcı bir ünlüden daha beter bir şey var mıdır?"
+    },
+    {
+      "id": "6dd752e7",
+      "bank_id": "5011ab00",
+      "text": "Şöhreti kadar sıkıcı."
+    },
+    {
+      "id": "6e751c70",
+      "bank_id": "5011ab00",
+      "text": "Buna daha fazla katlanabileceğimi sanmıyorum. Yeni bir numarayla gel koca patron."
+    },
+    {
+      "id": "6e751c73",
+      "bank_id": "5011ab00",
+      "text": "Senin gibi üne sahip birini kırmak istemem ama bu artık kabak tadı vermeye başladı."
+    },
+    {
+      "id": "6e751c74",
+      "bank_id": "5011ab00",
+      "text": "Ünlüymüş pöh. İçimi baydın."
+    },
+    {
+      "id": "6e751c76",
+      "bank_id": "5011ab00",
+      "text": "Büyük üne kavuşanların bile insanı canından bezdirebileceğinin kanıtısın."
+    },
+    {
+      "id": "6e751c77",
+      "bank_id": "5011ab00",
+      "text": "Şöhretin büyük olabilir ama hayal gücün sınıfta kalmış."
+    },
+    {
+      "id": "70d5a890",
+      "bank_id": "5011ab00",
+      "text": "Bütün numaran bu mu?"
+    },
+    {
+      "id": "70d5a891",
+      "bank_id": "5011ab00",
+      "text": "Evet, her neyse."
+    },
+    {
+      "id": "70d5a892",
+      "bank_id": "5011ab00",
+      "text": "Bunu zaten gördüm."
+    },
+    {
+      "id": "70d5a894",
+      "bank_id": "5011ab00",
+      "text": "Ne kadar bayat."
+    },
+    {
+      "id": "70d5a895",
+      "bank_id": "5011ab00",
+      "text": "Feci sıkıcı."
+    },
+    {
+      "id": "70d5a896",
+      "bank_id": "5011ab00",
+      "text": "Gördük bunu!"
+    },
+    {
+      "id": "70d5a897",
+      "bank_id": "5011ab00",
+      "text": "Bütün numaran bu mu?"
+    },
+    {
+      "id": "79d5b6f8",
+      "bank_id": "5011ab00",
+      "text": "Ah, ne yavanlık ama."
+    },
+    {
+      "id": "79d5b6f9",
+      "bank_id": "5011ab00",
+      "text": "Resmen tekdüze."
+    },
+    {
+      "id": "79d5b6fa",
+      "bank_id": "5011ab00",
+      "text": "Sıkıldım!"
+    },
+    {
+      "id": "79d5b6fb",
+      "bank_id": "5011ab00",
+      "text": "Bu kadar mı yani?!"
+    },
+    {
+      "id": "79d5b6fc",
+      "bank_id": "5011ab00",
+      "text": "Bu tanıdık geldi."
+    },
+    {
+      "id": "79d5b6fd",
+      "bank_id": "5011ab00",
+      "text": "Yeni bir şey yok mu yani?"
+    },
+    {
+      "id": "79d5b6ff",
+      "bank_id": "5011ab00",
+      "text": "Ah, yine mi bu."
+    },
+    {
+      "id": "80600df3",
+      "bank_id": "5011ab00",
+      "text": "Tam bir can sıkıntısısın."
+    },
+    {
+      "id": "876018f6",
+      "bank_id": "5011ab00",
+      "text": "Ah, bu resmen sıkıcı."
+    },
+    {
+      "id": "8b1b85a0",
+      "bank_id": "5011ab00",
+      "text": "Benim zevklerim biraz daha farklıdır..."
+    },
+    {
+      "id": "8b1b85a1",
+      "bank_id": "5011ab00",
+      "text": "Senin tipinle gerçekten ilgilenmiyorum."
+    },
+    {
+      "id": "8b1b85a3",
+      "bank_id": "5011ab00",
+      "text": "Kusura bakma ama ekmeğimin o tarafına yağ sürmem ben. Başka hiçbir şeyin de öyle."
+    },
+    {
+      "id": "8b1b85a6",
+      "bank_id": "5011ab00",
+      "text": "Kusura bakma, o tarafa meyilli değilim."
+    },
+    {
+      "id": "8b1b85a7",
+      "bank_id": "5011ab00",
+      "text": "Ne?! Hayır! Uzak dur benden!"
+    },
+    {
+      "id": "921b90a2",
+      "bank_id": "5011ab00",
+      "text": "Ben öyle şeylere gelemem."
+    },
+    {
+      "id": "93cf57f1",
+      "bank_id": "5011ab00",
+      "text": "Nefesimi kesiyorsun."
+    },
+    {
+      "id": "93cf57f2",
+      "bank_id": "5011ab00",
+      "text": "Bütün gün sana bakabilirim."
+    },
+    {
+      "id": "93cf57f3",
+      "bank_id": "5011ab00",
+      "text": "Cidden bir harikasın!"
+    },
+    {
+      "id": "93cf57f4",
+      "bank_id": "5011ab00",
+      "text": "Tam bir afetmişsin hani!"
+    },
+    {
+      "id": "93cf57f5",
+      "bank_id": "5011ab00",
+      "text": "Vay canına! Şuna da bakın!"
+    },
+    {
+      "id": "93cf57f6",
+      "bank_id": "5011ab00",
+      "text": "Güzelliğin karşısında büyülendim."
+    },
+    {
+      "id": "93cf57f7",
+      "bank_id": "5011ab00",
+      "text": "Böylesi bir zarafeti daha önce hiç görmemiştim."
+    },
+    {
+      "id": "9afd3998",
+      "bank_id": "5011ab00",
+      "text": "Doğrusu, her zamanki görünüşüne kıyasla ufak bir gelişme."
+    },
+    {
+      "id": "9afd3999",
+      "bank_id": "5011ab00",
+      "text": "Eh, bu o çirkinliği biraz olsun hafifletmiş."
+    },
+    {
+      "id": "9afd399a",
+      "bank_id": "5011ab00",
+      "text": "Kimseyi kandıramazsın; yüzünü hâlâ görebiliyorum."
+    },
+    {
+      "id": "9afd399b",
+      "bank_id": "5011ab00",
+      "text": "Peh, çirkin olmadığını kanıtlamaya çalışmanın alemi yok."
+    },
+    {
+      "id": "9afd399c",
+      "bank_id": "5011ab00",
+      "text": "İmajını düzeltmek için tam da böyle bir şeye ihtiyacın vardı."
+    },
+    {
+      "id": "9afd399d",
+      "bank_id": "5011ab00",
+      "text": "Düşündüğüm kadar çirkin değilmişsin meğer."
+    },
+    {
+      "id": "9afd399e",
+      "bank_id": "5011ab00",
+      "text": "Biraz imaj yenilemeye kalkıştın herhalde?"
+    },
+    {
+      "id": "9ecf6920",
+      "bank_id": "5011ab00",
+      "text": "Gördüğüm şey hoşuma gitti."
+    },
+    {
+      "id": "9ecf6922",
+      "bank_id": "5011ab00",
+      "text": "Hmm, seni ham diye yiyebilirim."
+    },
+    {
+      "id": "9ecf6923",
+      "bank_id": "5011ab00",
+      "text": "Bayağı harika bir manzaraymışsın."
+    },
+    {
+      "id": "9ecf6924",
+      "bank_id": "5011ab00",
+      "text": "Mmmm, ekmek arası yapıp yerim seni."
+    },
+    {
+      "id": "9ecf6925",
+      "bank_id": "5011ab00",
+      "text": "Vay be, öyle leziz görünüyorsun ki."
+    },
+    {
+      "id": "9ecf6926",
+      "bank_id": "5011ab00",
+      "text": "Hayvansı çekiciliğin müthiş bir güçle kendine çekiyor."
+    },
+    {
+      "id": "9ecf6927",
+      "bank_id": "5011ab00",
+      "text": "Daha önce hiç bu kadar dizginsiz bir çekim hissetmemiştim."
+    },
+    {
+      "id": "a36f5fb3",
+      "bank_id": "5011ab00",
+      "text": "Yetişkinler neden bu kadar sıkıcı? Ünlü olanları bile."
+    },
+    {
+      "id": "a3fd47e8",
+      "bank_id": "5011ab00",
+      "text": "Her zamanki haline kıyasla pek de o kadar çirkin sayılmazsın."
+    },
+    {
+      "id": "a3fd47e9",
+      "bank_id": "5011ab00",
+      "text": "Bir dakika, senin korkunç çirkin olman gerekmiyor muydu?"
+    },
+    {
+      "id": "a3fd47eb",
+      "bank_id": "5011ab00",
+      "text": "İmajını düzeltmeye çalışıyorsun ha?"
+    },
+    {
+      "id": "a3fd47ec",
+      "bank_id": "5011ab00",
+      "text": "Eh, çirkinler güruhundan kurtulmak adına doğru yönde atılmış küçük bir adım."
+    },
+    {
+      "id": "a3fd47ed",
+      "bank_id": "5011ab00",
+      "text": "Halkın gözündeki imajını düzeltmeye çalışmanın vakti gelmişti zaten."
+    },
+    {
+      "id": "a3fd47ee",
+      "bank_id": "5011ab00",
+      "text": "Ayna kıran birinden bekleyeceğim türden bir şey değil doğrusu."
+    },
+    {
+      "id": "a3fd47ef",
+      "bank_id": "5011ab00",
+      "text": "Peh, çirkinliğini gizlemeye çalışıyorsun değil mi?"
+    },
+    {
+      "id": "a5e49980",
+      "bank_id": "5011ab00",
+      "text": "Ben yalnızca belirli türdeki hayat kadınlarından hoşlanırım."
+    },
+    {
+      "id": "a5e49981",
+      "bank_id": "5011ab00",
+      "text": "Hmm, benim ilgi alanlarım başka yerde."
+    },
+    {
+      "id": "a5e49982",
+      "bank_id": "5011ab00",
+      "text": "Ne?! Hayır, kesinlikle benim tipim değilsin."
+    },
+    {
+      "id": "a5e49984",
+      "bank_id": "5011ab00",
+      "text": "Etrafta farklı cinsiyetten bir yoldaşın yok mu acaba?"
+    },
+    {
+      "id": "a5e49985",
+      "bank_id": "5011ab00",
+      "text": "Resmen şaşkına döndüm! Senin gibilerle bu tür işlere kalkışmam ben. Artık olmaz."
+    },
+    {
+      "id": "a5e49986",
+      "bank_id": "5011ab00",
+      "text": "O tarafa yelken açmam ben!"
+    },
+    {
+      "id": "a5e49987",
+      "bank_id": "5011ab00",
+      "text": "Ben başka tür bir sevgiden hoşlanırım."
+    },
+    {
+      "id": "aa6f6ab6",
+      "bank_id": "5011ab00",
+      "text": "Ünlü olabilirsin ama yine de sıkıcısın."
+    },
+    {
+      "id": "aee4a7e8",
+      "bank_id": "5011ab00",
+      "text": "Üzülerek söylüyorum ki tercih ettiğim cinsiyet kesinlikle sen değilsin."
+    },
+    {
+      "id": "aee4a7e9",
+      "bank_id": "5011ab00",
+      "text": "İltifatına teşekkürler ama beni senin türünden hoşlanan biriyle karıştırdın."
+    },
+    {
+      "id": "aee4a7ea",
+      "bank_id": "5011ab00",
+      "text": "İtiraf etmeliyim ki biraz merak etmedim değil. Ama yok, kalsın."
+    },
+    {
+      "id": "aee4a7eb",
+      "bank_id": "5011ab00",
+      "text": "Senin gibileri bilirim! Hobbe'lerden bir farkın yok değil mi?"
+    },
+    {
+      "id": "aee4a7ec",
+      "bank_id": "5011ab00",
+      "text": "Hayır teşekkürler, pek benim tipim değilsin."
+    },
+    {
+      "id": "aee4a7ed",
+      "bank_id": "5011ab00",
+      "text": "Ben sevgi satın almam. Hele senden asla!"
+    },
+    {
+      "id": "aee4a7ef",
+      "bank_id": "5011ab00",
+      "text": "Ne? Seninle mi? Hiç sanmıyorum."
+    },
+    {
+      "id": "b1a08d88",
+      "bank_id": "5011ab00",
+      "text": "Çekici biri olma yolunda ilerliyorsun."
+    },
+    {
+      "id": "b1a08d8a",
+      "bank_id": "5011ab00",
+      "text": "Kesinlikle her zamankinden daha az çirkinsin."
+    },
+    {
+      "id": "b1a08d8b",
+      "bank_id": "5011ab00",
+      "text": "Doğrusu her zamankinden daha hoş görünüyorsun."
+    },
+    {
+      "id": "b1a08d8c",
+      "bank_id": "5011ab00",
+      "text": "Çirkin olmaktan bıktın ha?"
+    },
+    {
+      "id": "b1a08d8d",
+      "bank_id": "5011ab00",
+      "text": "Ne oldu? Çirkin olmak yetmedi mi sana?"
+    },
+    {
+      "id": "b44f2960",
+      "bank_id": "5011ab00",
+      "text": "Son yirmi seferde bu çok daha etkileyiciydi..."
+    },
+    {
+      "id": "b44f2961",
+      "bank_id": "5011ab00",
+      "text": "Ah! Vay canına! Yine mi..."
+    },
+    {
+      "id": "b44f2962",
+      "bank_id": "5011ab00",
+      "text": "Ünlü ve harika olduğunu falan biliyorum ama hep aynı şeyi görmekten gına geldi."
+    },
+    {
+      "id": "b44f2964",
+      "bank_id": "5011ab00",
+      "text": "Bu özgünlük eksikliği senin gibi büyük şöhretli birine hiç yakışmıyor."
+    },
+    {
+      "id": "b44f2965",
+      "bank_id": "5011ab00",
+      "text": "Ah evet, ama senin gibi üne sahip birinin yenin içinde daha fazla numara olmalı..."
+    },
+    {
+      "id": "b44f2966",
+      "bank_id": "5011ab00",
+      "text": "Eeeeesneeediiim! İşte koca Kahraman mısın nesin, senin hakkında tam da bunu düşünüyorum."
+    },
+    {
+      "id": "b44f2967",
+      "bank_id": "5011ab00",
+      "text": "Nesin sen böyle? Tek bir numarası olan cambaz mı?"
+    },
+    {
+      "id": "b6a095a9",
+      "bank_id": "5011ab00",
+      "text": "Daha az çirkin olmaya çalışıyorsun ha?"
+    },
+    {
+      "id": "b6a095aa",
+      "bank_id": "5011ab00",
+      "text": "Görünüşünü düzeltiyorsun demek?"
+    },
+    {
+      "id": "b6a095ab",
+      "bank_id": "5011ab00",
+      "text": "Eh, bu biraz olsun gelişme sayılır."
+    },
+    {
+      "id": "b6a095ac",
+      "bank_id": "5011ab00",
+      "text": "Bir nebze daha az çirkinsin herhalde."
+    },
+    {
+      "id": "b6a095ad",
+      "bank_id": "5011ab00",
+      "text": "Bu kadar çirkin biri için fena sayılmaz."
+    },
+    {
+      "id": "bd4f3748",
+      "bank_id": "5011ab00",
+      "text": "Artık bundan gına geldi. Senin gibi ünlü bir maceracı daha fazlasını yapabilir herhalde."
+    },
+    {
+      "id": "bd4f3749",
+      "bank_id": "5011ab00",
+      "text": "Bir ünlü için bile gereğinden fazla tekrara düşüyorsun doğrusu."
+    },
+    {
+      "id": "bd4f374a",
+      "bank_id": "5011ab00",
+      "text": "Bu kadar ünlü olmanın sebebi bu mu? İnsanları sıkıntıdan öldürmek mi?"
+    },
+    {
+      "id": "bd4f374b",
+      "bank_id": "5011ab00",
+      "text": "Gördüm, gördüm, gördüm. Ne kadar meşhur olduğun umrumda değil, *hâlâ* gördüm bunu."
+    },
+    {
+      "id": "bd4f374c",
+      "bank_id": "5011ab00",
+      "text": "Çok fazla kez gördüm zaten ulu maceracı."
+    },
+    {
+      "id": "bd4f374d",
+      "bank_id": "5011ab00",
+      "text": "Ünlüler bile sıkıcı olabiliyormuş meğer."
+    },
+    {
+      "id": "bd4f374f",
+      "bank_id": "5011ab00",
+      "text": "Evet, evet, harika. Ama siz ünlülerin hiç mi hayal gücü yok?"
+    },
+    {
+      "id": "c8ce07b1",
+      "bank_id": "5011ab00",
+      "text": "Mmmm..."
+    },
+    {
+      "id": "c8ce07b2",
+      "bank_id": "5011ab00",
+      "text": "Oooh!"
+    },
+    {
+      "id": "c8ce07b3",
+      "bank_id": "5011ab00",
+      "text": "Mmmm..."
+    },
+    {
+      "id": "c8ce07b4",
+      "bank_id": "5011ab00",
+      "text": "Mmmm..."
+    },
+    {
+      "id": "c8ce07b5",
+      "bank_id": "5011ab00",
+      "text": "Mmmm..."
+    },
+    {
+      "id": "c8ce07b6",
+      "bank_id": "5011ab00",
+      "text": "Oooh!"
+    },
+    {
+      "id": "c8ce07b7",
+      "bank_id": "5011ab00",
+      "text": "Mmmm..."
+    },
+    {
+      "id": "cec9a442",
+      "bank_id": "5011ab00",
+      "text": "Büyüyünce acaba ben de öyle görünebilir miyim..."
+    },
+    {
+      "id": "d3ce18e0",
+      "bank_id": "5011ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "d3ce18e2",
+      "bank_id": "5011ab00",
+      "text": "Oooh!"
+    },
+    {
+      "id": "d3ce18e3",
+      "bank_id": "5011ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "d3ce18e4",
+      "bank_id": "5011ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "d3ce18e5",
+      "bank_id": "5011ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "d3ce18e6",
+      "bank_id": "5011ab00",
+      "text": "Oooh!"
+    },
+    {
+      "id": "d3ce18e7",
+      "bank_id": "5011ab00",
+      "text": "Aman tanrım!"
+    },
+    {
+      "id": "d7c9b2af",
+      "bank_id": "5011ab00",
+      "text": "Vay, havalı tarz!"
+    },
+    {
+      "id": "d9a85d31",
+      "bank_id": "5011ab00",
+      "text": "Esniyorum."
+    },
+    {
+      "id": "d9a85d32",
+      "bank_id": "5011ab00",
+      "text": "Ah, bu kelimelerin yetmeyeceği kadar sıkıcı."
+    },
+    {
+      "id": "d9a85d33",
+      "bank_id": "5011ab00",
+      "text": "Uykumu getiriyorsun vallahi."
+    },
+    {
+      "id": "d9a85d34",
+      "bank_id": "5011ab00",
+      "text": "Horultu festivali."
+    },
+    {
+      "id": "d9a85d35",
+      "bank_id": "5011ab00",
+      "text": "Yine mi bu!"
+    },
+    {
+      "id": "d9a85d36",
+      "bank_id": "5011ab00",
+      "text": "Böyle devam edersen kestirmem gerekecek."
+    },
+    {
+      "id": "d9a85d37",
+      "bank_id": "5011ab00",
+      "text": "Bunun modası feci geçmiş."
+    },
+    {
+      "id": "e2c38ee8",
+      "bank_id": "5011ab00",
+      "text": "Nefesimi tamamen kesiyorsun."
+    },
+    {
+      "id": "e2c38ee9",
+      "bank_id": "5011ab00",
+      "text": "Böylesi bir çekimi nadiren hissetmişimdir."
+    },
+    {
+      "id": "e2c38eea",
+      "bank_id": "5011ab00",
+      "text": "Bu gece aklımda sen olacaksın!"
+    },
+    {
+      "id": "e2c38eeb",
+      "bank_id": "5011ab00",
+      "text": "*ıslık çalar* Ooo evet!"
+    },
+    {
+      "id": "e2c38eec",
+      "bank_id": "5011ab00",
+      "text": "Bayağı harikasın biliyorsun değil mi."
+    },
+    {
+      "id": "e2c38eed",
+      "bank_id": "5011ab00",
+      "text": "Büyülendim resmen."
+    },
+    {
+      "id": "e2c38eee",
+      "bank_id": "5011ab00",
+      "text": "Sen cidden bambaşka bir şeysin."
+    },
+    {
+      "id": "e4a86e60",
+      "bank_id": "5011ab00",
+      "text": "Hep aynı bayat numaralar."
+    },
+    {
+      "id": "e4a86e62",
+      "bank_id": "5011ab00",
+      "text": "Bunu hâlâ görmemiş olan biri kaldı mı acaba?"
+    },
+    {
+      "id": "e4a86e63",
+      "bank_id": "5011ab00",
+      "text": "Yine mi bu. Yatağımda kalsaydım keşke."
+    },
+    {
+      "id": "e4a86e64",
+      "bank_id": "5011ab00",
+      "text": "Yeni bir numara bul."
+    },
+    {
+      "id": "e4a86e65",
+      "bank_id": "5011ab00",
+      "text": "Sıkıntıdan kaskatı kestin bizi."
+    },
+    {
+      "id": "e4a86e66",
+      "bank_id": "5011ab00",
+      "text": "Bu artık usanç vermeye başladı."
+    },
+    {
+      "id": "e4a86e67",
+      "bank_id": "5011ab00",
+      "text": "Tekdüzeliğin vücut bulmuş halisin."
+    },
+    {
+      "id": "e9f85e10",
+      "bank_id": "5011ab00",
+      "text": "Ah, ne kadar güzel tatlım!"
+    },
+    {
+      "id": "e9f85e11",
+      "bank_id": "5011ab00",
+      "text": "Aferin sevgilim!"
+    },
+    {
+      "id": "e9f85e12",
+      "bank_id": "5011ab00",
+      "text": "Harikasın canım!"
+    },
+    {
+      "id": "e9f85e14",
+      "bank_id": "5011ab00",
+      "text": "Olağanüstü aşkım!"
+    },
+    {
+      "id": "e9f85e15",
+      "bank_id": "5011ab00",
+      "text": "Ah, büsbütün harika tatlım benim!"
+    },
+    {
+      "id": "e9f85e16",
+      "bank_id": "5011ab00",
+      "text": "İnanılmaz sevgilim!"
+    },
+    {
+      "id": "e9f85e17",
+      "bank_id": "5011ab00",
+      "text": "Harikasın canım!"
+    },
+    {
+      "id": "ebc39d38",
+      "bank_id": "5011ab00",
+      "text": "Çok özel birisin."
+    },
+    {
+      "id": "ebc39d39",
+      "bank_id": "5011ab00",
+      "text": "Seni evime götürebilir miyim?"
+    },
+    {
+      "id": "ebc39d3b",
+      "bank_id": "5011ab00",
+      "text": "Ooo, bayıldım buna!"
+    },
+    {
+      "id": "ebc39d3c",
+      "bank_id": "5011ab00",
+      "text": "Nefes kesici bir örneksin."
+    },
+    {
+      "id": "ebc39d3d",
+      "bank_id": "5011ab00",
+      "text": "Sana karşı açıklanamaz bir çekim hissediyorum."
+    },
+    {
+      "id": "ebc39d3e",
+      "bank_id": "5011ab00",
+      "text": "Dizlerimin bağını çözüyorsun."
+    },
+    {
+      "id": "ebc39d3f",
+      "bank_id": "5011ab00",
+      "text": "Beni çılgına çeviriyorsun!"
+    },
+    {
+      "id": "f2f86c78",
+      "bank_id": "5011ab00",
+      "text": "Ah, büsbütün harika tatlım benim!"
+    },
+    {
+      "id": "f2f86c79",
+      "bank_id": "5011ab00",
+      "text": "Olağanüstü aşkım!"
+    },
+    {
+      "id": "f2f86c7a",
+      "bank_id": "5011ab00",
+      "text": "Harikasın canım!"
+    },
+    {
+      "id": "f2f86c7b",
+      "bank_id": "5011ab00",
+      "text": "İnanılmaz sevgilim!"
+    },
+    {
+      "id": "f2f86c7c",
+      "bank_id": "5011ab00",
+      "text": "Aferin sevgilim!"
+    },
+    {
+      "id": "f2f86c7d",
+      "bank_id": "5011ab00",
+      "text": "Ah, ne kadar güzel tatlım!"
+    },
+    {
+      "id": "f2f86c7f",
+      "bank_id": "5011ab00",
+      "text": "Harikasın sevgilim!"
+    },
+    {
+      "id": "f9541311",
+      "bank_id": "5011ab00",
+      "text": "Hadi ama! Hep aynı şeyi tekrar tekrar yapıp duruyorsun. Hani ünlü biri olacaktın sen!"
+    }
+  ]
+}

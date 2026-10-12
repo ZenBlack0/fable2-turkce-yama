@@ -1,0 +1,1596 @@
+{
+  "bank_id": "2014ab00",
+  "total_strings": 318,
+  "strings": [
+    {
+      "id": "00686299",
+      "bank_id": "2014ab00",
+      "text": "<whimper>"
+    },
+    {
+      "id": "0068629a",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "0068629b",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "020c81b0",
+      "bank_id": "2014ab00",
+      "text": "Benden hemen uzaklaşmanı istiyorum... DERHAL!"
+    },
+    {
+      "id": "020c81b1",
+      "bank_id": "2014ab00",
+      "text": "Yüzünü görmeye bile katlanamıyorum!"
+    },
+    {
+      "id": "020c81b2",
+      "bank_id": "2014ab00",
+      "text": "Bu korkunç! Sen insandan çok bir canavarsın!"
+    },
+    {
+      "id": "020c81b4",
+      "bank_id": "2014ab00",
+      "text": "Sen bir canavarsın!"
+    },
+    {
+      "id": "020c81b5",
+      "bank_id": "2014ab00",
+      "text": "Daha önce hiç bu kadar alçakça bir şeye şahit olmamıştım."
+    },
+    {
+      "id": "020c81b6",
+      "bank_id": "2014ab00",
+      "text": "Git de gözüne bir balta sapla!"
+    },
+    {
+      "id": "020c81b7",
+      "bank_id": "2014ab00",
+      "text": "Neden benden olabildiğince uzağa gitmiyorsun?"
+    },
+    {
+      "id": "09eed970",
+      "bank_id": "2014ab00",
+      "text": "Yaaaarrgh!"
+    },
+    {
+      "id": "0b0c8f98",
+      "bank_id": "2014ab00",
+      "text": "Ah! Tam bir hayvansın sen!"
+    },
+    {
+      "id": "0b0c8f99",
+      "bank_id": "2014ab00",
+      "text": "Düpedüz! Düpedüz çürüksün, tam olarak busun işte!"
+    },
+    {
+      "id": "0b0c8f9a",
+      "bank_id": "2014ab00",
+      "text": "O domuz derini yüzerdim valla!"
+    },
+    {
+      "id": "0b0c8f9b",
+      "bank_id": "2014ab00",
+      "text": "Hobbe'den bir farkın yok senin!"
+    },
+    {
+      "id": "0b0c8f9c",
+      "bank_id": "2014ab00",
+      "text": "Bu tek kelimeyle adilik."
+    },
+    {
+      "id": "0b0c8f9d",
+      "bank_id": "2014ab00",
+      "text": "Nesin sen böyle? Bir tür canavar falan mı?"
+    },
+    {
+      "id": "0b0c8f9f",
+      "bank_id": "2014ab00",
+      "text": "Kocaman bir zorbamsın sen."
+    },
+    {
+      "id": "0e68ca60",
+      "bank_id": "2014ab00",
+      "text": "Peh! Senin hakkındaki fikrimi gözden geçirmem gerekecek!"
+    },
+    {
+      "id": "0e68ca61",
+      "bank_id": "2014ab00",
+      "text": "Davranışların beni büyük hayal kırıklığına uğrattı!"
+    },
+    {
+      "id": "0e68ca62",
+      "bank_id": "2014ab00",
+      "text": "Hobbe aşkına bu da ne?! Bir de senden hoşlandığımı sanırdım!"
+    },
+    {
+      "id": "0e68ca63",
+      "bank_id": "2014ab00",
+      "text": "Ha? Senin hakkındaki fikrimi çok çabuk değiştireceğim galiba."
+    },
+    {
+      "id": "0e68ca64",
+      "bank_id": "2014ab00",
+      "text": "Hey, senin iyi biri olduğunu sanıyordum!"
+    },
+    {
+      "id": "0e68ca65",
+      "bank_id": "2014ab00",
+      "text": "N-ne? Düşündüğümün yanından bile geçmeyecek kadar kaba birisin."
+    },
+    {
+      "id": "0e68ca67",
+      "bank_id": "2014ab00",
+      "text": "Ne? Bir de senden hoşlanmıştım ha!"
+    },
+    {
+      "id": "0f9075ce",
+      "bank_id": "2014ab00",
+      "text": "Umarım bir gün ben de senin kadar iyi olurum."
+    },
+    {
+      "id": "1568d568",
+      "bank_id": "2014ab00",
+      "text": "A-ama neden böyle bir şey yaptın ki?"
+    },
+    {
+      "id": "1568d569",
+      "bank_id": "2014ab00",
+      "text": "Ah! Sen değişmişsin!"
+    },
+    {
+      "id": "1568d56a",
+      "bank_id": "2014ab00",
+      "text": "Senden bunu hiç beklemezdim!"
+    },
+    {
+      "id": "1568d56c",
+      "bank_id": "2014ab00",
+      "text": "Ah! Şok oldum. Bu hareketler sana hiç yakışmıyor."
+    },
+    {
+      "id": "1568d56d",
+      "bank_id": "2014ab00",
+      "text": "Pardon da ne dedin?! Ben de ruh ikizi olduğumuza inanıyordum."
+    },
+    {
+      "id": "1568d56e",
+      "bank_id": "2014ab00",
+      "text": "Senden bunu beklemezdim!"
+    },
+    {
+      "id": "1568d56f",
+      "bank_id": "2014ab00",
+      "text": "Eskiden sevebileceğim biriydin biliyor musun!"
+    },
+    {
+      "id": "1890841b",
+      "bank_id": "2014ab00",
+      "text": "Gelmiş geçmiş en iyisi gibisin."
+    },
+    {
+      "id": "27e37887",
+      "bank_id": "2014ab00",
+      "text": "Aaaaaaaaaahhhhh!"
+    },
+    {
+      "id": "2929f4d7",
+      "bank_id": "2014ab00",
+      "text": "Naaaaaaahhhh!"
+    },
+    {
+      "id": "2951e028",
+      "bank_id": "2014ab00",
+      "text": "Hey!"
+    },
+    {
+      "id": "2951e029",
+      "bank_id": "2014ab00",
+      "text": "Sen!"
+    },
+    {
+      "id": "2951e02b",
+      "bank_id": "2014ab00",
+      "text": "Ne?!"
+    },
+    {
+      "id": "2951e02e",
+      "bank_id": "2014ab00",
+      "text": "Sen!"
+    },
+    {
+      "id": "2951e02f",
+      "bank_id": "2014ab00",
+      "text": "Grrrr!"
+    },
+    {
+      "id": "2e8ba024",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "2ee3838a",
+      "bank_id": "2014ab00",
+      "text": "Aaaaaaaaaahhhhh!"
+    },
+    {
+      "id": "3029ffda",
+      "bank_id": "2014ab00",
+      "text": "Naaaaaaahhhh!"
+    },
+    {
+      "id": "338ba7c5",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "3493d6b1",
+      "bank_id": "2014ab00",
+      "text": "O kadar nefret doluyum ki ağzımdan köpükler saçılacak."
+    },
+    {
+      "id": "3493d6b2",
+      "bank_id": "2014ab00",
+      "text": "Peh! Bundan ne kadar nefret ettiğimi anlatamam!"
+    },
+    {
+      "id": "3493d6b3",
+      "bank_id": "2014ab00",
+      "text": "Kelimelerin yetmeyeceği kadar korkunç."
+    },
+    {
+      "id": "3493d6b4",
+      "bank_id": "2014ab00",
+      "text": "O kadar pislikçe ki beni deliye döndürüyor."
+    },
+    {
+      "id": "3493d6b5",
+      "bank_id": "2014ab00",
+      "text": "Buna katlanamıyorum!"
+    },
+    {
+      "id": "3493d6b6",
+      "bank_id": "2014ab00",
+      "text": "İnanılmaz derecede iğrenç."
+    },
+    {
+      "id": "3493d6b7",
+      "bank_id": "2014ab00",
+      "text": "Tek kelimeyle aşağılık."
+    },
+    {
+      "id": "3db48e6e",
+      "bank_id": "2014ab00",
+      "text": "Bu hiç iyi değil."
+    },
+    {
+      "id": "3f93e7e0",
+      "bank_id": "2014ab00",
+      "text": "Tam anlamıyla bir rezalet."
+    },
+    {
+      "id": "3f93e7e2",
+      "bank_id": "2014ab00",
+      "text": "Bu düpedüz hakaret."
+    },
+    {
+      "id": "3f93e7e3",
+      "bank_id": "2014ab00",
+      "text": "Büsbütün alçakça!"
+    },
+    {
+      "id": "3f93e7e4",
+      "bank_id": "2014ab00",
+      "text": "Rezaletin daniskası bu."
+    },
+    {
+      "id": "3f93e7e5",
+      "bank_id": "2014ab00",
+      "text": "Yanlış, kötü ve beş para etmez."
+    },
+    {
+      "id": "3f93e7e6",
+      "bank_id": "2014ab00",
+      "text": "Menfur. Başka kelime bulamıyorum."
+    },
+    {
+      "id": "3f93e7e7",
+      "bank_id": "2014ab00",
+      "text": "Tamamen değersiz."
+    },
+    {
+      "id": "424215e8",
+      "bank_id": "2014ab00",
+      "text": "Buna layık değiliz!"
+    },
+    {
+      "id": "424cb128",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "424cb12a",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "424cb12b",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "424cb12c",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "424cb12d",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "424cb12e",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "424cb12f",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "42e922f8",
+      "bank_id": "2014ab00",
+      "text": "Yaaaarrgh!"
+    },
+    {
+      "id": "42e922f9",
+      "bank_id": "2014ab00",
+      "text": "Yaaaarrgh!"
+    },
+    {
+      "id": "42e922fa",
+      "bank_id": "2014ab00",
+      "text": "Yaaaarrgh!"
+    },
+    {
+      "id": "42e922fb",
+      "bank_id": "2014ab00",
+      "text": "Yaaaarrgh!"
+    },
+    {
+      "id": "42e922fc",
+      "bank_id": "2014ab00",
+      "text": "Yaaaarrgh!"
+    },
+    {
+      "id": "42e922fd",
+      "bank_id": "2014ab00",
+      "text": "Yaaaarrgh!"
+    },
+    {
+      "id": "42e922ff",
+      "bank_id": "2014ab00",
+      "text": "<screams>"
+    },
+    {
+      "id": "43008500",
+      "bank_id": "2014ab00",
+      "text": "Yiiiiaaaaaaaaaahhh!"
+    },
+    {
+      "id": "43008501",
+      "bank_id": "2014ab00",
+      "text": "Yiiiiaaaaaaaaaahhh!"
+    },
+    {
+      "id": "43008503",
+      "bank_id": "2014ab00",
+      "text": "<screams>"
+    },
+    {
+      "id": "43fb5e17",
+      "bank_id": "2014ab00",
+      "text": "Artık senden hoşlandığımı sanmıyorum."
+    },
+    {
+      "id": "46b49cbb",
+      "bank_id": "2014ab00",
+      "text": "Bu hiç ama hiç hoşuma gitmedi."
+    },
+    {
+      "id": "47421d89",
+      "bank_id": "2014ab00",
+      "text": "Buna layık değiliz!"
+    },
+    {
+      "id": "474cb8c9",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "474cb8ca",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "474cb8cb",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "474cb8cc",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "474cb8cd",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "474cb8ce",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "474cb8cf",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "4938b3fd",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "4a009004",
+      "bank_id": "2014ab00",
+      "text": "Yiiiiaaaaaaaaaahhh!"
+    },
+    {
+      "id": "4a009005",
+      "bank_id": "2014ab00",
+      "text": "Yiiiiaaaaaaaaaahhh!"
+    },
+    {
+      "id": "4a009006",
+      "bank_id": "2014ab00",
+      "text": "Yiiiiaaaaaaaaaahhh!"
+    },
+    {
+      "id": "4afb691a",
+      "bank_id": "2014ab00",
+      "text": "Demek beş para etmezin teki çıktın."
+    },
+    {
+      "id": "5438c52c",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "5d448c74",
+      "bank_id": "2014ab00",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "62449415",
+      "bank_id": "2014ab00",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "6b3c4600",
+      "bank_id": "2014ab00",
+      "text": "Doğanın zirvesisin sen. En yüce yaratımı. Başyapıtı."
+    },
+    {
+      "id": "6b3c4601",
+      "bank_id": "2014ab00",
+      "text": "Yüceliğin Albion toza dönüştükten çok sonra bile hatırlanacak."
+    },
+    {
+      "id": "6b3c4602",
+      "bank_id": "2014ab00",
+      "text": "Senin yanında bizler hayvandan farksızız."
+    },
+    {
+      "id": "6b3c4603",
+      "bank_id": "2014ab00",
+      "text": "Seni mutlu edeceğini bilsem bir hobbe'yi bile öperdim."
+    },
+    {
+      "id": "6b3c4604",
+      "bank_id": "2014ab00",
+      "text": "İnsanlar arasında bir tanrı. Hatta karıncalar arasında bir tanrı!"
+    },
+    {
+      "id": "6b3c4605",
+      "bank_id": "2014ab00",
+      "text": "Görkemli varlığın karşısında öyle mahcubum ki ayaklarına elmastan gözyaşları dökmek istiyorum."
+    },
+    {
+      "id": "6b3c4607",
+      "bank_id": "2014ab00",
+      "text": "Güneş ve ay senin yanında sönük birer çakıl taşından ibaret kalır."
+    },
+    {
+      "id": "6b487447",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "70347430",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "70347431",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "70347432",
+      "bank_id": "2014ab00",
+      "text": "<screams>"
+    },
+    {
+      "id": "70347434",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "70347435",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "70347436",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "70347437",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "71e0ed02",
+      "bank_id": "2014ab00",
+      "text": "Erdem zayıflar içindir."
+    },
+    {
+      "id": "71e0ed03",
+      "bank_id": "2014ab00",
+      "text": "Öyle asilsin ki midemi bulandırıyorsun."
+    },
+    {
+      "id": "723c5108",
+      "bank_id": "2014ab00",
+      "text": "Hükümdarlara yaraşır ışıltınla aydınlanıyorum."
+    },
+    {
+      "id": "723c5109",
+      "bank_id": "2014ab00",
+      "text": "Buna layık değiliz!"
+    },
+    {
+      "id": "723c510a",
+      "bank_id": "2014ab00",
+      "text": "Ne kadar akıl almaz derecede harika olduğunu kelimeler tarif edemez."
+    },
+    {
+      "id": "723c510c",
+      "bank_id": "2014ab00",
+      "text": "İyi, nazik, güçlü ve kusursuz olan ne varsa hepsi senin varlığında toplanmış."
+    },
+    {
+      "id": "723c510d",
+      "bank_id": "2014ab00",
+      "text": "Ah ekselansları, ne kadar da enfes derecede kusursuz bir simetridesiniz."
+    },
+    {
+      "id": "723c510e",
+      "bank_id": "2014ab00",
+      "text": "Seninle aynı havadaki mikropları solumak bile bir onurdur."
+    },
+    {
+      "id": "723c510f",
+      "bank_id": "2014ab00",
+      "text": "Buna layık değiliz!"
+    },
+    {
+      "id": "72487f4a",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "748fbe23",
+      "bank_id": "2014ab00",
+      "text": "Nefret ettim bundan!"
+    },
+    {
+      "id": "79348218",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "79348219",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "7934821a",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "7934821b",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "7934821c",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "7934821d",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "7934821f",
+      "bank_id": "2014ab00",
+      "text": "Vaaaahhh!"
+    },
+    {
+      "id": "7b5ae274",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "7b5ae276",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "7b5ae277",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "7b8fc926",
+      "bank_id": "2014ab00",
+      "text": "Nefret ediyorum, nefret ediyorum, nefret ediyorum."
+    },
+    {
+      "id": "7dad0934",
+      "bank_id": "2014ab00",
+      "text": "İyi biri olduğunu sanıyordum ama yanılmışım."
+    },
+    {
+      "id": "802efb38",
+      "bank_id": "2014ab00",
+      "text": "Naaaaaaahhhh!"
+    },
+    {
+      "id": "802efb3a",
+      "bank_id": "2014ab00",
+      "text": "Naaaaaaahhhh!"
+    },
+    {
+      "id": "802efb3b",
+      "bank_id": "2014ab00",
+      "text": "Naaaaaaahhhh!"
+    },
+    {
+      "id": "805aea15",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "805aea16",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "805aea17",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "82ad10d5",
+      "bank_id": "2014ab00",
+      "text": "O kadar da harika değilmişsin meğer."
+    },
+    {
+      "id": "82b97818",
+      "bank_id": "2014ab00",
+      "text": "Huzursuzum..."
+    },
+    {
+      "id": "82b97819",
+      "bank_id": "2014ab00",
+      "text": "Yazıklar olsun bana..."
+    },
+    {
+      "id": "82b9781a",
+      "bank_id": "2014ab00",
+      "text": "Çok üzücü..."
+    },
+    {
+      "id": "82b9781b",
+      "bank_id": "2014ab00",
+      "text": "İçim öyle bir endişeyle dolu ki."
+    },
+    {
+      "id": "82b9781d",
+      "bank_id": "2014ab00",
+      "text": "Bu hiç iyi değil..."
+    },
+    {
+      "id": "82b9781e",
+      "bank_id": "2014ab00",
+      "text": "Bu kötü. Çok kötü..."
+    },
+    {
+      "id": "82b9781f",
+      "bank_id": "2014ab00",
+      "text": "Kötü kötü kötü..."
+    },
+    {
+      "id": "852f02d9",
+      "bank_id": "2014ab00",
+      "text": "<screams>"
+    },
+    {
+      "id": "852f02da",
+      "bank_id": "2014ab00",
+      "text": "Naaaaaaahhhh!"
+    },
+    {
+      "id": "852f02db",
+      "bank_id": "2014ab00",
+      "text": "Naaaaaaahhhh!"
+    },
+    {
+      "id": "876f4a00",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "876f4a01",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "876f4a02",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "876f4a03",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "876f4a04",
+      "bank_id": "2014ab00",
+      "text": "<whimper>"
+    },
+    {
+      "id": "876f4a06",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "876f4a07",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8c6f5220",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8c6f5221",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8c6f5222",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8c6f5223",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8c6f5225",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8c6f5226",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8c6f5227",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "8db98948",
+      "bank_id": "2014ab00",
+      "text": "Her şey çok kötü."
+    },
+    {
+      "id": "8db98949",
+      "bank_id": "2014ab00",
+      "text": "Vah vah vah vah vah!"
+    },
+    {
+      "id": "8db9894a",
+      "bank_id": "2014ab00",
+      "text": "Aman tanrım, aman tanrım."
+    },
+    {
+      "id": "8db9894b",
+      "bank_id": "2014ab00",
+      "text": "Son derece sıkıntılı zamanlar."
+    },
+    {
+      "id": "8db9894c",
+      "bank_id": "2014ab00",
+      "text": "Bu hiç iyi değil."
+    },
+    {
+      "id": "8db9894e",
+      "bank_id": "2014ab00",
+      "text": "Çok huzursuzum."
+    },
+    {
+      "id": "8db9894f",
+      "bank_id": "2014ab00",
+      "text": "Çok sıkıntı verici..."
+    },
+    {
+      "id": "8f005150",
+      "bank_id": "2014ab00",
+      "text": "Cık cık. Beni gerçekten hayal kırıklığına uğrattın."
+    },
+    {
+      "id": "8f005151",
+      "bank_id": "2014ab00",
+      "text": "Bana düşündürdüğün kadar muazzam değilmişsin meğer."
+    },
+    {
+      "id": "8f005152",
+      "bank_id": "2014ab00",
+      "text": "Senin hakkında yanıldığımı görmek beni kahretti."
+    },
+    {
+      "id": "8f005153",
+      "bank_id": "2014ab00",
+      "text": "Hem kafam karıştı hem de sana dair tüm hayallerim yıkıldı."
+    },
+    {
+      "id": "8f005154",
+      "bank_id": "2014ab00",
+      "text": "Eskiden en iyisi olduğunu düşünürdüm. Ama şimdi..."
+    },
+    {
+      "id": "8f005156",
+      "bank_id": "2014ab00",
+      "text": "Senin hakkında yanılmış olmalıyım."
+    },
+    {
+      "id": "8f005157",
+      "bank_id": "2014ab00",
+      "text": "Ne?! Sanırım sandığım kadar harika biri değilsin."
+    },
+    {
+      "id": "923ecfb0",
+      "bank_id": "2014ab00",
+      "text": "Ah, hayır..."
+    },
+    {
+      "id": "923ecfb1",
+      "bank_id": "2014ab00",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "923ecfb2",
+      "bank_id": "2014ab00",
+      "text": "Hayır hayır hayır."
+    },
+    {
+      "id": "923ecfb3",
+      "bank_id": "2014ab00",
+      "text": "Korkunç."
+    },
+    {
+      "id": "923ecfb4",
+      "bank_id": "2014ab00",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "923ecfb5",
+      "bank_id": "2014ab00",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "923ecfb7",
+      "bank_id": "2014ab00",
+      "text": "Ah, hayır..."
+    },
+    {
+      "id": "94005970",
+      "bank_id": "2014ab00",
+      "text": "O kadar da harika değilmişsin meğer, değil mi?"
+    },
+    {
+      "id": "94005971",
+      "bank_id": "2014ab00",
+      "text": "Bunu senden hiç beklemezdim."
+    },
+    {
+      "id": "94005972",
+      "bank_id": "2014ab00",
+      "text": "Senin hakkındaki fikrimi gözden geçiriyorum. Belki de bu kadar yüksek olmamalıydı."
+    },
+    {
+      "id": "94005973",
+      "bank_id": "2014ab00",
+      "text": "Beni fena halde hayal kırıklığına uğrattın."
+    },
+    {
+      "id": "94005975",
+      "bank_id": "2014ab00",
+      "text": "Bunu nasıl yapabildin? Onca insanın içinde sen hem de."
+    },
+    {
+      "id": "94005976",
+      "bank_id": "2014ab00",
+      "text": "Ne?! Bir de senin harika olduğunu düşünürdüm!"
+    },
+    {
+      "id": "94005977",
+      "bank_id": "2014ab00",
+      "text": "Belki de senin hakkında bu kadar yüksek düşünmekle hata etmişimdir."
+    },
+    {
+      "id": "993edab8",
+      "bank_id": "2014ab00",
+      "text": "Vah vah vah..."
+    },
+    {
+      "id": "993edab9",
+      "bank_id": "2014ab00",
+      "text": "Ah, hayır..."
+    },
+    {
+      "id": "993edaba",
+      "bank_id": "2014ab00",
+      "text": "Ah, hayır..."
+    },
+    {
+      "id": "993edabc",
+      "bank_id": "2014ab00",
+      "text": "Vah vah..."
+    },
+    {
+      "id": "993edabd",
+      "bank_id": "2014ab00",
+      "text": "Ah, hayır..."
+    },
+    {
+      "id": "993edabe",
+      "bank_id": "2014ab00",
+      "text": "Ah, hayır..."
+    },
+    {
+      "id": "993edabf",
+      "bank_id": "2014ab00",
+      "text": "Ah, hayır..."
+    },
+    {
+      "id": "a34f5ac4",
+      "bank_id": "2014ab00",
+      "text": "Senin gibi melek tabiatlı iyilik timsallerine ayıracak vaktim yok benim."
+    },
+    {
+      "id": "a34f5ac5",
+      "bank_id": "2014ab00",
+      "text": "Peh! Ahlak mahlak dinlemem ben!"
+    },
+    {
+      "id": "a37e1671",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "a4635497",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "ab635f9a",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "ae7e27a0",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "b04a8a74",
+      "bank_id": "2014ab00",
+      "text": "Öyle yüce ki! Hepimizin çok üstünde!"
+    },
+    {
+      "id": "b04a8a75",
+      "bank_id": "2014ab00",
+      "text": "Emsalsizsin sen. Tıpkı... şey gibi... çok ama çok harika bir şey gibi."
+    },
+    {
+      "id": "b04a8a77",
+      "bank_id": "2014ab00",
+      "text": "Hepimizin üstünde yükseliyorsun, böcekler arasında bir devsin adeta."
+    },
+    {
+      "id": "b05525b7",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "b24fc3d0",
+      "bank_id": "2014ab00",
+      "text": "Geber git!"
+    },
+    {
+      "id": "b24fc3d1",
+      "bank_id": "2014ab00",
+      "text": "Ne pislik bir hayvansın sen öyle!"
+    },
+    {
+      "id": "b24fc3d2",
+      "bank_id": "2014ab00",
+      "text": "Ne kötü, ne korkunç bir yaratıksın sen!"
+    },
+    {
+      "id": "b24fc3d3",
+      "bank_id": "2014ab00",
+      "text": "Senin için sadece kötülük diliyorum!"
+    },
+    {
+      "id": "b24fc3d4",
+      "bank_id": "2014ab00",
+      "text": "Gözümüzün önünden kaybol!"
+    },
+    {
+      "id": "b24fc3d6",
+      "bank_id": "2014ab00",
+      "text": "Ah, sen o kadar... sinir bozucusun ki ve... O KADAR sinir bozucusun ki kelimelerim tükendi!"
+    },
+    {
+      "id": "b24fc3d7",
+      "bank_id": "2014ab00",
+      "text": "Öyle iğrençsin ki!"
+    },
+    {
+      "id": "b74a9578",
+      "bank_id": "2014ab00",
+      "text": "Harikalığın vücut bulmuş halisin."
+    },
+    {
+      "id": "b74a9579",
+      "bank_id": "2014ab00",
+      "text": "Buna layık değiliz!"
+    },
+    {
+      "id": "b74a957a",
+      "bank_id": "2014ab00",
+      "text": "Sıhhi koşulların eksikliğine rağmen bu çağda yaşadığım için beni mutlu ediyorsun."
+    },
+    {
+      "id": "b74fcbf0",
+      "bank_id": "2014ab00",
+      "text": "Git bir hobbe'nin ayağını yala!"
+    },
+    {
+      "id": "b74fcbf1",
+      "bank_id": "2014ab00",
+      "text": "Umarım uçurumdan aşağı yuvarlanırsın!"
+    },
+    {
+      "id": "b74fcbf2",
+      "bank_id": "2014ab00",
+      "text": "Ne sefil bir alçaksın sen öyle!"
+    },
+    {
+      "id": "b74fcbf3",
+      "bank_id": "2014ab00",
+      "text": "Aşağılığın tekisin!"
+    },
+    {
+      "id": "b74fcbf5",
+      "bank_id": "2014ab00",
+      "text": "Kelimelerin yetmeyeceği kadar nefret dolusun!"
+    },
+    {
+      "id": "b74fcbf6",
+      "bank_id": "2014ab00",
+      "text": "Umarım başına çok kötü bir şey gelir!"
+    },
+    {
+      "id": "b74fcbf7",
+      "bank_id": "2014ab00",
+      "text": "Seninle konuşmaktansa bir balverine'le dans etmeyi yeğlerim!"
+    },
+    {
+      "id": "b75530ba",
+      "bank_id": "2014ab00",
+      "text": "Ehhh!"
+    },
+    {
+      "id": "b804d5c8",
+      "bank_id": "2014ab00",
+      "text": "Her şey öyle rahatsız edici ki."
+    },
+    {
+      "id": "b804d5ca",
+      "bank_id": "2014ab00",
+      "text": "Hayır hayır hayır."
+    },
+    {
+      "id": "b804d5cb",
+      "bank_id": "2014ab00",
+      "text": "İyi değil, hiç iyi değil..."
+    },
+    {
+      "id": "bc6b2047",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "bd04dde9",
+      "bank_id": "2014ab00",
+      "text": "Endişelenmek için haklı bir sebep doğrusu."
+    },
+    {
+      "id": "bd04ddea",
+      "bank_id": "2014ab00",
+      "text": "Hayır, hayır, hayır."
+    },
+    {
+      "id": "bd04ddeb",
+      "bank_id": "2014ab00",
+      "text": "Ne kadar da belirsiz zamanlar."
+    },
+    {
+      "id": "c36b2b4a",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "d3949488",
+      "bank_id": "2014ab00",
+      "text": "Sen öyle muhteşem bir mucizesin ki."
+    },
+    {
+      "id": "d394948a",
+      "bank_id": "2014ab00",
+      "text": "Tüm yaratılışın en görkemli varlığısın."
+    },
+    {
+      "id": "d394948b",
+      "bank_id": "2014ab00",
+      "text": "Ah, seni ulu harikalık abidesi!"
+    },
+    {
+      "id": "d394948c",
+      "bank_id": "2014ab00",
+      "text": "Sen, şey, mükemmelsin ve... sadece... pırıl pırıl parlıyorsun."
+    },
+    {
+      "id": "d394948d",
+      "bank_id": "2014ab00",
+      "text": "Ne kadar da ışıl ışıl, harika ve hani gerçekten çok iyi bir şeysin sen."
+    },
+    {
+      "id": "d394948e",
+      "bank_id": "2014ab00",
+      "text": "Sen yüceliğin ta kendisisin, bizse gülünç yaratıklarız."
+    },
+    {
+      "id": "d394948f",
+      "bank_id": "2014ab00",
+      "text": "İzin ver pabuçlarını yalayayım."
+    },
+    {
+      "id": "d7301e08",
+      "bank_id": "2014ab00",
+      "text": "Çok harika görünüyordun. Ama artık öyle olmadığını düşünmeye başladım."
+    },
+    {
+      "id": "d7301e0a",
+      "bank_id": "2014ab00",
+      "text": "Daha önce yaptığın her şey koca bir yalan mıydı yani?"
+    },
+    {
+      "id": "d7301e0b",
+      "bank_id": "2014ab00",
+      "text": "Demek hayal ettiğim kadar mükemmel biri değilmişsin."
+    },
+    {
+      "id": "d7301e0c",
+      "bank_id": "2014ab00",
+      "text": "Eskiden senden hoşlanırdım. Şimdi o kadar değil."
+    },
+    {
+      "id": "d7301e0d",
+      "bank_id": "2014ab00",
+      "text": "Sevgim nefrete dönüşüyor."
+    },
+    {
+      "id": "d78699c0",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "d78699c1",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "d78699c3",
+      "bank_id": "2014ab00",
+      "text": "<whimper>"
+    },
+    {
+      "id": "d78699c4",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "d78699c5",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "d78699c6",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "d78699c7",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "d8949ca9",
+      "bank_id": "2014ab00",
+      "text": "Sen var ya, dünyanın en iyisisin. Gelmiş geçmiş en iyisi cidden."
+    },
+    {
+      "id": "d8949caa",
+      "bank_id": "2014ab00",
+      "text": "Büyüklerin arasında en büyüksün sen! Süper büyüksün. Büyükten de büyüksün."
+    },
+    {
+      "id": "d8949cab",
+      "bank_id": "2014ab00",
+      "text": "Görkeminin karşısında kıvranan solucanlarız sadece."
+    },
+    {
+      "id": "d8949cac",
+      "bank_id": "2014ab00",
+      "text": "Sen bir tanrısın! Seni hak etmiyoruz!"
+    },
+    {
+      "id": "d8949cad",
+      "bank_id": "2014ab00",
+      "text": "Senin için kendi ellerimi bile yerdim ey muhteşem kişi."
+    },
+    {
+      "id": "d8949cae",
+      "bank_id": "2014ab00",
+      "text": "Ayaklarının dibinde naçizane bir kulum ey harikalar yaratan ulu kişi."
+    },
+    {
+      "id": "d8949caf",
+      "bank_id": "2014ab00",
+      "text": "Karanlık gecemizde parıldayan göz alıcı bir gökkuşağısın sen."
+    },
+    {
+      "id": "db10c17d",
+      "bank_id": "2014ab00",
+      "text": "Yaptığın hiçbir şeyi bir daha asla görmek istemiyorum."
+    },
+    {
+      "id": "db4b8773",
+      "bank_id": "2014ab00",
+      "text": "Tek kelimeyle berbat!"
+    },
+    {
+      "id": "dc302629",
+      "bank_id": "2014ab00",
+      "text": "Gerçek yüzün bu mu yani? Ne kadar da iç karartıcı."
+    },
+    {
+      "id": "dc30262a",
+      "bank_id": "2014ab00",
+      "text": "Peh. O kadar da harika değilmişsin meğer."
+    },
+    {
+      "id": "dc30262b",
+      "bank_id": "2014ab00",
+      "text": "Şaşkına döndüm. Daha önce öyle harika görünüyordun ki."
+    },
+    {
+      "id": "dc30262c",
+      "bank_id": "2014ab00",
+      "text": "Neler oluyor? Şimdi neden böyle davranıyorsun?"
+    },
+    {
+      "id": "dc30262d",
+      "bank_id": "2014ab00",
+      "text": "Sanırım senin hakkında tamamen yanılmışım. Çöpün tekisin."
+    },
+    {
+      "id": "de86a4c0",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "de86a4c1",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "de86a4c2",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "de86a4c3",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "de86a4c4",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "de86a4c5",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "de86a4c6",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "e24b9276",
+      "bank_id": "2014ab00",
+      "text": "Korkunç!"
+    },
+    {
+      "id": "e3786ae0",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "e3786ae1",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "e3786ae3",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "e3786ae4",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "e3786ae5",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "e3786ae6",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "e3786ae7",
+      "bank_id": "2014ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "e610d2ac",
+      "bank_id": "2014ab00",
+      "text": "Hayatımda gördüğüm en korkunç şey bu."
+    },
+    {
+      "id": "ea7875e0",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "ea7875e1",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "ea7875e2",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "ea7875e3",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "ea7875e4",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "ea7875e5",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "ea7875e6",
+      "bank_id": "2014ab00",
+      "text": "Oha!"
+    },
+    {
+      "id": "efd61050",
+      "bank_id": "2014ab00",
+      "text": "Ne güzel ahlaki değerler bunlar."
+    },
+    {
+      "id": "efd61051",
+      "bank_id": "2014ab00",
+      "text": "Çok iyi yaptın orada."
+    },
+    {
+      "id": "efd61052",
+      "bank_id": "2014ab00",
+      "text": "Böyle ahlaklı davranışlar görmek içimi ısıtıyor."
+    },
+    {
+      "id": "efd61053",
+      "bank_id": "2014ab00",
+      "text": "Dürüst bir vatandaşsın sen."
+    },
+    {
+      "id": "efd61054",
+      "bank_id": "2014ab00",
+      "text": "Aziz mertebesindesin adeta."
+    },
+    {
+      "id": "efd61056",
+      "bank_id": "2014ab00",
+      "text": "Çok ahlaklı birisin, görebiliyorum."
+    },
+    {
+      "id": "efd61057",
+      "bank_id": "2014ab00",
+      "text": "Erdem dedikleri şey tam olarak budur işte."
+    },
+    {
+      "id": "f2e93544",
+      "bank_id": "2014ab00",
+      "text": "<screams>"
+    },
+    {
+      "id": "f2e93546",
+      "bank_id": "2014ab00",
+      "text": "Aaaaaaaaaahhhhh!"
+    },
+    {
+      "id": "f2e93547",
+      "bank_id": "2014ab00",
+      "text": "Aaaaaaaaaahhhhh!"
+    },
+    {
+      "id": "f3ff240e",
+      "bank_id": "2014ab00",
+      "text": "Hayır, hayır, hayır."
+    },
+    {
+      "id": "f4d61870",
+      "bank_id": "2014ab00",
+      "text": "Asil birisin sen."
+    },
+    {
+      "id": "f4d61871",
+      "bank_id": "2014ab00",
+      "text": "Hep bu kadar iyi miydin sen?"
+    },
+    {
+      "id": "f4d61872",
+      "bank_id": "2014ab00",
+      "text": "Yozlaştırılamaz bir ruhsun sen."
+    },
+    {
+      "id": "f4d61873",
+      "bank_id": "2014ab00",
+      "text": "Gerçekten övgüye değer bir davranış."
+    },
+    {
+      "id": "f4d61875",
+      "bank_id": "2014ab00",
+      "text": "Yapılabilecek en güzel davranıştı bu."
+    },
+    {
+      "id": "f4d61876",
+      "bank_id": "2014ab00",
+      "text": "Daha saf bir hareket görmemiştim hiç."
+    },
+    {
+      "id": "f4d61877",
+      "bank_id": "2014ab00",
+      "text": "İlkelerine bağlı birini görmek ne kadar da güzel."
+    },
+    {
+      "id": "f7e93d65",
+      "bank_id": "2014ab00",
+      "text": "Aaaaaaaaaahhhhh!"
+    },
+    {
+      "id": "f7e93d66",
+      "bank_id": "2014ab00",
+      "text": "Aaaaaaaaaahhhhh!"
+    },
+    {
+      "id": "f7e93d67",
+      "bank_id": "2014ab00",
+      "text": "Aaaaaaaaaahhhhh!"
+    },
+    {
+      "id": "fb685af8",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "fb685afa",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "fb685afb",
+      "bank_id": "2014ab00",
+      "text": "*sızlanır*"
+    },
+    {
+      "id": "fcff325b",
+      "bank_id": "2014ab00",
+      "text": "Hayır, hayır, hayır."
+    },
+    {
+      "id": "feeec7c1",
+      "bank_id": "2014ab00",
+      "text": "Yaaaarrgh!"
+    }
+  ]
+}

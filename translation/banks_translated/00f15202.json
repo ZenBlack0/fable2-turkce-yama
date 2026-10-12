@@ -1,0 +1,611 @@
+{
+  "bank_id": "00f15202",
+  "total_strings": 121,
+  "strings": [
+    {
+      "id": "3f9ff69a",
+      "bank_id": "00f15202",
+      "text": "Hiç altınımız kalmadı derken ne demek istiyorsun?! Git biraz daha bul o zaman!"
+    },
+    {
+      "id": "3f9ff69b",
+      "bank_id": "00f15202",
+      "text": "Hiç altınımız kalmadı mı?! Hepsini nasıl çarçur edersin?! Açlıktan öleceğiz!"
+    },
+    {
+      "id": "3f9ff69c",
+      "bank_id": "00f15202",
+      "text": "Hiç altınımızın kalmadığına inanamıyorum! Ne yaptın bütün o parayı?!"
+    },
+    {
+      "id": "3f9ff69d",
+      "bank_id": "00f15202",
+      "text": "Hiç altınımız kalmadı mı?! Hepsini nasıl çarçur edersin?! Açlıktan öleceğiz!"
+    },
+    {
+      "id": "3f9ff69e",
+      "bank_id": "00f15202",
+      "text": "Altınımız bitti derken ne demek istiyorsun? Buna nasıl göz yumabildin?!"
+    },
+    {
+      "id": "48a004e8",
+      "bank_id": "00f15202",
+      "text": "Hiç altınımız kalmadı mı?! Hepsini nasıl çarçur edersin?! Açlıktan öleceğiz!"
+    },
+    {
+      "id": "48a004e9",
+      "bank_id": "00f15202",
+      "text": "Hiç altınımız kalmadı mı?! Hepsini nasıl çarçur edersin?! Açlıktan öleceğiz!"
+    },
+    {
+      "id": "48a004eb",
+      "bank_id": "00f15202",
+      "text": "Hiç altınımız kalmadı mı?! Hepsini nasıl çarçur edersin?! Açlıktan öleceğiz!"
+    },
+    {
+      "id": "48a004ee",
+      "bank_id": "00f15202",
+      "text": "Hiç altınımız kalmadı derken ne demek istiyorsun?! Git biraz daha bul o zaman!"
+    },
+    {
+      "id": "48a004ef",
+      "bank_id": "00f15202",
+      "text": "Hiç altınımız kalmadı mı?! Hepsini nasıl çarçur edersin?! Açlıktan öleceğiz!"
+    },
+    {
+      "id": "4b15eec0",
+      "bank_id": "00f15202",
+      "text": "Bana vadettiğin hayat bu değildi kesinlikle. Biraz daha paraya fena halde ihtiyacımız var."
+    },
+    {
+      "id": "4b15eec1",
+      "bank_id": "00f15202",
+      "text": "Yaşam standardımızdan zerre memnun değilim. Bu konuda bir şeyler yapamaz mısın?"
+    },
+    {
+      "id": "4b15eec2",
+      "bank_id": "00f15202",
+      "text": "Eve getirdiğin bu altınla nasıl hayatta kalmamızı bekliyorsun?"
+    },
+    {
+      "id": "4b15eec3",
+      "bank_id": "00f15202",
+      "text": "Bize daha iyi bakmazsan aç kalacağız valla."
+    },
+    {
+      "id": "4b15eec4",
+      "bank_id": "00f15202",
+      "text": "Ev geçindirmek ucuz iş değil. Biraz daha desteğin fena olmazdı."
+    },
+    {
+      "id": "4b15eec5",
+      "bank_id": "00f15202",
+      "text": "Yeterince altın getirmezsen nasıl yaşamamızı bekliyorsun?"
+    },
+    {
+      "id": "4b15eec7",
+      "bank_id": "00f15202",
+      "text": "Eve biraz daha altın girse çok iyi olurdu."
+    },
+    {
+      "id": "4d48a8a8",
+      "bank_id": "00f15202",
+      "text": "Altın yok mu?! Altın yok mu yani?! Açlıktan öleceğiz!"
+    },
+    {
+      "id": "4d48a8a9",
+      "bank_id": "00f15202",
+      "text": "Tek kuruş para olmadan nasıl hayatta kalacağız biz??"
+    },
+    {
+      "id": "4d48a8aa",
+      "bank_id": "00f15202",
+      "text": "Hiç altın kalmadı mı?! Sıfır mı yani?? Ayaktakımı gibi açlıktan gebermemizi mi istiyorsun?!"
+    },
+    {
+      "id": "4d48a8ab",
+      "bank_id": "00f15202",
+      "text": "Sana inanamıyorum?! Hepsini har vurup harman savurdun mu yani?! Sokak fareleri gibi sefalet içinde öleceğiz!"
+    },
+    {
+      "id": "4d48a8ad",
+      "bank_id": "00f15202",
+      "text": "Tek bir kuruşunun bile kalmadığına inanamıyorum! Neyle geçineceğiz biz peki?!"
+    },
+    {
+      "id": "4d48a8ae",
+      "bank_id": "00f15202",
+      "text": "Demek bütün altınımızı bitirdin ha? Şimdi nasıl hayatta kalacağız?!"
+    },
+    {
+      "id": "4d48a8af",
+      "bank_id": "00f15202",
+      "text": "Altının yok derken ne demek istiyorsun? Ne yiyip ne içeceğiz biz?!"
+    },
+    {
+      "id": "5215f9c8",
+      "bank_id": "00f15202",
+      "text": "Yeterince altın getirmezsen nasıl yaşamamızı bekliyorsun?"
+    },
+    {
+      "id": "5215f9c9",
+      "bank_id": "00f15202",
+      "text": "Ev geçindirmek ucuz iş değil. Biraz daha desteğin fena olmazdı."
+    },
+    {
+      "id": "5215f9ca",
+      "bank_id": "00f15202",
+      "text": "Eve biraz daha altın girse çok iyi olurdu."
+    },
+    {
+      "id": "5215f9cc",
+      "bank_id": "00f15202",
+      "text": "Yaşam standardımızdan zerre memnun değilim. Bu konuda bir şeyler yapamaz mısın?"
+    },
+    {
+      "id": "5215f9cd",
+      "bank_id": "00f15202",
+      "text": "Bana vadettiğin hayat bu değildi kesinlikle. Biraz daha paraya fena halde ihtiyacımız var."
+    },
+    {
+      "id": "5215f9ce",
+      "bank_id": "00f15202",
+      "text": "Daha fazla altın getirmezsen aç kalacağız valla."
+    },
+    {
+      "id": "5215f9cf",
+      "bank_id": "00f15202",
+      "text": "Eve getirdiğin bu sadakayla yaşayamayız biz!"
+    },
+    {
+      "id": "5848b9d8",
+      "bank_id": "00f15202",
+      "text": "Paramızı har vurup harman mı savurdun yani?! Yaşamak için ona muhtacız biz!"
+    },
+    {
+      "id": "5848b9d9",
+      "bank_id": "00f15202",
+      "text": "Altın yok mu?! Neye harcadın hepsini?!"
+    },
+    {
+      "id": "5848b9da",
+      "bank_id": "00f15202",
+      "text": "Sana inanamıyorum?! Hepsini har vurup harman savurdun mu yani?! Sokak fareleri gibi sefalet içinde öleceğiz!"
+    },
+    {
+      "id": "5848b9db",
+      "bank_id": "00f15202",
+      "text": "Hiç altın kalmadı mı? Sıfır mı! Ayaktakımı gibi açlıktan gebermemizi mi istiyorsun?!"
+    },
+    {
+      "id": "5848b9dc",
+      "bank_id": "00f15202",
+      "text": "Tek bir kuruşunun bile kalmadığına inanamıyorum! Neyle geçineceğiz biz peki?!"
+    },
+    {
+      "id": "5848b9de",
+      "bank_id": "00f15202",
+      "text": "Altının yok derken ne demek istiyorsun? Ne yiyeceğiz biz peki?"
+    },
+    {
+      "id": "5848b9df",
+      "bank_id": "00f15202",
+      "text": "Demek bütün altınımızı bitirdin ha? Şimdi nasıl hayatta kalacağız?!"
+    },
+    {
+      "id": "6526ab38",
+      "bank_id": "00f15202",
+      "text": "Bizi resmen sefaletin eşiğine sürükledin! Bu eve daha fazla altın girmesi lazım. Hemen şimdi!"
+    },
+    {
+      "id": "6526ab39",
+      "bank_id": "00f15202",
+      "text": "Seninle evli olmak böyle bir şey mi olacaktı yani?! Resmen muhtacız! Bu konuda bir şeyler yapmanı bekliyorum. Hem de tez vakitte!"
+    },
+    {
+      "id": "6526ab3a",
+      "bank_id": "00f15202",
+      "text": "Altınımızı daha iyi idare etmezsen fareler gibi geberip gideceğiz!"
+    },
+    {
+      "id": "6526ab3b",
+      "bank_id": "00f15202",
+      "text": "Hiç umurunda bile değil, öyle değil mi?! Hiçbir şeyimiz kalmadı!"
+    },
+    {
+      "id": "6526ab3c",
+      "bank_id": "00f15202",
+      "text": "Yakında bir şeyler yapmazsan dilenciliğe başlamak zorunda kalacağız!"
+    },
+    {
+      "id": "6526ab3d",
+      "bank_id": "00f15202",
+      "text": "Havayla beslenebileceğimizi mi sanıyorsun? Daha fazla altın olmazsa açlıktan öleceğiz!"
+    },
+    {
+      "id": "6526ab3e",
+      "bank_id": "00f15202",
+      "text": "Getirdiğin bu altınla nasıl hayatta kalmamızı bekliyorsun?! Hiç umurunda bile değil gibi!"
+    },
+    {
+      "id": "6d1f6eb0",
+      "bank_id": "00f15202",
+      "text": "Albion'un en iyi bakılan ailelerinden biri olmalıyız kesinlikle!"
+    },
+    {
+      "id": "6d1f6eb1",
+      "bank_id": "00f15202",
+      "text": "Albion'un en iyi bakılan ailelerinden biri olmalıyız kesinlikle!"
+    },
+    {
+      "id": "6d1f6eb3",
+      "bank_id": "00f15202",
+      "text": "Albion'un en iyi bakılan ailelerinden biri olmalıyız kesinlikle!"
+    },
+    {
+      "id": "6d1f6eb6",
+      "bank_id": "00f15202",
+      "text": "Bana bu kadar iyi bakılacağını hiç düşünmezdim. Prenses gibiyim valla!"
+    },
+    {
+      "id": "6d1f6eb7",
+      "bank_id": "00f15202",
+      "text": "Kendimi düşes gibi falan hissediyorum."
+    },
+    {
+      "id": "6e26b908",
+      "bank_id": "00f15202",
+      "text": "Havayla beslenebileceğimizi mi sanıyorsun? Daha fazla altın olmazsa açlıktan öleceğiz!"
+    },
+    {
+      "id": "6e26b909",
+      "bank_id": "00f15202",
+      "text": "Yakında bir şeyler yapmazsan dilenciliğe başlamak zorunda kalacağız!"
+    },
+    {
+      "id": "6e26b90b",
+      "bank_id": "00f15202",
+      "text": "Getirdiğin bu altınla nasıl hayatta kalmamızı bekliyorsun?! Hiç umurunda bile değil gibi!"
+    },
+    {
+      "id": "6e26b90c",
+      "bank_id": "00f15202",
+      "text": "Seninle evli olmak böyle bir şey mi olacaktı yani?! Resmen muhtacız! Bu konuda bir şeyler yapmanı bekliyorum. Hem de tez vakitte!"
+    },
+    {
+      "id": "6e26b90d",
+      "bank_id": "00f15202",
+      "text": "Bizi resmen sefaletin eşiğine sürükledin! Bu eve daha fazla altın girmesi lazım. Hemen şimdi!"
+    },
+    {
+      "id": "6e26b90e",
+      "bank_id": "00f15202",
+      "text": "Hiç umurunda bile değil, öyle değil mi?! Hiçbir şeyimiz kalmadı!"
+    },
+    {
+      "id": "6e26b90f",
+      "bank_id": "00f15202",
+      "text": "Altınımızı daha iyi idare etmezsen fareler gibi geberip gideceğiz!"
+    },
+    {
+      "id": "741f79b2",
+      "bank_id": "00f15202",
+      "text": "Kendimi dük veya baron gibi bir şey hissediyorum."
+    },
+    {
+      "id": "741f79b3",
+      "bank_id": "00f15202",
+      "text": "Albion'un en iyi bakılan ailelerinden biri olmalıyız kesinlikle!"
+    },
+    {
+      "id": "741f79b4",
+      "bank_id": "00f15202",
+      "text": "Sayende hiçbir eksiğimiz gediğimiz yok."
+    },
+    {
+      "id": "741f79b5",
+      "bank_id": "00f15202",
+      "text": "Albion'un en iyi bakılan ailelerinden biri olmalıyız kesinlikle!"
+    },
+    {
+      "id": "741f79b6",
+      "bank_id": "00f15202",
+      "text": "Sayende asla aç kalmayacağız sevgilim."
+    },
+    {
+      "id": "7cf65cc0",
+      "bank_id": "00f15202",
+      "text": "Sanırım öylece havayla beslenmemizi bekliyorsun? Geçimimiz için daha fazla altına ihtiyacımız var!"
+    },
+    {
+      "id": "7cf65cc1",
+      "bank_id": "00f15202",
+      "text": "Sanırım öylece havayla beslenmemizi bekliyorsun? Geçimimiz için daha fazla altına ihtiyacımız var!"
+    },
+    {
+      "id": "7cf65cc2",
+      "bank_id": "00f15202",
+      "text": "Sanırım öylece havayla beslenmemizi bekliyorsun? Geçimimiz için daha fazla altına ihtiyacımız var!"
+    },
+    {
+      "id": "7cf65cc6",
+      "bank_id": "00f15202",
+      "text": "Sanırım sadece temiz havayla karnımızı doyurmamızı bekliyorsun! Geçimimiz için daha fazla altına ihtiyacımız var!"
+    },
+    {
+      "id": "7cf65cc7",
+      "bank_id": "00f15202",
+      "text": "Eve daha fazla altın getirmezsen karnımızı nasıl düzgünce doyurmamı bekliyorsun?"
+    },
+    {
+      "id": "823a9a60",
+      "bank_id": "00f15202",
+      "text": "Seninle evlendiğime öyle memnunum ki. İhtiyacımız olan her şeyimiz var, fazlası da cabası!"
+    },
+    {
+      "id": "823a9a61",
+      "bank_id": "00f15202",
+      "text": "Senin karın olduğum için çok şanslıyım. Hiçbir eksiğimiz yok!"
+    },
+    {
+      "id": "823a9a62",
+      "bank_id": "00f15202",
+      "text": "Tam da bu şekilde yaşamalıyız işte. İsteyebileceğimiz her şey elimizin altında!"
+    },
+    {
+      "id": "823a9a63",
+      "bank_id": "00f15202",
+      "text": "Hayatımızdan son derece memnunum. Hiçbir eksiğimiz yok!"
+    },
+    {
+      "id": "823a9a64",
+      "bank_id": "00f15202",
+      "text": "Muhtemelen ihtiyaç duyabileceğimiz her şeye sahibiz, fazlası da cabası!"
+    },
+    {
+      "id": "823a9a66",
+      "bank_id": "00f15202",
+      "text": "Şunu söylemeliyim ki durumumuz gayet yerinde valla!"
+    },
+    {
+      "id": "823a9a67",
+      "bank_id": "00f15202",
+      "text": "Bütün komşularımız bizi kıskanıyor olmalı. Hiçbir eksiğimiz gediğimiz yok."
+    },
+    {
+      "id": "85f66b2a",
+      "bank_id": "00f15202",
+      "text": "Sanırım öylece havayla beslenmemizi bekliyorsun? Geçimimiz için daha fazla altına ihtiyacımız var!"
+    },
+    {
+      "id": "85f66b2b",
+      "bank_id": "00f15202",
+      "text": "Eve daha fazla altın getirmezsen karnımızı nasıl düzgünce doyurmamı bekliyorsun?"
+    },
+    {
+      "id": "85f66b2c",
+      "bank_id": "00f15202",
+      "text": "Sanırım öylece havayla beslenmemizi bekliyorsun. Geçimimiz için daha fazla altına ihtiyacımız var!"
+    },
+    {
+      "id": "85f66b2d",
+      "bank_id": "00f15202",
+      "text": "Böyle nasıl yaşamamızı bekliyorsun ki? Geçinecek neredeyse hiçbir şeyimiz yok."
+    },
+    {
+      "id": "85f66b2f",
+      "bank_id": "00f15202",
+      "text": "Paramız konusunda bir şeyler yapmazsan yakında yiyeceğimiz tükenecek."
+    },
+    {
+      "id": "873aa200",
+      "bank_id": "00f15202",
+      "text": "Durumumuz gayet iyi valla canım!"
+    },
+    {
+      "id": "873aa201",
+      "bank_id": "00f15202",
+      "text": "Bir erkeği nasıl mutlu edeceğini çok iyi biliyorsun. Bunu teslim etmek lazım."
+    },
+    {
+      "id": "873aa202",
+      "bank_id": "00f15202",
+      "text": "Hayatımızdan son derece memnunum. Hiçbir eksiğimiz yok!"
+    },
+    {
+      "id": "873aa203",
+      "bank_id": "00f15202",
+      "text": "Tam da bu şekilde yaşamalıyız işte. İsteyebileceğimiz her şey elimizin altında!"
+    },
+    {
+      "id": "873aa205",
+      "bank_id": "00f15202",
+      "text": "Muhtemelen ihtiyaç duyabileceğimiz her şeye sahibiz, fazlası da cabası!"
+    },
+    {
+      "id": "873aa206",
+      "bank_id": "00f15202",
+      "text": "Bütün komşularımız bizi kıskanıyor olmalı. Hiçbir eksiğimiz gediğimiz yok."
+    },
+    {
+      "id": "873aa207",
+      "bank_id": "00f15202",
+      "text": "Şunu söylemeliyim ki durumumuz gayet yerinde valla!"
+    },
+    {
+      "id": "da3252c0",
+      "bank_id": "00f15202",
+      "text": "Durumumuz fena sayılmaz ama biraz daha altın hiç fena gitmezdi hani."
+    },
+    {
+      "id": "da3252c1",
+      "bank_id": "00f15202",
+      "text": "Açlıktan ölmüyoruz biliyorum ama eve daha çok altın girse daha iyi yaşardık."
+    },
+    {
+      "id": "da3252c2",
+      "bank_id": "00f15202",
+      "text": "Getirdiğin altınla bir şekilde geçiniyoruz ama daha fazlasına hayır demeyiz."
+    },
+    {
+      "id": "da3252c4",
+      "bank_id": "00f15202",
+      "text": "Şimdilik açlıktan bir deri bir kemik kalma tehlikemiz yok ama ben bundan daha rahat bir hayat ummuştum."
+    },
+    {
+      "id": "da3252c5",
+      "bank_id": "00f15202",
+      "text": "Karnımızı doyuracak kadar altınımız var ama bütün gayemiz bu mu yani? Sadece karnımızı doyurmak mı?"
+    },
+    {
+      "id": "da3252c6",
+      "bank_id": "00f15202",
+      "text": "Ortalıkta harcayacak biraz daha altın olsaydı buralarda her şey çok daha rahat olurdu."
+    },
+    {
+      "id": "da3252c7",
+      "bank_id": "00f15202",
+      "text": "Daha çok paramız olsaydı daha iyi yaşayabilirdik."
+    },
+    {
+      "id": "dcfa42e0",
+      "bank_id": "00f15202",
+      "text": "Şikâyet etmiyorum ama geçinmek için bundan daha fazla altınımız olur diye ummuştum."
+    },
+    {
+      "id": "dcfa42e1",
+      "bank_id": "00f15202",
+      "text": "Geçinmeye yetecek kadarımız var, önemli olan da bu sanırım."
+    },
+    {
+      "id": "dcfa42e3",
+      "bank_id": "00f15202",
+      "text": "Geçinmeye yetecek kadar altınımız var sanırım."
+    },
+    {
+      "id": "dcfa42e6",
+      "bank_id": "00f15202",
+      "text": "Şikâyet etmiyorum ama geçinmek için bundan daha fazla altınımız olur diye ummuştum."
+    },
+    {
+      "id": "dcfa42e7",
+      "bank_id": "00f15202",
+      "text": "Şimdilik idare ediyoruz işte. Aç falan kaldığımız yok."
+    },
+    {
+      "id": "e3326128",
+      "bank_id": "00f15202",
+      "text": "Karnımızı doyuracak kadar altınımız var ama bütün gayemiz bu mu yani? Sadece karnımızı doyurmak mı?"
+    },
+    {
+      "id": "e3326129",
+      "bank_id": "00f15202",
+      "text": "Şimdilik açlıktan bir deri bir kemik kalma tehlikemiz yok ama ben bundan daha rahat bir hayat ummuştum."
+    },
+    {
+      "id": "e332612a",
+      "bank_id": "00f15202",
+      "text": "Fena gitmiyoruz ama daha fazla altın kesinlikle çok iyi olurdu."
+    },
+    {
+      "id": "e332612b",
+      "bank_id": "00f15202",
+      "text": "Her şey yolunda gidiyor ama biraz daha para olsa çok daha iyi olurdu."
+    },
+    {
+      "id": "e332612c",
+      "bank_id": "00f15202",
+      "text": "Açlıktan ölmüyoruz biliyorum ama eve daha çok altın girse daha iyi yaşardık."
+    },
+    {
+      "id": "e332612d",
+      "bank_id": "00f15202",
+      "text": "Durumumuz fena sayılmaz ama biraz daha altın hiç fena gitmezdi hani."
+    },
+    {
+      "id": "e332612f",
+      "bank_id": "00f15202",
+      "text": "Getirdiğin altınla bir şekilde geçiniyoruz ama daha fazlasına hayır demezdik."
+    },
+    {
+      "id": "e3fa4de2",
+      "bank_id": "00f15202",
+      "text": "Şikâyet etmiyorum ama geçinmek için bundan daha fazla altınımız olur diye ummuştum."
+    },
+    {
+      "id": "e3fa4de3",
+      "bank_id": "00f15202",
+      "text": "Şimdilik idare ediyoruz işte. Aç falan kaldığımız yok."
+    },
+    {
+      "id": "e3fa4de4",
+      "bank_id": "00f15202",
+      "text": "Şikâyet etmiyorum ama geçinmek için bundan daha fazla altınımız olur diye ummuştum."
+    },
+    {
+      "id": "e3fa4de5",
+      "bank_id": "00f15202",
+      "text": "Şikâyet etmiyorum ama geçinmek için bundan daha fazla altınımız olur diye ummuştum."
+    },
+    {
+      "id": "e3fa4de6",
+      "bank_id": "00f15202",
+      "text": "Şikâyet etmiyorum ama geçinmek için bundan daha fazla altınımız olur diye ummuştum."
+    },
+    {
+      "id": "ed35e1bd",
+      "bank_id": "00f15202",
+      "text": "Döndün demek? Benden bir karşılama töreni bekleme sakın!"
+    },
+    {
+      "id": "ed35e1be",
+      "bank_id": "00f15202",
+      "text": "Bunca zamandır neredeydin sen Allah aşkına?!"
+    },
+    {
+      "id": "f0c4c1c8",
+      "bank_id": "00f15202",
+      "text": "Bilirsin ya, bize bakmak için daha fazlasını yapabilirdin."
+    },
+    {
+      "id": "f0c4c1c9",
+      "bank_id": "00f15202",
+      "text": "Bilirsin ya, bize bakmak için daha fazlasını yapabilirdin."
+    },
+    {
+      "id": "f0c4c1ce",
+      "bank_id": "00f15202",
+      "text": "Bilirsin ya, bize bakmak için daha fazlasını yapabilirdin."
+    },
+    {
+      "id": "f0c4c1cf",
+      "bank_id": "00f15202",
+      "text": "Bu evliliğe birazcık daha altın koysan nasıl olur?"
+    },
+    {
+      "id": "f635ef88",
+      "bank_id": "00f15202",
+      "text": "Döndün demek? Benden bir karşılama töreni bekleme sakın!"
+    },
+    {
+      "id": "f635ef89",
+      "bank_id": "00f15202",
+      "text": "Ha. Döndün demek? Benden bir karşılama töreni bekleme sakın!"
+    },
+    {
+      "id": "f635ef8b",
+      "bank_id": "00f15202",
+      "text": "Döndün demek? Benden bir karşılama töreni bekleme sakın!"
+    },
+    {
+      "id": "f635ef8e",
+      "bank_id": "00f15202",
+      "text": "Döndün demek? Çok da umurumdaydı sanki!"
+    },
+    {
+      "id": "f635ef8f",
+      "bank_id": "00f15202",
+      "text": "Döndün demek? Hiç gelmeseydin de olurmuş hani."
+    }
+  ]
+}

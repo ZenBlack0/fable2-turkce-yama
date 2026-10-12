@@ -1,0 +1,686 @@
+{
+  "bank_id": "40bdb600",
+  "total_strings": 136,
+  "strings": [
+    {
+      "id": "03998e0b",
+      "bank_id": "40bdb600",
+      "text": "Harika."
+    },
+    {
+      "id": "04998ffe",
+      "bank_id": "40bdb600",
+      "text": "Güzel, güzel."
+    },
+    {
+      "id": "05999151",
+      "bank_id": "40bdb600",
+      "text": "İyi avlar."
+    },
+    {
+      "id": "069992c4",
+      "bank_id": "40bdb600",
+      "text": "Kaçmalarına izin vermeyin."
+    },
+    {
+      "id": "079994b7",
+      "bank_id": "40bdb600",
+      "text": "İşiniz bittiğinde ödülünüz burada sizi bekliyor olacak."
+    },
+    {
+      "id": "0899962a",
+      "bank_id": "40bdb600",
+      "text": "İyi şanslar."
+    },
+    {
+      "id": "0ec854fb",
+      "bank_id": "40bdb600",
+      "text": "Birkaç kanunsuz ve istenmeyen haşereyi daha avlamaya hazır mısınız?"
+    },
+    {
+      "id": "0fc8566e",
+      "bank_id": "40bdb600",
+      "text": "Senin için başka bir iş daha var, yardımcı."
+    },
+    {
+      "id": "10c857c1",
+      "bank_id": "40bdb600",
+      "text": "Bir kelle avcısının işi asla bitmez dostum. Sıradaki işe hazır mısın?"
+    },
+    {
+      "id": "11c859b4",
+      "bank_id": "40bdb600",
+      "text": "Albion'da yine bela baş gösterdi. Ve bunun üstesinden yalnızca sen gelebilirsin."
+    },
+    {
+      "id": "12c85b27",
+      "bank_id": "40bdb600",
+      "text": "Temizlenmesi gereken bir kargaşa dalgası daha patlak verdi."
+    },
+    {
+      "id": "13c85c9a",
+      "bank_id": "40bdb600",
+      "text": "Senin için yeni bir görevim var."
+    },
+    {
+      "id": "1ec4692b",
+      "bank_id": "40bdb600",
+      "text": "Albion'un bir numaralı arkeoloğuna kadim eserleri bulmasında yardım edin.\nBulduğunuz her parça şöhretinize katkıda bulunacak ve size ün kazandıracaktır."
+    },
+    {
+      "id": "1fa29ee5",
+      "bank_id": "40bdb600",
+      "text": "%1 hedefini %2 bölgesinde öldürecek misiniz? Risk düzeyi: %3 Yıldız"
+    },
+    {
+      "id": "222d570a",
+      "bank_id": "40bdb600",
+      "text": "Arkeolog"
+    },
+    {
+      "id": "258d52ae",
+      "bank_id": "40bdb600",
+      "text": "İlkemiz şudur: \"Dilenciye de krala da ölümü çarçabuk tattıranlar.\""
+    },
+    {
+      "id": "26751fd8",
+      "bank_id": "40bdb600",
+      "text": "Albion'u tehlikeli yaratıklardan ve suçlulardan temizlemeye yardım edin."
+    },
+    {
+      "id": "268d5401",
+      "bank_id": "40bdb600",
+      "text": "Bakalım neler yapabiliyorsunuz."
+    },
+    {
+      "id": "278d55f4",
+      "bank_id": "40bdb600",
+      "text": "Hmm, hayır. Buraya iş aramaya gelmişsiniz."
+    },
+    {
+      "id": "288d5767",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet, uygun yüklenicileri her zaman memnuniyetle karşılar."
+    },
+    {
+      "id": "293a84b9",
+      "bank_id": "40bdb600",
+      "text": "Suikast Cemiyeti"
+    },
+    {
+      "id": "2a8d5a4d",
+      "bank_id": "40bdb600",
+      "text": "Selamlar. Hizmetlerimden faydalanmak için mi buradasınız?"
+    },
+    {
+      "id": "3258a410",
+      "bank_id": "40bdb600",
+      "text": "Suikastçı bu! Biri bir şey yapsın!"
+    },
+    {
+      "id": "3258a411",
+      "bank_id": "40bdb600",
+      "text": "<screams> Suikastçı bu!"
+    },
+    {
+      "id": "3258a412",
+      "bank_id": "40bdb600",
+      "text": "Hayır! Hayır! Suikastçı canımı almaya gelmiş!"
+    },
+    {
+      "id": "3258a413",
+      "bank_id": "40bdb600",
+      "text": "İmdat! Suikastçı burada!"
+    },
+    {
+      "id": "3258a414",
+      "bank_id": "40bdb600",
+      "text": "Suikastçı burada! Hayır! Ölmek istemiyorum!"
+    },
+    {
+      "id": "3258a415",
+      "bank_id": "40bdb600",
+      "text": "İmdat! Katil burada! Öldüm ben! Hayır!"
+    },
+    {
+      "id": "3258a417",
+      "bank_id": "40bdb600",
+      "text": "Hayır, suikastçı! Beni öldürme!"
+    },
+    {
+      "id": "34c3dc46",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet'in seçtiği hedefi öldürün."
+    },
+    {
+      "id": "35f253d9",
+      "bank_id": "40bdb600",
+      "text": "Biri yaptığınız işe şahit olmalı."
+    },
+    {
+      "id": "3958af18",
+      "bank_id": "40bdb600",
+      "text": "Öldüm ben! Hayııır! İmdat!"
+    },
+    {
+      "id": "3958af19",
+      "bank_id": "40bdb600",
+      "text": "Suikastçı peşime düşmüş! İmdat!"
+    },
+    {
+      "id": "3958af1a",
+      "bank_id": "40bdb600",
+      "text": "Olamaz! Suikastçı bu! İmdat!"
+    },
+    {
+      "id": "3958af1c",
+      "bank_id": "40bdb600",
+      "text": "Aman tanrım, beni uyardıkları suikastçı bu! Yardım edin, yalvarırım!"
+    },
+    {
+      "id": "3958af1d",
+      "bank_id": "40bdb600",
+      "text": "Olamaz! Celladım geldi! İmdat!"
+    },
+    {
+      "id": "3958af1e",
+      "bank_id": "40bdb600",
+      "text": "Suikastçı burada! İmdat! İmdat!"
+    },
+    {
+      "id": "3958af1f",
+      "bank_id": "40bdb600",
+      "text": "Suikastçı bu! Biri bir şey yapsın!"
+    },
+    {
+      "id": "397b4058",
+      "bank_id": "40bdb600",
+      "text": "Umarım avınızın eceliyle ölmesini beklemiyorsunuzdur. Bu, Cemiyet politikasına aykırıdır."
+    },
+    {
+      "id": "3a7b41cb",
+      "bank_id": "40bdb600",
+      "text": "Yüreğinizde cinayet arzusu taşıyın ve görevinizi sonuna kadar götürün."
+    },
+    {
+      "id": "3c7b4511",
+      "bank_id": "40bdb600",
+      "text": "Şimdi gidin ve hedef olarak belirlenmiş olanlara ölüm fısıldayın."
+    },
+    {
+      "id": "3edf4c18",
+      "bank_id": "40bdb600",
+      "text": "Kendini çok komik sanıyor."
+    },
+    {
+      "id": "3edf4c19",
+      "bank_id": "40bdb600",
+      "text": "Ciddi bir ten kokusu sorunu var ama yine de yıkanmayı reddediyor."
+    },
+    {
+      "id": "3edf4c1a",
+      "bank_id": "40bdb600",
+      "text": "Ayak başparmağındaki şu devasa nasırı herkese göstermeye bayılıyor."
+    },
+    {
+      "id": "3edf4c1b",
+      "bank_id": "40bdb600",
+      "text": "Tutmadığı sözler veriyor."
+    },
+    {
+      "id": "3edf4c1e",
+      "bank_id": "40bdb600",
+      "text": "Müşterinin çiçeklerini sulamayı teklif etmiş ama sonra unutmuş."
+    },
+    {
+      "id": "3edf4c1f",
+      "bank_id": "40bdb600",
+      "text": "Suç işlemeyi imkânsız kılacak yeni bir yönetim biçimi icat etmenin eşiğinde."
+    },
+    {
+      "id": "3fdf4d84",
+      "bank_id": "40bdb600",
+      "text": "İyi bir arkadaş gibi davranıyor ama arkalarından insanların dedikodusunu yapıyor."
+    },
+    {
+      "id": "3fdf4d85",
+      "bank_id": "40bdb600",
+      "text": "Bir balverine olduğundan şüpheleniliyor."
+    },
+    {
+      "id": "3fdf4d88",
+      "bank_id": "40bdb600",
+      "text": "Kibar bir meclisteyken üstünü başını uluorta düzeltip duruyor."
+    },
+    {
+      "id": "3fdf4d89",
+      "bank_id": "40bdb600",
+      "text": "Kutulu meyve suyu içiyor ve pipetle havayı çekerek berbat sesler çıkarıyor."
+    },
+    {
+      "id": "3fdf4d8a",
+      "bank_id": "40bdb600",
+      "text": "Birinin karısına asılmış."
+    },
+    {
+      "id": "3fdf4d8b",
+      "bank_id": "40bdb600",
+      "text": "Çoraplarını kirli sepetine atmak yerine her yere saçıyor."
+    },
+    {
+      "id": "3fdf4d8e",
+      "bank_id": "40bdb600",
+      "text": "Ödeyemediği ya da ödemek istemediği ciddi kumar borçları var."
+    },
+    {
+      "id": "3fdf4d8f",
+      "bank_id": "40bdb600",
+      "text": "Bir Lonca Üstadı gibi giyinip herkesi bezdirecek şekilde \"Kahraman, canın azaldı. İksirin var mı?\" demeyi seviyor."
+    },
+    {
+      "id": "40b63631",
+      "bank_id": "40bdb600",
+      "text": "Görgü tanığı kalmasına izin vermeyin."
+    },
+    {
+      "id": "4c2cffd0",
+      "bank_id": "40bdb600",
+      "text": "Aklınızda bulundurmanız gerekenler şunlar. İlki..."
+    },
+    {
+      "id": "4f2d04a9",
+      "bank_id": "40bdb600",
+      "text": "Ve..."
+    },
+    {
+      "id": "579d6a06",
+      "bank_id": "40bdb600",
+      "text": "Bilmeniz gereken bir şey var."
+    },
+    {
+      "id": "5a172747",
+      "bank_id": "40bdb600",
+      "text": "Suikast sözleşmesini okuyun."
+    },
+    {
+      "id": "5b17293a",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet'in temsilcisiyle buluşun."
+    },
+    {
+      "id": "7868e5c8",
+      "bank_id": "40bdb600",
+      "text": "Ücretinizi hak ettiniz, ölüm saçan."
+    },
+    {
+      "id": "7968e7bb",
+      "bank_id": "40bdb600",
+      "text": "Yaptığınız işin haberi bize ulaştı. Memnun kaldık."
+    },
+    {
+      "id": "7b68ea81",
+      "bank_id": "40bdb600",
+      "text": "İyi cinayetti! Biraz para alın."
+    },
+    {
+      "id": "7df6727b",
+      "bank_id": "40bdb600",
+      "text": "İsim: %1\nMeslek: %2\nBilinen yeri: %3\nDerece: %4 yıldız"
+    },
+    {
+      "id": "7e68ef5a",
+      "bank_id": "40bdb600",
+      "text": "İyi iş çıkardınız. Cemiyet sizi üyeleri arasında görmekten mutluluk duyuyor."
+    },
+    {
+      "id": "7f68f0cd",
+      "bank_id": "40bdb600",
+      "text": "Vicdanınız yok. Ahlakınız yok. Kalbiniz yok. Kusursuz bir silahsınız."
+    },
+    {
+      "id": "9c09d65b",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet ezelden beri vardır. Belki biraz daha az."
+    },
+    {
+      "id": "9d09d7ce",
+      "bank_id": "40bdb600",
+      "text": "Bir sözleşmeyi yerine getirmekten daha büyük bir heyecan yoktur."
+    },
+    {
+      "id": "9d7f74fc",
+      "bank_id": "40bdb600",
+      "text": "İş karanlıkta, gece çöktüğünde bitirilmeli."
+    },
+    {
+      "id": "9e09d9a1",
+      "bank_id": "40bdb600",
+      "text": "Buraya gelirken takip edilmediniz, değil mi?"
+    },
+    {
+      "id": "9f09db14",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet'e hizmet etmek istemiyor musunuz?"
+    },
+    {
+      "id": "a909f257",
+      "bank_id": "40bdb600",
+      "text": "Hedefinizi bulup ona suikast düzenleyin."
+    },
+    {
+      "id": "ac70fbf4",
+      "bank_id": "40bdb600",
+      "text": "Hedefiniz başka sebeplerle öldü. İş bitti."
+    },
+    {
+      "id": "aca6974d",
+      "bank_id": "40bdb600",
+      "text": "Bir muhafızın yakınında suç işlediniz. İş bitti."
+    },
+    {
+      "id": "b584d6f8",
+      "bank_id": "40bdb600",
+      "text": "Nerede benim korumam?!"
+    },
+    {
+      "id": "b584d6fb",
+      "bank_id": "40bdb600",
+      "text": "Korumam nerede!"
+    },
+    {
+      "id": "b719facd",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet'ten kimseye söz etmeyin."
+    },
+    {
+      "id": "b8355b97",
+      "bank_id": "40bdb600",
+      "text": "Belle'in Araştırma Notu"
+    },
+    {
+      "id": "bf3dfa58",
+      "bank_id": "40bdb600",
+      "text": "Ödülünüzü almak için Cemiyet temsilcisine dönün."
+    },
+    {
+      "id": "c560cafc",
+      "bank_id": "40bdb600",
+      "text": "Kalan av: %1"
+    },
+    {
+      "id": "c5b8af9b",
+      "bank_id": "40bdb600",
+      "text": "O halde devam edeceğiz."
+    },
+    {
+      "id": "c6d2ed91",
+      "bank_id": "40bdb600",
+      "text": "Hayır! Biliyordum! Suikastçı burada!"
+    },
+    {
+      "id": "c6d2ed92",
+      "bank_id": "40bdb600",
+      "text": "Olamaz! Suikastçı bu! İmdat!"
+    },
+    {
+      "id": "c8b8b454",
+      "bank_id": "40bdb600",
+      "text": "Çok güzel."
+    },
+    {
+      "id": "cab8b7ba",
+      "bank_id": "40bdb600",
+      "text": "Pekâlâ."
+    },
+    {
+      "id": "cbb8b92d",
+      "bank_id": "40bdb600",
+      "text": "Öyle yapacağınızı tahmin etmiştim."
+    },
+    {
+      "id": "d9750c6c",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet için birine suikast düzenleyecek misiniz?"
+    },
+    {
+      "id": "dc67ec93",
+      "bank_id": "40bdb600",
+      "text": "Hedef, başına ödül konduğunun farkında. Yabancılara karşı temkinli olacaktır."
+    },
+    {
+      "id": "dec69bb0",
+      "bank_id": "40bdb600",
+      "text": "Ölüm gün ışığında gelmeli."
+    },
+    {
+      "id": "e7968590",
+      "bank_id": "40bdb600",
+      "text": "Bir yırtıcının işi asla bitmez. Sıradaki avınız bekliyor."
+    },
+    {
+      "id": "e8968703",
+      "bank_id": "40bdb600",
+      "text": "Sizin elinizden bir can daha alınmalı."
+    },
+    {
+      "id": "e99688f6",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet'in iradesini bir kez daha yerine getirmeye hazır mısınız?"
+    },
+    {
+      "id": "ea968a69",
+      "bank_id": "40bdb600",
+      "text": "Azrail için hasat vakti geldi."
+    },
+    {
+      "id": "eb612d36",
+      "bank_id": "40bdb600",
+      "text": "Teşekkürler vatandaş. Bunu hak ettin."
+    },
+    {
+      "id": "ec612ea9",
+      "bank_id": "40bdb600",
+      "text": "Sayende sıradan vatandaşlar daha rahat uyuyabilir. İşte ödülün."
+    },
+    {
+      "id": "ec968d4f",
+      "bank_id": "40bdb600",
+      "text": "Ölüm getiren geri döndü. Senin için bir görevim daha var."
+    },
+    {
+      "id": "ed5bb41f",
+      "bank_id": "40bdb600",
+      "text": "Kalan suçlular: %1"
+    },
+    {
+      "id": "ed61301c",
+      "bank_id": "40bdb600",
+      "text": "İşte buyur. Hak ettin."
+    },
+    {
+      "id": "ed968f22",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet'in çağrısını hissettiniz mi? Güzel. Yeni bir avınız var."
+    },
+    {
+      "id": "ee00fd90",
+      "bank_id": "40bdb600",
+      "text": "\"Eski metinlerde bir kulenin gölgesinde bir yerlerde uzanan 'balta girmemiş bir ormandan' sıkça bahsediliyor. Eserlerden birinin böyle bir yerde bulunabileceğine inanıyorum.\""
+    },
+    {
+      "id": "ee00fd91",
+      "bank_id": "40bdb600",
+      "text": "\"Sıradaki eserin bir yolun yakınına gömülü olduğu açık. Parşömenlerden birinde bahsedilen 'okyanus kıyısındaki kıvrımlı patika' olması mümkün müdür acaba?\""
+    },
+    {
+      "id": "ee00fd92",
+      "bank_id": "40bdb600",
+      "text": "\"Sıradaki eser ile yaşam, doğurganlık ve yeniden doğuş arasında güçlü bir bağ var gibi görünüyor. İncelediğim metinlerin neredeyse tamamında bu üç kelime geçiyordu.\""
+    },
+    {
+      "id": "ee00fd93",
+      "bank_id": "40bdb600",
+      "text": "\"Bir kaynağa göre her şey, sıradaki eserin 'uzun zamandır gezginlerin ve yolcuların yurdu olmuş' bir yerde durduğuna işaret ediyor.\""
+    },
+    {
+      "id": "ee00fd94",
+      "bank_id": "40bdb600",
+      "text": "\"Tüm kadim metinler, Eski Krallık yapısına ait bir kalıntının yakınına saklanmış bir esere işaret ediyor. Bunlardan birinde 'okyanusa bakan karanlık bir katedralden' bahsediliyor. En azından doğru çevirinin bu olduğuna inanıyorum.\""
+    },
+    {
+      "id": "ee00fd95",
+      "bank_id": "40bdb600",
+      "text": "\"Son araştırmam beni elimdeki en karanlık, en tüyler ürpertici kitaplardan bazılarına götürdü. Onlara göre sıradaki eser 'ölülerin mesken tuttuğu yerde' yatıyor.\""
+    },
+    {
+      "id": "ee00fd97",
+      "bank_id": "40bdb600",
+      "text": "\"Araştırmam kesin olarak kanıtlıyor ki ilk eser, şehrin en eski bölgesinde bir yerlerde saklı.\""
+    },
+    {
+      "id": "ee00fd9e",
+      "bank_id": "40bdb600",
+      "text": "\"Sıradaki eser hakkında topladığım tüm ipuçları, bir parşömenin 'savaş izleri taşıyan bir dağın tepeden baktığı, denizle yıkanmış kumsal' olarak tarif ettiği yerin altına gömülü olduğunu gösteriyor, bu her ne anlama geliyorsa.\""
+    },
+    {
+      "id": "ee00fd9f",
+      "bank_id": "40bdb600",
+      "text": "\"Sıradaki eser hakkında pek fazla ipucu toplayamadım. Sahil kenarındaki bir mağarada olduğuna inanıyorum, muhtemelen önceki eserlerden birinin bulunduğu bölgeden çok uzakta değil. Hangisi olduğunu ise söyleyemem.\""
+    },
+    {
+      "id": "ee20eba9",
+      "bank_id": "40bdb600",
+      "text": "Selam, selam, selam. Toprakları suçlulardan ve azgın canavarlardan temizleyip fazladan gelir elde etmeye ne dersiniz?"
+    },
+    {
+      "id": "ee61318f",
+      "bank_id": "40bdb600",
+      "text": "Zor bir av mıydı? Eh, en güzel kısma geldik. Ödeme."
+    },
+    {
+      "id": "ee969095",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet'in bir kez daha hizmetinize ihtiyacı var."
+    },
+    {
+      "id": "eebcb180",
+      "bank_id": "40bdb600",
+      "text": "Avınız koruma altında. Karşınızda direniş bulacaksınız."
+    },
+    {
+      "id": "ef00ff08",
+      "bank_id": "40bdb600",
+      "text": "\"Bir zamanlar Twinblade adında bir haydut kralı vardı ve onun kampının bir zamanlar durduğu yerin altına bir eserin gömülü olduğundan oldukça eminim. Kamp çoktan yok oldu gerçi ve yerinde bir köy olduğuna inanıyorum. Twinblade'in ruhu muhtemelen orada yaşamaya devam ediyor.\""
+    },
+    {
+      "id": "ef00ff09",
+      "bank_id": "40bdb600",
+      "text": "\"Metinler sıradaki eserin nereye gömüldüğü konusunda çok net: Oakvale adında bir kasabada. İlk başta yanlış çevirdiğimi ve Oakfield'i kastettiklerini sandım ama hayır, çoktan yok olup gitmiş bir köyün yerini bulmalıyız. Başına ne tür bir felaket geldi, bilmiyorum.\""
+    },
+    {
+      "id": "ef00ff0a",
+      "bank_id": "40bdb600",
+      "text": "\"Son eser derin, dolambaçlı bir mağaranın içinde yatıyor ama oldukça sıra dışı bir özelliğe sahip: Duvarlarından okyanus görülebiliyor.\""
+    },
+    {
+      "id": "ef00ff0b",
+      "bank_id": "40bdb600",
+      "text": "\"Sıradaki eser hakkında toplayabildiğim tek bilgi, Kahramanlar için kutsal olan topraklara gömülü olduğu. Neresi olabileceğini soracak kimsenin kalmamış olması ne acı.\""
+    },
+    {
+      "id": "f06134d5",
+      "bank_id": "40bdb600",
+      "text": "Harika iş çıkardın! İşte ödülün."
+    },
+    {
+      "id": "f0f35928",
+      "bank_id": "40bdb600",
+      "text": "Korusanıza beni!"
+    },
+    {
+      "id": "f0f35929",
+      "bank_id": "40bdb600",
+      "text": "Nerede benim korumam?!"
+    },
+    {
+      "id": "f0f3592a",
+      "bank_id": "40bdb600",
+      "text": "Hemen, suikastçı burada! Koruyun beni!"
+    },
+    {
+      "id": "f0f3592b",
+      "bank_id": "40bdb600",
+      "text": "Korumalar!"
+    },
+    {
+      "id": "f0f3592d",
+      "bank_id": "40bdb600",
+      "text": "Nerede benim korumam?!"
+    },
+    {
+      "id": "f0f3592e",
+      "bank_id": "40bdb600",
+      "text": "Suikastçı burada! Koruyun beni!"
+    },
+    {
+      "id": "f0f3592f",
+      "bank_id": "40bdb600",
+      "text": "Muhafızlar! Çabuk!"
+    },
+    {
+      "id": "f3b26f08",
+      "bank_id": "40bdb600",
+      "text": "Cemiyet, tüm sözleşme şartlarını yerine getirmediğiniz için hayal kırıklığına uğradı. Ücretiniz buna göre ayarlandı."
+    },
+    {
+      "id": "f5b2726e",
+      "bank_id": "40bdb600",
+      "text": "Ödülün yalnızca bir kısmını verebilirim. Belirttiğimiz koşullara uymayı başaramadınız."
+    },
+    {
+      "id": "f6b273c1",
+      "bank_id": "40bdb600",
+      "text": "İstediğimiz her şeyi yapmadınız ama en azından hedef öldü. Yine de tam ücret almayı beklemeyin."
+    },
+    {
+      "id": "fbf36a58",
+      "bank_id": "40bdb600",
+      "text": "Hadi, muhafızlar! Koruyun beni!"
+    },
+    {
+      "id": "fbf36a59",
+      "bank_id": "40bdb600",
+      "text": "Korumalar!"
+    },
+    {
+      "id": "fbf36a5a",
+      "bank_id": "40bdb600",
+      "text": "Nerede benim korumam?!"
+    },
+    {
+      "id": "fbf36a5b",
+      "bank_id": "40bdb600",
+      "text": "Beni suikastçıdan koruyun!"
+    },
+    {
+      "id": "fbf36a5c",
+      "bank_id": "40bdb600",
+      "text": "Nerede benim korumam?!"
+    },
+    {
+      "id": "fbf36a5e",
+      "bank_id": "40bdb600",
+      "text": "Suikastçının beni yakalamasına izin vermeyin!"
+    },
+    {
+      "id": "fbf36a5f",
+      "bank_id": "40bdb600",
+      "text": "Durdurun şu suikastçıyı!"
+    },
+    {
+      "id": "fd8886a7",
+      "bank_id": "40bdb600",
+      "text": "Kalan yaratıklar: %1"
+    }
+  ]
+}

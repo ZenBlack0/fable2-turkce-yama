@@ -1,0 +1,1001 @@
+{
+  "bank_id": "d0502802",
+  "total_strings": 199,
+  "strings": [
+    {
+      "id": "01edd4c8",
+      "bank_id": "d0502802",
+      "text": "Oh, içimi kıpır kıpır ediyorsun."
+    },
+    {
+      "id": "01edd4c9",
+      "bank_id": "d0502802",
+      "text": "Birlikte daha çok vakit geçirmeliyiz."
+    },
+    {
+      "id": "01edd4ca",
+      "bank_id": "d0502802",
+      "text": "Sanırım senden hoşlanıyorum."
+    },
+    {
+      "id": "01edd4cc",
+      "bank_id": "d0502802",
+      "text": "İpek çarşafları sever misin? Şöyle yanıma gel bakalım tatlım."
+    },
+    {
+      "id": "01edd4cd",
+      "bank_id": "d0502802",
+      "text": "Biri muhafızları çağırsın, kalbimi çaldın!"
+    },
+    {
+      "id": "01edd4ce",
+      "bank_id": "d0502802",
+      "text": "Seni izliyordum. Ve gördüğüm şey çok hoşuma gitti."
+    },
+    {
+      "id": "01edd4cf",
+      "bank_id": "d0502802",
+      "text": "Hâlâ bekâr mısın?"
+    },
+    {
+      "id": "10f563f0",
+      "bank_id": "d0502802",
+      "text": "Benim için çok özelsin, biliyorsun değil mi."
+    },
+    {
+      "id": "10f563f1",
+      "bank_id": "d0502802",
+      "text": "Umarım hep birlikte oluruz."
+    },
+    {
+      "id": "10f563f3",
+      "bank_id": "d0502802",
+      "text": "Seninle geçen her dakikaya bayılıyorum."
+    },
+    {
+      "id": "10f563f4",
+      "bank_id": "d0502802",
+      "text": "Birine karşı böyle hissedeceğimi hiç düşünmezdim."
+    },
+    {
+      "id": "10f563f5",
+      "bank_id": "d0502802",
+      "text": "Yanında olmadığım zamanlar seni öyle çok özlüyorum ki."
+    },
+    {
+      "id": "10f563f6",
+      "bank_id": "d0502802",
+      "text": "Aşkından başımı döndürüyorsun."
+    },
+    {
+      "id": "10f563f7",
+      "bank_id": "d0502802",
+      "text": "Senin gibi birini bulduğum için öyle şanslı bir kadınım ki."
+    },
+    {
+      "id": "17f56ef0",
+      "bank_id": "d0502802",
+      "text": "Bahçeme baktığımda, temiz çarşaflarımı kokladığımda aklıma hep senin güzelliğin geliyor."
+    },
+    {
+      "id": "17f56ef1",
+      "bank_id": "d0502802",
+      "text": "Kalbimin eksik parçasısın sen."
+    },
+    {
+      "id": "17f56ef2",
+      "bank_id": "d0502802",
+      "text": "Beni çok düşündün mü bakalım?"
+    },
+    {
+      "id": "17f56ef3",
+      "bank_id": "d0502802",
+      "text": "Seninle vakit geçirmeye bayılıyorum."
+    },
+    {
+      "id": "17f56ef4",
+      "bank_id": "d0502802",
+      "text": "Sonunda bir araya geldiğimize çok sevindim."
+    },
+    {
+      "id": "17f56ef5",
+      "bank_id": "d0502802",
+      "text": "Birlikte harika vakit geçiriyoruz, değil mi?"
+    },
+    {
+      "id": "17f56ef6",
+      "bank_id": "d0502802",
+      "text": "Hadi romantik bir şeyler yapalım."
+    },
+    {
+      "id": "3d321721",
+      "bank_id": "d0502802",
+      "text": "Senin gibi birinin böyle bir kasabada ne işi var?"
+    },
+    {
+      "id": "3d321722",
+      "bank_id": "d0502802",
+      "text": "Üşüdün mü? Biraz daha sokulsana yanıma?"
+    },
+    {
+      "id": "3d321723",
+      "bank_id": "d0502802",
+      "text": "*ıslık çalar* O senin içindi. Köpeğin için değil."
+    },
+    {
+      "id": "3d321724",
+      "bank_id": "d0502802",
+      "text": "Tam bir yosmasın sen, değil mi?"
+    },
+    {
+      "id": "3d321725",
+      "bank_id": "d0502802",
+      "text": "Gel buraya bebeğim."
+    },
+    {
+      "id": "3ffa7b30",
+      "bank_id": "d0502802",
+      "text": "Oh, kalbim resmen bir an durdu sanki."
+    },
+    {
+      "id": "3ffa7b31",
+      "bank_id": "d0502802",
+      "text": "Aman efendim! Hihi."
+    },
+    {
+      "id": "3ffa7b32",
+      "bank_id": "d0502802",
+      "text": "Nasıl gidiyor bakalım?"
+    },
+    {
+      "id": "3ffa7b33",
+      "bank_id": "d0502802",
+      "text": "Selam seksi şey."
+    },
+    {
+      "id": "3ffa7b34",
+      "bank_id": "d0502802",
+      "text": "Burası mı çok sıcak oldu yoksa sen misin bu odayı ısıtan?"
+    },
+    {
+      "id": "3ffa7b35",
+      "bank_id": "d0502802",
+      "text": "O iltifat aynen sana gelsin tatlım."
+    },
+    {
+      "id": "3ffa7b37",
+      "bank_id": "d0502802",
+      "text": "Selam bebeğim."
+    },
+    {
+      "id": "46c9113a",
+      "bank_id": "d0502802",
+      "text": "Senin gibi inanılmaz derecede ünlü birinin karşısında durduğuma inanamıyorum!"
+    },
+    {
+      "id": "46c9113b",
+      "bank_id": "d0502802",
+      "text": "Tüm dünyanın en ünlü insanıyla tanıştığım günü asla unutmayacağım. Yani seninle!"
+    },
+    {
+      "id": "46c9113c",
+      "bank_id": "d0502802",
+      "text": "Efsanevi kahramanlar bile senin kadar el üstünde tutulmamıştı!"
+    },
+    {
+      "id": "46c9113d",
+      "bank_id": "d0502802",
+      "text": "Arkadaşlarıma anlatacağım anı iple çekiyorum! Senin en büyük hayranınız!"
+    },
+    {
+      "id": "46c9113e",
+      "bank_id": "d0502802",
+      "text": "Yaşamış en ünlü insan kadar ünlüsün!"
+    },
+    {
+      "id": "46fa8638",
+      "bank_id": "d0502802",
+      "text": "Sahi mi?"
+    },
+    {
+      "id": "46fa8639",
+      "bank_id": "d0502802",
+      "text": "Nasılsın bakalım seksi şey?"
+    },
+    {
+      "id": "46fa863a",
+      "bank_id": "d0502802",
+      "text": "Selam tatlım."
+    },
+    {
+      "id": "46fa863c",
+      "bank_id": "d0502802",
+      "text": "Oh, beni titretiyorsun."
+    },
+    {
+      "id": "46fa863d",
+      "bank_id": "d0502802",
+      "text": "Vay vay, merhabalaaaar."
+    },
+    {
+      "id": "46fa863e",
+      "bank_id": "d0502802",
+      "text": "Hehe."
+    },
+    {
+      "id": "46fa863f",
+      "bank_id": "d0502802",
+      "text": "Ay dur! Haha... devam et... ay yapma."
+    },
+    {
+      "id": "48322850",
+      "bank_id": "d0502802",
+      "text": "Gözlerinde kayboldum resmen."
+    },
+    {
+      "id": "48322852",
+      "bank_id": "d0502802",
+      "text": "<giggles girlishly>"
+    },
+    {
+      "id": "48322853",
+      "bank_id": "d0502802",
+      "text": "İçimi sıcacık yapıyorsun."
+    },
+    {
+      "id": "48322854",
+      "bank_id": "d0502802",
+      "text": "Ellerinde eriyip gidiyorum."
+    },
+    {
+      "id": "48322855",
+      "bank_id": "d0502802",
+      "text": "Dudaklarımı senin gibi biri için saklıyordum."
+    },
+    {
+      "id": "4fc91f08",
+      "bank_id": "d0502802",
+      "text": "Aramızda dev gibi yükseliyorsun. Üstün bir varlıksın sen!"
+    },
+    {
+      "id": "4fc91f09",
+      "bank_id": "d0502802",
+      "text": "Sen bir ilahsın!"
+    },
+    {
+      "id": "4fc91f0b",
+      "bank_id": "d0502802",
+      "text": "Seninle aynı havayı solumak benim için bir lütuftur!"
+    },
+    {
+      "id": "4fc91f0e",
+      "bank_id": "d0502802",
+      "text": "İnanılmaz bir şey bu! Gerçekten sensin! Dünyanın en ünlü insanı sensin!"
+    },
+    {
+      "id": "4fc91f0f",
+      "bank_id": "d0502802",
+      "text": "Bir insan nasıl bu kadar ünlü olabilir? İlah gibisin sen!"
+    },
+    {
+      "id": "542ec330",
+      "bank_id": "d0502802",
+      "text": "Senle aramızda iyi bir çekim var."
+    },
+    {
+      "id": "542ec331",
+      "bank_id": "d0502802",
+      "text": "Yalnız hissetmenin en iyi ilacı ne biliyor musun? Ben."
+    },
+    {
+      "id": "542ec333",
+      "bank_id": "d0502802",
+      "text": "Çok tatlı dillisin."
+    },
+    {
+      "id": "542ec334",
+      "bank_id": "d0502802",
+      "text": "Birbirimizi anladığımızı düşünüyorum. Ki bu pek sık olmaz."
+    },
+    {
+      "id": "542ec335",
+      "bank_id": "d0502802",
+      "text": "Gel buraya. Seninle biraz daha vakit geçirmek isterim."
+    },
+    {
+      "id": "542ec336",
+      "bank_id": "d0502802",
+      "text": "Bir ara birlikte bir şeyler içelim mi, ne dersin?"
+    },
+    {
+      "id": "542ec337",
+      "bank_id": "d0502802",
+      "text": "En sevdiğin içki nedir bakalım?"
+    },
+    {
+      "id": "5b2ece30",
+      "bank_id": "d0502802",
+      "text": "Benden hoşlanacağını düşünüyorum. Son derece varlıklıyım."
+    },
+    {
+      "id": "5b2ece31",
+      "bank_id": "d0502802",
+      "text": "Sanırım az önce kalbimi çaldın ama merak etme, şikâyetçi olmayacağım."
+    },
+    {
+      "id": "5b2ece32",
+      "bank_id": "d0502802",
+      "text": "Biraz daha yaklaşsana sevgilim."
+    },
+    {
+      "id": "5b2ece33",
+      "bank_id": "d0502802",
+      "text": "Oh evet bebeğim."
+    },
+    {
+      "id": "5b2ece34",
+      "bank_id": "d0502802",
+      "text": "Bekâr mısın?"
+    },
+    {
+      "id": "5b2ece35",
+      "bank_id": "d0502802",
+      "text": "Daha sonra ne yapıyorsun... bilirsin ya, bu gece?"
+    },
+    {
+      "id": "5b2ece36",
+      "bank_id": "d0502802",
+      "text": "Oh, senden hoşlanmamak elde değil."
+    },
+    {
+      "id": "6449eb10",
+      "bank_id": "d0502802",
+      "text": "Dizlerimin bağını çözüyorsun."
+    },
+    {
+      "id": "6449eb11",
+      "bank_id": "d0502802",
+      "text": "Kendimi özel hissettiriyorsun bana. Ki bu kolay bir iş değildir."
+    },
+    {
+      "id": "6449eb14",
+      "bank_id": "d0502802",
+      "text": "Kalbimde senin için çok özel bir yer var."
+    },
+    {
+      "id": "6449eb16",
+      "bank_id": "d0502802",
+      "text": "Bizim kaderimizde birlikte olmak varmış bence."
+    },
+    {
+      "id": "6449eb17",
+      "bank_id": "d0502802",
+      "text": "Sürekli seni düşünmekten kendimi alamıyorum."
+    },
+    {
+      "id": "646e9450",
+      "bank_id": "d0502802",
+      "text": "Kim bilir, belki bir gün evleniriz."
+    },
+    {
+      "id": "646e9451",
+      "bank_id": "d0502802",
+      "text": "İyi bir ikili olduk."
+    },
+    {
+      "id": "646e9452",
+      "bank_id": "d0502802",
+      "text": "Kalbimin daha hızlı çarpmasına sebep oluyorsun."
+    },
+    {
+      "id": "646e9456",
+      "bank_id": "d0502802",
+      "text": "Biz birbirimiz için yaratılmışız."
+    },
+    {
+      "id": "646e9457",
+      "bank_id": "d0502802",
+      "text": "Harika bir çift olduk sence de öyle değil mi?"
+    },
+    {
+      "id": "6949f330",
+      "bank_id": "d0502802",
+      "text": "Seni düşününce kalbim bir tuhaf atıyor."
+    },
+    {
+      "id": "6949f331",
+      "bank_id": "d0502802",
+      "text": "Birlikte biraz vakit geçirmek ister misin?"
+    },
+    {
+      "id": "6949f335",
+      "bank_id": "d0502802",
+      "text": "Kanat çırpan heyecanlı bir tavuk gibi küt küt attırıyorsun kalbimi."
+    },
+    {
+      "id": "6949f336",
+      "bank_id": "d0502802",
+      "text": "Aklımdan bir türlü çıkmıyorsun."
+    },
+    {
+      "id": "6949f337",
+      "bank_id": "d0502802",
+      "text": "Sen ve ben. Bu tam bir kaderdi."
+    },
+    {
+      "id": "6d6ea2ba",
+      "bank_id": "d0502802",
+      "text": "Harika bir çift olduk."
+    },
+    {
+      "id": "6d6ea2bb",
+      "bank_id": "d0502802",
+      "text": "Harika bir çiftiz, değil mi?"
+    },
+    {
+      "id": "6d6ea2bc",
+      "bank_id": "d0502802",
+      "text": "Birlikte olmamız suyun akışı kadar doğal."
+    },
+    {
+      "id": "6d6ea2bd",
+      "bank_id": "d0502802",
+      "text": "Birlikte çok iyi olduğumuzu düşünüyorum, sen ne dersin?"
+    },
+    {
+      "id": "6d6ea2bf",
+      "bank_id": "d0502802",
+      "text": "Birlikte harika bir geleceğimiz olduğuna inanıyorum."
+    },
+    {
+      "id": "86d126c0",
+      "bank_id": "d0502802",
+      "text": "Çok özelsin sen!"
+    },
+    {
+      "id": "86d126c1",
+      "bank_id": "d0502802",
+      "text": "Seninleyken gözümün önünde yıldızlar parlıyor."
+    },
+    {
+      "id": "86d126c3",
+      "bank_id": "d0502802",
+      "text": "Yanında olmaya bayılıyorum tatlım."
+    },
+    {
+      "id": "86d126c4",
+      "bank_id": "d0502802",
+      "text": "Bugün seni çok düşündüm. *kıkırdar*"
+    },
+    {
+      "id": "86d126c5",
+      "bank_id": "d0502802",
+      "text": "Birlikte geçirdiğimiz vakit mücevherler kadar değerli."
+    },
+    {
+      "id": "86d126c6",
+      "bank_id": "d0502802",
+      "text": "Dizlerimin bağını çözüyorsun."
+    },
+    {
+      "id": "86d126c7",
+      "bank_id": "d0502802",
+      "text": "Her geçen gün daha da güzelleşiyorsun tatlım."
+    },
+    {
+      "id": "8dd131c0",
+      "bank_id": "d0502802",
+      "text": "Sabah hizmetçim beni uyandırdığında aklımdaki ilk, gece üstümü örttüğünde ise son düşüncesin."
+    },
+    {
+      "id": "8dd131c1",
+      "bank_id": "d0502802",
+      "text": "Sana tek kelimeyle doyamıyorum."
+    },
+    {
+      "id": "8dd131c2",
+      "bank_id": "d0502802",
+      "text": "Geçen sefer seninle çok eğlendim."
+    },
+    {
+      "id": "8dd131c3",
+      "bank_id": "d0502802",
+      "text": "Seni bedava biradan bile daha çok seviyorum!"
+    },
+    {
+      "id": "8dd131c4",
+      "bank_id": "d0502802",
+      "text": "Seninle tanıştığıma çok memnun oldum."
+    },
+    {
+      "id": "8dd131c5",
+      "bank_id": "d0502802",
+      "text": "Birbirimize çok yakışıyoruz, değil mi?"
+    },
+    {
+      "id": "8dd131c6",
+      "bank_id": "d0502802",
+      "text": "Romantik bir şeyler yapmalıyız."
+    },
+    {
+      "id": "aaf50018",
+      "bank_id": "d0502802",
+      "text": "Düğünümüz için o kadar heyecanlıyım ki dün gece neredeyse altıma kaçıracaktım!"
+    },
+    {
+      "id": "aaf50019",
+      "bank_id": "d0502802",
+      "text": "Evleniyoruz! Hadi kafayı çekelim!"
+    },
+    {
+      "id": "aaf5001a",
+      "bank_id": "d0502802",
+      "text": "Oh, mutluluktan havalara uçuyorum! Gerçekten evleneceğiz!"
+    },
+    {
+      "id": "aaf5001b",
+      "bank_id": "d0502802",
+      "text": "Düğünümüzü düşünmeden duramıyorum."
+    },
+    {
+      "id": "aaf5001d",
+      "bank_id": "d0502802",
+      "text": "Seninle evleneceğime inanamıyorum!"
+    },
+    {
+      "id": "aaf5001e",
+      "bank_id": "d0502802",
+      "text": "Düğünümüzü iple çekiyorum!"
+    },
+    {
+      "id": "aaf5001f",
+      "bank_id": "d0502802",
+      "text": "Nikâh masasına oturacağımıza inanabiliyor musun?"
+    },
+    {
+      "id": "b38ab628",
+      "bank_id": "d0502802",
+      "text": "Evleneceğimize inanamıyorum!"
+    },
+    {
+      "id": "b38ab62a",
+      "bank_id": "d0502802",
+      "text": "Damat olacağım! Hem de bir Kahramana!"
+    },
+    {
+      "id": "b38ab62b",
+      "bank_id": "d0502802",
+      "text": "Seninle evlilik hayatını iple çekiyorum."
+    },
+    {
+      "id": "b38ab62c",
+      "bank_id": "d0502802",
+      "text": "Sen bir de gerdek gecemizi bekle bakalım, hehe."
+    },
+    {
+      "id": "b38ab62d",
+      "bank_id": "d0502802",
+      "text": "Bütün hafta bekârlığa veda gecemi planladım tatlım!"
+    },
+    {
+      "id": "b38ab62e",
+      "bank_id": "d0502802",
+      "text": "Sen de düğün konusunda benim kadar telaşlı mısın?"
+    },
+    {
+      "id": "b38ab62f",
+      "bank_id": "d0502802",
+      "text": "Çok mutluyum! Ömrümüzün geri kalanını birlikte geçireceğiz!"
+    },
+    {
+      "id": "b5f51148",
+      "bank_id": "d0502802",
+      "text": "Sen bir de gerdek gecemizi bekle bakalım, hehe."
+    },
+    {
+      "id": "b5f51149",
+      "bank_id": "d0502802",
+      "text": "Bütün hafta bekârlığa veda partimi planladım tatlım!"
+    },
+    {
+      "id": "b5f5114a",
+      "bank_id": "d0502802",
+      "text": "Sen de düğün konusunda benim kadar telaşlı mısın?"
+    },
+    {
+      "id": "b5f5114b",
+      "bank_id": "d0502802",
+      "text": "Çok mutluyum! Ömrümüzün geri kalanını birlikte geçireceğiz!"
+    },
+    {
+      "id": "b5f5114c",
+      "bank_id": "d0502802",
+      "text": "Evleneceğimize inanamıyorum!"
+    },
+    {
+      "id": "b5f5114e",
+      "bank_id": "d0502802",
+      "text": "Gelin olacağım!"
+    },
+    {
+      "id": "b5f5114f",
+      "bank_id": "d0502802",
+      "text": "Seninle evlilik hayatını iple çekiyorum."
+    },
+    {
+      "id": "b88abdc9",
+      "bank_id": "d0502802",
+      "text": "Bir Kahraman! Bir Kahramanla evleniyorum!"
+    },
+    {
+      "id": "b88abdca",
+      "bank_id": "d0502802",
+      "text": "Düğünümüzü iple çekiyorum!"
+    },
+    {
+      "id": "b88abdcb",
+      "bank_id": "d0502802",
+      "text": "Nikâh masasına oturacağımıza inanabiliyor musun?"
+    },
+    {
+      "id": "b88abdcc",
+      "bank_id": "d0502802",
+      "text": "Düğünümüz için o kadar heyecanlıyım ki dün gece neredeyse altıma kaçıracaktım!"
+    },
+    {
+      "id": "b88abdcd",
+      "bank_id": "d0502802",
+      "text": "Evleniyoruz! Hadi kafayı çekelim!"
+    },
+    {
+      "id": "b88abdce",
+      "bank_id": "d0502802",
+      "text": "Oh, mutluluktan havalara uçuyorum! Gerçekten evleneceğiz!"
+    },
+    {
+      "id": "b88abdcf",
+      "bank_id": "d0502802",
+      "text": "Düğünümüzü düşünmeden duramıyorum."
+    },
+    {
+      "id": "be9eef98",
+      "bank_id": "d0502802",
+      "text": "Gerçekten sen olduğuna inanamıyorum! Harika bir şey bu!"
+    },
+    {
+      "id": "c1299f18",
+      "bank_id": "d0502802",
+      "text": "Selam bebeğim. Bütün hayatım boyunca seni beklemişim meğer."
+    },
+    {
+      "id": "c1299f19",
+      "bank_id": "d0502802",
+      "text": "Oh bebeğim, beni delirtiyorsun."
+    },
+    {
+      "id": "c1299f1d",
+      "bank_id": "d0502802",
+      "text": "Evrenin merkezi sensin tatlım."
+    },
+    {
+      "id": "c1299f1e",
+      "bank_id": "d0502802",
+      "text": "Ay yapma, çok yaramazsın <giggles>"
+    },
+    {
+      "id": "c1299f1f",
+      "bank_id": "d0502802",
+      "text": "Çok cilvelisin."
+    },
+    {
+      "id": "c39ef7b9",
+      "bank_id": "d0502802",
+      "text": "Sensin! Gerçekten sensin!"
+    },
+    {
+      "id": "cac6dff1",
+      "bank_id": "d0502802",
+      "text": "Harika bir insansın. İçimi eritiyorsun resmen."
+    },
+    {
+      "id": "cac6dff2",
+      "bank_id": "d0502802",
+      "text": "Sürekli seni düşünüyorum <giggles>"
+    },
+    {
+      "id": "cac6dff3",
+      "bank_id": "d0502802",
+      "text": "Ayrı geçirdiğimiz her dakika beni üzüyor."
+    },
+    {
+      "id": "cac6dff4",
+      "bank_id": "d0502802",
+      "text": "Aklımı başımdan aldın, hep seni düşünüyorum. Ki normalde pek düşünmem."
+    },
+    {
+      "id": "cac6dff5",
+      "bank_id": "d0502802",
+      "text": "Gece gündüz seni düşünmekten kendimi alamıyorum."
+    },
+    {
+      "id": "cc29b048",
+      "bank_id": "d0502802",
+      "text": "Seni masanın altına yuvarlayana kadar içerim, sonra da yanına uzanırım."
+    },
+    {
+      "id": "cc29b049",
+      "bank_id": "d0502802",
+      "text": "Bu gece rüyalarımda olacaksın."
+    },
+    {
+      "id": "cc29b04c",
+      "bank_id": "d0502802",
+      "text": "Yakamı bağrımı alev alev yakıyorsun. Başka yerlerimi de tabii."
+    },
+    {
+      "id": "cc29b04e",
+      "bank_id": "d0502802",
+      "text": "Biliyorsun bu işi!"
+    },
+    {
+      "id": "cc29b04f",
+      "bank_id": "d0502802",
+      "text": "Bütün hayatım boyunca neredeydin sen?"
+    },
+    {
+      "id": "d5c6f120",
+      "bank_id": "d0502802",
+      "text": "Beni tamamlıyorsun."
+    },
+    {
+      "id": "d5c6f122",
+      "bank_id": "d0502802",
+      "text": "Ömrümü seninle geçirmeyi hayal ediyorum."
+    },
+    {
+      "id": "d5c6f123",
+      "bank_id": "d0502802",
+      "text": "Aklımdan hiç çıkmıyorsun."
+    },
+    {
+      "id": "d5c6f124",
+      "bank_id": "d0502802",
+      "text": "Normalde kimseye karşı... şey, böyle hissetmem."
+    },
+    {
+      "id": "d5c6f125",
+      "bank_id": "d0502802",
+      "text": "Hep birlikte olacağız."
+    },
+    {
+      "id": "d857b47a",
+      "bank_id": "d0502802",
+      "text": "Nasıl bu kadar fena halde seksi olabiliyorsun?"
+    },
+    {
+      "id": "d857b47b",
+      "bank_id": "d0502802",
+      "text": "Son zamanlarda güzel içkiler içtin mi tatlım?"
+    },
+    {
+      "id": "d857b47c",
+      "bank_id": "d0502802",
+      "text": "Bunu bütün kızlara söylediğine bahse girerim."
+    },
+    {
+      "id": "d857b47d",
+      "bank_id": "d0502802",
+      "text": "Şöyle yanıma gel de kulağıma bir sır fısılda."
+    },
+    {
+      "id": "d857b47e",
+      "bank_id": "d0502802",
+      "text": "Ay çok yaramazsın!"
+    },
+    {
+      "id": "e157c248",
+      "bank_id": "d0502802",
+      "text": "Son zamanlarda güzel kitaplar okudun mu hiç?"
+    },
+    {
+      "id": "e157c249",
+      "bank_id": "d0502802",
+      "text": "Gel buraya seni."
+    },
+    {
+      "id": "e157c24b",
+      "bank_id": "d0502802",
+      "text": "Baş başa kalabileceğimiz bir yere gidip o kılıcı nasıl savurduğunu gösterebilirsin bana."
+    },
+    {
+      "id": "e157c24e",
+      "bank_id": "d0502802",
+      "text": "<wolf whistles> Vay canına, şuna bir bakın!"
+    },
+    {
+      "id": "e157c24f",
+      "bank_id": "d0502802",
+      "text": "Biliyorsun bu işi şekerim."
+    },
+    {
+      "id": "f19edfe0",
+      "bank_id": "d0502802",
+      "text": "Seninle tanıştığıma çok memnun oldum."
+    },
+    {
+      "id": "f19edfe1",
+      "bank_id": "d0502802",
+      "text": "Birbirimize çok yakışıyoruz, değil mi?"
+    },
+    {
+      "id": "f19edfe2",
+      "bank_id": "d0502802",
+      "text": "Romantik bir şeyler yapmalıyız."
+    },
+    {
+      "id": "f19edfe4",
+      "bank_id": "d0502802",
+      "text": "Seni görünce yüreğim pıtır pıtır çarpıyor resmen."
+    },
+    {
+      "id": "f19edfe5",
+      "bank_id": "d0502802",
+      "text": "Hayatımda sana asla doyamıyorum."
+    },
+    {
+      "id": "f19edfe6",
+      "bank_id": "d0502802",
+      "text": "Seninleyken hep çok eğleniyorum."
+    },
+    {
+      "id": "f19edfe7",
+      "bank_id": "d0502802",
+      "text": "Seni beş koca bardak biradan bile daha çok seviyorum."
+    },
+    {
+      "id": "f24f5508",
+      "bank_id": "d0502802",
+      "text": "O buzdan kabuğumu birinin kırabileceğini hiç düşünmezdim. Ama sen başardın."
+    },
+    {
+      "id": "f24f5509",
+      "bank_id": "d0502802",
+      "text": "Hayatıma ve kalbime zenginlik katıyorsun."
+    },
+    {
+      "id": "f24f550a",
+      "bank_id": "d0502802",
+      "text": "Sana öyle aşığım ki sanki on dört koca bardak mutluluk içmiş gibiyim."
+    },
+    {
+      "id": "f24f550b",
+      "bank_id": "d0502802",
+      "text": "Daha önce hiç kimseye karşı böyle hissetmemiştim."
+    },
+    {
+      "id": "f24f550c",
+      "bank_id": "d0502802",
+      "text": "Hayatımda olduğun için çok mutluyum."
+    },
+    {
+      "id": "f24f550d",
+      "bank_id": "d0502802",
+      "text": "Tek bir kelime etmen yeter, seninle kaçarım."
+    },
+    {
+      "id": "f24f550e",
+      "bank_id": "d0502802",
+      "text": "Bana çok güzel ve mutlu hisler veriyorsun."
+    },
+    {
+      "id": "fa993dd8",
+      "bank_id": "d0502802",
+      "text": "Ömrümde birinin senin ün seviyene erişebileceğini hiç düşünmezdim. Kendimi ayrıcalıklı hissediyorum."
+    },
+    {
+      "id": "fa9eedc8",
+      "bank_id": "d0502802",
+      "text": "Dün gece rüyamda seni gördüm *kıkırdar*"
+    },
+    {
+      "id": "fa9eedc9",
+      "bank_id": "d0502802",
+      "text": "Birlikte geçirdiğimiz her an çok kıymetli."
+    },
+    {
+      "id": "fa9eedca",
+      "bank_id": "d0502802",
+      "text": "Dizlerimin bağını çözüyorsun. Hem de sarhoş bile değilken."
+    },
+    {
+      "id": "fa9eedcb",
+      "bank_id": "d0502802",
+      "text": "Dün gece yine rüyalarıma girdin. Hihi!"
+    },
+    {
+      "id": "fa9eedcc",
+      "bank_id": "d0502802",
+      "text": "Benim için çok güzelsin."
+    },
+    {
+      "id": "fa9eedcd",
+      "bank_id": "d0502802",
+      "text": "Seni her gördüğümde karnımda kelebekler uçuşuyor!"
+    },
+    {
+      "id": "fa9eedcf",
+      "bank_id": "d0502802",
+      "text": "Seninle olmak günün en güzel anı."
+    },
+    {
+      "id": "faedc9c0",
+      "bank_id": "d0502802",
+      "text": "Birbirimizi iyi anladığımızı düşünüyorum. Ve bu pek sık olmaz."
+    },
+    {
+      "id": "faedc9c1",
+      "bank_id": "d0502802",
+      "text": "Seni daha yakından tanımayı çok isterim."
+    },
+    {
+      "id": "faedc9c2",
+      "bank_id": "d0502802",
+      "text": "Bir şeyler içelim mi, ne dersin? Baş başa bir yerde."
+    },
+    {
+      "id": "faedc9c3",
+      "bank_id": "d0502802",
+      "text": "Oh, çok seksi!"
+    },
+    {
+      "id": "faedc9c4",
+      "bank_id": "d0502802",
+      "text": "Aramızda iyi bir çekim olduğunu düşünüyorum."
+    },
+    {
+      "id": "faedc9c5",
+      "bank_id": "d0502802",
+      "text": "Yalnız kalmaktan nefret ederim, sen de öyle değil misin?"
+    },
+    {
+      "id": "faedc9c7",
+      "bank_id": "d0502802",
+      "text": "Bugünlerde aşkı bulmak çok zor, değil mi?"
+    },
+    {
+      "id": "fb4f6358",
+      "bank_id": "d0502802",
+      "text": "Nefesimi kesiyorsun."
+    },
+    {
+      "id": "fb4f6359",
+      "bank_id": "d0502802",
+      "text": "Sana gerçekten, tamamen, delicesine aşığım."
+    },
+    {
+      "id": "fb4f635b",
+      "bank_id": "d0502802",
+      "text": "Benim için paha biçilemezsin."
+    },
+    {
+      "id": "fb4f635c",
+      "bank_id": "d0502802",
+      "text": "Para, leziz yemekler, mum ışığı ve sen. Kulağa kusursuz geliyor."
+    },
+    {
+      "id": "fb4f635d",
+      "bank_id": "d0502802",
+      "text": "Geçmişin umurumda değil. Ben geleceğimize bakıyorum."
+    },
+    {
+      "id": "fb4f635e",
+      "bank_id": "d0502802",
+      "text": "Seni her geçen gün daha çok seviyorum."
+    },
+    {
+      "id": "fb4f635f",
+      "bank_id": "d0502802",
+      "text": "Benim için senden başkası yok. Yalnızca sen!"
+    }
+  ]
+}

@@ -1,0 +1,1106 @@
+{
+  "bank_id": "c0f09600",
+  "total_strings": 220,
+  "strings": [
+    {
+      "id": "00119c18",
+      "bank_id": "c0f09600",
+      "text": "İhbar Edilen Suç Sayısı"
+    },
+    {
+      "id": "0077c9d4",
+      "bank_id": "c0f09600",
+      "text": "Albion genelinde zaman zaman Sivil Sürgün kampları belirir. Oradaki esirleri kurtararak kahramanlığınızı kanıtlayın ya da daha fazla köylüyü zorla çalıştırmaya götürerek altın kazanın."
+    },
+    {
+      "id": "01794e7b",
+      "bank_id": "c0f09600",
+      "text": "Zührevi Hastalık"
+    },
+    {
+      "id": "019cb9c2",
+      "bank_id": "c0f09600",
+      "text": "Kusma Sayısı"
+    },
+    {
+      "id": "01eb5044",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen hobbe"
+    },
+    {
+      "id": "02acccec",
+      "bank_id": "c0f09600",
+      "text": "Harcanan Toplam Para"
+    },
+    {
+      "id": "0694edaf",
+      "bank_id": "c0f09600",
+      "text": "Mutlu"
+    },
+    {
+      "id": "069b0951",
+      "bank_id": "c0f09600",
+      "text": "Engellenen Saldırı"
+    },
+    {
+      "id": "06f306db",
+      "bank_id": "c0f09600",
+      "text": "Çile Rekor Puanı"
+    },
+    {
+      "id": "06f4fab8",
+      "bank_id": "c0f09600",
+      "text": "Odunculuk Altını"
+    },
+    {
+      "id": "07e3f93d",
+      "bank_id": "c0f09600",
+      "text": "Saflık/Yozlaşma"
+    },
+    {
+      "id": "0a264161",
+      "bank_id": "c0f09600",
+      "text": "En İyi Çile Süresi (saniye)"
+    },
+    {
+      "id": "0b0c7860",
+      "bank_id": "c0f09600",
+      "text": "En Uzak Tavuk Tekmesi (yarda)"
+    },
+    {
+      "id": "0b9f7b5c",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen Banshee"
+    },
+    {
+      "id": "0dc3ec0c",
+      "bank_id": "c0f09600",
+      "text": "Kazanılan Köylü Ödülü Sayısı"
+    },
+    {
+      "id": "0dd16ca2",
+      "bank_id": "c0f09600",
+      "text": "Hi-Fi"
+    },
+    {
+      "id": "0f445b21",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen Kule Muhafızı"
+    },
+    {
+      "id": "11d9c70f",
+      "bank_id": "c0f09600",
+      "text": "Dalga"
+    },
+    {
+      "id": "11ece7ff",
+      "bank_id": "c0f09600",
+      "text": "Verilen Hasar"
+    },
+    {
+      "id": "11ff6fdb",
+      "bank_id": "c0f09600",
+      "text": "Sudayken A düğmesine basılı tutmak daha hızlı yüzmenizi sağlar. Ayrıca su yüzeyinin altında eşyaların gizlendiği dalış noktaları da bulabilirsiniz."
+    },
+    {
+      "id": "12aad8e4",
+      "bank_id": "c0f09600",
+      "text": "Para"
+    },
+    {
+      "id": "138b14fa",
+      "bank_id": "c0f09600",
+      "text": "Evlilik Sayısı"
+    },
+    {
+      "id": "161d5dab",
+      "bank_id": "c0f09600",
+      "text": "Her silah kategorisinde pek çok çeşit bulacak olsanız da genel bir kural olarak tabancalar zayıf ancak hızlı dolar, tüfekler güçlü ancak yavaştır, tatar yayları ise ikisinin ortasındadır."
+    },
+    {
+      "id": "192b46f4",
+      "bank_id": "c0f09600",
+      "text": "Macera"
+    },
+    {
+      "id": "199a92ec",
+      "bank_id": "c0f09600",
+      "text": "Boşanma Sayısı"
+    },
+    {
+      "id": "1d7799ab",
+      "bank_id": "c0f09600",
+      "text": "Öldürme"
+    },
+    {
+      "id": "20bd2c4b",
+      "bank_id": "c0f09600",
+      "text": "Çekici"
+    },
+    {
+      "id": "24399938",
+      "bank_id": "c0f09600",
+      "text": "Vakit daraldığında ve bir görev ya da indirim bitmek üzereyken faytona binmek sizi yürümekten beş kat daha hızlı ulaştırır."
+    },
+    {
+      "id": "24a356eb",
+      "bank_id": "c0f09600",
+      "text": "Tamamlanan Görevler"
+    },
+    {
+      "id": "25ab122e",
+      "bank_id": "c0f09600",
+      "text": "Sarhoş Geçirilen Süre (saniye)"
+    },
+    {
+      "id": "26b8474c",
+      "bank_id": "c0f09600",
+      "text": "En Büyük Kilit Taşı Kazancı"
+    },
+    {
+      "id": "278357f7",
+      "bank_id": "c0f09600",
+      "text": "Görünüm Dükkânı"
+    },
+    {
+      "id": "28878bd1",
+      "bank_id": "c0f09600",
+      "text": "Bulunan Gargoyle"
+    },
+    {
+      "id": "28ab35a8",
+      "bank_id": "c0f09600",
+      "text": "Evlilik Dışı Birliktelik Sayısı"
+    },
+    {
+      "id": "2a535752",
+      "bank_id": "c0f09600",
+      "text": "Kazanılan Deneyim"
+    },
+    {
+      "id": "2acbe565",
+      "bank_id": "c0f09600",
+      "text": "Kazanılan Toplam Para"
+    },
+    {
+      "id": "2c5cd1b8",
+      "bank_id": "c0f09600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "2c7f1dd9",
+      "bank_id": "c0f09600",
+      "text": "Toplam Büyü Hasarı"
+    },
+    {
+      "id": "2d37b332",
+      "bank_id": "c0f09600",
+      "text": "Suç"
+    },
+    {
+      "id": "2db374ec",
+      "bank_id": "c0f09600",
+      "text": "Tamamlanan Suikastlar"
+    },
+    {
+      "id": "31482335",
+      "bank_id": "c0f09600",
+      "text": "İlişkiler"
+    },
+    {
+      "id": "316f8bb3",
+      "bank_id": "c0f09600",
+      "text": "Mevcut Görev"
+    },
+    {
+      "id": "355a5365",
+      "bank_id": "c0f09600",
+      "text": "Yara İzleri"
+    },
+    {
+      "id": "35bdb5ae",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen balverine"
+    },
+    {
+      "id": "36b1c787",
+      "bank_id": "c0f09600",
+      "text": "Ücretli Birliktelik"
+    },
+    {
+      "id": "36e21ba8",
+      "bank_id": "c0f09600",
+      "text": "Yollar bakımsızlıktan harap olduğu veya kapandığı için son birkaç yüzyılda Albion'un güneyine seyahat etmek giderek zorlaşmıştır. Korsanlar deniz yolculuğunu çoğu kişi için aşırı tehlikeli kılar, ancak bulabilene başka yollar da mevcuttur."
+    },
+    {
+      "id": "3a67b2dd",
+      "bank_id": "c0f09600",
+      "text": "Çocuk Sayısı"
+    },
+    {
+      "id": "3c52f73b",
+      "bank_id": "c0f09600",
+      "text": "Liderlik tabloları, daha fazla oyun ve dünyada bulmanız için eşsiz eşyalar bırakan kahraman bir ecdadın hikâyesi için www.fable2.com adresini ziyaret edin!"
+    },
+    {
+      "id": "3d7133f5",
+      "bank_id": "c0f09600",
+      "text": "Silahsızlandırılan Düşman"
+    },
+    {
+      "id": "3df5b098",
+      "bank_id": "c0f09600",
+      "text": "Çekici"
+    },
+    {
+      "id": "3df5b099",
+      "bank_id": "c0f09600",
+      "text": "Büyüleyici"
+    },
+    {
+      "id": "3df5b09d",
+      "bank_id": "c0f09600",
+      "text": "İtici"
+    },
+    {
+      "id": "3df5b09e",
+      "bank_id": "c0f09600",
+      "text": "Çirkin"
+    },
+    {
+      "id": "3df5b09f",
+      "bank_id": "c0f09600",
+      "text": "Ortalama"
+    },
+    {
+      "id": "3e10162e",
+      "bank_id": "c0f09600",
+      "text": "Ne kadar güçlü olursanız Tokat ifadesi de o denli şiddetli olur. Kimi nâdir durumlarda tek bir tokatla bir köylüyü öldürebilirsiniz bile!"
+    },
+    {
+      "id": "3e7b6bc2",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen Kule Askeri"
+    },
+    {
+      "id": "3e9c1d17",
+      "bank_id": "c0f09600",
+      "text": "En Büyük Çarkıfelek Kazancı"
+    },
+    {
+      "id": "3eb1ddc9",
+      "bank_id": "c0f09600",
+      "text": "Üzgün"
+    },
+    {
+      "id": "4171e6d6",
+      "bank_id": "c0f09600",
+      "text": "Günümüz Albion'unda beş yüz yıl önce yaşamış ve kadim bir kahraman soyundan geldiği söylenen Theresa adındaki kâhin hakkında bir şeyler okuduğunu hâlâ hatırlayan birkaç kişi vardır."
+    },
+    {
+      "id": "42130932",
+      "bank_id": "c0f09600",
+      "text": "Kazanılan İrade Puanı"
+    },
+    {
+      "id": "42bf6d84",
+      "bank_id": "c0f09600",
+      "text": "Makyaj"
+    },
+    {
+      "id": "43a6ebaf",
+      "bank_id": "c0f09600",
+      "text": "Meyve ve sebze yemek yalnızca sağlıklı olmakla kalmaz, yemeğinizin hazırlanışında hiçbir hayvana zarar verilmediği için saf bir eylem sayılır."
+    },
+    {
+      "id": "43de07ac",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen Kof Adam"
+    },
+    {
+      "id": "4509023c",
+      "bank_id": "c0f09600",
+      "text": "Işık Tapınağı, Oakfield'deki Pınar Mağarası'nda Altın Meşe'yi keşfettiğinde çetin bir hac yolculuğunda olan Nurlu Albert tarafından kurulmuştur."
+    },
+    {
+      "id": "46fcff40",
+      "bank_id": "c0f09600",
+      "text": "Büyü göstergenizi birinci seviyeye kadar doldurursanız 1. seviyeye atadığınız büyüyü yaparsınız. İkinci seviyeye kadar doldurursanız 2. seviyeye atadığınız büyüyü yaparsınız."
+    },
+    {
+      "id": "4704bd71",
+      "bank_id": "c0f09600",
+      "text": "Daha pahalı Kahraman Unvanları, kriterlerini yerine getirirseniz ücretsiz hale gelebilir. Açıklamalarına bakmak ve bu kriterlerin ne olduğunu öğrenmek için Kasaba Tellalı ile konuşun."
+    },
+    {
+      "id": "4a9d65db",
+      "bank_id": "c0f09600",
+      "text": "Ödenen Suç Cezaları"
+    },
+    {
+      "id": "4d14401b",
+      "bank_id": "c0f09600",
+      "text": "En Yüksek Talih Kulesi Kazancı"
+    },
+    {
+      "id": "4dd980c0",
+      "bank_id": "c0f09600",
+      "text": "En Yüksek Nefret"
+    },
+    {
+      "id": "4ed072b2",
+      "bank_id": "c0f09600",
+      "text": "En Yüksek Kötülük"
+    },
+    {
+      "id": "4f471164",
+      "bank_id": "c0f09600",
+      "text": "Ölü Taklidi Yap"
+    },
+    {
+      "id": "519ca5ef",
+      "bank_id": "c0f09600",
+      "text": "Yanda Yürüme"
+    },
+    {
+      "id": "52c5acd8",
+      "bank_id": "c0f09600",
+      "text": "Kas"
+    },
+    {
+      "id": "5325980a",
+      "bank_id": "c0f09600",
+      "text": "Westcliff Atış Poligonu"
+    },
+    {
+      "id": "5687c5d7",
+      "bank_id": "c0f09600",
+      "text": "Gölge Tarikatı, Skorm Tapınağı'nın dağılmasından kısa süre sonra kurulmuştur. Ters giden bir ayin sırasında üyeleri katledilince harabeye dönmüş ve ancak yakın zamanda Cornelius Grim tarafından yeniden kurulmuştur."
+    },
+    {
+      "id": "578c7a56",
+      "bank_id": "c0f09600",
+      "text": "Evlilik İçi Birliktelik Sayısı"
+    },
+    {
+      "id": "599218cb",
+      "bank_id": "c0f09600",
+      "text": "<y_img>"
+    },
+    {
+      "id": "5fab4001",
+      "bank_id": "c0f09600",
+      "text": "Karşı Hamleler"
+    },
+    {
+      "id": "5fffc737",
+      "bank_id": "c0f09600",
+      "text": "Bölgeden Kovulma Sayısı"
+    },
+    {
+      "id": "641d83d4",
+      "bank_id": "c0f09600",
+      "text": "Ters Takla"
+    },
+    {
+      "id": "643dcd14",
+      "bank_id": "c0f09600",
+      "text": "Diriliş Şişeleri"
+    },
+    {
+      "id": "665e772d",
+      "bank_id": "c0f09600",
+      "text": "Tüccar"
+    },
+    {
+      "id": "66c6602b",
+      "bank_id": "c0f09600",
+      "text": "Emlak Altını"
+    },
+    {
+      "id": "6736c382",
+      "bank_id": "c0f09600",
+      "text": "Çekicilik"
+    },
+    {
+      "id": "6a34bc70",
+      "bank_id": "c0f09600",
+      "text": "Sandıkları ve fıçıları parçalamak gayet eğlenceli olabilir, ancak birinin onların içine değerli bir şey saklayacağını ciddi ciddi düşünmüyorsunuzdur herhalde?"
+    },
+    {
+      "id": "6bbf3f57",
+      "bank_id": "c0f09600",
+      "text": "Toplam Ün"
+    },
+    {
+      "id": "6c38492e",
+      "bank_id": "c0f09600",
+      "text": "Kazanılan Böbürlenme"
+    },
+    {
+      "id": "6d974838",
+      "bank_id": "c0f09600",
+      "text": "Bir çıkıntıda A düğmesi görünmüyorsa, diğer tarafta güvenle inecek bir yer yok demektir."
+    },
+    {
+      "id": "6dfcb25b",
+      "bank_id": "c0f09600",
+      "text": "Korkmuş"
+    },
+    {
+      "id": "6e3699b5",
+      "bank_id": "c0f09600",
+      "text": "Burun Sakla"
+    },
+    {
+      "id": "7061851a",
+      "bank_id": "c0f09600",
+      "text": "Şimdilerde Wraithmarsh olarak anılan meşum bölge, vaktiyle cennet gibi bir köyün kurulduğu yerdi."
+    },
+    {
+      "id": "708ab7e8",
+      "bank_id": "c0f09600",
+      "text": "Başarımlar"
+    },
+    {
+      "id": "71e1a171",
+      "bank_id": "c0f09600",
+      "text": "Ün"
+    },
+    {
+      "id": "723b6bfc",
+      "bank_id": "c0f09600",
+      "text": "Talih Kulesi Altını"
+    },
+    {
+      "id": "744d099f",
+      "bank_id": "c0f09600",
+      "text": "Öncülük"
+    },
+    {
+      "id": "74869a1c",
+      "bank_id": "c0f09600",
+      "text": "Yok Edilen Kıymık"
+    },
+    {
+      "id": "758b22e1",
+      "bank_id": "c0f09600",
+      "text": "Kurban Edilen Kişi"
+    },
+    {
+      "id": "75fe9479",
+      "bank_id": "c0f09600",
+      "text": "Tavşan Sıçrayışı"
+    },
+    {
+      "id": "769c3d67",
+      "bank_id": "c0f09600",
+      "text": "Demircilik Altını"
+    },
+    {
+      "id": "78371c29",
+      "bank_id": "c0f09600",
+      "text": "Sergilenen İfade Sayısı"
+    },
+    {
+      "id": "784c478b",
+      "bank_id": "c0f09600",
+      "text": "Mizaç"
+    },
+    {
+      "id": "7a8a4525",
+      "bank_id": "c0f09600",
+      "text": "Kurtarılan Köle"
+    },
+    {
+      "id": "7b741e4b",
+      "bank_id": "c0f09600",
+      "text": "Kendinize ait bir evde uyumak size çok çeşitli bonuslar kazandırabilir."
+    },
+    {
+      "id": "7dce4665",
+      "bank_id": "c0f09600",
+      "text": "Yardım"
+    },
+    {
+      "id": "7eb28bde",
+      "bank_id": "c0f09600",
+      "text": "Mevcut Görev Çıkışı"
+    },
+    {
+      "id": "7eb6d4cc",
+      "bank_id": "c0f09600",
+      "text": "Yürünen Mesafe (mil)"
+    },
+    {
+      "id": "818aab66",
+      "bank_id": "c0f09600",
+      "text": "Açıklama"
+    },
+    {
+      "id": "82c323f2",
+      "bank_id": "c0f09600",
+      "text": "Dilen"
+    },
+    {
+      "id": "837f8332",
+      "bank_id": "c0f09600",
+      "text": "Toplanan Ödül Avları"
+    },
+    {
+      "id": "83b1c007",
+      "bank_id": "c0f09600",
+      "text": "Hedefe İdrar Yapma"
+    },
+    {
+      "id": "83f9bebf",
+      "bank_id": "c0f09600",
+      "text": "Sonuç:"
+    },
+    {
+      "id": "889e3508",
+      "bank_id": "c0f09600",
+      "text": "Kazanılan En Yüksek Neşe"
+    },
+    {
+      "id": "8a0024fe",
+      "bank_id": "c0f09600",
+      "text": "Öfkeli"
+    },
+    {
+      "id": "8a2d8712",
+      "bank_id": "c0f09600",
+      "text": "Toplam Öldürme"
+    },
+    {
+      "id": "8a5adb82",
+      "bank_id": "c0f09600",
+      "text": "En Yüksek Kupa Ünü"
+    },
+    {
+      "id": "8a7dcd98",
+      "bank_id": "c0f09600",
+      "text": "Kişilik"
+    },
+    {
+      "id": "8ad74c35",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen Muhafız"
+    },
+    {
+      "id": "8d132a14",
+      "bank_id": "c0f09600",
+      "text": "Çarkıfelek Kutusu Altını"
+    },
+    {
+      "id": "8f84cf8f",
+      "bank_id": "c0f09600",
+      "text": "Dul Kalma Sayısı"
+    },
+    {
+      "id": "8fdb82ff",
+      "bank_id": "c0f09600",
+      "text": "Çocuklarınıza zaman zaman bir oyuncak alırsanız sizi çok daha fazla seveceklerdir."
+    },
+    {
+      "id": "9168c4c7",
+      "bank_id": "c0f09600",
+      "text": "Oynanan Süre (saniye)"
+    },
+    {
+      "id": "926ec877",
+      "bank_id": "c0f09600",
+      "text": "Hazine Avcılığı"
+    },
+    {
+      "id": "934d1648",
+      "bank_id": "c0f09600",
+      "text": "Liman kasabası Bloodstone'un kökeni, sonradan Haydut Kralı olan Kahraman İkizbıçak'ın kurduğu kampa dayanır."
+    },
+    {
+      "id": "937db920",
+      "bank_id": "c0f09600",
+      "text": "Depar atmak için koşarken A düğmesini basılı tutun."
+    },
+    {
+      "id": "942613b3",
+      "bank_id": "c0f09600",
+      "text": "Kamu Hizmeti Cezaları"
+    },
+    {
+      "id": "9505d93a",
+      "bank_id": "c0f09600",
+      "text": "Çeşitli Eşya Dükkânı"
+    },
+    {
+      "id": "96af1c52",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen Köylü"
+    },
+    {
+      "id": "986e617b",
+      "bank_id": "c0f09600",
+      "text": "Sürgün Altını"
+    },
+    {
+      "id": "99cb1680",
+      "bank_id": "c0f09600",
+      "text": "Gezgin Tüccar"
+    },
+    {
+      "id": "9b1876c8",
+      "bank_id": "c0f09600",
+      "text": "Trollere yalnızca açığa çıktıklarında sinir duyargaları yok edilerek zarar verilebilir. Bunlar gizlendiğinde, bir sonraki ateş fırsatı doğana kadar kaçınma manevrası yapın."
+    },
+    {
+      "id": "9b9da13b",
+      "bank_id": "c0f09600",
+      "text": "Lavta Çalma Altını"
+    },
+    {
+      "id": "9dc135f1",
+      "bank_id": "c0f09600",
+      "text": "Çingene taş yontucuları, Albion'da efsun taşlarının barındırdığı büyüleri işlemenin kadim yollarından anlayan geriye kalmış tek kişilerdir."
+    },
+    {
+      "id": "9f18859e",
+      "bank_id": "c0f09600",
+      "text": "Diğer"
+    },
+    {
+      "id": "a0b90b61",
+      "bank_id": "c0f09600",
+      "text": "Becerinizi geliştirmek büyüme bezlerinizi harekete geçirir. Becerinizi ne kadar artırırsanız boyunuz da o kadar uzar."
+    },
+    {
+      "id": "a14d384f",
+      "bank_id": "c0f09600",
+      "text": "Canınız trol avlamak istiyorsa kasaba muhafızlarının verdiği yüksek seviyeli Ödül Avcısı işlerini kollayın."
+    },
+    {
+      "id": "a1cd81cd",
+      "bank_id": "c0f09600",
+      "text": "İstatistikler"
+    },
+    {
+      "id": "a2775f64",
+      "bank_id": "c0f09600",
+      "text": "Kesilen Suç Cezaları"
+    },
+    {
+      "id": "a5867318",
+      "bank_id": "c0f09600",
+      "text": "Sürgün Edilen Siviller"
+    },
+    {
+      "id": "a66bbae9",
+      "bank_id": "c0f09600",
+      "text": "Ses"
+    },
+    {
+      "id": "a6e774cf",
+      "bank_id": "c0f09600",
+      "text": "Alarm"
+    },
+    {
+      "id": "a9e01946",
+      "bank_id": "c0f09600",
+      "text": "En Yüksek Korku"
+    },
+    {
+      "id": "aa9c78f5",
+      "bank_id": "c0f09600",
+      "text": "Tapınak Bağışları"
+    },
+    {
+      "id": "ac29abbf",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen trol"
+    },
+    {
+      "id": "b35af281",
+      "bank_id": "c0f09600",
+      "text": "Eşinizi yeterince mutlu tutarsanız minnettarlık göstergesi olarak bir hediye alabilirsiniz."
+    },
+    {
+      "id": "b4fd0e27",
+      "bank_id": "c0f09600",
+      "text": "Kazanılan Beceri Puanı"
+    },
+    {
+      "id": "b5e1f961",
+      "bank_id": "c0f09600",
+      "text": "Zaman Kontrolü büyüsünün son derece benzersiz iki kullanımı vardır: Hedef almadan yaparak etrafınızdaki herkesi yavaşlatın. Bir hedefi seçerek yaparsanız düşmanların içinden hızla geçip onlara doğrudan hasar verirsiniz.  "
+    },
+    {
+      "id": "b604e781",
+      "bank_id": "c0f09600",
+      "text": "Giysi"
+    },
+    {
+      "id": "b6a72529",
+      "bank_id": "c0f09600",
+      "text": "Albion genelinde pek çok gömülü hazine vardır. Hepsini bulmak istiyorsanız köpeğinizi daha iyi bir iz sürücü olması için eğitmeniz gerekir. Köpek eğitimi kitaplarını Bowerstone Pazarı Kitabevi'nde bulabilirsiniz."
+    },
+    {
+      "id": "b6e01d1c",
+      "bank_id": "c0f09600",
+      "text": "Çatışmanın ortasında büyülerinizi yeniden düzenlemeye çalışmak fazla stresliyse, oyunu her zaman duraklatabilir ve Yetenekler ekranından değiştirebilirsiniz."
+    },
+    {
+      "id": "b7454411",
+      "bank_id": "c0f09600",
+      "text": "Tekmelenen Tavuk Sayısı"
+    },
+    {
+      "id": "b8a14ba7",
+      "bank_id": "c0f09600",
+      "text": "Kilit Taşı Altını"
+    },
+    {
+      "id": "b9da3e6c",
+      "bank_id": "c0f09600",
+      "text": "Ödül Eşyaları"
+    },
+    {
+      "id": "bac59050",
+      "bank_id": "c0f09600",
+      "text": "Gösterişli Vuruşlar"
+    },
+    {
+      "id": "bb3f9dad",
+      "bank_id": "c0f09600",
+      "text": "Kahraman"
+    },
+    {
+      "id": "bc12c802",
+      "bank_id": "c0f09600",
+      "text": "Bir silahın kalitesi ne kadar temel hasar verdiğini belirler. Gelişmişlik sırası Paslı, Demir, Çelik ve Usta İşi şeklindedir.  "
+    },
+    {
+      "id": "bc5321f5",
+      "bank_id": "c0f09600",
+      "text": "Dövüş Çarpanı"
+    },
+    {
+      "id": "bd1014c1",
+      "bank_id": "c0f09600",
+      "text": "Numaralar"
+    },
+    {
+      "id": "bfaf691c",
+      "bank_id": "c0f09600",
+      "text": "Bölge Çıkışı"
+    },
+    {
+      "id": "bfb92e7b",
+      "bank_id": "c0f09600",
+      "text": "Ulaşılan En Yüksek İyilik"
+    },
+    {
+      "id": "bfebd91b",
+      "bank_id": "c0f09600",
+      "text": "Hırla"
+    },
+    {
+      "id": "c0cad261",
+      "bank_id": "c0f09600",
+      "text": "Bir Kahraman çoğu insanın kemiklerini kıracak düşüşlerden sağ çıkabilir."
+    },
+    {
+      "id": "c110e75d",
+      "bank_id": "c0f09600",
+      "text": "İfadeler"
+    },
+    {
+      "id": "c13fbbaa",
+      "bank_id": "c0f09600",
+      "text": "Kelle Uçurmalar"
+    },
+    {
+      "id": "c49344d1",
+      "bank_id": "c0f09600",
+      "text": "Saç"
+    },
+    {
+      "id": "c4e5f19e",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen Haydut"
+    },
+    {
+      "id": "c7a9e76d",
+      "bank_id": "c0f09600",
+      "text": "Sakal"
+    },
+    {
+      "id": "c7e3d020",
+      "bank_id": "c0f09600",
+      "text": "Yeni bir Kahraman unvanı satın almak için bir kasaba tellalıyla konuşun. Her tellalda başka hiçbir yerde bulamayacağınız en az bir benzersiz unvan vardır."
+    },
+    {
+      "id": "c9e22f4c",
+      "bank_id": "c0f09600",
+      "text": "Kuyruk Kovala"
+    },
+    {
+      "id": "ca648534",
+      "bank_id": "c0f09600",
+      "text": "Ortak Saldırılar"
+    },
+    {
+      "id": "cceec023",
+      "bank_id": "c0f09600",
+      "text": "Size Âşık Olan Kişiler"
+    },
+    {
+      "id": "ce87e8d2",
+      "bank_id": "c0f09600",
+      "text": "Görev Veren"
+    },
+    {
+      "id": "d0e5b32c",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen Yolkesen"
+    },
+    {
+      "id": "d1e14ce2",
+      "bank_id": "c0f09600",
+      "text": "Köpek"
+    },
+    {
+      "id": "d2e5b000",
+      "bank_id": "c0f09600",
+      "text": "Ödül Avı Altını"
+    },
+    {
+      "id": "d4abec81",
+      "bank_id": "c0f09600",
+      "text": "Dövmeler"
+    },
+    {
+      "id": "d5daaf3c",
+      "bank_id": "c0f09600",
+      "text": "En Yüksek Sevgi"
+    },
+    {
+      "id": "d855f2f9",
+      "bank_id": "c0f09600",
+      "text": "Oyunlar"
+    },
+    {
+      "id": "d946e661",
+      "bank_id": "c0f09600",
+      "text": "Büyü göstergesi dolarken hedefli bir büyüye geçerseniz, dolum hangi seviyedeyse o büyüyü yaparsınız. Büyü göstergesi hangi büyünün seçildiğini belirtmek için dolmayı durduracaktır."
+    },
+    {
+      "id": "dcdd33dc",
+      "bank_id": "c0f09600",
+      "text": "Her İkisi"
+    },
+    {
+      "id": "df4b9823",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen Böcek"
+    },
+    {
+      "id": "dfcdba34",
+      "bank_id": "c0f09600",
+      "text": "Ortaklık Bonusları"
+    },
+    {
+      "id": "dfefdb64",
+      "bank_id": "c0f09600",
+      "text": "Alınan Hasar"
+    },
+    {
+      "id": "e29ad4d5",
+      "bank_id": "c0f09600",
+      "text": "Yerel dükkânlarda bolca altın harcayarak, işe girerek ve binaların kalitesini artırarak bir kasabanın ekonomisini olumlu yönde etkileyebilirsiniz. Suç furyaları ise tam tersi bir etki yaratacaktır."
+    },
+    {
+      "id": "e2b05a3a",
+      "bank_id": "c0f09600",
+      "text": "Kazanılan Genel Deneyim"
+    },
+    {
+      "id": "e30e2282",
+      "bank_id": "c0f09600",
+      "text": "5.1 Çevresel Ses"
+    },
+    {
+      "id": "e6e63caf",
+      "bank_id": "c0f09600",
+      "text": "Köpeğinizin bulabileceği gömülü hazineleri kazıp çıkarmak için bir küreğe ihtiyacınız olacaktır."
+    },
+    {
+      "id": "e90614fd",
+      "bank_id": "c0f09600",
+      "text": "<x_img>"
+    },
+    {
+      "id": "e9574b03",
+      "bank_id": "c0f09600",
+      "text": "Ulaşılan En Yüksek Yozlaşma"
+    },
+    {
+      "id": "e9dda57e",
+      "bank_id": "c0f09600",
+      "text": "Ulaşılan En Yüksek Saflık"
+    },
+    {
+      "id": "ea9e26f8",
+      "bank_id": "c0f09600",
+      "text": "Gayrimenkul Serveti"
+    },
+    {
+      "id": "eb2c8661",
+      "bank_id": "c0f09600",
+      "text": "Çirkin"
+    },
+    {
+      "id": "eb544b4c",
+      "bank_id": "c0f09600",
+      "text": "Silah Dükkânı"
+    },
+    {
+      "id": "edd85902",
+      "bank_id": "c0f09600",
+      "text": "Normal"
+    },
+    {
+      "id": "ef367287",
+      "bank_id": "c0f09600",
+      "text": "Kazanılan Güç Puanı"
+    },
+    {
+      "id": "efa16676",
+      "bank_id": "c0f09600",
+      "text": "Tüketilen Yiyecek ve İçecek"
+    },
+    {
+      "id": "efc00a9e",
+      "bank_id": "c0f09600",
+      "text": "Hoparlörler"
+    },
+    {
+      "id": "f05d6bf8",
+      "bank_id": "c0f09600",
+      "text": "Öldürülen Gölge"
+    },
+    {
+      "id": "f0ee137f",
+      "bank_id": "c0f09600",
+      "text": "Yuvarlan"
+    },
+    {
+      "id": "f101bf52",
+      "bank_id": "c0f09600",
+      "text": "Mevcut Toplam Para"
+    },
+    {
+      "id": "f1a8d878",
+      "bank_id": "c0f09600",
+      "text": "Daha ünlü olmak yeni ifadeleri erişilebilir kılacaktır ve bazıları yalnızca yeterince iyi ya da kötü olduğunuzda açılacaktır."
+    },
+    {
+      "id": "f1bf68ba",
+      "bank_id": "c0f09600",
+      "text": "Kasık Vuruşları"
+    },
+    {
+      "id": "f1fc039d",
+      "bank_id": "c0f09600",
+      "text": "İşlenen Suç Sayısı"
+    },
+    {
+      "id": "f20ddc2e",
+      "bank_id": "c0f09600",
+      "text": "TV"
+    },
+    {
+      "id": "f210fc26",
+      "bank_id": "c0f09600",
+      "text": "Mevcut Durum"
+    },
+    {
+      "id": "f318d322",
+      "bank_id": "c0f09600",
+      "text": "Tüketilen Toplam Alkol"
+    },
+    {
+      "id": "f3456909",
+      "bank_id": "c0f09600",
+      "text": "Görev"
+    },
+    {
+      "id": "f3675a6e",
+      "bank_id": "c0f09600",
+      "text": "Hikâye Özeti..."
+    },
+    {
+      "id": "f488b085",
+      "bank_id": "c0f09600",
+      "text": "Kahramanınızın istatistiklerini Seyir Defteri ekranından görebilirsiniz."
+    },
+    {
+      "id": "f77aaccf",
+      "bank_id": "c0f09600",
+      "text": "Alınan Darbeler"
+    },
+    {
+      "id": "f7d6a8c7",
+      "bank_id": "c0f09600",
+      "text": "Barmenlik Altını"
+    },
+    {
+      "id": "faf1fae6",
+      "bank_id": "c0f09600",
+      "text": "Bıyık"
+    },
+    {
+      "id": "fc41f59d",
+      "bank_id": "c0f09600",
+      "text": "Ün Puanı"
+    },
+    {
+      "id": "fd1955a5",
+      "bank_id": "c0f09600",
+      "text": "Ev Bonusu"
+    },
+    {
+      "id": "fd381b29",
+      "bank_id": "c0f09600",
+      "text": "Dövüş"
+    },
+    {
+      "id": "fd580365",
+      "bank_id": "c0f09600",
+      "text": "Suikast Altını"
+    },
+    {
+      "id": "fd61c90a",
+      "bank_id": "c0f09600",
+      "text": "Bir kasabanın ortasında silahınızı çekmek vatandaşlar arasında büyük bir paniğe yol açabilir. Özellikle de emniyet modu kapalıyken savurursanız; onlara yardım etmek için kullansanız bile!"
+    },
+    {
+      "id": "fe4ad8e6",
+      "bank_id": "c0f09600",
+      "text": "Şişmanlık"
+    },
+    {
+      "id": "fe9bbc68",
+      "bank_id": "c0f09600",
+      "text": "Tüketilen Toplam İksir"
+    },
+    {
+      "id": "ff4a4621",
+      "bank_id": "c0f09600",
+      "text": "Köpek"
+    },
+    {
+      "id": "ffccbfa9",
+      "bank_id": "c0f09600",
+      "text": "Nakavt Edilme Sayısı"
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "bank_id": "f0512802",
+  "total_strings": 142,
+  "strings": [
+    {
+      "id": "2b491591",
+      "bank_id": "f0512802",
+      "text": "Bütün sebzelerini yemek zorundasın, yoksa baban gibi maceralara atılamazsın."
+    },
+    {
+      "id": "2b491592",
+      "bank_id": "f0512802",
+      "text": "Baban gibi güçlü olmak istiyorsan akşam yemeğinde bütün yeşilliklerini yemen gerektiğini biliyorsun."
+    },
+    {
+      "id": "2b491593",
+      "bank_id": "f0512802",
+      "text": "Merak etme tatlım, haftaya pikniğe gideriz."
+    },
+    {
+      "id": "2b491594",
+      "bank_id": "f0512802",
+      "text": "Yine bir elbiseni yırtmadın, değil mi?"
+    },
+    {
+      "id": "2b491595",
+      "bank_id": "f0512802",
+      "text": "Sana yeni bir etek mi almam gerekiyor yine?"
+    },
+    {
+      "id": "364926c0",
+      "bank_id": "f0512802",
+      "text": "Annen gibi güçlü olmak istiyorsan akşam yemeğinde bütün yeşilliklerini yemen gerektiğini biliyorsun."
+    },
+    {
+      "id": "364926c2",
+      "bank_id": "f0512802",
+      "text": "Bu gece Kaçık Maymun Eric'ten bir bölüm daha okuyabiliriz, tamam mı tatlım?"
+    },
+    {
+      "id": "364926c3",
+      "bank_id": "f0512802",
+      "text": "Annen gibi güçlü olmak istiyorsan akşam yemeğinde bütün yeşilliklerini yemen gerektiğini biliyorsun."
+    },
+    {
+      "id": "364926c4",
+      "bank_id": "f0512802",
+      "text": "Annenin bütün yeşilliklerini yemeni istediğini biliyorsun. Sevip sevmemen önemli değil."
+    },
+    {
+      "id": "364926c5",
+      "bank_id": "f0512802",
+      "text": "Benim tatlı balkabağım kimmiş bakalım? Aslında akşam yemeğinde turta var. Annen öyle diyor yani."
+    },
+    {
+      "id": "3c9c85c1",
+      "bank_id": "f0512802",
+      "text": "Sana güzel yeni bir elbise lazım."
+    },
+    {
+      "id": "3c9c85c2",
+      "bank_id": "f0512802",
+      "text": "Sana cici bir elbise almamız gerek. Özel günler için!"
+    },
+    {
+      "id": "3c9c85c3",
+      "bank_id": "f0512802",
+      "text": "Ben senin yaşındayken kızlar ortalıkta oğlanlarla koşturup oynamazdı. Ama annen olur dediğine göre ne yapabilirim ki?"
+    },
+    {
+      "id": "3c9c85c4",
+      "bank_id": "f0512802",
+      "text": "Keşke sana cici bir elbise alabilseydim ama zamanlar zor."
+    },
+    {
+      "id": "3c9c85c5",
+      "bank_id": "f0512802",
+      "text": "Dediğim gibi evdeki bulaşıkları yıkadın mı bakalım?"
+    },
+    {
+      "id": "479c9770",
+      "bank_id": "f0512802",
+      "text": "Doğum günün için ne renk bir elbise istersin?"
+    },
+    {
+      "id": "479c9772",
+      "bank_id": "f0512802",
+      "text": "O çocuklarla oynamanı istemiyorum. Seni kötü etkiliyorlar."
+    },
+    {
+      "id": "479c9773",
+      "bank_id": "f0512802",
+      "text": "Sana cici bir elbise almamız gerek. Özel günler için!"
+    },
+    {
+      "id": "479c9774",
+      "bank_id": "f0512802",
+      "text": "Hızlı büyüyorsun, değil mi tatlım?"
+    },
+    {
+      "id": "479c9775",
+      "bank_id": "f0512802",
+      "text": "Dişlerini fırçalamayı unutma sakın kızım. Yoksa benim gibi yarısı dökülür kalır."
+    },
+    {
+      "id": "58fe8e1a",
+      "bank_id": "f0512802",
+      "text": "Saçında mavi bir fiyonkla nasıl görünürdün acaba."
+    },
+    {
+      "id": "58fe8e1b",
+      "bank_id": "f0512802",
+      "text": "Bu kıyafetler sana dar gelip duruyor, değil mi?"
+    },
+    {
+      "id": "58fe8e1c",
+      "bank_id": "f0512802",
+      "text": "Büyüyünce küpe takabilirsin."
+    },
+    {
+      "id": "58fe8e1d",
+      "bank_id": "f0512802",
+      "text": "Kıyafetlerin yine küçülmüyor, değil mi?"
+    },
+    {
+      "id": "58fe8e1e",
+      "bank_id": "f0512802",
+      "text": "Yakında seni kıyafet alışverişine götüreceğim. Tamam mı tatlım?"
+    },
+    {
+      "id": "61fe9c68",
+      "bank_id": "f0512802",
+      "text": "Kıyafetlerin yine küçülmüyor, değil mi?"
+    },
+    {
+      "id": "61fe9c69",
+      "bank_id": "f0512802",
+      "text": "Seni bir daha anarşi bildirileri okurken yakalamayayım canım."
+    },
+    {
+      "id": "61fe9c6b",
+      "bank_id": "f0512802",
+      "text": "Kıyafetlerin yine küçülmüyor, değil mi?"
+    },
+    {
+      "id": "61fe9c6e",
+      "bank_id": "f0512802",
+      "text": "Unutma, yakında doğum günün ama uslu bir kız olmazsan hiç hediye alamazsın."
+    },
+    {
+      "id": "61fe9c6f",
+      "bank_id": "f0512802",
+      "text": "Annenin seni yakında kıyafet alışverişine götürmesi gerekecek. Ben uğraşamam."
+    },
+    {
+      "id": "636d4511",
+      "bank_id": "f0512802",
+      "text": "Bugünkü bütün ödevlerini bitirdin mi?"
+    },
+    {
+      "id": "636d4512",
+      "bank_id": "f0512802",
+      "text": "İstediğim gibi bütün oyuncaklarını topladın mı?"
+    },
+    {
+      "id": "636d4513",
+      "bank_id": "f0512802",
+      "text": "O şortu bir daha giyemezsin! Çamaşıra at onu!"
+    },
+    {
+      "id": "636d4514",
+      "bank_id": "f0512802",
+      "text": "Odasını temizlemiş birine hiç benzemiyorsun."
+    },
+    {
+      "id": "636d4515",
+      "bank_id": "f0512802",
+      "text": "Tıpkı babana çekmişsin sen de. Hıh!"
+    },
+    {
+      "id": "636d4516",
+      "bank_id": "f0512802",
+      "text": "Ne oldu canım? Yeni soytarıdan da mı sıkıldın yoksa?"
+    },
+    {
+      "id": "636d4517",
+      "bank_id": "f0512802",
+      "text": "Keşke verebilseydim küçük prensim ama çocukların silahı olmamalı. İnanmıyorsan babana sor."
+    },
+    {
+      "id": "6e6d5640",
+      "bank_id": "f0512802",
+      "text": "O odan toplu olsa iyi edersin."
+    },
+    {
+      "id": "6e6d5642",
+      "bank_id": "f0512802",
+      "text": "Şu dizlerindeki sıyrıklara bir bak. Tıpkı senin yaşındayken benim dizlerim gibi."
+    },
+    {
+      "id": "6e6d5643",
+      "bank_id": "f0512802",
+      "text": "Burnunu karıştırmayı bırak oğlum. Orada kırık hayallerden başka hiçbir şey bulamazsın..."
+    },
+    {
+      "id": "6e6d5644",
+      "bank_id": "f0512802",
+      "text": "Bana ukalalık yapma çocuk."
+    },
+    {
+      "id": "6e6d5645",
+      "bank_id": "f0512802",
+      "text": "İddiasına girerim küçük bir haydutsun sen, değil mi! Tıpkı benim zamanında olduğum gibi."
+    },
+    {
+      "id": "6e6d5646",
+      "bank_id": "f0512802",
+      "text": "Çabuk söyle oğlum, 'meraklı' kelimesi için bana üç eş anlamlı kelime ver. Yoksa okulda size hiçbir şey öğretmiyorlar mı?"
+    },
+    {
+      "id": "6e6d5647",
+      "bank_id": "f0512802",
+      "text": "Korkarım bu söz konusu bile olamaz oğlum. Kendine ait bir trolün olamaz ve bu konu burada kapandı."
+    },
+    {
+      "id": "71e0a9aa",
+      "bank_id": "f0512802",
+      "text": "O odan kendi kendini toplamayacak."
+    },
+    {
+      "id": "71e0a9ab",
+      "bank_id": "f0512802",
+      "text": "O odanı toplamış olsan iyi edersin."
+    },
+    {
+      "id": "71e0a9ac",
+      "bank_id": "f0512802",
+      "text": "Bugün uslu bir kız oldun mu bakalım? Belki akşam yemeğinden sonra güzel bir tatlı alırsın."
+    },
+    {
+      "id": "71e0a9ad",
+      "bank_id": "f0512802",
+      "text": "İstediğim gibi odanı topladın mı?"
+    },
+    {
+      "id": "71e0a9ae",
+      "bank_id": "f0512802",
+      "text": "Umarım odanı toplamayı bitirmişsindir."
+    },
+    {
+      "id": "7ae0b7f8",
+      "bank_id": "f0512802",
+      "text": "İstediğim gibi odanı topladın mı?"
+    },
+    {
+      "id": "7ae0b7f9",
+      "bank_id": "f0512802",
+      "text": "Umarım o odan derli topludur küçük hanım."
+    },
+    {
+      "id": "7ae0b7fb",
+      "bank_id": "f0512802",
+      "text": "İstediğim gibi odanı topladın mı?"
+    },
+    {
+      "id": "7ae0b7fe",
+      "bank_id": "f0512802",
+      "text": "Neden artık ip atladığını görmüyorum hiç?"
+    },
+    {
+      "id": "7ae0b7ff",
+      "bank_id": "f0512802",
+      "text": "Bugün ne heyecanlı maceralara atıldın bakalım tatlım?"
+    },
+    {
+      "id": "7b2a0a70",
+      "bank_id": "f0512802",
+      "text": "Nasılsın bakalım güzel kızım?"
+    },
+    {
+      "id": "7b2a0a71",
+      "bank_id": "f0512802",
+      "text": "Ah, gözümün nuru."
+    },
+    {
+      "id": "7b2a0a72",
+      "bank_id": "f0512802",
+      "text": "Gel buraya bakayım kızım."
+    },
+    {
+      "id": "7b2a0a73",
+      "bank_id": "f0512802",
+      "text": "Yine oğlanlarla oynamadın inşallah!"
+    },
+    {
+      "id": "7b2a0a74",
+      "bank_id": "f0512802",
+      "text": "Ne oldu tatlım?"
+    },
+    {
+      "id": "7b2a0a75",
+      "bank_id": "f0512802",
+      "text": "Neyin var canım?"
+    },
+    {
+      "id": "7b2a0a77",
+      "bank_id": "f0512802",
+      "text": "Merhaba tatlım."
+    },
+    {
+      "id": "822a1578",
+      "bank_id": "f0512802",
+      "text": "Neyin var canım?"
+    },
+    {
+      "id": "822a1579",
+      "bank_id": "f0512802",
+      "text": "Ne yapıyorsun bakalım yavrum?"
+    },
+    {
+      "id": "822a157a",
+      "bank_id": "f0512802",
+      "text": "Merhaba tatlım."
+    },
+    {
+      "id": "822a157c",
+      "bank_id": "f0512802",
+      "text": "Ah, gözümün nuru."
+    },
+    {
+      "id": "822a157d",
+      "bank_id": "f0512802",
+      "text": "Nasılsın bakalım güzel kızım?"
+    },
+    {
+      "id": "822a157e",
+      "bank_id": "f0512802",
+      "text": "Yine oğlanlarla oynadın, değil mi?"
+    },
+    {
+      "id": "822a157f",
+      "bank_id": "f0512802",
+      "text": "Gel buraya bakayım kızım."
+    },
+    {
+      "id": "82851991",
+      "bank_id": "f0512802",
+      "text": "Öyle tatlı bir şeysin ki sen."
+    },
+    {
+      "id": "82851992",
+      "bank_id": "f0512802",
+      "text": "Çikolatayı sevdiğini biliyorum ama şimdi yiyemezsin."
+    },
+    {
+      "id": "82851993",
+      "bank_id": "f0512802",
+      "text": "Unutma, bu gece seni tecrübe ile çıkarım arasındaki fark konusunda sınayacağım."
+    },
+    {
+      "id": "82851994",
+      "bank_id": "f0512802",
+      "text": "Eğitim alman şart, ihtiyar babana benzeme sakın."
+    },
+    {
+      "id": "82851995",
+      "bank_id": "f0512802",
+      "text": "Benim kızım sokakta bir tür hayvan gibi koşturup duramaz."
+    },
+    {
+      "id": "8c4d88a8",
+      "bank_id": "f0512802",
+      "text": "İstersen yeni bir bebek için para biriktirebilirsin sanırım."
+    },
+    {
+      "id": "8c4d88ac",
+      "bank_id": "f0512802",
+      "text": "Kendine ait bir hizmetçin olsun istemediğine emin misin benim kusursuz kızım?"
+    },
+    {
+      "id": "8c4d88ad",
+      "bank_id": "f0512802",
+      "text": "Yok daha neler, benim kızım köylü çocuklarıyla oynayamaz!"
+    },
+    {
+      "id": "8c4d88ae",
+      "bank_id": "f0512802",
+      "text": "Bir banyo daha yapmak istiyorum da ne demek? Daha üç ay önce yıkandın ya!"
+    },
+    {
+      "id": "8c4d88af",
+      "bank_id": "f0512802",
+      "text": "Şimdiden okuyup yazabiliyor musun?! Bazen benim çocuğum olduğuna inanamıyorum..."
+    },
+    {
+      "id": "8d852ac0",
+      "bank_id": "f0512802",
+      "text": "Bence bir haftalık çikolata kotanı doldurdun."
+    },
+    {
+      "id": "8d852ac2",
+      "bank_id": "f0512802",
+      "text": "Bana dil çıkarma sakın küçük hanım."
+    },
+    {
+      "id": "8d852ac3",
+      "bank_id": "f0512802",
+      "text": "Çikolatayı sevdiğini biliyorum ama şimdi yiyemezsin."
+    },
+    {
+      "id": "8d852ac4",
+      "bank_id": "f0512802",
+      "text": "Bana laf yetiştirme. Ukalalıktan hoşlanmadığımı biliyorsun."
+    },
+    {
+      "id": "8d852ac5",
+      "bank_id": "f0512802",
+      "text": "Ev işlerini bitirene kadar oyun oynamak yok."
+    },
+    {
+      "id": "8e0b263a",
+      "bank_id": "f0512802",
+      "text": "Sabahları o kadar gürültü yapma kızım. Babanın genelde başı ağrır."
+    },
+    {
+      "id": "8e0b263b",
+      "bank_id": "f0512802",
+      "text": "Artık annen çalıştığına göre ev işlerine yardım etmek zorundasın."
+    },
+    {
+      "id": "8e0b263c",
+      "bank_id": "f0512802",
+      "text": "Göz açıp kapayıncaya kadar bu kıyafetler sana dar gelecek."
+    },
+    {
+      "id": "8e0b263d",
+      "bank_id": "f0512802",
+      "text": "Dürüst olmak gerekirse son zamanlarda neredeyse hiç boy atmadın. Kabahat annende."
+    },
+    {
+      "id": "8e0b263e",
+      "bank_id": "f0512802",
+      "text": "Dürüst olmak gerekirse son zamanlarda neredeyse hiç boy atmadın. Kabahat annende."
+    },
+    {
+      "id": "970b3408",
+      "bank_id": "f0512802",
+      "text": "Dürüst olmak gerekirse son zamanlarda neredeyse hiç boy atmadın. Kabahat babanda."
+    },
+    {
+      "id": "970b3409",
+      "bank_id": "f0512802",
+      "text": "Biliyorsun ya, yakında ev işlerinde bana yardım etmen gerekecek."
+    },
+    {
+      "id": "970b340b",
+      "bank_id": "f0512802",
+      "text": "Keşke hâlâ senin yaşında olsaydım. Anne olmak hiç kolay değil biliyorsun."
+    },
+    {
+      "id": "970b340e",
+      "bank_id": "f0512802",
+      "text": "Annesinin küçük kızı kimmiş bakalım?"
+    },
+    {
+      "id": "970b340f",
+      "bank_id": "f0512802",
+      "text": "Şu küçük öksürüğün geçti mi artık tatlım?"
+    },
+    {
+      "id": "b824fd30",
+      "bank_id": "f0512802",
+      "text": "Uslu durursan ayakkabı alışverişine gidebiliriz, tamam mı?"
+    },
+    {
+      "id": "b824fd31",
+      "bank_id": "f0512802",
+      "text": "Babana merhaba dedin mi tatlım?"
+    },
+    {
+      "id": "b824fd34",
+      "bank_id": "f0512802",
+      "text": "Baban hâlâ buralardayken onun kıymetini bilsen iyi edersin. Yakında yine bir göreve çıkabilir."
+    },
+    {
+      "id": "b824fd36",
+      "bank_id": "f0512802",
+      "text": "Bu hafta sana çok ödev verdiler mi canım?"
+    },
+    {
+      "id": "b824fd37",
+      "bank_id": "f0512802",
+      "text": "Babanın ne zaman tekrar yola çıkacağından emin değilim tatlım."
+    },
+    {
+      "id": "bd2504d0",
+      "bank_id": "f0512802",
+      "text": "Bugünkü bütün ödevlerini bitirdin mi?"
+    },
+    {
+      "id": "bd2504d1",
+      "bank_id": "f0512802",
+      "text": "Çabuk büyü kızım. Bu ailede çalışan birine daha ihtiyacımız var."
+    },
+    {
+      "id": "bd2504d5",
+      "bank_id": "f0512802",
+      "text": "Annenin ne zaman tekrar yola çıkacağından emin değilim tatlım."
+    },
+    {
+      "id": "bd2504d6",
+      "bank_id": "f0512802",
+      "text": "Annenin ne zaman tekrar yola çıkacağından emin değilim tatlım."
+    },
+    {
+      "id": "bd2504d7",
+      "bank_id": "f0512802",
+      "text": "Dün gece bütün ödevlerini yaptın mı?"
+    },
+    {
+      "id": "cb91d0c8",
+      "bank_id": "f0512802",
+      "text": "Bu sabah o kulaklarının arkasını iyice ovaladın mı bakalım kızım?"
+    },
+    {
+      "id": "cb91d0c9",
+      "bank_id": "f0512802",
+      "text": "O çocuklarla çok fazla oynamanı istemiyorum. Kötü bir arkadaş grubu onlar."
+    },
+    {
+      "id": "cb91d0cd",
+      "bank_id": "f0512802",
+      "text": "Bu sabah neredeydin tatlım? Arkadaşlarınla mı oynuyordun?"
+    },
+    {
+      "id": "cb91d0ce",
+      "bank_id": "f0512802",
+      "text": "Bahse girerim şimdiden benden daha iyi okuyabiliyorsundur, değil mi tatlım?"
+    },
+    {
+      "id": "cb91d0cf",
+      "bank_id": "f0512802",
+      "text": "Çok uslu durursan bu gece sana güzel bir masal okurum tatlım."
+    },
+    {
+      "id": "d691e278",
+      "bank_id": "f0512802",
+      "text": "Nereye kayboldu yine şu annen?"
+    },
+    {
+      "id": "d691e279",
+      "bank_id": "f0512802",
+      "text": "Hava karardıktan sonra oynamanı istemiyorum, duyuyor musun?"
+    },
+    {
+      "id": "d691e27c",
+      "bank_id": "f0512802",
+      "text": "Benim küçük kurabiyem nasılmış bakalım?"
+    },
+    {
+      "id": "d691e27e",
+      "bank_id": "f0512802",
+      "text": "Doğrusu tatlım, bazen hiç sağduyu göstermiyorsun."
+    },
+    {
+      "id": "d691e27f",
+      "bank_id": "f0512802",
+      "text": "Bahse girerim şimdiden benden daha iyi okuyabiliyorsundur, değil mi tatlım?"
+    },
+    {
+      "id": "ed406e8a",
+      "bank_id": "f0512802",
+      "text": "Bugün arkadaşlarınla oynadın mı bakalım?"
+    },
+    {
+      "id": "ed406e8b",
+      "bank_id": "f0512802",
+      "text": "Alışverişte annene yardım ettin mi henüz?"
+    },
+    {
+      "id": "ed406e8c",
+      "bank_id": "f0512802",
+      "text": "Bu sabah bütün kahvaltını bitirdiğine emin misin?"
+    },
+    {
+      "id": "ed406e8d",
+      "bank_id": "f0512802",
+      "text": "Arkadaşlarınla oynamadan önce bütün ödevlerini yapman gerek."
+    },
+    {
+      "id": "ed406e8e",
+      "bank_id": "f0512802",
+      "text": "Arkadaşlarınla oynamadan önce bütün ödevlerini yapman gerek."
+    },
+    {
+      "id": "ef30a170",
+      "bank_id": "f0512802",
+      "text": "Bu gece tabağında yemek bırakmak yok. Babanın ne dediğini biliyorsun."
+    },
+    {
+      "id": "ef30a171",
+      "bank_id": "f0512802",
+      "text": "Bu gece dişlerini fırçalamayı unutma oğlum."
+    },
+    {
+      "id": "ef30a172",
+      "bank_id": "f0512802",
+      "text": "Arkadaşlarınla oynadın mı bakalım oğlum?"
+    },
+    {
+      "id": "ef30a174",
+      "bank_id": "f0512802",
+      "text": "Umarım tırnaklarının altındaki şey kir değildir genç adam."
+    },
+    {
+      "id": "ef30a175",
+      "bank_id": "f0512802",
+      "text": "Peki benim küçük prensim şimdi ne yapmak istermiş?"
+    },
+    {
+      "id": "ef30a176",
+      "bank_id": "f0512802",
+      "text": "Umarım o zorbanın burnunu sürtmüşsündür. Seni ezmelerine izin veremezsin."
+    },
+    {
+      "id": "ef30a177",
+      "bank_id": "f0512802",
+      "text": "O pantolonu şimdiden batırmışsın bile, değil mi?"
+    },
+    {
+      "id": "f0492cb0",
+      "bank_id": "f0512802",
+      "text": "Sen benim küçük oğlumsun, değil mi? Öylesin tabii!"
+    },
+    {
+      "id": "f0492cb1",
+      "bank_id": "f0512802",
+      "text": "O ayakkabı bağcıklarını nereden buldun? Çalmadın inşallah?"
+    },
+    {
+      "id": "f0492cb4",
+      "bank_id": "f0512802",
+      "text": "Sandviçini bitirdin mi?"
+    },
+    {
+      "id": "f0492cb6",
+      "bank_id": "f0512802",
+      "text": "Hayır, arkadaşların bu gece bizde kalamaz."
+    },
+    {
+      "id": "f0492cb7",
+      "bank_id": "f0512802",
+      "text": "Hadi bakalım, o ayakkabıları kirletme sakın!"
+    },
+    {
+      "id": "f6407cd8",
+      "bank_id": "f0512802",
+      "text": "Arkadaşlarınla oynamadan önce bütün ödevlerini yapman gerek."
+    },
+    {
+      "id": "f6407cd9",
+      "bank_id": "f0512802",
+      "text": "Yaptığın şeyi babana anlatmamı ister misin? O zaman uslu dur."
+    },
+    {
+      "id": "f6407cdb",
+      "bank_id": "f0512802",
+      "text": "İstediğim gibi bütün ödevlerini yaptın mı?"
+    },
+    {
+      "id": "f6407cde",
+      "bank_id": "f0512802",
+      "text": "Kaça kadar sayabiliyorsun? Benden daha yükseğe sayabildiğine bahse girerim kızım, değil mi?"
+    },
+    {
+      "id": "f6407cdf",
+      "bank_id": "f0512802",
+      "text": "Ben bakmıyorken yaramazlık yapmasan iyi edersin."
+    },
+    {
+      "id": "f830af58",
+      "bank_id": "f0512802",
+      "text": "Peki benim küçük prensim şimdi ne yapmak istermiş?"
+    },
+    {
+      "id": "f830af59",
+      "bank_id": "f0512802",
+      "text": "Umarım tırnaklarının altındaki şey kir değildir genç adam."
+    },
+    {
+      "id": "f830af5a",
+      "bank_id": "f0512802",
+      "text": "O pantolonu şimdiden batırmışsın bile, değil mi?"
+    },
+    {
+      "id": "f830af5b",
+      "bank_id": "f0512802",
+      "text": "Umarım o zorbanın burnunu sürtmüşsündür. Seni ezmelerine izin veremezsin."
+    },
+    {
+      "id": "f830af5c",
+      "bank_id": "f0512802",
+      "text": "Bu gece dişlerini fırçalamayı unutma oğlum."
+    },
+    {
+      "id": "f830af5d",
+      "bank_id": "f0512802",
+      "text": "Bu gece tabağında yemek bırakmak yok. Annenin ne dediğini biliyorsun."
+    },
+    {
+      "id": "f830af5f",
+      "bank_id": "f0512802",
+      "text": "Arkadaşlarınla oynadın mı bakalım oğlum?"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "bank_id": "90beb600",
+  "total_strings": 74,
+  "strings": [
+    {
+      "id": "006988ba",
+      "bank_id": "90beb600",
+      "text": "Düşman saldırılarını engellemek için <x_img> düğmesini basılı tutun."
+    },
+    {
+      "id": "01debe8f",
+      "bank_id": "90beb600",
+      "text": "Ortaklaşa oyun modunda kamerayı baktığınız yöne çevirmek için <leftbutton.img> düğmesine hafifçe dokunun."
+    },
+    {
+      "id": "02e3cf06",
+      "bank_id": "90beb600",
+      "text": "Nişan Alma moduna girmek için <y_img> tuşunu basılı tutun; bu mod <left.img> kullanarak elle nişan almanızı sağlar."
+    },
+    {
+      "id": "05ed5e2a",
+      "bank_id": "90beb600",
+      "text": "Bir sonraki hedefinize ulaşmak için parıldayan izi takip edin."
+    },
+    {
+      "id": "1f9844f3",
+      "bank_id": "90beb600",
+      "text": "Çarpanınızın daha da yükselmesini bekleyebilirsiniz. Ancak dikkatli olun. Darbe alırsanız düşmeye başlar."
+    },
+    {
+      "id": "20984666",
+      "bank_id": "90beb600",
+      "text": "Dövüş çarpanınız yükseldi! Deneyim kürelerini şimdi toplarsanız, normalin iki katı değerinde olurlar."
+    },
+    {
+      "id": "28e0681f",
+      "bank_id": "90beb600",
+      "text": "Bir binanın yanındaki tabela, yeterli paranız varsa satın alınabileceğini gösterir."
+    },
+    {
+      "id": "2e21ddd7",
+      "bank_id": "90beb600",
+      "text": "Ortaklaşa Oyun İfadeleri"
+    },
+    {
+      "id": "2e5ddbe3",
+      "bank_id": "90beb600",
+      "text": "Şok büyüsünü öğrendiniz. Bir elektrik enerjisi patlamasıyla düşmanlarınıza hasar verin."
+    },
+    {
+      "id": "301e5b78",
+      "bank_id": "90beb600",
+      "text": "Evinizin dekorasyonunu geliştirmek daha mutlu bir aileye yol açacaktır."
+    },
+    {
+      "id": "34efb3f3",
+      "bank_id": "90beb600",
+      "text": "Değerini artırmak için evinizi dekore edebilirsiniz. Dışarıdaki tabelayla etkileşime geçin ve 'Yeniden Dekore Et' seçeneğini seçin."
+    },
+    {
+      "id": "3bab1962",
+      "bank_id": "90beb600",
+      "text": "\"Çevik Dövüş Tarzları: Yuvarlanma\" Beceri yeteneğini satın alırsanız saldırılardan kaçınmak için yuvarlanabilirsiniz."
+    },
+    {
+      "id": "3e918635",
+      "bank_id": "90beb600",
+      "text": "Kamerayı hareket ettirmek için <right.img> kullanın. Kamerayı arkanıza almak için <leftbutton.img> düğmesine dokunun."
+    },
+    {
+      "id": "3f3b728b",
+      "bank_id": "90beb600",
+      "text": "Deneyim bonuslarını artırmak için daha iyi silahlar satın alın ve yeteneklerinizi yükseltin."
+    },
+    {
+      "id": "3f49300e",
+      "bank_id": "90beb600",
+      "text": "Çevik Dövüş Tarzı: \"Yakınlaştırma\" öğrendiniz. Nişan alma düğmesini <y_img> daha uzun süre basılı tutmak, kilitlenmiş bir düşmana daha fazla yakınlaşmanızı sağlar. Ne kadar çok yakınlaştırırsanız, atışınız o kadar güçlü olur."
+    },
+    {
+      "id": "41f348f5",
+      "bank_id": "90beb600",
+      "text": "Efsun taşlarını çıkarma"
+    },
+    {
+      "id": "466217ff",
+      "bank_id": "90beb600",
+      "text": "Genel mağazalarda ve diğer yerlerde satılık imza kartları bulabilirsiniz."
+    },
+    {
+      "id": "4ca6f417",
+      "bank_id": "90beb600",
+      "text": "Gaddar Dövüş Tarzı: \"Karşı Saldırı\" öğrendiniz. Tam bir düşman size vurmak üzereyken <x_img> düğmesine dokunup aynı anda <left.img> çubuğunu onun yönüne çevirerek hamlesini karşılayın. Kendi etrafında dönecek ve afallayacaktır; son darbeyi vurmanız için hazır!"
+    },
+    {
+      "id": "4dd068be",
+      "bank_id": "90beb600",
+      "text": "Artık birinin dikkatini çektiğinize göre, <dpad.img> kullanabileceğiniz ifadeleri gösterir."
+    },
+    {
+      "id": "528805ff",
+      "bank_id": "90beb600",
+      "text": "Zaman Kontrolü büyüsünü öğrendiniz. Hantal düşmanlarınıza karşı avantaj elde etmek için zamanı yavaşlatın. Ayrıca baskın bir saldırı için <left.img> kullanarak tek bir düşmanı hedefleyip üzerine atılabilirsiniz."
+    },
+    {
+      "id": "56871be0",
+      "bank_id": "90beb600",
+      "text": "Daha güçlü kılmak için bazı silahlara efsun taşları takabilirsiniz. Bir eşyaya takmak için Eşya ekranında seçtiğiniz efsun taşını kullanın. Uyarı: Takıldıktan sonra onu çıkaramazsınız."
+    },
+    {
+      "id": "5721371f",
+      "bank_id": "90beb600",
+      "text": "Kahramanınız (beyaz işaretçi) ve Yancı (siyah işaretçi) ifadeleri aynı anda bitirirse bir bonus kazanırsınız!"
+    },
+    {
+      "id": "5f0462d5",
+      "bank_id": "90beb600",
+      "text": "Düşman saldırılarını engellemek için <x_img> düğmesini basılı tutun."
+    },
+    {
+      "id": "629304b8",
+      "bank_id": "90beb600",
+      "text": "Blok Becerisi"
+    },
+    {
+      "id": "63b572ba",
+      "bank_id": "90beb600",
+      "text": "Az önce bir Zincirleme Saldırı gerçekleştirdiniz! Vuruşlarınızı kusursuz zamanlayarak saldırıları birbirine bağlayabilir, onları hızlandırabilir ve hasarlarını artırabilirsiniz."
+    },
+    {
+      "id": "6a43751a",
+      "bank_id": "90beb600",
+      "text": "Bir düşman tarafından yaralandınız! Duraklatma menüsünden \"Gaddar Dövüş Tarzları: Blok\" Güç Yeteneğini satın alabilirsiniz."
+    },
+    {
+      "id": "6b8a7c8d",
+      "bank_id": "90beb600",
+      "text": "Eylemleriniz saflığınızı etkiledi."
+    },
+    {
+      "id": "6c119606",
+      "bank_id": "90beb600",
+      "text": "Artık Oakfield'de yeni bir ev satın almaya gücünüz yetiyor! Satın alırsanız, onu birincil eviniz yapabilir veya ekstra para için kiraya verebilirsiniz."
+    },
+    {
+      "id": "6c7302a4",
+      "bank_id": "90beb600",
+      "text": "Belirli sahnelerde <dpad.img> kullanarak yorum yapabilirsiniz. Yukarı her zaman olumlu bir tepkidir. Aşağı her zaman olumsuzdur."
+    },
+    {
+      "id": "6cbece6c",
+      "bank_id": "90beb600",
+      "text": "Güç İtişi büyüsünü öğrendiniz. Somut bir enerji duvarı etrafınızdaki tüm düşmanları geri iterek size manevra yapacak daha fazla alan tanıyacaktır. Ayrıca köpeğinizin saldırması için tekil düşmanları hedefleyip onları yere serebilirsiniz."
+    },
+    {
+      "id": "6d05c87d",
+      "bank_id": "90beb600",
+      "text": "Gaddar Dövüş Tarzı: \"Zincirleme Saldırılar\" öğrendiniz. Vuruşlarınızı kusursuz zamanlayarak saldırıları birbirine bağlayabilir, onları hızlandırabilir ve hasarlarını artırabilirsiniz. <x_img> düğmesine basmanız gereken tam zaman aralığını belirten ince ipuçlarına dikkat edin.\nAyrıca bir menzilli silahı doldururken, doldurma sesini duyduğunuz anda <y_img> düğmesine dokunursanız anında doldurursunuz."
+    },
+    {
+      "id": "6fb67e25",
+      "bank_id": "90beb600",
+      "text": "Nişan alma düğmesi <y_img> basılıyken, Alt Hedefleme imlecini getirmek için <lefttrigger.img> tuşunu basılı tutun."
+    },
+    {
+      "id": "72c0354a",
+      "bank_id": "90beb600",
+      "text": "Hızınızı artırdınız. Bu, tüm vuruşlarınızın hızını ve menzilli silahlarınızı ne kadar çabuk doldurduğunuzu artırır."
+    },
+    {
+      "id": "73645c33",
+      "bank_id": "90beb600",
+      "text": "Ölüleri Dirilt büyüsünü öğrendiniz. Yanınızda savaşmaları için hayaletimsi varlıklar çağırın."
+    },
+    {
+      "id": "7d332799",
+      "bank_id": "90beb600",
+      "text": "Yeni bir yetenek satın almak için yeterli deneyiminiz var! Yetenekler ekranına şimdi girmek için <dpad.img> üzerinde yukarı basın. Bu ekrana Duraklatma menüsünden istediğiniz zaman erişebilirsiniz."
+    },
+    {
+      "id": "80e599e3",
+      "bank_id": "90beb600",
+      "text": "Silahınız kınından çekilmiş halde bir rakiple yüzleşirken, herhangi bir yöne yuvarlanmak için <a_img> düğmesine dokunun."
+    },
+    {
+      "id": "81f2b267",
+      "bank_id": "90beb600",
+      "text": "Girdap büyüsünü öğrendiniz. Düşmanlarınızı süpürüp havalara uçuran güçlü kasırgalar yaratmak için kudretli elementsel güçleri çağırın. Devasa hasar için tekil hedefleri vurun veya daha az hasarla daha fazla düşmanı etkilemek için alan etkisini kullanın."
+    },
+    {
+      "id": "8bd360a8",
+      "bank_id": "90beb600",
+      "text": "Engellenemez bir Gösterişli Vuruş doldurmak için <x_img> tuşunu basılı tutun ve <left.img> çubuğunu düşmana doğru itin. Saldırıyı serbest bırakmak için <x_img> düğmesini bırakın."
+    },
+    {
+      "id": "8d2422d6",
+      "bank_id": "90beb600",
+      "text": "Yere serildiniz. Toplanmamış tüm deneyiminiz kaybolacak."
+    },
+    {
+      "id": "914cb898",
+      "bank_id": "90beb600",
+      "text": "Çevik Dövüş Tarzı: \"Alt Hedefleme\" öğrendiniz. Nişan alma düğmesi <y_img> basılıyken, Alt Hedefleme imlecini getirmek için <lefttrigger.img> tuşunu basılı tutun. Bunu düşmanın vücudunun hangi bölgesine nişan alacağınızı seçmek için kullanabilirsiniz. Vücut bölümleri arasında geçiş yapmak için <left.img> kullanın. Neleri vurabileceğinizi görmek için farklı düşmanlarla denemeler yapın."
+    },
+    {
+      "id": "95a7e717",
+      "bank_id": "90beb600",
+      "text": "Nişan alma düğmesini <y_img> daha uzun süre basılı tutmak, kilitlenmiş bir düşmana daha fazla yakınlaşmanızı sağlar."
+    },
+    {
+      "id": "9b51c6c8",
+      "bank_id": "90beb600",
+      "text": "Parıldayan iz"
+    },
+    {
+      "id": "9c616b3b",
+      "bank_id": "90beb600",
+      "text": "\"Gaddar Dövüş Tarzları: Gösterişli Vuruş\" Güç yeteneğini satın alırsanız daha fazla hasar verebilir ve daha yüksek bonuslar kazanabilirsiniz."
+    },
+    {
+      "id": "a58b8b6c",
+      "bank_id": "90beb600",
+      "text": "Cehennem Ateşi büyüsünü öğrendiniz. Bir düşmana alevler saçan bir ateş topu fırlatın veya bir ateş çemberi çağırarak etrafınızdaki herkesi kavurun."
+    },
+    {
+      "id": "a80ac837",
+      "bank_id": "90beb600",
+      "text": "Can göstergenizi artıran Dayanıklılığınızı geliştirdiniz."
+    },
+    {
+      "id": "a9744dc7",
+      "bank_id": "90beb600",
+      "text": "Katılmak için ikinci bir kumandada <start.img> tuşuna basın."
+    },
+    {
+      "id": "aa5c4cf0",
+      "bank_id": "90beb600",
+      "text": "Bu küre başka bir Fable II oyuncusunu temsil eder. Onu hedeflemek için <lefttrigger.img> dokunun ve hedeflenmişken onunla etkileşime geçmek için <a_img> düğmesine basın."
+    },
+    {
+      "id": "abdf9029",
+      "bank_id": "90beb600",
+      "text": "Kaos büyüsünü öğrendiniz. Düşmanlarınızın zihnini karıştırmak için bir Delilik Maskesi çağırın, sonrasında ne olacağını asla bilemezsiniz. Ağınıza daha fazla düşman yakalamak için büyünüzü geniş bir alana yayın veya çok daha uzun süreli bir etki için tek bir hedefi seçin."
+    },
+    {
+      "id": "af3f796a",
+      "bank_id": "90beb600",
+      "text": "Küreler"
+    },
+    {
+      "id": "b8df3336",
+      "bank_id": "90beb600",
+      "text": "Artık efsun yuvaları olan bir silahınız var. Herhangi biri boşsa, ona benzersiz güçler bahşetmek için efsun taşları takabilirsiniz. Eşya adının yanındaki yuva sayısı kaç efsun taşı taşıyabileceğini gösterir. Uyarı: Bir efsun taşı takıldıktan sonra onu çıkaramazsınız."
+    },
+    {
+      "id": "b94dd7b2",
+      "bank_id": "90beb600",
+      "text": "Aileniz büyüdükçe ihtiyaçları da değişebilir. Çocuklarınızı mutlu tuttuğunuzdan emin olun, karşılığını fazlasıyla alırsınız."
+    },
+    {
+      "id": "ba886931",
+      "bank_id": "90beb600",
+      "text": "Yaralandınız. Kendinizi iyileştirmek için biraz iksir veya yiyecek satın alın ya da uyumak için bir yatak bulun!"
+    },
+    {
+      "id": "baab7ce3",
+      "bank_id": "90beb600",
+      "text": "Daha iyi ekipmanlar satın almalısınız! Bir işten para kazanın ve alışverişe çıkın!"
+    },
+    {
+      "id": "bb2c7542",
+      "bank_id": "90beb600",
+      "text": "Blok yapmak için <x_img> tuşunu basılı tutun."
+    },
+    {
+      "id": "bf00aa90",
+      "bank_id": "90beb600",
+      "text": "Tam bir düşman size vurmak üzereyken, hamlesini karşılamak için <x_img> düğmesine dokunup aynı anda <left.img> çubuğunu onun yönüne çevirin."
+    },
+    {
+      "id": "c4773411",
+      "bank_id": "90beb600",
+      "text": "Çevik Dövüş Tarzı: \"Nişan Alınmış Menzilli Saldırı\" öğrendiniz. Nişan Alma moduna girmek için <y_img> tuşunu basılı tutun; bu mod <left.img> kullanarak elle nişan almanızı sağlar. Nişangâhınız bir düşmana yaklaştığında daha kolay hedefleme için ona yapışacaktır. Bir düşmana kilitliyken yakındaki diğer düşmanlara anında geçmek için <left.img> çubuğunu sola veya sağa hafifçe itin."
+    },
+    {
+      "id": "c7715d95",
+      "bank_id": "90beb600",
+      "text": "Eylemleriniz saflığınızı etkiledi."
+    },
+    {
+      "id": "cf01cc0b",
+      "bank_id": "90beb600",
+      "text": "Ortaklaşa Oyun Yancısı"
+    },
+    {
+      "id": "cfe8d21a",
+      "bank_id": "90beb600",
+      "text": "Sahne yorumları"
+    },
+    {
+      "id": "d064edf7",
+      "bank_id": "90beb600",
+      "text": "İmza kartları"
+    },
+    {
+      "id": "d30f72c9",
+      "bank_id": "90beb600",
+      "text": "Yakın dövüş silahlarıyla verdiğiniz hasarı artıran Fiziğinizi geliştirdiniz."
+    },
+    {
+      "id": "d7b7be07",
+      "bank_id": "90beb600",
+      "text": "Ortaklaşa Oyun Kamerası"
+    },
+    {
+      "id": "d8188746",
+      "bank_id": "90beb600",
+      "text": "Oyun otomatik kaydediliyor. Bu simge [Icon] görüntülenirken Xbox 360 konsolunuzu kapatmayın veya herhangi bir depolama cihazını çıkarmayın."
+    },
+    {
+      "id": "e371e493",
+      "bank_id": "90beb600",
+      "text": "Yetenekler Ekranı"
+    },
+    {
+      "id": "e531cccb",
+      "bank_id": "90beb600",
+      "text": "Yancı, <back.img> düğmesine dokunarak Kahraman'ın yanına ışınlanabilir."
+    },
+    {
+      "id": "e7573e82",
+      "bank_id": "90beb600",
+      "text": "Çevik Dövüş Tarzı: \"Yuvarlanma\" öğrendiniz. Hareket halindeyken o yöne yuvarlanmak için <a_img> dokunun. Yuvarlanırken darbe alamazsınız!"
+    },
+    {
+      "id": "e9cf4718",
+      "bank_id": "90beb600",
+      "text": "Saldırıları engelleme"
+    },
+    {
+      "id": "eb1052d4",
+      "bank_id": "90beb600",
+      "text": "Gaddar Dövüş Tarzı: \"Gösterişli Vuruş\" öğrendiniz. <x_img> basılı tutarken engellenemez bir gösterişli vuruş doldurmak için <left.img> çubuğunu düşmana doğru hareket ettirin ve ardından seçtiğiniz yönde gösterişli vuruşu serbest bırakmak için <x_img> düğmesini bırakın!"
+    },
+    {
+      "id": "ef6f9581",
+      "bank_id": "90beb600",
+      "text": "Kamerayı hareket ettirme"
+    },
+    {
+      "id": "f0cbe422",
+      "bank_id": "90beb600",
+      "text": "Hedeflenen bir köylünün dikkatini çekmek için yanındayken <lefttrigger.img> dokunun."
+    },
+    {
+      "id": "f997759c",
+      "bank_id": "90beb600",
+      "text": "Bir aile kurduğunuz için tebrikler! Beşiğe doğru dönüp <lefttrigger.img> ile dikkatini çekerek ve ifadeler sergileyerek yeni doğan bebeğinizi eğlendirin. Mutlu bir aile evinizden daha iyi bonuslar sağlar.\n<lefttrigger.img> basılı tutup <y_img> basarak kişilik ekranını görebilir, çocuğunuz hakkında daha fazla bilgi edinebilir ve dilerseniz ona isim verebilirsiniz."
+    },
+    {
+      "id": "fa1d6f5a",
+      "bank_id": "90beb600",
+      "text": "Efsun Taşları"
+    },
+    {
+      "id": "faea9ce6",
+      "bank_id": "90beb600",
+      "text": "Zorunlu olmasa da görünüşünüzü iyileştirmenin bir ilişkiyi canlandırmaya yardımcı olacağı kesindir. Fikir edinmek için yerel terzinizi veya stilistinizi ziyaret edin."
+    },
+    {
+      "id": "ff64468e",
+      "bank_id": "90beb600",
+      "text": "Kılıçlar büyüsünü öğrendiniz. Düşmanlarınıza doğru uçması için efsunlu bir kılıç çağırın."
+    }
+  ]
+}

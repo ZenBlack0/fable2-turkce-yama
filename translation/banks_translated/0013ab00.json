@@ -1,0 +1,1106 @@
+{
+  "bank_id": "0013ab00",
+  "total_strings": 220,
+  "strings": [
+    {
+      "id": "062f2542",
+      "bank_id": "0013ab00",
+      "text": "Hiç bununla bir hobbe patakladın mı?"
+    },
+    {
+      "id": "062f2543",
+      "bank_id": "0013ab00",
+      "text": "Bir balverine'in kafasını uçurmak için biçilmiş kaftan."
+    },
+    {
+      "id": "062f2544",
+      "bank_id": "0013ab00",
+      "text": "Pek güzel görünen bir silah."
+    },
+    {
+      "id": "062f2545",
+      "bank_id": "0013ab00",
+      "text": "O şeyi nasıl kullanacağını gerçekten biliyorsun, değil mi?"
+    },
+    {
+      "id": "062f2546",
+      "bank_id": "0013ab00",
+      "text": "Onunla ne kadar süre talim yapman gerekti?"
+    },
+    {
+      "id": "0ca24b44",
+      "bank_id": "0013ab00",
+      "text": "Göz alıcı bir şey ama kullanırken dikkatli ol."
+    },
+    {
+      "id": "0ca24b47",
+      "bank_id": "0013ab00",
+      "text": "O silahla ne yaptığına dikkat et vatandaş."
+    },
+    {
+      "id": "14ee7ef2",
+      "bank_id": "0013ab00",
+      "text": "Nasıl öpüşeceğini gerçekten biliyorsun."
+    },
+    {
+      "id": "14ee7ef3",
+      "bank_id": "0013ab00",
+      "text": "Bütün gün o dudaklara yapışık kalabilirim."
+    },
+    {
+      "id": "14ee7ef4",
+      "bank_id": "0013ab00",
+      "text": "Mmm. Böyle öpmeyi nereden öğrendin?"
+    },
+    {
+      "id": "14ee7ef5",
+      "bank_id": "0013ab00",
+      "text": "Dudaklarım adına sana koca bir \"teşekkür ederim\" demek isterim."
+    },
+    {
+      "id": "14ee7ef7",
+      "bank_id": "0013ab00",
+      "text": "O öpücük tarihe geçecek."
+    },
+    {
+      "id": "1bee89f8",
+      "bank_id": "0013ab00",
+      "text": "Mmm. Böyle öpmeyi nereden öğrendin?"
+    },
+    {
+      "id": "1bee89f9",
+      "bank_id": "0013ab00",
+      "text": "Harika dudakların var."
+    },
+    {
+      "id": "1bee89fa",
+      "bank_id": "0013ab00",
+      "text": "Ah, çok güzeldi!"
+    },
+    {
+      "id": "1bee89fe",
+      "bank_id": "0013ab00",
+      "text": "Bütün gün o dudaklara yapışık kalabilirim."
+    },
+    {
+      "id": "1bee89ff",
+      "bank_id": "0013ab00",
+      "text": "Nasıl öpüşeceğini kesinlikle biliyorsun."
+    },
+    {
+      "id": "22488711",
+      "bank_id": "0013ab00",
+      "text": "Onunla kimseyi incitmediğinden emin ol."
+    },
+    {
+      "id": "22488712",
+      "bank_id": "0013ab00",
+      "text": "Onunla dikkatli ol vatandaş."
+    },
+    {
+      "id": "2570ee78",
+      "bank_id": "0013ab00",
+      "text": "Oooo, ne kadar da güzel bir büyü!"
+    },
+    {
+      "id": "2a70f619",
+      "bank_id": "0013ab00",
+      "text": "Vay canına! Havalı büyü!"
+    },
+    {
+      "id": "38134dfa",
+      "bank_id": "0013ab00",
+      "text": "Dürüst olmak gerekirse bazen büyünün hiç var olmamasını diliyorum."
+    },
+    {
+      "id": "38134dfb",
+      "bank_id": "0013ab00",
+      "text": "İki numara yapabiliyorsun diye kendini pek özel sanıyorsun galiba."
+    },
+    {
+      "id": "38134dfc",
+      "bank_id": "0013ab00",
+      "text": "Bana sorarsan bu büyü zarardan başka bir şey getirmiyor."
+    },
+    {
+      "id": "38134dfd",
+      "bank_id": "0013ab00",
+      "text": "Bazen büyünün hiç var olmamasını diliyorum gerçekten."
+    },
+    {
+      "id": "38134dfe",
+      "bank_id": "0013ab00",
+      "text": "Peh, büyü. Bize ne faydası dokundu ki sanki?"
+    },
+    {
+      "id": "3d87b3ea",
+      "bank_id": "0013ab00",
+      "text": "Etkileyici. Ben şahsen biraz daha kötücül şeyleri tercih ederim gerçi."
+    },
+    {
+      "id": "3d87b3eb",
+      "bank_id": "0013ab00",
+      "text": "O şey bu muymuş yani? Hakkında çok şey duymuştum."
+    },
+    {
+      "id": "3d87b3ec",
+      "bank_id": "0013ab00",
+      "text": "Çok gurur duymalısın."
+    },
+    {
+      "id": "3d87b3ed",
+      "bank_id": "0013ab00",
+      "text": "Vay be! Ne ganimet ama! Muazzam!"
+    },
+    {
+      "id": "3d87b3ee",
+      "bank_id": "0013ab00",
+      "text": "İnanılmaz! Bunu herkes görmeli."
+    },
+    {
+      "id": "41135bc8",
+      "bank_id": "0013ab00",
+      "text": "Bu kadar büyü yetti artık!"
+    },
+    {
+      "id": "41135bc9",
+      "bank_id": "0013ab00",
+      "text": "Büyünün burada yeri yok."
+    },
+    {
+      "id": "41135bcb",
+      "bank_id": "0013ab00",
+      "text": "Bu büyü hepimizin sonu olacak."
+    },
+    {
+      "id": "41135bce",
+      "bank_id": "0013ab00",
+      "text": "Kıyametin yaklaştığının işareti bu. Söyleyeyim ben size!"
+    },
+    {
+      "id": "41135bcf",
+      "bank_id": "0013ab00",
+      "text": "Şu lanet büyülerini başka yere götür."
+    },
+    {
+      "id": "4687c238",
+      "bank_id": "0013ab00",
+      "text": "Bir Kahraman olmalısın! İnanılmaz bir ganimet!"
+    },
+    {
+      "id": "4687c239",
+      "bank_id": "0013ab00",
+      "text": "Bunun için kazandığın tüm şöhreti hak ediyorsun."
+    },
+    {
+      "id": "4687c23b",
+      "bank_id": "0013ab00",
+      "text": "Harika bir şey! Aferin."
+    },
+    {
+      "id": "4687c23e",
+      "bank_id": "0013ab00",
+      "text": "İyilik timsalisin sen, değil mi?"
+    },
+    {
+      "id": "4687c23f",
+      "bank_id": "0013ab00",
+      "text": "Bencil değilsin belki ama kibirlisin."
+    },
+    {
+      "id": "5790fadd",
+      "bank_id": "0013ab00",
+      "text": "Hava atmaya gerek yok."
+    },
+    {
+      "id": "5790fade",
+      "bank_id": "0013ab00",
+      "text": "Güzel silah ama dikkatli ol."
+    },
+    {
+      "id": "662410f4",
+      "bank_id": "0013ab00",
+      "text": "Nasıl bir büyü yapacağını görmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "6b241895",
+      "bank_id": "0013ab00",
+      "text": "Umarım harika bir büyüdür bu!"
+    },
+    {
+      "id": "78b771f2",
+      "bank_id": "0013ab00",
+      "text": "İnsanlara yardım etmeyi seviyorsun demek ha? Eh, herkesin bir huyu var işte."
+    },
+    {
+      "id": "78b771f3",
+      "bank_id": "0013ab00",
+      "text": "O kadar da büyütülecek bir şey değil hani."
+    },
+    {
+      "id": "78b771f4",
+      "bank_id": "0013ab00",
+      "text": "Güzel iş! İyi ganimetmiş."
+    },
+    {
+      "id": "78b771f5",
+      "bank_id": "0013ab00",
+      "text": "İyi biri olduğunu gösteriyor bu."
+    },
+    {
+      "id": "78b771f7",
+      "bank_id": "0013ab00",
+      "text": "Bayağı etkileyici."
+    },
+    {
+      "id": "7cea9471",
+      "bank_id": "0013ab00",
+      "text": "Siz ne biçim yaratıklarsınız? Hayvan mısınız nesiniz?!"
+    },
+    {
+      "id": "7cea9472",
+      "bank_id": "0013ab00",
+      "text": "O iş öyle yapılmaz ki ama."
+    },
+    {
+      "id": "7cea9473",
+      "bank_id": "0013ab00",
+      "text": "Oh ne âlâ. Normalde bu tür gösteriler için para ödemem gerekirdi."
+    },
+    {
+      "id": "7cea9474",
+      "bank_id": "0013ab00",
+      "text": "İşte bundan bahsediyorum! Dağıtın ortalığı!"
+    },
+    {
+      "id": "7cea9475",
+      "bank_id": "0013ab00",
+      "text": "Baksanıza şunlara! Üstelik para bile ödemedim!"
+    },
+    {
+      "id": "7cea9476",
+      "bank_id": "0013ab00",
+      "text": "Böyle bir rezilliğe hayatımda maruz kalmadım!"
+    },
+    {
+      "id": "7cea9477",
+      "bank_id": "0013ab00",
+      "text": "Bu davranış tek kelimeyle kabul edilemez!"
+    },
+    {
+      "id": "7d1837ad",
+      "bank_id": "0013ab00",
+      "text": "Bunun yerine havalı büyüler yapamaz mısın sanki?"
+    },
+    {
+      "id": "7fb77cf8",
+      "bank_id": "0013ab00",
+      "text": "Böyle devam et."
+    },
+    {
+      "id": "7fb77cf9",
+      "bank_id": "0013ab00",
+      "text": "Evet, çok güzel ganimet."
+    },
+    {
+      "id": "7fb77cfa",
+      "bank_id": "0013ab00",
+      "text": "Vay, bunu sen mi yaptın? Güzelmiş."
+    },
+    {
+      "id": "7fb77cfe",
+      "bank_id": "0013ab00",
+      "text": "Evet, iyi biri olmayı seviyorsun, anladık."
+    },
+    {
+      "id": "7fb77cff",
+      "bank_id": "0013ab00",
+      "text": "Bana kalırsa böbürlenecek bir tarafı yok."
+    },
+    {
+      "id": "864ea418",
+      "bank_id": "0013ab00",
+      "text": "Öğğ. Ne yedin sen öyle?"
+    },
+    {
+      "id": "864ea41a",
+      "bank_id": "0013ab00",
+      "text": "En azından önce biraz alıştırma yapabilirdin."
+    },
+    {
+      "id": "864ea41b",
+      "bank_id": "0013ab00",
+      "text": "Iyyy! Öğle yemeğin değilim ben senin!"
+    },
+    {
+      "id": "864ea41c",
+      "bank_id": "0013ab00",
+      "text": "Ölüm öpücüğünün tadı bile bundan daha iyidir vallahi."
+    },
+    {
+      "id": "864ea41d",
+      "bank_id": "0013ab00",
+      "text": "Hayatımda hiç bu kadar... berbat öpülmemiştim."
+    },
+    {
+      "id": "87eaa5a0",
+      "bank_id": "0013ab00",
+      "text": "Ahh! Keşke kör olsaydım!"
+    },
+    {
+      "id": "87eaa5a2",
+      "bank_id": "0013ab00",
+      "text": "Kapatın şunu!"
+    },
+    {
+      "id": "87eaa5a3",
+      "bank_id": "0013ab00",
+      "text": "Neniz var sizin yahu?!"
+    },
+    {
+      "id": "87eaa5a4",
+      "bank_id": "0013ab00",
+      "text": "Görmek istediğimden çok daha fazla kıl bu..."
+    },
+    {
+      "id": "87eaa5a5",
+      "bank_id": "0013ab00",
+      "text": "Bunu görmek istemiyorum!"
+    },
+    {
+      "id": "87eaa5a6",
+      "bank_id": "0013ab00",
+      "text": "Yabani hayvanlardan hiçbir farkınız yok!"
+    },
+    {
+      "id": "87eaa5a7",
+      "bank_id": "0013ab00",
+      "text": "Böyle bir ahlaksızlık ömrümde görmedim."
+    },
+    {
+      "id": "881848dc",
+      "bank_id": "0013ab00",
+      "text": "Bütün bu büyülerden artık gına gelmeye başladı."
+    },
+    {
+      "id": "8b4eac39",
+      "bank_id": "0013ab00",
+      "text": "Biri öpücük polisini çağırsın."
+    },
+    {
+      "id": "8b4eac3a",
+      "bank_id": "0013ab00",
+      "text": "Iyyy! Bir trolün kıçını öpmeyi yeğlerim!"
+    },
+    {
+      "id": "8b4eac3b",
+      "bank_id": "0013ab00",
+      "text": "Durun, kusacağım galiba."
+    },
+    {
+      "id": "8b4eac3c",
+      "bank_id": "0013ab00",
+      "text": "Vaktiyle foseptik çukuruna kafa üstü düşmüştüm, o bile bu öpücükten daha iyiydi."
+    },
+    {
+      "id": "8b4eac3d",
+      "bank_id": "0013ab00",
+      "text": "Kabusum gerçek oldu sanki. Bir kadeh içkiye ihtiyacım var."
+    },
+    {
+      "id": "8f1e4110",
+      "bank_id": "0013ab00",
+      "text": "Büyü patlatmak üzeresin, değil mi?"
+    },
+    {
+      "id": "8f1e4111",
+      "bank_id": "0013ab00",
+      "text": "Gücün dalgalar halinde yayıldığını hissedebiliyorsun resmen."
+    },
+    {
+      "id": "8f1e4113",
+      "bank_id": "0013ab00",
+      "text": "Biraz büyü mü yapacaksın yoksa?"
+    },
+    {
+      "id": "8f1e4116",
+      "bank_id": "0013ab00",
+      "text": "Şapkaları sıkı tutun bence, büyük bir şey gelebilir."
+    },
+    {
+      "id": "8f1e4117",
+      "bank_id": "0013ab00",
+      "text": "İçimden bir ses şapkadan tavşan çıkmayacağını söylüyor."
+    },
+    {
+      "id": "92e61198",
+      "bank_id": "0013ab00",
+      "text": "Burası silahlarla oynanacak yer değil."
+    },
+    {
+      "id": "92e61199",
+      "bank_id": "0013ab00",
+      "text": "Hava atmayı kes artık."
+    },
+    {
+      "id": "92e6119d",
+      "bank_id": "0013ab00",
+      "text": "Git de başkasını rahatsız et."
+    },
+    {
+      "id": "92e6119e",
+      "bank_id": "0013ab00",
+      "text": "Kes şunu artık!"
+    },
+    {
+      "id": "92e6119f",
+      "bank_id": "0013ab00",
+      "text": "Evet evet, çok etkileyici."
+    },
+    {
+      "id": "9472e838",
+      "bank_id": "0013ab00",
+      "text": "Hepimiz öleceğiz!"
+    },
+    {
+      "id": "9472e839",
+      "bank_id": "0013ab00",
+      "text": "Beni bir hobbe'ye dönüştürme!"
+    },
+    {
+      "id": "9472e83d",
+      "bank_id": "0013ab00",
+      "text": "Aaaa! Neydi o öyle?"
+    },
+    {
+      "id": "9472e83e",
+      "bank_id": "0013ab00",
+      "text": "Hayııır! Bu da ne?! İmdat!"
+    },
+    {
+      "id": "9472e83f",
+      "bank_id": "0013ab00",
+      "text": "Bu hiç doğal değil! Yardım edin!"
+    },
+    {
+      "id": "961e4c12",
+      "bank_id": "0013ab00",
+      "text": "Hadi bakalım, marifetini görelim!"
+    },
+    {
+      "id": "961e4c13",
+      "bank_id": "0013ab00",
+      "text": "Baksanıza, şuradaki biraz büyü yapacak galiba."
+    },
+    {
+      "id": "961e4c14",
+      "bank_id": "0013ab00",
+      "text": "İnanılmaz bir şey olacak bu, hissedebiliyorum."
+    },
+    {
+      "id": "961e4c15",
+      "bank_id": "0013ab00",
+      "text": "Nasıl bir büyü olacak acaba?"
+    },
+    {
+      "id": "961e4c16",
+      "bank_id": "0013ab00",
+      "text": "Ne olacağını görmek için sabırsızlanıyorum..."
+    },
+    {
+      "id": "9c710308",
+      "bank_id": "0013ab00",
+      "text": "Bacaklarımı hissetmiyorum!"
+    },
+    {
+      "id": "9c71030a",
+      "bank_id": "0013ab00",
+      "text": "Harikaydın."
+    },
+    {
+      "id": "9c71030b",
+      "bank_id": "0013ab00",
+      "text": "Hemen uykuya dalmayacaksın, değil mi?"
+    },
+    {
+      "id": "9c71030c",
+      "bank_id": "0013ab00",
+      "text": "İşte ben buna aşk yapmak derim."
+    },
+    {
+      "id": "9c71030d",
+      "bank_id": "0013ab00",
+      "text": "Pestilim çıktı!"
+    },
+    {
+      "id": "9c71030e",
+      "bank_id": "0013ab00",
+      "text": "Beni at bindiğim o eski gençlik günlerime götürdü resmen."
+    },
+    {
+      "id": "9c71030f",
+      "bank_id": "0013ab00",
+      "text": "Beni zevkin bilinmeyen diyarlarına taşıdın. Gerçekten."
+    },
+    {
+      "id": "9de622c8",
+      "bank_id": "0013ab00",
+      "text": "Bırak bu işleri."
+    },
+    {
+      "id": "9de622c9",
+      "bank_id": "0013ab00",
+      "text": "Can yakmaya niyetlenmediğin iyi oldu, yoksa fena pürüz çıkardı."
+    },
+    {
+      "id": "9de622cc",
+      "bank_id": "0013ab00",
+      "text": "Bu kadar yeter artık."
+    },
+    {
+      "id": "9de622ce",
+      "bank_id": "0013ab00",
+      "text": "Benim üzerimde mi talim yapmak zorundasın?"
+    },
+    {
+      "id": "9de622cf",
+      "bank_id": "0013ab00",
+      "text": "Bırak artık şunu!"
+    },
+    {
+      "id": "9f72f968",
+      "bank_id": "0013ab00",
+      "text": "Hayııır! Dünyanın sonu geldi!"
+    },
+    {
+      "id": "9f72f969",
+      "bank_id": "0013ab00",
+      "text": "Hepimizi soğana çevirmek için kötü bir büyücü gelmiş!"
+    },
+    {
+      "id": "9f72f96c",
+      "bank_id": "0013ab00",
+      "text": "Biri kurtarsın bizi!"
+    },
+    {
+      "id": "9f72f96e",
+      "bank_id": "0013ab00",
+      "text": "Dur! Lütfen dur!"
+    },
+    {
+      "id": "9f72f96f",
+      "bank_id": "0013ab00",
+      "text": "Bu pis büyü hepimizin sonu olacak!"
+    },
+    {
+      "id": "a1710b29",
+      "bank_id": "0013ab00",
+      "text": "Hayal ettiğimden bile daha iyiydi."
+    },
+    {
+      "id": "a1710b2a",
+      "bank_id": "0013ab00",
+      "text": "Hayatımda yaşadığım en iyisiydi."
+    },
+    {
+      "id": "a1710b2b",
+      "bank_id": "0013ab00",
+      "text": "Ele avuca sığmaz birisin sen."
+    },
+    {
+      "id": "a1710b2c",
+      "bank_id": "0013ab00",
+      "text": "Yatağın parçalanmadığına şaşırdım doğrusu."
+    },
+    {
+      "id": "a1710b2d",
+      "bank_id": "0013ab00",
+      "text": "Bunu daha önce de yapmışsın sen, değil mi?"
+    },
+    {
+      "id": "a1710b2e",
+      "bank_id": "0013ab00",
+      "text": "Son derece keyifli bir deneyimdi. Kesinlikle."
+    },
+    {
+      "id": "a1710b2f",
+      "bank_id": "0013ab00",
+      "text": "Pipomu yaksam sakıncası olmaz değil mi canım?"
+    },
+    {
+      "id": "a5803c70",
+      "bank_id": "0013ab00",
+      "text": "Pek rahat görünmüyor açıkçası..."
+    },
+    {
+      "id": "a5803c71",
+      "bank_id": "0013ab00",
+      "text": "İzlemesem sakıncası var mı?"
+    },
+    {
+      "id": "a5803c72",
+      "bank_id": "0013ab00",
+      "text": "Gidin de oda tutun kendinize!"
+    },
+    {
+      "id": "a5803c74",
+      "bank_id": "0013ab00",
+      "text": "Röntgencilik yapmıyordum ben. Valla bak."
+    },
+    {
+      "id": "a5803c75",
+      "bank_id": "0013ab00",
+      "text": "Bu tam bir rezillik!"
+    },
+    {
+      "id": "a5803c76",
+      "bank_id": "0013ab00",
+      "text": "Ne gösteri ama! Devam edin, devam edin."
+    },
+    {
+      "id": "a5803c77",
+      "bank_id": "0013ab00",
+      "text": "Vahşi kurtlar gibi birbirinize girmişsiniz maşallah!"
+    },
+    {
+      "id": "ae804a58",
+      "bank_id": "0013ab00",
+      "text": "Ne kadar da iğrenç bir teşhircilik!"
+    },
+    {
+      "id": "ae804a59",
+      "bank_id": "0013ab00",
+      "text": "Toplum içinde böyle davranmaya nasıl cüret edersiniz?!"
+    },
+    {
+      "id": "ae804a5a",
+      "bank_id": "0013ab00",
+      "text": "Hey! Burada hanımlar da var!"
+    },
+    {
+      "id": "ae804a5b",
+      "bank_id": "0013ab00",
+      "text": "Kahvaltımı midemden çıkarttırmaya mı çalışıyorsunuz?!"
+    },
+    {
+      "id": "ae804a5c",
+      "bank_id": "0013ab00",
+      "text": "Gidin kendinize bir oda tutun!"
+    },
+    {
+      "id": "ae804a5d",
+      "bank_id": "0013ab00",
+      "text": "Yatak bulamadınız mı? İğrenç."
+    },
+    {
+      "id": "ae804a5f",
+      "bank_id": "0013ab00",
+      "text": "Çok iğrenç!"
+    },
+    {
+      "id": "af448a81",
+      "bank_id": "0013ab00",
+      "text": "Ha ha, dur yapma, gıdıklanıyorum."
+    },
+    {
+      "id": "b822acc1",
+      "bank_id": "0013ab00",
+      "text": "Utanmalısın kendinden."
+    },
+    {
+      "id": "b822acc2",
+      "bank_id": "0013ab00",
+      "text": "Bu... Bu hiç doğru değil."
+    },
+    {
+      "id": "b822acc3",
+      "bank_id": "0013ab00",
+      "text": "Onu etrafta böyle nasıl sergileyebiliyorsun?"
+    },
+    {
+      "id": "b822acc4",
+      "bank_id": "0013ab00",
+      "text": "Tebrikler, he he."
+    },
+    {
+      "id": "b822acc5",
+      "bank_id": "0013ab00",
+      "text": "Bununla böbürlenmeye gerek yok."
+    },
+    {
+      "id": "ba449c30",
+      "bank_id": "0013ab00",
+      "text": "Canımı gerçekten yakmayacağını biliyordum zaten."
+    },
+    {
+      "id": "ba9d9180",
+      "bank_id": "0013ab00",
+      "text": "Çok çılgınsın!"
+    },
+    {
+      "id": "ba9d9181",
+      "bank_id": "0013ab00",
+      "text": "Şimdiye kadarki en iyi sevişmeydi."
+    },
+    {
+      "id": "ba9d9182",
+      "bank_id": "0013ab00",
+      "text": "Hayatımda hiç bu kadar tatmin olmamıştım."
+    },
+    {
+      "id": "ba9d9183",
+      "bank_id": "0013ab00",
+      "text": "En çılgın düşlerimi gerçekleştirdin."
+    },
+    {
+      "id": "ba9d9184",
+      "bank_id": "0013ab00",
+      "text": "Bunu bütün arkadaşlarıma anlatmak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "ba9d9186",
+      "bank_id": "0013ab00",
+      "text": "Çok edepsizceydi! Bayıldım."
+    },
+    {
+      "id": "ba9d9187",
+      "bank_id": "0013ab00",
+      "text": "Harikaydı hayatım. Biraz kestireyim ben artık."
+    },
+    {
+      "id": "bb6d1572",
+      "bank_id": "0013ab00",
+      "text": "Anneciğimi istiyorum!"
+    },
+    {
+      "id": "bf9d99a0",
+      "bank_id": "0013ab00",
+      "text": "İşini kesinlikle biliyorsun."
+    },
+    {
+      "id": "bf9d99a1",
+      "bank_id": "0013ab00",
+      "text": "Böyle bir şeyi hayatımda hissetmemiştim!"
+    },
+    {
+      "id": "bf9d99a2",
+      "bank_id": "0013ab00",
+      "text": "Nerede eğitim aldın sen? Aşk Koleji'nde mi?"
+    },
+    {
+      "id": "bf9d99a3",
+      "bank_id": "0013ab00",
+      "text": "Harika bir aşıksın..."
+    },
+    {
+      "id": "bf9d99a5",
+      "bank_id": "0013ab00",
+      "text": "Bulutların üstünde yüzüyor gibi hissediyorum."
+    },
+    {
+      "id": "bf9d99a6",
+      "bank_id": "0013ab00",
+      "text": "Bir kadını nasıl mutlu edeceğini gerçekten biliyorsun."
+    },
+    {
+      "id": "bf9d99a7",
+      "bank_id": "0013ab00",
+      "text": "Yeni numaralar mıydı bunlar? Her halükarda çok beğendim."
+    },
+    {
+      "id": "c322be70",
+      "bank_id": "0013ab00",
+      "text": "Bu korkunç bir şey."
+    },
+    {
+      "id": "c322be72",
+      "bank_id": "0013ab00",
+      "text": "Bununla nasıl gurur duyabiliyorsun?"
+    },
+    {
+      "id": "c322be73",
+      "bank_id": "0013ab00",
+      "text": "Ne feci! Bunu böyle ortalıkta gezdirmemelisin."
+    },
+    {
+      "id": "c322be74",
+      "bank_id": "0013ab00",
+      "text": "Ne gösteriş meraklısı şey."
+    },
+    {
+      "id": "c322be75",
+      "bank_id": "0013ab00",
+      "text": "Kötü birisin sen, kesinlikle."
+    },
+    {
+      "id": "c399fab8",
+      "bank_id": "0013ab00",
+      "text": "Böyle öpmeyi nereden öğrendin?"
+    },
+    {
+      "id": "c399faba",
+      "bank_id": "0013ab00",
+      "text": "Mmm, çikolatadan bile tatlı."
+    },
+    {
+      "id": "c399fabb",
+      "bank_id": "0013ab00",
+      "text": "Ah, çok güzeldi!"
+    },
+    {
+      "id": "c399fabc",
+      "bank_id": "0013ab00",
+      "text": "Bu senin ilk öpücüğün değil, değil mi?"
+    },
+    {
+      "id": "c399fabd",
+      "bank_id": "0013ab00",
+      "text": "Harika dudakların var."
+    },
+    {
+      "id": "c399fabe",
+      "bank_id": "0013ab00",
+      "text": "Öpücüğünle ruhuma dokundun."
+    },
+    {
+      "id": "c399fabf",
+      "bank_id": "0013ab00",
+      "text": "Sanki dudaklarımı çilekler ve kadifeler okşamış gibi."
+    },
+    {
+      "id": "c46d235f",
+      "bank_id": "0013ab00",
+      "text": "Büyünün havalı bir şey olması gerekmiyor muydu yahu!"
+    },
+    {
+      "id": "c89a0259",
+      "bank_id": "0013ab00",
+      "text": "Böyle öpmeyi nereden öğrendin?"
+    },
+    {
+      "id": "c89a025a",
+      "bank_id": "0013ab00",
+      "text": "Çok iyi öpüşüyorsun."
+    },
+    {
+      "id": "c89a025b",
+      "bank_id": "0013ab00",
+      "text": "Mmm, çikolatadan bile güzel."
+    },
+    {
+      "id": "c89a025c",
+      "bank_id": "0013ab00",
+      "text": "Harika dudakların var."
+    },
+    {
+      "id": "c89a025d",
+      "bank_id": "0013ab00",
+      "text": "Bu senin ilk öpücüğün değil, değil mi?"
+    },
+    {
+      "id": "c89a025e",
+      "bank_id": "0013ab00",
+      "text": "Sanki dudaklarımı çilekler ve kadifeler okşamış gibi."
+    },
+    {
+      "id": "c89a025f",
+      "bank_id": "0013ab00",
+      "text": "Öpücüğünle ruhuma dokundun."
+    },
+    {
+      "id": "ce6be812",
+      "bank_id": "0013ab00",
+      "text": "İşte ben buna büyü derim."
+    },
+    {
+      "id": "ce6be813",
+      "bank_id": "0013ab00",
+      "text": "Ben de iskambil numaramı iyi sanırdım..."
+    },
+    {
+      "id": "ce6be814",
+      "bank_id": "0013ab00",
+      "text": "İnanılmaz bir şey! Nasıl yapıyorsun bunu?"
+    },
+    {
+      "id": "ce6be815",
+      "bank_id": "0013ab00",
+      "text": "Kahramanlar hakkındaki o eski hikâyeler gibi! İnanılmaz."
+    },
+    {
+      "id": "ce6be817",
+      "bank_id": "0013ab00",
+      "text": "Bu... Bu inanılır gibi değil."
+    },
+    {
+      "id": "d56bf318",
+      "bank_id": "0013ab00",
+      "text": "Büyü bu! Gerçek büyü! Vay canına!"
+    },
+    {
+      "id": "d56bf319",
+      "bank_id": "0013ab00",
+      "text": "Bunu yaptığına inanamıyorum!"
+    },
+    {
+      "id": "d56bf31a",
+      "bank_id": "0013ab00",
+      "text": "Nasıl?! Nasıl yapıyorsun bunu?!"
+    },
+    {
+      "id": "d56bf31e",
+      "bank_id": "0013ab00",
+      "text": "Böyle bir şeyi hiç görmemiştim!"
+    },
+    {
+      "id": "d56bf31f",
+      "bank_id": "0013ab00",
+      "text": "Gözbağcılık değil bu! Hakikisi ta kendisi!"
+    },
+    {
+      "id": "d97ba219",
+      "bank_id": "0013ab00",
+      "text": "Birinin midesi patladı galiba."
+    },
+    {
+      "id": "d97ba21e",
+      "bank_id": "0013ab00",
+      "text": "Havadaki bu koku da ne böyle?"
+    },
+    {
+      "id": "d9827640",
+      "bank_id": "0013ab00",
+      "text": "Kelimenin tam anlamıyla iç bulandırıcı!"
+    },
+    {
+      "id": "d9827641",
+      "bank_id": "0013ab00",
+      "text": "Kokusu... Gerçekten iğrenç."
+    },
+    {
+      "id": "d9827643",
+      "bank_id": "0013ab00",
+      "text": "Öğğk. Öğüresim geliyor."
+    },
+    {
+      "id": "d9827646",
+      "bank_id": "0013ab00",
+      "text": "İçkiyi kaldıramıyorsun galiba ha?"
+    },
+    {
+      "id": "d9827647",
+      "bank_id": "0013ab00",
+      "text": "Tam bir acemi işi."
+    },
+    {
+      "id": "e0828142",
+      "bank_id": "0013ab00",
+      "text": "Midem fena halde bulanıyor şimdi..."
+    },
+    {
+      "id": "e0828143",
+      "bank_id": "0013ab00",
+      "text": "İçinde tutsana şunu!"
+    },
+    {
+      "id": "e0828144",
+      "bank_id": "0013ab00",
+      "text": "Korkunç."
+    },
+    {
+      "id": "e0828145",
+      "bank_id": "0013ab00",
+      "text": "Ne kadar iğrenç!!"
+    },
+    {
+      "id": "e0828146",
+      "bank_id": "0013ab00",
+      "text": "Çok berbat!"
+    },
+    {
+      "id": "e47bb349",
+      "bank_id": "0013ab00",
+      "text": "Gaz alarmı!"
+    },
+    {
+      "id": "e47bb34c",
+      "bank_id": "0013ab00",
+      "text": "Bu koku çok tanıdık geldi."
+    },
+    {
+      "id": "ea406a50",
+      "bank_id": "0013ab00",
+      "text": "Demek düşmanlarını böyle yeniyorsun."
+    },
+    {
+      "id": "ea406a51",
+      "bank_id": "0013ab00",
+      "text": "Başka bir yerde talim yapamaz mısın?"
+    },
+    {
+      "id": "ea406a52",
+      "bank_id": "0013ab00",
+      "text": "Fiyakalı hareketlerin var."
+    },
+    {
+      "id": "ea406a56",
+      "bank_id": "0013ab00",
+      "text": "Düşmanın değilim ben senin."
+    },
+    {
+      "id": "ea406a57",
+      "bank_id": "0013ab00",
+      "text": "Bunu biraz da canavarların üzerinde denemeye ne dersin?"
+    },
+    {
+      "id": "f34078ba",
+      "bank_id": "0013ab00",
+      "text": "O bir oyuncak değil."
+    },
+    {
+      "id": "f34078bb",
+      "bank_id": "0013ab00",
+      "text": "Tamamen yanlış yapıyorsun."
+    },
+    {
+      "id": "f34078bc",
+      "bank_id": "0013ab00",
+      "text": "Boş boş uğraşmayı kes artık."
+    },
+    {
+      "id": "f34078bd",
+      "bank_id": "0013ab00",
+      "text": "Böyle oyunlar oynamak için fazla yaşlı değil misin?"
+    },
+    {
+      "id": "f34078bf",
+      "bank_id": "0013ab00",
+      "text": "Canımı öyle yakmayacağını biliyorum ama yine de sinir bozucu."
+    },
+    {
+      "id": "ff2f1a40",
+      "bank_id": "0013ab00",
+      "text": "O silah savaşın her türlüsünü görmüştür herhalde."
+    },
+    {
+      "id": "ff2f1a41",
+      "bank_id": "0013ab00",
+      "text": "Onunla kaç haydut öldürdün bakalım?"
+    },
+    {
+      "id": "ff2f1a43",
+      "bank_id": "0013ab00",
+      "text": "Bayağı ağır görünüyor. Öyle mi?"
+    },
+    {
+      "id": "ff2f1a46",
+      "bank_id": "0013ab00",
+      "text": "Aynı silahtan evde bende de var."
+    },
+    {
+      "id": "ff2f1a47",
+      "bank_id": "0013ab00",
+      "text": "Üzerindeki o kan kime ait?"
+    }
+  ]
+}

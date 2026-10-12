@@ -1,0 +1,936 @@
+{
+  "bank_id": "d00fab00",
+  "total_strings": 186,
+  "strings": [
+    {
+      "id": "025b13e8",
+      "bank_id": "d00fab00",
+      "text": "Bunu sen yaptın!"
+    },
+    {
+      "id": "025b13ea",
+      "bank_id": "d00fab00",
+      "text": "Bunu sen yaptın!"
+    },
+    {
+      "id": "025b13eb",
+      "bank_id": "d00fab00",
+      "text": "Sendin o!"
+    },
+    {
+      "id": "025b13ec",
+      "bank_id": "d00fab00",
+      "text": "Nasıl yapabildin?!"
+    },
+    {
+      "id": "025b13ed",
+      "bank_id": "d00fab00",
+      "text": "Sen yaptın!"
+    },
+    {
+      "id": "025b13ee",
+      "bank_id": "d00fab00",
+      "text": "Nasıl yapabildin?!"
+    },
+    {
+      "id": "025b13ef",
+      "bank_id": "d00fab00",
+      "text": "Sen! Sendin o!"
+    },
+    {
+      "id": "05422e41",
+      "bank_id": "d00fab00",
+      "text": "Teslimat!"
+    },
+    {
+      "id": "05422e42",
+      "bank_id": "d00fab00",
+      "text": "Bir teslimatım var!"
+    },
+    {
+      "id": "05422e43",
+      "bank_id": "d00fab00",
+      "text": "Teslimat!"
+    },
+    {
+      "id": "05422e44",
+      "bank_id": "d00fab00",
+      "text": "Teslimatını getirdim!"
+    },
+    {
+      "id": "05422e45",
+      "bank_id": "d00fab00",
+      "text": "Teslimat!"
+    },
+    {
+      "id": "075b1b89",
+      "bank_id": "d00fab00",
+      "text": "Sendin o!"
+    },
+    {
+      "id": "075b1b8a",
+      "bank_id": "d00fab00",
+      "text": "Sen! Sen yaptın!"
+    },
+    {
+      "id": "075b1b8b",
+      "bank_id": "d00fab00",
+      "text": "Sendin o!"
+    },
+    {
+      "id": "075b1b8c",
+      "bank_id": "d00fab00",
+      "text": "Sen! Sen yaptın!"
+    },
+    {
+      "id": "075b1b8d",
+      "bank_id": "d00fab00",
+      "text": "Sendin o!"
+    },
+    {
+      "id": "075b1b8e",
+      "bank_id": "d00fab00",
+      "text": "Nasıl yapabildin?!"
+    },
+    {
+      "id": "075b1b8f",
+      "bank_id": "d00fab00",
+      "text": "Sen yaptın!"
+    },
+    {
+      "id": "3bab0868",
+      "bank_id": "d00fab00",
+      "text": "Bil bakalım ne oldu? Fırında ekmeğin var!"
+    },
+    {
+      "id": "3bab0869",
+      "bank_id": "d00fab00",
+      "text": "Evet, beni tam anlamıyla hamile bıraktın."
+    },
+    {
+      "id": "3bab086a",
+      "bank_id": "d00fab00",
+      "text": "Bir haberim var. Çocuğunu bekliyorum!"
+    },
+    {
+      "id": "3bab086b",
+      "bank_id": "d00fab00",
+      "text": "Canım, bebek bekliyorum!"
+    },
+    {
+      "id": "3bab086d",
+      "bank_id": "d00fab00",
+      "text": "Buna inanmayacaksın... Hamileyim!"
+    },
+    {
+      "id": "3bab086e",
+      "bank_id": "d00fab00",
+      "text": "A, sanırım bir bebeğimiz olacak!"
+    },
+    {
+      "id": "3bab086f",
+      "bank_id": "d00fab00",
+      "text": "Tebrikler, başardın. Hamileyim."
+    },
+    {
+      "id": "46ab1998",
+      "bank_id": "d00fab00",
+      "text": "Bizim de minik bir trolümüz mü olacak? Damızlık mıyım neyim be?!"
+    },
+    {
+      "id": "46ab1999",
+      "bank_id": "d00fab00",
+      "text": "Bebek mi? Nasıl oldu bu?"
+    },
+    {
+      "id": "46ab199a",
+      "bank_id": "d00fab00",
+      "text": "Hamile misin?! Bu harika!"
+    },
+    {
+      "id": "46ab199b",
+      "bank_id": "d00fab00",
+      "text": "Baba mı oluyorum? Diyecek söz bulamıyorum!"
+    },
+    {
+      "id": "46ab199c",
+      "bank_id": "d00fab00",
+      "text": "Vay canına, baba oluyorum!"
+    },
+    {
+      "id": "46ab199e",
+      "bank_id": "d00fab00",
+      "text": "Vay canına! Karnının büyüklüğüne bak! Anne baba oluyoruz!"
+    },
+    {
+      "id": "46ab199f",
+      "bank_id": "d00fab00",
+      "text": "Baba mı oluyorum? Bu muhteşem!"
+    },
+    {
+      "id": "51957f40",
+      "bank_id": "d00fab00",
+      "text": "Teslimatınızı getirdim!"
+    },
+    {
+      "id": "51957f41",
+      "bank_id": "d00fab00",
+      "text": "Burada bir teslimatım var!"
+    },
+    {
+      "id": "51957f42",
+      "bank_id": "d00fab00",
+      "text": "Size bir teslimat var!"
+    },
+    {
+      "id": "51957f46",
+      "bank_id": "d00fab00",
+      "text": "Teslimat geldi."
+    },
+    {
+      "id": "51957f47",
+      "bank_id": "d00fab00",
+      "text": "Bir teslimat var."
+    },
+    {
+      "id": "535fe356",
+      "bank_id": "d00fab00",
+      "text": "Evlenmek istiyor musunuz?"
+    },
+    {
+      "id": "56804c83",
+      "bank_id": "d00fab00",
+      "text": "Harika ebeveynler olacağımıza eminim."
+    },
+    {
+      "id": "56804c84",
+      "bank_id": "d00fab00",
+      "text": "Sonunda bütün bildiklerimi öğretebileceğim bir ufaklık geliyor."
+    },
+    {
+      "id": "56804c85",
+      "bank_id": "d00fab00",
+      "text": "Bunu kutlamak için kafayı çekmem lazım!"
+    },
+    {
+      "id": "56804c86",
+      "bank_id": "d00fab00",
+      "text": "Tohumumu en muhteşem toprağa ektim. Meyvesinin de en az onun kadar muhteşem olacağına eminim."
+    },
+    {
+      "id": "56804c87",
+      "bank_id": "d00fab00",
+      "text": "Ah benim kudretli tohumum! Şükürler olsun sana!"
+    },
+    {
+      "id": "616f8988",
+      "bank_id": "d00fab00",
+      "text": "Şöyle samanda hızlı bir tur atsak ne dersin, he?"
+    },
+    {
+      "id": "616f8989",
+      "bank_id": "d00fab00",
+      "text": "Neden biraz eğlenebileceğimiz bir yerler bulmuyoruz?"
+    },
+    {
+      "id": "616f898a",
+      "bank_id": "d00fab00",
+      "text": "Dün gece bayağı müstehcen bir roman okuyordum. Belki 16. bölümü canlandırabiliriz?"
+    },
+    {
+      "id": "616f898b",
+      "bank_id": "d00fab00",
+      "text": "Bunun biraz patavatsızca olduğunu biliyorum ama saf zevki tatmak ister miydin?"
+    },
+    {
+      "id": "616f898d",
+      "bank_id": "d00fab00",
+      "text": "Neden baş başa kalabileceğimiz bir yer bulup... birbirimizi daha yakından tanımıyoruz?"
+    },
+    {
+      "id": "616f898e",
+      "bank_id": "d00fab00",
+      "text": "Baş başa kalabileceğimiz bir yer bulalım. Sana gösterecek bir şeyim var."
+    },
+    {
+      "id": "616f898f",
+      "bank_id": "d00fab00",
+      "text": "Sessiz bir yer bulup biraz eğlensek nasıl olur?"
+    },
+    {
+      "id": "655676c0",
+      "bank_id": "d00fab00",
+      "text": "Tamam affettim ama rahat bırak beni."
+    },
+    {
+      "id": "655676c1",
+      "bank_id": "d00fab00",
+      "text": "Bir daha yapmazsın artık, değil mi."
+    },
+    {
+      "id": "655676c2",
+      "bank_id": "d00fab00",
+      "text": "Kabul ediyorum ama bir daha tekrarlanmasın."
+    },
+    {
+      "id": "655676c5",
+      "bank_id": "d00fab00",
+      "text": "Tamam ama bir daha yapma sakın."
+    },
+    {
+      "id": "655676c6",
+      "bank_id": "d00fab00",
+      "text": "Aman, iyi peki ama bir dahaki sefere muhafızları çağırırım."
+    },
+    {
+      "id": "655676c7",
+      "bank_id": "d00fab00",
+      "text": "Son sefer olduğu sürece sorun yok."
+    },
+    {
+      "id": "69b2dc78",
+      "bank_id": "d00fab00",
+      "text": "Biliyor musun? Aşk havasındayım."
+    },
+    {
+      "id": "69b2dc7a",
+      "bank_id": "d00fab00",
+      "text": "Bugün yatağa biraz erken gitsek ne dersin? Ne demek istediğimi anladın sen..."
+    },
+    {
+      "id": "69b2dc7b",
+      "bank_id": "d00fab00",
+      "text": "Az önce biraz deniz ürünü yedim... Bunun ne anlama geldiğini biliyorsun, değil mi? Hadi bir yatak bulalım."
+    },
+    {
+      "id": "69b2dc7c",
+      "bank_id": "d00fab00",
+      "text": "Ne güzel olurdu biliyor musun? Şöyle samanlıkta güzel bir kaçamak. Hiç samanımız var mı?"
+    },
+    {
+      "id": "69b2dc7d",
+      "bank_id": "d00fab00",
+      "text": "Elimde değil, karşı konulmazsın. Hadi biraz eğlenelim!"
+    },
+    {
+      "id": "69b2dc7e",
+      "bank_id": "d00fab00",
+      "text": "Dünyanın en doğal eylemini gerçekleştirelim. Üreme eylemini."
+    },
+    {
+      "id": "69b2dc7f",
+      "bank_id": "d00fab00",
+      "text": "İçimde hafif bir şehvet kıpırtısı var..."
+    },
+    {
+      "id": "6c6f9b38",
+      "bank_id": "d00fab00",
+      "text": "Hadi ama, ne dersin hani... bilirsin ya..."
+    },
+    {
+      "id": "6c6f9b39",
+      "bank_id": "d00fab00",
+      "text": "Seni hiç bu kadar çok istememiştim!"
+    },
+    {
+      "id": "6c6f9b3a",
+      "bank_id": "d00fab00",
+      "text": "Aşkın o güzel dansını etmek için can atıyorum. Ne dersin?"
+    },
+    {
+      "id": "6c6f9b3b",
+      "bank_id": "d00fab00",
+      "text": "Yatakta birlikte vakit geçirmenin sağlığa yararlı olduğunu okumuştum."
+    },
+    {
+      "id": "6c6f9b3c",
+      "bank_id": "d00fab00",
+      "text": "Bu ilişkiyi bir üst seviyeye taşısak ne dersin, he?"
+    },
+    {
+      "id": "6c6f9b3e",
+      "bank_id": "d00fab00",
+      "text": "\"Samanlıkta yuvarlanmak\" sözü sana bir şey ifade ediyor mu? Hı hıı."
+    },
+    {
+      "id": "6c6f9b3f",
+      "bank_id": "d00fab00",
+      "text": "Bence aşkımızın... bedensel bir boyut kazanmasına hazırız. Sen de öyle düşünmüyor musun?"
+    },
+    {
+      "id": "6d26c242",
+      "bank_id": "d00fab00",
+      "text": "Sen! Sendin o!"
+    },
+    {
+      "id": "6d26c243",
+      "bank_id": "d00fab00",
+      "text": "Hepimiz onun sen olduğunu biliyoruz!"
+    },
+    {
+      "id": "6d26c244",
+      "bank_id": "d00fab00",
+      "text": "Suçlu sensin!"
+    },
+    {
+      "id": "6d26c245",
+      "bank_id": "d00fab00",
+      "text": "Sen olduğunu biliyorum!"
+    },
+    {
+      "id": "6d26c247",
+      "bank_id": "d00fab00",
+      "text": "Sen yaptın!"
+    },
+    {
+      "id": "6eb2e419",
+      "bank_id": "d00fab00",
+      "text": "Biliyor musun? Biraz aşk havasındayım."
+    },
+    {
+      "id": "6eb2e41a",
+      "bank_id": "d00fab00",
+      "text": "Az önce biraz deniz ürünü yedim... Bunun ne anlama geldiğini biliyorsun, değil mi? Hadi bir yatak bulalım."
+    },
+    {
+      "id": "6eb2e41b",
+      "bank_id": "d00fab00",
+      "text": "Bugün yatağa erken gitsek ne dersin? Ne demek istediğimi anladın sen..."
+    },
+    {
+      "id": "6eb2e41c",
+      "bank_id": "d00fab00",
+      "text": "Elimde değil, karşı konulmazsın. Hadi biraz eğlenelim!"
+    },
+    {
+      "id": "6eb2e41d",
+      "bank_id": "d00fab00",
+      "text": "Ne güzel olurdu biliyor musun? Samanlıkta tatlı bir kaçamak. Hiç samanımız var mı?"
+    },
+    {
+      "id": "6eb2e41e",
+      "bank_id": "d00fab00",
+      "text": "İçimde bir aşk kıpırtısı var..."
+    },
+    {
+      "id": "6eb2e41f",
+      "bank_id": "d00fab00",
+      "text": "Dünyanın en doğal eylemini gerçekleştirelim. Üreme eylemini."
+    },
+    {
+      "id": "7426cd48",
+      "bank_id": "d00fab00",
+      "text": "Yaptığın şey çok yanlıştı!"
+    },
+    {
+      "id": "7426cd49",
+      "bank_id": "d00fab00",
+      "text": "Suçlu sensin!"
+    },
+    {
+      "id": "7426cd4a",
+      "bank_id": "d00fab00",
+      "text": "Bunu nasıl yapabildin?"
+    },
+    {
+      "id": "7426cd4e",
+      "bank_id": "d00fab00",
+      "text": "Sen yaptın!"
+    },
+    {
+      "id": "7426cd4f",
+      "bank_id": "d00fab00",
+      "text": "Utanmalısın kendinden."
+    },
+    {
+      "id": "798861d0",
+      "bank_id": "d00fab00",
+      "text": "Böyle bir kötülük görmedim ben. Şimdi ne yapacağım ben peki?!"
+    },
+    {
+      "id": "798861d1",
+      "bank_id": "d00fab00",
+      "text": "Şaka yapıyorsun herhalde?! Hayatımda hiç bu kadar hakarete uğramamıştım!"
+    },
+    {
+      "id": "798861d2",
+      "bank_id": "d00fab00",
+      "text": "Ne? Onca şeyden sonra mı?"
+    },
+    {
+      "id": "798861d3",
+      "bank_id": "d00fab00",
+      "text": "Seni pis, hobbe kılıklı cilve kumkuması!"
+    },
+    {
+      "id": "798861d4",
+      "bank_id": "d00fab00",
+      "text": "Ne?! Bunu unutmayacağım!"
+    },
+    {
+      "id": "798861d5",
+      "bank_id": "d00fab00",
+      "text": "Ha?! Bu düpedüz zalimlik. Her şeyimle hazırdım ben ya!"
+    },
+    {
+      "id": "798861d7",
+      "bank_id": "d00fab00",
+      "text": "İnanamıyorum! Cilveli bir yalancıdan başka bir şey değilsin!"
+    },
+    {
+      "id": "7d995541",
+      "bank_id": "d00fab00",
+      "text": "Bir ev bulmalıyız sevgilim. O zaman evlenebiliriz."
+    },
+    {
+      "id": "7d995542",
+      "bank_id": "d00fab00",
+      "text": "Keşke bir evimiz olsaydı, o zaman evlenebilirdik."
+    },
+    {
+      "id": "7d995543",
+      "bank_id": "d00fab00",
+      "text": "Evleneceksek yaşayacak bir yerler bulsak iyi olur."
+    },
+    {
+      "id": "7d995544",
+      "bank_id": "d00fab00",
+      "text": "Ne harika olurdu biliyor musun? Yaşayacak bir yer!"
+    },
+    {
+      "id": "7d995545",
+      "bank_id": "d00fab00",
+      "text": "Biliyor musun, bir evimiz olsaydı evlenebilirdik bile..."
+    },
+    {
+      "id": "7d995546",
+      "bank_id": "d00fab00",
+      "text": "Uygun bir evimiz olmadan evlenmemiz mümkün değil."
+    },
+    {
+      "id": "7d995547",
+      "bank_id": "d00fab00",
+      "text": "Belki güzel bir evimiz olsaydı evlenebilirdik."
+    },
+    {
+      "id": "801428b8",
+      "bank_id": "d00fab00",
+      "text": "Ne?! Beni bu şekilde peşinden sürüklemeye nasıl cüret edersin?"
+    },
+    {
+      "id": "801428ba",
+      "bank_id": "d00fab00",
+      "text": "Aman neyse, en azından bir daha numara yapmak zorunda kalmayacağım."
+    },
+    {
+      "id": "801428bb",
+      "bank_id": "d00fab00",
+      "text": "Peh! Zaten sana sadece acıdığım için yapıyordum."
+    },
+    {
+      "id": "801428bc",
+      "bank_id": "d00fab00",
+      "text": "Ne? Sen kaybedersin seni hobbe kılıklı ahmak."
+    },
+    {
+      "id": "801428bd",
+      "bank_id": "d00fab00",
+      "text": "Uff! Zaten numara yapacaktım."
+    },
+    {
+      "id": "801428be",
+      "bank_id": "d00fab00",
+      "text": "Bunu bana yapmaya nasıl cüret edersin! Hıh!"
+    },
+    {
+      "id": "801428bf",
+      "bank_id": "d00fab00",
+      "text": "Seni kırbaçlatmam gerekirdi!"
+    },
+    {
+      "id": "80886cd8",
+      "bank_id": "d00fab00",
+      "text": "Aman neyse, en azından bir daha numara yapmak zorunda kalmayacağım."
+    },
+    {
+      "id": "80886cd9",
+      "bank_id": "d00fab00",
+      "text": "Peh! Zaten sana sadece acıdığım için yapıyordum."
+    },
+    {
+      "id": "80886cda",
+      "bank_id": "d00fab00",
+      "text": "Ne?! Beni bu şekilde peşinden sürüklemeye nasıl cüret edersin?"
+    },
+    {
+      "id": "80886cdc",
+      "bank_id": "d00fab00",
+      "text": "Bunu bana yapmaya nasıl cüret edersin! Hıh!"
+    },
+    {
+      "id": "80886cdd",
+      "bank_id": "d00fab00",
+      "text": "Ay, sizin cinsinizin hepsi aynı!"
+    },
+    {
+      "id": "80886cde",
+      "bank_id": "d00fab00",
+      "text": "Ne?! Sen kaybedersin!"
+    },
+    {
+      "id": "80886cdf",
+      "bank_id": "d00fab00",
+      "text": "Pfff! Zaten numara yapacaktım."
+    },
+    {
+      "id": "85143059",
+      "bank_id": "d00fab00",
+      "text": "İnanamıyorum! Cilveli bir yalancıdan başka bir şey değilsin!"
+    },
+    {
+      "id": "8514305a",
+      "bank_id": "d00fab00",
+      "text": "Ne?! Gidip içine atlayacak soğuk bir göl bulsam iyi olacak o zaman."
+    },
+    {
+      "id": "8514305b",
+      "bank_id": "d00fab00",
+      "text": "Ha?! Bu düpedüz zalimlik. Her şeyimle hazırdım ben ya!"
+    },
+    {
+      "id": "8514305c",
+      "bank_id": "d00fab00",
+      "text": "Ne?! Onca şeyden sonra ha! Seni cadı! Seni yelloz!"
+    },
+    {
+      "id": "8514305d",
+      "bank_id": "d00fab00",
+      "text": "Seni pis, hobbe kılıklı cilve kumkuması!"
+    },
+    {
+      "id": "8514305e",
+      "bank_id": "d00fab00",
+      "text": "Böyle bir kötülük görmedim ben. Şimdi ne yapacağım ben peki?!"
+    },
+    {
+      "id": "8514305f",
+      "bank_id": "d00fab00",
+      "text": "Şaka yapıyorsun herhalde?! Pantolonumun içine yine buz küpleri koyma vakti geldi..."
+    },
+    {
+      "id": "87738e44",
+      "bank_id": "d00fab00",
+      "text": "Hımm, tamam, affettim seni."
+    },
+    {
+      "id": "889966f0",
+      "bank_id": "d00fab00",
+      "text": "Hadi bir ev seçelim canım. Bir düğün istiyorsun, değil mi?"
+    },
+    {
+      "id": "889966f2",
+      "bank_id": "d00fab00",
+      "text": "Dünyaevine girmeden önce başımızı sokacak bir çatıya ihtiyacımız olacak."
+    },
+    {
+      "id": "889966f3",
+      "bank_id": "d00fab00",
+      "text": "Evleneceksek gerçekten yaşayacak bir ev bulmamız lazım."
+    },
+    {
+      "id": "889966f4",
+      "bank_id": "d00fab00",
+      "text": "Hadi bir ev bulalım, olur mu? Sonra gelsin düğün dernek!"
+    },
+    {
+      "id": "889966f5",
+      "bank_id": "d00fab00",
+      "text": "Yaşayacak bir yer bulsak ne dersin? O zaman evlenebilirdik."
+    },
+    {
+      "id": "889966f6",
+      "bank_id": "d00fab00",
+      "text": "Evleneceksek bir eve ihtiyacımız olacak."
+    },
+    {
+      "id": "889966f7",
+      "bank_id": "d00fab00",
+      "text": "Güzel bir ev bulup bir düğün tarihi belirleyelim mi?"
+    },
+    {
+      "id": "8c739665",
+      "bank_id": "d00fab00",
+      "text": "Sanırım bu seferlik seni affedebilirim."
+    },
+    {
+      "id": "95f6e1ea",
+      "bank_id": "d00fab00",
+      "text": "Hadi ama bebeğim!"
+    },
+    {
+      "id": "95f6e1eb",
+      "bank_id": "d00fab00",
+      "text": "Hey-- cennete bir yolculuğa ne dersin?"
+    },
+    {
+      "id": "95f6e1ec",
+      "bank_id": "d00fab00",
+      "text": "Sana yakınlaşmak istiyorum. Çok yakınlaşmak."
+    },
+    {
+      "id": "95f6e1ed",
+      "bank_id": "d00fab00",
+      "text": "Seni istiyorum! Hem de hemen şimdi!"
+    },
+    {
+      "id": "95f6e1ee",
+      "bank_id": "d00fab00",
+      "text": "Hadi gidip biraz eğlenelim."
+    },
+    {
+      "id": "9ef6f038",
+      "bank_id": "d00fab00",
+      "text": "Seni istiyorum! Hem de hemen şimdi!"
+    },
+    {
+      "id": "9ef6f039",
+      "bank_id": "d00fab00",
+      "text": "Sana yakınlaşmak istiyorum. Çok yakınlaşmak."
+    },
+    {
+      "id": "9ef6f03b",
+      "bank_id": "d00fab00",
+      "text": "Hadi gidip biraz eğlenelim."
+    },
+    {
+      "id": "9ef6f03e",
+      "bank_id": "d00fab00",
+      "text": "Cennete bir yolculuğa ne dersin?"
+    },
+    {
+      "id": "9ef6f03f",
+      "bank_id": "d00fab00",
+      "text": "Hadi ama bebeğim!"
+    },
+    {
+      "id": "b06dbee0",
+      "bank_id": "d00fab00",
+      "text": "Aman, tamam, sadece bu seferlik öyleyse."
+    },
+    {
+      "id": "b06dbee1",
+      "bank_id": "d00fab00",
+      "text": "Hımm, tamam, affedildin."
+    },
+    {
+      "id": "b06dbee3",
+      "bank_id": "d00fab00",
+      "text": "Özür dilemelisin zaten! Ama bu seferlik görmezden geleceğim."
+    },
+    {
+      "id": "b06dbee4",
+      "bank_id": "d00fab00",
+      "text": "Gerçekten pişmansan kabul ediyorum."
+    },
+    {
+      "id": "b06dbee5",
+      "bank_id": "d00fab00",
+      "text": "Çok güzel. Gerçekten üzgünsen tabii."
+    },
+    {
+      "id": "b06dbee6",
+      "bank_id": "d00fab00",
+      "text": "Bu seferlik seni bağışlıyorum."
+    },
+    {
+      "id": "b06dbee7",
+      "bank_id": "d00fab00",
+      "text": "Evet, evet, pekala."
+    },
+    {
+      "id": "b76dc9e0",
+      "bank_id": "d00fab00",
+      "text": "Ah, seni affediyorum. Ama bir daha asla."
+    },
+    {
+      "id": "b76dc9e1",
+      "bank_id": "d00fab00",
+      "text": "Pekala, sadece bu seferlik."
+    },
+    {
+      "id": "b76dc9e2",
+      "bank_id": "d00fab00",
+      "text": "Pöh. Bir daha yapma yeter."
+    },
+    {
+      "id": "b76dc9e3",
+      "bank_id": "d00fab00",
+      "text": "Aman... iyi peki öyleyse."
+    },
+    {
+      "id": "b76dc9e4",
+      "bank_id": "d00fab00",
+      "text": "Hımm, gerçekten üzgünsen pekala."
+    },
+    {
+      "id": "b76dc9e5",
+      "bank_id": "d00fab00",
+      "text": "Keyfim yerinde olduğuna dua et. Tamam öyleyse."
+    },
+    {
+      "id": "b76dc9e6",
+      "bank_id": "d00fab00",
+      "text": "Neden affetmem gerektiğini anlamıyorum. Ama tamam."
+    },
+    {
+      "id": "cf42c2a0",
+      "bank_id": "d00fab00",
+      "text": "Hadi bir ev bulalım, olur mu? Sonra gelsin düğün dernek!"
+    },
+    {
+      "id": "cf42c2a1",
+      "bank_id": "d00fab00",
+      "text": "Yaşayacak bir yer bulsak ne dersin? O zaman evlenebilirdik."
+    },
+    {
+      "id": "cf42c2a2",
+      "bank_id": "d00fab00",
+      "text": "Evleneceksek bir eve ihtiyacımız olacak."
+    },
+    {
+      "id": "cf42c2a3",
+      "bank_id": "d00fab00",
+      "text": "Güzel bir ev bulup bir düğün tarihi belirleyelim mi?"
+    },
+    {
+      "id": "cf42c2a4",
+      "bank_id": "d00fab00",
+      "text": "Hadi bir ev seçelim canım. Bir düğün istiyorsun, değil mi?"
+    },
+    {
+      "id": "cf42c2a6",
+      "bank_id": "d00fab00",
+      "text": "Dünyaevine girmeden önce başımızı sokacak bir çatıya ihtiyacımız olacak."
+    },
+    {
+      "id": "cf42c2a7",
+      "bank_id": "d00fab00",
+      "text": "Evleneceksek gerçekten yaşayacak bir ev bulmamız lazım."
+    },
+    {
+      "id": "d442ca40",
+      "bank_id": "d00fab00",
+      "text": "Ne harika olurdu biliyor musun? Yaşayacak bir yer!"
+    },
+    {
+      "id": "d442ca41",
+      "bank_id": "d00fab00",
+      "text": "Biliyor musun, bir evimiz olsaydı evlenebilirdik bile..."
+    },
+    {
+      "id": "d442ca42",
+      "bank_id": "d00fab00",
+      "text": "Yeterli bir evimiz olmadan evlenmemiz asla mümkün değil."
+    },
+    {
+      "id": "d442ca43",
+      "bank_id": "d00fab00",
+      "text": "Belki güzel bir evimiz olsaydı evlenebilirdik."
+    },
+    {
+      "id": "d442ca45",
+      "bank_id": "d00fab00",
+      "text": "Bir ev bulmalıyız sevgilim. O zaman evlenebiliriz."
+    },
+    {
+      "id": "d442ca46",
+      "bank_id": "d00fab00",
+      "text": "Keşke bir evimiz olsaydı, o zaman evlenebilirdik."
+    },
+    {
+      "id": "d442ca47",
+      "bank_id": "d00fab00",
+      "text": "Evleneceksek yaşayacak bir yerler bulsak iyi olur."
+    },
+    {
+      "id": "ddcb5b18",
+      "bank_id": "d00fab00",
+      "text": "Bu ilişkiyi bir üst seviyeye taşısak ne dersin, he?"
+    },
+    {
+      "id": "ddcb5b1a",
+      "bank_id": "d00fab00",
+      "text": "\"Samanlıkta yuvarlanmak\" sözü sana bir şey ifade ediyor mu? Hı hıı."
+    },
+    {
+      "id": "ddcb5b1b",
+      "bank_id": "d00fab00",
+      "text": "Bence aşkımızın... bedensel bir boyut kazanmasına hazırız. Sen de öyle düşünmüyor musun?"
+    },
+    {
+      "id": "ddcb5b1c",
+      "bank_id": "d00fab00",
+      "text": "Hey, hadi ama, ne dersin hani, şey, bilirsin ya..."
+    },
+    {
+      "id": "ddcb5b1d",
+      "bank_id": "d00fab00",
+      "text": "Seni hiç bu kadar çok istememiştim!"
+    },
+    {
+      "id": "ddcb5b1e",
+      "bank_id": "d00fab00",
+      "text": "Aşkın o güzel dansını etmek için can atıyorum. Ne dersin?"
+    },
+    {
+      "id": "ddcb5b1f",
+      "bank_id": "d00fab00",
+      "text": "Şey, yatakta birlikte vakit geçirmenin sağlığa yararlı olduğunu okumuştum."
+    },
+    {
+      "id": "deeee53e",
+      "bank_id": "d00fab00",
+      "text": "Sendin o!"
+    },
+    {
+      "id": "e2cb6339",
+      "bank_id": "d00fab00",
+      "text": "Neden baş başa kalabileceğimiz bir yer bulup... birbirimizi daha yakından tanımıyoruz?"
+    },
+    {
+      "id": "e2cb633a",
+      "bank_id": "d00fab00",
+      "text": "Baş başa kalabileceğimiz bir yer bulalım. Sana gösterecek bir şeyim var."
+    },
+    {
+      "id": "e2cb633b",
+      "bank_id": "d00fab00",
+      "text": "Sessiz bir yer bulup biraz eğlensek nasıl olur?"
+    },
+    {
+      "id": "e2cb633c",
+      "bank_id": "d00fab00",
+      "text": "Şöyle samanlıkta hızlı bir tur atsak ne dersin?"
+    },
+    {
+      "id": "e2cb633d",
+      "bank_id": "d00fab00",
+      "text": "Neden biraz eğlenebileceğimiz bir yerler bulmuyoruz?"
+    },
+    {
+      "id": "e2cb633e",
+      "bank_id": "d00fab00",
+      "text": "Dün gece bayağı müstehcen bir roman okuyordum. Belki 16. bölümü canlandırabiliriz?"
+    },
+    {
+      "id": "e2cb633f",
+      "bank_id": "d00fab00",
+      "text": "Bunun biraz patavatsızca olduğunu biliyorum ama saf zevki tatmak ister miydin?"
+    },
+    {
+      "id": "e7eef30b",
+      "bank_id": "d00fab00",
+      "text": "Sen yaptın!"
+    }
+  ]
+}

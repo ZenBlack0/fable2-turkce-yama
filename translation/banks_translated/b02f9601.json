@@ -1,0 +1,721 @@
+{
+  "bank_id": "b02f9601",
+  "total_strings": 143,
+  "strings": [
+    {
+      "id": "031854d0",
+      "bank_id": "b02f9601",
+      "text": "Ben de gençliğimde tavuk kovalardım. Ama sonra böyle çocukça şeyleri bıraktım."
+    },
+    {
+      "id": "031854d1",
+      "bank_id": "b02f9601",
+      "text": "Tavuk Kovalayan en aşağılıkların bile aşağılığıdır."
+    },
+    {
+      "id": "031854d2",
+      "bank_id": "b02f9601",
+      "text": "Bir şey kovalayacaksan tavuklardan çok daha iyi şeyler düşünebilirim."
+    },
+    {
+      "id": "031854d3",
+      "bank_id": "b02f9601",
+      "text": "Tavuk Kovalayan mı? İğrenç bir şey bu yahu."
+    },
+    {
+      "id": "031854d4",
+      "bank_id": "b02f9601",
+      "text": "Şu tavuklarla uğraşmayı pek seviyorsun, değil mi Tavuk Kovalayan?"
+    },
+    {
+      "id": "031854d5",
+      "bank_id": "b02f9601",
+      "text": "Tek kovaladığın tavuklar mı, yoksa başka kuşları da sever misin?"
+    },
+    {
+      "id": "031854d6",
+      "bank_id": "b02f9601",
+      "text": "Şu tavuklarla uğraşmayı sahiden pek seviyorsun, değil mi Tavuk Kovalayan?"
+    },
+    {
+      "id": "042d0f00",
+      "bank_id": "b02f9601",
+      "text": "Bize biraz numara yapacak mısın Sihirbaz?"
+    },
+    {
+      "id": "042d0f01",
+      "bank_id": "b02f9601",
+      "text": "Sihirbaz ha? Bayağı büyü biliyorsun, orası kesin."
+    },
+    {
+      "id": "042d0f02",
+      "bank_id": "b02f9601",
+      "text": "Senden öncekilerin pek azı gibi İrade'ye hükmeden gerçek bir Sihirbaz olduğunu duydum."
+    },
+    {
+      "id": "042d0f03",
+      "bank_id": "b02f9601",
+      "text": "Gizemli sanatların gerçek bir ustasısın sen, Sihirbaz."
+    },
+    {
+      "id": "042d0f04",
+      "bank_id": "b02f9601",
+      "text": "Bayağı büyü biliyorsun ha Sihirbaz."
+    },
+    {
+      "id": "042d0f06",
+      "bank_id": "b02f9601",
+      "text": "İrade'yi senin gibi kontrol etmek gerçek bir Sihirbaz olmayı gerektirir."
+    },
+    {
+      "id": "042d0f07",
+      "bank_id": "b02f9601",
+      "text": "Bahse girerim büyüde senin kadar iyi pek az insan vardır Sihirbaz."
+    },
+    {
+      "id": "05248728",
+      "bank_id": "b02f9601",
+      "text": "Tıpkı baban gibi gerçek bir maceracı olacaksın bahse girerim, değil mi benim küçük kahramanım?"
+    },
+    {
+      "id": "05248729",
+      "bank_id": "b02f9601",
+      "text": "Yaramazlık yaptığında babanın bundan hoşlanmadığını biliyorsun."
+    },
+    {
+      "id": "0524872b",
+      "bank_id": "b02f9601",
+      "text": "Baban gibi olmak istiyorsan bütün yeşilliklerini yemen gerek."
+    },
+    {
+      "id": "0524872e",
+      "bank_id": "b02f9601",
+      "text": "Şu dizlerine bak oğlum. Bu sefer nerede oynadın? Baban gibi bir maceracı değilsin biliyorsun."
+    },
+    {
+      "id": "0524872f",
+      "bank_id": "b02f9601",
+      "text": "Uslu bir çocuk olursan belki baban yolculuklarından sana güzel bir hediye getirir."
+    },
+    {
+      "id": "092d1720",
+      "bank_id": "b02f9601",
+      "text": "Hepimizi tavuğa çevirme sakın Sihirbaz! Ha ha."
+    },
+    {
+      "id": "092d1721",
+      "bank_id": "b02f9601",
+      "text": "Adın Sihirbaz demek? Evet, gayet yakışmış."
+    },
+    {
+      "id": "092d1722",
+      "bank_id": "b02f9601",
+      "text": "Selamlar Sihirbaz. Demek İrade kullanıcıları sokaklarda yeniden dolaşmaya başladı."
+    },
+    {
+      "id": "092d1723",
+      "bank_id": "b02f9601",
+      "text": "Büyük büyü gösterileri sergilemeye mi geldin Sihirbaz?"
+    },
+    {
+      "id": "092d1725",
+      "bank_id": "b02f9601",
+      "text": "Hey, sen şu Sihirbaz'sın değil mi? Ciddi büyüler yaptığını duydum."
+    },
+    {
+      "id": "092d1726",
+      "bank_id": "b02f9601",
+      "text": "Sihirbaz ha? Unvanın bundan daha uygun olamazdı."
+    },
+    {
+      "id": "092d1727",
+      "bank_id": "b02f9601",
+      "text": "Büyük bir büyücü olduğunu duydum Sihirbaz."
+    },
+    {
+      "id": "31e46060",
+      "bank_id": "b02f9601",
+      "text": "En sevdiğin silahın o mu Kılıç?"
+    },
+    {
+      "id": "31e46061",
+      "bank_id": "b02f9601",
+      "text": "Sana bu yüzden Kılıç diyorlar sanırım."
+    },
+    {
+      "id": "31e46062",
+      "bank_id": "b02f9601",
+      "text": "Kılıcını mı sergiliyorsun Kılıç?"
+    },
+    {
+      "id": "31e46064",
+      "bank_id": "b02f9601",
+      "text": "Kılıç olduğunu biliyorum ama silahlarla oynamak için en iyi an bu mu sence?"
+    },
+    {
+      "id": "31e46065",
+      "bank_id": "b02f9601",
+      "text": "Adı Kılıç olan birinden böyle bir silah sallaması beklenir zaten."
+    },
+    {
+      "id": "31e46066",
+      "bank_id": "b02f9601",
+      "text": "O şeyle doğramayı pek seviyorsun, değil mi Kılıç?"
+    },
+    {
+      "id": "31e46067",
+      "bank_id": "b02f9601",
+      "text": "Kılıç ha? Adının hakkını kesinlikle veriyorsun."
+    },
+    {
+      "id": "3ae46e48",
+      "bank_id": "b02f9601",
+      "text": "Lakabına bakılırsa o kılıçla tam bir usta olmalısın."
+    },
+    {
+      "id": "3ae46e49",
+      "bank_id": "b02f9601",
+      "text": "Silahını kınına sokacak biri olmadığını bilmeliydim Kılıç."
+    },
+    {
+      "id": "3ae46e4a",
+      "bank_id": "b02f9601",
+      "text": "Kılıç! Daha büyük bir kılıç bekliyordum. Hır hır."
+    },
+    {
+      "id": "3ae46e4b",
+      "bank_id": "b02f9601",
+      "text": "Adın Kılıç demek? Evet, gayet yakışmış."
+    },
+    {
+      "id": "3ae46e4c",
+      "bank_id": "b02f9601",
+      "text": "Kılıç ha? Unvanın bundan daha uygun olamazdı."
+    },
+    {
+      "id": "3ae46e4d",
+      "bank_id": "b02f9601",
+      "text": "Harika bir yakın dövüşçü olduğunu duydum Kılıç."
+    },
+    {
+      "id": "3ae46e4f",
+      "bank_id": "b02f9601",
+      "text": "Çeliğin olmadan Kılıç olamazdın zaten."
+    },
+    {
+      "id": "477ab7d8",
+      "bank_id": "b02f9601",
+      "text": "Yaptığın o korkunç şeyleri hep duydum Kasap."
+    },
+    {
+      "id": "477ab7da",
+      "bank_id": "b02f9601",
+      "text": "Ah, şu meşhur Kasap."
+    },
+    {
+      "id": "477ab7db",
+      "bank_id": "b02f9601",
+      "text": "Kasap ha? Katliamdan zevk aldığın kesin."
+    },
+    {
+      "id": "477ab7dc",
+      "bank_id": "b02f9601",
+      "text": "Adın Kasap demek? Evet, gayet yakışmış."
+    },
+    {
+      "id": "477ab7dd",
+      "bank_id": "b02f9601",
+      "text": "Bağırsak deşmek hoşuna gidiyor, değil mi Kasap?"
+    },
+    {
+      "id": "477ab7de",
+      "bank_id": "b02f9601",
+      "text": "Karanlık bir kalbin var Kasap."
+    },
+    {
+      "id": "477ab7df",
+      "bank_id": "b02f9601",
+      "text": "Ah Kasap, umarım bugün adının hakkını vermezsin."
+    },
+    {
+      "id": "4c7abff9",
+      "bank_id": "b02f9601",
+      "text": "Hey Kasap! Son zamanlarda iyi bir katliam yaptın mı bari?"
+    },
+    {
+      "id": "4c7abffa",
+      "bank_id": "b02f9601",
+      "text": "Öyle gaddarca ki... Boşuna Kasap demiyorlar sana."
+    },
+    {
+      "id": "4c7abffb",
+      "bank_id": "b02f9601",
+      "text": "Ah, adını sahiden hak etmişsin Kasap."
+    },
+    {
+      "id": "4c7abffc",
+      "bank_id": "b02f9601",
+      "text": "Kasap ha? Kesinlikle yolundan çekileceğim."
+    },
+    {
+      "id": "4c7abffd",
+      "bank_id": "b02f9601",
+      "text": "Demek şu pis Kasap sensin ha."
+    },
+    {
+      "id": "4c7abffe",
+      "bank_id": "b02f9601",
+      "text": "Vahşete olan düşkünlüğün çok iyi biliniyor Kasap."
+    },
+    {
+      "id": "4c7abfff",
+      "bank_id": "b02f9601",
+      "text": "Yalnızca senin gibi kanlı bir geçmişi olan birine Kasap denebilirdi."
+    },
+    {
+      "id": "51545a0d",
+      "bank_id": "b02f9601",
+      "text": "Annen buradayken yaramazlık yapmasan iyi edersin oğlum."
+    },
+    {
+      "id": "72b2efc8",
+      "bank_id": "b02f9601",
+      "text": "Sen hakikaten tam bir Zorbasın, değil mi!"
+    },
+    {
+      "id": "72b2efca",
+      "bank_id": "b02f9601",
+      "text": "Adı gibi kaba, huyu gibi kaba."
+    },
+    {
+      "id": "72b2efcb",
+      "bank_id": "b02f9601",
+      "text": "Şimdiye kadar senden daha kaba bir Zorbayla karşılaşmadım."
+    },
+    {
+      "id": "72b2efcc",
+      "bank_id": "b02f9601",
+      "text": "Sen hakikaten tam bir hayvansın, değil mi?"
+    },
+    {
+      "id": "72b2efcd",
+      "bank_id": "b02f9601",
+      "text": "Senden daha kabası yoktur Zorba."
+    },
+    {
+      "id": "72b2efce",
+      "bank_id": "b02f9601",
+      "text": "Sen hakikaten tam bir Zorbasın, değil mi!"
+    },
+    {
+      "id": "72b2efcf",
+      "bank_id": "b02f9601",
+      "text": "İnsandan çok hayvansın sen, Zorba."
+    },
+    {
+      "id": "77b2f7e9",
+      "bank_id": "b02f9601",
+      "text": "Vay canına, şuna bir bak! Boşuna Zorba demiyorlar sana."
+    },
+    {
+      "id": "77b2f7ea",
+      "bank_id": "b02f9601",
+      "text": "Beyinden çok kas var ha Zorba?"
+    },
+    {
+      "id": "77b2f7eb",
+      "bank_id": "b02f9601",
+      "text": "Daha önce böylesi bir Zorba gördüğümü hiç sanmıyorum."
+    },
+    {
+      "id": "77b2f7ec",
+      "bank_id": "b02f9601",
+      "text": "Birinin suratını dağıtmaya mı geldin Zorba?"
+    },
+    {
+      "id": "77b2f7ed",
+      "bank_id": "b02f9601",
+      "text": "Zorba ha? Bu isim sana tam oturmuş."
+    },
+    {
+      "id": "77b2f7ee",
+      "bank_id": "b02f9601",
+      "text": "Pek ince ruhlu sayılmazsın Zorba. Lakabın da oradan geliyor sanırım."
+    },
+    {
+      "id": "77b2f7ef",
+      "bank_id": "b02f9601",
+      "text": "Adı kendine bundan daha uygun birine hiç rastlamadım sanırım Zorba."
+    },
+    {
+      "id": "9b4564e0",
+      "bank_id": "b02f9601",
+      "text": "Aramızda olduğun için çok şanslıyız, Seçilmiş Kişi."
+    },
+    {
+      "id": "9b4564e1",
+      "bank_id": "b02f9601",
+      "text": "Kalbin iyilikle dolu. Sen hakikaten Seçilmiş Kişisin."
+    },
+    {
+      "id": "9b4564e2",
+      "bank_id": "b02f9601",
+      "text": "Ah, iyi biri olmayı pek seviyorsun, değil mi Seçilmiş Kişi."
+    },
+    {
+      "id": "9b4564e3",
+      "bank_id": "b02f9601",
+      "text": "Ben seni seçmezdim Seçilmiş Kişi. Eğlenmeyi hiç bilmiyorsun."
+    },
+    {
+      "id": "9b4564e4",
+      "bank_id": "b02f9601",
+      "text": "Vay canına, Seçilmiş Kişiyi kanlı canlı göreceğimi hiç düşünmezdim. Tam bir aziz figürü."
+    },
+    {
+      "id": "9b4564e5",
+      "bank_id": "b02f9601",
+      "text": "İyilikten başka hiçbir şey yapmıyorsun Seçilmiş Kişi, bu yüzden sana hayranız."
+    },
+    {
+      "id": "9b4564e7",
+      "bank_id": "b02f9601",
+      "text": "Kalbin iyilikle dolu. Sen hakikaten Seçilmiş Kişisin."
+    },
+    {
+      "id": "a2456fe8",
+      "bank_id": "b02f9601",
+      "text": "Seçilmiş Kişi. Hayırseverliğinin üstüne yoktur."
+    },
+    {
+      "id": "a2456fe9",
+      "bank_id": "b02f9601",
+      "text": "İyi bir sebeple seçildin sen, Seçilmiş Kişi."
+    },
+    {
+      "id": "a2456fea",
+      "bank_id": "b02f9601",
+      "text": "Ah Seçilmiş Kişi, hayatımıza ışık saçıyorsun."
+    },
+    {
+      "id": "a2456fec",
+      "bank_id": "b02f9601",
+      "text": "Yalnızca senin gibi fedakâr biri Seçilmiş Kişi olabilirdi."
+    },
+    {
+      "id": "a2456fed",
+      "bank_id": "b02f9601",
+      "text": "Ah Seçilmiş Kişi, sahiden çok yüce gönüllüsün."
+    },
+    {
+      "id": "a2456fee",
+      "bank_id": "b02f9601",
+      "text": "Yalnızca senin gibi fedakâr biri Seçilmiş Kişi olabilirdi."
+    },
+    {
+      "id": "a2456fef",
+      "bank_id": "b02f9601",
+      "text": "Seçilmiş Kişi mi? Evet, sana neden öyle dediklerini anlayabiliyorum."
+    },
+    {
+      "id": "b84693b8",
+      "bank_id": "b02f9601",
+      "text": "Öyle gaddarca ki... Boşuna Cellat demiyorlar sana."
+    },
+    {
+      "id": "b84693b9",
+      "bank_id": "b02f9601",
+      "text": "Ah, adını sahiden hak etmişsin Cellat."
+    },
+    {
+      "id": "b84693bb",
+      "bank_id": "b02f9601",
+      "text": "Hey Cellat! Son zamanlarda iyi bir katliam yaptın mı bari?"
+    },
+    {
+      "id": "b84693be",
+      "bank_id": "b02f9601",
+      "text": "Cellat ha? Bahse girerim bu seni yoruyordur!"
+    },
+    {
+      "id": "b84693bf",
+      "bank_id": "b02f9601",
+      "text": "Demek şu pis Cellat sensin ha."
+    },
+    {
+      "id": "d2b83dd4",
+      "bank_id": "b02f9601",
+      "text": "Ödül Avcısı diye çağrılmayı hiç kimse senden daha fazla hak edemez."
+    },
+    {
+      "id": "d4d48121",
+      "bank_id": "b02f9601",
+      "text": "Gerçekten şimdiye kadar tanıştığım en cana yakın insanlardan birisin Lokum."
+    },
+    {
+      "id": "d4d48122",
+      "bank_id": "b02f9601",
+      "text": "Gerçekten şimdiye kadar tanıştığım en sevimli insanlardan birisin Lokum."
+    },
+    {
+      "id": "d4d48123",
+      "bank_id": "b02f9601",
+      "text": "Keşke senin kadar çok arkadaşım olsaydı. Sırrın ne Lokum?"
+    },
+    {
+      "id": "d4d48124",
+      "bank_id": "b02f9601",
+      "text": "İlgi odağı olmayı pek seviyorsun, değil mi Lokum?"
+    },
+    {
+      "id": "d4d48125",
+      "bank_id": "b02f9601",
+      "text": "İnsanlar beni ne kadar severse sevsin, bana Lokum denmesindense gebermeyi tercih ederdim."
+    },
+    {
+      "id": "d4d48126",
+      "bank_id": "b02f9601",
+      "text": "Cana yakınlığın sana pek çok hayran kazandırdı Lokum."
+    },
+    {
+      "id": "d4d48127",
+      "bank_id": "b02f9601",
+      "text": "Sana düşkünlük göstermeyen pek az insana rastladım Lokum."
+    },
+    {
+      "id": "dcca2aa8",
+      "bank_id": "b02f9601",
+      "text": "Yalnızca senin gibi karanlık geçmişi olan birine Kanun Kaçağı denebilirdi."
+    },
+    {
+      "id": "dcca2aa9",
+      "bank_id": "b02f9601",
+      "text": "Suça olan düşkünlüğün çok iyi biliniyor Kanun Kaçağı."
+    },
+    {
+      "id": "dcca2aaa",
+      "bank_id": "b02f9601",
+      "text": "Demek şu pis Kanun Kaçağı sensin ha."
+    },
+    {
+      "id": "dcca2aab",
+      "bank_id": "b02f9601",
+      "text": "Kanun Kaçağı ha? Adının hakkını kesinlikle veriyorsun."
+    },
+    {
+      "id": "dcca2aac",
+      "bank_id": "b02f9601",
+      "text": "Ah, adını sahiden hak etmişsin Kanun Kaçağı."
+    },
+    {
+      "id": "dcca2aad",
+      "bank_id": "b02f9601",
+      "text": "İşlediğin suçları hepimiz duyduk Kanun Kaçağı."
+    },
+    {
+      "id": "dcca2aae",
+      "bank_id": "b02f9601",
+      "text": "Hey Kanun Kaçağı! Son zamanlarda bir şey çaldın mı bari?"
+    },
+    {
+      "id": "dfd49250",
+      "bank_id": "b02f9601",
+      "text": "Ayy, öyle tatlı bir şeysin ki Lokum."
+    },
+    {
+      "id": "dfd49252",
+      "bank_id": "b02f9601",
+      "text": "Hiç kimse seni terk etmez be Lokum."
+    },
+    {
+      "id": "dfd49253",
+      "bank_id": "b02f9601",
+      "text": "Birinin seni sevmediğini hayal bile edemiyorum Lokum."
+    },
+    {
+      "id": "dfd49254",
+      "bank_id": "b02f9601",
+      "text": "Senden daha tatlı birinin olmadığına eminim Lokum."
+    },
+    {
+      "id": "dfd49255",
+      "bank_id": "b02f9601",
+      "text": "Lokum mi? Tatlı bir maceracı için pek şeker bir isim."
+    },
+    {
+      "id": "dfd49256",
+      "bank_id": "b02f9601",
+      "text": "Senden daha tatlı birinin olmadığına eminim Lokum."
+    },
+    {
+      "id": "dfd49257",
+      "bank_id": "b02f9601",
+      "text": "Kelimelerle anlatılamayacak kadar sevilesi birisin sevgili Lokum'um."
+    },
+    {
+      "id": "e3258b30",
+      "bank_id": "b02f9601",
+      "text": "Köpeğinle oynamayı sahiden çok seviyorsun, değil mi Köpek Sever?"
+    },
+    {
+      "id": "e3258b31",
+      "bank_id": "b02f9601",
+      "text": "Tüylü dostunla bu kadar kaliteli vakit geçirdiğini görmek çok güzel Köpek Sever."
+    },
+    {
+      "id": "e3258b33",
+      "bank_id": "b02f9601",
+      "text": "Köpeğinle oynamayı sahiden çok seviyorsun, değil mi Köpek Sever?"
+    },
+    {
+      "id": "e3258b34",
+      "bank_id": "b02f9601",
+      "text": "Köpeğinle oynamayı sahiden çok seviyorsun, değil mi Köpek Sever?"
+    },
+    {
+      "id": "e3258b35",
+      "bank_id": "b02f9601",
+      "text": "İnsan ile köpek arasındaki bağı tamamen anlıyorum Köpek Sever."
+    },
+    {
+      "id": "e3258b36",
+      "bank_id": "b02f9601",
+      "text": "Köpek Sever mi? Dalga geçiyorsun herhalde?"
+    },
+    {
+      "id": "e3258b37",
+      "bank_id": "b02f9601",
+      "text": "Evet ya, en iyi dövüşçülere hep Köpek Sever gibi isimler verilir zaten. <laughs>"
+    },
+    {
+      "id": "e5ca38f8",
+      "bank_id": "b02f9601",
+      "text": "Kanun Kaçağı ha? Son zamanlarda ne kadar mal aşırdın bakalım?"
+    },
+    {
+      "id": "e5ca38f9",
+      "bank_id": "b02f9601",
+      "text": "Ah, şu meşhur Kanun Kaçağı."
+    },
+    {
+      "id": "e5ca38fb",
+      "bank_id": "b02f9601",
+      "text": "Yaptığın o tekinsiz işleri hep duydum Kanun Kaçağı."
+    },
+    {
+      "id": "e5ca38fc",
+      "bank_id": "b02f9601",
+      "text": "Ah Kanun Kaçağı, umarım bugün adının hakkını vermezsin."
+    },
+    {
+      "id": "e5ca38fd",
+      "bank_id": "b02f9601",
+      "text": "Gizemli bir kalbin var Kanun Kaçağı."
+    },
+    {
+      "id": "e5ca38fe",
+      "bank_id": "b02f9601",
+      "text": "Kanunları çiğnemekten keyif alıyorsun ha Kanun Kaçağı? Ben de öyle!"
+    },
+    {
+      "id": "e5ca38ff",
+      "bank_id": "b02f9601",
+      "text": "Adın Kanun Kaçağı demek? Evet, gayet yakışmış."
+    },
+    {
+      "id": "ea259630",
+      "bank_id": "b02f9601",
+      "text": "Sadık yoldaşın nasıl gidiyor bakalım Köpek Sever?"
+    },
+    {
+      "id": "ea259631",
+      "bank_id": "b02f9601",
+      "text": "Köpeğin senin gibi bir sahibe sahip olduğu için çok şanslı Köpek Sever."
+    },
+    {
+      "id": "ea259632",
+      "bank_id": "b02f9601",
+      "text": "Sadık yoldaşın nasıl gidiyor bakalım Köpek Sever?"
+    },
+    {
+      "id": "ea259633",
+      "bank_id": "b02f9601",
+      "text": "Seninle itin bayağı samimi olduğunuzu duydum Köpek Sever. <snickers>"
+    },
+    {
+      "id": "ea259634",
+      "bank_id": "b02f9601",
+      "text": "Köpek Sever mi? İt sevicisi seni..."
+    },
+    {
+      "id": "ea259635",
+      "bank_id": "b02f9601",
+      "text": "Boşuna Köpek Sever demiyorlar sana, değil mi? Canciğer kuzu sarmasısınız."
+    },
+    {
+      "id": "ea259636",
+      "bank_id": "b02f9601",
+      "text": "O köpekle vakit geçirmeyi sahiden pek seviyorsun, değil mi Köpek Sever?"
+    },
+    {
+      "id": "fc1849d0",
+      "bank_id": "b02f9601",
+      "text": "Tavuk kovalamak bir hobi mi yoksa bu işi profesyonelce mi yapıyorsun?"
+    },
+    {
+      "id": "fc1849d1",
+      "bank_id": "b02f9601",
+      "text": "Hey, Tavuk Kovalayan. Bahse girerim sana daha önce hiç böyle dememişlerdir."
+    },
+    {
+      "id": "fc1849d3",
+      "bank_id": "b02f9601",
+      "text": "Şu takıntını hiç anlamıyorum Tavuk Aşığı. Yumurtaları çok sevdiğin için mi?"
+    },
+    {
+      "id": "fc1849d4",
+      "bank_id": "b02f9601",
+      "text": "Tavuklar çok pis yaratıklardır. Onları neden kovalamak isteyesin aklım almıyor."
+    },
+    {
+      "id": "fc1849d5",
+      "bank_id": "b02f9601",
+      "text": "Tavuklarla alıp veremediğin ne var Tavuk Kovalayan?"
+    },
+    {
+      "id": "fc1849d6",
+      "bank_id": "b02f9601",
+      "text": "Yemeyeceksen tavuk kovalamanın ne mantığı var ki?"
+    },
+    {
+      "id": "fc1849d7",
+      "bank_id": "b02f9601",
+      "text": "Tavuklarla alıp veremediğin ne var Tavuk Kovalayan?"
+    },
+    {
+      "id": "fc2478da",
+      "bank_id": "b02f9601",
+      "text": "Uslu bir çocuk olursan belki annen yolculuklarından sana güzel bir hediye getirir."
+    },
+    {
+      "id": "fc2478db",
+      "bank_id": "b02f9601",
+      "text": "Şu dizlerine bak oğlum. Bu sefer nerede oynadın? Annen gibi bir maceracı değilsin biliyorsun."
+    },
+    {
+      "id": "fc2478dc",
+      "bank_id": "b02f9601",
+      "text": "Yaramazlık yaptığında annenin bundan hoşlanmadığını biliyorsun."
+    },
+    {
+      "id": "fc2478dd",
+      "bank_id": "b02f9601",
+      "text": "Tıpkı annen gibi gerçek bir maceracı olacaksın bahse girerim, değil mi benim küçük kahramanım?"
+    },
+    {
+      "id": "fc2478de",
+      "bank_id": "b02f9601",
+      "text": "Annen gibi olmak istiyorsan bütün yeşilliklerini yemen gerek."
+    }
+  ]
+}

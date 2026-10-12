@@ -1,0 +1,421 @@
+{
+  "bank_id": "b0f25202",
+  "total_strings": 83,
+  "strings": [
+    {
+      "id": "04b7c681",
+      "bank_id": "b0f25202",
+      "text": "Perilous bu vahşi saldırıyı kıl payı savuşturdu ve şimşek hızında bir karşı hamleyle karşılık verdi. Düşenlerin kanına bulanmış halde, artık bu köyü çok gerilerde bırakma vaktinin geldiğine karar verdi."
+    },
+    {
+      "id": "19addbf8",
+      "bank_id": "b0f25202",
+      "text": "Esenlikler dilerim. Sizi daha önce gördüğümü anımsamıyorum."
+    },
+    {
+      "id": "19addbf9",
+      "bank_id": "b0f25202",
+      "text": "Esenlikler. Sizinle daha önce karşılaştığımı anımsamıyorum. Dünyanın bu köşesinde yeni misiniz?"
+    },
+    {
+      "id": "19addbfa",
+      "bank_id": "b0f25202",
+      "text": "Selam. Buralarda yeni misin?"
+    },
+    {
+      "id": "19addbfb",
+      "bank_id": "b0f25202",
+      "text": "Selam. Kasabada yeni misin?"
+    },
+    {
+      "id": "19addbfc",
+      "bank_id": "b0f25202",
+      "text": "Bölgemize hoş geldiniz yabancı."
+    },
+    {
+      "id": "19addbfd",
+      "bank_id": "b0f25202",
+      "text": "Selam yabancı. Seni daha önce gördüğümü hatırlamıyorum."
+    },
+    {
+      "id": "19addbfe",
+      "bank_id": "b0f25202",
+      "text": "Hoş geldin yabancı."
+    },
+    {
+      "id": "1fcaa73a",
+      "bank_id": "b0f25202",
+      "text": "Köşeyi döndüğünde azgın ve kanlı bir isyanla karşılaştı. Kesik başlar ve kan gövdeyi götürürken çığlıklar havada uçuşuyordu. Asıl yıkımı üç metrelik gümüş bir trol yapmıştı ve Kahramanımıza doğru atılmadan önce gözlerini ona diken de tam olarak oydu."
+    },
+    {
+      "id": "2148aee1",
+      "bank_id": "b0f25202",
+      "text": "Çıkış sandığı yerin aslında bir giriş olduğunu anlaması çok sürmedi. Karanlık ve tekinsiz bir zindana açılan bir giriş... Yine de dip taraftan pastırma kokusu geldiğini düşündü ve ne olursa olsun aşağıya doğru sarktı."
+    },
+    {
+      "id": "22ade9c8",
+      "bank_id": "b0f25202",
+      "text": "Merhaba. Buralardan değilsiniz, öyle değil mi?"
+    },
+    {
+      "id": "22ade9c9",
+      "bank_id": "b0f25202",
+      "text": "Esenlikler yabancı."
+    },
+    {
+      "id": "22ade9cb",
+      "bank_id": "b0f25202",
+      "text": "Merhaba yabancı. Dünyamızın bu ücra köşesine hoş geldiniz."
+    },
+    {
+      "id": "22ade9cc",
+      "bank_id": "b0f25202",
+      "text": "Esenlikler. Bu taraflarda yenisiniz, öyle değil mi?"
+    },
+    {
+      "id": "22ade9cd",
+      "bank_id": "b0f25202",
+      "text": "Hoş geldiniz. Başka bir kasabadan geliyorsunuz, değil mi?"
+    },
+    {
+      "id": "22ade9ce",
+      "bank_id": "b0f25202",
+      "text": "Selam. Yeni misin?"
+    },
+    {
+      "id": "22ade9cf",
+      "bank_id": "b0f25202",
+      "text": "Selam, sen de kimsin bakalım?"
+    },
+    {
+      "id": "24477380",
+      "bank_id": "b0f25202",
+      "text": "Belki ne bileyim, bi yıkansan, saçını başını tarasan...? Bi şeyler yapsan hani!"
+    },
+    {
+      "id": "24477381",
+      "bank_id": "b0f25202",
+      "text": "Üstüne başına biraz çeki düzen versene gülüm?"
+    },
+    {
+      "id": "24477382",
+      "bank_id": "b0f25202",
+      "text": "Belki görünüşünü bir nebze güzelleştirirsen seni daha da çok severim!"
+    },
+    {
+      "id": "24477383",
+      "bank_id": "b0f25202",
+      "text": "Görünüşünüze biraz çekidüzen vermekten zarar gelmezdi canım."
+    },
+    {
+      "id": "24477384",
+      "bank_id": "b0f25202",
+      "text": "Biliyor musun, görünüşünle ilgili gerçekten bir şeyler yapmalısın. Beni çok mutlu ederdi..."
+    },
+    {
+      "id": "24477386",
+      "bank_id": "b0f25202",
+      "text": "Ne güzel olurdu biliyor musun? Kendine biraz çekidüzen versen. Azıcık ama!"
+    },
+    {
+      "id": "24477387",
+      "bank_id": "b0f25202",
+      "text": "Çirkin olduğunu düşündüğümden değil canım ama... belki kendine ufak bir bakım yapabilirsin?"
+    },
+    {
+      "id": "29477ba0",
+      "bank_id": "b0f25202",
+      "text": "Üstüne başına biraz çeki düzen versene gülüm?"
+    },
+    {
+      "id": "29477ba1",
+      "bank_id": "b0f25202",
+      "text": "Belki ne bileyim, bi yıkansan, saçını başını tarasan...? Bi şeyler yapsan hani!"
+    },
+    {
+      "id": "29477ba2",
+      "bank_id": "b0f25202",
+      "text": "Görünüşünüze biraz çekidüzen vermekten zarar gelmezdi canım."
+    },
+    {
+      "id": "29477ba3",
+      "bank_id": "b0f25202",
+      "text": "Belki görünüşünü bir nebze güzelleştirirsen seni daha da çok severim!"
+    },
+    {
+      "id": "29477ba5",
+      "bank_id": "b0f25202",
+      "text": "Biliyor musun, görünüşünle ilgili gerçekten bir şeyler yapmalısın. Beni çok mutlu ederdi..."
+    },
+    {
+      "id": "29477ba6",
+      "bank_id": "b0f25202",
+      "text": "Çirkin olduğunu düşündüğümden değil canım ama... belki kendine ufak bir bakım yapabilirsin?"
+    },
+    {
+      "id": "29477ba7",
+      "bank_id": "b0f25202",
+      "text": "Ne güzel olurdu biliyor musun? Kendine biraz çekidüzen versen. Azıcık ama!"
+    },
+    {
+      "id": "2c0de343",
+      "bank_id": "b0f25202",
+      "text": "Zaman, adet olduğu üzere akıp gitti. Perilous bir keresinde devasa bir duvar örerek zamanı durdurmayı denemişti gerçi, ama fethetme umudunun olmadığı tek düşman buydu. Tabii Zamanı Yavaşlatma büyüsünü kullandığı anlar hariç."
+    },
+    {
+      "id": "334cdf4f",
+      "bank_id": "b0f25202",
+      "text": "Bir hana giden yolu buldu; içeri girmesiyle birlikte içerideki o curcuna yerini bir anda derin bir sessizliğe bıraktı. Tam barda bir bira istemişti ki kartal kanatlı dört köpekbalığı adamın saldırısına uğradı."
+    },
+    {
+      "id": "36f49084",
+      "bank_id": "b0f25202",
+      "text": "Selam! Sen de kimsin?"
+    },
+    {
+      "id": "3bf498a5",
+      "bank_id": "b0f25202",
+      "text": "Selam! Yabancı mısın? Yabancılarla konuşmamam gerekiyor normalde."
+    },
+    {
+      "id": "41867a85",
+      "bank_id": "b0f25202",
+      "text": "Nasıl göründüğün umurumda değil sevgilim, fakat bazı arkadaşlarım benimle alay ediyor. Birazcık daha çaba gösteremez misin? Benim için?"
+    },
+    {
+      "id": "41867a86",
+      "bank_id": "b0f25202",
+      "text": "Benim için kendine biraz çeki düzen vereceğinden eminim, değil mi? Beni sevdiğini böyle anlarım işte."
+    },
+    {
+      "id": "41867a87",
+      "bank_id": "b0f25202",
+      "text": "Beni neyin daha da mutlu edeceğini biliyor musun? Herkesin seni benim kadar yakışıklı bulması! Gerçi biraz uğraşmak gerekebilir..."
+    },
+    {
+      "id": "47f529ea",
+      "bank_id": "b0f25202",
+      "text": "Perilous'un yeniden yola koyulması haftalar sürdü. Asla öyle uzun süre oturan biri değildi. Kimileri bunu basuruna bağlar."
+    },
+    {
+      "id": "516ff9e9",
+      "bank_id": "b0f25202",
+      "text": "Bir kış olaysız geçti. Ardından ilkbahar. Sonra yaz. Derken sonbahar geldi. Sonra yine kış. Nihayet ondan sonraki ilkbaharda bir şeyler oldu."
+    },
+    {
+      "id": "5eb2c5ad",
+      "bank_id": "b0f25202",
+      "text": "Sizi daha önce hiç görmemiştim. Merhaba."
+    },
+    {
+      "id": "69b2d6dc",
+      "bank_id": "b0f25202",
+      "text": "Buralarda yenisin, değil mi? Selam."
+    },
+    {
+      "id": "6bf066c0",
+      "bank_id": "b0f25202",
+      "text": "Esenlikler. Bu şerefe daha önce nail olduğumu sanmıyorum."
+    },
+    {
+      "id": "6bf066c1",
+      "bank_id": "b0f25202",
+      "text": "Sizi görmek ne güzel. Kasabamızın yabancısı mısınız?"
+    },
+    {
+      "id": "6bf066c2",
+      "bank_id": "b0f25202",
+      "text": "Sen de kimsin peki?"
+    },
+    {
+      "id": "6bf066c3",
+      "bank_id": "b0f25202",
+      "text": "Tanımıyom seni. Ne istiyon?"
+    },
+    {
+      "id": "6bf066c4",
+      "bank_id": "b0f25202",
+      "text": "Nasılsın? Seni daha önce gördüğümü hatırlamıyorum."
+    },
+    {
+      "id": "6bf066c5",
+      "bank_id": "b0f25202",
+      "text": "Bu tarafların ziyaretçisi misiniz?"
+    },
+    {
+      "id": "6bf066c7",
+      "bank_id": "b0f25202",
+      "text": "Selam! Bu taraflarda yenisin, di mi?"
+    },
+    {
+      "id": "70d5d8f9",
+      "bank_id": "b0f25202",
+      "text": "Köy şaşırtıcı derecede huzurluydu, bu yüzden dükkânları gezerek birkaç saat geçirdi ve yerel handa fazladan dört kadeh yuvarladı. Gece için bir oda tuttu ve hemen uykuya daldı. Yüzüne çarpan rüzgârın şiddeti de uyanmasında pay sahibi olsa da, boynuna doğru ıslık çalarak inen bir baltanın sesiyle irkildi. Bıçağı santimlerle savuşturmayı başardı ve üç yılan başlı suikastçıyla yüzleşmeye hazır halde silahlarının bulunduğu tarafa doğru yataktan fırladı."
+    },
+    {
+      "id": "72f071c8",
+      "bank_id": "b0f25202",
+      "text": "A merhaba, buralarda yenisin, di mi?"
+    },
+    {
+      "id": "72f071c9",
+      "bank_id": "b0f25202",
+      "text": "Buralarda yenisin, değil mi?"
+    },
+    {
+      "id": "72f071ca",
+      "bank_id": "b0f25202",
+      "text": "Selam? Seni daha önce buralarda görmemiştim."
+    },
+    {
+      "id": "72f071cc",
+      "bank_id": "b0f25202",
+      "text": "Daha önce karşılaştığımızı sanmıyorum."
+    },
+    {
+      "id": "72f071cd",
+      "bank_id": "b0f25202",
+      "text": "Hoş geldiniz yabancı. Umarım kasabamızı beğenirsiniz."
+    },
+    {
+      "id": "72f071ce",
+      "bank_id": "b0f25202",
+      "text": "Selam. Buralarda yenisin, değil mi?"
+    },
+    {
+      "id": "72f071cf",
+      "bank_id": "b0f25202",
+      "text": "Görmedim seni buralarda. Ne istiyon?"
+    },
+    {
+      "id": "74043160",
+      "bank_id": "b0f25202",
+      "text": "Görünüş her şey demek değil elbet. Ama yine de biraz daha iyi olsaydı fena olmazdı hani..."
+    },
+    {
+      "id": "74043161",
+      "bank_id": "b0f25202",
+      "text": "Kendini daha da kusursuz kılmak için ne yapabileceğini biliyor musun? Görünüşünü biraz düzeltsen mesela?"
+    },
+    {
+      "id": "74043162",
+      "bank_id": "b0f25202",
+      "text": "Kendine biraz çeki düzen versene? Çok iyi olur, söz veriyorum."
+    },
+    {
+      "id": "74043164",
+      "bank_id": "b0f25202",
+      "text": "Görünüşünüze biraz daha özen gösterebilirseniz gerçekten minnettar kalırdım."
+    },
+    {
+      "id": "74043165",
+      "bank_id": "b0f25202",
+      "text": "Görünüşünüzdeki ufak bir düzelme çok şeyi değiştirirdi, temin ederim."
+    },
+    {
+      "id": "74043166",
+      "bank_id": "b0f25202",
+      "text": "Çirkin değilsin hani gülüm, ondan değil... ama ne bileyim, biraz daha iyi görünebilirsin."
+    },
+    {
+      "id": "74043167",
+      "bank_id": "b0f25202",
+      "text": "Hadi be, bi üstünü başını paklasan çok daha iyi görüneceğini sen de biliyon."
+    },
+    {
+      "id": "7d043f48",
+      "bank_id": "b0f25202",
+      "text": "Görünüşünüzdeki ufak bir düzelme çok şeyi değiştirirdi, temin ederim."
+    },
+    {
+      "id": "7d043f49",
+      "bank_id": "b0f25202",
+      "text": "Görünüşünüze biraz daha özen gösterebilirseniz gerçekten minnettar kalırdım."
+    },
+    {
+      "id": "7d043f4a",
+      "bank_id": "b0f25202",
+      "text": "Hadi be, bi üstünü başını paklasan çok daha iyi görüneceğini sen de biliyon."
+    },
+    {
+      "id": "7d043f4b",
+      "bank_id": "b0f25202",
+      "text": "Çirkin değilsin hani gülüm, ondan değil... ama ne bileyim, biraz daha iyi görünebilirsin."
+    },
+    {
+      "id": "7d043f4c",
+      "bank_id": "b0f25202",
+      "text": "Kendini daha da kusursuz kılmak için ne yapabileceğini biliyor musun? Görünüşünü biraz düzeltsen mesela?"
+    },
+    {
+      "id": "7d043f4d",
+      "bank_id": "b0f25202",
+      "text": "Görünüş her şey demek değil elbet. Ama yine de biraz daha iyi olsaydı fena olmazdı hani..."
+    },
+    {
+      "id": "7d043f4f",
+      "bank_id": "b0f25202",
+      "text": "Kendine biraz çeki düzen versene? Çok iyi olur, söz veriyorum."
+    },
+    {
+      "id": "7d7c83bc",
+      "bank_id": "b0f25202",
+      "text": "Görevine yeniden koyulmadan önce ne kadar zaman geçtiğini kimse kesin olarak bilmez. Fakat yaklaşık iki ila dört ay arasındaydı."
+    },
+    {
+      "id": "8242a9a8",
+      "bank_id": "b0f25202",
+      "text": "Kasaba meydanına yaklaştığında gökyüzünde kudretli bir kükreme koptu ve devasa, bedensiz bir el gökten süzülerek binaları ve tabelaları önüne katıp Perilous'a doğru hamle yaptı."
+    },
+    {
+      "id": "93e7ca3f",
+      "bank_id": "b0f25202",
+      "text": "Günler kayda değer hiçbir hadise yaşanmadan akıp gitti. Ne de olsa bu gerçek hayat, öyle uydurma bir masal değil."
+    },
+    {
+      "id": "9854e4b4",
+      "bank_id": "b0f25202",
+      "text": "Tam karşılık vermek üzereydi ki kulakları sağır eden bir vızıltı aklını başından aldı; neyse ki ölümcül düşmanların en azılısına doğru akın eden uçan fil böcekleri sürüsünü görmeyi başarmıştı. Yeterince toparlandığında Perilous, böceksi borazan sesleri ve insanlık dışı acı çığlıkları eşliğinde kasabadan alelacele geri çekildi."
+    },
+    {
+      "id": "a6b4fcd2",
+      "bank_id": "b0f25202",
+      "text": "Hiçbir haritada yer almayan, belki de yalnızca lanetlilerin haritasında bulunan bir köye vardı ve içeri girmeden önce kapılarında bir an duraksadı."
+    },
+    {
+      "id": "b4a076c6",
+      "bank_id": "b0f25202",
+      "text": "Perilous kılıcının savruluşuyla karşılık verdi ve açtığı yaralardan koyu yeşil bir sıvı akıtarak zaferle dimdik ayakta kaldı. Lanetli kasabadan görmek istediği kadarı buydu ve hızla oradan uzaklaştı."
+    },
+    {
+      "id": "b8fb93e7",
+      "bank_id": "b0f25202",
+      "text": "Çok geçmeden hem maceracıların hem de haydutların uğrak yeri olan bir kasabaya denk geldi ve sokaklarına adım atarken elini kılıcının kabzasına koydu."
+    },
+    {
+      "id": "c04fbc14",
+      "bank_id": "b0f25202",
+      "text": "Kasabadan çıkmak için tuttuğu yol oldukça karanlıktı. Henüz gece olmadığı düşünülürse bu durum bilhassa tuhaftı. Yanlışlıkla bir zindana dalmış olduğunu irkilerek fark etti."
+    },
+    {
+      "id": "d1315f26",
+      "bank_id": "b0f25202",
+      "text": "Kasabadan dışarı adım attığında ayaklarının altındaki toprağın kaydığını hissetti. Bir tuzak kapısı açıldı ve karanlık bir uçuruma yuvarlandı. Neyse ki dibi iyi aydınlatılmıştı ve Perilous kendini tuhaf bir zindanda buldu."
+    },
+    {
+      "id": "e3358f8c",
+      "bank_id": "b0f25202",
+      "text": "Perilous Spandex hayatında böyle bir şehir görmemişti. Binalar gözün görebildiği kadarıyla göğe uzanıyor, toza bulanmış sokakları her boydan kadın ve erkek dolduruyordu. Fakat en tuhafı çıt çıkmamasıydı. Oradaki insanların tek biri dahi konuşuyor gibi görünmüyordu. Ta ki Spandex'in ağzı bir karış açık, şaşkınlıktan dudağı bükülmüş halde onlara dik dik baktığını fark edene dek. Tam o anda tek bir ağızdan çığlık attılar ve azgın bir kalabalık halinde ona doğru atıldılar."
+    },
+    {
+      "id": "e72efff7",
+      "bank_id": "b0f25202",
+      "text": "Perilous barbar kılıcıyla ileri atıldı, fakat boşluğu biçti. Yalnızca önündeki boşluğu değil, etrafındaki her yeri. Büyüyle havada beş mil yukarı ışınlanmıştı; öyle ki köy altındaki küçücük bir leke gibi kalmıştı. Bu tuhaf köye bir daha asla yaklaşmamaya ant içerek uzaktaki bir saman dağına doğru düşüşünü kontrol etmeyi başardı."
+    },
+    {
+      "id": "f6cc4cad",
+      "bank_id": "b0f25202",
+      "text": "Kahraman, hırsızların, serserilerin ve en aşağılık yaratıkların sokaklarında kol gezdiği söylenen İniltiler Şehri'ne uzanan geniş fakat ıssız bir yolda ilerledi."
+    }
+  ]
+}

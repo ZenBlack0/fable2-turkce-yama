@@ -1,0 +1,906 @@
+{
+  "bank_id": "50f25202",
+  "total_strings": 180,
+  "strings": [
+    {
+      "id": "02f022be",
+      "bank_id": "50f25202",
+      "text": "Bakalım ne kadar sertmişsin!"
+    },
+    {
+      "id": "02f022bf",
+      "bank_id": "50f25202",
+      "text": "Gel buraya, sana gerçek bir dövüş göstereyim."
+    },
+    {
+      "id": "03b0db16",
+      "bank_id": "50f25202",
+      "text": "Pöff! Altına kaçırdın galiba dostum!"
+    },
+    {
+      "id": "03b0db17",
+      "bank_id": "50f25202",
+      "text": "İçkiyi kaldıramıyorsun herhalde. Ha!"
+    },
+    {
+      "id": "03d1d752",
+      "bank_id": "50f25202",
+      "text": "Senin iki katın kadınım ben be!"
+    },
+    {
+      "id": "03d1d753",
+      "bank_id": "50f25202",
+      "text": "Bütün saçlarını yolacağım senin!"
+    },
+    {
+      "id": "055d06e8",
+      "bank_id": "50f25202",
+      "text": "Kocamış tavuktan civciv olmaz derler, iğrenç!"
+    },
+    {
+      "id": "055d06e9",
+      "bank_id": "50f25202",
+      "text": "Dikkat et tatlım, o kadar turta nereye gidiyor sanıyorsun?!"
+    },
+    {
+      "id": "0795768a",
+      "bank_id": "50f25202",
+      "text": "Evet, aynen öyle! Kıstır o işe yaramaz kuyruğunu bacaklarının arasına!"
+    },
+    {
+      "id": "0795768b",
+      "bank_id": "50f25202",
+      "text": "Kaç hadi! Kaç! Seni ezik!"
+    },
+    {
+      "id": "088df3e2",
+      "bank_id": "50f25202",
+      "text": "Dişlerinin dökülmesine hazır mısın?"
+    },
+    {
+      "id": "088df3e3",
+      "bank_id": "50f25202",
+      "text": "Seni kendinden geçene kadar döveceğim!"
+    },
+    {
+      "id": "0ab0e613",
+      "bank_id": "50f25202",
+      "text": "Hâlâ bebeklerle oynuyorsun değil mi sen?!"
+    },
+    {
+      "id": "0eb6fe44",
+      "bank_id": "50f25202",
+      "text": "Hey, tezek suratlı! Ne bakıyorsun öyle?!"
+    },
+    {
+      "id": "0eb6fe45",
+      "bank_id": "50f25202",
+      "text": "Erkek olduğuna emin misin sen?? Bana daha çok kız gibi geldin!"
+    },
+    {
+      "id": "0f8dfeee",
+      "bank_id": "50f25202",
+      "text": "Sana gerçek bir dövüşçünün nasıl olduğunu göstereceğim!"
+    },
+    {
+      "id": "0f8dfeef",
+      "bank_id": "50f25202",
+      "text": "Bütün dişlerini dökeceğim senin!"
+    },
+    {
+      "id": "109584de",
+      "bank_id": "50f25202",
+      "text": "Evet, aynen öyle, pes et seni korkak!"
+    },
+    {
+      "id": "109584df",
+      "bank_id": "50f25202",
+      "text": "Kaç seni korkak, aynen öyle!"
+    },
+    {
+      "id": "14d2c6bc",
+      "bank_id": "50f25202",
+      "text": "Hepiniz bir avuç kokuşmuş hobbe'siniz!"
+    },
+    {
+      "id": "14d2c6bd",
+      "bank_id": "50f25202",
+      "text": "Siz insanlar beni çok öfkelendiriyorsunuz!"
+    },
+    {
+      "id": "19b70ff4",
+      "bank_id": "50f25202",
+      "text": "Seni küçük hobbe pisliği. Midemi bulandırıyorsun!"
+    },
+    {
+      "id": "19b70ff5",
+      "bank_id": "50f25202",
+      "text": "Hey seni sersem. Bir kadından dayak yemenin nasıl bir şey olduğunu öğrenmek ister misin?"
+    },
+    {
+      "id": "19d2ce5c",
+      "bank_id": "50f25202",
+      "text": "Sizi pasaklı kıllı kurtçuklar sürüsü!"
+    },
+    {
+      "id": "1e2af516",
+      "bank_id": "50f25202",
+      "text": "Sana göre bir görevim var: Defol git!"
+    },
+    {
+      "id": "1e2af517",
+      "bank_id": "50f25202",
+      "text": "O irade gücünü bir tarafına soksana sen!"
+    },
+    {
+      "id": "252b0012",
+      "bank_id": "50f25202",
+      "text": "Şimdi kimin ayak işlerine koşacaksın bakalım avanak?"
+    },
+    {
+      "id": "252b0013",
+      "bank_id": "50f25202",
+      "text": "Senin o aptal görevlerini duymaktan hepimize gına geldi!"
+    },
+    {
+      "id": "270f51ac",
+      "bank_id": "50f25202",
+      "text": "Hayatın anlamsız, seni aptal!"
+    },
+    {
+      "id": "270f51ad",
+      "bank_id": "50f25202",
+      "text": "Annen sana kız elbiseleri giydirirdi değil mi senin?!"
+    },
+    {
+      "id": "2854fec8",
+      "bank_id": "50f25202",
+      "text": "Hemen burada, hemen şimdi!"
+    },
+    {
+      "id": "2854fec9",
+      "bank_id": "50f25202",
+      "text": "Koltuk altlarınızı keseceğim! Hepinizin!"
+    },
+    {
+      "id": "2c0f594c",
+      "bank_id": "50f25202",
+      "text": "Erkek değilsin sen, boşuna yer kaplıyorsun!"
+    },
+    {
+      "id": "331e0da6",
+      "bank_id": "50f25202",
+      "text": "Oynamak mı istiyorsun? Gözlerini oyacağım senin!"
+    },
+    {
+      "id": "331e0da7",
+      "bank_id": "50f25202",
+      "text": "Ödlek misin nesin? Dövüşsene!"
+    },
+    {
+      "id": "33551079",
+      "bank_id": "50f25202",
+      "text": "Hepiniz birer ahmaksınız!"
+    },
+    {
+      "id": "3439bfcc",
+      "bank_id": "50f25202",
+      "text": "Oraya çorap tıkıştırmayı kes artık!"
+    },
+    {
+      "id": "3439bfcd",
+      "bank_id": "50f25202",
+      "text": "Etek giy de kurtul bari ne uğraşıyorsun?"
+    },
+    {
+      "id": "3939c7ec",
+      "bank_id": "50f25202",
+      "text": "Pantolonuna çorap tıkıştırdığına kalıbımı basarım, değil mi?"
+    },
+    {
+      "id": "3939c7ed",
+      "bank_id": "50f25202",
+      "text": "Bir çuval altın versen bile bir kadını seni öpmeye ikna edemezsin. Ha ha!"
+    },
+    {
+      "id": "3a1e18a2",
+      "bank_id": "50f25202",
+      "text": "Sert takılmayı seviyorsun ha? Hadi bakalım, teke tek!"
+    },
+    {
+      "id": "3a1e18a3",
+      "bank_id": "50f25202",
+      "text": "Sana unutamayacağın bir ders vereceğim. Gel buraya!"
+    },
+    {
+      "id": "40c5f204",
+      "bank_id": "50f25202",
+      "text": "Seni işe yaramaz kadın! Midemi bulandırıyorsun!"
+    },
+    {
+      "id": "40c5f205",
+      "bank_id": "50f25202",
+      "text": "Bana dik dik bakarsan saçını başını yolarım."
+    },
+    {
+      "id": "41de7d46",
+      "bank_id": "50f25202",
+      "text": "Ne oldu? Daha önce HAKİKİ bir kadın görmedin mi hiç?"
+    },
+    {
+      "id": "41de7d47",
+      "bank_id": "50f25202",
+      "text": "Şuna bak hele! Bir erkek bile bulamıyorsun değil mi? Ha ha!"
+    },
+    {
+      "id": "48bf1f06",
+      "bank_id": "50f25202",
+      "text": "Nesin sen? Vejetaryen mi?"
+    },
+    {
+      "id": "48bf1f07",
+      "bank_id": "50f25202",
+      "text": "Bir kıza gücünün yeteceğini mi sanıyorsun? Dene de görelim bakalım!"
+    },
+    {
+      "id": "48de8842",
+      "bank_id": "50f25202",
+      "text": "Git de yerleri paspasla seni aptal kadın."
+    },
+    {
+      "id": "48de8843",
+      "bank_id": "50f25202",
+      "text": "Aptal kadın!"
+    },
+    {
+      "id": "4a6f0200",
+      "bank_id": "50f25202",
+      "text": "Ev kiralamak maceralara atılmakla nasıl kıyaslanıyor acaba?"
+    },
+    {
+      "id": "4a6f0201",
+      "bank_id": "50f25202",
+      "text": "Kiram gayet makul aslında."
+    },
+    {
+      "id": "4a6f0203",
+      "bank_id": "50f25202",
+      "text": "Fiyatları artırmayacaksın değil mi?"
+    },
+    {
+      "id": "4a6f0206",
+      "bank_id": "50f25202",
+      "text": "Seni ev sahibi olarak hiç düşünmemiştim."
+    },
+    {
+      "id": "4a6f0207",
+      "bank_id": "50f25202",
+      "text": "Bu ay kirayı artırmayacaksın değil mi?"
+    },
+    {
+      "id": "4bc603b4",
+      "bank_id": "50f25202",
+      "text": "Kokunu buradan alabiliyorum kızım. Git de bir banyo yap!"
+    },
+    {
+      "id": "4bc603b5",
+      "bank_id": "50f25202",
+      "text": "Hayatımda gördüğüm en çirkin kadınsın."
+    },
+    {
+      "id": "4da2a320",
+      "bank_id": "50f25202",
+      "text": "Tırnaklarını boyamışsın bugün bakıyorum? Seni sokak kadını seni!"
+    },
+    {
+      "id": "4da2a321",
+      "bank_id": "50f25202",
+      "text": "Erkeğini mutlu edemiyor musun? Hiç şaşırmadım!"
+    },
+    {
+      "id": "4fbf2a02",
+      "bank_id": "50f25202",
+      "text": "Ne oldu seni korkak? Gerçek bir adamla dövüşmeye yüreğin yetmiyor mu?"
+    },
+    {
+      "id": "4fbf2a03",
+      "bank_id": "50f25202",
+      "text": "Ana kuzusunun tekisin sen!"
+    },
+    {
+      "id": "510aea96",
+      "bank_id": "50f25202",
+      "text": "Böyle kurbağa sürüsü hayatımda görmedim!"
+    },
+    {
+      "id": "516f0d02",
+      "bank_id": "50f25202",
+      "text": "Umarım kira fiyatları daha da yükselmez."
+    },
+    {
+      "id": "516f0d03",
+      "bank_id": "50f25202",
+      "text": "Sanırım kirayı ödemeye yetecek kadar param var."
+    },
+    {
+      "id": "516f0d04",
+      "bank_id": "50f25202",
+      "text": "En son kiraladığım evde fare sorunu vardı, o yüzden şu anki evimden şikâyet edemem."
+    },
+    {
+      "id": "516f0d05",
+      "bank_id": "50f25202",
+      "text": "Daha fazla ev kiraya vermeyi düşünüyor musun?"
+    },
+    {
+      "id": "516f0d06",
+      "bank_id": "50f25202",
+      "text": "Daha fazla ev kiralamayı planlıyor musun?"
+    },
+    {
+      "id": "52a2aac0",
+      "bank_id": "50f25202",
+      "text": "Kova ve paspasa sadık kal sen. En iyi anladığın iş o."
+    },
+    {
+      "id": "52a2aac1",
+      "bank_id": "50f25202",
+      "text": "Ne o, bacaklarını hiç tıraş etmez misin sen?"
+    },
+    {
+      "id": "57171396",
+      "bank_id": "50f25202",
+      "text": "Kim istiyor? Ha? Kim istiyor dayağı?"
+    },
+    {
+      "id": "57171397",
+      "bank_id": "50f25202",
+      "text": "Hepinizi benzetirim ulan! En sonuncunuza kadar!"
+    },
+    {
+      "id": "580af592",
+      "bank_id": "50f25202",
+      "text": "Uykunuzda hepinizin bağırsaklarını deşeceğim!"
+    },
+    {
+      "id": "580af593",
+      "bank_id": "50f25202",
+      "text": "Neniz var sizin yahu?!"
+    },
+    {
+      "id": "601721fa",
+      "bank_id": "50f25202",
+      "text": "Sizi ezikler sizi!"
+    },
+    {
+      "id": "601721fb",
+      "bank_id": "50f25202",
+      "text": "Uykunuzda hepinizi öldüreceğim!"
+    },
+    {
+      "id": "63393906",
+      "bank_id": "50f25202",
+      "text": "Kaldır o koca kıçını da bir işe yara maceracı!"
+    },
+    {
+      "id": "63393907",
+      "bank_id": "50f25202",
+      "text": "Kendi başına düşünmeyi hiç denedin mi acaba?"
+    },
+    {
+      "id": "68ec98a0",
+      "bank_id": "50f25202",
+      "text": "Yürümeye devam edin sizi beyinsiz eşekler!"
+    },
+    {
+      "id": "68ec98a1",
+      "bank_id": "50f25202",
+      "text": "Kıçımı öpün! Hepiniz!"
+    },
+    {
+      "id": "6a394402",
+      "bank_id": "50f25202",
+      "text": "Kendini pek özel sanıyorsun değil mi? Bir tezek parçası kadar özelsin işte!"
+    },
+    {
+      "id": "6a394403",
+      "bank_id": "50f25202",
+      "text": "Kendini havalı mı sanıyorsun? Hadi oradan!"
+    },
+    {
+      "id": "6deca040",
+      "bank_id": "50f25202",
+      "text": "Altını ıslatanlar sizi!"
+    },
+    {
+      "id": "6deca041",
+      "bank_id": "50f25202",
+      "text": "Midemi bulandırıyorsunuz! Hepiniz birden!"
+    },
+    {
+      "id": "7301f1f8",
+      "bank_id": "50f25202",
+      "text": "Hiçbir kadınla birlikte oldun mu acaba sen?!"
+    },
+    {
+      "id": "7301f1f9",
+      "bank_id": "50f25202",
+      "text": "Seni işe yaramaz deri yığını!"
+    },
+    {
+      "id": "797be658",
+      "bank_id": "50f25202",
+      "text": "Aynen öyle! Koş anacığının koynuna!"
+    },
+    {
+      "id": "797be659",
+      "bank_id": "50f25202",
+      "text": "Seni yüreksiz bebek!"
+    },
+    {
+      "id": "7de7cbc4",
+      "bank_id": "50f25202",
+      "text": "Git de şu kör kadının eteğinin arkasına saklan. Evet, doğru duydun!"
+    },
+    {
+      "id": "7de7cbc5",
+      "bank_id": "50f25202",
+      "text": "Al sana bir görev: Defol git!"
+    },
+    {
+      "id": "7e020329",
+      "bank_id": "50f25202",
+      "text": "O kıyafeti bir dilenciden mi satın aldın sen?!"
+    },
+    {
+      "id": "847bf788",
+      "bank_id": "50f25202",
+      "text": "*gıdaklama sesleri*"
+    },
+    {
+      "id": "847bf789",
+      "bank_id": "50f25202",
+      "text": "Seni ödlek tavuk! Ha!"
+    },
+    {
+      "id": "884a13e0",
+      "bank_id": "50f25202",
+      "text": "Lanet maceracılar. Hepinizden nefret ediyorum!"
+    },
+    {
+      "id": "884a13e1",
+      "bank_id": "50f25202",
+      "text": "Başka bir kasabayı rahatsız etsene sen maceracı?"
+    },
+    {
+      "id": "88e7dd74",
+      "bank_id": "50f25202",
+      "text": "Bize kendini gerçek bir maceracı gibi yutturmak için herkese rüşvet verdiğine bahse girerim!"
+    },
+    {
+      "id": "88e7dd75",
+      "bank_id": "50f25202",
+      "text": "Sana göre bir görevim var: Ağzından dökeceğim dişleri arama görevi."
+    },
+    {
+      "id": "8c35b1aa",
+      "bank_id": "50f25202",
+      "text": "Ödlek gibi kaçacağını biliyordum!"
+    },
+    {
+      "id": "8c35b1ab",
+      "bank_id": "50f25202",
+      "text": "Korktun mu? Bu kadar mısın yani! Ha!"
+    },
+    {
+      "id": "8d4a1b80",
+      "bank_id": "50f25202",
+      "text": "Yumruğumu yedireceğim sana seni hobbe yalakası!"
+    },
+    {
+      "id": "8d4a1b81",
+      "bank_id": "50f25202",
+      "text": "Beni etkileyemezsin seni altın peşinde koşan ahmak!"
+    },
+    {
+      "id": "941a79a6",
+      "bank_id": "50f25202",
+      "text": "Seni aptal inek!"
+    },
+    {
+      "id": "941a79a7",
+      "bank_id": "50f25202",
+      "text": "Buralardaki diğer sözde kadınlar gibisin sen de işte. Hiç yürek yok!"
+    },
+    {
+      "id": "9535bffe",
+      "bank_id": "50f25202",
+      "text": "Kaç! Kaç seni ödlek!"
+    },
+    {
+      "id": "9535bfff",
+      "bank_id": "50f25202",
+      "text": "Evet, defol buradan seni korkak!"
+    },
+    {
+      "id": "9a947d37",
+      "bank_id": "50f25202",
+      "text": "Dükkânlar kapanıyor artık!"
+    },
+    {
+      "id": "9ae4f786",
+      "bank_id": "50f25202",
+      "text": "Sürtüğün tekisin sen! Sürtüğün teki!"
+    },
+    {
+      "id": "9ae4f787",
+      "bank_id": "50f25202",
+      "text": "Köşende müşteri beklemeye mi gidiyorsun yoksa?"
+    },
+    {
+      "id": "9d1a878a",
+      "bank_id": "50f25202",
+      "text": "Nasıl bir canavarsın sen öyle? Hanımefendi olmadığın kesin de."
+    },
+    {
+      "id": "9d1a878b",
+      "bank_id": "50f25202",
+      "text": "Git de ocak başında ağla canım!"
+    },
+    {
+      "id": "a209b276",
+      "bank_id": "50f25202",
+      "text": "Ne dik dik bakıyorsunuz be?!"
+    },
+    {
+      "id": "a209b277",
+      "bank_id": "50f25202",
+      "text": "Ciğerinizi sökeceğim sizin!"
+    },
+    {
+      "id": "a3e505ea",
+      "bank_id": "50f25202",
+      "text": "Bugün yeterince makyaj yaptın mı bari? Bütün dünyadaki boya bile yetmez gerçi!"
+    },
+    {
+      "id": "a43e6f46",
+      "bank_id": "50f25202",
+      "text": "Biraz erkek olsana be sen!"
+    },
+    {
+      "id": "a43e6f47",
+      "bank_id": "50f25202",
+      "text": "Bu burnuma gelen koku da ne? Sensin değil mi?"
+    },
+    {
+      "id": "ab09c05a",
+      "bank_id": "50f25202",
+      "text": "Aynen öyle! Hepiniz bir avuç ahmaksınız!"
+    },
+    {
+      "id": "ab09c05b",
+      "bank_id": "50f25202",
+      "text": "İşte böyle! Sefil hayatlarınıza devam edin bakalım! Yakında hepiniz gebereceksiniz!"
+    },
+    {
+      "id": "ad3e7daa",
+      "bank_id": "50f25202",
+      "text": "Sivilceli bir veletten başka bir şey değilsin!"
+    },
+    {
+      "id": "ad3e7dab",
+      "bank_id": "50f25202",
+      "text": "Kendine erkek mi diyorsun sen bir de? Ha ha!"
+    },
+    {
+      "id": "b447d066",
+      "bank_id": "50f25202",
+      "text": "Yürümeye devam et seni işe yaramaz sersem."
+    },
+    {
+      "id": "b447d067",
+      "bank_id": "50f25202",
+      "text": "Ne oldu? Altına mı kaçırdın yoksa?"
+    },
+    {
+      "id": "b903e866",
+      "bank_id": "50f25202",
+      "text": "Yüzünün ortasına yumruk isteyen var mı? Ha? Gelin bakalım!"
+    },
+    {
+      "id": "b903e867",
+      "bank_id": "50f25202",
+      "text": "Kavga isteyen var mı? Hepinizle birden başa çıkarım!"
+    },
+    {
+      "id": "b9f3d62a",
+      "bank_id": "50f25202",
+      "text": "Hepinizin kafasına sıçacağım ulan!"
+    },
+    {
+      "id": "b9f3d62b",
+      "bank_id": "50f25202",
+      "text": "Ne bakıyorsun öyle? Şişleyeyim mi seni ha?"
+    },
+    {
+      "id": "bcd1fde0",
+      "bank_id": "50f25202",
+      "text": "Kokuşmuş bir ev sahibinden başka bir şey değilsen kılıçların, tüfeklerin ve büyünün ne anlamı var ki?"
+    },
+    {
+      "id": "bcd1fde1",
+      "bank_id": "50f25202",
+      "text": "Kira toplayacağına dışarıda maceralara atılman gerekmez miydi?"
+    },
+    {
+      "id": "bcd1fde2",
+      "bank_id": "50f25202",
+      "text": "Kira gelirleri üzerine nice büyük imparatorluklar kurulmuştur."
+    },
+    {
+      "id": "bcd1fde3",
+      "bank_id": "50f25202",
+      "text": "Meslek olarak ev sahipliği sanatına seni ne çekti peki?"
+    },
+    {
+      "id": "bcd1fde4",
+      "bank_id": "50f25202",
+      "text": "Ah, demek mülkün efendisi sensin. Ev sahibi demek bu anlama geliyor değil mi?"
+    },
+    {
+      "id": "bcd1fde6",
+      "bank_id": "50f25202",
+      "text": "Başka ev satın aldın mı bari?"
+    },
+    {
+      "id": "bcd1fde7",
+      "bank_id": "50f25202",
+      "text": "Ev sahipliği işlerinde son durumlar nedir?"
+    },
+    {
+      "id": "bd47de4a",
+      "bank_id": "50f25202",
+      "text": "Erkek falan değilsin sen, küçük bir veletsin sadece!"
+    },
+    {
+      "id": "bd47de4b",
+      "bank_id": "50f25202",
+      "text": "Bir tokat mı istiyorsun seni bira fıçısı hobbe yalayıcısı!"
+    },
+    {
+      "id": "c003f362",
+      "bank_id": "50f25202",
+      "text": "Haydutlar gelip burayı yerle bir edecek!"
+    },
+    {
+      "id": "c003f363",
+      "bank_id": "50f25202",
+      "text": "Nefes almayı kesin sizi domuzlar! Havayı kirletiyorsunuz!"
+    },
+    {
+      "id": "c1d20580",
+      "bank_id": "50f25202",
+      "text": "Hiç adil değil biliyor musun? Ben kendi donuma bile sahip değilken sen ev üstüne ev kiralıyorsun."
+    },
+    {
+      "id": "c1d20581",
+      "bank_id": "50f25202",
+      "text": "Nasıl başladın bu işe? Önce bir karton kutu sahibi olup sonra basamakları mı tırmandın?"
+    },
+    {
+      "id": "c1d20582",
+      "bank_id": "50f25202",
+      "text": "İyi günler ev sahibi."
+    },
+    {
+      "id": "c1d20583",
+      "bank_id": "50f25202",
+      "text": "Ah, mülk sahibi teşrif etmiş. Selamlar."
+    },
+    {
+      "id": "c1d20585",
+      "bank_id": "50f25202",
+      "text": "Ev sahipliği işleri nasıl gidiyor bakalım?"
+    },
+    {
+      "id": "c1d20586",
+      "bank_id": "50f25202",
+      "text": "Yatakta biraz nem fark ettim ev sahibi. Sabah bir uyanıyorum ki sırılsıklam!"
+    },
+    {
+      "id": "c1d20587",
+      "bank_id": "50f25202",
+      "text": "Çok evin var mı bari?"
+    },
+    {
+      "id": "c2f3e47e",
+      "bank_id": "50f25202",
+      "text": "Ne dik dik bakıyorsunuz hepiniz?! Hepinizin boynunu kırarım ulan!"
+    },
+    {
+      "id": "c2f3e47f",
+      "bank_id": "50f25202",
+      "text": "Bela arayan var mı aranızda? Bende bolca var!"
+    },
+    {
+      "id": "c82cc4f6",
+      "bank_id": "50f25202",
+      "text": "Bir öpücük ver bakalım tatlım! Ne oldu, bana fazla mı geldin?!"
+    },
+    {
+      "id": "c82cc4f7",
+      "bank_id": "50f25202",
+      "text": "Bir yosma için fazla havalısın sen de. Bana bir kek pişirsene sen! Ha ha!"
+    },
+    {
+      "id": "c98881f0",
+      "bank_id": "50f25202",
+      "text": "Bütün dükkânlar için kapanış vakti!"
+    },
+    {
+      "id": "cec1ea66",
+      "bank_id": "50f25202",
+      "text": "Umarım balverine'ler dalağını yer!"
+    },
+    {
+      "id": "cec1ea67",
+      "bank_id": "50f25202",
+      "text": "Burada sana ihtiyacımız yok! Defol git!"
+    },
+    {
+      "id": "d12cd2da",
+      "bank_id": "50f25202",
+      "text": "Ne oldu tatlım? Ağlamaya mı başlayacaksın yoksa? Ha ha!"
+    },
+    {
+      "id": "d12cd2db",
+      "bank_id": "50f25202",
+      "text": "Kendine kadın mı diyorsun bir de sen?! Peh, tam bir komedisin!"
+    },
+    {
+      "id": "d70c1536",
+      "bank_id": "50f25202",
+      "text": "Kendi evimi alacak paramın olmaması ne acı. Neyse ki kira o kadar da fena değil en azından."
+    },
+    {
+      "id": "d70c1537",
+      "bank_id": "50f25202",
+      "text": "Kira gayet makul aslında. Pek pahalı sayılmaz."
+    },
+    {
+      "id": "d7c1f84a",
+      "bank_id": "50f25202",
+      "text": "Ünlü olmana yardım edeyim ben. Ağzını burnunu kırdırdığın için ünlü olursun!"
+    },
+    {
+      "id": "d7c1f84b",
+      "bank_id": "50f25202",
+      "text": "Bütün derdin ünlü olmak. Seni hem ölü hem ünlü yapmama ne dersin?"
+    },
+    {
+      "id": "de0c2032",
+      "bank_id": "50f25202",
+      "text": "Keşke ben de ev sahibi olsaydım."
+    },
+    {
+      "id": "de0c2033",
+      "bank_id": "50f25202",
+      "text": "Ev kiralayarak çok para kazanıyor musun bari?"
+    },
+    {
+      "id": "de0c2034",
+      "bank_id": "50f25202",
+      "text": "En azından bu ay kirayı ödemekte hiç zorlanmayacağım."
+    },
+    {
+      "id": "de0c2035",
+      "bank_id": "50f25202",
+      "text": "Çok evin var mı peki?"
+    },
+    {
+      "id": "de0c2036",
+      "bank_id": "50f25202",
+      "text": "Ev sahibi olmaktan keyif alıyor musun?"
+    },
+    {
+      "id": "e84f989c",
+      "bank_id": "50f25202",
+      "text": "Ne bir avuç eziksiniz be!"
+    },
+    {
+      "id": "e84f989d",
+      "bank_id": "50f25202",
+      "text": "Hepiniz işe yaramazsınız!"
+    },
+    {
+      "id": "ea613eb6",
+      "bank_id": "50f25202",
+      "text": "Güneşin önünü kesen bir şey mi var orada? Senin koca kafan olmalı!"
+    },
+    {
+      "id": "ea613eb7",
+      "bank_id": "50f25202",
+      "text": "Ay bana bakın ben ünlü olmak istiyorum! Midemi bulandırıyorsun!"
+    },
+    {
+      "id": "eafc4744",
+      "bank_id": "50f25202",
+      "text": "Pek güzel sakal bırakmışsın canım!"
+    },
+    {
+      "id": "eafc4745",
+      "bank_id": "50f25202",
+      "text": "Git de yemek pişir kadın!"
+    },
+    {
+      "id": "ed4fa0bc",
+      "bank_id": "50f25202",
+      "text": "Kafanızı bir tarafınıza sokmuşsunuz resmen!"
+    },
+    {
+      "id": "ed4fa0bd",
+      "bank_id": "50f25202",
+      "text": "Hepiniz yanmayı hak ediyorsunuz!"
+    },
+    {
+      "id": "ee845c10",
+      "bank_id": "50f25202",
+      "text": "Senin gibi aptalları zevk için öldürürüm ben! Göstereyim sana!"
+    },
+    {
+      "id": "ee845c11",
+      "bank_id": "50f25202",
+      "text": "Benim annem bile senden daha erkek!"
+    },
+    {
+      "id": "f3614c9a",
+      "bank_id": "50f25202",
+      "text": "Kendini hepimizden iyi mi sanıyorsun? Peh! Bir trol pisliğinden farksızsın!"
+    },
+    {
+      "id": "f3614c9b",
+      "bank_id": "50f25202",
+      "text": "Macera mı istiyorsun? Gözüne kılıç sokmayı dene bakalım!"
+    },
+    {
+      "id": "f3846430",
+      "bank_id": "50f25202",
+      "text": "Korktun değil mi?! Koş ananın yanına!"
+    },
+    {
+      "id": "f3846431",
+      "bank_id": "50f25202",
+      "text": "Meyhanenin zemininde kendinden geçmiş yatanlar bile senden daha erkekti be."
+    },
+    {
+      "id": "f5fc58f5",
+      "bank_id": "50f25202",
+      "text": "Iyyy, parfümün ne senin, hobbe teri mi?"
+    },
+    {
+      "id": "fa5cf5b8",
+      "bank_id": "50f25202",
+      "text": "Ağlayarak kaçıp gitsene sen seni aptal kadın?"
+    },
+    {
+      "id": "fbf017b2",
+      "bank_id": "50f25202",
+      "text": "Kendini özel mi sanıyorsun? Göster marifetini o zaman!"
+    },
+    {
+      "id": "fbf017b3",
+      "bank_id": "50f25202",
+      "text": "Sana asla unutamayacağın bir ders vereyim de gör!"
+    },
+    {
+      "id": "fcd1cc56",
+      "bank_id": "50f25202",
+      "text": "Mutfağına dön kadın!"
+    },
+    {
+      "id": "fcd1cc57",
+      "bank_id": "50f25202",
+      "text": "Hey! Sen genelevde çalışmıyor muydun? Hani şu ucuz olanı!"
+    }
+  ]
+}

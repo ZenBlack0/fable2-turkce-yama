@@ -1,0 +1,731 @@
+{
+  "bank_id": "8011ab00",
+  "total_strings": 145,
+  "strings": [
+    {
+      "id": "10df97a2",
+      "bank_id": "8011ab00",
+      "text": "Oho, bayağı hareketlerin var ufaklık! Annenden mi öğrendin?"
+    },
+    {
+      "id": "10df97a9",
+      "bank_id": "8011ab00",
+      "text": "Oho, bayağı hareketlerin var ufaklık! Babandan mı öğrendin?"
+    },
+    {
+      "id": "2598ec70",
+      "bank_id": "8011ab00",
+      "text": "Güzel hareket! Tepeden tırnağa bir maceracı oğlusun."
+    },
+    {
+      "id": "25e73fc3",
+      "bank_id": "8011ab00",
+      "text": "Vay, cesur maceracı! Babanla göreve mi çıkıyorsun yoksa?"
+    },
+    {
+      "id": "25e73fc8",
+      "bank_id": "8011ab00",
+      "text": "Vay, cesur maceracı! Annenle göreve mi çıkıyorsun yoksa?"
+    },
+    {
+      "id": "28868303",
+      "bank_id": "8011ab00",
+      "text": "Ha! Tıpkı babası gibi tam bir komedyen bu kız."
+    },
+    {
+      "id": "28868308",
+      "bank_id": "8011ab00",
+      "text": "Ha! Tıpkı annesi gibi tam bir komedyen bu kız."
+    },
+    {
+      "id": "29267154",
+      "bank_id": "8011ab00",
+      "text": "Aah, tıpkı babası gibi iyi bir çocuk."
+    },
+    {
+      "id": "2926715f",
+      "bank_id": "8011ab00",
+      "text": "Aah, tıpkı annesi gibi iyi bir çocuk."
+    },
+    {
+      "id": "29ade7b5",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Tıpkı baban gibi komedi yeteneğin var."
+    },
+    {
+      "id": "29ade7be",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Tıpkı annen gibi komedi yeteneğin var."
+    },
+    {
+      "id": "2a98f410",
+      "bank_id": "8011ab00",
+      "text": "Bakar mısın şuna, fıstık gibi bir çocuk değil misin sen?"
+    },
+    {
+      "id": "2a98f415",
+      "bank_id": "8011ab00",
+      "text": "Çok tatlı bir çocuksun. Harika bir maceracı olacağına bahse girerim."
+    },
+    {
+      "id": "31ecc4d7",
+      "bank_id": "8011ab00",
+      "text": "Şuna bir bakar mısınız. Hık demiş babasının burnundan düşmüş, değil mi?"
+    },
+    {
+      "id": "36e9d0a2",
+      "bank_id": "8011ab00",
+      "text": "Hi hi! Neredeyse baban kadar komiksin ufaklık!"
+    },
+    {
+      "id": "36e9d0a9",
+      "bank_id": "8011ab00",
+      "text": "Hi hi! Neredeyse annen kadar komiksin ufaklık!"
+    },
+    {
+      "id": "38b66273",
+      "bank_id": "8011ab00",
+      "text": "Harika değil miydi? Bu kız babasına çekmiş, orası kesin."
+    },
+    {
+      "id": "38b66278",
+      "bank_id": "8011ab00",
+      "text": "Harika değil miydi? Bu kız annesine çekmiş, orası kesin."
+    },
+    {
+      "id": "39e9b946",
+      "bank_id": "8011ab00",
+      "text": "Annen gibi bir maceracı olmak için talim mi yapıyorsun oğlum?"
+    },
+    {
+      "id": "39e9b94d",
+      "bank_id": "8011ab00",
+      "text": "Baban gibi bir maceracı olmak için talim mi yapıyorsun oğlum?"
+    },
+    {
+      "id": "3e8178c3",
+      "bank_id": "8011ab00",
+      "text": "Babanın ayak izlerini takip ediyorsun görüyorum ki, değil mi küçük kız?"
+    },
+    {
+      "id": "3e8178c8",
+      "bank_id": "8011ab00",
+      "text": "Annenin ayak izlerini takip ediyorsun görüyorum ki, değil mi küçük kız?"
+    },
+    {
+      "id": "3f67d706",
+      "bank_id": "8011ab00",
+      "text": "Pek komik genç adam. Tıpkı baban gibi eğlencelisin."
+    },
+    {
+      "id": "3f67d70d",
+      "bank_id": "8011ab00",
+      "text": "Pek komik genç adam. Tıpkı annen gibi eğlencelisin."
+    },
+    {
+      "id": "47cd3fc3",
+      "bank_id": "8011ab00",
+      "text": "Baban gibi bir maceracı olmak için talim mi yapıyorsun kızım?"
+    },
+    {
+      "id": "47cd3fc8",
+      "bank_id": "8011ab00",
+      "text": "Annen gibi bir maceracı olmak için talim mi yapıyorsun kızım?"
+    },
+    {
+      "id": "498a764e",
+      "bank_id": "8011ab00",
+      "text": "Ha ha, komiklikten anlıyorsun değil mi oğlum?"
+    },
+    {
+      "id": "49a88115",
+      "bank_id": "8011ab00",
+      "text": "Bu dövüş hareketlerini annenden öğrendin, değil mi tatlım?"
+    },
+    {
+      "id": "49a8811e",
+      "bank_id": "8011ab00",
+      "text": "Bu dövüş hareketlerini babandan öğrendin, değil mi tatlım?"
+    },
+    {
+      "id": "4b54f704",
+      "bank_id": "8011ab00",
+      "text": "Harika iş oğlum. Tıpkı annene çekmişsin."
+    },
+    {
+      "id": "4b54f70f",
+      "bank_id": "8011ab00",
+      "text": "Harika iş oğlum. Tıpkı babana çekmişsin."
+    },
+    {
+      "id": "527f31df",
+      "bank_id": "8011ab00",
+      "text": "Şuna bir bakar mısınız. Hık demiş annesinin burnundan düşmüş, değil mi?"
+    },
+    {
+      "id": "5c217b70",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar da sevimli bir kız. Annen seni çok iyi eğitmiş."
+    },
+    {
+      "id": "5c217b7b",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar da sevimli bir kız. Baban seni çok iyi eğitmiş."
+    },
+    {
+      "id": "5fa68af0",
+      "bank_id": "8011ab00",
+      "text": "Babana özenmek için bu kadar sert oynaman şart mı evladım?"
+    },
+    {
+      "id": "5fa68afb",
+      "bank_id": "8011ab00",
+      "text": "Annene özenmek için bu kadar sert oynaman şart mı evladım?"
+    },
+    {
+      "id": "60f89db6",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Bayağı komikti bu! Baban mı öğretti bunu sana oğlum?"
+    },
+    {
+      "id": "60f89dbd",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Bayağı komikti bu! Annen mi öğretti bunu sana oğlum?"
+    },
+    {
+      "id": "63a883b4",
+      "bank_id": "8011ab00",
+      "text": "Baban gibi canavarlarla mı dövüşüyorsun oğlum?"
+    },
+    {
+      "id": "63a883bf",
+      "bank_id": "8011ab00",
+      "text": "Annen gibi canavarlarla mı dövüşüyorsun oğlum?"
+    },
+    {
+      "id": "6ba0ba77",
+      "bank_id": "8011ab00",
+      "text": "Aah, tıpkı annesi gibi iyi bir çocuk."
+    },
+    {
+      "id": "6ba0ba7c",
+      "bank_id": "8011ab00",
+      "text": "Aah, tıpkı babası gibi iyi bir çocuk."
+    },
+    {
+      "id": "6d29a0a5",
+      "bank_id": "8011ab00",
+      "text": "Güzel iş. Babasını daha önce bunu yaparken gördüğüme eminim."
+    },
+    {
+      "id": "6d29a0ae",
+      "bank_id": "8011ab00",
+      "text": "Güzel iş. Annesini daha önce bunu yaparken gördüğüme eminim."
+    },
+    {
+      "id": "6d5cdb06",
+      "bank_id": "8011ab00",
+      "text": "Ha! Tıpkı annesi gibi tam bir komedyen."
+    },
+    {
+      "id": "6d5cdb0d",
+      "bank_id": "8011ab00",
+      "text": "Ha! Tıpkı babası gibi tam bir komedyen."
+    },
+    {
+      "id": "71322853",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar da büyüleyici küçük bir çocuksun sen. Babana çekmişsin."
+    },
+    {
+      "id": "71322858",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar da büyüleyici küçük bir çocuksun sen. Annene çekmişsin."
+    },
+    {
+      "id": "723992a2",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar tatlı değil mi, babasından öğrenmiş olmalı."
+    },
+    {
+      "id": "723992a9",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar tatlı değil mi, annesinden öğrenmiş olmalı."
+    },
+    {
+      "id": "7297f9c0",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Bayağı komik şeyler bunlar küçük kız."
+    },
+    {
+      "id": "73fe3e03",
+      "bank_id": "8011ab00",
+      "text": "Ho ho! Tıpkı baban gibi bir nükten var küçük hanım."
+    },
+    {
+      "id": "73fe3e08",
+      "bank_id": "8011ab00",
+      "text": "Ho ho! Tıpkı annen gibi bir nükten var küçük hanım."
+    },
+    {
+      "id": "779801e0",
+      "bank_id": "8011ab00",
+      "text": "Ha ha, çok komik küçük bir kızsın sen."
+    },
+    {
+      "id": "7dfde224",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Bayağı komikti bu! Baban mı öğretti bunu sana kızım?"
+    },
+    {
+      "id": "7dfde22f",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Bayağı komikti bu! Annen mi öğretti bunu sana kızım?"
+    },
+    {
+      "id": "7f9a4517",
+      "bank_id": "8011ab00",
+      "text": "Oho, bayağı hareketlerin var ufaklık! Babandan mı öğrendin?"
+    },
+    {
+      "id": "7f9a451c",
+      "bank_id": "8011ab00",
+      "text": "Oho, bayağı hareketlerin var ufaklık! Annenden mi öğrendin?"
+    },
+    {
+      "id": "80a715b4",
+      "bank_id": "8011ab00",
+      "text": "Ayy, şuna bir bakar mısınız. Tıpkı annesi gibi bir maceracı olmak istiyor."
+    },
+    {
+      "id": "80a715bf",
+      "bank_id": "8011ab00",
+      "text": "Ayy, şuna bir bakar mısınız. Tıpkı babası gibi bir maceracı olmak istiyor."
+    },
+    {
+      "id": "8d5d6b56",
+      "bank_id": "8011ab00",
+      "text": "Aynen öyle kızım, sen de bir maceracı olabilirsin."
+    },
+    {
+      "id": "8e1a4660",
+      "bank_id": "8011ab00",
+      "text": "Ayy, ne kadar tatlı değil mi? Tıpkı babası gibi bir maceracı olmaya çalışıyor."
+    },
+    {
+      "id": "8e1a466b",
+      "bank_id": "8011ab00",
+      "text": "Ayy, ne kadar tatlı değil mi? Tıpkı annesi gibi bir maceracı olmaya çalışıyor."
+    },
+    {
+      "id": "8f80c215",
+      "bank_id": "8011ab00",
+      "text": "<laughs> Doğuştan yeteneklisin! Komiklik ailenizde genetik olmalı."
+    },
+    {
+      "id": "93d8f794",
+      "bank_id": "8011ab00",
+      "text": "Hi hi! Neredeyse baban kadar komiksin ufaklık!"
+    },
+    {
+      "id": "93d8f79f",
+      "bank_id": "8011ab00",
+      "text": "Hi hi! Neredeyse annen kadar komiksin ufaklık!"
+    },
+    {
+      "id": "943fd2e0",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Komik olmayı annenden mi öğrendin?"
+    },
+    {
+      "id": "943fd2eb",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Komik olmayı babandan mı öğrendin?"
+    },
+    {
+      "id": "965d79b9",
+      "bank_id": "8011ab00",
+      "text": "Kudretli maceracının kızına teslim oluyorum."
+    },
+    {
+      "id": "965d79ba",
+      "bank_id": "8011ab00",
+      "text": "Pes ediyorum kızım. Ha ha. Pes ettim."
+    },
+    {
+      "id": "9930e168",
+      "bank_id": "8011ab00",
+      "text": "Çok tatlı bir kızsın doğrusu. Anne baban seni çok iyi yetiştirmiş."
+    },
+    {
+      "id": "9930e16d",
+      "bank_id": "8011ab00",
+      "text": "Harika bir savaşçı kadın olacağına bahse girerim ufaklık."
+    },
+    {
+      "id": "9c485fb6",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar da iyi bir çocuk. Bana babasını hatırlatıyor."
+    },
+    {
+      "id": "9c485fbd",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar da iyi bir çocuk. Bana annesini hatırlatıyor."
+    },
+    {
+      "id": "a28d15b4",
+      "bank_id": "8011ab00",
+      "text": "Vay canına! Çok geçmeden trollerle dövüşecek bu kız, tıpkı annesi gibi."
+    },
+    {
+      "id": "a28d15bf",
+      "bank_id": "8011ab00",
+      "text": "Vay canına! Çok geçmeden trollerle dövüşecek bu kız, tıpkı babası gibi."
+    },
+    {
+      "id": "a430f298",
+      "bank_id": "8011ab00",
+      "text": "Güzel hareket! Damarlarında maceracı kanı olduğu belli küçük kız."
+    },
+    {
+      "id": "a8ac9d06",
+      "bank_id": "8011ab00",
+      "text": "Güzel numara. Annesini daha önce bunu yaparken gördüğüme eminim."
+    },
+    {
+      "id": "a8ac9d0d",
+      "bank_id": "8011ab00",
+      "text": "Güzel numara. Babasını daha önce bunu yaparken gördüğüme eminim."
+    },
+    {
+      "id": "ae2d3225",
+      "bank_id": "8011ab00",
+      "text": "Baban gibi bir maceracı mısın sen tatlım?"
+    },
+    {
+      "id": "ae2d322e",
+      "bank_id": "8011ab00",
+      "text": "Annen gibi bir maceracı mısın sen tatlım?"
+    },
+    {
+      "id": "b5f110c1",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar tatlı değil mi, annesinden öğrenmiş olmalı."
+    },
+    {
+      "id": "b5f110ca",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar tatlı değil mi, babasından öğrenmiş olmalı."
+    },
+    {
+      "id": "b66ffd50",
+      "bank_id": "8011ab00",
+      "text": "Ha! Annen gibi soytarı olmak için talim mi yapıyorsun?"
+    },
+    {
+      "id": "b66ffd5b",
+      "bank_id": "8011ab00",
+      "text": "Ha! Baban gibi soytarı olmak için talim mi yapıyorsun?"
+    },
+    {
+      "id": "b9452107",
+      "bank_id": "8011ab00",
+      "text": "Son derece tatlı bir kız, tıpkı annesi gibi cana yakın."
+    },
+    {
+      "id": "b945210c",
+      "bank_id": "8011ab00",
+      "text": "Son derece tatlı bir kız, tıpkı babası gibi cana yakın."
+    },
+    {
+      "id": "c1b4a736",
+      "bank_id": "8011ab00",
+      "text": "Ha, baban gibi bir maceracı mısın sen küçük kız?"
+    },
+    {
+      "id": "c1b4a73d",
+      "bank_id": "8011ab00",
+      "text": "Ha, annen gibi bir maceracı mısın sen küçük kız?"
+    },
+    {
+      "id": "c33ed085",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar da iyi bir kız. Bana annesini hatırlatıyor."
+    },
+    {
+      "id": "c33ed08e",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar da iyi bir kız. Bana babasını hatırlatıyor."
+    },
+    {
+      "id": "c40a4a52",
+      "bank_id": "8011ab00",
+      "text": "Ayy, annen gibi bir görevde misin sen?"
+    },
+    {
+      "id": "c40a4a59",
+      "bank_id": "8011ab00",
+      "text": "Ayy, baban gibi bir görevde misin sen?"
+    },
+    {
+      "id": "c4ce81b4",
+      "bank_id": "8011ab00",
+      "text": "Çok sevimli bir genç çocuksun sen. Kesinlikle babana çekmişsin."
+    },
+    {
+      "id": "c4ce81bf",
+      "bank_id": "8011ab00",
+      "text": "Çok sevimli bir genç çocuksun sen. Kesinlikle annene çekmişsin."
+    },
+    {
+      "id": "c53c5fa6",
+      "bank_id": "8011ab00",
+      "text": "Ayy, ne kadar tatlı değil mi? Tıpkı babası gibi bir maceracı olmaya çalışıyor."
+    },
+    {
+      "id": "c53c5fad",
+      "bank_id": "8011ab00",
+      "text": "Ayy, ne kadar tatlı değil mi? Tıpkı annesi gibi bir maceracı olmaya çalışıyor."
+    },
+    {
+      "id": "c618bed7",
+      "bank_id": "8011ab00",
+      "text": "<laughs> Doğuştan yeteneklisin! Komiklik ailenizde genetik olmalı."
+    },
+    {
+      "id": "c68b5114",
+      "bank_id": "8011ab00",
+      "text": "Hi hi! Tıpkı annen kadar komiksin."
+    },
+    {
+      "id": "c68b511f",
+      "bank_id": "8011ab00",
+      "text": "Hi hi! Tıpkı baban kadar komiksin."
+    },
+    {
+      "id": "c9759d24",
+      "bank_id": "8011ab00",
+      "text": "Ha ha, ne kadar komik küçük bir kızsın sen. Aklıma babanı getiriyorsun."
+    },
+    {
+      "id": "c9759d2f",
+      "bank_id": "8011ab00",
+      "text": "Ha ha, ne kadar komik küçük bir kızsın sen. Aklıma anneni getiriyorsun."
+    },
+    {
+      "id": "c9f04596",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Çok eğlenceli. Tıpkı annen gibi bir komedyensin oğlum."
+    },
+    {
+      "id": "c9f0459d",
+      "bank_id": "8011ab00",
+      "text": "Ha ha! Çok eğlenceli. Tıpkı baban gibi bir komedyensin oğlum."
+    },
+    {
+      "id": "cdec94a1",
+      "bank_id": "8011ab00",
+      "text": "Vay canına! Çok geçmeden trollerle dövüşecek bu oğlan, tıpkı babası gibi."
+    },
+    {
+      "id": "cdec94aa",
+      "bank_id": "8011ab00",
+      "text": "Vay canına! Çok geçmeden trollerle dövüşecek bu oğlan, tıpkı annesi gibi."
+    },
+    {
+      "id": "cfbe0737",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar da sevimli bir kızsın sen. Annenin o tatlı mizacına sahipsin."
+    },
+    {
+      "id": "cfbe073c",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar da sevimli bir kızsın sen. Babanın o tatlı mizacına sahipsin."
+    },
+    {
+      "id": "d643b377",
+      "bank_id": "8011ab00",
+      "text": "Tebrikler! Babanın kızı olduğunu kanıtladın."
+    },
+    {
+      "id": "d643b37c",
+      "bank_id": "8011ab00",
+      "text": "Tebrikler! Annenin kızı olduğunu kanıtladın."
+    },
+    {
+      "id": "d791bf61",
+      "bank_id": "8011ab00",
+      "text": "Annenin ayak izlerini takip edip bir maceracı olmak istediğini görüyorum."
+    },
+    {
+      "id": "d791bf6a",
+      "bank_id": "8011ab00",
+      "text": "Babanın ayak izlerini takip edip bir maceracı olmak istediğini görüyorum."
+    },
+    {
+      "id": "dae59d94",
+      "bank_id": "8011ab00",
+      "text": "Çok sevimli bir çocuk. Neredeyse babası kadar iyi."
+    },
+    {
+      "id": "dae59d9f",
+      "bank_id": "8011ab00",
+      "text": "Çok sevimli bir çocuk. Neredeyse annesi kadar iyi."
+    },
+    {
+      "id": "de362cb5",
+      "bank_id": "8011ab00",
+      "text": "Ha! Baban gibi soytarı olmak için talim mi yapıyorsun?"
+    },
+    {
+      "id": "de362cbe",
+      "bank_id": "8011ab00",
+      "text": "Ha! Annen gibi soytarı olmak için talim mi yapıyorsun?"
+    },
+    {
+      "id": "df6682e2",
+      "bank_id": "8011ab00",
+      "text": "Ha! Şu kız babasının şakalarını çalıyormuş meğer!"
+    },
+    {
+      "id": "df6682e9",
+      "bank_id": "8011ab00",
+      "text": "Ha! Şu kız annesinin şakalarını çalıyormuş meğer!"
+    },
+    {
+      "id": "e5a2afd1",
+      "bank_id": "8011ab00",
+      "text": "Babanın ayak izlerini takip ediyorsun görüyorum ki, değil mi delikanlı?"
+    },
+    {
+      "id": "e5a2afda",
+      "bank_id": "8011ab00",
+      "text": "Annenin ayak izlerini takip ediyorsun görüyorum ki, değil mi delikanlı?"
+    },
+    {
+      "id": "ea8d7ca3",
+      "bank_id": "8011ab00",
+      "text": "Ah, beni çok güldürüyor bu kız. Tıpkı babası gibi."
+    },
+    {
+      "id": "ea8d7ca8",
+      "bank_id": "8011ab00",
+      "text": "Ah, beni çok güldürüyor bu kız. Tıpkı annesi gibi."
+    },
+    {
+      "id": "eaeb26a3",
+      "bank_id": "8011ab00",
+      "text": "Bu dövüş hareketlerini annenden öğrendin, değil mi oğlum?"
+    },
+    {
+      "id": "eaeb26a8",
+      "bank_id": "8011ab00",
+      "text": "Bu dövüş hareketlerini babandan öğrendin, değil mi oğlum?"
+    },
+    {
+      "id": "eb63b274",
+      "bank_id": "8011ab00",
+      "text": "Hey, ben haydut falan değilim biliyorsun!"
+    },
+    {
+      "id": "eb63b277",
+      "bank_id": "8011ab00",
+      "text": "Vay canına, gerçek bir maceracı oğlu tarafından yere serildim."
+    },
+    {
+      "id": "edd6af54",
+      "bank_id": "8011ab00",
+      "text": "Ha! Şu oğlan babasının şakalarını çalıyormuş meğer!"
+    },
+    {
+      "id": "edd6af5f",
+      "bank_id": "8011ab00",
+      "text": "Ha! Şu oğlan annesinin şakalarını çalıyormuş meğer!"
+    },
+    {
+      "id": "ef09f610",
+      "bank_id": "8011ab00",
+      "text": "Püff! Arada bir nane şekeri kullanmayı deneyebilirsin!"
+    },
+    {
+      "id": "ef09f611",
+      "bank_id": "8011ab00",
+      "text": "Öpmeyi nereden öğrendin sen? Korkunç."
+    },
+    {
+      "id": "ef09f613",
+      "bank_id": "8011ab00",
+      "text": "Ne kadar korkunç bir öpücük."
+    },
+    {
+      "id": "ef09f614",
+      "bank_id": "8011ab00",
+      "text": "Öpüşme tekniğin utanç verici."
+    },
+    {
+      "id": "ef09f615",
+      "bank_id": "8011ab00",
+      "text": "Kuru erik gibi dudakların var."
+    },
+    {
+      "id": "ef09f616",
+      "bank_id": "8011ab00",
+      "text": "Bir trolün arkasını öpmeyi yeğlerim."
+    },
+    {
+      "id": "ef09f617",
+      "bank_id": "8011ab00",
+      "text": "Ne iğrenç bir öpücük."
+    },
+    {
+      "id": "f1bfbf50",
+      "bank_id": "8011ab00",
+      "text": "Harika değil miydi? Bu oğlan annesine çekmiş, orası kesin."
+    },
+    {
+      "id": "f1bfbf5b",
+      "bank_id": "8011ab00",
+      "text": "Harika değil miydi? Bu oğlan babasına çekmiş, orası kesin."
+    },
+    {
+      "id": "f60a0110",
+      "bank_id": "8011ab00",
+      "text": "Dudaklarım daha önce böylesi vahşi bir kokuşmuşluğun saldırısına uğramamıştı."
+    },
+    {
+      "id": "f60a0111",
+      "bank_id": "8011ab00",
+      "text": "Çok iğrenç öpüşüyorsun."
+    },
+    {
+      "id": "f60a0112",
+      "bank_id": "8011ab00",
+      "text": "O dudakları bir daha bana yaklaştırma sakın."
+    },
+    {
+      "id": "f60a0113",
+      "bank_id": "8011ab00",
+      "text": "Onun yerine gidip bir kaktüsü öpsene sen?"
+    },
+    {
+      "id": "f60a0114",
+      "bank_id": "8011ab00",
+      "text": "Ööğ! Beni bir daha sakın öpme."
+    },
+    {
+      "id": "f60a0115",
+      "bank_id": "8011ab00",
+      "text": "Iyy! Tıpkı bir hobbe'yi öpmek gibi!"
+    },
+    {
+      "id": "f60a0116",
+      "bank_id": "8011ab00",
+      "text": "Hayatımda gördüğüm en berbat öpücük."
+    },
+    {
+      "id": "f663c3a4",
+      "bank_id": "8011ab00",
+      "text": "Tepeden tırnağa bir maceracı oğlusun sen, değil mi?"
+    }
+  ]
+}

@@ -1,0 +1,1286 @@
+{
+  "bank_id": "504f2802",
+  "total_strings": 256,
+  "strings": [
+    {
+      "id": "0419a30b",
+      "bank_id": "504f2802",
+      "text": "Çok iyi bir insansın."
+    },
+    {
+      "id": "12e46a48",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "13980378",
+      "bank_id": "504f2802",
+      "text": "Senden o kadar nefret ediyorum ki."
+    },
+    {
+      "id": "13dd0eae",
+      "bank_id": "504f2802",
+      "text": "<yelps> Ölmüşler!"
+    },
+    {
+      "id": "17e47269",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "18980b19",
+      "bank_id": "504f2802",
+      "text": "Sen gelmiş geçmiş en aşağılık insansın."
+    },
+    {
+      "id": "1cdd1cfb",
+      "bank_id": "504f2802",
+      "text": "O gerçek bir ceset mi? Vay canına..."
+    },
+    {
+      "id": "20f8ae0e",
+      "bank_id": "504f2802",
+      "text": "Senden nefret ediyorum, nefret ediyorum, nefret ediyorum!"
+    },
+    {
+      "id": "23590b82",
+      "bank_id": "504f2802",
+      "text": "Bir ölü daha."
+    },
+    {
+      "id": "23590b83",
+      "bank_id": "504f2802",
+      "text": "Bahse girerim bu eceliyle ölmemiştir."
+    },
+    {
+      "id": "23590b84",
+      "bank_id": "504f2802",
+      "text": "Bakın! Bir ceset! Hayatım boyunca unutamayacağım bunu!"
+    },
+    {
+      "id": "23590b85",
+      "bank_id": "504f2802",
+      "text": "Bir ceset!"
+    },
+    {
+      "id": "23590b87",
+      "bank_id": "504f2802",
+      "text": "Ne kadar korkunç. Yine de gördüğüm ilk ceset değil."
+    },
+    {
+      "id": "29f8bc5b",
+      "bank_id": "504f2802",
+      "text": "Dünyadaki en berbat aptalsın sen!"
+    },
+    {
+      "id": "2a3349f0",
+      "bank_id": "504f2802",
+      "text": "Biri şu kişiye bakmalı."
+    },
+    {
+      "id": "2a3349f1",
+      "bank_id": "504f2802",
+      "text": "İyi misiniz orada? Ölmediniz, değil mi?"
+    },
+    {
+      "id": "2a3349f2",
+      "bank_id": "504f2802",
+      "text": "Bakın. Umarım sadece uyuyordur."
+    },
+    {
+      "id": "2a3349f4",
+      "bank_id": "504f2802",
+      "text": "Kalkın bakalım derhâl. Tabii mevtayı boylamadıysanız."
+    },
+    {
+      "id": "2a3349f5",
+      "bank_id": "504f2802",
+      "text": "İyi misiniz orada? Ölmediniz, değil mi?"
+    },
+    {
+      "id": "2a3349f6",
+      "bank_id": "504f2802",
+      "text": "Hey, ölmedin değil mi?"
+    },
+    {
+      "id": "2a3349f7",
+      "bank_id": "504f2802",
+      "text": "Yok canım, ölmemişlerdir."
+    },
+    {
+      "id": "2a591688",
+      "bank_id": "504f2802",
+      "text": "<screams> Ölü! Bakın!"
+    },
+    {
+      "id": "2a591689",
+      "bank_id": "504f2802",
+      "text": "Aman Tanrım! Bir ceset!"
+    },
+    {
+      "id": "2a59168a",
+      "bank_id": "504f2802",
+      "text": "Olamaz! Bir ceset!"
+    },
+    {
+      "id": "2a59168e",
+      "bank_id": "504f2802",
+      "text": "Ölmüşler, orası kesin."
+    },
+    {
+      "id": "2a59168f",
+      "bank_id": "504f2802",
+      "text": "Ölü bedenler görmekten nefret ediyorum. Bütün iştahım kaçıyor."
+    },
+    {
+      "id": "32b58414",
+      "bank_id": "504f2802",
+      "text": "Biz bu dünyaya kötülük yapmaya gönderildik, iyilik yapmaya değil."
+    },
+    {
+      "id": "32b58415",
+      "bank_id": "504f2802",
+      "text": "Siz evliya tipler ne kaçırdığınızı bilmiyorsunuz. Kötü olmak çok daha eğlenceli."
+    },
+    {
+      "id": "333357d8",
+      "bank_id": "504f2802",
+      "text": "Belki de biri doktor çağırmalıdır."
+    },
+    {
+      "id": "333357d9",
+      "bank_id": "504f2802",
+      "text": "Biri şu kişinin nabzına bakmalı."
+    },
+    {
+      "id": "333357da",
+      "bank_id": "504f2802",
+      "text": "Bunun gerçekten ölüp ölmediğine bakan oldu mu?"
+    },
+    {
+      "id": "333357db",
+      "bank_id": "504f2802",
+      "text": "Ölmediklerinden emin olmak için biri kontrol etti mi?"
+    },
+    {
+      "id": "333357dc",
+      "bank_id": "504f2802",
+      "text": "Hâlâ nefes alıp almadığına bakmak için kimsede ayna var mı?"
+    },
+    {
+      "id": "333357dd",
+      "bank_id": "504f2802",
+      "text": "Umarım sadece uyuyan biridir."
+    },
+    {
+      "id": "333357df",
+      "bank_id": "504f2802",
+      "text": "O bir ceset değil, değil mi?"
+    },
+    {
+      "id": "36c0ca68",
+      "bank_id": "504f2802",
+      "text": "Sizi görmek çok güzel."
+    },
+    {
+      "id": "36c0ca6a",
+      "bank_id": "504f2802",
+      "text": "Her şey yolunda mı?"
+    },
+    {
+      "id": "36c0ca6b",
+      "bank_id": "504f2802",
+      "text": "Sizi görmek her zaman güzel."
+    },
+    {
+      "id": "36c0ca6c",
+      "bank_id": "504f2802",
+      "text": "Umarım her şey yolunda gidiyordur."
+    },
+    {
+      "id": "36c0ca6d",
+      "bank_id": "504f2802",
+      "text": "Nefis bir gün, değil mi."
+    },
+    {
+      "id": "36c0ca6e",
+      "bank_id": "504f2802",
+      "text": "Buralarda olmanız bir zevk."
+    },
+    {
+      "id": "36c0ca6f",
+      "bank_id": "504f2802",
+      "text": "Ahh, umarım her şey yolundadır."
+    },
+    {
+      "id": "36db2a88",
+      "bank_id": "504f2802",
+      "text": "Buralarda evliya tiplere ihtiyacımız yok bizim."
+    },
+    {
+      "id": "36db2a89",
+      "bank_id": "504f2802",
+      "text": "Değişiklik olsun diye kötü bir şey yapmayı dene. Hadi ama! Hoşuna gidecek."
+    },
+    {
+      "id": "36db2a8d",
+      "bank_id": "504f2802",
+      "text": "Keşke bütün maceracılar sizin gibi dürüst olsa."
+    },
+    {
+      "id": "36db2a8e",
+      "bank_id": "504f2802",
+      "text": "Çoğu savaşçıya merhamet konusunda ders verebilirsiniz."
+    },
+    {
+      "id": "36db2a8f",
+      "bank_id": "504f2802",
+      "text": "Hepimiz sizin kadar dürüst olsaydık dünya çok daha iyi bir yer olurdu."
+    },
+    {
+      "id": "3bc0d209",
+      "bank_id": "504f2802",
+      "text": "Oh, sizi görmek güzel, Kahraman."
+    },
+    {
+      "id": "3bc0d20a",
+      "bank_id": "504f2802",
+      "text": "Umarım her şey yolundadır, Kahraman."
+    },
+    {
+      "id": "3bc0d20b",
+      "bank_id": "504f2802",
+      "text": "Nasıl gidiyor bakalım?"
+    },
+    {
+      "id": "3bc0d20c",
+      "bank_id": "504f2802",
+      "text": "Umarım iyisindir."
+    },
+    {
+      "id": "3bc0d20d",
+      "bank_id": "504f2802",
+      "text": "Seni görmek ne güzel."
+    },
+    {
+      "id": "3bc0d20e",
+      "bank_id": "504f2802",
+      "text": "Hayırlı günler dilerim."
+    },
+    {
+      "id": "3bc0d20f",
+      "bank_id": "504f2802",
+      "text": "Umarım afiyettesinizdir."
+    },
+    {
+      "id": "3bde9ae0",
+      "bank_id": "504f2802",
+      "text": "Adalet tanrıları belanı versin!"
+    },
+    {
+      "id": "3bde9ae1",
+      "bank_id": "504f2802",
+      "text": "Senin gibi biriyle asla konuşmam."
+    },
+    {
+      "id": "3bde9ae2",
+      "bank_id": "504f2802",
+      "text": "Defol git başımdan be!"
+    },
+    {
+      "id": "3bde9ae3",
+      "bank_id": "504f2802",
+      "text": "Uzak dur benden!"
+    },
+    {
+      "id": "3bde9ae4",
+      "bank_id": "504f2802",
+      "text": "Kimse seni burada istemiyor."
+    },
+    {
+      "id": "3bde9ae5",
+      "bank_id": "504f2802",
+      "text": "Tufanlar kopsun üzerine!"
+    },
+    {
+      "id": "3bde9ae7",
+      "bank_id": "504f2802",
+      "text": "Neden sadece evine gitmiyorsun?"
+    },
+    {
+      "id": "3f1e7d78",
+      "bank_id": "504f2802",
+      "text": "Çok temiz bir kalbin var."
+    },
+    {
+      "id": "3f1e7d7a",
+      "bank_id": "504f2802",
+      "text": "O kadar çok erdemin var ki havaya uçup gitmemene şaşmalı."
+    },
+    {
+      "id": "3f1e7d7b",
+      "bank_id": "504f2802",
+      "text": "Ne kadar doğru ve ahlaklı biri olduğunu herkes biliyor."
+    },
+    {
+      "id": "3f1e7d7c",
+      "bank_id": "504f2802",
+      "text": "Tam bir hanım evladısın, değil mi?"
+    },
+    {
+      "id": "3f1e7d7d",
+      "bank_id": "504f2802",
+      "text": "Her zaman doğru olanı yapmak zorundasın, değil mi? Gösteriş meraklısı."
+    },
+    {
+      "id": "3f1e7d7e",
+      "bank_id": "504f2802",
+      "text": "Gerçekten çok erdemli bir insansın."
+    },
+    {
+      "id": "3f1e7d7f",
+      "bank_id": "504f2802",
+      "text": "Ne kadar doğru ve ahlaklı biri olduğunu herkes biliyor."
+    },
+    {
+      "id": "41db3c38",
+      "bank_id": "504f2802",
+      "text": "Kıçından bir çiçek fışkırıyor senin."
+    },
+    {
+      "id": "41db3c39",
+      "bank_id": "504f2802",
+      "text": "Bizden daha üstün olduğunu sanıyorsun, değil mi?"
+    },
+    {
+      "id": "41db3c3c",
+      "bank_id": "504f2802",
+      "text": "Hoş bir insansınız."
+    },
+    {
+      "id": "41db3c3e",
+      "bank_id": "504f2802",
+      "text": "Büyükannemin \"has insan\" dediği tiptensiniz."
+    },
+    {
+      "id": "41db3c3f",
+      "bank_id": "504f2802",
+      "text": "Bu ay kaç tane iyilik yaptınız bakalım?"
+    },
+    {
+      "id": "42dea5e8",
+      "bank_id": "504f2802",
+      "text": "Bizi rahat bırak."
+    },
+    {
+      "id": "42dea5e9",
+      "bank_id": "504f2802",
+      "text": "Seni görmeye tahammülüm yok."
+    },
+    {
+      "id": "42dea5ea",
+      "bank_id": "504f2802",
+      "text": "Burada ne işin var?"
+    },
+    {
+      "id": "42dea5ec",
+      "bank_id": "504f2802",
+      "text": "Gidecek başka bir yerin yok mu senin?!"
+    },
+    {
+      "id": "42dea5ed",
+      "bank_id": "504f2802",
+      "text": "Ah, umarım keskin bir parmaklığa denk gelirsin!"
+    },
+    {
+      "id": "42dea5ee",
+      "bank_id": "504f2802",
+      "text": "Geber git!"
+    },
+    {
+      "id": "42dea5ef",
+      "bank_id": "504f2802",
+      "text": "Yıkıl karşımdan!"
+    },
+    {
+      "id": "441e8519",
+      "bank_id": "504f2802",
+      "text": "Bir çeşit aziz gibisin."
+    },
+    {
+      "id": "441e851a",
+      "bank_id": "504f2802",
+      "text": "Hepimize bir örneksin."
+    },
+    {
+      "id": "441e851b",
+      "bank_id": "504f2802",
+      "text": "Kimse senin kadar iyi değil."
+    },
+    {
+      "id": "441e851c",
+      "bank_id": "504f2802",
+      "text": "Sürekli bu kadar iyi olmaktan bıkmıyor musun?"
+    },
+    {
+      "id": "441e851d",
+      "bank_id": "504f2802",
+      "text": "İyilik yapmayı pek bir seviyorsun, değil mi?"
+    },
+    {
+      "id": "441e851e",
+      "bank_id": "504f2802",
+      "text": "Sen bir erdem timsalisin."
+    },
+    {
+      "id": "441e851f",
+      "bank_id": "504f2802",
+      "text": "Ahlaki duruşuna hayranım."
+    },
+    {
+      "id": "491a2180",
+      "bank_id": "504f2802",
+      "text": "Birileri fena çekmiş kafayı! Ha ha!"
+    },
+    {
+      "id": "491a2187",
+      "bank_id": "504f2802",
+      "text": "Küp gibi içmişsin değil mi? Kokun buraya kadar geliyor."
+    },
+    {
+      "id": "4e1a29a0",
+      "bank_id": "504f2802",
+      "text": "Kendinden geçmişsin resmen, değil mi?"
+    },
+    {
+      "id": "4e1a29a7",
+      "bank_id": "504f2802",
+      "text": "Birileri kafayı fazla çekmiş!"
+    },
+    {
+      "id": "5606d92e",
+      "bank_id": "504f2802",
+      "text": "Hiçbir işe yaramaz aptalın tekisin sen."
+    },
+    {
+      "id": "58e1f858",
+      "bank_id": "504f2802",
+      "text": "Hey, bakın, bir ceset."
+    },
+    {
+      "id": "58e1f859",
+      "bank_id": "504f2802",
+      "text": "Şuna da bir bakın hele. Ölmüş."
+    },
+    {
+      "id": "58e1f85a",
+      "bank_id": "504f2802",
+      "text": "Aman Tanrım, bu bir ceset!"
+    },
+    {
+      "id": "58e1f85b",
+      "bank_id": "504f2802",
+      "text": "Bir kadavra!"
+    },
+    {
+      "id": "58e1f85d",
+      "bank_id": "504f2802",
+      "text": "Ah, bakın! Bir ceset!"
+    },
+    {
+      "id": "58e1f85e",
+      "bank_id": "504f2802",
+      "text": "Aman Tanrım, bu bir ceset!"
+    },
+    {
+      "id": "58e1f85f",
+      "bank_id": "504f2802",
+      "text": "Ölmüşler!"
+    },
+    {
+      "id": "5906eeb0",
+      "bank_id": "504f2802",
+      "text": "Seni görmek güzel."
+    },
+    {
+      "id": "5906eeb3",
+      "bank_id": "504f2802",
+      "text": "İyi günler dilerim."
+    },
+    {
+      "id": "5f06e77b",
+      "bank_id": "504f2802",
+      "text": "Senden zerre kadar hoşlanmıyorum. İşte o kadar."
+    },
+    {
+      "id": "5f8aa34d",
+      "bank_id": "504f2802",
+      "text": "Umarım canavarlar seni yer."
+    },
+    {
+      "id": "63e20988",
+      "bank_id": "504f2802",
+      "text": "Umarım kokmaya başlamadan önce biri şu cesedi kaldırır."
+    },
+    {
+      "id": "63e20989",
+      "bank_id": "504f2802",
+      "text": "Şuna bakın, bir ceset. Bir tane daha."
+    },
+    {
+      "id": "63e2098a",
+      "bank_id": "504f2802",
+      "text": "Ah, ne korkunç! Bir ceset!"
+    },
+    {
+      "id": "63e2098b",
+      "bank_id": "504f2802",
+      "text": "Ceset! Ceset!"
+    },
+    {
+      "id": "63e2098c",
+      "bank_id": "504f2802",
+      "text": "Bu korkunç, bir ceset!"
+    },
+    {
+      "id": "63e2098e",
+      "bank_id": "504f2802",
+      "text": "Olamaz! Bir ceset!"
+    },
+    {
+      "id": "63e2098f",
+      "bank_id": "504f2802",
+      "text": "Ah, ne kadar korkunç! Ölmüşler!"
+    },
+    {
+      "id": "68674ff0",
+      "bank_id": "504f2802",
+      "text": "<screams> Bir ceset!"
+    },
+    {
+      "id": "68674ff1",
+      "bank_id": "504f2802",
+      "text": "<screams> Ölmüşler! Ölü!"
+    },
+    {
+      "id": "68674ff2",
+      "bank_id": "504f2802",
+      "text": "Gördüğüm ilk ceset değil doğrusu. Sonuncusu da olmayacak."
+    },
+    {
+      "id": "68674ff3",
+      "bank_id": "504f2802",
+      "text": "Bir ceset daha, ha?"
+    },
+    {
+      "id": "68674ff4",
+      "bank_id": "504f2802",
+      "text": "Ölü! Bu tek kelimeyle korkunç!"
+    },
+    {
+      "id": "68674ff5",
+      "bank_id": "504f2802",
+      "text": "İnanamıyorum! Ölmüşler!"
+    },
+    {
+      "id": "68674ff7",
+      "bank_id": "504f2802",
+      "text": "Aman Tanrım! Ölmüşler!"
+    },
+    {
+      "id": "6a8ab4fc",
+      "bank_id": "504f2802",
+      "text": "Kimse seni sevmiyor!"
+    },
+    {
+      "id": "6f675af8",
+      "bank_id": "504f2802",
+      "text": "Bunun bir ceset olduğundan oldukça eminim."
+    },
+    {
+      "id": "6f675af9",
+      "bank_id": "504f2802",
+      "text": "Hayır! Bu korkunç! Hayatının baharında biçilmiş!"
+    },
+    {
+      "id": "6f675afa",
+      "bank_id": "504f2802",
+      "text": "Ah bu korkunç. Bu kadar genç ölmek."
+    },
+    {
+      "id": "6f675afc",
+      "bank_id": "504f2802",
+      "text": "Bu cansız bir beden!"
+    },
+    {
+      "id": "6f675afd",
+      "bank_id": "504f2802",
+      "text": "Hayır! Bu korkunç! Hayatının baharında biçilmiş!"
+    },
+    {
+      "id": "6f675afe",
+      "bank_id": "504f2802",
+      "text": "Bu bir ceset, orası kesin."
+    },
+    {
+      "id": "6f675aff",
+      "bank_id": "504f2802",
+      "text": "O bir ceset mi? Öyle görünüyor."
+    },
+    {
+      "id": "7ec3d300",
+      "bank_id": "504f2802",
+      "text": "Karanlık tarafa katıl bize, seni ışık delisi şapşal."
+    },
+    {
+      "id": "8d852938",
+      "bank_id": "504f2802",
+      "text": "Defol git."
+    },
+    {
+      "id": "8d852939",
+      "bank_id": "504f2802",
+      "text": "Yıkıl git."
+    },
+    {
+      "id": "8d85293d",
+      "bank_id": "504f2802",
+      "text": "Uza bakalım!"
+    },
+    {
+      "id": "8d85293e",
+      "bank_id": "504f2802",
+      "text": "Uza bakalım!"
+    },
+    {
+      "id": "8d85293f",
+      "bank_id": "504f2802",
+      "text": "Defol!"
+    },
+    {
+      "id": "98853a68",
+      "bank_id": "504f2802",
+      "text": "Yıkıl git."
+    },
+    {
+      "id": "98853a69",
+      "bank_id": "504f2802",
+      "text": "Defol git."
+    },
+    {
+      "id": "98853a6c",
+      "bank_id": "504f2802",
+      "text": "Uza bakalım!"
+    },
+    {
+      "id": "98853a6e",
+      "bank_id": "504f2802",
+      "text": "Beni rahat bırak be."
+    },
+    {
+      "id": "98853a6f",
+      "bank_id": "504f2802",
+      "text": "Uza bakalım!"
+    },
+    {
+      "id": "9a0bc168",
+      "bank_id": "504f2802",
+      "text": "Kaybolur musun lütfen?"
+    },
+    {
+      "id": "9a0bc16a",
+      "bank_id": "504f2802",
+      "text": "Grrrrr! Defol!"
+    },
+    {
+      "id": "9a0bc16b",
+      "bank_id": "504f2802",
+      "text": "Tam bir gereksiz yer kaplayıcısın."
+    },
+    {
+      "id": "9a0bc16c",
+      "bank_id": "504f2802",
+      "text": "Git de cam ye!"
+    },
+    {
+      "id": "9a0bc16d",
+      "bank_id": "504f2802",
+      "text": "Kahraman kılıklı domuz!"
+    },
+    {
+      "id": "9a0bc16e",
+      "bank_id": "504f2802",
+      "text": "Tüh! Keşke sana hiç gözüm değmeseydi!"
+    },
+    {
+      "id": "9a0bc16f",
+      "bank_id": "504f2802",
+      "text": "Seni görmekten bile nefret ediyorum!"
+    },
+    {
+      "id": "9a86831a",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "9a86831b",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "9a86831c",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "9a86831d",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "9a86831e",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "9a9674e0",
+      "bank_id": "504f2802",
+      "text": "Anlatılanlara bakılırsa davranışlarınız örnek teşkil ediyor."
+    },
+    {
+      "id": "9a9674e1",
+      "bank_id": "504f2802",
+      "text": "Ahlakınızdan ödün vermediğinizi görmek sevindirici."
+    },
+    {
+      "id": "9a9674e2",
+      "bank_id": "504f2802",
+      "text": "Ahlaki değerlerine bağlı kalmayı sevenlerdensin, değil mi?"
+    },
+    {
+      "id": "9a9674e3",
+      "bank_id": "504f2802",
+      "text": "Neyin nesisin sen, keşiş falan mı?"
+    },
+    {
+      "id": "9a9674e4",
+      "bank_id": "504f2802",
+      "text": "Bütün iyi işlerinizi duydum!"
+    },
+    {
+      "id": "9a9674e5",
+      "bank_id": "504f2802",
+      "text": "Samimi bir insan olduğunuzu anlayabiliyorum."
+    },
+    {
+      "id": "9a9674e7",
+      "bank_id": "504f2802",
+      "text": "Sizin kadar erdemli olanı pek az bulunur!"
+    },
+    {
+      "id": "9d726c76",
+      "bank_id": "504f2802",
+      "text": "Sürekli iyilik yapmak ve sevinç saçmak... Midemi fazlasıyla bulandırıyorsun."
+    },
+    {
+      "id": "9d726c77",
+      "bank_id": "504f2802",
+      "text": "Azizlere karşı zerre hayranlığım yoktur."
+    },
+    {
+      "id": "9f0bc909",
+      "bank_id": "504f2802",
+      "text": "Geldiğin yere geri dön!"
+    },
+    {
+      "id": "9f0bc90a",
+      "bank_id": "504f2802",
+      "text": "Herkes senden nefret ediyor. Çek git artık!"
+    },
+    {
+      "id": "9f0bc90b",
+      "bank_id": "504f2802",
+      "text": "Umarım boğularak geberirsin!"
+    },
+    {
+      "id": "9f0bc90c",
+      "bank_id": "504f2802",
+      "text": "Seni trol pisliği!"
+    },
+    {
+      "id": "9f0bc90d",
+      "bank_id": "504f2802",
+      "text": "Hâlâ ölmedin mi sen?!"
+    },
+    {
+      "id": "9f0bc90e",
+      "bank_id": "504f2802",
+      "text": "O zehirli dilinle boğulmadın mı hâlâ?"
+    },
+    {
+      "id": "9f0bc90f",
+      "bank_id": "504f2802",
+      "text": "Hor görülmek nasıl bir hismiş bakalım?"
+    },
+    {
+      "id": "9f59c1e8",
+      "bank_id": "504f2802",
+      "text": "Hepimizi öldürecekler!"
+    },
+    {
+      "id": "9f59c1e9",
+      "bank_id": "504f2802",
+      "text": "Başımız fena dertte!"
+    },
+    {
+      "id": "9f59c1ed",
+      "bank_id": "504f2802",
+      "text": "Bizim için geliyorlar!"
+    },
+    {
+      "id": "9f59c1ee",
+      "bank_id": "504f2802",
+      "text": "Geliyorlar! Geliyorlar!"
+    },
+    {
+      "id": "9f59c1ef",
+      "bank_id": "504f2802",
+      "text": "Yardım edin!"
+    },
+    {
+      "id": "a1967fe8",
+      "bank_id": "504f2802",
+      "text": "Sende saf bir şeyler var."
+    },
+    {
+      "id": "a1967fe9",
+      "bank_id": "504f2802",
+      "text": "Dürüst birisin. Anlayabiliyorum."
+    },
+    {
+      "id": "a1967fea",
+      "bank_id": "504f2802",
+      "text": "Güç karşısında yozlaşacak biri değilsin, değil mi?"
+    },
+    {
+      "id": "a1967fec",
+      "bank_id": "504f2802",
+      "text": "Hepimiz sizin gibilerden ahlak dersi alabiliriz."
+    },
+    {
+      "id": "a1967fed",
+      "bank_id": "504f2802",
+      "text": "İçinde hakiki bir ateş yanıyor. Ve hepimizi ısıtıyor."
+    },
+    {
+      "id": "a1967fee",
+      "bank_id": "504f2802",
+      "text": "Ne oldu? Kötülük yapmaya miden mi kaldırmıyor?"
+    },
+    {
+      "id": "a1967fef",
+      "bank_id": "504f2802",
+      "text": "Bahse girerim ortalıkta merhamet dağıtmak için sabırsızlanıyorsundur. Pöh!"
+    },
+    {
+      "id": "a1d4aa82",
+      "bank_id": "504f2802",
+      "text": "O tiksinç derecede masum ruhunu benden uzak tut."
+    },
+    {
+      "id": "a1d4aa83",
+      "bank_id": "504f2802",
+      "text": "Erdeme olan bağlılığına tüküreyim senin."
+    },
+    {
+      "id": "a3869168",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "a3869169",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "a386916b",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "a386916e",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "a386916f",
+      "bank_id": "504f2802",
+      "text": "Pöh!"
+    },
+    {
+      "id": "aa59d318",
+      "bank_id": "504f2802",
+      "text": "Böyle ölmek istemiyorum! Kurtarın beni!"
+    },
+    {
+      "id": "aa59d319",
+      "bank_id": "504f2802",
+      "text": "Hepimizi boğazlayacaklar!"
+    },
+    {
+      "id": "aa59d31c",
+      "bank_id": "504f2802",
+      "text": "Ölmek istemiyorum!"
+    },
+    {
+      "id": "aa59d31e",
+      "bank_id": "504f2802",
+      "text": "Kurtarın beni!"
+    },
+    {
+      "id": "aa59d31f",
+      "bank_id": "504f2802",
+      "text": "Çıkarın beni buradan! Aaaaaahhh!"
+    },
+    {
+      "id": "b47f5672",
+      "bank_id": "504f2802",
+      "text": "Gidin buradan!"
+    },
+    {
+      "id": "b7c50b48",
+      "bank_id": "504f2802",
+      "text": "Hepimizi öldürmek için buradalar!"
+    },
+    {
+      "id": "b7c50b49",
+      "bank_id": "504f2802",
+      "text": "Hayır, lütfen, biri beni kurtarsın!"
+    },
+    {
+      "id": "b7c50b4a",
+      "bank_id": "504f2802",
+      "text": "Hepimizi öldürmek için buradalar!"
+    },
+    {
+      "id": "b7c50b4b",
+      "bank_id": "504f2802",
+      "text": "Öldürmeyin beni!"
+    },
+    {
+      "id": "b7c50b4c",
+      "bank_id": "504f2802",
+      "text": "Biri kurtarsın beni!"
+    },
+    {
+      "id": "b7c50b4d",
+      "bank_id": "504f2802",
+      "text": "Olamaz! Bizi öldürecekler!"
+    },
+    {
+      "id": "b7c50b4e",
+      "bank_id": "504f2802",
+      "text": "İmdat! Lütfen! Biri yardım etsin!"
+    },
+    {
+      "id": "bd7f645f",
+      "bank_id": "504f2802",
+      "text": "Beni rahat bırak!"
+    },
+    {
+      "id": "c0c51998",
+      "bank_id": "504f2802",
+      "text": "Biri yardım etsin bana!"
+    },
+    {
+      "id": "c0c51999",
+      "bank_id": "504f2802",
+      "text": "Hepimizi öldürecekler!"
+    },
+    {
+      "id": "c0c5199b",
+      "bank_id": "504f2802",
+      "text": "İmdat! İmdat!"
+    },
+    {
+      "id": "c0c5199c",
+      "bank_id": "504f2802",
+      "text": "Lütfen! Kimse yok mu! Yardım edin!"
+    },
+    {
+      "id": "c0c5199d",
+      "bank_id": "504f2802",
+      "text": "Biri bana yardım etmeyecek mi? Lütfen!"
+    },
+    {
+      "id": "c0c5199e",
+      "bank_id": "504f2802",
+      "text": "İmdat!"
+    },
+    {
+      "id": "c0c5199f",
+      "bank_id": "504f2802",
+      "text": "İmdat! Beni öldürecekler!"
+    },
+    {
+      "id": "c53c0336",
+      "bank_id": "504f2802",
+      "text": "Şu ideallerin ve yüksek ahlakınla midemi bulandırıyorsun. Senin güzel bir âleme ihtiyacın var tatlım!"
+    },
+    {
+      "id": "c53c0337",
+      "bank_id": "504f2802",
+      "text": "Yozlaşmanın erdemden katbekat üstün olduğunu ne zaman öğreneceksin? Etrafına bir baksana!"
+    },
+    {
+      "id": "cf931b3a",
+      "bank_id": "504f2802",
+      "text": "Sen!"
+    },
+    {
+      "id": "cf931b3b",
+      "bank_id": "504f2802",
+      "text": "Sen!"
+    },
+    {
+      "id": "cf931b3c",
+      "bank_id": "504f2802",
+      "text": "Sen!"
+    },
+    {
+      "id": "cf931b3d",
+      "bank_id": "504f2802",
+      "text": "Sen!"
+    },
+    {
+      "id": "cf931b3e",
+      "bank_id": "504f2802",
+      "text": "Sen!"
+    },
+    {
+      "id": "d8932908",
+      "bank_id": "504f2802",
+      "text": "Sen!"
+    },
+    {
+      "id": "d8932909",
+      "bank_id": "504f2802",
+      "text": "Sen!"
+    },
+    {
+      "id": "d893290b",
+      "bank_id": "504f2802",
+      "text": "Sen!"
+    },
+    {
+      "id": "d893290e",
+      "bank_id": "504f2802",
+      "text": "Sen!"
+    },
+    {
+      "id": "d893290f",
+      "bank_id": "504f2802",
+      "text": "Sen!"
+    },
+    {
+      "id": "d893a3e2",
+      "bank_id": "504f2802",
+      "text": "Gerçekten yaman bir Kahramansın."
+    },
+    {
+      "id": "d893a3e3",
+      "bank_id": "504f2802",
+      "text": "Albion'un geri kalanından bir haber var mı?"
+    },
+    {
+      "id": "d893a3e4",
+      "bank_id": "504f2802",
+      "text": "Seni görmek harika!"
+    },
+    {
+      "id": "d893a3e5",
+      "bank_id": "504f2802",
+      "text": "İyi günler dilerim."
+    },
+    {
+      "id": "d893a3e7",
+      "bank_id": "504f2802",
+      "text": "Buralarda olman çok güzel."
+    },
+    {
+      "id": "df93aee8",
+      "bank_id": "504f2802",
+      "text": "Umarım Kahramanlık hayatı sana iyi geliyordur."
+    },
+    {
+      "id": "df93aee9",
+      "bank_id": "504f2802",
+      "text": "İyi görünüyorsun."
+    },
+    {
+      "id": "df93aeea",
+      "bank_id": "504f2802",
+      "text": "Her zaman bir zevk."
+    },
+    {
+      "id": "df93aeec",
+      "bank_id": "504f2802",
+      "text": "Biliyor musun, bir gün Albion'daki en ünlü kişi olacağına inanıyorum."
+    },
+    {
+      "id": "df93aeed",
+      "bank_id": "504f2802",
+      "text": "Komşu kasabalardan ne haberler getirdin?"
+    },
+    {
+      "id": "df93aeee",
+      "bank_id": "504f2802",
+      "text": "Şu görevler seni meşgul ediyor mu?"
+    },
+    {
+      "id": "df93aeef",
+      "bank_id": "504f2802",
+      "text": "Seni görmek bir zevk."
+    },
+    {
+      "id": "e59b6824",
+      "bank_id": "504f2802",
+      "text": "Her zaman doğru olanı yapıyorsun, değil mi? Babam da hep öyle yapmamı söyler bana..."
+    },
+    {
+      "id": "e5fe61b8",
+      "bank_id": "504f2802",
+      "text": "Umarım kahvaltında boğulursun."
+    },
+    {
+      "id": "e5fe61b9",
+      "bank_id": "504f2802",
+      "text": "Bana bir iyilik yap ve kulağına bıçak sapla."
+    },
+    {
+      "id": "e5fe61ba",
+      "bank_id": "504f2802",
+      "text": "Korkunç ve vahşi bir şekilde ölmeni canıgönülden dilerim."
+    },
+    {
+      "id": "e5fe61bb",
+      "bank_id": "504f2802",
+      "text": "Midemi bulandırıyorsun!"
+    },
+    {
+      "id": "e5fe61bd",
+      "bank_id": "504f2802",
+      "text": "Ciğerinden nefret ediyorum, pislik!"
+    },
+    {
+      "id": "e5fe61be",
+      "bank_id": "504f2802",
+      "text": "Midemi bulandırıyorsun!"
+    },
+    {
+      "id": "e5fe61bf",
+      "bank_id": "504f2802",
+      "text": "Geber inşallah."
+    },
+    {
+      "id": "ea9b6fc5",
+      "bank_id": "504f2802",
+      "text": "Herkes ne kadar iyi olduğunu söylüyor. Ve bu doğru!"
+    },
+    {
+      "id": "f0fe72e8",
+      "bank_id": "504f2802",
+      "text": "Bakalım anlayacak mısın: Senden nefret ediyorum!"
+    },
+    {
+      "id": "f0fe72e9",
+      "bank_id": "504f2802",
+      "text": "Geber."
+    },
+    {
+      "id": "f0fe72ea",
+      "bank_id": "504f2802",
+      "text": "Senden tiksiniyorum."
+    },
+    {
+      "id": "f0fe72eb",
+      "bank_id": "504f2802",
+      "text": "Yavaş ve acı verici bir ölüm yaşamanı canıgönülden dilerim."
+    },
+    {
+      "id": "f0fe72ec",
+      "bank_id": "504f2802",
+      "text": "Defolup gider misin lütfen?"
+    },
+    {
+      "id": "f0fe72ee",
+      "bank_id": "504f2802",
+      "text": "Daha önce kimseden senden nefret ettiğim kadar nefret etmedim."
+    },
+    {
+      "id": "f0fe72ef",
+      "bank_id": "504f2802",
+      "text": "Çekil karşımdan!"
+    },
+    {
+      "id": "f2bbe22e",
+      "bank_id": "504f2802",
+      "text": "Havalı, sensin demek!"
+    },
+    {
+      "id": "f63f3d12",
+      "bank_id": "504f2802",
+      "text": "Bu bir cesede benziyor. Öyle mi?"
+    },
+    {
+      "id": "f63f3d13",
+      "bank_id": "504f2802",
+      "text": "Aman Tanrım, o bir ceset değil, değil mi?"
+    },
+    {
+      "id": "fb19953e",
+      "bank_id": "504f2802",
+      "text": "Nasıl oluyor da hiç kötü şeyler yapmıyorsun?"
+    },
+    {
+      "id": "fb3f4530",
+      "bank_id": "504f2802",
+      "text": "Hey, uyuyor musun yoksa ne?"
+    },
+    {
+      "id": "fb3f4531",
+      "bank_id": "504f2802",
+      "text": "Muhtemelen sadece uyuyorlardır."
+    },
+    {
+      "id": "fb3f4532",
+      "bank_id": "504f2802",
+      "text": "Biri şu bedene tekme atsın da kımıldıyor mu baksın."
+    },
+    {
+      "id": "fb3f4533",
+      "bank_id": "504f2802",
+      "text": "Şu kişi... ölmüş olamaz herhalde."
+    },
+    {
+      "id": "fb3f4535",
+      "bank_id": "504f2802",
+      "text": "Aman Tanrım, ölmemişlerdir değil mi?"
+    },
+    {
+      "id": "fb3f4536",
+      "bank_id": "504f2802",
+      "text": "Şu kişi... ölü mü?"
+    },
+    {
+      "id": "fb3f4537",
+      "bank_id": "504f2802",
+      "text": "Affedersiniz, iyi misiniz?"
+    },
+    {
+      "id": "fbbbf07b",
+      "bank_id": "504f2802",
+      "text": "Selam, seni görmeyi her zaman severim."
+    }
+  ]
+}

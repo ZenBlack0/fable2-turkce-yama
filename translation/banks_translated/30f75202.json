@@ -1,0 +1,656 @@
+{
+  "bank_id": "30f75202",
+  "total_strings": 130,
+  "strings": [
+    {
+      "id": "0aa94104",
+      "bank_id": "30f75202",
+      "text": "Görünüşe göre gerçekten ünlü olmadan önce nalları dikeceksin. Amma acıklı bir durum, değil mi?"
+    },
+    {
+      "id": "0aa94105",
+      "bank_id": "30f75202",
+      "text": "Şu ufacık şöhretinin kafana vurmasına izin vermişsin."
+    },
+    {
+      "id": "0aa94106",
+      "bank_id": "30f75202",
+      "text": "Senin adını duydum. Ama bir haydudu etkilemek için birkaç ufak maceradan fazlası gerekir."
+    },
+    {
+      "id": "0c6b4659",
+      "bank_id": "30f75202",
+      "text": "Böyle güzel ve pırıl pırıl bir silahı nereden buldun lan sen?"
+    },
+    {
+      "id": "0c6b465a",
+      "bank_id": "30f75202",
+      "text": "Sağlam silaha benziyor sendeki. Birinden mi yürüttün?"
+    },
+    {
+      "id": "0c6b465b",
+      "bank_id": "30f75202",
+      "text": "Böyle bir silahı nasıl ele geçirdin bilmem ama çok yakında benim olacak."
+    },
+    {
+      "id": "0ffd5bcc",
+      "bank_id": "30f75202",
+      "text": "Vay vay, pek bir afetsin ha? Kusura bakmazsan ben başka tarafa 'afet' edeceğim!"
+    },
+    {
+      "id": "0ffd5bce",
+      "bank_id": "30f75202",
+      "text": "Hay bin kunduz, seni bebekken kaç kere yere düşürdüler?"
+    },
+    {
+      "id": "0ffd5bcf",
+      "bank_id": "30f75202",
+      "text": "Suratının ortasına sağlam bir kürekle vurmuş olmalılar."
+    },
+    {
+      "id": "14239f78",
+      "bank_id": "30f75202",
+      "text": "Görelim bakalım şu becerilerini."
+    },
+    {
+      "id": "14239f79",
+      "bank_id": "30f75202",
+      "text": "Hızlı hareket ediyorsun. Ama ben daha iyi hareket ederim."
+    },
+    {
+      "id": "14239f7a",
+      "bank_id": "30f75202",
+      "text": "Hadi ama o zaman, göster bana şu alengirli numaralarını."
+    },
+    {
+      "id": "14b8a350",
+      "bank_id": "30f75202",
+      "text": "Dünyadaki bütün kaslar toplansa seni kurtaramaz şimdi. Gerçi BELKİ de kurtarırdı. Ama muhtemelen sağa sola sallanmaktan başka işe yaramazlardı."
+    },
+    {
+      "id": "14b8a352",
+      "bank_id": "30f75202",
+      "text": "Şu kaslarında öyle çok delik açacağım ki burnunu karıştıracak gücün kalmayacak."
+    },
+    {
+      "id": "14b8a353",
+      "bank_id": "30f75202",
+      "text": "Dövüşte güç tek başına yetmez, bilesin. Beyin de lazım insana."
+    },
+    {
+      "id": "14dc34a1",
+      "bank_id": "30f75202",
+      "text": "Bazı becerilerin olduğunu duydum. Bakalım ne kadar iyisin."
+    },
+    {
+      "id": "14dc34a2",
+      "bank_id": "30f75202",
+      "text": "Bakalım ne kadar hızlıymışsın."
+    },
+    {
+      "id": "17b4d560",
+      "bank_id": "30f75202",
+      "text": "Bir maceracıya göre pek ünlü sayılmazsın, değil mi? Belki de sadece bir suçlusundur."
+    },
+    {
+      "id": "17b4d563",
+      "bank_id": "30f75202",
+      "text": "Suç işleyerek kendine nam salmaya mı çalışıyorsun?"
+    },
+    {
+      "id": "18c0c260",
+      "bank_id": "30f75202",
+      "text": "Hey, şu yara izlerine bak. Daha önce başın belaya girmiş galiba?"
+    },
+    {
+      "id": "18c0c263",
+      "bank_id": "30f75202",
+      "text": "Küçük bir yara izi koleksiyonuna başlamışsın bakıyorum."
+    },
+    {
+      "id": "1d9b86ec",
+      "bank_id": "30f75202",
+      "text": "Adını duymuştum. Ama bu adaleti yerine getirmeme engel olmayacak."
+    },
+    {
+      "id": "1d9b86ef",
+      "bank_id": "30f75202",
+      "text": "Ah evet, adını duymuştum. Ama bu seni tutuklamama engel değil."
+    },
+    {
+      "id": "1e7fafed",
+      "bank_id": "30f75202",
+      "text": "Sırf ünlüsün diye kendini birkaç kokmuş hayduttan çok daha üstün sanıyorsun, değil mi? Pöh!"
+    },
+    {
+      "id": "1e7fafee",
+      "bank_id": "30f75202",
+      "text": "Şöhretlerden nefret ederim! Senden ise hepsinden çok."
+    },
+    {
+      "id": "1e7fafef",
+      "bank_id": "30f75202",
+      "text": "Sırf ünlüsün diye etkilendiğimi mi sanıyorsun? Kim olduğun zerre umurumda değil."
+    },
+    {
+      "id": "2191ee34",
+      "bank_id": "30f75202",
+      "text": "Hiç temiz bir dövüş kazandın mı sen? Bütün o yara izlerine bakılırsa pek öyle görünmüyor."
+    },
+    {
+      "id": "2191ee37",
+      "bank_id": "30f75202",
+      "text": "Bir sahtekarı üzerindeki yara izlerinin çokluğundan her zaman anlarsın."
+    },
+    {
+      "id": "3b3208dc",
+      "bank_id": "30f75202",
+      "text": "Pek bir kıvrak çıktın ha ufaklık?"
+    },
+    {
+      "id": "3b3208de",
+      "bank_id": "30f75202",
+      "text": "Nasıl hareket edeceğini biliyorsun. Ama ben de biliyorum."
+    },
+    {
+      "id": "3b3208df",
+      "bank_id": "30f75202",
+      "text": "Bütün becerilerini duydum. Beni gafil avlayamazsın."
+    },
+    {
+      "id": "3e2d7f5c",
+      "bank_id": "30f75202",
+      "text": "Adını duymuş olabilirim ama bu umurumda olduğu anlamına gelmez."
+    },
+    {
+      "id": "3e2d7f5d",
+      "bank_id": "30f75202",
+      "text": "Maceracılık dünyasında biraz ses getirmişsin bakıyorum ha? Çok da umurumda sanki."
+    },
+    {
+      "id": "3e2d7f5f",
+      "bank_id": "30f75202",
+      "text": "Siz lanet maceracıların hepsi aynısınız. Birkaç göreve çıkıp dünyayı yönettiğinizi sanırsınız."
+    },
+    {
+      "id": "41563691",
+      "bank_id": "30f75202",
+      "text": "O güç kanun karşısında pek işine yaramayacak."
+    },
+    {
+      "id": "41563692",
+      "bank_id": "30f75202",
+      "text": "Bakalım ne kadar güçlüymüşsün."
+    },
+    {
+      "id": "432ee120",
+      "bank_id": "30f75202",
+      "text": "Dur bakayım, sen kimdin ya?"
+    },
+    {
+      "id": "432ee121",
+      "bank_id": "30f75202",
+      "text": "Zerre kadar önemsiz biri olmak nasıl bir duygu?"
+    },
+    {
+      "id": "432ee122",
+      "bank_id": "30f75202",
+      "text": "Sen bir hiçsin. Ve bir hiç olarak öleceksin."
+    },
+    {
+      "id": "4481c588",
+      "bank_id": "30f75202",
+      "text": "Gözlerim kanadı resmen. Böyle göz zevki bozan tiplere karşı bize özel koruyucu siperlik falan verseler ya?"
+    },
+    {
+      "id": "4481c58b",
+      "bank_id": "30f75202",
+      "text": "Kanunları çiğnemeye başlamadan önce de bu kadar çirkin miydin?"
+    },
+    {
+      "id": "451be8b0",
+      "bank_id": "30f75202",
+      "text": "Bu kadar lanet olası çirkin olduğun için sana ceza kesmeliyim."
+    },
+    {
+      "id": "451be8b3",
+      "bank_id": "30f75202",
+      "text": "Cidden iğrenç bir trolsün. Senden amma muhafız olurdu."
+    },
+    {
+      "id": "465ad978",
+      "bank_id": "30f75202",
+      "text": "Bunca yara izini nasıl aldın sen? Uslu ve cici biri olarak almadığın kesin."
+    },
+    {
+      "id": "465ad97b",
+      "bank_id": "30f75202",
+      "text": "Bütün o yara izlerini suç işlerken mi aldın? Bahse girerim öyledir."
+    },
+    {
+      "id": "46c2ad75",
+      "bank_id": "30f75202",
+      "text": "Sırf güçlü birisin diye her yaptığının yanına kâr kalacağını sanma."
+    },
+    {
+      "id": "46c2ad76",
+      "bank_id": "30f75202",
+      "text": "Ne kadar güçlü olduğun fark etmez, kanunlara uyacaksın!"
+    },
+    {
+      "id": "474864a2",
+      "bank_id": "30f75202",
+      "text": "Hadi gel bakalım. Göster hünerini."
+    },
+    {
+      "id": "4e39e668",
+      "bank_id": "30f75202",
+      "text": "Bir süre önce benim bazı ahbaplarımı öldürmemiş miydin sen? Hesaplaşma vakti geldi."
+    },
+    {
+      "id": "4e39e66a",
+      "bank_id": "30f75202",
+      "text": "Bir sürü göreve çıktığını falan filan duydum. Siz zıpır maceracıların ne yaptığı benim umurumda mı sanıyorsun?"
+    },
+    {
+      "id": "4e39e66b",
+      "bank_id": "30f75202",
+      "text": "Her zamanki sıkıcı görevleri yapan sıradan bir maceracı daha işte. Amma da sıkıcı."
+    },
+    {
+      "id": "5c36a535",
+      "bank_id": "30f75202",
+      "text": "Bayağı sağlam bir herifsin. Bakalım ne kadar güçlüymüşsün."
+    },
+    {
+      "id": "5c36a53e",
+      "bank_id": "30f75202",
+      "text": "Bayağı sağlam bir kızsın. Bakalım ne kadar güçlüymüşsün."
+    },
+    {
+      "id": "61908258",
+      "bank_id": "30f75202",
+      "text": "Silah çekmede epey hızlı görünüyorsun ama ben de pek yavaş sayılmam."
+    },
+    {
+      "id": "6190825b",
+      "bank_id": "30f75202",
+      "text": "Becerikli olduğunu duydum. Hadi seni bir sınayalım."
+    },
+    {
+      "id": "61b34961",
+      "bank_id": "30f75202",
+      "text": "O silah senin gibiler için fazla pahalı. Çalmış olmalısın kesin."
+    },
+    {
+      "id": "61b34962",
+      "bank_id": "30f75202",
+      "text": "Böyle bir silahı nasıl ele geçirdin sen?"
+    },
+    {
+      "id": "6c96e829",
+      "bank_id": "30f75202",
+      "text": "Maceracılar, hepiniz aynısınız. Azıcık şöhret bulunca dünyayı fethettiğinizi sanırsınız."
+    },
+    {
+      "id": "6c96e82a",
+      "bank_id": "30f75202",
+      "text": "Kanunun üstünde olacak kadar ünlü olduğunu mu sanıyorsun? Hiç sanmıyorum."
+    },
+    {
+      "id": "6dac0554",
+      "bank_id": "30f75202",
+      "text": "Güçlü olduğunu mu sanıyorsun? Ben de çelimsiz sayılmam hani."
+    },
+    {
+      "id": "6dac0557",
+      "bank_id": "30f75202",
+      "text": "Güçlü biri olabilirsin ama muhafızlar da çelimsiz değildir."
+    },
+    {
+      "id": "78df9334",
+      "bank_id": "30f75202",
+      "text": "Hadi bir salla bakalım bana o zaman!"
+    },
+    {
+      "id": "78df9335",
+      "bank_id": "30f75202",
+      "text": "Hadi gel bakalım o zaman!"
+    },
+    {
+      "id": "78df9337",
+      "bank_id": "30f75202",
+      "text": "Hadi vur vurabilirsen!"
+    },
+    {
+      "id": "7c82d499",
+      "bank_id": "30f75202",
+      "text": "Fena hareketlerin yok ama ben de heykel değilim hani."
+    },
+    {
+      "id": "7c82d49a",
+      "bank_id": "30f75202",
+      "text": "Bütün o kurnaz hareketlerine hazırım. Elinden geleni ardına koyma."
+    },
+    {
+      "id": "7c82d49b",
+      "bank_id": "30f75202",
+      "text": "Pek bir hareketli dövüşçüsün ha? Eğlenceli olacak bu."
+    },
+    {
+      "id": "7caa2f49",
+      "bank_id": "30f75202",
+      "text": "Pantolonumu indirip kıllı kıçıma bir surat çizsem seninle girdiğim güzellik yarışmasını yine de kazanırım!"
+    },
+    {
+      "id": "7caa2f4a",
+      "bank_id": "30f75202",
+      "text": "Bizim haydut kampında epey çirkin herifler var ama senin yanında hepsi su perisi gibi kalır."
+    },
+    {
+      "id": "7caa2f4b",
+      "bank_id": "30f75202",
+      "text": "Ha ha! Vay canına! Bir de bana çirkin derler!"
+    },
+    {
+      "id": "85a8edf9",
+      "bank_id": "30f75202",
+      "text": "Şu silahı bıraksan da ikimizi de büyük bir zahmetten kurtarsan nasıl olur?"
+    },
+    {
+      "id": "85a8edfa",
+      "bank_id": "30f75202",
+      "text": "Şu silahı bırakıp çıplak ellerinle dövüşsene? Değişiklik olsun diye yani."
+    },
+    {
+      "id": "85a8edfb",
+      "bank_id": "30f75202",
+      "text": "Eskiden tıpatıp böyle bir silahım vardı benim. Valla bak."
+    },
+    {
+      "id": "88078a9c",
+      "bank_id": "30f75202",
+      "text": "O silah sana fazla iyi. Kendime saklasam iyi olacak."
+    },
+    {
+      "id": "88078a9e",
+      "bank_id": "30f75202",
+      "text": "O silah hediye falan mıydı? Senin gibilere fazlasıyla lüks."
+    },
+    {
+      "id": "88078a9f",
+      "bank_id": "30f75202",
+      "text": "Vay be, o silaha bayıldım. Soğuk ve ölü parmaklarından çekip alsam bir sakıncası olmaz değil mi?"
+    },
+    {
+      "id": "884a9808",
+      "bank_id": "30f75202",
+      "text": "Biri bana bugün kimi öldürdüğümü sorduğunda 'tanımazsınız, önemsizin teki' demek zorunda kalacağım."
+    },
+    {
+      "id": "884a9809",
+      "bank_id": "30f75202",
+      "text": "Bu kolay olmalı. Adını bile duymadım."
+    },
+    {
+      "id": "884a980b",
+      "bank_id": "30f75202",
+      "text": "Kim olduğunu bilmiyorum ve zerre kadar da umurumda değil."
+    },
+    {
+      "id": "8e232958",
+      "bank_id": "30f75202",
+      "text": "O silahı nereden aldın? Oyuncakçıdan mı?"
+    },
+    {
+      "id": "8e23295a",
+      "bank_id": "30f75202",
+      "text": "Neden böyle döküntü bir silah kullanırsın ki?"
+    },
+    {
+      "id": "8e23295b",
+      "bank_id": "30f75202",
+      "text": "Şu turptan daha iyi bir silaha paran yetmedi mi?"
+    },
+    {
+      "id": "8e2d5ef5",
+      "bank_id": "30f75202",
+      "text": "Sokak faresinden başka bir şey değilsin sen!"
+    },
+    {
+      "id": "8e2d5ef6",
+      "bank_id": "30f75202",
+      "text": "Sen kendini ne sanıyorsun ki zaten?"
+    },
+    {
+      "id": "93d65c01",
+      "bank_id": "30f75202",
+      "text": "Silahlarımızı bir deneyelim bakalım o zaman."
+    },
+    {
+      "id": "93d65c02",
+      "bank_id": "30f75202",
+      "text": "O silah seni kurtaramayacak."
+    },
+    {
+      "id": "9c4577ec",
+      "bank_id": "30f75202",
+      "text": "Benden daha güçlü olduğunu mu sanıyorsun? Görelim bakalım, ha?"
+    },
+    {
+      "id": "9c4577ed",
+      "bank_id": "30f75202",
+      "text": "Kastan falan hiç etkilenmem ben."
+    },
+    {
+      "id": "9c4577ee",
+      "bank_id": "30f75202",
+      "text": "Bunca kası olan insanların genelde çooooook zeki olduğunu söylerler."
+    },
+    {
+      "id": "9dc9b9ad",
+      "bank_id": "30f75202",
+      "text": "Edindiğin o küçük şöhretin kafana vurmasına izin verme. Benim gözümde sadece bir sahtekarsın."
+    },
+    {
+      "id": "9dc9b9ae",
+      "bank_id": "30f75202",
+      "text": "Son zamanlarda ortalığı kasıp kavurmuş olman kanunların üstünde olduğun anlamına gelmez."
+    },
+    {
+      "id": "aac96748",
+      "bank_id": "30f75202",
+      "text": "Seni ömür boyu içeri tıksam kimsenin ruhu bile duymaz."
+    },
+    {
+      "id": "aac9674b",
+      "bank_id": "30f75202",
+      "text": "Kendini bir tür maceracı sanıyorsun, değil mi? Adını hiç duymadım."
+    },
+    {
+      "id": "b4ef3684",
+      "bank_id": "30f75202",
+      "text": "O çerçöp silahla ne yapıyorsun sen? İki parçaya böleceğim onu."
+    },
+    {
+      "id": "b4ef3687",
+      "bank_id": "30f75202",
+      "text": "Öyle cılız bir silahla Albion muhafızlarına kafa tutabileceğini mi sanıyorsun?"
+    },
+    {
+      "id": "b8eefc3c",
+      "bank_id": "30f75202",
+      "text": "İşimiz bittiğinde belki o silahından elime birkaç kuruş geçer."
+    },
+    {
+      "id": "b8eefc3e",
+      "bank_id": "30f75202",
+      "text": "Bakalım o silahı nasıl kullanıyorsun."
+    },
+    {
+      "id": "b8eefc3f",
+      "bank_id": "30f75202",
+      "text": "Silahını doğru tuttuğuna emin misin? Neyse, sadece kafanı karıştırıyorum."
+    },
+    {
+      "id": "bdd274a8",
+      "bank_id": "30f75202",
+      "text": "Öğğk! Suratına kalın bir çuval geçirmeyi düşünür müsün? Konsantrasyonumu bozuyor da."
+    },
+    {
+      "id": "bdd274a9",
+      "bank_id": "30f75202",
+      "text": "Lütfen ama! Senin gibi iğrenç bir şeyin en azından üzerine bir battaniye örtmesi gerekir."
+    },
+    {
+      "id": "bdd274aa",
+      "bank_id": "30f75202",
+      "text": "Demek bir hobbe ile bir trolü çiftleştirince ne çıktığını artık biliyorum. Sen!"
+    },
+    {
+      "id": "c21a4f05",
+      "bank_id": "30f75202",
+      "text": "Amma acayip bir dövme o sendeki. Dur bir dakika... onlar yara iziymiş! Seni fena benzetmişler ha? Ha ha."
+    },
+    {
+      "id": "c21a4f06",
+      "bank_id": "30f75202",
+      "text": "Ciddi yara izlerin varmış ha!"
+    },
+    {
+      "id": "c21a4f07",
+      "bank_id": "30f75202",
+      "text": "Hah, bütün o yara izlerinin altında bir insan mı var yani? Ha ha!"
+    },
+    {
+      "id": "c81c01d1",
+      "bank_id": "30f75202",
+      "text": "Sadece böyle görünmek bile başlı başına bir suç."
+    },
+    {
+      "id": "c81c01d2",
+      "bank_id": "30f75202",
+      "text": "Bu tiple suça yönelmene şaşmamalı."
+    },
+    {
+      "id": "d29e4a64",
+      "bank_id": "30f75202",
+      "text": "Güçlü olduğunu mu sanıyorsun? Ben de bayağı güçlü kuvvetliyim."
+    },
+    {
+      "id": "d29e4a67",
+      "bank_id": "30f75202",
+      "text": "Güçlü olabilirsin ama ben tıkır tıkır işleyen biriyim ve gözüne saplamaya hazır bir kılıcım var."
+    },
+    {
+      "id": "e14df539",
+      "bank_id": "30f75202",
+      "text": "Birkaç kavgaya karışmışsın bakıyorum? Yara izlerinin haline bakılırsa pek iyi gitmemiş."
+    },
+    {
+      "id": "e14df53a",
+      "bank_id": "30f75202",
+      "text": "Güzel doku. Yara dokusu yani."
+    },
+    {
+      "id": "e14df53b",
+      "bank_id": "30f75202",
+      "text": "Koleksiyonuna birkaç yara izi daha eklememin vakti geldi."
+    },
+    {
+      "id": "ed31ce38",
+      "bank_id": "30f75202",
+      "text": "Silah kullanmayı biliyorsun demek? Ben de öyle."
+    },
+    {
+      "id": "ed31ce3b",
+      "bank_id": "30f75202",
+      "text": "Bakalım o silahı ne kadar iyi kullanıyorsun."
+    },
+    {
+      "id": "f11b6f41",
+      "bank_id": "30f75202",
+      "text": "Kimsin sen Allah aşkına?"
+    },
+    {
+      "id": "f11b6f42",
+      "bank_id": "30f75202",
+      "text": "Ne yazık. Tamamen tanınmayan biri olarak öleceksin."
+    },
+    {
+      "id": "f11b6f43",
+      "bank_id": "30f75202",
+      "text": "Adını duymuş muydum? Yok dur, o başkasıydı. Kim olduğun hakkında hiçbir fikrim yok."
+    },
+    {
+      "id": "f2275c41",
+      "bank_id": "30f75202",
+      "text": "Yara izi mi diyorsun sen onlara? Buraya gel de sana taptaze bir tane yapayım."
+    },
+    {
+      "id": "f2275c42",
+      "bank_id": "30f75202",
+      "text": "Peh, gerçek bir yara izi değil ki o. Tıraş olurken daha beterlerini gördüm ben."
+    },
+    {
+      "id": "f2275c43",
+      "bank_id": "30f75202",
+      "text": "Daha önce bir kavgaya girdiğine emin misin? Hani nerede yara izlerin? A dur, galiba bir tane görüyorum."
+    },
+    {
+      "id": "f3f35d18",
+      "bank_id": "30f75202",
+      "text": "Böyle bir silaha nasıl para yetirdin be hey Allah'ın cezası?"
+    },
+    {
+      "id": "f3f35d1b",
+      "bank_id": "30f75202",
+      "text": "O silahı çalmış olmalısın. Sana fazlasıyla lüks."
+    },
+    {
+      "id": "f4897e15",
+      "bank_id": "30f75202",
+      "text": "Savaşa elinde böyle bir hurdayla giren birine hayran olmamak elde değil."
+    },
+    {
+      "id": "f4897e16",
+      "bank_id": "30f75202",
+      "text": "Dikkat et de o silah elinde kırılmasın."
+    },
+    {
+      "id": "f4897e17",
+      "bank_id": "30f75202",
+      "text": "Hadi ama, bir sopayla dövüşsen de olurmuş. Dur bir dakika, o ZATEN bir sopa olabilir."
+    },
+    {
+      "id": "fbbd5c00",
+      "bank_id": "30f75202",
+      "text": "Siz suçluların hepsi hızlı hareket edersiniz. Ama bu bir muhafızı alt edebileceğiniz anlamına gelmez."
+    },
+    {
+      "id": "fbbd5c03",
+      "bank_id": "30f75202",
+      "text": "Biz Muhafız Okulu'nda senin gibi kurnaz ve becerikli sahtekarlarla nasıl başa çıkılacağını öğreniyoruz, biliyorsun değil mi?"
+    },
+    {
+      "id": "fd637d1d",
+      "bank_id": "30f75202",
+      "text": "Ha, o eğreti silahla muhafız çeliğine karşı hiç şansın yok."
+    },
+    {
+      "id": "fd637d1e",
+      "bank_id": "30f75202",
+      "text": "Paranın yettiği en iyi silah bu muydu?"
+    },
+    {
+      "id": "ff354c9c",
+      "bank_id": "30f75202",
+      "text": "Ünlü olabilirsin ama benden hiçbir ayrıcalık görmeyeceksin."
+    },
+    {
+      "id": "ff354c9f",
+      "bank_id": "30f75202",
+      "text": "Ününün benim gözümde bir kıymeti olduğunu sanma, çünkü hiç yok."
+    }
+  ]
+}

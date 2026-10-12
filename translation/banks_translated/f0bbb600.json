@@ -1,0 +1,466 @@
+{
+  "bank_id": "f0bbb600",
+  "total_strings": 92,
+  "strings": [
+    {
+      "id": "07c5204b",
+      "bank_id": "f0bbb600",
+      "text": "Günün birinde Westcliff turistleri tuzağa düşüren bir eğlence bölgesi olacak. Başlamak için sadece küçük bir yatırıma ihtiyacım var."
+    },
+    {
+      "id": "0ba9c5ef",
+      "bank_id": "f0bbb600",
+      "text": "Harikulade! Projeyi tamamladığımda size mektupla bildireceğim. Toby hakkı için yemin ederim ki sindirimi zor değişiklikler göreceksiniz."
+    },
+    {
+      "id": "0ca9c742",
+      "bank_id": "f0bbb600",
+      "text": "Girişimime derhâl başlayacağım."
+    },
+    {
+      "id": "14f988f3",
+      "bank_id": "f0bbb600",
+      "text": "Aferin efendim. Son derece etkileyici."
+    },
+    {
+      "id": "14f988f8",
+      "bank_id": "f0bbb600",
+      "text": "Aferin hanımefendi. Son derece etkileyici."
+    },
+    {
+      "id": "1fdc2a70",
+      "bank_id": "f0bbb600",
+      "text": "Barnum için 5.000 altın toplayın."
+    },
+    {
+      "id": "202cc527",
+      "bank_id": "f0bbb600",
+      "text": "Aman tanrım, gerçekten de meblağın tamamına ihtiyacım var. Belki hepsini toplayınca geri dönebilirsiniz?"
+    },
+    {
+      "id": "288c77ff",
+      "bank_id": "f0bbb600",
+      "text": "Şarabı Bul. Dünyayı Kurtar."
+    },
+    {
+      "id": "2fb3c266",
+      "bank_id": "f0bbb600",
+      "text": "Albion'un en görkemli ve en pahalı mülkü satışa çıktı."
+    },
+    {
+      "id": "32e51dc0",
+      "bank_id": "f0bbb600",
+      "text": "O adamı o günkü haliyle görüyorum. Benim kadar güzel, benim kadar ateşli ama öyle narin. Öyle kırılgan. Ve ölümden öyle korkuyor ki. Sonuçlarından habersiz, Gölge Mahkemesi'ni bu dünyaya çağırdığını görüyorum. Onlardan zaman ve ölüm hastalığına karşı bağışıklık istiyor ve onlar da bunu kabul ediyor."
+    },
+    {
+      "id": "33e51fb3",
+      "bank_id": "f0bbb600",
+      "text": "Böylesi rüyalar başka bir zamana ait. Başka bir adama. O geceden beri yaptığım şeylerden irkilecek birine. Hatta o iğrenç Yargıçlar'a sunduğum tüm kurbanları önemseyebilecek birine... ne kadar zamandır? Yüzlerce yıldır mı?"
+    },
+    {
+      "id": "34e52126",
+      "bank_id": "f0bbb600",
+      "text": "Yine o kâbustan uyandım. İki yüz yıldan fazla bir sürenin onun çeliğini köreltmeye yeteceği düşünülürdü. Ama hâlâ Oakvale'in gölgeler tarafından yutulduğunu görüyorum. O çığlıklar hâlâ havayı dolduruyor. Onlar susmadan önce daha ne kadar yaşamalıyım?"
+    },
+    {
+      "id": "358c214c",
+      "bank_id": "f0bbb600",
+      "text": "Şimdi bizi yalnız bırakırsanız sevinirim. Size tekrar ihtiyaç duyulduğunda çağırırım."
+    },
+    {
+      "id": "36e708c5",
+      "bank_id": "f0bbb600",
+      "text": "Aah, girişimim için sermaye bulmaya mı gidiyorsunuz? Pek fevkalade!"
+    },
+    {
+      "id": "388c2605",
+      "bank_id": "f0bbb600",
+      "text": "Ah evet, çok güzel, çok güzel. Bu zavallı kadın tüm dikkatimi hak ediyor."
+    },
+    {
+      "id": "38e52752",
+      "bank_id": "f0bbb600",
+      "text": "Ne kadar zayıf, ne kadar aşağılık bir adam o. Ama ben o değilim. Ben Reaver'ım. Ve bu kadeh şaraptan sonra çok daha iyi uyuyacağım."
+    },
+    {
+      "id": "39e528c5",
+      "bank_id": "f0bbb600",
+      "text": "Sonra onu deliler gibi tarlalarda koşarken görüyorum; yüzünden bir trajedi maskesi gibi sarkan, farkında olmadan ödediği bedelin idrakiyle. Evim dediği kasabanın önünde dizlerinin üzerine çöküyor; artık karanlık bir çığlıklar sirki olan o yerin. Onun çığlığı da aralarında, ama onu durdurmak için elinden hiçbir şey gelmiyor."
+    },
+    {
+      "id": "42d66bef",
+      "bank_id": "f0bbb600",
+      "text": "Hayır, hayır, bu çocuğun kurtuluşa ihtiyacı yok. Benim aradığım bir gece kadını, böylece ona gün ışığını gösterebilirim."
+    },
+    {
+      "id": "4a0a87c0",
+      "bank_id": "f0bbb600",
+      "text": "Westcliff için harika planlarım var."
+    },
+    {
+      "id": "4afaba53",
+      "bank_id": "f0bbb600",
+      "text": "(kötü bir şekilde yodeller)"
+    },
+    {
+      "id": "4b0a89b3",
+      "bank_id": "f0bbb600",
+      "text": "Yatırımınız benim ellerimde güvende olacak."
+    },
+    {
+      "id": "4bef8b17",
+      "bank_id": "f0bbb600",
+      "text": "Ah, evet, bu zavallı adam bir gün kesinlikle kurtulacak. Ama önce düşmüş bir kadınla başlayalım, olur mu?"
+    },
+    {
+      "id": "4bfabbc6",
+      "bank_id": "f0bbb600",
+      "text": "Ah, ses kıvraklığım yetmiyor bir türlü."
+    },
+    {
+      "id": "4cd07a32",
+      "bank_id": "f0bbb600",
+      "text": "Merhabalar hanımefendi. Ve Fairfax Kalesi'ne hoş geldiniz."
+    },
+    {
+      "id": "4cd07a39",
+      "bank_id": "f0bbb600",
+      "text": "Merhabalar efendim. Ve Fairfax Kalesi'ne hoş geldiniz."
+    },
+    {
+      "id": "4cfabdb9",
+      "bank_id": "f0bbb600",
+      "text": "Pekâlâ, belki şöyle yaparsam... (daha da beter yodeller)"
+    },
+    {
+      "id": "4d0a8c99",
+      "bank_id": "f0bbb600",
+      "text": "Belki de yodelleme konusundaki aciz girişimlerimi duymuşsunuzdur? Bazıları inancın bir parçası olmasının tek sebebinin Toby Trotter'ın adının baş harflerini oluşturması olduğunu söyler. Ama ben bunun mistik bir hezeyan olduğuna inanıyorum."
+    },
+    {
+      "id": "4dfabf2c",
+      "bank_id": "f0bbb600",
+      "text": "Yine de sebat edeceğim..."
+    },
+    {
+      "id": "4efac09f",
+      "bank_id": "f0bbb600",
+      "text": "(yodelleme alıştırması yapar)"
+    },
+    {
+      "id": "5816774a",
+      "bank_id": "f0bbb600",
+      "text": "Barnum yeni projesine 5.000 altın yatıracak bir iş ortağı arıyor."
+    },
+    {
+      "id": "6190ab28",
+      "bank_id": "f0bbb600",
+      "text": "Efsanevi simyacı Leo Head tarafından yaratılan bu iksir, onu içen erkek veya kadının cinsiyetini tamamen değiştirecektir."
+    },
+    {
+      "id": "67643852",
+      "bank_id": "f0bbb600",
+      "text": "Reaver'ın Notu"
+    },
+    {
+      "id": "6d94c26c",
+      "bank_id": "f0bbb600",
+      "text": "İksiri içmek cinsiyetinizi sonsuza dek değiştirecektir. Ancak içmeden giderseniz, mahzenden çıkarken iksir buharlaşıp yok olacaktır. Şimdi seçmelisiniz."
+    },
+    {
+      "id": "713baf02",
+      "bank_id": "f0bbb600",
+      "text": "Tapınağın kurucusu Toby Trotter'ın bile en çılgın hayallerinin ötesinde zengin olacağız."
+    },
+    {
+      "id": "733bb268",
+      "bank_id": "f0bbb600",
+      "text": "Günün birinde Westcliff turistleri tuzağa düşüren bir eğlence bölgesi olacak. Başlamak için sadece küçük bir yatırıma ihtiyacım var."
+    },
+    {
+      "id": "743bb3db",
+      "bank_id": "f0bbb600",
+      "text": "Her kırıntısını geri alacağınızı içtenlikle tasdik ederim; elbette devasa bir faizle birlikte."
+    },
+    {
+      "id": "753bb54e",
+      "bank_id": "f0bbb600",
+      "text": "Ah, Toby'ye olan yeni inancımdan ilham alan bugüne kadarki en ferasetli planım. Elbette Ticaret ve Yodel Tapınağı'ndan bahsediyorum."
+    },
+    {
+      "id": "763bb721",
+      "bank_id": "f0bbb600",
+      "text": "Bu fikir aklıma Toby sayesinde geldi: terbiyesi dibine kadar çürümüş bir diyarı alıp tüm aile için dostane bir tatil parkına dönüştürmek."
+    },
+    {
+      "id": "773bb894",
+      "bank_id": "f0bbb600",
+      "text": "Kaderlerimiz birbirine kenetlenmiş gibi görünüyor, değil mi aziz dostum?"
+    },
+    {
+      "id": "778e7928",
+      "bank_id": "f0bbb600",
+      "text": "Belki de bu meseleyi daha derinlemesine araştırmak akıllıca olur?"
+    },
+    {
+      "id": "783bba07",
+      "bank_id": "f0bbb600",
+      "text": "İtiraz kabul etmez bir gerçek olarak, yeni iş ortağım olmak için sizden daha iyisini düşünemiyorum."
+    },
+    {
+      "id": "788e7a9b",
+      "bank_id": "f0bbb600",
+      "text": "Bana gelince, hizmetinizdeki kısa görev süremin sona erdiğini üzülerek bildiririm."
+    },
+    {
+      "id": "799ca793",
+      "bank_id": "f0bbb600",
+      "text": "Kraliyet yatağında uyuyanlar, onun olağanüstü dinlendirici ve iyileştirici gücünü övgüyle anlatmışlardır."
+    },
+    {
+      "id": "7a3bbd6d",
+      "bank_id": "f0bbb600",
+      "text": "Yüce gazoonlar adına, yine siz!"
+    },
+    {
+      "id": "7a8e7de1",
+      "bank_id": "f0bbb600",
+      "text": "Cüretimi bağışlarsanız, giriş noktalarının burası olduğunu öne sürmeye cüret edeceğim."
+    },
+    {
+      "id": "7a9ca906",
+      "bank_id": "f0bbb600",
+      "text": "Belki de şimdi biraz dinlenmek istersiniz. Kale yeni gelenler için son derece yorucu olabilir."
+    },
+    {
+      "id": "7b9caaf9",
+      "bank_id": "f0bbb600",
+      "text": "Kafanızı kraliyet yastıklarına koyup dinlendiniz mi acaba?"
+    },
+    {
+      "id": "7d8e82ba",
+      "bank_id": "f0bbb600",
+      "text": "Selefim görevin son derece tehlikeli doğasını bana bildirmeyi ihmal etmişti; üstelik şüphesiz fark ettiğiniz üzere ben de biraz evhamlı bir yapıya sahibim."
+    },
+    {
+      "id": "87d4de2e",
+      "bank_id": "f0bbb600",
+      "text": "Bugün sıra dışı bir ziyaretçi kabul ettim; Wraithmarsh'tan paytak paytak geçmiş, yolda ne canını ne bir uzvunu ne de aklını yitirmiş bir maceracı."
+    },
+    {
+      "id": "8849ff35",
+      "bank_id": "f0bbb600",
+      "text": "Westcliff'in kalkınmasına yatırım yapması için Barnum'a 5.000 altın verilsin mi?"
+    },
+    {
+      "id": "8b918420",
+      "bank_id": "f0bbb600",
+      "text": "Kraliyet yatağında uyuyun."
+    },
+    {
+      "id": "8c918593",
+      "bank_id": "f0bbb600",
+      "text": "Uşakla konuşun."
+    },
+    {
+      "id": "8d918706",
+      "bank_id": "f0bbb600",
+      "text": "Kaleyi satın alın."
+    },
+    {
+      "id": "8e9188f9",
+      "bank_id": "f0bbb600",
+      "text": "Kaleyi keşfedin."
+    },
+    {
+      "id": "8f186f86",
+      "bank_id": "f0bbb600",
+      "text": "Ah, bu bölgenin sunduğu olanaklar... Sınırsızlar."
+    },
+    {
+      "id": "8f918a6c",
+      "bank_id": "f0bbb600",
+      "text": "Haydutları alt edin."
+    },
+    {
+      "id": "90918bdf",
+      "bank_id": "f0bbb600",
+      "text": "Haydut reisini öldürün."
+    },
+    {
+      "id": "91918db2",
+      "bank_id": "f0bbb600",
+      "text": "Fairfax Kalesi'ni haydutlara karşı savunun."
+    },
+    {
+      "id": "931145ac",
+      "bank_id": "f0bbb600",
+      "text": "Fairfax Kalesi"
+    },
+    {
+      "id": "99919a2a",
+      "bank_id": "f0bbb600",
+      "text": "Mahzeni keşfedin."
+    },
+    {
+      "id": "9a919b9d",
+      "bank_id": "f0bbb600",
+      "text": "Kalan haydutları öldürün."
+    },
+    {
+      "id": "9b8a9d8b",
+      "bank_id": "f0bbb600",
+      "text": "Barnum sizi çağırdığında ona geri dönün."
+    },
+    {
+      "id": "9c8a9f7e",
+      "bank_id": "f0bbb600",
+      "text": "Barnum size haber gönderdi. Onunla Westcliff'te buluşun."
+    },
+    {
+      "id": "b8880db1",
+      "bank_id": "f0bbb600",
+      "text": "Ah, buna yatırım yapacak birini bulmalıyım. Kesinlikle bulmalıyım!"
+    },
+    {
+      "id": "ba471c07",
+      "bank_id": "f0bbb600",
+      "text": "Bağışlama Şarabı"
+    },
+    {
+      "id": "bb225dc6",
+      "bank_id": "f0bbb600",
+      "text": "Ailenizin yemek odasında güvenle koruma altına alındığını duymak sizi rahatlatacaktır. İzin verirseniz ben de benzer şekilde kendimi tehlikeden uzaklaştıracağım."
+    },
+    {
+      "id": "bc225fb9",
+      "bank_id": "f0bbb600",
+      "text": "Görünüşe göre davetsiz misafirler mülke kütüphanedeki gizli bir geçitten girmişler."
+    },
+    {
+      "id": "be22629f",
+      "bank_id": "f0bbb600",
+      "text": "Eşinizin yemek odasında güvenle koruma altına alındığını duymak sizi rahatlatacaktır. İzin verirseniz ben de benzer şekilde kendimi tehlikeden uzaklaştıracağım."
+    },
+    {
+      "id": "c17a7620",
+      "bank_id": "f0bbb600",
+      "text": "Ve hepsinin sahibiyim. O en görkemli, en kahramanca arena olan Çile'nin bile. Harika bir yorumcu ekipleri de var üstelik."
+    },
+    {
+      "id": "c27a7793",
+      "bank_id": "f0bbb600",
+      "text": "Benim de epey değiştiğimi fark etmişsinizdir muhtemelen. O gülünç sözlüğün prangalarından, Ticaret ve Yodel Tapınağı'ndan kurtuldum. Artık saygın bir adamım."
+    },
+    {
+      "id": "c37a7906",
+      "bank_id": "f0bbb600",
+      "text": "Ama bu kadar laf yeter. Burada sizin için oldukça dolgun bir altın meblağım var. Yatırımınız, artı on yıllık faizi. Ve tüm kalbimle teşekkürlerim."
+    },
+    {
+      "id": "c47a7af9",
+      "bank_id": "f0bbb600",
+      "text": "Şimdi yeni otlaklar, yeni girişimler bulma vaktim geldi. Dünya benim istiridyemdir! Size iyi elvedalaşmalar olsun!"
+    },
+    {
+      "id": "c67a7ddf",
+      "bank_id": "f0bbb600",
+      "text": "Vay canına, eski iş ortağım gelmiş! Sizi bir daha göreceğimi hiç sanmıyordum. Ne harika bir sürpriz. Üstelik daha iyi bir zamanda gelemezdiniz."
+    },
+    {
+      "id": "c77a7fb2",
+      "bank_id": "f0bbb600",
+      "text": "Hiç böylesine muhteşem bir dönüşüm görmüş müydünüz?"
+    },
+    {
+      "id": "c87a8125",
+      "bank_id": "f0bbb600",
+      "text": "Tertemiz bir eğlencenin tadını çıkaran aileler. Ortada tek bir suçlu veya serseri yok. Bütün yoksulluk kökünden kazındı..."
+    },
+    {
+      "id": "cd01ab88",
+      "bank_id": "f0bbb600",
+      "text": "Görünüşte normal, gerçi hayli pahalı bir şişe şarap."
+    },
+    {
+      "id": "da220f06",
+      "bank_id": "f0bbb600",
+      "text": "İksiri alın. Sonrasında onu içebilir veya mahzenden çıkabilirsiniz. İçmeden çıkarsanız iksir buharlaşır."
+    },
+    {
+      "id": "ddd6c1b6",
+      "bank_id": "f0bbb600",
+      "text": "İyi günler hanımefendi."
+    },
+    {
+      "id": "ddd6c1bd",
+      "bank_id": "f0bbb600",
+      "text": "İyi günler efendim."
+    },
+    {
+      "id": "df5b0f4a",
+      "bank_id": "f0bbb600",
+      "text": "Biçim Değiştirme İksiri"
+    },
+    {
+      "id": "e387c138",
+      "bank_id": "f0bbb600",
+      "text": "Westcliff Kalkınması"
+    },
+    {
+      "id": "eb2cf3d0",
+      "bank_id": "f0bbb600",
+      "text": "Eğer bunu okuyorsan evimi gasp etmişsin demektir. Aferin sana. Umarım cerahatli çıbanlar anatomini oluşturan her narin parçayı perişan eder. İster yabancı ister tanıdık, ister dost ister düşman ol; büyülü kâğıtlara kaydettiğim ve evin içindeki eşyaların arasına saçtığım fıkra gibi hikâyelerimin tadını çıkarabilirsin. Ta ki ben seni öldürmek ve hakkım olanı geri almak için dönene kadar. Kin ve garezle senin, Reaver."
+    },
+    {
+      "id": "eeeba938",
+      "bank_id": "f0bbb600",
+      "text": "İhtiyaçlarınızı tatmin edici şekilde karşılayacağına inanıyorum."
+    },
+    {
+      "id": "efebaaab",
+      "bank_id": "f0bbb600",
+      "text": "Yemek salonu ve yeni çalışma odanız ana salonun solunda yer almaktadır. Sağ tarafta ise kuleyi ve kraliyet süitini bulacaksınız."
+    },
+    {
+      "id": "f2cb1588",
+      "bank_id": "f0bbb600",
+      "text": "Cinsiyet değiştirme teknolojisindeki en son yenilik olan bu seçkin Son Derece Şaşırtıcı Dönüşüm İksiri'ni edindiğiniz için tebrikler."
+    },
+    {
+      "id": "f4cb18ee",
+      "bank_id": "f0bbb600",
+      "text": "Uyarı. Cinsiyet değişimi kalıcıdır. İksir bu zindandan çıkıldığında buharlaşacaktır. Yan etkiler arasında huzursuz edici yeni kokular ve olağandışı kıl büyümesi yer alabilir."
+    },
+    {
+      "id": "f4ebb24a",
+      "bank_id": "f0bbb600",
+      "text": "Cüretimi bağışlarsanız, kraliyet yatağında kısa bir istirahatı kuvvetle tavsiye ederim. İnsanın zindeliğine mucizeler kattığı söylenir."
+    },
+    {
+      "id": "f5cb1a41",
+      "bank_id": "f0bbb600",
+      "text": "Artık cinsiyetinizi değiştirme gücüne sahipsiniz."
+    },
+    {
+      "id": "f7cb1da7",
+      "bank_id": "f0bbb600",
+      "text": "Bu sihirli ses kaydı Lionhead Simya A.Ş. tarafından sizlere ulaştırılmıştır."
+    },
+    {
+      "id": "fac63b72",
+      "bank_id": "f0bbb600",
+      "text": "Sizi rahatsız ettiğim için özür dilerim efendim. Ancak kale saldırı altında görünüyor."
+    },
+    {
+      "id": "fac63b79",
+      "bank_id": "f0bbb600",
+      "text": "Sizi rahatsız ettiğim için özür dilerim hanımefendi. Ancak kale saldırı altında görünüyor."
+    },
+    {
+      "id": "fc8bc3bf",
+      "bank_id": "f0bbb600",
+      "text": "Uyumaya gidelim mi?"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "bank_id": "80f49600",
+  "total_strings": 108,
+  "strings": [
+    {
+      "id": "0272f8a9",
+      "bank_id": "80f49600",
+      "text": "Karanlık Işık"
+    },
+    {
+      "id": "03c45628",
+      "bank_id": "80f49600",
+      "text": "Biç ve Yak Efsun Taşı"
+    },
+    {
+      "id": "05574fcb",
+      "bank_id": "80f49600",
+      "text": "Düşmanlarınıza elektrik hasarı verirsiniz ancak açığa çıkan enerjiler sizde yara izi bırakır.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "055a098c",
+      "bank_id": "80f49600",
+      "text": "Etrafınızda insanları tedirgin eden tekinsiz bir parıltı vardır."
+    },
+    {
+      "id": "055f5279",
+      "bank_id": "80f49600",
+      "text": "Negatif Yüklü Efsun Taşı"
+    },
+    {
+      "id": "08a74020",
+      "bank_id": "80f49600",
+      "text": "Kötü Örnek"
+    },
+    {
+      "id": "117b2498",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKolay kolay yara izi almazsınız ve bu da insanları yıldırır."
+    },
+    {
+      "id": "1192d99b",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nSilahınızın hasar türünü elektriğe çevirin, silah hasarını artırın ve dövüşte daha az hasar alın. Hepsi harika şeyler."
+    },
+    {
+      "id": "1665e608",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nİyi rakiplere karşı daha fazla, kötülere karşı daha az hasar verirsiniz. Bunu yapmanızı sağlayan doğaüstü güçler daha kolay yara izi almanıza da neden olur."
+    },
+    {
+      "id": "19485d3c",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nHer vuruşta normal yerine ateş hasarı verirsiniz fakat daha az silah hasarına yol açar ve dövüşte daha fazla hasar alırsınız."
+    },
+    {
+      "id": "1ecbf1ce",
+      "bank_id": "80f49600",
+      "text": "Kötülüğün Haşmeti"
+    },
+    {
+      "id": "20a11857",
+      "bank_id": "80f49600",
+      "text": "İrade Sürüsü"
+    },
+    {
+      "id": "279eaf43",
+      "bank_id": "80f49600",
+      "text": "Ateşe Dayanıklı Efsun Taşı"
+    },
+    {
+      "id": "29cb7181",
+      "bank_id": "80f49600",
+      "text": "Silahınız normal hasar yerine ateş hasarı verir. Ateş etrafınızda sanki Lonca Mührü ışığınız hep yanıyormuş gibi bir ışık çemberi oluşturur."
+    },
+    {
+      "id": "2c6c9c48",
+      "bank_id": "80f49600",
+      "text": "Jilet Yanığı"
+    },
+    {
+      "id": "322dfff9",
+      "bank_id": "80f49600",
+      "text": "Kavgacı Sarhoş"
+    },
+    {
+      "id": "3382349e",
+      "bank_id": "80f49600",
+      "text": "Düşmanlarınızdan İrade soğurun ve gür sakalınızla tam bir İrade kullanıcısı gibi görünün."
+    },
+    {
+      "id": "37383264",
+      "bank_id": "80f49600",
+      "text": "Favorili İrade"
+    },
+    {
+      "id": "385eb716",
+      "bank_id": "80f49600",
+      "text": "Silahınız normal hasar yerine ateş hasarı verir. Vücudunuz Haşmet dövmeleriyle kaplıdır."
+    },
+    {
+      "id": "393bcdba",
+      "bank_id": "80f49600",
+      "text": "Alev Böcekleri"
+    },
+    {
+      "id": "3b62bf61",
+      "bank_id": "80f49600",
+      "text": "Pozitif Yüklü Efsun Taşı"
+    },
+    {
+      "id": "3bd1c357",
+      "bank_id": "80f49600",
+      "text": "Azrail Dehşeti"
+    },
+    {
+      "id": "3ce3601a",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nNormal yerine ateş hasarı verin, silah hasarını artırın ve dövüşte daha az hasar alın. Beğenilmeyecek nesi var ki?"
+    },
+    {
+      "id": "3ec91cc9",
+      "bank_id": "80f49600",
+      "text": "Sakal sizi daha kötücül bir suretinizmiş gibi gösterir. Bu da muhafızlar gibi iyi düşmanlara daha çok, haydutlar gibi kötü düşmanlara daha az hasar veren birine pek yakışır."
+    },
+    {
+      "id": "3f275116",
+      "bank_id": "80f49600",
+      "text": "Alev Laneti Efsun Taşı"
+    },
+    {
+      "id": "427f198b",
+      "bank_id": "80f49600",
+      "text": "Kötü İkiz"
+    },
+    {
+      "id": "431208db",
+      "bank_id": "80f49600",
+      "text": "Silahınız normal yerine ateş hasarı verir. Kadın olsanız bile daima gür bir sakalınız olur."
+    },
+    {
+      "id": "43c5ad0c",
+      "bank_id": "80f49600",
+      "text": "Karanlık Azrail"
+    },
+    {
+      "id": "4a8a346c",
+      "bank_id": "80f49600",
+      "text": "Elektrik Işığı"
+    },
+    {
+      "id": "4b4fe288",
+      "bank_id": "80f49600",
+      "text": "Belki de saç dökülmesine canınız sıkılmıştır. Sebep ne olursa olsun, iyi rakipler saldırılarınızdan çok çekerken kötü düşmanlar daha az hasar alır."
+    },
+    {
+      "id": "51739dfc",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nİyi düşmanlara ilave hasar verir, kötülere daha az vurursunuz."
+    },
+    {
+      "id": "554730d9",
+      "bank_id": "80f49600",
+      "text": "Büyüleyici Sürü"
+    },
+    {
+      "id": "55d063c3",
+      "bank_id": "80f49600",
+      "text": "İyi rakiplere ilave hasar verir, kötülere daha az vurursunuz. Bir kötülük halesi sizi sarar ve yolunuzu aydınlatır. Hem de haince."
+    },
+    {
+      "id": "56a6e7ea",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nİyi rakiplere fazladan hasar verir, kötülere daha az vurursunuz. Ancak şanssızlığınız yüzünden sağlam vuruşları daha seyrek indirir ve daha çok darbe alırsınız."
+    },
+    {
+      "id": "585146da",
+      "bank_id": "80f49600",
+      "text": "Düşmanlara normal yerine ateş hasarı verirsiniz ancak mistik alevler yara izi almanızı kolaylaştırır.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "5ab88429",
+      "bank_id": "80f49600",
+      "text": "Her başarılı saldırıda düşmanlarınızdan İrade soğurursunuz ancak dövüşte daha fazla hasar alırken daha az hasar verirsiniz."
+    },
+    {
+      "id": "5c4b77a3",
+      "bank_id": "80f49600",
+      "text": "Bu efsun taşının takılı olduğu bir silahı kuşanmak, sizi gören tüm vatandaşların yüreğine korku salar.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "5cde45b2",
+      "bank_id": "80f49600",
+      "text": "Daima sarhoşsunuzdur ve bu insanları huzursuz eder."
+    },
+    {
+      "id": "5dfe866a",
+      "bank_id": "80f49600",
+      "text": "Bu efsun taşı düşmanlarınızı mistik ateş hasarıyla kavurmanızı sağlar. Üstelik adı akılda kalıcıdır ve hiçbir telif hakkını ihlal etmez.\nFaydalarından yararlanmak için efsun taşını boş efsun yuvası olan bir silaha takın."
+    },
+    {
+      "id": "60676046",
+      "bank_id": "80f49600",
+      "text": "İyi rakiplere karşı fazladan hasar verin, kötülere karşı daha az vurun ve bonus olarak bu Azrail dövmeleri setinin tamamına kavuşun!"
+    },
+    {
+      "id": "6224f364",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nTüm rakiplere, bilhassa da iyilere karşı daha büyük hasar verir, kendiniz daha az hasar alırsınız."
+    },
+    {
+      "id": "62d7cc27",
+      "bank_id": "80f49600",
+      "text": "Düşmanlardan İrade çekip kendinize aktarın."
+    },
+    {
+      "id": "64841eff",
+      "bank_id": "80f49600",
+      "text": "Normal hasar yerine elektrik hasarı verirsiniz. Azrail dövmelerinizin tam seti de bir o kadar elektrik vericidir."
+    },
+    {
+      "id": "657dc8e1",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nNormal yerine ateş hasarı verirsiniz ve yara izlerine karşı daha dayanıklısınızdır."
+    },
+    {
+      "id": "67b5098d",
+      "bank_id": "80f49600",
+      "text": "Yıldırım Böcekleri"
+    },
+    {
+      "id": "6bdb6086",
+      "bank_id": "80f49600",
+      "text": "Ağır Yanık Efsun Taşı"
+    },
+    {
+      "id": "6d28c363",
+      "bank_id": "80f49600",
+      "text": "Akkor Parıltı"
+    },
+    {
+      "id": "6e09b4da",
+      "bank_id": "80f49600",
+      "text": "Eşkıya Efsun Taşı"
+    },
+    {
+      "id": "6f5c56a1",
+      "bank_id": "80f49600",
+      "text": "Kızıl Sakal"
+    },
+    {
+      "id": "74d828d6",
+      "bank_id": "80f49600",
+      "text": "Gazap Efsun Taşı"
+    },
+    {
+      "id": "78791d47",
+      "bank_id": "80f49600",
+      "text": "Yıldırıcı Haşmet"
+    },
+    {
+      "id": "78bcef73",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nHer vuruş normal yerine elektrik hasarı verir ancak genel olarak daha az hasar verir ve daha çok hasar alırsınız."
+    },
+    {
+      "id": "7a7ed47c",
+      "bank_id": "80f49600",
+      "text": "Haşmetli Cehennem"
+    },
+    {
+      "id": "7aae8348",
+      "bank_id": "80f49600",
+      "text": "Normal silah hasarını elektrik hasarıyla değiştirdiniz. Bunu ne zaman yaptığınızı hatırlamıyorsunuz çünkü sürekli körkütüksünüz."
+    },
+    {
+      "id": "7dfcb4f4",
+      "bank_id": "80f49600",
+      "text": "Normal hasar yerine ateş hasarı verirsiniz. Vücudunuz Azrail dövmeleriyle kaplıdır."
+    },
+    {
+      "id": "80f98c7a",
+      "bank_id": "80f49600",
+      "text": "Normal hasar yerine ateş hasarı verirsiniz. Yoğun ısı saçlarınıza mal olur. Ne hikmetse sakal bıyık bırakabilirsiniz."
+    },
+    {
+      "id": "8863baf1",
+      "bank_id": "80f49600",
+      "text": "Haşmetli Enerji"
+    },
+    {
+      "id": "88bc668f",
+      "bank_id": "80f49600",
+      "text": "Dehşet Verici Suret Efsun Taşı"
+    },
+    {
+      "id": "88ed4389",
+      "bank_id": "80f49600",
+      "text": "Korkunun Kendisi Efsun Taşı"
+    },
+    {
+      "id": "89a97002",
+      "bank_id": "80f49600",
+      "text": "Sizi dehşet verici gösteren gür bir sakalınız vardır."
+    },
+    {
+      "id": "89facd06",
+      "bank_id": "80f49600",
+      "text": "Korku Işığı"
+    },
+    {
+      "id": "8cee9a15",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nDövüşte daha az hasar verir ve daha çok hasar alırsınız. İnsanlar bahtsızlığınızın kendilerine de bulaşmasından korkar."
+    },
+    {
+      "id": "91a0a1b1",
+      "bank_id": "80f49600",
+      "text": "Fırtına İzi Efsun Taşı"
+    },
+    {
+      "id": "91cafb69",
+      "bank_id": "80f49600",
+      "text": "Enerji Emme Efsun Taşı"
+    },
+    {
+      "id": "9200badb",
+      "bank_id": "80f49600",
+      "text": "Prangasız Dâhi"
+    },
+    {
+      "id": "92f3152a",
+      "bank_id": "80f49600",
+      "text": "Pis Yaralar Efsun Taşı"
+    },
+    {
+      "id": "95730190",
+      "bank_id": "80f49600",
+      "text": "Kara Sakal"
+    },
+    {
+      "id": "964eb43f",
+      "bank_id": "80f49600",
+      "text": "Zift Gibi Sarhoş"
+    },
+    {
+      "id": "98c739c1",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nCanınız sürekli tükenir ve bu da insanları korkutur. Sizin umursamamanız ise onları daha da çok korkutur."
+    },
+    {
+      "id": "9b39bd74",
+      "bank_id": "80f49600",
+      "text": "Karanlık Sürü"
+    },
+    {
+      "id": "9eeba441",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nDövüşte daha çok hasar verir ve daha az hasar alırsınız. İnsanlar böylesi tekinsiz bir iyi talihten ürkme eğilimindedir."
+    },
+    {
+      "id": "a246f62e",
+      "bank_id": "80f49600",
+      "text": "Alevli Azrail"
+    },
+    {
+      "id": "a3fad40c",
+      "bank_id": "80f49600",
+      "text": "Şok Edici Pürüzsüzlük Efsun Taşı"
+    },
+    {
+      "id": "a456729f",
+      "bank_id": "80f49600",
+      "text": "Katilvat Efsun Taşı"
+    },
+    {
+      "id": "a52e538d",
+      "bank_id": "80f49600",
+      "text": "Her vuruşta düşmanlardan İrade çekip kendinize aktarırsınız. Bu işlem ateş böceklerini çeker, onlar da sizi daha çekici kılar."
+    },
+    {
+      "id": "a58b9cf3",
+      "bank_id": "80f49600",
+      "text": "İyi rakiplere daha çok, kötülere daha az hasar verirsiniz. O kadar sarhoşken aradaki farkı ayırt edebilmeniz şaşırtıcı."
+    },
+    {
+      "id": "a7c1910f",
+      "bank_id": "80f49600",
+      "text": "Tekinsiz Derecede Büyük Kellik"
+    },
+    {
+      "id": "a8b8455f",
+      "bank_id": "80f49600",
+      "text": "Ebediyen Lanetli Efsun Taşı"
+    },
+    {
+      "id": "abd086f9",
+      "bank_id": "80f49600",
+      "text": "Her vuruşta düşmanlarınızdan İrade çekip kendinize soğurursunuz. Bu işlem saçlarınızın dökülmesine yol açar."
+    },
+    {
+      "id": "b0098877",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nElinizden iyi rakipler daha fazla hasar görürken kötüler daha az nasibini alır. Üstelik o eller neredeyse kusursuzdur: Teniniz yara izlerine karşı çok dirençlidir."
+    },
+    {
+      "id": "b509890e",
+      "bank_id": "80f49600",
+      "text": "Etrafınızda insanların büyüleyici bulduğu bir ateş böceği bulutu vardır. Belki de bu nefret dolu böceklerin dövüşte kötülere dokunmayıp iyilere saldırdığını bilseler böyle düşünmezlerdi."
+    },
+    {
+      "id": "be9ac1db",
+      "bank_id": "80f49600",
+      "text": "Uğursuz Sürü"
+    },
+    {
+      "id": "c05efe8d",
+      "bank_id": "80f49600",
+      "text": "Azrail dövmeleriniz sizi korkutucu gösterir."
+    },
+    {
+      "id": "c09c8746",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nHer saldırı normal yerine elektrik hasarı verir ve yara izlerine karşı daha dirençlisinizdir."
+    },
+    {
+      "id": "c36e3234",
+      "bank_id": "80f49600",
+      "text": "Acı Hazdır Efsun Taşı"
+    },
+    {
+      "id": "c7dd11aa",
+      "bank_id": "80f49600",
+      "text": "Nefret Tepesi"
+    },
+    {
+      "id": "c9e20253",
+      "bank_id": "80f49600",
+      "text": "Etrafınızda uçuşan bir ateş böceği sürüsü sizi biraz daha çekici kılar."
+    },
+    {
+      "id": "ca4e5cdd",
+      "bank_id": "80f49600",
+      "text": "Azrail'in Sarmalı"
+    },
+    {
+      "id": "ca775765",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nSizi gören herkesin yüreğine korku salarsınız ve savaş yaralarından daha kolay yara izi alırsınız."
+    },
+    {
+      "id": "d86a8df9",
+      "bank_id": "80f49600",
+      "text": "Etrafınızı saran ateş böceği sürüsü sizi daha çekici kılar ama aynı zamanda biraz da yıldırıcı yapar."
+    },
+    {
+      "id": "dbca849d",
+      "bank_id": "80f49600",
+      "text": "İnsanların fazlasıyla huzursuz edici bulduğu Haşmet dövmeleriyle kaplısınız."
+    },
+    {
+      "id": "dc261da3",
+      "bank_id": "80f49600",
+      "text": "Mazoşist Efsun Taşı"
+    },
+    {
+      "id": "dcad3e78",
+      "bank_id": "80f49600",
+      "text": "Her vuruş normal yerine ateş hasarı verir. Ateş böcekleri size çekilir ve bu da sizi biraz daha çekici kılar."
+    },
+    {
+      "id": "dfb867ce",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nCanınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir ve kötü düşmanlara daha az hasar verirsiniz; ancak iyi rakiplere daha fazla hasar vermek için ödediğiniz bedel budur."
+    },
+    {
+      "id": "e24a8823",
+      "bank_id": "80f49600",
+      "text": "Tekinsiz Talih Efsun Taşı"
+    },
+    {
+      "id": "e35566d8",
+      "bank_id": "80f49600",
+      "text": "Delinin Belası Efsun Taşı"
+    },
+    {
+      "id": "e529f883",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nElektrik hasarı vermenizi sağlar. Yüklü silahınız çıtırdar ve patlar; canınızın azami değerinizin yüzde 75 oranına kadar sürekli tükenmesinin sebebi bu olabilir."
+    },
+    {
+      "id": "e66fcbbe",
+      "bank_id": "80f49600",
+      "text": "Kötülüğün Zaferi Efsun Taşı"
+    },
+    {
+      "id": "e72b1d26",
+      "bank_id": "80f49600",
+      "text": "Normal hasar vermek yerine düşmanlarınıza enerji aktararak onları çarpın ve fazlasını karanlık yerlerde yolunuzu aydınlatmak için kullanın!"
+    },
+    {
+      "id": "e73a9d0c",
+      "bank_id": "80f49600",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nSilahınızın hasar türünü ateşe çevirir ancak canınız azami değerinizin yüzde 75 oranına kadar sürekli tükenir."
+    },
+    {
+      "id": "e854dd68",
+      "bank_id": "80f49600",
+      "text": "Alevin Lütfu Efsun Taşı"
+    },
+    {
+      "id": "e97c81e5",
+      "bank_id": "80f49600",
+      "text": "Yani bütün kafanız. Orada hiç saç çıkaramazsınız. Bu hiç doğal değildir ve doğal olmayan şeyler insanları korkutur."
+    },
+    {
+      "id": "eaad0558",
+      "bank_id": "80f49600",
+      "text": "Alev Efsun Taşı"
+    },
+    {
+      "id": "f1c478d5",
+      "bank_id": "80f49600",
+      "text": "Kötülüğün Gücü Efsun Taşı"
+    },
+    {
+      "id": "f73d456a",
+      "bank_id": "80f49600",
+      "text": "Sendeleme"
+    },
+    {
+      "id": "f9470bf5",
+      "bank_id": "80f49600",
+      "text": "Normal hasar vermek yerine düşmanları ateşle yakarsınız. Ayrıca sürekli biraz sarhoşsunuzdur."
+    },
+    {
+      "id": "fcfc1894",
+      "bank_id": "80f49600",
+      "text": "İyi rakiplere fazladan hasar verir, kötülere daha az vurursunuz ve gariptir ki baştan aşağı Haşmet dövmeleriyle donatılmışsınızdır."
+    },
+    {
+      "id": "fe933e0b",
+      "bank_id": "80f49600",
+      "text": "Tepeden tırnağa Haşmet dövmeleriyle kaplısınızdır; bu da silahınızın elektrik hasarıyla kızartmadığınız kişileri epey etkiler."
+    }
+  ]
+}

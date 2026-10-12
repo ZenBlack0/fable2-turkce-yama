@@ -1,0 +1,521 @@
+{
+  "bank_id": "60beb600",
+  "total_strings": 103,
+  "strings": [
+    {
+      "id": "00abc905",
+      "bank_id": "60beb600",
+      "text": "Et Tezgâhı İndirimi"
+    },
+    {
+      "id": "0454d459",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Taş Kesicisi, tam olarak anlaşılamayan büyüsel sorunlar nedeniyle şu anda büyük bir kıtlık yaşıyor. Bu, dışarıdaki tüm efsun taşı satıcıları için altın bir fırsattır."
+    },
+    {
+      "id": "069bab95",
+      "bank_id": "60beb600",
+      "text": "Turta Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "070e07df",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Turta Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Makul bir fiyata güzel bir turta kapın."
+    },
+    {
+      "id": "114a812f",
+      "bank_id": "60beb600",
+      "text": "Stilist Devasa Kıtlığı"
+    },
+    {
+      "id": "12bd2353",
+      "bank_id": "60beb600",
+      "text": "Erkek Terzisi İndirimi"
+    },
+    {
+      "id": "14ad1c9b",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Stilisti önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Fırsatınız varken bu kelepirleri kapın!"
+    },
+    {
+      "id": "168508a3",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Erkek Terzisi, dürüst olmak gerekirse... beceriksiz yönetim nedeniyle şu anda bir kıtlık yaşıyor. Yeni yönetim erkek kıyafetlerine iyi para ödüyor."
+    },
+    {
+      "id": "184ca8cf",
+      "bank_id": "60beb600",
+      "text": "Turta Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "1c757447",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Et Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Et ucuza gidiyor."
+    },
+    {
+      "id": "1caa74ca",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Manav Tezgâhı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Sebzenizi yiyin, şimdi her zamankinden daha ucuz!"
+    },
+    {
+      "id": "20356a02",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Kadın Terzisi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. O özel kişi için güzel bir şey alın, kendiniz olsa bile!"
+    },
+    {
+      "id": "208e1aff",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Et Tezgâhı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Ete doyun!"
+    },
+    {
+      "id": "212abf00",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Manav Tezgâhı, üretim sorunları nedeniyle şu anda büyük bir kıtlık yaşıyor. Mahsul (neredeyse) ağırlığınca altın değerinde!"
+    },
+    {
+      "id": "229bcfa8",
+      "bank_id": "60beb600",
+      "text": "Balık Tezgâhı Kıtlığı"
+    },
+    {
+      "id": "242dde9d",
+      "bank_id": "60beb600",
+      "text": "Taş Kesici Devasa İndirimi"
+    },
+    {
+      "id": "25fbfe3a",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Balık Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Ucuz balık!"
+    },
+    {
+      "id": "27778594",
+      "bank_id": "60beb600",
+      "text": "Bowerstone İçecek Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Ucuz içecekler neredeyse bedava içecekler kadar iyidir."
+    },
+    {
+      "id": "27a533c4",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Kadın Terzisi, son sevkiyatlarında kullanılan iplikteki kalite sorunu nedeniyle şu anda küçük bir kıtlık yaşıyor. Stoklarını yenilemek için iyi para ödüyorlar."
+    },
+    {
+      "id": "2bef429e",
+      "bank_id": "60beb600",
+      "text": "Kadın Terzisi Kıtlığı"
+    },
+    {
+      "id": "2bfefb90",
+      "bank_id": "60beb600",
+      "text": "Kadın Terzisi İndirimi"
+    },
+    {
+      "id": "30d6dac4",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Balık Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Yüksek protein, düşük maliyet."
+    },
+    {
+      "id": "323110b3",
+      "bank_id": "60beb600",
+      "text": "Stilist Büyük Kıtlığı"
+    },
+    {
+      "id": "334fede7",
+      "bank_id": "60beb600",
+      "text": "Turta Tezgâhı Kıtlığı"
+    },
+    {
+      "id": "3520e99e",
+      "bank_id": "60beb600",
+      "text": "Balık Tezgâhı İndirimi"
+    },
+    {
+      "id": "36f5327c",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Kadın Terzisi, pamuk arzındaki düşüş nedeniyle şu anda büyük bir kıtlık yaşıyor. Hanımefendi kıyafetlerinizi elden çıkarmak için daha iyi bir zaman olmamıştı."
+    },
+    {
+      "id": "38b4f1b5",
+      "bank_id": "60beb600",
+      "text": "Taş Kesici Büyük İndirimi"
+    },
+    {
+      "id": "39753dbf",
+      "bank_id": "60beb600",
+      "text": "Erkek Terzisi Devasa İndirimi"
+    },
+    {
+      "id": "3a0b81ac",
+      "bank_id": "60beb600",
+      "text": "Kadın Terzisi Devasa İndirimi"
+    },
+    {
+      "id": "3c9b3ec1",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Erkek Terzisi önümüzdeki birkaç gün boyunca indirimde. Şık giysileriniz ve akıllı kelepir avcılığınızla hayatınızdaki o özel kişiyi etkileyin!"
+    },
+    {
+      "id": "3e673a43",
+      "bank_id": "60beb600",
+      "text": "Turta Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "3e7d0261",
+      "bank_id": "60beb600",
+      "text": "Stilist Devasa İndirimi"
+    },
+    {
+      "id": "4026d97c",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Balık Tezgâhı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Kokusunu buradan bile alabilirsiniz!"
+    },
+    {
+      "id": "413a2aed",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Et Tezgâhı, et kaynaklı kötü bir enfeksiyon nedeniyle şu anda bir kıtlık yaşıyor. Sattığınız her et için iyi bir fiyat alacaksınız."
+    },
+    {
+      "id": "42e64d08",
+      "bank_id": "60beb600",
+      "text": "Bowerstone İçecek Tezgâhı kuraklık nedeniyle şu anda bir kıtlık çekiyor. Susadıysanız dayanmaya çalışın."
+    },
+    {
+      "id": "4326d489",
+      "bank_id": "60beb600",
+      "text": "Erkek Terzisi Büyük Kıtlığı"
+    },
+    {
+      "id": "441f8c5a",
+      "bank_id": "60beb600",
+      "text": "Balık Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "49475ece",
+      "bank_id": "60beb600",
+      "text": "İçecek Tezgâhı İndirimi"
+    },
+    {
+      "id": "49660a5c",
+      "bank_id": "60beb600",
+      "text": "Manav Tezgâhı İndirimi"
+    },
+    {
+      "id": "4af97279",
+      "bank_id": "60beb600",
+      "text": "Stilist İndirimi"
+    },
+    {
+      "id": "4ed2c3f1",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Stilisti, alışılmadık derecede yüksek boya zehirlenmesi vakaları nedeniyle şu anda bir kıtlık yaşıyor. Bozulmamış boyalar için iyi para ödeyecekler."
+    },
+    {
+      "id": "53070485",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Stilisti, boya tedarikçilerinin ölmesi nedeniyle şu anda büyük bir kıtlık yaşıyor. Fazla boyalarınızı onlara satarak iyi para kazanın."
+    },
+    {
+      "id": "58439608",
+      "bank_id": "60beb600",
+      "text": "Kadın Terzisi Büyük Kıtlığı"
+    },
+    {
+      "id": "599c0a2e",
+      "bank_id": "60beb600",
+      "text": "Bowerstone İçecek Tezgâhı, meşrubat sendikası grevi nedeniyle şu anda büyük bir kıtlık yaşıyor. Şimdi satış yapın, sonra alım yapın."
+    },
+    {
+      "id": "5a59bd56",
+      "bank_id": "60beb600",
+      "text": "Kadın Terzisi Devasa Kıtlığı"
+    },
+    {
+      "id": "5bfd6fad",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Taş Kesicisi, nadir bir efsun yok edici küf nedeniyle şu anda bir kıtlık yaşıyor. Varsa efsun taşları için iyi para ödüyorlar."
+    },
+    {
+      "id": "5c8394a5",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Turta Tezgâhı meyve tedarik sorunları nedeniyle şu anda bir kıtlık çekiyor. Kenarda köşede fazla turtalarınız varsa satmak için iyi bir zaman."
+    },
+    {
+      "id": "5cf4fd75",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Et Tezgâhı, koca şişko bir adamın biraz acıkmış olması nedeniyle şu anda küçük bir kıtlık yaşıyor. Et satmak için iyi bir zaman."
+    },
+    {
+      "id": "603c492a",
+      "bank_id": "60beb600",
+      "text": "Bowerstone İçecek Tezgâhı fıçı arızaları nedeniyle şu anda küçük bir kıtlık yaşıyor. Biraz ekstra para için fazla içecekleri elden çıkarın."
+    },
+    {
+      "id": "636cda7f",
+      "bank_id": "60beb600",
+      "text": "Taş Kesici Kıtlığı"
+    },
+    {
+      "id": "638b6456",
+      "bank_id": "60beb600",
+      "text": "Balık Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "680b683b",
+      "bank_id": "60beb600",
+      "text": "Taş Kesici Devasa Kıtlığı"
+    },
+    {
+      "id": "6b3b18b6",
+      "bank_id": "60beb600",
+      "text": "Manav Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "6b9b10bd",
+      "bank_id": "60beb600",
+      "text": "Turta Tezgâhı İndirimi"
+    },
+    {
+      "id": "7728c05a",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Balık Tezgâhı su kirliliği nedeniyle şu anda küçük bir kıtlık yaşıyor. Yüzgeci ve solungacı olan her şeye iyi para ödeyecekler."
+    },
+    {
+      "id": "7ae76822",
+      "bank_id": "60beb600",
+      "text": "Manav Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "7b06d816",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Manav Tezgâhı, test edilmemiş bir büyüme serumuyla yapılan feci bir deney nedeniyle şu anda bir kıtlık yaşıyor. Fazla sebzelerinizi satın, yeter ki diyetinizi bozmayın."
+    },
+    {
+      "id": "7b2b15f2",
+      "bank_id": "60beb600",
+      "text": "Kadın Terzisi Büyük İndirimi"
+    },
+    {
+      "id": "7c4653e1",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Turta Tezgâhı, fırıncılar arasındaki bir anlaşmazlık nedeniyle şu anda büyük bir kıtlık yaşıyor. Elinizdeki tüm turtalar yüksek fiyat edecektir."
+    },
+    {
+      "id": "7e078369",
+      "bank_id": "60beb600",
+      "text": "Erkek Terzisi Devasa Kıtlığı"
+    },
+    {
+      "id": "7eb4e599",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Et Tezgâhı, karmaşık (ve açıkçası iğrenç) hayvancılık sorunları nedeniyle şu anda büyük bir kıtlık yaşıyor. Her türlü ete iyi para ödeyecekler."
+    },
+    {
+      "id": "7ffa22a3",
+      "bank_id": "60beb600",
+      "text": "Erkek Terzisi Büyük İndirimi"
+    },
+    {
+      "id": "816f03f0",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Kadın Terzisi önümüzdeki birkaç gün boyunca indirimde. Sırtınızdaki gömlekten başka bir şeyiniz yoksa, en azından güzel bir gömlek olsun!"
+    },
+    {
+      "id": "85626cdf",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Turta Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Turta almak için harika bir zaman."
+    },
+    {
+      "id": "8607ef76",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Manav Tezgâhı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Mütevazı bir fiyata biraz havuç veya güzel bir elma kapın."
+    },
+    {
+      "id": "865858dd",
+      "bank_id": "60beb600",
+      "text": "Et Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "97de89bd",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Turta Tezgâhı hamur sorunları nedeniyle şu anda küçük bir kıtlık çekiyor. Bu, geleceği parlak bir turta tüccarı için altın bir fırsattır."
+    },
+    {
+      "id": "9a2b2a17",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Et Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Canınız et çekiyorsa mutlaka uğramalısınız."
+    },
+    {
+      "id": "9c6d9575",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Erkek Terzisi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. İri adamlar büyük kıyafetlerde büyük paralar tasarruf ediyor."
+    },
+    {
+      "id": "9d2627f8",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Manav Tezgâhı buğday biti istilası nedeniyle şu anda küçük bir kıtlık yaşıyor. İstilaya uğramamış her türlü mahsul çabucak satılacaktır."
+    },
+    {
+      "id": "a81bbeb8",
+      "bank_id": "60beb600",
+      "text": "Manav Tezgâhı Devasa İndirimi"
+    },
+    {
+      "id": "acd2193a",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Kadın Terzisi, son indirimlerinde aşırı hevesli müşterilerin gazabına uğradıktan sonra şu anda bir kıtlık yaşıyor. Satmak istediğiniz tüm kadın kıyafetleri için iyi bir fiyat alacaksınız."
+    },
+    {
+      "id": "af5e0c11",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Erkek Terzisi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Bir erkeğin giyebileceği bir şeyde mutlaka bir kelepir bulacaksınız."
+    },
+    {
+      "id": "b3cd52c3",
+      "bank_id": "60beb600",
+      "text": "Stilist Kıtlığı"
+    },
+    {
+      "id": "b9050bd8",
+      "bank_id": "60beb600",
+      "text": "İçecek Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "bcab5bb7",
+      "bank_id": "60beb600",
+      "text": "Et Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "bd26f57c",
+      "bank_id": "60beb600",
+      "text": "Manav Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "be570f73",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Stilisti önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Boyalar ucuza gidiyor."
+    },
+    {
+      "id": "bf737c2a",
+      "bank_id": "60beb600",
+      "text": "İçecek Tezgâhı Büyük Kıtlığı"
+    },
+    {
+      "id": "bfcb7494",
+      "bank_id": "60beb600",
+      "text": "İçecek Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "c0dc76bf",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Taş Kesicisi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Efsun taşları nadiren bu kadar ucuz olur!"
+    },
+    {
+      "id": "c17cebc5",
+      "bank_id": "60beb600",
+      "text": "Taş Kesici İndirimi"
+    },
+    {
+      "id": "c264bf37",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Turta Tezgâhı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Dişinize göre bir kelepir bulacağınız kesin! Kusura bakmayın."
+    },
+    {
+      "id": "c666c435",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Taş Kesicisi bir kâtip hatası nedeniyle şu anda küçük bir kıtlık yaşıyor. Fazla efsun taşlarını satmak için fena bir zaman değil."
+    },
+    {
+      "id": "c69a235c",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Manav Tezgâhı önümüzdeki birkaç gün boyunca indirimde. Şimdi mahsul alma zamanı."
+    },
+    {
+      "id": "ca9d899e",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Balık Tezgâhı kuraklık nedeniyle şu anda büyük bir kıtlık yaşıyor. Fazla balığınız varsa (kimin yok ki?) satmak için harika bir zaman."
+    },
+    {
+      "id": "ce538764",
+      "bank_id": "60beb600",
+      "text": "Balık Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "d1668083",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Erkek Terzisi, bölgedeki dikiş makinesi arızaları salgını nedeniyle şu anda büyük bir kıtlık çekiyor. Erkek giyimi konusunda kurnaz bir satıcı bir servet kazanabilir."
+    },
+    {
+      "id": "d16d7b08",
+      "bank_id": "60beb600",
+      "text": "Balık Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "d3b56e6b",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Stilisti önümüzdeki birkaç gün boyunca indirimde. Boyalar için gelin, stiller için kalın!"
+    },
+    {
+      "id": "d6adfe66",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Kadın Terzisi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Bolca kadın kıyafeti alın! Kadın olmanız şart değil!"
+    },
+    {
+      "id": "d7703477",
+      "bank_id": "60beb600",
+      "text": "Taş Kesici Büyük Kıtlığı"
+    },
+    {
+      "id": "dd852151",
+      "bank_id": "60beb600",
+      "text": "Stilist Büyük İndirimi"
+    },
+    {
+      "id": "de6083f5",
+      "bank_id": "60beb600",
+      "text": "Et Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "dfc0ff07",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Taş Kesicisi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Tüm efsun taşları elden çıkarılacak."
+    },
+    {
+      "id": "e4e4507b",
+      "bank_id": "60beb600",
+      "text": "Et Tezgâhı Devasa Kıtlığı"
+    },
+    {
+      "id": "e790fc18",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Balık Tezgâhı karmaşık balıkçılık sorunları nedeniyle şu anda bir kıtlık yaşıyor. Onlara balıklarınızı satın ve güzel bir meblağ kazanın."
+    },
+    {
+      "id": "e9ef75bd",
+      "bank_id": "60beb600",
+      "text": "Turta Tezgâhı Büyük İndirimi"
+    },
+    {
+      "id": "ea71f218",
+      "bank_id": "60beb600",
+      "text": "İçecek Tezgâhı Kıtlığı"
+    },
+    {
+      "id": "f1ac6c61",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Stilisti, boyalarındaki renk solması sorunları nedeniyle şu anda küçük bir kıtlık yaşıyor. Canlı renklerdeki her türlü boyayı almaya can atıyorlar."
+    },
+    {
+      "id": "f6f86ed7",
+      "bank_id": "60beb600",
+      "text": "Bowerstone Taş Kesicisi önümüzdeki birkaç gün boyunca indirimde. Hayatınızdaki o özel öldürme aleti için güzel bir efsun taşı kapmanın tam zamanı."
+    },
+    {
+      "id": "f9b4b73a",
+      "bank_id": "60beb600",
+      "text": "Manav Tezgâhı Kıtlığı"
+    },
+    {
+      "id": "f9fca5bf",
+      "bank_id": "60beb600",
+      "text": "Et Tezgâhı Kıtlığı"
+    }
+  ]
+}

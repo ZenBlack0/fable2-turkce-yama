@@ -1,0 +1,926 @@
+{
+  "bank_id": "90b3b600",
+  "total_strings": 184,
+  "strings": [
+    {
+      "id": "0060ea57",
+      "bank_id": "90b3b600",
+      "text": "Ah! Burada biraz yardıma ihtiyacım var!"
+    },
+    {
+      "id": "00eb63fc",
+      "bank_id": "90b3b600",
+      "text": "Bulanındır."
+    },
+    {
+      "id": "0160ebca",
+      "bank_id": "90b3b600",
+      "text": "Sadece buradan canlı çıkmak istiyorum!"
+    },
+    {
+      "id": "01eb656f",
+      "bank_id": "90b3b600",
+      "text": "Bunun gibi bir saatim vardı bir zamanlar -- mücevherleri yoktu gerçi. Kolları da yoktu."
+    },
+    {
+      "id": "0260edbd",
+      "bank_id": "90b3b600",
+      "text": "Hey! Onları durdurman gerekmiyor muydu?!"
+    },
+    {
+      "id": "03eb68b5",
+      "bank_id": "90b3b600",
+      "text": "Bu ne, kaşık mı? Güveç için işime yarayabilir bu."
+    },
+    {
+      "id": "04edafd4",
+      "bank_id": "90b3b600",
+      "text": "Yayını hatırla. Onlar ne olduğunu anlamadan bitebilir bu iş."
+    },
+    {
+      "id": "05edb147",
+      "bank_id": "90b3b600",
+      "text": "Tatar yayını hatırla. Onlar ne olduğunu anlamadan bitebilir bu iş."
+    },
+    {
+      "id": "07edb4ad",
+      "bank_id": "90b3b600",
+      "text": "Tüfeğini hatırla. Onlar ne olduğunu anlamadan bitebilir bu iş."
+    },
+    {
+      "id": "0a746c47",
+      "bank_id": "90b3b600",
+      "text": "Başsız seçkin Kof Adam'ı yenin."
+    },
+    {
+      "id": "1db6de5d",
+      "bank_id": "90b3b600",
+      "text": "Başkeşişin kızı Hannah'ya Işık Pınarı'na kadar eşlik edin."
+    },
+    {
+      "id": "2684a954",
+      "bank_id": "90b3b600",
+      "text": "Bunu nasıl buldun seni kof domuz?!"
+    },
+    {
+      "id": "29a68eb8",
+      "bank_id": "90b3b600",
+      "text": "O büyü tenimi karıncalandırdı resmen!"
+    },
+    {
+      "id": "2b83b7c1",
+      "bank_id": "90b3b600",
+      "text": "Öyle olsun. Hareket etmeye devam etmelisin."
+    },
+    {
+      "id": "2be24b57",
+      "bank_id": "90b3b600",
+      "text": "Üzgünüm, elimdeki görev tecrübeli bir maceracıya göre."
+    },
+    {
+      "id": "2c83b9b4",
+      "bank_id": "90b3b600",
+      "text": "Erdemlisin ve elindeki göreve odaklanmışsın. Bu iyi, dikkat dağınıklığına ihtiyacımız yok."
+    },
+    {
+      "id": "2d83bb27",
+      "bank_id": "90b3b600",
+      "text": "Tatmin oldun mu? Şimdi yola devam etmelisin."
+    },
+    {
+      "id": "2e83bc9a",
+      "bank_id": "90b3b600",
+      "text": "Seçimin ne olursa olsun fazla oyalanma. Önümüzde daha uzun bir yol var."
+    },
+    {
+      "id": "3afd3720",
+      "bank_id": "90b3b600",
+      "text": "Hadi, yapabilirsin! Kalk ayağa!"
+    },
+    {
+      "id": "3bfd3893",
+      "bank_id": "90b3b600",
+      "text": "Hadi, iyisin sen, kalk ayağa!"
+    },
+    {
+      "id": "3c580c52",
+      "bank_id": "90b3b600",
+      "text": "Hadi, harika gidiyorsun. Sadece anlık bir dikkat dağınıklığıydı o!"
+    },
+    {
+      "id": "3cfd3a06",
+      "bank_id": "90b3b600",
+      "text": "Aşağıda iyi misin? Çabuk kalksan iyi olur!"
+    },
+    {
+      "id": "3d580dc5",
+      "bank_id": "90b3b600",
+      "text": "Sabaha fena bir morluğun olacak!"
+    },
+    {
+      "id": "3e580fb8",
+      "bank_id": "90b3b600",
+      "text": "Acısını fena hissetmişsindir kalıbımı basarım!"
+    },
+    {
+      "id": "3f58112b",
+      "bank_id": "90b3b600",
+      "text": "Bırak peşimi seni hortlak herif!"
+    },
+    {
+      "id": "4058129e",
+      "bank_id": "90b3b600",
+      "text": "Dikkat et!"
+    },
+    {
+      "id": "40fd40b2",
+      "bank_id": "90b3b600",
+      "text": "Dayan! Hemen kalk ve onlara patronun kim olduğunu göster!"
+    },
+    {
+      "id": "41581471",
+      "bank_id": "90b3b600",
+      "text": "İyi misin sen?"
+    },
+    {
+      "id": "41fd4225",
+      "bank_id": "90b3b600",
+      "text": "Bu heriflerin seni alt etmesine izin verme!"
+    },
+    {
+      "id": "425815e4",
+      "bank_id": "90b3b600",
+      "text": "Fena acımış olmalı!"
+    },
+    {
+      "id": "43581757",
+      "bank_id": "90b3b600",
+      "text": "Dikkatli ol!"
+    },
+    {
+      "id": "45581abd",
+      "bank_id": "90b3b600",
+      "text": "İyi misin orada?"
+    },
+    {
+      "id": "5060dd68",
+      "bank_id": "90b3b600",
+      "text": "Ayin"
+    },
+    {
+      "id": "5538b756",
+      "bank_id": "90b3b600",
+      "text": "Harikaydı bu! Doğrudan yere serildi."
+    },
+    {
+      "id": "5638b8c9",
+      "bank_id": "90b3b600",
+      "text": "Yere serildi! İşte bu!"
+    },
+    {
+      "id": "5738babc",
+      "bank_id": "90b3b600",
+      "text": "Ayaklarını yerden kesti, iyi vuruştu!"
+    },
+    {
+      "id": "5838bc2f",
+      "bank_id": "90b3b600",
+      "text": "Güm! Öp yeri seni kof herif!"
+    },
+    {
+      "id": "5938bd82",
+      "bank_id": "90b3b600",
+      "text": "Ha! Fena uçurdun onu!"
+    },
+    {
+      "id": "5b5726c3",
+      "bank_id": "90b3b600",
+      "text": "Bu herifin seni durdurmasına izin verme sakın!"
+    },
+    {
+      "id": "5c5728b6",
+      "bank_id": "90b3b600",
+      "text": "O blokta şansı yaver gitti. Ama bir daha yapamaz!"
+    },
+    {
+      "id": "5e216465",
+      "bank_id": "90b3b600",
+      "text": "Başkeşişi etkilemek için %1 ün daha kazanın."
+    },
+    {
+      "id": "64c3f35c",
+      "bank_id": "90b3b600",
+      "text": "Umarım buna devam edecek kadar mermin vardır."
+    },
+    {
+      "id": "65874900",
+      "bank_id": "90b3b600",
+      "text": "Fena canını yaktı! Eskiden de öfkeliydi gerçi!"
+    },
+    {
+      "id": "65b6e518",
+      "bank_id": "90b3b600",
+      "text": "Orada ne buldun öyle? Çok güzelmiş doğrusu."
+    },
+    {
+      "id": "66874af3",
+      "bank_id": "90b3b600",
+      "text": "Bunun geleceğini hiç göremedi!"
+    },
+    {
+      "id": "67874c66",
+      "bank_id": "90b3b600",
+      "text": "Kafası yerinde olsaydı kafasını uçururdu bu vuruş!"
+    },
+    {
+      "id": "67b6e87e",
+      "bank_id": "90b3b600",
+      "text": "Düşünecek olursan bu insanlara bir iyilik yapıyoruz."
+    },
+    {
+      "id": "68b6e9d1",
+      "bank_id": "90b3b600",
+      "text": "Bunun sende olmasını isterlerdi eminim."
+    },
+    {
+      "id": "6b875292",
+      "bank_id": "90b3b600",
+      "text": "Sıyrıktan biraz daha fazlasıydı bu! Gerçi pek eti de kalmamış ya."
+    },
+    {
+      "id": "6bcd8433",
+      "bank_id": "90b3b600",
+      "text": "Başkeşişi etkilemek için %1 ün daha kazanın."
+    },
+    {
+      "id": "6c875405",
+      "bank_id": "90b3b600",
+      "text": "Harika atış! Fena mıhladın onu."
+    },
+    {
+      "id": "70945fe0",
+      "bank_id": "90b3b600",
+      "text": "Güzel! Onları İrade'yle savuşturmaya devam et, her ne deniyorsa işte."
+    },
+    {
+      "id": "71946153",
+      "bank_id": "90b3b600",
+      "text": "Güzeldi bu!"
+    },
+    {
+      "id": "76747abb",
+      "bank_id": "90b3b600",
+      "text": "Çok acıtmış gibi göründü!"
+    },
+    {
+      "id": "77747c2e",
+      "bank_id": "90b3b600",
+      "text": "İyi misin? O şey fena patlattı seni!"
+    },
+    {
+      "id": "78411940",
+      "bank_id": "90b3b600",
+      "text": "Fena baş belasıydı değil mi? Ama hakladın onu!"
+    },
+    {
+      "id": "78747d81",
+      "bank_id": "90b3b600",
+      "text": "Hey, kendi boyunda biriyle uğraşsana sen!"
+    },
+    {
+      "id": "78946c58",
+      "bank_id": "90b3b600",
+      "text": "Vay canına! Daha önce kimsenin böyle bir şey yaptığını görmemiştim!"
+    },
+    {
+      "id": "79411b33",
+      "bank_id": "90b3b600",
+      "text": "Aynen öyle, doğruca mezara!"
+    },
+    {
+      "id": "79747f74",
+      "bank_id": "90b3b600",
+      "text": "İstediğin kadar dövüş kütük kafa, bu mağarayı temizleyeceğiz!"
+    },
+    {
+      "id": "7a411ca6",
+      "bank_id": "90b3b600",
+      "text": "Öldü galiba. Yani -- ne demek istediğimi anladın sen."
+    },
+    {
+      "id": "7a7480e7",
+      "bank_id": "90b3b600",
+      "text": "Şanssızlık. Bunun acısını çıkarırsın ondan!"
+    },
+    {
+      "id": "7a946fbe",
+      "bank_id": "90b3b600",
+      "text": "Keşişler yüce güçlerden bahsetmeyi sever ama onlar bile bunu yapamaz!"
+    },
+    {
+      "id": "7b411e19",
+      "bank_id": "90b3b600",
+      "text": "Ve bir kof adam daha nalları dikti!"
+    },
+    {
+      "id": "7b947111",
+      "bank_id": "90b3b600",
+      "text": "Bunu nasıl yaptın? Dokunmadın bile ona!"
+    },
+    {
+      "id": "7c411f8c",
+      "bank_id": "90b3b600",
+      "text": "Bu onlara hayata geri dönmemeyi öğretir!"
+    },
+    {
+      "id": "7c947284",
+      "bank_id": "90b3b600",
+      "text": "İrade'yi böyle kullanmaya devam edersen hiç zorluk çekmeyiz."
+    },
+    {
+      "id": "7d150ef3",
+      "bank_id": "90b3b600",
+      "text": "İlerlemenin tek yolu... aşağısı."
+    },
+    {
+      "id": "7d947477",
+      "bank_id": "90b3b600",
+      "text": "Böyle yapmayı nereden öğrendin?"
+    },
+    {
+      "id": "7e151066",
+      "bank_id": "90b3b600",
+      "text": "Haydutlar ilk defa haklı çıktı."
+    },
+    {
+      "id": "7e4122d2",
+      "bank_id": "90b3b600",
+      "text": "Vahşiceydi bu!"
+    },
+    {
+      "id": "7e9475ea",
+      "bank_id": "90b3b600",
+      "text": "Daha önce hiç kimsenin İrade kullandığını görmemiştim."
+    },
+    {
+      "id": "7f412445",
+      "bank_id": "90b3b600",
+      "text": "Zaten ölmüş bir şeyi öldürebilir misin ki?"
+    },
+    {
+      "id": "7f94775d",
+      "bank_id": "90b3b600",
+      "text": "Güzel vuruş! Bu testiyi kendi kendine taşıtacak bir büyün yok değil mi?"
+    },
+    {
+      "id": "826fb0ab",
+      "bank_id": "90b3b600",
+      "text": "Theresa'nın gelmesine kalan süre:"
+    },
+    {
+      "id": "84412c64",
+      "bank_id": "90b3b600",
+      "text": "Bizi görebilseydi babam ne derdi acaba?"
+    },
+    {
+      "id": "85412dd7",
+      "bank_id": "90b3b600",
+      "text": "Bu işte iyisin."
+    },
+    {
+      "id": "8df52da0",
+      "bank_id": "90b3b600",
+      "text": "Harikaydı! Tek vuruşta hakladın!"
+    },
+    {
+      "id": "8ef52f13",
+      "bank_id": "90b3b600",
+      "text": "Vay canına, seni kızdırmamam gerektiğini hatırlat bana."
+    },
+    {
+      "id": "8ff438f0",
+      "bank_id": "90b3b600",
+      "text": "Size ün kazandıracak görevler için haritanıza bakın."
+    },
+    {
+      "id": "92f43d49",
+      "bank_id": "90b3b600",
+      "text": "Ün, Albion halkı arasındaki şöhretinizin bir ölçüsüdür. Ün öncelikle görevleri tamamlayarak kazanılır, ancak başka yolları da vardır!"
+    },
+    {
+      "id": "92f5355f",
+      "bank_id": "90b3b600",
+      "text": "Bunun geleceğini hiç göremedi!"
+    },
+    {
+      "id": "93f53732",
+      "bank_id": "90b3b600",
+      "text": "Çok etkileyiciydi bu!"
+    },
+    {
+      "id": "94f538a5",
+      "bank_id": "90b3b600",
+      "text": "Ha! Böyle devam edersen buradan göz açıp kapayıncaya kadar geçeriz."
+    },
+    {
+      "id": "9687a43c",
+      "bank_id": "90b3b600",
+      "text": "Rahibe Hannah'ya eşlik etmeye hazır mısınız?"
+    },
+    {
+      "id": "9732617c",
+      "bank_id": "90b3b600",
+      "text": "KOF ADAMLAR"
+    },
+    {
+      "id": "98827739",
+      "bank_id": "90b3b600",
+      "text": "yüzde %1"
+    },
+    {
+      "id": "99664f50",
+      "bank_id": "90b3b600",
+      "text": "Güm! Üstlerine gitmeye devam et!"
+    },
+    {
+      "id": "9a326635",
+      "bank_id": "90b3b600",
+      "text": "KOF ADAM"
+    },
+    {
+      "id": "9a6650c3",
+      "bank_id": "90b3b600",
+      "text": "İyi hissettirmiştir herhalde, değil mi?"
+    },
+    {
+      "id": "a1665bc8",
+      "bank_id": "90b3b600",
+      "text": "Geri durma!"
+    },
+    {
+      "id": "a3665f2e",
+      "bank_id": "90b3b600",
+      "text": "Bunun geri dönüşü yok artık."
+    },
+    {
+      "id": "a4666081",
+      "bank_id": "90b3b600",
+      "text": "Eğlenceli görünüyor doğrusu!"
+    },
+    {
+      "id": "a5666274",
+      "bank_id": "90b3b600",
+      "text": "Birkaç tane daha vurursan tekrar... ölecek."
+    },
+    {
+      "id": "a66663e7",
+      "bank_id": "90b3b600",
+      "text": "İşte böyle! Sert vur ona!"
+    },
+    {
+      "id": "a766655a",
+      "bank_id": "90b3b600",
+      "text": "Güzel vuruş."
+    },
+    {
+      "id": "a86666cd",
+      "bank_id": "90b3b600",
+      "text": "Fena yapıştırdın ona!"
+    },
+    {
+      "id": "ac72ce88",
+      "bank_id": "90b3b600",
+      "text": "Evet, aynen öyle!"
+    },
+    {
+      "id": "ad72d07b",
+      "bank_id": "90b3b600",
+      "text": "Bu hiç hoşuna gitmedi işte!"
+    },
+    {
+      "id": "af72d341",
+      "bank_id": "90b3b600",
+      "text": "İrade'yi harika kullandın."
+    },
+    {
+      "id": "b272d81a",
+      "bank_id": "90b3b600",
+      "text": "Bu işte iyisin! Daha önce koca bir başsız kof adama karşı İrade kullanmış mıydın hiç?"
+    },
+    {
+      "id": "b372d98d",
+      "bank_id": "90b3b600",
+      "text": "O büyü aklını başına getirdi değil mi?"
+    },
+    {
+      "id": "b3ed1eb4",
+      "bank_id": "90b3b600",
+      "text": "Vaktimi boşa harcamaktan zevk mi alıyorsun?"
+    },
+    {
+      "id": "b4c39408",
+      "bank_id": "90b3b600",
+      "text": "Ne oldu Başsız, dinlenmeye mi ihtiyacın var?"
+    },
+    {
+      "id": "b4ed2027",
+      "bank_id": "90b3b600",
+      "text": "Korkacak hiçbir şey yok."
+    },
+    {
+      "id": "b5ed219a",
+      "bank_id": "90b3b600",
+      "text": "İçeri gir, çekinme."
+    },
+    {
+      "id": "b7c398c1",
+      "bank_id": "90b3b600",
+      "text": "Ben olsam kalkmazdım, yoksa dostum yine aynısını yapar!"
+    },
+    {
+      "id": "b91d058c",
+      "bank_id": "90b3b600",
+      "text": "Gerçekten kof olsalardı vurulduklarında daha farklı bir ses çıkarırlardı sanırdım."
+    },
+    {
+      "id": "ba1d077f",
+      "bank_id": "90b3b600",
+      "text": "Evet, harika atış!"
+    },
+    {
+      "id": "ba84eeeb",
+      "bank_id": "90b3b600",
+      "text": "Saldırıların boşa gidiyor Bay Kafasız! Kusura bakma, saçmaydı biraz."
+    },
+    {
+      "id": "bb84f05e",
+      "bank_id": "90b3b600",
+      "text": "Bloklandı! Gördün mü seni melun canavar? Gerçi göremezdin herhalde."
+    },
+    {
+      "id": "bd1d0c38",
+      "bank_id": "90b3b600",
+      "text": "Acı vermiş olmalı. Acı hissedebiliyorlarsa tabii."
+    },
+    {
+      "id": "bd982d6b",
+      "bank_id": "90b3b600",
+      "text": "Muhafızlara Thag'ın öldüğünü söyleyeceğim. Tehdit ortadan kalktığına göre Bowerstone yolu yeniden açılabilir."
+    },
+    {
+      "id": "be1d0dab",
+      "bank_id": "90b3b600",
+      "text": "İyi atış!"
+    },
+    {
+      "id": "bf1d0f1e",
+      "bank_id": "90b3b600",
+      "text": "Bu enayiler iyi hedef oluyor değil mi?"
+    },
+    {
+      "id": "c01d10f1",
+      "bank_id": "90b3b600",
+      "text": "Güzel yeteneklerin var, hakkını vermek lazım."
+    },
+    {
+      "id": "c101d310",
+      "bank_id": "90b3b600",
+      "text": "Ah! Merhaba... Şey, göründüğü gibi değil aslında."
+    },
+    {
+      "id": "c11d1264",
+      "bank_id": "90b3b600",
+      "text": "Fena değil!"
+    },
+    {
+      "id": "c201d483",
+      "bank_id": "90b3b600",
+      "text": "T-teşekkürler haydutlar!"
+    },
+    {
+      "id": "c298350a",
+      "bank_id": "90b3b600",
+      "text": "Tebrikler."
+    },
+    {
+      "id": "c301d676",
+      "bank_id": "90b3b600",
+      "text": "Bak, bu adamların bu eşyalara artık ihtiyacı yok. Kimseye bir zararı yok değil mi?"
+    },
+    {
+      "id": "c31d154a",
+      "bank_id": "90b3b600",
+      "text": "Bu heriflerin üstlerine ne fırlatırsan fırlat umurlarında olmuyor değil mi?"
+    },
+    {
+      "id": "c39836fd",
+      "bank_id": "90b3b600",
+      "text": "Benimle Bowerstone Pazarı'nda saat kulesinin yanında buluş. Görmen gereken bir şey var."
+    },
+    {
+      "id": "c401d7e9",
+      "bank_id": "90b3b600",
+      "text": "Bu insanları ben öldürmedim; haydutlar yaptı. Ganimeti aldılar ama cesetleri aramadılar."
+    },
+    {
+      "id": "c41d173d",
+      "bank_id": "90b3b600",
+      "text": "Atışlara devam et!"
+    },
+    {
+      "id": "c501d95c",
+      "bank_id": "90b3b600",
+      "text": "Para para para..."
+    },
+    {
+      "id": "c5f137bc",
+      "bank_id": "90b3b600",
+      "text": "Hacı'yı, Büyücü'yü ve Hırsız'ı Lucien'den önce bulmalısın."
+    },
+    {
+      "id": "c701dca2",
+      "bank_id": "90b3b600",
+      "text": "Bunu da alayım... ve şunu da."
+    },
+    {
+      "id": "c801de15",
+      "bank_id": "90b3b600",
+      "text": "Biri bana... biri daha bana..."
+    },
+    {
+      "id": "c85aa933",
+      "bank_id": "90b3b600",
+      "text": "BAŞSIZ KOF ADAM"
+    },
+    {
+      "id": "cc0df4a8",
+      "bank_id": "90b3b600",
+      "text": "Başkeşiş kasabanın diğer ucundaki Tapınakta olacak."
+    },
+    {
+      "id": "cd01e634",
+      "bank_id": "90b3b600",
+      "text": "Açgözlü değilim ben."
+    },
+    {
+      "id": "ce01e7a7",
+      "bank_id": "90b3b600",
+      "text": "Sen de alabilirsin. Ne bulursan al."
+    },
+    {
+      "id": "cf0df961",
+      "bank_id": "90b3b600",
+      "text": "Aferin sana. Başardın!"
+    },
+    {
+      "id": "d44d2bb0",
+      "bank_id": "90b3b600",
+      "text": "Tabanları yağlasan iyi olur! Ahh!"
+    },
+    {
+      "id": "d54d2d23",
+      "bank_id": "90b3b600",
+      "text": "Arabamı ters yüz ettiler, neredeyse bana da aynısını yapacaklardı."
+    },
+    {
+      "id": "d64d2e96",
+      "bank_id": "90b3b600",
+      "text": "Haydutlar! İlerideler!"
+    },
+    {
+      "id": "dc227be8",
+      "bank_id": "90b3b600",
+      "text": "Benimle olduğuna sevindim. Sen olmasan başım dertteydi."
+    },
+    {
+      "id": "dd9d6413",
+      "bank_id": "90b3b600",
+      "text": "Oakfield'deki başkeşişle konuşun."
+    },
+    {
+      "id": "de9d6586",
+      "bank_id": "90b3b600",
+      "text": "Işık Tapınağı'na gitmelisin."
+    },
+    {
+      "id": "df9d6779",
+      "bank_id": "90b3b600",
+      "text": "Oakfield uzak değil ama yollar tehlikeli olabilir."
+    },
+    {
+      "id": "e0bc6e30",
+      "bank_id": "90b3b600",
+      "text": "Harika blok."
+    },
+    {
+      "id": "e1bc6fa3",
+      "bank_id": "90b3b600",
+      "text": "Pek zeki sayılmazlar değil mi? Saldırılarını durdurmaya devam et yeter."
+    },
+    {
+      "id": "e2bc7116",
+      "bank_id": "90b3b600",
+      "text": "Güzel iş!"
+    },
+    {
+      "id": "e3bc7289",
+      "bank_id": "90b3b600",
+      "text": "Harika blok!"
+    },
+    {
+      "id": "e4bc747c",
+      "bank_id": "90b3b600",
+      "text": "Böyle geçerlerse hiçbir yere varamazlar!"
+    },
+    {
+      "id": "e5bc75ef",
+      "bank_id": "90b3b600",
+      "text": "Kendini nasıl savunacağını kesinlikle biliyorsun!"
+    },
+    {
+      "id": "e690a02b",
+      "bank_id": "90b3b600",
+      "text": "Hacı'yı bulmalıyız. Gecikme. Belki de tüylü dostunun nereye gittiğine bakmalısın."
+    },
+    {
+      "id": "e6b217b7",
+      "bank_id": "90b3b600",
+      "text": "Merak etme. Bu iş bittiğinde birkaç kadeh içeriz. Acısını dindirir."
+    },
+    {
+      "id": "e7bc7935",
+      "bank_id": "90b3b600",
+      "text": "İyi blok!"
+    },
+    {
+      "id": "e8839d84",
+      "bank_id": "90b3b600",
+      "text": "O ucubenin seni yere sermesine izin verme!"
+    },
+    {
+      "id": "eb83a25d",
+      "bank_id": "90b3b600",
+      "text": "Çabuk! Kalk ayağa!"
+    },
+    {
+      "id": "eebc843a",
+      "bank_id": "90b3b600",
+      "text": "İyi hareket. Buradan hiçbir şey geçemez!"
+    },
+    {
+      "id": "eec3ee20",
+      "bank_id": "90b3b600",
+      "text": "Mağaradaki rahiple buluşun."
+    },
+    {
+      "id": "ef90e6c5",
+      "bank_id": "90b3b600",
+      "text": "Şu an soğuk bir içeceğe öyle ihtiyacım var ki."
+    },
+    {
+      "id": "efc3ef93",
+      "bank_id": "90b3b600",
+      "text": "Başkeşişin yanına dönün."
+    },
+    {
+      "id": "f0c3f106",
+      "bank_id": "90b3b600",
+      "text": "Görevlerden ve diğer işlerden ün kazanarak başkeşişi etkileyin."
+    },
+    {
+      "id": "f1c3f2fc",
+      "bank_id": "90b3b600",
+      "text": "Oakfield'deki başkeşişle konuşun."
+    },
+    {
+      "id": "f2c3f469",
+      "bank_id": "90b3b600",
+      "text": "Başsız seçkin Kof Adam'ı yenin."
+    },
+    {
+      "id": "f2c3f46c",
+      "bank_id": "90b3b600",
+      "text": "Kof Adamları yenin."
+    },
+    {
+      "id": "f39ac03b",
+      "bank_id": "90b3b600",
+      "text": "Ez şu canavarı!"
+    },
+    {
+      "id": "f3c3f5df",
+      "bank_id": "90b3b600",
+      "text": "Hannah'ya pınara kadar eşlik edin."
+    },
+    {
+      "id": "f49ac1ae",
+      "bank_id": "90b3b600",
+      "text": "Acısını fena hissetmiştir! Bir şey hissedebiliyorsa tabii."
+    },
+    {
+      "id": "f4c3f7b0",
+      "bank_id": "90b3b600",
+      "text": "İlk odada Hannah'ya su heykeline kadar eşlik edin."
+    },
+    {
+      "id": "f4c3f7b1",
+      "bank_id": "90b3b600",
+      "text": "İbrik dolana kadar su heykelini etkinleştirmek için düğmenin üzerinde durun."
+    },
+    {
+      "id": "f4c3f7b2",
+      "bank_id": "90b3b600",
+      "text": "Pınar Mağarası'na girin."
+    },
+    {
+      "id": "f4c3f7b3",
+      "bank_id": "90b3b600",
+      "text": "Hannah'ya merkezi odaya kadar eşlik edin."
+    },
+    {
+      "id": "f4c3f7b4",
+      "bank_id": "90b3b600",
+      "text": "Düğmenin üzerinde durun ve ibrik dolarken Hannah'yı koruyun."
+    },
+    {
+      "id": "f4c3f7b5",
+      "bank_id": "90b3b600",
+      "text": "Merkezi odaya dönün ve yol boyunca Hannah'yı koruyun."
+    },
+    {
+      "id": "f4c3f7b6",
+      "bank_id": "90b3b600",
+      "text": "Hannah'yı koruyun ve merkezi odaya dönün."
+    },
+    {
+      "id": "f4c3f7b7",
+      "bank_id": "90b3b600",
+      "text": "Hannah'ya ikinci odaya kadar eşlik edin."
+    },
+    {
+      "id": "f59ac301",
+      "bank_id": "90b3b600",
+      "text": "Güzeldi bu! Bu yaratık kendine başka bir mağara bulsa iyi olur!"
+    },
+    {
+      "id": "f5c3f925",
+      "bank_id": "90b3b600",
+      "text": "Hannah'ya Pınar Mağarası'na kadar eşlik edin."
+    },
+    {
+      "id": "f69ac4f4",
+      "bank_id": "90b3b600",
+      "text": "Ha! Bu darbelerden pek fazlasına dayanamaz!"
+    },
+    {
+      "id": "f760dc0c",
+      "bank_id": "90b3b600",
+      "text": "Suyu döktürecekler bana!"
+    },
+    {
+      "id": "f79ac667",
+      "bank_id": "90b3b600",
+      "text": "Onu kızdırıyorsun galiba!"
+    },
+    {
+      "id": "f860ddff",
+      "bank_id": "90b3b600",
+      "text": "Bu şeyler gerçekten sinirime dokunmaya başladı artık!"
+    },
+    {
+      "id": "f8c3fdfb",
+      "bank_id": "90b3b600",
+      "text": "Başsız seçkin Kof Adam'ı yenin"
+    },
+    {
+      "id": "f9c3ff51",
+      "bank_id": "90b3b600",
+      "text": "Son odadaki düğmenin üzerinde durun."
+    },
+    {
+      "id": "f9c3ff54",
+      "bank_id": "90b3b600",
+      "text": "Başsız seçkin Kof Adam'ı yenin."
+    },
+    {
+      "id": "fb60e2b8",
+      "bank_id": "90b3b600",
+      "text": "Seni hortlak pislik! Şunları üstümden alsana!"
+    },
+    {
+      "id": "fc60e42b",
+      "bank_id": "90b3b600",
+      "text": "Buradayım! Biraz yardım lütfen!"
+    },
+    {
+      "id": "fd60e59e",
+      "bank_id": "90b3b600",
+      "text": "Fazla yaklaşıyorlar!"
+    },
+    {
+      "id": "fe60e771",
+      "bank_id": "90b3b600",
+      "text": "Şu herifle ilgilenir misin lütfen?"
+    }
+  ]
+}

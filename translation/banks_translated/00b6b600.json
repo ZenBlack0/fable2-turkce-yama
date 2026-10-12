@@ -1,0 +1,936 @@
+{
+  "bank_id": "00b6b600",
+  "total_strings": 186,
+  "strings": [
+    {
+      "id": "1107f4f0",
+      "bank_id": "00b6b600",
+      "text": "Sen ortada durana kadar ayine başlayamayız."
+    },
+    {
+      "id": "11e77e9f",
+      "bank_id": "00b6b600",
+      "text": "İyi geceler, küçük Sparrow."
+    },
+    {
+      "id": "1207f663",
+      "bank_id": "00b6b600",
+      "text": "Beni bekletmek kabalıktır. Bekletenleri vurma eğilimindeyimdir."
+    },
+    {
+      "id": "12311558",
+      "bank_id": "00b6b600",
+      "text": "Birkaçını öldürmek ister misin?"
+    },
+    {
+      "id": "1307f7d6",
+      "bank_id": "00b6b600",
+      "text": "Lütfen, kaybedecek vaktimiz yok. Ortada dur."
+    },
+    {
+      "id": "131c4700",
+      "bank_id": "00b6b600",
+      "text": "Vurman için çiftliğin etrafına şişeler sakladım; tavukların toplanması gerek; ya da birkaç böcek öldürebiliriz-- bir sürü şey var."
+    },
+    {
+      "id": "15311a11",
+      "bank_id": "00b6b600",
+      "text": "Bu tarlada bir sürü böcek var."
+    },
+    {
+      "id": "174c9ee4",
+      "bank_id": "00b6b600",
+      "text": "Hava karardığında yapacak hiçbir şey yok. Şimdi uzan ve gözlerini kapat."
+    },
+    {
+      "id": "181c4f3f",
+      "bank_id": "00b6b600",
+      "text": "Hadi ama!"
+    },
+    {
+      "id": "1827bfa8",
+      "bank_id": "00b6b600",
+      "text": "Ama vah vah, eskisi kadar hayat dolu görünmüyorsun. O Yargıçlar tam bir baş belası olabiliyor, değil mi?"
+    },
+    {
+      "id": "184ca057",
+      "bank_id": "00b6b600",
+      "text": "Gerçekten bütün gece ayakta mı kalmak istiyorsun? Hadi yatağa."
+    },
+    {
+      "id": "191c5092",
+      "bank_id": "00b6b600",
+      "text": "Çok uzun süre dönmeyecekler."
+    },
+    {
+      "id": "194ca1ca",
+      "bank_id": "00b6b600",
+      "text": "Hadi ama seni gece kuşu. Yoruldum ben -- hadi yatalım."
+    },
+    {
+      "id": "1958b678",
+      "bank_id": "00b6b600",
+      "text": "Dünyanın dert etmesi gereken bir böcek daha eksildi!"
+    },
+    {
+      "id": "1a1c5205",
+      "bank_id": "00b6b600",
+      "text": "Çok eğlenceli bir gün geçireceğiz, o kadar çok şey planladım ki..."
+    },
+    {
+      "id": "1a58b7eb",
+      "bank_id": "00b6b600",
+      "text": "Evet! Öldürdün onu!"
+    },
+    {
+      "id": "226d8838",
+      "bank_id": "00b6b600",
+      "text": "Kocanız öldü."
+    },
+    {
+      "id": "246d8b1e",
+      "bank_id": "00b6b600",
+      "text": "Kocanız ve çocuklarınız öldü."
+    },
+    {
+      "id": "255910f3",
+      "bank_id": "00b6b600",
+      "text": "Yeni bir gün!"
+    },
+    {
+      "id": "256d8cf1",
+      "bank_id": "00b6b600",
+      "text": "Kocanız ve çocuğunuz öldü."
+    },
+    {
+      "id": "26591266",
+      "bank_id": "00b6b600",
+      "text": "Çiftlikte yapacak öyle çok şey var ki!"
+    },
+    {
+      "id": "275913d9",
+      "bank_id": "00b6b600",
+      "text": "Keşfedin ve eğlenin!"
+    },
+    {
+      "id": "27bc309b",
+      "bank_id": "00b6b600",
+      "text": "Bu bambaşkaydı işte. Yıllardır gördüğüm en iyi Çile!"
+    },
+    {
+      "id": "28090d77",
+      "bank_id": "00b6b600",
+      "text": "Pekala, ben tek başıma eğlenirim o zaman. İyi geceler!"
+    },
+    {
+      "id": "2859154c",
+      "bank_id": "00b6b600",
+      "text": "Tarladaki tüm böcekleri öldürün!"
+    },
+    {
+      "id": "28bc320e",
+      "bank_id": "00b6b600",
+      "text": "Her daim hatırlanacak klasik bir performans. Ya da en azından, hatırlayacak insanlar hayatta olduğu sürece."
+    },
+    {
+      "id": "2959173f",
+      "bank_id": "00b6b600",
+      "text": "Tüm şişeleri bulun!"
+    },
+    {
+      "id": "2a591892",
+      "bank_id": "00b6b600",
+      "text": "Tüm tavukları toplayın!"
+    },
+    {
+      "id": "2b591a05",
+      "bank_id": "00b6b600",
+      "text": "Yatağa gidin."
+    },
+    {
+      "id": "2c591bf8",
+      "bank_id": "00b6b600",
+      "text": "Müziği araştırın."
+    },
+    {
+      "id": "312ad11d",
+      "bank_id": "00b6b600",
+      "text": "Kusursuz Bir Dünya"
+    },
+    {
+      "id": "32522df9",
+      "bank_id": "00b6b600",
+      "text": "Bower Gölü'nde Theresa ile buluşun."
+    },
+    {
+      "id": "32b8e3eb",
+      "bank_id": "00b6b600",
+      "text": "Hadi! Neredeyse bitti. Sadece iki tane kaldı."
+    },
+    {
+      "id": "35fce7cc",
+      "bank_id": "00b6b600",
+      "text": "İki tane kaldı. Seni izlemek bile beni yordu."
+    },
+    {
+      "id": "3c4ea9f7",
+      "bank_id": "00b6b600",
+      "text": "Hepsi bu kadardı! Vay canına! Sana \"Tavuk Kovalayan\" demeliyim."
+    },
+    {
+      "id": "3d4eab6a",
+      "bank_id": "00b6b600",
+      "text": "Şimdi ne yapmak istersin?"
+    },
+    {
+      "id": "3d63621c",
+      "bank_id": "00b6b600",
+      "text": "Hepsini kümeslerine geri sokabileceğini düşünüyor musun?"
+    },
+    {
+      "id": "3e537a14",
+      "bank_id": "00b6b600",
+      "text": "Uyumaya gidelim mi?"
+    },
+    {
+      "id": "406366d5",
+      "bank_id": "00b6b600",
+      "text": "Şu tavuklar da her yerde dolanıp duruyor, habire gagalayıp duruyorlar."
+    },
+    {
+      "id": "41537eed",
+      "bank_id": "00b6b600",
+      "text": "Müzik kutusunu alın."
+    },
+    {
+      "id": "46c3cddb",
+      "bank_id": "00b6b600",
+      "text": "Başka göremiyorum. Başka bir şey yapalım mı?"
+    },
+    {
+      "id": "4714e7b0",
+      "bank_id": "00b6b600",
+      "text": "Bayanlar ve baylar, bir muhteşem atış daha!"
+    },
+    {
+      "id": "4814e923",
+      "bank_id": "00b6b600",
+      "text": "Ha! Keşke biraz boyamız olsaydı. Kabuklarının üstüne hedef tahtası çizerdik."
+    },
+    {
+      "id": "4f14f428",
+      "bank_id": "00b6b600",
+      "text": "Ne atıştı ama!"
+    },
+    {
+      "id": "5114f70e",
+      "bank_id": "00b6b600",
+      "text": "Onları vurmanın en güzel yanı uzaktan o kadar da kötü kokmamaları."
+    },
+    {
+      "id": "5180fa47",
+      "bank_id": "00b6b600",
+      "text": "Testi geçtin. Ödülün, düşmanınla yüzleşme fırsatı... ve onu yok etme aracıdır."
+    },
+    {
+      "id": "5214f8e1",
+      "bank_id": "00b6b600",
+      "text": "Evet, güzel nişan aldın!"
+    },
+    {
+      "id": "5280fc3a",
+      "bank_id": "00b6b600",
+      "text": "Kutuyu al ve onun yanına git."
+    },
+    {
+      "id": "53333e5d",
+      "bank_id": "00b6b600",
+      "text": "Kalan böcek: %1"
+    },
+    {
+      "id": "5414fbc7",
+      "bank_id": "00b6b600",
+      "text": "Bunu hiç beklemiyordu!"
+    },
+    {
+      "id": "54f3f122",
+      "bank_id": "00b6b600",
+      "text": "Ortada dur. Sen bu üçünü birbirine bağlayan şeyi temsil ediyorsun: Güç, Beceri ve İrade. Birlikte Lucien'i yenecek o büyük silahı çağıracaksınız."
+    },
+    {
+      "id": "5514fdba",
+      "bank_id": "00b6b600",
+      "text": "Ne ara bu kadar keskin nişancı oldun sen!"
+    },
+    {
+      "id": "559db2e7",
+      "bank_id": "00b6b600",
+      "text": "Hayır!"
+    },
+    {
+      "id": "55f3f295",
+      "bank_id": "00b6b600",
+      "text": "Artık başlayabiliriz."
+    },
+    {
+      "id": "5614ff2d",
+      "bank_id": "00b6b600",
+      "text": "Güzel!"
+    },
+    {
+      "id": "57bace5d",
+      "bank_id": "00b6b600",
+      "text": "Eşiniz öldü."
+    },
+    {
+      "id": "5be289d3",
+      "bank_id": "00b6b600",
+      "text": "Ama o zamanlar... ben de öyleydim."
+    },
+    {
+      "id": "5cbb5a97",
+      "bank_id": "00b6b600",
+      "text": "Kalan tavuk: %1"
+    },
+    {
+      "id": "5ce28b46",
+      "bank_id": "00b6b600",
+      "text": "Elbette, sadece bir çocuktun..."
+    },
+    {
+      "id": "5de28d39",
+      "bank_id": "00b6b600",
+      "text": "Seni en son öldürdüğümde yüreğim parçalanmıştı."
+    },
+    {
+      "id": "5f4f99e4",
+      "bank_id": "00b6b600",
+      "text": "Beş tane yakalayabilir misin sence?"
+    },
+    {
+      "id": "5fd923a8",
+      "bank_id": "00b6b600",
+      "text": "Kıymık'ı yok etmek için enerji kaynağına vurun!"
+    },
+    {
+      "id": "600d9c19",
+      "bank_id": "00b6b600",
+      "text": "Dört tane kaldı!"
+    },
+    {
+      "id": "60ce77c2",
+      "bank_id": "00b6b600",
+      "text": "Tamamdır seni şapşal tavuk, şimdi uslu dur!"
+    },
+    {
+      "id": "60d9251b",
+      "bank_id": "00b6b600",
+      "text": "Işık, Kıymık'ın zayıf noktasıdır-- sert vurun!"
+    },
+    {
+      "id": "60e291f2",
+      "bank_id": "00b6b600",
+      "text": "Zavallı yaratık. Yanılgı içinde ve zayıf."
+    },
+    {
+      "id": "624f9ebd",
+      "bank_id": "00b6b600",
+      "text": "Gölde balıklar var. Onları yakalamak için suya dalabilirsin."
+    },
+    {
+      "id": "63d929d4",
+      "bank_id": "00b6b600",
+      "text": "Işığa vurun! Tek savunmasız nokta orası!"
+    },
+    {
+      "id": "64d92b47",
+      "bank_id": "00b6b600",
+      "text": "Işığa vurmalısınız!"
+    },
+    {
+      "id": "65d92d3a",
+      "bank_id": "00b6b600",
+      "text": "Enerji kaynağına ateş edin!"
+    },
+    {
+      "id": "66d92ead",
+      "bank_id": "00b6b600",
+      "text": "Onu yok etmenin tek yolu ışığa vurmaktır!"
+    },
+    {
+      "id": "7cabbca0",
+      "bank_id": "00b6b600",
+      "text": "Ama aceleci davrandım. Soyun serpilip büyümesine izin verdim."
+    },
+    {
+      "id": "7dabbe13",
+      "bank_id": "00b6b600",
+      "text": "Ve sen serpilip büyüdün."
+    },
+    {
+      "id": "7eabbf86",
+      "bank_id": "00b6b600",
+      "text": "Ben sadece dinledim."
+    },
+    {
+      "id": "7fabc179",
+      "bank_id": "00b6b600",
+      "text": "O gece karanlığa çıkıp cesedini bulmalıydım."
+    },
+    {
+      "id": "82abc632",
+      "bank_id": "00b6b600",
+      "text": "Ama bu sefer farklı. Kahramanlık kanının son damlası bu tepeye akacak."
+    },
+    {
+      "id": "8780058b",
+      "bank_id": "00b6b600",
+      "text": "Ve her zamanki gibi genç ve hayat dolusun! Amma da kurnazsın ha. Helal olsun sana."
+    },
+    {
+      "id": "89aaca38",
+      "bank_id": "00b6b600",
+      "text": "Ooo... yanından bile geçmedi!"
+    },
+    {
+      "id": "8baacd1e",
+      "bank_id": "00b6b600",
+      "text": "Hadi ama! O kadar da kötü bir nişancı değilsin!"
+    },
+    {
+      "id": "8caacef1",
+      "bank_id": "00b6b600",
+      "text": "Fersah fersah ıska!"
+    },
+    {
+      "id": "8e0f5068",
+      "bank_id": "00b6b600",
+      "text": "Seni en son öldürdüğümde yüreğim parçalanmıştı."
+    },
+    {
+      "id": "8e2307e9",
+      "bank_id": "00b6b600",
+      "text": "Lucien ikinizden birini bile ele geçirirse her şeyin sonu olur. Gidin."
+    },
+    {
+      "id": "8f0f51db",
+      "bank_id": "00b6b600",
+      "text": "Elbette, sadece bir çocuktun..."
+    },
+    {
+      "id": "8f23095c",
+      "bank_id": "00b6b600",
+      "text": "Devam etmeli ve başka bir çıkış yolu bulmalısınız."
+    },
+    {
+      "id": "8fba302a",
+      "bank_id": "00b6b600",
+      "text": "Yaşasın! Harika! Şimdi ne yapalım?"
+    },
+    {
+      "id": "8fd636d8",
+      "bank_id": "00b6b600",
+      "text": "Seninle o güzel ışığı yapmaktan keyif aldım gerçi ama o bittiğine göre... şimdi ne olacak?"
+    },
+    {
+      "id": "900f534e",
+      "bank_id": "00b6b600",
+      "text": "Ama o zamanlar... ben de öyleydim."
+    },
+    {
+      "id": "90230acf",
+      "bank_id": "00b6b600",
+      "text": "Kasaba istila edildi."
+    },
+    {
+      "id": "90d6384b",
+      "bank_id": "00b6b600",
+      "text": "Katılıyorum."
+    },
+    {
+      "id": "91230ca2",
+      "bank_id": "00b6b600",
+      "text": "Lucien, Bloodstone'a yüzlerce adam taşımak için Büyük Kıymıkları kullanıyor."
+    },
+    {
+      "id": "91d63a3e",
+      "bank_id": "00b6b600",
+      "text": "Lanet olsun. Fena acıttı."
+    },
+    {
+      "id": "93d63d04",
+      "bank_id": "00b6b600",
+      "text": "Pek hayra alamet olamaz bu."
+    },
+    {
+      "id": "94d63ef2",
+      "bank_id": "00b6b600",
+      "text": "Dur bir dakika. Theresa nerede?"
+    },
+    {
+      "id": "95d6406a",
+      "bank_id": "00b6b600",
+      "text": "Bilmiyorum."
+    },
+    {
+      "id": "9cd798d2",
+      "bank_id": "00b6b600",
+      "text": "Kalan şişe: %1"
+    },
+    {
+      "id": "a5fc5ac8",
+      "bank_id": "00b6b600",
+      "text": "Hazır! Nişan al! Böcek ezmece!"
+    },
+    {
+      "id": "a679aa9f",
+      "bank_id": "00b6b600",
+      "text": "Önünüzdeki yol çetin olacak ama artık geri dönüş yok. İlerleyin."
+    },
+    {
+      "id": "a6a2bdc4",
+      "bank_id": "00b6b600",
+      "text": "Karınız öldü."
+    },
+    {
+      "id": "a779ac72",
+      "bank_id": "00b6b600",
+      "text": "Hammer ve Garth yoldalar. Devam edin."
+    },
+    {
+      "id": "a879ade5",
+      "bank_id": "00b6b600",
+      "text": "Güzel ilerliyorsunuz. Sahile çok bir şey kalmadı artık."
+    },
+    {
+      "id": "a8a2c12a",
+      "bank_id": "00b6b600",
+      "text": "Karınız ve çocuklarınız öldü."
+    },
+    {
+      "id": "a9a2c29d",
+      "bank_id": "00b6b600",
+      "text": "Karınız ve çocuğunuz öldü."
+    },
+    {
+      "id": "aa41bacc",
+      "bank_id": "00b6b600",
+      "text": "Sadece üç tane kaldı!"
+    },
+    {
+      "id": "aace5476",
+      "bank_id": "00b6b600",
+      "text": "O son şişe nerede olabilir acaba?"
+    },
+    {
+      "id": "aff38c50",
+      "bank_id": "00b6b600",
+      "text": "Belki bu ayarlanabilir."
+    },
+    {
+      "id": "b185fb46",
+      "bank_id": "00b6b600",
+      "text": "Şimdi tam olarak... ne yapıyoruz yani?"
+    },
+    {
+      "id": "b3d7afe0",
+      "bank_id": "00b6b600",
+      "text": "Güzel vuruş."
+    },
+    {
+      "id": "b4f3940f",
+      "bank_id": "00b6b600",
+      "text": "Lütfen çemberin içine geçer misiniz?"
+    },
+    {
+      "id": "b5d7b2c6",
+      "bank_id": "00b6b600",
+      "text": "Harika atış!"
+    },
+    {
+      "id": "b6d7b4b9",
+      "bank_id": "00b6b600",
+      "text": "Nefis."
+    },
+    {
+      "id": "b8cf16a6",
+      "bank_id": "00b6b600",
+      "text": "Benim küçük kız kardeşim, böceklerin azraili!"
+    },
+    {
+      "id": "b8cf16ad",
+      "bank_id": "00b6b600",
+      "text": "Benim küçük erkek kardeşim, böceklerin azraili!"
+    },
+    {
+      "id": "b8feece8",
+      "bank_id": "00b6b600",
+      "text": "Bak, vaktiyle Lucien'den kaçtın bir kez-- aynısını yine yapmakta utanılacak bir şey yok."
+    },
+    {
+      "id": "b9feee5b",
+      "bank_id": "00b6b600",
+      "text": "Karanlıktan korkmuyorsun değil mi?"
+    },
+    {
+      "id": "bafeefce",
+      "bank_id": "00b6b600",
+      "text": "\"Gidelim mi?\" diye sordu, tamamen lafın gelişi."
+    },
+    {
+      "id": "bc0793af",
+      "bank_id": "00b6b600",
+      "text": "Kurallar çiğnenemez. Karanlık Mührü kim taşıyorsa onu alacağız."
+    },
+    {
+      "id": "bd26b2dd",
+      "bank_id": "00b6b600",
+      "text": "Sonuncusu! Baş belası olacağına bahse girerim!"
+    },
+    {
+      "id": "be7410eb",
+      "bank_id": "00b6b600",
+      "text": "Üç tane daha!"
+    },
+    {
+      "id": "c4064705",
+      "bank_id": "00b6b600",
+      "text": "Ne oldu böcek surat? Kız kardeşimle başa çıkamadın mı?"
+    },
+    {
+      "id": "c406470e",
+      "bank_id": "00b6b600",
+      "text": "Ne oldu böcek surat? Küçük erkek kardeşimle başa çıkamadın mı?"
+    },
+    {
+      "id": "c4a9a2c8",
+      "bank_id": "00b6b600",
+      "text": "Harika bir gündü ama pestilim çıktı."
+    },
+    {
+      "id": "c7a9a781",
+      "bank_id": "00b6b600",
+      "text": "Hadi yatalım artık."
+    },
+    {
+      "id": "cbd161a0",
+      "bank_id": "00b6b600",
+      "text": "Hatta bu insanları bedavaya alabilirsiniz!"
+    },
+    {
+      "id": "ccd16313",
+      "bank_id": "00b6b600",
+      "text": "Reaver, çeneni kapatır mısın artık?"
+    },
+    {
+      "id": "cdd16486",
+      "bank_id": "00b6b600",
+      "text": "Şey, anlaşma hâlâ geçerli Lord Lucien. Yani, Kral Lucien!"
+    },
+    {
+      "id": "ce339407",
+      "bank_id": "00b6b600",
+      "text": "Hilekâr!"
+    },
+    {
+      "id": "ced16679",
+      "bank_id": "00b6b600",
+      "text": "Sahtekâr. Düşüşün sahiden çok sert olacak."
+    },
+    {
+      "id": "ceecca02",
+      "bank_id": "00b6b600",
+      "text": "Güneşli bir gün daha, Rose ile oyunlar oynamaktan ve tamamen mutlu olmaktan başka yapacak hiçbir şey yok."
+    },
+    {
+      "id": "cf3395fa",
+      "bank_id": "00b6b600",
+      "text": "Hey! Tüfeğini kullan!"
+    },
+    {
+      "id": "cfd167ec",
+      "bank_id": "00b6b600",
+      "text": "Ve yakında Yeni Krallık'ın altına gömülecekler. Ve siz yeni krala bakıyorsunuz."
+    },
+    {
+      "id": "d033976d",
+      "bank_id": "00b6b600",
+      "text": "Hey, kılıç yok."
+    },
+    {
+      "id": "d0d1695f",
+      "bank_id": "00b6b600",
+      "text": "Gözlerini aç Lucien. Eski Krallık'ın kalıntıları her yanımızı sarmış durumda."
+    },
+    {
+      "id": "d1d16b32",
+      "bank_id": "00b6b600",
+      "text": "Kahramanlar. Yeni bir dünya kuracak kadar güç var elinizde ve siz onu eskisini kurtarmaya çalışarak heba ediyorsunuz."
+    },
+    {
+      "id": "d1d16b37",
+      "bank_id": "00b6b600",
+      "text": "Sen... sen Lucien'sin!"
+    },
+    {
+      "id": "d5134ac2",
+      "bank_id": "00b6b600",
+      "text": "Beş tane daha kaldı!"
+    },
+    {
+      "id": "d87acb28",
+      "bank_id": "00b6b600",
+      "text": "Lucien tam olarak ne istiyor?"
+    },
+    {
+      "id": "d9d177a9",
+      "bank_id": "00b6b600",
+      "text": "Falcı dostun mu?"
+    },
+    {
+      "id": "d9d177aa",
+      "bank_id": "00b6b600",
+      "text": "O nerede?"
+    },
+    {
+      "id": "d9d177ac",
+      "bank_id": "00b6b600",
+      "text": "Ona ne yaptın?"
+    },
+    {
+      "id": "da7ace0e",
+      "bank_id": "00b6b600",
+      "text": "Bu tür bir güç amaca giden yoldur, amacın kendisi değil. Ne yapmak istiyor?"
+    },
+    {
+      "id": "da8ce6c0",
+      "bank_id": "00b6b600",
+      "text": "Şimdi saldırmalıyız, tam savunmasızken!"
+    },
+    {
+      "id": "dad1791d",
+      "bank_id": "00b6b600",
+      "text": "Ve öyle de yapacağım. Seni de tabii."
+    },
+    {
+      "id": "db7acfe1",
+      "bank_id": "00b6b600",
+      "text": "Tanrısal bir güç dışında mı? Zor bir soru..."
+    },
+    {
+      "id": "db8ce8b3",
+      "bank_id": "00b6b600",
+      "text": "Şimdi mi söylüyorsun!"
+    },
+    {
+      "id": "dc7ad154",
+      "bank_id": "00b6b600",
+      "text": "Muhtemelen hâlâ istiyordur. Ama..."
+    },
+    {
+      "id": "dc8cea26",
+      "bank_id": "00b6b600",
+      "text": "Görüyor musun? Benden daha parlak parıldamaya çalışıyor. Buna izin veremeyiz!"
+    },
+    {
+      "id": "dd017120",
+      "bank_id": "00b6b600",
+      "text": "Böcek cesurca çırpındı ama ölümcül bir yara alarak yere serildi."
+    },
+    {
+      "id": "dd7ad2c7",
+      "bank_id": "00b6b600",
+      "text": "Onu tanıdığımda ailesini diriltmek istiyordu."
+    },
+    {
+      "id": "dd8ceb99",
+      "bank_id": "00b6b600",
+      "text": "Bakın, Kıymık açıldı. Şimdi tam sırası!"
+    },
+    {
+      "id": "de017293",
+      "bank_id": "00b6b600",
+      "text": "Bizimle uğraşmamayı öğrenirler böylece!"
+    },
+    {
+      "id": "df7ad62d",
+      "bank_id": "00b6b600",
+      "text": "Bir dilenciye bir milyon altın ver, karnı doyana kadar yiyecek alır. Sonra da satılık tek şeyin ekmek olmadığını fark eder."
+    },
+    {
+      "id": "e08cf052",
+      "bank_id": "00b6b600",
+      "text": "Onu yok etmenin tek yolu bu!"
+    },
+    {
+      "id": "e0a79040",
+      "bank_id": "00b6b600",
+      "text": "Bu ona iyi bir ders olur!"
+    },
+    {
+      "id": "e18cf1c5",
+      "bank_id": "00b6b600",
+      "text": "Oraya vurun!"
+    },
+    {
+      "id": "e1a79233",
+      "bank_id": "00b6b600",
+      "text": "İşte bu!"
+    },
+    {
+      "id": "e1fba284",
+      "bank_id": "00b6b600",
+      "text": "O merkeze adım attığında bilgimin sınırlarının ötesine geçtik."
+    },
+    {
+      "id": "e1fba28f",
+      "bank_id": "00b6b600",
+      "text": "O merkeze adım attığında bilgimin sınırlarının ötesine geçtik."
+    },
+    {
+      "id": "e2a793a6",
+      "bank_id": "00b6b600",
+      "text": "Al bakalım seni Çirkin Böcek!"
+    },
+    {
+      "id": "e3a79519",
+      "bank_id": "00b6b600",
+      "text": "Sparrow yine sahnede!"
+    },
+    {
+      "id": "e4a7968c",
+      "bank_id": "00b6b600",
+      "text": "Daha sert vur! Iyyy, bana bakıyor!"
+    },
+    {
+      "id": "e4d30ccc",
+      "bank_id": "00b6b600",
+      "text": "Bu nahoş işi askerlerimden birine bırakırdım ama geçmiş tecrübelerim bana bu konularda insanın kesinlikle emin olması gerektiğini söylüyor."
+    },
+    {
+      "id": "e5017d98",
+      "bank_id": "00b6b600",
+      "text": "İşte nalları dikmiş bir böcek!"
+    },
+    {
+      "id": "e5a7987f",
+      "bank_id": "00b6b600",
+      "text": "Bu sürüngenleri pataklamanı sonsuza dek izleyebilirim!"
+    },
+    {
+      "id": "e68cf9e4",
+      "bank_id": "00b6b600",
+      "text": "Böyle parıldarken çok cazip bir hedef oluyor değil mi?"
+    },
+    {
+      "id": "e70180fe",
+      "bank_id": "00b6b600",
+      "text": "Öldür şunu! Ah, ölmüş zaten."
+    },
+    {
+      "id": "e78cfb57",
+      "bank_id": "00b6b600",
+      "text": "Garth başardı! Fırsat varken Kıymık'ı vurun!"
+    },
+    {
+      "id": "e7924000",
+      "bank_id": "00b6b600",
+      "text": "Lucien'in adamları burada ha?! Labirentte keyifli bir gezintiye veda ettik desene."
+    },
+    {
+      "id": "e7a79b45",
+      "bank_id": "00b6b600",
+      "text": "Bu pek hoşuna gitmedi değil mi?"
+    },
+    {
+      "id": "e7d31185",
+      "bank_id": "00b6b600",
+      "text": "Tıpkı şimdi aile evinizin duvarlarına sıçradığı gibi."
+    },
+    {
+      "id": "e8018251",
+      "bank_id": "00b6b600",
+      "text": "Bu işte gerçekten çok iyisin!"
+    },
+    {
+      "id": "e809cdbd",
+      "bank_id": "00b6b600",
+      "text": "Görevi olan kişiler bir ünlem işaretiyle gösterilir."
+    },
+    {
+      "id": "e90183c4",
+      "bank_id": "00b6b600",
+      "text": "Çıtırdayıverdi resmen!"
+    },
+    {
+      "id": "e9924366",
+      "bank_id": "00b6b600",
+      "text": "Burada kaç adamı var bunun? Taşların arasından fışkırıyorlar adeta."
+    },
+    {
+      "id": "ea0185b7",
+      "bank_id": "00b6b600",
+      "text": "Evet! O iğrenç bacaklarını bana doğru sallayamayacaksın artık!"
+    },
+    {
+      "id": "ea9244d9",
+      "bank_id": "00b6b600",
+      "text": "Bu tünelleri biliyor olmalıydı. Ben de oldukça zeki ve ketum davrandığımı sanıyordum. Ne can sıkıcı."
+    },
+    {
+      "id": "eb01872a",
+      "bank_id": "00b6b600",
+      "text": "Ve bir böcek daha ezildi gitti!"
+    },
+    {
+      "id": "ecc97152",
+      "bank_id": "00b6b600",
+      "text": "Ölüm bugün senin kaderin değil, küçük Sparrow."
+    },
+    {
+      "id": "eea7a64a",
+      "bank_id": "00b6b600",
+      "text": "Güzel iş!"
+    },
+    {
+      "id": "efa7a83d",
+      "bank_id": "00b6b600",
+      "text": "Bunu nasıl karşılayacak bakalım!"
+    },
+    {
+      "id": "f0ecb1e6",
+      "bank_id": "00b6b600",
+      "text": "Yani... silah o mu şimdi? Kafam karıştı."
+    },
+    {
+      "id": "f0ecb1ed",
+      "bank_id": "00b6b600",
+      "text": "Yani... silah o mu şimdi? Kafam karıştı."
+    },
+    {
+      "id": "f1d96daf",
+      "bank_id": "00b6b600",
+      "text": "Ez şu böceği, böcek ezici!"
+    },
+    {
+      "id": "fdbb80c4",
+      "bank_id": "00b6b600",
+      "text": "Kahraman Tepesi'ndeki çemberde durun."
+    },
+    {
+      "id": "fdbb80c5",
+      "bank_id": "00b6b600",
+      "text": "Ayini tamamlayın."
+    },
+    {
+      "id": "fdbb80c6",
+      "bank_id": "00b6b600",
+      "text": "Ayin için Kahraman Tepesi'ne gidin."
+    },
+    {
+      "id": "fea74d5c",
+      "bank_id": "00b6b600",
+      "text": "Silah"
+    }
+  ]
+}

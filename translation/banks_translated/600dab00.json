@@ -1,0 +1,1331 @@
+{
+  "bank_id": "600dab00",
+  "total_strings": 265,
+  "strings": [
+    {
+      "id": "00fab03b",
+      "bank_id": "600dab00",
+      "text": "Masumları ağır işçilikle dolu bir hayattan kurtarma."
+    },
+    {
+      "id": "0139ef9d",
+      "bank_id": "600dab00",
+      "text": "Oduncu olarak çalışma."
+    },
+    {
+      "id": "0139ef9e",
+      "bank_id": "600dab00",
+      "text": "Albion'un en kaliteli kılıçlarını dövme."
+    },
+    {
+      "id": "0139ef9f",
+      "bank_id": "600dab00",
+      "text": "Bira servisi yapma ve bahşiş toplama."
+    },
+    {
+      "id": "0265f8c3",
+      "bank_id": "600dab00",
+      "text": "Bacağa Sarıl"
+    },
+    {
+      "id": "02dcea39",
+      "bank_id": "600dab00",
+      "text": "Kuzeybatı Brightwood"
+    },
+    {
+      "id": "02ef949b",
+      "bank_id": "600dab00",
+      "text": "Dalga"
+    },
+    {
+      "id": "0463f06e",
+      "bank_id": "600dab00",
+      "text": "Kolay (Oran 2:1)"
+    },
+    {
+      "id": "074d3876",
+      "bank_id": "600dab00",
+      "text": "Şu bacaklara bak!"
+    },
+    {
+      "id": "09824192",
+      "bank_id": "600dab00",
+      "text": "Buna dokunduktan sonra ellerinizi yıkamalısınız."
+    },
+    {
+      "id": "0ab8da52",
+      "bank_id": "600dab00",
+      "text": "Kendimi kaybetmeden çekip gitsen iyi edersin!"
+    },
+    {
+      "id": "0b31c818",
+      "bank_id": "600dab00",
+      "text": "Burnunu Sakla"
+    },
+    {
+      "id": "127ea6a7",
+      "bank_id": "600dab00",
+      "text": "Açıklama"
+    },
+    {
+      "id": "15b47499",
+      "bank_id": "600dab00",
+      "text": "Eşya Satın Al"
+    },
+    {
+      "id": "17b13b78",
+      "bank_id": "600dab00",
+      "text": "Eşyalar"
+    },
+    {
+      "id": "1a368d2f",
+      "bank_id": "600dab00",
+      "text": "Hedefe İşeme"
+    },
+    {
+      "id": "1d8ca2d8",
+      "bank_id": "600dab00",
+      "text": "Evimden defolup git!"
+    },
+    {
+      "id": "1d8ca2d9",
+      "bank_id": "600dab00",
+      "text": "Evimde ne işin var! Yıkıl karşımdan!"
+    },
+    {
+      "id": "1d8ca2da",
+      "bank_id": "600dab00",
+      "text": "Evime girmekle ne yapmaya çalışıyorsun?! Derhâl çık git!"
+    },
+    {
+      "id": "1d8ca2db",
+      "bank_id": "600dab00",
+      "text": "Ne cüretle haneme tecavüz edersin?! Yıkıl karşımdan! Kışt!"
+    },
+    {
+      "id": "1d8ca2dd",
+      "bank_id": "600dab00",
+      "text": "Çık dışarı! Çık! Çık! Çık!"
+    },
+    {
+      "id": "1d8ca2de",
+      "bank_id": "600dab00",
+      "text": "Hey, sen! Çık git! Burası benim evim!"
+    },
+    {
+      "id": "1d8ca2df",
+      "bank_id": "600dab00",
+      "text": "Senin burada ne işin var?!! Çık dışarı!"
+    },
+    {
+      "id": "1f5e1fa9",
+      "bank_id": "600dab00",
+      "text": "Açıklama"
+    },
+    {
+      "id": "21412298",
+      "bank_id": "600dab00",
+      "text": "Getir"
+    },
+    {
+      "id": "2354eb38",
+      "bank_id": "600dab00",
+      "text": "7/20 Altın"
+    },
+    {
+      "id": "24364a75",
+      "bank_id": "600dab00",
+      "text": "Hal'ın Kılıcı"
+    },
+    {
+      "id": "26b95460",
+      "bank_id": "600dab00",
+      "text": "Talim"
+    },
+    {
+      "id": "26b95461",
+      "bank_id": "600dab00",
+      "text": "Haydutlar"
+    },
+    {
+      "id": "26b95462",
+      "bank_id": "600dab00",
+      "text": "İşaret Ateşini Yakma"
+    },
+    {
+      "id": "26b95463",
+      "bank_id": "600dab00",
+      "text": "Kale"
+    },
+    {
+      "id": "26b95464",
+      "bank_id": "600dab00",
+      "text": "Ayak İşleri"
+    },
+    {
+      "id": "26b95465",
+      "bank_id": "600dab00",
+      "text": "Dr. Lucien"
+    },
+    {
+      "id": "26b95467",
+      "bank_id": "600dab00",
+      "text": "Varoşlardan Ayrılış"
+    },
+    {
+      "id": "26b9546e",
+      "bank_id": "600dab00",
+      "text": "Keşişin Görevi"
+    },
+    {
+      "id": "26b9546f",
+      "bank_id": "600dab00",
+      "text": "Arena"
+    },
+    {
+      "id": "28664ec1",
+      "bank_id": "600dab00",
+      "text": "Genel Deneyim"
+    },
+    {
+      "id": "288cb408",
+      "bank_id": "600dab00",
+      "text": "Ben zorlamadan defol git buradan!"
+    },
+    {
+      "id": "288cb409",
+      "bank_id": "600dab00",
+      "text": "Evime gizlice girersin ha?! Defol git buradan hobbe seni!"
+    },
+    {
+      "id": "288cb40a",
+      "bank_id": "600dab00",
+      "text": "Derhâl çekip gitmezseniz muhafızları çağırırım!"
+    },
+    {
+      "id": "288cb40b",
+      "bank_id": "600dab00",
+      "text": "Haneme bu tecavüz kabul edilemez! Ya hemen gidin ya da muhafızları çağırmak zorunda kalacağım!"
+    },
+    {
+      "id": "288cb40c",
+      "bank_id": "600dab00",
+      "text": "Burada ne yaptığınızı sanıyorsunuz?! Burası benim evim!"
+    },
+    {
+      "id": "288cb40e",
+      "bank_id": "600dab00",
+      "text": "Evimden çıkın! Hemen."
+    },
+    {
+      "id": "288cb40f",
+      "bank_id": "600dab00",
+      "text": "Hırsız var! Ben muhafızları çağırmadan defol git!"
+    },
+    {
+      "id": "28c367af",
+      "bank_id": "600dab00",
+      "text": "Kazanılan Para"
+    },
+    {
+      "id": "28f06d4f",
+      "bank_id": "600dab00",
+      "text": "Bahis"
+    },
+    {
+      "id": "295b6632",
+      "bank_id": "600dab00",
+      "text": "Bu oyuncak silah yetişkinleri sinir etmek, kabadayıları kovalamak ve ejderha istilasına uğramış hayali diyarları fethetmek için idealdir. Kıymıklara dikkat edin."
+    },
+    {
+      "id": "29b0b98a",
+      "bank_id": "600dab00",
+      "text": "24 saat dinlen"
+    },
+    {
+      "id": "2b177e4e",
+      "bank_id": "600dab00",
+      "text": "Bu görevi yerine getirdiğinizde özel bir ödül almayacaksınız."
+    },
+    {
+      "id": "2ee391a7",
+      "bank_id": "600dab00",
+      "text": "Suikastçı olarak çalışma."
+    },
+    {
+      "id": "3089cb6a",
+      "bank_id": "600dab00",
+      "text": "Otur"
+    },
+    {
+      "id": "35318f15",
+      "bank_id": "600dab00",
+      "text": "Gölgeler Tapınağı'nda kurban verme."
+    },
+    {
+      "id": "36319086",
+      "bank_id": "600dab00",
+      "text": "Işık Tapınağı'na bağış yapma."
+    },
+    {
+      "id": "372f539f",
+      "bank_id": "600dab00",
+      "text": "Mermerde ölümsüzleşme."
+    },
+    {
+      "id": "37338e38",
+      "bank_id": "600dab00",
+      "text": "Muhafızları üstüne salarım bak! Çık dışarı!"
+    },
+    {
+      "id": "37338e39",
+      "bank_id": "600dab00",
+      "text": "Evime girmeye ne hakla cüret ediyorsun! Muhafızları çağıracağım!"
+    },
+    {
+      "id": "37338e3a",
+      "bank_id": "600dab00",
+      "text": "HEMEN çekip gitsen iyi edersin!"
+    },
+    {
+      "id": "37338e3b",
+      "bank_id": "600dab00",
+      "text": "Hey, evimden defol git seni hobbe kılıklı!"
+    },
+    {
+      "id": "37338e3c",
+      "bank_id": "600dab00",
+      "text": "Çık! Çık! Çık!"
+    },
+    {
+      "id": "37338e3d",
+      "bank_id": "600dab00",
+      "text": "Muhafızları çağırmak üzereyim!!"
+    },
+    {
+      "id": "37338e3e",
+      "bank_id": "600dab00",
+      "text": "Çık dışarı! DERHAL!"
+    },
+    {
+      "id": "38138124",
+      "bank_id": "600dab00",
+      "text": "Görevi kimseyi öldürmeden tamamlayın."
+    },
+    {
+      "id": "383193e9",
+      "bank_id": "600dab00",
+      "text": "Çevresel bir sorunu araştırma."
+    },
+    {
+      "id": "3833d240",
+      "bank_id": "600dab00",
+      "text": "Normanomicon'un uyandırdığı kötülükle yüzleşme."
+    },
+    {
+      "id": "3931955c",
+      "bank_id": "600dab00",
+      "text": "Çok kişisel bir kurtarma görevinde."
+    },
+    {
+      "id": "3933d433",
+      "bank_id": "600dab00",
+      "text": "Bir hayalet korsanın hazinesi için savaşma."
+    },
+    {
+      "id": "39409fc6",
+      "bank_id": "600dab00",
+      "text": "Bütün bir kasabayı haritadan silme."
+    },
+    {
+      "id": "3a40a1b9",
+      "bank_id": "600dab00",
+      "text": "Pınar Mağarası'nı kötü niyetli keşişlerden koruma."
+    },
+    {
+      "id": "3a84bc51",
+      "bank_id": "600dab00",
+      "text": "Bölüm 4"
+    },
+    {
+      "id": "3a84bc54",
+      "bank_id": "600dab00",
+      "text": "Bölüm 1"
+    },
+    {
+      "id": "3a84bc56",
+      "bank_id": "600dab00",
+      "text": "Bölüm 3"
+    },
+    {
+      "id": "3a84bc57",
+      "bank_id": "600dab00",
+      "text": "Bölüm 2"
+    },
+    {
+      "id": "3a9e8c60",
+      "bank_id": "600dab00",
+      "text": "İrade"
+    },
+    {
+      "id": "3b3198a2",
+      "bank_id": "600dab00",
+      "text": "Bir suikast komplosunun hedefi olma."
+    },
+    {
+      "id": "3b33d719",
+      "bank_id": "600dab00",
+      "text": "Sadakatsizlik yüzünden şantaja uğrama."
+    },
+    {
+      "id": "3c319a15",
+      "bank_id": "600dab00",
+      "text": "İntikamcı bir hayaletin huzur bulmasına yardım etme."
+    },
+    {
+      "id": "3c40a49f",
+      "bank_id": "600dab00",
+      "text": "Yıllar sonra eve dönme."
+    },
+    {
+      "id": "3d33da7a",
+      "bank_id": "600dab00",
+      "text": "Kahramanlığın destansı baladlarını dinleme."
+    },
+    {
+      "id": "3d33da7f",
+      "bank_id": "600dab00",
+      "text": "Bowerstone'da müzikli bir tura çıkma."
+    },
+    {
+      "id": "3e33dbd2",
+      "bank_id": "600dab00",
+      "text": "Çiftliği haydutlardan koruma."
+    },
+    {
+      "id": "3f33dd45",
+      "bank_id": "600dab00",
+      "text": "Ripper'ın haydut çetesine katılma."
+    },
+    {
+      "id": "3f7a7060",
+      "bank_id": "600dab00",
+      "text": "Uzun ve ince parmaklara sahip narin bir çift kol."
+    },
+    {
+      "id": "3f863818",
+      "bank_id": "600dab00",
+      "text": "Birincil Görev"
+    },
+    {
+      "id": "40339c08",
+      "bank_id": "600dab00",
+      "text": "Hemen çekil git yoksa muhafızları çağırırım!"
+    },
+    {
+      "id": "40339c09",
+      "bank_id": "600dab00",
+      "text": "Ben muhafızları çağırmadan çık git!"
+    },
+    {
+      "id": "40339c0b",
+      "bank_id": "600dab00",
+      "text": "Hemen evimden çıkmanı istiyorum!"
+    },
+    {
+      "id": "40339c0c",
+      "bank_id": "600dab00",
+      "text": "Ne cüretle haneme tecavüz edersiniz! Derhâl çıkın!"
+    },
+    {
+      "id": "40339c0d",
+      "bank_id": "600dab00",
+      "text": "Ya çekip gidin ya da sonuçlarına katlanın!"
+    },
+    {
+      "id": "40339c0e",
+      "bank_id": "600dab00",
+      "text": "Ne cüretle evime dalarsın sen! Dışarı!"
+    },
+    {
+      "id": "40339c0f",
+      "bank_id": "600dab00",
+      "text": "Dışarı! Dışarı! Çabuk!"
+    },
+    {
+      "id": "40b95a4e",
+      "bank_id": "600dab00",
+      "text": "7 gün dinlen"
+    },
+    {
+      "id": "4263f2a0",
+      "bank_id": "600dab00",
+      "text": "Keyfine bakma."
+    },
+    {
+      "id": "43362268",
+      "bank_id": "600dab00",
+      "text": "Albion'un en hızlı haydutuyla uğraşma."
+    },
+    {
+      "id": "4336226d",
+      "bank_id": "600dab00",
+      "text": "Kötülük referanslarını sunma."
+    },
+    {
+      "id": "458ac1f0",
+      "bank_id": "600dab00",
+      "text": "Çiftçi - Toprağı işleyerek tarım sektöründe çalışan kişi. Bowerstone dışındaki halkın büyük kısmı için hâkim meslektir; ekin ekmeyi veya meyve bahçelerine, üzüm bağlarına ve bostanlara bakmayı içerir. Ayrıca sığır ve kümes hayvanları yetiştiriciliği de yapılabilir."
+    },
+    {
+      "id": "45a8e5da",
+      "bank_id": "600dab00",
+      "text": "Boşanmayı göze alma."
+    },
+    {
+      "id": "4633e84a",
+      "bank_id": "600dab00",
+      "text": "Çile rekorunu kırmaya çalışma."
+    },
+    {
+      "id": "46362721",
+      "bank_id": "600dab00",
+      "text": "Charlie'yi tehlikeli bir zindandan kurtarma."
+    },
+    {
+      "id": "4733ea3d",
+      "bank_id": "600dab00",
+      "text": "Bir mağarayı hobbe'lerden temizleme."
+    },
+    {
+      "id": "4861e5f4",
+      "bank_id": "600dab00",
+      "text": "¢"
+    },
+    {
+      "id": "49aa400d",
+      "bank_id": "600dab00",
+      "text": "Cezalandır"
+    },
+    {
+      "id": "4a362d6d",
+      "bank_id": "600dab00",
+      "text": "Gargoyle'lerden saklı zenginlikleri toplama."
+    },
+    {
+      "id": "4d111cd2",
+      "bank_id": "600dab00",
+      "text": "Mevcut Görevler"
+    },
+    {
+      "id": "4fd8cd6b",
+      "bank_id": "600dab00",
+      "text": "Halat Çekme"
+    },
+    {
+      "id": "52d43414",
+      "bank_id": "600dab00",
+      "text": "Seni tutuklamadan önce çekip gitsen iyi edersin."
+    },
+    {
+      "id": "52d43417",
+      "bank_id": "600dab00",
+      "text": "Derhâl çekip git yoksa seni tutuklarım."
+    },
+    {
+      "id": "53654b6e",
+      "bank_id": "600dab00",
+      "text": "Sevgi dolu bir eşten hediye alma."
+    },
+    {
+      "id": "5465dc6a",
+      "bank_id": "600dab00",
+      "text": "Konuş"
+    },
+    {
+      "id": "58246496",
+      "bank_id": "600dab00",
+      "text": "Kanun için çalışarak ekstra altın kazanma."
+    },
+    {
+      "id": "5858d2c2",
+      "bank_id": "600dab00",
+      "text": "Wraithmarsh Malikanesi Tablosu"
+    },
+    {
+      "id": "58c2c199",
+      "bank_id": "600dab00",
+      "text": "500 yaşında olduğu düşünülürse hiç fena görünmüyor."
+    },
+    {
+      "id": "58e0c217",
+      "bank_id": "600dab00",
+      "text": "Yüzünü Yala"
+    },
+    {
+      "id": "58f857ca",
+      "bank_id": "600dab00",
+      "text": "Çiftçi Giles"
+    },
+    {
+      "id": "5cbfde15",
+      "bank_id": "600dab00",
+      "text": "Kampa Kabul Töreni"
+    },
+    {
+      "id": "62da8697",
+      "bank_id": "600dab00",
+      "text": "Adres"
+    },
+    {
+      "id": "65a9f35d",
+      "bank_id": "600dab00",
+      "text": "Ödüller"
+    },
+    {
+      "id": "65ea166e",
+      "bank_id": "600dab00",
+      "text": "Aileyi ziyaret etme."
+    },
+    {
+      "id": "676286b7",
+      "bank_id": "600dab00",
+      "text": "Hırla"
+    },
+    {
+      "id": "67a02aa1",
+      "bank_id": "600dab00",
+      "text": "İşi kesin olarak bitirme."
+    },
+    {
+      "id": "68a02c14",
+      "bank_id": "600dab00",
+      "text": "Nihai sınavla yüzleşme."
+    },
+    {
+      "id": "69a02d87",
+      "bank_id": "600dab00",
+      "text": "Son ayini tamamlama."
+    },
+    {
+      "id": "6b8a24d0",
+      "bank_id": "600dab00",
+      "text": "Aileyle vakit geçirme."
+    },
+    {
+      "id": "6ba030ed",
+      "bank_id": "600dab00",
+      "text": "Lucien'in güçleriyle savaşma."
+    },
+    {
+      "id": "6cf5b0a7",
+      "bank_id": "600dab00",
+      "text": "Sonraki Hedefler"
+    },
+    {
+      "id": "6f94fef1",
+      "bank_id": "600dab00",
+      "text": "Bul"
+    },
+    {
+      "id": "7068e4f0",
+      "bank_id": "600dab00",
+      "text": "Grup 5"
+    },
+    {
+      "id": "7068e4f1",
+      "bank_id": "600dab00",
+      "text": "Grup 4"
+    },
+    {
+      "id": "7068e4f4",
+      "bank_id": "600dab00",
+      "text": "Grup 1"
+    },
+    {
+      "id": "7068e4f6",
+      "bank_id": "600dab00",
+      "text": "Grup 3"
+    },
+    {
+      "id": "7068e4f7",
+      "bank_id": "600dab00",
+      "text": "Grup 2"
+    },
+    {
+      "id": "7260ccf3",
+      "bank_id": "600dab00",
+      "text": "03:42"
+    },
+    {
+      "id": "773d7d18",
+      "bank_id": "600dab00",
+      "text": "Tavşan Sıçrayışı"
+    },
+    {
+      "id": "7b4cc8ba",
+      "bank_id": "600dab00",
+      "text": "Meslek"
+    },
+    {
+      "id": "7c22365b",
+      "bank_id": "600dab00",
+      "text": "Burada uyumak istiyor musunuz?"
+    },
+    {
+      "id": "7e3685f3",
+      "bank_id": "600dab00",
+      "text": "Güç"
+    },
+    {
+      "id": "813f1b20",
+      "bank_id": "600dab00",
+      "text": "Gençlik İksiri"
+    },
+    {
+      "id": "84200473",
+      "bank_id": "600dab00",
+      "text": "Görevi 3 dakikadan kısa sürede tamamlayın."
+    },
+    {
+      "id": "84939ae4",
+      "bank_id": "600dab00",
+      "text": "Çelik Döner Namlulu Tüfek"
+    },
+    {
+      "id": "84c2b13e",
+      "bank_id": "600dab00",
+      "text": "12 saat dinlen"
+    },
+    {
+      "id": "861ebd98",
+      "bank_id": "600dab00",
+      "text": "Havlama"
+    },
+    {
+      "id": "879e6e47",
+      "bank_id": "600dab00",
+      "text": "Arkeolog için kadim eserler bulma."
+    },
+    {
+      "id": "88e50805",
+      "bank_id": "600dab00",
+      "text": "Eşya Sat"
+    },
+    {
+      "id": "8ac951fc",
+      "bank_id": "600dab00",
+      "text": "Görevi yalnızca Tahta Sopa kullanarak tamamlayın."
+    },
+    {
+      "id": "8c0a2aa4",
+      "bank_id": "600dab00",
+      "text": "Serbest Dolaşım"
+    },
+    {
+      "id": "8d9d2dfb",
+      "bank_id": "600dab00",
+      "text": "Ün"
+    },
+    {
+      "id": "90c32a41",
+      "bank_id": "600dab00",
+      "text": "Albion'un en önde gelen tüccarıyla anlaşma."
+    },
+    {
+      "id": "98deee91",
+      "bank_id": "600dab00",
+      "text": "Zor (Oran 7:1)"
+    },
+    {
+      "id": "9908c0d1",
+      "bank_id": "600dab00",
+      "text": "Büyük bir indirimde harika tasarrufların tadını çıkarma."
+    },
+    {
+      "id": "99371902",
+      "bank_id": "600dab00",
+      "text": "Piyanistin Kolları"
+    },
+    {
+      "id": "9c25c1ab",
+      "bank_id": "600dab00",
+      "text": "Ölü Taklidi Yap"
+    },
+    {
+      "id": "9dd51b8b",
+      "bank_id": "600dab00",
+      "text": "Fiyat:"
+    },
+    {
+      "id": "9f03d777",
+      "bank_id": "600dab00",
+      "text": "Eşya Satın Al"
+    },
+    {
+      "id": "a1a8ed98",
+      "bank_id": "600dab00",
+      "text": "~ Üçüncü Bölüm ~"
+    },
+    {
+      "id": "a1a8ed99",
+      "bank_id": "600dab00",
+      "text": "~ İkinci Bölüm ~"
+    },
+    {
+      "id": "a1a8ed9a",
+      "bank_id": "600dab00",
+      "text": "~ Birinci Bölüm ~"
+    },
+    {
+      "id": "a1a8ed9f",
+      "bank_id": "600dab00",
+      "text": "~ Dördüncü Bölüm ~"
+    },
+    {
+      "id": "a20c21c7",
+      "bank_id": "600dab00",
+      "text": "miras"
+    },
+    {
+      "id": "a27bfc20",
+      "bank_id": "600dab00",
+      "text": "Altın No: 3"
+    },
+    {
+      "id": "a2e1657b",
+      "bank_id": "600dab00",
+      "text": "Genel Deneyim"
+    },
+    {
+      "id": "ab74581f",
+      "bank_id": "600dab00",
+      "text": "%1 oyunu durdurdu."
+    },
+    {
+      "id": "abb2e119",
+      "bank_id": "600dab00",
+      "text": "Güç"
+    },
+    {
+      "id": "ad1f435d",
+      "bank_id": "600dab00",
+      "text": "Sonraki Hedefler"
+    },
+    {
+      "id": "ad1f9e10",
+      "bank_id": "600dab00",
+      "text": "Görevi çırılçıplak tamamlayın!"
+    },
+    {
+      "id": "ae431966",
+      "bank_id": "600dab00",
+      "text": "Geleceği görme."
+    },
+    {
+      "id": "af1d2a6d",
+      "bank_id": "600dab00",
+      "text": "Ün"
+    },
+    {
+      "id": "b2262f8e",
+      "bank_id": "600dab00",
+      "text": "Unvan Satın Al"
+    },
+    {
+      "id": "b34a5a50",
+      "bank_id": "600dab00",
+      "text": "Reaver'ın karanlık geçmişini ortaya çıkarma."
+    },
+    {
+      "id": "b34a5a55",
+      "bank_id": "600dab00",
+      "text": "Perili bir mağarayı keşfetme."
+    },
+    {
+      "id": "b38c00fd",
+      "bank_id": "600dab00",
+      "text": "Ne kadar dinleneceğinizi seçin:"
+    },
+    {
+      "id": "b44a5bc3",
+      "bank_id": "600dab00",
+      "text": "Yeni bir yuvayı savunma: kale."
+    },
+    {
+      "id": "b44a5bc6",
+      "bank_id": "600dab00",
+      "text": "Çok özel bir kitap için bir kitapçı satın alma."
+    },
+    {
+      "id": "b48b84dd",
+      "bank_id": "600dab00",
+      "text": "Ters Takla"
+    },
+    {
+      "id": "b54ccf00",
+      "bank_id": "600dab00",
+      "text": "Lady Grey'in Üst Gövdesi"
+    },
+    {
+      "id": "b64a5f29",
+      "bank_id": "600dab00",
+      "text": "Gizemli bir labirentte Chesty'nin peşine düşme."
+    },
+    {
+      "id": "b6c0e120",
+      "bank_id": "600dab00",
+      "text": "Yanımda Kal"
+    },
+    {
+      "id": "b8432924",
+      "bank_id": "600dab00",
+      "text": "Bir kar küresi köyünün üzerindeki laneti kaldırma."
+    },
+    {
+      "id": "b84a620f",
+      "bank_id": "600dab00",
+      "text": "Bütün Albion'un hükümdarı olma."
+    },
+    {
+      "id": "b93d97ef",
+      "bank_id": "600dab00",
+      "text": "Bir deney için ceset parçaları toplama."
+    },
+    {
+      "id": "b9432a97",
+      "bank_id": "600dab00",
+      "text": "Bir şövalyeyi ebedi zindanından kurtarma."
+    },
+    {
+      "id": "ba3d9942",
+      "bank_id": "600dab00",
+      "text": "Büyük ödüller için hedef atışı yapma."
+    },
+    {
+      "id": "bbc37d2a",
+      "bank_id": "600dab00",
+      "text": "Bu görevi yerine getirdiğinizde özel bir ödül almayacaksınız."
+    },
+    {
+      "id": "bc456dc7",
+      "bank_id": "600dab00",
+      "text": "Kolezyum'da savaşma."
+    },
+    {
+      "id": "bc4a68bb",
+      "bank_id": "600dab00",
+      "text": "Bir çiftliğin gizli hazinesini arama."
+    },
+    {
+      "id": "be3d9f8e",
+      "bank_id": "600dab00",
+      "text": "Seçilmiş Kişi olma."
+    },
+    {
+      "id": "bed4fa47",
+      "bank_id": "600dab00",
+      "text": "Hedefler"
+    },
+    {
+      "id": "bef22c7b",
+      "bank_id": "600dab00",
+      "text": "Lady Grey'in Kafası"
+    },
+    {
+      "id": "bf3da161",
+      "bank_id": "600dab00",
+      "text": "Gölge İblisi olma."
+    },
+    {
+      "id": "c00dc26b",
+      "bank_id": "600dab00",
+      "text": "Ödüller"
+    },
+    {
+      "id": "c047b893",
+      "bank_id": "600dab00",
+      "text": "Eşya Sat"
+    },
+    {
+      "id": "c739308b",
+      "bank_id": "600dab00",
+      "text": "Çok nadir eşyalar için takas yapma."
+    },
+    {
+      "id": "c830ef6c",
+      "bank_id": "600dab00",
+      "text": "İrade"
+    },
+    {
+      "id": "ca282a95",
+      "bank_id": "600dab00",
+      "text": "Aktif Görev"
+    },
+    {
+      "id": "ca393544",
+      "bank_id": "600dab00",
+      "text": "Güneşi bir adaya geri getirme."
+    },
+    {
+      "id": "ca3b743b",
+      "bank_id": "600dab00",
+      "text": "Ömür boyu sürecek yatırımı yapma."
+    },
+    {
+      "id": "caab535c",
+      "bank_id": "600dab00",
+      "text": "Lady Grey'in Alt Gövdesi"
+    },
+    {
+      "id": "cb393737",
+      "bank_id": "600dab00",
+      "text": "Knothole Adası'nın kuraklığını sona erdirme."
+    },
+    {
+      "id": "cc175292",
+      "bank_id": "600dab00",
+      "text": "Köpek Tasmaları"
+    },
+    {
+      "id": "cc3938aa",
+      "bank_id": "600dab00",
+      "text": "Tüm havaların efendisi olma."
+    },
+    {
+      "id": "cd3b78f4",
+      "bank_id": "600dab00",
+      "text": "T.O.B.Y. için Bloodstone'u temizleme."
+    },
+    {
+      "id": "ce3b7a67",
+      "bank_id": "600dab00",
+      "text": "Bir kasabayı banshee saldırısına karşı savunma."
+    },
+    {
+      "id": "ce9c6160",
+      "bank_id": "600dab00",
+      "text": "Kısa Kılıç"
+    },
+    {
+      "id": "cfa30cd0",
+      "bank_id": "600dab00",
+      "text": "Korkunç Çile'de yarışma."
+    },
+    {
+      "id": "d03b7d4d",
+      "bank_id": "600dab00",
+      "text": "Bir babanın oğlunu anlamasına yardım etme."
+    },
+    {
+      "id": "d04c2f0b",
+      "bank_id": "600dab00",
+      "text": "Eşyalar"
+    },
+    {
+      "id": "d0a30e43",
+      "bank_id": "600dab00",
+      "text": "Kule'de zor seçimler yapma."
+    },
+    {
+      "id": "d0a9b7cd",
+      "bank_id": "600dab00",
+      "text": "Albion'a girmek üzere."
+    },
+    {
+      "id": "d1538e53",
+      "bank_id": "600dab00",
+      "text": "Kuyruğunu Kovala"
+    },
+    {
+      "id": "d1a31036",
+      "bank_id": "600dab00",
+      "text": "Rüşvet için altın toplama."
+    },
+    {
+      "id": "d2002f93",
+      "bank_id": "600dab00",
+      "text": "Şöyle yazıyor: \"İşbu belgeyle her zamankinden daha çok çalışacağıma ve sizin için elimden geldiğince çok para kazanmak adına var gücümü ortaya koyacağıma söz veririm.\""
+    },
+    {
+      "id": "d2a311a9",
+      "bank_id": "600dab00",
+      "text": "Haydutlar ve balverine'lerle savaşma."
+    },
+    {
+      "id": "d2a55000",
+      "bank_id": "600dab00",
+      "text": "Kayıp suçlu arama emirlerini bulma."
+    },
+    {
+      "id": "d2a55005",
+      "bank_id": "600dab00",
+      "text": "Pete'in içki sorununa yardım etme."
+    },
+    {
+      "id": "d3a3131c",
+      "bank_id": "600dab00",
+      "text": "Kayıp ve kadim bir yolu açığa çıkarma."
+    },
+    {
+      "id": "d3a551f3",
+      "bank_id": "600dab00",
+      "text": "Yalnız bir köpeğin imdadına yetişme."
+    },
+    {
+      "id": "d3a551f6",
+      "bank_id": "600dab00",
+      "text": "Bir aşk mektubu teslim etme."
+    },
+    {
+      "id": "d3b9efeb",
+      "bank_id": "600dab00",
+      "text": "Mütevazı kökenler, kederli, gerçekçi, yalnız, dürüst ve dosdoğru konuşan."
+    },
+    {
+      "id": "d40b8d45",
+      "bank_id": "600dab00",
+      "text": "Bekle"
+    },
+    {
+      "id": "d4a3148f",
+      "bank_id": "600dab00",
+      "text": "Wraithmarsh'ta yapayalnız ve kayıp."
+    },
+    {
+      "id": "d4a55363",
+      "bank_id": "600dab00",
+      "text": "Bir Kahraman bulmak için Oakfield'e seyahat etme."
+    },
+    {
+      "id": "d4a55366",
+      "bank_id": "600dab00",
+      "text": "Bower Gölü'nü Thag ve haydutlarından temizleme."
+    },
+    {
+      "id": "d52460a0",
+      "bank_id": "600dab00",
+      "text": "Tahta Kılıç"
+    },
+    {
+      "id": "d57620b2",
+      "bank_id": "600dab00",
+      "text": "İçeni gençleştirir, esenlik ve canlılıkla doldurur. İçenin ömrüne resmen yıllar katar ama bir yetişkini çocuğa dönüştüremez. Aşırı kullanımı hafıza kaybına ve endişe hissine yol açabilir."
+    },
+    {
+      "id": "d5a31662",
+      "bank_id": "600dab00",
+      "text": "Lucien'in pençesinden sıyrılma."
+    },
+    {
+      "id": "d5a554d9",
+      "bank_id": "600dab00",
+      "text": "Kahramanların mirasını keşfetme."
+    },
+    {
+      "id": "d697e61b",
+      "bank_id": "600dab00",
+      "text": "Birinci Hedef"
+    },
+    {
+      "id": "d6a5564c",
+      "bank_id": "600dab00",
+      "text": "Bowerstone varoşlarında bir yetim olarak yaşama."
+    },
+    {
+      "id": "d8a4c8c6",
+      "bank_id": "600dab00",
+      "text": "Silahlar"
+    },
+    {
+      "id": "d8a55992",
+      "bank_id": "600dab00",
+      "text": "Bir depoda dev böceklerle savaşma."
+    },
+    {
+      "id": "d8a5f42c",
+      "bank_id": "600dab00",
+      "text": "Altın No: 3"
+    },
+    {
+      "id": "d9a31cae",
+      "bank_id": "600dab00",
+      "text": "Cazip bir düzenbazı etkilemeye çalışma."
+    },
+    {
+      "id": "d9a55b05",
+      "bank_id": "600dab00",
+      "text": "Büyülü bir resim aygıtına poz verme."
+    },
+    {
+      "id": "d9dca09b",
+      "bank_id": "600dab00",
+      "text": "İşlem"
+    },
+    {
+      "id": "dae76ced",
+      "bank_id": "600dab00",
+      "text": "Beceri"
+    },
+    {
+      "id": "dd96f092",
+      "bank_id": "600dab00",
+      "text": "%1 bekleniyor."
+    },
+    {
+      "id": "de952d39",
+      "bank_id": "600dab00",
+      "text": "Serbest Kal"
+    },
+    {
+      "id": "dea56324",
+      "bank_id": "600dab00",
+      "text": "İrade Kahramanı'nı arama."
+    },
+    {
+      "id": "df30ed2e",
+      "bank_id": "600dab00",
+      "text": "Öv"
+    },
+    {
+      "id": "dfa56492",
+      "bank_id": "600dab00",
+      "text": "Işık Tapınağı'na yapılan saldırıyla yüzleşme."
+    },
+    {
+      "id": "dfa56497",
+      "bank_id": "600dab00",
+      "text": "Altın Meşe ayinine yardım etme."
+    },
+    {
+      "id": "e000f097",
+      "bank_id": "600dab00",
+      "text": "(LCE içeriği)\nÇok uzun zaman önce, Albion henüz Eski Krallık yönetimi altındayken, uzaydaki bir yarık boyutlar arasında bir geçit açtı. Yarıktan içeri, yeşil zırhlar kuşanmış ve göz alıcı bir kristal kılıç taşıyan muazzam güçte bir savaşçı adım attı. Gerçek adını asla açıklamamış olsa da herkes onu Hal adıyla bilirdi. Cama benzeyen tuhaf bir maddeden yapılmış bu kılıç, bir zamanlar Hal tarafından kullanıldığında güçlü bir enerji yayardı."
+    },
+    {
+      "id": "e0e5f83a",
+      "bank_id": "600dab00",
+      "text": "Saldır"
+    },
+    {
+      "id": "e1c4c185",
+      "bank_id": "600dab00",
+      "text": "Aktif Görevler"
+    },
+    {
+      "id": "e2ca9d0d",
+      "bank_id": "600dab00",
+      "text": "Çalışanınızdan Bir Mektup"
+    },
+    {
+      "id": "e3b5a0c0",
+      "bank_id": "600dab00",
+      "text": "Test"
+    },
+    {
+      "id": "e467a5fb",
+      "bank_id": "600dab00",
+      "text": "Giysi"
+    },
+    {
+      "id": "e4b94e37",
+      "bank_id": "600dab00",
+      "text": "Beceri"
+    },
+    {
+      "id": "e56c67a8",
+      "bank_id": "600dab00",
+      "text": "Sivil Sürgün alanında kariyer yapma."
+    },
+    {
+      "id": "e5eb4860",
+      "bank_id": "600dab00",
+      "text": "Kalan Vardiya"
+    },
+    {
+      "id": "e6ed8651",
+      "bank_id": "600dab00",
+      "text": "Fiyat:"
+    },
+    {
+      "id": "e97a031c",
+      "bank_id": "600dab00",
+      "text": "Puan:"
+    },
+    {
+      "id": "eb9fba97",
+      "bank_id": "600dab00",
+      "text": "Nadir eşyaları satarak kâr etme."
+    },
+    {
+      "id": "ed906944",
+      "bank_id": "600dab00",
+      "text": "Eşyalar"
+    },
+    {
+      "id": "f3105368",
+      "bank_id": "600dab00",
+      "text": "¢"
+    },
+    {
+      "id": "f3e22fc0",
+      "bank_id": "600dab00",
+      "text": "Orta (Oran 4:1)"
+    },
+    {
+      "id": "f7ae0c3e",
+      "bank_id": "600dab00",
+      "text": "Yalvarma"
+    },
+    {
+      "id": "fa8d7921",
+      "bank_id": "600dab00",
+      "text": "Birinci Hedef"
+    },
+    {
+      "id": "fac8f41f",
+      "bank_id": "600dab00",
+      "text": "6 saat dinlen"
+    },
+    {
+      "id": "fb1c1144",
+      "bank_id": "600dab00",
+      "text": "Altın No: 20"
+    },
+    {
+      "id": "fb1c1146",
+      "bank_id": "600dab00",
+      "text": "0 (Bahis Yok)"
+    },
+    {
+      "id": "fb1c1147",
+      "bank_id": "600dab00",
+      "text": "Altın No: 8"
+    },
+    {
+      "id": "fbe13a05",
+      "bank_id": "600dab00",
+      "text": "Havlayabilir"
+    },
+    {
+      "id": "fc235320",
+      "bank_id": "600dab00",
+      "text": "Resim, Wraithmarsh'ın kaybolan evini tepesinde güvende gösteriyor."
+    },
+    {
+      "id": "fd1e027a",
+      "bank_id": "600dab00",
+      "text": "Yuvarlan"
+    },
+    {
+      "id": "fe5b4fc3",
+      "bank_id": "600dab00",
+      "text": "İmkânsız (Oran 12:1)"
+    },
+    {
+      "id": "fe916c47",
+      "bank_id": "600dab00",
+      "text": "Boşanmanın eşiğinde olma."
+    }
+  ]
+}

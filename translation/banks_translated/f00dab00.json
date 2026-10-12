@@ -1,0 +1,941 @@
+{
+  "bank_id": "f00dab00",
+  "total_strings": 187,
+  "strings": [
+    {
+      "id": "003c9f94",
+      "bank_id": "f00dab00",
+      "text": "Al bu sihirli okları! Kötüyü yenmene sadece onlar yardım edebilir!"
+    },
+    {
+      "id": "01a4c6cf",
+      "bank_id": "f00dab00",
+      "text": "Elementleri kontrol ediyorum!"
+    },
+    {
+      "id": "0256a8b7",
+      "bank_id": "f00dab00",
+      "text": "Ben kötü bir keşişim ve Işık Tapınağı'nı yerle bir edeceğim!"
+    },
+    {
+      "id": "053ca7b5",
+      "bank_id": "f00dab00",
+      "text": "Bakın küçük flütümle nasıl inanılmaz büyüler yapıyorum!"
+    },
+    {
+      "id": "069f6fa2",
+      "bank_id": "f00dab00",
+      "text": "Ben Prenses Isolda'yım ve kurtarılmaya ihtiyacım yok. Kendi başımın çaresine bakabilirim!"
+    },
+    {
+      "id": "07d876bb",
+      "bank_id": "f00dab00",
+      "text": "Hiç aç kalmamamı sağladığın için teşekkürler."
+    },
+    {
+      "id": "0956b3ba",
+      "bank_id": "f00dab00",
+      "text": "Hadi Işık Tapınağı'nı haritadan silelim!"
+    },
+    {
+      "id": "0f9f7d8f",
+      "bank_id": "f00dab00",
+      "text": "Ben Kink, Prenses Isolda'yı kurtaracağım!"
+    },
+    {
+      "id": "120d13a2",
+      "bank_id": "f00dab00",
+      "text": "O kadar hızlı değil, anne!"
+    },
+    {
+      "id": "120d13a9",
+      "bank_id": "f00dab00",
+      "text": "O kadar hızlı değil, baba!"
+    },
+    {
+      "id": "171db06b",
+      "bank_id": "f00dab00",
+      "text": "Ben Whisper olmak istiyorum! Kim Thunder olmak ister?"
+    },
+    {
+      "id": "1a2db818",
+      "bank_id": "f00dab00",
+      "text": "Grup üyelerimin hepsinin saçları dik dik!"
+    },
+    {
+      "id": "1d119a63",
+      "bank_id": "f00dab00",
+      "text": "Beni bekle, baba!"
+    },
+    {
+      "id": "1d119a68",
+      "bank_id": "f00dab00",
+      "text": "Beni bekle, anne!"
+    },
+    {
+      "id": "1d605dcd",
+      "bank_id": "f00dab00",
+      "text": "Kütük gibi sarhoşum ve birilerinin dişini dökmeye hazırım!"
+    },
+    {
+      "id": "1e1dd054",
+      "bank_id": "f00dab00",
+      "text": "Evimizi dert etmiyorum ama arkadaşlarıma gidip oynamak her zaman daha güzel."
+    },
+    {
+      "id": "1f2dc039",
+      "bank_id": "f00dab00",
+      "text": "Bana bir diriltme büyüsü lazım!"
+    },
+    {
+      "id": "1feecee4",
+      "bank_id": "f00dab00",
+      "text": "Dünyanın en güçlü Kahramanı beniiiiim!"
+    },
+    {
+      "id": "22160302",
+      "bank_id": "f00dab00",
+      "text": "Yıldırım çarpması! Çıtır çıtır kızardın işte!"
+    },
+    {
+      "id": "231dd875",
+      "bank_id": "f00dab00",
+      "text": "Evimiz idare eder sanırım. Ama arkadaşımın evinde oynamayı tercih ederim."
+    },
+    {
+      "id": "24eed685",
+      "bank_id": "f00dab00",
+      "text": "Ağabeyim rol yapma oyunlarının çocuklar ve inekler için olduğunu söylüyor... Ne anlarmış ki o?!"
+    },
+    {
+      "id": "28606f7c",
+      "bank_id": "f00dab00",
+      "text": "Yedi gündür aralıksız içiyorum! Kim kavga etmek istiyor??"
+    },
+    {
+      "id": "2b16116f",
+      "bank_id": "f00dab00",
+      "text": "Viblo Vablo Kuglo. Seni tavuğa dönüştürdüm!"
+    },
+    {
+      "id": "2c85669e",
+      "bank_id": "f00dab00",
+      "text": "Neden bu berbat evde yaşamak zorundayız ki?"
+    },
+    {
+      "id": "2dfca503",
+      "bank_id": "f00dab00",
+      "text": "Evimiz en iyisi değil ama idare eder."
+    },
+    {
+      "id": "326f5083",
+      "bank_id": "f00dab00",
+      "text": "Şu adam ne yapıyor öyle anne?"
+    },
+    {
+      "id": "34fcb006",
+      "bank_id": "f00dab00",
+      "text": "Bizimkinden çok daha güzel bir sürü ev var, değil mi?"
+    },
+    {
+      "id": "358574eb",
+      "bank_id": "f00dab00",
+      "text": "Daha güzel bir eve taşınamaz mıyız?"
+    },
+    {
+      "id": "36aec21d",
+      "bank_id": "f00dab00",
+      "text": "Öff! Bu ev berbat! Başka bir yerde yaşayamaz mıyız?"
+    },
+    {
+      "id": "38d52388",
+      "bank_id": "f00dab00",
+      "text": "Babacığım, şu tuhaf kadın ne yapıyor öyle?"
+    },
+    {
+      "id": "39567864",
+      "bank_id": "f00dab00",
+      "text": "Bu evden nefret ediyorum! Bizi burada nasıl yaşatırsın?!"
+    },
+    {
+      "id": "39f755e1",
+      "bank_id": "f00dab00",
+      "text": "Yedi bilge adamla savaştım ama en azından Prenses Isolda güvende."
+    },
+    {
+      "id": "3ae37fc4",
+      "bank_id": "f00dab00",
+      "text": "Bizim evimiz en iyisi!"
+    },
+    {
+      "id": "3be994a1",
+      "bank_id": "f00dab00",
+      "text": "Umarım hiç taşınmayız!"
+    },
+    {
+      "id": "3c9927e1",
+      "bank_id": "f00dab00",
+      "text": "Babacığım!"
+    },
+    {
+      "id": "3c9a05c6",
+      "bank_id": "f00dab00",
+      "text": "Bensiz gitme, baba!"
+    },
+    {
+      "id": "3c9a05cd",
+      "bank_id": "f00dab00",
+      "text": "Bensiz gitme, anne!"
+    },
+    {
+      "id": "3dd52ba9",
+      "bank_id": "f00dab00",
+      "text": "O kadın ne yapıyor öyle baba?"
+    },
+    {
+      "id": "3e568005",
+      "bank_id": "f00dab00",
+      "text": "Bu ev bana kabuslar gördürtecek. Neden burada yaşamaya devam etmek zorundayız?"
+    },
+    {
+      "id": "3fe387e5",
+      "bank_id": "f00dab00",
+      "text": "Gelmiş geçmiş en güzel evde yaşıyoruz."
+    },
+    {
+      "id": "41aed34c",
+      "bank_id": "f00dab00",
+      "text": "Artık burada yaşamayı hiç sevmiyorum. Keşke taşınabilsek..."
+    },
+    {
+      "id": "43071c08",
+      "bank_id": "f00dab00",
+      "text": "Neden bu kadar fakiriz?"
+    },
+    {
+      "id": "44f76710",
+      "bank_id": "f00dab00",
+      "text": "Yaşasın... Kurtuldum... Neden hep ben kaçırılmak zorundayım ki?"
+    },
+    {
+      "id": "45127e6d",
+      "bank_id": "f00dab00",
+      "text": "Tam bir çaylak ya. Mel-ey diye okunur bi kere!"
+    },
+    {
+      "id": "46e9a5d0",
+      "bank_id": "f00dab00",
+      "text": "Evimizi çok seviyorum!"
+    },
+    {
+      "id": "47993910",
+      "bank_id": "f00dab00",
+      "text": "Baba!"
+    },
+    {
+      "id": "48072429",
+      "bank_id": "f00dab00",
+      "text": "Çok açım. Neden yemek almaya paramız yetmiyor?"
+    },
+    {
+      "id": "4ff569ce",
+      "bank_id": "f00dab00",
+      "text": "O askerler artık insan değil! Öldürün onları!"
+    },
+    {
+      "id": "50128f9c",
+      "bank_id": "f00dab00",
+      "text": "Şu Lonca Üstadı'ndan gına geldi artık. Hadi öldürelim onu!"
+    },
+    {
+      "id": "52af3248",
+      "bank_id": "f00dab00",
+      "text": "Anne!"
+    },
+    {
+      "id": "53277bb3",
+      "bank_id": "f00dab00",
+      "text": "Şu adam neden öyle yapıyor babacığım?"
+    },
+    {
+      "id": "54ee5ec4",
+      "bank_id": "f00dab00",
+      "text": "Hedefinizden şaşmayın küçük çubuklarım. Düzgün uçun!"
+    },
+    {
+      "id": "551a22c2",
+      "bank_id": "f00dab00",
+      "text": "Şu adam sana neden hediye verdi?"
+    },
+    {
+      "id": "56a0ae92",
+      "bank_id": "f00dab00",
+      "text": "Şu kişi neden öyle yapıyor baba?"
+    },
+    {
+      "id": "57af3a69",
+      "bank_id": "f00dab00",
+      "text": "Anneciğim!"
+    },
+    {
+      "id": "58f5781b",
+      "bank_id": "f00dab00",
+      "text": "Benim karakterimin hikâyesi en iyisi!"
+    },
+    {
+      "id": "59ee66e5",
+      "bank_id": "f00dab00",
+      "text": "Hayal Kırıklığı Oklarım hiç de beklediğim gibi çıkmadı."
+    },
+    {
+      "id": "5a2786b6",
+      "bank_id": "f00dab00",
+      "text": "Şu adam bayağı tuhaf baba."
+    },
+    {
+      "id": "5a4813d1",
+      "bank_id": "f00dab00",
+      "text": "6. seviye Hafif Serinletici Kelle Uçurma Fırtınası büyüsü yapıyorum."
+    },
+    {
+      "id": "5b9798b2",
+      "bank_id": "f00dab00",
+      "text": "Bu zindan dördüncü seviye. Daha büyük silahlara ihtiyacımız olacak."
+    },
+    {
+      "id": "5e1a312f",
+      "bank_id": "f00dab00",
+      "text": "Şu adam sana neden hediye verdi anne?"
+    },
+    {
+      "id": "5fa0bcff",
+      "bank_id": "f00dab00",
+      "text": "Şu kişi ne yapıyor öyle baba?"
+    },
+    {
+      "id": "5fb19b14",
+      "bank_id": "f00dab00",
+      "text": "Işık ağacını yakıp kül ediyorum!"
+    },
+    {
+      "id": "607a855d",
+      "bank_id": "f00dab00",
+      "text": "Baba! Baba!"
+    },
+    {
+      "id": "635ea080",
+      "bank_id": "f00dab00",
+      "text": "Beni bekle, baba!"
+    },
+    {
+      "id": "635ea08b",
+      "bank_id": "f00dab00",
+      "text": "Beni bekle, anne!"
+    },
+    {
+      "id": "6497a69f",
+      "bank_id": "f00dab00",
+      "text": "Kızlardan Paladin olmaz da ne demekmiş? Ben ne istersem o olurum!"
+    },
+    {
+      "id": "64b1a335",
+      "bank_id": "f00dab00",
+      "text": "İyilik budalası keşişlerin hiç şansı yok!"
+    },
+    {
+      "id": "65482500",
+      "bank_id": "f00dab00",
+      "text": "İrade'yi kullan! Bak! Böyle!"
+    },
+    {
+      "id": "66d775d4",
+      "bank_id": "f00dab00",
+      "text": "Anne! Anne!"
+    },
+    {
+      "id": "68ddfa23",
+      "bank_id": "f00dab00",
+      "text": "Bağırsaklarından atkı yapacağım senin!"
+    },
+    {
+      "id": "6a0a3991",
+      "bank_id": "f00dab00",
+      "text": "Selam, baba!"
+    },
+    {
+      "id": "6a2abdc1",
+      "bank_id": "f00dab00",
+      "text": "Büyü Sanatları'nın olağanüstü gücünü üzerine salacağım!"
+    },
+    {
+      "id": "6a914ec7",
+      "bank_id": "f00dab00",
+      "text": "Üzerinde senin adın yazan bir okum var! Bak, çakımla kazıdım."
+    },
+    {
+      "id": "6b7a968c",
+      "bank_id": "f00dab00",
+      "text": "Baba! Baba!"
+    },
+    {
+      "id": "6bd77df5",
+      "bank_id": "f00dab00",
+      "text": "Anne! Anne!"
+    },
+    {
+      "id": "6bf07e0d",
+      "bank_id": "f00dab00",
+      "text": "Umarım hiç ama hiç taşınmayız. Dünyanın en güzel evine sahibiz."
+    },
+    {
+      "id": "6dc868f1",
+      "bank_id": "f00dab00",
+      "text": "Işık Tapınağı'nın bütün o aptal keşişlerini öldürdük!"
+    },
+    {
+      "id": "6fde0526",
+      "bank_id": "f00dab00",
+      "text": "Son pis nefesini de verdin işte seni pis nefesli nefesçi!"
+    },
+    {
+      "id": "719159ca",
+      "bank_id": "f00dab00",
+      "text": "Hey! Yayımın kirişini kim kopardı? Komik mi sanıyorsunuz bunu?"
+    },
+    {
+      "id": "72df46b7",
+      "bank_id": "f00dab00",
+      "text": "Bize daha fazla NPC lazım."
+    },
+    {
+      "id": "73792078",
+      "bank_id": "f00dab00",
+      "text": "Selam, anne!"
+    },
+    {
+      "id": "7452e144",
+      "bank_id": "f00dab00",
+      "text": "Canavar avcısı olmak kolay değil ama efsanevi... eşekyılanının izini sürmem gerek!"
+    },
+    {
+      "id": "750a4ac0",
+      "bank_id": "f00dab00",
+      "text": "Selam, baba!"
+    },
+    {
+      "id": "750b8207",
+      "bank_id": "f00dab00",
+      "text": "Hayır! Anne! Anneciğim!"
+    },
+    {
+      "id": "752acf70",
+      "bank_id": "f00dab00",
+      "text": "Ha! Karşı Büyüm senin Bilinmez Gülünçlük Tılsımını etkisiz hale getirdi."
+    },
+    {
+      "id": "76f08fbc",
+      "bank_id": "f00dab00",
+      "text": "Evimiz harika. Bütün arkadaşlarım burada yaşamak istiyor!"
+    },
+    {
+      "id": "78792819",
+      "bank_id": "f00dab00",
+      "text": "Selam, anne!"
+    },
+    {
+      "id": "78c87a20",
+      "bank_id": "f00dab00",
+      "text": "Işık Tapınağı'nın işi bitti!"
+    },
+    {
+      "id": "7952e965",
+      "bank_id": "f00dab00",
+      "text": "Albion'daki en tehlikeli yaratıkları avlamalıyız. İlkiyle başlıyoruz... kurttavuk!"
+    },
+    {
+      "id": "79df51ba",
+      "bank_id": "f00dab00",
+      "text": "Son kez söylüyorum, Kumkazı diye bir şey yok!"
+    },
+    {
+      "id": "7c0b8d0a",
+      "bank_id": "f00dab00",
+      "text": "Hayır! Anne! Anne!"
+    },
+    {
+      "id": "80d9cb0e",
+      "bank_id": "f00dab00",
+      "text": "Merhaba, anneciğim."
+    },
+    {
+      "id": "82a709e8",
+      "bank_id": "f00dab00",
+      "text": "Aşağıdan gelip seni yutacak!"
+    },
+    {
+      "id": "83559237",
+      "bank_id": "f00dab00",
+      "text": "Aaa! Pantolonum beni yemeye çalışıyor! İşte bu! Ben kazandım!"
+    },
+    {
+      "id": "8649cf48",
+      "bank_id": "f00dab00",
+      "text": "Gölgeler Tarikatı Tapınağımızı yıkmaya çalışıyor! Buna izin veremeyiz!"
+    },
+    {
+      "id": "87a71189",
+      "bank_id": "f00dab00",
+      "text": "Uçan maymunlar geliyor!"
+    },
+    {
+      "id": "87c65a78",
+      "bank_id": "f00dab00",
+      "text": "Bu haksızlık! Daha iyi bir evde yaşamalıyız."
+    },
+    {
+      "id": "89d9d95b",
+      "bank_id": "f00dab00",
+      "text": "Merhaba anne."
+    },
+    {
+      "id": "8a559d3a",
+      "bank_id": "f00dab00",
+      "text": "Bu gerbilköpekbalığı kafasını imkânsız yaratıklar müzesine götüreceğim! Güzel bir av daha bitti!"
+    },
+    {
+      "id": "8ad95504",
+      "bank_id": "f00dab00",
+      "text": "Şu kişi sana bir şey mi verdi baba?"
+    },
+    {
+      "id": "8b49d769",
+      "bank_id": "f00dab00",
+      "text": "Kötü tarikatçılar Işık Tapınağı'na saldırıyor! Onları kurtarmalıyız!"
+    },
+    {
+      "id": "8cc66219",
+      "bank_id": "f00dab00",
+      "text": "Evimiz dünyanın en berbat evi."
+    },
+    {
+      "id": "8fd95d25",
+      "bank_id": "f00dab00",
+      "text": "O kişi sana ne verdi baba?"
+    },
+    {
+      "id": "928c7481",
+      "bank_id": "f00dab00",
+      "text": "Bütün ganimetleri kapıp durmayı kes!"
+    },
+    {
+      "id": "9430e188",
+      "bank_id": "f00dab00",
+      "text": "İnanamıyorum! Tüccarlardan biri balverine'e dönüştü! Öldürün onu! Öldürün!"
+    },
+    {
+      "id": "94bbd72d",
+      "bank_id": "f00dab00",
+      "text": "Tatar yayının efendisi benim!"
+    },
+    {
+      "id": "97520382",
+      "bank_id": "f00dab00",
+      "text": "Evimizi seviyorum."
+    },
+    {
+      "id": "9930e9a9",
+      "bank_id": "f00dab00",
+      "text": "Çabuk! Balverine bütün tüccarlarımızı öldürecek! Hem de onlara tam alışmıştım!"
+    },
+    {
+      "id": "995963d8",
+      "bank_id": "f00dab00",
+      "text": "Anneciğim, şu tuhaf kadın neden öyle yapıyor?"
+    },
+    {
+      "id": "9c253d2e",
+      "bank_id": "f00dab00",
+      "text": "Çile fıstığı! Taze Çile fıstıkları burada!"
+    },
+    {
+      "id": "9d8c8630",
+      "bank_id": "f00dab00",
+      "text": "Görünmezlik pelerinimi giyiyorum. Hey, bana bakmayı kesin!"
+    },
+    {
+      "id": "9fbbe85c",
+      "bank_id": "f00dab00",
+      "text": "Gözlerim kapalıyken bile hedefi vurabilirim!"
+    },
+    {
+      "id": "a05211ef",
+      "bank_id": "f00dab00",
+      "text": "Evimiz çok güzel değil mi?"
+    },
+    {
+      "id": "a1d7fe02",
+      "bank_id": "f00dab00",
+      "text": "Bundan kaç bakalım!"
+    },
+    {
+      "id": "a4c0ba1d",
+      "bank_id": "f00dab00",
+      "text": "Boyutlararası Gökkuşağı Asamı gören oldu mu? Boya kalemine benziyor."
+    },
+    {
+      "id": "a5254b7b",
+      "bank_id": "f00dab00",
+      "text": "Çile fıstığı! Tuzlu ve lezzetli!"
+    },
+    {
+      "id": "a5661983",
+      "bank_id": "f00dab00",
+      "text": "Hey! Zarlarımı biri mi aldı?"
+    },
+    {
+      "id": "aad80c6f",
+      "bank_id": "f00dab00",
+      "text": "Ah! Sopam bana geri çarptı!"
+    },
+    {
+      "id": "ac662486",
+      "bank_id": "f00dab00",
+      "text": "Ben dükkân sahibiyim, tamam mı? Ama bir şey satın almak istiyorsan bir bilmece çözmen gerek."
+    },
+    {
+      "id": "ae8c8501",
+      "bank_id": "f00dab00",
+      "text": "Şu kadın sana hediye mi verdi anneciğim?"
+    },
+    {
+      "id": "afc0cb4c",
+      "bank_id": "f00dab00",
+      "text": "Bana bakın, ben Jack of Blades'im. Vuuuuu!"
+    },
+    {
+      "id": "b1240ebe",
+      "bank_id": "f00dab00",
+      "text": "Evimiz iğrenç."
+    },
+    {
+      "id": "b148f1e6",
+      "bank_id": "f00dab00",
+      "text": "Bensiz gitme, anne!"
+    },
+    {
+      "id": "b148f1ed",
+      "bank_id": "f00dab00",
+      "text": "Bensiz gitme, baba!"
+    },
+    {
+      "id": "b61fbe6e",
+      "bank_id": "f00dab00",
+      "text": "Selam! Ben... Ben senin kızınım! Büyüdüm artık, bak!"
+    },
+    {
+      "id": "b723ce02",
+      "bank_id": "f00dab00",
+      "text": "Oh be! Pazara tek parça halinde ulaştık. Belki şu balverine postunu burada satabiliriz."
+    },
+    {
+      "id": "b98c96b0",
+      "bank_id": "f00dab00",
+      "text": "O kadın sana hediye mi verdi anne?"
+    },
+    {
+      "id": "ba241c8b",
+      "bank_id": "f00dab00",
+      "text": "Evimizde yaşamaktan hoşlanmıyorum."
+    },
+    {
+      "id": "ba99b833",
+      "bank_id": "f00dab00",
+      "text": "Hiç ev değiştirecek miyiz?"
+    },
+    {
+      "id": "bbb3a834",
+      "bank_id": "f00dab00",
+      "text": "Tehlike seziyorum! Çabuk, tuzak tespitini açın!"
+    },
+    {
+      "id": "beb71854",
+      "bank_id": "f00dab00",
+      "text": "Evet, kötü keşişleri yendik!"
+    },
+    {
+      "id": "bf1fccbb",
+      "bank_id": "f00dab00",
+      "text": "Ben senin oğlunum! Tanıyamadın bile beni değil mi?"
+    },
+    {
+      "id": "c023dc6f",
+      "bank_id": "f00dab00",
+      "text": "Sonunda balverine çıkan yabancı bir tüccarla bir daha asla yolculuk etmem."
+    },
+    {
+      "id": "c0b3afd5",
+      "bank_id": "f00dab00",
+      "text": "Şşt! Sanırım geldiğini duyuyorum!"
+    },
+    {
+      "id": "c0c29e31",
+      "bank_id": "f00dab00",
+      "text": "Şu kadın sana hediye mi verdi babacığım?"
+    },
+    {
+      "id": "c199c336",
+      "bank_id": "f00dab00",
+      "text": "Ne zamandır bu evde yaşıyorsun?"
+    },
+    {
+      "id": "c3968dc2",
+      "bank_id": "f00dab00",
+      "text": "İrade güçlerim durdurulamaz!"
+    },
+    {
+      "id": "c3b72075",
+      "bank_id": "f00dab00",
+      "text": "Gölgeler Tapınağı çöktü!"
+    },
+    {
+      "id": "c58071e4",
+      "bank_id": "f00dab00",
+      "text": "Hadi gelin bakalım tüccarlar. Pazara kadar size eşlik edeceğim. Umarım yolda bir aksilik çıkmaz."
+    },
+    {
+      "id": "ca05a1d8",
+      "bank_id": "f00dab00",
+      "text": "Herkesten daha iyi nişan alırım ben!"
+    },
+    {
+      "id": "ca807985",
+      "bank_id": "f00dab00",
+      "text": "Duyduğuma göre bu bataklıklarda türlü türlü canavarlar varmış. Tüccarları korumamız gerekecek."
+    },
+    {
+      "id": "cbc2af60",
+      "bank_id": "f00dab00",
+      "text": "O kadın sana ne verdi baba?"
+    },
+    {
+      "id": "cc969c2f",
+      "bank_id": "f00dab00",
+      "text": "Büyülü gücümü hissedin!"
+    },
+    {
+      "id": "cf05a9f9",
+      "bank_id": "f00dab00",
+      "text": "Beni kızdırma yoksa vururum seni!"
+    },
+    {
+      "id": "d1986f52",
+      "bank_id": "f00dab00",
+      "text": "Harika bir dövüştü! Şimdi içmeye geri dönelim!"
+    },
+    {
+      "id": "d2fd9d0e",
+      "bank_id": "f00dab00",
+      "text": "Kötü Gölge tarikatçılarını bozguna uğrattık!"
+    },
+    {
+      "id": "d3b8fa4d",
+      "bank_id": "f00dab00",
+      "text": "Taşınmamız lazım! Evimiz çok kötü."
+    },
+    {
+      "id": "d5afbc74",
+      "bank_id": "f00dab00",
+      "text": "Merhaba! Beni hatırladın mı? Oğlun ben."
+    },
+    {
+      "id": "d7600d97",
+      "bank_id": "f00dab00",
+      "text": "Çok açız... Neden karnımızı doyurmaya yetecek kadar altın getirmiyorsun?"
+    },
+    {
+      "id": "da0a0ed1",
+      "bank_id": "f00dab00",
+      "text": "Muhteşem Sivrilikteki Müthiş Yayımın gücüne tanık olun!"
+    },
+    {
+      "id": "da987dbf",
+      "bank_id": "f00dab00",
+      "text": "Hepsine gösterdim gününü! Hem de nasıl! Şimdi biram nerede benim??"
+    },
+    {
+      "id": "daafc415",
+      "bank_id": "f00dab00",
+      "text": "A, merhaba. Ben senin kızınım bilesin. Gerçi seni pek hatırlamıyorum."
+    },
+    {
+      "id": "dbfdab5b",
+      "bank_id": "f00dab00",
+      "text": "Aynen öyle! Karanlık deliğinize geri dönün Gölgeler Tapınağı! Güzelce benzettik sizi!"
+    },
+    {
+      "id": "dc1b2831",
+      "bank_id": "f00dab00",
+      "text": "Hey, Rosie'yi gören oldu mu? Yine kaybettim onu!"
+    },
+    {
+      "id": "de60189a",
+      "bank_id": "f00dab00",
+      "text": "Hiçbir şey almaya yetecek kadar altınımız olmuyor. Bizi hiç umursamıyor musun?"
+    },
+    {
+      "id": "deb90bfc",
+      "bank_id": "f00dab00",
+      "text": "Şu aptal evimizden nefret ediyorum!"
+    },
+    {
+      "id": "e244a262",
+      "bank_id": "f00dab00",
+      "text": "Arkadaşlarım bizimki gibi güzel bir evde yaşamıyor."
+    },
+    {
+      "id": "e30d77ee",
+      "bank_id": "f00dab00",
+      "text": "Titrek Bacaklar büyüsü yapıyorum! Ayakta duramazsın!"
+    },
+    {
+      "id": "e50a2000",
+      "bank_id": "f00dab00",
+      "text": "Bu tatar yayı Herman adlı sihirli bir ağacın odunundan yapılmıştır."
+    },
+    {
+      "id": "e513f8ae",
+      "bank_id": "f00dab00",
+      "text": "Hayır! Aniden çalı dişler çıkarıp bana saldırıyor! Bu bir İblis Çalılığı!"
+    },
+    {
+      "id": "e679ab92",
+      "bank_id": "f00dab00",
+      "text": "Işık bizi zafere ulaştırsın!"
+    },
+    {
+      "id": "e71b3960",
+      "bank_id": "f00dab00",
+      "text": "Bir diriltme şişesi buldum!"
+    },
+    {
+      "id": "e75cc36d",
+      "bank_id": "f00dab00",
+      "text": "Savaşacak büyük bir kötülük var! Yine!"
+    },
+    {
+      "id": "e7b013af",
+      "bank_id": "f00dab00",
+      "text": "Şu kişi ne yapıyor öyle anne?"
+    },
+    {
+      "id": "e8a746b4",
+      "bank_id": "f00dab00",
+      "text": "Şu kişi sana bir şey mi verdi anne?"
+    },
+    {
+      "id": "e8e3fd31",
+      "bank_id": "f00dab00",
+      "text": "Burada yaşamayı çok seviyorum."
+    },
+    {
+      "id": "e9ecb8c1",
+      "bank_id": "f00dab00",
+      "text": "Vıııın! Bakın nasıl uçuyor!"
+    },
+    {
+      "id": "eacf53c7",
+      "bank_id": "f00dab00",
+      "text": "Zamanı Yavaşlat! H-e-r-k-e-s ç-o-k y-a-v-a-ş k-o-n-u-ş-s-u-n."
+    },
+    {
+      "id": "eb44b04f",
+      "bank_id": "f00dab00",
+      "text": "Evimiz tam kıvamında."
+    },
+    {
+      "id": "ec0d863b",
+      "bank_id": "f00dab00",
+      "text": "Ateş topu! Yan bakalım!"
+    },
+    {
+      "id": "eda74e55",
+      "bank_id": "f00dab00",
+      "text": "O kişi sana ne verdi anne?"
+    },
+    {
+      "id": "ee1406fb",
+      "bank_id": "f00dab00",
+      "text": "Geri bas, dehşet tavşanı! Yoksa Yetersiz Beslenme Mızrağımla o habis postunu delik deşik ederim."
+    },
+    {
+      "id": "ef79b9ff",
+      "bank_id": "f00dab00",
+      "text": "Keşişleri toplayın! Şu tarikatçılara günlerini göstereceğiz!"
+    },
+    {
+      "id": "f17c2d72",
+      "bank_id": "f00dab00",
+      "text": "Şu adam sana ne verdi baba?"
+    },
+    {
+      "id": "f1cf5eca",
+      "bank_id": "f00dab00",
+      "text": "Ha! Şimdi pantolonun alev aldı işte!"
+    },
+    {
+      "id": "f25cd49c",
+      "bank_id": "f00dab00",
+      "text": "Bu şehri hayatımız pahasına savunacağız!"
+    },
+    {
+      "id": "f3e40e60",
+      "bank_id": "f00dab00",
+      "text": "Evimiz çok güzel. Bebeklerim burada çok mutlu."
+    },
+    {
+      "id": "f4ecca70",
+      "bank_id": "f00dab00",
+      "text": "Ben Kabus Şehri'nin kudretli Okçusuyum!"
+    },
+    {
+      "id": "f8112c03",
+      "bank_id": "f00dab00",
+      "text": "Merhaba, baba."
+    },
+    {
+      "id": "f8a4b8e2",
+      "bank_id": "f00dab00",
+      "text": "Kazaaam!"
+    },
+    {
+      "id": "fa7c3b5f",
+      "bank_id": "f00dab00",
+      "text": "Şu adam sana neden hediye verdi baba?"
+    },
+    {
+      "id": "fad74f54",
+      "bank_id": "f00dab00",
+      "text": "Neden hiç paramız yok?"
+    },
+    {
+      "id": "fd5ebea2",
+      "bank_id": "f00dab00",
+      "text": "O kadar hızlı değil, baba!"
+    },
+    {
+      "id": "fd5ebea9",
+      "bank_id": "f00dab00",
+      "text": "O kadar hızlı değil, anne!"
+    },
+    {
+      "id": "ff113706",
+      "bank_id": "f00dab00",
+      "text": "Merhaba, babacığım."
+    },
+    {
+      "id": "ffd75775",
+      "bank_id": "f00dab00",
+      "text": "Hiç altınımız yok ve yiyecek hiçbir şeyimiz kalmadı."
+    }
+  ]
+}

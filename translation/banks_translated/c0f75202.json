@@ -1,0 +1,556 @@
+{
+  "bank_id": "c0f75202",
+  "total_strings": 110,
+  "strings": [
+    {
+      "id": "073398e3",
+      "bank_id": "c0f75202",
+      "text": "Yani bizi soğuk havadan kurtarmak için adaya geleceksin ha?"
+    },
+    {
+      "id": "1524de13",
+      "bank_id": "c0f75202",
+      "text": "Ve işte güvenilir yardımcım geliyor. Talimatlarımı oldukça iyi yerine getirdi, koca bir alkışı hak ediyor."
+    },
+    {
+      "id": "1524de18",
+      "bank_id": "c0f75202",
+      "text": "Ve işte güvenilir yardımcım geliyor. Talimatlarımı oldukça iyi yerine getirdi, koca bir alkışı hak ediyor."
+    },
+    {
+      "id": "1875feff",
+      "bank_id": "c0f75202",
+      "text": "Gelecek misin o halde?"
+    },
+    {
+      "id": "1895702c",
+      "bank_id": "c0f75202",
+      "text": "Bowerstone rıhtımındaki oldukça tuhaf adamla konuşun."
+    },
+    {
+      "id": "202f1bd2",
+      "bank_id": "c0f75202",
+      "text": "Bunu Şef'i ortadan kaldırması için gönderildiğini düşündüğümüz bir suikastçıdan aldık. Ne yazık ki işini göremeden bir çakıl taşına takılıp gümüş bir kürdanın üstüne düştü ve can verdi."
+    },
+    {
+      "id": "2050b701",
+      "bank_id": "c0f75202",
+      "text": "Knothole Adası korkunç bir kuraklık çekiyor."
+    },
+    {
+      "id": "274f24a0",
+      "bank_id": "c0f75202",
+      "text": "Sanırım bu, Kara Çark Çetesi üyelerinin giydiği kıyafet. Savaş esnasında a capella ninniler söyleyen gezgin bir nekromansi savaşçıları grubuydu kendileri."
+    },
+    {
+      "id": "2d466632",
+      "bank_id": "c0f75202",
+      "text": "Birkaç yıl önce adayı istila eden barbar ordusundaki savaşçılardan biri, bir çiçek tarhını çiğnediği için özür mahiyetinde bu silahı bıraktı."
+    },
+    {
+      "id": "2f36bfe0",
+      "bank_id": "c0f75202",
+      "text": "Yine çıkıp geleceğini umuyordum. Neredeyse seni aramak için yollara düşmem gerekecek sanmaya başlamıştım."
+    },
+    {
+      "id": "310b7a5a",
+      "bank_id": "c0f75202",
+      "text": "Knothole Adası halkı soğuktan donarak ölüyor."
+    },
+    {
+      "id": "3236c4b9",
+      "bank_id": "c0f75202",
+      "text": "Adanın başı yine dertte ama bizi kurtaracağından eminim. Yeni bir yolculuğa hazır mısın?"
+    },
+    {
+      "id": "350174c2",
+      "bank_id": "c0f75202",
+      "text": "Ada Şefi'ne dönün."
+    },
+    {
+      "id": "350174c4",
+      "bank_id": "c0f75202",
+      "text": "Fırtına Anahtarı'nı topraktan çıkarın."
+    },
+    {
+      "id": "350174c5",
+      "bank_id": "c0f75202",
+      "text": "Tapınağa girin ve totemi etkinleştirin."
+    },
+    {
+      "id": "350174c7",
+      "bank_id": "c0f75202",
+      "text": "Ada Şefi ile konuşun."
+    },
+    {
+      "id": "3608af62",
+      "bank_id": "c0f75202",
+      "text": "Yani Fırtına Totemi'ni Yaz Tapınağı'ndan alıp getireceksin, öyle mi?"
+    },
+    {
+      "id": "3dfed6a9",
+      "bank_id": "c0f75202",
+      "text": "Knothole yağmurlarına son verilsin mi?"
+    },
+    {
+      "id": "488efeba",
+      "bank_id": "c0f75202",
+      "text": "Ne? İşim bitmedi daha seninle!"
+    },
+    {
+      "id": "4d003150",
+      "bank_id": "c0f75202",
+      "text": "Bir haftadır kuru topraktan başka bir şey yemiyoruz. Kendi şahsi kullanımım için bir meyve ve tatlı stoku yaptığım yönündeki dedikodularda zerre doğruluk payı yoktur."
+    },
+    {
+      "id": "4e0032c3",
+      "bank_id": "c0f75202",
+      "text": "Bize biraz yağmur getir, olur mu? Yapabileceğin en küçük şey bu."
+    },
+    {
+      "id": "4e800a5b",
+      "bank_id": "c0f75202",
+      "text": "Demek çiseleyen yağmurun, sellerin ve kaosun getireni geri dönmüş."
+    },
+    {
+      "id": "4f800bce",
+      "bank_id": "c0f75202",
+      "text": "Her şeye burnunu sokman tanrıları öfkelendirmiş olmalı, zira gittiğinden beri üstümüze tükürmeyi bir an olsun bırakmadılar."
+    },
+    {
+      "id": "50003629",
+      "bank_id": "c0f75202",
+      "text": "İnsanlar Şef olmanın kolay olduğunu sanıyor. Ama bütün büyük kararları ben almak zorundayım. Bunu hiç düşünüyorlar mı acaba?"
+    },
+    {
+      "id": "50800da1",
+      "bank_id": "c0f75202",
+      "text": "Seni şahsen sorumlu tutuyorum ve bu talihsiz durumu çözmemizin tek bir yolu var."
+    },
+    {
+      "id": "51800f14",
+      "bank_id": "c0f75202",
+      "text": "Son totemi bulup hava durumunun kudretini bana iade etmelisin. Yani, bize."
+    },
+    {
+      "id": "52801087",
+      "bank_id": "c0f75202",
+      "text": "Fırtına Mabedi'ne gir ve bana - bize - Buz Totemi'ni getir. Sana da hakkın ödenir, falan filan işte."
+    },
+    {
+      "id": "542234ab",
+      "bank_id": "c0f75202",
+      "text": "Gordon ile gidip Knothole Adası halkına yardım edilsin mi?"
+    },
+    {
+      "id": "56017fea",
+      "bank_id": "c0f75202",
+      "text": "Jessica'ya veya Ada Şefi'ne katılın."
+    },
+    {
+      "id": "56c04640",
+      "bank_id": "c0f75202",
+      "text": "Şimdi, ileride herhangi bir sorun çıkmaması adına Hava Odası'na yalnızca ben ve yardımcım girebilecek."
+    },
+    {
+      "id": "58b3ea36",
+      "bank_id": "c0f75202",
+      "text": "Bu tiranın bizi böyle sömürmesine cidden yardım edecek misin? Halka katıl, kudreti bizimle paylaş. Sayende kalkınırız ve sonsuza dek kalbimizde yaşarsın."
+    },
+    {
+      "id": "58c049a6",
+      "bank_id": "c0f75202",
+      "text": "Toplanın! Toplanın! Sevgili lideriniz olan bendeniz sayesinde Hava Odası pek yakında yeniden açılacak."
+    },
+    {
+      "id": "5ab3ed1c",
+      "bank_id": "c0f75202",
+      "text": "Kim olduğumu unuttunuz mu siz? Sizin için yaptıklarımı? Bu Kahraman dimdik benim yanımda duruyor, hepsi bu kadar."
+    },
+    {
+      "id": "5ac04c8c",
+      "bank_id": "c0f75202",
+      "text": "Geber git!"
+    },
+    {
+      "id": "5bb3ee8f",
+      "bank_id": "c0f75202",
+      "text": "Aptalca bir şey yapma şimdi. Benimle çalış, bu işten tam 10.000 altın kazanacaksın."
+    },
+    {
+      "id": "5bc04e7f",
+      "bank_id": "c0f75202",
+      "text": "Aynen... Yuh sana!"
+    },
+    {
+      "id": "5c53ecc3",
+      "bank_id": "c0f75202",
+      "text": "Bu kıyafeti birkaç yıl önce çapulcu bir barbar ordusu adayı istila ettikten sonra toparladım. İyi insanlardı aslında. Çoğunlukla sadece bir fincan çay eşliğinde sessizce sohbet etmek istemişlerdi."
+    },
+    {
+      "id": "5cb3f062",
+      "bank_id": "c0f75202",
+      "text": "Aynen öyle, bizim istediğimiz de bu işte!"
+    },
+    {
+      "id": "5cc04fd2",
+      "bank_id": "c0f75202",
+      "text": "Ne? Bir ücret mi? Her şey en başından beri senin suçundu zaten!"
+    },
+    {
+      "id": "5db3f1d5",
+      "bank_id": "c0f75202",
+      "text": "Hava durumu halka aittir!"
+    },
+    {
+      "id": "5dc05145",
+      "bank_id": "c0f75202",
+      "text": "Ben bu meşakkatli muhafızlığı üstlenirken sizden tek isteyeceğim, her birinizin ödeyeceği ufak bir aylık ücrettir."
+    },
+    {
+      "id": "60c0561e",
+      "bank_id": "c0f75202",
+      "text": "Tek makul talep, hava durumunun kontrolünü bize devretmendir. Halka. Ve bu cesur maceracının da aynı fikirde olduğuna eminim."
+    },
+    {
+      "id": "61c057f1",
+      "bank_id": "c0f75202",
+      "text": "Sakin olun, şiddet dolu bir ayaklanmaya lüzum yok. Ben sizin Şefinizim ve bu gayet makul bir talep."
+    },
+    {
+      "id": "62938132",
+      "bank_id": "c0f75202",
+      "text": "Sadık köpeğiniz gitmiş olabilir ama küreğinizi kullanarak eşyaları hâlâ topraktan çıkarabilirsiniz."
+    },
+    {
+      "id": "677500ea",
+      "bank_id": "c0f75202",
+      "text": "Rıhtım Boyunda"
+    },
+    {
+      "id": "6abc212c",
+      "bank_id": "c0f75202",
+      "text": "Hadi gidelim! Yeni bir su sızıntısı görürsen haber ver..."
+    },
+    {
+      "id": "6c10384c",
+      "bank_id": "c0f75202",
+      "text": "Hepimiz boğulurken orada öylece dikilecek misin?"
+    },
+    {
+      "id": "6c830b83",
+      "bank_id": "c0f75202",
+      "text": "A, döndün demek ha? Ben öyle bekletilecek adam değilim."
+    },
+    {
+      "id": "6d103a3f",
+      "bank_id": "c0f75202",
+      "text": "Yüzyıllar önce bu adaya huzur ve kusursuz havayı bulmak için geldik. Ve ben burayı bir kez daha cennete çevireceğim."
+    },
+    {
+      "id": "6e103b92",
+      "bank_id": "c0f75202",
+      "text": "Hep aynı şey. Ne zaman ufacık bir şey ters gitse suç hep bende. Yağmur, güneş, kasaba bütçesinin zimmete geçirilmesi..."
+    },
+    {
+      "id": "70cf00b2",
+      "bank_id": "c0f75202",
+      "text": "Buz Totemi kullanılsın mı?"
+    },
+    {
+      "id": "787a482b",
+      "bank_id": "c0f75202",
+      "text": "Nereye gittiğini sanıyorsun sen?"
+    },
+    {
+      "id": "7c1c4fa5",
+      "bank_id": "c0f75202",
+      "text": "Knothole Adası'nın Büyük Donu"
+    },
+    {
+      "id": "7c97ecb8",
+      "bank_id": "c0f75202",
+      "text": "Adanın ne kadar soğuk olduğuna dair en ufak bir fikrin yok. Kışın bir gününe daha katlanamayacağım!"
+    },
+    {
+      "id": "7d97ee2b",
+      "bank_id": "c0f75202",
+      "text": "Halkım senin yardımın olmadan ölecek!"
+    },
+    {
+      "id": "7e97ef9e",
+      "bank_id": "c0f75202",
+      "text": "Denizaltım hakkında endişeleniyorsan, neredeyse tamamen güvenli olduğunu söyleyebilirim. Bizzat kendim icat ettim. İç rahatlatıcı değil mi?"
+    },
+    {
+      "id": "8e24cde0",
+      "bank_id": "c0f75202",
+      "text": "O silah berbat bir kadına aitti. Yeteneklerini üç Hava Tapınağı'nda sınamaya giderken köyün yarısını öldürmüştü. Son tapınaktan sağ çıkamadığını söylemekten mutluluk duyarım."
+    },
+    {
+      "id": "8efd33b5",
+      "bank_id": "c0f75202",
+      "text": "Bu kıyafeti giyen karanlık bir şahıs bir gün kasaba merkezinde belirdi ve tuhaf bir lisanla herkese lanetler savurmaya başladı. Bir avcı lafını bitiremeden boynuna bir zıpkın fırlattı da sorun halloldu."
+    },
+    {
+      "id": "8ff7745f",
+      "bank_id": "c0f75202",
+      "text": "Aptalca bir şey yapma şimdi. Benimle çalış, bu işten koca bir kese dolusu altın kazanırsın."
+    },
+    {
+      "id": "937aa068",
+      "bank_id": "c0f75202",
+      "text": "Ayaklarımın en son ne zaman kuru olduğunu hatırlamıyorum. Bir de millet dertleri var sanır!"
+    },
+    {
+      "id": "9386a45c",
+      "bank_id": "c0f75202",
+      "text": "Fırtına Totemi kullanılsın mı?"
+    },
+    {
+      "id": "947aa1db",
+      "bank_id": "c0f75202",
+      "text": "Bu adadaki bütün o işe yaramaz icatlar arasında taşınabilir tek bir yağmur kalkanı bile yok."
+    },
+    {
+      "id": "967aa521",
+      "bank_id": "c0f75202",
+      "text": "Asla mutlu olmuyorlar. \"Şef, hava sıcak olsun!\", \"Şef, yağmur yağdır!\", \"Şef, yağmuru durdur!\". Bense seçilmemiş zavallı bir memurum sadece!"
+    },
+    {
+      "id": "981a77db",
+      "bank_id": "c0f75202",
+      "text": "Knothole Adası Boğuluyor"
+    },
+    {
+      "id": "9cded418",
+      "bank_id": "c0f75202",
+      "text": "Benim suçum sayılmaz bu. Herkesin beni suçlamakta neden bu kadar ısrarcı olduğunu anlamıyorum!"
+    },
+    {
+      "id": "9cea910f",
+      "bank_id": "c0f75202",
+      "text": "Ah, geri döneceğini biliyordum!"
+    },
+    {
+      "id": "9ed8f500",
+      "bank_id": "c0f75202",
+      "text": "Ah, sen! Evet, dönmenin vakti gelmişti zaten. Bizi içinde bıraktığın şu pisliğe bir bak. Güzelim adamızı çöle çevirdin!"
+    },
+    {
+      "id": "9eded77e",
+      "bank_id": "c0f75202",
+      "text": "En azından yağmur yağmıyor. Bazı insanları memnun etmek imkânsız."
+    },
+    {
+      "id": "9fded8d1",
+      "bank_id": "c0f75202",
+      "text": "Halkın kalbine ve aklına önleyici bir darbe indirmeliyim..."
+    },
+    {
+      "id": "a0d8f866",
+      "bank_id": "c0f75202",
+      "text": "Fırtına Totemi'ni Yaz Tapınağı'ndan alıp getirerek başlayabilirsin. Susuzluktan yahut kişisel hijyen eksikliğinden ölmeden önce."
+    },
+    {
+      "id": "a1d8f9d9",
+      "bank_id": "c0f75202",
+      "text": "Ve bu tamamen senin eserin. Burada kurban olan benim. Ve bunu telafi etmeni talep ediyorum, hepimiz talep ediyoruz."
+    },
+    {
+      "id": "a6c4d7b5",
+      "bank_id": "c0f75202",
+      "text": "Jessica'ya katılın ve Knothole Adası halkının sevgisini kazanın."
+    },
+    {
+      "id": "b502f7ea",
+      "bank_id": "c0f75202",
+      "text": "Güzel, güzel. Yaz Anahtarı gömülü... şurada... bir yerlerde... Şey, onu senin için bulmamı beklemiyorsun herhalde?"
+    },
+    {
+      "id": "b59c5308",
+      "bank_id": "c0f75202",
+      "text": "Sus be ahmak!"
+    },
+    {
+      "id": "b73131f8",
+      "bank_id": "c0f75202",
+      "text": "Knothole Adası'na yağmur geri getirilsin mi?"
+    },
+    {
+      "id": "b79c566e",
+      "bank_id": "c0f75202",
+      "text": "Pşşt!"
+    },
+    {
+      "id": "b89c57c1",
+      "bank_id": "c0f75202",
+      "text": "Hâlâ neyi bekliyoruz?"
+    },
+    {
+      "id": "b99537dc",
+      "bank_id": "c0f75202",
+      "text": "Dönüş vaktin gelmişti zaten."
+    },
+    {
+      "id": "bee0c6e3",
+      "bank_id": "c0f75202",
+      "text": "Yağmurların alıp götürmediğini varsayarsak Fırtına Anahtarı şurada bir yerde gömülü olmalı."
+    },
+    {
+      "id": "bf5c0234",
+      "bank_id": "c0f75202",
+      "text": "Bizi kurtardın. Bunun adadaki herkes için ne anlama geldiğine dair en ufak bir fikrin yok. Sana ne kadar teşekkür etsek azdır."
+    },
+    {
+      "id": "bfe0c856",
+      "bank_id": "c0f75202",
+      "text": "Bu ulu işi yaparsan sen, şey... daima en büyük Kahramanımız olarak anılacaksın. Kesinlikle."
+    },
+    {
+      "id": "c1e13672",
+      "bank_id": "c0f75202",
+      "text": "[öksürür]"
+    },
+    {
+      "id": "c25c068d",
+      "bank_id": "c0f75202",
+      "text": "Seni lanet ahmak! Bana sırtını dönmeye nasıl cüret edersin? Bunun bedelini ödeyeceksin. Bir gün bunun bedelini mutlaka ödeyeceksin!"
+    },
+    {
+      "id": "c2e137e5",
+      "bank_id": "c0f75202",
+      "text": "Şimdi iyi dostum bir karara varana dek sessizlik içinde bekleyelim."
+    },
+    {
+      "id": "c3e13958",
+      "bank_id": "c0f75202",
+      "text": "Doğru olanı yapacağını biliyorum."
+    },
+    {
+      "id": "c4e13acb",
+      "bank_id": "c0f75202",
+      "text": "Katıl bana şimdi. Neyi bekliyorsun?"
+    },
+    {
+      "id": "c5e13cbe",
+      "bank_id": "c0f75202",
+      "text": "Ben değilsem onlara kim önderlik edecek peki? Sen mi? Sıradan bir dükkâncı parçası mı?"
+    },
+    {
+      "id": "c6e13e11",
+      "bank_id": "c0f75202",
+      "text": "O kudreti hak etmiyorsun. Bizi yeterince oradan oraya savurdun."
+    },
+    {
+      "id": "c7e13f84",
+      "bank_id": "c0f75202",
+      "text": "Aptal değilsin sen. Kudretin nerede yattığını biliyorsun."
+    },
+    {
+      "id": "c8e14177",
+      "bank_id": "c0f75202",
+      "text": "Bize daha fazla zorbalık etmesine izin verme!"
+    },
+    {
+      "id": "c9e142ea",
+      "bank_id": "c0f75202",
+      "text": "Evet, yardım et bize! Kendi hayatımızın kontrolünü istiyoruz!"
+    },
+    {
+      "id": "cb5a2f10",
+      "bank_id": "c0f75202",
+      "text": "Eh, denizaltı tamir edildi. Benimle Knothole Adası'na gelmeye hazır mısın? İnsanlar hâlâ donarak ölüyor."
+    },
+    {
+      "id": "d04b28a7",
+      "bank_id": "c0f75202",
+      "text": "Buz Totemi'ni Fırtına Mabedi'nden alacaksın o halde, öyle mi?"
+    },
+    {
+      "id": "d44c0124",
+      "bank_id": "c0f75202",
+      "text": "Ada Şefi'ne katılın ve 10.000 altın kazanın."
+    },
+    {
+      "id": "d62ca209",
+      "bank_id": "c0f75202",
+      "text": "Ada Şefi ile konuşun."
+    },
+    {
+      "id": "d62ca20a",
+      "bank_id": "c0f75202",
+      "text": "Buz Anahtarı'nı topraktan çıkarın."
+    },
+    {
+      "id": "d62ca20b",
+      "bank_id": "c0f75202",
+      "text": "Tapınağa girin ve totemi etkinleştirin."
+    },
+    {
+      "id": "d62ca20c",
+      "bank_id": "c0f75202",
+      "text": "Ada Şefi'ne dönün."
+    },
+    {
+      "id": "df114c14",
+      "bank_id": "c0f75202",
+      "text": "Knothole Adası bitmek bilmeyen bir fırtınadan muzdarip."
+    },
+    {
+      "id": "e1cc8ede",
+      "bank_id": "c0f75202",
+      "text": "Ahmak olmadığını görmek güzel. Bu ada benim ve daima öyle kalacak. İşte ödülün. Ve canın ne zaman isterse Hava Odası'na girmekte serbestsin."
+    },
+    {
+      "id": "e6cb1094",
+      "bank_id": "c0f75202",
+      "text": "Knothole Adası'nın Büyük Sıcağı"
+    },
+    {
+      "id": "ee0aef78",
+      "bank_id": "c0f75202",
+      "text": "Talimatlarını iyi yerine getirdin, seni tebrik ederim. Yeni alışveriş fırsatlarını ödülün sayabilirsin."
+    },
+    {
+      "id": "ef0af0eb",
+      "bank_id": "c0f75202",
+      "text": "Şimdi suyun toplanmasını denetlemeli ve herkesin gereken yağmur vergisini ödediğinden emin olmalıyım."
+    },
+    {
+      "id": "f10af431",
+      "bank_id": "c0f75202",
+      "text": "Ah, yağmur, ulu yağmur! Adayı bir kez daha kurtardım. Hepsi sana sunduğum o kurnazca rehberlik sayesinde."
+    },
+    {
+      "id": "f6b0a94b",
+      "bank_id": "c0f75202",
+      "text": "Bowerstone rıhtımında gizemli bir şahıs belirdi."
+    },
+    {
+      "id": "f87d1399",
+      "bank_id": "c0f75202",
+      "text": "Güneş Totemi kullanılsın mı?"
+    },
+    {
+      "id": "fcec542b",
+      "bank_id": "c0f75202",
+      "text": "Ada Şefi'ne dönün."
+    },
+    {
+      "id": "fcec542c",
+      "bank_id": "c0f75202",
+      "text": "Tapınağa girin ve totemi etkinleştirin."
+    },
+    {
+      "id": "fcec542d",
+      "bank_id": "c0f75202",
+      "text": "Güneş Anahtarı'nı topraktan çıkarın."
+    },
+    {
+      "id": "fcec542e",
+      "bank_id": "c0f75202",
+      "text": "Ada Şefi ile konuşun."
+    }
+  ]
+}

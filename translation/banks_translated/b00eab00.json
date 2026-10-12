@@ -1,0 +1,681 @@
+{
+  "bank_id": "b00eab00",
+  "total_strings": 135,
+  "strings": [
+    {
+      "id": "0002f768",
+      "bank_id": "b00eab00",
+      "text": "Benim aptal amcamın bile evi var yahu. Seninki nerede?"
+    },
+    {
+      "id": "0002f769",
+      "bank_id": "b00eab00",
+      "text": "Sokakta yaşamak ister gibi bir halim mi var? Bir ev tutsana!"
+    },
+    {
+      "id": "0002f76a",
+      "bank_id": "b00eab00",
+      "text": "Bir eve bile paran yetmezken benim sevgime nasıl yetecek acaba?"
+    },
+    {
+      "id": "0002f76b",
+      "bank_id": "b00eab00",
+      "text": "Evi barkı olmayan birinin bana kur yapmasına izin vereceğime cidden inanmıyorsun, değil mi?"
+    },
+    {
+      "id": "0002f76c",
+      "bank_id": "b00eab00",
+      "text": "Hâlâ ev yok mu? O zaman aşk da yok."
+    },
+    {
+      "id": "0002f76e",
+      "bank_id": "b00eab00",
+      "text": "Belki kendine ait bir yerin olsaydı..."
+    },
+    {
+      "id": "0002f76f",
+      "bank_id": "b00eab00",
+      "text": "Bir evin bile yokken seni ciddiye alamam."
+    },
+    {
+      "id": "19700188",
+      "bank_id": "b00eab00",
+      "text": "Bir düğün olabilmesi için önce uygun bir ikamete ihtiyacımız olacak."
+    },
+    {
+      "id": "19700189",
+      "bank_id": "b00eab00",
+      "text": "Evlenmeden önce düzgün bir yuvaya ihtiyacımız olduğunu biliyorsun, değil mi?"
+    },
+    {
+      "id": "1970018a",
+      "bank_id": "b00eab00",
+      "text": "Evimiz olmadan seninle evleneceğimi mi sanıyorsun?"
+    },
+    {
+      "id": "1970018b",
+      "bank_id": "b00eab00",
+      "text": "Başımızı sokacak bir kulübemiz olmadan nikâh kıymayız."
+    },
+    {
+      "id": "1970018c",
+      "bank_id": "b00eab00",
+      "text": "Yaşayacak bir damımız olmadan aynı çatı altına giremeyiz."
+    },
+    {
+      "id": "1970018d",
+      "bank_id": "b00eab00",
+      "text": "Bir aile kuracaksak bir eve ihtiyacımız olacak."
+    },
+    {
+      "id": "1970018e",
+      "bank_id": "b00eab00",
+      "text": "E, yüzüğü aldım madem, gidip kendimize bir ev seçelim mi?"
+    },
+    {
+      "id": "22700fd8",
+      "bank_id": "b00eab00",
+      "text": "Evli çiftlerin bir evi olması gerekmez miydi?"
+    },
+    {
+      "id": "22700fd9",
+      "bank_id": "b00eab00",
+      "text": "Artık evlendiğimize göre kendimize ait bir yerimiz olması gerekmez mi?"
+    },
+    {
+      "id": "22700fdb",
+      "bank_id": "b00eab00",
+      "text": "Çok mutluyum bebeğim ama bir ev almamız gerekmez mi?"
+    },
+    {
+      "id": "22700fdc",
+      "bank_id": "b00eab00",
+      "text": "Evlenmeden önce uygun bir yuva bulmamız gerekecek."
+    },
+    {
+      "id": "22700fdd",
+      "bank_id": "b00eab00",
+      "text": "Artık tek ihtiyacımız aşkımıza layık bir ev."
+    },
+    {
+      "id": "22700fde",
+      "bank_id": "b00eab00",
+      "text": "Başımızı bağlayacaksak bir çatı, duvarlar falan gerekecek, hepsi şart."
+    },
+    {
+      "id": "22700fdf",
+      "bank_id": "b00eab00",
+      "text": "Artık evlendiğimize göre kendimize ait bir yerimiz olması gerekmez mi?"
+    },
+    {
+      "id": "27e3bf58",
+      "bank_id": "b00eab00",
+      "text": "Birlikte olmamızın kaderimiz olduğunu sanmıştım ama yanılmışım. Düğünü iptal ediyorum."
+    },
+    {
+      "id": "27e3bf59",
+      "bank_id": "b00eab00",
+      "text": "Düşündüğüm gibi ruh eşi falan değilmişiz biz. Üzgünüm ama düğün iptal."
+    },
+    {
+      "id": "27e3bf5a",
+      "bank_id": "b00eab00",
+      "text": "Biliyor musun? Bu düğün işini iptal edelim. Artık istemiyorum."
+    },
+    {
+      "id": "27e3bf5b",
+      "bank_id": "b00eab00",
+      "text": "Bu ilişki artık bana göre değil. Düğün iptal."
+    },
+    {
+      "id": "27e3bf5c",
+      "bank_id": "b00eab00",
+      "text": "Artık başımızı bağlayamayız. Eskisi gibi sevmiyorum seni."
+    },
+    {
+      "id": "27e3bf5d",
+      "bank_id": "b00eab00",
+      "text": "Eskiden seni severdim ama artık değil. Korkarım düğün iptal."
+    },
+    {
+      "id": "27e3bf5e",
+      "bank_id": "b00eab00",
+      "text": "Çok üzgünüm ama birbirimizi sevmezken evlenmek doğru değil."
+    },
+    {
+      "id": "382fb4e0",
+      "bank_id": "b00eab00",
+      "text": "Bana karşı ne hissettiğini göster."
+    },
+    {
+      "id": "382fb4e1",
+      "bank_id": "b00eab00",
+      "text": "Aşkını ifade etmekten çekinme."
+    },
+    {
+      "id": "382fb4e2",
+      "bank_id": "b00eab00",
+      "text": "Bana ne kadar değer verdiğini göstersene?"
+    },
+    {
+      "id": "382fb4e5",
+      "bank_id": "b00eab00",
+      "text": "Bana ne kadar değer verdiğini göstersen benim için çok şey ifade ederdi."
+    },
+    {
+      "id": "382fb4e6",
+      "bank_id": "b00eab00",
+      "text": "Gerçekten değer verseydin bunu gösterirdin."
+    },
+    {
+      "id": "382fb4e7",
+      "bank_id": "b00eab00",
+      "text": "Bana karşı ne hissettiğini göstersene?"
+    },
+    {
+      "id": "4cd13ad1",
+      "bank_id": "b00eab00",
+      "text": "Biliyor musun, bir yüzüğümüz olsaydı evlenebilirdik."
+    },
+    {
+      "id": "4cd13ad2",
+      "bank_id": "b00eab00",
+      "text": "Bir yüzüğümüz olsaydı evlenebilirdik."
+    },
+    {
+      "id": "4cd13ad3",
+      "bank_id": "b00eab00",
+      "text": "Yüzüksüz nişanlanamazsın. Benden söylemesi."
+    },
+    {
+      "id": "4cd13ad4",
+      "bank_id": "b00eab00",
+      "text": "Bir yüzüğe hiç hayır demezdim hani. Evleneceğimiz anlamına gelen cinsten."
+    },
+    {
+      "id": "4cd13ad5",
+      "bank_id": "b00eab00",
+      "text": "Bir yüzüğe hiç hayır demezdim hani. Evleneceğimiz anlamına gelen cinsten."
+    },
+    {
+      "id": "57d14c00",
+      "bank_id": "b00eab00",
+      "text": "Biliyor musun, bir yüzüğümüz olsaydı evlenebilirdik."
+    },
+    {
+      "id": "57d14c02",
+      "bank_id": "b00eab00",
+      "text": "Bazı insanlar evleniyor biliyorsun değil mi? Tabii bazılarının da yüzükleri var."
+    },
+    {
+      "id": "57d14c03",
+      "bank_id": "b00eab00",
+      "text": "Bir yüzüğümüz olsaydı evlenebilirdik."
+    },
+    {
+      "id": "57d14c04",
+      "bank_id": "b00eab00",
+      "text": "Bir yüzüğe hiç hayır demezdim hani. Evleneceğimiz anlamına gelen cinsten."
+    },
+    {
+      "id": "57d14c05",
+      "bank_id": "b00eab00",
+      "text": "Yüzüksüz nişanlanamazsın. Benden söylemesi."
+    },
+    {
+      "id": "784b62b0",
+      "bank_id": "b00eab00",
+      "text": "Hadi oradan be, yaşayacak bir yerin bile yok senin."
+    },
+    {
+      "id": "784b62b1",
+      "bank_id": "b00eab00",
+      "text": "Evi barkı olmayan biriyle ilgileneceğimi mi sanıyorsun?"
+    },
+    {
+      "id": "784b62b2",
+      "bank_id": "b00eab00",
+      "text": "Yaşayacak bir yer bulduğun zaman geri gel."
+    },
+    {
+      "id": "784b62b4",
+      "bank_id": "b00eab00",
+      "text": "Böyle beş parasızken seni nasıl ciddiye alabilirim ki? Belki bir ev aldığında..."
+    },
+    {
+      "id": "784b62b5",
+      "bank_id": "b00eab00",
+      "text": "Evsizin teki benim ilgimi çekmeye mi çalışıyor? Şaka olmalı bu!"
+    },
+    {
+      "id": "784b62b6",
+      "bank_id": "b00eab00",
+      "text": "Sen mi?! Kendine ait bir evin bile yok senin!"
+    },
+    {
+      "id": "784b62b7",
+      "bank_id": "b00eab00",
+      "text": "Evsizlerle işim olmaz benim!"
+    },
+    {
+      "id": "814b7098",
+      "bank_id": "b00eab00",
+      "text": "Evsizin teki benim ilgimi çekmeye mi çalışıyor? Şaka olmalı bu!"
+    },
+    {
+      "id": "814b7099",
+      "bank_id": "b00eab00",
+      "text": "Böyle beş parasızken seni nasıl ciddiye alabilirim ki? Belki bir ev aldığında..."
+    },
+    {
+      "id": "814b709a",
+      "bank_id": "b00eab00",
+      "text": "Evsizlerle işim olmaz benim!"
+    },
+    {
+      "id": "814b709b",
+      "bank_id": "b00eab00",
+      "text": "Sen mi?! Kendine ait bir evin bile yok senin!"
+    },
+    {
+      "id": "814b709c",
+      "bank_id": "b00eab00",
+      "text": "Evi barkı olmayan biriyle ilgileneceğimi cidden sanıyor musun?"
+    },
+    {
+      "id": "814b709d",
+      "bank_id": "b00eab00",
+      "text": "Hadi oradan be, yaşayacak bir yerin bile yok senin."
+    },
+    {
+      "id": "814b709f",
+      "bank_id": "b00eab00",
+      "text": "Yaşayacak bir yer bulduğun zaman geri gel."
+    },
+    {
+      "id": "8b29a758",
+      "bank_id": "b00eab00",
+      "text": "Başımızı bağlayacaksak bir çatı, duvarlar falan gerekecek, hepsi şart."
+    },
+    {
+      "id": "8b29a759",
+      "bank_id": "b00eab00",
+      "text": "Artık evlendiğimize göre kendimize ait bir yerimiz olması gerekmez mi?"
+    },
+    {
+      "id": "8b29a75a",
+      "bank_id": "b00eab00",
+      "text": "Evlenmeden önce uygun bir yuva bulmamız gerekecek."
+    },
+    {
+      "id": "8b29a75b",
+      "bank_id": "b00eab00",
+      "text": "Artık tek ihtiyacımız aşkımıza layık bir ev."
+    },
+    {
+      "id": "8b29a75d",
+      "bank_id": "b00eab00",
+      "text": "Çok mutluyum tatlım ama bir ev almamız gerekmez mi?"
+    },
+    {
+      "id": "8b29a75e",
+      "bank_id": "b00eab00",
+      "text": "Evli çiftlerin bir evi olması gerekmez miydi?"
+    },
+    {
+      "id": "8b29a75f",
+      "bank_id": "b00eab00",
+      "text": "Artık evlendiğimize göre kendimize ait bir yerimiz olması gerekmez mi?"
+    },
+    {
+      "id": "95df8508",
+      "bank_id": "b00eab00",
+      "text": "Takı meraklısı biri değilimdir ama bu işi resmiyete dökmek için bir yüzüğe ne dersin?"
+    },
+    {
+      "id": "95df8509",
+      "bank_id": "b00eab00",
+      "text": "Yüzük yoksa evlilik de yok. Bu kadar basit canım."
+    },
+    {
+      "id": "95df850a",
+      "bank_id": "b00eab00",
+      "text": "Bir yüzük aşkımızı dünyaya ilan etmemizi sağlardı."
+    },
+    {
+      "id": "95df850b",
+      "bank_id": "b00eab00",
+      "text": "Bir yüzük alabilseydik düğün planlamaya başlayabilirdik."
+    },
+    {
+      "id": "95df850d",
+      "bank_id": "b00eab00",
+      "text": "Evlenmek için tek ihtiyacımız bir yüzük."
+    },
+    {
+      "id": "95df850e",
+      "bank_id": "b00eab00",
+      "text": "Seni öyle çok seviyorum ki. Sence de bir yüzük alma vaktimiz gelmedi mi?"
+    },
+    {
+      "id": "95df850f",
+      "bank_id": "b00eab00",
+      "text": "Bu işi resmiyete dökmek için bir yüzüğe ihtiyacımız olacak."
+    },
+    {
+      "id": "9629b888",
+      "bank_id": "b00eab00",
+      "text": "Evimiz olmadan seninle evleneceğimi mi sanıyorsun?"
+    },
+    {
+      "id": "9629b889",
+      "bank_id": "b00eab00",
+      "text": "Başımızı sokacak bir kulübemiz olmadan nikâh kıymayız."
+    },
+    {
+      "id": "9629b88a",
+      "bank_id": "b00eab00",
+      "text": "Bir düğün olabilmesi için önce uygun bir ikamete ihtiyacımız olacak."
+    },
+    {
+      "id": "9629b88b",
+      "bank_id": "b00eab00",
+      "text": "Evlenmeden önce düzgün bir yuvaya ihtiyacımız olduğunu biliyorsun, değil mi?"
+    },
+    {
+      "id": "9629b88c",
+      "bank_id": "b00eab00",
+      "text": "E, parmağımda bir yüzük var madem, gidip kendimize bir ev seçelim mi?"
+    },
+    {
+      "id": "9629b88e",
+      "bank_id": "b00eab00",
+      "text": "Yaşayacak bir damımız olmadan aynı çatı altına giremeyiz."
+    },
+    {
+      "id": "9629b88f",
+      "bank_id": "b00eab00",
+      "text": "Bir aile kuracaksak bir eve ihtiyacımız olacak."
+    },
+    {
+      "id": "9ef77068",
+      "bank_id": "b00eab00",
+      "text": "Evlenmek için fazla genç olduğuma karar verdim. Düğün iptal."
+    },
+    {
+      "id": "9ef77069",
+      "bank_id": "b00eab00",
+      "text": "Evlenip durulmam için etrafta fazla kadın var. Nişan bozuldu."
+    },
+    {
+      "id": "9ef7706a",
+      "bank_id": "b00eab00",
+      "text": "Eskiden benim için evrenin merkeziydin. Ama korkarım artık seni sevmiyorum. Nişanımızı atmalıyız."
+    },
+    {
+      "id": "9ef7706b",
+      "bank_id": "b00eab00",
+      "text": "Korkarım nişanımıza bir son vermeliyim. Artık ruh eşi falan değiliz."
+    },
+    {
+      "id": "9ef7706d",
+      "bank_id": "b00eab00",
+      "text": "Üzgünüm, seninle evlenemem. Artık seni sevmiyorum sadece."
+    },
+    {
+      "id": "9ef7706e",
+      "bank_id": "b00eab00",
+      "text": "Artık evlenmemiz gerektiğini düşünmüyorum. Üzgünüm."
+    },
+    {
+      "id": "9ef7706f",
+      "bank_id": "b00eab00",
+      "text": "Düğünü iptal etmeliyiz. Artık sana karşı öyle hissetmiyorum."
+    },
+    {
+      "id": "a0df96b8",
+      "bank_id": "b00eab00",
+      "text": "Baksana sen, bence şu parmağa bir yüzük takmanın vakti geldi artık."
+    },
+    {
+      "id": "a0df96b9",
+      "bank_id": "b00eab00",
+      "text": "Ne oldu? Bir nişan yüzüğü parası ödemeyecek kadar pinti misin?"
+    },
+    {
+      "id": "a0df96ba",
+      "bank_id": "b00eab00",
+      "text": "Ah, bir yüzük alıp nişanlanmak... Her zengin oğlanın hayalidir."
+    },
+    {
+      "id": "a0df96bb",
+      "bank_id": "b00eab00",
+      "text": "Aşkımızı ancak bir nişan yüzüğü pekiştirebilir."
+    },
+    {
+      "id": "a0df96bc",
+      "bank_id": "b00eab00",
+      "text": "Parmaklarımız üzerlerinde yüzüklerle daha mutlu görünmez miydi?"
+    },
+    {
+      "id": "a0df96be",
+      "bank_id": "b00eab00",
+      "text": "Arkadaşlarım durmadan neden bir nişan yüzüğüm olmadığını sorup duruyor..."
+    },
+    {
+      "id": "a0df96bf",
+      "bank_id": "b00eab00",
+      "text": "Keşke bana bir yüzük alacak kadar sevseydin beni..."
+    },
+    {
+      "id": "a9f78198",
+      "bank_id": "b00eab00",
+      "text": "Biliyor musun? Bu düğün işini iptal edelim. Artık istemiyorum."
+    },
+    {
+      "id": "a9f78199",
+      "bank_id": "b00eab00",
+      "text": "Bu ilişki artık bana göre değil. Düğün iptal."
+    },
+    {
+      "id": "a9f7819a",
+      "bank_id": "b00eab00",
+      "text": "Düşündüğüm gibi ruh eşi falan değilmişiz biz. Üzgünüm ama düğün iptal."
+    },
+    {
+      "id": "a9f7819b",
+      "bank_id": "b00eab00",
+      "text": "Birlikte olmamızın kaderimiz olduğunu sanmıştım ama yanılmışım. Düğünü iptal ediyorum."
+    },
+    {
+      "id": "a9f7819c",
+      "bank_id": "b00eab00",
+      "text": "Çok üzgünüm ama birbirimizi sevmezken evlenmek doğru değil."
+    },
+    {
+      "id": "a9f7819e",
+      "bank_id": "b00eab00",
+      "text": "Artık başımızı bağlayamayız. Eskisi gibi sevmiyorum seni."
+    },
+    {
+      "id": "a9f7819f",
+      "bank_id": "b00eab00",
+      "text": "Eskiden seni severdim ama artık değil. Korkarım düğün iptal."
+    },
+    {
+      "id": "e5a237c1",
+      "bank_id": "b00eab00",
+      "text": "Neden bir evin olduğunda geri gelmiyorsun?"
+    },
+    {
+      "id": "e5a237c2",
+      "bank_id": "b00eab00",
+      "text": "Bir evin olsaydı ilgilenebilirdim belki. Ama hadi ama, evsizin tekisin sen!"
+    },
+    {
+      "id": "e5a237c3",
+      "bank_id": "b00eab00",
+      "text": "Peki bir evin var mı? Hiç sanmıyordum zaten. Pek evlenilecek kumaş yok sende, değil mi?"
+    },
+    {
+      "id": "e5a237c4",
+      "bank_id": "b00eab00",
+      "text": "Evi barkı olmayan biriyle asla evlenemem."
+    },
+    {
+      "id": "e5a237c5",
+      "bank_id": "b00eab00",
+      "text": "Evleneceğim kişinin en azından bir evi olmalı."
+    },
+    {
+      "id": "e5a237c6",
+      "bank_id": "b00eab00",
+      "text": "Bir talipte aradığım bir şey varsa, o da ev sahibi olmasıdır."
+    },
+    {
+      "id": "e5a237c7",
+      "bank_id": "b00eab00",
+      "text": "Hayır, evi olmayan birinin aşkını aklımdan bile geçiremem."
+    },
+    {
+      "id": "ed3ffb40",
+      "bank_id": "b00eab00",
+      "text": "Arkadaşlarım durmadan neden bir nişan yüzüğüm olmadığını sorup duruyor..."
+    },
+    {
+      "id": "ed3ffb41",
+      "bank_id": "b00eab00",
+      "text": "Keşke bana bir yüzük alacak kadar sevseydin beni..."
+    },
+    {
+      "id": "ed3ffb42",
+      "bank_id": "b00eab00",
+      "text": "Ah, parmağım üzerinde yüzük olmadan öyle boynu bükük durmuyor mu sence de?"
+    },
+    {
+      "id": "ed3ffb44",
+      "bank_id": "b00eab00",
+      "text": "Ah, bir yüzük alıp nişanlanmak... Her genç kızın hayalidir."
+    },
+    {
+      "id": "ed3ffb45",
+      "bank_id": "b00eab00",
+      "text": "Aşkımızı ancak şu cici parmağımdaki bir yüzük pekiştirebilir."
+    },
+    {
+      "id": "ed3ffb46",
+      "bank_id": "b00eab00",
+      "text": "Baksana sen, bence şu parmağa bir yüzük takmanın vakti geldi artık."
+    },
+    {
+      "id": "ed3ffb47",
+      "bank_id": "b00eab00",
+      "text": "Ne oldu? Bir nişan yüzüğü parası ödemeyecek kadar pinti misin?"
+    },
+    {
+      "id": "f0a24970",
+      "bank_id": "b00eab00",
+      "text": "Neden bir evin olduğunda geri gelmiyorsun?"
+    },
+    {
+      "id": "f0a24972",
+      "bank_id": "b00eab00",
+      "text": "Peki bir evin var mı? Hiç sanmıyordum zaten. Pek evlenilecek kumaş yok sende, değil mi?"
+    },
+    {
+      "id": "f0a24973",
+      "bank_id": "b00eab00",
+      "text": "Bir evin bile yokken seni ciddiye almamı gerçekten bekleyemezsin."
+    },
+    {
+      "id": "f0a24974",
+      "bank_id": "b00eab00",
+      "text": "Evleneceğim kişinin en azından bir evi olmalı."
+    },
+    {
+      "id": "f0a24975",
+      "bank_id": "b00eab00",
+      "text": "Evi barkı olmayan biriyle asla evlenemem."
+    },
+    {
+      "id": "f0a24976",
+      "bank_id": "b00eab00",
+      "text": "Evi olmayan birinin aşkını aklımdan bile geçiremem."
+    },
+    {
+      "id": "f0a24977",
+      "bank_id": "b00eab00",
+      "text": "Bir talipte aradığım bir şey varsa, o da ev sahibi olmasıdır."
+    },
+    {
+      "id": "f502e638",
+      "bank_id": "b00eab00",
+      "text": "Sokakta yaşamak ister gibi bir halim mi var? Bir ev tutsana!"
+    },
+    {
+      "id": "f502e639",
+      "bank_id": "b00eab00",
+      "text": "Benim aptal amcamın bile evi var yahu. Seninki nerede?"
+    },
+    {
+      "id": "f502e63a",
+      "bank_id": "b00eab00",
+      "text": "Evi barkı olmayan birinin bana kur yapmasına izin vereceğime cidden inanmıyorsun, değil mi?"
+    },
+    {
+      "id": "f502e63b",
+      "bank_id": "b00eab00",
+      "text": "Bir eve bile paran yetmezken benim sevgime nasıl yetecek acaba?"
+    },
+    {
+      "id": "f502e63d",
+      "bank_id": "b00eab00",
+      "text": "Hâlâ ev yok mu? O zaman aşk da yok."
+    },
+    {
+      "id": "f502e63e",
+      "bank_id": "b00eab00",
+      "text": "Bir evin bile yokken seni ciddiye alamam."
+    },
+    {
+      "id": "f502e63f",
+      "bank_id": "b00eab00",
+      "text": "Belki kendine ait bir yerin olsaydı..."
+    },
+    {
+      "id": "f64009a8",
+      "bank_id": "b00eab00",
+      "text": "Bir yüzük aşkımızı dünyaya ilan etmemizi sağlardı."
+    },
+    {
+      "id": "f64009a9",
+      "bank_id": "b00eab00",
+      "text": "Bir yüzük alabilseydik düğün planlamaya başlayabilirdik."
+    },
+    {
+      "id": "f64009aa",
+      "bank_id": "b00eab00",
+      "text": "Takı meraklısı biri değilimdir ama bu işi resmiyete dökmek için bir yüzüğe ne dersin?"
+    },
+    {
+      "id": "f64009ab",
+      "bank_id": "b00eab00",
+      "text": "Yüzük yoksa evlilik de yok. Bu kadar basit canım."
+    },
+    {
+      "id": "f64009ac",
+      "bank_id": "b00eab00",
+      "text": "Seni öyle çok seviyorum ki. Sence de bir yüzük alma vaktimiz gelmedi mi?"
+    },
+    {
+      "id": "f64009ad",
+      "bank_id": "b00eab00",
+      "text": "Bu işi resmiyete dökmek için bir yüzüğe ihtiyacımız olacak."
+    },
+    {
+      "id": "f64009af",
+      "bank_id": "b00eab00",
+      "text": "Evlenmek için tek ihtiyacımız bir yüzük."
+    }
+  ]
+}

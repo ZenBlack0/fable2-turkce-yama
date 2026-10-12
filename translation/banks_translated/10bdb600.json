@@ -1,0 +1,736 @@
+{
+  "bank_id": "10bdb600",
+  "total_strings": 146,
+  "strings": [
+    {
+      "id": "014293fe",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Kulübesi"
+    },
+    {
+      "id": "02012f43",
+      "bank_id": "10bdb600",
+      "text": "Pek bir şeye benzemiyor çünkü zaten pek bir şey değil."
+    },
+    {
+      "id": "03461762",
+      "bank_id": "10bdb600",
+      "text": "1, Westcliff Rıhtımı, Westcliff"
+    },
+    {
+      "id": "0521e2dd",
+      "bank_id": "10bdb600",
+      "text": "Köpüren Testiler"
+    },
+    {
+      "id": "05535c97",
+      "bank_id": "10bdb600",
+      "text": "Oakfield Yolu No: 1b, Oakfield"
+    },
+    {
+      "id": "059d7365",
+      "bank_id": "10bdb600",
+      "text": "Savaşçıların paralarının yettiği en iyi silahı almadan Çile'ye girmesi aptallık olur."
+    },
+    {
+      "id": "06005f62",
+      "bank_id": "10bdb600",
+      "text": "Bu su değirmeni, Işık Tapınağı'nın yıllar boyunca aldığı bağışlar sayesinde inşa edildi."
+    },
+    {
+      "id": "06a2520c",
+      "bank_id": "10bdb600",
+      "text": "Wraithmarsh"
+    },
+    {
+      "id": "06a65e02",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Kulübesi"
+    },
+    {
+      "id": "079dfc57",
+      "bank_id": "10bdb600",
+      "text": "Nehir Kıyısı Yolu No: 1b, Oakfield"
+    },
+    {
+      "id": "08a31d57",
+      "bank_id": "10bdb600",
+      "text": "Westcliff"
+    },
+    {
+      "id": "08a37bb5",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Karavanı"
+    },
+    {
+      "id": "0a1732a6",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Karavanı"
+    },
+    {
+      "id": "0b1ded13",
+      "bank_id": "10bdb600",
+      "text": "Kelepir fiyata nadir ve kaliteli şaraplar!"
+    },
+    {
+      "id": "0bb5cbf4",
+      "bank_id": "10bdb600",
+      "text": "Okyanus Yürüyüşü No: 3, Oakfield"
+    },
+    {
+      "id": "0f644a0f",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Dövme Sanatçısı"
+    },
+    {
+      "id": "11cecdda",
+      "bank_id": "10bdb600",
+      "text": "Bu evin boş kaldığı bir dönemde, içeriden gelen garip sesler herkesi buranın perili olduğuna ikna etmişti. Işık Tapınağı'ndan keşişler evi arındırma umuduyla içeri girme cesaretini gösterdiklerinde, burayı mesken tutmuş bir grup hobbe ile karşılaştılar. Kokusu hâlâ tamamen çıkmış değil."
+    },
+    {
+      "id": "11e8d82c",
+      "bank_id": "10bdb600",
+      "text": "Oakfield Rüzgâr Değirmeni"
+    },
+    {
+      "id": "11e8e907",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Kulübesi"
+    },
+    {
+      "id": "11f8bc7b",
+      "bank_id": "10bdb600",
+      "text": "Barnum bu karavanları yaptırmak için ne kadar ödediyse değmiş: ortama gerçekten hava katıyorlar."
+    },
+    {
+      "id": "12edcb2c",
+      "bank_id": "10bdb600",
+      "text": "Westcliff'teki daha manzaralı kulübelerden biri."
+    },
+    {
+      "id": "13073b97",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Yiyecek Tezgâhı"
+    },
+    {
+      "id": "164919f3",
+      "bank_id": "10bdb600",
+      "text": "Oakfield Giysi Tezgâhı"
+    },
+    {
+      "id": "1946afbd",
+      "bank_id": "10bdb600",
+      "text": "Hobbe Kulübesi"
+    },
+    {
+      "id": "19907164",
+      "bank_id": "10bdb600",
+      "text": "Çile Yolu No: 1, Westcliff"
+    },
+    {
+      "id": "1c0df3e8",
+      "bank_id": "10bdb600",
+      "text": "Barnum'un Şarap İndirimi"
+    },
+    {
+      "id": "1f5b3f9c",
+      "bank_id": "10bdb600",
+      "text": "Eczacı Devasa İndirimi"
+    },
+    {
+      "id": "1fbe0e25",
+      "bank_id": "10bdb600",
+      "text": "Rüzgâr enerjisi artık hayatımızın bir parçası."
+    },
+    {
+      "id": "261f0718",
+      "bank_id": "10bdb600",
+      "text": "Cereyan yapıyor ama üzerinize üşüşen böcekler sizi sıcak tutacaktır."
+    },
+    {
+      "id": "26aeedee",
+      "bank_id": "10bdb600",
+      "text": "Barnum Yolu No: 5, Westcliff"
+    },
+    {
+      "id": "287a2b50",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Karavanı"
+    },
+    {
+      "id": "2975b279",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Kulübesi"
+    },
+    {
+      "id": "2b593b7c",
+      "bank_id": "10bdb600",
+      "text": "Bu sevimli küçük karavanlar, Barnum'un Westcliff kalkınma projesinin bir parçası olarak inşa edildi."
+    },
+    {
+      "id": "2c05bace",
+      "bank_id": "10bdb600",
+      "text": "Barnum Westcliff'i geliştirdiğinde, ziyaretçilere konaklama yeri olarak bu karavanları yaptırdı."
+    },
+    {
+      "id": "2eaa17a2",
+      "bank_id": "10bdb600",
+      "text": "Bu sevimli karavanlar, bir zamanlar Westcliff'i kaplayan derme çatma kulübelere kıyasla büyük bir gelişme."
+    },
+    {
+      "id": "30a6e0d7",
+      "bank_id": "10bdb600",
+      "text": "Büyük bir habislik alanı olan Eski Krallık katedralinin kalıntıları üzerine inşa edilen Tapınak, Albion mitolojisindeki en karanlık varlıklara tapan bir grup tarikatçı tarafından kuruldu. Bütün üyeleri ters giden bir ayinde öldükten sonra, Tapınak uzun yıllar terk edilmiş olarak kaldı. Ta ki Cornelius Grim adında biri tarafından restore edilene kadar."
+    },
+    {
+      "id": "3377dae5",
+      "bank_id": "10bdb600",
+      "text": "Oakfield halkı dövüş hünerleriyle tanınmasa da tarım arazilerine dadanan çeşitli yaratıklarla mücadele etmek için hâlâ silaha ihtiyaçları var."
+    },
+    {
+      "id": "3451f3f4",
+      "bank_id": "10bdb600",
+      "text": "İsteyebileceğiniz neredeyse her şey tek bir dükkânda."
+    },
+    {
+      "id": "370c0f0c",
+      "bank_id": "10bdb600",
+      "text": "Bloodstone Demircisi önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Her zamanki müşterilerin çoğu denizde ve dükkân sahibinin malları elden çıkarması gerek."
+    },
+    {
+      "id": "377cef28",
+      "bank_id": "10bdb600",
+      "text": "Yalnızca en kaliteli giysileri satar."
+    },
+    {
+      "id": "3cf2348f",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Çile Girişi"
+    },
+    {
+      "id": "3fb74c92",
+      "bank_id": "10bdb600",
+      "text": "Barnum Yolu No: 1, Westcliff"
+    },
+    {
+      "id": "3fd80ea3",
+      "bank_id": "10bdb600",
+      "text": "Kanlı Kütük"
+    },
+    {
+      "id": "4420686a",
+      "bank_id": "10bdb600",
+      "text": "Sarhoş korsanların malların çoğunu parçalamasının ardından Bloodstone Aktarı şu anda kıtlık çekiyor. İksirler pahalı ama elinizde fazladan varsa, burada onlar için iyi bir fiyat alırsınız."
+    },
+    {
+      "id": "44309e12",
+      "bank_id": "10bdb600",
+      "text": "Bloodstone Aktarı önümüzdeki birkaç gün boyunca küçük bir indirim yapıyor. Tüm iksirler indirimli."
+    },
+    {
+      "id": "4501a801",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Ivır Zıvır Tezgâhı"
+    },
+    {
+      "id": "46a3401b",
+      "bank_id": "10bdb600",
+      "text": "Madenciler Yolu No: 3, Westcliff"
+    },
+    {
+      "id": "498479ec",
+      "bank_id": "10bdb600",
+      "text": "Oakfield Silah Tezgâhı"
+    },
+    {
+      "id": "4aa32052",
+      "bank_id": "10bdb600",
+      "text": "Westcliff"
+    },
+    {
+      "id": "4f5cbffe",
+      "bank_id": "10bdb600",
+      "text": "Nehir Kıyısı Yolu No: 1, Oakfield"
+    },
+    {
+      "id": "503a60a0",
+      "bank_id": "10bdb600",
+      "text": "Bloodstone Aktarı önümüzdeki birkaç gün boyunca indirim yapıyor. İksir stoklamanın tam zamanı."
+    },
+    {
+      "id": "50542841",
+      "bank_id": "10bdb600",
+      "text": "Sarhoşken sendeleyerek eve dönmek için harika bir yer."
+    },
+    {
+      "id": "51e63784",
+      "bank_id": "10bdb600",
+      "text": "Burada korunmasız ilişkiye girmek istediğinizden emin misiniz?"
+    },
+    {
+      "id": "524c63e5",
+      "bank_id": "10bdb600",
+      "text": "Savaşçıların paralarının yettiği en iyi silahı almadan Çile'ye girmesi aptallık olur."
+    },
+    {
+      "id": "534ec0d7",
+      "bank_id": "10bdb600",
+      "text": "Çile Yolu No: 2, Westcliff"
+    },
+    {
+      "id": "540434f2",
+      "bank_id": "10bdb600",
+      "text": "Zengin Çile seyircilerinin atıştırmalıklarını aldıkları yer."
+    },
+    {
+      "id": "544fdec6",
+      "bank_id": "10bdb600",
+      "text": "Eczacı Dev Kıtlığı"
+    },
+    {
+      "id": "563e810e",
+      "bank_id": "10bdb600",
+      "text": "Nehir Kıyısı Yolu No: 1c, Oakfield"
+    },
+    {
+      "id": "5bfd24b6",
+      "bank_id": "10bdb600",
+      "text": "Bloodstone Aktarı önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Dükkân sahibi elindeki malları boşaltıyor."
+    },
+    {
+      "id": "5cf7e770",
+      "bank_id": "10bdb600",
+      "text": "Barnum Yolu No: 6, Westcliff"
+    },
+    {
+      "id": "5f6bc1f3",
+      "bank_id": "10bdb600",
+      "text": "Burası, çok satan yazar Meredith Sock'un kitaplarının çoğunu yazdığı kır evidir. Asıl ikametgâhı Bowerstone'un daha güzel evlerinden biri olsa da bazen bir haftadan fazla süreyle bir sonraki büyük eserini yazmak için gözlerden uzak bu eve çekilirdi."
+    },
+    {
+      "id": "5fb3703a",
+      "bank_id": "10bdb600",
+      "text": "Westcliff ziyaretçileri, bir Çile gösterisine katılmadan önce burada serinletici bir şeyler içebilir."
+    },
+    {
+      "id": "6087d531",
+      "bank_id": "10bdb600",
+      "text": "Işık Tapınağı"
+    },
+    {
+      "id": "60b07f76",
+      "bank_id": "10bdb600",
+      "text": "Burası biraz mezbelelik ama yağmurda uyumaktan iyidir."
+    },
+    {
+      "id": "61ea68b0",
+      "bank_id": "10bdb600",
+      "text": "Çiftçiler modaya pek aldırmaz ama burada rahat pek çok şey bulabilirsiniz."
+    },
+    {
+      "id": "62da55fa",
+      "bank_id": "10bdb600",
+      "text": "Madenciler Yolu No: 4, Westcliff"
+    },
+    {
+      "id": "6598a293",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Karavanı"
+    },
+    {
+      "id": "67713ed8",
+      "bank_id": "10bdb600",
+      "text": "Çile Yolu No: 6, Westcliff"
+    },
+    {
+      "id": "685883fe",
+      "bank_id": "10bdb600",
+      "text": "Demirci Devasa İndirimi"
+    },
+    {
+      "id": "69d2f8eb",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Plajı"
+    },
+    {
+      "id": "6efd6c14",
+      "bank_id": "10bdb600",
+      "text": "Bloodstone Aktarı şu anda hafif bir kıtlık çekiyor. İksirler her zamankinden biraz daha pahalı ama elinizde fazladan varsa, burada onlar için makul bir fiyat alırsınız."
+    },
+    {
+      "id": "704eed25",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Yiyecek Tezgâhı"
+    },
+    {
+      "id": "7404b3c5",
+      "bank_id": "10bdb600",
+      "text": "Madenciler Yolu No: 2, Westcliff"
+    },
+    {
+      "id": "74528fd4",
+      "bank_id": "10bdb600",
+      "text": "Çile Yolu No: 1, Westcliff"
+    },
+    {
+      "id": "7737776c",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Demircisi"
+    },
+    {
+      "id": "78edde20",
+      "bank_id": "10bdb600",
+      "text": "Demirci Büyük İndirimi"
+    },
+    {
+      "id": "7a9e5647",
+      "bank_id": "10bdb600",
+      "text": "Çile Yolu No: 5, Westcliff"
+    },
+    {
+      "id": "7b1666f6",
+      "bank_id": "10bdb600",
+      "text": "Çile Yolu No: 4, Westcliff"
+    },
+    {
+      "id": "7b263c9f",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Kulübesi"
+    },
+    {
+      "id": "816c44e5",
+      "bank_id": "10bdb600",
+      "text": "Nasırlar, sıcak güneşin altında tarlalarda çalışarak geçen nesiller nedeniyle hepsi muazzam ve pek de çekici olmayan bir fiziğe sahip geniş bir çiftçi ailesiydi."
+    },
+    {
+      "id": "84decb7f",
+      "bank_id": "10bdb600",
+      "text": "Başınızı sokacak bir çatı ve uyuyacak sıcak bir yer arıyorsanız, burası istediğinizin yarısını verecektir."
+    },
+    {
+      "id": "84fa1a2a",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Seyir Noktası"
+    },
+    {
+      "id": "8ba94c4f",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Karavanı"
+    },
+    {
+      "id": "8c3a49e6",
+      "bank_id": "10bdb600",
+      "text": "Gölgeler Tapınağı"
+    },
+    {
+      "id": "8d489c0a",
+      "bank_id": "10bdb600",
+      "text": "Westcliff"
+    },
+    {
+      "id": "8d4fbcdd",
+      "bank_id": "10bdb600",
+      "text": "Rookridge"
+    },
+    {
+      "id": "8ebdd657",
+      "bank_id": "10bdb600",
+      "text": "Okyanus Yürüyüşü No: 4, Oakfield"
+    },
+    {
+      "id": "8fcc2ffc",
+      "bank_id": "10bdb600",
+      "text": "Barnum Yolu No: 7, Westcliff"
+    },
+    {
+      "id": "90675af2",
+      "bank_id": "10bdb600",
+      "text": "Meyve Bahçesi Yolu No: 2, Oakfield"
+    },
+    {
+      "id": "90a1455c",
+      "bank_id": "10bdb600",
+      "text": "Bayan Plum, bazı anlatılara göre neredeyse yüz elli yaşına kadar yaşadı. Ancak bunu takip edebilecek durumdaki herkes ondan çok önce öldüğü için bu yaşın ne kadar doğru olduğunu kimse kesin olarak bilmiyor."
+    },
+    {
+      "id": "90cd454e",
+      "bank_id": "10bdb600",
+      "text": "Eczacı Kıtlığı"
+    },
+    {
+      "id": "90ec6819",
+      "bank_id": "10bdb600",
+      "text": "Barnum Yolu No: 2, Westcliff"
+    },
+    {
+      "id": "91af7edc",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Kulübesi"
+    },
+    {
+      "id": "91bb0e53",
+      "bank_id": "10bdb600",
+      "text": "Barnum Yolu No: 4, Westcliff"
+    },
+    {
+      "id": "92b211bc",
+      "bank_id": "10bdb600",
+      "text": "Nehir Kıyısı Yolu No: 2, Oakfield"
+    },
+    {
+      "id": "93c26a99",
+      "bank_id": "10bdb600",
+      "text": "İnsanlar Barnum'un planlarından birinin gerçekten meyve verdiğini gördüklerinde bayılma eğilimi gösterirler. Bu sevimli karavan tam da bunu yapmak için rahat bir yerdir."
+    },
+    {
+      "id": "95e50090",
+      "bank_id": "10bdb600",
+      "text": "Barnum Westcliff'i toparladı ve anlaşmanın bir parçası olarak bu güzel karavanları ekledi."
+    },
+    {
+      "id": "972f163c",
+      "bank_id": "10bdb600",
+      "text": "Westcliff halkı dövmeleri çok sever ve Çile yarışmacılarının iyi şans getirmesi için dövme yaptırması gelenektir."
+    },
+    {
+      "id": "9c5523a3",
+      "bank_id": "10bdb600",
+      "text": "Kumkazı"
+    },
+    {
+      "id": "9dc3d02a",
+      "bank_id": "10bdb600",
+      "text": "Kulübe standartlarına göre burası aslında fena bir yer sayılmaz."
+    },
+    {
+      "id": "9fcd7628",
+      "bank_id": "10bdb600",
+      "text": "Burada cinsel ilişkiye girmek istiyor musunuz?"
+    },
+    {
+      "id": "a9669b54",
+      "bank_id": "10bdb600",
+      "text": "Oakfield Yolu No: 2b, Oakfield"
+    },
+    {
+      "id": "ac6fe042",
+      "bank_id": "10bdb600",
+      "text": "Eczacı Büyük İndirimi"
+    },
+    {
+      "id": "ad6e1456",
+      "bank_id": "10bdb600",
+      "text": "Uyumak için en çekici, rahat veya hijyenik yer olmayabilir ama ucuzdur."
+    },
+    {
+      "id": "b1f49a97",
+      "bank_id": "10bdb600",
+      "text": "Barnum'un gençleşen bir Westcliff vizyonu her zaman bu şirin karavanları içeriyordu."
+    },
+    {
+      "id": "b57d6a2b",
+      "bank_id": "10bdb600",
+      "text": "Westcliff"
+    },
+    {
+      "id": "b62f6399",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Kulübesi"
+    },
+    {
+      "id": "b7117c0e",
+      "bank_id": "10bdb600",
+      "text": "Diğer dükkânların satamayacak kadar sosyetik olduğu her şeyi satıyor."
+    },
+    {
+      "id": "b856c81b",
+      "bank_id": "10bdb600",
+      "text": "Korunmanız yok. Korunmalı ilişkiye girmek istiyorsanız bir prezervatif satın almanız gerekecektir."
+    },
+    {
+      "id": "b9fbceed",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Kulübesi"
+    },
+    {
+      "id": "bb48bcca",
+      "bank_id": "10bdb600",
+      "text": "Çile Yolu No: 3, Westcliff"
+    },
+    {
+      "id": "c0d5a268",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Kulübesi"
+    },
+    {
+      "id": "c45195ef",
+      "bank_id": "10bdb600",
+      "text": "Plum Kır Evi"
+    },
+    {
+      "id": "c5ad2ec1",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Karavanı"
+    },
+    {
+      "id": "c5eb555d",
+      "bank_id": "10bdb600",
+      "text": "Oakfield Meyve ve Sebze Tezgâhı"
+    },
+    {
+      "id": "c89d8320",
+      "bank_id": "10bdb600",
+      "text": "Oakfield"
+    },
+    {
+      "id": "c96727ba",
+      "bank_id": "10bdb600",
+      "text": "Tüm Albion'un en taze mahsulleri, burada Oakfield'de yetiştirildi."
+    },
+    {
+      "id": "ca027471",
+      "bank_id": "10bdb600",
+      "text": "Okyanus Yürüyüşü No: 2, Oakfield"
+    },
+    {
+      "id": "ca0d475e",
+      "bank_id": "10bdb600",
+      "text": "Yakındaki mağaralara yaptığı çaresiz hac yolculuğu kendisini bir aydınlanma anına götüren Nurlu Albert tarafından kuruldu. Işık onunla orada konuştu ve Altın Meşe'yi orada keşfetti."
+    },
+    {
+      "id": "ca3824cc",
+      "bank_id": "10bdb600",
+      "text": "Burada satılan iksirlerin çoğu, varlıklı turistler tarafından Çile ziyaretlerinin bir hatırası olarak satın alınır."
+    },
+    {
+      "id": "ca48b380",
+      "bank_id": "10bdb600",
+      "text": "Oakfield halkının tarlada geçen zorlu bir günün ardından ferahlamak için gittiği yer. Tabii buraya sarhoş olmaya da gelirler."
+    },
+    {
+      "id": "cab593c4",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Atış Poligonu"
+    },
+    {
+      "id": "cd24e3b2",
+      "bank_id": "10bdb600",
+      "text": "Bloodstone Demircisi önümüzdeki birkaç gün boyunca indirim yapıyor. Her zamanki müşterilerin tümü denizde ve dükkân sahibinin elindeki malları çıkarması gerek."
+    },
+    {
+      "id": "ce260d4b",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Meyhanesi"
+    },
+    {
+      "id": "cfad884c",
+      "bank_id": "10bdb600",
+      "text": "Tedarik sorunları nedeniyle Bloodstone Aktarı şu anda büyük bir kıtlık çekiyor. İksirler pahalı ama elinizde fazladan varsa, burada onlar için iyi bir fiyat alırsınız."
+    },
+    {
+      "id": "d0cee758",
+      "bank_id": "10bdb600",
+      "text": "Eczacı Büyük Kıtlığı"
+    },
+    {
+      "id": "d64a885b",
+      "bank_id": "10bdb600",
+      "text": "Flört Odası"
+    },
+    {
+      "id": "d679f4fb",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Giysi Tezgâhı"
+    },
+    {
+      "id": "db02fe57",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Genel Mağazası"
+    },
+    {
+      "id": "e06190f8",
+      "bank_id": "10bdb600",
+      "text": "Madenciler Yolu No: 1, Westcliff"
+    },
+    {
+      "id": "e1a48cea",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Karavanı"
+    },
+    {
+      "id": "e1d2c2ff",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Simyacı Tezgâhı"
+    },
+    {
+      "id": "e1fe3cec",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Silah Tezgâhı"
+    },
+    {
+      "id": "e208fd04",
+      "bank_id": "10bdb600",
+      "text": "Westcliff'i mesken tutan ayaktakımı ve geceyi burada geçirecek kadar cesur olan Çile ziyaretçileri için mükemmel bir mesken."
+    },
+    {
+      "id": "e30898fe",
+      "bank_id": "10bdb600",
+      "text": "Çile Yolu No: 3, Westcliff"
+    },
+    {
+      "id": "e4b8e361",
+      "bank_id": "10bdb600",
+      "text": "Çile Yolu No: 2, Westcliff"
+    },
+    {
+      "id": "e689a6a4",
+      "bank_id": "10bdb600",
+      "text": "Bloodstone Demircisi önümüzdeki birkaç gün boyunca devasa bir indirim yapıyor. Her zamanki müşterilerin tümü denizde ve dükkân sahibinin elindeki malları çıkarması gerek."
+    },
+    {
+      "id": "eab377cb",
+      "bank_id": "10bdb600",
+      "text": "Westcliff Kulübesi"
+    },
+    {
+      "id": "effb2b80",
+      "bank_id": "10bdb600",
+      "text": "Eczacı İndirimi"
+    },
+    {
+      "id": "f0a1c7ec",
+      "bank_id": "10bdb600",
+      "text": "Milyon Nasır Evi"
+    },
+    {
+      "id": "f23d6e92",
+      "bank_id": "10bdb600",
+      "text": "Sock Evi"
+    },
+    {
+      "id": "f32eb480",
+      "bank_id": "10bdb600",
+      "text": "Bir bira ve turta alıp ardından Çile'yi ziyaret edin. Daha ne isteyebilirsiniz ki?"
+    },
+    {
+      "id": "f4bd9b34",
+      "bank_id": "10bdb600",
+      "text": "Çile dövüşçülerinin enerji toplamak, kalabalıkların ise atıştırmalık almak için geldikleri yer."
+    },
+    {
+      "id": "f5d33475",
+      "bank_id": "10bdb600",
+      "text": "Bu kulübe tamamen harap durumda, tam da bir kulübenin olması gerektiği gibi."
+    },
+    {
+      "id": "f7ee1a75",
+      "bank_id": "10bdb600",
+      "text": "Oakfield Su Değirmeni"
+    },
+    {
+      "id": "ff082e9d",
+      "bank_id": "10bdb600",
+      "text": "Barnum Yolu No: 3, Westcliff"
+    }
+  ]
+}

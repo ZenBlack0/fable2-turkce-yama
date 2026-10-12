@@ -1,0 +1,786 @@
+{
+  "bank_id": "b0b03602",
+  "total_strings": 156,
+  "strings": [
+    {
+      "id": "00ce9fb2",
+      "bank_id": "b0b03602",
+      "text": "Demircilik işi var mı acaba? Bildiğin var mı hiç?"
+    },
+    {
+      "id": "00ce9fb3",
+      "bank_id": "b0b03602",
+      "text": "Olabileceğim bir şey varsa o da demirciliktir. Buralarda bana göre bir iş var mı?"
+    },
+    {
+      "id": "00ce9fb4",
+      "bank_id": "b0b03602",
+      "text": "Çocukken demirci olmayı hayal ederdim. Bu hayali gerçekleştirme vakti geldi. Açık bir pozisyon duydun mu hiç?"
+    },
+    {
+      "id": "00ce9fb5",
+      "bank_id": "b0b03602",
+      "text": "Ah, bir demirci olmak ve erimiş çeliğin başında ter dökmek... Buralarda bu tarz işler var mı?"
+    },
+    {
+      "id": "00ce9fb7",
+      "bank_id": "b0b03602",
+      "text": "Bir şeylere vurmayı seviyorum. Benden harika bir demirci olurdu kesin."
+    },
+    {
+      "id": "07ceaab8",
+      "bank_id": "b0b03602",
+      "text": "Sence demirci olarak başarılı olabilir miyim? Nereden öğrenebilirim?"
+    },
+    {
+      "id": "07ceaab9",
+      "bank_id": "b0b03602",
+      "text": "Acaba demirci olabilir miyim... Bunun için kesin bir iş olmalı."
+    },
+    {
+      "id": "07ceaaba",
+      "bank_id": "b0b03602",
+      "text": "Albion'un ilk kadın demircisi olmaya karar verdim. Böyle bir iş için nereye gitmeliyim?"
+    },
+    {
+      "id": "07ceaabe",
+      "bank_id": "b0b03602",
+      "text": "Buralarda hiç demircilik işi var mı?"
+    },
+    {
+      "id": "07ceaabf",
+      "bank_id": "b0b03602",
+      "text": "Kuzenim işsiz bir demirci. Nereden iş bulabileceği konusunda bir fikrin var mı?"
+    },
+    {
+      "id": "14245460",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Pazarı'nı denemelisin."
+    },
+    {
+      "id": "14245461",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Pazarı'nı dene."
+    },
+    {
+      "id": "14245463",
+      "bank_id": "b0b03602",
+      "text": "Bunun için Bowerstone Pazarı genelde iyi bir yerdir."
+    },
+    {
+      "id": "14245466",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Pazarı'na bir şans ver."
+    },
+    {
+      "id": "14245467",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Pazarı'nı dene."
+    },
+    {
+      "id": "1b245f62",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Pazarı'nı dene."
+    },
+    {
+      "id": "1b245f63",
+      "bank_id": "b0b03602",
+      "text": "En iyi tercihin Bowerstone Pazarı olur."
+    },
+    {
+      "id": "1b245f64",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Pazarı'nı denedin mi?"
+    },
+    {
+      "id": "1b245f65",
+      "bank_id": "b0b03602",
+      "text": "Neden Bowerstone Pazarı'nı denemiyorsun?"
+    },
+    {
+      "id": "1b245f66",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Pazarı'na baktın mı?"
+    },
+    {
+      "id": "23a00a80",
+      "bank_id": "b0b03602",
+      "text": "Odun kırmakta nasıl bu kadar kötü olabilirsin?"
+    },
+    {
+      "id": "23a00a81",
+      "bank_id": "b0b03602",
+      "text": "Odunu bırak, bir dal parçasını bile kıramazsın sen."
+    },
+    {
+      "id": "23a00a84",
+      "bank_id": "b0b03602",
+      "text": "Odun kırmak ne kadar zor olabilir ki? Cidden."
+    },
+    {
+      "id": "23a00a86",
+      "bank_id": "b0b03602",
+      "text": "Odun kırmaya gelince baltayla pek becerikli olmadığını duydum."
+    },
+    {
+      "id": "23a00a87",
+      "bank_id": "b0b03602",
+      "text": "Dövüş konusunda tecrübeli birinin odun kırarken pek zorlanmayacağını düşünürdün. Ama sen hepimizi yanılttın."
+    },
+    {
+      "id": "28a012a0",
+      "bank_id": "b0b03602",
+      "text": "Daha odun bile kıramazken canavarları nasıl öldürüyorsun sen?"
+    },
+    {
+      "id": "28a012a1",
+      "bank_id": "b0b03602",
+      "text": "Hayatım buna bağlı olsa bile odunumu kırasın diye seni tutmam."
+    },
+    {
+      "id": "28a012a5",
+      "bank_id": "b0b03602",
+      "text": "Senin gibi biri nasıl odunu bu kadar kötü kırabilir?"
+    },
+    {
+      "id": "28a012a6",
+      "bank_id": "b0b03602",
+      "text": "Endişelenme, asla benden odun kırmanı istemeyeceğim. Beceriksizsin sen."
+    },
+    {
+      "id": "28a012a7",
+      "bank_id": "b0b03602",
+      "text": "Odun kırmaya çalışırken kendi bacağını kesmemiş olman büyük bir mucize."
+    },
+    {
+      "id": "30a2f86b",
+      "bank_id": "b0b03602",
+      "text": "Rookridge'e ne dersin? Evet, orayı dene."
+    },
+    {
+      "id": "30a2f86c",
+      "bank_id": "b0b03602",
+      "text": "Rookridge nasıl?"
+    },
+    {
+      "id": "35a3000a",
+      "bank_id": "b0b03602",
+      "text": "Rookridge'e bir şans ver."
+    },
+    {
+      "id": "35a3000c",
+      "bank_id": "b0b03602",
+      "text": "Rookridge'i bir dene."
+    },
+    {
+      "id": "4a50eca5",
+      "bank_id": "b0b03602",
+      "text": "Bower Gölü aradığın şeye sahip olabilir."
+    },
+    {
+      "id": "6b5db1f0",
+      "bank_id": "b0b03602",
+      "text": "Bilirsin ya, tam burada kasabada böyle bir iş olduğunu duydum sanırım."
+    },
+    {
+      "id": "6b5db1f1",
+      "bank_id": "b0b03602",
+      "text": "Tam burada, kasabada bir iş var."
+    },
+    {
+      "id": "6b5db1f3",
+      "bank_id": "b0b03602",
+      "text": "Şans bu ya, tam da bu kasabada açık bir iş var."
+    },
+    {
+      "id": "6b5db1f6",
+      "bank_id": "b0b03602",
+      "text": "Aslında kasabada açık bir iş var sanırım."
+    },
+    {
+      "id": "6b5db1f7",
+      "bank_id": "b0b03602",
+      "text": "Şans eseri tam burada kasabada bir iş var."
+    },
+    {
+      "id": "6ce1f108",
+      "bank_id": "b0b03602",
+      "text": "Barmenliğin için sana bir madalya vermeliler."
+    },
+    {
+      "id": "6ce1f109",
+      "bank_id": "b0b03602",
+      "text": "İçki doldurmayı kesinlikle biliyorsun!"
+    },
+    {
+      "id": "6ce1f10d",
+      "bank_id": "b0b03602",
+      "text": "Bana içkileri o kadar iyi servis ettin ki sızıp kaldım ve fark etmedim bile."
+    },
+    {
+      "id": "6ce1f10e",
+      "bank_id": "b0b03602",
+      "text": "Barın arkasında gerçek bir profesyonelsin."
+    },
+    {
+      "id": "6ce1f10f",
+      "bank_id": "b0b03602",
+      "text": "Barın arkasında sen varken bir şeyler içmek bir zevkti."
+    },
+    {
+      "id": "725dbcf2",
+      "bank_id": "b0b03602",
+      "text": "Tam bu kasabada iş bulabilirsin."
+    },
+    {
+      "id": "725dbcf3",
+      "bank_id": "b0b03602",
+      "text": "Evet, burada kasabada açık bir iş var."
+    },
+    {
+      "id": "725dbcf4",
+      "bank_id": "b0b03602",
+      "text": "Sanırım burada kasabada bir iş var."
+    },
+    {
+      "id": "725dbcf5",
+      "bank_id": "b0b03602",
+      "text": "Tam burada kasabada o tür bir iş için açık bir pozisyon yok muydu?"
+    },
+    {
+      "id": "725dbcf6",
+      "bank_id": "b0b03602",
+      "text": "Tam buralarda bir yerlerde onun için bir iş olduğuna oldukça eminim."
+    },
+    {
+      "id": "77e202b8",
+      "bank_id": "b0b03602",
+      "text": "İçki servis etme tarzın için sana bir madalya vermeliler. Gerçek bir profesyonel."
+    },
+    {
+      "id": "77e202b9",
+      "bank_id": "b0b03602",
+      "text": "Barmenlikten anlarım ve sen en iyilerin arasındasın."
+    },
+    {
+      "id": "77e202bc",
+      "bank_id": "b0b03602",
+      "text": "Daha önce kimsenin senin kadar iyi içki doldurduğunu görmedim."
+    },
+    {
+      "id": "77e202be",
+      "bank_id": "b0b03602",
+      "text": "Barmenliği adeta bir sanat formuna dönüştürdün."
+    },
+    {
+      "id": "77e202bf",
+      "bank_id": "b0b03602",
+      "text": "Bu kadar iyi bir barmen olacağını kim düşünürdü?"
+    },
+    {
+      "id": "862ebde7",
+      "bank_id": "b0b03602",
+      "text": "Brightwood'u dene."
+    },
+    {
+      "id": "8a2b7248",
+      "bank_id": "b0b03602",
+      "text": "Dürüst olmak gerekirse dövdüğün kılıçların hiçbirini kullanmak istemezdim."
+    },
+    {
+      "id": "8a2b724a",
+      "bank_id": "b0b03602",
+      "text": "Kaba olmak istemem ama bir daha asla demircilik yapmaya kalkışmamalısın."
+    },
+    {
+      "id": "8a2b724b",
+      "bank_id": "b0b03602",
+      "text": "Bir demirciye ihtiyacım olursa başka birine giderim."
+    },
+    {
+      "id": "8a2b724c",
+      "bank_id": "b0b03602",
+      "text": "Yaptığın tüm kılıçların kullanılır kullanılmaz kırıldığını duydum."
+    },
+    {
+      "id": "8a2b724d",
+      "bank_id": "b0b03602",
+      "text": "Bırak bir kılıcı, bir parça hurda metali bile dövemezsin sen."
+    },
+    {
+      "id": "8d2ec8e2",
+      "bank_id": "b0b03602",
+      "text": "Brightwood'a gitmelisin."
+    },
+    {
+      "id": "8d2ec8e4",
+      "bank_id": "b0b03602",
+      "text": "Neden Brightwood'u denemiyorsun?"
+    },
+    {
+      "id": "8f2b7a69",
+      "bank_id": "b0b03602",
+      "text": "Senin yerinde olsam başka bir meslek düşünürdüm."
+    },
+    {
+      "id": "8f2b7a6a",
+      "bank_id": "b0b03602",
+      "text": "Bu kasabanın gördüğü en kötü demircilerden birisin."
+    },
+    {
+      "id": "8f2b7a6b",
+      "bank_id": "b0b03602",
+      "text": "Demir ocağından gerçekten uzak durmalısın. Bu iş sana göre değil."
+    },
+    {
+      "id": "8f2b7a6c",
+      "bank_id": "b0b03602",
+      "text": "Senin gibi birinin düzgün vurabileceğini sanırdın ama berbat bir demircisin."
+    },
+    {
+      "id": "8f2b7a6d",
+      "bank_id": "b0b03602",
+      "text": "Demirci olmayı nerede öğrendin sen? Çünkü paranı geri istemelisin."
+    },
+    {
+      "id": "9ccadc18",
+      "bank_id": "b0b03602",
+      "text": "Bunun için Bloodstone'u denemek isteyebilirsin."
+    },
+    {
+      "id": "9ccadc1a",
+      "bank_id": "b0b03602",
+      "text": "Bloodstone'u denedin mi?"
+    },
+    {
+      "id": "9ccadc1b",
+      "bank_id": "b0b03602",
+      "text": "Bloodstone'a gitmeyi dene."
+    },
+    {
+      "id": "9ccadc1c",
+      "bank_id": "b0b03602",
+      "text": "Bloodstone iyi bir tercihtir."
+    },
+    {
+      "id": "9ccadc1d",
+      "bank_id": "b0b03602",
+      "text": "Bloodstone'u dene."
+    },
+    {
+      "id": "a1cae439",
+      "bank_id": "b0b03602",
+      "text": "Neden Bloodstone'u denemiyorsun?"
+    },
+    {
+      "id": "a1cae43a",
+      "bank_id": "b0b03602",
+      "text": "Bloodstone'un güvenli bir tercih olduğunu söyleyebilirim."
+    },
+    {
+      "id": "a1cae43b",
+      "bank_id": "b0b03602",
+      "text": "Bloodstone'a ne dersin?"
+    },
+    {
+      "id": "a1cae43c",
+      "bank_id": "b0b03602",
+      "text": "Bloodstone'u denedin mi?"
+    },
+    {
+      "id": "a1cae43d",
+      "bank_id": "b0b03602",
+      "text": "Bloodstone'a ne dersin?"
+    },
+    {
+      "id": "b5d9d068",
+      "bank_id": "b0b03602",
+      "text": "Bana yanlış içkiyi servis ettin!"
+    },
+    {
+      "id": "b5d9d06a",
+      "bank_id": "b0b03602",
+      "text": "Neden asla istediğim içkileri vermiyorsun?"
+    },
+    {
+      "id": "b5d9d06b",
+      "bank_id": "b0b03602",
+      "text": "İçki servisi yaparken ortalığı fena karıştırdın, değil mi?"
+    },
+    {
+      "id": "b5d9d06c",
+      "bank_id": "b0b03602",
+      "text": "Daha kötü bir barmen olamazdın."
+    },
+    {
+      "id": "b5d9d06d",
+      "bank_id": "b0b03602",
+      "text": "Herhangi bir içkiyi doğru servis edebilmiş olman inanılmaz. Yoksa hepsini mi yanlış verdin?"
+    },
+    {
+      "id": "b818deaa",
+      "bank_id": "b0b03602",
+      "text": "Nereden odunculuk işi bulabilirim?"
+    },
+    {
+      "id": "b818deab",
+      "bank_id": "b0b03602",
+      "text": "Bedavaya odun kırmaktan bıktım, nereden parasını alabilirim?"
+    },
+    {
+      "id": "b818deac",
+      "bank_id": "b0b03602",
+      "text": "Kariyer değişikliği istiyorum. Nereden biraz odunculuk işi bulabilirim?"
+    },
+    {
+      "id": "b818dead",
+      "bank_id": "b0b03602",
+      "text": "Oduncu olacak kadar güçlü olduğumu söylerdim, sence de öyle değil mi? Sadece bu işi yapacak bir yer bulmam gerek."
+    },
+    {
+      "id": "b818deae",
+      "bank_id": "b0b03602",
+      "text": "Dün gece rüyamda ağaçlar gördüm ve şimdi canım gerçekten bir odunculuk işi istiyor."
+    },
+    {
+      "id": "bad9d809",
+      "bank_id": "b0b03602",
+      "text": "Gerçekten içki doldurmana izin verilmemeli."
+    },
+    {
+      "id": "bad9d80a",
+      "bank_id": "b0b03602",
+      "text": "Barmenlik için yaratıldığını sanmıyorum."
+    },
+    {
+      "id": "bad9d80b",
+      "bank_id": "b0b03602",
+      "text": "Elinde tam bir talimat listesi olsa bile doğru içkiyi dolduramazsın."
+    },
+    {
+      "id": "bad9d80c",
+      "bank_id": "b0b03602",
+      "text": "Tüm siparişleri bilerek mi yanlış getiriyorsun yoksa sadece beceriksiz misin?"
+    },
+    {
+      "id": "bad9d80d",
+      "bank_id": "b0b03602",
+      "text": "Beni sarhoş eden en kötü barmensin."
+    },
+    {
+      "id": "c061d4e1",
+      "bank_id": "b0b03602",
+      "text": "Brightwood'u dene."
+    },
+    {
+      "id": "c061d4e4",
+      "bank_id": "b0b03602",
+      "text": "Brightwood en iyi tercihin olabilir."
+    },
+    {
+      "id": "c061d4e7",
+      "bank_id": "b0b03602",
+      "text": "Brightwood en iyi tercihin olabilir."
+    },
+    {
+      "id": "c118ecf8",
+      "bank_id": "b0b03602",
+      "text": "Açık havada, odun kırarak geçen bir hayat hayal edebiliyor musun? Böyle işler duydun mu hiç?"
+    },
+    {
+      "id": "c118ecf9",
+      "bank_id": "b0b03602",
+      "text": "Tüm hayatım boyunca bir oduncu olmak istedim ve sonunda hayalimin peşinden gidecek cesareti buldum. Ama nereden iş bulabilirim?"
+    },
+    {
+      "id": "c118ecfb",
+      "bank_id": "b0b03602",
+      "text": "Ne zaman bir ağaç görsem onu küçük parçalara ayırmak istiyorum. Bildiğin hiç odunculuk işi var mı?"
+    },
+    {
+      "id": "c118ecfe",
+      "bank_id": "b0b03602",
+      "text": "Ağaçlardan nefret ediyorum. Nereden oduncu olarak iş bulabilirim?"
+    },
+    {
+      "id": "c118ecff",
+      "bank_id": "b0b03602",
+      "text": "Odunculukta şansımı deneyebilirim. Hiçbir yerin işe alım yaptığını biliyor musun?"
+    },
+    {
+      "id": "c23b5882",
+      "bank_id": "b0b03602",
+      "text": "İçkime yetecek kadar altın kazanmam gerek. İçki servis ederek nerede para kazanabileceğim konusunda bir fikrin var mı?"
+    },
+    {
+      "id": "c23b5883",
+      "bank_id": "b0b03602",
+      "text": "Hiç meyhane işi biliyor musun?"
+    },
+    {
+      "id": "c23b5885",
+      "bank_id": "b0b03602",
+      "text": "Nerede meyhane işi bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "c561dc80",
+      "bank_id": "b0b03602",
+      "text": "Brightwood'a gitmelisin."
+    },
+    {
+      "id": "c561dc85",
+      "bank_id": "b0b03602",
+      "text": "Senin yerinde olsam Brightwood'u denerdim."
+    },
+    {
+      "id": "c561dc86",
+      "bank_id": "b0b03602",
+      "text": "Brightwood en iyi tercihin olabilir."
+    },
+    {
+      "id": "c84d2830",
+      "bank_id": "b0b03602",
+      "text": "Odun kırarken gördüm seni. Muhteşem bir gösteriydi."
+    },
+    {
+      "id": "c84d2831",
+      "bank_id": "b0b03602",
+      "text": "Daha önce kimsenin senin kadar iyi odun kırdığını görmedim."
+    },
+    {
+      "id": "c84d2833",
+      "bank_id": "b0b03602",
+      "text": "Kimsenin senin gibi odun kırdığını gördüğümü sanmıyorum."
+    },
+    {
+      "id": "c84d2836",
+      "bank_id": "b0b03602",
+      "text": "Sen bir ahşap sanatçısısın. Harika beceriler."
+    },
+    {
+      "id": "c84d2837",
+      "bank_id": "b0b03602",
+      "text": "Ne zaman biraz odun kırılması gerekse kime gideceğimi biliyorum. Bu konuda doğuştan yeteneklisin."
+    },
+    {
+      "id": "c93b6388",
+      "bank_id": "b0b03602",
+      "text": "Nereden içki servisi işi bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "c93b6389",
+      "bank_id": "b0b03602",
+      "text": "Meyhanelerde ve hanlarda o kadar çok vakit geçiriyorum ki... Belki de hayatımı içki servis ederek kazanmayı denemeliyim. Ama nerede?"
+    },
+    {
+      "id": "c93b638a",
+      "bank_id": "b0b03602",
+      "text": "İçki doldurmaya bayılırım ben. Acaba barmenlik işi bulabilir miyim?"
+    },
+    {
+      "id": "c93b638e",
+      "bank_id": "b0b03602",
+      "text": "Hayalimdeki iş bir meyhanede içki servisi yapmak. Nerede iş bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "c93b638f",
+      "bank_id": "b0b03602",
+      "text": "Barmen alan hiç meyhane biliyor musun?"
+    },
+    {
+      "id": "cf4d3332",
+      "bank_id": "b0b03602",
+      "text": "Macera işlerini bırakıp tam zamanlı bir oduncu olmalısın."
+    },
+    {
+      "id": "cf4d3333",
+      "bank_id": "b0b03602",
+      "text": "Senin kadar iyi odun kıran kimse yok."
+    },
+    {
+      "id": "cf4d3334",
+      "bank_id": "b0b03602",
+      "text": "Belki bir gün benim için de odun kırarsın. Bu konuda doğuştan yetenekli olduğunu duydum."
+    },
+    {
+      "id": "cf4d3335",
+      "bank_id": "b0b03602",
+      "text": "Eğer maceracılığı bırakmaya karar verirsen, odunculuk dolu bir hayat seni bekliyor."
+    },
+    {
+      "id": "cf4d3336",
+      "bank_id": "b0b03602",
+      "text": "Sen etraftayken Albion'un ağaçları güvende değil. Yaman bir oduncusun."
+    },
+    {
+      "id": "d0b441b0",
+      "bank_id": "b0b03602",
+      "text": "Hiç bilmiyorum, üzgünüm."
+    },
+    {
+      "id": "d0b441b1",
+      "bank_id": "b0b03602",
+      "text": "Hiç iş duymadım, korkarım."
+    },
+    {
+      "id": "d0b441b2",
+      "bank_id": "b0b03602",
+      "text": "Hmm, buralarda öyle bir iş bilmiyorum."
+    },
+    {
+      "id": "d0b441b6",
+      "bank_id": "b0b03602",
+      "text": "Böyle bir iş bilmiyorum."
+    },
+    {
+      "id": "d0b441b7",
+      "bank_id": "b0b03602",
+      "text": "Buralarda hiç olduğunu sanmıyorum."
+    },
+    {
+      "id": "d9b44f9a",
+      "bank_id": "b0b03602",
+      "text": "Bunun için hiç iş bilmiyorum."
+    },
+    {
+      "id": "d9b44f9b",
+      "bank_id": "b0b03602",
+      "text": "Buralarda hiç iş duymadım."
+    },
+    {
+      "id": "d9b44f9c",
+      "bank_id": "b0b03602",
+      "text": "Bildiğim kadarıyla böyle bir iş mevcut değil."
+    },
+    {
+      "id": "d9b44f9d",
+      "bank_id": "b0b03602",
+      "text": "Üzgünüm, bildiğim kadarıyla buralarda hiçbir şey yok."
+    },
+    {
+      "id": "d9b44f9f",
+      "bank_id": "b0b03602",
+      "text": "Buralarda öyle bir iş olduğunu sanmıyorum."
+    },
+    {
+      "id": "e73cb9f3",
+      "bank_id": "b0b03602",
+      "text": "Rookridge'e bir şans vermelisin."
+    },
+    {
+      "id": "ebf9bf61",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Eski Şehri'ne gitmelisin."
+    },
+    {
+      "id": "ebf9bf62",
+      "bank_id": "b0b03602",
+      "text": "En iyi tercihin muhtemelen Bowerstone Eski Şehri olur."
+    },
+    {
+      "id": "ebf9bf63",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Eski Şehri'ni dene."
+    },
+    {
+      "id": "ebf9bf64",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Eski Şehri'ne bir şans ver."
+    },
+    {
+      "id": "ebf9bf65",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Eski Şehri'ne gitmelisin."
+    },
+    {
+      "id": "ee3cc4f8",
+      "bank_id": "b0b03602",
+      "text": "Rookridge'i gerçekten denemelisin."
+    },
+    {
+      "id": "ee3cc4fa",
+      "bank_id": "b0b03602",
+      "text": "Rookridge'i denemelisin."
+    },
+    {
+      "id": "ee3cc4ff",
+      "bank_id": "b0b03602",
+      "text": "Rookridge'e gitmelisin."
+    },
+    {
+      "id": "f3498212",
+      "bank_id": "b0b03602",
+      "text": "Demir ocağı için doğmuşsun sen."
+    },
+    {
+      "id": "f3498213",
+      "bank_id": "b0b03602",
+      "text": "Sen demirci olmak için doğmuşsun."
+    },
+    {
+      "id": "f3498214",
+      "bank_id": "b0b03602",
+      "text": "Buralarda senden daha iyi çok az demirci olduğunu söylüyorlar."
+    },
+    {
+      "id": "f3498215",
+      "bank_id": "b0b03602",
+      "text": "Damarlarında demircilik kanı olmalı. Ocakta doğuştan yeteneklisin."
+    },
+    {
+      "id": "f3498217",
+      "bank_id": "b0b03602",
+      "text": "Bu kasabanın gördüğü en iyi demirci olmalısın."
+    },
+    {
+      "id": "f6f9d090",
+      "bank_id": "b0b03602",
+      "text": "Neden Bowerstone Eski Şehri'ne gitmiyorsun?"
+    },
+    {
+      "id": "f6f9d092",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Eski Şehri'ne gitmelisin."
+    },
+    {
+      "id": "f6f9d093",
+      "bank_id": "b0b03602",
+      "text": "Senin yerinde olsam Bowerstone Eski Şehri'ne giderdim."
+    },
+    {
+      "id": "f6f9d094",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Eski Şehri'ne git."
+    },
+    {
+      "id": "f6f9d095",
+      "bank_id": "b0b03602",
+      "text": "Bowerstone Eski Şehri'ni dene."
+    },
+    {
+      "id": "fa498d18",
+      "bank_id": "b0b03602",
+      "text": "O kılıçları dövme tarzın mucizeden farksız."
+    },
+    {
+      "id": "fa498d19",
+      "bank_id": "b0b03602",
+      "text": "Kaç tane harika demirci olan maceracı tanıyorsun? Eh, sen onlardan birisin."
+    },
+    {
+      "id": "fa498d1a",
+      "bank_id": "b0b03602",
+      "text": "İşte bu kasabanın gördüğü en iyi demirci geçiyor."
+    },
+    {
+      "id": "fa498d1e",
+      "bank_id": "b0b03602",
+      "text": "Etraftaki en iyi kılıçları sen yapıyorsun."
+    },
+    {
+      "id": "fa498d1f",
+      "bank_id": "b0b03602",
+      "text": "Bir gün bir kılıca ihtiyacım olursa, onu senin yaptığından emin olacağım."
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "bank_id": "00f69600",
+  "total_strings": 129,
+  "strings": [
+    {
+      "id": "01893356",
+      "bank_id": "00f69600",
+      "text": "Standart beyaz boyadan bin kat daha beyaz."
+    },
+    {
+      "id": "025cc278",
+      "bank_id": "00f69600",
+      "text": "Eldivenler"
+    },
+    {
+      "id": "05136adb",
+      "bank_id": "00f69600",
+      "text": "Palto"
+    },
+    {
+      "id": "06e99ead",
+      "bank_id": "00f69600",
+      "text": "Kuyu Suyu"
+    },
+    {
+      "id": "081a46da",
+      "bank_id": "00f69600",
+      "text": "Bu sulu ve leziz lokmalar, insan dillerinin algılayamayacağı kadar yüksek tat frekanslarına sahip nadir çeşniler içerir."
+    },
+    {
+      "id": "0869ea1c",
+      "bank_id": "00f69600",
+      "text": "Taze ezilmiş al kırkayaklardan elde edilen açık kırmızı bir boya. Çoğunlukla etobur kuzenleriyle karıştırılan al kırkayaklar, küçük çocukları sadece eğlence olsun diye yutan otoburlardır."
+    },
+    {
+      "id": "0ab011ba",
+      "bank_id": "00f69600",
+      "text": "Muhafaza Tasması"
+    },
+    {
+      "id": "0b4ff451",
+      "bank_id": "00f69600",
+      "text": "Bu yatıştırıcı kırık beyaz boya, popüler Beyaz Wraithmartian kokteylinde kritik ve son derece zehirli bir malzemedir."
+    },
+    {
+      "id": "0c5df6f6",
+      "bank_id": "00f69600",
+      "text": "Endişelenmeyin, bu sadece geçici bir heves.\nTasmayı köpeğinize takmak için envanterinizden kullanın. Bu ayrıca ona istediğiniz zaman yeni bir isim vermenizi sağlar."
+    },
+    {
+      "id": "0c7addf6",
+      "bank_id": "00f69600",
+      "text": "Halk arasında sevgiyle 'doğanın en yenilebilir taşları' olarak bilinen meyvenin kurutulup işlenmiş suyu."
+    },
+    {
+      "id": "0d9b4ef4",
+      "bank_id": "00f69600",
+      "text": "Morluk Boyası"
+    },
+    {
+      "id": "0e0cc91b",
+      "bank_id": "00f69600",
+      "text": "Zulümsüz: Bu zengin boyanın üretiminde hiçbir gerçek kahve zarar görmemiştir. Ezilmiş sincaplardan yapılmıştır."
+    },
+    {
+      "id": "1349c1b9",
+      "bank_id": "00f69600",
+      "text": "Başlık"
+    },
+    {
+      "id": "13873e24",
+      "bank_id": "00f69600",
+      "text": "Proteini yüksek, ahlakı düşük."
+    },
+    {
+      "id": "147ea468",
+      "bank_id": "00f69600",
+      "text": "Köpek İksiri"
+    },
+    {
+      "id": "14a5786a",
+      "bank_id": "00f69600",
+      "text": "Aysız Geceyarısı Boyası"
+    },
+    {
+      "id": "198e02f3",
+      "bank_id": "00f69600",
+      "text": "İnsanların bir noktada yıkanmış olabileceğinizi kabul etmesini sağlayan o taşlanmış görünüm için."
+    },
+    {
+      "id": "1c9993c8",
+      "bank_id": "00f69600",
+      "text": "Cesaret Vakfı'nın cesur erkek ve kadınları tarafından onaylanmış çevre dostu bir karışım."
+    },
+    {
+      "id": "1d1c6b93",
+      "bank_id": "00f69600",
+      "text": "Güneş Işığı Sarısı Boyası"
+    },
+    {
+      "id": "21dcad6f",
+      "bank_id": "00f69600",
+      "text": "Gübre Kahvesi Boyası"
+    },
+    {
+      "id": "228d037f",
+      "bank_id": "00f69600",
+      "text": "Muzların sıkılacak suyu yok mu? Böyle önemsiz ayrıntılara takılmayın; bu tatlı karışım hem sağlıklı hem de lezzetlidir."
+    },
+    {
+      "id": "2511b5b3",
+      "bank_id": "00f69600",
+      "text": "Çılgınlık İksiri"
+    },
+    {
+      "id": "270edd09",
+      "bank_id": "00f69600",
+      "text": "Yiğit İntikamcı Pembesi Boyası"
+    },
+    {
+      "id": "276b1a8e",
+      "bank_id": "00f69600",
+      "text": "Kendinizi 'meyhanedeki iriyarı herife yapılan talihsiz bir el hareketinin' parlak mor rengine büründürün."
+    },
+    {
+      "id": "27fb522b",
+      "bank_id": "00f69600",
+      "text": "Renk kişiden kişiye değişme eğilimindedir."
+    },
+    {
+      "id": "2959397c",
+      "bank_id": "00f69600",
+      "text": "Taktiksel bir renk; bu su kamuflajı giyeni tatlı su balıklarının çoğuna karşı neredeyse görünmez kılar. Derinliklerde güçlü düşmanlar edinenler için vazgeçilmezdir."
+    },
+    {
+      "id": "2c66e1cd",
+      "bank_id": "00f69600",
+      "text": "Yalnızca en iyi hayvan bağırsaklarından üretilen bu alımlı kılıfla istenmeyen gebeliklerden ve cinsel yolla bulaşan hastalıklardan korunun."
+    },
+    {
+      "id": "3083f6f6",
+      "bank_id": "00f69600",
+      "text": "Koyu doğal kırmızı. Kangaruj boyasının hayvanın değerli salgılarından mı yoksa boyacıların yüzlerine yedikleri okkalı tekmenin ardından burunlarından mı çıktığı pek net değil."
+    },
+    {
+      "id": "328a6d7e",
+      "bank_id": "00f69600",
+      "text": "Kuzeydeki dağ sıralarındaki pınarlardan toplanmış, berrak ve saf su."
+    },
+    {
+      "id": "34456e11",
+      "bank_id": "00f69600",
+      "text": "Soylent Boyası"
+    },
+    {
+      "id": "35b9ade3",
+      "bank_id": "00f69600",
+      "text": "Çiçeklerin, minik yumuşakçaların ve bir türlü kaşıyamadığınız o sinir bozucu sırt kaşıntısının rengi."
+    },
+    {
+      "id": "35d77237",
+      "bank_id": "00f69600",
+      "text": "Viole Boyası"
+    },
+    {
+      "id": "37dcaee1",
+      "bank_id": "00f69600",
+      "text": "Kahve Boyası"
+    },
+    {
+      "id": "37ee3118",
+      "bank_id": "00f69600",
+      "text": "Büyücü köpeklere etkileyici ve güçlü bir İrade takviyesi bahşeder. Büyü kullanmayan köpeklere hiçbir etkisi yoktur.\nTasmayı köpeğinize takmak için envanterinizden kullanın. Bu ayrıca ona istediğiniz zaman yeni bir isim vermenizi sağlar."
+    },
+    {
+      "id": "3cc04fc2",
+      "bank_id": "00f69600",
+      "text": "Ucuz Su"
+    },
+    {
+      "id": "3d1d3f54",
+      "bank_id": "00f69600",
+      "text": "Kızıl Mektup Boyası"
+    },
+    {
+      "id": "3d69f81e",
+      "bank_id": "00f69600",
+      "text": "İndirim"
+    },
+    {
+      "id": "41aaa02e",
+      "bank_id": "00f69600",
+      "text": "Bundan böyle bu dükkânda yüzde %1 indirim kazanacaksınız."
+    },
+    {
+      "id": "41b368f1",
+      "bank_id": "00f69600",
+      "text": "Bu güçlü iksirle içinizdeki canavarı serbest bırakın ve gücünüzü artırın."
+    },
+    {
+      "id": "449c88bf",
+      "bank_id": "00f69600",
+      "text": "Turuncu bir gardırobun iskorbüt hastalığına karşı en kesin savunma olduğunu bilen denizciler arasında popüler bir renk."
+    },
+    {
+      "id": "46254bbc",
+      "bank_id": "00f69600",
+      "text": "Kilobeyaz Boya"
+    },
+    {
+      "id": "471bd3eb",
+      "bank_id": "00f69600",
+      "text": "Doğal kırmızı boyanın malzemeleri Fairfax hanedanının sıkı korunan bir sırrıdır. Bu şişenin spektral oligarşiyi devirmeye kararlı bir kromatist isyancı tarafından kaçırıldığı varsayılabilir."
+    },
+    {
+      "id": "4802dac7",
+      "bank_id": "00f69600",
+      "text": "Yüce Su"
+    },
+    {
+      "id": "4cbdc456",
+      "bank_id": "00f69600",
+      "text": "Dalgıç Boyası"
+    },
+    {
+      "id": "4e2cdf6c",
+      "bank_id": "00f69600",
+      "text": "Deri Yanığı Boyası"
+    },
+    {
+      "id": "4ee6616f",
+      "bank_id": "00f69600",
+      "text": "Kâşif Kıyafeti"
+    },
+    {
+      "id": "50eb86d1",
+      "bank_id": "00f69600",
+      "text": "Yasak Karmin Boyası"
+    },
+    {
+      "id": "5194a03d",
+      "bank_id": "00f69600",
+      "text": "Mavi: Karşı konulmaz klasik. Açık bir günde kayalıklardan haydutların üzerine atlarken etkili bir gizlenme rengi görevi görür; neye uğradıklarını şaşırırlar."
+    },
+    {
+      "id": "5270b0d8",
+      "bank_id": "00f69600",
+      "text": "Karoten Turuncusu Boyası"
+    },
+    {
+      "id": "5f5c99a6",
+      "bank_id": "00f69600",
+      "text": "Kâşif Gömleği"
+    },
+    {
+      "id": "6028c8c9",
+      "bank_id": "00f69600",
+      "text": "Bu su oldukça balçığımsı bir kıvama sahip ve hafifçe yumurta kokuyor. Gerçekten susamış olsanız iyi edersiniz."
+    },
+    {
+      "id": "625b79c9",
+      "bank_id": "00f69600",
+      "text": "Cezayir Menekşesi Boyası"
+    },
+    {
+      "id": "62ee4b38",
+      "bank_id": "00f69600",
+      "text": "Menzilli silahlarda, bilhassa da tatar yaylarında Beceriyi muazzam ölçüde artırır. Nişancı olmayan köpeklere hiçbir etkisi yoktur.\nTasmayı köpeğinize takmak için envanterinizden kullanın. Bu ayrıca ona istediğiniz zaman yeni bir isim vermenizi sağlar."
+    },
+    {
+      "id": "63dec58b",
+      "bank_id": "00f69600",
+      "text": "Kokuşmuş Su"
+    },
+    {
+      "id": "6478ff6d",
+      "bank_id": "00f69600",
+      "text": "Evet, teknik olarak bir meyvedir ancak bu, suyunun sıkılmayı hak ettiği anlamına gelmez. Bu sulu, belli belirsiz tuzlu karışım yalnızca çaresizler içindir."
+    },
+    {
+      "id": "65ccefad",
+      "bank_id": "00f69600",
+      "text": "Şiddetli deliliğin parlak pembesi. Sağduyulu Albion halkı onun canlı parıltısı karşısında sırıtıp korkudan altına kaçırabilir."
+    },
+    {
+      "id": "661206c5",
+      "bank_id": "00f69600",
+      "text": "Kokusu haftalarca kalabilir ancak bu kahverenginin zengin kalitesi için buna kesinlikle değer."
+    },
+    {
+      "id": "690d271a",
+      "bank_id": "00f69600",
+      "text": "Bu keskin kokulu iksir köpeğinizin tüm yaralarını iyileştirecektir. Ayrıca kürkünün parlak, burnunun serin ve nefesinin papatya gibi kokmasını sağlayacaktır."
+    },
+    {
+      "id": "6a17c4ff",
+      "bank_id": "00f69600",
+      "text": "Tatlı Su Pınarı Boyası"
+    },
+    {
+      "id": "6ead7793",
+      "bank_id": "00f69600",
+      "text": "Tatlı Krema Boyası"
+    },
+    {
+      "id": "6ecb83b9",
+      "bank_id": "00f69600",
+      "text": "Kauçuk Top"
+    },
+    {
+      "id": "71635539",
+      "bank_id": "00f69600",
+      "text": "Kum saati gibi bir vücut ve kaburgalarında kalıcı hasar arayanlar için mükemmel bir giysi."
+    },
+    {
+      "id": "7237ddcb",
+      "bank_id": "00f69600",
+      "text": "Kafanız zaten fanusa benziyor. Kabullenin gitsin."
+    },
+    {
+      "id": "771812b6",
+      "bank_id": "00f69600",
+      "text": "Kangren Boyası"
+    },
+    {
+      "id": "777d9581",
+      "bank_id": "00f69600",
+      "text": "Bir insan hakkında köpeğinin tasmasından çok şey anlayabilirsiniz. Örneğin hiç zevkleri olmadığını ve parayı idare edemediklerini.\nTasmayı köpeğinize takmak için envanterinizden kullanın. Bu ayrıca ona istediğiniz zaman yeni bir isim vermenizi sağlar."
+    },
+    {
+      "id": "7bf13d01",
+      "bank_id": "00f69600",
+      "text": "Koyu ve son derece sevilmeyen bir boya. Aşırı ahlakçılar arasında rağbet görür."
+    },
+    {
+      "id": "825ad06f",
+      "bank_id": "00f69600",
+      "text": "Bir kasaba kuyusundan alınmış, gayet içilebilir su."
+    },
+    {
+      "id": "837445c0",
+      "bank_id": "00f69600",
+      "text": "Köpeğiniz biraz yedek ip saklamak için harika bir yerdir.\nTasmayı köpeğinize takmak için envanterinizden kullanın. Bu ayrıca ona istediğiniz zaman yeni bir isim vermenizi sağlar."
+    },
+    {
+      "id": "8857415d",
+      "bank_id": "00f69600",
+      "text": "Kaliteli Muz Suyu"
+    },
+    {
+      "id": "89035a76",
+      "bank_id": "00f69600",
+      "text": "Grizan Boyası"
+    },
+    {
+      "id": "8953e5d1",
+      "bank_id": "00f69600",
+      "text": "Albion topraklarının ötesine gitme cesaretini gösteren gözü pek kâşifler geleneksel olarak bu pantolonu tercih etmişlerdir."
+    },
+    {
+      "id": "931bbac5",
+      "bank_id": "00f69600",
+      "text": "Albion topraklarının ötesine gitme cesaretini gösteren gözü pek kâşifler geleneksel olarak bu kıyafeti tercih etmişlerdir. Çok azı canlı döndüğü için bu mesleğe ne kadar yaradığı bilinmez."
+    },
+    {
+      "id": "9322ed3a",
+      "bank_id": "00f69600",
+      "text": "Gömlek"
+    },
+    {
+      "id": "947cc15a",
+      "bank_id": "00f69600",
+      "text": "Kutsal Gökyüzü Tasması"
+    },
+    {
+      "id": "94817834",
+      "bank_id": "00f69600",
+      "text": "Bu egzotik, dikenli meyvenin duyusal deneyimi 'kanalizasyon borusundan geçmiş muhallebi'ye veya 'klozette otururken en sevilen dondurmayı yemeye' benzetilmiştir. Suyu da pek farklı sayılmaz."
+    },
+    {
+      "id": "95561b7e",
+      "bank_id": "00f69600",
+      "text": "Çıtır Civciv"
+    },
+    {
+      "id": "95d06b9b",
+      "bank_id": "00f69600",
+      "text": "Korse"
+    },
+    {
+      "id": "9606c21c",
+      "bank_id": "00f69600",
+      "text": "Aksesuar"
+    },
+    {
+      "id": "9816b648",
+      "bank_id": "00f69600",
+      "text": "Sıradan ağaç ziftinden yapılmış, mevcut en koyu boya olup gençler arasında çok popülerdir."
+    },
+    {
+      "id": "9b0ba355",
+      "bank_id": "00f69600",
+      "text": "Her yıl yüzlerce boya ustası habis griypfrutun yakıcı posası yüzünden kör olmaktadır."
+    },
+    {
+      "id": "a63065f9",
+      "bank_id": "00f69600",
+      "text": "Buz Mavisi Boya"
+    },
+    {
+      "id": "a7d81297",
+      "bank_id": "00f69600",
+      "text": "Prezervatif"
+    },
+    {
+      "id": "a7edf09d",
+      "bank_id": "00f69600",
+      "text": "Korsan Turuncusu Boyası"
+    },
+    {
+      "id": "ab54421d",
+      "bank_id": "00f69600",
+      "text": "Kristal berraklığında ve olağanüstü saflıkta; biradan, çikolatadan ve bir çuval altından daha lezzetlidir."
+    },
+    {
+      "id": "ad0c7376",
+      "bank_id": "00f69600",
+      "text": "Al Kırkayak Boyası"
+    },
+    {
+      "id": "ae218278",
+      "bank_id": "00f69600",
+      "text": "Kadim büyü kullanarak köpeğinizi tasma denen şeye etkili bir şekilde bağlar.\nTasmayı köpeğinize takmak için envanterinizden kullanın. Bu ayrıca ona istediğiniz zaman yeni bir isim vermenizi sağlar."
+    },
+    {
+      "id": "b38d5628",
+      "bank_id": "00f69600",
+      "text": "Köpek Ödülü"
+    },
+    {
+      "id": "b63fa144",
+      "bank_id": "00f69600",
+      "text": "Kaynak Suyu"
+    },
+    {
+      "id": "b651516e",
+      "bank_id": "00f69600",
+      "text": "Durian Meyvesi Suyu"
+    },
+    {
+      "id": "b7ae0cf4",
+      "bank_id": "00f69600",
+      "text": "Konsantre Elma Suyu"
+    },
+    {
+      "id": "b94fb69f",
+      "bank_id": "00f69600",
+      "text": "Griypfrut Boyası"
+    },
+    {
+      "id": "b9bee851",
+      "bank_id": "00f69600",
+      "text": "Boya tüccarları bu parlak ve neşeli pigmentin öğle güneşinin zengin sulu tohumlarından yapıldığını söyler."
+    },
+    {
+      "id": "ba66416d",
+      "bank_id": "00f69600",
+      "text": "Viole, Bower Gölü tarlalarında yaygın olan küçük, ağır bir kemirgendir. Kısmen onları avlayan birçok yırtıcı yüzünden... ve belki de dikkat çekici bir koyu mor olma talihsizliğine sahip oldukları için nesilleri tükenmek üzeredir."
+    },
+    {
+      "id": "badae763",
+      "bank_id": "00f69600",
+      "text": "Hükümranlık Tasması"
+    },
+    {
+      "id": "bdef441c",
+      "bank_id": "00f69600",
+      "text": "Gables Yeşili Boyası"
+    },
+    {
+      "id": "bf4e8ee3",
+      "bank_id": "00f69600",
+      "text": "Mansfield Yeşili Boyası"
+    },
+    {
+      "id": "bf7b487a",
+      "bank_id": "00f69600",
+      "text": "Işıltılı Göz Tasması"
+    },
+    {
+      "id": "c4889ad3",
+      "bank_id": "00f69600",
+      "text": "Kıyafetler"
+    },
+    {
+      "id": "c5c231ea",
+      "bank_id": "00f69600",
+      "text": "Koyu, için için yanan bir turuncu. Kreşteki bir balverine kadar göze çarpmayan cinsten."
+    },
+    {
+      "id": "cd11aeb5",
+      "bank_id": "00f69600",
+      "text": "Ahlaksız tüccarlar bu boyayı sıradan suyun cazibesini artırmak için kullanabileceklerini fark ettiğinden beri boyanın fiyatı artış göstermektedir."
+    },
+    {
+      "id": "cfbc11dc",
+      "bank_id": "00f69600",
+      "text": "Karamsarlık Tasması"
+    },
+    {
+      "id": "cfd8f8dc",
+      "bank_id": "00f69600",
+      "text": "Gri Kayısı Boyası"
+    },
+    {
+      "id": "d0dba129",
+      "bank_id": "00f69600",
+      "text": "Pantolon"
+    },
+    {
+      "id": "d17dd88e",
+      "bank_id": "00f69600",
+      "text": "Bir zamanlar yarı donmuş bir silindirdi, şimdiyse gerçeğinin fena sayılmayacak bir taklidi."
+    },
+    {
+      "id": "d2771d5c",
+      "bank_id": "00f69600",
+      "text": "Yeşilin bu açık tonu kesinlikle bulaşıcıdır."
+    },
+    {
+      "id": "d3ef396f",
+      "bank_id": "00f69600",
+      "text": "Boya"
+    },
+    {
+      "id": "d4a7a532",
+      "bank_id": "00f69600",
+      "text": "Mistik Meyve Suyu"
+    },
+    {
+      "id": "d8712a30",
+      "bank_id": "00f69600",
+      "text": "Bulutlardan, perilerden ve saf düşüncelerden sıkılan bu su hem enfes hem de son derece sağlıklıdır."
+    },
+    {
+      "id": "d966aaee",
+      "bank_id": "00f69600",
+      "text": "Giyside 'Zafer!' diye haykırır. Saçta ise 'Biri kafamı ateşe versin!' diye haykırır."
+    },
+    {
+      "id": "d9dfb56f",
+      "bank_id": "00f69600",
+      "text": "İçecek"
+    },
+    {
+      "id": "db62c274",
+      "bank_id": "00f69600",
+      "text": "Tüysüz yeni doğmuş bir memeli gibi çok doğal bir pembe."
+    },
+    {
+      "id": "dfa9c4e2",
+      "bank_id": "00f69600",
+      "text": "Lifli Marifet Tasması"
+    },
+    {
+      "id": "dfea3037",
+      "bank_id": "00f69600",
+      "text": "Seyreltilmiş Domates Suyu"
+    },
+    {
+      "id": "e08ad020",
+      "bank_id": "00f69600",
+      "text": "Ilıktır ve biraz kan gibi bakırımsı bir tada sahiptir."
+    },
+    {
+      "id": "e13fb477",
+      "bank_id": "00f69600",
+      "text": "Doyumsuz Kasap Pembesi Boyası"
+    },
+    {
+      "id": "e22ab3b3",
+      "bank_id": "00f69600",
+      "text": "Tüm köpeklerin bildiği gibi insanlar, görünüşte rastgele fırlattıkları bu değerli eşyaların gerçek değerinden bihaberdir. Kadim evcil hayvan efsanesine göre köpek ilahı Cainine, kauçuk topunu ele geçirmek için kardeşi Fabel'i öldürmüştür."
+    },
+    {
+      "id": "e460d11c",
+      "bank_id": "00f69600",
+      "text": "Grizanın koyu sulu çekirdekleri doğal olarak leke bıraktığı için boya yapmak üzere işlenmez."
+    },
+    {
+      "id": "ea3280be",
+      "bank_id": "00f69600",
+      "text": "Ayakkabılar"
+    },
+    {
+      "id": "eacdc826",
+      "bank_id": "00f69600",
+      "text": "Bronzluğunuzu dışınızda taşıyın. Solgunluk aynen kalır, cilt hasarı ise sıfır."
+    },
+    {
+      "id": "ecb16913",
+      "bank_id": "00f69600",
+      "text": "Kâşif Pantolonu"
+    },
+    {
+      "id": "ed060467",
+      "bank_id": "00f69600",
+      "text": "Bulutsuz Gökyüzü Boyası"
+    },
+    {
+      "id": "f0b12384",
+      "bank_id": "00f69600",
+      "text": "Rengi derindir, böylece siz derin olmak zorunda kalmazsınız."
+    },
+    {
+      "id": "f280ca5e",
+      "bank_id": "00f69600",
+      "text": "Has Mavi Boya"
+    },
+    {
+      "id": "f3e211dc",
+      "bank_id": "00f69600",
+      "text": "Kangaruj Boyası"
+    },
+    {
+      "id": "f42863a9",
+      "bank_id": "00f69600",
+      "text": "Kısa Palto"
+    },
+    {
+      "id": "fa6d1123",
+      "bank_id": "00f69600",
+      "text": "Karanlık, heybetli bir pembe. Daha parlak pembeler kadar tehditkâr olmasa da rengin acımasız tarihini bilenleri derinden sarsar."
+    },
+    {
+      "id": "fa912936",
+      "bank_id": "00f69600",
+      "text": "Çingene kamplarında büyüdüğünüz günleri anımsatan koyu bir yeşil."
+    },
+    {
+      "id": "fe812fb1",
+      "bank_id": "00f69600",
+      "text": "Akvaryum Boyası"
+    },
+    {
+      "id": "ffad03ae",
+      "bank_id": "00f69600",
+      "text": "Yavru Hamster Pembesi Boyası"
+    }
+  ]
+}

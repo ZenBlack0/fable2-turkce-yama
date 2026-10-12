@@ -1,0 +1,3009 @@
+{
+  "total_banks": 333,
+  "total_strings": 56000,
+  "translatable_strings": 55537,
+  "unique_translatable_texts": 45516,
+  "duplicate_savings": 10021,
+  "completed_banks": 333,
+  "completed_strings": 56000,
+  "last_updated": "2026-10-11T18:31:10.113374",
+  "banks": {
+    "20499600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 786,
+      "translatable_strings": 786,
+      "translated_strings": 786,
+      "validated_strings": 786,
+      "updated_at": "2026-10-11T18:31:09.891635"
+    },
+    "40f29600": {
+      "status": "validated",
+      "category": "UI / Menü / Arayüz",
+      "total_strings": 542,
+      "translatable_strings": 515,
+      "translated_strings": 542,
+      "validated_strings": 542,
+      "updated_at": "2026-10-11T18:31:09.921546"
+    },
+    "b0f19600": {
+      "status": "validated",
+      "category": "UI / Menü / Arayüz",
+      "total_strings": 370,
+      "translatable_strings": 323,
+      "translated_strings": 370,
+      "validated_strings": 370,
+      "updated_at": "2026-10-11T18:31:10.060634"
+    },
+    "e0f19600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 167,
+      "translatable_strings": 163,
+      "translated_strings": 167,
+      "validated_strings": 167,
+      "updated_at": "2026-10-11T18:31:10.098494"
+    },
+    "d0f29600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 68,
+      "translatable_strings": 68,
+      "translated_strings": 68,
+      "validated_strings": 68,
+      "updated_at": "2026-10-11T18:31:10.086213"
+    },
+    "80f19600": {
+      "status": "validated",
+      "category": "Görev / Açıklama Metinleri",
+      "total_strings": 99,
+      "translatable_strings": 99,
+      "translated_strings": 99,
+      "validated_strings": 99,
+      "updated_at": "2026-10-11T18:31:09.992218"
+    },
+    "30f39600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 170,
+      "translatable_strings": 170,
+      "translated_strings": 170,
+      "validated_strings": 170,
+      "updated_at": "2026-10-11T18:31:09.911195"
+    },
+    "60f39600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 87,
+      "translatable_strings": 87,
+      "translated_strings": 87,
+      "validated_strings": 87,
+      "updated_at": "2026-10-11T18:31:09.951302"
+    },
+    "90f39600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 126,
+      "translatable_strings": 126,
+      "translated_strings": 126,
+      "validated_strings": 126,
+      "updated_at": "2026-10-11T18:31:10.024393"
+    },
+    "c0f39600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 59,
+      "translatable_strings": 59,
+      "translated_strings": 59,
+      "validated_strings": 59,
+      "updated_at": "2026-10-11T18:31:10.075513"
+    },
+    "a0f29600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 58,
+      "translatable_strings": 58,
+      "translated_strings": 58,
+      "validated_strings": 58,
+      "updated_at": "2026-10-11T18:31:10.039004"
+    },
+    "c0f09600": {
+      "status": "validated",
+      "category": "UI / Menü / Arayüz",
+      "total_strings": 220,
+      "translatable_strings": 218,
+      "translated_strings": 220,
+      "validated_strings": 220,
+      "updated_at": "2026-10-11T18:31:10.074703"
+    },
+    "00f39600": {
+      "status": "validated",
+      "category": "UI / Menü / Arayüz",
+      "total_strings": 342,
+      "translatable_strings": 338,
+      "translated_strings": 342,
+      "validated_strings": 342,
+      "updated_at": "2026-10-11T18:31:09.861665"
+    },
+    "f0f39600": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 273,
+      "translatable_strings": 266,
+      "translated_strings": 273,
+      "validated_strings": 273,
+      "updated_at": "2026-10-11T18:31:10.112311"
+    },
+    "20f49600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 122,
+      "translatable_strings": 122,
+      "translated_strings": 122,
+      "validated_strings": 122,
+      "updated_at": "2026-10-11T18:31:09.898530"
+    },
+    "80f49600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 108,
+      "translatable_strings": 108,
+      "translated_strings": 108,
+      "validated_strings": 108,
+      "updated_at": "2026-10-11T18:31:09.994732"
+    },
+    "e0f49600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 117,
+      "translatable_strings": 117,
+      "translated_strings": 117,
+      "validated_strings": 117,
+      "updated_at": "2026-10-11T18:31:10.099195"
+    },
+    "50f49600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 134,
+      "translatable_strings": 134,
+      "translated_strings": 134,
+      "validated_strings": 134,
+      "updated_at": "2026-10-11T18:31:09.935618"
+    },
+    "70f59600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 126,
+      "translatable_strings": 126,
+      "translated_strings": 126,
+      "validated_strings": 126,
+      "updated_at": "2026-10-11T18:31:09.970404"
+    },
+    "a0f59600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 62,
+      "translatable_strings": 62,
+      "translated_strings": 62,
+      "validated_strings": 62,
+      "updated_at": "2026-10-11T18:31:10.041028"
+    },
+    "d0f59600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 46,
+      "translatable_strings": 46,
+      "translated_strings": 46,
+      "validated_strings": 46,
+      "updated_at": "2026-10-11T18:31:10.087961"
+    },
+    "10f29600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 24,
+      "translatable_strings": 24,
+      "translated_strings": 24,
+      "validated_strings": 24,
+      "updated_at": "2026-10-11T18:31:09.872130"
+    },
+    "10f59600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 20,
+      "translatable_strings": 20,
+      "translated_strings": 20,
+      "validated_strings": 20,
+      "updated_at": "2026-10-11T18:31:09.874315"
+    },
+    "60f69600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 18,
+      "translatable_strings": 18,
+      "translated_strings": 18,
+      "validated_strings": 18,
+      "updated_at": "2026-10-11T18:31:09.952148"
+    },
+    "40f59600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 78,
+      "translatable_strings": 78,
+      "translated_strings": 78,
+      "validated_strings": 78,
+      "updated_at": "2026-10-11T18:31:09.923398"
+    },
+    "c0f69600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 125,
+      "translatable_strings": 125,
+      "translated_strings": 125,
+      "validated_strings": 125,
+      "updated_at": "2026-10-11T18:31:10.076370"
+    },
+    "b0f49600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 106,
+      "translatable_strings": 106,
+      "translated_strings": 106,
+      "validated_strings": 106,
+      "updated_at": "2026-10-11T18:31:10.061897"
+    },
+    "00f69600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 129,
+      "translatable_strings": 129,
+      "translated_strings": 129,
+      "validated_strings": 129,
+      "updated_at": "2026-10-11T18:31:09.863781"
+    },
+    "30f69600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 151,
+      "translatable_strings": 151,
+      "translated_strings": 151,
+      "validated_strings": 151,
+      "updated_at": "2026-10-11T18:31:09.911873"
+    },
+    "20f79600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 160,
+      "translatable_strings": 160,
+      "translated_strings": 160,
+      "validated_strings": 160,
+      "updated_at": "2026-10-11T18:31:09.899835"
+    },
+    "80f79600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 138,
+      "translatable_strings": 138,
+      "translated_strings": 138,
+      "validated_strings": 138,
+      "updated_at": "2026-10-11T18:31:09.997118"
+    },
+    "b0f79600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 82,
+      "translatable_strings": 82,
+      "translated_strings": 82,
+      "validated_strings": 82,
+      "updated_at": "2026-10-11T18:31:10.062662"
+    },
+    "f0f69600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 83,
+      "translatable_strings": 83,
+      "translated_strings": 83,
+      "validated_strings": 83,
+      "updated_at": "2026-10-11T18:31:10.113071"
+    },
+    "50f79600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 81,
+      "translatable_strings": 81,
+      "translated_strings": 81,
+      "validated_strings": 81,
+      "updated_at": "2026-10-11T18:31:09.937129"
+    },
+    "90f69600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 58,
+      "translatable_strings": 58,
+      "translated_strings": 58,
+      "validated_strings": 58,
+      "updated_at": "2026-10-11T18:31:10.026225"
+    },
+    "700cab00": {
+      "status": "validated",
+      "category": "Görev / Açıklama Metinleri",
+      "total_strings": 67,
+      "translatable_strings": 67,
+      "translated_strings": 67,
+      "validated_strings": 67,
+      "updated_at": "2026-10-11T18:31:09.953591"
+    },
+    "a00cab00": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 74,
+      "translatable_strings": 74,
+      "translated_strings": 74,
+      "validated_strings": 74,
+      "updated_at": "2026-10-11T18:31:10.027729"
+    },
+    "900dab00": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 86,
+      "translatable_strings": 86,
+      "translated_strings": 86,
+      "validated_strings": 86,
+      "updated_at": "2026-10-11T18:31:09.999442"
+    },
+    "300dab00": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 53,
+      "translatable_strings": 53,
+      "translated_strings": 53,
+      "validated_strings": 53,
+      "updated_at": "2026-10-11T18:31:09.901080"
+    },
+    "600dab00": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 265,
+      "translatable_strings": 264,
+      "translated_strings": 265,
+      "validated_strings": 265,
+      "updated_at": "2026-10-11T18:31:09.938459"
+    },
+    "d00cab00": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 220,
+      "translatable_strings": 220,
+      "translated_strings": 220,
+      "validated_strings": 220,
+      "updated_at": "2026-10-11T18:31:10.077183"
+    },
+    "800eab00": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 222,
+      "translatable_strings": 202,
+      "translated_strings": 222,
+      "validated_strings": 222,
+      "updated_at": "2026-10-11T18:31:09.972097"
+    },
+    "500eab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 125,
+      "translatable_strings": 125,
+      "translated_strings": 125,
+      "validated_strings": 125,
+      "updated_at": "2026-10-11T18:31:09.924538"
+    },
+    "f00dab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 187,
+      "translatable_strings": 187,
+      "translated_strings": 187,
+      "validated_strings": 187,
+      "updated_at": "2026-10-11T18:31:10.100519"
+    },
+    "200eab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 184,
+      "translatable_strings": 184,
+      "translated_strings": 184,
+      "validated_strings": 184,
+      "updated_at": "2026-10-11T18:31:09.875958"
+    },
+    "000dab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 166,
+      "translatable_strings": 166,
+      "translated_strings": 166,
+      "validated_strings": 166,
+      "updated_at": "2026-10-11T18:31:09.846159"
+    },
+    "700fab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 172,
+      "translatable_strings": 172,
+      "translated_strings": 172,
+      "validated_strings": 172,
+      "updated_at": "2026-10-11T18:31:09.954095"
+    },
+    "b00eab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 135,
+      "translatable_strings": 135,
+      "translated_strings": 135,
+      "validated_strings": 135,
+      "updated_at": "2026-10-11T18:31:10.042082"
+    },
+    "c00dab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 146,
+      "translatable_strings": 146,
+      "translated_strings": 146,
+      "validated_strings": 146,
+      "updated_at": "2026-10-11T18:31:10.063995"
+    },
+    "400fab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 145,
+      "translatable_strings": 145,
+      "translated_strings": 145,
+      "validated_strings": 145,
+      "updated_at": "2026-10-11T18:31:09.912636"
+    },
+    "3010ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 201,
+      "translatable_strings": 201,
+      "translated_strings": 201,
+      "validated_strings": 201,
+      "updated_at": "2026-10-11T18:31:09.901601"
+    },
+    "a00fab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 216,
+      "translatable_strings": 216,
+      "translated_strings": 216,
+      "validated_strings": 216,
+      "updated_at": "2026-10-11T18:31:10.028696"
+    },
+    "e00eab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 183,
+      "translatable_strings": 183,
+      "translated_strings": 183,
+      "validated_strings": 183,
+      "updated_at": "2026-10-11T18:31:10.089584"
+    },
+    "d00fab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 186,
+      "translatable_strings": 186,
+      "translated_strings": 186,
+      "validated_strings": 186,
+      "updated_at": "2026-10-11T18:31:10.077611"
+    },
+    "100fab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 265,
+      "translatable_strings": 265,
+      "translated_strings": 265,
+      "validated_strings": 265,
+      "updated_at": "2026-10-11T18:31:09.865577"
+    },
+    "f010ab00": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 437,
+      "translatable_strings": 437,
+      "translated_strings": 437,
+      "validated_strings": 437,
+      "updated_at": "2026-10-11T18:31:10.101826"
+    },
+    "c010ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 296,
+      "translatable_strings": 296,
+      "translated_strings": 296,
+      "validated_strings": 296,
+      "updated_at": "2026-10-11T18:31:10.064793"
+    },
+    "2011ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 235,
+      "translatable_strings": 235,
+      "translated_strings": 235,
+      "validated_strings": 235,
+      "updated_at": "2026-10-11T18:31:09.876573"
+    },
+    "9010ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 187,
+      "translatable_strings": 187,
+      "translated_strings": 187,
+      "validated_strings": 187,
+      "updated_at": "2026-10-11T18:31:10.000315"
+    },
+    "e011ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 178,
+      "translatable_strings": 178,
+      "translated_strings": 178,
+      "validated_strings": 178,
+      "updated_at": "2026-10-11T18:31:10.090351"
+    },
+    "1012ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 186,
+      "translatable_strings": 186,
+      "translated_strings": 186,
+      "validated_strings": 186,
+      "updated_at": "2026-10-11T18:31:09.866500"
+    },
+    "4012ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 221,
+      "translatable_strings": 221,
+      "translated_strings": 221,
+      "validated_strings": 221,
+      "updated_at": "2026-10-11T18:31:09.913413"
+    },
+    "7012ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 219,
+      "translatable_strings": 219,
+      "translated_strings": 219,
+      "validated_strings": 219,
+      "updated_at": "2026-10-11T18:31:09.954845"
+    },
+    "b011ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 207,
+      "translatable_strings": 207,
+      "translated_strings": 207,
+      "validated_strings": 207,
+      "updated_at": "2026-10-11T18:31:10.042915"
+    },
+    "8011ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 145,
+      "translatable_strings": 145,
+      "translated_strings": 145,
+      "validated_strings": 145,
+      "updated_at": "2026-10-11T18:31:09.973119"
+    },
+    "0013ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 220,
+      "translatable_strings": 220,
+      "translated_strings": 220,
+      "validated_strings": 220,
+      "updated_at": "2026-10-11T18:31:09.847895"
+    },
+    "a012ab00": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 182,
+      "translatable_strings": 182,
+      "translated_strings": 182,
+      "validated_strings": 182,
+      "updated_at": "2026-10-11T18:31:10.029518"
+    },
+    "5011ab00": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 250,
+      "translatable_strings": 250,
+      "translated_strings": 250,
+      "validated_strings": 250,
+      "updated_at": "2026-10-11T18:31:09.925030"
+    },
+    "3013ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 223,
+      "translatable_strings": 223,
+      "translated_strings": 223,
+      "validated_strings": 223,
+      "updated_at": "2026-10-11T18:31:09.902103"
+    },
+    "0010ab00": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 250,
+      "translatable_strings": 249,
+      "translated_strings": 250,
+      "validated_strings": 250,
+      "updated_at": "2026-10-11T18:31:09.847036"
+    },
+    "f013ab00": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 260,
+      "translatable_strings": 258,
+      "translated_strings": 260,
+      "validated_strings": 260,
+      "updated_at": "2026-10-11T18:31:10.103075"
+    },
+    "c013ab00": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 339,
+      "translatable_strings": 337,
+      "translated_strings": 339,
+      "validated_strings": 339,
+      "updated_at": "2026-10-11T18:31:10.065537"
+    },
+    "d012ab00": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 504,
+      "translatable_strings": 503,
+      "translated_strings": 504,
+      "validated_strings": 504,
+      "updated_at": "2026-10-11T18:31:10.078393"
+    },
+    "9013ab00": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 485,
+      "translatable_strings": 450,
+      "translated_strings": 485,
+      "validated_strings": 485,
+      "updated_at": "2026-10-11T18:31:10.002731"
+    },
+    "70f29600": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 478,
+      "translatable_strings": 440,
+      "translated_strings": 478,
+      "validated_strings": 478,
+      "updated_at": "2026-10-11T18:31:09.968491"
+    },
+    "2014ab00": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 318,
+      "translatable_strings": 310,
+      "translated_strings": 318,
+      "validated_strings": 318,
+      "updated_at": "2026-10-11T18:31:09.877796"
+    },
+    "6013ab00": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 295,
+      "translatable_strings": 295,
+      "translated_strings": 295,
+      "validated_strings": 295,
+      "updated_at": "2026-10-11T18:31:09.940084"
+    },
+    "e0f79600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 209,
+      "translatable_strings": 209,
+      "translated_strings": 209,
+      "validated_strings": 209,
+      "updated_at": "2026-10-11T18:31:10.100121"
+    },
+    "d0ab3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 192,
+      "translatable_strings": 192,
+      "translated_strings": 192,
+      "validated_strings": 192,
+      "updated_at": "2026-10-11T18:31:10.082118"
+    },
+    "60ac3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 198,
+      "translatable_strings": 198,
+      "translated_strings": 198,
+      "validated_strings": 198,
+      "updated_at": "2026-10-11T18:31:09.946162"
+    },
+    "20ad3602": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 256,
+      "translatable_strings": 256,
+      "translated_strings": 256,
+      "validated_strings": 256,
+      "updated_at": "2026-10-11T18:31:09.894597"
+    },
+    "00ac3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 188,
+      "translatable_strings": 188,
+      "translated_strings": 188,
+      "validated_strings": 188,
+      "updated_at": "2026-10-11T18:31:09.852804"
+    },
+    "90ac3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 148,
+      "translatable_strings": 148,
+      "translated_strings": 148,
+      "validated_strings": 148,
+      "updated_at": "2026-10-11T18:31:10.012193"
+    },
+    "b0ad3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 186,
+      "translatable_strings": 186,
+      "translated_strings": 186,
+      "validated_strings": 186,
+      "updated_at": "2026-10-11T18:31:10.048605"
+    },
+    "50ad3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 129,
+      "translatable_strings": 129,
+      "translated_strings": 129,
+      "validated_strings": 129,
+      "updated_at": "2026-10-11T18:31:09.928947"
+    },
+    "10ae3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 133,
+      "translatable_strings": 133,
+      "translated_strings": 133,
+      "validated_strings": 133,
+      "updated_at": "2026-10-11T18:31:09.869732"
+    },
+    "e0ad3602": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 293,
+      "translatable_strings": 293,
+      "translated_strings": 293,
+      "validated_strings": 293,
+      "updated_at": "2026-10-11T18:31:10.093325"
+    },
+    "70ae3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 160,
+      "translatable_strings": 160,
+      "translated_strings": 160,
+      "validated_strings": 160,
+      "updated_at": "2026-10-11T18:31:09.960058"
+    },
+    "a0ae3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 146,
+      "translatable_strings": 146,
+      "translated_strings": 146,
+      "validated_strings": 146,
+      "updated_at": "2026-10-11T18:31:10.035103"
+    },
+    "c0ac3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 142,
+      "translatable_strings": 142,
+      "translated_strings": 142,
+      "validated_strings": 142,
+      "updated_at": "2026-10-11T18:31:10.069825"
+    },
+    "00af3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 146,
+      "translatable_strings": 146,
+      "translated_strings": 146,
+      "validated_strings": 146,
+      "updated_at": "2026-10-11T18:31:09.853683"
+    },
+    "30ac3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 103,
+      "translatable_strings": 103,
+      "translated_strings": 103,
+      "validated_strings": 103,
+      "updated_at": "2026-10-11T18:31:09.906592"
+    },
+    "60af3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 94,
+      "translatable_strings": 94,
+      "translated_strings": 94,
+      "validated_strings": 94,
+      "updated_at": "2026-10-11T18:31:09.946875"
+    },
+    "90af3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 151,
+      "translatable_strings": 151,
+      "translated_strings": 151,
+      "validated_strings": 151,
+      "updated_at": "2026-10-11T18:31:10.013366"
+    },
+    "30af3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 160,
+      "translatable_strings": 160,
+      "translated_strings": 160,
+      "validated_strings": 160,
+      "updated_at": "2026-10-11T18:31:09.907327"
+    },
+    "c0af3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 131,
+      "translatable_strings": 131,
+      "translated_strings": 131,
+      "validated_strings": 131,
+      "updated_at": "2026-10-11T18:31:10.070179"
+    },
+    "d0ae3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 107,
+      "translatable_strings": 107,
+      "translated_strings": 107,
+      "validated_strings": 107,
+      "updated_at": "2026-10-11T18:31:10.082773"
+    },
+    "40ae3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 130,
+      "translatable_strings": 130,
+      "translated_strings": 130,
+      "validated_strings": 130,
+      "updated_at": "2026-10-11T18:31:09.916960"
+    },
+    "80ad3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 147,
+      "translatable_strings": 147,
+      "translated_strings": 147,
+      "validated_strings": 147,
+      "updated_at": "2026-10-11T18:31:09.981940"
+    },
+    "b0b03602": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 156,
+      "translatable_strings": 156,
+      "translated_strings": 156,
+      "validated_strings": 156,
+      "updated_at": "2026-10-11T18:31:10.049186"
+    },
+    "e0b03602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 174,
+      "translatable_strings": 174,
+      "translated_strings": 174,
+      "validated_strings": 174,
+      "updated_at": "2026-10-11T18:31:10.094801"
+    },
+    "80b03602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 186,
+      "translatable_strings": 186,
+      "translated_strings": 186,
+      "validated_strings": 186,
+      "updated_at": "2026-10-11T18:31:09.984322"
+    },
+    "50b03602": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 317,
+      "translatable_strings": 305,
+      "translated_strings": 317,
+      "validated_strings": 317,
+      "updated_at": "2026-10-11T18:31:09.929913"
+    },
+    "f0af3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 118,
+      "translatable_strings": 118,
+      "translated_strings": 118,
+      "validated_strings": 118,
+      "updated_at": "2026-10-11T18:31:10.108047"
+    },
+    "20b03602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 140,
+      "translatable_strings": 139,
+      "translated_strings": 140,
+      "validated_strings": 140,
+      "updated_at": "2026-10-11T18:31:09.895080"
+    },
+    "d0b13602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 126,
+      "translatable_strings": 123,
+      "translated_strings": 126,
+      "validated_strings": 126,
+      "updated_at": "2026-10-11T18:31:10.083560"
+    },
+    "00b23602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 137,
+      "translatable_strings": 132,
+      "translated_strings": 137,
+      "validated_strings": 137,
+      "updated_at": "2026-10-11T18:31:09.855608"
+    },
+    "30b23602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 128,
+      "translatable_strings": 128,
+      "translated_strings": 128,
+      "validated_strings": 128,
+      "updated_at": "2026-10-11T18:31:09.908649"
+    },
+    "70b13602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 118,
+      "translatable_strings": 118,
+      "translated_strings": 118,
+      "validated_strings": 118,
+      "updated_at": "2026-10-11T18:31:09.961550"
+    },
+    "f0ac3602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 117,
+      "translatable_strings": 117,
+      "translated_strings": 117,
+      "validated_strings": 117,
+      "updated_at": "2026-10-11T18:31:10.107489"
+    },
+    "a0b13602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 137,
+      "translatable_strings": 137,
+      "translated_strings": 137,
+      "validated_strings": 137,
+      "updated_at": "2026-10-11T18:31:10.035942"
+    },
+    "90b23602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 126,
+      "translatable_strings": 126,
+      "translated_strings": 126,
+      "validated_strings": 126,
+      "updated_at": "2026-10-11T18:31:10.015256"
+    },
+    "20b33602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 112,
+      "translatable_strings": 112,
+      "translated_strings": 112,
+      "validated_strings": 112,
+      "updated_at": "2026-10-11T18:31:09.895829"
+    },
+    "f0b23602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 98,
+      "translatable_strings": 98,
+      "translated_strings": 98,
+      "validated_strings": 98,
+      "updated_at": "2026-10-11T18:31:10.109343"
+    },
+    "10b13602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 113,
+      "translatable_strings": 113,
+      "translated_strings": 113,
+      "validated_strings": 113,
+      "updated_at": "2026-10-11T18:31:09.870157"
+    },
+    "40b13602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 122,
+      "translatable_strings": 122,
+      "translated_strings": 122,
+      "validated_strings": 122,
+      "updated_at": "2026-10-11T18:31:09.917378"
+    },
+    "80b33602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 113,
+      "translatable_strings": 113,
+      "translated_strings": 113,
+      "validated_strings": 113,
+      "updated_at": "2026-10-11T18:31:09.987051"
+    },
+    "c0b23602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 128,
+      "translatable_strings": 128,
+      "translated_strings": 128,
+      "validated_strings": 128,
+      "updated_at": "2026-10-11T18:31:10.070983"
+    },
+    "50b33602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 119,
+      "translatable_strings": 119,
+      "translated_strings": 119,
+      "validated_strings": 119,
+      "updated_at": "2026-10-11T18:31:09.931616"
+    },
+    "6010ab00": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 110,
+      "translatable_strings": 110,
+      "translated_strings": 110,
+      "validated_strings": 110,
+      "updated_at": "2026-10-11T18:31:09.939044"
+    },
+    "002e9601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 104,
+      "translatable_strings": 104,
+      "translated_strings": 104,
+      "validated_strings": 104,
+      "updated_at": "2026-10-11T18:31:09.848502"
+    },
+    "302e9601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 138,
+      "translatable_strings": 138,
+      "translated_strings": 138,
+      "validated_strings": 138,
+      "updated_at": "2026-10-11T18:31:09.902542"
+    },
+    "902e9601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 142,
+      "translatable_strings": 142,
+      "translated_strings": 142,
+      "validated_strings": 142,
+      "updated_at": "2026-10-11T18:31:10.004095"
+    },
+    "802f9601": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 141,
+      "translatable_strings": 141,
+      "translated_strings": 141,
+      "validated_strings": 141,
+      "updated_at": "2026-10-11T18:31:09.974957"
+    },
+    "f02e9601": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 119,
+      "translatable_strings": 119,
+      "translated_strings": 119,
+      "validated_strings": 119,
+      "updated_at": "2026-10-11T18:31:10.103999"
+    },
+    "602e9601": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 137,
+      "translatable_strings": 137,
+      "translated_strings": 137,
+      "validated_strings": 137,
+      "updated_at": "2026-10-11T18:31:09.940569"
+    },
+    "502f9601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 110,
+      "translatable_strings": 110,
+      "translated_strings": 110,
+      "validated_strings": 110,
+      "updated_at": "2026-10-11T18:31:09.925385"
+    },
+    "202f9601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 106,
+      "translatable_strings": 106,
+      "translated_strings": 106,
+      "validated_strings": 106,
+      "updated_at": "2026-10-11T18:31:09.878158"
+    },
+    "c02e9601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 106,
+      "translatable_strings": 106,
+      "translated_strings": 106,
+      "validated_strings": 106,
+      "updated_at": "2026-10-11T18:31:10.065945"
+    },
+    "40309601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 123,
+      "translatable_strings": 123,
+      "translated_strings": 123,
+      "validated_strings": 123,
+      "updated_at": "2026-10-11T18:31:09.914338"
+    },
+    "e02f9601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 156,
+      "translatable_strings": 156,
+      "translated_strings": 156,
+      "validated_strings": 156,
+      "updated_at": "2026-10-11T18:31:10.091070"
+    },
+    "d0309601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 160,
+      "translatable_strings": 160,
+      "translated_strings": 160,
+      "validated_strings": 160,
+      "updated_at": "2026-10-11T18:31:10.078908"
+    },
+    "70309601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 141,
+      "translatable_strings": 141,
+      "translated_strings": 141,
+      "validated_strings": 141,
+      "updated_at": "2026-10-11T18:31:09.956109"
+    },
+    "b02f9601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 143,
+      "translatable_strings": 143,
+      "translated_strings": 143,
+      "validated_strings": 143,
+      "updated_at": "2026-10-11T18:31:10.043794"
+    },
+    "10309601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 158,
+      "translatable_strings": 158,
+      "translated_strings": 158,
+      "validated_strings": 158,
+      "updated_at": "2026-10-11T18:31:09.867349"
+    },
+    "c0319601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 199,
+      "translatable_strings": 199,
+      "translated_strings": 199,
+      "validated_strings": 199,
+      "updated_at": "2026-10-11T18:31:10.066740"
+    },
+    "f0319601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 173,
+      "translatable_strings": 173,
+      "translated_strings": 173,
+      "validated_strings": 173,
+      "updated_at": "2026-10-11T18:31:10.104617"
+    },
+    "00319601": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 190,
+      "translatable_strings": 190,
+      "translated_strings": 190,
+      "validated_strings": 190,
+      "updated_at": "2026-10-11T18:31:09.849014"
+    },
+    "30319601": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 268,
+      "translatable_strings": 268,
+      "translated_strings": 268,
+      "validated_strings": 268,
+      "updated_at": "2026-10-11T18:31:09.903295"
+    },
+    "60319601": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 340,
+      "translatable_strings": 340,
+      "translated_strings": 340,
+      "validated_strings": 340,
+      "updated_at": "2026-10-11T18:31:09.941341"
+    },
+    "20329601": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 150,
+      "translatable_strings": 150,
+      "translated_strings": 150,
+      "validated_strings": 150,
+      "updated_at": "2026-10-11T18:31:09.878494"
+    },
+    "e0329601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 151,
+      "translatable_strings": 151,
+      "translated_strings": 151,
+      "validated_strings": 151,
+      "updated_at": "2026-10-11T18:31:10.091681"
+    },
+    "80329601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 167,
+      "translatable_strings": 167,
+      "translated_strings": 167,
+      "validated_strings": 167,
+      "updated_at": "2026-10-11T18:31:09.977540"
+    },
+    "a0309601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 152,
+      "translatable_strings": 152,
+      "translated_strings": 152,
+      "validated_strings": 152,
+      "updated_at": "2026-10-11T18:31:10.030151"
+    },
+    "50329601": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 178,
+      "translatable_strings": 178,
+      "translated_strings": 178,
+      "validated_strings": 178,
+      "updated_at": "2026-10-11T18:31:09.925762"
+    },
+    "40339601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 239,
+      "translatable_strings": 239,
+      "translated_strings": 239,
+      "validated_strings": 239,
+      "updated_at": "2026-10-11T18:31:09.915170"
+    },
+    "10339601": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 134,
+      "translatable_strings": 134,
+      "translated_strings": 134,
+      "validated_strings": 134,
+      "updated_at": "2026-10-11T18:31:09.868087"
+    },
+    "a0339601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 189,
+      "translatable_strings": 189,
+      "translated_strings": 189,
+      "validated_strings": 189,
+      "updated_at": "2026-10-11T18:31:10.030936"
+    },
+    "b0329601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 190,
+      "translatable_strings": 190,
+      "translated_strings": 190,
+      "validated_strings": 190,
+      "updated_at": "2026-10-11T18:31:10.044519"
+    },
+    "60349601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 187,
+      "translatable_strings": 187,
+      "translated_strings": 187,
+      "validated_strings": 187,
+      "updated_at": "2026-10-11T18:31:09.942301"
+    },
+    "90349601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 180,
+      "translatable_strings": 180,
+      "translated_strings": 180,
+      "validated_strings": 180,
+      "updated_at": "2026-10-11T18:31:10.007105"
+    },
+    "c0349601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 135,
+      "translatable_strings": 135,
+      "translated_strings": 135,
+      "validated_strings": 135,
+      "updated_at": "2026-10-11T18:31:10.067519"
+    },
+    "70339601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 154,
+      "translatable_strings": 154,
+      "translated_strings": 154,
+      "validated_strings": 154,
+      "updated_at": "2026-10-11T18:31:09.957018"
+    },
+    "30349601": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 244,
+      "translatable_strings": 241,
+      "translated_strings": 244,
+      "validated_strings": 244,
+      "updated_at": "2026-10-11T18:31:09.904155"
+    },
+    "90319601": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 366,
+      "translatable_strings": 366,
+      "translated_strings": 366,
+      "validated_strings": 366,
+      "updated_at": "2026-10-11T18:31:10.005897"
+    },
+    "80359601": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 317,
+      "translatable_strings": 317,
+      "translated_strings": 317,
+      "validated_strings": 317,
+      "updated_at": "2026-10-11T18:31:09.978933"
+    },
+    "20359601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 300,
+      "translatable_strings": 300,
+      "translated_strings": 300,
+      "validated_strings": 300,
+      "updated_at": "2026-10-11T18:31:09.879214"
+    },
+    "00349601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 205,
+      "translatable_strings": 205,
+      "translated_strings": 205,
+      "validated_strings": 205,
+      "updated_at": "2026-10-11T18:31:09.849671"
+    },
+    "f0349601": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 281,
+      "translatable_strings": 280,
+      "translated_strings": 281,
+      "validated_strings": 281,
+      "updated_at": "2026-10-11T18:31:10.105339"
+    },
+    "50359601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 178,
+      "translatable_strings": 178,
+      "translated_strings": 178,
+      "validated_strings": 178,
+      "updated_at": "2026-10-11T18:31:09.926420"
+    },
+    "b0359601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 165,
+      "translatable_strings": 165,
+      "translated_strings": 165,
+      "validated_strings": 165,
+      "updated_at": "2026-10-11T18:31:10.045410"
+    },
+    "60b23602": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 159,
+      "translatable_strings": 159,
+      "translated_strings": 159,
+      "validated_strings": 159,
+      "updated_at": "2026-10-11T18:31:09.947768"
+    },
+    "704d2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 176,
+      "translatable_strings": 176,
+      "translated_strings": 176,
+      "validated_strings": 176,
+      "updated_at": "2026-10-11T18:31:09.957840"
+    },
+    "904e2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 165,
+      "translatable_strings": 165,
+      "translated_strings": 165,
+      "validated_strings": 165,
+      "updated_at": "2026-10-11T18:31:10.008212"
+    },
+    "c04e2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 159,
+      "translatable_strings": 159,
+      "translated_strings": 159,
+      "validated_strings": 159,
+      "updated_at": "2026-10-11T18:31:10.068466"
+    },
+    "d04d2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 172,
+      "translatable_strings": 172,
+      "translated_strings": 172,
+      "validated_strings": 172,
+      "updated_at": "2026-10-11T18:31:10.079618"
+    },
+    "204f2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 195,
+      "translatable_strings": 195,
+      "translated_strings": 195,
+      "validated_strings": 195,
+      "updated_at": "2026-10-11T18:31:09.892225"
+    },
+    "004e2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 148,
+      "translatable_strings": 148,
+      "translated_strings": 148,
+      "validated_strings": 148,
+      "updated_at": "2026-10-11T18:31:09.850387"
+    },
+    "f04e2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 131,
+      "translatable_strings": 131,
+      "translated_strings": 131,
+      "validated_strings": 131,
+      "updated_at": "2026-10-11T18:31:10.105940"
+    },
+    "604e2802": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 238,
+      "translatable_strings": 230,
+      "translated_strings": 238,
+      "validated_strings": 238,
+      "updated_at": "2026-10-11T18:31:09.943346"
+    },
+    "504f2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 256,
+      "translatable_strings": 256,
+      "translated_strings": 256,
+      "validated_strings": 256,
+      "updated_at": "2026-10-11T18:31:09.927154"
+    },
+    "e04f2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 158,
+      "translatable_strings": 158,
+      "translated_strings": 158,
+      "validated_strings": 158,
+      "updated_at": "2026-10-11T18:31:10.092201"
+    },
+    "304e2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 170,
+      "translatable_strings": 170,
+      "translated_strings": 170,
+      "validated_strings": 170,
+      "updated_at": "2026-10-11T18:31:09.904990"
+    },
+    "70502802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 143,
+      "translatable_strings": 143,
+      "translated_strings": 143,
+      "validated_strings": 143,
+      "updated_at": "2026-10-11T18:31:09.958597"
+    },
+    "a04d2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 139,
+      "translatable_strings": 139,
+      "translated_strings": 139,
+      "validated_strings": 139,
+      "updated_at": "2026-10-11T18:31:10.032443"
+    },
+    "d0502802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 199,
+      "translatable_strings": 198,
+      "translated_strings": 199,
+      "validated_strings": 199,
+      "updated_at": "2026-10-11T18:31:10.080279"
+    },
+    "10502802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 194,
+      "translatable_strings": 194,
+      "translated_strings": 194,
+      "validated_strings": 194,
+      "updated_at": "2026-10-11T18:31:09.868693"
+    },
+    "a0502802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 149,
+      "translatable_strings": 149,
+      "translated_strings": 149,
+      "validated_strings": 149,
+      "updated_at": "2026-10-11T18:31:10.033573"
+    },
+    "804f2802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 140,
+      "translatable_strings": 140,
+      "translated_strings": 140,
+      "validated_strings": 140,
+      "updated_at": "2026-10-11T18:31:09.979711"
+    },
+    "90512802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 205,
+      "translatable_strings": 205,
+      "translated_strings": 205,
+      "validated_strings": 205,
+      "updated_at": "2026-10-11T18:31:10.009379"
+    },
+    "c0512802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 174,
+      "translatable_strings": 174,
+      "translated_strings": 174,
+      "validated_strings": 174,
+      "updated_at": "2026-10-11T18:31:10.069052"
+    },
+    "f0512802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 142,
+      "translatable_strings": 142,
+      "translated_strings": 142,
+      "validated_strings": 142,
+      "updated_at": "2026-10-11T18:31:10.106701"
+    },
+    "60512802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 156,
+      "translatable_strings": 156,
+      "translated_strings": 156,
+      "validated_strings": 156,
+      "updated_at": "2026-10-11T18:31:09.944638"
+    },
+    "b04f2802": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 234,
+      "translatable_strings": 234,
+      "translated_strings": 234,
+      "validated_strings": 234,
+      "updated_at": "2026-10-11T18:31:10.046621"
+    },
+    "80522802": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 230,
+      "translatable_strings": 230,
+      "translated_strings": 230,
+      "validated_strings": 230,
+      "updated_at": "2026-10-11T18:31:09.980936"
+    },
+    "30512802": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 152,
+      "translatable_strings": 152,
+      "translated_strings": 152,
+      "validated_strings": 152,
+      "updated_at": "2026-10-11T18:31:09.905392"
+    },
+    "20522802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 119,
+      "translatable_strings": 119,
+      "translated_strings": 119,
+      "validated_strings": 119,
+      "updated_at": "2026-10-11T18:31:09.892741"
+    },
+    "00512802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 145,
+      "translatable_strings": 145,
+      "translated_strings": 145,
+      "validated_strings": 145,
+      "updated_at": "2026-10-11T18:31:09.851084"
+    },
+    "40532802": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 165,
+      "translatable_strings": 165,
+      "translated_strings": 165,
+      "validated_strings": 165,
+      "updated_at": "2026-10-11T18:31:09.916555"
+    },
+    "40502802": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 122,
+      "translatable_strings": 122,
+      "translated_strings": 122,
+      "validated_strings": 122,
+      "updated_at": "2026-10-11T18:31:09.915860"
+    },
+    "e0522802": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 145,
+      "translatable_strings": 145,
+      "translated_strings": 145,
+      "validated_strings": 145,
+      "updated_at": "2026-10-11T18:31:10.092684"
+    },
+    "70532802": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 125,
+      "translatable_strings": 125,
+      "translated_strings": 125,
+      "validated_strings": 125,
+      "updated_at": "2026-10-11T18:31:09.959292"
+    },
+    "b0522802": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 188,
+      "translatable_strings": 188,
+      "translated_strings": 188,
+      "validated_strings": 188,
+      "updated_at": "2026-10-11T18:31:10.047623"
+    },
+    "10532802": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 194,
+      "translatable_strings": 194,
+      "translated_strings": 194,
+      "validated_strings": 194,
+      "updated_at": "2026-10-11T18:31:09.869251"
+    },
+    "a0532802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 215,
+      "translatable_strings": 215,
+      "translated_strings": 215,
+      "validated_strings": 215,
+      "updated_at": "2026-10-11T18:31:10.034481"
+    },
+    "90542802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 230,
+      "translatable_strings": 230,
+      "translated_strings": 230,
+      "validated_strings": 230,
+      "updated_at": "2026-10-11T18:31:10.010494"
+    },
+    "c0542802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 137,
+      "translatable_strings": 137,
+      "translated_strings": 137,
+      "validated_strings": 137,
+      "updated_at": "2026-10-11T18:31:10.069458"
+    },
+    "30542802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 200,
+      "translatable_strings": 200,
+      "translated_strings": 200,
+      "validated_strings": 200,
+      "updated_at": "2026-10-11T18:31:09.905787"
+    },
+    "60542802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 142,
+      "translatable_strings": 142,
+      "translated_strings": 142,
+      "validated_strings": 142,
+      "updated_at": "2026-10-11T18:31:09.945476"
+    },
+    "00542802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 142,
+      "translatable_strings": 142,
+      "translated_strings": 142,
+      "validated_strings": 142,
+      "updated_at": "2026-10-11T18:31:09.851904"
+    },
+    "50522802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 122,
+      "translatable_strings": 122,
+      "translated_strings": 122,
+      "validated_strings": 122,
+      "updated_at": "2026-10-11T18:31:09.927964"
+    },
+    "f0542802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 156,
+      "translatable_strings": 156,
+      "translated_strings": 156,
+      "validated_strings": 156,
+      "updated_at": "2026-10-11T18:31:10.107152"
+    },
+    "20552802": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 141,
+      "translatable_strings": 141,
+      "translated_strings": 141,
+      "validated_strings": 141,
+      "updated_at": "2026-10-11T18:31:09.893675"
+    },
+    "d0339601": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 127,
+      "translatable_strings": 127,
+      "translated_strings": 127,
+      "validated_strings": 127,
+      "updated_at": "2026-10-11T18:31:10.079244"
+    },
+    "00f15202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 121,
+      "translatable_strings": 121,
+      "translated_strings": 121,
+      "validated_strings": 121,
+      "updated_at": "2026-10-11T18:31:09.860631"
+    },
+    "30f15202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 88,
+      "translatable_strings": 88,
+      "translated_strings": 88,
+      "validated_strings": 88,
+      "updated_at": "2026-10-11T18:31:09.910691"
+    },
+    "c0f15202": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 29,
+      "translatable_strings": 29,
+      "translated_strings": 29,
+      "validated_strings": 29,
+      "updated_at": "2026-10-11T18:31:10.075103"
+    },
+    "60f15202": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 60,
+      "translatable_strings": 60,
+      "translated_strings": 60,
+      "validated_strings": 60,
+      "updated_at": "2026-10-11T18:31:09.950941"
+    },
+    "b0f25202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 83,
+      "translatable_strings": 83,
+      "translated_strings": 83,
+      "validated_strings": 83,
+      "updated_at": "2026-10-11T18:31:10.061342"
+    },
+    "e0f25202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 108,
+      "translatable_strings": 108,
+      "translated_strings": 108,
+      "validated_strings": 108,
+      "updated_at": "2026-10-11T18:31:10.098845"
+    },
+    "f0f15202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 118,
+      "translatable_strings": 118,
+      "translated_strings": 118,
+      "validated_strings": 118,
+      "updated_at": "2026-10-11T18:31:10.111808"
+    },
+    "20f25202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 114,
+      "translatable_strings": 114,
+      "translated_strings": 114,
+      "validated_strings": 114,
+      "updated_at": "2026-10-11T18:31:09.897940"
+    },
+    "70f35202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 130,
+      "translatable_strings": 130,
+      "translated_strings": 130,
+      "validated_strings": 130,
+      "updated_at": "2026-10-11T18:31:09.969579"
+    },
+    "50f25202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 180,
+      "translatable_strings": 180,
+      "translated_strings": 180,
+      "validated_strings": 180,
+      "updated_at": "2026-10-11T18:31:09.934348"
+    },
+    "80f25202": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 239,
+      "translatable_strings": 238,
+      "translated_strings": 239,
+      "validated_strings": 239,
+      "updated_at": "2026-10-11T18:31:09.993522"
+    },
+    "00f45202": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 669,
+      "translatable_strings": 669,
+      "translated_strings": 669,
+      "validated_strings": 669,
+      "updated_at": "2026-10-11T18:31:09.862875"
+    },
+    "a0f35202": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 404,
+      "translatable_strings": 404,
+      "translated_strings": 404,
+      "validated_strings": 404,
+      "updated_at": "2026-10-11T18:31:10.040292"
+    },
+    "d0f35202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 244,
+      "translatable_strings": 244,
+      "translated_strings": 244,
+      "validated_strings": 244,
+      "updated_at": "2026-10-11T18:31:10.087065"
+    },
+    "90f15202": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 213,
+      "translatable_strings": 213,
+      "translated_strings": 213,
+      "validated_strings": 213,
+      "updated_at": "2026-10-11T18:31:10.023289"
+    },
+    "10f35202": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 479,
+      "translatable_strings": 479,
+      "translated_strings": 479,
+      "validated_strings": 479,
+      "updated_at": "2026-10-11T18:31:09.873752"
+    },
+    "60f45202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 193,
+      "translatable_strings": 193,
+      "translated_strings": 193,
+      "validated_strings": 193,
+      "updated_at": "2026-10-11T18:31:09.951839"
+    },
+    "20f55202": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 285,
+      "translatable_strings": 275,
+      "translated_strings": 285,
+      "validated_strings": 285,
+      "updated_at": "2026-10-11T18:31:09.899014"
+    },
+    "50f55202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 207,
+      "translatable_strings": 207,
+      "translated_strings": 207,
+      "validated_strings": 207,
+      "updated_at": "2026-10-11T18:31:09.936487"
+    },
+    "80f55202": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 324,
+      "translatable_strings": 324,
+      "translated_strings": 324,
+      "validated_strings": 324,
+      "updated_at": "2026-10-11T18:31:09.995965"
+    },
+    "40f35202": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 355,
+      "translatable_strings": 353,
+      "translated_strings": 355,
+      "validated_strings": 355,
+      "updated_at": "2026-10-11T18:31:09.922563"
+    },
+    "e0f55202": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 345,
+      "translatable_strings": 345,
+      "translated_strings": 345,
+      "validated_strings": 345,
+      "updated_at": "2026-10-11T18:31:10.099713"
+    },
+    "10f65202": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 313,
+      "translatable_strings": 311,
+      "translated_strings": 313,
+      "validated_strings": 313,
+      "updated_at": "2026-10-11T18:31:09.875212"
+    },
+    "f0f45202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 106,
+      "translatable_strings": 106,
+      "translated_strings": 106,
+      "validated_strings": 106,
+      "updated_at": "2026-10-11T18:31:10.112732"
+    },
+    "b0f55202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 87,
+      "translatable_strings": 87,
+      "translated_strings": 87,
+      "validated_strings": 87,
+      "updated_at": "2026-10-11T18:31:10.062273"
+    },
+    "c0f45202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 125,
+      "translatable_strings": 125,
+      "translated_strings": 125,
+      "validated_strings": 125,
+      "updated_at": "2026-10-11T18:31:10.075913"
+    },
+    "90f45202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 130,
+      "translatable_strings": 130,
+      "translated_strings": 130,
+      "validated_strings": 130,
+      "updated_at": "2026-10-11T18:31:10.025295"
+    },
+    "00f75202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 134,
+      "translatable_strings": 134,
+      "translated_strings": 134,
+      "validated_strings": 134,
+      "updated_at": "2026-10-11T18:31:09.864649"
+    },
+    "30f75202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 130,
+      "translatable_strings": 130,
+      "translated_strings": 130,
+      "validated_strings": 130,
+      "updated_at": "2026-10-11T18:31:09.912224"
+    },
+    "60f75202": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 631,
+      "translatable_strings": 631,
+      "translated_strings": 631,
+      "validated_strings": 631,
+      "updated_at": "2026-10-11T18:31:09.953005"
+    },
+    "90f75202": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 96,
+      "translatable_strings": 96,
+      "translated_strings": 96,
+      "validated_strings": 96,
+      "updated_at": "2026-10-11T18:31:10.027145"
+    },
+    "a0f65202": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 56,
+      "translatable_strings": 56,
+      "translated_strings": 56,
+      "validated_strings": 56,
+      "updated_at": "2026-10-11T18:31:10.041546"
+    },
+    "40f65202": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 73,
+      "translatable_strings": 73,
+      "translated_strings": 73,
+      "validated_strings": 73,
+      "updated_at": "2026-10-11T18:31:09.924074"
+    },
+    "70f65202": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 72,
+      "translatable_strings": 72,
+      "translated_strings": 72,
+      "validated_strings": 72,
+      "updated_at": "2026-10-11T18:31:09.971118"
+    },
+    "50f85202": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 34,
+      "translatable_strings": 34,
+      "translated_strings": 34,
+      "validated_strings": 34,
+      "updated_at": "2026-10-11T18:31:09.937594"
+    },
+    "d0f65202": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 23,
+      "translatable_strings": 23,
+      "translated_strings": 23,
+      "validated_strings": 23,
+      "updated_at": "2026-10-11T18:31:10.088706"
+    },
+    "f0f75202": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 67,
+      "translatable_strings": 67,
+      "translated_strings": 67,
+      "validated_strings": 67,
+      "updated_at": "2026-10-11T18:31:10.113345"
+    },
+    "c0f75202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 110,
+      "translatable_strings": 110,
+      "translated_strings": 110,
+      "validated_strings": 110,
+      "updated_at": "2026-10-11T18:31:10.076756"
+    },
+    "b0f85202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 113,
+      "translatable_strings": 113,
+      "translated_strings": 113,
+      "validated_strings": 113,
+      "updated_at": "2026-10-11T18:31:10.063188"
+    },
+    "20f85202": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 111,
+      "translatable_strings": 111,
+      "translated_strings": 111,
+      "validated_strings": 111,
+      "updated_at": "2026-10-11T18:31:09.900597"
+    },
+    "30f45202": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 83,
+      "translatable_strings": 82,
+      "translated_strings": 83,
+      "validated_strings": 83,
+      "updated_at": "2026-10-11T18:31:09.911533"
+    },
+    "d0532802": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 120,
+      "translatable_strings": 120,
+      "translated_strings": 120,
+      "validated_strings": 120,
+      "updated_at": "2026-10-11T18:31:10.081240"
+    },
+    "d0afb600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 109,
+      "translatable_strings": 109,
+      "translated_strings": 109,
+      "validated_strings": 109,
+      "updated_at": "2026-10-11T18:31:10.083188"
+    },
+    "70afb600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 135,
+      "translatable_strings": 135,
+      "translated_strings": 135,
+      "validated_strings": 135,
+      "updated_at": "2026-10-11T18:31:09.960831"
+    },
+    "30b0b600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 170,
+      "translatable_strings": 170,
+      "translated_strings": 170,
+      "validated_strings": 170,
+      "updated_at": "2026-10-11T18:31:09.908125"
+    },
+    "c0b0b600": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 230,
+      "translatable_strings": 225,
+      "translated_strings": 230,
+      "validated_strings": 230,
+      "updated_at": "2026-10-11T18:31:10.070646"
+    },
+    "90b0b600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 65,
+      "translatable_strings": 65,
+      "translated_strings": 65,
+      "validated_strings": 65,
+      "updated_at": "2026-10-11T18:31:10.014175"
+    },
+    "f0b0b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 75,
+      "translatable_strings": 75,
+      "translated_strings": 75,
+      "validated_strings": 75,
+      "updated_at": "2026-10-11T18:31:10.108721"
+    },
+    "00b0b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 281,
+      "translatable_strings": 151,
+      "translated_strings": 281,
+      "validated_strings": 281,
+      "updated_at": "2026-10-11T18:31:09.854873"
+    },
+    "60b0b600": {
+      "status": "validated",
+      "category": "Görev / Açıklama Metinleri",
+      "total_strings": 69,
+      "translatable_strings": 69,
+      "translated_strings": 69,
+      "validated_strings": 69,
+      "updated_at": "2026-10-11T18:31:09.947307"
+    },
+    "a0afb600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 122,
+      "translatable_strings": 122,
+      "translated_strings": 122,
+      "validated_strings": 122,
+      "updated_at": "2026-10-11T18:31:10.035603"
+    },
+    "b0b1b600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 177,
+      "translatable_strings": 177,
+      "translated_strings": 177,
+      "validated_strings": 177,
+      "updated_at": "2026-10-11T18:31:10.049653"
+    },
+    "40b2b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 187,
+      "translatable_strings": 187,
+      "translated_strings": 187,
+      "validated_strings": 187,
+      "updated_at": "2026-10-11T18:31:09.917804"
+    },
+    "80b1b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 152,
+      "translatable_strings": 148,
+      "translated_strings": 152,
+      "validated_strings": 152,
+      "updated_at": "2026-10-11T18:31:09.985609"
+    },
+    "a0b2b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 200,
+      "translatable_strings": 199,
+      "translated_strings": 200,
+      "validated_strings": 200,
+      "updated_at": "2026-10-11T18:31:10.036510"
+    },
+    "d0b2b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 161,
+      "translatable_strings": 161,
+      "translated_strings": 161,
+      "validated_strings": 161,
+      "updated_at": "2026-10-11T18:31:10.084028"
+    },
+    "00b3b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 181,
+      "translatable_strings": 181,
+      "translated_strings": 181,
+      "validated_strings": 181,
+      "updated_at": "2026-10-11T18:31:09.856327"
+    },
+    "30b3b600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 117,
+      "translatable_strings": 117,
+      "translated_strings": 117,
+      "validated_strings": 117,
+      "updated_at": "2026-10-11T18:31:09.909008"
+    },
+    "70b2b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 185,
+      "translatable_strings": 185,
+      "translated_strings": 185,
+      "validated_strings": 185,
+      "updated_at": "2026-10-11T18:31:09.962643"
+    },
+    "e0b1b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 153,
+      "translatable_strings": 153,
+      "translated_strings": 153,
+      "validated_strings": 153,
+      "updated_at": "2026-10-11T18:31:10.095697"
+    },
+    "90b3b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 184,
+      "translatable_strings": 184,
+      "translated_strings": 184,
+      "validated_strings": 184,
+      "updated_at": "2026-10-11T18:31:10.016219"
+    },
+    "50b1b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 163,
+      "translatable_strings": 163,
+      "translated_strings": 163,
+      "validated_strings": 163,
+      "updated_at": "2026-10-11T18:31:09.930928"
+    },
+    "20b4b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 159,
+      "translatable_strings": 159,
+      "translated_strings": 159,
+      "validated_strings": 159,
+      "updated_at": "2026-10-11T18:31:09.896177"
+    },
+    "50b4b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 171,
+      "translatable_strings": 170,
+      "translated_strings": 171,
+      "validated_strings": 171,
+      "updated_at": "2026-10-11T18:31:09.932232"
+    },
+    "20b1b600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 175,
+      "translatable_strings": 175,
+      "translated_strings": 175,
+      "validated_strings": 175,
+      "updated_at": "2026-10-11T18:31:09.895498"
+    },
+    "10b2b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 150,
+      "translatable_strings": 150,
+      "translated_strings": 150,
+      "validated_strings": 150,
+      "updated_at": "2026-10-11T18:31:09.870532"
+    },
+    "60b3b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 112,
+      "translatable_strings": 112,
+      "translated_strings": 112,
+      "validated_strings": 112,
+      "updated_at": "2026-10-11T18:31:09.948250"
+    },
+    "c0b3b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 107,
+      "translatable_strings": 107,
+      "translated_strings": 107,
+      "validated_strings": 107,
+      "updated_at": "2026-10-11T18:31:10.071288"
+    },
+    "f0b3b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 83,
+      "translatable_strings": 82,
+      "translated_strings": 83,
+      "validated_strings": 83,
+      "updated_at": "2026-10-11T18:31:10.109856"
+    },
+    "40b5b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 90,
+      "translatable_strings": 90,
+      "translated_strings": 90,
+      "validated_strings": 90,
+      "updated_at": "2026-10-11T18:31:09.918579"
+    },
+    "80b4b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 101,
+      "translatable_strings": 101,
+      "translated_strings": 101,
+      "validated_strings": 101,
+      "updated_at": "2026-10-11T18:31:09.988125"
+    },
+    "d0b5b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 122,
+      "translatable_strings": 122,
+      "translated_strings": 122,
+      "validated_strings": 122,
+      "updated_at": "2026-10-11T18:31:10.084393"
+    },
+    "70b5b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 169,
+      "translatable_strings": 169,
+      "translated_strings": 169,
+      "validated_strings": 169,
+      "updated_at": "2026-10-11T18:31:09.963590"
+    },
+    "30b6b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 107,
+      "translatable_strings": 107,
+      "translated_strings": 107,
+      "validated_strings": 107,
+      "updated_at": "2026-10-11T18:31:09.909341"
+    },
+    "e0b4b600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 183,
+      "translatable_strings": 183,
+      "translated_strings": 183,
+      "validated_strings": 183,
+      "updated_at": "2026-10-11T18:31:10.096441"
+    },
+    "90b6b600": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 204,
+      "translatable_strings": 204,
+      "translated_strings": 204,
+      "validated_strings": 204,
+      "updated_at": "2026-10-11T18:31:10.017268"
+    },
+    "c0b6b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 213,
+      "translatable_strings": 213,
+      "translated_strings": 213,
+      "validated_strings": 213,
+      "updated_at": "2026-10-11T18:31:10.071940"
+    },
+    "a0b5b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 165,
+      "translatable_strings": 165,
+      "translated_strings": 165,
+      "validated_strings": 165,
+      "updated_at": "2026-10-11T18:31:10.037022"
+    },
+    "10b5b600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 180,
+      "translatable_strings": 180,
+      "translated_strings": 180,
+      "validated_strings": 180,
+      "updated_at": "2026-10-11T18:31:09.870920"
+    },
+    "20b7b600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 150,
+      "translatable_strings": 150,
+      "translated_strings": 150,
+      "validated_strings": 150,
+      "updated_at": "2026-10-11T18:31:09.896614"
+    },
+    "60b6b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 138,
+      "translatable_strings": 138,
+      "translated_strings": 138,
+      "validated_strings": 138,
+      "updated_at": "2026-10-11T18:31:09.948908"
+    },
+    "b0b4b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 163,
+      "translatable_strings": 163,
+      "translated_strings": 163,
+      "validated_strings": 163,
+      "updated_at": "2026-10-11T18:31:10.050161"
+    },
+    "00b6b600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 186,
+      "translatable_strings": 186,
+      "translated_strings": 186,
+      "validated_strings": 186,
+      "updated_at": "2026-10-11T18:31:09.857088"
+    },
+    "80f85202": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 169,
+      "translatable_strings": 169,
+      "translated_strings": 169,
+      "validated_strings": 169,
+      "updated_at": "2026-10-11T18:31:09.998648"
+    },
+    "70b7b600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 171,
+      "translatable_strings": 171,
+      "translated_strings": 171,
+      "validated_strings": 171,
+      "updated_at": "2026-10-11T18:31:09.964608"
+    },
+    "c0b8b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 165,
+      "translatable_strings": 165,
+      "translated_strings": 165,
+      "validated_strings": 165,
+      "updated_at": "2026-10-11T18:31:10.072474"
+    },
+    "60b8b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 128,
+      "translatable_strings": 128,
+      "translated_strings": 128,
+      "validated_strings": 128,
+      "updated_at": "2026-10-11T18:31:09.949575"
+    },
+    "d0b7b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 153,
+      "translatable_strings": 153,
+      "translated_strings": 153,
+      "validated_strings": 153,
+      "updated_at": "2026-10-11T18:31:10.084850"
+    },
+    "20b9b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 156,
+      "translatable_strings": 156,
+      "translated_strings": 156,
+      "validated_strings": 156,
+      "updated_at": "2026-10-11T18:31:09.897003"
+    },
+    "50b9b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 106,
+      "translatable_strings": 106,
+      "translated_strings": 106,
+      "validated_strings": 106,
+      "updated_at": "2026-10-11T18:31:09.932934"
+    },
+    "00b8b600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 91,
+      "translatable_strings": 91,
+      "translated_strings": 91,
+      "validated_strings": 91,
+      "updated_at": "2026-10-11T18:31:09.857980"
+    },
+    "30b8b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 107,
+      "translatable_strings": 107,
+      "translated_strings": 107,
+      "validated_strings": 107,
+      "updated_at": "2026-10-11T18:31:09.909652"
+    },
+    "b0b9b600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 158,
+      "translatable_strings": 157,
+      "translated_strings": 158,
+      "validated_strings": 158,
+      "updated_at": "2026-10-11T18:31:10.050768"
+    },
+    "f0b8b600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 103,
+      "translatable_strings": 103,
+      "translated_strings": 103,
+      "validated_strings": 103,
+      "updated_at": "2026-10-11T18:31:10.110734"
+    },
+    "90b8b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 127,
+      "translatable_strings": 127,
+      "translated_strings": 127,
+      "validated_strings": 127,
+      "updated_at": "2026-10-11T18:31:10.020341"
+    },
+    "70bab600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 109,
+      "translatable_strings": 109,
+      "translated_strings": 109,
+      "validated_strings": 109,
+      "updated_at": "2026-10-11T18:31:09.965577"
+    },
+    "40bab600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 215,
+      "translatable_strings": 215,
+      "translated_strings": 215,
+      "validated_strings": 215,
+      "updated_at": "2026-10-11T18:31:09.919402"
+    },
+    "d0bab600": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 204,
+      "translatable_strings": 190,
+      "translated_strings": 204,
+      "validated_strings": 204,
+      "updated_at": "2026-10-11T18:31:10.085502"
+    },
+    "a0b7b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 103,
+      "translatable_strings": 103,
+      "translated_strings": 103,
+      "validated_strings": 103,
+      "updated_at": "2026-10-11T18:31:10.037450"
+    },
+    "80b9b600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 150,
+      "translatable_strings": 148,
+      "translated_strings": 150,
+      "validated_strings": 150,
+      "updated_at": "2026-10-11T18:31:09.989179"
+    },
+    "30bbb600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 131,
+      "translatable_strings": 130,
+      "translated_strings": 131,
+      "validated_strings": 131,
+      "updated_at": "2026-10-11T18:31:09.909965"
+    },
+    "c0bbb600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 104,
+      "translatable_strings": 104,
+      "translated_strings": 104,
+      "validated_strings": 104,
+      "updated_at": "2026-10-11T18:31:10.072849"
+    },
+    "90bbb600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 126,
+      "translatable_strings": 126,
+      "translated_strings": 126,
+      "validated_strings": 126,
+      "updated_at": "2026-10-11T18:31:10.021259"
+    },
+    "a0bab600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 126,
+      "translatable_strings": 126,
+      "translated_strings": 126,
+      "validated_strings": 126,
+      "updated_at": "2026-10-11T18:31:10.037803"
+    },
+    "f0bbb600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 92,
+      "translatable_strings": 92,
+      "translated_strings": 92,
+      "validated_strings": 92,
+      "updated_at": "2026-10-11T18:31:10.111177"
+    },
+    "20bcb600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 60,
+      "translatable_strings": 60,
+      "translated_strings": 60,
+      "validated_strings": 60,
+      "updated_at": "2026-10-11T18:31:09.897280"
+    },
+    "80bcb600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 115,
+      "translatable_strings": 115,
+      "translated_strings": 115,
+      "validated_strings": 115,
+      "updated_at": "2026-10-11T18:31:09.991326"
+    },
+    "e0b9b600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 139,
+      "translatable_strings": 139,
+      "translated_strings": 139,
+      "validated_strings": 139,
+      "updated_at": "2026-10-11T18:31:10.097269"
+    },
+    "10bab600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 79,
+      "translatable_strings": 79,
+      "translated_strings": 79,
+      "validated_strings": 79,
+      "updated_at": "2026-10-11T18:31:09.871270"
+    },
+    "b0bcb600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 114,
+      "translatable_strings": 114,
+      "translated_strings": 114,
+      "validated_strings": 114,
+      "updated_at": "2026-10-11T18:31:10.051238"
+    },
+    "40bdb600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 136,
+      "translatable_strings": 136,
+      "translated_strings": 136,
+      "validated_strings": 136,
+      "updated_at": "2026-10-11T18:31:09.920142"
+    },
+    "50bcb600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 175,
+      "translatable_strings": 175,
+      "translated_strings": 175,
+      "validated_strings": 175,
+      "updated_at": "2026-10-11T18:31:09.933566"
+    },
+    "a0bdb600": {
+      "status": "validated",
+      "category": "UI / Menü / Arayüz",
+      "total_strings": 224,
+      "translatable_strings": 223,
+      "translated_strings": 224,
+      "validated_strings": 224,
+      "updated_at": "2026-10-11T18:31:10.038299"
+    },
+    "e0bcb600": {
+      "status": "validated",
+      "category": "Kısa İpuçları / HUD / Etiketler",
+      "total_strings": 293,
+      "translatable_strings": 274,
+      "translated_strings": 293,
+      "validated_strings": 293,
+      "updated_at": "2026-10-11T18:31:10.098010"
+    },
+    "70bdb600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 264,
+      "translatable_strings": 250,
+      "translated_strings": 264,
+      "validated_strings": 264,
+      "updated_at": "2026-10-11T18:31:09.966859"
+    },
+    "30beb600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 244,
+      "translatable_strings": 226,
+      "translated_strings": 244,
+      "validated_strings": 244,
+      "updated_at": "2026-10-11T18:31:09.910391"
+    },
+    "d0bdb600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 156,
+      "translatable_strings": 156,
+      "translated_strings": 156,
+      "validated_strings": 156,
+      "updated_at": "2026-10-11T18:31:10.085901"
+    },
+    "60bbb600": {
+      "status": "validated",
+      "category": "Görev / Açıklama Metinleri",
+      "total_strings": 99,
+      "translatable_strings": 99,
+      "translated_strings": 99,
+      "validated_strings": 99,
+      "updated_at": "2026-10-11T18:31:09.950088"
+    },
+    "00bbb600": {
+      "status": "validated",
+      "category": "Halk Dedikoduları / Çevre Diyalogları",
+      "total_strings": 130,
+      "translatable_strings": 130,
+      "translated_strings": 130,
+      "validated_strings": 130,
+      "updated_at": "2026-10-11T18:31:09.858963"
+    },
+    "10bdb600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 146,
+      "translatable_strings": 146,
+      "translated_strings": 146,
+      "validated_strings": 146,
+      "updated_at": "2026-10-11T18:31:09.871704"
+    },
+    "00beb600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 100,
+      "translatable_strings": 100,
+      "translated_strings": 100,
+      "validated_strings": 100,
+      "updated_at": "2026-10-11T18:31:09.859939"
+    },
+    "c0beb600": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 102,
+      "translatable_strings": 102,
+      "translated_strings": 102,
+      "validated_strings": 102,
+      "updated_at": "2026-10-11T18:31:10.073852"
+    },
+    "60beb600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 103,
+      "translatable_strings": 103,
+      "translated_strings": 103,
+      "validated_strings": 103,
+      "updated_at": "2026-10-11T18:31:09.950565"
+    },
+    "f0beb600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 93,
+      "translatable_strings": 93,
+      "translated_strings": 93,
+      "validated_strings": 93,
+      "updated_at": "2026-10-11T18:31:10.111494"
+    },
+    "20bfb600": {
+      "status": "validated",
+      "category": "Diyalog / Görev Konuşmaları",
+      "total_strings": 173,
+      "translatable_strings": 173,
+      "translated_strings": 173,
+      "validated_strings": 173,
+      "updated_at": "2026-10-11T18:31:09.897627"
+    },
+    "90beb600": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 74,
+      "translatable_strings": 74,
+      "translated_strings": 74,
+      "validated_strings": 74,
+      "updated_at": "2026-10-11T18:31:10.022025"
+    },
+    "60116602": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 105,
+      "translatable_strings": 105,
+      "translated_strings": 105,
+      "validated_strings": 105,
+      "updated_at": "2026-10-11T18:31:09.939560"
+    },
+    "90116602": {
+      "status": "validated",
+      "category": "Kitap / Günlük / Tarihçe",
+      "total_strings": 46,
+      "translatable_strings": 46,
+      "translated_strings": 46,
+      "validated_strings": 46,
+      "updated_at": "2026-10-11T18:31:10.001180"
+    },
+    "20126602": {
+      "status": "validated",
+      "category": "Eşya / Büyü / Donanım",
+      "total_strings": 183,
+      "translatable_strings": 181,
+      "translated_strings": 183,
+      "validated_strings": 183,
+      "updated_at": "2026-10-11T18:31:09.877100"
+    }
+  }
+}

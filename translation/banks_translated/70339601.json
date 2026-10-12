@@ -1,0 +1,776 @@
+{
+  "bank_id": "70339601",
+  "total_strings": 154,
+  "strings": [
+    {
+      "id": "01cbeaa5",
+      "bank_id": "70339601",
+      "text": "Tam bir afet değil mi ama?"
+    },
+    {
+      "id": "01cbeaae",
+      "bank_id": "70339601",
+      "text": "Tam bir afet değil mi ama?"
+    },
+    {
+      "id": "0d6130d4",
+      "bank_id": "70339601",
+      "text": "Daha önce bir yere yerleşeceğimi hiç düşünmezdim ama o fikrimi değiştirdi!"
+    },
+    {
+      "id": "0d6130df",
+      "bank_id": "70339601",
+      "text": "Daha önce bir yere yerleşeceğimi hiç düşünmezdim ama o fikrimi değiştirdi!"
+    },
+    {
+      "id": "12a695a5",
+      "bank_id": "70339601",
+      "text": "Bayağı sevimli biri, sence de öyle değil mi?"
+    },
+    {
+      "id": "12a695ae",
+      "bank_id": "70339601",
+      "text": "Birlikte olduğumuzu hayal edebiliyorum."
+    },
+    {
+      "id": "12ab3aa4",
+      "bank_id": "70339601",
+      "text": "Yaptığım her şeyi onun için yapıyorum."
+    },
+    {
+      "id": "12ab3aaf",
+      "bank_id": "70339601",
+      "text": "Yaptığım her şeyi onun için yapıyorum."
+    },
+    {
+      "id": "12e41f36",
+      "bank_id": "70339601",
+      "text": "Ah, onunla evli olmak tek kelimeyle harika."
+    },
+    {
+      "id": "12e41f3d",
+      "bank_id": "70339601",
+      "text": "Ah, onunla evli olmak tek kelimeyle harika."
+    },
+    {
+      "id": "1437d356",
+      "bank_id": "70339601",
+      "text": "Ah, onunla evli olmak tek kelimeyle harika."
+    },
+    {
+      "id": "1437d35d",
+      "bank_id": "70339601",
+      "text": "Ah, onunla evli olmak tek kelimeyle harika."
+    },
+    {
+      "id": "176d96d7",
+      "bank_id": "70339601",
+      "text": "Eskiden evliliğin dünyadaki en harika şey olduğuna inanırdım. Ne yazık ki onunla evlendim."
+    },
+    {
+      "id": "176d96dc",
+      "bank_id": "70339601",
+      "text": "Eskiden evliliğin dünyadaki en harika şey olduğuna inanırdım. Ne yazık ki onunla evlendim."
+    },
+    {
+      "id": "17a902c2",
+      "bank_id": "70339601",
+      "text": "Çoğu erkeğin bin tanesine bedeldir o."
+    },
+    {
+      "id": "17a902c9",
+      "bank_id": "70339601",
+      "text": "Çoğu kadının bin tanesine bedeldir o."
+    },
+    {
+      "id": "1ad1bf50",
+      "bank_id": "70339601",
+      "text": "O cadıyla evli kaldığıma hâlâ inanamıyorum. Aklım neredeydi acaba?!"
+    },
+    {
+      "id": "1ad1bf5b",
+      "bank_id": "70339601",
+      "text": "O hödükle evli kaldığıma hâlâ inanamıyorum. Aklım neredeydi acaba?!"
+    },
+    {
+      "id": "1bf25ca5",
+      "bank_id": "70339601",
+      "text": "Benim gibi birini fark etmeye tenezzül eder mi dersin?"
+    },
+    {
+      "id": "1bf25cae",
+      "bank_id": "70339601",
+      "text": "Açıklanamaz bir sebepten ötürü sürekli rüyalarıma giriyor."
+    },
+    {
+      "id": "1fe53896",
+      "bank_id": "70339601",
+      "text": "Bundan daha harika, daha çekici bir erkek var mıdır acaba?"
+    },
+    {
+      "id": "1fe5389d",
+      "bank_id": "70339601",
+      "text": "Bundan daha harika, daha çekici bir kadın var mıdır acaba?"
+    },
+    {
+      "id": "2883adc2",
+      "bank_id": "70339601",
+      "text": "Onu her gördüğümde kalbim küt küt atıyor."
+    },
+    {
+      "id": "2883adc9",
+      "bank_id": "70339601",
+      "text": "Sana söylüyorum, onda beni... heyecanlandıran bir şeyler var."
+    },
+    {
+      "id": "28c13761",
+      "bank_id": "70339601",
+      "text": "Ah evet, harika bir kadın. Onunla evli olmaya bayılıyorum."
+    },
+    {
+      "id": "28c1376a",
+      "bank_id": "70339601",
+      "text": "Ah evet, harika bir adam. Onunla evli olmaya bayılıyorum."
+    },
+    {
+      "id": "2a167df1",
+      "bank_id": "70339601",
+      "text": "Ah evet, harika bir adam. Onunla evli olmaya bayılıyorum."
+    },
+    {
+      "id": "2a167dfa",
+      "bank_id": "70339601",
+      "text": "Ah evet, harika bir kadın. Onunla evli olmaya bayılıyorum."
+    },
+    {
+      "id": "2cf32645",
+      "bank_id": "70339601",
+      "text": "Ona domuzlarıma baktığımdan bile daha iyi bakardım."
+    },
+    {
+      "id": "2cf3264e",
+      "bank_id": "70339601",
+      "text": "Onu her domuzdan daha çok severdim."
+    },
+    {
+      "id": "309c29c3",
+      "bank_id": "70339601",
+      "text": "Böyle harika bir kadınla evlendim biliyor musun. Bazen şansıma inanamıyorum."
+    },
+    {
+      "id": "309c29c8",
+      "bank_id": "70339601",
+      "text": "Böyle harika bir adamla evlendim biliyor musun. Bazen şansıma inanamıyorum."
+    },
+    {
+      "id": "30e8dab0",
+      "bank_id": "70339601",
+      "text": "Sana söylüyorum, onunla evlenerek büyük hata ettim."
+    },
+    {
+      "id": "30e8dabb",
+      "bank_id": "70339601",
+      "text": "Sana söylüyorum, onunla evlenerek büyük hata ettim."
+    },
+    {
+      "id": "31cf74c2",
+      "bank_id": "70339601",
+      "text": "Bir erkekte aradığım her şey onda var."
+    },
+    {
+      "id": "31cf74c9",
+      "bank_id": "70339601",
+      "text": "Benim gibi bir erkeğe bakar mı dersin?"
+    },
+    {
+      "id": "38886bf3",
+      "bank_id": "70339601",
+      "text": "Ona bakmaya cüret bile etme! O benim!"
+    },
+    {
+      "id": "38886bf8",
+      "bank_id": "70339601",
+      "text": "Ona bakmaya cüret bile etme! O benim!"
+    },
+    {
+      "id": "3dcdd145",
+      "bank_id": "70339601",
+      "text": "Bambaşka biri o, değil mi?"
+    },
+    {
+      "id": "3dcdd14e",
+      "bank_id": "70339601",
+      "text": "Sürekli onu düşünüyorum."
+    },
+    {
+      "id": "4025e942",
+      "bank_id": "70339601",
+      "text": "Beni sıradan bir hayattan kurtarmaya gelmiş bir büyücü o!"
+    },
+    {
+      "id": "4025e949",
+      "bank_id": "70339601",
+      "text": "İçimi öyle büyük bir aşkla dolduruyor ki kendime hâkim olamıyorum."
+    },
+    {
+      "id": "456e6000",
+      "bank_id": "70339601",
+      "text": "Beni bir gün sevebileceğini düşünüyor musun?"
+    },
+    {
+      "id": "456e600b",
+      "bank_id": "70339601",
+      "text": "Onun için çıldırıyorum resmen."
+    },
+    {
+      "id": "45959293",
+      "bank_id": "70339601",
+      "text": "Yine sarhoşum. Ama bu sefer ona olan aşkımdan."
+    },
+    {
+      "id": "45959298",
+      "bank_id": "70339601",
+      "text": "Yine sarhoşum. Ama bu sefer ona olan aşkımdan."
+    },
+    {
+      "id": "47199845",
+      "bank_id": "70339601",
+      "text": "Tam bir erkek o, değil mi."
+    },
+    {
+      "id": "4719984e",
+      "bank_id": "70339601",
+      "text": "Çok büyüleyici bir kadın o."
+    },
+    {
+      "id": "4971b042",
+      "bank_id": "70339601",
+      "text": "Onu canımı acıtacak kadar çok seviyorum."
+    },
+    {
+      "id": "4971b049",
+      "bank_id": "70339601",
+      "text": "O benim prensim. İlelebet birlikte olacağımızı biliyorum."
+    },
+    {
+      "id": "4eba2700",
+      "bank_id": "70339601",
+      "text": "O benim güneşim, ayım, gökyüzündeki diğer her şeyim..."
+    },
+    {
+      "id": "4eba270b",
+      "bank_id": "70339601",
+      "text": "Keşke hep onunla olabilseydim!"
+    },
+    {
+      "id": "56745222",
+      "bank_id": "70339601",
+      "text": "Beni sıradan bir hayattan kurtarmaya gelmiş bir büyücü o!"
+    },
+    {
+      "id": "56745229",
+      "bank_id": "70339601",
+      "text": "İçimi öyle büyük bir aşkla dolduruyor ki kendime hâkim olamıyorum."
+    },
+    {
+      "id": "5b70b216",
+      "bank_id": "70339601",
+      "text": "Sana söylüyorum, onunla evlenerek büyük hata ettim."
+    },
+    {
+      "id": "5b70b21d",
+      "bank_id": "70339601",
+      "text": "Biliyorum. Onunla asla evlenmemeliydim."
+    },
+    {
+      "id": "64f75657",
+      "bank_id": "70339601",
+      "text": "Böyle harika bir adamla evlendim biliyor musun. Bazen şansıma inanamıyorum."
+    },
+    {
+      "id": "64f7565c",
+      "bank_id": "70339601",
+      "text": "Böyle harika bir kadınla evlendim biliyor musun. Bazen şansıma inanamıyorum."
+    },
+    {
+      "id": "685b7ed0",
+      "bank_id": "70339601",
+      "text": "Yüreğim neşeyle taşıyor, hepsi de böyle muhteşem bir kadınla evlendiğim için."
+    },
+    {
+      "id": "685b7edb",
+      "bank_id": "70339601",
+      "text": "Yüreğim neşeyle taşıyor, hepsi de böyle muhteşem bir adamla evlendiğim için."
+    },
+    {
+      "id": "6b72c3f7",
+      "bank_id": "70339601",
+      "text": "Kalbimi ışık ve neşeyle dolduruyor!"
+    },
+    {
+      "id": "6b72c3fc",
+      "bank_id": "70339601",
+      "text": "Kalbimi ışık ve neşeyle dolduruyor!"
+    },
+    {
+      "id": "6c4724b3",
+      "bank_id": "70339601",
+      "text": "İnan bana, zamanı geri alabilseydim onunla bir daha evlenmezdim."
+    },
+    {
+      "id": "6c4724b8",
+      "bank_id": "70339601",
+      "text": "İnan bana, zamanı geri alabilseydim onunla bir daha evlenmezdim."
+    },
+    {
+      "id": "6cfbaa25",
+      "bank_id": "70339601",
+      "text": "Onunla olmak için her şeyi yapardım."
+    },
+    {
+      "id": "6cfbaa2e",
+      "bank_id": "70339601",
+      "text": "Onunla olmak için her şeyi yapardım."
+    },
+    {
+      "id": "6e0593c4",
+      "bank_id": "70339601",
+      "text": "Yaz bir kenara, bir gün karım olacak o."
+    },
+    {
+      "id": "6e0593cf",
+      "bank_id": "70339601",
+      "text": "Tam bir erkek vallahi. *iç çeker*"
+    },
+    {
+      "id": "71fa0237",
+      "bank_id": "70339601",
+      "text": "Tam bana göre bir adam. Başka hiç kimse yerini tutamaz!"
+    },
+    {
+      "id": "71fa023c",
+      "bank_id": "70339601",
+      "text": "Tam bana göre bir kadın. Başka hiç kimse yerini tutamaz!"
+    },
+    {
+      "id": "77437c13",
+      "bank_id": "70339601",
+      "text": "Gerçekten bambaşka biri, değil mi."
+    },
+    {
+      "id": "77437c18",
+      "bank_id": "70339601",
+      "text": "Gerçekten bambaşka biri, değil mi."
+    },
+    {
+      "id": "7fbe9d35",
+      "bank_id": "70339601",
+      "text": "Ömrümün geri kalanını onunla geçirmek istiyorum."
+    },
+    {
+      "id": "7fbe9d3e",
+      "bank_id": "70339601",
+      "text": "Onun için her şeyi yapardım."
+    },
+    {
+      "id": "81210c13",
+      "bank_id": "70339601",
+      "text": "Eskiden evliliğin dünyadaki en harika şey olduğuna inanırdım. Ne yazık ki onunla evlendim."
+    },
+    {
+      "id": "81210c18",
+      "bank_id": "70339601",
+      "text": "Eskiden evliliğin dünyadaki en harika şey olduğuna inanırdım. Ne yazık ki onunla evlendim."
+    },
+    {
+      "id": "82d8c252",
+      "bank_id": "70339601",
+      "text": "Kimse ona karşı benim hissettiklerimi hissedemez."
+    },
+    {
+      "id": "82d8c259",
+      "bank_id": "70339601",
+      "text": "Kimse ona karşı benim hissettiklerimi hissedemez."
+    },
+    {
+      "id": "881e2713",
+      "bank_id": "70339601",
+      "text": "Ah, işte gerçek bir erkek."
+    },
+    {
+      "id": "881e2718",
+      "bank_id": "70339601",
+      "text": "Gerçekten bambaşka bir şey, değil mi."
+    },
+    {
+      "id": "890a6435",
+      "bank_id": "70339601",
+      "text": "Onu mutlu etmek için her şeyi yapardım. Her şeyi!"
+    },
+    {
+      "id": "890a643e",
+      "bank_id": "70339601",
+      "text": "Karanlık bir dünyaya ışığını saçan görkemli bir güneş gibi o. Ooooh."
+    },
+    {
+      "id": "8fa9ec97",
+      "bank_id": "70339601",
+      "text": "Sana söylüyorum, onunla evlenerek büyük hata ettim."
+    },
+    {
+      "id": "8fa9ec9c",
+      "bank_id": "70339601",
+      "text": "Sana söylüyorum, onunla evlenerek büyük hata ettim."
+    },
+    {
+      "id": "9169ee13",
+      "bank_id": "70339601",
+      "text": "Ah, tam benim tipim."
+    },
+    {
+      "id": "9169ee18",
+      "bank_id": "70339601",
+      "text": "Çok tatlı biri, sence de öyle değil mi?"
+    },
+    {
+      "id": "959d4852",
+      "bank_id": "70339601",
+      "text": "Eğer bir erkeği sevebilecek olsaydı, o kişinin ben olmasını dilerdim..."
+    },
+    {
+      "id": "959d4859",
+      "bank_id": "70339601",
+      "text": "O benim evrenimin prensesi. Herkes onun harika güzelliği önünde eğilmeli."
+    },
+    {
+      "id": "98db6237",
+      "bank_id": "70339601",
+      "text": "Bu kadar ışıl ışıl bir mahluk biz fanilerin arasında nasıl dolaşabilir ki?"
+    },
+    {
+      "id": "9ee90f52",
+      "bank_id": "70339601",
+      "text": "Umarım bir gün onunla evlenirim."
+    },
+    {
+      "id": "9ee90f59",
+      "bank_id": "70339601",
+      "text": "Sevebileceğim tek kadın o."
+    },
+    {
+      "id": "9eeeab31",
+      "bank_id": "70339601",
+      "text": "Onunla evlendiğim gün çok şanslı bir adamdım."
+    },
+    {
+      "id": "9eeeab3a",
+      "bank_id": "70339601",
+      "text": "Onunla evlendiğim gün çok şanslı bir adamdım."
+    },
+    {
+      "id": "a6fe3d77",
+      "bank_id": "70339601",
+      "text": "O cadıyla evli kaldığıma hâlâ inanamıyorum. Aklım neredeydi acaba?!"
+    },
+    {
+      "id": "a6fe3d7c",
+      "bank_id": "70339601",
+      "text": "O hödükle evli kaldığıma hâlâ inanamıyorum. Aklım neredeydi acaba?!"
+    },
+    {
+      "id": "aa480795",
+      "bank_id": "70339601",
+      "text": "Rüyalarımın erkeği o."
+    },
+    {
+      "id": "aa48079e",
+      "bank_id": "70339601",
+      "text": "Benimle evlenir mi dersin?"
+    },
+    {
+      "id": "ab0d0b66",
+      "bank_id": "70339601",
+      "text": "Güneşin, ayın ve yıldızların birleşimi o."
+    },
+    {
+      "id": "ab0d0b6d",
+      "bank_id": "70339601",
+      "text": "Güneşin, ayın ve yıldızların birleşimi o."
+    },
+    {
+      "id": "ad857bb7",
+      "bank_id": "70339601",
+      "text": "İnan bana, zamanı geri alabilseydim onunla bir daha evlenmezdim."
+    },
+    {
+      "id": "ad857bbc",
+      "bank_id": "70339601",
+      "text": "İnan bana, zamanı geri alabilseydim onunla bir daha evlenmezdim."
+    },
+    {
+      "id": "b349a5e1",
+      "bank_id": "70339601",
+      "text": "Onunla evlendiğim gün çok şanslı bir kadındım."
+    },
+    {
+      "id": "b349a5ea",
+      "bank_id": "70339601",
+      "text": "Onunla evlendiğim gün çok şanslı bir kadındım."
+    },
+    {
+      "id": "b393ce95",
+      "bank_id": "70339601",
+      "text": "Normalde insanların sevgisini parayla satın alırım ama onun aşkı için dünyaları verirdim."
+    },
+    {
+      "id": "b393ce9e",
+      "bank_id": "70339601",
+      "text": "Öyle zarif, öyle harika, öyle tatlı ki..."
+    },
+    {
+      "id": "b5c31a41",
+      "bank_id": "70339601",
+      "text": "O benim evrenimin merkezi!"
+    },
+    {
+      "id": "b5c31a4a",
+      "bank_id": "70339601",
+      "text": "O benim evrenimin merkezi!"
+    },
+    {
+      "id": "b9d0e433",
+      "bank_id": "70339601",
+      "text": "Onunla evlendiğime bir saniye bile pişman olmadım. Kusursuz biri o."
+    },
+    {
+      "id": "b9d0e438",
+      "bank_id": "70339601",
+      "text": "Onunla evlendiğime bir saniye bile pişman olmadım. Kusursuz biri o."
+    },
+    {
+      "id": "c04c5241",
+      "bank_id": "70339601",
+      "text": "Onu aklımdan çıkaramıyorum."
+    },
+    {
+      "id": "c04c524a",
+      "bank_id": "70339601",
+      "text": "Onu aklımdan çıkaramıyorum."
+    },
+    {
+      "id": "c310da05",
+      "bank_id": "70339601",
+      "text": "Ona sırılsıklam aşığım."
+    },
+    {
+      "id": "c310da0e",
+      "bank_id": "70339601",
+      "text": "Ona sırılsıklam aşığım."
+    },
+    {
+      "id": "c55a5fb6",
+      "bank_id": "70339601",
+      "text": "Evet, evlilik tam hayal ettiğim gibi çıkmadı. Hep onun suçu."
+    },
+    {
+      "id": "c55a5fbd",
+      "bank_id": "70339601",
+      "text": "Evet, evlilik tam hayal ettiğim gibi çıkmadı. Hep onun suçu."
+    },
+    {
+      "id": "c956b2b0",
+      "bank_id": "70339601",
+      "text": "Ömrüm boyunca onun gibi bir harikayla karşılaşmayı hayal ettim."
+    },
+    {
+      "id": "c956b2bb",
+      "bank_id": "70339601",
+      "text": "Ömrüm boyunca onun gibi bir harikayla karşılaşmayı hayal ettim."
+    },
+    {
+      "id": "caabf9df",
+      "bank_id": "70339601",
+      "text": "Onu her gördüğümde kalbim tekliyor."
+    },
+    {
+      "id": "cb4c2804",
+      "bank_id": "70339601",
+      "text": "Onun için adam öldürürüm. İstemesi yeter!"
+    },
+    {
+      "id": "cb4c280f",
+      "bank_id": "70339601",
+      "text": "O benim rüyalarımın kadını. Ve bayağı çılgın rüyalar olduğunu söyleyebilirim."
+    },
+    {
+      "id": "cd58ac74",
+      "bank_id": "70339601",
+      "text": "Burada durup saatlerce onu izleyebilirim."
+    },
+    {
+      "id": "cd58ac7f",
+      "bank_id": "70339601",
+      "text": "Burada durup saatlerce onu izleyebilirim."
+    },
+    {
+      "id": "d1be9d06",
+      "bank_id": "70339601",
+      "text": "Biliyorum. Onunla asla evlenmemeliydim."
+    },
+    {
+      "id": "d1be9d0d",
+      "bank_id": "70339601",
+      "text": "Biliyorum. Onunla asla evlenmemeliydim."
+    },
+    {
+      "id": "d3abb272",
+      "bank_id": "70339601",
+      "text": "Hiçbir kadın hakkında onun hakkında düşündüğüm gibi düşünmemiştim."
+    },
+    {
+      "id": "d3abb279",
+      "bank_id": "70339601",
+      "text": "İçimde birtakım hisler uyandırıyor... Ne bileyim işte."
+    },
+    {
+      "id": "d49f1ee7",
+      "bank_id": "70339601",
+      "text": "Yüreğim neşeyle taşıyor, hepsi de böyle muhteşem bir kadınla evlendiğim için."
+    },
+    {
+      "id": "d49f1eec",
+      "bank_id": "70339601",
+      "text": "Yüreğim neşeyle taşıyor, hepsi de böyle muhteşem bir adamla evlendiğim için."
+    },
+    {
+      "id": "da315db0",
+      "bank_id": "70339601",
+      "text": "Onu gördün mü? Bu gece kimi rüyamda göreceğimi biliyorum..."
+    },
+    {
+      "id": "da315dbb",
+      "bank_id": "70339601",
+      "text": "Bana kendimi özel hissettiriyor."
+    },
+    {
+      "id": "db1f2e54",
+      "bank_id": "70339601",
+      "text": "Onu havadan bile çok istiyorum!"
+    },
+    {
+      "id": "db1f2e5f",
+      "bank_id": "70339601",
+      "text": "Gerçekte ne hissettiğimi bir bilseydi keşke!"
+    },
+    {
+      "id": "db24ca27",
+      "bank_id": "70339601",
+      "text": "Onunla evlendiğime bir saniye bile pişman olmadım. Kusursuz biri o."
+    },
+    {
+      "id": "db24ca2c",
+      "bank_id": "70339601",
+      "text": "Onunla evlendiğime bir saniye bile pişman olmadım. Kusursuz biri o."
+    },
+    {
+      "id": "db3777e1",
+      "bank_id": "70339601",
+      "text": "En azından o aptalla evli değilsin. Şuna baksana bir."
+    },
+    {
+      "id": "db3777ea",
+      "bank_id": "70339601",
+      "text": "En azından o aptalla evli değilsin. Şuna baksana bir."
+    },
+    {
+      "id": "dcf77972",
+      "bank_id": "70339601",
+      "text": "Tek kelimeyle çok sevimli."
+    },
+    {
+      "id": "dcf77979",
+      "bank_id": "70339601",
+      "text": "Benimle ilgilenir mi dersin?"
+    },
+    {
+      "id": "dd33ac17",
+      "bank_id": "70339601",
+      "text": "Onun gibi bir kadınla evlendiğim için kendimi tarif edilemez derecede şanslı sayıyorum."
+    },
+    {
+      "id": "dd33ac1c",
+      "bank_id": "70339601",
+      "text": "Onun gibi bir adamla evlendiğim için kendimi tarif edilemez derecede şanslı sayıyorum."
+    },
+    {
+      "id": "de335774",
+      "bank_id": "70339601",
+      "text": "Sana söylüyorum, bir gün onun karısı olacağım."
+    },
+    {
+      "id": "de33577f",
+      "bank_id": "70339601",
+      "text": "İçimde tuhaf kıpırtılar uyandırıyor."
+    },
+    {
+      "id": "de88f2a0",
+      "bank_id": "70339601",
+      "text": "Onun gibi bir kadınla evlendiğim için kendimi tarif edilemez derecede şanslı sayıyorum."
+    },
+    {
+      "id": "de88f2ab",
+      "bank_id": "70339601",
+      "text": "Onun gibi bir adamla evlendiğim için kendimi tarif edilemez derecede şanslı sayıyorum."
+    },
+    {
+      "id": "e37d24b0",
+      "bank_id": "70339601",
+      "text": "Benden hoşlanacağını sanmıyorsun, değil mi?"
+    },
+    {
+      "id": "e37d24bb",
+      "bank_id": "70339601",
+      "text": "Albion'daki en muhteşem kadın o."
+    },
+    {
+      "id": "e69884e6",
+      "bank_id": "70339601",
+      "text": "Evet, evlilik tam hayal ettiğim gibi çıkmadı. Hep onun suçu."
+    },
+    {
+      "id": "e69884ed",
+      "bank_id": "70339601",
+      "text": "Evet, evlilik tam hayal ettiğim gibi çıkmadı. Hep onun suçu."
+    },
+    {
+      "id": "f5d592e3",
+      "bank_id": "70339601",
+      "text": "Ömrüm boyunca beklediğim erkek o işte."
+    },
+    {
+      "id": "f5d592e8",
+      "bank_id": "70339601",
+      "text": "Onun için adam öldürürüm. İstemesi yeter!"
+    },
+    {
+      "id": "fbd7cbc1",
+      "bank_id": "70339601",
+      "text": "En azından o aptalla evli değilsin. Şuna baksana bir."
+    },
+    {
+      "id": "fbd7cbca",
+      "bank_id": "70339601",
+      "text": "En azından o aptalla evli değilsin. Şuna baksana bir."
+    },
+    {
+      "id": "ff2159e3",
+      "bank_id": "70339601",
+      "text": "Onu bütün kalbimle seviyorum."
+    },
+    {
+      "id": "ff2159e8",
+      "bank_id": "70339601",
+      "text": "Onu düşünmeden duramıyorum."
+    }
+  ]
+}

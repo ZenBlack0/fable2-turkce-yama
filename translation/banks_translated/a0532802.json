@@ -1,0 +1,1081 @@
+{
+  "bank_id": "a0532802",
+  "total_strings": 215,
+  "strings": [
+    {
+      "id": "01b83e89",
+      "bank_id": "a0532802",
+      "text": "Ben buradayken alışverişinizi yapın!"
+    },
+    {
+      "id": "01b83e8a",
+      "bank_id": "a0532802",
+      "text": "İstediğiniz her şey bende var! Buradan sadece geçiyorum, o yüzden bu tek şansınız olabilir!"
+    },
+    {
+      "id": "01b83e8b",
+      "bank_id": "a0532802",
+      "text": "Gezgin satıcı geçiyor!"
+    },
+    {
+      "id": "01b83e8c",
+      "bank_id": "a0532802",
+      "text": "Yakında bir sonraki kasabaya geçeceğim, fırsatınız varken alışveriş yapın."
+    },
+    {
+      "id": "01b83e8d",
+      "bank_id": "a0532802",
+      "text": "Fırsatınız varken mallarımdan satın alın!"
+    },
+    {
+      "id": "04b4f280",
+      "bank_id": "a0532802",
+      "text": "Kılıç mı lazım? Balta mı gerek? Elbette gerek!"
+    },
+    {
+      "id": "05310b28",
+      "bank_id": "a0532802",
+      "text": "Kim menzilli silah ister? Tabii ki siz!"
+    },
+    {
+      "id": "05310b2a",
+      "bank_id": "a0532802",
+      "text": "Bir tatar yayıyla tehlikeden uzak durun!"
+    },
+    {
+      "id": "05310b2b",
+      "bank_id": "a0532802",
+      "text": "Hedefinizi harika menzilli silahlarıma doğrultun!"
+    },
+    {
+      "id": "05310b2d",
+      "bank_id": "a0532802",
+      "text": "Fazla yaklaşmayın, bir menzilli silah edinin!"
+    },
+    {
+      "id": "0714b300",
+      "bank_id": "a0532802",
+      "text": "Pek kalmadı."
+    },
+    {
+      "id": "0714b301",
+      "bank_id": "a0532802",
+      "text": "O eşyada kıtlık var, fiyatları fırlatıyor tabii."
+    },
+    {
+      "id": "0714b303",
+      "bank_id": "a0532802",
+      "text": "Stokta pek kalmadı."
+    },
+    {
+      "id": "0714b306",
+      "bank_id": "a0532802",
+      "text": "Stoku azalıyor."
+    },
+    {
+      "id": "0e14be03",
+      "bank_id": "a0532802",
+      "text": "Stok tükenmek üzere."
+    },
+    {
+      "id": "0e14be04",
+      "bank_id": "a0532802",
+      "text": "Elimde pek fazla kalmadı."
+    },
+    {
+      "id": "0e14be05",
+      "bank_id": "a0532802",
+      "text": "Stok epey azaldı."
+    },
+    {
+      "id": "0e14be06",
+      "bank_id": "a0532802",
+      "text": "Pek kalmadı."
+    },
+    {
+      "id": "19cbaf68",
+      "bank_id": "a0532802",
+      "text": "Güle güle kullanın!"
+    },
+    {
+      "id": "19cbaf6a",
+      "bank_id": "a0532802",
+      "text": "Umarım size büyük mutluluk getirir."
+    },
+    {
+      "id": "19cbaf6b",
+      "bank_id": "a0532802",
+      "text": "Unutmayın, iade yoktur."
+    },
+    {
+      "id": "19cbaf6d",
+      "bank_id": "a0532802",
+      "text": "İyi günler dilerim."
+    },
+    {
+      "id": "1ecbb709",
+      "bank_id": "a0532802",
+      "text": "İyi bir alışveriş oldu."
+    },
+    {
+      "id": "1ecbb70a",
+      "bank_id": "a0532802",
+      "text": "Umarım beğenirsiniz."
+    },
+    {
+      "id": "1ecbb70b",
+      "bank_id": "a0532802",
+      "text": "Her zaman bekleriz."
+    },
+    {
+      "id": "1ecbb70c",
+      "bank_id": "a0532802",
+      "text": "Sizinle iş yapmak bir zevkti."
+    },
+    {
+      "id": "25909880",
+      "bank_id": "a0532802",
+      "text": "Yeni bir kılıç lazım mı?"
+    },
+    {
+      "id": "25909881",
+      "bank_id": "a0532802",
+      "text": "Yakın dövüş aradığınız şeyse başka yere bakmayın."
+    },
+    {
+      "id": "25909882",
+      "bank_id": "a0532802",
+      "text": "En büyük savaşçıların hepsine kılıç sattık biz."
+    },
+    {
+      "id": "29a995d2",
+      "bank_id": "a0532802",
+      "text": "En iyi ürünlerimizden biridir. Şiddetle tavsiye ederim."
+    },
+    {
+      "id": "29a995d3",
+      "bank_id": "a0532802",
+      "text": "Zevkli birisiniz. Bu kasabada bundan daha ala bir eşya bulamazsınız."
+    },
+    {
+      "id": "29a995d4",
+      "bank_id": "a0532802",
+      "text": "Harika bir alışveriş olur."
+    },
+    {
+      "id": "2c0903d8",
+      "bank_id": "a0532802",
+      "text": "Bugün o üründe özel bir indirimimiz var."
+    },
+    {
+      "id": "2c0903da",
+      "bank_id": "a0532802",
+      "text": "İndirimde. Tam bir kelepir."
+    },
+    {
+      "id": "2c0903db",
+      "bank_id": "a0532802",
+      "text": "Onun fiyatını düşürdük."
+    },
+    {
+      "id": "2c0903dd",
+      "bank_id": "a0532802",
+      "text": "Onda indirim yapıyoruz."
+    },
+    {
+      "id": "2e90a6ec",
+      "bank_id": "a0532802",
+      "text": "Kılıçlar, baltalar, dövüş aletleri. Ne arzu ederdiniz?"
+    },
+    {
+      "id": "2e90a6ed",
+      "bank_id": "a0532802",
+      "text": "Yanında sağlam bir yakın dövüş silahı olmadan kendine kahraman diyemezsin."
+    },
+    {
+      "id": "2e90a6ef",
+      "bank_id": "a0532802",
+      "text": "Dövüşlerinizi burun buruna mı seversiniz? O zaman çeliğimize ihtiyacınız var."
+    },
+    {
+      "id": "31090bf9",
+      "bank_id": "a0532802",
+      "text": "Bugün tam bir kelepir."
+    },
+    {
+      "id": "31090bfa",
+      "bank_id": "a0532802",
+      "text": "Bugün indirimlisiniz. Satışta."
+    },
+    {
+      "id": "31090bfb",
+      "bank_id": "a0532802",
+      "text": "O eşya indirimde."
+    },
+    {
+      "id": "31090bfc",
+      "bank_id": "a0532802",
+      "text": "Bugün onda indirim var."
+    },
+    {
+      "id": "31a876e8",
+      "bank_id": "a0532802",
+      "text": "Tam bir kelepir. İndirimde."
+    },
+    {
+      "id": "31a876ed",
+      "bank_id": "a0532802",
+      "text": "Bu fiyata tam bir kelepir."
+    },
+    {
+      "id": "31a876ee",
+      "bank_id": "a0532802",
+      "text": "İndirimde. Böyle bir şey için harika bir fiyat."
+    },
+    {
+      "id": "31a876ef",
+      "bank_id": "a0532802",
+      "text": "Bundan büyük bir tasarruf ediyorsunuz."
+    },
+    {
+      "id": "34a9a700",
+      "bank_id": "a0532802",
+      "text": "Bundan daha iyisini bulamazsınız."
+    },
+    {
+      "id": "34a9a702",
+      "bank_id": "a0532802",
+      "text": "Kendimde de bir tane var, bayılıyorum."
+    },
+    {
+      "id": "34a9a703",
+      "bank_id": "a0532802",
+      "text": "En sevdiğim eşyalardan biridir. Daha iyisini bulamazsınız."
+    },
+    {
+      "id": "34a9a705",
+      "bank_id": "a0532802",
+      "text": "Sizin için biçilmiş kaftan olur."
+    },
+    {
+      "id": "3ca88819",
+      "bank_id": "a0532802",
+      "text": "Onun fiyatı düşürüldü."
+    },
+    {
+      "id": "3ca8881c",
+      "bank_id": "a0532802",
+      "text": "O indirimde, biliyorsunuz değil mi. Harika fiyat."
+    },
+    {
+      "id": "3ca8881e",
+      "bank_id": "a0532802",
+      "text": "Onda bir indirim var."
+    },
+    {
+      "id": "3ca8881f",
+      "bank_id": "a0532802",
+      "text": "Onun fiyatını fena kırdık."
+    },
+    {
+      "id": "41eec2fc",
+      "bank_id": "a0532802",
+      "text": "Oklarınız bizim tatar yaylarımızla daha uzağa gidecek."
+    },
+    {
+      "id": "41eec2fd",
+      "bank_id": "a0532802",
+      "text": "Her çeşit tatar yayı stoklarımızda."
+    },
+    {
+      "id": "41eec2fe",
+      "bank_id": "a0532802",
+      "text": "En iyi okçuluk silahları tam burada."
+    },
+    {
+      "id": "4aeed0c8",
+      "bank_id": "a0532802",
+      "text": "Okçular beğenecekleri bir şeyi kesinlikle bulacaklardır."
+    },
+    {
+      "id": "4aeed0c9",
+      "bank_id": "a0532802",
+      "text": "Tatar yayları ve sapanlar asla modası geçmeyen şeylerdir."
+    },
+    {
+      "id": "4aeed0cb",
+      "bank_id": "a0532802",
+      "text": "Menzilli silahlar bunlardan daha iyi olamaz."
+    },
+    {
+      "id": "4fcc3aa0",
+      "bank_id": "a0532802",
+      "text": "En iyi dövüşler göğüs göğüse olanlardır! Ve alet edevat bende!"
+    },
+    {
+      "id": "4fcc3aa1",
+      "bank_id": "a0532802",
+      "text": "Bugün yeni bir yakın dövüş silahı deneyin!"
+    },
+    {
+      "id": "4fcc3aa3",
+      "bank_id": "a0532802",
+      "text": "Her boyutta yakın dövüş silahları!"
+    },
+    {
+      "id": "4fcc3aa6",
+      "bank_id": "a0532802",
+      "text": "Şahane yakın dövüş silahlarımızla düşmana sokulun!"
+    },
+    {
+      "id": "5a65f790",
+      "bank_id": "a0532802",
+      "text": "Birinci sınıf bir eşya için birinci sınıf altın ödüyorsunuz."
+    },
+    {
+      "id": "5a65f791",
+      "bank_id": "a0532802",
+      "text": "Pahalıdır ama iyidir."
+    },
+    {
+      "id": "5a65f792",
+      "bank_id": "a0532802",
+      "text": "Bunca altın harcadığınıza pişman olmayacaksınız."
+    },
+    {
+      "id": "5a65f797",
+      "bank_id": "a0532802",
+      "text": "Pahalı ama altının her kuruşuna değer."
+    },
+    {
+      "id": "636605fa",
+      "bank_id": "a0532802",
+      "text": "Paranız yetiyorsa harika bir eşyadır. Ki yetiyor da!"
+    },
+    {
+      "id": "636605fc",
+      "bank_id": "a0532802",
+      "text": "En iyisini satın aldınız."
+    },
+    {
+      "id": "636605fd",
+      "bank_id": "a0532802",
+      "text": "Altınınızı dilediğiniz zaman burada harcayabilirsiniz."
+    },
+    {
+      "id": "636605ff",
+      "bank_id": "a0532802",
+      "text": "Her bir dirhem altına değer, inanın bana."
+    },
+    {
+      "id": "65be4fb8",
+      "bank_id": "a0532802",
+      "text": "Mantıklı bir alışveriş."
+    },
+    {
+      "id": "65be4fbd",
+      "bank_id": "a0532802",
+      "text": "Her zaman bekleriz."
+    },
+    {
+      "id": "65be4fbe",
+      "bank_id": "a0532802",
+      "text": "Sizinle iş yapmak bir zevkti."
+    },
+    {
+      "id": "65be4fbf",
+      "bank_id": "a0532802",
+      "text": "Harika bir eşya satın aldınız."
+    },
+    {
+      "id": "70be60e9",
+      "bank_id": "a0532802",
+      "text": "Altınınızı almaktan mutluluk duyarım."
+    },
+    {
+      "id": "70be60ec",
+      "bank_id": "a0532802",
+      "text": "Bunu aldığınıza pişman olmayacaksınız."
+    },
+    {
+      "id": "70be60ee",
+      "bank_id": "a0532802",
+      "text": "Bizi tercih ettiğiniz için teşekkür ederiz."
+    },
+    {
+      "id": "70be60ef",
+      "bank_id": "a0532802",
+      "text": "Sizinle iş yapmak güzeldi."
+    },
+    {
+      "id": "7c205392",
+      "bank_id": "a0532802",
+      "text": "O indirimde."
+    },
+    {
+      "id": "7c205394",
+      "bank_id": "a0532802",
+      "text": "Ah, indirimli bir ürün buldunuz bakıyorum! Tebrikler."
+    },
+    {
+      "id": "7c205395",
+      "bank_id": "a0532802",
+      "text": "Ah, o ürün indirimdedir."
+    },
+    {
+      "id": "7c205397",
+      "bank_id": "a0532802",
+      "text": "O ürün indirimde."
+    },
+    {
+      "id": "81a46b98",
+      "bank_id": "a0532802",
+      "text": "Makul bir fiyat."
+    },
+    {
+      "id": "81a46b9d",
+      "bank_id": "a0532802",
+      "text": "Satacak başka bir şeyiniz olursa yine gelin."
+    },
+    {
+      "id": "81a46b9e",
+      "bank_id": "a0532802",
+      "text": "Bu hemen tezgâha çıkabilir işte."
+    },
+    {
+      "id": "81a46b9f",
+      "bank_id": "a0532802",
+      "text": "İstemediğiniz eşyaları satın almaktan her zaman mutluluk duyarız."
+    },
+    {
+      "id": "83205e98",
+      "bank_id": "a0532802",
+      "text": "Şanslı gününüzdesiniz, o eşya indirimde."
+    },
+    {
+      "id": "83205e99",
+      "bank_id": "a0532802",
+      "text": "Bu indirimde."
+    },
+    {
+      "id": "83205e9a",
+      "bank_id": "a0532802",
+      "text": "Oh, indirimde o."
+    },
+    {
+      "id": "83205e9f",
+      "bank_id": "a0532802",
+      "text": "Şanslısınız, o indirimde."
+    },
+    {
+      "id": "83c89b50",
+      "bank_id": "a0532802",
+      "text": "Fikrimi sorarsanız bundan daha iyi bir seçim olamaz."
+    },
+    {
+      "id": "83c89b51",
+      "bank_id": "a0532802",
+      "text": "Oh, bunu gerçekten tavsiye ederim."
+    },
+    {
+      "id": "83c89b52",
+      "bank_id": "a0532802",
+      "text": "Bunu kesinlikle satın almalısınız."
+    },
+    {
+      "id": "83c89b57",
+      "bank_id": "a0532802",
+      "text": "Benim onayımı aldı bile."
+    },
+    {
+      "id": "84973ba0",
+      "bank_id": "a0532802",
+      "text": "Kelepir mi istiyorsunuz, ben hâlâ buradayken alın öyleyse!"
+    },
+    {
+      "id": "84973ba1",
+      "bank_id": "a0532802",
+      "text": "Yakında sonraki kasabaya gidiyorum, fırsatınız varken benden alışveriş yapın."
+    },
+    {
+      "id": "84973ba3",
+      "bank_id": "a0532802",
+      "text": "Albion'daki her kasabada satış yaparım. Hâlâ vaktiniz varken benden alın!"
+    },
+    {
+      "id": "84973ba6",
+      "bank_id": "a0532802",
+      "text": "Gezgin satıcı hizmetinizde!"
+    },
+    {
+      "id": "84973ba7",
+      "bank_id": "a0532802",
+      "text": "Ben yola koyulmadan önce mallarımı satın alın!"
+    },
+    {
+      "id": "8b9746a2",
+      "bank_id": "a0532802",
+      "text": "Gezgin satıcı hizmetinizde, hanımlar ve beyler!"
+    },
+    {
+      "id": "8b9746a3",
+      "bank_id": "a0532802",
+      "text": "Gezgin satıcı hizmete hazır!"
+    },
+    {
+      "id": "8b9746a4",
+      "bank_id": "a0532802",
+      "text": "Ben hâlâ buradayken mallarımı kapın!"
+    },
+    {
+      "id": "8b9746a5",
+      "bank_id": "a0532802",
+      "text": "Sonraki durağıma geçeceğim, o yüzden fırsatınız varken alın alın alın."
+    },
+    {
+      "id": "8b9746a6",
+      "bank_id": "a0532802",
+      "text": "Gezgin satıcı geldi! Gezgin satıcı!"
+    },
+    {
+      "id": "8ca47cc9",
+      "bank_id": "a0532802",
+      "text": "İyi bir fiyata verdiniz."
+    },
+    {
+      "id": "8ca47ccc",
+      "bank_id": "a0532802",
+      "text": "Satacak başka bir şeyiniz olursa beni nerede bulacağınızı biliyorsunuz."
+    },
+    {
+      "id": "8ca47cce",
+      "bank_id": "a0532802",
+      "text": "Bundan iyi kâr ederim."
+    },
+    {
+      "id": "8ca47ccf",
+      "bank_id": "a0532802",
+      "text": "Sizden satın alabileceğim başka bir şey var mı?"
+    },
+    {
+      "id": "8cc8a9ba",
+      "bank_id": "a0532802",
+      "text": "Çok güzel küçük bir eşyadır o."
+    },
+    {
+      "id": "8cc8a9bc",
+      "bank_id": "a0532802",
+      "text": "Bunu gerçekten çok tavsiye ederim."
+    },
+    {
+      "id": "8cc8a9bd",
+      "bank_id": "a0532802",
+      "text": "Bunu kesinlikle tavsiye ediyorum."
+    },
+    {
+      "id": "8cc8a9bf",
+      "bank_id": "a0532802",
+      "text": "Bunu gönül rahatlığıyla tavsiye edebilirim."
+    },
+    {
+      "id": "902b83f8",
+      "bank_id": "a0532802",
+      "text": "Üzgünüm, ondan hiç kalmadı."
+    },
+    {
+      "id": "902b83fa",
+      "bank_id": "a0532802",
+      "text": "Kusura bakmayın, az önce bitti."
+    },
+    {
+      "id": "902b83fb",
+      "bank_id": "a0532802",
+      "text": "Korkarım hepsi tükendi."
+    },
+    {
+      "id": "902b83fd",
+      "bank_id": "a0532802",
+      "text": "Onun stoku tükendi."
+    },
+    {
+      "id": "90332ba2",
+      "bank_id": "a0532802",
+      "text": "O fazladan menzil için menzilli silahlar!"
+    },
+    {
+      "id": "9129c332",
+      "bank_id": "a0532802",
+      "text": "Bunu kesin satarım."
+    },
+    {
+      "id": "9129c334",
+      "bank_id": "a0532802",
+      "text": "Satacak başka şeyler de getirmeyi unutmayın."
+    },
+    {
+      "id": "9129c335",
+      "bank_id": "a0532802",
+      "text": "Teşekkürler, iyi durumda görünüyor."
+    },
+    {
+      "id": "9129c337",
+      "bank_id": "a0532802",
+      "text": "İhtiyacınız olmayan başka ne varsa getirin."
+    },
+    {
+      "id": "952b8b99",
+      "bank_id": "a0532802",
+      "text": "Ondan hiç kalmadı korkarım."
+    },
+    {
+      "id": "952b8b9a",
+      "bank_id": "a0532802",
+      "text": "Onların yeni sevkiyatını bekliyoruz."
+    },
+    {
+      "id": "952b8b9b",
+      "bank_id": "a0532802",
+      "text": "Korkarım o eşyanın stoku tükendi."
+    },
+    {
+      "id": "952b8b9c",
+      "bank_id": "a0532802",
+      "text": "Ondan hiç kalmadı elimizde."
+    },
+    {
+      "id": "973336af",
+      "bank_id": "a0532802",
+      "text": "Kaliteli menzilli silahlar, tam burada!"
+    },
+    {
+      "id": "9829ce38",
+      "bank_id": "a0532802",
+      "text": "İlgimi çekebilecek başka eşyalarınız var mı?"
+    },
+    {
+      "id": "9829ce39",
+      "bank_id": "a0532802",
+      "text": "İstemediğiniz malları almaktan her zaman mutluluk duyarım."
+    },
+    {
+      "id": "9829ce3a",
+      "bank_id": "a0532802",
+      "text": "İstemediğiniz eşyaları almaktan her zaman mutluluk duyarım."
+    },
+    {
+      "id": "9829ce3f",
+      "bank_id": "a0532802",
+      "text": "Sizden alışveriş yapmak güzeldi."
+    },
+    {
+      "id": "9a87dc49",
+      "bank_id": "a0532802",
+      "text": "Her boyutta ateşli silahlar!"
+    },
+    {
+      "id": "9a87dc4c",
+      "bank_id": "a0532802",
+      "text": "Silahlar! Silahlar! Silahlar!"
+    },
+    {
+      "id": "9a87dc4e",
+      "bank_id": "a0532802",
+      "text": "Her türlü atış vaziyeti için ateşli silahlar!"
+    },
+    {
+      "id": "9a87dc4f",
+      "bank_id": "a0532802",
+      "text": "Zafere nişan mı alıyorsunuz? İhtiyacınız olan şey bende!"
+    },
+    {
+      "id": "a67121b1",
+      "bank_id": "a0532802",
+      "text": "Pahalıdır ama iyidir."
+    },
+    {
+      "id": "a67121b4",
+      "bank_id": "a0532802",
+      "text": "Pahalıdır çünkü kalitelidir."
+    },
+    {
+      "id": "a67121b6",
+      "bank_id": "a0532802",
+      "text": "Pahalıdır ama pişman olmazsınız."
+    },
+    {
+      "id": "a67121b7",
+      "bank_id": "a0532802",
+      "text": "Pahalı ama nedenini anlayacağınıza eminim."
+    },
+    {
+      "id": "a6b5e07b",
+      "bank_id": "a0532802",
+      "text": "Ateşli silahlarımızla mutluluğa giden yolda ateş açın!"
+    },
+    {
+      "id": "ab712950",
+      "bank_id": "a0532802",
+      "text": "Pahalıdır ama geçerli bir sebebi vardır."
+    },
+    {
+      "id": "ab712955",
+      "bank_id": "a0532802",
+      "text": "Pahalı olmasının bir sebebi var tabii. En iyisi o."
+    },
+    {
+      "id": "ab712956",
+      "bank_id": "a0532802",
+      "text": "Bunca para harcadığınıza pişman olmayacaksınız. Gerçekten değer."
+    },
+    {
+      "id": "ab712957",
+      "bank_id": "a0532802",
+      "text": "Pahalı olabilir ama altının her bir dirhemine değer."
+    },
+    {
+      "id": "abb928a0",
+      "bank_id": "a0532802",
+      "text": "Biraz kıyım mı planlıyorsunuz? İhtiyacınız olan şey bizde!"
+    },
+    {
+      "id": "abb928a1",
+      "bank_id": "a0532802",
+      "text": "Öldürme aletleri bizim işimizdir."
+    },
+    {
+      "id": "abb928a2",
+      "bank_id": "a0532802",
+      "text": "İster sakatlayın, ister doğrayın, ister boğazlayın - ihtiyacınız olan mallar bizde"
+    },
+    {
+      "id": "afb5ee4e",
+      "bank_id": "a0532802",
+      "text": "Başarıya giden yolda ateş açın!"
+    },
+    {
+      "id": "b40ca771",
+      "bank_id": "a0532802",
+      "text": "Bunu tavsiye ederim."
+    },
+    {
+      "id": "b40ca774",
+      "bank_id": "a0532802",
+      "text": "Dükkândaki en iyi şeylerden biridir o."
+    },
+    {
+      "id": "b40ca776",
+      "bank_id": "a0532802",
+      "text": "Bunu kesinlikle satın almalısınız. Bende de bir tane var ve harika bir şey."
+    },
+    {
+      "id": "b40ca777",
+      "bank_id": "a0532802",
+      "text": "O ürünle asla yanılmazsınız."
+    },
+    {
+      "id": "b4b9368c",
+      "bank_id": "a0532802",
+      "text": "Sakatlamak, doğramak ve boğazlamak için ihtiyaç duyabileceğiniz her şey bizde var."
+    },
+    {
+      "id": "b4b9368d",
+      "bank_id": "a0532802",
+      "text": "Yalnızca sizin için her şekil ve boyutta silahlar."
+    },
+    {
+      "id": "b4b9368f",
+      "bank_id": "a0532802",
+      "text": "Her silah meraklısı burada aşık olacağı bir şeyler bulacaktır."
+    },
+    {
+      "id": "b6efc948",
+      "bank_id": "a0532802",
+      "text": "Umarım bundan kâr edebilirim."
+    },
+    {
+      "id": "b6efc94a",
+      "bank_id": "a0532802",
+      "text": "Birinin işine yarayacaktır bu elbet."
+    },
+    {
+      "id": "b6efc94b",
+      "bank_id": "a0532802",
+      "text": "İyi bir fiyata verdiniz bence."
+    },
+    {
+      "id": "b6efc94d",
+      "bank_id": "a0532802",
+      "text": "Satacak başka bir şeyiniz olduğunda yine gelin."
+    },
+    {
+      "id": "b90caf10",
+      "bank_id": "a0532802",
+      "text": "Bunu herkese tavsiye ederim."
+    },
+    {
+      "id": "b90caf15",
+      "bank_id": "a0532802",
+      "text": "Bunu satın almanızı öneririm."
+    },
+    {
+      "id": "b90caf16",
+      "bank_id": "a0532802",
+      "text": "Bu ürün şiddetle tavsiye edilir."
+    },
+    {
+      "id": "b90caf17",
+      "bank_id": "a0532802",
+      "text": "Bunu gönül rahatlığıyla tavsiye edebilirim."
+    },
+    {
+      "id": "bb9e88e2",
+      "bank_id": "a0532802",
+      "text": "Bayılacaksınız buna."
+    },
+    {
+      "id": "bb9e88e4",
+      "bank_id": "a0532802",
+      "text": "Mükemmel bir seçim."
+    },
+    {
+      "id": "bb9e88e5",
+      "bank_id": "a0532802",
+      "text": "Güle güle kullanın!"
+    },
+    {
+      "id": "bb9e88e7",
+      "bank_id": "a0532802",
+      "text": "Çok güzel bir eşya bu."
+    },
+    {
+      "id": "bbefd169",
+      "bank_id": "a0532802",
+      "text": "Bunu tekrar satabileceğime eminim."
+    },
+    {
+      "id": "bbefd16a",
+      "bank_id": "a0532802",
+      "text": "Teşekkürler, bunu başkasına satabilirim sanırım."
+    },
+    {
+      "id": "bbefd16b",
+      "bank_id": "a0532802",
+      "text": "Satacak başka bir şey var mı?"
+    },
+    {
+      "id": "bbefd16c",
+      "bank_id": "a0532802",
+      "text": "Teşekkür ederim."
+    },
+    {
+      "id": "becb79d9",
+      "bank_id": "a0532802",
+      "text": "Silahlar! Silahlarınızı alın!"
+    },
+    {
+      "id": "becb79dc",
+      "bank_id": "a0532802",
+      "text": "Silah mı lazım? Buradan alın!"
+    },
+    {
+      "id": "becb79de",
+      "bank_id": "a0532802",
+      "text": "Yumruklarınızla dövüşmeyin, silah kullanın!"
+    },
+    {
+      "id": "becb79df",
+      "bank_id": "a0532802",
+      "text": "Silahlarınızı alın! Harika silahlarımla sakatlayın, öldürün ve boğazlayın!"
+    },
+    {
+      "id": "c29e93e8",
+      "bank_id": "a0532802",
+      "text": "Umarım beğenirsiniz."
+    },
+    {
+      "id": "c29e93e9",
+      "bank_id": "a0532802",
+      "text": "Bu alışverişten pişman olmayacaksınız."
+    },
+    {
+      "id": "c29e93ea",
+      "bank_id": "a0532802",
+      "text": "Güle güle kullanın."
+    },
+    {
+      "id": "c29e93ef",
+      "bank_id": "a0532802",
+      "text": "Bununla bol şans!"
+    },
+    {
+      "id": "cc351f0b",
+      "bank_id": "a0532802",
+      "text": "Tüm öldürme ihtiyaçlarınız için silahlar!"
+    },
+    {
+      "id": "d5352d5e",
+      "bank_id": "a0532802",
+      "text": "Altını olan herkese ölümcül silahlar!"
+    },
+    {
+      "id": "e3f826d0",
+      "bank_id": "a0532802",
+      "text": "Öldürmek mi? Avlanmak mı? O zaman silahlarımıza ihtiyacınız var."
+    },
+    {
+      "id": "e3f826d1",
+      "bank_id": "a0532802",
+      "text": "Kılıçları ve büyüleri unutun, hiçbir şey iyi bir silahın yerini tutamaz."
+    },
+    {
+      "id": "e3f826d2",
+      "bank_id": "a0532802",
+      "text": "İhtiyaç duyabileceğiniz tüm silahlar tam burada."
+    },
+    {
+      "id": "ecf8353c",
+      "bank_id": "a0532802",
+      "text": "Evinizi savunmak mı lazım? Yoldan geçenleri uzaktan indirmek mi? İhtiyacınız olan şey bizde."
+    },
+    {
+      "id": "ecf8353d",
+      "bank_id": "a0532802",
+      "text": "Bugün kendinize bir silah alın. En mantıklı hareket bu."
+    },
+    {
+      "id": "ecf8353f",
+      "bank_id": "a0532802",
+      "text": "Çelik silahlar artık geçmişte kaldı. Modern Kahraman ateşli silah kullanır!"
+    },
+    {
+      "id": "f28f53c8",
+      "bank_id": "a0532802",
+      "text": "Ondan neredeyse hiç kalmadı."
+    },
+    {
+      "id": "f28f53ca",
+      "bank_id": "a0532802",
+      "text": "Onda stoklarımız azalıyor."
+    },
+    {
+      "id": "f28f53cb",
+      "bank_id": "a0532802",
+      "text": "Neredeyse tükendi."
+    },
+    {
+      "id": "f28f53cd",
+      "bank_id": "a0532802",
+      "text": "Ondan tükenmek üzereyiz."
+    },
+    {
+      "id": "f4633a51",
+      "bank_id": "a0532802",
+      "text": "Buna paranız yetmiyor."
+    },
+    {
+      "id": "f4633a54",
+      "bank_id": "a0532802",
+      "text": "Üzgünüm, yeterince altınınız yok."
+    },
+    {
+      "id": "f4633a56",
+      "bank_id": "a0532802",
+      "text": "Korkarım yeterli altınınız yok."
+    },
+    {
+      "id": "f4633a57",
+      "bank_id": "a0532802",
+      "text": "Paranız buna yetmez."
+    },
+    {
+      "id": "f66dfff0",
+      "bank_id": "a0532802",
+      "text": "Stokta kalmadı. Üzgünüm."
+    },
+    {
+      "id": "f66dfff1",
+      "bank_id": "a0532802",
+      "text": "Korkarım stoku tükendi."
+    },
+    {
+      "id": "f66dfff3",
+      "bank_id": "a0532802",
+      "text": "Korkarım stokta hiç kalmadı."
+    },
+    {
+      "id": "f66dfff6",
+      "bank_id": "a0532802",
+      "text": "Hepsi bitti."
+    },
+    {
+      "id": "f78f5be9",
+      "bank_id": "a0532802",
+      "text": "Ondan neredeyse hiç kalmadı."
+    },
+    {
+      "id": "f78f5bea",
+      "bank_id": "a0532802",
+      "text": "O üründe kıtlık yaşıyoruz."
+    },
+    {
+      "id": "f78f5beb",
+      "bank_id": "a0532802",
+      "text": "Stoklarımız epey azaldı, hâlâ vaktiniz varken satın alın."
+    },
+    {
+      "id": "f78f5bec",
+      "bank_id": "a0532802",
+      "text": "Onda stoklarımız epey azaldı."
+    },
+    {
+      "id": "f9634275",
+      "bank_id": "a0532802",
+      "text": "Buna paranız yetecek gibi görünmüyor."
+    },
+    {
+      "id": "fcb836ea",
+      "bank_id": "a0532802",
+      "text": "Ben hâlâ buradayken mallarımı alın."
+    },
+    {
+      "id": "fcb836eb",
+      "bank_id": "a0532802",
+      "text": "Fırsatlarımı yakalamak için daha iyi bir şans bulamazsınız. Yakında sonraki kasabaya geçiyorum."
+    },
+    {
+      "id": "fcb836ec",
+      "bank_id": "a0532802",
+      "text": "Yakında sonraki kasabaya gidiyorum. Fırsatınız varken mallarımı kapın!"
+    },
+    {
+      "id": "fcb836ed",
+      "bank_id": "a0532802",
+      "text": "Yakında sonraki kasabaya geçeceğim, o yüzden vakit varken alışveriş yapın."
+    },
+    {
+      "id": "fd6e0af3",
+      "bank_id": "a0532802",
+      "text": "Stokta yok. Üzgünüm."
+    },
+    {
+      "id": "fd6e0af4",
+      "bank_id": "a0532802",
+      "text": "Tüh, hepsi bitti."
+    },
+    {
+      "id": "fd6e0af5",
+      "bank_id": "a0532802",
+      "text": "Yakında yeni stok gelebilir."
+    },
+    {
+      "id": "fd6e0af6",
+      "bank_id": "a0532802",
+      "text": "Üzgünüm, daha fazla stok kalmadı."
+    },
+    {
+      "id": "ffb4eae1",
+      "bank_id": "a0532802",
+      "text": "Yakın dövüş silahları! Buradan alın!"
+    }
+  ]
+}

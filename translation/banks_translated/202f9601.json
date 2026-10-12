@@ -1,0 +1,536 @@
+{
+  "bank_id": "202f9601",
+  "total_strings": 106,
+  "strings": [
+    {
+      "id": "0b5481e2",
+      "bank_id": "202f9601",
+      "text": "Kasabada bazı kıtlık sorunları var. Gerçi pek ciddi bir şey değil."
+    },
+    {
+      "id": "0b5481e3",
+      "bank_id": "202f9601",
+      "text": "Dükkânların bazılarında stoklar tükenmeye başladı."
+    },
+    {
+      "id": "0b5481e4",
+      "bank_id": "202f9601",
+      "text": "Biliyor musun, buralarda bazı dükkânlarda mallar azalıyor."
+    },
+    {
+      "id": "0b5481e5",
+      "bank_id": "202f9601",
+      "text": "Dükkânların bazılarında stoklar azalmaya başladı."
+    },
+    {
+      "id": "0b5481e7",
+      "bank_id": "202f9601",
+      "text": "Buralarda bazı mallarda biraz kıtlık var."
+    },
+    {
+      "id": "0e586632",
+      "bank_id": "202f9601",
+      "text": "Büyük bir mağarada kudretli bir trol ile savaştı. Çarpışma çok şiddetliydi ama kahramanımız galip geldi ve yoluna devam etti."
+    },
+    {
+      "id": "12548ce8",
+      "bank_id": "202f9601",
+      "text": "Ben olsam hemen dükkânlara giderdim. Dün oradaydım ve mallar tükenmeye başlamıştı."
+    },
+    {
+      "id": "12548ce9",
+      "bank_id": "202f9601",
+      "text": "Duyduğuma göre yerel dükkânların bazılarında biraz kıtlık varmış."
+    },
+    {
+      "id": "12548cea",
+      "bank_id": "202f9601",
+      "text": "Bu kasabadaki kıtlıkları araştırırsan muhtemelen ufak bir kâr elde edebilirsin."
+    },
+    {
+      "id": "12548cee",
+      "bank_id": "202f9601",
+      "text": "Yerel dükkânları doldurmakta bayağı zorlanıyorlar."
+    },
+    {
+      "id": "12548cef",
+      "bank_id": "202f9601",
+      "text": "Dükkânlarda bazı şeyler azalmaya başladı. Bitmeden önce istediklerini alsan iyi olur."
+    },
+    {
+      "id": "1e00a5ad",
+      "bank_id": "202f9601",
+      "text": "Ruhani bir rehberlik istiyorsan gidilecek yer Işık Tapınağı'dır."
+    },
+    {
+      "id": "1e00a5ae",
+      "bank_id": "202f9601",
+      "text": "Işık Tapınağı'nı görmelisin. Hoşuna gidecektir."
+    },
+    {
+      "id": "1fa284e3",
+      "bank_id": "202f9601",
+      "text": "Bir süre sonra, bir dağ vadisine gizlenmiş Wraithmount hisarına vardı."
+    },
+    {
+      "id": "2900b6dc",
+      "bank_id": "202f9601",
+      "text": "Işık Tapınağı'na gittin mi hiç? Çok dinlendirici bir yer."
+    },
+    {
+      "id": "2900b6df",
+      "bank_id": "202f9601",
+      "text": "Işık Tapınağı'ndaki o kadın keşişi gördün mü? Adı Hannah sanırım."
+    },
+    {
+      "id": "46c8b471",
+      "bank_id": "202f9601",
+      "text": "Sisli bir düzlükte, devasa budaklı köklerin arasından topraktan bir trol fırladı. Kahramanımız cesurca savaştı, canavarı katletti ve çalılıkların içine doğru yoluna devam etti."
+    },
+    {
+      "id": "46fb3330",
+      "bank_id": "202f9601",
+      "text": "Duymadın mı? Kasabada mallar tükeniyor."
+    },
+    {
+      "id": "46fb3331",
+      "bank_id": "202f9601",
+      "text": "Duymadın mı? Buralardaki dükkânlarda stok sorunları yaşanıyor."
+    },
+    {
+      "id": "46fb3334",
+      "bank_id": "202f9601",
+      "text": "Korkarım kasabada bir kıtlık yaşıyoruz. Belki başka bir kasabada vardır ama."
+    },
+    {
+      "id": "46fb3336",
+      "bank_id": "202f9601",
+      "text": "Buradaki dükkânlarda kıtlık var biliyorsun."
+    },
+    {
+      "id": "46fb3337",
+      "bank_id": "202f9601",
+      "text": "Şansına küs. Şu anda kasabada bir kıtlık var."
+    },
+    {
+      "id": "47a16ce1",
+      "bank_id": "202f9601",
+      "text": "Civardaki bir korulukta kahramanımızın üzerine gölge gibi bir peri indi ama o iğrenç yaratığa direndi ve geri çekilerek ormandan yara almadan kurtuldu."
+    },
+    {
+      "id": "4bfb3ad0",
+      "bank_id": "202f9601",
+      "text": "Duymadın mı? Kasabada bir stok sorunu yaşıyoruz."
+    },
+    {
+      "id": "4bfb3ad1",
+      "bank_id": "202f9601",
+      "text": "Bilmiyor muydun? Kasabada bir kıtlık yaşıyoruz."
+    },
+    {
+      "id": "4bfb3ad5",
+      "bank_id": "202f9601",
+      "text": "Kötü şans, bu kasabada kıtlık var."
+    },
+    {
+      "id": "4bfb3ad6",
+      "bank_id": "202f9601",
+      "text": "Daha kötü bir zaman seçemezdin. Kasabada kıtlık var."
+    },
+    {
+      "id": "4bfb3ad7",
+      "bank_id": "202f9601",
+      "text": "Hevesini kırmak istemem ama kasabada kıtlık var."
+    },
+    {
+      "id": "4d35c290",
+      "bank_id": "202f9601",
+      "text": "Halk onu hediyelere boğdu ve yerel meyhanede bütün gece kutlama yaptı."
+    },
+    {
+      "id": "60947fb2",
+      "bank_id": "202f9601",
+      "text": "Çok uzun zaman önce, yüce bir kahraman Albion topraklarında bir yolculuğa çıktı. Dünyayı sonsuza dek değiştirecek bir yolculuğa."
+    },
+    {
+      "id": "71dde0b8",
+      "bank_id": "202f9601",
+      "text": "Kahramanımız görevine devam ederken günler günleri kovaladı. Dağları aştı, vadilerden geçti ve hedefine doğru ilerledi."
+    },
+    {
+      "id": "880683cd",
+      "bank_id": "202f9601",
+      "text": "Oakfield'deki Işık Tapınağı'nı ziyaret ettin mi hiç? Yolda Gölgeler Tapınağı'nı da görebilirsin."
+    },
+    {
+      "id": "880683ce",
+      "bank_id": "202f9601",
+      "text": "O tapınaklardan birinin keşişi değilsin, değil mi?"
+    },
+    {
+      "id": "8eff402c",
+      "bank_id": "202f9601",
+      "text": "O iki tapınak aralarındaki anlaşmazlığı asla çözemeyecek, değil mi?"
+    },
+    {
+      "id": "92960da9",
+      "bank_id": "202f9601",
+      "text": "Güzel bir bina görmek istiyorsan Rookridge'deki Gölgeler Tapınağı'na bir uğra."
+    },
+    {
+      "id": "92960dad",
+      "bank_id": "202f9601",
+      "text": "Rookridge'den geçiyorsan Gölgeler Tapınağı'na ayak basmadığından emin ol."
+    },
+    {
+      "id": "92960dae",
+      "bank_id": "202f9601",
+      "text": "Gölge Tarikatı gerçekten kötüdür biliyorsun. O yüzden Rookridge'deyken dikkatli ol."
+    },
+    {
+      "id": "9306957c",
+      "bank_id": "202f9601",
+      "text": "Senin yerinde olsam iki tapınağa da güvenmezdim."
+    },
+    {
+      "id": "9306957f",
+      "bank_id": "202f9601",
+      "text": "E, hangi tapınağı tercih ediyorsun? Işık Tapınağı mı, yoksa Gölge mi? Tahmin edebiliyorum galiba."
+    },
+    {
+      "id": "9d961ed9",
+      "bank_id": "202f9601",
+      "text": "Kötülüğün gerçekte ne olduğunu görmek istiyorsan Rookridge'deki Gölgeler Tapınağı'na bir uğra."
+    },
+    {
+      "id": "9d961edc",
+      "bank_id": "202f9601",
+      "text": "Rookridge'de gözünü dört açsan iyi edersin. Gölgeler Tapınağı işte oradadır."
+    },
+    {
+      "id": "9d961edf",
+      "bank_id": "202f9601",
+      "text": "Rookridge'deki Gölgeler Tapınağı'nın yanına sadece kötü insanlar yaklaşır."
+    },
+    {
+      "id": "a98d7910",
+      "bank_id": "202f9601",
+      "text": "Işık Tapınağı... Şey, her şeyden önce çok aydınlık bir yer."
+    },
+    {
+      "id": "a98d7911",
+      "bank_id": "202f9601",
+      "text": "Işık Tapınağı keşişlerinin yanında hep biraz huzursuz hissederim. Neden bilmiyorum."
+    },
+    {
+      "id": "a98d7912",
+      "bank_id": "202f9601",
+      "text": "Ruhani bir canlanmaya ihtiyaç duyduğumda her zaman Işık Tapınağı'nı ziyaret ederim."
+    },
+    {
+      "id": "a98d7914",
+      "bank_id": "202f9601",
+      "text": "Günün birinde Işık Tapınağı'nı ziyaret edeceğim."
+    },
+    {
+      "id": "a98d7915",
+      "bank_id": "202f9601",
+      "text": "Oakfield'deki Işık Tapınağı'nın çok ilginç mimari özellikleri olduğunu duydum."
+    },
+    {
+      "id": "a98d7916",
+      "bank_id": "202f9601",
+      "text": "Işık Tapınağı'na gitmektense iki ayağımı birden keserim daha iyi."
+    },
+    {
+      "id": "a98d7917",
+      "bank_id": "202f9601",
+      "text": "O Oakfield keşişleri durmadan ışık ve yeniden doğuş ritüellerinden bahsedip duruyor. Peh!"
+    },
+    {
+      "id": "ac5a7670",
+      "bank_id": "202f9601",
+      "text": "Oakfield'i deneme bile. Duyduğuma göre orada her şey bitmiş."
+    },
+    {
+      "id": "ac5a7671",
+      "bank_id": "202f9601",
+      "text": "Oakfield'i denemezdim ben olsam. Şu sıralar stokların çok azaldığını duydum."
+    },
+    {
+      "id": "ac5a7672",
+      "bank_id": "202f9601",
+      "text": "Oakfield hariç her yer olur. Orada kıtlık var."
+    },
+    {
+      "id": "ac5a7676",
+      "bank_id": "202f9601",
+      "text": "Oakfield'de kıtlık var biliyorsun."
+    },
+    {
+      "id": "ac5a7677",
+      "bank_id": "202f9601",
+      "text": "Oakfield'e gitme. Kıtlık var orada."
+    },
+    {
+      "id": "b28d8778",
+      "bank_id": "202f9601",
+      "text": "Oakfield'deki Işık Tapınağı'nı ziyaret etmeyi planlıyorum, tamamen kültürel bir inceleme olarak tabii."
+    },
+    {
+      "id": "b28d8779",
+      "bank_id": "202f9601",
+      "text": "Sürekli duyup durduğum şu Işık Tapınağı... Sahiden ışıktan yapılmış değildir herhalde, değil mi?"
+    },
+    {
+      "id": "b28d877a",
+      "bank_id": "202f9601",
+      "text": "Lanet Işık Tapınağı, sürekli insanları kendi acınası fikirlerine çekmeye çalışıyorlar."
+    },
+    {
+      "id": "b28d877b",
+      "bank_id": "202f9601",
+      "text": "Işık Tapınağı mı? Oakfield'deydi di mi o? Ne gittim, ne de gitmek isterim."
+    },
+    {
+      "id": "b28d877c",
+      "bank_id": "202f9601",
+      "text": "Keşiş olmak istiyordum ama Işık Tapınağı tamamen erkek dolu. Peh!"
+    },
+    {
+      "id": "b28d877d",
+      "bank_id": "202f9601",
+      "text": "Işık Tapınağı'ndaki keşişler insanlara yardım etmeye çalışır. Çoğu zaman yani."
+    },
+    {
+      "id": "b28d877f",
+      "bank_id": "202f9601",
+      "text": "Işık Tapınağı'nda kadın keşiş olmaz. Şey, şu iri yarı olan hariç tabii..."
+    },
+    {
+      "id": "b55a845a",
+      "bank_id": "202f9601",
+      "text": "Oakfield bugünlerde sahiden kıtlık sorunları yaşıyor."
+    },
+    {
+      "id": "b55a845b",
+      "bank_id": "202f9601",
+      "text": "Oakfield'e gitme. Orada neredeyse hiçbir şey kalmamış."
+    },
+    {
+      "id": "b55a845c",
+      "bank_id": "202f9601",
+      "text": "Oakfield'e giderek vaktini boşa harcama. Şu anda orada kıtlık var."
+    },
+    {
+      "id": "b55a845d",
+      "bank_id": "202f9601",
+      "text": "Valla, Oakfield her türlü kıtlık sorununu yaşıyor."
+    },
+    {
+      "id": "b55a845f",
+      "bank_id": "202f9601",
+      "text": "Oakfield ile hiç uğraşma, her şey tükenmiş diye duydum."
+    },
+    {
+      "id": "bae46718",
+      "bank_id": "202f9601",
+      "text": "Şu Gölgeler Tapınağı keşişleri tam benim kalemim insanlar olurdu. O kadar burnu havada olmasalar tabii."
+    },
+    {
+      "id": "bae46719",
+      "bank_id": "202f9601",
+      "text": "Rookridge'deki Gölgeler Tapınağı'na küçük bir hac yolculuğu yapmayı düşünüyom."
+    },
+    {
+      "id": "bae4671a",
+      "bank_id": "202f9601",
+      "text": "Ben mi? O uğursuz Gölgeler Tapınağı'nı ziyaret etmek mi? Kesinlikle hayır!"
+    },
+    {
+      "id": "bae4671b",
+      "bank_id": "202f9601",
+      "text": "Bu devirde Gölge Tarikatı gibi bir şeyin var olabildiğine inanabiliyor musun?"
+    },
+    {
+      "id": "bae4671d",
+      "bank_id": "202f9601",
+      "text": "Gölgeler Tapınağı'ndaki o tarikatçılar tüylerimi diken diken ediyor."
+    },
+    {
+      "id": "bae4671e",
+      "bank_id": "202f9601",
+      "text": "Gölgeler Tapınağı'ndaki o tarikatçıların kendilerine nasıl keşiş diyebildiklerini anlamıyorum."
+    },
+    {
+      "id": "bae4671f",
+      "bank_id": "202f9601",
+      "text": "Evet, bir arkadaşım Gölgeler Tapınağı'nda neredeyse canından oluyordu. Rookridge'i keşfe çıkmak neymiş öğrenmiştir artık."
+    },
+    {
+      "id": "c5e47848",
+      "bank_id": "202f9601",
+      "text": "Bir gün Gölge Tarikatı bütün bu lanet dünyayı ele geçirecek ve ben de onların o havalı keşişlerinden biriyle evleneceğim."
+    },
+    {
+      "id": "c5e47849",
+      "bank_id": "202f9601",
+      "text": "Kardeşim Gölgeler Tapınağı'na katılmak istedi ama yeterince burnu büyük değildi. Bak sen şuna!"
+    },
+    {
+      "id": "c5e4784a",
+      "bank_id": "202f9601",
+      "text": "Rookridge'deki o korkunç, uğursuz tapınak hakkında birilerinin bir şey yapmasının vakti gelmedi mi artık?"
+    },
+    {
+      "id": "c5e4784b",
+      "bank_id": "202f9601",
+      "text": "Gölgeler Tapınağı'nda bakireleri kurban ettikleri doğru mu? Korkunç bir şey. Gerçi kanlarıyla banyo yapmanın cildi çok genç tuttuğunu duymuştum."
+    },
+    {
+      "id": "c5e4784c",
+      "bank_id": "202f9601",
+      "text": "Beni Gölgeler Tapınağı'nın yanına bile yaklaştıramazsın. Çok tekinsiz bir yer orası."
+    },
+    {
+      "id": "c5e4784e",
+      "bank_id": "202f9601",
+      "text": "Gölgeler Tapınağı'ndaki o tarikatçılardan nefret ediyorum. Rookridge'de kalsalar iyi ederler, sakın yanıma yaklaşmasınlar!"
+    },
+    {
+      "id": "c5e4784f",
+      "bank_id": "202f9601",
+      "text": "Gölgeler Tapınağı'nda kurban törenleri ve her türlü tuhaf ayinler yaptıklarını duyuyorum."
+    },
+    {
+      "id": "d666b390",
+      "bank_id": "202f9601",
+      "text": "Bir akşam üzeri, sık ağaçlı Thornwood vadisine vardı; tehlikeli bir yerdi ama devam edebilmek için oradan geçmek zorundaydı."
+    },
+    {
+      "id": "da60caa6",
+      "bank_id": "202f9601",
+      "text": "Geceyi orada dinlenerek geçirdi, kasaba halkıyla vedalaştı ve macerasına devam etti."
+    },
+    {
+      "id": "e01398f4",
+      "bank_id": "202f9601",
+      "text": "Bower Gölü'ndeki dükkânlarda stoklar azalıyor biliyorsun."
+    },
+    {
+      "id": "e01398f5",
+      "bank_id": "202f9601",
+      "text": "Bower Gölü'ndeki dükkânlarda bazı stok sorunları yaşanıyor."
+    },
+    {
+      "id": "ea57ecd2",
+      "bank_id": "202f9601",
+      "text": "Kasabada kıtlık çeken dükkânı bulmaya gidiyorum. Belki onlara bir şeyler satabilirim."
+    },
+    {
+      "id": "ea57ecd3",
+      "bank_id": "202f9601",
+      "text": "Kıtlık sorunu yaşayan dükkânlara bir şeyler satma fırsatın oldu mu?"
+    },
+    {
+      "id": "ea57ecd4",
+      "bank_id": "202f9601",
+      "text": "Kasabada kıtlık var biliyorsun. Güzel altın kazanma fırsatı."
+    },
+    {
+      "id": "ea57ecd5",
+      "bank_id": "202f9601",
+      "text": "Evet, kasabada bayağı bir kıtlık var."
+    },
+    {
+      "id": "ea57ecd7",
+      "bank_id": "202f9601",
+      "text": "Kasabada epey bir kıtlık var. Nereye bakacağını bilirsen iyi kâr edebilirsin."
+    },
+    {
+      "id": "eba65670",
+      "bank_id": "202f9601",
+      "text": "O konuda Westcliff uzak durulacak yer. Şu sıralar büyük kıtlık var."
+    },
+    {
+      "id": "eba65671",
+      "bank_id": "202f9601",
+      "text": "Westcliff'teki kıtlıkları duydun mu?"
+    },
+    {
+      "id": "eba65673",
+      "bank_id": "202f9601",
+      "text": "Westcliff hariç her yeri dene. Orada büyük kıtlıklar yaşanıyor."
+    },
+    {
+      "id": "eba65676",
+      "bank_id": "202f9601",
+      "text": "Westcliff'teki dükkânlarda stokların tükendiğini duyuyorum."
+    },
+    {
+      "id": "eba65677",
+      "bank_id": "202f9601",
+      "text": "Westcliff'te bazı büyük kıtlık sorunları var."
+    },
+    {
+      "id": "ec6f8968",
+      "bank_id": "202f9601",
+      "text": "Zindanın derinliklerinde, sonunda aradığı şeyi buldu - fesatlık baltasını. Zindandan çıkmak için savaşırken birçok canavar onun keskinliğini tattı."
+    },
+    {
+      "id": "ed35e6cd",
+      "bank_id": "202f9601",
+      "text": "Uzun bir yolculuktan sonra toprakta devasa bir yarığa vardı; bu yarık, çoktan unutulmuş bir zindana açılıyordu."
+    },
+    {
+      "id": "f157f7d8",
+      "bank_id": "202f9601",
+      "text": "Doğru valla, buralardaki dükkânlar bazı eşyaları stoklamakta sorun yaşıyor."
+    },
+    {
+      "id": "f157f7d9",
+      "bank_id": "202f9601",
+      "text": "Bu kasabada ticaret yaparak güzel para kazanabilirsin. Şu anda bir kıtlık var."
+    },
+    {
+      "id": "f157f7da",
+      "bank_id": "202f9601",
+      "text": "Son kıtlıklar sayesinde kasabada kazanılacak biraz altın var."
+    },
+    {
+      "id": "f157f7de",
+      "bank_id": "202f9601",
+      "text": "Duyduğuma göre bu kasabada eşyalarda epey bir kıtlık varmış."
+    },
+    {
+      "id": "f157f7df",
+      "bank_id": "202f9601",
+      "text": "Buralarda istediğim şeylerde pek stok kalmamış. Fiyatları uçuruyor bu durum."
+    },
+    {
+      "id": "f2a66172",
+      "bank_id": "202f9601",
+      "text": "Westcliff'e gitme. Orada kıtlık var."
+    },
+    {
+      "id": "f2a66173",
+      "bank_id": "202f9601",
+      "text": "Westcliff derdim ama orada da kıtlık var."
+    },
+    {
+      "id": "f2a66174",
+      "bank_id": "202f9601",
+      "text": "Westcliff ile hiç uğraşma. Orada sahici bir kıtlık yaşanıyor."
+    },
+    {
+      "id": "f2a66175",
+      "bank_id": "202f9601",
+      "text": "Yeter ki Westcliff'e gitme. Orada her şey tükenmiş diye duydum."
+    },
+    {
+      "id": "f2a66176",
+      "bank_id": "202f9601",
+      "text": "Valla Westcliff'ten uzak dur, orada kıtlık var."
+    }
+  ]
+}

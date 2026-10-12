@@ -1,0 +1,716 @@
+{
+  "bank_id": "00542802",
+  "total_strings": 142,
+  "strings": [
+    {
+      "id": "5e7a3c94",
+      "bank_id": "00542802",
+      "text": "Bebek prensesimizin burnunun bana çektiğine inanıyorum. Sen ne dersin?"
+    },
+    {
+      "id": "5e7a3c95",
+      "bank_id": "00542802",
+      "text": "Kız bebeğimizin kadife bez bağlamaması gerektiğinden kesinlikle emin misin?"
+    },
+    {
+      "id": "5e7a3c96",
+      "bank_id": "00542802",
+      "text": "Bizim şu kız sence de fazla uyumuyor mu?"
+    },
+    {
+      "id": "5e7a3c97",
+      "bank_id": "00542802",
+      "text": "Biliyor musun, bence bizim kız büyüyünce çok güzel olacak."
+    },
+    {
+      "id": "65592180",
+      "bank_id": "00542802",
+      "text": "Küçük bebek prensesimiz pek mutsuz. Lütfen onu neşelendirmeye çalış."
+    },
+    {
+      "id": "65592181",
+      "bank_id": "00542802",
+      "text": "Her şeyi denedim ama bebeğimiz öyle kederli ki! Belki sen onu neşelendirebilirsin."
+    },
+    {
+      "id": "65592182",
+      "bank_id": "00542802",
+      "text": "Kız bebeğimizi neşelendirmeyi denesene, olur mu? Bende hiç şans yok."
+    },
+    {
+      "id": "65592183",
+      "bank_id": "00542802",
+      "text": "Yumurcak sürekli ağlıyor. Onu biraz neşelendiremez misin?"
+    },
+    {
+      "id": "65592184",
+      "bank_id": "00542802",
+      "text": "Ufaklığımız hiç mutlu değil. Belki bu konuda bir şeyler yapabilirsin?"
+    },
+    {
+      "id": "65592185",
+      "bank_id": "00542802",
+      "text": "Kız bebeğimizin ağlamasını duymaktan nefret ediyorum... Onu neşelendirmeye çalış, olur mu?"
+    },
+    {
+      "id": "65592187",
+      "bank_id": "00542802",
+      "text": "Küçük bebeğimizi neşelendirmeyi deneyebilir misin? Çok üzgün görünüyor..."
+    },
+    {
+      "id": "6c592c88",
+      "bank_id": "00542802",
+      "text": "Kız bebeğimizin ağlamasını duymaktan nefret ediyorum... Onu neşelendirmeye çalış, olur mu?"
+    },
+    {
+      "id": "6c592c89",
+      "bank_id": "00542802",
+      "text": "Ufaklığımız hiç mutlu değil. Belki bu konuda bir şeyler yapabilirsin?"
+    },
+    {
+      "id": "6c592c8a",
+      "bank_id": "00542802",
+      "text": "Küçük bebeğimizi neşelendirmeyi deneyebilir misin? Çok üzgün görünüyor..."
+    },
+    {
+      "id": "6c592c8c",
+      "bank_id": "00542802",
+      "text": "Her şeyi denedim ama bebeğimiz öyle kederli ki! Belki sen onu neşelendirebilirsin."
+    },
+    {
+      "id": "6c592c8d",
+      "bank_id": "00542802",
+      "text": "Küçük bebek prensesimiz pek mutsuz. Lütfen onu neşelendirmeye çalış."
+    },
+    {
+      "id": "6c592c8e",
+      "bank_id": "00542802",
+      "text": "Yumurcak sürekli ağlıyor. Onu biraz neşelendiremez misin?"
+    },
+    {
+      "id": "6c592c8f",
+      "bank_id": "00542802",
+      "text": "Kız bebeğimizi neşelendirmeyi denesene, olur mu? Bende hiç şans yok."
+    },
+    {
+      "id": "90f34de8",
+      "bank_id": "00542802",
+      "text": "Ayy, erkek bebeğimiz çok üzgün. Neden acaba?"
+    },
+    {
+      "id": "90f34de9",
+      "bank_id": "00542802",
+      "text": "Ayy, küçük erkek bebeğimizi bu kadar üzgün görmek ne korkunç değil mi?"
+    },
+    {
+      "id": "90f34ded",
+      "bank_id": "00542802",
+      "text": "Ayy, küçük erkek bebeğimizi bu kadar üzgün görmek ne korkunç değil mi?"
+    },
+    {
+      "id": "90f34dee",
+      "bank_id": "00542802",
+      "text": "Ayy, erkek bebeğimiz çok üzgün. Neden acaba?"
+    },
+    {
+      "id": "90f34def",
+      "bank_id": "00542802",
+      "text": "Lütfen küçük oğlumuzu neşelendir. Çok mutsuz."
+    },
+    {
+      "id": "9bf35f18",
+      "bank_id": "00542802",
+      "text": "Ayy, erkek bebeğimiz çok üzgün. Neden acaba?"
+    },
+    {
+      "id": "9bf35f19",
+      "bank_id": "00542802",
+      "text": "Küçük erkek bebeğimizi korkutmuyordun, değil mi?"
+    },
+    {
+      "id": "9bf35f1c",
+      "bank_id": "00542802",
+      "text": "Ayy, küçük erkek bebeğimizi bu kadar üzgün görmek ne korkunç değil mi?"
+    },
+    {
+      "id": "9bf35f1e",
+      "bank_id": "00542802",
+      "text": "Ayy, erkek bebeğimiz çok üzgün. Neden acaba?"
+    },
+    {
+      "id": "9bf35f1f",
+      "bank_id": "00542802",
+      "text": "Ayy, erkek bebeğimiz çok üzgün. Neden acaba?"
+    },
+    {
+      "id": "a22873d0",
+      "bank_id": "00542802",
+      "text": "Kızımızla yeterince vakit geçirdiğinden emin misin?"
+    },
+    {
+      "id": "a22873d1",
+      "bank_id": "00542802",
+      "text": "Kızımızla yeterince vakit geçirdiğinden emin misin?"
+    },
+    {
+      "id": "a22873d3",
+      "bank_id": "00542802",
+      "text": "Kızımızla yeterince vakit geçirdiğinden emin ol."
+    },
+    {
+      "id": "a22873d6",
+      "bank_id": "00542802",
+      "text": "Kızımıza vakit ayır."
+    },
+    {
+      "id": "a22873d7",
+      "bank_id": "00542802",
+      "text": "Kızımızla yeterince vakit geçirdiğinden emin misin?"
+    },
+    {
+      "id": "a2fa84c0",
+      "bank_id": "00542802",
+      "text": "Biliyor musun, ona güzel bir hediye falan alsan kızımız buna bayılırdı."
+    },
+    {
+      "id": "a2fa84c1",
+      "bank_id": "00542802",
+      "text": "Bizim şu kız bugün diğer çocuklarla dışarıda oynadı mı acaba?"
+    },
+    {
+      "id": "a2fa84c2",
+      "bank_id": "00542802",
+      "text": "Hmm, küçük prensesimizi yeterince hediyeye boğuyor muyuz acaba? Bir tane daha fena olmazdı eminim."
+    },
+    {
+      "id": "a2fa84c3",
+      "bank_id": "00542802",
+      "text": "Sevgili kızımızın büyüyünce çok önemli bir şahsiyet olacağına inanıyorum."
+    },
+    {
+      "id": "a2fa84c4",
+      "bank_id": "00542802",
+      "text": "Kızımız okulda çok başarılı, biliyor musun?"
+    },
+    {
+      "id": "a2fa84c6",
+      "bank_id": "00542802",
+      "text": "Bu hafta kızımızın ödevlerine yardım edeceğim. Öyle çok ödevi var ki!"
+    },
+    {
+      "id": "a2fa84c7",
+      "bank_id": "00542802",
+      "text": "Biliyor musun, bence kızımıza güzel bir hediye alsak havalara uçar."
+    },
+    {
+      "id": "a7fa8ce5",
+      "bank_id": "00542802",
+      "text": "Kızımız okulda çok başarılı, biliyor musun?"
+    },
+    {
+      "id": "a9287ed2",
+      "bank_id": "00542802",
+      "text": "Kızımıza vakit ayır."
+    },
+    {
+      "id": "a9287ed3",
+      "bank_id": "00542802",
+      "text": "Kızımızla yeterince vakit geçirdiğinden emin misin?"
+    },
+    {
+      "id": "a9287ed4",
+      "bank_id": "00542802",
+      "text": "Kızımızla daha fazla vakit geçirmeye çalış."
+    },
+    {
+      "id": "a9287ed5",
+      "bank_id": "00542802",
+      "text": "Kızımızla yeterince vakit geçirdiğinden emin misin?"
+    },
+    {
+      "id": "a9287ed6",
+      "bank_id": "00542802",
+      "text": "Kızımıza vakit ayır."
+    },
+    {
+      "id": "ac8a5db8",
+      "bank_id": "00542802",
+      "text": "Küçük bebeğimizi neşelendirmeyi deneyebilir misin? Çok üzgün görünüyor..."
+    },
+    {
+      "id": "ac8a5dba",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimizin ağlamasını duymaktan nefret ediyorum... Onu neşelendirmeye çalış, olur mu?"
+    },
+    {
+      "id": "ac8a5dbb",
+      "bank_id": "00542802",
+      "text": "Ufaklığımız hiç mutlu değil. Belki bu konuda bir şeyler yapabilirsin?"
+    },
+    {
+      "id": "ac8a5dbc",
+      "bank_id": "00542802",
+      "text": "Yumurcak sürekli ağlıyor. Onu biraz neşelendiremez misin?"
+    },
+    {
+      "id": "ac8a5dbd",
+      "bank_id": "00542802",
+      "text": "Oğlan bebeğimizi neşelendirmeyi denesene, ha? Bende hiç şans yok."
+    },
+    {
+      "id": "ac8a5dbe",
+      "bank_id": "00542802",
+      "text": "Her şeyi denedim ama bebeğimiz öyle kederli ki! Belki sen onu neşelendirebilirsin."
+    },
+    {
+      "id": "ac8a5dbf",
+      "bank_id": "00542802",
+      "text": "Küçük erkek bebeğimiz pek mutsuz. Lütfen onu neşelendirmeye çalış."
+    },
+    {
+      "id": "b18a6559",
+      "bank_id": "00542802",
+      "text": "Küçük bebeğimizi neşelendirmeyi deneyebilir misin? Çok üzgün görünüyor..."
+    },
+    {
+      "id": "b18a655a",
+      "bank_id": "00542802",
+      "text": "Ufaklığımız hiç mutlu değil. Belki bu konuda bir şeyler yapabilirsin?"
+    },
+    {
+      "id": "b18a655b",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimizin ağlamasını duymaktan nefret ediyorum... Onu neşelendirmeye çalış, olur mu?"
+    },
+    {
+      "id": "b18a655c",
+      "bank_id": "00542802",
+      "text": "Oğlan bebeğimizi neşelendirmeyi denesene, olur mu? Bende hiç şans yok."
+    },
+    {
+      "id": "b18a655d",
+      "bank_id": "00542802",
+      "text": "Yumurcak sürekli ağlıyor. Onu biraz neşelendiremez misin?"
+    },
+    {
+      "id": "b18a655e",
+      "bank_id": "00542802",
+      "text": "Küçük erkek bebeğimiz pek mutsuz. Lütfen onu neşelendirmeye çalış."
+    },
+    {
+      "id": "b18a655f",
+      "bank_id": "00542802",
+      "text": "Her şeyi denedim ama bebeğimiz öyle kederli ki! Belki sen onu neşelendirebilirsin."
+    },
+    {
+      "id": "ca1e6e90",
+      "bank_id": "00542802",
+      "text": "Bebek oğlumuz çok mutlu! Harika değil mi?"
+    },
+    {
+      "id": "ca1e6e91",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz gülümsemeyi durduramıyor. Sana resmen bayılıyor!"
+    },
+    {
+      "id": "ca1e6e93",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz çok mutlu!"
+    },
+    {
+      "id": "ca1e6e94",
+      "bank_id": "00542802",
+      "text": "Ah, burnundan düşmüş senin. Ve öyle büyük bir mutluluk içinde görünüyor ki!"
+    },
+    {
+      "id": "ca1e6e95",
+      "bank_id": "00542802",
+      "text": "Bizim kendi erkek bebeğimiz! Sürekli gülümsemesi harika değil mi?"
+    },
+    {
+      "id": "ca1e6e96",
+      "bank_id": "00542802",
+      "text": "Küçük delikanlı sen buradayken öyle mutlu ki."
+    },
+    {
+      "id": "ca1e6e97",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimizin ne kadar mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "ca7b8cd8",
+      "bank_id": "00542802",
+      "text": "Uğraşırsak küçük erkek bebeğimizin daha mutlu olabileceğine bahse girerim."
+    },
+    {
+      "id": "ca7b8cda",
+      "bank_id": "00542802",
+      "text": "Bebeği kontrol ettin mi? Rahatsız olmasını istemeyiz."
+    },
+    {
+      "id": "ca7b8cdb",
+      "bank_id": "00542802",
+      "text": "Küçük erkek bebeğimiz çok tatlı değil mi?"
+    },
+    {
+      "id": "ca7b8cdc",
+      "bank_id": "00542802",
+      "text": "Biliyor musun, bence erkek bebeğimiz büyüyünce çok yakışıklı olacak."
+    },
+    {
+      "id": "ca7b8cdd",
+      "bank_id": "00542802",
+      "text": "Bizim şu oğlan sence de çok uyumuyor mu?"
+    },
+    {
+      "id": "ca7b8cde",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimizin kadife bez bağlamaması gerektiğinden kesinlikle emin misin?"
+    },
+    {
+      "id": "ca7b8cdf",
+      "bank_id": "00542802",
+      "text": "Bebek prensimizin burnunun bana çektiğine inanıyorum. Sen ne dersin?"
+    },
+    {
+      "id": "cd79a8b0",
+      "bank_id": "00542802",
+      "text": "Küçük kız bebeğimizi korkutmuyordun, değil mi?"
+    },
+    {
+      "id": "cd79a8b1",
+      "bank_id": "00542802",
+      "text": "Ayy, kız bebeğimiz çok üzgün. Neden acaba?"
+    },
+    {
+      "id": "cd79a8b4",
+      "bank_id": "00542802",
+      "text": "Ayy, küçük kız bebeğimizi bu kadar üzgün görmek ne korkunç değil mi?"
+    },
+    {
+      "id": "cd79a8b6",
+      "bank_id": "00542802",
+      "text": "Kız bebeğimiz neden bu kadar üzgün? Onu korkutmadın, değil mi?"
+    },
+    {
+      "id": "cd79a8b7",
+      "bank_id": "00542802",
+      "text": "Ayy, kız bebeğimiz çok üzgün. Neden acaba?"
+    },
+    {
+      "id": "cde4d94a",
+      "bank_id": "00542802",
+      "text": "Kızımız her zaman gülüp şarkı söylüyor."
+    },
+    {
+      "id": "cde4d94b",
+      "bank_id": "00542802",
+      "text": "Öyle tatlı küçük bir kızımız var ki."
+    },
+    {
+      "id": "cde4d94c",
+      "bank_id": "00542802",
+      "text": "Böylesine mutlu küçük bir kızımız olduğu için çok şanslıyız."
+    },
+    {
+      "id": "cde4d94d",
+      "bank_id": "00542802",
+      "text": "Böylesine mutlu küçük bir kızımız olduğu için çok şanslıyız."
+    },
+    {
+      "id": "cde4d94e",
+      "bank_id": "00542802",
+      "text": "Küçük kızımız öyle neşeli bir çocuk ki."
+    },
+    {
+      "id": "cf7b94f9",
+      "bank_id": "00542802",
+      "text": "Uğraşırsak küçük erkek bebeğimizin daha mutlu olabileceğine bahse girerim."
+    },
+    {
+      "id": "cf7b94fa",
+      "bank_id": "00542802",
+      "text": "Küçük erkek bebeğimiz çok tatlı değil mi?"
+    },
+    {
+      "id": "cf7b94fb",
+      "bank_id": "00542802",
+      "text": "Bebeği kontrol ettin mi? Rahatsız olmasını istemeyiz."
+    },
+    {
+      "id": "cf7b94fc",
+      "bank_id": "00542802",
+      "text": "Bizim şu oğlan sence de çok uyumuyor mu?"
+    },
+    {
+      "id": "cf7b94fd",
+      "bank_id": "00542802",
+      "text": "Biliyor musun, bence erkek bebeğimiz büyüyünce çok yakışıklı olacak."
+    },
+    {
+      "id": "cf7b94fe",
+      "bank_id": "00542802",
+      "text": "Bebek prensimizin burnunun bana çektiğine inanıyorum. Sen ne dersin?"
+    },
+    {
+      "id": "cf7b94ff",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimizin kadife bez bağlamaması gerektiğinden kesinlikle emin misin?"
+    },
+    {
+      "id": "cf90b421",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz çok mutlu!"
+    },
+    {
+      "id": "cf90b422",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "cf90b423",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "cf90b424",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz çamur içindeki küçük bir domuzcuk kadar mutlu."
+    },
+    {
+      "id": "cf90b425",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "d11e7990",
+      "bank_id": "00542802",
+      "text": "Ah, küçük oğlumuz çok sevimli değil mi? Ve senin yanındayken öyle mutlu ki!"
+    },
+    {
+      "id": "d11e7991",
+      "bank_id": "00542802",
+      "text": "Ah, erkek bebeğimizin gülümsediğini görmek içimi eritiyor!"
+    },
+    {
+      "id": "d11e7992",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimizin ne kadar mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "d11e7993",
+      "bank_id": "00542802",
+      "text": "Küçük delikanlı sen buradayken öyle mutlu ki."
+    },
+    {
+      "id": "d11e7994",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz gülümsemeyi durduramıyor. Sana bayılıyor!"
+    },
+    {
+      "id": "d11e7995",
+      "bank_id": "00542802",
+      "text": "Bebek oğlumuz çok mutlu! Harika değil mi?"
+    },
+    {
+      "id": "d11e7996",
+      "bank_id": "00542802",
+      "text": "Küçük oğlumuzun ne kadar mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "d279b050",
+      "bank_id": "00542802",
+      "text": "Küçük kız bebeğimizi korkutmuyordun, değil mi?"
+    },
+    {
+      "id": "d279b051",
+      "bank_id": "00542802",
+      "text": "Ayy, kız bebeğimiz çok üzgün. Neden acaba?"
+    },
+    {
+      "id": "d279b055",
+      "bank_id": "00542802",
+      "text": "Ayy, küçük kız bebeğimizi bu kadar üzgün görmek ne korkunç değil mi?"
+    },
+    {
+      "id": "d279b056",
+      "bank_id": "00542802",
+      "text": "Ayy, kız bebeğimiz çok üzgün. Neden acaba?"
+    },
+    {
+      "id": "d279b057",
+      "bank_id": "00542802",
+      "text": "Ayy, kız bebeğimiz çok üzgün. Neden acaba?"
+    },
+    {
+      "id": "d6e4e798",
+      "bank_id": "00542802",
+      "text": "Böylesine mutlu küçük bir kızımız olduğu için çok şanslıyız."
+    },
+    {
+      "id": "d6e4e799",
+      "bank_id": "00542802",
+      "text": "Böylesine mutlu küçük bir kızımız olduğu için çok şanslıyız."
+    },
+    {
+      "id": "d6e4e79b",
+      "bank_id": "00542802",
+      "text": "Böylesine mutlu küçük bir kızımız olduğu için çok şanslıyız."
+    },
+    {
+      "id": "d6e4e79e",
+      "bank_id": "00542802",
+      "text": "Böylesine mutlu küçük bir kızımız olduğu için çok şanslıyız."
+    },
+    {
+      "id": "d6e4e79f",
+      "bank_id": "00542802",
+      "text": "Kızımız her zaman gülüp şarkı söylüyor."
+    },
+    {
+      "id": "da90c550",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "da90c552",
+      "bank_id": "00542802",
+      "text": "Dünyanın en mutlu erkek bebeğine sahibiz."
+    },
+    {
+      "id": "da90c553",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "da90c554",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz çok mutlu!"
+    },
+    {
+      "id": "da90c555",
+      "bank_id": "00542802",
+      "text": "Erkek bebeğimiz tam bir neşe yumağı!"
+    },
+    {
+      "id": "eeb5c948",
+      "bank_id": "00542802",
+      "text": "Sence erkek bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "eeb5c949",
+      "bank_id": "00542802",
+      "text": "Bugün bebekle oynadın mı?"
+    },
+    {
+      "id": "eeb5c94d",
+      "bank_id": "00542802",
+      "text": "Bugün bebekle oynadın mı?"
+    },
+    {
+      "id": "eeb5c94e",
+      "bank_id": "00542802",
+      "text": "Sence erkek bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "eeb5c94f",
+      "bank_id": "00542802",
+      "text": "Son zamanlarda erkek bebeğimize hiç baktın mı?"
+    },
+    {
+      "id": "f59da250",
+      "bank_id": "00542802",
+      "text": "Küçük prensesimiz yine buralarda olduğun için sevinçten havalara uçuyor. Keşke daha uzun süre kalsan."
+    },
+    {
+      "id": "f59da251",
+      "bank_id": "00542802",
+      "text": "Yine buralarda olduğun için küçük kızımızın ne kadar mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "f59da252",
+      "bank_id": "00542802",
+      "text": "Genç kızımız sen yanındayken her zaman mutlu."
+    },
+    {
+      "id": "f59da253",
+      "bank_id": "00542802",
+      "text": "Kızınla daha fazla vakit geçirmelisin. Seninle olmayı çok seviyor."
+    },
+    {
+      "id": "f59da254",
+      "bank_id": "00542802",
+      "text": "Sen yokken kızımız seni özlüyor. Artık evde olduğun için ne kadar mutlu olduğunu görmedin mi?"
+    },
+    {
+      "id": "f59da255",
+      "bank_id": "00542802",
+      "text": "Öyle mutlu küçük bir kızımız var ki. Hele sen buralardayken."
+    },
+    {
+      "id": "f59da257",
+      "bank_id": "00542802",
+      "text": "Son ziyaretinden beri kızımızı hiç bu kadar mutlu görmemiştim. Sen uzaktayken seni özlüyor."
+    },
+    {
+      "id": "f9b5daf8",
+      "bank_id": "00542802",
+      "text": "Umarım erkek bebeğimiz iyidir."
+    },
+    {
+      "id": "f9b5daf9",
+      "bank_id": "00542802",
+      "text": "Bugün bebekle oynadın mı?"
+    },
+    {
+      "id": "f9b5dafc",
+      "bank_id": "00542802",
+      "text": "Sence erkek bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "f9b5dafe",
+      "bank_id": "00542802",
+      "text": "Sence erkek bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "f9b5daff",
+      "bank_id": "00542802",
+      "text": "Sence erkek bebeğimiz yeterince mutlu mu?"
+    },
+    {
+      "id": "fc9dad58",
+      "bank_id": "00542802",
+      "text": "Öyle mutlu küçük bir kızımız var ki. Hele sen buralardayken."
+    },
+    {
+      "id": "fc9dad59",
+      "bank_id": "00542802",
+      "text": "Sen yokken kızımız seni özlüyor. Artık evde olduğun için ne kadar mutlu olduğunu görmedin mi?"
+    },
+    {
+      "id": "fc9dad5a",
+      "bank_id": "00542802",
+      "text": "Son ziyaretinden beri kızımızı hiç bu kadar mutlu görmemiştim. Sen uzaktayken seni özlüyor."
+    },
+    {
+      "id": "fc9dad5c",
+      "bank_id": "00542802",
+      "text": "Yine buralarda olduğun için küçük kızımızın ne kadar mutlu olduğunu gördün mü?"
+    },
+    {
+      "id": "fc9dad5d",
+      "bank_id": "00542802",
+      "text": "Küçük prensesimiz yine buralarda olduğun için sevinçten havalara uçuyor. Keşke daha uzun süre kalsan."
+    },
+    {
+      "id": "fc9dad5e",
+      "bank_id": "00542802",
+      "text": "Kızınla daha fazla vakit geçirmelisin. Seninle olmayı çok seviyor."
+    },
+    {
+      "id": "fc9dad5f",
+      "bank_id": "00542802",
+      "text": "Küçük kızımız sen yanındayken her zaman mutlu."
+    }
+  ]
+}

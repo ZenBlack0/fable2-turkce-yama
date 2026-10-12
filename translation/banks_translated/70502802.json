@@ -1,0 +1,721 @@
+{
+  "bank_id": "70502802",
+  "total_strings": 143,
+  "strings": [
+    {
+      "id": "01f60e02",
+      "bank_id": "70502802",
+      "text": "Artık ünlü olmak nasıl bir his?"
+    },
+    {
+      "id": "01f60e03",
+      "bank_id": "70502802",
+      "text": "Bayağı bir şöhret olmaya başladın ha?"
+    },
+    {
+      "id": "01f60e04",
+      "bank_id": "70502802",
+      "text": "Giderek artan şöhretinle nasıl başa çıkıyorsun?"
+    },
+    {
+      "id": "01f60e05",
+      "bank_id": "70502802",
+      "text": "Hey, kim olduğunu biliyorum ben senin!"
+    },
+    {
+      "id": "01f60e07",
+      "bank_id": "70502802",
+      "text": "Yeni şöhretinin tadını çıkarıyor olmalısın."
+    },
+    {
+      "id": "053d98ff",
+      "bank_id": "70502802",
+      "text": "Vay canına! Gerçek bir Kahraman! Bir trilyon tane göreve falan çıktın, değil mi?!"
+    },
+    {
+      "id": "08f61908",
+      "bank_id": "70502802",
+      "text": "Herkes kim olduğunu biliyor gibi, değil mi?"
+    },
+    {
+      "id": "08f61909",
+      "bank_id": "70502802",
+      "text": "Kahramanlıklarının haberi her yere ulaşıyor."
+    },
+    {
+      "id": "08f6190a",
+      "bank_id": "70502802",
+      "text": "Görevlerinin hikâyeleri hızla yayılıyor."
+    },
+    {
+      "id": "08f6190e",
+      "bank_id": "70502802",
+      "text": "İnsanların kim olduğunu bilmesi nasıl bir his?"
+    },
+    {
+      "id": "08f6190f",
+      "bank_id": "70502802",
+      "text": "Her türlü ünü kazanıyor olabilirsin ama benden öyle kolay kolay etkilenemezsin."
+    },
+    {
+      "id": "0c833282",
+      "bank_id": "70502802",
+      "text": "Annem maceracıların vakit kaybı olduğunu söylüyor."
+    },
+    {
+      "id": "12b1de38",
+      "bank_id": "70502802",
+      "text": "Aah, neslimizin en seçkin maceracısı aramızda."
+    },
+    {
+      "id": "12b1de3a",
+      "bank_id": "70502802",
+      "text": "Buralarda maceralarını duymayan tek bir can bile yoktur."
+    },
+    {
+      "id": "12b1de3c",
+      "bank_id": "70502802",
+      "text": "Hep merak etmişimdir, şöhretin baskılarıyla baş etmek zor mu?"
+    },
+    {
+      "id": "12b1de3d",
+      "bank_id": "70502802",
+      "text": "Albion'da kim olduğunu bilmeyen kimse kalmamıştır artık."
+    },
+    {
+      "id": "158340ef",
+      "bank_id": "70502802",
+      "text": "Büyüyünce ben de maceralara atılacağım."
+    },
+    {
+      "id": "1bb1ec08",
+      "bank_id": "70502802",
+      "text": "Seni gördüğümü söylediğimde arkadaşlarımın ağzı açık kalacak."
+    },
+    {
+      "id": "1bb1ec0b",
+      "bank_id": "70502802",
+      "text": "Ah! Sizin gibi tanınmış insanlarla karşılaşmaya pek alışkın değilim!"
+    },
+    {
+      "id": "1bb1ec0c",
+      "bank_id": "70502802",
+      "text": "Sizin kadar el üstünde tutulan pek az maceracı vardır."
+    },
+    {
+      "id": "1bb1ec0e",
+      "bank_id": "70502802",
+      "text": "Evet, epeydir buralarda gördüğümüz en ünlü gezginsin, orası kesin."
+    },
+    {
+      "id": "1bb1ec0f",
+      "bank_id": "70502802",
+      "text": "Şimdiye kadar gördüğüm en büyük şöhret sensin şüphesiz."
+    },
+    {
+      "id": "22067b10",
+      "bank_id": "70502802",
+      "text": "Demek kendine maceracı diyorsun ha? Hıh."
+    },
+    {
+      "id": "22067b11",
+      "bank_id": "70502802",
+      "text": "Sen kim oluyorsun ki şimdi?"
+    },
+    {
+      "id": "22067b12",
+      "bank_id": "70502802",
+      "text": "Nam salmak için bir kılıç ve biraz büyüden fazlası gerekir."
+    },
+    {
+      "id": "22067b13",
+      "bank_id": "70502802",
+      "text": "Bir maceracıya göre oldukça siliksiniz, öyle değil mi? Hepinizin el üstünde tutulduğu izlenimine kapılmıştım oysa."
+    },
+    {
+      "id": "22067b14",
+      "bank_id": "70502802",
+      "text": "Önemli işler yaptığına emin misin? Kimdin sen sahi?"
+    },
+    {
+      "id": "22067b16",
+      "bank_id": "70502802",
+      "text": "Çocuklarım bütün o büyük maceracılardan bahseder durur. Ama senin adını hiç anmazlar."
+    },
+    {
+      "id": "22067b17",
+      "bank_id": "70502802",
+      "text": "Hımm, senin hakkında pek konuşulduğunu söyleyemem."
+    },
+    {
+      "id": "27068330",
+      "bank_id": "70502802",
+      "text": "Sen kimdin bakayım yine?"
+    },
+    {
+      "id": "27068331",
+      "bank_id": "70502802",
+      "text": "Çıkaramadım seni. Önemli bir şey yapmış olamazsın."
+    },
+    {
+      "id": "27068332",
+      "bank_id": "70502802",
+      "text": "Bir maceracıya göre düpedüz meçhulsün."
+    },
+    {
+      "id": "27068333",
+      "bank_id": "70502802",
+      "text": "Herhangi bir şöhret kazanmak için önünde daha çok uzun bir yol var anlaşılan."
+    },
+    {
+      "id": "27068335",
+      "bank_id": "70502802",
+      "text": "Yok, senin hakkında pek bir şey duyduğumu söyleyemem."
+    },
+    {
+      "id": "27068336",
+      "bank_id": "70502802",
+      "text": "Maceracı mısın dedin? Kusura bakma, hiç tanıdık gelmedi."
+    },
+    {
+      "id": "27068337",
+      "bank_id": "70502802",
+      "text": "Gerçekten düzgün bir maceracı olsaydın adını duyardım."
+    },
+    {
+      "id": "291d24b8",
+      "bank_id": "70502802",
+      "text": "Bayağı geziyorsun, değil mi? Herkes senin görevlerinden bahsediyor."
+    },
+    {
+      "id": "291d24b9",
+      "bank_id": "70502802",
+      "text": "Nereye gitsen çok ilgi görüyorsun, değil mi? Bahse girerim öyledir."
+    },
+    {
+      "id": "291d24bd",
+      "bank_id": "70502802",
+      "text": "Bir gün ünlü olacağını hep biliyor muydun?"
+    },
+    {
+      "id": "291d24be",
+      "bank_id": "70502802",
+      "text": "Ah, tek bir insanda bu kadar şöhret!"
+    },
+    {
+      "id": "291d24bf",
+      "bank_id": "70502802",
+      "text": "Böylesi bir üne sahip olmak için bir şeyleri doğru yapıyor olmalısın."
+    },
+    {
+      "id": "341d35e8",
+      "bank_id": "70502802",
+      "text": "Sana kanlı canlı baktığıma inanamıyorum. Çok ünlüsün!"
+    },
+    {
+      "id": "341d35e9",
+      "bank_id": "70502802",
+      "text": "Tonla hayranın vardır senin. Hiç dişlerini dökmek istediğin olmuyor mu?"
+    },
+    {
+      "id": "341d35ec",
+      "bank_id": "70502802",
+      "text": "Daha önce hiç senin kadar ünlü biriyle karşılaşmamıştım."
+    },
+    {
+      "id": "341d35ee",
+      "bank_id": "70502802",
+      "text": "Kolay kolay etkilenmem ama buralarda sahiden çok iyi tanınıyorsun."
+    },
+    {
+      "id": "341d35ef",
+      "bank_id": "70502802",
+      "text": "Şöhretinle nasıl başa çıkıyorsun?"
+    },
+    {
+      "id": "443bee61",
+      "bank_id": "70502802",
+      "text": "Görevlerinin haberi buralarda tez yayılır."
+    },
+    {
+      "id": "443bee62",
+      "bank_id": "70502802",
+      "text": "Son zamanlarda hiç büyük bir göreve çıktın mı?"
+    },
+    {
+      "id": "443bee65",
+      "bank_id": "70502802",
+      "text": "Şimdi kendini benden üstün görüyorsun herhalde?"
+    },
+    {
+      "id": "443bee66",
+      "bank_id": "70502802",
+      "text": "Şöhret yolunda olabilirsin ama benden öyle kolay kolay etkilenemezsin."
+    },
+    {
+      "id": "443bee67",
+      "bank_id": "70502802",
+      "text": "Şöhretli maceracılar arasındaki basamakları sağlam bir hızla tırmanıyorsun gibi görünüyor."
+    },
+    {
+      "id": "4f3bff90",
+      "bank_id": "70502802",
+      "text": "Biraz şöhret kazanmak güzel olsa gerek."
+    },
+    {
+      "id": "4f3bff92",
+      "bank_id": "70502802",
+      "text": "Eskilerin o büyük maceracıları kadar ünlü değilsin ama yine de iyisin sanırım."
+    },
+    {
+      "id": "4f3bff93",
+      "bank_id": "70502802",
+      "text": "Bayağı ünlü olmaya başladın, değil mi."
+    },
+    {
+      "id": "4f3bff94",
+      "bank_id": "70502802",
+      "text": "Neler neler yapmışsın, duydum valla!"
+    },
+    {
+      "id": "4f3bff95",
+      "bank_id": "70502802",
+      "text": "Şu artan şöhretinin başını döndürmesine izin verme."
+    },
+    {
+      "id": "4f3bff97",
+      "bank_id": "70502802",
+      "text": "İtibarlı biri olma yolundaki yükselişin gayet iyi gidiyor anlaşılan."
+    },
+    {
+      "id": "55fa87f0",
+      "bank_id": "70502802",
+      "text": "Yok, senin hakkında pek bir şey bilmiyorum... Maceracısın, değil mi?"
+    },
+    {
+      "id": "55fa87f1",
+      "bank_id": "70502802",
+      "text": "Duymuş olabileceğim ne yaptın ki? Hımm, pek bir şey yok..."
+    },
+    {
+      "id": "55fa87f4",
+      "bank_id": "70502802",
+      "text": "Hayır, kahramanlıkların -eğer varsa tabii- henüz kulağıma çalınmadı."
+    },
+    {
+      "id": "55fa87f6",
+      "bank_id": "70502802",
+      "text": "Hımm, sen. Ünlü müsün? Yok ya, hiç sanmam."
+    },
+    {
+      "id": "56b6c678",
+      "bank_id": "70502802",
+      "text": "Harika, senin gibi ünlü insanları her gün görmüyorum."
+    },
+    {
+      "id": "5bb6ce19",
+      "bank_id": "70502802",
+      "text": "Bu kadar ünlü olmak hoşuna gidiyor mu?"
+    },
+    {
+      "id": "5efa95d8",
+      "bank_id": "70502802",
+      "text": "Şu namlı savaşçı sen değil misin hani... Yok, dur. O sen değildin. Kim olduğuna dair en ufak bir fikrim bile yok."
+    },
+    {
+      "id": "5efa95da",
+      "bank_id": "70502802",
+      "text": "Daha nam salmaya yaklaşamamışsın bile, değil mi?"
+    },
+    {
+      "id": "5efa95dc",
+      "bank_id": "70502802",
+      "text": "Ün sahibi olmak için önünde yapacak çok iş var sanırım."
+    },
+    {
+      "id": "5efa95df",
+      "bank_id": "70502802",
+      "text": "Eee, duymuş olabileceğim ne yaptın bakalım? Bir şey var mı? Hiç mi?"
+    },
+    {
+      "id": "70828c18",
+      "bank_id": "70502802",
+      "text": "Hey, sensin bu! Sanırım adını duymuştum."
+    },
+    {
+      "id": "75829439",
+      "bank_id": "70502802",
+      "text": "Şu Kahraman sen değil misin? Gerçi artık maceracılara öyle demiyorlar sanırım..."
+    },
+    {
+      "id": "a2a9664d",
+      "bank_id": "70502802",
+      "text": "Kim olduğunu biliyorum! Çok havalı!"
+    },
+    {
+      "id": "ac7cda58",
+      "bank_id": "70502802",
+      "text": "Efsane ve mitlere konu olacak biri sayılmazsın pek ama tanınmıyor da değilsin."
+    },
+    {
+      "id": "ac7cda59",
+      "bank_id": "70502802",
+      "text": "Şöhretin yayılmaya başlıyor görüyorum ki."
+    },
+    {
+      "id": "ac7cda5a",
+      "bank_id": "70502802",
+      "text": "Adını duydum. Ama özel bir şey değil."
+    },
+    {
+      "id": "ac7cda5b",
+      "bank_id": "70502802",
+      "text": "Evet, şey, buralarda tanınmak o kadar da zor değil zaten."
+    },
+    {
+      "id": "ac7cda5c",
+      "bank_id": "70502802",
+      "text": "Evet, adını duydum. Ama hâlâ ikinci sınıf bir maceracısın daha çok."
+    },
+    {
+      "id": "ac7cda5d",
+      "bank_id": "70502802",
+      "text": "Efsanevi Kahramanlarla aşık atabileceğini söyler miydim emin değilim. Ama o yoldasın sanırım."
+    },
+    {
+      "id": "ac7cda5e",
+      "bank_id": "70502802",
+      "text": "Neredeyse ünlüsün. Ama tam değil. Gerçekten ünlü sayılmazsın."
+    },
+    {
+      "id": "ada977fc",
+      "bank_id": "70502802",
+      "text": "Hey, sen şu ünlü kişisin, değil mi?"
+    },
+    {
+      "id": "b57ce8a8",
+      "bank_id": "70502802",
+      "text": "Ah evet, sensin, şu maceracı."
+    },
+    {
+      "id": "b57ce8a9",
+      "bank_id": "70502802",
+      "text": "Tabii ki, kim olduğunu biliyorum."
+    },
+    {
+      "id": "b57ce8ab",
+      "bank_id": "70502802",
+      "text": "Gerçekten ün kazanman uzun zaman alacak ama en azından insanlar adını duymuş."
+    },
+    {
+      "id": "b57ce8ac",
+      "bank_id": "70502802",
+      "text": "Bütün Albion'un kim olduğunu öğrenmesi artık çok sürmez. Ama henüz o noktada değilsin."
+    },
+    {
+      "id": "b57ce8ad",
+      "bank_id": "70502802",
+      "text": "Sıradan halk senin gibi nispeten iyi tanınan bir maceracıdan etkilenebilir sanırım."
+    },
+    {
+      "id": "b57ce8ae",
+      "bank_id": "70502802",
+      "text": "Şöhretin yayılıyor ama hemen burnun havaya kalkmasın."
+    },
+    {
+      "id": "b57ce8af",
+      "bank_id": "70502802",
+      "text": "Hakkında her türlü şeyi duymaya başladık."
+    },
+    {
+      "id": "c1433dc1",
+      "bank_id": "70502802",
+      "text": "İnanılır gibi değil. Aramızda gerçek bir Kahraman var!"
+    },
+    {
+      "id": "c1433dc2",
+      "bank_id": "70502802",
+      "text": "Vay canına, şimdiye kadar tanıştığım en ünlü insansın."
+    },
+    {
+      "id": "c1433dc3",
+      "bank_id": "70502802",
+      "text": "Ooh! İnanılmaz! Sen şu ünlü maceracısın, değil mi?"
+    },
+    {
+      "id": "c1433dc4",
+      "bank_id": "70502802",
+      "text": "Bak hele, bir şöhretimiz varmış burada."
+    },
+    {
+      "id": "c1433dc5",
+      "bank_id": "70502802",
+      "text": "Ne bu şimdi? Hakiki bir ünlü, bizim gibi sefillerin arasına mı inmiş?"
+    },
+    {
+      "id": "c1433dc6",
+      "bank_id": "70502802",
+      "text": "Şöhretin o yüce duvarlarını sahiden tırmandın, değil mi?"
+    },
+    {
+      "id": "c1433dc7",
+      "bank_id": "70502802",
+      "text": "Aah, hakkında bunca şey duyduğumuz o meşhur maceracı sensin."
+    },
+    {
+      "id": "caa6cde5",
+      "bank_id": "70502802",
+      "text": "Bir dakika be! Sen erkektin! Değil miydin?"
+    },
+    {
+      "id": "cc434f70",
+      "bank_id": "70502802",
+      "text": "Hakkında öyle çok şey duydum ki!"
+    },
+    {
+      "id": "cc434f72",
+      "bank_id": "70502802",
+      "text": "Albion'daki en ünlü maceracı sen olmalısın!"
+    },
+    {
+      "id": "cc434f73",
+      "bank_id": "70502802",
+      "text": "Senin kadar ünlü biriyle karşılaşacağım hiç aklıma gelmezdi!"
+    },
+    {
+      "id": "cc434f74",
+      "bank_id": "70502802",
+      "text": "Herkesin bahsettiği şu maceracı sensin demek."
+    },
+    {
+      "id": "cc434f75",
+      "bank_id": "70502802",
+      "text": "Hakkında her şeyi duydum. Bayağı nam salıyorsun kendine."
+    },
+    {
+      "id": "cc434f76",
+      "bank_id": "70502802",
+      "text": "Sizin gibi seçkin birinin ziyaretine pek sık mazhar olmayız."
+    },
+    {
+      "id": "cc434f77",
+      "bank_id": "70502802",
+      "text": "Aman efendim, bu şerefi neye borçluyuz acaba, ünlü Kahraman?"
+    },
+    {
+      "id": "d1875332",
+      "bank_id": "70502802",
+      "text": "Şimdiye kadar karşılaştığın en zorlu canavar hangisiydi?"
+    },
+    {
+      "id": "d1875333",
+      "bank_id": "70502802",
+      "text": "Tek bir çim yaprağının bile ne kadar olağanüstü olduğunu hiç düşündün mü? İki tanesi daha da öyle."
+    },
+    {
+      "id": "d1875334",
+      "bank_id": "70502802",
+      "text": "Hiç yerleşik hayata geçmeyi düşündün mü? Bunca macera çok zor bir iş gibi görünüyor."
+    },
+    {
+      "id": "d1875335",
+      "bank_id": "70502802",
+      "text": "Hobbe'ler göründükleri kadar pis kokar mı?"
+    },
+    {
+      "id": "d1875336",
+      "bank_id": "70502802",
+      "text": "İddiaya girerim tehlike karşısında hiç korku nedir bilmezsin."
+    },
+    {
+      "id": "d1875337",
+      "bank_id": "70502802",
+      "text": "Yaratıklarla dövüşerek geçimini sağlasa sağlasa ancak sefiller sağlar herhalde."
+    },
+    {
+      "id": "dd2a8468",
+      "bank_id": "70502802",
+      "text": "Bütün dünyanın dikkatini üzerine çekmeyi başardın."
+    },
+    {
+      "id": "dd2a846a",
+      "bank_id": "70502802",
+      "text": "Boş durmuyorsun hiç, değil mi? Ne işler çevirdiğini herkes biliyor."
+    },
+    {
+      "id": "dd2a846b",
+      "bank_id": "70502802",
+      "text": "Bütün o büyük işlerini duydum. Ünün herkese ulaştı."
+    },
+    {
+      "id": "dd2a846c",
+      "bank_id": "70502802",
+      "text": "Bugünlerde etrafta pek fazla ünlü yok."
+    },
+    {
+      "id": "dd2a846d",
+      "bank_id": "70502802",
+      "text": "Bahse girerim hakkında şarkılar söyleyip kitaplar yazıyorlardır."
+    },
+    {
+      "id": "dda54618",
+      "bank_id": "70502802",
+      "text": "Böylesi bir şöhrete sahip biri karşısında ezilip büzülüyorum."
+    },
+    {
+      "id": "dda54619",
+      "bank_id": "70502802",
+      "text": "Şöhretin duvarlarını tırmandın ve en tepesinde gururla duruyorsun."
+    },
+    {
+      "id": "dda5461a",
+      "bank_id": "70502802",
+      "text": "Buralardan geçen gelmiş geçmiş en büyük şöhret sensin!"
+    },
+    {
+      "id": "dda5461b",
+      "bank_id": "70502802",
+      "text": "Kasabadaki herkes senden bahsediyor. Bayağı çalkantı yarattın, değil mi?"
+    },
+    {
+      "id": "dda5461c",
+      "bank_id": "70502802",
+      "text": "Kesinlikle çok ünlüsün."
+    },
+    {
+      "id": "dda5461d",
+      "bank_id": "70502802",
+      "text": "Tarihte senin kadar ünlü pek az insan olmuştur."
+    },
+    {
+      "id": "dda5461e",
+      "bank_id": "70502802",
+      "text": "Şöhretin sahiden görülmeye değer."
+    },
+    {
+      "id": "df05c258",
+      "bank_id": "70502802",
+      "text": "Evet, adını duydum sanırım. Pek dikkat etmiyordum gerçi."
+    },
+    {
+      "id": "df05c259",
+      "bank_id": "70502802",
+      "text": "Çoğu insan kim olduğunu biliyor. Bayağı heyecan verici olmalı, ha?"
+    },
+    {
+      "id": "df05c25d",
+      "bank_id": "70502802",
+      "text": "Şöhretinle nasıl başa çıkıyorsun? Başına vurmuyordur umarım."
+    },
+    {
+      "id": "df05c25e",
+      "bank_id": "70502802",
+      "text": "Kim olduğunu kesinlikle biliyorum. Çoğu insan da biliyor."
+    },
+    {
+      "id": "df05c25f",
+      "bank_id": "70502802",
+      "text": "Evet, bazı maceralarını duydum sanırım."
+    },
+    {
+      "id": "e22a8c09",
+      "bank_id": "70502802",
+      "text": "Albion'da kim olduğunu bilmeyen tek bir kişi bile olduğunu sanmıyorum."
+    },
+    {
+      "id": "e22a8c0a",
+      "bank_id": "70502802",
+      "text": "Maceralarının haberi şimdiden efsanelere konu olacak cinsten."
+    },
+    {
+      "id": "e22a8c0b",
+      "bank_id": "70502802",
+      "text": "Seninki gibi bir şöhreti kaldırabileceğimi hiç sanmıyorum."
+    },
+    {
+      "id": "e22a8c0c",
+      "bank_id": "70502802",
+      "text": "Bütün bu şöhret tantanasıyla nasıl baş ediyorsun?"
+    },
+    {
+      "id": "e22a8c0d",
+      "bank_id": "70502802",
+      "text": "Oho, bayağı bayağı ünlüsün sen!"
+    },
+    {
+      "id": "e4937c0c",
+      "bank_id": "70502802",
+      "text": "İşine bak vatandaş. Burada işlerin sakin ve sessiz kalmasını severiz."
+    },
+    {
+      "id": "e4937c0f",
+      "bank_id": "70502802",
+      "text": "Devam edin, burada bakılacak bir şey yok."
+    },
+    {
+      "id": "e6a55468",
+      "bank_id": "70502802",
+      "text": "Gittiğin her yerde tanınmak nasıl bir duygu?"
+    },
+    {
+      "id": "e6a55469",
+      "bank_id": "70502802",
+      "text": "Herkes kim olduğunu biliyor. Nasıl bir şey bu?"
+    },
+    {
+      "id": "e6a5546b",
+      "bank_id": "70502802",
+      "text": "Bu kadar ünlü olmak güzel olsa gerek."
+    },
+    {
+      "id": "e6a5546c",
+      "bank_id": "70502802",
+      "text": "Şöhret senin için büyük bir yük olmalı."
+    },
+    {
+      "id": "e6a5546d",
+      "bank_id": "70502802",
+      "text": "Sen hakikaten ünlü bir maceracısın."
+    },
+    {
+      "id": "e6a5546e",
+      "bank_id": "70502802",
+      "text": "Senin kadar ünlü olmaktan rahatsız olurdum sanırım."
+    },
+    {
+      "id": "e6a5546f",
+      "bank_id": "70502802",
+      "text": "Ünlü insanlarla karşılaşmaya pek alışkın değilim."
+    },
+    {
+      "id": "ea05d388",
+      "bank_id": "70502802",
+      "text": "Ününün tadını çıkarıyor musun?"
+    },
+    {
+      "id": "ea05d389",
+      "bank_id": "70502802",
+      "text": "Gördüğün bütün bu ilginin tadını çıkarıyor musun?"
+    },
+    {
+      "id": "ea05d38c",
+      "bank_id": "70502802",
+      "text": "Geçen gün görevlerinden birini duydum. Bayağı ünlü olmaya başladın."
+    },
+    {
+      "id": "ea05d38e",
+      "bank_id": "70502802",
+      "text": "Sahiden kendine iyi bir nam salıyorsun."
+    },
+    {
+      "id": "ea05d38f",
+      "bank_id": "70502802",
+      "text": "İnsanlar bugünlerde kesinlikle senden bahsediyor."
+    },
+    {
+      "id": "fc3d8a92",
+      "bank_id": "70502802",
+      "text": "Ah, ne kadar heyecan verici. İnsanlar her zaman senin maceralarından bahsediyor."
+    }
+  ]
+}

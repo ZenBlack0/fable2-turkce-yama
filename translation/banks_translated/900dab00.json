@@ -1,0 +1,436 @@
+{
+  "bank_id": "900dab00",
+  "total_strings": 86,
+  "strings": [
+    {
+      "id": "025df331",
+      "bank_id": "900dab00",
+      "text": "Efsanevi Pala: Enkazcı"
+    },
+    {
+      "id": "031e8434",
+      "bank_id": "900dab00",
+      "text": "Demir Katana"
+    },
+    {
+      "id": "070c5c6d",
+      "bank_id": "900dab00",
+      "text": "Bu şık tatar yayları, bir zamanlar savaşların gidişatını değiştirmek için ordular tarafından kiralanan paralı askerler olan Beyaz Düzen Okçuları tarafından tercih edilirdi."
+    },
+    {
+      "id": "09d980f6",
+      "bank_id": "900dab00",
+      "text": "Kahramanlar Loncası'nın çöküşünden sonra ortaya çıkan kaosla başa çıkmak için kurulan muhafız birliği tarafından kullanılan son derece amansız bir silah olan bu gürzler, o zamandan beri en vahşi savaşçılar dışındaki herkes tarafından terk edilmiştir."
+    },
+    {
+      "id": "0a4c2b1d",
+      "bank_id": "900dab00",
+      "text": "Hiçbir güzellik yarışmasını kazanamaz ve sonunda gözünüze bir ok fırlatabilir, ancak sürekli doldurma gerektirmediği için bu tatar yayının yine de faydaları vardır."
+    },
+    {
+      "id": "0b307088",
+      "bank_id": "900dab00",
+      "text": "Efsanevi Çekiç: Ametist Çekiç"
+    },
+    {
+      "id": "0e7299c1",
+      "bank_id": "900dab00",
+      "text": "Doğru ellerde etkili bir silah olan bu kılıç, gerçek savaştan ziyade talim amaçları için daha pratik, başlangıç seviyesinde bir kılıç sayılır."
+    },
+    {
+      "id": "1368d2c8",
+      "bank_id": "900dab00",
+      "text": "Hafif Meşe Tatar Yayı"
+    },
+    {
+      "id": "138283a6",
+      "bank_id": "900dab00",
+      "text": "Bu silahtaki efsun taşı hasara karşı daha dirençli olmanızı sağlar.\nBaşı mücevherle süslenmiş bu muhteşem savaş çekicinin kökenleri gizemle örtülüdür. Tarih boyunca birçok kez gün yüzüne çıkmış ve pek çok efendiye hizmet etmiştir; onu kullanan herkesin yenilmez olduğu söylenirdi. Yaygın efsaneye göre, bir sonraki efendisini bulup seçen bizzat çekicin kendisidir."
+    },
+    {
+      "id": "1726d1e4",
+      "bank_id": "900dab00",
+      "text": "Sadece en zavallı korsanlar ya da denizin dibinde çok uzun zaman geçirmiş biri böyle bir kılıcı tutarken görülmek ister."
+    },
+    {
+      "id": "1882c7b3",
+      "bank_id": "900dab00",
+      "text": "Çelik Çekiç"
+    },
+    {
+      "id": "1ebdd058",
+      "bank_id": "900dab00",
+      "text": "Paslı Uzun Kılıç"
+    },
+    {
+      "id": "1f68b9ce",
+      "bank_id": "900dab00",
+      "text": "Doğu Samarkand kökenli bu kılıcın pek de iyi bir örneği sayılmaz. Büyük ihtimalle bir Albion demircisinin o kaliteli çeliği taklit etme girişimidir."
+    },
+    {
+      "id": "207dff65",
+      "bank_id": "900dab00",
+      "text": "Paslı Katana"
+    },
+    {
+      "id": "2084ec85",
+      "bank_id": "900dab00",
+      "text": "Usta Seri Tatar Yayı"
+    },
+    {
+      "id": "27479b27",
+      "bank_id": "900dab00",
+      "text": "Şimdiye kadar yapılmış en iyi tatar yayı sayılmaz; modern ateşli silahlara kıyasla yavaş ve hantaldır ama yine de tükürük borusundan iyidir."
+    },
+    {
+      "id": "2e725beb",
+      "bank_id": "900dab00",
+      "text": "Bu silahtaki efsun taşı muhafızlar ve vatandaşlar gibi yasalara bağlı varlıklara daha büyük hasar vermesini sağlar.\nBu uzun kılıç, Albion'a musallat olan sıradan gölgelerden çok daha saf bir kötülüğe ve güce sahip olan İlk Gölgeler tarafından bizzat dövülmüştür. Gölgeler Tapınağı'nın kurucuları bu varlıklardan birini çağırmaya kalkıştıklarında onu kontrol edemediler. Yaratık kendi boyutuna geri çekilmeden önce küstahlıkları yüzünden hepsini katletti ve başkalarına ibret olsun diye ceza aletini geride bıraktı."
+    },
+    {
+      "id": "33fd4e77",
+      "bank_id": "900dab00",
+      "text": "Usta Uzun Kılıcı"
+    },
+    {
+      "id": "35247af1",
+      "bank_id": "900dab00",
+      "text": "Bu güçlü ve oldukça ağır savaş çekici yavaş olabilir ama hedefine ulaştığında akıl almaz hasarlar verebilir."
+    },
+    {
+      "id": "374389b2",
+      "bank_id": "900dab00",
+      "text": "Bu silahtaki efsun taşı düşmanlarınıza ateş hasarı vermenizi sağlar.\nİlk olarak güzelliği yalnızca gücü ve gazabıyla boy ölçüşebilen yarı savaşçı yarı cadı Vipress tarafından kullanılmıştır. Erkekler ona tapardı ve o birçoğunu Albion'un tanık olduğu en vahşi savaşlardan bazılarına sürükledi."
+    },
+    {
+      "id": "38420ed1",
+      "bank_id": "900dab00",
+      "text": "Girdap"
+    },
+    {
+      "id": "3b590ed5",
+      "bank_id": "900dab00",
+      "text": "Bu gürzün bir savruluşuyla düşmanlarınızın kemikleri kırılmakla kalmaz, un ufak olur."
+    },
+    {
+      "id": "3c4e97c7",
+      "bank_id": "900dab00",
+      "text": "Belki de şimdiye kadar yapılmış en güzel ve en gelişmiş tatar yayı serisi olan Usta Seri Yaylar, bu harikaları bir araya getirme becerisine sahip tek zanaatkâr olan Earl Mason'un imzasını taşır."
+    },
+    {
+      "id": "41d455e3",
+      "bank_id": "900dab00",
+      "text": "Korsan kaptanlarının bir numaralı tercihi. Kusursuz bir dengeye sahiptir ve bir isyanı anında bastırabilir."
+    },
+    {
+      "id": "42c9975a",
+      "bank_id": "900dab00",
+      "text": "Okyanuslarda yelken açan daha profesyonel korsanların gözdesi olan bu kaliteli kılıçlar; denizcilerin, yolcuların ve kaptanların gözünü korkutmak için tasarlanmıştır."
+    },
+    {
+      "id": "43886ba7",
+      "bank_id": "900dab00",
+      "text": "Efsanevi Uzun Kılıç: Girdap"
+    },
+    {
+      "id": "49243a08",
+      "bank_id": "900dab00",
+      "text": "Neredeyse hiç tutukluk yapmayacağı garantilenen bu tabancanın kurmalı mekânizması, ateşli silah teknolojisinin en üst düzey örneğidir."
+    },
+    {
+      "id": "4aadf332",
+      "bank_id": "900dab00",
+      "text": "Kuzey Çorak Toprakları'nın kadim savaşçıları tarafından sayısız savaşta kullanılan enfes bir savaş çekici örneği."
+    },
+    {
+      "id": "4b81e8af",
+      "bank_id": "900dab00",
+      "text": "Etkili olduğu kadar kaba ve çirkin olan bu gürzün, bu dünyada yürüyen ilk insanlar tarafından kullanıldığını hayal etmek hiç de zor değil."
+    },
+    {
+      "id": "504780f7",
+      "bank_id": "900dab00",
+      "text": "Çelik Katana"
+    },
+    {
+      "id": "50eefc2c",
+      "bank_id": "900dab00",
+      "text": "Düşmanınızı mümkün olan en zarif şekilde şişlemek için tasarlanmış kaliteli bir çelik parçası."
+    },
+    {
+      "id": "51d17da3",
+      "bank_id": "900dab00",
+      "text": "Demir Uzun Kılıç"
+    },
+    {
+      "id": "595e1c84",
+      "bank_id": "900dab00",
+      "text": "Her ne kadar tarzdan yoksun olsa ve elinizde parçalanma ihtimali bulunsa da bir düşmana fazla yaklaşmak istemediğinizde yine de çok faydalı olabilir."
+    },
+    {
+      "id": "599d221f",
+      "bank_id": "900dab00",
+      "text": "Çelik Gürz"
+    },
+    {
+      "id": "5b0f2499",
+      "bank_id": "900dab00",
+      "text": "Bu silahtaki efsun taşları yara izlerine karşı dayanıklı olmanızı sağlar, her öldürmede altın kazandırır ve onu gören tüm vatandaşların dehşet içinde sinmesine yol açar.\nEfsaneye göre bu pala bir zamanlar tüm dünya okyanuslarının en korkulan korsanı olan bizzat Kaptan Dread'e aitti."
+    },
+    {
+      "id": "5b2dc35e",
+      "bank_id": "900dab00",
+      "text": "Hafif Porsuk Tatar Yayı"
+    },
+    {
+      "id": "67cf30b8",
+      "bank_id": "900dab00",
+      "text": "Daichi"
+    },
+    {
+      "id": "67f5c2fa",
+      "bank_id": "900dab00",
+      "text": "Bu hafif ama güçlü tatar yayı, oldukça uzak bir mesafeden bir düşmanın kafasını parçalayabilir."
+    },
+    {
+      "id": "6aa290fe",
+      "bank_id": "900dab00",
+      "text": "Demir Çakmaklı Tabanca"
+    },
+    {
+      "id": "6e7621c9",
+      "bank_id": "900dab00",
+      "text": "Usta Palası"
+    },
+    {
+      "id": "6f72535e",
+      "bank_id": "900dab00",
+      "text": "Doğu Samarkand tepelerindeki savaşçı keşişler bu olağanüstü kılıçları dövmekle kalmaz, onları işgalciler veya tehlikeli yaratıklar üzerinde kullanmaktan da asla çekinmezler. Ne daha kaliteli bir çelik ne de daha ince işlenmiş bir kılıç vardır."
+    },
+    {
+      "id": "6fa78678",
+      "bank_id": "900dab00",
+      "text": "Demir Çekiç"
+    },
+    {
+      "id": "71d807d6",
+      "bank_id": "900dab00",
+      "text": "Gideceğiniz yere vaktinde varmak için ucuz ve paslı bir saate güvenmezsiniz; ciddi bir silahlı çatışmada hayatta kalmak için bu tabancaya güvenmek de ahmaklık olur."
+    },
+    {
+      "id": "75a2b924",
+      "bank_id": "900dab00",
+      "text": "Usta Katanası"
+    },
+    {
+      "id": "76e19aec",
+      "bank_id": "900dab00",
+      "text": "Ametist Çekiç"
+    },
+    {
+      "id": "7899c59e",
+      "bank_id": "900dab00",
+      "text": "Koçbaşı"
+    },
+    {
+      "id": "7fbd255b",
+      "bank_id": "900dab00",
+      "text": "Ucuz olabilir ama denizlerde demir bir pala ile az kafa kesilmemiştir."
+    },
+    {
+      "id": "827d8d37",
+      "bank_id": "900dab00",
+      "text": "Hafif Usta Tatar Yayı"
+    },
+    {
+      "id": "8398bb50",
+      "bank_id": "900dab00",
+      "text": "Bu yüksek kaliteli seri tatar yayıyla acemi okçular bile hedefini mutlaka vuracaktır."
+    },
+    {
+      "id": "88a6565b",
+      "bank_id": "900dab00",
+      "text": "Albion'da bulunabilecek en ilkel silahlardan biri olsa da yine de amacına hizmet eder. Eğer amaç birinin kafasını ezmekse tabii."
+    },
+    {
+      "id": "8a4185e5",
+      "bank_id": "900dab00",
+      "text": "Hafif Kıymıklı Tatar Yayı"
+    },
+    {
+      "id": "920f516a",
+      "bank_id": "900dab00",
+      "text": "Savaşçılardan ziyade hasatlarını hobbe'lerden korumak için çırpınan yoksul çiftçilerin kullandığı ilkel bir silah."
+    },
+    {
+      "id": "9b71aa3e",
+      "bank_id": "900dab00",
+      "text": "Paslı Pala"
+    },
+    {
+      "id": "a6fac3c7",
+      "bank_id": "900dab00",
+      "text": "Kıymıklı Seri Tatar Yayı"
+    },
+    {
+      "id": "a79a1b6f",
+      "bank_id": "900dab00",
+      "text": "Demir Kurmalı Tabanca"
+    },
+    {
+      "id": "aacdf41c",
+      "bank_id": "900dab00",
+      "text": "Porsuk Seri Tatar Yayı"
+    },
+    {
+      "id": "abb3609b",
+      "bank_id": "900dab00",
+      "text": "Usta Kurmalı Tabanca"
+    },
+    {
+      "id": "abf1a5a0",
+      "bank_id": "900dab00",
+      "text": "Taşımayı umabileceğiniz en şık ateşli silah; mermilerinden biriyle ölenler kendilerini şanslı saymalıdır. Bir tüfeğin menziline ve gücüne sahip olmayabilir ancak daha hızlı doldurma süresi bunu fazlasıyla telafi eder."
+    },
+    {
+      "id": "ac077321",
+      "bank_id": "900dab00",
+      "text": "Demir Pala"
+    },
+    {
+      "id": "b2b962a2",
+      "bank_id": "900dab00",
+      "text": "Efsanevi Tatar Yayı: Koçbaşı"
+    },
+    {
+      "id": "b4f0a421",
+      "bank_id": "900dab00",
+      "text": "Paslı Çekiç"
+    },
+    {
+      "id": "b674203c",
+      "bank_id": "900dab00",
+      "text": "Paslı Kurmalı Tabanca"
+    },
+    {
+      "id": "b88a89ad",
+      "bank_id": "900dab00",
+      "text": "Kralların savaşta kullanmaktan gurur duyacağı bir kılıç. Kusursuz bir dengeye ve düşmanları kâğıt gibi kesecek tırtıklı kenarlara sahiptir."
+    },
+    {
+      "id": "bd8414a7",
+      "bank_id": "900dab00",
+      "text": "Gerçek katanalar Samarkand'ın Doğu bölgelerinden çıkmıştır ve bu kılıç ucuz bir taklitten başka bir şey değil gibi görünmektedir."
+    },
+    {
+      "id": "c13e8f7b",
+      "bank_id": "900dab00",
+      "text": "Enkazcı"
+    },
+    {
+      "id": "c5b1692a",
+      "bank_id": "900dab00",
+      "text": "Çelik Kurmalı Tabanca"
+    },
+    {
+      "id": "c7fd95b9",
+      "bank_id": "900dab00",
+      "text": "Bu nadir ve pahalı tabanca, kurmalı ateşli silah mekânizmasının mucidi bizzat Horatio Peel tarafından üretilmiştir. Böyle bir eylem için fazla güçlü olduklarını fark etmeden önce, bir zamanlar düellolarda kullanan soylular arasında popülerdi. O zamandan beri düellodan sonraki temizlik çok daha az dağınık hale geldi."
+    },
+    {
+      "id": "cd379bdc",
+      "bank_id": "900dab00",
+      "text": "Usta Gürzü"
+    },
+    {
+      "id": "d00f24ed",
+      "bank_id": "900dab00",
+      "text": "Paslı Gürz"
+    },
+    {
+      "id": "d15bc354",
+      "bank_id": "900dab00",
+      "text": "Hiçbir dolap canavarı bu muhteşem hava basınçlı silahın atışına dayanamaz. Bazıları onun gelecekten geldiğini söyler. Diğerleri ise şımarık ve zengin bir velet tarafından çöpe atıldığını."
+    },
+    {
+      "id": "d4d4bc2d",
+      "bank_id": "900dab00",
+      "text": "Bu olağanüstü kılıçlar, savaşçı keşişler tarafından dövüldükleri Doğu Samarkand tepelerinden ithal edilmektedir. Çok az silah bu kadar ölümcüldür."
+    },
+    {
+      "id": "d4f6166c",
+      "bank_id": "900dab00",
+      "text": "Efsanevi Katana: Daichi"
+    },
+    {
+      "id": "d59152a6",
+      "bank_id": "900dab00",
+      "text": "Çelik Uzun Kılıç"
+    },
+    {
+      "id": "d657ec4c",
+      "bank_id": "900dab00",
+      "text": "Demir Gürz"
+    },
+    {
+      "id": "dc5de6ca",
+      "bank_id": "900dab00",
+      "text": "Bu silahtaki efsun taşları düşmanlarınıza daha büyük hasar vermenizi ve ek elektrik hasarı uygulamanızı sağlar. Ayrıca daha çekici görünmenizi de temin eder.\nBu istisnai kılıç bir zamanlar Doğu Samarkand'daki başarıları halk efsanesine dönüşmüş kadın savaşçı keşiş efsanevi Zuna Daichi'ye aitti. Bir görevdeyken Albion'u ziyaret etmiş olabileceğine dair hikâyeler vardır. Belki de öldüğü ve katanasını bıraktığı yer burasıydı."
+    },
+    {
+      "id": "e30c8420",
+      "bank_id": "900dab00",
+      "text": "Calavera"
+    },
+    {
+      "id": "e434a88a",
+      "bank_id": "900dab00",
+      "text": "Bu çekicin yardımıyla duvara tablo asmayı deneyebilirsiniz ama bunun yerine düşmanlarınızın kafatasında göçükler oluşturmak daha akıllıca olur."
+    },
+    {
+      "id": "e76fd936",
+      "bank_id": "900dab00",
+      "text": "Yeniden doldurmak zorunda kalmadan ok yağdırın. Meşe muadili kadar sağlam veya güçlü olmasa da bu tatar yayı savaşın hararetinde yine de işe yarar."
+    },
+    {
+      "id": "e8d3b3a4",
+      "bank_id": "900dab00",
+      "text": "Barut Samarkand'da keşfedilmişken, çakmaklı kilit mekânizması bir zamanlar Albion'un savaş tarihindeki en büyük ikinci icat olarak selamlanmıştı; gerçi yerini kurmalı ateşli silah tasarımına bırakmıştır. Bu ucuz ama etkili bir silahtır; tüm tabancalar gibi hızlı doldurma hızına sahiptir, ancak tüfeklere göre çok daha kısa menzillidir ve daha az hasar verir."
+    },
+    {
+      "id": "ebcf74c5",
+      "bank_id": "900dab00",
+      "text": "Kurmalı ateşli silahlar, çakmaklı kilit mekânizmalarının hızından memnun olmayan usta bir saatçi tarafından icat edilmiştir. Bu tabanca onun tasarımının ucuz bir taklididir ama en azından çalışır."
+    },
+    {
+      "id": "ee3ca6a8",
+      "bank_id": "900dab00",
+      "text": "Çelik Pala"
+    },
+    {
+      "id": "f2f99e86",
+      "bank_id": "900dab00",
+      "text": "Düşmanları ezmek için güvenilir bir demir gürzden daha iyi bir alet yoktur."
+    },
+    {
+      "id": "f5a6048e",
+      "bank_id": "900dab00",
+      "text": "Oyuncak Tabanca"
+    },
+    {
+      "id": "f676eda0",
+      "bank_id": "900dab00",
+      "text": "Usta Çekici"
+    },
+    {
+      "id": "ff3f5fe4",
+      "bank_id": "900dab00",
+      "text": "Efsanevi Gürz: Calavera"
+    },
+    {
+      "id": "ffcfffd2",
+      "bank_id": "900dab00",
+      "text": "Meşe Seri Tatar Yayı"
+    }
+  ]
+}

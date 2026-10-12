@@ -1,0 +1,746 @@
+{
+  "bank_id": "004e2802",
+  "total_strings": 148,
+  "strings": [
+    {
+      "id": "00b32c08",
+      "bank_id": "004e2802",
+      "text": "Herkes seni konuşuyor, it oğlu it."
+    },
+    {
+      "id": "00b32c09",
+      "bank_id": "004e2802",
+      "text": "Bir köpeğin benden daha ünlü olduğuna inanamıyorum."
+    },
+    {
+      "id": "00b32c0c",
+      "bank_id": "004e2802",
+      "text": "Hakkında her şeyi duydum, köpek."
+    },
+    {
+      "id": "00b32c0e",
+      "bank_id": "004e2802",
+      "text": "Ne maceralar yaşamışsın öyle, değil mi kuçu kuçu."
+    },
+    {
+      "id": "00b32c0f",
+      "bank_id": "004e2802",
+      "text": "A, sen şu meşhur köpeksin!"
+    },
+    {
+      "id": "01121af8",
+      "bank_id": "004e2802",
+      "text": "Bana mı diklendin lan? Seni çorap emici çilli domuz!"
+    },
+    {
+      "id": "01121af9",
+      "bank_id": "004e2802",
+      "text": "Pis pislik seni!"
+    },
+    {
+      "id": "01121afb",
+      "bank_id": "004e2802",
+      "text": "İçkime mi bakıyon sen? Hı, bakıyon mu?"
+    },
+    {
+      "id": "01121afc",
+      "bank_id": "004e2802",
+      "text": "Düz yürüyebilseydim seni bir güzel kırbaçlatırdım, vallahi yapardım."
+    },
+    {
+      "id": "01121afd",
+      "bank_id": "004e2802",
+      "text": "Senden ne kadar tiksindiğimi anlatacak kelime bulamıyorum. Pöh!"
+    },
+    {
+      "id": "01121afe",
+      "bank_id": "004e2802",
+      "text": "Seni domuz kılıklı sefil seni!"
+    },
+    {
+      "id": "01121aff",
+      "bank_id": "004e2802",
+      "text": "Gebertcekolmbensenigah!"
+    },
+    {
+      "id": "28827c88",
+      "bank_id": "004e2802",
+      "text": "Bayağı meşhur bir ufaklıksın sen de, bilesin."
+    },
+    {
+      "id": "28827c8b",
+      "bank_id": "004e2802",
+      "text": "Yahu, ozan şarkıları söyleyen şu tavuktan bile daha meşhursun!"
+    },
+    {
+      "id": "28827c8d",
+      "bank_id": "004e2802",
+      "text": "Benden daha meşhur olduğuna inanamıyorum! Bir köpeğin hem de!"
+    },
+    {
+      "id": "28827c8e",
+      "bank_id": "004e2802",
+      "text": "Köpeklik ünün senden önce geliyor."
+    },
+    {
+      "id": "28827c8f",
+      "bank_id": "004e2802",
+      "text": "Ah, hakkında çok şey duyduğumuz o meşhur hayvan bu işte."
+    },
+    {
+      "id": "2d8284aa",
+      "bank_id": "004e2802",
+      "text": "Dans eden şu domuzdan bile daha meşhursun!"
+    },
+    {
+      "id": "2d8284ad",
+      "bank_id": "004e2802",
+      "text": "Herkes seni konuşuyor köpek. Nasıl bir duygu?"
+    },
+    {
+      "id": "2d8284ae",
+      "bank_id": "004e2802",
+      "text": "Ne tatlı şeysin sen öyle? Ben sadece meşhur hayvanlarla konuşurum, biliyorsun değil mi."
+    },
+    {
+      "id": "32118cce",
+      "bank_id": "004e2802",
+      "text": "Şuna bak hele! Ablamdan bile daha çirkinsin!"
+    },
+    {
+      "id": "393a1e88",
+      "bank_id": "004e2802",
+      "text": "Vay canına, sen misin bu... Ömrümde gördüğüm en iyi dostsun! Ki iki dostum oldu!"
+    },
+    {
+      "id": "393a1e89",
+      "bank_id": "004e2802",
+      "text": "İçinde turşu olan bir kova ucuz şaraptan bile daha iyisin sen, vallahi öylesin!"
+    },
+    {
+      "id": "393a1e8a",
+      "bank_id": "004e2802",
+      "text": "Aww, öyle harika, tatlı, muhteşem ve iyi bir insansın ki."
+    },
+    {
+      "id": "393a1e8d",
+      "bank_id": "004e2802",
+      "text": "Sen var ya, üstüne peynir serpilmiş koca bir dondurma gibisin! Ay, peynire bayılırım."
+    },
+    {
+      "id": "393a1e8e",
+      "bank_id": "004e2802",
+      "text": "Sen gelmiş geçmiş en... en harika şeysin!"
+    },
+    {
+      "id": "393a1e8f",
+      "bank_id": "004e2802",
+      "text": "Bence en iyisi sensin. Yok, en büyüğüsün! Yok dur. Bence çok ama çok çok çok iyisin."
+    },
+    {
+      "id": "3b119b1b",
+      "bank_id": "004e2802",
+      "text": "Şu kötülere kulak asma sen. İçin hâlâ çok sevimli senin."
+    },
+    {
+      "id": "443a3038",
+      "bank_id": "004e2802",
+      "text": "Ah, sen öyle muhteşemsin ki. Bence harikasın. Gerçekten öyle düşünüyom."
+    },
+    {
+      "id": "443a3039",
+      "bank_id": "004e2802",
+      "text": "Senden daha iyisi yok. Şey, belki şuradaki adam hariç. Bir de kuzenim. Ama o ikisi dışında kimse yok."
+    },
+    {
+      "id": "443a303a",
+      "bank_id": "004e2802",
+      "text": "Ah, harikasın sen harika. Çok tatlısın falan işte. Vallahi ciddiyim."
+    },
+    {
+      "id": "443a303b",
+      "bank_id": "004e2802",
+      "text": "Sen harikasın çünkü harika olmak harika bir şeydir ve sen tam da osun."
+    },
+    {
+      "id": "443a303c",
+      "bank_id": "004e2802",
+      "text": "Bütün dünya senin gibi insanlarla dolmalı. Dopdolu! Evet, harika olurdu."
+    },
+    {
+      "id": "443a303e",
+      "bank_id": "004e2802",
+      "text": "İlelebet kanka olacağız biz seninle."
+    },
+    {
+      "id": "443a303f",
+      "bank_id": "004e2802",
+      "text": "Senin kadar muhteşem ve harika birine hiç rastlamadım."
+    },
+    {
+      "id": "60c7e748",
+      "bank_id": "004e2802",
+      "text": "Bir zamanlar benim de köpeğim vardı. Ama kayboldu. Ne garip."
+    },
+    {
+      "id": "60c7e74a",
+      "bank_id": "004e2802",
+      "text": "Şu köpek sahibinden hiç ayrılmıyor."
+    },
+    {
+      "id": "60c7e74b",
+      "bank_id": "004e2802",
+      "text": "Hımm, etrafta başka hiç köpek görmediğini fark ettin mi hiç?"
+    },
+    {
+      "id": "60c7e74c",
+      "bank_id": "004e2802",
+      "text": "Köpek beslemenin ne faydası var ki? Sadece aptal kuyruğunu sallar."
+    },
+    {
+      "id": "60c7e74d",
+      "bank_id": "004e2802",
+      "text": "Böyle bir hayvanın yanında savaştığını düşünsene, ne kadar faydalı olurdu."
+    },
+    {
+      "id": "60c7e74e",
+      "bank_id": "004e2802",
+      "text": "Eskiden insanın en sadık ve güvenilir dostu olduğunu söylerlerdi. Bana pek öyle gelmiyor."
+    },
+    {
+      "id": "60c7e74f",
+      "bank_id": "004e2802",
+      "text": "Bu küçük tüylü yaratıklar kesinlikle enerji dolu."
+    },
+    {
+      "id": "647e5dce",
+      "bank_id": "004e2802",
+      "text": "Harika! Sen o köpeksin! Meşhur köpek! Pati izini alabilir miyim?"
+    },
+    {
+      "id": "64c32ce8",
+      "bank_id": "004e2802",
+      "text": "Göz zevkine hitap etmemen senin suçun değil, öyle değil mi kuçucuk?"
+    },
+    {
+      "id": "65c7ef6f",
+      "bank_id": "004e2802",
+      "text": "Hayvanların aramızda dolaşmasına izin vermelerine şaşıyorum doğrusu!"
+    },
+    {
+      "id": "69c33489",
+      "bank_id": "004e2802",
+      "text": "Hihi, çok çirkinsin!"
+    },
+    {
+      "id": "6d7e6c1b",
+      "bank_id": "004e2802",
+      "text": "Aww, kimmiş meşhur köpek? Senmişsin! Evet, sensin!"
+    },
+    {
+      "id": "71ebc240",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "71ebc241",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "71ebc242",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "71ebc244",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "71ebc245",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "71ebc246",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "71ebc247",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "7aebd0a8",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "7aebd0a9",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "7aebd0aa",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "7aebd0ab",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "7aebd0ac",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "7aebd0ad",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "7aebd0af",
+      "bank_id": "004e2802",
+      "text": "Merhaba kuçu kuçu, sahibine iyi bak ha."
+    },
+    {
+      "id": "7e41602e",
+      "bank_id": "004e2802",
+      "text": "Büyüyünce belki daha sevimli olursun... Belki."
+    },
+    {
+      "id": "87416e7b",
+      "bank_id": "004e2802",
+      "text": "Vay be, köpeklerin bu kadar çirkin olabileceğini bilmezdim!"
+    },
+    {
+      "id": "8a03a179",
+      "bank_id": "004e2802",
+      "text": "Hav! Hav! Ha ha!"
+    },
+    {
+      "id": "8a03a17e",
+      "bank_id": "004e2802",
+      "text": "Ha! Ne tatlı ufaklıksın sen öyle! Hav hav! Ha!"
+    },
+    {
+      "id": "8dbd5d00",
+      "bank_id": "004e2802",
+      "text": "Köpek ırkının ne kadar iğrenç bir örneğisin sen böyle."
+    },
+    {
+      "id": "8dbd5d01",
+      "bank_id": "004e2802",
+      "text": "Aman Tanrım, bir köpek için bile düpedüz grotesksin."
+    },
+    {
+      "id": "8dbd5d02",
+      "bank_id": "004e2802",
+      "text": "Cehennemden çıkma çirkin bir köpeksin sen, değil mi?"
+    },
+    {
+      "id": "8dbd5d03",
+      "bank_id": "004e2802",
+      "text": "Seni iğrenç it, çekil gözümün önünden be!"
+    },
+    {
+      "id": "8dbd5d04",
+      "bank_id": "004e2802",
+      "text": "Aman, kadınların pek ilgisini çekmediğine bahse girerim."
+    },
+    {
+      "id": "8dbd5d05",
+      "bank_id": "004e2802",
+      "text": "Bu kadar korkunç mu doğdun sen?"
+    },
+    {
+      "id": "8dbd5d07",
+      "bank_id": "004e2802",
+      "text": "Seni bu kadar çirkinleştirecek ne oldu acaba?"
+    },
+    {
+      "id": "94bd6808",
+      "bank_id": "004e2802",
+      "text": "Nasıl bu kadar çirkin olabildin sahi?"
+    },
+    {
+      "id": "94bd6809",
+      "bank_id": "004e2802",
+      "text": "Hep bu kadar çirkin miydin sen köpek?"
+    },
+    {
+      "id": "94bd680a",
+      "bank_id": "004e2802",
+      "text": "Öğk! Ne iğrenç bir itsin sen öyle!"
+    },
+    {
+      "id": "94bd680c",
+      "bank_id": "004e2802",
+      "text": "İğrenç bir hayvansın sen!"
+    },
+    {
+      "id": "94bd680d",
+      "bank_id": "004e2802",
+      "text": "Aman Tanrım! Ne çirkin bir yaratık!"
+    },
+    {
+      "id": "94bd680e",
+      "bank_id": "004e2802",
+      "text": "Ha! Gördüğüm en çirkin yaratık sen olmalısın!"
+    },
+    {
+      "id": "94bd680f",
+      "bank_id": "004e2802",
+      "text": "Köpeklerin güzel olmadığını bilirim ama sen düpedüz korkunçsun!"
+    },
+    {
+      "id": "9503b2a9",
+      "bank_id": "004e2802",
+      "text": "Vay, Albion'un kralı gelmiş meğer! Nasılsınız majesteleri? Bayağı kıllı görünüyorsunuz."
+    },
+    {
+      "id": "9503b2ac",
+      "bank_id": "004e2802",
+      "text": "Aman, ne sevimli bir köpek grubu! Dur bir dakika, üç tane misiniz yoksa dört tane mi?"
+    },
+    {
+      "id": "972ffde8",
+      "bank_id": "004e2802",
+      "text": "Hey kuçu kuçu! Yeni büyük maceralara atıldın mı bakalım?"
+    },
+    {
+      "id": "9c300589",
+      "bank_id": "004e2802",
+      "text": "Vay canına, gerçekten o köpek olduğuna inanamıyorum! Hey! Köpek!"
+    },
+    {
+      "id": "9cc2358e",
+      "bank_id": "004e2802",
+      "text": "Sırtına binebilir miyim acaba..."
+    },
+    {
+      "id": "a5c243db",
+      "bank_id": "004e2802",
+      "text": "Ne tür bir köpek olduğunu biliyorum! Hav hav köpek!"
+    },
+    {
+      "id": "a7736498",
+      "bank_id": "004e2802",
+      "text": "Bir derdin mi var lan?! He?! Var mı?!"
+    },
+    {
+      "id": "a773649a",
+      "bank_id": "004e2802",
+      "text": "Sende yürek falan yok. Evet. Kof herifin tekisin!"
+    },
+    {
+      "id": "a773649b",
+      "bank_id": "004e2802",
+      "text": "Biraz daha yaklaş da kafa atayım sana."
+    },
+    {
+      "id": "a773649c",
+      "bank_id": "004e2802",
+      "text": "Kurtlu kızamıklı kanlı bir çuvalsın sen. Hepsi bu da değil! Başka şeyler de var."
+    },
+    {
+      "id": "a773649d",
+      "bank_id": "004e2802",
+      "text": "Yumruklarımla tanıştın mı hiç? Tanıştırayım seni."
+    },
+    {
+      "id": "a773649e",
+      "bank_id": "004e2802",
+      "text": "Kendini çok akıllı sanıyorsun değil mi! Evet. İshal nasıl yazılır onu bile bilmiyorsundur bahse girerim! Ben söyleyeyim! İ-Ş-A-L!"
+    },
+    {
+      "id": "a773649f",
+      "bank_id": "004e2802",
+      "text": "Bodrumumda bir kuyu var. Bir gün seni davet edip sağlam bir iteceğim, evet yapacağım."
+    },
+    {
+      "id": "ac736cb9",
+      "bank_id": "004e2802",
+      "text": "Sen! Pöh! Git bir fıçı dolusu pisliğin içine atla emi. Evet."
+    },
+    {
+      "id": "ac736cba",
+      "bank_id": "004e2802",
+      "text": "Sen! Seni bir yakalarım bir bükerim ve vaaaaa. Hıh."
+    },
+    {
+      "id": "ac736cbb",
+      "bank_id": "004e2802",
+      "text": "Git de bir kılıcın üstüne atla işte. Sivri tarafı yukarı baksın ama. Öbür tarafı değil. Canın acımaz. Yani, pek acımaz."
+    },
+    {
+      "id": "ac736cbc",
+      "bank_id": "004e2802",
+      "text": "BENİM mahallemin yakınlarında baş aşağı asıldığını görmeyeyim, seni kurbağa gözlü pislik."
+    },
+    {
+      "id": "ac736cbd",
+      "bank_id": "004e2802",
+      "text": "Gözüne parmağımı sokardım vallahi. Şanslısın ki şu an hedefi tam tutturamıyorum."
+    },
+    {
+      "id": "ac736cbe",
+      "bank_id": "004e2802",
+      "text": "Sen! Buraya gel! Gözüne topuğumu basacağım! Basacağım vallahi!"
+    },
+    {
+      "id": "ad12d7a8",
+      "bank_id": "004e2802",
+      "text": "Kanalizasyonda yüzen daha iyi maceracılar gördüm ben."
+    },
+    {
+      "id": "ad12d7a9",
+      "bank_id": "004e2802",
+      "text": "Nerede uyuduğuna dikkat et sen. Bir gece yatağını ateşe vereceğim. Hatta verdim bile. Al bakalım."
+    },
+    {
+      "id": "ad12d7ad",
+      "bank_id": "004e2802",
+      "text": "Sensin o! Evet, sen ve bütün o aptal pöhlerin!"
+    },
+    {
+      "id": "ad12d7ae",
+      "bank_id": "004e2802",
+      "text": "Dilini tutup boynuna dolayacağım senin!"
+    },
+    {
+      "id": "ad12d7af",
+      "bank_id": "004e2802",
+      "text": "Seni bacaklarından asmalı... evet, kulenin şeyine kadar... pöh!"
+    },
+    {
+      "id": "b812e8d8",
+      "bank_id": "004e2802",
+      "text": "Sana katlanamıyorum! Bana bir tirilyon altın versen bile. Şey, belki birazcık."
+    },
+    {
+      "id": "b812e8d9",
+      "bank_id": "004e2802",
+      "text": "Beni ne mutlu ederdi bilir misin, tam şu anda nalları dikmen. Evet. Yalnız parmaklarımın üstüne düşme."
+    },
+    {
+      "id": "b812e8dc",
+      "bank_id": "004e2802",
+      "text": "Pöh! İşe yaramaz pisliğin tekisin sen!"
+    },
+    {
+      "id": "b812e8de",
+      "bank_id": "004e2802",
+      "text": "Sen! Gelmiş geçmiş en pis kurbağa poposusun... ah! Öylesin işte!"
+    },
+    {
+      "id": "b812e8df",
+      "bank_id": "004e2802",
+      "text": "Senden hoşlanmıyorum. Buralarda sana hiç güvenmiyorum. Hiç ama hiç sevmiyorum seni!"
+    },
+    {
+      "id": "c02a2e00",
+      "bank_id": "004e2802",
+      "text": "Ah şanlı mahluk, sahibine iyi hizmet ediyorsun."
+    },
+    {
+      "id": "c02a2e01",
+      "bank_id": "004e2802",
+      "text": "Tarihe geçen çok az hayvan vardır ama sen geçeceksin minik dostum."
+    },
+    {
+      "id": "c02a2e02",
+      "bank_id": "004e2802",
+      "text": "Vay, amma meşhur bir itsin sen!"
+    },
+    {
+      "id": "c02a2e03",
+      "bank_id": "004e2802",
+      "text": "Bir ite göre bayağı tanınıyorsun!"
+    },
+    {
+      "id": "c02a2e04",
+      "bank_id": "004e2802",
+      "text": "Hey oğlum! Ne muazzam maceralara atıldın öyle, değil mi?"
+    },
+    {
+      "id": "c02a2e05",
+      "bank_id": "004e2802",
+      "text": "Vay canına, hakkında o kadar çok şey duyduğum küçük tüylü dostumuz sensin demek!"
+    },
+    {
+      "id": "c02a2e07",
+      "bank_id": "004e2802",
+      "text": "Dünyanın en meşhur köpeği sen olmalısın!"
+    },
+    {
+      "id": "c72a3908",
+      "bank_id": "004e2802",
+      "text": "Büyü yapan şu hamsterdan bile daha meşhursun!"
+    },
+    {
+      "id": "c72a3909",
+      "bank_id": "004e2802",
+      "text": "Sen şu ünlü köpeksin, değil mi? Evet, sensin!"
+    },
+    {
+      "id": "c72a390a",
+      "bank_id": "004e2802",
+      "text": "Sen o meşhur köpeksin!"
+    },
+    {
+      "id": "c72a390c",
+      "bank_id": "004e2802",
+      "text": "Demek sonunda karşılaştık, köpek."
+    },
+    {
+      "id": "c72a390d",
+      "bank_id": "004e2802",
+      "text": "Gerçek bir köpek asaleti!"
+    },
+    {
+      "id": "c72a390e",
+      "bank_id": "004e2802",
+      "text": "Senin ve şu sahibinin hakkında her şeyi duydum."
+    },
+    {
+      "id": "c72a390f",
+      "bank_id": "004e2802",
+      "text": "Nasıl bu kadar meşhur oldun it? Konuşamıyorsun bile!"
+    },
+    {
+      "id": "f5b31ad8",
+      "bank_id": "004e2802",
+      "text": "Vay, meşhur it gelmiş meğer."
+    },
+    {
+      "id": "f5b31ad9",
+      "bank_id": "004e2802",
+      "text": "Ha, tam bir ünlü köpek."
+    },
+    {
+      "id": "f5b31add",
+      "bank_id": "004e2802",
+      "text": "Büyük maceralara atıldın, değil mi köpek?"
+    },
+    {
+      "id": "f5b31ade",
+      "bank_id": "004e2802",
+      "text": "Amma meşhur bir köpeksin sen öyle? Evet, öylesin!"
+    },
+    {
+      "id": "f5b31adf",
+      "bank_id": "004e2802",
+      "text": "Şöhretinin tadını çıkarıyor musun köpek?"
+    },
+    {
+      "id": "f615ab88",
+      "bank_id": "004e2802",
+      "text": "Köpeklerin çirkin olması gerektiğini bilirim ama sen düpedüz iğrençsin."
+    },
+    {
+      "id": "f615ab8a",
+      "bank_id": "004e2802",
+      "text": "Öğk, bu kadar çirkin olmak için kaza mı geçirdin sen köpek?"
+    },
+    {
+      "id": "f615ab8b",
+      "bank_id": "004e2802",
+      "text": "Kılık değiştiren hobbe'lerin çirkin olduğunu sanırdım ama sen hepsini geçtin."
+    },
+    {
+      "id": "f615ab8c",
+      "bank_id": "004e2802",
+      "text": "Ne çirkin bir itsin sen böyle."
+    },
+    {
+      "id": "f615ab8d",
+      "bank_id": "004e2802",
+      "text": "Öğk! Ne biçim bir surat bu! Kırma bir köpek için bile."
+    },
+    {
+      "id": "f8120ca8",
+      "bank_id": "004e2802",
+      "text": "Yüzünü göstermeye cüret mi ediyorsun?! Bakmayacağım bile işte. Al bakalım!"
+    },
+    {
+      "id": "f8120ca9",
+      "bank_id": "004e2802",
+      "text": "Yahu, sen kötülüğün ta kendisisin!"
+    },
+    {
+      "id": "f8120caa",
+      "bank_id": "004e2802",
+      "text": "Midemi bulandırıyorsun!"
+    },
+    {
+      "id": "f8120cab",
+      "bank_id": "004e2802",
+      "text": "Seni iğrenç pislik it pisliği seni!"
+    },
+    {
+      "id": "f8120cac",
+      "bank_id": "004e2802",
+      "text": "Senden hiç hazzetmedim! Kim olursan ol."
+    },
+    {
+      "id": "f8120cad",
+      "bank_id": "004e2802",
+      "text": "Katilsin sen! Öylesin işte! Pis katil!"
+    },
+    {
+      "id": "f8120cae",
+      "bank_id": "004e2802",
+      "text": "Sen! Evet sen! Neye bakıyon lan?!"
+    },
+    {
+      "id": "fb15b3a9",
+      "bank_id": "004e2802",
+      "text": "Ne kadar korkunç bir hayvansın sen."
+    },
+    {
+      "id": "fb15b3aa",
+      "bank_id": "004e2802",
+      "text": "Nasıl bu kadar çirkin olabildin it suratlı?"
+    },
+    {
+      "id": "fb15b3ab",
+      "bank_id": "004e2802",
+      "text": "Çirkin bir canavarsın sen, öylesin vallahi."
+    },
+    {
+      "id": "fb15b3ac",
+      "bank_id": "004e2802",
+      "text": "Gördüğüm en pis bakışlı itsin."
+    },
+    {
+      "id": "fb15b3ad",
+      "bank_id": "004e2802",
+      "text": "Siz köpeklerin neslinin neredeyse tükenmesine şaşmamalı. Günah kadar çirkinsin."
+    },
+    {
+      "id": "fb2be580",
+      "bank_id": "004e2802",
+      "text": "Aww! Öyle tatlı ve öyle cici ve öyle aww bir şeysin ki!"
+    },
+    {
+      "id": "fb2be582",
+      "bank_id": "004e2802",
+      "text": "Herkesin en harikası, en iyisi sen değilsen neyim."
+    },
+    {
+      "id": "fb2be583",
+      "bank_id": "004e2802",
+      "text": "Senden gerçekten hoşlanıyorum. Hatta seni seviyorum bile diyebilirim. Evet seviyorum."
+    },
+    {
+      "id": "fb2be585",
+      "bank_id": "004e2802",
+      "text": "Hey! Sen harika bir maceracı şeysisin. Ah, kendime kaç kere demişimdir... şey, az önce neden bahsediyordum ben?"
+    }
+  ]
+}

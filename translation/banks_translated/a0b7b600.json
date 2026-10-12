@@ -1,0 +1,521 @@
+{
+  "bank_id": "a0b7b600",
+  "total_strings": 103,
+  "strings": [
+    {
+      "id": "01dd9238",
+      "bank_id": "a0b7b600",
+      "text": "Evet! Tekniğin hayret verici!"
+    },
+    {
+      "id": "03dd951e",
+      "bank_id": "a0b7b600",
+      "text": "Ne kadar da kusursuz bir heykel duruşu! Aynen böyle devam et!"
+    },
+    {
+      "id": "04c25048",
+      "bank_id": "a0b7b600",
+      "text": "Aaaaarrrghhh!"
+    },
+    {
+      "id": "04dd96f1",
+      "bank_id": "a0b7b600",
+      "text": "Harika! Umarım bu performansı sürdürebilirsin."
+    },
+    {
+      "id": "061c1b68",
+      "bank_id": "a0b7b600",
+      "text": "Işık'ta öyle bir kudret var ki. Ama yozlaşması daha da güçlü."
+    },
+    {
+      "id": "06dd99d7",
+      "bank_id": "a0b7b600",
+      "text": "Böyle bir modellik hiç görmedim! Birazcık daha dayan!"
+    },
+    {
+      "id": "07c25501",
+      "bank_id": "a0b7b600",
+      "text": "Aaaaarrrghhh!"
+    },
+    {
+      "id": "081c1e4e",
+      "bank_id": "a0b7b600",
+      "text": "Damarlarımda gölgeler akıyor. Bu... Bu olağanüstü..."
+    },
+    {
+      "id": "091c2021",
+      "bank_id": "a0b7b600",
+      "text": "Tüm kötülüklerin en köküyle, kelimelerin kifayetsiz kaldığı kadim bir güçle temas halindeyim."
+    },
+    {
+      "id": "0a1c2194",
+      "bank_id": "a0b7b600",
+      "text": "Ölümlülük bir zayıflıktır. Uğursuz geceden başka hiçbir şeye boyun eğmeyeceğim!"
+    },
+    {
+      "id": "0b1c2307",
+      "bank_id": "a0b7b600",
+      "text": "İnsana dair ne varsa zayıftır. Canlı olan her şey ölümün sonsuz karanlığına teslim olmak zorundadır."
+    },
+    {
+      "id": "0bc27513",
+      "bank_id": "a0b7b600",
+      "text": "Işık Tapınağı, en azılı düşmanları olan Gölge müridlerinin saldırı tehdidi altında."
+    },
+    {
+      "id": "1e883586",
+      "bank_id": "a0b7b600",
+      "text": "Başarıyla tamamlamak için imleç tam hedefin üzerindeyken bırakın. Iskalarsanız kötü biter."
+    },
+    {
+      "id": "1e90eea8",
+      "bank_id": "a0b7b600",
+      "text": "Bir nesneye dönüştürülmek istemiyorsan gönüllü olmamalıydın. Kaide geri dönmeni bekliyor."
+    },
+    {
+      "id": "1f8ae450",
+      "bank_id": "a0b7b600",
+      "text": "Ah, geri dönmenizi umuyordum. Tapınağın bir kez daha bir koruyucuya ihtiyacı var."
+    },
+    {
+      "id": "1f90f01b",
+      "bank_id": "a0b7b600",
+      "text": "Bu çekici daha ne kadar havada tutabileceğimi sanıyorsun? Pozisyonuna dön!"
+    },
+    {
+      "id": "2090f18e",
+      "bank_id": "a0b7b600",
+      "text": "Heykellerin özgür iradesi olmaz. Şimdi o kaideye geri dön."
+    },
+    {
+      "id": "218ae7b6",
+      "bank_id": "a0b7b600",
+      "text": "Görünüşe göre Gölge müridleri Pınar Mağarası'ndaki kutsal suyu zehirlemeyi planlıyor."
+    },
+    {
+      "id": "228ae929",
+      "bank_id": "a0b7b600",
+      "text": "Gölgeler Tapınağı'nın aşağılık tarikatçılarının elinden hep çektik, ancak korkarım bize karşı büyük bir saldırı hazırlığındalar."
+    },
+    {
+      "id": "238aea9c",
+      "bank_id": "a0b7b600",
+      "text": "Daha önce bize yardım etmiştiniz, yine eder misiniz?"
+    },
+    {
+      "id": "248aec0f",
+      "bank_id": "a0b7b600",
+      "text": "Bu gerçekleşirse Altın Meşe ölecek. Bu tarikatımızın sonu, hatta belki köyün ve tüm halkının sonu anlamına gelir."
+    },
+    {
+      "id": "27c82a50",
+      "bank_id": "a0b7b600",
+      "text": "Hayır, hayır, hayır! Çok erken bıraktın!"
+    },
+    {
+      "id": "2c322878",
+      "bank_id": "a0b7b600",
+      "text": "Nereye gidiyorsun?! Modeller öylece çekip gidemez! Geri dön! İşte bu yüzden hareketli nesnelerden nefret ediyorum..."
+    },
+    {
+      "id": "2f7cdd14",
+      "bank_id": "a0b7b600",
+      "text": "Pozunu öyle tutarak kimseyi etkilemiyorsun."
+    },
+    {
+      "id": "30a6d554",
+      "bank_id": "a0b7b600",
+      "text": "Ah, ne kadar da doğal! Bana gereken her şeyi verdin."
+    },
+    {
+      "id": "33a6da2d",
+      "bank_id": "a0b7b600",
+      "text": "Mükemmel! Bu heykel neredeyse kendi kendini yontacak."
+    },
+    {
+      "id": "3cf205c1",
+      "bank_id": "a0b7b600",
+      "text": "İşte benim koçum!"
+    },
+    {
+      "id": "3cf205ca",
+      "bank_id": "a0b7b600",
+      "text": "İşte benim kızım!"
+    },
+    {
+      "id": "44982670",
+      "bank_id": "a0b7b600",
+      "text": "Karanlık yutacak. Karanlık galip gelecek."
+    },
+    {
+      "id": "459827e3",
+      "bank_id": "a0b7b600",
+      "text": "Gündüz geceyle bozulsun. Gölgeler tüm Işık'ı zehirlesin."
+    },
+    {
+      "id": "477e2b51",
+      "bank_id": "a0b7b600",
+      "text": "Verdiğim mesajın onu gören herkes üzerinde bilinçli bir düzeyde etki bırakmasını istiyorum. Amacım bilinçaltı olanın tam tersi. Yalnızca bilinçli değil... bilinçüstü!"
+    },
+    {
+      "id": "49982e2f",
+      "bank_id": "a0b7b600",
+      "text": "Ey Gölgeler ve Karanlık, söndürün. Yozlaştırın. Kirletin."
+    },
+    {
+      "id": "4a4ef408",
+      "bank_id": "a0b7b600",
+      "text": "Ama suç oranı fena düştü ve kentsel dönüşüm bu mahalleyi Bowerstone'un en gözde semti haline getirdi."
+    },
+    {
+      "id": "4a982f82",
+      "bank_id": "a0b7b600",
+      "text": "Yaşayan her şey yok olacak. Parıldayan her ışık sönecek."
+    },
+    {
+      "id": "4afec52c",
+      "bank_id": "a0b7b600",
+      "text": "Ah! Çok teşekkür ederiz! Gölgeler Tapınağı bu darbeden sonra asla toparlanamayacak. Kurtulduk."
+    },
+    {
+      "id": "4b4ef5fb",
+      "bank_id": "a0b7b600",
+      "text": "O yakalama emirlerini bana verdikten sonra Nicky the Nickname'in bütün çetesini çökerttim ve Lord Lucien beni Şerif yaptı! Tabii sonra kendisi ortadan kayboldu..."
+    },
+    {
+      "id": "4b983175",
+      "bank_id": "a0b7b600",
+      "text": "Ey Sonsuz Âlemlerin Aşağılık Yaratıkları, önünüzdeki her şeyi yerle bir edin, parıldayan her şeyi zehirleyin."
+    },
+    {
+      "id": "4c4ef76e",
+      "bank_id": "a0b7b600",
+      "text": "Vay, tekrar merhaba, sensin! Vay canına, buralarda koşturduğun o günlerden bu yana çok değişmişsin... Ama o gözlerdeki şeyi tanıyorum: iyilik, dürüstlük, kanunlara saygı."
+    },
+    {
+      "id": "4dfec9e5",
+      "bank_id": "a0b7b600",
+      "text": "Biz... Biz dövüşü duyduk. Sahiden bitti mi?"
+    },
+    {
+      "id": "4e2f3478",
+      "bank_id": "a0b7b600",
+      "text": "(güler)"
+    },
+    {
+      "id": "4ecaa597",
+      "bank_id": "a0b7b600",
+      "text": "Aaaaaaaaaaarrrrrghhh!"
+    },
+    {
+      "id": "4f4efc27",
+      "bank_id": "a0b7b600",
+      "text": "Elbette kasabadaysa aynı indirim o kız kardeşin için de geçerli. Neyse, daha fazla vaktini almayayım. Beladan uzak dur, e mi?"
+    },
+    {
+      "id": "4fcaa70a",
+      "bank_id": "a0b7b600",
+      "text": "Ben Gölge oldum. Ben sizin tanrınızım. Karanlığı getiren benim."
+    },
+    {
+      "id": "502f375e",
+      "bank_id": "a0b7b600",
+      "text": "Beni durdurabileceğini mi sanıyorsun? Işık Pınarı'nın doğal enerjilerini yönlendiriyor ve kutsal olmayan güçlerimi besliyorum. Bana zarar verilemez."
+    },
+    {
+      "id": "504efd9a",
+      "bank_id": "a0b7b600",
+      "text": "Şerif'in iyi bir dostu olarak buradaki dükkân sahiplerinin tüm mal ve hizmetlerde sana indirim yaptığını göreceksin."
+    },
+    {
+      "id": "504efd9f",
+      "bank_id": "a0b7b600",
+      "text": "Ve henüz buralardayken Lord Lucien'in bana verdiği yetkiye dayanarak sana bedelsiz, sevimli bir ev teklif etmek istiyorum. Başını sokacak bir çatının olması her zaman güzeldir, değil mi?"
+    },
+    {
+      "id": "514eff0d",
+      "bank_id": "a0b7b600",
+      "text": "Harika, değil mi?"
+    },
+    {
+      "id": "542f3d8a",
+      "bank_id": "a0b7b600",
+      "text": "Yükselin!"
+    },
+    {
+      "id": "552f3f7d",
+      "bank_id": "a0b7b600",
+      "text": "Onlar vaatler ve altınla kiralanmış ölümlü adamlardı sadece. Şimdi Gölgeler'in gerçek gücüne tanık ol."
+    },
+    {
+      "id": "5603a240",
+      "bank_id": "a0b7b600",
+      "text": "Katledin onu."
+    },
+    {
+      "id": "5603a24b",
+      "bank_id": "a0b7b600",
+      "text": "Katledin onu."
+    },
+    {
+      "id": "5d77aa4b",
+      "bank_id": "a0b7b600",
+      "text": "Bir ifadeyi ne kadar uzatırsanız o kadar güçlü olur. Ama başarısız olursanız aptal gibi görünürsünüz."
+    },
+    {
+      "id": "5e77ac3e",
+      "bank_id": "a0b7b600",
+      "text": "Bir ifadeyi başlattıktan sonra uzatmak için düğmeyi basılı tutun."
+    },
+    {
+      "id": "5e8051b7",
+      "bank_id": "a0b7b600",
+      "text": "Ah. Biz burada olağanüstü olanı hedefliyoruz, sense bana sıradanlığı veriyorsun."
+    },
+    {
+      "id": "5f80532a",
+      "bank_id": "a0b7b600",
+      "text": "Neyse, boşver! Bununla idare etmek gerekecek. Dünya artık benim eserimi daha fazla bekleyemez."
+    },
+    {
+      "id": "5fc8592c",
+      "bank_id": "a0b7b600",
+      "text": "Geçici olanın közlerine uzandın ve sonsuzluğun ateşini çekip çıkardın."
+    },
+    {
+      "id": "62353a18",
+      "bank_id": "a0b7b600",
+      "text": "Bana bakmayı kes! Yemin ederim bu çekici iyi bir amaç için kullanırım!"
+    },
+    {
+      "id": "62c85de5",
+      "bank_id": "a0b7b600",
+      "text": "Bravo! İdeal olan gerçeğe dönüştü!"
+    },
+    {
+      "id": "63353b8b",
+      "bank_id": "a0b7b600",
+      "text": "<fumes> Seni gidi postmetakonseptüel çirkin gargoyle. İnsanlıktan yoksunluğunla benimle alay ediyorsun!"
+    },
+    {
+      "id": "64353d7e",
+      "bank_id": "a0b7b600",
+      "text": "Kahretsin! Bir fiyasko daha! Gerekirse Albion'daki bütün kayaları bitiririm yine de yaparım!"
+    },
+    {
+      "id": "65353ed1",
+      "bank_id": "a0b7b600",
+      "text": "Dünyanın karşısına çıkıp benim eserim olduğunu söyleyebileceğini mi sanıyorsun? Ayak tırnağı koleksiyonumla anılmayı tercih ederdim!"
+    },
+    {
+      "id": "66354044",
+      "bank_id": "a0b7b600",
+      "text": "Ey ilham perisi, seni vefasız yosma! Ya bana ilham ver ya da bu keskiyi kulağına saplayacağım!"
+    },
+    {
+      "id": "67354237",
+      "bank_id": "a0b7b600",
+      "text": "Evet! Mükemmel! Bu... Bir dakika... Her şeyiyle berbat! Yanlış yanlış yanlış!"
+    },
+    {
+      "id": "683543aa",
+      "bank_id": "a0b7b600",
+      "text": "Hayır! Hayır! Hayır! Seni kalpsiz taş yığını! Ruhun nerede senin?!"
+    },
+    {
+      "id": "70e2931f",
+      "bank_id": "a0b7b600",
+      "text": "Sen. Birkaç zavallı keşiş uğruna kutsal olmayan ittifakımızı bir kenara mı atacaksın? Gölgeler Tapınağı'na sırtını dönüp de hayatta kalan olmamıştır."
+    },
+    {
+      "id": "74b4a44c",
+      "bank_id": "a0b7b600",
+      "text": "Lütfen, bize yardım etmezseniz bu bölgenin başına neler geleceğini düşünün."
+    },
+    {
+      "id": "835badab",
+      "bank_id": "a0b7b600",
+      "text": "Buralardaki sokaklarda biraz dolanırsan Bay... Falan diyelim, öyle bir herife rastlarsın. O sana her şeyi anlatır."
+    },
+    {
+      "id": "8ccc1d6f",
+      "bank_id": "a0b7b600",
+      "text": "Amacımız yaşam yaratmaktan başka bir şey değil. Cansız olana can vermek. Taşa ruh üflemek."
+    },
+    {
+      "id": "8dcc1ec2",
+      "bank_id": "a0b7b600",
+      "text": "Ama yardımına ihtiyacım var. Zihnimde bir taslak çıkarabilmem için yeterince uzun süre poz vermeli ve sadece ben söylediğimde bırakmalısın."
+    },
+    {
+      "id": "8ecc20b5",
+      "bank_id": "a0b7b600",
+      "text": "Şimdi... Ustalık başlasın!"
+    },
+    {
+      "id": "9fcee0f1",
+      "bank_id": "a0b7b600",
+      "text": "Sanata sırtını dönmeye nasıl cüret edersin? Korkak!"
+    },
+    {
+      "id": "a877ddf2",
+      "bank_id": "a0b7b600",
+      "text": "Birkaç altının eksikse, senin gibi bir kızın ilgisini çekebileceğini düşündüğüm bir iş var."
+    },
+    {
+      "id": "a877ddf9",
+      "bank_id": "a0b7b600",
+      "text": "Birkaç altının eksikse, senin gibi bir delikanlının ilgisini çekebileceğini düşündüğüm bir iş var."
+    },
+    {
+      "id": "af2d06a0",
+      "bank_id": "a0b7b600",
+      "text": "Gölge müridleri bizim korumamız altında. Bu da senin işinin bittiği anlamına gelir."
+    },
+    {
+      "id": "b2fd89ef",
+      "bank_id": "a0b7b600",
+      "text": "Sanattan daha önemli ne olabilir? Hiçbir şey! İşte bu kadar!"
+    },
+    {
+      "id": "b3fd8b42",
+      "bank_id": "a0b7b600",
+      "text": "O muhteşem endamın koca bir kaya parçasının içinden çıkarılmayı bekliyor. İkinci kişiliğinin sonsuza dek kapana kısılmış kalmasına razı mısın?"
+    },
+    {
+      "id": "b4fd8d35",
+      "bank_id": "a0b7b600",
+      "text": "Senin yardımınla taşa bir İblis Kapısı'ndan daha canlı bir biçim vereceğim. Ama o can sıkıcı gevezelikleri olmadan tabii."
+    },
+    {
+      "id": "b5f31a55",
+      "bank_id": "a0b7b600",
+      "text": "Yani bizi Gölgeler Tapınağı'na karşı savunacak mısınız?"
+    },
+    {
+      "id": "bbe3e6b3",
+      "bank_id": "a0b7b600",
+      "text": "Hemen yontmaya başlayacağım."
+    },
+    {
+      "id": "bca883c8",
+      "bank_id": "a0b7b600",
+      "text": "Hayır, hayır, hayır. Dalgınlığınla sanatımı mahvetmek zorunda mısın?"
+    },
+    {
+      "id": "bce3e826",
+      "bank_id": "a0b7b600",
+      "text": "Kendini beğenmişliğini sergileyecek başka bir projen olursa beni nerede bulacağını biliyorsun."
+    },
+    {
+      "id": "bda885bb",
+      "bank_id": "a0b7b600",
+      "text": "Davranışın son derece amatörce. Bir model, aksi söylenene kadar pozunu korumalıdır."
+    },
+    {
+      "id": "c0a88a74",
+      "bank_id": "a0b7b600",
+      "text": "Hayır! Erken poz bozma! On modelden birinin başına gelir ve heykeltıraşın baş belasıdır. Bir dahaki sefere doğru yapalım."
+    },
+    {
+      "id": "c21345f3",
+      "bank_id": "a0b7b600",
+      "text": "Bir yüzü asla unutmam. Sana teşekkür edecek çok şeyim var."
+    },
+    {
+      "id": "c2a88d5a",
+      "bank_id": "a0b7b600",
+      "text": "Lütfen, ben söyleyene kadar pozunu korumalısın. Bir an bile önce değil."
+    },
+    {
+      "id": "c39e1b74",
+      "bank_id": "a0b7b600",
+      "text": "Gölge müridlerinin bir sonraki hedefi muhtemelen ana oda olacak, ancak orayı kirletmelerine izin vermemelisin."
+    },
+    {
+      "id": "c3a88ecd",
+      "bank_id": "a0b7b600",
+      "text": "Ah! Tekrar dene. Ve lütfen sonuna kadar pozunu koru. Her ayrıntıyı ezberlemeliyim."
+    },
+    {
+      "id": "c49e1ce7",
+      "bank_id": "a0b7b600",
+      "text": "İlk yapmanız gereken suyun döküldüğü heykelleri kontrol etmek. Kötülüğün lekesiyle kirletilmediklerinden emin olun."
+    },
+    {
+      "id": "c5134a4c",
+      "bank_id": "a0b7b600",
+      "text": "Kanun namına hiçbir şey kalmadığı için kanunla da bir derdimiz yok. O ahmak muhafız tüm o yakalama emirlerini kaybettikten sonra Lucien onu kovdu. O günden beri işlerimiz tıkırında."
+    },
+    {
+      "id": "c59e1e5a",
+      "bank_id": "a0b7b600",
+      "text": "Işık bir kez daha yardımınızla bizi kutsuyor. Teşekkür ederiz."
+    },
+    {
+      "id": "c6134c3f",
+      "bank_id": "a0b7b600",
+      "text": "Özellikle de Lucien kısa süre sonra kim bilir nerelere kaçıp gittikten sonra."
+    },
+    {
+      "id": "c7134d92",
+      "bank_id": "a0b7b600",
+      "text": "O yakalama emirlerini bana verdiğinde Bowerstone'un bu küçük köşesinin mali geleceğini garantiye almıştın."
+    },
+    {
+      "id": "c8134f05",
+      "bank_id": "a0b7b600",
+      "text": "Ve daha da önemlisi, benim. Ben ve ortaklarım artık buraların kodamanlarıyız."
+    },
+    {
+      "id": "cb1353de",
+      "bank_id": "a0b7b600",
+      "text": "Eski günlerden laf açılmışken, senin o kız kardeşine ne oldu sahiden? Ne tatlı bir kızdı... Neyse, işimize bakalım, olur mu?"
+    },
+    {
+      "id": "cebaf757",
+      "bank_id": "a0b7b600",
+      "text": "Sen! Şöyle bir iyice bakayım sana."
+    },
+    {
+      "id": "cfbaf8ca",
+      "bank_id": "a0b7b600",
+      "text": "Bir maceracı! Bunu daha önce neden düşünemedim ki?"
+    },
+    {
+      "id": "d0bafabd",
+      "bank_id": "a0b7b600",
+      "text": "Vahşi hayatta kalma mücadelesi ile aydınlanmış zihin arasındaki o çatışmayı kim daha iyi somutlaştırabilir?"
+    },
+    {
+      "id": "d3e9a9db",
+      "bank_id": "a0b7b600",
+      "text": "Şimdi gidebilirsin. Heykele hemen başlamalıyım. Adına da... Hareketsizliğin Göstergebilimi diyeceğim."
+    },
+    {
+      "id": "d4e9ab4e",
+      "bank_id": "a0b7b600",
+      "text": "Buralardan bir dahaki geçişinde hazır olur. Eğer başarılı olursa belki bir gün benim için tekrar modellik yaparsın."
+    },
+    {
+      "id": "e1d04ab0",
+      "bank_id": "a0b7b600",
+      "text": "Öldürün onu. Cornelius Grim bizi cömertçe ödüllendirecek."
+    },
+    {
+      "id": "e1d04abb",
+      "bank_id": "a0b7b600",
+      "text": "Öldürün onu. Cornelius Grim bizi cömertçe ödüllendirecek."
+    },
+    {
+      "id": "f0e7c7e4",
+      "bank_id": "a0b7b600",
+      "text": "Şimdi poz ver!"
+    },
+    {
+      "id": "f3e7ccbd",
+      "bank_id": "a0b7b600",
+      "text": "Fiziksel gerçekler aracılığıyla bir tür duygusal gerçeğe ulaşmaya çalışmalıyız."
+    }
+  ]
+}

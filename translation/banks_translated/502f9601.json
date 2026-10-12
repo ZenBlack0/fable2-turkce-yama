@@ -1,0 +1,556 @@
+{
+  "bank_id": "502f9601",
+  "total_strings": 110,
+  "strings": [
+    {
+      "id": "14c3f058",
+      "bank_id": "502f9601",
+      "text": "Her şeyin ebedi durmaksızın devam edişini simgeleyen, birbirine geçmiş zincirler dövmesi istemişimdir hep."
+    },
+    {
+      "id": "14c3f05a",
+      "bank_id": "502f9601",
+      "text": "Buralarda bir dövmeci var mı acaba?"
+    },
+    {
+      "id": "14c3f05b",
+      "bank_id": "502f9601",
+      "text": "Neden hep erkekler dövme yaptırıyor ki? Ben de istiyorum. Hatta bugün bir tane yaptırabilirim!"
+    },
+    {
+      "id": "14c3f05c",
+      "bank_id": "502f9601",
+      "text": "Nerede bir dövmeci bulabilirim? Şöyle minicik bir kalp istiyorum."
+    },
+    {
+      "id": "14c3f05d",
+      "bank_id": "502f9601",
+      "text": "Bacağımın üstüne bir bacak dövmesi istiyorum, böylece tam bir postmodern hava yakalarım."
+    },
+    {
+      "id": "16784810",
+      "bank_id": "502f9601",
+      "text": "Bu kasabada fena bir mal kıtlığı var. Dükkânların başı dertte."
+    },
+    {
+      "id": "16784811",
+      "bank_id": "502f9601",
+      "text": "Kasabadaki bir kıtlık hakkında iyi bir tüyo aldım. Doğru mallara sahip biri köşe dönebilir."
+    },
+    {
+      "id": "16784812",
+      "bank_id": "502f9601",
+      "text": "Kasabadaki dükkânlardan birinde piyasada büyük bir açık var. Aradıkları stok elinde olsaydı voleyi vururdun."
+    },
+    {
+      "id": "16784816",
+      "bank_id": "502f9601",
+      "text": "Kasabada bayağı büyük bir kıtlık var. Bir baksam iyi olacak."
+    },
+    {
+      "id": "16784817",
+      "bank_id": "502f9601",
+      "text": "Kasabada bazı mallarda devasa bir kıtlık var. Alışveriş için başka yerlere bakmam gerekebilir."
+    },
+    {
+      "id": "19c3f879",
+      "bank_id": "502f9601",
+      "text": "Rüyamda ata binen küçük bir domuz gördüm. Harika bir dövme olurdu bundan. Buralarda bir dövmeci var mı?"
+    },
+    {
+      "id": "19c3f87a",
+      "bank_id": "502f9601",
+      "text": "Şey, insan koluna \"İlelebet Delilah\" dövmesini nerede yaptırabilir acaba? Yok vazgeçtim, \"İlelebet Cassandra\" olsun."
+    },
+    {
+      "id": "19c3f87b",
+      "bank_id": "502f9601",
+      "text": "Şu an benim bir dövmeciye ihtiyaç duyduğum kadar kimse duymamıştır."
+    },
+    {
+      "id": "19c3f87c",
+      "bank_id": "502f9601",
+      "text": "Buralarda hiç dövmeci var mı?"
+    },
+    {
+      "id": "19c3f87d",
+      "bank_id": "502f9601",
+      "text": "Kalabalığın arasından sıyrılmak istiyorsam bir dövme şart. Nerede yaptırabileceğimi biliyor musun?"
+    },
+    {
+      "id": "1f78567a",
+      "bank_id": "502f9601",
+      "text": "Buradaki bazı dükkânlar fena halde mal kıtlığı çekiyor."
+    },
+    {
+      "id": "1f78567b",
+      "bank_id": "502f9601",
+      "text": "Buralarda devasa bir kıtlık var. Satacak doğru malların varsa güzel kâr edebilirsin."
+    },
+    {
+      "id": "1f78567c",
+      "bank_id": "502f9601",
+      "text": "Aklı başında tüccarlar bu kasabada voleyi vurabilir. Bazı dükkânlarda büyük bir kıtlık var."
+    },
+    {
+      "id": "1f78567d",
+      "bank_id": "502f9601",
+      "text": "Dükkânlarda muazzam bir kıtlık var. Birileri buna bir çare bulmalı."
+    },
+    {
+      "id": "1f78567f",
+      "bank_id": "502f9601",
+      "text": "Bu kasabada ciddi kıtlıklar var. Doğru tedariki nereden bulacağımı bilsem bir servet kazanırdım."
+    },
+    {
+      "id": "3b502a2a",
+      "bank_id": "502f9601",
+      "text": "Lanet dükkânlarda mallar yine tükeniyor."
+    },
+    {
+      "id": "3b502a2b",
+      "bank_id": "502f9601",
+      "text": "Dükkânlarda stoklar suyunu çekmişken iyi altın kırabilirsin."
+    },
+    {
+      "id": "3b502a2c",
+      "bank_id": "502f9601",
+      "text": "Buralardaki dükkânların kıtlık çektiğini duydun mu?"
+    },
+    {
+      "id": "3b502a2d",
+      "bank_id": "502f9601",
+      "text": "Dükkânlarda kıtlık var. Ticaret yaparak güzel para kazanabilirsin."
+    },
+    {
+      "id": "3b502a2e",
+      "bank_id": "502f9601",
+      "text": "Dükkânlardaki bu kıtlık tam bir baş belası. Yeni mal getirecek tüccarlara ihtiyaçları var."
+    },
+    {
+      "id": "44503878",
+      "bank_id": "502f9601",
+      "text": "Kafanı kullanırsan yerel kıtlıktan fena para kırabilirsin."
+    },
+    {
+      "id": "44503879",
+      "bank_id": "502f9601",
+      "text": "Yakında yeni stok getirseler iyi olur. Bu kasabadaki kıtlıklar can sıkmaya başladı."
+    },
+    {
+      "id": "4450387b",
+      "bank_id": "502f9601",
+      "text": "Bazı dükkânlarda stok tükeniyor. Onlarla ticaret yaparak güzel altın kazanabilirsin."
+    },
+    {
+      "id": "4450387e",
+      "bank_id": "502f9601",
+      "text": "Dükkâna gitmenin hiç manası yok o halde. Neredeyse hiç mal kalmamış!"
+    },
+    {
+      "id": "4450387f",
+      "bank_id": "502f9601",
+      "text": "Yakındaki dükkânlardan birinde kıtlık var."
+    },
+    {
+      "id": "51949d20",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Eski Şehri gitmek için pek iyi bir yer değil. Kıtlık çekiyorlar."
+    },
+    {
+      "id": "51949d21",
+      "bank_id": "502f9601",
+      "text": "Bowerstone'daki Eski Şehir kıtlık sorunları yaşıyor."
+    },
+    {
+      "id": "51949d24",
+      "bank_id": "502f9601",
+      "text": "Bowerstone'un mezarlık yakınındaki o kesiminde mallar tükeniyor, o yüzden oraya gitme."
+    },
+    {
+      "id": "51949d26",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Eski Şehri'ndeki dükkânlar kıtlık sıkıntısı çekiyor."
+    },
+    {
+      "id": "51949d27",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Eski Şehri'ndeki dükkânda kıtlık olduğunu duymak seni şaşırtmaz herhalde. O yüzden oradan uzak dur."
+    },
+    {
+      "id": "55c2f890",
+      "bank_id": "502f9601",
+      "text": "Dükkânların bazen kıtlık çekmesi benim kabahatim değil. İstediğim şeyi istediğim an satın almak isterim ben."
+    },
+    {
+      "id": "55c2f891",
+      "bank_id": "502f9601",
+      "text": "Yerel dükkânların zaman zaman kıtlık çekebildiğini biliyor muydun? Son derece sinir bozucu."
+    },
+    {
+      "id": "55c2f892",
+      "bank_id": "502f9601",
+      "text": "Ben bir dükkân kıtlık çekene kadar bekler, sonra malı başka bir yerden alıp onlara satarım. Hayatını kazanmanın dürüstçe bir yolu."
+    },
+    {
+      "id": "55c2f893",
+      "bank_id": "502f9601",
+      "text": "Dükkânlardaki kıtlıklara dikkat etmek lazım."
+    },
+    {
+      "id": "55c2f894",
+      "bank_id": "502f9601",
+      "text": "Ara sıra mal kıtlığı yaşanır. Tüccarların imdadına yetişirsen sana iyi para öderler."
+    },
+    {
+      "id": "55c2f895",
+      "bank_id": "502f9601",
+      "text": "Umarım dükkânda kıtlık yoktur. Fiyatları acayip fırlatıyor."
+    },
+    {
+      "id": "55c2f897",
+      "bank_id": "502f9601",
+      "text": "Nasıl altın kazanmayı sevdiğimi bilir misin? Dükkânlardaki kıtlıkları kollarım, biraz al-sat ve fırıldak çeviririm."
+    },
+    {
+      "id": "5694a4c0",
+      "bank_id": "502f9601",
+      "text": "Sakın Bowerstone Eski Şehri'ne gitme yeter. Orada kıtlık var."
+    },
+    {
+      "id": "5694a4c1",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Eski Şehri'ne gitme. Orada bir kıtlık yaşıyorlar."
+    },
+    {
+      "id": "5694a4c5",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Eski Şehri'nden uzak durduğun sürece sorun yok. Ciddi bir kıtlıkları var."
+    },
+    {
+      "id": "5694a4c6",
+      "bank_id": "502f9601",
+      "text": "Şey, Bowerstone Eski Şehri'ne gitme. Şu sıralar bir kıtlık var."
+    },
+    {
+      "id": "5694a4c7",
+      "bank_id": "502f9601",
+      "text": "Bowerstone'daki Eski Şehir kıtlık çekiyor, bilesin."
+    },
+    {
+      "id": "5cc30398",
+      "bank_id": "502f9601",
+      "text": "Dükkânlardaki kıtlık haberlerine hep kulak kabartırım. Doğru mallara sahipsen güzel kâr edebilirsin."
+    },
+    {
+      "id": "5cc30399",
+      "bank_id": "502f9601",
+      "text": "Ara sıra mal kıtlığı yaşanır. Tüccarların imdadına yetişirsen sana iyi para öderler."
+    },
+    {
+      "id": "5cc3039a",
+      "bank_id": "502f9601",
+      "text": "Dükkânlarda kıtlık varken para kazanabileceğini biliyor muydun? Biraz kurnazca ticaret yap yeter."
+    },
+    {
+      "id": "5cc3039c",
+      "bank_id": "502f9601",
+      "text": "En sevdiğim dükkânın kıtlık çektiğini görmekten daha çok nefret ettiğim bir şey yoktur."
+    },
+    {
+      "id": "5cc3039d",
+      "bank_id": "502f9601",
+      "text": "Umarım en sevdiğim mağazaların hiçbirinde istediğim ürünler tükenmez. Gerçi en nadir malları bile satın alacak gücüm var ya."
+    },
+    {
+      "id": "5cc3039e",
+      "bank_id": "502f9601",
+      "text": "Yerel dükkânlarda hiç kıtlık gördün mü? Doğru mala sahipsen satmak için her zaman iyi bir zamandır."
+    },
+    {
+      "id": "5cc3039f",
+      "bank_id": "502f9601",
+      "text": "Hangi dükkânın stoğunun azaldığına bakıp biraz ticaret yaparak fazladan para kırmayı severim."
+    },
+    {
+      "id": "61b9b751",
+      "bank_id": "502f9601",
+      "text": "Bugün içimde vahşi bir his var. Nerede dövme yaptırabilirim?"
+    },
+    {
+      "id": "61b9b756",
+      "bank_id": "502f9601",
+      "text": "Kıçında harika bir dövme olduğunu duydum. Nereye gitmem lazım benim de yaptırmak için?"
+    },
+    {
+      "id": "61b9b757",
+      "bank_id": "502f9601",
+      "text": "Aklımda bir dövme fikri var - bunu nerede işletirim üzerime bilir misin?"
+    },
+    {
+      "id": "63853781",
+      "bank_id": "502f9601",
+      "text": "Geceleri tek başımayken kendimi hiç güvende hissetmiyorum, bu yüzden sağlam bir pala almak istiyorum."
+    },
+    {
+      "id": "63853782",
+      "bank_id": "502f9601",
+      "text": "Kız kardeşimin doğum günü yaklaşıyor ve baltalara bayılır. Yakınlarda bir yerlerde satıyor olmalılar."
+    },
+    {
+      "id": "63853783",
+      "bank_id": "502f9601",
+      "text": "Bence bütün kadınların bir silahı olmalı. Nereden alabilirim?"
+    },
+    {
+      "id": "63853784",
+      "bank_id": "502f9601",
+      "text": "Evden baltasız asla çıkmam ama benimkini kaybettim. Nereden yenisini alabilirim?"
+    },
+    {
+      "id": "63853785",
+      "bank_id": "502f9601",
+      "text": "Nereden güzel, keskin bir kılıç bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "68b9c252",
+      "bank_id": "502f9601",
+      "text": "Buralarda bir yerlerde bir dövmeci olmalı, değil mi?"
+    },
+    {
+      "id": "68b9c253",
+      "bank_id": "502f9601",
+      "text": "Gizli dövme koleksiyonuma yenilerini eklemek istiyorum. Bunun için nereye gidebilirim?"
+    },
+    {
+      "id": "68b9c254",
+      "bank_id": "502f9601",
+      "text": "Buralarda tenime ahlaki bir vicdan kazıyabilecek bir dövmeci var mıdır acaba?"
+    },
+    {
+      "id": "68b9c255",
+      "bank_id": "502f9601",
+      "text": "Şöyle güzel, kocaman bir dövme yaptırmayı düşünüyordum. Yani devasa bir şey. Sığacağı tek bir yer var. Hır hır. Bacağım."
+    },
+    {
+      "id": "68b9c256",
+      "bank_id": "502f9601",
+      "text": "Sanırım dövme yaptırma vaktim geldi. Nerede yaptıracağımdan emin değilim ama."
+    },
+    {
+      "id": "6e854930",
+      "bank_id": "502f9601",
+      "text": "Son kılıcım parçalandığından beri kendimi güvende hissetmiyorum. Nereden yeni bir silah alabileceğimi biliyor musun?"
+    },
+    {
+      "id": "6e854932",
+      "bank_id": "502f9601",
+      "text": "Buralarda silah almak için en iyi yer neresidir?"
+    },
+    {
+      "id": "6e854933",
+      "bank_id": "502f9601",
+      "text": "Bir korunmaya ihtiyacım olduğuna karar verdim ve prezervatiften bahsetmiyorum. Bildiğin iyi bir silahçı var mı?"
+    },
+    {
+      "id": "6e854934",
+      "bank_id": "502f9601",
+      "text": "Buralarda bir cephanelik ya da silah dükkânı var mı?"
+    },
+    {
+      "id": "6e854935",
+      "bank_id": "502f9601",
+      "text": "Silah almak için nereye gitmeliyim?"
+    },
+    {
+      "id": "73aebd6a",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Pazarı'nda kıtlık olduğunu biliyorum sadece."
+    },
+    {
+      "id": "73aebd6b",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Pazarı'nda mallar tükeniyor."
+    },
+    {
+      "id": "73aebd6c",
+      "bank_id": "502f9601",
+      "text": "Bazı Bowerstone dükkânlarında stoklar azalıyor."
+    },
+    {
+      "id": "73aebd6d",
+      "bank_id": "502f9601",
+      "text": "Şey, Bowerstone Pazarı'na gitme. Şu sıralar bir kıtlık var."
+    },
+    {
+      "id": "73aebd6e",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Pazarı'nda ciddi bir kıtlık çekiyorlar. Başka yerler de vardır herhalde."
+    },
+    {
+      "id": "7caecbb8",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Pazarı'nı denemezdim yerinde olsam. Şu anda ellerinde neredeyse hiçbir şey kalmadığını duydum."
+    },
+    {
+      "id": "7caecbb9",
+      "bank_id": "502f9601",
+      "text": "Bowerstone'a gitme - orada her şey tükenmiş."
+    },
+    {
+      "id": "7caecbbb",
+      "bank_id": "502f9601",
+      "text": "Hımm, Bowerstone'da o malda kıtlık var."
+    },
+    {
+      "id": "7caecbbe",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Pazarı'na gitme, orada büyük kıtlık varmış diye duydum."
+    },
+    {
+      "id": "7caecbbf",
+      "bank_id": "502f9601",
+      "text": "Bowerstone Pazarı kıtlık çekiyor, yani uzak durulacak bir yer."
+    },
+    {
+      "id": "b6d9bf20",
+      "bank_id": "502f9601",
+      "text": "Küçük tatar yayımı kullanmaktan bıktım, nereden büyük bir tane alabilirim?"
+    },
+    {
+      "id": "b6d9bf21",
+      "bank_id": "502f9601",
+      "text": "Bildiğin iyi bir silah mağazası var mı? Onlara bakmayı severim. Bilhassa da uzun kılıçlara."
+    },
+    {
+      "id": "b6d9bf22",
+      "bank_id": "502f9601",
+      "text": "Bir satır arıyorum. Aynı silahla hem haydutları püskürtebilir hem de yahni hazırlayabilirsin!"
+    },
+    {
+      "id": "b6d9bf26",
+      "bank_id": "502f9601",
+      "text": "Bu civarda bir yerlerde bir silah dükkânı var mı?"
+    },
+    {
+      "id": "b6d9bf27",
+      "bank_id": "502f9601",
+      "text": "Cephaneliğimi dolduruyorum. Silah dükkânları nerede?"
+    },
+    {
+      "id": "bfd9cd0a",
+      "bank_id": "502f9601",
+      "text": "Acilen bir kılıca ihtiyacım var. Nereden bulabilirim?"
+    },
+    {
+      "id": "bfd9cd0b",
+      "bank_id": "502f9601",
+      "text": "Bir silah almam lazım. Şey, tabii ki sadece savunma amaçlı."
+    },
+    {
+      "id": "bfd9cd0c",
+      "bank_id": "502f9601",
+      "text": "Bir silah koleksiyonuna başlamayı düşünüyorum. Gerçekten en azından bir tane almalıyım. Bilirsin ya, siftahı yapmak için."
+    },
+    {
+      "id": "bfd9cd0d",
+      "bank_id": "502f9601",
+      "text": "Hep bir katana istemişimdir. Nereden bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "bfd9cd0f",
+      "bank_id": "502f9601",
+      "text": "Bir silah istiyorum. Beni vazgeçirmeye çalışma sakın. Hatta sadece nereden alacağımı söyle."
+    },
+    {
+      "id": "c7d04880",
+      "bank_id": "502f9601",
+      "text": "Bloodstone'a gitme. Orada bir kıtlık var."
+    },
+    {
+      "id": "c7d04881",
+      "bank_id": "502f9601",
+      "text": "Bloodstone'da kıtlık var, o yüzden zahmet bile etme."
+    },
+    {
+      "id": "c7d04884",
+      "bank_id": "502f9601",
+      "text": "Bloodstone'da bir kıtlık yaşıyorlar."
+    },
+    {
+      "id": "c7d04886",
+      "bank_id": "502f9601",
+      "text": "Bloodstone'a gitme. Orada bir kıtlık var."
+    },
+    {
+      "id": "c7d04887",
+      "bank_id": "502f9601",
+      "text": "Yeter ki Bloodstone'a gitme. Onda tamamen tükenmiş diye duydum."
+    },
+    {
+      "id": "ccd050a0",
+      "bank_id": "502f9601",
+      "text": "Bloodstone dükkânları bazı kıtlık sorunları yaşıyor."
+    },
+    {
+      "id": "ccd050a1",
+      "bank_id": "502f9601",
+      "text": "Şey, Bloodstone'da kıtlık var, o yüzden orayı geç."
+    },
+    {
+      "id": "ccd050a5",
+      "bank_id": "502f9601",
+      "text": "Bloodstone'da devasa bir kıtlık var. Bu yüzden oraya gitme."
+    },
+    {
+      "id": "ccd050a6",
+      "bank_id": "502f9601",
+      "text": "Bloodstone'da o malda büyük bir kıtlık olduğunu duydum. O yüzden oraya gitme."
+    },
+    {
+      "id": "ccd050a7",
+      "bank_id": "502f9601",
+      "text": "Bloodstone kıtlık çekiyor."
+    },
+    {
+      "id": "e01398f1",
+      "bank_id": "502f9601",
+      "text": "Bower Gölü bakmak için iyi bir yer değil. Tedarik sorunları yaşıyorlar."
+    },
+    {
+      "id": "e01398f2",
+      "bank_id": "502f9601",
+      "text": "Sakın Bower Gölü'ne gitme yeter. Her şey tükenmiş. Kendimden bilirim, bizzat bir şeyler almaya gitmiştim."
+    },
+    {
+      "id": "e01398f3",
+      "bank_id": "502f9601",
+      "text": "Bower Gölü'nde kıtlık var."
+    },
+    {
+      "id": "eb13aa20",
+      "bank_id": "502f9601",
+      "text": "Bower Gölü'nde onda kıtlık var, o yüzden oraya gitme."
+    },
+    {
+      "id": "eb13aa22",
+      "bank_id": "502f9601",
+      "text": "Şey, Bower Gölü kıtlık çekiyor, o yüzden oraya gitmeye zahmet etme."
+    },
+    {
+      "id": "eb13aa23",
+      "bank_id": "502f9601",
+      "text": "Şey, Bower Gölü'ne gitme. Şu sıralar bir kıtlık var."
+    },
+    {
+      "id": "eb13aa24",
+      "bank_id": "502f9601",
+      "text": "Bower Gölü'nde neredeyse o mal kalmamış diye duydum."
+    },
+    {
+      "id": "eb13aa25",
+      "bank_id": "502f9601",
+      "text": "Şey, Bower Gölü'nde bir kıtlık var, o yüzden oraya gitmeyi unut."
+    }
+  ]
+}

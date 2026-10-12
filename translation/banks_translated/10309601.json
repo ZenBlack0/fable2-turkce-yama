@@ -1,0 +1,796 @@
+{
+  "bank_id": "10309601",
+  "total_strings": 158,
+  "strings": [
+    {
+      "id": "0508bf78",
+      "bank_id": "10309601",
+      "text": "Aslan Yürekli ha? Pek bir gururlu olmalısın. Ha ha. Şey, yok, affedersin. Harika isim."
+    },
+    {
+      "id": "0508bf79",
+      "bank_id": "10309601",
+      "text": "Ah, cesur Aslan Yürekli."
+    },
+    {
+      "id": "0508bf7b",
+      "bank_id": "10309601",
+      "text": "Cesaretini çok duydum, Aslan Yürekli."
+    },
+    {
+      "id": "0508bf7c",
+      "bank_id": "10309601",
+      "text": "Ah Aslan Yürekli, aslan gibi övülmeyi hak ediyorsun."
+    },
+    {
+      "id": "0508bf7d",
+      "bank_id": "10309601",
+      "text": "Gerçek bir aslanın yüreğine ve cesaretine sahipsin!"
+    },
+    {
+      "id": "0508bf7e",
+      "bank_id": "10309601",
+      "text": "Sende cidden mangal gibi yürek var Aslan Yürekli."
+    },
+    {
+      "id": "0508bf7f",
+      "bank_id": "10309601",
+      "text": "Adın Aslan Yürekli demek? Evet, tam oturmuş."
+    },
+    {
+      "id": "2ad0ab81",
+      "bank_id": "10309601",
+      "text": "Pek kimseden nefret etmem ama senden nefret ediyorum Dangalak."
+    },
+    {
+      "id": "2ad0ab82",
+      "bank_id": "10309601",
+      "text": "Kimsenin seni sevmemesine şaşmamalı Dangalak."
+    },
+    {
+      "id": "2ad0ab83",
+      "bank_id": "10309601",
+      "text": "Sana Dangalak demelerinin bir sebebi var."
+    },
+    {
+      "id": "2ad0ab84",
+      "bank_id": "10309601",
+      "text": "Şimdiye kadar kimsenin seni bıçaklamamış olmasına şaşıyorum Dangalak."
+    },
+    {
+      "id": "2ad0ab85",
+      "bank_id": "10309601",
+      "text": "Zehir zıkkım ye de geber Dangalak."
+    },
+    {
+      "id": "2ad0ab86",
+      "bank_id": "10309601",
+      "text": "Tepeden tırnağa aşağılık bir yaratıksın Dangalak."
+    },
+    {
+      "id": "2ad0ab87",
+      "bank_id": "10309601",
+      "text": "Zehir zıkkım ye de geber Dangalak!"
+    },
+    {
+      "id": "35d0bd30",
+      "bank_id": "10309601",
+      "text": "Seni aşağılık pislik! Sana Dangalak demelerine şaşmamalı."
+    },
+    {
+      "id": "35d0bd32",
+      "bank_id": "10309601",
+      "text": "Seni aşağılık pislik! Sana Dangalak demelerine şaşmamalı."
+    },
+    {
+      "id": "35d0bd33",
+      "bank_id": "10309601",
+      "text": "Seni pis küçük Dangalak!"
+    },
+    {
+      "id": "35d0bd34",
+      "bank_id": "10309601",
+      "text": "Dangalak! Tam olarak busun işte!"
+    },
+    {
+      "id": "35d0bd35",
+      "bank_id": "10309601",
+      "text": "Umarım boğulursun Dangalak!"
+    },
+    {
+      "id": "35d0bd36",
+      "bank_id": "10309601",
+      "text": "Midemi bulandırıyorsun Dangalak."
+    },
+    {
+      "id": "35d0bd37",
+      "bank_id": "10309601",
+      "text": "Adın senin gibi hor görülen birine pek yakışıyor Dangalak."
+    },
+    {
+      "id": "37b885a8",
+      "bank_id": "10309601",
+      "text": "Hey, baksanıza, şu İntikamcı değil mi?"
+    },
+    {
+      "id": "37b885a9",
+      "bank_id": "10309601",
+      "text": "Hey, şu İntikamcı değil mi yahu?"
+    },
+    {
+      "id": "37b885aa",
+      "bank_id": "10309601",
+      "text": "Kimin geldiğini görüyor musun? İntikamcı'nın ta kendisi."
+    },
+    {
+      "id": "37b885ab",
+      "bank_id": "10309601",
+      "text": "Umarım İntikamcı bugün bir hesap sormanın peşinde değildir."
+    },
+    {
+      "id": "37b885ad",
+      "bank_id": "10309601",
+      "text": "Şu İntikamcı! Ne harika bir isim!"
+    },
+    {
+      "id": "37b885ae",
+      "bank_id": "10309601",
+      "text": "İntikamcı mı? O mu! Vay canına."
+    },
+    {
+      "id": "37b885af",
+      "bank_id": "10309601",
+      "text": "Bakın, İntikamcı bu."
+    },
+    {
+      "id": "42b896d8",
+      "bank_id": "10309601",
+      "text": "Söylüyorum size, o İntikamcı'nın ta kendisi!"
+    },
+    {
+      "id": "42b896d9",
+      "bank_id": "10309601",
+      "text": "İntikamcı'yı karşıma almak hiç istemezdim doğrusu."
+    },
+    {
+      "id": "42b896da",
+      "bank_id": "10309601",
+      "text": "Ne muazzam bir isim... İntikamcı."
+    },
+    {
+      "id": "42b896db",
+      "bank_id": "10309601",
+      "text": "İntikamcı! Ne fiyakalı bir unvan!"
+    },
+    {
+      "id": "42b896dc",
+      "bank_id": "10309601",
+      "text": "İntikamcı burada!"
+    },
+    {
+      "id": "42b896de",
+      "bank_id": "10309601",
+      "text": "Oh, şu İntikamcı. Söylüyorum size!"
+    },
+    {
+      "id": "42b896df",
+      "bank_id": "10309601",
+      "text": "Hey, bakın, İntikamcı gelmiş!"
+    },
+    {
+      "id": "56df7c25",
+      "bank_id": "10309601",
+      "text": "Şunun Kılıç olduğuna eminim bilesin."
+    },
+    {
+      "id": "7e4615b8",
+      "bank_id": "10309601",
+      "text": "Hey Sparrow, daha iyi dövüşçülerden dayak yememeye dikkat et. Mesela benim ninemden! <laughs>"
+    },
+    {
+      "id": "7e4615bd",
+      "bank_id": "10309601",
+      "text": "Aah, genç Sparrow'u görüyorum demek. Dünyaya meydan okumaya hazır mısın bakalım?"
+    },
+    {
+      "id": "7e4615be",
+      "bank_id": "10309601",
+      "text": "Aah, genç Sparrow'u görüyorum demek. Dünyaya meydan okumaya hazır mısın bakalım?"
+    },
+    {
+      "id": "7e4615bf",
+      "bank_id": "10309601",
+      "text": "Günün birinde büyük bir maceracı olacağına eminim Sparrow."
+    },
+    {
+      "id": "894626ea",
+      "bank_id": "10309601",
+      "text": "Yakında deneyim kazanacağına eminim Sparrow."
+    },
+    {
+      "id": "894626ec",
+      "bank_id": "10309601",
+      "text": "Öğrenecek çok şeyin var Sparrow."
+    },
+    {
+      "id": "894626ee",
+      "bank_id": "10309601",
+      "text": "Yakında deneyim kazanacağına eminim Sparrow."
+    },
+    {
+      "id": "894626ef",
+      "bank_id": "10309601",
+      "text": "Dünya büyük bir yer Sparrow. Dikkatli ol."
+    },
+    {
+      "id": "af468568",
+      "bank_id": "10309601",
+      "text": "Karanlık bir kalbin var, Cellat."
+    },
+    {
+      "id": "af468569",
+      "bank_id": "10309601",
+      "text": "Ah Cellat, umarım bugün adının hakkını vermeye kalkmazsın."
+    },
+    {
+      "id": "af46856a",
+      "bank_id": "10309601",
+      "text": "Adın Cellat demek? Evet, tam oturmuş."
+    },
+    {
+      "id": "af46856b",
+      "bank_id": "10309601",
+      "text": "İşkembe deşmek hoşuna gidiyor değil mi Cellat?"
+    },
+    {
+      "id": "af46856c",
+      "bank_id": "10309601",
+      "text": "Ah, şu meşhur Cellat."
+    },
+    {
+      "id": "af46856d",
+      "bank_id": "10309601",
+      "text": "Cellat ha? Unvanın bundan daha uygun olamazdı."
+    },
+    {
+      "id": "af46856e",
+      "bank_id": "10309601",
+      "text": "Korkunç marifetlerini çok duydum Cellat."
+    },
+    {
+      "id": "b5bab298",
+      "bank_id": "10309601",
+      "text": "Senin kadar habis birine hiç rastlamadım Gölge İblisi."
+    },
+    {
+      "id": "b5bab299",
+      "bank_id": "10309601",
+      "text": "Eğlenmek için masum insanlara işkence mi ediyorsun? Sana Gölge İblisi demelerine hiç şaşmamalı."
+    },
+    {
+      "id": "b5bab29a",
+      "bank_id": "10309601",
+      "text": "Senin kadar habis birine hiç rastlamadım Gölge İblisi."
+    },
+    {
+      "id": "b5bab29b",
+      "bank_id": "10309601",
+      "text": "Kötünün tekisin Gölge İblisi. Kemiğine kadar kötülük işlemiş."
+    },
+    {
+      "id": "b5bab29c",
+      "bank_id": "10309601",
+      "text": "Tam bir iblis ve gölgesin Gölge İblisi."
+    },
+    {
+      "id": "b5bab29d",
+      "bank_id": "10309601",
+      "text": "Başkalarına acı çektirmekten neden zevk alıyorsun Gölge İblisi?"
+    },
+    {
+      "id": "b5bab29e",
+      "bank_id": "10309601",
+      "text": "Sen kötülüğün ete kemiğe bürünmüş halisin Gölge İblisi."
+    },
+    {
+      "id": "b6b09c20",
+      "bank_id": "10309601",
+      "text": "Yaptığın o esprilere bayılıyorum Şakacı."
+    },
+    {
+      "id": "b6b09c21",
+      "bank_id": "10309601",
+      "text": "Hadi oradan sen de Şakacı."
+    },
+    {
+      "id": "b6b09c23",
+      "bank_id": "10309601",
+      "text": "Senden daha komiği yok Şakacı."
+    },
+    {
+      "id": "b6b09c24",
+      "bank_id": "10309601",
+      "text": "Bütün Albion'a neşe saçıyorsun Şakacı, bunun için takdir edilmelisin."
+    },
+    {
+      "id": "b6b09c25",
+      "bank_id": "10309601",
+      "text": "Amma da komiksin ha Şakacı!"
+    },
+    {
+      "id": "b6b09c26",
+      "bank_id": "10309601",
+      "text": "Mizah konusunda kimse eline su dökemez Şakacı."
+    },
+    {
+      "id": "b6b09c27",
+      "bank_id": "10309601",
+      "text": "Amma da komik birisin Şakacı."
+    },
+    {
+      "id": "b84693bc",
+      "bank_id": "10309601",
+      "text": "Gaddarlığa olan düşkünlüğün cümle alemce bilinir Cellat."
+    },
+    {
+      "id": "b84693bd",
+      "bank_id": "10309601",
+      "text": "Yalnızca senin gibi kanlı bir geçmişe sahip birine Cellat denebilir."
+    },
+    {
+      "id": "b9f791d8",
+      "bank_id": "10309601",
+      "text": "Bana zarar verme Korku Tellalı."
+    },
+    {
+      "id": "b9f791da",
+      "bank_id": "10309601",
+      "text": "Selam Korku Tellalı. Ben hemen yolundan çekileyim en iyisi."
+    },
+    {
+      "id": "b9f791db",
+      "bank_id": "10309601",
+      "text": "Herkesi tir tir titretiyorsun Korku Tellalı."
+    },
+    {
+      "id": "b9f791dc",
+      "bank_id": "10309601",
+      "text": "Aaa! Ah... sensin demek. Şey, büyük Korku Tellalı."
+    },
+    {
+      "id": "b9f791dd",
+      "bank_id": "10309601",
+      "text": "<gasps> Ah, sensin demek! Büyük Korku Tellalı!"
+    },
+    {
+      "id": "b9f791de",
+      "bank_id": "10309601",
+      "text": "Ah! Oh, sensin demek! Şey, büyük Korku Tellalı!"
+    },
+    {
+      "id": "b9f791df",
+      "bank_id": "10309601",
+      "text": "Bu dehşet saltanatın ne zaman bitecek Korku Tellalı?"
+    },
+    {
+      "id": "bdb0a720",
+      "bank_id": "10309601",
+      "text": "Nereye gitsen kahkahalar arkandan geliyor Şakacı."
+    },
+    {
+      "id": "bdb0a721",
+      "bank_id": "10309601",
+      "text": "Mizahın sırları senin önünde eğiliyor Şakacı."
+    },
+    {
+      "id": "bdb0a722",
+      "bank_id": "10309601",
+      "text": "Komik bir şey yap hadi Şakacı. Devam et!"
+    },
+    {
+      "id": "bdb0a723",
+      "bank_id": "10309601",
+      "text": "İnsanı gülmekten kırıp geçirmeyi iyi biliyorsun Şakacı."
+    },
+    {
+      "id": "bdb0a724",
+      "bank_id": "10309601",
+      "text": "Esprilerin bir numara Şakacı!"
+    },
+    {
+      "id": "bdb0a725",
+      "bank_id": "10309601",
+      "text": "Ha! Kimse Şakacı denmeyi senden daha fazla hak edemez!"
+    },
+    {
+      "id": "bdb0a726",
+      "bank_id": "10309601",
+      "text": "Ha! Kimse Şakacı denmeyi senden daha fazla hak edemez!"
+    },
+    {
+      "id": "bebac0e8",
+      "bank_id": "10309601",
+      "text": "Pek az kişinin olabileceği kadar aşağılıksın Gölge İblisi."
+    },
+    {
+      "id": "bebac0e9",
+      "bank_id": "10309601",
+      "text": "Senin gibiler bu dünyayı yaşanmaz kılıyor Gölge İblisi."
+    },
+    {
+      "id": "bebac0eb",
+      "bank_id": "10309601",
+      "text": "Zehirli bir kötülük akıyor üzerinden Gölge İblisi."
+    },
+    {
+      "id": "bebac0ec",
+      "bank_id": "10309601",
+      "text": "Akıl almaz derecede habissin Gölge İblisi."
+    },
+    {
+      "id": "bebac0ed",
+      "bank_id": "10309601",
+      "text": "Zehirli bir kötülük akıyor üzerinden Gölge İblisi."
+    },
+    {
+      "id": "bebac0ee",
+      "bank_id": "10309601",
+      "text": "Amma da uğursuz birisin ha Gölge İblisi? Yine de harika bir isim."
+    },
+    {
+      "id": "bebac0ef",
+      "bank_id": "10309601",
+      "text": "O kötü gölgelere tapıyorsundur kesin değil mi Gölge İblisi?"
+    },
+    {
+      "id": "bef799f9",
+      "bank_id": "10309601",
+      "text": "Ah Korku Tellalı! Cidden korku tellallığı yapmayı biliyorsun!"
+    },
+    {
+      "id": "bef799fa",
+      "bank_id": "10309601",
+      "text": "Ah Korku Tellalı! Ha. Şey. Pek bir korkunçsun doğrusu!"
+    },
+    {
+      "id": "bef799fb",
+      "bank_id": "10309601",
+      "text": "Herkes senden korkuyor Korku Tellalı ve bunda çok haklılar."
+    },
+    {
+      "id": "bef799fc",
+      "bank_id": "10309601",
+      "text": "İnsanları korkutmaktan zevk alıyorsun değil mi Korku Tellalı? Şikâyet ettiğimden değil hani."
+    },
+    {
+      "id": "bef799fd",
+      "bank_id": "10309601",
+      "text": "Şu Korku Tellalı sensin değil mi. Hadi, biraz daha insan korkut. Ama beni değil."
+    },
+    {
+      "id": "bef799fe",
+      "bank_id": "10309601",
+      "text": "Ah Korku Tellalı! Ha. Şey. Pek bir korkunçsun doğrusu!"
+    },
+    {
+      "id": "bef799ff",
+      "bank_id": "10309601",
+      "text": "Karşılaştığın herkesin içine dehşet salıyorsun Korku Tellalı."
+    },
+    {
+      "id": "c50d5160",
+      "bank_id": "10309601",
+      "text": "En sevdiğin silah bu mu Silahşor?"
+    },
+    {
+      "id": "c50d5161",
+      "bank_id": "10309601",
+      "text": "Sana Silahşor demeleri bundan herhalde."
+    },
+    {
+      "id": "c50d5162",
+      "bank_id": "10309601",
+      "text": "Silahınla hava mı atıyorsun Silahşor?"
+    },
+    {
+      "id": "c50d5164",
+      "bank_id": "10309601",
+      "text": "Silahşor olduğunu biliyorum ama silahlarla oynamak için doğru an mı bu?"
+    },
+    {
+      "id": "c50d5165",
+      "bank_id": "10309601",
+      "text": "Adı Silahşor olan birinden de silah savurması beklenirdi zaten."
+    },
+    {
+      "id": "c50d5166",
+      "bank_id": "10309601",
+      "text": "Ateş etmeyi pek seviyorsun değil mi Silahşor?"
+    },
+    {
+      "id": "c50d5167",
+      "bank_id": "10309601",
+      "text": "Silahşor ha? Yirmi adımdan bir meşe palamudunu vurursun bahse girerim."
+    },
+    {
+      "id": "c75c6181",
+      "bank_id": "10309601",
+      "text": "Kralım! Dünya sizin ayaklarınızın altında efendimiz."
+    },
+    {
+      "id": "c75c6182",
+      "bank_id": "10309601",
+      "text": "Kralım! Dünya sizin ayaklarınızın altında efendimiz."
+    },
+    {
+      "id": "c75c6183",
+      "bank_id": "10309601",
+      "text": "Kralım! Dünya sizin sahnenizdir."
+    },
+    {
+      "id": "c75c6184",
+      "bank_id": "10309601",
+      "text": "Kralım! Dünya sizin ayaklarınızın altında efendimiz."
+    },
+    {
+      "id": "c75c6185",
+      "bank_id": "10309601",
+      "text": "Kralım! Dünya sizin ayaklarınızın altında Efendimiz."
+    },
+    {
+      "id": "c75c6186",
+      "bank_id": "10309601",
+      "text": "Kralım! Dünya sizin ayaklarınızın altında efendimiz."
+    },
+    {
+      "id": "c75c6187",
+      "bank_id": "10309601",
+      "text": "Kralım! Dünya sizin ayaklarınızın altında efendimiz."
+    },
+    {
+      "id": "ce0d5f48",
+      "bank_id": "10309601",
+      "text": "Lakabına bakılırsa o silahla harikalar yaratıyor olmalısın."
+    },
+    {
+      "id": "ce0d5f49",
+      "bank_id": "10309601",
+      "text": "Ah, şey, evet. Peki silahşorluk tam olarak neyi gerektiriyor? Yok vazgeçtim, sormadım say."
+    },
+    {
+      "id": "ce0d5f4a",
+      "bank_id": "10309601",
+      "text": "Silahşor! Daha büyük bir silah bekliyordum hani. He he."
+    },
+    {
+      "id": "ce0d5f4b",
+      "bank_id": "10309601",
+      "text": "Adın Silahşor demek? Evet, tam oturmuş."
+    },
+    {
+      "id": "ce0d5f4c",
+      "bank_id": "10309601",
+      "text": "Silahşor ha? Unvanın bundan daha uygun olamazdı."
+    },
+    {
+      "id": "ce0d5f4d",
+      "bank_id": "10309601",
+      "text": "Usta bir nişancı olduğunu duydum Silahşor."
+    },
+    {
+      "id": "ce0d5f4f",
+      "bank_id": "10309601",
+      "text": "Silahın olmadan Silahşor olamazdın zaten."
+    },
+    {
+      "id": "ce575640",
+      "bank_id": "10309601",
+      "text": "Şu cüssene bir bak! Maruldan bile kaçabilmen mucize Salata Kaçkını."
+    },
+    {
+      "id": "ce575641",
+      "bank_id": "10309601",
+      "text": "Biraz egzersiz yapmayı denedin mi hiç Salata Kaçkını?"
+    },
+    {
+      "id": "ce575643",
+      "bank_id": "10309601",
+      "text": "Şu cüssene bir bak! Maruldan bile kaçabilmen mucize Salata Kaçkını."
+    },
+    {
+      "id": "ce575644",
+      "bank_id": "10309601",
+      "text": "Şu cüssene bir bak! Herhangi bir şeyden kaçabilmen mucize Salata Kaçkını."
+    },
+    {
+      "id": "ce575645",
+      "bank_id": "10309601",
+      "text": "Bu cüssenin görevlerde sana engel teşkil ettiğini düşünüyorum Salata Kaçkını."
+    },
+    {
+      "id": "ce575646",
+      "bank_id": "10309601",
+      "text": "Salata Kaçkını mı? Şişko bana daha uygun bir isim gibi geliyor."
+    },
+    {
+      "id": "ce575647",
+      "bank_id": "10309601",
+      "text": "Şu cüssene bir bak! Maruldan bile kaçabilmen mucize Salata Kaçkını."
+    },
+    {
+      "id": "d25c7330",
+      "bank_id": "10309601",
+      "text": "Çok yaşa Kralım! Her daim tebaanız olacağız."
+    },
+    {
+      "id": "d25c7332",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kralı."
+    },
+    {
+      "id": "d25c7333",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kralı."
+    },
+    {
+      "id": "d25c7334",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kralı."
+    },
+    {
+      "id": "d25c7335",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kralı."
+    },
+    {
+      "id": "d25c7336",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kralı."
+    },
+    {
+      "id": "d25c7337",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kralı."
+    },
+    {
+      "id": "d5576140",
+      "bank_id": "10309601",
+      "text": "Belki de o salataların hepsini yemeliydin Salata Kaçkını."
+    },
+    {
+      "id": "d5576141",
+      "bank_id": "10309601",
+      "text": "Obezliğin iğrençlik sınırlarına dayanmış Salata Kaçkını."
+    },
+    {
+      "id": "d5576142",
+      "bank_id": "10309601",
+      "text": "Belki de o salataların hepsini yemeliydin Salata Kaçkını."
+    },
+    {
+      "id": "d5576143",
+      "bank_id": "10309601",
+      "text": "Belki de o salataların hepsini yemeliydin Salata Kaçkını."
+    },
+    {
+      "id": "d5576144",
+      "bank_id": "10309601",
+      "text": "O kadar turtayı mideye indirip formu korumak zor olsa gerek değil mi Salata Kaçkını?"
+    },
+    {
+      "id": "d5576145",
+      "bank_id": "10309601",
+      "text": "Bütün o salatalardan kaçmak pek de iyi bir vücut bırakmamış sana."
+    },
+    {
+      "id": "d5576146",
+      "bank_id": "10309601",
+      "text": "Neden biraz daha sağlıklı beslenmeyi denemiyorsun Salata Kaçkını?"
+    },
+    {
+      "id": "f5c1fb38",
+      "bank_id": "10309601",
+      "text": "Kraliçem! Dünya sizin ayaklarınızın altında efendimiz."
+    },
+    {
+      "id": "f5c1fb39",
+      "bank_id": "10309601",
+      "text": "Kraliçem! Dünya sizin ayaklarınızın altında efendimiz."
+    },
+    {
+      "id": "f5c1fb3a",
+      "bank_id": "10309601",
+      "text": "Kraliçem! Dünya sizin ayaklarınızın altında Majesteleri."
+    },
+    {
+      "id": "f5c1fb3b",
+      "bank_id": "10309601",
+      "text": "Kraliçem! Hepimiz sizin sadık tebaanızız efendimiz."
+    },
+    {
+      "id": "f5c1fb3c",
+      "bank_id": "10309601",
+      "text": "Kraliçem! Dünya sizin ayaklarınızın altında efendimiz."
+    },
+    {
+      "id": "f5c1fb3d",
+      "bank_id": "10309601",
+      "text": "Kraliçem! Dünya sizin ayaklarınızın altında efendimiz."
+    },
+    {
+      "id": "f5c1fb3e",
+      "bank_id": "10309601",
+      "text": "Kraliçem! Dünya sizin ayaklarınızın altında efendimiz."
+    },
+    {
+      "id": "fc08b128",
+      "bank_id": "10309601",
+      "text": "Yalnızca senin gibi cesaret dolu birine Aslan Yürekli denebilirdi."
+    },
+    {
+      "id": "fc08b129",
+      "bank_id": "10309601",
+      "text": "Ah, hiçbir zaman Aslan Yürekli kadar cesur biri görülmedi."
+    },
+    {
+      "id": "fc08b12a",
+      "bank_id": "10309601",
+      "text": "Demek kudretli Aslan Yürekli sensin ha."
+    },
+    {
+      "id": "fc08b12b",
+      "bank_id": "10309601",
+      "text": "Aslan Yürekli ha? Böyle bir adı taşımak için harbiden yürekli olmak gerek."
+    },
+    {
+      "id": "fc08b12c",
+      "bank_id": "10309601",
+      "text": "Sende cidden bir aslanın yüreği var değil mi?"
+    },
+    {
+      "id": "fc08b12d",
+      "bank_id": "10309601",
+      "text": "Öyle cesursun ki... Sana Aslan Yürekli demelerine şaşmamalı."
+    },
+    {
+      "id": "fc08b12e",
+      "bank_id": "10309601",
+      "text": "Hey Aslan Yürekli! Bir kükre de duyalım!"
+    },
+    {
+      "id": "fec20908",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kraliçesi."
+    },
+    {
+      "id": "fec20909",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kraliçesi."
+    },
+    {
+      "id": "fec2090b",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kraliçesi."
+    },
+    {
+      "id": "fec2090c",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kraliçesi."
+    },
+    {
+      "id": "fec2090d",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kraliçesi."
+    },
+    {
+      "id": "fec2090e",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kraliçesi."
+    },
+    {
+      "id": "fec2090f",
+      "bank_id": "10309601",
+      "text": "Bizler sizin sadık tebaanızız ey her şeyin Kraliçesi."
+    }
+  ]
+}

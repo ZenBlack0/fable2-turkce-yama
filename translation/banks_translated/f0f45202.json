@@ -1,0 +1,536 @@
+{
+  "bank_id": "f0f45202",
+  "total_strings": 106,
+  "strings": [
+    {
+      "id": "016c3334",
+      "bank_id": "f0f45202",
+      "text": "Geçen sefer seni fena doğramışlar ha? Şu yaralarına baksana bir."
+    },
+    {
+      "id": "016c3335",
+      "bank_id": "f0f45202",
+      "text": "Ha, bütün bu yara izlerinden anlıyorum ki pestilinin çıkarılmasından pek gocunmuyorsun."
+    },
+    {
+      "id": "016c3337",
+      "bank_id": "f0f45202",
+      "text": "Görüyorum ki durumun bayağı iyiymiş. Bütün o yaraları da böyle kaptın herhalde. Ha ha!"
+    },
+    {
+      "id": "019ead31",
+      "bank_id": "f0f45202",
+      "text": "Kızın senden nefret ediyor. Her gece ölmen için dua ediyor."
+    },
+    {
+      "id": "0491e1cd",
+      "bank_id": "f0f45202",
+      "text": "Sana da nah!"
+    },
+    {
+      "id": "0491e1ce",
+      "bank_id": "f0f45202",
+      "text": "Kıçımı öp!"
+    },
+    {
+      "id": "0491e1cf",
+      "bank_id": "f0f45202",
+      "text": "Buraya gel de bir daha yap sıkıyorsa, seni domuz!"
+    },
+    {
+      "id": "0ef50ea1",
+      "bank_id": "f0f45202",
+      "text": "Ağır bir altın kesen olduğunu duydum. Yakında benim olacak."
+    },
+    {
+      "id": "0ef50ea2",
+      "bank_id": "f0f45202",
+      "text": "Harika, yolunmaya hazır semiz bir tavuk."
+    },
+    {
+      "id": "0ef50ea3",
+      "bank_id": "f0f45202",
+      "text": "Bütün o altınları benim için saklaman ne kadar hoş. Hem de ne kadar çok!"
+    },
+    {
+      "id": "11a07ef1",
+      "bank_id": "f0f45202",
+      "text": "Sen baygın yatarken üzerinden altın aşırmak çocuk oyuncağıymış diyorlar."
+    },
+    {
+      "id": "11a07ef2",
+      "bank_id": "f0f45202",
+      "text": "Seni bayılttıktan sonra cep harçlığını aşırıyorlarmış ha? Zavallısın."
+    },
+    {
+      "id": "11a07ef3",
+      "bank_id": "f0f45202",
+      "text": "Sen baygınken altınını çalan ilk kişi ben olmayacağım belki. Ama sonuncusu olacağım."
+    },
+    {
+      "id": "127bcdd2",
+      "bank_id": "f0f45202",
+      "text": "Kocanın sevgisini elinde tutamadın, değil mi? Altınların bile onu yanında tutmaya yetmedi."
+    },
+    {
+      "id": "13279699",
+      "bank_id": "f0f45202",
+      "text": "Oğlunun şu an nerede olduğunu biliyor musun? Bedeni bir mağaraya saçılmış, hobbe dediğin o canavarlar tarafından parçalanmış halde yatıyor."
+    },
+    {
+      "id": "17bae97c",
+      "bank_id": "f0f45202",
+      "text": "Sürekli kaybedince böyle olur işte. Sonunda canlı yara müzesine dönersin."
+    },
+    {
+      "id": "17bae97d",
+      "bank_id": "f0f45202",
+      "text": "Yara izlerinden anlaşılan o ki, yeterince savaşı çoktan kaybetmişsin."
+    },
+    {
+      "id": "17bae97e",
+      "bank_id": "f0f45202",
+      "text": "Dostum, şu yaralara baksana. Hiç yara almadan kazandığın bir dövüş oldu mu senin?"
+    },
+    {
+      "id": "1a0a2a3e",
+      "bank_id": "f0f45202",
+      "text": "Doğru kişiyle evlendiğinden emin misin? Nasıl bir adam olduğunu sahiden biliyor musun? Neler yaptığını?"
+    },
+    {
+      "id": "1abca468",
+      "bank_id": "f0f45202",
+      "text": "Cesedini soyduktan sonra zengin olacağım."
+    },
+    {
+      "id": "1abca469",
+      "bank_id": "f0f45202",
+      "text": "Oh, nefis valla. Senin işini bitirdikten sonra emekli olup pastırmadan ve biradan bir sarayda yaşayabilirim!"
+    },
+    {
+      "id": "1abca46b",
+      "bank_id": "f0f45202",
+      "text": "Senin kadar çok altını olan hiç kimse dövüşmeyi beceremez. Hayatın kuralı bu. İyi ki de öyle."
+    },
+    {
+      "id": "206e1b0e",
+      "bank_id": "f0f45202",
+      "text": "Kız kardeşini kurtarmak için hiçbir şey yapamadın mı? Ölümünü durduramayacak kadar zayıf mıydın?"
+    },
+    {
+      "id": "22f45412",
+      "bank_id": "f0f45202",
+      "text": "Kızın öyle tatlı ki. Dün gece onu ziyaret ettiğimde bal gibiydi tadı. Can verirken senin adını haykırdı."
+    },
+    {
+      "id": "34dd64a1",
+      "bank_id": "f0f45202",
+      "text": "Biliyor musun, pislik gibi zengin olmanı çok daha fazla tercih ederdim. Doyurmam gereken koca bir haydut çetesi var."
+    },
+    {
+      "id": "34dd64a2",
+      "bank_id": "f0f45202",
+      "text": "Buna değecek kadar zenginsin herhalde. Ucu ucuna da olsa."
+    },
+    {
+      "id": "34dd64a3",
+      "bank_id": "f0f45202",
+      "text": "Şu küçük altın kesesini yere bırak da beni sonra ceplerini arama zahmetinden kurtar."
+    },
+    {
+      "id": "34f9b015",
+      "bank_id": "f0f45202",
+      "text": "Birileri de kendini pek bir şey sanıyor!"
+    },
+    {
+      "id": "34f9b017",
+      "bank_id": "f0f45202",
+      "text": "İlk buluşmada asla öpmem."
+    },
+    {
+      "id": "3689f2da",
+      "bank_id": "f0f45202",
+      "text": "Karını öldürürken gözlerindeki o bakışı hatırlıyor musun? Canı bedeninden ayrılırken süzülen o gözyaşlarını?"
+    },
+    {
+      "id": "39da6aa8",
+      "bank_id": "f0f45202",
+      "text": "Kaç kere dayak yedin sen?"
+    },
+    {
+      "id": "39da6aa9",
+      "bank_id": "f0f45202",
+      "text": "Burnun kırılmadan önce hiç kavga kazandın mı sen?"
+    },
+    {
+      "id": "39da6aab",
+      "bank_id": "f0f45202",
+      "text": "Görüyorum ki daha önce kıçına tekmeyi basmışlar. Asla akıllanmayacaksın."
+    },
+    {
+      "id": "3cf6a70b",
+      "bank_id": "f0f45202",
+      "text": "Rose seni şu an görseydi ne derdi? Sence seninle gurur duyar mıydı? Dönüştüğün bu mahlukatı tanıyabilir miydi sence?"
+    },
+    {
+      "id": "43ac79b2",
+      "bank_id": "f0f45202",
+      "text": "Rose'un o kurşundan sonra hemen ölmediğini biliyor muydun? Hayır, pencereden düşüşünü izledi. Bedeninin yere çarpışının sesini duydu. Ve Lucien'in son kurşunu hayatına son vermeden önce acı gözyaşları döktü."
+    },
+    {
+      "id": "48bc79d8",
+      "bank_id": "f0f45202",
+      "text": "Geçen sefer bir dövüşü kaybettiğinde nasıl hayatta kaldın bilmiyorum. Ama bu sefer öyle olmayacak."
+    },
+    {
+      "id": "48bc79da",
+      "bank_id": "f0f45202",
+      "text": "Ünlü olduğun tek şey dövüş kaybetmek. Bana sahiden büyük bir güven veriyor, söylemem gerek."
+    },
+    {
+      "id": "48bc79db",
+      "bank_id": "f0f45202",
+      "text": "Ne kadar beceriksiz olduğunun kulaktan kulağa yayılmasından hiç utanmıyor musun?"
+    },
+    {
+      "id": "4d637b14",
+      "bank_id": "f0f45202",
+      "text": "Böğk! Aman Tanrım! Zehirli gaz mı bu?"
+    },
+    {
+      "id": "4d637b17",
+      "bank_id": "f0f45202",
+      "text": "Öğk, bu kokunun içinde nasıl dövüşmem bekleniyor ki?"
+    },
+    {
+      "id": "601f4678",
+      "bank_id": "f0f45202",
+      "text": "Umarım bana alacak biraz altının kalmıştır. Sürekli kaybettiğini duydum. Dövüşlerini kaybettiğin gibi."
+    },
+    {
+      "id": "601f4679",
+      "bank_id": "f0f45202",
+      "text": "Şimdi yere serilip bütün altınlarını bana verecek misin? Kaybettiğinde öyle yapıyormuşsun diye duydum."
+    },
+    {
+      "id": "601f467b",
+      "bank_id": "f0f45202",
+      "text": "Seni öldürmesinler diye insanlara rüşvet verdiğin doğru mu?"
+    },
+    {
+      "id": "658f9655",
+      "bank_id": "f0f45202",
+      "text": "Karını yalnız bırakmamalıydın... İç çekişlerini, yatağını bir başkasıyla paylaşırken duyduğu zevk iniltilerini duyabiliyorum."
+    },
+    {
+      "id": "6be890ad",
+      "bank_id": "f0f45202",
+      "text": "Geceleri uyumaya çalıştığında Rose'un ölüm çığlığını hâlâ duyuyorsun, değil mi?"
+    },
+    {
+      "id": "6c82b9c0",
+      "bank_id": "f0f45202",
+      "text": "Daha iyi bir dövüşçü olmanın tek yolu hatalarından ders çıkarmaktır. Ve sen bunu yapmıyorsun. Zavallı şey."
+    },
+    {
+      "id": "6c82b9c1",
+      "bank_id": "f0f45202",
+      "text": "Bu kaybedişin ilk olmayabilir belki ama sonuncusu olacak."
+    },
+    {
+      "id": "6c82b9c2",
+      "bank_id": "f0f45202",
+      "text": "Asla daha iyi dövüşemeyeceksin. Sadece dövüşürken geberip gideceksin."
+    },
+    {
+      "id": "7bfe80ad",
+      "bank_id": "f0f45202",
+      "text": "Hobbe aşkına, leş gibi kokuyor!"
+    },
+    {
+      "id": "7bfe80ae",
+      "bank_id": "f0f45202",
+      "text": "Gaz saldırısı! Gaz saldırısı!"
+    },
+    {
+      "id": "8544ced4",
+      "bank_id": "f0f45202",
+      "text": "Ceplerinde toz yumağından başka bir şey var mı, seni pis sefil?"
+    },
+    {
+      "id": "8544ced5",
+      "bank_id": "f0f45202",
+      "text": "Böcek kadar yoksulsun ama en azından öldüğünde para dertlerin bitecek."
+    },
+    {
+      "id": "8544ced7",
+      "bank_id": "f0f45202",
+      "text": "Zavallı bir sokak serserisisin sadece, değil mi? İzin ver de seni bu ızdıraptan kurtarayım."
+    },
+    {
+      "id": "858f7876",
+      "bank_id": "f0f45202",
+      "text": "Evini gördüm rüyamda. Karının bedeni yerde yatıyordu. Balverine'ler etleriyle ziyafet çekiyordu."
+    },
+    {
+      "id": "8955b164",
+      "bank_id": "f0f45202",
+      "text": "Ah, sevdiğim bir şey varsa o da zengin züppeleri öldürmektir. Çok daha tatmin edici."
+    },
+    {
+      "id": "8955b166",
+      "bank_id": "f0f45202",
+      "text": "Haha, turnayı gözünden vurdum. Paraya para demiyorsun ha?"
+    },
+    {
+      "id": "8955b167",
+      "bank_id": "f0f45202",
+      "text": "Bütün o altınlar sana ağır geliyordur şimdi. Merak etme, yükünü hafifletirim ben."
+    },
+    {
+      "id": "9660a8df",
+      "bank_id": "f0f45202",
+      "text": "Hammer babasının ölümünün senin suçun olduğunu düşünüyor hâlâ. Bir gün intikam için sana ihanet edecek."
+    },
+    {
+      "id": "97d5cf60",
+      "bank_id": "f0f45202",
+      "text": "Köyün delisiyle dövüştüğümü fark etmemiştim."
+    },
+    {
+      "id": "97d5cf61",
+      "bank_id": "f0f45202",
+      "text": "Çocuk musun nesin sen?"
+    },
+    {
+      "id": "97d5cf62",
+      "bank_id": "f0f45202",
+      "text": "Oyun oynayacak zaman değil şimdi."
+    },
+    {
+      "id": "a1a70eb0",
+      "bank_id": "f0f45202",
+      "text": "Sen anne olmaya layık değilsin. Çocuğun yaptığın hataları asla affetmeyecek."
+    },
+    {
+      "id": "a1a70ebb",
+      "bank_id": "f0f45202",
+      "text": "Sen baba olmaya layık değilsin. Çocuğun yaptığın hataları asla affetmeyecek."
+    },
+    {
+      "id": "a370f688",
+      "bank_id": "f0f45202",
+      "text": "Bu dünyaya neden başka bir insan getirirsin ki? Onları bekleyen acı ve ölümden başka bir şey olmadığını göremiyor musun?"
+    },
+    {
+      "id": "a516c0c4",
+      "bank_id": "f0f45202",
+      "text": "Rose seni korumak için her şeyi yapardı. Canını bile verdi. Peki sen ne yaptın? Hiçbir şey. Koca bir hiç."
+    },
+    {
+      "id": "a6bd5ead",
+      "bank_id": "f0f45202",
+      "text": "Öyle kolay korkmam ben!"
+    },
+    {
+      "id": "a6bd5eae",
+      "bank_id": "f0f45202",
+      "text": "Korkmuş gibi bir halim mi var?"
+    },
+    {
+      "id": "a6bd5eaf",
+      "bank_id": "f0f45202",
+      "text": "Bunun beni korkutması mı gerekiyordu?"
+    },
+    {
+      "id": "a8e0d465",
+      "bank_id": "f0f45202",
+      "text": "Kocandan bir mesajım var. \"Beni neden öldürdün? Ben seni hâlâ seviyordum.\""
+    },
+    {
+      "id": "af3e0764",
+      "bank_id": "f0f45202",
+      "text": "Buna değecek kadarını parçalanmış bedeninden çıkarırım herhalde."
+    },
+    {
+      "id": "af3e0766",
+      "bank_id": "f0f45202",
+      "text": "Bu hafta sonunun ziyafet masrafını çıkaracak kadar altını senden alabilmeliyim."
+    },
+    {
+      "id": "af3e0767",
+      "bank_id": "f0f45202",
+      "text": "Genelde gerçekten zengin tipleri öldürmeyi severim. Ama şimdilik sen de idare edersin."
+    },
+    {
+      "id": "b1418cd1",
+      "bank_id": "f0f45202",
+      "text": "Lucien çalışma odasındaki o geceyi hatırladıkça her gece kahkahalar atıyor. Seni ve kız kardeşini vurduğu o silahı hâlâ saklıyor."
+    },
+    {
+      "id": "b9d4e91a",
+      "bank_id": "f0f45202",
+      "text": "Bir oğlun var. Geleceğini görebiliyorum. Kalbine bir hançer saplarken dudaklarındaki o tebessümü."
+    },
+    {
+      "id": "bbaacca6",
+      "bank_id": "f0f45202",
+      "text": "Kimyasal silah kullanıyor!"
+    },
+    {
+      "id": "bbaaccad",
+      "bank_id": "f0f45202",
+      "text": "Kimyasal silah kullanıyor!"
+    },
+    {
+      "id": "ca322900",
+      "bank_id": "f0f45202",
+      "text": "Senin gibi fukaraları öldürmenin ne anlamı var ki? Yağmalanacak bir şey yok."
+    },
+    {
+      "id": "ca322902",
+      "bank_id": "f0f45202",
+      "text": "Şu haline bakılırsa bayağı hüzünlü bir yağma günü olacak."
+    },
+    {
+      "id": "ca322903",
+      "bank_id": "f0f45202",
+      "text": "Cesedinden alabileceğim tek şey birkaç kirli bozukluk herhalde."
+    },
+    {
+      "id": "d2c88934",
+      "bank_id": "f0f45202",
+      "text": "Bütün altınını alacağım. İlk alan ben olmayacağım ama, değil mi?"
+    },
+    {
+      "id": "d2c88936",
+      "bank_id": "f0f45202",
+      "text": "Buraya kadar hayatta kalabilmenin tek sebebinin, seni rahat bırakana kadar bütün altınını dağıtman olduğunu duydum. Doğru mu bu? Ha ha!"
+    },
+    {
+      "id": "d2c88937",
+      "bank_id": "f0f45202",
+      "text": "Altınlarını neden şimdiden vermiyorsun? Bir kavgada genelde öyle yapmıyor musun zaten?"
+    },
+    {
+      "id": "d4cd7206",
+      "bank_id": "f0f45202",
+      "text": "Kocanı öldürürken gözlerindeki o bakışı hatırlıyor musun? Canı bedeninden ayrılırken süzülen o gözyaşlarını?"
+    },
+    {
+      "id": "d781f44c",
+      "bank_id": "f0f45202",
+      "text": "Sürekli dayak yiyip durman pek etkileyici bir durum değil doğrusu. Hepimiz duyduk bunu."
+    },
+    {
+      "id": "d781f44d",
+      "bank_id": "f0f45202",
+      "text": "Hakkında pek bir şey duymadım. Hiçbir işe yaramadığın dışında tabii."
+    },
+    {
+      "id": "d781f44f",
+      "bank_id": "f0f45202",
+      "text": "Kafana kaç kere tekme yediğini hepimiz duyduk."
+    },
+    {
+      "id": "d90d0d1d",
+      "bank_id": "f0f45202",
+      "text": "O yaraları nasıl aldın? Dövüşlerden kaçarken mi?"
+    },
+    {
+      "id": "d90d0d1e",
+      "bank_id": "f0f45202",
+      "text": "Koleksiyonuna bir yara izi daha eklemeyeyim mi? Tam boğazının ortasına."
+    },
+    {
+      "id": "d90d0d1f",
+      "bank_id": "f0f45202",
+      "text": "Aklından çok yara izin var senin!"
+    },
+    {
+      "id": "e3a3eff4",
+      "bank_id": "f0f45202",
+      "text": "Kıçına her tekme yediğinde herkes sana olan saygısını biraz daha kaybediyor. Bundan çok daha fazlasını kaybedeceksin gerçi."
+    },
+    {
+      "id": "e3a3eff5",
+      "bank_id": "f0f45202",
+      "text": "Gittikçe meşhur oluyorsun, dövüş kaybetmekle tabii."
+    },
+    {
+      "id": "e3a3eff6",
+      "bank_id": "f0f45202",
+      "text": "Dövüşmekte ne kadar berbat olduğunu herkes biliyor."
+    },
+    {
+      "id": "eb030ae1",
+      "bank_id": "f0f45202",
+      "text": "Daha önce belalardan sağ çıkmışsın ha. E, onlardan ders almış olmalıydın. Ama almamışsın."
+    },
+    {
+      "id": "eb030ae2",
+      "bank_id": "f0f45202",
+      "text": "Geçen sefer bir dövüşü kaybettiğinde hiçbir şey öğrenmedin mi? Anlaşılan öğrenmemişsin."
+    },
+    {
+      "id": "eb030ae3",
+      "bank_id": "f0f45202",
+      "text": "Kaybettiğin bunca dövüşten hiçbir şey öğrenmedin mi? Belli ki hayır."
+    },
+    {
+      "id": "edeb23d0",
+      "bank_id": "f0f45202",
+      "text": "Beni kim sandın sen?!"
+    },
+    {
+      "id": "edeb23db",
+      "bank_id": "f0f45202",
+      "text": "Belki daha sonra, tatlım."
+    },
+    {
+      "id": "f2339b59",
+      "bank_id": "f0f45202",
+      "text": "Karından bir mesajım var. \"Beni neden öldürdün? Ben seni hâlâ seviyordum.\""
+    },
+    {
+      "id": "f35de878",
+      "bank_id": "f0f45202",
+      "text": "Yaşlı, kör, zayıf bir kadından emirler alarak bir Kahraman olduğunu sanıyorsun. Kendi aklın fikrin yok mu senin?"
+    },
+    {
+      "id": "f53f76e4",
+      "bank_id": "f0f45202",
+      "text": "Karının sevgisini elinde tutamadın, değil mi? Altınların bile onu yanında tutmaya yetmedi."
+    },
+    {
+      "id": "f54bfd29",
+      "bank_id": "f0f45202",
+      "text": "Kocanı yalnız bırakmamalıydın... İç çekişlerini, yatağını bir başkasıyla paylaşırken duyduğu zevk iniltilerini duyabiliyorum."
+    },
+    {
+      "id": "fb8e2de8",
+      "bank_id": "f0f45202",
+      "text": "Doğru kişiyle evlendiğinden emin misin? Nasıl bir kadın olduğunu sahiden biliyor musun? Neler yaptığını?"
+    },
+    {
+      "id": "fe6e57bd",
+      "bank_id": "f0f45202",
+      "text": "Peh, öldürmeye değecek gibi bile değilsin. Hiç altının yok ki."
+    },
+    {
+      "id": "fe6e57be",
+      "bank_id": "f0f45202",
+      "text": "Senin gibi dilencileri öldürmekten daha anlamsız hiçbir şey yoktur."
+    },
+    {
+      "id": "fe6e57bf",
+      "bank_id": "f0f45202",
+      "text": "Peh, altını olmayan şu aptalların bana vakit kaybettirmesinden nefret ediyorum."
+    },
+    {
+      "id": "fee7dcea",
+      "bank_id": "f0f45202",
+      "text": "Evini gördüm rüyamda. Kocanın bedeni yerde yatıyordu. Balverine'ler etleriyle ziyafet çekiyordu."
+    }
+  ]
+}

@@ -1,0 +1,871 @@
+{
+  "bank_id": "20bfb600",
+  "total_strings": 173,
+  "strings": [
+    {
+      "id": "02ca76af",
+      "bank_id": "20bfb600",
+      "text": "Bloodstone'a gitmek için Cullis Geçidi'ni kullanın"
+    },
+    {
+      "id": "03f8498f",
+      "bank_id": "20bfb600",
+      "text": "Işık Tapınağı"
+    },
+    {
+      "id": "058be050",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Brightwood Kulesi'"
+    },
+    {
+      "id": "06728d97",
+      "bank_id": "20bfb600",
+      "text": "Eski Kulübe"
+    },
+    {
+      "id": "075bd8b3",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Dövmecisi tedarik sorunları nedeniyle şu anda küçük çaplı bir kıtlık çekiyor. Fiyatlar arttı ancak sunabileceğiniz her türlü eşya için fazladan ödeme yapacaklar."
+    },
+    {
+      "id": "080b637a",
+      "bank_id": "20bfb600",
+      "text": "Obruk"
+    },
+    {
+      "id": "08439f4b",
+      "bank_id": "20bfb600",
+      "text": "Brightwood Yolu"
+    },
+    {
+      "id": "0cc4cbaf",
+      "bank_id": "20bfb600",
+      "text": "Bower Gölü Yolu"
+    },
+    {
+      "id": "0e78eacc",
+      "bank_id": "20bfb600",
+      "text": "Gargoyle Definesi"
+    },
+    {
+      "id": "112c0698",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Bowerstone Pazarı'"
+    },
+    {
+      "id": "119959af",
+      "bank_id": "20bfb600",
+      "text": "Brightwood Yolu"
+    },
+    {
+      "id": "12b18329",
+      "bank_id": "20bfb600",
+      "text": "Çile Büyük İndirimi"
+    },
+    {
+      "id": "13720f84",
+      "bank_id": "20bfb600",
+      "text": "Taht Odası"
+    },
+    {
+      "id": "149f7ada",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Hanı trajik bir su patlaması nedeniyle şu anda kıtlık çekiyor. Burada yiyecek ve içecek satarak biraz para kazanacağınızdan emin olabilirsiniz."
+    },
+    {
+      "id": "17c3e34a",
+      "bank_id": "20bfb600",
+      "text": "Bloodstone Mezarı"
+    },
+    {
+      "id": "1aaadd62",
+      "bank_id": "20bfb600",
+      "text": "Çingene Kampı"
+    },
+    {
+      "id": "1ba4455b",
+      "bank_id": "20bfb600",
+      "text": "Dövmecide Büyük İndirim"
+    },
+    {
+      "id": "1bb8a5f2",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Kampı"
+    },
+    {
+      "id": "1becda7d",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Dövmecisi önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. İşlerimiz sadece çekici değil, aynı zamanda uygun fiyatlı ve neredeyse hiç acıtmıyor."
+    },
+    {
+      "id": "1efe4fba",
+      "bank_id": "20bfb600",
+      "text": "Oakfield Silah Tezgâhı uygunsuz depolama sonucu oluşan paslanma nedeniyle şu anda küçük çaplı bir kıtlık çekiyor. Kullanılmayan silah işe yaramaz silahtır, öyleyse neden Oakfield'de satmayasın?"
+    },
+    {
+      "id": "204e9d36",
+      "bank_id": "20bfb600",
+      "text": "Kader Odası"
+    },
+    {
+      "id": "2168e836",
+      "bank_id": "20bfb600",
+      "text": "İsabetinizi geliştirdiniz; bu sayede tüm tüfekler ve tatar yaylarıyla verdiğiniz hasarı artırabileceksiniz."
+    },
+    {
+      "id": "21f618ae",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Çile Kürsüsü'"
+    },
+    {
+      "id": "22a75f69",
+      "bank_id": "20bfb600",
+      "text": "Batık Çiftlik"
+    },
+    {
+      "id": "23885caa",
+      "bank_id": "20bfb600",
+      "text": "Handa Büyük İndirim"
+    },
+    {
+      "id": "247a0b7d",
+      "bank_id": "20bfb600",
+      "text": "Uluyan Salonlar"
+    },
+    {
+      "id": "27182c00",
+      "bank_id": "20bfb600",
+      "text": "Kahramanlar Mezarı"
+    },
+    {
+      "id": "27c5f7dd",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Wraithmarsh'"
+    },
+    {
+      "id": "27d41909",
+      "bank_id": "20bfb600",
+      "text": "Kasaba Kapısı"
+    },
+    {
+      "id": "291cae53",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Bowerstone Mezarlığı'"
+    },
+    {
+      "id": "29336ffe",
+      "bank_id": "20bfb600",
+      "text": "Handa Kıtlık"
+    },
+    {
+      "id": "2b889bee",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Fairfax Arkeolojik Kazı Alanı'"
+    },
+    {
+      "id": "2ba1c844",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Reaver'ın Malikânesi'"
+    },
+    {
+      "id": "2ebbfad3",
+      "bank_id": "20bfb600",
+      "text": "Madam Ursula'nın Küçük Kayıp Ruhlar Yuvası"
+    },
+    {
+      "id": "302081e9",
+      "bank_id": "20bfb600",
+      "text": "Kasaba Meydanı"
+    },
+    {
+      "id": "30f7e10a",
+      "bank_id": "20bfb600",
+      "text": "Brightwood Yolu"
+    },
+    {
+      "id": "32116214",
+      "bank_id": "20bfb600",
+      "text": "Handa Devasa İndirim"
+    },
+    {
+      "id": "327010fe",
+      "bank_id": "20bfb600",
+      "text": "Bowerstone Yolu"
+    },
+    {
+      "id": "3281fc78",
+      "bank_id": "20bfb600",
+      "text": "Rookridge Yolu"
+    },
+    {
+      "id": "32b78792",
+      "bank_id": "20bfb600",
+      "text": "Handa Büyük İndirim"
+    },
+    {
+      "id": "35741179",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Dövmecisi önümüzdeki birkaç gün boyunca indirimde. Çevrenizdekileri kesinlikle etkileyecek ve hatta belki de ödlerini patlatacak enfes bir desenle o çirkin benlerinizi gizleyin."
+    },
+    {
+      "id": "357b11db",
+      "bank_id": "20bfb600",
+      "text": "Çile Kıtlığı"
+    },
+    {
+      "id": "35f4290e",
+      "bank_id": "20bfb600",
+      "text": "Hobbe Mağarası"
+    },
+    {
+      "id": "3650d943",
+      "bank_id": "20bfb600",
+      "text": "Işık Tapınağı"
+    },
+    {
+      "id": "371457a8",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Rookridge'"
+    },
+    {
+      "id": "3822833e",
+      "bank_id": "20bfb600",
+      "text": "Kader Odası'na gitmek için Cullis Geçidi'ni kullanın"
+    },
+    {
+      "id": "389925a5",
+      "bank_id": "20bfb600",
+      "text": "Perili Ev"
+    },
+    {
+      "id": "3a03339b",
+      "bank_id": "20bfb600",
+      "text": "Çile önümüzdeki birkaç gün boyunca küçük çaplı bir indirim yapıyor. Tüm ürünlerde indirim."
+    },
+    {
+      "id": "3caacd8c",
+      "bank_id": "20bfb600",
+      "text": "Oakfield Yolu"
+    },
+    {
+      "id": "3d030aa2",
+      "bank_id": "20bfb600",
+      "text": "Oakfield Hanı, yeni çıkan 'katı ve sıvı tüketmeme' diyetinin popülerleşmesi ve ardından hemen terk edilmesi nedeniyle şu anda kıtlık çekiyor. İnsanlar aç ve susuz. Biraz para kazanmak ister misiniz?"
+    },
+    {
+      "id": "3e71dfb1",
+      "bank_id": "20bfb600",
+      "text": "Kahraman Tepesi"
+    },
+    {
+      "id": "3ec12ac7",
+      "bank_id": "20bfb600",
+      "text": "Çile Devasa Kıtlığı"
+    },
+    {
+      "id": "3fcf1621",
+      "bank_id": "20bfb600",
+      "text": "Fairfax Yolu"
+    },
+    {
+      "id": "42b68931",
+      "bank_id": "20bfb600",
+      "text": "Bowerstone Yolu"
+    },
+    {
+      "id": "4346c3b4",
+      "bank_id": "20bfb600",
+      "text": "Oakfield Hanı, yanlış bir yerel memura hizmet vermeyi reddettiği için şu anda büyük bir kıtlık çekiyor. Kasabaya biraz yiyecek veya içki getirirseniz paraya para demezsiniz."
+    },
+    {
+      "id": "442cefa1",
+      "bank_id": "20bfb600",
+      "text": "Fairfax Yolu"
+    },
+    {
+      "id": "44582ab6",
+      "bank_id": "20bfb600",
+      "text": "Eski Şehir Yolu"
+    },
+    {
+      "id": "47068f12",
+      "bank_id": "20bfb600",
+      "text": "Eski Şehir Girişi"
+    },
+    {
+      "id": "47988463",
+      "bank_id": "20bfb600",
+      "text": "Çile önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. Tüm ürünlerde muazzam indirimler!"
+    },
+    {
+      "id": "48302b5c",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Hanı, Ned'in belini incitmesi yüzünden şu anda büyük bir kıtlık çekiyor. Kasabaya biraz yiyecek ve içecek taşıyabilirseniz, iyi bir fiyata kolayca satarsınız."
+    },
+    {
+      "id": "493c2638",
+      "bank_id": "20bfb600",
+      "text": "Oakfield Silah Tezgâhı, malzeme odasındaki bir tartışmanın ÇOK çirkinleşmesi nedeniyle şu anda kıtlık çekiyor. Kan lekelerine aldırma, gel ve istemediğin silahları satarak zengin ol."
+    },
+    {
+      "id": "49512dab",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Dövmecisi tedarik sorunları nedeniyle şu anda kıtlık çekiyor. Fiyatlar arttı ancak sunabileceğiniz her türlü eşya için iyi para ödeyecekler."
+    },
+    {
+      "id": "498e6328",
+      "bank_id": "20bfb600",
+      "text": "Batık Çiftlik"
+    },
+    {
+      "id": "4bbed630",
+      "bank_id": "20bfb600",
+      "text": "Gölgeler Tapınağı, yerel haydutların amatörce kötülükleri hafifleyene kadar yeniden açılmayacaktır. Profesyonel kötülük faaliyetlerine mutat şekilde devam etmek için lütfen daha sonra tekrar geliniz."
+    },
+    {
+      "id": "4c3dbc4a",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Yolu"
+    },
+    {
+      "id": "4e7d2756",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Westcliff'"
+    },
+    {
+      "id": "4f2d95b0",
+      "bank_id": "20bfb600",
+      "text": "Mezarlık"
+    },
+    {
+      "id": "4f4addf9",
+      "bank_id": "20bfb600",
+      "text": "Çile tedarik sorunları nedeniyle şu anda küçük çaplı bir kıtlık çekiyor. Fiyatlar arttı ancak sunabileceğiniz her türlü eşya için fazladan ödeme yapacaklar."
+    },
+    {
+      "id": "52ea0ae2",
+      "bank_id": "20bfb600",
+      "text": "Ölüler Salonu"
+    },
+    {
+      "id": "53a00d40",
+      "bank_id": "20bfb600",
+      "text": "Bower Gölü'ne gitmek için Cullis Geçidi'ni kullanın"
+    },
+    {
+      "id": "53be1794",
+      "bank_id": "20bfb600",
+      "text": "Pazar Yolu"
+    },
+    {
+      "id": "559b4991",
+      "bank_id": "20bfb600",
+      "text": "Dövmecide Büyük Kıtlık"
+    },
+    {
+      "id": "55e9d5d9",
+      "bank_id": "20bfb600",
+      "text": "Çile tedarik sorunları nedeniyle şu anda kıtlık çekiyor. Fiyatlar arttı ancak sunabileceğiniz her türlü eşya için iyi para ödeyecekler."
+    },
+    {
+      "id": "568ea02a",
+      "bank_id": "20bfb600",
+      "text": "Brightwood Yolu"
+    },
+    {
+      "id": "57add9b7",
+      "bank_id": "20bfb600",
+      "text": "Rookridge Yolu"
+    },
+    {
+      "id": "5cb7df98",
+      "bank_id": "20bfb600",
+      "text": "Handa İndirim"
+    },
+    {
+      "id": "5ce28fad",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Brightwood Çiftliği'"
+    },
+    {
+      "id": "5e2d1358",
+      "bank_id": "20bfb600",
+      "text": "Pınar Mağarası"
+    },
+    {
+      "id": "5f572aa5",
+      "bank_id": "20bfb600",
+      "text": "Çingene Kampı"
+    },
+    {
+      "id": "62c76790",
+      "bank_id": "20bfb600",
+      "text": "Eski Şehir Yolu"
+    },
+    {
+      "id": "63d31961",
+      "bank_id": "20bfb600",
+      "text": "Çile İndirimi"
+    },
+    {
+      "id": "65169cee",
+      "bank_id": "20bfb600",
+      "text": "Handa Devasa Kıtlık"
+    },
+    {
+      "id": "660eee43",
+      "bank_id": "20bfb600",
+      "text": "Çile önümüzdeki birkaç gün boyunca indirimde. Tüm ürünlerde kayda değer indirimler!"
+    },
+    {
+      "id": "6917c5e0",
+      "bank_id": "20bfb600",
+      "text": "Kader Odası"
+    },
+    {
+      "id": "6a9c31e7",
+      "bank_id": "20bfb600",
+      "text": "başka bir test"
+    },
+    {
+      "id": "6ae3e741",
+      "bank_id": "20bfb600",
+      "text": "Giles'ın Çiftliği"
+    },
+    {
+      "id": "6c5087a4",
+      "bank_id": "20bfb600",
+      "text": "Eski Kalay Madeni"
+    },
+    {
+      "id": "6c66ae01",
+      "bank_id": "20bfb600",
+      "text": "Kasaba Meydanı"
+    },
+    {
+      "id": "6dfe5e6b",
+      "bank_id": "20bfb600",
+      "text": "Wraithmarsh Yolu"
+    },
+    {
+      "id": "713c1032",
+      "bank_id": "20bfb600",
+      "text": "Bloodstone Mezarı"
+    },
+    {
+      "id": "715d43e2",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Hanı önümüzdeki birkaç gün boyunca küçük çaplı bir indirim yapıyor. İçecekler ucuz. Başka ne bilmeniz gerekiyor ki?"
+    },
+    {
+      "id": "7190d84e",
+      "bank_id": "20bfb600",
+      "text": "Eski Şehir Girişi"
+    },
+    {
+      "id": "743a5049",
+      "bank_id": "20bfb600",
+      "text": "Çile Devasa İndirimi"
+    },
+    {
+      "id": "781f1868",
+      "bank_id": "20bfb600",
+      "text": "Twinblade'in Mezarı"
+    },
+    {
+      "id": "797c8859",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Dövmecisi önümüzdeki birkaç gün boyunca küçük çaplı bir indirim yapıyor. Dövme yaptırmanıza engel olan şey paraysa, artık hiçbir bahaneniz kalmadı."
+    },
+    {
+      "id": "7a6f7ee4",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Westcliff Maden Ocağı'"
+    },
+    {
+      "id": "7a88ddbc",
+      "bank_id": "20bfb600",
+      "text": "Brightwood Kulesi"
+    },
+    {
+      "id": "7ab07cd0",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Oakfield'"
+    },
+    {
+      "id": "85897cf7",
+      "bank_id": "20bfb600",
+      "text": "Rıhtım"
+    },
+    {
+      "id": "8617ccb5",
+      "bank_id": "20bfb600",
+      "text": "Rookridge Yolu"
+    },
+    {
+      "id": "8693cc02",
+      "bank_id": "20bfb600",
+      "text": "Kule'de çok sayıda insanın hayatını kurtaran Kahramanın onuruna. Albion size teşekkür eder."
+    },
+    {
+      "id": "881d1d8c",
+      "bank_id": "20bfb600",
+      "text": "Handa Devasa İndirim"
+    },
+    {
+      "id": "8aaca16e",
+      "bank_id": "20bfb600",
+      "text": "Gölgeler Tapınağı"
+    },
+    {
+      "id": "8babe3d1",
+      "bank_id": "20bfb600",
+      "text": "Kasaba Hanı"
+    },
+    {
+      "id": "8bf58343",
+      "bank_id": "20bfb600",
+      "text": "© & ℗ 2008 Microsoft Corporation. Tüm hakları saklıdır. Lionhead Studios tarafından geliştirilmiştir.\n\nÇevrimiçi Etkileşimler ESRB Tarafından Derecelendirilmemiştir"
+    },
+    {
+      "id": "8fe575f6",
+      "bank_id": "20bfb600",
+      "text": "Handa Kıtlık"
+    },
+    {
+      "id": "93fca8b9",
+      "bank_id": "20bfb600",
+      "text": "Dövmecide Kıtlık"
+    },
+    {
+      "id": "97b45aae",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Yolu"
+    },
+    {
+      "id": "982ff816",
+      "bank_id": "20bfb600",
+      "text": "Wraithmarsh'a gitmek için Cullis Geçidi'ni kullanın"
+    },
+    {
+      "id": "992261e1",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Bloodstone İskelesi'"
+    },
+    {
+      "id": "9a7f3749",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Bower Gölü Kampı'"
+    },
+    {
+      "id": "9c2f2173",
+      "bank_id": "20bfb600",
+      "text": "Bowerstone Yolu"
+    },
+    {
+      "id": "9c5a1e17",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Reaver'ın Malikâne Bahçeleri'"
+    },
+    {
+      "id": "a212921d",
+      "bank_id": "20bfb600",
+      "text": "Çile tedarik sorunları nedeniyle şu anda büyük bir kıtlık çekiyor. Fiyatlar arttı ancak sunabileceğiniz her türlü eşya için devasa miktarlarda ödeme yapacaklar."
+    },
+    {
+      "id": "a4bed0c6",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Hanı önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. Tüm içeceklerde büyük indirim var (hatta DietRite logomuzla işaretlenmiş o 'hafif' içeceklerde bile!)."
+    },
+    {
+      "id": "a54f57a5",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Haydut Sahili'"
+    },
+    {
+      "id": "a5817674",
+      "bank_id": "20bfb600",
+      "text": "Rookridge Hanı"
+    },
+    {
+      "id": "a5c9237a",
+      "bank_id": "20bfb600",
+      "text": "Silah Tezgâhında Büyük Kıtlık"
+    },
+    {
+      "id": "a6fb2d88",
+      "bank_id": "20bfb600",
+      "text": "Oakfield Hanı önümüzdeki birkaç gün boyunca indirimde. Bir göz atın, pek çok hesaplı fırsat var."
+    },
+    {
+      "id": "a76492a4",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Hanı fıçı piyasasındaki dalgalanmalar nedeniyle şu anda küçük çaplı bir kıtlık çekiyor. Fazla yiyecek ve içeceklerinizi burada satabilirsiniz, zahmetinize fazlasıyla değecektir."
+    },
+    {
+      "id": "a90f288c",
+      "bank_id": "20bfb600",
+      "text": "Bower Gölü Yolu"
+    },
+    {
+      "id": "aa064ad3",
+      "bank_id": "20bfb600",
+      "text": "Mezarlık Malikânesi"
+    },
+    {
+      "id": "ac12d050",
+      "bank_id": "20bfb600",
+      "text": "Mezarlık"
+    },
+    {
+      "id": "ac215539",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Westcliff Atış Poligonu'"
+    },
+    {
+      "id": "acc75642",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Brightwood'"
+    },
+    {
+      "id": "adf56cc4",
+      "bank_id": "20bfb600",
+      "text": "Bower Gölü Yolu"
+    },
+    {
+      "id": "af54b0d3",
+      "bank_id": "20bfb600",
+      "text": "Bu heykel, Nurlu Albert'in kusursuz bir güneş ışınıyla aydınlanıp Işık Tapınağı'nı kurmasını sağlayan o ilahi idrak anını ölümsüzleştirir."
+    },
+    {
+      "id": "aff54f92",
+      "bank_id": "20bfb600",
+      "text": "Yankı Madeni"
+    },
+    {
+      "id": "b25ccc2c",
+      "bank_id": "20bfb600",
+      "text": "Brightwood Yolu"
+    },
+    {
+      "id": "b3ee27db",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Dövmecisi tedarik sorunları nedeniyle şu anda büyük bir kıtlık çekiyor. Fiyatlar arttı ancak sunabileceğiniz her türlü eşya için devasa miktarlarda ödeme yapacaklar."
+    },
+    {
+      "id": "b4440a36",
+      "bank_id": "20bfb600",
+      "text": "Bowerstone Yolu"
+    },
+    {
+      "id": "b75fd0a7",
+      "bank_id": "20bfb600",
+      "text": "Dövmecide Devasa İndirim"
+    },
+    {
+      "id": "b8fc3f10",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Hanı önümüzdeki birkaç gün boyunca indirimde. Hesaplı fırsatların kokusunu alabiliyorsanız, gelin biraz etrafı koklayın."
+    },
+    {
+      "id": "b9a069bb",
+      "bank_id": "20bfb600",
+      "text": "Çile Büyük Kıtlığı"
+    },
+    {
+      "id": "bb72103f",
+      "bank_id": "20bfb600",
+      "text": "Kasa"
+    },
+    {
+      "id": "c0065777",
+      "bank_id": "20bfb600",
+      "text": "Terk Edilmiş Hisar"
+    },
+    {
+      "id": "c0128a28",
+      "bank_id": "20bfb600",
+      "text": "Handa Büyük Kıtlık"
+    },
+    {
+      "id": "c1411366",
+      "bank_id": "20bfb600",
+      "text": "İnek ve Korse"
+    },
+    {
+      "id": "c197ffda",
+      "bank_id": "20bfb600",
+      "text": "Pazar Yolu"
+    },
+    {
+      "id": "c273b65b",
+      "bank_id": "20bfb600",
+      "text": "Westcliff Yolu"
+    },
+    {
+      "id": "c3bf115f",
+      "bank_id": "20bfb600",
+      "text": "Fairfax Bahçeleri"
+    },
+    {
+      "id": "c4ae8fc4",
+      "bank_id": "20bfb600",
+      "text": "Silah Tezgâhında Devasa Kıtlık"
+    },
+    {
+      "id": "c510b959",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Bowerstone Eski Şehir'"
+    },
+    {
+      "id": "c89ef5ca",
+      "bank_id": "20bfb600",
+      "text": "Kumkazı"
+    },
+    {
+      "id": "c8cd65b0",
+      "bank_id": "20bfb600",
+      "text": "Handa Büyük Kıtlık"
+    },
+    {
+      "id": "ca6fcc88",
+      "bank_id": "20bfb600",
+      "text": "Silah Tezgâhında Kıtlık"
+    },
+    {
+      "id": "cad4914a",
+      "bank_id": "20bfb600",
+      "text": "Shelley Mahzeni"
+    },
+    {
+      "id": "cbe1f7ae",
+      "bank_id": "20bfb600",
+      "text": "Oakfield Hanı önümüzdeki birkaç gün boyunca dev bir indirim yapıyor. Sarhoş olmayı kendinize borçlusunuz, değil mi?"
+    },
+    {
+      "id": "d28236aa",
+      "bank_id": "20bfb600",
+      "text": "Oakfield Hanı önümüzdeki birkaç gün boyunca küçük çaplı bir indirim yapıyor. Paranız yoksa ve susadıysanız bize uğrayın."
+    },
+    {
+      "id": "d2933281",
+      "bank_id": "20bfb600",
+      "text": "Gölge Mahkemesi"
+    },
+    {
+      "id": "d78b3761",
+      "bank_id": "20bfb600",
+      "text": "Rookridge Yolu"
+    },
+    {
+      "id": "da4077ed",
+      "bank_id": "20bfb600",
+      "text": "Gölgeler Tapınağı"
+    },
+    {
+      "id": "dae137a7",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Işık Tapınağı'"
+    },
+    {
+      "id": "dd331c3b",
+      "bank_id": "20bfb600",
+      "text": "Dövmecide İndirim"
+    },
+    {
+      "id": "de6fb021",
+      "bank_id": "20bfb600",
+      "text": "Kule Ana İskelesi'ne gitmek için Cullis Geçidi'ni kullanın"
+    },
+    {
+      "id": "e03875a1",
+      "bank_id": "20bfb600",
+      "text": "Dövmecide Devasa Kıtlık"
+    },
+    {
+      "id": "e1854418",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Gölgeler Tapınağı'"
+    },
+    {
+      "id": "e3e7b66b",
+      "bank_id": "20bfb600",
+      "text": "Gaddar Dövüş Tarzı: \"Blok\" öğrendiniz. Artık düşmanlarınızın yakın dövüş saldırılarını engellemek için <x_img> basılı tutabilirsiniz."
+    },
+    {
+      "id": "eb42ec9c",
+      "bank_id": "20bfb600",
+      "text": "Oakfield Hanı, öte dünyadan gelen aç bir varlığın musallat olması yüzünden şu anda küçük çaplı bir kıtlık çekiyor. Yiyecek ve içecek burada iyi para eder."
+    },
+    {
+      "id": "ecd120b6",
+      "bank_id": "20bfb600",
+      "text": "Handa Devasa Kıtlık"
+    },
+    {
+      "id": "ed66597a",
+      "bank_id": "20bfb600",
+      "text": "Lady Grey'in Mezarı"
+    },
+    {
+      "id": "ee1b01b4",
+      "bank_id": "20bfb600",
+      "text": "Bu heykel, sembolik Işık Çekici'nin eski Albion'un miadı dolmuş inançlarını nasıl yıktığını anar. Aynı zamanda Avo Tapınağı'nı yıkmak için kullanılan gerçek çekici de anmaktadır."
+    },
+    {
+      "id": "f012215a",
+      "bank_id": "20bfb600",
+      "text": "Fairfax Yeraltı Mezarı"
+    },
+    {
+      "id": "f1d39c56",
+      "bank_id": "20bfb600",
+      "text": "Mezarlık Yolu"
+    },
+    {
+      "id": "f3a23dec",
+      "bank_id": "20bfb600",
+      "text": "Taş Çember"
+    },
+    {
+      "id": "f522269e",
+      "bank_id": "20bfb600",
+      "text": "Bloodstone Yolu"
+    },
+    {
+      "id": "f6547394",
+      "bank_id": "20bfb600",
+      "text": "Mezarlık Yolu"
+    },
+    {
+      "id": "f6d1bee4",
+      "bank_id": "20bfb600",
+      "text": "Kuyu"
+    },
+    {
+      "id": "f7df5180",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: \"Kablosuz iletişim aygıtları! Arkadaşlarınızla uzaktan konuşun! (Maksimum mesafe: 1 metre)\""
+    },
+    {
+      "id": "fa4922cb",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: 'Bower Gölü'"
+    },
+    {
+      "id": "fadf5659",
+      "bank_id": "20bfb600",
+      "text": "Tabelada şöyle yazıyor: \"Sadece bu hafta! Bir baston alana bir bedava! İkiye bölüp yürüme desteği keyfinizi ikiye katlayın!\""
+    },
+    {
+      "id": "ff14244c",
+      "bank_id": "20bfb600",
+      "text": "Bloodstone Malikanesi"
+    },
+    {
+      "id": "ffa074f0",
+      "bank_id": "20bfb600",
+      "text": "Handa İndirim"
+    }
+  ]
+}

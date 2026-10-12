@@ -1,0 +1,976 @@
+{
+  "bank_id": "10532802",
+  "total_strings": 194,
+  "strings": [
+    {
+      "id": "0058f03e",
+      "bank_id": "10532802",
+      "text": "Ucuz fiyatlar tam burada."
+    },
+    {
+      "id": "05ae48a8",
+      "bank_id": "10532802",
+      "text": "Fiyatlarım gözünüzü korkutmasın. Hepsi buna değer!"
+    },
+    {
+      "id": "0a1af250",
+      "bank_id": "10532802",
+      "text": "Günlük ihtiyaçlar için pratik aletler."
+    },
+    {
+      "id": "0a1af252",
+      "bank_id": "10532802",
+      "text": "En yeni aletlerimize ve eşyalarımıza bir göz atın."
+    },
+    {
+      "id": "0a1af253",
+      "bank_id": "10532802",
+      "text": "Stoklarımızda son derece kullanışlı eşyalar var."
+    },
+    {
+      "id": "10ae59d9",
+      "bank_id": "10532802",
+      "text": "Pahalıyız ama iyiyiz."
+    },
+    {
+      "id": "134d109d",
+      "bank_id": "10532802",
+      "text": "Aradığınızı burada bulamıyorsanız, almaya değmez demektir."
+    },
+    {
+      "id": "134d109e",
+      "bank_id": "10532802",
+      "text": "Şu dip yapmış fiyatlarımıza hayran kalacaksınız."
+    },
+    {
+      "id": "134d109f",
+      "bank_id": "10532802",
+      "text": "Paranızı burada harcamalısınız. Böylece benim olabilir."
+    },
+    {
+      "id": "1bc27e50",
+      "bank_id": "10532802",
+      "text": "Üzerine oturacak bir şey mi? Üzerinde yemek yiyecek bir şey mi?"
+    },
+    {
+      "id": "1bc27e51",
+      "bank_id": "10532802",
+      "text": "Evinizi ahşap eşyalarla donatın!"
+    },
+    {
+      "id": "1bc27e52",
+      "bank_id": "10532802",
+      "text": "Dolaplar, sandalyeler, masalar; hepsi ve daha fazlası tam burada."
+    },
+    {
+      "id": "1e4d21cc",
+      "bank_id": "10532802",
+      "text": "Albion'daki en kaliteli ürünlere sahibiz."
+    },
+    {
+      "id": "1e4d21ce",
+      "bank_id": "10532802",
+      "text": "Her türlü malımız var, her türlü."
+    },
+    {
+      "id": "1e4d21cf",
+      "bank_id": "10532802",
+      "text": "Çekinmeyin, etrafa bir göz atın."
+    },
+    {
+      "id": "206c6454",
+      "bank_id": "10532802",
+      "text": "Kaderinizi şansa bırakmayın, biraz iksir alın."
+    },
+    {
+      "id": "206c6456",
+      "bank_id": "10532802",
+      "text": "Can, mana ve çok daha fazlası sevimli küçük şişelerde."
+    },
+    {
+      "id": "206c6457",
+      "bank_id": "10532802",
+      "text": "Bir iksire ne zaman ihtiyaç duyacağınızı asla bilemezsiniz."
+    },
+    {
+      "id": "220fde82",
+      "bank_id": "10532802",
+      "text": "Dövme sadece sarhoş geceler için değil, bir ömür boyu içindir!"
+    },
+    {
+      "id": "220fde87",
+      "bank_id": "10532802",
+      "text": "Benimkinden daha iyi dövme bulamazsınız!"
+    },
+    {
+      "id": "22674c48",
+      "bank_id": "10532802",
+      "text": "Görünümünüzü yenileyin! Tepeden tırnağa yenilenin!"
+    },
+    {
+      "id": "24c28cbc",
+      "bank_id": "10532802",
+      "text": "Eviniz biraz boş mu görünüyor? İhtiyacınız olan tüm mobilyalar bizde."
+    },
+    {
+      "id": "24c28cbd",
+      "bank_id": "10532802",
+      "text": "Bir sandalye daha mı kırdınız? Yeni bir masa mı lazım?"
+    },
+    {
+      "id": "24c28cbf",
+      "bank_id": "10532802",
+      "text": "Yeni mobilyalara mı ihtiyacınız var?"
+    },
+    {
+      "id": "256c6c75",
+      "bank_id": "10532802",
+      "text": "İksirlerimizin yüzde yüz güvenli olduğu garantilidir."
+    },
+    {
+      "id": "256c6c76",
+      "bank_id": "10532802",
+      "text": "Sağlam bir iksir stoğu olmadan savaşa girmeyin."
+    },
+    {
+      "id": "256c6c77",
+      "bank_id": "10532802",
+      "text": "Aşk iksiri yok maalesef. Yasaklandılar."
+    },
+    {
+      "id": "29084d61",
+      "bank_id": "10532802",
+      "text": "Mobilyalarımız sizi büyüleyecek!"
+    },
+    {
+      "id": "2a1162bb",
+      "bank_id": "10532802",
+      "text": "İndirimimize hoş geldiniz!"
+    },
+    {
+      "id": "2a1162bc",
+      "bank_id": "10532802",
+      "text": "Büyük indirim başladı!"
+    },
+    {
+      "id": "2a1162bd",
+      "bank_id": "10532802",
+      "text": "Tüm gözde eşyalar indirimde!"
+    },
+    {
+      "id": "2a1162be",
+      "bank_id": "10532802",
+      "text": "Büyük indirim başladı!"
+    },
+    {
+      "id": "2bc1a008",
+      "bank_id": "10532802",
+      "text": "Ruj konusunda tam bir dehayım. Görmek ister misiniz?"
+    },
+    {
+      "id": "2bc1a00a",
+      "bank_id": "10532802",
+      "text": "Hiçbir şey makyaj kadar şık duramaz."
+    },
+    {
+      "id": "2bc1a00b",
+      "bank_id": "10532802",
+      "text": "Tepeden tırnağa bir bakımla tüm görünüşünüzü değiştirebiliriz."
+    },
+    {
+      "id": "2d675df9",
+      "bank_id": "10532802",
+      "text": "Yaşlı mı hissediyorsunuz? Hemen görünümünüzü yenileyin!"
+    },
+    {
+      "id": "2da4214d",
+      "bank_id": "10532802",
+      "text": "Burada bir hediye bulamıyorsanız, vermeye değmez demektir!"
+    },
+    {
+      "id": "30085864",
+      "bank_id": "10532802",
+      "text": "Yeni bir şey yapın. Bir sandalye satın alın!"
+    },
+    {
+      "id": "30c1a829",
+      "bank_id": "10532802",
+      "text": "Ruj, rimel... Sizi bir kraliçe gibi gösterebilirim."
+    },
+    {
+      "id": "30c1a82a",
+      "bank_id": "10532802",
+      "text": "Kırışıklıkları unutun, ben kozmetik ustasıyım."
+    },
+    {
+      "id": "30c1a82b",
+      "bank_id": "10532802",
+      "text": "Şu benleri gizleyin ve makyajımızla bir oyuncak bebek gibi görünün."
+    },
+    {
+      "id": "33117088",
+      "bank_id": "10532802",
+      "text": "Tüm ürünler tükenmeli!"
+    },
+    {
+      "id": "33117089",
+      "bank_id": "10532802",
+      "text": "Bir daha görülemeyecek indirimler!"
+    },
+    {
+      "id": "3311708b",
+      "bank_id": "10532802",
+      "text": "Büyük indirim başladı!"
+    },
+    {
+      "id": "3311708e",
+      "bank_id": "10532802",
+      "text": "Büyük fiyat indirimleri!"
+    },
+    {
+      "id": "33f85638",
+      "bank_id": "10532802",
+      "text": "Mücevherlerimiz ve takılarımızla seçkinlerin arasına katılın."
+    },
+    {
+      "id": "33f8563a",
+      "bank_id": "10532802",
+      "text": "Cebimde bir mücevher var. Görmek ister misiniz?"
+    },
+    {
+      "id": "33f8563b",
+      "bank_id": "10532802",
+      "text": "Değerli bir taştan daha kıymetli hiçbir şey yoktur."
+    },
+    {
+      "id": "357f39af",
+      "bank_id": "10532802",
+      "text": "Köpek gibi görünmeyin! Saçınızı kestirin!"
+    },
+    {
+      "id": "36a42f98",
+      "bank_id": "10532802",
+      "text": "Sevdikleriniz hediyeleri hak ediyor! Ve ben de onları satıyorum!"
+    },
+    {
+      "id": "36a42f9b",
+      "bank_id": "10532802",
+      "text": "Hediye mi arıyorsunuz, doğru kadına geldiniz."
+    },
+    {
+      "id": "38f85dd9",
+      "bank_id": "10532802",
+      "text": "Harika mücevherlerimiz var."
+    },
+    {
+      "id": "38f85dda",
+      "bank_id": "10532802",
+      "text": "Takılarımızı görmek ister misiniz?"
+    },
+    {
+      "id": "38f85ddb",
+      "bank_id": "10532802",
+      "text": "Paranız yetiyorsa değerli taşlar burada."
+    },
+    {
+      "id": "407f4ade",
+      "bank_id": "10532802",
+      "text": "Kasabanın en özgün saç kesimleri!"
+    },
+    {
+      "id": "4dc170ad",
+      "bank_id": "10532802",
+      "text": "Başka hiçbir yerde daha ucuzunu bulamazsınız."
+    },
+    {
+      "id": "52c1784c",
+      "bank_id": "10532802",
+      "text": "Gelin ve yerlerde sürünen fiyatlarımı görün!"
+    },
+    {
+      "id": "59393d2c",
+      "bank_id": "10532802",
+      "text": "Para kazanmak ister misiniz? Stok yapmamıza yardım edebilirsiniz."
+    },
+    {
+      "id": "59393d2d",
+      "bank_id": "10532802",
+      "text": "Bazı mallarımız azalıyor. Tüccarlar için harika bir fırsat."
+    },
+    {
+      "id": "59393d2e",
+      "bank_id": "10532802",
+      "text": "Bazı ürünlerimiz tükendi. Yardımcı olabilir misiniz?"
+    },
+    {
+      "id": "5abd7a9d",
+      "bank_id": "10532802",
+      "text": "Saçınızla harikalar yaratabilirim."
+    },
+    {
+      "id": "5abd7a9e",
+      "bank_id": "10532802",
+      "text": "Yeni bir saç modeli denemenizin vakti gelmedi mi?"
+    },
+    {
+      "id": "5abd7a9f",
+      "bank_id": "10532802",
+      "text": "Şu saçlarınıza bir el atalım."
+    },
+    {
+      "id": "5d3d7e96",
+      "bank_id": "10532802",
+      "text": "Tüm iksir ihtiyaçlarınız için bana uğrayın."
+    },
+    {
+      "id": "60399875",
+      "bank_id": "10532802",
+      "text": "Patentli makyajımla gençliğinizi yeniden keşfedin!"
+    },
+    {
+      "id": "604d285b",
+      "bank_id": "10532802",
+      "text": "Altınlarınızı takılara harcayın!"
+    },
+    {
+      "id": "62394b78",
+      "bank_id": "10532802",
+      "text": "Bazı eşyalarımız oldukça kıt. Akıllı tüccarlar için güzel bir fırsat var."
+    },
+    {
+      "id": "62394b79",
+      "bank_id": "10532802",
+      "text": "Bazı mallarımız epey azaldı. Belki yardımcı olabilirsiniz."
+    },
+    {
+      "id": "62394b7b",
+      "bank_id": "10532802",
+      "text": "Bazı mallarda kıtlık çekiyoruz. Yardım edebilecek herkese iyi para var."
+    },
+    {
+      "id": "62b81373",
+      "bank_id": "10532802",
+      "text": "Büyük indirim başladı! Seçili ürünlerde fiyatlar kırıldı!"
+    },
+    {
+      "id": "62dfee01",
+      "bank_id": "10532802",
+      "text": "Alet mi lazım? Hepsi bizde!"
+    },
+    {
+      "id": "643d8993",
+      "bank_id": "10532802",
+      "text": "Her derde deva iksirler!"
+    },
+    {
+      "id": "654d307a",
+      "bank_id": "10532802",
+      "text": "Değerli taşlarımız en iyisidir!"
+    },
+    {
+      "id": "654d307b",
+      "bank_id": "10532802",
+      "text": "Burada sahte mal yok! Yalnızca harika mücevherler!"
+    },
+    {
+      "id": "65bd8bcc",
+      "bank_id": "10532802",
+      "text": "Bir kırpma, bir perma, ne isterseniz."
+    },
+    {
+      "id": "65bd8bce",
+      "bank_id": "10532802",
+      "text": "Size yepyeni bir görünüm kazandırabilirim."
+    },
+    {
+      "id": "65bd8bcf",
+      "bank_id": "10532802",
+      "text": "Yeni bir saç kesimine ne dersiniz?"
+    },
+    {
+      "id": "65ec9b6e",
+      "bank_id": "10532802",
+      "text": "Yüzük mü lazım? Kolye mi çekiyor canınız? Öyleyse bana gelin!"
+    },
+    {
+      "id": "6739a378",
+      "bank_id": "10532802",
+      "text": "Kırışıklıkları gizleyin! Biraz makyaj yapın!"
+    },
+    {
+      "id": "67dff620",
+      "bank_id": "10532802",
+      "text": "Her ihtiyacınıza uygun aletler!"
+    },
+    {
+      "id": "67ef69d2",
+      "bank_id": "10532802",
+      "text": "Stoklarım azaldı. Etrafta hiç tüccar var mı?"
+    },
+    {
+      "id": "682c5e04",
+      "bank_id": "10532802",
+      "text": "Fiyatlar yüksek ama eşyalar harika!"
+    },
+    {
+      "id": "682c5e07",
+      "bank_id": "10532802",
+      "text": "Fiyatlarım yüksek olabilir ama en iyisinden başkası bulunmaz bende."
+    },
+    {
+      "id": "6a5d0ba5",
+      "bank_id": "10532802",
+      "text": "Herkesin makyaja ihtiyacı vardır!"
+    },
+    {
+      "id": "6c71b8f3",
+      "bank_id": "10532802",
+      "text": "Bir saç kesimiyle hayatınızı dönüştürün!"
+    },
+    {
+      "id": "6ced9d94",
+      "bank_id": "10532802",
+      "text": "Hiçbir yerde daha ucuz ürün bulamazsınız."
+    },
+    {
+      "id": "6ced9d96",
+      "bank_id": "10532802",
+      "text": "Burada çılgın fiyatlar yok."
+    },
+    {
+      "id": "6ced9d97",
+      "bank_id": "10532802",
+      "text": "Ucuzuz ama yine de iyiyiz."
+    },
+    {
+      "id": "6cff7f52",
+      "bank_id": "10532802",
+      "text": "Dudaklarınız üşümesin. Bir bıyık bırakın."
+    },
+    {
+      "id": "6e1e2dfa",
+      "bank_id": "10532802",
+      "text": "Dövmelerinizi benden yaptırın! Hiç acıtmaz!"
+    },
+    {
+      "id": "6e1e2dff",
+      "bank_id": "10532802",
+      "text": "Bugün bir dövme yaptırın!"
+    },
+    {
+      "id": "6eef74df",
+      "bank_id": "10532802",
+      "text": "Stok yapmamıza yardım edin!"
+    },
+    {
+      "id": "6f2c6909",
+      "bank_id": "10532802",
+      "text": "Pahalı olabiliriz ama yalnızca en iyisini bulundururuz!"
+    },
+    {
+      "id": "70ecac99",
+      "bank_id": "10532802",
+      "text": "Herkese mücevher!"
+    },
+    {
+      "id": "70ecac9c",
+      "bank_id": "10532802",
+      "text": "Kolyeler, yüzükler ve diğer vücut süsleri!"
+    },
+    {
+      "id": "70ecac9e",
+      "bank_id": "10532802",
+      "text": "Takılarımız ışıltısıyla gözlerinizi kamaştıracak!"
+    },
+    {
+      "id": "70ecac9f",
+      "bank_id": "10532802",
+      "text": "Aile yadigârı takılar! Dostluk takıları! Ve diğer mücevherler!"
+    },
+    {
+      "id": "715d16a8",
+      "bank_id": "10532802",
+      "text": "On yaş gençleşin! Yüzünüze biraz makyaj sürün!"
+    },
+    {
+      "id": "71eda5b5",
+      "bank_id": "10532802",
+      "text": "Fiyatlarımız düşük ama standartlarımız yüksek."
+    },
+    {
+      "id": "71eda5b6",
+      "bank_id": "10532802",
+      "text": "Gereğinden fazla harcamayın, buradan alışveriş yapın."
+    },
+    {
+      "id": "71eda5b7",
+      "bank_id": "10532802",
+      "text": "Düşük fiyatlarımıza göz atın!"
+    },
+    {
+      "id": "73ff8a5f",
+      "bank_id": "10532802",
+      "text": "Bıyıkla tam bir fiyaka yapın!"
+    },
+    {
+      "id": "751f2ca6",
+      "bank_id": "10532802",
+      "text": "İksirler! İksirlerinizi buradan alın!"
+    },
+    {
+      "id": "751f2ca7",
+      "bank_id": "10532802",
+      "text": "Hazırlıksız yakalanmayın! Biraz iksir satın alın!"
+    },
+    {
+      "id": "755c8327",
+      "bank_id": "10532802",
+      "text": "Seçkin yiyeceklerimizle karnınızı doyurun!"
+    },
+    {
+      "id": "7771ca22",
+      "bank_id": "10532802",
+      "text": "Yeni bir saç modeli yaptırın ve hayatınızı dönüştürün!"
+    },
+    {
+      "id": "7a1f3446",
+      "bank_id": "10532802",
+      "text": "Her duruma uygun iksirler!"
+    },
+    {
+      "id": "7a5c8ac6",
+      "bank_id": "10532802",
+      "text": "Yemek arzunuzu burada dindirin!"
+    },
+    {
+      "id": "84e12d6a",
+      "bank_id": "10532802",
+      "text": "Harika bıyıklarımız sayesinde bir daha asla yemek ziyan etmeyin!"
+    },
+    {
+      "id": "89e1350b",
+      "bank_id": "10532802",
+      "text": "Hiçbir şey bir Albion bıyığı kadar \"asalet\" katamaz!"
+    },
+    {
+      "id": "8a682d0d",
+      "bank_id": "10532802",
+      "text": "Acısız dövmeler!"
+    },
+    {
+      "id": "8f68352c",
+      "bank_id": "10532802",
+      "text": "Yeni bir dövmeyle ömür boyu izinizi taşıyın!"
+    },
+    {
+      "id": "a864aaf2",
+      "bank_id": "10532802",
+      "text": "İhtiyaç duyabileceğiniz her şey ve çok daha fazlası tam burada!"
+    },
+    {
+      "id": "af1f8ec2",
+      "bank_id": "10532802",
+      "text": "En derin madenlerden, en iyi mücevherler."
+    },
+    {
+      "id": "b364bc20",
+      "bank_id": "10532802",
+      "text": "İhtiyacınız olan şey tam da doğru fiyata bende var."
+    },
+    {
+      "id": "b364bc23",
+      "bank_id": "10532802",
+      "text": "Öyle herkesten almayın! Benden alın!"
+    },
+    {
+      "id": "b61f99cf",
+      "bank_id": "10532802",
+      "text": "Mücevherler ve takılar!"
+    },
+    {
+      "id": "bb65efeb",
+      "bank_id": "10532802",
+      "text": "Hayatınızın saç kesimi için bana gelin!"
+    },
+    {
+      "id": "c0eac4f1",
+      "bank_id": "10532802",
+      "text": "Kasabanın en sağlam mobilyaları!"
+    },
+    {
+      "id": "c465fe3e",
+      "bank_id": "10532802",
+      "text": "Yeni bir saç modeli mi lazım? Gelin bir görüşelim."
+    },
+    {
+      "id": "c5eacc90",
+      "bank_id": "10532802",
+      "text": "Mobilyalarınızı buradan satın alın!"
+    },
+    {
+      "id": "cc1e0ba8",
+      "bank_id": "10532802",
+      "text": "Ucuz değiliz ama yalnızca en iyisine sahibiz."
+    },
+    {
+      "id": "cc1e0baa",
+      "bank_id": "10532802",
+      "text": "En yüksek altını ödemeniz gerekecek ama buna değer."
+    },
+    {
+      "id": "cc1e0bab",
+      "bank_id": "10532802",
+      "text": "Kalite istiyorsanız, bedelini ödemeniz gerekir maalesef."
+    },
+    {
+      "id": "ced7d7d4",
+      "bank_id": "10532802",
+      "text": "Bütün oburca arzularınızı tatmin edecek besleyici ürünler."
+    },
+    {
+      "id": "ced7d7d6",
+      "bank_id": "10532802",
+      "text": "Herkesin yemeye ihtiyacı vardır!"
+    },
+    {
+      "id": "ced7d7d7",
+      "bank_id": "10532802",
+      "text": "Doyurucu yemeklerimiz cebinize tam oturacaktır."
+    },
+    {
+      "id": "cf7f7cf0",
+      "bank_id": "10532802",
+      "text": "Hiçbir şey bir dövme kadar asalet gösteremez."
+    },
+    {
+      "id": "cf7f7cf1",
+      "bank_id": "10532802",
+      "text": "Dövme yaptıracak kadar cesur musunuz?"
+    },
+    {
+      "id": "cf7f7cf3",
+      "bank_id": "10532802",
+      "text": "Bir dövme ister misiniz? Hiç acıtmayacak."
+    },
+    {
+      "id": "d0d3cdbf",
+      "bank_id": "10532802",
+      "text": "Burnunuza bir arkadaş edindirin, bıyık bırakın!"
+    },
+    {
+      "id": "d11e1349",
+      "bank_id": "10532802",
+      "text": "Fiyatlar yüksek olabilir ama kalitemiz rakipsizdir."
+    },
+    {
+      "id": "d11e134a",
+      "bank_id": "10532802",
+      "text": "Yüksek fiyatlar bizim suçumuz değil, tamamen piyasa koşulları."
+    },
+    {
+      "id": "d11e134b",
+      "bank_id": "10532802",
+      "text": "Buradan alışveriş yapmak için zengin olmanıza gerek yok ama faydası olur."
+    },
+    {
+      "id": "d3d7dff5",
+      "bank_id": "10532802",
+      "text": "Aç gezmeyin, paket öğle yemeklerimizi deneyin!"
+    },
+    {
+      "id": "d3d7dff6",
+      "bank_id": "10532802",
+      "text": "Harika yemekler mevcut. Pişirmeye hiç gerek yok."
+    },
+    {
+      "id": "d3d7dff7",
+      "bank_id": "10532802",
+      "text": "Yiyeceklerimizle karnınızı tıka basa doyurun."
+    },
+    {
+      "id": "d67f87f4",
+      "bank_id": "10532802",
+      "text": "Hadi ama! Dövme istediğinizi biliyorsunuz. Bebek gibi davranmayın."
+    },
+    {
+      "id": "d67f87f5",
+      "bank_id": "10532802",
+      "text": "İğnelerimizin hiçbiri paslı değil. Söz veriyorum."
+    },
+    {
+      "id": "d67f87f6",
+      "bank_id": "10532802",
+      "text": "Güvenin bana, ben harika bir vücut sanatçısıyım."
+    },
+    {
+      "id": "d8a2c241",
+      "bank_id": "10532802",
+      "text": "İndirim! İndirim!"
+    },
+    {
+      "id": "d8a2c242",
+      "bank_id": "10532802",
+      "text": "İndirim! İndirim!"
+    },
+    {
+      "id": "d8a2c243",
+      "bank_id": "10532802",
+      "text": "İndirim! İndirim!"
+    },
+    {
+      "id": "d8a2c244",
+      "bank_id": "10532802",
+      "text": "İndirim! İndirim!"
+    },
+    {
+      "id": "dbd3deee",
+      "bank_id": "10532802",
+      "text": "Daha sofistike görünmeye mi ihtiyacınız var? Bıyık bırakın!"
+    },
+    {
+      "id": "deae5754",
+      "bank_id": "10532802",
+      "text": "Hediye mi lazım? Benimle konuşun!"
+    },
+    {
+      "id": "e12bd11d",
+      "bank_id": "10532802",
+      "text": "Şu özel kişiye bir hediye mi?"
+    },
+    {
+      "id": "e12bd11e",
+      "bank_id": "10532802",
+      "text": "Hediye mi arıyorsunuz? Doğru yere geldiniz."
+    },
+    {
+      "id": "e12bd11f",
+      "bank_id": "10532802",
+      "text": "Varyemezlik yapmayın, birine bir hediye alın."
+    },
+    {
+      "id": "e3a2d3f0",
+      "bank_id": "10532802",
+      "text": "İndirim! İndirim!"
+    },
+    {
+      "id": "e3a2d3f2",
+      "bank_id": "10532802",
+      "text": "İndirim! İndirim!"
+    },
+    {
+      "id": "e3a2d3f3",
+      "bank_id": "10532802",
+      "text": "İndirim! İndirim!"
+    },
+    {
+      "id": "e3a2d3f5",
+      "bank_id": "10532802",
+      "text": "İndirim! İndirim!"
+    },
+    {
+      "id": "e3fb9c71",
+      "bank_id": "10532802",
+      "text": "Mobilyalarımın inanılmaz işçiliğini deneyin!"
+    },
+    {
+      "id": "e9185f28",
+      "bank_id": "10532802",
+      "text": "Burası kanlı canlı bir maceracıya ait, biliyorsunuz değil mi!"
+    },
+    {
+      "id": "e9185f2d",
+      "bank_id": "10532802",
+      "text": "Burası gerçek bir Kahraman'a ait. Başka hiçbir yerden alışveriş yapmayın!"
+    },
+    {
+      "id": "e9185f2e",
+      "bank_id": "10532802",
+      "text": "Büyük bir maceracıdan alışveriş yapmak ister misiniz? Öyleyse buradan alın!"
+    },
+    {
+      "id": "e9185f2f",
+      "bank_id": "10532802",
+      "text": "Bu dükkân bir maceracıya ait, biliyorsunuz. Yani fazlasıyla özel."
+    },
+    {
+      "id": "e9ae6885",
+      "bank_id": "10532802",
+      "text": "Sevdiğinize güzel bir hediye alın!"
+    },
+    {
+      "id": "eafba774",
+      "bank_id": "10532802",
+      "text": "En yüksek kalitede sandalyeler ve masalar!"
+    },
+    {
+      "id": "ec2be24c",
+      "bank_id": "10532802",
+      "text": "Birine değer verdiğinizi göstermek istiyorsanız hediyeliklerimizle asla yanılmazsınız."
+    },
+    {
+      "id": "ec2be24e",
+      "bank_id": "10532802",
+      "text": "Romantik hediyeler, dostça hediyeler; hepsi bizde var."
+    },
+    {
+      "id": "ec2be24f",
+      "bank_id": "10532802",
+      "text": "Herkes cömert insanları sever. Hediyelerimize bir göz atın."
+    },
+    {
+      "id": "ed225d08",
+      "bank_id": "10532802",
+      "text": "Bıyık son moda biliyorsunuz."
+    },
+    {
+      "id": "ed225d0a",
+      "bank_id": "10532802",
+      "text": "Bırakın size bir bıyık bırakayım. Hadi ama!"
+    },
+    {
+      "id": "ed225d0b",
+      "bank_id": "10532802",
+      "text": "Hanımlar bıyığa bayılır. Şey, bazıları bayılır. Görünüşe göre."
+    },
+    {
+      "id": "eeed2a60",
+      "bank_id": "10532802",
+      "text": "Gelin şu yerlerde sürünen fiyatlarıma bakın!"
+    },
+    {
+      "id": "eeed2a63",
+      "bank_id": "10532802",
+      "text": "Tımarhanenin bu yakasında daha iyi fiyat bulamazsınız!"
+    },
+    {
+      "id": "f2226529",
+      "bank_id": "10532802",
+      "text": "Bir bıyıkla son derece asil görünürdünüz."
+    },
+    {
+      "id": "f222652a",
+      "bank_id": "10532802",
+      "text": "Dudağınız pek bir çıplak görünüyor. Bıyığa ne dersiniz?"
+    },
+    {
+      "id": "f222652b",
+      "bank_id": "10532802",
+      "text": "Bence ihtiyacınız olan şey güzel, heybetli bir pala bıyık."
+    },
+    {
+      "id": "f4187059",
+      "bank_id": "10532802",
+      "text": "Gerçek bir maceracı tarafından test edilip onaylanmış eşyaları alabileceğiniz tek yer!"
+    },
+    {
+      "id": "f418705c",
+      "bank_id": "10532802",
+      "text": "Gerçek bir maceracının mülkiyetindeyiz, mallarımızın iyi olduğunu bilirsiniz!"
+    },
+    {
+      "id": "f418705e",
+      "bank_id": "10532802",
+      "text": "Sahibimiz ünlü biri! Bu da daha iyi olduğumuz anlamına gelir!"
+    },
+    {
+      "id": "f418705f",
+      "bank_id": "10532802",
+      "text": "Mallarınızı buradan alın! Albion'un en ünlü maceracılarından birine ait olan dükkân!"
+    },
+    {
+      "id": "f4822c9b",
+      "bank_id": "10532802",
+      "text": "Sizi üzen her şeyi bir iksirle iyileştirin!"
+    },
+    {
+      "id": "f504ca9b",
+      "bank_id": "10532802",
+      "text": "İndirimimiz var!"
+    },
+    {
+      "id": "f504ca9c",
+      "bank_id": "10532802",
+      "text": "Bu hayatta bir kez karşılaşılacak bir indirim!"
+    },
+    {
+      "id": "f504ca9d",
+      "bank_id": "10532802",
+      "text": "Gelin harika indirimimizi görün!"
+    },
+    {
+      "id": "f504ca9e",
+      "bank_id": "10532802",
+      "text": "Gelmiş geçmiş en iyi indirim!"
+    },
+    {
+      "id": "f5ed3565",
+      "bank_id": "10532802",
+      "text": "Resmen çıldırdım! Şu dip yapmış fiyatlarımla!"
+    },
+    {
+      "id": "f758e1eb",
+      "bank_id": "10532802",
+      "text": "Mallarımı satın alın! Pişman olmayacaksınız!"
+    },
+    {
+      "id": "f98234b9",
+      "bank_id": "10532802",
+      "text": "Her duruma uygun iksirler!"
+    },
+    {
+      "id": "f98234ba",
+      "bank_id": "10532802",
+      "text": "İhtiyacınız iksir ise, gelin ve beni görün!"
+    },
+    {
+      "id": "f98234bb",
+      "bank_id": "10532802",
+      "text": "İstediğiniz iksir bende yoksa, almaya değmez demektir!"
+    },
+    {
+      "id": "f98234bc",
+      "bank_id": "10532802",
+      "text": "Bir iksir satın alın!"
+    },
+    {
+      "id": "fcb836e8",
+      "bank_id": "10532802",
+      "text": "Ben toplanıp gitmeden ürünlerimi kapın!"
+    },
+    {
+      "id": "fe04d8e8",
+      "bank_id": "10532802",
+      "text": "Gelin bakın indirimde neler var!"
+    },
+    {
+      "id": "fe04d8e9",
+      "bank_id": "10532802",
+      "text": "Gelmiş geçmiş en iyi indirimimiz!"
+    },
+    {
+      "id": "fe04d8eb",
+      "bank_id": "10532802",
+      "text": "En inanılmaz indirimimiz!"
+    },
+    {
+      "id": "fe04d8ee",
+      "bank_id": "10532802",
+      "text": "Büyük indirim başladı!"
+    },
+    {
+      "id": "ff1ae121",
+      "bank_id": "10532802",
+      "text": "Sizi bekleyen birçok kullanışlı ürünümüz var."
+    },
+    {
+      "id": "ff1ae122",
+      "bank_id": "10532802",
+      "text": "Pratik aletler burada!"
+    },
+    {
+      "id": "ff1ae123",
+      "bank_id": "10532802",
+      "text": "Her yerde bulabileceğiniz en kullanışlı aletler bizde!"
+    }
+  ]
+}

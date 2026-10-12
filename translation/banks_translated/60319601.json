@@ -1,0 +1,1706 @@
+{
+  "bank_id": "60319601",
+  "total_strings": 340,
+  "strings": [
+    {
+      "id": "005d0155",
+      "bank_id": "60319601",
+      "text": "Vay canına! Selam Belediye Başkanı!"
+    },
+    {
+      "id": "0158e911",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0158e912",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0158e913",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0158e914",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0158e915",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0158e916",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0158e917",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "035df746",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "03f78028",
+      "bank_id": "60319601",
+      "text": "Merhaba, Seçilmiş Kişi."
+    },
+    {
+      "id": "03f78029",
+      "bank_id": "60319601",
+      "text": "Merhaba, Seçilmiş Kişi."
+    },
+    {
+      "id": "03f7802a",
+      "bank_id": "60319601",
+      "text": "Merhaba, Seçilmiş Kişi."
+    },
+    {
+      "id": "03f7802b",
+      "bank_id": "60319601",
+      "text": "Merhaba, Seçilmiş Kişi."
+    },
+    {
+      "id": "03f7802c",
+      "bank_id": "60319601",
+      "text": "Merhaba, Seçilmiş Kişi."
+    },
+    {
+      "id": "03f7802e",
+      "bank_id": "60319601",
+      "text": "Merhaba, Seçilmiş Kişi."
+    },
+    {
+      "id": "03f7802f",
+      "bank_id": "60319601",
+      "text": "Merhaba, Seçilmiş Kişi."
+    },
+    {
+      "id": "06c028cf",
+      "bank_id": "60319601",
+      "text": "Vay canına! Selam Kraliçe!"
+    },
+    {
+      "id": "0c58fa40",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0c58fa42",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0c58fa43",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0c58fa44",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0c58fa45",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0c58fa46",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "0c58fa47",
+      "bank_id": "60319601",
+      "text": "Merhaba, Salata Kaçkını."
+    },
+    {
+      "id": "109016b7",
+      "bank_id": "60319601",
+      "text": "Selam Kral!"
+    },
+    {
+      "id": "14628cae",
+      "bank_id": "60319601",
+      "text": "Merhaba, Gölge İblisi."
+    },
+    {
+      "id": "179021ba",
+      "bank_id": "60319601",
+      "text": "Vay canına! Selam Kral!"
+    },
+    {
+      "id": "19356577",
+      "bank_id": "60319601",
+      "text": "Merhaba, Şakacı."
+    },
+    {
+      "id": "1d629afb",
+      "bank_id": "60319601",
+      "text": "Merhaba, Gölge İblisi."
+    },
+    {
+      "id": "2035707a",
+      "bank_id": "60319601",
+      "text": "Merhaba, Şakacı."
+    },
+    {
+      "id": "2458bcd0",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Belediye Başkanı."
+    },
+    {
+      "id": "2458bcd1",
+      "bank_id": "60319601",
+      "text": "Selam Belediye Başkanı!"
+    },
+    {
+      "id": "2458bcd3",
+      "bank_id": "60319601",
+      "text": "Hey, Belediye Başkanı bu! Nasıl gidiyor?"
+    },
+    {
+      "id": "2458bcd4",
+      "bank_id": "60319601",
+      "text": "Ah, esenlikler dilerim, Belediye Başkanı."
+    },
+    {
+      "id": "2458bcd5",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Belediye Başkanı."
+    },
+    {
+      "id": "2458bcd6",
+      "bank_id": "60319601",
+      "text": "Belediye Başkanı. Naber?"
+    },
+    {
+      "id": "2458bcd7",
+      "bank_id": "60319601",
+      "text": "Selam, Belediye Başkanı!"
+    },
+    {
+      "id": "2b58c7d0",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Belediye Başkanı."
+    },
+    {
+      "id": "2b58c7d1",
+      "bank_id": "60319601",
+      "text": "Ahh, Belediye Başkanı, seni görmek ne güzel."
+    },
+    {
+      "id": "2b58c7d2",
+      "bank_id": "60319601",
+      "text": "Belediye Başkanı, nasıl gidiyor?"
+    },
+    {
+      "id": "2b58c7d3",
+      "bank_id": "60319601",
+      "text": "Vay, Belediye Başkanı gelmiş meğer."
+    },
+    {
+      "id": "2b58c7d4",
+      "bank_id": "60319601",
+      "text": "Ah merhaba, Belediye Başkanı."
+    },
+    {
+      "id": "2b58c7d5",
+      "bank_id": "60319601",
+      "text": "Belediye Başkanı, selam!"
+    },
+    {
+      "id": "2b58c7d6",
+      "bank_id": "60319601",
+      "text": "Selamlar, Belediye Başkanı."
+    },
+    {
+      "id": "2c7fde4d",
+      "bank_id": "60319601",
+      "text": "Selam Kasap!"
+    },
+    {
+      "id": "2e87e28e",
+      "bank_id": "60319601",
+      "text": "Selam Aslan Yürekli!"
+    },
+    {
+      "id": "300fd938",
+      "bank_id": "60319601",
+      "text": "Selamlar, Silahşor."
+    },
+    {
+      "id": "300fd93a",
+      "bank_id": "60319601",
+      "text": "Ah merhaba, Silahşor."
+    },
+    {
+      "id": "300fd93b",
+      "bank_id": "60319601",
+      "text": "Silahşor, selam!"
+    },
+    {
+      "id": "300fd93c",
+      "bank_id": "60319601",
+      "text": "Silahşor, nasıl gidiyor?"
+    },
+    {
+      "id": "300fd93d",
+      "bank_id": "60319601",
+      "text": "Vay, Silahşor gelmiş meğer."
+    },
+    {
+      "id": "300fd93e",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Silahşor."
+    },
+    {
+      "id": "300fd93f",
+      "bank_id": "60319601",
+      "text": "Ahh, Silahşor, seni görmek ne güzel."
+    },
+    {
+      "id": "339c5768",
+      "bank_id": "60319601",
+      "text": "Selam, Kelle Avcısı."
+    },
+    {
+      "id": "339c5769",
+      "bank_id": "60319601",
+      "text": "Selam, Kelle Avcısı."
+    },
+    {
+      "id": "339c576a",
+      "bank_id": "60319601",
+      "text": "Selam, Kelle Avcısı."
+    },
+    {
+      "id": "339c576b",
+      "bank_id": "60319601",
+      "text": "Selam, Kelle Avcısı."
+    },
+    {
+      "id": "339c576e",
+      "bank_id": "60319601",
+      "text": "Selam, Kelle Avcısı."
+    },
+    {
+      "id": "339c576f",
+      "bank_id": "60319601",
+      "text": "Selam, Kelle Avcısı."
+    },
+    {
+      "id": "33f34e4e",
+      "bank_id": "60319601",
+      "text": "Merhaba, Seçilmiş Kişi."
+    },
+    {
+      "id": "34360b48",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "34360b4a",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "34360b4b",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "34360b4c",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "34360b4d",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "34360b4e",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "34360b4f",
+      "bank_id": "60319601",
+      "text": "Merhaba, Köpek Sever."
+    },
+    {
+      "id": "350fe0d9",
+      "bank_id": "60319601",
+      "text": "Hey, Silahşor bu! Nasıl gidiyor?"
+    },
+    {
+      "id": "350fe0da",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Silahşor."
+    },
+    {
+      "id": "350fe0db",
+      "bank_id": "60319601",
+      "text": "Selam Silahşor!"
+    },
+    {
+      "id": "350fe0dc",
+      "bank_id": "60319601",
+      "text": "Silahşor. Naber?"
+    },
+    {
+      "id": "350fe0dd",
+      "bank_id": "60319601",
+      "text": "Selam, Silahşor!"
+    },
+    {
+      "id": "350fe0de",
+      "bank_id": "60319601",
+      "text": "Ah, esenlikler dilerim, Silahşor."
+    },
+    {
+      "id": "350fe0df",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Silahşor."
+    },
+    {
+      "id": "35dad613",
+      "bank_id": "60319601",
+      "text": "Merhaba, Tavuk Kovalayan. Gerçekten tavuk mu kovalıyorsun?"
+    },
+    {
+      "id": "377feffc",
+      "bank_id": "60319601",
+      "text": "Vay canına! Selam Kasap!"
+    },
+    {
+      "id": "3787f0db",
+      "bank_id": "60319601",
+      "text": "Vay canına! Selam Aslan Yürekli!"
+    },
+    {
+      "id": "39361369",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "3936136a",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "3936136b",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "3936136c",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "3936136d",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "3936136e",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "3936136f",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "3c62ce51",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "3c62ce52",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "3c62ce53",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "3c62ce54",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "3c62ce55",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "3c62ce56",
+      "bank_id": "60319601",
+      "text": "Merhaba, Kanun Kaçağı."
+    },
+    {
+      "id": "3c62ce57",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "3cdae116",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan. Tavukları neden kovalıyorsun?"
+    },
+    {
+      "id": "3cf35c9b",
+      "bank_id": "60319601",
+      "text": "Merhaba, Seçilmiş Kişi."
+    },
+    {
+      "id": "42c50491",
+      "bank_id": "60319601",
+      "text": "Hey, Kraliçe bu! Nasıl gidiyor?"
+    },
+    {
+      "id": "42c50492",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Kraliçe."
+    },
+    {
+      "id": "42c50493",
+      "bank_id": "60319601",
+      "text": "Selam Kraliçe!"
+    },
+    {
+      "id": "42c50494",
+      "bank_id": "60319601",
+      "text": "Kraliçe. Naber?"
+    },
+    {
+      "id": "42c50495",
+      "bank_id": "60319601",
+      "text": "Selam, Kraliçe!"
+    },
+    {
+      "id": "42c50496",
+      "bank_id": "60319601",
+      "text": "Ah, esenlikler dilerim, Kraliçe."
+    },
+    {
+      "id": "42c50497",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Kraliçe."
+    },
+    {
+      "id": "4762df80",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "4762df82",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "4762df83",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "4762df84",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "4762df85",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "4762df86",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "4762df87",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "4ad25081",
+      "bank_id": "60319601",
+      "text": "Vay canına! Selam Sihirbaz!"
+    },
+    {
+      "id": "4dc515c0",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kraliçe."
+    },
+    {
+      "id": "4dc515c2",
+      "bank_id": "60319601",
+      "text": "Ah merhaba, Kraliçe."
+    },
+    {
+      "id": "4dc515c3",
+      "bank_id": "60319601",
+      "text": "Kraliçe, selam!"
+    },
+    {
+      "id": "4dc515c4",
+      "bank_id": "60319601",
+      "text": "Kraliçe, nasıl gidiyor?"
+    },
+    {
+      "id": "4dc515c5",
+      "bank_id": "60319601",
+      "text": "Vay, Kraliçe gelmiş meğer."
+    },
+    {
+      "id": "4dc515c6",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Kraliçe."
+    },
+    {
+      "id": "4dc515c7",
+      "bank_id": "60319601",
+      "text": "Ahh, Kraliçe, seni görmek ne güzel."
+    },
+    {
+      "id": "4f967372",
+      "bank_id": "60319601",
+      "text": "Merhaba, Kelle Avcısı."
+    },
+    {
+      "id": "5322b3ae",
+      "bank_id": "60319601",
+      "text": "Ah, evet, Sonsuz Istıraplı İşkencenin Gölge İblisi bu!"
+    },
+    {
+      "id": "5322b3af",
+      "bank_id": "60319601",
+      "text": "Vay canına, karşımızdaki Sonsuz Istıraplı İşkencenin Gölge İblisi değil mi!"
+    },
+    {
+      "id": "537b9e80",
+      "bank_id": "60319601",
+      "text": "Selam Kasap!"
+    },
+    {
+      "id": "537b9e81",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Kasap."
+    },
+    {
+      "id": "537b9e82",
+      "bank_id": "60319601",
+      "text": "Hey, Kasap bu! Nasıl gidiyor?"
+    },
+    {
+      "id": "537b9e84",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Kasap."
+    },
+    {
+      "id": "537b9e85",
+      "bank_id": "60319601",
+      "text": "Ah, esenlikler dilerim, Kasap."
+    },
+    {
+      "id": "537b9e86",
+      "bank_id": "60319601",
+      "text": "Selam, Kasap!"
+    },
+    {
+      "id": "537b9e87",
+      "bank_id": "60319601",
+      "text": "Kasap. Naber?"
+    },
+    {
+      "id": "55d26230",
+      "bank_id": "60319601",
+      "text": "Selam Sihirbaz!"
+    },
+    {
+      "id": "56ac4d40",
+      "bank_id": "60319601",
+      "text": "Selam, Cellat!"
+    },
+    {
+      "id": "56ac4d41",
+      "bank_id": "60319601",
+      "text": "Cellat. Naber?"
+    },
+    {
+      "id": "56ac4d42",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Cellat."
+    },
+    {
+      "id": "56ac4d43",
+      "bank_id": "60319601",
+      "text": "Ah, esenlikler dilerim, Cellat."
+    },
+    {
+      "id": "56ac4d44",
+      "bank_id": "60319601",
+      "text": "Hey, Cellat bu! Nasıl gidiyor?"
+    },
+    {
+      "id": "56ac4d46",
+      "bank_id": "60319601",
+      "text": "Selam Cellat!"
+    },
+    {
+      "id": "56ac4d47",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Cellat."
+    },
+    {
+      "id": "56f00d90",
+      "bank_id": "60319601",
+      "text": "Merhaba, Dangalak."
+    },
+    {
+      "id": "56f00d91",
+      "bank_id": "60319601",
+      "text": "Merhaba, Dangalak."
+    },
+    {
+      "id": "56f00d92",
+      "bank_id": "60319601",
+      "text": "Merhaba, Dangalak."
+    },
+    {
+      "id": "56f00d93",
+      "bank_id": "60319601",
+      "text": "Merhaba, Dangalak."
+    },
+    {
+      "id": "56f00d94",
+      "bank_id": "60319601",
+      "text": "Merhaba, Dangalak."
+    },
+    {
+      "id": "56f00d95",
+      "bank_id": "60319601",
+      "text": "Merhaba, Dangalak."
+    },
+    {
+      "id": "56f00d97",
+      "bank_id": "60319601",
+      "text": "Merhaba, Dangalak."
+    },
+    {
+      "id": "5896815f",
+      "bank_id": "60319601",
+      "text": "Merhaba, Kelle Avcısı."
+    },
+    {
+      "id": "592ca2b4",
+      "bank_id": "60319601",
+      "text": "Merhaba, Lokum."
+    },
+    {
+      "id": "59677658",
+      "bank_id": "60319601",
+      "text": "Selamlar, Gölge İblisi."
+    },
+    {
+      "id": "59677659",
+      "bank_id": "60319601",
+      "text": "Selamlar, Gölge İblisi."
+    },
+    {
+      "id": "5967765a",
+      "bank_id": "60319601",
+      "text": "Selamlar, Gölge İblisi."
+    },
+    {
+      "id": "5967765b",
+      "bank_id": "60319601",
+      "text": "Selamlar, Gölge İblisi."
+    },
+    {
+      "id": "5967765d",
+      "bank_id": "60319601",
+      "text": "Selamlar, Gölge İblisi."
+    },
+    {
+      "id": "5967765e",
+      "bank_id": "60319601",
+      "text": "Selamlar, Gölge İblisi."
+    },
+    {
+      "id": "5967765f",
+      "bank_id": "60319601",
+      "text": "Selamlar, Gölge İblisi."
+    },
+    {
+      "id": "5bac5560",
+      "bank_id": "60319601",
+      "text": "Vay, Cellat gelmiş meğer."
+    },
+    {
+      "id": "5bac5561",
+      "bank_id": "60319601",
+      "text": "Cellat, nasıl gidiyor?"
+    },
+    {
+      "id": "5bac5562",
+      "bank_id": "60319601",
+      "text": "Ahh, Cellat, seni görmek ne güzel."
+    },
+    {
+      "id": "5bac5563",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Cellat."
+    },
+    {
+      "id": "5bac5565",
+      "bank_id": "60319601",
+      "text": "Selamlar, Cellat."
+    },
+    {
+      "id": "5bac5566",
+      "bank_id": "60319601",
+      "text": "Cellat, selam!"
+    },
+    {
+      "id": "5bac5567",
+      "bank_id": "60319601",
+      "text": "Ah merhaba, Cellat."
+    },
+    {
+      "id": "5c7bace8",
+      "bank_id": "60319601",
+      "text": "Ahh, Kasap, seni görmek ne güzel."
+    },
+    {
+      "id": "5c7bace9",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Kasap."
+    },
+    {
+      "id": "5c7bacea",
+      "bank_id": "60319601",
+      "text": "Vay, Kasap gelmiş meğer."
+    },
+    {
+      "id": "5c7baceb",
+      "bank_id": "60319601",
+      "text": "Kasap, nasıl gidiyor?"
+    },
+    {
+      "id": "5c7bacec",
+      "bank_id": "60319601",
+      "text": "Kasap, selam!"
+    },
+    {
+      "id": "5c7baced",
+      "bank_id": "60319601",
+      "text": "Ah merhaba, Kasap."
+    },
+    {
+      "id": "5c7bacef",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kasap."
+    },
+    {
+      "id": "5d303be7",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "5df01898",
+      "bank_id": "60319601",
+      "text": "Selamlar, Dangalak."
+    },
+    {
+      "id": "5df01899",
+      "bank_id": "60319601",
+      "text": "Selamlar, Dangalak."
+    },
+    {
+      "id": "5df0189a",
+      "bank_id": "60319601",
+      "text": "Selamlar, Dangalak."
+    },
+    {
+      "id": "5df0189c",
+      "bank_id": "60319601",
+      "text": "Ah selamlar, Dangalak."
+    },
+    {
+      "id": "5df0189d",
+      "bank_id": "60319601",
+      "text": "Selamlar, Dangalak."
+    },
+    {
+      "id": "5df0189e",
+      "bank_id": "60319601",
+      "text": "Selamlar, Dangalak."
+    },
+    {
+      "id": "5df0189f",
+      "bank_id": "60319601",
+      "text": "Selamlar, Dangalak."
+    },
+    {
+      "id": "5e2caa55",
+      "bank_id": "60319601",
+      "text": "Merhaba, Lokum."
+    },
+    {
+      "id": "643046ea",
+      "bank_id": "60319601",
+      "text": "Selamlar, Köpek Sever."
+    },
+    {
+      "id": "64678788",
+      "bank_id": "60319601",
+      "text": "Merhaba, Gölge İblisi."
+    },
+    {
+      "id": "64678789",
+      "bank_id": "60319601",
+      "text": "Merhaba, Gölge İblisi."
+    },
+    {
+      "id": "6467878a",
+      "bank_id": "60319601",
+      "text": "Merhaba, Gölge İblisi."
+    },
+    {
+      "id": "6467878b",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Gölge İblisi."
+    },
+    {
+      "id": "6467878c",
+      "bank_id": "60319601",
+      "text": "Merhaba, Gölge İblisi."
+    },
+    {
+      "id": "6467878e",
+      "bank_id": "60319601",
+      "text": "Merhaba, Gölge İblisi."
+    },
+    {
+      "id": "6467878f",
+      "bank_id": "60319601",
+      "text": "Merhaba, Gölge İblisi."
+    },
+    {
+      "id": "69a815c0",
+      "bank_id": "60319601",
+      "text": "Ah, evet, Sonsuz Istıraplı İşkencenin Gölge İblisi bu!"
+    },
+    {
+      "id": "69a815c1",
+      "bank_id": "60319601",
+      "text": "Ah, evet, Sonsuz Istıraplı İşkencenin Gölge İblisi bu!"
+    },
+    {
+      "id": "6e1743f4",
+      "bank_id": "60319601",
+      "text": "Ah, Seçilmiş Kişi bu! Seni görmek her zaman ışık saçıyor!"
+    },
+    {
+      "id": "6e1743f5",
+      "bank_id": "60319601",
+      "text": "Ah, Seçilmiş Kişi bu! Seni görmek her zaman ışık saçıyor!"
+    },
+    {
+      "id": "6e1743f7",
+      "bank_id": "60319601",
+      "text": "Ah, Seçilmiş Kişi bu! Seni görmek her zaman ışık saçıyor!"
+    },
+    {
+      "id": "75dfb821",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "75dfb822",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "75dfb823",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "75dfb824",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "75dfb825",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "75dfb826",
+      "bank_id": "60319601",
+      "text": "Merhaba, Tavuk Kovalayan."
+    },
+    {
+      "id": "75dfb827",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "79a5b910",
+      "bank_id": "60319601",
+      "text": "Selamlar, Zorba."
+    },
+    {
+      "id": "79a5b911",
+      "bank_id": "60319601",
+      "text": "Selamlar, Zorba."
+    },
+    {
+      "id": "79a5b912",
+      "bank_id": "60319601",
+      "text": "Selamlar, Zorba."
+    },
+    {
+      "id": "79a5b913",
+      "bank_id": "60319601",
+      "text": "Selamlar, Zorba."
+    },
+    {
+      "id": "79a5b914",
+      "bank_id": "60319601",
+      "text": "Selamlar, Zorba."
+    },
+    {
+      "id": "79a5b915",
+      "bank_id": "60319601",
+      "text": "Selamlar, Zorba."
+    },
+    {
+      "id": "79a5b917",
+      "bank_id": "60319601",
+      "text": "Selamlar, Zorba."
+    },
+    {
+      "id": "80a5c418",
+      "bank_id": "60319601",
+      "text": "Merhaba, Zorba."
+    },
+    {
+      "id": "80a5c419",
+      "bank_id": "60319601",
+      "text": "Merhaba, Zorba."
+    },
+    {
+      "id": "80a5c41a",
+      "bank_id": "60319601",
+      "text": "Merhaba, Zorba."
+    },
+    {
+      "id": "80a5c41c",
+      "bank_id": "60319601",
+      "text": "Merhaba, Zorba."
+    },
+    {
+      "id": "80a5c41d",
+      "bank_id": "60319601",
+      "text": "Merhaba, Zorba."
+    },
+    {
+      "id": "80a5c41e",
+      "bank_id": "60319601",
+      "text": "Merhaba, Zorba."
+    },
+    {
+      "id": "80a5c41f",
+      "bank_id": "60319601",
+      "text": "Merhaba, Zorba."
+    },
+    {
+      "id": "80dfc950",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "80dfc952",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "80dfc953",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "80dfc954",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "80dfc955",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "80dfc956",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "80dfc957",
+      "bank_id": "60319601",
+      "text": "Selamlar, Tavuk Kovalayan."
+    },
+    {
+      "id": "822865d0",
+      "bank_id": "60319601",
+      "text": "Selamlar, Lokum."
+    },
+    {
+      "id": "822865d1",
+      "bank_id": "60319601",
+      "text": "Selamlar, Lokum."
+    },
+    {
+      "id": "822865d3",
+      "bank_id": "60319601",
+      "text": "Selamlar, Lokum."
+    },
+    {
+      "id": "822865d4",
+      "bank_id": "60319601",
+      "text": "Selamlar, Lokum."
+    },
+    {
+      "id": "822865d5",
+      "bank_id": "60319601",
+      "text": "Selamlar, Lokum."
+    },
+    {
+      "id": "822865d6",
+      "bank_id": "60319601",
+      "text": "Selamlar, Lokum."
+    },
+    {
+      "id": "822865d7",
+      "bank_id": "60319601",
+      "text": "Selamlar, Lokum."
+    },
+    {
+      "id": "85ce3050",
+      "bank_id": "60319601",
+      "text": "Ah merhaba, Sihirbaz."
+    },
+    {
+      "id": "85ce3051",
+      "bank_id": "60319601",
+      "text": "Sihirbaz, selam!"
+    },
+    {
+      "id": "85ce3052",
+      "bank_id": "60319601",
+      "text": "Selamlar, Sihirbaz."
+    },
+    {
+      "id": "85ce3054",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Sihirbaz."
+    },
+    {
+      "id": "85ce3055",
+      "bank_id": "60319601",
+      "text": "Ahh, Sihirbaz, seni görmek ne güzel."
+    },
+    {
+      "id": "85ce3056",
+      "bank_id": "60319601",
+      "text": "Sihirbaz, nasıl gidiyor?"
+    },
+    {
+      "id": "85ce3057",
+      "bank_id": "60319601",
+      "text": "Vay, Sihirbaz gelmiş meğer."
+    },
+    {
+      "id": "892870d0",
+      "bank_id": "60319601",
+      "text": "Merhaba, Lokum."
+    },
+    {
+      "id": "892870d1",
+      "bank_id": "60319601",
+      "text": "Merhaba, Lokum."
+    },
+    {
+      "id": "892870d2",
+      "bank_id": "60319601",
+      "text": "Merhaba, Lokum."
+    },
+    {
+      "id": "892870d3",
+      "bank_id": "60319601",
+      "text": "Merhaba, Lokum."
+    },
+    {
+      "id": "892870d4",
+      "bank_id": "60319601",
+      "text": "Merhaba, Lokum."
+    },
+    {
+      "id": "892870d5",
+      "bank_id": "60319601",
+      "text": "Merhaba, Lokum."
+    },
+    {
+      "id": "892870d6",
+      "bank_id": "60319601",
+      "text": "Merhaba, Lokum."
+    },
+    {
+      "id": "8ba69087",
+      "bank_id": "60319601",
+      "text": "Selam Cellat!"
+    },
+    {
+      "id": "8ece3eb8",
+      "bank_id": "60319601",
+      "text": "Ah, esenlikler dilerim, Sihirbaz."
+    },
+    {
+      "id": "8ece3eb9",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Sihirbaz."
+    },
+    {
+      "id": "8ece3eba",
+      "bank_id": "60319601",
+      "text": "Sihirbaz. Naber?"
+    },
+    {
+      "id": "8ece3ebb",
+      "bank_id": "60319601",
+      "text": "Selam, Sihirbaz!"
+    },
+    {
+      "id": "8ece3ebc",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Sihirbaz."
+    },
+    {
+      "id": "8ece3ebd",
+      "bank_id": "60319601",
+      "text": "Selam Sihirbaz!"
+    },
+    {
+      "id": "8ece3ebf",
+      "bank_id": "60319601",
+      "text": "Hey, Sihirbaz bu! Nasıl gidiyor?"
+    },
+    {
+      "id": "92a69b8a",
+      "bank_id": "60319601",
+      "text": "Vay canına! Selam Cellat!"
+    },
+    {
+      "id": "9ce161a3",
+      "bank_id": "60319601",
+      "text": "Hey, Sparrow bu! Nasıl gidiyor?"
+    },
+    {
+      "id": "9fcceb09",
+      "bank_id": "60319601",
+      "text": "Nasıl gidiyor, Master Chief?"
+    },
+    {
+      "id": "9fcceb0a",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Master Chief."
+    },
+    {
+      "id": "9fcceb0e",
+      "bank_id": "60319601",
+      "text": "Ah, merhabalar Master Chief."
+    },
+    {
+      "id": "9fcceb0f",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Master Chief."
+    },
+    {
+      "id": "a1f500d4",
+      "bank_id": "60319601",
+      "text": "Merhaba, Dangalak."
+    },
+    {
+      "id": "a3e16ca0",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Sparrow."
+    },
+    {
+      "id": "a3e16ca1",
+      "bank_id": "60319601",
+      "text": "Ahh, Sparrow, seni görmek ne güzel."
+    },
+    {
+      "id": "a3e16ca2",
+      "bank_id": "60319601",
+      "text": "Sparrow, nasıl gidiyor?"
+    },
+    {
+      "id": "a3e16ca3",
+      "bank_id": "60319601",
+      "text": "Vay, Sparrow gelmiş meğer."
+    },
+    {
+      "id": "a3e16ca4",
+      "bank_id": "60319601",
+      "text": "Ah merhaba, Sparrow."
+    },
+    {
+      "id": "a3e16ca5",
+      "bank_id": "60319601",
+      "text": "Sparrow, selam!"
+    },
+    {
+      "id": "a3e16ca6",
+      "bank_id": "60319601",
+      "text": "Selamlar, Sparrow."
+    },
+    {
+      "id": "a6f508f5",
+      "bank_id": "60319601",
+      "text": "Merhaba, Dangalak."
+    },
+    {
+      "id": "aaccfcb8",
+      "bank_id": "60319601",
+      "text": "Selamlar, Master Chief."
+    },
+    {
+      "id": "aaccfcb9",
+      "bank_id": "60319601",
+      "text": "Hey, nasıl gidiyor, Master Chief?"
+    },
+    {
+      "id": "aaccfcba",
+      "bank_id": "60319601",
+      "text": "Nasılsınız, Master Chief?"
+    },
+    {
+      "id": "aaccfcbb",
+      "bank_id": "60319601",
+      "text": "İyi günler dilerim, Master Chief."
+    },
+    {
+      "id": "aaccfcbc",
+      "bank_id": "60319601",
+      "text": "Ah, merhabalar. Master Chief."
+    },
+    {
+      "id": "aaccfcbe",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Master Chief."
+    },
+    {
+      "id": "aaccfcbf",
+      "bank_id": "60319601",
+      "text": "Selam, nasıl gidiyor Master Chief?"
+    },
+    {
+      "id": "bc53ff62",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "c5540d4f",
+      "bank_id": "60319601",
+      "text": "Selamlar, Salata Kaçkını."
+    },
+    {
+      "id": "c6c71842",
+      "bank_id": "60319601",
+      "text": "Hey, Master Chief! Dünyayı yine mi kurtaracaksın?"
+    },
+    {
+      "id": "cdcffa44",
+      "bank_id": "60319601",
+      "text": "Merhaba, Korku Tellalı."
+    },
+    {
+      "id": "cfc726af",
+      "bank_id": "60319601",
+      "text": "Merhaba Master Chief."
+    },
+    {
+      "id": "d0aabf78",
+      "bank_id": "60319601",
+      "text": "Merhaba, Zorba."
+    },
+    {
+      "id": "d2d00265",
+      "bank_id": "60319601",
+      "text": "Merhaba, Korku Tellalı."
+    },
+    {
+      "id": "d5aac719",
+      "bank_id": "60319601",
+      "text": "Merhaba, Zorba."
+    },
+    {
+      "id": "d90ad2d7",
+      "bank_id": "60319601",
+      "text": "Vay canına! Selam Silahşor!"
+    },
+    {
+      "id": "db95d370",
+      "bank_id": "60319601",
+      "text": "Selam, Kral!"
+    },
+    {
+      "id": "db95d371",
+      "bank_id": "60319601",
+      "text": "Kral. Naber?"
+    },
+    {
+      "id": "db95d372",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Kral."
+    },
+    {
+      "id": "db95d373",
+      "bank_id": "60319601",
+      "text": "Ah, esenlikler dilerim, Kral."
+    },
+    {
+      "id": "db95d374",
+      "bank_id": "60319601",
+      "text": "Hey, Kral bu! Nasıl gidiyor?"
+    },
+    {
+      "id": "db95d376",
+      "bank_id": "60319601",
+      "text": "Selam Kral!"
+    },
+    {
+      "id": "db95d377",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Kral."
+    },
+    {
+      "id": "e00addda",
+      "bank_id": "60319601",
+      "text": "Selam Silahşor!"
+    },
+    {
+      "id": "e095db10",
+      "bank_id": "60319601",
+      "text": "Vay, Kral gelmiş meğer."
+    },
+    {
+      "id": "e095db11",
+      "bank_id": "60319601",
+      "text": "Kral, nasıl gidiyor?"
+    },
+    {
+      "id": "e095db12",
+      "bank_id": "60319601",
+      "text": "Ahh, Kral, seni görmek ne güzel."
+    },
+    {
+      "id": "e095db13",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Kral."
+    },
+    {
+      "id": "e095db15",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kral."
+    },
+    {
+      "id": "e095db16",
+      "bank_id": "60319601",
+      "text": "Kral, selam!"
+    },
+    {
+      "id": "e095db17",
+      "bank_id": "60319601",
+      "text": "Ah merhaba, Kral."
+    },
+    {
+      "id": "e4398f30",
+      "bank_id": "60319601",
+      "text": "Selamlar, Şakacı."
+    },
+    {
+      "id": "e4398f31",
+      "bank_id": "60319601",
+      "text": "Selamlar, Şakacı."
+    },
+    {
+      "id": "e4398f32",
+      "bank_id": "60319601",
+      "text": "Selamlar, Şakacı."
+    },
+    {
+      "id": "e4398f33",
+      "bank_id": "60319601",
+      "text": "Selamlar, Şakacı."
+    },
+    {
+      "id": "e4398f34",
+      "bank_id": "60319601",
+      "text": "Selamlar, Şakacı."
+    },
+    {
+      "id": "e4398f36",
+      "bank_id": "60319601",
+      "text": "Selamlar, Şakacı."
+    },
+    {
+      "id": "e4398f37",
+      "bank_id": "60319601",
+      "text": "Selamlar, Şakacı."
+    },
+    {
+      "id": "e93996d0",
+      "bank_id": "60319601",
+      "text": "Merhaba, Şakacı."
+    },
+    {
+      "id": "e93996d1",
+      "bank_id": "60319601",
+      "text": "Merhaba, Şakacı."
+    },
+    {
+      "id": "e93996d2",
+      "bank_id": "60319601",
+      "text": "Merhaba, Şakacı."
+    },
+    {
+      "id": "e93996d3",
+      "bank_id": "60319601",
+      "text": "Merhaba, Şakacı."
+    },
+    {
+      "id": "e93996d5",
+      "bank_id": "60319601",
+      "text": "Merhaba, Şakacı."
+    },
+    {
+      "id": "e93996d6",
+      "bank_id": "60319601",
+      "text": "Merhaba, Şakacı."
+    },
+    {
+      "id": "e93996d7",
+      "bank_id": "60319601",
+      "text": "Merhaba, Şakacı."
+    },
+    {
+      "id": "f38d9638",
+      "bank_id": "60319601",
+      "text": "Aslan Yürekli. Naber?"
+    },
+    {
+      "id": "f38d9639",
+      "bank_id": "60319601",
+      "text": "Selam, Aslan Yürekli!"
+    },
+    {
+      "id": "f38d963a",
+      "bank_id": "60319601",
+      "text": "Ah, esenlikler dilerim, Aslan Yürekli."
+    },
+    {
+      "id": "f38d963b",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Aslan Yürekli."
+    },
+    {
+      "id": "f38d963d",
+      "bank_id": "60319601",
+      "text": "Hey, Aslan Yürekli bu! Nasıl gidiyor?"
+    },
+    {
+      "id": "f38d963e",
+      "bank_id": "60319601",
+      "text": "Merhabalar, Aslan Yürekli."
+    },
+    {
+      "id": "f38d963f",
+      "bank_id": "60319601",
+      "text": "Selam Aslan Yürekli!"
+    },
+    {
+      "id": "f6ca2ae0",
+      "bank_id": "60319601",
+      "text": "Selamlar, Korku Tellalı."
+    },
+    {
+      "id": "f6ca2ae1",
+      "bank_id": "60319601",
+      "text": "Selamlar, Korku Tellalı."
+    },
+    {
+      "id": "f6ca2ae3",
+      "bank_id": "60319601",
+      "text": "Selamlar, Korku Tellalı."
+    },
+    {
+      "id": "f6ca2ae4",
+      "bank_id": "60319601",
+      "text": "Selamlar, Korku Tellalı."
+    },
+    {
+      "id": "f6ca2ae5",
+      "bank_id": "60319601",
+      "text": "Selamlar, Korku Tellalı."
+    },
+    {
+      "id": "f6ca2ae6",
+      "bank_id": "60319601",
+      "text": "Selamlar, Korku Tellalı."
+    },
+    {
+      "id": "f6ca2ae7",
+      "bank_id": "60319601",
+      "text": "Selamlar, Korku Tellalı."
+    },
+    {
+      "id": "f8f76ef8",
+      "bank_id": "60319601",
+      "text": "Selamlar, Seçilmiş Kişi."
+    },
+    {
+      "id": "f8f76ef9",
+      "bank_id": "60319601",
+      "text": "Selamlar, Seçilmiş Kişi."
+    },
+    {
+      "id": "f8f76efa",
+      "bank_id": "60319601",
+      "text": "Selamlar, Seçilmiş Kişi."
+    },
+    {
+      "id": "f8f76efb",
+      "bank_id": "60319601",
+      "text": "Selamlar, Seçilmiş Kişi."
+    },
+    {
+      "id": "f8f76efd",
+      "bank_id": "60319601",
+      "text": "Selamlar, Seçilmiş Kişi."
+    },
+    {
+      "id": "f8f76efe",
+      "bank_id": "60319601",
+      "text": "Selamlar, Seçilmiş Kişi."
+    },
+    {
+      "id": "f8f76eff",
+      "bank_id": "60319601",
+      "text": "Selamlar, Seçilmiş Kişi."
+    },
+    {
+      "id": "fb5cf9b4",
+      "bank_id": "60319601",
+      "text": "Selam Belediye Başkanı!"
+    },
+    {
+      "id": "fc5dec43",
+      "bank_id": "60319601",
+      "text": "Selamlar, Kanun Kaçağı."
+    },
+    {
+      "id": "fdc01ae2",
+      "bank_id": "60319601",
+      "text": "Selam Kraliçe!"
+    },
+    {
+      "id": "fdca35e0",
+      "bank_id": "60319601",
+      "text": "Merhaba, Korku Tellalı."
+    },
+    {
+      "id": "fdca35e1",
+      "bank_id": "60319601",
+      "text": "Merhaba, Korku Tellalı."
+    },
+    {
+      "id": "fdca35e2",
+      "bank_id": "60319601",
+      "text": "Merhaba, Korku Tellalı."
+    },
+    {
+      "id": "fdca35e3",
+      "bank_id": "60319601",
+      "text": "Merhaba, Korku Tellalı."
+    },
+    {
+      "id": "fdca35e4",
+      "bank_id": "60319601",
+      "text": "Merhaba, Korku Tellalı."
+    },
+    {
+      "id": "fdca35e5",
+      "bank_id": "60319601",
+      "text": "Merhaba, Korku Tellalı."
+    },
+    {
+      "id": "fdca35e6",
+      "bank_id": "60319601",
+      "text": "Merhaba, Korku Tellalı."
+    },
+    {
+      "id": "fe8da768",
+      "bank_id": "60319601",
+      "text": "Aslan Yürekli, nasıl gidiyor?"
+    },
+    {
+      "id": "fe8da769",
+      "bank_id": "60319601",
+      "text": "Vay, Aslan Yürekli gelmiş meğer."
+    },
+    {
+      "id": "fe8da76a",
+      "bank_id": "60319601",
+      "text": "Esenlikler dilerim, Aslan Yürekli."
+    },
+    {
+      "id": "fe8da76b",
+      "bank_id": "60319601",
+      "text": "Ahh, Aslan Yürekli, seni görmek ne güzel."
+    },
+    {
+      "id": "fe8da76c",
+      "bank_id": "60319601",
+      "text": "Selamlar, Aslan Yürekli."
+    },
+    {
+      "id": "fe8da76e",
+      "bank_id": "60319601",
+      "text": "Ah merhaba, Aslan Yürekli."
+    },
+    {
+      "id": "fe8da76f",
+      "bank_id": "60319601",
+      "text": "Aslan Yürekli, selam!"
+    }
+  ]
+}

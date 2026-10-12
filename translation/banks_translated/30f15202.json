@@ -1,0 +1,446 @@
+{
+  "bank_id": "30f15202",
+  "total_strings": 88,
+  "strings": [
+    {
+      "id": "0464350d",
+      "bank_id": "30f15202",
+      "text": "Panik dolu bir feryatla, tere batmış halde ve çalıların arkasına fena halde gitme ihtiyacıyla uyandı."
+    },
+    {
+      "id": "1b4890dc",
+      "bank_id": "30f15202",
+      "text": "Mağaranın antika bir çekmeceli dolap ve Perilous'un varlığından haberdar olduğundan çok daha fazla kitap içeren bir kitaplık dahil her türlü mobilyayla hoş bir şekilde döşendiğini görünce şaşkına döndü. Dört kitap. Çok geçmeden mağaranın sahibiyle tanıştı; tek başına silahsız dövüş tekniklerini mükemmelleştirmek için dağlara çekildiğini açıklayan, dövüşçü keşiş cübbesi giymiş, uzun boylu ve kafası tıraşlı bir adam. Spandex'e bir adamı hapşırıkla nasıl hareketsiz kılacağını öğretti. Sonra da güzel bir demlik çay paylaştılar."
+    },
+    {
+      "id": "281755d0",
+      "bank_id": "30f15202",
+      "text": "Maceralarından birinde nalları dikmediğini gördüğüme sevindim."
+    },
+    {
+      "id": "281755d1",
+      "bank_id": "30f15202",
+      "text": "Asla dönmeyeceğine inanmaya başlamıştım."
+    },
+    {
+      "id": "281755d2",
+      "bank_id": "30f15202",
+      "text": "Seni bir daha ne zaman göreceğimi merak ediyordum."
+    },
+    {
+      "id": "281755d3",
+      "bank_id": "30f15202",
+      "text": "Döndün demek."
+    },
+    {
+      "id": "281755d4",
+      "bank_id": "30f15202",
+      "text": "Hâlâ hayatta olup olmadığını merak etmeye başlamıştım."
+    },
+    {
+      "id": "281755d5",
+      "bank_id": "30f15202",
+      "text": "Nihayet eve dönebildin."
+    },
+    {
+      "id": "281755d7",
+      "bank_id": "30f15202",
+      "text": "Neredeydin sen? Asırlardır eve uğradığın yok."
+    },
+    {
+      "id": "2a360637",
+      "bank_id": "30f15202",
+      "text": "Yamaç kenarından kestirmeden giden Perilous, bir mağaranın girişini fark etti. Bu karanlık delikte karşı koyamadığı bir şeyler vardı ve hiç vakit kaybetmeden içeri daldı."
+    },
+    {
+      "id": "2c855a74",
+      "bank_id": "30f15202",
+      "text": "Günün ışığını bir daha görüp göremeyeceğini bilmeden mağaranın labirentimsi tünellerinde saatlerce körlemesine dolandıktan sonra başka bir açıklık buldu. Mağaranın dağ silsilesinden geçen bir kestirme yol olduğu ortaya çıktı. Bundan epey memnun kaldı."
+    },
+    {
+      "id": "2f1760d8",
+      "bank_id": "30f15202",
+      "text": "Nihayet eve dönebildin."
+    },
+    {
+      "id": "2f1760d9",
+      "bank_id": "30f15202",
+      "text": "Hâlâ hayatta olup olmadığını merak etmeye başlamıştım."
+    },
+    {
+      "id": "2f1760da",
+      "bank_id": "30f15202",
+      "text": "Neredeydin sen? Asırlardır eve uğradığın yok."
+    },
+    {
+      "id": "2f1760dc",
+      "bank_id": "30f15202",
+      "text": "Asla dönmeyeceğine inanmaya başlamıştım."
+    },
+    {
+      "id": "2f1760dd",
+      "bank_id": "30f15202",
+      "text": "Maceralarından birinde nalları dikmediğini gördüğüme sevindim."
+    },
+    {
+      "id": "2f1760de",
+      "bank_id": "30f15202",
+      "text": "Döndün demek."
+    },
+    {
+      "id": "2f1760df",
+      "bank_id": "30f15202",
+      "text": "Seni bir daha ne zaman göreceğimi merak ediyordum."
+    },
+    {
+      "id": "36eddf08",
+      "bank_id": "30f15202",
+      "text": "Döndün demek ha? Çok da umurumdaydı sanki."
+    },
+    {
+      "id": "36eddf09",
+      "bank_id": "30f15202",
+      "text": "Gittiğin yerde kalsaydın ya!"
+    },
+    {
+      "id": "36eddf0a",
+      "bank_id": "30f15202",
+      "text": "Demek lütfedip yüzünü bir kez daha burada gösterdin."
+    },
+    {
+      "id": "36eddf0b",
+      "bank_id": "30f15202",
+      "text": "Aman ne büyük şeref, varlığınızla bizi onurlandırdınız! Bu gebermediğin anlamına geliyor demek ki."
+    },
+    {
+      "id": "36eddf0d",
+      "bank_id": "30f15202",
+      "text": "Aa, teşrif etmeye karar verdin demek ha?"
+    },
+    {
+      "id": "36eddf0e",
+      "bank_id": "30f15202",
+      "text": "Artık neden ziyarete geldiğini bile anlamıyorum."
+    },
+    {
+      "id": "36eddf0f",
+      "bank_id": "30f15202",
+      "text": "Doğrusu seni özlediğimi söyleyemem."
+    },
+    {
+      "id": "41edf0b8",
+      "bank_id": "30f15202",
+      "text": "Gittiğin yerde kalsaydın ya!"
+    },
+    {
+      "id": "41edf0b9",
+      "bank_id": "30f15202",
+      "text": "Döndün demek ha? Çok da umurumdaydı sanki."
+    },
+    {
+      "id": "41edf0ba",
+      "bank_id": "30f15202",
+      "text": "Aman ne büyük şeref, varlığınızla bizi onurlandırdınız! Bu gebermediğin anlamına geliyor demek ki."
+    },
+    {
+      "id": "41edf0bb",
+      "bank_id": "30f15202",
+      "text": "Demek lütfedip yüzünü bir kez daha burada gösterdin."
+    },
+    {
+      "id": "41edf0bc",
+      "bank_id": "30f15202",
+      "text": "Aa, teşrif etmeye karar verdin demek ha?"
+    },
+    {
+      "id": "41edf0be",
+      "bank_id": "30f15202",
+      "text": "Doğrusu seni özlediğimi söyleyemem."
+    },
+    {
+      "id": "41edf0bf",
+      "bank_id": "30f15202",
+      "text": "Artık neden ziyarete geldiğini bile anlamıyorum."
+    },
+    {
+      "id": "452e04fa",
+      "bank_id": "30f15202",
+      "text": "Seni öyle çok özledim ki sevgilim!"
+    },
+    {
+      "id": "452e04fb",
+      "bank_id": "30f15202",
+      "text": "Ah, hiç dönmeyeceksin sandım! Çok özledim seni!"
+    },
+    {
+      "id": "452e04fc",
+      "bank_id": "30f15202",
+      "text": "Ah, döndün demek! Çok özledim seni!"
+    },
+    {
+      "id": "452e04fd",
+      "bank_id": "30f15202",
+      "text": "Ah, hiç dönmeyeceksin sandım! Çok özledim seni!"
+    },
+    {
+      "id": "452e04fe",
+      "bank_id": "30f15202",
+      "text": "Seni öyle çok özledim ki canım!"
+    },
+    {
+      "id": "4e2e12c8",
+      "bank_id": "30f15202",
+      "text": "Ah, hiç dönmeyeceksin sandım! Çok özledim seni!"
+    },
+    {
+      "id": "4e2e12c9",
+      "bank_id": "30f15202",
+      "text": "Ah, hiç dönmeyeceksin sandım! Çok özledim seni!"
+    },
+    {
+      "id": "4e2e12cb",
+      "bank_id": "30f15202",
+      "text": "Ah, hiç dönmeyeceksin sandım! Çok özledim seni!"
+    },
+    {
+      "id": "4e2e12ce",
+      "bank_id": "30f15202",
+      "text": "Seni öyle çok özledim ki sevgilim!"
+    },
+    {
+      "id": "4e2e12cf",
+      "bank_id": "30f15202",
+      "text": "Ah, hiç dönmeyeceksin sandım! Seni öyle çok özledim ki!"
+    },
+    {
+      "id": "5144d9a5",
+      "bank_id": "30f15202",
+      "text": "Soğuk ve yıldızsız bir gecede Perilous yaşlı bir ağaca yaslanıp uyuyakaldı ve akşam yemeğinde turp turşusu yemediği halde gördüğü en tuhaf rüyayı gördü."
+    },
+    {
+      "id": "592a0af0",
+      "bank_id": "30f15202",
+      "text": "Perilous son derece sıra dışı bir kokuyu takip etti; defne yaprağı, kekik ve tam olarak çıkaramadığı üçüncü bir malzemeyle terbiye edilmiş tavuk pişirme kokusunu. Belki de zerdeçaldı. Aromanın izini bir mağaranın ağzına kadar sürdü."
+    },
+    {
+      "id": "7050cd48",
+      "bank_id": "30f15202",
+      "text": "Seni çok özledim gülüm! Bir dahaki sefere bu kadar uzun süre uzak kalma sakın!"
+    },
+    {
+      "id": "7050cd49",
+      "bank_id": "30f15202",
+      "text": "Çok ama çok uzun süre gittin! Seni çok özledim canım."
+    },
+    {
+      "id": "7050cd4a",
+      "bank_id": "30f15202",
+      "text": "Nihayet döndün! Ah, seni nasıl da özledim..."
+    },
+    {
+      "id": "7050cd4b",
+      "bank_id": "30f15202",
+      "text": "Sonunda kalbim yine bütünlendi!"
+    },
+    {
+      "id": "7050cd4d",
+      "bank_id": "30f15202",
+      "text": "Ah, seni yeniden görmek ne güzel aşkım! Çok uzun zamandır uğramıyordun!"
+    },
+    {
+      "id": "7050cd4e",
+      "bank_id": "30f15202",
+      "text": "Döndün demek! Bu harika bir şey!"
+    },
+    {
+      "id": "7050cd4f",
+      "bank_id": "30f15202",
+      "text": "Ah, seni öyle çok özledim ki! Bir dahaki sefere bu kadar uzun kalma!"
+    },
+    {
+      "id": "70787209",
+      "bank_id": "30f15202",
+      "text": "Mağara aysız bir gecede gömülmüş bir tabutun içinden bile daha karanlıktı ve Perilous, yalnızca içeride çok tanıdık bir şeyin bulunduğunu fısıldayan keskin koku alma duyusunun rehberliğinde duvarlara çarpa çarpa ilerlemek zorunda kaldı. Asılı yirmi meşale bir anda sihirle parlayıp tekinsiz mağarayı ve tek sakinini aydınlattığında irkilerek bir çığlık attı. Bu adam, giysileri ve yüzüne morarmış bir hava katan mor göz bandı hariç her yönüyle Perilous'un birebir kopyasıydı. Kardeşi Treacherous Spandex'ten başkası değildi bu! Nereye kaybolduğunu hep merak etmişti ve işte karşısındaydı. Bir süre birbirlerine küfredip hakaretler yağdırdılar, ardından bir daha asla karşılaşmayacaklarını bilerek yollarına gittiler. Gelecek mayıs Sonorous Amca'larının doğum gününe kadar tabii."
+    },
+    {
+      "id": "7b50def8",
+      "bank_id": "30f15202",
+      "text": "Çok ama çok uzun süre gittin! Seni çok özledim canım."
+    },
+    {
+      "id": "7b50def9",
+      "bank_id": "30f15202",
+      "text": "Seni çok özledim gülüm! Bir dahaki sefere bu kadar uzun süre uzak kalma sakın!"
+    },
+    {
+      "id": "7b50defa",
+      "bank_id": "30f15202",
+      "text": "Sonunda kalbim yine bütünlendi!"
+    },
+    {
+      "id": "7b50defb",
+      "bank_id": "30f15202",
+      "text": "Nihayet döndün! Ah, seni nasıl da özledim..."
+    },
+    {
+      "id": "7b50defc",
+      "bank_id": "30f15202",
+      "text": "Ah, seni yeniden görmek ne güzel aşkım! Çok uzun zamandır uğramıyordun!"
+    },
+    {
+      "id": "7b50defe",
+      "bank_id": "30f15202",
+      "text": "Ah, seni öyle çok özledim ki! Bir dahaki sefere bu kadar uzun kalma!"
+    },
+    {
+      "id": "7b50deff",
+      "bank_id": "30f15202",
+      "text": "Döndün demek! Bu harika bir şey!"
+    },
+    {
+      "id": "8e0ee2a5",
+      "bank_id": "30f15202",
+      "text": "Görüş mesafesinin iyi bir 400 yardaya kadar uzandığı berrak sulardan oluşan bir denizde bir deniz atına biniyordu. Deniz atının adı Jimmy'ydi ama sadece Esteban adına tepki veriyordu. Çok geçmeden, yukarıdaki adalardan birinde devre mülk satmaya kararlı bir grup köpekbalığı adam peşlerine düştü. Nedense Perilous böylesi bir devre mülke sahip olmanın ölümden beter bir kader olacağını hissetti. Ta ki fark edene dek... Esteban ortadan kaybolmuştu. Ve yerinde yüz kiloluk baharatlı bir sosis vardı."
+    },
+    {
+      "id": "96b30422",
+      "bank_id": "30f15202",
+      "text": "Perilous bir dağ silsilesinin eteğine vardı ve sarp zirvelerine tırmanmaktan başka çaresi kalmadı. Yolun yarısında bir mağaranın girişine uzanan -bazıları insan olan- bir iskelet izi fark etti."
+    },
+    {
+      "id": "97ef4c80",
+      "bank_id": "30f15202",
+      "text": "Güzel bir yerlere gittin mi bari? Beni hiç götürmezsin zaten, di mi?"
+    },
+    {
+      "id": "97ef4c81",
+      "bank_id": "30f15202",
+      "text": "A, döndün demek. Bu sefer neredeydin bakalım?"
+    },
+    {
+      "id": "97ef4c84",
+      "bank_id": "30f15202",
+      "text": "Son maceraların nasıl geçti canım?"
+    },
+    {
+      "id": "97ef4c86",
+      "bank_id": "30f15202",
+      "text": "Son seyahatin nasıldı bakalım?"
+    },
+    {
+      "id": "97ef4c87",
+      "bank_id": "30f15202",
+      "text": "A, döndün demek. Bunca zamandır neredeydin?"
+    },
+    {
+      "id": "9b611241",
+      "bank_id": "30f15202",
+      "text": "Uzaklardaki bir ışık noktasına doğru koşturdu ve uzun bir süre kendini öyle rastgele tuhaf mağaralara atmamaya ant içerek çok geçmeden dış dünyaya çıktı."
+    },
+    {
+      "id": "9c146118",
+      "bank_id": "30f15202",
+      "text": "Bir gece, rüyasında ona tuhaf bir görü göründü."
+    },
+    {
+      "id": "9cef54a0",
+      "bank_id": "30f15202",
+      "text": "A, döndün demek. Seyahatin nasıldı?"
+    },
+    {
+      "id": "9cef54a1",
+      "bank_id": "30f15202",
+      "text": "Güzel bir yerlere gittin mi bari? Beni hiç götürmezsin zaten, di mi?"
+    },
+    {
+      "id": "9cef54a5",
+      "bank_id": "30f15202",
+      "text": "A, döndün demek. Bu sefer neredeydin bakalım?"
+    },
+    {
+      "id": "9cef54a6",
+      "bank_id": "30f15202",
+      "text": "A, döndün demek. Bu sefer neredeydin bakalım?"
+    },
+    {
+      "id": "9cef54a7",
+      "bank_id": "30f15202",
+      "text": "A, döndün demek. Bu sefer neredeydin bakalım?"
+    },
+    {
+      "id": "a64ab15f",
+      "bank_id": "30f15202",
+      "text": "Perilous'un o mağaranın içinde başına gelenlerden pek bahsedilmez. Ben de size anlatacak değilim zaten. Şu kadarını söylemek yeterli ki bir daha hayatı boyunca yüzünü buruşturmadan bir portakala asla bakamadı."
+    },
+    {
+      "id": "b307a4e3",
+      "bank_id": "30f15202",
+      "text": "Bir meşale yakarak küçük kemiklerden oluşan halının üzerinde çatırtılar eşliğinde yürüdü ve mağaranın derinliklerine uzanan bir izi takip etti. Etrafında, dev bir dişi peygamber devesinin çiftleşmeden önce bir erkeği baştan çıkarıp kafasını ısırması gibi tuhaf tıkırtılar yankılanıyordu. Bu fikir onu meraklandırdı. Fakat tüneldeki virajı döndüğünde bulduğu şey bambaşkaydı. Bir erkeği çoktan kandırmış, kafasını ısırmış ve şimdi çiftleşme sonrası tatlısı arayan dev bir dişi peygamber devesi. Perilous kendini hiçbir zaman tatlı biri olarak görmemişti. Meşalesini bir mızrak gibi devenin kafasına fırlattı ve hayatının geri kalanında ne zaman cips yese aklına gelecek olan oldukça iğrenç bir çıtırtı koptu."
+    },
+    {
+      "id": "b30fb132",
+      "bank_id": "30f15202",
+      "text": "Midesindeki bir kası inciterek dimdik oturdu ve her şeyin sadece bir rüya olduğunu öğrenmenin rahatlığını yaşadı. Ah... ama gerçekten bir rüya mıydı? Evet. Öyleydi."
+    },
+    {
+      "id": "b9ec5847",
+      "bank_id": "30f15202",
+      "text": "Ah, ama hepsi bir rüyaymış meğer! Tabii siz bunu zaten biliyordunuz çünkü en başta ben söyledim. Bu yüzden beni insanoğlunun bildiği en klişe ters köşe sonu kullanmakla suçlamayın sakın."
+    },
+    {
+      "id": "c442db1b",
+      "bank_id": "30f15202",
+      "text": "Biraz temiz hava alma arzusuyla mağaranın girişine döndü ve dağ silsilesi boyunca ilerlemeye devam etti; bir kez olsun arkasına bakmadan. Şey, belki bir kez, ama o kadar."
+    },
+    {
+      "id": "c642b92a",
+      "bank_id": "30f15202",
+      "text": "Bir gece Perilous, hayatının geri kalanında yakasını bırakmayacak bir kâbus gördü. Ya da en azından birkaç saat boyunca diyelim."
+    },
+    {
+      "id": "d860a3fc",
+      "bank_id": "30f15202",
+      "text": "Aman, nasıl bittiğini duymak için sabırsızlanıyorum."
+    },
+    {
+      "id": "d860a3fd",
+      "bank_id": "30f15202",
+      "text": "Nasıl bittiğini duymak için sabırsızlanıyorum."
+    },
+    {
+      "id": "d860a3fe",
+      "bank_id": "30f15202",
+      "text": "Aa, bunu daha önce duymamıştım."
+    },
+    {
+      "id": "d91a130a",
+      "bank_id": "30f15202",
+      "text": "Mağaranın içinde Perilous, yalnızca insan gibi konuşma yetisi kazanmakla kalmayıp aynı zamanda kusursuz bir demokratik yönetim biçimi geliştiren ve zihin-beden ikiliği sorununu çözen, çoktan kaybolmuş bir hobbe kabilesi keşfetti. Ziyaretçilerini kollarını açarak karşılamaya hazırlandılar, ancak Perilous konuşan bir hobbe görmekten öylesine dehşete düştü ki tek bir tanesini bile sağ bırakmadan hepsini yok etti; kimilerine göre bu metafiziğe karşı şimdiye dek işlenmiş en büyük suçtur."
+    },
+    {
+      "id": "e160b1c8",
+      "bank_id": "30f15202",
+      "text": "Ne kadar da ilginç değil mi!"
+    },
+    {
+      "id": "e160b1c9",
+      "bank_id": "30f15202",
+      "text": "Bu masallara bayılıyorum. Biraz daha anlatsana."
+    },
+    {
+      "id": "ed35e1ba",
+      "bank_id": "30f15202",
+      "text": "Döndün demek? Çok da umurumdaydı!"
+    },
+    {
+      "id": "ed35e1bb",
+      "bank_id": "30f15202",
+      "text": "Döndün demek? Benden bir hoş geldin partisi bekleme sakın!"
+    },
+    {
+      "id": "ed35e1bc",
+      "bank_id": "30f15202",
+      "text": "Gittiğin yerde kalsaydın ya."
+    }
+  ]
+}

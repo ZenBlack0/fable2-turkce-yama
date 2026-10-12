@@ -1,0 +1,796 @@
+{
+  "bank_id": "b0b9b600",
+  "total_strings": 158,
+  "strings": [
+    {
+      "id": "06dea66f",
+      "bank_id": "b0b9b600",
+      "text": "Tamam. \"Geri alma\" büyüsü hangi sayfadaydı...? Hah, işte buradaymış."
+    },
+    {
+      "id": "07dea7c2",
+      "bank_id": "b0b9b600",
+      "text": "Tantir! Barada! Kanda!"
+    },
+    {
+      "id": "090a02c3",
+      "bank_id": "b0b9b600",
+      "text": "Daha önce hiç bir korsan tarafından öldürüldün mü? Ben öldürüldüm! <laughs>"
+    },
+    {
+      "id": "0ae049f3",
+      "bank_id": "b0b9b600",
+      "text": "\"Başardık\" derken neyi kastettin? Mukluk kitapta bile yoktu."
+    },
+    {
+      "id": "0c0a079c",
+      "bank_id": "b0b9b600",
+      "text": "Arrrr! Biri tarafından deşilmeyeli uzun zaman olmuştu!"
+    },
+    {
+      "id": "0ce04cd9",
+      "bank_id": "b0b9b600",
+      "text": "Bütün işi mahvedebilirdin."
+    },
+    {
+      "id": "0e0a0ae2",
+      "bank_id": "b0b9b600",
+      "text": "Yakında sen de bizden biri olacaksın, seni karada yaşayan!"
+    },
+    {
+      "id": "0ee0503f",
+      "bank_id": "b0b9b600",
+      "text": "Aslında o kadar da kötü bir fikir değil bu."
+    },
+    {
+      "id": "0f0a0c55",
+      "bank_id": "b0b9b600",
+      "text": "Gel buraya, karnını deşeceğim senin!"
+    },
+    {
+      "id": "11010764",
+      "bank_id": "b0b9b600",
+      "text": "(güler)"
+    },
+    {
+      "id": "13010a4a",
+      "bank_id": "b0b9b600",
+      "text": "(güler)"
+    },
+    {
+      "id": "14010c3d",
+      "bank_id": "b0b9b600",
+      "text": "(güler)"
+    },
+    {
+      "id": "14d28826",
+      "bank_id": "b0b9b600",
+      "text": "Marianne'e hoş geldin. Mürettebata harika bir katkı sağlayacaksın."
+    },
+    {
+      "id": "167eff8e",
+      "bank_id": "b0b9b600",
+      "text": "Sam'e Normanomicon'u vermek istiyor musunuz?"
+    },
+    {
+      "id": "1c85b2f3",
+      "bank_id": "b0b9b600",
+      "text": "Bize bir kadeh bira al, sana her şeyi anlatayım."
+    },
+    {
+      "id": "1d85b466",
+      "bank_id": "b0b9b600",
+      "text": "Sadece bir bira daha!"
+    },
+    {
+      "id": "1e85b5d9",
+      "bank_id": "b0b9b600",
+      "text": "Bira, bira, bir bira daha içmeden devam edemem!"
+    },
+    {
+      "id": "20abb419",
+      "bank_id": "b0b9b600",
+      "text": "Ohhhh..."
+    },
+    {
+      "id": "268158c4",
+      "bank_id": "b0b9b600",
+      "text": "Şu yaşlı ölü deniz kurdunu buldun demek! Biliyordum bulacağını evlat."
+    },
+    {
+      "id": "268158cf",
+      "bank_id": "b0b9b600",
+      "text": "Şu yaşlı ölü deniz kurdunu buldun demek! Biliyordum bulacağını cesur kızım."
+    },
+    {
+      "id": "292799f0",
+      "bank_id": "b0b9b600",
+      "text": "Aahhr! En korkuncundan bir hayalet, hiç şüphen olmasın. Yaşarken onlarcasını öldürdü, ölümünde de daha fazlasını. Evet..."
+    },
+    {
+      "id": "29d5f6f0",
+      "bank_id": "b0b9b600",
+      "text": "Rarrr!"
+    },
+    {
+      "id": "2a279b63",
+      "bank_id": "b0b9b600",
+      "text": "Hayalet bir korsandan daha korkunç bir yaratık yoktur. Öyle olduğunu kanıtla bakalım."
+    },
+    {
+      "id": "2ad5f863",
+      "bank_id": "b0b9b600",
+      "text": "Agh! Hazinemi asla alamayacaksın!"
+    },
+    {
+      "id": "2bd5f9d6",
+      "bank_id": "b0b9b600",
+      "text": "Arr!"
+    },
+    {
+      "id": "2c279e49",
+      "bank_id": "b0b9b600",
+      "text": "İhtiyar Dread'in bir sürü hazinesi olduğunu söylerler. Ama Samarkand'daki tüm altınları verseler beni o mağaranın yakınına sokamazlar."
+    },
+    {
+      "id": "2cd5fb49",
+      "bank_id": "b0b9b600",
+      "text": "Ööğ!"
+    },
+    {
+      "id": "2dd5fd3c",
+      "bank_id": "b0b9b600",
+      "text": "Senden daha büyük balıkların karnını deştim ben!"
+    },
+    {
+      "id": "2fd60002",
+      "bank_id": "b0b9b600",
+      "text": "Hadi ama, hayalet olmayı seveceksin. Uzun bir tatil gibi."
+    },
+    {
+      "id": "30d601f5",
+      "bank_id": "b0b9b600",
+      "text": "Bana boşuna Dread demiyorlar!"
+    },
+    {
+      "id": "341de87b",
+      "bank_id": "b0b9b600",
+      "text": "Şey, oldukça zekiceydi ama."
+    },
+    {
+      "id": "361deb41",
+      "bank_id": "b0b9b600",
+      "text": "Kuş beyinlinin tekisin sen."
+    },
+    {
+      "id": "36674bf9",
+      "bank_id": "b0b9b600",
+      "text": "Arrhh, sana güvenebileceğimi biliyordum. Mağarayı sahilde bulacaksın. Ama dikkatli ol. Evet... Korkunç Kaptan Dread'e dikkat et!"
+    },
+    {
+      "id": "36d60b07",
+      "bank_id": "b0b9b600",
+      "text": "Öff!"
+    },
+    {
+      "id": "381deea7",
+      "bank_id": "b0b9b600",
+      "text": "Öğrenirse annem bizi öldürecek."
+    },
+    {
+      "id": "38e6b930",
+      "bank_id": "b0b9b600",
+      "text": "Ah evet, keşke canım her istediğinde beni yemek isteyen bir sürü ceset çıkarabilseydim ortaya."
+    },
+    {
+      "id": "39bd8df1",
+      "bank_id": "b0b9b600",
+      "text": "Başardık!"
+    },
+    {
+      "id": "3a1df18d",
+      "bank_id": "b0b9b600",
+      "text": "Değilim bir kere! Sensin."
+    },
+    {
+      "id": "3abd8f64",
+      "bank_id": "b0b9b600",
+      "text": "Mukluk mu? Ne?"
+    },
+    {
+      "id": "3ae6bc16",
+      "bank_id": "b0b9b600",
+      "text": "Bir dahaki sefere kitap okumak istediğinde kafana dev bir baltayla vur onun yerine."
+    },
+    {
+      "id": "3cb3dbe2",
+      "bank_id": "b0b9b600",
+      "text": "Ölüleri diriltti!"
+    },
+    {
+      "id": "3ce6bf7c",
+      "bank_id": "b0b9b600",
+      "text": "Bilmiyorum ki. Onları sen çağırdın!"
+    },
+    {
+      "id": "4102a77a",
+      "bank_id": "b0b9b600",
+      "text": "İki aptal, Son Derece Ölülerin Kitabı olan Normanomicon'dan pasajlar okudu. Yeraltı dünyasının kapıları açıldı."
+    },
+    {
+      "id": "43c0cf02",
+      "bank_id": "b0b9b600",
+      "text": "'Ooooh' diye ses çıkardı. Evet."
+    },
+    {
+      "id": "449b0b1b",
+      "bank_id": "b0b9b600",
+      "text": "Bu harita, Dread'in melun kariyeri boyunca biriktirdiği tüm ganimeti gömdüğü adanın yolunu gösterir."
+    },
+    {
+      "id": "44a085c3",
+      "bank_id": "b0b9b600",
+      "text": "Belki hepsini ölümsüz palyaçolara dönüştürür diye düşünmüştüm."
+    },
+    {
+      "id": "4aa08f55",
+      "bank_id": "b0b9b600",
+      "text": "Evet ama harika bir kelime. Doğum günü partimizdeki şu soytarı durmadan öyle diyordu."
+    },
+    {
+      "id": "4ab17887",
+      "bank_id": "b0b9b600",
+      "text": "Har har har! Kanlı canlı birisin, değil mi? Eh, ben de ölüyüm işte!"
+    },
+    {
+      "id": "500f2ce0",
+      "bank_id": "b0b9b600",
+      "text": "Mezarlığı temizlemeniz gerekiyor, böylece kitabı geri alıp hepsini geldikleri yere gönderebiliriz."
+    },
+    {
+      "id": "510f2e53",
+      "bank_id": "b0b9b600",
+      "text": "Asıl koca... Ah, baksana!"
+    },
+    {
+      "id": "527e8dd2",
+      "bank_id": "b0b9b600",
+      "text": "Kol"
+    },
+    {
+      "id": "53d233ec",
+      "bank_id": "b0b9b600",
+      "text": "Ahhhr! Marianne'i rahatsız edemezsiniz. Dread'in Laneti üzerinize olsun!"
+    },
+    {
+      "id": "545688db",
+      "bank_id": "b0b9b600",
+      "text": "Yaşlı bir sarhoş bir korsanın hayaletini görmüş."
+    },
+    {
+      "id": "54cb2ad5",
+      "bank_id": "b0b9b600",
+      "text": "Kalan kof adam: %1"
+    },
+    {
+      "id": "54ec0a78",
+      "bank_id": "b0b9b600",
+      "text": "Yaaaah!"
+    },
+    {
+      "id": "55ec0beb",
+      "bank_id": "b0b9b600",
+      "text": "Yaaaah!"
+    },
+    {
+      "id": "56ec0d5e",
+      "bank_id": "b0b9b600",
+      "text": "Yaaaah!"
+    },
+    {
+      "id": "58b4f861",
+      "bank_id": "b0b9b600",
+      "text": "10 hazineden %1 tanesi bulundu."
+    },
+    {
+      "id": "5924e262",
+      "bank_id": "b0b9b600",
+      "text": "Bu anahtar Kaptan Dread'in sandığını açar."
+    },
+    {
+      "id": "5b0f3e11",
+      "bank_id": "b0b9b600",
+      "text": "Onu bulan sendin, hatırla."
+    },
+    {
+      "id": "5b34ff8b",
+      "bank_id": "b0b9b600",
+      "text": "Evet, ne inanılmaz sırlar... Keşke... Keşke boğazım bu kadar kurumasaydı."
+    },
+    {
+      "id": "5bec157d",
+      "bank_id": "b0b9b600",
+      "text": "Yaaaah!"
+    },
+    {
+      "id": "5c35017e",
+      "bank_id": "b0b9b600",
+      "text": "Oh, burası nefis kehribar renkli bir içecek satan türden bir müessese değil mi yoksa? <laughs>"
+    },
+    {
+      "id": "5c7a4bfe",
+      "bank_id": "b0b9b600",
+      "text": "Barın önünden geçiyorsan bize bir bira kap!"
+    },
+    {
+      "id": "5d0f4177",
+      "bank_id": "b0b9b600",
+      "text": "Mesele şu ki, yanlışlıkla birkaç kof adam çağırdık gibi."
+    },
+    {
+      "id": "5d3502d1",
+      "bank_id": "b0b9b600",
+      "text": "Onca altın ve bulacak kimse yok. Ne büyük yazık. Evet, bu kadar susamış olmasaydım sana güvenebilirdim belki."
+    },
+    {
+      "id": "5f0f445d",
+      "bank_id": "b0b9b600",
+      "text": "Ve şimdi kitap onların elinde."
+    },
+    {
+      "id": "68c80783",
+      "bank_id": "b0b9b600",
+      "text": "En başta okumak istemediğim için bana korkak diyen sendin. Ha!"
+    },
+    {
+      "id": "69c80976",
+      "bank_id": "b0b9b600",
+      "text": "Senin hatandı. Onu bulan sendin."
+    },
+    {
+      "id": "6e6af0e1",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread'in Haritası"
+    },
+    {
+      "id": "70e2c7e4",
+      "bank_id": "b0b9b600",
+      "text": "Evet ama asıl sen... hey, baksana!"
+    },
+    {
+      "id": "73e2ccbd",
+      "bank_id": "b0b9b600",
+      "text": "Kelimeleri okuyan sendin. Senin hatan."
+    },
+    {
+      "id": "7e4f4687",
+      "bank_id": "b0b9b600",
+      "text": "Tuzlu Jack'e bira vermek istiyor musunuz?"
+    },
+    {
+      "id": "7ef98a98",
+      "bank_id": "b0b9b600",
+      "text": "Aaaaaaaarh! Keşke daha fazla biraya param yetseydi."
+    },
+    {
+      "id": "7ff2f518",
+      "bank_id": "b0b9b600",
+      "text": "Aarrh! Sen ordaki. Sana neredeyse hiç inanmayacağın bir hikâyem var, efsanelerden, devasa hazinelerden ve... öff, boğazım... devam edemeyecek kadar kuru."
+    },
+    {
+      "id": "80a0d6a1",
+      "bank_id": "b0b9b600",
+      "text": "Uğursuz Hazine Adası!"
+    },
+    {
+      "id": "80f2f68b",
+      "bank_id": "b0b9b600",
+      "text": "Evet, sahilde baygın yatıyordum, kollarımda dolgun göğüslü bir dilber gibi boş bir ateş suyu şişesi vardı ki yakındaki bir mağaranın yanında onun silüetini gördüm."
+    },
+    {
+      "id": "817f1680",
+      "bank_id": "b0b9b600",
+      "text": "Marianne'den asla canlı çıkamayacaksın!"
+    },
+    {
+      "id": "827f1873",
+      "bank_id": "b0b9b600",
+      "text": "Lanetlilerin gemisine binmeye nasıl cüret edersin?"
+    },
+    {
+      "id": "82f2f9d1",
+      "bank_id": "b0b9b600",
+      "text": "Gördüm onu. Vallahi doğru. Kendi iki gözümle gördüm, diyorum sana."
+    },
+    {
+      "id": "83279e43",
+      "bank_id": "b0b9b600",
+      "text": "Hayır! Marianne benimdir. Onu benden alamayacaksınız!"
+    },
+    {
+      "id": "837f19e6",
+      "bank_id": "b0b9b600",
+      "text": "Kanın güverteye akacak."
+    },
+    {
+      "id": "83f2fb44",
+      "bank_id": "b0b9b600",
+      "text": "Şifa niyetine bir fıçı bira için gücüm yettiğince koştum, yüzdüm, kürek çektim. Ama buradaki hiç kimse bana inanmıyor."
+    },
+    {
+      "id": "84f2fd37",
+      "bank_id": "b0b9b600",
+      "text": "Haklı olduğumu kanıtlayacaksın, değil mi? İhtiyar Jack'in yalan söylemediğini kanıtlayacaksın."
+    },
+    {
+      "id": "85f2feaa",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread!"
+    },
+    {
+      "id": "86f3001d",
+      "bank_id": "b0b9b600",
+      "text": "Yaşarken öyle taş kalpliydi ki diyorum sana, tek bir bakışıyla soyadını ruhuna kazırdı."
+    },
+    {
+      "id": "87314efb",
+      "bank_id": "b0b9b600",
+      "text": "Beni öldürür demek istiyorsun. Sen onun gözdesisin."
+    },
+    {
+      "id": "887f2185",
+      "bank_id": "b0b9b600",
+      "text": "Çıkacağın son yolculuğa hazır mısın?"
+    },
+    {
+      "id": "8b315527",
+      "bank_id": "b0b9b600",
+      "text": "Koca kafalının tekisin sen."
+    },
+    {
+      "id": "8c894180",
+      "bank_id": "b0b9b600",
+      "text": "Gördüm onu. Kendi iki gözümle gördüm, diyorum sana. Yaşamış en ünlü korsanın hayaletini gördüm!"
+    },
+    {
+      "id": "8d31580d",
+      "bank_id": "b0b9b600",
+      "text": "Tabii canım. Öğrenirse kadim bir dili okuyabildiğin için ne kadar akıllı olduğunu söyler kesin."
+    },
+    {
+      "id": "8dda4d30",
+      "bank_id": "b0b9b600",
+      "text": "Ahhr! Tarzını beğendim, har har har. Kafanı kesmek zorunda kalacak olmam ne yazık."
+    },
+    {
+      "id": "8f894659",
+      "bank_id": "b0b9b600",
+      "text": "Aarrh! Sen oradaki! Dinle hikâyemi."
+    },
+    {
+      "id": "900f9a68",
+      "bank_id": "b0b9b600",
+      "text": "Geminin dümenine geçin."
+    },
+    {
+      "id": "920f9d4e",
+      "bank_id": "b0b9b600",
+      "text": "Gemiyi arayın."
+    },
+    {
+      "id": "930f9f21",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread'in tüm hazinesini bulun."
+    },
+    {
+      "id": "98f54cac",
+      "bank_id": "b0b9b600",
+      "text": "Bowerstone Mezarlığı'nı istila eden kof adamları öldürmek istiyor musunuz?"
+    },
+    {
+      "id": "9c11c6d2",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread'in sandığını açın."
+    },
+    {
+      "id": "9d11c845",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread'in sandığını açmanın bir yolunu bulun."
+    },
+    {
+      "id": "9d482b23",
+      "bank_id": "b0b9b600",
+      "text": "Alay edilme korkusu olmadan limanıma geri dönebilirim. Teşekkür ederim."
+    },
+    {
+      "id": "9e11ca38",
+      "bank_id": "b0b9b600",
+      "text": "Tuzlu Jack'e dönün."
+    },
+    {
+      "id": "9e3968ab",
+      "bank_id": "b0b9b600",
+      "text": "Marianne'e dokunmayın sakın. O Dread'in gemisidir!"
+    },
+    {
+      "id": "9e482c96",
+      "bank_id": "b0b9b600",
+      "text": "Evet... Bunun için korsanlar arasında bir efsane olacaksın vallahi. Ve Tuzlu Jack'in kafayı henüz sıyırmadığını kanıtladın."
+    },
+    {
+      "id": "9f11cbab",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread'i yenin."
+    },
+    {
+      "id": "9f482e09",
+      "bank_id": "b0b9b600",
+      "text": "Onun sizi istediğiniz zaman Kaptan Dread'in hazinesine götürebileceği söylenir."
+    },
+    {
+      "id": "a011cd1e",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread'in hayaletini bulun."
+    },
+    {
+      "id": "a0482ffc",
+      "bank_id": "b0b9b600",
+      "text": "Marianne. Onu görüp de hâlâ hayatta kalabileceğimi hiç düşünmezdim."
+    },
+    {
+      "id": "a111cef1",
+      "bank_id": "b0b9b600",
+      "text": "Hayalet korsanları yenin."
+    },
+    {
+      "id": "a148316f",
+      "bank_id": "b0b9b600",
+      "text": "Sonunda işini tamamen bitirdin ve gemisini de çaldın!"
+    },
+    {
+      "id": "a18b262b",
+      "bank_id": "b0b9b600",
+      "text": "Birkaç yüz tane."
+    },
+    {
+      "id": "a211d064",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread'in hayaletini bulun."
+    },
+    {
+      "id": "a311d1d7",
+      "bank_id": "b0b9b600",
+      "text": "Kaçakçıların mağarasına girin."
+    },
+    {
+      "id": "a38b2971",
+      "bank_id": "b0b9b600",
+      "text": "Sırf sen düşürdün diye öyle oldu, seni koca kız."
+    },
+    {
+      "id": "a411d34a",
+      "bank_id": "b0b9b600",
+      "text": "Kaçakçıların mağarasını araştırmak istiyor musunuz?"
+    },
+    {
+      "id": "a511d538",
+      "bank_id": "b0b9b600",
+      "text": "Tuzlu Jack'e bir bira alın."
+    },
+    {
+      "id": "a58b2c57",
+      "bank_id": "b0b9b600",
+      "text": "Oh, teşekkür ederim! Görüyorsunuz ya, Normanomicon adında bulduğumuz bu kitaptan yüksek sesle bir şeyler okuduk."
+    },
+    {
+      "id": "a6c1ba35",
+      "bank_id": "b0b9b600",
+      "text": "Gitme!"
+    },
+    {
+      "id": "a78b2fbd",
+      "bank_id": "b0b9b600",
+      "text": "E-- Ve okuyan sendin... her neyse, mesele şu ki..."
+    },
+    {
+      "id": "aff9d16f",
+      "bank_id": "b0b9b600",
+      "text": "Ah, ha ha! Teşekkür ederim. İlaç gibi geldi vallahi. Şimdi ihtiyar Jack'in hikâyesini dinle de şaşır bakalım."
+    },
+    {
+      "id": "b0162788",
+      "bank_id": "b0b9b600",
+      "text": "Har har har! İşte hazine aramaya gelen bir ahmak daha."
+    },
+    {
+      "id": "b3284c23",
+      "bank_id": "b0b9b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "b6261e82",
+      "bank_id": "b0b9b600",
+      "text": "Ciğerini getirin bana tayfalarım!"
+    },
+    {
+      "id": "b6261e89",
+      "bank_id": "b0b9b600",
+      "text": "Ciğerini getirin bana tayfalarım!"
+    },
+    {
+      "id": "bae67cb9",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread'in hayaletiydi diyorum size! Tuzlu Jack yalancı değildir!"
+    },
+    {
+      "id": "bb9b4005",
+      "bank_id": "b0b9b600",
+      "text": "Çağırıcılar"
+    },
+    {
+      "id": "bbfab5a6",
+      "bank_id": "b0b9b600",
+      "text": "Bu mektup bugün senin için geldi bir tanem."
+    },
+    {
+      "id": "bbfab5a7",
+      "bank_id": "b0b9b600",
+      "text": "Ah sevgilim, bugün sana bir mektup ulaştı. Mühim bir şeye benziyor."
+    },
+    {
+      "id": "be39e448",
+      "bank_id": "b0b9b600",
+      "text": "Ölüleri diriltti!"
+    },
+    {
+      "id": "c039e7ae",
+      "bank_id": "b0b9b600",
+      "text": "Bize yardım etmelisiniz!"
+    },
+    {
+      "id": "c12ac428",
+      "bank_id": "b0b9b600",
+      "text": "Biliyordum. Hep böyle kıskançsın."
+    },
+    {
+      "id": "c2be2548",
+      "bank_id": "b0b9b600",
+      "text": "Evet, ölmüş gitmiş vallahi. Neredeyse yüz yıldır ölü. Ve hâlâ o hayalet kalyonla yelken açıyor."
+    },
+    {
+      "id": "c32ac70e",
+      "bank_id": "b0b9b600",
+      "text": "Kadim dilleri... okuyamıyorsun diye delirdin sadece."
+    },
+    {
+      "id": "c3be273b",
+      "bank_id": "b0b9b600",
+      "text": "Onu görmemi sağlayan rom falan değildi. Grog da değildi-- hayır, hayır. Tıpkı barda dans eden şu mavi inek kadar gerçekti diyorum size."
+    },
+    {
+      "id": "c52aca54",
+      "bank_id": "b0b9b600",
+      "text": "Bir dahaki sefere mezarlıkları keşfetmemizi istediğinde kafana bir tokmakla vur onun yerine."
+    },
+    {
+      "id": "c5be2a01",
+      "bank_id": "b0b9b600",
+      "text": "Evet... İhtiyar Dread hakkında çok hikâye duydum. Evet, hayatta olup da ondan ölesiye korkmayan tek bir korsan bile yoktur."
+    },
+    {
+      "id": "c72acdba",
+      "bank_id": "b0b9b600",
+      "text": "Nereden geldiklerini sanıyorsun ki?"
+    },
+    {
+      "id": "cd374ce3",
+      "bank_id": "b0b9b600",
+      "text": "Senin hatan, insanları her zaman kaçırıyorsun."
+    },
+    {
+      "id": "d6474950",
+      "bank_id": "b0b9b600",
+      "text": "Bir kol mekânizmasının parçası."
+    },
+    {
+      "id": "d7bc77b0",
+      "bank_id": "b0b9b600",
+      "text": "Sandığın içinde Kaptan Dread'in hazinesinin bir parçası olan 1.500 altın buldunuz."
+    },
+    {
+      "id": "d8bc7923",
+      "bank_id": "b0b9b600",
+      "text": "Sandığın içinde Kaptan Dread'in hazinesinin bir parçası olan 2.000 altın buldunuz."
+    },
+    {
+      "id": "d9a05f7b",
+      "bank_id": "b0b9b600",
+      "text": "Mezarlıktaki 100 kof adamı öldürün ve Son Derece Ölülerin Kitabı'nı geri alın."
+    },
+    {
+      "id": "d9bc7a96",
+      "bank_id": "b0b9b600",
+      "text": "Sandığın içinde Kaptan Dread'in hazinesinin bir parçası olan 7.000 altın buldunuz."
+    },
+    {
+      "id": "da76c549",
+      "bank_id": "b0b9b600",
+      "text": "Dread'in yaşadığı mağaraya gir ve garanti ederim ki en muazzam hazineyi bulacaksın. <laughs>"
+    },
+    {
+      "id": "daa060ee",
+      "bank_id": "b0b9b600",
+      "text": "Normanomicon'u alın."
+    },
+    {
+      "id": "daab873b",
+      "bank_id": "b0b9b600",
+      "text": "Kenneth'e 2.000 altın ödeyin."
+    },
+    {
+      "id": "dba06241",
+      "bank_id": "b0b9b600",
+      "text": "Normanomicon'u Sam'e verin."
+    },
+    {
+      "id": "dbab88ae",
+      "bank_id": "b0b9b600",
+      "text": "Rüşveti Kenneth'e verin."
+    },
+    {
+      "id": "dcbc7f6f",
+      "bank_id": "b0b9b600",
+      "text": "Sandığın içinde Kaptan Dread'in hazinesinin bir parçası olan 250 altın buldunuz."
+    },
+    {
+      "id": "ddbc80c2",
+      "bank_id": "b0b9b600",
+      "text": "Sandığın içinde Kaptan Dread'in hazinesinin bir parçası olan 500 altın buldunuz."
+    },
+    {
+      "id": "debc82b5",
+      "bank_id": "b0b9b600",
+      "text": "Sandığın içinde Kaptan Dread'in hazinesinin bir parçası olan 1.000 altın buldunuz."
+    },
+    {
+      "id": "e7681370",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread'in Anahtarı"
+    },
+    {
+      "id": "f0b593ee",
+      "bank_id": "b0b9b600",
+      "text": "Dread'in hazinesi sana sulu bir ölüm getirecek."
+    },
+    {
+      "id": "f0cbc00a",
+      "bank_id": "b0b9b600",
+      "text": "Har har! Vaktini boşa harcıyorsun, seni pis köpek!"
+    },
+    {
+      "id": "f1b59541",
+      "bank_id": "b0b9b600",
+      "text": "Bu mağara senin mezarın olacak."
+    },
+    {
+      "id": "f2b59734",
+      "bank_id": "b0b9b600",
+      "text": "Yaşayanların mürettebatımda yeri yoktur."
+    },
+    {
+      "id": "f3b598a7",
+      "bank_id": "b0b9b600",
+      "text": "(ürpertici kahkaha)"
+    },
+    {
+      "id": "f5b59b8d",
+      "bank_id": "b0b9b600",
+      "text": "Kaptan Dread'in diyarına giren hepiniz lanetlendiniz."
+    },
+    {
+      "id": "fa121f92",
+      "bank_id": "b0b9b600",
+      "text": "Nereye kaçıyorsun seni korkak? Har har har!"
+    }
+  ]
+}

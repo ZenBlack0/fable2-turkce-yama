@@ -1,0 +1,881 @@
+{
+  "bank_id": "50bcb600",
+  "total_strings": 175,
+  "strings": [
+    {
+      "id": "0014c8b6",
+      "bank_id": "50bcb600",
+      "text": "Keşke muhafız birliğine daha fazla kişi katılsaydı, böylece personel sıkıntısı çekmezdik."
+    },
+    {
+      "id": "0266a901",
+      "bank_id": "50bcb600",
+      "text": "Hayır! Lütfen! Hayır!"
+    },
+    {
+      "id": "0266a902",
+      "bank_id": "50bcb600",
+      "text": "Ne yapıyorsun sen? Hayır!"
+    },
+    {
+      "id": "0266a903",
+      "bank_id": "50bcb600",
+      "text": "Ben hür bir adamım! Hür bir adam!"
+    },
+    {
+      "id": "0266a904",
+      "bank_id": "50bcb600",
+      "text": "Bırakın beni! Bırakın beni!"
+    },
+    {
+      "id": "0266a905",
+      "bank_id": "50bcb600",
+      "text": "Hayır! Beni götüremezsiniz!"
+    },
+    {
+      "id": "0266a906",
+      "bank_id": "50bcb600",
+      "text": "Bunu bana yapamazsınız! Benim kim olduğumu biliyor musunuz?"
+    },
+    {
+      "id": "0266a907",
+      "bank_id": "50bcb600",
+      "text": "Bu rezalet. Derhâl serbest bırakılmayı talep ediyorum."
+    },
+    {
+      "id": "02e7cc48",
+      "bank_id": "50bcb600",
+      "text": "Bir başka sivil tehcir görevine var mısın?"
+    },
+    {
+      "id": "03e7ce3b",
+      "bank_id": "50bcb600",
+      "text": "Biraz köle tacirliğine... yani demek istediğim, vatandaş yeniden yerleştirme işlemine hazır mısın?"
+    },
+    {
+      "id": "04ab8d2d",
+      "bank_id": "50bcb600",
+      "text": "E, ilgileniyor musun? İyi para var, biliyorsun."
+    },
+    {
+      "id": "052c3cb0",
+      "bank_id": "50bcb600",
+      "text": "Sesinizi kesin!"
+    },
+    {
+      "id": "05e7d101",
+      "bank_id": "50bcb600",
+      "text": "Yerine getirilmeyi bekleyen bir sipariş daha var. İlgilenir misin?"
+    },
+    {
+      "id": "072c3f96",
+      "bank_id": "50bcb600",
+      "text": "Kes sesini!"
+    },
+    {
+      "id": "082c4109",
+      "bank_id": "50bcb600",
+      "text": "Sus bakayım sen!"
+    },
+    {
+      "id": "08e7d5da",
+      "bank_id": "50bcb600",
+      "text": "Hazırsan yeni bir sipariş daha geldi."
+    },
+    {
+      "id": "092c42fc",
+      "bank_id": "50bcb600",
+      "text": "Kapa çeneni!"
+    },
+    {
+      "id": "09e7d74d",
+      "bank_id": "50bcb600",
+      "text": "Hiçbir şeyden şüphelenmeyen birkaç sivili daha sevk etmeye hazır mısın?"
+    },
+    {
+      "id": "0a2c446f",
+      "bank_id": "50bcb600",
+      "text": "Konuşabileceğini kim söyledi sana?"
+    },
+    {
+      "id": "0d66bab0",
+      "bank_id": "50bcb600",
+      "text": "Bırakın beni! Lütfen!"
+    },
+    {
+      "id": "0d66bab2",
+      "bank_id": "50bcb600",
+      "text": "Bunu yapmayın! Lütfen!"
+    },
+    {
+      "id": "0d66bab3",
+      "bank_id": "50bcb600",
+      "text": "Ben köle değilim! İmdat!"
+    },
+    {
+      "id": "0d66bab4",
+      "bank_id": "50bcb600",
+      "text": "Hayır! Lütfen! Hayır!"
+    },
+    {
+      "id": "0d66bab5",
+      "bank_id": "50bcb600",
+      "text": "Kurtarın beni buradan!"
+    },
+    {
+      "id": "0d66bab6",
+      "bank_id": "50bcb600",
+      "text": "Hayır! Lütfen! Hayır!"
+    },
+    {
+      "id": "0d66bab7",
+      "bank_id": "50bcb600",
+      "text": "Hayatımda hiç böyle muamele görmedim. Derhâl uşağımı çağırın."
+    },
+    {
+      "id": "14f1c8db",
+      "bank_id": "50bcb600",
+      "text": "Mickey için bir sivili \"sürgün edecek\" misiniz?"
+    },
+    {
+      "id": "1e7926a5",
+      "bank_id": "50bcb600",
+      "text": "Ah, işte buradasın."
+    },
+    {
+      "id": "1f531281",
+      "bank_id": "50bcb600",
+      "text": "%1 hedefini öldürecek misiniz?"
+    },
+    {
+      "id": "2139b86a",
+      "bank_id": "50bcb600",
+      "text": "Bir ağır iş kurumu yeni \"elemanlara\" ihtiyaç duyuyor."
+    },
+    {
+      "id": "230e82f8",
+      "bank_id": "50bcb600",
+      "text": "Pekala, işte aradıkları şey."
+    },
+    {
+      "id": "250e85de",
+      "bank_id": "50bcb600",
+      "text": "Bu hafta çoğunlukla şu tip köylüleri arıyorlar."
+    },
+    {
+      "id": "25750938",
+      "bank_id": "50bcb600",
+      "text": "Köle tüccarlarının bilinen son konumunu bu nota yazdım."
+    },
+    {
+      "id": "260e87b1",
+      "bank_id": "50bcb600",
+      "text": "İşte aradıkları profil."
+    },
+    {
+      "id": "26750aab",
+      "bank_id": "50bcb600",
+      "text": "Zavallılar satılmadan... ya da daha kötüsü olmadan önce elini çabuk tutsan iyi olur."
+    },
+    {
+      "id": "28750df1",
+      "bank_id": "50bcb600",
+      "text": "Harikulade. Çok duyarlı bir vatandaşsınız, takdir etmeliyim."
+    },
+    {
+      "id": "2c0fe97d",
+      "bank_id": "50bcb600",
+      "text": "Bu da ne? Aradığımız şey bu değil. Yine de elinden alırız ama tam ödeme bekleme."
+    },
+    {
+      "id": "30cc3edb",
+      "bank_id": "50bcb600",
+      "text": "Mallar nerede öyleyse? Vaktimizi boşa harcamayı mı seviyorsun nesin?"
+    },
+    {
+      "id": "31cc404e",
+      "bank_id": "50bcb600",
+      "text": "Köleler açık kafeslere atlamak için bize doğru koşarak gelmiyor biliyorsun."
+    },
+    {
+      "id": "32cc4221",
+      "bank_id": "50bcb600",
+      "text": "Biraz çalışıp şu köleleri bize getirmeye ne dersin?"
+    },
+    {
+      "id": "3491c8b7",
+      "bank_id": "50bcb600",
+      "text": "Ödül Avcısı"
+    },
+    {
+      "id": "36d82d15",
+      "bank_id": "50bcb600",
+      "text": "Sivil Sürgün"
+    },
+    {
+      "id": "36f150c4",
+      "bank_id": "50bcb600",
+      "text": "Onları dosdoğru köle tacirleri kampına götür. Orada onları elinden alırlar."
+    },
+    {
+      "id": "376a27e0",
+      "bank_id": "50bcb600",
+      "text": "Ortadan kaldırılması gereken bazı canavarlar var."
+    },
+    {
+      "id": "37f152b7",
+      "bank_id": "50bcb600",
+      "text": "Sipariş tamamlandığında paranı alırsın."
+    },
+    {
+      "id": "386a2953",
+      "bank_id": "50bcb600",
+      "text": "Tehlikeli yaratıklardan oluşan pis bir sürüyü etkisiz hale getirmen gerek."
+    },
+    {
+      "id": "396a2ac6",
+      "bank_id": "50bcb600",
+      "text": "Bayağı belalı bazı canavarlar konusunda yardıma hayır demezdik."
+    },
+    {
+      "id": "39f1559d",
+      "bank_id": "50bcb600",
+      "text": "Profile uyduklarından emin ol."
+    },
+    {
+      "id": "3d6a3172",
+      "bank_id": "50bcb600",
+      "text": "Albion'u birbirine katan koca bir ifrit sürüsü olduğunu duyduk. İcaplarına bakarsın, değil mi?"
+    },
+    {
+      "id": "3e6a32e5",
+      "bank_id": "50bcb600",
+      "text": "Benim için birkaç mahlukatı avlayabilir misin?"
+    },
+    {
+      "id": "3e7b9eb0",
+      "bank_id": "50bcb600",
+      "text": "Senden nefret ediyorum!"
+    },
+    {
+      "id": "3e7b9eb1",
+      "bank_id": "50bcb600",
+      "text": "Senden daha kalpsizi yok."
+    },
+    {
+      "id": "3e7b9eb3",
+      "bank_id": "50bcb600",
+      "text": "Canavar!"
+    },
+    {
+      "id": "3e7b9eb4",
+      "bank_id": "50bcb600",
+      "text": "Bir gün hak ettiğini bulacaksın."
+    },
+    {
+      "id": "3e7b9eb5",
+      "bank_id": "50bcb600",
+      "text": "Sen bir ucubesin."
+    },
+    {
+      "id": "3e7b9eb6",
+      "bank_id": "50bcb600",
+      "text": "Umarım geberirsin!"
+    },
+    {
+      "id": "3e7b9eb7",
+      "bank_id": "50bcb600",
+      "text": "Ben bir et parçası değilim!"
+    },
+    {
+      "id": "42e87d14",
+      "bank_id": "50bcb600",
+      "text": "Duyduğuma göre çocuklar teslimatından pek memnun kalmamış."
+    },
+    {
+      "id": "457ba9b0",
+      "bank_id": "50bcb600",
+      "text": "Midemi bulandırıyorsun!"
+    },
+    {
+      "id": "457ba9b1",
+      "bank_id": "50bcb600",
+      "text": "Bu ölümden beter bir kader."
+    },
+    {
+      "id": "457ba9b2",
+      "bank_id": "50bcb600",
+      "text": "Gırtlağını sökeceğim senin."
+    },
+    {
+      "id": "457ba9b3",
+      "bank_id": "50bcb600",
+      "text": "Bu kafesin beni tutabileceğini mi sanıyorsun? Bir gün elime geçeceksin."
+    },
+    {
+      "id": "457ba9b4",
+      "bank_id": "50bcb600",
+      "text": "Benim için aldığın altınlar boğazında kalsın."
+    },
+    {
+      "id": "457ba9b5",
+      "bank_id": "50bcb600",
+      "text": "Seni asla affetmeyeceğim."
+    },
+    {
+      "id": "457ba9b6",
+      "bank_id": "50bcb600",
+      "text": "Ailemi bir daha asla göremeyeceğim."
+    },
+    {
+      "id": "469b2ff0",
+      "bank_id": "50bcb600",
+      "text": "Bunu nasıl yapabildin? Bir zamanlar birbirimize aşıktık!"
+    },
+    {
+      "id": "469b2ff1",
+      "bank_id": "50bcb600",
+      "text": "Bunu nasıl yapabildin? Bir zamanlar birbirimize aşıktık!"
+    },
+    {
+      "id": "469b2ff2",
+      "bank_id": "50bcb600",
+      "text": "Seninle hiç evlenmemeliydim!"
+    },
+    {
+      "id": "469b2ff4",
+      "bank_id": "50bcb600",
+      "text": "Bunu nasıl yapabildin? Bir zamanlar birbirimize aşıktık!"
+    },
+    {
+      "id": "469b2ff5",
+      "bank_id": "50bcb600",
+      "text": "Eşine böyle mi davranıyorsun?!"
+    },
+    {
+      "id": "469b2ff6",
+      "bank_id": "50bcb600",
+      "text": "Seninle hiç evlenmemeliydim!"
+    },
+    {
+      "id": "469b2ff7",
+      "bank_id": "50bcb600",
+      "text": "Seninle hiç evlenmemeliydim!"
+    },
+    {
+      "id": "4d72805f",
+      "bank_id": "50bcb600",
+      "text": "Mickey'nin yanına dönün."
+    },
+    {
+      "id": "4f9b3dd8",
+      "bank_id": "50bcb600",
+      "text": "Bunu nasıl yapabildin? Bir zamanlar birbirimize aşıktık!"
+    },
+    {
+      "id": "4f9b3dd9",
+      "bank_id": "50bcb600",
+      "text": "Eşine böyle mi davranıyorsun?!"
+    },
+    {
+      "id": "4f9b3dda",
+      "bank_id": "50bcb600",
+      "text": "Seninle hiç evlenmemeliydim!"
+    },
+    {
+      "id": "4f9b3ddb",
+      "bank_id": "50bcb600",
+      "text": "Seninle hiç evlenmemeliydim!"
+    },
+    {
+      "id": "4f9b3ddc",
+      "bank_id": "50bcb600",
+      "text": "Seninle hiç evlenmemeliydim!"
+    },
+    {
+      "id": "4f9b3ddd",
+      "bank_id": "50bcb600",
+      "text": "Bunu nasıl yapabildin? Bir zamanlar birbirimize aşıktık!"
+    },
+    {
+      "id": "4f9b3ddf",
+      "bank_id": "50bcb600",
+      "text": "Bunu nasıl yapabildin? Bir zamanlar birbirimize aşıktık!"
+    },
+    {
+      "id": "50670400",
+      "bank_id": "50bcb600",
+      "text": "Hepsini yakalayamamış olman ne yazık. Ödülün yalnızca bir kısmını verebilirim."
+    },
+    {
+      "id": "516705f3",
+      "bank_id": "50bcb600",
+      "text": "İşi bitirmedin, değil mi? Baştan savma bir iş, çok baştan savma. Yine de bir miktar ödülü hak ediyorsun sanırım."
+    },
+    {
+      "id": "521af25e",
+      "bank_id": "50bcb600",
+      "text": "Hiçbir şeyden şüphelenmeyen birkaç sivili daha sevk etmeye hazır mısın?"
+    },
+    {
+      "id": "531af431",
+      "bank_id": "50bcb600",
+      "text": "Hazırsan yeni bir sipariş daha geldi."
+    },
+    {
+      "id": "5325d0f0",
+      "bank_id": "50bcb600",
+      "text": "Hesaplara Mickey bakar. Paranı o verecek."
+    },
+    {
+      "id": "536708d9",
+      "bank_id": "50bcb600",
+      "text": "Nasıl oldu da o kanunsuzların hepsini temizlemedin? Pekala, sanırım dünyayı bir nebze daha güvenli kıldın."
+    },
+    {
+      "id": "541af5a4",
+      "bank_id": "50bcb600",
+      "text": "Biraz köle tacirliğine... yani demek istediğim, vatandaş yeniden yerleştirme işlemine hazır mısın?"
+    },
+    {
+      "id": "5422293e",
+      "bank_id": "50bcb600",
+      "text": "%1 hedefini alt edecek misiniz?"
+    },
+    {
+      "id": "5425d263",
+      "bank_id": "50bcb600",
+      "text": "Ödeme için Mickey'ye git. Şimdi kaybol!"
+    },
+    {
+      "id": "551af717",
+      "bank_id": "50bcb600",
+      "text": "Bir başka sivil tehcir görevine var mısın?"
+    },
+    {
+      "id": "5525d3d6",
+      "bank_id": "50bcb600",
+      "text": "Para işi Mickey'de. Git onu gör."
+    },
+    {
+      "id": "561af88a",
+      "bank_id": "50bcb600",
+      "text": "Yerine getirilmeyi bekleyen bir sipariş daha var. İlgilenir misin?"
+    },
+    {
+      "id": "5b2bdfd3",
+      "bank_id": "50bcb600",
+      "text": "Biraz para kazanmak ister misin?"
+    },
+    {
+      "id": "5b4ec2ab",
+      "bank_id": "50bcb600",
+      "text": "Profil kartını okuyun ve uyan birini bulun."
+    },
+    {
+      "id": "5c2be146",
+      "bank_id": "50bcb600",
+      "text": "Merak etme, kimse zarar görmüyor. En azından senin gözünün önünde değil."
+    },
+    {
+      "id": "5c4ec41e",
+      "bank_id": "50bcb600",
+      "text": "Örümcek Mickey ile konuşun."
+    },
+    {
+      "id": "5cc09053",
+      "bank_id": "50bcb600",
+      "text": "Ağır iş tüccarları artık sizinle iş yapmayacak. Görev bitti."
+    },
+    {
+      "id": "5d2be339",
+      "bank_id": "50bcb600",
+      "text": "Şu ahlaki çekinceleri olan insanlardan değilsin, değil mi?"
+    },
+    {
+      "id": "76ccf470",
+      "bank_id": "50bcb600",
+      "text": "Muhafızın yanına dönün."
+    },
+    {
+      "id": "77ccf5e3",
+      "bank_id": "50bcb600",
+      "text": "Yaratıkları bulun ve öldürün."
+    },
+    {
+      "id": "79ccf8c9",
+      "bank_id": "50bcb600",
+      "text": "Suçluları bulun ve öldürün."
+    },
+    {
+      "id": "7cccfd82",
+      "bank_id": "50bcb600",
+      "text": "Muhafızın notunu okuyun."
+    },
+    {
+      "id": "7dccff75",
+      "bank_id": "50bcb600",
+      "text": "Muhafızla konuşun."
+    },
+    {
+      "id": "809f6a4a",
+      "bank_id": "50bcb600",
+      "text": "Herhangi Biri"
+    },
+    {
+      "id": "8440c844",
+      "bank_id": "50bcb600",
+      "text": "Oraya gidip... anlarsın ya, onları haklamak istemiyor musun?"
+    },
+    {
+      "id": "8540ca37",
+      "bank_id": "50bcb600",
+      "text": "Burası kontrolümüz altında. Yardımına başka bir yerde ihtiyaç var."
+    },
+    {
+      "id": "8740cd1d",
+      "bank_id": "50bcb600",
+      "text": "Yardımın için teşekkürler."
+    },
+    {
+      "id": "8daa20e3",
+      "bank_id": "50bcb600",
+      "text": "Oh evet, bu gayet iyi iş görür."
+    },
+    {
+      "id": "8eaa2256",
+      "bank_id": "50bcb600",
+      "text": "Güzel iş. Tam aradığımız şey."
+    },
+    {
+      "id": "a2d776d7",
+      "bank_id": "50bcb600",
+      "text": "Kolay parayı geri çeviriyorsun. Ama sen bilirsin."
+    },
+    {
+      "id": "a3a7d9ef",
+      "bank_id": "50bcb600",
+      "text": "Sipariş Detayları:\nİş: %1\nGörünüm: %2\nAyırt Edici Özellikler: %3\nTeslimat Konumu: %4"
+    },
+    {
+      "id": "a5f5dbb7",
+      "bank_id": "50bcb600",
+      "text": "Ah, birkaç köylüyü iş gücü aktarma tesisimize sevk edeceksin öyleyse? Şahane."
+    },
+    {
+      "id": "aa2d5697",
+      "bank_id": "50bcb600",
+      "text": "Profile uyan birini bulun ve onu \"ağır iş\" kampına götürün."
+    },
+    {
+      "id": "ad8a37a8",
+      "bank_id": "50bcb600",
+      "text": "Yine de hiç yoktan iyidir."
+    },
+    {
+      "id": "ae8a391b",
+      "bank_id": "50bcb600",
+      "text": "Gelecekteki insan kaçırma işlerinde biraz daha seçici olmaya çalışsan iyi olur."
+    },
+    {
+      "id": "b28a3f47",
+      "bank_id": "50bcb600",
+      "text": "Teslimatta iyi iş çıkardın. Bugün altınını hak ettin."
+    },
+    {
+      "id": "b38a413a",
+      "bank_id": "50bcb600",
+      "text": "Onlara ne olacağını sormasan daha iyi. Sadece kazandığın altının tadını çıkar."
+    },
+    {
+      "id": "b48a42ad",
+      "bank_id": "50bcb600",
+      "text": "İyi bir yer değiştirme işlemiydi doğrusu. İşte paran."
+    },
+    {
+      "id": "b6412e9d",
+      "bank_id": "50bcb600",
+      "text": "Topluma olan borcunuzu ödemek için kamu hizmetini tamamlayın."
+    },
+    {
+      "id": "b95419c4",
+      "bank_id": "50bcb600",
+      "text": "İş bitti."
+    },
+    {
+      "id": "b9e96922",
+      "bank_id": "50bcb600",
+      "text": "Albion'u temizlemesi için muhafıza yardım edecek misiniz?"
+    },
+    {
+      "id": "ba77c14d",
+      "bank_id": "50bcb600",
+      "text": "Huzuru sağlamakla ilgilenmediğine emin misin?"
+    },
+    {
+      "id": "c5655e68",
+      "bank_id": "50bcb600",
+      "text": "Kimileri sana ödül avcısı diyebilir, bense buna İstenmeyen Mahlukat İmha Birimi demeyi tercih ederim."
+    },
+    {
+      "id": "c6111ba1",
+      "bank_id": "50bcb600",
+      "text": "O insanlar sana sahip oldukları için çok şanslı. İşte görevin ayrıntıları."
+    },
+    {
+      "id": "c6655fdb",
+      "bank_id": "50bcb600",
+      "text": "Kendi başının çaresine bakabilecek gibi görünüyorsun. Sorun yaşamazsın."
+    },
+    {
+      "id": "c7111d14",
+      "bank_id": "50bcb600",
+      "text": "Şu serserilere hadlerini bildir. İşte görev talimatın."
+    },
+    {
+      "id": "c765614e",
+      "bank_id": "50bcb600",
+      "text": "Ee, işi almak istiyor musun?"
+    },
+    {
+      "id": "c8111e87",
+      "bank_id": "50bcb600",
+      "text": "Sana güvenebileceğimi biliyordum. Her şey notta yazıyor, her zamanki gibi."
+    },
+    {
+      "id": "c911207a",
+      "bank_id": "50bcb600",
+      "text": "Çok iyi. İşte ayrıntıların yazılı olduğu not."
+    },
+    {
+      "id": "ceba6a48",
+      "bank_id": "50bcb600",
+      "text": "Kurbanın... yani demek istediğim sivilin, seni kartta belirtilen konuma kadar takip etmesini sağla yeter."
+    },
+    {
+      "id": "d0ba6dae",
+      "bank_id": "50bcb600",
+      "text": "Doğru kişilerin seni kampa kadar takip etmesini sağla, tıpkı kartta yazdığı gibi."
+    },
+    {
+      "id": "d1ba6f01",
+      "bank_id": "50bcb600",
+      "text": "Doğru vatandaş tipini bul ve kampa götür. Hepsi kartta yazıyor."
+    },
+    {
+      "id": "d7666aa8",
+      "bank_id": "50bcb600",
+      "text": "Kamu Hizmeti"
+    },
+    {
+      "id": "d7944bdc",
+      "bank_id": "50bcb600",
+      "text": "İşi ne kadar hızlı yaparsan, o kadar çok altın kazanırsın."
+    },
+    {
+      "id": "d8944d4f",
+      "bank_id": "50bcb600",
+      "text": "Ve elini çabuk tutmaya çalış. Ne kadar oyalanırsan ödeme o kadar düşer."
+    },
+    {
+      "id": "d9944f22",
+      "bank_id": "50bcb600",
+      "text": "Çok oyalanma. Onları oraya ne kadar çabuk götürürsen, o kadar çok kazanırsın!"
+    },
+    {
+      "id": "ea3d05c0",
+      "bank_id": "50bcb600",
+      "text": "Türlü türlü bela açan bir suçlu çetesi var. Ne yapacağını biliyorsun."
+    },
+    {
+      "id": "eb0c1ebd",
+      "bank_id": "50bcb600",
+      "text": "Buralarda profile uyan kimseyi göremiyorum..."
+    },
+    {
+      "id": "eb20e6d0",
+      "bank_id": "50bcb600",
+      "text": "Hukukun üstünlüğünü koruyacak ve vatandaşlarını kollamış olacaksın. Ne dersin?"
+    },
+    {
+      "id": "ec3d0926",
+      "bank_id": "50bcb600",
+      "text": "Bulmanı istediğimiz bir düzenbaz çetesi var."
+    },
+    {
+      "id": "ed3d0a99",
+      "bank_id": "50bcb600",
+      "text": "Şiddet yanlısı bir grup kaçağın izini sürmen gerekiyor."
+    },
+    {
+      "id": "edce0970",
+      "bank_id": "50bcb600",
+      "text": "Gittiğimiz bu yer de neresi?"
+    },
+    {
+      "id": "edce0971",
+      "bank_id": "50bcb600",
+      "text": "Kasabaya geri dönelim, ha ne dersin?"
+    },
+    {
+      "id": "edce0972",
+      "bank_id": "50bcb600",
+      "text": "Neden bu yoldan gitmek zorundayız ki?"
+    },
+    {
+      "id": "edce0973",
+      "bank_id": "50bcb600",
+      "text": "Bundan daha ileri gitmek istemiyorum. Yalvarırım."
+    },
+    {
+      "id": "edce0974",
+      "bank_id": "50bcb600",
+      "text": "Daha fazla yaklaşmak istemiyorum. Lütfen."
+    },
+    {
+      "id": "edce0976",
+      "bank_id": "50bcb600",
+      "text": "Oraya neden gidiyoruz?"
+    },
+    {
+      "id": "edce0977",
+      "bank_id": "50bcb600",
+      "text": "Geri dönemez miyiz?"
+    },
+    {
+      "id": "ee3d0c0c",
+      "bank_id": "50bcb600",
+      "text": "Özellikle acımasız bir haydut çetesiyle başımız dertte. İcaplarına baksana bir zahmet?"
+    },
+    {
+      "id": "ef0d01b8",
+      "bank_id": "50bcb600",
+      "text": "Bunu nasıl yapabildin?"
+    },
+    {
+      "id": "ef0d01ba",
+      "bank_id": "50bcb600",
+      "text": "Buna değdi mi bari?"
+    },
+    {
+      "id": "ef0d01bb",
+      "bank_id": "50bcb600",
+      "text": "Beni altın karşılığında sattığına inanamıyorum."
+    },
+    {
+      "id": "ef0d01bc",
+      "bank_id": "50bcb600",
+      "text": "Bu birini son takip edişim oldu."
+    },
+    {
+      "id": "ef0d01bd",
+      "bank_id": "50bcb600",
+      "text": "Seni pislik!"
+    },
+    {
+      "id": "ef0d01be",
+      "bank_id": "50bcb600",
+      "text": "Bunun bedelini ödeyeceksin."
+    },
+    {
+      "id": "ef0d01bf",
+      "bank_id": "50bcb600",
+      "text": "Beni buna nasıl maruz bırakabildin?"
+    },
+    {
+      "id": "ef3d0dff",
+      "bank_id": "50bcb600",
+      "text": "Aşağılık bazı kanun kaçakları masum insanlara terör estiriyor. Uygun gördüğün şekilde icaplarına bak."
+    },
+    {
+      "id": "f2ce1110",
+      "bank_id": "50bcb600",
+      "text": "Bundan hiç ama hiç hoşlanmadım."
+    },
+    {
+      "id": "f2ce1111",
+      "bank_id": "50bcb600",
+      "text": "Hangi hobbe aşkına o tarafa gidiyoruz ki?"
+    },
+    {
+      "id": "f2ce1112",
+      "bank_id": "50bcb600",
+      "text": "Çok tedirgin olmaya başladım. Geri dönebilir miyiz, lütfen?"
+    },
+    {
+      "id": "f2ce1113",
+      "bank_id": "50bcb600",
+      "text": "Bu son derece kaygı verici. Daha fazla gitmeyelim."
+    },
+    {
+      "id": "f2ce1115",
+      "bank_id": "50bcb600",
+      "text": "Beni nereye götürüyorsun?"
+    },
+    {
+      "id": "f2ce1116",
+      "bank_id": "50bcb600",
+      "text": "Burası neresi böyle?"
+    },
+    {
+      "id": "f2ce1117",
+      "bank_id": "50bcb600",
+      "text": "Burada ne işimiz var bizim?"
+    },
+    {
+      "id": "f40d0959",
+      "bank_id": "50bcb600",
+      "text": "Çok kalpsizsin!"
+    },
+    {
+      "id": "f40d095a",
+      "bank_id": "50bcb600",
+      "text": "Bunu bana neden yaptın?"
+    },
+    {
+      "id": "f40d095b",
+      "bank_id": "50bcb600",
+      "text": "Nasıl bu kadar kötü olabiliyorsun?"
+    },
+    {
+      "id": "f40d095c",
+      "bank_id": "50bcb600",
+      "text": "Buradan bir çıkayım, suratını tekmelerle dağıtacağım."
+    },
+    {
+      "id": "f40d095d",
+      "bank_id": "50bcb600",
+      "text": "Bunun hesabını soracağım senden!"
+    },
+    {
+      "id": "f40d095e",
+      "bank_id": "50bcb600",
+      "text": "Ben üç beş altın sikkesinden çok daha değerliyim!"
+    },
+    {
+      "id": "f40d095f",
+      "bank_id": "50bcb600",
+      "text": "Hayatımda hiç bu kadar saygısızca bir muamele görmemiştim."
+    },
+    {
+      "id": "fd8a2742",
+      "bank_id": "50bcb600",
+      "text": "Biri geliyor! Görünüşe göre bir teslimatımız var."
+    },
+    {
+      "id": "fdab8228",
+      "bank_id": "50bcb600",
+      "text": "Sivil tehcir! Eskiden buna \"insanları kaçırıp köle olarak satmak\" derlerdi ama günümüzün giderek sertleşen piyasasında pek tutmadı."
+    },
+    {
+      "id": "feab839b",
+      "bank_id": "50bcb600",
+      "text": "Yeni ve heyecan verici bir iş fırsatında yardımcı olacak, tıpkı senin gibi genç ve hırslı insanlar arıyorum."
+    },
+    {
+      "id": "ffab850e",
+      "bank_id": "50bcb600",
+      "text": "Selamlar. Adım Mickey. Bana Örümcek Mickey derler. Bacaklarım kıllı olduğu için öyle derler."
+    }
+  ]
+}

@@ -1,0 +1,921 @@
+{
+  "bank_id": "20126602",
+  "total_strings": 183,
+  "strings": [
+    {
+      "id": "0752d991",
+      "bank_id": "20126602",
+      "text": "Unutmayın: MASUMLARA VURMAK BİR SUÇTUR!"
+    },
+    {
+      "id": "07584518",
+      "bank_id": "20126602",
+      "text": "Bu dükkânı satın alabilirsiniz. Sahip olduğunuzda, oyunda olsanız da olmasanız da her 5 dakikada bir gelir elde edersiniz!"
+    },
+    {
+      "id": "07f182b7",
+      "bank_id": "20126602",
+      "text": "Hazır Büyüleri Değiştirme"
+    },
+    {
+      "id": "089c6cd4",
+      "bank_id": "20126602",
+      "text": "Deneyim kürelerini toplarken saldırılara daha açıksınızdır. Dikkatli olun!"
+    },
+    {
+      "id": "1145d96c",
+      "bank_id": "20126602",
+      "text": "Karşılaştığınız insanlar hakkında daha fazla bilgi edinmek için onlara karşı bu ifadeyi kullanın."
+    },
+    {
+      "id": "1422cb9e",
+      "bank_id": "20126602",
+      "text": "Birkaç Seviye 1 büyünüz var. Bu odaklanma seviyesinde hangisini yapmak istediğinizi seçmek için <righttrigger.img> tuşunu basılı tutun."
+    },
+    {
+      "id": "1540b67f",
+      "bank_id": "20126602",
+      "text": "16"
+    },
+    {
+      "id": "195688d7",
+      "bank_id": "20126602",
+      "text": "Çok zarif. İyi bir kıyafet takımı ve harika bir vücut ilişkilerde her zaman işe yarar! Yeni fikirler için yerel terzileri ve kuaförleri ziyaret edin."
+    },
+    {
+      "id": "1f45e651",
+      "bank_id": "20126602",
+      "text": "Oyuncak silahınızı ateşlemek için <y_img> tuşuna basın."
+    },
+    {
+      "id": "211dc7b9",
+      "bank_id": "20126602",
+      "text": "Bir köylüden hırsızlık yapmak üzeresiniz! Bu bir suçtur! Göz simgesi birinin sizi görüp görmediğini belirtir. Göz kapalıyken suçları fark edilmeden işleyebilirsiniz."
+    },
+    {
+      "id": "242b7ce1",
+      "bank_id": "20126602",
+      "text": "Hedefinize kilitlenmek için <lefttrigger.img> tuşunu basılı tutun."
+    },
+    {
+      "id": "2801b867",
+      "bank_id": "20126602",
+      "text": "Bir romantizmin filizlenmesi zaman alabilir. Birkaç dostane ve romantik jestle, ilginizi çeken kişi size karşı duygular beslemeye başlayabilir."
+    },
+    {
+      "id": "2a93850f",
+      "bank_id": "20126602",
+      "text": "Savaş sırasında yuvarlanmak ve düşman saldırılarından kaçınmak için <a_img> tuşuna basıp <left.img> çubuğunu bir yöne doğru itin."
+    },
+    {
+      "id": "2b54fe9b",
+      "bank_id": "20126602",
+      "text": "Kürek"
+    },
+    {
+      "id": "2d384915",
+      "bank_id": "20126602",
+      "text": "Hedefe yönelik bir büyü yapmak için odaklanırken <left.img> çubuğunu bir yöne doğru tutun."
+    },
+    {
+      "id": "2d3ba600",
+      "bank_id": "20126602",
+      "text": "Yeni görevler mevcut olduğunda, <dpad.img> Görevler ekranına giden bir kısayol gösterir."
+    },
+    {
+      "id": "2f46c284",
+      "bank_id": "20126602",
+      "text": "Ateş Etme"
+    },
+    {
+      "id": "358be8c4",
+      "bank_id": "20126602",
+      "text": "Bowerstone Pazarı veya Bloodstone'daki kuaförlerden ya da terzilerden satın aldığınız boyalarla kıyafetlerinizi boyayabilirsiniz."
+    },
+    {
+      "id": "37116889",
+      "bank_id": "20126602",
+      "text": "Yeni bir iş mevcut. <dpad.img> İşler ekranına giden bir kısayol gösterir."
+    },
+    {
+      "id": "39ef97e0",
+      "bank_id": "20126602",
+      "text": "Andy"
+    },
+    {
+      "id": "3aef9953",
+      "bank_id": "20126602",
+      "text": "Patrick"
+    },
+    {
+      "id": "3bef9ac6",
+      "bank_id": "20126602",
+      "text": "Adam"
+    },
+    {
+      "id": "3c1a23d9",
+      "bank_id": "20126602",
+      "text": "Güvenlik modunu kapatma"
+    },
+    {
+      "id": "3cef9cb9",
+      "bank_id": "20126602",
+      "text": "John"
+    },
+    {
+      "id": "3cf1db10",
+      "bank_id": "20126602",
+      "text": "Richard"
+    },
+    {
+      "id": "3da59c96",
+      "bank_id": "20126602",
+      "text": "Yeni kupanızla ün kazanmak için Kupa ifadesini kullanın! Bu ifade, ifade çarkının Sosyal bölümünde bulunabilir. Bulmak için <rightbutton.img> tuşuna basın."
+    },
+    {
+      "id": "3def9e2c",
+      "bank_id": "20126602",
+      "text": "Mark"
+    },
+    {
+      "id": "3df1dc83",
+      "bank_id": "20126602",
+      "text": "Andy"
+    },
+    {
+      "id": "3eef9f9f",
+      "bank_id": "20126602",
+      "text": "Rob"
+    },
+    {
+      "id": "3ef1de76",
+      "bank_id": "20126602",
+      "text": "Ian"
+    },
+    {
+      "id": "3fefa172",
+      "bank_id": "20126602",
+      "text": "Ben"
+    },
+    {
+      "id": "3ff1dfe9",
+      "bank_id": "20126602",
+      "text": "Ian"
+    },
+    {
+      "id": "40efa2e5",
+      "bank_id": "20126602",
+      "text": "Mike"
+    },
+    {
+      "id": "40f1e15c",
+      "bank_id": "20126602",
+      "text": "Jorge"
+    },
+    {
+      "id": "412b9182",
+      "bank_id": "20126602",
+      "text": "Aynı şeyi tekrar tekrar yaparsanız köylüler çabucak sıkılabilir."
+    },
+    {
+      "id": "41f1e2cf",
+      "bank_id": "20126602",
+      "text": "Jackson"
+    },
+    {
+      "id": "42f1e4a2",
+      "bank_id": "20126602",
+      "text": "Jon"
+    },
+    {
+      "id": "43efa7be",
+      "bank_id": "20126602",
+      "text": "Angus"
+    },
+    {
+      "id": "43f1e615",
+      "bank_id": "20126602",
+      "text": "Damien"
+    },
+    {
+      "id": "44efa911",
+      "bank_id": "20126602",
+      "text": "Mark"
+    },
+    {
+      "id": "452662ec",
+      "bank_id": "20126602",
+      "text": "Bu köylünün verecek bir ödülü var. İbreyi hediye simgesine doğru kaydırmak için uygun ifadeleri kullanın veya onlara hediyeler verin."
+    },
+    {
+      "id": "469ee575",
+      "bank_id": "20126602",
+      "text": "Kullanılabilir bir eşya aldınız. Kullanmak isterseniz Duraklatma menüsünün Eşyalar sekmesine gidin."
+    },
+    {
+      "id": "4775ad74",
+      "bank_id": "20126602",
+      "text": "Hay aksi. Birini sinirlendirirseniz ilgisini çabucak kaybedersiniz. Başka bir ifade deneyin."
+    },
+    {
+      "id": "47f42b38",
+      "bank_id": "20126602",
+      "text": "James"
+    },
+    {
+      "id": "48f42cab",
+      "bank_id": "20126602",
+      "text": "Dan"
+    },
+    {
+      "id": "49c3b532",
+      "bank_id": "20126602",
+      "text": "<a_img> tuşunu kullanarak köylüyle etkileşime geçin ve ödülünüzü alın!"
+    },
+    {
+      "id": "49f42e1e",
+      "bank_id": "20126602",
+      "text": "Stuart"
+    },
+    {
+      "id": "4a242900",
+      "bank_id": "20126602",
+      "text": "Si"
+    },
+    {
+      "id": "4af1f11a",
+      "bank_id": "20126602",
+      "text": "Kalev"
+    },
+    {
+      "id": "4af42ff1",
+      "bank_id": "20126602",
+      "text": "Ed"
+    },
+    {
+      "id": "4b242af3",
+      "bank_id": "20126602",
+      "text": "Chris"
+    },
+    {
+      "id": "4bb7bdee",
+      "bank_id": "20126602",
+      "text": "Böcekleri silkme"
+    },
+    {
+      "id": "4bf1f28d",
+      "bank_id": "20126602",
+      "text": "James"
+    },
+    {
+      "id": "4bf43164",
+      "bank_id": "20126602",
+      "text": "Peter"
+    },
+    {
+      "id": "4c242c66",
+      "bank_id": "20126602",
+      "text": "Andy"
+    },
+    {
+      "id": "4c4c7357",
+      "bank_id": "20126602",
+      "text": "Büyünüzü yapmak için <b_img> tuşuna basın!"
+    },
+    {
+      "id": "4cf432d7",
+      "bank_id": "20126602",
+      "text": "Mark"
+    },
+    {
+      "id": "4d242dd9",
+      "bank_id": "20126602",
+      "text": "Emilio"
+    },
+    {
+      "id": "4f24313f",
+      "bank_id": "20126602",
+      "text": "Ceri"
+    },
+    {
+      "id": "50243292",
+      "bank_id": "20126602",
+      "text": "Chris"
+    },
+    {
+      "id": "51243405",
+      "bank_id": "20126602",
+      "text": "Paul"
+    },
+    {
+      "id": "56243c24",
+      "bank_id": "20126602",
+      "text": "Chris"
+    },
+    {
+      "id": "57243d97",
+      "bank_id": "20126602",
+      "text": "Andrea"
+    },
+    {
+      "id": "577ec096",
+      "bank_id": "20126602",
+      "text": "Korku çoğu insan için çekici bir şey değildir. Bunun yerine güzel bir şeyler yapmayı deneyin."
+    },
+    {
+      "id": "5b3f2094",
+      "bank_id": "20126602",
+      "text": "Bu bir gümüş anahtar sandığıdır. Açmak için gereken anahtar sayısı sandığın üzerinde gösterilir."
+    },
+    {
+      "id": "5c2ce892",
+      "bank_id": "20126602",
+      "text": "Bu bir Alan Büyüsüydü. Belirli düşmanları hedef alıp daha fazla hasar vermek için odaklandıktan sonra <left.img> çubuğunu bir yöne doğru tutun!"
+    },
+    {
+      "id": "5d3f23fa",
+      "bank_id": "20126602",
+      "text": "Gümüş anahtarlar tüm Albion'a gizlenmiş olarak bulunabilir."
+    },
+    {
+      "id": "5d6db6a8",
+      "bank_id": "20126602",
+      "text": "Genel mağazalardan satın alınan boyalarla saçınızı boyayabilirsiniz."
+    },
+    {
+      "id": "5e3f256d",
+      "bank_id": "20126602",
+      "text": "Bir sandığı açmak anahtarlarınızı tüketmez."
+    },
+    {
+      "id": "620be644",
+      "bank_id": "20126602",
+      "text": "Seçili büyünüzü yapmak için <b_img> tuşuna basın. <b_img> tuşunu basılı tutmak büyüye odaklanarak öğrendiğiniz daha yüksek seviyeli büyüleri yapmanızı sağlar.\nHer büyünün iki modu vardır: alan ve hedefe yönelik. Hedefe yönelik bir büyü yapmak için odaklandıktan sonra <left.img> çubuğunu belirli düşmanlara doğru tutarak daha fazla hasar verin."
+    },
+    {
+      "id": "62634ca4",
+      "bank_id": "20126602",
+      "text": "Hedefteki bir köylünün dikkatini çekmek için yanında dururken <lefttrigger.img> tuşuna dokunun."
+    },
+    {
+      "id": "6655f51e",
+      "bank_id": "20126602",
+      "text": "İrade Dövüşü"
+    },
+    {
+      "id": "6b96ee3c",
+      "bank_id": "20126602",
+      "text": "İnsanları sıkma"
+    },
+    {
+      "id": "6d25c121",
+      "bank_id": "20126602",
+      "text": "Geceleri tüm dükkânlar kapalıdır. Açılana kadar bir handa uyuyabilirsiniz."
+    },
+    {
+      "id": "762165be",
+      "bank_id": "20126602",
+      "text": "Bir görev sona ermek üzere! Daha fazlasını öğrenmek için haritanızı <dpad.img> kontrol edin."
+    },
+    {
+      "id": "79f87187",
+      "bank_id": "20126602",
+      "text": "Dövüşte yuvarlanma"
+    },
+    {
+      "id": "7b45881c",
+      "bank_id": "20126602",
+      "text": "Herkes mizah duygusunu sever. İnsanları güldürmek genelde onların sizden daha çok hoşlanmasını da sağlar."
+    },
+    {
+      "id": "7c237b68",
+      "bank_id": "20126602",
+      "text": "Kötü bir eylemde bulundunuz ve Albion'daki ahlaki duruşunuza zarar verdiniz."
+    },
+    {
+      "id": "7e90aa0e",
+      "bank_id": "20126602",
+      "text": "Koşma"
+    },
+    {
+      "id": "82f63ead",
+      "bank_id": "20126602",
+      "text": "Bu seviyenin yuvasındaki büyüyü değiştirmek için <dpad.img> üzerinde sol ve sağ yönlerini kullanın."
+    },
+    {
+      "id": "8815b014",
+      "bank_id": "20126602",
+      "text": "75"
+    },
+    {
+      "id": "897cdb90",
+      "bank_id": "20126602",
+      "text": "Kilitlenmişken, saldırılarınızın hangi hedefe odaklanacağını değiştirmek için <right.img> çubuğunu sola veya sağa doğru itin."
+    },
+    {
+      "id": "906808e5",
+      "bank_id": "20126602",
+      "text": "Görevler yaparak, kupaları sergileyerek, ozana para vererek, heykellerinizi diktirerek ve hatta evlenerek ün kazanın!"
+    },
+    {
+      "id": "91df458e",
+      "bank_id": "20126602",
+      "text": "Menzilli silahınızı ateşlemek için <y_img> tuşuna dokunun."
+    },
+    {
+      "id": "9235855d",
+      "bank_id": "20126602",
+      "text": "İyi bir eylemde bulundunuz ve Albion'daki ahlaki duruşunuzu geliştirdiniz."
+    },
+    {
+      "id": "9d647cdd",
+      "bank_id": "20126602",
+      "text": "Bir indirim sona ermek üzere! Daha fazlasını öğrenmek için haritanızı <dpad.img> kontrol edin."
+    },
+    {
+      "id": "9e1640c8",
+      "bank_id": "20126602",
+      "text": "Menzilli silahınızı ateşlemek için <y_img> tuşuna basın."
+    },
+    {
+      "id": "9e4c9852",
+      "bank_id": "20126602",
+      "text": "Bir hayat kadını size teklifte bulundu. Teklifi kabul etmek için Başparmak Yukarı ifadesini, reddetmek için Başparmak Aşağı ifadesini kullanın."
+    },
+    {
+      "id": "a39c4789",
+      "bank_id": "20126602",
+      "text": "İnsanların başının üzerinde yükselen simgeler gördüğünüzde, bu onların sizin hakkınızdaki düşüncelerinin değiştiği anlamına gelir. İyi ya da kötü yönde!"
+    },
+    {
+      "id": "a6d32300",
+      "bank_id": "20126602",
+      "text": "Yeni bir evlilik evine taşınmak isterseniz evin dışındaki tabelayla etkileşime geçip ailenizi oraya taşımayı seçmeniz yeterlidir."
+    },
+    {
+      "id": "a6ea4ca2",
+      "bank_id": "20126602",
+      "text": "İndirimler"
+    },
+    {
+      "id": "a8f83c35",
+      "bank_id": "20126602",
+      "text": "Ayarlar ekranından bir mini harita da açılabilir."
+    },
+    {
+      "id": "acedfc09",
+      "bank_id": "20126602",
+      "text": "Güzel. Romantik ifadeler ve hediyeler, biriyle ilişkinizi geliştirmenin en iyi yoludur. Bir başkasını deneyin."
+    },
+    {
+      "id": "add57b86",
+      "bank_id": "20126602",
+      "text": "Bir mobilya mağazasından mobilya satın alırsanız evinizin değerini artırmak için onu dekore edebilirsiniz."
+    },
+    {
+      "id": "ae37b2ee",
+      "bank_id": "20126602",
+      "text": "Güvenlik modunu kapatmak için kurbanınıza dönükken elinizde bir silahla <dpad.img> üzerinde aşağı basın. Bu, masum insanlara vurmanıza izin verecektir."
+    },
+    {
+      "id": "af5ede03",
+      "bank_id": "20126602",
+      "text": "Büyüye Odaklanma"
+    },
+    {
+      "id": "b1f4087c",
+      "bank_id": "20126602",
+      "text": "<b_img> tuşuna, <left.img> çubuğunu hareket ettirmeden dokunarak alan büyüsü yapın."
+    },
+    {
+      "id": "b2aafc0f",
+      "bank_id": "20126602",
+      "text": "İleri Düzey Dövüş: Çevik Dövüş Tarzları"
+    },
+    {
+      "id": "b4f40d35",
+      "bank_id": "20126602",
+      "text": "Seviye 1 bir büyü yaptınız. Daha yüksek seviyeli bir büyü yapmak için büyü göstergesini doldurmak üzere <b_img> tuşunu basılı tutun."
+    },
+    {
+      "id": "b6ec8b30",
+      "bank_id": "20126602",
+      "text": "Kaspar"
+    },
+    {
+      "id": "b76523f8",
+      "bank_id": "20126602",
+      "text": "Güvenlik modunu tekrar açmak için <dpad.img> üzerinde aşağı basın. Bu, masumları yanlışlıkla incitmeyeceğinizi garanti eder."
+    },
+    {
+      "id": "b7ec8ca3",
+      "bank_id": "20126602",
+      "text": "Martin"
+    },
+    {
+      "id": "b8ec8e16",
+      "bank_id": "20126602",
+      "text": "Tak"
+    },
+    {
+      "id": "b8fb9880",
+      "bank_id": "20126602",
+      "text": "Dave"
+    },
+    {
+      "id": "b9ec8f89",
+      "bank_id": "20126602",
+      "text": "Marco"
+    },
+    {
+      "id": "b9fb9a73",
+      "bank_id": "20126602",
+      "text": "Neal"
+    },
+    {
+      "id": "baec917c",
+      "bank_id": "20126602",
+      "text": "Fran"
+    },
+    {
+      "id": "bafb9be6",
+      "bank_id": "20126602",
+      "text": "Charlie"
+    },
+    {
+      "id": "bbec92ef",
+      "bank_id": "20126602",
+      "text": "Paul"
+    },
+    {
+      "id": "bbfb9d59",
+      "bank_id": "20126602",
+      "text": "Mike"
+    },
+    {
+      "id": "bbfddc30",
+      "bank_id": "20126602",
+      "text": "Neil"
+    },
+    {
+      "id": "bcec9442",
+      "bank_id": "20126602",
+      "text": "Guillaume"
+    },
+    {
+      "id": "bcfb9ecc",
+      "bank_id": "20126602",
+      "text": "Al"
+    },
+    {
+      "id": "bcfddda3",
+      "bank_id": "20126602",
+      "text": "Stewart"
+    },
+    {
+      "id": "bd7efb88",
+      "bank_id": "20126602",
+      "text": "Kelly"
+    },
+    {
+      "id": "bdec9635",
+      "bank_id": "20126602",
+      "text": "Chris"
+    },
+    {
+      "id": "bdfba0bf",
+      "bank_id": "20126602",
+      "text": "Joss"
+    },
+    {
+      "id": "bdfddf16",
+      "bank_id": "20126602",
+      "text": "Kieran"
+    },
+    {
+      "id": "be7efd7b",
+      "bank_id": "20126602",
+      "text": "Penny"
+    },
+    {
+      "id": "beec97a8",
+      "bank_id": "20126602",
+      "text": "Nathan"
+    },
+    {
+      "id": "befba212",
+      "bank_id": "20126602",
+      "text": "Alex"
+    },
+    {
+      "id": "befde089",
+      "bank_id": "20126602",
+      "text": "Neil"
+    },
+    {
+      "id": "bf7efeee",
+      "bank_id": "20126602",
+      "text": "Jackie"
+    },
+    {
+      "id": "bfec991b",
+      "bank_id": "20126602",
+      "text": "Kiernan"
+    },
+    {
+      "id": "bffba385",
+      "bank_id": "20126602",
+      "text": "Mark"
+    },
+    {
+      "id": "bffde27c",
+      "bank_id": "20126602",
+      "text": "Simon"
+    },
+    {
+      "id": "c07f0041",
+      "bank_id": "20126602",
+      "text": "Jane"
+    },
+    {
+      "id": "c0fde3ef",
+      "bank_id": "20126602",
+      "text": "Alex"
+    },
+    {
+      "id": "c17f0234",
+      "bank_id": "20126602",
+      "text": "Sian"
+    },
+    {
+      "id": "c1fde542",
+      "bank_id": "20126602",
+      "text": "Jonathan"
+    },
+    {
+      "id": "c2052f0e",
+      "bank_id": "20126602",
+      "text": "Çıkıntılardan atlama"
+    },
+    {
+      "id": "c2fba85e",
+      "bank_id": "20126602",
+      "text": "Dan"
+    },
+    {
+      "id": "c2fde735",
+      "bank_id": "20126602",
+      "text": "Mike"
+    },
+    {
+      "id": "c37f051a",
+      "bank_id": "20126602",
+      "text": "Rachael"
+    },
+    {
+      "id": "c3fbaa31",
+      "bank_id": "20126602",
+      "text": "Glen"
+    },
+    {
+      "id": "c47f068d",
+      "bank_id": "20126602",
+      "text": "Rebecca"
+    },
+    {
+      "id": "c562cb86",
+      "bank_id": "20126602",
+      "text": "Artık farklı seviyelerde birkaç büyünüz var. Farklı odaklanma seviyelerinde hangisinin yapılacağını seçmek için <righttrigger.img> tuşunu basılı tutun."
+    },
+    {
+      "id": "c59b29b5",
+      "bank_id": "20126602",
+      "text": "Giyilebilir bir eşya aldınız. Giymek isterseniz Duraklatma menünüzün Kıyafetler sekmesine gidin."
+    },
+    {
+      "id": "c7fdeed4",
+      "bank_id": "20126602",
+      "text": "Dave"
+    },
+    {
+      "id": "c805e58c",
+      "bank_id": "20126602",
+      "text": "Gölge Mahkemesi, Reaver'ın mührünü taşıyan kim olursa olsun gençliğini ve canlılığını emecek. Reaver'ın ebedi gençliği uğruna kimin acı çekeceğine karar vermek için kısa bir vaktiniz var."
+    },
+    {
+      "id": "c896ede4",
+      "bank_id": "20126602",
+      "text": "Tahta kılıcınızı kullanmak ve Rex'i yenmek için <x_img> düğmesini kullanın!"
+    },
+    {
+      "id": "c8fdf047",
+      "bank_id": "20126602",
+      "text": "Matt"
+    },
+    {
+      "id": "cbf97832",
+      "bank_id": "20126602",
+      "text": "Dene"
+    },
+    {
+      "id": "ccf979a5",
+      "bank_id": "20126602",
+      "text": "Iain"
+    },
+    {
+      "id": "cdf97b18",
+      "bank_id": "20126602",
+      "text": "Mike"
+    },
+    {
+      "id": "ce9e57e8",
+      "bank_id": "20126602",
+      "text": "İndirim olduğunda <dpad.img> yanıp söner. Şimdi basın."
+    },
+    {
+      "id": "cef97c8b",
+      "bank_id": "20126602",
+      "text": "Richard"
+    },
+    {
+      "id": "cff97e7e",
+      "bank_id": "20126602",
+      "text": "Ben"
+    },
+    {
+      "id": "d0f97fd1",
+      "bank_id": "20126602",
+      "text": "Rob"
+    },
+    {
+      "id": "d1f98144",
+      "bank_id": "20126602",
+      "text": "Chris"
+    },
+    {
+      "id": "d2f98337",
+      "bank_id": "20126602",
+      "text": "Jeremie"
+    },
+    {
+      "id": "d3f984aa",
+      "bank_id": "20126602",
+      "text": "Will"
+    },
+    {
+      "id": "d4f9861d",
+      "bank_id": "20126602",
+      "text": "Jonathan"
+    },
+    {
+      "id": "d6b51a7f",
+      "bank_id": "20126602",
+      "text": "Hay aksi. Bazı insanlar kalitesinin yeterince yüksek olduğunu hissetmezlerse alyansı kabul etmezler. Birinin sosyal statüsü ne kadar yüksekse o kadar talepkâr olacaktır."
+    },
+    {
+      "id": "d9643c50",
+      "bank_id": "20126602",
+      "text": "İşaretli çıkıntıların üzerinden atlamak için <a_img> tuşuna basın."
+    },
+    {
+      "id": "dc644129",
+      "bank_id": "20126602",
+      "text": "Bir çıkıntıyla karşılaştığınızda <a_img> görünürse güvenle atlayabilirsiniz."
+    },
+    {
+      "id": "dd3d0947",
+      "bank_id": "20126602",
+      "text": "Güvenlik modunu açma"
+    },
+    {
+      "id": "de0b77c2",
+      "bank_id": "20126602",
+      "text": "Açık denizde sizi ölümden başka bir şey beklemiyor. Geri dönmelisiniz."
+    },
+    {
+      "id": "e091ef88",
+      "bank_id": "20126602",
+      "text": "Büyü Yapma"
+    },
+    {
+      "id": "e4edf63a",
+      "bank_id": "20126602",
+      "text": "Yeni görevler"
+    },
+    {
+      "id": "e4f52268",
+      "bank_id": "20126602",
+      "text": "Hedefe yönelik bir büyü kullandınız. Yakınınızdaki tüm düşmanlara hasar vermek için bir alan büyüsü de kullanabilirsiniz!"
+    },
+    {
+      "id": "eadf3bf2",
+      "bank_id": "20126602",
+      "text": "Geraldine"
+    },
+    {
+      "id": "ebdf3d65",
+      "bank_id": "20126602",
+      "text": "Ella"
+    },
+    {
+      "id": "ec16d142",
+      "bank_id": "20126602",
+      "text": "Yeniden dekore etmek istemiyorsanız, eşinizi taşınmak istediğiniz evin dışındaki tabelaya götürerek evinizi taşıyabilirsiniz."
+    },
+    {
+      "id": "ecdf3ed8",
+      "bank_id": "20126602",
+      "text": "Claire"
+    },
+    {
+      "id": "edd2c50d",
+      "bank_id": "20126602",
+      "text": "Hay aksi. Sevdiğiniz kişi sizi fiziksel olarak itici buluyorsa pek yol katedemezsiniz. Bir Kuaförü veya Terziyi ziyaret etmeyi deneyin."
+    },
+    {
+      "id": "eddf404b",
+      "bank_id": "20126602",
+      "text": "Cathy"
+    },
+    {
+      "id": "ee35ab1b",
+      "bank_id": "20126602",
+      "text": "Herhangi bir genel mağazadan bir kürek satın alabilirsiniz. Köpeğinizin bulduğu her şeyi kazıp çıkarmak için onu kullanabilirsiniz."
+    },
+    {
+      "id": "eedf423e",
+      "bank_id": "20126602",
+      "text": "Carolyn"
+    },
+    {
+      "id": "ef165dbc",
+      "bank_id": "20126602",
+      "text": "Böcekleri silkelemek için <a_img> <b_img> <x_img> veya <y_img> tuşuna basın!"
+    },
+    {
+      "id": "ef55b529",
+      "bank_id": "20126602",
+      "text": "Aynı Seviye Büyüler"
+    },
+    {
+      "id": "efdf4391",
+      "bank_id": "20126602",
+      "text": "Jen"
+    },
+    {
+      "id": "f0df4504",
+      "bank_id": "20126602",
+      "text": "Louise"
+    },
+    {
+      "id": "f1df46f7",
+      "bank_id": "20126602",
+      "text": "Lindsay"
+    },
+    {
+      "id": "f2df486a",
+      "bank_id": "20126602",
+      "text": "Nanette"
+    },
+    {
+      "id": "f6e45f77",
+      "bank_id": "20126602",
+      "text": "Bu köylü sizden hoşlanıyor. Sizden hoşlanmalarını, hatta belki sizinle evlenmelerini sağlamak için Cilveli, Eğlenceli ve Sosyal ifadeleri kullanabilirsiniz. <dpad.img> kullanın veya daha fazla seçenek için İfade Çarkı'na <rightbutton.img> erişin."
+    },
+    {
+      "id": "f91cb562",
+      "bank_id": "20126602",
+      "text": "HATA: İsmim yok"
+    },
+    {
+      "id": "fa8bbe1e",
+      "bank_id": "20126602",
+      "text": "'Sen kimsin?' ifadesi"
+    },
+    {
+      "id": "faa91d1c",
+      "bank_id": "20126602",
+      "text": "Daha hızlı gitmek için hareket ederken <a_img> tuşunu basılı tutun."
+    },
+    {
+      "id": "fc07f154",
+      "bank_id": "20126602",
+      "text": "Bir seviye seçmek için <dpad.img> üzerinde yukarı ve aşağı yönlerini, bu seviyenin yuvasındaki büyüyü değiştirmek için <dpad.img> üzerinde sol ve sağ yönlerini kullanın."
+    },
+    {
+      "id": "fc6f9c61",
+      "bank_id": "20126602",
+      "text": "İkna etme kabiliyeti"
+    },
+    {
+      "id": "fce80448",
+      "bank_id": "20126602",
+      "text": "Hav! Hav!"
+    },
+    {
+      "id": "fcfd5655",
+      "bank_id": "20126602",
+      "text": "Bir köylünün mülkünü yok etmek üzeresiniz! Bu bir suçtur. Yakalanırsanız cezalandırılabilirsiniz! Göz simgesi birinin sizi görüp görmediğini belirtir. Göz kapalıyken suçları fark edilmeden işleyebilirsiniz."
+    }
+  ]
+}

@@ -1,0 +1,1486 @@
+{
+  "bank_id": "c010ab00",
+  "total_strings": 296,
+  "strings": [
+    {
+      "id": "007617ee",
+      "bank_id": "c010ab00",
+      "text": "O senin değil!"
+    },
+    {
+      "id": "046dfa68",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapamazsın!"
+    },
+    {
+      "id": "046dfa69",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı!"
+    },
+    {
+      "id": "046dfa6a",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı!"
+    },
+    {
+      "id": "046dfa6b",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı!"
+    },
+    {
+      "id": "046dfa6c",
+      "bank_id": "c010ab00",
+      "text": "Hey, bu yanlış!"
+    },
+    {
+      "id": "046dfa6d",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı!"
+    },
+    {
+      "id": "046dfa6e",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı!"
+    },
+    {
+      "id": "07ec2193",
+      "bank_id": "c010ab00",
+      "text": "Onlara neden vurdun?!"
+    },
+    {
+      "id": "0976263b",
+      "bank_id": "c010ab00",
+      "text": "Onu almaman gerekiyordu!"
+    },
+    {
+      "id": "09bc1388",
+      "bank_id": "c010ab00",
+      "text": "Hey! Hırsız! O benim!"
+    },
+    {
+      "id": "09bc1389",
+      "bank_id": "c010ab00",
+      "text": "Hayır! O benim!"
+    },
+    {
+      "id": "09bc138a",
+      "bank_id": "c010ab00",
+      "text": "Mülkümü çalıyorsun! İmdat!"
+    },
+    {
+      "id": "09bc138b",
+      "bank_id": "c010ab00",
+      "text": "Ne yapıyorsun sen? Hırsız!"
+    },
+    {
+      "id": "09bc138c",
+      "bank_id": "c010ab00",
+      "text": "Hey! Hırsız!"
+    },
+    {
+      "id": "09bc138e",
+      "bank_id": "c010ab00",
+      "text": "Eşyalarımı almayı kes!"
+    },
+    {
+      "id": "09bc138f",
+      "bank_id": "c010ab00",
+      "text": "Eşyalarımı çalıyorsun! İmdat!"
+    },
+    {
+      "id": "0c9ad6f0",
+      "bank_id": "c010ab00",
+      "text": "Ne büyük ahlaksızlık!"
+    },
+    {
+      "id": "0c9ad6f1",
+      "bank_id": "c010ab00",
+      "text": "Bu çok müstehcen! Müstehceeeen!"
+    },
+    {
+      "id": "0c9ad6f5",
+      "bank_id": "c010ab00",
+      "text": "Böylesi müstehcenlikler bir suçtur!"
+    },
+    {
+      "id": "0c9ad6f7",
+      "bank_id": "c010ab00",
+      "text": "Ne kadar kaba!"
+    },
+    {
+      "id": "0d6e08b8",
+      "bank_id": "c010ab00",
+      "text": "Bu kanuna aykırı!"
+    },
+    {
+      "id": "0d6e08b9",
+      "bank_id": "c010ab00",
+      "text": "Bu kanuna aykırı!"
+    },
+    {
+      "id": "0d6e08bb",
+      "bank_id": "c010ab00",
+      "text": "Hey, bu yanlış!"
+    },
+    {
+      "id": "0d6e08bc",
+      "bank_id": "c010ab00",
+      "text": "Bu kanuna aykırı!"
+    },
+    {
+      "id": "0d6e08bd",
+      "bank_id": "c010ab00",
+      "text": "Bu kanuna aykırı!"
+    },
+    {
+      "id": "0d6e08be",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı!"
+    },
+    {
+      "id": "0d6e08bf",
+      "bank_id": "c010ab00",
+      "text": "Bu kanuna aykırı!"
+    },
+    {
+      "id": "0e4159f0",
+      "bank_id": "c010ab00",
+      "text": "Benden çalıyorsun!"
+    },
+    {
+      "id": "0e4159f1",
+      "bank_id": "c010ab00",
+      "text": "Hırsızlığına derhâl son ver!"
+    },
+    {
+      "id": "0e4159f2",
+      "bank_id": "c010ab00",
+      "text": "Hırsız! Dur!"
+    },
+    {
+      "id": "0e4159f3",
+      "bank_id": "c010ab00",
+      "text": "Hey! Hey! O benim!"
+    },
+    {
+      "id": "0e4159f4",
+      "bank_id": "c010ab00",
+      "text": "Ne yaptığını sanıyorsun sen?! Hırsız!"
+    },
+    {
+      "id": "0e4159f5",
+      "bank_id": "c010ab00",
+      "text": "Hey! Dur! Hırsız!"
+    },
+    {
+      "id": "0e4159f7",
+      "bank_id": "c010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "0eec2c96",
+      "bank_id": "c010ab00",
+      "text": "Çok fenasın!"
+    },
+    {
+      "id": "15148233",
+      "bank_id": "c010ab00",
+      "text": "Ne yapıyorsun sen???!!!"
+    },
+    {
+      "id": "154164f8",
+      "bank_id": "c010ab00",
+      "text": "Dur! Eşyalarımı alıyorsun!"
+    },
+    {
+      "id": "154164f9",
+      "bank_id": "c010ab00",
+      "text": "Hey! Geri ver onu!"
+    },
+    {
+      "id": "154164fa",
+      "bank_id": "c010ab00",
+      "text": "Hey! O benim! Hırsız!"
+    },
+    {
+      "id": "154164fc",
+      "bank_id": "c010ab00",
+      "text": "Dur! Derhâl dur hırsız!"
+    },
+    {
+      "id": "154164fd",
+      "bank_id": "c010ab00",
+      "text": "Seni yüzsüz haydut!"
+    },
+    {
+      "id": "154164fe",
+      "bank_id": "c010ab00",
+      "text": "O eşyalar benim!"
+    },
+    {
+      "id": "154164ff",
+      "bank_id": "c010ab00",
+      "text": "Eşyalarımı aşırmayı kes!"
+    },
+    {
+      "id": "159ae4d9",
+      "bank_id": "c010ab00",
+      "text": "Bu çok edepsizce!"
+    },
+    {
+      "id": "159ae4db",
+      "bank_id": "c010ab00",
+      "text": "Bu çok edepsizce!"
+    },
+    {
+      "id": "159ae4dd",
+      "bank_id": "c010ab00",
+      "text": "Ne ahlaksızca bir hareket!"
+    },
+    {
+      "id": "159ae4df",
+      "bank_id": "c010ab00",
+      "text": "Tamamen ahlaksızca bir davranış!"
+    },
+    {
+      "id": "16289c50",
+      "bank_id": "c010ab00",
+      "text": "Hey, bu bir saldırı!"
+    },
+    {
+      "id": "16289c53",
+      "bank_id": "c010ab00",
+      "text": "Saldırından vazgeç!"
+    },
+    {
+      "id": "200615f4",
+      "bank_id": "c010ab00",
+      "text": "Senin olmayanı almayı kes!"
+    },
+    {
+      "id": "24ee6480",
+      "bank_id": "c010ab00",
+      "text": "Seni habis katil!"
+    },
+    {
+      "id": "24ee6481",
+      "bank_id": "c010ab00",
+      "text": "Seni kalpsiz katil!"
+    },
+    {
+      "id": "24ee6482",
+      "bank_id": "c010ab00",
+      "text": "Seni korkunç katil!"
+    },
+    {
+      "id": "24ee6484",
+      "bank_id": "c010ab00",
+      "text": "Cinayet bu!"
+    },
+    {
+      "id": "24ee6485",
+      "bank_id": "c010ab00",
+      "text": "Seni soğukkanlı suikastçı!"
+    },
+    {
+      "id": "24ee6486",
+      "bank_id": "c010ab00",
+      "text": "Katil!"
+    },
+    {
+      "id": "24ee6487",
+      "bank_id": "c010ab00",
+      "text": "Katil! Katil!"
+    },
+    {
+      "id": "25061d95",
+      "bank_id": "c010ab00",
+      "text": "Sen bir hırsızsın!"
+    },
+    {
+      "id": "2cb70425",
+      "bank_id": "c010ab00",
+      "text": "Cinayet bu!"
+    },
+    {
+      "id": "2cb70426",
+      "bank_id": "c010ab00",
+      "text": "Cinayet!"
+    },
+    {
+      "id": "2dee72e8",
+      "bank_id": "c010ab00",
+      "text": "Katil canavar!"
+    },
+    {
+      "id": "2dee72e9",
+      "bank_id": "c010ab00",
+      "text": "Biri kurtarsın beni! Katil!"
+    },
+    {
+      "id": "2dee72ea",
+      "bank_id": "c010ab00",
+      "text": "Cinayet delisi!"
+    },
+    {
+      "id": "2dee72eb",
+      "bank_id": "c010ab00",
+      "text": "Deli katil!"
+    },
+    {
+      "id": "2dee72ec",
+      "bank_id": "c010ab00",
+      "text": "Hayır... Hayır! Katil!"
+    },
+    {
+      "id": "2dee72ed",
+      "bank_id": "c010ab00",
+      "text": "Katil!"
+    },
+    {
+      "id": "2dee72ef",
+      "bank_id": "c010ab00",
+      "text": "Katil! Katil!"
+    },
+    {
+      "id": "3350ac51",
+      "bank_id": "c010ab00",
+      "text": "Kamusal alanlarda uyumak yasadışıdır."
+    },
+    {
+      "id": "3350ac53",
+      "bank_id": "c010ab00",
+      "text": "Sokakta uyuduğum için tutuklandım ben, biliyor musun."
+    },
+    {
+      "id": "3350ac55",
+      "bank_id": "c010ab00",
+      "text": "Sokakta uyuyamazsın!"
+    },
+    {
+      "id": "3350ac57",
+      "bank_id": "c010ab00",
+      "text": "Muhafızlar serserilere pek iyi gözle bakmaz."
+    },
+    {
+      "id": "3a50b759",
+      "bank_id": "c010ab00",
+      "text": "Orada uyumak yasadışı, bilesin."
+    },
+    {
+      "id": "3a50b75d",
+      "bank_id": "c010ab00",
+      "text": "Bu kasabada serserilik bir suçtur."
+    },
+    {
+      "id": "3a50b75f",
+      "bank_id": "c010ab00",
+      "text": "Burada uyuyamazsınız."
+    },
+    {
+      "id": "457b0198",
+      "bank_id": "c010ab00",
+      "text": "Ah, hırsızlık. Hiç hoşuma gitmedi bu!"
+    },
+    {
+      "id": "457b0199",
+      "bank_id": "c010ab00",
+      "text": "Hey sen! Hırsız!"
+    },
+    {
+      "id": "457b019a",
+      "bank_id": "c010ab00",
+      "text": "Muhafız! Burada bir hırsız var!"
+    },
+    {
+      "id": "457b019b",
+      "bank_id": "c010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "457b019d",
+      "bank_id": "c010ab00",
+      "text": "Bir hırsız! Bir hırsız!"
+    },
+    {
+      "id": "457b019e",
+      "bank_id": "c010ab00",
+      "text": "Kes şunu hırsız! Görüyorum seni!"
+    },
+    {
+      "id": "457b019f",
+      "bank_id": "c010ab00",
+      "text": "Hırsızlık yapıyorsun!"
+    },
+    {
+      "id": "47f103a1",
+      "bank_id": "c010ab00",
+      "text": "Bunu ne diye yaptın?!"
+    },
+    {
+      "id": "47f103a2",
+      "bank_id": "c010ab00",
+      "text": "Bunu yaptığına inanamıyorum."
+    },
+    {
+      "id": "47f103a3",
+      "bank_id": "c010ab00",
+      "text": "Nasıl yapabildin?"
+    },
+    {
+      "id": "47f103a4",
+      "bank_id": "c010ab00",
+      "text": "Zevkini böyle mi çıkarıyorsun yani?"
+    },
+    {
+      "id": "47f103a5",
+      "bank_id": "c010ab00",
+      "text": "Her şeyi gördüm bilesin."
+    },
+    {
+      "id": "47f103a6",
+      "bank_id": "c010ab00",
+      "text": "Ah, ne büyük bir barbarlık!"
+    },
+    {
+      "id": "47f103a7",
+      "bank_id": "c010ab00",
+      "text": "Bir çeşit canavar mısın sen?!"
+    },
+    {
+      "id": "4872e2a8",
+      "bank_id": "c010ab00",
+      "text": "Suçlu musun sen!?"
+    },
+    {
+      "id": "490dd478",
+      "bank_id": "c010ab00",
+      "text": "Cinayet!"
+    },
+    {
+      "id": "490dd47b",
+      "bank_id": "c010ab00",
+      "text": "Katil! Dur!"
+    },
+    {
+      "id": "49fe7345",
+      "bank_id": "c010ab00",
+      "text": "Bu kanuna aykırı!"
+    },
+    {
+      "id": "49fe7346",
+      "bank_id": "c010ab00",
+      "text": "Dur! Bu yasadışı!"
+    },
+    {
+      "id": "4d72ea49",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapmaman gerekiyordu!"
+    },
+    {
+      "id": "507b12c8",
+      "bank_id": "c010ab00",
+      "text": "Hey! Elin pek bir uzun senin, değil mi?"
+    },
+    {
+      "id": "507b12c9",
+      "bank_id": "c010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "507b12ca",
+      "bank_id": "c010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "507b12cb",
+      "bank_id": "c010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "507b12cc",
+      "bank_id": "c010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "507b12ce",
+      "bank_id": "c010ab00",
+      "text": "Ellerini kendine sakla."
+    },
+    {
+      "id": "507b12cf",
+      "bank_id": "c010ab00",
+      "text": "Hey! Hırsızlık yapıyorsun!"
+    },
+    {
+      "id": "52f114d0",
+      "bank_id": "c010ab00",
+      "text": "Bunun yanına kâr kalacağını mı sanıyorsun?"
+    },
+    {
+      "id": "52f114d2",
+      "bank_id": "c010ab00",
+      "text": "En azından biraz gizli yapabilirdin."
+    },
+    {
+      "id": "52f114d3",
+      "bank_id": "c010ab00",
+      "text": "Birileri sabah morluklarla uyanacak..."
+    },
+    {
+      "id": "52f114d4",
+      "bank_id": "c010ab00",
+      "text": "Ah evet, iyi bir kavgadan keyif alırım."
+    },
+    {
+      "id": "52f114d5",
+      "bank_id": "c010ab00",
+      "text": "Bir daha sana bulaşmayacağım."
+    },
+    {
+      "id": "52f114d6",
+      "bank_id": "c010ab00",
+      "text": "Tek kelimeyle berbat bir davranış."
+    },
+    {
+      "id": "52f114d7",
+      "bank_id": "c010ab00",
+      "text": "Meseleleri daha az şiddet içeren bir yolla çözebilirdiniz muhakkak."
+    },
+    {
+      "id": "55005930",
+      "bank_id": "c010ab00",
+      "text": "Bu hırsızlık!"
+    },
+    {
+      "id": "55005931",
+      "bank_id": "c010ab00",
+      "text": "O senin mülkün değil!"
+    },
+    {
+      "id": "55005932",
+      "bank_id": "c010ab00",
+      "text": "O senin değil!"
+    },
+    {
+      "id": "55005933",
+      "bank_id": "c010ab00",
+      "text": "Hey seni hırsız maymun!"
+    },
+    {
+      "id": "55005934",
+      "bank_id": "c010ab00",
+      "text": "Onu alamazsın! Hırsız!"
+    },
+    {
+      "id": "55005935",
+      "bank_id": "c010ab00",
+      "text": "Hey, bu hırsızlık!"
+    },
+    {
+      "id": "55005937",
+      "bank_id": "c010ab00",
+      "text": "Bırak onu hırsız!"
+    },
+    {
+      "id": "5bf6ae3d",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapamazsın!"
+    },
+    {
+      "id": "5c006438",
+      "bank_id": "c010ab00",
+      "text": "Haydut!"
+    },
+    {
+      "id": "5c006439",
+      "bank_id": "c010ab00",
+      "text": "Çalmayı bırak!"
+    },
+    {
+      "id": "5c00643a",
+      "bank_id": "c010ab00",
+      "text": "Tam anlamıyla hırsızlık bu!"
+    },
+    {
+      "id": "5c00643c",
+      "bank_id": "c010ab00",
+      "text": "Daha fazla çalma!"
+    },
+    {
+      "id": "5c00643d",
+      "bank_id": "c010ab00",
+      "text": "Hırsızlığına son ver!"
+    },
+    {
+      "id": "5c00643e",
+      "bank_id": "c010ab00",
+      "text": "Ah, bir hırsız bu!"
+    },
+    {
+      "id": "5c00643f",
+      "bank_id": "c010ab00",
+      "text": "Onu hemen şimdi bırak!"
+    },
+    {
+      "id": "5e5b1dd3",
+      "bank_id": "c010ab00",
+      "text": "Orayı kazamazsın! Söyleyeceğim!"
+    },
+    {
+      "id": "6037a3c0",
+      "bank_id": "c010ab00",
+      "text": "Tam bir haydut."
+    },
+    {
+      "id": "6037a3c1",
+      "bank_id": "c010ab00",
+      "text": "İnsanları dövmeyi seviyorsun demek, he?"
+    },
+    {
+      "id": "6037a3c2",
+      "bank_id": "c010ab00",
+      "text": "Bir hayvandan farkın yok."
+    },
+    {
+      "id": "6037a3c3",
+      "bank_id": "c010ab00",
+      "text": "Bir barbarsın sen!"
+    },
+    {
+      "id": "6037a3c4",
+      "bank_id": "c010ab00",
+      "text": "Düpedüz canavarlık bu!"
+    },
+    {
+      "id": "6037a3c6",
+      "bank_id": "c010ab00",
+      "text": "Neden bu kadar şiddet dolusun?"
+    },
+    {
+      "id": "6037a3c7",
+      "bank_id": "c010ab00",
+      "text": "Ne biçim vahşi bir canavarsın sen?!"
+    },
+    {
+      "id": "6537abe0",
+      "bank_id": "c010ab00",
+      "text": "Sıradan bir holigansın işte."
+    },
+    {
+      "id": "6537abe1",
+      "bank_id": "c010ab00",
+      "text": "Hepimiz biraz kavgayı severiz. Gayet doğal."
+    },
+    {
+      "id": "6537abe2",
+      "bank_id": "c010ab00",
+      "text": "Ne canavarca bir hareket!"
+    },
+    {
+      "id": "6537abe3",
+      "bank_id": "c010ab00",
+      "text": "Neden böyle bir şey yapasın ki?!"
+    },
+    {
+      "id": "6537abe5",
+      "bank_id": "c010ab00",
+      "text": "Seni hayvan!"
+    },
+    {
+      "id": "6537abe6",
+      "bank_id": "c010ab00",
+      "text": "Neden böyle bir şey yapasın ki?!"
+    },
+    {
+      "id": "6537abe7",
+      "bank_id": "c010ab00",
+      "text": "Bu kadar şiddete hiç gerek yok."
+    },
+    {
+      "id": "66f6bf6c",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapamazsın!"
+    },
+    {
+      "id": "6ce76520",
+      "bank_id": "c010ab00",
+      "text": "Ne yaptığını sanıyorsun sen?!"
+    },
+    {
+      "id": "6ce76523",
+      "bank_id": "c010ab00",
+      "text": "Vazgeç seni serseri!"
+    },
+    {
+      "id": "75806e78",
+      "bank_id": "c010ab00",
+      "text": "Kes şunu seni suçlu!"
+    },
+    {
+      "id": "75806e7b",
+      "bank_id": "c010ab00",
+      "text": "Sizi tutuklamak zorunda kalacağım vatandaş!"
+    },
+    {
+      "id": "7b39674c",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı bir hareket!"
+    },
+    {
+      "id": "7b39674f",
+      "bank_id": "c010ab00",
+      "text": "Kanunu çiğnedin!"
+    },
+    {
+      "id": "7fde2d10",
+      "bank_id": "c010ab00",
+      "text": "Ne yaptın sen?!"
+    },
+    {
+      "id": "7fde2d11",
+      "bank_id": "c010ab00",
+      "text": "Hayır! Nasıl yapabildin!"
+    },
+    {
+      "id": "7fde2d13",
+      "bank_id": "c010ab00",
+      "text": "Yapılacak çok fena bir şey bu!"
+    },
+    {
+      "id": "7fde2d14",
+      "bank_id": "c010ab00",
+      "text": "Ne fena bir suç!"
+    },
+    {
+      "id": "7fde2d15",
+      "bank_id": "c010ab00",
+      "text": "Ah seni canavar!"
+    },
+    {
+      "id": "7fde2d16",
+      "bank_id": "c010ab00",
+      "text": "Hobbe'nin gaz torbaları aşkına! Ne yaptın sen?!"
+    },
+    {
+      "id": "7fde2d17",
+      "bank_id": "c010ab00",
+      "text": "Gördüm onu!"
+    },
+    {
+      "id": "86de3810",
+      "bank_id": "c010ab00",
+      "text": "Ah, böyle bir şeyi nasıl yapabildin?!"
+    },
+    {
+      "id": "86de3811",
+      "bank_id": "c010ab00",
+      "text": "Ah! Ne korkunç bir hareket!"
+    },
+    {
+      "id": "86de3812",
+      "bank_id": "c010ab00",
+      "text": "Ah! Nasıl yapabildin?!"
+    },
+    {
+      "id": "86de3813",
+      "bank_id": "c010ab00",
+      "text": "Seni canavar!"
+    },
+    {
+      "id": "86de3814",
+      "bank_id": "c010ab00",
+      "text": "Hayır! Neden yaptın bunu!?"
+    },
+    {
+      "id": "86de3815",
+      "bank_id": "c010ab00",
+      "text": "Yapılacak ne korkunç bir şey!"
+    },
+    {
+      "id": "86de3816",
+      "bank_id": "c010ab00",
+      "text": "Bunu nasıl yapabildin?!"
+    },
+    {
+      "id": "92d22fd3",
+      "bank_id": "c010ab00",
+      "text": "Onları öldürdün!"
+    },
+    {
+      "id": "96f0fa88",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı!"
+    },
+    {
+      "id": "96f0fa89",
+      "bank_id": "c010ab00",
+      "text": "Kes şunu!"
+    },
+    {
+      "id": "96f0fa8a",
+      "bank_id": "c010ab00",
+      "text": "Hey, bu yanlış!"
+    },
+    {
+      "id": "96f0fa8b",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapamazsın!"
+    },
+    {
+      "id": "96f0fa8c",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapamazsın!"
+    },
+    {
+      "id": "96f0fa8d",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapamazsın!"
+    },
+    {
+      "id": "96f0fa8e",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapamazsın!"
+    },
+    {
+      "id": "99d23ad6",
+      "bank_id": "c010ab00",
+      "text": "Katil! Katil!"
+    },
+    {
+      "id": "9e5fffe1",
+      "bank_id": "c010ab00",
+      "text": "Mezar soyguncusu! Muhafızları çağırıyorum!"
+    },
+    {
+      "id": "9e5fffe3",
+      "bank_id": "c010ab00",
+      "text": "Ölüleri mezardan mı çıkarıyor?! Biri muhafızları çağırsın!"
+    },
+    {
+      "id": "9e5fffe5",
+      "bank_id": "c010ab00",
+      "text": "Kazma orayı. Muhafızları çağırıyorum!"
+    },
+    {
+      "id": "9e5fffe7",
+      "bank_id": "c010ab00",
+      "text": "Mezar soyguncusu! Muhafızları çağırıyorum!"
+    },
+    {
+      "id": "9ff108d8",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapmayı kes! Kanuna aykırı!"
+    },
+    {
+      "id": "9ff108d9",
+      "bank_id": "c010ab00",
+      "text": "Kes şunu! Kanuna aykırı!"
+    },
+    {
+      "id": "9ff108db",
+      "bank_id": "c010ab00",
+      "text": "Hey, bu yanlış!"
+    },
+    {
+      "id": "9ff108dc",
+      "bank_id": "c010ab00",
+      "text": "Bunu derhâl kesin! Kanuna aykırı!"
+    },
+    {
+      "id": "9ff108dd",
+      "bank_id": "c010ab00",
+      "text": "Suç faaliyetlerine son ver!"
+    },
+    {
+      "id": "9ff108de",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapmayı kes! Kanuna aykırı!"
+    },
+    {
+      "id": "9ff108df",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapmayı kes! Kanuna aykırı!"
+    },
+    {
+      "id": "a01417a1",
+      "bank_id": "c010ab00",
+      "text": "Yetti be! Muhafızlar!"
+    },
+    {
+      "id": "a01417a3",
+      "bank_id": "c010ab00",
+      "text": "Tamam, canıma tak etti! Muhafızları çağırıyorum!"
+    },
+    {
+      "id": "a01417a5",
+      "bank_id": "c010ab00",
+      "text": "Buna daha fazla dayanamayacağım! Muhafızları çağırıyorum!"
+    },
+    {
+      "id": "a01417a7",
+      "bank_id": "c010ab00",
+      "text": "Uyardım seni! Muhafızlar!"
+    },
+    {
+      "id": "a71422a1",
+      "bank_id": "c010ab00",
+      "text": "Beni yeterince taciz ettin! Muhafızlar!"
+    },
+    {
+      "id": "a71422a3",
+      "bank_id": "c010ab00",
+      "text": "Beni rahat bırak! Muhafızlar!"
+    },
+    {
+      "id": "a71422a4",
+      "bank_id": "c010ab00",
+      "text": "Bu kadarı yetti artık! Muhafızlar!"
+    },
+    {
+      "id": "a71422a5",
+      "bank_id": "c010ab00",
+      "text": "Bu kadar! Seni uyarmıştım! Muhafızları çağırıyorum!"
+    },
+    {
+      "id": "a8167c90",
+      "bank_id": "c010ab00",
+      "text": "Cinayet işledin!"
+    },
+    {
+      "id": "a8167c93",
+      "bank_id": "c010ab00",
+      "text": "Bir vatandaşı öldürdün!"
+    },
+    {
+      "id": "a9601112",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı bilesin! Hem de düpedüz ürpertici!"
+    },
+    {
+      "id": "a9601113",
+      "bank_id": "c010ab00",
+      "text": "Mezar kazmak suçtur!"
+    },
+    {
+      "id": "a9601115",
+      "bank_id": "c010ab00",
+      "text": "Huzur içinde yatmalarına izin ver, duydun mu beni!"
+    },
+    {
+      "id": "a9601117",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı bilesin! Ve oldukça aşağılıkça."
+    },
+    {
+      "id": "b1383860",
+      "bank_id": "c010ab00",
+      "text": "Hey, eşyalarımı parçalamayı kes!"
+    },
+    {
+      "id": "b1383861",
+      "bank_id": "c010ab00",
+      "text": "Kırdığın şeyler benim eşyalarım!"
+    },
+    {
+      "id": "b1383863",
+      "bank_id": "c010ab00",
+      "text": "Hey! O benim!"
+    },
+    {
+      "id": "b1383864",
+      "bank_id": "c010ab00",
+      "text": "Seni vandal! O benim mülküm!"
+    },
+    {
+      "id": "b1383865",
+      "bank_id": "c010ab00",
+      "text": "Derhâl dur seni vandal!"
+    },
+    {
+      "id": "b1383866",
+      "bank_id": "c010ab00",
+      "text": "Kendi eşyalarını kır!"
+    },
+    {
+      "id": "b1383867",
+      "bank_id": "c010ab00",
+      "text": "Eşyalarımı ne diye dağıtıyorsun?"
+    },
+    {
+      "id": "b19ba661",
+      "bank_id": "c010ab00",
+      "text": "Dur seni suçlu!"
+    },
+    {
+      "id": "b19ba662",
+      "bank_id": "c010ab00",
+      "text": "Derhâl vazgeç seni suçlu!"
+    },
+    {
+      "id": "b579c371",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı!"
+    },
+    {
+      "id": "b579c372",
+      "bank_id": "c010ab00",
+      "text": "Hey, ne yapıyorsun sen?!"
+    },
+    {
+      "id": "b579c373",
+      "bank_id": "c010ab00",
+      "text": "Böyle bir suç görmedim ömrümde."
+    },
+    {
+      "id": "b579c374",
+      "bank_id": "c010ab00",
+      "text": "Kes şunu seni suçlu!"
+    },
+    {
+      "id": "b579c375",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı!"
+    },
+    {
+      "id": "b579c376",
+      "bank_id": "c010ab00",
+      "text": "Ne korkunç bir suç!"
+    },
+    {
+      "id": "b579c377",
+      "bank_id": "c010ab00",
+      "text": "Eğer bu yasadışı bir hareket değilse ben de vanilyalı puding kâsesiyim."
+    },
+    {
+      "id": "b8384364",
+      "bank_id": "c010ab00",
+      "text": "Hey! Eşyalarım! Dur!"
+    },
+    {
+      "id": "b8384365",
+      "bank_id": "c010ab00",
+      "text": "Eşyalarımı kırmayı kes!"
+    },
+    {
+      "id": "b8384366",
+      "bank_id": "c010ab00",
+      "text": "Eşyalarımı kırma!"
+    },
+    {
+      "id": "b9b1faca",
+      "bank_id": "c010ab00",
+      "text": "İğrenç bu!"
+    },
+    {
+      "id": "bfd7e180",
+      "bank_id": "c010ab00",
+      "text": "Haraççı! Muhafızlar!"
+    },
+    {
+      "id": "bfd7e182",
+      "bank_id": "c010ab00",
+      "text": "Sana para falan ödemiyorum! Ama seni ihbar ediyorum!"
+    },
+    {
+      "id": "bfd7e184",
+      "bank_id": "c010ab00",
+      "text": "Benden altın koparmaya çalışırsın ha? Muhafızlar!"
+    },
+    {
+      "id": "bfd7e186",
+      "bank_id": "c010ab00",
+      "text": "Olamaz! Muhafızlar!"
+    },
+    {
+      "id": "c079d4a0",
+      "bank_id": "c010ab00",
+      "text": "Bu yanlış!"
+    },
+    {
+      "id": "c079d4a2",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı!"
+    },
+    {
+      "id": "c079d4a3",
+      "bank_id": "c010ab00",
+      "text": "Bunu yapmaman gerekiyordu!"
+    },
+    {
+      "id": "c079d4a4",
+      "bank_id": "c010ab00",
+      "text": "Kanunu çiğniyorsun!"
+    },
+    {
+      "id": "c079d4a5",
+      "bank_id": "c010ab00",
+      "text": "Suçlu!"
+    },
+    {
+      "id": "c079d4a6",
+      "bank_id": "c010ab00",
+      "text": "Bu bir suç!"
+    },
+    {
+      "id": "c079d4a7",
+      "bank_id": "c010ab00",
+      "text": "Bu yasadışı bir hareket!"
+    },
+    {
+      "id": "c48dcbe5",
+      "bank_id": "c010ab00",
+      "text": "Kes şunu! Saldırı bu!"
+    },
+    {
+      "id": "c8d7efe8",
+      "bank_id": "c010ab00",
+      "text": "Haraç! Muhafızları çağırıyorum!"
+    },
+    {
+      "id": "c8d7efea",
+      "bank_id": "c010ab00",
+      "text": "Muhafızlar! Haraç kesiyorlar!"
+    },
+    {
+      "id": "c8d7efec",
+      "bank_id": "c010ab00",
+      "text": "Bu haraç kesmektir! Muhafızları çağırıyorum!"
+    },
+    {
+      "id": "d1cf6a00",
+      "bank_id": "c010ab00",
+      "text": "Bir cinayet!"
+    },
+    {
+      "id": "d1cf6a01",
+      "bank_id": "c010ab00",
+      "text": "Kasap!"
+    },
+    {
+      "id": "d1cf6a02",
+      "bank_id": "c010ab00",
+      "text": "Seni iblis! Bir cana kıydın!"
+    },
+    {
+      "id": "d1cf6a03",
+      "bank_id": "c010ab00",
+      "text": "Ne korkunç bir katliam!"
+    },
+    {
+      "id": "d1cf6a04",
+      "bank_id": "c010ab00",
+      "text": "Can alıcı!"
+    },
+    {
+      "id": "d1cf6a06",
+      "bank_id": "c010ab00",
+      "text": "Bir cinayet! Muhafızlar! Cinayet!"
+    },
+    {
+      "id": "d1cf6a07",
+      "bank_id": "c010ab00",
+      "text": "Bir can aldın!"
+    },
+    {
+      "id": "d2d711e1",
+      "bank_id": "c010ab00",
+      "text": "Sen... sen öldürdün onları!"
+    },
+    {
+      "id": "d2d711e2",
+      "bank_id": "c010ab00",
+      "text": "Öldüler! Ve bunu sen yaptın!"
+    },
+    {
+      "id": "d2d711e3",
+      "bank_id": "c010ab00",
+      "text": "Senin yüzünden öldüler!"
+    },
+    {
+      "id": "d2d711e4",
+      "bank_id": "c010ab00",
+      "text": "Birini nasıl öldürebilirsin?!"
+    },
+    {
+      "id": "d2d711e5",
+      "bank_id": "c010ab00",
+      "text": "Korkunç katil!"
+    },
+    {
+      "id": "d2d711e6",
+      "bank_id": "c010ab00",
+      "text": "Ölüm getiren!"
+    },
+    {
+      "id": "d2d711e7",
+      "bank_id": "c010ab00",
+      "text": "Cinayet! Alçakça bir cinayet!"
+    },
+    {
+      "id": "d3d24c21",
+      "bank_id": "c010ab00",
+      "text": "Bakın! Şu maceracı birinden haraç kesmeye çalışıyor!"
+    },
+    {
+      "id": "d3d24c22",
+      "bank_id": "c010ab00",
+      "text": "Bana haraç gibi geldi bu!"
+    },
+    {
+      "id": "d3d24c23",
+      "bank_id": "c010ab00",
+      "text": "Bu haraç kesmek, bakın!"
+    },
+    {
+      "id": "d3d24c24",
+      "bank_id": "c010ab00",
+      "text": "Bir haraççı! Şurada!"
+    },
+    {
+      "id": "d3d24c25",
+      "bank_id": "c010ab00",
+      "text": "Haraç kesiyorlar, tam şurada!"
+    },
+    {
+      "id": "d3d24c26",
+      "bank_id": "c010ab00",
+      "text": "Bir haraççı!"
+    },
+    {
+      "id": "d3d24c27",
+      "bank_id": "c010ab00",
+      "text": "Bakar mısınız, bu haraç kesmek değil mi?"
+    },
+    {
+      "id": "d6cf7220",
+      "bank_id": "c010ab00",
+      "text": "Bir cinayet, tam şurada!"
+    },
+    {
+      "id": "d6cf7221",
+      "bank_id": "c010ab00",
+      "text": "Az önce bir cinayet gördüm!"
+    },
+    {
+      "id": "d6cf7222",
+      "bank_id": "c010ab00",
+      "text": "Senin ellerinle can verdi!"
+    },
+    {
+      "id": "d6cf7223",
+      "bank_id": "c010ab00",
+      "text": "Aman Tanrım! Bir cinayete tanık oldum!"
+    },
+    {
+      "id": "d6cf7225",
+      "bank_id": "c010ab00",
+      "text": "Katliamdı resmen!"
+    },
+    {
+      "id": "d6cf7226",
+      "bank_id": "c010ab00",
+      "text": "Seni korkunç katil!"
+    },
+    {
+      "id": "d6cf7227",
+      "bank_id": "c010ab00",
+      "text": "Ah, bu korkunç! Cinayet!"
+    },
+    {
+      "id": "dca1ca85",
+      "bank_id": "c010ab00",
+      "text": "Hey! Bu suç teşkil eden bir davranış!"
+    },
+    {
+      "id": "dca1ca86",
+      "bank_id": "c010ab00",
+      "text": "Bu bir suç!"
+    },
+    {
+      "id": "ddd72310",
+      "bank_id": "c010ab00",
+      "text": "Cinayet bu!"
+    },
+    {
+      "id": "ddd72312",
+      "bank_id": "c010ab00",
+      "text": "Korkunç! Cinayet bu!"
+    },
+    {
+      "id": "ddd72313",
+      "bank_id": "c010ab00",
+      "text": "Ah, bu çok fena! Cinayet bu!"
+    },
+    {
+      "id": "ddd72314",
+      "bank_id": "c010ab00",
+      "text": "İğrenç katil!"
+    },
+    {
+      "id": "ddd72315",
+      "bank_id": "c010ab00",
+      "text": "Katil! Sensin o seni katil!"
+    },
+    {
+      "id": "ddd72316",
+      "bank_id": "c010ab00",
+      "text": "Korkunç! Cinayet!"
+    },
+    {
+      "id": "ddd72317",
+      "bank_id": "c010ab00",
+      "text": "Ne vahşi bir cinayet!"
+    },
+    {
+      "id": "ded25d50",
+      "bank_id": "c010ab00",
+      "text": "Gördün mü? Haraç kesiyor!"
+    },
+    {
+      "id": "ded25d52",
+      "bank_id": "c010ab00",
+      "text": "Tam şurada haraç kesiliyor!"
+    },
+    {
+      "id": "ded25d53",
+      "bank_id": "c010ab00",
+      "text": "Hey sen! İnsanlardan haraç kesmeye çalışmayı bırak!"
+    },
+    {
+      "id": "ded25d54",
+      "bank_id": "c010ab00",
+      "text": "Hey, bakın! Haraç."
+    },
+    {
+      "id": "ded25d55",
+      "bank_id": "c010ab00",
+      "text": "Haraç!"
+    },
+    {
+      "id": "ded25d56",
+      "bank_id": "c010ab00",
+      "text": "Ne fena bir haraç kesme eylemidir bu!"
+    },
+    {
+      "id": "ded25d57",
+      "bank_id": "c010ab00",
+      "text": "Aman Tanrım, gözlerimin önünde bir haraç vakası."
+    },
+    {
+      "id": "e35f0538",
+      "bank_id": "c010ab00",
+      "text": "Saldırı! Saldırı suçu işledin!"
+    },
+    {
+      "id": "e35f053b",
+      "bank_id": "c010ab00",
+      "text": "Saldırı!"
+    },
+    {
+      "id": "e9f28531",
+      "bank_id": "c010ab00",
+      "text": "Sen bir katilsin!"
+    },
+    {
+      "id": "ec1a5191",
+      "bank_id": "c010ab00",
+      "text": "Bu çok ama çok yanlış!! Muhafızlar!"
+    },
+    {
+      "id": "ec1a5193",
+      "bank_id": "c010ab00",
+      "text": "Hayatımda gördüğüm en aşağılık şey bu! Muhafızlar!"
+    },
+    {
+      "id": "ec1a5194",
+      "bank_id": "c010ab00",
+      "text": "Bir çocuğun önünde hem de! Muhafızlar!"
+    },
+    {
+      "id": "ec1a5197",
+      "bank_id": "c010ab00",
+      "text": "Bir çocuğun önünde bunu yapmaya nasıl cüret edersin! Muhafızlar!"
+    },
+    {
+      "id": "efe77e41",
+      "bank_id": "c010ab00",
+      "text": "Yasadışı faaliyetinize derhâl son verin!"
+    },
+    {
+      "id": "efe77e42",
+      "bank_id": "c010ab00",
+      "text": "Suçlu! Gördüm onu!"
+    },
+    {
+      "id": "f0740fc2",
+      "bank_id": "c010ab00",
+      "text": "Hey, bu yanlış!"
+    },
+    {
+      "id": "f11a59b1",
+      "bank_id": "c010ab00",
+      "text": "Sen hastasın! Muhafızlar!"
+    },
+    {
+      "id": "f11a59b3",
+      "bank_id": "c010ab00",
+      "text": "Bir çocuğun önünde kesinlikle kabul edilemez bir davranış! Muhafızlar!"
+    },
+    {
+      "id": "f11a59b5",
+      "bank_id": "c010ab00",
+      "text": "Bu kabul edilemez! Seni içeri tıkmaları lazım!"
+    },
+    {
+      "id": "f11a59b7",
+      "bank_id": "c010ab00",
+      "text": "Seni canavar! O sadece bir çocuk! Muhafızlar!"
+    },
+    {
+      "id": "f4f29660",
+      "bank_id": "c010ab00",
+      "text": "Ah, ne kadar korkunç!"
+    },
+    {
+      "id": "f9741e2f",
+      "bank_id": "c010ab00",
+      "text": "Kötülük yapıyorsun!"
+    },
+    {
+      "id": "febc0258",
+      "bank_id": "c010ab00",
+      "text": "Hey! Kimse benden bir şey çalamaz!"
+    },
+    {
+      "id": "febc0259",
+      "bank_id": "c010ab00",
+      "text": "Hey! Benim olanı almayı kes!"
+    },
+    {
+      "id": "febc025a",
+      "bank_id": "c010ab00",
+      "text": "Eşyalarımı çalıyorsun seni serseri!"
+    },
+    {
+      "id": "febc025b",
+      "bank_id": "c010ab00",
+      "text": "Ne ne? Skandal bir hırsız!"
+    },
+    {
+      "id": "febc025d",
+      "bank_id": "c010ab00",
+      "text": "O benim mülküm! Dur!"
+    },
+    {
+      "id": "febc025e",
+      "bank_id": "c010ab00",
+      "text": "Hırsız! Eşyalarımı almayı kes!"
+    },
+    {
+      "id": "febc025f",
+      "bank_id": "c010ab00",
+      "text": "Hırsız! Bırak onu!"
+    }
+  ]
+}

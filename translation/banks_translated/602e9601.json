@@ -1,0 +1,691 @@
+{
+  "bank_id": "602e9601",
+  "total_strings": 137,
+  "strings": [
+    {
+      "id": "07f44870",
+      "bank_id": "602e9601",
+      "text": "Aşktan daha büyük bir hediye yoktur. Ama arkadaşım gerçek bir hediye istiyor. Nereden alabilirim?"
+    },
+    {
+      "id": "07f44871",
+      "bank_id": "602e9601",
+      "text": "Bu hafta dostumun doğum günü. Ona on yedi kadeh bira ısmarlayacaktım ama belki de bir hediye almalıyım."
+    },
+    {
+      "id": "07f44872",
+      "bank_id": "602e9601",
+      "text": "Anneme bir hediye almalıyım. Doğum günü geçen aydı."
+    },
+    {
+      "id": "07f44876",
+      "bank_id": "602e9601",
+      "text": "Hediye almak zorunda olduğuma inanamıyorum. Nerede satıldıklarını bile bilmiyorum."
+    },
+    {
+      "id": "07f44877",
+      "bank_id": "602e9601",
+      "text": "Bana bir hediyelik eşya dükkânı gösterebilir misin?"
+    },
+    {
+      "id": "10f4565a",
+      "bank_id": "602e9601",
+      "text": "Hediyelerini genelde nereden alırsın?"
+    },
+    {
+      "id": "10f4565b",
+      "bank_id": "602e9601",
+      "text": "Buralardaki en ucuz hediyelik eşya dükkânı hangisi?"
+    },
+    {
+      "id": "10f4565c",
+      "bank_id": "602e9601",
+      "text": "Erkek arkadaşım geçen hafta bana çok güzel bir hediye verdi. Şimdi gerçekten benim de ona bir hediye almam gerek."
+    },
+    {
+      "id": "10f4565d",
+      "bank_id": "602e9601",
+      "text": "Hediye almak için genelde nereye gidersin?"
+    },
+    {
+      "id": "10f4565f",
+      "bank_id": "602e9601",
+      "text": "Hediye almaktan nefret ederim, ne alacağımı hiç bilemem ama artık daha fazla erteleyemem."
+    },
+    {
+      "id": "2f25a568",
+      "bank_id": "602e9601",
+      "text": "Tam burada bir dükkân var."
+    },
+    {
+      "id": "2f25a56a",
+      "bank_id": "602e9601",
+      "text": "Ah, onu tam burada, kasabada satın alabilirsin."
+    },
+    {
+      "id": "2f25a56b",
+      "bank_id": "602e9601",
+      "text": "Onun için yolculuk etmene gerek yok. Tam burada bir yer var."
+    },
+    {
+      "id": "2f25a56c",
+      "bank_id": "602e9601",
+      "text": "Onu tam kasabada satın alabilirsin."
+    },
+    {
+      "id": "2f25a56d",
+      "bank_id": "602e9601",
+      "text": "Kasabada onu satan bir dükkân var."
+    },
+    {
+      "id": "2f25a56e",
+      "bank_id": "602e9601",
+      "text": "Tam da bu kasabada onu satın alabileceğinden gayet eminim."
+    },
+    {
+      "id": "2f25a56f",
+      "bank_id": "602e9601",
+      "text": "Tam da aradığın şey için kasabada bir dükkân olduğuna inanıyorum."
+    },
+    {
+      "id": "3425ad09",
+      "bank_id": "602e9601",
+      "text": "Bu kasabada onun için harika dükkânlar var."
+    },
+    {
+      "id": "3425ad0a",
+      "bank_id": "602e9601",
+      "text": "İhtiyacın olanı burada, kasabada bulursun."
+    },
+    {
+      "id": "3425ad0b",
+      "bank_id": "602e9601",
+      "text": "Sanırım onu buralara yakın bir yerden bulabilirsin."
+    },
+    {
+      "id": "3425ad0c",
+      "bank_id": "602e9601",
+      "text": "Buradan çok uzak olmayan bir dükkân var."
+    },
+    {
+      "id": "3425ad0d",
+      "bank_id": "602e9601",
+      "text": "Buradan çok uzak olmayan bir dükkân var."
+    },
+    {
+      "id": "3425ad0e",
+      "bank_id": "602e9601",
+      "text": "Hizmetkârlarım alışverişlerinin çoğunu tam burada, kasabada yapar."
+    },
+    {
+      "id": "3425ad0f",
+      "bank_id": "602e9601",
+      "text": "İhtiyacın olanı burada, kasabada bulursun."
+    },
+    {
+      "id": "49b42bf8",
+      "bank_id": "602e9601",
+      "text": "En yakın mobilyacı nerede?"
+    },
+    {
+      "id": "5b4c816a",
+      "bank_id": "602e9601",
+      "text": "Saçımı kestirmem gerek. Beni deli ediyor. Buralarda kuaför var mı?"
+    },
+    {
+      "id": "5b4c816b",
+      "bank_id": "602e9601",
+      "text": "Bu lanet saçtan bıktım. Kestirme vakti geldi. Bildiğin kuaför var mı?"
+    },
+    {
+      "id": "5b4c816c",
+      "bank_id": "602e9601",
+      "text": "Saçımdan birkaç santim kestirmek istiyorum. Kuaförler nerede?"
+    },
+    {
+      "id": "5b4c816d",
+      "bank_id": "602e9601",
+      "text": "Sence de saçım biraz sönük görünmüyor mu? Bir kuaföre gitmeliyim."
+    },
+    {
+      "id": "5b4c816e",
+      "bank_id": "602e9601",
+      "text": "Saçımın böyle olmasından nefret ediyorum. Yeni bir tarza ihtiyacım var."
+    },
+    {
+      "id": "61b9b750",
+      "bank_id": "602e9601",
+      "text": "Şapşal kuzenim gidip birbiriyle... şey yapan iki hobbe'nin dövmesini yaptırmış. Bunu sildirecek birini bulmam gerek."
+    },
+    {
+      "id": "61b9b753",
+      "bank_id": "602e9601",
+      "text": "Bir yanağıma güneş, diğer yanağıma da ay dövmesi istiyorum. Yüzümden bahsetmiyorum bu arada."
+    },
+    {
+      "id": "644c8fb8",
+      "bank_id": "602e9601",
+      "text": "Şey, ağda yaptırması gereken... bilirsin ya, bir arkadaşım var. Bunun için nereye gitmeli? Arkadaşım yani."
+    },
+    {
+      "id": "644c8fb9",
+      "bank_id": "602e9601",
+      "text": "Saçım bana baskı yapıyor. Beni bu dikenli boyunduruktan kurtaracak bir kuaföre ihtiyacım var."
+    },
+    {
+      "id": "644c8fbb",
+      "bank_id": "602e9601",
+      "text": "Saçıma gerçekten bir çeki düzen vermem gerek. Buralara yakın iyi bir yer var mı?"
+    },
+    {
+      "id": "644c8fbe",
+      "bank_id": "602e9601",
+      "text": "Bana en yakın kuaförün nerede olduğunu söyleyebilir misin?"
+    },
+    {
+      "id": "644c8fbf",
+      "bank_id": "602e9601",
+      "text": "Yakınlarda saç kestirebileceğim bir yer var mı?"
+    },
+    {
+      "id": "71f66630",
+      "bank_id": "602e9601",
+      "text": "Onu burada alsan da olur. Çok uzakta olmayan bir yer var."
+    },
+    {
+      "id": "71f66631",
+      "bank_id": "602e9601",
+      "text": "İstediğin şeyi tam burada, kasabada satın alabilirsin."
+    },
+    {
+      "id": "71f66633",
+      "bank_id": "602e9601",
+      "text": "Onun için uzağa gitmene gerek yok. Burada onu satan dükkânlar var."
+    },
+    {
+      "id": "71f66636",
+      "bank_id": "602e9601",
+      "text": "Onun için uzağa gitmene gerek yok. Tam buradan alabilirsin."
+    },
+    {
+      "id": "71f66637",
+      "bank_id": "602e9601",
+      "text": "Onu buradaki kasaba dükkânında bulabilirsin."
+    },
+    {
+      "id": "78f67132",
+      "bank_id": "602e9601",
+      "text": "Onu burada, kasabada satın alabileceğinden oldukça eminim."
+    },
+    {
+      "id": "78f67133",
+      "bank_id": "602e9601",
+      "text": "Onun için buradan çok uzak olmayan bir dükkân var."
+    },
+    {
+      "id": "78f67134",
+      "bank_id": "602e9601",
+      "text": "Aslına bakarsan tam da bu kasabada bir dükkân var."
+    },
+    {
+      "id": "78f67135",
+      "bank_id": "602e9601",
+      "text": "Tam yerini biliyorum. Ve tam burada, kasabada."
+    },
+    {
+      "id": "78f67136",
+      "bank_id": "602e9601",
+      "text": "Onu tam burada, kasabada bulabilirsin."
+    },
+    {
+      "id": "8c37f088",
+      "bank_id": "602e9601",
+      "text": "Bir meyhaneye uğramadan daha fazla dayanamam. Nerede bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "8c37f089",
+      "bank_id": "602e9601",
+      "text": "Buralarda nerede kafayı çekersin?"
+    },
+    {
+      "id": "8c37f08d",
+      "bank_id": "602e9601",
+      "text": "Kafayı bulmak için en iyi yer neresi?"
+    },
+    {
+      "id": "8c37f08e",
+      "bank_id": "602e9601",
+      "text": "Uff, öyle bir akşamdan kalmayım ki genelde içmeye nereye gittiğimi bile hatırlayamıyorum."
+    },
+    {
+      "id": "8c37f08f",
+      "bank_id": "602e9601",
+      "text": "Bir meyhanede güzel, sessiz bir akşam geçirmek istiyorum. Buralarda bir tane var mı?"
+    },
+    {
+      "id": "925b14a8",
+      "bank_id": "602e9601",
+      "text": "Bildiğin hiç iksir dükkânı var mı?"
+    },
+    {
+      "id": "925b14a9",
+      "bank_id": "602e9601",
+      "text": "Biraz sağlık iksiri almam gerek. Nerede satıyorlar?"
+    },
+    {
+      "id": "925b14ad",
+      "bank_id": "602e9601",
+      "text": "Boğazım fena halde ağrıyor. Şifalı bir iksiri nereden bulabilirim?"
+    },
+    {
+      "id": "925b14ae",
+      "bank_id": "602e9601",
+      "text": "Kendimi biraz keyifsiz hissediyordum. Güzel bir sağlık iksiri tam yerinde olurdu."
+    },
+    {
+      "id": "925b14af",
+      "bank_id": "602e9601",
+      "text": "Hiçbir şey insanı güzel bir iksir gibi canlandıramaz. Nereden alabilirim?"
+    },
+    {
+      "id": "97380238",
+      "bank_id": "602e9601",
+      "text": "Yakınlarda bu gece sarhoş olabileceğim bir meyhane, han veya bar var mı?"
+    },
+    {
+      "id": "97380239",
+      "bank_id": "602e9601",
+      "text": "Buralarda genelde nerede kafayı çekersin?"
+    },
+    {
+      "id": "9738023c",
+      "bank_id": "602e9601",
+      "text": "Kasabada bir gece geçirmek için can atıyorum. Hangi meyhaneyi tavsiye edersin?"
+    },
+    {
+      "id": "9738023e",
+      "bank_id": "602e9601",
+      "text": "Bu hafta sonu hepimiz bir şeyler içmeye gideceğiz. Nerede bir meyhane bulabiliriz?"
+    },
+    {
+      "id": "9738023f",
+      "bank_id": "602e9601",
+      "text": "Arkadaşım için bir bekârlığa veda gecesi planlıyorum. Bir bar bulmam gerek. Dansçılar isteğe bağlı."
+    },
+    {
+      "id": "9d5b25d8",
+      "bank_id": "602e9601",
+      "text": "Buralarda iksir satan bir yer var mı?"
+    },
+    {
+      "id": "9d5b25d9",
+      "bank_id": "602e9601",
+      "text": "Nereden biraz iksir bulabilirim?"
+    },
+    {
+      "id": "9d5b25dc",
+      "bank_id": "602e9601",
+      "text": "İksirlerin insana enerji verdiğini duydum. Nereden bulabilirim?"
+    },
+    {
+      "id": "9d5b25de",
+      "bank_id": "602e9601",
+      "text": "İksir almak için nereye gitmeliyim?"
+    },
+    {
+      "id": "9d5b25df",
+      "bank_id": "602e9601",
+      "text": "Sandık taşımak insanı tüketiyor. Sence iksir almak işe yarar mı?"
+    },
+    {
+      "id": "9f97f550",
+      "bank_id": "602e9601",
+      "text": "Buralarda hiç dükkân var mı?"
+    },
+    {
+      "id": "9f97f551",
+      "bank_id": "602e9601",
+      "text": "Can sıkıntısından patlamak üzereyim. Nereden bir şeyler satın alabilirim?"
+    },
+    {
+      "id": "9f97f554",
+      "bank_id": "602e9601",
+      "text": "Biraz altınım var ve alışveriş yapmak istiyorum."
+    },
+    {
+      "id": "9f97f556",
+      "bank_id": "602e9601",
+      "text": "Maddeciyim, kabul ediyorum. Dükkânlar nerede?"
+    },
+    {
+      "id": "9f97f557",
+      "bank_id": "602e9601",
+      "text": "Bunu sık söylemem ama canım gerçekten biraz alışveriş yapmak istiyor."
+    },
+    {
+      "id": "a497fd70",
+      "bank_id": "602e9601",
+      "text": "Biraz fazladan altınım var ve bunun tek bir çaresi var. Alışveriş!"
+    },
+    {
+      "id": "a497fd71",
+      "bank_id": "602e9601",
+      "text": "Sanırım bugün biraz balık kancası alacağım. Onları perde asmak için kullanıyorum."
+    },
+    {
+      "id": "a497fd75",
+      "bank_id": "602e9601",
+      "text": "Bugün biraz alışveriş yapmaya karar verdim. Ama nereden başlasam?"
+    },
+    {
+      "id": "a497fd76",
+      "bank_id": "602e9601",
+      "text": "Bilirsin ya, tam da alışveriş yapma havasındayım."
+    },
+    {
+      "id": "a497fd77",
+      "bank_id": "602e9601",
+      "text": "Dükkânlara doğru gidiyorum. Sadece hangilerine gideceğimden emin değilim."
+    },
+    {
+      "id": "aac4cb0a",
+      "bank_id": "602e9601",
+      "text": "Deodorant iksirlerim azalıyor. Nereden biraz daha alabilirim?"
+    },
+    {
+      "id": "aac4cb0b",
+      "bank_id": "602e9601",
+      "text": "Kendimi biraz keyifsiz hissediyordum, nereden biraz iksir bulabilirim?"
+    },
+    {
+      "id": "aac4cb0c",
+      "bank_id": "602e9601",
+      "text": "Şu an bir iksire hiç hayır demezdim. Nerede satıyorlar?"
+    },
+    {
+      "id": "aac4cb0d",
+      "bank_id": "602e9601",
+      "text": "Son çılgınlığın ne olduğunu biliyor musun? İksirler! Herkes içiyor. Buralarda nereden bulunur pek emin değilim ama."
+    },
+    {
+      "id": "aac4cb0e",
+      "bank_id": "602e9601",
+      "text": "Ah, şu anda gerçekten bir iksir olsa fena olmazdı. Nereden satın alabilirim?"
+    },
+    {
+      "id": "b3c4d958",
+      "bank_id": "602e9601",
+      "text": "Buraya yakın bir yerde iksir satan bir mekân olduğu doğru mu?"
+    },
+    {
+      "id": "b3c4d959",
+      "bank_id": "602e9601",
+      "text": "Varoluşsal ıstırabımı azaltmak için bir iksir almam gerek. Varsa yaban mersini aromalı olsun."
+    },
+    {
+      "id": "b3c4d95b",
+      "bank_id": "602e9601",
+      "text": "Nereden iksir alabileceğim konusunda bir fikrin var mı? Güzel renklerini seviyorum."
+    },
+    {
+      "id": "b3c4d95e",
+      "bank_id": "602e9601",
+      "text": "Buralara yakın bir simyacı var mı?"
+    },
+    {
+      "id": "b3c4d95f",
+      "bank_id": "602e9601",
+      "text": "Yakınlarda bir aktar olmalı, değil mi?"
+    },
+    {
+      "id": "b704aa20",
+      "bank_id": "602e9601",
+      "text": "Kasabada onun için harika bir yer var."
+    },
+    {
+      "id": "b704aa21",
+      "bank_id": "602e9601",
+      "text": "Sanırım tam burada, kasabada bir dükkân var."
+    },
+    {
+      "id": "b704aa23",
+      "bank_id": "602e9601",
+      "text": "Onun için uzağa gitmeye gerek yok, kasabada bir dükkân var."
+    },
+    {
+      "id": "b704aa26",
+      "bank_id": "602e9601",
+      "text": "Burada, kasabada bir yer olduğundan oldukça eminim."
+    },
+    {
+      "id": "b704aa27",
+      "bank_id": "602e9601",
+      "text": "Onu kasabadan alabilirsin, değil mi?"
+    },
+    {
+      "id": "b7407050",
+      "bank_id": "602e9601",
+      "text": "Eski pantolonumda biraz altın buldum ve harcamak istiyorum."
+    },
+    {
+      "id": "b7407051",
+      "bank_id": "602e9601",
+      "text": "Yılın o zamanı geldi; tüm çekincelerimi bir kenara bırakıp sadece harcıyor, harcıyor, harcıyorum."
+    },
+    {
+      "id": "b7407053",
+      "bank_id": "602e9601",
+      "text": "Canım gerçekten alışveriş yapmak istiyor."
+    },
+    {
+      "id": "b7407056",
+      "bank_id": "602e9601",
+      "text": "Biliyor musun, sanırım gidip dükkânlarda ne yeni var bir bakacağım."
+    },
+    {
+      "id": "b7407057",
+      "bank_id": "602e9601",
+      "text": "Birkaç şey satın almam gerek."
+    },
+    {
+      "id": "be04b522",
+      "bank_id": "602e9601",
+      "text": "Yakındaki dükkânı görmedin mi?"
+    },
+    {
+      "id": "be04b523",
+      "bank_id": "602e9601",
+      "text": "O şeyleri kasabada bulabilirsin."
+    },
+    {
+      "id": "be04b524",
+      "bank_id": "602e9601",
+      "text": "İhtiyacın olan dükkân bu kasabada."
+    },
+    {
+      "id": "be04b525",
+      "bank_id": "602e9601",
+      "text": "Şanslısın. Buraya yakın harika bir dükkân var."
+    },
+    {
+      "id": "be04b526",
+      "bank_id": "602e9601",
+      "text": "İstediğin şeyi bu kasabada satın alabileceğinden eminim."
+    },
+    {
+      "id": "be407b52",
+      "bank_id": "602e9601",
+      "text": "Bütün ay para biriktirdim ve şimdi alışveriş zamanı."
+    },
+    {
+      "id": "be407b53",
+      "bank_id": "602e9601",
+      "text": "Bugün kendimi biraz alışverişle ödüllendiriyorum."
+    },
+    {
+      "id": "be407b54",
+      "bank_id": "602e9601",
+      "text": "Bugün aklımda tek bir düşünceyle uyandım. Alışveriş."
+    },
+    {
+      "id": "be407b55",
+      "bank_id": "602e9601",
+      "text": "Hmm, sanırım dükkânlarda biraz eğleneceğim. Şimdi, nereye gitsem acaba...?"
+    },
+    {
+      "id": "be407b56",
+      "bank_id": "602e9601",
+      "text": "Dün gece rüyamda alışveriş yaptığımı gördüm. Her zaman rüyalarımı gerçekleştirmek istemişimdir."
+    },
+    {
+      "id": "d0c65988",
+      "bank_id": "602e9601",
+      "text": "Buralarda kuaförler nerede?"
+    },
+    {
+      "id": "d0c65989",
+      "bank_id": "602e9601",
+      "text": "İyi bir kuaförü nerede bulabilirim?"
+    },
+    {
+      "id": "d0c6598d",
+      "bank_id": "602e9601",
+      "text": "Bıyık bırakmayı denemeye hazırım. Şey, pek sayılmaz ama yine de bir kuaföre ihtiyacım var."
+    },
+    {
+      "id": "d0c6598e",
+      "bank_id": "602e9601",
+      "text": "Kardeşim favorilerinden kurtulmak istiyor. İyi bir yer bulsam iyi olur. Geçen sefer kulağının bir kısmını kestiler."
+    },
+    {
+      "id": "d0c6598f",
+      "bank_id": "602e9601",
+      "text": "Buralarda burun kıllarımı düzeltecek bir kuaför var mı?"
+    },
+    {
+      "id": "d4003b90",
+      "bank_id": "602e9601",
+      "text": "Haftaya yine aptal bir parti var. Nereden hediye alabilirim?"
+    },
+    {
+      "id": "d4003b91",
+      "bank_id": "602e9601",
+      "text": "Yarın aptal bir nişan partisine gitmem gerek. Nereden hediye bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "d4003b94",
+      "bank_id": "602e9601",
+      "text": "Haftaya bazı akrabalarımı ziyaret edeceğim. Onlara güzel bir hediyeyi nereden alabileceğim konusunda bir fikrin var mı?"
+    },
+    {
+      "id": "d4003b96",
+      "bank_id": "602e9601",
+      "text": "Bir doğum günü partisine davet edildim. Sanırım artık bir hediye almam gerekecek. Yakınlarda iyi bir dükkân var mı?"
+    },
+    {
+      "id": "d4003b97",
+      "bank_id": "602e9601",
+      "text": "Birkaç hafta önce hastalandığımda komşularım bana çok iyi davrandı. Sanırım onlara bir teşekkür hediyesi alacağım."
+    },
+    {
+      "id": "d90043b0",
+      "bank_id": "602e9601",
+      "text": "Buralarda hoşlandığım kıza hediye alabileceğim bir yer olmalı, değil mi?"
+    },
+    {
+      "id": "d90043b1",
+      "bank_id": "602e9601",
+      "text": "Hediyelerini genelde nereden alırsın?"
+    },
+    {
+      "id": "d90043b5",
+      "bank_id": "602e9601",
+      "text": "İnsanlara hediye vermeyi severim. Tabii önce birkaç tane satın almam gerek."
+    },
+    {
+      "id": "d90043b6",
+      "bank_id": "602e9601",
+      "text": "Gelecek ay kız kardeşimin düğünü var. Onlara bir hediye bulmam gerek!"
+    },
+    {
+      "id": "d90043b7",
+      "bank_id": "602e9601",
+      "text": "Bir hediyelik eşya dükkânı bulmam gerek."
+    },
+    {
+      "id": "dbc66b38",
+      "bank_id": "602e9601",
+      "text": "Sakal yaptırmak için en iyi yer neresi?"
+    },
+    {
+      "id": "dbc66b39",
+      "bank_id": "602e9601",
+      "text": "Buralarda biri saçımı kesebilir, değil mi?"
+    },
+    {
+      "id": "dbc66b3c",
+      "bank_id": "602e9601",
+      "text": "Bıyık bırakmayı düşünüyorum. En yakın kuaför nerede?"
+    },
+    {
+      "id": "dbc66b3e",
+      "bank_id": "602e9601",
+      "text": "Artık karşı koyamıyorum. Bir sakala ihtiyacım var. Kuaför nerede?"
+    },
+    {
+      "id": "dbc66b3f",
+      "bank_id": "602e9601",
+      "text": "Her zaman ne istediğimi bilirsin. Büyük, gür bir sakal. Ve gerçekten, çooook gür olsun."
+    },
+    {
+      "id": "eff33ae2",
+      "bank_id": "602e9601",
+      "text": "Bu hafta sonu kızlarla dışarı çıkıyorum, meyhaneler nerede?"
+    },
+    {
+      "id": "eff33ae3",
+      "bank_id": "602e9601",
+      "text": "Delirmeden önce bir meyhane bulmam gerek."
+    },
+    {
+      "id": "eff33ae4",
+      "bank_id": "602e9601",
+      "text": "Kafayı çekmek istiyorum. Buralarda bir çeşit meyhane olmalı, değil mi?"
+    },
+    {
+      "id": "eff33ae5",
+      "bank_id": "602e9601",
+      "text": "E, buralarda iyi vakit geçirmek için nereye gidersiniz?"
+    },
+    {
+      "id": "eff33ae7",
+      "bank_id": "602e9601",
+      "text": "Peki en yakın meyhane nerede?"
+    },
+    {
+      "id": "f6f345e8",
+      "bank_id": "602e9601",
+      "text": "İyi bir meyhane önerebilir misin?"
+    },
+    {
+      "id": "f6f345e9",
+      "bank_id": "602e9601",
+      "text": "En yakın meyhane nerede? İyice kafayı bulma havasındayım."
+    },
+    {
+      "id": "f6f345ea",
+      "bank_id": "602e9601",
+      "text": "Yakınlarda iyi bir meyhane var mı?"
+    },
+    {
+      "id": "f6f345ee",
+      "bank_id": "602e9601",
+      "text": "Bu gece dağıtacağım. Bunu yapmak için en iyi yer neresi?"
+    },
+    {
+      "id": "f6f345ef",
+      "bank_id": "602e9601",
+      "text": "Susamaktan ölmeden önce en yakın meyhanenin nerede olduğunu söyle."
+    }
+  ]
+}

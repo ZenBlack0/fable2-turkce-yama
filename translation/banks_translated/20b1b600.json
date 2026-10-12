@@ -1,0 +1,881 @@
+{
+  "bank_id": "20b1b600",
+  "total_strings": 175,
+  "strings": [
+    {
+      "id": "0047d95f",
+      "bank_id": "20b1b600",
+      "text": "Hangi işlerin mevcut olduğunu görmek için harita ekranını açın."
+    },
+    {
+      "id": "00a437fd",
+      "bank_id": "20b1b600",
+      "text": "Patron! Onları durduramıyoruz. Hâlâ geliyorlar!"
+    },
+    {
+      "id": "04164e70",
+      "bank_id": "20b1b600",
+      "text": "Ah, bu çok tatmin ediciydi!"
+    },
+    {
+      "id": "06165156",
+      "bank_id": "20b1b600",
+      "text": "Bunu bunca zamandır kaçırdığıma inanamıyorum!"
+    },
+    {
+      "id": "071652c9",
+      "bank_id": "20b1b600",
+      "text": "Hey, canının yanmasını istemiyorsan haydut olmayacaktın."
+    },
+    {
+      "id": "0747e444",
+      "bank_id": "20b1b600",
+      "text": "Bower Gölü'ne gidin."
+    },
+    {
+      "id": "081654bc",
+      "bank_id": "20b1b600",
+      "text": "Bunun geldiği yerde daha çok var!"
+    },
+    {
+      "id": "0847e637",
+      "bank_id": "20b1b600",
+      "text": "Bowerstone Mezarlığı'na gidin."
+    },
+    {
+      "id": "0916562f",
+      "bank_id": "20b1b600",
+      "text": "Bana neden Hammer dediklerini şimdi anladın mı!"
+    },
+    {
+      "id": "0a165782",
+      "bank_id": "20b1b600",
+      "text": "Al bakalım!"
+    },
+    {
+      "id": "0b165975",
+      "bank_id": "20b1b600",
+      "text": "Umarım kolay morarmazsın."
+    },
+    {
+      "id": "0c165ae8",
+      "bank_id": "20b1b600",
+      "text": "Ah, affedersin. Canını mı yaktım? Çok da umurumda!"
+    },
+    {
+      "id": "0d165c5b",
+      "bank_id": "20b1b600",
+      "text": "O kadar havalı değilsin şimdi, değil mi?"
+    },
+    {
+      "id": "10df2b3b",
+      "bank_id": "20b1b600",
+      "text": "Ah zavallı Robert'im, ya şimdiden ona bir şey-?"
+    },
+    {
+      "id": "11df2cae",
+      "bank_id": "20b1b600",
+      "text": "Oğlunun iyi olduğuna eminim. Onu bulacağız."
+    },
+    {
+      "id": "12df2e01",
+      "bank_id": "20b1b600",
+      "text": "U... Umarım öyledir. Artık uzak olduğunu sanmıyorum."
+    },
+    {
+      "id": "19209200",
+      "bank_id": "20b1b600",
+      "text": "Evet! Profesyonel bir balverine avcısı olabilirim!"
+    },
+    {
+      "id": "1a2093f3",
+      "bank_id": "20b1b600",
+      "text": "Kimseyi yiyemeyeceksin!"
+    },
+    {
+      "id": "1b209566",
+      "bank_id": "20b1b600",
+      "text": "Geberdi gitti işte!"
+    },
+    {
+      "id": "1c2096d9",
+      "bank_id": "20b1b600",
+      "text": "Biri daha gitti!"
+    },
+    {
+      "id": "1d20984c",
+      "bank_id": "20b1b600",
+      "text": "Birini öldürdüm!"
+    },
+    {
+      "id": "1e209a3f",
+      "bank_id": "20b1b600",
+      "text": "Bunu sen kaşındın, canavar!"
+    },
+    {
+      "id": "1f209b92",
+      "bank_id": "20b1b600",
+      "text": "Yolda bir tüccar yiyici daha eksildi!"
+    },
+    {
+      "id": "2720a80a",
+      "bank_id": "20b1b600",
+      "text": "Bu bir daha ayağa kalkamaz!"
+    },
+    {
+      "id": "2820a9fd",
+      "bank_id": "20b1b600",
+      "text": "Gördün mü gününü?!"
+    },
+    {
+      "id": "29d18ed0",
+      "bank_id": "20b1b600",
+      "text": "Ne yapıyorsun? Devam et, yoksa bu cehennem deliğinde öleceğiz."
+    },
+    {
+      "id": "2a6fff5f",
+      "bank_id": "20b1b600",
+      "text": "Ah, bak, bir mezar."
+    },
+    {
+      "id": "2b700132",
+      "bank_id": "20b1b600",
+      "text": "Harika."
+    },
+    {
+      "id": "2c212e80",
+      "bank_id": "20b1b600",
+      "text": "Ama şimdi sayemizde yolun bu kısmı biraz daha güvenli."
+    },
+    {
+      "id": "2d213073",
+      "bank_id": "20b1b600",
+      "text": "Bütün ömrümü dua ederek geçirdim; oysa dünya her zamanki gibi tehlikeliydi."
+    },
+    {
+      "id": "2d8a318b",
+      "bank_id": "20b1b600",
+      "text": "Ben bir yol açarken sen onları oyala!"
+    },
+    {
+      "id": "2e2131e6",
+      "bank_id": "20b1b600",
+      "text": "Harikaydı ama, değil mi!"
+    },
+    {
+      "id": "2e8a337e",
+      "bank_id": "20b1b600",
+      "text": "Çok yaklaşma hanımefendi, geride dur!"
+    },
+    {
+      "id": "2f8a34d1",
+      "bank_id": "20b1b600",
+      "text": "Tamam. Lütfen o pis yaratıkları benden uzak tutun!"
+    },
+    {
+      "id": "302134cc",
+      "bank_id": "20b1b600",
+      "text": "Birinin başı dertte."
+    },
+    {
+      "id": "308a3644",
+      "bank_id": "20b1b600",
+      "text": "Hepsini hallediyorsun, değil mi? Neredeyse vardım! Azıcık daha dayan!"
+    },
+    {
+      "id": "312136bf",
+      "bank_id": "20b1b600",
+      "text": "Bu sisten çıkmanın bir yolunu bulmalıyız."
+    },
+    {
+      "id": "33213985",
+      "bank_id": "20b1b600",
+      "text": "Vay canına. Ormanın ne kadar davetkâr bir köşesi. Pek sıcacık."
+    },
+    {
+      "id": "37214031",
+      "bank_id": "20b1b600",
+      "text": "Ona yardım etmeliyiz, hadi!"
+    },
+    {
+      "id": "380c9e10",
+      "bank_id": "20b1b600",
+      "text": "Bana pek seçenek bırakmadın."
+    },
+    {
+      "id": "390c9f83",
+      "bank_id": "20b1b600",
+      "text": "Bir daha kimsenin canını yakamayacaksın."
+    },
+    {
+      "id": "3a0ca176",
+      "bank_id": "20b1b600",
+      "text": "Bu bir daha ayağa kalkamaz."
+    },
+    {
+      "id": "3b7e12bc",
+      "bank_id": "20b1b600",
+      "text": "Lonca'ya dönün."
+    },
+    {
+      "id": "3c0ca45c",
+      "bank_id": "20b1b600",
+      "text": "Bu yolları bir daha rahatsız edemeyecek bir haydut eksildi."
+    },
+    {
+      "id": "3d0ca5cf",
+      "bank_id": "20b1b600",
+      "text": "Kaç masum insanı öldürdün? Artık bitti!"
+    },
+    {
+      "id": "3e0ca7a2",
+      "bank_id": "20b1b600",
+      "text": "Sakın kalkmaya kalkma! Ah, zaten kalkamazsın."
+    },
+    {
+      "id": "3f0ca915",
+      "bank_id": "20b1b600",
+      "text": "Dünyayı kötülükten arındırmak. İşte ben!"
+    },
+    {
+      "id": "40d45270",
+      "bank_id": "20b1b600",
+      "text": "Lucien'in Günlüğü"
+    },
+    {
+      "id": "444ac0b0",
+      "bank_id": "20b1b600",
+      "text": "Sana kazık atamayacak kadar korkaktır."
+    },
+    {
+      "id": "454ac223",
+      "bank_id": "20b1b600",
+      "text": "Harita seni günlüklere götürecek."
+    },
+    {
+      "id": "492b3477",
+      "bank_id": "20b1b600",
+      "text": "Son günlerde içmeye pek düşkün olduğum ateş suyu zihnimdeki anıları silip süpürmesin diye, Lord Lucien'in günlüklerini bulma talimatları buradadır. Belki bir gün onları satıp eski zorbaya inat kâr ederim.\nBower Gölü'nde, adını Kahramanlar'dan alan tepenin gölgesinde üç ağaç kütüğü vardır. Günlüğünü işte o noktaya gömdüm."
+    },
+    {
+      "id": "494ac86f",
+      "bank_id": "20b1b600",
+      "text": "Teşekkürler! Ağız sulandırıcı bir koleksiyon; pişman olmayacağınıza temin ederim!"
+    },
+    {
+      "id": "4a4ac9c2",
+      "bank_id": "20b1b600",
+      "text": "Lucien'in günlüğünü güvende olsun diye gömdüm. Bu da bulunduğu yerin haritası."
+    },
+    {
+      "id": "4b4acbb5",
+      "bank_id": "20b1b600",
+      "text": "Yerini sana kendim gösterirdim ama... Harcayacak param var! <laughs>"
+    },
+    {
+      "id": "4b70ada2",
+      "bank_id": "20b1b600",
+      "text": "Yaklaşmama izin ver de sana gerçek bir silah göstereyim!"
+    },
+    {
+      "id": "4db63b60",
+      "bank_id": "20b1b600",
+      "text": "Seninle tanıştığımdan beri yer altında epey zaman geçiriyorum galiba."
+    },
+    {
+      "id": "4eb63cd3",
+      "bank_id": "20b1b600",
+      "text": "İçimden bir keşişin yanımıza koşup..."
+    },
+    {
+      "id": "50b64039",
+      "bank_id": "20b1b600",
+      "text": "Eh, burada kendimi evimde gibi hissediyorum."
+    },
+    {
+      "id": "531eed50",
+      "bank_id": "20b1b600",
+      "text": "Ah! Çekil üstümden, seni pis hayvan!"
+    },
+    {
+      "id": "53b644f2",
+      "bank_id": "20b1b600",
+      "text": "Ah, bana bakma sen, artık mağaraları pek sevmiyorum. Hepsi bu."
+    },
+    {
+      "id": "541eeec3",
+      "bank_id": "20b1b600",
+      "text": "Hey! Buraya gel!"
+    },
+    {
+      "id": "54b6eec3",
+      "bank_id": "20b1b600",
+      "text": "Elbette bulacağız."
+    },
+    {
+      "id": "55b6f0b6",
+      "bank_id": "20b1b600",
+      "text": "Yeter ki fazla ileri gitme. Bizim yanımızda kalmalısın."
+    },
+    {
+      "id": "561ef229",
+      "bank_id": "20b1b600",
+      "text": "Uff! Bunun bedelini ödeyeceksin!"
+    },
+    {
+      "id": "56b6f229",
+      "bank_id": "20b1b600",
+      "text": "Ah, ama zavallı küçük Robert'im..."
+    },
+    {
+      "id": "571ef39c",
+      "bank_id": "20b1b600",
+      "text": "Ah! Bu küçük enik uslu durmuyor!"
+    },
+    {
+      "id": "57566468",
+      "bank_id": "20b1b600",
+      "text": "Gördün mü bunu? Harikaydım!"
+    },
+    {
+      "id": "581ef50f",
+      "bank_id": "20b1b600",
+      "text": "Hey! O pençeler keskin, biliyorsun değil mi!"
+    },
+    {
+      "id": "585665db",
+      "bank_id": "20b1b600",
+      "text": "Ah, kabul etmelisin ki muazzamdı!"
+    },
+    {
+      "id": "58b6f50f",
+      "bank_id": "20b1b600",
+      "text": "Burası neresi böyle?"
+    },
+    {
+      "id": "591ef6e2",
+      "bank_id": "20b1b600",
+      "text": "Ooo! Pek hırçınsın, öyle değil mi?!"
+    },
+    {
+      "id": "5956674e",
+      "bank_id": "20b1b600",
+      "text": "Güm! Tek darbede yere serildi!"
+    },
+    {
+      "id": "59b6f6e2",
+      "bank_id": "20b1b600",
+      "text": "İyi bir şey olmadığı kesin."
+    },
+    {
+      "id": "5a1ef855",
+      "bank_id": "20b1b600",
+      "text": "Ah, direnmeleri pek hoşuma gidiyor!"
+    },
+    {
+      "id": "5ab6f855",
+      "bank_id": "20b1b600",
+      "text": "Ona bir şey olmasına izin vermezsiniz, değil mi? Onu kurtarırsınız."
+    },
+    {
+      "id": "5d1efd2e",
+      "bank_id": "20b1b600",
+      "text": "Öf! Bir de seni evcil hayvan olarak beslemeyi düşünüyordum!"
+    },
+    {
+      "id": "5e1efe81",
+      "bank_id": "20b1b600",
+      "text": "Argh! Beni delirtme, seni kuduz torbası!"
+    },
+    {
+      "id": "5f303fc4",
+      "bank_id": "20b1b600",
+      "text": "Son günlerde içmeye pek düşkün olduğum ateş suyu zihnimdeki anıları silip süpürmesin diye, Lord Lucien'in günlüklerini bulma talimatları buradadır; belki bir gün onları satıp eski zorbaya inat kâr ederim. Bowerstone Mezarlığı'nın en kuzeyinde, en yüksek noktada lahitlerin en büyüğü olan Kral Mahzeni yer alır. Mahzenin yanında elinde vazo tutan bir bakire heykeli vardır, Lord Lucien'in ailesi onun altına gömülmüştür. Günlüğü işte oraya gömdüm."
+    },
+    {
+      "id": "5fb70071",
+      "bank_id": "20b1b600",
+      "text": "Burada bizi neyin beklediğini kim bilir. Dikkatli olmalıyız."
+    },
+    {
+      "id": "5fb70072",
+      "bank_id": "20b1b600",
+      "text": "Yolun neden böyle bir yerden geçmek zorunda olduğunu aklım almıyor. Bunun yerine birkaç ağaç kesemezler miydi?"
+    },
+    {
+      "id": "5fb70074",
+      "bank_id": "20b1b600",
+      "text": "Biliyorum, ama yenip yutulursan ona yardım edemezsin, değil mi?"
+    },
+    {
+      "id": "60b701e7",
+      "bank_id": "20b1b600",
+      "text": "Çocuklar! Size taze et getirdim!"
+    },
+    {
+      "id": "637a4e9e",
+      "bank_id": "20b1b600",
+      "text": "Lucien'in Günlüğünün Haritası"
+    },
+    {
+      "id": "753614e2",
+      "bank_id": "20b1b600",
+      "text": "Görünüşe göre birinin bir derse ihtiyacı var."
+    },
+    {
+      "id": "7677919b",
+      "bank_id": "20b1b600",
+      "text": "Pazarlık"
+    },
+    {
+      "id": "7d3e5fc0",
+      "bank_id": "20b1b600",
+      "text": "Bundan daha iyisini yapmalısın, ahmak."
+    },
+    {
+      "id": "7e3e61b3",
+      "bank_id": "20b1b600",
+      "text": "Ah! Bir hanımefendiye vurmaya nasıl cüret edersin?!"
+    },
+    {
+      "id": "7f3e6326",
+      "bank_id": "20b1b600",
+      "text": "Demek gerçek bir dövüş istiyorsun ha?"
+    },
+    {
+      "id": "813e660c",
+      "bank_id": "20b1b600",
+      "text": "Buna darbe mi diyorsun? Şimdi sıra bende."
+    },
+    {
+      "id": "823e67ff",
+      "bank_id": "20b1b600",
+      "text": "Annen geçimini bundan kazandığını biliyor mu?"
+    },
+    {
+      "id": "833e6952",
+      "bank_id": "20b1b600",
+      "text": "Beni gıdıklamadın bile."
+    },
+    {
+      "id": "836483ce",
+      "bank_id": "20b1b600",
+      "text": "Vay! İyi vuruş! Bunu daha önce yaptın, değil mi?"
+    },
+    {
+      "id": "843e6ac5",
+      "bank_id": "20b1b600",
+      "text": "Senden korkmuş gibi bir halim mi var?"
+    },
+    {
+      "id": "846485a1",
+      "bank_id": "20b1b600",
+      "text": "İşte ben buna öldürme derim! Vay be!"
+    },
+    {
+      "id": "85648714",
+      "bank_id": "20b1b600",
+      "text": "Hey, birazını da bana bırak!"
+    },
+    {
+      "id": "86648887",
+      "bank_id": "20b1b600",
+      "text": "Güzel! Bunu nasıl yaptığını kesinlikle bana göstermelisin!"
+    },
+    {
+      "id": "873e6f9e",
+      "bank_id": "20b1b600",
+      "text": "Elindeki ne kadar acınası bir silah öyle. Sana bu işin nasıl yapıldığını göstereyim."
+    },
+    {
+      "id": "883e7171",
+      "bank_id": "20b1b600",
+      "text": "Hey, bütün ömrümü keşişlerle geçirdim, canımı yakamazsın!"
+    },
+    {
+      "id": "88648bed",
+      "bank_id": "20b1b600",
+      "text": "Ne hamleydi ama! O yaratık neye uğradığını şaşırdı!"
+    },
+    {
+      "id": "8e406a04",
+      "bank_id": "20b1b600",
+      "text": "Trolü alt edin."
+    },
+    {
+      "id": "8f406bf7",
+      "bank_id": "20b1b600",
+      "text": "Lucien'in günlüğünü kazıp çıkarın."
+    },
+    {
+      "id": "8f455363",
+      "bank_id": "20b1b600",
+      "text": "Westcliff hakkında pek çok hikâye duydum."
+    },
+    {
+      "id": "904554d6",
+      "bank_id": "20b1b600",
+      "text": "Oranın balverine'lerle kaynadığı söylenir."
+    },
+    {
+      "id": "9254e6e6",
+      "bank_id": "20b1b600",
+      "text": "Şundan kendime bir kilim yapacağım!"
+    },
+    {
+      "id": "974e4848",
+      "bank_id": "20b1b600",
+      "text": "Jeeves'e 1.000 altın ödensin mi?"
+    },
+    {
+      "id": "984bdc00",
+      "bank_id": "20b1b600",
+      "text": "Korkak herif. Buraya gel de yüz yüze dövüşelim!"
+    },
+    {
+      "id": "994bddf3",
+      "bank_id": "20b1b600",
+      "text": "Ah! Şunu benim yerime halledebilir misin? Yeterince yaklaşmama izin vermiyor."
+    },
+    {
+      "id": "9a4bdf66",
+      "bank_id": "20b1b600",
+      "text": "Ah! Neden daha yakına gelmiyorsun?"
+    },
+    {
+      "id": "9c4be24c",
+      "bank_id": "20b1b600",
+      "text": "Üzerime hedef tahtası mı çizdiniz ne?"
+    },
+    {
+      "id": "9d4be43f",
+      "bank_id": "20b1b600",
+      "text": "Beni sadece öfkelendiriyorsun!"
+    },
+    {
+      "id": "9e4be592",
+      "bank_id": "20b1b600",
+      "text": "Bu yaktı!"
+    },
+    {
+      "id": "9f4be705",
+      "bank_id": "20b1b600",
+      "text": "Ne oldu? Kılıç kullanamıyor musun?"
+    },
+    {
+      "id": "a24bebde",
+      "bank_id": "20b1b600",
+      "text": "Öf! Nişan alıp ateş etmenin kibar bir davranış olmadığını bilmiyor musun?"
+    },
+    {
+      "id": "a34bedb1",
+      "bank_id": "20b1b600",
+      "text": "O silahı alıp boğazına tıkacağım!"
+    },
+    {
+      "id": "b009a85f",
+      "bank_id": "20b1b600",
+      "text": "BALVERİNE'LER"
+    },
+    {
+      "id": "b2912162",
+      "bank_id": "20b1b600",
+      "text": "Kitap garip mühürler ve tuhaf rünik karakterlerle dolu. Onu okuyamazsınız."
+    },
+    {
+      "id": "b403c1d4",
+      "bank_id": "20b1b600",
+      "text": "Sonuncusu olduğumuzdan emin olalım."
+    },
+    {
+      "id": "b503c347",
+      "bank_id": "20b1b600",
+      "text": "Görünüşe göre ilk olan biz de değilmişiz."
+    },
+    {
+      "id": "b603c53a",
+      "bank_id": "20b1b600",
+      "text": "Bizi çekmeye çalıştığı yer burası olmalı; kadın mı yaratık mı her neyse."
+    },
+    {
+      "id": "b703c6ad",
+      "bank_id": "20b1b600",
+      "text": "Evimize hoş geldiniz!"
+    },
+    {
+      "id": "b752c256",
+      "bank_id": "20b1b600",
+      "text": "BALVERİNE"
+    },
+    {
+      "id": "bbb736bb",
+      "bank_id": "20b1b600",
+      "text": "Bütün numaran bu mu?"
+    },
+    {
+      "id": "bbe62235",
+      "bank_id": "20b1b600",
+      "text": "Bowerstone'daki İnek ve Korse'ye gidin ve Jeeves ile konuşun."
+    },
+    {
+      "id": "bf683500",
+      "bank_id": "20b1b600",
+      "text": "Hah, bahse girerim canın yandı, değil mi? Al sana biraz daha!"
+    },
+    {
+      "id": "c06836f3",
+      "bank_id": "20b1b600",
+      "text": "Ha! Kollarım kopana kadar bu yaratıkları pataklayabilirim!"
+    },
+    {
+      "id": "c13f7d96",
+      "bank_id": "20b1b600",
+      "text": "Merhaba engel. Ben Hammer!"
+    },
+    {
+      "id": "c1683866",
+      "bank_id": "20b1b600",
+      "text": "Bana neden Hammer dediklerini şimdi anladın işte!"
+    },
+    {
+      "id": "c26839d9",
+      "bank_id": "20b1b600",
+      "text": "Yabancıları ısırmak neymiş öğrenirsin artık!"
+    },
+    {
+      "id": "c33f80fc",
+      "bank_id": "20b1b600",
+      "text": "Sen hiç endişelenme. Bu tür işler bizim uzmanlık alanımız."
+    },
+    {
+      "id": "c3683b4c",
+      "bank_id": "20b1b600",
+      "text": "Nasıl! Hoşuna gitti mi?"
+    },
+    {
+      "id": "c43f826f",
+      "bank_id": "20b1b600",
+      "text": "Ben kendimi tanıtırken o balverine'leri benden uzak tut, olur mu?"
+    },
+    {
+      "id": "c5683e92",
+      "bank_id": "20b1b600",
+      "text": "Bunun tadını nasıl buldun bakalım?"
+    },
+    {
+      "id": "c63f85b5",
+      "bank_id": "20b1b600",
+      "text": "Ama... Buradan geldiklerine eminim. Nasıl geçeceğiz peki?"
+    },
+    {
+      "id": "c6684005",
+      "bank_id": "20b1b600",
+      "text": "Bunu bütün gün yapabilirim!"
+    },
+    {
+      "id": "cb684824",
+      "bank_id": "20b1b600",
+      "text": "Al bakalım!"
+    },
+    {
+      "id": "cc156f10",
+      "bank_id": "20b1b600",
+      "text": "Saldırıya uğrayan şu tüccarlar hakkında bir hikâye duymuştum."
+    },
+    {
+      "id": "cc684997",
+      "bank_id": "20b1b600",
+      "text": "Hah evet, şunu pek bir güzel patakladım!"
+    },
+    {
+      "id": "cd12cdab",
+      "bank_id": "20b1b600",
+      "text": "Pencereler, iki taneler."
+    },
+    {
+      "id": "ce12cf1e",
+      "bank_id": "20b1b600",
+      "text": "Neden bize saldırmıyorlar?"
+    },
+    {
+      "id": "ce157276",
+      "bank_id": "20b1b600",
+      "text": "Bir köle tüccarı zavallıcıkları bulup kampına götürmüş ve bir kafese kapatmış."
+    },
+    {
+      "id": "cf12d0f1",
+      "bank_id": "20b1b600",
+      "text": "Onu buraya getirdiler."
+    },
+    {
+      "id": "cf1573e9",
+      "bank_id": "20b1b600",
+      "text": "Balverine'ler anne babayı öldürmüş ama çocuklar sağ kurtulmuş."
+    },
+    {
+      "id": "d015755c",
+      "bank_id": "20b1b600",
+      "text": "İnsanı düşündürüyor, değil mi?"
+    },
+    {
+      "id": "d11576cf",
+      "bank_id": "20b1b600",
+      "text": "O gece çocuklar dönüşmüş, kafesi kırıp kamptaki tüm köle tüccarlarını paramparça etmiş."
+    },
+    {
+      "id": "d21578a2",
+      "bank_id": "20b1b600",
+      "text": "Hadi ama!"
+    },
+    {
+      "id": "d3157a15",
+      "bank_id": "20b1b600",
+      "text": "Lanet yaratıklardan biri hemen şurada!"
+    },
+    {
+      "id": "d669e2d4",
+      "bank_id": "20b1b600",
+      "text": "Bowerstone'daki meyhanede Lucien'in eski uşağını bulun."
+    },
+    {
+      "id": "d869e63a",
+      "bank_id": "20b1b600",
+      "text": "Lucien'in eski uşağını konuşturabilirsen çok şey öğreniriz."
+    },
+    {
+      "id": "d969e7ad",
+      "bank_id": "20b1b600",
+      "text": "Jeeves efendisi hakkında pek çok şey bilir."
+    },
+    {
+      "id": "df1d7a60",
+      "bank_id": "20b1b600",
+      "text": "Bu sefer savunmasız bir köylüyle dövüşmüyorsun!"
+    },
+    {
+      "id": "e41e1caf",
+      "bank_id": "20b1b600",
+      "text": "Hadi, kalk ayağa! Bu çok eğlenceli!"
+    },
+    {
+      "id": "e51e1e02",
+      "bank_id": "20b1b600",
+      "text": "Yardım lazım mı oraya?"
+    },
+    {
+      "id": "e61e1ff5",
+      "bank_id": "20b1b600",
+      "text": "Seni alt etmelerine izin verme."
+    },
+    {
+      "id": "e9155894",
+      "bank_id": "20b1b600",
+      "text": "Güm! Bunu bütün ömrüm boyunca yapabileceğime inanamıyorum!"
+    },
+    {
+      "id": "ee2ff71c",
+      "bank_id": "20b1b600",
+      "text": "Sinsi sinsi dikiliyorsun... ve sinsi sinsi dikilenlerden nefret ederim."
+    },
+    {
+      "id": "f02ffa62",
+      "bank_id": "20b1b600",
+      "text": "Yıkıl karşımdan, çekil git. Sana ayıracak vaktim yok. Ben bir iş adamıyım. İş yapıyorum."
+    },
+    {
+      "id": "f12ffbd5",
+      "bank_id": "20b1b600",
+      "text": "Nedir bu pis koku..."
+    },
+    {
+      "id": "f8b730d0",
+      "bank_id": "20b1b600",
+      "text": "Frederick'imi öldürdüler."
+    },
+    {
+      "id": "f971fcd3",
+      "bank_id": "20b1b600",
+      "text": "Lucien'in günlüğü sizi bir sonraki adımda nereye götürecek?"
+    },
+    {
+      "id": "f9a42cf8",
+      "bank_id": "20b1b600",
+      "text": "Buraya geri dön!"
+    },
+    {
+      "id": "f9b73243",
+      "bank_id": "20b1b600",
+      "text": "Balverine'ler bize saldırdı! Kocamı öldürdüler!"
+    },
+    {
+      "id": "faa42e6b",
+      "bank_id": "20b1b600",
+      "text": "Westcliff, biz geliyoruz."
+    },
+    {
+      "id": "fab73436",
+      "bank_id": "20b1b600",
+      "text": "İyi misiniz?"
+    },
+    {
+      "id": "fb47d1a0",
+      "bank_id": "20b1b600",
+      "text": "Jeeves'e 1.000 altın ödeyin."
+    },
+    {
+      "id": "fba42fde",
+      "bank_id": "20b1b600",
+      "text": "Pislik yerinde durmuyor!"
+    },
+    {
+      "id": "fca431b1",
+      "bank_id": "20b1b600",
+      "text": "Çok hızlı!"
+    },
+    {
+      "id": "fcb7371c",
+      "bank_id": "20b1b600",
+      "text": "S... Sanırım iyiyim."
+    },
+    {
+      "id": "fd47d486",
+      "bank_id": "20b1b600",
+      "text": "Bowerstone Pazarı'na gidin."
+    },
+    {
+      "id": "fda43321",
+      "bank_id": "20b1b600",
+      "text": "Beceriksiz alçaklar çalıştırırsan böyle olur işte. Seni kendim katledeceğim!"
+    },
+    {
+      "id": "fda43324",
+      "bank_id": "20b1b600",
+      "text": "Durun ve dövüşün, sizi korkak alçaklar!"
+    },
+    {
+      "id": "fdb7388f",
+      "bank_id": "20b1b600",
+      "text": "Onu nereye götürdüklerini bize gösterebilir misin?"
+    },
+    {
+      "id": "fe47d679",
+      "bank_id": "20b1b600",
+      "text": "Haritayı takip edin ve Lucien'in günlüğünü bulun."
+    },
+    {
+      "id": "fea43497",
+      "bank_id": "20b1b600",
+      "text": "Hücum!"
+    },
+    {
+      "id": "feb73a62",
+      "bank_id": "20b1b600",
+      "text": "Oğlumu götürdüler."
+    },
+    {
+      "id": "ffb73bd5",
+      "bank_id": "20b1b600",
+      "text": "Sorun yok. Bizimle güvendesiniz."
+    }
+  ]
+}

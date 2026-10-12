@@ -1,0 +1,831 @@
+{
+  "bank_id": "a0b5b600",
+  "total_strings": 165,
+  "strings": [
+    {
+      "id": "019b0400",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "019b0401",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "019b0402",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "019b0404",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "019b0405",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "019b0406",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "019b0407",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "04bf3681",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "04bf3682",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "04bf3683",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "04bf3684",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "04bf3685",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "04bf3686",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "04bf3687",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "0a9b1268",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "0a9b1269",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "0a9b126a",
+      "bank_id": "a0b5b600",
+      "text": "Bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "0a9b126b",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "0a9b126c",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "0a9b126d",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "0a9b126f",
+      "bank_id": "a0b5b600",
+      "text": "Ve bizi yine mi terk ediyorsun? Onca zaman boşuna mı bekledik?"
+    },
+    {
+      "id": "0be155d3",
+      "bank_id": "a0b5b600",
+      "text": "Büyüyünce ben de bir Kahraman olacağım!"
+    },
+    {
+      "id": "0fbf4830",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "0fbf4832",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "0fbf4833",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "0fbf4834",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "0fbf4835",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "0fbf4836",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "0fbf4837",
+      "bank_id": "a0b5b600",
+      "text": "Bunu duymaktan bıkacaksın."
+    },
+    {
+      "id": "12e160d6",
+      "bank_id": "a0b5b600",
+      "text": "Büyüyünce ben de bir Kahraman olacağım!"
+    },
+    {
+      "id": "2289dd72",
+      "bank_id": "a0b5b600",
+      "text": "Seni niye burada tutuyorum ki? Benimle değil, kocanla görüşüyor olman gerek!"
+    },
+    {
+      "id": "28276a53",
+      "bank_id": "a0b5b600",
+      "text": "Tanıştığımıza çok memnun oldum."
+    },
+    {
+      "id": "2f277556",
+      "bank_id": "a0b5b600",
+      "text": "Tanıştığımıza çok memnun oldum."
+    },
+    {
+      "id": "3475b60a",
+      "bank_id": "a0b5b600",
+      "text": "Biraz dinlenmelisin. Sen yokken nelerin değiştiğine bir bak!"
+    },
+    {
+      "id": "3f3a58e9",
+      "bank_id": "a0b5b600",
+      "text": "Seni niye burada tutuyorum ki? Eşinle görüşüyor olman gerek."
+    },
+    {
+      "id": "45894ad8",
+      "bank_id": "a0b5b600",
+      "text": "Gördün mü? Diğer kulenin oradan geliyorlar!"
+    },
+    {
+      "id": "46894c4b",
+      "bank_id": "a0b5b600",
+      "text": "Diğer kulenin orada! Haklayalım şunları!"
+    },
+    {
+      "id": "49895104",
+      "bank_id": "a0b5b600",
+      "text": "Dikkat et! Diğer kuleden gelenler var!"
+    },
+    {
+      "id": "4b89546a",
+      "bank_id": "a0b5b600",
+      "text": "Gözünü diğer kuleden ayırma!"
+    },
+    {
+      "id": "4c8955dd",
+      "bank_id": "a0b5b600",
+      "text": "Diğer kuleden muhafızlar geliyor!"
+    },
+    {
+      "id": "4f8ef533",
+      "bank_id": "a0b5b600",
+      "text": "Seni niye burada tutuyorum ki? Kocanla görüşüyor olman gerek."
+    },
+    {
+      "id": "4f9ec668",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "4f9ec669",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "4f9ec66a",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "4f9ec66b",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "4f9ec66c",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "4f9ec66d",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "4f9ec66e",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "51c43910",
+      "bank_id": "a0b5b600",
+      "text": "Seni görmek harika ama gitmelisin. Sonra konuşuruz."
+    },
+    {
+      "id": "589ed4b8",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "589ed4b9",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "589ed4bb",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "589ed4bc",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "589ed4bd",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "589ed4be",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "589ed4bf",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "620814fa",
+      "bank_id": "a0b5b600",
+      "text": "Dostum... şartlara göre iyi görünüyorsun."
+    },
+    {
+      "id": "62179358",
+      "bank_id": "a0b5b600",
+      "text": "Gitmelisin! Yapacak işlerin var. Görüşecek insanların var."
+    },
+    {
+      "id": "65179811",
+      "bank_id": "a0b5b600",
+      "text": "Şey hakkında bilgi sahibi olabilecek biriyle buluşacağım... bilirsin ya, üç numaramız."
+    },
+    {
+      "id": "66179984",
+      "bank_id": "a0b5b600",
+      "text": "İskeledeki o günün son vedamız olmadığına sevindim."
+    },
+    {
+      "id": "673aa243",
+      "bank_id": "a0b5b600",
+      "text": "Anne, babam nereye gidiyor? Bizimle uzun süre kalacağını söylediğini sanıyordum."
+    },
+    {
+      "id": "68179cea",
+      "bank_id": "a0b5b600",
+      "text": "Kullanabileceğimiz bir şey bulur bulmaz Lonca'ya döneceğim ve Theresa sana seslenecek."
+    },
+    {
+      "id": "69179e5d",
+      "bank_id": "a0b5b600",
+      "text": "Oh... ve tekrar hoş geldin. Seni özlemiştim."
+    },
+    {
+      "id": "6e3aad46",
+      "bank_id": "a0b5b600",
+      "text": "Anne, babam nereye gidiyor? Bizi bırakmayacağını söylediğini sanıyordum."
+    },
+    {
+      "id": "719f37d3",
+      "bank_id": "a0b5b600",
+      "text": "Sen benim annem misin?"
+    },
+    {
+      "id": "739ea9e5",
+      "bank_id": "a0b5b600",
+      "text": "Bizimle kalacak mısın babacığım?"
+    },
+    {
+      "id": "739ea9ee",
+      "bank_id": "a0b5b600",
+      "text": "Bizimle kalacak mısın anneciğim?"
+    },
+    {
+      "id": "77a5a5f8",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "77a5a5f9",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "77a5a5fa",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "77a5a5fb",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "77a5a5fc",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "77a5a5fd",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "77a5a5fe",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "789f42d6",
+      "bank_id": "a0b5b600",
+      "text": "Sen benim annem misin?"
+    },
+    {
+      "id": "7b7e90ee",
+      "bank_id": "a0b5b600",
+      "text": "Sen benim babam mısın?"
+    },
+    {
+      "id": "80a5b3c8",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "80a5b3c9",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "80a5b3cb",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "80a5b3cc",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "80a5b3cd",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "80a5b3ce",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "80a5b3cf",
+      "bank_id": "a0b5b600",
+      "text": "\"Ben bir kahraman olacağım\" lafından daha çok söylediği tek şeyi biliyor musun?"
+    },
+    {
+      "id": "847e9f3b",
+      "bank_id": "a0b5b600",
+      "text": "Sen benim babam mısın?"
+    },
+    {
+      "id": "87d9c448",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "87d9c449",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "87d9c44a",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "87d9c44b",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "87d9c44d",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "87d9c44e",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "87d9c44f",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "8a428f95",
+      "bank_id": "a0b5b600",
+      "text": "Babam senin bir Kahraman olduğunu söylüyor! Doğru mu?!"
+    },
+    {
+      "id": "8a428f9e",
+      "bank_id": "a0b5b600",
+      "text": "Annem senin bir Kahraman olduğunu söylüyor! Doğru mu?!"
+    },
+    {
+      "id": "8d7f0bee",
+      "bank_id": "a0b5b600",
+      "text": "Baba, annem nereye gidiyor? Bizi bırakmayacağını söylediğini sanıyordum."
+    },
+    {
+      "id": "92d9d5f8",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "92d9d5f9",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "92d9d5fa",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "92d9d5fb",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "92d9d5fc",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "92d9d5fe",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "92d9d5ff",
+      "bank_id": "a0b5b600",
+      "text": "Özür dilerim tatlım."
+    },
+    {
+      "id": "92f02257",
+      "bank_id": "a0b5b600",
+      "text": "Sanattan pek anlamıyorsun, değil mi?"
+    },
+    {
+      "id": "93985c76",
+      "bank_id": "a0b5b600",
+      "text": "Ve bebeğin! Gerçi artık dokuz yaşında -- pek bebek sayılmaz."
+    },
+    {
+      "id": "967f1a3b",
+      "bank_id": "a0b5b600",
+      "text": "Baba, annem nereye gidiyor? Bizimle uzun süre kalacağını söylediğini sanıyordum."
+    },
+    {
+      "id": "a52221e9",
+      "bank_id": "a0b5b600",
+      "text": "Seni niye burada tutuyorum ki? Karınla görüşüyor olman gerek."
+    },
+    {
+      "id": "b35d56a6",
+      "bank_id": "a0b5b600",
+      "text": "Ve bebeğin! Gerçi artık dokuz yaşında -- pek bebek sayılmaz."
+    },
+    {
+      "id": "cae18355",
+      "bank_id": "a0b5b600",
+      "text": "Annem senin bir Kahraman olduğunu söylüyor! Doğru mu?!"
+    },
+    {
+      "id": "cae1835e",
+      "bank_id": "a0b5b600",
+      "text": "Babam senin bir Kahraman olduğunu söylüyor! Doğru mu?!"
+    },
+    {
+      "id": "d0856880",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d0856881",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d0856883",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d0856884",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d0856885",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d0856886",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d0856887",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d399fbe8",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d399fbe9",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d399fbea",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d399fbeb",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d399fbed",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d399fbee",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d399fbef",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d6843c40",
+      "bank_id": "a0b5b600",
+      "text": "Babam bugün evde olacak mı?"
+    },
+    {
+      "id": "d6843c41",
+      "bank_id": "a0b5b600",
+      "text": "Babam bugün evde olacak mı?"
+    },
+    {
+      "id": "d6843c42",
+      "bank_id": "a0b5b600",
+      "text": "Babam bugün evde olacak mı?"
+    },
+    {
+      "id": "d6843c43",
+      "bank_id": "a0b5b600",
+      "text": "Babam bugün evde olacak mı?"
+    },
+    {
+      "id": "d6843c44",
+      "bank_id": "a0b5b600",
+      "text": "Babam bugün evde olacak mı?"
+    },
+    {
+      "id": "d6843c46",
+      "bank_id": "a0b5b600",
+      "text": "Babam bugün evde olacak mı?"
+    },
+    {
+      "id": "d6843c47",
+      "bank_id": "a0b5b600",
+      "text": "Babam bugün evde olacak mı?"
+    },
+    {
+      "id": "d7857380",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d7857381",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d7857382",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d7857383",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d7857384",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d7857385",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "d7857386",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "db844460",
+      "bank_id": "a0b5b600",
+      "text": "Annem bugün evde olacak mı?"
+    },
+    {
+      "id": "db844461",
+      "bank_id": "a0b5b600",
+      "text": "Annem bugün evde olacak mı?"
+    },
+    {
+      "id": "db844462",
+      "bank_id": "a0b5b600",
+      "text": "Annem bugün evde olacak mı?"
+    },
+    {
+      "id": "db844463",
+      "bank_id": "a0b5b600",
+      "text": "Annem bugün evde olacak mı?"
+    },
+    {
+      "id": "db844465",
+      "bank_id": "a0b5b600",
+      "text": "Annem bugün evde olacak mı?"
+    },
+    {
+      "id": "db844466",
+      "bank_id": "a0b5b600",
+      "text": "Annem bugün evde olacak mı?"
+    },
+    {
+      "id": "db844467",
+      "bank_id": "a0b5b600",
+      "text": "Annem bugün evde olacak mı?"
+    },
+    {
+      "id": "de9a0d18",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "de9a0d19",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "de9a0d1a",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "de9a0d1b",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "de9a0d1c",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "de9a0d1e",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "de9a0d1f",
+      "bank_id": "a0b5b600",
+      "text": "Bunu sürekli söylüyor. Herkese."
+    },
+    {
+      "id": "eb5bb928",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "eb5bb92a",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "eb5bb92b",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "eb5bb92c",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "eb5bb92d",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "eb5bb92e",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "eb5bb92f",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "ee403079",
+      "bank_id": "a0b5b600",
+      "text": "Seni niye burada tutuyorum ki? Benimle değil, karınla görüşüyor olman gerek!"
+    },
+    {
+      "id": "f05bc0c9",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "f05bc0ca",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabildin? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "f05bc0cb",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "f05bc0cc",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "f05bc0cd",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "f05bc0ce",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    },
+    {
+      "id": "f05bc0cf",
+      "bank_id": "a0b5b600",
+      "text": "Nasıl bu kadar zalim olabiliyorsun? O yerde sana ne oldu öyle?"
+    }
+  ]
+}

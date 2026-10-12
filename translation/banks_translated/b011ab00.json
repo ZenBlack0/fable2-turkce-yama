@@ -1,0 +1,1041 @@
+{
+  "bank_id": "b011ab00",
+  "total_strings": 207,
+  "strings": [
+    {
+      "id": "006bfa9a",
+      "bank_id": "b011ab00",
+      "text": "Ödümü mü koparmaya çalışıyorsun kızım sen?"
+    },
+    {
+      "id": "04ea0c74",
+      "bank_id": "b011ab00",
+      "text": "Ne kadar şirin değil mi? Babası kadar korkutucu olmaya çalışıyor."
+    },
+    {
+      "id": "04ea0c7f",
+      "bank_id": "b011ab00",
+      "text": "Ne kadar şirin değil mi? Annesi kadar korkutucu olmaya çalışıyor."
+    },
+    {
+      "id": "05ef8a56",
+      "bank_id": "b011ab00",
+      "text": "Neredeyse babası kadar korkuttu beni! Ha ha!"
+    },
+    {
+      "id": "05ef8a5d",
+      "bank_id": "b011ab00",
+      "text": "Neredeyse annesi kadar korkuttu beni! Ha ha!"
+    },
+    {
+      "id": "096c08ee",
+      "bank_id": "b011ab00",
+      "text": "Böyle korkutmayı nereden öğrendin kızım sen?"
+    },
+    {
+      "id": "1c9ebec0",
+      "bank_id": "b011ab00",
+      "text": "Bunu hak etmişlerdi!"
+    },
+    {
+      "id": "1c9ebec1",
+      "bank_id": "b011ab00",
+      "text": "İyi zafer."
+    },
+    {
+      "id": "1c9ebec3",
+      "bank_id": "b011ab00",
+      "text": "Bunun arkasından kimse gözyaşı dökmez."
+    },
+    {
+      "id": "1c9ebec6",
+      "bank_id": "b011ab00",
+      "text": "Onları hakladığına sevindim."
+    },
+    {
+      "id": "1c9ebec7",
+      "bank_id": "b011ab00",
+      "text": "İyi av."
+    },
+    {
+      "id": "239ec9c2",
+      "bank_id": "b011ab00",
+      "text": "İyi dövüştü."
+    },
+    {
+      "id": "239ec9c3",
+      "bank_id": "b011ab00",
+      "text": "Artık güvendeyiz."
+    },
+    {
+      "id": "239ec9c4",
+      "bank_id": "b011ab00",
+      "text": "Aferin!"
+    },
+    {
+      "id": "239ec9c5",
+      "bank_id": "b011ab00",
+      "text": "Evet, gittiklerine sevindim."
+    },
+    {
+      "id": "239ec9c6",
+      "bank_id": "b011ab00",
+      "text": "Öldü ve gömüldü."
+    },
+    {
+      "id": "2408d987",
+      "bank_id": "b011ab00",
+      "text": "Tıpkı baban gibi cazibeden yoksunsun küçük hanım."
+    },
+    {
+      "id": "2408d98c",
+      "bank_id": "b011ab00",
+      "text": "Tıpkı annen gibi cazibeden yoksunsun küçük hanım."
+    },
+    {
+      "id": "2777f4a1",
+      "bank_id": "b011ab00",
+      "text": "Çok komik bir çocuk, değil mi? Tıpkı babası gibi."
+    },
+    {
+      "id": "2777f4aa",
+      "bank_id": "b011ab00",
+      "text": "Çok komik bir çocuk, değil mi? Tıpkı annesi gibi."
+    },
+    {
+      "id": "2ad4fa57",
+      "bank_id": "b011ab00",
+      "text": "Aman tanrım! Ödümü kopardın çocuk. Kesinlikle annene çekmişsin."
+    },
+    {
+      "id": "2ad4fa5c",
+      "bank_id": "b011ab00",
+      "text": "Aman tanrım! Ödümü kopardın çocuk. Kesinlikle babana çekmişsin."
+    },
+    {
+      "id": "2bc2e2e6",
+      "bank_id": "b011ab00",
+      "text": "<screams> Bir an baban sandım seni."
+    },
+    {
+      "id": "2bc2e2ed",
+      "bank_id": "b011ab00",
+      "text": "<screams> Bir an annen sandım seni."
+    },
+    {
+      "id": "2ef0b661",
+      "bank_id": "b011ab00",
+      "text": "Güzel!"
+    },
+    {
+      "id": "2ef0b662",
+      "bank_id": "b011ab00",
+      "text": "Güzel!"
+    },
+    {
+      "id": "2ef0b663",
+      "bank_id": "b011ab00",
+      "text": "Güzel!"
+    },
+    {
+      "id": "2ef0b664",
+      "bank_id": "b011ab00",
+      "text": "Güzel!"
+    },
+    {
+      "id": "2ef0b665",
+      "bank_id": "b011ab00",
+      "text": "Güzel!"
+    },
+    {
+      "id": "39f0c790",
+      "bank_id": "b011ab00",
+      "text": "Evet! Daha fazla!"
+    },
+    {
+      "id": "39f0c792",
+      "bank_id": "b011ab00",
+      "text": "Evet! Daha fazla!"
+    },
+    {
+      "id": "39f0c793",
+      "bank_id": "b011ab00",
+      "text": "Evet! Daha fazla!"
+    },
+    {
+      "id": "39f0c794",
+      "bank_id": "b011ab00",
+      "text": "Evet! Daha fazla!"
+    },
+    {
+      "id": "39f0c795",
+      "bank_id": "b011ab00",
+      "text": "Evet! Daha fazla!"
+    },
+    {
+      "id": "3a0a103b",
+      "bank_id": "b011ab00",
+      "text": "Şuna da bakın hele! Hık demiş babasının burnundan düşmüş, değil mi?"
+    },
+    {
+      "id": "3e04fcd7",
+      "bank_id": "b011ab00",
+      "text": "Küçük bir canavar bu, değil mi? Annesine çekmiş."
+    },
+    {
+      "id": "3e04fcdc",
+      "bank_id": "b011ab00",
+      "text": "Küçük bir canavar bu, değil mi? Babasına çekmiş."
+    },
+    {
+      "id": "3efd01a4",
+      "bank_id": "b011ab00",
+      "text": "Bu tam bir rezillikti! O kız kesinlikle annesine çekmiş."
+    },
+    {
+      "id": "3efd01af",
+      "bank_id": "b011ab00",
+      "text": "Bu tam bir rezillikti! O kız kesinlikle babasına çekmiş."
+    },
+    {
+      "id": "406d03b3",
+      "bank_id": "b011ab00",
+      "text": "Bu çocuk tam bir bela, tıpkı annesi gibi."
+    },
+    {
+      "id": "406d03b8",
+      "bank_id": "b011ab00",
+      "text": "Bu çocuk tam bir bela, tıpkı babası gibi."
+    },
+    {
+      "id": "408a687a",
+      "bank_id": "b011ab00",
+      "text": "Ha ha! Pek komik bir şeysin sen çocuk."
+    },
+    {
+      "id": "45f88687",
+      "bank_id": "b011ab00",
+      "text": "Korkuttun beni! Tıpkı babanın oğlusun."
+    },
+    {
+      "id": "45f8868c",
+      "bank_id": "b011ab00",
+      "text": "Korkuttun beni! Tıpkı annenin oğlusun."
+    },
+    {
+      "id": "471ca124",
+      "bank_id": "b011ab00",
+      "text": "Seni terbiyesiz çocuk. Uzak dur benden."
+    },
+    {
+      "id": "471ca126",
+      "bank_id": "b011ab00",
+      "text": "Ne edepsiz bir çocuk. Baştan aşağı bir maceracı çocuğu işte."
+    },
+    {
+      "id": "4f3a62c2",
+      "bank_id": "b011ab00",
+      "text": "Küçük bir canavar bu, değil mi? Babasına çekmiş."
+    },
+    {
+      "id": "4f3a62c9",
+      "bank_id": "b011ab00",
+      "text": "Küçük bir canavar bu, değil mi? Annesine çekmiş."
+    },
+    {
+      "id": "521cb254",
+      "bank_id": "b011ab00",
+      "text": "Maceracı çocuklarının hepsi küçük belalardır, sen de farklı değilsin çocuk."
+    },
+    {
+      "id": "52dee3b7",
+      "bank_id": "b011ab00",
+      "text": "Neredeyse annesi kadar korkuttu beni! Ha ha!"
+    },
+    {
+      "id": "52dee3bc",
+      "bank_id": "b011ab00",
+      "text": "Neredeyse babası kadar korkuttu beni! Ha ha!"
+    },
+    {
+      "id": "550b632c",
+      "bank_id": "b011ab00",
+      "text": "Bir maceracının kızısın diye her istediğini yapabileceğini mi sanıyorsun seni aptal kız?"
+    },
+    {
+      "id": "5a0b6acc",
+      "bank_id": "b011ab00",
+      "text": "Terbiyesiz bir kızsın sen. Seni kim böyle yetiştirdi?"
+    },
+    {
+      "id": "5a0b6ace",
+      "bank_id": "b011ab00",
+      "text": "Gezgin bir maceracının kızından bekleneceği gibi berbat bir çocuk."
+    },
+    {
+      "id": "649a8531",
+      "bank_id": "b011ab00",
+      "text": "Ne korkunç bir çocuk! Annesini hatırlatıyor bana."
+    },
+    {
+      "id": "649a853a",
+      "bank_id": "b011ab00",
+      "text": "Ne korkunç bir çocuk! Babasını hatırlatıyor bana."
+    },
+    {
+      "id": "67711f00",
+      "bank_id": "b011ab00",
+      "text": "Ha! Eline yüzüne bulaştırdın, değil mi?!"
+    },
+    {
+      "id": "67711f01",
+      "bank_id": "b011ab00",
+      "text": "Daha çok çalışman lazım."
+    },
+    {
+      "id": "67711f03",
+      "bank_id": "b011ab00",
+      "text": "Ne yapmaya çalışıyordun sen öyle?"
+    },
+    {
+      "id": "67711f06",
+      "bank_id": "b011ab00",
+      "text": "Tam bir fiyasko."
+    },
+    {
+      "id": "67711f07",
+      "bank_id": "b011ab00",
+      "text": "Bunu tamamen yanlış yaptın."
+    },
+    {
+      "id": "6a6daec6",
+      "bank_id": "b011ab00",
+      "text": "Korkuttun beni çocuk! Bir an annen sandım seni."
+    },
+    {
+      "id": "6a6daecd",
+      "bank_id": "b011ab00",
+      "text": "Korkuttun beni çocuk! Bir an baban sandım seni."
+    },
+    {
+      "id": "6d2138f8",
+      "bank_id": "b011ab00",
+      "text": "Lanet bir çocukmuş sadece."
+    },
+    {
+      "id": "6e712a02",
+      "bank_id": "b011ab00",
+      "text": "Bu işte hiç iyi değilsin."
+    },
+    {
+      "id": "6e712a03",
+      "bank_id": "b011ab00",
+      "text": "Görünüşe göre eline yüzüne bulaştırdın."
+    },
+    {
+      "id": "6e712a04",
+      "bank_id": "b011ab00",
+      "text": "Çalışmaya devam et."
+    },
+    {
+      "id": "6e712a05",
+      "bank_id": "b011ab00",
+      "text": "Ha! İyice batırdın ortalığı!"
+    },
+    {
+      "id": "6e712a06",
+      "bank_id": "b011ab00",
+      "text": "Tam bir fiyasko."
+    },
+    {
+      "id": "6ef0a7e0",
+      "bank_id": "b011ab00",
+      "text": "Meşru müdafaaydı."
+    },
+    {
+      "id": "6ef0a7e1",
+      "bank_id": "b011ab00",
+      "text": "Evet! Bunu kimse ondan fazla hak etmemişti!"
+    },
+    {
+      "id": "6ef0a7e2",
+      "bank_id": "b011ab00",
+      "text": "Bazen sadece öldürmek zorunda kalırsın."
+    },
+    {
+      "id": "6ef0a7e6",
+      "bank_id": "b011ab00",
+      "text": "Doğuştan hayatta kalansın sen."
+    },
+    {
+      "id": "6ef0a7e7",
+      "bank_id": "b011ab00",
+      "text": "Tam bir ölüm makinesisin. İyi anlamda tabii."
+    },
+    {
+      "id": "77f0b5ca",
+      "bank_id": "b011ab00",
+      "text": "Çok şükür kurtulduk."
+    },
+    {
+      "id": "77f0b5cb",
+      "bank_id": "b011ab00",
+      "text": "Temelli gitti."
+    },
+    {
+      "id": "77f0b5cc",
+      "bank_id": "b011ab00",
+      "text": "Öldü gitti! Kendi suçuydu gerçi."
+    },
+    {
+      "id": "77f0b5cd",
+      "bank_id": "b011ab00",
+      "text": "Bununla gurur duymalısın."
+    },
+    {
+      "id": "77f0b5cf",
+      "bank_id": "b011ab00",
+      "text": "Artık kimseyi rahatsız edemez."
+    },
+    {
+      "id": "78214a28",
+      "bank_id": "b011ab00",
+      "text": "Ödümü kopardın çocuk!"
+    },
+    {
+      "id": "7d9db146",
+      "bank_id": "b011ab00",
+      "text": "Annesinin yaptığı o korkunç şeylerin aynısı bu."
+    },
+    {
+      "id": "7d9db14d",
+      "bank_id": "b011ab00",
+      "text": "Babasının yaptığı o korkunç şeylerin aynısı bu."
+    },
+    {
+      "id": "808b8fa4",
+      "bank_id": "b011ab00",
+      "text": "Görüyorum ki tıpkı annen gibi eğitimsizsin çocuk."
+    },
+    {
+      "id": "808b8faf",
+      "bank_id": "b011ab00",
+      "text": "Görüyorum ki tıpkı baban gibi eğitimsizsin çocuk."
+    },
+    {
+      "id": "82c61922",
+      "bank_id": "b011ab00",
+      "text": "Ne berbat bir kız! Babasını hatırlatıyor bana."
+    },
+    {
+      "id": "82c61929",
+      "bank_id": "b011ab00",
+      "text": "Ne berbat bir kız! Annesini hatırlatıyor bana."
+    },
+    {
+      "id": "857c4dfa",
+      "bank_id": "b011ab00",
+      "text": "Bunu nasıl buldun bakalım?"
+    },
+    {
+      "id": "857c4dfb",
+      "bank_id": "b011ab00",
+      "text": "Vay, acısını buradan hissettim."
+    },
+    {
+      "id": "857c4dfc",
+      "bank_id": "b011ab00",
+      "text": "Harika vuruş!"
+    },
+    {
+      "id": "857c4dfd",
+      "bank_id": "b011ab00",
+      "text": "Evet, göster günlerini!"
+    },
+    {
+      "id": "857c4dfe",
+      "bank_id": "b011ab00",
+      "text": "Durma sakın!"
+    },
+    {
+      "id": "87181e21",
+      "bank_id": "b011ab00",
+      "text": "Ne kadar şirin değil mi? Annesi kadar korkutucu olmaya çalışıyor."
+    },
+    {
+      "id": "87181e2a",
+      "bank_id": "b011ab00",
+      "text": "Ne kadar şirin değil mi? Babası kadar korkutucu olmaya çalışıyor."
+    },
+    {
+      "id": "891015b1",
+      "bank_id": "b011ab00",
+      "text": "Hayatımda bu kadar berbat bir çocuk görmedim. Tıpkı baban gibisin."
+    },
+    {
+      "id": "891015ba",
+      "bank_id": "b011ab00",
+      "text": "Hayatımda bu kadar berbat bir kız görmedim. Tıpkı annen gibisin."
+    },
+    {
+      "id": "8b7081c4",
+      "bank_id": "b011ab00",
+      "text": "Annesinin yaptığı o korkunç şeylerin aynısı bu."
+    },
+    {
+      "id": "8b7081cf",
+      "bank_id": "b011ab00",
+      "text": "Babasının yaptığı o korkunç şeylerin aynısı bu."
+    },
+    {
+      "id": "8db47ca6",
+      "bank_id": "b011ab00",
+      "text": "Nasıl da korkuttun beni kızım. Neredeyse annen kadar fenasın."
+    },
+    {
+      "id": "8db47cad",
+      "bank_id": "b011ab00",
+      "text": "Nasıl da korkuttun beni kızım. Neredeyse baban kadar fenasın."
+    },
+    {
+      "id": "8dd9e2d0",
+      "bank_id": "b011ab00",
+      "text": "Tam isabet!"
+    },
+    {
+      "id": "8dd9e2d1",
+      "bank_id": "b011ab00",
+      "text": "Vurdun onları!"
+    },
+    {
+      "id": "8dd9e2d3",
+      "bank_id": "b011ab00",
+      "text": "Tam hedeften!"
+    },
+    {
+      "id": "8dd9e2d6",
+      "bank_id": "b011ab00",
+      "text": "Hazır ol, nişan al, ateş! İşte bu!"
+    },
+    {
+      "id": "8dd9e2d7",
+      "bank_id": "b011ab00",
+      "text": "Hedef yok edildi!"
+    },
+    {
+      "id": "8e7c5bc8",
+      "bank_id": "b011ab00",
+      "text": "Bunu nasıl buldun?"
+    },
+    {
+      "id": "8e7c5bc9",
+      "bank_id": "b011ab00",
+      "text": "Fena acımıştır ha! Ha!"
+    },
+    {
+      "id": "8e7c5bcb",
+      "bank_id": "b011ab00",
+      "text": "Evet, devam et!"
+    },
+    {
+      "id": "8e7c5bce",
+      "bank_id": "b011ab00",
+      "text": "Güm! Ne vuruştu ama!"
+    },
+    {
+      "id": "8e7c5bcf",
+      "bank_id": "b011ab00",
+      "text": "Patlat şu kafatasını!"
+    },
+    {
+      "id": "9115c926",
+      "bank_id": "b011ab00",
+      "text": "Bayağı korkutucu. Kesin annesinden kapmıştır bunu."
+    },
+    {
+      "id": "9115c92d",
+      "bank_id": "b011ab00",
+      "text": "Bayağı korkutucu. Kesin babasından kapmıştır bunu."
+    },
+    {
+      "id": "93751946",
+      "bank_id": "b011ab00",
+      "text": "Ha ha! Tıpkı annen gibi komedyen kumaşın var, değil mi?"
+    },
+    {
+      "id": "9375194d",
+      "bank_id": "b011ab00",
+      "text": "Ha ha! Tıpkı baban gibi komedyen kumaşın var, değil mi?"
+    },
+    {
+      "id": "94d9edd2",
+      "bank_id": "b011ab00",
+      "text": "Güzel atış."
+    },
+    {
+      "id": "94d9edd3",
+      "bank_id": "b011ab00",
+      "text": "Tam hedeften!"
+    },
+    {
+      "id": "94d9edd4",
+      "bank_id": "b011ab00",
+      "text": "Hiç ıskalamıyorsun!"
+    },
+    {
+      "id": "94d9edd5",
+      "bank_id": "b011ab00",
+      "text": "İyi nişan aldın!"
+    },
+    {
+      "id": "94d9edd6",
+      "bank_id": "b011ab00",
+      "text": "İyi atış!"
+    },
+    {
+      "id": "94f20126",
+      "bank_id": "b011ab00",
+      "text": "Peh! Annen kadar korkutucu değilsin seni küçük hobbe. Şey... Annesi burada değil, değil mi?"
+    },
+    {
+      "id": "94f2012d",
+      "bank_id": "b011ab00",
+      "text": "Peh! Baban kadar korkutucu değilsin seni küçük hobbe. Şey... Babası burada değil, değil mi?"
+    },
+    {
+      "id": "95c50848",
+      "bank_id": "b011ab00",
+      "text": "Daha sert! Daha sert!"
+    },
+    {
+      "id": "95c50849",
+      "bank_id": "b011ab00",
+      "text": "Bırakma sakın!"
+    },
+    {
+      "id": "95c5084d",
+      "bank_id": "b011ab00",
+      "text": "Ne güç ama!"
+    },
+    {
+      "id": "95c5084e",
+      "bank_id": "b011ab00",
+      "text": "Acısını fena hissetti!"
+    },
+    {
+      "id": "95c5084f",
+      "bank_id": "b011ab00",
+      "text": "Göz kamaştırıcı bir darbe!"
+    },
+    {
+      "id": "99803eb6",
+      "bank_id": "b011ab00",
+      "text": "Çok iğrençti! Bunu kesin babasından öğrenmiştir."
+    },
+    {
+      "id": "99803ebd",
+      "bank_id": "b011ab00",
+      "text": "Çok iğrençti! Bunu kesin annesinden öğrenmiştir."
+    },
+    {
+      "id": "a0795a81",
+      "bank_id": "b011ab00",
+      "text": "O kız beni korkutuyor. Tıpkı babası gibi."
+    },
+    {
+      "id": "a0795a8a",
+      "bank_id": "b011ab00",
+      "text": "O kız beni korkutuyor. Tıpkı annesi gibi."
+    },
+    {
+      "id": "a0c519f8",
+      "bank_id": "b011ab00",
+      "text": "Çok iyi!"
+    },
+    {
+      "id": "a0c519f9",
+      "bank_id": "b011ab00",
+      "text": "İşte böyle!"
+    },
+    {
+      "id": "a0c519fc",
+      "bank_id": "b011ab00",
+      "text": "Göster günlerini!"
+    },
+    {
+      "id": "a0c519fe",
+      "bank_id": "b011ab00",
+      "text": "Bir daha vur onlara!"
+    },
+    {
+      "id": "a0c519ff",
+      "bank_id": "b011ab00",
+      "text": "Daha sert vur!"
+    },
+    {
+      "id": "a0d0a427",
+      "bank_id": "b011ab00",
+      "text": "Bu tam bir rezillikti! O çocuk kesinlikle babasına çekmiş."
+    },
+    {
+      "id": "a0d0a42c",
+      "bank_id": "b011ab00",
+      "text": "Bu tam bir rezillikti! O çocuk kesinlikle annesine çekmiş."
+    },
+    {
+      "id": "a668c0f3",
+      "bank_id": "b011ab00",
+      "text": "Peh. Tıpkı baban kadar fenasın sen de."
+    },
+    {
+      "id": "a668c0f8",
+      "bank_id": "b011ab00",
+      "text": "Peh. Tıpkı annen kadar fenasın sen de."
+    },
+    {
+      "id": "a9e6a180",
+      "bank_id": "b011ab00",
+      "text": "Seni edepsiz kız. Görüyorum ki annene çekmişsin."
+    },
+    {
+      "id": "a9e6a18b",
+      "bank_id": "b011ab00",
+      "text": "Seni edepsiz kız. Görüyorum ki babana çekmişsin."
+    },
+    {
+      "id": "ab28cc10",
+      "bank_id": "b011ab00",
+      "text": "Bu çocuk tam bir bela, tıpkı babası gibi."
+    },
+    {
+      "id": "ab28cc1b",
+      "bank_id": "b011ab00",
+      "text": "Bu çocuk tam bir bela, tıpkı annesi gibi."
+    },
+    {
+      "id": "af2a8952",
+      "bank_id": "b011ab00",
+      "text": "Ne kadar iğrenç! Annesinin de daha önce böyle yaptığını gördüğüme eminim."
+    },
+    {
+      "id": "af2a8959",
+      "bank_id": "b011ab00",
+      "text": "Ne kadar iğrenç! Babasının da daha önce böyle yaptığını gördüğüme eminim."
+    },
+    {
+      "id": "af807870",
+      "bank_id": "b011ab00",
+      "text": "İyi atış!"
+    },
+    {
+      "id": "af807871",
+      "bank_id": "b011ab00",
+      "text": "Evet! Güzel atış!"
+    },
+    {
+      "id": "af807872",
+      "bank_id": "b011ab00",
+      "text": "Ne atıştı ama!"
+    },
+    {
+      "id": "af807876",
+      "bank_id": "b011ab00",
+      "text": "Harika nişan!"
+    },
+    {
+      "id": "af807877",
+      "bank_id": "b011ab00",
+      "text": "Böyle atmaya devam et!"
+    },
+    {
+      "id": "b5fb3910",
+      "bank_id": "b011ab00",
+      "text": "İnsanları böyle korkutmamalısın çocuk. Annen zaten yeterince fena."
+    },
+    {
+      "id": "b5fb391b",
+      "bank_id": "b011ab00",
+      "text": "İnsanları böyle korkutmamalısın çocuk. Baban zaten yeterince fena."
+    },
+    {
+      "id": "b64b5176",
+      "bank_id": "b011ab00",
+      "text": "Ödümü kopardın küçük kız. Neredeyse annen sandım seni."
+    },
+    {
+      "id": "b64b517d",
+      "bank_id": "b011ab00",
+      "text": "Ödümü kopardın küçük kız. Neredeyse baban sandım seni."
+    },
+    {
+      "id": "b880865a",
+      "bank_id": "b011ab00",
+      "text": "Tam isabet!"
+    },
+    {
+      "id": "b880865b",
+      "bank_id": "b011ab00",
+      "text": "İyi atış!"
+    },
+    {
+      "id": "b880865c",
+      "bank_id": "b011ab00",
+      "text": "Harika atış!"
+    },
+    {
+      "id": "b880865d",
+      "bank_id": "b011ab00",
+      "text": "Tam nişan aldığın yere!"
+    },
+    {
+      "id": "b880865f",
+      "bank_id": "b011ab00",
+      "text": "Tam hedeften!"
+    },
+    {
+      "id": "cbd64e80",
+      "bank_id": "b011ab00",
+      "text": "Korkutucu bir velet. Bana o dehşet verici annesini hatırlatıyor."
+    },
+    {
+      "id": "cbd64e8b",
+      "bank_id": "b011ab00",
+      "text": "Korkutucu bir velet. Bana o dehşet verici babasını hatırlatıyor."
+    },
+    {
+      "id": "d51b1c7a",
+      "bank_id": "b011ab00",
+      "text": "Ha! En iyisi benim!"
+    },
+    {
+      "id": "d51b1c7b",
+      "bank_id": "b011ab00",
+      "text": "Gördün mü bak!"
+    },
+    {
+      "id": "d51b1c7c",
+      "bank_id": "b011ab00",
+      "text": "Ne zafer ama!"
+    },
+    {
+      "id": "d51b1c7d",
+      "bank_id": "b011ab00",
+      "text": "Yaşasın! Ben kazandım!"
+    },
+    {
+      "id": "d51b1c7e",
+      "bank_id": "b011ab00",
+      "text": "İşte bu! Kazanan benim!"
+    },
+    {
+      "id": "d902fc22",
+      "bank_id": "b011ab00",
+      "text": "Ne yaramaz bir çocuksun sen. Tıpkı annen gibi."
+    },
+    {
+      "id": "d902fc29",
+      "bank_id": "b011ab00",
+      "text": "Ne yaramaz bir çocuksun sen. Tıpkı baban gibi."
+    },
+    {
+      "id": "db661ff0",
+      "bank_id": "b011ab00",
+      "text": "Peh! Annen kadar korkutucu değilsin seni küçük hobbe. Şey... Annesi burada değil, değil mi?"
+    },
+    {
+      "id": "db661ffb",
+      "bank_id": "b011ab00",
+      "text": "Peh! Baban kadar korkutucu değilsin seni küçük hobbe. Şey... Babası burada değil, değil mi?"
+    },
+    {
+      "id": "dbc96832",
+      "bank_id": "b011ab00",
+      "text": "Şansıma tüküreyim. Yine kaybettim."
+    },
+    {
+      "id": "dbc96833",
+      "bank_id": "b011ab00",
+      "text": "Tamamen şanssızlıktı."
+    },
+    {
+      "id": "dbc96834",
+      "bank_id": "b011ab00",
+      "text": "Ne? Kaybettim mi! Peh!"
+    },
+    {
+      "id": "dbc96835",
+      "bank_id": "b011ab00",
+      "text": "Neden hep ben kaybediyorum?"
+    },
+    {
+      "id": "dbc96837",
+      "bank_id": "b011ab00",
+      "text": "Kaybettim mi? Olamaz!"
+    },
+    {
+      "id": "de1b2a48",
+      "bank_id": "b011ab00",
+      "text": "Evet! Ben kazandım!"
+    },
+    {
+      "id": "de1b2a49",
+      "bank_id": "b011ab00",
+      "text": "Şampiyon!"
+    },
+    {
+      "id": "de1b2a4b",
+      "bank_id": "b011ab00",
+      "text": "Ben kazandım! Ben kazandım!"
+    },
+    {
+      "id": "de1b2a4e",
+      "bank_id": "b011ab00",
+      "text": "Ne zafer ama. İşte bu."
+    },
+    {
+      "id": "de1b2a4f",
+      "bank_id": "b011ab00",
+      "text": "Kazanacağımı biliyordum."
+    },
+    {
+      "id": "df4257f0",
+      "bank_id": "b011ab00",
+      "text": "Bayağı korkutucu. Kesin annesinden kapmıştır bunu."
+    },
+    {
+      "id": "df4257fb",
+      "bank_id": "b011ab00",
+      "text": "Bayağı korkutucu. Kesin babasından kapmıştır bunu."
+    },
+    {
+      "id": "e22ab188",
+      "bank_id": "b011ab00",
+      "text": "Ez geç onları!"
+    },
+    {
+      "id": "e22ab189",
+      "bank_id": "b011ab00",
+      "text": "Yakalayın onları!"
+    },
+    {
+      "id": "e22ab18d",
+      "bank_id": "b011ab00",
+      "text": "İşte böyle!"
+    },
+    {
+      "id": "e22ab18e",
+      "bank_id": "b011ab00",
+      "text": "Ne vuruştu ama!"
+    },
+    {
+      "id": "e22ab18f",
+      "bank_id": "b011ab00",
+      "text": "Daha sert!"
+    },
+    {
+      "id": "e2c97338",
+      "bank_id": "b011ab00",
+      "text": "Mağlubiyet serisi devam ediyor."
+    },
+    {
+      "id": "e2c97339",
+      "bank_id": "b011ab00",
+      "text": "Kahretsin! Kaybettim!"
+    },
+    {
+      "id": "e2c9733a",
+      "bank_id": "b011ab00",
+      "text": "Nasıl kaybettim bunu ben?!"
+    },
+    {
+      "id": "e2c9733e",
+      "bank_id": "b011ab00",
+      "text": "Ne? Kazanacağımdan emindim oysa."
+    },
+    {
+      "id": "e2c9733f",
+      "bank_id": "b011ab00",
+      "text": "Kaybetmiş olamam! Burada bir terslik var."
+    },
+    {
+      "id": "e616da05",
+      "bank_id": "b011ab00",
+      "text": "Çok iğrençti! Bunu kesin annesinden öğrenmiştir."
+    },
+    {
+      "id": "e616da0e",
+      "bank_id": "b011ab00",
+      "text": "Çok iğrençti! Bunu kesin babasından öğrenmiştir."
+    },
+    {
+      "id": "eb97d353",
+      "bank_id": "b011ab00",
+      "text": "Şuna da bakın hele! Hık demiş anasının burnundan düşmüş, değil mi?"
+    },
+    {
+      "id": "ed2ac338",
+      "bank_id": "b011ab00",
+      "text": "Daha fazla! Daha fazla!"
+    },
+    {
+      "id": "ed2ac339",
+      "bank_id": "b011ab00",
+      "text": "Evet! Güzeldi!"
+    },
+    {
+      "id": "ed2ac33c",
+      "bank_id": "b011ab00",
+      "text": "İyiydi!"
+    },
+    {
+      "id": "ed2ac33e",
+      "bank_id": "b011ab00",
+      "text": "En iyisi sensin!"
+    },
+    {
+      "id": "ed2ac33f",
+      "bank_id": "b011ab00",
+      "text": "Evet! Güzeldi!"
+    },
+    {
+      "id": "efc257f1",
+      "bank_id": "b011ab00",
+      "text": "Ne kadar iğrenç! Babasının da daha önce böyle yaptığını gördüğüme eminim."
+    },
+    {
+      "id": "efc257fa",
+      "bank_id": "b011ab00",
+      "text": "Ne kadar iğrenç! Annesinin de daha önce böyle yaptığını gördüğüme eminim."
+    },
+    {
+      "id": "f6032110",
+      "bank_id": "b011ab00",
+      "text": "Böyle edepsizliği babandan mı öğrendin çocuk?"
+    },
+    {
+      "id": "f603211b",
+      "bank_id": "b011ab00",
+      "text": "Böyle edepsizliği annenden mi öğrendin çocuk?"
+    },
+    {
+      "id": "f97f6f23",
+      "bank_id": "b011ab00",
+      "text": "Görgüsüzlüğün bana anneni hatırlatıyor küçük hanım."
+    },
+    {
+      "id": "f97f6f28",
+      "bank_id": "b011ab00",
+      "text": "Görgüsüzlüğün bana babanı hatırlatıyor küçük hanım."
+    },
+    {
+      "id": "ff5e7340",
+      "bank_id": "b011ab00",
+      "text": "Neredeyse annen kadar korkutucusun kızım."
+    },
+    {
+      "id": "ff5e734b",
+      "bank_id": "b011ab00",
+      "text": "Neredeyse baban kadar korkutucusun kızım."
+    }
+  ]
+}

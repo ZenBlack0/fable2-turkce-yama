@@ -1,0 +1,591 @@
+{
+  "bank_id": "f0ac3602",
+  "total_strings": 117,
+  "strings": [
+    {
+      "id": "08b689c8",
+      "bank_id": "f0ac3602",
+      "text": "Kalede pek bir şey bulamazsın. Yıllardır terk edilmiş durumda."
+    },
+    {
+      "id": "08b689c9",
+      "bank_id": "f0ac3602",
+      "text": "Lucien'in eski kâhyasının başına gelenler içler acısı. İçki bağımlılığını finanse etmek için her şeyi yapar."
+    },
+    {
+      "id": "11b6981c",
+      "bank_id": "f0ac3602",
+      "text": "O yaşlı kâhya Jeeves'i görürsen burnunu tıkamayı unutma. Buram buram cin kokuyor."
+    },
+    {
+      "id": "11b6981d",
+      "bank_id": "f0ac3602",
+      "text": "Lucien'in eski kâhyasını gördün mü? Vah vah... eskiden ne kadar da terbiyeliydi..."
+    },
+    {
+      "id": "1cda9e38",
+      "bank_id": "f0ac3602",
+      "text": "Çile mi? Hastasıyım ya! Bayılıyorum!"
+    },
+    {
+      "id": "1cda9e39",
+      "bank_id": "f0ac3602",
+      "text": "Bir sonraki müsabakanın başlamasını iple çekiyorum. Fıstıklarımı şimdiden aldım bile!"
+    },
+    {
+      "id": "27daaf68",
+      "bank_id": "f0ac3602",
+      "text": "Yakında yeni bir Çile müsabakası başlıyor. Harika olacak!"
+    },
+    {
+      "id": "27daaf69",
+      "bank_id": "f0ac3602",
+      "text": "Çile'den daha iyi bir eğlence yoktur. Dışarıda geçen bir geceden bile daha vahşi!"
+    },
+    {
+      "id": "49c14460",
+      "bank_id": "f0ac3602",
+      "text": "Benim herif Westcliff'te beni bekliyor ama bir türlü oraya lanet olasıca gidemiyorum!"
+    },
+    {
+      "id": "49c14461",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'te birkaç erkek kardeşim var. Hep sarhoş, hep kavgacı. Peh!"
+    },
+    {
+      "id": "49c14462",
+      "bank_id": "f0ac3602",
+      "text": "Bazen kılık değiştirip Çile'ye gizlice sızmanın hayalini kuruyorum. Tüm o adamların birbirini parçalamasını izlemek..."
+    },
+    {
+      "id": "49c14463",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff mi? Adı bile kulaklarımı tırmalamaya yetiyor."
+    },
+    {
+      "id": "49c14464",
+      "bank_id": "f0ac3602",
+      "text": "Bahse girerim Çile çok heyecanlı bir yerdir. Yine de bunun için Westcliff yolculuğunu göze almaya değmez."
+    },
+    {
+      "id": "49c14466",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'e giden deniz yolu fazlasıyla tehlikeli. Oraya vardığında da durum hiç güvenli olmuyor zaten."
+    },
+    {
+      "id": "49c14467",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff mi? Haydutlar, katiller ve aşağılık pisliklerle dolu."
+    },
+    {
+      "id": "4ec14c00",
+      "bank_id": "f0ac3602",
+      "text": "Çile'de dövüşmeyi düşünüyordum ama diğerlerine haksızlık olurdu, değil mi? Ha ha."
+    },
+    {
+      "id": "4ec14c01",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'te nice yıllar geçirdim. Beni az kalsın öldürüyordu."
+    },
+    {
+      "id": "4ec14c02",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'i yalnızca alçaklar ziyaret eder. Ve yalnızca deliler orada kalır."
+    },
+    {
+      "id": "4ec14c03",
+      "bank_id": "f0ac3602",
+      "text": "Uşaklarımdan biri birkaç yıl önce Westcliff'e gitmişti. Kulağını geri gönderdiler bana."
+    },
+    {
+      "id": "4ec14c05",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'e gitmek istemezdim. Gidebilsem bile gitmezdim."
+    },
+    {
+      "id": "4ec14c06",
+      "bank_id": "f0ac3602",
+      "text": "Amcam Çile'de dövüşmüş birini tanıyordu. Ondan geriye kalan tek şey ayak başparmağı oldu."
+    },
+    {
+      "id": "4ec14c07",
+      "bank_id": "f0ac3602",
+      "text": "Çile'ye bilet kazandım ama yol kapalı."
+    },
+    {
+      "id": "60c2a3c1",
+      "bank_id": "f0ac3602",
+      "text": "Uzaktaki şu kuleyi gördün mü? Beni korkutuyor."
+    },
+    {
+      "id": "60c2a3c2",
+      "bank_id": "f0ac3602",
+      "text": "Fairfax'taki o kâhya nasıl bu kadar zengin oldu ki?"
+    },
+    {
+      "id": "60c2a3c6",
+      "bank_id": "f0ac3602",
+      "text": "Son zamanlarda Jeeves'i gördün mü? Zengin olmuş! Belki de eski efendisinin eşyalarını satmıştır."
+    },
+    {
+      "id": "60c2a3c7",
+      "bank_id": "f0ac3602",
+      "text": "Jeeves'in kaderindeki bu değişime inanamıyorum. Bir zamanlar alt tarafı bir kâhyaydı!"
+    },
+    {
+      "id": "69cae7a8",
+      "bank_id": "f0ac3602",
+      "text": "O yaşlı kâhyadan ihtiyacın olanı bulabildin mi canım?"
+    },
+    {
+      "id": "69cae7ab",
+      "bank_id": "f0ac3602",
+      "text": "O yaşlı kâhyadan ihtiyacın olanı bulabildin mi canım?"
+    },
+    {
+      "id": "69cae7ac",
+      "bank_id": "f0ac3602",
+      "text": "O yaşlı kâhyadan ihtiyacın olanı bulabildin mi canım?"
+    },
+    {
+      "id": "69cae7ad",
+      "bank_id": "f0ac3602",
+      "text": "O yaşlı kâhyadan ihtiyacın olanı bulabildin mi canım?"
+    },
+    {
+      "id": "69cae7ae",
+      "bank_id": "f0ac3602",
+      "text": "O yaşlı kâhyadan ihtiyacın olanı bulabildin mi canım?"
+    },
+    {
+      "id": "6bc2b570",
+      "bank_id": "f0ac3602",
+      "text": "Eskiden Fairfax'ta çalışan kâhya son zamanlarda tonla altın kazandı. Kaleden ne sattı acaba?"
+    },
+    {
+      "id": "6bc2b573",
+      "bank_id": "f0ac3602",
+      "text": "Şu Jeeves herifi acayip zengin oldu şimdi. Nasıl yaptı bilmiyorum."
+    },
+    {
+      "id": "6bc2b576",
+      "bank_id": "f0ac3602",
+      "text": "Jeeves son zamanlarda gerçekten de talih kuşunu yakaladı. Benim için çalışmadığına memnunum."
+    },
+    {
+      "id": "6bc2b577",
+      "bank_id": "f0ac3602",
+      "text": "Jeeves'in durumunu duydun mu? Meteliksiz eski bir kâhyadan varlıklı bir adama dönüştü."
+    },
+    {
+      "id": "72caf5f8",
+      "bank_id": "f0ac3602",
+      "text": "O yaşlı kâhyadan ihtiyacın olanı bulabildin mi canım?"
+    },
+    {
+      "id": "72caf5f9",
+      "bank_id": "f0ac3602",
+      "text": "O yaşlı kâhyadan ihtiyacın olanı bulabildin mi canım?"
+    },
+    {
+      "id": "72caf5fb",
+      "bank_id": "f0ac3602",
+      "text": "O yaşlı kâhyadan ihtiyacın olanı bulabildin mi canım?"
+    },
+    {
+      "id": "72caf5fc",
+      "bank_id": "f0ac3602",
+      "text": "O yaşlı kâhyadan ihtiyacın olanı bulabildin mi canım?"
+    },
+    {
+      "id": "72caf5fe",
+      "bank_id": "f0ac3602",
+      "text": "O ayyaş yaşlı kâhyayla ne diye takılıp duruyorsun ki?"
+    },
+    {
+      "id": "89ff0028",
+      "bank_id": "f0ac3602",
+      "text": "Demek Çile'ye giden yol yeniden açıldı ha? İlginç."
+    },
+    {
+      "id": "89ff002a",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'e gitmeye pek hevesli olan sendin değil mi? Ne diye peki, Tanrı aşkına?"
+    },
+    {
+      "id": "89ff002b",
+      "bank_id": "f0ac3602",
+      "text": "Duyduğuma göre Westcliff yolunun açılmasında senin parmağın varmış. İyi bir fikir olduğuna emin misin?"
+    },
+    {
+      "id": "8a454200",
+      "bank_id": "f0ac3602",
+      "text": "Artık Westcliff'e gidebilirim yani? Hiç sanmıyorum."
+    },
+    {
+      "id": "8a454201",
+      "bank_id": "f0ac3602",
+      "text": "Kardeşim Westcliff'i ziyaret etmek istiyor ve sanırım artık onu durduran hiçbir şey yok."
+    },
+    {
+      "id": "8a454203",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff yolu açıkmış umurumda bile değil. Oraya asla gitmem."
+    },
+    {
+      "id": "8a454204",
+      "bank_id": "f0ac3602",
+      "text": "Bana kalsa Westcliff yolu sonsuza dek kapalı kalabilirdi."
+    },
+    {
+      "id": "8a454205",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff mi? Neden öyle korkunç yerleri bilmek isteyeyim ki?"
+    },
+    {
+      "id": "8a454206",
+      "bank_id": "f0ac3602",
+      "text": "Artık Westcliff'teki kardeşimi ziyaret edebilmeliyim."
+    },
+    {
+      "id": "8a454207",
+      "bank_id": "f0ac3602",
+      "text": "Yol yeniden açıldığına göre belki bir sonraki Çile müsabakasına yetişebilirim."
+    },
+    {
+      "id": "8eff07c9",
+      "bank_id": "f0ac3602",
+      "text": "Sanırım artık Çile'ye gidersin."
+    },
+    {
+      "id": "8eff07ca",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff yolunu temizlemeyi nasıl başardın?"
+    },
+    {
+      "id": "8eff07cb",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'e ulaşmana Hammer'ın yardım ettiği doğru mu?"
+    },
+    {
+      "id": "8f6d5e80",
+      "bank_id": "f0ac3602",
+      "text": "Çile'ye asla varamayacaksın. Varsan bile orada otuz saniye bile dayanamazsın."
+    },
+    {
+      "id": "8f6d5e81",
+      "bank_id": "f0ac3602",
+      "text": "Bu da ne? Taze et mi? Ha ha!"
+    },
+    {
+      "id": "91454d00",
+      "bank_id": "f0ac3602",
+      "text": "Umarım şansımız yaver gider de Westcliff yolu yakında yine kapanır."
+    },
+    {
+      "id": "91454d01",
+      "bank_id": "f0ac3602",
+      "text": "Demek hırsızların ve haydutların o sığınağına giden patika yeniden açıldı. Umalım da hepsi orada kalsın."
+    },
+    {
+      "id": "91454d02",
+      "bank_id": "f0ac3602",
+      "text": "Sonunda, Westcliff'e gidebilirim!"
+    },
+    {
+      "id": "91454d03",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'tekinden daha iyi içki ve kumar yoktur. Ve artık gidebilirim."
+    },
+    {
+      "id": "91454d04",
+      "bank_id": "f0ac3602",
+      "text": "Çile'den yalnızca en büyük dövüşçüler sağ çıkar. Görülmeye değer olmalı."
+    },
+    {
+      "id": "91454d05",
+      "bank_id": "f0ac3602",
+      "text": "Çile'yi görmeyi hep istemişimdir!"
+    },
+    {
+      "id": "91454d06",
+      "bank_id": "f0ac3602",
+      "text": "Belki de Westcliff'e bir uğramalıyım ne de olsa."
+    },
+    {
+      "id": "946d66a0",
+      "bank_id": "f0ac3602",
+      "text": "Buraya nasıl geldin sen??"
+    },
+    {
+      "id": "946d66a1",
+      "bank_id": "f0ac3602",
+      "text": "Çile için yeterince dişli olduğunu mu sanıyorsun? Ha!"
+    },
+    {
+      "id": "95eb5b28",
+      "bank_id": "f0ac3602",
+      "text": "Benim olsaydı Fairfax Kalesi'ni asla terk etmezdim."
+    },
+    {
+      "id": "95eb5b2a",
+      "bank_id": "f0ac3602",
+      "text": "Hakkında duyup durduğum şu kule de neyin nesi?"
+    },
+    {
+      "id": "95eb5b2b",
+      "bank_id": "f0ac3602",
+      "text": "Fairfax Kalesi tam kafa dinlenecek yer hani. Temizlemesi ölüm olsa gerek gerçi."
+    },
+    {
+      "id": "95eb5b2c",
+      "bank_id": "f0ac3602",
+      "text": "O kule sence ne kadar büyüktür? Ve ne hobbe aşkına yapılmış ki?"
+    },
+    {
+      "id": "95eb5b2d",
+      "bank_id": "f0ac3602",
+      "text": "Fairfax'taki o kaleye hiç gittin mi? İşte içinde yaşamaya itiraz etmeyeceğim bir kulübe."
+    },
+    {
+      "id": "95eb5b2e",
+      "bank_id": "f0ac3602",
+      "text": "O burnu büyük Lucien'in yaşadığı hiçbir yerde ölsem de bulunmam."
+    },
+    {
+      "id": "95eb5b2f",
+      "bank_id": "f0ac3602",
+      "text": "İstesem Fairfax Kalesi'ni satın alabilirim ama artık modası öyle geçti ki."
+    },
+    {
+      "id": "9aeb62c9",
+      "bank_id": "f0ac3602",
+      "text": "Fairfax Kalesi'nde kimsenin yaşamaması ne yazık."
+    },
+    {
+      "id": "9aeb62ca",
+      "bank_id": "f0ac3602",
+      "text": "Lucien neyin peşinde? Kendi kalesini neden terk etsin ki?"
+    },
+    {
+      "id": "9aeb62cb",
+      "bank_id": "f0ac3602",
+      "text": "Lucien'in bütün o insanlarla ne yaptığını düşünmekten bile korkuyorum."
+    },
+    {
+      "id": "9aeb62cc",
+      "bank_id": "f0ac3602",
+      "text": "Lucien'e katılmayı düşünüyordum. Söylenenlere göre adam zengin mi zengin... yani en azından benden zengin."
+    },
+    {
+      "id": "9aeb62cd",
+      "bank_id": "f0ac3602",
+      "text": "O kuleye düşmek istemezdim. Orada her türlü korkunç şeyin döndüğünü duyuyorum."
+    },
+    {
+      "id": "9aeb62ce",
+      "bank_id": "f0ac3602",
+      "text": "Belki de kaleyi satın alırım. Gerçi şu anki evimden bir adım geriye gidiş olurdu ama yine de ayrı bir... prestiji var."
+    },
+    {
+      "id": "9aeb62cf",
+      "bank_id": "f0ac3602",
+      "text": "Hmm, bu yıl tatile gitmezsem belki kaleyi almaya param yeter..."
+    },
+    {
+      "id": "ab98adb4",
+      "bank_id": "f0ac3602",
+      "text": "Brightwood'lu şu adamı duydun mu? Alışılmadık derecede güçlü olduğunu söylüyorlar."
+    },
+    {
+      "id": "ab98adb5",
+      "bank_id": "f0ac3602",
+      "text": "Geçen ay Brightwood'da pikniğe gittim ve kulelerin birinden bu tuhaf ışıklar saçılıyordu."
+    },
+    {
+      "id": "ab98adb7",
+      "bank_id": "f0ac3602",
+      "text": "Görünüşe göre Brightwood'da türlü türlü tuhaf şeyin yaşandığı bir kule varmış."
+    },
+    {
+      "id": "b19df9ee",
+      "bank_id": "f0ac3602",
+      "text": "Aman yok, o kalede tekinsiz bir şeyler var. Lucien gideli ne kadar olduğu umurumda değil."
+    },
+    {
+      "id": "b19df9ef",
+      "bank_id": "f0ac3602",
+      "text": "Lucien'in eski kâhyasını bu halde görmek gerçekten hazin bir durum."
+    },
+    {
+      "id": "b298b8b8",
+      "bank_id": "f0ac3602",
+      "text": "Bugünlerde etrafta Lucien'in muhafızları daha çok dolanıyor. Hayra alamet olamaz."
+    },
+    {
+      "id": "b298b8b9",
+      "bank_id": "f0ac3602",
+      "text": "Brightwood'da bir yerlere bir yük dolusu nadir kitap taşıyan bir araba gördüm. Orada yaşayan biri var mı ki?"
+    },
+    {
+      "id": "b69e018e",
+      "bank_id": "f0ac3602",
+      "text": "Eski Fairfax kâhyası Jeeves'i duymadın mı? Kendini içkiye verdi adam."
+    },
+    {
+      "id": "b69e018f",
+      "bank_id": "f0ac3602",
+      "text": "Lucien'in kalesi yıllardır terk edilmiş durumda. Son derece tuhaf."
+    },
+    {
+      "id": "b6ce6d08",
+      "bank_id": "f0ac3602",
+      "text": "Bir sonraki Çile müsabakasına katılmıyorsun değil mi? Seni tanımak güzeldi! Ha ha!"
+    },
+    {
+      "id": "b6ce6d09",
+      "bank_id": "f0ac3602",
+      "text": "Çile müsabakasını izleyecek misin? Kanı temizlemek için yanına bir şeyler alsan iyi edersin!"
+    },
+    {
+      "id": "c1ce7eb8",
+      "bank_id": "f0ac3602",
+      "text": "Daha önce hiç Çile müsabakası gördün mü? Haftalarca elbiselerinden kemik ve et parçaları ayıklarsın."
+    },
+    {
+      "id": "c1ce7eb9",
+      "bank_id": "f0ac3602",
+      "text": "Çile'yi yakından görene kadar bekle sen, bundan daha güzel bir manzara yoktur!"
+    },
+    {
+      "id": "d700eb84",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'e gitmek istemezsin! Olabilecek en tehlikeli yerdir orası."
+    },
+    {
+      "id": "d700eb87",
+      "bank_id": "f0ac3602",
+      "text": "Ne? Çile için yeterince dişli olduğunu mu sanıyorsun? Yanına bile yaklaşamazsın."
+    },
+    {
+      "id": "dc00f3a5",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'e gitmeyi düşünmüyorsun değil mi? Korkunç bir yer orası."
+    },
+    {
+      "id": "dc00f3a6",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'e asla varamazsın. İsabet de olur gerçi."
+    },
+    {
+      "id": "dd41dd60",
+      "bank_id": "f0ac3602",
+      "text": "Şu maceracı Çile'nin gerçekte nasıl bir yer olduğunu biliyor mu acaba? Ha! Görürler günlerini..."
+    },
+    {
+      "id": "dd41dd61",
+      "bank_id": "f0ac3602",
+      "text": "Şu yabancı buralara nasıl gelebildi yahu?"
+    },
+    {
+      "id": "e241e500",
+      "bank_id": "f0ac3602",
+      "text": "Bunu daha önce görmemiştim."
+    },
+    {
+      "id": "e241e501",
+      "bank_id": "f0ac3602",
+      "text": "Çile'ye girmeye çalışacak kadar aptal birine benziyor."
+    },
+    {
+      "id": "f288bd80",
+      "bank_id": "f0ac3602",
+      "text": "Böylesine barbarca faaliyetlere nasıl katılabildin?"
+    },
+    {
+      "id": "f288bd81",
+      "bank_id": "f0ac3602",
+      "text": "Bir Çile galibi, burada aramızda... Ne kadar heyecan verici!"
+    },
+    {
+      "id": "f288bd82",
+      "bank_id": "f0ac3602",
+      "text": "Vay be, içinde böyle bir cevher olduğunu kim bilebilirdi? Bir Çile galibi!"
+    },
+    {
+      "id": "f288bd83",
+      "bank_id": "f0ac3602",
+      "text": "Seni Çile'de dövüşürken gördüm. Harikaydın!"
+    },
+    {
+      "id": "f288bd84",
+      "bank_id": "f0ac3602",
+      "text": "Çile'de gerçekten dövüştün mü?"
+    },
+    {
+      "id": "f288bd85",
+      "bank_id": "f0ac3602",
+      "text": "Tüm Çile galiplerinin er ya da geç ortadan kaybolduğu doğru mu?"
+    },
+    {
+      "id": "f288bd87",
+      "bank_id": "f0ac3602",
+      "text": "Çile'den sağ çıktığına inanamıyorum!"
+    },
+    {
+      "id": "f3f2a2fb",
+      "bank_id": "f0ac3602",
+      "text": "Onları Çile'de gördüm! Valla bak!"
+    },
+    {
+      "id": "f3f2a2fc",
+      "bank_id": "f0ac3602",
+      "text": "Oradan canlı çıkabilmek için özel bir şeyler yapmış olmalılar."
+    },
+    {
+      "id": "f3f2a2fd",
+      "bank_id": "f0ac3602",
+      "text": "Birinin Çile'den nasıl canlı çıkabildiğini aklım almıyor."
+    },
+    {
+      "id": "f3f2a2fe",
+      "bank_id": "f0ac3602",
+      "text": "Çile galiplerinden biri bu, değil mi?"
+    },
+    {
+      "id": "f988c888",
+      "bank_id": "f0ac3602",
+      "text": "Çile fıstıklarını denedin mi? En iyisi onlar derler. Ama yarışmacılara satmıyorlar, sadece seyircilere."
+    },
+    {
+      "id": "f988c889",
+      "bank_id": "f0ac3602",
+      "text": "Çile'nin yorumcuları tam iki ahmak!"
+    },
+    {
+      "id": "f988c88a",
+      "bank_id": "f0ac3602",
+      "text": "Çile'den nasıl sağ çıktın?"
+    },
+    {
+      "id": "f988c88c",
+      "bank_id": "f0ac3602",
+      "text": "O ölüm arenasında işlediğin kanlı marifetlerin haberi çok uzaklara ulaştı."
+    },
+    {
+      "id": "f988c88d",
+      "bank_id": "f0ac3602",
+      "text": "Westcliff'ten canlı mı döndün? Parçalanmış bir ceset bekliyordum."
+    },
+    {
+      "id": "f988c88e",
+      "bank_id": "f0ac3602",
+      "text": "Çok sayıda Çile müsabakasına gittim ama senin gibisini hiç görmedim!"
+    },
+    {
+      "id": "f988c88f",
+      "bank_id": "f0ac3602",
+      "text": "Hey! Sen o hobbe'yi yarıp açtığında her yerim kana bulandı! Şahane olaydı!"
+    }
+  ]
+}

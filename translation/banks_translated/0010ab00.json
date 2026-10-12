@@ -1,0 +1,1256 @@
+{
+  "bank_id": "0010ab00",
+  "total_strings": 250,
+  "strings": [
+    {
+      "id": "02a30eb8",
+      "bank_id": "0010ab00",
+      "text": "Harika! Valla bak! Çok harika!"
+    },
+    {
+      "id": "02a30eb9",
+      "bank_id": "0010ab00",
+      "text": "Bu resmen akıllara durgunluk verici!"
+    },
+    {
+      "id": "02a30eba",
+      "bank_id": "0010ab00",
+      "text": "Oley be! Süper ötesi! Ha ha!"
+    },
+    {
+      "id": "02a30ebb",
+      "bank_id": "0010ab00",
+      "text": "Şuna da bakın! Şirinler diyarının en şirin kişisi!"
+    },
+    {
+      "id": "02a30ebc",
+      "bank_id": "0010ab00",
+      "text": "Nesin sen böyle, bir dâhi falan mı, ha?"
+    },
+    {
+      "id": "02a30ebe",
+      "bank_id": "0010ab00",
+      "text": "Ohaaaaa! Nasıl yaptın bunu öyle?"
+    },
+    {
+      "id": "02a30ebf",
+      "bank_id": "0010ab00",
+      "text": "İ-na-nıl-maz!"
+    },
+    {
+      "id": "1b347584",
+      "bank_id": "0010ab00",
+      "text": "Namını böyle mi kazandın yani?"
+    },
+    {
+      "id": "26e76340",
+      "bank_id": "0010ab00",
+      "text": "Hey! Şuna bakın millet! Ha ha!"
+    },
+    {
+      "id": "26e76341",
+      "bank_id": "0010ab00",
+      "text": "Vuhuu! Bayıldım buna, ha ha!"
+    },
+    {
+      "id": "26e76342",
+      "bank_id": "0010ab00",
+      "text": "Ayy, ne kadar da zeki bir şeysin sen öyle."
+    },
+    {
+      "id": "26e76344",
+      "bank_id": "0010ab00",
+      "text": "Vay canına, nasıl yaptın bunu?!!"
+    },
+    {
+      "id": "26e76345",
+      "bank_id": "0010ab00",
+      "text": "Ooooh! Tek kelimeyle hayret verici!"
+    },
+    {
+      "id": "26e76346",
+      "bank_id": "0010ab00",
+      "text": "Bayağı süper bir şey bu! Ha!"
+    },
+    {
+      "id": "26e76347",
+      "bank_id": "0010ab00",
+      "text": "Vay be! Harika! Evet!"
+    },
+    {
+      "id": "290d9238",
+      "bank_id": "0010ab00",
+      "text": "Hmm, huu."
+    },
+    {
+      "id": "290d9239",
+      "bank_id": "0010ab00",
+      "text": "Aman, her neyse."
+    },
+    {
+      "id": "290d923a",
+      "bank_id": "0010ab00",
+      "text": "Sı-kı-cııı!"
+    },
+    {
+      "id": "290d923b",
+      "bank_id": "0010ab00",
+      "text": "Usanç verici."
+    },
+    {
+      "id": "290d923d",
+      "bank_id": "0010ab00",
+      "text": "Uhh, <snores>...."
+    },
+    {
+      "id": "290d923e",
+      "bank_id": "0010ab00",
+      "text": "Hmm, huu."
+    },
+    {
+      "id": "290d923f",
+      "bank_id": "0010ab00",
+      "text": "Aman... her neyse."
+    },
+    {
+      "id": "2fe771a8",
+      "bank_id": "0010ab00",
+      "text": "Doğrusunu söylemek gerekirse küçük dilimi yuttum!"
+    },
+    {
+      "id": "2fe771a9",
+      "bank_id": "0010ab00",
+      "text": "Körleşmiş duyularımın bugüne kadar şahit olduğu en muhteşem şey bu!"
+    },
+    {
+      "id": "2fe771aa",
+      "bank_id": "0010ab00",
+      "text": "Hazine! Safi hazine valla!"
+    },
+    {
+      "id": "2fe771ab",
+      "bank_id": "0010ab00",
+      "text": "Sen bir dâhisin!"
+    },
+    {
+      "id": "2fe771ac",
+      "bank_id": "0010ab00",
+      "text": "Ah, ah, mükemmel! Sen bir dâhisin! Kesinlikle öyle."
+    },
+    {
+      "id": "2fe771ad",
+      "bank_id": "0010ab00",
+      "text": "Neeee? Hayatımda gördüğüm en iyi şey bu. Yani CİDDEN en iyisi."
+    },
+    {
+      "id": "2fe771af",
+      "bank_id": "0010ab00",
+      "text": "Ama bu... Bu tek kelimeyle harika! Nasıl başardın bunu?!"
+    },
+    {
+      "id": "340da368",
+      "bank_id": "0010ab00",
+      "text": "Horrr!"
+    },
+    {
+      "id": "340da369",
+      "bank_id": "0010ab00",
+      "text": "Pöh!"
+    },
+    {
+      "id": "340da36a",
+      "bank_id": "0010ab00",
+      "text": "Esniyorum!"
+    },
+    {
+      "id": "340da36b",
+      "bank_id": "0010ab00",
+      "text": "Ne kadar da uyku getirici!"
+    },
+    {
+      "id": "340da36c",
+      "bank_id": "0010ab00",
+      "text": "Duvarda doksan dokuz şişe bira..."
+    },
+    {
+      "id": "340da36e",
+      "bank_id": "0010ab00",
+      "text": "Çöp."
+    },
+    {
+      "id": "340da36f",
+      "bank_id": "0010ab00",
+      "text": "Sıkıldım sıkıldım sıkıldım."
+    },
+    {
+      "id": "3c7dfb81",
+      "bank_id": "0010ab00",
+      "text": "Aptal ünlüler."
+    },
+    {
+      "id": "3c7dfb82",
+      "bank_id": "0010ab00",
+      "text": "Peh! Ünlü insanlarmış!"
+    },
+    {
+      "id": "3c7dfb83",
+      "bank_id": "0010ab00",
+      "text": "Bir başka beş para etmez ünlü daha."
+    },
+    {
+      "id": "3c7dfb84",
+      "bank_id": "0010ab00",
+      "text": "Ünlü mü? Dünyada fazlalık desen daha doğru."
+    },
+    {
+      "id": "3c7dfb85",
+      "bank_id": "0010ab00",
+      "text": "Peh! Şöhret beş para etmez."
+    },
+    {
+      "id": "3d4214d1",
+      "bank_id": "0010ab00",
+      "text": "Buh, zzzzz..."
+    },
+    {
+      "id": "3d4214d2",
+      "bank_id": "0010ab00",
+      "text": "Hmm, huu."
+    },
+    {
+      "id": "3d4214d3",
+      "bank_id": "0010ab00",
+      "text": "Her neyse."
+    },
+    {
+      "id": "3d4214d4",
+      "bank_id": "0010ab00",
+      "text": "Hmm, huu."
+    },
+    {
+      "id": "3d4214d5",
+      "bank_id": "0010ab00",
+      "text": "Her neyse."
+    },
+    {
+      "id": "3d4214d6",
+      "bank_id": "0010ab00",
+      "text": "Sı-kı-cııı!"
+    },
+    {
+      "id": "3d4214d7",
+      "bank_id": "0010ab00",
+      "text": "Usanç verici."
+    },
+    {
+      "id": "3d80f038",
+      "bank_id": "0010ab00",
+      "text": "Sanki dünya yeterince korkunç değilmiş gibi."
+    },
+    {
+      "id": "3d80f03a",
+      "bank_id": "0010ab00",
+      "text": "Ooff, bu tek kelimeyle korkunç."
+    },
+    {
+      "id": "3d80f03b",
+      "bank_id": "0010ab00",
+      "text": "Evde kalmam gerektiğini biliyordum!"
+    },
+    {
+      "id": "3d80f03c",
+      "bank_id": "0010ab00",
+      "text": "Bu gün gittikçe daha da kötüleşiyor."
+    },
+    {
+      "id": "3d80f03d",
+      "bank_id": "0010ab00",
+      "text": "Dur! Korktuğumu görmüyor musun?"
+    },
+    {
+      "id": "3d80f03e",
+      "bank_id": "0010ab00",
+      "text": "Dünya neden beni korkutmak için birlik olmuş gibi."
+    },
+    {
+      "id": "3d80f03f",
+      "bank_id": "0010ab00",
+      "text": "Aman tanrım. Olamaz. Vah vah."
+    },
+    {
+      "id": "3d9686c0",
+      "bank_id": "0010ab00",
+      "text": "Demek ünlüler bile berbat olabiliyormuş."
+    },
+    {
+      "id": "3d9686c1",
+      "bank_id": "0010ab00",
+      "text": "Aptal şöhretin senin olsun."
+    },
+    {
+      "id": "3d9686c3",
+      "bank_id": "0010ab00",
+      "text": "Bir başka iğrenç ünlü maceracı daha."
+    },
+    {
+      "id": "3d9686c4",
+      "bank_id": "0010ab00",
+      "text": "Senin gibi birinin ünlü olabildiği bu dünya nereye gidiyor böyle?"
+    },
+    {
+      "id": "3d9686c5",
+      "bank_id": "0010ab00",
+      "text": "Eskiden ünlü olmanın bir anlamı vardı. Hareketlerine bakılırsa artık bu doğru değil."
+    },
+    {
+      "id": "3d9686c6",
+      "bank_id": "0010ab00",
+      "text": "Bu kadar ünlü biri için pek de iyi sayılmaz."
+    },
+    {
+      "id": "3d9686c7",
+      "bank_id": "0010ab00",
+      "text": "İstediğin kadar meşhur ol, yaptığın yine de rezaletti."
+    },
+    {
+      "id": "4280f7d9",
+      "bank_id": "0010ab00",
+      "text": "Ah, hepsi çok korkunç."
+    },
+    {
+      "id": "4280f7da",
+      "bank_id": "0010ab00",
+      "text": "Hayır! Lütfen! Dur artık!"
+    },
+    {
+      "id": "4280f7db",
+      "bank_id": "0010ab00",
+      "text": "Bütün bunlar ne zaman bitecek?"
+    },
+    {
+      "id": "4280f7dc",
+      "bank_id": "0010ab00",
+      "text": "Zaten yeterince korktum."
+    },
+    {
+      "id": "4280f7dd",
+      "bank_id": "0010ab00",
+      "text": "Buna daha fazla dayanamayacağım."
+    },
+    {
+      "id": "4280f7de",
+      "bank_id": "0010ab00",
+      "text": "Bundan sonra kendimi bir dolaba kilitleyeceğim."
+    },
+    {
+      "id": "4280f7df",
+      "bank_id": "0010ab00",
+      "text": "Bu zavallı kalbimin kaldırabileceğinden çok daha fazlası."
+    },
+    {
+      "id": "449691c0",
+      "bank_id": "0010ab00",
+      "text": "Namını böyle mi kazandın yani?"
+    },
+    {
+      "id": "449691c1",
+      "bank_id": "0010ab00",
+      "text": "Görünüşe göre haksız yere ünlenmişsin."
+    },
+    {
+      "id": "449691c2",
+      "bank_id": "0010ab00",
+      "text": "Bize pislik izleten bir başka lanet olası ünlü daha."
+    },
+    {
+      "id": "449691c3",
+      "bank_id": "0010ab00",
+      "text": "Bu lanet ünlüler her türlü saçmalığı yapabileceklerini sanıyor."
+    },
+    {
+      "id": "449691c4",
+      "bank_id": "0010ab00",
+      "text": "Nasıl oluyor da herkes senden bahsederken beş para etmez olduğunu söylemiyor?"
+    },
+    {
+      "id": "449691c5",
+      "bank_id": "0010ab00",
+      "text": "Ne kadar ünlü olduğun umurumda değil. Bu berbattı."
+    },
+    {
+      "id": "449691c6",
+      "bank_id": "0010ab00",
+      "text": "Bir de ozanlar senin için şarkılar yazıyor öyle mi? Peh."
+    },
+    {
+      "id": "477e0d30",
+      "bank_id": "0010ab00",
+      "text": "Şatona geri dön seni \"ünlü\" maceracı."
+    },
+    {
+      "id": "477e0d32",
+      "bank_id": "0010ab00",
+      "text": "Şu ünlülerden çektiğimiz nedir bizim."
+    },
+    {
+      "id": "477e0d33",
+      "bank_id": "0010ab00",
+      "text": "Peh! Ünlü insanlarmış!"
+    },
+    {
+      "id": "477e0d34",
+      "bank_id": "0010ab00",
+      "text": "Kokuşmuş şöhretin senin olsun."
+    },
+    {
+      "id": "477e0d35",
+      "bank_id": "0010ab00",
+      "text": "Bütün bu ünlü aptalları bir yere kilitlemeliyiz."
+    },
+    {
+      "id": "48422600",
+      "bank_id": "0010ab00",
+      "text": "Dahdahdah."
+    },
+    {
+      "id": "48422602",
+      "bank_id": "0010ab00",
+      "text": "Ah, beş para etmez."
+    },
+    {
+      "id": "48422603",
+      "bank_id": "0010ab00",
+      "text": "Sıkıcı, sıkıcı, sıkıcı!"
+    },
+    {
+      "id": "48422604",
+      "bank_id": "0010ab00",
+      "text": "Horrr!"
+    },
+    {
+      "id": "48422605",
+      "bank_id": "0010ab00",
+      "text": "Pöh!"
+    },
+    {
+      "id": "48422606",
+      "bank_id": "0010ab00",
+      "text": "Esniyorum!"
+    },
+    {
+      "id": "48422607",
+      "bank_id": "0010ab00",
+      "text": "Uyku getirici!"
+    },
+    {
+      "id": "495aaca0",
+      "bank_id": "0010ab00",
+      "text": "Ünlü insanlarla tanışmanın sorunu da bu işte. Berbatlar."
+    },
+    {
+      "id": "495aaca1",
+      "bank_id": "0010ab00",
+      "text": "Peh! Senden harika bir şeyler bekliyordum."
+    },
+    {
+      "id": "495aaca4",
+      "bank_id": "0010ab00",
+      "text": "Ünlü mü? Kötü şöhretli desen daha doğru."
+    },
+    {
+      "id": "495aaca6",
+      "bank_id": "0010ab00",
+      "text": "Ulu bildiklerimiz bizi nasıl da hayal kırıklığına uğratıyor."
+    },
+    {
+      "id": "495aaca7",
+      "bank_id": "0010ab00",
+      "text": "Siz ünlüler canınızın istediği her şeyi yapabileceğinizi sanıyorsunuz!"
+    },
+    {
+      "id": "4be55f5e",
+      "bank_id": "0010ab00",
+      "text": "Dur. Sadece dur."
+    },
+    {
+      "id": "4e5ab440",
+      "bank_id": "0010ab00",
+      "text": "Senden daha ünlü olmam gerekirdi."
+    },
+    {
+      "id": "4e5ab441",
+      "bank_id": "0010ab00",
+      "text": "Bugünlerde önüne gelene ünlü diyorlar zaten."
+    },
+    {
+      "id": "4e5ab445",
+      "bank_id": "0010ab00",
+      "text": "Görünüşe göre bu devirde herkes üne kavuşabiliyor."
+    },
+    {
+      "id": "4e5ab446",
+      "bank_id": "0010ab00",
+      "text": "Böyle ünlü olmuş olamazsın!"
+    },
+    {
+      "id": "4e5ab447",
+      "bank_id": "0010ab00",
+      "text": "Herkesin senden bahsettiğine inanamıyorum. Abartılacak neyin var ki?"
+    },
+    {
+      "id": "5e055570",
+      "bank_id": "0010ab00",
+      "text": "Bunu nasıl yapabildin? Seni canavar."
+    },
+    {
+      "id": "5e055572",
+      "bank_id": "0010ab00",
+      "text": "Bu resmen düpedüz kötülük."
+    },
+    {
+      "id": "5e055573",
+      "bank_id": "0010ab00",
+      "text": "Hayatımda daha kötü niyetli hareketler gördüğümü sanmıyorum."
+    },
+    {
+      "id": "5e055574",
+      "bank_id": "0010ab00",
+      "text": "Seni içeri tıkıp anahtarı da çöpe atmalılar."
+    },
+    {
+      "id": "5e055575",
+      "bank_id": "0010ab00",
+      "text": "Bayağı canavar bir şeysin sen öyle değil mi."
+    },
+    {
+      "id": "5e055576",
+      "bank_id": "0010ab00",
+      "text": "Sen bir alçak ve lanet olası bir mahluksun."
+    },
+    {
+      "id": "5e055577",
+      "bank_id": "0010ab00",
+      "text": "Böylesi menfur hareketlerin bizim ömrümüzde yaşanması..."
+    },
+    {
+      "id": "95dc6797",
+      "bank_id": "0010ab00",
+      "text": "Hayır hayır hayır! Herkesin seni duymuş olmasının sebebi bu olamaz..."
+    },
+    {
+      "id": "9cdc729a",
+      "bank_id": "0010ab00",
+      "text": "Peh! Ünlü insanlar da geri kalanlar kadar beş para etmez işte!"
+    },
+    {
+      "id": "aac01418",
+      "bank_id": "0010ab00",
+      "text": "Senden hiç haz etmedim. Duydun mu?!"
+    },
+    {
+      "id": "aac0141a",
+      "bank_id": "0010ab00",
+      "text": "Ne? Yıkıl karşımdan!"
+    },
+    {
+      "id": "aac0141b",
+      "bank_id": "0010ab00",
+      "text": "Dünyada boş yere yer kaplıyorsun!"
+    },
+    {
+      "id": "aac0141c",
+      "bank_id": "0010ab00",
+      "text": "Ciğerine bir yumruk ister misin ha?!"
+    },
+    {
+      "id": "aac0141d",
+      "bank_id": "0010ab00",
+      "text": "Defol git buradan!"
+    },
+    {
+      "id": "aac0141e",
+      "bank_id": "0010ab00",
+      "text": "Peh! Sakın öyle bir şey yapma!"
+    },
+    {
+      "id": "aac0141f",
+      "bank_id": "0010ab00",
+      "text": "Sana bir şey söyleyeyim mi. İğrençsin!"
+    },
+    {
+      "id": "ae94b2d1",
+      "bank_id": "0010ab00",
+      "text": "Evet, harikasın sen harika! Ha ha!"
+    },
+    {
+      "id": "ae94b2d2",
+      "bank_id": "0010ab00",
+      "text": "Senden daha iyisi yok, vallahi yok, billahi yok!"
+    },
+    {
+      "id": "ae94b2d3",
+      "bank_id": "0010ab00",
+      "text": "Oley be! Mükemmel numara! Süper ötesi!"
+    },
+    {
+      "id": "ae94b2d4",
+      "bank_id": "0010ab00",
+      "text": "Ah, tatlılığın ta kendisi, evet, heh heh..."
+    },
+    {
+      "id": "ae94b2d5",
+      "bank_id": "0010ab00",
+      "text": "Hey! Dostum benim! Harika şeyler bunlar!"
+    },
+    {
+      "id": "afc01c39",
+      "bank_id": "0010ab00",
+      "text": "Ne?! Bir derdin mi var?!"
+    },
+    {
+      "id": "afc01c3a",
+      "bank_id": "0010ab00",
+      "text": "Gah! Utanmalısın kendinden. Utanmalısın!"
+    },
+    {
+      "id": "afc01c3b",
+      "bank_id": "0010ab00",
+      "text": "Sen. Midemi. Bulandırıyorsun. Tamam mı?"
+    },
+    {
+      "id": "afc01c3c",
+      "bank_id": "0010ab00",
+      "text": "Peh! Vah bah rah gah dah!"
+    },
+    {
+      "id": "afc01c3d",
+      "bank_id": "0010ab00",
+      "text": "Git de kafanı kapıya vur gah rah!"
+    },
+    {
+      "id": "afc01c3e",
+      "bank_id": "0010ab00",
+      "text": "Kaval kemiğine bir tekme basmalıyım senin. Evet aynen öyle! Hah!"
+    },
+    {
+      "id": "b05f8728",
+      "bank_id": "0010ab00",
+      "text": "Bunun için ciğerine bir tekme basmalıyım seni hobbe yalakası."
+    },
+    {
+      "id": "b05f8729",
+      "bank_id": "0010ab00",
+      "text": "Gel buraya da burnuna çatal sokayım!"
+    },
+    {
+      "id": "b05f872d",
+      "bank_id": "0010ab00",
+      "text": "Ayakkabımı çıkarıp kafana fırlatmam lazım!"
+    },
+    {
+      "id": "b05f872e",
+      "bank_id": "0010ab00",
+      "text": "Sana gününü gösterirdim! Önümü düzgün görebilseydim eğer! Evet yapardım!"
+    },
+    {
+      "id": "b05f872f",
+      "bank_id": "0010ab00",
+      "text": "Bunu bir daha yaparsan gözlerimi oyarım. Duydun mu beni?"
+    },
+    {
+      "id": "b67aeb28",
+      "bank_id": "0010ab00",
+      "text": "Bu sadece, sadece, yani bilmiyorum işte! Rezillik!"
+    },
+    {
+      "id": "b67aeb29",
+      "bank_id": "0010ab00",
+      "text": "Demek öyle ha?! Suratına bir çuval kurbağa ve bit yağsın da gör!"
+    },
+    {
+      "id": "b67aeb2a",
+      "bank_id": "0010ab00",
+      "text": "Kusmamı falan mı istiyorsun ne, ha?"
+    },
+    {
+      "id": "b67aeb2b",
+      "bank_id": "0010ab00",
+      "text": "Neeee? Öğğk!"
+    },
+    {
+      "id": "b67aeb2c",
+      "bank_id": "0010ab00",
+      "text": "Bunun komik olduğunu sanıyorsun değil mi? Peh!"
+    },
+    {
+      "id": "b67aeb2d",
+      "bank_id": "0010ab00",
+      "text": "Bu tek kelimeyle... İğrenç! Ahh, sanırım midem bulanıyor."
+    },
+    {
+      "id": "b67aeb2e",
+      "bank_id": "0010ab00",
+      "text": "Öğk! Midemi bulandırıyorsun!"
+    },
+    {
+      "id": "b994c400",
+      "bank_id": "0010ab00",
+      "text": "Seni şeri, krema ve altın kaplı çikolatadan bile çok seviyorum!"
+    },
+    {
+      "id": "b994c402",
+      "bank_id": "0010ab00",
+      "text": "Çok çok çok iyisin. Gerçekten, yani en iyisi!"
+    },
+    {
+      "id": "b994c403",
+      "bank_id": "0010ab00",
+      "text": "Sana resmen bayılıyorum. Seviyorum işte. Seviyorum."
+    },
+    {
+      "id": "b994c404",
+      "bank_id": "0010ab00",
+      "text": "Evet, gelmiş geçmiş en mükemmel şey!"
+    },
+    {
+      "id": "b994c405",
+      "bank_id": "0010ab00",
+      "text": "Süpersin sen süper! Ha ha! Harika!"
+    },
+    {
+      "id": "bb5f9858",
+      "bank_id": "0010ab00",
+      "text": "Bu sadece... beş para etmez kocaman bir saçmalık yığını!"
+    },
+    {
+      "id": "bb5f9859",
+      "bank_id": "0010ab00",
+      "text": "Bunun için kafanı koparmam lazım!"
+    },
+    {
+      "id": "bb5f985c",
+      "bank_id": "0010ab00",
+      "text": "Kıçımı öp sen!"
+    },
+    {
+      "id": "bb5f985e",
+      "bank_id": "0010ab00",
+      "text": "Gel buraya seni gidi! Üstüne... üstüne kusacağım şimdi!"
+    },
+    {
+      "id": "bb5f985f",
+      "bank_id": "0010ab00",
+      "text": "Sen! Seni lanet olası pislik seni. Duydun beni!"
+    },
+    {
+      "id": "bf7af978",
+      "bank_id": "0010ab00",
+      "text": "Bu resmen yanlış!"
+    },
+    {
+      "id": "bf7af979",
+      "bank_id": "0010ab00",
+      "text": "Böğğk! Gah! Çöp!"
+    },
+    {
+      "id": "bf7af97b",
+      "bank_id": "0010ab00",
+      "text": "Kes şunu! Nesin sen, sarhoş falan mısın nesin? Peh!"
+    },
+    {
+      "id": "bf7af97c",
+      "bank_id": "0010ab00",
+      "text": "Bu gördüğüm en berbat, en adi... yani ölseydim daha iyiydi."
+    },
+    {
+      "id": "bf7af97d",
+      "bank_id": "0010ab00",
+      "text": "Sen! O! Sen! Kaa!"
+    },
+    {
+      "id": "bf7af97e",
+      "bank_id": "0010ab00",
+      "text": "Ne halt ettiğini sanıyorsun sen??"
+    },
+    {
+      "id": "bf7af97f",
+      "bank_id": "0010ab00",
+      "text": "Aptal herif seni!"
+    },
+    {
+      "id": "c0a549d8",
+      "bank_id": "0010ab00",
+      "text": "Ha?!"
+    },
+    {
+      "id": "c0a549d9",
+      "bank_id": "0010ab00",
+      "text": "Pöh!"
+    },
+    {
+      "id": "c0a549da",
+      "bank_id": "0010ab00",
+      "text": "Kaa!"
+    },
+    {
+      "id": "c0a549db",
+      "bank_id": "0010ab00",
+      "text": "Boo!"
+    },
+    {
+      "id": "c0a549dc",
+      "bank_id": "0010ab00",
+      "text": "Kaa!"
+    },
+    {
+      "id": "c0a549dd",
+      "bank_id": "0010ab00",
+      "text": "Boo!"
+    },
+    {
+      "id": "c0a549de",
+      "bank_id": "0010ab00",
+      "text": "Ne?!"
+    },
+    {
+      "id": "c9a55828",
+      "bank_id": "0010ab00",
+      "text": "Fa? EVET!"
+    },
+    {
+      "id": "c9a55829",
+      "bank_id": "0010ab00",
+      "text": "Öyle olsun!"
+    },
+    {
+      "id": "c9a5582b",
+      "bank_id": "0010ab00",
+      "text": "Kavga mı istiyon?"
+    },
+    {
+      "id": "c9a5582c",
+      "bank_id": "0010ab00",
+      "text": "O da ne be?!"
+    },
+    {
+      "id": "c9a5582d",
+      "bank_id": "0010ab00",
+      "text": "Güm-pat!"
+    },
+    {
+      "id": "c9a5582e",
+      "bank_id": "0010ab00",
+      "text": "Kavga mı istiyon?"
+    },
+    {
+      "id": "c9a5582f",
+      "bank_id": "0010ab00",
+      "text": "Kavga mı istiyon?"
+    },
+    {
+      "id": "ce61d2c8",
+      "bank_id": "0010ab00",
+      "text": "Gah!"
+    },
+    {
+      "id": "ce61d2ca",
+      "bank_id": "0010ab00",
+      "text": "Fah!"
+    },
+    {
+      "id": "ce61d2cb",
+      "bank_id": "0010ab00",
+      "text": "Gahbah!"
+    },
+    {
+      "id": "ce61d2cc",
+      "bank_id": "0010ab00",
+      "text": "Bah gah yah!"
+    },
+    {
+      "id": "ce61d2cd",
+      "bank_id": "0010ab00",
+      "text": "Bah gah yah!"
+    },
+    {
+      "id": "ce61d2ce",
+      "bank_id": "0010ab00",
+      "text": "Gah bah!"
+    },
+    {
+      "id": "ce61d2cf",
+      "bank_id": "0010ab00",
+      "text": "Fah bah!"
+    },
+    {
+      "id": "cf8e12b4",
+      "bank_id": "0010ab00",
+      "text": "Kimsenin senden haz etmemesine şaşmamalı."
+    },
+    {
+      "id": "d361dae9",
+      "bank_id": "0010ab00",
+      "text": "Ya-gah!"
+    },
+    {
+      "id": "d361daea",
+      "bank_id": "0010ab00",
+      "text": "Peh... uzak dur. Öğk!"
+    },
+    {
+      "id": "d361daeb",
+      "bank_id": "0010ab00",
+      "text": "Bah gah!"
+    },
+    {
+      "id": "d361daec",
+      "bank_id": "0010ab00",
+      "text": "Bah! Gah!"
+    },
+    {
+      "id": "d361daed",
+      "bank_id": "0010ab00",
+      "text": "Pöh!"
+    },
+    {
+      "id": "d361daee",
+      "bank_id": "0010ab00",
+      "text": "Pöh!"
+    },
+    {
+      "id": "d48e1a55",
+      "bank_id": "0010ab00",
+      "text": "Senin için bir nefret kulübü kuracağım."
+    },
+    {
+      "id": "dba64498",
+      "bank_id": "0010ab00",
+      "text": "Ooo evet!"
+    },
+    {
+      "id": "dba64499",
+      "bank_id": "0010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "dba6449a",
+      "bank_id": "0010ab00",
+      "text": "Hii!"
+    },
+    {
+      "id": "dba6449d",
+      "bank_id": "0010ab00",
+      "text": "Hey! Yaşasın! Ha ha!"
+    },
+    {
+      "id": "dba6449e",
+      "bank_id": "0010ab00",
+      "text": "<laughs>"
+    },
+    {
+      "id": "dba6449f",
+      "bank_id": "0010ab00",
+      "text": "Selam! Vuhu!"
+    },
+    {
+      "id": "e0e15ad0",
+      "bank_id": "0010ab00",
+      "text": "Ne? İnsanların senden bahsetme sebebi bu mu? Hiç sanmıyorum!"
+    },
+    {
+      "id": "e0e15ad1",
+      "bank_id": "0010ab00",
+      "text": "Peh! İnsan ünlülerden daha fazlasını bekliyor!"
+    },
+    {
+      "id": "e0e15ad2",
+      "bank_id": "0010ab00",
+      "text": "Öğk! Bu tür numaralarla bu kadar övgüyü nasıl topladın sen?"
+    },
+    {
+      "id": "e0e15ad3",
+      "bank_id": "0010ab00",
+      "text": "Korkunç. Tek kelimeyle korkunç. Özellikle senin gibi itibarı olan biri için."
+    },
+    {
+      "id": "e0e15ad4",
+      "bank_id": "0010ab00",
+      "text": "Öğk! Berbat! Ne kadar ünlü olduğun umurumda bile değil!"
+    },
+    {
+      "id": "e0e15ad6",
+      "bank_id": "0010ab00",
+      "text": "Agh! Sen yapmış olsan bile fena halde iğrenç."
+    },
+    {
+      "id": "e0e15ad7",
+      "bank_id": "0010ab00",
+      "text": "Rezalet! Nasıl bu kadar meşhur oldun anlamıyorum?"
+    },
+    {
+      "id": "e5e162f0",
+      "bank_id": "0010ab00",
+      "text": "Ünlü ol ya da olma, bunu tekrar görmektense gözlerimi oymayı yeğlerim!"
+    },
+    {
+      "id": "e5e162f1",
+      "bank_id": "0010ab00",
+      "text": "Bu mu yani?! Yatağımdan bunun için mi kalktım ben?!"
+    },
+    {
+      "id": "e5e162f2",
+      "bank_id": "0010ab00",
+      "text": "Hiç ama hiç etkilenmedim! Hakkında duyulan onca reklamdan sonra..."
+    },
+    {
+      "id": "e5e162f3",
+      "bank_id": "0010ab00",
+      "text": "Bu kadar üne kavuşmanın sebebi bu olamaz herhalde? Peh!"
+    },
+    {
+      "id": "e5e162f5",
+      "bank_id": "0010ab00",
+      "text": "Öğk! Şöhret seni bu hale mi getirdi yani?"
+    },
+    {
+      "id": "e5e162f6",
+      "bank_id": "0010ab00",
+      "text": "Bunu izlemem ben! Kim olduğun umurumda değil!"
+    },
+    {
+      "id": "e5e162f7",
+      "bank_id": "0010ab00",
+      "text": "Ünlü olabilirsin ama bu tek kelimeyle berbattı!"
+    },
+    {
+      "id": "e6a655c8",
+      "bank_id": "0010ab00",
+      "text": "Vuhuu evet!"
+    },
+    {
+      "id": "e6a655c9",
+      "bank_id": "0010ab00",
+      "text": "Evet! Ha!"
+    },
+    {
+      "id": "e6a655ca",
+      "bank_id": "0010ab00",
+      "text": "Hey!"
+    },
+    {
+      "id": "e6a655cb",
+      "bank_id": "0010ab00",
+      "text": "Hey!"
+    },
+    {
+      "id": "e6a655cc",
+      "bank_id": "0010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "e6a655ce",
+      "bank_id": "0010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "e6a655cf",
+      "bank_id": "0010ab00",
+      "text": "Sen! Evet!"
+    },
+    {
+      "id": "eae5c4e8",
+      "bank_id": "0010ab00",
+      "text": "Buraya katlanamıyorum. Bu numara da hepten berbattı."
+    },
+    {
+      "id": "eae5c4ea",
+      "bank_id": "0010ab00",
+      "text": "Böylesi bir çöpü sergilemek için daha uygun bir yer seçemezdin zaten."
+    },
+    {
+      "id": "eae5c4eb",
+      "bank_id": "0010ab00",
+      "text": "Öğk, berbat! Hem de berbat bir yerde!"
+    },
+    {
+      "id": "eae5c4ec",
+      "bank_id": "0010ab00",
+      "text": "Bu kadar yeter. Bunu gördükten sonra buraya asla geri dönmem."
+    },
+    {
+      "id": "eae5c4ed",
+      "bank_id": "0010ab00",
+      "text": "Bu yerde sadece kötü şeylerin olduğunu bilmeliydim."
+    },
+    {
+      "id": "efe5cc89",
+      "bank_id": "0010ab00",
+      "text": "Korkunç. Hem de dünyanın en berbat yerinde."
+    },
+    {
+      "id": "efe5cc8a",
+      "bank_id": "0010ab00",
+      "text": "Eh, bu tek kelimeyle iğrenç, ki bu yere de tam uyuyor zaten."
+    },
+    {
+      "id": "efe5cc8b",
+      "bank_id": "0010ab00",
+      "text": "Bu yerden nefret ediyorum, artık senden de nefret ediyorum."
+    },
+    {
+      "id": "efe5cc8c",
+      "bank_id": "0010ab00",
+      "text": "Böylesi korkunç bir şeyi yapmak için seçilebilecek onca berbat yer arasından..."
+    },
+    {
+      "id": "efe5cc8d",
+      "bank_id": "0010ab00",
+      "text": "Bu yerden zaten nefret ediyordum. Şimdi daha da çok nefret ediyorum."
+    },
+    {
+      "id": "f16e2350",
+      "bank_id": "0010ab00",
+      "text": "Pekâlâ."
+    },
+    {
+      "id": "f16e2351",
+      "bank_id": "0010ab00",
+      "text": "Huuhuu."
+    },
+    {
+      "id": "f16e2352",
+      "bank_id": "0010ab00",
+      "text": "Heh heh..."
+    },
+    {
+      "id": "f16e2354",
+      "bank_id": "0010ab00",
+      "text": "Flaaah!"
+    },
+    {
+      "id": "f16e2355",
+      "bank_id": "0010ab00",
+      "text": "Vahooo!"
+    },
+    {
+      "id": "f16e2356",
+      "bank_id": "0010ab00",
+      "text": "Pekâlâ."
+    },
+    {
+      "id": "f16e2357",
+      "bank_id": "0010ab00",
+      "text": "Huuhuu."
+    },
+    {
+      "id": "f7a2fd08",
+      "bank_id": "0010ab00",
+      "text": "Gelmiş geçmiş en iyi şey!"
+    },
+    {
+      "id": "f7a2fd09",
+      "bank_id": "0010ab00",
+      "text": "Ay bir daha yap, bir daha yap!"
+    },
+    {
+      "id": "f7a2fd0a",
+      "bank_id": "0010ab00",
+      "text": "Şuna da bir bakın, ne kadar hoş ne kadar tatlı, yerim seni."
+    },
+    {
+      "id": "f7a2fd0d",
+      "bank_id": "0010ab00",
+      "text": "Ha! Bana bakın! Ben de iki bacağım üzerinde yürüyorum!"
+    },
+    {
+      "id": "f7a2fd0e",
+      "bank_id": "0010ab00",
+      "text": "En iyisi sensin!"
+    },
+    {
+      "id": "f7a2fd0f",
+      "bank_id": "0010ab00",
+      "text": "Ha ha! Bu çoooook iyi."
+    },
+    {
+      "id": "f889d5d0",
+      "bank_id": "0010ab00",
+      "text": "Bu senin şöhretine hiç yakışmıyor."
+    },
+    {
+      "id": "f889d5d3",
+      "bank_id": "0010ab00",
+      "text": "Hiç iyi değil. En azından bir ünlü için hiç değil."
+    },
+    {
+      "id": "f889d5d4",
+      "bank_id": "0010ab00",
+      "text": "Ünlü mü? Bana kalırsa kötü şöhretli olman gerekirdi."
+    },
+    {
+      "id": "f889d5d7",
+      "bank_id": "0010ab00",
+      "text": "Peh! Bu devirde ünlü takımı böyle şeylerle mi geliyor yani?"
+    },
+    {
+      "id": "fa6e31b8",
+      "bank_id": "0010ab00",
+      "text": "Vahuu!"
+    },
+    {
+      "id": "fa6e31b9",
+      "bank_id": "0010ab00",
+      "text": "Yaah!"
+    },
+    {
+      "id": "fa6e31ba",
+      "bank_id": "0010ab00",
+      "text": "Vay canına."
+    },
+    {
+      "id": "fa6e31bb",
+      "bank_id": "0010ab00",
+      "text": "Ha!"
+    },
+    {
+      "id": "fa6e31bc",
+      "bank_id": "0010ab00",
+      "text": "Vaaay."
+    },
+    {
+      "id": "fa6e31bd",
+      "bank_id": "0010ab00",
+      "text": "Ha!"
+    },
+    {
+      "id": "fa6e31bf",
+      "bank_id": "0010ab00",
+      "text": "Gah!"
+    },
+    {
+      "id": "ff89e0d0",
+      "bank_id": "0010ab00",
+      "text": "Hiç iyi değil. En azından bir ünlü için hiç değil."
+    },
+    {
+      "id": "ff89e0d1",
+      "bank_id": "0010ab00",
+      "text": "Bu yeterince iyi değil! Nam salmış maceracılardan daha fazlasını beklerim."
+    },
+    {
+      "id": "ff89e0d2",
+      "bank_id": "0010ab00",
+      "text": "Artık bu kadar meşhur oldun diye günlerini böyle mi geçiriyorsun yani?"
+    },
+    {
+      "id": "ff89e0d5",
+      "bank_id": "0010ab00",
+      "text": "Yuh! Görünüşe göre bu devirde herkes ünlü olabiliyor..."
+    },
+    {
+      "id": "ff89e0d6",
+      "bank_id": "0010ab00",
+      "text": "Bu çok, çok büyük bir hayal kırıklığı."
+    }
+  ]
+}

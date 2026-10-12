@@ -1,0 +1,1031 @@
+{
+  "bank_id": "00349601",
+  "total_strings": 205,
+  "strings": [
+    {
+      "id": "095a265d",
+      "bank_id": "00349601",
+      "text": "Yaşasın! Göster bize! Burası çok havalı!"
+    },
+    {
+      "id": "145a378c",
+      "bank_id": "00349601",
+      "text": "Ooo! Hadi yap! Burası bunun için harika bir yer!"
+    },
+    {
+      "id": "18918e60",
+      "bank_id": "00349601",
+      "text": "Şunun biraz egzersize ihtiyacı var gibi görünüyor."
+    },
+    {
+      "id": "18918e61",
+      "bank_id": "00349601",
+      "text": "Hiç bu kadar şişman bir şey gördünüz mü? Fazla turta yemiş, az göreve çıkmış."
+    },
+    {
+      "id": "18918e67",
+      "bank_id": "00349601",
+      "text": "Bir insan nasıl bu kadar koca bir kıça sahip olabilir?"
+    },
+    {
+      "id": "21919c4b",
+      "bank_id": "00349601",
+      "text": "Şunun cüssesine bakın hele!"
+    },
+    {
+      "id": "21919c4f",
+      "bank_id": "00349601",
+      "text": "Gördüğüm en şişko maceracı bu."
+    },
+    {
+      "id": "2788f802",
+      "bank_id": "00349601",
+      "text": "Midemi bulandırmayacak bir yere sakla şunu, olur mu?"
+    },
+    {
+      "id": "2788f804",
+      "bank_id": "00349601",
+      "text": "Evet ama bunun için daha iyi yerler var, değil mi?"
+    },
+    {
+      "id": "2788f805",
+      "bank_id": "00349601",
+      "text": "Bunu başka bir yerde yapsan nasıl olur? Burası biraz... bilirsin işte."
+    },
+    {
+      "id": "2788f807",
+      "bank_id": "00349601",
+      "text": "Hmm, başka bir yerde yapamaz mıydın?"
+    },
+    {
+      "id": "2c637dd0",
+      "bank_id": "00349601",
+      "text": "Tüylerimi diken diken ediyorsun."
+    },
+    {
+      "id": "2c637dd1",
+      "bank_id": "00349601",
+      "text": "Oh, bayağı korkutucu bir bakış bu."
+    },
+    {
+      "id": "2c637dd2",
+      "bank_id": "00349601",
+      "text": "Oldukça korkutucu bir havan var doğrusu."
+    },
+    {
+      "id": "2c637dd3",
+      "bank_id": "00349601",
+      "text": "Çok tekinsiz bir görünüşün var."
+    },
+    {
+      "id": "2c637dd4",
+      "bank_id": "00349601",
+      "text": "Pek bir ürkütücüsün sen, değil mi?"
+    },
+    {
+      "id": "2c637dd6",
+      "bank_id": "00349601",
+      "text": "Bir balverine'den bile daha korkutucu."
+    },
+    {
+      "id": "2c637dd7",
+      "bank_id": "00349601",
+      "text": "Oh! Oldukça, şey, korkutucu görünüyorsun."
+    },
+    {
+      "id": "2e890308",
+      "bank_id": "00349601",
+      "text": "Harika olacağına eminim ama ortam güzel olsaydı daha da iyi olurdu."
+    },
+    {
+      "id": "2e890309",
+      "bank_id": "00349601",
+      "text": "Daha güzel bir yerde çok daha hoş olmaz mıydı acaba."
+    },
+    {
+      "id": "2e89030a",
+      "bank_id": "00349601",
+      "text": "Hmm, bunu yapmak için buradan daha iyi yerler olmalı..."
+    },
+    {
+      "id": "2e89030e",
+      "bank_id": "00349601",
+      "text": "Peh, burayı hiç sevmedim. Neden tadını çıkarabileceğimiz başka bir yerde yapmıyorsun?"
+    },
+    {
+      "id": "2fdc46ca",
+      "bank_id": "00349601",
+      "text": "Beni daha fazla bekletme!"
+    },
+    {
+      "id": "2fdc46cb",
+      "bank_id": "00349601",
+      "text": "Bekletmeyi bırak artık. Yüreğim dayanmıyor."
+    },
+    {
+      "id": "2fdc46cc",
+      "bank_id": "00349601",
+      "text": "Hadi göster şimdi. Sabırsızlanıyorum."
+    },
+    {
+      "id": "2fdc46cd",
+      "bank_id": "00349601",
+      "text": "Beni bekletmeye devam edersen çatlayabilirim."
+    },
+    {
+      "id": "2fdc46ce",
+      "bank_id": "00349601",
+      "text": "Beni bekletme tatlım."
+    },
+    {
+      "id": "316385f0",
+      "bank_id": "00349601",
+      "text": "Oldukça korkutucu görünüyorsun, söylemeden edemeyeceğim."
+    },
+    {
+      "id": "316385f1",
+      "bank_id": "00349601",
+      "text": "Ürpertici."
+    },
+    {
+      "id": "316385f2",
+      "bank_id": "00349601",
+      "text": "Görünüşün epey dehşet verici."
+    },
+    {
+      "id": "316385f3",
+      "bank_id": "00349601",
+      "text": "Çok göz korkutucusun."
+    },
+    {
+      "id": "316385f5",
+      "bank_id": "00349601",
+      "text": "Oh, çok korkunç bir bakış!"
+    },
+    {
+      "id": "316385f6",
+      "bank_id": "00349601",
+      "text": "Dehşet verici görünüyorsun!"
+    },
+    {
+      "id": "316385f7",
+      "bank_id": "00349601",
+      "text": "Ne kadar ürkütücü bir görünüş!"
+    },
+    {
+      "id": "342096b1",
+      "bank_id": "00349601",
+      "text": "Fazla kilo alma. Üstüne göre kıyafet bulmak zorlaşır."
+    },
+    {
+      "id": "342096b2",
+      "bank_id": "00349601",
+      "text": "Biraz tombik görünüyorsun, değil mi?"
+    },
+    {
+      "id": "342096b3",
+      "bank_id": "00349601",
+      "text": "O bel çevresine dikkat etsen iyi olur."
+    },
+    {
+      "id": "342096b4",
+      "bank_id": "00349601",
+      "text": "Kimseyi dinleme. Tombullaşmak istiyorsan tombullaş gitsin."
+    },
+    {
+      "id": "342096b5",
+      "bank_id": "00349601",
+      "text": "Biraz kilo mu aldın sen?"
+    },
+    {
+      "id": "38dc5518",
+      "bank_id": "00349601",
+      "text": "Nazlanma sevgilim."
+    },
+    {
+      "id": "38dc5519",
+      "bank_id": "00349601",
+      "text": "Lütfen, kalbim beklemeye dayanamıyor."
+    },
+    {
+      "id": "38dc551b",
+      "bank_id": "00349601",
+      "text": "Sana can atıyorum. Beni bekletme."
+    },
+    {
+      "id": "38dc551e",
+      "bank_id": "00349601",
+      "text": "Beklemeye tahammülüm yok."
+    },
+    {
+      "id": "38dc551f",
+      "bank_id": "00349601",
+      "text": "Ooo, beklemeye hiç dayanamıyorum!"
+    },
+    {
+      "id": "3955c0e8",
+      "bank_id": "00349601",
+      "text": "Bize kıçını mı göstereceksin yoksa? Hiç kestiremiyorum!"
+    },
+    {
+      "id": "3955c0e9",
+      "bank_id": "00349601",
+      "text": "Yap hadi! Beni de çirkinleştir!"
+    },
+    {
+      "id": "3955c0ea",
+      "bank_id": "00349601",
+      "text": "Hmm, güzellikten pek nasibini almamışsın. Gerçekten izlemek istiyor muyum emin değilim."
+    },
+    {
+      "id": "3955c0eb",
+      "bank_id": "00349601",
+      "text": "Daha da çirkinleşmeyeceğine emin ol yeter."
+    },
+    {
+      "id": "3955c0ed",
+      "bank_id": "00349601",
+      "text": "Tıpkı şu hobbe üzerime kustuğundaki gibi olacak bu iş."
+    },
+    {
+      "id": "3955c0ee",
+      "bank_id": "00349601",
+      "text": "Ne yapacaksın bakalım? Kesin çirkin bir şeydir."
+    },
+    {
+      "id": "3955c0ef",
+      "bank_id": "00349601",
+      "text": "Hadi bakalım, şu çirkinlikten bize de tattır!"
+    },
+    {
+      "id": "3f20a7e0",
+      "bank_id": "00349601",
+      "text": "Yemeyi seviyorsun galiba, ha?"
+    },
+    {
+      "id": "3f20a7e2",
+      "bank_id": "00349601",
+      "text": "Belki de bundan sonra günde sadece üç öğün yemelisin."
+    },
+    {
+      "id": "3f20a7e3",
+      "bank_id": "00349601",
+      "text": "Yediği yemekten sahiden keyif alan birine benziyorsun."
+    },
+    {
+      "id": "3f20a7e4",
+      "bank_id": "00349601",
+      "text": "Hayatında hiç salata görmedin, değil mi?"
+    },
+    {
+      "id": "3f20a7e5",
+      "bank_id": "00349601",
+      "text": "Nasıl gidiyor göbüş?"
+    },
+    {
+      "id": "4021dc18",
+      "bank_id": "00349601",
+      "text": "Dur tahmin edeyim. İri kemiklisin, değil mi?"
+    },
+    {
+      "id": "4021dc19",
+      "bank_id": "00349601",
+      "text": "Birileri turtaları fazla kaçırmış gibi."
+    },
+    {
+      "id": "4021dc1d",
+      "bank_id": "00349601",
+      "text": "Böyle görünmek hiç sağlıklı değil."
+    },
+    {
+      "id": "4021dc1e",
+      "bank_id": "00349601",
+      "text": "Ne yaptın, koca turta dükkânını mı yedin?"
+    },
+    {
+      "id": "4021dc1f",
+      "bank_id": "00349601",
+      "text": "Şu açlık hissi hiç geçmiyor, değil mi?"
+    },
+    {
+      "id": "440bf8d0",
+      "bank_id": "00349601",
+      "text": "Ah! Gerçekten çok korkutucu görünüyorsun!"
+    },
+    {
+      "id": "440bf8d1",
+      "bank_id": "00349601",
+      "text": "Böyle dehşet verici görünmeye bayılıyorsun resmen."
+    },
+    {
+      "id": "440bf8d3",
+      "bank_id": "00349601",
+      "text": "Böyle bir görünüşle herkesi korkutabilirsin."
+    },
+    {
+      "id": "4455d218",
+      "bank_id": "00349601",
+      "text": "Görelim bakalım her zamanki gibi iğrenç misin."
+    },
+    {
+      "id": "4455d219",
+      "bank_id": "00349601",
+      "text": "Yine o tiksinç huylarının peşinde misin?"
+    },
+    {
+      "id": "4455d21a",
+      "bank_id": "00349601",
+      "text": "Kendini daha az çekici kılacak bir şey yapamazsın herhalde, değil mi?"
+    },
+    {
+      "id": "4455d21b",
+      "bank_id": "00349601",
+      "text": "İyi zevke hakaretsin adeta ama eminim unutulmaz olacaktır. Devam et."
+    },
+    {
+      "id": "4455d21c",
+      "bank_id": "00349601",
+      "text": "Hm, yine gözlerimi yaşartmayı mı planlıyorsun?"
+    },
+    {
+      "id": "4455d21e",
+      "bank_id": "00349601",
+      "text": "Hadi ama, yap artık şunu kokmuş surat."
+    },
+    {
+      "id": "4455d21f",
+      "bank_id": "00349601",
+      "text": "Bunu görmek istiyor muyum pek emin değilim doğrusu."
+    },
+    {
+      "id": "46899fe8",
+      "bank_id": "00349601",
+      "text": "Evet, aynen öyle, hadi gel!"
+    },
+    {
+      "id": "46899fe9",
+      "bank_id": "00349601",
+      "text": "Oh, yap hadi! Evet..."
+    },
+    {
+      "id": "46899fea",
+      "bank_id": "00349601",
+      "text": "Oh, yapabilirsin!"
+    },
+    {
+      "id": "46899feb",
+      "bank_id": "00349601",
+      "text": "Evet, daha fazlasını anlat bana!"
+    },
+    {
+      "id": "46899fec",
+      "bank_id": "00349601",
+      "text": "Gerçekten romantik mi olacaksın? Umarım öyledir."
+    },
+    {
+      "id": "46899fed",
+      "bank_id": "00349601",
+      "text": "Ooo! Şimdi ne yapacaksın bakalım?"
+    },
+    {
+      "id": "46899fee",
+      "bank_id": "00349601",
+      "text": "*Hihi* Devam et lütfen!"
+    },
+    {
+      "id": "4b0c03d4",
+      "bank_id": "00349601",
+      "text": "Böyle görünerek iliklerimi donduruyorsun."
+    },
+    {
+      "id": "4b0c03d5",
+      "bank_id": "00349601",
+      "text": "Ay! Böyle görünerek ödümü kopardın!"
+    },
+    {
+      "id": "4b0c03d6",
+      "bank_id": "00349601",
+      "text": "Oldukça korkutucu bir kılığın var."
+    },
+    {
+      "id": "4b21ed48",
+      "bank_id": "00349601",
+      "text": "Yemek yemeyi sahiden çok seviyorsun, değil mi?"
+    },
+    {
+      "id": "4b21ed49",
+      "bank_id": "00349601",
+      "text": "Ne yaptın? Düşmanlarını mı yedin?"
+    },
+    {
+      "id": "4b21ed4c",
+      "bank_id": "00349601",
+      "text": "Üzerinde bu kadar yağ varken nasıl maceraya çıkabiliyorsun?"
+    },
+    {
+      "id": "4b21ed4e",
+      "bank_id": "00349601",
+      "text": "Bunca kilo ayak bileklerine resmen eziyettir."
+    },
+    {
+      "id": "4b21ed4f",
+      "bank_id": "00349601",
+      "text": "Hiç diyete girmeyi düşündün mü?"
+    },
+    {
+      "id": "4f89ae38",
+      "bank_id": "00349601",
+      "text": "Oh evet, seni izlemeye bayılıyorum!"
+    },
+    {
+      "id": "4f89ae39",
+      "bank_id": "00349601",
+      "text": "Oh, çok hoş."
+    },
+    {
+      "id": "4f89ae3b",
+      "bank_id": "00349601",
+      "text": "Oh, bunu görmek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "4f89ae3c",
+      "bank_id": "00349601",
+      "text": "Oh evet, bunu bekliyordum işte!"
+    },
+    {
+      "id": "4f89ae3d",
+      "bank_id": "00349601",
+      "text": "Oh, şahane! Evet!"
+    },
+    {
+      "id": "4f89ae3e",
+      "bank_id": "00349601",
+      "text": "Çok güzel. Evet."
+    },
+    {
+      "id": "4f89ae3f",
+      "bank_id": "00349601",
+      "text": "Oh... Bunu görmek için ölüp bitiyorum."
+    },
+    {
+      "id": "6ad48698",
+      "bank_id": "00349601",
+      "text": "Yine gözlerimi yaşartmayı mı planlıyorsun?"
+    },
+    {
+      "id": "6fd48eb9",
+      "bank_id": "00349601",
+      "text": "Yine çirkin şeyler yapma sakın."
+    },
+    {
+      "id": "839777d8",
+      "bank_id": "00349601",
+      "text": "Ha. Göster bakalım."
+    },
+    {
+      "id": "839777da",
+      "bank_id": "00349601",
+      "text": "Ooo, ne kadar hoş."
+    },
+    {
+      "id": "839777db",
+      "bank_id": "00349601",
+      "text": "Ooo! Şimdi yenin içinde ne var bakalım tatlım?"
+    },
+    {
+      "id": "839777dc",
+      "bank_id": "00349601",
+      "text": "Oh, yapabilirsin!"
+    },
+    {
+      "id": "839777dd",
+      "bank_id": "00349601",
+      "text": "Çok hoş bir şey bu gerçekten."
+    },
+    {
+      "id": "839777de",
+      "bank_id": "00349601",
+      "text": "Evet, harika."
+    },
+    {
+      "id": "839777df",
+      "bank_id": "00349601",
+      "text": "Romantik ruhunu bana göster lütfen."
+    },
+    {
+      "id": "88977ff9",
+      "bank_id": "00349601",
+      "text": "Ne yapacağını görmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "88977ffa",
+      "bank_id": "00349601",
+      "text": "Seni izlemeye bayılıyorum!"
+    },
+    {
+      "id": "88977ffb",
+      "bank_id": "00349601",
+      "text": "Yap hadi! Aynen öyle!"
+    },
+    {
+      "id": "88977ffc",
+      "bank_id": "00349601",
+      "text": "Evet! Aynen öyle!"
+    },
+    {
+      "id": "88977ffd",
+      "bank_id": "00349601",
+      "text": "Aynen öyle, hadi gel!"
+    },
+    {
+      "id": "88977ffe",
+      "bank_id": "00349601",
+      "text": "Bunun için o kadar çok bekledim ki!"
+    },
+    {
+      "id": "88977fff",
+      "bank_id": "00349601",
+      "text": "Oh, muhteşem."
+    },
+    {
+      "id": "8936eae8",
+      "bank_id": "00349601",
+      "text": "İçimi kıpır kıpır ediyorsun!"
+    },
+    {
+      "id": "8936eae9",
+      "bank_id": "00349601",
+      "text": "Oh, hadi ama nazlan biraz."
+    },
+    {
+      "id": "8936eaea",
+      "bank_id": "00349601",
+      "text": "Lütfen kalbini göster bana. Kelimenin tam anlamıyla değil tabii ki."
+    },
+    {
+      "id": "8936eaeb",
+      "bank_id": "00349601",
+      "text": "İlahi, ne kadar da güzel cilve yapıyorsun."
+    },
+    {
+      "id": "8936eaed",
+      "bank_id": "00349601",
+      "text": "Ah, çok hoş."
+    },
+    {
+      "id": "8936eaee",
+      "bank_id": "00349601",
+      "text": "Müthiş."
+    },
+    {
+      "id": "8936eaef",
+      "bank_id": "00349601",
+      "text": "Bu o kadar o kadar romantik ki."
+    },
+    {
+      "id": "9436fc18",
+      "bank_id": "00349601",
+      "text": "Ooo! Evet! Devam et!"
+    },
+    {
+      "id": "9436fc19",
+      "bank_id": "00349601",
+      "text": "Ay. Kalbim. Lambadaki pervane gibi pır pır ediyor."
+    },
+    {
+      "id": "9436fc1a",
+      "bank_id": "00349601",
+      "text": "Ah, ne kadar heyecan verici!"
+    },
+    {
+      "id": "9436fc1b",
+      "bank_id": "00349601",
+      "text": "Büyülendim resmen. Devam et!"
+    },
+    {
+      "id": "9436fc1c",
+      "bank_id": "00349601",
+      "text": "Evet! Aynen öyle."
+    },
+    {
+      "id": "9436fc1e",
+      "bank_id": "00349601",
+      "text": "Bunun çok romantik olacağına bahse girerim."
+    },
+    {
+      "id": "9436fc1f",
+      "bank_id": "00349601",
+      "text": "Bunun çok ama çok tatlı olacağına eminim."
+    },
+    {
+      "id": "99b27498",
+      "bank_id": "00349601",
+      "text": "Hadi yap! Bunun için en iyi yer burası."
+    },
+    {
+      "id": "99b2749a",
+      "bank_id": "00349601",
+      "text": "Evet, görelim bakalım burada neler yapabiliyorsun."
+    },
+    {
+      "id": "99b2749b",
+      "bank_id": "00349601",
+      "text": "Daha iyi bir yerde yapamazdın! Hadi!"
+    },
+    {
+      "id": "99b2749c",
+      "bank_id": "00349601",
+      "text": "Burası şahane bir köşe, görelim bakalım neler yapabiliyorsun."
+    },
+    {
+      "id": "99b2749d",
+      "bank_id": "00349601",
+      "text": "Burası harika bir yer, sakın mahvetme."
+    },
+    {
+      "id": "99b2749e",
+      "bank_id": "00349601",
+      "text": "Olağanüstü bir mekân. Ama yaptıkların da en az bu kadar iyi olacak mı bakalım?"
+    },
+    {
+      "id": "99b2749f",
+      "bank_id": "00349601",
+      "text": "Umarım bu yerin hakkını verirsin."
+    },
+    {
+      "id": "9eb27cb9",
+      "bank_id": "00349601",
+      "text": "Evet, burada göster bize!"
+    },
+    {
+      "id": "9eb27cba",
+      "bank_id": "00349601",
+      "text": "Evet, burada göster bize! Burada!"
+    },
+    {
+      "id": "9eb27cbb",
+      "bank_id": "00349601",
+      "text": "Bunun yeri tam da burası!"
+    },
+    {
+      "id": "9eb27cbc",
+      "bank_id": "00349601",
+      "text": "Evet, burada göster bize! Hadi!"
+    },
+    {
+      "id": "9eb27cbd",
+      "bank_id": "00349601",
+      "text": "En sevdiğim yer, görelim bakalım neler yapabiliyorsun."
+    },
+    {
+      "id": "9eb27cbe",
+      "bank_id": "00349601",
+      "text": "Bunun için bundan daha iyi yer mi olur."
+    },
+    {
+      "id": "9eb27cbf",
+      "bank_id": "00349601",
+      "text": "Burayı çok severim, o yüzden sakın mahvetme."
+    },
+    {
+      "id": "a6ced4d8",
+      "bank_id": "00349601",
+      "text": "Bakmaktan... kendimi... alamıyorum."
+    },
+    {
+      "id": "a6ced4d9",
+      "bank_id": "00349601",
+      "text": "Güzelliğe karşı işlenmiş başka bir suç daha mı? Görelim bakalım."
+    },
+    {
+      "id": "a6ced4da",
+      "bank_id": "00349601",
+      "text": "Hadi yap öyleyse seni çirkin şey."
+    },
+    {
+      "id": "a6ced4db",
+      "bank_id": "00349601",
+      "text": "Bunun çok çirkin olacağına bahse girerim."
+    },
+    {
+      "id": "a6ced4dc",
+      "bank_id": "00349601",
+      "text": "Şimdi bizim için ne çirkinlikler hazırladın bakalım?"
+    },
+    {
+      "id": "a6ced4dd",
+      "bank_id": "00349601",
+      "text": "Hadi yap ama çabuk ol, az önce yemek yedim."
+    },
+    {
+      "id": "a6ced4de",
+      "bank_id": "00349601",
+      "text": "Oh, bunu gerçekten görmek istiyor muyum acaba?"
+    },
+    {
+      "id": "afcee328",
+      "bank_id": "00349601",
+      "text": "Vah vah. Bakmaya dayanamıyorum!"
+    },
+    {
+      "id": "afcee329",
+      "bank_id": "00349601",
+      "text": "Bu da senin kadar çirkin olacak mı dersin?"
+    },
+    {
+      "id": "afcee32b",
+      "bank_id": "00349601",
+      "text": "Gerçekten izlemek istiyor muyum acaba?"
+    },
+    {
+      "id": "afcee32c",
+      "bank_id": "00349601",
+      "text": "Bunun fena halde çirkin bir hal alacağını düşünüyorum doğrusu."
+    },
+    {
+      "id": "afcee32d",
+      "bank_id": "00349601",
+      "text": "Hadi yap da şu sevimsizlik aradan çıksın."
+    },
+    {
+      "id": "afcee32e",
+      "bank_id": "00349601",
+      "text": "Iyyy... Hepimizi iğrendirecek misin yoksa?"
+    },
+    {
+      "id": "afcee32f",
+      "bank_id": "00349601",
+      "text": "Hadi ama, yap artık şunu seni çirkin kukla."
+    },
+    {
+      "id": "b92064aa",
+      "bank_id": "00349601",
+      "text": "Beni çıldırtıyorsun. Daha fazlasını görmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "b92064ab",
+      "bank_id": "00349601",
+      "text": "Tam bir naz kumkumasısın."
+    },
+    {
+      "id": "b92064ac",
+      "bank_id": "00349601",
+      "text": "Ah, bizim için neler hazırladığını görmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "b92064ad",
+      "bank_id": "00349601",
+      "text": "Nazlanma. Göster bana, hemen şimdi!"
+    },
+    {
+      "id": "b92064ae",
+      "bank_id": "00349601",
+      "text": "Oh, göster bana. Göster!"
+    },
+    {
+      "id": "bc42f214",
+      "bank_id": "00349601",
+      "text": "Burayı sevmedim. Başka bir yerde yap."
+    },
+    {
+      "id": "c142fa35",
+      "bank_id": "00349601",
+      "text": "Bunu illa burada mı yapman gerekiyor?"
+    },
+    {
+      "id": "c22072f8",
+      "bank_id": "00349601",
+      "text": "Oh, göster bana. Neyi bekliyorsun ki?"
+    },
+    {
+      "id": "c22072f9",
+      "bank_id": "00349601",
+      "text": "Seni cilveli şey! Hahaha!"
+    },
+    {
+      "id": "c22072fb",
+      "bank_id": "00349601",
+      "text": "Naz yapıyorsun ama çok da güzel yapıyorsun hani."
+    },
+    {
+      "id": "c22072fe",
+      "bank_id": "00349601",
+      "text": "Naz yapmak hiç hoş değil!"
+    },
+    {
+      "id": "c22072ff",
+      "bank_id": "00349601",
+      "text": "Oh, seni nazlı şey, göster bana!"
+    },
+    {
+      "id": "c4553ca8",
+      "bank_id": "00349601",
+      "text": "Evet, böyle bir gösteri için daha iyi bir ortam olamazdı!"
+    },
+    {
+      "id": "c4553ca9",
+      "bank_id": "00349601",
+      "text": "Lütfen, harika bir mekân için harika bir gösteri!"
+    },
+    {
+      "id": "c4553caa",
+      "bank_id": "00349601",
+      "text": "Evet, hadi yap! Burası bunun için harika bir yer!"
+    },
+    {
+      "id": "c4553cab",
+      "bank_id": "00349601",
+      "text": "Evet, ne görmek istediğimizi biliyorsun! Hem de her yerden çok burada!"
+    },
+    {
+      "id": "c4553cac",
+      "bank_id": "00349601",
+      "text": "Evet, yap hadi! Bunun için çok harika bir nokta!"
+    },
+    {
+      "id": "c4553cad",
+      "bank_id": "00349601",
+      "text": "Oh, bunun için sabırsızlanıyorum! Hem de en sevdiğim yerde!"
+    },
+    {
+      "id": "c4553cae",
+      "bank_id": "00349601",
+      "text": "Evet, hadi yap, bundan daha iyi yer bulunmaz!"
+    },
+    {
+      "id": "cd554af8",
+      "bank_id": "00349601",
+      "text": "Evet, kusursuz bir ortam! Hadi yap!"
+    },
+    {
+      "id": "cd554af9",
+      "bank_id": "00349601",
+      "text": "Evet, göster bana! Bundan daha iyi bir nokta seçemezdin!"
+    },
+    {
+      "id": "cd554afb",
+      "bank_id": "00349601",
+      "text": "Hadi yap! Bundan daha iyi yer mi olur?"
+    },
+    {
+      "id": "cd554afc",
+      "bank_id": "00349601",
+      "text": "Kesinlikle, devam et, burası harika bir ortam."
+    },
+    {
+      "id": "cd554afd",
+      "bank_id": "00349601",
+      "text": "Ah, devam et lütfen! Çok uğurlu bir konum burası."
+    },
+    {
+      "id": "cd554afe",
+      "bank_id": "00349601",
+      "text": "Neyin var neyin yok göster bize! Bunun için harika bir nokta hem de!"
+    },
+    {
+      "id": "cd554aff",
+      "bank_id": "00349601",
+      "text": "Evet, hadi yap! Böyle şeyler için en sevdiğim yer burasıdır!"
+    },
+    {
+      "id": "e1ca44d0",
+      "bank_id": "00349601",
+      "text": "Haha! Gülünç görünüyorsun!"
+    },
+    {
+      "id": "e1ca44d3",
+      "bank_id": "00349601",
+      "text": "Ha! Tarzına bayıldım."
+    },
+    {
+      "id": "e53d22b4",
+      "bank_id": "00349601",
+      "text": "Pekala, bu berbat yerde yapmak zorundaysan öyle olsun bakalım."
+    },
+    {
+      "id": "e53d22b5",
+      "bank_id": "00349601",
+      "text": "Mecbursan burada yap bari. Gerçi mekân değişikliğini tercih ederdim."
+    },
+    {
+      "id": "e53d22b7",
+      "bank_id": "00349601",
+      "text": "Bunu bu korkunç yerde mi yapman gerek? Eh, peki madem, yap bari."
+    },
+    {
+      "id": "e90d2caa",
+      "bank_id": "00349601",
+      "text": "Kendini salmak dedikleri bu olsa gerek. Baksana şuna."
+    },
+    {
+      "id": "e90d2cac",
+      "bank_id": "00349601",
+      "text": "İşte 'kalın butlu' geçiyor."
+    },
+    {
+      "id": "e90d2cae",
+      "bank_id": "00349601",
+      "text": "Bunca maceranın insanı zinde tutacağını düşünürdün."
+    },
+    {
+      "id": "ec3d2db0",
+      "bank_id": "00349601",
+      "text": "Bunu böyle iğrenç bir yerde yapmak zorunda mısın?"
+    },
+    {
+      "id": "ec3d2db1",
+      "bank_id": "00349601",
+      "text": "Oh pekala, illa burada bir şeyler yapman gerekiyorsa yap bari."
+    },
+    {
+      "id": "ec3d2db3",
+      "bank_id": "00349601",
+      "text": "Bunu illa burada mı yapman gerek? Buradan nefret ediyorum."
+    },
+    {
+      "id": "f20d3af8",
+      "bank_id": "00349601",
+      "text": "Birileri kiloları istiflemeye başlamış anlaşılan."
+    },
+    {
+      "id": "f20d3af9",
+      "bank_id": "00349601",
+      "text": "Hmm, aklıma gelmişken bu hafta diyete başlasam iyi olacak."
+    },
+    {
+      "id": "f20d3afe",
+      "bank_id": "00349601",
+      "text": "Şunun bugünlerde biraz daha şişmanladığını mı düşünüyorsun?"
+    },
+    {
+      "id": "f2fea838",
+      "bank_id": "00349601",
+      "text": "Bunu izlediğime pişman olacağım, değil mi?"
+    },
+    {
+      "id": "f2fea839",
+      "bank_id": "00349601",
+      "text": "Bu sefer ne tür bir pislikle çıkıp geleceksin diye ödüm kopuyor."
+    },
+    {
+      "id": "f2fea83a",
+      "bank_id": "00349601",
+      "text": "Görelim bakalım bu sefer ne kadar çirkin olabileceksin."
+    },
+    {
+      "id": "f2fea83b",
+      "bank_id": "00349601",
+      "text": "Gözlerimi bu çirkinliğe hazırlasam iyi olacak."
+    },
+    {
+      "id": "f2fea83c",
+      "bank_id": "00349601",
+      "text": "İşte çirkinlik geliyor o zaman."
+    },
+    {
+      "id": "f2fea83d",
+      "bank_id": "00349601",
+      "text": "Oh, bundan sonra kesin kötü rüyalar göreceğim, değil mi?"
+    },
+    {
+      "id": "f2fea83e",
+      "bank_id": "00349601",
+      "text": "Bunu hiç hevesle beklemiyorum..."
+    },
+    {
+      "id": "fbfeb608",
+      "bank_id": "00349601",
+      "text": "Oh hadi yap ama fazla çirkin olmamaya çalış!"
+    },
+    {
+      "id": "fbfeb609",
+      "bank_id": "00349601",
+      "text": "Bu çok fena bir şey olacak, içime doğuyor."
+    },
+    {
+      "id": "fbfeb60b",
+      "bank_id": "00349601",
+      "text": "Yine çirkin bir şey mi yapacaksın?"
+    },
+    {
+      "id": "fbfeb60c",
+      "bank_id": "00349601",
+      "text": "Sanki dünyada yeterince çirkinlik yokmuş gibi."
+    },
+    {
+      "id": "fbfeb60d",
+      "bank_id": "00349601",
+      "text": "Gözlerimi kaçırsam mı acaba?"
+    },
+    {
+      "id": "fbfeb60e",
+      "bank_id": "00349601",
+      "text": "Fazla çirkin yapma, olur mu?"
+    },
+    {
+      "id": "fbfeb60f",
+      "bank_id": "00349601",
+      "text": "Fazla çirkin olmamaya çalış!"
+    }
+  ]
+}

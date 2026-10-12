@@ -1,0 +1,661 @@
+{
+  "bank_id": "f04e2802",
+  "total_strings": 131,
+  "strings": [
+    {
+      "id": "051d4659",
+      "bank_id": "f04e2802",
+      "text": "Sensiz buralar öyle güzeldi ki. Uzun sürmeyeceğini biliyordum zaten."
+    },
+    {
+      "id": "051d465a",
+      "bank_id": "f04e2802",
+      "text": "Beni görmezsin diye umuyordum..."
+    },
+    {
+      "id": "051d465d",
+      "bank_id": "f04e2802",
+      "text": "Yıldırım çarpsın beni de kurtulayım. Yine mi sen!"
+    },
+    {
+      "id": "051d465e",
+      "bank_id": "f04e2802",
+      "text": "Senden gına geldi artık bana!"
+    },
+    {
+      "id": "1b0ffd56",
+      "bank_id": "f04e2802",
+      "text": "Aah, kara kalplerimiz ve karanlık ruhlarımız herkesin hoşuna gitmez tabii. Ama kimin umurunda ki, değil mi?"
+    },
+    {
+      "id": "1b0ffd57",
+      "bank_id": "f04e2802",
+      "text": "Kötülüğün ne kadar eğlenceli bir şey olduğunu anlayan biriyle karşılaşmak her zaman güzeldir. Yani çok eğlenceli, değil mi?! Katıksız bir eğlence!"
+    },
+    {
+      "id": "20eed881",
+      "bank_id": "f04e2802",
+      "text": "İyilikler yapmamız gerekir ama sen hiç yapmıyorsun."
+    },
+    {
+      "id": "21077158",
+      "bank_id": "f04e2802",
+      "text": "Sen resmen gölgelerin ete kemiğe bürünmüş halisin."
+    },
+    {
+      "id": "21077159",
+      "bank_id": "f04e2802",
+      "text": "Kötülüğe olan sarsılmaz bağlılığına hayranım. Bunu sonuna kadar götürecek yürek herkeste bulunmaz."
+    },
+    {
+      "id": "2beeea30",
+      "bank_id": "f04e2802",
+      "text": "Kötü bir insansın sen."
+    },
+    {
+      "id": "5bc60f10",
+      "bank_id": "f04e2802",
+      "text": "Bahse girerim eğlencesine insanlara işkence ediyorsundur, ha?"
+    },
+    {
+      "id": "5bc60f11",
+      "bank_id": "f04e2802",
+      "text": "Babam öldüğünden beri böylesine kara bir kalp görmemiştim!"
+    },
+    {
+      "id": "5bc60f12",
+      "bank_id": "f04e2802",
+      "text": "Gözlerim ömrümde böyle bir kötülük görmedi."
+    },
+    {
+      "id": "5bc60f13",
+      "bank_id": "f04e2802",
+      "text": "Etrafında karanlık, meşum bir aura var..."
+    },
+    {
+      "id": "5bc60f14",
+      "bank_id": "f04e2802",
+      "text": "Sende bir dirhem bile iyilik yok, değil mi?"
+    },
+    {
+      "id": "5bc60f16",
+      "bank_id": "f04e2802",
+      "text": "Bu topraklarda yürümüş herkes kadar kötü..."
+    },
+    {
+      "id": "5bc60f17",
+      "bank_id": "f04e2802",
+      "text": "Tepeden tırnağa çürümüşsün sen."
+    },
+    {
+      "id": "5beab850",
+      "bank_id": "f04e2802",
+      "text": "Yaptığın onca şeyi bilerek geceleri nasıl uyuyabiliyorsun?"
+    },
+    {
+      "id": "5beab851",
+      "bank_id": "f04e2802",
+      "text": "Neredeyse insan bile değilsin. Sadece safi kötülük."
+    },
+    {
+      "id": "5beab852",
+      "bank_id": "f04e2802",
+      "text": "Böyle kötü mü doğdun yoksa başına bir şey mi geldi?"
+    },
+    {
+      "id": "5beab856",
+      "bank_id": "f04e2802",
+      "text": "Bu diyarda yürüyen en aşağılık insansın."
+    },
+    {
+      "id": "5beab857",
+      "bank_id": "f04e2802",
+      "text": "Kalbinin olması gereken yerde bir kara delik var herhalde."
+    },
+    {
+      "id": "60c61730",
+      "bank_id": "f04e2802",
+      "text": "Bazıları kötü havası takınır ama sen sahicisisin."
+    },
+    {
+      "id": "60c61731",
+      "bank_id": "f04e2802",
+      "text": "Kasabada kötücül bir varlık olduğunu duymuştum..."
+    },
+    {
+      "id": "60c61732",
+      "bank_id": "f04e2802",
+      "text": "Varlığınla dünyayı karartıyorsun adeta..."
+    },
+    {
+      "id": "60c61733",
+      "bank_id": "f04e2802",
+      "text": "Ateş çukurlarında yaşayan iblisler bile senin kadar zalim değildir."
+    },
+    {
+      "id": "60c61735",
+      "bank_id": "f04e2802",
+      "text": "Güç seni geri dönülemez şekilde yozlaştırmış..."
+    },
+    {
+      "id": "60c61736",
+      "bank_id": "f04e2802",
+      "text": "Şüphe yok, sen tam bir baş belasısın."
+    },
+    {
+      "id": "60c61737",
+      "bank_id": "f04e2802",
+      "text": "Her zaman mı bu kadar kötüydün sen?"
+    },
+    {
+      "id": "634d51bf",
+      "bank_id": "f04e2802",
+      "text": "Gölgeler Tapınağı için doğmuşsun sen. Kötülük yarışında Grim'in kendisi bile eline su dökemez."
+    },
+    {
+      "id": "64eac6ba",
+      "bank_id": "f04e2802",
+      "text": "Kötü kalpli amcam Taşyürek Harry'den bile betersin."
+    },
+    {
+      "id": "64eac6bb",
+      "bank_id": "f04e2802",
+      "text": "Sadece kötü değilsin, çok daha betersin!"
+    },
+    {
+      "id": "64eac6bc",
+      "bank_id": "f04e2802",
+      "text": "Böyle acımasızca kötü olmak seni hiç rahatsız etmiyor mu?"
+    },
+    {
+      "id": "64eac6bd",
+      "bank_id": "f04e2802",
+      "text": "O akıl almaz şeyleri ne diye yapıyorsun ki?"
+    },
+    {
+      "id": "64eac6bf",
+      "bank_id": "f04e2802",
+      "text": "Neden herkesten bu kadar nefret ediyorsun?"
+    },
+    {
+      "id": "84c03fb3",
+      "bank_id": "f04e2802",
+      "text": "Annem senin fena olduğunu söylüyor. Ama iyi anlamda değil."
+    },
+    {
+      "id": "8bc04ab6",
+      "bank_id": "f04e2802",
+      "text": "Neden bu kadar fenasın sen?"
+    },
+    {
+      "id": "8fba1bf0",
+      "bank_id": "f04e2802",
+      "text": "Bütün ömrün boyunca tek bir hayır işlediğini hiç sanmıyorum..."
+    },
+    {
+      "id": "8fba1bf1",
+      "bank_id": "f04e2802",
+      "text": "Şimdi ne kötü işler çeviriyorsun bakalım?"
+    },
+    {
+      "id": "8fba1bf2",
+      "bank_id": "f04e2802",
+      "text": "Kendine bir de maceracı mı diyorsun? Kötü niyetli bir kabadayı daha çok."
+    },
+    {
+      "id": "8fba1bf4",
+      "bank_id": "f04e2802",
+      "text": "Tüm hayatın boyunca hiç nazik ya da özverili bir davranışta bulundun mu? Hiç sanmıyorum."
+    },
+    {
+      "id": "8fba1bf5",
+      "bank_id": "f04e2802",
+      "text": "Hayatında bir kez olsun nazik bir davranış sergilemedin."
+    },
+    {
+      "id": "8fba1bf6",
+      "bank_id": "f04e2802",
+      "text": "Senin kadar rezil ve kötü niyetli olmak isteyecek pek çok kişi var."
+    },
+    {
+      "id": "8fba1bf7",
+      "bank_id": "f04e2802",
+      "text": "Aah, sadece gerçekten kötü niyetliler senin yanında durabilir. Benim daha fırın fırın ekmek yemem lazım."
+    },
+    {
+      "id": "98ba29d8",
+      "bank_id": "f04e2802",
+      "text": "İçinde zifiri bir karanlık barınıyor."
+    },
+    {
+      "id": "98ba29d9",
+      "bank_id": "f04e2802",
+      "text": "Bütün Albion'daki en karanlık ruha sahipsin."
+    },
+    {
+      "id": "98ba29da",
+      "bank_id": "f04e2802",
+      "text": "Ahlaksızın tekisin. Hoşuma gitti bu."
+    },
+    {
+      "id": "98ba29db",
+      "bank_id": "f04e2802",
+      "text": "Artık senin gibi kötülere pek sık rastlamıyoruz."
+    },
+    {
+      "id": "98ba29dc",
+      "bank_id": "f04e2802",
+      "text": "Gördüğüm en katıksız hainlerden birisin."
+    },
+    {
+      "id": "98ba29dd",
+      "bank_id": "f04e2802",
+      "text": "Nasıl bu kadar gaddar olabildin?"
+    },
+    {
+      "id": "98ba29df",
+      "bank_id": "f04e2802",
+      "text": "Ruhunun kurtuluşa ermesine imkân yok artık."
+    },
+    {
+      "id": "9ffefc81",
+      "bank_id": "f04e2802",
+      "text": "Ve sonra tavuk bana dedi ki: 'Neden muz... muz diyarına sen gitmiyorsun?' <giggles> Yüzsüzlüğe bakar mısın?"
+    },
+    {
+      "id": "9ffefc82",
+      "bank_id": "f04e2802",
+      "text": "Gökyüzünün fırıl fırıl fırıl fırıl döndüğünü hiç fark ettin mi?"
+    },
+    {
+      "id": "9ffefc83",
+      "bank_id": "f04e2802",
+      "text": "Ağzındaki bütün dişleri hiç saydın mı? Bugün altı tane yeni dişim çıktı benim..."
+    },
+    {
+      "id": "9ffefc84",
+      "bank_id": "f04e2802",
+      "text": "Şu alkollü içkilerden denemelisin mutlaka. Harika bir şey bunlar."
+    },
+    {
+      "id": "9ffefc85",
+      "bank_id": "f04e2802",
+      "text": "Hiç balverine kulağı emdin mi? Valla bak, acayip şifalı diyorlar. Hi hi."
+    },
+    {
+      "id": "9ffefc86",
+      "bank_id": "f04e2802",
+      "text": "Bana yatağımı getirir misiniz rica etsem? *hık*"
+    },
+    {
+      "id": "aaff0e30",
+      "bank_id": "f04e2802",
+      "text": "Şu sakallar ve saç tıraşları tam bir mucize ya. Şıp diye bitiveriyor! Dur bakayım, sen kimsin? Kavga aramıyorsun değil mi?"
+    },
+    {
+      "id": "aaff0e32",
+      "bank_id": "f04e2802",
+      "text": "Seni daha önce bir yerlerde görmemiş miydim ben? Evet evet, kesin gördüm. Hani şu şey olan yerde."
+    },
+    {
+      "id": "aaff0e33",
+      "bank_id": "f04e2802",
+      "text": "Hava diye harika yeni bir şey buldum. Üstelik bedava! Şşşt. Kimseye söyleme sakın."
+    },
+    {
+      "id": "aaff0e34",
+      "bank_id": "f04e2802",
+      "text": "Olay tamamen dengede bitiyor bak. Ben birinin suratına yumruk atıyorum, o da benim kasığıma tekme basıyor. Evren böyle işliyor işte, bak benden söylemesi."
+    },
+    {
+      "id": "aaff0e35",
+      "bank_id": "f04e2802",
+      "text": "Ben de dedim ki, 'valla sabah biraz odun kestim'. Ha ha! Anladın mı? Yok dur, öyle değildi fıkra..."
+    },
+    {
+      "id": "aaff0e36",
+      "bank_id": "f04e2802",
+      "text": "Aman Tanrım! Varlık aleminin katmanlarının tam ayaklarımızın altında nasıl kaydığını gördün mü? Amma acayip değil mi?"
+    },
+    {
+      "id": "aaff0e37",
+      "bank_id": "f04e2802",
+      "text": "Birazcık çakırkeyif olabilirim ama hâlâ lafımı dosdoğru toparlayabiliyorum."
+    },
+    {
+      "id": "acdbada0",
+      "bank_id": "f04e2802",
+      "text": "Kıyafetlerini nasıl öyle hızlı değiştirdin sen? Gelmiş geçmiş en hızlı kıyafet değiştiren insansın herhalde, değil mi?"
+    },
+    {
+      "id": "acdbada1",
+      "bank_id": "f04e2802",
+      "text": "Bacakların yalancı derken ne demek istiyorsun sen? Dur bir dakika, sen demin konuştuğum kişi değilsin ki. Nereye gitti o?"
+    },
+    {
+      "id": "acdbada4",
+      "bank_id": "f04e2802",
+      "text": "Kulağına sokuyorsun, sonra gözlerini kapatıyorsun ve böyle... voov! Uzaya uçuyorsun resmen, anladın mı."
+    },
+    {
+      "id": "acdbada6",
+      "bank_id": "f04e2802",
+      "text": "Ben de ona dedim ki, kaç tane keçi olduğu seni hiç ilgilendirmez! Hah, nasıl da sustu ama."
+    },
+    {
+      "id": "acdbada7",
+      "bank_id": "f04e2802",
+      "text": "Oradaydım. İçtik. Ve şimdi bitti. Bir içki daha lazım."
+    },
+    {
+      "id": "ae05eb98",
+      "bank_id": "f04e2802",
+      "text": "Ah, yine mi sen! Beni neden rahat bırakmıyorsun?"
+    },
+    {
+      "id": "ae05eb9a",
+      "bank_id": "f04e2802",
+      "text": "Senden kurtulduğumu sanmıştım."
+    },
+    {
+      "id": "ae05eb9b",
+      "bank_id": "f04e2802",
+      "text": "Beni durmadan rahatsız etmek zorunda mısın?"
+    },
+    {
+      "id": "ae05eb9c",
+      "bank_id": "f04e2802",
+      "text": "Beni tek başıma bıraksana hobbe aşkına?"
+    },
+    {
+      "id": "ae05eb9d",
+      "bank_id": "f04e2802",
+      "text": "Şimdi ne istiyorsun be hey Allah'ın cezası?"
+    },
+    {
+      "id": "ae05eb9e",
+      "bank_id": "f04e2802",
+      "text": "Öğğk. Seni son kez gördüğümü sanmıştım."
+    },
+    {
+      "id": "ae05eb9f",
+      "bank_id": "f04e2802",
+      "text": "Beni yine rahatsız etmek zorunda mısın?"
+    },
+    {
+      "id": "b1dbb540",
+      "bank_id": "f04e2802",
+      "text": "Cebimdeki bu çok özel çakıl taşı için bir çuval altın takas etmek ister misin? Hah, alamazsın ki! Çok özel o bir kere."
+    },
+    {
+      "id": "b1dbb541",
+      "bank_id": "f04e2802",
+      "text": "Sana şu devre mülklerden satmalarına izin verme sakın. Zamanı paylaşamazsın ki. Paylaşamazsın işte."
+    },
+    {
+      "id": "b1dbb545",
+      "bank_id": "f04e2802",
+      "text": "Ve bir de baktım tarlanın ortasında donum paçalarımda dikiliyorum. Düşes hiç memnun kalmadı tabii, bak benden söylemesi."
+    },
+    {
+      "id": "b1dbb546",
+      "bank_id": "f04e2802",
+      "text": "Geçen gece dışarıdaydım... Neler olduğunu anlamadım... Ben de durdum."
+    },
+    {
+      "id": "b1dbb547",
+      "bank_id": "f04e2802",
+      "text": "Bana sorarsan duvarların yıkılmasını engelleyen tek şey içeride dans eden fareler. Farelere iyi bakmak lazım."
+    },
+    {
+      "id": "b305f3b9",
+      "bank_id": "f04e2802",
+      "text": "Canını sıkacak başka birini bulsana sen?"
+    },
+    {
+      "id": "b305f3ba",
+      "bank_id": "f04e2802",
+      "text": "Dünyadaki onca insan varken durmadan benimle mi konuşmak zorundasın?!"
+    },
+    {
+      "id": "b305f3bb",
+      "bank_id": "f04e2802",
+      "text": "Ah, yine mi sen!"
+    },
+    {
+      "id": "b305f3bc",
+      "bank_id": "f04e2802",
+      "text": "Bir daha söylemeyeceğim. Çekil karşımdan!"
+    },
+    {
+      "id": "b305f3bd",
+      "bank_id": "f04e2802",
+      "text": "Beni biraz daha taciz etmeye mi geldin? Hay bin kunduz."
+    },
+    {
+      "id": "b305f3be",
+      "bank_id": "f04e2802",
+      "text": "Sürekli gelip durman hayatımı kararttı resmen!"
+    },
+    {
+      "id": "b305f3bf",
+      "bank_id": "f04e2802",
+      "text": "Bu dur durak bilmeyen tacizden hiç bıkmıyor musun?"
+    },
+    {
+      "id": "cd14c494",
+      "bank_id": "f04e2802",
+      "text": "Ah, bu kadar kötü birinin yanında olmak her zaman güzeldir."
+    },
+    {
+      "id": "cd14c495",
+      "bank_id": "f04e2802",
+      "text": "Ah, kötülüğü resmen bir sanat haline getirmişsin."
+    },
+    {
+      "id": "d1c8fc30",
+      "bank_id": "f04e2802",
+      "text": "Ha ha ha, az önce ha ha en komik ha ha fıkrayı duydum ha ha. *iç çeker* Dur ya, ben neye gülüyordum?"
+    },
+    {
+      "id": "d1c8fc31",
+      "bank_id": "f04e2802",
+      "text": "Aslında çok basit. Önce bu ayağını atıyorsun, sonra diğerini atıyorsun, bak böyle."
+    },
+    {
+      "id": "d1c8fc33",
+      "bank_id": "f04e2802",
+      "text": "Hey! Sensin! Yok dur, değilsin. Pöh."
+    },
+    {
+      "id": "d1c8fc34",
+      "bank_id": "f04e2802",
+      "text": "Ah kahır ve keder! Ön cebimi bulamıyorum bir türlü."
+    },
+    {
+      "id": "d1c8fc35",
+      "bank_id": "f04e2802",
+      "text": "Bir insanı helaya kilitlemek cidden hiç hoş değil ama, doğrusu."
+    },
+    {
+      "id": "d1c8fc36",
+      "bank_id": "f04e2802",
+      "text": "(hık) Fındık kırmaya gidiyorum ben!"
+    },
+    {
+      "id": "d1c8fc37",
+      "bank_id": "f04e2802",
+      "text": "Olay şu; içiyorsun, sıcacık oluyor, biraz daha içiyorsun ve her şey düzeliyor tamam mı."
+    },
+    {
+      "id": "d8c90730",
+      "bank_id": "f04e2802",
+      "text": "Terbiyesiz yankesiciler paketleri tıkıştırıp grev yapar, la la la."
+    },
+    {
+      "id": "d8c90731",
+      "bank_id": "f04e2802",
+      "text": "Bir deniz yıldızı mır mır eder. Hi hi."
+    },
+    {
+      "id": "d8c90732",
+      "bank_id": "f04e2802",
+      "text": "Sana Kahraman diyorlar değil mi?"
+    },
+    {
+      "id": "d8c90733",
+      "bank_id": "f04e2802",
+      "text": "Neyin var senin? Sarhoş falan mısın?"
+    },
+    {
+      "id": "d8c90734",
+      "bank_id": "f04e2802",
+      "text": "Galiba ayaklarımı kaybettim... Sen görmedin değil mi onları?"
+    },
+    {
+      "id": "d8c90735",
+      "bank_id": "f04e2802",
+      "text": "Saat kaç biliyor musun? Kesin yetmiş yedi buçuk falan vardır ha?"
+    },
+    {
+      "id": "d8c90736",
+      "bank_id": "f04e2802",
+      "text": "Gerçekten doğruymuş meğer değil mi? Dünya kendi ekseni etrafında dönüyor! Vooov..."
+    },
+    {
+      "id": "deea49a2",
+      "bank_id": "f04e2802",
+      "text": "Keşke senin ahlaksızlık ve kötülük seviyene yaklaşabilseydim. Ama senin yanında çömez kalırım."
+    },
+    {
+      "id": "deea49a3",
+      "bank_id": "f04e2802",
+      "text": "Dünyaya getirmeyi başardığın kötülük kotasından son derece etkilendim."
+    },
+    {
+      "id": "ea0039de",
+      "bank_id": "f04e2802",
+      "text": "Beni rahatsız etmeyi kes!"
+    },
+    {
+      "id": "f02bd451",
+      "bank_id": "f04e2802",
+      "text": "Ne harika bir şeysin sen böyle! Kocaman... harika bir mucize gibi!"
+    },
+    {
+      "id": "f02bd452",
+      "bank_id": "f04e2802",
+      "text": "Seni seviyorum ben. Biliyorsun bunu. Karşılaştığım en sevimli insansın. Ki bu büyük bir laf, çünkü amma çok insanla karşılaştım ben."
+    },
+    {
+      "id": "f02bd453",
+      "bank_id": "f04e2802",
+      "text": "Ah, tam burada seninle olduğum için ne kadar şanslıyım inanamıyorum. Buradayım değil mi? Oh çok şükür."
+    },
+    {
+      "id": "f02bd454",
+      "bank_id": "f04e2802",
+      "text": "Tükürük hokkamı paylaşacağım pek az insan vardır. Ama sen o beş kişiden üçüsün. Donsuz tanrılar adına yemin ederim."
+    },
+    {
+      "id": "f02bd455",
+      "bank_id": "f04e2802",
+      "text": "Geçen gece rüyamda seni gördüm. Valla hayatımın en mutlu anıydı. Maymunu o üç bacaklı sardalyaya satmasaydın iyiydi gerçi."
+    },
+    {
+      "id": "f300482b",
+      "bank_id": "f04e2802",
+      "text": "Beni rahat bıraksana artık!"
+    },
+    {
+      "id": "f6b657c0",
+      "bank_id": "f04e2802",
+      "text": "*hıçkırır* Sen sadece... *hıçkırır* sen harika birisin."
+    },
+    {
+      "id": "f6b657c1",
+      "bank_id": "f04e2802",
+      "text": "Ayyy, seni çok özledim. Bir daha. Asla. Bırakıp. Gitme. Düm teka düm..."
+    },
+    {
+      "id": "f6b657c2",
+      "bank_id": "f04e2802",
+      "text": "Sana ne kadar muhteşem olduğunu hiç söylemiş miydim? Cidden bak, ahhhh..."
+    },
+    {
+      "id": "f6b657c4",
+      "bank_id": "f04e2802",
+      "text": "Ayyy, cidden çok harikasın sen. Yaşasın falan filan işte."
+    },
+    {
+      "id": "f6b657c5",
+      "bank_id": "f04e2802",
+      "text": "Sen tek kelimeyle en büyüksün... Yok! En mükemmel... falan filan bir şeysin. Yaşasın!"
+    },
+    {
+      "id": "f6b657c6",
+      "bank_id": "f04e2802",
+      "text": "Hakkındaki her şeyi biliyorum! Ah evet! En büyüüksün!"
+    },
+    {
+      "id": "f6b657c7",
+      "bank_id": "f04e2802",
+      "text": "Heeey! Sen gelmiiişsin! Yaşasııın!"
+    },
+    {
+      "id": "fb2be584",
+      "bank_id": "f04e2802",
+      "text": "Ayyy, tıpkı annemin kuru fasulye güveci gibi kokuyorsun. Çok harikasın sen."
+    },
+    {
+      "id": "fe1d3b52",
+      "bank_id": "f04e2802",
+      "text": "Baksana! Beni rahat bırakır mısın artık!?"
+    },
+    {
+      "id": "fe1d3b54",
+      "bank_id": "f04e2802",
+      "text": "Beni yine rahatsız etmeye mi geldin? *iç çeker*"
+    },
+    {
+      "id": "fe1d3b55",
+      "bank_id": "f04e2802",
+      "text": "Ah, en büyük kabusum yine geliyor..."
+    },
+    {
+      "id": "ffb66628",
+      "bank_id": "f04e2802",
+      "text": "Selamlar! Seni şimdiye kadar karşılaştığım en yetenekli, en övgüye layık Kahraman ilan ediyorum."
+    },
+    {
+      "id": "ffb66629",
+      "bank_id": "f04e2802",
+      "text": "Hey hey hey, ooo-heeyy! Amma da harikasın sen!"
+    },
+    {
+      "id": "ffb6662a",
+      "bank_id": "f04e2802",
+      "text": "Biz sana layık değiliz! Vuuu!"
+    },
+    {
+      "id": "ffb6662b",
+      "bank_id": "f04e2802",
+      "text": "Vay canına! Kime rastladığımı bütün arkadaşlarıma anlatana kadar bekle sen! Evet yaaa!"
+    },
+    {
+      "id": "ffb6662c",
+      "bank_id": "f04e2802",
+      "text": "Seni seviyorum, biliyorsun değil mi? Sen öyle... öyle... sen en iyisisin işte!"
+    },
+    {
+      "id": "ffb6662d",
+      "bank_id": "f04e2802",
+      "text": "Lütfen sonsuza kadar arkadaş kalacağımızı söyle. Söz verir misin? Ayyy."
+    },
+    {
+      "id": "ffb6662f",
+      "bank_id": "f04e2802",
+      "text": "Senin aleyhine tek bir kelime bile ettirmem. Duydun mu beni? Tek bir kelime bile!"
+    }
+  ]
+}

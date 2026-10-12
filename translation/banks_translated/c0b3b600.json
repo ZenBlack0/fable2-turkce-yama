@@ -1,0 +1,541 @@
+{
+  "bank_id": "c0b3b600",
+  "total_strings": 107,
+  "strings": [
+    {
+      "id": "03f7960f",
+      "bank_id": "c0b3b600",
+      "text": "Bu hobbe'ler daha dişli olabilir ama bu sadece yere daha sert kapaklanacakları anlamına gelir!"
+    },
+    {
+      "id": "04f797e2",
+      "bank_id": "c0b3b600",
+      "text": "MAD: Yere yığıldı ama henüz nakavt olmadı! MU: Tarafsızlığımızı hatırla... MAD: Kes sesini de fıstıklarını ye."
+    },
+    {
+      "id": "056fab76",
+      "bank_id": "c0b3b600",
+      "text": "Pekâlâ, İrade büyüleri yapabiliyor olabilir. Ama şu sevimli minik... yani hiçbir özel sempati beslemediğim yaratıklar gibi doğa büyüsü kullanabilir mi acaba?"
+    },
+    {
+      "id": "056fab7d",
+      "bank_id": "c0b3b600",
+      "text": "Pekâlâ, İrade büyüleri yapabiliyor olabilir. Ama şu sevimli minik... yani hiçbir özel sempati beslemediğim yaratıklar gibi doğa büyüsü kullanabilir mi acaba?"
+    },
+    {
+      "id": "05f79955",
+      "bank_id": "c0b3b600",
+      "text": "Ve hobbe poposunun üstüne oturuyor! Ah, bağışlayın, kıçının diyecektim. Yok, dur..."
+    },
+    {
+      "id": "11b70428",
+      "bank_id": "c0b3b600",
+      "text": "Silahlı hobbe'den savruk bir atış geldi ama hedefi buldu!"
+    },
+    {
+      "id": "14b708e1",
+      "bank_id": "c0b3b600",
+      "text": "MU: Kim demiş hobbe'ler düzgün nişan alamaz diye? MAD: Onlar en iyisi! Göreyim sizi ufaklıklar!"
+    },
+    {
+      "id": "18454a70",
+      "bank_id": "c0b3b600",
+      "text": "Tombul mahlukatlara bir ölümcül darbe daha indiriyor!"
+    },
+    {
+      "id": "18454a7b",
+      "bank_id": "c0b3b600",
+      "text": "Tombul mahlukatlara bir ölümcül darbe daha indiriyor!"
+    },
+    {
+      "id": "189db69c",
+      "bank_id": "c0b3b600",
+      "text": "Hey, yine hobbe'ler olacağını bana söylememiştin!"
+    },
+    {
+      "id": "1a9db9e2",
+      "bank_id": "c0b3b600",
+      "text": "Sen nasıl dersen, Murray."
+    },
+    {
+      "id": "1b9b71f8",
+      "bank_id": "c0b3b600",
+      "text": "MU: Ho ho! Bak şu ufaklığa, kıçının üstünde nasıl da uçtu gitti. MAD: Gülme be."
+    },
+    {
+      "id": "1b9dbb55",
+      "bank_id": "c0b3b600",
+      "text": "Aynen öyle. Onlara bir kıyak geçtiğini de görmeyeyim sakın."
+    },
+    {
+      "id": "1d14e870",
+      "bank_id": "c0b3b600",
+      "text": "Oooh, küçük mahlukatlar çığ gibi akın ediyor yine!"
+    },
+    {
+      "id": "1d9b74de",
+      "bank_id": "c0b3b600",
+      "text": "Yere serildi! Şu bacakların can havliyle nasıl çırpındığına bakın!"
+    },
+    {
+      "id": "1e14e9e3",
+      "bank_id": "c0b3b600",
+      "text": "Ve işte son hobbe dalgası geliyor!"
+    },
+    {
+      "id": "1e9b76b1",
+      "bank_id": "c0b3b600",
+      "text": "Kalk ayağa! Hadi! Kalksana!"
+    },
+    {
+      "id": "2014ecc9",
+      "bank_id": "c0b3b600",
+      "text": "Hobbe'ler geliyor; öncekinden daha ölümcül ve daha alçak!"
+    },
+    {
+      "id": "21b9cb69",
+      "bank_id": "c0b3b600",
+      "text": "Bir hobbe tahtalı köyü boyladı işte. Lütfen Kuduz, ağlamayı kes artık."
+    },
+    {
+      "id": "22b9ccdc",
+      "bank_id": "c0b3b600",
+      "text": "MU: Kahraman bir can daha aldı gibi görünüyor! MAD: Ah, yazık hobbe'ciklere. Bakamıyorum."
+    },
+    {
+      "id": "23b9ce4f",
+      "bank_id": "c0b3b600",
+      "text": "Olamaz! Kıpırdamıyor! Gitti zavallı!"
+    },
+    {
+      "id": "24b9d022",
+      "bank_id": "c0b3b600",
+      "text": "MU: Gözlerini kapatsan iyi olur Kuduz. O hobbe bir daha kalkamaz. MAD: Hayııır!"
+    },
+    {
+      "id": "27bf8be4",
+      "bank_id": "c0b3b600",
+      "text": "Sanırım o hobbe topallatıldı. Ha ha, anladın mı? Hobbe, topal! Ah! Ne vurdun be?"
+    },
+    {
+      "id": "29136ea8",
+      "bank_id": "c0b3b600",
+      "text": "MAD: İşte böyle! Göster onlara günlerini ufaklık! MU: Şey, tamamen tarafsız olduğumuzu herkese hatırlatmak isteriz."
+    },
+    {
+      "id": "2a13701b",
+      "bank_id": "c0b3b600",
+      "text": "Hobbe'leri durdurmak için bundan daha iyi bir savunma gerekecek."
+    },
+    {
+      "id": "2abf90bd",
+      "bank_id": "c0b3b600",
+      "text": "MU: O atış hedefi vurdu. Üstelik oldukça yumuşak ve çirkin bir hedefi. MAD: Hiç komik değil."
+    },
+    {
+      "id": "2b13718e",
+      "bank_id": "c0b3b600",
+      "text": "MU: Bu minicik mahlukat için etkileyici bir darbe. MAD: Yürü, yürü be!"
+    },
+    {
+      "id": "2c418cf0",
+      "bank_id": "c0b3b600",
+      "text": "Bu kadar isabetli vurmak için saatlerce antrenman yapıyor olmalı!"
+    },
+    {
+      "id": "2c418cfb",
+      "bank_id": "c0b3b600",
+      "text": "Bu kadar isabetli vurmak için saatlerce antrenman yapıyor olmalı!"
+    },
+    {
+      "id": "2ed5e2ab",
+      "bank_id": "c0b3b600",
+      "text": "Bu hobbe'ler İkinci Tur'dakilerden çok daha dişli, kendiniz de görüyorsunuz!"
+    },
+    {
+      "id": "2f13783a",
+      "bank_id": "c0b3b600",
+      "text": "MAD: Ooy! Ne tatlı değil mi? İyi oturttu ama. MU: Tuhaf bir adamsın vesselam Kuduz."
+    },
+    {
+      "id": "2fd5e41e",
+      "bank_id": "c0b3b600",
+      "text": "İşte böyle! Yapıştır! Yani, sevimsiz küçük yaratıktan hoş bir saldırı."
+    },
+    {
+      "id": "301379ad",
+      "bank_id": "c0b3b600",
+      "text": "Bir hobbe hücumu! Şunun gidişine bir bakın!"
+    },
+    {
+      "id": "30d5e5f1",
+      "bank_id": "c0b3b600",
+      "text": "İşte sadece bodur bir canavarın indirebileceği türden bir darbe!"
+    },
+    {
+      "id": "31d5e764",
+      "bank_id": "c0b3b600",
+      "text": "MU: Çirkin olabilirler ama en iyiler kadar sert vurabilirler. MAD: Şey, \"çirkin\" lafı biraz ağır oldu..."
+    },
+    {
+      "id": "39e87754",
+      "bank_id": "c0b3b600",
+      "text": "O hobbe büyüsü onu tamamen hazırlıksız yakaladı!"
+    },
+    {
+      "id": "39e8775f",
+      "bank_id": "c0b3b600",
+      "text": "O hobbe büyüsü onu tamamen hazırlıksız yakaladı!"
+    },
+    {
+      "id": "3f1b70f4",
+      "bank_id": "c0b3b600",
+      "text": "MU: Hadi ama, \"Kahraman\". Ne bekliyon daha? Öldürsene şu haydutları! Kan görmek istiyom ben! MAD: Tek düşündüğün şey bu zaten! Kan! Peki ya ben? Ya benim ihtiyaçlarım?!"
+    },
+    {
+      "id": "401b7267",
+      "bank_id": "c0b3b600",
+      "text": "MU: Bağırsaklar! Sakatatlar! Vahşet! Cerahatli taze yaralar! <laughs> Aah... uykum geldi. <yawns> <snores>MAD: Tabii, horulda bakalım seni gidi yaşlı soytarı. Artık hep istediğim şeyi yapabilirim. Şarkı söylemek!"
+    },
+    {
+      "id": "43abfe28",
+      "bank_id": "c0b3b600",
+      "text": "Önceki turdaki hobbe'lerden daha dişli olabilirler ama aynı şekilde geberiyorlar."
+    },
+    {
+      "id": "48ac05c7",
+      "bank_id": "c0b3b600",
+      "text": "Hobbe'nin cansız bedeni elbiseli bayat bir patates gibi yere yığılıyor!"
+    },
+    {
+      "id": "49ac07ba",
+      "bank_id": "c0b3b600",
+      "text": "MAD: Tam bir trajedi. Kahrolası bir trajedi... MU: Hadi ama koca oğlan Kuduz, hani bir daha ağlamayacaktın."
+    },
+    {
+      "id": "4aac092d",
+      "bank_id": "c0b3b600",
+      "text": "Şahane bir hamle şu tombul canavarın işini bitiriyor!"
+    },
+    {
+      "id": "4f4ded70",
+      "bank_id": "c0b3b600",
+      "text": "MU: Hiç merhamet göstermiyor, bir çirkin mahlukatı daha ölüme yolluyor. MAD: Bu kadarı da fazla ama."
+    },
+    {
+      "id": "4f4ded7b",
+      "bank_id": "c0b3b600",
+      "text": "MU: Hiç merhamet göstermiyor, bir çirkin mahlukatı daha ölüme yolluyor. MAD: Bu kadarı da fazla ama."
+    },
+    {
+      "id": "55db46c3",
+      "bank_id": "c0b3b600",
+      "text": "Kör bir kurşunla vuruldu! İhtimali nedir bunun ya?"
+    },
+    {
+      "id": "55db46c8",
+      "bank_id": "c0b3b600",
+      "text": "Kör bir kurşunla vuruldu! İhtimali nedir bunun ya?"
+    },
+    {
+      "id": "5a8b42a7",
+      "bank_id": "c0b3b600",
+      "text": "Güzel atış! Bunun için bayağı aşağı nişan alması gerekti."
+    },
+    {
+      "id": "5a8b42ac",
+      "bank_id": "c0b3b600",
+      "text": "Güzel atış! Bunun için bayağı aşağı nişan alması gerekti."
+    },
+    {
+      "id": "6295a995",
+      "bank_id": "c0b3b600",
+      "text": "MAD: O sevimli şeyi yere çalmaya nasıl cüret eder?! MU: Cidden, bazen o kadar gayriciddi oluyorsun ki..."
+    },
+    {
+      "id": "6295a99e",
+      "bank_id": "c0b3b600",
+      "text": "MAD: O sevimli şeyi yere çalmaya nasıl cüret eder?! MU: Cidden, bazen o kadar gayriciddi oluyorsun ki..."
+    },
+    {
+      "id": "6369e411",
+      "bank_id": "c0b3b600",
+      "text": "MU: Nereye nişan alsa mermi tam oraya gidiyor! MAD: Zaten amaç da o değil mi?"
+    },
+    {
+      "id": "6369e41a",
+      "bank_id": "c0b3b600",
+      "text": "MU: Nereye nişan alsa mermi tam oraya gidiyor! MAD: Zaten amaç da o değil mi?"
+    },
+    {
+      "id": "64007e58",
+      "bank_id": "c0b3b600",
+      "text": "Öff! Sert bir darbe ama bu hobbe'ler asla pes etmez. Tabii sırf düzgün konuşamadıkları için pes edemiyorlar ya, neyse."
+    },
+    {
+      "id": "65007fcb",
+      "bank_id": "c0b3b600",
+      "text": "MU: Şu tonton ufaklığa devasa bir darbe! MAD: Tonton değil o bir kere! Sadece tombiş ve zıpır!"
+    },
+    {
+      "id": "67008311",
+      "bank_id": "c0b3b600",
+      "text": "Oradaki hobbe'ye muazzam bir darbe indi!"
+    },
+    {
+      "id": "6a0087ea",
+      "bank_id": "c0b3b600",
+      "text": "MAD: Altta kalmak zorunda değilsin! Sen de vur! MU: Sakin ol bakalım, hani taraf tutmayacaktın artık."
+    },
+    {
+      "id": "74a98cd3",
+      "bank_id": "c0b3b600",
+      "text": "Ah! Zavallı ufaklık! Sana öyle vurmasına izin verme!"
+    },
+    {
+      "id": "74a98cd8",
+      "bank_id": "c0b3b600",
+      "text": "Ah! Zavallı ufaklık! Sana öyle vurmasına izin verme!"
+    },
+    {
+      "id": "86e4d2db",
+      "bank_id": "c0b3b600",
+      "text": "Büyü dediğin işte buna derim ben!"
+    },
+    {
+      "id": "87e4d44e",
+      "bank_id": "c0b3b600",
+      "text": "İrade üzerinde hâkimiyetleri olmayabilir ama bu hobbe'ler doğa büyüsünden fena anlar."
+    },
+    {
+      "id": "88e4d621",
+      "bank_id": "c0b3b600",
+      "text": "MU: Hobbe büyücüsünden enfes bir saldırı. MAD: Fıstıklarına iddiaya girerim ki öyle!"
+    },
+    {
+      "id": "89e4d794",
+      "bank_id": "c0b3b600",
+      "text": "Minik Büyücü tüm Hobbevari güçlerini yarışmacının üstüne salıyor!"
+    },
+    {
+      "id": "99af4361",
+      "bank_id": "c0b3b600",
+      "text": "MU: Bir hobbe'yi daha yaralarken nişanı onu yarı yolda bırakmıyor. MAD: Bana sorarsan tam bir rezalet."
+    },
+    {
+      "id": "99af436a",
+      "bank_id": "c0b3b600",
+      "text": "MU: Bir hobbe'yi daha yaralarken nişanı onu yarı yolda bırakmıyor. MAD: Bana sorarsan tam bir rezalet."
+    },
+    {
+      "id": "9ed17510",
+      "bank_id": "c0b3b600",
+      "text": "Aynen öyle. Tam da Kuduz'un dediği gibi!"
+    },
+    {
+      "id": "9f47b17b",
+      "bank_id": "c0b3b600",
+      "text": "MAD: Lanet olsun o İrade güçlerine! MU: Bir kez daha tamamen tarafsız olduğumuzu yinelemek isterim. Kes şunu Kuduz!"
+    },
+    {
+      "id": "a247b634",
+      "bank_id": "c0b3b600",
+      "text": "O büyü minik canavarcıklara türlü dertler açıyor."
+    },
+    {
+      "id": "a2d17b5c",
+      "bank_id": "c0b3b600",
+      "text": "O patlama bin tanesi gibi yakmış olmalı-- Ah! Bana Çile fıstığı fırlatmayı kes Kuduz! Ziyan edeceksin."
+    },
+    {
+      "id": "a3d17ccf",
+      "bank_id": "c0b3b600",
+      "text": "MU: Şey... fena bir atış değildi. MAD: Ama durun siz daha o Hobbevari saçma tüfekleri görene kadar!"
+    },
+    {
+      "id": "a447b91a",
+      "bank_id": "c0b3b600",
+      "text": "Hadi ama Hobbicikler, çekilin yoldan!"
+    },
+    {
+      "id": "a547ba8d",
+      "bank_id": "c0b3b600",
+      "text": "Hobbe'lerin doğa büyüsü bu yıkıcı İrade gösterisine karşı bir şey yapabilir mi acaba?"
+    },
+    {
+      "id": "a5d18015",
+      "bank_id": "c0b3b600",
+      "text": "O atışın sanki kendine ait bir iradesi vardı! Yok, o tür bir \"İrade\" değil."
+    },
+    {
+      "id": "a9be1ae4",
+      "bank_id": "c0b3b600",
+      "text": "Kalk ayağa da neden yapıldığını göster ona!"
+    },
+    {
+      "id": "a9be1aef",
+      "bank_id": "c0b3b600",
+      "text": "Kalk ayağa da neden yapıldığını göster ona!"
+    },
+    {
+      "id": "acd18b1a",
+      "bank_id": "c0b3b600",
+      "text": "Zınk! Hobbe'de bir delik daha!"
+    },
+    {
+      "id": "adb66900",
+      "bank_id": "c0b3b600",
+      "text": "MU: Böylesi bloklarla hobbe'ler çileden çıkıyor olmalı! MAD: Ben çıkıyorum şahsen."
+    },
+    {
+      "id": "add18c8d",
+      "bank_id": "c0b3b600",
+      "text": "Oooh. Kuduz bundan zevk alacaksın demedi ki! Daha fazla bakamayacağım."
+    },
+    {
+      "id": "aeb66af3",
+      "bank_id": "c0b3b600",
+      "text": "MU: Peki şu bloğa ne dedin bakalım? MAD: Bana sorarsan hiç adil değil..."
+    },
+    {
+      "id": "afb66c66",
+      "bank_id": "c0b3b600",
+      "text": "Hobbe'nin saldırısını durduran harika bir blok!"
+    },
+    {
+      "id": "b5e6ff3c",
+      "bank_id": "c0b3b600",
+      "text": "İşte geliyorlar! Hobbe'ler, hobbe'ler ve daha fazla hobbe!"
+    },
+    {
+      "id": "b7e70202",
+      "bank_id": "c0b3b600",
+      "text": "Son bir hobbe dalgası hücum ediyor!"
+    },
+    {
+      "id": "b8e703f5",
+      "bank_id": "c0b3b600",
+      "text": "Ve hobbe'ler gelmeye devam ediyor!"
+    },
+    {
+      "id": "c4549471",
+      "bank_id": "c0b3b600",
+      "text": "Böyle darbe almaya devam ederlerse bu minik hobbe'ler fazla dayanamaz. Kusura bakma Kuduz."
+    },
+    {
+      "id": "c55495e4",
+      "bank_id": "c0b3b600",
+      "text": "MAD: Bu hiç adil değildi! Ayakkabılarına bakıyordu o sırada! MU: Nedir senin bu hobbe'lerle alıp veremediğin?"
+    },
+    {
+      "id": "c6549757",
+      "bank_id": "c0b3b600",
+      "text": "MU: Ah! Pek etkili bir darbe! MAD: Hadi be ufaklık! Sen de vur!"
+    },
+    {
+      "id": "c75498ca",
+      "bank_id": "c0b3b600",
+      "text": "O yumuşak hobbe göbeği bu eziyete daha fazla dayanamaz!"
+    },
+    {
+      "id": "cb0156ac",
+      "bank_id": "c0b3b600",
+      "text": "Şu gazın içinde bir şey görmek çok zor doğrusu. Daha mı yoğunlaştı ne? Sanki tam gözlerimin önünde! Hık!"
+    },
+    {
+      "id": "ceea0724",
+      "bank_id": "c0b3b600",
+      "text": "O darbeden sonra bir daha bir hobbe'yi asla hafife almaz!"
+    },
+    {
+      "id": "ceea072f",
+      "bank_id": "c0b3b600",
+      "text": "O darbeden sonra bir daha bir hobbe'yi asla hafife almaz!"
+    },
+    {
+      "id": "d0d92d80",
+      "bank_id": "c0b3b600",
+      "text": "O sevimli minik şeyi nasıl vurabilir? Resmen gaddarlık bu."
+    },
+    {
+      "id": "d0d92d8b",
+      "bank_id": "c0b3b600",
+      "text": "O sevimli minik şeyi nasıl vurabilir? Resmen gaddarlık bu."
+    },
+    {
+      "id": "da46cbe8",
+      "bank_id": "c0b3b600",
+      "text": "O büyünün etkisini ta kemiklerimde hissedebiliyorum!"
+    },
+    {
+      "id": "db46cd5b",
+      "bank_id": "c0b3b600",
+      "text": "Hobbe bu İrade gücü gösterisinden sonra serseme döndü. Bende zerre irade yok gerçi. Bu \"Çile Fıstıkları\"nı yemekten bir türlü kendimi alamıyorum."
+    },
+    {
+      "id": "dd46d0a1",
+      "bank_id": "c0b3b600",
+      "text": "Kudretli bir İrade patlaması hobbe'yi tam altı metre uçuruyor! Belki yedi bile olabilir!"
+    },
+    {
+      "id": "e046d57a",
+      "bank_id": "c0b3b600",
+      "text": "MU: Bu sarsıcı İrade gösterisi hobbe'leri fena cezalandırıyor! MAD: Bu kadar keyifli söylemene gerek yok herhalde."
+    },
+    {
+      "id": "e4b1164b",
+      "bank_id": "c0b3b600",
+      "text": "E bu da bir ilk! Bir hobbe'den blok! Hadi bunu peş peşe beş kere hızlıca söyleyin bakalım."
+    },
+    {
+      "id": "e560a5b1",
+      "bank_id": "c0b3b600",
+      "text": "İrade üzerindeki hâkimiyeti görülmeye değer. Ben bilirim, az önce gördüm çünkü!"
+    },
+    {
+      "id": "e560a5ba",
+      "bank_id": "c0b3b600",
+      "text": "İrade üzerindeki hâkimiyeti görülmeye değer. Ben bilirim, az önce gördüm çünkü!"
+    },
+    {
+      "id": "e64e2466",
+      "bank_id": "c0b3b600",
+      "text": "Aah! Orada öyle bir tokat patlattı ki! Az kalsın dolgularım düşüyordu!"
+    },
+    {
+      "id": "e64e246d",
+      "bank_id": "c0b3b600",
+      "text": "Aah! Orada öyle bir tokat patlattı ki! Az kalsın dolgularım düşüyordu!"
+    },
+    {
+      "id": "e8fc3408",
+      "bank_id": "c0b3b600",
+      "text": "Kuduz Diyor ki: Menzilli silahlar kullanın."
+    },
+    {
+      "id": "ef706ea3",
+      "bank_id": "c0b3b600",
+      "text": "Bir hobbe'yi daha havaya uçuruyor. O homurtuyu ta Bowerstone'dan duyacaklar! Şey, dur bakayım... yok, aslında epey sessizdi."
+    },
+    {
+      "id": "ef706ea8",
+      "bank_id": "c0b3b600",
+      "text": "Bir hobbe'yi daha havaya uçuruyor. O homurtuyu ta Bowerstone'dan duyacaklar! Şey... dur bakayım... yok, aslında epey sessizdi."
+    },
+    {
+      "id": "f6f6f0d7",
+      "bank_id": "c0b3b600",
+      "text": "Ooh, kendisine söyleneni yapmayı kesinlikle biliyor!"
+    },
+    {
+      "id": "f6f6f0dc",
+      "bank_id": "c0b3b600",
+      "text": "Ooh, kendisine söyleneni yapmayı kesinlikle biliyor!"
+    },
+    {
+      "id": "fef78e50",
+      "bank_id": "c0b3b600",
+      "text": "MU: Müthiş bir darbe minik canavarı yere seriyor! MAD: Durun, ayağa kalkıyor yine."
+    }
+  ]
+}

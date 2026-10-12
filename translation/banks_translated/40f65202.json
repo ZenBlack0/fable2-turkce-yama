@@ -1,0 +1,371 @@
+{
+  "bank_id": "40f65202",
+  "total_strings": 73,
+  "strings": [
+    {
+      "id": "030e6239",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBu masada dostane bir mektup yazmanız pek tavsiye edilmez, zira kâğıt şüphesiz masanın kendine has pis kokulu odun aromasına bulanacaktır. Zehirli mektuplar içinse birebirdir."
+    },
+    {
+      "id": "0c6d0ff2",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBir çete üyesinin paltosu en değerli varlığıydı. Hemen ardından saç jölesi ve nane şekeri gelirdi."
+    },
+    {
+      "id": "0cb975c0",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBu inanılmaz karışım ahırdaki en yapılı boğayı bile balonun en göz alıcı güzeline dönüştürebilir. En azından kısa bir süreliğine. Etkileri bir sonraki uyuyuşunuzda geçer ve kaç iksir içerseniz için birikmez."
+    },
+    {
+      "id": "12296d7b",
+      "bank_id": "40f65202",
+      "text": "Sarı Saç Boyası"
+    },
+    {
+      "id": "13439e8d",
+      "bank_id": "40f65202",
+      "text": "Hav Hav Tasması"
+    },
+    {
+      "id": "1533b452",
+      "bank_id": "40f65202",
+      "text": "Kangren Perisi"
+    },
+    {
+      "id": "1b63fda2",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nPantolonunuz biraz bol mu geliyor? Belinizi genişletmenin zamanı gelmiş olabilir."
+    },
+    {
+      "id": "1d3a31f7",
+      "bank_id": "40f65202",
+      "text": "Güneş Siperi Gözlükler"
+    },
+    {
+      "id": "2316a7e2",
+      "bank_id": "40f65202",
+      "text": "Knothole Kırmızısı Boya"
+    },
+    {
+      "id": "23f83c8b",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nModern kadınlarda nadiren görülse de, bir zamanlar adanın en yaygın eteğiydi. Üstelik sadece kadın nüfusu arasında da değil."
+    },
+    {
+      "id": "25956378",
+      "bank_id": "40f65202",
+      "text": "Knothole Kolyesi"
+    },
+    {
+      "id": "295014ee",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBu oldukça belirgin saç stili, Kara Çark Çetesi'nin kurucu üyesi usta ozan Billy Greaser tarafından popüler hale getirilmiştir."
+    },
+    {
+      "id": "3097eca2",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nSaçtan bir şelaleden daha çekici ne olabilir ki?\nBu yeni görünüşe kavuşmak için envanterinizden bu kartı kullanmanız yeterlidir."
+    },
+    {
+      "id": "30e868ab",
+      "bank_id": "40f65202",
+      "text": "Koyu Knothole Kırmızısı Boya"
+    },
+    {
+      "id": "36225f8a",
+      "bank_id": "40f65202",
+      "text": "Kızıl Saç Boyası"
+    },
+    {
+      "id": "38f40237",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKimse saf kas görmekten hoşlanmaz. Onu biraz büyülü yağla süsleyin."
+    },
+    {
+      "id": "436e72d0",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKöhnedir, sallanır, eğridir. Kısacası, dengesizlik eşanlamlılarının bir madenidir."
+    },
+    {
+      "id": "47fa27dc",
+      "bank_id": "40f65202",
+      "text": "Eşsiz Aksesuar"
+    },
+    {
+      "id": "4bd448e3",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBu harika, saç diplerini canlandıran, gençleştiren ve yaşlanmayı tersine çeviren iksirle zamanı geri sarın ve genç, yakışıklı günlerinizi yeniden keşfedin!"
+    },
+    {
+      "id": "4c87d2f2",
+      "bank_id": "40f65202",
+      "text": "Çekici bir kıyafet"
+    },
+    {
+      "id": "52179214",
+      "bank_id": "40f65202",
+      "text": "Dekoratif Çalışma Masası"
+    },
+    {
+      "id": "55e25aba",
+      "bank_id": "40f65202",
+      "text": "Kara Çark Çetesi Pantolonu"
+    },
+    {
+      "id": "56516857",
+      "bank_id": "40f65202",
+      "text": "Lüks Çalışma Masası"
+    },
+    {
+      "id": "62ea8a0a",
+      "bank_id": "40f65202",
+      "text": "Knothole Mavisi Boya"
+    },
+    {
+      "id": "68eef4e2",
+      "bank_id": "40f65202",
+      "text": "Derin Cilt Güzellik Bakımı"
+    },
+    {
+      "id": "6b9b0db3",
+      "bank_id": "40f65202",
+      "text": "Knothole Şövalyesi Gömleği"
+    },
+    {
+      "id": "6bc96580",
+      "bank_id": "40f65202",
+      "text": "Kara Çark Çetesi Çizmeleri"
+    },
+    {
+      "id": "6fceb099",
+      "bank_id": "40f65202",
+      "text": "Kara Çark Çetesi Gömleği"
+    },
+    {
+      "id": "7029cab0",
+      "bank_id": "40f65202",
+      "text": "Knothole Şövalyesi Kıyafeti"
+    },
+    {
+      "id": "77f0d646",
+      "bank_id": "40f65202",
+      "text": "Koyu Knothole Yeşili Boya"
+    },
+    {
+      "id": "787614c9",
+      "bank_id": "40f65202",
+      "text": "Dr. Winkle'in Kırışıklıklara Son Toniği"
+    },
+    {
+      "id": "7983b8ef",
+      "bank_id": "40f65202",
+      "text": "Knothole Yeşili Boya"
+    },
+    {
+      "id": "7d2aee95",
+      "bank_id": "40f65202",
+      "text": "Tombul İksiri"
+    },
+    {
+      "id": "7ebcde4d",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nSaç renklendiricilerinin en albenilisi olmayabilir ancak başınızda biraz kumral ton bulunmasıyla asla yanılmazsınız.\nKıyafetlerde de kullanılabilir. Tüysüz olanlarda bile."
+    },
+    {
+      "id": "86965803",
+      "bank_id": "40f65202",
+      "text": "Kumral Saç Boyası"
+    },
+    {
+      "id": "8d06a954",
+      "bank_id": "40f65202",
+      "text": "Greaser Peruğu"
+    },
+    {
+      "id": "8eb6634f",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nEvcil hayvanınızın kraliyet kafa kesme törenlerine, ödül merasimlerine ve misafir konferanslarına katılması gereken o özel günler için. Akşam ziyafetlerinde tercihe bağlıdır."
+    },
+    {
+      "id": "98fc6fd0",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nAlbion'un mideyi en çok kavuran alkolü. Bu ipeksi asidi yudumlayanların periler, yürüyen laleler ve bisküvi pişiren minik insanlar gibi aslında var olmayan şeyler görmesi muhtemeldir."
+    },
+    {
+      "id": "9a22858a",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBu kadim ve son derece değerli mücevher, Knothole kabilesinin en büyük hazinesiydi. Adaya ilk yerleştiklerinde kutsal kabul edilirdi, gerçi son zamanlarda hüküm süren Şef için şatafatlı bir aksesuardan başka bir şey olmaktan çıkmıştır."
+    },
+    {
+      "id": "9b6d109f",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nEvinize mutlaka bir asalet katmayacaktır ancak bu masa en azından ziyaretçilerinize kalem tutmayı bildiğinizi inandırmaya yetecektir."
+    },
+    {
+      "id": "a1c76d2d",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKnothole Glade mucidi Gordon bir gün güneşin kalbine uçmaya karar verdiğinde, parıltıya karşı bir tür korumaya ihtiyacı olacağını düşündü. Bu gözlükler hiçbir zaman asıl amacı doğrultusunda kullanılmamış olsa da popüler Gözlerimin Ne Renk Olduğunu Bil oyununun oyuncuları için hayli faydalı oldu."
+    },
+    {
+      "id": "a2cea9b7",
+      "bank_id": "40f65202",
+      "text": "Yöresel bir zırh"
+    },
+    {
+      "id": "a72e58b0",
+      "bank_id": "40f65202",
+      "text": "Tatil Kiloları İksiri"
+    },
+    {
+      "id": "abfa0299",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nDaha çok eğlenin, kafanızı tüm zekice düşüncelerden arındırın ve parlak buklelerinizi bu ışıltılı boyaya batırarak sarışınlık hakkındaki ön yargıların tadını çıkarın.\nKıyafetlerde de kullanılabilir. Tüysüz olanlarda bile."
+    },
+    {
+      "id": "ad333569",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBu boyanın yüksek oranda hayvan kanı içerdiğine dair uzun süredir söylentiler vardır. Bu söylentiler tamamen asılsızdır. Aslında insan kanıdır."
+    },
+    {
+      "id": "adc8b971",
+      "bank_id": "40f65202",
+      "text": "Knothole Eteği"
+    },
+    {
+      "id": "afc05df4",
+      "bank_id": "40f65202",
+      "text": "Gümüş Tilki İksiri"
+    },
+    {
+      "id": "bab20660",
+      "bank_id": "40f65202",
+      "text": "Kara Çark Çetesi Paltosu"
+    },
+    {
+      "id": "bad0d268",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nHiç kimse kızıl saçlı biri kadar çok sevilmez, takdir edilmez ve hoş görülmez. O halde bugün kızıllar kervanına katılıp saç pigmentasyonunun zirvesini neden tatmayasınız?\nKıyafetlerde de kullanılabilir. Tüysüz olanlarda bile."
+    },
+    {
+      "id": "bc6247b0",
+      "bank_id": "40f65202",
+      "text": "Şelale Saç"
+    },
+    {
+      "id": "bdb91245",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKnothole Adası'ndaki sürekli değişen havaya maruz kalan bitki örtüsü en iyi şekilde kafası karışık olarak tanımlanabilir. Bu boyanın rengi ise en iyi şekilde yeşil olarak tanımlanabilir."
+    },
+    {
+      "id": "beff58b4",
+      "bank_id": "40f65202",
+      "text": "Knothole Şövalyesi Pantolonu"
+    },
+    {
+      "id": "bfa5b752",
+      "bank_id": "40f65202",
+      "text": "Yıpranmış Çalışma Masası"
+    },
+    {
+      "id": "bffed812",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nGörünüşü korkutucu olsa da bu çizmeler çoğunlukla çetenin müzik performansları sırasında tempo tutmak için kullanılırdı; bu esnada epey bir genç kadının bayıldığı bilinirdi."
+    },
+    {
+      "id": "c1fb08a1",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nYarım düzine hobbe'nin koltuk altı kılları sıkılarak yapılmış olabilir, ancak neyse ki hararetle kaynatma ve asidik solüsyonlarla karıştırma işlemi bağlantılı kokuların çoğunu yok eder.\nKıyafetlerde de kullanılabilir. Tüysüz olanlarda bile."
+    },
+    {
+      "id": "c6e128c0",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKnothole Adası sakinleri, canlı renginin başka hiçbir yerde bulunmayan nadir bir tür olan yerel hücum manatisinin gazabını çektiğini fark ettikten sonra yüzyıllar boyunca bu boyayı kullanmaktan kaçındılar."
+    },
+    {
+      "id": "c990298e",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nGençlikten bıktınız mı? Daha ilginç biri olmayı mı dilerdiniz? Artrit ve kulak kıllarının neye benzediğini hep merak mı ettiniz? O halde bu devrim niteliğindeki iksiri dikin kafaya ve yaş yarışında öne geçin."
+    },
+    {
+      "id": "dadea38d",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBir krala, imparatora veya diğer yüksek rütbeli memurlara layık bir çalışma masası. İnsan başında pek iş yapmaz; daha ziyade sakince oturup etrafa zenginlik saçar."
+    },
+    {
+      "id": "db498e4e",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKnothole Adası savaşçıları ilk yok olmaya başladığında, yerel demirci herkes Hava Mabetleri'ne girebilsin diye bu göz alıcı zırhı yarattı. Bu çelik takviyeli pantolon yalnızca köy halkının alt gövde gücündeki feci eksikliği ortaya çıkarmaya yaradı."
+    },
+    {
+      "id": "db7643b3",
+      "bank_id": "40f65202",
+      "text": "Koyu Knothole Mavisi Boya"
+    },
+    {
+      "id": "de45e33b",
+      "bank_id": "40f65202",
+      "text": "Şık bir aksesuar"
+    },
+    {
+      "id": "e1f0ac13",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nÇete üyeleri bazen terli gömleklerini seyircilerin arasına fırlatırdı. Bu durum birçok talihsiz olaya ve \"terli gömleğini üstüme fırlatma\" sözünün doğmasına yol açtı."
+    },
+    {
+      "id": "e45f6fa2",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKnothole Adası savaşçıları ilk yok olmaya başladığında, yerel demirci herkes Hava Mabetleri'ne girebilsin diye bu göz alıcı zırhı yarattı. Ne yazık ki kimse onu yere kapaklanmadan taşıyacak kadar güçlü çıkmadı."
+    },
+    {
+      "id": "e6c42d1b",
+      "bank_id": "40f65202",
+      "text": "Kırık Çalışma Masası"
+    },
+    {
+      "id": "e798fce8",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nHiçbir mavinin Knothole Mavisi ile boy ölçüşemeyeceğini söylerler. Ama bunu söyleyenler de Knothole Adası'ndan zaten, ne bekliyordunuz ki?"
+    },
+    {
+      "id": "ebe827ae",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nBu, büyük yazarların ahşabına işlemiş tarihi içlerine çekip onu yaratan ince işçilikten ilham alarak çalıştıkları türden bir çalışma masasıdır."
+    },
+    {
+      "id": "ef0726b7",
+      "bank_id": "40f65202",
+      "text": "Güzel bir saç modeli"
+    },
+    {
+      "id": "f34e7fcc",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nÜnlü boya üreticisi Risky McFadden, özellikle fena bir soğuk algınlığı çekerken bu tonu yaratmak için ilham almıştı."
+    },
+    {
+      "id": "f817f6f1",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nMehtaplı bir gecenin ortasında Knothole Adası'nın merkezindeki göle bakılırsa ve gözler biraz zorlanarak kısılırsa ve üstüne üstlük biraz da çakırkeyif olunursa, Knothole koyu mavisinin ne kadar harika olabileceği anlaşılır. Elbette insan saçmalamayı bırakıp bunun yerine doğrudan bu boyayı da kullanabilir."
+    },
+    {
+      "id": "f953cb78",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nKara Çark Çetesi üyelerinin pantolon söz konusu olduğunda sadece iki kuralı vardı: \"dar olsun\" ve \"parlak kalsın\"."
+    },
+    {
+      "id": "f9e980a8",
+      "bank_id": "40f65202",
+      "text": "Bu eşya yalnızca Knothole Adası'nda bulunur.\nLeziz bir yiyeceğin tadına varmadan kilo almanın daha iyi bir yolu var mıdır?"
+    },
+    {
+      "id": "fa2e0f17",
+      "bank_id": "40f65202",
+      "text": "Kahverengi Saç Boyası"
+    },
+    {
+      "id": "fffbad7d",
+      "bank_id": "40f65202",
+      "text": "Vasat Çalışma Masası"
+    }
+  ]
+}

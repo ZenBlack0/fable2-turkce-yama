@@ -1,0 +1,581 @@
+{
+  "bank_id": "80bcb600",
+  "total_strings": 115,
+  "strings": [
+    {
+      "id": "03e6346c",
+      "bank_id": "80bcb600",
+      "text": "Sanırım şimdi biraz kestireceğim. Bir iki yüz yıl yeterli olur."
+    },
+    {
+      "id": "04e635df",
+      "bank_id": "80bcb600",
+      "text": "O zamana kadar dünya daha ilginç bir yer olur umarım."
+    },
+    {
+      "id": "06e63925",
+      "bank_id": "80bcb600",
+      "text": "Ah, evet, çok eğlenceli. Artık her şeyi gördüm kesinlikle."
+    },
+    {
+      "id": "06ec6e21",
+      "bank_id": "80bcb600",
+      "text": "Parmaklıklı kapıyı açmak istiyor musunuz?"
+    },
+    {
+      "id": "08a670d8",
+      "bank_id": "80bcb600",
+      "text": "Gel. Daha yakına gel. Çoğu faniye layık olmayan hazineler tutuyorum."
+    },
+    {
+      "id": "08ecb6b8",
+      "bank_id": "80bcb600",
+      "text": "İki sevdalı arasında şefkatli bir evlilik teklifidir tek istediğim. Böyle bir manzara kesinlikle acımın kilidini açacaktır."
+    },
+    {
+      "id": "0aa6743e",
+      "bank_id": "80bcb600",
+      "text": "Bedelin ne olduğunu merak ediyorsun... Tek istediğim eğlenmen. Evet, işte bu. Kendini zevk veren her şeye bırak, açılacak kapın olayım."
+    },
+    {
+      "id": "0ba67591",
+      "bank_id": "80bcb600",
+      "text": "İçeri girip görmek isterdin, değil mi? Ah evet, açgözlülüğünü hissedebiliyorum... Güzel, güzel."
+    },
+    {
+      "id": "0da678f7",
+      "bank_id": "80bcb600",
+      "text": "İstediğin kadar ye, istediğin kadar iç, istediğin kadar uyu, tenin arzularına teslim ol. Bunu hak ediyorsun. Sen diğer herkesten daha iyisin. Evet. Evet."
+    },
+    {
+      "id": "0db01aa4",
+      "bank_id": "80bcb600",
+      "text": "Kulaklarını mı tırmalıyorum yoksa?"
+    },
+    {
+      "id": "0f3a11ef",
+      "bank_id": "80bcb600",
+      "text": "Anlamsız insan numaralarınla vaktimi harcama. Benim görmek istediğim şey o köpek."
+    },
+    {
+      "id": "103a1342",
+      "bank_id": "80bcb600",
+      "text": "İnan bana, bir erkeğin ya da kadının sergilediği her türlü ahmaklığı gördüm. Onun yerine şu tüylü canavara bir şeyler yaptır."
+    },
+    {
+      "id": "10b01f7d",
+      "bank_id": "80bcb600",
+      "text": "Geri döneceksin. Karşı koyarsan aptallık edersin."
+    },
+    {
+      "id": "113a1535",
+      "bank_id": "80bcb600",
+      "text": "Varlığımın bir saniyesini daha seni izleyerek geçirmek istemiyorum. Şu ufaklık ne âlemde peki?"
+    },
+    {
+      "id": "140aaf44",
+      "bank_id": "80bcb600",
+      "text": "Benimle konuşmanın bir anlamı yok. Bir ponza taşınınki kadar söz zekân olduğunu görebiliyorum."
+    },
+    {
+      "id": "158c4824",
+      "bank_id": "80bcb600",
+      "text": "Lütfen, gerçek aşka bir anlığına tanıklık edeyim, hazinem senin olsun. Hadi ama! Alt tarafı bir öpücük!"
+    },
+    {
+      "id": "1613838c",
+      "bank_id": "80bcb600",
+      "text": "Evlenme teklif etmek istediğin bir sevgilin vardır muhakkak? Lütfen, o anı benimle paylaş!"
+    },
+    {
+      "id": "16c5a208",
+      "bank_id": "80bcb600",
+      "text": "Garth'ın araştırmaları eski evini tehlikeli bir yer hâline getirdi. Kulede uyumaya cesaretiniz var mı?"
+    },
+    {
+      "id": "170ab41d",
+      "bank_id": "80bcb600",
+      "text": "Şu hayvanın çok daha eğlenceli görünüyor. Hadi ama, neler yapabildiğini göster bana."
+    },
+    {
+      "id": "1967916b",
+      "bank_id": "80bcb600",
+      "text": "Selamlar Yüce Olan."
+    },
+    {
+      "id": "1a6792de",
+      "bank_id": "80bcb600",
+      "text": "Taç giyme töreninize katılmak için derhâl Fairfax'a gitmelisiniz."
+    },
+    {
+      "id": "25da5ca3",
+      "bank_id": "80bcb600",
+      "text": "Hoş geldin Kahraman, ya da Albion Kraliçesi mi demeliyim!"
+    },
+    {
+      "id": "25da5ca8",
+      "bank_id": "80bcb600",
+      "text": "Hoş geldin Kahraman, ya da Albion Kralı mı demeliyim!"
+    },
+    {
+      "id": "26090eb4",
+      "bank_id": "80bcb600",
+      "text": "Neden?! Neden aşk böyle bir ızdırapla karşılaşmak zorunda?! Yalnızlığa ve terk edilmişliğe mi mahkûmuz?"
+    },
+    {
+      "id": "26475fc8",
+      "bank_id": "80bcb600",
+      "text": "Ben insandım. Çok zaman önce. Et yerdim. Çok et."
+    },
+    {
+      "id": "27091027",
+      "bank_id": "80bcb600",
+      "text": "Hayır, bakamam! Sonsuza dek yapayalnız acı çekmeye yazgılıyız!"
+    },
+    {
+      "id": "274761bb",
+      "bank_id": "80bcb600",
+      "text": "Sonra İblis Kapısı oldum. Artık et yok. Sadece aç."
+    },
+    {
+      "id": "27c7507b",
+      "bank_id": "80bcb600",
+      "text": "Bu paha biçilmez mücevher, onun süper en iyi arkadaşı olarak kalmamayı seçtiğinde kırılan Chesty'nin kendi kalbinden bir parçadır."
+    },
+    {
+      "id": "2909130d",
+      "bank_id": "80bcb600",
+      "text": "Ah vahlar olsun, vaaahlar olsun! Böyle bir reddedilmeye dayanamam!"
+    },
+    {
+      "id": "29476481",
+      "bank_id": "80bcb600",
+      "text": "Sen! Lütfen! Et! Çok açım!"
+    },
+    {
+      "id": "2c47695a",
+      "bank_id": "80bcb600",
+      "text": "Lütfen, şimdi et ver!"
+    },
+    {
+      "id": "34d53aac",
+      "bank_id": "80bcb600",
+      "text": "Yakında, çok yakında yalnızca gerçekten yozlaşmış olanların ulaşabileceği aydınlanmaya erişeceksin."
+    },
+    {
+      "id": "35d53c1f",
+      "bank_id": "80bcb600",
+      "text": "Evet! Evet! Artık kendini tutma! Oburluk iyidir! Şehvet iyidir! Tembellik iyidir! Kibir iyidir!"
+    },
+    {
+      "id": "364a7776",
+      "bank_id": "80bcb600",
+      "text": "Gömülü Not"
+    },
+    {
+      "id": "38d540d8",
+      "bank_id": "80bcb600",
+      "text": "Keşfetmen için hazzın daha derin köşeleri var."
+    },
+    {
+      "id": "39d5424b",
+      "bank_id": "80bcb600",
+      "text": "Aklından geçirdiğin her açlığı ve her günahı doyur..."
+    },
+    {
+      "id": "3ad5443e",
+      "bank_id": "80bcb600",
+      "text": "Bir yatakta uykudan çok daha fazla zevk bulunabilir. Ah, hem de çok daha fazla."
+    },
+    {
+      "id": "3bd54591",
+      "bank_id": "80bcb600",
+      "text": "Gördün mü? Kendini ona bıraktığında dünyanın sunacağı ne çok şey olduğunu gördün mü. Çok alçak bir ayartma, çok büyük bir günah yoktur."
+    },
+    {
+      "id": "3dd548f7",
+      "bank_id": "80bcb600",
+      "text": "Kendini çok fazla mahrum bırakıyorsun. Tadını çıkar! Eğlen!"
+    },
+    {
+      "id": "3e7f3fd7",
+      "bank_id": "80bcb600",
+      "text": "Rookridge İblis Kapısı"
+    },
+    {
+      "id": "3ed54a6a",
+      "bank_id": "80bcb600",
+      "text": "Neden başkaları hayattan senden daha fazla şey alsın ki? Neden günlerini çalışarak heba edesin?"
+    },
+    {
+      "id": "3fd54bdd",
+      "bank_id": "80bcb600",
+      "text": "Demek iffetli ve temiz bir hayat sürmenin seni bir yere vardıracağını sanıyorsun? Masaldan ibaret bu."
+    },
+    {
+      "id": "492c8a42",
+      "bank_id": "80bcb600",
+      "text": "Bu anahtar Giles'ın kilerindeki kilitli kapıyı açar."
+    },
+    {
+      "id": "52acf6d1",
+      "bank_id": "80bcb600",
+      "text": "Bu parmaklıklı kapıyı açmak için gereken anahtara sahip değilsiniz."
+    },
+    {
+      "id": "535fe660",
+      "bank_id": "80bcb600",
+      "text": "Dikkat süremin ne kadar kısa olduğunu sanıyorsun? Bunu zaten gördüm."
+    },
+    {
+      "id": "5372fddc",
+      "bank_id": "80bcb600",
+      "text": "Yatakta uyuyun."
+    },
+    {
+      "id": "54119ec1",
+      "bank_id": "80bcb600",
+      "text": "Keder Elması"
+    },
+    {
+      "id": "545fe7d3",
+      "bank_id": "80bcb600",
+      "text": "Lütfen, beni tekrarlarla sıkma."
+    },
+    {
+      "id": "5472ff4f",
+      "bank_id": "80bcb600",
+      "text": "Kulenin tepesindeki yatakta uyuyun."
+    },
+    {
+      "id": "565feb39",
+      "bank_id": "80bcb600",
+      "text": "Ah, ne kadar da sıkıcı. Bunu zaten yaptın."
+    },
+    {
+      "id": "577084d0",
+      "bank_id": "80bcb600",
+      "text": "Kiler Anahtarı"
+    },
+    {
+      "id": "57730408",
+      "bank_id": "80bcb600",
+      "text": "Chesty'yi açın!"
+    },
+    {
+      "id": "57ebd4b0",
+      "bank_id": "80bcb600",
+      "text": "Sözlü âşıklar arasında narin bir öpücüktür tek istediğim. Böyle bir manzara kesinlikle acımın kilidini açacaktır."
+    },
+    {
+      "id": "57fc9763",
+      "bank_id": "80bcb600",
+      "text": "Sözlü sevdalılar arasındaki o ilahî öpücüğün neye benzediğini bir görebilseydim keşke..."
+    },
+    {
+      "id": "587305fb",
+      "bank_id": "80bcb600",
+      "text": "Dev böcekleri öldürün."
+    },
+    {
+      "id": "58fc98d6",
+      "bank_id": "80bcb600",
+      "text": "Bu aşağılık ve alaycı zamanlarda bir tutam romantizm dilemek çok mu yani?"
+    },
+    {
+      "id": "5973076e",
+      "bank_id": "80bcb600",
+      "text": "Sandığa iliştirilmiş bir not daha var gibi görünüyor."
+    },
+    {
+      "id": "59fc9a49",
+      "bank_id": "80bcb600",
+      "text": "Belki de gerçek aşk sahiden öldü ve ben de sonsuza dek kapalı kalacağım."
+    },
+    {
+      "id": "5a6ea137",
+      "bank_id": "80bcb600",
+      "text": "Eh, bunu daha önce hiç görmediğimi kesinlikle söyleyebilirim."
+    },
+    {
+      "id": "5a7308c1",
+      "bank_id": "80bcb600",
+      "text": "Bu sandığa iliştirilmiş bir not var gibi görünüyor."
+    },
+    {
+      "id": "5b6ea2aa",
+      "bank_id": "80bcb600",
+      "text": "Bir tane daha!"
+    },
+    {
+      "id": "5b730ab4",
+      "bank_id": "80bcb600",
+      "text": "Sandığı açın."
+    },
+    {
+      "id": "5d6d24de",
+      "bank_id": "80bcb600",
+      "text": "Ha ha ha. Yozlaşmayı bir sanata dönüştürdün! Sen tecessüm etmiş ahlaksızlıksın! Gir içeri, gir. Ödülün seni bekliyor."
+    },
+    {
+      "id": "5d730d9a",
+      "bank_id": "80bcb600",
+      "text": "Geri gelin."
+    },
+    {
+      "id": "5e730f0d",
+      "bank_id": "80bcb600",
+      "text": "Gidin buradan!"
+    },
+    {
+      "id": "622e472d",
+      "bank_id": "80bcb600",
+      "text": "Giles'ın Mektubu"
+    },
+    {
+      "id": "625a6bb6",
+      "bank_id": "80bcb600",
+      "text": "Garth'ın Notu"
+    },
+    {
+      "id": "668cfc7c",
+      "bank_id": "80bcb600",
+      "text": "Bir tane daha yapabilirse geçmene izin vereceğim."
+    },
+    {
+      "id": "67e85826",
+      "bank_id": "80bcb600",
+      "text": "Şu kürklü şey hiç numara bilmiyor mu?"
+    },
+    {
+      "id": "698d0135",
+      "bank_id": "80bcb600",
+      "text": "Birkaç bin yıl beklediğime neredeyse değdi."
+    },
+    {
+      "id": "6c9ad250",
+      "bank_id": "80bcb600",
+      "text": "Hey. Sen. Orada zıp zıp zıplayan o kürklü şey de ne?"
+    },
+    {
+      "id": "6d9ad3c3",
+      "bank_id": "80bcb600",
+      "text": "Binlerce yıldır burada oturuyorum ve her şeyi gördüm."
+    },
+    {
+      "id": "6e9ad5b6",
+      "bank_id": "80bcb600",
+      "text": "Bu dünya öyle sıkıcı ki!"
+    },
+    {
+      "id": "719ada0f",
+      "bank_id": "80bcb600",
+      "text": "Bu acı tekdüzeliği kıracak herhangi bir şey olsun yeter."
+    },
+    {
+      "id": "729adbe2",
+      "bank_id": "80bcb600",
+      "text": "Eğlenceli bir şeyler yaptır ona."
+    },
+    {
+      "id": "739add55",
+      "bank_id": "80bcb600",
+      "text": "Numara yapabiliyor mu?"
+    },
+    {
+      "id": "866583c8",
+      "bank_id": "80bcb600",
+      "text": "Kendini günaha ve hazza bırak, belki o zaman sırlarımı sana açarım."
+    },
+    {
+      "id": "91392169",
+      "bank_id": "80bcb600",
+      "text": "Chesty'nin Vedası"
+    },
+    {
+      "id": "91a7ee1c",
+      "bank_id": "80bcb600",
+      "text": "Geçmişimin şiddetini burada ebediyete uğurluyorum. Bir muhafız olarak bir ömre yetecekten fazla kan döküldüğünü gördüm. Şimdi aile ve huzur vaktidir. Bu çiftliğin üzerine kurulduğu zindan, bu en ölümcül silah için en uygun yer gibi görünüyor. Eğer biri bunu bulursa, iyilik için kullanmasını ve asla masum kanı dökmemesini rica ediyorum."
+    },
+    {
+      "id": "9352d12a",
+      "bank_id": "80bcb600",
+      "text": "Brightwood Kulesi"
+    },
+    {
+      "id": "9af7f11c",
+      "bank_id": "80bcb600",
+      "text": "Belki de onun yerine nişanlınla arandaki sevgi dolu bir öpücüğe tanık olmama izin verirsin."
+    },
+    {
+      "id": "9df7f5d5",
+      "bank_id": "80bcb600",
+      "text": "Nişanınızın o büyülü anından beni nasıl mahrum edersiniz?"
+    },
+    {
+      "id": "9e3bede8",
+      "bank_id": "80bcb600",
+      "text": "Daha fazla."
+    },
+    {
+      "id": "a13bf2a1",
+      "bank_id": "80bcb600",
+      "text": "Ha ha, aptal bir hayvanın beni eğlendirmek için kendini küçük düşürmesinin o basit zevki gibisi yoktur."
+    },
+    {
+      "id": "a2c72354",
+      "bank_id": "80bcb600",
+      "text": "Aa, selam,\nDiğer arkadaşlarımı incittiğinde beni çok üzüyorsun. Onlar da tıpkı Chesty gibi burada kalmanı istiyor sadece. Burayı sevmedin mi? Köpüşleri sever misin? Ben köpüşlere bayılırım! Hadi köpüşlerle oynayalım!\nChesty"
+    },
+    {
+      "id": "a30e863b",
+      "bank_id": "80bcb600",
+      "text": "Ah, ne kadar da enfes bir maskaralık."
+    },
+    {
+      "id": "a40e87ae",
+      "bank_id": "80bcb600",
+      "text": "Başka ne yapabiliyor?"
+    },
+    {
+      "id": "aa19d96c",
+      "bank_id": "80bcb600",
+      "text": "Brightwood Kulesi'ni satın alın."
+    },
+    {
+      "id": "ac3eb988",
+      "bank_id": "80bcb600",
+      "text": "Bu aşağılık ve alaycı zamanlarda bir tutam romantizm dilemek çok mu yani?"
+    },
+    {
+      "id": "ad3ebb7b",
+      "bank_id": "80bcb600",
+      "text": "Belki de gerçek aşk sahiden öldü ve ben de sonsuza dek kapalı kalacağım."
+    },
+    {
+      "id": "af3ebe41",
+      "bank_id": "80bcb600",
+      "text": "Ah, sevgililerden birinin kalbini ve yüzüğü sunup sonsuza dek sevme sözü verdiği o özel âna tanık olabilsem keşke."
+    },
+    {
+      "id": "b4980363",
+      "bank_id": "80bcb600",
+      "text": "Zevk olmadıktan sonra hayatın ne anlamı var?"
+    },
+    {
+      "id": "b59804d6",
+      "bank_id": "80bcb600",
+      "text": "Kendini frenlemek zayıflar ve ahmaklar içindir."
+    },
+    {
+      "id": "b6980649",
+      "bank_id": "80bcb600",
+      "text": "Bu hayattan sonra hiçbir mükâfat yok, o yüzden neden kendimizi herhangi bir şeyden mahrum bırakalım ki?"
+    },
+    {
+      "id": "b798083c",
+      "bank_id": "80bcb600",
+      "text": "Hiçbir şey tabu değildir. Ağır çalışma ve nefse hâkimiyet hariç."
+    },
+    {
+      "id": "b89809af",
+      "bank_id": "80bcb600",
+      "text": "Birazcık yaşama. Doya doya yaşa."
+    },
+    {
+      "id": "bdb9765c",
+      "bank_id": "80bcb600",
+      "text": "İlgilisine,\nBu kulenin tepesinde gizemlerini henüz tam olarak çözemediğim bir yatak var. Son derece tekinsiz bir eşyadır. Orada bir gece geçirirken dikkatli olun. Rüyalarınızı alıştığınızdan çok daha tehlikeli bulabilirsiniz.\nSaygılarımla, Garth."
+    },
+    {
+      "id": "c1f0ca57",
+      "bank_id": "80bcb600",
+      "text": "Chesty'nin Süper En İyi Arkadaşlar Kulübü"
+    },
+    {
+      "id": "c6d69e1e",
+      "bank_id": "80bcb600",
+      "text": "Bin yıldır beklediğim şey bu muydu yani? Alık bir Kahraman ve işe yaramaz bir sokak köpeği mi? Bir şeyler yapın!"
+    },
+    {
+      "id": "c6f60f37",
+      "bank_id": "80bcb600",
+      "text": "Giles'ın mezara gömdüğü nesneyi bulun."
+    },
+    {
+      "id": "c711648e",
+      "bank_id": "80bcb600",
+      "text": "Chesty'nin Enik Barınağı"
+    },
+    {
+      "id": "c7d69ff1",
+      "bank_id": "80bcb600",
+      "text": "Ne kadar sıkıldığımı söylemiş miydim? Epey sıkıldım hem de!"
+    },
+    {
+      "id": "c7f610aa",
+      "bank_id": "80bcb600",
+      "text": "Kilerdeki kapıyı açın."
+    },
+    {
+      "id": "c8d6a164",
+      "bank_id": "80bcb600",
+      "text": "Bir şeyler yapmayı biliyor değil mi? Yoksa o da senin kadar kıt akıllı mı?"
+    },
+    {
+      "id": "c9d6a2d7",
+      "bank_id": "80bcb600",
+      "text": "Açılmamı istiyorsan beni eğlendirmek zorundasın. Arkamda değerli bir şeylerin saklı olduğuna adım gibi eminim. Ne olduğunu tam bilmiyorum gerçi. Unuttum."
+    },
+    {
+      "id": "cbd6a63d",
+      "bank_id": "80bcb600",
+      "text": "Hadi ama, öyle dikilip durma. Can sıkıntısından öleceğim."
+    },
+    {
+      "id": "d4f28450",
+      "bank_id": "80bcb600",
+      "text": "Kaçmak için Chesty'ye karşı akıl savaşını kazanın."
+    },
+    {
+      "id": "dd963916",
+      "bank_id": "80bcb600",
+      "text": "Ah, böyle bir aşka birkaç saniyeliğine bile olsa tanıklık etmek ruhumu neşeyle doldururdu."
+    },
+    {
+      "id": "dd9f78ef",
+      "bank_id": "80bcb600",
+      "text": "Çiftliğin hak sahibine. Üst kattaki bir dolabın çekmecesine kiler kapısının anahtarını bıraktım. Onu kullanmamanızı ve o kapının ardındaki mezarı rahatsız etmemenizi rica ediyorum. Geçmişimin şiddeti orada gömülüdür ve öyle kalmasını tercih ederim."
+    },
+    {
+      "id": "df963c7c",
+      "bank_id": "80bcb600",
+      "text": "Taştan kalbime adını kazıdın, sonra da yokluğunun balyozuyla onu paramparça ettin. Ah, merhaba."
+    },
+    {
+      "id": "e0963def",
+      "bank_id": "80bcb600",
+      "text": "Benimkinden daha gerçek ve saf bir aşkı asla tatmadığına bahse girerim."
+    },
+    {
+      "id": "e10b83c5",
+      "bank_id": "80bcb600",
+      "text": "Görmek için yanıp tutuştuğum tek şey sevgi dolu bir öpücük ya da şefkatli bir evlilik teklifi. Bu acımasız dünyadan çok şey mi istiyorum yani?"
+    },
+    {
+      "id": "e2964135",
+      "bank_id": "80bcb600",
+      "text": "Ah, Rosalia! Neden terk ettin beni?"
+    },
+    {
+      "id": "e4981e83",
+      "bank_id": "80bcb600",
+      "text": "Eskiden Chesty'nin Süper En İyi Arkadaşı olan ama artık olmayan sevgili yabancı,\nBizi ziyarete geldiğin için hepimiz o kadar mutlu olduk ki ve keşke ama keşke kalsaydın. Ama Chesty sana bir ödül vereceğini söyledi ve Chesty asla yalan söylemez. Güle güle kullan ve ona her baktığında Chesty'yi hatırla. Sensiz o kadar yalnız kalıp öleceğiz ki.\nSevgilerle, Chesty"
+    },
+    {
+      "id": "fabf4c20",
+      "bank_id": "80bcb600",
+      "text": "Ah yaralı kalbim, böyle bir bağlılığa şahit olunca nasıl da sevinçle coşuyor! Hazinemin sana bunun yarısı kadar bile mutluluk getirmesi dileğiyle."
+    }
+  ]
+}

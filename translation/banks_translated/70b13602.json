@@ -1,0 +1,596 @@
+{
+  "bank_id": "70b13602",
+  "total_strings": 118,
+  "strings": [
+    {
+      "id": "18f643cc",
+      "bank_id": "70b13602",
+      "text": "Şimdi Manastır'ı eski haline getirmek için gereken gücü bulmalıyız!"
+    },
+    {
+      "id": "18f643cd",
+      "bank_id": "70b13602",
+      "text": "Bu, Tapınağımızın var olduğu en karanlık an. Ama hayatta kalacağız."
+    },
+    {
+      "id": "18f643cf",
+      "bank_id": "70b13602",
+      "text": "Hammer ve yoldaşının çıktıkları yolculukta yolları açık olsun!"
+    },
+    {
+      "id": "1d606bbe",
+      "bank_id": "70b13602",
+      "text": "Uğurlu taşımı nereye koydum ben ya? Ayinlerde hep yanımda olurdu."
+    },
+    {
+      "id": "239b132d",
+      "bank_id": "70b13602",
+      "text": "Dün gece heyecandan gözümü kırpmadım. Bu ayin bugüne kadarkilerin en iyisi olacak!"
+    },
+    {
+      "id": "2af866f9",
+      "bank_id": "70b13602",
+      "text": "Evet, bu yıl da harika bir hasat aldık. Hepsi Altın Meşe sayesinde."
+    },
+    {
+      "id": "2af866fa",
+      "bank_id": "70b13602",
+      "text": "Altın Meşe şu son birkaç yılda amma serpilip büyüdü değil mi?"
+    },
+    {
+      "id": "31ec4da8",
+      "bank_id": "70b13602",
+      "text": "Oakfield son on yılda gerçekten gelişip serpildi. Hepsi Altın Meşe sayesinde."
+    },
+    {
+      "id": "31ec4daa",
+      "bank_id": "70b13602",
+      "text": "Altın Meşe hayatımızı ışıkla dolduruyor."
+    },
+    {
+      "id": "31ec4dab",
+      "bank_id": "70b13602",
+      "text": "Altın Meşe'nin o eşsiz görkemine şahit oldun mu hiç?"
+    },
+    {
+      "id": "33897470",
+      "bank_id": "70b13602",
+      "text": "Bana sorarsan Lucien artık iyice çizmeyi aştı."
+    },
+    {
+      "id": "33897471",
+      "bank_id": "70b13602",
+      "text": "Bana kalırsa bu İrade kullanıcıları bunu hak ediyor zaten. Doğaya aykırı işler hep."
+    },
+    {
+      "id": "33897472",
+      "bank_id": "70b13602",
+      "text": "Garth hem güçlü bir İrade kullanıcısı hem de tam bir beyefendiydi. Bu hiç hayra alamet değil."
+    },
+    {
+      "id": "33897473",
+      "bank_id": "70b13602",
+      "text": "Garth gibi güçlü birini bile çekip koparabiliyorlarsa hiçbirimiz güvende değiliz demektir."
+    },
+    {
+      "id": "33897474",
+      "bank_id": "70b13602",
+      "text": "Kuledeki şu İrade kullanıcısının sırra kadem bastığını duydum."
+    },
+    {
+      "id": "33897476",
+      "bank_id": "70b13602",
+      "text": "Önce Brightwood Kulesi, peki ya sonra? Buraya da mı saldıracaklar?"
+    },
+    {
+      "id": "33897477",
+      "bank_id": "70b13602",
+      "text": "Bir insan durduk yere niye bir İrade kullanıcısını kaçırsın ki?"
+    },
+    {
+      "id": "3435cd21",
+      "bank_id": "70b13602",
+      "text": "Garth'ı mı kaçırdılar? Sıradaki sen olmayasın sakın!"
+    },
+    {
+      "id": "3435cd22",
+      "bank_id": "70b13602",
+      "text": "Eee, o kulede ne oldu peki? Millet kıyametin koptuğunu söylüyor valla."
+    },
+    {
+      "id": "38897c10",
+      "bank_id": "70b13602",
+      "text": "Lucien millet kaçırıyorsa bana ne ki? Beni kaçıracak hali yok ya."
+    },
+    {
+      "id": "38897c11",
+      "bank_id": "70b13602",
+      "text": "Brightwood zaten buraya bayağı uzak. Benim içim rahat yani."
+    },
+    {
+      "id": "38897c12",
+      "bank_id": "70b13602",
+      "text": "Lucien Garth'ı mı kaçırmış? Olaylar çok endişe verici bir hal alıyor."
+    },
+    {
+      "id": "38897c13",
+      "bank_id": "70b13602",
+      "text": "Lucien'in Garth'la ne işi olabilir ki? Bundan kesin bir hayır çıkmaz."
+    },
+    {
+      "id": "38897c15",
+      "bank_id": "70b13602",
+      "text": "Brightwood artık emniyette mi bari?"
+    },
+    {
+      "id": "38897c16",
+      "bank_id": "70b13602",
+      "text": "Garth'ın ortadan kaybolduğu doğru mu sahiden?"
+    },
+    {
+      "id": "38897c17",
+      "bank_id": "70b13602",
+      "text": "Duyduğuma göre Brightwood Kulesi'ne saldırtan bizzat Lucien'in kendisiymiş."
+    },
+    {
+      "id": "3d35db0c",
+      "bank_id": "70b13602",
+      "text": "Olay yaşandığında sen de oradaydın demek, Brightwood Kulesi'nde ha?"
+    },
+    {
+      "id": "3d35db0f",
+      "bank_id": "70b13602",
+      "text": "Brightwood Kulesi'nin bir anda buharlaşıp yok olduğu doğru mu sahiden?"
+    },
+    {
+      "id": "3e220bbc",
+      "bank_id": "70b13602",
+      "text": "Bize yardım etmek için buradasınız, değil mi?"
+    },
+    {
+      "id": "3e220bbd",
+      "bank_id": "70b13602",
+      "text": "Başkeşiş'in yardımınıza ihtiyacı var."
+    },
+    {
+      "id": "3e220bbf",
+      "bank_id": "70b13602",
+      "text": "Işığa şükür buradasınız. Başkeşiş tehlikede olabilir."
+    },
+    {
+      "id": "4a6f7a8d",
+      "bank_id": "70b13602",
+      "text": "Senin yerinde olsam Brightwood'un çok derinlerine dalmazdım. Aşağılarda pek tuhaf şeyler dönüyor."
+    },
+    {
+      "id": "4a6f7a8e",
+      "bank_id": "70b13602",
+      "text": "Lucien hakkında anlatılanların gerçek olabileceğini düşünüyor musun?"
+    },
+    {
+      "id": "4a7b25bf",
+      "bank_id": "70b13602",
+      "text": "Başkeşiş ayinde bize yardım edecek birini hâlâ bulamadı mı yani?"
+    },
+    {
+      "id": "536f88d8",
+      "bank_id": "70b13602",
+      "text": "Brightwood Kulesi'ne gittin mi hiç?"
+    },
+    {
+      "id": "536f88db",
+      "bank_id": "70b13602",
+      "text": "Garth'ın adını duydun mu hiç? Çok güçlü bir İrade kullanıcısı olduğu söyleniyor."
+    },
+    {
+      "id": "54d4bd69",
+      "bank_id": "70b13602",
+      "text": "Işık Tapınağı'nın ayinleri hakikaten çok ilginç. Antropolojik açıdan bakarsak tabii."
+    },
+    {
+      "id": "54d4bd6a",
+      "bank_id": "70b13602",
+      "text": "Şu keşişlerin peşinde sünepe gibi dolanırken göremezsiniz beni. Tam manasıyla işe yaramazlar."
+    },
+    {
+      "id": "54d4bd6c",
+      "bank_id": "70b13602",
+      "text": "Tapınak hasat ayini telaşıyla çalkalanıyor. Bize yeni bir Altın Meşe lazım. Eskisi kurudu gitti."
+    },
+    {
+      "id": "54d4bd6d",
+      "bank_id": "70b13602",
+      "text": "Su Taşıyıcısı'nı gördün mü hiç? İnan bana, görünce hemen anlarsın zaten."
+    },
+    {
+      "id": "54d4bd6e",
+      "bank_id": "70b13602",
+      "text": "Tapınağa inip ayini seyredeceksin herhalde? Bu sene Altın Meşe'ye sahiden çok ihtiyacımız var."
+    },
+    {
+      "id": "5c098cb9",
+      "bank_id": "70b13602",
+      "text": "Haftalardır bu ayine hazırlanıyorum. Umarım her şey yolunda gider. Altın Meşe'nin yeniden yeşermesi şart."
+    },
+    {
+      "id": "5c098cba",
+      "bank_id": "70b13602",
+      "text": "Başkeşiş'le konuştun mu hiç? Söylenenlere bakılırsa senin gibi birine çok ihtiyacı var."
+    },
+    {
+      "id": "5c098cbb",
+      "bank_id": "70b13602",
+      "text": "Su Taşıyıcısı'nı gördün mü? Su Taşıyıcısı olmadan bu ayini yapamayız."
+    },
+    {
+      "id": "5cd0fa81",
+      "bank_id": "70b13602",
+      "text": "Lucien artık durdurulmalı. Millet ne dolaplar çevirdiğini bilmek istiyor."
+    },
+    {
+      "id": "5cd0fa83",
+      "bank_id": "70b13602",
+      "text": "Herkes Lucien'in saldırısını konuşuyor. Bize de zarar vereceğini düşünmüyorsun, değil mi?"
+    },
+    {
+      "id": "5cd0fa84",
+      "bank_id": "70b13602",
+      "text": "Artık hiçbir yer tekin değil valla. Tapınaklar bile güvende değil!"
+    },
+    {
+      "id": "5cd0fa85",
+      "bank_id": "70b13602",
+      "text": "Bu Lucien denen herifin derdi ne ki acaba?"
+    },
+    {
+      "id": "5dd4cbb8",
+      "bank_id": "70b13602",
+      "text": "Şu keşişler ne dolaplar çeviriyor acaba? Her sene bitmek bilmeyen gizemli ayinleri var..."
+    },
+    {
+      "id": "5dd4cbb9",
+      "bank_id": "70b13602",
+      "text": "Bana sorarsan şu keşişler kutsal su meselesini amma abartıyor ha. Altın Meşe'nin ona cidden ihtiyacı var mı ki?"
+    },
+    {
+      "id": "5dd4cbbb",
+      "bank_id": "70b13602",
+      "text": "Keşişler ayinleri için bir yardımcı arıyor olabilir. Bu yıl birtakım aksilikler çıktığını duydum. Altın Meşe'nin yeşermesine cidden ihtiyacımız var."
+    },
+    {
+      "id": "5dd4cbbc",
+      "bank_id": "70b13602",
+      "text": "Bana göre Işık Tapınağı'nın ayini, modası geçmiş inançların büyüleyici bir tezahürü sadece."
+    },
+    {
+      "id": "5dd4cbbd",
+      "bank_id": "70b13602",
+      "text": "Başkeşiş çok yakın ahbabımdır. Şu sevimli küçük ayini için biraz yardıma ihtiyacı varmış diye duydum."
+    },
+    {
+      "id": "5dd4cbbe",
+      "bank_id": "70b13602",
+      "text": "Ben o keşiş tayfasına hiç güvenmem valla. Kimse durduk yere bu kadar melekleşmez."
+    },
+    {
+      "id": "5dd4cbbf",
+      "bank_id": "70b13602",
+      "text": "Keşişlerin yaptığı bu ayin tam olarak ne işe yarıyor, inan ben de sana söyleyemem."
+    },
+    {
+      "id": "5eb4af94",
+      "bank_id": "70b13602",
+      "text": "Şu sıralar Altın Meşe'yi gördün mü hiç? Sahiden nasıl da serpilip güzelleşmiş."
+    },
+    {
+      "id": "5eb4af96",
+      "bank_id": "70b13602",
+      "text": "Altın Meşe olmasaydı halimiz nice olurdu bilmem."
+    },
+    {
+      "id": "5f493278",
+      "bank_id": "70b13602",
+      "text": "Bizler keşişiz, dövüşçü değiliz ki."
+    },
+    {
+      "id": "5f493279",
+      "bank_id": "70b13602",
+      "text": "Şu asker senin bir tanıdığın mı? Neler dönüyor burada?"
+    },
+    {
+      "id": "5f49327a",
+      "bank_id": "70b13602",
+      "text": "Çabuk olun, tapınakta bir asker var!"
+    },
+    {
+      "id": "5fa49308",
+      "bank_id": "70b13602",
+      "text": "Işık bizi koruyacaktır. İnancımızı yitirmemeliyiz."
+    },
+    {
+      "id": "5fa4930a",
+      "bank_id": "70b13602",
+      "text": "Diyorum sana, Rahibe Hannah'yı korusun diye gönderilmiş biridir sadece. Bence hepsi koca bir yanlış anlama."
+    },
+    {
+      "id": "5fa4930b",
+      "bank_id": "70b13602",
+      "text": "Bu hiç doğru değil. Kesinlikle doğru bir şey değil bu."
+    },
+    {
+      "id": "63b4b7b7",
+      "bank_id": "70b13602",
+      "text": "Altın Meşe ne muazzam bir manzara değil mi? O olmasaydı asla bu kadar zenginleşemezdik."
+    },
+    {
+      "id": "67d10c33",
+      "bank_id": "70b13602",
+      "text": "Lucien Başkeşiş'i öldürmesi için niye birini göndersin ki? Eline ne geçecek yani?"
+    },
+    {
+      "id": "67d10c34",
+      "bank_id": "70b13602",
+      "text": "Şu keşişleri pek sevdiğimi söyleyemem ama Lucien de artık iyice haddini aştı."
+    },
+    {
+      "id": "67d10c35",
+      "bank_id": "70b13602",
+      "text": "Düşünsene bir, Başkeşiş katledildiğinde hayattaydık ha. İleride yaşlanınca çoluk çocuğa anlatacak bir hikâye çıktı bana."
+    },
+    {
+      "id": "6f9023ca",
+      "bank_id": "70b13602",
+      "text": "Bowerstone'dan sağ salim çıkıp gelen kişi o muymuş?"
+    },
+    {
+      "id": "6f9023cb",
+      "bank_id": "70b13602",
+      "text": "Vay be, demek birisi bütün o haydutları atlatıp buralara kadar gelmeyi başardı ha."
+    },
+    {
+      "id": "6f9023cc",
+      "bank_id": "70b13602",
+      "text": "Şu Kahraman buralara kadar gelebilmek için kesin kucak dolusu haydutla cenk etmiştir."
+    },
+    {
+      "id": "8f205638",
+      "bank_id": "70b13602",
+      "text": "Altın Meşe dikildi ya, içim rahatladı valla. Ekinlerimiz artık güvende olur en azından."
+    },
+    {
+      "id": "94205ddb",
+      "bank_id": "70b13602",
+      "text": "Başkeşiş'in Altın Meşe'nin dikildiğini görememiş olması ne acı bir talihsizlik."
+    },
+    {
+      "id": "a795c294",
+      "bank_id": "70b13602",
+      "text": "Bunun bugün mü yaşanması gerekiyordu sanki? Ayini tamamlamak mecburiyetindeyiz."
+    },
+    {
+      "id": "a795c295",
+      "bank_id": "70b13602",
+      "text": "Mağaralara bir koruyucu göndermemesi gerektiğini biliyordum. Kadim metinlere aykırı bu."
+    },
+    {
+      "id": "a795c296",
+      "bank_id": "70b13602",
+      "text": "Bir askerin tapınağımızda ne işi olabilir ki?"
+    },
+    {
+      "id": "aaf33fd5",
+      "bank_id": "70b13602",
+      "text": "Bu seneki ayin öyle mühim ki... Altın Meşe olmazsa Oakfield'in hali perişan olabilir."
+    },
+    {
+      "id": "aaf33fd7",
+      "bank_id": "70b13602",
+      "text": "Altın Meşe'nin en son ne zaman dikildiğini hatırlıyor musun? On yıllardır gördüğümüz en bereketli hasadı almıştık."
+    },
+    {
+      "id": "acaffdb8",
+      "bank_id": "70b13602",
+      "text": "Asker olduğuna emin misin? Belki de öfkeli bir köylüdür sadece."
+    },
+    {
+      "id": "acaffdb9",
+      "bank_id": "70b13602",
+      "text": "Böyle zamanlar insanın ne kadar aciz olduğunu yüzüne vuruyor işte..."
+    },
+    {
+      "id": "acaffdbb",
+      "bank_id": "70b13602",
+      "text": "İçimde çok uğursuz, ışıktan yoksun kötü bir his var."
+    },
+    {
+      "id": "b1f34ad8",
+      "bank_id": "70b13602",
+      "text": "Sence Tapınak yeni bir Altın Meşe yeşertmeyi başarabilecek mi? Umarım başarırlar."
+    },
+    {
+      "id": "b1f34ad9",
+      "bank_id": "70b13602",
+      "text": "Tapınakta yine bir ayin varmış öyle duydum."
+    },
+    {
+      "id": "b1f34ada",
+      "bank_id": "70b13602",
+      "text": "Keşişlerin şu ayinini hep kendi gözlerimle görmek istemişimdir. Ama içeri sokmuyorlar ki beni."
+    },
+    {
+      "id": "b1f34adc",
+      "bank_id": "70b13602",
+      "text": "Keşişlerin kalbi temizdir. Niyetleri son derece iyidir."
+    },
+    {
+      "id": "b1f34adf",
+      "bank_id": "70b13602",
+      "text": "O keşişlerin yanında beni yakalayamazsınız valla. Gerçi içeri kadınları sokmazlar ya. Şu iri kıyım kız haricinde tabii."
+    },
+    {
+      "id": "b298b8ba",
+      "bank_id": "70b13602",
+      "text": "Yok sahiden, Brightwood'daki o kuleyi görmelisin. Daha önce orada olduğundan zerre haberim yoktu."
+    },
+    {
+      "id": "c531a472",
+      "bank_id": "70b13602",
+      "text": "Altın Meşe şu an ufak ama serpilip büyüyecek. Biz de onunla büyüyeceğiz."
+    },
+    {
+      "id": "cc7ea7e8",
+      "bank_id": "70b13602",
+      "text": "Demek Rahibe Hannah artık Hammer oldu ha. Kesin intikam peşine düşecek."
+    },
+    {
+      "id": "cc7ea7ea",
+      "bank_id": "70b13602",
+      "text": "Tapınakta olanları hâlâ aklım almıyor."
+    },
+    {
+      "id": "cc7ea7eb",
+      "bank_id": "70b13602",
+      "text": "Lucien'in askerlerinden birinin Başkeşiş'i öldürdüğüne inanamıyorum. Dünyanın çivisi mi çıktı ne??"
+    },
+    {
+      "id": "cc7ea7ec",
+      "bank_id": "70b13602",
+      "text": "Demek Hannah kendine Hammer diyormuş he? Bana daha çok Fıçı gibi göründü."
+    },
+    {
+      "id": "cc7ea7ed",
+      "bank_id": "70b13602",
+      "text": "O Hannah kızının başına bela açacağını en başından biliyordum zaten."
+    },
+    {
+      "id": "cc7ea7ee",
+      "bank_id": "70b13602",
+      "text": "Böyle bir devirde böyle bir şey nasıl yaşanır akıl alır gibi değil. Hem de bula bula bir tapınakta."
+    },
+    {
+      "id": "cc7ea7ef",
+      "bank_id": "70b13602",
+      "text": "Böyle bir suça asla müsamaha gösterilemez. Bir Tapınak huzur ve ibadet makamıdır!"
+    },
+    {
+      "id": "d031b5a0",
+      "bank_id": "70b13602",
+      "text": "Yeni Altın Meşe'yi gördün mü?"
+    },
+    {
+      "id": "d031b5a3",
+      "bank_id": "70b13602",
+      "text": "Altın Meşe dikildiğine göre artık istikbalimiz güvencede demektir."
+    },
+    {
+      "id": "d17eaf89",
+      "bank_id": "70b13602",
+      "text": "Birinin Başkeşiş'e kıyabildiğine hâlâ inanamıyorum. O kadar iyi yürekli bir adamdı ki."
+    },
+    {
+      "id": "d17eaf8a",
+      "bank_id": "70b13602",
+      "text": "Başkeşiş öldüğüne göre keşişler ne yapacak şimdi?"
+    },
+    {
+      "id": "d17eaf8b",
+      "bank_id": "70b13602",
+      "text": "Rahibe Hannah'yı duydun mu? Şiddetten uzak durma yeminini çoktan rafa kaldırdığına kalıbımı basarım!"
+    },
+    {
+      "id": "d17eaf8c",
+      "bank_id": "70b13602",
+      "text": "Öyle tapınak kuşu falan değilimdir ama Başkeşiş'in başına gelenler düpedüz vicdansızlık."
+    },
+    {
+      "id": "d17eaf8d",
+      "bank_id": "70b13602",
+      "text": "Gördün mü bak, keşiş olsan bile fark etmiyor işte. Bugünlerde hiç kimse güvende değil."
+    },
+    {
+      "id": "d17eaf8e",
+      "bank_id": "70b13602",
+      "text": "Işık Tapınağı'nda yaşananlar düpedüz vahşetti. Tek kelimeyle iğrenç."
+    },
+    {
+      "id": "d17eaf8f",
+      "bank_id": "70b13602",
+      "text": "Başkeşiş'in öldüğüne hâlâ inanamıyorum. Ne büyük bir trajedi."
+    },
+    {
+      "id": "df462f58",
+      "bank_id": "70b13602",
+      "text": "Hepimiz ayin hazırlıklarıyla meşgulüz. Gidip Başkeşiş ile konuşsanıza?"
+    },
+    {
+      "id": "df462f5a",
+      "bank_id": "70b13602",
+      "text": "Kimseye söyleme sakın ama bu ayinin ne hakkında olduğuna dair en ufak bir fikrim bile yok. Kollarımı sağa sola sallasam diğerleri ne yaptığımı biliyorum zanneder herhalde."
+    },
+    {
+      "id": "df462f5b",
+      "bank_id": "70b13602",
+      "text": "Başkeşiş mağaradaki Su Taşıyıcısı'nı koruyacak birini bulabildi mi acaba?"
+    },
+    {
+      "id": "dfedb6ad",
+      "bank_id": "70b13602",
+      "text": "Rahibe Hannah olmadan halimiz nice olur bizim?"
+    },
+    {
+      "id": "dfedb6ae",
+      "bank_id": "70b13602",
+      "text": "Hem Başkeşiş hem Rahibe Hannah olmadan halimiz nice olur bizim?"
+    },
+    {
+      "id": "dfedb6af",
+      "bank_id": "70b13602",
+      "text": "Şu koca Hannah buralardayken insan hep biraz daha güvende hissederdi kendini. Ama artık o da yok."
+    },
+    {
+      "id": "e29225a0",
+      "bank_id": "70b13602",
+      "text": "Ayin için öyle heyecanlıyım ki. Sen de öyle değil misin?"
+    },
+    {
+      "id": "eaedc7dc",
+      "bank_id": "70b13602",
+      "text": "Rahibe Hannah nereye kayboldu ki acaba?"
+    },
+    {
+      "id": "eaedc7de",
+      "bank_id": "70b13602",
+      "text": "Hannah'nın çekip gideceğini ta en başından biliyordum. Buraya hiçbir zaman tam ayak uyduramadı zaten."
+    },
+    {
+      "id": "eaedc7df",
+      "bank_id": "70b13602",
+      "text": "Hannah'nın gittiğine inanamıyorum."
+    },
+    {
+      "id": "f7c13dc5",
+      "bank_id": "70b13602",
+      "text": "Sayenizde Altın Meşe toprağa dikildi."
+    },
+    {
+      "id": "f7c13dc6",
+      "bank_id": "70b13602",
+      "text": "Başkeşiş'i kaybetmiş olabiliriz ama Altın Meşe serpilip büyüyecek."
+    },
+    {
+      "id": "f7c13dc7",
+      "bank_id": "70b13602",
+      "text": "Işık Altın Meşe'nin üzerine parlasın ve ona kudret bahşetsin."
+    },
+    {
+      "id": "fe07b99f",
+      "bank_id": "70b13602",
+      "text": "Su Taşıyıcısı'na mağara boyunca rehberlik edecek birini tez vakitte bulamazsak iş işten geçecek!"
+    },
+    {
+      "id": "fffe6780",
+      "bank_id": "70b13602",
+      "text": "Bize gereken tek şey kutsal su. Ama Su Taşıyıcısı'nın onu almasına kim yardım edecek bilmiyorum."
+    }
+  ]
+}

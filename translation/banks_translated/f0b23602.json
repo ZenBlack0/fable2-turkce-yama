@@ -1,0 +1,496 @@
+{
+  "bank_id": "f0b23602",
+  "total_strings": 98,
+  "strings": [
+    {
+      "id": "013f250f",
+      "bank_id": "f0b23602",
+      "text": "Eskiden bir köpeğin olduğu doğru mu?"
+    },
+    {
+      "id": "263d33d0",
+      "bank_id": "f0b23602",
+      "text": "Sen Lucien'in Kule'sinden döndüğünden beri sokak serserilerinin sayısı daha da arttı."
+    },
+    {
+      "id": "263d33d1",
+      "bank_id": "f0b23602",
+      "text": "İnsanlar Kule'de kapana kısılan o zavallı ruhları senin kurtardığını söylüyor. Teşekkür etmeliyiz herhalde. Sokaklarımızda daha fazla yoksul."
+    },
+    {
+      "id": "263d33d2",
+      "bank_id": "f0b23602",
+      "text": "O Kule'de yaptıkların sayesinde hayatta kalan tanıdıklarım var."
+    },
+    {
+      "id": "263d33d3",
+      "bank_id": "f0b23602",
+      "text": "Kule'den kurtulan bütün o insanları gördün mü? Bir daha asla göremeyeceğimi sandığım o kadar çok eski yüz var ki."
+    },
+    {
+      "id": "263d33d4",
+      "bank_id": "f0b23602",
+      "text": "Ailelerimiz ve dostlarımız sayende kurtuldu. Sen bizim Kahramanımızsın."
+    },
+    {
+      "id": "263d33d5",
+      "bank_id": "f0b23602",
+      "text": "O korkunç Kule'den o kadar çok masum insan kaçtı ki. Bunun senin sayende olduğunu söylüyorlar. Yaptığın şey inanılmaz."
+    },
+    {
+      "id": "263d33d7",
+      "bank_id": "f0b23602",
+      "text": "Kule'deki bütün o zavallı insanlar sayende özgür."
+    },
+    {
+      "id": "2d3d3ed8",
+      "bank_id": "f0b23602",
+      "text": "Bütün o zavallı insanların Kule'den kaçmayı başarması inanılmaz, değil mi?"
+    },
+    {
+      "id": "2d3d3ed9",
+      "bank_id": "f0b23602",
+      "text": "Kardeşim Kule'de kapana kısılmıştı. Onu kurtardığın için sana ne kadar teşekkür etsem az. Bunu nasıl başardın bilmiyorum."
+    },
+    {
+      "id": "2d3d3eda",
+      "bank_id": "f0b23602",
+      "text": "Kule'de bir daha göremeyeceğimi sandığım arkadaşlarım vardı. Nasıl yaptın bilmiyorum ama teşekkür ederim."
+    },
+    {
+      "id": "2d3d3edc",
+      "bank_id": "f0b23602",
+      "text": "Albion, Kule'den serbest kalan mahkûmların istilasından muzdarip."
+    },
+    {
+      "id": "2d3d3edd",
+      "bank_id": "f0b23602",
+      "text": "Keşke Kule'den çıkan bütün o insanlar orada kalsaydı. Sanki yeterince dilencimiz yokmuş gibi."
+    },
+    {
+      "id": "2d3d3ede",
+      "bank_id": "f0b23602",
+      "text": "Bütün o insanların Kule'den senin sayende canlı döndüğü doğru mu? Bu... Bu sahiden etkileyici."
+    },
+    {
+      "id": "2d3d3edf",
+      "bank_id": "f0b23602",
+      "text": "Demek Kule'deki bütün o bahtsızları kurtaran sensin ha? Helal olsun!"
+    },
+    {
+      "id": "467e5e68",
+      "bank_id": "f0b23602",
+      "text": "Bütün o altını Kule'de bir yerlerde bulmuş olmalısın. Çok şüpheli bir durum."
+    },
+    {
+      "id": "467e5e6a",
+      "bank_id": "f0b23602",
+      "text": "Kule'de onca insan ölür ölmez Albion'un en zengin kişisi haline gelmen biraz tuhaf. Sahiden çok tuhaf."
+    },
+    {
+      "id": "467e5e6b",
+      "bank_id": "f0b23602",
+      "text": "Kule'den o kadar çok altınla döndün ki... Ama sahiden, onu nasıl elde ettin?"
+    },
+    {
+      "id": "467e5e6c",
+      "bank_id": "f0b23602",
+      "text": "Hadi ama, bana söyleyebilirsin. O altını Lucien'den aşırdın di mi?"
+    },
+    {
+      "id": "467e5e6d",
+      "bank_id": "f0b23602",
+      "text": "Kule'den o kadar çok altınla döndün ki... Ama sahiden, onu nasıl elde ettin?"
+    },
+    {
+      "id": "467e5e6e",
+      "bank_id": "f0b23602",
+      "text": "Nasıl oldu da bu kadar çabuk böylesine olağanüstü zenginleştin?"
+    },
+    {
+      "id": "467e5e6f",
+      "bank_id": "f0b23602",
+      "text": "Senin gibi sonradan görmelere güvenmem ben. Bu servet nereden geldi?"
+    },
+    {
+      "id": "4b7e6609",
+      "bank_id": "f0b23602",
+      "text": "Kule'de olanlardan ve onca masum ölümden sonra bu kadar zengin olmanı çok garip buluyorum."
+    },
+    {
+      "id": "4b7e660a",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun bilmiyorum ama Kule'de olanlarla bir ilgisi var. Ve kardeşlerim orada öldü."
+    },
+    {
+      "id": "4b7e660b",
+      "bank_id": "f0b23602",
+      "text": "Suçlama yapmıyorum ama onca insanın öldüğü o Kule'ye girmeden önce bu kadar zengin değildin."
+    },
+    {
+      "id": "4b7e660c",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin olduğunu kimse bilmiyor. İyi bir halt yiyerek olmadığı kesin."
+    },
+    {
+      "id": "4b7e660d",
+      "bank_id": "f0b23602",
+      "text": "Bu kadar zengin dönebildiğine göre o Kule'de dönen dolaplar var demektir."
+    },
+    {
+      "id": "4b7e660e",
+      "bank_id": "f0b23602",
+      "text": "Lucien'in Kule'sinde onca insan ölürken senin Albion'daki herkesten daha zengin dönmen bir tesadüf olamaz."
+    },
+    {
+      "id": "4b7e660f",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun bilmiyorum ama Kule'de olanlarla bir ilgisi var. Ve kardeşlerim orada öldü."
+    },
+    {
+      "id": "51442068",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ben sana aile olarak yeterim."
+    },
+    {
+      "id": "51442069",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ben sana aile olarak yeterim."
+    },
+    {
+      "id": "5144206a",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ne kadar korkunç bir şey, tatlım."
+    },
+    {
+      "id": "5144206d",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ne kadar korkunç bir şey, tatlım."
+    },
+    {
+      "id": "5144206e",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ne kadar korkunç bir şey, tatlım."
+    },
+    {
+      "id": "5144206f",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ne kadar korkunç bir şey, tatlım."
+    },
+    {
+      "id": "55cba788",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "55cba78a",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "55cba78b",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "55cba78c",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "55cba78d",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "55cba78f",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "5acbafa9",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "5acbafaa",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "5acbafab",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "5acbafac",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "5acbafad",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "5acbafae",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "5acbafaf",
+      "bank_id": "f0b23602",
+      "text": "Ben... Ne olduğunu pek hatırlamıyorum. Sanki çok uzun zamandır uyuyormuşum gibi."
+    },
+    {
+      "id": "5c443198",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Doğru mu bu?"
+    },
+    {
+      "id": "5c443199",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ne kadar korkunç bir şey, tatlım."
+    },
+    {
+      "id": "5c44319a",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ne kadar korkunç bir şey, tatlım."
+    },
+    {
+      "id": "5c44319b",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ne kadar korkunç bir şey, tatlım."
+    },
+    {
+      "id": "5c44319c",
+      "bank_id": "f0b23602",
+      "text": "Söylenenler doğru mu? Başka bir ailen varmış ama ölmüşler?"
+    },
+    {
+      "id": "5c44319e",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ne kadar korkunç bir şey, tatlım."
+    },
+    {
+      "id": "5c44319f",
+      "bank_id": "f0b23602",
+      "text": "Eskiden başka bir ailen olduğunu ama hepsinin öldüğünü duydum. Ne kadar korkunç bir şey, tatlım."
+    },
+    {
+      "id": "7ec76b27",
+      "bank_id": "f0b23602",
+      "text": "Neler oluyor? Uykum çok gelmişti, sonra bir uyandım ve her şey çok tuhaftı."
+    },
+    {
+      "id": "85c7762a",
+      "bank_id": "f0b23602",
+      "text": "Neler oluyor? Uykum çok gelmişti, sonra bir uyandım ve her şey çok tuhaftı."
+    },
+    {
+      "id": "a5107f92",
+      "bank_id": "f0b23602",
+      "text": "Biri şu lanet köprüyü onardı nihayet."
+    },
+    {
+      "id": "a5107f95",
+      "bank_id": "f0b23602",
+      "text": "Hey, köprüyü onarabilmeleri senin sayende oldu. Sağ olasın!"
+    },
+    {
+      "id": "a89051b0",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "a89051b1",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "a89051b3",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "a89051b4",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "a89051b6",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "a89051b7",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "ac108a99",
+      "bank_id": "f0b23602",
+      "text": "Demek köprü onarıldı ha? Umarım Bowerstone mallarımızı hâlâ istiyordur."
+    },
+    {
+      "id": "ac108a9a",
+      "bank_id": "f0b23602",
+      "text": "Demek yol sonunda açıldı. Belki Bowerstone'u tekrar ziyaret ederim."
+    },
+    {
+      "id": "af905cb0",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha. Yok canım, hiç öyle şey olur mu."
+    },
+    {
+      "id": "af905cb1",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "af905cb2",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canişkom? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "af905cb3",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "af905cb4",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "af905cb5",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "af905cb6",
+      "bank_id": "f0b23602",
+      "text": "Nasıl bu kadar zengin oldun canım? Paran için evlendiğimden değil tabii. Ha ha."
+    },
+    {
+      "id": "d86477a0",
+      "bank_id": "f0b23602",
+      "text": "Ailenizin başına gelenler son derece üzücü bir trajedi."
+    },
+    {
+      "id": "d86477a1",
+      "bank_id": "f0b23602",
+      "text": "Aileni öyle kaybetmek ne korkunç bir darbe. İntikam ateşiyle yanıp tutuşuyor olmalısın."
+    },
+    {
+      "id": "d86477a2",
+      "bank_id": "f0b23602",
+      "text": "Aileni kaybetmiş olman çok korkunç."
+    },
+    {
+      "id": "d86477a3",
+      "bank_id": "f0b23602",
+      "text": "Lucien'in ailene yaptığı şey tam bir alçaklık."
+    },
+    {
+      "id": "d86477a4",
+      "bank_id": "f0b23602",
+      "text": "Aileni kaybetmiş olman çok korkunç."
+    },
+    {
+      "id": "d86477a5",
+      "bank_id": "f0b23602",
+      "text": "Lucien'in ailene yaptıklarını duyduğumda inanamadım. Gerçekten çok üzgünüm."
+    },
+    {
+      "id": "d86477a7",
+      "bank_id": "f0b23602",
+      "text": "Ailen için gerçekten çok üzüldüm."
+    },
+    {
+      "id": "df6482a8",
+      "bank_id": "f0b23602",
+      "text": "Ailenin başına gelenler gerçek bir trajediydi. Üzgünüm."
+    },
+    {
+      "id": "df6482a9",
+      "bank_id": "f0b23602",
+      "text": "Ailenin başına gelenleri duyduğuma çok üzüldüm."
+    },
+    {
+      "id": "df6482aa",
+      "bank_id": "f0b23602",
+      "text": "Ailenin başına gelenler çok korkunçtu."
+    },
+    {
+      "id": "df6482ac",
+      "bank_id": "f0b23602",
+      "text": "Ailenin başına gelenleri duyduğuma çok üzüldüm."
+    },
+    {
+      "id": "df6482ad",
+      "bank_id": "f0b23602",
+      "text": "Ailen için çok üzgünüm. Lucien sahiden kötü bir adam."
+    },
+    {
+      "id": "df6482ae",
+      "bank_id": "f0b23602",
+      "text": "Lucien'in ailene yaptığı korkunç bir şey. Tek kelimeyle korkunç."
+    },
+    {
+      "id": "df6482af",
+      "bank_id": "f0b23602",
+      "text": "Ailenin başına gelenler hakikaten çok korkunç."
+    },
+    {
+      "id": "e31d2210",
+      "bank_id": "f0b23602",
+      "text": "Ailenin öldüğünü sanıyordum? Ama... ama şimdi geri döndüler."
+    },
+    {
+      "id": "e31d2211",
+      "bank_id": "f0b23602",
+      "text": "Ailenin sonuçta ölmemiş olmasına çok seviniyor olmalısın. Yine de nasıl olduğunu hâlâ anlamıyorum."
+    },
+    {
+      "id": "e31d2213",
+      "bank_id": "f0b23602",
+      "text": "Herkes ailenin öldüğünü sanıyordu ama... yaşıyorlar işte. Bayağı mutlu olmalısın."
+    },
+    {
+      "id": "e31d2214",
+      "bank_id": "f0b23602",
+      "text": "Daha önce vefat ettiği sanılan ailenizin şimdi sapasağlam hayatta olmasını son derece tuhaf buluyorum."
+    },
+    {
+      "id": "e31d2215",
+      "bank_id": "f0b23602",
+      "text": "Ailenizin nihayetinde ölmediğini öğrenince sevinçten havalara uçmuş olmalısınız. Çok garip bir olay ama bir o kadar da sevindirici."
+    },
+    {
+      "id": "e31d2216",
+      "bank_id": "f0b23602",
+      "text": "Millet ailen öldü diyordu ama yeminle onları gördüm ben."
+    },
+    {
+      "id": "e31d2217",
+      "bank_id": "f0b23602",
+      "text": "Ha? Ailen hâlâ yaşıyor mu? Bir şey mi kaçırdım ben?"
+    },
+    {
+      "id": "ea1d2d10",
+      "bank_id": "f0b23602",
+      "text": "Ailenizin bunca zamandan sonra yeniden ortaya çıkmasını son derece tuhaf buluyorum."
+    },
+    {
+      "id": "ea1d2d11",
+      "bank_id": "f0b23602",
+      "text": "Aileni hayata döndürmek için o Kule'de karanlık bir anlaşma yaptığına dair içimde bir his var. Sadece kanıtlayamıyorum."
+    },
+    {
+      "id": "f83f1722",
+      "bank_id": "f0b23602",
+      "text": "Eskiden tıpkı benim gibi başka bir oğlun var mıydı? Ne oldu ona?"
+    }
+  ]
+}

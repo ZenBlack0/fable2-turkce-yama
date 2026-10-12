@@ -1,0 +1,786 @@
+{
+  "bank_id": "e02f9601",
+  "total_strings": 156,
+  "strings": [
+    {
+      "id": "05226511",
+      "bank_id": "e02f9601",
+      "text": "Bu arkadaşın buralarda hiç istenmiyor."
+    },
+    {
+      "id": "05226512",
+      "bank_id": "e02f9601",
+      "text": "Neden onunla takılıyorsun ki? Aptalın teki!"
+    },
+    {
+      "id": "05226513",
+      "bank_id": "e02f9601",
+      "text": "Belki de arkadaşın kendi mahallesinde kalmalı."
+    },
+    {
+      "id": "05226514",
+      "bank_id": "e02f9601",
+      "text": "Kim bu ve burada ne işi var?"
+    },
+    {
+      "id": "05226515",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın ait olduğu yerde kalamaz mıydı?"
+    },
+    {
+      "id": "05226516",
+      "bank_id": "e02f9601",
+      "text": "Ortağın varlığıyla topraklarımızı neden kirletiyor?"
+    },
+    {
+      "id": "05226517",
+      "bank_id": "e02f9601",
+      "text": "Böyle tekinsiz adamları hayatımıza neden sokmak zorundasın ki?"
+    },
+    {
+      "id": "0cb0b550",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın safi kötülükten yapılmış gibi duruyor!"
+    },
+    {
+      "id": "0cb0b551",
+      "bank_id": "e02f9601",
+      "text": "Bu arkadaşında hiç vicdan yok. Tepeden tırnağa kötülük dolu."
+    },
+    {
+      "id": "0cb0b553",
+      "bank_id": "e02f9601",
+      "text": "Şu arkadaşın kadar kötü bir varlığı hayatımda hissetmedim."
+    },
+    {
+      "id": "0cb0b554",
+      "bank_id": "e02f9601",
+      "text": "Yoldaşından resmen ahlaksızlık kokusu yayılıyor."
+    },
+    {
+      "id": "0cb0b555",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşının etrafında muazzam bir kötülük aurası var. Bayağı acımasız biri."
+    },
+    {
+      "id": "0cb0b556",
+      "bank_id": "e02f9601",
+      "text": "Onun gibi pis birini nereden buldun böyle?"
+    },
+    {
+      "id": "0cb0b557",
+      "bank_id": "e02f9601",
+      "text": "Şu arkadaşın tekinsizin teki. Bakışından anlarım."
+    },
+    {
+      "id": "0e278bd8",
+      "bank_id": "e02f9601",
+      "text": "Haha! Çok komik biri! Palyaço okulundan falan mı buldun onu!"
+    },
+    {
+      "id": "10227640",
+      "bank_id": "e02f9601",
+      "text": "Kim bu? Tam bir asalak gibi görünüyor."
+    },
+    {
+      "id": "10227642",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşının nesi var öyle? Kendi başına hiç şan şöhret bulamadı mı?"
+    },
+    {
+      "id": "10227643",
+      "bank_id": "e02f9601",
+      "text": "Alınma ama arkadaşına hiç katlanamıyorum."
+    },
+    {
+      "id": "10227644",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın mı bu? Salaklar Diyarı'ndan ziyarete mi gelmiş?"
+    },
+    {
+      "id": "10227645",
+      "bank_id": "e02f9601",
+      "text": "Şu arkadaşın tam bir yer israfı. Şuna baksana bir."
+    },
+    {
+      "id": "10227646",
+      "bank_id": "e02f9601",
+      "text": "Yoldaşında zerre kadar edep kalmamış."
+    },
+    {
+      "id": "10227647",
+      "bank_id": "e02f9601",
+      "text": "Bugünlerde takıldığın tiplerden hiç hoşlanmıyorum. Ondan bahsediyorum."
+    },
+    {
+      "id": "1235bb88",
+      "bank_id": "e02f9601",
+      "text": "Beni rahat bırakın yeter!"
+    },
+    {
+      "id": "1270f4f0",
+      "bank_id": "e02f9601",
+      "text": "Bunu bir daha yaparsan seni şikâyet ederim!"
+    },
+    {
+      "id": "1270f4f1",
+      "bank_id": "e02f9601",
+      "text": "Şikâyet edilmek istiyorsan bir daha dene de gör!"
+    },
+    {
+      "id": "1270f4f2",
+      "bank_id": "e02f9601",
+      "text": "Bunu bir daha denersen şikâyet edilirsin!"
+    },
+    {
+      "id": "1270f4f3",
+      "bank_id": "e02f9601",
+      "text": "Bunu bir daha dene de yetkililer duysun bakalım!"
+    },
+    {
+      "id": "1270f4f4",
+      "bank_id": "e02f9601",
+      "text": "Bir daha yap da şikâyet edeyim seni!"
+    },
+    {
+      "id": "1270f4f6",
+      "bank_id": "e02f9601",
+      "text": "Bunu bir daha yaparsan seni şikâyet ederim!"
+    },
+    {
+      "id": "1270f4f7",
+      "bank_id": "e02f9601",
+      "text": "Tamam, bunu bir daha yaparsan seni şikâyet ederim!"
+    },
+    {
+      "id": "132793f9",
+      "bank_id": "e02f9601",
+      "text": "Haha! Sevdim bu adamı. Beni güldürüyor."
+    },
+    {
+      "id": "13b0c056",
+      "bank_id": "e02f9601",
+      "text": "Şu arkadaşının tamamen yoldan çıktığını hemen anlayabiliyorsun. Şuna bir baksana."
+    },
+    {
+      "id": "1735c3a9",
+      "bank_id": "e02f9601",
+      "text": "Çekil başımdan!"
+    },
+    {
+      "id": "1770fc90",
+      "bank_id": "e02f9601",
+      "text": "Dur yoksa muhafızları çağırırım."
+    },
+    {
+      "id": "1770fc91",
+      "bank_id": "e02f9601",
+      "text": "Hey! Muhafızları çağırırım bilesin."
+    },
+    {
+      "id": "1770fc92",
+      "bank_id": "e02f9601",
+      "text": "Seni kanuna şikâyet edeceğim."
+    },
+    {
+      "id": "1770fc93",
+      "bank_id": "e02f9601",
+      "text": "Muhafızlar hakkından gelir senin."
+    },
+    {
+      "id": "1770fc95",
+      "bank_id": "e02f9601",
+      "text": "Muhafızları çağıracağım."
+    },
+    {
+      "id": "1770fc96",
+      "bank_id": "e02f9601",
+      "text": "Muhafızları çağırmadan önceki son uyarım bu!"
+    },
+    {
+      "id": "1770fc97",
+      "bank_id": "e02f9601",
+      "text": "Durmazsan muhafızları çağırırım."
+    },
+    {
+      "id": "1e5ef5de",
+      "bank_id": "e02f9601",
+      "text": "A, arkadaşın mı bu? Sevdim kendisini!"
+    },
+    {
+      "id": "213288a0",
+      "bank_id": "e02f9601",
+      "text": "Şu arkadaşından öyle çok korkuyorum ki. Kanımı donduruyor."
+    },
+    {
+      "id": "213288a1",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın beni fena ürküttü."
+    },
+    {
+      "id": "213288a2",
+      "bank_id": "e02f9601",
+      "text": "Açıkça söyleyeyim, yoldaşın beni fena halde sindirdi."
+    },
+    {
+      "id": "213288a3",
+      "bank_id": "e02f9601",
+      "text": "Aramıza bir korku salgını getirdin. Arkadaşının kapkaranlık bir ruhu var."
+    },
+    {
+      "id": "213288a4",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşının burada ne işi var? Ödümü koparıyor."
+    },
+    {
+      "id": "213288a6",
+      "bank_id": "e02f9601",
+      "text": "Şu arkadaşın... Bayağı korkutucu biri, değil mi."
+    },
+    {
+      "id": "213288a7",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın beni korkutuyor. Yani baksana şuna bir!"
+    },
+    {
+      "id": "26329040",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın neden bu kadar korkutucu davranıyor?"
+    },
+    {
+      "id": "26329041",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın çok ama çok korkutucu, değil mi."
+    },
+    {
+      "id": "26329042",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın beni resmen taş kesti. Bayağı heybetli biri."
+    },
+    {
+      "id": "26329043",
+      "bank_id": "e02f9601",
+      "text": "Ne ürpertici bir yoldaşın var öyle. Gerçekten çok korkutucu."
+    },
+    {
+      "id": "26329045",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın beni korkutuyor!"
+    },
+    {
+      "id": "26329046",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşının bana zarar vermesine izin verme! Çok korkunç!"
+    },
+    {
+      "id": "26329047",
+      "bank_id": "e02f9601",
+      "text": "Onu buraya neden getirdin ki? Ödümü koparıyor!"
+    },
+    {
+      "id": "275f042b",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın bayağı havalı görünüyor."
+    },
+    {
+      "id": "3b317f20",
+      "bank_id": "e02f9601",
+      "text": "Beni rahat bırak!"
+    },
+    {
+      "id": "3b317f21",
+      "bank_id": "e02f9601",
+      "text": "Bir an olsun huzur verin bana!"
+    },
+    {
+      "id": "476b3837",
+      "bank_id": "e02f9601",
+      "text": "Seni muhafızlara şikâyet edeceğim!"
+    },
+    {
+      "id": "4a236d18",
+      "bank_id": "e02f9601",
+      "text": "Haha! Yoldaşın pek usta bir soytarıymış, öyle değil mi?"
+    },
+    {
+      "id": "4a236d19",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşın beni çok eğlendirdi."
+    },
+    {
+      "id": "4a236d1a",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşın... Gerçekten gıdıklıyor beni."
+    },
+    {
+      "id": "4a236d1b",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşın bizi nasıl güldüreceğini iyi biliyor, değil mi."
+    },
+    {
+      "id": "4a236d1c",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşın tam bir komedi!"
+    },
+    {
+      "id": "4a236d1d",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşın çok komik. Tam bir şakacı!"
+    },
+    {
+      "id": "4a236d1e",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşını Kahkaha Diyarı'ndan mı getirdin?"
+    },
+    {
+      "id": "4e6b433a",
+      "bank_id": "e02f9601",
+      "text": "Dur yoksa muhafızlara söylerim!"
+    },
+    {
+      "id": "53237b68",
+      "bank_id": "e02f9601",
+      "text": "Hihi! Bu adamla çok gülüyor olmalısın."
+    },
+    {
+      "id": "53237b69",
+      "bank_id": "e02f9601",
+      "text": "Haha. Yanında o varken nasıl iş yapabiliyorsun ki?"
+    },
+    {
+      "id": "53237b6b",
+      "bank_id": "e02f9601",
+      "text": "Haha. Arkadaşın pek komik biri, değil mi."
+    },
+    {
+      "id": "53237b6c",
+      "bank_id": "e02f9601",
+      "text": "Hihi! Arkadaşın çok eğlenceli. Zamanlaması harika."
+    },
+    {
+      "id": "53237b6d",
+      "bank_id": "e02f9601",
+      "text": "Haha. Arkadaşın fevkalade komik. Gerçek bir komedyen."
+    },
+    {
+      "id": "53237b6e",
+      "bank_id": "e02f9601",
+      "text": "Haha. Bu dostun tam bir cümbüş, değil mi."
+    },
+    {
+      "id": "53237b6f",
+      "bank_id": "e02f9601",
+      "text": "Haha. Onu istediğin zaman yanında getirebilirsin."
+    },
+    {
+      "id": "5895f3bd",
+      "bank_id": "e02f9601",
+      "text": "Kim bu kız? Korkutuyor beni."
+    },
+    {
+      "id": "639604ec",
+      "bank_id": "e02f9601",
+      "text": "Hiç sevmedim onu. Çok korkutucu."
+    },
+    {
+      "id": "713f5181",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşını Kahkaha Diyarı'ndan mı getirdin?"
+    },
+    {
+      "id": "713f5182",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşın çok komik. Tam bir şakacı!"
+    },
+    {
+      "id": "713f5183",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşın tam bir komedi!"
+    },
+    {
+      "id": "713f5184",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşın bizi nasıl güldüreceğini iyi biliyor, değil mi."
+    },
+    {
+      "id": "713f5185",
+      "bank_id": "e02f9601",
+      "text": "Haha! Arkadaşın... Gerçekten gıdıklıyor beni."
+    },
+    {
+      "id": "713f5186",
+      "bank_id": "e02f9601",
+      "text": "Haha! Hanım arkadaşın beni çok eğlendirdi."
+    },
+    {
+      "id": "713f5187",
+      "bank_id": "e02f9601",
+      "text": "Haha! Yoldaşın pek usta bir soytarıymış, öyle değil mi?"
+    },
+    {
+      "id": "7c3f6330",
+      "bank_id": "e02f9601",
+      "text": "Haha. Arkadaşın pek komik biri, değil mi."
+    },
+    {
+      "id": "7c3f6332",
+      "bank_id": "e02f9601",
+      "text": "Haha. Yanında o varken nasıl iş yapabiliyorsun ki?"
+    },
+    {
+      "id": "7c3f6333",
+      "bank_id": "e02f9601",
+      "text": "Hihi! Bu kızla çok gülüyor olmalısın."
+    },
+    {
+      "id": "7c3f6334",
+      "bank_id": "e02f9601",
+      "text": "Haha. Onu istediğin zaman yanında getirebilirsin."
+    },
+    {
+      "id": "7c3f6335",
+      "bank_id": "e02f9601",
+      "text": "Haha. Bu dostun tam bir cümbüş, değil mi."
+    },
+    {
+      "id": "7c3f6336",
+      "bank_id": "e02f9601",
+      "text": "Haha. Arkadaşın fevkalade komik. Gerçek bir kadın komedyen."
+    },
+    {
+      "id": "7c3f6337",
+      "bank_id": "e02f9601",
+      "text": "Hihi! Arkadaşın çok eğlenceli. Zamanlaması harika."
+    },
+    {
+      "id": "93904008",
+      "bank_id": "e02f9601",
+      "text": "Ne ürpertici bir yoldaşın var öyle. Gerçekten çok korkutucu."
+    },
+    {
+      "id": "93904009",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın beni resmen taş kesti. Bayağı heybetli biri."
+    },
+    {
+      "id": "9390400a",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın çok ama çok korkutucu, değil mi."
+    },
+    {
+      "id": "9390400b",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın neden bu kadar korkutucu davranıyor?"
+    },
+    {
+      "id": "9390400c",
+      "bank_id": "e02f9601",
+      "text": "Onu buraya neden getirdin ki? Ödümü koparıyor!"
+    },
+    {
+      "id": "9390400d",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşının bana zarar vermesine izin verme! Çok korkunç!"
+    },
+    {
+      "id": "9390400e",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın beni korkutuyor!"
+    },
+    {
+      "id": "9c904e58",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın beni k-korkutuyor. Yani baksana şuna bir!"
+    },
+    {
+      "id": "9c904e59",
+      "bank_id": "e02f9601",
+      "text": "Şu arkadaşın... Bayağı korkutucu biri, değil mi."
+    },
+    {
+      "id": "9c904e5b",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşının burada ne işi var? Ödümü koparıyor."
+    },
+    {
+      "id": "9c904e5c",
+      "bank_id": "e02f9601",
+      "text": "Aramıza bir korku salgını getirdin. Arkadaşının kapkaranlık bir ruhu var."
+    },
+    {
+      "id": "9c904e5d",
+      "bank_id": "e02f9601",
+      "text": "Açıkça söyleyeyim, yoldaşın beni fena halde sindirdi."
+    },
+    {
+      "id": "9c904e5e",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın beni fena ürküttü."
+    },
+    {
+      "id": "9c904e5f",
+      "bank_id": "e02f9601",
+      "text": "Şu arkadaşından öyle çok korkuyorum ki. Kanımı donduruyor."
+    },
+    {
+      "id": "ab1223c8",
+      "bank_id": "e02f9601",
+      "text": "Kız arkadaşın bayağı havalı görünüyor."
+    },
+    {
+      "id": "ac3b3152",
+      "bank_id": "e02f9601",
+      "text": "Haha! Sevdim bu kızı. Beni güldürüyor."
+    },
+    {
+      "id": "b0122be9",
+      "bank_id": "e02f9601",
+      "text": "A, arkadaşın mı bu? Sevdim kendisini!"
+    },
+    {
+      "id": "b53b3fbf",
+      "bank_id": "e02f9601",
+      "text": "Haha! Çok komik biri! Palyaço okulundan falan mı buldun onu!"
+    },
+    {
+      "id": "c01d7b62",
+      "bank_id": "e02f9601",
+      "text": "Bu arkadaşından pek hoşlandığımdan emin değilim."
+    },
+    {
+      "id": "c48be70d",
+      "bank_id": "e02f9601",
+      "text": "Bu arkadaşından pek hoşlandığımdan emin değilim."
+    },
+    {
+      "id": "c91d894f",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın tam bir dangalak."
+    },
+    {
+      "id": "cf8bf8bc",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın tam bir dangalak."
+    },
+    {
+      "id": "d62d9567",
+      "bank_id": "e02f9601",
+      "text": "Hiç sevmedim onu. Çok korkutucu."
+    },
+    {
+      "id": "dd2da06a",
+      "bank_id": "e02f9601",
+      "text": "Kim bu adam? Korkutuyor beni."
+    },
+    {
+      "id": "e364a908",
+      "bank_id": "e02f9601",
+      "text": "Burayı harika bir yer yapan şey tam da senin bu arkadaşın gibi insanlar işte. Bırakma bu adamı."
+    },
+    {
+      "id": "e364a909",
+      "bank_id": "e02f9601",
+      "text": "Sevdim bunu. Nereden buldun onu?"
+    },
+    {
+      "id": "e364a90a",
+      "bank_id": "e02f9601",
+      "text": "Bir turist için fevkalade terbiyeli biri bu yoldaşın."
+    },
+    {
+      "id": "e364a90b",
+      "bank_id": "e02f9601",
+      "text": "Ne harika bir adam. Arkadaş olarak çok daha kötüsünü de bulabilirdin."
+    },
+    {
+      "id": "e364a90d",
+      "bank_id": "e02f9601",
+      "text": "Onun gibi olacaklarsa arkadaşların burada her zaman baş tacıdır."
+    },
+    {
+      "id": "e364a90e",
+      "bank_id": "e02f9601",
+      "text": "Söylemeliyim ki bu yeni arkadaşını çok sevdim. Nereden buldun onu?"
+    },
+    {
+      "id": "e364a90f",
+      "bank_id": "e02f9601",
+      "text": "Ah evet, buradaki arkadaşın mahallemiz için harika bir kazanım oldu. Gerçekten öyle."
+    },
+    {
+      "id": "e70c7208",
+      "bank_id": "e02f9601",
+      "text": "Ne harika bir kız. Arkadaş olarak çok daha kötüsünü de bulabilirdin."
+    },
+    {
+      "id": "e70c7209",
+      "bank_id": "e02f9601",
+      "text": "Bir turist için fevkalade terbiyeli biri bu yoldaşın."
+    },
+    {
+      "id": "e70c720a",
+      "bank_id": "e02f9601",
+      "text": "Sevdim bunu. Nereden buldun onu?"
+    },
+    {
+      "id": "e70c720b",
+      "bank_id": "e02f9601",
+      "text": "Burayı harika bir yer yapan şey tam da senin bu arkadaşın gibi insanlar işte. Bırakma bu kızı."
+    },
+    {
+      "id": "e70c720c",
+      "bank_id": "e02f9601",
+      "text": "Ah evet, buradaki arkadaşın mahallemiz için harika bir kazanım oldu. Gerçekten öyle."
+    },
+    {
+      "id": "e70c720d",
+      "bank_id": "e02f9601",
+      "text": "Söylemeliyim ki bu yeni arkadaşını çok sevdim. Nereden buldun onu?"
+    },
+    {
+      "id": "e70c720e",
+      "bank_id": "e02f9601",
+      "text": "Onun gibi olacaklarsa arkadaşların burada her zaman baş tacıdır."
+    },
+    {
+      "id": "eb861440",
+      "bank_id": "e02f9601",
+      "text": "Belki de arkadaşın kendi mahallesinde kalmalı."
+    },
+    {
+      "id": "eb861441",
+      "bank_id": "e02f9601",
+      "text": "Neden onunla takılıyorsun ki? Aptalın teki!"
+    },
+    {
+      "id": "eb861442",
+      "bank_id": "e02f9601",
+      "text": "Bu arkadaşın buralarda hiç istenmiyor."
+    },
+    {
+      "id": "eb861444",
+      "bank_id": "e02f9601",
+      "text": "Böyle tekinsiz kadınları hayatımıza neden sokmak zorundasın ki?"
+    },
+    {
+      "id": "eb861445",
+      "bank_id": "e02f9601",
+      "text": "Ortağın varlığıyla topraklarımızı neden kirletiyor?"
+    },
+    {
+      "id": "eb861446",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın ait olduğu yerde kalamaz mıydı?"
+    },
+    {
+      "id": "eb861447",
+      "bank_id": "e02f9601",
+      "text": "Kim bu ve burada ne işi var?"
+    },
+    {
+      "id": "ee64bab8",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın tam da buralarda ihtiyacımız olan türden biri. Harika biri."
+    },
+    {
+      "id": "ee64bab9",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın mı bu? Doğrusu sevdim kendisini."
+    },
+    {
+      "id": "ee64baba",
+      "bank_id": "e02f9601",
+      "text": "Ah, ne harika bir yoldaşın var burada. Gerçekten muhteşem biri."
+    },
+    {
+      "id": "ee64babb",
+      "bank_id": "e02f9601",
+      "text": "Yol arkadaşın bu mu? Kendisinden fevkalade etkilendim."
+    },
+    {
+      "id": "ee64babc",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın hoş bir adama benziyor."
+    },
+    {
+      "id": "ee64babe",
+      "bank_id": "e02f9601",
+      "text": "Söylemeliyim ki bugünlerde takıldığın çevreyi beğeniyorum."
+    },
+    {
+      "id": "ee64babf",
+      "bank_id": "e02f9601",
+      "text": "Kim bu arkadaşın? Hoş birine benziyor."
+    },
+    {
+      "id": "f00c8058",
+      "bank_id": "e02f9601",
+      "text": "Kim bu arkadaşın? Hoş birine benziyor."
+    },
+    {
+      "id": "f00c8059",
+      "bank_id": "e02f9601",
+      "text": "Söylemeliyim ki bugünlerde takıldığın çevreyi beğeniyorum."
+    },
+    {
+      "id": "f00c805b",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın hoş bir kıza benziyor."
+    },
+    {
+      "id": "f00c805c",
+      "bank_id": "e02f9601",
+      "text": "Yol arkadaşın bu mu? Kendisinden fevkalade etkilendim."
+    },
+    {
+      "id": "f00c805d",
+      "bank_id": "e02f9601",
+      "text": "Ah, ne harika bir yoldaşın var burada. Gerçekten muhteşem biri."
+    },
+    {
+      "id": "f00c805e",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın mı bu? Doğrusu sevdim kendisini."
+    },
+    {
+      "id": "f00c805f",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın tam da buralarda ihtiyacımız olan türden biri. Harika biri."
+    },
+    {
+      "id": "f48622a8",
+      "bank_id": "e02f9601",
+      "text": "Bugünlerde takıldığın tiplerden hiç hoşlanmıyorum. Ondan bahsediyorum."
+    },
+    {
+      "id": "f48622a9",
+      "bank_id": "e02f9601",
+      "text": "Yoldaşında zerre kadar edep kalmamış."
+    },
+    {
+      "id": "f48622aa",
+      "bank_id": "e02f9601",
+      "text": "Şu arkadaşın tam bir yer israfı. Şuna baksana bir."
+    },
+    {
+      "id": "f48622ab",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşın mı bu? Salaklar Diyarı'ndan ziyarete mi gelmiş?"
+    },
+    {
+      "id": "f48622ac",
+      "bank_id": "e02f9601",
+      "text": "Alınma ama arkadaşına hiç katlanamıyorum."
+    },
+    {
+      "id": "f48622ad",
+      "bank_id": "e02f9601",
+      "text": "Arkadaşının nesi var öyle? Kendi başına hiç şan şöhret bulamadı mı?"
+    },
+    {
+      "id": "f48622af",
+      "bank_id": "e02f9601",
+      "text": "Kim bu? Tam bir asalak gibi görünüyor."
+    }
+  ]
+}

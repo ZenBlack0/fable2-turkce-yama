@@ -1,0 +1,906 @@
+{
+  "bank_id": "10b5b600",
+  "total_strings": 180,
+  "strings": [
+    {
+      "id": "020daa20",
+      "bank_id": "10b5b600",
+      "text": "Döneceğini, muzaffer olacağını benden bile önce biliyordu."
+    },
+    {
+      "id": "030dab93",
+      "bank_id": "10b5b600",
+      "text": "On yıl... Tekrar hoş geldin dostum."
+    },
+    {
+      "id": "048c9c28",
+      "bank_id": "10b5b600",
+      "text": "Rookridge hanında Hammer ile buluşun."
+    },
+    {
+      "id": "050daef9",
+      "bank_id": "10b5b600",
+      "text": "Tüylü dostun bir haftadır her gün buraya geliyor."
+    },
+    {
+      "id": "060db06c",
+      "bank_id": "10b5b600",
+      "text": "Beni karşılamak mı? Yolumun üstündesin. Lütfen kenara çekil."
+    },
+    {
+      "id": "070db1df",
+      "bank_id": "10b5b600",
+      "text": "Eski Krallık hakkında çok şey biliyorsun. Kule'yi tek başına yok edemeyeceğini bilecek kadar çok şey."
+    },
+    {
+      "id": "080db3b2",
+      "bank_id": "10b5b600",
+      "text": "İmkânsızı başardın."
+    },
+    {
+      "id": "090db525",
+      "bank_id": "10b5b600",
+      "text": "Ve Garth... Sana da hoş geldin diyorum."
+    },
+    {
+      "id": "0c0db9fe",
+      "bank_id": "10b5b600",
+      "text": "Ortak bir amacı paylaşıyoruz. Tek istediğim sana sunabileceklerimizi dinlemen."
+    },
+    {
+      "id": "0ccc1396",
+      "bank_id": "10b5b600",
+      "text": "Çoğu bir meyhaneden toplanmış, öyle mi duydum?"
+    },
+    {
+      "id": "0d0dbb51",
+      "bank_id": "10b5b600",
+      "text": "Pekala. Dinleyeceğim. Ama hiçbir söz vermiyorum."
+    },
+    {
+      "id": "0dcc1509",
+      "bank_id": "10b5b600",
+      "text": "Hammer üçüncü Kahraman hakkında bilgiye sahip."
+    },
+    {
+      "id": "12cc1d28",
+      "bank_id": "10b5b600",
+      "text": "Kaledeki o gece, kız kardeşin... Hiç haberim yoktu. Bilseydim onu durdururdum."
+    },
+    {
+      "id": "12cc1d29",
+      "bank_id": "10b5b600",
+      "text": "Bu kadar uzun sürdüğü için üzgünüm. Lucien'in adamları her yerde."
+    },
+    {
+      "id": "12cc1d2d",
+      "bank_id": "10b5b600",
+      "text": "Sen Hammer olmalısın."
+    },
+    {
+      "id": "13cc1e9b",
+      "bank_id": "10b5b600",
+      "text": "Dostumuz bana senden çok bahsetti."
+    },
+    {
+      "id": "14cc200e",
+      "bank_id": "10b5b600",
+      "text": "Hammer'ı gördün mü? Topladığı bilgilerle o da yola çıktı."
+    },
+    {
+      "id": "16cc2354",
+      "bank_id": "10b5b600",
+      "text": "Burada bulunma amacımız bu değil."
+    },
+    {
+      "id": "17cc24c7",
+      "bank_id": "10b5b600",
+      "text": "Öyle mi? Peki elime bir çekiç alıp adamların kıçına sokmayı sevdiğimi de tahmin etmiş miydin?"
+    },
+    {
+      "id": "18cc26ba",
+      "bank_id": "10b5b600",
+      "text": "Güvensiz olabileceğin bana söylenmişti. Fakat bu göz kamaştırıcı zekânı ve aklını tahmin edememiştim."
+    },
+    {
+      "id": "19cc282d",
+      "bank_id": "10b5b600",
+      "text": "Sen de Lucien'in uşağı Garth olmalısın."
+    },
+    {
+      "id": "22914868",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "22914869",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2291486a",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2291486b",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2291486c",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2291486d",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2291486e",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2ac1475a",
+      "bank_id": "10b5b600",
+      "text": "Hammer Rookridge'deki handa. Onu görmelisin. Bu arada ben de Garth'ı ilerlememiz hakkında bilgilendireceğim."
+    },
+    {
+      "id": "2b9156b8",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2b9156b9",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2b9156bb",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2b9156bc",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2b9156bd",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2b9156be",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "2b9156bf",
+      "bank_id": "10b5b600",
+      "text": "Kızına bir merhaba de."
+    },
+    {
+      "id": "326052e5",
+      "bank_id": "10b5b600",
+      "text": "Bizimle kalacak mısın, anne?"
+    },
+    {
+      "id": "326052ee",
+      "bank_id": "10b5b600",
+      "text": "Bizimle kalacak mısın, baba?"
+    },
+    {
+      "id": "3bf1091f",
+      "bank_id": "10b5b600",
+      "text": "Yine de sen ve diğerleri olmadan çok az şey başarabilir."
+    },
+    {
+      "id": "3cf10af2",
+      "bank_id": "10b5b600",
+      "text": "Basit gerçek şu ki fazla vaktimiz yok. Lucien'in çalışmaları korktuğumdan daha da ilerlemiş durumda."
+    },
+    {
+      "id": "3f93aa64",
+      "bank_id": "10b5b600",
+      "text": "Öyle mi? Peki elime bir çekiç alıp Lucien için çalışan herifleri pataklamayı sevdiğimi tahmin etmiş miydin?"
+    },
+    {
+      "id": "3f93aa67",
+      "bank_id": "10b5b600",
+      "text": "Öyle mi? Peki elime bir çekiç alıp kendini beğenmiş küçük büyücüleri pataklamayı sevdiğimi tahmin etmiş miydin?"
+    },
+    {
+      "id": "62cbf2a4",
+      "bank_id": "10b5b600",
+      "text": "İyi şanslar!"
+    },
+    {
+      "id": "6da4e1d0",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "6da4e1d1",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "6da4e1d2",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "6da4e1d3",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "6da4e1d4",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "6da4e1d6",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "6da4e1d7",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "71b21314",
+      "bank_id": "10b5b600",
+      "text": "Elimi tut Garth. Konuşacak çok şeyimiz var."
+    },
+    {
+      "id": "72a4e9f0",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "72a4e9f1",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "72a4e9f2",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "72a4e9f3",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "72a4e9f5",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "72a4e9f6",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "72a4e9f7",
+      "bank_id": "10b5b600",
+      "text": "Sevgilim, ne oldu?"
+    },
+    {
+      "id": "74b217ed",
+      "bank_id": "10b5b600",
+      "text": "Başka bir seçeneğim var mı ki?"
+    },
+    {
+      "id": "882b14c8",
+      "bank_id": "10b5b600",
+      "text": "Seninle daha sonra konuşacağız."
+    },
+    {
+      "id": "90740d10",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "90740d11",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "90740d12",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "90740d13",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "90740d14",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "90740d15",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "90740d17",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "97741818",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "97741819",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "9774181a",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "9774181c",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "9774181d",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "9774181e",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "9774181f",
+      "bank_id": "10b5b600",
+      "text": "Beni yine mi bırakıyorsun? Onca zaman boşuna mı bekledim?"
+    },
+    {
+      "id": "bc541fe6",
+      "bank_id": "10b5b600",
+      "text": "Barbar."
+    },
+    {
+      "id": "bd02fbf8",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "bd02fbf9",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "bd02fbfa",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "bd02fbfb",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "bd02fbfc",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "bd02fbfd",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "bd02fbfe",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "bd542159",
+      "bank_id": "10b5b600",
+      "text": "Önden buyrun, Ekselansları."
+    },
+    {
+      "id": "be9e60f9",
+      "bank_id": "10b5b600",
+      "text": "Cullis Geçidi"
+    },
+    {
+      "id": "c2542978",
+      "bank_id": "10b5b600",
+      "text": "Pekala. Bir dâhisin sen. Çalışıyor mu?"
+    },
+    {
+      "id": "c3542aeb",
+      "bank_id": "10b5b600",
+      "text": "Kulemde bir tane inşa etmiştim. Bizi Wraithmarsh'a ulaştırabilir."
+    },
+    {
+      "id": "c3566942",
+      "bank_id": "10b5b600",
+      "text": "Hayır. Değiliz."
+    },
+    {
+      "id": "c4542c5e",
+      "bank_id": "10b5b600",
+      "text": "Elinde bir tane daha var mı peki?"
+    },
+    {
+      "id": "c4566b35",
+      "bank_id": "10b5b600",
+      "text": "Bloodstone üç taraftan Wraithmarsh ile, dördüncü taraftan ise okyanusla çevrilidir."
+    },
+    {
+      "id": "c5542e31",
+      "bank_id": "10b5b600",
+      "text": "Fark etmez. Oraya Cullis Geçidi ile ulaşabiliriz."
+    },
+    {
+      "id": "c5542e34",
+      "bank_id": "10b5b600",
+      "text": "Bu değil. Bu yalnızca Kahraman Tepesi'ne çıkar."
+    },
+    {
+      "id": "c5566ca8",
+      "bank_id": "10b5b600",
+      "text": "Reaver kalyonları tek kurşunla indirir. Şiddetli rüzgârlar, azgın dalgalar, bir mil ötesi... fark etmez: kaptanı tek atışta avlar. Atış ne kadar imkânsızsa mürettebat o kadar çabuk teslim olur."
+    },
+    {
+      "id": "c60309c8",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "c60309c9",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "c60309cb",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "c60309cc",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "c60309cd",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "c60309ce",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "c60309cf",
+      "bank_id": "10b5b600",
+      "text": "Oğluna bir merhaba de."
+    },
+    {
+      "id": "c6542fa4",
+      "bank_id": "10b5b600",
+      "text": "Pekala öyleyse, gidelim."
+    },
+    {
+      "id": "c6566e1b",
+      "bank_id": "10b5b600",
+      "text": "Etkileyici. Ama biz Lucien'i teslim almaya çalışmıyoruz."
+    },
+    {
+      "id": "c7543117",
+      "bank_id": "10b5b600",
+      "text": "Bunu birlikte yapmalısınız. Lucien Brightwood kulesini korumak için adamlar gönderdi."
+    },
+    {
+      "id": "c7566f8e",
+      "bank_id": "10b5b600",
+      "text": "Öyle mi? Reaver'la yıllarca denize açılmış. Yüzlerce gemi ele geçirdiklerini söyledi."
+    },
+    {
+      "id": "c854328a",
+      "bank_id": "10b5b600",
+      "text": "Gerekiyor mu?"
+    },
+    {
+      "id": "c8567161",
+      "bank_id": "10b5b600",
+      "text": "Bu onun bir Kahraman olduğu anlamına gelmez. Pek çok korsan gemi ele geçirir."
+    },
+    {
+      "id": "c954347d",
+      "bank_id": "10b5b600",
+      "text": "Etkinleşmesi biraz zaman alacaktır ama çalışması gerekir."
+    },
+    {
+      "id": "c95672d4",
+      "bank_id": "10b5b600",
+      "text": "Güneybatıdaki Bloodstone limanını o yönetiyor."
+    },
+    {
+      "id": "c95d32b8",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "c95d32ba",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "c95d32bb",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "c95d32bc",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "c95d32bd",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "c95d32be",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "c95d32bf",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "ca567447",
+      "bank_id": "10b5b600",
+      "text": "Ve bunu sarhoşun birinden mi öğrendin?"
+    },
+    {
+      "id": "cb56763a",
+      "bank_id": "10b5b600",
+      "text": "Birinden değil, birçoğundan. Bayağı sağlam bir araştırma yaptım."
+    },
+    {
+      "id": "cc5677ad",
+      "bank_id": "10b5b600",
+      "text": "Pekala, sanırım Hırsız dedikleri bu herif Reaver adında bir korsan."
+    },
+    {
+      "id": "ce5d3a59",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "ce5d3a5a",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim. Bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "ce5d3a5b",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "ce5d3a5c",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "ce5d3a5d",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "ce5d3a5e",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "ce5d3a5f",
+      "bank_id": "10b5b600",
+      "text": "Evet sevgilim, bir süre bizimle kal. Bizi yine bu kadar çabuk terk etme."
+    },
+    {
+      "id": "ce65e488",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "ce65e489",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "ce65e48a",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "ce65e48b",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "ce65e48d",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "ce65e48e",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "ce65e48f",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "cf2e1630",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "cf2e1631",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "cf2e1633",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "cf2e1634",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "cf2e1635",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "cf2e1636",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "cf2e1637",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "d62e2130",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "d62e2131",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "d62e2132",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "d62e2133",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "d62e2134",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "d62e2135",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "d62e2136",
+      "bank_id": "10b5b600",
+      "text": "Tanışmanı istediğim çok önemli biri var."
+    },
+    {
+      "id": "d965f638",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "d965f639",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "d965f63a",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "d965f63b",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "d965f63c",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "d965f63e",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "d965f63f",
+      "bank_id": "10b5b600",
+      "text": "Telafi etmemiz gereken o kadar çok kayıp zaman var ki."
+    },
+    {
+      "id": "ea22fc60",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "ea22fc61",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "ea22fc62",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "ea22fc63",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "ea22fc64",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "ea22fc65",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "ea22fc67",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "ec8a7058",
+      "bank_id": "10b5b600",
+      "text": "Hammer Rookridge'deki handa."
+    },
+    {
+      "id": "ed8a71cb",
+      "bank_id": "10b5b600",
+      "text": "Garth ile gideceğim."
+    },
+    {
+      "id": "ee8a73be",
+      "bank_id": "10b5b600",
+      "text": "Lonca'ya gelmeden önce toparlanmak için biraz vakit ayırmalısın."
+    },
+    {
+      "id": "eeb4eda6",
+      "bank_id": "10b5b600",
+      "text": "Ha bir de, bunu isteyeceksin."
+    },
+    {
+      "id": "ef8a7511",
+      "bank_id": "10b5b600",
+      "text": "Biz tekrar konuşmadan önce onu görmelisin; döndüğünü öğrendiğinde çok sevinecektir."
+    },
+    {
+      "id": "f1230768",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "f1230769",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "f123076a",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "f123076c",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "f123076d",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "f123076e",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "f123076f",
+      "bank_id": "10b5b600",
+      "text": "Buraya gel. Sarıl bana!"
+    },
+    {
+      "id": "f18a7872",
+      "bank_id": "10b5b600",
+      "text": "Işık Tapınağı'nı neredeyse tanıyamayabilirsin."
+    },
+    {
+      "id": "f18a7877",
+      "bank_id": "10b5b600",
+      "text": "Dünyanın en son gördüğünden beri değiştiğini göreceksin."
+    },
+    {
+      "id": "ffbf95c8",
+      "bank_id": "10b5b600",
+      "text": "Garth'ı takip edin."
+    },
+    {
+      "id": "ffbf95c9",
+      "bank_id": "10b5b600",
+      "text": "Garth'ı koruyun."
+    },
+    {
+      "id": "ffbf95ca",
+      "bank_id": "10b5b600",
+      "text": "Cullis Geçidi'ne girin."
+    },
+    {
+      "id": "ffbf95cc",
+      "bank_id": "10b5b600",
+      "text": "Theresa'nın sizi Lonca'ya çağırmasını bekleyin."
+    },
+    {
+      "id": "ffbf95cd",
+      "bank_id": "10b5b600",
+      "text": "Lonca'ya dönün."
+    },
+    {
+      "id": "ffbf95ce",
+      "bank_id": "10b5b600",
+      "text": "Bower Gölü'nde Hammer ve Garth'a katılın."
+    },
+    {
+      "id": "ffbf95cf",
+      "bank_id": "10b5b600",
+      "text": "Brightwood'da Garth ve Hammer'a katılın."
+    }
+  ]
+}

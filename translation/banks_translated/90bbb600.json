@@ -1,0 +1,636 @@
+{
+  "bank_id": "90bbb600",
+  "total_strings": 126,
+  "strings": [
+    {
+      "id": "0006c04a",
+      "bank_id": "90bbb600",
+      "text": "Bayan Spade'in oğullarını bulun."
+    },
+    {
+      "id": "0006c04f",
+      "bank_id": "90bbb600",
+      "text": "Max ve Sam'i bulmak için köpeğinizin iz sürme becerisini kullanın."
+    },
+    {
+      "id": "0eeb3095",
+      "bank_id": "90bbb600",
+      "text": "Bakar mısınız? Tam da rastlamayı umduğum türden birisiniz."
+    },
+    {
+      "id": "0eeb309e",
+      "bank_id": "90bbb600",
+      "text": "Bakar mısınız? Tam da rastlamayı umduğum türden bir hanımefendisiniz."
+    },
+    {
+      "id": "1a4aea13",
+      "bank_id": "90bbb600",
+      "text": "Daha da iyisini aramaya gidiyorsunuz demek? Biz burada oturup tatlı tatlı sohbet edeceğiz sadece."
+    },
+    {
+      "id": "1b015853",
+      "bank_id": "90bbb600",
+      "text": "Sizi küçük yaramazlar sizi. Umarım yine bir bela açmamışsınızdır."
+    },
+    {
+      "id": "1c0159c4",
+      "bank_id": "90bbb600",
+      "text": "Doğrusu öyle bir ceza vereceğim ki... Şey, henüz bilmiyorum gerçi ama hiç hoşunuza gitmeyecek."
+    },
+    {
+      "id": "1c0159c5",
+      "bank_id": "90bbb600",
+      "text": "Siz ikiniz yüzünden ömrüm çürümekle geçti benim."
+    },
+    {
+      "id": "1c0159c6",
+      "bank_id": "90bbb600",
+      "text": "Aman anne..."
+    },
+    {
+      "id": "1c0159c7",
+      "bank_id": "90bbb600",
+      "text": "Tıpkı babanız gibisiniz, hep saçma sapan maceralar peşinde koşuyorsunuz. Nasıl öldüğünü unuttunuz mu yoksa? O krakenin onu minik bacaklarından nasıl yakaladığını, havada cop gibi nasıl çevirip tek lokmada yuttuğunu unuttunuz mu?"
+    },
+    {
+      "id": "1d015bb9",
+      "bank_id": "90bbb600",
+      "text": "Ah, bu iki afacanı bulduğunuz için çok teşekkür ederim."
+    },
+    {
+      "id": "1e015d2c",
+      "bank_id": "90bbb600",
+      "text": "Neler olduğunu bana anlatmıyorlar. Bir bela açtılar mı başınıza?"
+    },
+    {
+      "id": "21257a83",
+      "bank_id": "90bbb600",
+      "text": "Şey, harika olurdu, evet."
+    },
+    {
+      "id": "22257c76",
+      "bank_id": "90bbb600",
+      "text": "Burada kendi başına çiftçilik yapmaya başlamak için sabırsızlanıyorsundur iddiaya girerim, ha oğlum?"
+    },
+    {
+      "id": "23257de9",
+      "bank_id": "90bbb600",
+      "text": "Evet. O... o harika bir haftaydı."
+    },
+    {
+      "id": "24257f5c",
+      "bank_id": "90bbb600",
+      "text": "Tatil için hep birlikte Bower Gölü'ne gittiğimiz zamanı hatırlıyor musun? Annen oraya bayılırdı."
+    },
+    {
+      "id": "250384d4",
+      "bank_id": "90bbb600",
+      "text": "Onları tek parça halinde geri getirmeye gayret edin lütfen."
+    },
+    {
+      "id": "252580cf",
+      "bank_id": "90bbb600",
+      "text": "Evet. Tabii ki baba."
+    },
+    {
+      "id": "262582a2",
+      "bank_id": "90bbb600",
+      "text": "Annen öldüğünden beri hiçbir şeyin eskisi gibi olmadığını biliyorum ama... yine de fena idare etmiyoruz, değil mi?"
+    },
+    {
+      "id": "280389ad",
+      "bank_id": "90bbb600",
+      "text": "Güzel. Onları o saçma sapan belalardan çekip kurtaracak dermanım kalmadı artık. Ve o Wraithmarsh denen yeri görmek gibi bir niyetim de kesinlikle yok."
+    },
+    {
+      "id": "2882be61",
+      "bank_id": "90bbb600",
+      "text": "Harika bir haber. Sonunda bizim oğlan kendine bir kadın buldu."
+    },
+    {
+      "id": "2c5abba7",
+      "bank_id": "90bbb600",
+      "text": "Giles, Rupert için Bowerstone'dan bir eş adayı bulmanızı istiyor."
+    },
+    {
+      "id": "2ebbe018",
+      "bank_id": "90bbb600",
+      "text": "Ah... Evet, tam aradığım gibi... mükemmel görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "2ebbe019",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "2ebbe01a",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "2ebbe01b",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "2ebbe01c",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "2ebbe01d",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "2ebbe01e",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "2f734060",
+      "bank_id": "90bbb600",
+      "text": "Pek mutlu görünmüyorsun oğlum. Neyin var?"
+    },
+    {
+      "id": "307341d3",
+      "bank_id": "90bbb600",
+      "text": "Evet. Öyle görünüyor."
+    },
+    {
+      "id": "31734346",
+      "bank_id": "90bbb600",
+      "text": "Ama neden?"
+    },
+    {
+      "id": "32734539",
+      "bank_id": "90bbb600",
+      "text": "Bu. Bu doğru değil. Üzgünüm, bunu yapamam. Elimde değil, yapamam."
+    },
+    {
+      "id": "37bbee68",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "37bbee69",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "37bbee6b",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "37bbee6c",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "37bbee6d",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "37bbee6e",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "37bbee6f",
+      "bank_id": "90bbb600",
+      "text": "Tam aradığım gibi görünüyor! İşte adım ve adresimin yazılı olduğu bir not. En kısa zamanda beni ziyaret etmesini söyleyin."
+    },
+    {
+      "id": "3906a898",
+      "bank_id": "90bbb600",
+      "text": "Wraithmarsh'taki Kötülük"
+    },
+    {
+      "id": "392f0f30",
+      "bank_id": "90bbb600",
+      "text": "Şu ikisini bir elime geçireyim görürler onlar günlerini."
+    },
+    {
+      "id": "3a461ad0",
+      "bank_id": "90bbb600",
+      "text": "Tavan arasındaki kitaplıkta özellikle nadir bir cilde bakmayı unutmayın: İbadet Kitabı."
+    },
+    {
+      "id": "3b735304",
+      "bank_id": "90bbb600",
+      "text": "Kızlardan hoşlanmı-- derken ne demek istiyorsun? Aaa..."
+    },
+    {
+      "id": "3c7354f7",
+      "bank_id": "90bbb600",
+      "text": "Dinle baba, bunu sana çok önceden söylemeliydim. Ben kızlardan hoşlanmıyorum."
+    },
+    {
+      "id": "4390af97",
+      "bank_id": "90bbb600",
+      "text": "Hakikaten, kof adamlar çağırmadıkları zamanlarda ya hobbe yarışlarına bahis oynuyorlar ya da balverine rodeosuna katılıyorlar."
+    },
+    {
+      "id": "4490b10a",
+      "bank_id": "90bbb600",
+      "text": "Wraithmarsh'a gittiniz mi hiç? Dehşet verici bir yere benziyor. Görmek için sabırsızlanmalarına şaşmamalı."
+    },
+    {
+      "id": "4590b2fd",
+      "bank_id": "90bbb600",
+      "text": "Çocuğunuz var mı hiç? Varsa gözünüzün önünden ayırmayın sakın. İnanın bana."
+    },
+    {
+      "id": "4c9eff98",
+      "bank_id": "90bbb600",
+      "text": "Uysal ve yanlış anlaşılmış yaratıklarmış güya, öyle demişti. Tam bir dokunaç bacağından yakalayıp tek lokmada yutmadan hemen önce."
+    },
+    {
+      "id": "4d9f010b",
+      "bank_id": "90bbb600",
+      "text": "Arka bahçemizde çok şirin bir göletimiz vardı eskiden; ta ki kocam, o talihsiz ruhu şad olsun, içine bir kraken sığdırmaya kalkışana kadar."
+    },
+    {
+      "id": "4e299995",
+      "bank_id": "90bbb600",
+      "text": "Becerebilirsek tabii! Bizi buraya ışınlarken şu Cullis Geçidi denen şeyi kırdın ya!"
+    },
+    {
+      "id": "4e9f02fe",
+      "bank_id": "90bbb600",
+      "text": "Tıpkı babaları gibiler, hep akıl almaz heyecanlar peşinde koşuyorlar."
+    },
+    {
+      "id": "4fe5e6a1",
+      "bank_id": "90bbb600",
+      "text": "Ha, tamam. Anladım. Şehre taşınmak isteyeceksin öyleyse. Öyle değil mi?"
+    },
+    {
+      "id": "539f0a9d",
+      "bank_id": "90bbb600",
+      "text": "Pisliklerini temizlemek hep bana kalıyor tabii ki. Üç tonluk bir krakeni el arabasıyla denize taşımayı denediniz mi hiç?"
+    },
+    {
+      "id": "62205c92",
+      "bank_id": "90bbb600",
+      "text": "Yine başka bir maceraya mı koşuyorsunuz? Klasik."
+    },
+    {
+      "id": "64448860",
+      "bank_id": "90bbb600",
+      "text": "Şimdi ayrılırsanız bu görevdeki tüm ilerlemeniz kaybolacak ve oyun önceki durumuna ve konumuna geri dönecektir."
+    },
+    {
+      "id": "669332d8",
+      "bank_id": "90bbb600",
+      "text": "Ah, ben erkeklerden pek hoşlanmıyorum aslında."
+    },
+    {
+      "id": "669332da",
+      "bank_id": "90bbb600",
+      "text": "Kendi cinsiyetimle kalmayı yeğlerim ama düşündüğünüz için teşekkürler."
+    },
+    {
+      "id": "669332db",
+      "bank_id": "90bbb600",
+      "text": "Kusura bakmayın, ben sadece diğer kızlarla çıkarım."
+    },
+    {
+      "id": "669332dc",
+      "bank_id": "90bbb600",
+      "text": "Buluşma ayarlamak istediğiniz hiç kız yok mu?"
+    },
+    {
+      "id": "669332dd",
+      "bank_id": "90bbb600",
+      "text": "Yok ya, erkekler hiç bana göre değil."
+    },
+    {
+      "id": "669332de",
+      "bank_id": "90bbb600",
+      "text": "Erkekler tam bir ayı. Asla onlarla çıkmam."
+    },
+    {
+      "id": "669332df",
+      "bank_id": "90bbb600",
+      "text": "Kendi arkadaşımı kendim bulabilirim, teşekkür ederim. Ve genellikle bir kadındır."
+    },
+    {
+      "id": "6ac9195e",
+      "bank_id": "90bbb600",
+      "text": "Max ve Sam kardeşler yine bir belaya bulaşmış... Ve bunun için ta Wraithmarsh'a kadar gitmişler."
+    },
+    {
+      "id": "6b933af9",
+      "bank_id": "90bbb600",
+      "text": "Erkeklerle pek ilgilenmiyorum ama sorduğunuz için sağ olun."
+    },
+    {
+      "id": "6b933afa",
+      "bank_id": "90bbb600",
+      "text": "Genellikle sadece kadınlarla çıkarım ben, kusura bakmayın."
+    },
+    {
+      "id": "6b933afb",
+      "bank_id": "90bbb600",
+      "text": "Benim ciddi bir kız arkadaşım var bir kere, bilesiniz."
+    },
+    {
+      "id": "6b933afc",
+      "bank_id": "90bbb600",
+      "text": "Iıh, ben erkeklerle takılmam."
+    },
+    {
+      "id": "6b933afd",
+      "bank_id": "90bbb600",
+      "text": "Kadınlardan hoşlanırım ben. İri kıyım kadınlardan."
+    },
+    {
+      "id": "6b933afe",
+      "bank_id": "90bbb600",
+      "text": "Korkarım ben sadece karşı cinsle görüşüyorum."
+    },
+    {
+      "id": "6b933aff",
+      "bank_id": "90bbb600",
+      "text": "Ah, şey... hmm. A-ha! Şey, gururum okşandı tabii ki ama, ııı... Ben diğer erkeklerle çıkmıyorum."
+    },
+    {
+      "id": "7a744808",
+      "bank_id": "90bbb600",
+      "text": "Rupert'a eş adayından gelen not verilsin mi?"
+    },
+    {
+      "id": "7d744cc1",
+      "bank_id": "90bbb600",
+      "text": "Çiftçi Giles'ın oğlu için bir eş adayı aransın mı?"
+    },
+    {
+      "id": "8fa6f440",
+      "bank_id": "90bbb600",
+      "text": "'Hayır' demiyorum ama 'evet' diyecek kadar da sizi tanımıyorum henüz."
+    },
+    {
+      "id": "8fa6f441",
+      "bank_id": "90bbb600",
+      "text": "Buluşma ayarlamalarına yalnızca gerçekten güvendiğim insanların önayak olmasına izin veririm."
+    },
+    {
+      "id": "8fa6f442",
+      "bank_id": "90bbb600",
+      "text": "İlginç bir teklif. Ama size güvenebileceğimi nereden bileceğim?"
+    },
+    {
+      "id": "8fa6f443",
+      "bank_id": "90bbb600",
+      "text": "Güvenilir biri olduğunuzu bilseydim belki o genç beyefendiyle tanışmaya sıcak bakabilirdim."
+    },
+    {
+      "id": "8fa6f444",
+      "bank_id": "90bbb600",
+      "text": "Yeterince hoş birine benziyor. Ama size niye güveneyim ki?"
+    },
+    {
+      "id": "8fa6f446",
+      "bank_id": "90bbb600",
+      "text": "Hmm, keşke size biraz daha güvenebilseydim."
+    },
+    {
+      "id": "8fa6f447",
+      "bank_id": "90bbb600",
+      "text": "Hmm, tipini beğendim aslında. Ama evet demeden önce size daha çok güvenebilmem lazım."
+    },
+    {
+      "id": "940515e9",
+      "bank_id": "90bbb600",
+      "text": "Hmm, bana anlatmadığınız bir şeyler var. Ama çocuklarım güvende ya ve bataklıkta peşlerinden koşmak zorunda kalmadım ya, önemli olan da bu."
+    },
+    {
+      "id": "94a6fc60",
+      "bank_id": "90bbb600",
+      "text": "Hmm, belki size yeterince güvenebilseydim delikanlıya bir şans verirdim."
+    },
+    {
+      "id": "94a6fc61",
+      "bank_id": "90bbb600",
+      "text": "Size yeterince güvenmiyorum işte. Bu değişirse o zaman bakarız."
+    },
+    {
+      "id": "94a6fc62",
+      "bank_id": "90bbb600",
+      "text": "Genç adamla tanışmaya karşı değilim aslında ama önce size güvenmem gerekir."
+    },
+    {
+      "id": "94a6fc63",
+      "bank_id": "90bbb600",
+      "text": "Aracıya güven duymadan görücü usulü bir buluşmayı asla kabul edemem."
+    },
+    {
+      "id": "94a6fc65",
+      "bank_id": "90bbb600",
+      "text": "Hoş bir delikanlıya benziyor. Ama size güvenecek kadar iyi tanımıyorum sizi."
+    },
+    {
+      "id": "94a6fc66",
+      "bank_id": "90bbb600",
+      "text": "Hmm, tam benim tipim olabilir aslında. Ama size henüz tam güvenmiyorum."
+    },
+    {
+      "id": "94a6fc67",
+      "bank_id": "90bbb600",
+      "text": "Daha önce kötü görücü usulü buluşmalarım oldu. Önce bana güvenebileceğimi kanıtlamanız lazım."
+    },
+    {
+      "id": "9d9c7ac3",
+      "bank_id": "90bbb600",
+      "text": "Bayan Spade'in oğulları aransın mı?"
+    },
+    {
+      "id": "a371f343",
+      "bank_id": "90bbb600",
+      "text": "Bana bir... eş adayı bulmamda yardım etti. Evet."
+    },
+    {
+      "id": "a371f348",
+      "bank_id": "90bbb600",
+      "text": "Bana bir... eş adayı bulmamda yardım etti. Evet."
+    },
+    {
+      "id": "a8783dae",
+      "bank_id": "90bbb600",
+      "text": "Ha, öyle mi, anladım. Ne yapacaksın peki?"
+    },
+    {
+      "id": "a9783f01",
+      "bank_id": "90bbb600",
+      "text": "Şey, bir şehirde yaşamayı hep istemişimdir."
+    },
+    {
+      "id": "a98ec5b0",
+      "bank_id": "90bbb600",
+      "text": "İrade Kahramanı: Brightwood Kulesi"
+    },
+    {
+      "id": "ae306858",
+      "bank_id": "90bbb600",
+      "text": "Onunla bu konuyu konuşamam."
+    },
+    {
+      "id": "af3069cb",
+      "bank_id": "90bbb600",
+      "text": "Eski kafalı biridir benim babam. Anlamaz ki."
+    },
+    {
+      "id": "b07fbc63",
+      "bank_id": "90bbb600",
+      "text": "Eee, güzel kız mı bari? Öyledir kesin."
+    },
+    {
+      "id": "b1306d11",
+      "bank_id": "90bbb600",
+      "text": "Babama bunu nasıl söylerim?"
+    },
+    {
+      "id": "b17fbdd6",
+      "bank_id": "90bbb600",
+      "text": "Hadi ama, bizi merakta bırakmayın. Bizim Rupert burada meraktan ölüp bitiyor, değil mi oğlum?"
+    },
+    {
+      "id": "b1cc7d66",
+      "bank_id": "90bbb600",
+      "text": "Saçmalama. Seni burada yapayalnız bırakacak değilim. Sat gitsin. Benimle gel."
+    },
+    {
+      "id": "b27fbf49",
+      "bank_id": "90bbb600",
+      "text": "Bize ondan biraz bahsetsene öyleyse."
+    },
+    {
+      "id": "beced054",
+      "bank_id": "90bbb600",
+      "text": "Neyse, o mutlu olduğu müddetçe sanırım ben de mutluyum."
+    },
+    {
+      "id": "bfced1c7",
+      "bank_id": "90bbb600",
+      "text": "Bir kez daha sana çok şey borçluyum. Çiftlikle ilgileniyorsan sana çok uygun bir fiyat veririm, bunu söylemeye bile gerek yok. Güvendiğim birine gitmesini yeğlerim."
+    },
+    {
+      "id": "c0ced3ba",
+      "bank_id": "90bbb600",
+      "text": "Bunu sahiden mi söylüyorsun?"
+    },
+    {
+      "id": "c1ced52d",
+      "bank_id": "90bbb600",
+      "text": "Elbette."
+    },
+    {
+      "id": "d97ca1f9",
+      "bank_id": "90bbb600",
+      "text": "Evet. Şey, tehlike geçince tabii."
+    },
+    {
+      "id": "dbabbe88",
+      "bank_id": "90bbb600",
+      "text": "Öyle mi dersin? Biliyordum işte! Kırk yılda bir lafımı dinleyeceksiniz ikiniz de. İsteseniz de istemeseniz de fırıncı olacaksınız!"
+    },
+    {
+      "id": "dcabc07b",
+      "bank_id": "90bbb600",
+      "text": "Ama ben ekmekten nefret ediyorum."
+    },
+    {
+      "id": "ddabc1ee",
+      "bank_id": "90bbb600",
+      "text": "Onun yerine bisküvi pişiremez miyiz?"
+    },
+    {
+      "id": "deabc341",
+      "bank_id": "90bbb600",
+      "text": "Bu kadar yeter. Hadi yallah!"
+    },
+    {
+      "id": "e4667c66",
+      "bank_id": "90bbb600",
+      "text": "Şu yaşlı kadına bir iyilik yapın da o aptal serserileri geri getirin, ne olursunuz?"
+    },
+    {
+      "id": "e6667f4c",
+      "bank_id": "90bbb600",
+      "text": "Oğullarımın kafasını süslü fikirlerle doldurup duran hep sizin gibi maceracılar işte. Biz zavallı annelere yardım etmenizin vakti geldi de geçiyor."
+    },
+    {
+      "id": "e766813f",
+      "bank_id": "90bbb600",
+      "text": "Benim çocuklarım Wraithmarsh denen o korkunç yeri keşfetmeyi hep istemişti ve en sonunda oraya gitmenin bir yolunu bulmuşlar."
+    },
+    {
+      "id": "efb25028",
+      "bank_id": "90bbb600",
+      "text": "Ah, bir şansın yaver gitti mi dostum?"
+    },
+    {
+      "id": "efcd12c8",
+      "bank_id": "90bbb600",
+      "text": "Evet, ben..."
+    },
+    {
+      "id": "f1cd162e",
+      "bank_id": "90bbb600",
+      "text": "O konu hakkında şey... Tam olarak bir kadın sayılmaz. Daha ziyade... şey, bir erkek aslında."
+    },
+    {
+      "id": "f2cd1781",
+      "bank_id": "90bbb600",
+      "text": "Ne? Bir erkek mi? Yani... Yani sen..."
+    },
+    {
+      "id": "f5b5d95b",
+      "bank_id": "90bbb600",
+      "text": "Yeniden Doldur"
+    },
+    {
+      "id": "f9234a03",
+      "bank_id": "90bbb600",
+      "text": "Rupert'ın resmini onunla buluşmasını istediğiniz köylüye gösterin. Her köylü uygun değildir."
+    },
+    {
+      "id": "fc06ba1e",
+      "bank_id": "90bbb600",
+      "text": "Bayan Spade'in yanına dönün."
+    },
+    {
+      "id": "fceb58b3",
+      "bank_id": "90bbb600",
+      "text": "Hepsi gitti mi?"
+    },
+    {
+      "id": "fd06bbf1",
+      "bank_id": "90bbb600",
+      "text": "Bloodstone'daki banshee'yi öldürün."
+    },
+    {
+      "id": "fdeb5a26",
+      "bank_id": "90bbb600",
+      "text": "Teşekkür ederim. Hey. Biz sizi tanıyor muyuz? Kof Adamları öldürürken gözüme pek tanıdık geldiniz."
+    },
+    {
+      "id": "fe06bd64",
+      "bank_id": "90bbb600",
+      "text": "Max ve Sam'in yanına dönün."
+    },
+    {
+      "id": "feeb5b99",
+      "bank_id": "90bbb600",
+      "text": "Önemli olan her şeyin bitmiş olması."
+    },
+    {
+      "id": "ff06bed7",
+      "bank_id": "90bbb600",
+      "text": "Max ve Sam'i kof adamlardan kurtarın."
+    }
+  ]
+}

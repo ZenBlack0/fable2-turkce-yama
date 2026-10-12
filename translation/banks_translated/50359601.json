@@ -1,0 +1,896 @@
+{
+  "bank_id": "50359601",
+  "total_strings": 178,
+  "strings": [
+    {
+      "id": "0c134fe0",
+      "bank_id": "50359601",
+      "text": "Ben de tıpkı senin gibi dünyadaki en ünlü Kahraman olmak istiyorum, baba!"
+    },
+    {
+      "id": "0c134feb",
+      "bank_id": "50359601",
+      "text": "Ben de tıpkı senin gibi dünyadaki en ünlü Kahraman olmak istiyorum, anne!"
+    },
+    {
+      "id": "0d3ba179",
+      "bank_id": "50359601",
+      "text": "Hey, şu Gölgeler Tapınağı'ndan mısın sen? Güzel mekân."
+    },
+    {
+      "id": "0d3ba17b",
+      "bank_id": "50359601",
+      "text": "Seni pis tarikatçı. Git o çıtır tavuklarını başka yerde ye."
+    },
+    {
+      "id": "0d3ba17d",
+      "bank_id": "50359601",
+      "text": "Siz gölgeye tapanlardan hiç hazzetmiyorum."
+    },
+    {
+      "id": "11639127",
+      "bank_id": "50359601",
+      "text": "Hayatımda gördüğüm en berbat kıyafetler bunlar."
+    },
+    {
+      "id": "122bbcb8",
+      "bank_id": "50359601",
+      "text": "O sakal sana gerçekten çok yakışmış."
+    },
+    {
+      "id": "122bbcba",
+      "bank_id": "50359601",
+      "text": "Pek fiyakalı bir sakal!"
+    },
+    {
+      "id": "122bbcbd",
+      "bank_id": "50359601",
+      "text": "Çenedeki güzel bir sakal gibisi yok, değil mi?"
+    },
+    {
+      "id": "172bc459",
+      "bank_id": "50359601",
+      "text": "Güzel bir sakalı severim doğrusu. Seninki gibi mesela."
+    },
+    {
+      "id": "172bc45b",
+      "bank_id": "50359601",
+      "text": "Vay canına, daha önce hiç böyle bir sakal görmemiştim."
+    },
+    {
+      "id": "172bc45d",
+      "bank_id": "50359601",
+      "text": "Uzun zamandır gördüğüm en güzel sakal bu."
+    },
+    {
+      "id": "1788b0d2",
+      "bank_id": "50359601",
+      "text": "Sen dünyanın en harika annesisin. Ama bunu arkadaşlarıma söylediğimi anlatma sakın."
+    },
+    {
+      "id": "1788b0d9",
+      "bank_id": "50359601",
+      "text": "Büyüyünce tıpkı senin gibi olmak istiyorum, baba."
+    },
+    {
+      "id": "183bb2a8",
+      "bank_id": "50359601",
+      "text": "Gölgeler Tapınağı'nda işler nasıl gidiyor?"
+    },
+    {
+      "id": "183bb2ae",
+      "bank_id": "50359601",
+      "text": "Sen! Sen gölgeye tapan birisin, değil mi?"
+    },
+    {
+      "id": "18639c2a",
+      "bank_id": "50359601",
+      "text": "Neden böyle berbat kıyafetler giyiyorsun ki?"
+    },
+    {
+      "id": "1ac52181",
+      "bank_id": "50359601",
+      "text": "Gördüğüm en berbat palto."
+    },
+    {
+      "id": "1ac52186",
+      "bank_id": "50359601",
+      "text": "Öğğ, o palto ne kadar korkunç öyle."
+    },
+    {
+      "id": "1ac52187",
+      "bank_id": "50359601",
+      "text": "O çirkin paltoya para vermedin herhalde, değil mi?"
+    },
+    {
+      "id": "1fc529a1",
+      "bank_id": "50359601",
+      "text": "O palto üstüne kusulmaya bile değmez."
+    },
+    {
+      "id": "1fc529a6",
+      "bank_id": "50359601",
+      "text": "O bir palto mu yoksa ölü bir balverine mi?"
+    },
+    {
+      "id": "1fc529a7",
+      "bank_id": "50359601",
+      "text": "İnsan neden öyle bir palto giyer ki?"
+    },
+    {
+      "id": "26705683",
+      "bank_id": "50359601",
+      "text": "Ne kadar da cici bir kız. Ha ha!"
+    },
+    {
+      "id": "26705688",
+      "bank_id": "50359601",
+      "text": "Hadi ama! Biraz bacak göstermen gerekmiyor muydu!"
+    },
+    {
+      "id": "28cc8568",
+      "bank_id": "50359601",
+      "text": "Keşke öyle giyinecek param olsaydı. Hm, belki de olur..."
+    },
+    {
+      "id": "28cc856a",
+      "bank_id": "50359601",
+      "text": "Ah, öyle bir kıyafete hiç hayır demezdim."
+    },
+    {
+      "id": "28cc856d",
+      "bank_id": "50359601",
+      "text": "Onlar gibi fiyakalı kıyafetlere kesinlikle ihtiyacım var."
+    },
+    {
+      "id": "28cc856e",
+      "bank_id": "50359601",
+      "text": "Acaba bu kadar kusursuz kıyafetleri nereden satın alabilirim?"
+    },
+    {
+      "id": "28cc856f",
+      "bank_id": "50359601",
+      "text": "Baksanıza, ne kadar zarif bir kıyafet, öyle değil mi?"
+    },
+    {
+      "id": "2b8dec36",
+      "bank_id": "50359601",
+      "text": "Ah, gölgeye tapan bir yoldaş. Yarasa gece yarısı uçar."
+    },
+    {
+      "id": "2dcc8d0a",
+      "bank_id": "50359601",
+      "text": "Pek şık giyimli bir maceracı doğrusu."
+    },
+    {
+      "id": "2dcc8d0b",
+      "bank_id": "50359601",
+      "text": "Keşke benim de öyle bir giyim zevkim olsaydı."
+    },
+    {
+      "id": "2dcc8d0d",
+      "bank_id": "50359601",
+      "text": "Şu kıyafeti gördün mü? Harika görünüyor, sence de öyle değil mi?"
+    },
+    {
+      "id": "2fbc1d83",
+      "bank_id": "50359601",
+      "text": "O kıyafetlerin bir erkek için tasarlandığına emin misin?"
+    },
+    {
+      "id": "2fbc1d88",
+      "bank_id": "50359601",
+      "text": "Biraz erkek fatmayız galiba?"
+    },
+    {
+      "id": "31975fd5",
+      "bank_id": "50359601",
+      "text": "Bu benim de etek giyebileceğim anlamına mı geliyor?"
+    },
+    {
+      "id": "31975fde",
+      "bank_id": "50359601",
+      "text": "O kıyafetler biraz... şey, kız gibi değil mi?"
+    },
+    {
+      "id": "323c85d0",
+      "bank_id": "50359601",
+      "text": "Sana neyin çok yakışacağını biliyor musun? Bir ustura ve tıraş köpüğü."
+    },
+    {
+      "id": "323c85d3",
+      "bank_id": "50359601",
+      "text": "Bize bir iyilik yap da tıraş ol, olur mu?"
+    },
+    {
+      "id": "323c85d6",
+      "bank_id": "50359601",
+      "text": "Yüzündeki o kıllar milletin kabuslarına giriyor."
+    },
+    {
+      "id": "32791503",
+      "bank_id": "50359601",
+      "text": "Nasıl gidiyor baba?"
+    },
+    {
+      "id": "32791508",
+      "bank_id": "50359601",
+      "text": "Nasıl gidiyor anne?"
+    },
+    {
+      "id": "37fd5148",
+      "bank_id": "50359601",
+      "text": "Ha ha! Yüzündeki o tüyler de ne öyle tatlım?"
+    },
+    {
+      "id": "37fd5149",
+      "bank_id": "50359601",
+      "text": "Ooooh, bir kadında gür bir sakaldan daha çok sevdiğim hiçbir şey yoktur. Ho ho!"
+    },
+    {
+      "id": "37fd514a",
+      "bank_id": "50359601",
+      "text": "Ah, sakallı bir bayan. Büyüleyici."
+    },
+    {
+      "id": "37fd514b",
+      "bank_id": "50359601",
+      "text": "Görünüşe göre tıbbi bir garipliğiniz var. Sanırım bu rahatsızlığa Sakallıbayanius deniyor."
+    },
+    {
+      "id": "37fd514d",
+      "bank_id": "50359601",
+      "text": "Keşke ben de öyle bir sakal bırakabilsem!"
+    },
+    {
+      "id": "37fd514e",
+      "bank_id": "50359601",
+      "text": "Bunun için bir krem yapıyorlar biliyor musun. Kaynanam sürekli kullanıyor. Ha ha."
+    },
+    {
+      "id": "37fd514f",
+      "bank_id": "50359601",
+      "text": "Hmm, yüzün köpeğininkinden daha kıllı."
+    },
+    {
+      "id": "393c90d2",
+      "bank_id": "50359601",
+      "text": "Evet, sakal güzel görünüyor. Amacın vahşi hayvanları kendine çekmekse tabii."
+    },
+    {
+      "id": "393c90d4",
+      "bank_id": "50359601",
+      "text": "Yüzünde bir çeşit istila var sanki."
+    },
+    {
+      "id": "393c90d5",
+      "bank_id": "50359601",
+      "text": "O çirkin çalılığın arkasına ne saklamaya çalışıyorsun?"
+    },
+    {
+      "id": "42fd62f8",
+      "bank_id": "50359601",
+      "text": "Hey, amcamın da tıpkı seninki gibi bir sakalı var. Çok çekici gerçekten. Ha!"
+    },
+    {
+      "id": "42fd62f9",
+      "bank_id": "50359601",
+      "text": "O bıyıklarla bütün erkekler senin için birbirini yiyor olmalı."
+    },
+    {
+      "id": "42fd62fa",
+      "bank_id": "50359601",
+      "text": "Ah, bu sezon kadınlarda kürk modasının hakim olduğunu bilmiyordum."
+    },
+    {
+      "id": "42fd62fb",
+      "bank_id": "50359601",
+      "text": "Panik yapmayın ama yüzünüzde bir tür hayvan var gibi görünüyor."
+    },
+    {
+      "id": "42fd62fc",
+      "bank_id": "50359601",
+      "text": "Sende tuhaf bir şey var. Neydi o? Ah evet. Sakal."
+    },
+    {
+      "id": "42fd62fe",
+      "bank_id": "50359601",
+      "text": "Neye ihtiyacın olduğunu biliyorsun, değil mi? İyi bir usturaya."
+    },
+    {
+      "id": "42fd62ff",
+      "bank_id": "50359601",
+      "text": "Ah, kasabada sirk olduğunu bilmiyordum. Hi hi."
+    },
+    {
+      "id": "542a6c53",
+      "bank_id": "50359601",
+      "text": "Üstlerindeki bir hobbe kılığı falan mı?"
+    },
+    {
+      "id": "542a6c54",
+      "bank_id": "50359601",
+      "text": "O kıyafetleri giyerken akıllarından ne geçiyordu acaba."
+    },
+    {
+      "id": "55f6bde8",
+      "bank_id": "50359601",
+      "text": "Bundan daha berbat bir kıyafet takımı gördünüz mü hiç?"
+    },
+    {
+      "id": "55f6bded",
+      "bank_id": "50359601",
+      "text": "O kıyafetler yakılmalı. Hepsi birden."
+    },
+    {
+      "id": "55f6bdef",
+      "bank_id": "50359601",
+      "text": "O kıyafetlerin yeri çöplük."
+    },
+    {
+      "id": "57dde5ae",
+      "bank_id": "50359601",
+      "text": "Kıyafetlerine bayıldım."
+    },
+    {
+      "id": "5b2a7758",
+      "bank_id": "50359601",
+      "text": "Bu ne biçim bir kılık kıyafet böyle?!"
+    },
+    {
+      "id": "5b2a775f",
+      "bank_id": "50359601",
+      "text": "Bundan daha iyi giyinen köpekler gördüm."
+    },
+    {
+      "id": "5bf56725",
+      "bank_id": "50359601",
+      "text": "İşte sakallı bayan geçiyor! Ho ho!"
+    },
+    {
+      "id": "60ddf3fb",
+      "bank_id": "50359601",
+      "text": "Şu kıyafetler harika!"
+    },
+    {
+      "id": "60f6cf18",
+      "bank_id": "50359601",
+      "text": "O kıyafetlerle gömülmek bile istemezdim. Öğğ!"
+    },
+    {
+      "id": "60f6cf1a",
+      "bank_id": "50359601",
+      "text": "Hiç böyle bir moda felaketi gördünüz mü?"
+    },
+    {
+      "id": "60f6cf1b",
+      "bank_id": "50359601",
+      "text": "Hiç böyle bir moda cinayeti gördünüz mü?"
+    },
+    {
+      "id": "60f6cf1c",
+      "bank_id": "50359601",
+      "text": "Şu kıyafetleri gördün mü? Çirkin, çirkin, çirkin."
+    },
+    {
+      "id": "60f6cf1f",
+      "bank_id": "50359601",
+      "text": "Hayatımda gördüğüm en berbat kıyafet bu."
+    },
+    {
+      "id": "61ba899a",
+      "bank_id": "50359601",
+      "text": "O kıyafeti kendin mi uydurdun? Vay canına."
+    },
+    {
+      "id": "61ba899b",
+      "bank_id": "50359601",
+      "text": "Giydiklerin hoşuma gitti."
+    },
+    {
+      "id": "61ba899c",
+      "bank_id": "50359601",
+      "text": "Pek enfes bir kılık kıyafet."
+    },
+    {
+      "id": "66ba91b9",
+      "bank_id": "50359601",
+      "text": "Üstündeki harika bir kıyafet takımı."
+    },
+    {
+      "id": "66ba91bb",
+      "bank_id": "50359601",
+      "text": "Harika bir terzin olmalı."
+    },
+    {
+      "id": "66ba91bc",
+      "bank_id": "50359601",
+      "text": "Giyinmeyi biliyorsun. Doğruya doğru."
+    },
+    {
+      "id": "6f3f4bb1",
+      "bank_id": "50359601",
+      "text": "Buna tarz mı diyorsun? Domuz tarzı belki."
+    },
+    {
+      "id": "6f3f4bb4",
+      "bank_id": "50359601",
+      "text": "Hıh. O parçalar birbirine hiç uymamış."
+    },
+    {
+      "id": "6f3f4bb6",
+      "bank_id": "50359601",
+      "text": "Moda konusunda pek bir gözün yok anlaşılan."
+    },
+    {
+      "id": "6f7ceb23",
+      "bank_id": "50359601",
+      "text": "Olamaz! Bir haydut!"
+    },
+    {
+      "id": "6f7ceb24",
+      "bank_id": "50359601",
+      "text": "Olamaz! Bir haydut!"
+    },
+    {
+      "id": "72f9311e",
+      "bank_id": "50359601",
+      "text": "<giggles> Sakal bir hanımefendide çok komik duruyor."
+    },
+    {
+      "id": "743f5351",
+      "bank_id": "50359601",
+      "text": "Ne o, seni kör bir hobbe mi giydirdi?"
+    },
+    {
+      "id": "743f5355",
+      "bank_id": "50359601",
+      "text": "Bugün gözlerin kapalı mı giyindin sen?"
+    },
+    {
+      "id": "743f5356",
+      "bank_id": "50359601",
+      "text": "Moda hakkında öğreneceğin birkaç şey var."
+    },
+    {
+      "id": "767cf62a",
+      "bank_id": "50359601",
+      "text": "Ah! Sen... Sen gerçek bir haydut değilsin, değil mi???"
+    },
+    {
+      "id": "767cf62f",
+      "bank_id": "50359601",
+      "text": "Ah! Sen... Sen gerçek bir haydut değilsin, değil mi???"
+    },
+    {
+      "id": "78852020",
+      "bank_id": "50359601",
+      "text": "Ben de ara sıra karşı cinsin kıyafetlerini giymekten hoşlanırım. İç çamaşırları çok daha yumuşak."
+    },
+    {
+      "id": "7885202b",
+      "bank_id": "50359601",
+      "text": "Kendimizi pek bir erkeksi hissediyoruz galiba?"
+    },
+    {
+      "id": "7a168704",
+      "bank_id": "50359601",
+      "text": "Senin gibi bir babam olduğu için çok şanslıyım."
+    },
+    {
+      "id": "7b4217a0",
+      "bank_id": "50359601",
+      "text": "Gittiğinde beni özlersin umarım, babacığım."
+    },
+    {
+      "id": "7b4217ab",
+      "bank_id": "50359601",
+      "text": "Gittiğinde beni özlersin umarım, anneciğim."
+    },
+    {
+      "id": "7b667064",
+      "bank_id": "50359601",
+      "text": "Belki de cinsiyet değişikliği için başvurmalısın."
+    },
+    {
+      "id": "7b667067",
+      "bank_id": "50359601",
+      "text": "Ha ha! Paha biçilemez!"
+    },
+    {
+      "id": "7be7b5a4",
+      "bank_id": "50359601",
+      "text": "Hey, saçındaki kurdeleyi unutmuşsun! Ho ho!"
+    },
+    {
+      "id": "7be7b5af",
+      "bank_id": "50359601",
+      "text": "Böyle giyinerek ne halt ettiğini sanıyorsun sen kadın?"
+    },
+    {
+      "id": "7bf93f6b",
+      "bank_id": "50359601",
+      "text": "<laughs> Sen sakallı bir kadınsın!"
+    },
+    {
+      "id": "81d0e720",
+      "bank_id": "50359601",
+      "text": "Pöh! Kendine bir de erkek mi diyorsun?"
+    },
+    {
+      "id": "81d0e72b",
+      "bank_id": "50359601",
+      "text": "Böyle giyinerek neyi kanıtlamaya çalışıyorsun?"
+    },
+    {
+      "id": "8aa3da14",
+      "bank_id": "50359601",
+      "text": "Baba! Ortalıkta böyle dolaşamazsın!"
+    },
+    {
+      "id": "8aa3da1f",
+      "bank_id": "50359601",
+      "text": "Merak etme anneciğim, güzel olmak önemli değil, unuttun mu?"
+    },
+    {
+      "id": "93a94512",
+      "bank_id": "50359601",
+      "text": "Sence öyle bir sakal bana da yakışır mı?"
+    },
+    {
+      "id": "93a94515",
+      "bank_id": "50359601",
+      "text": "İşte tam bir erkek sakalı bu."
+    },
+    {
+      "id": "9ce2cf59",
+      "bank_id": "50359601",
+      "text": "Bak şu kıyafetleri sevdim işte! Nereden aldın onları?"
+    },
+    {
+      "id": "9ce2cf5a",
+      "bank_id": "50359601",
+      "text": "Tarzın tebrik edilmeli doğrusu."
+    },
+    {
+      "id": "9ce2cf5b",
+      "bank_id": "50359601",
+      "text": "Gerçekten çok şık giyinmişsin."
+    },
+    {
+      "id": "9ce2cf5e",
+      "bank_id": "50359601",
+      "text": "Kıyafetine bayıldım. Terzin kim senin?"
+    },
+    {
+      "id": "9e5638b4",
+      "bank_id": "50359601",
+      "text": "Selam babacığım."
+    },
+    {
+      "id": "9e5638bf",
+      "bank_id": "50359601",
+      "text": "Merhaba anne."
+    },
+    {
+      "id": "9ea95643",
+      "bank_id": "50359601",
+      "text": "Şu sakala ne diyorsun? Bayağı seksi, değil mi?"
+    },
+    {
+      "id": "9ea95645",
+      "bank_id": "50359601",
+      "text": "Dudaklarını onun gibi bir sakala gömmek istemez miydin?"
+    },
+    {
+      "id": "a7e2e089",
+      "bank_id": "50359601",
+      "text": "İşte tarz dediğin böyle olur."
+    },
+    {
+      "id": "a7e2e08a",
+      "bank_id": "50359601",
+      "text": "Ne muazzam bir kıyafet!"
+    },
+    {
+      "id": "a7e2e08b",
+      "bank_id": "50359601",
+      "text": "Ah, kıyafetlerini kim dikiyor? Olağanüstü görünüyorlar!"
+    },
+    {
+      "id": "a7e2e08c",
+      "bank_id": "50359601",
+      "text": "Şu kıyafete bayıldım. Çok özgün."
+    },
+    {
+      "id": "aabbb753",
+      "bank_id": "50359601",
+      "text": "Ünlü bir babaya sahip olmak süper bir şey!"
+    },
+    {
+      "id": "aabbb758",
+      "bank_id": "50359601",
+      "text": "Ünlü bir anneye sahip olmak süper bir şey!"
+    },
+    {
+      "id": "abc91296",
+      "bank_id": "50359601",
+      "text": "Bütün aynaları yine örteyim mi anne?"
+    },
+    {
+      "id": "abc9129d",
+      "bank_id": "50359601",
+      "text": "Benim yaşımdayken sen de bu kadar çirkin miydin baba?"
+    },
+    {
+      "id": "b57b8f0a",
+      "bank_id": "50359601",
+      "text": "Diğer kadınlardan farklı göründüğün kesin, hakkını yemeyeyim."
+    },
+    {
+      "id": "ba7b972d",
+      "bank_id": "50359601",
+      "text": "Güzel sakallı bir kadından daha seksisi yoktur. Ha ha."
+    },
+    {
+      "id": "ba81de64",
+      "bank_id": "50359601",
+      "text": "Ayyy! Sen gerçek bir haydut musun?"
+    },
+    {
+      "id": "bd93e182",
+      "bank_id": "50359601",
+      "text": "Bütün arkadaşlarım babam Albion'daki en meşhur maceracı olduğu için beni çok kıskanıyor! Bir tanesin!"
+    },
+    {
+      "id": "bd93e189",
+      "bank_id": "50359601",
+      "text": "Bütün arkadaşlarım annem Albion'daki en meşhur maceracı olduğu için beni çok kıskanıyor! Bir tanesin!"
+    },
+    {
+      "id": "be3e3cb6",
+      "bank_id": "50359601",
+      "text": "Selam anneciğim."
+    },
+    {
+      "id": "be3e3cbd",
+      "bank_id": "50359601",
+      "text": "Selam baba."
+    },
+    {
+      "id": "bead12c7",
+      "bank_id": "50359601",
+      "text": "Umarım başka bir göreve çıkmadan önce yanımızda uzun süre kalırsın baba."
+    },
+    {
+      "id": "bead12cc",
+      "bank_id": "50359601",
+      "text": "Umarım başka bir göreve çıkmadan önce yanımızda uzun süre kalırsın anne."
+    },
+    {
+      "id": "c51e2c00",
+      "bank_id": "50359601",
+      "text": "Seni seviyorum babacığım."
+    },
+    {
+      "id": "c51e2c0b",
+      "bank_id": "50359601",
+      "text": "Seni seviyorum anneciğim."
+    },
+    {
+      "id": "c5c64943",
+      "bank_id": "50359601",
+      "text": "Baba, bütün arkadaşlarım senin gelmiş geçmiş en ünlü kahraman olduğunu söylüyor!"
+    },
+    {
+      "id": "c5c64948",
+      "bank_id": "50359601",
+      "text": "Anne, bütün arkadaşlarım senin gelmiş geçmiş en ünlü kahraman olduğunu söylüyor!"
+    },
+    {
+      "id": "c77540f2",
+      "bank_id": "50359601",
+      "text": "Sen de mi ipek iç çamaşırı giyiyorsun? Baştan çıkarıcı, değil mi?"
+    },
+    {
+      "id": "c77540f9",
+      "bank_id": "50359601",
+      "text": "Son derece uygunsuz bir şekilde giyinmişsiniz."
+    },
+    {
+      "id": "c7b2e6fe",
+      "bank_id": "50359601",
+      "text": "Ha ha, yanlış kıyafetleri giymişsin!"
+    },
+    {
+      "id": "c8b2b793",
+      "bank_id": "50359601",
+      "text": "İşte moda dediğin böyle olur."
+    },
+    {
+      "id": "c8b2b796",
+      "bank_id": "50359601",
+      "text": "Buralarda genellikle bu kadar iyi giyinen insanlara rastlanmaz."
+    },
+    {
+      "id": "cfb2c292",
+      "bank_id": "50359601",
+      "text": "Hmm, buralı olamayacak kadar iyi giyimliler."
+    },
+    {
+      "id": "cfb2c295",
+      "bank_id": "50359601",
+      "text": "Giydikleri şeye bayıldım."
+    },
+    {
+      "id": "d0b2f4cb",
+      "bank_id": "50359601",
+      "text": "Karanlıkta mı giyindin? Ben de bazen öyle yaparım."
+    },
+    {
+      "id": "d0c107f2",
+      "bank_id": "50359601",
+      "text": "Hmm, benim de tam bunun gibi bir kıyafetim var..."
+    },
+    {
+      "id": "d0c107f9",
+      "bank_id": "50359601",
+      "text": "Bir dakika, sen erkek değilsin!"
+    },
+    {
+      "id": "da95b770",
+      "bank_id": "50359601",
+      "text": "Öyle bir sakalı olan birinin yanına asla yaklaşmam."
+    },
+    {
+      "id": "da95b776",
+      "bank_id": "50359601",
+      "text": "Daha önce bir yüzde bu kadar iğrenç bir şey görmemiştim."
+    },
+    {
+      "id": "dc200035",
+      "bank_id": "50359601",
+      "text": "Bir dakika, sen bir erkeksin! Doğru ya!"
+    },
+    {
+      "id": "dc20003e",
+      "bank_id": "50359601",
+      "text": "Bizim çocuklardan biri daha demek. *öksürür*"
+    },
+    {
+      "id": "dee7c782",
+      "bank_id": "50359601",
+      "text": "Annemin dünyadaki en ünlü süper kahraman olması ne kadar havalı! Sen bir harikasın!"
+    },
+    {
+      "id": "dee7c789",
+      "bank_id": "50359601",
+      "text": "Babamın dünyadaki en ünlü süper kahraman olması ne kadar havalı! Sen bir harikasın!"
+    },
+    {
+      "id": "e395c55a",
+      "bank_id": "50359601",
+      "text": "Bana sorarsan bir tür kıllı canavara benziyor."
+    },
+    {
+      "id": "e395c55f",
+      "bank_id": "50359601",
+      "text": "O sakalla ne yapmaya çalışıyordu acaba?"
+    },
+    {
+      "id": "e56bc735",
+      "bank_id": "50359601",
+      "text": "O kılık kıyafet için fazla erkeksi değil misiniz?"
+    },
+    {
+      "id": "e56bc73e",
+      "bank_id": "50359601",
+      "text": "Bir hanımefendinin böyle giyinmesi hiç yakışık almaz."
+    },
+    {
+      "id": "e867cd8b",
+      "bank_id": "50359601",
+      "text": "Terzini değiştirmen gerek."
+    },
+    {
+      "id": "e867cd8c",
+      "bank_id": "50359601",
+      "text": "Ne biçim paçavralar giyiyorsun öyle? Berbat."
+    },
+    {
+      "id": "e867cd8e",
+      "bank_id": "50359601",
+      "text": "Daha önce hiç bu kadar iğrenç bir kıyafet görmemiştim."
+    },
+    {
+      "id": "e867cd8f",
+      "bank_id": "50359601",
+      "text": "Kıyafetlerin gerçekten rahatsız edici. Resmen modaya karşı işlenmiş bir suç."
+    },
+    {
+      "id": "e9a9d1aa",
+      "bank_id": "50359601",
+      "text": "Güzel palto."
+    },
+    {
+      "id": "e9a9d1ab",
+      "bank_id": "50359601",
+      "text": "O güzel paltoyu nereden aldın?"
+    },
+    {
+      "id": "e9a9d1ac",
+      "bank_id": "50359601",
+      "text": "O palto sıcacık görünüyor."
+    },
+    {
+      "id": "ed67d5ab",
+      "bank_id": "50359601",
+      "text": "Üzgünüm ama kıyafetlerin tek kelimeyle berbat."
+    },
+    {
+      "id": "ed67d5ac",
+      "bank_id": "50359601",
+      "text": "Bütün kıyafetlerini çıkarıp yakmalısın!"
+    },
+    {
+      "id": "ed67d5ae",
+      "bank_id": "50359601",
+      "text": "O korkunç kıyafetle sokaklarda nasıl yürüyebiliyorsun?"
+    },
+    {
+      "id": "ed67d5af",
+      "bank_id": "50359601",
+      "text": "Kıyafetlerin insanın göz zevkini bozuyor."
+    },
+    {
+      "id": "eea9d949",
+      "bank_id": "50359601",
+      "text": "Öyle bir paltoya bayılırdım."
+    },
+    {
+      "id": "eea9d94a",
+      "bank_id": "50359601",
+      "text": "Hey, harika palto!"
+    },
+    {
+      "id": "eea9d94c",
+      "bank_id": "50359601",
+      "text": "Paltonu beğendim."
+    },
+    {
+      "id": "f10a50f0",
+      "bank_id": "50359601",
+      "text": "Sen ünlüysen baba, ben de ünlü müyüm demek?"
+    },
+    {
+      "id": "f10a50fb",
+      "bank_id": "50359601",
+      "text": "Sen ünlüysen anne, ben de ünlü müyüm demek?"
+    },
+    {
+      "id": "f1feab62",
+      "bank_id": "50359601",
+      "text": "Doğanızın erkeksi yönünü keşfettiğinizi görüyorum."
+    },
+    {
+      "id": "f1feab69",
+      "bank_id": "50359601",
+      "text": "Birinin kadınsı yönünü keşfettiğini görmek ne kadar da ferahlatıcı."
+    },
+    {
+      "id": "f8a05885",
+      "bank_id": "50359601",
+      "text": "Aaaahhh! Bir suikastçı!"
+    },
+    {
+      "id": "fb4a7262",
+      "bank_id": "50359601",
+      "text": "Hiç kadın kıyafeti bulamadın mı?"
+    },
+    {
+      "id": "fb4a7269",
+      "bank_id": "50359601",
+      "text": "Hiç erkek kıyafeti bulamadın mı?"
+    }
+  ]
+}

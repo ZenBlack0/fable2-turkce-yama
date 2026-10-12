@@ -1,0 +1,4 @@
+{
+  "_comment": "Font duzeltmesi (tools/build_fonts.py) ile s,g,i Turkce glifleri gercek kod noktalariyla eklendigi icin esleme BOS. Font olmadan test icin gecici esleme ornegi: {'ı':'i','İ':'I','ş':'š','Ş':'Š','ğ':'g','Ğ':'G'}",
+  "mappings": {}
+}

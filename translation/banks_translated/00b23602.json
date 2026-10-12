@@ -1,0 +1,691 @@
+{
+  "bank_id": "00b23602",
+  "total_strings": 137,
+  "strings": [
+    {
+      "id": "05914932",
+      "bank_id": "00b23602",
+      "text": "<sighs> Yazık bana. Yazık sana. Yazık ona ve buna. Yazık hepimize..."
+    },
+    {
+      "id": "05914934",
+      "bank_id": "00b23602",
+      "text": "<sighs>"
+    },
+    {
+      "id": "05914935",
+      "bank_id": "00b23602",
+      "text": "<sighs>"
+    },
+    {
+      "id": "169e855d",
+      "bank_id": "00b23602",
+      "text": "Barnum sonunda o saçma aletine poz verecek birini buldu. Gerçi istediğini elde edebildiğini sanmıyorum! Ha ha!"
+    },
+    {
+      "id": "1b092ca4",
+      "bank_id": "00b23602",
+      "text": "Vay canına! Buna ihtiyacım var!"
+    },
+    {
+      "id": "1b092ca6",
+      "bank_id": "00b23602",
+      "text": "İnanılmaz bir şey bu!"
+    },
+    {
+      "id": "1b092ca7",
+      "bank_id": "00b23602",
+      "text": "Harika!"
+    },
+    {
+      "id": "1e106671",
+      "bank_id": "00b23602",
+      "text": "Bu dünya çok korkutucu, acayip korkutucu bir yer... İyi ki unutturacak içkilerimiz var."
+    },
+    {
+      "id": "1e106672",
+      "bank_id": "00b23602",
+      "text": "Dizlerim tutmuyor valla, bak cidden bak, çözülüp duruyorlar..."
+    },
+    {
+      "id": "1e106673",
+      "bank_id": "00b23602",
+      "text": "Korkmuyor musun sen? Ben dehşet içindeyim!"
+    },
+    {
+      "id": "1e106674",
+      "bank_id": "00b23602",
+      "text": "Korkuyorum, itiraf ediyorum. Fena korkuyorum. Ama içmek iyi gelecektir."
+    },
+    {
+      "id": "1e106675",
+      "bank_id": "00b23602",
+      "text": "Bir hafta sonra hayatta kalırsam çok şanslı sayılırım bilesin."
+    },
+    {
+      "id": "1e106676",
+      "bank_id": "00b23602",
+      "text": "Aman Tanrım. Aman Tanrım canım. Bu hiç ama hiç iyi değil."
+    },
+    {
+      "id": "1e106677",
+      "bank_id": "00b23602",
+      "text": "Şu sesi duyuyor musun? Dizlerimin birbirine çarpma sesi bu. Korkudan mahvoldum."
+    },
+    {
+      "id": "20093445",
+      "bank_id": "00b23602",
+      "text": "Yarım düzine alayım!"
+    },
+    {
+      "id": "20093446",
+      "bank_id": "00b23602",
+      "text": "Hiç böylesini gördünüz mü?"
+    },
+    {
+      "id": "20093447",
+      "bank_id": "00b23602",
+      "text": "Harika şey!"
+    },
+    {
+      "id": "239888ff",
+      "bank_id": "00b23602",
+      "text": "Balthazar'ın şu böceklerin icabına bakacak birini bulduğu iyi oldu. Adamın fobisi çok derinlerde."
+    },
+    {
+      "id": "25a0ae98",
+      "bank_id": "00b23602",
+      "text": "Bu büyük kalabalıkların neyini seviyorum biliyor musun? Kokusunu."
+    },
+    {
+      "id": "25a0ae9a",
+      "bank_id": "00b23602",
+      "text": "Şu Murgo harika biri değil mi ama?"
+    },
+    {
+      "id": "25a0ae9b",
+      "bank_id": "00b23602",
+      "text": "Ay! Parmağıma basıyorsun!"
+    },
+    {
+      "id": "291077a0",
+      "bank_id": "00b23602",
+      "text": "Korkmuyor musun sen? Ben korkuyorum. Korkudan taş kesildim. Üstelik epey de gerginim."
+    },
+    {
+      "id": "291077a2",
+      "bank_id": "00b23602",
+      "text": "Öyle gerçekçi bir kabustan uyandım ki etkisini bir türlü üzerimden atamıyorum. Alkolün işe yarayacağını umuyorum."
+    },
+    {
+      "id": "291077a3",
+      "bank_id": "00b23602",
+      "text": "Korkularımı dindirmenin tek yolu şişeye sarılmak... Kim dedi bunu?"
+    },
+    {
+      "id": "291077a4",
+      "bank_id": "00b23602",
+      "text": "Az önce beni görecektin. Ellerim öyle fena titriyordu ki içkilerimi döküp duruyordum."
+    },
+    {
+      "id": "291077a5",
+      "bank_id": "00b23602",
+      "text": "İçmemekten çok fazla korkuyorum."
+    },
+    {
+      "id": "291077a6",
+      "bank_id": "00b23602",
+      "text": "Öyle taş kesildim ki tek çaresi içmek."
+    },
+    {
+      "id": "291077a7",
+      "bank_id": "00b23602",
+      "text": "Öyle dehşete düştüm ki... Saklanacak aklıma gelen tek yer burasıydı..."
+    },
+    {
+      "id": "2aa0b6b9",
+      "bank_id": "00b23602",
+      "text": "Dur bir dakika, bunlar geçen yıl sattığı şeylerle aynı değil mi?"
+    },
+    {
+      "id": "2aa0b6ba",
+      "bank_id": "00b23602",
+      "text": "Vay be, şuradaki şeyi gördün mü?"
+    },
+    {
+      "id": "2aa0b6bb",
+      "bank_id": "00b23602",
+      "text": "Hey, itişmek yok!"
+    },
+    {
+      "id": "2f5b8998",
+      "bank_id": "00b23602",
+      "text": "Külliyen yalan!"
+    },
+    {
+      "id": "2f5b899a",
+      "bank_id": "00b23602",
+      "text": "Bizi aptal yerine koyuyor!"
+    },
+    {
+      "id": "2f5b899b",
+      "bank_id": "00b23602",
+      "text": "Ne büyük bir aldatmaca!"
+    },
+    {
+      "id": "345b91b9",
+      "bank_id": "00b23602",
+      "text": "Külahıma anlat sen onu!"
+    },
+    {
+      "id": "345b91ba",
+      "bank_id": "00b23602",
+      "text": "Vaktimizi boşa harcamayı kes!"
+    },
+    {
+      "id": "345b91bb",
+      "bank_id": "00b23602",
+      "text": "Bir tarafına sokabilirsin onu!"
+    },
+    {
+      "id": "3c44e4a1",
+      "bank_id": "00b23602",
+      "text": "Barnum sonunda o saçma aletine poz verecek birini buldu. O şeyin çalışmasına imkân yok!"
+    },
+    {
+      "id": "3d1cb6a8",
+      "bank_id": "00b23602",
+      "text": "<whimpers>"
+    },
+    {
+      "id": "3d1cb6a9",
+      "bank_id": "00b23602",
+      "text": "İnan bana, şu an donumun içini görmek istemezsin."
+    },
+    {
+      "id": "3d1cb6ad",
+      "bank_id": "00b23602",
+      "text": "Dünyanın her yerinde canavarlar var, tuhaf şeyler oluyor... Korkunç bir şey bu!"
+    },
+    {
+      "id": "3d1cb6ae",
+      "bank_id": "00b23602",
+      "text": "Şuradaki herif file dönüşüyor."
+    },
+    {
+      "id": "3d1cb6af",
+      "bank_id": "00b23602",
+      "text": "Ya biri içkime zehir koyduysa? Ah, bu kadarı da fazla artık!"
+    },
+    {
+      "id": "481cc7d8",
+      "bank_id": "00b23602",
+      "text": "Ne kadar kupa devirirsem devireyim, eskisinden farksız korkuyorum."
+    },
+    {
+      "id": "481cc7d9",
+      "bank_id": "00b23602",
+      "text": "Bu sabah öyle bir korktum ki kendimi güvende hissettiğim tek yer burası."
+    },
+    {
+      "id": "481cc7dc",
+      "bank_id": "00b23602",
+      "text": "Ömrümde hiç bu kadar dehşete düşmemiştim. Gerçi mızrak ve pandispanyayla olan o sefer hariç tabii."
+    },
+    {
+      "id": "481cc7de",
+      "bank_id": "00b23602",
+      "text": "Bana sorarsan korkudan titremek için bir meyhaneden daha iyi bir yer yoktur."
+    },
+    {
+      "id": "481cc7df",
+      "bank_id": "00b23602",
+      "text": "Hepimiz öyle korkuyoruz ki tek çıkış yolu içmek, anladın mı?"
+    },
+    {
+      "id": "60d5dc34",
+      "bank_id": "00b23602",
+      "text": "Ne harika!"
+    },
+    {
+      "id": "60d5dc35",
+      "bank_id": "00b23602",
+      "text": "Ah, evet!"
+    },
+    {
+      "id": "60d5dc37",
+      "bank_id": "00b23602",
+      "text": "Tek kelimeyle fevkalade!"
+    },
+    {
+      "id": "67d5e738",
+      "bank_id": "00b23602",
+      "text": "Akıllara durgunluk verici!"
+    },
+    {
+      "id": "67d5e739",
+      "bank_id": "00b23602",
+      "text": "Gelmiş geçmiş en iyi şey bu!"
+    },
+    {
+      "id": "67d5e73a",
+      "bank_id": "00b23602",
+      "text": "Hiç bu kadar heyecanlanmamıştım!"
+    },
+    {
+      "id": "686d853d",
+      "bank_id": "00b23602",
+      "text": "Fairfax'taki şu Lucien'i duydun mu? Kalesinden neredeyse hiç çıkmıyor. Zavallı karısı öldüğünden beri böyle."
+    },
+    {
+      "id": "686d853e",
+      "bank_id": "00b23602",
+      "text": "Bir gün ne yapmak isterdim biliyor musun? Fairfax Kalesi'nin içini görmek. Benim gibileri içeri sokacaklarından değil gerçi."
+    },
+    {
+      "id": "686d853f",
+      "bank_id": "00b23602",
+      "text": "Fairfax Kalesi'ndeki şu uşak herifi gördün mü? Bir şeylerin peşinde fink atıp duruyor. Ne arıyor bilmem gerçi."
+    },
+    {
+      "id": "6d049d68",
+      "bank_id": "00b23602",
+      "text": "Sinirlerim darmadağın oldu. Darmadağın diyorum sana!"
+    },
+    {
+      "id": "6d049d69",
+      "bank_id": "00b23602",
+      "text": "Kimsenin beni buraya kadar takip etmediğine emin misin? Tamamen ve kesin olarak emin misin?"
+    },
+    {
+      "id": "6d049d6a",
+      "bank_id": "00b23602",
+      "text": "Belki burada saklanırsam hepsi geçip gider."
+    },
+    {
+      "id": "6d049d6b",
+      "bank_id": "00b23602",
+      "text": "Hepimiz öleceğiz. Son ferdimize kadar."
+    },
+    {
+      "id": "6d049d6c",
+      "bank_id": "00b23602",
+      "text": "Bütün dünyanın güvenli olduğu ilan edilene kadar buradan çıkmıyorum."
+    },
+    {
+      "id": "6d049d6d",
+      "bank_id": "00b23602",
+      "text": "K-K-Küçük yeşil adamlar gördüm... Burun deliklerimde yaşıyorlar! Dehşet verici diyorum sana!"
+    },
+    {
+      "id": "6d049d6e",
+      "bank_id": "00b23602",
+      "text": "Ah, yakında hepimiz öleceğiz. Biliyorum işte. İçime doğuyor."
+    },
+    {
+      "id": "736d966c",
+      "bank_id": "00b23602",
+      "text": "Fairfax'taki Lord Lucien'i hiç gördün mü? Karısı öldüğünden beri berbat görünüyor. Delirdiğini söyleyenler bile var."
+    },
+    {
+      "id": "736d966e",
+      "bank_id": "00b23602",
+      "text": "Duyduğuma göre Lord Lucien o büyük kalesinde türlü türlü tuhaf işler çeviriyormuş."
+    },
+    {
+      "id": "736d966f",
+      "bank_id": "00b23602",
+      "text": "Lord Lucien'in karısının başına gelenler tam bir trajediydi. Hem de öyle gençti ki. O günden sonra bir daha asla eski haline dönemedi."
+    },
+    {
+      "id": "7604abb8",
+      "bank_id": "00b23602",
+      "text": "Bugünlerde her şey öyle... öyle korkutucu ki. Hepimizin sarhoş olmasına şaşmamalı! Kim dedi bunu??"
+    },
+    {
+      "id": "7604abb9",
+      "bank_id": "00b23602",
+      "text": "Ortalık güvenli olana kadar buradan bir adım atmıyorum. Yani dışarıda her an başıma bir şey gelebilir."
+    },
+    {
+      "id": "7604abbb",
+      "bank_id": "00b23602",
+      "text": "Kendi gölgemden korkuyorum. Cidden, bazen arkamdan sinsi sinsi yaklaştığını görüyorum."
+    },
+    {
+      "id": "7604abbc",
+      "bank_id": "00b23602",
+      "text": "Hanlar elimizde kalan son sığınaktır. Dışarıdaki dünya bize düşman kesildi."
+    },
+    {
+      "id": "7604abbd",
+      "bank_id": "00b23602",
+      "text": "Belki yeterince içersem bu kadar korkmaktan kurtulurum."
+    },
+    {
+      "id": "7604abbe",
+      "bank_id": "00b23602",
+      "text": "Biri beni buraya kadar takip etti. Valla diyorum bak!"
+    },
+    {
+      "id": "7604abbf",
+      "bank_id": "00b23602",
+      "text": "Buradan asla ayrılmayacağım. Ölebilirim yoksa!"
+    },
+    {
+      "id": "87949352",
+      "bank_id": "00b23602",
+      "text": "Aman Tanrım, ah hayır, hayır."
+    },
+    {
+      "id": "87949353",
+      "bank_id": "00b23602",
+      "text": "Burada bile kendimi güvende hissetmiyorum."
+    },
+    {
+      "id": "87949354",
+      "bank_id": "00b23602",
+      "text": "Gözlerimi her kapattığımda örümcekler görüyorum."
+    },
+    {
+      "id": "87949355",
+      "bank_id": "00b23602",
+      "text": "Bu kasabada bir gün daha hayatta kalıp kalamayacağını asla bilemiyorsun."
+    },
+    {
+      "id": "87949357",
+      "bank_id": "00b23602",
+      "text": "Beni ölümden daha çok korkutan hiçbir şey yok. Görünüşe göre zili üç kez çalıyormuş. En azından geldiğini duyuyorsun yani."
+    },
+    {
+      "id": "8bff57bc",
+      "bank_id": "00b23602",
+      "text": "Bir dahaki sefere bize gökyüzünü satmaya kalkar bu."
+    },
+    {
+      "id": "8bff57bd",
+      "bank_id": "00b23602",
+      "text": "Sana oradan bakınca aptal gibi mi görünüyoruz?"
+    },
+    {
+      "id": "8bff57be",
+      "bank_id": "00b23602",
+      "text": "Hadi oradan be!"
+    },
+    {
+      "id": "8e5c0090",
+      "bank_id": "00b23602",
+      "text": "Eski Krallık saç maşaları hakkında bir şey söyledi mi?"
+    },
+    {
+      "id": "8e5c0091",
+      "bank_id": "00b23602",
+      "text": "Bu sefer gerçekten çalışan bir şey alacağım."
+    },
+    {
+      "id": "8e5c0093",
+      "bank_id": "00b23602",
+      "text": "Ne dediğini duyan oldu mu?"
+    },
+    {
+      "id": "8e949e58",
+      "bank_id": "00b23602",
+      "text": "Canımı almaya niyetliler. Biliyorum işte."
+    },
+    {
+      "id": "8e949e59",
+      "bank_id": "00b23602",
+      "text": "Ah, elimi görüyor musun? Titriyor... Bir içki daha alsam iyi olacak. Bak! Gördün mü?"
+    },
+    {
+      "id": "8e949e5a",
+      "bank_id": "00b23602",
+      "text": "En azından burada güvende hissediyorum. Yani neredeyse güvende."
+    },
+    {
+      "id": "8e949e5e",
+      "bank_id": "00b23602",
+      "text": "Ya bu gece dünyanın sonu gelirse? Kaybettiğim onca zamanı telafi edecek kadar içkiyi nasıl sığdırabilirim ki?"
+    },
+    {
+      "id": "8e949e5f",
+      "bank_id": "00b23602",
+      "text": "Bugünlerde dünya fazlasıyla ürkütücü."
+    },
+    {
+      "id": "94ff6588",
+      "bank_id": "00b23602",
+      "text": "Zırvadan başka bir şey değil bu!"
+    },
+    {
+      "id": "94ff6589",
+      "bank_id": "00b23602",
+      "text": "Kafa mı buluyor bu bizimle?"
+    },
+    {
+      "id": "94ff658b",
+      "bank_id": "00b23602",
+      "text": "Ne büyük bir saçmalık yığını!"
+    },
+    {
+      "id": "955c0b94",
+      "bank_id": "00b23602",
+      "text": "Bak bakalım hiç soğuk savar patiği var mıymış!"
+    },
+    {
+      "id": "955c0b95",
+      "bank_id": "00b23602",
+      "text": "Bütün yıl şu zımbırtılardan biri için altınlarımı biriktirip durdum."
+    },
+    {
+      "id": "955c0b96",
+      "bank_id": "00b23602",
+      "text": "O sihirli kürdanlardan var mıymış onda hiç?"
+    },
+    {
+      "id": "9b607d9d",
+      "bank_id": "00b23602",
+      "text": "Şu Barnum da hep bir numara peşinde. Ama bu yeni resim çekme aleti pes dedirtti doğrusu."
+    },
+    {
+      "id": "9f9acc02",
+      "bank_id": "00b23602",
+      "text": "İçmeseydim yatağımın altına falan saklanmak zorunda kalırdım."
+    },
+    {
+      "id": "9f9acc03",
+      "bank_id": "00b23602",
+      "text": "Gelecek hafta hiç bira sevkiyatı gelmeyebilir diyorlar. Ah, öyle korkuyorum ki!"
+    },
+    {
+      "id": "9f9acc04",
+      "bank_id": "00b23602",
+      "text": "Sakinleşmek için bir içkiye ihtiyacım var. Gayet makul bir şey bu. Birazcık teselli."
+    },
+    {
+      "id": "9f9acc05",
+      "bank_id": "00b23602",
+      "text": "Sakın arkana bakma ama ikimizi de yemek üzere olan devasa bir canavar var orada."
+    },
+    {
+      "id": "9f9acc07",
+      "bank_id": "00b23602",
+      "text": "Başkalarıyla bir arada olmayı seviyorum. Böylece bir canavar saldırırsa benden önce onları yer."
+    },
+    {
+      "id": "a4608be9",
+      "bank_id": "00b23602",
+      "text": "Barnum'un o portre makinesini üstümde kullanmasına asla izin vermem. Ruhumu önemsiyorum ben bir kere!"
+    },
+    {
+      "id": "a63daea4",
+      "bank_id": "00b23602",
+      "text": "Öndekiler çöksün!"
+    },
+    {
+      "id": "a63daea6",
+      "bank_id": "00b23602",
+      "text": "İtişmeyin! Arkada da durabilirsiniz."
+    },
+    {
+      "id": "a63daea7",
+      "bank_id": "00b23602",
+      "text": "Hey, az önce biri popomu mu çimdikledi?!"
+    },
+    {
+      "id": "a69ad708",
+      "bank_id": "00b23602",
+      "text": "Bana doğru silah doğrultan biri mi var? Var değil mi? Biliyorum işte."
+    },
+    {
+      "id": "a69ad709",
+      "bank_id": "00b23602",
+      "text": "Bir saniye durun hanginiz konuşuyor anlayamıyorum."
+    },
+    {
+      "id": "a69ad70a",
+      "bank_id": "00b23602",
+      "text": "Buradaki onca harika bira olmasaydı bütün gün dolabımda saklanırdım."
+    },
+    {
+      "id": "a69ad70e",
+      "bank_id": "00b23602",
+      "text": "İnsanın ölümüne korkmasını engelleyecek hiçbir içki yok mu ya?"
+    },
+    {
+      "id": "a69ad70f",
+      "bank_id": "00b23602",
+      "text": "<whimpers> Yardıma ihtiyacım var."
+    },
+    {
+      "id": "a91d3c8c",
+      "bank_id": "00b23602",
+      "text": "Balthazar'ın bugünlerde pek şansı yaver gitmiyor. Deposunu böceklerden temizlesin diye çocuğun birini tuttu, onlar da gidip bütün stoğunu mahvetti! İnanabiliyor musun?"
+    },
+    {
+      "id": "ab3db645",
+      "bank_id": "00b23602",
+      "text": "Dirseğinizi gözümden çeker misiniz rica etsem?"
+    },
+    {
+      "id": "ab3db646",
+      "bank_id": "00b23602",
+      "text": "En güzeli fazla yaklaşanın ağzının ortasına bir tane patlatmak."
+    },
+    {
+      "id": "ab3db647",
+      "bank_id": "00b23602",
+      "text": "Tamam be, sakin olun!"
+    },
+    {
+      "id": "db7485ca",
+      "bank_id": "00b23602",
+      "text": "Umarım Balthazar deposunu böceklerden temizleyecek birini bulur. Kendi yapamayacak kadar çok korkuyor onlardan. Tavırlarına baksan böcekleri balverine zannederdin!"
+    },
+    {
+      "id": "e71de728",
+      "bank_id": "00b23602",
+      "text": "Keşke titrememi durdurabilsem. Üstüme başıma içki döküp duruyorum."
+    },
+    {
+      "id": "e71de729",
+      "bank_id": "00b23602",
+      "text": "Aman Tanrım, ah hayır. Bu çok ama çok kötü..."
+    },
+    {
+      "id": "e71de72d",
+      "bank_id": "00b23602",
+      "text": "Sinir küpüne döndüm. Sinirlerim harap oldu. Üstelik susadım da."
+    },
+    {
+      "id": "e71de72e",
+      "bank_id": "00b23602",
+      "text": "Bir içkiye ihtiyacım var, sinirlerim zangırdıyor... Ah! Yine başladı..."
+    },
+    {
+      "id": "e71de72f",
+      "bank_id": "00b23602",
+      "text": "Öyle korkuyorum ki. Sen korkmuyor musun? Azıcık bile korkmuyorsan delinin teki olmalısın."
+    },
+    {
+      "id": "f21df858",
+      "bank_id": "00b23602",
+      "text": "<whimpers>"
+    },
+    {
+      "id": "f21df859",
+      "bank_id": "00b23602",
+      "text": "Keşke ensemde de gözlerim olsaydı..."
+    },
+    {
+      "id": "f21df85c",
+      "bank_id": "00b23602",
+      "text": "Dün gece duvarlardan çıkan bir böcek ordusu gördüm. İnsanları yemekle ilgili bir şarkı söylüyorlardı!"
+    },
+    {
+      "id": "f21df85e",
+      "bank_id": "00b23602",
+      "text": "Orada öylece oturup sakin sakin nasıl içebiliyorsun? Kıyamet kopuyor!"
+    },
+    {
+      "id": "f21df85f",
+      "bank_id": "00b23602",
+      "text": "Eve gidemem, ev onlarla dolu, pencerelerden taşıyorlar."
+    },
+    {
+      "id": "f57982a0",
+      "bank_id": "00b23602",
+      "text": "Murgo bütün o satış numaralarına inanacak kadar aptal olduğumuzu sanıyor olmalı. Yine de ondan aldığım bu sihirli fasulyeler tam bir kelepir çıktı."
+    },
+    {
+      "id": "f57982a1",
+      "bank_id": "00b23602",
+      "text": "Hiçbir şey olmasa bile Murgo insanı hep iyi güldürüyor."
+    },
+    {
+      "id": "f57982a3",
+      "bank_id": "00b23602",
+      "text": "Şu Murgo da hep döküntülerini bize kakalamaya çalışıyor."
+    },
+    {
+      "id": "fa913781",
+      "bank_id": "00b23602",
+      "text": "Bazen neden devam ettiğimizi hiç merak etmiyor musun?"
+    },
+    {
+      "id": "fa913782",
+      "bank_id": "00b23602",
+      "text": "Zavallı emektar Bessie. Henüz on üç yaşındaydı. Gördüğüm en iyi attı."
+    },
+    {
+      "id": "fa913783",
+      "bank_id": "00b23602",
+      "text": "Ah, her şey nafile. Çaresizlik, çaresizlik!"
+    },
+    {
+      "id": "fa913784",
+      "bank_id": "00b23602",
+      "text": "<sighs>"
+    },
+    {
+      "id": "fa913785",
+      "bank_id": "00b23602",
+      "text": "Dostum, burası amma da iç karartıcı bir yer."
+    },
+    {
+      "id": "fc798da4",
+      "bank_id": "00b23602",
+      "text": "İnsanı sonsuza kadar doyurabilen bir kaşık satın aldım. Ama yemeği kendin koyman gerekiyormuş meğer."
+    },
+    {
+      "id": "fc798da5",
+      "bank_id": "00b23602",
+      "text": "Şu Murgo'ya bayılıyorum. Hayatımıza gerçekten biraz sihir katıyor. Hiçbirinin çalışmaması ne fena gerçi."
+    },
+    {
+      "id": "fc798da6",
+      "bank_id": "00b23602",
+      "text": "Murgo'nun sattığı o sihirli dikiş setini gördün mü? Söylendiğine göre dijital teknolojiyle çalışıyormuş."
+    }
+  ]
+}

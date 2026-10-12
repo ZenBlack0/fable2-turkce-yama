@@ -1,0 +1,1856 @@
+{
+  "bank_id": "b0f19600",
+  "total_strings": 370,
+  "strings": [
+    {
+      "id": "004e940b",
+      "bank_id": "b0f19600",
+      "text": "<s4>Fable Müzikleri</s4>"
+    },
+    {
+      "id": "014e95fe",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "024e9751",
+      "bank_id": "b0f19600",
+      "text": "Wayne Forester"
+    },
+    {
+      "id": "034e98c4",
+      "bank_id": "b0f19600",
+      "text": "Vas Blackwood"
+    },
+    {
+      "id": "044e9ab7",
+      "bank_id": "b0f19600",
+      "text": "Steve Sweeney"
+    },
+    {
+      "id": "054e9c2a",
+      "bank_id": "b0f19600",
+      "text": "Stephen Greif"
+    },
+    {
+      "id": "064e9d9d",
+      "bank_id": "b0f19600",
+      "text": "Stephane Cornicard"
+    },
+    {
+      "id": "13cc5510",
+      "bank_id": "b0f19600",
+      "text": "Fumio Yanagida"
+    },
+    {
+      "id": "14cc5683",
+      "bank_id": "b0f19600",
+      "text": "Yuki Harima"
+    },
+    {
+      "id": "15cc5876",
+      "bank_id": "b0f19600",
+      "text": "Atsushi Uno"
+    },
+    {
+      "id": "16cc59e9",
+      "bank_id": "b0f19600",
+      "text": "Yuichi Tsutsumi"
+    },
+    {
+      "id": "16ce9840",
+      "bank_id": "b0f19600",
+      "text": "Byung Hoon Lee"
+    },
+    {
+      "id": "17cc5b5c",
+      "bank_id": "b0f19600",
+      "text": "Tatsuya Tanabe"
+    },
+    {
+      "id": "17ce9a33",
+      "bank_id": "b0f19600",
+      "text": "Kyoung Han Yoon"
+    },
+    {
+      "id": "18cc5ccf",
+      "bank_id": "b0f19600",
+      "text": "Haruhiko Inaba"
+    },
+    {
+      "id": "18ce9ba6",
+      "bank_id": "b0f19600",
+      "text": "Jae Youn Kim"
+    },
+    {
+      "id": "19cc5ea2",
+      "bank_id": "b0f19600",
+      "text": "Masayuki Suzuki"
+    },
+    {
+      "id": "19ce9d19",
+      "bank_id": "b0f19600",
+      "text": "<s4>Kore</s4>"
+    },
+    {
+      "id": "1a1fdc31",
+      "bank_id": "b0f19600",
+      "text": "Oyunun başlatıldığı kayıtlı oyun bulunamıyor. Lütfen mevcut kayıtlı oyunu içeren depolama cihazını takın."
+    },
+    {
+      "id": "1acc6015",
+      "bank_id": "b0f19600",
+      "text": "Seiichi Kawashima"
+    },
+    {
+      "id": "1ace9e8c",
+      "bank_id": "b0f19600",
+      "text": "<s4>Dublin Harici Test Ekibi</s4>"
+    },
+    {
+      "id": "1aecb3e0",
+      "bank_id": "b0f19600",
+      "text": "Corinna Balkow (CPL Solutions)"
+    },
+    {
+      "id": "1bcc6188",
+      "bank_id": "b0f19600",
+      "text": "Takashi Enomoto"
+    },
+    {
+      "id": "1bcea07f",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "1becb553",
+      "bank_id": "b0f19600",
+      "text": "Alan Smith (CPL Solutions)"
+    },
+    {
+      "id": "1ccc637b",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "1ccea1d2",
+      "bank_id": "b0f19600",
+      "text": "Nam Hun Kim"
+    },
+    {
+      "id": "1cecb6c6",
+      "bank_id": "b0f19600",
+      "text": "Jean-Philippe Chassagne"
+    },
+    {
+      "id": "1dcea345",
+      "bank_id": "b0f19600",
+      "text": "Sang Min Park"
+    },
+    {
+      "id": "1decb8b9",
+      "bank_id": "b0f19600",
+      "text": "John O'Sullivan"
+    },
+    {
+      "id": "1eecba2c",
+      "bank_id": "b0f19600",
+      "text": "Alan Davis"
+    },
+    {
+      "id": "1fecbb9f",
+      "bank_id": "b0f19600",
+      "text": "Declan MacHugh"
+    },
+    {
+      "id": "1feefa76",
+      "bank_id": "b0f19600",
+      "text": "Daniel Huang"
+    },
+    {
+      "id": "20cea81e",
+      "bank_id": "b0f19600",
+      "text": "Sandra Roethig"
+    },
+    {
+      "id": "20ecbd72",
+      "bank_id": "b0f19600",
+      "text": "<s4>Dublin</s4>"
+    },
+    {
+      "id": "20eefbe9",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "21cea9f1",
+      "bank_id": "b0f19600",
+      "text": "Paul Vigneron"
+    },
+    {
+      "id": "21ecbee5",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "24f1408c",
+      "bank_id": "b0f19600",
+      "text": "Isao Murayama"
+    },
+    {
+      "id": "25ef0388",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "25f1427f",
+      "bank_id": "b0f19600",
+      "text": "Takahiro Oyobe"
+    },
+    {
+      "id": "26ef057b",
+      "bank_id": "b0f19600",
+      "text": "<s4>Tayvan</s4>"
+    },
+    {
+      "id": "27ef06ee",
+      "bank_id": "b0f19600",
+      "text": "Binari Sonori"
+    },
+    {
+      "id": "28ecc9ea",
+      "bank_id": "b0f19600",
+      "text": "<s4>Dublin Tedarikçileri</s4>"
+    },
+    {
+      "id": "28ef0841",
+      "bank_id": "b0f19600",
+      "text": "Keywords Test Team"
+    },
+    {
+      "id": "28f14738",
+      "bank_id": "b0f19600",
+      "text": "Yoshitaka Kinjo"
+    },
+    {
+      "id": "29eccb5d",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "29ef0a34",
+      "bank_id": "b0f19600",
+      "text": "Andy Liu"
+    },
+    {
+      "id": "29f148ab",
+      "bank_id": "b0f19600",
+      "text": "Mihoko Yamazawa"
+    },
+    {
+      "id": "2aef0ba7",
+      "bank_id": "b0f19600",
+      "text": "Vincent Tsai"
+    },
+    {
+      "id": "2af14a1e",
+      "bank_id": "b0f19600",
+      "text": "Ken Inoue"
+    },
+    {
+      "id": "2bef0d1a",
+      "bank_id": "b0f19600",
+      "text": "Robert Lin"
+    },
+    {
+      "id": "2bf14bf1",
+      "bank_id": "b0f19600",
+      "text": "Hiideyuki Tsuji"
+    },
+    {
+      "id": "2c3e76a3",
+      "bank_id": "b0f19600",
+      "text": "Oyuncu profili bulunamadı."
+    },
+    {
+      "id": "2cef0e8d",
+      "bank_id": "b0f19600",
+      "text": "Eva Lin"
+    },
+    {
+      "id": "2cf14d64",
+      "bank_id": "b0f19600",
+      "text": "Yuko Yoshida"
+    },
+    {
+      "id": "2d7f773c",
+      "bank_id": "b0f19600",
+      "text": "İndirilebilir içerik paket(ler)inizi içeren depolama cihazı çıkarıldı. Lütfen cihazı tekrar takın."
+    },
+    {
+      "id": "2df14ed7",
+      "bank_id": "b0f19600",
+      "text": "<s4>Japonya</s4>"
+    },
+    {
+      "id": "2ef1504a",
+      "bank_id": "b0f19600",
+      "text": "Satoru Komiya"
+    },
+    {
+      "id": "2ff1523d",
+      "bank_id": "b0f19600",
+      "text": "Hiroyasu Mimura"
+    },
+    {
+      "id": "3244e192",
+      "bank_id": "b0f19600",
+      "text": "Bilinmiyor"
+    },
+    {
+      "id": "42dda7fb",
+      "bank_id": "b0f19600",
+      "text": "Depolama cihazı çıkarıldı!"
+    },
+    {
+      "id": "437be659",
+      "bank_id": "b0f19600",
+      "text": "Kahraman %1"
+    },
+    {
+      "id": "44ae3760",
+      "bank_id": "b0f19600",
+      "text": "Sofia Morais Portes"
+    },
+    {
+      "id": "45a16cc0",
+      "bank_id": "b0f19600",
+      "text": "ve yasaların elverdiği en geniş ölçüde takibat yapılacaktır."
+    },
+    {
+      "id": "45ae38d3",
+      "bank_id": "b0f19600",
+      "text": "Corwin Peter Askew"
+    },
+    {
+      "id": "46122964",
+      "bank_id": "b0f19600",
+      "text": "Devam Et (Başarımsız)"
+    },
+    {
+      "id": "46a16eb3",
+      "bank_id": "b0f19600",
+      "text": "yetkisiz çoğaltılması veya dağıtılması ağır cezai yaptırımlara yol açabilir"
+    },
+    {
+      "id": "46ae3a46",
+      "bank_id": "b0f19600",
+      "text": "Isaac Judge"
+    },
+    {
+      "id": "4763b95a",
+      "bank_id": "b0f19600",
+      "text": "Başlık ekranına dönün"
+    },
+    {
+      "id": "47a17026",
+      "bank_id": "b0f19600",
+      "text": "anlaşmalarla korunmaktadır. Bu programın ya da herhangi bir kısmının"
+    },
+    {
+      "id": "47a2ef82",
+      "bank_id": "b0f19600",
+      "text": "Cihazı tekrar kontrol edin"
+    },
+    {
+      "id": "47ae3c39",
+      "bank_id": "b0f19600",
+      "text": "Katherine Carter"
+    },
+    {
+      "id": "47b07a90",
+      "bank_id": "b0f19600",
+      "text": "Fay Faichnie"
+    },
+    {
+      "id": "48a17199",
+      "bank_id": "b0f19600",
+      "text": "Uyarı: Bu bilgisayar programı telif hakkı yasaları ve uluslararası"
+    },
+    {
+      "id": "48a3b070",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "48ae3dac",
+      "bank_id": "b0f19600",
+      "text": "Joanna Marie Smith-Coward"
+    },
+    {
+      "id": "48b07c03",
+      "bank_id": "b0f19600",
+      "text": "Adam John McCormack"
+    },
+    {
+      "id": "49a3b1e3",
+      "bank_id": "b0f19600",
+      "text": "Fable II uses Havok™: © Copyright 1999-2008. Havok.com Inc. (or its licensors)."
+    },
+    {
+      "id": "49ae3f1f",
+      "bank_id": "b0f19600",
+      "text": "Dominic David Wright"
+    },
+    {
+      "id": "49b07df6",
+      "bank_id": "b0f19600",
+      "text": "Eve Green"
+    },
+    {
+      "id": "4aa3b356",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "4aae40f2",
+      "bank_id": "b0f19600",
+      "text": "Poppy Mia Storm Simmons"
+    },
+    {
+      "id": "4ab07f69",
+      "bank_id": "b0f19600",
+      "text": "Ruby Woods"
+    },
+    {
+      "id": "4ba3b4c9",
+      "bank_id": "b0f19600",
+      "text": "Sahne/nesne çizimleri için Pearl Digital Entertainment™ kullanılmıştır. © 2008/08/11"
+    },
+    {
+      "id": "4bae4265",
+      "bank_id": "b0f19600",
+      "text": "Jamie Alexander Smith-Coward"
+    },
+    {
+      "id": "4bb080dc",
+      "bank_id": "b0f19600",
+      "text": "<s4>Fable Bebekleri</s4>"
+    },
+    {
+      "id": "4ca3b6bc",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "4cb0824f",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "4da3b82f",
+      "bank_id": "b0f19600",
+      "text": "Ses Tasarımı: Soundelux Design Music Group."
+    },
+    {
+      "id": "4db08422",
+      "bank_id": "b0f19600",
+      "text": "Daryl Buzugbe"
+    },
+    {
+      "id": "4ea3b982",
+      "bank_id": "b0f19600",
+      "text": "Bu yazılımın bazı bölümleri lisans kapsamında yer almaktadır"
+    },
+    {
+      "id": "4eae473e",
+      "bank_id": "b0f19600",
+      "text": "Ella Scarlet Macy James-Cheyne"
+    },
+    {
+      "id": "4eb08595",
+      "bank_id": "b0f19600",
+      "text": "Fratten Sibbick"
+    },
+    {
+      "id": "4fa3bb75",
+      "bank_id": "b0f19600",
+      "text": "© 2008 Scaleform Corporation. Tüm hakları saklıdır."
+    },
+    {
+      "id": "4fae4891",
+      "bank_id": "b0f19600",
+      "text": "Joel Simmons"
+    },
+    {
+      "id": "53b08db4",
+      "bank_id": "b0f19600",
+      "text": "Emily Neve Swain"
+    },
+    {
+      "id": "54b08f27",
+      "bank_id": "b0f19600",
+      "text": "Jessica Eden Swain"
+    },
+    {
+      "id": "54d230a0",
+      "bank_id": "b0f19600",
+      "text": "Claire Hedley"
+    },
+    {
+      "id": "55d23213",
+      "bank_id": "b0f19600",
+      "text": "Cris Lonergan-White"
+    },
+    {
+      "id": "56a3c67a",
+      "bank_id": "b0f19600",
+      "text": "Tüm Hakları Saklıdır. Ayrıntılar için www.havok.com adresine bakın"
+    },
+    {
+      "id": "56d23386",
+      "bank_id": "b0f19600",
+      "text": "Daniel Jenkins"
+    },
+    {
+      "id": "57a3c7ed",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "57d23579",
+      "bank_id": "b0f19600",
+      "text": "Elaine Reynolds"
+    },
+    {
+      "id": "57d473d0",
+      "bank_id": "b0f19600",
+      "text": "Kelly Murrell"
+    },
+    {
+      "id": "58d236ec",
+      "bank_id": "b0f19600",
+      "text": "Gary Carr"
+    },
+    {
+      "id": "58d47543",
+      "bank_id": "b0f19600",
+      "text": "Jonathan Frammingham"
+    },
+    {
+      "id": "59d2385f",
+      "bank_id": "b0f19600",
+      "text": "Gary Marshall"
+    },
+    {
+      "id": "59d47736",
+      "bank_id": "b0f19600",
+      "text": "John Dower (Curtis Brown)"
+    },
+    {
+      "id": "59e381a0",
+      "bank_id": "b0f19600",
+      "text": "Andre Jacobs"
+    },
+    {
+      "id": "5ad23a32",
+      "bank_id": "b0f19600",
+      "text": "Graham Harris"
+    },
+    {
+      "id": "5ad478a9",
+      "bank_id": "b0f19600",
+      "text": "Jane Hill"
+    },
+    {
+      "id": "5ad6b700",
+      "bank_id": "b0f19600",
+      "text": "Sian Mello"
+    },
+    {
+      "id": "5ae38313",
+      "bank_id": "b0f19600",
+      "text": "Mark Webley"
+    },
+    {
+      "id": "5bd23ba5",
+      "bank_id": "b0f19600",
+      "text": "Guy Simmons"
+    },
+    {
+      "id": "5bd47a1c",
+      "bank_id": "b0f19600",
+      "text": "Mariana Mandelli"
+    },
+    {
+      "id": "5bd6b8f3",
+      "bank_id": "b0f19600",
+      "text": "Tak Saito"
+    },
+    {
+      "id": "5be38486",
+      "bank_id": "b0f19600",
+      "text": "Andy Barton"
+    },
+    {
+      "id": "5cd23d18",
+      "bank_id": "b0f19600",
+      "text": "Jackie Redmond"
+    },
+    {
+      "id": "5cd47b8f",
+      "bank_id": "b0f19600",
+      "text": "Louise Cowen (Brook Street)"
+    },
+    {
+      "id": "5cd6ba66",
+      "bank_id": "b0f19600",
+      "text": "Russ Earwaker"
+    },
+    {
+      "id": "5ce38679",
+      "bank_id": "b0f19600",
+      "text": "Andrew Lindsay"
+    },
+    {
+      "id": "5dd23e8b",
+      "bank_id": "b0f19600",
+      "text": "Jamie Galipeau"
+    },
+    {
+      "id": "5dd47d62",
+      "bank_id": "b0f19600",
+      "text": "Lin Coghlan (United Agents Ltd.)"
+    },
+    {
+      "id": "5dd6bbd9",
+      "bank_id": "b0f19600",
+      "text": "Sofronis Efstathiou"
+    },
+    {
+      "id": "5dd8fab0",
+      "bank_id": "b0f19600",
+      "text": "Olivier Carrere"
+    },
+    {
+      "id": "5de387ec",
+      "bank_id": "b0f19600",
+      "text": "Rare"
+    },
+    {
+      "id": "5ed47ed5",
+      "bank_id": "b0f19600",
+      "text": "Kirstin Bind"
+    },
+    {
+      "id": "5ed6bd4c",
+      "bank_id": "b0f19600",
+      "text": "Roxana Vasilescu"
+    },
+    {
+      "id": "5ed8fc23",
+      "bank_id": "b0f19600",
+      "text": "Seema Jogoo (Parasol)"
+    },
+    {
+      "id": "5ee3895f",
+      "bank_id": "b0f19600",
+      "text": "Mark Travis"
+    },
+    {
+      "id": "5fd6bf3f",
+      "bank_id": "b0f19600",
+      "text": "Rudy Berdugo"
+    },
+    {
+      "id": "5fe38b32",
+      "bank_id": "b0f19600",
+      "text": "Ana Elez"
+    },
+    {
+      "id": "60d6c092",
+      "bank_id": "b0f19600",
+      "text": "Paul McLaughlin"
+    },
+    {
+      "id": "60e38ca5",
+      "bank_id": "b0f19600",
+      "text": "Turn 10"
+    },
+    {
+      "id": "61d483ae",
+      "bank_id": "b0f19600",
+      "text": "Neil Grevitt"
+    },
+    {
+      "id": "61d6c205",
+      "bank_id": "b0f19600",
+      "text": "Penny Thayer"
+    },
+    {
+      "id": "6211da60",
+      "bank_id": "b0f19600",
+      "text": "Oyuncu profilini tekrar kontrol edin"
+    },
+    {
+      "id": "62d48501",
+      "bank_id": "b0f19600",
+      "text": "Mark Rendle"
+    },
+    {
+      "id": "65d90728",
+      "bank_id": "b0f19600",
+      "text": "Laura Jerum"
+    },
+    {
+      "id": "65e39444",
+      "bank_id": "b0f19600",
+      "text": "Caelia Carter (Intl Agency)"
+    },
+    {
+      "id": "66d9089b",
+      "bank_id": "b0f19600",
+      "text": "Anna Higgs"
+    },
+    {
+      "id": "66e39637",
+      "bank_id": "b0f19600",
+      "text": "Ben Sugden"
+    },
+    {
+      "id": "67d90a0e",
+      "bank_id": "b0f19600",
+      "text": "Shaun Rutland"
+    },
+    {
+      "id": "68d6cd0a",
+      "bank_id": "b0f19600",
+      "text": "Tom Kelly (Volt)"
+    },
+    {
+      "id": "68d90be1",
+      "bank_id": "b0f19600",
+      "text": "Nick Ricks"
+    },
+    {
+      "id": "69d6cefd",
+      "bank_id": "b0f19600",
+      "text": "Erico Jose Zen"
+    },
+    {
+      "id": "69d90d54",
+      "bank_id": "b0f19600",
+      "text": "Debbie Robinson"
+    },
+    {
+      "id": "6ad90ec7",
+      "bank_id": "b0f19600",
+      "text": "Scott Waugaman"
+    },
+    {
+      "id": "6b44af60",
+      "bank_id": "b0f19600",
+      "text": "Alex Kelly"
+    },
+    {
+      "id": "6bd910ba",
+      "bank_id": "b0f19600",
+      "text": "Chris Blackbourn"
+    },
+    {
+      "id": "6c44b0d3",
+      "bank_id": "b0f19600",
+      "text": "Alan Ford"
+    },
+    {
+      "id": "6cd9122d",
+      "bank_id": "b0f19600",
+      "text": "Glenn Salisbury (Parasol)"
+    },
+    {
+      "id": "6d44b246",
+      "bank_id": "b0f19600",
+      "text": "Adjoa Andoh"
+    },
+    {
+      "id": "6e44b439",
+      "bank_id": "b0f19600",
+      "text": "<s4>Yardımcı Seslendirme Kadrosu</s4>"
+    },
+    {
+      "id": "6e46f290",
+      "bank_id": "b0f19600",
+      "text": "Sarah Hadland"
+    },
+    {
+      "id": "6f44b5ac",
+      "bank_id": "b0f19600",
+      "text": "Damian O'Hare"
+    },
+    {
+      "id": "6f46f403",
+      "bank_id": "b0f19600",
+      "text": "Sean Pertwee"
+    },
+    {
+      "id": "7044b71f",
+      "bank_id": "b0f19600",
+      "text": "Colin McFarlane"
+    },
+    {
+      "id": "7046f5f6",
+      "bank_id": "b0f19600",
+      "text": "Rosie Cavaliero"
+    },
+    {
+      "id": "70560060",
+      "bank_id": "b0f19600",
+      "text": "Eliot Conners"
+    },
+    {
+      "id": "7144b8f2",
+      "bank_id": "b0f19600",
+      "text": "Christopher Fairbank"
+    },
+    {
+      "id": "7146f769",
+      "bank_id": "b0f19600",
+      "text": "Alexander Sandy Morton"
+    },
+    {
+      "id": "714935c0",
+      "bank_id": "b0f19600",
+      "text": "Michael Curtis-Parsons"
+    },
+    {
+      "id": "715601d3",
+      "bank_id": "b0f19600",
+      "text": "Alex Johnson"
+    },
+    {
+      "id": "7244ba65",
+      "bank_id": "b0f19600",
+      "text": "Brian Bowles"
+    },
+    {
+      "id": "7246f8dc",
+      "bank_id": "b0f19600",
+      "text": "Richard Ridings"
+    },
+    {
+      "id": "724937b3",
+      "bank_id": "b0f19600",
+      "text": "Maria Darling"
+    },
+    {
+      "id": "7346fa4f",
+      "bank_id": "b0f19600",
+      "text": "Robbie Stevens"
+    },
+    {
+      "id": "7446fc22",
+      "bank_id": "b0f19600",
+      "text": "Peter Dickson"
+    },
+    {
+      "id": "7544bf3e",
+      "bank_id": "b0f19600",
+      "text": "David Holt"
+    },
+    {
+      "id": "7546fd95",
+      "bank_id": "b0f19600",
+      "text": "Richard Pearce"
+    },
+    {
+      "id": "755846f6",
+      "bank_id": "b0f19600",
+      "text": "Jeffrey Wilhoit"
+    },
+    {
+      "id": "7644c091",
+      "bank_id": "b0f19600",
+      "text": "Dave Lamb"
+    },
+    {
+      "id": "76584869",
+      "bank_id": "b0f19600",
+      "text": "<s4>Efekt Sanatçıları</s4>"
+    },
+    {
+      "id": "784b7fbc",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "78560cd8",
+      "bank_id": "b0f19600",
+      "text": "Jimmy Moriana"
+    },
+    {
+      "id": "794942b8",
+      "bank_id": "b0f19600",
+      "text": "Jonathan Keeble"
+    },
+    {
+      "id": "794b812f",
+      "bank_id": "b0f19600",
+      "text": "<s4>Vokalistler</s4>"
+    },
+    {
+      "id": "79560e4b",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "7a49442b",
+      "bank_id": "b0f19600",
+      "text": "Jonathan Cecil"
+    },
+    {
+      "id": "7a56103e",
+      "bank_id": "b0f19600",
+      "text": "<s4>Efekt Mikseri</s4>"
+    },
+    {
+      "id": "7b49459e",
+      "bank_id": "b0f19600",
+      "text": "Jordan Clarke"
+    },
+    {
+      "id": "7b561191",
+      "bank_id": "b0f19600",
+      "text": "Nerses Gezalyan"
+    },
+    {
+      "id": "7b585008",
+      "bank_id": "b0f19600",
+      "text": "Scott Wolf"
+    },
+    {
+      "id": "7c47089a",
+      "bank_id": "b0f19600",
+      "text": "Simon Greenall"
+    },
+    {
+      "id": "7c494771",
+      "bank_id": "b0f19600",
+      "text": "Jonathan Kydd"
+    },
+    {
+      "id": "7c4b85e8",
+      "bank_id": "b0f19600",
+      "text": "Orkestra Müdürü: Marian Turner"
+    },
+    {
+      "id": "7c561304",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "7c5851fb",
+      "bank_id": "b0f19600",
+      "text": "Steve Robinson"
+    },
+    {
+      "id": "7d470a0d",
+      "bank_id": "b0f19600",
+      "text": "Stephen Critchlow"
+    },
+    {
+      "id": "7d4948e4",
+      "bank_id": "b0f19600",
+      "text": "Keith Wickham"
+    },
+    {
+      "id": "7d4b875b",
+      "bank_id": "b0f19600",
+      "text": "Müzik Koordinatörü: Paul Talkington"
+    },
+    {
+      "id": "7d5614f7",
+      "bank_id": "b0f19600",
+      "text": "<s4>Varlık Koordinatörleri</s4>"
+    },
+    {
+      "id": "7d58536e",
+      "bank_id": "b0f19600",
+      "text": "Patrick Ginn"
+    },
+    {
+      "id": "7e494a57",
+      "bank_id": "b0f19600",
+      "text": "Josh Cohen"
+    },
+    {
+      "id": "7e4b88ce",
+      "bank_id": "b0f19600",
+      "text": "Bratislava Slovensky Rozhlas Stüdyoları'nda kaydedilmiştir"
+    },
+    {
+      "id": "7e56166a",
+      "bank_id": "b0f19600",
+      "text": "Patrick Ginn"
+    },
+    {
+      "id": "7e5854c1",
+      "bank_id": "b0f19600",
+      "text": "Dutch Hill"
+    },
+    {
+      "id": "7f494bca",
+      "bank_id": "b0f19600",
+      "text": "Lewis Macleod"
+    },
+    {
+      "id": "7f4b8aa1",
+      "bank_id": "b0f19600",
+      "text": "Ses Asistanları: Hubert Geschwandtner ve Martin Roller"
+    },
+    {
+      "id": "7f5617dd",
+      "bank_id": "b0f19600",
+      "text": "Charles Gondak"
+    },
+    {
+      "id": "7f5856b4",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "80494dbd",
+      "bank_id": "b0f19600",
+      "text": "Lauren Moat"
+    },
+    {
+      "id": "804b8c14",
+      "bank_id": "b0f19600",
+      "text": "Pinewood Phoenix Sound'da mikslenmiştir"
+    },
+    {
+      "id": "80585827",
+      "bank_id": "b0f19600",
+      "text": "Mark Camperell"
+    },
+    {
+      "id": "80eb07d0",
+      "bank_id": "b0f19600",
+      "text": "Lucien        Oliver Cotton"
+    },
+    {
+      "id": "814b8d87",
+      "bank_id": "b0f19600",
+      "text": "Fable 1 Ana Müziği: Danny Elfman."
+    },
+    {
+      "id": "8158599a",
+      "bank_id": "b0f19600",
+      "text": "Stuart Provine"
+    },
+    {
+      "id": "81eb0943",
+      "bank_id": "b0f19600",
+      "text": "Hammer     Julia Sawalha"
+    },
+    {
+      "id": "824b8f7a",
+      "bank_id": "b0f19600",
+      "text": "<s4>Orkestra</s4>"
+    },
+    {
+      "id": "82585b0d",
+      "bank_id": "b0f19600",
+      "text": "Clint Richardson"
+    },
+    {
+      "id": "82eb0b36",
+      "bank_id": "b0f19600",
+      "text": "Rose           Gemma Boyle"
+    },
+    {
+      "id": "834b90ed",
+      "bank_id": "b0f19600",
+      "text": "Orkestra: Slovak Ulusal Senfoni Orkestrası"
+    },
+    {
+      "id": "83eb0ca9",
+      "bank_id": "b0f19600",
+      "text": "Reaver        Stephen Fry"
+    },
+    {
+      "id": "84eb0e1c",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "85eb0f8f",
+      "bank_id": "b0f19600",
+      "text": "Kayıt Stüdyoları: Side London ve Side LA"
+    },
+    {
+      "id": "86eb1162",
+      "bank_id": "b0f19600",
+      "text": "Garth          Ron Glass"
+    },
+    {
+      "id": "87eb12d5",
+      "bank_id": "b0f19600",
+      "text": "<s4>Ana Seslendirme Kadrosu</s4>"
+    },
+    {
+      "id": "88e8d5d1",
+      "bank_id": "b0f19600",
+      "text": "Baş Diyalog Editörü: Duncan Gillies (Side)"
+    },
+    {
+      "id": "8ceb1af4",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "8deb1c67",
+      "bank_id": "b0f19600",
+      "text": "Theresa       Zoë Wanamaker"
+    },
+    {
+      "id": "94e76380",
+      "bank_id": "b0f19600",
+      "text": "Josh Atkins"
+    },
+    {
+      "id": "95e76573",
+      "bank_id": "b0f19600",
+      "text": "William Hodge"
+    },
+    {
+      "id": "96e766e6",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "97e76859",
+      "bank_id": "b0f19600",
+      "text": "J. Epps"
+    },
+    {
+      "id": "97e9a730",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "984ac9de",
+      "bank_id": "b0f19600",
+      "text": "Mevcut kayıt için kullanılan depolama cihazı çıkarıldı! Cihazı tekrar takmamayı seçerseniz, daha sonra taksanız bile artık oyunu kaydedemezsiniz.\nBaşlık ekranına dönmeyi seçerseniz tüm ilerlemeniz kaybolacaktır."
+    },
+    {
+      "id": "98e769cc",
+      "bank_id": "b0f19600",
+      "text": "Todd Heckel"
+    },
+    {
+      "id": "98e9a8a3",
+      "bank_id": "b0f19600",
+      "text": "<s4>Hukuk</s4>"
+    },
+    {
+      "id": "99e76bbf",
+      "bank_id": "b0f19600",
+      "text": "<s4>Geliştirme</s4>"
+    },
+    {
+      "id": "99e9aa16",
+      "bank_id": "b0f19600",
+      "text": "Don McGowan"
+    },
+    {
+      "id": "9ae76d12",
+      "bank_id": "b0f19600",
+      "text": "Andy Luedke"
+    },
+    {
+      "id": "9ae9ab89",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "9be76e85",
+      "bank_id": "b0f19600",
+      "text": "Matt Haigh"
+    },
+    {
+      "id": "9be9ad7c",
+      "bank_id": "b0f19600",
+      "text": "Alan Castellanos Moreno"
+    },
+    {
+      "id": "9ce77078",
+      "bank_id": "b0f19600",
+      "text": "Austin Appleby"
+    },
+    {
+      "id": "9ce9aeef",
+      "bank_id": "b0f19600",
+      "text": "Andrew Marthaller"
+    },
+    {
+      "id": "9de771eb",
+      "bank_id": "b0f19600",
+      "text": "Anna Koloskova"
+    },
+    {
+      "id": "9de9b042",
+      "bank_id": "b0f19600",
+      "text": "Andrew Kertesz"
+    },
+    {
+      "id": "9ee9b235",
+      "bank_id": "b0f19600",
+      "text": "Jason Major"
+    },
+    {
+      "id": "a3e9b9d4",
+      "bank_id": "b0f19600",
+      "text": "<s4>Yerelleştirme</s4>"
+    },
+    {
+      "id": "a4e9bb47",
+      "bank_id": "b0f19600",
+      "text": "Virginia Spencer"
+    },
+    {
+      "id": "a8e544a5",
+      "bank_id": "b0f19600",
+      "text": "<s4>Tasarım</s4>"
+    },
+    {
+      "id": "b3483668",
+      "bank_id": "b0f19600",
+      "text": "Başlık ekranına dönün"
+    },
+    {
+      "id": "c2d40a60",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "c3d40bd3",
+      "bank_id": "b0f19600",
+      "text": "<s4>Görsel Tasarım</s4>"
+    },
+    {
+      "id": "c5da05a2",
+      "bank_id": "b0f19600",
+      "text": "Kaydetmeden devam edin"
+    },
+    {
+      "id": "cba6bd20",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "cca6be93",
+      "bank_id": "b0f19600",
+      "text": "Bink Video kullanır. Telif Hakkı © 1997-2008 RAD Game Tools, Inc."
+    },
+    {
+      "id": "cdd41b91",
+      "bank_id": "b0f19600",
+      "text": "<s4>Prodüksiyon</s4>"
+    },
+    {
+      "id": "ced41d04",
+      "bank_id": "b0f19600",
+      "text": "Rick Martinez"
+    },
+    {
+      "id": "cf53c8e4",
+      "bank_id": "b0f19600",
+      "text": "Nakavt edildiniz ve %1 deneyim kaybettiniz."
+    },
+    {
+      "id": "cfd41ef7",
+      "bank_id": "b0f19600",
+      "text": "Danan Davis"
+    },
+    {
+      "id": "d0d4206a",
+      "bank_id": "b0f19600",
+      "text": "Ian Johnson"
+    },
+    {
+      "id": "d1d421dd",
+      "bank_id": "b0f19600",
+      "text": "Shannon Loftis"
+    },
+    {
+      "id": "d2206c8a",
+      "bank_id": "b0f19600",
+      "text": "Hasar"
+    },
+    {
+      "id": "d2a9069c",
+      "bank_id": "b0f19600",
+      "text": "Marcus Welfare"
+    },
+    {
+      "id": "d3a6c998",
+      "bank_id": "b0f19600",
+      "text": "© & (P) 2008 Microsoft Corporation. Tüm hakları saklıdır."
+    },
+    {
+      "id": "d3a9080f",
+      "bank_id": "b0f19600",
+      "text": "1986 - 2006"
+    },
+    {
+      "id": "d4a6cb0b",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "d5a6ccfe",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "d6a6ce51",
+      "bank_id": "b0f19600",
+      "text": "Lionhead Studios tarafından geliştirilmiştir."
+    },
+    {
+      "id": "d6a90cc8",
+      "bank_id": "b0f19600",
+      "text": "Sir Jose Maynardo Zavala"
+    },
+    {
+      "id": "d6e074f0",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "d7a6cfc4",
+      "bank_id": "b0f19600",
+      "text": "Xbox, Xbox 360, Xbox LIVE ve Xbox logoları,"
+    },
+    {
+      "id": "d7a90ebb",
+      "bank_id": "b0f19600",
+      "text": "Eserlerinizi bizimle paylaştığınız için teşekkürler."
+    },
+    {
+      "id": "d7ab4d12",
+      "bank_id": "b0f19600",
+      "text": "Ptolemy Grevitt"
+    },
+    {
+      "id": "d7e07663",
+      "bank_id": "b0f19600",
+      "text": "<s4>Özel Teşekkür</s4>"
+    },
+    {
+      "id": "d8a6d1b7",
+      "bank_id": "b0f19600",
+      "text": "Microsoft, Fable, Lionhead, Lionhead logosu, Microsoft Game Studios logosu,"
+    },
+    {
+      "id": "d8a9102e",
+      "bank_id": "b0f19600",
+      "text": "1939-2008"
+    },
+    {
+      "id": "d8ab4e85",
+      "bank_id": "b0f19600",
+      "text": "Amelia Murrell"
+    },
+    {
+      "id": "d8e077d6",
+      "bank_id": "b0f19600",
+      "text": "Nolan North - Erkek Kahraman"
+    },
+    {
+      "id": "d8ef8240",
+      "bank_id": "b0f19600",
+      "text": "Adam Zamoyski"
+    },
+    {
+      "id": "d9a6d32a",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "d9a91181",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "d9ab5078",
+      "bank_id": "b0f19600",
+      "text": "Owen Thayer"
+    },
+    {
+      "id": "d9e07949",
+      "bank_id": "b0f19600",
+      "text": "Salli Safiotti - Kadın Kahraman"
+    },
+    {
+      "id": "d9ef8433",
+      "bank_id": "b0f19600",
+      "text": "Amy Bartlett"
+    },
+    {
+      "id": "daa6d49d",
+      "bank_id": "b0f19600",
+      "text": "Microsoft şirketler grubunun ticari markalarıdır."
+    },
+    {
+      "id": "daa91374",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "daab51eb",
+      "bank_id": "b0f19600",
+      "text": "James Redmond"
+    },
+    {
+      "id": "dae07b3c",
+      "bank_id": "b0f19600",
+      "text": "<s4>Özel Teşekkür</s4>"
+    },
+    {
+      "id": "daef85a6",
+      "bank_id": "b0f19600",
+      "text": "Elizabeth Cunningham"
+    },
+    {
+      "id": "dba914e7",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "dbab535e",
+      "bank_id": "b0f19600",
+      "text": "Thomas Redmond"
+    },
+    {
+      "id": "dbe07caf",
+      "bank_id": "b0f19600",
+      "text": "Richard 'Swordmaster' Ryan"
+    },
+    {
+      "id": "dbef8719",
+      "bank_id": "b0f19600",
+      "text": "Emma Suckling"
+    },
+    {
+      "id": "dbf1c5f0",
+      "bank_id": "b0f19600",
+      "text": "Fable-2.de"
+    },
+    {
+      "id": "dca9165a",
+      "bank_id": "b0f19600",
+      "text": "<s4>Anısına</s4>"
+    },
+    {
+      "id": "dcab5531",
+      "bank_id": "b0f19600",
+      "text": "Raith Harris"
+    },
+    {
+      "id": "dce07e02",
+      "bank_id": "b0f19600",
+      "text": "Steve Martin's Working Wildlife"
+    },
+    {
+      "id": "dcef888c",
+      "bank_id": "b0f19600",
+      "text": "Dan Deptford"
+    },
+    {
+      "id": "dcf1c763",
+      "bank_id": "b0f19600",
+      "text": "Fablegame.it"
+    },
+    {
+      "id": "dda917cd",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "ddab56a4",
+      "bank_id": "b0f19600",
+      "text": "Connie May Langridge"
+    },
+    {
+      "id": "dde07ff5",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "ddef8a7f",
+      "bank_id": "b0f19600",
+      "text": "Marco Zambotti"
+    },
+    {
+      "id": "ddf1c8d6",
+      "bank_id": "b0f19600",
+      "text": "Lionnose.net"
+    },
+    {
+      "id": "deab5817",
+      "bank_id": "b0f19600",
+      "text": "Akia Barker"
+    },
+    {
+      "id": "deef8bd2",
+      "bank_id": "b0f19600",
+      "text": "Lindsay Terblanche"
+    },
+    {
+      "id": "def1ca49",
+      "bank_id": "b0f19600",
+      "text": "Loinhead.net"
+    },
+    {
+      "id": "dfab598a",
+      "bank_id": "b0f19600",
+      "text": "George Dominic Sugden"
+    },
+    {
+      "id": "dfef8d45",
+      "bank_id": "b0f19600",
+      "text": "Ionut Tudor"
+    },
+    {
+      "id": "dff1cc3c",
+      "bank_id": "b0f19600",
+      "text": "Fable-2.com"
+    },
+    {
+      "id": "e0ab5b7d",
+      "bank_id": "b0f19600",
+      "text": "William Thomas Sugden"
+    },
+    {
+      "id": "e0e0844e",
+      "bank_id": "b0f19600",
+      "text": "Dimitri Mavrikakis (Brook Street)"
+    },
+    {
+      "id": "e0f1cdaf",
+      "bank_id": "b0f19600",
+      "text": "Projectego.net"
+    },
+    {
+      "id": "e1e08621",
+      "bank_id": "b0f19600",
+      "text": "Andrew David Collins (Parasol)"
+    },
+    {
+      "id": "e1f1cf02",
+      "bank_id": "b0f19600",
+      "text": "Ego-Maniacs.com"
+    },
+    {
+      "id": "e2f1d0f5",
+      "bank_id": "b0f19600",
+      "text": "Fable 2 Topluluğu"
+    },
+    {
+      "id": "e4dc0dac",
+      "bank_id": "b0f19600",
+      "text": "William \"Chip\" Beaman"
+    },
+    {
+      "id": "e4ef9564",
+      "bank_id": "b0f19600",
+      "text": "Gemma Wilson"
+    },
+    {
+      "id": "e5dc0f1f",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "e5ef96d7",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "e73dc7d8",
+      "bank_id": "b0f19600",
+      "text": "Mevcut oyuncu profilini içeren depolama cihazı çıkarıldı! Oyuncu profilinin kayıtlı olduğu cihazı tekrar takmazsanız Başarımları kazanamazsınız.\nBaşlık ekranına dönmeyi seçerseniz tüm ilerleme kaybolacaktır."
+    },
+    {
+      "id": "e841a2b0",
+      "bank_id": "b0f19600",
+      "text": "David Schaal"
+    },
+    {
+      "id": "e8dc13d8",
+      "bank_id": "b0f19600",
+      "text": "<s4>Diyalog Kayıtçısı (Köpek Sesleri)</s4>"
+    },
+    {
+      "id": "e941a423",
+      "bank_id": "b0f19600",
+      "text": "Deo Simcox"
+    },
+    {
+      "id": "e9dc154b",
+      "bank_id": "b0f19600",
+      "text": "Tami Treadwell"
+    },
+    {
+      "id": "e9de5422",
+      "bank_id": "b0f19600",
+      "text": "<s4>Seslendirme Sanatçıları</s4>"
+    },
+    {
+      "id": "e9f1dbfa",
+      "bank_id": "b0f19600",
+      "text": "Köpek Rothy"
+    },
+    {
+      "id": "ea41a596",
+      "bank_id": "b0f19600",
+      "text": "Emma Tate"
+    },
+    {
+      "id": "ea50b000",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "eadc173e",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "eade5595",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "eaf1dd6d",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "eb41a709",
+      "bank_id": "b0f19600",
+      "text": "Eve Karpf"
+    },
+    {
+      "id": "eb50b1f3",
+      "bank_id": "b0f19600",
+      "text": "<s4>Eş Süpervizör</s4>"
+    },
+    {
+      "id": "ebdc1891",
+      "bank_id": "b0f19600",
+      "text": "<s4>Seslendirme İş Müdürü</s4>"
+    },
+    {
+      "id": "ebde5708",
+      "bank_id": "b0f19600",
+      "text": "Jamie Mortellaro"
+    },
+    {
+      "id": "ec41a8fc",
+      "bank_id": "b0f19600",
+      "text": "Ewan Bailey"
+    },
+    {
+      "id": "ec50b366",
+      "bank_id": "b0f19600",
+      "text": "<s4>Süpervizör Ses Tasarımcısı</s4>"
+    },
+    {
+      "id": "ecdc1a04",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "ecde58fb",
+      "bank_id": "b0f19600",
+      "text": "<s4>Seslendirme Seçimi</s4>"
+    },
+    {
+      "id": "ed41aa6f",
+      "bank_id": "b0f19600",
+      "text": "Jack Deam"
+    },
+    {
+      "id": "ed50b4d9",
+      "bank_id": "b0f19600",
+      "text": "Scott Martin Gershin"
+    },
+    {
+      "id": "ed52f3b0",
+      "bank_id": "b0f19600",
+      "text": "<s4>Kelt/Halk Müziği Enstrümanistleri </s4>"
+    },
+    {
+      "id": "eddc1bf7",
+      "bank_id": "b0f19600",
+      "text": "<s4>Diyalog Mikseri (Köpek Sesleri)</s4>"
+    },
+    {
+      "id": "edde5a6e",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "ee41abc2",
+      "bank_id": "b0f19600",
+      "text": "James Corden"
+    },
+    {
+      "id": "ee50b64c",
+      "bank_id": "b0f19600",
+      "text": "<s4>Ses Tasarımı</s4>"
+    },
+    {
+      "id": "ee52f523",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "eedc1d6a",
+      "bank_id": "b0f19600",
+      "text": "Robert Deschaine"
+    },
+    {
+      "id": "eede5bc1",
+      "bank_id": "b0f19600",
+      "text": "Justin Langley"
+    },
+    {
+      "id": "ef41adb5",
+      "bank_id": "b0f19600",
+      "text": "Jesse Curtis Harford"
+    },
+    {
+      "id": "ef50b83f",
+      "bank_id": "b0f19600",
+      "text": "Brad Beaumont"
+    },
+    {
+      "id": "ef52f696",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "efdc1edd",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "efde5db4",
+      "bank_id": "b0f19600",
+      "text": "<s4>Seslendirme Kayıt Mühendisi</s4>"
+    },
+    {
+      "id": "f041af28",
+      "bank_id": "b0f19600",
+      "text": "Jo Wyatt"
+    },
+    {
+      "id": "f050b992",
+      "bank_id": "b0f19600",
+      "text": "Shannon Potter"
+    },
+    {
+      "id": "f052f809",
+      "bank_id": "b0f19600",
+      "text": "Robert White & Brian Gulland"
+    },
+    {
+      "id": "f0de5f27",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "f141b09b",
+      "bank_id": "b0f19600",
+      "text": "Jon Glover"
+    },
+    {
+      "id": "f150bb05",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "f152f9fc",
+      "bank_id": "b0f19600",
+      "text": "Tiffin Erkek Çocuk Korosu"
+    },
+    {
+      "id": "f1de609a",
+      "bank_id": "b0f19600",
+      "text": "Erica Mehallo"
+    },
+    {
+      "id": "f252fb6f",
+      "bank_id": "b0f19600",
+      "text": "Pinewood Şarkıcıları"
+    },
+    {
+      "id": "f2de620d",
+      "bank_id": "b0f19600",
+      "text": "<s4>Seslendirme Koordinatörü</s4>"
+    },
+    {
+      "id": "f352fcc2",
+      "bank_id": "b0f19600",
+      "text": "Phoenix Sound, Pinewood stüdyolarında kaydedilmiştir."
+    },
+    {
+      "id": "f450bfde",
+      "bank_id": "b0f19600",
+      "text": "Bryan Celano"
+    },
+    {
+      "id": "f452feb5",
+      "bank_id": "b0f19600",
+      "text": "Tiffin Erkek Çocuk Korosu Şefi: Simon Toyne"
+    },
+    {
+      "id": "f4a06123",
+      "bank_id": "b0f19600",
+      "text": "Seçilen depolama cihazı çıkarıldı! Artık içerdiği kayıtlı oyunlara erişemezsiniz. Lütfen depolama cihazını tekrar takın."
+    },
+    {
+      "id": "f550c1b1",
+      "bank_id": "b0f19600",
+      "text": "Peter Zinda"
+    },
+    {
+      "id": "f9530654",
+      "bank_id": "b0f19600",
+      "text": " "
+    },
+    {
+      "id": "fa5307c7",
+      "bank_id": "b0f19600",
+      "text": "<s4>Soundelux Design Music Group Tarafından Yapılan Ses Tasarımı</s4>"
+    },
+    {
+      "id": "fd4e8fb2",
+      "bank_id": "b0f19600",
+      "text": "Müzik Prodüksiyon Ortaklığı: Peter Fuchs"
+    },
+    {
+      "id": "fe4e9125",
+      "bank_id": "b0f19600",
+      "text": "Kayıt ve Miks: Peter Fuchs"
+    },
+    {
+      "id": "ff4e9298",
+      "bank_id": "b0f19600",
+      "text": "Orkestrasyon ve Şef: Allan Wilson"
+    }
+  ]
+}

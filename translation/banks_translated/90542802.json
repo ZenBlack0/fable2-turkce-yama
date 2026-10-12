@@ -1,0 +1,1156 @@
+{
+  "bank_id": "90542802",
+  "total_strings": 230,
+  "strings": [
+    {
+      "id": "00e5c150",
+      "bank_id": "90542802",
+      "text": "İstediğin şey elimde olabilir. Ama sana pahalıya patlar."
+    },
+    {
+      "id": "00e5c151",
+      "bank_id": "90542802",
+      "text": "Elimde bir şey var ama senin için fazlasıyla pahalı."
+    },
+    {
+      "id": "00e5c153",
+      "bank_id": "90542802",
+      "text": "Şu anda stoğumuzda kaldığını sanmıyorum."
+    },
+    {
+      "id": "00e5c156",
+      "bank_id": "90542802",
+      "text": "Öyle çöpleri satmam ben. En azından sana satmam."
+    },
+    {
+      "id": "07e5cc53",
+      "bank_id": "90542802",
+      "text": "Elimde öyle bir şey yok seni kaçık."
+    },
+    {
+      "id": "07e5cc54",
+      "bank_id": "90542802",
+      "text": "Tam da o şeyden sipariş etmiştim. Her an gelebilir."
+    },
+    {
+      "id": "07e5cc55",
+      "bank_id": "90542802",
+      "text": "Ah, evet, sanırım tam aradığın şey var. Tabii eğer... Evet, şu an hepsi tükenmiş."
+    },
+    {
+      "id": "07e5cc56",
+      "bank_id": "90542802",
+      "text": "Elimde tam aradığın şey var. Ama senin gibilere göre değil."
+    },
+    {
+      "id": "0b33ec80",
+      "bank_id": "90542802",
+      "text": "Vaktimi boşa harcamasan iyi edersin."
+    },
+    {
+      "id": "0b33ec81",
+      "bank_id": "90542802",
+      "text": "Vaktimi boşa harcama."
+    },
+    {
+      "id": "0b33ec83",
+      "bank_id": "90542802",
+      "text": "Neye ihtiyacın varsa al ve beni rahat bırak."
+    },
+    {
+      "id": "0b33ec86",
+      "bank_id": "90542802",
+      "text": "Asabımı bozma benim."
+    },
+    {
+      "id": "110ffc30",
+      "bank_id": "90542802",
+      "text": "Alışverişinizin tadını çıkarın."
+    },
+    {
+      "id": "110ffc31",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmekten mutluluk duyarım."
+    },
+    {
+      "id": "110ffc33",
+      "bank_id": "90542802",
+      "text": "Beğeneceğiniz bir şeyler bulacağınıza eminim."
+    },
+    {
+      "id": "1233f783",
+      "bank_id": "90542802",
+      "text": "Gözüm üzerinde."
+    },
+    {
+      "id": "1233f784",
+      "bank_id": "90542802",
+      "text": "Vaktimi boşa harcamaya kalkışma."
+    },
+    {
+      "id": "1233f785",
+      "bank_id": "90542802",
+      "text": "Sana hizmet ederim ama senden hoşlanıyormuş gibi davranamam."
+    },
+    {
+      "id": "1233f786",
+      "bank_id": "90542802",
+      "text": "Bütün günüm sana kalmadı, biliyorsun değil mi?"
+    },
+    {
+      "id": "18100734",
+      "bank_id": "90542802",
+      "text": "Stoğumuzda hoşunuza gidebilecek yeni mallar var."
+    },
+    {
+      "id": "18100735",
+      "bank_id": "90542802",
+      "text": "Bugün ne arzu ederdiniz?"
+    },
+    {
+      "id": "18100736",
+      "bank_id": "90542802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "1959e588",
+      "bank_id": "90542802",
+      "text": "Sizin için ne yapabilirim bakalım?"
+    },
+    {
+      "id": "1959e58a",
+      "bank_id": "90542802",
+      "text": "Ne vereyim size?"
+    },
+    {
+      "id": "1959e58b",
+      "bank_id": "90542802",
+      "text": "Özel bir şey mi arıyorsunuz?"
+    },
+    {
+      "id": "1959e58d",
+      "bank_id": "90542802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "1e59eda9",
+      "bank_id": "90542802",
+      "text": "Yardım lazım mı?"
+    },
+    {
+      "id": "1e59edaa",
+      "bank_id": "90542802",
+      "text": "Doğru yere geldiniz."
+    },
+    {
+      "id": "1e59edab",
+      "bank_id": "90542802",
+      "text": "Bakalım sizin için ne yapabiliriz."
+    },
+    {
+      "id": "1e59edac",
+      "bank_id": "90542802",
+      "text": "Bu sefer ne olacak bakalım?"
+    },
+    {
+      "id": "2159c1b0",
+      "bank_id": "90542802",
+      "text": "Küçük bir indirimi hak ettiniz!"
+    },
+    {
+      "id": "2159c1b1",
+      "bank_id": "90542802",
+      "text": "Ah, sanırım size küçük bir indirim yapabilirim."
+    },
+    {
+      "id": "2159c1b3",
+      "bank_id": "90542802",
+      "text": "Sizin için küçük bir indirimim var."
+    },
+    {
+      "id": "2159c1b6",
+      "bank_id": "90542802",
+      "text": "Biliyor musunuz? Sanırım bir indirimi hak ettiniz."
+    },
+    {
+      "id": "24bf8598",
+      "bank_id": "90542802",
+      "text": "Ne arzu ederdiniz?"
+    },
+    {
+      "id": "24bf859a",
+      "bank_id": "90542802",
+      "text": "Yardımcı olabilir miyim?"
+    },
+    {
+      "id": "24bf859b",
+      "bank_id": "90542802",
+      "text": "Evet? Yardımcı olabilir miyim?"
+    },
+    {
+      "id": "24bf859d",
+      "bank_id": "90542802",
+      "text": "Ne için gelmiştiniz?"
+    },
+    {
+      "id": "2859ccb3",
+      "bank_id": "90542802",
+      "text": "Bunu genelde yapmam ama bir indirimi hak ettiniz."
+    },
+    {
+      "id": "2859ccb4",
+      "bank_id": "90542802",
+      "text": "İndirim yapabilirim. Benden olsun."
+    },
+    {
+      "id": "2859ccb5",
+      "bank_id": "90542802",
+      "text": "Sizin için fiyattan biraz kırabilirim."
+    },
+    {
+      "id": "2859ccb6",
+      "bank_id": "90542802",
+      "text": "Müesseseden bir indirim olsun."
+    },
+    {
+      "id": "29bf8db9",
+      "bank_id": "90542802",
+      "text": "Yardım edebileceğim bir şey var mı?"
+    },
+    {
+      "id": "29bf8dba",
+      "bank_id": "90542802",
+      "text": "Sizin için yapabileceğim bir şey var mı?"
+    },
+    {
+      "id": "29bf8dbb",
+      "bank_id": "90542802",
+      "text": "Bugün ne arıyordunuz?"
+    },
+    {
+      "id": "29bf8dbc",
+      "bank_id": "90542802",
+      "text": "Nedir?"
+    },
+    {
+      "id": "2ddf44c0",
+      "bank_id": "90542802",
+      "text": "Özel bir şey mi bakmıştınız?"
+    },
+    {
+      "id": "2ddf44c1",
+      "bank_id": "90542802",
+      "text": "Bugün ne alırdınız?"
+    },
+    {
+      "id": "2ddf44c3",
+      "bank_id": "90542802",
+      "text": "Verebileceğim bir şey var mı?"
+    },
+    {
+      "id": "2ddf44c6",
+      "bank_id": "90542802",
+      "text": "Ne istiyorsun bakalım?"
+    },
+    {
+      "id": "2eb41d0c",
+      "bank_id": "90542802",
+      "text": "Doğru yere geldiniz."
+    },
+    {
+      "id": "2eb41d0d",
+      "bank_id": "90542802",
+      "text": "Memnun kalacağınıza eminim."
+    },
+    {
+      "id": "2eb41d0e",
+      "bank_id": "90542802",
+      "text": "Hayal kırıklığına uğramayacaksınız."
+    },
+    {
+      "id": "34df4fc3",
+      "bank_id": "90542802",
+      "text": "Ne aramıştınız?"
+    },
+    {
+      "id": "34df4fc4",
+      "bank_id": "90542802",
+      "text": "Ne arıyorsunuz?"
+    },
+    {
+      "id": "34df4fc5",
+      "bank_id": "90542802",
+      "text": "Keyfiniz ne isterdi?"
+    },
+    {
+      "id": "34df4fc6",
+      "bank_id": "90542802",
+      "text": "Ne alırdınız?"
+    },
+    {
+      "id": "37b42b58",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmekten onur duyarım."
+    },
+    {
+      "id": "37b42b59",
+      "bank_id": "90542802",
+      "text": "Tam ihtiyacınız olan şeye sahip olmalıyız."
+    },
+    {
+      "id": "37b42b5b",
+      "bank_id": "90542802",
+      "text": "Belki sizin için özel bir teklif yapabiliriz."
+    },
+    {
+      "id": "441ff830",
+      "bank_id": "90542802",
+      "text": "Bunun için yeterli altın yok."
+    },
+    {
+      "id": "441ff831",
+      "bank_id": "90542802",
+      "text": "Korkarım buna paranız yetmiyor."
+    },
+    {
+      "id": "441ff832",
+      "bank_id": "90542802",
+      "text": "Korkarım yeterli altınınız yok."
+    },
+    {
+      "id": "441ff837",
+      "bank_id": "90542802",
+      "text": "Beni dolandırmaya mı çalışıyorsun? Paran yetmiyor."
+    },
+    {
+      "id": "45f27240",
+      "bank_id": "90542802",
+      "text": "Başka bir kasabayı dene. Ya da başka bir ülkeyi. Sadece defol buradan."
+    },
+    {
+      "id": "45f27241",
+      "bank_id": "90542802",
+      "text": "Sonuncusunu bir saat önce sattım. Ama gelecek ay uğrarsan daha fazlası gelir."
+    },
+    {
+      "id": "45f27243",
+      "bank_id": "90542802",
+      "text": "Arkaya bakmam lazım. Birkaç saat sonra gel."
+    },
+    {
+      "id": "45f27246",
+      "bank_id": "90542802",
+      "text": "Tabii, kesinlikle. Gelecek hafta gel, senin için hazır olur."
+    },
+    {
+      "id": "486262b8",
+      "bank_id": "90542802",
+      "text": "Sana hizmet etmiyorum! En azından tatlı dille değil."
+    },
+    {
+      "id": "486262ba",
+      "bank_id": "90542802",
+      "text": "Sırf beni sinirlendirmek için burada olmasan iyi edersin."
+    },
+    {
+      "id": "486262bb",
+      "bank_id": "90542802",
+      "text": "Vaktimi boşa harcama!"
+    },
+    {
+      "id": "486262bd",
+      "bank_id": "90542802",
+      "text": "Ne için geldiysen al ve defol."
+    },
+    {
+      "id": "4b7db578",
+      "bank_id": "90542802",
+      "text": "Beğendiğiniz bir şey var mı?"
+    },
+    {
+      "id": "4cf27d43",
+      "bank_id": "90542802",
+      "text": "Arkada biraz kalmış olabilir. Bakarım. Gelecek hafta."
+    },
+    {
+      "id": "4cf27d44",
+      "bank_id": "90542802",
+      "text": "Başka bir gün gel, belki yardımcı olabilirim."
+    },
+    {
+      "id": "4cf27d45",
+      "bank_id": "90542802",
+      "text": "Bu, esnaf-müşteri ilişkileri tarihinde birinin istediği şüphesiz en aptalca şey."
+    },
+    {
+      "id": "4cf27d46",
+      "bank_id": "90542802",
+      "text": "Elimde yok. Olsaydı da sana satmazdım."
+    },
+    {
+      "id": "4d20061a",
+      "bank_id": "90542802",
+      "text": "Ne çevirmeye çalışıyorsun? Yeterli altın yok."
+    },
+    {
+      "id": "4d20061c",
+      "bank_id": "90542802",
+      "text": "Bedavaya vermeme imkân yok."
+    },
+    {
+      "id": "4d20061d",
+      "bank_id": "90542802",
+      "text": "Üzgünüm ama buna paranız yetmiyor."
+    },
+    {
+      "id": "4d20061f",
+      "bank_id": "90542802",
+      "text": "Belki parasını ödeyecek kadar olduğunda."
+    },
+    {
+      "id": "4d626a59",
+      "bank_id": "90542802",
+      "text": "Ne istiyorsun?!"
+    },
+    {
+      "id": "4d626a5a",
+      "bank_id": "90542802",
+      "text": "Bir şey al ve defol git!"
+    },
+    {
+      "id": "4d626a5b",
+      "bank_id": "90542802",
+      "text": "İhtiyacın olanı al ve git buradan."
+    },
+    {
+      "id": "4d626a5c",
+      "bank_id": "90542802",
+      "text": "Yine mi sen."
+    },
+    {
+      "id": "4dffee31",
+      "bank_id": "90542802",
+      "text": "İhtiyacınız olan şeyin bizde olduğuna eminim. Evet. Evet."
+    },
+    {
+      "id": "4dffee34",
+      "bank_id": "90542802",
+      "text": "Ah, şey, getirebileceğim bir şey var mı?"
+    },
+    {
+      "id": "4dffee36",
+      "bank_id": "90542802",
+      "text": "Dükkânımı yakmayın, lütfen."
+    },
+    {
+      "id": "4dffee37",
+      "bank_id": "90542802",
+      "text": "Lütfen, sadece neye ihtiyacınız varsa alın."
+    },
+    {
+      "id": "52fff5d0",
+      "bank_id": "90542802",
+      "text": "Ah, yardım edebileceğim bir şey olursa haber verin..."
+    },
+    {
+      "id": "52fff5d5",
+      "bank_id": "90542802",
+      "text": "Ah, ne isterseniz... Elimden geleni yaparım..."
+    },
+    {
+      "id": "52fff5d6",
+      "bank_id": "90542802",
+      "text": "S-size bir şeyler bulabileceğimizden eminim."
+    },
+    {
+      "id": "52fff5d7",
+      "bank_id": "90542802",
+      "text": "Bana bir şans verin, size uygun bir şey buluruz."
+    },
+    {
+      "id": "567dc6a9",
+      "bank_id": "90542802",
+      "text": "Bir şeyler bulacağınıza eminim."
+    },
+    {
+      "id": "57c410b0",
+      "bank_id": "90542802",
+      "text": "Elbette, ne isterseniz!"
+    },
+    {
+      "id": "57c410b1",
+      "bank_id": "90542802",
+      "text": "İhtiyacınız olanı temin edebileceğime eminim."
+    },
+    {
+      "id": "57c410b3",
+      "bank_id": "90542802",
+      "text": "B-b-burada her zaman başımızın üstünde yeriniz var."
+    },
+    {
+      "id": "57c410b6",
+      "bank_id": "90542802",
+      "text": "Hizmetinizde olmaktan çok mutluyum. Hem de çok."
+    },
+    {
+      "id": "5c1e4e88",
+      "bank_id": "90542802",
+      "text": "Ah, geri dönmeniz ne güzel."
+    },
+    {
+      "id": "5c1e4e8d",
+      "bank_id": "90542802",
+      "text": "Oh, sizi tekrar görmek ne güzel."
+    },
+    {
+      "id": "5c1e4e8e",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmekten kıvanç duyarım."
+    },
+    {
+      "id": "5c1e4e8f",
+      "bank_id": "90542802",
+      "text": "Ah, geri dönmenize çok sevindim."
+    },
+    {
+      "id": "5d62b364",
+      "bank_id": "90542802",
+      "text": "Sizin için çok özel bir indirimim var!"
+    },
+    {
+      "id": "5d62b366",
+      "bank_id": "90542802",
+      "text": "Tam fiyat ödemenize hayatta izin vermem!"
+    },
+    {
+      "id": "5d62b367",
+      "bank_id": "90542802",
+      "text": "Madem sizsiniz, sanırım size özel bir indirim yapabilirim."
+    },
+    {
+      "id": "5ec41bb3",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmek bir o-o-onurdur."
+    },
+    {
+      "id": "5ec41bb4",
+      "bank_id": "90542802",
+      "text": "N-n-neye ihtiyacınız varsa getiririm."
+    },
+    {
+      "id": "5ec41bb5",
+      "bank_id": "90542802",
+      "text": "Lütfen bana zarar vermeyin, lütfen!"
+    },
+    {
+      "id": "5ec41bb6",
+      "bank_id": "90542802",
+      "text": "Ne yaparsanız yapın dükkânımı ateşe vermeyin!"
+    },
+    {
+      "id": "6262bb05",
+      "bank_id": "90542802",
+      "text": "Biliyor musun, bu seferlik sana indirim yapacağım galiba."
+    },
+    {
+      "id": "6262bb06",
+      "bank_id": "90542802",
+      "text": "Madem sizsiniz, sanırım size özel bir indirim yapabilirim."
+    },
+    {
+      "id": "6262bb07",
+      "bank_id": "90542802",
+      "text": "Tam fiyat ödemiyorsunuz, benim nöbetimde asla! Ha ha."
+    },
+    {
+      "id": "671e6039",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmek her zaman güzel."
+    },
+    {
+      "id": "671e603c",
+      "bank_id": "90542802",
+      "text": "Size yardım etmek her zaman bir zevk."
+    },
+    {
+      "id": "671e603e",
+      "bank_id": "90542802",
+      "text": "Hizmet etmekten en çok keyif aldığım kişi sizsiniz,"
+    },
+    {
+      "id": "671e603f",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmek bir onur."
+    },
+    {
+      "id": "74d6d552",
+      "bank_id": "90542802",
+      "text": "Ee, ne bakmıştınız?"
+    },
+    {
+      "id": "74d6d554",
+      "bank_id": "90542802",
+      "text": "Nasıl yardımcı olabilirim?"
+    },
+    {
+      "id": "74d6d555",
+      "bank_id": "90542802",
+      "text": "Ne aradığınızı biliyor musunuz?"
+    },
+    {
+      "id": "74d6d557",
+      "bank_id": "90542802",
+      "text": "İstediğiniz şey nedir?"
+    },
+    {
+      "id": "7bd6e058",
+      "bank_id": "90542802",
+      "text": "Ne alırdınız bakalım?"
+    },
+    {
+      "id": "7bd6e059",
+      "bank_id": "90542802",
+      "text": "Gönlünüz ne çekti?"
+    },
+    {
+      "id": "7bd6e05a",
+      "bank_id": "90542802",
+      "text": "Ne arzu ederdiniz?"
+    },
+    {
+      "id": "7bd6e05f",
+      "bank_id": "90542802",
+      "text": "Ne aramıştınız?"
+    },
+    {
+      "id": "82ae93b4",
+      "bank_id": "90542802",
+      "text": "Doğru yere geldiniz."
+    },
+    {
+      "id": "82ae93b6",
+      "bank_id": "90542802",
+      "text": "Bugün kendiniz için mi alışveriş yapıyorsunuz?"
+    },
+    {
+      "id": "82ae93b7",
+      "bank_id": "90542802",
+      "text": "Sizin için ne yapabilirim bakalım?"
+    },
+    {
+      "id": "87ae9b55",
+      "bank_id": "90542802",
+      "text": "Özel bir şey mi bakmıştınız?"
+    },
+    {
+      "id": "87ae9b56",
+      "bank_id": "90542802",
+      "text": "Bugün ne arzu ederdiniz?"
+    },
+    {
+      "id": "87ae9b57",
+      "bank_id": "90542802",
+      "text": "Yardım lazım mı oraya?"
+    },
+    {
+      "id": "8cdd0e02",
+      "bank_id": "90542802",
+      "text": "Ne arıyorsunuz?"
+    },
+    {
+      "id": "8cdd0e04",
+      "bank_id": "90542802",
+      "text": "Nasıl yardımcı olabilirim?"
+    },
+    {
+      "id": "8cdd0e05",
+      "bank_id": "90542802",
+      "text": "Sizin için ne yapabilirim?"
+    },
+    {
+      "id": "8cdd0e07",
+      "bank_id": "90542802",
+      "text": "Bugün size nasıl yardımcı olabilirim?"
+    },
+    {
+      "id": "93dd1908",
+      "bank_id": "90542802",
+      "text": "Nedir?"
+    },
+    {
+      "id": "93dd1909",
+      "bank_id": "90542802",
+      "text": "Beğendiğiniz bir şey var mı?"
+    },
+    {
+      "id": "93dd190a",
+      "bank_id": "90542802",
+      "text": "Ne istediğinizi söylerseniz belki yardımcı olabilirim."
+    },
+    {
+      "id": "93dd190f",
+      "bank_id": "90542802",
+      "text": "Ne istiyorsun?"
+    },
+    {
+      "id": "94bcae80",
+      "bank_id": "90542802",
+      "text": "Gerçekten indirimi hak ediyorsunuz. Kimseye söylemeyin ama."
+    },
+    {
+      "id": "94bcae81",
+      "bank_id": "90542802",
+      "text": "Bunu pek sık yapmam ama gerçekten özel bir indirimi hak ediyorsunuz."
+    },
+    {
+      "id": "94bcae83",
+      "bank_id": "90542802",
+      "text": "Bir indirim alabilirsiniz, tabii ki."
+    },
+    {
+      "id": "94bcae86",
+      "bank_id": "90542802",
+      "text": "Seni sevdim, o yüzden indirim yapacağım. Buna ne dersin?"
+    },
+    {
+      "id": "9567265b",
+      "bank_id": "90542802",
+      "text": "Bir dahaki sefere daha çok para harcayın."
+    },
+    {
+      "id": "9567265c",
+      "bank_id": "90542802",
+      "text": "Teşekkürler, yine bekleriz."
+    },
+    {
+      "id": "9567265d",
+      "bank_id": "90542802",
+      "text": "Lütfen yine gelin!"
+    },
+    {
+      "id": "9567265e",
+      "bank_id": "90542802",
+      "text": "Bizi tercih ettiğiniz için teşekkür ederiz."
+    },
+    {
+      "id": "97d0ffb0",
+      "bank_id": "90542802",
+      "text": "Neye ihtiyacın varsa al ve çabuk ol!"
+    },
+    {
+      "id": "97d0ffb1",
+      "bank_id": "90542802",
+      "text": "İstediğini al ve defol."
+    },
+    {
+      "id": "97d0ffb3",
+      "bank_id": "90542802",
+      "text": "Eşyalarını al ve git buradan."
+    },
+    {
+      "id": "97d0ffb6",
+      "bank_id": "90542802",
+      "text": "Vaktimi boşa harcama."
+    },
+    {
+      "id": "9bbcb983",
+      "bank_id": "90542802",
+      "text": "İndirimi hak eden biri varsa o da sizsiniz."
+    },
+    {
+      "id": "9bbcb984",
+      "bank_id": "90542802",
+      "text": "Eğer biri indirimi hak ediyorsa, o da sizsiniz."
+    },
+    {
+      "id": "9bbcb985",
+      "bank_id": "90542802",
+      "text": "Bunu sık yapmam ama bence indirimi hak ediyorsunuz."
+    },
+    {
+      "id": "9cd254a0",
+      "bank_id": "90542802",
+      "text": "Lütfen, bela istemiyoruz."
+    },
+    {
+      "id": "9cd254a1",
+      "bank_id": "90542802",
+      "text": "Yardımcı olabileceğime eminim."
+    },
+    {
+      "id": "9cd254a3",
+      "bank_id": "90542802",
+      "text": "Elimden gelen her şekilde yardım ederim. Kesinlikle."
+    },
+    {
+      "id": "9cd254a6",
+      "bank_id": "90542802",
+      "text": "Y-y-yardımcı olabilir miyim?"
+    },
+    {
+      "id": "9e6734a8",
+      "bank_id": "90542802",
+      "text": "Arayı açmayın!"
+    },
+    {
+      "id": "9e6734a9",
+      "bank_id": "90542802",
+      "text": "Ne zaman isterseniz yine gelin."
+    },
+    {
+      "id": "9e6734ab",
+      "bank_id": "90542802",
+      "text": "Lütfen yine gelin!"
+    },
+    {
+      "id": "9e6734ae",
+      "bank_id": "90542802",
+      "text": "Her zaman bekleriz."
+    },
+    {
+      "id": "9ed10ab3",
+      "bank_id": "90542802",
+      "text": "Biraz altın harcasan iyi edersin."
+    },
+    {
+      "id": "9ed10ab4",
+      "bank_id": "90542802",
+      "text": "Harika. Yine sen."
+    },
+    {
+      "id": "9ed10ab5",
+      "bank_id": "90542802",
+      "text": "Çabuk ol bakalım!"
+    },
+    {
+      "id": "9ed10ab6",
+      "bank_id": "90542802",
+      "text": "Yine mi sen!"
+    },
+    {
+      "id": "a3d25fa3",
+      "bank_id": "90542802",
+      "text": "Dükkânı yakmayın sakın."
+    },
+    {
+      "id": "a3d25fa4",
+      "bank_id": "90542802",
+      "text": "Lütfen, ne isterseniz alın."
+    },
+    {
+      "id": "a3d25fa5",
+      "bank_id": "90542802",
+      "text": "En... değerli... müşterimizsiniz."
+    },
+    {
+      "id": "a3d25fa6",
+      "bank_id": "90542802",
+      "text": "Nasıl isterseniz öyle hizmet ederim. Ciddiyim."
+    },
+    {
+      "id": "b33bbcb2",
+      "bank_id": "90542802",
+      "text": "Senin için elimden geleni yaparım."
+    },
+    {
+      "id": "b33bbcb4",
+      "bank_id": "90542802",
+      "text": "Neye ihtiyacınız varsa elimden geleni yaparım!"
+    },
+    {
+      "id": "b33bbcb5",
+      "bank_id": "90542802",
+      "text": "Umarım bugün size yardımcı olabilirim dostum."
+    },
+    {
+      "id": "b33bbcb7",
+      "bank_id": "90542802",
+      "text": "Hizmet etmek için elimden geleni yapacağım!"
+    },
+    {
+      "id": "ba3bc7b8",
+      "bank_id": "90542802",
+      "text": "Keşke bütün müşterilerim sizin gibi olsa."
+    },
+    {
+      "id": "ba3bc7b9",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmek her zaman bir zevk."
+    },
+    {
+      "id": "ba3bc7ba",
+      "bank_id": "90542802",
+      "text": "En sevdiğim müşteri!"
+    },
+    {
+      "id": "ba3bc7bf",
+      "bank_id": "90542802",
+      "text": "Ne istersen ahbap."
+    },
+    {
+      "id": "bfd998e2",
+      "bank_id": "90542802",
+      "text": "En sevdiğim müşterimsiniz vallahi."
+    },
+    {
+      "id": "bfd998e4",
+      "bank_id": "90542802",
+      "text": "Hizmet etmekten mutluluk duyarım."
+    },
+    {
+      "id": "bfd998e5",
+      "bank_id": "90542802",
+      "text": "Yardımcı olmaktan fazlasıyla memnunum, aziz dostum."
+    },
+    {
+      "id": "bfd998e7",
+      "bank_id": "90542802",
+      "text": "Ne isterseniz!"
+    },
+    {
+      "id": "c6d9a3e8",
+      "bank_id": "90542802",
+      "text": "Dükkânımda her zaman başımın üstünde yeriniz var."
+    },
+    {
+      "id": "c6d9a3e9",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmek her zaman bir zevk."
+    },
+    {
+      "id": "c6d9a3ea",
+      "bank_id": "90542802",
+      "text": "En sevdiğim müşterimsiniz."
+    },
+    {
+      "id": "c6d9a3ef",
+      "bank_id": "90542802",
+      "text": "Umarım yardımcı olabilirim."
+    },
+    {
+      "id": "c7f00e58",
+      "bank_id": "90542802",
+      "text": "Yine bekleriz."
+    },
+    {
+      "id": "c7f00e5d",
+      "bank_id": "90542802",
+      "text": "Sizinle iş yapmak güzeldi."
+    },
+    {
+      "id": "c7f00e5e",
+      "bank_id": "90542802",
+      "text": "Sizinle iş yapmak bir zevkti."
+    },
+    {
+      "id": "c7f00e5f",
+      "bank_id": "90542802",
+      "text": "Benim için bir zevkti."
+    },
+    {
+      "id": "ce5cb212",
+      "bank_id": "90542802",
+      "text": "Harika bir seçkimiz var."
+    },
+    {
+      "id": "d2f01f89",
+      "bank_id": "90542802",
+      "text": "Sizinle alışveriş yapmak güzeldi."
+    },
+    {
+      "id": "d2f01f8c",
+      "bank_id": "90542802",
+      "text": "Yine gelin!"
+    },
+    {
+      "id": "d2f01f8e",
+      "bank_id": "90542802",
+      "text": "Her zaman kapımız açık."
+    },
+    {
+      "id": "d2f01f8f",
+      "bank_id": "90542802",
+      "text": "Sizinle iş yapmak bir zevkti."
+    },
+    {
+      "id": "d55cbd1f",
+      "bank_id": "90542802",
+      "text": "İhtiyacınız olanın bizde olduğuna eminim."
+    },
+    {
+      "id": "d6ef5240",
+      "bank_id": "90542802",
+      "text": "Her hafta buraya geliyorum ama aradığımı hiç bulamıyorum sanki."
+    },
+    {
+      "id": "d6ef5243",
+      "bank_id": "90542802",
+      "text": "Kumkazı tüyü yastığı nereden alabileceğimi biliyor musun?"
+    },
+    {
+      "id": "e196f9bb",
+      "bank_id": "90542802",
+      "text": "Paranızı almak güzeldi."
+    },
+    {
+      "id": "e196f9bc",
+      "bank_id": "90542802",
+      "text": "Lütfen yine gelin."
+    },
+    {
+      "id": "e196f9bd",
+      "bank_id": "90542802",
+      "text": "Hizmetinizdeyiz."
+    },
+    {
+      "id": "e196f9be",
+      "bank_id": "90542802",
+      "text": "Her zaman yardımcı olmaktan mutluluk duyarız."
+    },
+    {
+      "id": "e8d293d0",
+      "bank_id": "90542802",
+      "text": "Bugün ne alırdınız?"
+    },
+    {
+      "id": "e8d293d1",
+      "bank_id": "90542802",
+      "text": "İhtiyacınız olan şey nedir?"
+    },
+    {
+      "id": "e8d293d3",
+      "bank_id": "90542802",
+      "text": "Bugün ne arzu ederdiniz?"
+    },
+    {
+      "id": "e8d293d6",
+      "bank_id": "90542802",
+      "text": "Evet?"
+    },
+    {
+      "id": "e93d4651",
+      "bank_id": "90542802",
+      "text": "Ne çevirmeye çalışıyorsun sen?"
+    },
+    {
+      "id": "e93d4654",
+      "bank_id": "90542802",
+      "text": "Tüh, sonuncusunu az önce sattım."
+    },
+    {
+      "id": "e93d4656",
+      "bank_id": "90542802",
+      "text": "Buranın ne biçim bir dükkân olduğunu sanıyorsun?"
+    },
+    {
+      "id": "e93d4657",
+      "bank_id": "90542802",
+      "text": "Hmm, neden biraz sonra gelmiyorsun? Mesela gelecek yıl?"
+    },
+    {
+      "id": "ea970788",
+      "bank_id": "90542802",
+      "text": "Yardımcı olmaktan her zaman mutluluk duyarız."
+    },
+    {
+      "id": "ea970789",
+      "bank_id": "90542802",
+      "text": "Hizmet etmek bir zevk."
+    },
+    {
+      "id": "ea97078b",
+      "bank_id": "90542802",
+      "text": "Güle güle kullanın."
+    },
+    {
+      "id": "ea97078e",
+      "bank_id": "90542802",
+      "text": "Buyrun bakalım."
+    },
+    {
+      "id": "ee3d4e70",
+      "bank_id": "90542802",
+      "text": "Depo gibi mi duruyorum oradan bakınca?"
+    },
+    {
+      "id": "ee3d4e75",
+      "bank_id": "90542802",
+      "text": "Belki de başka bir dükkânı denemelisiniz."
+    },
+    {
+      "id": "ee3d4e76",
+      "bank_id": "90542802",
+      "text": "Size yardımcı olabileceğimi sanmıyorum. Psikiyatrik tedavi almayı denediniz mi hiç?"
+    },
+    {
+      "id": "ee3d4e77",
+      "bank_id": "90542802",
+      "text": "Korkarım aradığınız dükkân sadece sizin o çarpık hayal dünyanızda var."
+    },
+    {
+      "id": "efd29ed3",
+      "bank_id": "90542802",
+      "text": "Yardımcı olabilir miyim?"
+    },
+    {
+      "id": "efd29ed4",
+      "bank_id": "90542802",
+      "text": "Yardımcı olabileceğime eminim."
+    },
+    {
+      "id": "efd29ed5",
+      "bank_id": "90542802",
+      "text": "Biraz yardım teklif edebilir miyim?"
+    },
+    {
+      "id": "efd29ed6",
+      "bank_id": "90542802",
+      "text": "Yardım lazım mı?"
+    },
+    {
+      "id": "f3fdf448",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmekten mutluluk duyarım."
+    },
+    {
+      "id": "f3fdf44a",
+      "bank_id": "90542802",
+      "text": "En sevdiğim kişisiniz vallahi."
+    },
+    {
+      "id": "f3fdf44b",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmek bir onur."
+    },
+    {
+      "id": "f8fdfc69",
+      "bank_id": "90542802",
+      "text": "Hizmet etmekten mutluluk duyarım."
+    },
+    {
+      "id": "f8fdfc6a",
+      "bank_id": "90542802",
+      "text": "Neye ihtiyacınız varsa elimden geleni yaparım!"
+    },
+    {
+      "id": "f8fdfc6b",
+      "bank_id": "90542802",
+      "text": "Size hizmet etmek her zaman bir zevk."
+    },
+    {
+      "id": "f9634270",
+      "bank_id": "90542802",
+      "text": "Hey, altın yoksa eşya da yok."
+    },
+    {
+      "id": "f9634276",
+      "bank_id": "90542802",
+      "text": "Yeterli altının yoksa satın alamazsın."
+    },
+    {
+      "id": "f9634277",
+      "bank_id": "90542802",
+      "text": "Üzgünüm. Parasını ödeyemiyorsan alamazsın."
+    }
+  ]
+}

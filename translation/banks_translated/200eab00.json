@@ -1,0 +1,926 @@
+{
+  "bank_id": "200eab00",
+  "total_strings": 184,
+  "strings": [
+    {
+      "id": "0223e77b",
+      "bank_id": "200eab00",
+      "text": "Bütün arkadaşlarımın benden daha güzel oyuncakları var. Hem daha güzel yemekler de yiyorlar!"
+    },
+    {
+      "id": "02f466d7",
+      "bank_id": "200eab00",
+      "text": "Ebe sensin şimdi!"
+    },
+    {
+      "id": "030d7006",
+      "bank_id": "200eab00",
+      "text": "Beni asla yakalayamazsın!"
+    },
+    {
+      "id": "04a3046e",
+      "bank_id": "200eab00",
+      "text": "Baba, şey, hani birinden... yani bir kızdan hoşlanırsan ne yaparsın?... Boş ver ya!"
+    },
+    {
+      "id": "0626e81e",
+      "bank_id": "200eab00",
+      "text": "Sen de oynamak ister misin?"
+    },
+    {
+      "id": "09a22727",
+      "bank_id": "200eab00",
+      "text": "Hadi ama anne, sadece bir altın bozukluk lazım."
+    },
+    {
+      "id": "09f471da",
+      "bank_id": "200eab00",
+      "text": "Ebe sensin şimdi!"
+    },
+    {
+      "id": "0da312bb",
+      "bank_id": "200eab00",
+      "text": "Bu gece bana yine Whisper'ın hikâyesini okur musun babacığım? En sevdiğim o."
+    },
+    {
+      "id": "0e28618d",
+      "bank_id": "200eab00",
+      "text": "Yatağımın altında canavar olmadığına *emin* misin baba? Dün gece bir ses duyduğuma yemin edebilirdim..."
+    },
+    {
+      "id": "0f26f66b",
+      "bank_id": "200eab00",
+      "text": "Bu oyun bir harika!"
+    },
+    {
+      "id": "10a2322a",
+      "bank_id": "200eab00",
+      "text": "Harçlığımı biriktirip odama bir tablo alacağım."
+    },
+    {
+      "id": "12f32748",
+      "bank_id": "200eab00",
+      "text": "Bu akşam yine tofu yemeyeceğiz, değil mi anne?"
+    },
+    {
+      "id": "17f32f69",
+      "bank_id": "200eab00",
+      "text": "Bu akşam yemekte ne var anne?"
+    },
+    {
+      "id": "1928733c",
+      "bank_id": "200eab00",
+      "text": "Babacığım! Gelecek hafta arkadaşımın doğum günü var. Ona hediye almak için biraz para alabilir miyim?"
+    },
+    {
+      "id": "1fb45161",
+      "bank_id": "200eab00",
+      "text": "Hadi koşalım!"
+    },
+    {
+      "id": "21db7991",
+      "bank_id": "200eab00",
+      "text": "O kadar çok eşyam var ki. Teşekkür ederim!"
+    },
+    {
+      "id": "2210e464",
+      "bank_id": "200eab00",
+      "text": "Geri dönmene çok sevindim! Seni çok özledim."
+    },
+    {
+      "id": "2710ec05",
+      "bank_id": "200eab00",
+      "text": "Eve geldin! Bu sefer bir sürü canavarla savaştın mı?"
+    },
+    {
+      "id": "2ab46290",
+      "bank_id": "200eab00",
+      "text": "Hadi koşalım!"
+    },
+    {
+      "id": "2cdb8ac0",
+      "bank_id": "200eab00",
+      "text": "Bize baktığın için çok şanslıyız."
+    },
+    {
+      "id": "3294515e",
+      "bank_id": "200eab00",
+      "text": "Iyyy! Onu istemiyorum! O büyükler için!"
+    },
+    {
+      "id": "33097c48",
+      "bank_id": "200eab00",
+      "text": "Bu hafta sonu yaban mersini toplamaya gidebilir miyiz anneciğim?"
+    },
+    {
+      "id": "33bd1578",
+      "bank_id": "200eab00",
+      "text": "Buna inanmayacaksın anne ama bu hafta okula gitmeyi dört gözle bekliyorum. Barut hakkında bilgi edineceğiz!"
+    },
+    {
+      "id": "36508db2",
+      "bank_id": "200eab00",
+      "text": "Bazen yeterince yiyeceğimiz olmuyor."
+    },
+    {
+      "id": "37a78d2d",
+      "bank_id": "200eab00",
+      "text": "Bize gerçekten çok iyi bakıyorsun. Güzel yemekler yiyoruz... Bir sürü eşyamız var!"
+    },
+    {
+      "id": "38098469",
+      "bank_id": "200eab00",
+      "text": "Arkadaşlarımla oynamak istiyorum."
+    },
+    {
+      "id": "38bd1d19",
+      "bank_id": "200eab00",
+      "text": "Anneciğim, Albion'da neden hiç üniversite yok? Büyüyünce nerede okuyacağım ben?"
+    },
+    {
+      "id": "3aeffed2",
+      "bank_id": "200eab00",
+      "text": "Neden daha fazla altınımız yok?"
+    },
+    {
+      "id": "3b945fab",
+      "bank_id": "200eab00",
+      "text": "Iyyy! Babamın içtiği şey bu!"
+    },
+    {
+      "id": "3ed8daa1",
+      "bank_id": "200eab00",
+      "text": "Sürekli aç kalmamıza engel olacak kadar bile paramız yok."
+    },
+    {
+      "id": "3f509b9f",
+      "bank_id": "200eab00",
+      "text": "Bayağı acıktım ben."
+    },
+    {
+      "id": "411dc00e",
+      "bank_id": "200eab00",
+      "text": "Bil bakalım bu hafta okulda kim hakkında bilgi edineceğiz anne: Scarlet Robe!"
+    },
+    {
+      "id": "41fd6478",
+      "bank_id": "200eab00",
+      "text": "Neden hiç yiyeceğimiz olmuyor?"
+    },
+    {
+      "id": "42a79e5c",
+      "bank_id": "200eab00",
+      "text": "Bize bakmak için burada olmana çok seviniyorum. İhtiyacımız olan her şeyimiz var."
+    },
+    {
+      "id": "43f00d3f",
+      "bank_id": "200eab00",
+      "text": "Açım ben."
+    },
+    {
+      "id": "46b9a872",
+      "bank_id": "200eab00",
+      "text": "Peki bugün istikamet neresi?"
+    },
+    {
+      "id": "46b9a875",
+      "bank_id": "200eab00",
+      "text": "Aklınızda hangi istikamet vardı?"
+    },
+    {
+      "id": "46fd6c19",
+      "bank_id": "200eab00",
+      "text": "Çok uzun zamandır açız. Neden hiç altın getirmiyorsun?"
+    },
+    {
+      "id": "49d8ebd0",
+      "bank_id": "200eab00",
+      "text": "Neden karnımızı doyuracak paramız bile neredeyse yok? Sürekli öyle açım ki."
+    },
+    {
+      "id": "49ef7e77",
+      "bank_id": "200eab00",
+      "text": "Koş! Koş!"
+    },
+    {
+      "id": "4a1dce5b",
+      "bank_id": "200eab00",
+      "text": "Anne! Jack of Blades hakkındaki kompozisyonumu bitirdim! Sonunda zevk aldığım bir ödev!"
+    },
+    {
+      "id": "4d71a397",
+      "bank_id": "200eab00",
+      "text": "Hobbe'ler çok tatlı değil mi anne?"
+    },
+    {
+      "id": "4fdba063",
+      "bank_id": "200eab00",
+      "text": "Faytonla seyahat etmeyen gezdim demesin."
+    },
+    {
+      "id": "4fdba064",
+      "bank_id": "200eab00",
+      "text": "Bırakın faytonlarım sizi uzak diyarlara götürsün!"
+    },
+    {
+      "id": "50ea39d2",
+      "bank_id": "200eab00",
+      "text": "Büyüyünce sanırım muhafız olacağım. Kızlar da muhafız olabilir, değil mi baba?"
+    },
+    {
+      "id": "50ef897a",
+      "bank_id": "200eab00",
+      "text": "Koş! Koş!"
+    },
+    {
+      "id": "5412f1a7",
+      "bank_id": "200eab00",
+      "text": "Koş!"
+    },
+    {
+      "id": "5471ae9a",
+      "bank_id": "200eab00",
+      "text": "Arkadaşım Bower Gölü'nde büyük bir canavar olduğunu söylüyor ama doğru değil, değil mi anne?"
+    },
+    {
+      "id": "58c1b811",
+      "bank_id": "200eab00",
+      "text": "Ebe!"
+    },
+    {
+      "id": "59ea483f",
+      "bank_id": "200eab00",
+      "text": "Gömülü hazine aramaya gidebilir miyiz baba? Lütfeeeen!"
+    },
+    {
+      "id": "5b12fcaa",
+      "bank_id": "200eab00",
+      "text": "Koş!"
+    },
+    {
+      "id": "5e9f8502",
+      "bank_id": "200eab00",
+      "text": "Sen yokken buralar daha iyiydi."
+    },
+    {
+      "id": "627e7cd4",
+      "bank_id": "200eab00",
+      "text": "Misketlerimi gördün mü baba?"
+    },
+    {
+      "id": "636d41c8",
+      "bank_id": "200eab00",
+      "text": "Bir gün ben de bizim için altın kazanabileceğim."
+    },
+    {
+      "id": "63c1c940",
+      "bank_id": "200eab00",
+      "text": "Ebe!"
+    },
+    {
+      "id": "657e1080",
+      "bank_id": "200eab00",
+      "text": "Nereye?"
+    },
+    {
+      "id": "657e1087",
+      "bank_id": "200eab00",
+      "text": "Bugün nereye gitmek istersiniz?"
+    },
+    {
+      "id": "677e84f5",
+      "bank_id": "200eab00",
+      "text": "Bu hafta sonu pikniğe gidebilir miyiz baba?"
+    },
+    {
+      "id": "679f936f",
+      "bank_id": "200eab00",
+      "text": "Seni zerre kadar özlemedim."
+    },
+    {
+      "id": "686d49e9",
+      "bank_id": "200eab00",
+      "text": "Belki yeterince büyüdüğümde ben de biraz altın kazanabilirim."
+    },
+    {
+      "id": "68c1089d",
+      "bank_id": "200eab00",
+      "text": "Koşma vakti!"
+    },
+    {
+      "id": "68eef23d",
+      "bank_id": "200eab00",
+      "text": "Duramam, oyun oynuyoruz!"
+    },
+    {
+      "id": "6e067291",
+      "bank_id": "200eab00",
+      "text": "Çok yavaşsın!"
+    },
+    {
+      "id": "73a3e7fe",
+      "bank_id": "200eab00",
+      "text": "Şimdi oyun oynuyorum!"
+    },
+    {
+      "id": "73c119cc",
+      "bank_id": "200eab00",
+      "text": "Koşma vakti!"
+    },
+    {
+      "id": "73ce2374",
+      "bank_id": "200eab00",
+      "text": "Dünyanın en şanslı ailesiyiz."
+    },
+    {
+      "id": "73ef036c",
+      "bank_id": "200eab00",
+      "text": "Bu oyundan hiç sıkılmıyorum!"
+    },
+    {
+      "id": "762beb2e",
+      "bank_id": "200eab00",
+      "text": "Üstüne alınma anne ama kızlar çok tuhaf."
+    },
+    {
+      "id": "76acc878",
+      "bank_id": "200eab00",
+      "text": "Vay canına! Hiç gereği yoktu bunun."
+    },
+    {
+      "id": "76acc879",
+      "bank_id": "200eab00",
+      "text": "Gördün mü şunu? Ne dayak ama."
+    },
+    {
+      "id": "76acc87a",
+      "bank_id": "200eab00",
+      "text": "Yahu, bu düpedüz aşağılıkça!"
+    },
+    {
+      "id": "76acc87b",
+      "bank_id": "200eab00",
+      "text": "Canlarını kurtarabildiklerine şükretsinler!"
+    },
+    {
+      "id": "76acc87d",
+      "bank_id": "200eab00",
+      "text": "İnanamıyorum! Resmen kötülük bu!"
+    },
+    {
+      "id": "76acc87e",
+      "bank_id": "200eab00",
+      "text": "Gördün mü? Düpedüz saldırı bu."
+    },
+    {
+      "id": "76acc87f",
+      "bank_id": "200eab00",
+      "text": "Gördün mü? Buralarda öyle şiddet falan istemiyoruz."
+    },
+    {
+      "id": "78ce2b15",
+      "bank_id": "200eab00",
+      "text": "Neyimiz eksik ki bizim!"
+    },
+    {
+      "id": "790683c0",
+      "bank_id": "200eab00",
+      "text": "Çok hızlıyım!"
+    },
+    {
+      "id": "7a5c8287",
+      "bank_id": "200eab00",
+      "text": "Ebe sensin!"
+    },
+    {
+      "id": "7ca3f5cb",
+      "bank_id": "200eab00",
+      "text": "Bu oyun harika."
+    },
+    {
+      "id": "7ecc8b67",
+      "bank_id": "200eab00",
+      "text": "Uslu durursam doğum günümde o oyuncak kılıcı alabilir miyim sence baba?"
+    },
+    {
+      "id": "7f2bf97b",
+      "bank_id": "200eab00",
+      "text": "Anne, babam sana hiç aşk şiiri yazdı mı? Neden öyle yüzünü ekşitiyorsun?"
+    },
+    {
+      "id": "7fafb54d",
+      "bank_id": "200eab00",
+      "text": "Hani bana hep sebzelerimi yememi söylersin ya anne? Arkadaşım onların insanı kıza dönüştürdüğünü söylüyor!"
+    },
+    {
+      "id": "7ff8f1d8",
+      "bank_id": "200eab00",
+      "text": "Koooşuuun!"
+    },
+    {
+      "id": "815c8d8a",
+      "bank_id": "200eab00",
+      "text": "Ebe sensin!"
+    },
+    {
+      "id": "81acd9a8",
+      "bank_id": "200eab00",
+      "text": "Eşek sudan gelinceye kadar dövmüşler. Cık cık!"
+    },
+    {
+      "id": "81acd9a9",
+      "bank_id": "200eab00",
+      "text": "Kavgalarını Çile'ye saklasalar ya."
+    },
+    {
+      "id": "81acd9aa",
+      "bank_id": "200eab00",
+      "text": "Böyle bir şiddeti görünce bayılacağım sanırım."
+    },
+    {
+      "id": "81acd9ab",
+      "bank_id": "200eab00",
+      "text": "Aman! Işık korusun! Böylesi bir vahşet kabul edilemez!"
+    },
+    {
+      "id": "81acd9ac",
+      "bank_id": "200eab00",
+      "text": "Ay, gerçekten şoke ediciydi!"
+    },
+    {
+      "id": "81acd9ae",
+      "bank_id": "200eab00",
+      "text": "Buralarda böyle şiddet görmeyi beklemez insan."
+    },
+    {
+      "id": "81acd9af",
+      "bank_id": "200eab00",
+      "text": "Nasıl bir insan yapar bunu?!"
+    },
+    {
+      "id": "81d819d3",
+      "bank_id": "200eab00",
+      "text": "Baba! Bir daha asla dönmeyeceksin sandım. Bizi bir daha asla yapayalnız bırakma. Lütfen."
+    },
+    {
+      "id": "833fa481",
+      "bank_id": "200eab00",
+      "text": "Okulda çok fazla ödev veriyorlar baba. Ben sadece oyun oynamak istiyorum."
+    },
+    {
+      "id": "84f8f9f9",
+      "bank_id": "200eab00",
+      "text": "Kaçın!"
+    },
+    {
+      "id": "85cc966a",
+      "bank_id": "200eab00",
+      "text": "Büyüyünce doktor olacağım baba."
+    },
+    {
+      "id": "87976f52",
+      "bank_id": "200eab00",
+      "text": "Anne! Döndün! Sen yokken her şey çok korkunçtu. Açtık ve çok korktuk."
+    },
+    {
+      "id": "88aa7833",
+      "bank_id": "200eab00",
+      "text": "Yakalayabilirsen yakala bakalım!"
+    },
+    {
+      "id": "88d824d6",
+      "bank_id": "200eab00",
+      "text": "Baba! Baba! Bunca zamandır neredeydin? Bizi neden bıraktın?"
+    },
+    {
+      "id": "8aafc6fc",
+      "bank_id": "200eab00",
+      "text": "Anne, neden babamdan hep para saklıyorsun?"
+    },
+    {
+      "id": "8df0044d",
+      "bank_id": "200eab00",
+      "text": "Bize daha iyi bakman lazım."
+    },
+    {
+      "id": "8e3fb630",
+      "bank_id": "200eab00",
+      "text": "Bu gece bana sihirli ekmeğin hikâyesini okur musun?"
+    },
+    {
+      "id": "8faa8336",
+      "bank_id": "200eab00",
+      "text": "Hadi ama, iddiaya varım beni yakalayamazsın!"
+    },
+    {
+      "id": "90977dbf",
+      "bank_id": "200eab00",
+      "text": "Anne! Döndün! Sen yokken her şey çok korkunçtu. Açtık ve çok korktuk."
+    },
+    {
+      "id": "92218042",
+      "bank_id": "200eab00",
+      "text": "Yürümeyin, faytona binin!"
+    },
+    {
+      "id": "92218045",
+      "bank_id": "200eab00",
+      "text": "Bir fayton gezintisine ne dersiniz?"
+    },
+    {
+      "id": "978ef6b2",
+      "bank_id": "200eab00",
+      "text": "Yine de cinayet teşebbüsleri geçen yıla göre azaldı, değil mi?"
+    },
+    {
+      "id": "978ef6b3",
+      "bank_id": "200eab00",
+      "text": "Ölmedilerse cinayet sayılmaz."
+    },
+    {
+      "id": "978ef6b4",
+      "bank_id": "200eab00",
+      "text": "E ne oldu peki? İşi neden bitirmediler?"
+    },
+    {
+      "id": "978ef6b5",
+      "bank_id": "200eab00",
+      "text": "Şimdi de cinayete teşebbüs ha? Ne biçim bir dünyada yaşıyoruz."
+    },
+    {
+      "id": "978ef6b7",
+      "bank_id": "200eab00",
+      "text": "Hâlâ hayatta olmaları bir mucize."
+    },
+    {
+      "id": "98f015fc",
+      "bank_id": "200eab00",
+      "text": "Yemek yiyemeyecek kadar fakir olmamız umurunda değil mi?"
+    },
+    {
+      "id": "9d2723d9",
+      "bank_id": "200eab00",
+      "text": "Seyahat mi lazım? Benimle konuşun!"
+    },
+    {
+      "id": "9d2723de",
+      "bank_id": "200eab00",
+      "text": "Seni istediğin yere pek çabuk götürürüm."
+    },
+    {
+      "id": "9e8f01b8",
+      "bank_id": "200eab00",
+      "text": "Pekâlâ ölebilirlerdi de."
+    },
+    {
+      "id": "9e8f01b9",
+      "bank_id": "200eab00",
+      "text": "Saldırganın kim olduğunu gören oldu mu?"
+    },
+    {
+      "id": "9e8f01ba",
+      "bank_id": "200eab00",
+      "text": "Biri neredeyse ölüyordu!"
+    },
+    {
+      "id": "9e8f01be",
+      "bank_id": "200eab00",
+      "text": "Ne bekliyordun ki? Şiddet dolu bir kasaba burası."
+    },
+    {
+      "id": "9e8f01bf",
+      "bank_id": "200eab00",
+      "text": "Görünüşe bakılırsa hayata pamuk ipliğiyle bağlı."
+    },
+    {
+      "id": "a09f4b5f",
+      "bank_id": "200eab00",
+      "text": "Anne! Bir daha asla dönmeyeceksin sandım. Bizi bir daha asla yapayalnız bırakma. Lütfen."
+    },
+    {
+      "id": "aaae4988",
+      "bank_id": "200eab00",
+      "text": "Bu yıl uslu durursam doğum günümde bana bir büyü kitabı alır mısın?"
+    },
+    {
+      "id": "ac823fe8",
+      "bank_id": "200eab00",
+      "text": "Bir yere çabucak gitmen mi gerek? Aradığın adam benim."
+    },
+    {
+      "id": "ac823fef",
+      "bank_id": "200eab00",
+      "text": "Faytonum seni istediğin her yere götürür."
+    },
+    {
+      "id": "ae08c6eb",
+      "bank_id": "200eab00",
+      "text": "Bir tura çıkın ve beygir gücünün son harikasını tecrübe edin!"
+    },
+    {
+      "id": "ae08c6ec",
+      "bank_id": "200eab00",
+      "text": "Fayton gezintisi burada! Fayton turu burada!"
+    },
+    {
+      "id": "afae51a9",
+      "bank_id": "200eab00",
+      "text": "Dişlerimden biri sallanıyor baba."
+    },
+    {
+      "id": "afeed187",
+      "bank_id": "200eab00",
+      "text": "A, döndün! Yaşasın!"
+    },
+    {
+      "id": "b1354dd7",
+      "bank_id": "200eab00",
+      "text": "Geldin! Yaşasııın!"
+    },
+    {
+      "id": "b55054fd",
+      "bank_id": "200eab00",
+      "text": "İddiaya varım beni yakalayamazsın!"
+    },
+    {
+      "id": "b5956040",
+      "bank_id": "200eab00",
+      "text": "İstikametiniz neresi maceracı?"
+    },
+    {
+      "id": "b5956047",
+      "bank_id": "200eab00",
+      "text": "Yolculuk nereye?"
+    },
+    {
+      "id": "b6eedc8a",
+      "bank_id": "200eab00",
+      "text": "Seni çok özledim! Bu sefer nereye gittin?"
+    },
+    {
+      "id": "b78396e8",
+      "bank_id": "200eab00",
+      "text": "Bir yolculuğa çıkmak ister misiniz?"
+    },
+    {
+      "id": "b78396ef",
+      "bank_id": "200eab00",
+      "text": "Yürümek saflara göredir! Faytonlarımı kullanın!"
+    },
+    {
+      "id": "b83558da",
+      "bank_id": "200eab00",
+      "text": "Evine hoş geldin! Bu sefer hiç canavarlarla savaştın mı?"
+    },
+    {
+      "id": "b915696a",
+      "bank_id": "200eab00",
+      "text": "Keşke olurken görseydim."
+    },
+    {
+      "id": "b915696b",
+      "bank_id": "200eab00",
+      "text": "Görüyorsun işte. Herkes dayak yiyebilir."
+    },
+    {
+      "id": "b915696c",
+      "bank_id": "200eab00",
+      "text": "Korkunç. Tek kelimeyle korkunç."
+    },
+    {
+      "id": "b915696d",
+      "bank_id": "200eab00",
+      "text": "Zor tanırsın hallerini."
+    },
+    {
+      "id": "b915696e",
+      "bank_id": "200eab00",
+      "text": "Kimin sorumlu olduğuna dair bir fikri olan var mı?"
+    },
+    {
+      "id": "bca8ee67",
+      "bank_id": "200eab00",
+      "text": "Yakaladım seni!"
+    },
+    {
+      "id": "bcceae2d",
+      "bank_id": "200eab00",
+      "text": "Anneciğim! Anneciğim! Bunca zamandır neredeydin? Bizi neden bıraktın?"
+    },
+    {
+      "id": "bee409fd",
+      "bank_id": "200eab00",
+      "text": "Sen bir tanesin! Bizi hep şımartıyorsun. Dünyanın en şanslı kızıyım ben."
+    },
+    {
+      "id": "bfe4afa7",
+      "bank_id": "200eab00",
+      "text": "Merhaba! Bana hiç hediye getirmedin, değil mi?"
+    },
+    {
+      "id": "bff91c74",
+      "bank_id": "200eab00",
+      "text": "Kimse beni yakalayamaz!"
+    },
+    {
+      "id": "c050662c",
+      "bank_id": "200eab00",
+      "text": "Yakalayamazsın ki!"
+    },
+    {
+      "id": "c054eb5e",
+      "bank_id": "200eab00",
+      "text": "Bizi artık sevmiyor musun? Öyle açım ki karnım ağrıyor."
+    },
+    {
+      "id": "c21577b8",
+      "bank_id": "200eab00",
+      "text": "Ne fena dövmüşler!"
+    },
+    {
+      "id": "c21577b9",
+      "bank_id": "200eab00",
+      "text": "Ne korkunç bir olay!"
+    },
+    {
+      "id": "c21577bb",
+      "bank_id": "200eab00",
+      "text": "A, bu dehşet verici!"
+    },
+    {
+      "id": "c21577be",
+      "bank_id": "200eab00",
+      "text": "Bu devirde hiçbir yerde güvende değilsin."
+    },
+    {
+      "id": "c21577bf",
+      "bank_id": "200eab00",
+      "text": "İşte ben buna dayak derim."
+    },
+    {
+      "id": "c235c1b8",
+      "bank_id": "200eab00",
+      "text": "Bulutlar neden başımıza düşmüyor baba?"
+    },
+    {
+      "id": "c3a8f96a",
+      "bank_id": "200eab00",
+      "text": "Yakaladım seni!"
+    },
+    {
+      "id": "c4f92415",
+      "bank_id": "200eab00",
+      "text": "Beni asla yakalayamazsın!"
+    },
+    {
+      "id": "c51803d7",
+      "bank_id": "200eab00",
+      "text": "Bana izin versen gerçek bir tatar yayında çok iyi olacağıma eminim."
+    },
+    {
+      "id": "c6e4baaa",
+      "bank_id": "200eab00",
+      "text": "Eve dönmüş olman ne güzel."
+    },
+    {
+      "id": "c735c959",
+      "bank_id": "200eab00",
+      "text": "Baba, sen de bir zamanlar erkek çocuğuydun değil mi? Neden hepsi bu kadar aptal?"
+    },
+    {
+      "id": "c7cebf5c",
+      "bank_id": "200eab00",
+      "text": "Anne! Bir daha asla dönmeyeceksin sandım. Bizi bir daha asla yapayalnız bırakma. Lütfen."
+    },
+    {
+      "id": "c954f9ab",
+      "bank_id": "200eab00",
+      "text": "Ne zamandır hiç yiyeceğimiz yok. Bizi sevmiyor musun?"
+    },
+    {
+      "id": "c9cbd04e",
+      "bank_id": "200eab00",
+      "text": "Eve her zaman yeterince yiyecek getiriyorsun."
+    },
+    {
+      "id": "c9e41b2c",
+      "bank_id": "200eab00",
+      "text": "Sen bir tanesin! Yiyecek o kadar çok yemeğimiz ve oynayacak o kadar çok oyuncağımız var ki!"
+    },
+    {
+      "id": "cc180eda",
+      "bank_id": "200eab00",
+      "text": "Daha ne kadar okula gitmek zorundayım? Çok berbat."
+    },
+    {
+      "id": "cf966c4e",
+      "bank_id": "200eab00",
+      "text": "Bir daha asla tavuk yemeyeceğim baba. Bundan sonra sadece tofu ve sebze yiyeceğim."
+    },
+    {
+      "id": "d26575e8",
+      "bank_id": "200eab00",
+      "text": "A, senmişsin. Neden geri döndün ki sanki."
+    },
+    {
+      "id": "d2cbde9b",
+      "bank_id": "200eab00",
+      "text": "Bazı arkadaşlarım haftada sadece bir kere yemek yiyor ama ben öyle değilim!"
+    },
+    {
+      "id": "d4a46872",
+      "bank_id": "200eab00",
+      "text": "Anneeeee! Ödevimde yine yardıma ihtiyacım var!"
+    },
+    {
+      "id": "d7657d89",
+      "bank_id": "200eab00",
+      "text": "Neden eve dönmek zorunda kaldın ki?"
+    },
+    {
+      "id": "d8967a9b",
+      "bank_id": "200eab00",
+      "text": "Baba, arkadaşımın acayip güzel yeni bir tahta kılıcı var! Bana da alır mısın? Alır mısın? Alır mısın?"
+    },
+    {
+      "id": "d8f86f31",
+      "bank_id": "200eab00",
+      "text": "Baba! Döndün! Sen yokken her şey çok korkunçtu. Açtık ve çok korktuk."
+    },
+    {
+      "id": "dcb9400d",
+      "bank_id": "200eab00",
+      "text": "Yakaladım seni!"
+    },
+    {
+      "id": "dda4765f",
+      "bank_id": "200eab00",
+      "text": "Anneciğim, bu hafta pikniğe gidebilir miyiz?"
+    },
+    {
+      "id": "e3f88060",
+      "bank_id": "200eab00",
+      "text": "Baba! Döndün! Sen yokken her şey çok korkunçtu. Açtık ve çok korktuk."
+    },
+    {
+      "id": "e6104aa0",
+      "bank_id": "200eab00",
+      "text": "Neredeyse cinayet oluyormuş!"
+    },
+    {
+      "id": "e6104aa1",
+      "bank_id": "200eab00",
+      "text": "En azından hâlâ hayattalar."
+    },
+    {
+      "id": "e6104aa3",
+      "bank_id": "200eab00",
+      "text": "Ne olduğunu gördün mü? Neredeyse ölüyorlardı, değil mi?"
+    },
+    {
+      "id": "e6104aa6",
+      "bank_id": "200eab00",
+      "text": "Neredeyse cinayet mi? Neredeyse mi? Peh."
+    },
+    {
+      "id": "e7b951bc",
+      "bank_id": "200eab00",
+      "text": "Yakaladım seni!"
+    },
+    {
+      "id": "eb732d51",
+      "bank_id": "200eab00",
+      "text": "A, merhaba. Bu sefer evde uzun süre kalacak mısın?"
+    },
+    {
+      "id": "ed541894",
+      "bank_id": "200eab00",
+      "text": "Neden bir köpeğim olamıyor anne?"
+    },
+    {
+      "id": "f25420b5",
+      "bank_id": "200eab00",
+      "text": "Bütün arkadaşlarım saçlarını komik komik kestiriyor, ben de kestirebilir miyim anne?"
+    },
+    {
+      "id": "f6733e80",
+      "bank_id": "200eab00",
+      "text": "A, dönmüşsün. Bu sefer ne haltlar karıştırdın?"
+    },
+    {
+      "id": "f923d92e",
+      "bank_id": "200eab00",
+      "text": "Bazen daha fazla oyuncağımız ve yiyeceğimiz olsa fena olmazdı."
+    },
+    {
+      "id": "fc0d6503",
+      "bank_id": "200eab00",
+      "text": "Yakalayabilirsen yakala!"
+    },
+    {
+      "id": "fed8686e",
+      "bank_id": "200eab00",
+      "text": "Sayende hiç aç kalmıyorum."
+    }
+  ]
+}

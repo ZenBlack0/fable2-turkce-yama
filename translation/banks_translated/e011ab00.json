@@ -1,0 +1,896 @@
+{
+  "bank_id": "e011ab00",
+  "total_strings": 178,
+  "strings": [
+    {
+      "id": "00cef890",
+      "bank_id": "e011ab00",
+      "text": "Bu harika bir şey. Sana nasıl teşekkür etsem azdır?"
+    },
+    {
+      "id": "00cef891",
+      "bank_id": "e011ab00",
+      "text": "Vay canına! Nereden bildin?"
+    },
+    {
+      "id": "00cef892",
+      "bank_id": "e011ab00",
+      "text": "Bana mı? Diyecek laf bulamıyorum."
+    },
+    {
+      "id": "00cef893",
+      "bank_id": "e011ab00",
+      "text": "Tam da aradığım şey doğrusu."
+    },
+    {
+      "id": "00cef894",
+      "bank_id": "e011ab00",
+      "text": "Ne harika bir hediye!"
+    },
+    {
+      "id": "00cef895",
+      "bank_id": "e011ab00",
+      "text": "Teşekkürler. Tam da istediğim şey."
+    },
+    {
+      "id": "00cef896",
+      "bank_id": "e011ab00",
+      "text": "Ah, tam da istediğim şey!"
+    },
+    {
+      "id": "03d6f890",
+      "bank_id": "e011ab00",
+      "text": "Işık seni kutsasın! Bana bir hediye mi?? Minnettarlıktan ne yapacağımı bilemiyorum, ey yüce Kahraman."
+    },
+    {
+      "id": "03d6f893",
+      "bank_id": "e011ab00",
+      "text": "Zıplayan hobbe'ler aşkına! Bana mı?? Teşekkürler, süperstar Kahraman maceracı!"
+    },
+    {
+      "id": "03d6f894",
+      "bank_id": "e011ab00",
+      "text": "Ah! Ben... Ne diyeceğimi bilemiyorum! Onur duydum! Teşekkür ederim!"
+    },
+    {
+      "id": "03d6f897",
+      "bank_id": "e011ab00",
+      "text": "Vay canına, tek kelimeyle harika! Teşekkürler yüce Kahraman, teşekkürler!"
+    },
+    {
+      "id": "0ad70398",
+      "bank_id": "e011ab00",
+      "text": "Ben, şey, bunu kesinlikle hak etmiyorum! Sen benden katbekat daha önemlisin! Teşekkür ederim!"
+    },
+    {
+      "id": "0ad70399",
+      "bank_id": "e011ab00",
+      "text": "Kafama gürzle vurup adımı Ayşe koysunlar! Ay, kusura bakma, ünlülerin yanında elim ayağım titriyor... Teşekkür ederim!"
+    },
+    {
+      "id": "0ad7039a",
+      "bank_id": "e011ab00",
+      "text": "Bir ünlüden hediye ha! Vay be!"
+    },
+    {
+      "id": "0ad7039d",
+      "bank_id": "e011ab00",
+      "text": "Çok duygulandım! Sizin gibi büyük bir şöhretin bana bir hediye bahşedeceğini düşünmek bile... Şükranlarımı sunarım!"
+    },
+    {
+      "id": "0ad7039e",
+      "bank_id": "e011ab00",
+      "text": "Ben... Gözlerime inanamıyorum! Sizin gibi birinden bir hediye! Buna layık mıyım ki acaba?"
+    },
+    {
+      "id": "29395cab",
+      "bank_id": "e011ab00",
+      "text": "Bu kadar ünlü birinden son derece zavallı bir hediye."
+    },
+    {
+      "id": "2daba258",
+      "bank_id": "e011ab00",
+      "text": "Şey, evet, kendime gelmek için biraz iyi gidebilir!"
+    },
+    {
+      "id": "2daba25d",
+      "bank_id": "e011ab00",
+      "text": "Ah, boğazımdan kaymak gibi geçecek."
+    },
+    {
+      "id": "32abaa7a",
+      "bank_id": "e011ab00",
+      "text": "İçki mi? Bana mı? Şey, hayır demem doğrusu!"
+    },
+    {
+      "id": "32abaa7b",
+      "bank_id": "e011ab00",
+      "text": "Aslında ayık kalmaya çalışıyordum ama aman boş ver gitsin."
+    },
+    {
+      "id": "32abaa7d",
+      "bank_id": "e011ab00",
+      "text": "Bu meret beni birkaç saat idare eder. Şerefe!"
+    },
+    {
+      "id": "3679ce50",
+      "bank_id": "e011ab00",
+      "text": "Vay canına, küçük insanlara hâlâ vaktin var demek. Helal olsun sana."
+    },
+    {
+      "id": "3679ce51",
+      "bank_id": "e011ab00",
+      "text": "Ah, bunu hep cebimde saklayacağım."
+    },
+    {
+      "id": "3679ce54",
+      "bank_id": "e011ab00",
+      "text": "Bunu çerçeveleteceğim, teşekkürler!"
+    },
+    {
+      "id": "3679ce56",
+      "bank_id": "e011ab00",
+      "text": "Vay, ünlü bir maceracının imzası. Harika!"
+    },
+    {
+      "id": "3679ce57",
+      "bank_id": "e011ab00",
+      "text": "Ne kadar harika! Gerçek bir ünlüden imza!"
+    },
+    {
+      "id": "38cdbac4",
+      "bank_id": "e011ab00",
+      "text": "Ne hoş bir hediye."
+    },
+    {
+      "id": "39d3cfa1",
+      "bank_id": "e011ab00",
+      "text": "Bu çok güzel bir şey!"
+    },
+    {
+      "id": "3b79d670",
+      "bank_id": "e011ab00",
+      "text": "Şey, okuma yazmam yok ama çok güzel görünüyor doğrusu."
+    },
+    {
+      "id": "3b79d671",
+      "bank_id": "e011ab00",
+      "text": "Güzel iş! Üstünde senin el yazın falan da var."
+    },
+    {
+      "id": "3b79d675",
+      "bank_id": "e011ab00",
+      "text": "Gerçek bir ünlünün imzası. Harika!"
+    },
+    {
+      "id": "3b79d676",
+      "bank_id": "e011ab00",
+      "text": "Vay canına! Teşekkürler! Bu bir servet değerinde olmalı!"
+    },
+    {
+      "id": "3b79d677",
+      "bank_id": "e011ab00",
+      "text": "Koleksiyonumun baş tacı olacak bu!"
+    },
+    {
+      "id": "3dcdc2e5",
+      "bank_id": "e011ab00",
+      "text": "Harika hediye!"
+    },
+    {
+      "id": "3de84b94",
+      "bank_id": "e011ab00",
+      "text": "Şimdiye kadarki en güzel hediye! İmzanı her zaman bir hazine gibi saklayacağım!"
+    },
+    {
+      "id": "42e853b5",
+      "bank_id": "e011ab00",
+      "text": "Oooooh! Bunu aldığımı görünce arkadaşlarım kıskançlıktan çatlayacak. Bir tanesin!"
+    },
+    {
+      "id": "44d3e0d0",
+      "bank_id": "e011ab00",
+      "text": "Bu harika, teşekkürler."
+    },
+    {
+      "id": "4d0beb87",
+      "bank_id": "e011ab00",
+      "text": "Şahaaaane! Dünyanın en büyük Kahramanı gibisin! Vay be!"
+    },
+    {
+      "id": "4edbebd4",
+      "bank_id": "e011ab00",
+      "text": "İnanamıyorum! Sen resmen... benim kahramanımsın! Teşekkürler!"
+    },
+    {
+      "id": "53dbf3f5",
+      "bank_id": "e011ab00",
+      "text": "Gerçekten mi??! Bana mı?? Senden mi??!! Teşekkürler!"
+    },
+    {
+      "id": "540bf68a",
+      "bank_id": "e011ab00",
+      "text": "Ah, senin en büyük hayranınım! Bu çok harika, teşekkürler!"
+    },
+    {
+      "id": "5e1df367",
+      "bank_id": "e011ab00",
+      "text": "Mükemmel! Gerçekten sensin, değil mi?!"
+    },
+    {
+      "id": "61c7eb60",
+      "bank_id": "e011ab00",
+      "text": "Bu çok güzel!"
+    },
+    {
+      "id": "61c7eb61",
+      "bank_id": "e011ab00",
+      "text": "Harika. Teşekkürler!"
+    },
+    {
+      "id": "61c7eb63",
+      "bank_id": "e011ab00",
+      "text": "Hoşuma gitti, teşekkürler!"
+    },
+    {
+      "id": "61c7eb64",
+      "bank_id": "e011ab00",
+      "text": "Çok ama çok teşekkür ederim."
+    },
+    {
+      "id": "61c7eb65",
+      "bank_id": "e011ab00",
+      "text": "Mükemmel bir hediye. Minnettarım."
+    },
+    {
+      "id": "61c7eb66",
+      "bank_id": "e011ab00",
+      "text": "Pekala, bu harika oldu. Eyvallah."
+    },
+    {
+      "id": "61c7eb67",
+      "bank_id": "e011ab00",
+      "text": "Teşekkürler, iyi bir şeymiş bu."
+    },
+    {
+      "id": "651dfe6a",
+      "bank_id": "e011ab00",
+      "text": "Ah, ne kadar tatlısın. Senin büyük bir hayranınım!"
+    },
+    {
+      "id": "68c7f660",
+      "bank_id": "e011ab00",
+      "text": "Çok minnettarım."
+    },
+    {
+      "id": "68c7f661",
+      "bank_id": "e011ab00",
+      "text": "Ne kadar harika. Çok teşekkür ederim."
+    },
+    {
+      "id": "68c7f662",
+      "bank_id": "e011ab00",
+      "text": "Vay, güzelmiş. Eyvallah."
+    },
+    {
+      "id": "68c7f663",
+      "bank_id": "e011ab00",
+      "text": "Harika, teşekkürler!"
+    },
+    {
+      "id": "68c7f664",
+      "bank_id": "e011ab00",
+      "text": "Ah, ne kadar naziksin."
+    },
+    {
+      "id": "68c7f665",
+      "bank_id": "e011ab00",
+      "text": "Bu çok güzel bir şey!"
+    },
+    {
+      "id": "68c7f666",
+      "bank_id": "e011ab00",
+      "text": "Çok tatlı."
+    },
+    {
+      "id": "6bf4d8b1",
+      "bank_id": "e011ab00",
+      "text": "Bana mı? Çok naziksin! Sen yaşayan en meşhur maceracısın!"
+    },
+    {
+      "id": "6d593660",
+      "bank_id": "e011ab00",
+      "text": "Şu ününü yaymaya mı çalışıyorsun?"
+    },
+    {
+      "id": "6d593665",
+      "bank_id": "e011ab00",
+      "text": "Teşekkürler. Adını duymuştum, bilesin."
+    },
+    {
+      "id": "6d593666",
+      "bank_id": "e011ab00",
+      "text": "Vay, harika! Bu bir gün gerçekten para edebilir."
+    },
+    {
+      "id": "6d593667",
+      "bank_id": "e011ab00",
+      "text": "İyice meşhur olursan diye bunu saklayacağım."
+    },
+    {
+      "id": "76f4e9e0",
+      "bank_id": "e011ab00",
+      "text": "İnanamıyorum! Bana mı?? Gerçekten mi! Süpeeer!"
+    },
+    {
+      "id": "80f7fbf8",
+      "bank_id": "e011ab00",
+      "text": "Bir hediye mi?? Senden mi?? Vay canına, bu ne büyük olay böyle! Ho ho!"
+    },
+    {
+      "id": "80f7fbf9",
+      "bank_id": "e011ab00",
+      "text": "Vay canına, aman Tanrım... İnanamıyorum. Yani o kadar ünlüsün falan ya."
+    },
+    {
+      "id": "80f7fbfa",
+      "bank_id": "e011ab00",
+      "text": "Ne kadar da beklenmedik bir şey! Sizin gibi ünlü bir şahsiyetin beni bir hediyeyle onurlandıracağını hayal bile edemezdim!"
+    },
+    {
+      "id": "80f7fbfb",
+      "bank_id": "e011ab00",
+      "text": "B-bir hediye mi? Bana mı? Ne kadar da cömertsiniz! Yapacak bunca önemli işiniz varken hem de!"
+    },
+    {
+      "id": "80f7fbfe",
+      "bank_id": "e011ab00",
+      "text": "B-bana mı?? İnanılmaz bir şey bu. Bunu hak etmiyorum!"
+    },
+    {
+      "id": "80f7fbff",
+      "bank_id": "e011ab00",
+      "text": "Oooh! Daha önce hiçbir ünlü bana hediye vermemişti! Teşekkürler, yüce insan!"
+    },
+    {
+      "id": "85697a4d",
+      "bank_id": "e011ab00",
+      "text": "Harika! En sevdiğim şey!"
+    },
+    {
+      "id": "89ae0411",
+      "bank_id": "e011ab00",
+      "text": "Teşekkür ederim! Kendi maceracı imzam!"
+    },
+    {
+      "id": "8a1fbe48",
+      "bank_id": "e011ab00",
+      "text": "Aman Tanrım, bu kadar prestijli birinden bir hediye. Pek şahane bir şey olmasa bile."
+    },
+    {
+      "id": "8a1fbe49",
+      "bank_id": "e011ab00",
+      "text": "Demek ünlülerin kalitesiz hediyeler dağıttığı dedikoduları doğruymuş..."
+    },
+    {
+      "id": "8a1fbe4a",
+      "bank_id": "e011ab00",
+      "text": "Bana mı? Şey, gerçi çöp ama sen ünlü olduğun için belki biri bunu benden satın alır."
+    },
+    {
+      "id": "8a1fbe4b",
+      "bank_id": "e011ab00",
+      "text": "Ne kadar ünlü olduğun umurumda değil. Bu beş para etmez."
+    },
+    {
+      "id": "8bf80d28",
+      "bank_id": "e011ab00",
+      "text": "Ah! Ben... Vay be! Daha önce bir ünlüden hiçbir şey almamıştım!"
+    },
+    {
+      "id": "8bf80d29",
+      "bank_id": "e011ab00",
+      "text": "Ah, şey... Şey... Ne diyeceğimi bilemiyorum kudretli Kahraman. Şey... Teşekkür ederim sanırım."
+    },
+    {
+      "id": "8bf80d2a",
+      "bank_id": "e011ab00",
+      "text": "Bana mı?! Dilim tutuldu doğrusu! Ne de olsa o kadar ünlüsün. Çok ama çok teşekkür ederim."
+    },
+    {
+      "id": "8bf80d2b",
+      "bank_id": "e011ab00",
+      "text": "Ah, şey, aman Tanrım! Görülmüş şey değil! Çok minnettarım ulu maceracı!"
+    },
+    {
+      "id": "8bf80d2c",
+      "bank_id": "e011ab00",
+      "text": "Ne? Ah! Vay be! Ne diyebilirim ki? Çok teşekkürler büyük Kahraman!"
+    },
+    {
+      "id": "8bf80d2e",
+      "bank_id": "e011ab00",
+      "text": "Olamaz, vay canına! Sen? Sen, o meşhur maceracı, bana, şu garip fakire hediye mi veriyorsun?"
+    },
+    {
+      "id": "8bf80d2f",
+      "bank_id": "e011ab00",
+      "text": "B-b-bana mııı? A-ama sen çok meşhursun! Bense bir hiçim!"
+    },
+    {
+      "id": "90698bfc",
+      "bank_id": "e011ab00",
+      "text": "Vay canına, en sevdiğim şey!"
+    },
+    {
+      "id": "931fcc98",
+      "bank_id": "e011ab00",
+      "text": "Ah, ne kadar... ilginç bir hediye. Eh, en azından ünlüsün! Bu da bir değer katar!"
+    },
+    {
+      "id": "931fcc99",
+      "bank_id": "e011ab00",
+      "text": "Şöhretin büyük olabilir ama hediyelerin hiç öyle değil."
+    },
+    {
+      "id": "931fcc9b",
+      "bank_id": "e011ab00",
+      "text": "Ünlülerin sıradan insanları fark edeceğini sanmazdım. Ama zaten bize sadece uyduruk hediyeler verirsiniz."
+    },
+    {
+      "id": "931fcc9c",
+      "bank_id": "e011ab00",
+      "text": "Senin gibi ünlü birinin bana hediye vermesi çok nazikçe. Ama açıkçası biraz berbat bir şey."
+    },
+    {
+      "id": "931fcc9d",
+      "bank_id": "e011ab00",
+      "text": "Bu kadar ünlü birinden son derece zavallı bir hediye."
+    },
+    {
+      "id": "931fcc9e",
+      "bank_id": "e011ab00",
+      "text": "Senin gibi büyük bir isim neden böyle çöp hediyeler dağıtır ki?"
+    },
+    {
+      "id": "931fcc9f",
+      "bank_id": "e011ab00",
+      "text": "Böyle mi zevk alıyorsun sen meşhur pislik? Bu çöpleri millete dağıtarak mı?"
+    },
+    {
+      "id": "94ae1540",
+      "bank_id": "e011ab00",
+      "text": "Süper! Sen gerçek bir Kahramansın resmen!"
+    },
+    {
+      "id": "970bb888",
+      "bank_id": "e011ab00",
+      "text": "Ah, bana mı? Teşekkürler. Teşekkürler."
+    },
+    {
+      "id": "9c0bc0a9",
+      "bank_id": "e011ab00",
+      "text": "Bana hediye verdiğini bütün arkadaşlarıma anlatmak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "a4696bd7",
+      "bank_id": "e011ab00",
+      "text": "Vay canına! Belki artık ben de bir koleksiyon yapmaya başlayabilirim."
+    },
+    {
+      "id": "a7f2ca9f",
+      "bank_id": "e011ab00",
+      "text": "Tüm ünlülerin dostuyumdur. Özellikle de senin. Teşekkürler!"
+    },
+    {
+      "id": "a8db9308",
+      "bank_id": "e011ab00",
+      "text": "Bana şimdiye kadar verilen her şeyin içinde en iyisi bu."
+    },
+    {
+      "id": "a8db930a",
+      "bank_id": "e011ab00",
+      "text": "Bu hayatımda aldığım en güzel hediye olmalı!"
+    },
+    {
+      "id": "a8db930b",
+      "bank_id": "e011ab00",
+      "text": "Ah! Buna bayılırım! En sevdiğim şey!"
+    },
+    {
+      "id": "a8db930c",
+      "bank_id": "e011ab00",
+      "text": "Daha önce hiç kimse bana bu kadar güzel bir şey vermemişti. Eyvallah!"
+    },
+    {
+      "id": "a8db930d",
+      "bank_id": "e011ab00",
+      "text": "Çok cömert bir maceracısın. Bayıldım buna!"
+    },
+    {
+      "id": "a8db930e",
+      "bank_id": "e011ab00",
+      "text": "Hiçbir hediye bunun yanına bile yaklaşamaz. Yürekten minnettarım."
+    },
+    {
+      "id": "a8db930f",
+      "bank_id": "e011ab00",
+      "text": "Binlerce kez teşekkürler. Harika bir şey bu!"
+    },
+    {
+      "id": "ab6976da",
+      "bank_id": "e011ab00",
+      "text": "Güzel hareket! Bütün arkadaşlarıma göstermek için sabırsızlanıyorum."
+    },
+    {
+      "id": "addb9b29",
+      "bank_id": "e011ab00",
+      "text": "En sevdiğim şey bu! Çok düşüncelisin."
+    },
+    {
+      "id": "addb9b2a",
+      "bank_id": "e011ab00",
+      "text": "Ah, bayıldım. Bütün dünyada en sevdiğim şeylerden biridir!"
+    },
+    {
+      "id": "addb9b2b",
+      "bank_id": "e011ab00",
+      "text": "Bu tek kelimeyle inanılmaz! Çok teşekkür ederim!"
+    },
+    {
+      "id": "addb9b2c",
+      "bank_id": "e011ab00",
+      "text": "Vay canına, en sevdiğim şey olduğunu nereden bildin? Eyvallah!"
+    },
+    {
+      "id": "addb9b2d",
+      "bank_id": "e011ab00",
+      "text": "Bana mı? Bu şahane bir şey!"
+    },
+    {
+      "id": "addb9b2e",
+      "bank_id": "e011ab00",
+      "text": "Duygularıma hakim olamıyorum! Olağanüstü bir hediye."
+    },
+    {
+      "id": "addb9b2f",
+      "bank_id": "e011ab00",
+      "text": "İnanılmaz derecede düşüncelisin. Teşekkür ederim!"
+    },
+    {
+      "id": "ba0dcc37",
+      "bank_id": "e011ab00",
+      "text": "Vay be, harika bir hediye, teşekkürler!"
+    },
+    {
+      "id": "bbf3db4e",
+      "bank_id": "e011ab00",
+      "text": "Oooooh! Çok çok çok teşekkür ederim! Bunu sonsuza kadar saklayacağım! Ünlü bir Kahramandan hediye..."
+    },
+    {
+      "id": "c0077c20",
+      "bank_id": "e011ab00",
+      "text": "Bunun için sonsuz minnettarım ey Meşhur Kişi."
+    },
+    {
+      "id": "c0077c21",
+      "bank_id": "e011ab00",
+      "text": "Tüm ünlülerin dostuyumdur. Özellikle de senin. Teşekkürler!"
+    },
+    {
+      "id": "c0077c22",
+      "bank_id": "e011ab00",
+      "text": "Vay canına! Teşekkürler!"
+    },
+    {
+      "id": "c0077c23",
+      "bank_id": "e011ab00",
+      "text": "Bana mı?! Teşekkürler!"
+    },
+    {
+      "id": "c0077c24",
+      "bank_id": "e011ab00",
+      "text": "Gerçekten mi??! Bana mı?? Senden mi??!! Teşekkürler!"
+    },
+    {
+      "id": "c0077c25",
+      "bank_id": "e011ab00",
+      "text": "Bana mı?! Teşekkürler!"
+    },
+    {
+      "id": "c0077c27",
+      "bank_id": "e011ab00",
+      "text": "Vay canına! Teşekkürler!"
+    },
+    {
+      "id": "c0655a18",
+      "bank_id": "e011ab00",
+      "text": "Bana daha önce hiç bu kadar düşünceli bir hediye verilmemişti."
+    },
+    {
+      "id": "c0655a19",
+      "bank_id": "e011ab00",
+      "text": "Bu gerçekten tüm hediyelerin zirvesi."
+    },
+    {
+      "id": "c0655a1a",
+      "bank_id": "e011ab00",
+      "text": "Şimdiye kadarki en iyi şey! Eyvallah!"
+    },
+    {
+      "id": "c0655a1b",
+      "bank_id": "e011ab00",
+      "text": "Nutkum tutuldu. Teşekkürler!"
+    },
+    {
+      "id": "c0655a1c",
+      "bank_id": "e011ab00",
+      "text": "Tam da en çok istediğim şey. Teşekkür ederim!"
+    },
+    {
+      "id": "c0655a1d",
+      "bank_id": "e011ab00",
+      "text": "Ah, bayıldım buna. Sonsuza dek saklayacağım."
+    },
+    {
+      "id": "c0655a1e",
+      "bank_id": "e011ab00",
+      "text": "Bu hediyeyi asla unutmayacağım. Çok teşekkür ederim."
+    },
+    {
+      "id": "c10dd73a",
+      "bank_id": "e011ab00",
+      "text": "Ah, bayıldım, teşekkür ederim!"
+    },
+    {
+      "id": "c4f3e99b",
+      "bank_id": "e011ab00",
+      "text": "Vay canına! Bu ne kadar havalı böyle! Bütün dünyadaki en büyük Kahramandan bir hediye!"
+    },
+    {
+      "id": "c57e7018",
+      "bank_id": "e011ab00",
+      "text": "Bu ne için?"
+    },
+    {
+      "id": "c57e701a",
+      "bank_id": "e011ab00",
+      "text": "Tanınmamış kişilerin imzalarına pek ihtiyacım yok."
+    },
+    {
+      "id": "c57e701b",
+      "bank_id": "e011ab00",
+      "text": "Ah, teşekkürler de, sen kimdin tekrar?"
+    },
+    {
+      "id": "c57e701c",
+      "bank_id": "e011ab00",
+      "text": "Bu da ne için? Bana asılıyor musun falan mı?"
+    },
+    {
+      "id": "c57e701d",
+      "bank_id": "e011ab00",
+      "text": "Şu karalamayı bana ne diye veriyorsun?"
+    },
+    {
+      "id": "c7078728",
+      "bank_id": "e011ab00",
+      "text": "Vay canına! Teşekkürler!"
+    },
+    {
+      "id": "c7078729",
+      "bank_id": "e011ab00",
+      "text": "Senin gibi ünlü birinin benim gibi küçük birini düşünebileceğine inanamıyorum!"
+    },
+    {
+      "id": "c707872a",
+      "bank_id": "e011ab00",
+      "text": "Vay canına! Teşekkürler!"
+    },
+    {
+      "id": "c707872c",
+      "bank_id": "e011ab00",
+      "text": "Ne kadar da şanlı bir hediye verici. Teşekkür ederim!"
+    },
+    {
+      "id": "c707872d",
+      "bank_id": "e011ab00",
+      "text": "Bu çok beklenmedik bir şey oldu büyüklüğünüz. Teşekkürler!"
+    },
+    {
+      "id": "c707872e",
+      "bank_id": "e011ab00",
+      "text": "Vay canına! Teşekkürler!"
+    },
+    {
+      "id": "c707872f",
+      "bank_id": "e011ab00",
+      "text": "Bana mı?! Teşekkürler!"
+    },
+    {
+      "id": "c9656868",
+      "bank_id": "e011ab00",
+      "text": "Vay canına, nereden bildin? En sevdiğim şey!"
+    },
+    {
+      "id": "c9656869",
+      "bank_id": "e011ab00",
+      "text": "İnanılmaz bir hediye bu. Teşekkür ederim!"
+    },
+    {
+      "id": "c965686b",
+      "bank_id": "e011ab00",
+      "text": "En sevdiğim şeylerden biri. Çok düşüncelisin."
+    },
+    {
+      "id": "c965686c",
+      "bank_id": "e011ab00",
+      "text": "Daha önce hiç kimse bana böyle bir lütufta bulunmamıştı."
+    },
+    {
+      "id": "c965686d",
+      "bank_id": "e011ab00",
+      "text": "Kesinlikle harika bir hediye. Şükranlarımı sunarım!"
+    },
+    {
+      "id": "c965686e",
+      "bank_id": "e011ab00",
+      "text": "Günüme neşe kattın doğrusu. Hayatımda aldığım en güzel hediye."
+    },
+    {
+      "id": "c965686f",
+      "bank_id": "e011ab00",
+      "text": "Birinci sınıf bir hediye. Eyvallah!"
+    },
+    {
+      "id": "ca7e7839",
+      "bank_id": "e011ab00",
+      "text": "Kimsenin adını duymadığı biriyken bunun pek bir kıymeti yok açıkçası."
+    },
+    {
+      "id": "ca7e783a",
+      "bank_id": "e011ab00",
+      "text": "Şey, bunu neden isteyeyim ki? Adını bile duymadım."
+    },
+    {
+      "id": "ca7e783b",
+      "bank_id": "e011ab00",
+      "text": "Ünlüymüş gibi davranmaya mı çalışıyorsun?"
+    },
+    {
+      "id": "ca7e783c",
+      "bank_id": "e011ab00",
+      "text": "Kimi kandırıyorsun sen? Sıradan bir hiçsin."
+    },
+    {
+      "id": "ca7e783d",
+      "bank_id": "e011ab00",
+      "text": "Üstüne yazıldığı kâğıdın masrafına bile değmez bu."
+    },
+    {
+      "id": "dd72bb80",
+      "bank_id": "e011ab00",
+      "text": "Çok iyi!"
+    },
+    {
+      "id": "dd72bb81",
+      "bank_id": "e011ab00",
+      "text": "Hey, teşekkürler!"
+    },
+    {
+      "id": "dd72bb82",
+      "bank_id": "e011ab00",
+      "text": "Çok minnettarım. Teşekkür ederim."
+    },
+    {
+      "id": "dd72bb83",
+      "bank_id": "e011ab00",
+      "text": "Çok güzel bu. Çok teşekkür ederim."
+    },
+    {
+      "id": "dd72bb84",
+      "bank_id": "e011ab00",
+      "text": "Ah, teşekkürler, çok naziksin."
+    },
+    {
+      "id": "dd72bb86",
+      "bank_id": "e011ab00",
+      "text": "Hey, teşekkürler!"
+    },
+    {
+      "id": "dd72bb87",
+      "bank_id": "e011ab00",
+      "text": "Bu harika bir şey, teşekkürler!"
+    },
+    {
+      "id": "e272c3a0",
+      "bank_id": "e011ab00",
+      "text": "Harika bir şey bu!"
+    },
+    {
+      "id": "e272c3a1",
+      "bank_id": "e011ab00",
+      "text": "Hoşuma gitti! Bak sen şu işe."
+    },
+    {
+      "id": "e272c3a2",
+      "bank_id": "e011ab00",
+      "text": "Ah, ne kadar fevkalade!"
+    },
+    {
+      "id": "e272c3a3",
+      "bank_id": "e011ab00",
+      "text": "Tek kelimeyle harika. Çok teşekkürler."
+    },
+    {
+      "id": "e272c3a5",
+      "bank_id": "e011ab00",
+      "text": "Mükemmel, çok naziksiniz."
+    },
+    {
+      "id": "e272c3a6",
+      "bank_id": "e011ab00",
+      "text": "Teşekkür ederim. Tam da istediğim şey."
+    },
+    {
+      "id": "e272c3a7",
+      "bank_id": "e011ab00",
+      "text": "Çok güzel, eyvallah!"
+    },
+    {
+      "id": "e4d7744e",
+      "bank_id": "e011ab00",
+      "text": "Vay canına, bu hayatımdaki en güzel şey!"
+    },
+    {
+      "id": "edd7829b",
+      "bank_id": "e011ab00",
+      "text": "Ayy, ne kadar muhteşem bir hediye."
+    },
+    {
+      "id": "ee78a0b7",
+      "bank_id": "e011ab00",
+      "text": "Evet, harika. Adı sanı duyulmamış birinden bir imza."
+    },
+    {
+      "id": "f578abba",
+      "bank_id": "e011ab00",
+      "text": "Ah, ne güzel. Ama sen kimsin?"
+    },
+    {
+      "id": "f9ceed90",
+      "bank_id": "e011ab00",
+      "text": "Çok teşekkür ederim!"
+    },
+    {
+      "id": "f9ceed91",
+      "bank_id": "e011ab00",
+      "text": "Çok hoş, teşekkürler."
+    },
+    {
+      "id": "f9ceed93",
+      "bank_id": "e011ab00",
+      "text": "Vay canına, bayıldım buna!"
+    },
+    {
+      "id": "f9ceed94",
+      "bank_id": "e011ab00",
+      "text": "Ne kadar ilahi."
+    },
+    {
+      "id": "f9ceed95",
+      "bank_id": "e011ab00",
+      "text": "Beni şımartıyorsun!"
+    },
+    {
+      "id": "f9ceed96",
+      "bank_id": "e011ab00",
+      "text": "Ooh, hiç fena değilmiş hani!"
+    },
+    {
+      "id": "f9ceed97",
+      "bank_id": "e011ab00",
+      "text": "Bak işte bunu sevdim."
+    }
+  ]
+}

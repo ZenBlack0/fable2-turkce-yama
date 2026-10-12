@@ -1,0 +1,841 @@
+{
+  "bank_id": "e0f19600",
+  "total_strings": 167,
+  "strings": [
+    {
+      "id": "00b7e159",
+      "bank_id": "e0f19600",
+      "text": "Bilgi"
+    },
+    {
+      "id": "00c99006",
+      "bank_id": "e0f19600",
+      "text": "At"
+    },
+    {
+      "id": "048994a6",
+      "bank_id": "e0f19600",
+      "text": "Satış İndirimi"
+    },
+    {
+      "id": "06a5e310",
+      "bank_id": "e0f19600",
+      "text": "Komik"
+    },
+    {
+      "id": "07b50c24",
+      "bank_id": "e0f19600",
+      "text": "Boyayı uygulayın."
+    },
+    {
+      "id": "0911c0d7",
+      "bank_id": "e0f19600",
+      "text": "Soyuldunuz."
+    },
+    {
+      "id": "0a8a4e97",
+      "bank_id": "e0f19600",
+      "text": "Orta"
+    },
+    {
+      "id": "11dc53a6",
+      "bank_id": "e0f19600",
+      "text": "Kilit Taşı oynamak ister misiniz?"
+    },
+    {
+      "id": "12366256",
+      "bank_id": "e0f19600",
+      "text": "Hediye Ver"
+    },
+    {
+      "id": "124337a9",
+      "bank_id": "e0f19600",
+      "text": "%1 eşyasını %2 kişisine vermek ister misiniz?"
+    },
+    {
+      "id": "14bc3d5c",
+      "bank_id": "e0f19600",
+      "text": "Zayıf"
+    },
+    {
+      "id": "1953e626",
+      "bank_id": "e0f19600",
+      "text": "Tekmele"
+    },
+    {
+      "id": "1b939cb5",
+      "bank_id": "e0f19600",
+      "text": "Mekân:"
+    },
+    {
+      "id": "1ca661dc",
+      "bank_id": "e0f19600",
+      "text": "Vücut Dövmesini Çıkar"
+    },
+    {
+      "id": "1cfe9b12",
+      "bank_id": "e0f19600",
+      "text": "Metni buraya yerleştirin..."
+    },
+    {
+      "id": "1da6324b",
+      "bank_id": "e0f19600",
+      "text": "İyi"
+    },
+    {
+      "id": "1ec061b0",
+      "bank_id": "e0f19600",
+      "text": "Mükemmel dövüş! %1% Bonus Deneyim"
+    },
+    {
+      "id": "2221f087",
+      "bank_id": "e0f19600",
+      "text": "Yüz Kıllarını Kes"
+    },
+    {
+      "id": "22c781c7",
+      "bank_id": "e0f19600",
+      "text": "%1 eşyası %2 kişisine verilsin mi?"
+    },
+    {
+      "id": "234e4c60",
+      "bank_id": "e0f19600",
+      "text": "Sorgu"
+    },
+    {
+      "id": "272b6a42",
+      "bank_id": "e0f19600",
+      "text": "Kilit Taşı'nın bir türü olan Bloodstone oyununu oynamak ister misiniz? Bloodstone'da kurallar terstir: Kazanmak istiyorsanız kaybetmek üzerine oynayın!"
+    },
+    {
+      "id": "27c06f9b",
+      "bank_id": "e0f19600",
+      "text": "Sağlam dövüş. %1% Bonus Deneyim"
+    },
+    {
+      "id": "2a7d3539",
+      "bank_id": "e0f19600",
+      "text": "Tamam"
+    },
+    {
+      "id": "2b028ee4",
+      "bank_id": "e0f19600",
+      "text": "%1 oyuncu profilinin saklandığı cihaz çıkarıldı veya yeterli boş alana sahip değil. Başarımları ya da dil ve altyazı dahil belirli ayarları kaydedemeyebilirsiniz."
+    },
+    {
+      "id": "2bc075c7",
+      "bank_id": "e0f19600",
+      "text": "İyi dövüş. %1% Bonus Deneyim"
+    },
+    {
+      "id": "2c8e84d3",
+      "bank_id": "e0f19600",
+      "text": "Kuşan"
+    },
+    {
+      "id": "2cefadeb",
+      "bank_id": "e0f19600",
+      "text": "Olağanüstü dövüş! %1% Bonus Deneyim"
+    },
+    {
+      "id": "318fa1a5",
+      "bank_id": "e0f19600",
+      "text": "Fiyatı Etkileyen Faktörler"
+    },
+    {
+      "id": "3385c234",
+      "bank_id": "e0f19600",
+      "text": "Çevir"
+    },
+    {
+      "id": "33f21c05",
+      "bank_id": "e0f19600",
+      "text": "%s kişisine ne kadar altın vermek istersiniz?"
+    },
+    {
+      "id": "346fdbb0",
+      "bank_id": "e0f19600",
+      "text": "Bilgi"
+    },
+    {
+      "id": "361a4a81",
+      "bank_id": "e0f19600",
+      "text": "Çirkin"
+    },
+    {
+      "id": "37b3df9d",
+      "bank_id": "e0f19600",
+      "text": "Kayıt cihazı çıkarıldı!"
+    },
+    {
+      "id": "37cdcbb8",
+      "bank_id": "e0f19600",
+      "text": "Dükkân Sahibi İndirimi"
+    },
+    {
+      "id": "382095df",
+      "bank_id": "e0f19600",
+      "text": "Harika dövüş! %1% Bonus Deneyim"
+    },
+    {
+      "id": "3a0c9182",
+      "bank_id": "e0f19600",
+      "text": "Çıkılsın mı?"
+    },
+    {
+      "id": "3bcac62e",
+      "bank_id": "e0f19600",
+      "text": "."
+    },
+    {
+      "id": "3bdd6628",
+      "bank_id": "e0f19600",
+      "text": "Etkin oyuncu profili değiştirildi."
+    },
+    {
+      "id": "3ddac41e",
+      "bank_id": "e0f19600",
+      "text": "Çok Yüksek"
+    },
+    {
+      "id": "40aa84e2",
+      "bank_id": "e0f19600",
+      "text": "Saygı"
+    },
+    {
+      "id": "455bc496",
+      "bank_id": "e0f19600",
+      "text": "%1 satın alındı."
+    },
+    {
+      "id": "458959cb",
+      "bank_id": "e0f19600",
+      "text": "Hediye yerine ulaşmadı."
+    },
+    {
+      "id": "45ceb4d5",
+      "bank_id": "e0f19600",
+      "text": "Ne kadar altın vermek istersiniz?\n(Maks: %1)"
+    },
+    {
+      "id": "46f37f52",
+      "bank_id": "e0f19600",
+      "text": "Yükleme başarısız. Yalnızca Bölüm 1'de oluşturulan kayıtlı oyunları yükleyebilirsiniz."
+    },
+    {
+      "id": "49404357",
+      "bank_id": "e0f19600",
+      "text": "Kayıtlı oyun yüklenemiyor. Bu kayıt farklı indirilebilir içeriklerle oluşturulmuş."
+    },
+    {
+      "id": "4da480bb",
+      "bank_id": "e0f19600",
+      "text": "Altın:"
+    },
+    {
+      "id": "4f271ab1",
+      "bank_id": "e0f19600",
+      "text": "Çirkin"
+    },
+    {
+      "id": "527d0fbb",
+      "bank_id": "e0f19600",
+      "text": "Buraya bir açıklama yerleştirin..."
+    },
+    {
+      "id": "5604205f",
+      "bank_id": "e0f19600",
+      "text": "Devam Et"
+    },
+    {
+      "id": "5640b577",
+      "bank_id": "e0f19600",
+      "text": "Artık gücünüzün yettikleri:"
+    },
+    {
+      "id": "5697d4cc",
+      "bank_id": "e0f19600",
+      "text": "%1 Yükleniyor"
+    },
+    {
+      "id": "570d2fc9",
+      "bank_id": "e0f19600",
+      "text": "Diğer oyuncunun bağlantısı koptu"
+    },
+    {
+      "id": "5761febb",
+      "bank_id": "e0f19600",
+      "text": "Çekici"
+    },
+    {
+      "id": "59504adc",
+      "bank_id": "e0f19600",
+      "text": "Ün Puanı:"
+    },
+    {
+      "id": "59d863f3",
+      "bank_id": "e0f19600",
+      "text": "Yeni oyuncu profili oturum açtı"
+    },
+    {
+      "id": "5a191bd9",
+      "bank_id": "e0f19600",
+      "text": "Parıldayan İz Kapalı"
+    },
+    {
+      "id": "5b980bdb",
+      "bank_id": "e0f19600",
+      "text": "Fable II oynamıyor"
+    },
+    {
+      "id": "5c8dfd7e",
+      "bank_id": "e0f19600",
+      "text": "Görev"
+    },
+    {
+      "id": "61c5f66b",
+      "bank_id": "e0f19600",
+      "text": "Yalnızca yakınınızda duran ve hediye kabul etmeye istekli olan hedeflenmiş kişilere hediye verebilirsiniz."
+    },
+    {
+      "id": "64bf5b9c",
+      "bank_id": "e0f19600",
+      "text": "Bina:"
+    },
+    {
+      "id": "64c54337",
+      "bank_id": "e0f19600",
+      "text": "Kimsin sen?"
+    },
+    {
+      "id": "69125970",
+      "bank_id": "e0f19600",
+      "text": "Emin misiniz? Kayıtlı oyununuzun üzerine yazılacaktır."
+    },
+    {
+      "id": "69241ad8",
+      "bank_id": "e0f19600",
+      "text": "Bir hediye seçin:"
+    },
+    {
+      "id": "69e54226",
+      "bank_id": "e0f19600",
+      "text": "Kötü"
+    },
+    {
+      "id": "6a63029e",
+      "bank_id": "e0f19600",
+      "text": "Bağlan"
+    },
+    {
+      "id": "6c225a56",
+      "bank_id": "e0f19600",
+      "text": "Kötü"
+    },
+    {
+      "id": "70c18fd3",
+      "bank_id": "e0f19600",
+      "text": "Kilitli"
+    },
+    {
+      "id": "713b710d",
+      "bank_id": "e0f19600",
+      "text": "Şu anda bu alandan ayrılamazsınız."
+    },
+    {
+      "id": "76f14573",
+      "bank_id": "e0f19600",
+      "text": "Fable II sunucusu şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin."
+    },
+    {
+      "id": "779220d2",
+      "bank_id": "e0f19600",
+      "text": "Basılı Tut"
+    },
+    {
+      "id": "7b0308b1",
+      "bank_id": "e0f19600",
+      "text": "Uzatmak İçin Basılı Tut"
+    },
+    {
+      "id": "7c199bf9",
+      "bank_id": "e0f19600",
+      "text": "Yüz Dövmesini Çıkar"
+    },
+    {
+      "id": "811b97cc",
+      "bank_id": "e0f19600",
+      "text": "Düşük"
+    },
+    {
+      "id": "830dbe59",
+      "bank_id": "e0f19600",
+      "text": "Şişman"
+    },
+    {
+      "id": "83ba9849",
+      "bank_id": "e0f19600",
+      "text": "Kayıtlı oyun yüklenemiyor. Bu kayıt oyunun daha güncel bir sürümüyle oluşturulmuş."
+    },
+    {
+      "id": "83f3dbf1",
+      "bank_id": "e0f19600",
+      "text": "%1"
+    },
+    {
+      "id": "883f91c9",
+      "bank_id": "e0f19600",
+      "text": "Uzun"
+    },
+    {
+      "id": "8a1f878d",
+      "bank_id": "e0f19600",
+      "text": "\"%1\" mülkünüzü hedefiniz olarak belirlemek istiyor musunuz?"
+    },
+    {
+      "id": "8c108c32",
+      "bank_id": "e0f19600",
+      "text": "Kısa"
+    },
+    {
+      "id": "8c4159e1",
+      "bank_id": "e0f19600",
+      "text": "Makyajı Çıkar"
+    },
+    {
+      "id": "8c8b29a4",
+      "bank_id": "e0f19600",
+      "text": "Aşk"
+    },
+    {
+      "id": "8f7c2455",
+      "bank_id": "e0f19600",
+      "text": "Beğeni"
+    },
+    {
+      "id": "8f9140b3",
+      "bank_id": "e0f19600",
+      "text": "Etkin oyuncu profili oturumu kapattı."
+    },
+    {
+      "id": "90f3da2a",
+      "bank_id": "e0f19600",
+      "text": "Daha Fazla Bilgi"
+    },
+    {
+      "id": "91a46195",
+      "bank_id": "e0f19600",
+      "text": "Yardım"
+    },
+    {
+      "id": "91fead03",
+      "bank_id": "e0f19600",
+      "text": "Görevin açıklaması GDB Kaydından alınacak ve buraya yerleştirilecektir."
+    },
+    {
+      "id": "9378b494",
+      "bank_id": "e0f19600",
+      "text": "Yardım"
+    },
+    {
+      "id": "944138b2",
+      "bank_id": "e0f19600",
+      "text": "Köpeğiniz artık %1 yıldızlı bir hazine avcısı!"
+    },
+    {
+      "id": "9806326d",
+      "bank_id": "e0f19600",
+      "text": "Birine hediye vermek için önce onu hedeflemelisiniz."
+    },
+    {
+      "id": "9a4e7977",
+      "bank_id": "e0f19600",
+      "text": "Bağlantıyı sonlandır"
+    },
+    {
+      "id": "9bf8bf29",
+      "bank_id": "e0f19600",
+      "text": "Eksik indirilebilir içerik nedeniyle kayıt yüklenemiyor. %1 içeriğini indirmeniz gerekiyor."
+    },
+    {
+      "id": "9bf8bf2a",
+      "bank_id": "e0f19600",
+      "text": "Eksik indirilebilir içerik nedeniyle kayıt yüklenemiyor. %1 ve %2 içeriklerini indirmeniz gerekiyor."
+    },
+    {
+      "id": "9bf8bf2b",
+      "bank_id": "e0f19600",
+      "text": "Eksik indirilebilir içerik nedeniyle kayıt yüklenemiyor. %1, %2 ve %3 içeriklerini indirmeniz gerekiyor."
+    },
+    {
+      "id": "9cc1af66",
+      "bank_id": "e0f19600",
+      "text": "Şu anda hiçbir arkadaşınız Fable II oynamıyor."
+    },
+    {
+      "id": "9ce62ff9",
+      "bank_id": "e0f19600",
+      "text": "Tamamlandı"
+    },
+    {
+      "id": "9e9a37a7",
+      "bank_id": "e0f19600",
+      "text": "(Maksimum)"
+    },
+    {
+      "id": "9fac6e6f",
+      "bank_id": "e0f19600",
+      "text": "İçerik kaydediliyor. Lütfen konsolunuzu kapatmayın."
+    },
+    {
+      "id": "a2610888",
+      "bank_id": "e0f19600",
+      "text": "Bonus Deneyim Yok"
+    },
+    {
+      "id": "a2add3ba",
+      "bank_id": "e0f19600",
+      "text": "Uyarı: Hiçbir depolama cihazı seçilmedi. Oyununuzu kaydedemeyeceksiniz."
+    },
+    {
+      "id": "a391e9d4",
+      "bank_id": "e0f19600",
+      "text": "Oyundan Ayrıl"
+    },
+    {
+      "id": "a46611db",
+      "bank_id": "e0f19600",
+      "text": "Kayıtlı bir oyunu yüklemek için bir depolama cihazı seçmeniz gerekir."
+    },
+    {
+      "id": "a5660d10",
+      "bank_id": "e0f19600",
+      "text": "Mevcut boyayı yıkayıp çıkarın."
+    },
+    {
+      "id": "a73ee8a5",
+      "bank_id": "e0f19600",
+      "text": "Kayıtlı oyununuz yok."
+    },
+    {
+      "id": "a7cdd64e",
+      "bank_id": "e0f19600",
+      "text": "%1 kişisine ne kadar altın vermek istersiniz?"
+    },
+    {
+      "id": "a9e59e51",
+      "bank_id": "e0f19600",
+      "text": "Hoşlanmama"
+    },
+    {
+      "id": "aa85b2ab",
+      "bank_id": "e0f19600",
+      "text": "Tamam"
+    },
+    {
+      "id": "aadf85a1",
+      "bank_id": "e0f19600",
+      "text": "Güçlü"
+    },
+    {
+      "id": "ab85b43c",
+      "bank_id": "e0f19600",
+      "text": "Hayır"
+    },
+    {
+      "id": "ad0c6aba",
+      "bank_id": "e0f19600",
+      "text": "Oyuncu profiliniz artık kullanılamıyor."
+    },
+    {
+      "id": "adf893be",
+      "bank_id": "e0f19600",
+      "text": "Fable II fotoğraflarınızı yüklemek için lütfen Xbox LIVE® oturumu açın."
+    },
+    {
+      "id": "ae2ca0ec",
+      "bank_id": "e0f19600",
+      "text": "Seçilen depolama cihazı çıkarıldı! Oyununuzu kaydedemeyeceksiniz. Devam etmek istiyor musunuz?"
+    },
+    {
+      "id": "ae8d6b5e",
+      "bank_id": "e0f19600",
+      "text": ","
+    },
+    {
+      "id": "b5f5ae1f",
+      "bank_id": "e0f19600",
+      "text": "İndirilebilir İçerik"
+    },
+    {
+      "id": "b9e412e8",
+      "bank_id": "e0f19600",
+      "text": "Bölge:"
+    },
+    {
+      "id": "baa3c267",
+      "bank_id": "e0f19600",
+      "text": "Görevler"
+    },
+    {
+      "id": "baad0a39",
+      "bank_id": "e0f19600",
+      "text": "Kişisel İndirim"
+    },
+    {
+      "id": "bf2a2185",
+      "bank_id": "e0f19600",
+      "text": "Zayıf"
+    },
+    {
+      "id": "c01d0b6c",
+      "bank_id": "e0f19600",
+      "text": "Hediye edecek hiçbir eşyanız yok."
+    },
+    {
+      "id": "c26db03e",
+      "bank_id": "e0f19600",
+      "text": "Saygısızlık"
+    },
+    {
+      "id": "c36a8e58",
+      "bank_id": "e0f19600",
+      "text": "Kazı Noktası"
+    },
+    {
+      "id": "c44cff92",
+      "bank_id": "e0f19600",
+      "text": "Dövmeleri Çıkar"
+    },
+    {
+      "id": "c5250c82",
+      "bank_id": "e0f19600",
+      "text": "Korku"
+    },
+    {
+      "id": "c58c4c55",
+      "bank_id": "e0f19600",
+      "text": "Kabul etmek için basılı tutun"
+    },
+    {
+      "id": "c6ff973d",
+      "bank_id": "e0f19600",
+      "text": "%1 altın aldınız (%2 kişisinden)!"
+    },
+    {
+      "id": "c9aa61d0",
+      "bank_id": "e0f19600",
+      "text": "Uyarı. Seçili etkin oyuncu profili yok. Bu özelliğe erişmek için oturum açmalısınız."
+    },
+    {
+      "id": "c9e1bfae",
+      "bank_id": "e0f19600",
+      "text": "Seçtiğiniz görev konumuna seyahat etmeniz çok uzun sürdü!"
+    },
+    {
+      "id": "cad6a511",
+      "bank_id": "e0f19600",
+      "text": "Çarkıfelek Kutusu oynamak ister misiniz?"
+    },
+    {
+      "id": "ccf4c960",
+      "bank_id": "e0f19600",
+      "text": "Kayıtlı oyunlar doğrulanıyor. Lütfen bekleyin."
+    },
+    {
+      "id": "cd6375f2",
+      "bank_id": "e0f19600",
+      "text": "%1 sizden boşandı."
+    },
+    {
+      "id": "d03274ac",
+      "bank_id": "e0f19600",
+      "text": "Kabul Et"
+    },
+    {
+      "id": "d1c36f88",
+      "bank_id": "e0f19600",
+      "text": "Oyuncu profilinizin saklandığı cihaz çıkarıldı. Başarımları ya da dil ve altyazı dahil belirli ayarları kaydedemeyeceksiniz."
+    },
+    {
+      "id": "d21b1d6e",
+      "bank_id": "e0f19600",
+      "text": "Sakalını Kes"
+    },
+    {
+      "id": "d3cd12bf",
+      "bank_id": "e0f19600",
+      "text": "Hazine"
+    },
+    {
+      "id": "d54fb566",
+      "bank_id": "e0f19600",
+      "text": "%1 aldınız (%2 kişisinden)!"
+    },
+    {
+      "id": "d690cf3a",
+      "bank_id": "e0f19600",
+      "text": "Emin misiniz? Son kaydınızdan bu yana olan tüm ilerleme kaybolacak."
+    },
+    {
+      "id": "d6e00594",
+      "bank_id": "e0f19600",
+      "text": "Bu kayıtlı oyunu yüklemek için gereken bölüme sahip değilsiniz."
+    },
+    {
+      "id": "d7a1f9c5",
+      "bank_id": "e0f19600",
+      "text": "Bu depolama cihazında izin verilen maksimum kayıtlı oyun sayısına ulaştınız. Yeni bir oyun kaydetmek için mevcut bir kaydı silmeniz veya yeni bir depolama cihazı takmanız gerekir."
+    },
+    {
+      "id": "d9ee55c3",
+      "bank_id": "e0f19600",
+      "text": "Romantizm"
+    },
+    {
+      "id": "da1ecee1",
+      "bank_id": "e0f19600",
+      "text": "Talih Kulesi oynamak ister misiniz?"
+    },
+    {
+      "id": "db5d80ca",
+      "bank_id": "e0f19600",
+      "text": "Görünüm:"
+    },
+    {
+      "id": "dc3634c6",
+      "bank_id": "e0f19600",
+      "text": "Zayıf ağ bağlantısı. Oyun devam edemiyor."
+    },
+    {
+      "id": "dc7b0f11",
+      "bank_id": "e0f19600",
+      "text": "Ün"
+    },
+    {
+      "id": "dd345fec",
+      "bank_id": "e0f19600",
+      "text": "Bağış Yap"
+    },
+    {
+      "id": "de2ee1eb",
+      "bank_id": "e0f19600",
+      "text": "Köpeğiniz artık %1 yıldızlı bir dövüşçü!"
+    },
+    {
+      "id": "de36f3cd",
+      "bank_id": "e0f19600",
+      "text": "Yükleme başarısız. Bu kayıt güncel bir başlık güncellemesi bulunmayan kutulu bir Fable II sürümüne ait ve bölümlü bir oyuna yüklenemez."
+    },
+    {
+      "id": "e02055e8",
+      "bank_id": "e0f19600",
+      "text": "Kuşan ve Devam Et"
+    },
+    {
+      "id": "e0dc8746",
+      "bank_id": "e0f19600",
+      "text": "Hediye:"
+    },
+    {
+      "id": "e16fcb1b",
+      "bank_id": "e0f19600",
+      "text": "İyi"
+    },
+    {
+      "id": "e1711eeb",
+      "bank_id": "e0f19600",
+      "text": "Çekici"
+    },
+    {
+      "id": "e27413c2",
+      "bank_id": "e0f19600",
+      "text": "İfade:"
+    },
+    {
+      "id": "ea9ed9d1",
+      "bank_id": "e0f19600",
+      "text": "Bıyığı Kes"
+    },
+    {
+      "id": "ecffbe94",
+      "bank_id": "e0f19600",
+      "text": "İleri"
+    },
+    {
+      "id": "ed052e2d",
+      "bank_id": "e0f19600",
+      "text": "Yancınıza ne kadar altın vermek istersiniz?"
+    },
+    {
+      "id": "ef09651e",
+      "bank_id": "e0f19600",
+      "text": "Kayıt başarılı!"
+    },
+    {
+      "id": "efab284f",
+      "bank_id": "e0f19600",
+      "text": "Uyarı: Seçili etkin oyuncu profili yok. Üst menüden Yeni Oyun seçerken oturum açmadığınız sürece kayıt yapamazsınız."
+    },
+    {
+      "id": "efec3838",
+      "bank_id": "e0f19600",
+      "text": "%s eşyasını Yancınıza vermek ister misiniz?"
+    },
+    {
+      "id": "f0c6d76c",
+      "bank_id": "e0f19600",
+      "text": "Nefret"
+    },
+    {
+      "id": "f106360f",
+      "bank_id": "e0f19600",
+      "text": "Çıkılıyor"
+    },
+    {
+      "id": "f1894021",
+      "bank_id": "e0f19600",
+      "text": "Oku"
+    },
+    {
+      "id": "f28941ac",
+      "bank_id": "e0f19600",
+      "text": "Kira"
+    },
+    {
+      "id": "f588e39e",
+      "bank_id": "e0f19600",
+      "text": "."
+    },
+    {
+      "id": "f7abdf50",
+      "bank_id": "e0f19600",
+      "text": "Sonraki Yetenek<motif.img>\n<b>Gaddar Dövüş Tarzı 4:  Karşı Saldırılar</b>\nBir düşman tam size vurmak üzereyken, hamlesini karşılamak için <x_img> düğmesine dokunurken <left.img> çubuğunu onun yönüne çevirin. Düşmanın başı dönecek ve bitirici vuruş için sersemleyecektir!\n\n Kilidi Açılmış Yetenekler\n<b>Gaddar Dövüş Tarzı 3:  Zincirleme Saldırılar</b>\nVuruşlarınızı kusursuz zamanlayarak saldırıları birbirine bağlayabilir, onları hızlandırıp hasarlarını artırabilirsiniz. <x_img> düğmesine basmanız gereken tam zaman aralığını bildiren ince ipuçlarına dikkat edin.\nAyrıca, menzilli bir silahı doldururken, doldurma sesini duyduğunuz anda <y_img> düğmesine basarsanız anında doldurursunuz.\n\n <b> Gaddar Dövüş Tarzı 2:  Gösterişli Vuruşlar</b>\nGösterişli Vuruş için güç toplamak amacıyla <x_img> düğmesini basılı tutun. Bir titreşim hissettiğinizde, bir düşmanın bloğunu kıracak kadar güçlü bir darbe indirmek veya blok yapmayan düşmanları havaya fırlatmak için <x_img> düğmesini bırakın! Bu onları yere serecek ve köpeğiniz onlara saldırabilecektir.\nUyarı:  Gösterişli Vuruş için güç toplarken saldırıya uğrarsanız otomatik olarak blok yapar ve ardından tekrar güç toplamaya başlamak zorunda kalırsınız.\n\n <b>Gaddar Dövüş Tarzı 1:  Bloklama</b>\nHerhangi bir yönden gelen tüm saldırıları bloklamak için <x_img> düğmesini basılı tutun.  Bir adım geri çekilirsiniz ama güvende olursunuz."
+    },
+    {
+      "id": "f7abdf55",
+      "bank_id": "e0f19600",
+      "text": "<motif.img>\n<b>Gaddar Dövüş Tarzı 1: Bloklama\n</b>Herhangi bir yönden gelen tüm saldırıları bloklamak için <x_img> düğmesini basılı tutun.  Bir adım geri çekilirsiniz ama güvende olursunuz.\n\nGelecekteki Yetenekler:\n<bullet.img>Gaddar Dövüş Tarzı 2:  Gösterişli Vuruşlar\n<bullet.img>Gaddar Dövüş Tarzı 3:  Zincirleme Saldırılar\n<bullet.img>Gaddar Dövüş Tarzı 4:  Karşı Saldırılar"
+    },
+    {
+      "id": "f7abdf56",
+      "bank_id": "e0f19600",
+      "text": "Sonraki Yetenek<motif.img>\n<b>Gaddar Dövüş Tarzı 2:  Gösterişli Vuruşlar</b>\nGösterişli Vuruş için güç toplamak amacıyla <x_img>  düğmesini basılı tutun.  Bir titreşim hissettiğinizde, bir düşmanın bloğunu kıracak kadar güçlü bir darbe indirmek veya blok yapmayan düşmanları havaya fırlatmak için <x_img>  düğmesini bırakın! Bu onları yere serecek ve köpeğiniz onlara saldırabilecektir.\nUyarı:  Gösterişli Vuruş için güç toplarken saldırıya uğrarsanız otomatik olarak blok yapar ve ardından tekrar güç toplamaya başlamak zorunda kalırsınız.\n\nKilidi Açılmış Yetenekler\n<b>Gaddar Dövüş Tarzı 1:  Bloklama</b>\nHerhangi bir yönden gelen tüm saldırıları bloklamak için <x_img> düğmesini basılı tutun.  Bir adım geri çekilirsiniz ama güvende olursunuz.\n\nGelecekteki Yetenekler:\n<bullet.img>Gaddar Dövüş Tarzı 3: Zincirleme Saldırılar\n<bullet.img>Gaddar Dövüş Tarzı 4: Karşı Saldırılar"
+    },
+    {
+      "id": "f7abdf57",
+      "bank_id": "e0f19600",
+      "text": "Sonraki Yetenek<motif.img>\n<b>Gaddar Dövüş Tarzı 3:  Zincirleme Saldırılar</b>\nVuruşlarınızı kusursuz zamanlayarak saldırıları birbirine bağlayabilir, onları hızlandırıp hasarlarını artırabilirsiniz. <x_img> düğmesine basmanız gereken tam zaman aralığını bildiren ince ipuçlarına dikkat edin.\nAyrıca, menzilli bir silahı doldururken, doldurma sesini duyduğunuz anda <y_img> düğmesine basarsanız anında doldurursunuz.\n\nKilidi Açılmış Yetenekler\n<b>Gaddar Dövüş Tarzı 2: Gösterişli Vuruşlar</b>\nGösterişli Vuruş için güç toplamak amacıyla <x_img>  düğmesini basılı tutun.  Bir titreşim hissettiğinizde, bir düşmanın bloğunu kıracak kadar güçlü bir darbe indirmek veya blok yapmayan düşmanları havaya fırlatmak için <x_img>  düğmesini bırakın!  Bu onları yere serecek ve köpeğiniz onlara saldırabilecektir.\nUyarı:  Gösterişli Vuruş için güç toplarken saldırıya uğrarsanız otomatik olarak blok yapar ve ardından tekrar güç toplamaya başlamak zorunda kalırsınız.\n\n<b>Gaddar Dövüş Tarzı 1:  Bloklama</b>\nHerhangi bir yönden gelen tüm saldırıları bloklamak için <x_img> düğmesini basılı tutun.  Bir adım geri çekilirsiniz ama güvende olursunuz.\n\nGelecekteki Yetenekler:\n<bullet.img>Gaddar Dövüş Tarzı 4:  Karşı Saldırılar"
+    },
+    {
+      "id": "f995570c",
+      "bank_id": "e0f19600",
+      "text": "Ödül"
+    },
+    {
+      "id": "fcdc8c8a",
+      "bank_id": "e0f19600",
+      "text": "Yüksek"
+    }
+  ]
+}

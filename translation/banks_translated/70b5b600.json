@@ -1,0 +1,851 @@
+{
+  "bank_id": "70b5b600",
+  "total_strings": 169,
+  "strings": [
+    {
+      "id": "01523132",
+      "bank_id": "70b5b600",
+      "text": "Kalabalık daha fazlasını istiyor!"
+    },
+    {
+      "id": "02b7ef8b",
+      "bank_id": "70b5b600",
+      "text": "Bayanlar ve baylar, alkışlarınız kimin için geliyor..."
+    },
+    {
+      "id": "039b72d0",
+      "bank_id": "70b5b600",
+      "text": "Akıl almaz! Son raunda kadar dayandı!"
+    },
+    {
+      "id": "039b72db",
+      "bank_id": "70b5b600",
+      "text": "Akıl almaz! Son raunda kadar dayandı!"
+    },
+    {
+      "id": "05fab620",
+      "bank_id": "70b5b600",
+      "text": "Ah, beni gençlik yıllarıma götürdü bu. Bir haydut kalesinde ne güzel yıllar geçirmiştim."
+    },
+    {
+      "id": "06ecb1a1",
+      "bank_id": "70b5b600",
+      "text": "Herkes kazananları sever Kuduz. Özellikle de kaybedenler!"
+    },
+    {
+      "id": "07523a44",
+      "bank_id": "70b5b600",
+      "text": "Elbette. Yolculuklarında feci ve ıstırap dolu bir ölümle karşılaşmadığın sürece. Şimdilik hoşça kal!"
+    },
+    {
+      "id": "07b7f7aa",
+      "bank_id": "70b5b600",
+      "text": "İşte yine buradayız Kuduz, bir başka yarışmacı meydan okurken kan dökümünün ve şanın kapılarında bir kez daha dimdik ayaktayız... Karşınızda Çile!"
+    },
+    {
+      "id": "07fab906",
+      "bank_id": "70b5b600",
+      "text": "Sadece katliamı izleyelim, olur mu?"
+    },
+    {
+      "id": "08fabaf9",
+      "bank_id": "70b5b600",
+      "text": "O zamanlar sana Kuduz Enik mi derlerdi? <laughs> Hadi ama! Köpek? Enik? Yok mu? Aman, keyfin bilir..."
+    },
+    {
+      "id": "1091594b",
+      "bank_id": "70b5b600",
+      "text": "Vay canına, tam bir Çile efsanesine dönüşüyor bu! Yazık ki geriye sadece iki raundumuz kaldı!"
+    },
+    {
+      "id": "11484d4c",
+      "bank_id": "70b5b600",
+      "text": "Evet, bunu hakaret yapan da bu zaten seni aptal. Şimdi kapa çeneni!"
+    },
+    {
+      "id": "125ff3d8",
+      "bank_id": "70b5b600",
+      "text": "Hih hih!"
+    },
+    {
+      "id": "1315f450",
+      "bank_id": "70b5b600",
+      "text": "O neydi öyle? Yine kendi küçük dünyama dalıp gitmişim. Pek vahşi bir yerdir orası da..."
+    },
+    {
+      "id": "142d1835",
+      "bank_id": "70b5b600",
+      "text": "Harika! Geriye tam sekiz raunt kaldı!"
+    },
+    {
+      "id": "1715fa9c",
+      "bank_id": "70b5b600",
+      "text": "Ne kadar sürerse sürsün Kuduzcuğum, aslanım. Ne kadar sürerse sürsün."
+    },
+    {
+      "id": "175ffbf7",
+      "bank_id": "70b5b600",
+      "text": "Sanırım buradaki Çile'nin ahlaki incelikleriyle de pek ilgilenmiyorsun."
+    },
+    {
+      "id": "1815fc0f",
+      "bank_id": "70b5b600",
+      "text": "Neden bittikten sonra hep buralarda dolanıp dururlar ki?"
+    },
+    {
+      "id": "185ffd6a",
+      "bank_id": "70b5b600",
+      "text": "Ben tepeden tırnağa faydacıyım arkadaş. Tabii ki sonda güzel bir ödül verilse fena olmazdı ama izleyen yeterince insana zevk veriyorsa vahşice bir ölüm kabul edilebilir bir bedeldir."
+    },
+    {
+      "id": "1915fde2",
+      "bank_id": "70b5b600",
+      "text": "Ah, yaydığımız o çekici havadandır herhalde. Nükteli atışmalarımız. O buram buram erkek kokumuz."
+    },
+    {
+      "id": "195ffedd",
+      "bank_id": "70b5b600",
+      "text": "Her şey neticeye bakar, anladın mı. Amaca giden her yol mübahtır falan filan. Ve her şeyden önce... her şeyden önce... \"Bütün diyardaki en güzel peri kızıyım ben.\" Canın cehenneme Zachary!"
+    },
+    {
+      "id": "1a15ff55",
+      "bank_id": "70b5b600",
+      "text": "Valla ben başka bir şey söylemiyorum. Bacaklarım ağrımaya başladı."
+    },
+    {
+      "id": "1f50c538",
+      "bank_id": "70b5b600",
+      "text": "Siz ikiniz \"yakın\" mısınız bakayım? Ha ha!"
+    },
+    {
+      "id": "2150c81e",
+      "bank_id": "70b5b600",
+      "text": "Ah, nükte, zeka ve endam. Bu ikisinde olmayan bir şey var mı acaba?"
+    },
+    {
+      "id": "2250c9f1",
+      "bank_id": "70b5b600",
+      "text": "Evet, siz yak... O ne demek oluyor Ron?"
+    },
+    {
+      "id": "22a1fe28",
+      "bank_id": "70b5b600",
+      "text": "Savaş kokuyor, kan kokuyor, korku kokuyor."
+    },
+    {
+      "id": "2307b7b4",
+      "bank_id": "70b5b600",
+      "text": "Ne kaba herifler be."
+    },
+    {
+      "id": "23a1ff9b",
+      "bank_id": "70b5b600",
+      "text": "Ve bir tutam da vanilya."
+    },
+    {
+      "id": "24670850",
+      "bank_id": "70b5b600",
+      "text": "Evinize dönün! Sıcacık ve rahattır hem. Ha!"
+    },
+    {
+      "id": "2507ba9a",
+      "bank_id": "70b5b600",
+      "text": "Doğru söyledin oğlum."
+    },
+    {
+      "id": "256709c3",
+      "bank_id": "70b5b600",
+      "text": "Pek cilvelisiniz siz ikiniz de."
+    },
+    {
+      "id": "25a202e1",
+      "bank_id": "70b5b600",
+      "text": "Ah, bu arenadaki tarihin kokusunu alabiliyorsun."
+    },
+    {
+      "id": "25b4694c",
+      "bank_id": "70b5b600",
+      "text": "Daha ne kadar burada dikilip duracağız?"
+    },
+    {
+      "id": "2607bc0d",
+      "bank_id": "70b5b600",
+      "text": "Havlaması var ama ısırmaz."
+    },
+    {
+      "id": "26b46b3f",
+      "bank_id": "70b5b600",
+      "text": "Pek klas bir hareketti. Pek zevkliydi. Pek lezizdi."
+    },
+    {
+      "id": "27670d29",
+      "bank_id": "70b5b600",
+      "text": "Neden o sıcacık küçük evlerinize dönmüyorsunuz? Buraya ait değilsiniz."
+    },
+    {
+      "id": "29b46ff8",
+      "bank_id": "70b5b600",
+      "text": "Eee, bahsettiğim yeni raunt fikrini düşünecek misin yoksa düşünmeyecek misin?"
+    },
+    {
+      "id": "2ab4716b",
+      "bank_id": "70b5b600",
+      "text": "Aman saçmalama Kuduz. Ben sevilesi bir insanım. Herkes öyle söylüyor!"
+    },
+    {
+      "id": "2bb472de",
+      "bank_id": "70b5b600",
+      "text": "Ha, geçen yılki krema fıçılı ve kadın güreşçili raunt sanki öyle değil miydi?"
+    },
+    {
+      "id": "2cb474b1",
+      "bank_id": "70b5b600",
+      "text": "Hani şu peynirden silahları olan mı? Dedim ya aziz dostum, fazla ucuz numara o."
+    },
+    {
+      "id": "2db47624",
+      "bank_id": "70b5b600",
+      "text": "Neden hep öyle yapıyorsun?"
+    },
+    {
+      "id": "2fb4790a",
+      "bank_id": "70b5b600",
+      "text": "Öyle şeyler söyleyip durma! İnsanların canı sıkılıyor."
+    },
+    {
+      "id": "30b47afd",
+      "bank_id": "70b5b600",
+      "text": "Ne yapıyormuşum?"
+    },
+    {
+      "id": "315b1797",
+      "bank_id": "70b5b600",
+      "text": "Heh, heh. Çirkin Dağı."
+    },
+    {
+      "id": "325b190a",
+      "bank_id": "70b5b600",
+      "text": "Evet, hadi bakalım. Dene de görelim!"
+    },
+    {
+      "id": "335b1afd",
+      "bank_id": "70b5b600",
+      "text": "Sağır mısın nesin?"
+    },
+    {
+      "id": "3878260c",
+      "bank_id": "70b5b600",
+      "text": "Orada öylece dikilerek meşhur olamazsın. Tabii \"Hobbe Şarkısı\"nı söylerken kendini ateşe vermeyi planlamıyorsan."
+    },
+    {
+      "id": "3a782952",
+      "bank_id": "70b5b600",
+      "text": "Bağrışan kalabalıkların hiç tanınmayan birinin paramparça edilişini görmek istediğini mi sanıyorsun? Onlar ünlü kanı istiyor!"
+    },
+    {
+      "id": "3b782ac5",
+      "bank_id": "70b5b600",
+      "text": "Bir adın sanın olduğunda geri gel."
+    },
+    {
+      "id": "4249b3a3",
+      "bank_id": "70b5b600",
+      "text": "Bakalım yeni kız bunları nasıl karşılayacak!"
+    },
+    {
+      "id": "4249b3a8",
+      "bank_id": "70b5b600",
+      "text": "Bakalım yeni oğlan bunları nasıl karşılayacak!"
+    },
+    {
+      "id": "465bff18",
+      "bank_id": "70b5b600",
+      "text": "Evet, katliam sözü vermiştik ve verdiğimiz sözü tuttuk. Hem daha önümüzde yedi raunt var!"
+    },
+    {
+      "id": "48de1a68",
+      "bank_id": "70b5b600",
+      "text": "Kapa çeneni."
+    },
+    {
+      "id": "49de1bdb",
+      "bank_id": "70b5b600",
+      "text": "Ha, evet! Hani geçen gün senin yaptığın gibi, değil mi Ron?"
+    },
+    {
+      "id": "4ade1d4e",
+      "bank_id": "70b5b600",
+      "text": "Aman düşüp de bir yerini incitme sakın."
+    },
+    {
+      "id": "51b7313f",
+      "bank_id": "70b5b600",
+      "text": "İki avanak turistten başka bir şey değilsiniz, öyle değil mi?"
+    },
+    {
+      "id": "52b73292",
+      "bank_id": "70b5b600",
+      "text": "Evet, turistler avanaktır. Biz turist miyiz Ron?"
+    },
+    {
+      "id": "52f5ba27",
+      "bank_id": "70b5b600",
+      "text": "Ve işte yarışmacımız geliyor, deşip geçmeyi bekliyor!"
+    },
+    {
+      "id": "53b73405",
+      "bank_id": "70b5b600",
+      "text": "Hayır, sizler akademisyensiniz, apaçık ortada."
+    },
+    {
+      "id": "53fd8fe5",
+      "bank_id": "70b5b600",
+      "text": "Çile"
+    },
+    {
+      "id": "55940a54",
+      "bank_id": "70b5b600",
+      "text": "Çile'ye giriş hakkı kazanmak için %1 daha fazla ün kazanın."
+    },
+    {
+      "id": "6c9b4777",
+      "bank_id": "70b5b600",
+      "text": "Aslında bacaklarım yorulmaya başladı sanki Ron."
+    },
+    {
+      "id": "6d9b48ea",
+      "bank_id": "70b5b600",
+      "text": "Bütün gün peşinden gelebiliriz. Bizden asla kurtulamazsın."
+    },
+    {
+      "id": "7cbe40f0",
+      "bank_id": "70b5b600",
+      "text": "Yok ama biraz bana çekmişsen muhtemelen miden bulanacaktır."
+    },
+    {
+      "id": "7dbe4263",
+      "bank_id": "70b5b600",
+      "text": "N-neden? Ruhunu içine mi çekiyor?"
+    },
+    {
+      "id": "7ebe43d6",
+      "bank_id": "70b5b600",
+      "text": "Duvarlardan alevler fışkırırken seyret Kuduz ama uçuruma gözünü dikme. Ne yaparsan yap, sakın uçuruma bakma!"
+    },
+    {
+      "id": "830a7394",
+      "bank_id": "70b5b600",
+      "text": "Sağır mısın nesin sen?"
+    },
+    {
+      "id": "840a7507",
+      "bank_id": "70b5b600",
+      "text": "Ne, kendini sıkı mı sanıyorsun? Sıkıysa bir dene bakalım."
+    },
+    {
+      "id": "85031298",
+      "bank_id": "70b5b600",
+      "text": "Kimileri buna yüze atılmış bir tokat diyebilir."
+    },
+    {
+      "id": "850a76fa",
+      "bank_id": "70b5b600",
+      "text": "Sana ve Çirkin Dağı'na kaybolmanızı söylediğimi sanıyordum."
+    },
+    {
+      "id": "870a60a1",
+      "bank_id": "70b5b600",
+      "text": "Bol şans ahbap, umarım bir ara buralarda seni yine görürüz."
+    },
+    {
+      "id": "870a60aa",
+      "bank_id": "70b5b600",
+      "text": "Bol şans canım, umarım bir ara buralarda seni yine görürüz."
+    },
+    {
+      "id": "886287c9",
+      "bank_id": "70b5b600",
+      "text": "Kuduz'la konuşun."
+    },
+    {
+      "id": "886287ca",
+      "bank_id": "70b5b600",
+      "text": "Çile'ye girmek için yeterli ün kazanın."
+    },
+    {
+      "id": "886287cb",
+      "bank_id": "70b5b600",
+      "text": "Kuduz ve Murray'nin yanına dönün."
+    },
+    {
+      "id": "886287cc",
+      "bank_id": "70b5b600",
+      "text": "Çile'ye girin."
+    },
+    {
+      "id": "886287cd",
+      "bank_id": "70b5b600",
+      "text": "Çile'yi tamamlayın."
+    },
+    {
+      "id": "886287ce",
+      "bank_id": "70b5b600",
+      "text": "Hayranlarınız sizi bekliyor! Onları selamlamak için dışarı çıkın."
+    },
+    {
+      "id": "8ac3ee3a",
+      "bank_id": "70b5b600",
+      "text": "Nefis bir katliam daha! Ve önümüzde hâlâ beş raunt daha var!"
+    },
+    {
+      "id": "8b38cc3f",
+      "bank_id": "70b5b600",
+      "text": "Ve bundan zevk aldıysanız, kalan altı raundu görene kadar bekleyin!"
+    },
+    {
+      "id": "8b937c46",
+      "bank_id": "70b5b600",
+      "text": "Salata Kaçkını!"
+    },
+    {
+      "id": "8c937e39",
+      "bank_id": "70b5b600",
+      "text": "Korku Tellalı!"
+    },
+    {
+      "id": "919385d8",
+      "bank_id": "70b5b600",
+      "text": "Kraliçe!"
+    },
+    {
+      "id": "9293874b",
+      "bank_id": "70b5b600",
+      "text": "Sihirbaz!"
+    },
+    {
+      "id": "9393893e",
+      "bank_id": "70b5b600",
+      "text": "Kral!"
+    },
+    {
+      "id": "94938a91",
+      "bank_id": "70b5b600",
+      "text": "Ebedi Kıvrandırıcı Azabın Gölge İblisi!"
+    },
+    {
+      "id": "95938c04",
+      "bank_id": "70b5b600",
+      "text": "Şakacı!"
+    },
+    {
+      "id": "96938df7",
+      "bank_id": "70b5b600",
+      "text": "Lokum!"
+    },
+    {
+      "id": "97938f6a",
+      "bank_id": "70b5b600",
+      "text": "Dangalak!"
+    },
+    {
+      "id": "989390dd",
+      "bank_id": "70b5b600",
+      "text": "Belediye Başkanı!"
+    },
+    {
+      "id": "9895cfb4",
+      "bank_id": "70b5b600",
+      "text": "Kanun Kaçağı!"
+    },
+    {
+      "id": "9959fea1",
+      "bank_id": "70b5b600",
+      "text": "Aramızdaki erbabı bugün burada nasıl muazzam bir kıyım ziyafetine şahit olduğumuzu gayet iyi anlayacaktır. Üstelik önümüzde dört raunt daha var!"
+    },
+    {
+      "id": "9995d127",
+      "bank_id": "70b5b600",
+      "text": "Master Chief!"
+    },
+    {
+      "id": "9a95d29a",
+      "bank_id": "70b5b600",
+      "text": "Tavuk Kovalayan!"
+    },
+    {
+      "id": "9b95c4e1",
+      "bank_id": "70b5b600",
+      "text": "Pek hoşlarına gitmedi sanki."
+    },
+    {
+      "id": "9b95d40d",
+      "bank_id": "70b5b600",
+      "text": "Ödül Avcısı!"
+    },
+    {
+      "id": "a41a908c",
+      "bank_id": "70b5b600",
+      "text": "Buralara gelmemeliydin. Çorabını kaçırabilirsin bak."
+    },
+    {
+      "id": "aade3190",
+      "bank_id": "70b5b600",
+      "text": "Aynen. Yaşlanmak yerine kafayı çekelim."
+    },
+    {
+      "id": "adde3669",
+      "bank_id": "70b5b600",
+      "text": "Hadi be! Baydı artık bu iş. Gidip kafayı çekelim en iyisi."
+    },
+    {
+      "id": "b5429d13",
+      "bank_id": "70b5b600",
+      "text": "Vay vay, şu ikisine bir bakın hele."
+    },
+    {
+      "id": "b6429e86",
+      "bank_id": "70b5b600",
+      "text": "Yolunu mu kaybettin küçük kız?"
+    },
+    {
+      "id": "ba42a532",
+      "bank_id": "70b5b600",
+      "text": "Vay be, evcil trolüne konuşmayı öğretmişsin!"
+    },
+    {
+      "id": "bae1a30c",
+      "bank_id": "70b5b600",
+      "text": "Heh, heh."
+    },
+    {
+      "id": "bdf1e043",
+      "bank_id": "70b5b600",
+      "text": "Ah, burası bendeki o eski romantiği uyandırıyor. Bataklıklar, sis, kurumuş ağaçlar..."
+    },
+    {
+      "id": "bef1e236",
+      "bank_id": "70b5b600",
+      "text": "Hiç evlenmedin değil mi Murray?"
+    },
+    {
+      "id": "bff1e3a9",
+      "bank_id": "70b5b600",
+      "text": "Önce ölmeyi yeğlerim aziz dostum. Ve ölümden bahsetmişken, sanırım aşağıdaki sularda bir şeylerin kıpırdandığını görüyorum..."
+    },
+    {
+      "id": "c01a3d24",
+      "bank_id": "70b5b600",
+      "text": "Çıldırıyorlar!"
+    },
+    {
+      "id": "c06fca34",
+      "bank_id": "70b5b600",
+      "text": "Vay canına sayın seyirciler! Biri yere koca bir çukur açmış!"
+    },
+    {
+      "id": "c26fcd1a",
+      "bank_id": "70b5b600",
+      "text": "Aa evet, hakikaten öyle."
+    },
+    {
+      "id": "c36fce8d",
+      "bank_id": "70b5b600",
+      "text": "O, Acımasız Ecelin Karanlık Çukuru olsa gerek Murray."
+    },
+    {
+      "id": "c4c22910",
+      "bank_id": "70b5b600",
+      "text": "Çile'ye giriş hakkı kazanmak için %1 daha fazla ün kazanın."
+    },
+    {
+      "id": "c70ec443",
+      "bank_id": "70b5b600",
+      "text": "Çile seni bekliyor. Ve pek de sabırlı sayılmaz."
+    },
+    {
+      "id": "c7236a0c",
+      "bank_id": "70b5b600",
+      "text": "Ayy, bebeklerini mi kaybetmişler? Zavallı bebekler."
+    },
+    {
+      "id": "c83b807c",
+      "bank_id": "70b5b600",
+      "text": "Durun bir dakika, galiba bu işin beynini bulduk."
+    },
+    {
+      "id": "ca236ec5",
+      "bank_id": "70b5b600",
+      "text": "Ne oldu, kayıp mı oldunuz minik bebekler?"
+    },
+    {
+      "id": "d055451b",
+      "bank_id": "70b5b600",
+      "text": "Bize niye hiç bisküvi kalmıyor?"
+    },
+    {
+      "id": "d155468e",
+      "bank_id": "70b5b600",
+      "text": "Zamanında buralarda bir sürü çöp insan gördüm ama siz ikiniz hepsini geçtiniz."
+    },
+    {
+      "id": "d19ae201",
+      "bank_id": "70b5b600",
+      "text": "Çile... başlasın!"
+    },
+    {
+      "id": "d31c5a08",
+      "bank_id": "70b5b600",
+      "text": "Bence o bir herif Ron."
+    },
+    {
+      "id": "df242267",
+      "bank_id": "70b5b600",
+      "text": "Oda 8"
+    },
+    {
+      "id": "df242268",
+      "bank_id": "70b5b600",
+      "text": "Oda 7"
+    },
+    {
+      "id": "df242269",
+      "bank_id": "70b5b600",
+      "text": "Oda 6"
+    },
+    {
+      "id": "df24226a",
+      "bank_id": "70b5b600",
+      "text": "Oda 5"
+    },
+    {
+      "id": "df24226b",
+      "bank_id": "70b5b600",
+      "text": "Oda 4"
+    },
+    {
+      "id": "df24226c",
+      "bank_id": "70b5b600",
+      "text": "Oda 3"
+    },
+    {
+      "id": "df24226d",
+      "bank_id": "70b5b600",
+      "text": "Oda 2"
+    },
+    {
+      "id": "df24226e",
+      "bank_id": "70b5b600",
+      "text": "Oda 1"
+    },
+    {
+      "id": "e0f10c20",
+      "bank_id": "70b5b600",
+      "text": "Aynen! Çorabın."
+    },
+    {
+      "id": "e723cda0",
+      "bank_id": "70b5b600",
+      "text": "Burada bakacak bir şey yok. Çekip gitsen iyi edersin."
+    },
+    {
+      "id": "e823cf13",
+      "bank_id": "70b5b600",
+      "text": "Hâlâ burada mısın?"
+    },
+    {
+      "id": "e923d086",
+      "bank_id": "70b5b600",
+      "text": "Bizimle takılmaktan daha iyi işlerin olmalı."
+    },
+    {
+      "id": "ec23d55f",
+      "bank_id": "70b5b600",
+      "text": "Şimdi kutlama yapıyor olman gerekmez miydi?"
+    },
+    {
+      "id": "ec43a510",
+      "bank_id": "70b5b600",
+      "text": "Silahşor!"
+    },
+    {
+      "id": "ec99db8f",
+      "bank_id": "70b5b600",
+      "text": "İnanılmaz! Akıl almaz! Akıl sır ermez boyutlarda, insanüstü olağanüstü bir başarı! Eşi benzeri görülmemiş diyebilir kimileri, eğer daha önce benzerinin görüldüğünü bilmeselerdi!"
+    },
+    {
+      "id": "ed23d732",
+      "bank_id": "70b5b600",
+      "text": "Seni bekleyen pek çok macera olduğuna eminim. Üstelik korkunç, kanlı maceralar."
+    },
+    {
+      "id": "ed43a683",
+      "bank_id": "70b5b600",
+      "text": "Kılıç!"
+    },
+    {
+      "id": "ee23d8a5",
+      "bank_id": "70b5b600",
+      "text": "O zaman güle güle."
+    },
+    {
+      "id": "eee4c044",
+      "bank_id": "70b5b600",
+      "text": "Bütün yenilen yarışmacıların sonu burası mı oluyor?"
+    },
+    {
+      "id": "efe4c237",
+      "bank_id": "70b5b600",
+      "text": "Aman canım, ne münasebet! Onların hepsini arkadaki büyük bir çukura boşaltıyoruz. Ama bizim yarışmacımız nereye gidecek dersiniz? Görelim bakalım!"
+    },
+    {
+      "id": "f086b5e6",
+      "bank_id": "70b5b600",
+      "text": "Mümkün olan en çok insan için en büyük fayda. Önemli olan tek şey bu. Bir de güzel bir parça et."
+    },
+    {
+      "id": "f1e4c51d",
+      "bank_id": "70b5b600",
+      "text": "Bu mezarlıkta pek çok seçkin insan yatıyor, biliyorsun değil mi."
+    },
+    {
+      "id": "f3009ddc",
+      "bank_id": "70b5b600",
+      "text": "Çekicimle senin kafanı kullanacağımız bir oyun fikrim var."
+    },
+    {
+      "id": "f4009f4f",
+      "bank_id": "70b5b600",
+      "text": "Aynen. Hadi ufak bir oyun oynayalım."
+    },
+    {
+      "id": "f500a122",
+      "bank_id": "70b5b600",
+      "text": "Hadi ama. Bizimle oynayacak biraz vaktin vardır herhalde, ha?"
+    },
+    {
+      "id": "f52f0ac4",
+      "bank_id": "70b5b600",
+      "text": "Buralarda asla hayatta kalamazsınız, biliyorsun değil mi, sizin gibi iki çelimsiz."
+    },
+    {
+      "id": "f543b37b",
+      "bank_id": "70b5b600",
+      "text": "Aslan Yürekli!"
+    },
+    {
+      "id": "f5521b65",
+      "bank_id": "70b5b600",
+      "text": "Şahane! Umarız üç raunt daha dayanabilir!"
+    },
+    {
+      "id": "f5521b6e",
+      "bank_id": "70b5b600",
+      "text": "Şahane! Umarız üç raunt daha dayanabilir!"
+    },
+    {
+      "id": "f643b4ee",
+      "bank_id": "70b5b600",
+      "text": "Cellat!"
+    },
+    {
+      "id": "f72f0e2a",
+      "bank_id": "70b5b600",
+      "text": "La la la, dinlemiyorum ki."
+    },
+    {
+      "id": "f743b641",
+      "bank_id": "70b5b600",
+      "text": "Kasap!"
+    },
+    {
+      "id": "f74952d0",
+      "bank_id": "70b5b600",
+      "text": "Bak, yarışmak istiyorsan uzatma da gir, kapı orada işte."
+    },
+    {
+      "id": "f82f0f9d",
+      "bank_id": "70b5b600",
+      "text": "Aynen, sizin gibi iki çelimsiz."
+    },
+    {
+      "id": "f843b834",
+      "bank_id": "70b5b600",
+      "text": "Köpek Sever!"
+    },
+    {
+      "id": "f8495443",
+      "bank_id": "70b5b600",
+      "text": "Aman, içeriye tek seferde sadece tek bir yarışmacı alıyorlar zaten. Çıktığında görüşürüz. Bol şans."
+    },
+    {
+      "id": "f85e6bf0",
+      "bank_id": "70b5b600",
+      "text": "Yok ya. Yok yok... Oranın lafını etmek bile mideni bulandırıyor değil mi Ron?"
+    },
+    {
+      "id": "f943b9a7",
+      "bank_id": "70b5b600",
+      "text": "İntikamcı!"
+    },
+    {
+      "id": "f95e6d63",
+      "bank_id": "70b5b600",
+      "text": "Kapa çeneni, kapa çeneni, kapa çeneni."
+    },
+    {
+      "id": "fa43bb1a",
+      "bank_id": "70b5b600",
+      "text": "Seçilmiş Kişi!"
+    },
+    {
+      "id": "fa4957a9",
+      "bank_id": "70b5b600",
+      "text": "Sen de kimsin?"
+    },
+    {
+      "id": "fb43bc8d",
+      "bank_id": "70b5b600",
+      "text": "Zorba!"
+    },
+    {
+      "id": "fb5227a5",
+      "bank_id": "70b5b600",
+      "text": "Tebrikler! Yeni Çile şampiyonu için üç kere hurra!"
+    },
+    {
+      "id": "fb5e7049",
+      "bank_id": "70b5b600",
+      "text": "Sen... oraya girmiyorsun, değil mi?"
+    },
+    {
+      "id": "fbd9b493",
+      "bank_id": "70b5b600",
+      "text": "Neyin var neyin yok göstersene bize? Yoksa elinden hiçbir şey gelmiyor mu?"
+    },
+    {
+      "id": "fc522913",
+      "bank_id": "70b5b600",
+      "text": "Bu bambaşkaydı işte. Yıllardır gördüğüm en iyi Çile!"
+    },
+    {
+      "id": "fcd9b606",
+      "bank_id": "70b5b600",
+      "text": "Aynen, göster bize!"
+    },
+    {
+      "id": "fd522a86",
+      "bank_id": "70b5b600",
+      "text": "Her daim hatırlanacak klasik bir performans. Ya da en azından, hatırlayacak insanlar hayatta olduğu sürece."
+    },
+    {
+      "id": "fdd9b7f9",
+      "bank_id": "70b5b600",
+      "text": "Şu aptalları görmezden gelelim gitsin."
+    },
+    {
+      "id": "ffb7eb32",
+      "bank_id": "70b5b600",
+      "text": "Öf! Pis, pasaklı, iğrenç böcekler! Nefret ediyorum onlardan!"
+    }
+  ]
+}

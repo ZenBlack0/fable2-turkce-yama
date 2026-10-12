@@ -1,0 +1,631 @@
+{
+  "bank_id": "c0f45202",
+  "total_strings": 125,
+  "strings": [
+    {
+      "id": "014e7174",
+      "bank_id": "c0f45202",
+      "text": "Şu aptal sakalını ateşe vereceğim senin."
+    },
+    {
+      "id": "014e7176",
+      "bank_id": "c0f45202",
+      "text": "Bırak da şu sakalını tıraş edeyim. Yüzünü de beraberinde götürebilirim gerçi."
+    },
+    {
+      "id": "014e7177",
+      "bank_id": "c0f45202",
+      "text": "Neyin var senin? Tıraş olamayacak kadar tembel misin?"
+    },
+    {
+      "id": "0297c5d8",
+      "bank_id": "c0f45202",
+      "text": "Bower Gölü'nde senin gibilere ihtiyacımız yok."
+    },
+    {
+      "id": "0297c5db",
+      "bank_id": "c0f45202",
+      "text": "Bower Gölü sakin ve huzurlu bir yerdir. Bela çıkaranları sevmeyiz."
+    },
+    {
+      "id": "02e412c1",
+      "bank_id": "c0f45202",
+      "text": "Zavallı oğlun o karanlık mağarada ne zaman geleceksin diye ağlayıp durdu. Can verirken aklındaki son düşünce şuydu: 'Uslu bir çocuk olmadığım için mi gelmedi?'"
+    },
+    {
+      "id": "0385dd40",
+      "bank_id": "c0f45202",
+      "text": "Rookridge haydutlardan yeterince çekti zaten. Bir de sana ihtiyacımız yok."
+    },
+    {
+      "id": "0385dd43",
+      "bank_id": "c0f45202",
+      "text": "Sanırım geberip gideceğin yer burası olacak kanun kaçağı!"
+    },
+    {
+      "id": "07450de4",
+      "bank_id": "c0f45202",
+      "text": "Ha, buradan korkuyor musun? Korksan iyi edersin zaten."
+    },
+    {
+      "id": "07450de5",
+      "bank_id": "c0f45202",
+      "text": "Başka bir yerde dövüşemez miyiz? Burası biraz ürkütücü sanki."
+    },
+    {
+      "id": "07450de6",
+      "bank_id": "c0f45202",
+      "text": "Burası benim fena halde tüylerimi ürpertiyor valla."
+    },
+    {
+      "id": "202d8be6",
+      "bank_id": "c0f45202",
+      "text": "Soyumu katleden kişi sen misin? Hem de ne uğruna? Bloodstone denen açık lağım çukurunu kurtarmak için mi? <angry hiss>"
+    },
+    {
+      "id": "29eb9820",
+      "bank_id": "c0f45202",
+      "text": "Westcliff'e asla adım atmaman gerektiğini bilmeliydin."
+    },
+    {
+      "id": "29eb9821",
+      "bank_id": "c0f45202",
+      "text": "Westcliff'i senin kanına bulayacağım."
+    },
+    {
+      "id": "29eb9823",
+      "bank_id": "c0f45202",
+      "text": "Westcliff benim memleketimdir. Ve senin de mezarın olacak."
+    },
+    {
+      "id": "38cc8a17",
+      "bank_id": "c0f45202",
+      "text": "Sattığın kocanın şu an nerede olduğunu biliyor musun? Kor gibi bir çukurda bir kayaya zincirlenmiş... kan ağlıyor... ihanetinle içi paramparça olmuş."
+    },
+    {
+      "id": "3acadf3c",
+      "bank_id": "c0f45202",
+      "text": "Korktuğumdan değil ama burası hakikaten pek tekinsiz."
+    },
+    {
+      "id": "3acadf3d",
+      "bank_id": "c0f45202",
+      "text": "Yok, korkarım bu bir kâbus değil. Fazlasıyla sahici."
+    },
+    {
+      "id": "3acadf3f",
+      "bank_id": "c0f45202",
+      "text": "Fırsatını bulunca toz olalım buradan. Bayağı korkutucu bir yer."
+    },
+    {
+      "id": "3df544f0",
+      "bank_id": "c0f45202",
+      "text": "Bu sokaklarda beni atlatmaya kalkışma sakın."
+    },
+    {
+      "id": "3df544f2",
+      "bank_id": "c0f45202",
+      "text": "Ooo, bir arka sokak ha, seni gebertmek için ne mükemmel bir mekân."
+    },
+    {
+      "id": "3df544f3",
+      "bank_id": "c0f45202",
+      "text": "Şu pis kokulu Bowerstone sokaklarını kim yaptı acaba?"
+    },
+    {
+      "id": "43b3aab6",
+      "bank_id": "c0f45202",
+      "text": "Kızını kurtardın ama sana gerçekten minnettar mı sanıyorsun? Neden kaçtı sanıyorsun? Senden nefret ediyor, hayatının her saniyesinde senin ölümünü düşlüyor."
+    },
+    {
+      "id": "5120758d",
+      "bank_id": "c0f45202",
+      "text": "Ben burada, Bloodstone'da doğdum. Ve sen de burada geberip gideceksin."
+    },
+    {
+      "id": "5120758e",
+      "bank_id": "c0f45202",
+      "text": "Neşelen biraz. Bloodstone nalları dikmek için pek hoş bir yerdir."
+    },
+    {
+      "id": "5120758f",
+      "bank_id": "c0f45202",
+      "text": "Bloodstone'a son bir kez iyi bak, göreceğin son yer burası olacak çünkü."
+    },
+    {
+      "id": "531275c8",
+      "bank_id": "c0f45202",
+      "text": "Kolay kolay tırsmam ama burası içimi ürpertiyor valla."
+    },
+    {
+      "id": "531275ca",
+      "bank_id": "c0f45202",
+      "text": "Bu yerden hiç hoşlanmadım. O yüzden bu işi çabuk bitireceğim."
+    },
+    {
+      "id": "531275cb",
+      "bank_id": "c0f45202",
+      "text": "Burası beni fena halde geriyor."
+    },
+    {
+      "id": "560e52e4",
+      "bank_id": "c0f45202",
+      "text": "Dövüşmek için Gölgeler Tapınağı'nın hemen yanı başından daha âlâ bir yer mi olur?"
+    },
+    {
+      "id": "560e52e6",
+      "bank_id": "c0f45202",
+      "text": "O köprü artık benim!"
+    },
+    {
+      "id": "560e52e7",
+      "bank_id": "c0f45202",
+      "text": "Seni şu uçurumdan aşağı fırlatacağım."
+    },
+    {
+      "id": "5a2a056b",
+      "bank_id": "c0f45202",
+      "text": "Bütün o makyajınla pek süslü bir ceset olacaksın doğrusu."
+    },
+    {
+      "id": "5dc38824",
+      "bank_id": "c0f45202",
+      "text": "Ne kadar da kullanışlı değil mi? Aralarından seçebileceğin onca mezar."
+    },
+    {
+      "id": "5dc38825",
+      "bank_id": "c0f45202",
+      "text": "Buraya gömülmek nasıl bir his olurdu sence?"
+    },
+    {
+      "id": "5dc38826",
+      "bank_id": "c0f45202",
+      "text": "Buradaki mezarlıkta bir parselin var mı bari? Çünkü fena halde ihtiyacın olacak."
+    },
+    {
+      "id": "6175f93e",
+      "bank_id": "c0f45202",
+      "text": "Koca bir kasaba gölge tapıcılarının hevesi uğruna kılıçtan geçirildi... Bu gerçekten bir Kahramanın işi mi şimdi?"
+    },
+    {
+      "id": "6416c691",
+      "bank_id": "c0f45202",
+      "text": "Brightwood haydutlarındır ve hep öyle kalacak!"
+    },
+    {
+      "id": "6416c692",
+      "bank_id": "c0f45202",
+      "text": "Brightwood'dan asla sağ çıkamayacaksın."
+    },
+    {
+      "id": "6416c693",
+      "bank_id": "c0f45202",
+      "text": "Brightwood benimdir!"
+    },
+    {
+      "id": "6a61db70",
+      "bank_id": "c0f45202",
+      "text": "Brightwood'da senin gibi alçaklara yer yok."
+    },
+    {
+      "id": "6a61db73",
+      "bank_id": "c0f45202",
+      "text": "Brightwood'u senin gibi haydutlardan temizleyeceğim."
+    },
+    {
+      "id": "6a8d6d4c",
+      "bank_id": "c0f45202",
+      "text": "İnsanları zorla çalıştırmaya satmak ha, ne kadar da asil bir davranış..."
+    },
+    {
+      "id": "6ad9dc9c",
+      "bank_id": "c0f45202",
+      "text": "Güzel mağara, değil mi?"
+    },
+    {
+      "id": "6ad9dc9d",
+      "bank_id": "c0f45202",
+      "text": "Seni geberttikten sonra bu mağaraya ben yerleşebilirim belki."
+    },
+    {
+      "id": "6ad9dc9f",
+      "bank_id": "c0f45202",
+      "text": "Bu mağara senin mezarın olacak!"
+    },
+    {
+      "id": "6fff4e95",
+      "bank_id": "c0f45202",
+      "text": "Bowerstone'un bu köşesine kaos getiremeyeceksin."
+    },
+    {
+      "id": "6fff4e96",
+      "bank_id": "c0f45202",
+      "text": "Eski Şehir'in senin gibilere ihtiyacı yok!"
+    },
+    {
+      "id": "78a74c9a",
+      "bank_id": "c0f45202",
+      "text": "Küçük kızının hayaletinin o mağarada nasıl ağladığını duymuyor musun? Hâlâ çok korkuyor biliyor musun. Kendisini asla kurtarmayacak ebeveynini bekliyor hâlâ."
+    },
+    {
+      "id": "7a111db0",
+      "bank_id": "c0f45202",
+      "text": "Daha sonra kanını gölde yıkarım belki."
+    },
+    {
+      "id": "7a111db1",
+      "bank_id": "c0f45202",
+      "text": "Ah, bu temiz havada dövüşmek insana iyi geliyor. Bir gün emekli olup Bower Gölü'ne yerleşeceğim galiba."
+    },
+    {
+      "id": "7a111db2",
+      "bank_id": "c0f45202",
+      "text": "İşimiz bitince leşini göle fırlatırım belki."
+    },
+    {
+      "id": "825e6bc4",
+      "bank_id": "c0f45202",
+      "text": "Oğlunu kurtardın ama sana gerçekten minnettar mı sanıyorsun? Neden kaçtı sanıyorsun? Senden nefret ediyor, hayatının her saniyesinde senin ölümünü düşlüyor."
+    },
+    {
+      "id": "85f722dd",
+      "bank_id": "c0f45202",
+      "text": "Keşişler umut aşılamaktan ve muhtaçlara yardım etmekten başka hiçbir şey istememişti. Hepsini katletmek ne büyük bir cesaret gerektirmiş olmalı..."
+    },
+    {
+      "id": "8b6b3dbc",
+      "bank_id": "c0f45202",
+      "text": "Senin gibi suikastçılar, can almak için yaratılmış olan bizlerin işini doğaya aykırı biçimde yapıyor. Bu cüretinin cezasını ödeyeceksin."
+    },
+    {
+      "id": "901d14ad",
+      "bank_id": "c0f45202",
+      "text": "Senin gibi pislikleri Westcliff'ten uzak tutuyoruz artık!"
+    },
+    {
+      "id": "901d14ae",
+      "bank_id": "c0f45202",
+      "text": "Westcliff artık saygın bir yer. Senin gibi ayak takımına burada yer yok."
+    },
+    {
+      "id": "956530dc",
+      "bank_id": "c0f45202",
+      "text": "Bu kasabadaki bütün o aptal köylüler gibi sen de geberip gideceksin."
+    },
+    {
+      "id": "956530dd",
+      "bank_id": "c0f45202",
+      "text": "Bedenini buradaki köylülere gübre diye satacağım."
+    },
+    {
+      "id": "956530df",
+      "bank_id": "c0f45202",
+      "text": "Bir gün Oakfield'i alev alev yakacağım!"
+    },
+    {
+      "id": "9b38d118",
+      "bank_id": "c0f45202",
+      "text": "Brightwood'a hiç gelmemeliydin."
+    },
+    {
+      "id": "9b38d119",
+      "bank_id": "c0f45202",
+      "text": "Brightwood'dan sağ çıkmana izin verseydim pek haydut sayılmazdım, değil mi?"
+    },
+    {
+      "id": "9b38d11b",
+      "bank_id": "c0f45202",
+      "text": "Bir yerde öleceksen orası Brightwood olsun bari."
+    },
+    {
+      "id": "9c611594",
+      "bank_id": "c0f45202",
+      "text": "Wraithmarsh tek kelimeyle bir doğa harikası değil mi? Atalarım buralarda büyük işler başarmıştı biliyor musun."
+    },
+    {
+      "id": "9c611596",
+      "bank_id": "c0f45202",
+      "text": "Wraithmarsh'ta ölen ilk maceracı sen olmayacaksın."
+    },
+    {
+      "id": "9c611597",
+      "bank_id": "c0f45202",
+      "text": "Brrr. Ne işimiz var bizim Wraithmarsh'ta zaten? Bu gece kâbuslar göreceğim kesin."
+    },
+    {
+      "id": "a4a958a8",
+      "bank_id": "c0f45202",
+      "text": "Bu mağarada gömülü bir sürü kemik var. Seninkiler de onlara katılabilir."
+    },
+    {
+      "id": "a4a958aa",
+      "bank_id": "c0f45202",
+      "text": "Kusura bakma ama gün ışığını bir daha göremeyeceksin."
+    },
+    {
+      "id": "a4a958ab",
+      "bank_id": "c0f45202",
+      "text": "Bu mağarada öldürdüğüm ilk kişi sen olmayacaksın."
+    },
+    {
+      "id": "a5c5a062",
+      "bank_id": "c0f45202",
+      "text": "Küçük oğlunun hayaletinin o mağarada nasıl ağladığını duymuyor musun? Hâlâ çok korkuyor biliyor musun. Kendisini asla kurtarmayacak ebeveynini bekliyor hâlâ."
+    },
+    {
+      "id": "a771846b",
+      "bank_id": "c0f45202",
+      "text": "Yaptıklarınla Gölgeleri fena halde öfkelendirdin. Hiç beklemediğin bir anda seni yutacaklar."
+    },
+    {
+      "id": "b03ceb88",
+      "bank_id": "c0f45202",
+      "text": "Ne yaparsan yap üstüme oturma sakın! Yalvarırım sana! Ha ha!"
+    },
+    {
+      "id": "b03ceb89",
+      "bank_id": "c0f45202",
+      "text": "Hadi tombul, bacaklarını nasıl salladığını görelim bakalım!"
+    },
+    {
+      "id": "b03ceb8b",
+      "bank_id": "c0f45202",
+      "text": "Gel buraya şişko! Üstünden birkaç kilo et koparacağım senin."
+    },
+    {
+      "id": "b0d3652f",
+      "bank_id": "c0f45202",
+      "text": "Mezarcının kalbini kırdın. Tek istediği birini sevmekti. Ve sen onun tek mutluluk şansını çaldın. Hem de ne uğruna? Çürümüş bir gelin uğruna mı?"
+    },
+    {
+      "id": "b2db9bf3",
+      "bank_id": "c0f45202",
+      "text": "Sattığın karının şu an nerede olduğunu biliyor musun? Kor gibi bir çukurda bir kayaya zincirlenmiş... kan ağlıyor... ihanetinle içi paramparça olmuş."
+    },
+    {
+      "id": "b5d45c65",
+      "bank_id": "c0f45202",
+      "text": "Şu lanet mağaralardan nefret ediyorum. Ama sen benden çok nefret edeceksin."
+    },
+    {
+      "id": "b5d45c66",
+      "bank_id": "c0f45202",
+      "text": "Ölüm mağarasına hoş geldin!"
+    },
+    {
+      "id": "b5d45c67",
+      "bank_id": "c0f45202",
+      "text": "Şu nemli mağaraların canı cehenneme. Romatizmamı fena azdırıyor."
+    },
+    {
+      "id": "c00c9498",
+      "bank_id": "c0f45202",
+      "text": "Bu zindan bana büyüdüğüm yeri hatırlatıyor."
+    },
+    {
+      "id": "c00c9499",
+      "bank_id": "c0f45202",
+      "text": "Bu zindanda cesedini kimse bulamayacak."
+    },
+    {
+      "id": "c00c949a",
+      "bank_id": "c0f45202",
+      "text": "Gün ışığını bir daha asla göremeyeceksin sanırım."
+    },
+    {
+      "id": "c08a0ec8",
+      "bank_id": "c0f45202",
+      "text": "Seni parçalara ayırıp kasaba meydanında satarım belki."
+    },
+    {
+      "id": "c08a0ec9",
+      "bank_id": "c0f45202",
+      "text": "Bowerstone'u ateşe vereceğim, seni de onunla birlikte!"
+    },
+    {
+      "id": "c08a0eca",
+      "bank_id": "c0f45202",
+      "text": "Bowerstone'a baskın yapmayı hep istemişimdir!"
+    },
+    {
+      "id": "c0dfc160",
+      "bank_id": "c0f45202",
+      "text": "Yol Kesenler Loncası üyesi değilim ama yine de kellene konan ödülü alabilirim."
+    },
+    {
+      "id": "c0dfc161",
+      "bank_id": "c0f45202",
+      "text": "Seni gebertirsem başına konan ödülü kapabilirim belki."
+    },
+    {
+      "id": "c0dfc163",
+      "bank_id": "c0f45202",
+      "text": "Kafana bir ödül konduğunu duydum. Kendim toplasam fena olmaz hani. Yol Kesenler Loncası'nın ona ihtiyacı yok nasılsa."
+    },
+    {
+      "id": "c3ce99a9",
+      "bank_id": "c0f45202",
+      "text": "Oakfield senin gibiler olmadan da gayet iyi idare eder!"
+    },
+    {
+      "id": "c3ce99aa",
+      "bank_id": "c0f45202",
+      "text": "Oakfield huzurlu bir köydür ve ben de öyle kalmasını planlıyorum."
+    },
+    {
+      "id": "ca0ef6f1",
+      "bank_id": "c0f45202",
+      "text": "Ha ha, dur bir dakika! Şu aptal heykellerdeki kişi sensin!"
+    },
+    {
+      "id": "ca0ef6f2",
+      "bank_id": "c0f45202",
+      "text": "Bir yerlerde senin heykelini mi gördüm ben? Rezalet görünüyordu valla! Ha ha!"
+    },
+    {
+      "id": "ca0ef6f3",
+      "bank_id": "c0f45202",
+      "text": "Hey, şu rezil aptal heykeldeki kişi sensin! Ha ha!"
+    },
+    {
+      "id": "ca4eb550",
+      "bank_id": "c0f45202",
+      "text": "Bowerstone'da kimse kanunları çiğneyemez."
+    },
+    {
+      "id": "ca4eb553",
+      "bank_id": "c0f45202",
+      "text": "Bowerstone koruma altındadır!"
+    },
+    {
+      "id": "cb334039",
+      "bank_id": "c0f45202",
+      "text": "Bu zindandan asla sağ çıkamayacaksın."
+    },
+    {
+      "id": "cb33403a",
+      "bank_id": "c0f45202",
+      "text": "Geberip gideceğin yer bu zindandır işte."
+    },
+    {
+      "id": "cb33403b",
+      "bank_id": "c0f45202",
+      "text": "İnsan böyle bir yerde birine işkence ettiğini kolayca hayal edebiliyor, değil mi?"
+    },
+    {
+      "id": "cb78cb44",
+      "bank_id": "c0f45202",
+      "text": "Vay vay vay, heykellerdeki kibirli pozcu burada değil miymiş meğer."
+    },
+    {
+      "id": "cb78cb45",
+      "bank_id": "c0f45202",
+      "text": "Kendine amma aşıksın ha? Evet, senin o züppe heykelini gördüm."
+    },
+    {
+      "id": "cb78cb47",
+      "bank_id": "c0f45202",
+      "text": "Ooo, sağda solda heykellerini gördüm. Kendini çok özel sanıyorsun, değil mi?"
+    },
+    {
+      "id": "cf6581dc",
+      "bank_id": "c0f45202",
+      "text": "Fairfax halkı suça tahammül etmez. Onları memnun etmek de benim işim."
+    },
+    {
+      "id": "cf6581df",
+      "bank_id": "c0f45202",
+      "text": "Fairfax'ta ayak takımına yer yok!"
+    },
+    {
+      "id": "d1f9fa19",
+      "bank_id": "c0f45202",
+      "text": "Zavallı kızın o karanlık mağarada ne zaman geleceksin diye ağlayıp durdu. Can verirken aklındaki son düşünce şuydu: 'Uslu bir kız olmadığım için mi gelmedi?'"
+    },
+    {
+      "id": "d238aa7c",
+      "bank_id": "c0f45202",
+      "text": "Bir keresinde bu zindanda biraz işkence yapmıştım. Pek keyifliydi."
+    },
+    {
+      "id": "d238aa7e",
+      "bank_id": "c0f45202",
+      "text": "Zindanlara karşı her zaman zaafım olmuştur."
+    },
+    {
+      "id": "d238aa7f",
+      "bank_id": "c0f45202",
+      "text": "Pek şirin bir zindan burası."
+    },
+    {
+      "id": "d86acb45",
+      "bank_id": "c0f45202",
+      "text": "Binyıllardır hapsedilmiş olan soydaşlarımdan birini katlettin. Kaybolmuş ve korkmuştu. Ve sen ona daha fazla işkence ettin. Cezasını ödeyeceksin."
+    },
+    {
+      "id": "dbadb021",
+      "bank_id": "c0f45202",
+      "text": "Rookridge'de yeterince adam öldürdüm. Çok geçmeden kendini de o listeye ekleyebilirsin."
+    },
+    {
+      "id": "dbadb022",
+      "bank_id": "c0f45202",
+      "text": "Defol git Rookridge'den!"
+    },
+    {
+      "id": "dbadb023",
+      "bank_id": "c0f45202",
+      "text": "Seni Gölgeler Tapınağı'nda kurban edebilir miyim acaba..."
+    },
+    {
+      "id": "e77545e8",
+      "bank_id": "c0f45202",
+      "text": "Rookridge'deki halimden memnunum. Beni buradan kovamazsın."
+    },
+    {
+      "id": "e77545e9",
+      "bank_id": "c0f45202",
+      "text": "Rookridge'e ayak bastığına pişman olacaksın."
+    },
+    {
+      "id": "e77545eb",
+      "bank_id": "c0f45202",
+      "text": "Rookridge artık biz haydutlara ait!"
+    },
+    {
+      "id": "e99d5cc4",
+      "bank_id": "c0f45202",
+      "text": "Şu büyücü tiplerdensin sen de, değil mi."
+    },
+    {
+      "id": "e99d5cc6",
+      "bank_id": "c0f45202",
+      "text": "Rengin biraz solmuş gibi sanki."
+    },
+    {
+      "id": "e99d5cc7",
+      "bank_id": "c0f45202",
+      "text": "Kendine bir bak, insanlıktan çıkmışsın resmen, seni ucube İrade kullanıcısı seni."
+    },
+    {
+      "id": "ef77cf8c",
+      "bank_id": "c0f45202",
+      "text": "Kendinden utanmalısın! Mezarlıkta kavga çıkarmak da neyin nesi."
+    },
+    {
+      "id": "ef77cf8f",
+      "bank_id": "c0f45202",
+      "text": "Seni tam da bu mezarlığa gömebiliriz belki kanun kaçağı."
+    },
+    {
+      "id": "f12a4e2d",
+      "bank_id": "c0f45202",
+      "text": "Fairfax'ın temsil ettiği her şeyden nefret ediyorum. Ama senden nefret ettiğim kadar değil."
+    },
+    {
+      "id": "f12a4e2e",
+      "bank_id": "c0f45202",
+      "text": "Fairfax züppe domuzlarla dolu. Hepsini geberteceğim! Başta da seni."
+    },
+    {
+      "id": "f12a4e2f",
+      "bank_id": "c0f45202",
+      "text": "Seni geberttikten sonra sıra bu sosyete deliğindeki her zengin, şişko pisliğe gelecek."
+    },
+    {
+      "id": "f68556d4",
+      "bank_id": "c0f45202",
+      "text": "Bu ormanlar benim yuvam ve sen de bir davetsiz misafirsin!"
+    },
+    {
+      "id": "f68556d6",
+      "bank_id": "c0f45202",
+      "text": "Kimse bu ormanları haydutların elinden alamayacak!"
+    },
+    {
+      "id": "f68556d7",
+      "bank_id": "c0f45202",
+      "text": "Brightwood'a canlı bir fani olarak geldin ama buradan bir ceset olarak ayrılacaksın."
+    }
+  ]
+}

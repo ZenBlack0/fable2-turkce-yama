@@ -1,0 +1,571 @@
+{
+  "bank_id": "80b33602",
+  "total_strings": 113,
+  "strings": [
+    {
+      "id": "02be3114",
+      "bank_id": "80b33602",
+      "text": "Bunu nasıl yapabildin? Bir intihardan sen sorumlusun!"
+    },
+    {
+      "id": "02be3116",
+      "bank_id": "80b33602",
+      "text": "Alex'in yaptığının kötü olduğunu biliyorum ama bu kadarı da düpedüz gaddarlık."
+    },
+    {
+      "id": "02be3117",
+      "bank_id": "80b33602",
+      "text": "Birini ölüme atlatmaktan mutlu musun bari?"
+    },
+    {
+      "id": "072997d8",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Benim tatlı küçük kızım!"
+    },
+    {
+      "id": "072997d9",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Benim tatlı küçük kızım!"
+    },
+    {
+      "id": "072997dc",
+      "bank_id": "80b33602",
+      "text": "İ... İnanamıyorum, kızımızı kaybettik... Benim tatlı küçük kızım!"
+    },
+    {
+      "id": "072997de",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Benim tatlı küçük kızım!"
+    },
+    {
+      "id": "072997df",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Benim tatlı küçük kızım!"
+    },
+    {
+      "id": "07be3935",
+      "bank_id": "80b33602",
+      "text": "Böyle mi tatmin oluyorsun, kalp kırıp hayatları mahvederek mi?"
+    },
+    {
+      "id": "07be3936",
+      "bank_id": "80b33602",
+      "text": "Ne olacağını sanıyordun ki? Ne kadar duygusal olduğunu bilmeliydin."
+    },
+    {
+      "id": "07be3937",
+      "bank_id": "80b33602",
+      "text": "Senin yüzünden birinin intihar etmesini aklım almıyor doğrusu."
+    },
+    {
+      "id": "0e18c604",
+      "bank_id": "80b33602",
+      "text": "Devam etmek zorunda mıyız? Lütfen, çok korkuyorum."
+    },
+    {
+      "id": "0e18c605",
+      "bank_id": "80b33602",
+      "text": "Saunalara giden yol burası değil... Beni nereye götürüyorsun?"
+    },
+    {
+      "id": "0e18c606",
+      "bank_id": "80b33602",
+      "text": "Gerçekten burada olmak istemiyorum. Geri dönemez miyiz?"
+    },
+    {
+      "id": "0ec338f1",
+      "bank_id": "80b33602",
+      "text": "Tüm o saldırılardan sağ mı çıktın? Etkilendim doğrusu."
+    },
+    {
+      "id": "0ec338f3",
+      "bank_id": "80b33602",
+      "text": "Tüm o suikastçılardan sağ çıkabileceğini hiç sanmıyordum."
+    },
+    {
+      "id": "0ec338f5",
+      "bank_id": "80b33602",
+      "text": "Kendi başının çaresine bakmayı biliyorsun anlaşılan. O yolkesenler şimdi solucan yemi oldu."
+    },
+    {
+      "id": "19c34a22",
+      "bank_id": "80b33602",
+      "text": "Başına ödül koymuş olabilirler ama sen onlara hadlerini iyi bildirdin."
+    },
+    {
+      "id": "19c34a25",
+      "bank_id": "80b33602",
+      "text": "Kaç suikastçı öldürmek zorunda kaldın?"
+    },
+    {
+      "id": "1e53b281",
+      "bank_id": "80b33602",
+      "text": "Her ebeveynin en korkunç kâbusu. Ne korkunç bir darbe."
+    },
+    {
+      "id": "1e53b282",
+      "bank_id": "80b33602",
+      "text": "Kendi çocuğunu bile kurtaramadın mı? Pek de iyi bir dövüşçü sayılmazsın. Ebeveynliğin de beş para etmezmiş."
+    },
+    {
+      "id": "1e53b284",
+      "bank_id": "80b33602",
+      "text": "Çocuğunun haberini alınca hepimiz şoke olduk. Çok acı bir durum."
+    },
+    {
+      "id": "1e53b285",
+      "bank_id": "80b33602",
+      "text": "Çocuğunu kurtarmak için elinden geleni yaptığına eminim. Böyle şeyler yaşanabiliyor."
+    },
+    {
+      "id": "20f0202f",
+      "bank_id": "80b33602",
+      "text": "Şu maceracıyı duydun mu? Gitti o müzmin terk ediciyle evlendi."
+    },
+    {
+      "id": "21fd7fbf",
+      "bank_id": "80b33602",
+      "text": "Gölgelerin son kurbanlarımızdan hoşnut kaldığını umuyoruz. Bizi işitin, ey karanlık mahlukatlar!"
+    },
+    {
+      "id": "2553bd88",
+      "bank_id": "80b33602",
+      "text": "Çocuğun... İnanılır gibi değil. Elinden gelen her şeyi yaptığına eminim."
+    },
+    {
+      "id": "2553bd8a",
+      "bank_id": "80b33602",
+      "text": "Hepimiz, şey, çocuğunu kurtarırsın sanmıştık... Yani o kadar kahramansın ya hani..."
+    },
+    {
+      "id": "2553bd8d",
+      "bank_id": "80b33602",
+      "text": "Bir evladın kaybı tarif edilemez bir acıdır. Başın sağ olsun."
+    },
+    {
+      "id": "2553bd8e",
+      "bank_id": "80b33602",
+      "text": "Kendine kahraman maceracı mı diyorsun? Daha kendi kanını bile kurtaramıyorsun."
+    },
+    {
+      "id": "337ab2f1",
+      "bank_id": "80b33602",
+      "text": "Ne yaptın ne?! Kendi kocanı mı kurban ettin? Canavar!"
+    },
+    {
+      "id": "337ab2f2",
+      "bank_id": "80b33602",
+      "text": "Kendi kocanı Gölgeler Tapınağı'nda kurban mı ettin? Doğru olmadığını söyle!"
+    },
+    {
+      "id": "337ab2f3",
+      "bank_id": "80b33602",
+      "text": "Doğru olamaz, değil mi? Kocanı sahiden kurban mı ettin? Aman Tanrım!"
+    },
+    {
+      "id": "337ab2f4",
+      "bank_id": "80b33602",
+      "text": "Kendi kocanı Gölgeler Tapınağı'nda kurban mı ettin? Doğru olmadığını söyle!"
+    },
+    {
+      "id": "337ab2f5",
+      "bank_id": "80b33602",
+      "text": "Vay be, onu çarkta öyle döndürdüğüne göre o kocandan gerçekten nefret ediyor olmalısın."
+    },
+    {
+      "id": "337ab2f6",
+      "bank_id": "80b33602",
+      "text": "Kendi kocanı sahiden kurban mı ettin? Sanırım bu eşe eziyet sayılır."
+    },
+    {
+      "id": "337ab2f7",
+      "bank_id": "80b33602",
+      "text": "Kendi kocanı nasıl kurban edebilirsin?!"
+    },
+    {
+      "id": "3e7ac420",
+      "bank_id": "80b33602",
+      "text": "Kendi kocanı nasıl kurban edebilirsin?!"
+    },
+    {
+      "id": "3e7ac422",
+      "bank_id": "80b33602",
+      "text": "Doğru değil, değil mi? Kocan ve onu Gölgeler Tapınağı'nda kurban ettiğin meselesi? Olamaz."
+    },
+    {
+      "id": "3e7ac423",
+      "bank_id": "80b33602",
+      "text": "Kocan hakkında korkunç bir dedikodu duydum. Onu Gölgeler Tapınağı'nda kurban ettiğini söylüyorlar! Canavar."
+    },
+    {
+      "id": "3e7ac424",
+      "bank_id": "80b33602",
+      "text": "Kocanı cidden kurban ettin mi? Hiç affın yok, değil mi?"
+    },
+    {
+      "id": "3e7ac425",
+      "bank_id": "80b33602",
+      "text": "Sen ne melun bir insansın böyle. Kendi kocanı kurban etmek de ne!"
+    },
+    {
+      "id": "3e7ac426",
+      "bank_id": "80b33602",
+      "text": "Kocan hakkında korkunç bir dedikodu duydum. Onu Gölgeler Tapınağı'nda kurban ettiğini söylüyorlar! Canavar."
+    },
+    {
+      "id": "3e7ac427",
+      "bank_id": "80b33602",
+      "text": "Kocanı Gölgeler Tapınağı'na götürüp kurban olarak sunduğunu söylüyorlar. İnsan nasıl bu kadar taş kalpli olabilir?!"
+    },
+    {
+      "id": "3ecc5498",
+      "bank_id": "80b33602",
+      "text": "Başına ödül konmuş. Hakiki ölüsün sen artık."
+    },
+    {
+      "id": "3ecc549d",
+      "bank_id": "80b33602",
+      "text": "Gözünü dört açsan iyi edersin. O yolkesenler hedefini asla ıskalamaz."
+    },
+    {
+      "id": "3ecc549f",
+      "bank_id": "80b33602",
+      "text": "Birisi başına ödül koymuş. Ve bu işlerin sonu genelde tek bir şekilde biter."
+    },
+    {
+      "id": "3fa1ed01",
+      "bank_id": "80b33602",
+      "text": "Rookridge'deki hayaleti gördün mü? Nikâh masasında terk edilmiş, sonra da intihar etmiş..."
+    },
+    {
+      "id": "3fa1ed0a",
+      "bank_id": "80b33602",
+      "text": "Rookridge'deki hayaleti gördün mü? Nikâh masasında terk edilmiş, sonra da intihar etmiş..."
+    },
+    {
+      "id": "413a04a9",
+      "bank_id": "80b33602",
+      "text": "Kızını kurtarmalıydın. Aklın neredeydi senin?!"
+    },
+    {
+      "id": "413a04ae",
+      "bank_id": "80b33602",
+      "text": "Kızının başına gelenler korkunçtu. Gerçekten çok üzgünüm."
+    },
+    {
+      "id": "49cc65c8",
+      "bank_id": "80b33602",
+      "text": "Dikkatli olsan iyi edersin. Dışarıda birileri kesinlikle senin ölmeni istiyor."
+    },
+    {
+      "id": "49cc65cc",
+      "bank_id": "80b33602",
+      "text": "Peşine o suikastçıları kim takmış olabilir ki?"
+    },
+    {
+      "id": "49cc65ce",
+      "bank_id": "80b33602",
+      "text": "Ayağını denk alsan iyi olur. Duyduğuma göre bir grup yolkesene senin işini bitirmeleri için para ödenmiş."
+    },
+    {
+      "id": "49cc65cf",
+      "bank_id": "80b33602",
+      "text": "Doğru mu bu? Seni öldürmeye çalışan suikastçılar mı var?"
+    },
+    {
+      "id": "4c3a15d8",
+      "bank_id": "80b33602",
+      "text": "Kendi kızını bile kurtaramadın. Ne eziksin sen be."
+    },
+    {
+      "id": "4c3a15db",
+      "bank_id": "80b33602",
+      "text": "Kendi kızını kurtarmadığını mı söylüyorsun yani? Vah vah vah."
+    },
+    {
+      "id": "6094c260",
+      "bank_id": "80b33602",
+      "text": "Dün çarka enfes bir kurban götürdüm. Ama keratası biz varmadan elimden kaçıverdi."
+    },
+    {
+      "id": "735203f0",
+      "bank_id": "80b33602",
+      "text": "Kurbanlarımız senin acı ve ölüme olan ebedî açlığını doyursun."
+    },
+    {
+      "id": "7ab61110",
+      "bank_id": "80b33602",
+      "text": "Kızının trajedisini duyduğumda yüreğim parçalandı."
+    },
+    {
+      "id": "7ab61115",
+      "bank_id": "80b33602",
+      "text": "Bir kızı böyle kaybetmek ne korkunç bir darbedir. Başın sağ olsun."
+    },
+    {
+      "id": "7ab61117",
+      "bank_id": "80b33602",
+      "text": "Kızının başına gelenlere inanamıyorum. Çok trajik. Gerçekten çok üzgünüm."
+    },
+    {
+      "id": "7e1ead12",
+      "bank_id": "80b33602",
+      "text": "Gölgeler Tapınağı'nda insan kurban ediyorlar biliyor musun? Ne heyecan verici ama, değil mi?"
+    },
+    {
+      "id": "7e1ead14",
+      "bank_id": "80b33602",
+      "text": "Gölgeler Tapınağı'nda insanların yeniden kurban edildiği doğru mu dersin?"
+    },
+    {
+      "id": "7e1ead15",
+      "bank_id": "80b33602",
+      "text": "Korkunç bir şey bu. Gölgeler Tapınağı'nda insan kurban ediliyor!"
+    },
+    {
+      "id": "7e1ead17",
+      "bank_id": "80b33602",
+      "text": "Rookridge'de korkunç çığlıklar duyulmuş. Gölgeler Tapınağı'ndan geldiğini söylüyorlar."
+    },
+    {
+      "id": "81b61c18",
+      "bank_id": "80b33602",
+      "text": "Kızının başına gelenler korkunç. Düpedüz korkunç."
+    },
+    {
+      "id": "81b61c19",
+      "bank_id": "80b33602",
+      "text": "Kızının haberini alınca çok üzüldüm. Çok üzgünüm."
+    },
+    {
+      "id": "81b61c1c",
+      "bank_id": "80b33602",
+      "text": "Küçük kızının vefatı için çok üzgünüm."
+    },
+    {
+      "id": "851eb818",
+      "bank_id": "80b33602",
+      "text": "Rookridge tapınağında insanların korkunç şekillerde kurban edildiğini söylüyorlar."
+    },
+    {
+      "id": "851eb819",
+      "bank_id": "80b33602",
+      "text": "Gölgeler Tapınağı'ndaki o korkunç kurbanları duydun mu?"
+    },
+    {
+      "id": "851eb81a",
+      "bank_id": "80b33602",
+      "text": "Gölgeler Tapınağı'nda insan kurban edildiğini söylüyorlar."
+    },
+    {
+      "id": "851eb81f",
+      "bank_id": "80b33602",
+      "text": "Gölgeler Tapınağı'ndaki o korkunç kurbanları duydun mu?"
+    },
+    {
+      "id": "9e42711a",
+      "bank_id": "80b33602",
+      "text": "Rookridge gölüne dalarsan bir iskelet görürsün. Gece gidersen de hayaletini görürsün."
+    },
+    {
+      "id": "9e42711b",
+      "bank_id": "80b33602",
+      "text": "Rookridge'de tekinsiz küçük bir göl var derler."
+    },
+    {
+      "id": "a3427939",
+      "bank_id": "80b33602",
+      "text": "Bir hayaletin Rookridge kıyılarında dolaştığını söylerler."
+    },
+    {
+      "id": "a342793a",
+      "bank_id": "80b33602",
+      "text": "Terk edilmiş sevgilinin hayaletini duydun mu? Nikâh masasında yüzüstü bırakılmış, şimdi Rookridge'de dolaşıyormuş."
+    },
+    {
+      "id": "a342793b",
+      "bank_id": "80b33602",
+      "text": "Rookridge'deki o hayalet pek hüzünlü..."
+    },
+    {
+      "id": "acf68410",
+      "bank_id": "80b33602",
+      "text": "Kendi karını sahiden kurban mı ettin? Sanırım bu eşe eziyet sayılır."
+    },
+    {
+      "id": "acf68411",
+      "bank_id": "80b33602",
+      "text": "Kendi karını nasıl kurban edebilirsin?!"
+    },
+    {
+      "id": "acf68412",
+      "bank_id": "80b33602",
+      "text": "Kendi karını Gölgeler Tapınağı'nda kurban mı ettin? Doğru olmadığını söyle!"
+    },
+    {
+      "id": "acf68413",
+      "bank_id": "80b33602",
+      "text": "Vay be, onu çarkta öyle döndürdüğüne göre o karından gerçekten nefret ediyor olmalısın."
+    },
+    {
+      "id": "acf68414",
+      "bank_id": "80b33602",
+      "text": "Kendi karını Gölgeler Tapınağı'nda kurban mı ettin? Doğru olmadığını söyle!"
+    },
+    {
+      "id": "acf68415",
+      "bank_id": "80b33602",
+      "text": "Doğru olamaz, değil mi? Karını sahiden kurban mı ettin? Aman Tanrım!"
+    },
+    {
+      "id": "acf68417",
+      "bank_id": "80b33602",
+      "text": "Ne yaptın ne?! Kendi karını mı kurban ettin? Canavar!"
+    },
+    {
+      "id": "b3f68f18",
+      "bank_id": "80b33602",
+      "text": "Doğru değil, değil mi? Karın ve onu Gölgeler Tapınağı'nda kurban ettiğin meselesi? Olamaz."
+    },
+    {
+      "id": "b3f68f19",
+      "bank_id": "80b33602",
+      "text": "Karın hakkında korkunç bir dedikodu duydum. Onu Gölgeler Tapınağı'nda kurban ettiğini söylüyorlar! Canavar."
+    },
+    {
+      "id": "b3f68f1a",
+      "bank_id": "80b33602",
+      "text": "Kendi karını nasıl kurban edebilirsin?!"
+    },
+    {
+      "id": "b3f68f1c",
+      "bank_id": "80b33602",
+      "text": "Karın hakkında korkunç bir dedikodu duydum. Onu Gölgeler Tapınağı'nda kurban ettiğini söylüyorlar! Canavar."
+    },
+    {
+      "id": "b3f68f1d",
+      "bank_id": "80b33602",
+      "text": "Karını Gölgeler Tapınağı'na götürüp kurban olarak sunduğunu söylüyorlar. İnsan nasıl bu kadar taş kalpli olabilir?!"
+    },
+    {
+      "id": "b3f68f1e",
+      "bank_id": "80b33602",
+      "text": "Karını cidden kurban ettin mi? Hiç affın yok, değil mi?"
+    },
+    {
+      "id": "b3f68f1f",
+      "bank_id": "80b33602",
+      "text": "Sen ne melun bir insansın böyle. Kendi karını kurban etmek de ne!"
+    },
+    {
+      "id": "bdd90a4c",
+      "bank_id": "80b33602",
+      "text": "İnsan kurban ettikleri şu tapınağı duydun mu?"
+    },
+    {
+      "id": "d21456b1",
+      "bank_id": "80b33602",
+      "text": "Rookridge hayaletine dikkat et!"
+    },
+    {
+      "id": "d21456b2",
+      "bank_id": "80b33602",
+      "text": "Rookridge tekinsiz bir yer derler."
+    },
+    {
+      "id": "d21456b3",
+      "bank_id": "80b33602",
+      "text": "Gece vakti Rookridge'e gidersen bir hayalet görürsün. Doğru valla!"
+    },
+    {
+      "id": "dd1467e0",
+      "bank_id": "80b33602",
+      "text": "Geceleri beni Rookridge'de hayatta bulamazsın. Orada bir hayalet var!"
+    },
+    {
+      "id": "dd1467e2",
+      "bank_id": "80b33602",
+      "text": "Son zamanlarda Rookridge'e gittin mi? Geceleri orada bir hayalet varmış diye duydum."
+    },
+    {
+      "id": "dee32593",
+      "bank_id": "80b33602",
+      "text": "Tapınaktaki herkes olağanüstü kurban rekorundan bahsediyor. Epey bir ödül puanı kazanmış olmalısın!"
+    },
+    {
+      "id": "ecb067dd",
+      "bank_id": "80b33602",
+      "text": "Umarım sen ve Alex birlikte mutlu olursunuz. Hayatında yeterince acı çekti zaten."
+    },
+    {
+      "id": "ecb067de",
+      "bank_id": "80b33602",
+      "text": "Birinin intiharına sebep olan biriyle evlendiğine inanamıyorum."
+    },
+    {
+      "id": "ecb067df",
+      "bank_id": "80b33602",
+      "text": "Alex biraz neşeyi hak ediyor. Umarım ikiniz de çok mutlu olursunuz."
+    },
+    {
+      "id": "f7b0790c",
+      "bank_id": "80b33602",
+      "text": "Alex ile mutluluğu yakaladığını görmek ne güzel."
+    },
+    {
+      "id": "f7b0790e",
+      "bank_id": "80b33602",
+      "text": "Alex ikinci bir şansı hak etmişti. Doğru olanı yaptın."
+    },
+    {
+      "id": "f7b0790f",
+      "bank_id": "80b33602",
+      "text": "Değişiklik olsun diye Alex'i nihayet mutlu görmek güzel."
+    },
+    {
+      "id": "fc2986a8",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Zavallı yavrum! Benim tatlı küçük kızım! Ah!"
+    },
+    {
+      "id": "fc2986a9",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Zavallı yavrum! Benim tatlı küçük kızım! Ah!"
+    },
+    {
+      "id": "fc2986aa",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Zavallı yavrum! Benim tatlı küçük kızım! Ah!"
+    },
+    {
+      "id": "fc2986ab",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Zavallı yavrum! Benim tatlı küçük kızım! Ah!"
+    },
+    {
+      "id": "fc2986ad",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Zavallı yavrum! Benim tatlı küçük kızım! Ah!"
+    },
+    {
+      "id": "fc2986ae",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Zavallı yavrum! Benim tatlı küçük kızım! Ah!"
+    },
+    {
+      "id": "fc2986af",
+      "bank_id": "80b33602",
+      "text": "İ- İnanamıyorum, kızımızı kaybettik... Zavallı yavrum! Benim tatlı küçük kızım! Ah!"
+    },
+    {
+      "id": "fef13d10",
+      "bank_id": "80b33602",
+      "text": "Evet evet, iştah açmak için bir parça kurban gibisi yoktur, değil mi?"
+    },
+    {
+      "id": "fef13d11",
+      "bank_id": "80b33602",
+      "text": "İştah açmak için bir parça kurban gibisi yoktur, değil mi?"
+    }
+  ]
+}

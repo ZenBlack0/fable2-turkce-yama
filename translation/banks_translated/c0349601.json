@@ -1,0 +1,681 @@
+{
+  "bank_id": "c0349601",
+  "total_strings": 135,
+  "strings": [
+    {
+      "id": "009dc2a3",
+      "bank_id": "c0349601",
+      "text": "Onun gibisini buralarda görme ihtimalimiz ne kadardır ki? Resmen gerçek bir şöhret!"
+    },
+    {
+      "id": "009dc2a8",
+      "bank_id": "c0349601",
+      "text": "Onun gibisini buralarda görme ihtimalimiz ne kadardır ki? Resmen gerçek bir şöhret!"
+    },
+    {
+      "id": "0e863b02",
+      "bank_id": "c0349601",
+      "text": "Şu köpek onu her yerde adım adım takip ediyor."
+    },
+    {
+      "id": "0e863b09",
+      "bank_id": "c0349601",
+      "text": "Şu köpek onu her yerde adım adım takip ediyor."
+    },
+    {
+      "id": "10c75af7",
+      "bank_id": "c0349601",
+      "text": "Birkaç kavgaya karışmış gibi bir hali var."
+    },
+    {
+      "id": "10c75afc",
+      "bank_id": "c0349601",
+      "text": "Birkaç kavgaya karışmış gibi bir hali var."
+    },
+    {
+      "id": "12dec5b0",
+      "bank_id": "c0349601",
+      "text": "Ünü günden güne artıyor, biliyor musun?"
+    },
+    {
+      "id": "12dec5bb",
+      "bank_id": "c0349601",
+      "text": "Ünü günden güne artıyor, biliyor musun?"
+    },
+    {
+      "id": "174e9937",
+      "bank_id": "c0349601",
+      "text": "İyi birine benziyor."
+    },
+    {
+      "id": "174e993c",
+      "bank_id": "c0349601",
+      "text": "İyi birine benziyor."
+    },
+    {
+      "id": "2022abf4",
+      "bank_id": "c0349601",
+      "text": "Geçmişini saran gizemli bir hava var."
+    },
+    {
+      "id": "2022abff",
+      "bank_id": "c0349601",
+      "text": "İyiliğin ya da kötülüğün bir neferi olabilir. Gerçekten bilemiyorum."
+    },
+    {
+      "id": "26493485",
+      "bank_id": "c0349601",
+      "text": "Bu adam hakkında etrafta kesin birkaç dedikodu dönüyordur."
+    },
+    {
+      "id": "2649348e",
+      "bank_id": "c0349601",
+      "text": "Bu kadın hakkında etrafta kesin birkaç dedikodu dönüyordur."
+    },
+    {
+      "id": "33881aa7",
+      "bank_id": "c0349601",
+      "text": "Vay canına! Bu... Bu o! İnanılmaz bir şey bu!"
+    },
+    {
+      "id": "33881aac",
+      "bank_id": "c0349601",
+      "text": "Vay canına! Bu... Bu o! İnanılmaz bir şey bu!"
+    },
+    {
+      "id": "38fe7bc2",
+      "bank_id": "c0349601",
+      "text": "Öyle rüya gibi biri ki."
+    },
+    {
+      "id": "38fe7bc9",
+      "bank_id": "c0349601",
+      "text": "Öyle rüya gibi biri ki."
+    },
+    {
+      "id": "3a0f59e7",
+      "bank_id": "c0349601",
+      "text": "Buralarda pek ünlü birilerini göremezsin. En azından onun gibisini hiç."
+    },
+    {
+      "id": "3a0f59ec",
+      "bank_id": "c0349601",
+      "text": "Buralarda pek ünlü birilerini göremezsin. En azından onun gibisini hiç."
+    },
+    {
+      "id": "3e46f280",
+      "bank_id": "c0349601",
+      "text": "Ona çaresizce tutuldum."
+    },
+    {
+      "id": "3e46f28b",
+      "bank_id": "c0349601",
+      "text": "Ona bu kadar tutulduğuma hâlâ inanamıyorum."
+    },
+    {
+      "id": "4abc5a04",
+      "bank_id": "c0349601",
+      "text": "Çocukken onu kör bir kahin yanına almış derler. Ne tuhaf değil mi?"
+    },
+    {
+      "id": "4abc5a0f",
+      "bank_id": "c0349601",
+      "text": "Çocukken onu kör bir kahin yanına almış derler. Ne tuhaf değil mi?"
+    },
+    {
+      "id": "4aec1370",
+      "bank_id": "c0349601",
+      "text": "Bakın hele, son zamanlarda adını sıkça duyduğumuz şu maceracılardan biri."
+    },
+    {
+      "id": "4aec1372",
+      "bank_id": "c0349601",
+      "text": "Şunun hakkında epey şey duyuyorum."
+    },
+    {
+      "id": "4aec1373",
+      "bank_id": "c0349601",
+      "text": "Bayağı ünlenmeye başladı şu."
+    },
+    {
+      "id": "4aec1374",
+      "bank_id": "c0349601",
+      "text": "Dedikodular doğruysa basamakları hızla tırmanan biri bu."
+    },
+    {
+      "id": "4aec1375",
+      "bank_id": "c0349601",
+      "text": "Hey, şu gezginlerin bize durmadan anlattığı maceracı bu işte."
+    },
+    {
+      "id": "4aec1377",
+      "bank_id": "c0349601",
+      "text": "Şu maceracı hakkında epey şey duymaya başladım."
+    },
+    {
+      "id": "4aee1902",
+      "bank_id": "c0349601",
+      "text": "Başarıları çağlar boyunca dilden dile dolaşacak. Gelmiş geçmiş en olağanüstü kadınlardan biri."
+    },
+    {
+      "id": "4aee1909",
+      "bank_id": "c0349601",
+      "text": "Başarıları çağlar boyunca dilden dile dolaşacak. Gelmiş geçmiş en olağanüstü adamlardan biri."
+    },
+    {
+      "id": "5061a266",
+      "bank_id": "c0349601",
+      "text": "Nereli olduğunu bilen var mı?"
+    },
+    {
+      "id": "5061a26d",
+      "bank_id": "c0349601",
+      "text": "Nereli olduğunu bilen var mı?"
+    },
+    {
+      "id": "51ec1e78",
+      "bank_id": "c0349601",
+      "text": "Şu kişi epey tanınmaya başladı."
+    },
+    {
+      "id": "51ec1e79",
+      "bank_id": "c0349601",
+      "text": "Son zamanlarda ortalığı kasıp kavuran maceracı değil mi bu?"
+    },
+    {
+      "id": "51ec1e7a",
+      "bank_id": "c0349601",
+      "text": "Vay be, ünlü bir maceracının aramızda dolaştığına inanamıyorum."
+    },
+    {
+      "id": "51ec1e7d",
+      "bank_id": "c0349601",
+      "text": "Hepimize konuşacak çok şey verecek bir şampiyon geçiyor oradan. Yazın bir kenara bu lafımı."
+    },
+    {
+      "id": "51ec1e7e",
+      "bank_id": "c0349601",
+      "text": "Evet, adlarını duydum elbet. Ama bu sokaklarda dans etmeye başlayacağım anlamına gelmez, değil mi?"
+    },
+    {
+      "id": "51ec1e7f",
+      "bank_id": "c0349601",
+      "text": "Bayağı ünlenmeye başladı şu."
+    },
+    {
+      "id": "53df83c6",
+      "bank_id": "c0349601",
+      "text": "Artık ünlü olmaya başladığına göre benimle konuşur mu dersin?"
+    },
+    {
+      "id": "53df83cd",
+      "bank_id": "c0349601",
+      "text": "Artık ünlü olmaya başladığına göre bizimle konuşur mu dersin?"
+    },
+    {
+      "id": "5b17b141",
+      "bank_id": "c0349601",
+      "text": "Şimdilik biraz gizemli biri gibi görünüyor."
+    },
+    {
+      "id": "5b17b14a",
+      "bank_id": "c0349601",
+      "text": "Şimdilik biraz gizemli biri gibi görünüyor."
+    },
+    {
+      "id": "6316f713",
+      "bank_id": "c0349601",
+      "text": "Epey tanınmaya başladı."
+    },
+    {
+      "id": "6316f718",
+      "bank_id": "c0349601",
+      "text": "Epey tanınmaya başladı."
+    },
+    {
+      "id": "65a0e941",
+      "bank_id": "c0349601",
+      "text": "Onun hakkında henüz bir kanaat edinemedim."
+    },
+    {
+      "id": "65a0e94a",
+      "bank_id": "c0349601",
+      "text": "Onun hakkında henüz bir kanaat edinemedim."
+    },
+    {
+      "id": "691eca31",
+      "bank_id": "c0349601",
+      "text": "Evet, ünleniyor gerçi ama henüz ortalığı kasıp kavurmuş değil."
+    },
+    {
+      "id": "691eca3a",
+      "bank_id": "c0349601",
+      "text": "Evet, ünleniyor gerçi ama henüz ortalığı kasıp kavurmuş değil."
+    },
+    {
+      "id": "759ccb16",
+      "bank_id": "c0349601",
+      "text": "Olağanüstü! Onun gibi şanlı bir maceracıyı görmeye alışık olmadığımdan değil gerçi."
+    },
+    {
+      "id": "759ccb1d",
+      "bank_id": "c0349601",
+      "text": "Olağanüstü! Onun gibi şanlı bir maceracıyı görmeye alışık olmadığımdan değil gerçi."
+    },
+    {
+      "id": "78972fb5",
+      "bank_id": "c0349601",
+      "text": "Neden bilmem ama o kız içimi bir tuhaf ediyor."
+    },
+    {
+      "id": "78972fbe",
+      "bank_id": "c0349601",
+      "text": "Neden bilmem ama o çocuk içimi bir tuhaf ediyor."
+    },
+    {
+      "id": "88f42877",
+      "bank_id": "c0349601",
+      "text": "Anlayabildiğim kadarıyla kendine kesinlikle iyi bir nam salıyor."
+    },
+    {
+      "id": "88f4287c",
+      "bank_id": "c0349601",
+      "text": "Anlayabildiğim kadarıyla kendine kesinlikle iyi bir nam salıyor."
+    },
+    {
+      "id": "88ff79b1",
+      "bank_id": "c0349601",
+      "text": "Gerçekten burada olduğuna inanabiliyor musun? Biz sıradan insanların arasında?"
+    },
+    {
+      "id": "88ff79ba",
+      "bank_id": "c0349601",
+      "text": "Gerçekten burada olduğuna inanabiliyor musun? Biz sıradan insanların arasında?"
+    },
+    {
+      "id": "8d02c9f5",
+      "bank_id": "c0349601",
+      "text": "Bu çok heyecan verici! Herkes ondan bahsediyor... Ve o burada! Tam burada!"
+    },
+    {
+      "id": "8d02c9fe",
+      "bank_id": "c0349601",
+      "text": "Bu çok heyecan verici! Herkes ondan bahsediyor... Ve o burada! Tam burada!"
+    },
+    {
+      "id": "8f7b66b7",
+      "bank_id": "c0349601",
+      "text": "Sana diyom bak, atıldığı maceralardan bazılarını duydum. Bayağı etkileyici."
+    },
+    {
+      "id": "8f7b66bc",
+      "bank_id": "c0349601",
+      "text": "Sana diyom bak, atıldığı maceralardan bazılarını duydum. Bayağı etkileyici."
+    },
+    {
+      "id": "8f86b883",
+      "bank_id": "c0349601",
+      "text": "Sırada ne yapacak acaba? Ne olursa olsun handa kesin konuşulur."
+    },
+    {
+      "id": "8f86b888",
+      "bank_id": "c0349601",
+      "text": "Sırada ne yapacak acaba? Ne olursa olsun handa kesin konuşulur."
+    },
+    {
+      "id": "9ab1f830",
+      "bank_id": "c0349601",
+      "text": "Anlayabildiğim kadarıyla onun hakkında kimse pek bir şey bilmiyor."
+    },
+    {
+      "id": "9ab1f83b",
+      "bank_id": "c0349601",
+      "text": "Anlayabildiğim kadarıyla onun hakkında kimse pek bir şey bilmiyor."
+    },
+    {
+      "id": "9ecf3de7",
+      "bank_id": "c0349601",
+      "text": "Ah evet, kızlarla ikindi çayı içerken onun başarılarını duymuştum."
+    },
+    {
+      "id": "9ecf3dec",
+      "bank_id": "c0349601",
+      "text": "Ah evet, kızlarla ikindi çayı içerken onun başarılarını duymuştum."
+    },
+    {
+      "id": "a0657812",
+      "bank_id": "c0349601",
+      "text": "Bu anı hafızamda sonsuza dek saklayacağım. Şampiyonlar şampiyonunu gördüğüm o gün."
+    },
+    {
+      "id": "a0657819",
+      "bank_id": "c0349601",
+      "text": "Bu anı hafızamda sonsuza dek saklayacağım. Şampiyonlar şampiyonunu gördüğüm o gün."
+    },
+    {
+      "id": "a13ed1d0",
+      "bank_id": "c0349601",
+      "text": "Görevlere çıkmak için cesur bir insan olmak gerek sanırım."
+    },
+    {
+      "id": "a13ed1d1",
+      "bank_id": "c0349601",
+      "text": "Bugünlerde etrafta pek öyle maceracı görmüyorsun, değil mi?"
+    },
+    {
+      "id": "a13ed1d2",
+      "bank_id": "c0349601",
+      "text": "Şuradaki tam bir maceracı doğrusu."
+    },
+    {
+      "id": "a13ed1d6",
+      "bank_id": "c0349601",
+      "text": "Hâlâ dışarıda işlerini yapan maceracıların olmasına şükretmeliyiz sanırım."
+    },
+    {
+      "id": "a13ed1d7",
+      "bank_id": "c0349601",
+      "text": "Maceracılık zanaatını öğrenmek için nereye gidiliyor acaba?"
+    },
+    {
+      "id": "a3209a15",
+      "bank_id": "c0349601",
+      "text": "Girdiği yeri aydınlatıyor resmen, değil mi?"
+    },
+    {
+      "id": "a3209a1e",
+      "bank_id": "c0349601",
+      "text": "Girdiği yeri aydınlatıyor resmen, değil mi?"
+    },
+    {
+      "id": "a3a41868",
+      "bank_id": "c0349601",
+      "text": "Bu kadar ünlü birinin tam burada dikildiğine hâlâ inanamıyorum."
+    },
+    {
+      "id": "a3a41869",
+      "bank_id": "c0349601",
+      "text": "Şuna da bakın hele! Ağzım açık kaldı resmen. Daha önce bu kadar ünlüsünü hiç görmemiştim."
+    },
+    {
+      "id": "a3a4186a",
+      "bank_id": "c0349601",
+      "text": "Bu gerçekten tarihi bir an. Böylesine büyük bir üne sahip bir şahsiyetin aramızda yürümesi!"
+    },
+    {
+      "id": "a3a4186d",
+      "bank_id": "c0349601",
+      "text": "Çabuk, çocukları çağırın! Bunu kesinlikle görmek isteyecekler! Albion'un en büyük maceracısı!"
+    },
+    {
+      "id": "a3a4186e",
+      "bank_id": "c0349601",
+      "text": "Kahramanlar Loncası günlerinden beri bundan daha fazla ün salmış bir maceracı olmamıştır!"
+    },
+    {
+      "id": "a3a4186f",
+      "bank_id": "c0349601",
+      "text": "Aramızda bir şöhretin olması ne harika değil mi?"
+    },
+    {
+      "id": "a554e927",
+      "bank_id": "c0349601",
+      "text": "Son zamanlarda epey inanılmaz işler başardığını duydum."
+    },
+    {
+      "id": "a554e92c",
+      "bank_id": "c0349601",
+      "text": "Son zamanlarda epey inanılmaz işler başardığını duydum."
+    },
+    {
+      "id": "a8b911a0",
+      "bank_id": "c0349601",
+      "text": "Dik dik bakmak pek hoş değil ama basamakları hızla tırmandığına inanıyorum."
+    },
+    {
+      "id": "a8b911ab",
+      "bank_id": "c0349601",
+      "text": "Dik dik bakmak pek hoş değil ama basamakları hızla tırmandığına inanıyorum."
+    },
+    {
+      "id": "aa3ee03a",
+      "bank_id": "c0349601",
+      "text": "Ona henüz güvenip güvenemeyeceğimi bilmiyorum."
+    },
+    {
+      "id": "aa3ee03b",
+      "bank_id": "c0349601",
+      "text": "Çok fena birine benzemiyor ama şu maceracı hakkında gerçekten ne biliyoruz ki?"
+    },
+    {
+      "id": "aa3ee03c",
+      "bank_id": "c0349601",
+      "text": "Şu maceracı hakkında bir şeyler bilen var mı?"
+    },
+    {
+      "id": "aa3ee03d",
+      "bank_id": "c0349601",
+      "text": "Biliyor musun, bir zamanlar ben de tıpkı şunun gibi bir maceracı olacağımı sanırdım."
+    },
+    {
+      "id": "aa3ee03f",
+      "bank_id": "c0349601",
+      "text": "Şu maceracı hakkında henüz tam kararımı veremedim."
+    },
+    {
+      "id": "aea42998",
+      "bank_id": "c0349601",
+      "text": "Gözlerime inanamıyorum! Bakın kim gelmiş! Bakın!"
+    },
+    {
+      "id": "aea42999",
+      "bank_id": "c0349601",
+      "text": "İşte tam orada ünlü bir maceracı duruyor."
+    },
+    {
+      "id": "aea4299b",
+      "bank_id": "c0349601",
+      "text": "Ünlüleri görünce kolay kolay heyecanlanmam. Ama bakın kim gelmiş! Aman Tanrım!"
+    },
+    {
+      "id": "aea4299c",
+      "bank_id": "c0349601",
+      "text": "Ah, daha önce ünlü birine hiç bu kadar yakın olmamıştım!"
+    },
+    {
+      "id": "aea4299e",
+      "bank_id": "c0349601",
+      "text": "Onun kim olduğunu bilmeyen kimse kalmamıştır artık!"
+    },
+    {
+      "id": "aea4299f",
+      "bank_id": "c0349601",
+      "text": "Böylesi en fazla beş yüz yılda bir gelir!"
+    },
+    {
+      "id": "b78aa155",
+      "bank_id": "c0349601",
+      "text": "Adı tarih kitaplarında sonsuza dek yaşayacak. Ve biz de onu kendi gözlerimizle gördüğümüzü söyleyebileceğiz."
+    },
+    {
+      "id": "b78aa15e",
+      "bank_id": "c0349601",
+      "text": "Adı tarih kitaplarında sonsuza dek yaşayacak. Ve biz de onu kendi gözlerimizle gördüğümüzü söyleyebileceğiz."
+    },
+    {
+      "id": "b9acacb2",
+      "bank_id": "c0349601",
+      "text": "Aslen Bowerstone'lu olduğunu duydum."
+    },
+    {
+      "id": "b9acacb9",
+      "bank_id": "c0349601",
+      "text": "Aslen Bowerstone'lu olduğunu duydum."
+    },
+    {
+      "id": "c033ebf0",
+      "bank_id": "c0349601",
+      "text": "Bilmem. Maceracının teki işte. Tek bildiğim bu."
+    },
+    {
+      "id": "c033ebfb",
+      "bank_id": "c0349601",
+      "text": "Bilmem. Maceracının teki işte. Tek bildiğim bu."
+    },
+    {
+      "id": "c424ba84",
+      "bank_id": "c0349601",
+      "text": "Elimde değil, onu seviyorum. O öyle... Ne bileyim işte!"
+    },
+    {
+      "id": "c424ba8f",
+      "bank_id": "c0349601",
+      "text": "Elimde değil, onu seviyorum. O öyle... Ne bileyim işte!"
+    },
+    {
+      "id": "c435e4b4",
+      "bank_id": "c0349601",
+      "text": "Onun hakkında pek bir şey bilmiyorum."
+    },
+    {
+      "id": "c435e4bf",
+      "bank_id": "c0349601",
+      "text": "Onun hakkında pek bir şey bilmiyorum."
+    },
+    {
+      "id": "c539cf96",
+      "bank_id": "c0349601",
+      "text": "Maceracı demek ha?"
+    },
+    {
+      "id": "c539cf9d",
+      "bank_id": "c0349601",
+      "text": "Maceracı demek ha?"
+    },
+    {
+      "id": "c88e6fe6",
+      "bank_id": "c0349601",
+      "text": "Hey, son zamanlarda adını duyup durduğumuz şu maceracı değil mi o?"
+    },
+    {
+      "id": "c88e6fed",
+      "bank_id": "c0349601",
+      "text": "Hey, son zamanlarda adını duyup durduğumuz şu maceracı değil mi o?"
+    },
+    {
+      "id": "ca0d7b93",
+      "bank_id": "c0349601",
+      "text": "Muhakkak birilerinde bu herif hakkında bilgi vardır."
+    },
+    {
+      "id": "ca0d7b98",
+      "bank_id": "c0349601",
+      "text": "Duyduğum kadarıyla uygunsuz hiçbir şey yapmadı."
+    },
+    {
+      "id": "caabf9d4",
+      "bank_id": "c0349601",
+      "text": "Neden bilmiyorum ama onu her gördüğümde kalbim küt küt atıyor."
+    },
+    {
+      "id": "d3447ec1",
+      "bank_id": "c0349601",
+      "text": "Bunca maceraya atılan o kız değil mi bu? Duymuş olmalısın."
+    },
+    {
+      "id": "d3447eca",
+      "bank_id": "c0349601",
+      "text": "Neler çevirdiğini duydum elbet. Ama zirveye çıkmak için bundan fazlası gerekir."
+    },
+    {
+      "id": "d615ebc4",
+      "bank_id": "c0349601",
+      "text": "Gökyüzünde onun kadar parlak yanan tek bir yıldız bile yok."
+    },
+    {
+      "id": "d615ebcf",
+      "bank_id": "c0349601",
+      "text": "Gökyüzünde onun kadar parlak yanan tek bir yıldız bile yok."
+    },
+    {
+      "id": "dc9b9714",
+      "bank_id": "c0349601",
+      "text": "Bir efsane! O tam bir efsane!"
+    },
+    {
+      "id": "dc9b971f",
+      "bank_id": "c0349601",
+      "text": "Bir efsane! O tam bir efsane!"
+    },
+    {
+      "id": "ddcdb6c1",
+      "bank_id": "c0349601",
+      "text": "Bunca maceraya atılan o çocuk değil mi bu? Duymuş olmalısın."
+    },
+    {
+      "id": "ddcdb6ca",
+      "bank_id": "c0349601",
+      "text": "Neler çevirdiğini duydum elbet. Ama zirveye çıkmak için bundan fazlası gerekir."
+    },
+    {
+      "id": "eb145c86",
+      "bank_id": "c0349601",
+      "text": "Ünü öyle bir mertebeye ulaştı ki biz ölümlüler onun yanında nefes almayı bile umamayız."
+    },
+    {
+      "id": "eb145c8d",
+      "bank_id": "c0349601",
+      "text": "Ünü öyle bir mertebeye ulaştı ki biz ölümlüler onun yanında nefes almayı bile umamayız."
+    },
+    {
+      "id": "eeae2563",
+      "bank_id": "c0349601",
+      "text": "Afet gibi biri, sence de öyle değil mi?"
+    },
+    {
+      "id": "eeae2568",
+      "bank_id": "c0349601",
+      "text": "Afet gibi biri, sence de öyle değil mi?"
+    },
+    {
+      "id": "f4469cf1",
+      "bank_id": "c0349601",
+      "text": "Kendine iyi nam salıyor, değil mi?"
+    },
+    {
+      "id": "f4469cfa",
+      "bank_id": "c0349601",
+      "text": "Kendine iyi nam salıyor, değil mi?"
+    },
+    {
+      "id": "facc48c3",
+      "bank_id": "c0349601",
+      "text": "Şöhreti bütün diyara yayılıyor."
+    },
+    {
+      "id": "facc48c8",
+      "bank_id": "c0349601",
+      "text": "Şöhreti bütün diyara yayılıyor."
+    },
+    {
+      "id": "fb21f9e5",
+      "bank_id": "c0349601",
+      "text": "Halkın çoğu onun hakkında henüz bir fikir sahibi değil gibi."
+    },
+    {
+      "id": "fb21f9ee",
+      "bank_id": "c0349601",
+      "text": "Halkın çoğu onun hakkında henüz bir fikir sahibi değil gibi."
+    },
+    {
+      "id": "fdd93af1",
+      "bank_id": "c0349601",
+      "text": "Gerçekten o mu? Duyduğumuz onca hikâyeden sonra hayal ettiğime hiç benzemiyor."
+    },
+    {
+      "id": "fdd93afa",
+      "bank_id": "c0349601",
+      "text": "Gerçekten o mu? Duyduğumuz onca hikâyeden sonra hayal ettiğime hiç benzemiyor."
+    }
+  ]
+}

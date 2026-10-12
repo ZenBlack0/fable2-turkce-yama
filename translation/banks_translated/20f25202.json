@@ -1,0 +1,576 @@
+{
+  "bank_id": "20f25202",
+  "total_strings": 114,
+  "strings": [
+    {
+      "id": "08d26ae8",
+      "bank_id": "20f25202",
+      "text": "Ne yapmalıyız biliyor musun? Keşfe çıkmalıyız! Evet! Harika olacak!"
+    },
+    {
+      "id": "0dd27289",
+      "bank_id": "20f25202",
+      "text": "Heyecanlı bir yere gidelim! Başka yerleri görmeyi seviyorum!"
+    },
+    {
+      "id": "3154771a",
+      "bank_id": "20f25202",
+      "text": "Hadi bir yerlere ufak bir geziye çıkalım. Neresi olursa."
+    },
+    {
+      "id": "3154771b",
+      "bank_id": "20f25202",
+      "text": "Bir yerlere ufak bir günübirlik geziye çıksak ne güzel olurdu değil mi?"
+    },
+    {
+      "id": "3154771c",
+      "bank_id": "20f25202",
+      "text": "Birlikte ufak bir geziye çıkmalıyız."
+    },
+    {
+      "id": "3154771d",
+      "bank_id": "20f25202",
+      "text": "Bir yerlere ufak bir günübirlik geziye çıksak ne güzel olurdu değil mi?"
+    },
+    {
+      "id": "3154771e",
+      "bank_id": "20f25202",
+      "text": "Birlikte bir yerlere gidelim."
+    },
+    {
+      "id": "35a2cae1",
+      "bank_id": "20f25202",
+      "text": "Şu an aşırı mutluyum! Yalnız şey... asııırlardır hiç hediye almadım."
+    },
+    {
+      "id": "3a548568",
+      "bank_id": "20f25202",
+      "text": "Bir yerlere ufak bir günübirlik geziye çıksak ne güzel olurdu değil mi?"
+    },
+    {
+      "id": "3a548569",
+      "bank_id": "20f25202",
+      "text": "Birlikte bir yerlere gitsek öyle güzel olurdu ki."
+    },
+    {
+      "id": "3a54856b",
+      "bank_id": "20f25202",
+      "text": "Bir yerlere ufak bir günübirlik geziye çıksak ne güzel olurdu değil mi?"
+    },
+    {
+      "id": "3a54856e",
+      "bank_id": "20f25202",
+      "text": "Hadi bir yerlere gidelim!"
+    },
+    {
+      "id": "3a54856f",
+      "bank_id": "20f25202",
+      "text": "Bir yerlere ufak bir günübirlik geziye çıksak ne güzel olurdu değil mi?"
+    },
+    {
+      "id": "40a2dc10",
+      "bank_id": "20f25202",
+      "text": "Hediyeleri pek umursamam aslında. Yani, belki birazcık... Tamam be! Hediyelere bayılıyorum! Bana bir tane alsana?"
+    },
+    {
+      "id": "5a109ab1",
+      "bank_id": "20f25202",
+      "text": "Seninle burada olmak harika ama belki daha... romantik bir yere yürüyüşe çıkabiliriz?"
+    },
+    {
+      "id": "5a109ab2",
+      "bank_id": "20f25202",
+      "text": "Güzel, romantik bir yere gidelim. Çok eğlenceli olur!"
+    },
+    {
+      "id": "5a109ab3",
+      "bank_id": "20f25202",
+      "text": "Gidebileceğimiz harika romantik yerler var. Ne dersin sevgilim?"
+    },
+    {
+      "id": "5a109ab4",
+      "bank_id": "20f25202",
+      "text": "Baş başa ufak bir geziye çıksak ne dersin?"
+    },
+    {
+      "id": "5a109ab5",
+      "bank_id": "20f25202",
+      "text": "Şu an ne güzel olurdu biliyor musun, birlikte romantik küçük bir yere gitmek. Aynen öyle."
+    },
+    {
+      "id": "5a109ab6",
+      "bank_id": "20f25202",
+      "text": "Huzur ve romantizme daha elverişli bir mekâna doğru kısa bir yürüyüşe çıkmak için tam sırası değil mi sence de?"
+    },
+    {
+      "id": "5a109ab7",
+      "bank_id": "20f25202",
+      "text": "Hadi bir yerlere ufak bir geziye çıkalım. Manzaranın tadını çıkarırken baş başa kalabiliriz. Ah hadi ama, gidelim!"
+    },
+    {
+      "id": "605a0028",
+      "bank_id": "20f25202",
+      "text": "Bana hediye getirmediğin sürece yüzüne bile bakmak istemiyorum."
+    },
+    {
+      "id": "605a0029",
+      "bank_id": "20f25202",
+      "text": "Hediye yoksa aşk da yok. Anladın mı?"
+    },
+    {
+      "id": "605a002a",
+      "bank_id": "20f25202",
+      "text": "Tutkunuzun harareti tek bir hediye dahi alamayacak kadar mı soğudu?"
+    },
+    {
+      "id": "605a002b",
+      "bank_id": "20f25202",
+      "text": "Beni zerrece umursamadığın artık apaçık ortada; zira umursasaydın üzerime hediyeler yağdırırdın."
+    },
+    {
+      "id": "605a002d",
+      "bank_id": "20f25202",
+      "text": "Sanırım artık beni hiç umursamıyorsun. Bana neden hiç hediye vermediğini açıklıyor bu."
+    },
+    {
+      "id": "605a002e",
+      "bank_id": "20f25202",
+      "text": "Arada bir hediye alsan incilerin mi dökülür?"
+    },
+    {
+      "id": "605a002f",
+      "bank_id": "20f25202",
+      "text": "Zaten senden hediye falan beklemezdim. Öyle düşüncesizsin ki."
+    },
+    {
+      "id": "63dbcc18",
+      "bank_id": "20f25202",
+      "text": "Şu kokuşmuş delikten çıkıp güzel bir yürüyüşe hiç hayır demezdim."
+    },
+    {
+      "id": "63dbcc19",
+      "bank_id": "20f25202",
+      "text": "Burası resmen çöplük. Gidebileceğimiz daha iyi bir yer olmalı."
+    },
+    {
+      "id": "63dbcc1a",
+      "bank_id": "20f25202",
+      "text": "Neden havanın buram buram romantizm koktuğu bir yere gitmiyoruz?"
+    },
+    {
+      "id": "63dbcc1b",
+      "bank_id": "20f25202",
+      "text": "Romantizm ölmedi biliyorsun, sadece onu gerçekten yaşamak için nereye gideceğimizi bilmemiz gerek."
+    },
+    {
+      "id": "63dbcc1d",
+      "bank_id": "20f25202",
+      "text": "Gerçekten romantik bir yere gitmeliyiz, sence de öyle değil mi?"
+    },
+    {
+      "id": "63dbcc1e",
+      "bank_id": "20f25202",
+      "text": "Değişiklik olsun diye romantik bir yere gidelim."
+    },
+    {
+      "id": "63dbcc1f",
+      "bank_id": "20f25202",
+      "text": "Neden güzel, romantik bir yere doğru yürüyüşe çıkmıyoruz?"
+    },
+    {
+      "id": "6510abe0",
+      "bank_id": "20f25202",
+      "text": "Seninle olduğum sürece nerede olduğum fark etmez. Ama güzel bir yerde olmak daha da iyi olurdu."
+    },
+    {
+      "id": "6510abe2",
+      "bank_id": "20f25202",
+      "text": "Neden baş başa günübirlik bir geziye çıkmıyoruz?"
+    },
+    {
+      "id": "6510abe3",
+      "bank_id": "20f25202",
+      "text": "Bir fikrim var! Sakin, romantik bir yere gidip el ele tutuşalım!"
+    },
+    {
+      "id": "6510abe4",
+      "bank_id": "20f25202",
+      "text": "Şikâyet etmiyorum ama ufak bir geziye çıksak güzel olurdu hani, sence de öyle değil mi?"
+    },
+    {
+      "id": "6510abe5",
+      "bank_id": "20f25202",
+      "text": "Hadi buradan daha güzel bir yere kısa bir gezintiye çıkalım canım."
+    },
+    {
+      "id": "6510abe6",
+      "bank_id": "20f25202",
+      "text": "Az önce aklıma harika bir fikir geldi! Neden romantik bir yere çekilip birbirimize olan aşkımızı tazelemeyelim?"
+    },
+    {
+      "id": "6510abe7",
+      "bank_id": "20f25202",
+      "text": "Ahh, bugün gerçekten harika bir gün ama sakin, gözlerden uzak bir köşeye yapacağımız ufak bir gezi buna tüy dikerdi doğrusu, katılmaz mısın canım?"
+    },
+    {
+      "id": "6b5a1158",
+      "bank_id": "20f25202",
+      "text": "Öyle dikilme karşımda! İşe yarar bir şey yap, bana hediye falan al!"
+    },
+    {
+      "id": "6b5a1159",
+      "bank_id": "20f25202",
+      "text": "Bana böyle davranabileceğini mi sanıyorsun? Dandik bir hediye bile yok!"
+    },
+    {
+      "id": "6b5a115a",
+      "bank_id": "20f25202",
+      "text": "Demek gerçek yüzün buymuş ha? Bana sanki bir hiçmişim gibi sevgini esirgiyorsun? Hak ettiğim hediyeler nerede?"
+    },
+    {
+      "id": "6b5a115b",
+      "bank_id": "20f25202",
+      "text": "Sana olan sabrımın son demlerindeyim. Belki ufak bir hazine havamı düzeltebilir..."
+    },
+    {
+      "id": "6b5a115c",
+      "bank_id": "20f25202",
+      "text": "Bıktım artık! Bana en son ne zaman hediye aldığını hatırlamıyorum bile."
+    },
+    {
+      "id": "6b5a115e",
+      "bank_id": "20f25202",
+      "text": "Beni hediyelerle satın alabileceğini sanma sakın. Gerçi fena da olmazdı hani."
+    },
+    {
+      "id": "6b5a115f",
+      "bank_id": "20f25202",
+      "text": "En azından arada bir bana biraz altın harcayabilirdin. Hıh!"
+    },
+    {
+      "id": "6edbdd48",
+      "bank_id": "20f25202",
+      "text": "Değişiklik olsun diye beni güzel bir yere götürmek ister misin?"
+    },
+    {
+      "id": "6edbdd49",
+      "bank_id": "20f25202",
+      "text": "Bu delikten daha iyi yerler olmalı."
+    },
+    {
+      "id": "6edbdd4a",
+      "bank_id": "20f25202",
+      "text": "Seninle daha cennet gibi bir yerde vakit geçirmenin hayalini kuruyorum."
+    },
+    {
+      "id": "6edbdd4b",
+      "bank_id": "20f25202",
+      "text": "Birlikte gidebileceğimiz romantik bir köşe mutlaka olmalı."
+    },
+    {
+      "id": "6edbdd4c",
+      "bank_id": "20f25202",
+      "text": "Beni romantik bir yerlere kaçırsana?"
+    },
+    {
+      "id": "6edbdd4e",
+      "bank_id": "20f25202",
+      "text": "Değişiklik olsun diye güzel bir yere gitsek nasıl olur?"
+    },
+    {
+      "id": "6edbdd4f",
+      "bank_id": "20f25202",
+      "text": "Romantik bir yere gitmeyi çok isterim."
+    },
+    {
+      "id": "7b09e178",
+      "bank_id": "20f25202",
+      "text": "Seninle daha cennet gibi bir yerde vakit geçirmenin hayalini kuruyorum."
+    },
+    {
+      "id": "7b09e179",
+      "bank_id": "20f25202",
+      "text": "Birlikte gidebileceğimiz romantik bir köşe mutlaka olmalı."
+    },
+    {
+      "id": "7b09e17a",
+      "bank_id": "20f25202",
+      "text": "Değişiklik olsun diye beni güzel bir yere götürmek ister misin?"
+    },
+    {
+      "id": "7b09e17b",
+      "bank_id": "20f25202",
+      "text": "Bu delikten daha iyi yerler olmalı."
+    },
+    {
+      "id": "7b09e17c",
+      "bank_id": "20f25202",
+      "text": "Değişiklik olsun diye güzel bir yere gitsek nasıl olur?"
+    },
+    {
+      "id": "7b09e17d",
+      "bank_id": "20f25202",
+      "text": "Romantik bir yere gitmeyi çok isterim."
+    },
+    {
+      "id": "7b09e17e",
+      "bank_id": "20f25202",
+      "text": "Beni romantik bir yerlere kaçırsana?"
+    },
+    {
+      "id": "8409ef48",
+      "bank_id": "20f25202",
+      "text": "Değişiklik olsun diye romantik bir yere gidelim."
+    },
+    {
+      "id": "8409ef49",
+      "bank_id": "20f25202",
+      "text": "Neden güzel, romantik bir yere doğru yürüyüşe çıkmıyoruz?"
+    },
+    {
+      "id": "8409ef4b",
+      "bank_id": "20f25202",
+      "text": "Gerçekten romantik bir yere gitmeliyiz, sence de öyle değil mi?"
+    },
+    {
+      "id": "8409ef4c",
+      "bank_id": "20f25202",
+      "text": "Neden havanın buram buram romantizm koktuğu bir yere gitmiyoruz?"
+    },
+    {
+      "id": "8409ef4d",
+      "bank_id": "20f25202",
+      "text": "Romantizm ölmedi biliyorsun, sadece onu gerçekten yaşamak için nereye gideceğimizi bilmemiz gerek."
+    },
+    {
+      "id": "8409ef4e",
+      "bank_id": "20f25202",
+      "text": "Şu kokuşmuş delikten çıkıp güzel bir yürüyüşe hiç hayır demezdim."
+    },
+    {
+      "id": "8409ef4f",
+      "bank_id": "20f25202",
+      "text": "Burası resmen çöplük. Gidebileceğimiz daha iyi bir yer olmalı."
+    },
+    {
+      "id": "8ad78c52",
+      "bank_id": "20f25202",
+      "text": "Burası çok berbat. Eğlenceli bir yere gidelim!"
+    },
+    {
+      "id": "93d79abf",
+      "bank_id": "20f25202",
+      "text": "Beni eğlenceli bir yere götürsene, olur mu? Lütfeeeen?"
+    },
+    {
+      "id": "950c7a02",
+      "bank_id": "20f25202",
+      "text": "Seninle yeni yerlere gitmeye bayılıyorum. Şimdi ufak bir geziye çıkmak ister misin?"
+    },
+    {
+      "id": "9e0c886f",
+      "bank_id": "20f25202",
+      "text": "Burada oynamayı seviyorum ama yeni bir yer bulamaz mıyız? Hadi gidip bakalım!"
+    },
+    {
+      "id": "c00ecb2d",
+      "bank_id": "20f25202",
+      "text": "Artık buralarda oynayamıyorum! Daha heyecanlı bir yere gidemez miyiz?"
+    },
+    {
+      "id": "c2d81580",
+      "bank_id": "20f25202",
+      "text": "Tutkunuzun harareti tek bir hediye dahi alamayacak kadar mı soğudu?"
+    },
+    {
+      "id": "c2d81581",
+      "bank_id": "20f25202",
+      "text": "Beni zerrece umursamadığın artık apaçık ortada; zira umursasaydın üzerime hediyeler yağdırırdın."
+    },
+    {
+      "id": "c2d81582",
+      "bank_id": "20f25202",
+      "text": "Bana hediye getirmediğin sürece yüzüne bile bakmak istemiyorum."
+    },
+    {
+      "id": "c2d81583",
+      "bank_id": "20f25202",
+      "text": "Hediye yoksa aşk da yok. Anladın mı?"
+    },
+    {
+      "id": "c2d81584",
+      "bank_id": "20f25202",
+      "text": "Arada bir hediye alsan incilerin mi dökülür?"
+    },
+    {
+      "id": "c2d81585",
+      "bank_id": "20f25202",
+      "text": "Zaten senden hediye falan beklemezdim. Öyle düşüncesizsin ki."
+    },
+    {
+      "id": "c2d81587",
+      "bank_id": "20f25202",
+      "text": "Sanırım artık beni hiç umursamıyorsun. Bana neden hiç hediye vermediğini açıklıyor bu."
+    },
+    {
+      "id": "c4cd82a8",
+      "bank_id": "20f25202",
+      "text": "Az önce aklıma harika bir fikir geldi! Neden romantik bir yere çekilip aşkımızı tazelemiyoruz?"
+    },
+    {
+      "id": "c4cd82a9",
+      "bank_id": "20f25202",
+      "text": "Ahh, bugün gerçekten harika bir gün ama sakin, gözlerden uzak bir köşeye yapacağımız ufak bir gezi buna tüy dikerdi doğrusu, katılmaz mısın canım?"
+    },
+    {
+      "id": "c4cd82aa",
+      "bank_id": "20f25202",
+      "text": "Şikâyet etmiyorum ama ufak bir geziye çıksak güzel olurdu hani, sence de öyle değil mi?"
+    },
+    {
+      "id": "c4cd82ab",
+      "bank_id": "20f25202",
+      "text": "Hadi buradan daha güzel bir yere kısa bir gezintiye çıkalım canım."
+    },
+    {
+      "id": "c4cd82ac",
+      "bank_id": "20f25202",
+      "text": "Neden baş başa günübirlik bir geziye çıkmıyoruz?"
+    },
+    {
+      "id": "c4cd82ad",
+      "bank_id": "20f25202",
+      "text": "Bir fikrim var! Sakin, romantik bir yere gidip el ele tutuşalım!"
+    },
+    {
+      "id": "c4cd82ae",
+      "bank_id": "20f25202",
+      "text": "Seninle olduğum sürece nerede olduğum fark etmez. Ama güzel bir yerde olmak daha da iyi olurdu."
+    },
+    {
+      "id": "c9d82088",
+      "bank_id": "20f25202",
+      "text": "Beni hediyelerle satın alabileceğini sanma sakın. Gerçi fena da olmazdı hani."
+    },
+    {
+      "id": "c9d82089",
+      "bank_id": "20f25202",
+      "text": "En azından arada bir bana biraz altın harcayabilirdin."
+    },
+    {
+      "id": "c9d8208a",
+      "bank_id": "20f25202",
+      "text": "Bıktım artık! Bana en son ne zaman hediye aldığını hatırlamıyorum bile."
+    },
+    {
+      "id": "c9d8208c",
+      "bank_id": "20f25202",
+      "text": "Demek gerçek yüzün buymuş ha? Bana sanki bir hiçmişim gibi sevgini esirgiyorsun? Hak ettiğim hediyeler nerede?"
+    },
+    {
+      "id": "c9d8208d",
+      "bank_id": "20f25202",
+      "text": "Sana olan sabrımın son demlerindeyim. Belki ufak bir hazine havamı düzeltebilir..."
+    },
+    {
+      "id": "c9d8208e",
+      "bank_id": "20f25202",
+      "text": "Öyle dikilme karşımda! İşe yarar bir şey yap, bana hediye falan al!"
+    },
+    {
+      "id": "c9d8208f",
+      "bank_id": "20f25202",
+      "text": "Bana böyle davranabileceğini mi sanıyorsun? Dandik bir hediye bile yok mu yani?"
+    },
+    {
+      "id": "cb0edc5c",
+      "bank_id": "20f25202",
+      "text": "Neden ilginç bir yerlere ufak bir geziye çıkmıyoruz? Çok eğlenceli olur, söz!"
+    },
+    {
+      "id": "cdcd90f8",
+      "bank_id": "20f25202",
+      "text": "Güzel, romantik bir yere gidelim. Çok eğlenceli olur!"
+    },
+    {
+      "id": "cdcd90f9",
+      "bank_id": "20f25202",
+      "text": "Gidebileceğimiz harika romantik yerler var. Ne dersin sevgilim?"
+    },
+    {
+      "id": "cdcd90fb",
+      "bank_id": "20f25202",
+      "text": "Seninle burada olmak harika ama belki daha... romantik bir yere yürüyüşe çıkabiliriz?"
+    },
+    {
+      "id": "cdcd90fc",
+      "bank_id": "20f25202",
+      "text": "Huzur ve romantizme daha elverişli bir mekâna doğru kısa bir yürüyüşe çıkmak için tam sırası değil mi sence de?"
+    },
+    {
+      "id": "cdcd90fd",
+      "bank_id": "20f25202",
+      "text": "Hadi bir yerlere ufak bir geziye çıkalım, manzaranın tadını çıkarırken düşüncelerimizle baş başa kalabiliriz. Hadi ama!"
+    },
+    {
+      "id": "cdcd90fe",
+      "bank_id": "20f25202",
+      "text": "Baş başa ufak bir geziye çıksak ne dersin?"
+    },
+    {
+      "id": "cdcd90ff",
+      "bank_id": "20f25202",
+      "text": "Şu an ne güzel olurdu biliyor musun, birlikte romantik küçük bir yere gitmek. Aynen öyle."
+    },
+    {
+      "id": "e1822158",
+      "bank_id": "20f25202",
+      "text": "Değişiklik olsun diye başka bir yere gitsek ölmezdik herhalde, biliyorsun değil mi?"
+    },
+    {
+      "id": "e182215b",
+      "bank_id": "20f25202",
+      "text": "Burası pek de öyle romantik sayılmaz. İyice gına geldi."
+    },
+    {
+      "id": "e6822979",
+      "bank_id": "20f25202",
+      "text": "Artık beni sevmiyor olmalısın. Sevseydin türlü türlü romantik yerlere giderdik."
+    },
+    {
+      "id": "e682297a",
+      "bank_id": "20f25202",
+      "text": "Hepsi bu kadar mı yani?! Şüphesiz gidebileceğimiz daha hoş yerler vardır."
+    },
+    {
+      "id": "e682297b",
+      "bank_id": "20f25202",
+      "text": "Aramızdaki ateşi pek canlı tuttuğun söylenemez. Beni romantik bir yere götür."
+    },
+    {
+      "id": "e682297c",
+      "bank_id": "20f25202",
+      "text": "Sırf avamdanım diye güzel yerlere gitmek istemediğimi mi sanıyorsun? Pek yanılıyorsun!"
+    },
+    {
+      "id": "e682297d",
+      "bank_id": "20f25202",
+      "text": "Beni romantik bir yere götürmeyeceksen yüzüme bile bakma!"
+    },
+    {
+      "id": "e682297e",
+      "bank_id": "20f25202",
+      "text": "Bu tahammül edilemez! Daha romantik bir ortama seyahat etmemizi talep ediyorum."
+    },
+    {
+      "id": "e682297f",
+      "bank_id": "20f25202",
+      "text": "Beni sonsuza dek kaybetmek istemiyorsan romantizme uygun mekânlar bulmaya daha çok çaba göstermeni öneririm."
+    },
+    {
+      "id": "f99def19",
+      "bank_id": "20f25202",
+      "text": "Keşke bana daha çok hediye alsan; ama sırf sen uzaktayken onlara bakıp o göz kamaştırıcı sevgini hatırlayabilmek için tabii ki."
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "bank_id": "60116602",
+  "total_strings": 105,
+  "strings": [
+    {
+      "id": "00f71802",
+      "bank_id": "60116602",
+      "text": "Yaralandınız. İyileşmek için yiyecek veya eşya tüketmek üzere <dpad.img> tuşunu kullanın!"
+    },
+    {
+      "id": "078d57d4",
+      "bank_id": "60116602",
+      "text": "Dünyaya odaklanma"
+    },
+    {
+      "id": "090955c8",
+      "bank_id": "60116602",
+      "text": "Boya"
+    },
+    {
+      "id": "09960e7c",
+      "bank_id": "60116602",
+      "text": "Yeşil renkte parlayan herhangi bir nesne veya kişiyle etkileşime girmek için <a_img> tuşunu kullanabilirsiniz."
+    },
+    {
+      "id": "0c736640",
+      "bank_id": "60116602",
+      "text": "Köpek Numaraları: Burnunu Sakla"
+    },
+    {
+      "id": "0c9af1a6",
+      "bank_id": "60116602",
+      "text": "İfadeleri uzatma"
+    },
+    {
+      "id": "0f872326",
+      "bank_id": "60116602",
+      "text": "Bir ifade kitabı aldınız! Yeni bir ifade öğrenmek için onu envanterinizden kullanın."
+    },
+    {
+      "id": "104862a7",
+      "bank_id": "60116602",
+      "text": "Size âşık olma ihtimali çok düşük olan biriyle flört etmeye çalışıyorsunuz. Belki başka bir cinsiyeti tercih ediyor, fazla genç, işiyle evli veya romantizme vakit ayıramayacak kadar büyük dertleri var."
+    },
+    {
+      "id": "1127065e",
+      "bank_id": "60116602",
+      "text": "Önemli olaylara, kişilere ve nesnelere odaklanmak için <lefttrigger.img> tuşunu kullanın."
+    },
+    {
+      "id": "13fc78c9",
+      "bank_id": "60116602",
+      "text": "Köpeğinizi daha da değerli gizli hazineleri bulması için eğitecek kitaplar bulabilirsiniz."
+    },
+    {
+      "id": "16a06ee8",
+      "bank_id": "60116602",
+      "text": "<e.img> ile işaretlenmiş ifadeler 'uzatılabilir' ifadelerdir. Etkisini artırmak için <dpad.img> yönünü basılı tutun."
+    },
+    {
+      "id": "16c7b255",
+      "bank_id": "60116602",
+      "text": "Çevrenizdeki dünyayı keşfettiğinizden emin olun. Parlayan izi takip etmek son derece faydalıdır ancak patikanın dışında bulunacak çok şey vardır. Bu mağaranın tüm köşelerini keşfetmeyi deneyin."
+    },
+    {
+      "id": "17872b61",
+      "bank_id": "60116602",
+      "text": "Köpek Numaraları: Ters Takla"
+    },
+    {
+      "id": "1a25c9ad",
+      "bank_id": "60116602",
+      "text": "Bu evi satın alabilirsiniz. Sahip olduğunuzda orada yaşamayı seçip özel bonuslar alabilir veya ekstra gelir elde etmek için kiraya verebilirsiniz."
+    },
+    {
+      "id": "1a7d9b16",
+      "bank_id": "60116602",
+      "text": "İfadeleri sergilemek için <dpad.img> tuşunu kullanın."
+    },
+    {
+      "id": "1e05f1c2",
+      "bank_id": "60116602",
+      "text": "Hediyeler, biriyle ilişkinizi geliştirmek için harika bir yoldur. Yerel hediye tezgâhlarından romantik ve dostane hediyeler satın alabilirsiniz.\nBirine hediye vermek için <dpad.img> üzerindeki hediye seçeneğini seçin veya İfade Çarkı'nı açıp Sosyal kategorisini seçin."
+    },
+    {
+      "id": "205cfc39",
+      "bank_id": "60116602",
+      "text": "Kapının kilidini açmanın bir yolunu bulun."
+    },
+    {
+      "id": "223d7e07",
+      "bank_id": "60116602",
+      "text": "Köpeğinizin yanında belirli ifadeleri kullanırsanız numaralar sergileyebilir."
+    },
+    {
+      "id": "29214f25",
+      "bank_id": "60116602",
+      "text": "Bu kişi en sevdiği yerlerden birinde! İfadelerin ve hediyelerin etkileri artık önemli ölçüde arttı."
+    },
+    {
+      "id": "2b3be7bc",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz korkmuş. Onu sevmek ve güvende hissettirmek için <dpad.img> tuşunu kullanın."
+    },
+    {
+      "id": "2c3e5545",
+      "bank_id": "60116602",
+      "text": "Köpeğinizin neyin kokusunu aldığını görmek için <dpad.img> tuşunda aşağı basarak küreğinizi kullanın."
+    },
+    {
+      "id": "2e46de2f",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz yaralandı! Onu iyileştirmek için Köpek İksiri kullanın."
+    },
+    {
+      "id": "315df689",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz artık ölü taklidi yapabilir! Bunu yaptığını görmek için ya kendiniz ölü taklidi yapın ya da birini korkaklıkla suçlayın."
+    },
+    {
+      "id": "363d4ced",
+      "bank_id": "60116602",
+      "text": "İrade hâkimiyetiniz artıyor. Düşük seviyeli büyüler artık daha güçlü, yüksek seviyeli büyüler ise daha hızlı dolacak."
+    },
+    {
+      "id": "373e2107",
+      "bank_id": "60116602",
+      "text": "Hazine kazma"
+    },
+    {
+      "id": "3b0da32a",
+      "bank_id": "60116602",
+      "text": "Saçınızın veya herhangi bir giysinizin rengini değiştirmek için Eşyalar ekranınızdaki boyayı kullanabilirsiniz."
+    },
+    {
+      "id": "3cf2acd5",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz artık ters takla atabilir! Bunu yaptığını görmek için bir kupa gösterin veya Şapka, Saç Bandı, Bıyık oyununu oynayın."
+    },
+    {
+      "id": "40aaa6e2",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz artık burnunu saklayabilir! Bunu yaptığını görmek için ya geğirin ya da gaz çıkarın."
+    },
+    {
+      "id": "486077ff",
+      "bank_id": "60116602",
+      "text": "Dalış noktalarına dikkat edin. Yüzeyin altında gizlenmiş nesneleri bulmak için <a_img> tuşunu basılı tutun!"
+    },
+    {
+      "id": "4a2ca41a",
+      "bank_id": "60116602",
+      "text": "Köpek Numaraları: Tavşan Sıçrayışı"
+    },
+    {
+      "id": "4cf67b0b",
+      "bank_id": "60116602",
+      "text": "İnsanlar sizden korktuğunda veya size güvendiğinde, onları kontrol etmek için Takip Et ve Ayrıl ifadelerini kullanın. İnsanların sizin hakkınızdaki görüşlerini etkilemek için ifadelerinizi kullanın."
+    },
+    {
+      "id": "4efa04a8",
+      "bank_id": "60116602",
+      "text": "Lonca Mührü'nü lamba olarak kullanmak için <dpad.img> üzerinde aşağı basın."
+    },
+    {
+      "id": "4f640da4",
+      "bank_id": "60116602",
+      "text": "Köpek Numaraları: Pati Salla"
+    },
+    {
+      "id": "515d2072",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz artık yuvarlanabilir! Bunu yaptığını görmek için birini baştan çıkarın, ona tapının veya ondan özür dileyin."
+    },
+    {
+      "id": "54ccf306",
+      "bank_id": "60116602",
+      "text": "Bir çıkıntının kenarındayken <a_img> simgesi görünüyorsa, atlayış güvenli demektir."
+    },
+    {
+      "id": "55be3a23",
+      "bank_id": "60116602",
+      "text": "Albion genelinde köpek numarası kitapları bularak köpeğinize numaralar öğretebilirsiniz."
+    },
+    {
+      "id": "56ea845b",
+      "bank_id": "60116602",
+      "text": "Bu eşyayı güncellemek istiyorsanız bir mobilya mağazasından yeni mobilya parçaları satın alın."
+    },
+    {
+      "id": "57075912",
+      "bank_id": "60116602",
+      "text": "Deneyiminizi artırmak için küreleri toplayın."
+    },
+    {
+      "id": "57ea85ce",
+      "bank_id": "60116602",
+      "text": "Ev dekorasyonu modundasınız! Evinize girin ve nesneleri değiştirmek için onlarla etkileşime geçin."
+    },
+    {
+      "id": "5acfc520",
+      "bank_id": "60116602",
+      "text": "İyileşme"
+    },
+    {
+      "id": "5b68774f",
+      "bank_id": "60116602",
+      "text": "Bu sizin karavanınız. Ekstra bonuslar için burada uyuyabilirsiniz ve evlenirseniz evlilik yuvası görevi görür."
+    },
+    {
+      "id": "5c9c09fb",
+      "bank_id": "60116602",
+      "text": "Simge göründüğünde <lefttrigger.img> tuşunu basılı tutmak size önemli şeyleri ve olayları gösterecektir."
+    },
+    {
+      "id": "5cea8ded",
+      "bank_id": "60116602",
+      "text": "Dekorasyon modundan çıkmak için evden ayrılın."
+    },
+    {
+      "id": "5e3c23af",
+      "bank_id": "60116602",
+      "text": "Neşelendirmek için İblis Kapısı'na bazı köpek numaraları gösterin."
+    },
+    {
+      "id": "5edeb250",
+      "bank_id": "60116602",
+      "text": "Köpek Numaraları: Yuvarlan"
+    },
+    {
+      "id": "5f1a7fa9",
+      "bank_id": "60116602",
+      "text": "Biri az önce sizinle flört etmeye çalıştı! İlgileniyorsanız, neden siz de flörtle karşılık vermiyorsunuz? Dikkatini çekmek için <lefttrigger.img> tuşuna basın, ardından <dpad.img> kullanın."
+    },
+    {
+      "id": "5fdd96bb",
+      "bank_id": "60116602",
+      "text": "Zorlukla kazandığınız deneyimi yeni yeteneklere harcayın!"
+    },
+    {
+      "id": "671153e9",
+      "bank_id": "60116602",
+      "text": "Düşmanlar yakındayken köpeğiniz hırlar. Dikkatli olun! Düşmanlar yakındayken köpeğinizin sizi gömülü eşyalara götürmeyeceğini unutmayın."
+    },
+    {
+      "id": "6d82a697",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz artık hedefe işeyebilir! Bunu yaptığını görmek için birine parmakla gülün, hakaret edin veya kıçınızı öpmesini söyleyin."
+    },
+    {
+      "id": "712b4c70",
+      "bank_id": "60116602",
+      "text": "Harika! Birinin en sevdiği ifadeleri kullanmak, onu kendinize âşık etmenin mükemmel yoludur."
+    },
+    {
+      "id": "7370489c",
+      "bank_id": "60116602",
+      "text": "Kahramanınızı geliştirmek için deneyim puanları harcayabileceğinizi unutmayın! Geliştirebileceğiniz Güç, Beceri ve İrade yeteneklerini görmek için Duraklatma menüsündeki Yetenekler ekranına gidin."
+    },
+    {
+      "id": "79bde0c4",
+      "bank_id": "60116602",
+      "text": "Deneyim topladıktan sonra görünen sayılar ne kadar Güç (mavi), Beceri (sarı), İrade (kırmızı) ve Genel (yeşil) deneyim topladığınızı gösterir."
+    },
+    {
+      "id": "7d4c2bdb",
+      "bank_id": "60116602",
+      "text": "Atlamadan önce bakmak için <left.img> çubuğunu bir çıkıntıya doğru itin!"
+    },
+    {
+      "id": "7db8f4af",
+      "bank_id": "60116602",
+      "text": "Köpek Numaraları: Hedefe İşeme"
+    },
+    {
+      "id": "7e3a4bed",
+      "bank_id": "60116602",
+      "text": "Köpek Numaraları: Ölü Taklidi"
+    },
+    {
+      "id": "8021a92d",
+      "bank_id": "60116602",
+      "text": "Köpek eğitim kitapları"
+    },
+    {
+      "id": "81c80df7",
+      "bank_id": "60116602",
+      "text": "Dalış"
+    },
+    {
+      "id": "8680e42c",
+      "bank_id": "60116602",
+      "text": "İfadeleri sergileme"
+    },
+    {
+      "id": "8a05f497",
+      "bank_id": "60116602",
+      "text": "Öğrendiğiniz son yeteneği kaybettiniz."
+    },
+    {
+      "id": "8a5373c6",
+      "bank_id": "60116602",
+      "text": "Deneyim toplama"
+    },
+    {
+      "id": "8e7ad2bb",
+      "bank_id": "60116602",
+      "text": "Pek çok insanın almaktan hoşlandığı favori hediyeleri vardır.\nBirinin sevdiği ve sevmediği şeyleri öğrenmek için <lefttrigger.img> ile ona kilitlenin ve ardından <y_img> tuşuna basın."
+    },
+    {
+      "id": "9095ba37",
+      "bank_id": "60116602",
+      "text": "Biri sizi takip ediyorsa ve yakındaki bir yeri ziyaret etmek istiyorsa, hangi yönde olduğunu işaret edecektir."
+    },
+    {
+      "id": "926488a0",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz artık tavşan gibi sıçrayabilir! Bunu yaptığını görmek için dans edin, gülün, ıslık çalın, lavta çalın veya kahramanca bir poz verin."
+    },
+    {
+      "id": "938657af",
+      "bank_id": "60116602",
+      "text": "Köpek Numaraları: Kuyruk Kovalama"
+    },
+    {
+      "id": "95ba3139",
+      "bank_id": "60116602",
+      "text": "Kapının kilidini açmanın bir yolunu bulun!"
+    },
+    {
+      "id": "9f94cdf1",
+      "bank_id": "60116602",
+      "text": "Uyuma"
+    },
+    {
+      "id": "a4fd90e3",
+      "bank_id": "60116602",
+      "text": "Köpeğinizin yanındayken <dpad.img> üzerinde aşağı basarak onun için top atabilirsiniz!"
+    },
+    {
+      "id": "a860d21a",
+      "bank_id": "60116602",
+      "text": "Şu anda kullanabileceğiniz tüm ifadeleri görmek için <rightbutton.img> tuşunu basılı tutun."
+    },
+    {
+      "id": "abca74c3",
+      "bank_id": "60116602",
+      "text": "Getir oyunu oynama"
+    },
+    {
+      "id": "b49a9377",
+      "bank_id": "60116602",
+      "text": "Pek çok insanın favori bir ifadesi vardır; bunu kullanmak özellikle etkili olacaktır.\nBirinin sevdiği ve sevmediği şeyleri öğrenmek için <lefttrigger.img> ile ona kilitlenin ve ardından <y_img> tuşuna basın."
+    },
+    {
+      "id": "b5f2070e",
+      "bank_id": "60116602",
+      "text": "Köpek Numaraları: Hırla"
+    },
+    {
+      "id": "b6cd5405",
+      "bank_id": "60116602",
+      "text": "Bir iş sona ermek üzere! Daha fazlasını öğrenmek için haritanızı <dpad.img> kontrol edin."
+    },
+    {
+      "id": "b737e91b",
+      "bank_id": "60116602",
+      "text": "İfade kitapları satın alarak veya bularak daha fazla ifade kazanabilirsiniz."
+    },
+    {
+      "id": "bfae0d6c",
+      "bank_id": "60116602",
+      "text": "Kırmızı renkte parlayan herhangi bir nesneye veya kişiye saldırabilirsiniz."
+    },
+    {
+      "id": "c258d49d",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz artık yalvarabilir! Bunu yaptığını görmek için bir tavlama cümlesi kurun, birini evinize davet edin veya kendiniz biraz yalvarın."
+    },
+    {
+      "id": "c2d2bfb3",
+      "bank_id": "60116602",
+      "text": "Uyumak yaralarınızı iyileştirir ve zamanın hızla geçmesini sağlamanın harika bir yoludur."
+    },
+    {
+      "id": "c2e4d95b",
+      "bank_id": "60116602",
+      "text": "Çıkıntılardan aşağı bakma"
+    },
+    {
+      "id": "c40341b8",
+      "bank_id": "60116602",
+      "text": "Seviye atlama"
+    },
+    {
+      "id": "cab843d6",
+      "bank_id": "60116602",
+      "text": "Köpeğinize bakarken biraz eğlenmek için <dpad.img> aracılığıyla topu kullanın!"
+    },
+    {
+      "id": "cbe97c1c",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz artık komutla hırlayabilir! Bunu yaptığını görmek için herhangi bir Korkutucu ifade sergileyin."
+    },
+    {
+      "id": "cc861c27",
+      "bank_id": "60116602",
+      "text": "Hareketli hedef tam isabet noktasındayken düğmeyi bırakmaya çalışın."
+    },
+    {
+      "id": "cfeb2d2c",
+      "bank_id": "60116602",
+      "text": "Köpek havlamaları"
+    },
+    {
+      "id": "d2ffd15c",
+      "bank_id": "60116602",
+      "text": "Güvenli atlayışlar"
+    },
+    {
+      "id": "d34ecb7f",
+      "bank_id": "60116602",
+      "text": "İfade tam isabet noktası"
+    },
+    {
+      "id": "d3a135c9",
+      "bank_id": "60116602",
+      "text": "İnsanları peşinize takma"
+    },
+    {
+      "id": "d3f5ad69",
+      "bank_id": "60116602",
+      "text": "Köpek Numaraları: Yalvarma"
+    },
+    {
+      "id": "d97870cc",
+      "bank_id": "60116602",
+      "text": "Ağır bir silah aldınız. Bu normal bir silahtan daha güçlüdür ancak çok daha yavaştır."
+    },
+    {
+      "id": "dfdbb551",
+      "bank_id": "60116602",
+      "text": "Dostane ifadeler romantik jestlerle birleştiğinde ilişkilerin gelişmesine yardımcı olur. Başka bir tane deneyin."
+    },
+    {
+      "id": "e7308d9e",
+      "bank_id": "60116602",
+      "text": "Biri taşındığında bu mülkten her beş dakikada bir gelir elde edeceksiniz. Bu, Fable oynamadığınız zamanlarda bile altın kazanmaya devam edeceğiniz anlamına gelir!"
+    },
+    {
+      "id": "e8241dd8",
+      "bank_id": "60116602",
+      "text": "Bir ifadede başarısız olursanız, istenmeyen sonuçlar doğurabilir! İşaretçi 'tam isabet noktasındayken' bırakmaya çalışın."
+    },
+    {
+      "id": "e9b72fc3",
+      "bank_id": "60116602",
+      "text": "<a_img> ile bu kapıyı çalın. Tahribat yapmak istiyorsanız, onun yerine <x_img> tuşuna basarak kapıyı kırabilirsiniz."
+    },
+    {
+      "id": "ea6ac46b",
+      "bank_id": "60116602",
+      "text": "Gömülü eseri bulmak için köpeğinizin iz sürme becerilerini kullanın."
+    },
+    {
+      "id": "ebf03f5d",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz yere serdiğiniz düşmanlara saldıracaktır."
+    },
+    {
+      "id": "ee9de2b6",
+      "bank_id": "60116602",
+      "text": "Daha fazla Flörtöz, Eğlenceli ve Sosyal ifadeler yapmayı deneyin. Daha fazla seçenek için <dpad.img> kullanın veya <righttrigger.img> ile İfade Çarkı'na erişin."
+    },
+    {
+      "id": "f0561e04",
+      "bank_id": "60116602",
+      "text": "Güzel! Ancak ifadenizi daha da uzun süre uzatabilirsiniz."
+    },
+    {
+      "id": "f26e9e16",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz ne zaman havlarsa bir şey bulmuş demektir. Ne olduğunu öğrenmek için onu takip edin."
+    },
+    {
+      "id": "f6dd47ee",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz artık pati sallayabilir! Bunu yaptığını görmek için bir öpücük gönderin, hediye verin, birini takip ettirin veya bekletin ya da başparmağınızı yukarı veya aşağı kaldırın."
+    },
+    {
+      "id": "f7a3a070",
+      "bank_id": "60116602",
+      "text": "Ev sahibi olma"
+    },
+    {
+      "id": "f93bdbac",
+      "bank_id": "60116602",
+      "text": "İyi iş! Favori hediyeler özellikle etkilidir. İnsanların ilgisini canlı tutmak için çeşitli hediyeler ve ifadeler kullandığınızdan emin olun."
+    },
+    {
+      "id": "fa2418e4",
+      "bank_id": "60116602",
+      "text": "Parlayan vurgular mevcut hedefinizi gösterir."
+    },
+    {
+      "id": "fd241dbd",
+      "bank_id": "60116602",
+      "text": "Bir kişinin etrafındaki mor vurgu dost canlısı bir köylüyü gösterir."
+    },
+    {
+      "id": "fe2c8797",
+      "bank_id": "60116602",
+      "text": "Köpeğiniz artık kuyruğunu kovalayabilir! Bunu yaptığını görmek için kaba bir itiş veya zafer yumruğu sergileyin ya da bir el kuklası gösterisi yapın."
+    },
+    {
+      "id": "ff008654",
+      "bank_id": "60116602",
+      "text": "Deneyim kürelerini toplamak için <righttrigger.img> tuşunu basılı tutun."
+    },
+    {
+      "id": "ff59b7ff",
+      "bank_id": "60116602",
+      "text": "Küreğiniz varsa, köpeğinizin bulduğu nesneyi kazıp çıkarmak için <dpad.img> üzerinde aşağı basın."
+    },
+    {
+      "id": "ff7f27bc",
+      "bank_id": "60116602",
+      "text": "Köpeğinizin morali bozuk ve hazine arayamayacak kadar üzgün. Onu överek veya Köpek Ödülü vererek neşelendirebilirsiniz."
+    }
+  ]
+}

@@ -1,0 +1,1731 @@
+{
+  "bank_id": "e0f55202",
+  "total_strings": 345,
+  "strings": [
+    {
+      "id": "007a9ecd",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "007a9ece",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "09400e25",
+      "bank_id": "e0f55202",
+      "text": "Ne yaptın sen?! Onunla ranza arkadaşıydık!"
+    },
+    {
+      "id": "09400e26",
+      "bank_id": "e0f55202",
+      "text": "O sadece ordumuzun tek bir parçasıydı."
+    },
+    {
+      "id": "0b0d8851",
+      "bank_id": "e0f55202",
+      "text": "Hayır!"
+    },
+    {
+      "id": "0b0d8852",
+      "bank_id": "e0f55202",
+      "text": "Bu ölüm hepinize bir ders olsun. Dövüşmeye devam edin!"
+    },
+    {
+      "id": "0bb1fcd1",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "0bb1fcd2",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "0c11e195",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "0c11e196",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "0c88105d",
+      "bank_id": "e0f55202",
+      "text": "Onu havaya uçurdun!"
+    },
+    {
+      "id": "0c88105e",
+      "bank_id": "e0f55202",
+      "text": "Kusursuz bir manevra!"
+    },
+    {
+      "id": "0cb62049",
+      "bank_id": "e0f55202",
+      "text": "Lucien bir İrade kullanıcısını ortadan kaldırdığımız için bize teşekkür edecek."
+    },
+    {
+      "id": "0cb6204a",
+      "bank_id": "e0f55202",
+      "text": "Neden hep böyle tuhaf tiplerle dövüşmek zorundayız?"
+    },
+    {
+      "id": "0dc568c9",
+      "bank_id": "e0f55202",
+      "text": "Normal bir insan gibi dövüşemez misin seni ucube?"
+    },
+    {
+      "id": "0dc568ca",
+      "bank_id": "e0f55202",
+      "text": "O büyülere dikkat edin askerler!"
+    },
+    {
+      "id": "0de7f0d5",
+      "bank_id": "e0f55202",
+      "text": "Saldırılarını çeşitlendir!"
+    },
+    {
+      "id": "0de7f0d6",
+      "bank_id": "e0f55202",
+      "text": "Bundan daha iyi hamlelerin var senin!"
+    },
+    {
+      "id": "0ec1d248",
+      "bank_id": "e0f55202",
+      "text": "Firar ediyorum ben!"
+    },
+    {
+      "id": "0ec1d24b",
+      "bank_id": "e0f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "0f2ce385",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "0f2ce386",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "10c261b5",
+      "bank_id": "e0f55202",
+      "text": "Devam et ahbap. Başaracaksın."
+    },
+    {
+      "id": "10c261b6",
+      "bank_id": "e0f55202",
+      "text": "Eğitimini hatırla asker!"
+    },
+    {
+      "id": "111fb25d",
+      "bank_id": "e0f55202",
+      "text": "Gardını düşürme asker!"
+    },
+    {
+      "id": "111fb25e",
+      "bank_id": "e0f55202",
+      "text": "Sıyrık bile sayılmaz!"
+    },
+    {
+      "id": "1267f850",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "1267f853",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "127ce3dc",
+      "bank_id": "e0f55202",
+      "text": "Nen var köpek? Bir yerin mi acıdı?"
+    },
+    {
+      "id": "127ce3df",
+      "bank_id": "e0f55202",
+      "text": "Köpeği yok edin. Yaralı hayvanlar tehlikeli olur."
+    },
+    {
+      "id": "12ee436c",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "12ee436f",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "13c4c891",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "13c4c892",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "16170829",
+      "bank_id": "e0f55202",
+      "text": "Dikkat et!"
+    },
+    {
+      "id": "1617082a",
+      "bank_id": "e0f55202",
+      "text": "Yaralandın mı asker?"
+    },
+    {
+      "id": "164c4944",
+      "bank_id": "e0f55202",
+      "text": "Yeniden toparlanın ve düşen yoldaşınızın intikamını alın!"
+    },
+    {
+      "id": "164c4947",
+      "bank_id": "e0f55202",
+      "text": "Hiç kimse bir askeri öldürüp sağ kalamaz!"
+    },
+    {
+      "id": "180f3d61",
+      "bank_id": "e0f55202",
+      "text": "Her şeyi tamamen yanlış yapıyorsun."
+    },
+    {
+      "id": "180f3d62",
+      "bank_id": "e0f55202",
+      "text": "Bundan daha iyisini yapabilirsin asker!"
+    },
+    {
+      "id": "18439c6d",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "18439c6e",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "186bd228",
+      "bank_id": "e0f55202",
+      "text": "Bunu sadece Lucien yapabilir sanıyordum!"
+    },
+    {
+      "id": "186bd22b",
+      "bank_id": "e0f55202",
+      "text": "Hortlaklarla dövüşmekten nefret ediyorum!"
+    },
+    {
+      "id": "18a1f0a5",
+      "bank_id": "e0f55202",
+      "text": "İşte buna sağlam blok derim!"
+    },
+    {
+      "id": "18a1f0a6",
+      "bank_id": "e0f55202",
+      "text": "Etkileyici bir blok asker."
+    },
+    {
+      "id": "1a6f6ad1",
+      "bank_id": "e0f55202",
+      "text": "İyi blok!"
+    },
+    {
+      "id": "1a6f6ad2",
+      "bank_id": "e0f55202",
+      "text": "Evet işte blok dediğin böyle olur!"
+    },
+    {
+      "id": "1cf592c4",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "1cf592c7",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "1f1b7955",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "1f1b7956",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "1f232b24",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "1f232b27",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "1f425a91",
+      "bank_id": "e0f55202",
+      "text": "Bütün gün üzerine gelmeye devam edebilirim."
+    },
+    {
+      "id": "1f425a92",
+      "bank_id": "e0f55202",
+      "text": "Beni birkaç kez savuşturabilirsin ama sonunda savunmanı aşacağım."
+    },
+    {
+      "id": "2182773d",
+      "bank_id": "e0f55202",
+      "text": "Etkileyici ama hepimizi öldürmeye yetmeyecek."
+    },
+    {
+      "id": "2182773e",
+      "bank_id": "e0f55202",
+      "text": "Komutan'ın bundan daha iyisini yaptığını gördüm!"
+    },
+    {
+      "id": "21f5ea35",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "21f5ea36",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "22432d48",
+      "bank_id": "e0f55202",
+      "text": "Odaklan!"
+    },
+    {
+      "id": "22432d4b",
+      "bank_id": "e0f55202",
+      "text": "Bundan hiç hoşlanmadım!"
+    },
+    {
+      "id": "23158965",
+      "bank_id": "e0f55202",
+      "text": "Bana neler oluyor?"
+    },
+    {
+      "id": "23158966",
+      "bank_id": "e0f55202",
+      "text": "Yavaşlayan zamanın içinde kapana kısıldım."
+    },
+    {
+      "id": "2522ab58",
+      "bank_id": "e0f55202",
+      "text": "Bir darbe indirmek için hızlı hareket etmelisin!"
+    },
+    {
+      "id": "2522ab5b",
+      "bank_id": "e0f55202",
+      "text": "Daha hızlı hareket etmek zorundasın!"
+    },
+    {
+      "id": "25ae2bc4",
+      "bank_id": "e0f55202",
+      "text": "İyi blok asker!"
+    },
+    {
+      "id": "25ae2bc7",
+      "bank_id": "e0f55202",
+      "text": "Bunu bir Kıymık bile geçemezdi!"
+    },
+    {
+      "id": "25ce3f89",
+      "bank_id": "e0f55202",
+      "text": "Fena değil!"
+    },
+    {
+      "id": "25ce3f8a",
+      "bank_id": "e0f55202",
+      "text": "İyisin. Ama ben daha iyiyim."
+    },
+    {
+      "id": "25f10720",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "25f10723",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "27f1bd45",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "27f1bd46",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2876cf10",
+      "bank_id": "e0f55202",
+      "text": "Seni bir daha vurayım mı?"
+    },
+    {
+      "id": "2876cf13",
+      "bank_id": "e0f55202",
+      "text": "Seni delik deşik etmekten gerçekten zevk alıyorum."
+    },
+    {
+      "id": "291e10cc",
+      "bank_id": "e0f55202",
+      "text": "Eninde sonunda yorulacaksın."
+    },
+    {
+      "id": "291e10cf",
+      "bank_id": "e0f55202",
+      "text": "Daha kaç darbeye dayanabilirsin ki? Pek fazla değil."
+    },
+    {
+      "id": "2942c5e1",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "2942c5e2",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "29c94490",
+      "bank_id": "e0f55202",
+      "text": "Vuruldun mu?"
+    },
+    {
+      "id": "29c94493",
+      "bank_id": "e0f55202",
+      "text": "Hareket etmeye devam et ve siper al!"
+    },
+    {
+      "id": "29f95048",
+      "bank_id": "e0f55202",
+      "text": "Blokların seni kurtaramaz."
+    },
+    {
+      "id": "29f9504b",
+      "bank_id": "e0f55202",
+      "text": "Bunun için eğitildim ben. Sonunda seni alt edeceğim."
+    },
+    {
+      "id": "2dc76dd4",
+      "bank_id": "e0f55202",
+      "text": "Şu köpeği etkisiz hale getirin!"
+    },
+    {
+      "id": "2dc76dd7",
+      "bank_id": "e0f55202",
+      "text": "Biri şu iti yakalasın!"
+    },
+    {
+      "id": "2ded0421",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2ded0422",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "2e433144",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2e433147",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "2f26ea7d",
+      "bank_id": "e0f55202",
+      "text": "Hedef bir İrade kullanıcısı! Ekstra önlem alın!"
+    },
+    {
+      "id": "2f26ea7e",
+      "bank_id": "e0f55202",
+      "text": "Peh! Kule'de daha iyi büyüler gördüm ben!"
+    },
+    {
+      "id": "306917d5",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "306917d6",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "309e9954",
+      "bank_id": "e0f55202",
+      "text": "Siper alın!"
+    },
+    {
+      "id": "309e9957",
+      "bank_id": "e0f55202",
+      "text": "Ateş altındayız!"
+    },
+    {
+      "id": "311df2e5",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "311df2e6",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "328a0214",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "328a0217",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "33ebc9dc",
+      "bank_id": "e0f55202",
+      "text": "Bir İrade kullanıcısıyla karşılaştığında ne yapacağını hatırla."
+    },
+    {
+      "id": "33ebc9df",
+      "bank_id": "e0f55202",
+      "text": "Dostum, ne biçim bir büyü bu böyle!"
+    },
+    {
+      "id": "3589e329",
+      "bank_id": "e0f55202",
+      "text": "Yere serilmiş bir düşman, yenilmiş bir düşmandır."
+    },
+    {
+      "id": "3589e32a",
+      "bank_id": "e0f55202",
+      "text": "Tekrar ayağa kalkmasına izin vermeyin!"
+    },
+    {
+      "id": "365633d8",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "365633db",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "37d11b58",
+      "bank_id": "e0f55202",
+      "text": "Daha sert vur!"
+    },
+    {
+      "id": "37d11b5b",
+      "bank_id": "e0f55202",
+      "text": "Kendini tutma asker."
+    },
+    {
+      "id": "38d9831d",
+      "bank_id": "e0f55202",
+      "text": "Düşman ölmedi. Bir daha sakın başarısız olma!"
+    },
+    {
+      "id": "38d9831e",
+      "bank_id": "e0f55202",
+      "text": "İllaki ölümden geri dönen biri çıkmak zorunda değil mi."
+    },
+    {
+      "id": "3c1206e4",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "3c1206e7",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "3cea3880",
+      "bank_id": "e0f55202",
+      "text": "Kendini akıllı sanıyorsun, değil mi?"
+    },
+    {
+      "id": "3cea3883",
+      "bank_id": "e0f55202",
+      "text": "Sabır, iyi bir askerin alametidir."
+    },
+    {
+      "id": "3e6651a1",
+      "bank_id": "e0f55202",
+      "text": "Öldürün şu aptal kırmayı!"
+    },
+    {
+      "id": "3e6651a2",
+      "bank_id": "e0f55202",
+      "text": "Köpekle oynamayı kes asker. Savaşacak bir cengimiz var."
+    },
+    {
+      "id": "3ec8891c",
+      "bank_id": "e0f55202",
+      "text": "Köpeği üstünden tekmele!"
+    },
+    {
+      "id": "3ec8891f",
+      "bank_id": "e0f55202",
+      "text": "Seni ısırmasına izin verme!"
+    },
+    {
+      "id": "41293dd1",
+      "bank_id": "e0f55202",
+      "text": "Teslim olacağımı mı sanıyorsun? Şansına küs."
+    },
+    {
+      "id": "419fb49c",
+      "bank_id": "e0f55202",
+      "text": "Hemen siper bulun, çabuk!"
+    },
+    {
+      "id": "419fb49f",
+      "bank_id": "e0f55202",
+      "text": "Ateş hattından uzak durun!"
+    },
+    {
+      "id": "41edaa79",
+      "bank_id": "e0f55202",
+      "text": "Düşmanları katledin!"
+    },
+    {
+      "id": "41edaa7a",
+      "bank_id": "e0f55202",
+      "text": "Onları yok ettin!"
+    },
+    {
+      "id": "42361cdc",
+      "bank_id": "e0f55202",
+      "text": "Gardlarını almalarına fırsat vermeyin!"
+    },
+    {
+      "id": "42361cdf",
+      "bank_id": "e0f55202",
+      "text": "Bu savuşturmalar ders kitaplarında yok. Doğaçlama yapın!"
+    },
+    {
+      "id": "4345fde5",
+      "bank_id": "e0f55202",
+      "text": "Nişancılığım olağanüstüdür."
+    },
+    {
+      "id": "4345fde6",
+      "bank_id": "e0f55202",
+      "text": "Atış sınıfında birinci olmam boşuna değildi."
+    },
+    {
+      "id": "47a3d258",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "47a3d25b",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "48a8a348",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "48a8a34b",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "4cd1f3a4",
+      "bank_id": "e0f55202",
+      "text": "İyi misin ahbap?"
+    },
+    {
+      "id": "4cd1f3a7",
+      "bank_id": "e0f55202",
+      "text": "Savuştur!"
+    },
+    {
+      "id": "4cddfd60",
+      "bank_id": "e0f55202",
+      "text": "Hedef tekrar ayakta! Mevzilerinize dönün!"
+    },
+    {
+      "id": "4cddfd63",
+      "bank_id": "e0f55202",
+      "text": "Sağlam hamurdan yapılmışsın ha? Sorun değil, meydan okumaları severim."
+    },
+    {
+      "id": "4eea67a0",
+      "bank_id": "e0f55202",
+      "text": "Karşı saldırı!"
+    },
+    {
+      "id": "4eea67a3",
+      "bank_id": "e0f55202",
+      "text": "Karşılık ver!"
+    },
+    {
+      "id": "57f5f39d",
+      "bank_id": "e0f55202",
+      "text": "Evet!"
+    },
+    {
+      "id": "57f5f39e",
+      "bank_id": "e0f55202",
+      "text": "Etkileyici bir hamle"
+    },
+    {
+      "id": "5886f970",
+      "bank_id": "e0f55202",
+      "text": "İstediğin kadar iyileş. Seni yine de öldüreceğiz!"
+    },
+    {
+      "id": "5886f973",
+      "bank_id": "e0f55202",
+      "text": "Çabuk yaklaşın. Hedefin dikkati dağıldı!"
+    },
+    {
+      "id": "58f21ab8",
+      "bank_id": "e0f55202",
+      "text": "Yerde vakit geçirirken yakalanan herkes bunun bedelini sonra ödeyecektir!"
+    },
+    {
+      "id": "58f21abb",
+      "bank_id": "e0f55202",
+      "text": "Tekrar ayağa kalkabilir misin?"
+    },
+    {
+      "id": "59c64505",
+      "bank_id": "e0f55202",
+      "text": "Becerim seni etkiledi mi?"
+    },
+    {
+      "id": "59c64506",
+      "bank_id": "e0f55202",
+      "text": "Ah, fazlasıyla iyi bir nişancıyım işte."
+    },
+    {
+      "id": "5a818805",
+      "bank_id": "e0f55202",
+      "text": "Herkes sakin olsun."
+    },
+    {
+      "id": "5a818806",
+      "bank_id": "e0f55202",
+      "text": "Bu his çok tuhaf."
+    },
+    {
+      "id": "5ad6cb3c",
+      "bank_id": "e0f55202",
+      "text": "Harika uygulanmış bir yere serme hamlesi."
+    },
+    {
+      "id": "5ad6cb3f",
+      "bank_id": "e0f55202",
+      "text": "Ayağa bile kalkamıyor!"
+    },
+    {
+      "id": "5b4db071",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "5b4db072",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "5c11a968",
+      "bank_id": "e0f55202",
+      "text": "Evet! Lucien'in askerlerinin neler yapabileceğini gösterin onlara!"
+    },
+    {
+      "id": "5c11a96b",
+      "bank_id": "e0f55202",
+      "text": "İyi bir imha."
+    },
+    {
+      "id": "5c934340",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "5c934343",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "5e858878",
+      "bank_id": "e0f55202",
+      "text": "Süslü hamlelerin bizim için hiçbir anlamı yok!"
+    },
+    {
+      "id": "5e85887b",
+      "bank_id": "e0f55202",
+      "text": "İçi boş gösterişli hareketler."
+    },
+    {
+      "id": "5f4a3218",
+      "bank_id": "e0f55202",
+      "text": "Benim için fazla yavaşsın."
+    },
+    {
+      "id": "5f4a321b",
+      "bank_id": "e0f55202",
+      "text": "Bana böyle vurmayı mı bekliyordun?"
+    },
+    {
+      "id": "61372a4d",
+      "bank_id": "e0f55202",
+      "text": "Uğruna ölmeye değmez bu!"
+    },
+    {
+      "id": "61372a4e",
+      "bank_id": "e0f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "620e0c38",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "620e0c3b",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "6237ab05",
+      "bank_id": "e0f55202",
+      "text": "Sadece doğru anı bekliyorum."
+    },
+    {
+      "id": "6237ab06",
+      "bank_id": "e0f55202",
+      "text": "Kör talih işte."
+    },
+    {
+      "id": "66831235",
+      "bank_id": "e0f55202",
+      "text": "Bu güçlü darbelerden kaçının!"
+    },
+    {
+      "id": "66831236",
+      "bank_id": "e0f55202",
+      "text": "Umarım yumuşak bir yere düşmüşsündür!"
+    },
+    {
+      "id": "676baff4",
+      "bank_id": "e0f55202",
+      "text": "Ayağa kalk asker!"
+    },
+    {
+      "id": "676baff7",
+      "bank_id": "e0f55202",
+      "text": "O herifin seni hırpalamasına izin verme!"
+    },
+    {
+      "id": "691d53b8",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "691d53bb",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "6a00d54d",
+      "bank_id": "e0f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "6a00d54e",
+      "bank_id": "e0f55202",
+      "text": "Ben kaçtım buradan!"
+    },
+    {
+      "id": "6a737349",
+      "bank_id": "e0f55202",
+      "text": "Şu atış hoşuna gitti mi?"
+    },
+    {
+      "id": "6a73734a",
+      "bank_id": "e0f55202",
+      "text": "Ve bir kez daha, yanılmazlığımı kanıtladım."
+    },
+    {
+      "id": "6b8c8bf9",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "6b8c8bfa",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "6caff740",
+      "bank_id": "e0f55202",
+      "text": "İntikam zamanı!"
+    },
+    {
+      "id": "6caff743",
+      "bank_id": "e0f55202",
+      "text": "Fedakârlıklar yapılmalıdır."
+    },
+    {
+      "id": "6e50eb19",
+      "bank_id": "e0f55202",
+      "text": "Aaargh!"
+    },
+    {
+      "id": "6e50eb1a",
+      "bank_id": "e0f55202",
+      "text": "Tam geri çekilme!"
+    },
+    {
+      "id": "6fac1b2c",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "6fac1b2f",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "707846f1",
+      "bank_id": "e0f55202",
+      "text": "Biz ölmeye hazırız. Ya sen?"
+    },
+    {
+      "id": "707846f2",
+      "bank_id": "e0f55202",
+      "text": "Hepimizi öldüremezsin."
+    },
+    {
+      "id": "76ae4b35",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "76ae4b36",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "7796e8f4",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "7796e8f7",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "797906f8",
+      "bank_id": "e0f55202",
+      "text": "Hedef iyileşiyor."
+    },
+    {
+      "id": "797906fb",
+      "bank_id": "e0f55202",
+      "text": "O iksiri nereden buldun sen?"
+    },
+    {
+      "id": "7b3b9475",
+      "bank_id": "e0f55202",
+      "text": "Unutmayın, yaraya baskı uygulayın."
+    },
+    {
+      "id": "7b3b9476",
+      "bank_id": "e0f55202",
+      "text": "Siper alın adamlar!"
+    },
+    {
+      "id": "7c11d9c0",
+      "bank_id": "e0f55202",
+      "text": "Mükemmel savuşturma!"
+    },
+    {
+      "id": "7c11d9c3",
+      "bank_id": "e0f55202",
+      "text": "Bir Kule askerine yakışır bir blok!"
+    },
+    {
+      "id": "7fda2971",
+      "bank_id": "e0f55202",
+      "text": "Biz buna Kule Savuşturması deriz!"
+    },
+    {
+      "id": "7fda2972",
+      "bank_id": "e0f55202",
+      "text": "Harika blok!"
+    },
+    {
+      "id": "80e6fe05",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "80e6fe06",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "83573bad",
+      "bank_id": "e0f55202",
+      "text": "Kof adamlar yavaştır ama güçlüdür."
+    },
+    {
+      "id": "83573bae",
+      "bank_id": "e0f55202",
+      "text": "Ölüleri diriltmek seni kurtarmayacak."
+    },
+    {
+      "id": "85b08ae8",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "85b08aeb",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "88169ad5",
+      "bank_id": "e0f55202",
+      "text": "Seni hilekâr domuz!"
+    },
+    {
+      "id": "88169ad6",
+      "bank_id": "e0f55202",
+      "text": "Saldırıları tazeleyin adamlar. Hedefin sağlığı arttı."
+    },
+    {
+      "id": "8b330e5d",
+      "bank_id": "e0f55202",
+      "text": "Oradan geçemezsin."
+    },
+    {
+      "id": "8b330e5e",
+      "bank_id": "e0f55202",
+      "text": "Var olan bütün savuşturmaları öğrendim ben."
+    },
+    {
+      "id": "8f3ca2c1",
+      "bank_id": "e0f55202",
+      "text": "Böyle bir savuşturma daha görmek istemiyorum!"
+    },
+    {
+      "id": "8f3ca2c2",
+      "bank_id": "e0f55202",
+      "text": "O herifin seni böyle engellemesine izin veremezsin!"
+    },
+    {
+      "id": "8fe86dec",
+      "bank_id": "e0f55202",
+      "text": "Palyaçolardan nefret ederim. Hem de çok nefret ederim."
+    },
+    {
+      "id": "8fe86def",
+      "bank_id": "e0f55202",
+      "text": "İstiyorsan palyaçoluk yap. Sonuçta yine öleceksin."
+    },
+    {
+      "id": "901967a8",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "901967ab",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "90d7d5ed",
+      "bank_id": "e0f55202",
+      "text": "Bu zavallı heriflere ölüm getiriyorsun."
+    },
+    {
+      "id": "90d7d5ee",
+      "bank_id": "e0f55202",
+      "text": "Hedefinizi ortadan kaldırdınız!"
+    },
+    {
+      "id": "9487e5e8",
+      "bank_id": "e0f55202",
+      "text": "İşte bu yüzden hedef talimi yapıyoruz!"
+    },
+    {
+      "id": "9487e5eb",
+      "bank_id": "e0f55202",
+      "text": "İyi atış!"
+    },
+    {
+      "id": "97a478ac",
+      "bank_id": "e0f55202",
+      "text": "Yeniden toparlanın!"
+    },
+    {
+      "id": "97a478af",
+      "bank_id": "e0f55202",
+      "text": "Koş!"
+    },
+    {
+      "id": "980504b0",
+      "bank_id": "e0f55202",
+      "text": "Zombiyle mücadele eğitiminizi hatırlayın!"
+    },
+    {
+      "id": "980504b3",
+      "bank_id": "e0f55202",
+      "text": "Ölüler canlanıyor!"
+    },
+    {
+      "id": "9c305458",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "9c30545b",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "9d9bbe9d",
+      "bank_id": "e0f55202",
+      "text": "Hey, ölmemişsin sen!"
+    },
+    {
+      "id": "9d9bbe9e",
+      "bank_id": "e0f55202",
+      "text": "Hedef yeniden canlandı! Silahları hazırlayın askerler!"
+    },
+    {
+      "id": "9e81247d",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "9e81247e",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "9ee7474c",
+      "bank_id": "e0f55202",
+      "text": "Düşman etkisiz hale getirildi. Aferin."
+    },
+    {
+      "id": "9ee7474f",
+      "bank_id": "e0f55202",
+      "text": "Bu bir katliamın başlangıcı!"
+    },
+    {
+      "id": "a0702b41",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "a0702b42",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "a83a41b8",
+      "bank_id": "e0f55202",
+      "text": "Büyü menzilinden uzak durun!"
+    },
+    {
+      "id": "a83a41bb",
+      "bank_id": "e0f55202",
+      "text": "Büyü kullanımına karşı hazırlıklıyız."
+    },
+    {
+      "id": "a8c617f4",
+      "bank_id": "e0f55202",
+      "text": "Güzel av ahbap!"
+    },
+    {
+      "id": "a8c617f7",
+      "bank_id": "e0f55202",
+      "text": "Hepsini öldürün!"
+    },
+    {
+      "id": "a98996d1",
+      "bank_id": "e0f55202",
+      "text": "Hedef vuruldu. Aferin asker."
+    },
+    {
+      "id": "a98996d2",
+      "bank_id": "e0f55202",
+      "text": "Delik deşik edin şunları!"
+    },
+    {
+      "id": "aad87024",
+      "bank_id": "e0f55202",
+      "text": "Çiçek gibi devrildi!"
+    },
+    {
+      "id": "aad87027",
+      "bank_id": "e0f55202",
+      "text": "Aferin asker. Şimdi öldür!"
+    },
+    {
+      "id": "abd53669",
+      "bank_id": "e0f55202",
+      "text": "Cesedi arayın."
+    },
+    {
+      "id": "abd5366a",
+      "bank_id": "e0f55202",
+      "text": "Zavallı herif. Bize kafa tutabileceğini sandın. Ne kadar da yanılmışsın."
+    },
+    {
+      "id": "abde2a69",
+      "bank_id": "e0f55202",
+      "text": "Böyle vurmaya devam edin, savaş bizimdir."
+    },
+    {
+      "id": "abde2a6a",
+      "bank_id": "e0f55202",
+      "text": "Doğrayın şu solucanı!"
+    },
+    {
+      "id": "accdbc10",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "accdbc13",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "acf0e420",
+      "bank_id": "e0f55202",
+      "text": "Güzel bir yere serme!"
+    },
+    {
+      "id": "acf0e423",
+      "bank_id": "e0f55202",
+      "text": "Şimdi işlerini bitirin!"
+    },
+    {
+      "id": "ad047d85",
+      "bank_id": "e0f55202",
+      "text": "Tam on ikiden!"
+    },
+    {
+      "id": "ad047d86",
+      "bank_id": "e0f55202",
+      "text": "Nişanınızı kontrol edin. Atışlar yaralamamalı, öldürmeli."
+    },
+    {
+      "id": "ae0546c8",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "ae0546cb",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "ae8193dd",
+      "bank_id": "e0f55202",
+      "text": "Gardınızı düşürmeyin!"
+    },
+    {
+      "id": "ae8193de",
+      "bank_id": "e0f55202",
+      "text": "Blok yapmayı unutmayın!"
+    },
+    {
+      "id": "b0c5dd6c",
+      "bank_id": "e0f55202",
+      "text": "İşte buna Kule nişancılığı derler!"
+    },
+    {
+      "id": "b0c5dd6f",
+      "bank_id": "e0f55202",
+      "text": "Tekrar ateş!"
+    },
+    {
+      "id": "b434e129",
+      "bank_id": "e0f55202",
+      "text": "Kalkan yöntemlerim senin için fazla gelişmiş."
+    },
+    {
+      "id": "b434e12a",
+      "bank_id": "e0f55202",
+      "text": "Bunu beğendin mi? En iyilerden öğrendim."
+    },
+    {
+      "id": "b5492818",
+      "bank_id": "e0f55202",
+      "text": "Kolay bir hedef oluşturmayın!"
+    },
+    {
+      "id": "b549281b",
+      "bank_id": "e0f55202",
+      "text": "Dikkat et orada!"
+    },
+    {
+      "id": "b588fe38",
+      "bank_id": "e0f55202",
+      "text": "İyi bir hedefsin."
+    },
+    {
+      "id": "b588fe3b",
+      "bank_id": "e0f55202",
+      "text": "Mermi isabet etti!"
+    },
+    {
+      "id": "b64b94c9",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "b64b94ca",
+      "bank_id": "e0f55202",
+      "text": "Aaaah!"
+    },
+    {
+      "id": "ba76b76d",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "ba76b76e",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "bae6de81",
+      "bank_id": "e0f55202",
+      "text": "Başınızı eğin!"
+    },
+    {
+      "id": "bae6de82",
+      "bank_id": "e0f55202",
+      "text": "Yoldan çekilin!"
+    },
+    {
+      "id": "bbfa99c5",
+      "bank_id": "e0f55202",
+      "text": "Asker vuruldu!"
+    },
+    {
+      "id": "bbfa99c6",
+      "bank_id": "e0f55202",
+      "text": "Yaralı var!"
+    },
+    {
+      "id": "bcfac524",
+      "bank_id": "e0f55202",
+      "text": "Öldürmek için vurun!"
+    },
+    {
+      "id": "bcfac527",
+      "bank_id": "e0f55202",
+      "text": "O kurşun tam hedefe gitti!"
+    },
+    {
+      "id": "bd260dd9",
+      "bank_id": "e0f55202",
+      "text": "Kaçın!"
+    },
+    {
+      "id": "bd260dda",
+      "bank_id": "e0f55202",
+      "text": "Hemen defolup gidelim buradan!"
+    },
+    {
+      "id": "bf07c939",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "bf07c93a",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "c3c8a120",
+      "bank_id": "e0f55202",
+      "text": "Ne atıştı ama!"
+    },
+    {
+      "id": "c3c8a123",
+      "bank_id": "e0f55202",
+      "text": "İyi atış asker."
+    },
+    {
+      "id": "c689eac9",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "c689eaca",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "c7993349",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "c799334a",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "c88628cc",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "c88628cf",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "c97d8df1",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "c97d8df2",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "ca760930",
+      "bank_id": "e0f55202",
+      "text": "Güzel iniş!"
+    },
+    {
+      "id": "ca760933",
+      "bank_id": "e0f55202",
+      "text": "Kalk ayağa asker, yoksa seni kendim öldürürüm."
+    },
+    {
+      "id": "ca97eaf0",
+      "bank_id": "e0f55202",
+      "text": "Aferin asker, görev tamam."
+    },
+    {
+      "id": "ca97eaf3",
+      "bank_id": "e0f55202",
+      "text": "Kolay bir av!"
+    },
+    {
+      "id": "cb5c7c45",
+      "bank_id": "e0f55202",
+      "text": "Böyle devam et."
+    },
+    {
+      "id": "cb5c7c46",
+      "bank_id": "e0f55202",
+      "text": "Güzel iş!"
+    },
+    {
+      "id": "cc606fec",
+      "bank_id": "e0f55202",
+      "text": "Reaver'dan daha iyi bir nişancıyım."
+    },
+    {
+      "id": "cc606fef",
+      "bank_id": "e0f55202",
+      "text": "Asla ıskalamam."
+    },
+    {
+      "id": "d11db5e9",
+      "bank_id": "e0f55202",
+      "text": "Oh, Lucien buna gerçekten çok sevinecek."
+    },
+    {
+      "id": "d11db5ea",
+      "bank_id": "e0f55202",
+      "text": "Yazık oldu. Bunu Kule'de kullanabilirdik."
+    },
+    {
+      "id": "d126a9e9",
+      "bank_id": "e0f55202",
+      "text": "Bunun gibi darbelere daha fazla dayanamazlar!"
+    },
+    {
+      "id": "d126a9ea",
+      "bank_id": "e0f55202",
+      "text": "Mükemmel vuruş asker."
+    },
+    {
+      "id": "d21519b1",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "d21519b2",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "d264f974",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "d264f977",
+      "bank_id": "e0f55202",
+      "text": "Öff."
+    },
+    {
+      "id": "d7092e89",
+      "bank_id": "e0f55202",
+      "text": "Hâlâ teslim olmadın mı?"
+    },
+    {
+      "id": "d7092e8a",
+      "bank_id": "e0f55202",
+      "text": "Kartal gözüm beni asla yanıltmaz."
+    },
+    {
+      "id": "d78366a9",
+      "bank_id": "e0f55202",
+      "text": "Mevzini koru asker!"
+    },
+    {
+      "id": "d78366aa",
+      "bank_id": "e0f55202",
+      "text": "Arkanı kolluyoruz!"
+    },
+    {
+      "id": "d981c93c",
+      "bank_id": "e0f55202",
+      "text": "Hamlelerini bir fersah öteden görebiliyorum."
+    },
+    {
+      "id": "d981c93f",
+      "bank_id": "e0f55202",
+      "text": "Bir daha denesene, ne duruyorsun?"
+    },
+    {
+      "id": "daa14230",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "daa14233",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "df2fc7e4",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "df2fc7e7",
+      "bank_id": "e0f55202",
+      "text": "Uh!"
+    },
+    {
+      "id": "e09f3418",
+      "bank_id": "e0f55202",
+      "text": "Yere serildiler!"
+    },
+    {
+      "id": "e09f341b",
+      "bank_id": "e0f55202",
+      "text": "Şimdi ölümcül darbeyi indir!"
+    },
+    {
+      "id": "e150d641",
+      "bank_id": "e0f55202",
+      "text": "Birimiz böyle havaya uçurup paçayı kurtaracağını mı sandın?"
+    },
+    {
+      "id": "e150d642",
+      "bank_id": "e0f55202",
+      "text": "Geri çekilin!"
+    },
+    {
+      "id": "e4ad59fd",
+      "bank_id": "e0f55202",
+      "text": "İrade büyüleri kullanarak bizi korkutacağını mı sanıyorsun?"
+    },
+    {
+      "id": "e4ad59fe",
+      "bank_id": "e0f55202",
+      "text": "Lanet olası İrade kullanıcıları!"
+    },
+    {
+      "id": "e4f3c284",
+      "bank_id": "e0f55202",
+      "text": "Bu basit blokları aşmanın yollarını biliyorum."
+    },
+    {
+      "id": "e4f3c287",
+      "bank_id": "e0f55202",
+      "text": "Beni sürekli engelleyemezsin."
+    },
+    {
+      "id": "e8560461",
+      "bank_id": "e0f55202",
+      "text": "Havlama sesi kulaklarıma müzik gibi geliyor."
+    },
+    {
+      "id": "e8560462",
+      "bank_id": "e0f55202",
+      "text": "Köpek yakında ölecek."
+    },
+    {
+      "id": "edbf945c",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "edbf945f",
+      "bank_id": "e0f55202",
+      "text": "Aagh!"
+    },
+    {
+      "id": "edd12cdd",
+      "bank_id": "e0f55202",
+      "text": "Bütün bloklama yöntemlerinde eğitim aldım."
+    },
+    {
+      "id": "edd12cde",
+      "bank_id": "e0f55202",
+      "text": "Hiç kimse Lucien'in bir askerine vuramaz!"
+    },
+    {
+      "id": "ee03740d",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "ee03740e",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "efa37190",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "efa37193",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "f0273925",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "f0273926",
+      "bank_id": "e0f55202",
+      "text": "Öff!"
+    },
+    {
+      "id": "f19d4094",
+      "bank_id": "e0f55202",
+      "text": "Hayvan yaralandı. Ana hedefe odaklanın."
+    },
+    {
+      "id": "f19d4097",
+      "bank_id": "e0f55202",
+      "text": "Ha! O lanet köpeği vurduk!"
+    },
+    {
+      "id": "f2c882a9",
+      "bank_id": "e0f55202",
+      "text": "Ha! Kötü hissetme. Ben sadece o kadar iyiyim."
+    },
+    {
+      "id": "f2c882aa",
+      "bank_id": "e0f55202",
+      "text": "Lucien'in ordusunun bir askerine vurmayı ciddi ciddi bekliyor musun?"
+    },
+    {
+      "id": "f333b81d",
+      "bank_id": "e0f55202",
+      "text": "Acı çektirin!"
+    },
+    {
+      "id": "f333b81e",
+      "bank_id": "e0f55202",
+      "text": "Bunun canını yaktığına bahse girerim!"
+    },
+    {
+      "id": "f7d296bc",
+      "bank_id": "e0f55202",
+      "text": "Hadi ama, kalk ayağa!"
+    },
+    {
+      "id": "f7d296bf",
+      "bank_id": "e0f55202",
+      "text": "Ayağa kalk ve karşılık ver!"
+    },
+    {
+      "id": "fa05ed7c",
+      "bank_id": "e0f55202",
+      "text": "Bunu Lucien'e bildirmemiz gerek."
+    },
+    {
+      "id": "fa05ed7f",
+      "bank_id": "e0f55202",
+      "text": "Bize karşı hiç şansı yoktu."
+    },
+    {
+      "id": "fa0ee17c",
+      "bank_id": "e0f55202",
+      "text": "Bundan daha fazlasını görmek istiyorum!"
+    },
+    {
+      "id": "fa0ee17f",
+      "bank_id": "e0f55202",
+      "text": "Öldür!"
+    },
+    {
+      "id": "ffb91780",
+      "bank_id": "e0f55202",
+      "text": "Dikkatli olun adamlar! Burada gerçek bir hasmımız var."
+    },
+    {
+      "id": "ffb91783",
+      "bank_id": "e0f55202",
+      "text": "Bunu gördünüz mü?!"
+    }
+  ]
+}

@@ -1,0 +1,936 @@
+{
+  "bank_id": "b0ad3602",
+  "total_strings": 186,
+  "strings": [
+    {
+      "id": "04450988",
+      "bank_id": "b0ad3602",
+      "text": "Yapacak daha iyi işlerim var. Hoşça kal."
+    },
+    {
+      "id": "04450989",
+      "bank_id": "b0ad3602",
+      "text": "Bana bu kadarı yetti artık."
+    },
+    {
+      "id": "0445098b",
+      "bank_id": "b0ad3602",
+      "text": "Gitmem gerek! Görüşürüz!"
+    },
+    {
+      "id": "0445098c",
+      "bank_id": "b0ad3602",
+      "text": "Benim mevkimdeki biri daha asil uğraşlarla meşgul olmalı."
+    },
+    {
+      "id": "0445098d",
+      "bank_id": "b0ad3602",
+      "text": "Şimdi ayrılıyorum. Yolun harika maceralarla bereketlensin."
+    },
+    {
+      "id": "0445098e",
+      "bank_id": "b0ad3602",
+      "text": "Bunun amacı ne ki şimdi?!"
+    },
+    {
+      "id": "0445098f",
+      "bank_id": "b0ad3602",
+      "text": "Yapacak daha iyi işlerim var."
+    },
+    {
+      "id": "049013d9",
+      "bank_id": "b0ad3602",
+      "text": "Kiminle konuştuğunu sanıyorsun sen?"
+    },
+    {
+      "id": "049013dc",
+      "bank_id": "b0ad3602",
+      "text": "Aklımı henüz kaçırmadım ben."
+    },
+    {
+      "id": "049013df",
+      "bank_id": "b0ad3602",
+      "text": "Bir tavuğun oynamasına izin verirdim daha iyi."
+    },
+    {
+      "id": "0b808983",
+      "bank_id": "b0ad3602",
+      "text": "Tabii canım. Kaybol buradan."
+    },
+    {
+      "id": "0b808985",
+      "bank_id": "b0ad3602",
+      "text": "Aptallık etme."
+    },
+    {
+      "id": "0b808986",
+      "bank_id": "b0ad3602",
+      "text": "Sanmıyorum."
+    },
+    {
+      "id": "0beb2373",
+      "bank_id": "b0ad3602",
+      "text": "Çekil şuradan! Hadi oradan!"
+    },
+    {
+      "id": "0beb2375",
+      "bank_id": "b0ad3602",
+      "text": "Uza bakalım, hadi!"
+    },
+    {
+      "id": "0beb2376",
+      "bank_id": "b0ad3602",
+      "text": "Şaka mı bu?"
+    },
+    {
+      "id": "0d0b3451",
+      "bank_id": "b0ad3602",
+      "text": "Oynamazsan kazanamazsın. Hadi yanaş bakalım!"
+    },
+    {
+      "id": "0d0b3452",
+      "bank_id": "b0ad3602",
+      "text": "Bahisleri yatırın ve bir servet kazanın!"
+    },
+    {
+      "id": "0d0b3457",
+      "bank_id": "b0ad3602",
+      "text": "Hayatında böyle bir oyun oynamadığına bahse girerim."
+    },
+    {
+      "id": "0e8f7cc2",
+      "bank_id": "b0ad3602",
+      "text": "Sıkı kumarbazların oyunu bu! Yasaklanmadan önce Kilit Taşı oynayın!"
+    },
+    {
+      "id": "0e8f7cc4",
+      "bank_id": "b0ad3602",
+      "text": "Altınınızı yatırmak varken neden canınızı ortaya koyasınız ki? Hemen Kilit Taşı oynayın!"
+    },
+    {
+      "id": "0e8f7cc7",
+      "bank_id": "b0ad3602",
+      "text": "Kilit Taşı'nı alt edecek zekânız var mı?"
+    },
+    {
+      "id": "178183be",
+      "bank_id": "b0ad3602",
+      "text": "Seninle hiçbir yere gelmiyorum."
+    },
+    {
+      "id": "1c665061",
+      "bank_id": "b0ad3602",
+      "text": "Kumar! Kumar! Gel vatandaş kumara gel!"
+    },
+    {
+      "id": "1c665064",
+      "bank_id": "b0ad3602",
+      "text": "Bugüne dek tasarlanmış en muazzam oyunu oynamaya yüreğin var mı?"
+    },
+    {
+      "id": "1c665067",
+      "bank_id": "b0ad3602",
+      "text": "Kazanmak için oyna! Oynamak için kazan! Kazanmak... Aman, gel buraya işte!"
+    },
+    {
+      "id": "2081918b",
+      "bank_id": "b0ad3602",
+      "text": "Eziklerin peşinden gitmem ben."
+    },
+    {
+      "id": "2aaf8b81",
+      "bank_id": "b0ad3602",
+      "text": "Git uçurumdan atla."
+    },
+    {
+      "id": "2aaf8b84",
+      "bank_id": "b0ad3602",
+      "text": "Kaybol!"
+    },
+    {
+      "id": "2aaf8b87",
+      "bank_id": "b0ad3602",
+      "text": "Yok, kaybol başımdan!"
+    },
+    {
+      "id": "308281f1",
+      "bank_id": "b0ad3602",
+      "text": "Aptalın tekisin."
+    },
+    {
+      "id": "308281f2",
+      "bank_id": "b0ad3602",
+      "text": "Aptala benzer bir halim mi var?"
+    },
+    {
+      "id": "308281f4",
+      "bank_id": "b0ad3602",
+      "text": "Yol al bakalım!"
+    },
+    {
+      "id": "478ddec8",
+      "bank_id": "b0ad3602",
+      "text": "Eve gidiyorum ben."
+    },
+    {
+      "id": "4c8de6e9",
+      "bank_id": "b0ad3602",
+      "text": "Bu çok saçma. Gidiyorum ben."
+    },
+    {
+      "id": "55508c38",
+      "bank_id": "b0ad3602",
+      "text": "Birbirimizi daha iyi tanıyana kadar olmaz."
+    },
+    {
+      "id": "55508c3a",
+      "bank_id": "b0ad3602",
+      "text": "Belki daha iyi arkadaş olsaydık."
+    },
+    {
+      "id": "55508c3b",
+      "bank_id": "b0ad3602",
+      "text": "Buna hazır olduğumdan emin değilim."
+    },
+    {
+      "id": "55508c3c",
+      "bank_id": "b0ad3602",
+      "text": "Ardı sıra koşacak köpeğin değilim ben senin."
+    },
+    {
+      "id": "55508c3d",
+      "bank_id": "b0ad3602",
+      "text": "Peşinden geleceğimi mi sanıyorsun?!"
+    },
+    {
+      "id": "55508c3e",
+      "bank_id": "b0ad3602",
+      "text": "Belki de sen BENİ takip etmelisin! Ha!"
+    },
+    {
+      "id": "55508c3f",
+      "bank_id": "b0ad3602",
+      "text": "Zavallı bir hayranına benzer halim mi var? Güldürme beni..."
+    },
+    {
+      "id": "56e6fa58",
+      "bank_id": "b0ad3602",
+      "text": "Gelmiyorum. Nokta."
+    },
+    {
+      "id": "56e6fa5a",
+      "bank_id": "b0ad3602",
+      "text": "Seninle gelmek isteyeceğimi gerçekten düşündün mü?"
+    },
+    {
+      "id": "56e6fa5b",
+      "bank_id": "b0ad3602",
+      "text": "Seni daha iyi tanısaydım belki ama hiç şansın yok!"
+    },
+    {
+      "id": "56e6fa5c",
+      "bank_id": "b0ad3602",
+      "text": "Eğitilmiş köpeğin değilim ben senin."
+    },
+    {
+      "id": "56e6fa5d",
+      "bank_id": "b0ad3602",
+      "text": "Ne? Boynuma tasma mı takacaksın? Oldu canım."
+    },
+    {
+      "id": "5a5093d9",
+      "bank_id": "b0ad3602",
+      "text": "Daha iyi arkadaş olduğumuzda belki."
+    },
+    {
+      "id": "5a5093da",
+      "bank_id": "b0ad3602",
+      "text": "Biraz daha kibar davranırsan düşünürüm."
+    },
+    {
+      "id": "5a5093db",
+      "bank_id": "b0ad3602",
+      "text": "Beni biraz ikna etmen gerekecek."
+    },
+    {
+      "id": "5a5093dc",
+      "bank_id": "b0ad3602",
+      "text": "Hiç sanmıyorum!"
+    },
+    {
+      "id": "5a5093dd",
+      "bank_id": "b0ad3602",
+      "text": "Şu an senden hiç haz etmiyorum bile."
+    },
+    {
+      "id": "5a5093de",
+      "bank_id": "b0ad3602",
+      "text": "Yabancıların peşinden gitmem ben!"
+    },
+    {
+      "id": "5a5093df",
+      "bank_id": "b0ad3602",
+      "text": "Peşinden gelmemi mi bekliyorsun? Hiç sanmam!"
+    },
+    {
+      "id": "5be70279",
+      "bank_id": "b0ad3602",
+      "text": "Peşinden koşacak başka birini bul."
+    },
+    {
+      "id": "5be7027a",
+      "bank_id": "b0ad3602",
+      "text": "Süs köpeğin olacak başka birini bul kendine."
+    },
+    {
+      "id": "5be7027b",
+      "bank_id": "b0ad3602",
+      "text": "Nereye dersen oraya gidecek yığınla insan olduğuna eminim ama onlardan biri ben değilim."
+    },
+    {
+      "id": "5be7027c",
+      "bank_id": "b0ad3602",
+      "text": "Peşinden koşa koşa gelmemi mi istiyorsun? Oldu canım."
+    },
+    {
+      "id": "5be7027d",
+      "bank_id": "b0ad3602",
+      "text": "Peşinden geleceğime senden uzak durmayı yeğlerim."
+    },
+    {
+      "id": "5c866d68",
+      "bank_id": "b0ad3602",
+      "text": "Seninle gelmek mi? Hiç sanmıyorum."
+    },
+    {
+      "id": "5c866d69",
+      "bank_id": "b0ad3602",
+      "text": "Beni ne sandın sen? Kendi aklı fikri olmayan bir koyun mu?"
+    },
+    {
+      "id": "5c866d6a",
+      "bank_id": "b0ad3602",
+      "text": "Ben öncülük ederim. Kimsenin peşinden gitmem."
+    },
+    {
+      "id": "5c866d6b",
+      "bank_id": "b0ad3602",
+      "text": "Sana eşlik etmek istemem için bana hiçbir sebep vermedin."
+    },
+    {
+      "id": "5c866d6d",
+      "bank_id": "b0ad3602",
+      "text": "Kendi kafanı kesişini izlemeye gelmiyorsam hiç ilgimi çekmez."
+    },
+    {
+      "id": "5c866d6e",
+      "bank_id": "b0ad3602",
+      "text": "Sevmediğim insanların peşinden gitmem."
+    },
+    {
+      "id": "5c866d6f",
+      "bank_id": "b0ad3602",
+      "text": "Seninle gitmek isteyeceğim hiçbir yer aklıma gelmiyor."
+    },
+    {
+      "id": "5d3fa7b0",
+      "bank_id": "b0ad3602",
+      "text": "Ben seni kovmadan önce çek git buradan."
+    },
+    {
+      "id": "5d3fa7b5",
+      "bank_id": "b0ad3602",
+      "text": "İlgilenmiyorum."
+    },
+    {
+      "id": "5d3fa7b6",
+      "bank_id": "b0ad3602",
+      "text": "Gerçek müşterileri kaçırıyorsun."
+    },
+    {
+      "id": "60fde11a",
+      "bank_id": "b0ad3602",
+      "text": "Kumar insana iyi gelir!"
+    },
+    {
+      "id": "60fde11c",
+      "bank_id": "b0ad3602",
+      "text": "Yanaşın ve bir el oyun oynayın!"
+    },
+    {
+      "id": "60fde11f",
+      "bank_id": "b0ad3602",
+      "text": "Bir şans oyununda şansınızı deneyin."
+    },
+    {
+      "id": "6164573a",
+      "bank_id": "b0ad3602",
+      "text": "Defol git!"
+    },
+    {
+      "id": "6164573c",
+      "bank_id": "b0ad3602",
+      "text": "Git başımdan!"
+    },
+    {
+      "id": "6164573f",
+      "bank_id": "b0ad3602",
+      "text": "Beni yalnız bırak."
+    },
+    {
+      "id": "67867e98",
+      "bank_id": "b0ad3602",
+      "text": "Peşinden gelmek mi? Senden hoşlanmıyorum bile."
+    },
+    {
+      "id": "67867e99",
+      "bank_id": "b0ad3602",
+      "text": "Şaka yapıyorsun değil mi? Peşinden gelmeme imkân yok."
+    },
+    {
+      "id": "67867e9a",
+      "bank_id": "b0ad3602",
+      "text": "Seninle gitmek istediğim hiçbir yer yok."
+    },
+    {
+      "id": "67867e9b",
+      "bank_id": "b0ad3602",
+      "text": "Beni eğitilmiş bir hayvanla karıştırdın herhalde."
+    },
+    {
+      "id": "67867e9c",
+      "bank_id": "b0ad3602",
+      "text": "Bir yaban sıçanının peşinden giderim daha iyi."
+    },
+    {
+      "id": "67867e9e",
+      "bank_id": "b0ad3602",
+      "text": "Peşinden gelecek başka birini bul."
+    },
+    {
+      "id": "67867e9f",
+      "bank_id": "b0ad3602",
+      "text": "Neden senin peşinden geleyim ki?"
+    },
+    {
+      "id": "6c7da020",
+      "bank_id": "b0ad3602",
+      "text": "En çılgın düşlerinizin ötesindeki oyunlarla hayatınızı değiştirin."
+    },
+    {
+      "id": "6c7da023",
+      "bank_id": "b0ad3602",
+      "text": "Yeni bir bağımlılık mı arıyorsunuz? Benim oyunumu deneyin!"
+    },
+    {
+      "id": "6c7da026",
+      "bank_id": "b0ad3602",
+      "text": "Bir şans verin. Çok eğlenceli!"
+    },
+    {
+      "id": "79623448",
+      "bank_id": "b0ad3602",
+      "text": "Vaktinizi birayla harcamayın, bir el Kilit Taşı oyunuyla oranlara doyun."
+    },
+    {
+      "id": "7a5ba5d0",
+      "bank_id": "b0ad3602",
+      "text": "Zararsız bir kumarla eğlenin bakalım!"
+    },
+    {
+      "id": "7a5ba5d3",
+      "bank_id": "b0ad3602",
+      "text": "Memnuniyet garantili! Altın ise... biraz daha az garantili."
+    },
+    {
+      "id": "7a5ba5d5",
+      "bank_id": "b0ad3602",
+      "text": "Bırakın talih perisi bugün yüzünüze gülsün!"
+    },
+    {
+      "id": "7ac6db40",
+      "bank_id": "b0ad3602",
+      "text": "Gidin buradan!"
+    },
+    {
+      "id": "7ac6db43",
+      "bank_id": "b0ad3602",
+      "text": "İmkânı yok!"
+    },
+    {
+      "id": "7ac6db46",
+      "bank_id": "b0ad3602",
+      "text": "Bırak bu işleri."
+    },
+    {
+      "id": "8ab04dae",
+      "bank_id": "b0ad3602",
+      "text": "Arkadaşlarımla oynamak istiyorum. Görüşürüz."
+    },
+    {
+      "id": "8c33ac71",
+      "bank_id": "b0ad3602",
+      "text": "Senin omurganla bir oyun oynamama ne dersin?"
+    },
+    {
+      "id": "8c33ac72",
+      "bank_id": "b0ad3602",
+      "text": "Hayır kurumu gibi mi duruyorum oradan bakınca?"
+    },
+    {
+      "id": "8c33ac77",
+      "bank_id": "b0ad3602",
+      "text": "Çeneni kapatmazsan dişlerinin ağzında fazla kalmayacağına bahse girerim."
+    },
+    {
+      "id": "92e2db9e",
+      "bank_id": "b0ad3602",
+      "text": "Burada kalıyorum ben."
+    },
+    {
+      "id": "93b05bfb",
+      "bank_id": "b0ad3602",
+      "text": "Yürümekten yoruldum. Bay bay."
+    },
+    {
+      "id": "9be2e9eb",
+      "bank_id": "b0ad3602",
+      "text": "Hayır!"
+    },
+    {
+      "id": "9ce00a7a",
+      "bank_id": "b0ad3602",
+      "text": "Öldükten sonra ne olduğunu hiç merak ediyor musun? Senin gibi biri hiç ölmeyeceğini sanıyordur gerçi."
+    },
+    {
+      "id": "9ce00a7b",
+      "bank_id": "b0ad3602",
+      "text": "Konuşmayı pek sevmiyorsun değil mi? Gerçi kendini yeterince ifade ediyorsun zaten."
+    },
+    {
+      "id": "9ce00a7c",
+      "bank_id": "b0ad3602",
+      "text": "Bir keresinde kör bir kadına fal baktırmıştım. Tek bir şeyi bile doğru bilemedi."
+    },
+    {
+      "id": "9ce00a7d",
+      "bank_id": "b0ad3602",
+      "text": "Bu yeni Tapınaklar da neyin nesi böyle? Bir keresinde yatağımın altında gölgeye tapan pis bir keşiş bulmuştum. Kaçık herif."
+    },
+    {
+      "id": "9ce00a7e",
+      "bank_id": "b0ad3602",
+      "text": "Beni şaşırtmaktan asla geri durmayan bir şey de tarihi belgelerimizdeki tutarsızlıklar. Bazen bilginlerin her şeyi uydurduğunu düşünüyorum!"
+    },
+    {
+      "id": "9ce00a7f",
+      "bank_id": "b0ad3602",
+      "text": "Bazı insanların kendileri için çalışmana izin vermeden önce ün kazanmanda ısrar etmesi son derece can sıkıcı olmalı. Öyle değil mi?"
+    },
+    {
+      "id": "9d44dd10",
+      "bank_id": "b0ad3602",
+      "text": "Neden bana söylediğin şeyi yapacakmışım ki? Eve gidiyorum ben."
+    },
+    {
+      "id": "9d44dd11",
+      "bank_id": "b0ad3602",
+      "text": "Neden senin peşinden geleyim ki?"
+    },
+    {
+      "id": "9d44dd13",
+      "bank_id": "b0ad3602",
+      "text": "Artık beni korkutamıyorsun. Eve gidiyorum."
+    },
+    {
+      "id": "9d44dd14",
+      "bank_id": "b0ad3602",
+      "text": "Peşinden gelmeme hiç gerek yok!"
+    },
+    {
+      "id": "9d44dd15",
+      "bank_id": "b0ad3602",
+      "text": "Senden korkmam için artık hiçbir sebep göremiyorum. Evime döneceğim."
+    },
+    {
+      "id": "9d44dd16",
+      "bank_id": "b0ad3602",
+      "text": "Artık senden korkmuyorum."
+    },
+    {
+      "id": "9d44dd17",
+      "bank_id": "b0ad3602",
+      "text": "Senden korkmuyorum ben. Gidiyorum."
+    },
+    {
+      "id": "a3422e79",
+      "bank_id": "b0ad3602",
+      "text": "Hazine ararken neden hayatınızı tehlikeye atasınız ki? Onun yerine bir oyun oynayın!"
+    },
+    {
+      "id": "a3422e7a",
+      "bank_id": "b0ad3602",
+      "text": "Tamamen yasal kumarla kolay yoldan zengin olun!"
+    },
+    {
+      "id": "a3422e7c",
+      "bank_id": "b0ad3602",
+      "text": "Oyunlar sadece kaybedenler için değildir."
+    },
+    {
+      "id": "a444e810",
+      "bank_id": "b0ad3602",
+      "text": "Senden neden korkacakmışım ki? Gidiyorum ben."
+    },
+    {
+      "id": "a444e811",
+      "bank_id": "b0ad3602",
+      "text": "Daha fazla peşinden gelmem için hiçbir neden göremiyorum."
+    },
+    {
+      "id": "a444e812",
+      "bank_id": "b0ad3602",
+      "text": "Neden senin peşinden gelecekmişim ki zaten? Eve gidiyorum ben."
+    },
+    {
+      "id": "a444e813",
+      "bank_id": "b0ad3602",
+      "text": "Vaktiyle senden korktuğuma inanamıyorum."
+    },
+    {
+      "id": "a444e814",
+      "bank_id": "b0ad3602",
+      "text": "Peşinden neden geldiğimi hiç bilmiyorum. O kadar korkutucu bile değilsin."
+    },
+    {
+      "id": "a444e815",
+      "bank_id": "b0ad3602",
+      "text": "O kadar da korkutucu değilsin. Ben kaçtım."
+    },
+    {
+      "id": "a444e816",
+      "bank_id": "b0ad3602",
+      "text": "Sonuçta o kadar da korkutucu biri değilmişsin. Ben gidiyorum buradan."
+    },
+    {
+      "id": "aa45bb91",
+      "bank_id": "b0ad3602",
+      "text": "Ne? İmkânı yok!"
+    },
+    {
+      "id": "aa45bb94",
+      "bank_id": "b0ad3602",
+      "text": "Hayır. Git başımdan."
+    },
+    {
+      "id": "aa45bb97",
+      "bank_id": "b0ad3602",
+      "text": "Ne sandın? Hayır tabii ki!"
+    },
+    {
+      "id": "bb9641a1",
+      "bank_id": "b0ad3602",
+      "text": "Paranızı yiyeceğe harcamayın! Bana verin!"
+    },
+    {
+      "id": "bb9641a2",
+      "bank_id": "b0ad3602",
+      "text": "Sorunlarınızdan uzaklaşmaya mı ihtiyacınız var? Çaresi bende!"
+    },
+    {
+      "id": "bb9641a7",
+      "bank_id": "b0ad3602",
+      "text": "Muhteşem oyunlarımla vakit geçirin!"
+    },
+    {
+      "id": "bdec4000",
+      "bank_id": "b0ad3602",
+      "text": "Albion'daki en harika oyun bu! Yani, bayağı iyi en azından."
+    },
+    {
+      "id": "bdec4003",
+      "bank_id": "b0ad3602",
+      "text": "Kasabadaki en muazzam oyunlarla kolay para kazanın hanımlar ve beyler."
+    },
+    {
+      "id": "bdec4005",
+      "bank_id": "b0ad3602",
+      "text": "Gelin buraya ve gerçek oyunlar oynayın!"
+    },
+    {
+      "id": "bf723a90",
+      "bank_id": "b0ad3602",
+      "text": "Benimle dalga mı geçiyorsun?"
+    },
+    {
+      "id": "bf723a93",
+      "bank_id": "b0ad3602",
+      "text": "Şaka yapıyorsun değil mi?"
+    },
+    {
+      "id": "bf723a96",
+      "bank_id": "b0ad3602",
+      "text": "Kafa mı buluyorsun sen?"
+    },
+    {
+      "id": "c2820188",
+      "bank_id": "b0ad3602",
+      "text": "Altınınızı dilek kuyusuna atmayın. Şahane oyunlarıma yatırın!"
+    },
+    {
+      "id": "c282018d",
+      "bank_id": "b0ad3602",
+      "text": "Oyunlar! Oyunlar! Ama çocukların oynadığı türden değil!"
+    },
+    {
+      "id": "c282018e",
+      "bank_id": "b0ad3602",
+      "text": "Oyunumun yeni sürümünü deneyin! Orijinalinden bile daha iyi!"
+    },
+    {
+      "id": "c9bca5a0",
+      "bank_id": "b0ad3602",
+      "text": "Vaktimi boşa harcama."
+    },
+    {
+      "id": "c9bca5a3",
+      "bank_id": "b0ad3602",
+      "text": "Git de başkasını rahatsız et."
+    },
+    {
+      "id": "c9bca5a5",
+      "bank_id": "b0ad3602",
+      "text": "Vaktimi harcıyorsun."
+    },
+    {
+      "id": "ca72f5aa",
+      "bank_id": "b0ad3602",
+      "text": "Herkesin oynadığı oyun bu! Sen de oynasana?"
+    },
+    {
+      "id": "ca72f5ac",
+      "bank_id": "b0ad3602",
+      "text": "Fakirlikten zenginliğe geçin! Ama oynayamayacak kadar da fakir olmayın tabii!"
+    },
+    {
+      "id": "ca72f5af",
+      "bank_id": "b0ad3602",
+      "text": "Zekice bir oyunla stratejilerinizi bileyin!"
+    },
+    {
+      "id": "cac55478",
+      "bank_id": "b0ad3602",
+      "text": "Güzel bir oyunla kafanızı korkunç dünya olaylarından uzaklaştırın!"
+    },
+    {
+      "id": "cac5547b",
+      "bank_id": "b0ad3602",
+      "text": "Bu oyunları oynamadan kumarın tadını almış sayılmazsınız!"
+    },
+    {
+      "id": "cac5547d",
+      "bank_id": "b0ad3602",
+      "text": "Hayatınıza anlam katmanın tek yolu bira değildir. Oyun oynayın!"
+    },
+    {
+      "id": "ceb535e8",
+      "bank_id": "b0ad3602",
+      "text": "Buna daha fazla katlanabileceğimi sanmıyorum."
+    },
+    {
+      "id": "ceb535ea",
+      "bank_id": "b0ad3602",
+      "text": "Vaktimi geçirecek daha iyi yollar olmalı."
+    },
+    {
+      "id": "ceb535eb",
+      "bank_id": "b0ad3602",
+      "text": "Gerçekten ayrılmam gerek artık!"
+    },
+    {
+      "id": "ceb535ec",
+      "bank_id": "b0ad3602",
+      "text": "Burada vaktimi ziyan ediyorum."
+    },
+    {
+      "id": "ceb535ed",
+      "bank_id": "b0ad3602",
+      "text": "Ayaklarım koptu vallahi. Ben kaçtım."
+    },
+    {
+      "id": "ceb535ee",
+      "bank_id": "b0ad3602",
+      "text": "Çok affedersiniz ama acilen kaçmam gerek."
+    },
+    {
+      "id": "ceb535ef",
+      "bank_id": "b0ad3602",
+      "text": "Sanırım yıkanıp paklanma vaktim geldi."
+    },
+    {
+      "id": "d3b53d89",
+      "bank_id": "b0ad3602",
+      "text": "Sıkıldım artık."
+    },
+    {
+      "id": "d3b53d8a",
+      "bank_id": "b0ad3602",
+      "text": "Çok önemli bir randevum olduğunu hatırladım az önce!"
+    },
+    {
+      "id": "d3b53d8b",
+      "bank_id": "b0ad3602",
+      "text": "Ocağı açık unuttum galiba."
+    },
+    {
+      "id": "d3b53d8c",
+      "bank_id": "b0ad3602",
+      "text": "Peşinde dolanmaktan gına geldi artık."
+    },
+    {
+      "id": "d3b53d8d",
+      "bank_id": "b0ad3602",
+      "text": "Şöyle yapalım: Oraya vardığında bana bir kartpostal yollarsın."
+    },
+    {
+      "id": "d3b53d8e",
+      "bank_id": "b0ad3602",
+      "text": "Bu maskaralığa devam etmeyi reddediyorum."
+    },
+    {
+      "id": "d3b53d8f",
+      "bank_id": "b0ad3602",
+      "text": "Tiyatro biletim var ve perde her an açılabilir."
+    },
+    {
+      "id": "dd49bf21",
+      "bank_id": "b0ad3602",
+      "text": "Korkmuyorum artık senden. Eve gidiyorum."
+    },
+    {
+      "id": "e4d5c950",
+      "bank_id": "b0ad3602",
+      "text": "Uff! Ayakkabıma taş kaçtı galiba."
+    },
+    {
+      "id": "e4d5c951",
+      "bank_id": "b0ad3602",
+      "text": "Son 500 yıldır dünyanın büyük bir kötülük tarafından tehdit edilmediğinin farkında mısın?"
+    },
+    {
+      "id": "e4d5c953",
+      "bank_id": "b0ad3602",
+      "text": "Yürümeye devam et, sadece yürümeye devam et..."
+    },
+    {
+      "id": "e4d5c954",
+      "bank_id": "b0ad3602",
+      "text": "Bu diyardaki onca arabaya rağmen yollarda neredeyse hiç at gübresi bulunmaması ne kadar olağanüstü değil mi?"
+    },
+    {
+      "id": "e4d5c955",
+      "bank_id": "b0ad3602",
+      "text": "Yakında durabilir miyiz? Burnuma pudra sürmeye fena halde ihtiyacım var. Aman boş ver."
+    },
+    {
+      "id": "e4d5c956",
+      "bank_id": "b0ad3602",
+      "text": "Şu Thag denen herif nasıldı peki?"
+    },
+    {
+      "id": "e4d5c957",
+      "bank_id": "b0ad3602",
+      "text": "Hep bir haydut karısı olmak istemiştim. Ta ki o heriflerden biriyle tanışana kadar."
+    },
+    {
+      "id": "e849d050",
+      "bank_id": "b0ad3602",
+      "text": "Peh, artık korkutmuyorsun beni."
+    },
+    {
+      "id": "ebd5d450",
+      "bank_id": "b0ad3602",
+      "text": "Umarım bu gezintinin bir amacı vardır."
+    },
+    {
+      "id": "ebd5d451",
+      "bank_id": "b0ad3602",
+      "text": "Bunca yürüyüş şu yaşlı bacaklarıma biraz fazla geldi."
+    },
+    {
+      "id": "ebd5d452",
+      "bank_id": "b0ad3602",
+      "text": "Biz sıradan halk neden hiç büyü kullanamıyoruz acaba? Resmen ayrımcılık bu."
+    },
+    {
+      "id": "ebd5d453",
+      "bank_id": "b0ad3602",
+      "text": "Tak tak. Kim o? Tak tak. Tak tak kim? Dur bir dakika, öyle değildi bu fıkra."
+    },
+    {
+      "id": "ebd5d454",
+      "bank_id": "b0ad3602",
+      "text": "Ayaklarım sızlamaya başladı. Böyle ayakkabılarla çok bile dayandı."
+    },
+    {
+      "id": "ebd5d455",
+      "bank_id": "b0ad3602",
+      "text": "Peynir sever misin? Ben bayılırım peynire. Şöyle lezzetli bir peynir."
+    },
+    {
+      "id": "ebd5d456",
+      "bank_id": "b0ad3602",
+      "text": "Bir gün kendi dükkânım olacak benim de."
+    },
+    {
+      "id": "f237f853",
+      "bank_id": "b0ad3602",
+      "text": "Oyunumu yenecek yeteneğin var mı?"
+    },
+    {
+      "id": "f237f855",
+      "bank_id": "b0ad3602",
+      "text": "Daha önce böyle bir oyun görmediniz! Daha önce oynamadıysanız tabii!"
+    },
+    {
+      "id": "f237f856",
+      "bank_id": "b0ad3602",
+      "text": "Şansınızı deneyin!"
+    },
+    {
+      "id": "fb44fbb8",
+      "bank_id": "b0ad3602",
+      "text": "Bu uğraştan sıkıldım artık. Yeni kadife eldivenlerim hazır mı acaba."
+    },
+    {
+      "id": "fb44fbb9",
+      "bank_id": "b0ad3602",
+      "text": "Bu çok küçük düşürücü! Elveda!"
+    },
+    {
+      "id": "fb44fbba",
+      "bank_id": "b0ad3602",
+      "text": "Gına geldi artık bundan."
+    },
+    {
+      "id": "fb44fbbb",
+      "bank_id": "b0ad3602",
+      "text": "Buna daha fazla katlanmayacağım!"
+    },
+    {
+      "id": "fb44fbbc",
+      "bank_id": "b0ad3602",
+      "text": "Ben kaçtım. Yetti artık."
+    },
+    {
+      "id": "fb44fbbd",
+      "bank_id": "b0ad3602",
+      "text": "Bu bana göre değil. Gidiyorum ben!"
+    },
+    {
+      "id": "fb44fbbe",
+      "bank_id": "b0ad3602",
+      "text": "Kusura bakma, gitmem gerek!"
+    }
+  ]
+}

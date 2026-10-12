@@ -1,0 +1,886 @@
+{
+  "bank_id": "704d2802",
+  "total_strings": 176,
+  "strings": [
+    {
+      "id": "00203072",
+      "bank_id": "704d2802",
+      "text": "Onun gibi bir ahlaksızlık abidesi gördünüz mü hiç?"
+    },
+    {
+      "id": "00203079",
+      "bank_id": "704d2802",
+      "text": "Onun gibi bir ahlaksızlık abidesi gördünüz mü hiç?"
+    },
+    {
+      "id": "0a2fb491",
+      "bank_id": "704d2802",
+      "text": "Buna gerçekten gerek var mı? Üstsüz gezmek hiç doğru değil."
+    },
+    {
+      "id": "0a2fb497",
+      "bank_id": "704d2802",
+      "text": "Keşke bu insanlar kıyafetlerinin HEPSİNİ giyse."
+    },
+    {
+      "id": "0c53bd94",
+      "bank_id": "704d2802",
+      "text": "Hayatımda gördüğüm en yoz adam bu."
+    },
+    {
+      "id": "0c53bd9f",
+      "bank_id": "704d2802",
+      "text": "Hayatımda gördüğüm en yoz kadın bu."
+    },
+    {
+      "id": "1085d780",
+      "bank_id": "704d2802",
+      "text": "Yine mi sen!"
+    },
+    {
+      "id": "1085d781",
+      "bank_id": "704d2802",
+      "text": "Artık senden gına geldi."
+    },
+    {
+      "id": "1085d783",
+      "bank_id": "704d2802",
+      "text": "Yetti artık senden çektiğim."
+    },
+    {
+      "id": "1085d784",
+      "bank_id": "704d2802",
+      "text": "Lütfen beni varlığınla rahatsız etme."
+    },
+    {
+      "id": "1085d785",
+      "bank_id": "704d2802",
+      "text": "Seninle konuşmak gibi bir arzum yok."
+    },
+    {
+      "id": "1085d786",
+      "bank_id": "704d2802",
+      "text": "Senin gibilerden ölümüne bıktım usandım."
+    },
+    {
+      "id": "1085d787",
+      "bank_id": "704d2802",
+      "text": "Tam bir baş belasısın!"
+    },
+    {
+      "id": "112fbf92",
+      "bank_id": "704d2802",
+      "text": "Bazılarının ortalıkta üstsüz gezmesini yasaklamalılar."
+    },
+    {
+      "id": "112fbf95",
+      "bank_id": "704d2802",
+      "text": "Bazı insanlar ortalıkta ne gösterdiklerini hiç umursamıyor."
+    },
+    {
+      "id": "14169e64",
+      "bank_id": "704d2802",
+      "text": "Etrafındaki havayı bile kirletiyor."
+    },
+    {
+      "id": "14169e6f",
+      "bank_id": "704d2802",
+      "text": "Etrafındaki havayı bile kirletiyor."
+    },
+    {
+      "id": "14caefb5",
+      "bank_id": "704d2802",
+      "text": "Bulaşmadığı rezillik kaldı mı acaba?"
+    },
+    {
+      "id": "14caefbe",
+      "bank_id": "704d2802",
+      "text": "Bulaşmadığı rezillik kaldı mı acaba?"
+    },
+    {
+      "id": "1785e280",
+      "bank_id": "704d2802",
+      "text": "Manzaranın ortasında kara bir lekesin. Lütfen gözümün önünden çekil."
+    },
+    {
+      "id": "1785e281",
+      "bank_id": "704d2802",
+      "text": "Vaktimi çalmazsanız sevinirim!"
+    },
+    {
+      "id": "1785e282",
+      "bank_id": "704d2802",
+      "text": "Lanet hobbe'ler... Sen!"
+    },
+    {
+      "id": "1785e283",
+      "bank_id": "704d2802",
+      "text": "Seninle bir daha asla karşılaşmamayı umuyordum."
+    },
+    {
+      "id": "1785e284",
+      "bank_id": "704d2802",
+      "text": "Beni rahatsız etmeyi kes!"
+    },
+    {
+      "id": "1785e285",
+      "bank_id": "704d2802",
+      "text": "Bana bir iyilik yap ve yolumdan çekil."
+    },
+    {
+      "id": "1785e286",
+      "bank_id": "704d2802",
+      "text": "Geçmek bilmeyen lanet bir baş ağrısı gibisin."
+    },
+    {
+      "id": "17c219e6",
+      "bank_id": "704d2802",
+      "text": "Ne kadar da yozlaşmış biri."
+    },
+    {
+      "id": "17c219e7",
+      "bank_id": "704d2802",
+      "text": "Şunda zerre kadar erdem yok gibi görünüyor."
+    },
+    {
+      "id": "2aa4a4e0",
+      "bank_id": "704d2802",
+      "text": "Sanırım pantolona pek ihtiyacın yok!"
+    },
+    {
+      "id": "2aa4a4e2",
+      "bank_id": "704d2802",
+      "text": "Bacaklar da fena değilmiş hani!"
+    },
+    {
+      "id": "2aa4a4e6",
+      "bank_id": "704d2802",
+      "text": "Pantolonsuz gezmen bütün gün gördüğüm en güzel şey."
+    },
+    {
+      "id": "3270a881",
+      "bank_id": "704d2802",
+      "text": "O pantolon göründüğü kadar rahat hissettiriyor mu acaba?"
+    },
+    {
+      "id": "3270a884",
+      "bank_id": "704d2802",
+      "text": "Pantolon dediğin işte böyle olur!"
+    },
+    {
+      "id": "33a4b2ca",
+      "bank_id": "704d2802",
+      "text": "Aman, pantolona kimin ihtiyacı var ki zaten."
+    },
+    {
+      "id": "33a4b2cd",
+      "bank_id": "704d2802",
+      "text": "Bana anlatma. Pişik yaptı, değil mi? Ne olduğunu iyi bilirim."
+    },
+    {
+      "id": "33a4b2cf",
+      "bank_id": "704d2802",
+      "text": "O bacaklar sende varken pantolona hiç gerek yok!"
+    },
+    {
+      "id": "3770b0a0",
+      "bank_id": "704d2802",
+      "text": "Şu pantolona bayılmadın mı sen de?"
+    },
+    {
+      "id": "3770b0a6",
+      "bank_id": "704d2802",
+      "text": "O pantolonu hangi terzi dikti acaba? Harika görünüyor."
+    },
+    {
+      "id": "40135930",
+      "bank_id": "704d2802",
+      "text": "Üstüne bir şey giymek istemiyor musun? Bana uyar."
+    },
+    {
+      "id": "40135934",
+      "bank_id": "704d2802",
+      "text": "Aynen öyle, üstlüğe kimin ihtiyacı var ki?"
+    },
+    {
+      "id": "40135936",
+      "bank_id": "704d2802",
+      "text": "Güzel vücut!"
+    },
+    {
+      "id": "4490610b",
+      "bank_id": "704d2802",
+      "text": "Bacaklarını ört, hobbe aşkına."
+    },
+    {
+      "id": "4490610d",
+      "bank_id": "704d2802",
+      "text": "Bu kadarı da edepsizlik ama!"
+    },
+    {
+      "id": "4490610e",
+      "bank_id": "704d2802",
+      "text": "Üstüne bir pantolon giysene sen."
+    },
+    {
+      "id": "451360d1",
+      "bank_id": "704d2802",
+      "text": "Varsa göstereceksin, değil mi?"
+    },
+    {
+      "id": "451360d5",
+      "bank_id": "704d2802",
+      "text": "Güzel görünüyorsun!"
+    },
+    {
+      "id": "451360d6",
+      "bank_id": "704d2802",
+      "text": "Harika görünmek için bir üstlüğe ihtiyacın yok."
+    },
+    {
+      "id": "4941c393",
+      "bank_id": "704d2802",
+      "text": "Onu hayatı dibine kadar yaşamamakla suçlayamazsın."
+    },
+    {
+      "id": "4941c398",
+      "bank_id": "704d2802",
+      "text": "Onu hayatı dibine kadar yaşamamakla suçlayamazsın."
+    },
+    {
+      "id": "4a374a7a",
+      "bank_id": "704d2802",
+      "text": "Tavsiye ister misin? Pantolonunu başkası seçsin."
+    },
+    {
+      "id": "4a374a7d",
+      "bank_id": "704d2802",
+      "text": "O pantolonu yanlışlıkla mı giydin sen?"
+    },
+    {
+      "id": "4a374a7e",
+      "bank_id": "704d2802",
+      "text": "Çıkar şu pantolonu! İğrenç görünüyor!"
+    },
+    {
+      "id": "4ad01c28",
+      "bank_id": "704d2802",
+      "text": "Harika dövme!"
+    },
+    {
+      "id": "4ad01c2a",
+      "bank_id": "704d2802",
+      "text": "Vay canına, o dövmeyle yürüyen bir müze gibisin."
+    },
+    {
+      "id": "4ad01c2c",
+      "bank_id": "704d2802",
+      "text": "Dövmene bayıldım doğrusu."
+    },
+    {
+      "id": "4c3fa2d7",
+      "bank_id": "704d2802",
+      "text": "Ahlaksızın teki. Bakınca anlaşılıyor."
+    },
+    {
+      "id": "4c3fa2dc",
+      "bank_id": "704d2802",
+      "text": "Ahlaksızın teki. Bakınca anlaşılıyor."
+    },
+    {
+      "id": "4d906f58",
+      "bank_id": "704d2802",
+      "text": "Hey, çoğumuzun hâlâ pantolon giymesinin bir sebebi var!"
+    },
+    {
+      "id": "4d906f59",
+      "bank_id": "704d2802",
+      "text": "Bir bakar mısın? Az önce yemek yedim. Bacaklarını hiç göresim yok."
+    },
+    {
+      "id": "4d906f5f",
+      "bank_id": "704d2802",
+      "text": "Git kendine bir pantolon al, olur mu?"
+    },
+    {
+      "id": "4fd023c9",
+      "bank_id": "704d2802",
+      "text": "Normalde dövmelerden pek hoşlanmam ama seninkini sevdim."
+    },
+    {
+      "id": "4fd023ca",
+      "bank_id": "704d2802",
+      "text": "Ne kadar güzel bir dövme."
+    },
+    {
+      "id": "4fd023cd",
+      "bank_id": "704d2802",
+      "text": "Fiyakalı dövme!"
+    },
+    {
+      "id": "508ab991",
+      "bank_id": "704d2802",
+      "text": "Senden hoşlanmıyorum!"
+    },
+    {
+      "id": "53375849",
+      "bank_id": "704d2802",
+      "text": "Hmm, diğer pantolonun kuru temizlemede mi kaldı?"
+    },
+    {
+      "id": "5337584b",
+      "bank_id": "704d2802",
+      "text": "O pantolonu giyerken aklından ne geçiyordu acaba?"
+    },
+    {
+      "id": "5337584e",
+      "bank_id": "704d2802",
+      "text": "O aptal pantolonu sana ne giydirdi öyle?"
+    },
+    {
+      "id": "54068222",
+      "bank_id": "704d2802",
+      "text": "Ben de onun gibi bir dövme yaptırmayı düşünüyorum."
+    },
+    {
+      "id": "54068224",
+      "bank_id": "704d2802",
+      "text": "Sanırım benim de öyle bir dövmeye ihtiyacım var."
+    },
+    {
+      "id": "57e148e2",
+      "bank_id": "704d2802",
+      "text": "Bana sorarsan Albion'daki en yozlaşmış adam o."
+    },
+    {
+      "id": "57e148e9",
+      "bank_id": "704d2802",
+      "text": "Bana sorarsan Albion'daki en yozlaşmış kadın o."
+    },
+    {
+      "id": "5f069352",
+      "bank_id": "704d2802",
+      "text": "Sana bahsettiğim dövme işte bu. Güzel, değil mi?"
+    },
+    {
+      "id": "5f069355",
+      "bank_id": "704d2802",
+      "text": "O dövmede ne var bilmiyorum ama gözümü alamıyorum."
+    },
+    {
+      "id": "5f1b4603",
+      "bank_id": "704d2802",
+      "text": "Hayatı dibine kadar yaşıyor, değil mi? Sonuçlarını pek umursamadığı kesin."
+    },
+    {
+      "id": "5f1b4608",
+      "bank_id": "704d2802",
+      "text": "Hayatı dibine kadar yaşıyor, değil mi? Sonuçlarını pek umursamadığı kesin."
+    },
+    {
+      "id": "69236f28",
+      "bank_id": "704d2802",
+      "text": "Ortalıkta pantolonsuz gezmek iğrenç bir alışkanlık."
+    },
+    {
+      "id": "69236f2d",
+      "bank_id": "704d2802",
+      "text": "Bir insan nasıl pantolonsuz dolaşabilir? Hele o bacaklarla."
+    },
+    {
+      "id": "6a424f55",
+      "bank_id": "704d2802",
+      "text": "Görebileceğin en yozlaşmış kadınlardan biri."
+    },
+    {
+      "id": "6a424f5e",
+      "bank_id": "704d2802",
+      "text": "Görebileceğin en yozlaşmış adamlardan biri."
+    },
+    {
+      "id": "6e2376cb",
+      "bank_id": "704d2802",
+      "text": "İnsanlar pantolon giymedikleri için tutuklanmalı."
+    },
+    {
+      "id": "6e2376cd",
+      "bank_id": "704d2802",
+      "text": "Kanunlar bu pantolonsuz serserilere karşı bir şey yapmalı değil mi?"
+    },
+    {
+      "id": "6e670de5",
+      "bank_id": "704d2802",
+      "text": "Hiç bu kadar günaha batmış bir adam görmüş müydün?"
+    },
+    {
+      "id": "6e670dee",
+      "bank_id": "704d2802",
+      "text": "Hiç bu kadar günaha batmış bir kadın görmüş müydün?"
+    },
+    {
+      "id": "6f0cb410",
+      "bank_id": "704d2802",
+      "text": "Bir pantolonu nasıl taşıyacağını kesinlikle biliyorsun."
+    },
+    {
+      "id": "6f0cb412",
+      "bank_id": "704d2802",
+      "text": "Güzel pantolon."
+    },
+    {
+      "id": "6f0cb416",
+      "bank_id": "704d2802",
+      "text": "Hey, o pantolon pek bir hoşmuş. Nereden aldın?"
+    },
+    {
+      "id": "780cc27b",
+      "bank_id": "704d2802",
+      "text": "Şu pantolon bir harika."
+    },
+    {
+      "id": "780cc27c",
+      "bank_id": "704d2802",
+      "text": "Pantolonuna bayıldım!"
+    },
+    {
+      "id": "780cc27d",
+      "bank_id": "704d2802",
+      "text": "O pantolon rahat görünüyor. Şık da üstelik."
+    },
+    {
+      "id": "81cb4f12",
+      "bank_id": "704d2802",
+      "text": "Belli ki bedeniyle ne yaptığı pek umurunda değil. İnsanlar da öyle."
+    },
+    {
+      "id": "81cb4f19",
+      "bank_id": "704d2802",
+      "text": "Belli ki bedeniyle ne yaptığı pek umurunda değil. İnsanlar da öyle."
+    },
+    {
+      "id": "81ee82f6",
+      "bank_id": "704d2802",
+      "text": "Alem yapmaktan epey hoşlandığı belli."
+    },
+    {
+      "id": "81ee82fd",
+      "bank_id": "704d2802",
+      "text": "Alem yapmaktan epey hoşlandığı belli."
+    },
+    {
+      "id": "87e773f9",
+      "bank_id": "704d2802",
+      "text": "Her zaman böyle süslü üstlükler mi giyersin?"
+    },
+    {
+      "id": "87e773fd",
+      "bank_id": "704d2802",
+      "text": "Güzel bir üstlük!"
+    },
+    {
+      "id": "87e773ff",
+      "bank_id": "704d2802",
+      "text": "O üstlüğü nereden aldın? Güzel görünüyor."
+    },
+    {
+      "id": "898e2fd0",
+      "bank_id": "704d2802",
+      "text": "Tam bir şehvet düşkünü."
+    },
+    {
+      "id": "898e2fdb",
+      "bank_id": "704d2802",
+      "text": "Tam bir şehvet düşkünü."
+    },
+    {
+      "id": "8bd85746",
+      "bank_id": "704d2802",
+      "text": "Her türlü günaha balıklama atlıyor."
+    },
+    {
+      "id": "8bd8574d",
+      "bank_id": "704d2802",
+      "text": "Her türlü günaha balıklama atlıyor."
+    },
+    {
+      "id": "92b7ac1b",
+      "bank_id": "704d2802",
+      "text": "Hey, buranın senin köşen olduğuna emin misin?"
+    },
+    {
+      "id": "92b7ac1c",
+      "bank_id": "704d2802",
+      "text": "Yaptığın işten utanmıyor musun sen?"
+    },
+    {
+      "id": "92e78528",
+      "bank_id": "704d2802",
+      "text": "İnsan böyle bir üstlükle gömülse gam yemez."
+    },
+    {
+      "id": "92e7852c",
+      "bank_id": "704d2802",
+      "text": "İşte üstlük dediğin böyle olur!"
+    },
+    {
+      "id": "92e7852f",
+      "bank_id": "704d2802",
+      "text": "O üstlükle harika görünüyorsun."
+    },
+    {
+      "id": "94cf4ef2",
+      "bank_id": "704d2802",
+      "text": "Mevcut her türlü ahlaksızlığın tadını çıkarır o."
+    },
+    {
+      "id": "94cf4ef9",
+      "bank_id": "704d2802",
+      "text": "Mevcut her türlü ahlaksızlığın tadını çıkarır o."
+    },
+    {
+      "id": "95523eb1",
+      "bank_id": "704d2802",
+      "text": "Örtün biraz lütfen. Üstüne bir şey alacak paran vardır herhalde."
+    },
+    {
+      "id": "95523eb2",
+      "bank_id": "704d2802",
+      "text": "Üstlükleri icat etmemizin bir sebebi var. Şimdi git bir tane giy."
+    },
+    {
+      "id": "95523eb7",
+      "bank_id": "704d2802",
+      "text": "Üstüne bir şey giy!"
+    },
+    {
+      "id": "9b54fa30",
+      "bank_id": "704d2802",
+      "text": "İçinde zerre kadar masumiyet kalmamış."
+    },
+    {
+      "id": "9b54fa3b",
+      "bank_id": "704d2802",
+      "text": "İçinde zerre kadar masumiyet kalmamış."
+    },
+    {
+      "id": "9bb7ba69",
+      "bank_id": "704d2802",
+      "text": "Vay, merhaba tatlım, şöyle bir yuvarlanmak ister... Hey! Affedersiniz. Başkasıyla karıştırdım."
+    },
+    {
+      "id": "9bb7ba6b",
+      "bank_id": "704d2802",
+      "text": "Kaça? Dur bir dakika, sen o... ah, saat kaç olmuş öyle?"
+    },
+    {
+      "id": "9bb7ba6f",
+      "bank_id": "704d2802",
+      "text": "Arkadaşlık mı arıyorsun? Ha, tamam. Sen o sektörde değilsin, değil mi? Beni bile kandırabilirdin."
+    },
+    {
+      "id": "9e524c9a",
+      "bank_id": "704d2802",
+      "text": "Kapat şu çirkin göbeğini bir bez parçasıyla!"
+    },
+    {
+      "id": "9e524c9d",
+      "bank_id": "704d2802",
+      "text": "Lütfen biraz örtünemez misin?"
+    },
+    {
+      "id": "9e524c9f",
+      "bank_id": "704d2802",
+      "text": "Hepimiz senin çıplak göğsünü görmek istemiyoruz biliyorsun."
+    },
+    {
+      "id": "9f56f3f4",
+      "bank_id": "704d2802",
+      "text": "Bu dünyanın kendisini yozlaştırmasına izin vermiş, yüzünden okunuyor."
+    },
+    {
+      "id": "9f56f3ff",
+      "bank_id": "704d2802",
+      "text": "Bu dünyanın kendisini yozlaştırmasına izin vermiş, yüzünden okunuyor."
+    },
+    {
+      "id": "a05fc7f1",
+      "bank_id": "704d2802",
+      "text": "Sanırım rüzgârı göğüslerinde hissetmeyi seviyorlar."
+    },
+    {
+      "id": "a05fc7f6",
+      "bank_id": "704d2802",
+      "text": "O kadar iyi görünüyorken üstlük giymeye gerek yok."
+    },
+    {
+      "id": "a1c48e01",
+      "bank_id": "704d2802",
+      "text": "O üstlük fena görünmüyor, değil mi?"
+    },
+    {
+      "id": "a1c48e07",
+      "bank_id": "704d2802",
+      "text": "O üstlüğü zengin birinin üstünden almış olmalı."
+    },
+    {
+      "id": "a55fcf90",
+      "bank_id": "704d2802",
+      "text": "Üstlüklerin gereksiz abartıldığını hep söylemişimdir."
+    },
+    {
+      "id": "a55fcf96",
+      "bank_id": "704d2802",
+      "text": "Üstsüz gezmenin üstüne yok."
+    },
+    {
+      "id": "aac49c6a",
+      "bank_id": "704d2802",
+      "text": "Şu Fairfax sosyetesinin giydiği süslü üstlüklerden değil mi o?"
+    },
+    {
+      "id": "aac49c6d",
+      "bank_id": "704d2802",
+      "text": "Herkesin giymesi gereken türden bir üstlük işte."
+    },
+    {
+      "id": "acef6278",
+      "bank_id": "704d2802",
+      "text": "Tek bir kişide bu kadar yozlaşma daha önce hiç görülmedi."
+    },
+    {
+      "id": "acef6279",
+      "bank_id": "704d2802",
+      "text": "Daha önce hiç bu kadar alçak birinin huzurunda bulunmamıştım."
+    },
+    {
+      "id": "af412181",
+      "bank_id": "704d2802",
+      "text": "O dövmenin gerçekten iyi bir fikir olduğunu mu düşündün?"
+    },
+    {
+      "id": "af412183",
+      "bank_id": "704d2802",
+      "text": "Öğğ, umarım o dövmeyi sildirebilirsin."
+    },
+    {
+      "id": "af412186",
+      "bank_id": "704d2802",
+      "text": "Benim büyüdüğüm yerde herkesin dövmesi vardı. Ama seninki gibi değil. Bu bildiğin çöp."
+    },
+    {
+      "id": "b492a524",
+      "bank_id": "704d2802",
+      "text": "Ahlaki çöküntünün bundan daha iyi bir örneğini bulamazsınız."
+    },
+    {
+      "id": "b492a52f",
+      "bank_id": "704d2802",
+      "text": "Ahlaki çöküntünün bundan daha iyi bir örneğini bulamazsınız."
+    },
+    {
+      "id": "b6412c83",
+      "bank_id": "704d2802",
+      "text": "Buna dövme mi diyorsun? Bildiğin paçavra."
+    },
+    {
+      "id": "b6412c85",
+      "bank_id": "704d2802",
+      "text": "Öğğ, ne kadar korkunç bir dövme!"
+    },
+    {
+      "id": "b6412c86",
+      "bank_id": "704d2802",
+      "text": "O dövme sana hiç ama hiç gitmemiş."
+    },
+    {
+      "id": "b66c7830",
+      "bank_id": "704d2802",
+      "text": "Belki yeni bir moda başlatıyorlardır. Ben de katılsam fena olmaz."
+    },
+    {
+      "id": "b66c7837",
+      "bank_id": "704d2802",
+      "text": "Hmm, belki ben de pantolonumu çıkarmalıyım."
+    },
+    {
+      "id": "b98ad241",
+      "bank_id": "704d2802",
+      "text": "O dövme kadar iğrenç bir şey gördünüz mü hiç?"
+    },
+    {
+      "id": "b98ad246",
+      "bank_id": "704d2802",
+      "text": "Dövme yaptırma zahmetine BUNUN için katlandığını düşünsene!"
+    },
+    {
+      "id": "bb6c7fd0",
+      "bank_id": "704d2802",
+      "text": "O bacaklar bende olsa ben de pantolonsuz gezerdim."
+    },
+    {
+      "id": "bb6c7fd6",
+      "bank_id": "704d2802",
+      "text": "Hmm, belki de pantolonsuzluk geleceğin modasıdır."
+    },
+    {
+      "id": "bd863da0",
+      "bank_id": "704d2802",
+      "text": "Her şeyin ferah ve serbest kalmasını seviyorsun, değil mi?"
+    },
+    {
+      "id": "bd863da7",
+      "bank_id": "704d2802",
+      "text": "Ha ha! Etek giymiş bir adam. İşte şimdi her şeyi gördüm."
+    },
+    {
+      "id": "c28ae0ab",
+      "bank_id": "704d2802",
+      "text": "Ölsem o dövmeyle dolaşmam."
+    },
+    {
+      "id": "c28ae0ad",
+      "bank_id": "704d2802",
+      "text": "O dövmeciye asla gitmezdim. İğrenç."
+    },
+    {
+      "id": "c335845a",
+      "bank_id": "704d2802",
+      "text": "O üstlüğü giymen gerektiğine emin misin? Gerçi sen bilirsin."
+    },
+    {
+      "id": "c335845d",
+      "bank_id": "704d2802",
+      "text": "O üstlük bazılarında güzel durabilir. Ama sende değil."
+    },
+    {
+      "id": "c6864b8a",
+      "bank_id": "704d2802",
+      "text": "Hey bayan, bize biraz bacak göstersene!"
+    },
+    {
+      "id": "c6864b8c",
+      "bank_id": "704d2802",
+      "text": "Ha ha! Etek giymiş!"
+    },
+    {
+      "id": "c6864b8d",
+      "bank_id": "704d2802",
+      "text": "Yeni bir moda mı başlatmaya çalışıyorsun? Valla aptal gibi görünüyorsun."
+    },
+    {
+      "id": "c6864b8f",
+      "bank_id": "704d2802",
+      "text": "Eteklerin kadınlar için olduğunu biliyorsun, değil mi? Öylesine sordum."
+    },
+    {
+      "id": "c8358c7a",
+      "bank_id": "704d2802",
+      "text": "Daha iyi bir üstlük bulamadın mı?"
+    },
+    {
+      "id": "c8358c7b",
+      "bank_id": "704d2802",
+      "text": "Dükkânlarda bundan daha güzel üstlükler vardır kesin."
+    },
+    {
+      "id": "c8358c7c",
+      "bank_id": "704d2802",
+      "text": "Bence üstsüz gezsen daha iyiydi."
+    },
+    {
+      "id": "d188e317",
+      "bank_id": "704d2802",
+      "text": "Duyduğuma göre her türlü ahlaksızlığa batmış."
+    },
+    {
+      "id": "d188e31c",
+      "bank_id": "704d2802",
+      "text": "Duyduğuma göre her türlü ahlaksızlığa batmış."
+    },
+    {
+      "id": "d3ca3225",
+      "bank_id": "704d2802",
+      "text": "Bahse girerim çılgın alemleri seviyordur."
+    },
+    {
+      "id": "d3ca322e",
+      "bank_id": "704d2802",
+      "text": "Bahse girerim çılgın alemleri seviyordur."
+    },
+    {
+      "id": "d765e190",
+      "bank_id": "704d2802",
+      "text": "Aşırılıktan nasıl da keyif alıyor öyle."
+    },
+    {
+      "id": "d765e19b",
+      "bank_id": "704d2802",
+      "text": "Aşırılıktan nasıl da keyif alıyor öyle."
+    },
+    {
+      "id": "e051308f",
+      "bank_id": "704d2802",
+      "text": "Vay canına, kıyafetlerine bakılırsa bir çeşit İrade kullanıcısı olmalısın."
+    },
+    {
+      "id": "ea039550",
+      "bank_id": "704d2802",
+      "text": "Tam bir hobbe'nin giyeceği türden bir üstlük."
+    },
+    {
+      "id": "ea039553",
+      "bank_id": "704d2802",
+      "text": "Işıklar kapalıyken giyinirsen işte böyle olur. Sonunda böyle bir üstlükle kalırsın."
+    },
+    {
+      "id": "ea039557",
+      "bank_id": "704d2802",
+      "text": "Hangi hobbe aklına uymuşlar? O üstlük berbat."
+    },
+    {
+      "id": "eb51423f",
+      "bank_id": "704d2802",
+      "text": "Harika bir şapka! Büyülü mü?"
+    },
+    {
+      "id": "f103a052",
+      "bank_id": "704d2802",
+      "text": "O üstlükle gözlerimizi kör etmeye mi çalışıyorlar ne?"
+    },
+    {
+      "id": "f103a056",
+      "bank_id": "704d2802",
+      "text": "O üstlük berbat. Akıllarından ne geçiyordu acaba?"
+    },
+    {
+      "id": "f2a6e7bb",
+      "bank_id": "704d2802",
+      "text": "O pantolonu bir iddia uğruna giyiyor olmalılar."
+    },
+    {
+      "id": "f2a6e7bc",
+      "bank_id": "704d2802",
+      "text": "O pantolonu giyeceğime bacaklarımı keserim daha iyi."
+    },
+    {
+      "id": "f7a6ef5b",
+      "bank_id": "704d2802",
+      "text": "Gördüğüm en iyi pantolon sayılmaz."
+    },
+    {
+      "id": "f7a6ef5c",
+      "bank_id": "704d2802",
+      "text": "O pantolonlar yasaklanmalı."
+    },
+    {
+      "id": "fef16dc5",
+      "bank_id": "704d2802",
+      "text": "Her türlü sapıklığı yapabilecek biri, bilesin."
+    },
+    {
+      "id": "fef16dce",
+      "bank_id": "704d2802",
+      "text": "Her türlü sapıklığı yapabilecek biri, bilesin."
+    }
+  ]
+}

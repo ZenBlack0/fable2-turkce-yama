@@ -1,0 +1,596 @@
+{
+  "bank_id": "f0af3602",
+  "total_strings": 118,
+  "strings": [
+    {
+      "id": "016f063e",
+      "bank_id": "f0af3602",
+      "text": "Görünüşe göre çırılçıplak hizmetkârların üzerinden çiğ balık yemek son moda olmuş. Bana sorarsanız son derece gayrisıhhi."
+    },
+    {
+      "id": "016f063f",
+      "bank_id": "f0af3602",
+      "text": "Yıldızları seyredebileyim diye tavanıma bir çatı penceresi taktırıyorum."
+    },
+    {
+      "id": "09ac1f6c",
+      "bank_id": "f0af3602",
+      "text": "Son zamanlarda hiç haydut gördün mü? Hepsi aşağılık pislik."
+    },
+    {
+      "id": "0be25a6a",
+      "bank_id": "f0af3602",
+      "text": "Ahh, bazen bu zenginlikten öyle sıkılıyorum ki. Bir gün hepsini dağıtacağım ve... Kimi kandırıyorum ben ya? Bayılıyorum buna!"
+    },
+    {
+      "id": "0be25a6b",
+      "bank_id": "f0af3602",
+      "text": "Hımm, bugün birkaç fakir satın alsam mı acaba? Ne de olsa çok fazla fakire asla sahip olunamaz sanırım."
+    },
+    {
+      "id": "16e26b9a",
+      "bank_id": "f0af3602",
+      "text": "Belki de bir davet vermeliyim. Eski Krallık kanepeleri ikram edebilirim!"
+    },
+    {
+      "id": "16e26b9b",
+      "bank_id": "f0af3602",
+      "text": "Balverine kürkü kabanımı almadan evden çıkmamalıydım, biliyordum. Üşütüyorum galiba."
+    },
+    {
+      "id": "1b46ffdd",
+      "bank_id": "f0af3602",
+      "text": "Kitap dükkânınızı ziyaret etmeyi düşünüp duruyordum."
+    },
+    {
+      "id": "1eba714d",
+      "bank_id": "f0af3602",
+      "text": "Büyükannem bir çiftçiydi. Koca gür bir sakalı vardı."
+    },
+    {
+      "id": "218dfc9f",
+      "bank_id": "f0af3602",
+      "text": "Mezarlık Bekçisi Malikânesi'nde gerçekten yaşamıyorsun, değil mi? Epey tüyler ürpertici olmalı."
+    },
+    {
+      "id": "2647110e",
+      "bank_id": "f0af3602",
+      "text": "Şu kitap dükkânının yeni sahibi siz değil misiniz?"
+    },
+    {
+      "id": "29ba82fc",
+      "bank_id": "f0af3602",
+      "text": "Çiftçi olabileceğimi hiç sanmıyorum. Bütün gün çalış, çalış, çalış."
+    },
+    {
+      "id": "2c8e0dcc",
+      "bank_id": "f0af3602",
+      "text": "Mezarlık Bekçisi malikânesinin bodrumu hakkında söylenenler doğru mu?"
+    },
+    {
+      "id": "3bcbd428",
+      "bank_id": "f0af3602",
+      "text": "Bu pantolonu dikmek için yalnızca altı hayvan türünün soyunun tükenmiş olmasına inanamıyorum. Yani kendimi o kadar ucuz hissediyorum ki."
+    },
+    {
+      "id": "3bcbd429",
+      "bank_id": "f0af3602",
+      "text": "Altın kesem beni yine aşağı çekiyor. Ah, insanlık namına!"
+    },
+    {
+      "id": "41006878",
+      "bank_id": "f0af3602",
+      "text": "Şaka yapmıyorum, bütün Albion'un sahibi olan kodaman ta kendisi."
+    },
+    {
+      "id": "41006879",
+      "bank_id": "f0af3602",
+      "text": "Her zaman tüm dünyanın sahibi olmanın hayalini kurardım - ve işte bu hayali gerçeğe dönüştüren biri geçiyor!"
+    },
+    {
+      "id": "4100687a",
+      "bank_id": "f0af3602",
+      "text": "Bir insan bütün bir ülkenin sahibi olmayı nasıl başarabilir ki? Bana sorarsan düpedüz yanlış bu."
+    },
+    {
+      "id": "4100687c",
+      "bank_id": "f0af3602",
+      "text": "İşte oradaki Albion'un en önemli insanı. Neredeyse bütün ülkenin sahibi!"
+    },
+    {
+      "id": "4100687d",
+      "bank_id": "f0af3602",
+      "text": "Albion'un her bir karışının sahibine bakın hele! Bir hükümdarımız olmayalı asırlar geçmişti!"
+    },
+    {
+      "id": "4100687e",
+      "bank_id": "f0af3602",
+      "text": "Albion'un sahibi geçiyor işte!"
+    },
+    {
+      "id": "44cbe27c",
+      "bank_id": "f0af3602",
+      "text": "Sanırım yeni bir hizmetçi tutma vaktim geldi. Yalnızca otuz iki tanesine sahip olmak geçen sezonun modasıydı."
+    },
+    {
+      "id": "44cbe27d",
+      "bank_id": "f0af3602",
+      "text": "Sanırım bu gece çocukların gözyaşlarıyla yıkanacağım. Cilt için öyle yenileyici ki!"
+    },
+    {
+      "id": "4a007648",
+      "bank_id": "f0af3602",
+      "text": "Ooo bakın, bakın! Bütün Albion'un hükümdarı!"
+    },
+    {
+      "id": "4a007649",
+      "bank_id": "f0af3602",
+      "text": "İşte bütün Albion'un efendisi!"
+    },
+    {
+      "id": "4a00764b",
+      "bank_id": "f0af3602",
+      "text": "Aman Tanrım! Bütün dünyadaki en önemli insan. Öyle heyecanlandım ki!"
+    },
+    {
+      "id": "4a00764c",
+      "bank_id": "f0af3602",
+      "text": "Vay canına, bütün Albion'un sahibi karşımızda!"
+    },
+    {
+      "id": "4a00764d",
+      "bank_id": "f0af3602",
+      "text": "Albion'un ev sahibi değil mi o? Tek bir insan için ne kadar çok güç ve mülk..."
+    },
+    {
+      "id": "4a00764e",
+      "bank_id": "f0af3602",
+      "text": "Vay be, Albion'un sahibi!"
+    },
+    {
+      "id": "4a00764f",
+      "bank_id": "f0af3602",
+      "text": "Bakın, yeni sahibimiz!"
+    },
+    {
+      "id": "52b8528b",
+      "bank_id": "f0af3602",
+      "text": "Ah, şey, Gölgeler Tapınağı'nın yeni başı bu..."
+    },
+    {
+      "id": "52b8528c",
+      "bank_id": "f0af3602",
+      "text": "İşte oradaki Gölgeler Tapınağı'nın sahibi."
+    },
+    {
+      "id": "57b85aa9",
+      "bank_id": "f0af3602",
+      "text": "Demek Gölgeler Tapınağı sahiden sizin ha?"
+    },
+    {
+      "id": "57b85aab",
+      "bank_id": "f0af3602",
+      "text": "Gölgeler Tapınağı'nın yeni lideri o değil mi?"
+    },
+    {
+      "id": "57b85aad",
+      "bank_id": "f0af3602",
+      "text": "Ah, şey, Gölgeler Tapınağı'nın yeni başı bu..."
+    },
+    {
+      "id": "68aa43e0",
+      "bank_id": "f0af3602",
+      "text": "Fairfax Kalesi'nin yeni sahibi geçiyor işte."
+    },
+    {
+      "id": "6faa4eed",
+      "bank_id": "f0af3602",
+      "text": "Kuzum, şu meşhur Fairfax Kalesi'nin yeni maliki değil mi o?"
+    },
+    {
+      "id": "7a46b070",
+      "bank_id": "f0af3602",
+      "text": "Kalan son gerçek dişlerimi çektirip yerlerine elmas taktırıyorum. İstiridye yemek için harika."
+    },
+    {
+      "id": "7a46b071",
+      "bank_id": "f0af3602",
+      "text": "Ah, insan bir bulutun üzerinde süzülüp dünyanın o aşağılık insanlarının kokularını içine çekmemeyi nasıl da arzuluyor."
+    },
+    {
+      "id": "7d0bfe22",
+      "bank_id": "f0af3602",
+      "text": "Uzun zamandır ne yapmadım biliyor musun? Çayırlarda hoplayıp zıplamadım. Ah, çayırlarda koşturmaktan öyle zevk alırım ki."
+    },
+    {
+      "id": "7d0bfe23",
+      "bank_id": "f0af3602",
+      "text": "Gelecek haftaki bayılma partimize katılıyor musun?"
+    },
+    {
+      "id": "8146bb7c",
+      "bank_id": "f0af3602",
+      "text": "Yatak odamda bir oda kuarteti bulundurmanın geceleri daha iyi uyumama yardımcı olduğunu fark ettim."
+    },
+    {
+      "id": "8146bb7d",
+      "bank_id": "f0af3602",
+      "text": "Geçen hafta yeni bir çift küpe aldım ama kakma elmaslar öyle büyük ki kafamı kaldıramıyorum bile."
+    },
+    {
+      "id": "820c05c2",
+      "bank_id": "f0af3602",
+      "text": "Harcamalarımı kısmaya karar verdim. Bugünden tezi yok, ayda yalnızca bir gardırop dolusu kıyafet satın alacağım."
+    },
+    {
+      "id": "820c05c3",
+      "bank_id": "f0af3602",
+      "text": "Geçenlerde pek tatlı bir süs eşyası aldım. Adı Bert."
+    },
+    {
+      "id": "8394a390",
+      "bank_id": "f0af3602",
+      "text": "Albion'daki en güçlü kadın o. Sahip olmadığı hiçbir şey yok."
+    },
+    {
+      "id": "8394a39b",
+      "bank_id": "f0af3602",
+      "text": "Albion'daki en güçlü adam o. Sahip olmadığı hiçbir şey yok."
+    },
+    {
+      "id": "846a23a0",
+      "bank_id": "f0af3602",
+      "text": "Dün gece çok korkunç bir rüya gördüm. Bir mutfakta yapayalnızdım ve üzerimde bir önlük vardı. Bir önlük!"
+    },
+    {
+      "id": "846a23a1",
+      "bank_id": "f0af3602",
+      "text": "Tatile çıkma vaktim geldi artık. Kendim olmak son derece yorucu bir şey."
+    },
+    {
+      "id": "89078ac6",
+      "bank_id": "f0af3602",
+      "text": "Reaver'ın malikânesinde başka birinin yaşadığını göreceğim hiç aklıma gelmezdi."
+    },
+    {
+      "id": "89078ac7",
+      "bank_id": "f0af3602",
+      "text": "Reaver'ın eski yerinde yaşamak nasıl bir duygu? İçeride her türlü tuhaf ve sapkın sır olmalı."
+    },
+    {
+      "id": "8b6a2eac",
+      "bank_id": "f0af3602",
+      "text": "Babam servetini erkek kardeşlerimle benim aramda eşit olarak paylaştırdı. Tamamen haksızlık."
+    },
+    {
+      "id": "8b6a2ead",
+      "bank_id": "f0af3602",
+      "text": "Mesele diğer insanların benden daha önemsiz olması değil, benim daha önemli olmam."
+    },
+    {
+      "id": "900795c2",
+      "bank_id": "f0af3602",
+      "text": "Bahse girerim Reaver'ın malikânesinde türlü türlü sırlar vardır, ha?"
+    },
+    {
+      "id": "900795c3",
+      "bank_id": "f0af3602",
+      "text": "Reaver'ın yerinde yaşamaya ben de hayır demezdim hani. Epey özel bir yer olsa gerek, değil mi?"
+    },
+    {
+      "id": "94ebb21a",
+      "bank_id": "f0af3602",
+      "text": "En ufak bir tehlike işaretinde kaçmaya hazırım."
+    },
+    {
+      "id": "94ebb21b",
+      "bank_id": "f0af3602",
+      "text": "Aklı başında olan herkes gibi ben de korkuyorum."
+    },
+    {
+      "id": "94ebb21c",
+      "bank_id": "f0af3602",
+      "text": "Şu sıralar her şey öyle korkutucu ki."
+    },
+    {
+      "id": "94ebb21d",
+      "bank_id": "f0af3602",
+      "text": "Son zamanlarda her şey öyle çıldırdı ki. Çok... Çok rahatsız edici."
+    },
+    {
+      "id": "94ebb21e",
+      "bank_id": "f0af3602",
+      "text": "Bilmiyorum ki. Bir tek bana mı öyle geliyor yoksa dünya giderek daha mı korkutucu bir yer oluyor?"
+    },
+    {
+      "id": "9a1c6cea",
+      "bank_id": "f0af3602",
+      "text": "Bu hafta hayatın dibini boylamaya karar verdim. Kendi yemeğimi kendim çiğniyorum!"
+    },
+    {
+      "id": "9a1c6ceb",
+      "bank_id": "f0af3602",
+      "text": "Burnumuzu şu fakirlerin kokusundan kurtarmak için yapabileceğimiz bir şey yok mu?"
+    },
+    {
+      "id": "9debc06f",
+      "bank_id": "f0af3602",
+      "text": "Korkuyorsun, değil mi?"
+    },
+    {
+      "id": "9e5f87a2",
+      "bank_id": "f0af3602",
+      "text": "Bugünlerde iyi aşçı bulmak öyle zor ki. Son üç tanesini kazara kaynayan gökkuşağı çorbası kazanlarına ittim diye oldu hep."
+    },
+    {
+      "id": "9e5f87a3",
+      "bank_id": "f0af3602",
+      "text": "Belki de yeni bir hizmetçi tutma vakti gelmiştir. Bugünlerde dört tanesi yetmiyor. Arkadaşlarımın hepsinde en az beş tane var."
+    },
+    {
+      "id": "a51c7e1a",
+      "bank_id": "f0af3602",
+      "text": "Dün gece yastığımda üç kırışıklık vardı. Söylemeye gerek yok, hizmetçimi bir güzel kırbaçlattım."
+    },
+    {
+      "id": "a51c7e1b",
+      "bank_id": "f0af3602",
+      "text": "İnsan zenginliğin ne kadar büyük bir yük olabileceğini bazen unutuyor."
+    },
+    {
+      "id": "a65103a8",
+      "bank_id": "f0af3602",
+      "text": "Geçen hafta harika bir ziyafete katıldım."
+    },
+    {
+      "id": "aafbf241",
+      "bank_id": "f0af3602",
+      "text": "Işık Tapınağı'nın sahibi olmak nasıl bir şey?"
+    },
+    {
+      "id": "aafbf242",
+      "bank_id": "f0af3602",
+      "text": "Işık Tapınağı'nı satın aldığınız doğru mu? Umarım onu hayırlı bir amaç için kullanırsınız."
+    },
+    {
+      "id": "ab510b49",
+      "bank_id": "f0af3602",
+      "text": "Şu çingeneler de habire buraya gelip bir şeyler satmaya çalışıyor."
+    },
+    {
+      "id": "b287b648",
+      "bank_id": "f0af3602",
+      "text": "Altın bir lanet olabilir biliyor musunuz. Hepsini koyacak yer bulamıyorum artık!"
+    },
+    {
+      "id": "b287b649",
+      "bank_id": "f0af3602",
+      "text": "Hizmetkârlarımdan biri misiniz siz? Dişlerimin arasını temizleyiverin, olur mu?"
+    },
+    {
+      "id": "b5fc03f0",
+      "bank_id": "f0af3602",
+      "text": "Işık Tapınağı'nın size ait olduğuna inanamıyorum."
+    },
+    {
+      "id": "b5fc03f2",
+      "bank_id": "f0af3602",
+      "text": "Işık Tapınağı senin mi? Bu senin kutsanmış falan olduğun anlamına mı geliyor yani?"
+    },
+    {
+      "id": "bb87c49c",
+      "bank_id": "f0af3602",
+      "text": "Şu ayak takımı bütün gün ne yapıyor acaba? Tembel mahlukatlar."
+    },
+    {
+      "id": "bb87c49d",
+      "bank_id": "f0af3602",
+      "text": "Hımm, bütün gün bu kıyafetleri giydim. Yakında biraz daha satın almalıyım kesinlikle."
+    },
+    {
+      "id": "bdb9e07d",
+      "bank_id": "f0af3602",
+      "text": "Hey, Brightwood Kulesi'nin sahibi sen değil misin?"
+    },
+    {
+      "id": "bdb9e07f",
+      "bank_id": "f0af3602",
+      "text": "Brightwood'daki o kulenin sahibi olmak nasıl bir duygu?"
+    },
+    {
+      "id": "c8b9f1ac",
+      "bank_id": "f0af3602",
+      "text": "Brightwood'daki o kuleyi satın alan kişi sen değil miydin?"
+    },
+    {
+      "id": "c8b9f1ae",
+      "bank_id": "f0af3602",
+      "text": "Hey, Brightwood Kulesi'nin sahibi sen değil misin?"
+    },
+    {
+      "id": "ca0f6890",
+      "bank_id": "f0af3602",
+      "text": "Beyaz elbiseler içinde fink atan adamlar mı? Keşiş olmaları umurumda bile değil. Hiç hoş bir şey değil bu."
+    },
+    {
+      "id": "ca0f6891",
+      "bank_id": "f0af3602",
+      "text": "Bana sorarsan o Işık Tapınağı'nda dönen bazı garip dolaplar var."
+    },
+    {
+      "id": "ca0f6892",
+      "bank_id": "f0af3602",
+      "text": "Bir muhitin ne kadar nezih olduğunu keşişlerinin kalitesinden her zaman anlarsın."
+    },
+    {
+      "id": "ca0f6893",
+      "bank_id": "f0af3602",
+      "text": "Tüm manevi ihtiyaçlarım için Başkeşiş'e giderim."
+    },
+    {
+      "id": "ca0f6894",
+      "bank_id": "f0af3602",
+      "text": "Keşiş olmayı düşünüyordum ama çok fazla fedakârlık yapman gerekiyor."
+    },
+    {
+      "id": "ca0f6896",
+      "bank_id": "f0af3602",
+      "text": "Keşişler harikadır. Tabii beynini yıkamaya çalışmadıkları zamanlarda."
+    },
+    {
+      "id": "ca0f6897",
+      "bank_id": "f0af3602",
+      "text": "Işık Tapınağı'na çıktın mı hiç? Oradakiler pek bir cana yakın."
+    },
+    {
+      "id": "cd234de4",
+      "bank_id": "f0af3602",
+      "text": "Elmas külodumu iade etmek zorunda kaldım. Bir ay boyunca oturamayacağım."
+    },
+    {
+      "id": "cd234de5",
+      "bank_id": "f0af3602",
+      "text": "Ah, yeniden yatakhanelerdeki bir çocuk olsam, bir elimle kızarmış ekmek yerken diğer elimle papatya zincirleri örsem..."
+    },
+    {
+      "id": "cf0f70b0",
+      "bank_id": "f0af3602",
+      "text": "Şu keşişler eğlenmeyi hiç bilmiyor."
+    },
+    {
+      "id": "cf0f70b1",
+      "bank_id": "f0af3602",
+      "text": "Keşişler mi? Bana sorarsan tam bir mızmızlar güruhu."
+    },
+    {
+      "id": "cf0f70b2",
+      "bank_id": "f0af3602",
+      "text": "Keşişler hakkında söylenenlerin doğru olduğunu düşünüyor musun? Hani şu nefse hâkimiyet meselesi?"
+    },
+    {
+      "id": "cf0f70b3",
+      "bank_id": "f0af3602",
+      "text": "Kibar oldukları ve beni dinlerine çekmeye çalışmadıkları sürece keşişlere hiç itirazım yok."
+    },
+    {
+      "id": "cf0f70b5",
+      "bank_id": "f0af3602",
+      "text": "Şu keşişlerle ilgili asıl gizem, o cübbeleri nasıl bu kadar beyaz tuttukları!"
+    },
+    {
+      "id": "cf0f70b6",
+      "bank_id": "f0af3602",
+      "text": "Kadınların tapınağa neden katılamadığını anlamıyorum. Tabii Başkeşiş'in kızı hariç. Onu kim durdurabilir ki?"
+    },
+    {
+      "id": "cf0f70b7",
+      "bank_id": "f0af3602",
+      "text": "Şu keşişler tuhaf adamlar. Durmadan dua edip ayinlerini yapıyorlar."
+    },
+    {
+      "id": "d0ea1084",
+      "bank_id": "f0af3602",
+      "text": "Bir trol öldürüp bir han satın aldın ha. Senin için yoğun bir gün olmuş olmalı maceracı!"
+    },
+    {
+      "id": "d42358e0",
+      "bank_id": "f0af3602",
+      "text": "Kendi nefesimizi kendimizin almak zorunda olmasını tahammül edilemez bulmuyor musunuz? Hizmetkârlarımız bunu bizim yerimize neden yapamıyor ki?"
+    },
+    {
+      "id": "d42358e1",
+      "bank_id": "f0af3602",
+      "text": "Bir süre yemeğimi çiğnemesi için birini tuttum ama işe yaramadı. İnsan kendisi yapmadığı sürece pek bir lezzet kalmıyormuş meğer."
+    },
+    {
+      "id": "d7ea1b88",
+      "bank_id": "f0af3602",
+      "text": "Bir trol öldürüp bir han satın aldın ha. Senin için yoğun bir gün olmuş olmalı maceracı!"
+    },
+    {
+      "id": "dea11c7a",
+      "bank_id": "f0af3602",
+      "text": "Titriyorum, göremiyor musun?"
+    },
+    {
+      "id": "dea11c7b",
+      "bank_id": "f0af3602",
+      "text": "Öyle korkuyorum ki midem bulanıyor."
+    },
+    {
+      "id": "dea11c7c",
+      "bank_id": "f0af3602",
+      "text": "Korkuyorum. Sen korkmuyor musun?"
+    },
+    {
+      "id": "dea11c7d",
+      "bank_id": "f0af3602",
+      "text": "Şu halime bir baksana. Zangır zangır titriyorum!"
+    },
+    {
+      "id": "dea11c7e",
+      "bank_id": "f0af3602",
+      "text": "Hayat şu an korkunç bir kâbus gibi."
+    },
+    {
+      "id": "def007c1",
+      "bank_id": "f0af3602",
+      "text": "Eskiden Giles'a ait olan o çiftliğin sahibi siz değil misiniz?"
+    },
+    {
+      "id": "e2dfec57",
+      "bank_id": "f0af3602",
+      "text": "Şu tarikatçıların Rookridge'de tuhaf şeyler yaptığını söylerler."
+    },
+    {
+      "id": "e5f012c5",
+      "bank_id": "f0af3602",
+      "text": "Eee, bir çiftliği işletmek nasıl bir şey? Maceracılıktan çok farklı olmalı."
+    },
+    {
+      "id": "e7a12a48",
+      "bank_id": "f0af3602",
+      "text": "Henüz altıma kaçırmadığıma şükrediyorum."
+    },
+    {
+      "id": "e7a12a49",
+      "bank_id": "f0af3602",
+      "text": "Keşke her an bu kadar korku içinde yaşamasaydım."
+    },
+    {
+      "id": "e7a12a4b",
+      "bank_id": "f0af3602",
+      "text": "Bugünlerde her şey beni korkutuyor sanki."
+    },
+    {
+      "id": "e7a12a4e",
+      "bank_id": "f0af3602",
+      "text": "Korkudan geberiyorum resmen!"
+    },
+    {
+      "id": "e7a12a4f",
+      "bank_id": "f0af3602",
+      "text": "Daha fazla korkamazdım herhalde."
+    },
+    {
+      "id": "e9dff75a",
+      "bank_id": "f0af3602",
+      "text": "Gölgeler Tapınağı'na gittin mi hiç? O tarikatçılardan midem bulanıyor."
+    },
+    {
+      "id": "fc6efe1e",
+      "bank_id": "f0af3602",
+      "text": "Yoksul bir geçmişten geliyorum ve bundan utanmıyorum. Annemle babamın yalnızca iki katlı bir malikânesi vardı. Hepsi doğru valla."
+    },
+    {
+      "id": "fc6efe1f",
+      "bank_id": "f0af3602",
+      "text": "Doğum sırasında ona çektirdiğim acı yüzünden annem beni asla affetmedi. Ağzımdan çıkan o gümüş kaşık falan düşünüldüğünde, tahmin edersiniz tabii..."
+    },
+    {
+      "id": "feac0e3d",
+      "bank_id": "f0af3602",
+      "text": "Gidip biraz haydut öldürsene, ha?"
+    }
+  ]
+}

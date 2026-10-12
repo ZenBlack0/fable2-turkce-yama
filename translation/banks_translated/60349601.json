@@ -1,0 +1,941 @@
+{
+  "bank_id": "60349601",
+  "total_strings": 187,
+  "strings": [
+    {
+      "id": "02ac3135",
+      "bank_id": "60349601",
+      "text": "Ömrümde rastladığım en ahlaklı insanlardan biri."
+    },
+    {
+      "id": "02ac313e",
+      "bank_id": "60349601",
+      "text": "Ömrümde rastladığım en ahlaklı insanlardan biri."
+    },
+    {
+      "id": "03482222",
+      "bank_id": "60349601",
+      "text": "Böyle bir mizahın bir Kahramana yakıştığını gerçekten düşünüyor musun?"
+    },
+    {
+      "id": "03482229",
+      "bank_id": "60349601",
+      "text": "Başkalarını güldürmenin bir Kahramanın görevi olduğundan pek emin değilim."
+    },
+    {
+      "id": "0413bab0",
+      "bank_id": "60349601",
+      "text": "Kimi incittiği umurunda bile değil."
+    },
+    {
+      "id": "0413babb",
+      "bank_id": "60349601",
+      "text": "Kimi incittiği umurunda bile değil."
+    },
+    {
+      "id": "0771ec21",
+      "bank_id": "60349601",
+      "text": "Dünyada beni korkutan her şey onda toplanmış gibi."
+    },
+    {
+      "id": "0771ec2a",
+      "bank_id": "60349601",
+      "text": "Dünyada beni korkutan her şey onda toplanmış gibi."
+    },
+    {
+      "id": "0bf7f835",
+      "bank_id": "60349601",
+      "text": "Ahlaki değerleri gerçekten takdire şayan."
+    },
+    {
+      "id": "0bf7f83e",
+      "bank_id": "60349601",
+      "text": "Ahlaki değerleri gerçekten takdire şayan."
+    },
+    {
+      "id": "0d7422c4",
+      "bank_id": "60349601",
+      "text": "Saf kötülük yayıyor etrafına."
+    },
+    {
+      "id": "0d7422cf",
+      "bank_id": "60349601",
+      "text": "İçinde korkunç bir karanlık var."
+    },
+    {
+      "id": "188adc52",
+      "bank_id": "60349601",
+      "text": "Bu kadar onurlu bir adam daha görülmemiştir."
+    },
+    {
+      "id": "188adc59",
+      "bank_id": "60349601",
+      "text": "Bu kadar onurlu bir kadın daha görülmemiştir."
+    },
+    {
+      "id": "1bde23f6",
+      "bank_id": "60349601",
+      "text": "Tam bir komedi."
+    },
+    {
+      "id": "1bde23fd",
+      "bank_id": "60349601",
+      "text": "Tam bir komedi."
+    },
+    {
+      "id": "1d336a16",
+      "bank_id": "60349601",
+      "text": "Çok komik değil mi sence de?"
+    },
+    {
+      "id": "1d336a1d",
+      "bank_id": "60349601",
+      "text": "Çok komik değil mi sence de?"
+    },
+    {
+      "id": "21d6a352",
+      "bank_id": "60349601",
+      "text": "İçindeki iyiliği hissedebiliyorsun, değil mi?"
+    },
+    {
+      "id": "21d6a359",
+      "bank_id": "60349601",
+      "text": "İçindeki iyiliği hissedebiliyorsun, değil mi?"
+    },
+    {
+      "id": "230e6f32",
+      "bank_id": "60349601",
+      "text": "Kötü niyetli, tehlikeli biri o. Dikkatli ol."
+    },
+    {
+      "id": "230e6f39",
+      "bank_id": "60349601",
+      "text": "Kötü niyetli, tehlikeli biri o. Dikkatli ol."
+    },
+    {
+      "id": "2995ae70",
+      "bank_id": "60349601",
+      "text": "Doğuştan fesat o adam."
+    },
+    {
+      "id": "2995ae7b",
+      "bank_id": "60349601",
+      "text": "Doğuştan fesat o kadın."
+    },
+    {
+      "id": "2cb99fb6",
+      "bank_id": "60349601",
+      "text": "Mezardaki ölüleri bile kahkahaya boğabilir."
+    },
+    {
+      "id": "2cb99fbd",
+      "bank_id": "60349601",
+      "text": "Jack of Blades'i bile gülmekten yerlere yatırabilir."
+    },
+    {
+      "id": "2d359b95",
+      "bank_id": "60349601",
+      "text": "Çok iyi bir kalbi var."
+    },
+    {
+      "id": "2d359b9e",
+      "bank_id": "60349601",
+      "text": "Çok iyi bir kalbi var."
+    },
+    {
+      "id": "2d97a734",
+      "bank_id": "60349601",
+      "text": "Öyle gaddar ki. Hem de hiçbir sebep yokken."
+    },
+    {
+      "id": "2d97a73f",
+      "bank_id": "60349601",
+      "text": "Öyle gaddar ki. Hem de hiçbir sebep yokken."
+    },
+    {
+      "id": "2e9b9216",
+      "bank_id": "60349601",
+      "text": "Onun kadar kötü birinden her şeyi beklerim."
+    },
+    {
+      "id": "2e9b921d",
+      "bank_id": "60349601",
+      "text": "Onun kadar kötü birinden her şeyi beklerim."
+    },
+    {
+      "id": "2f426521",
+      "bank_id": "60349601",
+      "text": "Ha ha, ona bakmak bile güldürüyor beni."
+    },
+    {
+      "id": "2f42652a",
+      "bank_id": "60349601",
+      "text": "Ha ha, ona bakmak bile güldürüyor beni."
+    },
+    {
+      "id": "309618b1",
+      "bank_id": "60349601",
+      "text": "Ne şakacı biri. İnsanları güldürmeyi seviyor herhalde."
+    },
+    {
+      "id": "309618ba",
+      "bank_id": "60349601",
+      "text": "Ne şakacı biri. İnsanları güldürmeyi seviyor herhalde."
+    },
+    {
+      "id": "30d87d13",
+      "bank_id": "60349601",
+      "text": "Sessiz ol, bizi duyabilir."
+    },
+    {
+      "id": "30d87d18",
+      "bank_id": "60349601",
+      "text": "Onunla ters düşmek istemezdim."
+    },
+    {
+      "id": "33d65c57",
+      "bank_id": "60349601",
+      "text": "Kabusların vücut bulmuş hali resmen."
+    },
+    {
+      "id": "33d65c5c",
+      "bank_id": "60349601",
+      "text": "Kabusların vücut bulmuş hali resmen."
+    },
+    {
+      "id": "36327a11",
+      "bank_id": "60349601",
+      "text": "Çocuk partileri için kiralanabildiğini duydum."
+    },
+    {
+      "id": "36327a1a",
+      "bank_id": "60349601",
+      "text": "Tam bir soytarı! Ama bunu söylediğimi ona söyleme sakın."
+    },
+    {
+      "id": "36816295",
+      "bank_id": "60349601",
+      "text": "Böyle kusursuz bir ahlaka sık rastlanmaz doğrusu ama işte karşımızda duruyor."
+    },
+    {
+      "id": "3681629e",
+      "bank_id": "60349601",
+      "text": "Böyle kusursuz bir ahlaka sık rastlanmaz doğrusu ama işte karşımızda duruyor."
+    },
+    {
+      "id": "371d5783",
+      "bank_id": "60349601",
+      "text": "Her eğlencenin neşe kaynağıdır o."
+    },
+    {
+      "id": "371d5788",
+      "bank_id": "60349601",
+      "text": "Her eğlencenin neşe kaynağıdır o."
+    },
+    {
+      "id": "3a35ca43",
+      "bank_id": "60349601",
+      "text": "O buralardayken belki hep birlikte iyi güleriz."
+    },
+    {
+      "id": "3a35ca48",
+      "bank_id": "60349601",
+      "text": "Bir cesedi bile kıkırdatabilir o kadın."
+    },
+    {
+      "id": "3f780262",
+      "bank_id": "60349601",
+      "text": "Gözünü kırpmadan öldürür seni."
+    },
+    {
+      "id": "3f780269",
+      "bank_id": "60349601",
+      "text": "Gözünü kırpmadan öldürür seni."
+    },
+    {
+      "id": "455cd295",
+      "bank_id": "60349601",
+      "text": "En azından düşmanları her zaman yüzlerinde bir tebessümle ölüyor."
+    },
+    {
+      "id": "455cd29e",
+      "bank_id": "60349601",
+      "text": "Düşmanlarının hepsinin gülmekten öldüğünü duydum."
+    },
+    {
+      "id": "46b1ff83",
+      "bank_id": "60349601",
+      "text": "Yaptığı bazı şeyler tarif bile edilemez."
+    },
+    {
+      "id": "46b1ff88",
+      "bank_id": "60349601",
+      "text": "Kalbi saf kötülükten ibaret."
+    },
+    {
+      "id": "4e39bc04",
+      "bank_id": "60349601",
+      "text": "Hani iyi insan derler ya, tam da öyle biri."
+    },
+    {
+      "id": "4e39bc0f",
+      "bank_id": "60349601",
+      "text": "Hani iyi insan derler ya, tam da öyle biri."
+    },
+    {
+      "id": "51d908d5",
+      "bank_id": "60349601",
+      "text": "Vaktiyle koskoca bir köyün kökünü kazıdığını söylüyorlar."
+    },
+    {
+      "id": "51d908de",
+      "bank_id": "60349601",
+      "text": "Zevk için boğaz kestiğini duydum."
+    },
+    {
+      "id": "55d9bd35",
+      "bank_id": "60349601",
+      "text": "İnanılmaz bir iyilik aurası var üzerinde."
+    },
+    {
+      "id": "55d9bd3e",
+      "bank_id": "60349601",
+      "text": "İnanılmaz bir iyilik aurası var üzerinde."
+    },
+    {
+      "id": "55fdc765",
+      "bank_id": "60349601",
+      "text": "Ya hepimizi katletmeye karar verirse?"
+    },
+    {
+      "id": "55fdc76e",
+      "bank_id": "60349601",
+      "text": "Ya hepimizi katletmeye karar verirse?"
+    },
+    {
+      "id": "5e0cc254",
+      "bank_id": "60349601",
+      "text": "Ayak basılmamış taze kar kadar saf biri o."
+    },
+    {
+      "id": "5e0cc25f",
+      "bank_id": "60349601",
+      "text": "Ayak basılmamış taze kar kadar saf biri o."
+    },
+    {
+      "id": "6483bc65",
+      "bank_id": "60349601",
+      "text": "Buz gibi kapkara bir kalbi var onun."
+    },
+    {
+      "id": "6483bc6e",
+      "bank_id": "60349601",
+      "text": "Buz gibi kapkara bir kalbi var onun."
+    },
+    {
+      "id": "69620892",
+      "bank_id": "60349601",
+      "text": "Mayasında kesinlikle bir kötülük var."
+    },
+    {
+      "id": "69620899",
+      "bank_id": "60349601",
+      "text": "Mayasında kesinlikle bir kötülük var."
+    },
+    {
+      "id": "69853c76",
+      "bank_id": "60349601",
+      "text": "Onun yanında takılırsan başını fena belaya sokabilirsin."
+    },
+    {
+      "id": "69853c7d",
+      "bank_id": "60349601",
+      "text": "Onun yanında takılırsan başını fena belaya sokabilirsin."
+    },
+    {
+      "id": "6b788417",
+      "bank_id": "60349601",
+      "text": "Herkesi güldürebilir o adam."
+    },
+    {
+      "id": "6b78841c",
+      "bank_id": "60349601",
+      "text": "Herkesi güldürebilir o kadın."
+    },
+    {
+      "id": "7124e950",
+      "bank_id": "60349601",
+      "text": "Korkutuyor beni, itiraf edeyim."
+    },
+    {
+      "id": "7124e95b",
+      "bank_id": "60349601",
+      "text": "Korkutuyor beni, itiraf edeyim."
+    },
+    {
+      "id": "71558290",
+      "bank_id": "60349601",
+      "text": "Babamın tabiriyle tam bir komedyen."
+    },
+    {
+      "id": "7155829b",
+      "bank_id": "60349601",
+      "text": "Babamın tabiriyle tam bir komedyen."
+    },
+    {
+      "id": "736f10c6",
+      "bank_id": "60349601",
+      "text": "Karanlığın efendisi o."
+    },
+    {
+      "id": "736f10cd",
+      "bank_id": "60349601",
+      "text": "Karanlığın efendisi o."
+    },
+    {
+      "id": "77e7fd82",
+      "bank_id": "60349601",
+      "text": "Ahlaksızca şeyler yapmaktan zevk alıyor gibi görünüyor."
+    },
+    {
+      "id": "77e7fd89",
+      "bank_id": "60349601",
+      "text": "Ahlaksızca şeyler yapmaktan zevk alıyor gibi görünüyor."
+    },
+    {
+      "id": "78c326e3",
+      "bank_id": "60349601",
+      "text": "O aramızdayken dünya daha iyi bir yer."
+    },
+    {
+      "id": "78c326e8",
+      "bank_id": "60349601",
+      "text": "O aramızdayken dünya daha iyi bir yer."
+    },
+    {
+      "id": "7a291d77",
+      "bank_id": "60349601",
+      "text": "Bana sorarsan doğuştan kötü o."
+    },
+    {
+      "id": "7a291d7c",
+      "bank_id": "60349601",
+      "text": "Bana sorarsan doğuştan kötü o."
+    },
+    {
+      "id": "7c660872",
+      "bank_id": "60349601",
+      "text": "Korkunç şeyler yaptı biliyorsun değil mi?"
+    },
+    {
+      "id": "7c660879",
+      "bank_id": "60349601",
+      "text": "Hakkında dehşet verici şeyler duydum."
+    },
+    {
+      "id": "7ce97da1",
+      "bank_id": "60349601",
+      "text": "Hiç bu kadar korkulan bir kadın görülmüş müydü?"
+    },
+    {
+      "id": "7ce97daa",
+      "bank_id": "60349601",
+      "text": "Hiç bu kadar korkulan bir adam görülmüş müydü?"
+    },
+    {
+      "id": "80b05bb7",
+      "bank_id": "60349601",
+      "text": "Yaptığı o korkunç şeylerin hiçbir mazereti olamaz."
+    },
+    {
+      "id": "80b05bbc",
+      "bank_id": "60349601",
+      "text": "Yaptığı o korkunç şeylerin hiçbir mazereti olamaz."
+    },
+    {
+      "id": "820eede3",
+      "bank_id": "60349601",
+      "text": "Son derece dürüst biridir."
+    },
+    {
+      "id": "820eede8",
+      "bank_id": "60349601",
+      "text": "Son derece dürüst biridir."
+    },
+    {
+      "id": "82ebb3b0",
+      "bank_id": "60349601",
+      "text": "Hizmetkârlar çocuklarını korkutmak için onun katliamlarını anlatıyor."
+    },
+    {
+      "id": "82ebb3bb",
+      "bank_id": "60349601",
+      "text": "Şiddete başvurursa bizi ondan kim kurtaracak?"
+    },
+    {
+      "id": "86b17030",
+      "bank_id": "60349601",
+      "text": "Hiç bu kadar korkutucu biriyle karşılaştın mı?"
+    },
+    {
+      "id": "86b17031",
+      "bank_id": "60349601",
+      "text": "Kanımı donduruyorsun vallahi."
+    },
+    {
+      "id": "86b17032",
+      "bank_id": "60349601",
+      "text": "Beni hiç kimse bundan daha fazla korkutamaz."
+    },
+    {
+      "id": "86b17037",
+      "bank_id": "60349601",
+      "text": "Hiç bu kadar korkutucu birini gördün mü?"
+    },
+    {
+      "id": "86edad74",
+      "bank_id": "60349601",
+      "text": "Onun buralarda olduğunu bile bile geceleri nasıl uyuyabiliriz ki?"
+    },
+    {
+      "id": "86edad7f",
+      "bank_id": "60349601",
+      "text": "Uykumuzda hepimizi öldürebilir o kadın."
+    },
+    {
+      "id": "8a0753a2",
+      "bank_id": "60349601",
+      "text": "Korkutuyor beni. Kötü insanların normalmiş gibi ortalıkta dolaşmasına neden izin verirler ki?"
+    },
+    {
+      "id": "8a0753a9",
+      "bank_id": "60349601",
+      "text": "Korkutuyor beni. Kötü insanların normalmiş gibi ortalıkta dolaşmasına neden izin verirler ki?"
+    },
+    {
+      "id": "8faaf705",
+      "bank_id": "60349601",
+      "text": "İçinde zerre kadar nezaket yok."
+    },
+    {
+      "id": "8faaf70e",
+      "bank_id": "60349601",
+      "text": "İçinde zerre kadar nezaket yok."
+    },
+    {
+      "id": "8fad2964",
+      "bank_id": "60349601",
+      "text": "Gülünç düşüş hareketlerini mükemmelleştirdiğini duydum."
+    },
+    {
+      "id": "8fad296f",
+      "bank_id": "60349601",
+      "text": "Kremalı turta şakalarına bayılıyormuş meğerse."
+    },
+    {
+      "id": "8fb17e1a",
+      "bank_id": "60349601",
+      "text": "Ödümü koparıyor vallahi."
+    },
+    {
+      "id": "8fb17e1c",
+      "bank_id": "60349601",
+      "text": "Dehşet içindeyim şu an."
+    },
+    {
+      "id": "8fb17e1d",
+      "bank_id": "60349601",
+      "text": "Hiç bu kadar korkutucu birini görmemiştim."
+    },
+    {
+      "id": "8fb17e1f",
+      "bank_id": "60349601",
+      "text": "Kimse bana bundan daha fazla kâbus gördüremez."
+    },
+    {
+      "id": "9154d9f0",
+      "bank_id": "60349601",
+      "text": "Ödümü koparıyor resmen."
+    },
+    {
+      "id": "9154d9fb",
+      "bank_id": "60349601",
+      "text": "Ödümü koparıyor resmen."
+    },
+    {
+      "id": "94f5a034",
+      "bank_id": "60349601",
+      "text": "Stand-up gösterisi yapmalı aslında."
+    },
+    {
+      "id": "94f5a03f",
+      "bank_id": "60349601",
+      "text": "Bir Kahramandan çok bir soytarı gibi davranıyor!"
+    },
+    {
+      "id": "98c6c920",
+      "bank_id": "60349601",
+      "text": "Altıma kaçıracağım galiba."
+    },
+    {
+      "id": "98c6c92b",
+      "bank_id": "60349601",
+      "text": "Panik yapmayın! Kıpırdamadan durun, belki bizi görmezden gelir."
+    },
+    {
+      "id": "9c295ea4",
+      "bank_id": "60349601",
+      "text": "İliğine kadar kötü biri o."
+    },
+    {
+      "id": "9c295eaf",
+      "bank_id": "60349601",
+      "text": "İliğine kadar kötü biri o."
+    },
+    {
+      "id": "a2313126",
+      "bank_id": "60349601",
+      "text": "Disiplin delisi babam bile onu eğlenceli buluyor."
+    },
+    {
+      "id": "a231312d",
+      "bank_id": "60349601",
+      "text": "Hepimizin hayatına küçük bir umut ve neşe ışığı getiriyor."
+    },
+    {
+      "id": "a3edd274",
+      "bank_id": "60349601",
+      "text": "Albion'un bugüne dek gördüğü en kara kalbe sahip o kadın."
+    },
+    {
+      "id": "a3edd27f",
+      "bank_id": "60349601",
+      "text": "Efsanelerin karanlık Kahramanlarından bu yana onun gibisi aramızda dolaşmamıştı."
+    },
+    {
+      "id": "a56fd9f1",
+      "bank_id": "60349601",
+      "text": "Komedi zamanlamasıyla meşhurdur bilirsin. Bir komedyeni neden zamanlamak ister, hiçbir fikrim yok."
+    },
+    {
+      "id": "a56fd9fa",
+      "bank_id": "60349601",
+      "text": "Komedi zamanlamasıyla meşhurdur bilirsin. Bir komedyeni neden zamanlamak ister, hiçbir fikrim yok."
+    },
+    {
+      "id": "a99a2145",
+      "bank_id": "60349601",
+      "text": "Kalbi abanoz pagodamdan bile daha kara."
+    },
+    {
+      "id": "a99a214e",
+      "bank_id": "60349601",
+      "text": "Kalbi abanoz pagodamdan bile daha kara."
+    },
+    {
+      "id": "b41e1c84",
+      "bank_id": "60349601",
+      "text": "Şüphesiz, tek kelimeyle kötü biri o."
+    },
+    {
+      "id": "b41e1c8f",
+      "bank_id": "60349601",
+      "text": "Şüphesiz, tek kelimeyle kötü biri o."
+    },
+    {
+      "id": "b6d6ccb0",
+      "bank_id": "60349601",
+      "text": "Aç balverine'lerle dolu bir tarladan bile daha korkutucu."
+    },
+    {
+      "id": "b6d6ccbb",
+      "bank_id": "60349601",
+      "text": "Aç balverine'lerle dolu bir tarladan bile daha korkutucu."
+    },
+    {
+      "id": "b91f9c97",
+      "bank_id": "60349601",
+      "text": "Onun yanında şaka yapmazdım ben olsam."
+    },
+    {
+      "id": "b91f9c9c",
+      "bank_id": "60349601",
+      "text": "Onun yanında şaka yapmazdım ben olsam."
+    },
+    {
+      "id": "b9c364e6",
+      "bank_id": "60349601",
+      "text": "Erdemli ve iyi olan her şeye tükürür o kadın."
+    },
+    {
+      "id": "b9c364ed",
+      "bank_id": "60349601",
+      "text": "Erdemli ve iyi olan her şeye tükürür o adam."
+    },
+    {
+      "id": "b9cad3a1",
+      "bank_id": "60349601",
+      "text": "Gülünç düşüş numaralarını çok iyi yaptığını duydum."
+    },
+    {
+      "id": "b9cad3aa",
+      "bank_id": "60349601",
+      "text": "Gülünç düşüş numaralarını çok iyi yaptığını duydum."
+    },
+    {
+      "id": "bb60eba5",
+      "bank_id": "60349601",
+      "text": "Beni fena ürkütüyor o kadın."
+    },
+    {
+      "id": "bb60ebae",
+      "bank_id": "60349601",
+      "text": "Ona bakmak bile kâbus görmeme yeter!"
+    },
+    {
+      "id": "befc9b10",
+      "bank_id": "60349601",
+      "text": "Onun gibilere bulaşmayın."
+    },
+    {
+      "id": "befc9b1b",
+      "bank_id": "60349601",
+      "text": "Onun gibilere bulaşmayın."
+    },
+    {
+      "id": "c0507ff3",
+      "bank_id": "60349601",
+      "text": "Onu görene kadar komik ne demek görmemişsinizdir."
+    },
+    {
+      "id": "c0507ff8",
+      "bank_id": "60349601",
+      "text": "Onu görene kadar komik ne demek görmemişsinizdir."
+    },
+    {
+      "id": "c2978151",
+      "bank_id": "60349601",
+      "text": "Doğuştan mı komik sence, yoksa üzerinde çalışıyor mu?"
+    },
+    {
+      "id": "c297815a",
+      "bank_id": "60349601",
+      "text": "İyi gülmek istiyorsan peşinden git yeter."
+    },
+    {
+      "id": "c3137d42",
+      "bank_id": "60349601",
+      "text": "Bir fazilet timsali resmen."
+    },
+    {
+      "id": "c3137d49",
+      "bank_id": "60349601",
+      "text": "Bir fazilet timsali resmen."
+    },
+    {
+      "id": "c47973c1",
+      "bank_id": "60349601",
+      "text": "Ahlak onun için yabancı bir kelime."
+    },
+    {
+      "id": "c47973ca",
+      "bank_id": "60349601",
+      "text": "Ahlak onun için yabancı bir kelime."
+    },
+    {
+      "id": "c7dff823",
+      "bank_id": "60349601",
+      "text": "Ona gülmezsen seni patakladığını duydum."
+    },
+    {
+      "id": "c7dff828",
+      "bank_id": "60349601",
+      "text": "Şuna bir bakın hele! Gülmemek elde değil!"
+    },
+    {
+      "id": "c85bf400",
+      "bank_id": "60349601",
+      "text": "Çok iyi bir insan o."
+    },
+    {
+      "id": "c85bf40b",
+      "bank_id": "60349601",
+      "text": "Çok iyi bir insan o."
+    },
+    {
+      "id": "cc5f4442",
+      "bank_id": "60349601",
+      "text": "Kötülüğün kırıntısı bile yok onda."
+    },
+    {
+      "id": "cc5f4449",
+      "bank_id": "60349601",
+      "text": "Kötülüğün kırıntısı bile yok onda."
+    },
+    {
+      "id": "cf02abc1",
+      "bank_id": "60349601",
+      "text": "Yaptığı her şeye kötülük bulaşmış durumda."
+    },
+    {
+      "id": "cf02abca",
+      "bank_id": "60349601",
+      "text": "Yaptığı her şeye kötülük bulaşmış durumda."
+    },
+    {
+      "id": "d1a7bb00",
+      "bank_id": "60349601",
+      "text": "İhtiyacı olan herkese yardım ederdi o adam."
+    },
+    {
+      "id": "d1a7bb0b",
+      "bank_id": "60349601",
+      "text": "İhtiyacı olan herkese yardım ederdi o kadın."
+    },
+    {
+      "id": "d8c04ab2",
+      "bank_id": "60349601",
+      "text": "Bir kral onu soytarıları arasında sayabilseydi ne şanslı olurdu."
+    },
+    {
+      "id": "d8c04ab9",
+      "bank_id": "60349601",
+      "text": "Kolay gülen biri değilimdir ama beni gerçekten gülümsetiyor."
+    },
+    {
+      "id": "db1eb9a7",
+      "bank_id": "60349601",
+      "text": "İyi bir fıkradan kesinlikle anlıyor o kadın."
+    },
+    {
+      "id": "db1eb9ac",
+      "bank_id": "60349601",
+      "text": "İyi bir fıkradan kesinlikle anlıyor o adam."
+    },
+    {
+      "id": "e1a5f8e7",
+      "bank_id": "60349601",
+      "text": "Kahkaha tufanıdır o. Bak da gör."
+    },
+    {
+      "id": "e1a5f8ec",
+      "bank_id": "60349601",
+      "text": "Kahkaha tufanıdır o. Bak da gör."
+    },
+    {
+      "id": "e62f43d7",
+      "bank_id": "60349601",
+      "text": "İnsanın gıdıklanacak yerini gerçekten biliyor."
+    },
+    {
+      "id": "e62f43dc",
+      "bank_id": "60349601",
+      "text": "İnsanın gıdıklanacak yerini gerçekten biliyor."
+    },
+    {
+      "id": "e6882745",
+      "bank_id": "60349601",
+      "text": "Durduğumuz yerde öldürebilir bizi."
+    },
+    {
+      "id": "e688274e",
+      "bank_id": "60349601",
+      "text": "Çok huysuz biri o değil mi."
+    },
+    {
+      "id": "e782f760",
+      "bank_id": "60349601",
+      "text": "Keşke daha çok insanda onun mizah anlayışı olsaydı."
+    },
+    {
+      "id": "e782f76b",
+      "bank_id": "60349601",
+      "text": "Keşke daha çok insanda onun mizah anlayışı olsaydı."
+    },
+    {
+      "id": "e7b6e9f2",
+      "bank_id": "60349601",
+      "text": "Hayatta kalmak istiyorsak onun yoluna çıkmamalıyız."
+    },
+    {
+      "id": "e7b6e9f9",
+      "bank_id": "60349601",
+      "text": "Yüzüne bakar bakmaz öldürür seni."
+    },
+    {
+      "id": "ed1f58c7",
+      "bank_id": "60349601",
+      "text": "İşte geldi! Gülmekten kırıp geçiriyor beni."
+    },
+    {
+      "id": "ed1f58cc",
+      "bank_id": "60349601",
+      "text": "Deneyimini Komedi yeteneklerine harcıyor olabilir mi sence?"
+    },
+    {
+      "id": "efe573f5",
+      "bank_id": "60349601",
+      "text": "O varken soytarılara kimin ihtiyacı var ki?"
+    },
+    {
+      "id": "efe573fe",
+      "bank_id": "60349601",
+      "text": "Bekle bak, yakında komik bir şey yapacağı kesin."
+    },
+    {
+      "id": "f0073580",
+      "bank_id": "60349601",
+      "text": "Gerçekten çok kötü biri değil mi?"
+    },
+    {
+      "id": "f23edd20",
+      "bank_id": "60349601",
+      "text": "Bütün bedeninde zerre kötülük yok."
+    },
+    {
+      "id": "f23edd2b",
+      "bank_id": "60349601",
+      "text": "Bütün bedeninde zerre kötülük yok."
+    },
+    {
+      "id": "f2696287",
+      "bank_id": "60349601",
+      "text": "Komik Kahraman fıkrasını duydun mu? Bir türlü gülümseyemiyormuş."
+    },
+    {
+      "id": "f269628c",
+      "bank_id": "60349601",
+      "text": "Maceraya atılmaktan çok soytarılık yapmaya vakit harcadığı doğru mu?"
+    },
+    {
+      "id": "f3ea7714",
+      "bank_id": "60349601",
+      "text": "Bulaşılacak biri değil o."
+    },
+    {
+      "id": "f3ea771f",
+      "bank_id": "60349601",
+      "text": "Bulaşılacak biri değil o."
+    },
+    {
+      "id": "fbad57e4",
+      "bank_id": "60349601",
+      "text": "Onun gibiler pek bir şeyi umursamaz."
+    },
+    {
+      "id": "fbad57ef",
+      "bank_id": "60349601",
+      "text": "Onun gibiler pek bir şeyi umursamaz."
+    },
+    {
+      "id": "fc61a935",
+      "bank_id": "60349601",
+      "text": "Kapkara kalpli bir balverine dölü işte."
+    },
+    {
+      "id": "fc61a93e",
+      "bank_id": "60349601",
+      "text": "Kahvaltı niyetine yer bizi o kadın."
+    }
+  ]
+}

@@ -1,0 +1,3161 @@
+{
+  "bank_id": "60f75202",
+  "total_strings": 631,
+  "strings": [
+    {
+      "id": "00628f27",
+      "bank_id": "60f75202",
+      "text": "Tamamlanan Görevler"
+    },
+    {
+      "id": "04cc3267",
+      "bank_id": "60f75202",
+      "text": "Adanın geçmişine dair herhangi bir şey öğrenebildin mi?"
+    },
+    {
+      "id": "08489f78",
+      "bank_id": "60f75202",
+      "text": "Vanessa"
+    },
+    {
+      "id": "08489f79",
+      "bank_id": "60f75202",
+      "text": "Tammy"
+    },
+    {
+      "id": "08489f7a",
+      "bank_id": "60f75202",
+      "text": "Sonya"
+    },
+    {
+      "id": "08489f7b",
+      "bank_id": "60f75202",
+      "text": "Selina"
+    },
+    {
+      "id": "08489f7c",
+      "bank_id": "60f75202",
+      "text": "Kitty"
+    },
+    {
+      "id": "08489f7d",
+      "bank_id": "60f75202",
+      "text": "Charlotte"
+    },
+    {
+      "id": "08489f7e",
+      "bank_id": "60f75202",
+      "text": "Clementine"
+    },
+    {
+      "id": "08489f7f",
+      "bank_id": "60f75202",
+      "text": "Whitney"
+    },
+    {
+      "id": "0948a0e6",
+      "bank_id": "60f75202",
+      "text": "Natasha"
+    },
+    {
+      "id": "0948a0e7",
+      "bank_id": "60f75202",
+      "text": "Olivia"
+    },
+    {
+      "id": "0948a0e8",
+      "bank_id": "60f75202",
+      "text": "Melissa"
+    },
+    {
+      "id": "0948a0e9",
+      "bank_id": "60f75202",
+      "text": "Monica"
+    },
+    {
+      "id": "0948a0ea",
+      "bank_id": "60f75202",
+      "text": "Geraldine"
+    },
+    {
+      "id": "0948a0eb",
+      "bank_id": "60f75202",
+      "text": "Kimberley"
+    },
+    {
+      "id": "0948a0ec",
+      "bank_id": "60f75202",
+      "text": "Danielle"
+    },
+    {
+      "id": "0948a0ed",
+      "bank_id": "60f75202",
+      "text": "Ellen"
+    },
+    {
+      "id": "0948a0ee",
+      "bank_id": "60f75202",
+      "text": "Caroline"
+    },
+    {
+      "id": "0948a0ef",
+      "bank_id": "60f75202",
+      "text": "Christine"
+    },
+    {
+      "id": "0a48a240",
+      "bank_id": "60f75202",
+      "text": "Sian"
+    },
+    {
+      "id": "0a48a241",
+      "bank_id": "60f75202",
+      "text": "Samantha"
+    },
+    {
+      "id": "0a48a242",
+      "bank_id": "60f75202",
+      "text": "Sylvia"
+    },
+    {
+      "id": "0a48a243",
+      "bank_id": "60f75202",
+      "text": "Susanne"
+    },
+    {
+      "id": "0a48a244",
+      "bank_id": "60f75202",
+      "text": "Zara"
+    },
+    {
+      "id": "0a48a245",
+      "bank_id": "60f75202",
+      "text": "Zoe"
+    },
+    {
+      "id": "0a48a246",
+      "bank_id": "60f75202",
+      "text": "Alyssa"
+    },
+    {
+      "id": "0a48a247",
+      "bank_id": "60f75202",
+      "text": "Penny"
+    },
+    {
+      "id": "0a48a248",
+      "bank_id": "60f75202",
+      "text": "Cara"
+    },
+    {
+      "id": "0a48a249",
+      "bank_id": "60f75202",
+      "text": "Camilla"
+    },
+    {
+      "id": "0b48a430",
+      "bank_id": "60f75202",
+      "text": "Nicola"
+    },
+    {
+      "id": "0b48a431",
+      "bank_id": "60f75202",
+      "text": "Nina"
+    },
+    {
+      "id": "0b48a432",
+      "bank_id": "60f75202",
+      "text": "Olive"
+    },
+    {
+      "id": "0b48a433",
+      "bank_id": "60f75202",
+      "text": "Phillippa"
+    },
+    {
+      "id": "0b48a434",
+      "bank_id": "60f75202",
+      "text": "Martina"
+    },
+    {
+      "id": "0b48a435",
+      "bank_id": "60f75202",
+      "text": "Mia"
+    },
+    {
+      "id": "0b48a436",
+      "bank_id": "60f75202",
+      "text": "Miriam"
+    },
+    {
+      "id": "0b48a437",
+      "bank_id": "60f75202",
+      "text": "Naomi"
+    },
+    {
+      "id": "0b48a43c",
+      "bank_id": "60f75202",
+      "text": "Rebecca"
+    },
+    {
+      "id": "0b48a43d",
+      "bank_id": "60f75202",
+      "text": "Rhiannon"
+    },
+    {
+      "id": "0b61f0e0",
+      "bank_id": "60f75202",
+      "text": "Denizaltıma binmeye çalışan bir insan kuyruğu olmamasına sevindim."
+    },
+    {
+      "id": "0c48a5a0",
+      "bank_id": "60f75202",
+      "text": "Lucy"
+    },
+    {
+      "id": "0c48a5a1",
+      "bank_id": "60f75202",
+      "text": "Leanne"
+    },
+    {
+      "id": "0c48a5a2",
+      "bank_id": "60f75202",
+      "text": "Lauren"
+    },
+    {
+      "id": "0c48a5a3",
+      "bank_id": "60f75202",
+      "text": "Lara"
+    },
+    {
+      "id": "0c48a5a4",
+      "bank_id": "60f75202",
+      "text": "Lana"
+    },
+    {
+      "id": "0c48a5a5",
+      "bank_id": "60f75202",
+      "text": "Keira"
+    },
+    {
+      "id": "0c48a5a6",
+      "bank_id": "60f75202",
+      "text": "Juliette"
+    },
+    {
+      "id": "0c48a5a7",
+      "bank_id": "60f75202",
+      "text": "Josephine"
+    },
+    {
+      "id": "0c48a5ae",
+      "bank_id": "60f75202",
+      "text": "Marion"
+    },
+    {
+      "id": "0c48a5af",
+      "bank_id": "60f75202",
+      "text": "Maria"
+    },
+    {
+      "id": "0d48a712",
+      "bank_id": "60f75202",
+      "text": "Holly"
+    },
+    {
+      "id": "0d48a713",
+      "bank_id": "60f75202",
+      "text": "Jessica"
+    },
+    {
+      "id": "0d48a718",
+      "bank_id": "60f75202",
+      "text": "Emily"
+    },
+    {
+      "id": "0d48a719",
+      "bank_id": "60f75202",
+      "text": "Eve"
+    },
+    {
+      "id": "0d48a71a",
+      "bank_id": "60f75202",
+      "text": "Chloe"
+    },
+    {
+      "id": "0d48a71b",
+      "bank_id": "60f75202",
+      "text": "Deborah"
+    },
+    {
+      "id": "0d48a71c",
+      "bank_id": "60f75202",
+      "text": "Hazel"
+    },
+    {
+      "id": "0d48a71d",
+      "bank_id": "60f75202",
+      "text": "Helen"
+    },
+    {
+      "id": "0d48a71e",
+      "bank_id": "60f75202",
+      "text": "Faye"
+    },
+    {
+      "id": "0d48a71f",
+      "bank_id": "60f75202",
+      "text": "Harriet"
+    },
+    {
+      "id": "0d75b098",
+      "bank_id": "60f75202",
+      "text": "Adam için yapay bir güneş icat etmeye çalıştım ama sadece parmaklarımı yakmayı becerebildim."
+    },
+    {
+      "id": "0e48a884",
+      "bank_id": "60f75202",
+      "text": "Jennifer"
+    },
+    {
+      "id": "0e48a885",
+      "bank_id": "60f75202",
+      "text": "Beth"
+    },
+    {
+      "id": "0e48a888",
+      "bank_id": "60f75202",
+      "text": "Alison"
+    },
+    {
+      "id": "0e48a889",
+      "bank_id": "60f75202",
+      "text": "Miriam"
+    },
+    {
+      "id": "0e48a88a",
+      "bank_id": "60f75202",
+      "text": "Joanna"
+    },
+    {
+      "id": "0e48a88b",
+      "bank_id": "60f75202",
+      "text": "Georgina"
+    },
+    {
+      "id": "0e48a88c",
+      "bank_id": "60f75202",
+      "text": "Sophie"
+    },
+    {
+      "id": "0e48a88e",
+      "bank_id": "60f75202",
+      "text": "Georgia"
+    },
+    {
+      "id": "0e48a88f",
+      "bank_id": "60f75202",
+      "text": "Victoria"
+    },
+    {
+      "id": "1402bc0b",
+      "bank_id": "60f75202",
+      "text": "Ginger"
+    },
+    {
+      "id": "147112f3",
+      "bank_id": "60f75202",
+      "text": "Bob"
+    },
+    {
+      "id": "151cf452",
+      "bank_id": "60f75202",
+      "text": "Kule muhafızı"
+    },
+    {
+      "id": "15af6f66",
+      "bank_id": "60f75202",
+      "text": "kıymıklar"
+    },
+    {
+      "id": "1702c0c0",
+      "bank_id": "60f75202",
+      "text": "Kira"
+    },
+    {
+      "id": "1702c0c1",
+      "bank_id": "60f75202",
+      "text": "Krista"
+    },
+    {
+      "id": "1702c0c2",
+      "bank_id": "60f75202",
+      "text": "Kristen"
+    },
+    {
+      "id": "1702c0c3",
+      "bank_id": "60f75202",
+      "text": "Leah"
+    },
+    {
+      "id": "1702c0c4",
+      "bank_id": "60f75202",
+      "text": "Jodie"
+    },
+    {
+      "id": "1702c0c5",
+      "bank_id": "60f75202",
+      "text": "Judy"
+    },
+    {
+      "id": "1702c0c6",
+      "bank_id": "60f75202",
+      "text": "Jules"
+    },
+    {
+      "id": "1702c0c7",
+      "bank_id": "60f75202",
+      "text": "Kathy"
+    },
+    {
+      "id": "1702c0cc",
+      "bank_id": "60f75202",
+      "text": "Leyla"
+    },
+    {
+      "id": "1702c0cd",
+      "bank_id": "60f75202",
+      "text": "Lindsey"
+    },
+    {
+      "id": "17869c9a",
+      "bank_id": "60f75202",
+      "text": "Bu rıhtımda tuhaf bir koku var, sence de öyle değil mi?"
+    },
+    {
+      "id": "1802c2b0",
+      "bank_id": "60f75202",
+      "text": "Gerry"
+    },
+    {
+      "id": "1802c2b1",
+      "bank_id": "60f75202",
+      "text": "Brook"
+    },
+    {
+      "id": "1802c2b2",
+      "bank_id": "60f75202",
+      "text": "Bev"
+    },
+    {
+      "id": "1802c2b3",
+      "bank_id": "60f75202",
+      "text": "Annie"
+    },
+    {
+      "id": "1802c2b4",
+      "bank_id": "60f75202",
+      "text": "Anneka"
+    },
+    {
+      "id": "1802c2b5",
+      "bank_id": "60f75202",
+      "text": "Flick"
+    },
+    {
+      "id": "1802c2b6",
+      "bank_id": "60f75202",
+      "text": "Nikki"
+    },
+    {
+      "id": "1802c2be",
+      "bank_id": "60f75202",
+      "text": "Jade"
+    },
+    {
+      "id": "1802c2bf",
+      "bank_id": "60f75202",
+      "text": "Jackie"
+    },
+    {
+      "id": "1902c422",
+      "bank_id": "60f75202",
+      "text": "Jenna"
+    },
+    {
+      "id": "1902c423",
+      "bank_id": "60f75202",
+      "text": "Lolita"
+    },
+    {
+      "id": "1902c428",
+      "bank_id": "60f75202",
+      "text": "Tara"
+    },
+    {
+      "id": "1902c429",
+      "bank_id": "60f75202",
+      "text": "Tiff"
+    },
+    {
+      "id": "1902c42a",
+      "bank_id": "60f75202",
+      "text": "Steph"
+    },
+    {
+      "id": "1902c42b",
+      "bank_id": "60f75202",
+      "text": "Tanya"
+    },
+    {
+      "id": "1902c42c",
+      "bank_id": "60f75202",
+      "text": "Kirstin"
+    },
+    {
+      "id": "1902c42d",
+      "bank_id": "60f75202",
+      "text": "Sabrina"
+    },
+    {
+      "id": "1902c42e",
+      "bank_id": "60f75202",
+      "text": "Tina"
+    },
+    {
+      "id": "1902c42f",
+      "bank_id": "60f75202",
+      "text": "Vikki"
+    },
+    {
+      "id": "1a02c594",
+      "bank_id": "60f75202",
+      "text": "Stella"
+    },
+    {
+      "id": "1a02c595",
+      "bank_id": "60f75202",
+      "text": "Stacey"
+    },
+    {
+      "id": "1a02c598",
+      "bank_id": "60f75202",
+      "text": "Sadie"
+    },
+    {
+      "id": "1a02c599",
+      "bank_id": "60f75202",
+      "text": "Roz"
+    },
+    {
+      "id": "1a02c59a",
+      "bank_id": "60f75202",
+      "text": "Shona"
+    },
+    {
+      "id": "1a02c59b",
+      "bank_id": "60f75202",
+      "text": "Shelly"
+    },
+    {
+      "id": "1a02c59c",
+      "bank_id": "60f75202",
+      "text": "Maggie"
+    },
+    {
+      "id": "1a02c59d",
+      "bank_id": "60f75202",
+      "text": "Lynn"
+    },
+    {
+      "id": "1a02c59e",
+      "bank_id": "60f75202",
+      "text": "Paige"
+    },
+    {
+      "id": "1a02c59f",
+      "bank_id": "60f75202",
+      "text": "Mandy"
+    },
+    {
+      "id": "1e3ad310",
+      "bank_id": "60f75202",
+      "text": "Büyü kullanmaya dövüşmek mi diyorsun sen? Güldürme beni!"
+    },
+    {
+      "id": "1e3ad311",
+      "bank_id": "60f75202",
+      "text": "Pek gerçek büyü görmem ben. Ve öyle kalmasını tercih ederim."
+    },
+    {
+      "id": "1e3ad313",
+      "bank_id": "60f75202",
+      "text": "Siz İrade kullanıcıları hilekâr bir avuç kukladan ibaretsiniz!"
+    },
+    {
+      "id": "2061a1d3",
+      "bank_id": "60f75202",
+      "text": "böcekler"
+    },
+    {
+      "id": "22fcd832",
+      "bank_id": "60f75202",
+      "text": "Memleket o kadar soğuk ki herkes bir yerlere saklanmış durumda."
+    },
+    {
+      "id": "2313a442",
+      "bank_id": "60f75202",
+      "text": "Zurgoroth"
+    },
+    {
+      "id": "2413a630",
+      "bank_id": "60f75202",
+      "text": "Kreton"
+    },
+    {
+      "id": "2413a631",
+      "bank_id": "60f75202",
+      "text": "Racknor"
+    },
+    {
+      "id": "2413a632",
+      "bank_id": "60f75202",
+      "text": "Temperax"
+    },
+    {
+      "id": "2413a633",
+      "bank_id": "60f75202",
+      "text": "Beardrix"
+    },
+    {
+      "id": "2413a634",
+      "bank_id": "60f75202",
+      "text": "Grimlor"
+    },
+    {
+      "id": "2413a636",
+      "bank_id": "60f75202",
+      "text": "Mordrin"
+    },
+    {
+      "id": "2413a637",
+      "bank_id": "60f75202",
+      "text": "Murgoth"
+    },
+    {
+      "id": "2413a63c",
+      "bank_id": "60f75202",
+      "text": "Norgrin"
+    },
+    {
+      "id": "2413a63d",
+      "bank_id": "60f75202",
+      "text": "Testorn"
+    },
+    {
+      "id": "241d999d",
+      "bank_id": "60f75202",
+      "text": "İrade kullanan suçlu pek yok. Güçlerinizi daha yararlı yollarla kullanmayı düşünemiyor musunuz?"
+    },
+    {
+      "id": "241d999e",
+      "bank_id": "60f75202",
+      "text": "İstediğin kadar büyü dene. Kanun eninde sonunda seni yakalayacak."
+    },
+    {
+      "id": "2bf86c12",
+      "bank_id": "60f75202",
+      "text": "haydutlar"
+    },
+    {
+      "id": "2d9d2902",
+      "bank_id": "60f75202",
+      "text": "Son zamanlarda adada yağmur hiç dinmedi. Bu konuda gerçekten bir şeyler yapman gerek."
+    },
+    {
+      "id": "3413e091",
+      "bank_id": "60f75202",
+      "text": "Şu sözde İrade güçlerin seni şimdi kurtaramaz."
+    },
+    {
+      "id": "3413e092",
+      "bank_id": "60f75202",
+      "text": "İnsanlar bu İrade zımbırtısını yeniden keşfetmeye başlamadan önce her şey çok daha iyiydi."
+    },
+    {
+      "id": "358551a8",
+      "bank_id": "60f75202",
+      "text": "balverine'ler"
+    },
+    {
+      "id": "3e967ad0",
+      "bank_id": "60f75202",
+      "text": "bataklık trolü"
+    },
+    {
+      "id": "422d60ae",
+      "bank_id": "60f75202",
+      "text": "Adanın ne kadar sıcak olduğu hakkında hiçbir fikrin yok. Kalan tek su birkaç ter birikintisinden ibaret."
+    },
+    {
+      "id": "454a2884",
+      "bank_id": "60f75202",
+      "text": "Knothole Adası büyük bir dertte. Lütfen bir şeyler yap."
+    },
+    {
+      "id": "474864a1",
+      "bank_id": "60f75202",
+      "text": "Bana vurabileceğini mi sanıyorsun? Görelim bakalım."
+    },
+    {
+      "id": "488c18c0",
+      "bank_id": "60f75202",
+      "text": "Aishe"
+    },
+    {
+      "id": "488c18c1",
+      "bank_id": "60f75202",
+      "text": "Dika"
+    },
+    {
+      "id": "488c18c2",
+      "bank_id": "60f75202",
+      "text": "Donka"
+    },
+    {
+      "id": "488c18c3",
+      "bank_id": "60f75202",
+      "text": "Drina"
+    },
+    {
+      "id": "488c18c5",
+      "bank_id": "60f75202",
+      "text": "Jasmine"
+    },
+    {
+      "id": "488c18c6",
+      "bank_id": "60f75202",
+      "text": "Lily"
+    },
+    {
+      "id": "488c18c7",
+      "bank_id": "60f75202",
+      "text": "Zelda"
+    },
+    {
+      "id": "488c18cc",
+      "bank_id": "60f75202",
+      "text": "Esmeralda"
+    },
+    {
+      "id": "488c18cd",
+      "bank_id": "60f75202",
+      "text": "Fifika"
+    },
+    {
+      "id": "49403000",
+      "bank_id": "60f75202",
+      "text": "Matt Keil"
+    },
+    {
+      "id": "497f4b06",
+      "bank_id": "60f75202",
+      "text": "banshee'ler"
+    },
+    {
+      "id": "498c1ab0",
+      "bank_id": "60f75202",
+      "text": "Nadya"
+    },
+    {
+      "id": "498c1ab1",
+      "bank_id": "60f75202",
+      "text": "Mirela"
+    },
+    {
+      "id": "498c1ab2",
+      "bank_id": "60f75202",
+      "text": "Mala"
+    },
+    {
+      "id": "498c1ab3",
+      "bank_id": "60f75202",
+      "text": "Lyuba"
+    },
+    {
+      "id": "498c1ab4",
+      "bank_id": "60f75202",
+      "text": "Kizzy"
+    },
+    {
+      "id": "498c1ab5",
+      "bank_id": "60f75202",
+      "text": "Jofranka"
+    },
+    {
+      "id": "498c1ab6",
+      "bank_id": "60f75202",
+      "text": "Jaelle"
+    },
+    {
+      "id": "498c1ab7",
+      "bank_id": "60f75202",
+      "text": "Florica"
+    },
+    {
+      "id": "498c1abe",
+      "bank_id": "60f75202",
+      "text": "Stanka"
+    },
+    {
+      "id": "498c1abf",
+      "bank_id": "60f75202",
+      "text": "Simza"
+    },
+    {
+      "id": "4a8c1c28",
+      "bank_id": "60f75202",
+      "text": "Vadoma"
+    },
+    {
+      "id": "4a8c1c29",
+      "bank_id": "60f75202",
+      "text": "Violca"
+    },
+    {
+      "id": "4a8c1c2a",
+      "bank_id": "60f75202",
+      "text": "Talaitha"
+    },
+    {
+      "id": "4a8c1c2b",
+      "bank_id": "60f75202",
+      "text": "Tsura"
+    },
+    {
+      "id": "4a8c1c2e",
+      "bank_id": "60f75202",
+      "text": "Azaria"
+    },
+    {
+      "id": "4a8c1c2f",
+      "bank_id": "60f75202",
+      "text": "Heather"
+    },
+    {
+      "id": "4b312573",
+      "bank_id": "60f75202",
+      "text": "Jeffrey Kalles"
+    },
+    {
+      "id": "4c75ac28",
+      "bank_id": "60f75202",
+      "text": "kof adamlar"
+    },
+    {
+      "id": "505f577e",
+      "bank_id": "60f75202",
+      "text": "ağaç trolü"
+    },
+    {
+      "id": "539c476c",
+      "bank_id": "60f75202",
+      "text": "Bana ateş edersen pişman olursun."
+    },
+    {
+      "id": "539c476f",
+      "bank_id": "60f75202",
+      "text": "Senin yerinde olsam ateş etmezdim!"
+    },
+    {
+      "id": "54e38220",
+      "bank_id": "60f75202",
+      "text": "Adayı nasıl buldun öyleyse?"
+    },
+    {
+      "id": "5774313a",
+      "bank_id": "60f75202",
+      "text": "yolkesenler"
+    },
+    {
+      "id": "5c440c45",
+      "bank_id": "60f75202",
+      "text": "troller"
+    },
+    {
+      "id": "6342fa10",
+      "bank_id": "60f75202",
+      "text": "Clarence"
+    },
+    {
+      "id": "6342fa11",
+      "bank_id": "60f75202",
+      "text": "Rory"
+    },
+    {
+      "id": "6342fa12",
+      "bank_id": "60f75202",
+      "text": "Sebastian"
+    },
+    {
+      "id": "6342fa13",
+      "bank_id": "60f75202",
+      "text": "Spencer"
+    },
+    {
+      "id": "6342fa14",
+      "bank_id": "60f75202",
+      "text": "Warwick"
+    },
+    {
+      "id": "6342fa15",
+      "bank_id": "60f75202",
+      "text": "Zach"
+    },
+    {
+      "id": "6342fa16",
+      "bank_id": "60f75202",
+      "text": "Walter"
+    },
+    {
+      "id": "6342fa17",
+      "bank_id": "60f75202",
+      "text": "Edgar"
+    },
+    {
+      "id": "6342fa18",
+      "bank_id": "60f75202",
+      "text": "Elliott"
+    },
+    {
+      "id": "6342fa19",
+      "bank_id": "60f75202",
+      "text": "Geoffrey"
+    },
+    {
+      "id": "6442fb80",
+      "bank_id": "60f75202",
+      "text": "Benjamin"
+    },
+    {
+      "id": "6442fb81",
+      "bank_id": "60f75202",
+      "text": "Bertrand"
+    },
+    {
+      "id": "6442fb82",
+      "bank_id": "60f75202",
+      "text": "Percy"
+    },
+    {
+      "id": "6442fb84",
+      "bank_id": "60f75202",
+      "text": "Archie"
+    },
+    {
+      "id": "6442fb85",
+      "bank_id": "60f75202",
+      "text": "Bertie"
+    },
+    {
+      "id": "6442fb86",
+      "bank_id": "60f75202",
+      "text": "Tarquin"
+    },
+    {
+      "id": "6442fb87",
+      "bank_id": "60f75202",
+      "text": "Quentin"
+    },
+    {
+      "id": "6442fb8a",
+      "bank_id": "60f75202",
+      "text": "Byron"
+    },
+    {
+      "id": "6442fb8b",
+      "bank_id": "60f75202",
+      "text": "Barnaby"
+    },
+    {
+      "id": "6542fd70",
+      "bank_id": "60f75202",
+      "text": "Alexander"
+    },
+    {
+      "id": "6542fd71",
+      "bank_id": "60f75202",
+      "text": "Ambrose"
+    },
+    {
+      "id": "6542fd72",
+      "bank_id": "60f75202",
+      "text": "Tristen"
+    },
+    {
+      "id": "6542fd73",
+      "bank_id": "60f75202",
+      "text": "Leo"
+    },
+    {
+      "id": "6542fd74",
+      "bank_id": "60f75202",
+      "text": "Oscar"
+    },
+    {
+      "id": "6542fd75",
+      "bank_id": "60f75202",
+      "text": "Rupert"
+    },
+    {
+      "id": "6542fd76",
+      "bank_id": "60f75202",
+      "text": "Kenneth"
+    },
+    {
+      "id": "6542fd77",
+      "bank_id": "60f75202",
+      "text": "Lawrence"
+    },
+    {
+      "id": "6542fd7e",
+      "bank_id": "60f75202",
+      "text": "Charlton"
+    },
+    {
+      "id": "6542fd7f",
+      "bank_id": "60f75202",
+      "text": "Kaspar"
+    },
+    {
+      "id": "6642fee0",
+      "bank_id": "60f75202",
+      "text": "Jerome"
+    },
+    {
+      "id": "6642fee1",
+      "bank_id": "60f75202",
+      "text": "Harvey"
+    },
+    {
+      "id": "6642fee8",
+      "bank_id": "60f75202",
+      "text": "Kenneth"
+    },
+    {
+      "id": "6642fee9",
+      "bank_id": "60f75202",
+      "text": "Gilbert"
+    },
+    {
+      "id": "6642feea",
+      "bank_id": "60f75202",
+      "text": "William"
+    },
+    {
+      "id": "6642feeb",
+      "bank_id": "60f75202",
+      "text": "Lucas"
+    },
+    {
+      "id": "6642feec",
+      "bank_id": "60f75202",
+      "text": "Mervin"
+    },
+    {
+      "id": "6642feed",
+      "bank_id": "60f75202",
+      "text": "Cuthbert"
+    },
+    {
+      "id": "6642feee",
+      "bank_id": "60f75202",
+      "text": "Frederick"
+    },
+    {
+      "id": "6642feef",
+      "bank_id": "60f75202",
+      "text": "Crispin"
+    },
+    {
+      "id": "67430058",
+      "bank_id": "60f75202",
+      "text": "Boris"
+    },
+    {
+      "id": "67430059",
+      "bank_id": "60f75202",
+      "text": "Cameron"
+    },
+    {
+      "id": "6743005c",
+      "bank_id": "60f75202",
+      "text": "Alvar"
+    },
+    {
+      "id": "6743005d",
+      "bank_id": "60f75202",
+      "text": "Kelvin"
+    },
+    {
+      "id": "6743005e",
+      "bank_id": "60f75202",
+      "text": "Horace"
+    },
+    {
+      "id": "6743005f",
+      "bank_id": "60f75202",
+      "text": "Cleo"
+    },
+    {
+      "id": "684301c6",
+      "bank_id": "60f75202",
+      "text": "Clifford"
+    },
+    {
+      "id": "684301c7",
+      "bank_id": "60f75202",
+      "text": "Solomon"
+    },
+    {
+      "id": "684301c8",
+      "bank_id": "60f75202",
+      "text": "Rudyard"
+    },
+    {
+      "id": "684301c9",
+      "bank_id": "60f75202",
+      "text": "Winston"
+    },
+    {
+      "id": "684301ca",
+      "bank_id": "60f75202",
+      "text": "Bendrix"
+    },
+    {
+      "id": "684301cb",
+      "bank_id": "60f75202",
+      "text": "Bennet"
+    },
+    {
+      "id": "684301cc",
+      "bank_id": "60f75202",
+      "text": "Finnegan"
+    },
+    {
+      "id": "684301cd",
+      "bank_id": "60f75202",
+      "text": "Chumley"
+    },
+    {
+      "id": "684301ce",
+      "bank_id": "60f75202",
+      "text": "Jasper"
+    },
+    {
+      "id": "684301cf",
+      "bank_id": "60f75202",
+      "text": "Bartholomew"
+    },
+    {
+      "id": "69d18ba8",
+      "bank_id": "60f75202",
+      "text": "Adadaki durum değişmezse oturma odama denizaltıyla gidebileceğim."
+    },
+    {
+      "id": "6ccf2270",
+      "bank_id": "60f75202",
+      "text": "Joseph"
+    },
+    {
+      "id": "6ccf2271",
+      "bank_id": "60f75202",
+      "text": "Leonard"
+    },
+    {
+      "id": "6ccf2272",
+      "bank_id": "60f75202",
+      "text": "Gregory"
+    },
+    {
+      "id": "6ccf2273",
+      "bank_id": "60f75202",
+      "text": "Earl"
+    },
+    {
+      "id": "6ccf2274",
+      "bank_id": "60f75202",
+      "text": "Gordon"
+    },
+    {
+      "id": "6ccf2275",
+      "bank_id": "60f75202",
+      "text": "Guy"
+    },
+    {
+      "id": "6ccf2276",
+      "bank_id": "60f75202",
+      "text": "Harry"
+    },
+    {
+      "id": "6ccf2277",
+      "bank_id": "60f75202",
+      "text": "Hayden"
+    },
+    {
+      "id": "6ccf2278",
+      "bank_id": "60f75202",
+      "text": "Justin"
+    },
+    {
+      "id": "6ccf2279",
+      "bank_id": "60f75202",
+      "text": "Lewis"
+    },
+    {
+      "id": "6dcf23e0",
+      "bank_id": "60f75202",
+      "text": "Benjamin"
+    },
+    {
+      "id": "6dcf23e1",
+      "bank_id": "60f75202",
+      "text": "Toby"
+    },
+    {
+      "id": "6dcf23e2",
+      "bank_id": "60f75202",
+      "text": "Timothy"
+    },
+    {
+      "id": "6dcf23e3",
+      "bank_id": "60f75202",
+      "text": "Roger"
+    },
+    {
+      "id": "6dcf23e4",
+      "bank_id": "60f75202",
+      "text": "Donald"
+    },
+    {
+      "id": "6dcf23e5",
+      "bank_id": "60f75202",
+      "text": "Daniel"
+    },
+    {
+      "id": "6dcf23e6",
+      "bank_id": "60f75202",
+      "text": "Warren"
+    },
+    {
+      "id": "6dcf23e7",
+      "bank_id": "60f75202",
+      "text": "Victor"
+    },
+    {
+      "id": "6dcf23ea",
+      "bank_id": "60f75202",
+      "text": "David"
+    },
+    {
+      "id": "6dcf23eb",
+      "bank_id": "60f75202",
+      "text": "Martin"
+    },
+    {
+      "id": "6ecf2550",
+      "bank_id": "60f75202",
+      "text": "Hugo"
+    },
+    {
+      "id": "6ecf2551",
+      "bank_id": "60f75202",
+      "text": "Edmund"
+    },
+    {
+      "id": "6ecf2552",
+      "bank_id": "60f75202",
+      "text": "Desmond"
+    },
+    {
+      "id": "6ecf2553",
+      "bank_id": "60f75202",
+      "text": "Lester"
+    },
+    {
+      "id": "6ecf2554",
+      "bank_id": "60f75202",
+      "text": "Walt"
+    },
+    {
+      "id": "6ecf2555",
+      "bank_id": "60f75202",
+      "text": "Bernard"
+    },
+    {
+      "id": "6ecf2556",
+      "bank_id": "60f75202",
+      "text": "Colin"
+    },
+    {
+      "id": "6ecf2557",
+      "bank_id": "60f75202",
+      "text": "Duncan"
+    },
+    {
+      "id": "6ecf255e",
+      "bank_id": "60f75202",
+      "text": "Ronald"
+    },
+    {
+      "id": "6ecf255f",
+      "bank_id": "60f75202",
+      "text": "Douglas"
+    },
+    {
+      "id": "70cf28b4",
+      "bank_id": "60f75202",
+      "text": "Graham"
+    },
+    {
+      "id": "70cf28b5",
+      "bank_id": "60f75202",
+      "text": "Howard"
+    },
+    {
+      "id": "70cf28b8",
+      "bank_id": "60f75202",
+      "text": "Marcus"
+    },
+    {
+      "id": "70cf28b9",
+      "bank_id": "60f75202",
+      "text": "Jacob"
+    },
+    {
+      "id": "70cf28ba",
+      "bank_id": "60f75202",
+      "text": "Christopher"
+    },
+    {
+      "id": "70cf28bb",
+      "bank_id": "60f75202",
+      "text": "Anthony"
+    },
+    {
+      "id": "70cf28bd",
+      "bank_id": "60f75202",
+      "text": "Marvin"
+    },
+    {
+      "id": "70cf28be",
+      "bank_id": "60f75202",
+      "text": "Jonathan"
+    },
+    {
+      "id": "70cf28bf",
+      "bank_id": "60f75202",
+      "text": "Oliver"
+    },
+    {
+      "id": "71cf2a26",
+      "bank_id": "60f75202",
+      "text": "Simon"
+    },
+    {
+      "id": "71cf2a27",
+      "bank_id": "60f75202",
+      "text": "Nigel"
+    },
+    {
+      "id": "71cf2a28",
+      "bank_id": "60f75202",
+      "text": "Robin"
+    },
+    {
+      "id": "71cf2a29",
+      "bank_id": "60f75202",
+      "text": "Raymond"
+    },
+    {
+      "id": "71cf2a2a",
+      "bank_id": "60f75202",
+      "text": "Philip"
+    },
+    {
+      "id": "71cf2a2b",
+      "bank_id": "60f75202",
+      "text": "Robert"
+    },
+    {
+      "id": "71cf2a2c",
+      "bank_id": "60f75202",
+      "text": "Malcolm"
+    },
+    {
+      "id": "71cf2a2d",
+      "bank_id": "60f75202",
+      "text": "George"
+    },
+    {
+      "id": "71cf2a2e",
+      "bank_id": "60f75202",
+      "text": "Hugh"
+    },
+    {
+      "id": "71cf2a2f",
+      "bank_id": "60f75202",
+      "text": "Henry"
+    },
+    {
+      "id": "72cf2b80",
+      "bank_id": "60f75202",
+      "text": "Charles"
+    },
+    {
+      "id": "72cf2b81",
+      "bank_id": "60f75202",
+      "text": "Andrew"
+    },
+    {
+      "id": "72cf2b82",
+      "bank_id": "60f75202",
+      "text": "Stephen"
+    },
+    {
+      "id": "72cf2b83",
+      "bank_id": "60f75202",
+      "text": "Clive"
+    },
+    {
+      "id": "72cf2b84",
+      "bank_id": "60f75202",
+      "text": "Edward"
+    },
+    {
+      "id": "72cf2b85",
+      "bank_id": "60f75202",
+      "text": "Francis"
+    },
+    {
+      "id": "72cf2b86",
+      "bank_id": "60f75202",
+      "text": "Damian"
+    },
+    {
+      "id": "72cf2b87",
+      "bank_id": "60f75202",
+      "text": "David"
+    },
+    {
+      "id": "72cf2b8a",
+      "bank_id": "60f75202",
+      "text": "William"
+    },
+    {
+      "id": "72cf2b8b",
+      "bank_id": "60f75202",
+      "text": "Jeremie"
+    },
+    {
+      "id": "73cf2d70",
+      "bank_id": "60f75202",
+      "text": "Patrick"
+    },
+    {
+      "id": "73cf2d71",
+      "bank_id": "60f75202",
+      "text": "Nathan"
+    },
+    {
+      "id": "73cf2d72",
+      "bank_id": "60f75202",
+      "text": "Stewart"
+    },
+    {
+      "id": "73cf2d73",
+      "bank_id": "60f75202",
+      "text": "Russell"
+    },
+    {
+      "id": "73cf2d74",
+      "bank_id": "60f75202",
+      "text": "Keith"
+    },
+    {
+      "id": "73cf2d75",
+      "bank_id": "60f75202",
+      "text": "Julian"
+    },
+    {
+      "id": "73cf2d76",
+      "bank_id": "60f75202",
+      "text": "Michael"
+    },
+    {
+      "id": "73cf2d77",
+      "bank_id": "60f75202",
+      "text": "Matthew"
+    },
+    {
+      "id": "73cf2d7c",
+      "bank_id": "60f75202",
+      "text": "Josh"
+    },
+    {
+      "id": "73cf2d7d",
+      "bank_id": "60f75202",
+      "text": "Albert"
+    },
+    {
+      "id": "748d3b6f",
+      "bank_id": "60f75202",
+      "text": "kaya trolü"
+    },
+    {
+      "id": "797ad18c",
+      "bank_id": "60f75202",
+      "text": "Seni çelimsiz, aptal büyücü. Kazanının başına dön sen!"
+    },
+    {
+      "id": "797ad18e",
+      "bank_id": "60f75202",
+      "text": "O İrade kullanıcılarından birisin, değil mi? Şansıma tüküreyim."
+    },
+    {
+      "id": "797ad18f",
+      "bank_id": "60f75202",
+      "text": "Bana bir büyü yapmaya kalk da ağzına kılıcı ye bakalım."
+    },
+    {
+      "id": "7ad3155e",
+      "bank_id": "60f75202",
+      "text": "Adaya geliyor musun? Yardımına gerçekten çok ihtiyacımız var."
+    },
+    {
+      "id": "7e055f48",
+      "bank_id": "60f75202",
+      "text": "Ker"
+    },
+    {
+      "id": "7e055f49",
+      "bank_id": "60f75202",
+      "text": "Bersh"
+    },
+    {
+      "id": "7e055f4a",
+      "bank_id": "60f75202",
+      "text": "Baul"
+    },
+    {
+      "id": "7e055f4b",
+      "bank_id": "60f75202",
+      "text": "Jivin"
+    },
+    {
+      "id": "7e055f4e",
+      "bank_id": "60f75202",
+      "text": "Merripen"
+    },
+    {
+      "id": "7e055f4f",
+      "bank_id": "60f75202",
+      "text": "Lennor"
+    },
+    {
+      "id": "7f056136",
+      "bank_id": "60f75202",
+      "text": "Yarb"
+    },
+    {
+      "id": "7f056137",
+      "bank_id": "60f75202",
+      "text": "Ker"
+    },
+    {
+      "id": "7f056138",
+      "bank_id": "60f75202",
+      "text": "Tobar"
+    },
+    {
+      "id": "7f056139",
+      "bank_id": "60f75202",
+      "text": "Wen"
+    },
+    {
+      "id": "7f05613a",
+      "bank_id": "60f75202",
+      "text": "Rye"
+    },
+    {
+      "id": "7f05613b",
+      "bank_id": "60f75202",
+      "text": "Tas"
+    },
+    {
+      "id": "7f05613c",
+      "bank_id": "60f75202",
+      "text": "Durriken"
+    },
+    {
+      "id": "7f05613d",
+      "bank_id": "60f75202",
+      "text": "Durril"
+    },
+    {
+      "id": "7f05613e",
+      "bank_id": "60f75202",
+      "text": "Danior"
+    },
+    {
+      "id": "7f05613f",
+      "bank_id": "60f75202",
+      "text": "Dukker"
+    },
+    {
+      "id": "7fc91bf5",
+      "bank_id": "60f75202",
+      "text": "Burası adadan çok daha gürültülü."
+    },
+    {
+      "id": "80056290",
+      "bank_id": "60f75202",
+      "text": "Andrzej"
+    },
+    {
+      "id": "80056292",
+      "bank_id": "60f75202",
+      "text": "Zolen"
+    },
+    {
+      "id": "80056293",
+      "bank_id": "60f75202",
+      "text": "Cloud"
+    },
+    {
+      "id": "80056294",
+      "bank_id": "60f75202",
+      "text": "Bark"
+    },
+    {
+      "id": "80056295",
+      "bank_id": "60f75202",
+      "text": "Twig"
+    },
+    {
+      "id": "80056296",
+      "bank_id": "60f75202",
+      "text": "Brishen"
+    },
+    {
+      "id": "80056297",
+      "bank_id": "60f75202",
+      "text": "Woody"
+    },
+    {
+      "id": "80056298",
+      "bank_id": "60f75202",
+      "text": "Chik"
+    },
+    {
+      "id": "80056299",
+      "bank_id": "60f75202",
+      "text": "Camlo"
+    },
+    {
+      "id": "801ea0ef",
+      "bank_id": "60f75202",
+      "text": "Oh, su altında başka bir yolculuğa hazır mısın?"
+    },
+    {
+      "id": "81c02a48",
+      "bank_id": "60f75202",
+      "text": "Büyülü güçlerin hakkında her şeyi duydum. Beni korkutmuyorlar."
+    },
+    {
+      "id": "81c02a4b",
+      "bank_id": "60f75202",
+      "text": "Bana kalsa büyü kullanımının her türlüsünü yasaklardım!"
+    },
+    {
+      "id": "82205ca4",
+      "bank_id": "60f75202",
+      "text": "Elinden geleni ardına koyma seni hain!"
+    },
+    {
+      "id": "82205ca7",
+      "bank_id": "60f75202",
+      "text": "Sıkıysa vur bana."
+    },
+    {
+      "id": "83b68b54",
+      "bank_id": "60f75202",
+      "text": "Dürüstçe söyleyebilirim ki bu birinin bana vurmaya çalıştığı en ucubece şey."
+    },
+    {
+      "id": "83b68b55",
+      "bank_id": "60f75202",
+      "text": "Heh heh! Daha önce hiç böyle bir şeyle vurulmamıştım!"
+    },
+    {
+      "id": "83b68b57",
+      "bank_id": "60f75202",
+      "text": "Ha ha! Bana ONUNLA mı vuracaksın?! Paha biçilemez bu."
+    },
+    {
+      "id": "875950b1",
+      "bank_id": "60f75202",
+      "text": "Georg"
+    },
+    {
+      "id": "89595390",
+      "bank_id": "60f75202",
+      "text": "Dean"
+    },
+    {
+      "id": "89595391",
+      "bank_id": "60f75202",
+      "text": "Eric"
+    },
+    {
+      "id": "89595392",
+      "bank_id": "60f75202",
+      "text": "Craig"
+    },
+    {
+      "id": "89595393",
+      "bank_id": "60f75202",
+      "text": "Darren"
+    },
+    {
+      "id": "89595394",
+      "bank_id": "60f75202",
+      "text": "Brian"
+    },
+    {
+      "id": "89595395",
+      "bank_id": "60f75202",
+      "text": "Chris"
+    },
+    {
+      "id": "89595396",
+      "bank_id": "60f75202",
+      "text": "Bill"
+    },
+    {
+      "id": "89595397",
+      "bank_id": "60f75202",
+      "text": "Bob"
+    },
+    {
+      "id": "8959539e",
+      "bank_id": "60f75202",
+      "text": "Frank"
+    },
+    {
+      "id": "8959539f",
+      "bank_id": "60f75202",
+      "text": "Gareth"
+    },
+    {
+      "id": "8a595501",
+      "bank_id": "60f75202",
+      "text": "Aaron"
+    },
+    {
+      "id": "8a595508",
+      "bank_id": "60f75202",
+      "text": "Bert"
+    },
+    {
+      "id": "8a595509",
+      "bank_id": "60f75202",
+      "text": "Seth"
+    },
+    {
+      "id": "8a59550a",
+      "bank_id": "60f75202",
+      "text": "Kiernan"
+    },
+    {
+      "id": "8a59550b",
+      "bank_id": "60f75202",
+      "text": "Bryn"
+    },
+    {
+      "id": "8a59550c",
+      "bank_id": "60f75202",
+      "text": "Ernie"
+    },
+    {
+      "id": "8a59550d",
+      "bank_id": "60f75202",
+      "text": "Rick"
+    },
+    {
+      "id": "8a59550e",
+      "bank_id": "60f75202",
+      "text": "Paddy"
+    },
+    {
+      "id": "8a59550f",
+      "bank_id": "60f75202",
+      "text": "Tim"
+    },
+    {
+      "id": "8b1ff7e8",
+      "bank_id": "60f75202",
+      "text": "Şimdi ayrılmak ister misiniz?"
+    },
+    {
+      "id": "8b5956f4",
+      "bank_id": "60f75202",
+      "text": "Paul"
+    },
+    {
+      "id": "8b5956f5",
+      "bank_id": "60f75202",
+      "text": "Pete"
+    },
+    {
+      "id": "8b5956f8",
+      "bank_id": "60f75202",
+      "text": "Matt"
+    },
+    {
+      "id": "8b5956f9",
+      "bank_id": "60f75202",
+      "text": "Mike"
+    },
+    {
+      "id": "8b5956fa",
+      "bank_id": "60f75202",
+      "text": "Neil"
+    },
+    {
+      "id": "8b5956fb",
+      "bank_id": "60f75202",
+      "text": "Pat"
+    },
+    {
+      "id": "8b5956fc",
+      "bank_id": "60f75202",
+      "text": "James"
+    },
+    {
+      "id": "8b5956fd",
+      "bank_id": "60f75202",
+      "text": "Kieran"
+    },
+    {
+      "id": "8b5956fe",
+      "bank_id": "60f75202",
+      "text": "Luke"
+    },
+    {
+      "id": "8b5956ff",
+      "bank_id": "60f75202",
+      "text": "Martin"
+    },
+    {
+      "id": "8ba8107a",
+      "bank_id": "60f75202",
+      "text": "Jessica'nın dükkânı Sırlar Kutusu'nda bazı icatlarımı göreceksin."
+    },
+    {
+      "id": "8bb8dbab",
+      "bank_id": "60f75202",
+      "text": "Chris Deibler"
+    },
+    {
+      "id": "8c51efc2",
+      "bank_id": "60f75202",
+      "text": "Iain"
+    },
+    {
+      "id": "8c51efc3",
+      "bank_id": "60f75202",
+      "text": "Jake"
+    },
+    {
+      "id": "8c51efc4",
+      "bank_id": "60f75202",
+      "text": "Damo"
+    },
+    {
+      "id": "8c51efc5",
+      "bank_id": "60f75202",
+      "text": "Davo"
+    },
+    {
+      "id": "8c51efc6",
+      "bank_id": "60f75202",
+      "text": "Bruno"
+    },
+    {
+      "id": "8c51efc7",
+      "bank_id": "60f75202",
+      "text": "Al"
+    },
+    {
+      "id": "8c595866",
+      "bank_id": "60f75202",
+      "text": "Andrew"
+    },
+    {
+      "id": "8c595867",
+      "bank_id": "60f75202",
+      "text": "Adrian"
+    },
+    {
+      "id": "8c595868",
+      "bank_id": "60f75202",
+      "text": "Joe"
+    },
+    {
+      "id": "8c595869",
+      "bank_id": "60f75202",
+      "text": "Dan"
+    },
+    {
+      "id": "8c59586a",
+      "bank_id": "60f75202",
+      "text": "Ted"
+    },
+    {
+      "id": "8c59586b",
+      "bank_id": "60f75202",
+      "text": "Steve"
+    },
+    {
+      "id": "8c59586c",
+      "bank_id": "60f75202",
+      "text": "Sam"
+    },
+    {
+      "id": "8c59586d",
+      "bank_id": "60f75202",
+      "text": "Ross"
+    },
+    {
+      "id": "8c59586e",
+      "bank_id": "60f75202",
+      "text": "Rob"
+    },
+    {
+      "id": "8c59586f",
+      "bank_id": "60f75202",
+      "text": "Phil"
+    },
+    {
+      "id": "8ca53d54",
+      "bank_id": "60f75202",
+      "text": "Umarım bir yolculuk yapmak için buradasındır. Ada çöle döndü."
+    },
+    {
+      "id": "8d5959c0",
+      "bank_id": "60f75202",
+      "text": "Ben"
+    },
+    {
+      "id": "8d5959c1",
+      "bank_id": "60f75202",
+      "text": "Richard"
+    },
+    {
+      "id": "8d5959c3",
+      "bank_id": "60f75202",
+      "text": "Mark"
+    },
+    {
+      "id": "8d5959c4",
+      "bank_id": "60f75202",
+      "text": "Jim"
+    },
+    {
+      "id": "8d5959c5",
+      "bank_id": "60f75202",
+      "text": "Peter"
+    },
+    {
+      "id": "8d5959c6",
+      "bank_id": "60f75202",
+      "text": "John"
+    },
+    {
+      "id": "8d5959c7",
+      "bank_id": "60f75202",
+      "text": "Jack"
+    },
+    {
+      "id": "8d5959ca",
+      "bank_id": "60f75202",
+      "text": "Tom"
+    },
+    {
+      "id": "8d5959cb",
+      "bank_id": "60f75202",
+      "text": "Charlie"
+    },
+    {
+      "id": "8db9c02d",
+      "bank_id": "60f75202",
+      "text": "Umarım adanın etrafındaki deniz donmaz. Yoksa asla yüzeye çıkamam."
+    },
+    {
+      "id": "8e51f324",
+      "bank_id": "60f75202",
+      "text": "Nick"
+    },
+    {
+      "id": "8e51f325",
+      "bank_id": "60f75202",
+      "text": "Ray"
+    },
+    {
+      "id": "8e51f328",
+      "bank_id": "60f75202",
+      "text": "Larry"
+    },
+    {
+      "id": "8e51f329",
+      "bank_id": "60f75202",
+      "text": "Lee"
+    },
+    {
+      "id": "8e51f32a",
+      "bank_id": "60f75202",
+      "text": "Lez"
+    },
+    {
+      "id": "8e51f32b",
+      "bank_id": "60f75202",
+      "text": "Liam"
+    },
+    {
+      "id": "8e51f32c",
+      "bank_id": "60f75202",
+      "text": "Jimmy"
+    },
+    {
+      "id": "8e51f32d",
+      "bank_id": "60f75202",
+      "text": "Kirk"
+    },
+    {
+      "id": "8e51f32e",
+      "bank_id": "60f75202",
+      "text": "Kurt"
+    },
+    {
+      "id": "8e51f32f",
+      "bank_id": "60f75202",
+      "text": "Kyle"
+    },
+    {
+      "id": "8e595bb0",
+      "bank_id": "60f75202",
+      "text": "Dave"
+    },
+    {
+      "id": "8e595bb1",
+      "bank_id": "60f75202",
+      "text": "Andy"
+    },
+    {
+      "id": "8e595bb2",
+      "bank_id": "60f75202",
+      "text": "Geoff"
+    },
+    {
+      "id": "8e595bb3",
+      "bank_id": "60f75202",
+      "text": "Gary"
+    },
+    {
+      "id": "8e595bb4",
+      "bank_id": "60f75202",
+      "text": "Adam"
+    },
+    {
+      "id": "8e595bb5",
+      "bank_id": "60f75202",
+      "text": "Ian"
+    },
+    {
+      "id": "8e595bb6",
+      "bank_id": "60f75202",
+      "text": "Alex"
+    },
+    {
+      "id": "8e595bb7",
+      "bank_id": "60f75202",
+      "text": "Alan"
+    },
+    {
+      "id": "8e595bbc",
+      "bank_id": "60f75202",
+      "text": "Will"
+    },
+    {
+      "id": "8e595bbd",
+      "bank_id": "60f75202",
+      "text": "Glen"
+    },
+    {
+      "id": "8e949d45",
+      "bank_id": "60f75202",
+      "text": "Kule muhafızları"
+    },
+    {
+      "id": "8f2e497c",
+      "bank_id": "60f75202",
+      "text": "Vurmayı dene bakalım! Hadi ama!"
+    },
+    {
+      "id": "8f2e497d",
+      "bank_id": "60f75202",
+      "text": "Dene şansını, bekliyorum."
+    },
+    {
+      "id": "8f2e497e",
+      "bank_id": "60f75202",
+      "text": "Senden korkmuyorum ben!"
+    },
+    {
+      "id": "8f51f496",
+      "bank_id": "60f75202",
+      "text": "Olli"
+    },
+    {
+      "id": "8f51f497",
+      "bank_id": "60f75202",
+      "text": "Zane"
+    },
+    {
+      "id": "8f51f498",
+      "bank_id": "60f75202",
+      "text": "Trev"
+    },
+    {
+      "id": "8f51f499",
+      "bank_id": "60f75202",
+      "text": "Tony"
+    },
+    {
+      "id": "8f51f49a",
+      "bank_id": "60f75202",
+      "text": "Terry"
+    },
+    {
+      "id": "8f51f49b",
+      "bank_id": "60f75202",
+      "text": "Seb"
+    },
+    {
+      "id": "8f51f49c",
+      "bank_id": "60f75202",
+      "text": "Sean"
+    },
+    {
+      "id": "8f51f49d",
+      "bank_id": "60f75202",
+      "text": "Ryan"
+    },
+    {
+      "id": "8f51f49e",
+      "bank_id": "60f75202",
+      "text": "Russ"
+    },
+    {
+      "id": "8f51f49f",
+      "bank_id": "60f75202",
+      "text": "Ricky"
+    },
+    {
+      "id": "9051f670",
+      "bank_id": "60f75202",
+      "text": "Baz"
+    },
+    {
+      "id": "9051f671",
+      "bank_id": "60f75202",
+      "text": "Nath"
+    },
+    {
+      "id": "9051f673",
+      "bank_id": "60f75202",
+      "text": "Biff"
+    },
+    {
+      "id": "9051f674",
+      "bank_id": "60f75202",
+      "text": "Wobbo"
+    },
+    {
+      "id": "9051f675",
+      "bank_id": "60f75202",
+      "text": "Bonzo"
+    },
+    {
+      "id": "9051f676",
+      "bank_id": "60f75202",
+      "text": "Kier"
+    },
+    {
+      "id": "9051f677",
+      "bank_id": "60f75202",
+      "text": "Wayne"
+    },
+    {
+      "id": "9051f67a",
+      "bank_id": "60f75202",
+      "text": "Ron"
+    },
+    {
+      "id": "9051f67b",
+      "bank_id": "60f75202",
+      "text": "Robbo"
+    },
+    {
+      "id": "9151f7e0",
+      "bank_id": "60f75202",
+      "text": "Gork"
+    },
+    {
+      "id": "9151f7e1",
+      "bank_id": "60f75202",
+      "text": "Chas"
+    },
+    {
+      "id": "9151f7e2",
+      "bank_id": "60f75202",
+      "text": "Jay"
+    },
+    {
+      "id": "9151f7e3",
+      "bank_id": "60f75202",
+      "text": "Eddie"
+    },
+    {
+      "id": "9151f7e4",
+      "bank_id": "60f75202",
+      "text": "Jez"
+    },
+    {
+      "id": "9151f7e5",
+      "bank_id": "60f75202",
+      "text": "Zamo"
+    },
+    {
+      "id": "9151f7e6",
+      "bank_id": "60f75202",
+      "text": "Curly"
+    },
+    {
+      "id": "9151f7e7",
+      "bank_id": "60f75202",
+      "text": "Gaz"
+    },
+    {
+      "id": "9151f7ec",
+      "bank_id": "60f75202",
+      "text": "Jaz"
+    },
+    {
+      "id": "9151f7ed",
+      "bank_id": "60f75202",
+      "text": "Jed"
+    },
+    {
+      "id": "927d0e0f",
+      "bank_id": "60f75202",
+      "text": "Mevcut Görevler"
+    },
+    {
+      "id": "939f295a",
+      "bank_id": "60f75202",
+      "text": "Trudy"
+    },
+    {
+      "id": "939f295b",
+      "bank_id": "60f75202",
+      "text": "Mavis"
+    },
+    {
+      "id": "939f295c",
+      "bank_id": "60f75202",
+      "text": "Fern"
+    },
+    {
+      "id": "939f295d",
+      "bank_id": "60f75202",
+      "text": "Eliza"
+    },
+    {
+      "id": "939f295e",
+      "bank_id": "60f75202",
+      "text": "Lottie"
+    },
+    {
+      "id": "939f295f",
+      "bank_id": "60f75202",
+      "text": "Bridgette"
+    },
+    {
+      "id": "94021cba",
+      "bank_id": "60f75202",
+      "text": "Tamamlanan Görev"
+    },
+    {
+      "id": "949f2b30",
+      "bank_id": "60f75202",
+      "text": "Pat"
+    },
+    {
+      "id": "949f2b31",
+      "bank_id": "60f75202",
+      "text": "Peggy"
+    },
+    {
+      "id": "949f2b32",
+      "bank_id": "60f75202",
+      "text": "Nancy"
+    },
+    {
+      "id": "949f2b33",
+      "bank_id": "60f75202",
+      "text": "Nell"
+    },
+    {
+      "id": "949f2b34",
+      "bank_id": "60f75202",
+      "text": "Annes"
+    },
+    {
+      "id": "949f2b35",
+      "bank_id": "60f75202",
+      "text": "Agnes"
+    },
+    {
+      "id": "949f2b36",
+      "bank_id": "60f75202",
+      "text": "Polly"
+    },
+    {
+      "id": "949f2b37",
+      "bank_id": "60f75202",
+      "text": "Sally"
+    },
+    {
+      "id": "949f2b3a",
+      "bank_id": "60f75202",
+      "text": "Bea"
+    },
+    {
+      "id": "949f2b3b",
+      "bank_id": "60f75202",
+      "text": "Bonnie"
+    },
+    {
+      "id": "959f2ca0",
+      "bank_id": "60f75202",
+      "text": "Jill"
+    },
+    {
+      "id": "959f2ca1",
+      "bank_id": "60f75202",
+      "text": "Jess"
+    },
+    {
+      "id": "959f2ca2",
+      "bank_id": "60f75202",
+      "text": "Kelly"
+    },
+    {
+      "id": "959f2ca3",
+      "bank_id": "60f75202",
+      "text": "June"
+    },
+    {
+      "id": "959f2ca4",
+      "bank_id": "60f75202",
+      "text": "Daisy"
+    },
+    {
+      "id": "959f2ca6",
+      "bank_id": "60f75202",
+      "text": "Gwyneth"
+    },
+    {
+      "id": "959f2ca7",
+      "bank_id": "60f75202",
+      "text": "Dawn"
+    },
+    {
+      "id": "959f2cac",
+      "bank_id": "60f75202",
+      "text": "Molly"
+    },
+    {
+      "id": "959f2cad",
+      "bank_id": "60f75202",
+      "text": "Meg"
+    },
+    {
+      "id": "95af64fd",
+      "bank_id": "60f75202",
+      "text": "Nişancılığın nasılmış görelim bakalım."
+    },
+    {
+      "id": "95af64fe",
+      "bank_id": "60f75202",
+      "text": "Ateş etme, silahsızım! Şey, kılıcımı saymazsak. Ha."
+    },
+    {
+      "id": "95af64ff",
+      "bank_id": "60f75202",
+      "text": "Tetik parmağının hangisi olduğunu biliyorsun, değil mi?"
+    },
+    {
+      "id": "95dfa87d",
+      "bank_id": "60f75202",
+      "text": "Bizim memleketteki selleri görmelisin. Hiç de iyiye gitmiyor."
+    },
+    {
+      "id": "9984b59e",
+      "bank_id": "60f75202",
+      "text": "Jake Howland"
+    },
+    {
+      "id": "a4862640",
+      "bank_id": "60f75202",
+      "text": "Bana vuramayacağına bahse girerim!"
+    },
+    {
+      "id": "a4862642",
+      "bank_id": "60f75202",
+      "text": "Ateş etmeyi biliyor musun ki sen?"
+    },
+    {
+      "id": "a4862643",
+      "bank_id": "60f75202",
+      "text": "Ön kapısından bile bir evi vuramazsın sen!"
+    },
+    {
+      "id": "abab8109",
+      "bank_id": "60f75202",
+      "text": "Yağmuru adaya geri getirmezsen her şey kuruyup ölecek."
+    },
+    {
+      "id": "ada2770b",
+      "bank_id": "60f75202",
+      "text": "Adadaki durum gerçekten çok kötü. Görmelisin."
+    },
+    {
+      "id": "b1019f88",
+      "bank_id": "60f75202",
+      "text": "gölgeler"
+    },
+    {
+      "id": "b6404c25",
+      "bank_id": "60f75202",
+      "text": "Onunla bana ateş etmeye cüret etme sakın."
+    },
+    {
+      "id": "b6404c26",
+      "bank_id": "60f75202",
+      "text": "Bir muhafıza ateş etmek kanunsuzdur, aklında bulunsun!"
+    },
+    {
+      "id": "bb4aa127",
+      "bank_id": "60f75202",
+      "text": "Belki oraya çıkıp bir dolanmalıyım, nasıl bir yermiş bakmalı... Hmm, başka bir gün."
+    },
+    {
+      "id": "bc62fd09",
+      "bank_id": "60f75202",
+      "text": "Bana Kahraman zihin oyunları yapmaya kalkışma!"
+    },
+    {
+      "id": "bc62fd0a",
+      "bank_id": "60f75202",
+      "text": "Biz haydutların siz İrade kullanıcılarını ne kadar sevdiğimizi biliyorsun, değil mi?"
+    },
+    {
+      "id": "bc62fd0b",
+      "bank_id": "60f75202",
+      "text": "Bana o büyüyü yapmayı bir dene de gör bakalım ne oluyor."
+    },
+    {
+      "id": "bd734ef9",
+      "bank_id": "60f75202",
+      "text": "balverine"
+    },
+    {
+      "id": "bf3dc350",
+      "bank_id": "60f75202",
+      "text": "Isaac"
+    },
+    {
+      "id": "bf3dc351",
+      "bank_id": "60f75202",
+      "text": "Herman"
+    },
+    {
+      "id": "bf3dc352",
+      "bank_id": "60f75202",
+      "text": "Joss"
+    },
+    {
+      "id": "bf3dc353",
+      "bank_id": "60f75202",
+      "text": "Abe"
+    },
+    {
+      "id": "bf3dc355",
+      "bank_id": "60f75202",
+      "text": "Greg"
+    },
+    {
+      "id": "bf3dc356",
+      "bank_id": "60f75202",
+      "text": "Yorick"
+    },
+    {
+      "id": "bf3dc357",
+      "bank_id": "60f75202",
+      "text": "Fred"
+    },
+    {
+      "id": "bf3dc35c",
+      "bank_id": "60f75202",
+      "text": "Tom"
+    },
+    {
+      "id": "bf3dc35d",
+      "bank_id": "60f75202",
+      "text": "Owen"
+    },
+    {
+      "id": "c03dc4c0",
+      "bank_id": "60f75202",
+      "text": "Angus"
+    },
+    {
+      "id": "c03dc4c1",
+      "bank_id": "60f75202",
+      "text": "Eli"
+    },
+    {
+      "id": "c03dc4c2",
+      "bank_id": "60f75202",
+      "text": "Trevor"
+    },
+    {
+      "id": "c03dc4c3",
+      "bank_id": "60f75202",
+      "text": "Poe"
+    },
+    {
+      "id": "c03dc4c4",
+      "bank_id": "60f75202",
+      "text": "Otis"
+    },
+    {
+      "id": "c03dc4c5",
+      "bank_id": "60f75202",
+      "text": "Doug"
+    },
+    {
+      "id": "c03dc4c6",
+      "bank_id": "60f75202",
+      "text": "Derek"
+    },
+    {
+      "id": "c03dc4c7",
+      "bank_id": "60f75202",
+      "text": "Kevin"
+    },
+    {
+      "id": "c03dc4ce",
+      "bank_id": "60f75202",
+      "text": "Isaiah"
+    },
+    {
+      "id": "c03dc4cf",
+      "bank_id": "60f75202",
+      "text": "Jamie"
+    },
+    {
+      "id": "c13dc6ba",
+      "bank_id": "60f75202",
+      "text": "Gregor"
+    },
+    {
+      "id": "c1fa2170",
+      "bank_id": "60f75202",
+      "text": "Meredith"
+    },
+    {
+      "id": "c1fa2171",
+      "bank_id": "60f75202",
+      "text": "Audrey"
+    },
+    {
+      "id": "c1fa2172",
+      "bank_id": "60f75202",
+      "text": "Amber"
+    },
+    {
+      "id": "c1fa2173",
+      "bank_id": "60f75202",
+      "text": "Francesca"
+    },
+    {
+      "id": "c1fa2174",
+      "bank_id": "60f75202",
+      "text": "Ada"
+    },
+    {
+      "id": "c1fa2175",
+      "bank_id": "60f75202",
+      "text": "Ambrosia"
+    },
+    {
+      "id": "c1fa2176",
+      "bank_id": "60f75202",
+      "text": "Yvonne"
+    },
+    {
+      "id": "c1fa2177",
+      "bank_id": "60f75202",
+      "text": "Virginia"
+    },
+    {
+      "id": "c1fa217e",
+      "bank_id": "60f75202",
+      "text": "Esther"
+    },
+    {
+      "id": "c1fa217f",
+      "bank_id": "60f75202",
+      "text": "Helena"
+    },
+    {
+      "id": "c2fa22e8",
+      "bank_id": "60f75202",
+      "text": "Arabella"
+    },
+    {
+      "id": "c2fa22e9",
+      "bank_id": "60f75202",
+      "text": "Yasmin"
+    },
+    {
+      "id": "c2fa22eb",
+      "bank_id": "60f75202",
+      "text": "Sabine"
+    },
+    {
+      "id": "c3fa2454",
+      "bank_id": "60f75202",
+      "text": "Penelope"
+    },
+    {
+      "id": "c3fa2455",
+      "bank_id": "60f75202",
+      "text": "Phyllis"
+    },
+    {
+      "id": "c3fa2458",
+      "bank_id": "60f75202",
+      "text": "Martha"
+    },
+    {
+      "id": "c3fa2459",
+      "bank_id": "60f75202",
+      "text": "Magenta"
+    },
+    {
+      "id": "c3fa245a",
+      "bank_id": "60f75202",
+      "text": "Olga"
+    },
+    {
+      "id": "c3fa245b",
+      "bank_id": "60f75202",
+      "text": "Patricia"
+    },
+    {
+      "id": "c3fa245c",
+      "bank_id": "60f75202",
+      "text": "Lydia"
+    },
+    {
+      "id": "c3fa245d",
+      "bank_id": "60f75202",
+      "text": "Madeleine"
+    },
+    {
+      "id": "c3fa245e",
+      "bank_id": "60f75202",
+      "text": "Margaret"
+    },
+    {
+      "id": "c3fa245f",
+      "bank_id": "60f75202",
+      "text": "Matilda"
+    },
+    {
+      "id": "c4fa25c6",
+      "bank_id": "60f75202",
+      "text": "Veronica"
+    },
+    {
+      "id": "c4fa25c7",
+      "bank_id": "60f75202",
+      "text": "Vera"
+    },
+    {
+      "id": "c4fa25c8",
+      "bank_id": "60f75202",
+      "text": "Ursula"
+    },
+    {
+      "id": "c4fa25c9",
+      "bank_id": "60f75202",
+      "text": "Thelma"
+    },
+    {
+      "id": "c4fa25ca",
+      "bank_id": "60f75202",
+      "text": "Sophia"
+    },
+    {
+      "id": "c4fa25cb",
+      "bank_id": "60f75202",
+      "text": "Simone"
+    },
+    {
+      "id": "c4fa25cc",
+      "bank_id": "60f75202",
+      "text": "Scarlett"
+    },
+    {
+      "id": "c4fa25cd",
+      "bank_id": "60f75202",
+      "text": "Rosalind"
+    },
+    {
+      "id": "c4fa25ce",
+      "bank_id": "60f75202",
+      "text": "Roberta"
+    },
+    {
+      "id": "c4fa25cf",
+      "bank_id": "60f75202",
+      "text": "Prudence"
+    },
+    {
+      "id": "c5fa27a0",
+      "bank_id": "60f75202",
+      "text": "Elizabeth"
+    },
+    {
+      "id": "c5fa27a1",
+      "bank_id": "60f75202",
+      "text": "Nigella"
+    },
+    {
+      "id": "c5fa27a3",
+      "bank_id": "60f75202",
+      "text": "Beatrice"
+    },
+    {
+      "id": "c5fa27a4",
+      "bank_id": "60f75202",
+      "text": "Aubreigh"
+    },
+    {
+      "id": "c5fa27a5",
+      "bank_id": "60f75202",
+      "text": "Aurora"
+    },
+    {
+      "id": "c5fa27a6",
+      "bank_id": "60f75202",
+      "text": "Amelia"
+    },
+    {
+      "id": "c5fa27a7",
+      "bank_id": "60f75202",
+      "text": "Annabelle"
+    },
+    {
+      "id": "c5fa27aa",
+      "bank_id": "60f75202",
+      "text": "Constance"
+    },
+    {
+      "id": "c5fa27ab",
+      "bank_id": "60f75202",
+      "text": "Edith"
+    },
+    {
+      "id": "c6fa2910",
+      "bank_id": "60f75202",
+      "text": "Ingrid"
+    },
+    {
+      "id": "c6fa2911",
+      "bank_id": "60f75202",
+      "text": "Imogen"
+    },
+    {
+      "id": "c6fa2912",
+      "bank_id": "60f75202",
+      "text": "Jasmin"
+    },
+    {
+      "id": "c6fa2913",
+      "bank_id": "60f75202",
+      "text": "Isobel"
+    },
+    {
+      "id": "c6fa2914",
+      "bank_id": "60f75202",
+      "text": "Felicity"
+    },
+    {
+      "id": "c6fa2915",
+      "bank_id": "60f75202",
+      "text": "Eleanor"
+    },
+    {
+      "id": "c6fa2916",
+      "bank_id": "60f75202",
+      "text": "Grace"
+    },
+    {
+      "id": "c6fa2917",
+      "bank_id": "60f75202",
+      "text": "Florence"
+    },
+    {
+      "id": "c6fa291c",
+      "bank_id": "60f75202",
+      "text": "Joyce"
+    },
+    {
+      "id": "c6fa291d",
+      "bank_id": "60f75202",
+      "text": "Judith"
+    },
+    {
+      "id": "ceb77c28",
+      "bank_id": "60f75202",
+      "text": "Carolyn"
+    },
+    {
+      "id": "ceb77c29",
+      "bank_id": "60f75202",
+      "text": "Libby"
+    },
+    {
+      "id": "ceb77c2a",
+      "bank_id": "60f75202",
+      "text": "Nora"
+    },
+    {
+      "id": "cfb77d92",
+      "bank_id": "60f75202",
+      "text": "Rhona"
+    },
+    {
+      "id": "cfb77d93",
+      "bank_id": "60f75202",
+      "text": "Poppy"
+    },
+    {
+      "id": "cfb77d98",
+      "bank_id": "60f75202",
+      "text": "Gemma"
+    },
+    {
+      "id": "cfb77d99",
+      "bank_id": "60f75202",
+      "text": "Gail"
+    },
+    {
+      "id": "cfb77d9a",
+      "bank_id": "60f75202",
+      "text": "Ella"
+    },
+    {
+      "id": "cfb77d9b",
+      "bank_id": "60f75202",
+      "text": "Diana"
+    },
+    {
+      "id": "cfb77d9c",
+      "bank_id": "60f75202",
+      "text": "Annette"
+    },
+    {
+      "id": "cfb77d9d",
+      "bank_id": "60f75202",
+      "text": "Val"
+    },
+    {
+      "id": "cfb77d9e",
+      "bank_id": "60f75202",
+      "text": "Marie"
+    },
+    {
+      "id": "cfb77d9f",
+      "bank_id": "60f75202",
+      "text": "Karen"
+    },
+    {
+      "id": "d0e13077",
+      "bank_id": "60f75202",
+      "text": "banshee"
+    },
+    {
+      "id": "d0e15ec1",
+      "bank_id": "60f75202",
+      "text": "Şey, o silah orijinalmiş doğrusu, hakkını teslim edeyim!"
+    },
+    {
+      "id": "d0e15ec2",
+      "bank_id": "60f75202",
+      "text": "Bu da ne...?! Hayatımda gördüğüm en tuhaf silah bu."
+    },
+    {
+      "id": "d2b78250",
+      "bank_id": "60f75202",
+      "text": "Kate"
+    },
+    {
+      "id": "d2b78251",
+      "bank_id": "60f75202",
+      "text": "Katy"
+    },
+    {
+      "id": "d2b78252",
+      "bank_id": "60f75202",
+      "text": "Lisa"
+    },
+    {
+      "id": "d2b78253",
+      "bank_id": "60f75202",
+      "text": "Liz"
+    },
+    {
+      "id": "d2b78254",
+      "bank_id": "60f75202",
+      "text": "Catherine"
+    },
+    {
+      "id": "d2b78255",
+      "bank_id": "60f75202",
+      "text": "Emma"
+    },
+    {
+      "id": "d2b78256",
+      "bank_id": "60f75202",
+      "text": "Hannah"
+    },
+    {
+      "id": "d2b78257",
+      "bank_id": "60f75202",
+      "text": "Jo"
+    },
+    {
+      "id": "d2b7825c",
+      "bank_id": "60f75202",
+      "text": "Louisa"
+    },
+    {
+      "id": "d2b7825d",
+      "bank_id": "60f75202",
+      "text": "Mary"
+    },
+    {
+      "id": "d3b783c0",
+      "bank_id": "60f75202",
+      "text": "Louise"
+    },
+    {
+      "id": "d3b783c1",
+      "bank_id": "60f75202",
+      "text": "Debbie"
+    },
+    {
+      "id": "d3b783c2",
+      "bank_id": "60f75202",
+      "text": "Julia"
+    },
+    {
+      "id": "d3b783c3",
+      "bank_id": "60f75202",
+      "text": "Carol"
+    },
+    {
+      "id": "d3b783c4",
+      "bank_id": "60f75202",
+      "text": "Amy"
+    },
+    {
+      "id": "d3b783c5",
+      "bank_id": "60f75202",
+      "text": "Laura"
+    },
+    {
+      "id": "d3b783c6",
+      "bank_id": "60f75202",
+      "text": "Anna"
+    },
+    {
+      "id": "d3b783ce",
+      "bank_id": "60f75202",
+      "text": "Claire"
+    },
+    {
+      "id": "d3b783cf",
+      "bank_id": "60f75202",
+      "text": "Jen"
+    },
+    {
+      "id": "d4b785b2",
+      "bank_id": "60f75202",
+      "text": "Beryl"
+    },
+    {
+      "id": "d4b785b3",
+      "bank_id": "60f75202",
+      "text": "Betty"
+    },
+    {
+      "id": "d4b785b8",
+      "bank_id": "60f75202",
+      "text": "Alice"
+    },
+    {
+      "id": "d4b785b9",
+      "bank_id": "60f75202",
+      "text": "Alex"
+    },
+    {
+      "id": "d4b785ba",
+      "bank_id": "60f75202",
+      "text": "Sam"
+    },
+    {
+      "id": "d4b785bb",
+      "bank_id": "60f75202",
+      "text": "Abby"
+    },
+    {
+      "id": "d4b785bc",
+      "bank_id": "60f75202",
+      "text": "Anne"
+    },
+    {
+      "id": "d4b785bd",
+      "bank_id": "60f75202",
+      "text": "Becky"
+    },
+    {
+      "id": "d4b785be",
+      "bank_id": "60f75202",
+      "text": "Andrea"
+    },
+    {
+      "id": "d4b785bf",
+      "bank_id": "60f75202",
+      "text": "Angela"
+    },
+    {
+      "id": "d5515759",
+      "bank_id": "60f75202",
+      "text": "Allen Murray"
+    },
+    {
+      "id": "d5b78724",
+      "bank_id": "60f75202",
+      "text": "Cathy"
+    },
+    {
+      "id": "d5b78725",
+      "bank_id": "60f75202",
+      "text": "Wendy"
+    },
+    {
+      "id": "d5b78728",
+      "bank_id": "60f75202",
+      "text": "Sarah"
+    },
+    {
+      "id": "d5b78729",
+      "bank_id": "60f75202",
+      "text": "Sally"
+    },
+    {
+      "id": "d5b7872a",
+      "bank_id": "60f75202",
+      "text": "Vicky"
+    },
+    {
+      "id": "d5b7872b",
+      "bank_id": "60f75202",
+      "text": "Sue"
+    },
+    {
+      "id": "d5b7872c",
+      "bank_id": "60f75202",
+      "text": "Natalie"
+    },
+    {
+      "id": "d5b7872d",
+      "bank_id": "60f75202",
+      "text": "Michelle"
+    },
+    {
+      "id": "d5b7872e",
+      "bank_id": "60f75202",
+      "text": "Ruth"
+    },
+    {
+      "id": "d5b7872f",
+      "bank_id": "60f75202",
+      "text": "Rachel"
+    },
+    {
+      "id": "dbd12952",
+      "bank_id": "60f75202",
+      "text": "trol"
+    },
+    {
+      "id": "e9719c5e",
+      "bank_id": "60f75202",
+      "text": "Kule askerleri"
+    },
+    {
+      "id": "eb4ee48a",
+      "bank_id": "60f75202",
+      "text": "hobbe'ler"
+    },
+    {
+      "id": "ecbfef94",
+      "bank_id": "60f75202",
+      "text": "Josh Eash"
+    },
+    {
+      "id": "eea4d3c0",
+      "bank_id": "60f75202",
+      "text": "Orada sebze satın alabileceğin doğru mu? İnanılmaz..."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_aciklama": "framerate_limit=60 kare hızını sınırlar (vsync=false ile: GPU %99 kullanımı olmaz). Yalnızca xenia-canary.config.toml'da GERÇEKTEN VAR OLAN anahtarlar değiştirilir; olmayanlar atlanır ve raporlanır. render_target_path_d3d12=rov altyazılar için şarttır.",
+  "GPU": {
+    "gpu": "d3d12",
+    "render_target_path_d3d12": "rov",
+    "vsync": false,
+    "framerate_limit": 60,
+    "async_shader_compilation": false,
+    "d3d12_readback_memless": true
+  },
+  "APU": {
+    "apu": "xaudio2",
+    "use_dedicated_xma_thread": false
+  },
+  "Content": {
+    "license_mask": -1
+  },
+  "Storage": {
+    "mount_cache": true
+  },
+  "General": {
+    "apply_patches": true
+  }
+}

@@ -1,0 +1,871 @@
+{
+  "bank_id": "f0319601",
+  "total_strings": 173,
+  "strings": [
+    {
+      "id": "07098a33",
+      "bank_id": "f0319601",
+      "text": "Bak, Kral bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "07098a38",
+      "bank_id": "f0319601",
+      "text": "Bak, Kral bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "09b8cf78",
+      "bank_id": "f0319601",
+      "text": "Dangalak mı? Ha. İsimsiz kalsan daha iyiydi."
+    },
+    {
+      "id": "09b8cf79",
+      "bank_id": "f0319601",
+      "text": "Aman Tanrım, işte korkulan Dangalak geliyor."
+    },
+    {
+      "id": "09b8cf7a",
+      "bank_id": "f0319601",
+      "text": "İşte tek ve benzersiz Dangalak geçiyor."
+    },
+    {
+      "id": "09b8cf7b",
+      "bank_id": "f0319601",
+      "text": "Hey, bakın, şu Dangalak değil mi?"
+    },
+    {
+      "id": "09b8cf7c",
+      "bank_id": "f0319601",
+      "text": "Dangalak. Sadece kocama öyle derdim sanıyordum."
+    },
+    {
+      "id": "09b8cf7d",
+      "bank_id": "f0319601",
+      "text": "O sahiden Dangalak biliyor musun."
+    },
+    {
+      "id": "09b8cf7e",
+      "bank_id": "f0319601",
+      "text": "Hey, şu Dangalak."
+    },
+    {
+      "id": "0d0e6fc8",
+      "bank_id": "f0319601",
+      "text": "O lanet İrade büyülerini üzerimde denemeye kalkma sakın Sihirbaz."
+    },
+    {
+      "id": "0d0e6fca",
+      "bank_id": "f0319601",
+      "text": "Benim sihirbazlık numaraları yapan bir amcam vardı Sihirbaz. Evcil faremi yok edince onu öldürdüm."
+    },
+    {
+      "id": "0d0e6fcb",
+      "bank_id": "f0319601",
+      "text": "Kıçından tavşan çıkarmaya mı başlayacaksın şimdi Sihirbaz?"
+    },
+    {
+      "id": "0d494688",
+      "bank_id": "f0319601",
+      "text": "Ödül Avcıları adaleti kendi ellerine alıyor. Ekmeğimi elimden çalıyorsunuz resmen!"
+    },
+    {
+      "id": "0d49468b",
+      "bank_id": "f0319601",
+      "text": "Ödül avcılarıyla bir alıp veremediğim yok - sadece yasaları çiğneyenlerle var."
+    },
+    {
+      "id": "0e98f5bc",
+      "bank_id": "f0319601",
+      "text": "Tavuk Kovalayan."
+    },
+    {
+      "id": "0ee722c4",
+      "bank_id": "f0319601",
+      "text": "Şu kadın, hani Kraliçe dedikleri."
+    },
+    {
+      "id": "0ee722cf",
+      "bank_id": "f0319601",
+      "text": "Şu adam, hani Kraliçe dedikleri."
+    },
+    {
+      "id": "11a3bed5",
+      "bank_id": "f0319601",
+      "text": "Kasapları pek sevmem. Ben vejetaryenim."
+    },
+    {
+      "id": "11a3bed6",
+      "bank_id": "f0319601",
+      "text": "Kasap'ı alaşağı etmeyi hep istemişimdir."
+    },
+    {
+      "id": "128de035",
+      "bank_id": "f0319601",
+      "text": "Kendine İntikamcı diyorsun öyle mi? Adaleti yalnızca muhafızlar dağıtır."
+    },
+    {
+      "id": "128de036",
+      "bank_id": "f0319601",
+      "text": "Hiç kendinden intikam almayı denedin mi İntikamcı? Seninle işim bittiğinde gerekecek de."
+    },
+    {
+      "id": "12b8dd48",
+      "bank_id": "f0319601",
+      "text": "Bakın! Dangalak. Yok, ciddiyim. Dangalak orada işte."
+    },
+    {
+      "id": "12b8dd49",
+      "bank_id": "f0319601",
+      "text": "Birinin unvanı Dangalak. Şaştım kaldım doğrusu."
+    },
+    {
+      "id": "12b8dd4b",
+      "bank_id": "f0319601",
+      "text": "Vay vay, Dangalak teşrif etmiş. Bakın hele!"
+    },
+    {
+      "id": "12b8dd4c",
+      "bank_id": "f0319601",
+      "text": "Şu Dangalak mı? Ne talihsiz bir unvan."
+    },
+    {
+      "id": "12b8dd4d",
+      "bank_id": "f0319601",
+      "text": "Ortalıkta Dangalak diye bir isimle dolaşmak da ne bileyim."
+    },
+    {
+      "id": "12b8dd4e",
+      "bank_id": "f0319601",
+      "text": "O meşhur Dangalak işte, biliyorsun değil mi."
+    },
+    {
+      "id": "12b8dd4f",
+      "bank_id": "f0319601",
+      "text": "Şu Dangalak değil mi? Evet, ta kendisi!"
+    },
+    {
+      "id": "2da15d90",
+      "bank_id": "f0319601",
+      "text": "Vay canına, Kraliçe bu! Bakın! Bakın!"
+    },
+    {
+      "id": "2da15d93",
+      "bank_id": "f0319601",
+      "text": "A, kim o gördün mü? Kraliçe!"
+    },
+    {
+      "id": "2da15d96",
+      "bank_id": "f0319601",
+      "text": "Çok yaşa Kraliçe!"
+    },
+    {
+      "id": "2dc163d5",
+      "bank_id": "f0319601",
+      "text": "Bak, Aslan Yürekli bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "2dc163de",
+      "bank_id": "f0319601",
+      "text": "Bak, Aslan Yürekli bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "347e1a81",
+      "bank_id": "f0319601",
+      "text": "Kanun Kaçağı! Adalete teslim edeceğim bir başka azılı suçlu daha."
+    },
+    {
+      "id": "347e1a82",
+      "bank_id": "f0319601",
+      "text": "Ah, şu hain Kanun Kaçağı'nı alt etmeyi ne çok hayal etmiştim."
+    },
+    {
+      "id": "34e513bb",
+      "bank_id": "f0319601",
+      "text": "Şunun maceracı Kral olduğuna kalıbımı basarım."
+    },
+    {
+      "id": "34e513bd",
+      "bank_id": "f0319601",
+      "text": "Hey, şu Kral değil mi?"
+    },
+    {
+      "id": "3f025de1",
+      "bank_id": "f0319601",
+      "text": "Salata Kaçkını. Buna hiç yeşillik yok, değil mi?"
+    },
+    {
+      "id": "3f025de2",
+      "bank_id": "f0319601",
+      "text": "Hey, şu Salata Kaçkını değil mi?"
+    },
+    {
+      "id": "3f025de3",
+      "bank_id": "f0319601",
+      "text": "Salata Kaçkını burada işte."
+    },
+    {
+      "id": "3f025de4",
+      "bank_id": "f0319601",
+      "text": "Hey, bakın, Salata Kaçkını değil mi şu?"
+    },
+    {
+      "id": "3f025de5",
+      "bank_id": "f0319601",
+      "text": "Gördün mü? Salata Kaçkını bu."
+    },
+    {
+      "id": "3f025de6",
+      "bank_id": "f0319601",
+      "text": "Ona Salata Kaçkını dediklerini duymuştum."
+    },
+    {
+      "id": "3f025de7",
+      "bank_id": "f0319601",
+      "text": "Bakın kim dolanıyor buralarda. Salata Kaçkını işte."
+    },
+    {
+      "id": "3fe524e8",
+      "bank_id": "f0319601",
+      "text": "Evet, ta kendisi, Kral işte. Cana yakın bir isim, değil mi?"
+    },
+    {
+      "id": "3fe524eb",
+      "bank_id": "f0319601",
+      "text": "Kral! Aman Tanrım! Sahiden de o!"
+    },
+    {
+      "id": "3fe524ee",
+      "bank_id": "f0319601",
+      "text": "Pek inanamıyorum ama bu sahiden Kral. Değil mi?"
+    },
+    {
+      "id": "43e40771",
+      "bank_id": "f0319601",
+      "text": "İntikamcı."
+    },
+    {
+      "id": "4571b049",
+      "bank_id": "f0319601",
+      "text": "Nefret ettiğim bir şey varsa o da lanet Ödül Avcılarıdır."
+    },
+    {
+      "id": "4571b04a",
+      "bank_id": "f0319601",
+      "text": "Hey, kuzenimi öldüren ödül avcısı sen değil miydin? Seni pislik herif!"
+    },
+    {
+      "id": "4571b04b",
+      "bank_id": "f0319601",
+      "text": "Demek beni yakalamaya geldin ha Ödül Avcısı? Beni asla canlı ele geçiremeyeceksin!"
+    },
+    {
+      "id": "46b947b1",
+      "bank_id": "f0319601",
+      "text": "Sana Kılıç diyebilirler ama kılıç kullanmakta ben de fena sayılmam."
+    },
+    {
+      "id": "46b947b2",
+      "bank_id": "f0319601",
+      "text": "Demek Kılıç sensin ha? Şey, benim gözümde sadece bir suçlusun."
+    },
+    {
+      "id": "4a026f10",
+      "bank_id": "f0319601",
+      "text": "İşte Salata Kaçkını geçiyor."
+    },
+    {
+      "id": "4a026f12",
+      "bank_id": "f0319601",
+      "text": "Salata Kaçkını devasa, iki ayaklı bir marula karşı mı? Amma dövüş olurdu ha."
+    },
+    {
+      "id": "4a026f13",
+      "bank_id": "f0319601",
+      "text": "Hey, şu Salata Kaçkını değil mi?"
+    },
+    {
+      "id": "4a026f14",
+      "bank_id": "f0319601",
+      "text": "Salata Kaçkını bu tarafa doğru geliyor."
+    },
+    {
+      "id": "4a026f15",
+      "bank_id": "f0319601",
+      "text": "Salata Kaçkını'nda özel bir şey yok ki. Ben yıllardır sebzeden kaçıyorum!"
+    },
+    {
+      "id": "4a026f16",
+      "bank_id": "f0319601",
+      "text": "Bakın bu tarafa kim geliyor. Salata Kaçkını bu."
+    },
+    {
+      "id": "4a026f17",
+      "bank_id": "f0319601",
+      "text": "Salata Kaçkını. Hm. Ne kadar da... Anlamsız."
+    },
+    {
+      "id": "4bbaf639",
+      "bank_id": "f0319601",
+      "text": "Gezintiye başka yerde çıksaydın ya Köpek Sever."
+    },
+    {
+      "id": "4bbaf63a",
+      "bank_id": "f0319601",
+      "text": "Demek köpekleri çok seviyorsun ha? Yahnisi mi iyi sotesi mi? Ha ha!"
+    },
+    {
+      "id": "5c9e430d",
+      "bank_id": "f0319601",
+      "text": "Sihirbazsın demek? Bakalım kendini bu beladan kurtarabilecek misin!"
+    },
+    {
+      "id": "5c9e430e",
+      "bank_id": "f0319601",
+      "text": "Sihirbazlık numaralarını üzerimde denemeye kalkma sakın Sihirbaz."
+    },
+    {
+      "id": "5d4236d7",
+      "bank_id": "f0319601",
+      "text": "Bak, Belediye Başkanı bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "5d4236dc",
+      "bank_id": "f0319601",
+      "text": "Bak, Belediye Başkanı bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "5ddca189",
+      "bank_id": "f0319601",
+      "text": "Evet, ta kendisi, Belediye Başkanı işte. Cana yakın bir isim, değil mi?"
+    },
+    {
+      "id": "5ddca18a",
+      "bank_id": "f0319601",
+      "text": "Bakın, orada duran Belediye Başkanı!"
+    },
+    {
+      "id": "5ddca18e",
+      "bank_id": "f0319601",
+      "text": "Bakın kim geçiyor oradan. Belediye Başkanı bu!"
+    },
+    {
+      "id": "5ddca18f",
+      "bank_id": "f0319601",
+      "text": "Pek inanamıyorum ama bu sahiden Belediye Başkanı. Değil mi?"
+    },
+    {
+      "id": "68dcb33a",
+      "bank_id": "f0319601",
+      "text": "Şunun maceracı Belediye Başkanı olduğuna kalıbımı basarım."
+    },
+    {
+      "id": "68dcb33c",
+      "bank_id": "f0319601",
+      "text": "Hey, şu Belediye Başkanı değil mi?"
+    },
+    {
+      "id": "6ddf3840",
+      "bank_id": "f0319601",
+      "text": "Bakın kim geçiyor oradan. Aslan Yürekli bu!"
+    },
+    {
+      "id": "6ddf3841",
+      "bank_id": "f0319601",
+      "text": "Pek inanamıyorum ama bu sahiden Aslan Yürekli. Değil mi?"
+    },
+    {
+      "id": "6ddf3844",
+      "bank_id": "f0319601",
+      "text": "Gözlerim beni yanıltmıyorsa şu Aslan Yürekli mi?"
+    },
+    {
+      "id": "6ddf3847",
+      "bank_id": "f0319601",
+      "text": "Evet, ta kendisi, Aslan Yürekli işte. Ne kadar da iddialı bir isim..."
+    },
+    {
+      "id": "6ec9e0da",
+      "bank_id": "f0319601",
+      "text": "Bu Aslan Yürekli'den başkası olamaz."
+    },
+    {
+      "id": "6ec9e0dc",
+      "bank_id": "f0319601",
+      "text": "Aslan Yürekli'den başkası değil."
+    },
+    {
+      "id": "6ec9e0df",
+      "bank_id": "f0319601",
+      "text": "İşte Aslan Yürekli dedikleri geçiyor."
+    },
+    {
+      "id": "71239f47",
+      "bank_id": "f0319601",
+      "text": "Zorba."
+    },
+    {
+      "id": "71ac9bb1",
+      "bank_id": "f0319601",
+      "text": "Vay, demek Seçilmiş Kişi sensin! Çok da umurumdaydı sanki!"
+    },
+    {
+      "id": "71ac9bb2",
+      "bank_id": "f0319601",
+      "text": "Seçilmiş Kişi misin sen? Yasa tarafından yakalanmak için seçilmişsin herhalde!"
+    },
+    {
+      "id": "73c9e8f9",
+      "bank_id": "f0319601",
+      "text": "Aslan Yürekli dedikleri işte tam orada duruyor."
+    },
+    {
+      "id": "74df4340",
+      "bank_id": "f0319601",
+      "text": "Şunun maceracı Aslan Yürekli olduğuna kalıbımı basarım."
+    },
+    {
+      "id": "74df4346",
+      "bank_id": "f0319601",
+      "text": "Hey, şu Aslan Yürekli değil mi?"
+    },
+    {
+      "id": "75f9dd61",
+      "bank_id": "f0319601",
+      "text": "Şu kadın, hani Kral dedikleri."
+    },
+    {
+      "id": "75f9dd6a",
+      "bank_id": "f0319601",
+      "text": "Şu adam, hani Kral dedikleri."
+    },
+    {
+      "id": "76d48523",
+      "bank_id": "f0319601",
+      "text": "Şu adam, hani Aslan Yürekli dedikleri."
+    },
+    {
+      "id": "76d48528",
+      "bank_id": "f0319601",
+      "text": "Şu kadın, hani Aslan Yürekli dedikleri."
+    },
+    {
+      "id": "7d6078b9",
+      "bank_id": "f0319601",
+      "text": "Sihirbaz."
+    },
+    {
+      "id": "7dd90872",
+      "bank_id": "f0319601",
+      "text": "Bak, Kraliçe bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "7dd90879",
+      "bank_id": "f0319601",
+      "text": "Bak, Kraliçe bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "7f6bec38",
+      "bank_id": "f0319601",
+      "text": "Şuna da bakın... Gölge İblisi."
+    },
+    {
+      "id": "7f6bec39",
+      "bank_id": "f0319601",
+      "text": "Gördün mü bak. Gölge İblisi sahiden varmış. Bana bir bira borçlusun."
+    },
+    {
+      "id": "7f6bec3a",
+      "bank_id": "f0319601",
+      "text": "Aman Tanrım, Gölge İblisi bu, değil mi?"
+    },
+    {
+      "id": "7f6bec3b",
+      "bank_id": "f0319601",
+      "text": "Bir dahaki partimde Gölge İblisi'ni gördüğümü anlatabilirim artık!"
+    },
+    {
+      "id": "7f6bec3d",
+      "bank_id": "f0319601",
+      "text": "Ha, Gölge İblisi demek?"
+    },
+    {
+      "id": "7f6bec3e",
+      "bank_id": "f0319601",
+      "text": "Gölge İblisi orada işte, gördün mü?"
+    },
+    {
+      "id": "7f6bec3f",
+      "bank_id": "f0319601",
+      "text": "Gölge İblisi olmalı bu."
+    },
+    {
+      "id": "8a58422c",
+      "bank_id": "f0319601",
+      "text": "Kasap."
+    },
+    {
+      "id": "8a6bfd68",
+      "bank_id": "f0319601",
+      "text": "Gölge İblisi. Gözünün önünden çekilmek en iyisi."
+    },
+    {
+      "id": "8a6bfd69",
+      "bank_id": "f0319601",
+      "text": "Ayaklı bir kâbus resmen, işte Gölge İblisi bu."
+    },
+    {
+      "id": "8a6bfd6a",
+      "bank_id": "f0319601",
+      "text": "Vay canına... Gölge İblisi. Kanlı canlı karşımda."
+    },
+    {
+      "id": "8a6bfd6b",
+      "bank_id": "f0319601",
+      "text": "Gözlerime inanamıyorum, Gölge İblisi bu."
+    },
+    {
+      "id": "8a6bfd6c",
+      "bank_id": "f0319601",
+      "text": "Demek Gölge İblisi gerçekmiş."
+    },
+    {
+      "id": "8a6bfd6e",
+      "bank_id": "f0319601",
+      "text": "Gölge İblisi burada."
+    },
+    {
+      "id": "8a6bfd6f",
+      "bank_id": "f0319601",
+      "text": "Bu... Bu Gölge İblisi."
+    },
+    {
+      "id": "8bc1c1e8",
+      "bank_id": "f0319601",
+      "text": "Bir düzine sosis ve en iyi bifteğinden alayım Kasap!"
+    },
+    {
+      "id": "8bc1c1e9",
+      "bank_id": "f0319601",
+      "text": "Satırın nerede Kasap?"
+    },
+    {
+      "id": "8bc1c1eb",
+      "bank_id": "f0319601",
+      "text": "Sana gerçek kasaplığın nasıl yapıldığını göstereyim Kasap."
+    },
+    {
+      "id": "8d5d6d2c",
+      "bank_id": "f0319601",
+      "text": "Kılıç da nasıl bir isim öyle? Ha, kılıcımdaki şu şey gibi yani. Anladım. Aslında bayağı havalıymış."
+    },
+    {
+      "id": "8d5d6d2e",
+      "bank_id": "f0319601",
+      "text": "Hey, ben de kılıcıma Kılıç derim. Seni onunla tanıştırayım da bakalım nasıl anlaşıyorsunuz."
+    },
+    {
+      "id": "8d5d6d2f",
+      "bank_id": "f0319601",
+      "text": "Bu kılıcı kafanın ortasından geçirdiğimde adın sana daha da çok yakışacak."
+    },
+    {
+      "id": "8e52f5e6",
+      "bank_id": "f0319601",
+      "text": "Şu kadın, hani Sparrow dedikleri."
+    },
+    {
+      "id": "8e52f5ed",
+      "bank_id": "f0319601",
+      "text": "Şu adam, hani Sparrow dedikleri."
+    },
+    {
+      "id": "95eedbe5",
+      "bank_id": "f0319601",
+      "text": "Tüylerini yolacağım senin Tavuk Kovalayan."
+    },
+    {
+      "id": "95eedbe6",
+      "bank_id": "f0319601",
+      "text": "Tavuk kovalamak suç sayılmayabilir ama sayılmalı."
+    },
+    {
+      "id": "9d78fc5a",
+      "bank_id": "f0319601",
+      "text": "Bu sahiden Master Chief, değil mi?"
+    },
+    {
+      "id": "9d78fc5b",
+      "bank_id": "f0319601",
+      "text": "Şu Master Chief dedikleri değil mi?"
+    },
+    {
+      "id": "9d78fc5c",
+      "bank_id": "f0319601",
+      "text": "Hey, şu Master Chief dedikleri değil mi?"
+    },
+    {
+      "id": "9d78fc5f",
+      "bank_id": "f0319601",
+      "text": "Bakar mısın, şuradaki Master Chief değil mi?"
+    },
+    {
+      "id": "a2790479",
+      "bank_id": "f0319601",
+      "text": "Şu Master Chief değil mi?"
+    },
+    {
+      "id": "a279047a",
+      "bank_id": "f0319601",
+      "text": "Master Chief dediklerinin bu olduğuna adım gibi eminim."
+    },
+    {
+      "id": "a279047b",
+      "bank_id": "f0319601",
+      "text": "Acaba Master Chief ne işler çeviriyor?"
+    },
+    {
+      "id": "a279047c",
+      "bank_id": "f0319601",
+      "text": "Bu sahiden Master Chief olabilir mi?"
+    },
+    {
+      "id": "a279047d",
+      "bank_id": "f0319601",
+      "text": "Demek Master Chief bu ha?"
+    },
+    {
+      "id": "a279047e",
+      "bank_id": "f0319601",
+      "text": "Şu Master Chief değil mi ya?"
+    },
+    {
+      "id": "a279047f",
+      "bank_id": "f0319601",
+      "text": "İnanılmaz, ta kendisi, tek ve gerçek Master Chief."
+    },
+    {
+      "id": "a2b1c532",
+      "bank_id": "f0319601",
+      "text": "Hey, şu Kraliçe değil mi?"
+    },
+    {
+      "id": "a2b1c534",
+      "bank_id": "f0319601",
+      "text": "Şunun maceracı Kraliçe olduğuna kalıbımı basarım."
+    },
+    {
+      "id": "ab948661",
+      "bank_id": "f0319601",
+      "text": "Şu adam, hani Belediye Başkanı dedikleri."
+    },
+    {
+      "id": "ab94866a",
+      "bank_id": "f0319601",
+      "text": "Şu kadın, hani Belediye Başkanı dedikleri."
+    },
+    {
+      "id": "abb1d318",
+      "bank_id": "f0319601",
+      "text": "Gözlerim beni yanıltmıyorsa şu Kraliçe mi?"
+    },
+    {
+      "id": "abb1d31b",
+      "bank_id": "f0319601",
+      "text": "Evet, ta kendisi, Kraliçe işte. Cana yakın bir isim, değil mi?"
+    },
+    {
+      "id": "abb1d31c",
+      "bank_id": "f0319601",
+      "text": "Bakın kim geçiyor oradan. Kraliçe bu!"
+    },
+    {
+      "id": "abb1d31d",
+      "bank_id": "f0319601",
+      "text": "Pek inanamıyorum ama bu sahiden Kraliçe. Değil mi?"
+    },
+    {
+      "id": "ac7a644e",
+      "bank_id": "f0319601",
+      "text": "Ödül Avcısı."
+    },
+    {
+      "id": "ac90f7cd",
+      "bank_id": "f0319601",
+      "text": "Kılıç."
+    },
+    {
+      "id": "ae80f478",
+      "bank_id": "f0319601",
+      "text": "Hey, Tavuk Kovalayan, zavallı tavukları sonunda yakalayınca ne yapıyorsun onlara?"
+    },
+    {
+      "id": "ae80f479",
+      "bank_id": "f0319601",
+      "text": "Tavuk Kovalayan ismi insanların kalbine pek korku salmıyor açıkçası. Tavukların kalbine salar belki."
+    },
+    {
+      "id": "ae80f47b",
+      "bank_id": "f0319601",
+      "text": "Nasıl bir hasta tavuk kovalar ki?"
+    },
+    {
+      "id": "afda8dd8",
+      "bank_id": "f0319601",
+      "text": "Hey, şu Sparrow değil mi?"
+    },
+    {
+      "id": "afda8dde",
+      "bank_id": "f0319601",
+      "text": "Şunun maceracı Sparrow olduğuna kalıbımı basarım."
+    },
+    {
+      "id": "b4da95fa",
+      "bank_id": "f0319601",
+      "text": "Bakın kim geçiyor oradan. Sparrow bu!"
+    },
+    {
+      "id": "b4da95fb",
+      "bank_id": "f0319601",
+      "text": "Pek inanamıyorum ama bu sahiden Sparrow. Değil mi?"
+    },
+    {
+      "id": "b4da95fd",
+      "bank_id": "f0319601",
+      "text": "Evet, ta kendisi, Sparrow işte. Samimi bir isim değil mi?"
+    },
+    {
+      "id": "b4da95fe",
+      "bank_id": "f0319601",
+      "text": "Gözlerim beni yanıltmıyorsa şu Sparrow mu?"
+    },
+    {
+      "id": "b850c12c",
+      "bank_id": "f0319601",
+      "text": "Seçilmiş Kişi mi? SEÇİLMİŞ KİŞİ Mİ???!! Güldürme beni!"
+    },
+    {
+      "id": "b850c12e",
+      "bank_id": "f0319601",
+      "text": "Ay, ne kadar şanslıyım! Seçilmiş Kişi ile dövüşüyorum! Bir imzanı alabilir miyim? Hadi oradan be."
+    },
+    {
+      "id": "b850c12f",
+      "bank_id": "f0319601",
+      "text": "Evet, Seçilmiş Kişisin sen. Bu haftaki on beşinci kurbanım olmak üzere seçilmişsin."
+    },
+    {
+      "id": "bd33d3a7",
+      "bank_id": "f0319601",
+      "text": "Hey, şu Sparrow değil mi?"
+    },
+    {
+      "id": "c4194dc8",
+      "bank_id": "f0319601",
+      "text": "Kanun Kaçağı."
+    },
+    {
+      "id": "c433dea8",
+      "bank_id": "f0319601",
+      "text": "Sparrow'u tanıyor musun?"
+    },
+    {
+      "id": "c433dead",
+      "bank_id": "f0319601",
+      "text": "Aman, alt tarafı Sparrow işte."
+    },
+    {
+      "id": "c433deae",
+      "bank_id": "f0319601",
+      "text": "Vay vay, Sparrow teşrif etmiş."
+    },
+    {
+      "id": "d6205d88",
+      "bank_id": "f0319601",
+      "text": "Buraya gel bakalım Zorba. Ben de bayağı zorbayımdır biliyor musun."
+    },
+    {
+      "id": "d6205d89",
+      "bank_id": "f0319601",
+      "text": "Ne kadar zorba olduğun umurumda bile değil, zorbalıkta kimse haydutların eline su dökemez."
+    },
+    {
+      "id": "d6205d8a",
+      "bank_id": "f0319601",
+      "text": "Zorba benim göbek adımdır ama bu bizi akraba yapmaz."
+    },
+    {
+      "id": "d8a34bb0",
+      "bank_id": "f0319601",
+      "text": "Bak, Sparrow bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "d8a34bbb",
+      "bank_id": "f0319601",
+      "text": "Bak, Sparrow bu. Ne işler çeviriyor acaba."
+    },
+    {
+      "id": "dd6a9b10",
+      "bank_id": "f0319601",
+      "text": "Hey Zorba. Sana biraz polis vahşeti göstereyim de gör."
+    },
+    {
+      "id": "dd6a9b13",
+      "bank_id": "f0319601",
+      "text": "Sana neden Zorba dediklerini çözmeye çalışıyorum. Ne kadar zeki olduğunla alakalıdır şüphesiz."
+    },
+    {
+      "id": "dd9693cd",
+      "bank_id": "f0319601",
+      "text": "Seçilmiş Kişi."
+    },
+    {
+      "id": "df22f259",
+      "bank_id": "f0319601",
+      "text": "Ne kadar heyecan verici, Belediye Başkanı bu."
+    },
+    {
+      "id": "df22f25a",
+      "bank_id": "f0319601",
+      "text": "Dikkat edin, işte Belediye Başkanı geliyor."
+    },
+    {
+      "id": "df22f25c",
+      "bank_id": "f0319601",
+      "text": "A bakın, Belediye Başkanı bu."
+    },
+    {
+      "id": "dfbda577",
+      "bank_id": "f0319601",
+      "text": "Köpek Sever."
+    },
+    {
+      "id": "e2fe3f10",
+      "bank_id": "f0319601",
+      "text": "Neyin intikamını alıyorsun sen İntikamcı? Şunun intikamını al bakalım!"
+    },
+    {
+      "id": "e2fe3f12",
+      "bank_id": "f0319601",
+      "text": "Vay vay, İntikamcı gelmiş. Seninle işim bittiğinde kendinin intikamını alman gerekecek."
+    },
+    {
+      "id": "e2fe3f13",
+      "bank_id": "f0319601",
+      "text": "Sana neden İntikamcı diyorlar sahi? Kin tutmayı çok iyi bildiğinden mi?"
+    },
+    {
+      "id": "e4d74b14",
+      "bank_id": "f0319601",
+      "text": "Yalnızca haydutlara kanun kaçağı denebilir. Bayağı bir özentisin sen."
+    },
+    {
+      "id": "e4d74b15",
+      "bank_id": "f0319601",
+      "text": "Kanun Kaçağı mı? Kimi kandırıyorsun sen?"
+    },
+    {
+      "id": "e4d74b17",
+      "bank_id": "f0319601",
+      "text": "Buralardaki tek gerçek Kanun Kaçağı benim."
+    }
+  ]
+}

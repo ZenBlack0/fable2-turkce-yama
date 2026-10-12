@@ -1,0 +1,831 @@
+{
+  "bank_id": "40532802",
+  "total_strings": 165,
+  "strings": [
+    {
+      "id": "013be480",
+      "bank_id": "40532802",
+      "text": "Benim için biraz pahalı görünüyor."
+    },
+    {
+      "id": "013be482",
+      "bank_id": "40532802",
+      "text": "Daha sonra satın alırım."
+    },
+    {
+      "id": "013be483",
+      "bank_id": "40532802",
+      "text": "Kulağa ilginç geliyor. Ama param yeter mi bilemiyorum."
+    },
+    {
+      "id": "013be484",
+      "bank_id": "40532802",
+      "text": "Dürüst olmak gerekirse bana pek uygun olduğundan emin değilim."
+    },
+    {
+      "id": "013be485",
+      "bank_id": "40532802",
+      "text": "Belki başka bir zaman alırım."
+    },
+    {
+      "id": "0311dd69",
+      "bank_id": "40532802",
+      "text": "Fairfax'ın son modası geldi mi?"
+    },
+    {
+      "id": "0311dd6a",
+      "bank_id": "40532802",
+      "text": "Kış koleksiyonunuz geldi mi? Ya da bahar koleksiyonunuz. Gerçi bir koleksiyonunuz var mı ki?"
+    },
+    {
+      "id": "0311dd6b",
+      "bank_id": "40532802",
+      "text": "Yüksek topuklu arıyorum. Elli numara olanları gösterebilir misiniz?"
+    },
+    {
+      "id": "0311dd6c",
+      "bank_id": "40532802",
+      "text": "Bu yıl şapka çeşitleriniz nasıl?"
+    },
+    {
+      "id": "0311dd6d",
+      "bank_id": "40532802",
+      "text": "Güzel atkılarınız var mı?"
+    },
+    {
+      "id": "0311dd6e",
+      "bank_id": "40532802",
+      "text": "En seçkin, en fahiş fiyatlı kıyafetlerinizi istiyorum."
+    },
+    {
+      "id": "0311dd6f",
+      "bank_id": "40532802",
+      "text": "Dökümlü, uçuşan, rahat ve şık bir şey arıyorum."
+    },
+    {
+      "id": "24b38b08",
+      "bank_id": "40532802",
+      "text": "Ne önerirsiniz?"
+    },
+    {
+      "id": "24b38b09",
+      "bank_id": "40532802",
+      "text": "Benim için önereceğiniz bir şey var mı?"
+    },
+    {
+      "id": "24b38b0a",
+      "bank_id": "40532802",
+      "text": "Her türlü öneriniz için minnettar kalırım."
+    },
+    {
+      "id": "24b38b0b",
+      "bank_id": "40532802",
+      "text": "Mümkünse ne önerirsiniz?"
+    },
+    {
+      "id": "24b38b0d",
+      "bank_id": "40532802",
+      "text": "Herhangi bir öneri var mı?"
+    },
+    {
+      "id": "24b38b0e",
+      "bank_id": "40532802",
+      "text": "Benim için önereceğiniz bir şey var mı?"
+    },
+    {
+      "id": "24b38b0f",
+      "bank_id": "40532802",
+      "text": "En çok satan ürününüz hangisi?"
+    },
+    {
+      "id": "24d776d4",
+      "bank_id": "40532802",
+      "text": "Sığır eti aromalı tofunuz var mı?"
+    },
+    {
+      "id": "29d77ef0",
+      "bank_id": "40532802",
+      "text": "Yaban mersinli olmayan bir turtanız var mı?"
+    },
+    {
+      "id": "29d77ef1",
+      "bank_id": "40532802",
+      "text": "Yiyeceğe ihtiyacım var. İçinde kurtlar gezmediği sürece elinizde ne varsa olur."
+    },
+    {
+      "id": "29d77ef2",
+      "bank_id": "40532802",
+      "text": "En yumuşak, en kıymetli etlerinizi alayım, lütfen çiçeklere sarılı olsun."
+    },
+    {
+      "id": "29d77ef3",
+      "bank_id": "40532802",
+      "text": "Evimi erzakla dolu tutmaktan gurur duyarım. Bana en kaliteli tuzlanmış ürünlerinizi verin."
+    },
+    {
+      "id": "29d77ef5",
+      "bank_id": "40532802",
+      "text": "Yirmi iki kasa tofu yeterli olmalı."
+    },
+    {
+      "id": "29d77ef6",
+      "bank_id": "40532802",
+      "text": "Yirmi iki çocukluk bir grubu doyuracak kadar yiyeceğe ihtiyacım var. Bütün kraken satıyor musunuz?"
+    },
+    {
+      "id": "29d77ef7",
+      "bank_id": "40532802",
+      "text": "Hani sığır eti nerede?"
+    },
+    {
+      "id": "2a9b0aca",
+      "bank_id": "40532802",
+      "text": "Tükenen bir şeyiniz var mı?"
+    },
+    {
+      "id": "2a9b0acb",
+      "bank_id": "40532802",
+      "text": "Uzman sizsiniz."
+    },
+    {
+      "id": "2a9b0acc",
+      "bank_id": "40532802",
+      "text": "Sizce ne almalıyım öyleyse?"
+    },
+    {
+      "id": "2a9b0acd",
+      "bank_id": "40532802",
+      "text": "Bugün size yardımcı olabileceğim bir şey var mı?"
+    },
+    {
+      "id": "2a9b0ace",
+      "bank_id": "40532802",
+      "text": "Ne önerirsiniz?"
+    },
+    {
+      "id": "2fb39cb8",
+      "bank_id": "40532802",
+      "text": "Bir şey önerin."
+    },
+    {
+      "id": "2fb39cb9",
+      "bank_id": "40532802",
+      "text": "Ne önerirsiniz?"
+    },
+    {
+      "id": "2fb39cba",
+      "bank_id": "40532802",
+      "text": "Benim yerimde olsaydınız ne alırdınız?"
+    },
+    {
+      "id": "2fb39cbb",
+      "bank_id": "40532802",
+      "text": "Bir öneriniz var mı?"
+    },
+    {
+      "id": "2fb39cbc",
+      "bank_id": "40532802",
+      "text": "Ne tavsiye edebilirsiniz?"
+    },
+    {
+      "id": "2fb39cbe",
+      "bank_id": "40532802",
+      "text": "Herhangi bir öneri var mı?"
+    },
+    {
+      "id": "2fb39cbf",
+      "bank_id": "40532802",
+      "text": "Benim için ne tavsiye ederdiniz?"
+    },
+    {
+      "id": "339b1918",
+      "bank_id": "40532802",
+      "text": "Bu gece en popüler olan şey ne?"
+    },
+    {
+      "id": "339b1919",
+      "bank_id": "40532802",
+      "text": "Benim gibi biri için ne önerirsiniz?"
+    },
+    {
+      "id": "339b191b",
+      "bank_id": "40532802",
+      "text": "Ne önerirsiniz?"
+    },
+    {
+      "id": "339b191e",
+      "bank_id": "40532802",
+      "text": "Ne satın almalıyım?"
+    },
+    {
+      "id": "339b191f",
+      "bank_id": "40532802",
+      "text": "Herhangi bir öneri var mı?"
+    },
+    {
+      "id": "3f4a1d88",
+      "bank_id": "40532802",
+      "text": "Pek aradığım şey değil aslında."
+    },
+    {
+      "id": "3f4a1d89",
+      "bank_id": "40532802",
+      "text": "Hepsi bu kadar mı? Neyse."
+    },
+    {
+      "id": "3f4a1d8d",
+      "bank_id": "40532802",
+      "text": "Pek aradığım şey sayılmaz, teşekkürler."
+    },
+    {
+      "id": "3f4a1d8e",
+      "bank_id": "40532802",
+      "text": "Bakmaya devam edeceğim, teşekkürler."
+    },
+    {
+      "id": "3f4a1d8f",
+      "bank_id": "40532802",
+      "text": "Belki başka bir dükkânı denerim."
+    },
+    {
+      "id": "45319d48",
+      "bank_id": "40532802",
+      "text": "Yeterince pahalı görünmüyor."
+    },
+    {
+      "id": "45319d49",
+      "bank_id": "40532802",
+      "text": "Bilemiyorum. Satın alma ekibime danışmam gerekecek."
+    },
+    {
+      "id": "45319d4a",
+      "bank_id": "40532802",
+      "text": "Aradığım şey bu olabilir. Gerçi olmayabilir de."
+    },
+    {
+      "id": "45319d4b",
+      "bank_id": "40532802",
+      "text": "Bu gayet iyi iş görür. Ya da belki görmez."
+    },
+    {
+      "id": "45319d4c",
+      "bank_id": "40532802",
+      "text": "Hmm, bilemiyorum, hiç bilemiyorum."
+    },
+    {
+      "id": "45319d4d",
+      "bank_id": "40532802",
+      "text": "Hmm, evet, tam aradığım şey bu olabilir!"
+    },
+    {
+      "id": "45319d4e",
+      "bank_id": "40532802",
+      "text": "Bilirsiniz, tam da aradığım şey bu olabilir."
+    },
+    {
+      "id": "4a4a2f38",
+      "bank_id": "40532802",
+      "text": "Bana veresiye vermeyecekseniz cevabım hayır."
+    },
+    {
+      "id": "4a4a2f39",
+      "bank_id": "40532802",
+      "text": "Buna param yetmez!"
+    },
+    {
+      "id": "4a4a2f3c",
+      "bank_id": "40532802",
+      "text": "Hmm, bunu bir düşüneyim."
+    },
+    {
+      "id": "4a4a2f3e",
+      "bank_id": "40532802",
+      "text": "Şu anda buna paramın yeteceğinden emin değilim."
+    },
+    {
+      "id": "4a4a2f3f",
+      "bank_id": "40532802",
+      "text": "Altından yapılmış gibi mi duruyorum? Hmm, öyle olsam harika olurdu gerçi..."
+    },
+    {
+      "id": "4e31ab98",
+      "bank_id": "40532802",
+      "text": "Şaka mı yapıyorsunuz? Altınımı buna asla harcamam!"
+    },
+    {
+      "id": "4e31ab99",
+      "bank_id": "40532802",
+      "text": "Buna para ödememe imkân yok."
+    },
+    {
+      "id": "4e31ab9b",
+      "bank_id": "40532802",
+      "text": "Bunu satın almamayı tercih ederim."
+    },
+    {
+      "id": "4e31ab9c",
+      "bank_id": "40532802",
+      "text": "Belki diğer dükkânlarda daha uygun bir şeyler vardır."
+    },
+    {
+      "id": "4e31ab9d",
+      "bank_id": "40532802",
+      "text": "Bunu satın almamı mı bekliyorsunuz? Hiç sanmıyorum."
+    },
+    {
+      "id": "4e31ab9e",
+      "bank_id": "40532802",
+      "text": "Sanırım altınımı şimdilik saklayacağım."
+    },
+    {
+      "id": "4e31ab9f",
+      "bank_id": "40532802",
+      "text": "Bu bir tür şaka mı? Mümkün değil."
+    },
+    {
+      "id": "4fa61578",
+      "bank_id": "40532802",
+      "text": "Elinizdeki en sert bira hangisi? İki kasa alacağım."
+    },
+    {
+      "id": "4fa61579",
+      "bank_id": "40532802",
+      "text": "Taşıyabileceğim kadar çok bira kasası verin."
+    },
+    {
+      "id": "4fa6157d",
+      "bank_id": "40532802",
+      "text": "Bir trolü yere serecek kadar içki rica edeyim."
+    },
+    {
+      "id": "4fa6157e",
+      "bank_id": "40532802",
+      "text": "Sert bir içki istiyorum. Yutamayacağım kadar sert olmasın ama yine de epey sert olsun."
+    },
+    {
+      "id": "4fa6157f",
+      "bank_id": "40532802",
+      "text": "Bir kasa hobbe suyu. Neden koca bir kasaya ihtiyacım olduğunu sormayın."
+    },
+    {
+      "id": "5aa626a8",
+      "bank_id": "40532802",
+      "text": "Alkol arıyorum. Hem de bolca."
+    },
+    {
+      "id": "5aa626a9",
+      "bank_id": "40532802",
+      "text": "Taşıyabileceğim kadar çok şişe Bloodstone romu lazım."
+    },
+    {
+      "id": "5aa626ac",
+      "bank_id": "40532802",
+      "text": "Yarın bir partim var. Taşıyabileceğim kadar çok içki arıyorum."
+    },
+    {
+      "id": "5aa626ae",
+      "bank_id": "40532802",
+      "text": "Bana en sert içkilerinizi verin. Bu hafta bir parti veriyorum."
+    },
+    {
+      "id": "5aa626af",
+      "bank_id": "40532802",
+      "text": "Bir borç senedi ve biraz cep tozuyla kaç kasa bira alabilirim?"
+    },
+    {
+      "id": "6d55cea5",
+      "bank_id": "40532802",
+      "text": "Selamlar. Fiyatlarınızla beni kazıklamaya kalkmayın sakın."
+    },
+    {
+      "id": "6d55cea6",
+      "bank_id": "40532802",
+      "text": "İyi günler dükkân sahibi!"
+    },
+    {
+      "id": "6d55cea7",
+      "bank_id": "40532802",
+      "text": "Merhabalar. Ne alsam acaba..."
+    },
+    {
+      "id": "8e6bfec2",
+      "bank_id": "40532802",
+      "text": "Şu efsun taşlarından birini istiyorum, çizmelerim için."
+    },
+    {
+      "id": "8e6bfec3",
+      "bank_id": "40532802",
+      "text": "Bir çatala uyacak bir efsun taşınız var mı? Kendi kendimi beslemekten gına geldi."
+    },
+    {
+      "id": "8e6bfec4",
+      "bank_id": "40532802",
+      "text": "Efsunlanması gereken sandaletlerim var. Kendi kendilerine beni her yere götürseler ne güzel olurdu."
+    },
+    {
+      "id": "8e6bfec5",
+      "bank_id": "40532802",
+      "text": "Şeyim için bir efsun taşı rica edeyim... Şey, yani anlarsınız ya... Ah, bilirsiniz işte!"
+    },
+    {
+      "id": "8e6bfec7",
+      "bank_id": "40532802",
+      "text": "Burada efsun taşı satıyorsunuz, değil mi?"
+    },
+    {
+      "id": "933f1dc0",
+      "bank_id": "40532802",
+      "text": "Samarkand kadife takım elbiseleri geldi mi?"
+    },
+    {
+      "id": "933f1dc1",
+      "bank_id": "40532802",
+      "text": "Şu balverine kürkü çizmelerden var mı elinizde?"
+    },
+    {
+      "id": "933f1dc2",
+      "bank_id": "40532802",
+      "text": "Kıyafet arıyorum. Sade ve ucuz olsun."
+    },
+    {
+      "id": "933f1dc3",
+      "bank_id": "40532802",
+      "text": "Yeni bir palto istiyorum. Gösterişsiz bir şey."
+    },
+    {
+      "id": "933f1dc4",
+      "bank_id": "40532802",
+      "text": "Bugünlerde Fairfax'taki son moda nedir? Onu denemek isterdim."
+    },
+    {
+      "id": "933f1dc5",
+      "bank_id": "40532802",
+      "text": "Beni toplumun belli bir katmanına hapsetmeyecek çizmeleriniz var mı?"
+    },
+    {
+      "id": "933f1dc7",
+      "bank_id": "40532802",
+      "text": "En son tarzlar geldi mi?"
+    },
+    {
+      "id": "956c09c8",
+      "bank_id": "40532802",
+      "text": "Küpelerim için bir efsun taşına ihtiyacım var. Geceleri ışık saçsınlar."
+    },
+    {
+      "id": "956c09c9",
+      "bank_id": "40532802",
+      "text": "Erkek arkadaşımı efsunlayabilir misiniz?"
+    },
+    {
+      "id": "956c09ca",
+      "bank_id": "40532802",
+      "text": "Hakkında duyduğum şu efsun taşlarından var mı sizde?"
+    },
+    {
+      "id": "956c09ce",
+      "bank_id": "40532802",
+      "text": "Görme yetim için bir efsun taşınız var mı?"
+    },
+    {
+      "id": "956c09cf",
+      "bank_id": "40532802",
+      "text": "Stokta hangi efsun taşları var?"
+    },
+    {
+      "id": "9a3f28c8",
+      "bank_id": "40532802",
+      "text": "Korse satıyor musunuz? Mümkünse sihirli olanlardan."
+    },
+    {
+      "id": "9a3f28c9",
+      "bank_id": "40532802",
+      "text": "Uylukları örten etekleriniz var mı? Tercihen çadır şeklinde olmasın."
+    },
+    {
+      "id": "9a3f28ca",
+      "bank_id": "40532802",
+      "text": "Yeni bir bluz gerçekten çok iyi olurdu."
+    },
+    {
+      "id": "9a3f28cc",
+      "bank_id": "40532802",
+      "text": "Yazlık bir kıyafete son derece ihtiyacım var."
+    },
+    {
+      "id": "9a3f28cd",
+      "bank_id": "40532802",
+      "text": "Başka hiçbir insanın giymediği kıyafetler giymek istiyorum. Bu arada hobbe kıyafetleri istediğim anlamına gelmez."
+    },
+    {
+      "id": "9a3f28ce",
+      "bank_id": "40532802",
+      "text": "Dar üstleriniz var mı?"
+    },
+    {
+      "id": "9a3f28cf",
+      "bank_id": "40532802",
+      "text": "Yeni bir ceket fena olmazdı. Güzel olanlardan var mı?"
+    },
+    {
+      "id": "af39b2ea",
+      "bank_id": "40532802",
+      "text": "Bilmem gereken özel bir fırsat var mı?"
+    },
+    {
+      "id": "af39b2eb",
+      "bank_id": "40532802",
+      "text": "Sizce ne almalıyım?"
+    },
+    {
+      "id": "af39b2ec",
+      "bank_id": "40532802",
+      "text": "Özellikle önereceğiniz bir şey var mı?"
+    },
+    {
+      "id": "af39b2ed",
+      "bank_id": "40532802",
+      "text": "Özel bir tavsiyeniz var mı?"
+    },
+    {
+      "id": "af39b2ee",
+      "bank_id": "40532802",
+      "text": "Ne almamı önerirsiniz?"
+    },
+    {
+      "id": "b839c138",
+      "bank_id": "40532802",
+      "text": "Aklıma bir fikir gelmiyor. Ne önerirsiniz?"
+    },
+    {
+      "id": "b839c139",
+      "bank_id": "40532802",
+      "text": "Peki ne almalıyım?"
+    },
+    {
+      "id": "b839c13b",
+      "bank_id": "40532802",
+      "text": "Ne aradığımdan emin değilim. Bir öneriniz var mı?"
+    },
+    {
+      "id": "b839c13e",
+      "bank_id": "40532802",
+      "text": "Bugün göze ne hoş geliyor?"
+    },
+    {
+      "id": "b839c13f",
+      "bank_id": "40532802",
+      "text": "Ne almalıyım?"
+    },
+    {
+      "id": "d2851210",
+      "bank_id": "40532802",
+      "text": "Bu akşam misafir ağırlıyorum ve en kaliteli şaraplarınızı rica ediyorum."
+    },
+    {
+      "id": "d2851211",
+      "bank_id": "40532802",
+      "text": "Şaraplarınız nadir ve pahalı mıdır?"
+    },
+    {
+      "id": "d2851212",
+      "bank_id": "40532802",
+      "text": "Susuzluğu giderecek bir şeyler var mı?"
+    },
+    {
+      "id": "d2851213",
+      "bank_id": "40532802",
+      "text": "Susuzluğun insanın suratına tokat gibi çarptığı anlar için gerçekten ferahlatıcı bir şey istiyorum."
+    },
+    {
+      "id": "d2851214",
+      "bank_id": "40532802",
+      "text": "Böyle zamanlarda sade su pek kesmiyor. Meyve suyunuz var mı?"
+    },
+    {
+      "id": "d2851215",
+      "bank_id": "40532802",
+      "text": "Gerçekten tatlı içecekleriniz var mı?"
+    },
+    {
+      "id": "d2851217",
+      "bank_id": "40532802",
+      "text": "Hiç yeni tip içecekler getirdiniz mi?"
+    },
+    {
+      "id": "d84bcf32",
+      "bank_id": "40532802",
+      "text": "Bir elbise arıyorum. Çok açık saçık olmasın."
+    },
+    {
+      "id": "d84bcf33",
+      "bank_id": "40532802",
+      "text": "Siyah pantolon arıyorum."
+    },
+    {
+      "id": "d84bcf34",
+      "bank_id": "40532802",
+      "text": "Deri pantolonlarınız ne kadar gıcırdıyor?"
+    },
+    {
+      "id": "d84bcf35",
+      "bank_id": "40532802",
+      "text": "Şık bir atkı arıyorum."
+    },
+    {
+      "id": "d84bcf37",
+      "bank_id": "40532802",
+      "text": "Stokta ne tür kolyeler var?"
+    },
+    {
+      "id": "d9851d18",
+      "bank_id": "40532802",
+      "text": "Salı günü doğmuş biri için hangi içkiyi önerirsiniz?"
+    },
+    {
+      "id": "d9851d19",
+      "bank_id": "40532802",
+      "text": "Ne istediğimi biliyorsun barmen, yani dükkân sahibi. Beni bir hafta idare edecek kadar ver lütfen."
+    },
+    {
+      "id": "d9851d1a",
+      "bank_id": "40532802",
+      "text": "Her zamanki içecek erzakımı rica edeyim lütfen."
+    },
+    {
+      "id": "d9851d1c",
+      "bank_id": "40532802",
+      "text": "Lütfen bana en kaliteli şaraplarınızı sunun."
+    },
+    {
+      "id": "d9851d1d",
+      "bank_id": "40532802",
+      "text": "Bu akşam birkaç ahbap gelecek, hepsi için ferahlatıcı bir şeyler lazım."
+    },
+    {
+      "id": "d9851d1e",
+      "bank_id": "40532802",
+      "text": "Ruh için alkol, eğer böyle bir şey satıyorsanız."
+    },
+    {
+      "id": "d9851d1f",
+      "bank_id": "40532802",
+      "text": "Birkaç kasa Deli Suyu istiyorum."
+    },
+    {
+      "id": "df4bda38",
+      "bank_id": "40532802",
+      "text": "Bir cekete ihtiyacım var. Hava soğuduğunda giymek için. Çünkü o beni ısıtır."
+    },
+    {
+      "id": "df4bda39",
+      "bank_id": "40532802",
+      "text": "Birkaç çoraba ihtiyacım var. Hayır dur, külotlu çorap. Tamam yakaladın beni, aslında jartiyer istiyorum."
+    },
+    {
+      "id": "df4bda3a",
+      "bank_id": "40532802",
+      "text": "Bir şapka arıyorum. Öyle herhangi bir şapka değil. Şey, evet, herhangi bir şapka."
+    },
+    {
+      "id": "df4bda3e",
+      "bank_id": "40532802",
+      "text": "Koku yapmayan çorabınız var mı?"
+    },
+    {
+      "id": "df4bda3f",
+      "bank_id": "40532802",
+      "text": "Şu adını unuttuğum şeylerden var mı, kıyafet işte, tam da o."
+    },
+    {
+      "id": "f63bd351",
+      "bank_id": "40532802",
+      "text": "Bu konuda pek emin değilim."
+    },
+    {
+      "id": "f63bd352",
+      "bank_id": "40532802",
+      "text": "Önerilerin kendine kalsın, olur mu? Ne istediğimi biliyorum. Yoksa bilmiyor muyum?"
+    },
+    {
+      "id": "f63bd353",
+      "bank_id": "40532802",
+      "text": "Bir karar vermeden önce birkaç kişiye danışmam gerekecek."
+    },
+    {
+      "id": "f63bd354",
+      "bank_id": "40532802",
+      "text": "Senin saçma önerilerine ihtiyacım yok."
+    },
+    {
+      "id": "f63bd355",
+      "bank_id": "40532802",
+      "text": "Hayır, hayır, onu istemiyorum!"
+    },
+    {
+      "id": "f93eb648",
+      "bank_id": "40532802",
+      "text": "Bir efsun arıyorum. Ama ne için olduğunu söyleyemem."
+    },
+    {
+      "id": "f93eb64a",
+      "bank_id": "40532802",
+      "text": "Üst düzey bilişsel işlevler için efsun taşınız var mı?"
+    },
+    {
+      "id": "f93eb64b",
+      "bank_id": "40532802",
+      "text": "Kürk şapka için efsun taşınız var mı? Elektrikli olmasını istiyorum!"
+    },
+    {
+      "id": "f93eb64c",
+      "bank_id": "40532802",
+      "text": "Şeyim için bir efsun taşı çok işe yarardı... Neyse boş verin ne için olduğunu."
+    },
+    {
+      "id": "f93eb64d",
+      "bank_id": "40532802",
+      "text": "Bana en iyi efsun taşını ver."
+    },
+    {
+      "id": "f93eb64e",
+      "bank_id": "40532802",
+      "text": "Hakkında çok şey duyduğum şu efsun taşlarını görebilir miyim?"
+    },
+    {
+      "id": "f93eb64f",
+      "bank_id": "40532802",
+      "text": "Zarf açacağım için bir efsun taşı almalıyım. O zarfları bizzat yırtmak öyle zahmetli ki."
+    },
+    {
+      "id": "fe11d548",
+      "bank_id": "40532802",
+      "text": "Biraz kıyafet rica ediyorum. Vücudu örten türden. Ve sıcak tutan."
+    },
+    {
+      "id": "fe11d54a",
+      "bank_id": "40532802",
+      "text": "Mehtap serenadı için ne tür kıyafetler giymeliyim?"
+    },
+    {
+      "id": "fe11d54b",
+      "bank_id": "40532802",
+      "text": "Artık hiçbir kıyafetim üzerime olmuyor. Sürekli, şey, küçülüyorlar. Tam bir takım alabilir miyim?"
+    },
+    {
+      "id": "fe11d54c",
+      "bank_id": "40532802",
+      "text": "Sağlam botlara ihtiyacım var. Varsa çelik burunlu olsun."
+    },
+    {
+      "id": "fe11d54d",
+      "bank_id": "40532802",
+      "text": "Yeni bir şapkaya ihtiyacım var. Gösterişsiz olsun."
+    },
+    {
+      "id": "fe11d54e",
+      "bank_id": "40532802",
+      "text": "Yeni bir smokin ceketi arıyorum. Bu hafta sonu çok önemli bir davetim var."
+    },
+    {
+      "id": "fe11d54f",
+      "bank_id": "40532802",
+      "text": "En kaliteli ve en pahalı kıyafetlerinizi arıyorum."
+    },
+    {
+      "id": "fe3ebe69",
+      "bank_id": "40532802",
+      "text": "Bir efsun taşı arıyorum. Satıyorsunuz, değil mi?"
+    },
+    {
+      "id": "fe3ebe6a",
+      "bank_id": "40532802",
+      "text": "Kolyemin kesinlikle efsunlanması gerektiğini düşünüyorum. Belki zihin kontrolü ustası olmamı sağlar?"
+    },
+    {
+      "id": "fe3ebe6b",
+      "bank_id": "40532802",
+      "text": "Efsun taşı çeşitlerinizi görebilir miyim?"
+    },
+    {
+      "id": "fe3ebe6c",
+      "bank_id": "40532802",
+      "text": "Şu efsun taşlarından var mı? Çok işe yaradıklarını duydum."
+    },
+    {
+      "id": "fe3ebe6d",
+      "bank_id": "40532802",
+      "text": "İyi bir efsun taşınız var mı?"
+    },
+    {
+      "id": "fe3ebe6e",
+      "bank_id": "40532802",
+      "text": "Efsun taşı reyonunda neler var?"
+    },
+    {
+      "id": "fe3ebe6f",
+      "bank_id": "40532802",
+      "text": "Saç fırçam için bir efsun taşına ihtiyacım var."
+    }
+  ]
+}

@@ -1,0 +1,786 @@
+{
+  "bank_id": "d0bdb600",
+  "total_strings": 156,
+  "strings": [
+    {
+      "id": "05d4ff67",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Meyve ve Sebze Tezgâhı"
+    },
+    {
+      "id": "060e86a9",
+      "bank_id": "d0bdb600",
+      "text": "Çingeneler dövmeciliği bir sanat mertebesine yükselttiler. Vücudu süslemek için buradan daha iyi çok az yer vardır."
+    },
+    {
+      "id": "0ac4db5a",
+      "bank_id": "d0bdb600",
+      "text": "Bu ev kendine göre sevimli. Sevimlilik ise Bloodstone'da nadir bulunur."
+    },
+    {
+      "id": "0bf9e041",
+      "bank_id": "d0bdb600",
+      "text": "Bu karavan yeni amortisörlerden ve belki bir rüzgârlıktan fayda görebilir."
+    },
+    {
+      "id": "0bfa3add",
+      "bank_id": "d0bdb600",
+      "text": "Yüzlerce yıldır sıradan eşyaların tedarikçisi."
+    },
+    {
+      "id": "0c75001a",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Tepesi No: 10b, Bloodstone"
+    },
+    {
+      "id": "0deefe89",
+      "bank_id": "d0bdb600",
+      "text": "Şifa Harekette"
+    },
+    {
+      "id": "10579ae5",
+      "bank_id": "d0bdb600",
+      "text": "Bower Gölü Kahraman Tepesi"
+    },
+    {
+      "id": "11a85877",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone'daki herkes T.O.B.Y.'yi bilir, gerçi kurulalı çok da uzun zaman olmadı."
+    },
+    {
+      "id": "14a6702f",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Girişi No: 1, Bowerstone Pazarı"
+    },
+    {
+      "id": "15b67939",
+      "bank_id": "d0bdb600",
+      "text": "Ölüm İğneleri"
+    },
+    {
+      "id": "181f75e7",
+      "bank_id": "d0bdb600",
+      "text": "Silah Başına"
+    },
+    {
+      "id": "1b58d243",
+      "bank_id": "d0bdb600",
+      "text": "Orta Sokak No: 4, Bowerstone"
+    },
+    {
+      "id": "1f6bf5d2",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 5, Bower Gölü"
+    },
+    {
+      "id": "2368d61e",
+      "bank_id": "d0bdb600",
+      "text": "Reaver'ın Bloodstone yeraltı dünyasının basamaklarını tırmanışı tek kelimeyle inanılmazdı. Bu malikanede yaşayan yeraltı patronunu öldürmesiyle zirveye ulaştı."
+    },
+    {
+      "id": "252c0464",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Saat Kulesi"
+    },
+    {
+      "id": "27a2c217",
+      "bank_id": "d0bdb600",
+      "text": "Brightwood Köprüsü"
+    },
+    {
+      "id": "28c00084",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Karavanı"
+    },
+    {
+      "id": "2d198071",
+      "bank_id": "d0bdb600",
+      "text": "Ogr Sarayı"
+    },
+    {
+      "id": "310327b8",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Sahili No: 2, Bloodstone"
+    },
+    {
+      "id": "311f65f1",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Tepesi No: 7, Bloodstone"
+    },
+    {
+      "id": "318b1902",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Pazarı"
+    },
+    {
+      "id": "3303da8f",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Tüccar"
+    },
+    {
+      "id": "384b1e34",
+      "bank_id": "d0bdb600",
+      "text": "Bower Gölü sakinlerine uzun süredir kök söktüren bir haydut olan namlı Sabırsız Thag'ın evi. Söylenenlere göre annesi onu hiç sevmemiş."
+    },
+    {
+      "id": "3b04e7f4",
+      "bank_id": "d0bdb600",
+      "text": "Taştan Kan"
+    },
+    {
+      "id": "3c437424",
+      "bank_id": "d0bdb600",
+      "text": "Burada her türlü silah dövülür ve satılır."
+    },
+    {
+      "id": "3e4da7bc",
+      "bank_id": "d0bdb600",
+      "text": "Albion'un dört bir yanından toplanan eşyalar burada bulunabilir."
+    },
+    {
+      "id": "3ef958c0",
+      "bank_id": "d0bdb600",
+      "text": "İğne Evi"
+    },
+    {
+      "id": "405d0fd3",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Şehir Surları"
+    },
+    {
+      "id": "4084837f",
+      "bank_id": "d0bdb600",
+      "text": "Kokusuna bakılırsa, bu karavanın sahibi bol bol kızarmış balık yiyor."
+    },
+    {
+      "id": "416f4dd0",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Tepesi No: 3, Bloodstone"
+    },
+    {
+      "id": "41df1d8d",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Mezarlığı"
+    },
+    {
+      "id": "4813f57f",
+      "bank_id": "d0bdb600",
+      "text": "Bower Gölü Taş Köprüsü"
+    },
+    {
+      "id": "4d026bcd",
+      "bank_id": "d0bdb600",
+      "text": "Pek bir şeye benzemeyebilir ama asıl hüneri içinde saklı evlat."
+    },
+    {
+      "id": "4d710ed6",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Sahili No: 2b, Bloodstone"
+    },
+    {
+      "id": "4d80689e",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Girişi No: 2, Bowerstone Pazarı"
+    },
+    {
+      "id": "4daed3d2",
+      "bank_id": "d0bdb600",
+      "text": "Albion'u baştan başa katetmiş hoş bir karavan."
+    },
+    {
+      "id": "4f49db61",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 9, Bower Gölü"
+    },
+    {
+      "id": "509f341d",
+      "bank_id": "d0bdb600",
+      "text": "Sandalyeler Dünyası"
+    },
+    {
+      "id": "512f50b3",
+      "bank_id": "d0bdb600",
+      "text": "Kadın Odası"
+    },
+    {
+      "id": "5538e2f1",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Malikanesi"
+    },
+    {
+      "id": "5661980d",
+      "bank_id": "d0bdb600",
+      "text": "Orta Sokak No: 2, Bowerstone"
+    },
+    {
+      "id": "57989b35",
+      "bank_id": "d0bdb600",
+      "text": "Brightwood"
+    },
+    {
+      "id": "57c6d06e",
+      "bank_id": "d0bdb600",
+      "text": "Brightwood Çiftliği"
+    },
+    {
+      "id": "5861cf73",
+      "bank_id": "d0bdb600",
+      "text": "Sefer sırasında iyi performans gösteremeyen denizciler boğulmaları için denize atılmazdı: Bu eve getirilirlerdi ve doktor olduğunu iddia eden bir adam onlar ölüm için yalvarana kadar onları \"tedavi\" ederdi."
+    },
+    {
+      "id": "592db0a4",
+      "bank_id": "d0bdb600",
+      "text": "Çoğu Bloodstone'lu, içine alkol enjekte edilmemiş meyve ve sebzeleri yemeyi reddeder."
+    },
+    {
+      "id": "5a097a45",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Karavanı"
+    },
+    {
+      "id": "5bcc73ba",
+      "bank_id": "d0bdb600",
+      "text": "Brightwood"
+    },
+    {
+      "id": "5c4f4b99",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Karavanı"
+    },
+    {
+      "id": "5d5b6492",
+      "bank_id": "d0bdb600",
+      "text": "Kıyafetlerinizdeki kan lekelerinden bıktınız mı? Kumaşlarımız çabucak yıkanıp temizlenir. Psikopatlar için ideal."
+    },
+    {
+      "id": "60d4e099",
+      "bank_id": "d0bdb600",
+      "text": "Brightwood İblis Kapısı"
+    },
+    {
+      "id": "624ca383",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 6, Bower Gölü"
+    },
+    {
+      "id": "6436efcd",
+      "bank_id": "d0bdb600",
+      "text": "Korsanların bile arada sırada bir hediyeye ihtiyacı olur."
+    },
+    {
+      "id": "66f58a68",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Karavanı"
+    },
+    {
+      "id": "687528c7",
+      "bank_id": "d0bdb600",
+      "text": "Brightwood Kulesi"
+    },
+    {
+      "id": "6913cc56",
+      "bank_id": "d0bdb600",
+      "text": "Bu karavanın sahibi akıllılık edip uzatılmış garanti ve alt gövde koruması satın almış."
+    },
+    {
+      "id": "6a9fc027",
+      "bank_id": "d0bdb600",
+      "text": "Albion yollarında yarışmış en hızlı adam olan Brent Lightning'in evi olarak bilinir. Söylentiye göre bir keresinde burada havaya bir madeni para fırlatmış, iki tur Bowerstone'u turlamış ve parayı düşerken havada yakalamak için tam vaktinde dönmüş."
+    },
+    {
+      "id": "6d071328",
+      "bank_id": "d0bdb600",
+      "text": "Bower Gölü Çingene Kampı"
+    },
+    {
+      "id": "6db4758e",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Mezarlığı"
+    },
+    {
+      "id": "6ec66d60",
+      "bank_id": "d0bdb600",
+      "text": "Orta Sokak No: 3, Bowerstone"
+    },
+    {
+      "id": "6f6e1f25",
+      "bank_id": "d0bdb600",
+      "text": "Usturalar burada her iş için kullanılır, hatta makyaj yapmak için bile."
+    },
+    {
+      "id": "70a4cd03",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Fayton Hanesi"
+    },
+    {
+      "id": "72d2bd74",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone"
+    },
+    {
+      "id": "75ad17c6",
+      "bank_id": "d0bdb600",
+      "text": "Hayırsever Taşralılar Tapınağı"
+    },
+    {
+      "id": "773ffa6f",
+      "bank_id": "d0bdb600",
+      "text": "Günah Evi"
+    },
+    {
+      "id": "7a625265",
+      "bank_id": "d0bdb600",
+      "text": "Denizcilere denizin zorluklarını öğreten yaman bir kadın olan Kaptan Ivy burada yaşardı. Eğitim sırasında ölmeyenler Bloodstone'un seçkinleri arasına girdi."
+    },
+    {
+      "id": "7b363f8f",
+      "bank_id": "d0bdb600",
+      "text": "Bu çiftliğin zorluklara karşı uzun bir mücadele geçmişi vardır. İlk olarak, Brightwood'u yeni bir tarım topluluğu kurmak için mükemmel bir yer olarak gören bir Oakfield ailesi tarafından inşa edildi. Ancak çok geçmeden, yıllar boyunca burayı hedef almaya devam eden haydutlarla çatıştılar. Eski muhafız Giles burayı satın aldığında, onlarca yıldır terk edilmiş durumdaydı."
+    },
+    {
+      "id": "7c139280",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Mezarlığı Krallar Mezarı"
+    },
+    {
+      "id": "7d49fd05",
+      "bank_id": "d0bdb600",
+      "text": "Şeytani Modalar"
+    },
+    {
+      "id": "7dd07d16",
+      "bank_id": "d0bdb600",
+      "text": "Son Tur Evi"
+    },
+    {
+      "id": "7df872e5",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Sahili No: 3b, Bloodstone"
+    },
+    {
+      "id": "80be2751",
+      "bank_id": "d0bdb600",
+      "text": "Brightwood Taş Çemberi"
+    },
+    {
+      "id": "81a7dfa0",
+      "bank_id": "d0bdb600",
+      "text": "Ayaklarınız mı ağrıyor? Bu arabalar sizi gitmeniz gereken yere götürecektir."
+    },
+    {
+      "id": "82095bb4",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone'un Büyük Eşya Yığını"
+    },
+    {
+      "id": "82f01fe6",
+      "bank_id": "d0bdb600",
+      "text": "En sevmediğiniz yaralanmalarınız için en sevdiğiniz iksirler."
+    },
+    {
+      "id": "831e98a4",
+      "bank_id": "d0bdb600",
+      "text": "Kurgu Yanıyor"
+    },
+    {
+      "id": "84580711",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Köprüsü Seyir Noktası"
+    },
+    {
+      "id": "87752c84",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Hediye Tezgâhı"
+    },
+    {
+      "id": "899752dc",
+      "bank_id": "d0bdb600",
+      "text": "Reaver Bloodstone'u ele geçirip ahlaksızlık ve yozlaşmanın kralı olana kadar burası günah dolu bir gecenin tadını çıkarmak için gidilecek yer olarak bilinirdi."
+    },
+    {
+      "id": "89d9cc0f",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Mezarlığı Parşömen Okuyucusu"
+    },
+    {
+      "id": "8c78fc36",
+      "bank_id": "d0bdb600",
+      "text": "Kan Demircisi"
+    },
+    {
+      "id": "8d3ffbe1",
+      "bank_id": "d0bdb600",
+      "text": "Frennick Malikanesi"
+    },
+    {
+      "id": "90d35fcb",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Karavanı"
+    },
+    {
+      "id": "92089dfd",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Tepesi No: 5, Bloodstone"
+    },
+    {
+      "id": "96e8732c",
+      "bank_id": "d0bdb600",
+      "text": "Kıvrıl ve Geber"
+    },
+    {
+      "id": "99046f36",
+      "bank_id": "d0bdb600",
+      "text": "Bu dövmecideki müşterilerin yarısından azı kan zehirlenmesinden ölüyor."
+    },
+    {
+      "id": "9b3291c5",
+      "bank_id": "d0bdb600",
+      "text": "Cüzzamlının Kolları"
+    },
+    {
+      "id": "9b5bbcde",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Börek Tezgâhı"
+    },
+    {
+      "id": "9bd1f07a",
+      "bank_id": "d0bdb600",
+      "text": "Burada harika bir sandalye, masa, sandalye, gardırop, sandalye ve daha fazla sandalye seçkisi satılmaktadır."
+    },
+    {
+      "id": "9daeb504",
+      "bank_id": "d0bdb600",
+      "text": "Bu karavan daha iyi günler görmüştür, ancak daha kötü günler de görmüştür. Dolayısıyla şu anda gördüğü gün ikisinin tam ortasına denk gelmektedir."
+    },
+    {
+      "id": "9daf4e9e",
+      "bank_id": "d0bdb600",
+      "text": "Bir zamanlar üst üste altı yıl Albion'un En Çirkin Adamı seçilen Alan Mush'a aitti. Bu ev sadece Alan'ın alışılmadık yüz hatları nedeniyle değil, devasa fiziği nedeniyle de Ogr Sarayı olarak anılmaya başlandı."
+    },
+    {
+      "id": "9e43cb87",
+      "bank_id": "d0bdb600",
+      "text": "Hem dostların hem de düşmanların içini deşmek için kaliteli bir alet yelpazesi."
+    },
+    {
+      "id": "9fe90e49",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Mezarlığı Heykel Çemberi"
+    },
+    {
+      "id": "a0d7c8e0",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Tepebaşı, Bloodstone"
+    },
+    {
+      "id": "a31d0008",
+      "bank_id": "d0bdb600",
+      "text": "Pazar Meydanı No: 1, Bowerstone Pazarı"
+    },
+    {
+      "id": "a31f7c2d",
+      "bank_id": "d0bdb600",
+      "text": "Zihninizi, ruhunuzu ve dükkân sahibinin ceplerini geliştirin. Bir kitap satın alın!"
+    },
+    {
+      "id": "a3840d6d",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Sahili No: 1, Bloodstone"
+    },
+    {
+      "id": "a3902c6c",
+      "bank_id": "d0bdb600",
+      "text": "Düğümcü"
+    },
+    {
+      "id": "a52bd312",
+      "bank_id": "d0bdb600",
+      "text": "Ölüm Fabrikası"
+    },
+    {
+      "id": "a7627bfe",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Karavanı"
+    },
+    {
+      "id": "aa003a52",
+      "bank_id": "d0bdb600",
+      "text": "Sarhoşluk Bloodstone halkı için bir yaşam biçimidir. Çoğu için burası kalıcı ikametgahlarıdır."
+    },
+    {
+      "id": "aba270bf",
+      "bank_id": "d0bdb600",
+      "text": "Hortlak Kulübesi"
+    },
+    {
+      "id": "acc64602",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Karavanı"
+    },
+    {
+      "id": "af0e7c97",
+      "bank_id": "d0bdb600",
+      "text": "Thag'ın Kulübesi"
+    },
+    {
+      "id": "b05a4e1d",
+      "bank_id": "d0bdb600",
+      "text": "Ciddi korsanlar limandan en son efsun taşları olmadan asla ayrılmazlar."
+    },
+    {
+      "id": "b134381b",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 10, Bower Gölü"
+    },
+    {
+      "id": "b182e0c2",
+      "bank_id": "d0bdb600",
+      "text": "Orta Sokak No: 1, Bowerstone"
+    },
+    {
+      "id": "b34f4c9f",
+      "bank_id": "d0bdb600",
+      "text": "Pazar Meydanı No: 3, Bowerstone Pazarı"
+    },
+    {
+      "id": "b36ebd62",
+      "bank_id": "d0bdb600",
+      "text": "Bower Gölü"
+    },
+    {
+      "id": "b7521f09",
+      "bank_id": "d0bdb600",
+      "text": "Brightwood Kulesi Bahçesi"
+    },
+    {
+      "id": "b808d107",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Karavanı"
+    },
+    {
+      "id": "b84ffcf8",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone'da alabileceğiniz gerçekten taze olan tek ürün."
+    },
+    {
+      "id": "b91ccce4",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone İskelesi"
+    },
+    {
+      "id": "b9d873a1",
+      "bank_id": "d0bdb600",
+      "text": "Brightwood Heykel Tepesi"
+    },
+    {
+      "id": "bbdba70a",
+      "bank_id": "d0bdb600",
+      "text": "Bower Gölü Haydut Kampı No: 1"
+    },
+    {
+      "id": "bda6e743",
+      "bank_id": "d0bdb600",
+      "text": "Albion'u baştan başa katetmiş hoş bir karavan."
+    },
+    {
+      "id": "be25e2de",
+      "bank_id": "d0bdb600",
+      "text": "Orta Sokak No: 5, Bowerstone"
+    },
+    {
+      "id": "bf620869",
+      "bank_id": "d0bdb600",
+      "text": "Ralph Needle adında çok garip bir adam uzun yıllar burada yaşadı. Acıyı hiç hissedememesi nedeniyle diğer Bowerstone sakinleri tarafından ucube olarak görüldü. Sonunda bir tür sirk gösterisi olmak zorunda kaldı. Acıyı hissedememesine rağmen fiziksel zarara karşı bağışık değildi ve bir gün gösterinin kapanışı olarak kafatasına çaktığı iğneler biraz fazla ileri itildi."
+    },
+    {
+      "id": "c0922914",
+      "bank_id": "d0bdb600",
+      "text": "Pazar Meydanı No: 7, Bowerstone Pazarı"
+    },
+    {
+      "id": "c0c2e6ae",
+      "bank_id": "d0bdb600",
+      "text": "Korsan Adam Frennick pek akıllı değildi ama gücü onu birçok mürettebatın faydalı bir üyesi haline getirdi. Sonunda kendi gemisine komuta etti ve iki gün sonra dümenciye gemiyi bir uçuruma sürmesini emrettikten sonra gemisi feci şekilde battı."
+    },
+    {
+      "id": "c114c66b",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Balık Tezgâhı"
+    },
+    {
+      "id": "c2e4128c",
+      "bank_id": "d0bdb600",
+      "text": "Bu ev burada yaşamış birçok kötü insan yüzünden lekelenmiştir ve karanlık işlerle anılmasıyla ün kazanmıştır."
+    },
+    {
+      "id": "c6adf70c",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Tepesi No: 2, Bloodstone"
+    },
+    {
+      "id": "c7f0df6f",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Sahili No: 1b, Bloodstone"
+    },
+    {
+      "id": "cbbc421f",
+      "bank_id": "d0bdb600",
+      "text": "Denizde aylarca taze kalması garantilidir."
+    },
+    {
+      "id": "cc35143d",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Evi"
+    },
+    {
+      "id": "cd6b4dfa",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 11, Bower Gölü"
+    },
+    {
+      "id": "cf91c9cc",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Sahili No: 3, Bloodstone"
+    },
+    {
+      "id": "d0857760",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Mezarlığı Göleti"
+    },
+    {
+      "id": "d20236d8",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 7, Bower Gölü"
+    },
+    {
+      "id": "d20eb35a",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Malikane Bahçeleri"
+    },
+    {
+      "id": "d77d71a0",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Mezarlığı Malikane Bahçesi"
+    },
+    {
+      "id": "d9818ef2",
+      "bank_id": "d0bdb600",
+      "text": "Çingeneler yüzyıllardır taş kesme sanatını geliştirmektedirler. Efsun taşlarının yapımı konusunda çok az kişi bu kadar derin bilgiye sahiptir."
+    },
+    {
+      "id": "dd1550af",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Rıhtımı"
+    },
+    {
+      "id": "ddba81a7",
+      "bank_id": "d0bdb600",
+      "text": "Amacına göre oldukça gösterişli olsa da burası geleneksel olarak babadan oğula geçen bir meslek olan Bowerstone mezar bekçisinin evi olmuştur. İlk olarak, mezarlıkta ruhların ve yaşayan ölülerin sık sık görüldüğü için zengin soyluların perili bir köşk için kapışacağına inanan oldukça sıra dışı bir mülk zengini tarafından inşa edildi. Yanılmıştı."
+    },
+    {
+      "id": "ddfa6522",
+      "bank_id": "d0bdb600",
+      "text": "Kaçakçı Sahili"
+    },
+    {
+      "id": "de95abc5",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 8, Bower Gölü"
+    },
+    {
+      "id": "e019674c",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 1, Bower Gölü"
+    },
+    {
+      "id": "e1c4bf18",
+      "bank_id": "d0bdb600",
+      "text": "Bu karavan sallanıyorsa, kapısını çalmayın."
+    },
+    {
+      "id": "e3ba7522",
+      "bank_id": "d0bdb600",
+      "text": "Bower Gölü İblis Kapısı"
+    },
+    {
+      "id": "e5a75ef6",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 4, Bower Gölü"
+    },
+    {
+      "id": "e636405a",
+      "bank_id": "d0bdb600",
+      "text": "Bower Gölü İskelesi"
+    },
+    {
+      "id": "ea7cfcd5",
+      "bank_id": "d0bdb600",
+      "text": "Brightwood"
+    },
+    {
+      "id": "ec208b25",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Taş Kesicisi"
+    },
+    {
+      "id": "ecbc7bec",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 3, Bower Gölü"
+    },
+    {
+      "id": "eec98163",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Köprüsü Seyir Noktası"
+    },
+    {
+      "id": "f021379a",
+      "bank_id": "d0bdb600",
+      "text": "Pazar Meydanı No: 6, Bowerstone Pazarı"
+    },
+    {
+      "id": "f2512c3f",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Sahili No: 4b, Bloodstone"
+    },
+    {
+      "id": "f3f01d96",
+      "bank_id": "d0bdb600",
+      "text": "Bowerstone Mezarlığı Malikanesi"
+    },
+    {
+      "id": "f3fe8100",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Dövmecisi"
+    },
+    {
+      "id": "f58efbe0",
+      "bank_id": "d0bdb600",
+      "text": "Kardeşi ve Albion hız rekorunun sahibi Brent ile aynı sokakta yaşayan Jeff Lightning, ölümüne kadar bu evin sahibiydi. Brent ile kıyaslanabilir bir hıza sahip olmasına rağmen, Jeff zayıf bir kalpten muzdaripti. Yarışlarda kardeşine ayak uydurmaya çalıştığında düzensiz kalp atışları hayatından biraz daha fazlasını alıp götürdü, ta ki bir gün geriye alacak hiçbir şey kalmayana kadar."
+    },
+    {
+      "id": "f5dac7d7",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Tepesi No: 1, Bloodstone"
+    },
+    {
+      "id": "f7844c72",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Tepesi No: 11, Bloodstone"
+    },
+    {
+      "id": "f796c597",
+      "bank_id": "d0bdb600",
+      "text": "Bloodstone Tepesi No: 6, Bloodstone"
+    },
+    {
+      "id": "fd79483f",
+      "bank_id": "d0bdb600",
+      "text": "Çingene Kampı No: 2, Bower Gölü"
+    },
+    {
+      "id": "ff81bbc4",
+      "bank_id": "d0bdb600",
+      "text": "Hayatını büyüleri kullanmak yerine araştırmaya adayan muazzam güçte bir İrade kullanıcısı olan Stella Malgrave tarafından inşa edildi. Kahramanlar Loncası'nın siviller tarafından yok edilmesinde hayatını kaybettikten sonra kule, kurduğu birçok büyülü savunma önlemi sayesinde boş kaldı. Yalnızca eşit yeteneklere sahip bir İrade kullanıcısı burayı evi yapabilirdi. O kişi de Garth olacaktı."
+    }
+  ]
+}

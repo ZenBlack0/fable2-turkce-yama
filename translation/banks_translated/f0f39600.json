@@ -1,0 +1,1371 @@
+{
+  "bank_id": "f0f39600",
+  "total_strings": 273,
+  "strings": [
+    {
+      "id": "012641d5",
+      "bank_id": "f0f39600",
+      "text": "İyi"
+    },
+    {
+      "id": "015dd0ef",
+      "bank_id": "f0f39600",
+      "text": "Kapıyı Çal"
+    },
+    {
+      "id": "02bf8c35",
+      "bank_id": "f0f39600",
+      "text": "Oku"
+    },
+    {
+      "id": "0336a1f4",
+      "bank_id": "f0f39600",
+      "text": "Birliktelik İstiyor"
+    },
+    {
+      "id": "0385c76c",
+      "bank_id": "f0f39600",
+      "text": "Alev Topu Hasarı"
+    },
+    {
+      "id": "057fc6b5",
+      "bank_id": "f0f39600",
+      "text": "Fiyat İndirimi"
+    },
+    {
+      "id": "0609c9fd",
+      "bank_id": "f0f39600",
+      "text": "Bulunan Knothole Adası Kitapları"
+    },
+    {
+      "id": "063e4dfe",
+      "bank_id": "f0f39600",
+      "text": "Eşinizin Mektubu"
+    },
+    {
+      "id": "06fc4fdb",
+      "bank_id": "f0f39600",
+      "text": "Kazılan Kazı Noktaları"
+    },
+    {
+      "id": "0722cb29",
+      "bank_id": "f0f39600",
+      "text": "<hate_img>"
+    },
+    {
+      "id": "085e9d37",
+      "bank_id": "f0f39600",
+      "text": "Artık %1 olarak anılacaksınız."
+    },
+    {
+      "id": "08868970",
+      "bank_id": "f0f39600",
+      "text": "Trol Yüzü"
+    },
+    {
+      "id": "0911f0fd",
+      "bank_id": "f0f39600",
+      "text": "Burada uyuduktan sonra insanlar sizi daha çekici buluyor."
+    },
+    {
+      "id": "093ac16d",
+      "bank_id": "f0f39600",
+      "text": "İyi"
+    },
+    {
+      "id": "0a51b95b",
+      "bank_id": "f0f39600",
+      "text": "%s konumuna seyahat etmek ister misiniz?"
+    },
+    {
+      "id": "0b1d02c0",
+      "bank_id": "f0f39600",
+      "text": "Çok Mutsuz"
+    },
+    {
+      "id": "0c69b103",
+      "bank_id": "f0f39600",
+      "text": "Savaş Hiddeti"
+    },
+    {
+      "id": "0ca4cc13",
+      "bank_id": "f0f39600",
+      "text": "Burada uyuduktan sonra normalden daha sağlıklısınız."
+    },
+    {
+      "id": "0cbb774b",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak insanları daha yozlaşmış olduğunuza ikna etti."
+    },
+    {
+      "id": "0d61b282",
+      "bank_id": "f0f39600",
+      "text": "Mutlu"
+    },
+    {
+      "id": "0f4fad52",
+      "bank_id": "f0f39600",
+      "text": "%s konumuna seyahat etmek ister misiniz? Burası '%s' görevine en yakın noktadır. (Bu işlem %s sürecektir.)"
+    },
+    {
+      "id": "0f5c68f8",
+      "bank_id": "f0f39600",
+      "text": "Bakım:"
+    },
+    {
+      "id": "120a3681",
+      "bank_id": "f0f39600",
+      "text": "Sevgilim,\nNeden eve dönmedin? Oğlumuz büyük bir tehlike içinde.\nKederli karın,\n%1."
+    },
+    {
+      "id": "124ce1c7",
+      "bank_id": "f0f39600",
+      "text": "Aşağıdaki bonuslar kaldırıldı:"
+    },
+    {
+      "id": "12c0eff5",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak sizi daha hızlı yapacaktır."
+    },
+    {
+      "id": "1306c77c",
+      "bank_id": "f0f39600",
+      "text": "Kulak memelerinizi, kendi boyutunun birkaç katı büyüklüğündeki efsun taşlarını taşıyabilen bu olağanüstü mücevherle süsleyin."
+    },
+    {
+      "id": "13aa449c",
+      "bank_id": "f0f39600",
+      "text": "Hasar"
+    },
+    {
+      "id": "1412822f",
+      "bank_id": "f0f39600",
+      "text": "Yozlaşmanın Kalbi"
+    },
+    {
+      "id": "14889ef4",
+      "bank_id": "f0f39600",
+      "text": "Al"
+    },
+    {
+      "id": "14f45cdd",
+      "bank_id": "f0f39600",
+      "text": "%s konumuna seyahat etmek ister misiniz? Burası '%s' işine en yakın noktadır. (Bu işlem %s sürecektir.)"
+    },
+    {
+      "id": "14fd7fd9",
+      "bank_id": "f0f39600",
+      "text": "Mutsuz"
+    },
+    {
+      "id": "15b53853",
+      "bank_id": "f0f39600",
+      "text": "Kötülük Maskesi"
+    },
+    {
+      "id": "169d3e3f",
+      "bank_id": "f0f39600",
+      "text": "Sevgilim,\nNeden eve dönmedin? Oğlumuz büyük bir tehlike içinde.\nKederli kocan,\n%1."
+    },
+    {
+      "id": "17086d5d",
+      "bank_id": "f0f39600",
+      "text": "Eşyalar:"
+    },
+    {
+      "id": "19419f01",
+      "bank_id": "f0f39600",
+      "text": "Mutsuz"
+    },
+    {
+      "id": "197e3e8e",
+      "bank_id": "f0f39600",
+      "text": "Tüccar"
+    },
+    {
+      "id": "1af0d377",
+      "bank_id": "f0f39600",
+      "text": "İstenen Günlük Masraf:"
+    },
+    {
+      "id": "1b64683e",
+      "bank_id": "f0f39600",
+      "text": "Yol Kesenler Loncası'nın hayatta kalması için tüm üyelerinin kimliksiz kalması hayati önem taşır ve bu maske tam da bunu sağlar."
+    },
+    {
+      "id": "1c381519",
+      "bank_id": "f0f39600",
+      "text": "Çevre Büyüsü İstatistikleri"
+    },
+    {
+      "id": "1c449479",
+      "bank_id": "f0f39600",
+      "text": "Kâşif Kemeri"
+    },
+    {
+      "id": "1c556029",
+      "bank_id": "f0f39600",
+      "text": "1 dakika"
+    },
+    {
+      "id": "1ea88b6a",
+      "bank_id": "f0f39600",
+      "text": "Mutlu"
+    },
+    {
+      "id": "1f74c0e3",
+      "bank_id": "f0f39600",
+      "text": "Oluk Birası"
+    },
+    {
+      "id": "1f813732",
+      "bank_id": "f0f39600",
+      "text": "Tüccarın Fikri"
+    },
+    {
+      "id": "1f971368",
+      "bank_id": "f0f39600",
+      "text": "Mesafe:"
+    },
+    {
+      "id": "1fc7ef61",
+      "bank_id": "f0f39600",
+      "text": "İnce Kemer"
+    },
+    {
+      "id": "202248a2",
+      "bank_id": "f0f39600",
+      "text": "Çarpışma Hasarı"
+    },
+    {
+      "id": "21c3484a",
+      "bank_id": "f0f39600",
+      "text": "Beş Dakikalık Şöhret"
+    },
+    {
+      "id": "2338e69a",
+      "bank_id": "f0f39600",
+      "text": "Aranan Dalış Noktaları"
+    },
+    {
+      "id": "23fed707",
+      "bank_id": "f0f39600",
+      "text": "Hızlı Seyahat"
+    },
+    {
+      "id": "243d9b73",
+      "bank_id": "f0f39600",
+      "text": "Bulunan Gümüş Anahtarlar"
+    },
+    {
+      "id": "27d109b2",
+      "bank_id": "f0f39600",
+      "text": "İncele"
+    },
+    {
+      "id": "2b4870dd",
+      "bank_id": "f0f39600",
+      "text": "Arkadaş listesi"
+    },
+    {
+      "id": "2cbc49ac",
+      "bank_id": "f0f39600",
+      "text": "Hız"
+    },
+    {
+      "id": "2d7df3c9",
+      "bank_id": "f0f39600",
+      "text": "Bu <s1>Aktif</s1> bir görevdir."
+    },
+    {
+      "id": "2da36d0f",
+      "bank_id": "f0f39600",
+      "text": "Hedefli Büyü İstatistikleri"
+    },
+    {
+      "id": "2dab2ce5",
+      "bank_id": "f0f39600",
+      "text": "Toplam Hasar"
+    },
+    {
+      "id": "2db53cb0",
+      "bank_id": "f0f39600",
+      "text": "%1 eşyanızdan daha kötü"
+    },
+    {
+      "id": "2e374e2b",
+      "bank_id": "f0f39600",
+      "text": "Dal"
+    },
+    {
+      "id": "315a61d7",
+      "bank_id": "f0f39600",
+      "text": "Can Bonusu"
+    },
+    {
+      "id": "329d4f5c",
+      "bank_id": "f0f39600",
+      "text": "Bir bira bundan daha iyi olamaz. Bu insanüstü içkiyle kendinizi sarhoş bir sağlık ve güç sütununa dönüştürün."
+    },
+    {
+      "id": "331009a0",
+      "bank_id": "f0f39600",
+      "text": "İyiliksever"
+    },
+    {
+      "id": "34085861",
+      "bank_id": "f0f39600",
+      "text": "Seyahat Et"
+    },
+    {
+      "id": "34166cfe",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak şöhretinizi artırdı."
+    },
+    {
+      "id": "36051c88",
+      "bank_id": "f0f39600",
+      "text": "Ödenen Toplam Masraf:"
+    },
+    {
+      "id": "366b5256",
+      "bank_id": "f0f39600",
+      "text": "Küpe"
+    },
+    {
+      "id": "38a53c2a",
+      "bank_id": "f0f39600",
+      "text": "Ara"
+    },
+    {
+      "id": "38b0eb7d",
+      "bank_id": "f0f39600",
+      "text": "Besle"
+    },
+    {
+      "id": "3a308bda",
+      "bank_id": "f0f39600",
+      "text": "%s konumuna seyahat etmek ister misiniz? Burası '%s' indirimine en yakın noktadır."
+    },
+    {
+      "id": "3a844ab3",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak ahlakınızı geliştirecektir."
+    },
+    {
+      "id": "3efb3832",
+      "bank_id": "f0f39600",
+      "text": "Sahip Olunan Binalar"
+    },
+    {
+      "id": "4276a276",
+      "bank_id": "f0f39600",
+      "text": "300"
+    },
+    {
+      "id": "46f96995",
+      "bank_id": "f0f39600",
+      "text": "Açılan Sandıklar"
+    },
+    {
+      "id": "48116006",
+      "bank_id": "f0f39600",
+      "text": "Eşiniz sizden boşanıyor!"
+    },
+    {
+      "id": "4a651093",
+      "bank_id": "f0f39600",
+      "text": "Can Yenilenmesi"
+    },
+    {
+      "id": "4a7bce32",
+      "bank_id": "f0f39600",
+      "text": "saniye"
+    },
+    {
+      "id": "4b314858",
+      "bank_id": "f0f39600",
+      "text": "Alan Hasarı"
+    },
+    {
+      "id": "4ea6daeb",
+      "bank_id": "f0f39600",
+      "text": "Evlilik Evi"
+    },
+    {
+      "id": "4f08f9b7",
+      "bank_id": "f0f39600",
+      "text": "'%s' görevini hedefiniz olarak ayarlamak istiyor musunuz?"
+    },
+    {
+      "id": "503b2b8d",
+      "bank_id": "f0f39600",
+      "text": "Yüksek sosyete partilerinde salınmak ya da gizli alemlerde kenarda durmak için mükemmel. Sadece gözlerinizi dört açmayı unutmayın."
+    },
+    {
+      "id": "5277d16f",
+      "bank_id": "f0f39600",
+      "text": "Kasa"
+    },
+    {
+      "id": "52f3f5d6",
+      "bank_id": "f0f39600",
+      "text": "Ev:"
+    },
+    {
+      "id": "5323cb78",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak insanları niyetinizin saf olduğuna ikna etti."
+    },
+    {
+      "id": "538e1d92",
+      "bank_id": "f0f39600",
+      "text": "Yerden Al"
+    },
+    {
+      "id": "54395e6a",
+      "bank_id": "f0f39600",
+      "text": "Burada uyuduktan sonra dövüş çarpanınız daha yavaş düşecektir."
+    },
+    {
+      "id": "545c64aa",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumanın sağlığınıza faydalı etkileri vardır ve iyileşme hızınızı büyük ölçüde artıracaktır."
+    },
+    {
+      "id": "546fb418",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak hızınızı ve tepki sürelerinizi artırdı."
+    },
+    {
+      "id": "54bf311b",
+      "bank_id": "f0f39600",
+      "text": "1 altın"
+    },
+    {
+      "id": "54d3b14e",
+      "bank_id": "f0f39600",
+      "text": "Hız"
+    },
+    {
+      "id": "54fe78c3",
+      "bank_id": "f0f39600",
+      "text": "Süre"
+    },
+    {
+      "id": "55fd9d13",
+      "bank_id": "f0f39600",
+      "text": "Hedef:"
+    },
+    {
+      "id": "567f78b1",
+      "bank_id": "f0f39600",
+      "text": "Seni Özlüyorum"
+    },
+    {
+      "id": "58d6d018",
+      "bank_id": "f0f39600",
+      "text": "Dokunulmazlık"
+    },
+    {
+      "id": "593ffaa5",
+      "bank_id": "f0f39600",
+      "text": "Ev:"
+    },
+    {
+      "id": "5bee4fe6",
+      "bank_id": "f0f39600",
+      "text": "Bölge Çıkışı"
+    },
+    {
+      "id": "5ce558eb",
+      "bank_id": "f0f39600",
+      "text": "Aç"
+    },
+    {
+      "id": "5eb17b63",
+      "bank_id": "f0f39600",
+      "text": "<funny_img>"
+    },
+    {
+      "id": "5f3c26dd",
+      "bank_id": "f0f39600",
+      "text": "Aç"
+    },
+    {
+      "id": "6022c03a",
+      "bank_id": "f0f39600",
+      "text": "Kalan Süre:"
+    },
+    {
+      "id": "60852c95",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak İrade göstergenizin yenilenme hızını artıracaktır."
+    },
+    {
+      "id": "61398023",
+      "bank_id": "f0f39600",
+      "text": "Yenile"
+    },
+    {
+      "id": "6144926d",
+      "bank_id": "f0f39600",
+      "text": "Bölge:"
+    },
+    {
+      "id": "61a11713",
+      "bank_id": "f0f39600",
+      "text": "Sunak"
+    },
+    {
+      "id": "627c9baa",
+      "bank_id": "f0f39600",
+      "text": "Eşinizin Mektubu"
+    },
+    {
+      "id": "63a39704",
+      "bank_id": "f0f39600",
+      "text": "Burada uyuduktan sonra insanlar sizi daha az çekici buluyor."
+    },
+    {
+      "id": "63e61230",
+      "bank_id": "f0f39600",
+      "text": "Ödüller"
+    },
+    {
+      "id": "64dfabed",
+      "bank_id": "f0f39600",
+      "text": "Atla"
+    },
+    {
+      "id": "65a93f33",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak kullanabileceğiniz İrade miktarını artıracaktır."
+    },
+    {
+      "id": "66f1ce9d",
+      "bank_id": "f0f39600",
+      "text": "Mevcut Etkinlik:"
+    },
+    {
+      "id": "68c8f9d3",
+      "bank_id": "f0f39600",
+      "text": "%s saat"
+    },
+    {
+      "id": "6aa2f80a",
+      "bank_id": "f0f39600",
+      "text": "Tamamlanan Görevler:"
+    },
+    {
+      "id": "6ae10938",
+      "bank_id": "f0f39600",
+      "text": "Kolye"
+    },
+    {
+      "id": "6b178b9b",
+      "bank_id": "f0f39600",
+      "text": "Ün Ödülü"
+    },
+    {
+      "id": "6b81f91f",
+      "bank_id": "f0f39600",
+      "text": "1 saat"
+    },
+    {
+      "id": "6b8b56b8",
+      "bank_id": "f0f39600",
+      "text": "Bu sadece küstahça basit bir bira adı değil. Aynı zamanda içindekiler listesi."
+    },
+    {
+      "id": "6bba1753",
+      "bank_id": "f0f39600",
+      "text": "%s gün"
+    },
+    {
+      "id": "6bcfceba",
+      "bank_id": "f0f39600",
+      "text": "Çal"
+    },
+    {
+      "id": "6bea443f",
+      "bank_id": "f0f39600",
+      "text": "Burada uyuduktan sonra can göstergeniz otomatik olarak yenilenecektir."
+    },
+    {
+      "id": "6c10cf27",
+      "bank_id": "f0f39600",
+      "text": "Çok Mutlu"
+    },
+    {
+      "id": "6d034f9c",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak genel canınızı artıracaktır."
+    },
+    {
+      "id": "6f0b7f68",
+      "bank_id": "f0f39600",
+      "text": "Eşiniz boşanmakla tehdit ediyor!"
+    },
+    {
+      "id": "6f887fdb",
+      "bank_id": "f0f39600",
+      "text": "Değiştir"
+    },
+    {
+      "id": "6fe8add7",
+      "bank_id": "f0f39600",
+      "text": "Mevcut Görev:"
+    },
+    {
+      "id": "6ff9361f",
+      "bank_id": "f0f39600",
+      "text": "Bu havalı göz bandıyla içinizdeki öfkeyi serbest bırakın, omzunuza papağanları çekin ve fiyakalı görünün."
+    },
+    {
+      "id": "71022b00",
+      "bank_id": "f0f39600",
+      "text": "Tüccarlar:"
+    },
+    {
+      "id": "73b06bac",
+      "bank_id": "f0f39600",
+      "text": "'%s' işini hedefiniz olarak ayarlamak istiyor musunuz?"
+    },
+    {
+      "id": "73b3d3f4",
+      "bank_id": "f0f39600",
+      "text": "Mutsuz"
+    },
+    {
+      "id": "744f05a9",
+      "bank_id": "f0f39600",
+      "text": "Güzellik Bakımı"
+    },
+    {
+      "id": "74d5a53a",
+      "bank_id": "f0f39600",
+      "text": "Ailenizin sizin için bir hediyesi var!"
+    },
+    {
+      "id": "7607999e",
+      "bank_id": "f0f39600",
+      "text": "Burada uyuduktan sonra normalden daha az sağlıklısınız."
+    },
+    {
+      "id": "780d13d7",
+      "bank_id": "f0f39600",
+      "text": "Bu konumu henüz keşfetmediniz. Dünyayı biraz daha keşfetmeniz gerekiyor.\n\nDaha önce ziyaret ettiğiniz bir konuma gitmek için haritanızın Bölge bölümünü kullanın."
+    },
+    {
+      "id": "7bbcf3b8",
+      "bank_id": "f0f39600",
+      "text": "Bağış Yap"
+    },
+    {
+      "id": "7de1f505",
+      "bank_id": "f0f39600",
+      "text": "<love_img>"
+    },
+    {
+      "id": "7e9e8112",
+      "bank_id": "f0f39600",
+      "text": "Can Cezası"
+    },
+    {
+      "id": "7f5aa5da",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak Albion halkının sizi daha çekici bulmasını sağlayacaktır."
+    },
+    {
+      "id": "82492ae0",
+      "bank_id": "f0f39600",
+      "text": "Bowerstone Esmer Birası"
+    },
+    {
+      "id": "82aff8af",
+      "bank_id": "f0f39600",
+      "text": "<fear_img>"
+    },
+    {
+      "id": "84d71b39",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak Albion halkının sizi daha çirkin bulmasını sağlayacaktır."
+    },
+    {
+      "id": "84e731a6",
+      "bank_id": "f0f39600",
+      "text": "İşler"
+    },
+    {
+      "id": "867d056e",
+      "bank_id": "f0f39600",
+      "text": "%s konumuna seyahat etmek ister misiniz? Burası '%s' işine en yakın noktadır."
+    },
+    {
+      "id": "878db8bc",
+      "bank_id": "f0f39600",
+      "text": "Konuşmayı atla"
+    },
+    {
+      "id": "8821842b",
+      "bank_id": "f0f39600",
+      "text": "Kendinizi sarhoş edin. Başkalarını sarhoş edin. Nesini sevmeyesiniz ki?"
+    },
+    {
+      "id": "8974887a",
+      "bank_id": "f0f39600",
+      "text": "Çağrılan gölgeler"
+    },
+    {
+      "id": "8a49a181",
+      "bank_id": "f0f39600",
+      "text": "Sadece pantolonunuzu tutmakla kalmayacak, cüretkâr genişliğiyle tüm dünyanın dikkatini çekecek."
+    },
+    {
+      "id": "8acbd579",
+      "bank_id": "f0f39600",
+      "text": "Hayvan Cazibesi"
+    },
+    {
+      "id": "8b3c7cda",
+      "bank_id": "f0f39600",
+      "text": "<attractive_img>"
+    },
+    {
+      "id": "8c571851",
+      "bank_id": "f0f39600",
+      "text": "Oyun Ustası"
+    },
+    {
+      "id": "8d03ac25",
+      "bank_id": "f0f39600",
+      "text": "Hedefli Süre"
+    },
+    {
+      "id": "8ddd67f4",
+      "bank_id": "f0f39600",
+      "text": "Tek başına işe yaramaz ve sıradan olsa da bu yüzük efsun taşı yuvaları sayesinde paha biçilmez olacaktır."
+    },
+    {
+      "id": "8fa23173",
+      "bank_id": "f0f39600",
+      "text": "Evde kalmaktan asla hoşnut olmayan bir kemer. Dünyayı görmek istiyor."
+    },
+    {
+      "id": "900f4dc2",
+      "bank_id": "f0f39600",
+      "text": "Para Ödülü"
+    },
+    {
+      "id": "90102287",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak dövüş çarpanınızın düşme hızını yavaşlatacaktır."
+    },
+    {
+      "id": "901ae243",
+      "bank_id": "f0f39600",
+      "text": "Gösterişli Vuruş Dokunulmazlığı"
+    },
+    {
+      "id": "9031a552",
+      "bank_id": "f0f39600",
+      "text": "Kılıç Sayısı"
+    },
+    {
+      "id": "91704144",
+      "bank_id": "f0f39600",
+      "text": "%s konumuna seyahat etmek ister misiniz? <br> (Bu işlem %s sürecektir.)"
+    },
+    {
+      "id": "9193cfc0",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak sizi daha dayanıklı kılacaktır."
+    },
+    {
+      "id": "9195189b",
+      "bank_id": "f0f39600",
+      "text": "Mutlu"
+    },
+    {
+      "id": "9197925e",
+      "bank_id": "f0f39600",
+      "text": "Hedefli Hasar"
+    },
+    {
+      "id": "92273a4c",
+      "bank_id": "f0f39600",
+      "text": "Çek"
+    },
+    {
+      "id": "932de0f9",
+      "bank_id": "f0f39600",
+      "text": "gün"
+    },
+    {
+      "id": "946ba011",
+      "bank_id": "f0f39600",
+      "text": "Meşum Siyah Bira"
+    },
+    {
+      "id": "94f94f7c",
+      "bank_id": "f0f39600",
+      "text": "Yok Edilen Gargoyle Sayısı"
+    },
+    {
+      "id": "952c4a96",
+      "bank_id": "f0f39600",
+      "text": "%1 eşyanızdan daha iyi"
+    },
+    {
+      "id": "95caa991",
+      "bank_id": "f0f39600",
+      "text": "Saygınlık"
+    },
+    {
+      "id": "962d9397",
+      "bank_id": "f0f39600",
+      "text": "Alan Süresi"
+    },
+    {
+      "id": "9705255a",
+      "bank_id": "f0f39600",
+      "text": "1 mil"
+    },
+    {
+      "id": "97995e6c",
+      "bank_id": "f0f39600",
+      "text": "Dünya Haritası"
+    },
+    {
+      "id": "993be71f",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak genel canınızı azaltacaktır."
+    },
+    {
+      "id": "9986882e",
+      "bank_id": "f0f39600",
+      "text": "Seyahat Süresi:"
+    },
+    {
+      "id": "9a26c724",
+      "bank_id": "f0f39600",
+      "text": "İfade Heykeli"
+    },
+    {
+      "id": "9a35ab5f",
+      "bank_id": "f0f39600",
+      "text": "Dükkân Serveti"
+    },
+    {
+      "id": "9d428bd9",
+      "bank_id": "f0f39600",
+      "text": "Ahlak Ödülü"
+    },
+    {
+      "id": "9e236edf",
+      "bank_id": "f0f39600",
+      "text": "Ekonomi:"
+    },
+    {
+      "id": "9f330c2c",
+      "bank_id": "f0f39600",
+      "text": "Ödenmemiş Cezalar:"
+    },
+    {
+      "id": "9fde9bba",
+      "bank_id": "f0f39600",
+      "text": "İrade bonusu"
+    },
+    {
+      "id": "9ff46238",
+      "bank_id": "f0f39600",
+      "text": "Kalan Gün"
+    },
+    {
+      "id": "a0e680b1",
+      "bank_id": "f0f39600",
+      "text": "Kilidi Aç"
+    },
+    {
+      "id": "a0ef1b7a",
+      "bank_id": "f0f39600",
+      "text": "Burada uyuduktan sonra İrade göstergeniz daha hızlı dolacaktır."
+    },
+    {
+      "id": "a1959804",
+      "bank_id": "f0f39600",
+      "text": "Haydut Maskesi"
+    },
+    {
+      "id": "a3b7915c",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak dövüş çarpanınızın daha hızlı artmasını sağlayacaktır."
+    },
+    {
+      "id": "a478442f",
+      "bank_id": "f0f39600",
+      "text": "Burada uyuduktan sonra insanlar artık daha kötü biri olduğunuzu varsayacaktır."
+    },
+    {
+      "id": "a71576b5",
+      "bank_id": "f0f39600",
+      "text": "Kahraman atalarınızın geride bıraktığı altın ve eşyalara nasıl erişeceğiniz hakkında bilgi için www.fable2.com adresini ziyaret edin."
+    },
+    {
+      "id": "a76e1bff",
+      "bank_id": "f0f39600",
+      "text": "Görevler"
+    },
+    {
+      "id": "a7e5299f",
+      "bank_id": "f0f39600",
+      "text": "İz Belirle"
+    },
+    {
+      "id": "a91959a1",
+      "bank_id": "f0f39600",
+      "text": "<s4>%s:</s4> %s"
+    },
+    {
+      "id": "a9924de7",
+      "bank_id": "f0f39600",
+      "text": "Açıklama"
+    },
+    {
+      "id": "aa3927a8",
+      "bank_id": "f0f39600",
+      "text": "gün"
+    },
+    {
+      "id": "aaa05471",
+      "bank_id": "f0f39600",
+      "text": "%hr12:%min ös"
+    },
+    {
+      "id": "acede136",
+      "bank_id": "f0f39600",
+      "text": "İrade Yenilenmesi"
+    },
+    {
+      "id": "ad88e15a",
+      "bank_id": "f0f39600",
+      "text": "Ödüller:"
+    },
+    {
+      "id": "add656f0",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak sizi daha dayanıklı yapacaktır."
+    },
+    {
+      "id": "aef5373d",
+      "bank_id": "f0f39600",
+      "text": "Şu Anda Ulaşılamaz"
+    },
+    {
+      "id": "afbce37d",
+      "bank_id": "f0f39600",
+      "text": "Dükkân"
+    },
+    {
+      "id": "b0ca2c6c",
+      "bank_id": "f0f39600",
+      "text": "Arınma"
+    },
+    {
+      "id": "b1e27835",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak sizi daha dayanıklı kıldı."
+    },
+    {
+      "id": "b227a92e",
+      "bank_id": "f0f39600",
+      "text": "Yüzük"
+    },
+    {
+      "id": "b2295266",
+      "bank_id": "f0f39600",
+      "text": "Kocanızın Mektubu"
+    },
+    {
+      "id": "b2446a4c",
+      "bank_id": "f0f39600",
+      "text": "%s mil"
+    },
+    {
+      "id": "b2a4264c",
+      "bank_id": "f0f39600",
+      "text": "İz Belirle ve Seyahat Et"
+    },
+    {
+      "id": "b4a6fddb",
+      "bank_id": "f0f39600",
+      "text": "Sevgilim,\nNeden eve dönmedin? Kızımız büyük bir tehlike içinde.\nKederli karın,\n%1."
+    },
+    {
+      "id": "b4c69d15",
+      "bank_id": "f0f39600",
+      "text": "Hedef Sersemletme Süresi"
+    },
+    {
+      "id": "b51d1ff3",
+      "bank_id": "f0f39600",
+      "text": "altın"
+    },
+    {
+      "id": "b6defc11",
+      "bank_id": "f0f39600",
+      "text": "Dirilt"
+    },
+    {
+      "id": "b6e0615d",
+      "bank_id": "f0f39600",
+      "text": "Fiyat Artışı"
+    },
+    {
+      "id": "b74cf591",
+      "bank_id": "f0f39600",
+      "text": "%s konumuna seyahat etmek ister misiniz? Burası '%s' indirimine en yakın noktadır. (Bu işlem %s sürecektir.)"
+    },
+    {
+      "id": "b78a4a4e",
+      "bank_id": "f0f39600",
+      "text": "Çok Mutlu"
+    },
+    {
+      "id": "bafde9ed",
+      "bank_id": "f0f39600",
+      "text": "İksiri içtikten sonra insanlar sizi daha çekici buluyor."
+    },
+    {
+      "id": "bed40a63",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak fiziğinizi geçici olarak geliştirdi."
+    },
+    {
+      "id": "bf5af399",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak sizi daha ünlü yapacaktır."
+    },
+    {
+      "id": "c03c4ba0",
+      "bank_id": "f0f39600",
+      "text": "'%s' indirimini hedefiniz olarak ayarlamak istiyor musunuz?"
+    },
+    {
+      "id": "c2042cd7",
+      "bank_id": "f0f39600",
+      "text": "Burada uyuduktan sonra dövüş çarpanınız daha hızlı artacaktır."
+    },
+    {
+      "id": "c2d10a66",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak kullanabileceğiniz İrade miktarını artırdı."
+    },
+    {
+      "id": "c32f73ed",
+      "bank_id": "f0f39600",
+      "text": "İlişki Durumu:"
+    },
+    {
+      "id": "c43b59d6",
+      "bank_id": "f0f39600",
+      "text": "Yere Serme Gücü"
+    },
+    {
+      "id": "c516265d",
+      "bank_id": "f0f39600",
+      "text": "Çok Mutsuz"
+    },
+    {
+      "id": "c5cdfbbd",
+      "bank_id": "f0f39600",
+      "text": "Şu anda bu bölgeden dışarı seyahat edemezsiniz."
+    },
+    {
+      "id": "c685ef7e",
+      "bank_id": "f0f39600",
+      "text": "Dövüş Dayanıklılığı"
+    },
+    {
+      "id": "c71fd231",
+      "bank_id": "f0f39600",
+      "text": "Cesedi Ara"
+    },
+    {
+      "id": "c81853fa",
+      "bank_id": "f0f39600",
+      "text": "Balverine Dalağı Birası"
+    },
+    {
+      "id": "c910626c",
+      "bank_id": "f0f39600",
+      "text": "Hız Takviyesi"
+    },
+    {
+      "id": "c9f01651",
+      "bank_id": "f0f39600",
+      "text": "Taş Gibi Sert"
+    },
+    {
+      "id": "c9f833f6",
+      "bank_id": "f0f39600",
+      "text": "mil"
+    },
+    {
+      "id": "caa8f83b",
+      "bank_id": "f0f39600",
+      "text": "metre"
+    },
+    {
+      "id": "cbadf057",
+      "bank_id": "f0f39600",
+      "text": "Balo Maskesi"
+    },
+    {
+      "id": "ccbd7239",
+      "bank_id": "f0f39600",
+      "text": "%hr12:%min öö"
+    },
+    {
+      "id": "cd27ba14",
+      "bank_id": "f0f39600",
+      "text": "Tırman"
+    },
+    {
+      "id": "cda6f363",
+      "bank_id": "f0f39600",
+      "text": "Kalın Kemer"
+    },
+    {
+      "id": "cee43368",
+      "bank_id": "f0f39600",
+      "text": "Açıklama:"
+    },
+    {
+      "id": "cf523058",
+      "bank_id": "f0f39600",
+      "text": "İyi"
+    },
+    {
+      "id": "d2b1bbe9",
+      "bank_id": "f0f39600",
+      "text": "%s konumuna seyahat etmek ister misiniz? Burası '%s' görevine en yakın noktadır."
+    },
+    {
+      "id": "d3cc6645",
+      "bank_id": "f0f39600",
+      "text": "1 gün"
+    },
+    {
+      "id": "d4043472",
+      "bank_id": "f0f39600",
+      "text": "Bu içki yüzyıllardır Albion halkını sarhoş etmektedir."
+    },
+    {
+      "id": "d452d410",
+      "bank_id": "f0f39600",
+      "text": "<ugly_img>"
+    },
+    {
+      "id": "d487d2fd",
+      "bank_id": "f0f39600",
+      "text": "Göz Bandı"
+    },
+    {
+      "id": "d897b89d",
+      "bank_id": "f0f39600",
+      "text": "Bu sizin <s1>Birincil</s1> göreviniz."
+    },
+    {
+      "id": "d8ca6000",
+      "bank_id": "f0f39600",
+      "text": "'%s' (aile üyesi) kişisini hedefiniz olarak ayarlamak istiyor musunuz?"
+    },
+    {
+      "id": "d9af8816",
+      "bank_id": "f0f39600",
+      "text": "Evet"
+    },
+    {
+      "id": "dab0b4ad",
+      "bank_id": "f0f39600",
+      "text": "%name% (%vocation%)"
+    },
+    {
+      "id": "dbe7977e",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak insanların sizin daha kötü biri olduğunuzu düşünmesini sağlayacaktır."
+    },
+    {
+      "id": "dc176f01",
+      "bank_id": "f0f39600",
+      "text": "Bu düşük kaliteli bira ağzınızı hüzünlü ve acı bir tabakayla kaplayacaktır. En iyisi diğer birkaç içkiden veya kafaya indirilen sert bir darbeden sonra içmektir."
+    },
+    {
+      "id": "dc2f01b7",
+      "bank_id": "f0f39600",
+      "text": "Hedefli Mesafe"
+    },
+    {
+      "id": "dcc0374a",
+      "bank_id": "f0f39600",
+      "text": "Fiyat Ayarlaması"
+    },
+    {
+      "id": "dd5183de",
+      "bank_id": "f0f39600",
+      "text": "Çocuklar:"
+    },
+    {
+      "id": "de8f67ba",
+      "bank_id": "f0f39600",
+      "text": "%1 eşyanızla aynı"
+    },
+    {
+      "id": "df6fbf4a",
+      "bank_id": "f0f39600",
+      "text": "Bu kolye yalnızca göğsünüzü süslemekle kalmayacak, son derece kullanışlı efsun taşı yuvalarıyla birlikte gelecektir."
+    },
+    {
+      "id": "e0703924",
+      "bank_id": "f0f39600",
+      "text": "Kılıç Başına Hasar"
+    },
+    {
+      "id": "e23154bc",
+      "bank_id": "f0f39600",
+      "text": "Mevcut Övünmeler"
+    },
+    {
+      "id": "e2bb24ba",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak insanların sizin daha yozlaşmış olduğunuzu düşünmesini sağlayacaktır."
+    },
+    {
+      "id": "e2ede26c",
+      "bank_id": "f0f39600",
+      "text": "Burada uyuduktan sonra insanlar artık daha erdemli olduğunuzu varsayacaktır."
+    },
+    {
+      "id": "e3ab6787",
+      "bank_id": "f0f39600",
+      "text": "Vücut Geliştirici"
+    },
+    {
+      "id": "e430dbe7",
+      "bank_id": "f0f39600",
+      "text": "Azami Hedef Sayısı"
+    },
+    {
+      "id": "e46cc30d",
+      "bank_id": "f0f39600",
+      "text": "Bölgeler"
+    },
+    {
+      "id": "e5fd67d9",
+      "bank_id": "f0f39600",
+      "text": "Can"
+    },
+    {
+      "id": "e626b5cb",
+      "bank_id": "f0f39600",
+      "text": "İblis Kapısı"
+    },
+    {
+      "id": "e657e19b",
+      "bank_id": "f0f39600",
+      "text": "Kupa Yerleştir"
+    },
+    {
+      "id": "e6c78b01",
+      "bank_id": "f0f39600",
+      "text": "Hasar Çarpanı"
+    },
+    {
+      "id": "e704a64a",
+      "bank_id": "f0f39600",
+      "text": "Uyu"
+    },
+    {
+      "id": "e7b9cc11",
+      "bank_id": "f0f39600",
+      "text": "mil"
+    },
+    {
+      "id": "e9467ed2",
+      "bank_id": "f0f39600",
+      "text": "%s, %s"
+    },
+    {
+      "id": "eab37cee",
+      "bank_id": "f0f39600",
+      "text": "Oyuncu Puanı"
+    },
+    {
+      "id": "eed76b41",
+      "bank_id": "f0f39600",
+      "text": "Sevgilim,\nNeden eve dönmedin? Kızımız büyük bir tehlike içinde.\nKederli kocan,\n%1."
+    },
+    {
+      "id": "f1abf720",
+      "bank_id": "f0f39600",
+      "text": "%s altın"
+    },
+    {
+      "id": "f23e2355",
+      "bank_id": "f0f39600",
+      "text": "%s dakika"
+    },
+    {
+      "id": "f467e86c",
+      "bank_id": "f0f39600",
+      "text": "Hasar Süresi"
+    },
+    {
+      "id": "f4a48a85",
+      "bank_id": "f0f39600",
+      "text": "Çocuğunuzun doğum günü!"
+    },
+    {
+      "id": "f5f8099b",
+      "bank_id": "f0f39600",
+      "text": "Alt kıyafetleri tutacak kadar cesarete sahip, mütevazı ve biraz çekingen bir kemer."
+    },
+    {
+      "id": "f920e60f",
+      "bank_id": "f0f39600",
+      "text": "Bu görev <s1>Zaman Sınırlı</s1> bir görevdir."
+    },
+    {
+      "id": "f9a3a272",
+      "bank_id": "f0f39600",
+      "text": "İndirimler"
+    },
+    {
+      "id": "fb64ca81",
+      "bank_id": "f0f39600",
+      "text": "Hedefin Arkasında Belir"
+    },
+    {
+      "id": "fbb8b862",
+      "bank_id": "f0f39600",
+      "text": "Kullan"
+    },
+    {
+      "id": "fcab685f",
+      "bank_id": "f0f39600",
+      "text": "Burada uyumak insanların sizi ne kadar saf bulacağını etkileyecektir."
+    },
+    {
+      "id": "fd352236",
+      "bank_id": "f0f39600",
+      "text": "Eşyalar:"
+    },
+    {
+      "id": "fe35daa2",
+      "bank_id": "f0f39600",
+      "text": "Şok Süresi"
+    }
+  ]
+}

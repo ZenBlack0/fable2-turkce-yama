@@ -1,0 +1,646 @@
+{
+  "bank_id": "60b8b600",
+  "total_strings": 128,
+  "strings": [
+    {
+      "id": "01f61c21",
+      "bank_id": "60b8b600",
+      "text": "Ninesinin notu Charles'a verilsin mi?"
+    },
+    {
+      "id": "03389554",
+      "bank_id": "60b8b600",
+      "text": "Kötü olmak istemiyor musun yani?! Korkak tavuk!"
+    },
+    {
+      "id": "06389a2d",
+      "bank_id": "60b8b600",
+      "text": "Hey, onları yerken görmem lazım, yoksa sayılmaz!"
+    },
+    {
+      "id": "063ede68",
+      "bank_id": "60b8b600",
+      "text": "Büyükannem mi! Tahmin etmeliydim! Benim adım Charles! Charles! Ve ben de cesur bir maceracıyım bir kere! Ah, kadının teki kanımı beynime sıçratıyor!"
+    },
+    {
+      "id": "073edfdb",
+      "bank_id": "60b8b600",
+      "text": "Baksana, elindeki de ne öyle? O el yazısı... Yok canım, olamaz... Ver bakayım şunu!"
+    },
+    {
+      "id": "083ee14e",
+      "bank_id": "60b8b600",
+      "text": "Ah, bir kaşif yoldaş daha. Ne şans ama, belki bana yardım edebilirsin."
+    },
+    {
+      "id": "0a3ee494",
+      "bank_id": "60b8b600",
+      "text": "Hadi bir güzellik yap da şu rezil herifleri benden uzak tut, olur mu?"
+    },
+    {
+      "id": "0b3ee607",
+      "bank_id": "60b8b600",
+      "text": "Ne zaman yaklaşsam, bu hortlak pisliklerden bir güruh beliriverip beni paramparça etmeye kalkıyor."
+    },
+    {
+      "id": "0c3ee7fa",
+      "bank_id": "60b8b600",
+      "text": "Yine de fena birine benzemiyorsun. Belki şu baş belası sandığı açmamıza bir el atabilirsin."
+    },
+    {
+      "id": "0d3ee96d",
+      "bank_id": "60b8b600",
+      "text": "Yaşlı bir kadının durmadan sana ne yapacağını söylemesinden sen hoşlanır mıydın?"
+    },
+    {
+      "id": "0f905a50",
+      "bank_id": "60b8b600",
+      "text": "Çocukları bilirsin; hep tek başlarına idare edebilecek kadar büyüdüklerini sanırlar."
+    },
+    {
+      "id": "10905bc3",
+      "bank_id": "60b8b600",
+      "text": "Mağaraları keşfetmeye gidiyorum diyerek kaçtı. Yine 'maceracılık' oynuyor tabii sersem oğlan."
+    },
+    {
+      "id": "11905db6",
+      "bank_id": "60b8b600",
+      "text": "Ah, teşekkür ederim canım. Çok teşekkür ederim."
+    },
+    {
+      "id": "16906555",
+      "bank_id": "60b8b600",
+      "text": "Seni görünce korkabilir, o yüzden al şu notu; senin güvenebileceği iyi bir yetişkin olduğunu anlasın."
+    },
+    {
+      "id": "182ac6e0",
+      "bank_id": "60b8b600",
+      "text": "Öğğk... Sanırım kusacağım! Sen yutarken sonuncusu hâlâ kıpırdıyordu... öğğk... <gags>"
+    },
+    {
+      "id": "185d2800",
+      "bank_id": "60b8b600",
+      "text": "Of... Vay canına, amma da yaktı ha! Kimse var mı?"
+    },
+    {
+      "id": "192ac853",
+      "bank_id": "60b8b600",
+      "text": "Üç oldu! Öğğk, üç tane yedin... Ah... Buraya kadar gelebilen son kişi oracıkta düşüp ölmüştü. Hâlâ midesinden gelen ciklemeleri duyabiliyorduk. Öğğk..."
+    },
+    {
+      "id": "195d29f3",
+      "bank_id": "60b8b600",
+      "text": "Of! Onları benden uzak tutmaya çalışsan diyorum, dostum."
+    },
+    {
+      "id": "1b2acbb9",
+      "bank_id": "60b8b600",
+      "text": "Ah! Bunu yaptığına inanamıyorum! Hâlâ canlıydı o!"
+    },
+    {
+      "id": "1b5d2cd9",
+      "bank_id": "60b8b600",
+      "text": "Ah! Vay canına, biri yardım etsin lütfen!"
+    },
+    {
+      "id": "1b7932bf",
+      "bank_id": "60b8b600",
+      "text": "Gölgeler Tapınağı'na giriş hakkı kazanın."
+    },
+    {
+      "id": "1e2ad072",
+      "bank_id": "60b8b600",
+      "text": "Biri daha gitti... ekstra çıtır çıtır... öğğk... Sende hiç vicdan yok mu ya?"
+    },
+    {
+      "id": "21722f58",
+      "bank_id": "60b8b600",
+      "text": "Harika gösteri! Amma da eğlenceli olacak!"
+    },
+    {
+      "id": "21c2cbf0",
+      "bank_id": "60b8b600",
+      "text": "Beni gerçekten kaçırdığını mı sanıyorsun? Sadece soluklanıyorum!"
+    },
+    {
+      "id": "22c2cd63",
+      "bank_id": "60b8b600",
+      "text": "İnime döneceğim, kendime küçük bir ordu toplayıp sen ne olduğunu anlamadan seni tokatlamaya geri geleceğim."
+    },
+    {
+      "id": "237232be",
+      "bank_id": "60b8b600",
+      "text": "Ne heyecan verici ama!"
+    },
+    {
+      "id": "24723411",
+      "bank_id": "60b8b600",
+      "text": "Ben sandıkla uğraşmaya başlar başlamaz, o çürümüş pislikler parçalama numaralarına başlar. Ben kilitte hünerlerimi sergilerken sen sadece onları benden uzak tut."
+    },
+    {
+      "id": "24d539cb",
+      "bank_id": "60b8b600",
+      "text": "Tebrikler. Eylemleriniz dünyayı şekillendirmeye devam ediyor."
+    },
+    {
+      "id": "25d53bbe",
+      "bank_id": "60b8b600",
+      "text": "Sayende Bowerstone yolu yeniden açıldı."
+    },
+    {
+      "id": "27c2d502",
+      "bank_id": "60b8b600",
+      "text": "Muhabbetin çekilmiyor. Ben kaçtım. Gebermeden hemen önce görüşürüz, seni salyangoz çuvalı!"
+    },
+    {
+      "id": "27ddb32c",
+      "bank_id": "60b8b600",
+      "text": "Barnum için Rookridge haydutlardan temizlensin mi?"
+    },
+    {
+      "id": "28c2d6f5",
+      "bank_id": "60b8b600",
+      "text": "Rookridge benim, duydun mu? Senin kanınla adımı yazan bir tabela dikeceğim."
+    },
+    {
+      "id": "2ae91747",
+      "bank_id": "60b8b600",
+      "text": "Şahane! Bu iş tamamdır!"
+    },
+    {
+      "id": "2b570695",
+      "bank_id": "60b8b600",
+      "text": "Henüz kadın üyemiz yok ama durmadan büyüyoruz!"
+    },
+    {
+      "id": "2b57069e",
+      "bank_id": "60b8b600",
+      "text": "Albion'un en hızlı büyüyen tarikatıyız, biliyorsun değil mi!"
+    },
+    {
+      "id": "2be9193a",
+      "bank_id": "60b8b600",
+      "text": "Vay canına! Doğrusu bunu hiç beklemiyordum."
+    },
+    {
+      "id": "2ce91aad",
+      "bank_id": "60b8b600",
+      "text": "Vay be, amma da sıkışık bir durum ha. Haydi onlara cesaretin ve yüreğin ne demek olduğunu gösterelim."
+    },
+    {
+      "id": "2d62b71c",
+      "bank_id": "60b8b600",
+      "text": "<sighs> O sevimli, pofuduk kuşlar kendi kendilerini yemeyecekler herhalde. Gerçi... yamyam civcivler... Amma acayip olurdu ha?"
+    },
+    {
+      "id": "2f62ba62",
+      "bank_id": "60b8b600",
+      "text": "Kötü olmak kolay değil ama sanırım birinin bu işi yapması lazım."
+    },
+    {
+      "id": "3062bbd5",
+      "bank_id": "60b8b600",
+      "text": "Belki de bir kova alsam iyi olur. Lazım olacak gibi."
+    },
+    {
+      "id": "36d3548a",
+      "bank_id": "60b8b600",
+      "text": "(mırıldanır)"
+    },
+    {
+      "id": "3a15fd85",
+      "bank_id": "60b8b600",
+      "text": "%1 / 5 civciv yendi"
+    },
+    {
+      "id": "4a8ee254",
+      "bank_id": "60b8b600",
+      "text": "Güzelim piknik heba oldu."
+    },
+    {
+      "id": "4b8ee3c7",
+      "bank_id": "60b8b600",
+      "text": "Charlie, Charlie, Charlie, ne yaramaz bir çocuksun sen böyle."
+    },
+    {
+      "id": "4c9c2de3",
+      "bank_id": "60b8b600",
+      "text": "Bir Köprü Çok Uzak"
+    },
+    {
+      "id": "4d8ee72d",
+      "bank_id": "60b8b600",
+      "text": "Ah."
+    },
+    {
+      "id": "4eb80de7",
+      "bank_id": "60b8b600",
+      "text": "Katılmak ister misin... Hey! Sen benim tarikatçı yoldaşımı öldüren kişi değil misin?"
+    },
+    {
+      "id": "4ec66caa",
+      "bank_id": "60b8b600",
+      "text": "Hadi ama! Aslında çok istediğini biliyorsun."
+    },
+    {
+      "id": "4fb80f5a",
+      "bank_id": "60b8b600",
+      "text": "Ha, anladım, ne kadar kötü olduğunu kanıtlamaya çalışıyorsun. Grim Birader inisiyatif alan insanları pek sever gerçi."
+    },
+    {
+      "id": "50b810cd",
+      "bank_id": "60b8b600",
+      "text": "Ama o çıtır civcivleri yemekten kurtulamayacaksın. Ben de seni izlemekten kurtulamayacağım tabii."
+    },
+    {
+      "id": "56fb5bb4",
+      "bank_id": "60b8b600",
+      "text": "Ben şu sandığı açarken bir güzellik yapıp bu hortlak pislikleri benden uzak tutsan olmaz mı?"
+    },
+    {
+      "id": "5acfb8cf",
+      "bank_id": "60b8b600",
+      "text": "Aah, döndün demek. Bu sınavı dişlerinin arasında çıtırdata çıtırdata geçecek cesareti topladın mı? Seni suçlamıyorum doğrusu."
+    },
+    {
+      "id": "5bcfbaa2",
+      "bank_id": "60b8b600",
+      "text": "Ah... Görünüşe göre kümeste birkaç civciv eksik. O sevimli ufaklıkları serbest bırakmadın, değil mi?"
+    },
+    {
+      "id": "5ccfbc15",
+      "bank_id": "60b8b600",
+      "text": "İnisiyasyonun lanetli kuralları gereği sana daha fazlasını vermem yasak. Eksikleri kendin bulmak zorundasın."
+    },
+    {
+      "id": "5cf1f9c3",
+      "bank_id": "60b8b600",
+      "text": "Lütfen. Yalvarırım sana!"
+    },
+    {
+      "id": "5ff1fe9c",
+      "bank_id": "60b8b600",
+      "text": "Söz veriyorum, tamamen değiştim ben!"
+    },
+    {
+      "id": "61f201e2",
+      "bank_id": "60b8b600",
+      "text": "Hızlı kurye olacağım. Zaten hep en büyük hayalimdi."
+    },
+    {
+      "id": "62f20355",
+      "bank_id": "60b8b600",
+      "text": "Böyle davranmamın sebebi bu toplum. İkinci bir şansı hak ediyorum."
+    },
+    {
+      "id": "64f983a8",
+      "bank_id": "60b8b600",
+      "text": "Hadi canım! Beni şimdi yüzüstü bırakıp gitmeyeceksin, değil mi?"
+    },
+    {
+      "id": "66bf4294",
+      "bank_id": "60b8b600",
+      "text": "Aah... Mükemmel. Hepsini son kırıntısına kadar yutmak zorundasın, biliyorsun değil mi? Tüyleri. Kemikleri. O... O gagayı. Öğğk, izninizle lütfen. <gags>"
+    },
+    {
+      "id": "689e3a6b",
+      "bank_id": "60b8b600",
+      "text": "Dash'e merhamet gösterip gitmesine izin verilsin mi?"
+    },
+    {
+      "id": "7586372b",
+      "bank_id": "60b8b600",
+      "text": "Neyse, evet, Tapınağa hoş geldin. Gölgelerin arasındaki yerini hak ettin."
+    },
+    {
+      "id": "7618d018",
+      "bank_id": "60b8b600",
+      "text": "Tapınağa katılmanın hayatımı tamamen değiştirdiğini söylesem inanır mısın? Evet. İlahiler de bir harika üstelik."
+    },
+    {
+      "id": "7686389e",
+      "bank_id": "60b8b600",
+      "text": "<gasps> Bu... Bu ömrümde gördüğüm en iğrenç şeydi. Bunu Salı İşkenceleri'ni hiç kaçırmayan biri söylüyor hem de. Hımm!"
+    },
+    {
+      "id": "7818d37e",
+      "bank_id": "60b8b600",
+      "text": "Kafadengi kötü tiplerle kaynaşmak için bundan daha iyi bir yer gerçekten yok."
+    },
+    {
+      "id": "7918d4d1",
+      "bank_id": "60b8b600",
+      "text": "Grim Birader, Gölgeler tarikatını gerçekten eski şaşaalı günlerine döndürdü. Öyle diyorlar yani, ben sadece takılmayı seviyorum doğrusu."
+    },
+    {
+      "id": "8078740b",
+      "bank_id": "60b8b600",
+      "text": "Şimdi koridordan ilerleyip lanetli Feleğin Çarkı'na gidin; bugüne kadar tasarlanmış en korkunç, en dehşet verici düzenek."
+    },
+    {
+      "id": "817875fe",
+      "bank_id": "60b8b600",
+      "text": "Talimatlar hemen yanındadır."
+    },
+    {
+      "id": "84787ab7",
+      "bank_id": "60b8b600",
+      "text": "Gölgeler Tapınağı'na hoş geldin genç mürit. Ben Cornelius Grim."
+    },
+    {
+      "id": "85787c2a",
+      "bank_id": "60b8b600",
+      "text": "Kötücül ameller ve yüz kızartıcı günahlarla dolu köklü bir geçmişe sahip, karanlık bir ibadetin saygıdeğer cemiyetine adım attın."
+    },
+    {
+      "id": "86787d9d",
+      "bank_id": "60b8b600",
+      "text": "Cuma geceleri poker gecesidir."
+    },
+    {
+      "id": "8a81cde0",
+      "bank_id": "60b8b600",
+      "text": "Sadece bir saniyeliğine arkamı döndüm ve... ve gitmişti."
+    },
+    {
+      "id": "8b81cf53",
+      "bank_id": "60b8b600",
+      "text": "Onu bulmak zorundasın. Lütfen. O öyle çaresizdir ki."
+    },
+    {
+      "id": "8f81d59f",
+      "bank_id": "60b8b600",
+      "text": "Charlie? Charlie, sen misin?"
+    },
+    {
+      "id": "9081d772",
+      "bank_id": "60b8b600",
+      "text": "Ah, benim zavallı, tatlı Charlie'm değilsin sen."
+    },
+    {
+      "id": "9181d8e5",
+      "bank_id": "60b8b600",
+      "text": "Doğum günü için biricik tatlı oğlumu Bower Gölü'ne getirdim. Piknik yapmayı öyle çok sever ki."
+    },
+    {
+      "id": "9257fcce",
+      "bank_id": "60b8b600",
+      "text": "Haydi bakalım, geliyorlar!"
+    },
+    {
+      "id": "95013efc",
+      "bank_id": "60b8b600",
+      "text": "İşte ruh bu! Ayrıca söylemeden geçemeyeceğim, harika bir kötü kahkahan var."
+    },
+    {
+      "id": "96e08bb1",
+      "bank_id": "60b8b600",
+      "text": "Gölgeler Tapınağı'na katılmak istiyor musunuz?"
+    },
+    {
+      "id": "970141c2",
+      "bank_id": "60b8b600",
+      "text": "Aah, boş laf gevelemeyen birisin demek, anladım. Aramızda senin mizacında epey kişi var. Evet, burada kendini evinde gibi hissedeceksin."
+    },
+    {
+      "id": "980143b5",
+      "bank_id": "60b8b600",
+      "text": "Hemen acele etme. Ne de olsa bu benzersiz bir fırsat."
+    },
+    {
+      "id": "9f2082f0",
+      "bank_id": "60b8b600",
+      "text": "<titters> Canım şöyle güzel bir fincan çay çekti."
+    },
+    {
+      "id": "a0208463",
+      "bank_id": "60b8b600",
+      "text": "Ah, karnım da biraz acıktı."
+    },
+    {
+      "id": "a12085d6",
+      "bank_id": "60b8b600",
+      "text": "Evet, fevkalade."
+    },
+    {
+      "id": "a6208df5",
+      "bank_id": "60b8b600",
+      "text": "Aman Tanrım."
+    },
+    {
+      "id": "a62e7e3d",
+      "bank_id": "60b8b600",
+      "text": "Oakfield'deki handa bulunan Barnum'un yanına gidin."
+    },
+    {
+      "id": "a72e7fab",
+      "bank_id": "60b8b600",
+      "text": "Rookridge'deki eski hana gidin."
+    },
+    {
+      "id": "a82e811e",
+      "bank_id": "60b8b600",
+      "text": "Rookridge hanındaki haydutları alt edin."
+    },
+    {
+      "id": "a92e82f1",
+      "bank_id": "60b8b600",
+      "text": "Haydut Dash'i bulup öldürün."
+    },
+    {
+      "id": "aa2e8464",
+      "bank_id": "60b8b600",
+      "text": "Barnum'a dönün."
+    },
+    {
+      "id": "b67b4110",
+      "bank_id": "60b8b600",
+      "text": "Bu yürüyen cesetler de bir şey mi? Sen bir de 46... şey yani 25 yıl boyunca benim nineyle uğraşmayı dene."
+    },
+    {
+      "id": "b6aee903",
+      "bank_id": "60b8b600",
+      "text": "Çıtır civcivleri bulmak için daha sabırlı bir yöntem seçmişsin bakıyorum: Birilerinin çıkıp cebine atlamasını beklemek."
+    },
+    {
+      "id": "b77b4283",
+      "bank_id": "60b8b600",
+      "text": "Ah, insanın doğum gününü geçirmesi için bundan daha güzel bir yol olabilir mi?"
+    },
+    {
+      "id": "b7aeeaf6",
+      "bank_id": "60b8b600",
+      "text": "Biz civcivlerimizi Oakfield'deki o saf çiftçilerden alıyoruz."
+    },
+    {
+      "id": "b87b4476",
+      "bank_id": "60b8b600",
+      "text": "Hımm... Ninem beni pikniğe götürünce bayılıyorum."
+    },
+    {
+      "id": "b8aeec69",
+      "bank_id": "60b8b600",
+      "text": "Oakfield'deki çiftçilerin satacak bir sürü sevimli, pofuduk civcivleri olduğuna eminim."
+    },
+    {
+      "id": "bc4ac319",
+      "bank_id": "60b8b600",
+      "text": "GÜÜM!"
+    },
+    {
+      "id": "bd11c669",
+      "bank_id": "60b8b600",
+      "text": "Ah Charlie, Charlie, nereye kayboldun? Doğum günün için seni buraya asla getirmemeliydim."
+    },
+    {
+      "id": "bdaa4606",
+      "bank_id": "60b8b600",
+      "text": "Gölgeler Tapınağı"
+    },
+    {
+      "id": "c96a5fa3",
+      "bank_id": "60b8b600",
+      "text": "Miggins Nine, torunu Charlie için meraktan deliye dönmüş durumda."
+    },
+    {
+      "id": "cc3e37d8",
+      "bank_id": "60b8b600",
+      "text": "Gölge müridinin önünde beş çıtır civciv yiyin."
+    },
+    {
+      "id": "cf3e3c91",
+      "bank_id": "60b8b600",
+      "text": "Gölgeler Tapınağı'nın başındaki kişiyle konuşun."
+    },
+    {
+      "id": "d0c35103",
+      "bank_id": "60b8b600",
+      "text": "(güler) Yok, yeterince kötü olmadı bu. (boğazını temizler, güler) Daha iyi..."
+    },
+    {
+      "id": "d1c352f6",
+      "bank_id": "60b8b600",
+      "text": "(güler) Yok... hâlâ yeterince korkunç değil. (iç çeker)"
+    },
+    {
+      "id": "d26868f8",
+      "bank_id": "60b8b600",
+      "text": "Ama... senin... beş tane... çıtır civciv... yemen gerekecek."
+    },
+    {
+      "id": "d4686bde",
+      "bank_id": "60b8b600",
+      "text": "Tapınak, tüm aday üyelerin tüyler ürpertici, feci bir kötülük yapmasında ısrarcıdır."
+    },
+    {
+      "id": "d5686db1",
+      "bank_id": "60b8b600",
+      "text": "Tabii ben katıldığım zamanlar sadece kötürüm dilencilerin koltuk değneklerine çelme takmaktan ibaretti bu."
+    },
+    {
+      "id": "d7687097",
+      "bank_id": "60b8b600",
+      "text": "Giriş şartları oldukça basittir."
+    },
+    {
+      "id": "dcb75aa3",
+      "bank_id": "60b8b600",
+      "text": "Gel de al bakalım! Seni kokuşmuş pislik rezil seni! Hah şöyle!"
+    },
+    {
+      "id": "e0a1c5e0",
+      "bank_id": "60b8b600",
+      "text": "Selam kadim dostum, bir el atar mısın?"
+    },
+    {
+      "id": "e0a8ff18",
+      "bank_id": "60b8b600",
+      "text": "Hiç kimse ulu Gölge'den kaçamaz! Broşürümüzde öyle yazıyor!"
+    },
+    {
+      "id": "e2a1c8c6",
+      "bank_id": "60b8b600",
+      "text": "Yük olmak istemem ama şurada biraz yardıma hiç fena olmazdı doğrusu."
+    },
+    {
+      "id": "e3a1cab9",
+      "bank_id": "60b8b600",
+      "text": "Baksana, şu kof herif gözünü bana dikmiş bakıyor. Şunun icabına baksan olmaz mı?"
+    },
+    {
+      "id": "e3b765a8",
+      "bank_id": "60b8b600",
+      "text": "Yaaaah!"
+    },
+    {
+      "id": "e5b7688e",
+      "bank_id": "60b8b600",
+      "text": "Yaaaah!"
+    },
+    {
+      "id": "e5ffd312",
+      "bank_id": "60b8b600",
+      "text": "Feleğin Çarkı kurban edilecek kişiler olmadan dönmez."
+    },
+    {
+      "id": "e6b76a61",
+      "bank_id": "60b8b600",
+      "text": "Yaaaah!"
+    },
+    {
+      "id": "e7b76bd4",
+      "bank_id": "60b8b600",
+      "text": "Yaaaah! Seni pislik!"
+    },
+    {
+      "id": "e8b76d47",
+      "bank_id": "60b8b600",
+      "text": "Yaaaah!"
+    },
+    {
+      "id": "e9b76f3a",
+      "bank_id": "60b8b600",
+      "text": "Seni bir pataklayayım da gör! Uff!"
+    },
+    {
+      "id": "eab770ad",
+      "bank_id": "60b8b600",
+      "text": "Al bakalım! Bunu da al! Haydi hücum!"
+    },
+    {
+      "id": "ec0749b6",
+      "bank_id": "60b8b600",
+      "text": "Rookridge'deki haydutlarla savaşacak mısınız?"
+    },
+    {
+      "id": "f38cf7c6",
+      "bank_id": "60b8b600",
+      "text": "Affedersiniz hanımefendi. Gölgeler Tapınağı'na katılmak ilginizi çeker miydi?"
+    },
+    {
+      "id": "f38cf7cd",
+      "bank_id": "60b8b600",
+      "text": "Affedersiniz beyefendi. Gölgeler Tapınağı'na katılmak ilginizi çeker miydi?"
+    },
+    {
+      "id": "f69df9e5",
+      "bank_id": "60b8b600",
+      "text": "Ah, Charlie. Sadece yeniden yanımda olmanı istiyorum."
+    },
+    {
+      "id": "fc1f7f1f",
+      "bank_id": "60b8b600",
+      "text": "(hiç inandırıcı olmayan bir kötü kahkaha) Hay aksi..."
+    },
+    {
+      "id": "fd1f80f2",
+      "bank_id": "60b8b600",
+      "text": "(inandırıcı olmayan kötü bir kahkaha) Ah, yok, yok, olmadı."
+    },
+    {
+      "id": "fe1f8265",
+      "bank_id": "60b8b600",
+      "text": "(birazcık inandırıcı bir kötü kahkaha) Hay aksi..."
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+{
+  "bank_id": "10ae3602",
+  "total_strings": 133,
+  "strings": [
+    {
+      "id": "0570363e",
+      "bank_id": "10ae3602",
+      "text": "Yatağımın altında yaşayan bir hobbe var, biliyor musun?"
+    },
+    {
+      "id": "0e70440b",
+      "bank_id": "10ae3602",
+      "text": "Yatak odamda yaşayan bir balverine olduğunu biliyor muydun?"
+    },
+    {
+      "id": "122d2942",
+      "bank_id": "10ae3602",
+      "text": "Bahse girerim hiç matematik kullanmak zorunda kalmıyorsundur, değil mi?"
+    },
+    {
+      "id": "1b2d37af",
+      "bank_id": "10ae3602",
+      "text": "Fairfax Kalesi'nin hangi yılda inşa edildiğini bilmediğine bahse girerim."
+    },
+    {
+      "id": "1bb286e1",
+      "bank_id": "10ae3602",
+      "text": "Bahse girerim kimse sana haftada bir banyo yaptırmıyordur, değil mi?"
+    },
+    {
+      "id": "23888f20",
+      "bank_id": "10ae3602",
+      "text": "Sürekli dayak yediğini duyuyorum. Bu şekilde hiçbir şey öğrenemezsin."
+    },
+    {
+      "id": "23888f21",
+      "bank_id": "10ae3602",
+      "text": "Dövüşlerinde ayakta kalmayı başarırsan belki bir şeyler öğrenebilirsin."
+    },
+    {
+      "id": "23888f24",
+      "bank_id": "10ae3602",
+      "text": "Daha iyi olmak istiyorsan dövüşlerine dikkatini vermelisin."
+    },
+    {
+      "id": "23888f26",
+      "bank_id": "10ae3602",
+      "text": "Savaşlarından hiç mi bir şey öğrenmedin?"
+    },
+    {
+      "id": "23888f27",
+      "bank_id": "10ae3602",
+      "text": "O son dayaktan sonra hâlâ yürüyebilmene şaşırdım doğrusu."
+    },
+    {
+      "id": "26b29810",
+      "bank_id": "10ae3602",
+      "text": "Çok uzun zaman önce Oakvale adında bir kasaba olduğunu biliyor muydun?"
+    },
+    {
+      "id": "288896c0",
+      "bank_id": "10ae3602",
+      "text": "Yine mi kıçına tekmeyi yedin? Hiç akıllanmayacaksın."
+    },
+    {
+      "id": "288896c1",
+      "bank_id": "10ae3602",
+      "text": "Görünüşe göre dövüşlerinden öğrendiğin tek şey yere nasıl kapaklanılacağı."
+    },
+    {
+      "id": "288896c2",
+      "bank_id": "10ae3602",
+      "text": "Küçük savaşlarında pek başarılı olamıyor olmalısın. Gittikçe daha da kötüleştiğini söylüyorlar."
+    },
+    {
+      "id": "288896c5",
+      "bank_id": "10ae3602",
+      "text": "Bir posta daha mı dayak yedin? Karşılık vermezsen asla öğrenemezsin."
+    },
+    {
+      "id": "288896c6",
+      "bank_id": "10ae3602",
+      "text": "Sürekli dayak yersen dövüş konusunda asla gelişemezsin."
+    },
+    {
+      "id": "288896c7",
+      "bank_id": "10ae3602",
+      "text": "Sürekli yere serilirsen dövüşlerinden ders çıkaramazsın, bilesin."
+    },
+    {
+      "id": "2eac0f62",
+      "bank_id": "10ae3602",
+      "text": "Westcliff'te yaşadığımı bilseler ailem utancından kahrolurdu. Tabii onların zamanında burası çok farklı bir yerdi."
+    },
+    {
+      "id": "2eac0f63",
+      "bank_id": "10ae3602",
+      "text": "Ah, inan bana, Westcliff her zaman böyle kucak açan bir yer değildi. Barnum burada harika bir iş başardı."
+    },
+    {
+      "id": "2eac0f64",
+      "bank_id": "10ae3602",
+      "text": "Burası artık bayağı nezih bir yer oldu."
+    },
+    {
+      "id": "2eac0f67",
+      "bank_id": "10ae3602",
+      "text": "Eskiden bu kasabanın tam bir lağım çukuru olduğunu duydum. Sadece en ayak takımı insanlar varmış. İşler nasıl da değişiyor."
+    },
+    {
+      "id": "33ac1702",
+      "bank_id": "10ae3602",
+      "text": "Ah, bu harika kasabayı temizlediklerine öyle sevindim ki. Bizim gibilerin yere ihtiyacı vardı."
+    },
+    {
+      "id": "33ac1703",
+      "bank_id": "10ae3602",
+      "text": "Bütün serserileri Westcliff'ten kovduklarından beri burası dünyadaki en sevdiğim yerlerden biri oldu."
+    },
+    {
+      "id": "33ac1706",
+      "bank_id": "10ae3602",
+      "text": "Buranın eskiden nasıl göründüğünü hatırlıyor musun? Kendini iyi toparladı doğrusu."
+    },
+    {
+      "id": "356af048",
+      "bank_id": "10ae3602",
+      "text": "Ha, bir kavgayı kaybedip sonra da altınlarını kaptırdığın doğru mu?"
+    },
+    {
+      "id": "356af049",
+      "bank_id": "10ae3602",
+      "text": "Maceraya çıktığında altın kazanman gerekir. Kaybetmen değil."
+    },
+    {
+      "id": "356af04a",
+      "bank_id": "10ae3602",
+      "text": "İnsan yere bayılıp serilse bile altınından asla vazgeçmemeli."
+    },
+    {
+      "id": "356af04d",
+      "bank_id": "10ae3602",
+      "text": "Demek dövüşlerinde sürekli paranı kaybediyorsun ha?"
+    },
+    {
+      "id": "356af04e",
+      "bank_id": "10ae3602",
+      "text": "Dayak yiyip soyuldun demek ha?"
+    },
+    {
+      "id": "356af04f",
+      "bank_id": "10ae3602",
+      "text": "Savaş meydanında sürekli altınlarını aldıkları doğru mu?"
+    },
+    {
+      "id": "406b01f8",
+      "bank_id": "10ae3602",
+      "text": "Bir kavgadan kurtulmak için para ödemek zorunda kaldığın doğru mu?"
+    },
+    {
+      "id": "406b01f9",
+      "bank_id": "10ae3602",
+      "text": "Dövüşte altınlarını kaybettikten sonra fazla bir şey alacak paran kalmamıştır herhalde."
+    },
+    {
+      "id": "406b01fa",
+      "bank_id": "10ae3602",
+      "text": "Düşman karşılaşmalarında altınlarına sahip çıkmazsan asla benim kadar zengin olamazsın."
+    },
+    {
+      "id": "406b01fc",
+      "bank_id": "10ae3602",
+      "text": "Düşmanlarını püskürtmezsen çulsuz kalman yakındır."
+    },
+    {
+      "id": "406b01fe",
+      "bank_id": "10ae3602",
+      "text": "Altınlarını korumanın tek yolu dövüşlerini kazanmaktır."
+    },
+    {
+      "id": "406b01ff",
+      "bank_id": "10ae3602",
+      "text": "Savaşlarından birinin ardından epey bir altın kaybettiğini duydum."
+    },
+    {
+      "id": "466a5548",
+      "bank_id": "10ae3602",
+      "text": "Westcliff'i özlüyorum. Bizi evlerimizden kovduklarına hâlâ inanamıyorum."
+    },
+    {
+      "id": "466a5549",
+      "bank_id": "10ae3602",
+      "text": "Bugünlerde Westcliff'te ölsem durmam. Hiçbir ruhu kalmamış."
+    },
+    {
+      "id": "466a554a",
+      "bank_id": "10ae3602",
+      "text": "Westcliff'teki Çile'yi ziyaret etmeyi çok arzuluyorum. Pek nefis bir eğlence."
+    },
+    {
+      "id": "466a554b",
+      "bank_id": "10ae3602",
+      "text": "Son zamanlarda Westcliff'i ziyaret etmediğinizi mi söylemek istiyorsunuz? Sizi temin ederim ki çok değişmiş bir yer."
+    },
+    {
+      "id": "466a554d",
+      "bank_id": "10ae3602",
+      "text": "Son zamanlarda Westcliff'e gittin mi? Artık öyle kucak açan bir yer ki."
+    },
+    {
+      "id": "466a554e",
+      "bank_id": "10ae3602",
+      "text": "Yakında Westcliff'e bir gezi yapacağım galiba. Bugünlerde çok hoş bir kasaba oldu."
+    },
+    {
+      "id": "466a554f",
+      "bank_id": "10ae3602",
+      "text": "Belki de Westcliff'e tatile giderim. Orası öyle dinlendirici ki."
+    },
+    {
+      "id": "516a66f8",
+      "bank_id": "10ae3602",
+      "text": "Bir gün Westcliff'i o züppelerden geri alacağız. Görürsün bak."
+    },
+    {
+      "id": "516a66f9",
+      "bank_id": "10ae3602",
+      "text": "Westcliff hakkında özlediğim tek şey Çile. Artık benim gibileri içeri sokmuyorlar."
+    },
+    {
+      "id": "516a66fa",
+      "bank_id": "10ae3602",
+      "text": "Westcliff'e yapacağım bir sonraki ziyareti iple çekiyorum. Eski rezilliğinden bu yana öyle çarpıcı bir değişim geçirdi ki."
+    },
+    {
+      "id": "516a66fb",
+      "bank_id": "10ae3602",
+      "text": "Yoldaşlarımla Westcliff'teki Çile'ye bir gezi planlıyoruz. Sıkı müdavimleriyizdir."
+    },
+    {
+      "id": "516a66fc",
+      "bank_id": "10ae3602",
+      "text": "Westcliff gezisi için para biriktirmeye çalışıyorum. Orası artık öyle lüks ki."
+    },
+    {
+      "id": "516a66fe",
+      "bank_id": "10ae3602",
+      "text": "Geçen hafta Westcliff'teydim. Aynı yer olduğuna inanamıyorum."
+    },
+    {
+      "id": "516a66ff",
+      "bank_id": "10ae3602",
+      "text": "Son zamanlarda Westcliff'i ziyaret ettin mi? Eskiden olduğu o derme çatma kulübeler yığınıyla uzaktan yakından alakası yok."
+    },
+    {
+      "id": "5d1fc822",
+      "bank_id": "10ae3602",
+      "text": "Lady Grey adında bir kadın hakkında bir şeyler okuyordum. Pek hoş biri değilmiş."
+    },
+    {
+      "id": "630f14e1",
+      "bank_id": "10ae3602",
+      "text": "Onun hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "64bf3e1d",
+      "bank_id": "10ae3602",
+      "text": "Neden bazı insanlar Işığa tapar ki? Bana çok saçma geliyor."
+    },
+    {
+      "id": "661fd60f",
+      "bank_id": "10ae3602",
+      "text": "Sakal bırakmaya çalışıyorum ama bir türlü çıkmıyor."
+    },
+    {
+      "id": "6fbf4f4c",
+      "bank_id": "10ae3602",
+      "text": "Ağzıma aynı anda kırk dört tane şeker sığdırabiliyorum."
+    },
+    {
+      "id": "7c2c185e",
+      "bank_id": "10ae3602",
+      "text": "Jack of Blades'in yalan söyleyen küçük çocukları yediği doğru mu?"
+    },
+    {
+      "id": "852c26ab",
+      "bank_id": "10ae3602",
+      "text": "İyi biri olmak çok sıkıcı."
+    },
+    {
+      "id": "868c1fb8",
+      "bank_id": "10ae3602",
+      "text": "İnsan sıradan düşmanların elinde hırpalanarak ünlü olmayı umamaz."
+    },
+    {
+      "id": "868c1fb9",
+      "bank_id": "10ae3602",
+      "text": "Düşmanlarınla baş etmekte bu kadar zorlanırken nasıl ün kazanmayı umabilirsin?"
+    },
+    {
+      "id": "868c1fba",
+      "bank_id": "10ae3602",
+      "text": "Böyle dövüşerek ünlü falan olamazsın sen."
+    },
+    {
+      "id": "868c1fbb",
+      "bank_id": "10ae3602",
+      "text": "Kafana yumrukları yedikten sonra buralarda biraz saygınlık kaybettin."
+    },
+    {
+      "id": "868c1fbc",
+      "bank_id": "10ae3602",
+      "text": "Eskisi kadar etkileyici görünmüyorsun sanki."
+    },
+    {
+      "id": "868c1fbd",
+      "bank_id": "10ae3602",
+      "text": "Sen eskiden çok daha ünlü değil miydin? Yani bunca dövüşü kaybetmeden önce."
+    },
+    {
+      "id": "868c1fbe",
+      "bank_id": "10ae3602",
+      "text": "Eskiden harika biri olduğunu düşünürdüm ama nasıl dayak yediğini duydum."
+    },
+    {
+      "id": "8f8c2d88",
+      "bank_id": "10ae3602",
+      "text": "Bunca dayaktan sonra bütün inandırıcılığını kaybediyorsun."
+    },
+    {
+      "id": "8f8c2d89",
+      "bank_id": "10ae3602",
+      "text": "Başarısızlıklarının haberi etrafa yayıldığında düşmanlarını korkudan tir tir titretmen pek mümkün olmayacak."
+    },
+    {
+      "id": "8f8c2d8b",
+      "bank_id": "10ae3602",
+      "text": "Her yere serildiğinde biraz saygınlık kaybediyorsun, bilesin."
+    },
+    {
+      "id": "8f8c2d8c",
+      "bank_id": "10ae3602",
+      "text": "Savaşlardaki zorluklarının haberi yayılıp duruyor. Hiç etkileyici değil."
+    },
+    {
+      "id": "8f8c2d8d",
+      "bank_id": "10ae3602",
+      "text": "Gerçekten ünlü maceracılar düşmanlarına asla boyun eğmez."
+    },
+    {
+      "id": "8f8c2d8e",
+      "bank_id": "10ae3602",
+      "text": "Yediğin o dayağın haberini aldık hepimiz. Artık o kadar havalı görünmüyorsun, değil mi?"
+    },
+    {
+      "id": "8f8c2d8f",
+      "bank_id": "10ae3602",
+      "text": "Ha, burada herkese ne kadar harika olduğunu kanıtlamaya çalışıyorsun ama yakın zamanda nasıl bir tekme tokat dayak yediğini hepimiz biliyoruz."
+    },
+    {
+      "id": "ae828f50",
+      "bank_id": "10ae3602",
+      "text": "Aman Tanrım, o korkunç yara izlerini dövüşürken mi aldın?"
+    },
+    {
+      "id": "ae828f52",
+      "bank_id": "10ae3602",
+      "text": "Dövüş konusunda pek iyi bir iş çıkarmıyorsun galiba, ha? Bütün şu yara izlerine baksana bir."
+    },
+    {
+      "id": "ae828f53",
+      "bank_id": "10ae3602",
+      "text": "O yara izleri bir hikâye anlatıyor. Ve sen o hikâyeden pek kârlı çıkmışa benzemiyorsun."
+    },
+    {
+      "id": "ae828f54",
+      "bank_id": "10ae3602",
+      "text": "Şu yara izlerine bak! Dayak yemekle epey uzun zaman geçirmiş olmalısın."
+    },
+    {
+      "id": "ae828f55",
+      "bank_id": "10ae3602",
+      "text": "Düşmanlarınla başın dertte mi? Yara izlerinden anlayabiliyorum."
+    },
+    {
+      "id": "ae828f57",
+      "bank_id": "10ae3602",
+      "text": "Yara izlerinden birkaç kaza atlattığını anlayabiliyorum."
+    },
+    {
+      "id": "ae846051",
+      "bank_id": "10ae3602",
+      "text": "Son havadisler neler?"
+    },
+    {
+      "id": "ae846052",
+      "bank_id": "10ae3602",
+      "text": "Son zamanlarda ilginç bir haber duydun mu?"
+    },
+    {
+      "id": "ae846053",
+      "bank_id": "10ae3602",
+      "text": "Eee, dünyada neler olup bitiyor?"
+    },
+    {
+      "id": "ae846054",
+      "bank_id": "10ae3602",
+      "text": "Hiç sıcak dedikodu var mı?"
+    },
+    {
+      "id": "ae846055",
+      "bank_id": "10ae3602",
+      "text": "Dünyada bir şeyler oluyor mu?"
+    },
+    {
+      "id": "ae846056",
+      "bank_id": "10ae3602",
+      "text": "Son zamanlarda dikkate değer bir olay oldu mu dünyada?"
+    },
+    {
+      "id": "ae846057",
+      "bank_id": "10ae3602",
+      "text": "Son zamanlarda kulağına hangi havadisler geldi?"
+    },
+    {
+      "id": "b51e9a88",
+      "bank_id": "10ae3602",
+      "text": "İki düzine elman varsa ve ben yedi elmayı alırsam, kaç tane turta yapabilirsin?"
+    },
+    {
+      "id": "b5829a58",
+      "bank_id": "10ae3602",
+      "text": "Böyle yara izlerin olduğuna göre savaşlarında pek başarılı olamıyor olmalısın."
+    },
+    {
+      "id": "b5829a59",
+      "bank_id": "10ae3602",
+      "text": "Pöh, böyle yara izleri olan ne biçim bir maceracıdır? Pek iyi biri olmadığı kesin."
+    },
+    {
+      "id": "b5829a5a",
+      "bank_id": "10ae3602",
+      "text": "Bütün o yara izlerine bakılırsa büyük bir maceracı olamazsın."
+    },
+    {
+      "id": "b5829a5c",
+      "bank_id": "10ae3602",
+      "text": "Böyle yara izleri aldığına göre epey beceriksiz bir dövüşçü olmalısın."
+    },
+    {
+      "id": "b5829a5e",
+      "bank_id": "10ae3602",
+      "text": "Dövüşlerinde işler pek iyi gitmiyor galiba, ha? Şu yara izlerine baksana!"
+    },
+    {
+      "id": "b5829a5f",
+      "bank_id": "10ae3602",
+      "text": "Ha! Görünüşe göre düşmanların seni fena halde yara bere içinde bırakmış."
+    },
+    {
+      "id": "b9847180",
+      "bank_id": "10ae3602",
+      "text": "Yeni bir şeyler var mı?"
+    },
+    {
+      "id": "b9847182",
+      "bank_id": "10ae3602",
+      "text": "Hiç iyi dedikodu duydun mu?"
+    },
+    {
+      "id": "b9847183",
+      "bank_id": "10ae3602",
+      "text": "Dünyada ilginç bir şeyler dönüyor mu?"
+    },
+    {
+      "id": "b9847184",
+      "bank_id": "10ae3602",
+      "text": "Son zamanlarda pek bir şey oldu mu?"
+    },
+    {
+      "id": "b9847185",
+      "bank_id": "10ae3602",
+      "text": "Neler oluyor?"
+    },
+    {
+      "id": "b9847186",
+      "bank_id": "10ae3602",
+      "text": "Paylaşacak ilginç bir haberin var mı?"
+    },
+    {
+      "id": "b9847187",
+      "bank_id": "10ae3602",
+      "text": "Son zamanlarda kulağına bir haber çalındı mı acaba?"
+    },
+    {
+      "id": "ba1ea2a9",
+      "bank_id": "10ae3602",
+      "text": "Gelecek hafta çay partime gelmek ister misin?"
+    },
+    {
+      "id": "baad2b74",
+      "bank_id": "10ae3602",
+      "text": "Onun hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "baad2b7f",
+      "bank_id": "10ae3602",
+      "text": "Onun hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "babe0d9d",
+      "bank_id": "10ae3602",
+      "text": "Büyüyünce muhafız olacağım ben. Kolay görünüyor."
+    },
+    {
+      "id": "c5be1ecc",
+      "bank_id": "10ae3602",
+      "text": "Nefesimi otuz saniye tutarsam komik şeyler görebiliyorum."
+    },
+    {
+      "id": "cfe0c2f2",
+      "bank_id": "10ae3602",
+      "text": "Işık Tapınağı'nda keşişlerin olduğu zamanları hatırlıyor musun? Başlarına gelenler öyle korkunç ki."
+    },
+    {
+      "id": "cfe0c2f3",
+      "bank_id": "10ae3602",
+      "text": "Işık Tapınağı keşişlerine yardım etmek için kimse kılını bile kıpırdatmadı, şimdi oranın haline bir bak."
+    },
+    {
+      "id": "cfe0c2f4",
+      "bank_id": "10ae3602",
+      "text": "Oakfield'deki o Tapınağa ne olduğunu duydun mu? Gölge müritleri herkesi katletmiş."
+    },
+    {
+      "id": "cfe0c2f5",
+      "bank_id": "10ae3602",
+      "text": "Beni ne güldürüyor biliyor musun? Oakfield'deki o sersem keşişleri düşünmek. Sonunda ışığı gördüler ama. Ha!"
+    },
+    {
+      "id": "cfe0c2f6",
+      "bank_id": "10ae3602",
+      "text": "Altın Meşe bile Işık Tapınağı'nı kurtaramadı."
+    },
+    {
+      "id": "cfe0c2f7",
+      "bank_id": "10ae3602",
+      "text": "Işığa inanan biri değildim ama Gölgeler Tapınağı'nın Oakfield'i yağmalaması çok korkunçtu."
+    },
+    {
+      "id": "d1ca7f30",
+      "bank_id": "10ae3602",
+      "text": "Şu maceracı hakkında bir fikir edindin mi?"
+    },
+    {
+      "id": "d1ca7f31",
+      "bank_id": "10ae3602",
+      "text": "Şu maceracı hakkında ne düşünüyorsun merak ediyorum."
+    },
+    {
+      "id": "d1ca7f33",
+      "bank_id": "10ae3602",
+      "text": "Şunun hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "d1ca7f34",
+      "bank_id": "10ae3602",
+      "text": "Eee, şunun hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "d1ca7f35",
+      "bank_id": "10ae3602",
+      "text": "Şuradaki hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "d1ca7f37",
+      "bank_id": "10ae3602",
+      "text": "Şunun hakkındaki fikrin nedir?"
+    },
+    {
+      "id": "d8ca8a39",
+      "bank_id": "10ae3602",
+      "text": "Eee, şunun hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "d8ca8a3a",
+      "bank_id": "10ae3602",
+      "text": "Şuradaki hakkında bir fikrin var mı?"
+    },
+    {
+      "id": "e99c2e80",
+      "bank_id": "10ae3602",
+      "text": "Şu köpek hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "e99c2e81",
+      "bank_id": "10ae3602",
+      "text": "Şu köpek hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "e99c2e82",
+      "bank_id": "10ae3602",
+      "text": "Şu köpek hakkında bir kanaate vardın mı?"
+    },
+    {
+      "id": "e99c2e83",
+      "bank_id": "10ae3602",
+      "text": "Lütfen söyler misiniz, şu köpek hakkındaki fikriniz nedir?"
+    },
+    {
+      "id": "e99c2e84",
+      "bank_id": "10ae3602",
+      "text": "Eee, şu köpeği sevdin mi?"
+    },
+    {
+      "id": "e99c2e86",
+      "bank_id": "10ae3602",
+      "text": "Köpek hakkında ne düşünüyorsun peki?"
+    },
+    {
+      "id": "e99c2e87",
+      "bank_id": "10ae3602",
+      "text": "Şu köpek hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "ee9c36a0",
+      "bank_id": "10ae3602",
+      "text": "Şu it hakkında ne düşünüyorsun peki?"
+    },
+    {
+      "id": "ee9c36a1",
+      "bank_id": "10ae3602",
+      "text": "Şu köpek hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "ee9c36a2",
+      "bank_id": "10ae3602",
+      "text": "Şu hayvan hakkında kesin bir fikrin var mı?"
+    },
+    {
+      "id": "ee9c36a3",
+      "bank_id": "10ae3602",
+      "text": "Şu hayvan hakkında bir fikrin var mı?"
+    },
+    {
+      "id": "ee9c36a5",
+      "bank_id": "10ae3602",
+      "text": "Şu köpek hakkında ne düşünüyorsun peki?"
+    },
+    {
+      "id": "ee9c36a6",
+      "bank_id": "10ae3602",
+      "text": "Şu köpek hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "ee9c36a7",
+      "bank_id": "10ae3602",
+      "text": "Köpek hakkında ne diyorsun?"
+    },
+    {
+      "id": "f3930267",
+      "bank_id": "10ae3602",
+      "text": "Büyüyünce prenses olmak istiyorum. Ve bir kahraman."
+    },
+    {
+      "id": "fa930d6a",
+      "bank_id": "10ae3602",
+      "text": "Büyüyünce sandık taşıyıcısı olacağım! Yaşasın!"
+    }
+  ]
+}

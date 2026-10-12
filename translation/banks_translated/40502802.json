@@ -1,0 +1,616 @@
+{
+  "bank_id": "40502802",
+  "total_strings": 122,
+  "strings": [
+    {
+      "id": "10fd40c8",
+      "bank_id": "40502802",
+      "text": "Burada benim gibi bir müşteriye layık bir mücevher olmalı."
+    },
+    {
+      "id": "10fd40c9",
+      "bank_id": "40502802",
+      "text": "Gereksiz yere en pahalı hediyeniz hangisi?"
+    },
+    {
+      "id": "10fd40ca",
+      "bank_id": "40502802",
+      "text": "Bir hediye almam gerek ama altınım biraz kısıtlı. Ne var elinde?"
+    },
+    {
+      "id": "10fd40cb",
+      "bank_id": "40502802",
+      "text": "Hoş, genç bir hanımefendiye hediye almam gerek. Çok pahalı bir şey olmasın ama."
+    },
+    {
+      "id": "10fd40cc",
+      "bank_id": "40502802",
+      "text": "Birine kahkaha hediye etmek istiyorum. Hangi boylarda satıyorsunuz?"
+    },
+    {
+      "id": "10fd40cd",
+      "bank_id": "40502802",
+      "text": "Dünyanın en güzel, en zeki kadınına bir hediye bakıyorum. Ucuz çikolatanız var mı?"
+    },
+    {
+      "id": "10fd40ce",
+      "bank_id": "40502802",
+      "text": "Kardeşime bir hediye almam gerek. Geçen yıl bana bir çakıl taşı almıştı, bir toz yumağı falan var mı?"
+    },
+    {
+      "id": "16b1f070",
+      "bank_id": "40502802",
+      "text": "Şey, acaba *öhö* elinizde... şey, ebedi erkeklik iksiri var mı?"
+    },
+    {
+      "id": "16b1f071",
+      "bank_id": "40502802",
+      "text": "İksirlerinizden herhangi biri şey... gerçeklik algısını değiştiriyor mu?"
+    },
+    {
+      "id": "16b1f073",
+      "bank_id": "40502802",
+      "text": "İnsanı uzun boylu yapan iksiriniz var mı? Ve esmer. Ve yakışıklı."
+    },
+    {
+      "id": "16b1f074",
+      "bank_id": "40502802",
+      "text": "İksirlerinizin herhangi biri kayıp gençlik çeşmelerinin suyuyla mı yapıldı?"
+    },
+    {
+      "id": "16b1f075",
+      "bank_id": "40502802",
+      "text": "Bugünlerde çok bitkinim, canlandırıcı iksirlerinize bakabilir miyim?"
+    },
+    {
+      "id": "16b1f076",
+      "bank_id": "40502802",
+      "text": "Bu iksirlerden biri devrilmeden kırk iki kadeh içmeyi sağlar mı?"
+    },
+    {
+      "id": "16b1f077",
+      "bank_id": "40502802",
+      "text": "Şu lanet burun kanamalarını durduracak bir iksire ihtiyacım var."
+    },
+    {
+      "id": "19fd4f18",
+      "bank_id": "40502802",
+      "text": "Bir hortlak korsan lejyonuna ne hediye önerirsiniz? Yani rüyalarınıza giren türden."
+    },
+    {
+      "id": "19fd4f19",
+      "bank_id": "40502802",
+      "text": "Görümcem gerçekten çok müşkülpesenttir, bu yüzden ona asla kusur bulamayacağı bir doğum günü hediyesi almalıyım."
+    },
+    {
+      "id": "19fd4f1b",
+      "bank_id": "40502802",
+      "text": "Bir kutu çikolata bir düğün için yeterli bir hediye midir sence?"
+    },
+    {
+      "id": "19fd4f1c",
+      "bank_id": "40502802",
+      "text": "Stokta ne tür elmaslar var?"
+    },
+    {
+      "id": "19fd4f1d",
+      "bank_id": "40502802",
+      "text": "Mücevher çeşitlerinizi görebilir miyim?"
+    },
+    {
+      "id": "19fd4f1e",
+      "bank_id": "40502802",
+      "text": "Aptal kız kardeşim evleniyor. Çok pahalı olmayan bir hediyen var mı?"
+    },
+    {
+      "id": "19fd4f1f",
+      "bank_id": "40502802",
+      "text": "\"Senden nefret etmiyorum ama aklına bir şey gelmesin\" diyen bir hediyeniz var mı?"
+    },
+    {
+      "id": "1db1fb70",
+      "bank_id": "40502802",
+      "text": "Acil durumlar için yatağımın yanında her zaman bir sağlık iksiri bulundururum."
+    },
+    {
+      "id": "1db1fb71",
+      "bank_id": "40502802",
+      "text": "Eğer öyle bir şey varsa, zamanın tahribatını tersine çevirecek bir iksire ihtiyacım var."
+    },
+    {
+      "id": "1db1fb72",
+      "bank_id": "40502802",
+      "text": "Arka tarafta hiç özel iksiriniz var mı?"
+    },
+    {
+      "id": "1db1fb73",
+      "bank_id": "40502802",
+      "text": "Batık tırnaklar için bir iksiriniz var mı?"
+    },
+    {
+      "id": "1db1fb74",
+      "bank_id": "40502802",
+      "text": "İksirlerinizden herhangi biri utanç verici kaşıntıları geçirir mi? Şey için... Komşum için. Evet."
+    },
+    {
+      "id": "1db1fb75",
+      "bank_id": "40502802",
+      "text": "Arsenik kapsülü satıyor musunuz? Mümkünse tatsız olanlardan. Ya da olmazsa, yulaf lapası aromalı."
+    },
+    {
+      "id": "1db1fb76",
+      "bank_id": "40502802",
+      "text": "Beni görünmez kılacak bir iksire ihtiyacım var. Onlardan var, değil mi?"
+    },
+    {
+      "id": "24d776d0",
+      "bank_id": "40502802",
+      "text": "Şu kurutulmuş sığır etinden satıyor musunuz? İğrenç bir şey ve bayılıyorum."
+    },
+    {
+      "id": "24d776d1",
+      "bank_id": "40502802",
+      "text": "Baharatlı yiyecekleri severim. Onlardan var mı?"
+    },
+    {
+      "id": "24d776d2",
+      "bank_id": "40502802",
+      "text": "En kaliteli erzakınızı istiyorum!"
+    },
+    {
+      "id": "24d776d3",
+      "bank_id": "40502802",
+      "text": "En iyi erzakınızdan bir sepet, lütfen."
+    },
+    {
+      "id": "24d776d6",
+      "bank_id": "40502802",
+      "text": "Oruç tutmayı denedim. Pek sarmadı. O yüzden bana turta ve keklerle dolu bir çuval ver."
+    },
+    {
+      "id": "24d776d7",
+      "bank_id": "40502802",
+      "text": "En büyük turtanız hangisi? En büyük turtanızı istiyorum. Lanet olsun, bana en büyük turtanızı verin işte!"
+    },
+    {
+      "id": "3c7ff1d0",
+      "bank_id": "40502802",
+      "text": "Bir kalıp peynir rica edeyim, lütfen. Balverine sütü peyniri elbette."
+    },
+    {
+      "id": "3c7ff1d1",
+      "bank_id": "40502802",
+      "text": "Hangi tofularınız var?"
+    },
+    {
+      "id": "3c7ff1d3",
+      "bank_id": "40502802",
+      "text": "Canım fena halde yaban mersinli turta çekiyor."
+    },
+    {
+      "id": "3c7ff1d6",
+      "bank_id": "40502802",
+      "text": "Tuzlanmış et istiyorum. Uzun süre dayanan türden."
+    },
+    {
+      "id": "3c7ff1d7",
+      "bank_id": "40502802",
+      "text": "Burada çıtır civciv satmıyorsunuz, değil mi?"
+    },
+    {
+      "id": "3e546eea",
+      "bank_id": "40502802",
+      "text": "Bloodstone yapımı bir şey istiyorum."
+    },
+    {
+      "id": "3e546eeb",
+      "bank_id": "40502802",
+      "text": "Şu uzun şeyleri severim. Ucunda kıvrımlı zımbırtısı olanları. Bilirsin ya."
+    },
+    {
+      "id": "3e546eec",
+      "bank_id": "40502802",
+      "text": "Herkesin satın aldığı şu şeylerden satıyor musunuz?"
+    },
+    {
+      "id": "3e546eed",
+      "bank_id": "40502802",
+      "text": "Benim gibi genç bir delikanlıya ne önerirsiniz?"
+    },
+    {
+      "id": "3e546eee",
+      "bank_id": "40502802",
+      "text": "Ekstra özel bir şeyin peşindeyim."
+    },
+    {
+      "id": "437ffcd2",
+      "bank_id": "40502802",
+      "text": "Açım ama bana o tofu saçmalığından vermeyin."
+    },
+    {
+      "id": "437ffcd3",
+      "bank_id": "40502802",
+      "text": "Kuzenimin haydut kampına bir sepet götürüyorum. Sosisli börek var mı?"
+    },
+    {
+      "id": "437ffcd4",
+      "bank_id": "40502802",
+      "text": "Yağsız yaban mersinli turtanız var mı?"
+    },
+    {
+      "id": "437ffcd5",
+      "bank_id": "40502802",
+      "text": "Yeni icat ettikleri şu dilimlenmiş ekmekten var mı? Bütün somundan beri çıkan en iyi şey olduğunu duydum!"
+    },
+    {
+      "id": "437ffcd6",
+      "bank_id": "40502802",
+      "text": "Kurutulmuş sığır eti, tam da istediğim şey."
+    },
+    {
+      "id": "47547d38",
+      "bank_id": "40502802",
+      "text": "Uzun ömürlü bir şey istiyorum."
+    },
+    {
+      "id": "47547d39",
+      "bank_id": "40502802",
+      "text": "Ucuz ve çer çöp bir şey istemiyorum."
+    },
+    {
+      "id": "47547d3b",
+      "bank_id": "40502802",
+      "text": "Tam olarak ne aradığımdan emin değilim ama cebime sığacak kadar küçük bir şey."
+    },
+    {
+      "id": "47547d3e",
+      "bank_id": "40502802",
+      "text": "Yarısı çiğnenmiş bir düğmeyle ne alabilirim?"
+    },
+    {
+      "id": "47547d3f",
+      "bank_id": "40502802",
+      "text": "Bana bedavaya bir şey verebilir misin?"
+    },
+    {
+      "id": "7293bd60",
+      "bank_id": "40502802",
+      "text": "Duvarlarımdaki çatlakları kapatmak için birkaç tabloya ihtiyacım var."
+    },
+    {
+      "id": "7293bd61",
+      "bank_id": "40502802",
+      "text": "Çok sağlam bir yatağa ihtiyacım var."
+    },
+    {
+      "id": "7293bd64",
+      "bank_id": "40502802",
+      "text": "Kitaplarım yerlere saçılıyor. Kitaplıklarınıza bakabilir miyim?"
+    },
+    {
+      "id": "7293bd66",
+      "bank_id": "40502802",
+      "text": "Komodin olarak elinizde ne var?"
+    },
+    {
+      "id": "7293bd67",
+      "bank_id": "40502802",
+      "text": "Su yatağınız var mı? Tabii tamamen katı olmaları gerekir. Yani sanırım aslında buz yatak olurlar."
+    },
+    {
+      "id": "7793c500",
+      "bank_id": "40502802",
+      "text": "Ev için aydınlatmaya ihtiyacım var. Sürekli lanet duvarlara çarpıp duruyorum."
+    },
+    {
+      "id": "7793c501",
+      "bank_id": "40502802",
+      "text": "Duvara asabileceğim bir resim var mı? Çiçek veya meyve olmasın."
+    },
+    {
+      "id": "7793c505",
+      "bank_id": "40502802",
+      "text": "Güzel, sağlam bir masa arıyorum."
+    },
+    {
+      "id": "7793c506",
+      "bank_id": "40502802",
+      "text": "Sanırım evime birkaç resim asmanın vakti geldi. Eski Oakvale yangınını gösteren var mı?"
+    },
+    {
+      "id": "7793c507",
+      "bank_id": "40502802",
+      "text": "Başka dünyalara pencereler açacak, hayatımı renklerle neşelendirecek bir tablo istiyorum. Bir de duvardaki kirli lekeyi kapatacak."
+    },
+    {
+      "id": "a18edd98",
+      "bank_id": "40502802",
+      "text": "Sihirli ayna satıyor musunuz?"
+    },
+    {
+      "id": "a18edd99",
+      "bank_id": "40502802",
+      "text": "Aklınıza gelebilecek en pahalı şeyi istiyorum. Ve cömert bir indirimle istiyorum."
+    },
+    {
+      "id": "a18edd9a",
+      "bank_id": "40502802",
+      "text": "Kulak kiri temizleyiciniz var mı?"
+    },
+    {
+      "id": "a18edd9b",
+      "bank_id": "40502802",
+      "text": "Horlamayı kesen şu şeylerden var mı?"
+    },
+    {
+      "id": "a18edd9c",
+      "bank_id": "40502802",
+      "text": "İnsanların \"İşte dükkânlarda ne istediğini gerçekten sorabilen bir kadın\" demesini sağlayacak bir şey istiyorum."
+    },
+    {
+      "id": "a18edd9d",
+      "bank_id": "40502802",
+      "text": "Şu sihirli ruh hali algılayıcılarından satıyor musunuz? İnsanların nasıl hissettiğini göstermek için başlarının üstünde resimler çıkaranları?"
+    },
+    {
+      "id": "a18edd9e",
+      "bank_id": "40502802",
+      "text": "Hiç hobbe detektörünüz var mı?"
+    },
+    {
+      "id": "a90232c0",
+      "bank_id": "40502802",
+      "text": "Sorumluluklarımın ağırlığına dayanabilecek bir sandalyeniz var mı?"
+    },
+    {
+      "id": "a90232c1",
+      "bank_id": "40502802",
+      "text": "Şu katlanır sandalyelerden var mı?"
+    },
+    {
+      "id": "a90232c2",
+      "bank_id": "40502802",
+      "text": "Devasa bir yatak istiyorum. Yani gerçekten çok büyük. Şey, aslında tek kişilik yataktan büyük olsun yeter. Gerçi o da iş görürdü herhalde."
+    },
+    {
+      "id": "a90232c4",
+      "bank_id": "40502802",
+      "text": "Evimdeki mobilyalar bir yıldan eski. Hepsini değiştirmek istiyorum."
+    },
+    {
+      "id": "a90232c5",
+      "bank_id": "40502802",
+      "text": "Abanoz komodininiz var mı?"
+    },
+    {
+      "id": "a90232c6",
+      "bank_id": "40502802",
+      "text": "Gerçekten yeni bir sandalye almalıyım. Her oturduğumda yere düşmekten gına geldi."
+    },
+    {
+      "id": "a90232c7",
+      "bank_id": "40502802",
+      "text": "Demonte mobilyanız var mı?"
+    },
+    {
+      "id": "aa8eebe8",
+      "bank_id": "40502802",
+      "text": "Palyaço peleti var mı? Bilirsiniz, sümüklü böcek zehri gibi. Ama palyaçolar için."
+    },
+    {
+      "id": "aa8eebe9",
+      "bank_id": "40502802",
+      "text": "Üç fikir ve bir torba niyet alabilir miyim lütfen?"
+    },
+    {
+      "id": "aa8eebeb",
+      "bank_id": "40502802",
+      "text": "Kalaydan yapılma takma dişiniz var mı?"
+    },
+    {
+      "id": "b2024128",
+      "bank_id": "40502802",
+      "text": "Zayıf gösteren aynanız var mı?"
+    },
+    {
+      "id": "b2024129",
+      "bank_id": "40502802",
+      "text": "Som altından yapılma bir masanız yoktur, değil mi?"
+    },
+    {
+      "id": "b202412a",
+      "bank_id": "40502802",
+      "text": "Duvarlara toslamaktan bıktım. Gaz lambalarınıza bakayım."
+    },
+    {
+      "id": "b202412b",
+      "bank_id": "40502802",
+      "text": "Ucuz mobilyaya ihtiyacım var. Ama çok da ucuz olmasın. Bilirsiniz, \"orta karar\" bir şey. Ama çok da orta olmasın."
+    },
+    {
+      "id": "b202412c",
+      "bank_id": "40502802",
+      "text": "Fizik kurallarını yıkan bir gardırop arıyorum. İçi ev büyüklüğünde olmalı ama yatak odama sığmalı."
+    },
+    {
+      "id": "b202412d",
+      "bank_id": "40502802",
+      "text": "Duvarım için birkaç resme ihtiyacım var. Müstehcen olmasın, lütfen."
+    },
+    {
+      "id": "b202412f",
+      "bank_id": "40502802",
+      "text": "Stokta gaz lambası var mı?"
+    },
+    {
+      "id": "c20776d1",
+      "bank_id": "40502802",
+      "text": "Bir hediyeye ihtiyacım var, hem de dün lazımdı."
+    },
+    {
+      "id": "c20776d2",
+      "bank_id": "40502802",
+      "text": "Bir hediyeye ihtiyacım var, herhangi bir hediye ve acil lazım. Ha bir de, üç metre uzunluğunda, macenta renginde olmalı ve Ethel adını duyunca bakmalı."
+    },
+    {
+      "id": "c20776d3",
+      "bank_id": "40502802",
+      "text": "Pahalı bir mücevher ile ucuz bir kutu çikolata arasında karar veremiyorum. Belki çikolatadan mücevheriniz vardır?"
+    },
+    {
+      "id": "c20776d4",
+      "bank_id": "40502802",
+      "text": "Hiç çakma mücevheriniz var mı?"
+    },
+    {
+      "id": "c20776d5",
+      "bank_id": "40502802",
+      "text": "Hiç sahte mücevheriniz var mı?"
+    },
+    {
+      "id": "cd078800",
+      "bank_id": "40502802",
+      "text": "En büyük elmasınızı göreyim. Sonra da en küçüğünü."
+    },
+    {
+      "id": "cd078802",
+      "bank_id": "40502802",
+      "text": "Uygun fiyatlı mücevheriniz var mı? Şöyle büyük olanlardan?"
+    },
+    {
+      "id": "cd078803",
+      "bank_id": "40502802",
+      "text": "Yüzüklerinize tekrar bakmak istiyorum. Bu sefer hepsini denemeyeceğime söz veriyorum."
+    },
+    {
+      "id": "cd078804",
+      "bank_id": "40502802",
+      "text": "Şu kolyeleri göstersene bir?"
+    },
+    {
+      "id": "cd078805",
+      "bank_id": "40502802",
+      "text": "Güzelce ve usulünce paketlenmiş bir hediye istiyorum."
+    },
+    {
+      "id": "ef6037f1",
+      "bank_id": "40502802",
+      "text": "Şu şeylerden var mı... bilirsiniz, herkesin istediği o çok havalı şey. Maymun pençesi takılı olan."
+    },
+    {
+      "id": "ef6037f2",
+      "bank_id": "40502802",
+      "text": "Acaba elinizde... Bilirsiniz işte, bugünlerde herkesin aldığı o şeyden var mı? Ne demek istediğimi kesin biliyorsunuzdur!"
+    },
+    {
+      "id": "ef6037f3",
+      "bank_id": "40502802",
+      "text": "Kaliteli bir şeye ihtiyacım var. Daha fazlasını söyleyemem."
+    },
+    {
+      "id": "ef6037f4",
+      "bank_id": "40502802",
+      "text": "Ben istediğimi isterim ve eğer tahmin edemiyorsan, dükkân işletmek senin neyine."
+    },
+    {
+      "id": "ef6037f5",
+      "bank_id": "40502802",
+      "text": "Bana şu şuraya sokulan şeylerden... ah, boş ver."
+    },
+    {
+      "id": "ef6037f6",
+      "bank_id": "40502802",
+      "text": "Acaba beni... ve arkadaşlarımı etkileyecek bir şeyiniz var mı?"
+    },
+    {
+      "id": "ef6037f7",
+      "bank_id": "40502802",
+      "text": "Dükkânınızdaki her şeyi satın alabilir miyim? Tek tek bakmaktan çok daha basit."
+    },
+    {
+      "id": "f3a118f0",
+      "bank_id": "40502802",
+      "text": "Zehirli sarmaşığın içine düştüm. Hiç iksir, losyon veya merheminiz var mı?"
+    },
+    {
+      "id": "f3a118f1",
+      "bank_id": "40502802",
+      "text": "Sağlık için bir iksir istiyorum. Benim tek derdim sağlıktır."
+    },
+    {
+      "id": "f3a118f4",
+      "bank_id": "40502802",
+      "text": "Baş ağrısı için bir iksire ihtiyacım var. Yani baş ağrısı yapan bir tane."
+    },
+    {
+      "id": "f3a118f6",
+      "bank_id": "40502802",
+      "text": "Beni uyanık tutacak bir iksire ihtiyacım var."
+    },
+    {
+      "id": "f3a118f7",
+      "bank_id": "40502802",
+      "text": "En yeni sağlık iksirlerine bakıyorum. Ve bana o izotonik saçmalığı vermeyin."
+    },
+    {
+      "id": "f8a12090",
+      "bank_id": "40502802",
+      "text": "Akşamdan kalmalık için bir şey verir misin bana?"
+    },
+    {
+      "id": "f8a12091",
+      "bank_id": "40502802",
+      "text": "Şu lanet siğiller için bir iksire ihtiyacım var."
+    },
+    {
+      "id": "f8a12095",
+      "bank_id": "40502802",
+      "text": "Beni daha akıllı yapacak, yeşil, kivi tadında olmasını umduğum bir şey arıyorum."
+    },
+    {
+      "id": "f8a12096",
+      "bank_id": "40502802",
+      "text": "Mana iksirlerinin sindirimi düzenlediği doğru mu? Çünkü öyleyse on tane alacağım."
+    },
+    {
+      "id": "f8a12097",
+      "bank_id": "40502802",
+      "text": "Bir kasa sağlık iksiri istiyorum. Grip mevsimi geliyor."
+    },
+    {
+      "id": "fa604920",
+      "bank_id": "40502802",
+      "text": "Mümkünse ucuz bir şey rica edeyim."
+    },
+    {
+      "id": "fa604922",
+      "bank_id": "40502802",
+      "text": "Lütfen, herkesin bahsettiği o şeylerden birini mutlaka almalıyım. Ne demek istediğimi anlıyorsun, değil mi?"
+    },
+    {
+      "id": "fa604923",
+      "bank_id": "40502802",
+      "text": "Şu adını unuttuğum zımbırtılardan var mı?"
+    },
+    {
+      "id": "fa604924",
+      "bank_id": "40502802",
+      "text": "Şu şeylerden lazım bana. Bilirsin ya, küçük olanlardan. Beş tane."
+    },
+    {
+      "id": "fa604925",
+      "bank_id": "40502802",
+      "text": "Şu şeylerden var mı... Şunun içine koyduğun şeylerden. Ne demek istediğimi anlıyorsun, değil mi?"
+    },
+    {
+      "id": "fa604926",
+      "bank_id": "40502802",
+      "text": "Acaba sende... yok, mümkün değil olamaz. Yoksa olabilir mi?"
+    },
+    {
+      "id": "fa604927",
+      "bank_id": "40502802",
+      "text": "Acaba sende hiç... Ah, sende olmaz. Nasıl olabilsin ki?"
+    }
+  ]
+}

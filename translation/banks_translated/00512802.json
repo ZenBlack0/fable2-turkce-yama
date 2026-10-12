@@ -1,0 +1,731 @@
+{
+  "bank_id": "00512802",
+  "total_strings": 145,
+  "strings": [
+    {
+      "id": "024406c8",
+      "bank_id": "00512802",
+      "text": "Bu eşyayı sana vermem için önce örnek bir vatandaş olman gerekirdi."
+    },
+    {
+      "id": "024406c9",
+      "bank_id": "00512802",
+      "text": "İyi biri olduğuna emin misin? Yoksa bu hediyeyi sana veremem."
+    },
+    {
+      "id": "024406ca",
+      "bank_id": "00512802",
+      "text": "Yalnızca faziletli biri elimdeki bu hediyeyi hak eder."
+    },
+    {
+      "id": "024406cb",
+      "bank_id": "00512802",
+      "text": "Dürüst ve ahlaklı bir insan vereceğim şeyi hak ederdi."
+    },
+    {
+      "id": "024406cd",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi sana vermem için önce gerçekten iyi biri olduğuna beni ikna etmelisin."
+    },
+    {
+      "id": "024406ce",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi hak edecek kadar asil olduğundan emin değilim."
+    },
+    {
+      "id": "024406cf",
+      "bank_id": "00512802",
+      "text": "Bunu sana vermem için gerçekten çok iyi biri olman gerekirdi."
+    },
+    {
+      "id": "087b6bf8",
+      "bank_id": "00512802",
+      "text": "Merhaba, en iyi eşyalarınızı satın almaya geldim."
+    },
+    {
+      "id": "087b6bf9",
+      "bank_id": "00512802",
+      "text": "Stoklarını yeniledin mi bakalım iyi kalpli dükkâncı?"
+    },
+    {
+      "id": "087b6bfa",
+      "bank_id": "00512802",
+      "text": "Hey dükkâncı, nasıl gidiyor?"
+    },
+    {
+      "id": "087b6bfb",
+      "bank_id": "00512802",
+      "text": "Selam, alışverişe geldim."
+    },
+    {
+      "id": "087b6bfc",
+      "bank_id": "00512802",
+      "text": "Merhaba, altınım var ve harcamaya hazırım."
+    },
+    {
+      "id": "087b6bfd",
+      "bank_id": "00512802",
+      "text": "Selam, çok ama çok özel bir şey arıyorum. Sadece ne olduğunu henüz ben de bilmiyorum."
+    },
+    {
+      "id": "087b6bfe",
+      "bank_id": "00512802",
+      "text": "Merhaba dükkâncı."
+    },
+    {
+      "id": "0d441878",
+      "bank_id": "00512802",
+      "text": "Bunu sana vermem için gerçekten çok iyi biri olman gerekirdi."
+    },
+    {
+      "id": "0d441879",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi hak edecek kadar asil olduğundan emin değilim."
+    },
+    {
+      "id": "0d44187a",
+      "bank_id": "00512802",
+      "text": "Bu eşyayı sana vermem için önce örnek bir vatandaş olman gerekirdi."
+    },
+    {
+      "id": "0d44187b",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi yalnızca gerçekten ahlaklı ve iyi birine verebilirim."
+    },
+    {
+      "id": "0d44187c",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi sana vermem için önce gerçekten iyi biri olduğuna beni ikna etmelisin."
+    },
+    {
+      "id": "0d44187e",
+      "bank_id": "00512802",
+      "text": "İyi biri olduğuna emin misin? Yoksa bu hediyeyi sana veremem."
+    },
+    {
+      "id": "0d44187f",
+      "bank_id": "00512802",
+      "text": "Bunu sana vermem için gerçekten çok iyi biri olman gerekirdi."
+    },
+    {
+      "id": "0fc238e8",
+      "bank_id": "00512802",
+      "text": "Saygımı kazandığını sanmıyorum. Bu yüzden sana bu hediyeyi veremem."
+    },
+    {
+      "id": "0fc238e9",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi kazanmak için gerçekten saygın biri olmak gerekirdi."
+    },
+    {
+      "id": "0fc238ea",
+      "bank_id": "00512802",
+      "text": "Saygımı gerçekten hak eden birini bulmak öyle zor ki."
+    },
+    {
+      "id": "0fc238eb",
+      "bank_id": "00512802",
+      "text": "Sana bu eşyayı vermem için saygıya layık olman gerekirdi."
+    },
+    {
+      "id": "0fc238ec",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi sana verecek kadar saygı duymuyorum."
+    },
+    {
+      "id": "0fc238ed",
+      "bank_id": "00512802",
+      "text": "Bunu sana vermem için önce saygımı kazanman gerekirdi."
+    },
+    {
+      "id": "0fc238ee",
+      "bank_id": "00512802",
+      "text": "Hediyemi hak edecek kadar saygın değilsin."
+    },
+    {
+      "id": "117b79c8",
+      "bank_id": "00512802",
+      "text": "Ah, sadece şöyle bir bakınmaya geldim."
+    },
+    {
+      "id": "117b79c9",
+      "bank_id": "00512802",
+      "text": "Selamlar, sadece bakınıyorum."
+    },
+    {
+      "id": "117b79cb",
+      "bank_id": "00512802",
+      "text": "Çok belirli bir şey arıyorum. Ama belirsiz bir şekilde."
+    },
+    {
+      "id": "117b79cc",
+      "bank_id": "00512802",
+      "text": "Sakıncası yoksa sadece bakınıyorum."
+    },
+    {
+      "id": "117b79cd",
+      "bank_id": "00512802",
+      "text": "Mallarına göz atmaya geldim."
+    },
+    {
+      "id": "117b79ce",
+      "bank_id": "00512802",
+      "text": "Sadece neler var diye bakıyorum."
+    },
+    {
+      "id": "117b79cf",
+      "bank_id": "00512802",
+      "text": "Nasıl gidiyor dükkâncı?"
+    },
+    {
+      "id": "18c24738",
+      "bank_id": "00512802",
+      "text": "Hediyemi hak edecek kadar saygın değilsin."
+    },
+    {
+      "id": "18c24739",
+      "bank_id": "00512802",
+      "text": "Sana bu hediyeyi verecek kadar saygı duymuyorum sadece."
+    },
+    {
+      "id": "18c2473b",
+      "bank_id": "00512802",
+      "text": "Sana bu eşyayı vermem için saygıya layık olman gerekirdi."
+    },
+    {
+      "id": "18c2473c",
+      "bank_id": "00512802",
+      "text": "Seni hediyeme layık görmem için önce saygımı kazanman gerek."
+    },
+    {
+      "id": "18c2473d",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi kazanmak için gerçekten saygın biri olmak gerekirdi."
+    },
+    {
+      "id": "18c2473e",
+      "bank_id": "00512802",
+      "text": "Bunu sana vermem için önce saygımı kazanman gerekirdi."
+    },
+    {
+      "id": "18c2473f",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi sana verecek kadar saygı duymuyorum."
+    },
+    {
+      "id": "40f03b8a",
+      "bank_id": "00512802",
+      "text": "Bu eşyayı hak etmek için herkesin nefret ettiği biri olmak gerekirdi."
+    },
+    {
+      "id": "40f03b8b",
+      "bank_id": "00512802",
+      "text": "Yalnızca gerçekten aşağılık biri bu hediyeyi arzular."
+    },
+    {
+      "id": "44650428",
+      "bank_id": "00512802",
+      "text": "Benim hediyemle ne işin olur ki? O kadar da çirkin değilsin!"
+    },
+    {
+      "id": "4465042a",
+      "bank_id": "00512802",
+      "text": "Kendine vuracak bir çirkinlik sopası bulabilseydin, hediyemi seve seve verirdim."
+    },
+    {
+      "id": "4465042b",
+      "bank_id": "00512802",
+      "text": "Belki kendini daha çirkin yapsaydın sana bu eşyayı vermeye değerdi."
+    },
+    {
+      "id": "4465042c",
+      "bank_id": "00512802",
+      "text": "Hediyeme ihtiyaç duyacak kadar çirkin olduğunu sanmıyorum sadece."
+    },
+    {
+      "id": "4465042d",
+      "bank_id": "00512802",
+      "text": "Yalnızca gerçekten iğrenç biri elimdeki bu eşyaya ihtiyaç duyardı."
+    },
+    {
+      "id": "4465042e",
+      "bank_id": "00512802",
+      "text": "Hediyemi hak etmek için fevkalade çirkin biri olmak gerekirdi."
+    },
+    {
+      "id": "4465042f",
+      "bank_id": "00512802",
+      "text": "Hediyeme ihtiyaç duymak için fazla çekicisin."
+    },
+    {
+      "id": "49650bc9",
+      "bank_id": "00512802",
+      "text": "Gerçekten çirkin olmadığın sürece hediyem bir işine yaramaz."
+    },
+    {
+      "id": "49650bca",
+      "bank_id": "00512802",
+      "text": "Yalnızca gerçekten iğrenç biri elimdeki bu eşyaya ihtiyaç duyardı."
+    },
+    {
+      "id": "49650bcb",
+      "bank_id": "00512802",
+      "text": "Hediyeme ihtiyaç duyacak kadar çirkin olduğunu sanmıyorum sadece."
+    },
+    {
+      "id": "49650bcc",
+      "bank_id": "00512802",
+      "text": "Belki kendini daha çirkin yapsaydın sana bu eşyayı vermeye değerdi."
+    },
+    {
+      "id": "49650bcd",
+      "bank_id": "00512802",
+      "text": "Çirkinlik ağacından düşme bir kaza geçirmediğin sürece hediyem sana göre değil."
+    },
+    {
+      "id": "49650bce",
+      "bank_id": "00512802",
+      "text": "Yalnızca son derece çirkin olanlar hediyeme ihtiyaç duyar."
+    },
+    {
+      "id": "49650bcf",
+      "bank_id": "00512802",
+      "text": "Elimdeki bu eşyayı kazanmak için gerçekten tiksindirici olman gerekirdi."
+    },
+    {
+      "id": "4efbb0ca",
+      "bank_id": "00512802",
+      "text": "Seni istediğin limana götürürüz. Makul sınırlar içinde tabii."
+    },
+    {
+      "id": "4efbb0cd",
+      "bank_id": "00512802",
+      "text": "Tüm uzun mesafe seyahat ihtiyaçlarınıza hizmet veriyoruz!"
+    },
+    {
+      "id": "541442b8",
+      "bank_id": "00512802",
+      "text": "Gemi yolculuğu için harika bir gün!"
+    },
+    {
+      "id": "541442bf",
+      "bank_id": "00512802",
+      "text": "Bir seyahate çıkın! Tekneyle!"
+    },
+    {
+      "id": "6d55cea1",
+      "bank_id": "00512802",
+      "text": "Tam alışveriş havasındayım. Beğendiğim bir şey görürsem tabii."
+    },
+    {
+      "id": "6d55cea2",
+      "bank_id": "00512802",
+      "text": "Şu büyük şeylerden var mı sende, hani bilirsin ya, şeyli olanlardan?"
+    },
+    {
+      "id": "6d55cea3",
+      "bank_id": "00512802",
+      "text": "Selam, tam bir alışveriş deneyimine hazırım."
+    },
+    {
+      "id": "6d55cea4",
+      "bank_id": "00512802",
+      "text": "Selamlar. Hırsızlık yapmıyorum yani."
+    },
+    {
+      "id": "7855dfd0",
+      "bank_id": "00512802",
+      "text": "Geçen seferkinden daha fazlasını alacağım."
+    },
+    {
+      "id": "7855dfd2",
+      "bank_id": "00512802",
+      "text": "Selamlar. En sevdiğin müşterin geldi yine."
+    },
+    {
+      "id": "7855dfd3",
+      "bank_id": "00512802",
+      "text": "Evet, yine ben. Biraz alışveriş yapmayı pek severim."
+    },
+    {
+      "id": "7855dfd4",
+      "bank_id": "00512802",
+      "text": "Selamlar. Yapacak biraz alışverişim var."
+    },
+    {
+      "id": "7855dfd5",
+      "bank_id": "00512802",
+      "text": "Altınım var, o yüzden beni kapı dışarı etmeyin sakın."
+    },
+    {
+      "id": "7855dfd6",
+      "bank_id": "00512802",
+      "text": "Son derece zenginim, bu yüzden iyi muamele görmeyi beklerim."
+    },
+    {
+      "id": "7855dfd7",
+      "bank_id": "00512802",
+      "text": "Selamlar. Yapacak çok alışverişim var."
+    },
+    {
+      "id": "7dfaa3b8",
+      "bank_id": "00512802",
+      "text": "Bana iyi davranırsan sana verecek bir şeyim olabilir."
+    },
+    {
+      "id": "7dfaa3b9",
+      "bank_id": "00512802",
+      "text": "Kendini bana daha çok sevdir, belki sana bir şey veririm."
+    },
+    {
+      "id": "7dfaa3ba",
+      "bank_id": "00512802",
+      "text": "Hediyemi yalnızca gerçekten sevdiğim birine verirdim."
+    },
+    {
+      "id": "7dfaa3bb",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi yalnızca gerçekten nazik ve sevimli birine teslim ederdim."
+    },
+    {
+      "id": "7dfaa3bd",
+      "bank_id": "00512802",
+      "text": "Senden daha çok hoşlansaydım sana verecek bir şeyim olabilirdi."
+    },
+    {
+      "id": "7dfaa3be",
+      "bank_id": "00512802",
+      "text": "Sana bu hediyeyi verecek kadar senden hoşlandığımdan emin değilim."
+    },
+    {
+      "id": "7dfaa3bf",
+      "bank_id": "00512802",
+      "text": "Bana iyi davranırsan sana verebileceğim bir şey var."
+    },
+    {
+      "id": "84aa9a33",
+      "bank_id": "00512802",
+      "text": "Hangi limana yelken açmak istersin maceracı?"
+    },
+    {
+      "id": "84aa9a34",
+      "bank_id": "00512802",
+      "text": "Nereye gidiyorsun bakalım?"
+    },
+    {
+      "id": "87b8ab82",
+      "bank_id": "00512802",
+      "text": "Gerçekten çirkin birini gördün mü hiç? Yani gerçekten çirkin. Ben görmedim. Hâlâ arıyorum."
+    },
+    {
+      "id": "87b8ab83",
+      "bank_id": "00512802",
+      "text": "Etrafta hiç çirkin insan gördün mü? Yani hakikaten iğrenç birini."
+    },
+    {
+      "id": "87b8ab84",
+      "bank_id": "00512802",
+      "text": "Gerçekten çirkin biri için bir hediyem var. O kişinin sen olduğundan emin değilim ama..."
+    },
+    {
+      "id": "87b8ab85",
+      "bank_id": "00512802",
+      "text": "Gerçekten çirkin insanlara bakmayı çok seviyorum. Etrafta hiç gördün mü?"
+    },
+    {
+      "id": "87b8ab87",
+      "bank_id": "00512802",
+      "text": "Kulağa tuhaf geldiğini biliyorum ama sahiden çok çirkin biriyle karşılaşmayı umuyorum."
+    },
+    {
+      "id": "88fab4e8",
+      "bank_id": "00512802",
+      "text": "Bana iyi davranırsan sana bir hediye verebilirim."
+    },
+    {
+      "id": "88fab4e9",
+      "bank_id": "00512802",
+      "text": "Hımm, sana şuradaki şu küçük eşyayı verecek kadar senden hoşlandığımı sanmıyorum."
+    },
+    {
+      "id": "88fab4ea",
+      "bank_id": "00512802",
+      "text": "Bu değerli küçük hediyeyi teslim edecek kadar senden hoşlandığımdan emin değilim."
+    },
+    {
+      "id": "88fab4eb",
+      "bank_id": "00512802",
+      "text": "Kendini bana yeterince sevdirebilseydin senin için belirli bir hediyem olabilirdi."
+    },
+    {
+      "id": "88fab4ec",
+      "bank_id": "00512802",
+      "text": "Kendini bana daha çok sevdir, belki sana bir şey veririm."
+    },
+    {
+      "id": "88fab4ee",
+      "bank_id": "00512802",
+      "text": "Senden daha çok hoşlansaydım bu hediyeyi sana verirdim."
+    },
+    {
+      "id": "88fab4ef",
+      "bank_id": "00512802",
+      "text": "Gerçekten nazik biri olsaydın senin için bir hediyem olurdu."
+    },
+    {
+      "id": "8eb8b688",
+      "bank_id": "00512802",
+      "text": "Hiç çirkin insanlara rastladın mı? Bir tane görmeyi çok isterdim doğrusu."
+    },
+    {
+      "id": "8eb8b689",
+      "bank_id": "00512802",
+      "text": "Biliyor musun, azıcık daha çirkin olsaydın senin için bir hediyem vardı."
+    },
+    {
+      "id": "8eb8b68a",
+      "bank_id": "00512802",
+      "text": "Tamamen tiksindirici birini arıyorum."
+    },
+    {
+      "id": "8eb8b68e",
+      "bank_id": "00512802",
+      "text": "Çirkin insanlara bakmaya bayılıyorum. Öyle biraz çirkin değil. Resmen domuz kıçı gibi çirkin."
+    },
+    {
+      "id": "8eb8b68f",
+      "bank_id": "00512802",
+      "text": "Biliyor musun, keşke daha çirkin olsaydın, seninle konuşmak ilgimi çekebilirdi."
+    },
+    {
+      "id": "9af2b551",
+      "bank_id": "00512802",
+      "text": "Gerçekten ama gerçekten sevdiğim hiç kimse yok. Ne acı değil mi?"
+    },
+    {
+      "id": "9af2b552",
+      "bank_id": "00512802",
+      "text": "Biliyor musun, senden gerçekten hoşlansaydım belki elimdeki bu hediyeyi sana verebilirdim."
+    },
+    {
+      "id": "9af2b553",
+      "bank_id": "00512802",
+      "text": "Senden daha çok hoşlanmamış olmam ne yazık. Yoksa sana bir hediye verebilirdim."
+    },
+    {
+      "id": "9af2b554",
+      "bank_id": "00512802",
+      "text": "Tam burada harika bir hediyem var ama verecek kadar sevdiğim hiç kimse yok."
+    },
+    {
+      "id": "9af2b555",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi verecek kadar sevebileceğim birini bulabilseydim keşke..."
+    },
+    {
+      "id": "9f130089",
+      "bank_id": "00512802",
+      "text": "Bir tekne turu ister misin?"
+    },
+    {
+      "id": "9f13008e",
+      "bank_id": "00512802",
+      "text": "Okyanusa yelken açın! Seyahat etmenin daha iyi bir yolu yoktur!"
+    },
+    {
+      "id": "a5f2c680",
+      "bank_id": "00512802",
+      "text": "Gerçekten sevdiğim insanlara hediye vermeyi severim."
+    },
+    {
+      "id": "a5f2c682",
+      "bank_id": "00512802",
+      "text": "Hediye vermeye tek kelimeyle bayılıyorum. Ama yalnızca taptığım insanlara."
+    },
+    {
+      "id": "a5f2c683",
+      "bank_id": "00512802",
+      "text": "Bir hediyem var ama yalnızca gerçekten çok sevdiğim biri için."
+    },
+    {
+      "id": "a5f2c684",
+      "bank_id": "00512802",
+      "text": "Elimde bu harika hediye var ama verecek kadar sevdiğim kimse yok."
+    },
+    {
+      "id": "a5f2c685",
+      "bank_id": "00512802",
+      "text": "Ah, hediyemi hak eden biri olsaydı keşke. Ama kimseden yeterince hoşlanmıyorum."
+    },
+    {
+      "id": "a756537b",
+      "bank_id": "00512802",
+      "text": "Bir gemi turuna çıkmak ister misiniz?"
+    },
+    {
+      "id": "a756537c",
+      "bank_id": "00512802",
+      "text": "Bir gemiden daha hızlı bir seyahat yoktur dostum."
+    },
+    {
+      "id": "c1a45d7a",
+      "bank_id": "00512802",
+      "text": "Bu yerde hiç iyi insan bulamıyorum nedense."
+    },
+    {
+      "id": "c1a45d7b",
+      "bank_id": "00512802",
+      "text": "Hiç aziz gördün mü? Yani bilirsin ya, gerçekten iyi insanlardan. Yok mu? Ben de görmedim."
+    },
+    {
+      "id": "c1a45d7c",
+      "bank_id": "00512802",
+      "text": "Faziletli insanları hediye vererek ödüllendirmeyi severim."
+    },
+    {
+      "id": "c1a45d7d",
+      "bank_id": "00512802",
+      "text": "Bu hediyeyi hak edecek kadar iyi biri misin?"
+    },
+    {
+      "id": "c1a45d7e",
+      "bank_id": "00512802",
+      "text": "Nasıl oluyor da hiç gerçekten aziz gibi biriyle tanışamıyorum?"
+    },
+    {
+      "id": "caa46b48",
+      "bank_id": "00512802",
+      "text": "Yalnızca çok ahlaklı biri elimdeki bu hediyeyi hak eder."
+    },
+    {
+      "id": "caa46b49",
+      "bank_id": "00512802",
+      "text": "Buralarda altın gibi bir kalbi olan birini gördün mü hiç? Yani gerçekten ahlaklı birini."
+    },
+    {
+      "id": "caa46b4b",
+      "bank_id": "00512802",
+      "text": "Altın kalpli birini görmedin, değil mi?"
+    },
+    {
+      "id": "caa46b4e",
+      "bank_id": "00512802",
+      "text": "Elimdekini hak edecek kadar ahlaka kim sahip olabilir ki...? Buralarda hiç kimse."
+    },
+    {
+      "id": "caa46b4f",
+      "bank_id": "00512802",
+      "text": "Buralarda bir yerlerde gerçekten aziz tipli insanlar olmalı..."
+    },
+    {
+      "id": "d3c98e01",
+      "bank_id": "00512802",
+      "text": "Bugün nereye yelken açmak istersiniz?"
+    },
+    {
+      "id": "d3c98e06",
+      "bank_id": "00512802",
+      "text": "Nereye yelken açıyorsun?"
+    },
+    {
+      "id": "d5ff1e0b",
+      "bank_id": "00512802",
+      "text": "Nereye gitmek istersin bakalım?"
+    },
+    {
+      "id": "d5ff1e0c",
+      "bank_id": "00512802",
+      "text": "Gemim emrinizdedir. Nereye gitmek istersiniz?"
+    },
+    {
+      "id": "dc9a6738",
+      "bank_id": "00512802",
+      "text": "Lüks gemilerimizde keyifli bir yolculuğa çıkın!"
+    },
+    {
+      "id": "dc9a673f",
+      "bank_id": "00512802",
+      "text": "Bırakın deniz ve rüzgâr sizi çok çok uzaklara götürsün."
+    },
+    {
+      "id": "f14d5698",
+      "bank_id": "00512802",
+      "text": "Bakalım istediğim şeyi satıyor musun."
+    },
+    {
+      "id": "f14d5699",
+      "bank_id": "00512802",
+      "text": "Sadece yeni stoklarına göz atıyorum."
+    },
+    {
+      "id": "f14d569a",
+      "bank_id": "00512802",
+      "text": "İyi günler dükkâncı."
+    },
+    {
+      "id": "f14d569b",
+      "bank_id": "00512802",
+      "text": "İyi günler. Bakalım stokların bugün bana neler sunacak."
+    },
+    {
+      "id": "f14d569d",
+      "bank_id": "00512802",
+      "text": "Selam, biraz alışveriş havasındayım."
+    },
+    {
+      "id": "f14d569e",
+      "bank_id": "00512802",
+      "text": "Hımm, aradığım şey sende var mı acaba. Bakalım..."
+    },
+    {
+      "id": "f14d569f",
+      "bank_id": "00512802",
+      "text": "Bütün hafta bu alışveriş çılgınlığını iple çektim."
+    },
+    {
+      "id": "f6306eb3",
+      "bank_id": "00512802",
+      "text": "Karada pineklemeyin! Bir gemiye binin!"
+    },
+    {
+      "id": "f6306eb4",
+      "bank_id": "00512802",
+      "text": "Dünyayı denizden görün!"
+    },
+    {
+      "id": "fc4d67c8",
+      "bank_id": "00512802",
+      "text": "Alışveriş yapmaya geldim. Başka niye gireyim ki içeri?"
+    },
+    {
+      "id": "fc4d67c9",
+      "bank_id": "00512802",
+      "text": "Nasıl gidiyor? Sadece biraz bakınmaya geldim."
+    },
+    {
+      "id": "fc4d67ca",
+      "bank_id": "00512802",
+      "text": "Umarım istediğim şeyi bana satabilirsin dükkâncı."
+    },
+    {
+      "id": "fc4d67cb",
+      "bank_id": "00512802",
+      "text": "Hizmetkârım bugün hasta, bu yüzden dükkânınızı bizzat ziyaret etmeye karar verdim."
+    },
+    {
+      "id": "fc4d67cc",
+      "bank_id": "00512802",
+      "text": "Sadece bakınıyorum."
+    },
+    {
+      "id": "fc4d67ce",
+      "bank_id": "00512802",
+      "text": "Bakalım stoklarında neler varmış o zaman."
+    },
+    {
+      "id": "fc4d67cf",
+      "bank_id": "00512802",
+      "text": "Şey, karım beni şey almaya gönderdi de... Neydi o? Şöyle bir etrafa bakayım ben..."
+    }
+  ]
+}

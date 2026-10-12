@@ -1,0 +1,1411 @@
+{
+  "bank_id": "00b0b600",
+  "total_strings": 281,
+  "strings": [
+    {
+      "id": "00f44a38",
+      "bank_id": "00b0b600",
+      "text": "Lanet rüzgâr esintisi. Esip durmak için bir dakika daha bekleyemez miydi sanki?"
+    },
+    {
+      "id": "01f44bab",
+      "bank_id": "00b0b600",
+      "text": "Şu yakalama emirlerini öğrenirlerse bütün muhafızların alay konusu olurum."
+    },
+    {
+      "id": "0251ea1a",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "0351eb8d",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "03599d59",
+      "bank_id": "00b0b600",
+      "text": "Bütün çiftçilerin ve rahiplerin işini bitirmeden ayrılamazsınız!"
+    },
+    {
+      "id": "03f44ef1",
+      "bank_id": "00b0b600",
+      "text": "Ah, bu duyulursa asla şerif olamayacağım."
+    },
+    {
+      "id": "06f4534a",
+      "bank_id": "00b0b600",
+      "text": "En azından ortalık sakin ve huzurlu. Etrafta suçlu falan yok."
+    },
+    {
+      "id": "12110bc6",
+      "bank_id": "00b0b600",
+      "text": "Bu mağaradan çıkmak için başka bir yol bulmalısınız!"
+    },
+    {
+      "id": "156327bd",
+      "bank_id": "00b0b600",
+      "text": "Mezar bekçisinin deneyini tamamlamasına yardım etmelisiniz."
+    },
+    {
+      "id": "15c1da80",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "166b5022",
+      "bank_id": "00b0b600",
+      "text": "T.O.B.Y. ile olan meseleyi çözmeden ayrılamazsınız."
+    },
+    {
+      "id": "16c37be8",
+      "bank_id": "00b0b600",
+      "text": "Onu bulmalıyız, ah zavallı yavrum benim."
+    },
+    {
+      "id": "17c37d5b",
+      "bank_id": "00b0b600",
+      "text": "Bu başımıza nasıl geldi...?"
+    },
+    {
+      "id": "1839f832",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "18c37ece",
+      "bank_id": "00b0b600",
+      "text": "Ah, zavallı oğlum, zavallı oğlum benim..."
+    },
+    {
+      "id": "1a39fb18",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "1ab84c30",
+      "bank_id": "00b0b600",
+      "text": "Şey, az önceki karnım mıydı? Bayağı acıktım galiba."
+    },
+    {
+      "id": "1ac1e2bf",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "1b328198",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "1b39fc8b",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "1b84cc3b",
+      "bank_id": "00b0b600",
+      "text": "Max ve Sam şüphesiz tehlikede. Onları öylece bırakamazsınız!"
+    },
+    {
+      "id": "1bb84da3",
+      "bank_id": "00b0b600",
+      "text": "Ah, günahkâr biri değilimdir ama şu an bir içkiye fena halde ihtiyacım var..."
+    },
+    {
+      "id": "1bc1e412",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "1c39fe7e",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "1cc1e585",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "1cd1cd98",
+      "bank_id": "00b0b600",
+      "text": "Bu zindanı temizlemezseniz o hırsızların ardı arkası asla kesilmez!"
+    },
+    {
+      "id": "1d3284fe",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "1d39ffd1",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "1db85089",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "1dc386ed",
+      "bank_id": "00b0b600",
+      "text": "Çok şükür bana yardım edecek bu cesur insanlar var."
+    },
+    {
+      "id": "1e328651",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "1e3a0144",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "1f3287c4",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "1f3a0337",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "203289b7",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "213a061d",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "22328c9d",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "249f1e69",
+      "bank_id": "00b0b600",
+      "text": "Bloodstone'daki herkesi öldürmeden önce banshee'yi yenmelisiniz!"
+    },
+    {
+      "id": "29083f18",
+      "bank_id": "00b0b600",
+      "text": "Hadi, acele et!"
+    },
+    {
+      "id": "2c0843d1",
+      "bank_id": "00b0b600",
+      "text": "Yetişsene, ne duruyorsun?"
+    },
+    {
+      "id": "2cc222a3",
+      "bank_id": "00b0b600",
+      "text": "Beni bekle!"
+    },
+    {
+      "id": "2dc22416",
+      "bank_id": "00b0b600",
+      "text": "O kadar hızlı gitme, lanet olsun!"
+    },
+    {
+      "id": "336d48c0",
+      "bank_id": "00b0b600",
+      "text": "Garanti mi?! Hadi oradan be."
+    },
+    {
+      "id": "343bd2aa",
+      "bank_id": "00b0b600",
+      "text": "Hadi o zaman."
+    },
+    {
+      "id": "346d4ab3",
+      "bank_id": "00b0b600",
+      "text": "Toz su! Toz su almak isteyen var mı? Sadece... şey, su ekleyin yeter."
+    },
+    {
+      "id": "356d4c26",
+      "bank_id": "00b0b600",
+      "text": "Ah, zevk sahibi bir müşteri."
+    },
+    {
+      "id": "366d4d99",
+      "bank_id": "00b0b600",
+      "text": "Cam çekiç isteyen var mı? Ekose boya... Ayakta dikilmece... Solak tornavidası... Hepsi burada."
+    },
+    {
+      "id": "376d4f0c",
+      "bank_id": "00b0b600",
+      "text": "Sihirli saç fırçaları! Sihirli saç fırçalarınız burada! Taradıkça daha çok saç çıkarır."
+    },
+    {
+      "id": "386d50ff",
+      "bank_id": "00b0b600",
+      "text": "<burps>"
+    },
+    {
+      "id": "3a6d53c5",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "3d1ebd8e",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "3d2db3b8",
+      "bank_id": "00b0b600",
+      "text": "Ah evet, bu sefer işler çok iyi gidiyor. Biliyordum. Bu sabah uyandığımda biliyordum."
+    },
+    {
+      "id": "3e2db52b",
+      "bank_id": "00b0b600",
+      "text": "Ahhh..."
+    },
+    {
+      "id": "3f1ec0d4",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "401ec247",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "40ee4326",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "412db9e4",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "41ee4499",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "421ec5ad",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "42ee460c",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "432dbcca",
+      "bank_id": "00b0b600",
+      "text": "Mmmm."
+    },
+    {
+      "id": "43ee47ff",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "442dbebd",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "44ee4952",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "46140248",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "481405ae",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "49140701",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "4a1408f4",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "4b140a67",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "4bf4d943",
+      "bank_id": "00b0b600",
+      "text": "Davetsiz misafirleri alt etmelisiniz yoksa her şeyi çalacaklar!"
+    },
+    {
+      "id": "4d140d4d",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "4d4bea63",
+      "bank_id": "00b0b600",
+      "text": "Yakında yiyecek bir şeyler bulmalıyız."
+    },
+    {
+      "id": "4d540cf2",
+      "bank_id": "00b0b600",
+      "text": "Tommy bütün hobbe'leri temizlemeniz için size güveniyor!"
+    },
+    {
+      "id": "4d84faa1",
+      "bank_id": "00b0b600",
+      "text": "Charlie'yi kurtarmadan nasıl gidebilirsiniz?!"
+    },
+    {
+      "id": "4e4bebd6",
+      "bank_id": "00b0b600",
+      "text": "Arfur gibi tipler olmasaydı bu kasaba çok daha güzel bir yer olurdu."
+    },
+    {
+      "id": "4e7908f3",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "4f40b41b",
+      "bank_id": "00b0b600",
+      "text": "Cemiyet için yeni üyeler bulmalıyım..."
+    },
+    {
+      "id": "4f4bed49",
+      "bank_id": "00b0b600",
+      "text": "Şu an kalede ne yapıyorlar acaba merak ediyorum."
+    },
+    {
+      "id": "4f790a66",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "5040b58e",
+      "bank_id": "00b0b600",
+      "text": "Güzel, temiz bir ölümü gerçekten severim."
+    },
+    {
+      "id": "504bef3c",
+      "bank_id": "00b0b600",
+      "text": "Belki havalar güzelleşince Bower Gölü'ne gideriz. Orada güzel bir kamp yeri var. Evet."
+    },
+    {
+      "id": "505e0979",
+      "bank_id": "00b0b600",
+      "text": "Hadi o zaman."
+    },
+    {
+      "id": "50790bd9",
+      "bank_id": "00b0b600",
+      "text": "Hımm..."
+    },
+    {
+      "id": "50c2b5e1",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "514bf0af",
+      "bank_id": "00b0b600",
+      "text": "Altın kazanmanın başka yollarını bulmalıyız. Mecburuz."
+    },
+    {
+      "id": "51c2b754",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "524bf202",
+      "bank_id": "00b0b600",
+      "text": "Daha sıcak tutan giysiler fena olmazdı hani."
+    },
+    {
+      "id": "5289bef3",
+      "bank_id": "00b0b600",
+      "text": "Ahhh."
+    },
+    {
+      "id": "52c2b8c7",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "534bf3f5",
+      "bank_id": "00b0b600",
+      "text": "Bahse girerim Lucien çocukları seviyordur. Belki birkaç tanesini evlat edinmek ister. Kalede tek başına yalnız kalıyor olmalı."
+    },
+    {
+      "id": "5389c066",
+      "bank_id": "00b0b600",
+      "text": "Hımm."
+    },
+    {
+      "id": "53c2baba",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "5489c1d9",
+      "bank_id": "00b0b600",
+      "text": "Aha..."
+    },
+    {
+      "id": "5589c34c",
+      "bank_id": "00b0b600",
+      "text": "<coughs>"
+    },
+    {
+      "id": "5a0ba600",
+      "bank_id": "00b0b600",
+      "text": "Şimdi durma."
+    },
+    {
+      "id": "5d0baad9",
+      "bank_id": "00b0b600",
+      "text": "Neden duruyorsun?"
+    },
+    {
+      "id": "5edc2cc8",
+      "bank_id": "00b0b600",
+      "text": "Bir gün bu çeteyi ben yöneteceğim. Evet yöneteceğim."
+    },
+    {
+      "id": "5eefe7dc",
+      "bank_id": "00b0b600",
+      "text": "Hadi gidelim!"
+    },
+    {
+      "id": "5f701a13",
+      "bank_id": "00b0b600",
+      "text": "<yawns>"
+    },
+    {
+      "id": "60701b86",
+      "bank_id": "00b0b600",
+      "text": "<yawns>"
+    },
+    {
+      "id": "60dc302e",
+      "bank_id": "00b0b600",
+      "text": "Artık daha fazla kimsenin emri altında kalmayacağım."
+    },
+    {
+      "id": "61701d79",
+      "bank_id": "00b0b600",
+      "text": "<yawns>"
+    },
+    {
+      "id": "61dc3181",
+      "bank_id": "00b0b600",
+      "text": "Bu güruh benim ne kadar gaddar olabileceğimi bilmiyor daha. Öğrenecekler."
+    },
+    {
+      "id": "6235d3b8",
+      "bank_id": "00b0b600",
+      "text": "Hımm, evet..."
+    },
+    {
+      "id": "62701eec",
+      "bank_id": "00b0b600",
+      "text": "<yawns>"
+    },
+    {
+      "id": "6370205f",
+      "bank_id": "00b0b600",
+      "text": "<tuts>"
+    },
+    {
+      "id": "637ae181",
+      "bank_id": "00b0b600",
+      "text": "Doğru yol burası, kesinlikle."
+    },
+    {
+      "id": "63b86c18",
+      "bank_id": "00b0b600",
+      "text": "Şimdi durmanın sırası değil."
+    },
+    {
+      "id": "63dc34e7",
+      "bank_id": "00b0b600",
+      "text": "Canım fena halde adam öldürmek istiyor."
+    },
+    {
+      "id": "6435d69e",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "64702232",
+      "bank_id": "00b0b600",
+      "text": "<whistles>"
+    },
+    {
+      "id": "6535d871",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "657023a5",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "657ab118",
+      "bank_id": "00b0b600",
+      "text": "Hımm, hafta sonumu nereye koydum ben...? Yine kaybettim değil mi?"
+    },
+    {
+      "id": "66702518",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "667ab28b",
+      "bank_id": "00b0b600",
+      "text": "Şu Saksağan yok mu. Ah, boynunu bir güzel kırmak isterdim vallahi."
+    },
+    {
+      "id": "66b870d1",
+      "bank_id": "00b0b600",
+      "text": "Devam etmeliyiz."
+    },
+    {
+      "id": "6735db57",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "6770268b",
+      "bank_id": "00b0b600",
+      "text": "<sniffs>"
+    },
+    {
+      "id": "677ab47e",
+      "bank_id": "00b0b600",
+      "text": "Kurudum resmen. Boğazım kurudu."
+    },
+    {
+      "id": "6c7abc1d",
+      "bank_id": "00b0b600",
+      "text": "Hımm, şu pembe fil hep orada mıydı acaba?"
+    },
+    {
+      "id": "6d5f68bb",
+      "bank_id": "00b0b600",
+      "text": "Güzel bir sürpriz için mağaradan dışarı adım atın!"
+    },
+    {
+      "id": "6e509abc",
+      "bank_id": "00b0b600",
+      "text": "Çocuğunuzu geride bırakamazsınız!"
+    },
+    {
+      "id": "71304aa8",
+      "bank_id": "00b0b600",
+      "text": "Onları bir elime geçireyim de görsünler..."
+    },
+    {
+      "id": "72304c1b",
+      "bank_id": "00b0b600",
+      "text": "Geçen seferkiyle aynı, yine aynısı olacak... Ahhh!"
+    },
+    {
+      "id": "73a9c5df",
+      "bank_id": "00b0b600",
+      "text": "Ayak uydurmaya çalış."
+    },
+    {
+      "id": "74304f61",
+      "bank_id": "00b0b600",
+      "text": "Ah, bu çok can sıkıcı. Yine mi..."
+    },
+    {
+      "id": "74a9c7b2",
+      "bank_id": "00b0b600",
+      "text": "Oyalanma."
+    },
+    {
+      "id": "7730543a",
+      "bank_id": "00b0b600",
+      "text": "Ah çocuklar! Canlarım! Keşke zamanı geri alabilseydim."
+    },
+    {
+      "id": "78a6fe34",
+      "bank_id": "00b0b600",
+      "text": "Belinda! Haha. Belinda, Belinda, Belinda, Belinda! Haha."
+    },
+    {
+      "id": "79a6ffa7",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "7aa7011a",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "7af3dcc8",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "7bf3debb",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "7bf7c91b",
+      "bank_id": "00b0b600",
+      "text": "Hadi gidelim!"
+    },
+    {
+      "id": "7df3e181",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "7ec01e80",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "7ef3e374",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "7fc02073",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "80f3e65a",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "8196ad12",
+      "bank_id": "00b0b600",
+      "text": "Hadi o zaman."
+    },
+    {
+      "id": "81f3e7cd",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "83c026bf",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "84c02812",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "852e4a00",
+      "bank_id": "00b0b600",
+      "text": "Bu yılki hasat iyi olsa bari. İyi olsa çok iyi olur..."
+    },
+    {
+      "id": "85c02985",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "872e4d66",
+      "bank_id": "00b0b600",
+      "text": "Umarım her şey yolunda gider."
+    },
+    {
+      "id": "882e4ed9",
+      "bank_id": "00b0b600",
+      "text": "Ayin nasıldı sahi? 'Yeni hayat yükselir', evet öyleydi."
+    },
+    {
+      "id": "8852b7bc",
+      "bank_id": "00b0b600",
+      "text": "Beni bekle!"
+    },
+    {
+      "id": "889f7398",
+      "bank_id": "00b0b600",
+      "text": "<giggles> Ah evet, ona bunu söyletebilirim. Ne kadar da şahane bir saçmalık."
+    },
+    {
+      "id": "892e504c",
+      "bank_id": "00b0b600",
+      "text": "Işık bana güç versin."
+    },
+    {
+      "id": "8a2e523f",
+      "bank_id": "00b0b600",
+      "text": "Birini mağaraya tek başına gönderme fikri, yani tek kelimeyle akıl almaz."
+    },
+    {
+      "id": "8a9f76fe",
+      "bank_id": "00b0b600",
+      "text": "Hımm, hobbe'lere karşı en etkili büyünün hangisi olacağını merak ediyorum..."
+    },
+    {
+      "id": "8b2e5392",
+      "bank_id": "00b0b600",
+      "text": "Oakfield için harika bir gün olacak. Hepimiz için."
+    },
+    {
+      "id": "8b52bc75",
+      "bank_id": "00b0b600",
+      "text": "O kadar hızlı değil!"
+    },
+    {
+      "id": "8b9f7851",
+      "bank_id": "00b0b600",
+      "text": "Büyü güçlerime odaklanmalıyım. İçerisi tehlikeli olacak."
+    },
+    {
+      "id": "8c2e5505",
+      "bank_id": "00b0b600",
+      "text": "Ağaç yükselecek ve her şey düzelecek."
+    },
+    {
+      "id": "8c900e0f",
+      "bank_id": "00b0b600",
+      "text": "Çiftçiye gizlice yaklaşmalısınız."
+    },
+    {
+      "id": "8d9f7bb7",
+      "bank_id": "00b0b600",
+      "text": "<giggles> Murray'nin yorumlarıyla epey eğleneceğim."
+    },
+    {
+      "id": "8de0afbd",
+      "bank_id": "00b0b600",
+      "text": "Kuleye dikkatlice yaklaşmalısınız."
+    },
+    {
+      "id": "937ed020",
+      "bank_id": "00b0b600",
+      "text": "Acele et."
+    },
+    {
+      "id": "9517e680",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "9538c658",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "9617e873",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "9638c7cb",
+      "bank_id": "00b0b600",
+      "text": "Ona ne diyeceğim ben...? Asla anlamayacak, biliyorum."
+    },
+    {
+      "id": "967ed4f9",
+      "bank_id": "00b0b600",
+      "text": "Ayak uydurman gerek."
+    },
+    {
+      "id": "9817eb59",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "9838cb11",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "9917eccc",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "995e1830",
+      "bank_id": "00b0b600",
+      "text": "Parayı bulmalıyım. Parayı bulmalıyım. O parayı mutlaka almalıyım."
+    },
+    {
+      "id": "9b17f012",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "9b38cfea",
+      "bank_id": "00b0b600",
+      "text": "<sighs> Bıktım artık buradan..."
+    },
+    {
+      "id": "9b4c2878",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "9c17f185",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "9c38d15d",
+      "bank_id": "00b0b600",
+      "text": "Şehirde olsaydı böyle olmazdı..."
+    },
+    {
+      "id": "9c5e1c89",
+      "bank_id": "00b0b600",
+      "text": "Şu Denzil pisliğin teki. Bana hiç iyi davranmıyor."
+    },
+    {
+      "id": "9d4c2b5e",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "9e4c2d31",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "9eaf26f0",
+      "bank_id": "00b0b600",
+      "text": "<sighs> Ayaklarım koptu. Bir dahaki sefere masa başı iş bulacağım."
+    },
+    {
+      "id": "9f4c2ea4",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "9faf2863",
+      "bank_id": "00b0b600",
+      "text": "Patates almayı unutmamalıyım."
+    },
+    {
+      "id": "a04c3017",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "a0af29d6",
+      "bank_id": "00b0b600",
+      "text": "Hayatımda kazandığım en kolay para bu..."
+    },
+    {
+      "id": "a12c2a2a",
+      "bank_id": "00b0b600",
+      "text": "Bu mağaranın gizemleri gün yüzüne çıkarılmalı!"
+    },
+    {
+      "id": "a1af2b49",
+      "bank_id": "00b0b600",
+      "text": "O kotayı doldurmalıyım yoksa öldüm ben, evet..."
+    },
+    {
+      "id": "a24c337d",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "a2af2d3c",
+      "bank_id": "00b0b600",
+      "text": "Benim işimi yapacak birkaç enayi daha bulmam gerek..."
+    },
+    {
+      "id": "a393061d",
+      "bank_id": "00b0b600",
+      "text": "Bu yolkesenlerin icabına şimdi bakmazsanız onları bir daha asla bulamayabilirsiniz!"
+    },
+    {
+      "id": "a3fcbc43",
+      "bank_id": "00b0b600",
+      "text": "Şimdi ayrılamazsınız yoksa çocuğunuz bu korkunç hobbe'lerin elinde can verir!"
+    },
+    {
+      "id": "a456adc0",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "a45be590",
+      "bank_id": "00b0b600",
+      "text": "Geldik işte!"
+    },
+    {
+      "id": "a4af3002",
+      "bank_id": "00b0b600",
+      "text": "Lanet kıllı bacaklarım yine kaşınmaya başladı..."
+    },
+    {
+      "id": "a556afb3",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "a5af31f5",
+      "bank_id": "00b0b600",
+      "text": "Bakalım... Bu ay kaç tane aldık...? Ha evet, doğru."
+    },
+    {
+      "id": "a5e1568d",
+      "bank_id": "00b0b600",
+      "text": "Altın: %1 / %2"
+    },
+    {
+      "id": "a656b126",
+      "bank_id": "00b0b600",
+      "text": "<whistles>"
+    },
+    {
+      "id": "a756b299",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "a956b5ff",
+      "bank_id": "00b0b600",
+      "text": "<whistles>"
+    },
+    {
+      "id": "aa2498b7",
+      "bank_id": "00b0b600",
+      "text": "Hadi gidelim!"
+    },
+    {
+      "id": "aa56b752",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "ab249a2a",
+      "bank_id": "00b0b600",
+      "text": "Hadi davranın bakalım!"
+    },
+    {
+      "id": "ab56b8c5",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "ab80aca0",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "ac80ae13",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "ada0a8c0",
+      "bank_id": "00b0b600",
+      "text": "Hepsi senin suçun. Klasik. Tam bir klasik!"
+    },
+    {
+      "id": "ae80b179",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "af797ef5",
+      "bank_id": "00b0b600",
+      "text": "Kule'den kaçabilmek için önce bir gemi bulmalısınız!"
+    },
+    {
+      "id": "b056c0e4",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "b1d6bf79",
+      "bank_id": "00b0b600",
+      "text": "Cullis Geçidi devre dışı. Kuzeye geri dönüş yolu yok."
+    },
+    {
+      "id": "b3435740",
+      "bank_id": "00b0b600",
+      "text": "Etrafım aptallarla çevrili."
+    },
+    {
+      "id": "b528db9c",
+      "bank_id": "00b0b600",
+      "text": "Tanrı aşkına! O korkunç şeyler içeride bütün mallarımı yiyor. Yani o şeyler oradayken nasıl geçineceğim ben? İçerideki o iğrenç küçük kara şeyler bütün mallarımı yiyor."
+    },
+    {
+      "id": "b5435aa6",
+      "bank_id": "00b0b600",
+      "text": "Bana bir tatil lazım. Belki Westcliff? Bloodstone'a giden bir gemi bulabilir miyim acaba..."
+    },
+    {
+      "id": "b6435c19",
+      "bank_id": "00b0b600",
+      "text": "Lanet çiftçi. Neden bizim için işleri kolaylaştırmıyor sanki?"
+    },
+    {
+      "id": "b728dee2",
+      "bank_id": "00b0b600",
+      "text": "Küçük bir çocukken annem üstümü örterdi... Pijamamın altında bir şeylerin süründüğünü hissederdim... ve işte oradaydı! İğrenç küçük bir böcek!"
+    },
+    {
+      "id": "b7435d8c",
+      "bank_id": "00b0b600",
+      "text": "Bizim çocuklardan bazılarını Çile'ye satabilir miyim acaba. Sürekli hayduta ihtiyaç duyuyorlar."
+    },
+    {
+      "id": "b828e055",
+      "bank_id": "00b0b600",
+      "text": "O böcekleri dışarı çıkarmalıyım."
+    },
+    {
+      "id": "b8435f7f",
+      "bank_id": "00b0b600",
+      "text": "Birine ibretlik bir ceza vermenin vakti geldi galiba. Sayıların hepsi de Ethan'da."
+    },
+    {
+      "id": "b94360d2",
+      "bank_id": "00b0b600",
+      "text": "Şu lanet Giles'ın eski muhafız olduğuna kalıbımı basarım. Onu öldürmek için yeterli bir sebep."
+    },
+    {
+      "id": "ba436245",
+      "bank_id": "00b0b600",
+      "text": "Dört aydır yıkanmadım. Lider gibi kokuyorum."
+    },
+    {
+      "id": "bc6044e8",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "bf9a4ab7",
+      "bank_id": "00b0b600",
+      "text": "Devam edelim mi?"
+    },
+    {
+      "id": "c09a4c2a",
+      "bank_id": "00b0b600",
+      "text": "Şimdi durmamalıyız."
+    },
+    {
+      "id": "c1604c87",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "c1a158a4",
+      "bank_id": "00b0b600",
+      "text": "[sızlanır]"
+    },
+    {
+      "id": "c2604e7a",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "c2a389b9",
+      "bank_id": "00b0b600",
+      "text": "[iç çeker]"
+    },
+    {
+      "id": "c3604fed",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "c4a15d7d",
+      "bank_id": "00b0b600",
+      "text": "Anneciğim!"
+    },
+    {
+      "id": "c5e95353",
+      "bank_id": "00b0b600",
+      "text": "O kadar hızlı değil!"
+    },
+    {
+      "id": "c6e954c6",
+      "bank_id": "00b0b600",
+      "text": "Beni bekle!"
+    },
+    {
+      "id": "c7887597",
+      "bank_id": "00b0b600",
+      "text": "Kule'den kaçış yok."
+    },
+    {
+      "id": "c7a39158",
+      "bank_id": "00b0b600",
+      "text": "[iç çeker]"
+    },
+    {
+      "id": "c8a392cb",
+      "bank_id": "00b0b600",
+      "text": "[mırıldanır]"
+    },
+    {
+      "id": "c8c42d78",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "c97a98b9",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "c9a394be",
+      "bank_id": "00b0b600",
+      "text": "[homurdanır]"
+    },
+    {
+      "id": "cba39784",
+      "bank_id": "00b0b600",
+      "text": "[iç çeker]"
+    },
+    {
+      "id": "cbc43231",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "cca39977",
+      "bank_id": "00b0b600",
+      "text": "[mırıldanır]"
+    },
+    {
+      "id": "cda39aea",
+      "bank_id": "00b0b600",
+      "text": "[homurdanır]"
+    },
+    {
+      "id": "ce7aa058",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "cea39c5d",
+      "bank_id": "00b0b600",
+      "text": "[alay eder]"
+    },
+    {
+      "id": "cec32c87",
+      "bank_id": "00b0b600",
+      "text": "Şimdi durmanın sırası değil."
+    },
+    {
+      "id": "cf2e1c37",
+      "bank_id": "00b0b600",
+      "text": "Ana yoldan girmelisiniz."
+    },
+    {
+      "id": "cf7aa1cb",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "cfc32e7a",
+      "bank_id": "00b0b600",
+      "text": "Devam etmeliyiz."
+    },
+    {
+      "id": "d07aa3be",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "d27aa684",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "d37aa877",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "d47aa9ea",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "d57aab5d",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "dcaa7739",
+      "bank_id": "00b0b600",
+      "text": "Bu meyhanede insan susuzluktan ölebilir."
+    },
+    {
+      "id": "ddaa78ac",
+      "bank_id": "00b0b600",
+      "text": "İhtiyar Jack sırrı biliyor, size diyeyim... <coughs>"
+    },
+    {
+      "id": "deaa7a1f",
+      "bank_id": "00b0b600",
+      "text": "İhtiyar Jack'in deli olduğunu sanıyorlar ama değil."
+    },
+    {
+      "id": "dfaa7bf2",
+      "bank_id": "00b0b600",
+      "text": "Adil değil bu. Hiç adil değil diyorum size."
+    },
+    {
+      "id": "dfd635f0",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "e52c7e26",
+      "bank_id": "00b0b600",
+      "text": "Charles ile sonuna kadar gitmelisiniz."
+    },
+    {
+      "id": "e56110a8",
+      "bank_id": "00b0b600",
+      "text": "Hadi o zaman."
+    },
+    {
+      "id": "e7368380",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "e8368573",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "e8d643db",
+      "bank_id": "00b0b600",
+      "text": "<whistles>"
+    },
+    {
+      "id": "e93686e6",
+      "bank_id": "00b0b600",
+      "text": "<mantra-like hum>"
+    },
+    {
+      "id": "e9d6454e",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "ea368859",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "ead64721",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "ebd64894",
+      "bank_id": "00b0b600",
+      "text": "<harrumphs>"
+    },
+    {
+      "id": "ec368bbf",
+      "bank_id": "00b0b600",
+      "text": "<mantra-like hum>"
+    },
+    {
+      "id": "ecd64a07",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "ed368d12",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "ed720570",
+      "bank_id": "00b0b600",
+      "text": "Garth ve Hammer ile Bower Gölü Yolu'nda buluşmalısınız."
+    },
+    {
+      "id": "edd64bfa",
+      "bank_id": "00b0b600",
+      "text": "<whistles>"
+    },
+    {
+      "id": "ee368e85",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "eed64d6d",
+      "bank_id": "00b0b600",
+      "text": "<hums>"
+    },
+    {
+      "id": "f169bdbd",
+      "bank_id": "00b0b600",
+      "text": "Hadi gidelim!"
+    },
+    {
+      "id": "f33696a4",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "fad583f4",
+      "bank_id": "00b0b600",
+      "text": "Beni bekle!"
+    },
+    {
+      "id": "fc51e088",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "fd51e27b",
+      "bank_id": "00b0b600",
+      "text": "<sighs>"
+    },
+    {
+      "id": "fdd5884d",
+      "bank_id": "00b0b600",
+      "text": "Çok hızlısın!"
+    },
+    {
+      "id": "ff51e541",
+      "bank_id": "00b0b600",
+      "text": "<mutters>"
+    },
+    {
+      "id": "ffbde227",
+      "bank_id": "00b0b600",
+      "text": "Çok geç olmadan Gölgeler Tapınağı'nı durdurmalısınız!"
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "_meta": {
+    "project": "Fable II (Xbox 360) Türkçe Yama",
+    "description": "Albion Terimler Sözlüğü, Hitap ve Üslup Kuralları",
+    "version": "1.3",
+    "status": "approved"
+  },
+  "proper_names_untranslated": {
+    "_rule": "Kişi adları, lakaplar ve saf özel yer adları korunur.",
+    "Albion": "Albion",
+    "Bowerstone": "Bowerstone",
+    "Oakvale": "Oakvale",
+    "Westcliff": "Westcliff",
+    "Bloodstone": "Bloodstone",
+    "Wraithmarsh": "Wraithmarsh",
+    "Rookridge": "Rookridge",
+    "Brightwood": "Brightwood",
+    "Fairfax": "Fairfax",
+    "Guild": "Lonca",
+    "Heroes Guild": "Kahramanlar Loncası",
+    "Theresa": "Theresa",
+    "Lucien": "Lucien",
+    "Reaver": "Reaver",
+    "Hammer": "Hammer",
+    "Garth": "Garth",
+    "Rose": "Rose",
+    "Barnum": "Barnum",
+    "Giles": "Giles",
+    "Alex": "Alex",
+    "Captain Dread": "Kaptan Dread",
+    "Scythe": "Scythe",
+    "Bower Stones": "Bower Stones",
+    "Cornelius Grim": "Cornelius Grim",
+    "Ripper": "Ripper",
+    "Hannah": "Hannah",
+    "Kenneth": "Kenneth",
+    "Victor": "Victor",
+    "Victoria": "Victoria",
+    "Gordon": "Gordon",
+    "Jessica": "Jessica",
+    "Bob": "Bob",
+    "Murray": "Murray",
+    "Theodore": "Theodore",
+    "Augustus": "Augustus",
+    "Alvin": "Alvin",
+    "Ambrose": "Ambrose",
+    "Jack of Blades": "Jack of Blades",
+    "Archon": "Archon",
+    "Chesty": "Chesty",
+    "Rosalia": "Rosalia",
+    "Meredith Sock": "Meredith Sock",
+    "Alira": "Alira",
+    "Greta": "Greta",
+    "Mervin": "Mervin",
+    "Billy Greaser": "Billy Greaser",
+    "Jeeves": "Jeeves",
+    "Thag": "Thag",
+    "Susannah": "Susannah",
+    "Tommy": "Tommy",
+    "Gorgoron": "Gorgoron",
+    "Nora": "Nora",
+    "McGraw": "McGraw",
+    "Simon": "Simon",
+    "Betsy": "Betsy",
+    "Samarkand": "Samarkand",
+    "Whisper": "Whisper",
+    "Thunder": "Thunder",
+    "Beersock": "Beersock",
+    "Speck": "Speck",
+    "Spade": "Spade",
+    "Max": "Max",
+    "Sam": "Sam",
+    "Rupert": "Rupert",
+    "Joseph": "Joseph",
+    "Derek": "Derek",
+    "Arfur": "Arfur",
+    "Monty": "Monty",
+    "Belinda": "Belinda",
+    "Pete": "Pete",
+    "Oakfield": "Oakfield",
+    "Charles": "Charles",
+    "Charlie": "Charlie",
+    "Miggins": "Miggins",
+    "Dash": "Dash",
+    "Murgo": "Murgo",
+    "Balthazar": "Balthazar",
+    "Lady Grey": "Lady Grey",
+    "Belle": "Belle",
+    "Twinblade": "Twinblade",
+    "Sparrow": "Sparrow",
+    "Perilous Spandex": "Perilous Spandex",
+    "The Normanomicon": "Normanomicon",
+    "Normanomicon": "Normanomicon",
+    "Megafowl": "Megatavuk"
+  },
+  "geographical_names": {
+    "_rule": "Özel isim kısmı aynen kalır, genel coğrafi kelime çevrilir.",
+    "Knothole Island": "Knothole Adası",
+    "Bower Lake": "Bower Gölü",
+    "Bowerstone Market": "Bowerstone Pazarı",
+    "Bowerstone Old Town": "Bowerstone Eski Şehir",
+    "Bowerstone Cemetery": "Bowerstone Mezarlığı",
+    "Castle Fairfax": "Fairfax Kalesi",
+    "Fairfax Gardens": "Fairfax Bahçeleri",
+    "Bandit Coast": "Haydut Sahili"
+  },
+  "mechanics_and_attributes": {
+    "Strength": "Güç",
+    "Skill": "Beceri",
+    "Will": "İrade",
+    "Renown": "Ün",
+    "Morality": "Ahlak",
+    "Good": "İyi",
+    "Evil": "Kötü",
+    "Purity": "Saflık",
+    "Corruption": "Yozlaşma",
+    "Experience": "Deneyim",
+    "General Experience": "Genel Deneyim",
+    "Strength Experience": "Güç Puanı",
+    "Skill Experience": "Beceri Puanı",
+    "Will Experience": "İrade Puanı",
+    "Attractiveness": "Çekicilik",
+    "Scariness": "Korkutuculuk",
+    "Aging": "Yaşlanma",
+    "Health": "Can",
+    "Mana": "Mana",
+    "Damage": "Hasar",
+    "Flourish": "Gösterişli Vuruş",
+    "Aim mode": "Nişan Modu",
+    "Ability": "Yetenek",
+    "Abilities": "Yetenekler"
+  },
+  "spells_and_combat": {
+    "Time Control": "Zaman Kontrolü",
+    "Inferno": "Cehennem",
+    "Blades": "Kılıçlar",
+    "Vortex": "Girdap",
+    "Shock": "Şok",
+    "Chaos": "Kaos",
+    "Raise Dead": "Ölüleri Dirilt",
+    "Augment": "Efsun Taşı",
+    "Melee": "Yakın Dövüş",
+    "Ranged": "Menzilli",
+    "Brutal Style": "Gaddar Dövüş Tarzı",
+    "Dextrous Style": "Çevik Dövüş Tarzı"
+  },
+  "world_and_creatures": {
+    "Hero": "Kahraman",
+    "Spire": "Kule",
+    "Crucible": "Çile",
+    "Demon Door": "İblis Kapısı",
+    "Cullis Gate": "Cullis Geçidi",
+    "Gargoyle": "Çörten",
+    "Hobbe": "hobbe",
+    "Balverine": "balverine",
+    "Hollow Men": "Kof Adamlar",
+    "Banshee": "banshee",
+    "Troll": "trol",
+    "Shadow": "Gölge",
+    "Old Kingdom": "Eski Krallık",
+    "Temple of Light": "Işık Tapınağı",
+    "Temple of Shadows": "Gölgeler Tapınağı",
+    "Town Crier": "Tellal",
+    "Cow and Corset": "İnek ve Korse",
+    "Colosseum": "Kolezyum",
+    "Flitswitch": "Uçar Şalter",
+    "Weather Chamber": "Hava Odası",
+    "Henchman": "Yancı",
+    "The Box of Secrets": "Sırlar Kutusu",
+    "Storm Shrine": "Fırtına Mabedi",
+    "Sun Shrine": "Güneş Mabedi",
+    "Ice Shrine": "Buz Mabedi",
+    "Castle Fairfax": "Fairfax Kalesi",
+    "Brightwood Tower": "Brightwood Kulesi",
+    "Commandant": "Komutan",
+    "The Knights Aberrant": "Sapkın Şövalyeler",
+    "Knights Aberrant": "Sapkın Şövalyeler"
+  },
+  "social_and_expressions": {
+    "Expression": "İfade",
+    "Expression Wheel": "İfade Çarkı",
+    "Thumbs Up": "Başparmak Yukarı",
+    "Thumbs Down": "Başparmak Aşağı",
+    "Apologise": "Özür Dile",
+    "Threaten": "Tehdit Et",
+    "Follow": "Takip Et",
+    "Dismiss": "Yol Ver / Gönder",
+    "Gift": "Hediye",
+    "Trophy": "Kupa",
+    "Dog Collar": "Köpek Tasması",
+    "Dog Tricks": "Köpek Numaraları"
+  },
+  "forms_of_address": {
+    "system_and_ui": "Görev, ipucu ve sistem metinlerinde '-iniz / -ınız' emir kipi KULLANILMAZ. Standart '-in / -ın' kipi kullanılır (örn: 'Seçin', 'Basın', 'takip edin', 'öldürün', 'gidin', 'alın', 'kazanın').",
+    "npc_to_hero": {
+      "citizens_respectful": "Halk ünlü kahramana saygıyla 'siz' veya 'Efendim / Kahramanım' der.",
+      "citizens_fearful": "Kötü ve yozlaşmış kahramana korkuyla ve yalvararak hitap ederler.",
+      "bandits_and_villains": "Düşmanlar, haydutlar ve alaycı karakterler aşağılayıcı 'sen' kipi kullanır.",
+      "theresa": "Theresa kahramanın manevi rehberi olarak gizemli, kadim ve bilge bir üslupla 'sen' kipiyle hitap eder.",
+      "reaver": "Reaver kibirli, iğneleyici, züppe ve alaycı aristokrat üslubunu korur."
+    }
+  },
+  "pub_games": {
+    "_rule": "Tüm pub oyunu isimleri standart olarak çevrilir. İleride data/pubgames/ XML dosyaları çevrilirken bu isimler birebir aynı kullanılacaktır.",
+    "Fortune's Tower": "Talih Kulesi",
+    "Spinner Box": "Çarkıfelek Kutusu",
+    "Spinnerbox": "Çarkıfelek Kutusu",
+    "Keystone": "Kilit Taşı"
+  },
+  "creature_suffixes": {
+    "_rule": "Yaratık türü adları (hobbe, balverine, trol, banshee) cümle içinde küçük harfle yazılır (cümle başı hariç). Hobbe ve balverine ekleri HER ZAMAN kesme işareti ve İNCE ÜNLÜYLE gelir: hobbe'ler, hobbe'yi, hobbe'nin, hobbe'ye, hobbe'den; balverine'ler, balverine'i, balverine'in, balverine'e, balverine'den. Kalın ünlü (-lar, -u, -a, -dan vb.) KESİNLİKLE kullanılmaz. Trolün Türkçe yazımı 'trol'dür (çoğul: troller; ekler kesmesiz gelir: trolün, trole, trolden, trolleri). Sayıdan sonra çoğul eki gelmez: 'üç hobbe'yi öldürün'. Kesme işareti genel cins isimlere (tapınakta, kalede, mağarada) konmaz."
+  },
+  "character_accents_and_dialect": {
+    "rule": "Sarhoş, köylü, haydut, çingene, denizci gibi karakterlerin repliklerinde doğal konuşma dili, argo ve ağız kullanılır. Orijinal İngilizce metindeki şive ve kısaltmaların (yer, ya, 'em, ain't, mate) Türkçede canlı ve inandırıcı karşılıkları verilmelidir (örn: 'ne diyom', 'baksana bi', 'valla', 'gözünü oyar ha')."
+  },
+  "nicknames_and_titles": {
+    "_rule": "Büyük lore karakterleri aynen kalır (Reaver, Hammer, Scythe, Jack of Blades, Theresa). Komik ve tanımlayıcı lakaplar çevrilir.",
+    "Mad-dog": "Kuduz",
+    "Knock-out Nora": "Nakavt Nora",
+    "Gorgoron the Soulslicer": "Gorgoron Ruhbiçen",
+    "Crazy Tommy": "Deli Tommy",
+    "Nobhead": "Dangalak",
+    "Salad Dodger": "Salata Kaçkını",
+    "Lionheart": "Aslan Yürekli",
+    "Dog Lover": "Köpek Sever",
+    "Desperado": "Kanun Kaçağı",
+    "Fearmonger": "Korku Tellalı",
+    "Shadowfiend": "Gölge İblisi",
+    "Conjurer": "Sihirbaz",
+    "Joker": "Şakacı",
+    "Dumpling": "Lokum"
+  },
+  "language_register": {
+    "rule": "Karakter ve metin türüne göre dil kaydı (register) ayrımı uygulanır.",
+    "formal_and_archaic": "Lucien'ın günlükleri, kitaplar, tarih metinleri, soylular, Reaver: ağdalı/eski kelimeler (ehemmiyet, bilahare, mesul, vazife, istifade) kullanılabilir.",
+    "vernacular_and_common": "Köylüler, kasabalılar, meyhane müdavimleri, eşler, çocuklar, haydutlar, dedikodular: SADE günlük Türkçe kullanılır. 'mesul' yerine 'sorumlu/geldiği', 'işittim' yerine 'duydum', 'vazife' yerine 'iş/görev', 'ehemmiyet' yerine 'önem', 'istifade' yerine 'fayda/yarar' kullanılır."
+  },
+  "pronunciation_exceptions": {
+    "_rule": "Yazıldığı gibi okunmayan yabancı özel isimler ve terimlerde kesme işareti sonrası ek okunuşa göre gelir.",
+    "Reaver": {
+      "effective_vowel": "ı",
+      "example": "Reaver'ın, Reaver'a, Reaver'da"
+    },
+    "Giles": {
+      "effective_vowel": "ı",
+      "example": "Giles'ın, Giles'a, Giles'da"
+    },
+    "Hammer": {
+      "effective_vowel": "ı",
+      "example": "Hammer'ın, Hammer'a, Hammer'da"
+    },
+    "Bowerstone": {
+      "effective_vowel": "u",
+      "example": "Bowerstone'un, Bowerstone'a, Bowerstone'da, Bowerstone'dan"
+    },
+    "Bloodstone": {
+      "effective_vowel": "u",
+      "example": "Bloodstone'un, Bloodstone'a, Bloodstone'da, Bloodstone'dan"
+    },
+    "Knothole": {
+      "effective_vowel": "u",
+      "example": "Knothole'un, Knothole'a, Knothole'da"
+    },
+    "Rose": {
+      "effective_vowel": "u",
+      "example": "Rose'un, Rose'a, Rose'da"
+    },
+    "Theodore": {
+      "effective_vowel": "u",
+      "example": "Theodore'un, Theodore'a"
+    },
+    "Andrew": {
+      "effective_vowel": "u",
+      "example": "Andrew'nun, Andrew'ya"
+    },
+    "Harry": {
+      "effective_vowel": "i",
+      "example": "Harry'nin, Harry'ye"
+    },
+    "Johnny": {
+      "effective_vowel": "i",
+      "example": "Johnny'nin, Johnny'ye"
+    },
+    "Monty": {
+      "effective_vowel": "i",
+      "example": "Monty'nin, Monty'ye"
+    },
+    "Tommy": {
+      "effective_vowel": "i",
+      "example": "Tommy'nin, Tommy'ye"
+    },
+    "Murray": {
+      "effective_vowel": "i",
+      "example": "Murray'nin, Murray'ye"
+    },
+    "Charlie": {
+      "effective_vowel": "i",
+      "example": "Charlie'nin, Charlie'ye"
+    },
+    "Barnie": {
+      "effective_vowel": "i",
+      "example": "Barnie'nin, Barnie'ye"
+    },
+    "Oakvale": {
+      "effective_vowel": "e",
+      "example": "Oakvale'in, Oakvale'e, Oakvale'de, Oakvale'den"
+    },
+    "Oakfield": {
+      "effective_vowel": "i",
+      "example": "Oakfield'in, Oakfield'e, Oakfield'de, Oakfield'den"
+    },
+    "Jack": {
+      "effective_vowel": "e",
+      "example": "Jack'in, Jack'e"
+    },
+    "Sam": {
+      "effective_vowel": "e",
+      "example": "Sam'in, Sam'e"
+    },
+    "Dash": {
+      "effective_vowel": "e",
+      "example": "Dash'in, Dash'e"
+    },
+    "Charles": {
+      "effective_vowel": "ı",
+      "example": "Charles'ın, Charles'a"
+    },
+    "Ripper": {
+      "effective_vowel": "ı",
+      "example": "Ripper'ın, Ripper'a"
+    },
+    "Greaser": {
+      "effective_vowel": "ı",
+      "example": "Greaser'ın, Greaser'a"
+    },
+    "Rupert": {
+      "effective_vowel": "ı",
+      "example": "Rupert'ın, Rupert'a"
+    },
+    "Dread": {
+      "effective_vowel": "e",
+      "example": "Dread'in, Dread'e"
+    },
+    "Head": {
+      "effective_vowel": "e",
+      "example": "Head'in, Head'e"
+    },
+    "Wraithmarsh": {
+      "effective_vowel": "a",
+      "example": "Wraithmarsh'ın, Wraithmarsh'a, Wraithmarsh'ta, Wraithmarsh'tan"
+    },
+    "Thag": {
+      "effective_vowel": "a",
+      "example": "Thag'ın, Thag'a, Thag'dan"
+    },
+    "Spire": {
+      "effective_vowel": "a",
+      "example": "Spire'da, Spire'dan"
+    },
+    "hobbe": {
+      "effective_vowel": "e",
+      "example": "hobbe'ler, hobbe'yi, hobbe'nin, hobbe'ye, hobbe'den (daima ince ünlü)"
+    },
+    "balverine": {
+      "effective_vowel": "e",
+      "example": "balverine'ler, balverine'i, balverine'in, balverine'e, balverine'den (daima ince ünlü)"
+    },
+    "trol": {
+      "effective_vowel": "e",
+      "example": "troller, trolün, trole, trolden (daima ince ünlü)"
+    },
+    "Sparrow": {
+      "effective_vowel": "o",
+      "example": "Sparrow'un, Sparrow'a, Sparrow'dan"
+    },
+    "Victor": {
+      "effective_vowel": "o",
+      "example": "Victor'un, Victor'a, Victor'dan"
+    },
+    "Gordon": {
+      "effective_vowel": "u",
+      "example": "Gordon'un, Gordon'a, Gordon'da, Gordon'la (ek yazılışa göre gelir)"
+    }
+  },
+  "The Knights Aberrant": "Sapkın Şövalyeler",
+  "Knights Aberrant": "Sapkın Şövalyeler",
+  "Gordon": "Gordon",
+  "Sparrow": "Sparrow"
+}

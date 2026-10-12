@@ -1,0 +1,966 @@
+{
+  "bank_id": "d0ab3602",
+  "total_strings": 192,
+  "strings": [
+    {
+      "id": "0139a7d0",
+      "bank_id": "d0ab3602",
+      "text": "Çocukken buraya gelirdim. Şimdiyse bana tam bir erkek gibi hissettiriyorsun."
+    },
+    {
+      "id": "0139a7d1",
+      "bank_id": "d0ab3602",
+      "text": "Burası bana hep senin o tatlı halini hatırlatacak."
+    },
+    {
+      "id": "0139a7d2",
+      "bank_id": "d0ab3602",
+      "text": "Hayatımın en güzel anları hep burada geçti. Ve bu da onlardan biri."
+    },
+    {
+      "id": "0139a7d3",
+      "bank_id": "d0ab3602",
+      "text": "Bu muhitte özel ve gizemli bir şeyler var. Sende de öyle."
+    },
+    {
+      "id": "0139a7d4",
+      "bank_id": "d0ab3602",
+      "text": "Çok romantik. Hem de başka yer yokmuş gibi burada."
+    },
+    {
+      "id": "0139a7d6",
+      "bank_id": "d0ab3602",
+      "text": "Burası her zaman en sevdiğim yer olmuştur. Ve şimdi de öyle kalacak."
+    },
+    {
+      "id": "0139a7d7",
+      "bank_id": "d0ab3602",
+      "text": "Bunun için daha iyi bir yer seçemezdin seni cilveli şey."
+    },
+    {
+      "id": "03034760",
+      "bank_id": "d0ab3602",
+      "text": "Ah! Beni böyle korkutmandan hiç hoşlanmadığımı biliyorsun!"
+    },
+    {
+      "id": "03034762",
+      "bank_id": "d0ab3602",
+      "text": "Ah! Ödümü kopardın canım!"
+    },
+    {
+      "id": "03034763",
+      "bank_id": "d0ab3602",
+      "text": "Bu gidişle bir gün kalpten götüreceksin beni canım!"
+    },
+    {
+      "id": "03034764",
+      "bank_id": "d0ab3602",
+      "text": "Git de biraz yabancıları korkut, olmaz mı?"
+    },
+    {
+      "id": "03034765",
+      "bank_id": "d0ab3602",
+      "text": "Ne yapmaya çalışıyorsun sen?!"
+    },
+    {
+      "id": "03034766",
+      "bank_id": "d0ab3602",
+      "text": "Oh! Yapayalnız bir dul mu kalmak istiyorsun?"
+    },
+    {
+      "id": "03034767",
+      "bank_id": "d0ab3602",
+      "text": "Ah! Hadi ama canım. Böyle yapmaya hiç gerek yok."
+    },
+    {
+      "id": "0639aff0",
+      "bank_id": "d0ab3602",
+      "text": "Buradan hiç ayrılmak istemiyorum."
+    },
+    {
+      "id": "0639aff1",
+      "bank_id": "d0ab3602",
+      "text": "Keşke sonsuza dek burada seninle kalabilsem."
+    },
+    {
+      "id": "0639aff2",
+      "bank_id": "d0ab3602",
+      "text": "Bu eşsiz ortamda kalbimi eritiyorsun."
+    },
+    {
+      "id": "0639aff3",
+      "bank_id": "d0ab3602",
+      "text": "Bunca romantik his yüzünden bayılacak olsaydım, kesinlikle burada bayılmayı seçerdim."
+    },
+    {
+      "id": "0639aff5",
+      "bank_id": "d0ab3602",
+      "text": "Burası hep Albion'un en romantik köşelerinden biri olarak aklımda kalacak."
+    },
+    {
+      "id": "0639aff6",
+      "bank_id": "d0ab3602",
+      "text": "Çok cilvelisin, hem de en sevdiğim yerlerden birinde."
+    },
+    {
+      "id": "0639aff7",
+      "bank_id": "d0ab3602",
+      "text": "İşte romantizmin hayat bulduğu yer tam da burası."
+    },
+    {
+      "id": "10b2c188",
+      "bank_id": "d0ab3602",
+      "text": "<laughs> Gülmekten karnıma kramplar soktun canım!"
+    },
+    {
+      "id": "10b2c189",
+      "bank_id": "d0ab3602",
+      "text": "Hahaha! Bayağı komik biriyle evlenmişim meğer!"
+    },
+    {
+      "id": "10b2c18a",
+      "bank_id": "d0ab3602",
+      "text": "Haha, çok komik sevgilim."
+    },
+    {
+      "id": "10b2c18b",
+      "bank_id": "d0ab3602",
+      "text": "Hoho, kendime ait bir soytarım var sanki!"
+    },
+    {
+      "id": "10b2c18d",
+      "bank_id": "d0ab3602",
+      "text": "<laughs> Çok komiksin canım!"
+    },
+    {
+      "id": "10b2c18e",
+      "bank_id": "d0ab3602",
+      "text": "<laughs> Güzel espriydi sevgilim."
+    },
+    {
+      "id": "10b2c18f",
+      "bank_id": "d0ab3602",
+      "text": "Haha, resmen kopardın beni!"
+    },
+    {
+      "id": "1bb2d338",
+      "bank_id": "d0ab3602",
+      "text": "Hihi, sen hep benim soytarım olacaksın."
+    },
+    {
+      "id": "1bb2d339",
+      "bank_id": "d0ab3602",
+      "text": "Haha, hâlâ çok komiksin tatlım."
+    },
+    {
+      "id": "1bb2d33a",
+      "bank_id": "d0ab3602",
+      "text": "Hihi, ilahi, gerçekten çok komiksin."
+    },
+    {
+      "id": "1bb2d33b",
+      "bank_id": "d0ab3602",
+      "text": "Haha, zekanın sınırı yok sevgilim."
+    },
+    {
+      "id": "1bb2d33c",
+      "bank_id": "d0ab3602",
+      "text": "Haha, seninle evlenirken kahkahasız kalmayacağımı biliyordum."
+    },
+    {
+      "id": "1bb2d33e",
+      "bank_id": "d0ab3602",
+      "text": "Haha, tam bir soytarısın sevgilim."
+    },
+    {
+      "id": "1bb2d33f",
+      "bank_id": "d0ab3602",
+      "text": "Hoho, tam bir komedyenle evlenmişim doğrusu."
+    },
+    {
+      "id": "3026be30",
+      "bank_id": "d0ab3602",
+      "text": "Son zamanlarda sana ne kadar yakışıklı olduğunu söylemiş miydim?"
+    },
+    {
+      "id": "3026be31",
+      "bank_id": "d0ab3602",
+      "text": "Tam bir afetle evlenmişim doğrusu."
+    },
+    {
+      "id": "3026be33",
+      "bank_id": "d0ab3602",
+      "text": "Ooh, her zamanki gibi çok yakışıklısın."
+    },
+    {
+      "id": "3026be34",
+      "bank_id": "d0ab3602",
+      "text": "Senin gibi eşsiz bir varlıkla birleştiğim için çok şanslıyım."
+    },
+    {
+      "id": "3026be35",
+      "bank_id": "d0ab3602",
+      "text": "Geri çevirdiğim tüm taliplerin toplamından bile daha yakışıklısın."
+    },
+    {
+      "id": "3026be36",
+      "bank_id": "d0ab3602",
+      "text": "Tam bir afetle evlenmişim, haksız mıyım?"
+    },
+    {
+      "id": "3026be37",
+      "bank_id": "d0ab3602",
+      "text": "Seni baştan aşağı öpebilirim, sahiden yapabilirim."
+    },
+    {
+      "id": "3726c930",
+      "bank_id": "d0ab3602",
+      "text": "Ömrümde bu kadar kusursuz bir varlık görmedim. Seninle evlendiğim için çok şanslıyım."
+    },
+    {
+      "id": "3726c931",
+      "bank_id": "d0ab3602",
+      "text": "Seni görünce içimdeki arzu ateşini güçlükle zapt ediyorum."
+    },
+    {
+      "id": "3726c932",
+      "bank_id": "d0ab3602",
+      "text": "Böyle bir fıstıkla evlendiğime hâlâ inanamıyorum."
+    },
+    {
+      "id": "3726c933",
+      "bank_id": "d0ab3602",
+      "text": "Böyle bir güzelliği nasıl tavladım ama?"
+    },
+    {
+      "id": "3726c934",
+      "bank_id": "d0ab3602",
+      "text": "Böyle bir güzellikle evlendiğime hâlâ inanamıyorum."
+    },
+    {
+      "id": "3726c935",
+      "bank_id": "d0ab3602",
+      "text": "Sana bakmaktan asla bıkmıyorum hayatım."
+    },
+    {
+      "id": "3726c936",
+      "bank_id": "d0ab3602",
+      "text": "Hâlâ her zamanki gibi ateşlisin tatlım."
+    },
+    {
+      "id": "425760c0",
+      "bank_id": "d0ab3602",
+      "text": "Haha! Tam bir soytarısın sevgilim."
+    },
+    {
+      "id": "425760c1",
+      "bank_id": "d0ab3602",
+      "text": "Hoho, tam bir komedyenle evlenmişim doğrusu."
+    },
+    {
+      "id": "425760c2",
+      "bank_id": "d0ab3602",
+      "text": "Çok komiksin canım!"
+    },
+    {
+      "id": "425760c4",
+      "bank_id": "d0ab3602",
+      "text": "Hihi, ilahi, gerçekten çok komiksin."
+    },
+    {
+      "id": "425760c5",
+      "bank_id": "d0ab3602",
+      "text": "Haha, zekanın sınırı yok sevgilim."
+    },
+    {
+      "id": "425760c6",
+      "bank_id": "d0ab3602",
+      "text": "Hihi, sen hep benim soytarım olacaksın."
+    },
+    {
+      "id": "425760c7",
+      "bank_id": "d0ab3602",
+      "text": "<laughs> Hâlâ çok komiksin tatlım."
+    },
+    {
+      "id": "4b576f28",
+      "bank_id": "d0ab3602",
+      "text": "Haha, çok komik sevgilim."
+    },
+    {
+      "id": "4b576f29",
+      "bank_id": "d0ab3602",
+      "text": "Hoho, kendime ait bir soytarım var sanki!"
+    },
+    {
+      "id": "4b576f2a",
+      "bank_id": "d0ab3602",
+      "text": "Haha, gülmekten karnıma kramplar soktun canım!"
+    },
+    {
+      "id": "4b576f2b",
+      "bank_id": "d0ab3602",
+      "text": "Hahaha! Bayağı komik biriyle evlenmişim meğer!"
+    },
+    {
+      "id": "4b576f2c",
+      "bank_id": "d0ab3602",
+      "text": "Hoho, güzel espriydi bebeğim."
+    },
+    {
+      "id": "4b576f2d",
+      "bank_id": "d0ab3602",
+      "text": "Haha, resmen kopardın beni!"
+    },
+    {
+      "id": "4b576f2f",
+      "bank_id": "d0ab3602",
+      "text": "Haha, harikaydı tatlım!"
+    },
+    {
+      "id": "531552c0",
+      "bank_id": "d0ab3602",
+      "text": "Senin gibi eşsiz bir varlıkla birleştiğim için çok şanslıyım."
+    },
+    {
+      "id": "531552c1",
+      "bank_id": "d0ab3602",
+      "text": "Tüm Albion'un en güzel karısısın."
+    },
+    {
+      "id": "531552c2",
+      "bank_id": "d0ab3602",
+      "text": "Tam bir afetle evlenmişim, haksız mıyım?"
+    },
+    {
+      "id": "531552c3",
+      "bank_id": "d0ab3602",
+      "text": "Seni baştan aşağı öpebilirim, sahiden yapabilirim."
+    },
+    {
+      "id": "531552c4",
+      "bank_id": "d0ab3602",
+      "text": "Son zamanlarda sana ne kadar güzel olduğunu söylemiş miydim?"
+    },
+    {
+      "id": "531552c5",
+      "bank_id": "d0ab3602",
+      "text": "Tam bir afetle evlenmişim doğrusu."
+    },
+    {
+      "id": "531552c7",
+      "bank_id": "d0ab3602",
+      "text": "Her zamanki gibi çok güzelsin."
+    },
+    {
+      "id": "5a155dc8",
+      "bank_id": "d0ab3602",
+      "text": "Bu kadar yakışıklı biriyle evlendiğime hâlâ inanamıyorum."
+    },
+    {
+      "id": "5a155dc9",
+      "bank_id": "d0ab3602",
+      "text": "Sana bakmaktan asla bıkmıyorum sevgilim."
+    },
+    {
+      "id": "5a155dca",
+      "bank_id": "d0ab3602",
+      "text": "Hâlâ her zamanki gibi ateşlisin tatlım."
+    },
+    {
+      "id": "5a155dcc",
+      "bank_id": "d0ab3602",
+      "text": "Ömrümde bu kadar kusursuz bir varlık görmedim. Seninle evlendiğim için çok şanslıyım."
+    },
+    {
+      "id": "5a155dcd",
+      "bank_id": "d0ab3602",
+      "text": "Seni görünce içimdeki arzu ateşini güçlükle zapt ediyorum."
+    },
+    {
+      "id": "5a155dce",
+      "bank_id": "d0ab3602",
+      "text": "Böyle bir fıstıkla evlendiğime hâlâ inanamıyorum."
+    },
+    {
+      "id": "5a155dcf",
+      "bank_id": "d0ab3602",
+      "text": "Böyle bir kısmeti nasıl kaptım ama?"
+    },
+    {
+      "id": "75bf2350",
+      "bank_id": "d0ab3602",
+      "text": "Bu sevgi filan değil."
+    },
+    {
+      "id": "75bf2351",
+      "bank_id": "d0ab3602",
+      "text": "Hey, korkutma işlerini başkalarına sakla."
+    },
+    {
+      "id": "75bf2352",
+      "bank_id": "d0ab3602",
+      "text": "Oh! Öfkeni benden çıkarmaya kalkma sakın."
+    },
+    {
+      "id": "75bf2353",
+      "bank_id": "d0ab3602",
+      "text": "Sevdiğin insanı korkutmaya çalışmaktan utanmıyor musun?"
+    },
+    {
+      "id": "75bf2354",
+      "bank_id": "d0ab3602",
+      "text": "Beni neden korkutuyorsun ki?"
+    },
+    {
+      "id": "75bf2356",
+      "bank_id": "d0ab3602",
+      "text": "Sevgini göstermek için amma garip bir yol seçmişsin!"
+    },
+    {
+      "id": "75bf2357",
+      "bank_id": "d0ab3602",
+      "text": "Karını korkutma!"
+    },
+    {
+      "id": "797483e0",
+      "bank_id": "d0ab3602",
+      "text": "Unutma, ben senin kocanım!"
+    },
+    {
+      "id": "797483e1",
+      "bank_id": "d0ab3602",
+      "text": "Tamam canım, tamam. Bütün ev işlerini ben yapacağım!"
+    },
+    {
+      "id": "797483e3",
+      "bank_id": "d0ab3602",
+      "text": "Ahh! Bu resmen eşe şiddet!"
+    },
+    {
+      "id": "797483e4",
+      "bank_id": "d0ab3602",
+      "text": "Canım lütfen! Benim sinirlerim çok zayıftır!"
+    },
+    {
+      "id": "797483e5",
+      "bank_id": "d0ab3602",
+      "text": "Oh! Kahvaltıda işkembe verdiklerinden beri hiç bu kadar korkmamıştım."
+    },
+    {
+      "id": "797483e6",
+      "bank_id": "d0ab3602",
+      "text": "Böyle devam edersen bu evlilik pek uzun sürmez."
+    },
+    {
+      "id": "797483e7",
+      "bank_id": "d0ab3602",
+      "text": "Kocanı ne diye öyle korkutuyorsun ki?"
+    },
+    {
+      "id": "7abf2b70",
+      "bank_id": "d0ab3602",
+      "text": "Hey, korkutma işlerini başkalarına sakla."
+    },
+    {
+      "id": "7abf2b71",
+      "bank_id": "d0ab3602",
+      "text": "Bu sevgi filan değil."
+    },
+    {
+      "id": "7abf2b72",
+      "bank_id": "d0ab3602",
+      "text": "Oh! Öfkeni benden çıkarmaya kalkma sakın."
+    },
+    {
+      "id": "7abf2b73",
+      "bank_id": "d0ab3602",
+      "text": "Sevdiğin insanı korkutmaya çalışmaktan utanmıyor musun?"
+    },
+    {
+      "id": "7abf2b75",
+      "bank_id": "d0ab3602",
+      "text": "Beni neden korkutuyorsun ki?"
+    },
+    {
+      "id": "7abf2b76",
+      "bank_id": "d0ab3602",
+      "text": "Kocanı korkutma!"
+    },
+    {
+      "id": "7abf2b77",
+      "bank_id": "d0ab3602",
+      "text": "Sevgini göstermek için amma garip bir yol seçmişsin!"
+    },
+    {
+      "id": "7c747320",
+      "bank_id": "d0ab3602",
+      "text": "Burayı hep sevmişimdir seni romantik şey seni."
+    },
+    {
+      "id": "7c747321",
+      "bank_id": "d0ab3602",
+      "text": "Biraz romantizm için bundan daha iyi yer bulunmaz."
+    },
+    {
+      "id": "7c747324",
+      "bank_id": "d0ab3602",
+      "text": "Romantizm resmen topraktan fışkırıyor burada."
+    },
+    {
+      "id": "7c747326",
+      "bank_id": "d0ab3602",
+      "text": "Çok tatlısın. Keşke sonsuza dek burada kalabilsem."
+    },
+    {
+      "id": "7c747327",
+      "bank_id": "d0ab3602",
+      "text": "Çok tatlısın. Hem de bu harika yerde!"
+    },
+    {
+      "id": "80748ee0",
+      "bank_id": "d0ab3602",
+      "text": "Oh! Karını böyle tehdit etmeye nasıl cüret edersin!"
+    },
+    {
+      "id": "80748ee1",
+      "bank_id": "d0ab3602",
+      "text": "Lütfen canım! İliklerime kadar ürpertiyorsun beni!"
+    },
+    {
+      "id": "80748ee2",
+      "bank_id": "d0ab3602",
+      "text": "Karını korkutmaya kalkma sakın!"
+    },
+    {
+      "id": "80748ee3",
+      "bank_id": "d0ab3602",
+      "text": "Böyle devam edersen bu evlilik pek uzun sürmez."
+    },
+    {
+      "id": "80748ee4",
+      "bank_id": "d0ab3602",
+      "text": "Yapma! Korkutuyorsun beni!"
+    },
+    {
+      "id": "80748ee5",
+      "bank_id": "d0ab3602",
+      "text": "Beni öyle korkutma canım!"
+    },
+    {
+      "id": "80748ee6",
+      "bank_id": "d0ab3602",
+      "text": "Karına böyle davranamazsın!"
+    },
+    {
+      "id": "81747ac1",
+      "bank_id": "d0ab3602",
+      "text": "Bir yeri nasıl romantik kılacağını gerçekten iyi biliyorsun."
+    },
+    {
+      "id": "91027f60",
+      "bank_id": "d0ab3602",
+      "text": "Evlendiğimize pişman olmaya başlıyorum."
+    },
+    {
+      "id": "91027f61",
+      "bank_id": "d0ab3602",
+      "text": "Bizim konumumuzdaki insanlara hiç yakışmıyor bu."
+    },
+    {
+      "id": "91027f62",
+      "bank_id": "d0ab3602",
+      "text": "Nasıl oldu da seninle evlendim ben?!"
+    },
+    {
+      "id": "91027f63",
+      "bank_id": "d0ab3602",
+      "text": "Keşke bu lanet yüzüğü parmağıma hiç takmasaydım!"
+    },
+    {
+      "id": "91027f64",
+      "bank_id": "d0ab3602",
+      "text": "Yani bu evlilik dedikleri şey harbiden ömür boyu mu? Pfff."
+    },
+    {
+      "id": "91027f65",
+      "bank_id": "d0ab3602",
+      "text": "Şu yaptıklarını dışarıda yapsan olmaz mı canım?"
+    },
+    {
+      "id": "91027f67",
+      "bank_id": "d0ab3602",
+      "text": "Bazen bir tür trolle evlendiğimi düşünüyorum..."
+    },
+    {
+      "id": "95a74910",
+      "bank_id": "d0ab3602",
+      "text": "Oh, keser misin artık şunu!"
+    },
+    {
+      "id": "95a74911",
+      "bank_id": "d0ab3602",
+      "text": "Bu kadar hödük olma canım."
+    },
+    {
+      "id": "95a74913",
+      "bank_id": "d0ab3602",
+      "text": "Bu kadarı yetti artık canım!"
+    },
+    {
+      "id": "95a74914",
+      "bank_id": "d0ab3602",
+      "text": "Evlendiğimize pişman olmaya başlıyorum."
+    },
+    {
+      "id": "95a74915",
+      "bank_id": "d0ab3602",
+      "text": "Bizim konumumuzdaki insanlara hiç yakışmıyor bu."
+    },
+    {
+      "id": "95a74916",
+      "bank_id": "d0ab3602",
+      "text": "Nasıl oldu da seninle evlendim ben?!"
+    },
+    {
+      "id": "95a74917",
+      "bank_id": "d0ab3602",
+      "text": "Keşke bu yüzüğü parmağıma hiç takmasaydım!"
+    },
+    {
+      "id": "98028a68",
+      "bank_id": "d0ab3602",
+      "text": "Öff, bunu illa burada mı yapman gerek?"
+    },
+    {
+      "id": "98028a69",
+      "bank_id": "d0ab3602",
+      "text": "Başka bir şeyle uğraşsan nasıl olur acaba?"
+    },
+    {
+      "id": "98028a6a",
+      "bank_id": "d0ab3602",
+      "text": "Bunu yapmak zorunda mısın canım gerçekten?"
+    },
+    {
+      "id": "98028a6c",
+      "bank_id": "d0ab3602",
+      "text": "Canımı sıkmaya başlıyorsun canım."
+    },
+    {
+      "id": "98028a6d",
+      "bank_id": "d0ab3602",
+      "text": "Lütfen sokakta büyümüş bir ahmak gibi davranmayı bırak. Biz medeni insanlarız."
+    },
+    {
+      "id": "98028a6e",
+      "bank_id": "d0ab3602",
+      "text": "Midemi bulandırıyorsun canım."
+    },
+    {
+      "id": "98028a6f",
+      "bank_id": "d0ab3602",
+      "text": "Şu iğrençliklerini başka yerde yapamaz mısın canım?"
+    },
+    {
+      "id": "9b8fbf39",
+      "bank_id": "d0ab3602",
+      "text": "Nelerden hoşlandığımı çok iyi biliyorsun, değil mi?"
+    },
+    {
+      "id": "9b8fbf3a",
+      "bank_id": "d0ab3602",
+      "text": "Oh, bu harika sevgilim!"
+    },
+    {
+      "id": "9b8fbf3b",
+      "bank_id": "d0ab3602",
+      "text": "İşte bu yüzden evliliğimiz yürüyor."
+    },
+    {
+      "id": "9b8fbf3c",
+      "bank_id": "d0ab3602",
+      "text": "Bak, işte seninle bu yüzden evlendim."
+    },
+    {
+      "id": "9c2f2a28",
+      "bank_id": "d0ab3602",
+      "text": "İşte seninle bu yüzden evlendim ben!"
+    },
+    {
+      "id": "9c2f2a29",
+      "bank_id": "d0ab3602",
+      "text": "Ahh, tam bir hazinesin sen."
+    },
+    {
+      "id": "9c2f2a2a",
+      "bank_id": "d0ab3602",
+      "text": "Oh, çok güzel canım."
+    },
+    {
+      "id": "9c2f2a2b",
+      "bank_id": "d0ab3602",
+      "text": "Harika tatlım, tek kelimeyle harika."
+    },
+    {
+      "id": "9c2f2a2d",
+      "bank_id": "d0ab3602",
+      "text": "Harika hayatım."
+    },
+    {
+      "id": "9c2f2a2e",
+      "bank_id": "d0ab3602",
+      "text": "Oh, ne kadar hoş değil mi?"
+    },
+    {
+      "id": "9c2f2a2f",
+      "bank_id": "d0ab3602",
+      "text": "Bayıldım buna!"
+    },
+    {
+      "id": "9ca75410",
+      "bank_id": "d0ab3602",
+      "text": "Canımı sıkmaya başlıyorsun canım."
+    },
+    {
+      "id": "9ca75411",
+      "bank_id": "d0ab3602",
+      "text": "Lütfen sokakta büyümüş bir ahmak gibi davranmayı bırak."
+    },
+    {
+      "id": "9ca75412",
+      "bank_id": "d0ab3602",
+      "text": "Midemi bulandırıyorsun canım."
+    },
+    {
+      "id": "9ca75413",
+      "bank_id": "d0ab3602",
+      "text": "Şu iğrençliklerini başka yerde yapamaz mısın?"
+    },
+    {
+      "id": "9ca75414",
+      "bank_id": "d0ab3602",
+      "text": "Öff, bunu illa burada mı yapman gerek?"
+    },
+    {
+      "id": "9ca75415",
+      "bank_id": "d0ab3602",
+      "text": "Başka bir şeyle uğraşsan nasıl olur sevgilim?"
+    },
+    {
+      "id": "9ca75416",
+      "bank_id": "d0ab3602",
+      "text": "Bunu yapmak zorunda mısın canım gerçekten?"
+    },
+    {
+      "id": "a72f3b58",
+      "bank_id": "d0ab3602",
+      "text": "Tam bir hazinesin doğrusu."
+    },
+    {
+      "id": "a72f3b59",
+      "bank_id": "d0ab3602",
+      "text": "Seninle bir sebep yüzünden evlendiğimi biliyordum!"
+    },
+    {
+      "id": "a72f3b5a",
+      "bank_id": "d0ab3602",
+      "text": "Ah, her geçen gün içimi daha da ferahlatıyorsun."
+    },
+    {
+      "id": "a72f3b5b",
+      "bank_id": "d0ab3602",
+      "text": "Ahh, çok güzel sevgilim."
+    },
+    {
+      "id": "a72f3b5c",
+      "bank_id": "d0ab3602",
+      "text": "Harika canım."
+    },
+    {
+      "id": "a72f3b5e",
+      "bank_id": "d0ab3602",
+      "text": "Şahane bir şey bu."
+    },
+    {
+      "id": "a72f3b5f",
+      "bank_id": "d0ab3602",
+      "text": "Harika sevgilim."
+    },
+    {
+      "id": "c7a47751",
+      "bank_id": "d0ab3602",
+      "text": "Haha! Beni nasıl güldüreceğini çok iyi biliyorsun."
+    },
+    {
+      "id": "c7a47752",
+      "bank_id": "d0ab3602",
+      "text": "Bazen ne kadar komik olduğunu unutuyorum sevgilim!"
+    },
+    {
+      "id": "c7a47753",
+      "bank_id": "d0ab3602",
+      "text": "Haha. Şakalar yapmana bayılıyorum."
+    },
+    {
+      "id": "c7a47754",
+      "bank_id": "d0ab3602",
+      "text": "Haha. Bir soytarıyla evlenmişim gibi."
+    },
+    {
+      "id": "c7a47755",
+      "bank_id": "d0ab3602",
+      "text": "Haha. Aşk ne komik şey değil mi?"
+    },
+    {
+      "id": "c7a47756",
+      "bank_id": "d0ab3602",
+      "text": "Haha. Bir evlilikte kahkaha olması çok faydalıdır."
+    },
+    {
+      "id": "c7a47757",
+      "bank_id": "d0ab3602",
+      "text": "Haha. Kimse beni senin gibi güldüremez canım."
+    },
+    {
+      "id": "d2a48880",
+      "bank_id": "d0ab3602",
+      "text": "<laughs> Beni nasıl güldüreceğini çok iyi biliyorsun."
+    },
+    {
+      "id": "d2a48882",
+      "bank_id": "d0ab3602",
+      "text": "Haha. Şakalar yapmana bayılıyorum."
+    },
+    {
+      "id": "d2a48883",
+      "bank_id": "d0ab3602",
+      "text": "Bazen ne kadar komik olduğunu unutuyorum sevgilim!"
+    },
+    {
+      "id": "d2a48884",
+      "bank_id": "d0ab3602",
+      "text": "Haha. Aşk ne komik şey değil mi?"
+    },
+    {
+      "id": "d2a48885",
+      "bank_id": "d0ab3602",
+      "text": "Haha. Bir soytarıyla evlenmişim gibi."
+    },
+    {
+      "id": "d2a48886",
+      "bank_id": "d0ab3602",
+      "text": "Haha. Kimse beni senin gibi güldüremez canım."
+    },
+    {
+      "id": "d2a48887",
+      "bank_id": "d0ab3602",
+      "text": "Haha. Bir evlilikte kahkaha olması çok makbuldür."
+    },
+    {
+      "id": "d74df7d0",
+      "bank_id": "d0ab3602",
+      "text": "Ömür boyu sürecek bir beraberlikte insan nelere katlanmak zorunda kalıyor böyle?"
+    },
+    {
+      "id": "d74df7d1",
+      "bank_id": "d0ab3602",
+      "text": "Böyle anlarda evliliğin sonuçlarını keşke daha etraflıca düşünseydim diyorum."
+    },
+    {
+      "id": "d74df7d2",
+      "bank_id": "d0ab3602",
+      "text": "Ben bununla mı evlendim yani?"
+    },
+    {
+      "id": "d74df7d3",
+      "bank_id": "d0ab3602",
+      "text": "Evlilik hayatı kolay değil demelerine şaşmamalı."
+    },
+    {
+      "id": "d74df7d4",
+      "bank_id": "d0ab3602",
+      "text": "Sahi, sen kaç yaşındasın canım?"
+    },
+    {
+      "id": "d74df7d5",
+      "bank_id": "d0ab3602",
+      "text": "Büyü artık biraz."
+    },
+    {
+      "id": "d74df7d7",
+      "bank_id": "d0ab3602",
+      "text": "Ah lütfen canım. Uslu dur!"
+    },
+    {
+      "id": "de4e02d8",
+      "bank_id": "d0ab3602",
+      "text": "Büyü artık biraz."
+    },
+    {
+      "id": "de4e02d9",
+      "bank_id": "d0ab3602",
+      "text": "Sahi, sen kaç yaşındasın canım?"
+    },
+    {
+      "id": "de4e02da",
+      "bank_id": "d0ab3602",
+      "text": "Lütfen canım. Uslu dur."
+    },
+    {
+      "id": "de4e02dc",
+      "bank_id": "d0ab3602",
+      "text": "Böyle anlarda evliliğin sonuçlarını keşke daha etraflıca düşünseydim diyorum."
+    },
+    {
+      "id": "de4e02dd",
+      "bank_id": "d0ab3602",
+      "text": "Ömür boyu sürecek bir beraberlikte insan nelere katlanmak zorunda kalıyor böyle?"
+    },
+    {
+      "id": "de4e02de",
+      "bank_id": "d0ab3602",
+      "text": "Evlilik hayatı kolay değil demelerine şaşmamalı."
+    },
+    {
+      "id": "de4e02df",
+      "bank_id": "d0ab3602",
+      "text": "Ben bununla mı evlendim yani?"
+    },
+    {
+      "id": "f8033631",
+      "bank_id": "d0ab3602",
+      "text": "Beni neden korkutuyorsun ki?!"
+    },
+    {
+      "id": "f8033632",
+      "bank_id": "d0ab3602",
+      "text": "Hiç komik değil!"
+    },
+    {
+      "id": "f8033633",
+      "bank_id": "d0ab3602",
+      "text": "Neden beni korkutmaya çalışıyorsun?"
+    },
+    {
+      "id": "f8033634",
+      "bank_id": "d0ab3602",
+      "text": "Karına öyle şeyler yapma sakın!"
+    },
+    {
+      "id": "f8033635",
+      "bank_id": "d0ab3602",
+      "text": "Ödümü koparmayı neden istedin ki??"
+    },
+    {
+      "id": "f8033636",
+      "bank_id": "d0ab3602",
+      "text": "Ben senin karınım! Hatırladın mı?"
+    },
+    {
+      "id": "f8033637",
+      "bank_id": "d0ab3602",
+      "text": "Lütfen! Sinirlerimi düşün biraz!"
+    }
+  ]
+}

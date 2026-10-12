@@ -1,0 +1,756 @@
+{
+  "bank_id": "10b2b600",
+  "total_strings": 150,
+  "strings": [
+    {
+      "id": "00569b18",
+      "bank_id": "10b2b600",
+      "text": "Aferin!"
+    },
+    {
+      "id": "01569c8b",
+      "bank_id": "10b2b600",
+      "text": "İşte hakladık onları."
+    },
+    {
+      "id": "024966b3",
+      "bank_id": "10b2b600",
+      "text": "Onu fena uçurdu!"
+    },
+    {
+      "id": "024966b8",
+      "bank_id": "10b2b600",
+      "text": "Onu fena uçurdu!"
+    },
+    {
+      "id": "02ffa262",
+      "bank_id": "10b2b600",
+      "text": "Westcliff Yolu"
+    },
+    {
+      "id": "04c375c1",
+      "bank_id": "10b2b600",
+      "text": "Bu seferki saldırısı savuşturuldu. Bundan daha iyisini yapması gerekecek."
+    },
+    {
+      "id": "04c375ca",
+      "bank_id": "10b2b600",
+      "text": "Bu seferki saldırısı savuşturuldu. Bundan daha iyisini yapması gerekecek."
+    },
+    {
+      "id": "0556a337",
+      "bank_id": "10b2b600",
+      "text": "Evet! Öldür onları!"
+    },
+    {
+      "id": "0656a4aa",
+      "bank_id": "10b2b600",
+      "text": "Aynen öyle! Öldür onu! Öldür onu!"
+    },
+    {
+      "id": "072408d6",
+      "bank_id": "10b2b600",
+      "text": "Bu öldürüş onun özgüvenine çok iyi gelecek! Cesede pek yaramayacak gerçi."
+    },
+    {
+      "id": "072408dd",
+      "bank_id": "10b2b600",
+      "text": "Bu öldürüş onun özgüvenine çok iyi gelecek! Cesede pek yaramayacak gerçi."
+    },
+    {
+      "id": "07565b88",
+      "bank_id": "10b2b600",
+      "text": "Ne oldu, korktun mu? Hadi ama! Alt tarafı biraz öleceksin. Bir gün olması şart."
+    },
+    {
+      "id": "0756a61d",
+      "bank_id": "10b2b600",
+      "text": "Oh! Çok güçlüsün!"
+    },
+    {
+      "id": "08565d7b",
+      "bank_id": "10b2b600",
+      "text": "Girin içeri o halde. Ne bekliyorsunuz?"
+    },
+    {
+      "id": "09565eee",
+      "bank_id": "10b2b600",
+      "text": "Onları bekletme. Yeni bir isyanla uğraşmak istemiyorum."
+    },
+    {
+      "id": "0cf024ed",
+      "bank_id": "10b2b600",
+      "text": "Haklı. Merhamet gösterme ve oradan çabucak çık."
+    },
+    {
+      "id": "1218d454",
+      "bank_id": "10b2b600",
+      "text": "MU: Evet! Bir kafa kesme davetimiz olduğunun farkında değildim. Sen farkında mıydın, Kuduz? MAD: Tam yerin üstüne doğru gidiyor başı. MU: Evet."
+    },
+    {
+      "id": "1318d5c7",
+      "bank_id": "10b2b600",
+      "text": "MU: Vay canına! Ne biçim bir kafa uçurmaydı o. MAD: Kafa da doğrudan koptu gitti."
+    },
+    {
+      "id": "1423c437",
+      "bank_id": "10b2b600",
+      "text": "Yere serdi! Orada acayip bir hareket yaptı."
+    },
+    {
+      "id": "1423c43c",
+      "bank_id": "10b2b600",
+      "text": "Yere serdi! Orada acayip bir hareket yaptı."
+    },
+    {
+      "id": "1518d92d",
+      "bank_id": "10b2b600",
+      "text": "Ooooh! Kafa koptu! Tekrar ediyorum: kafa koptu!"
+    },
+    {
+      "id": "1885d6d4",
+      "bank_id": "10b2b600",
+      "text": "Nee?! Bizi doğruca bir tuzağa çekiyordu! Bence onu bulup canına okumalıyız!"
+    },
+    {
+      "id": "1a70a01e",
+      "bank_id": "10b2b600",
+      "text": "MU: Oh! Seyirci buna bayıldı! MAD: Tek hamlede öldürme tam da böyle yapılır işte."
+    },
+    {
+      "id": "1b70a1f1",
+      "bank_id": "10b2b600",
+      "text": "Hiç şansı yoktu. Anında öldü."
+    },
+    {
+      "id": "1c70a364",
+      "bank_id": "10b2b600",
+      "text": "Ne hareketti ama! Tek vuruşta indirdi!"
+    },
+    {
+      "id": "1d70a4d7",
+      "bank_id": "10b2b600",
+      "text": "Burada vakit kaybetmek yok! Tek hamlede öldürdü!"
+    },
+    {
+      "id": "1f70a83d",
+      "bank_id": "10b2b600",
+      "text": "MU: Ve tek hamlede indirdi! MAD: Ne? Onu kaçırdım ben."
+    },
+    {
+      "id": "20207313",
+      "bank_id": "10b2b600",
+      "text": "Ah, merhaba! Er ya da geç buraya düşeceğini bilmeliydim."
+    },
+    {
+      "id": "21207486",
+      "bank_id": "10b2b600",
+      "text": "Hakkında şarkı söyleyecek Çile dövüşçüleri arıyordum ama belki önce bu çetin diyarda senin adını yayabilirim."
+    },
+    {
+      "id": "22187bc0",
+      "bank_id": "10b2b600",
+      "text": "Westcliff'teki Çile'ye girmeli ve oradan zaferle ayrılmalısın."
+    },
+    {
+      "id": "22207679",
+      "bank_id": "10b2b600",
+      "text": "Ne de olsa benim bir numaralı ilham perimsin."
+    },
+    {
+      "id": "23187db3",
+      "bank_id": "10b2b600",
+      "text": "Kule'ye girmenin tek yolu bu; Garth'a ulaşıp onu kurtarmanın tek yolu."
+    },
+    {
+      "id": "23187db6",
+      "bank_id": "10b2b600",
+      "text": "Nihayet! Biraz aksiyon!"
+    },
+    {
+      "id": "232077ec",
+      "bank_id": "10b2b600",
+      "text": "Maceralarına katılmama izin ver, çok geçmeden bütün Westcliff senin kudretli kahramanlıklarını duysun... her zamanki gibi küçük bir ücret karşılığında tabii."
+    },
+    {
+      "id": "24187f26",
+      "bank_id": "10b2b600",
+      "text": "Brightwood'daki Haydut Yolu'nda buluşalım."
+    },
+    {
+      "id": "2420795f",
+      "bank_id": "10b2b600",
+      "text": "Ne dersin? Ücretlerim hâlâ çok makul."
+    },
+    {
+      "id": "25188099",
+      "bank_id": "10b2b600",
+      "text": "Oraya en son varan kokuşmuş bir hobbe olsun!"
+    },
+    {
+      "id": "2618820c",
+      "bank_id": "10b2b600",
+      "text": "Bu araştırma paha biçilemez olacak."
+    },
+    {
+      "id": "26322ae6",
+      "bank_id": "10b2b600",
+      "text": "Vaktin olduğunda ilgini çekebilecek pek çok şey var içinde. Şimdilik Westcliff'e doğru ilerle."
+    },
+    {
+      "id": "271883ff",
+      "bank_id": "10b2b600",
+      "text": "Sen uzaktayken ben tercüme edeceğim."
+    },
+    {
+      "id": "28188552",
+      "bank_id": "10b2b600",
+      "text": "Döndüğünde günlüğü okuyabilirsin, istersen."
+    },
+    {
+      "id": "291886c5",
+      "bank_id": "10b2b600",
+      "text": "Şimdi..."
+    },
+    {
+      "id": "2a1888b8",
+      "bank_id": "10b2b600",
+      "text": "Hevesi kaçmadan onun peşinden gitmelisin. Gerçi hiç hevesi kaçar mı bilmem."
+    },
+    {
+      "id": "2fab811e",
+      "bank_id": "10b2b600",
+      "text": "İyi iş."
+    },
+    {
+      "id": "2ffab551",
+      "bank_id": "10b2b600",
+      "text": "MU: Ne öldürüş ama! Gözlerindeki kana susamışlığı görebilirsiniz! MAD: Seninkiler kadar fena değil Murray."
+    },
+    {
+      "id": "2ffab55a",
+      "bank_id": "10b2b600",
+      "text": "MU: Ne öldürüş ama! Gözlerindeki kana susamışlığı görebilirsiniz! MAD: Seninkiler kadar fena değil Murray."
+    },
+    {
+      "id": "358d3f2a",
+      "bank_id": "10b2b600",
+      "text": "YOLKESEN"
+    },
+    {
+      "id": "36e34a5a",
+      "bank_id": "10b2b600",
+      "text": "Çocuklarımı öldürdün... ve bunun acısını çekeceksin."
+    },
+    {
+      "id": "3c721ba3",
+      "bank_id": "10b2b600",
+      "text": "MU: Hiç merhamet göstermedi orada! Tam bir leş! MAD: Zaten merhamet göstermemesi gerek. MU: Yok, orada haklısın Kuduz."
+    },
+    {
+      "id": "3c721ba8",
+      "bank_id": "10b2b600",
+      "text": "MU: Hiç merhamet göstermedi orada! Tam bir leş! MAD: Zaten merhamet göstermemesi gerek. MU: Yok, orada haklısın Kuduz."
+    },
+    {
+      "id": "3c7c7af6",
+      "bank_id": "10b2b600",
+      "text": "Hayır! Ayağa kalk! Ayağa kalk!"
+    },
+    {
+      "id": "3e7c7ddc",
+      "bank_id": "10b2b600",
+      "text": "Lütfen! Kalk! Zavallı Robert'im!"
+    },
+    {
+      "id": "3f7c7f4f",
+      "bank_id": "10b2b600",
+      "text": "Oğlum! Ona yardım etmeliyiz!"
+    },
+    {
+      "id": "417c8295",
+      "bank_id": "10b2b600",
+      "text": "Ayağa kalkmak zorundasın!"
+    },
+    {
+      "id": "44e6e248",
+      "bank_id": "10b2b600",
+      "text": "Kusura bakma, kendimi biraz fazla kaptırdım."
+    },
+    {
+      "id": "45e6e43b",
+      "bank_id": "10b2b600",
+      "text": "Baskın avantajını bozmuş olabilirim orada."
+    },
+    {
+      "id": "46e6e5ae",
+      "bank_id": "10b2b600",
+      "text": "Onu indirebileceğini düşünüyor musun?"
+    },
+    {
+      "id": "47e6e701",
+      "bank_id": "10b2b600",
+      "text": "Ah, herifler vurdu beni."
+    },
+    {
+      "id": "48b0df50",
+      "bank_id": "10b2b600",
+      "text": "Mağaraya girin."
+    },
+    {
+      "id": "48b0df51",
+      "bank_id": "10b2b600",
+      "text": "Hammer ile Westcliff'e seyahat edin."
+    },
+    {
+      "id": "48b0df54",
+      "bank_id": "10b2b600",
+      "text": "Lonca'ya dönün."
+    },
+    {
+      "id": "48b0df56",
+      "bank_id": "10b2b600",
+      "text": "Brightwood'da Hammer ile buluşun."
+    },
+    {
+      "id": "48b0df57",
+      "bank_id": "10b2b600",
+      "text": "Lucien'in günlüğünü Theresa'ya verin."
+    },
+    {
+      "id": "48e6e8f4",
+      "bank_id": "10b2b600",
+      "text": "Yine bela..."
+    },
+    {
+      "id": "4971d780",
+      "bank_id": "10b2b600",
+      "text": "MU: Ne deviriş ama! Bundan epey memnun kalacak. MAD: Evet. Evet, kalacak."
+    },
+    {
+      "id": "4971d78b",
+      "bank_id": "10b2b600",
+      "text": "MU: Ne deviriş ama! Bundan epey memnun kalacak. MAD: Evet. Evet, kalacak."
+    },
+    {
+      "id": "49e6ea67",
+      "bank_id": "10b2b600",
+      "text": "Ah! Bu gerçekten acıttı!"
+    },
+    {
+      "id": "4ae6ebda",
+      "bank_id": "10b2b600",
+      "text": "O kadar da zorlu görünmüyor."
+    },
+    {
+      "id": "4be6ed4d",
+      "bank_id": "10b2b600",
+      "text": "Şu meşhur barikat bu olmalı."
+    },
+    {
+      "id": "4e4c7927",
+      "bank_id": "10b2b600",
+      "text": "Onu tıpkı bir böceği ezer gibi öldürdü."
+    },
+    {
+      "id": "4e4c792c",
+      "bank_id": "10b2b600",
+      "text": "Onu tıpkı bir böceği ezer gibi öldürdü."
+    },
+    {
+      "id": "58e0a98f",
+      "bank_id": "10b2b600",
+      "text": "Ben yolu açarken sen de o şeylerden daha fazla gelip gelmediğine dikkat et."
+    },
+    {
+      "id": "5a31ba64",
+      "bank_id": "10b2b600",
+      "text": "(çığlık atar)"
+    },
+    {
+      "id": "5bfeca50",
+      "bank_id": "10b2b600",
+      "text": "Tekrar hoş geldin. Günlüğü bulmanın çok zor olmadığını umuyorum? Şimdi onu bana getir... senin için tercüme edeceğim."
+    },
+    {
+      "id": "5dfecdb6",
+      "bank_id": "10b2b600",
+      "text": "Bunu okuyabiliyor musun? Ama... gözlerin, bilirsin ya..."
+    },
+    {
+      "id": "5ffed09c",
+      "bank_id": "10b2b600",
+      "text": "Ve diğer dünyalarda görebiliyor musun? Anlamıyorum."
+    },
+    {
+      "id": "60fed20f",
+      "bank_id": "10b2b600",
+      "text": "Ben bu dünyadan başka dünyaları görüyorum."
+    },
+    {
+      "id": "61fed3e2",
+      "bank_id": "10b2b600",
+      "text": "Westcliff. Lucien muhafızlarını Westcliff'ten topluyor."
+    },
+    {
+      "id": "62fed555",
+      "bank_id": "10b2b600",
+      "text": "Şşt!"
+    },
+    {
+      "id": "63fed6c8",
+      "bank_id": "10b2b600",
+      "text": "Çile. Onu kazananlar bedenen güçlü, zihnen ise zayıftır. Lucien kazananları muhafız olarak topluyor."
+    },
+    {
+      "id": "648ec8f0",
+      "bank_id": "10b2b600",
+      "text": "Hadi, haklayalım şunları!"
+    },
+    {
+      "id": "64fed8bb",
+      "bank_id": "10b2b600",
+      "text": "Hadi ama! Westcliff bir çöplük, kavgacılar ve haydutlarla dolu. Oradaki tek şey şu arena."
+    },
+    {
+      "id": "65e20f42",
+      "bank_id": "10b2b600",
+      "text": "Onları biraz daha oyala. Buradan çıkıyoruz."
+    },
+    {
+      "id": "668ecbd6",
+      "bank_id": "10b2b600",
+      "text": "Tamam... lütfen acele et!"
+    },
+    {
+      "id": "66e21135",
+      "bank_id": "10b2b600",
+      "text": "Gidelim, ayrılıyoruz."
+    },
+    {
+      "id": "678ecd49",
+      "bank_id": "10b2b600",
+      "text": "Matmazel, siz geride durun, bunu biz hallederiz!"
+    },
+    {
+      "id": "76703fb3",
+      "bank_id": "10b2b600",
+      "text": "Oh, saldırısının böyle savuşturulmasına hiç sevinmeyecek!"
+    },
+    {
+      "id": "76703fb8",
+      "bank_id": "10b2b600",
+      "text": "Oh, saldırısının böyle savuşturulmasına hiç sevinmeyecek!"
+    },
+    {
+      "id": "7be561ea",
+      "bank_id": "10b2b600",
+      "text": "Kuralları okumak isteyebilirsiniz."
+    },
+    {
+      "id": "7c8b3e90",
+      "bank_id": "10b2b600",
+      "text": "[Güler]"
+    },
+    {
+      "id": "7ce5635d",
+      "bank_id": "10b2b600",
+      "text": "Yarışmacıların çoğunun okuma bildiği söylenemez gerçi."
+    },
+    {
+      "id": "81789813",
+      "bank_id": "10b2b600",
+      "text": "Ne yani, işe mi girdin? Ev mi aldın? Asırlardır buradayım."
+    },
+    {
+      "id": "82789986",
+      "bank_id": "10b2b600",
+      "text": "Pekâlâ, gidelim."
+    },
+    {
+      "id": "82c62638",
+      "bank_id": "10b2b600",
+      "text": "Kahretsin, kaçtı gitti."
+    },
+    {
+      "id": "85c62af1",
+      "bank_id": "10b2b600",
+      "text": "Belki de bizden korkmuştur."
+    },
+    {
+      "id": "9f9eb183",
+      "bank_id": "10b2b600",
+      "text": "YOLKESENLER"
+    },
+    {
+      "id": "a829fe3f",
+      "bank_id": "10b2b600",
+      "text": "Hadi, neredeyse vardık. Hissedebiliyorum!"
+    },
+    {
+      "id": "abb89200",
+      "bank_id": "10b2b600",
+      "text": "Garth'ı geri almak için tek şansımız bu."
+    },
+    {
+      "id": "acb893f3",
+      "bank_id": "10b2b600",
+      "text": "Buradan çıkmak Hammer'a iyi gelecektir."
+    },
+    {
+      "id": "aeb896d9",
+      "bank_id": "10b2b600",
+      "text": "Hammer ile Westcliff'e gidin."
+    },
+    {
+      "id": "b0aec17c",
+      "bank_id": "10b2b600",
+      "text": "Oh! B-bu çok etkileyiciydi."
+    },
+    {
+      "id": "b1f8a4f4",
+      "bank_id": "10b2b600",
+      "text": "Onu Lonca'ya geri getirin."
+    },
+    {
+      "id": "b3aec635",
+      "bank_id": "10b2b600",
+      "text": "Bu... bu inanılmaz!"
+    },
+    {
+      "id": "bbec96e0",
+      "bank_id": "10b2b600",
+      "text": "MU: Bu darbeyle hedefini tutturamadı! MAD: Evet, güzelce bloklandı."
+    },
+    {
+      "id": "bbec96eb",
+      "bank_id": "10b2b600",
+      "text": "MU: Bu darbeyle hedefini tutturamadı! MAD: Evet, güzelce bloklandı."
+    },
+    {
+      "id": "bd5321b8",
+      "bank_id": "10b2b600",
+      "text": "O zaman sen de dedikoduları duymuş olmalısın. Çile galiplerinin askere alınması hakkında mı? Umarım Lucien yeterince para veriyordur."
+    },
+    {
+      "id": "bd719f20",
+      "bank_id": "10b2b600",
+      "text": "Ama o çukuru geçmenin hiçbir yolunu göremiyorum!"
+    },
+    {
+      "id": "bf71a206",
+      "bank_id": "10b2b600",
+      "text": "Buradan çıkmanın bir yolunu bulmalıyız yoksa öldük!"
+    },
+    {
+      "id": "c0532671",
+      "bank_id": "10b2b600",
+      "text": "Dışarıdaki o iki geri zekâlı sana da ün konusunda sıkıntı çıkardı mı? Sırf Tatar Yaylı Bessie'yi duymadılar diye! Bloodstone'da çok saygı görürüm ben, bilesin."
+    },
+    {
+      "id": "c171a56c",
+      "bank_id": "10b2b600",
+      "text": "Neye bakıyorsun? Ah, gördüm!"
+    },
+    {
+      "id": "c271a6df",
+      "bank_id": "10b2b600",
+      "text": "Köprü yapacak bir şeyler bulabilir misin bir bak."
+    },
+    {
+      "id": "c371a8b2",
+      "bank_id": "10b2b600",
+      "text": "Karşıya geçmenin bir yolunu bulmalıyız."
+    },
+    {
+      "id": "c471aa25",
+      "bank_id": "10b2b600",
+      "text": "Yapabileceğimiz bir şeyler olmalı!"
+    },
+    {
+      "id": "c510df28",
+      "bank_id": "10b2b600",
+      "text": "Öff!"
+    },
+    {
+      "id": "c771aefe",
+      "bank_id": "10b2b600",
+      "text": "Tamamdır, köprü geliyor. Şu alçakları benden uzak tut!"
+    },
+    {
+      "id": "c871b051",
+      "bank_id": "10b2b600",
+      "text": "Şu sütun zayıf görünüyor."
+    },
+    {
+      "id": "c9121445",
+      "bank_id": "10b2b600",
+      "text": "Ama bir tercüme olmadan pek işine yaramaz."
+    },
+    {
+      "id": "c92d08ae",
+      "bank_id": "10b2b600",
+      "text": "Orada bir başka güzel bloklama örneği daha."
+    },
+    {
+      "id": "ca10e6c7",
+      "bank_id": "10b2b600",
+      "text": "Öff!"
+    },
+    {
+      "id": "ca2d0a01",
+      "bank_id": "10b2b600",
+      "text": "O saldırının o bloklamayı delip geçmesine imkân yok!"
+    },
+    {
+      "id": "cb10e8ba",
+      "bank_id": "10b2b600",
+      "text": "Öff!"
+    },
+    {
+      "id": "cb2d0bf4",
+      "bank_id": "10b2b600",
+      "text": "MAD: İşte ben buna blok derim. MU: Ben de buna gelen düşman darbesine karşı sağlam bir engel derim!"
+    },
+    {
+      "id": "cc10ea2d",
+      "bank_id": "10b2b600",
+      "text": "Öff!"
+    },
+    {
+      "id": "cc2d0d67",
+      "bank_id": "10b2b600",
+      "text": "MU: Oh, o bloğa ne diyorsun, Kuduz? MAD: Sevdim Murray. Çok sevdim."
+    },
+    {
+      "id": "ccf9c0e6",
+      "bank_id": "10b2b600",
+      "text": "Şey, onu sadece yere sermekle kalmadı. Yerde neredeyse bir delik açıyordu!"
+    },
+    {
+      "id": "ccf9c0ed",
+      "bank_id": "10b2b600",
+      "text": "Şey, onu sadece yere sermekle kalmadı. Yerde neredeyse bir delik açıyordu!"
+    },
+    {
+      "id": "cd2d0eda",
+      "bank_id": "10b2b600",
+      "text": "Muazzam bir blok! Bu savuşturmayı hiçbir şey geçemez!"
+    },
+    {
+      "id": "cda62ddf",
+      "bank_id": "10b2b600",
+      "text": "Daha önce hiç olmadığı kadar sınanmak üzere. Yanından ayrılma."
+    },
+    {
+      "id": "d67b6f8d",
+      "bank_id": "10b2b600",
+      "text": "Lucien'in yazıları büyüleyici."
+    },
+    {
+      "id": "e0e40822",
+      "bank_id": "10b2b600",
+      "text": "Daha fazlası gelecek. Acele et!"
+    },
+    {
+      "id": "e212f9d0",
+      "bank_id": "10b2b600",
+      "text": "Lafı geçmişken..."
+    },
+    {
+      "id": "e312fb43",
+      "bank_id": "10b2b600",
+      "text": "Bu bölgenin tamamen haydutların istilasına uğradığını sanıyordum?"
+    },
+    {
+      "id": "e512fea9",
+      "bank_id": "10b2b600",
+      "text": "Kulağa hoş bir hafif okuma gibi geliyor. Bana gelince, ben biraz aksiyonu tercih ederim..."
+    },
+    {
+      "id": "e613001c",
+      "bank_id": "10b2b600",
+      "text": "İşte başlıyoruz!"
+    },
+    {
+      "id": "e713018f",
+      "bank_id": "10b2b600",
+      "text": "Vay canına. Bu... inanılmazdı. Daha önce hiç böyle bir şey yaşamamıştım."
+    },
+    {
+      "id": "e8130362",
+      "bank_id": "10b2b600",
+      "text": "Büyüleyici bir mimari. Sivri kütükler buralarda pek modaymış gibi görünüyor."
+    },
+    {
+      "id": "e91304d5",
+      "bank_id": "10b2b600",
+      "text": "Herkes nerede acaba?"
+    },
+    {
+      "id": "ec1309ab",
+      "bank_id": "10b2b600",
+      "text": "Senin için hep böyle geçiyor herhalde, değil mi?"
+    },
+    {
+      "id": "ec1309ae",
+      "bank_id": "10b2b600",
+      "text": "Yani çoğunda korkudan aklım çıktı ama... heyecanlıydı da!"
+    },
+    {
+      "id": "ed130b01",
+      "bank_id": "10b2b600",
+      "text": "Şurada! Daha fazlası var! Haklayalım şunları!"
+    },
+    {
+      "id": "eeb98bcc",
+      "bank_id": "10b2b600",
+      "text": "Kazandıktan sonra o alçak Reaver'a bir ders vereceğim. Sıradan bir sokak kadını gibi kenara fırlattı beni ha? Tatar yayımı tam nereye doğrultacağımı çok iyi biliyorum..."
+    },
+    {
+      "id": "f2ae6396",
+      "bank_id": "10b2b600",
+      "text": "Brightwood'daki Haydut Yolu'nda seninle buluşurum."
+    },
+    {
+      "id": "f3f567a1",
+      "bank_id": "10b2b600",
+      "text": "MU: Güm! Biri daha yeri boyladı! MAD: Kimin patron olduğunu gösteriyor. MU: Kimmiş?"
+    },
+    {
+      "id": "f3f567aa",
+      "bank_id": "10b2b600",
+      "text": "MU: Güm! Biri daha yeri boyladı! MAD: Kimin patron olduğunu gösteriyor. MU: Kimmiş?"
+    },
+    {
+      "id": "f5d6f304",
+      "bank_id": "10b2b600",
+      "text": "Sen! Yeni kız. Şanslı günündesin. Sok kıçını içeri."
+    },
+    {
+      "id": "f5d6f30f",
+      "bank_id": "10b2b600",
+      "text": "Sen! Yeni eleman. Şanslı günündesin. Sok kıçını içeri."
+    },
+    {
+      "id": "f8d0ca30",
+      "bank_id": "10b2b600",
+      "text": "Cesur Kahramanımız için bir leş daha! Karşısında durulamıyor!"
+    },
+    {
+      "id": "f8d0ca3b",
+      "bank_id": "10b2b600",
+      "text": "Cesur Kahramanımız için bir leş daha! Karşısında durulamıyor!"
+    },
+    {
+      "id": "fa8fd786",
+      "bank_id": "10b2b600",
+      "text": "MU: Ooh! Tam kıçının üstüne oturdu orada! MAD: Haha! Bundan sonra bir süre oturamaz artık."
+    },
+    {
+      "id": "fa8fd78d",
+      "bank_id": "10b2b600",
+      "text": "MU: Ooh! Tam kıçının üstüne oturdu orada! MAD: Haha! Bundan sonra bir süre oturamaz artık."
+    }
+  ]
+}

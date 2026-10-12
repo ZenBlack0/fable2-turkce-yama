@@ -1,0 +1,731 @@
+{
+  "bank_id": "e0522802",
+  "total_strings": 145,
+  "strings": [
+    {
+      "id": "06844eb8",
+      "bank_id": "e0522802",
+      "text": "Saçıma bir şeyler yapabilir misin? Tam bir felaket!"
+    },
+    {
+      "id": "06844eb9",
+      "bank_id": "e0522802",
+      "text": "Kıl olmaması gereken yerlerimde biraz kıl var. Ondan kurtulabilir misin?"
+    },
+    {
+      "id": "06844ebb",
+      "bank_id": "e0522802",
+      "text": "Köklü bir değişiklik istemiyorum ama saçımın yeni bir şeye ihtiyacı var."
+    },
+    {
+      "id": "06844ebc",
+      "bank_id": "e0522802",
+      "text": "Belki yüzüme saygın ve zar zor fark edilen bir makyaj yapabilirsin."
+    },
+    {
+      "id": "06844ebd",
+      "bank_id": "e0522802",
+      "text": "Bu saç tarzından öyle sıkıldım ki. Derhâl değiştir onu."
+    },
+    {
+      "id": "06844ebe",
+      "bank_id": "e0522802",
+      "text": "Saçımı yeşile boyayabilir misin?"
+    },
+    {
+      "id": "06844ebf",
+      "bank_id": "e0522802",
+      "text": "Gerçekten biraz makyaja ihtiyacım var. Koyu ve ürpertici bir şey hoş olurdu."
+    },
+    {
+      "id": "08ba80a8",
+      "bank_id": "e0522802",
+      "text": "Yarın yine gelirim, teşekkürler!"
+    },
+    {
+      "id": "08ba80a9",
+      "bank_id": "e0522802",
+      "text": "Harika, teşekkür ederim."
+    },
+    {
+      "id": "08ba80ab",
+      "bank_id": "e0522802",
+      "text": "Çok iyi, teşekkürler."
+    },
+    {
+      "id": "08ba80ac",
+      "bank_id": "e0522802",
+      "text": "Teşekkür ederim, eğitimsiz dostum."
+    },
+    {
+      "id": "08ba80ad",
+      "bank_id": "e0522802",
+      "text": "Uşağıma aldırtırım. Teşekkür ederim."
+    },
+    {
+      "id": "08ba80ae",
+      "bank_id": "e0522802",
+      "text": "Yarın beni yine göreceksin, teşekkürler!"
+    },
+    {
+      "id": "08ba80af",
+      "bank_id": "e0522802",
+      "text": "Bu gayet iyi iş görür."
+    },
+    {
+      "id": "1f99c520",
+      "bank_id": "e0522802",
+      "text": "Göğüs zırhına çarptığında bükülmeyecek bıçakların var mı?"
+    },
+    {
+      "id": "1f99c521",
+      "bank_id": "e0522802",
+      "text": "Parmakları dilimlemek için en iyi silah hangisi?"
+    },
+    {
+      "id": "1f99c522",
+      "bank_id": "e0522802",
+      "text": "Bir beyefendinin her zaman bir tatar yayı olmalıdır. En iyisinden bir tane alayım."
+    },
+    {
+      "id": "1f99c523",
+      "bank_id": "e0522802",
+      "text": "Hiç efsanevi silahın var mı?"
+    },
+    {
+      "id": "1f99c524",
+      "bank_id": "e0522802",
+      "text": "Sende olan en büyük, en uzun kılıcı istiyorum."
+    },
+    {
+      "id": "1f99c526",
+      "bank_id": "e0522802",
+      "text": "Açık konuşayım. İnsanları vurmak için bir silah istiyorum."
+    },
+    {
+      "id": "1f99c527",
+      "bank_id": "e0522802",
+      "text": "Balta türünden bir şey düşünüyordum. Oldukça büyükçe bir şey."
+    },
+    {
+      "id": "1ff779d8",
+      "bank_id": "e0522802",
+      "text": "Göz kapaklarıma dövme yapabilir misin, böylece kapattığımda kapalı gibi görünürler. Bir dakika, bu doğru olmadı sanki..."
+    },
+    {
+      "id": "1ff779da",
+      "bank_id": "e0522802",
+      "text": "Uzaklardaki bulutlar hem kışın soğuğunu hem de çok ihtiyaç duyulan sulama vaadini getirirken, ılık bir yaz rüzgârında sallanan bir çim yaprağı dövmesi istiyorum."
+    },
+    {
+      "id": "1ff779db",
+      "bank_id": "e0522802",
+      "text": "Jack of Blades dövmesi yaptırmak mümkün müdür acaba? Şey, özel bir yere?"
+    },
+    {
+      "id": "1ff779dc",
+      "bank_id": "e0522802",
+      "text": "Vücudumun her bir santimine dövme yaptırmak kaça patlar? Dünya rekoruna oynuyorum da."
+    },
+    {
+      "id": "1ff779dd",
+      "bank_id": "e0522802",
+      "text": "Bacağıma yukarı doğru sarmaşık bir gül dövmesi yapabilir misin?"
+    },
+    {
+      "id": "1ff779de",
+      "bank_id": "e0522802",
+      "text": "Buraya dövme için çok kadın gelir mi? Hep bir... hayır, sormaya çok utanıyorum."
+    },
+    {
+      "id": "1ff779df",
+      "bank_id": "e0522802",
+      "text": "Normalde dövme yaptırmayı düşünmezdim ama arkadaşlarımla bir iddiayı kaybettim..."
+    },
+    {
+      "id": "2499ccc0",
+      "bank_id": "e0522802",
+      "text": "Şu katanalardan var mı sende?"
+    },
+    {
+      "id": "2499ccc1",
+      "bank_id": "e0522802",
+      "text": "Bir adamın kafasını tertemiz koparacak bir şey istiyorum."
+    },
+    {
+      "id": "2499ccc2",
+      "bank_id": "e0522802",
+      "text": "Bir hanımefendinin taşıyabileceği türden zarif silahların var mı?"
+    },
+    {
+      "id": "2499ccc3",
+      "bank_id": "e0522802",
+      "text": "Bir çeşit savaş çekicime ihtiyacım var. Nedenini sorma."
+    },
+    {
+      "id": "2499ccc5",
+      "bank_id": "e0522802",
+      "text": "Ne tür baltalarınız var?"
+    },
+    {
+      "id": "2499ccc6",
+      "bank_id": "e0522802",
+      "text": "Fırlatma bıçaklarını denedim ama bana göre değiller. Hiç ateşli silah var mı?"
+    },
+    {
+      "id": "2499ccc7",
+      "bank_id": "e0522802",
+      "text": "Canım şöyle saplamalık bir alet çekiyor."
+    },
+    {
+      "id": "24f781f9",
+      "bank_id": "e0522802",
+      "text": "Bana hayatının en muazzam gecesinde dansa gitmek üzere olan bir kız gibi giyinmiş bir hobbe dövmesi yap."
+    },
+    {
+      "id": "24f781fa",
+      "bank_id": "e0522802",
+      "text": "Tamam, kız arkadaşım benden ayrıldı. Tam kalbimin üstüne bir kof adam dövmesi istiyorum. Bütün dünya nasıl hissettiğimi bilsin!"
+    },
+    {
+      "id": "24f781fb",
+      "bank_id": "e0522802",
+      "text": "Kasabanın tüm belediye başkanlarının isimleri hafızama kazınmış durumda. Harfleri kaba kelimeler oluşturacak şekilde yeniden düzenleyebilir misin?"
+    },
+    {
+      "id": "24f781fc",
+      "bank_id": "e0522802",
+      "text": "Bütün arkadaşlarım dövme yaptırdı, bu yüzden benim de bir tane yaptırmam gerek. Can yakmazlar, değil mi?"
+    },
+    {
+      "id": "24f781fd",
+      "bank_id": "e0522802",
+      "text": "Uzaktan görüp durduğum şu kulenin dövmesini istiyorum."
+    },
+    {
+      "id": "24f781fe",
+      "bank_id": "e0522802",
+      "text": "Bütün vücudumu altın renginde dövmeyle kaplatmayı düşünüyorum. Bu mümkün mü?"
+    },
+    {
+      "id": "24f781ff",
+      "bank_id": "e0522802",
+      "text": "Hm, acaba vücuduma altın ve yakutlarla dövme yapabilir misiniz?"
+    },
+    {
+      "id": "6ced40d0",
+      "bank_id": "e0522802",
+      "text": "Üzerime bir kumkazı dövmesi istiyorum... Şey, nereye isteyeceğimi tahmin edersin herhalde?"
+    },
+    {
+      "id": "6ced40d1",
+      "bank_id": "e0522802",
+      "text": "Kaslarını sıktığında değişen şu dövmelerden yapabiliyor musun?"
+    },
+    {
+      "id": "6ced40d3",
+      "bank_id": "e0522802",
+      "text": "Tam göbeğime vahşi bir balverine dövmesi istiyorum."
+    },
+    {
+      "id": "6ced40d6",
+      "bank_id": "e0522802",
+      "text": "Sol parmak eklemlerime \"nefret\" yazan bir dövme istiyorum. Sağıma ne yaptıracağıma henüz karar vermedim."
+    },
+    {
+      "id": "6ced40d7",
+      "bank_id": "e0522802",
+      "text": "Koluma bir parmak dövmesi yaptırmak istiyorum. Bil bakalım hangi parmak."
+    },
+    {
+      "id": "6fb114e0",
+      "bank_id": "e0522802",
+      "text": "Yeni başlayan biri için ne tür bir kılıç önerirsiniz?"
+    },
+    {
+      "id": "6fb114e1",
+      "bank_id": "e0522802",
+      "text": "Şu çift elli kılıçlardan var mı?"
+    },
+    {
+      "id": "6fb114e3",
+      "bank_id": "e0522802",
+      "text": "Güzel bir tatar yayı arıyorum. Ve çiçekler ya da öpücükler fırlatmasını kastetmiyorum."
+    },
+    {
+      "id": "6fb114e6",
+      "bank_id": "e0522802",
+      "text": "En büyük silahını istiyorum. Ne kadar ağır olduğu umurumda değil."
+    },
+    {
+      "id": "6fb114e7",
+      "bank_id": "e0522802",
+      "text": "Bana en güçlü tüfeğini ver."
+    },
+    {
+      "id": "73ed4bd2",
+      "bank_id": "e0522802",
+      "text": "Hobbe'lere bayılıyorum. Sırtıma devasa bir tanesinin dövmesini yapabilir misin sence?"
+    },
+    {
+      "id": "73ed4bd3",
+      "bank_id": "e0522802",
+      "text": "Pazıma büyükannemin adının yazılı olduğu bir dövme yaptırmanın gerçekten harika olacağına karar verdim, buna bayılırdı."
+    },
+    {
+      "id": "73ed4bd4",
+      "bank_id": "e0522802",
+      "text": "Bilirsin ya, hep başka bir dövmeciye dövme yapan bir dövmecinin dövmesini istemişimdir, o dövmeci de... Şey, anladın sen işte."
+    },
+    {
+      "id": "73ed4bd5",
+      "bank_id": "e0522802",
+      "text": "Dövme için harika bir fikrim vardı. Küçük bir ağaç, tamam mı? Ve kaslarımı sıktığımda büyük bir ağaç oluyor! Yani büyümüş gibi görünüyor!"
+    },
+    {
+      "id": "73ed4bd6",
+      "bank_id": "e0522802",
+      "text": "Elime kasabanın haritasını dövme olarak yapabilir misin? Sürekli kayboluyorum da."
+    },
+    {
+      "id": "76b11fe2",
+      "bank_id": "e0522802",
+      "text": "Biraz korumaya ihtiyacım var. Bir tüfeğe ne dersin?"
+    },
+    {
+      "id": "76b11fe3",
+      "bank_id": "e0522802",
+      "text": "Stokta ne tür tüfekler var?"
+    },
+    {
+      "id": "76b11fe4",
+      "bank_id": "e0522802",
+      "text": "Şu fırlatma yıldızlarından var mı?"
+    },
+    {
+      "id": "76b11fe5",
+      "bank_id": "e0522802",
+      "text": "İyi bir balta arayışındayım."
+    },
+    {
+      "id": "76b11fe6",
+      "bank_id": "e0522802",
+      "text": "Ateş etmeyi severim ama tüfekle tatar yayı arasında karar veremedim. Her birinden birer tane görebilir miyim?"
+    },
+    {
+      "id": "9007408a",
+      "bank_id": "e0522802",
+      "text": "Saçıma ne yapabilirsin? Üstünde çiğ yumurta kırmak işe yaramadı."
+    },
+    {
+      "id": "9007408b",
+      "bank_id": "e0522802",
+      "text": "Sakal çeşitlerini göreyim. Bir... arkadaşım için. Evet."
+    },
+    {
+      "id": "9007408c",
+      "bank_id": "e0522802",
+      "text": "Nostaljik hissediyorum. Gençliğimdeki saç kesimimi yeniden yapabilir misin? Parlak pembe ve büyük buz sarkıtları şeklinde şekillendirilmiş?"
+    },
+    {
+      "id": "9007408d",
+      "bank_id": "e0522802",
+      "text": "Örgü saç denemeyi çok isterdim. Ama kendi domuzumu getirmem gerekiyor mu?"
+    },
+    {
+      "id": "9007408e",
+      "bank_id": "e0522802",
+      "text": "Kaşlarıma ağda yapabilir misin?"
+    },
+    {
+      "id": "948d83b8",
+      "bank_id": "e0522802",
+      "text": "Hiç zaman makinen yok, değil mi?"
+    },
+    {
+      "id": "948d83b9",
+      "bank_id": "e0522802",
+      "text": "Bir ata ihtiyacım var. Kesin bir atın vardır. Dünyada bir yerlerde mutlaka bir at olmalı!"
+    },
+    {
+      "id": "948d83bd",
+      "bank_id": "e0522802",
+      "text": "Bir torba peri tozu rica edeyim, lütfen."
+    },
+    {
+      "id": "948d83be",
+      "bank_id": "e0522802",
+      "text": "Yedek koca parçaları satmıyorsunuzdur herhalde? Çeşitli boyutlarda olsa harika olurdu."
+    },
+    {
+      "id": "948d83bf",
+      "bank_id": "e0522802",
+      "text": "Şaka kapı kollarınız var mı?"
+    },
+    {
+      "id": "99074ed8",
+      "bank_id": "e0522802",
+      "text": "Küçük bir mucize yaratıp bir kadının bana âşık olmasını sağlayabilir misin?"
+    },
+    {
+      "id": "99074ed9",
+      "bank_id": "e0522802",
+      "text": "Kadınların bahsedip durduğu şu makyajı denemek istiyorum."
+    },
+    {
+      "id": "99074edb",
+      "bank_id": "e0522802",
+      "text": "Uzun saç istiyorum. Gerçekten uzun. Ve mavi. Yeşil çizgili."
+    },
+    {
+      "id": "99074ede",
+      "bank_id": "e0522802",
+      "text": "Zehirli koltuk altı kılları için bir şey yapabilir misin?"
+    },
+    {
+      "id": "99074edf",
+      "bank_id": "e0522802",
+      "text": "Bana anında sakal uzatabileceğin doğru mu? Hadi görelim bakalım."
+    },
+    {
+      "id": "9f8d94e8",
+      "bank_id": "e0522802",
+      "text": "Kendi kendini yöneten herhangi bir hükümet biçiminiz var mı?"
+    },
+    {
+      "id": "9f8d94e9",
+      "bank_id": "e0522802",
+      "text": "Üzerinde dalgalı şeyler olan şu tahta bloklardan satmıyorsunuz, değil mi? Onlara kitap diyorlar... sanırım."
+    },
+    {
+      "id": "9f8d94ec",
+      "bank_id": "e0522802",
+      "text": "Şu tüylü kelepçelerden bir çift alana kadar buradan ayrılmıyorum. Bir dakika, yanlış dükkândayım."
+    },
+    {
+      "id": "9f8d94ee",
+      "bank_id": "e0522802",
+      "text": "Hoşgörüsüzlüğe bir çare arıyorum."
+    },
+    {
+      "id": "9f8d94ef",
+      "bank_id": "e0522802",
+      "text": "Kasabadaki her dükkâna gittim ama kimsede 'Ateşli Amatör hobbe'ler' dergisinin son sayısı yok. Ve bana yasadışı olduklarını söyleme."
+    },
+    {
+      "id": "aa8eebec",
+      "bank_id": "e0522802",
+      "text": "Ah, alışveriş yapmak öyle bunaltıcı bir deneyim ki. Hiç koklama tuzunuz var mı?"
+    },
+    {
+      "id": "aa8eebed",
+      "bank_id": "e0522802",
+      "text": "Affedersiniz, hiç karides soyacağınız var mı?"
+    },
+    {
+      "id": "aa8eebee",
+      "bank_id": "e0522802",
+      "text": "Bütün arkadaşlarım palyaço peletlerinden bahsedip duruyor. Onlardan satıyor musunuz? Neyin nesi bunlar?"
+    },
+    {
+      "id": "aa8eebef",
+      "bank_id": "e0522802",
+      "text": "Kendi kendini dolduran bir kupa istiyorum."
+    },
+    {
+      "id": "ae900971",
+      "bank_id": "e0522802",
+      "text": "Tarzımda bir değişikliğe ihtiyacım var. Radikal bir şeye."
+    },
+    {
+      "id": "ae900972",
+      "bank_id": "e0522802",
+      "text": "Sence saçımı hangi renge boyamalıyım? Lütfen pembe deme."
+    },
+    {
+      "id": "ae900973",
+      "bank_id": "e0522802",
+      "text": "Saçımı canlandır. Terliklerimi getirmesi için onu eğitmek istiyorum."
+    },
+    {
+      "id": "ae900974",
+      "bank_id": "e0522802",
+      "text": "İnsanı yüzüstü yere yapıştıracak bir saç kesimi istiyorum."
+    },
+    {
+      "id": "ae900975",
+      "bank_id": "e0522802",
+      "text": "Bu saç tarzı hanımlar konusunda bana pek şans getirmiyor. Değiştir onu."
+    },
+    {
+      "id": "ae900976",
+      "bank_id": "e0522802",
+      "text": "İşlenmemiş saç peruklarımdan sıkıldım. Bir üst seviye olarak ne önerirsiniz?"
+    },
+    {
+      "id": "ae900977",
+      "bank_id": "e0522802",
+      "text": "Radikal niyetler taşıyan bir saç stiline ihtiyacım var. Bu sezonun bahçe partilerinde arkadaşlarımı büyülemek istiyorum."
+    },
+    {
+      "id": "b9901aa0",
+      "bank_id": "e0522802",
+      "text": "Biliyorum hanımlar yanaklarını çimdikler ama ben biraz allık arıyorum."
+    },
+    {
+      "id": "b9901aa2",
+      "bank_id": "e0522802",
+      "text": "İzinli denizcilerin hizmetimi istemesine yol açmayacak bir makyaj istiyorum."
+    },
+    {
+      "id": "b9901aa3",
+      "bank_id": "e0522802",
+      "text": "Su yeşili bir ruj renginin çok mu sade kalacağını düşünüyorsun?"
+    },
+    {
+      "id": "b9901aa4",
+      "bank_id": "e0522802",
+      "text": "Beni sokak kadını gibi göstermemeye çalış."
+    },
+    {
+      "id": "b9901aa5",
+      "bank_id": "e0522802",
+      "text": "Bu lekeleri kapat. Hepsini."
+    },
+    {
+      "id": "b9901aa6",
+      "bank_id": "e0522802",
+      "text": "Herkes gibi görünmek istemiyorum. Bana benzersiz bir görünüm kazandır."
+    },
+    {
+      "id": "b9901aa7",
+      "bank_id": "e0522802",
+      "text": "Geçen gün bütün erkeklerin salyalarını akıttığı o peri gibi kızda gördüğüm saç kesimini istiyorum."
+    },
+    {
+      "id": "cc861e01",
+      "bank_id": "e0522802",
+      "text": "Teşekkürler!"
+    },
+    {
+      "id": "cc861e02",
+      "bank_id": "e0522802",
+      "text": "Sağ olasın. Artık dönsem iyi olur."
+    },
+    {
+      "id": "cc861e03",
+      "bank_id": "e0522802",
+      "text": "Sağ ol. Yarın alırım."
+    },
+    {
+      "id": "cc861e04",
+      "bank_id": "e0522802",
+      "text": "Güzel, evet."
+    },
+    {
+      "id": "cc861e05",
+      "bank_id": "e0522802",
+      "text": "Evet, teşekkürler."
+    },
+    {
+      "id": "cc861e06",
+      "bank_id": "e0522802",
+      "text": "Teşekkür ederim, iyi günler."
+    },
+    {
+      "id": "cc861e07",
+      "bank_id": "e0522802",
+      "text": "Çok teşekkür ederim."
+    },
+    {
+      "id": "d7862fb0",
+      "bank_id": "e0522802",
+      "text": "Harika, teşekkürler."
+    },
+    {
+      "id": "d7862fb2",
+      "bank_id": "e0522802",
+      "text": "Ah, teşekkürler."
+    },
+    {
+      "id": "d7862fb3",
+      "bank_id": "e0522802",
+      "text": "Müthiş. Bunları eve götürmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "d7862fb4",
+      "bank_id": "e0522802",
+      "text": "Sağ olasın."
+    },
+    {
+      "id": "d7862fb5",
+      "bank_id": "e0522802",
+      "text": "Güzel iş. Teşekkürler."
+    },
+    {
+      "id": "d7862fb6",
+      "bank_id": "e0522802",
+      "text": "Çok iyi. Teşekkürler."
+    },
+    {
+      "id": "d7862fb7",
+      "bank_id": "e0522802",
+      "text": "Teşekkür ederim, dükkân sahibi."
+    },
+    {
+      "id": "dbe6cc78",
+      "bank_id": "e0522802",
+      "text": "Sağ olasın."
+    },
+    {
+      "id": "dbe6cc79",
+      "bank_id": "e0522802",
+      "text": "Teşekkürler!"
+    },
+    {
+      "id": "dbe6cc7a",
+      "bank_id": "e0522802",
+      "text": "Teşekkür ederim."
+    },
+    {
+      "id": "dbe6cc7b",
+      "bank_id": "e0522802",
+      "text": "Çok teşekkür ederim."
+    },
+    {
+      "id": "dbe6cc7d",
+      "bank_id": "e0522802",
+      "text": "Çok teşekkür ederim."
+    },
+    {
+      "id": "dbe6cc7e",
+      "bank_id": "e0522802",
+      "text": "Çok teşekkürler."
+    },
+    {
+      "id": "dbe6cc7f",
+      "bank_id": "e0522802",
+      "text": "Binlerce teşekkür."
+    },
+    {
+      "id": "e6e6dda8",
+      "bank_id": "e0522802",
+      "text": "Sağ ol. Daha sonra alırım."
+    },
+    {
+      "id": "e6e6dda9",
+      "bank_id": "e0522802",
+      "text": "Sağ olasın."
+    },
+    {
+      "id": "e6e6ddaa",
+      "bank_id": "e0522802",
+      "text": "Teşekkürler!"
+    },
+    {
+      "id": "e6e6ddab",
+      "bank_id": "e0522802",
+      "text": "Teşekkür ederim. Bu son derece tatmin edici."
+    },
+    {
+      "id": "e6e6ddac",
+      "bank_id": "e0522802",
+      "text": "Harika oldu, teşekkürler."
+    },
+    {
+      "id": "e6e6ddae",
+      "bank_id": "e0522802",
+      "text": "Teşekkür ederim. Tam da istediğim şeydi."
+    },
+    {
+      "id": "e6e6ddaf",
+      "bank_id": "e0522802",
+      "text": "Teşekkür ederim. Bunlar işimi görecektir."
+    },
+    {
+      "id": "fa6519b0",
+      "bank_id": "e0522802",
+      "text": "O kıyafetlerin modası geçen yılda kaldı. İhtiyacın olan şey gardırobunu tamamen yenilemek."
+    },
+    {
+      "id": "fa6519b1",
+      "bank_id": "e0522802",
+      "text": "İnsanların seni böyle giyinmiş görmesine nasıl katlanabiliyorsun?"
+    },
+    {
+      "id": "fa6519b3",
+      "bank_id": "e0522802",
+      "text": "Hm, ihtiyacın olan şey güzel küpeler."
+    },
+    {
+      "id": "fd844068",
+      "bank_id": "e0522802",
+      "text": "Bir sakal lütfen! Kudretli, gümbür gümbür bir sakal!"
+    },
+    {
+      "id": "fd844069",
+      "bank_id": "e0522802",
+      "text": "Benimki gibi narin hatlara bir sakalın yakışacağını düşünüyor musun?"
+    },
+    {
+      "id": "fd84406a",
+      "bank_id": "e0522802",
+      "text": "Şu asi kaşlar için bir şey yapabilir misin?"
+    },
+    {
+      "id": "fd84406b",
+      "bank_id": "e0522802",
+      "text": "Pekala, burada sakal yapıyorsunuz, değil mi?"
+    },
+    {
+      "id": "fd84406c",
+      "bank_id": "e0522802",
+      "text": "Yüzümü gür, kalın bir sakal ve sahte bir burunla kapatmam gerek. Burada beni soran garip, çirkin bir kadın olmadı, değil mi?"
+    },
+    {
+      "id": "fd84406d",
+      "bank_id": "e0522802",
+      "text": "Bir sakal istiyorum ama öyle sıradan bir sakal değil. Bütün sakalları geride bırakacak bir sakal! Muazzam bir sakallık timsali!"
+    },
+    {
+      "id": "fd84406e",
+      "bank_id": "e0522802",
+      "text": "Bana en iyi bıyığını ver. İnsanların aklını başından alacak bir şey. Şey, mecazi anlamda tabii."
+    },
+    {
+      "id": "ffba7258",
+      "bank_id": "e0522802",
+      "text": "Teşekkür ederim."
+    },
+    {
+      "id": "ffba7259",
+      "bank_id": "e0522802",
+      "text": "Çok teşekkürler."
+    },
+    {
+      "id": "ffba725a",
+      "bank_id": "e0522802",
+      "text": "Harika oldu, teşekkürler."
+    },
+    {
+      "id": "ffba725b",
+      "bank_id": "e0522802",
+      "text": "Evet, teşekkürler."
+    },
+    {
+      "id": "ffba725c",
+      "bank_id": "e0522802",
+      "text": "Teşekkürler!"
+    },
+    {
+      "id": "ffba725d",
+      "bank_id": "e0522802",
+      "text": "Harika oldu, teşekkürler."
+    },
+    {
+      "id": "ffba725e",
+      "bank_id": "e0522802",
+      "text": "Teşekkür ederim."
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "bank_id": "60bbb600",
+  "total_strings": 99,
+  "strings": [
+    {
+      "id": "0319ea89",
+      "bank_id": "60bbb600",
+      "text": "Kara Nişan"
+    },
+    {
+      "id": "0d9c62ed",
+      "bank_id": "60bbb600",
+      "text": "Pazar Meydanı No: 7b, Bowerstone Pazarı"
+    },
+    {
+      "id": "103a9258",
+      "bank_id": "60bbb600",
+      "text": "Çilekeşler Evi"
+    },
+    {
+      "id": "10b7c141",
+      "bank_id": "60bbb600",
+      "text": "Güzelleşme Fabrikası"
+    },
+    {
+      "id": "10c6f20c",
+      "bank_id": "60bbb600",
+      "text": "Yan Sokak No: 4, Bowerstone Pazarı"
+    },
+    {
+      "id": "1592b5a4",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone İçecek Tezgâhı"
+    },
+    {
+      "id": "17382b1d",
+      "bank_id": "60bbb600",
+      "text": "Bir zamanlar Plimpington ailesine aitti; bu ailenin fertleri arasında Albion'un en çekici ve alımlı üç siması yer alırdı. Anne babanın pek yüzüne bakılmazdı gerçi ama oğulları ve iki kızları gittikleri her yerde başları döndürürdü."
+    },
+    {
+      "id": "17495626",
+      "bank_id": "60bbb600",
+      "text": "Sosyete Sokağı No: 4, Bowerstone"
+    },
+    {
+      "id": "19427314",
+      "bank_id": "60bbb600",
+      "text": "Gözcü Yolu No: 4, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "1e15e3e6",
+      "bank_id": "60bbb600",
+      "text": "Kimse kesin olarak bilmese de bir vakitler Albion'un en ölümcül suikastçısının evi olduğu söylenir. Adını kimse bilmez (hatta kadın mı erkek mi olduğu bile meçhuldür); bilinen tek şey, bu katilin işinde ne kadar ustaysa bir o kadar da acımasız olduğudur."
+    },
+    {
+      "id": "1e810403",
+      "bank_id": "60bbb600",
+      "text": "En son kadın modasına dair her şey burada bulunabilir."
+    },
+    {
+      "id": "1eef8744",
+      "bank_id": "60bbb600",
+      "text": "Pazar Meydanı No: 7c, Bowerstone Pazarı"
+    },
+    {
+      "id": "1efe3d9c",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone'un en seçkin erkek giyim mağazası."
+    },
+    {
+      "id": "29e24e9c",
+      "bank_id": "60bbb600",
+      "text": "Varoş Sokağı No: 3, Bowerstone"
+    },
+    {
+      "id": "2b517751",
+      "bank_id": "60bbb600",
+      "text": "Yöre halkı bu eve çoktan ölmüş bir kutup martısının hayaletinin musallat olduğuna inanır. Ne var ki bu martı ev sakinlerini kâbuslarla korkutmak yerine onlara son derece huzurlu ve tatlı rüyalar bahşedermiş."
+    },
+    {
+      "id": "2ddbb83a",
+      "bank_id": "60bbb600",
+      "text": "Pazar Meydanı No: 5b, Bowerstone Pazarı"
+    },
+    {
+      "id": "2fb3a647",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Mücevher Tezgâhı"
+    },
+    {
+      "id": "336d43e1",
+      "bank_id": "60bbb600",
+      "text": "Burası bir dönem, bilahare Işık Tapınağı'nı kuracak olan Nurlu Albert'in eviydi. Bowerstone'da kaldığı günler, Albert'in hayatının onu çaresizliğin eşiğine sürükleyen oldukça karanlık bir dönemine denk gelmişti. Hacca gitmek üzere yola çıktığında, böylesine meşhur bir adama dönüşeceğini çok az kişi tahmin edebilirdi."
+    },
+    {
+      "id": "344ada58",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Eski Şehir"
+    },
+    {
+      "id": "34745cee",
+      "bank_id": "60bbb600",
+      "text": "Ölümsüzün Meskeni"
+    },
+    {
+      "id": "35d11874",
+      "bank_id": "60bbb600",
+      "text": "Görünmez El"
+    },
+    {
+      "id": "368f7ccb",
+      "bank_id": "60bbb600",
+      "text": "Gözcü Yolu No: 5, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "37c5f7c2",
+      "bank_id": "60bbb600",
+      "text": "Çıtır Etek"
+    },
+    {
+      "id": "3ebfe248",
+      "bank_id": "60bbb600",
+      "text": "Nurlu Konak"
+    },
+    {
+      "id": "4a5ecd2f",
+      "bank_id": "60bbb600",
+      "text": "Gözcü Yolu No: 1, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "509c932d",
+      "bank_id": "60bbb600",
+      "text": "Ferahlatıcı içecekler almak için harika bir yer."
+    },
+    {
+      "id": "519c6aed",
+      "bank_id": "60bbb600",
+      "text": "Zom olana dek kafayı çekmek için buradan daha iyi bir yer yoktur."
+    },
+    {
+      "id": "52320b6e",
+      "bank_id": "60bbb600",
+      "text": "Vestry Malikanesi"
+    },
+    {
+      "id": "5358447b",
+      "bank_id": "60bbb600",
+      "text": "Mucize Malikanesi"
+    },
+    {
+      "id": "538ec6f4",
+      "bank_id": "60bbb600",
+      "text": "Plimpington Malikanesi"
+    },
+    {
+      "id": "5451452a",
+      "bank_id": "60bbb600",
+      "text": "Gözcü Yolu No: 2, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "54f1c511",
+      "bank_id": "60bbb600",
+      "text": "Gözcü Yolu No: 3, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "55e66d93",
+      "bank_id": "60bbb600",
+      "text": "Suç baronu Jeremiah Felling hemen yan kapıda işlerini tezgâhlarken, burada Heap adında son derece mütevazı ve dindar bir çift yaşardı. Hayatlarının çoğunu dikkat çekmeden geçirseler de Eski Şehir'in dilencileri ve evsizleri, burada her zaman bir kâse sıcak çorbayla karşılanacaklarını bilirlerdi."
+    },
+    {
+      "id": "59d4dc9b",
+      "bank_id": "60bbb600",
+      "text": "Dilenci Alfred son derece yoksul olabilirdi, ancak doğru olanı yapacağına her zaman güvenilebilecek kadar iyi yürekli bir adamdı. Ne zaman bir ihtilaf çıksa çözmesi için kanuna başvurulurdu, fakat her türlü sorunu halletmenin en adil yolunu her daim Alfred bilirdi."
+    },
+    {
+      "id": "5c8052f0",
+      "bank_id": "60bbb600",
+      "text": "Hükümdar Yolu No: 2, Bowerstone Pazarı"
+    },
+    {
+      "id": "5cdfc50f",
+      "bank_id": "60bbb600",
+      "text": "Burası vaktiyle tam 142 yaşına kadar yaşayan Sıkıcı Brian'ın eviydi. Kimileri onun bu kadar uzun yaşamasını sürdürdüğü hayattaki heyecan yoksunluğuna ve evlenemeyecek kadar çirkin olmasına bağlar."
+    },
+    {
+      "id": "5e0d3bb7",
+      "bank_id": "60bbb600",
+      "text": "Kudret Evi"
+    },
+    {
+      "id": "5e54550b",
+      "bank_id": "60bbb600",
+      "text": "Sosyete Sokağı No: 5, Bowerstone"
+    },
+    {
+      "id": "65b7d21d",
+      "bank_id": "60bbb600",
+      "text": "Felling Konağı"
+    },
+    {
+      "id": "65fddd07",
+      "bank_id": "60bbb600",
+      "text": "Sağlıklı bir yaşam için buradan alışveriş yapın. Damarlarınız ve bağırsaklarınız size minnettar kalacak."
+    },
+    {
+      "id": "711410f2",
+      "bank_id": "60bbb600",
+      "text": "Vejetaryenseniz pek uğramak istemeyeceğiniz bir yer."
+    },
+    {
+      "id": "7541308f",
+      "bank_id": "60bbb600",
+      "text": "Bu harikulade evin sakinleri hiçbir zaman pek uzun süre kalmaz gibi görünür; lakin geleneksel olarak hep büyük ehemmiyet ve şöhret sahibi kimseler olagelmişlerdir. Sanatçılar, maceracılar ve en yüksek soylular bir dönem burayı yuvaları bilmiştir."
+    },
+    {
+      "id": "7b7e362f",
+      "bank_id": "60bbb600",
+      "text": "Donlar!"
+    },
+    {
+      "id": "7bd9c0b0",
+      "bank_id": "60bbb600",
+      "text": "Bir vakitler, elindekileri kendisinden daha talihsiz olanlarla paylaşmaktan kendini alamayacak kadar cömert bir kadın olan Alberta Givings'in eviydi. Burada yiyecek, altın ve kalacak yer her zaman bulunabilirdi; fakat Alberta'nın kendisi öylesine saf kalpliydi ki Bowerstone'un en aşağılık ayaktakımı bile onu suistimal etmeye kıyamazdı; bu da onun iyiliğinden yalnızca gerçekten muhtaç olanların istifade etmesini sağlardı."
+    },
+    {
+      "id": "81b42408",
+      "bank_id": "60bbb600",
+      "text": "Pazar Yolu No: 3, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "83cf72ca",
+      "bank_id": "60bbb600",
+      "text": "Bu evin adı, içindeki sakini çirkin bir mahlûka benzeten meşhur ve oldukça acımasız bir çocuk tekerlemesinden ileri gelir. Çocukların alay konusu, yüzünde pek çok meydan muharebesinin haritasını taşıyan ve muhafızlık yaparak geçinen eski bir askerdi. Bowerstone sokaklarında devriye gezdiği yıllar kasabanın gördüğü en güvenli zamanlardandı; lakin itici görünüşü, hak ettiği takdiri hiçbir zaman görememesine yol açtı."
+    },
+    {
+      "id": "85389921",
+      "bank_id": "60bbb600",
+      "text": "Hükümdar Yolu No: 1, Bowerstone Pazarı"
+    },
+    {
+      "id": "88659f7d",
+      "bank_id": "60bbb600",
+      "text": "Merak etmeyin, burada satılan balıklar yerel nehirde tutulmadı."
+    },
+    {
+      "id": "89fbe0d4",
+      "bank_id": "60bbb600",
+      "text": "Bu evde öyle çok cümbüş ve ahlaksızlık yaşandığı söylenir ki burada ikamet eden birinin yozlaşmaması mümkün değildir."
+    },
+    {
+      "id": "8afe7ab9",
+      "bank_id": "60bbb600",
+      "text": "Varoş Sokağı No: 2, Bowerstone"
+    },
+    {
+      "id": "91d6adec",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Köprüsü No: 2, Bowerstone Pazarı"
+    },
+    {
+      "id": "92ae44b5",
+      "bank_id": "60bbb600",
+      "text": "Yan Sokak No: 3, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "93644a7a",
+      "bank_id": "60bbb600",
+      "text": "Eski Şehir'in gördüğü en azılı suç baronlarından Jeremiah Felling'in evi olan bu yapı, uzun yıllar boyunca diyardaki en büyük organize suç şebekesinin üssüydü. Bowerstone muhafızları Felling'i yakalamayı asla başaramadı, fakat rakip bir çeteyle girdiği silahlı çatışmada öldürüldü. Cenazesi, bu şehirde düzenlenen en debdebeli ve en kalabalık törenlerden biri oldu."
+    },
+    {
+      "id": "93c7b464",
+      "bank_id": "60bbb600",
+      "text": "İnek ve Korse"
+    },
+    {
+      "id": "9421188d",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Börek Tezgâhı"
+    },
+    {
+      "id": "970e393b",
+      "bank_id": "60bbb600",
+      "text": "Pazar Meydanı No: 2, Bowerstone"
+    },
+    {
+      "id": "99b2394a",
+      "bank_id": "60bbb600",
+      "text": "Derviş İstirahati"
+    },
+    {
+      "id": "9a975a26",
+      "bank_id": "60bbb600",
+      "text": "Burası bir zamanlar, göz kamaştırıcı güzelliği kadar nezaketiyle de meşhur bir kadın olan Lavender Nice'in eviydi. Yüzlerce talibi olmasına rağmen evlenemeyecek kadar saf ruhluydu. Hâlâ güzelliğini koruyacak kadar gençken ortadan kaybolduğunda, daha yüce bir varlık mertebesine yükseldiği söylenmişti."
+    },
+    {
+      "id": "9aac94ef",
+      "bank_id": "60bbb600",
+      "text": "Mezarlık Yolu No: 2, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "9f294315",
+      "bank_id": "60bbb600",
+      "text": "Ayaktakımı Evi"
+    },
+    {
+      "id": "9f385792",
+      "bank_id": "60bbb600",
+      "text": "Bu dükkânda işlenen mücevherlerin büyülü özellikler taşıdığı söylenir."
+    },
+    {
+      "id": "a002d398",
+      "bank_id": "60bbb600",
+      "text": "Hayalet Kutup Martısı Evi"
+    },
+    {
+      "id": "a231164f",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Köprüsü No: 3, Bowerstone Pazarı"
+    },
+    {
+      "id": "a84ef1c9",
+      "bank_id": "60bbb600",
+      "text": "Nice Evi"
+    },
+    {
+      "id": "a8a351b8",
+      "bank_id": "60bbb600",
+      "text": "Burası yalnızca Albion'un en maharetli terzilerinden birinin evi olmakla kalmamış, aynı zamanda en nadide moda tasarımlarını yarattığı yer olmuştur. Duvarlarına sinmiş olan o zarafet havası bugün bile hissedilmektedir."
+    },
+    {
+      "id": "a8c54b4d",
+      "bank_id": "60bbb600",
+      "text": "Canavar Malikanesi"
+    },
+    {
+      "id": "aaea5fdd",
+      "bank_id": "60bbb600",
+      "text": "Bir zamanlar burada, en babayiğit erkeklerin dahi hayran kalmaktan kendini alamayacağı denli şık ve zevk sahibi bir züppe olan Benjamin Bennett yaşardı. Benjamin için bir bardak süt almak üzere sokakta yürümek gibi basit bir eylem bile, doğru şapkayı takarak ya da günün o saatinde güneş ışığını en iyi yakalayacak şekilde yürüyüşünü ayarlayarak bir sanat eserine dönüştürülebilirdi."
+    },
+    {
+      "id": "ab0bc548",
+      "bank_id": "60bbb600",
+      "text": "Sosyete Sokağı No: 2, Bowerstone"
+    },
+    {
+      "id": "ad8fc504",
+      "bank_id": "60bbb600",
+      "text": "Pazar Meydanı No: 1, Bowerstone"
+    },
+    {
+      "id": "ae5b52b4",
+      "bank_id": "60bbb600",
+      "text": "Bennett Evi"
+    },
+    {
+      "id": "b00d505f",
+      "bank_id": "60bbb600",
+      "text": "Pazar Meydanı No: 5, Bowerstone Pazarı"
+    },
+    {
+      "id": "b05de125",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Et Tezgâhı"
+    },
+    {
+      "id": "b143e435",
+      "bank_id": "60bbb600",
+      "text": "Sosyete Sokağı No: 3, Bowerstone"
+    },
+    {
+      "id": "b20836f2",
+      "bank_id": "60bbb600",
+      "text": "İyiniyet Evi"
+    },
+    {
+      "id": "b942346f",
+      "bank_id": "60bbb600",
+      "text": "Sosyete Sokağı No: 1, Bowerstone"
+    },
+    {
+      "id": "bd4ac1f7",
+      "bank_id": "60bbb600",
+      "text": "Çukur"
+    },
+    {
+      "id": "bf72b3bb",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Kuytu Bölgesi"
+    },
+    {
+      "id": "c6f3020a",
+      "bank_id": "60bbb600",
+      "text": "Bazen hiçbir şey sıcacık bir turtanın yerini tutamaz."
+    },
+    {
+      "id": "ce422943",
+      "bank_id": "60bbb600",
+      "text": "Çarpan Kalp"
+    },
+    {
+      "id": "d4ee1132",
+      "bank_id": "60bbb600",
+      "text": "Eski Şehir Sokağı No: 1, Bowerstone Pazarı"
+    },
+    {
+      "id": "d534d24e",
+      "bank_id": "60bbb600",
+      "text": "İsteyebileceğiniz tüm stiller burada mevcuttur."
+    },
+    {
+      "id": "d63d0e05",
+      "bank_id": "60bbb600",
+      "text": "Bower Stones"
+    },
+    {
+      "id": "d7005c96",
+      "bank_id": "60bbb600",
+      "text": "Pazar Meydanı No: 3, Bowerstone"
+    },
+    {
+      "id": "d95ffda8",
+      "bank_id": "60bbb600",
+      "text": "Simyacı Leo Head bu evi satın aldığı gün Bowerstone halkı bayram etti; zira bu namlı simyacının icatlarının hepsine fayda sağlayacağını biliyorlardı. Leo, nihayetinde bugün Fairfax Kalesi olarak bilinen yapıyı inşa edecek servete ulaşmasını sağlayan iksir deneylerini burada yapmıştı."
+    },
+    {
+      "id": "d995e911",
+      "bank_id": "60bbb600",
+      "text": "Albion'un en çetin kadın ve erkeklerinden bazıları bu çatı altında yaşamıştır. Hepsi suçlu değildi elbette, ancak ev ziyaret edilmesi tehlikeli bir yer olarak nam salmıştır."
+    },
+    {
+      "id": "d99acb9f",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Köprüsü No: 1, Bowerstone Pazarı"
+    },
+    {
+      "id": "daced5f5",
+      "bank_id": "60bbb600",
+      "text": "Pazar Yolu No: 1, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "e3b7f494",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Balık Tezgâhı"
+    },
+    {
+      "id": "e4da0994",
+      "bank_id": "60bbb600",
+      "text": "Burası vakitsiz ölümünden önce Kudretli Bonnet'in yaşadığı yerdir. Akıl almaz kuvvetiyle tanınan Bonnet, insanları karnına var güçleriyle yumruk atmaya davet eder ve en sert darbelere bile her daim dayanırdı. Ahali arasından birinin ona zehirli iğnelerle bezeli metal bir eldivenle vurmasıyla kariyeri son buldu."
+    },
+    {
+      "id": "e5fee1f3",
+      "bank_id": "60bbb600",
+      "text": "Bereket Evi"
+    },
+    {
+      "id": "ed2633c2",
+      "bank_id": "60bbb600",
+      "text": "Vaktiyle, garip görünüşü yüzünden insanların bir hobbe ile bir trollün birleşmesinden doğduğuna dair tahminler yürüttüğü Johnny Scum'un eviydi. Pek kötü kalpli olmasa da Johnny'nin cüssesi onu kaçınılmaz olarak suç dolu bir hayata itti ve Bowerstone'un en mühim suç baronlarının çoğuna fedailik yaptı."
+    },
+    {
+      "id": "eed70cb6",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Meyve ve Sebze Tezgâhı"
+    },
+    {
+      "id": "ef9ae92b",
+      "bank_id": "60bbb600",
+      "text": "İpek Ay"
+    },
+    {
+      "id": "f769d444",
+      "bank_id": "60bbb600",
+      "text": "Her çeşit kıymetli taş burada mevcuttur."
+    },
+    {
+      "id": "f867acea",
+      "bank_id": "60bbb600",
+      "text": "Mezarlık Yolu No: 1, Bowerstone Eski Şehir"
+    },
+    {
+      "id": "fb58190e",
+      "bank_id": "60bbb600",
+      "text": "Varoş Sokağı No: 1, Bowerstone"
+    },
+    {
+      "id": "fbbc5f4f",
+      "bank_id": "60bbb600",
+      "text": "Bu evde Felling çetesinin en güvenilir üç üyesi yaşardı; aynı şiddet sevgisini ve aynı yakışıklılık yoksunluğunu paylaşan üç kardeş. Ne kadar zor olursa olsun en pis işleri yürütmekten onlar sorumluydu."
+    },
+    {
+      "id": "fed6bf9d",
+      "bank_id": "60bbb600",
+      "text": "Gayriresmî bir hırsızlar loncasının üssü bu evdeydi. Üyelerinin uzmanlık alanı yankesicilikti ve ellerini neredeyse görünmez olacak bir hızla hareket ettirme talimlerini burada yaparlardı."
+    },
+    {
+      "id": "ff70e88d",
+      "bank_id": "60bbb600",
+      "text": "Bowerstone Sosyete Sokağı Bahçesi"
+    }
+  ]
+}

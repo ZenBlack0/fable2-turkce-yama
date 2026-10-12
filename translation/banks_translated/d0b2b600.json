@@ -1,0 +1,811 @@
+{
+  "bank_id": "d0b2b600",
+  "total_strings": 161,
+  "strings": [
+    {
+      "id": "002d08dd",
+      "bank_id": "d0b2b600",
+      "text": "Sana hemen burada bir altın vereyim, Muhafız arama zahmetinden kurtulursun."
+    },
+    {
+      "id": "0361fe22",
+      "bank_id": "d0b2b600",
+      "text": "Ne ödüyor sana, bir altın mı? Sana hemen şuracıkta bir altın vereyim, geri yürüme zahmetinden kurtulursun."
+    },
+    {
+      "id": "0461ff95",
+      "bank_id": "d0b2b600",
+      "text": "Pekala, seni küçük inatçı velet."
+    },
+    {
+      "id": "05620108",
+      "bank_id": "d0b2b600",
+      "text": "Bela çıkacak tabii ki. Sen bunları al, ben de dostumuza aslında ne istediğini söylerim."
+    },
+    {
+      "id": "066202fb",
+      "bank_id": "d0b2b600",
+      "text": "Yoksa başınız fena belaya girer."
+    },
+    {
+      "id": "0762046e",
+      "bank_id": "d0b2b600",
+      "text": "Öyle ama onları bana vereceksin, anladın mı?"
+    },
+    {
+      "id": "086205c1",
+      "bank_id": "d0b2b600",
+      "text": "Dostumuz muhafız da öyle istiyor."
+    },
+    {
+      "id": "08f90cad",
+      "bank_id": "d0b2b600",
+      "text": "Ve ilk altın sikkeyi kaptık!"
+    },
+    {
+      "id": "094534e7",
+      "bank_id": "d0b2b600",
+      "text": "Şimdi üç tane oldu. Kaldı iki tane."
+    },
+    {
+      "id": "096207b4",
+      "bank_id": "d0b2b600",
+      "text": "Şu topladığınız yakalama emirleri... Onları ben istiyorum."
+    },
+    {
+      "id": "0a620927",
+      "bank_id": "d0b2b600",
+      "text": "Kapa çeneni kızım, mesele o değil."
+    },
+    {
+      "id": "0b0cf262",
+      "bank_id": "d0b2b600",
+      "text": "Ve bir altın sikke daha aldık. Gerçekten başarıyoruz!"
+    },
+    {
+      "id": "0b620a9a",
+      "bank_id": "d0b2b600",
+      "text": "Dinle pis herif, bu sabah sana hayır demiştim."
+    },
+    {
+      "id": "0ca2bf3a",
+      "bank_id": "d0b2b600",
+      "text": "Başardık! Artık müzik kutusunu alabiliriz!"
+    },
+    {
+      "id": "0e6d69f0",
+      "bank_id": "d0b2b600",
+      "text": "Normalde adalet kendi ödülüdür ama bu şartlar normal olmadığına göre, al bakalım altının."
+    },
+    {
+      "id": "0eeaef0c",
+      "bank_id": "d0b2b600",
+      "text": "Bu gidişle asla şerif olamayacağım."
+    },
+    {
+      "id": "0fe0f4cb",
+      "bank_id": "d0b2b600",
+      "text": "Ve ilk altın sikkeyi kaptık!"
+    },
+    {
+      "id": "0feaf0ff",
+      "bank_id": "d0b2b600",
+      "text": "Ne kadar da sakarım yahu."
+    },
+    {
+      "id": "104f7870",
+      "bank_id": "d0b2b600",
+      "text": "Biri orada işte."
+    },
+    {
+      "id": "10eaf252",
+      "bank_id": "d0b2b600",
+      "text": "Aman tanrım, ben şimdi ne yapacağım?"
+    },
+    {
+      "id": "114f79e3",
+      "bank_id": "d0b2b600",
+      "text": "Yakalama emrine benziyor, değil mi?"
+    },
+    {
+      "id": "116d6e49",
+      "bank_id": "d0b2b600",
+      "text": "Sağ olun, hayatımı kurtardınız."
+    },
+    {
+      "id": "134f7cc9",
+      "bank_id": "d0b2b600",
+      "text": "Şu o yakalama emirlerinden biri mi?"
+    },
+    {
+      "id": "1467f83f",
+      "bank_id": "d0b2b600",
+      "text": "O da ne? Bir tutuklama emrine benziyor! Nasıl bitti burada acaba?"
+    },
+    {
+      "id": "146dcd97",
+      "bank_id": "d0b2b600",
+      "text": "Dört altın sikke! Sadece bir tane daha lazım."
+    },
+    {
+      "id": "1567f992",
+      "bank_id": "d0b2b600",
+      "text": "Diğerleri için de gözümüzü dört açmalıyız."
+    },
+    {
+      "id": "164f8182",
+      "bank_id": "d0b2b600",
+      "text": "Şuradaki de ne? O yakalama emirlerinden biri mi?"
+    },
+    {
+      "id": "165b5010",
+      "bank_id": "d0b2b600",
+      "text": "Bence tam şurasına vur..."
+    },
+    {
+      "id": "1667fb05",
+      "bank_id": "d0b2b600",
+      "text": "Biri bunları arıyor olmalı. Ve bahse girerim geri almak için para verirler."
+    },
+    {
+      "id": "175b5183",
+      "bank_id": "d0b2b600",
+      "text": "Ooh, ne yapacaksın ki, bana vuracak mısın? Aman ne korktum, ne korktum."
+    },
+    {
+      "id": "17a5c7dd",
+      "bank_id": "d0b2b600",
+      "text": "Bu... üç altın sikke oldu şimdi. İki tane daha bulursak müzik kutusunu alabiliriz."
+    },
+    {
+      "id": "195b54e9",
+      "bank_id": "d0b2b600",
+      "text": "Onun dediğini yapmak zorunda değiliz."
+    },
+    {
+      "id": "1a5b565c",
+      "bank_id": "d0b2b600",
+      "text": "Öte yandan, pisliğin teki."
+    },
+    {
+      "id": "1b5b57cf",
+      "bank_id": "d0b2b600",
+      "text": "Ay dur, beni hüngür hüngür ağlatacaksın şimdi."
+    },
+    {
+      "id": "1c5b59a2",
+      "bank_id": "d0b2b600",
+      "text": "Altın altındır herhalde. Parayı hemen şimdi istiyorsan emirleri ona verebilirsin."
+    },
+    {
+      "id": "1cc23a9c",
+      "bank_id": "d0b2b600",
+      "text": "(iç çeker)"
+    },
+    {
+      "id": "1d5b5b15",
+      "bank_id": "d0b2b600",
+      "text": "Şimdi yola geldin işte kızım."
+    },
+    {
+      "id": "1d79a113",
+      "bank_id": "d0b2b600",
+      "text": "Emirleri bulursanız bana haber verin."
+    },
+    {
+      "id": "1dc23c0f",
+      "bank_id": "d0b2b600",
+      "text": "Fısıldamalısın, annem duymasın."
+    },
+    {
+      "id": "1e79a286",
+      "bank_id": "d0b2b600",
+      "text": "Yakalama emirleri buralarda bir yerde olmalı."
+    },
+    {
+      "id": "1f79a479",
+      "bank_id": "d0b2b600",
+      "text": "Bu kasabayı temizleyeceğim... ve sonra Lord Lucien beni şerif yapacak!"
+    },
+    {
+      "id": "205b5fee",
+      "bank_id": "d0b2b600",
+      "text": "Ona vurun ya da yakalama emirlerini ona verin."
+    },
+    {
+      "id": "208b55ff",
+      "bank_id": "d0b2b600",
+      "text": "Başardık! Artık müzik kutusunu alabiliriz!"
+    },
+    {
+      "id": "20c240c8",
+      "bank_id": "d0b2b600",
+      "text": "Kurtçuklar mı Monty?"
+    },
+    {
+      "id": "21c242bb",
+      "bank_id": "d0b2b600",
+      "text": "Hayır... kelimeler."
+    },
+    {
+      "id": "22c2442e",
+      "bank_id": "d0b2b600",
+      "text": "Oh, Monty!"
+    },
+    {
+      "id": "23c24581",
+      "bank_id": "d0b2b600",
+      "text": "(iç çeker)"
+    },
+    {
+      "id": "26f594bf",
+      "bank_id": "d0b2b600",
+      "text": "Ve bir altın daha aldık. Cidden başarıyoruz bunu!"
+    },
+    {
+      "id": "27c24bcd",
+      "bank_id": "d0b2b600",
+      "text": "Seni kelimelerin anlatabileceğinden çok daha fazla seviyorum!"
+    },
+    {
+      "id": "2dd7bf70",
+      "bank_id": "d0b2b600",
+      "text": "İyi be! Beş emrin hepsi için bir altın."
+    },
+    {
+      "id": "2ed7c0e3",
+      "bank_id": "d0b2b600",
+      "text": "Öyle mi? Peki onları ne kadar çok istiyorsun?"
+    },
+    {
+      "id": "31075fa3",
+      "bank_id": "d0b2b600",
+      "text": "Bu kasabanın işini halleder işte!"
+    },
+    {
+      "id": "312caace",
+      "bank_id": "d0b2b600",
+      "text": "Güzel, ilk yakalama emrimizi aldık."
+    },
+    {
+      "id": "33edf85c",
+      "bank_id": "d0b2b600",
+      "text": "Ondan nefret ediyorum ama haklısın; başkası müzik kutusunu almadan önce altını çabucak toplamalıyız."
+    },
+    {
+      "id": "34806a68",
+      "bank_id": "d0b2b600",
+      "text": "Ve üç altın sikke oldu bile. Sadece iki tane daha ve müzik kutusunu alabiliriz."
+    },
+    {
+      "id": "35d7cbe8",
+      "bank_id": "d0b2b600",
+      "text": "Merhaba Derek. Bir şey mi kaybettin?"
+    },
+    {
+      "id": "36d7cd5e",
+      "bank_id": "d0b2b600",
+      "text": "Hey, çocuklar. Bir dakka buraya gelin hele!"
+    },
+    {
+      "id": "37d07d22",
+      "bank_id": "d0b2b600",
+      "text": "Ve üç altın sikke oldu bile. Sadece iki tane daha ve müzik kutusunu alabiliriz."
+    },
+    {
+      "id": "37d7cece",
+      "bank_id": "d0b2b600",
+      "text": "Şimdiye dek Bowerstone'un dört bir yanına dağılmış olabilirler ve ben nöbet yerimi terk edemem."
+    },
+    {
+      "id": "38d7d0a1",
+      "bank_id": "d0b2b600",
+      "text": "Tutuklama emirlerim. Ellerimden uçup gitti."
+    },
+    {
+      "id": "39d7d214",
+      "bank_id": "d0b2b600",
+      "text": "Küçük muhafızlar gibi olabilirsiniz! Kulağa eğlenceli geliyor değil mi?"
+    },
+    {
+      "id": "3ad7d387",
+      "bank_id": "d0b2b600",
+      "text": "Hey, neden onları benim için bulmuyorsunuz?"
+    },
+    {
+      "id": "3bd7d57a",
+      "bank_id": "d0b2b600",
+      "text": "Para mı? Dinleyin çocuklar, bunlar Bowerstone'un en çok aranan beş suçlusu."
+    },
+    {
+      "id": "3cd7d6ed",
+      "bank_id": "d0b2b600",
+      "text": "Küçük muhafızlara ne kadar ödeniyor peki?"
+    },
+    {
+      "id": "3ebcf22d",
+      "bank_id": "d0b2b600",
+      "text": "Hadi şu Saksağan denen herifi bulalım."
+    },
+    {
+      "id": "47e07855",
+      "bank_id": "d0b2b600",
+      "text": "Buralarda bir yerde olmalılar."
+    },
+    {
+      "id": "4b425207",
+      "bank_id": "d0b2b600",
+      "text": "Ve üç altın sikke oldu bile. Sadece iki tane daha ve müzik kutusunu alabiliriz."
+    },
+    {
+      "id": "4c31c041",
+      "bank_id": "d0b2b600",
+      "text": "Ama dur bir dakika... Bu beşincisi! Artık müzik kutusunu alabiliriz!"
+    },
+    {
+      "id": "501ef3c0",
+      "bank_id": "d0b2b600",
+      "text": "Evet, bir emir daha! Hmm, bu Leroy'u görürlerse gözden kaçıracaklarını hiç sanmıyorum."
+    },
+    {
+      "id": "51d0cb0a",
+      "bank_id": "d0b2b600",
+      "text": "Uzatın şu emirleri. Karşılığında bir altın var."
+    },
+    {
+      "id": "51edecdc",
+      "bank_id": "d0b2b600",
+      "text": "Ona vermek istediğinden emin misin? Tam bir cadoloz gibi görünüyor."
+    },
+    {
+      "id": "53edf022",
+      "bank_id": "d0b2b600",
+      "text": "Altını aldığımız sürece tek önemli olan bu bence."
+    },
+    {
+      "id": "54edf195",
+      "bank_id": "d0b2b600",
+      "text": "Belki de Belinda'ya vermeliyiz. Muhtemelen doğru olan bu. Of, bilmiyorum ki."
+    },
+    {
+      "id": "55daff26",
+      "bank_id": "d0b2b600",
+      "text": "Özür dilerim sevgilim! Ama o büyülü bakışlarınla beni büyülediğinde aklım başımdan gidiyor, ne dediğimi bilemiyorum."
+    },
+    {
+      "id": "56db0099",
+      "bank_id": "d0b2b600",
+      "text": "Oh Monty... sahiden öyle mi?"
+    },
+    {
+      "id": "584fb7b8",
+      "bank_id": "d0b2b600",
+      "text": "İyi seçim."
+    },
+    {
+      "id": "58acd1da",
+      "bank_id": "d0b2b600",
+      "text": "Ve dört altın sikkemiz oldu. Sadece bir tane daha lazım."
+    },
+    {
+      "id": "58d37143",
+      "bank_id": "d0b2b600",
+      "text": "Yakalama emirlerini buldunuz mu?"
+    },
+    {
+      "id": "59542cbf",
+      "bank_id": "d0b2b600",
+      "text": "Kapıyı çal da bakalım kim açacak."
+    },
+    {
+      "id": "59d37336",
+      "bank_id": "d0b2b600",
+      "text": "O emirleri bir elime geçireyim, Moniker çetesi tarihe karışacak! Ve kariyerim parlayacak."
+    },
+    {
+      "id": "5a53649d",
+      "bank_id": "d0b2b600",
+      "text": "Bütün emirler tamam. O muhafızın yanına dönmeliyiz."
+    },
+    {
+      "id": "5ad374a9",
+      "bank_id": "d0b2b600",
+      "text": "Nerede bu yakalama emirleri?"
+    },
+    {
+      "id": "5b4fbc71",
+      "bank_id": "d0b2b600",
+      "text": "Görüşürüz çocuklar."
+    },
+    {
+      "id": "5c2004a6",
+      "bank_id": "d0b2b600",
+      "text": "Ve ilk altın sikkeyi kaptık!"
+    },
+    {
+      "id": "5fcf21d4",
+      "bank_id": "d0b2b600",
+      "text": "Başardık! Artık müzik kutusunu alabiliriz!"
+    },
+    {
+      "id": "60ae7f3c",
+      "bank_id": "d0b2b600",
+      "text": "Bazı insanların dilekleri gerçek oluyor demek."
+    },
+    {
+      "id": "60db1057",
+      "bank_id": "d0b2b600",
+      "text": "Öğğ... Monty... bu cidden biraz iğrenç."
+    },
+    {
+      "id": "62a60b21",
+      "bank_id": "d0b2b600",
+      "text": "Derek için tutuklama emirleri geri alınsın mı?"
+    },
+    {
+      "id": "62b6544c",
+      "bank_id": "d0b2b600",
+      "text": "O zaman o emirlere bakarız ama şimdilik biraz daha para bulalım."
+    },
+    {
+      "id": "62dd5214",
+      "bank_id": "d0b2b600",
+      "text": "Ve hiçbirinde testere falan yok; gerçekten özür dilerim, o laf nereden çıktı hiç bilmiyorum."
+    },
+    {
+      "id": "63ae83f5",
+      "bank_id": "d0b2b600",
+      "text": "Duymak istediğim her şeyi duydum, hadi gidelim."
+    },
+    {
+      "id": "63dd5387",
+      "bank_id": "d0b2b600",
+      "text": "Evet! Sana söylemek istediğim, haykırmak istediğim, şarkılarla anlatmak istediğim o kadar çok şey var ki. Göğsümü patlatacak gibi olan bir aşk şiiri."
+    },
+    {
+      "id": "65dd56ed",
+      "bank_id": "d0b2b600",
+      "text": "Aahhh..."
+    },
+    {
+      "id": "6e9bbabf",
+      "bank_id": "d0b2b600",
+      "text": "Hey, işte benim en sevdiğim velet ikilisi."
+    },
+    {
+      "id": "6f78ba2c",
+      "bank_id": "d0b2b600",
+      "text": "Ve bir altın sikke daha aldık. Gerçekten başarıyoruz!"
+    },
+    {
+      "id": "72082bc4",
+      "bank_id": "d0b2b600",
+      "text": "O emirler buradan çok uzakta olamaz."
+    },
+    {
+      "id": "73db60d4",
+      "bank_id": "d0b2b600",
+      "text": "Bunun yanına kâr kalmasına bir daha izin vermeyeceğim!"
+    },
+    {
+      "id": "76e7c74a",
+      "bank_id": "d0b2b600",
+      "text": "%1 / 5 yakalama emri"
+    },
+    {
+      "id": "78cb5890",
+      "bank_id": "d0b2b600",
+      "text": "Ah biliyorum. Çok tatlısın."
+    },
+    {
+      "id": "79cb5a03",
+      "bank_id": "d0b2b600",
+      "text": "Ama sana daha önce de söyledim, seni yanımıza alamayız."
+    },
+    {
+      "id": "79e71a1c",
+      "bank_id": "d0b2b600",
+      "text": "Pekala. Bu, o böcekleri öldürmemizi telafi eder."
+    },
+    {
+      "id": "7b70b50e",
+      "bank_id": "d0b2b600",
+      "text": "Şu Belinda olmalı."
+    },
+    {
+      "id": "7bcb5d69",
+      "bank_id": "d0b2b600",
+      "text": "Hey, bizim için bir tane bulmuş! Aferin oğluma!"
+    },
+    {
+      "id": "7ecb6222",
+      "bank_id": "d0b2b600",
+      "text": "Hadi bakalım küçük Sparrow."
+    },
+    {
+      "id": "83da759f",
+      "bank_id": "d0b2b600",
+      "text": "Ne olacak peki şimdi?"
+    },
+    {
+      "id": "84da7772",
+      "bank_id": "d0b2b600",
+      "text": "Hadi, çek şu herifi aradan."
+    },
+    {
+      "id": "86a08b3d",
+      "bank_id": "d0b2b600",
+      "text": "Albion'un En Çok Arananları"
+    },
+    {
+      "id": "9397abe0",
+      "bank_id": "d0b2b600",
+      "text": "Ve dört altın sikke oldu! Bir tane daha lazım sadece."
+    },
+    {
+      "id": "95133d00",
+      "bank_id": "d0b2b600",
+      "text": "Hadi, kapıyı çal."
+    },
+    {
+      "id": "9630fd80",
+      "bank_id": "d0b2b600",
+      "text": "Derek'e yakalama emirleri verilsin mi?"
+    },
+    {
+      "id": "97134066",
+      "bank_id": "d0b2b600",
+      "text": "Ev burası. Çalalım hadi. Beklemenin manası yok."
+    },
+    {
+      "id": "981341d9",
+      "bank_id": "d0b2b600",
+      "text": "Kapıyı çal. Mektubu teslim etmezsek altını alamayız."
+    },
+    {
+      "id": "9e653d5d",
+      "bank_id": "d0b2b600",
+      "text": "(kıkırdar) Bu mektup berbat bir şey. Şunu bir dinle..."
+    },
+    {
+      "id": "9e6d211f",
+      "bank_id": "d0b2b600",
+      "text": "Yine o köpek geldi."
+    },
+    {
+      "id": "9f653ecb",
+      "bank_id": "d0b2b600",
+      "text": "Sevgilim, kaç benimle buralardan. İki kumru gibi, aşkın tatlı rüzgârında süzülüp bu saadetimizle dünyanın üstüne yükselelim, bulutların arasında sonsuza dek sarmaş dolaş olalım."
+    },
+    {
+      "id": "a06540be",
+      "bank_id": "d0b2b600",
+      "text": "Öğğk."
+    },
+    {
+      "id": "a1654211",
+      "bank_id": "d0b2b600",
+      "text": "Ne?"
+    },
+    {
+      "id": "a2654384",
+      "bank_id": "d0b2b600",
+      "text": "\"Ayyy ne tatlı\" dedim."
+    },
+    {
+      "id": "a71a7e3b",
+      "bank_id": "d0b2b600",
+      "text": "Orada durun bakalım sizi küçük veletler."
+    },
+    {
+      "id": "a9d86f97",
+      "bank_id": "d0b2b600",
+      "text": "Rüşvet kabul edilip yakalama emirleri muhafız yerine Arfur'a verilsin mi?"
+    },
+    {
+      "id": "aa648ac5",
+      "bank_id": "d0b2b600",
+      "text": "Ben çocukken veletler kanuna saygı duyardı. O günler geride kalmış demek."
+    },
+    {
+      "id": "aab5fe08",
+      "bank_id": "d0b2b600",
+      "text": "Anlaştık."
+    },
+    {
+      "id": "ab33b07f",
+      "bank_id": "d0b2b600",
+      "text": "Nereye gittiğinizi sanıyorsunuz?"
+    },
+    {
+      "id": "adad1510",
+      "bank_id": "d0b2b600",
+      "text": "Demek kaybettiğim emirleri bulmama yardım edeceksiniz ha?"
+    },
+    {
+      "id": "b2ad0381",
+      "bank_id": "d0b2b600",
+      "text": "Hadi gidip emirleri muhafıza verelim."
+    },
+    {
+      "id": "b3ad0574",
+      "bank_id": "d0b2b600",
+      "text": "Bunun için bir bandaj gerekecek herhalde!"
+    },
+    {
+      "id": "b4ad06e7",
+      "bank_id": "d0b2b600",
+      "text": "Çok iyi!"
+    },
+    {
+      "id": "b5ad085a",
+      "bank_id": "d0b2b600",
+      "text": "Ayyy! Seni küçük... Aaaah!"
+    },
+    {
+      "id": "b60c4c85",
+      "bank_id": "d0b2b600",
+      "text": "Ha ha! Amma komik şey öyle."
+    },
+    {
+      "id": "b73cb1b3",
+      "bank_id": "d0b2b600",
+      "text": "Ne diyorsunuz? Kanun ve hükümet için üstünüze düşeni yapacak mısınız?"
+    },
+    {
+      "id": "b7aaf035",
+      "bank_id": "d0b2b600",
+      "text": "Ve dört altın sikke bulduk. Sadece bir tane daha lazım."
+    },
+    {
+      "id": "b83cb326",
+      "bank_id": "d0b2b600",
+      "text": "Bu hareketinizle Eski Şehir'i daha güvenli bir yer kılabilirsiniz! Ve, şey, kendinize bir altın da kazanırsınız."
+    },
+    {
+      "id": "b93cb499",
+      "bank_id": "d0b2b600",
+      "text": "Bahsettiğimiz adamlar çok tekinsiz tipler. Ve onları adalete teslim etmek için yardımınıza ihtiyacım var!"
+    },
+    {
+      "id": "bca0d069",
+      "bank_id": "d0b2b600",
+      "text": "Ve bir altın sikke daha aldık. Gerçekten başarıyoruz!"
+    },
+    {
+      "id": "c2b6c26d",
+      "bank_id": "d0b2b600",
+      "text": "Şey, peki çocuklar, demin konuştuğumuz o kayıp kedinizi görmedim maalesef. Umarım bulursunuz!"
+    },
+    {
+      "id": "c4c0fbe4",
+      "bank_id": "d0b2b600",
+      "text": "İçeri girelim hadi."
+    },
+    {
+      "id": "c6c0feca",
+      "bank_id": "d0b2b600",
+      "text": "Gidip şu mektubu teslim edelim, ne dersin?"
+    },
+    {
+      "id": "c7c100bd",
+      "bank_id": "d0b2b600",
+      "text": "Hadi, içeri girelim."
+    },
+    {
+      "id": "c81b1b1e",
+      "bank_id": "d0b2b600",
+      "text": "Buldunuz mu onları?"
+    },
+    {
+      "id": "ceadd446",
+      "bank_id": "d0b2b600",
+      "text": "Daha fazla emre bakarız ama şimdilik biraz daha para bulalım."
+    },
+    {
+      "id": "d929119b",
+      "bank_id": "d0b2b600",
+      "text": "Monty adına bir mektup teslim edilsin mi?"
+    },
+    {
+      "id": "df6d223c",
+      "bank_id": "d0b2b600",
+      "text": "Emirler şu tarafa doğru uçtu, şu resim kutulu adamın oradaki ara sokaktan."
+    },
+    {
+      "id": "e1682c8a",
+      "bank_id": "d0b2b600",
+      "text": "Bana yardım edeceğinizi biliyordum."
+    },
+    {
+      "id": "e26d26f5",
+      "bank_id": "d0b2b600",
+      "text": "İki küçük velet tarafından zorbalığa uğramak da ne güzel bir gün ama, söyleyeyim."
+    },
+    {
+      "id": "e64b9f58",
+      "bank_id": "d0b2b600",
+      "text": "Ve ilk altın sikkeyi kaptık!"
+    },
+    {
+      "id": "e78cdfbc",
+      "bank_id": "d0b2b600",
+      "text": "Bulunacak tek bir yakalama emri kaldı. Gözünüzü dört açın!"
+    },
+    {
+      "id": "eda44a23",
+      "bank_id": "d0b2b600",
+      "text": "Yok canım, bunu yapmazsın. Aramızda bir anlaşma var, seninle benim."
+    },
+    {
+      "id": "f0730a3d",
+      "bank_id": "d0b2b600",
+      "text": "Pekala, ne zaman bulursanız artık..."
+    },
+    {
+      "id": "f8665f2f",
+      "bank_id": "d0b2b600",
+      "text": "Demek Monty'nin bulutlarda öpüp koklayacağı, bütün o zırvalıkları yapacağı kadın bu."
+    },
+    {
+      "id": "f9666082",
+      "bank_id": "d0b2b600",
+      "text": "Neyse, mektup onun için. Yoksa aşağı kata geri mi dönmek istiyorsun?"
+    },
+    {
+      "id": "fa666275",
+      "bank_id": "d0b2b600",
+      "text": "Monty bize para ödeyeceğini söylemişti. Ödese iyi eder."
+    },
+    {
+      "id": "fa8af028",
+      "bank_id": "d0b2b600",
+      "text": "Evet, her yere sakladığımız o altın sikke zulamızı bulamayınca ben de gıcık oluyorum, değil mi?"
+    },
+    {
+      "id": "fb8af19b",
+      "bank_id": "d0b2b600",
+      "text": "Mektubu annesine vermek en kolayı olurdu. Ama Monty'nin kalbini kırmış oluruz."
+    },
+    {
+      "id": "fc564181",
+      "bank_id": "d0b2b600",
+      "text": "\"Ayağını denk al Lord Lucien. Kasabada yeni bir şerif var!\" Bak bu çok etkileyici oldu."
+    },
+    {
+      "id": "fc8af30e",
+      "bank_id": "d0b2b600",
+      "text": "Ne diyorsun peki? Belinda'yı aramaya mı gidelim yoksa burada mı kalalım?"
+    },
+    {
+      "id": "fcd528e2",
+      "bank_id": "d0b2b600",
+      "text": "Albion'un en acımasız suçlularının yakalama emirlerini bularak bir altın sikke kazanın."
+    },
+    {
+      "id": "fd564374",
+      "bank_id": "d0b2b600",
+      "text": "\"Kalan günlerimde Bowerstone'a sadakatle hizmet edeceğim.\" Yok, fazla edebi oldu."
+    },
+    {
+      "id": "fe2d05f7",
+      "bank_id": "d0b2b600",
+      "text": "Muhafızların da onları aradığına eminim."
+    },
+    {
+      "id": "fe5644e7",
+      "bank_id": "d0b2b600",
+      "text": "\"Bu güzel beldenin Şerifi olarak atanmak bir onurdur Lord Lucien.\" Yok, yok yok, fazla resmi oldu."
+    },
+    {
+      "id": "ff2d076a",
+      "bank_id": "d0b2b600",
+      "text": "Bela çıkacak tabii. Sen bunları al, ben de kanuna aslında ne istediğini söyleyeyim."
+    },
+    {
+      "id": "ff56465a",
+      "bank_id": "d0b2b600",
+      "text": "İşte bu kadar, kariyerim parladı artık."
+    }
+  ]
+}

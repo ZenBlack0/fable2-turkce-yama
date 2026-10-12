@@ -1,0 +1,786 @@
+{
+  "bank_id": "f0542802",
+  "total_strings": 156,
+  "strings": [
+    {
+      "id": "0849e735",
+      "bank_id": "f0542802",
+      "text": "Buna inanamıyorum! Hayatım bitti benim!"
+    },
+    {
+      "id": "0849e73e",
+      "bank_id": "f0542802",
+      "text": "Ona dokunma sakın, seni pis aşüfte!"
+    },
+    {
+      "id": "084ff7e7",
+      "bank_id": "f0542802",
+      "text": "Karımın yanında ne yapıyorsun sen?!"
+    },
+    {
+      "id": "084ff7ec",
+      "bank_id": "f0542802",
+      "text": "Ne?! O benim kocam!!"
+    },
+    {
+      "id": "08523675",
+      "bank_id": "f0542802",
+      "text": "Çek ellerini erkeğimin üstünden!"
+    },
+    {
+      "id": "0852367e",
+      "bank_id": "f0542802",
+      "text": "O benim karım! Çıranı yakarım senin!"
+    },
+    {
+      "id": "0ad0a428",
+      "bank_id": "f0542802",
+      "text": "Evimle övünen biri olduğumdan değil ama daha güzel eşyalarımız olabilirdi sence de öyle değil mi?"
+    },
+    {
+      "id": "0ad0a42a",
+      "bank_id": "f0542802",
+      "text": "Neden sürekli sefiller gibi yaşamak zorundayız? Yani mobilyalarımızı gördün mü hiç?!"
+    },
+    {
+      "id": "0ad0a42b",
+      "bank_id": "f0542802",
+      "text": "Evimiz için daha güzel şeyleri karşılayabiliriz bence, sence de öyle değil mi sevgilim?"
+    },
+    {
+      "id": "0ad0a42c",
+      "bank_id": "f0542802",
+      "text": "Bizim evi kim dekore etti böyle? Hobbe'ler mi? Parmağını kımıldat da bir şeyler yap canım."
+    },
+    {
+      "id": "0ad0a42d",
+      "bank_id": "f0542802",
+      "text": "Neden eve biraz altın harcamıyorsun? Mobilyalarımız dökülüyor resmen."
+    },
+    {
+      "id": "0ad0a42e",
+      "bank_id": "f0542802",
+      "text": "Eve birini çağırmaktan utanıyorum. En başta mobilyalarımız tam bir rezalet!"
+    },
+    {
+      "id": "0ad0a42f",
+      "bank_id": "f0542802",
+      "text": "Mobilyalarımızın kalitesine bir bak lütfen canım. Şüphesiz daha iyisini yapabiliriz."
+    },
+    {
+      "id": "0fd0abc9",
+      "bank_id": "f0542802",
+      "text": "Evimle övünen biri olduğumdan değil ama daha güzel eşyalarımız olabilirdi sence de öyle değil mi?"
+    },
+    {
+      "id": "0fd0abca",
+      "bank_id": "f0542802",
+      "text": "Evimiz için daha güzel şeyleri karşılayabiliriz bence, sence de öyle değil mi sevgilim?"
+    },
+    {
+      "id": "0fd0abcb",
+      "bank_id": "f0542802",
+      "text": "Neden sürekli sefiller gibi yaşamak zorundayız? Yani mobilyalarımızı gördün mü hiç?!"
+    },
+    {
+      "id": "0fd0abcc",
+      "bank_id": "f0542802",
+      "text": "Neden evimize biraz altın harcamıyorsun? Mobilyalarımız dökülüyor resmen."
+    },
+    {
+      "id": "17a74543",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim!"
+    },
+    {
+      "id": "17a74548",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim!"
+    },
+    {
+      "id": "17b64fc2",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "17b64fc9",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "17b88e60",
+      "bank_id": "f0542802",
+      "text": "Uzak dur erkeğimden!"
+    },
+    {
+      "id": "17b88e6b",
+      "bank_id": "f0542802",
+      "text": "Uzak dur kadınımdan!"
+    },
+    {
+      "id": "1d5bc7e4",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "1d5bc7ef",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "1d5e0606",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! Uzak dur ondan!"
+    },
+    {
+      "id": "1d5e060d",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! Uzak dur ondan!"
+    },
+    {
+      "id": "1d628323",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "1d628328",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "1dfd04c0",
+      "bank_id": "f0542802",
+      "text": "Bana bu davranışından bıktım artık! Böyle devam edersen aramızdaki her şey biter!"
+    },
+    {
+      "id": "1dfd04c1",
+      "bank_id": "f0542802",
+      "text": "Bir kocaya böyle davranılmaz! Böyle devam ederse çekip gidiyorum!"
+    },
+    {
+      "id": "1dfd04c2",
+      "bank_id": "f0542802",
+      "text": "İşler düzelmezse bu evlilik biter!"
+    },
+    {
+      "id": "1dfd04c4",
+      "bank_id": "f0542802",
+      "text": "Seni uyarıyorum. Avukatlarımla konuştum ve boşanmayı düşünüyorum."
+    },
+    {
+      "id": "1dfd04c5",
+      "bank_id": "f0542802",
+      "text": "Bana böyle kötü davranmaya devam edersen kocasız kalırsın!"
+    },
+    {
+      "id": "1dfd04c6",
+      "bank_id": "f0542802",
+      "text": "Çok geçmeden kendine çeki düzen vermezsen seni temelli terk edeceğim."
+    },
+    {
+      "id": "1dfd04c7",
+      "bank_id": "f0542802",
+      "text": "Bu saçmalıklara devam edersen boşanma vakti geldi demektir!"
+    },
+    {
+      "id": "26fd1328",
+      "bank_id": "f0542802",
+      "text": "Buna daha fazla katlanmayacağım! Boşanmayı ciddi ciddi düşünüyorum."
+    },
+    {
+      "id": "26fd1329",
+      "bank_id": "f0542802",
+      "text": "Bana böyle davranmaya devam edebileceğini mi sanıyorsun gerçekten? Devam et de bu evlilik nasıl bitiyor gör!"
+    },
+    {
+      "id": "26fd132a",
+      "bank_id": "f0542802",
+      "text": "Bu saçmalıklara devam edersen boşanma vakti geldi demektir!"
+    },
+    {
+      "id": "26fd132b",
+      "bank_id": "f0542802",
+      "text": "Çok geçmeden kendine çeki düzen vermezsen seni temelli terk edeceğim."
+    },
+    {
+      "id": "26fd132c",
+      "bank_id": "f0542802",
+      "text": "Bana böyle davranılmasından bıktım! Ya değişirsin ya da boşanırız!"
+    },
+    {
+      "id": "26fd132d",
+      "bank_id": "f0542802",
+      "text": "Buna daha fazla dayanamayacağım. İşler değişmezse temelli gidiyorum!"
+    },
+    {
+      "id": "26fd132f",
+      "bank_id": "f0542802",
+      "text": "İşler böyle kalırsa bir sabah uyanıp beni gitmiş bulacaksın!"
+    },
+    {
+      "id": "296f1fa7",
+      "bank_id": "f0542802",
+      "text": "Seni şeytan, seni cadı, seni yelloz! O benim kocam!"
+    },
+    {
+      "id": "296f1fac",
+      "bank_id": "f0542802",
+      "text": "Evli kadınlardan uzak dur, özellikle benimkinden!"
+    },
+    {
+      "id": "29776ee2",
+      "bank_id": "f0542802",
+      "text": "Kocama yaklaşmaya cüret bile etme!"
+    },
+    {
+      "id": "29776ee9",
+      "bank_id": "f0542802",
+      "text": "Karımdan uzak durursan çok memnun olurum!"
+    },
+    {
+      "id": "2979ad00",
+      "bank_id": "f0542802",
+      "text": "Karımın yanında ne yaptığını sanıyorsun sen?!"
+    },
+    {
+      "id": "2979ad0b",
+      "bank_id": "f0542802",
+      "text": "Kocamın yanında ne yaptığını sanıyorsun sen?!"
+    },
+    {
+      "id": "521e6a00",
+      "bank_id": "f0542802",
+      "text": "Bizimkinden daha iyi döşenmiş bir ev gören oldu mu hiç? Hiç sanmıyorum."
+    },
+    {
+      "id": "521e6a01",
+      "bank_id": "f0542802",
+      "text": "Bizimkinden daha iyi döşenmiş bir ev gören oldu mu hiç? Hiç sanmıyorum."
+    },
+    {
+      "id": "521e6a02",
+      "bank_id": "f0542802",
+      "text": "Bahse girerim bizim mobilyalarımıza sahip olmak için adam öldürecek bir sürü sosyete vardır."
+    },
+    {
+      "id": "521e6a03",
+      "bank_id": "f0542802",
+      "text": "Evimiz her kaleden daha lüks."
+    },
+    {
+      "id": "521e6a04",
+      "bank_id": "f0542802",
+      "text": "İçinde bu kadar güzel eşyalar olan bir evde yaşayacağımı hiç düşünmezdim!"
+    },
+    {
+      "id": "521e6a05",
+      "bank_id": "f0542802",
+      "text": "Evimiz tek kelimeyle harika dekore edilmiş, değil mi?"
+    },
+    {
+      "id": "521e6a07",
+      "bank_id": "f0542802",
+      "text": "İçinde bu kadar güzel eşyalar olan bir evde yaşayacağımı hiç düşünmezdim!"
+    },
+    {
+      "id": "57a9e811",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "57a9e81a",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "57ac26b5",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "57ac26be",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "591e7508",
+      "bank_id": "f0542802",
+      "text": "Evimiz tek kelimeyle harika dekore edilmiş, değil mi?"
+    },
+    {
+      "id": "591e7509",
+      "bank_id": "f0542802",
+      "text": "İçinde bu kadar güzel eşyalar olan bir evde yaşayacağımı hiç düşünmezdim!"
+    },
+    {
+      "id": "591e750a",
+      "bank_id": "f0542802",
+      "text": "İçinde bu kadar güzel eşyalar olan bir evde yaşayacağımı hiç düşünmezdim!"
+    },
+    {
+      "id": "591e750c",
+      "bank_id": "f0542802",
+      "text": "Bizimkinden daha iyi döşenmiş bir ev gören oldu mu hiç? Hiç sanmıyorum."
+    },
+    {
+      "id": "591e750d",
+      "bank_id": "f0542802",
+      "text": "Bu mobilyalar hayatında gördüğün en muhteşem mobilyalar değil mi?"
+    },
+    {
+      "id": "591e750e",
+      "bank_id": "f0542802",
+      "text": "Bahse girerim bizim mobilyalarımıza sahip olmak için adam öldürecek bir sürü sosyete vardır."
+    },
+    {
+      "id": "591e750f",
+      "bank_id": "f0542802",
+      "text": "İçinde bu kadar güzel eşyalar olan bir evim olacağını hiç düşünmezdim."
+    },
+    {
+      "id": "5d561c76",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "5d561c7d",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas!"
+    },
+    {
+      "id": "5d585a94",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! Defol buradan!"
+    },
+    {
+      "id": "5d585a9f",
+      "bank_id": "f0542802",
+      "text": "Hey! Ben onunla evliyim! O yüzden geri bas! Defol buradan!"
+    },
+    {
+      "id": "8de1e203",
+      "bank_id": "f0542802",
+      "text": "Sana güvenemeyeceğimi bilmeliydim!"
+    },
+    {
+      "id": "8de1e208",
+      "bank_id": "f0542802",
+      "text": "Ama nasıl yapabildin!? Sana her şeyimi verdim ben!"
+    },
+    {
+      "id": "8df0ec82",
+      "bank_id": "f0542802",
+      "text": "Seni köpek! Tek olduğumu söylemiştin!"
+    },
+    {
+      "id": "8df0ec89",
+      "bank_id": "f0542802",
+      "text": "Seni pis aldatan yelloz!"
+    },
+    {
+      "id": "8df32b20",
+      "bank_id": "f0542802",
+      "text": "Seni domuz kılıklı aşüfte! Nasıl yapabildin?!"
+    },
+    {
+      "id": "8df32b2b",
+      "bank_id": "f0542802",
+      "text": "Ne?! Bütün yaşadıklarımızdan sonra mı?!"
+    },
+    {
+      "id": "938bd7c0",
+      "bank_id": "f0542802",
+      "text": "Kutsal yeminlerimiz senin için bu kadar mı değersizdi?!"
+    },
+    {
+      "id": "938bd7cb",
+      "bank_id": "f0542802",
+      "text": "Seni hilekâr fingirdek! Nasıl yapabildin?!"
+    },
+    {
+      "id": "938e1662",
+      "bank_id": "f0542802",
+      "text": "Seni aldatan cadı! Aaaah!"
+    },
+    {
+      "id": "938e1669",
+      "bank_id": "f0542802",
+      "text": "Ne?! Umarım düşündüğüm şey değildir bu!"
+    },
+    {
+      "id": "9394d1a4",
+      "bank_id": "f0542802",
+      "text": "Siz erkeklerin hepsi aynısınız! Nefret ediyorum senden!"
+    },
+    {
+      "id": "9394d1af",
+      "bank_id": "f0542802",
+      "text": "Sadece beni sevdiğini söylemiştin!"
+    },
+    {
+      "id": "939710c6",
+      "bank_id": "f0542802",
+      "text": "Sana güvenemeyeceğimi bilmeliydim!"
+    },
+    {
+      "id": "939710cd",
+      "bank_id": "f0542802",
+      "text": "Tek kadının ben olduğumu söylemiştin! Domuz!"
+    },
+    {
+      "id": "939d20e3",
+      "bank_id": "f0542802",
+      "text": "Seni taş kalpli canavar! Senin için yaptıklarımın ardından hem de!"
+    },
+    {
+      "id": "939d20e8",
+      "bank_id": "f0542802",
+      "text": "Bunu bana yapabildiğine inanamıyorum!"
+    },
+    {
+      "id": "abfc5de0",
+      "bank_id": "f0542802",
+      "text": "Evimiz gerçekten bir tadilatı hak ediyor."
+    },
+    {
+      "id": "abfc5de1",
+      "bank_id": "f0542802",
+      "text": "Evimiz biraz dökük görünmeye başladı. Bu konuda bir şeyler yapmalıyız."
+    },
+    {
+      "id": "abfc5de3",
+      "bank_id": "f0542802",
+      "text": "Yeniden dekore etme vaktimiz gelmedi mi sence de sevgilim?"
+    },
+    {
+      "id": "abfc5de4",
+      "bank_id": "f0542802",
+      "text": "Küçük bir tadilatın vakti geldi sanırım, sen ne dersin canım?"
+    },
+    {
+      "id": "abfc5de5",
+      "bank_id": "f0542802",
+      "text": "Odalarımızdan bazılarını yenilemenin tam zamanı."
+    },
+    {
+      "id": "abfc5de6",
+      "bank_id": "f0542802",
+      "text": "Hımm... Neden bizim evimizde hiç güzel şeyler yok acaba?"
+    },
+    {
+      "id": "abfc5de7",
+      "bank_id": "f0542802",
+      "text": "Eve yeni bir şeyler alamaz mıyız? Yani baksana bir şuna!"
+    },
+    {
+      "id": "b136dca8",
+      "bank_id": "f0542802",
+      "text": "Beni nasıl aldatırsın??!!"
+    },
+    {
+      "id": "b136dca9",
+      "bank_id": "f0542802",
+      "text": "Beni nasıl aldatırsın??!!"
+    },
+    {
+      "id": "b136dcad",
+      "bank_id": "f0542802",
+      "text": "Beni nasıl aldatırsın??!!"
+    },
+    {
+      "id": "b136dcae",
+      "bank_id": "f0542802",
+      "text": "Beni nasıl aldatırsın??!!"
+    },
+    {
+      "id": "b136dcaf",
+      "bank_id": "f0542802",
+      "text": "Beni nasıl aldatırsın??!!"
+    },
+    {
+      "id": "b2fc68e0",
+      "bank_id": "f0542802",
+      "text": "Odalarımızdan bazılarını yenilemenin tam zamanı."
+    },
+    {
+      "id": "b2fc68e1",
+      "bank_id": "f0542802",
+      "text": "Küçük bir tadilatın vakti geldi sanırım, sen ne dersin canım?"
+    },
+    {
+      "id": "b2fc68e2",
+      "bank_id": "f0542802",
+      "text": "Eve yeni bir şeyler alamaz mıyız? Yani baksana bir şuna!"
+    },
+    {
+      "id": "b2fc68e3",
+      "bank_id": "f0542802",
+      "text": "Neden bizim evimizde güzel şeyler yok acaba?"
+    },
+    {
+      "id": "b2fc68e4",
+      "bank_id": "f0542802",
+      "text": "Evimiz biraz dökük görünmeye başladı. Bu konuda bir şeyler yapmalıyız."
+    },
+    {
+      "id": "b2fc68e5",
+      "bank_id": "f0542802",
+      "text": "Evimiz gerçekten bir tadilatı hak ediyor."
+    },
+    {
+      "id": "b2fc68e6",
+      "bank_id": "f0542802",
+      "text": "Yeniden dekore etme vaktimiz gelmedi mi sence de sevgilim?"
+    },
+    {
+      "id": "ba76b888",
+      "bank_id": "f0542802",
+      "text": "Evimiz tek kelimeyle harika dekore edilmiş, değil mi?"
+    },
+    {
+      "id": "ba76b88a",
+      "bank_id": "f0542802",
+      "text": "Bahse girerim evimizin dekorasyonunu herkes kıskanıyordur."
+    },
+    {
+      "id": "ba76b88b",
+      "bank_id": "f0542802",
+      "text": "Kimsenin bizimkinden daha güzel mobilyaları olabileceğini sanmıyorum."
+    },
+    {
+      "id": "ba76b88c",
+      "bank_id": "f0542802",
+      "text": "Bizim kulübenin mobilyalarının üstüne yoktur. Birinci sınıf eşyalar!"
+    },
+    {
+      "id": "ba76b88d",
+      "bank_id": "f0542802",
+      "text": "Evimizdeki eşyalar neredeyse fazla güzel. Sürekli bir şeyi batıracağım diye korkuyorum."
+    },
+    {
+      "id": "ba76b88e",
+      "bank_id": "f0542802",
+      "text": "Ah, şu küçük sarayımızın dekorasyonu tek kelimeyle kusursuz sevgilim!"
+    },
+    {
+      "id": "ba76b88f",
+      "bank_id": "f0542802",
+      "text": "Bazen evimizdeki mobilyalara bakıyorum da ağlayasım geliyor. Öyle güzeller ki."
+    },
+    {
+      "id": "bc36edd8",
+      "bank_id": "f0542802",
+      "text": "Beni nasıl aldatırsın??!!"
+    },
+    {
+      "id": "bc36edd9",
+      "bank_id": "f0542802",
+      "text": "Beni nasıl aldatırsın??!!"
+    },
+    {
+      "id": "bc36eddc",
+      "bank_id": "f0542802",
+      "text": "Beni nasıl aldatırsın??!!"
+    },
+    {
+      "id": "bc36edde",
+      "bank_id": "f0542802",
+      "text": "Beni nasıl aldatırsın??!!"
+    },
+    {
+      "id": "bc36eddf",
+      "bank_id": "f0542802",
+      "text": "Beni nasıl aldatırsın??!!"
+    },
+    {
+      "id": "bf76c0a9",
+      "bank_id": "f0542802",
+      "text": "Mobilyalarımızdan daha memnun olamazdım!"
+    },
+    {
+      "id": "bf76c0aa",
+      "bank_id": "f0542802",
+      "text": "Kimsenin bizimkinden daha güzel mobilyaları olabileceğini sanmıyorum."
+    },
+    {
+      "id": "bf76c0ab",
+      "bank_id": "f0542802",
+      "text": "Bahse girerim evimizin dekorasyonunu herkes kıskanıyordur."
+    },
+    {
+      "id": "bf76c0ac",
+      "bank_id": "f0542802",
+      "text": "Evimizdeki eşyalar neredeyse fazla güzel. Sürekli bir şeyi batıracağım diye korkup duruyorum."
+    },
+    {
+      "id": "bf76c0ad",
+      "bank_id": "f0542802",
+      "text": "Bizim kulübenin mobilyalarının üstüne yoktur. Birinci sınıf eşyalar!"
+    },
+    {
+      "id": "bf76c0ae",
+      "bank_id": "f0542802",
+      "text": "Bazen evimizdeki mobilyalara bakıyorum da ağlayasım geliyor. Öyle güzeller ki."
+    },
+    {
+      "id": "bf76c0af",
+      "bank_id": "f0542802",
+      "text": "Ah, şu küçük sarayımızın dekorasyonu tek kelimeyle kusursuz sevgilim!"
+    },
+    {
+      "id": "c84505c3",
+      "bank_id": "f0542802",
+      "text": "Bu ne cüret?! O benim karım!"
+    },
+    {
+      "id": "c84505c8",
+      "bank_id": "f0542802",
+      "text": "Uzak dur erkeğimden! Uzak dur ondan!"
+    },
+    {
+      "id": "c84d5407",
+      "bank_id": "f0542802",
+      "text": "Yuva yıkan seni! Kocamla ne yapıyorsun sen!"
+    },
+    {
+      "id": "c84d540c",
+      "bank_id": "f0542802",
+      "text": "Çek ellerini onun üstünden! O benim!"
+    },
+    {
+      "id": "c8541042",
+      "bank_id": "f0542802",
+      "text": "Kocama yaklaşmaya cüret bile etme!"
+    },
+    {
+      "id": "c8541049",
+      "bank_id": "f0542802",
+      "text": "Karımın yanında ne yaptığını sanıyorsun sen?!"
+    },
+    {
+      "id": "c8564ee0",
+      "bank_id": "f0542802",
+      "text": "Karımdan uzak durursan çok memnun olurum!"
+    },
+    {
+      "id": "c8564eeb",
+      "bank_id": "f0542802",
+      "text": "Bu ne cüret?! O benim kocam!"
+    },
+    {
+      "id": "cde485d1",
+      "bank_id": "f0542802",
+      "text": "Ne?! Yeminlerimiz senin için hiçbir şey ifade etmiyor mu yani?!"
+    },
+    {
+      "id": "cde485da",
+      "bank_id": "f0542802",
+      "text": "Bunu bana nasıl yapabildin??"
+    },
+    {
+      "id": "cde6c475",
+      "bank_id": "f0542802",
+      "text": "Bunu bana yapabildiğine inanamıyorum!"
+    },
+    {
+      "id": "cde6c47e",
+      "bank_id": "f0542802",
+      "text": "Ah! Umarım buna değmiştir! Benden alacağın son masajdı o!"
+    },
+    {
+      "id": "cdeb4127",
+      "bank_id": "f0542802",
+      "text": "Sen ha?! İhanetinle kalbimi paramparça ettin!"
+    },
+    {
+      "id": "cdeb412c",
+      "bank_id": "f0542802",
+      "text": "Sana güvenemeyeceğimi bilmeliydim!"
+    },
+    {
+      "id": "cded7fb5",
+      "bank_id": "f0542802",
+      "text": "Ah, kıskançlık canavarı esir aldı beni!"
+    },
+    {
+      "id": "cded7fbe",
+      "bank_id": "f0542802",
+      "text": "Seni alçak, aldatıcı fingirdek! Nasıl yapabildin?!"
+    },
+    {
+      "id": "d390b936",
+      "bank_id": "f0542802",
+      "text": "Doğrayacağım onları vallahi! Yaparım!"
+    },
+    {
+      "id": "d390b93d",
+      "bank_id": "f0542802",
+      "text": "Bunu bana nasıl yapabildin??"
+    },
+    {
+      "id": "e96a3db1",
+      "bank_id": "f0542802",
+      "text": "O benim erkeğim! Seni öldürürüm seni sürtük!"
+    },
+    {
+      "id": "e96a3dba",
+      "bank_id": "f0542802",
+      "text": "Kadınımdan uzak dur seni cadı!"
+    },
+    {
+      "id": "e96c7cd5",
+      "bank_id": "f0542802",
+      "text": "Kendine başka bir kız bul seni yuva yıkan!"
+    },
+    {
+      "id": "e96c7cde",
+      "bank_id": "f0542802",
+      "text": "Ona dokunma sakın, seni pis aşüfte!"
+    },
+    {
+      "id": "e9728c87",
+      "bank_id": "f0542802",
+      "text": "Kadınımdan uzak duracaksın!"
+    },
+    {
+      "id": "e9728c8c",
+      "bank_id": "f0542802",
+      "text": "Pis pençelerini erkeğimin üstünden çek!"
+    },
+    {
+      "id": "e974cb15",
+      "bank_id": "f0542802",
+      "text": "Kocama dokunmaya nasıl cüret edersin!"
+    },
+    {
+      "id": "e974cb1e",
+      "bank_id": "f0542802",
+      "text": "Çek ellerini onun üstünden! O benim!"
+    },
+    {
+      "id": "fed97612",
+      "bank_id": "f0542802",
+      "text": "İşleri düzeltmezsen senden boşanıyorum!"
+    },
+    {
+      "id": "fed97613",
+      "bank_id": "f0542802",
+      "text": "Artık beni hiç umursamıyorsun gibi görünüyor. İşler düzelmezse seni terk edeceğim!"
+    },
+    {
+      "id": "fed97614",
+      "bank_id": "f0542802",
+      "text": "Değişmezsen seni terk etmeyeceğimi sanma sakın."
+    },
+    {
+      "id": "fed97615",
+      "bank_id": "f0542802",
+      "text": "Artık beni hiç umursamıyorsun gibi görünüyor. İşler düzelmezse seni terk edeceğim!"
+    },
+    {
+      "id": "fed97616",
+      "bank_id": "f0542802",
+      "text": "İşler böyle kalırsa seni terk etmeyeceğimi sanma sakın."
+    }
+  ]
+}

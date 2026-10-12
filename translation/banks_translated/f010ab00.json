@@ -1,0 +1,2191 @@
+{
+  "bank_id": "f010ab00",
+  "total_strings": 437,
+  "strings": [
+    {
+      "id": "02ec05e8",
+      "bank_id": "f010ab00",
+      "text": "O mezarla ne yapıyorsun öyle?!"
+    },
+    {
+      "id": "02ec05e9",
+      "bank_id": "f010ab00",
+      "text": "Mezar soyguncusu var."
+    },
+    {
+      "id": "02ec05ea",
+      "bank_id": "f010ab00",
+      "text": "Mezar soyguncusu!"
+    },
+    {
+      "id": "02ec05eb",
+      "bank_id": "f010ab00",
+      "text": "Mezar soygunculuğu bu!"
+    },
+    {
+      "id": "02ec05ec",
+      "bank_id": "f010ab00",
+      "text": "Hey! Mezar soygunculuğu!"
+    },
+    {
+      "id": "02ec05ed",
+      "bank_id": "f010ab00",
+      "text": "Mezar soygunculuğu bu!"
+    },
+    {
+      "id": "02ec05ef",
+      "bank_id": "f010ab00",
+      "text": "Biri mezar soyuyor!"
+    },
+    {
+      "id": "03568208",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "03568209",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "0356820a",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "0356820b",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "0356820c",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "0356820d",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "0356820f",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "0c690fc0",
+      "bank_id": "f010ab00",
+      "text": "Biri öldürüldü!"
+    },
+    {
+      "id": "0c690fc1",
+      "bank_id": "f010ab00",
+      "text": "Bu bir cinayet!"
+    },
+    {
+      "id": "0c690fc3",
+      "bank_id": "f010ab00",
+      "text": "Cinayet!"
+    },
+    {
+      "id": "0c690fc6",
+      "bank_id": "f010ab00",
+      "text": "Bir cinayet işlendi!"
+    },
+    {
+      "id": "0c690fc7",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet bu!"
+    },
+    {
+      "id": "0da214b0",
+      "bank_id": "f010ab00",
+      "text": "Bu bir cinayet!"
+    },
+    {
+      "id": "0da214b1",
+      "bank_id": "f010ab00",
+      "text": "Cinayet bu!"
+    },
+    {
+      "id": "0da214b2",
+      "bank_id": "f010ab00",
+      "text": "Buralarda bir katil var!"
+    },
+    {
+      "id": "0da214b3",
+      "bank_id": "f010ab00",
+      "text": "Olamaz! Cinayet!"
+    },
+    {
+      "id": "0da214b4",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet!"
+    },
+    {
+      "id": "0da214b6",
+      "bank_id": "f010ab00",
+      "text": "Biri ölmüş!"
+    },
+    {
+      "id": "0da214b7",
+      "bank_id": "f010ab00",
+      "text": "Biri ölmüş! Bakın!"
+    },
+    {
+      "id": "12a21c50",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet!"
+    },
+    {
+      "id": "12a21c51",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet!"
+    },
+    {
+      "id": "12a21c52",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet!"
+    },
+    {
+      "id": "12a21c53",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet!"
+    },
+    {
+      "id": "12a21c55",
+      "bank_id": "f010ab00",
+      "text": "Bu Cinayet!"
+    },
+    {
+      "id": "12a21c56",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet!"
+    },
+    {
+      "id": "12a21c57",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet!"
+    },
+    {
+      "id": "13633a28",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "13633a2a",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "13633a2b",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "13633a2c",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "13633a2d",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "13633a2e",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "13633a2f",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "13691ac2",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet bu!"
+    },
+    {
+      "id": "13691ac3",
+      "bank_id": "f010ab00",
+      "text": "Bir cinayet işlendi!"
+    },
+    {
+      "id": "13691ac4",
+      "bank_id": "f010ab00",
+      "text": "Bu bir cinayet!"
+    },
+    {
+      "id": "13691ac5",
+      "bank_id": "f010ab00",
+      "text": "Biri öldürüldü!"
+    },
+    {
+      "id": "13691ac6",
+      "bank_id": "f010ab00",
+      "text": "Cinayet!"
+    },
+    {
+      "id": "186341c9",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "186341ca",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "186341cb",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "186341cc",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh! Yuuuh!"
+    },
+    {
+      "id": "186341cd",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "186341ce",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "186341cf",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "19c72241",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "19c72242",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "19c72243",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "19c72244",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "19c72245",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "19c72246",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "19c72247",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "24c733f0",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "24c733f2",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "24c733f3",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "24c733f4",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "24c733f5",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "24c733f6",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "24c733f7",
+      "bank_id": "f010ab00",
+      "text": "Vay canına!"
+    },
+    {
+      "id": "29aa6ffc",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüz edebileceğini sanıyorsun öyle mi? Gel buraya!"
+    },
+    {
+      "id": "29aa6fff",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzün yasadışı olduğunu bilmiyor musun!"
+    },
+    {
+      "id": "2b7f3348",
+      "bank_id": "f010ab00",
+      "text": "Biri neredeyse ölüyordu!"
+    },
+    {
+      "id": "2b7f334c",
+      "bank_id": "f010ab00",
+      "text": "Neredeyse cinayet bu!"
+    },
+    {
+      "id": "2b7f334d",
+      "bank_id": "f010ab00",
+      "text": "Cinayete teşebbüs!"
+    },
+    {
+      "id": "2b7f334e",
+      "bank_id": "f010ab00",
+      "text": "Öldürmeye Teşebbüs!"
+    },
+    {
+      "id": "2b7f334f",
+      "bank_id": "f010ab00",
+      "text": "Neredeyse bir cinayetti!"
+    },
+    {
+      "id": "35859f5c",
+      "bank_id": "f010ab00",
+      "text": "Gel buraya seni kokuşmuş serseri!"
+    },
+    {
+      "id": "35859f5f",
+      "bank_id": "f010ab00",
+      "text": "Sokağın ortasında uyumayı sana öğreteceğim ben!"
+    },
+    {
+      "id": "369dd7d3",
+      "bank_id": "f010ab00",
+      "text": "Bu bir cinayet!"
+    },
+    {
+      "id": "3c27e0d0",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "3c27e0d1",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "3c27e0d2",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "3c27e0d3",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "3c27e0d4",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "3c27e0d5",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "3c27e0d7",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "3d9de2d6",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet!"
+    },
+    {
+      "id": "4327ebd8",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "4327ebd9",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "4327ebda",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "4327ebdc",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "4327ebdd",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "4327ebde",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "4327ebdf",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "4392eca0",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüz!"
+    },
+    {
+      "id": "4392eca1",
+      "bank_id": "f010ab00",
+      "text": "Bu haneye tecavüzdür!"
+    },
+    {
+      "id": "4392eca2",
+      "bank_id": "f010ab00",
+      "text": "Davetsiz misafir!"
+    },
+    {
+      "id": "4392eca6",
+      "bank_id": "f010ab00",
+      "text": "Bakın! Haneye tecavüzcü!"
+    },
+    {
+      "id": "4392eca7",
+      "bank_id": "f010ab00",
+      "text": "Biri haneye tecavüz ediyor!"
+    },
+    {
+      "id": "4c6df1d1",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet bu!"
+    },
+    {
+      "id": "4c92fa8a",
+      "bank_id": "f010ab00",
+      "text": "Hey! Haneye tecavüzcü!"
+    },
+    {
+      "id": "4c92fa8c",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüz bu!"
+    },
+    {
+      "id": "4c92fa8d",
+      "bank_id": "f010ab00",
+      "text": "Bu haneye tecavüzdür!"
+    },
+    {
+      "id": "4c92fa8f",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "4dc083e8",
+      "bank_id": "f010ab00",
+      "text": "Hey! Haraç kesiyorlar!"
+    },
+    {
+      "id": "4dc083e9",
+      "bank_id": "f010ab00",
+      "text": "Haraççı! Orada!"
+    },
+    {
+      "id": "4dc083ea",
+      "bank_id": "f010ab00",
+      "text": "Bu haraç kesmek!"
+    },
+    {
+      "id": "4dc083eb",
+      "bank_id": "f010ab00",
+      "text": "Bakın, bu haraç kesmek!"
+    },
+    {
+      "id": "4dc083ed",
+      "bank_id": "f010ab00",
+      "text": "Haraççı!"
+    },
+    {
+      "id": "4dc083ee",
+      "bank_id": "f010ab00",
+      "text": "Haraç!"
+    },
+    {
+      "id": "4dc083ef",
+      "bank_id": "f010ab00",
+      "text": "Haraç suçu!"
+    },
+    {
+      "id": "50106030",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "50106031",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "50106032",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "50106034",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "50106035",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "50106036",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "50106037",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "53596451",
+      "bank_id": "f010ab00",
+      "text": "Şartlı tahliyeyi üç kez ihlal ettiğiniz için burada kamu hizmeti verilemez."
+    },
+    {
+      "id": "576e0300",
+      "bank_id": "f010ab00",
+      "text": "Cinayet! Cinayet!"
+    },
+    {
+      "id": "58c09518",
+      "bank_id": "f010ab00",
+      "text": "Haraççı! Orada!"
+    },
+    {
+      "id": "58c09519",
+      "bank_id": "f010ab00",
+      "text": "Hey! Haraç kesiyorlar!"
+    },
+    {
+      "id": "58c0951a",
+      "bank_id": "f010ab00",
+      "text": "Bakın, bu haraç kesmek!"
+    },
+    {
+      "id": "58c0951b",
+      "bank_id": "f010ab00",
+      "text": "Bu Haraç!"
+    },
+    {
+      "id": "58c0951c",
+      "bank_id": "f010ab00",
+      "text": "Haraççı!"
+    },
+    {
+      "id": "58c0951e",
+      "bank_id": "f010ab00",
+      "text": "Haraç!"
+    },
+    {
+      "id": "58c0951f",
+      "bank_id": "f010ab00",
+      "text": "Haraç!"
+    },
+    {
+      "id": "59106e18",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "59106e19",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "59106e1a",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "59106e1b",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "59106e1c",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "59106e1d",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "59106e1f",
+      "bank_id": "f010ab00",
+      "text": "Beş parmak indiriminden faydalandı resmen!"
+    },
+    {
+      "id": "5a68bbcd",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "5adfa2e1",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "5adfa2e2",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "5adfa2e3",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "5adfa2e4",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "5adfa2e5",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "5adfa2e6",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "5adfa2e7",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "62fe6b30",
+      "bank_id": "f010ab00",
+      "text": "Zorba!"
+    },
+    {
+      "id": "62fe6b31",
+      "bank_id": "f010ab00",
+      "text": "Dur! Taciz!"
+    },
+    {
+      "id": "62fe6b32",
+      "bank_id": "f010ab00",
+      "text": "İnsanlara eziyet etmeyi kes!"
+    },
+    {
+      "id": "62fe6b33",
+      "bank_id": "f010ab00",
+      "text": "Bu tacizdir!"
+    },
+    {
+      "id": "62fe6b34",
+      "bank_id": "f010ab00",
+      "text": "Kes şunu!"
+    },
+    {
+      "id": "62fe6b36",
+      "bank_id": "f010ab00",
+      "text": "Hey! Zorba!"
+    },
+    {
+      "id": "62fe6b37",
+      "bank_id": "f010ab00",
+      "text": "İnsanları taciz etme!"
+    },
+    {
+      "id": "63039d50",
+      "bank_id": "f010ab00",
+      "text": "Heyecan verici, değil mi?"
+    },
+    {
+      "id": "63039d51",
+      "bank_id": "f010ab00",
+      "text": "İnanabiliyor musun?"
+    },
+    {
+      "id": "63039d52",
+      "bank_id": "f010ab00",
+      "text": "Büyüklüğe tanıklık ediyoruz!"
+    },
+    {
+      "id": "63039d53",
+      "bank_id": "f010ab00",
+      "text": "Kendimi tutamıyorum!"
+    },
+    {
+      "id": "63039d54",
+      "bank_id": "f010ab00",
+      "text": "Bu harika olacak!"
+    },
+    {
+      "id": "63039d56",
+      "bank_id": "f010ab00",
+      "text": "İnanabiliyor musun?"
+    },
+    {
+      "id": "63039d57",
+      "bank_id": "f010ab00",
+      "text": "Çok heyecanlıyım!"
+    },
+    {
+      "id": "63704388",
+      "bank_id": "f010ab00",
+      "text": "Sebepsiz vandallık!"
+    },
+    {
+      "id": "6370438a",
+      "bank_id": "f010ab00",
+      "text": "Vandal! Bir vandal bu!"
+    },
+    {
+      "id": "6370438b",
+      "bank_id": "f010ab00",
+      "text": "Gereksiz bir vandallık bu!"
+    },
+    {
+      "id": "6370438c",
+      "bank_id": "f010ab00",
+      "text": "Bu vandallık!"
+    },
+    {
+      "id": "6370438d",
+      "bank_id": "f010ab00",
+      "text": "Bu düpedüz vandallık!"
+    },
+    {
+      "id": "65071c00",
+      "bank_id": "f010ab00",
+      "text": "Dur seni aşağılık katil!"
+    },
+    {
+      "id": "65071c03",
+      "bank_id": "f010ab00",
+      "text": "Yakalayacağım seni katil!"
+    },
+    {
+      "id": "6568cd7c",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "65dfb410",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "65dfb412",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "65dfb413",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "65dfb414",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "65dfb415",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "65dfb416",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "65dfb417",
+      "bank_id": "f010ab00",
+      "text": "Haneye tecavüzcü!"
+    },
+    {
+      "id": "660c9924",
+      "bank_id": "f010ab00",
+      "text": "Haraç şebekesi mi işletmeye çalışıyorsun sen!"
+    },
+    {
+      "id": "660c9927",
+      "bank_id": "f010ab00",
+      "text": "Gel buraya seni haraççı!"
+    },
+    {
+      "id": "66bb2e81",
+      "bank_id": "f010ab00",
+      "text": "Bir serseri o. Gördün mü?"
+    },
+    {
+      "id": "66bb2e82",
+      "bank_id": "f010ab00",
+      "text": "Buralarda bir serseri var!"
+    },
+    {
+      "id": "66bb2e83",
+      "bank_id": "f010ab00",
+      "text": "Bakın bir serseri!"
+    },
+    {
+      "id": "66bb2e84",
+      "bank_id": "f010ab00",
+      "text": "Hey! Bir serseri bu!"
+    },
+    {
+      "id": "66bb2e85",
+      "bank_id": "f010ab00",
+      "text": "Burada bir serseri var!"
+    },
+    {
+      "id": "66bb2e86",
+      "bank_id": "f010ab00",
+      "text": "Serseri!"
+    },
+    {
+      "id": "66bb2e87",
+      "bank_id": "f010ab00",
+      "text": "Bakın! Şurada bir serseri var!"
+    },
+    {
+      "id": "67fe72d0",
+      "bank_id": "f010ab00",
+      "text": "Dur! Taciz!"
+    },
+    {
+      "id": "67fe72d1",
+      "bank_id": "f010ab00",
+      "text": "Zorba!"
+    },
+    {
+      "id": "67fe72d2",
+      "bank_id": "f010ab00",
+      "text": "Taciz görüyorum!"
+    },
+    {
+      "id": "67fe72d3",
+      "bank_id": "f010ab00",
+      "text": "İnsanlara eziyet etmeyi kes!"
+    },
+    {
+      "id": "67fe72d5",
+      "bank_id": "f010ab00",
+      "text": "Kes şunu!"
+    },
+    {
+      "id": "67fe72d6",
+      "bank_id": "f010ab00",
+      "text": "İnsanları taciz etme!"
+    },
+    {
+      "id": "67fe72d7",
+      "bank_id": "f010ab00",
+      "text": "Hey! Zorba!"
+    },
+    {
+      "id": "6803a570",
+      "bank_id": "f010ab00",
+      "text": "Bu çok heyecan verici!"
+    },
+    {
+      "id": "6803a571",
+      "bank_id": "f010ab00",
+      "text": "Vay canına! Sabırsızlanıyorum!"
+    },
+    {
+      "id": "6803a572",
+      "bank_id": "f010ab00",
+      "text": "Merak duygusu korkunç. Umarım hiç bitmez!"
+    },
+    {
+      "id": "6803a573",
+      "bank_id": "f010ab00",
+      "text": "Bu dehşet verici derecede heyecanlı!"
+    },
+    {
+      "id": "6803a575",
+      "bank_id": "f010ab00",
+      "text": "Sabırsızlanıyorum!"
+    },
+    {
+      "id": "6803a576",
+      "bank_id": "f010ab00",
+      "text": "Bunu dört gözle bekliyorum!"
+    },
+    {
+      "id": "6803a577",
+      "bank_id": "f010ab00",
+      "text": "Bu çok heyecan verici!"
+    },
+    {
+      "id": "68704ba9",
+      "bank_id": "f010ab00",
+      "text": "Gereksiz bir vandallık bu!"
+    },
+    {
+      "id": "68704baa",
+      "bank_id": "f010ab00",
+      "text": "Vandallık!"
+    },
+    {
+      "id": "68704bab",
+      "bank_id": "f010ab00",
+      "text": "Bu düpedüz vandallık!"
+    },
+    {
+      "id": "68704bac",
+      "bank_id": "f010ab00",
+      "text": "Bu vandallık!"
+    },
+    {
+      "id": "68704bad",
+      "bank_id": "f010ab00",
+      "text": "Vandal! Bir vandal bu!"
+    },
+    {
+      "id": "6cb1d910",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "6cb1d911",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "6cb1d912",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "6cb1d914",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "6cb1d915",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "6cb1d916",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "6cb1d917",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "6e560b38",
+      "bank_id": "f010ab00",
+      "text": "Hayır! Çok edepsizce!"
+    },
+    {
+      "id": "6e560b39",
+      "bank_id": "f010ab00",
+      "text": "Bu çok edepsizce!"
+    },
+    {
+      "id": "6e560b3a",
+      "bank_id": "f010ab00",
+      "text": "Seni müstehcen mahluk!"
+    },
+    {
+      "id": "6e560b3b",
+      "bank_id": "f010ab00",
+      "text": "Ne kadar edepsizce!"
+    },
+    {
+      "id": "6e560b3d",
+      "bank_id": "f010ab00",
+      "text": "İğrenç!"
+    },
+    {
+      "id": "6e560b3e",
+      "bank_id": "f010ab00",
+      "text": "Korkunç! Ne kadar edepsizce!"
+    },
+    {
+      "id": "6e560b3f",
+      "bank_id": "f010ab00",
+      "text": "Kes şu edepsizliği!"
+    },
+    {
+      "id": "70f61248",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah!"
+    },
+    {
+      "id": "70f61249",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah!"
+    },
+    {
+      "id": "70f6124a",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah!"
+    },
+    {
+      "id": "70f6124b",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah!"
+    },
+    {
+      "id": "70f6124d",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah!"
+    },
+    {
+      "id": "70f6124e",
+      "bank_id": "f010ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "70f6124f",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah!"
+    },
+    {
+      "id": "71bb4030",
+      "bank_id": "f010ab00",
+      "text": "Serseri!"
+    },
+    {
+      "id": "71bb4032",
+      "bank_id": "f010ab00",
+      "text": "Bakın bir serseri!"
+    },
+    {
+      "id": "71bb4033",
+      "bank_id": "f010ab00",
+      "text": "Buralarda bir serseri var!"
+    },
+    {
+      "id": "71bb4034",
+      "bank_id": "f010ab00",
+      "text": "Burada bir serseri var!"
+    },
+    {
+      "id": "71bb4035",
+      "bank_id": "f010ab00",
+      "text": "Hey! Bir serseri bu!"
+    },
+    {
+      "id": "71bb4036",
+      "bank_id": "f010ab00",
+      "text": "Bakın! Şurada bir serseri var!"
+    },
+    {
+      "id": "71bb4037",
+      "bank_id": "f010ab00",
+      "text": "Serseri!"
+    },
+    {
+      "id": "71f083f1",
+      "bank_id": "f010ab00",
+      "text": "Vandal! Dur!"
+    },
+    {
+      "id": "71f083f2",
+      "bank_id": "f010ab00",
+      "text": "Dur seni vandal!"
+    },
+    {
+      "id": "75b1e778",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "75b1e779",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "75b1e77a",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "75b1e77b",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "75b1e77c",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "75b1e77d",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "75b1e77f",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "7808e30d",
+      "bank_id": "f010ab00",
+      "text": "Midemi bulandırıyorsun seni sapık!"
+    },
+    {
+      "id": "7808e30e",
+      "bank_id": "f010ab00",
+      "text": "Seni yakalayana kadar bekle seni yozlaşmış herif!"
+    },
+    {
+      "id": "79561c68",
+      "bank_id": "f010ab00",
+      "text": "Bu düpedüz edepsizlik! Muhafızları çağırın!"
+    },
+    {
+      "id": "79561c69",
+      "bank_id": "f010ab00",
+      "text": "Kaldır şunu ortadan sapık herif!"
+    },
+    {
+      "id": "79561c6a",
+      "bank_id": "f010ab00",
+      "text": "Müstehcen bir hareket!"
+    },
+    {
+      "id": "79561c6b",
+      "bank_id": "f010ab00",
+      "text": "Ay! Gözlerim, ne ayıp!"
+    },
+    {
+      "id": "79561c6c",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "79561c6e",
+      "bank_id": "f010ab00",
+      "text": "Bu hayasızca hareket!"
+    },
+    {
+      "id": "79561c6f",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "7bf623f8",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah"
+    },
+    {
+      "id": "7bf623f9",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah"
+    },
+    {
+      "id": "7bf623fa",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah"
+    },
+    {
+      "id": "7bf623fb",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah"
+    },
+    {
+      "id": "7bf623fc",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah!"
+    },
+    {
+      "id": "7bf623fe",
+      "bank_id": "f010ab00",
+      "text": "Aaaaah"
+    },
+    {
+      "id": "7bf623ff",
+      "bank_id": "f010ab00",
+      "text": "Ooooh!"
+    },
+    {
+      "id": "7e864f10",
+      "bank_id": "f010ab00",
+      "text": "Yuuuh!"
+    },
+    {
+      "id": "7e864f11",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "7e864f12",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "7e864f13",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "7e864f14",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "7e864f15",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "7e864f17",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "8033c1a1",
+      "bank_id": "f010ab00",
+      "text": "Orada! Yakalayın onu!"
+    },
+    {
+      "id": "8033c1aa",
+      "bank_id": "f010ab00",
+      "text": "Orada! Yakalayın onu!"
+    },
+    {
+      "id": "83ccd478",
+      "bank_id": "f010ab00",
+      "text": "Çöpün tekisin!"
+    },
+    {
+      "id": "83ccd47a",
+      "bank_id": "f010ab00",
+      "text": "Gübre faresi!"
+    },
+    {
+      "id": "83ccd47b",
+      "bank_id": "f010ab00",
+      "text": "Leş gibi kokuyorsun!"
+    },
+    {
+      "id": "83ccd47c",
+      "bank_id": "f010ab00",
+      "text": "Lanet köpek!"
+    },
+    {
+      "id": "83ccd47d",
+      "bank_id": "f010ab00",
+      "text": "Pislik!"
+    },
+    {
+      "id": "83ccd47e",
+      "bank_id": "f010ab00",
+      "text": "Kanalizasyon faresi!"
+    },
+    {
+      "id": "83ccd47f",
+      "bank_id": "f010ab00",
+      "text": "İrinli yara!"
+    },
+    {
+      "id": "85865a18",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "85865a19",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "85865a1a",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "85865a1c",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "85865a1d",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "85865a1e",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "85865a1f",
+      "bank_id": "f010ab00",
+      "text": "Yuuuuh!"
+    },
+    {
+      "id": "88ccdc19",
+      "bank_id": "f010ab00",
+      "text": "Kendine bir de Kahraman mı diyorsun?!"
+    },
+    {
+      "id": "88ccdc1a",
+      "bank_id": "f010ab00",
+      "text": "Büsbütün bir yer israfı!"
+    },
+    {
+      "id": "88ccdc1b",
+      "bank_id": "f010ab00",
+      "text": "Domuz aşığı!"
+    },
+    {
+      "id": "88ccdc1c",
+      "bank_id": "f010ab00",
+      "text": "Seni pis hobbe!"
+    },
+    {
+      "id": "88ccdc1d",
+      "bank_id": "f010ab00",
+      "text": "Pis, küçük solucan!"
+    },
+    {
+      "id": "88ccdc1e",
+      "bank_id": "f010ab00",
+      "text": "Seni aşağılık, zehirli mikrop!"
+    },
+    {
+      "id": "88ccdc1f",
+      "bank_id": "f010ab00",
+      "text": "Ananın soyu sopu belirsiz zaten!"
+    },
+    {
+      "id": "932ce738",
+      "bank_id": "f010ab00",
+      "text": "Sapık!"
+    },
+    {
+      "id": "951549e1",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "95649b98",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "95649b99",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "95649b9a",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "95649b9b",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "95649b9c",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "95649b9d",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "95649b9e",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "95e7dad9",
+      "bank_id": "f010ab00",
+      "text": "Mezardan ceset çıkarırsın ha seni sapık!"
+    },
+    {
+      "id": "95e7dada",
+      "bank_id": "f010ab00",
+      "text": "Orada dur mezar soyguncusu!"
+    },
+    {
+      "id": "97fa4177",
+      "bank_id": "f010ab00",
+      "text": "Birine zorbalık ediliyor!"
+    },
+    {
+      "id": "982ceed9",
+      "bank_id": "f010ab00",
+      "text": "Ne sapık herif!"
+    },
+    {
+      "id": "9c207e15",
+      "bank_id": "f010ab00",
+      "text": "Vazgeç artık seni ayyaş!"
+    },
+    {
+      "id": "9c207e16",
+      "bank_id": "f010ab00",
+      "text": "Orada dur seni ayyaş!"
+    },
+    {
+      "id": "9e64a9e8",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "9e64a9e9",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "9e64a9eb",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "9e64a9ec",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "9e64a9ed",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "9e64a9ee",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "9e64a9ef",
+      "bank_id": "f010ab00",
+      "text": "Vandal!"
+    },
+    {
+      "id": "9efa4c7a",
+      "bank_id": "f010ab00",
+      "text": "Zorba!"
+    },
+    {
+      "id": "9fe31eb4",
+      "bank_id": "f010ab00",
+      "text": "Gel buraya seni aşağılık herif!"
+    },
+    {
+      "id": "9fe31eb7",
+      "bank_id": "f010ab00",
+      "text": "Edep yerlerini göstermeyi seviyorsun demek seni suçlu!"
+    },
+    {
+      "id": "a0155b10",
+      "bank_id": "f010ab00",
+      "text": "Hırsız!"
+    },
+    {
+      "id": "a066a961",
+      "bank_id": "f010ab00",
+      "text": "Neler oluyor acaba?"
+    },
+    {
+      "id": "a066a962",
+      "bank_id": "f010ab00",
+      "text": "Neler oluyor?"
+    },
+    {
+      "id": "a066a963",
+      "bank_id": "f010ab00",
+      "text": "Ben hiçbir şey göremiyorum. Sen görüyor musun?"
+    },
+    {
+      "id": "a066a964",
+      "bank_id": "f010ab00",
+      "text": "Neler oluyor hobbe aşkına?"
+    },
+    {
+      "id": "a066a965",
+      "bank_id": "f010ab00",
+      "text": "Yakında bir şeyler olmalı, değil mi?"
+    },
+    {
+      "id": "a066a966",
+      "bank_id": "f010ab00",
+      "text": "Neler dönüyor acaba?"
+    },
+    {
+      "id": "a066a967",
+      "bank_id": "f010ab00",
+      "text": "Bir şey oluyor mu?"
+    },
+    {
+      "id": "a1a92155",
+      "bank_id": "f010ab00",
+      "text": "Hırsız, yakalayacağım seni!"
+    },
+    {
+      "id": "a1a92156",
+      "bank_id": "f010ab00",
+      "text": "Dur, hırsız!"
+    },
+    {
+      "id": "a1b70e52",
+      "bank_id": "f010ab00",
+      "text": "Burada bir serseri var!"
+    },
+    {
+      "id": "a2fd38b0",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "a2fd38b1",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "a2fd38b2",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "a2fd38b4",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "a2fd38b5",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "a2fd38b6",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "a2fd38b7",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "a50ff831",
+      "bank_id": "f010ab00",
+      "text": "Direnç gösteriyorlar!"
+    },
+    {
+      "id": "a50ff832",
+      "bank_id": "f010ab00",
+      "text": "Kaçmaya çalışıyorlar!"
+    },
+    {
+      "id": "a50ff833",
+      "bank_id": "f010ab00",
+      "text": "Tutuklanmaktan kaçıyorlar!"
+    },
+    {
+      "id": "a50ff834",
+      "bank_id": "f010ab00",
+      "text": "Bu tutuklamaya direnmektir!"
+    },
+    {
+      "id": "a50ff835",
+      "bank_id": "f010ab00",
+      "text": "Tutuklamaya direniyorlar!"
+    },
+    {
+      "id": "a50ff836",
+      "bank_id": "f010ab00",
+      "text": "Tutuklamaya direnmeyi kes!"
+    },
+    {
+      "id": "a50ff837",
+      "bank_id": "f010ab00",
+      "text": "Biri tutuklamaya direniyor!"
+    },
+    {
+      "id": "a9f9aab8",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "a9f9aab9",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "a9f9aabd",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "a9f9aabe",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "a9f9aabf",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "aab71cbf",
+      "bank_id": "f010ab00",
+      "text": "Bakın! Bir serseri!"
+    },
+    {
+      "id": "ab66ba90",
+      "bank_id": "f010ab00",
+      "text": "Bir şeyler mi dönüyor?"
+    },
+    {
+      "id": "ab66ba92",
+      "bank_id": "f010ab00",
+      "text": "Bir şey oluyor mu?"
+    },
+    {
+      "id": "ab66ba93",
+      "bank_id": "f010ab00",
+      "text": "Buralarda beklemeli miyiz sence?"
+    },
+    {
+      "id": "ab66ba94",
+      "bank_id": "f010ab00",
+      "text": "Yakında kesin bir şeyler olacak."
+    },
+    {
+      "id": "ab66ba95",
+      "bank_id": "f010ab00",
+      "text": "Hadi ama, hiçbir şey olmuyor mu?"
+    },
+    {
+      "id": "ab66ba96",
+      "bank_id": "f010ab00",
+      "text": "Bayağı şaşkınım doğrusu."
+    },
+    {
+      "id": "ab66ba97",
+      "bank_id": "f010ab00",
+      "text": "Her an bir şeyler olabilir."
+    },
+    {
+      "id": "abfd4698",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "abfd4699",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "abfd469a",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "abfd469b",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "abfd469c",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "abfd469d",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "abfd469f",
+      "bank_id": "f010ab00",
+      "text": "Uff! Hayır! Dur!"
+    },
+    {
+      "id": "b0100960",
+      "bank_id": "f010ab00",
+      "text": "Direnç gösteriyorlar!"
+    },
+    {
+      "id": "b0100962",
+      "bank_id": "f010ab00",
+      "text": "Tutuklanmaktan kaçıyorlar!"
+    },
+    {
+      "id": "b0100963",
+      "bank_id": "f010ab00",
+      "text": "Kaçmaya çalışıyorlar!"
+    },
+    {
+      "id": "b0100964",
+      "bank_id": "f010ab00",
+      "text": "Tutuklamaya direniyorlar!"
+    },
+    {
+      "id": "b0100965",
+      "bank_id": "f010ab00",
+      "text": "Bu tutuklamaya direnmektir!"
+    },
+    {
+      "id": "b0100966",
+      "bank_id": "f010ab00",
+      "text": "Biri tutuklamaya direniyor!"
+    },
+    {
+      "id": "b0100967",
+      "bank_id": "f010ab00",
+      "text": "Tutuklamaya direnmeyi kes!"
+    },
+    {
+      "id": "b1662569",
+      "bank_id": "f010ab00",
+      "text": "Burada kamu hizmetini tamamlamak için bu son şansınız. Bu sefer şartlı tahliyeyi ihlal etmemeye çalışın!"
+    },
+    {
+      "id": "b4f9bbe8",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "b4f9bbe9",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "b4f9bbec",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "b4f9bbee",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "b4f9bbef",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "c246df10",
+      "bank_id": "f010ab00",
+      "text": "Durdurun şu kadını!"
+    },
+    {
+      "id": "c246df1b",
+      "bank_id": "f010ab00",
+      "text": "Durdurun şu adamı!"
+    },
+    {
+      "id": "c48dcbe6",
+      "bank_id": "f010ab00",
+      "text": "Demek numaran saldırganlık ha?"
+    },
+    {
+      "id": "ca846089",
+      "bank_id": "f010ab00",
+      "text": "Buna pişman olacaksın!"
+    },
+    {
+      "id": "ca84608a",
+      "bank_id": "f010ab00",
+      "text": "Kimse bir muhafıza el kaldıramaz!"
+    },
+    {
+      "id": "d0f3d7f2",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "d5180375",
+      "bank_id": "f010ab00",
+      "text": "Bittin sen şimdi seni alçak!"
+    },
+    {
+      "id": "d5180376",
+      "bank_id": "f010ab00",
+      "text": "Aah! Çok büyük bir hata yaptın!"
+    },
+    {
+      "id": "d9f3e5df",
+      "bank_id": "f010ab00",
+      "text": "Hırsız! Hırsız!"
+    },
+    {
+      "id": "dd8f7465",
+      "bank_id": "f010ab00",
+      "text": "Şartlı tahliyenizi ihlal ettiniz!"
+    },
+    {
+      "id": "dd8f7466",
+      "bank_id": "f010ab00",
+      "text": "Kamu hizmetini asabileceğini mi sanıyorsun?"
+    },
+    {
+      "id": "e4af3b0c",
+      "bank_id": "f010ab00",
+      "text": "Tutuklamaya direnmeye kalkarsın ha?"
+    },
+    {
+      "id": "e4af3b0f",
+      "bank_id": "f010ab00",
+      "text": "Benim nöbetimde tutuklamaya direnmek diye bir şey olamaz!"
+    },
+    {
+      "id": "ea0f5070",
+      "bank_id": "f010ab00",
+      "text": "Umarım geberirsin!"
+    },
+    {
+      "id": "ea0f5071",
+      "bank_id": "f010ab00",
+      "text": "Geber git!"
+    },
+    {
+      "id": "ea0f5073",
+      "bank_id": "f010ab00",
+      "text": "Öldürün onları!"
+    },
+    {
+      "id": "ea0f5074",
+      "bank_id": "f010ab00",
+      "text": "Hayırsızın teki!"
+    },
+    {
+      "id": "ea0f5075",
+      "bank_id": "f010ab00",
+      "text": "Aşağılık herif!"
+    },
+    {
+      "id": "ea0f5076",
+      "bank_id": "f010ab00",
+      "text": "Kulağına bıçak sok da gör!"
+    },
+    {
+      "id": "ea0f5077",
+      "bank_id": "f010ab00",
+      "text": "Klozet kenarı pisliği!"
+    },
+    {
+      "id": "ef835204",
+      "bank_id": "f010ab00",
+      "text": "Cinayete teşebbüs!"
+    },
+    {
+      "id": "eff6f5f0",
+      "bank_id": "f010ab00",
+      "text": "Ayyaş!"
+    },
+    {
+      "id": "eff6f5f1",
+      "bank_id": "f010ab00",
+      "text": "Sarhoş!"
+    },
+    {
+      "id": "eff6f5f2",
+      "bank_id": "f010ab00",
+      "text": "Bir sarhoş!"
+    },
+    {
+      "id": "eff6f5f4",
+      "bank_id": "f010ab00",
+      "text": "İğrenç bir sarhoş bu!"
+    },
+    {
+      "id": "eff6f5f5",
+      "bank_id": "f010ab00",
+      "text": "Ay, ne ayyaş ama!"
+    },
+    {
+      "id": "eff6f5f6",
+      "bank_id": "f010ab00",
+      "text": "Bir ayyaş bu!"
+    },
+    {
+      "id": "eff6f5f7",
+      "bank_id": "f010ab00",
+      "text": "Sarhoş!"
+    },
+    {
+      "id": "f0d35488",
+      "bank_id": "f010ab00",
+      "text": "Ah, kes şunu!"
+    },
+    {
+      "id": "f0d35489",
+      "bank_id": "f010ab00",
+      "text": "Ah! Derhâl vazgeç!"
+    },
+    {
+      "id": "f0d3548a",
+      "bank_id": "f010ab00",
+      "text": "Ah! Ne yapıyorsun sen?!"
+    },
+    {
+      "id": "f0d3548b",
+      "bank_id": "f010ab00",
+      "text": "Uff!! Dur!"
+    },
+    {
+      "id": "f0d3548c",
+      "bank_id": "f010ab00",
+      "text": "Ah! Dur!"
+    },
+    {
+      "id": "f0d3548d",
+      "bank_id": "f010ab00",
+      "text": "Hey! Yapma!"
+    },
+    {
+      "id": "f0d3548e",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "f10f5b70",
+      "bank_id": "f010ab00",
+      "text": "Viranenize veba bulaşsın!"
+    },
+    {
+      "id": "f10f5b71",
+      "bank_id": "f010ab00",
+      "text": "El ayakların yeşerip kopsun inşallah!"
+    },
+    {
+      "id": "f10f5b72",
+      "bank_id": "f010ab00",
+      "text": "Denize atın şunları!"
+    },
+    {
+      "id": "f10f5b73",
+      "bank_id": "f010ab00",
+      "text": "Asın şunları!"
+    },
+    {
+      "id": "f10f5b74",
+      "bank_id": "f010ab00",
+      "text": "Linç edin şunları!"
+    },
+    {
+      "id": "f10f5b75",
+      "bank_id": "f010ab00",
+      "text": "Parçalayın şunları!"
+    },
+    {
+      "id": "f10f5b76",
+      "bank_id": "f010ab00",
+      "text": "Solucanlara yem edin şunları!"
+    },
+    {
+      "id": "f1b40bc8",
+      "bank_id": "f010ab00",
+      "text": "Bir kanun adamına vurmaya nasıl cüret edersin?!"
+    },
+    {
+      "id": "f1b40bcb",
+      "bank_id": "f010ab00",
+      "text": "Nasıl cüret edersin?!"
+    },
+    {
+      "id": "f4835a25",
+      "bank_id": "f010ab00",
+      "text": "Cinayete teşebbüs!"
+    },
+    {
+      "id": "f8f703d8",
+      "bank_id": "f010ab00",
+      "text": "Üstelik sarhoş da!"
+    },
+    {
+      "id": "f8f703d9",
+      "bank_id": "f010ab00",
+      "text": "Ne pis bir sarhoş!"
+    },
+    {
+      "id": "f8f703da",
+      "bank_id": "f010ab00",
+      "text": "Sarhoşlar! Bakın!"
+    },
+    {
+      "id": "f8f703db",
+      "bank_id": "f010ab00",
+      "text": "Ve sarhoşlar!"
+    },
+    {
+      "id": "f8f703dc",
+      "bank_id": "f010ab00",
+      "text": "Onlar da sarhoş!"
+    },
+    {
+      "id": "f8f703dd",
+      "bank_id": "f010ab00",
+      "text": "Ne sarhoş ama!"
+    },
+    {
+      "id": "f8f703df",
+      "bank_id": "f010ab00",
+      "text": "Sarhoşlar!"
+    },
+    {
+      "id": "f9d362d8",
+      "bank_id": "f010ab00",
+      "text": "Hey! Yapma!"
+    },
+    {
+      "id": "f9d362d9",
+      "bank_id": "f010ab00",
+      "text": "Ah! Dur!"
+    },
+    {
+      "id": "f9d362db",
+      "bank_id": "f010ab00",
+      "text": "Aah! Dur artık!"
+    },
+    {
+      "id": "f9d362dc",
+      "bank_id": "f010ab00",
+      "text": "Ah! Ne cüretle!"
+    },
+    {
+      "id": "f9d362dd",
+      "bank_id": "f010ab00",
+      "text": "Ah! Daha fazla yapma lütfen!"
+    },
+    {
+      "id": "f9d362de",
+      "bank_id": "f010ab00",
+      "text": "Ah! Hayııır!"
+    },
+    {
+      "id": "f9d362df",
+      "bank_id": "f010ab00",
+      "text": "Ah! Kes şunu!"
+    },
+    {
+      "id": "f9ebf780",
+      "bank_id": "f010ab00",
+      "text": "Hey! Mezar soygunculuğu!"
+    },
+    {
+      "id": "f9ebf781",
+      "bank_id": "f010ab00",
+      "text": "Biri mezar soyuyor!"
+    },
+    {
+      "id": "f9ebf782",
+      "bank_id": "f010ab00",
+      "text": "Biri mezardan hırsızlık yapıyor!"
+    },
+    {
+      "id": "f9ebf784",
+      "bank_id": "f010ab00",
+      "text": "Biri mezardan hırsızlık yapıyor!"
+    },
+    {
+      "id": "f9ebf785",
+      "bank_id": "f010ab00",
+      "text": "Mezar soygunculuğu bu!"
+    },
+    {
+      "id": "f9ebf786",
+      "bank_id": "f010ab00",
+      "text": "Mezar soyguncusu!"
+    },
+    {
+      "id": "f9ebf787",
+      "bank_id": "f010ab00",
+      "text": "Mezar soygunculuğu bu!"
+    },
+    {
+      "id": "fa567420",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "fa567421",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "fa567422",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "fa567424",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "fa567425",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "fa567426",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "fa567427",
+      "bank_id": "f010ab00",
+      "text": "Yaşasın!"
+    },
+    {
+      "id": "fbff613c",
+      "bank_id": "f010ab00",
+      "text": "Dur seni işkenceci!"
+    },
+    {
+      "id": "fbff613f",
+      "bank_id": "f010ab00",
+      "text": "Seni elime geçirene kadar bekle seni koca tacizci!"
+    }
+  ]
+}

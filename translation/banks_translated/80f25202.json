@@ -1,0 +1,1201 @@
+{
+  "bank_id": "80f25202",
+  "total_strings": 239,
+  "strings": [
+    {
+      "id": "064f5b1a",
+      "bank_id": "80f25202",
+      "text": "Tezgâhlar açılıyor!"
+    },
+    {
+      "id": "0797112a",
+      "bank_id": "80f25202",
+      "text": "Sırt Çantası"
+    },
+    {
+      "id": "07bcf73e",
+      "bank_id": "80f25202",
+      "text": "Sinekkaydı Tıraş"
+    },
+    {
+      "id": "0cdecbed",
+      "bank_id": "80f25202",
+      "text": "Bıyık"
+    },
+    {
+      "id": "0deedd17",
+      "bank_id": "80f25202",
+      "text": "Hırpani"
+    },
+    {
+      "id": "10ab7330",
+      "bank_id": "80f25202",
+      "text": "Pekala öyleyse!"
+    },
+    {
+      "id": "10ab7331",
+      "bank_id": "80f25202",
+      "text": "Harika bir seçim yaptın."
+    },
+    {
+      "id": "10ab7334",
+      "bank_id": "80f25202",
+      "text": "Bunu hayatının en güzel günü yapacağım."
+    },
+    {
+      "id": "10ab7336",
+      "bank_id": "80f25202",
+      "text": "Özel yeteneklerimden çok keyif alacaksın."
+    },
+    {
+      "id": "10ab7337",
+      "bank_id": "80f25202",
+      "text": "Eğlenmeye hazırsın, değil mi?"
+    },
+    {
+      "id": "11a446fa",
+      "bank_id": "80f25202",
+      "text": "Şu gerginliğini biraz atmak ister misin?"
+    },
+    {
+      "id": "11a446fb",
+      "bank_id": "80f25202",
+      "text": "Yalnız görünüyorsun."
+    },
+    {
+      "id": "11a446fc",
+      "bank_id": "80f25202",
+      "text": "Sana asla unutamayacağın üç dakika yaşatabilirim."
+    },
+    {
+      "id": "11a446fd",
+      "bank_id": "80f25202",
+      "text": "Güzel vakit geçirmeye ne dersin?"
+    },
+    {
+      "id": "11a446fe",
+      "bank_id": "80f25202",
+      "text": "Göründüğümden çok daha esneğimdir."
+    },
+    {
+      "id": "15ab7ad0",
+      "bank_id": "80f25202",
+      "text": "Pişman olmayacaksın."
+    },
+    {
+      "id": "15ab7ad1",
+      "bank_id": "80f25202",
+      "text": "Bunu hayatının sonuna kadar hatırlayacaksın."
+    },
+    {
+      "id": "15ab7ad5",
+      "bank_id": "80f25202",
+      "text": "Yarenlik mi istiyorsun? Buldun bile."
+    },
+    {
+      "id": "15ab7ad6",
+      "bank_id": "80f25202",
+      "text": "Hadi biraz eğlenelim."
+    },
+    {
+      "id": "15ab7ad7",
+      "bank_id": "80f25202",
+      "text": "Bunu asla unutamayacaksın."
+    },
+    {
+      "id": "1aa454c8",
+      "bank_id": "80f25202",
+      "text": "Güzel vakit geçirmeye ne dersin?"
+    },
+    {
+      "id": "1aa454c9",
+      "bank_id": "80f25202",
+      "text": "Bir kadın eline ihtiyacın var gibi görünüyor."
+    },
+    {
+      "id": "1aa454cb",
+      "bank_id": "80f25202",
+      "text": "Bana biraz iş paslamaya ne dersin?"
+    },
+    {
+      "id": "1aa454ce",
+      "bank_id": "80f25202",
+      "text": "Hayatının en muhteşem beş dakikası için ne kadar ödersin?"
+    },
+    {
+      "id": "1aa454cf",
+      "bank_id": "80f25202",
+      "text": "Güzelce uzanıp dinlenmeye ihtiyacın var gibi."
+    },
+    {
+      "id": "1bd737f5",
+      "bank_id": "80f25202",
+      "text": "Uyanın uyanın! Gün doğdu!"
+    },
+    {
+      "id": "1e6e7925",
+      "bank_id": "80f25202",
+      "text": "Bandana"
+    },
+    {
+      "id": "20ed6e02",
+      "bank_id": "80f25202",
+      "text": "Lakabınızı seçin! Bir unvan alın!"
+    },
+    {
+      "id": "25832f8f",
+      "bank_id": "80f25202",
+      "text": "Kendi adınızdan sıkıldınız mı? Bir unvan satın alın!"
+    },
+    {
+      "id": "280dfa78",
+      "bank_id": "80f25202",
+      "text": "Doktorculuk oynamak ister misin? Aslında gerçek bir doktora ihtiyacım var."
+    },
+    {
+      "id": "280dfa79",
+      "bank_id": "80f25202",
+      "text": "Şaplak sever misin?"
+    },
+    {
+      "id": "280dfa7d",
+      "bank_id": "80f25202",
+      "text": "Yaramazca eğlencelere hazır mısın?"
+    },
+    {
+      "id": "280dfa7e",
+      "bank_id": "80f25202",
+      "text": "Samanlıkta yuvarlanalım mı?"
+    },
+    {
+      "id": "280dfa7f",
+      "bank_id": "80f25202",
+      "text": "Deneylere açığımdır."
+    },
+    {
+      "id": "2be5f816",
+      "bank_id": "80f25202",
+      "text": "Resmi olarak uyku vakti gelmiştir!"
+    },
+    {
+      "id": "2cfab628",
+      "bank_id": "80f25202",
+      "text": "Uyaaaanıııın!"
+    },
+    {
+      "id": "2dc98eec",
+      "bank_id": "80f25202",
+      "text": "Dubya"
+    },
+    {
+      "id": "2ec9905f",
+      "bank_id": "80f25202",
+      "text": "Bay Fung"
+    },
+    {
+      "id": "310d85f9",
+      "bank_id": "80f25202",
+      "text": "Zamanında yeterince çocuk doğurdum. O yüzden unut bunu!"
+    },
+    {
+      "id": "31c99518",
+      "bank_id": "80f25202",
+      "text": "Surat Ağrısı"
+    },
+    {
+      "id": "32c9968b",
+      "bank_id": "80f25202",
+      "text": "Bay Yanlış"
+    },
+    {
+      "id": "330e0ba8",
+      "bank_id": "80f25202",
+      "text": "Sana uyku masalı okumamı ister misin?"
+    },
+    {
+      "id": "330e0ba9",
+      "bank_id": "80f25202",
+      "text": "Hiç profesyonel aşk tattın mı? Amatör aşkı fena ezer geçer."
+    },
+    {
+      "id": "330e0bac",
+      "bank_id": "80f25202",
+      "text": "Hayatının zevkini tatmak ister misin?"
+    },
+    {
+      "id": "330e0bae",
+      "bank_id": "80f25202",
+      "text": "Bütün dertlerini unutturacağım sana."
+    },
+    {
+      "id": "330e0baf",
+      "bank_id": "80f25202",
+      "text": "Hayatının zevkini tatmak ister misin?"
+    },
+    {
+      "id": "33c9987e",
+      "bank_id": "80f25202",
+      "text": "Bendrix"
+    },
+    {
+      "id": "34c999d1",
+      "bank_id": "80f25202",
+      "text": "Mervyn"
+    },
+    {
+      "id": "35c99b44",
+      "bank_id": "80f25202",
+      "text": "Homer"
+    },
+    {
+      "id": "36c99d37",
+      "bank_id": "80f25202",
+      "text": "Percy"
+    },
+    {
+      "id": "37c99eaa",
+      "bank_id": "80f25202",
+      "text": "Kötü Dave"
+    },
+    {
+      "id": "38c9a01d",
+      "bank_id": "80f25202",
+      "text": "Bertrand"
+    },
+    {
+      "id": "41127711",
+      "bank_id": "80f25202",
+      "text": "Işıklar sönsün!"
+    },
+    {
+      "id": "4b129fa7",
+      "bank_id": "80f25202",
+      "text": "Kel"
+    },
+    {
+      "id": "4d7f6167",
+      "bank_id": "80f25202",
+      "text": "Karıma ne yapmaya çalışıyorsun sen?!"
+    },
+    {
+      "id": "4d7f616c",
+      "bank_id": "80f25202",
+      "text": "Karım senin şeytani numaralarınla ilgilenmiyor!"
+    },
+    {
+      "id": "533d2ee6",
+      "bank_id": "80f25202",
+      "text": "Tüm tezgâhlar için kapanış vakti!"
+    },
+    {
+      "id": "534bbbe0",
+      "bank_id": "80f25202",
+      "text": "Karınız sizden boşandı ve bölgeyi terk etti."
+    },
+    {
+      "id": "5666aad5",
+      "bank_id": "80f25202",
+      "text": "Tezgâhlar ticarete açılıyor!"
+    },
+    {
+      "id": "5769352b",
+      "bank_id": "80f25202",
+      "text": "Karımın önünde şu ahlaksız teşhirciliğe derhâl son ver!"
+    },
+    {
+      "id": "594a77c0",
+      "bank_id": "80f25202",
+      "text": "Ekstra özel bir masaj ister misin?"
+    },
+    {
+      "id": "594a77c1",
+      "bank_id": "80f25202",
+      "text": "Benden daha fazlasını görmek ister misin?"
+    },
+    {
+      "id": "594a77c2",
+      "bank_id": "80f25202",
+      "text": "Üstümde bu kıyafetler yokken çok daha hoşumdur."
+    },
+    {
+      "id": "594a77c6",
+      "bank_id": "80f25202",
+      "text": "Kötü çocukları sever misin?"
+    },
+    {
+      "id": "594a77c7",
+      "bank_id": "80f25202",
+      "text": "Güzel vakit geçirmeye hazır mısın?"
+    },
+    {
+      "id": "5cdc31fc",
+      "bank_id": "80f25202",
+      "text": "Şişman"
+    },
+    {
+      "id": "5dd9f045",
+      "bank_id": "80f25202",
+      "text": "Palto"
+    },
+    {
+      "id": "5ea530de",
+      "bank_id": "80f25202",
+      "text": "30"
+    },
+    {
+      "id": "605d8788",
+      "bank_id": "80f25202",
+      "text": "Kes şunu! O benim kadınım! Benim!"
+    },
+    {
+      "id": "605d878d",
+      "bank_id": "80f25202",
+      "text": "O benim karım biliyorsun değil mi! Rahat bırak onu!"
+    },
+    {
+      "id": "605d878e",
+      "bank_id": "80f25202",
+      "text": "Kendini sergilediğin kadın benim karım! Derhâl kes şunu!"
+    },
+    {
+      "id": "605d878f",
+      "bank_id": "80f25202",
+      "text": "Kadınımı çalmaya mı çalışıyorsun sen?! Çekil şuradan!"
+    },
+    {
+      "id": "624a862a",
+      "bank_id": "80f25202",
+      "text": "Seni bir banshee gibi inleteceğim bebeğim."
+    },
+    {
+      "id": "624a862b",
+      "bank_id": "80f25202",
+      "text": "Sadece sen ve ben, bir yerlere gidelim."
+    },
+    {
+      "id": "624a862c",
+      "bank_id": "80f25202",
+      "text": "Benden daha fazlasını görmek ister misin?"
+    },
+    {
+      "id": "624a862d",
+      "bank_id": "80f25202",
+      "text": "Fiyat uygunsa gösterecek daha çok şeyim var."
+    },
+    {
+      "id": "624a862f",
+      "bank_id": "80f25202",
+      "text": "Beden jimnastiğine ne dersin?"
+    },
+    {
+      "id": "630a9639",
+      "bank_id": "80f25202",
+      "text": "İlginç bir adınız olmadan bir hiçsiniz! Bugün bir unvan alın!"
+    },
+    {
+      "id": "63752fa9",
+      "bank_id": "80f25202",
+      "text": "Hem büyükler hem de aptallar için unvanlarım var."
+    },
+    {
+      "id": "64080b9e",
+      "bank_id": "80f25202",
+      "text": "Güçlü"
+    },
+    {
+      "id": "6953d8e0",
+      "bank_id": "80f25202",
+      "text": "Cinsellik. Aşkın fiziksel hali. Birliktelik. Sever misin?"
+    },
+    {
+      "id": "6953d8e1",
+      "bank_id": "80f25202",
+      "text": "Hayatının zevkine hazır mısın?"
+    },
+    {
+      "id": "6953d8e2",
+      "bank_id": "80f25202",
+      "text": "Hayatının zevkine hazır mısın?"
+    },
+    {
+      "id": "6953d8e6",
+      "bank_id": "80f25202",
+      "text": "Hayatının en iyi on saniyesi için benimle gel."
+    },
+    {
+      "id": "6953d8e7",
+      "bank_id": "80f25202",
+      "text": "Rol yapma oyununa ne dersin?"
+    },
+    {
+      "id": "69ccc456",
+      "bank_id": "80f25202",
+      "text": "Dükkânlar halka açılıyor!"
+    },
+    {
+      "id": "7253e6ca",
+      "bank_id": "80f25202",
+      "text": "Ayaküstü biraz eğlence mi arıyorsun?"
+    },
+    {
+      "id": "7253e6cb",
+      "bank_id": "80f25202",
+      "text": "Güzel vakit geçirmek mi istiyorsun?"
+    },
+    {
+      "id": "7253e6cc",
+      "bank_id": "80f25202",
+      "text": "Hayatının zevkine hazır mısın?"
+    },
+    {
+      "id": "7253e6cd",
+      "bank_id": "80f25202",
+      "text": "Kainatta yapayalnızsın. Bırak sana katılayım."
+    },
+    {
+      "id": "7253e6cf",
+      "bank_id": "80f25202",
+      "text": "Harika bir tekniğim vardır. Görmek ister misin?"
+    },
+    {
+      "id": "756cee88",
+      "bank_id": "80f25202",
+      "text": "Tezgâhlar açıldı!"
+    },
+    {
+      "id": "769b63eb",
+      "bank_id": "80f25202",
+      "text": "Vakit... Çok geç oldu!"
+    },
+    {
+      "id": "7a16d14d",
+      "bank_id": "80f25202",
+      "text": "Tek Gözlük"
+    },
+    {
+      "id": "7a423b11",
+      "bank_id": "80f25202",
+      "text": "Karıma neden hediye veriyorsun? Bu çok şüpheli."
+    },
+    {
+      "id": "7a423b12",
+      "bank_id": "80f25202",
+      "text": "Masum, dostça bir hediye olsa iyi edersin."
+    },
+    {
+      "id": "7a423b13",
+      "bank_id": "80f25202",
+      "text": "Gözüm üzerinde. Hanımımla romantik hareketlerini yakalamayayım."
+    },
+    {
+      "id": "7a423b14",
+      "bank_id": "80f25202",
+      "text": "Ne yapıyorsun sen?! Karıma bir şey mi verdin az önce?"
+    },
+    {
+      "id": "7a423b15",
+      "bank_id": "80f25202",
+      "text": "Hey! Hanımım senin eşyalarınla ilgilenmiyor!"
+    },
+    {
+      "id": "7a423b16",
+      "bank_id": "80f25202",
+      "text": "Sevgili karıma ne vermeye çalışıyorsun sen?"
+    },
+    {
+      "id": "7a423b17",
+      "bank_id": "80f25202",
+      "text": "Umarım dostça bir hediyeden fazlası değildir."
+    },
+    {
+      "id": "7c758969",
+      "bank_id": "80f25202",
+      "text": "Etrafta koşturan yeterince çocuk var sağ ol. Unut bunu."
+    },
+    {
+      "id": "7ca09db5",
+      "bank_id": "80f25202",
+      "text": "Yepyeni bir unvan satın alın!"
+    },
+    {
+      "id": "81b897e1",
+      "bank_id": "80f25202",
+      "text": "Sosyetik"
+    },
+    {
+      "id": "84aa35d7",
+      "bank_id": "80f25202",
+      "text": "Keçi Sakal"
+    },
+    {
+      "id": "867615d3",
+      "bank_id": "80f25202",
+      "text": "Kötü bir ismin şöhretinizin önüne geçmesine izin vermeyin. Bir unvan alın!"
+    },
+    {
+      "id": "86bdbf38",
+      "bank_id": "80f25202",
+      "text": "Karımın önündeki şu aşağılık davranışlara derhâl son vereceksin!"
+    },
+    {
+      "id": "86bdbf3a",
+      "bank_id": "80f25202",
+      "text": "Kadınıma ne yapıyorsun sen?!"
+    },
+    {
+      "id": "86bdbf3b",
+      "bank_id": "80f25202",
+      "text": "Hanımımla ne yapıyorsun sen orada?"
+    },
+    {
+      "id": "86bdbf3c",
+      "bank_id": "80f25202",
+      "text": "Karımı rahat bırak!"
+    },
+    {
+      "id": "86bdbf3d",
+      "bank_id": "80f25202",
+      "text": "Kes şunu! O benim! Duyuyor musun!? Benim!"
+    },
+    {
+      "id": "86bdbf3e",
+      "bank_id": "80f25202",
+      "text": "Karımın yanında ne yapıyorsun sen?! O mutlu bir evliliğe sahip!"
+    },
+    {
+      "id": "903e84e8",
+      "bank_id": "80f25202",
+      "text": "Satılık unvanlar! Satılık unvanlar!"
+    },
+    {
+      "id": "924a59e8",
+      "bank_id": "80f25202",
+      "text": "Nasıl bir cimrisin sen öyle?"
+    },
+    {
+      "id": "924a59ea",
+      "bank_id": "80f25202",
+      "text": "Ha! Altın yoksa aşk da yok! Bu kadar basit!"
+    },
+    {
+      "id": "924a59eb",
+      "bank_id": "80f25202",
+      "text": "Ne? Biraz paran olduğunda geri gel!"
+    },
+    {
+      "id": "924a59ec",
+      "bank_id": "80f25202",
+      "text": "Bunu hayrına yaptığımı mı sanıyorsun?! Unut gitsin!"
+    },
+    {
+      "id": "924a59ed",
+      "bank_id": "80f25202",
+      "text": "Altın yok mu? Dalga mı geçiyorsun?! Vaktimi harcama!"
+    },
+    {
+      "id": "974a6189",
+      "bank_id": "80f25202",
+      "text": "Nasıl bir cimrisin sen öyle?"
+    },
+    {
+      "id": "974a618a",
+      "bank_id": "80f25202",
+      "text": "Ne? Biraz paran olduğunda geri gel!"
+    },
+    {
+      "id": "974a618b",
+      "bank_id": "80f25202",
+      "text": "Ha! Altın yoksa aşk da yok! Bu kadar basit!"
+    },
+    {
+      "id": "974a618c",
+      "bank_id": "80f25202",
+      "text": "Altın yok mu? Dalga mı geçiyorsun?! Vaktimi harcama!"
+    },
+    {
+      "id": "974a618d",
+      "bank_id": "80f25202",
+      "text": "Bunu hayrına yaptığımı mı sanıyorsun?! Unut gitsin!"
+    },
+    {
+      "id": "9a65ce48",
+      "bank_id": "80f25202",
+      "text": "Uzun Şapka"
+    },
+    {
+      "id": "9eb92cbd",
+      "bank_id": "80f25202",
+      "text": "Dükkânlar yarına kadar kapalı!"
+    },
+    {
+      "id": "a2f6c071",
+      "bank_id": "80f25202",
+      "text": "Kadınımdan uzak dur sen!"
+    },
+    {
+      "id": "a2f6c07a",
+      "bank_id": "80f25202",
+      "text": "Kadınımdan uzak dur seni pis süprüntü!"
+    },
+    {
+      "id": "a3547ea1",
+      "bank_id": "80f25202",
+      "text": "Tezgâhlar kapanıyor!"
+    },
+    {
+      "id": "a5507617",
+      "bank_id": "80f25202",
+      "text": "Unvan mı lazım? Benimle konuşun!"
+    },
+    {
+      "id": "a7f6fe3b",
+      "bank_id": "80f25202",
+      "text": "Peruk"
+    },
+    {
+      "id": "a91140a0",
+      "bank_id": "80f25202",
+      "text": "Öpüşmek ekstra ücrete tabidir."
+    },
+    {
+      "id": "a91140a1",
+      "bank_id": "80f25202",
+      "text": "Tabii ki. Ne istersen."
+    },
+    {
+      "id": "a91140a4",
+      "bank_id": "80f25202",
+      "text": "Altının var, değil mi?"
+    },
+    {
+      "id": "a91140a6",
+      "bank_id": "80f25202",
+      "text": "Beni çok tatmin edici bulacağını düşünüyorum."
+    },
+    {
+      "id": "a91140a7",
+      "bank_id": "80f25202",
+      "text": "Nasıl istersen tatlım."
+    },
+    {
+      "id": "a961c781",
+      "bank_id": "80f25202",
+      "text": "Gıdıklanır mısın?"
+    },
+    {
+      "id": "a961c782",
+      "bank_id": "80f25202",
+      "text": "Özel bir parti ister misin?"
+    },
+    {
+      "id": "a961c783",
+      "bank_id": "80f25202",
+      "text": "Varoluşsal kaygılarını dindirmeme izin ver."
+    },
+    {
+      "id": "a961c784",
+      "bank_id": "80f25202",
+      "text": "Sana evrenin sırlarını göstereyim."
+    },
+    {
+      "id": "a961c785",
+      "bank_id": "80f25202",
+      "text": "Masaj ister misin?"
+    },
+    {
+      "id": "ae114840",
+      "bank_id": "80f25202",
+      "text": "Muzır şeyleri seversin demek?"
+    },
+    {
+      "id": "ae114841",
+      "bank_id": "80f25202",
+      "text": "Parayı sökül de biraz eğlenelim."
+    },
+    {
+      "id": "ae114845",
+      "bank_id": "80f25202",
+      "text": "Pekala. Bunu sadece simya okulu masraflarımı çıkarmak için yapıyorum biliyorsun."
+    },
+    {
+      "id": "ae114846",
+      "bank_id": "80f25202",
+      "text": "Hmmm, senin için her zaman vaktim var canım."
+    },
+    {
+      "id": "ae114847",
+      "bank_id": "80f25202",
+      "text": "Gör bakalım şu altınları öyleyse."
+    },
+    {
+      "id": "ae700610",
+      "bank_id": "80f25202",
+      "text": "Vahşi yaşamayı seviyorsun ha?"
+    },
+    {
+      "id": "ae700611",
+      "bank_id": "80f25202",
+      "text": "Şu doğal olmayan engellere kimin ihtiyacı var ki zaten?"
+    },
+    {
+      "id": "ae700612",
+      "bank_id": "80f25202",
+      "text": "Korumasız mı? Biraz pisçe ama olur."
+    },
+    {
+      "id": "ae700616",
+      "bank_id": "80f25202",
+      "text": "Hayvan gibi bir şey misin sen? Sorun değil, hayvanları severim."
+    },
+    {
+      "id": "ae700617",
+      "bank_id": "80f25202",
+      "text": "Seni pis dilenci! Bu düşünce tarzını sevdim."
+    },
+    {
+      "id": "b461d930",
+      "bank_id": "80f25202",
+      "text": "Özel bir parti ister misin?"
+    },
+    {
+      "id": "b461d932",
+      "bank_id": "80f25202",
+      "text": "Mümkün olduğunu düşündüğünden daha fazla eğlenmek ister misin?"
+    },
+    {
+      "id": "b461d933",
+      "bank_id": "80f25202",
+      "text": "Özel bir parti ister misin?"
+    },
+    {
+      "id": "b461d934",
+      "bank_id": "80f25202",
+      "text": "Yatağı gıcırdatmaya ne dersin?"
+    },
+    {
+      "id": "b461d935",
+      "bank_id": "80f25202",
+      "text": "Partilemek ister misin? Yanında başkasını bile getirebilirsin."
+    },
+    {
+      "id": "b6fc992b",
+      "bank_id": "80f25202",
+      "text": "Keselerinizi hazırlayın, dükkânlar ticarete açıldı!"
+    },
+    {
+      "id": "b770147a",
+      "bank_id": "80f25202",
+      "text": "Bana vız gelir. Ya da bir domuz bağırsağına! Ha ha!"
+    },
+    {
+      "id": "b770147b",
+      "bank_id": "80f25202",
+      "text": "Çıplak mı? Sorun değil."
+    },
+    {
+      "id": "b770147c",
+      "bank_id": "80f25202",
+      "text": "Şu doğal olmayan engellere kimin ihtiyacı var ki zaten."
+    },
+    {
+      "id": "b770147d",
+      "bank_id": "80f25202",
+      "text": "Vahşi yaşamayı seviyorsun ha? Sen nasıl istersen."
+    },
+    {
+      "id": "b770147f",
+      "bank_id": "80f25202",
+      "text": "Korumasız mı? Biraz pisçe ama olur."
+    },
+    {
+      "id": "b8c275f8",
+      "bank_id": "80f25202",
+      "text": "Şöyle diyelim... Ben sertifikalı bir yatak yayı testçisiyim."
+    },
+    {
+      "id": "b8c275f9",
+      "bank_id": "80f25202",
+      "text": "Ağzının tadını bilir misin şekerim?"
+    },
+    {
+      "id": "b8c275fd",
+      "bank_id": "80f25202",
+      "text": "\"Mutlu son\" mu arıyorsun?"
+    },
+    {
+      "id": "b8c275fe",
+      "bank_id": "80f25202",
+      "text": "Özel bir yere geçelim mi?"
+    },
+    {
+      "id": "b8c275ff",
+      "bank_id": "80f25202",
+      "text": "Özel bir yere geçelim mi?"
+    },
+    {
+      "id": "be66f6df",
+      "bank_id": "80f25202",
+      "text": "Dövmeler"
+    },
+    {
+      "id": "c21ba04f",
+      "bank_id": "80f25202",
+      "text": "Bunu umursamayan bir arkadaşım vardı. Şimdi 17 çocuğu var."
+    },
+    {
+      "id": "c3c28728",
+      "bank_id": "80f25202",
+      "text": "Sana asla unutamayacağın bir deneyim yaşatabilirim."
+    },
+    {
+      "id": "c3c28729",
+      "bank_id": "80f25202",
+      "text": "Hiç bir profesyonelle samanlıkta yuvarlandın mı?"
+    },
+    {
+      "id": "c3c2872c",
+      "bank_id": "80f25202",
+      "text": "Harika bir şey görmek ister misin? Masraflı olacaktır ama."
+    },
+    {
+      "id": "c3c2872e",
+      "bank_id": "80f25202",
+      "text": "Sihirli parmaklarımla ünlüyümdür."
+    },
+    {
+      "id": "c3c2872f",
+      "bank_id": "80f25202",
+      "text": "Özel bir yere geçelim mi?"
+    },
+    {
+      "id": "cd81fb44",
+      "bank_id": "80f25202",
+      "text": "Dükkânlar açılıyor!"
+    },
+    {
+      "id": "d56bdfcc",
+      "bank_id": "80f25202",
+      "text": "Unvanlar! Unvanlar! Unvanlarınızı alın!"
+    },
+    {
+      "id": "d79ed4e8",
+      "bank_id": "80f25202",
+      "text": "Elbette canım."
+    },
+    {
+      "id": "d79ed4ea",
+      "bank_id": "80f25202",
+      "text": "Nasıl istersen tatlım."
+    },
+    {
+      "id": "d79ed4eb",
+      "bank_id": "80f25202",
+      "text": "Elbette canım."
+    },
+    {
+      "id": "d79ed4ec",
+      "bank_id": "80f25202",
+      "text": "Nasıl istersen hayatım."
+    },
+    {
+      "id": "d79ed4ed",
+      "bank_id": "80f25202",
+      "text": "Nasıl istersen tatlım."
+    },
+    {
+      "id": "d7f988f7",
+      "bank_id": "80f25202",
+      "text": "Şapka"
+    },
+    {
+      "id": "d881fdfc",
+      "bank_id": "80f25202",
+      "text": "Yüz Kılları"
+    },
+    {
+      "id": "da0bea64",
+      "bank_id": "80f25202",
+      "text": "Tek Gözlü Bob"
+    },
+    {
+      "id": "da190cfb",
+      "bank_id": "80f25202",
+      "text": "Tezgâhlar yarına kadar kapanacaktır!"
+    },
+    {
+      "id": "da5c1c20",
+      "bank_id": "80f25202",
+      "text": "Gözlük"
+    },
+    {
+      "id": "da8471be",
+      "bank_id": "80f25202",
+      "text": "Havalı bir unvanla dostlarınızı ve düşmanlarınızı büyüleyin!"
+    },
+    {
+      "id": "dc1b5a28",
+      "bank_id": "80f25202",
+      "text": "Kutu oyunları oynamak ister misin?"
+    },
+    {
+      "id": "dc1b5a2a",
+      "bank_id": "80f25202",
+      "text": "Yapmayacağım hiçbir şey yoktur."
+    },
+    {
+      "id": "dc1b5a2b",
+      "bank_id": "80f25202",
+      "text": "Cennete küçük bir yolculuk yapmak ister misin?"
+    },
+    {
+      "id": "dc1b5a2c",
+      "bank_id": "80f25202",
+      "text": "Senin için baharatlı bir şeyim var."
+    },
+    {
+      "id": "dc1b5a2d",
+      "bank_id": "80f25202",
+      "text": "Biraz kurabiye pişirmek ister misin?"
+    },
+    {
+      "id": "dc961bda",
+      "bank_id": "80f25202",
+      "text": "Gönül eğlendirmek ister misin?"
+    },
+    {
+      "id": "dc961bdb",
+      "bank_id": "80f25202",
+      "text": "Biraz yarenliğe ne dersin?"
+    },
+    {
+      "id": "dc961bdc",
+      "bank_id": "80f25202",
+      "text": "En çılgın fantezilerini gerçekleştirmek ister misin?"
+    },
+    {
+      "id": "dc961bdd",
+      "bank_id": "80f25202",
+      "text": "Yalnız mı hissediyorsun?"
+    },
+    {
+      "id": "dc961bde",
+      "bank_id": "80f25202",
+      "text": "Yalnız mı hissediyorsun?"
+    },
+    {
+      "id": "dc9edc89",
+      "bank_id": "80f25202",
+      "text": "Buna pişman olmayacaksın."
+    },
+    {
+      "id": "dc9edc8a",
+      "bank_id": "80f25202",
+      "text": "Doğru altın karşılığında tamamen seninim."
+    },
+    {
+      "id": "dc9edc8b",
+      "bank_id": "80f25202",
+      "text": "Akıllıca bir seçim yaptın."
+    },
+    {
+      "id": "dc9edc8c",
+      "bank_id": "80f25202",
+      "text": "Altın için her şeyi yaparım."
+    },
+    {
+      "id": "dc9edc8d",
+      "bank_id": "80f25202",
+      "text": "Parayı öde de işimizi görelim."
+    },
+    {
+      "id": "dd0bef3d",
+      "bank_id": "80f25202",
+      "text": "Yaralı Yüz"
+    },
+    {
+      "id": "de04ebcf",
+      "bank_id": "80f25202",
+      "text": "Sabah oldu!"
+    },
+    {
+      "id": "e11b61c9",
+      "bank_id": "80f25202",
+      "text": "Seni cennete götürmeme izin ver."
+    },
+    {
+      "id": "e11b61ca",
+      "bank_id": "80f25202",
+      "text": "Seni cennete götürmeme izin ver."
+    },
+    {
+      "id": "e11b61cb",
+      "bank_id": "80f25202",
+      "text": "Biraz yarenlik ister misin?"
+    },
+    {
+      "id": "e11b61cc",
+      "bank_id": "80f25202",
+      "text": "Kasabanın en iyi bal küpüne dalmak ister misin?"
+    },
+    {
+      "id": "e11b61cd",
+      "bank_id": "80f25202",
+      "text": "Biraz oynaşmaya var mısın?"
+    },
+    {
+      "id": "e4fd9008",
+      "bank_id": "80f25202",
+      "text": "Karımın senin süs eşyalarına ihtiyacı yok."
+    },
+    {
+      "id": "e4fd9009",
+      "bank_id": "80f25202",
+      "text": "Karıma ne hakla hediye veriyorsun sen?!"
+    },
+    {
+      "id": "e4fd900a",
+      "bank_id": "80f25202",
+      "text": "Hey! Hanımım senin zırvalarınla ilgilenmiyor!"
+    },
+    {
+      "id": "e4fd900b",
+      "bank_id": "80f25202",
+      "text": "Karıma öylece eşyalar verebileceğini mi sanıyorsun?!"
+    },
+    {
+      "id": "e4fd900c",
+      "bank_id": "80f25202",
+      "text": "Karıma verdiğin şey hediye mi? Bana sadece arkadaşız demeye kalkma sakın!"
+    },
+    {
+      "id": "e4fd900d",
+      "bank_id": "80f25202",
+      "text": "Karıma uygunsuz bir şey vermiyorsan iyi edersin."
+    },
+    {
+      "id": "e4fd900e",
+      "bank_id": "80f25202",
+      "text": "Karıma ne veriyorsun sen orada öyle?!"
+    },
+    {
+      "id": "e593ebc6",
+      "bank_id": "80f25202",
+      "text": "Zayıf"
+    },
+    {
+      "id": "e5962a28",
+      "bank_id": "80f25202",
+      "text": "Yalnız mı hissediyorsun?"
+    },
+    {
+      "id": "e5962a29",
+      "bank_id": "80f25202",
+      "text": "Ufkunu genişletmeme izin ver."
+    },
+    {
+      "id": "e5962a2b",
+      "bank_id": "80f25202",
+      "text": "Yatakta bir asımdır biliyorsun."
+    },
+    {
+      "id": "e5962a2e",
+      "bank_id": "80f25202",
+      "text": "Tatlı mı tatlı bir melodi tutturabiliriz."
+    },
+    {
+      "id": "e5962a2f",
+      "bank_id": "80f25202",
+      "text": "Benim evime geçmek ister misin?"
+    },
+    {
+      "id": "e89541a2",
+      "bank_id": "80f25202",
+      "text": "Sakal"
+    },
+    {
+      "id": "f3a34591",
+      "bank_id": "80f25202",
+      "text": "Pis ilişkiler istiyorsan çiftliğe git."
+    },
+    {
+      "id": "f3a34594",
+      "bank_id": "80f25202",
+      "text": "Yok, yapamam. Kurallara aykırı."
+    },
+    {
+      "id": "f3a34596",
+      "bank_id": "80f25202",
+      "text": "Sen bir maceracı olabilirsin ama ben değilim."
+    },
+    {
+      "id": "f3a34597",
+      "bank_id": "80f25202",
+      "text": "Unut bunu. Nerelerde sürtündüğünü kim bilir."
+    },
+    {
+      "id": "f8a34db0",
+      "bank_id": "80f25202",
+      "text": "Pis ilişkiler istiyorsan çiftliğe git."
+    },
+    {
+      "id": "f8a34db5",
+      "bank_id": "80f25202",
+      "text": "Beni nasıl bir kadın sanıyorsun sen?"
+    },
+    {
+      "id": "f8a34db6",
+      "bank_id": "80f25202",
+      "text": "Unut bunu. Nerelerde sürtündüğünü kim bilir."
+    },
+    {
+      "id": "fa5363c8",
+      "bank_id": "80f25202",
+      "text": "Yarenlik ister misin?"
+    },
+    {
+      "id": "fa5363ca",
+      "bank_id": "80f25202",
+      "text": "Yalnız görünüyorsun. Bunu çözebilirim."
+    },
+    {
+      "id": "fa5363cb",
+      "bank_id": "80f25202",
+      "text": "Gördüğün şey hoşuna gitti mi?"
+    },
+    {
+      "id": "fa5363cc",
+      "bank_id": "80f25202",
+      "text": "Eğlenmek ister misin?"
+    },
+    {
+      "id": "fa5363cd",
+      "bank_id": "80f25202",
+      "text": "Ne dersin canım?"
+    },
+    {
+      "id": "ff536be9",
+      "bank_id": "80f25202",
+      "text": "Yarenlik ister misin?"
+    },
+    {
+      "id": "ff536bea",
+      "bank_id": "80f25202",
+      "text": "Gördüğün şey hoşuna gitti mi?"
+    },
+    {
+      "id": "ff536beb",
+      "bank_id": "80f25202",
+      "text": "Yalnız görünüyorsun. Bunu çözebilirim."
+    },
+    {
+      "id": "ff536bec",
+      "bank_id": "80f25202",
+      "text": "Ne dersin canım?"
+    },
+    {
+      "id": "ff536bed",
+      "bank_id": "80f25202",
+      "text": "Eğlenmek ister misin?"
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "bank_id": "70ae3602",
+  "total_strings": 160,
+  "strings": [
+    {
+      "id": "02194347",
+      "bank_id": "70ae3602",
+      "text": "Şu herif içkiyi pek bir seviyor! Ortalığı fena dağıtıyor."
+    },
+    {
+      "id": "0219434c",
+      "bank_id": "70ae3602",
+      "text": "Şu kadın içkiyi pek bir seviyor! Ortalığı fena dağıtıyor."
+    },
+    {
+      "id": "07972bc0",
+      "bank_id": "70ae3602",
+      "text": "Eski zamanlarda olsa yaptıkları yüzünden onu linç ederlerdi."
+    },
+    {
+      "id": "07972bcb",
+      "bank_id": "70ae3602",
+      "text": "Eski zamanlarda olsa yaptıkları yüzünden onu linç ederlerdi."
+    },
+    {
+      "id": "082ef638",
+      "bank_id": "70ae3602",
+      "text": "Ha ha, içkiyi kaldıramıyorsun ha, değil mi?"
+    },
+    {
+      "id": "082ef63b",
+      "bank_id": "70ae3602",
+      "text": "Senin gibi ayyaşların edepli toplumun içine girmesine izin verilmemeli."
+    },
+    {
+      "id": "082ef63f",
+      "bank_id": "70ae3602",
+      "text": "Sarhoşken yaptıklarından hiç utanmıyor musun?"
+    },
+    {
+      "id": "08708ed0",
+      "bank_id": "70ae3602",
+      "text": "O işte, haraç kesmekten suçlu bulunan adam."
+    },
+    {
+      "id": "08708edb",
+      "bank_id": "70ae3602",
+      "text": "O işte, haraç kesmekten suçlu bulunan kadın."
+    },
+    {
+      "id": "1bceb670",
+      "bank_id": "70ae3602",
+      "text": "Başka birine saldırmadın değil mi?"
+    },
+    {
+      "id": "1bceb673",
+      "bank_id": "70ae3602",
+      "text": "Umarım son zamanlarda kimseye saldırmamışsındır."
+    },
+    {
+      "id": "268ffd86",
+      "bank_id": "70ae3602",
+      "text": "Sarhoş olunca çok iğrençleşiyor."
+    },
+    {
+      "id": "268ffd8d",
+      "bank_id": "70ae3602",
+      "text": "Sarhoş olunca çok iğrençleşiyor."
+    },
+    {
+      "id": "293eb67c",
+      "bank_id": "70ae3602",
+      "text": "Gözünü o haraççıdan ayırma sakın."
+    },
+    {
+      "id": "293eb67f",
+      "bank_id": "70ae3602",
+      "text": "Gözüm şunun üzerinde. Milletten haraç kestiği biliniyor."
+    },
+    {
+      "id": "29f74570",
+      "bank_id": "70ae3602",
+      "text": "O aptalı neredeyse öldürüyordun."
+    },
+    {
+      "id": "29f74571",
+      "bank_id": "70ae3602",
+      "text": "Birini doğru düzgün öldürmeyi bile beceremedin ha?"
+    },
+    {
+      "id": "29f74574",
+      "bank_id": "70ae3602",
+      "text": "Ortalıkta gezip insanları öldürmeye kalkışabileceğini mi sanıyorsun?"
+    },
+    {
+      "id": "29f74576",
+      "bank_id": "70ae3602",
+      "text": "Neredeyse öldürüyordun onları!"
+    },
+    {
+      "id": "29f74577",
+      "bank_id": "70ae3602",
+      "text": "Onları öldürmemiş olman tam bir mucize!"
+    },
+    {
+      "id": "2ef74d10",
+      "bank_id": "70ae3602",
+      "text": "Bu cinayete teşebbüs meselesi de neyin nesi?"
+    },
+    {
+      "id": "2ef74d11",
+      "bank_id": "70ae3602",
+      "text": "Gerçekten cinayet işlemeye mi kalkıştın yani?!"
+    },
+    {
+      "id": "2ef74d15",
+      "bank_id": "70ae3602",
+      "text": "Birini öldürmeye kalkışabileceğine inanamıyorum."
+    },
+    {
+      "id": "2ef74d16",
+      "bank_id": "70ae3602",
+      "text": "Gerçekten cinayet işlemeye mi kalkıştın yani?!"
+    },
+    {
+      "id": "2ef74d17",
+      "bank_id": "70ae3602",
+      "text": "Ne yapmaya kalkıştığını herkes biliyor. Cinayet olmasına ramak kalmıştı."
+    },
+    {
+      "id": "31cd7642",
+      "bank_id": "70ae3602",
+      "text": "Birini öldürmeye çalışan kadın bu işte."
+    },
+    {
+      "id": "31cd7649",
+      "bank_id": "70ae3602",
+      "text": "Birini öldürmeye çalışan adam bu işte."
+    },
+    {
+      "id": "33fb9b66",
+      "bank_id": "70ae3602",
+      "text": "Pis, aşağılık bir hobbe'nin teki o. Ne yaptığını duydun mu?"
+    },
+    {
+      "id": "33fb9b6d",
+      "bank_id": "70ae3602",
+      "text": "Pis, aşağılık bir kadının teki o. Ne yaptığını duydun mu?"
+    },
+    {
+      "id": "3f4d168c",
+      "bank_id": "70ae3602",
+      "text": "Birini taciz ederken yakalamayayım seni."
+    },
+    {
+      "id": "3f4d168f",
+      "bank_id": "70ae3602",
+      "text": "Benim nöbetimde kimseye zorbalık etmesen iyi edersin."
+    },
+    {
+      "id": "41321cb9",
+      "bank_id": "70ae3602",
+      "text": "Eskiden ben de senin gibi zorbaydım. Ama artık uslandım."
+    },
+    {
+      "id": "41321cba",
+      "bank_id": "70ae3602",
+      "text": "Gözdağı vermek şahsa karşı işlenen bir suçtur. Ve şahsen ben buna göz yummam."
+    },
+    {
+      "id": "41321cbe",
+      "bank_id": "70ae3602",
+      "text": "Böyle mi tatmin oluyorsun sen? Sokakta insanları taciz ederek mi?"
+    },
+    {
+      "id": "4554eb51",
+      "bank_id": "70ae3602",
+      "text": "Bana onun birini öldürmeye çalıştığını söylediler."
+    },
+    {
+      "id": "4554eb5a",
+      "bank_id": "70ae3602",
+      "text": "Bana onun birini öldürmeye çalıştığını söylediler."
+    },
+    {
+      "id": "45597e26",
+      "bank_id": "70ae3602",
+      "text": "Onu bir görseydin. Hiçbir sebep yokken zavallı bir masumu taciz edip duruyordu."
+    },
+    {
+      "id": "45597e2d",
+      "bank_id": "70ae3602",
+      "text": "Onu bir görseydin. Hiçbir sebep yokken zavallı bir masumu taciz edip duruyordu."
+    },
+    {
+      "id": "458b3e10",
+      "bank_id": "70ae3602",
+      "text": "Bu konuda henüz tam bir karara varamadım."
+    },
+    {
+      "id": "458b3e11",
+      "bank_id": "70ae3602",
+      "text": "Bu meselede hâlâ kararsızım."
+    },
+    {
+      "id": "48d582c6",
+      "bank_id": "70ae3602",
+      "text": "Yaptığı şey iğrençti. Gerçekten çok iğrençti."
+    },
+    {
+      "id": "48d582cd",
+      "bank_id": "70ae3602",
+      "text": "Yaptığı şey iğrençti. Gerçekten çok iğrençti."
+    },
+    {
+      "id": "4c322de9",
+      "bank_id": "70ae3602",
+      "text": "Seni zorba. Üzerimde hiçbir şey denemeye kalkma sakın."
+    },
+    {
+      "id": "4c322dea",
+      "bank_id": "70ae3602",
+      "text": "Koca bir zorbadan başka bir şey değilsin sen."
+    },
+    {
+      "id": "4d89d7b5",
+      "bank_id": "70ae3602",
+      "text": "Artık ayıksındır umarım."
+    },
+    {
+      "id": "4d89d7b6",
+      "bank_id": "70ae3602",
+      "text": "Şu zıkkımı biraz azaltsan iyi edersin."
+    },
+    {
+      "id": "50fb24c4",
+      "bank_id": "70ae3602",
+      "text": "Tam bir zorbadır o. Zevk için insanlara gözdağı vermeye bayılır."
+    },
+    {
+      "id": "50fb24cf",
+      "bank_id": "70ae3602",
+      "text": "Tam bir zorbadır o. Zevk için insanlara gözdağı vermeye bayılır."
+    },
+    {
+      "id": "60f12640",
+      "bank_id": "70ae3602",
+      "text": "Nasıl yapabildin bunu? Neredeyse öldürüyordun onları!"
+    },
+    {
+      "id": "60f12641",
+      "bank_id": "70ae3602",
+      "text": "Az kalsın eline kan bulaşıyordu!"
+    },
+    {
+      "id": "60f12643",
+      "bank_id": "70ae3602",
+      "text": "Sen ne yapmaya çalışıyorsun be?! Birini öldürmeye kalkışmak da ne demek?!"
+    },
+    {
+      "id": "60f12644",
+      "bank_id": "70ae3602",
+      "text": "Böyle bir davranış kabul edilemez! Birini öldürebilirdin!"
+    },
+    {
+      "id": "60f12645",
+      "bank_id": "70ae3602",
+      "text": "Hangi psikopat ortalıkta gezip insanları öldürmeye çalışır ki?!"
+    },
+    {
+      "id": "60f12646",
+      "bank_id": "70ae3602",
+      "text": "Ne biçim bir canavarsın sen öyle? Neredeyse öldürüyordun onları!"
+    },
+    {
+      "id": "60f12647",
+      "bank_id": "70ae3602",
+      "text": "Eğlenmek için bunu mu yapıyorsun yani? İnsanları öldürmeye mi kalkışıyorsun?"
+    },
+    {
+      "id": "642136b0",
+      "bank_id": "70ae3602",
+      "text": "Şu yozlaşmış herife dikkat edin. Bayağı sapıkça şeyler yaptığı biliniyor."
+    },
+    {
+      "id": "642136b3",
+      "bank_id": "70ae3602",
+      "text": "Gözümü o sapıktan ayırmıyorum. Ne zaman tekrar saldıracağı hiç belli olmaz."
+    },
+    {
+      "id": "67f13140",
+      "bank_id": "70ae3602",
+      "text": "Senin gibi insanların serbestçe dolaşmasına nasıl izin verilir? Az kalsın birini öldürüyordun!"
+    },
+    {
+      "id": "67f13141",
+      "bank_id": "70ae3602",
+      "text": "Böylesi bir şiddetten nefret ediyorum. Neyse ki kimse ölmedi!"
+    },
+    {
+      "id": "67f13142",
+      "bank_id": "70ae3602",
+      "text": "Nasıl yapabildin bunu? Cidden onları öldürmek mi istedin?"
+    },
+    {
+      "id": "67f13143",
+      "bank_id": "70ae3602",
+      "text": "Ortalıkta gezip insanları öldürmeye çalışınca marifet sanıyorsun değil mi?"
+    },
+    {
+      "id": "67f13144",
+      "bank_id": "70ae3602",
+      "text": "Öfkene biraz olsun hâkim olamaz mısın? Az kalsın katil oluyordun!"
+    },
+    {
+      "id": "67f13145",
+      "bank_id": "70ae3602",
+      "text": "Bunun akıllıca bir şey olduğunu mu sanıyorsun? Şans eseri ölmediler!"
+    },
+    {
+      "id": "67f13146",
+      "bank_id": "70ae3602",
+      "text": "Sen! Az kalsın birini öldürüyordun!"
+    },
+    {
+      "id": "75924319",
+      "bank_id": "70ae3602",
+      "text": "İnsanlar buralarda milleti taciz etme hakkının sadece muhafızlarda olduğunu ne zaman öğrenecek acaba."
+    },
+    {
+      "id": "7592431a",
+      "bank_id": "70ae3602",
+      "text": "Şu maceracıyı millete zorbalık ederken yakaladım. İtiraf edeyim eğlenceli görünüyordu."
+    },
+    {
+      "id": "77aa774a",
+      "bank_id": "70ae3602",
+      "text": "Artık yüzüne bile zor bakıyorum. Seni sapık."
+    },
+    {
+      "id": "77aa774e",
+      "bank_id": "70ae3602",
+      "text": "Çok iğrençsin. Bunu nasıl yapabildin?"
+    },
+    {
+      "id": "77b93ead",
+      "bank_id": "70ae3602",
+      "text": "Seni içeri tıkıp anahtarı da çöpe atmaları lazım seni sapkın."
+    },
+    {
+      "id": "77b93eae",
+      "bank_id": "70ae3602",
+      "text": "Kanunları ben koysaydım ömrünün sonuna kadar zindanda çürürdün. Yozlaşmış herif."
+    },
+    {
+      "id": "80aa859b",
+      "bank_id": "70ae3602",
+      "text": "Midemi bulandırıyorsun!"
+    },
+    {
+      "id": "80aa859e",
+      "bank_id": "70ae3602",
+      "text": "Midemi bulandırıyorsun tek kelimeyle."
+    },
+    {
+      "id": "89aac1e1",
+      "bank_id": "70ae3602",
+      "text": "Birini öldürmeye çalıştın sen."
+    },
+    {
+      "id": "92f8fd64",
+      "bank_id": "70ae3602",
+      "text": "İnsanlardan altın koparmak için yapmayacağı şey yoktur."
+    },
+    {
+      "id": "92f8fd6f",
+      "bank_id": "70ae3602",
+      "text": "İnsanlardan altın koparmak için yapmayacağı şey yoktur."
+    },
+    {
+      "id": "93c53ce7",
+      "bank_id": "70ae3602",
+      "text": "Yaptıklarından sonra onu temelli içeri tıkmaları gerekirdi."
+    },
+    {
+      "id": "93c53cec",
+      "bank_id": "70ae3602",
+      "text": "Yaptıklarından sonra onu temelli içeri tıkmaları gerekirdi."
+    },
+    {
+      "id": "94aad310",
+      "bank_id": "70ae3602",
+      "text": "İnsanları öldürmeye çalışan tipleri hiç sevmem."
+    },
+    {
+      "id": "98faaec3",
+      "bank_id": "70ae3602",
+      "text": "Gözünü şundan ayırma, o katliamın sorumlusu o bilesin."
+    },
+    {
+      "id": "98faaec8",
+      "bank_id": "70ae3602",
+      "text": "Gözünü şundan ayırma, o katliamın sorumlusu o bilesin."
+    },
+    {
+      "id": "9f3fcc59",
+      "bank_id": "70ae3602",
+      "text": "Şunu görüyor musun orada. Birini öldürmeye kalkıştı. Gözünü dört açsan iyi edersin."
+    },
+    {
+      "id": "9f3fcc5a",
+      "bank_id": "70ae3602",
+      "text": "Şu maceracı cinayete yeltendi. Cinayetle bitmemesi tamamen kör talih."
+    },
+    {
+      "id": "9f9433d1",
+      "bank_id": "70ae3602",
+      "text": "Seni de o cinayet girişimlerini de çok iyi biliyorum."
+    },
+    {
+      "id": "9f9433d2",
+      "bank_id": "70ae3602",
+      "text": "Katil özentileriyle konuşmam ben!"
+    },
+    {
+      "id": "9f9433d3",
+      "bank_id": "70ae3602",
+      "text": "Sırada kimi öldürmeye kalkışacaksın bakalım?"
+    },
+    {
+      "id": "9f9433d4",
+      "bank_id": "70ae3602",
+      "text": "Yıkıl karşımdan seni yarım porsiyon katil."
+    },
+    {
+      "id": "9f9433d5",
+      "bank_id": "70ae3602",
+      "text": "Ortalıkta gezip insanları öldürmeye kalkışmak hoşuna gidiyor değil mi?"
+    },
+    {
+      "id": "9f9433d6",
+      "bank_id": "70ae3602",
+      "text": "Beceriksiz bir katilden başka bir şey değilsin sen."
+    },
+    {
+      "id": "9f9433d7",
+      "bank_id": "70ae3602",
+      "text": "Masum insanları öldürmeye çalışmaya nasıl cüret edersin?"
+    },
+    {
+      "id": "a7405bb1",
+      "bank_id": "70ae3602",
+      "text": "Görünüşe göre başımızda yeni bir saldırı vakası olabilir. Bakın kim gelmiş."
+    },
+    {
+      "id": "a7405bb2",
+      "bank_id": "70ae3602",
+      "text": "Vay vay vay, bakın kimler varmış burada. Sana bahsettiğim o saldırgan işte."
+    },
+    {
+      "id": "a8513002",
+      "bank_id": "70ae3602",
+      "text": "Birini öldürmeye kalkışmış diyorlar. Korkunç."
+    },
+    {
+      "id": "a8513004",
+      "bank_id": "70ae3602",
+      "text": "Evet, içimizden birini az kalsın öldüren maceracı tam olarak bu işte."
+    },
+    {
+      "id": "a8513005",
+      "bank_id": "70ae3602",
+      "text": "Aramızda nasıl bir katil özentisi dolaşıyor öyle."
+    },
+    {
+      "id": "a8513006",
+      "bank_id": "70ae3602",
+      "text": "O aptal birini doğru dürüst öldürmeyi bile beceremedi."
+    },
+    {
+      "id": "a8513007",
+      "bank_id": "70ae3602",
+      "text": "Birini öldürmeyi bile beceremedi."
+    },
+    {
+      "id": "a8f50955",
+      "bank_id": "70ae3602",
+      "text": "Bir daha kimseyi öldürmeye kalkışmayı aklından bile geçirme."
+    },
+    {
+      "id": "a8f50956",
+      "bank_id": "70ae3602",
+      "text": "Şansını bir daha cinayette denemesen iyi edersin."
+    },
+    {
+      "id": "aa944500",
+      "bank_id": "70ae3602",
+      "text": "Neden insanları öldürmeye çalışıyorsun ki?"
+    },
+    {
+      "id": "aa944502",
+      "bank_id": "70ae3602",
+      "text": "Birini öldürmeye çalışmak çok büyük bir yanlış. Neden yaptın bunu?"
+    },
+    {
+      "id": "aa944503",
+      "bank_id": "70ae3602",
+      "text": "Onları neden öldürmeye kalkıştın ki!?"
+    },
+    {
+      "id": "aa944504",
+      "bank_id": "70ae3602",
+      "text": "Onları neden öldürmeye kalkıştın ki!?"
+    },
+    {
+      "id": "aa944505",
+      "bank_id": "70ae3602",
+      "text": "Neden öldürmeye çalıştın onları?"
+    },
+    {
+      "id": "aa944506",
+      "bank_id": "70ae3602",
+      "text": "Cinayete teşebbüs çok ciddi bir suçtur."
+    },
+    {
+      "id": "aa944507",
+      "bank_id": "70ae3602",
+      "text": "Böyle bir şeye nasıl yeltenebildin?"
+    },
+    {
+      "id": "ab449424",
+      "bank_id": "70ae3602",
+      "text": "Fakir fukaradan zorla para koparmak için güçlerini nasıl kullanabildin?"
+    },
+    {
+      "id": "ab449427",
+      "bank_id": "70ae3602",
+      "text": "Bana zorbalık edip altın alamazsın."
+    },
+    {
+      "id": "ac0b15e5",
+      "bank_id": "70ae3602",
+      "text": "Evet, zavallı bir saftirikten altın sızdırmaya çalışırken yakalandı."
+    },
+    {
+      "id": "ac0b15ee",
+      "bank_id": "70ae3602",
+      "text": "Evet, zavallı bir saftirikten altın sızdırmaya çalışırken yakalandı."
+    },
+    {
+      "id": "b1513e6a",
+      "bank_id": "70ae3602",
+      "text": "Şunun birini öldürmeye kalkıştığını duydum."
+    },
+    {
+      "id": "b1513e6b",
+      "bank_id": "70ae3602",
+      "text": "Birini öldürmeye çalışmış bilesin."
+    },
+    {
+      "id": "b1513e6c",
+      "bank_id": "70ae3602",
+      "text": "O zavallı köylüyü öldürmeye çalışan kişi bu işte."
+    },
+    {
+      "id": "b1513e6d",
+      "bank_id": "70ae3602",
+      "text": "Neredeyse birinin canını alan haydut bu, değil mi?"
+    },
+    {
+      "id": "b1513e6f",
+      "bank_id": "70ae3602",
+      "text": "Bir katil özentisi geçiyor oradan."
+    },
+    {
+      "id": "b444a208",
+      "bank_id": "70ae3602",
+      "text": "Haraç kesmek serserilerin başvurduğu yoldur."
+    },
+    {
+      "id": "b444a20b",
+      "bank_id": "70ae3602",
+      "text": "Benden haraç almaya kalkışma sakın. İşe yaramaz."
+    },
+    {
+      "id": "b444a20c",
+      "bank_id": "70ae3602",
+      "text": "İnsanlardan öyle haraç kesmeye hiç utanmıyor musun?"
+    },
+    {
+      "id": "b541f750",
+      "bank_id": "70ae3602",
+      "text": "Böyle davranarak hiç arkadaş edinemezsin bilesin!"
+    },
+    {
+      "id": "b541f751",
+      "bank_id": "70ae3602",
+      "text": "Lütfen! Bana da vurma!"
+    },
+    {
+      "id": "b541f753",
+      "bank_id": "70ae3602",
+      "text": "İnsanlara zorbalık etmeyi kes artık!"
+    },
+    {
+      "id": "b541f754",
+      "bank_id": "70ae3602",
+      "text": "Saldırganlığını daha faydalı bir işe yönlendirebilirdin herhalde!"
+    },
+    {
+      "id": "b541f755",
+      "bank_id": "70ae3602",
+      "text": "Nezih bir toplumda yaşıyoruz! Senin bu kaba saba zorbalığına yer yok burada!"
+    },
+    {
+      "id": "b541f756",
+      "bank_id": "70ae3602",
+      "text": "Siz Kahramanlar hepiniz aynısınız! Hepiniz koca birer zorbasınız."
+    },
+    {
+      "id": "b541f757",
+      "bank_id": "70ae3602",
+      "text": "İnsanları pataklamaya bayılıyorsun değil mi?"
+    },
+    {
+      "id": "b8c39988",
+      "bank_id": "70ae3602",
+      "text": "Geçen gün o gülünç sarhoşu gördün mü?"
+    },
+    {
+      "id": "b8c3998b",
+      "bank_id": "70ae3602",
+      "text": "Bugünlerde şahit olduğumuz bu edepsizce tavırlar çok korkunç."
+    },
+    {
+      "id": "bc420250",
+      "bank_id": "70ae3602",
+      "text": "Meseleleri medeni bir şekilde halledemez misiniz? Şiddet kaba insanlara göredir."
+    },
+    {
+      "id": "bc420251",
+      "bank_id": "70ae3602",
+      "text": "Böyle davranmanız tam bir barbarlık!"
+    },
+    {
+      "id": "bc420252",
+      "bank_id": "70ae3602",
+      "text": "Ben de Kahraman olsaydım ortalıkta gezip milletin canına okurdum doğrusu."
+    },
+    {
+      "id": "bc420253",
+      "bank_id": "70ae3602",
+      "text": "Sen de koca bir zorbadan başka bir şey değilsin, değil mi?"
+    },
+    {
+      "id": "bc420254",
+      "bank_id": "70ae3602",
+      "text": "Beni de pataklamayacaksın değil mi?"
+    },
+    {
+      "id": "bc420255",
+      "bank_id": "70ae3602",
+      "text": "Bu çok korkunçtu! Kendi boyundaki insanlara sataşmalısın."
+    },
+    {
+      "id": "bc420256",
+      "bank_id": "70ae3602",
+      "text": "Böyle mi tatmin oluyorsun yani? İnsanları döverek mi?"
+    },
+    {
+      "id": "c9b9b998",
+      "bank_id": "70ae3602",
+      "text": "O pisliği neden yaptın?"
+    },
+    {
+      "id": "cd97bf61",
+      "bank_id": "70ae3602",
+      "text": "Haraççılardan hiç hazetmem."
+    },
+    {
+      "id": "cd97bf62",
+      "bank_id": "70ae3602",
+      "text": "İnsanlardan bir daha haraç keserken yakalamayayım seni."
+    },
+    {
+      "id": "ceb9c1b9",
+      "bank_id": "70ae3602",
+      "text": "Gerçekten çok fena bir şey yaptın."
+    },
+    {
+      "id": "cfe1ecb6",
+      "bank_id": "70ae3602",
+      "text": "Öyle zorba ki."
+    },
+    {
+      "id": "cfe1ecbd",
+      "bank_id": "70ae3602",
+      "text": "Öyle zorba ki."
+    },
+    {
+      "id": "d7916be3",
+      "bank_id": "70ae3602",
+      "text": "İçtiği zaman ortalığı fena birbirine katıyor."
+    },
+    {
+      "id": "d7916be8",
+      "bank_id": "70ae3602",
+      "text": "İçtiği zaman ortalığı fena birbirine katıyor."
+    },
+    {
+      "id": "dc824d8d",
+      "bank_id": "70ae3602",
+      "text": "Hiç hobbe'lerle savaştın mı? Kötü yaratıklardır."
+    },
+    {
+      "id": "e3785718",
+      "bank_id": "70ae3602",
+      "text": "O zavallı insanların hepsini öldüren kişi sensin. Seni canavar."
+    },
+    {
+      "id": "e378571a",
+      "bank_id": "70ae3602",
+      "text": "Aşağılık bir toplu katilsin sen!"
+    },
+    {
+      "id": "e378571b",
+      "bank_id": "70ae3602",
+      "text": "Ne yaptığını hepimiz duyduk! Onca zavallı insanı katletmişsin."
+    },
+    {
+      "id": "e378571c",
+      "bank_id": "70ae3602",
+      "text": "Yine herkesi kılıçtan geçirmeyi planlıyorsan haber ver de pılımı pırtımı toplayayım."
+    },
+    {
+      "id": "e378571d",
+      "bank_id": "70ae3602",
+      "text": "Bütün o insanları katletmekten zevk mi aldın?"
+    },
+    {
+      "id": "e378571e",
+      "bank_id": "70ae3602",
+      "text": "İnsan hayatını böylesine hiçe sayman iğrenç bir şey."
+    },
+    {
+      "id": "e378571f",
+      "bank_id": "70ae3602",
+      "text": "Yaptığın şey resmen soykırımdı."
+    },
+    {
+      "id": "e7825f3c",
+      "bank_id": "70ae3602",
+      "text": "Hobbe'lerin çocuklara korkunç şeyler yaptığını söylüyorlar."
+    },
+    {
+      "id": "e8785f39",
+      "bank_id": "70ae3602",
+      "text": "Bütün o insanları katlettin. Yaşamayı hak etmiyorsun."
+    },
+    {
+      "id": "e8785f3a",
+      "bank_id": "70ae3602",
+      "text": "Neredeyse koskoca bir kasabayı haritadan sildin... Sende hiç vicdan yok mu?"
+    },
+    {
+      "id": "e8785f3b",
+      "bank_id": "70ae3602",
+      "text": "Yaptıklarından sonra yüzüne bile bakamıyorum. Bütün o masum insanlar..."
+    },
+    {
+      "id": "e8785f3c",
+      "bank_id": "70ae3602",
+      "text": "Bir sürü insanı katlettin diye kendini çok havalı sanıyorsun herhalde."
+    },
+    {
+      "id": "e8785f3d",
+      "bank_id": "70ae3602",
+      "text": "Zamanında çok katil gördüm ama sen tam bir taş kalpli kasapsın."
+    },
+    {
+      "id": "e8785f3e",
+      "bank_id": "70ae3602",
+      "text": "Bütün o zavallı, masum insanlar... Hepsini öldürdün!"
+    },
+    {
+      "id": "e8785f3f",
+      "bank_id": "70ae3602",
+      "text": "Onca insanın canına kıydın... Nasıl yapabildin böyle şeyleri?"
+    },
+    {
+      "id": "ea2447e7",
+      "bank_id": "70ae3602",
+      "text": "Nasıl da berbat bir sarhoş geçiyor oradan."
+    },
+    {
+      "id": "fd2ee488",
+      "bank_id": "70ae3602",
+      "text": "İçkiyi kaldıramadığını duydum."
+    },
+    {
+      "id": "fd2ee48b",
+      "bank_id": "70ae3602",
+      "text": "Çok berbat bir sarhoşsun sen."
+    }
+  ]
+}

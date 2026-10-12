@@ -1,0 +1,911 @@
+{
+  "bank_id": "00b3b600",
+  "total_strings": 181,
+  "strings": [
+    {
+      "id": "00e98668",
+      "bank_id": "00b3b600",
+      "text": "Şarabı Pete'e verin."
+    },
+    {
+      "id": "01cf6e64",
+      "bank_id": "00b3b600",
+      "text": "O şişeyi bir altın sikkeyle takas edelim."
+    },
+    {
+      "id": "02cf6fd7",
+      "bank_id": "00b3b600",
+      "text": "Şişeyi bulduğumuz için paramızı alalım."
+    },
+    {
+      "id": "038ce43f",
+      "bank_id": "00b3b600",
+      "text": "Ve üç altın sikke oldu bile. Sadece iki tane daha ve müzik kutusunu alabiliriz."
+    },
+    {
+      "id": "04cf733d",
+      "bank_id": "00b3b600",
+      "text": "Hadi gidip Betty ile Pete'i bulalım."
+    },
+    {
+      "id": "0c352ebc",
+      "bank_id": "00b3b600",
+      "text": "Bunun kılıcı var!"
+    },
+    {
+      "id": "0f088aa0",
+      "bank_id": "00b3b600",
+      "text": "Bir dost yaşlı bir adama içkisini geri getirirdi. Dostluk namına."
+    },
+    {
+      "id": "0f353375",
+      "bank_id": "00b3b600",
+      "text": "Bak sen... burada neyimiz varmış?"
+    },
+    {
+      "id": "10088c13",
+      "bank_id": "00b3b600",
+      "text": "Hayır, ben senin dostunum."
+    },
+    {
+      "id": "11088d86",
+      "bank_id": "00b3b600",
+      "text": "Dur bir dakika, neden \"yavaş yavaş\" dedin ki? Kendimi çabucak öldürmeme izin verir miydin yani?"
+    },
+    {
+      "id": "12088f79",
+      "bank_id": "00b3b600",
+      "text": "Kendini yavaş yavaş öldürmene izin vermeyeceğim."
+    },
+    {
+      "id": "130890ec",
+      "bank_id": "00b3b600",
+      "text": "Bir içki istiyorum."
+    },
+    {
+      "id": "14b67bd4",
+      "bank_id": "00b3b600",
+      "text": "Her halükarda bir altın sikke alıyoruz. Hadi şu Saksağan denen herifi bulalım."
+    },
+    {
+      "id": "15089432",
+      "bank_id": "00b3b600",
+      "text": "Benim efendim değilsin sen."
+    },
+    {
+      "id": "160895a5",
+      "bank_id": "00b3b600",
+      "text": "Bunu tartışmayacağım."
+    },
+    {
+      "id": "1bde59e0",
+      "bank_id": "00b3b600",
+      "text": "Şimdi benimle gel."
+    },
+    {
+      "id": "1bef0a0c",
+      "bank_id": "00b3b600",
+      "text": "Şişeyi al. Ama hiç ses çıkarma."
+    },
+    {
+      "id": "1c4bf7d0",
+      "bank_id": "00b3b600",
+      "text": "Gerektiğinde seninle konuşabilmemi de sağlayacak."
+    },
+    {
+      "id": "1d434080",
+      "bank_id": "00b3b600",
+      "text": "Bununla gurur mu duyuyorsun yani?"
+    },
+    {
+      "id": "1d4bf943",
+      "bank_id": "00b3b600",
+      "text": "Şimdi göle doğru aşağıya bak."
+    },
+    {
+      "id": "1def0d52",
+      "bank_id": "00b3b600",
+      "text": "Onu uyandırmamaya dikkat et."
+    },
+    {
+      "id": "1e434273",
+      "bank_id": "00b3b600",
+      "text": "İnsaf be. Tam üç saattir tek damla içmedim."
+    },
+    {
+      "id": "1e4bfb36",
+      "bank_id": "00b3b600",
+      "text": "Mühür o mezara girmene izin verecektir."
+    },
+    {
+      "id": "1eef0ec5",
+      "bank_id": "00b3b600",
+      "text": "Hadi, kap onu -- sakın koşma."
+    },
+    {
+      "id": "1f4343e6",
+      "bank_id": "00b3b600",
+      "text": "Sorun şu ki sen zayıf birisin."
+    },
+    {
+      "id": "1f4bfca9",
+      "bank_id": "00b3b600",
+      "text": "En karanlık derinliklerinde Kader Odası yatar."
+    },
+    {
+      "id": "212c00d8",
+      "bank_id": "00b3b600",
+      "text": "Ver onu bana, ihtiyacım var."
+    },
+    {
+      "id": "214bff87",
+      "bank_id": "00b3b600",
+      "text": "Onu alt etmek çelikten fazlasını gerektirecek."
+    },
+    {
+      "id": "214bff8a",
+      "bank_id": "00b3b600",
+      "text": "Kendine Thag diyen bir haydutun vahşeti yüzünden Bowerstone yolu kapalı."
+    },
+    {
+      "id": "214bff8f",
+      "bank_id": "00b3b600",
+      "text": "Şimdi benimle gel."
+    },
+    {
+      "id": "222c024b",
+      "bank_id": "00b3b600",
+      "text": "Hayır, ihtiyacın yok."
+    },
+    {
+      "id": "224348bf",
+      "bank_id": "00b3b600",
+      "text": "Ah evet, haklısın. Belki okula giderim, bir zanaat öğrenirim ve günün birinde hoş bir kızla tanışırım."
+    },
+    {
+      "id": "224c0162",
+      "bank_id": "00b3b600",
+      "text": "Bunu al."
+    },
+    {
+      "id": "23434a12",
+      "bank_id": "00b3b600",
+      "text": "O şişeye dokunma, önünde koskoca bir hayat var."
+    },
+    {
+      "id": "234c02d5",
+      "bank_id": "00b3b600",
+      "text": "Vaktiyle tüm Kahramanların taşıdığı türden güçlü bir kadim eserdir. Başkalarının giremediği yerlere girmeni sağlayacak."
+    },
+    {
+      "id": "24434b85",
+      "bank_id": "00b3b600",
+      "text": "Hey, bu benim kişisel rekorum."
+    },
+    {
+      "id": "262c08f7",
+      "bank_id": "00b3b600",
+      "text": "Ver şunu."
+    },
+    {
+      "id": "272c0a6a",
+      "bank_id": "00b3b600",
+      "text": "Verme, bırakmaya çalışıyor."
+    },
+    {
+      "id": "27c792a6",
+      "bank_id": "00b3b600",
+      "text": "Gaddar Dövüş Tarzları, yakın dövüşte kullanılacak özel hareketlerin kilidini açar."
+    },
+    {
+      "id": "282c0bdd",
+      "bank_id": "00b3b600",
+      "text": "Ona verme sakın, bunca zamandır çok iyi gidiyordu."
+    },
+    {
+      "id": "284c0af4",
+      "bank_id": "00b3b600",
+      "text": "Dışarı tekrar çıktığında daha güçlü olacaksın -- çok daha güçlü."
+    },
+    {
+      "id": "294c0c67",
+      "bank_id": "00b3b600",
+      "text": "Şimdi git."
+    },
+    {
+      "id": "2d0ead5b",
+      "bank_id": "00b3b600",
+      "text": "Hey, şişe nereye gitti?"
+    },
+    {
+      "id": "2e0eaece",
+      "bank_id": "00b3b600",
+      "text": "Yığına koydum deme sakın."
+    },
+    {
+      "id": "2f0eb0a1",
+      "bank_id": "00b3b600",
+      "text": "Kahretsin! Asla bulamayacağım. Bir ara buraları gerçekten toplamalıyım."
+    },
+    {
+      "id": "32164ed7",
+      "bank_id": "00b3b600",
+      "text": "Pete'in çalınan şişesini geri alın."
+    },
+    {
+      "id": "365962d3",
+      "bank_id": "00b3b600",
+      "text": "Bir içkiye ihtiyacım var."
+    },
+    {
+      "id": "36efc08e",
+      "bank_id": "00b3b600",
+      "text": "Şimdiye kadar edindiğin bilgileri Güç, Beceri ve İrade alanlarında kendini geliştirmek için kullan."
+    },
+    {
+      "id": "37596446",
+      "bank_id": "00b3b600",
+      "text": "Hayır, ihtiyacın yok."
+    },
+    {
+      "id": "38596639",
+      "bank_id": "00b3b600",
+      "text": "Haklısın Betty. Sen her zaman haklısın. İki içkiye ihtiyacım var."
+    },
+    {
+      "id": "3867af15",
+      "bank_id": "00b3b600",
+      "text": "Yıkıl karşımdan çocuk. Kötü bir gün geçiriyorum."
+    },
+    {
+      "id": "395967ac",
+      "bank_id": "00b3b600",
+      "text": "İşe yaramazın tekiyim ben."
+    },
+    {
+      "id": "39bcea0e",
+      "bank_id": "00b3b600",
+      "text": "Peh, boş versene."
+    },
+    {
+      "id": "3a59691f",
+      "bank_id": "00b3b600",
+      "text": "Konuşan sen değilsin, şişe."
+    },
+    {
+      "id": "3b596af2",
+      "bank_id": "00b3b600",
+      "text": "O zaman onu bana geri getir de çenesini kapatmasını söyleyeyim."
+    },
+    {
+      "id": "3bbced54",
+      "bank_id": "00b3b600",
+      "text": "O şişeyle çabuk dön hadi!"
+    },
+    {
+      "id": "3c1d7bf8",
+      "bank_id": "00b3b600",
+      "text": "Annecik? Sen annecik değilsin."
+    },
+    {
+      "id": "3c596c65",
+      "bank_id": "00b3b600",
+      "text": "Benim param. İstediğimi yaparım."
+    },
+    {
+      "id": "3cbceec7",
+      "bank_id": "00b3b600",
+      "text": "Evet ve bana ver."
+    },
+    {
+      "id": "3d596dd8",
+      "bank_id": "00b3b600",
+      "text": "Ama içkiye ihtiyacın yok senin. Değişiklik olsun diye biraz yiyecek alsana."
+    },
+    {
+      "id": "3dc98983",
+      "bank_id": "00b3b600",
+      "text": "Aferin sana, muhtemelen onun hayatını kurtardın."
+    },
+    {
+      "id": "3e5254fa",
+      "bank_id": "00b3b600",
+      "text": "Ve dört altın sikke bulduk. Sadece bir tane daha lazım."
+    },
+    {
+      "id": "3e596f4b",
+      "bank_id": "00b3b600",
+      "text": "Üstüne ne içeceğim peki?"
+    },
+    {
+      "id": "46fccfa3",
+      "bank_id": "00b3b600",
+      "text": "Ölüleri Dirilt, yakın zamanda ölenlerin kemiklerini ayağa kaldırıp senin için dövüşmelerini sağlar."
+    },
+    {
+      "id": "523aeabf",
+      "bank_id": "00b3b600",
+      "text": "Ve dört altın sikkemiz oldu! Sadece bir tane daha lazım."
+    },
+    {
+      "id": "573c73c4",
+      "bank_id": "00b3b600",
+      "text": "Ve ilk altın sikkeyi kaptık!"
+    },
+    {
+      "id": "5bf78c3e",
+      "bank_id": "00b3b600",
+      "text": "Kilitli bir kapı bizi dışarıda tutamaz!"
+    },
+    {
+      "id": "5c864210",
+      "bank_id": "00b3b600",
+      "text": "Benim paramdan bahsedelim öyleyse: O şişeyi bulursanız, onun eline geçmesin diye parasını ben öderim."
+    },
+    {
+      "id": "5d864383",
+      "bank_id": "00b3b600",
+      "text": "Kadın gayet mantıklı konuşuyor."
+    },
+    {
+      "id": "5ed146f4",
+      "bank_id": "00b3b600",
+      "text": "Bu senin olmalı."
+    },
+    {
+      "id": "61d14b4d",
+      "bank_id": "00b3b600",
+      "text": "Dur bakalım! Bunu oraya niye tıkıştırdın?"
+    },
+    {
+      "id": "64864e88",
+      "bank_id": "00b3b600",
+      "text": "Şuna bak Betty -- iki çift ikiz. İçkimi geri getirirsiniz değil mi ufaklıklar?"
+    },
+    {
+      "id": "668651ee",
+      "bank_id": "00b3b600",
+      "text": "Ama onlar yapabilir. Düz bile yürüyebildiklerine bahse girerim."
+    },
+    {
+      "id": "67865341",
+      "bank_id": "00b3b600",
+      "text": "Ayakta zor duruyorsun zaten."
+    },
+    {
+      "id": "6802ea1e",
+      "bank_id": "00b3b600",
+      "text": "Onu bana ver. Doğru olanı yapmak bu."
+    },
+    {
+      "id": "68865534",
+      "bank_id": "00b3b600",
+      "text": "Doğru dürüst bir dilenci bile değil o! Yığınla eşyası var ve hepsi benim gibi hakiki berduşlardan çalıntı."
+    },
+    {
+      "id": "6902ebf1",
+      "bank_id": "00b3b600",
+      "text": "Hah!"
+    },
+    {
+      "id": "698656a7",
+      "bank_id": "00b3b600",
+      "text": "İçkimi o Saksağan denen pislikten geri al, sana karşılığında bir altın sikke vereyim."
+    },
+    {
+      "id": "6a02ed64",
+      "bank_id": "00b3b600",
+      "text": "Hayır, verme. Bana ver onu."
+    },
+    {
+      "id": "6a86581a",
+      "bank_id": "00b3b600",
+      "text": "Onun parası sonuçta. Nasıl harcayacağına kendisi karar veremez mi?"
+    },
+    {
+      "id": "6b02eed7",
+      "bank_id": "00b3b600",
+      "text": "Ona verme sakın, yere döker."
+    },
+    {
+      "id": "6b86598d",
+      "bank_id": "00b3b600",
+      "text": "Bırak artık Pete. Paranı önemli şeylere sakla."
+    },
+    {
+      "id": "6d02f23d",
+      "bank_id": "00b3b600",
+      "text": "Şarabı bana ver."
+    },
+    {
+      "id": "6f4ec0dc",
+      "bank_id": "00b3b600",
+      "text": "İçine bak ve doğuştan gelen yeteneklerini incele."
+    },
+    {
+      "id": "6ffcca9a",
+      "bank_id": "00b3b600",
+      "text": "<snores> Ha, aptal Pete. Sen uyursan içkini kaparım işte."
+    },
+    {
+      "id": "70e2364c",
+      "bank_id": "00b3b600",
+      "text": "Eşyaların işine yaradığını göreceksin."
+    },
+    {
+      "id": "71e2383f",
+      "bank_id": "00b3b600",
+      "text": "Karavanının nerede olduğunu hatırlıyor musun?"
+    },
+    {
+      "id": "73820bb2",
+      "bank_id": "00b3b600",
+      "text": "Şimdi emirnamelerin geri kalanını bulalım."
+    },
+    {
+      "id": "73e23b05",
+      "bank_id": "00b3b600",
+      "text": "Sandık karavanının yanında."
+    },
+    {
+      "id": "745ad3b0",
+      "bank_id": "00b3b600",
+      "text": "Önünde bir Cullis Geçidi duruyor. Taşıdığın Lonca mührü, bu kapıyı kullanarak anında Bower Gölü'ne seyahat etmeni sağlayacak."
+    },
+    {
+      "id": "745ad3b5",
+      "bank_id": "00b3b600",
+      "text": "Önünde bir Cullis Geçidi duruyor. Onu kullanmak isteyen kişinin İradesine tepki verir."
+    },
+    {
+      "id": "748de66f",
+      "bank_id": "00b3b600",
+      "text": "Ve bir altın sikke daha aldık. Gerçekten başarıyoruz!"
+    },
+    {
+      "id": "755ad523",
+      "bank_id": "00b3b600",
+      "text": "Oradan Thag'ın kampına yürüyebilirsin."
+    },
+    {
+      "id": "761498e4",
+      "bank_id": "00b3b600",
+      "text": "Bower Gölü'ne dönün."
+    },
+    {
+      "id": "761498e5",
+      "bank_id": "00b3b600",
+      "text": "Heykeli etkinleştirmek için bir İfade kullanın."
+    },
+    {
+      "id": "7617b86e",
+      "bank_id": "00b3b600",
+      "text": "Kaos düşmanlarının aklını karıştırarak onları öngörülemez kılar. Kaçabilirler, yoldaşlarına saldırabilirler hatta sana aşık bile olabilirler."
+    },
+    {
+      "id": "765ad696",
+      "bank_id": "00b3b600",
+      "text": "O Cullis Geçidi'ni etkinleştirebilmek için bir İrade yeteneği almalısın."
+    },
+    {
+      "id": "775ad809",
+      "bank_id": "00b3b600",
+      "text": "Cullis Geçidi'ni etkinleştirmek için İrade kullanman gerekecek."
+    },
+    {
+      "id": "77729780",
+      "bank_id": "00b3b600",
+      "text": "Onun için sana bir altın sikke veririm."
+    },
+    {
+      "id": "77c17bfb",
+      "bank_id": "00b3b600",
+      "text": "Başardık! Artık müzik kutusunu alabiliriz!"
+    },
+    {
+      "id": "78729973",
+      "bank_id": "00b3b600",
+      "text": "Kendi nefesin olmadığından emin misin?"
+    },
+    {
+      "id": "795adb6f",
+      "bank_id": "00b3b600",
+      "text": "Mükemmel."
+    },
+    {
+      "id": "79729ae6",
+      "bank_id": "00b3b600",
+      "text": "Dördüzler dönmüş bakıyorum. İçkiniz var, kokusunu alabiliyorum."
+    },
+    {
+      "id": "7a5adcc2",
+      "bank_id": "00b3b600",
+      "text": "İçinden akıp giden gücü hissedebiliyor musun?"
+    },
+    {
+      "id": "7b5adeb5",
+      "bank_id": "00b3b600",
+      "text": "Bu sadece bir başlangıç."
+    },
+    {
+      "id": "7b729dcc",
+      "bank_id": "00b3b600",
+      "text": "Ona ihtiyacı varmış gibi mi konuşuyor sence? Al, onun yerine sana bir altın sikke veririm."
+    },
+    {
+      "id": "7c729fbf",
+      "bank_id": "00b3b600",
+      "text": "Araba mı? Nerede? Çocuklar, arabaya dikkat edin!"
+    },
+    {
+      "id": "7d72a112",
+      "bank_id": "00b3b600",
+      "text": "Hayır. Düşme o arabadan."
+    },
+    {
+      "id": "7e72a285",
+      "bank_id": "00b3b600",
+      "text": "Bana uyar."
+    },
+    {
+      "id": "82129011",
+      "bank_id": "00b3b600",
+      "text": "Ve ilk altın sikkeyi aldık!"
+    },
+    {
+      "id": "84ef3cb6",
+      "bank_id": "00b3b600",
+      "text": "Ve başardık! Artık müzik kutusunu satın alabiliriz!"
+    },
+    {
+      "id": "92cfad6e",
+      "bank_id": "00b3b600",
+      "text": "Mezarın altında gizli bir oda var. İçine adım at ve mühür gerçek Kahramanlık güçlerini uyandırmanı sağlayacak."
+    },
+    {
+      "id": "a06b6d80",
+      "bank_id": "00b3b600",
+      "text": "Hadi gidip hanımefendiyle berduştan altınımızı alalım."
+    },
+    {
+      "id": "a0822780",
+      "bank_id": "00b3b600",
+      "text": "Şişeyi içkinin tehlikelerini hatırlatması için bir anı olarak saklayacağım."
+    },
+    {
+      "id": "a0f566ca",
+      "bank_id": "00b3b600",
+      "text": "Ve bir altın sikke daha aldık. Gerçekten başarıyoruz!"
+    },
+    {
+      "id": "a1822973",
+      "bank_id": "00b3b600",
+      "text": "Dolu mu boş mu?"
+    },
+    {
+      "id": "a2822ae6",
+      "bank_id": "00b3b600",
+      "text": "Şey... Bilmem ki, bunu bir düşünmem lazım."
+    },
+    {
+      "id": "a5822fbf",
+      "bank_id": "00b3b600",
+      "text": "Ahhh! Buldum."
+    },
+    {
+      "id": "a6823112",
+      "bank_id": "00b3b600",
+      "text": "Sana içki getirmeleri için çocukları alet ettiğin için kendinden utanmalısın."
+    },
+    {
+      "id": "a7823285",
+      "bank_id": "00b3b600",
+      "text": "Evet, haklısın. Biraz zavallıca bir durum sanırım."
+    },
+    {
+      "id": "ab0aceba",
+      "bank_id": "00b3b600",
+      "text": "Saldırıları savuşturma ve dövüş sırasında kendini koruma yeteneği, ölüm ile yaşam arasındaki farkı belirleyebilir."
+    },
+    {
+      "id": "b0336038",
+      "bank_id": "00b3b600",
+      "text": "Ancak o zaman Thag'la yüzleşecek kadar güçlü olacaksın -- ve bu sadece ilk adımın."
+    },
+    {
+      "id": "b0a56de8",
+      "bank_id": "00b3b600",
+      "text": "Ona yardım etmek istiyorsanız şişeyi bulun ve bana getirin."
+    },
+    {
+      "id": "b1a56f5b",
+      "bank_id": "00b3b600",
+      "text": "Dediğim gibi, bunun karşılığında sana parlak bir altın sikke var."
+    },
+    {
+      "id": "b1b248a3",
+      "bank_id": "00b3b600",
+      "text": "Çok fazla ses çıkardın."
+    },
+    {
+      "id": "b2b24a16",
+      "bank_id": "00b3b600",
+      "text": "Tekrar uykuya daldı, yeniden dene."
+    },
+    {
+      "id": "b3a572a1",
+      "bank_id": "00b3b600",
+      "text": "Hadi ama, yaşlı bir adama yardım edin."
+    },
+    {
+      "id": "b4a57414",
+      "bank_id": "00b3b600",
+      "text": "Ah Pete. Gerçekten ama."
+    },
+    {
+      "id": "b6a5777a",
+      "bank_id": "00b3b600",
+      "text": "Pis bir altın sikke o. Nerelerde gezdiğini bilmek istemezsin. Parlak bir tane istiyorsan şişeyi bana getir."
+    },
+    {
+      "id": "b7a578ed",
+      "bank_id": "00b3b600",
+      "text": "O şişeye ihtiyacım var. Benim için manevi değeri var."
+    },
+    {
+      "id": "b896efe2",
+      "bank_id": "00b3b600",
+      "text": "[horlar]"
+    },
+    {
+      "id": "b9050407",
+      "bank_id": "00b3b600",
+      "text": "Saksağan bu olmalı -- şişe de orada işte!"
+    },
+    {
+      "id": "b98767df",
+      "bank_id": "00b3b600",
+      "text": "İsabetin ne kadar yüksekse tabancalar, tüfekler ve tatar yaylarıyla o kadar çok hasar verirsin."
+    },
+    {
+      "id": "ba0505fa",
+      "bank_id": "00b3b600",
+      "text": "Al onu küçük Sparrow -- ama sakın uyandırma onu."
+    },
+    {
+      "id": "c1048f08",
+      "bank_id": "00b3b600",
+      "text": "İçme. Hayatını mahveder."
+    },
+    {
+      "id": "c20490fb",
+      "bank_id": "00b3b600",
+      "text": "Ha, itiraf ettin işte."
+    },
+    {
+      "id": "c25df2fb",
+      "bank_id": "00b3b600",
+      "text": "Kaderinizi keşfedin."
+    },
+    {
+      "id": "c40493c1",
+      "bank_id": "00b3b600",
+      "text": "Eskiden muhasebeciydim ben."
+    },
+    {
+      "id": "c50495b4",
+      "bank_id": "00b3b600",
+      "text": "Zavallı adam. Şişeyi istemediğinden emin misin?"
+    },
+    {
+      "id": "c704989a",
+      "bank_id": "00b3b600",
+      "text": "Şey, sanırım istiyorum."
+    },
+    {
+      "id": "c8049a0d",
+      "bank_id": "00b3b600",
+      "text": "Bugünden tezi yok ayık kalacağım ve vergi ile emeklilik danışmanlığı kariyerime geri döneceğim."
+    },
+    {
+      "id": "ca45efbb",
+      "bank_id": "00b3b600",
+      "text": "DEV BÖCEKLER"
+    },
+    {
+      "id": "cad1f7de",
+      "bank_id": "00b3b600",
+      "text": "Şarabı ver bakalım, küçük Sparrow."
+    },
+    {
+      "id": "cb45f12e",
+      "bank_id": "00b3b600",
+      "text": "DEV BÖCEK"
+    },
+    {
+      "id": "cf24854e",
+      "bank_id": "00b3b600",
+      "text": "Berduşun Hazinesi"
+    },
+    {
+      "id": "d406c3ba",
+      "bank_id": "00b3b600",
+      "text": "Bir Kahramanın Doğuşu"
+    },
+    {
+      "id": "d86d8718",
+      "bank_id": "00b3b600",
+      "text": "Sana hiçbir şey vermiyorum, o yüzden isteme bile."
+    },
+    {
+      "id": "d96d888b",
+      "bank_id": "00b3b600",
+      "text": "Uza buradan. Git kendine başka yığın bul."
+    },
+    {
+      "id": "da2187f9",
+      "bank_id": "00b3b600",
+      "text": "Heykeli etkinleştirmek için İfadeleri kullanın."
+    },
+    {
+      "id": "da6d8a7e",
+      "bank_id": "00b3b600",
+      "text": "Git buradan. Git buradan! Eşyalarımdan hiçbirini alamazsın."
+    },
+    {
+      "id": "dacceb30",
+      "bank_id": "00b3b600",
+      "text": "Yani bana şişemi geri getireceksin öyle mi? Yaşasın!"
+    },
+    {
+      "id": "db3bcde4",
+      "bank_id": "00b3b600",
+      "text": "Mezarın altındaki gizli odayı bulun."
+    },
+    {
+      "id": "ddccef89",
+      "bank_id": "00b3b600",
+      "text": "Onu bulup bana getireceksiniz değil mi çocuklar?"
+    },
+    {
+      "id": "e439db93",
+      "bank_id": "00b3b600",
+      "text": "Dur bakalım! Şişenin içinde kâğıt var."
+    },
+    {
+      "id": "e539dd06",
+      "bank_id": "00b3b600",
+      "text": "Sanırım bu senin."
+    },
+    {
+      "id": "e6ef967f",
+      "bank_id": "00b3b600",
+      "text": "Çevik Dövüş Tarzları, menzilli silahlar için özel hareketlerin ve usta bir dövüşçü için kritik diğer yeteneklerin kilidini açar."
+    },
+    {
+      "id": "e7834d8c",
+      "bank_id": "00b3b600",
+      "text": "Şarabı Betty'ye verin."
+    },
+    {
+      "id": "e7a441e2",
+      "bank_id": "00b3b600",
+      "text": "Ve üç altın sikke oldu. İki tane daha bulursak kutuyu alabiliriz."
+    },
+    {
+      "id": "f00b1541",
+      "bank_id": "00b3b600",
+      "text": "Hayır memur bey, bütün bu eşyaları yasal yollardan edindim. <snores>"
+    },
+    {
+      "id": "f07165b0",
+      "bank_id": "00b3b600",
+      "text": "Kapıyı açın!"
+    },
+    {
+      "id": "f10b1734",
+      "bank_id": "00b3b600",
+      "text": "Bana hırsız deme. Benim adım Saksağan. <snores>"
+    },
+    {
+      "id": "f20b18a7",
+      "bank_id": "00b3b600",
+      "text": "Şöminenin üzerinde ne güzel dururdu. Bir şömine çalmam lazım benim."
+    },
+    {
+      "id": "f2be89d4",
+      "bank_id": "00b3b600",
+      "text": "HAYDUTLAR"
+    },
+    {
+      "id": "f30b1a1a",
+      "bank_id": "00b3b600",
+      "text": "<snores> Hayır annecik, banyo yapmak istemiyorum."
+    },
+    {
+      "id": "f5716d6f",
+      "bank_id": "00b3b600",
+      "text": "İyi şanslar!"
+    },
+    {
+      "id": "f5be8ead",
+      "bank_id": "00b3b600",
+      "text": "HAYDUT"
+    },
+    {
+      "id": "f81948c0",
+      "bank_id": "00b3b600",
+      "text": "Saksağan'ı bulun."
+    },
+    {
+      "id": "fa194c26",
+      "bank_id": "00b3b600",
+      "text": "Rose'un yanına dönün."
+    },
+    {
+      "id": "fb194d99",
+      "bank_id": "00b3b600",
+      "text": "Pete'in şişesini Saksağan'dan alın."
+    },
+    {
+      "id": "fc40d854",
+      "bank_id": "00b3b600",
+      "text": "Uçuşan çarka büyü yapın."
+    },
+    {
+      "id": "fc40d855",
+      "bank_id": "00b3b600",
+      "text": "İrade deneyiminizi harcayın."
+    },
+    {
+      "id": "fc40d858",
+      "bank_id": "00b3b600",
+      "text": "Kader Odası'nı bulun."
+    },
+    {
+      "id": "fc40d859",
+      "bank_id": "00b3b600",
+      "text": "Bower Gölü Mezarı'na girin."
+    },
+    {
+      "id": "fc40d85a",
+      "bank_id": "00b3b600",
+      "text": "Deneyiminizi yeni yetenekler için harcayın."
+    },
+    {
+      "id": "fc40d85b",
+      "bank_id": "00b3b600",
+      "text": "Işığa girin."
+    },
+    {
+      "id": "fc40d85c",
+      "bank_id": "00b3b600",
+      "text": "Yeni teçhizatınızı karavanınızın yanındaki sandıktan alın."
+    },
+    {
+      "id": "fc40d85e",
+      "bank_id": "00b3b600",
+      "text": "Theresa'yı takip edin."
+    },
+    {
+      "id": "fc40d85f",
+      "bank_id": "00b3b600",
+      "text": "Theresa'nın yanına dönün."
+    },
+    {
+      "id": "fca52e42",
+      "bank_id": "00b3b600",
+      "text": "Bana o pozu göster, ben de dinlenmeyi bırakayım."
+    },
+    {
+      "id": "fd1950ff",
+      "bank_id": "00b3b600",
+      "text": "Şarabı Pete'e veya Betty'ye verin."
+    },
+    {
+      "id": "fecfb9fd",
+      "bank_id": "00b3b600",
+      "text": "Mutlu görünüyor. Önemli olan da bu sanırım, değil mi?"
+    }
+  ]
+}

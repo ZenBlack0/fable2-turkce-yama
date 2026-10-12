@@ -1,0 +1,601 @@
+{
+  "bank_id": "f02e9601",
+  "total_strings": 119,
+  "strings": [
+    {
+      "id": "05f05f90",
+      "bank_id": "f02e9601",
+      "text": "Nereden içki depolayabileceğimi biliyor musun?"
+    },
+    {
+      "id": "05f05f91",
+      "bank_id": "f02e9601",
+      "text": "Biraz içki almam gerek. Havalı şaraplar istemiyorum. Benim için sade ve basit bir bira olsun yeter."
+    },
+    {
+      "id": "05f05f94",
+      "bank_id": "f02e9601",
+      "text": "Bayağı susadım. Nereden bir içecek bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "05f05f96",
+      "bank_id": "f02e9601",
+      "text": "En yakın tekel bayisinin nerede olduğunu biliyor musun?"
+    },
+    {
+      "id": "05f05f97",
+      "bank_id": "f02e9601",
+      "text": "Tamam, itiraf ediyorum, bir içki problemim var. Nereden içki alabileceğimi bilmiyorum."
+    },
+    {
+      "id": "08fad02b",
+      "bank_id": "f02e9601",
+      "text": "İşinizi iyi yaparsanız bazılarınızın terfi alma şansı olabilir."
+    },
+    {
+      "id": "0af067b0",
+      "bank_id": "f02e9601",
+      "text": "Sarhoş olmayı seviyorum ama sosyalleşmekten hoşlanmıyorum, nereden ucuz içki alabilirim?"
+    },
+    {
+      "id": "0af067b1",
+      "bank_id": "f02e9601",
+      "text": "Yerel han içkilerini stoklamam için beni gönderdi ama nereden alacağımı bilmiyorum."
+    },
+    {
+      "id": "0af067b5",
+      "bank_id": "f02e9601",
+      "text": "Alkolik olmaya karar verdim. Sadece alkolü satın almam gerek."
+    },
+    {
+      "id": "0af067b6",
+      "bank_id": "f02e9601",
+      "text": "Yirmi kişilik bir parti için bir şişe bira yeterli mi? Pek sanmıyorum. Biraz daha almalıyım."
+    },
+    {
+      "id": "0af067b7",
+      "bank_id": "f02e9601",
+      "text": "Evimi bir meyhaneye dönüştürmeye karar verdim. Sadece alkolü almam gerek."
+    },
+    {
+      "id": "1079dd78",
+      "bank_id": "f02e9601",
+      "text": "İndirim varken acele edip alışverişini yapsan iyi olur."
+    },
+    {
+      "id": "1079dd79",
+      "bank_id": "f02e9601",
+      "text": "İndirim varken tüm alışverişimi yapacağım."
+    },
+    {
+      "id": "1079dd7d",
+      "bank_id": "f02e9601",
+      "text": "İndirim olduğunu duydum. Alışveriş zamanı!"
+    },
+    {
+      "id": "1079dd7e",
+      "bank_id": "f02e9601",
+      "text": "Dükkânlardaki indirimi duydun mu?"
+    },
+    {
+      "id": "1079dd7f",
+      "bank_id": "f02e9601",
+      "text": "Dükkânlarda bir indirim olmasını asırlardır bekliyordum. Ve sonunda geldi!"
+    },
+    {
+      "id": "146c6dd1",
+      "bank_id": "f02e9601",
+      "text": "Buralarda bir yerde efsun taşı satılıyor mu?"
+    },
+    {
+      "id": "146c6dd2",
+      "bank_id": "f02e9601",
+      "text": "Arkadaşımın kocası baltası için bir efsun taşı arıyor. Eskisi gibi ağaç kesmiyormuş."
+    },
+    {
+      "id": "146c6dd3",
+      "bank_id": "f02e9601",
+      "text": "Biftek bıçağım için bir efsun taşı arıyorum. Bildiğin bir yer var mı?"
+    },
+    {
+      "id": "146c6dd4",
+      "bank_id": "f02e9601",
+      "text": "Erkekleri savuşturma sopam için bir efsun taşına ihtiyacım var."
+    },
+    {
+      "id": "146c6dd5",
+      "bank_id": "f02e9601",
+      "text": "Mini tatar yayım için bir efsun taşına ihtiyacım var, nereden bulabilirim?"
+    },
+    {
+      "id": "1b1cde90",
+      "bank_id": "f02e9601",
+      "text": "Bak, çaresiz durumdayım, nereden içki depolayabileceğimi söyle yeter."
+    },
+    {
+      "id": "1b1cde91",
+      "bank_id": "f02e9601",
+      "text": "Bu hafta içkileri alma sırası bende. Nereye gitmeliyim?"
+    },
+    {
+      "id": "1b1cde93",
+      "bank_id": "f02e9601",
+      "text": "İçecek almak için en iyi yer neresi?"
+    },
+    {
+      "id": "1b1cde96",
+      "bank_id": "f02e9601",
+      "text": "Çocuklara bir parti veriyorum. Nereden bira depolayabilirim?"
+    },
+    {
+      "id": "1b1cde97",
+      "bank_id": "f02e9601",
+      "text": "İçki dolabım biraz boş görünüyor. Nereden doldurabilirim?"
+    },
+    {
+      "id": "1b79eea8",
+      "bank_id": "f02e9601",
+      "text": "İndirime gitmiyor musun?"
+    },
+    {
+      "id": "1b79eea9",
+      "bank_id": "f02e9601",
+      "text": "Tavsiyeme kulak ver ve ihtiyacın olanı hemen al. İndirim var."
+    },
+    {
+      "id": "1b79eeac",
+      "bank_id": "f02e9601",
+      "text": "Şu anda dükkânlarda harika kelepirler var."
+    },
+    {
+      "id": "1b79eeae",
+      "bank_id": "f02e9601",
+      "text": "Buraya yakın bir indirimden gerçekten harika şeyler aldım."
+    },
+    {
+      "id": "1b79eeaf",
+      "bank_id": "f02e9601",
+      "text": "İndirim varken stok yapmak için harika bir zaman."
+    },
+    {
+      "id": "1f6c7f00",
+      "bank_id": "f02e9601",
+      "text": "Gürzüm için bir efsun taşı bulmaya çalışıyorum. Bilirsin ya, ortalığı gerçekten paramparça etmek için."
+    },
+    {
+      "id": "1f6c7f02",
+      "bank_id": "f02e9601",
+      "text": "Öz saygım için nereden bir efsun taşı satın alabilirim?"
+    },
+    {
+      "id": "1f6c7f03",
+      "bank_id": "f02e9601",
+      "text": "Kızartma tavama bir efsun taşı taktırabilir miyim sence? Kahvaltım kendi kendine pişse çok güzel olurdu."
+    },
+    {
+      "id": "1f6c7f04",
+      "bank_id": "f02e9601",
+      "text": "Nereden bir efsun taşı alabilirim?"
+    },
+    {
+      "id": "1f6c7f05",
+      "bank_id": "f02e9601",
+      "text": "Her kapıyı açabilmeleri için anahtarlarıma nereden bir efsun taşı bulabilirim? Hani bir eve girmem ve... bilirsin ya, birini kurtarmam gerekirse diye."
+    },
+    {
+      "id": "221ce992",
+      "bank_id": "f02e9601",
+      "text": "Hey, plaj partim için nereden içki alabilirim?"
+    },
+    {
+      "id": "221ce993",
+      "bank_id": "f02e9601",
+      "text": "Alkol erzakımı stokluyorum. En yakın dükkân nerede?"
+    },
+    {
+      "id": "221ce994",
+      "bank_id": "f02e9601",
+      "text": "Şarap ve sert içkiler almak için nereye gitmeliyim?"
+    },
+    {
+      "id": "221ce995",
+      "bank_id": "f02e9601",
+      "text": "Yılda sadece bir kez alkol alırım. Yaklaşık yüz şişe kadar. En iyi yer neresi?"
+    },
+    {
+      "id": "221ce996",
+      "bank_id": "f02e9601",
+      "text": "Arada sırada bir kadeh uyku içkisi severim. Nereden düzgün bir içki alabilirim?"
+    },
+    {
+      "id": "2db114ba",
+      "bank_id": "f02e9601",
+      "text": "Yakınlarda küçük bir indirim olduğunu biliyor muydun?"
+    },
+    {
+      "id": "2db114bb",
+      "bank_id": "f02e9601",
+      "text": "Dükkânlarda küçük bir indirim var ama ben asıl kelepirleri bekleyeceğim."
+    },
+    {
+      "id": "2db114bc",
+      "bank_id": "f02e9601",
+      "text": "Dükkânlarda pek büyük bir indirim yok ama hiç yoktan iyidir."
+    },
+    {
+      "id": "2db114bd",
+      "bank_id": "f02e9601",
+      "text": "Buralardaki indirim daha büyük olsaydı ilgilenebilirdim."
+    },
+    {
+      "id": "3eb41a48",
+      "bank_id": "f02e9601",
+      "text": "Duvara yeni tablolar gerek. Mobilyacı nerede?"
+    },
+    {
+      "id": "3eb41a49",
+      "bank_id": "f02e9601",
+      "text": "Nereden güzel, küçük bir masa alabilirim?"
+    },
+    {
+      "id": "3eb41a4d",
+      "bank_id": "f02e9601",
+      "text": "Yatağım öyle çöktü ki döşeme tahtalarını hissedebiliyorum. Yenisini alma vakti."
+    },
+    {
+      "id": "3eb41a4e",
+      "bank_id": "f02e9601",
+      "text": "Eğri büğrü bir masada yemek yemekten bıktım. Yemeğim sürekli kayıp duruyor! Yenisini alma vakti..."
+    },
+    {
+      "id": "3eb41a4f",
+      "bank_id": "f02e9601",
+      "text": "Bildiğin iyi bir mobilyacı var mı?"
+    },
+    {
+      "id": "49b42bf9",
+      "bank_id": "f02e9601",
+      "text": "Duvarımdaki büyük bir deliği kapatmam gerek. Nereden bir tablo alabilirim?"
+    },
+    {
+      "id": "49b42bfc",
+      "bank_id": "f02e9601",
+      "text": "Mobilyalarımı yenilesem iyi olacak. Her oturduğumda kıçıma kıymık batmasından gına geldi."
+    },
+    {
+      "id": "49b42bfe",
+      "bank_id": "f02e9601",
+      "text": "Yakınlarda bir mobilyacı var mı?"
+    },
+    {
+      "id": "49b42bff",
+      "bank_id": "f02e9601",
+      "text": "Daha büyük bir gardırop almam gerek. O kadar çok... Şey, o kadar çok zincir zırhım var ki. Evet."
+    },
+    {
+      "id": "64900710",
+      "bank_id": "f02e9601",
+      "text": "İyi, dürüst, emekçi insan kıyafetlerine ihtiyacım var."
+    },
+    {
+      "id": "64900711",
+      "bank_id": "f02e9601",
+      "text": "İyi bir pantolonun bir ömür yettiğini söylerler ama sanırım bunları değiştirme vaktim geldi..."
+    },
+    {
+      "id": "64900712",
+      "bank_id": "f02e9601",
+      "text": "Sanırım gardırobumu yenileme vaktim geldi. On beş yaşımdan beri bu kıyafetleri giyiyorum."
+    },
+    {
+      "id": "64900716",
+      "bank_id": "f02e9601",
+      "text": "Evet, bu kıyafetlerin darmadağın olduğunu biliyorum. Yenilerini nereden bulabilirim?"
+    },
+    {
+      "id": "64900717",
+      "bank_id": "f02e9601",
+      "text": "Çok sessiz ayakkabılara ihtiyacım var. Onları nereden bulabilirim?"
+    },
+    {
+      "id": "6d90157a",
+      "bank_id": "f02e9601",
+      "text": "Kış için güzel bir palto almaya nereye gitmeliyim?"
+    },
+    {
+      "id": "6d90157b",
+      "bank_id": "f02e9601",
+      "text": "Sıçanlar tarafından yarısı yenmemiş kıyafetlere ihtiyacım var. Buralardaki en iyi yer neresi?"
+    },
+    {
+      "id": "6d90157c",
+      "bank_id": "f02e9601",
+      "text": "Para harcayacaksam buna değecek tek bir şey var. Kıyafetler!"
+    },
+    {
+      "id": "6d90157d",
+      "bank_id": "f02e9601",
+      "text": "Acilen bir şapkaya ihtiyacım var. İyi bir giyim mağazası nerede var?"
+    },
+    {
+      "id": "6d90157f",
+      "bank_id": "f02e9601",
+      "text": "Yeni bir paltoya cidden ihtiyacım var. Sadece güzel bir dükkân bulmam gerek."
+    },
+    {
+      "id": "7dfaaa11",
+      "bank_id": "f02e9601",
+      "text": "Bütün gün kıçımın üstünde oturarak şerif olmadım. Bazen ellerimin üstünde oturdum. Çoğunlukla kışın."
+    },
+    {
+      "id": "836720f6",
+      "bank_id": "f02e9601",
+      "text": "Şu koca çirkin suratlarınıza bir bakın... İnsanların güvende hissetmesini sağlamanız gerekiyor."
+    },
+    {
+      "id": "95caa338",
+      "bank_id": "f02e9601",
+      "text": "Buralarda yiyecek almak için en iyi yer neresi?"
+    },
+    {
+      "id": "95caa33a",
+      "bank_id": "f02e9601",
+      "text": "Evimde bir ziyafet vereceğim. Alacak o kadar çok yemeğim var ki!"
+    },
+    {
+      "id": "95caa33b",
+      "bank_id": "f02e9601",
+      "text": "Bir iki güne çılgın bir parti veriyorum. Bütün içkiler tamam, şimdi sadece yiyecekleri almam gerek."
+    },
+    {
+      "id": "95caa33c",
+      "bank_id": "f02e9601",
+      "text": "Buralarda bir bakkal ya da yiyecek dükkânı var mı?"
+    },
+    {
+      "id": "95caa33d",
+      "bank_id": "f02e9601",
+      "text": "Başkalarının kilerlerini yağmalamaktan bıktım. Kendi aşımı nereden alabileceğimi söyler misin?"
+    },
+    {
+      "id": "9acaaad9",
+      "bank_id": "f02e9601",
+      "text": "En iyi yiyeceği nereden bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "9acaaada",
+      "bank_id": "f02e9601",
+      "text": "Eskiden kendi sebzelerimi yetiştirirdim ama son zamanlarda hasat oldukça zayıf. Gerçek yiyeceği nereden bulabilirim?"
+    },
+    {
+      "id": "9acaaadb",
+      "bank_id": "f02e9601",
+      "text": "Piknik için erzak almam gerek. Nereden yiyecek alabilirim?"
+    },
+    {
+      "id": "9acaaadc",
+      "bank_id": "f02e9601",
+      "text": "Buralarda yiyecek için nereye gidersiniz?"
+    },
+    {
+      "id": "9acaaadd",
+      "bank_id": "f02e9601",
+      "text": "Haftalık mutfak alışverişi vakti geldi. Nereye gitmeliyim?"
+    },
+    {
+      "id": "a1dfdafd",
+      "bank_id": "f02e9601",
+      "text": "Sizi görev başında uyurken yakalamayayım sakın. Daima tetikte! Daima uyanık!"
+    },
+    {
+      "id": "aa5078d4",
+      "bank_id": "f02e9601",
+      "text": "Bu bölgede suç çözme oranımız düştü. Hepinizin daha uyanık olmasını istiyorum."
+    },
+    {
+      "id": "b09b3130",
+      "bank_id": "f02e9601",
+      "text": "Etek almak için nereye gitmeliyim?"
+    },
+    {
+      "id": "b09b3131",
+      "bank_id": "f02e9601",
+      "text": "Kıyafetlerim parça parça dökülüyor. Yenilerini almam gerek."
+    },
+    {
+      "id": "b09b3134",
+      "bank_id": "f02e9601",
+      "text": "Karar verildi, bugün kendime yeni bir etek alacağım."
+    },
+    {
+      "id": "b09b3136",
+      "bank_id": "f02e9601",
+      "text": "Dışarı çıkıp bir sürü kıyafet aldığım ayın o dönemi geldi. Nereye gitmemi tavsiye edersin?"
+    },
+    {
+      "id": "b09b3137",
+      "bank_id": "f02e9601",
+      "text": "Bu kıyafetlerden bıktım. Yeni kıyafetler istiyorum."
+    },
+    {
+      "id": "b59b38d0",
+      "bank_id": "f02e9601",
+      "text": "Dolunayda bir eve girmeye uygun kıyafetler nerede satılır?"
+    },
+    {
+      "id": "b59b38d1",
+      "bank_id": "f02e9601",
+      "text": "Buralarda bir giyim mağazası olmalı, değil mi?"
+    },
+    {
+      "id": "b59b38d5",
+      "bank_id": "f02e9601",
+      "text": "Bu kıyafetler parça pinçik dökülüyor. Gerçekten yenilerini almalıyım."
+    },
+    {
+      "id": "b59b38d6",
+      "bank_id": "f02e9601",
+      "text": "Kimseye söyleme ama... sanırım biraz altıma kaçırdım. Yeni kıyafetlere ihtiyacım var, hem de çabuk!"
+    },
+    {
+      "id": "b59b38d7",
+      "bank_id": "f02e9601",
+      "text": "Bir devrime liderlik etmeye uygun kıyafet türlerinin nerede satıldığını biliyor musun?"
+    },
+    {
+      "id": "b97e1230",
+      "bank_id": "f02e9601",
+      "text": "Efsun taşı almak için nereye gitmeliyim?"
+    },
+    {
+      "id": "b97e1231",
+      "bank_id": "f02e9601",
+      "text": "Korunmak için yastığımın altında küçük bir tabanca tutuyorum. Ona bir Efsun Taşı taktırmayı düşünüyordum."
+    },
+    {
+      "id": "b97e1232",
+      "bank_id": "f02e9601",
+      "text": "Bir efsun taşı istiyorum ve hemen şimdi istiyorum."
+    },
+    {
+      "id": "b97e1236",
+      "bank_id": "f02e9601",
+      "text": "Nereden bir efsun taşı alabilirim?"
+    },
+    {
+      "id": "b97e1237",
+      "bank_id": "f02e9601",
+      "text": "Yastık altı tabancam için bir efsun taşı arıyordum. Nerede bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "c27e201a",
+      "bank_id": "f02e9601",
+      "text": "Bir efsun taşı edinmem gerek. Nedenini sorma."
+    },
+    {
+      "id": "c27e201b",
+      "bank_id": "f02e9601",
+      "text": "Nereden efsun taşı bulabileceğimi biliyor musun?"
+    },
+    {
+      "id": "c27e201c",
+      "bank_id": "f02e9601",
+      "text": "Bir muhafızın efsun taşlarından söz ettiğine kulak misafiri oldum. Ben de onlardan bir tane fena bulmazdım. Sadece *öhö* silahlar için değiller, değil mi?"
+    },
+    {
+      "id": "c27e201d",
+      "bank_id": "f02e9601",
+      "text": "Efsun taşına ihtiyacı olan o insanlardan biri olacağımı hiç düşünmezdim. Ama bilirsin ya, öyleyim ve ihtiyacım var."
+    },
+    {
+      "id": "c27e201f",
+      "bank_id": "f02e9601",
+      "text": "Tatar yayım için gerçekten bir efsun taşına ihtiyacım var. Düzgün bile vurmuyor."
+    },
+    {
+      "id": "e502f32a",
+      "bank_id": "f02e9601",
+      "text": "O eski yatakta bir kez daha uyursam belim kırılacak. Mobilyacı nerede?"
+    },
+    {
+      "id": "e502f32b",
+      "bank_id": "f02e9601",
+      "text": "Termitler eski şifonyerimle ziyafet çekti. Yenisini nereden alabilirim?"
+    },
+    {
+      "id": "e502f32c",
+      "bank_id": "f02e9601",
+      "text": "Güzel bir sandalye takımı almaya karar verdim. Nereye gitmeliyim?"
+    },
+    {
+      "id": "e502f32d",
+      "bank_id": "f02e9601",
+      "text": "Annem gelecek ay ziyarete geliyor ve ikinci el mobilyam olursa dilinden hiç kurtulamam. Yeni şeyler alma vakti geldi."
+    },
+    {
+      "id": "e502f32e",
+      "bank_id": "f02e9601",
+      "text": "Oturma odamdaki sandalyeler parça parça dökülüyor. Onları değiştirmek zorundayım."
+    },
+    {
+      "id": "e71f2772",
+      "bank_id": "f02e9601",
+      "text": "Nereden yiyecek alabileceğimi biliyor musun?"
+    },
+    {
+      "id": "e71f2773",
+      "bank_id": "f02e9601",
+      "text": "Bütün hafta tıka basa yedim. Şimdi daha fazla yiyecek almam gerek. En iyi yer neresi?"
+    },
+    {
+      "id": "e71f2774",
+      "bank_id": "f02e9601",
+      "text": "Kileri cidden doldurmam gerek. En iyi aş nerede bulunur?"
+    },
+    {
+      "id": "e71f2775",
+      "bank_id": "f02e9601",
+      "text": "Ruh için gıdayı nereden alabilirim? Ve biraz da mide için tabii."
+    },
+    {
+      "id": "e71f2777",
+      "bank_id": "f02e9601",
+      "text": "Bu hafta aç kalmayacağım. Yiyecek satan bir dükkân bulabildiğim sürece."
+    },
+    {
+      "id": "ee030178",
+      "bank_id": "f02e9601",
+      "text": "Bilirsin ya, mobilyalarım dökülüyor. Gerçekten onları değiştirmeye bakmalıyım."
+    },
+    {
+      "id": "ee030179",
+      "bank_id": "f02e9601",
+      "text": "Üzerinde üremenin gizemlerini düşünebileceğim bir sandalye almam gerek."
+    },
+    {
+      "id": "ee03017b",
+      "bank_id": "f02e9601",
+      "text": "Gerçekten yeni mobilyalara ihtiyacım var."
+    },
+    {
+      "id": "ee03017e",
+      "bank_id": "f02e9601",
+      "text": "Nereden bir merdiven alabileceğim konusunda bir fikrin var mı?"
+    },
+    {
+      "id": "ee03017f",
+      "bank_id": "f02e9601",
+      "text": "Yakınlarda bir gardırop alabileceğim bir yer olmalı."
+    },
+    {
+      "id": "ee1f3278",
+      "bank_id": "f02e9601",
+      "text": "Yiyeceklerimin sonuncusunu kahvaltıda yedim. Nereden stok yapabilirim?"
+    },
+    {
+      "id": "ee1f3279",
+      "bank_id": "f02e9601",
+      "text": "Yedi aydır diyetteyim. Yeter artık! Bana yiyecek dükkânını gösterin! Hemen!"
+    },
+    {
+      "id": "ee1f327a",
+      "bank_id": "f02e9601",
+      "text": "Bu hafta sonu birkaç arkadaşımı akşam yemeğine davet ediyorum. Ama önce yiyecekleri almam gerek."
+    },
+    {
+      "id": "ee1f327e",
+      "bank_id": "f02e9601",
+      "text": "Canım fena halde kurutulmuş et çekiyor. Buralarda hiç yiyecek dükkânı var mı?"
+    },
+    {
+      "id": "ee1f327f",
+      "bank_id": "f02e9601",
+      "text": "Dolap bomboş, biraz yiyecek alma vakti."
+    },
+    {
+      "id": "fe2c9650",
+      "bank_id": "f02e9601",
+      "text": "Bilirsiniz, ben de mütevazı bir muhafız olarak başladım. Sonra ilk büyük davamı çözdüm: Çalınan Kan Sucuğu Gizemi."
+    }
+  ]
+}

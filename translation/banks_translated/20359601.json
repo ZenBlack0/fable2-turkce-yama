@@ -1,0 +1,1506 @@
+{
+  "bank_id": "20359601",
+  "total_strings": 300,
+  "strings": [
+    {
+      "id": "005ad678",
+      "bank_id": "20359601",
+      "text": "Göster bana. Hadi."
+    },
+    {
+      "id": "005ad67a",
+      "bank_id": "20359601",
+      "text": "Oh, görelim bakalım!"
+    },
+    {
+      "id": "005ad67b",
+      "bank_id": "20359601",
+      "text": "Oh, ne kadar heyecan verici! Devam et!"
+    },
+    {
+      "id": "005ad67c",
+      "bank_id": "20359601",
+      "text": "Hadi!"
+    },
+    {
+      "id": "005ad67d",
+      "bank_id": "20359601",
+      "text": "Göster bize!"
+    },
+    {
+      "id": "055ade19",
+      "bank_id": "20359601",
+      "text": "Sabırsızlanıyorum! Cidden!"
+    },
+    {
+      "id": "055ade1a",
+      "bank_id": "20359601",
+      "text": "Sabırsızlanıyorum! Evet!"
+    },
+    {
+      "id": "055ade1b",
+      "bank_id": "20359601",
+      "text": "Evet, devam et!"
+    },
+    {
+      "id": "055ade1c",
+      "bank_id": "20359601",
+      "text": "Oh, sabırsızlıktan öleceğim."
+    },
+    {
+      "id": "055ade1d",
+      "bank_id": "20359601",
+      "text": "Evet! Göster bize!"
+    },
+    {
+      "id": "10aaba0d",
+      "bank_id": "20359601",
+      "text": "Korkutucu bir şey yapmayacaksın, değil mi?"
+    },
+    {
+      "id": "17676811",
+      "bank_id": "20359601",
+      "text": "Evet, işte öyle. Bizi bir güzel güldür bakalım seni şakacı."
+    },
+    {
+      "id": "17676812",
+      "bank_id": "20359601",
+      "text": "Bu sefer ne olacak bakalım, seni komedyen seni."
+    },
+    {
+      "id": "17676813",
+      "bank_id": "20359601",
+      "text": "Buna gülmek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "17676814",
+      "bank_id": "20359601",
+      "text": "İyi bir fıkran var mı? Anlat öyleyse."
+    },
+    {
+      "id": "17676815",
+      "bank_id": "20359601",
+      "text": "Kahkahalar için bekliyorum!"
+    },
+    {
+      "id": "17676816",
+      "bank_id": "20359601",
+      "text": "Ah evet, eğlendir bizi!"
+    },
+    {
+      "id": "17676817",
+      "bank_id": "20359601",
+      "text": "Devam et! Komedi sürmeli!"
+    },
+    {
+      "id": "18b3c5e8",
+      "bank_id": "20359601",
+      "text": "İlgiyle izliyorum."
+    },
+    {
+      "id": "18b3c5e9",
+      "bank_id": "20359601",
+      "text": "Bu iyi olabilir."
+    },
+    {
+      "id": "18b3c5ea",
+      "bank_id": "20359601",
+      "text": "Görelim bakalım şimdi."
+    },
+    {
+      "id": "18b3c5eb",
+      "bank_id": "20359601",
+      "text": "İlginç olabilir."
+    },
+    {
+      "id": "18b3c5ec",
+      "bank_id": "20359601",
+      "text": "Hmm, ne olacağını merak ediyorum."
+    },
+    {
+      "id": "18b3c5ed",
+      "bank_id": "20359601",
+      "text": "İyi olabilir."
+    },
+    {
+      "id": "18b3c5ee",
+      "bank_id": "20359601",
+      "text": "Görelim öyleyse."
+    },
+    {
+      "id": "1baacbbc",
+      "bank_id": "20359601",
+      "text": "Çok... çok korkutucu bir şey değil, değil mi?"
+    },
+    {
+      "id": "1f26ba5e",
+      "bank_id": "20359601",
+      "text": "Neymiş bir görelim bakalım."
+    },
+    {
+      "id": "21b3d438",
+      "bank_id": "20359601",
+      "text": "Pekâlâ, bakalım neyin varmış."
+    },
+    {
+      "id": "21b3d439",
+      "bank_id": "20359601",
+      "text": "Güzel bir şey olabilir. Göreceğiz."
+    },
+    {
+      "id": "21b3d43b",
+      "bank_id": "20359601",
+      "text": "Ee, neymiş bakalım?"
+    },
+    {
+      "id": "21b3d43c",
+      "bank_id": "20359601",
+      "text": "Bakalım bütün bu tantana ne içinmiş."
+    },
+    {
+      "id": "21b3d43d",
+      "bank_id": "20359601",
+      "text": "Meraklandım doğrusu."
+    },
+    {
+      "id": "21b3d43e",
+      "bank_id": "20359601",
+      "text": "Bu ne hakkındaymış bakalım?"
+    },
+    {
+      "id": "21b3d43f",
+      "bank_id": "20359601",
+      "text": "Acaba bu ne olacak."
+    },
+    {
+      "id": "22677940",
+      "bank_id": "20359601",
+      "text": "Ha ha, şimdiden gülüyorum."
+    },
+    {
+      "id": "22677942",
+      "bank_id": "20359601",
+      "text": "Ho ho, yap hadi!"
+    },
+    {
+      "id": "22677943",
+      "bank_id": "20359601",
+      "text": "Güldür bizi!"
+    },
+    {
+      "id": "22677944",
+      "bank_id": "20359601",
+      "text": "Oh, bu iyi olacak!"
+    },
+    {
+      "id": "22677945",
+      "bank_id": "20359601",
+      "text": "Ha ha, hadi gel bakalım!"
+    },
+    {
+      "id": "22677946",
+      "bank_id": "20359601",
+      "text": "Gelsin neşe!"
+    },
+    {
+      "id": "22677947",
+      "bank_id": "20359601",
+      "text": "Hepimizi neşelendireceğinden eminim."
+    },
+    {
+      "id": "2826c8ab",
+      "bank_id": "20359601",
+      "text": "Neymiş bir görelim bakalım."
+    },
+    {
+      "id": "28c47698",
+      "bank_id": "20359601",
+      "text": "Bekliyoruz."
+    },
+    {
+      "id": "28c47699",
+      "bank_id": "20359601",
+      "text": "Devam et hadi. Bir şeyler göster bana."
+    },
+    {
+      "id": "28c4769a",
+      "bank_id": "20359601",
+      "text": "Bekliyorum."
+    },
+    {
+      "id": "28c4769b",
+      "bank_id": "20359601",
+      "text": "Ah, seni gördüm orada. Şimdi ne var bakalım?"
+    },
+    {
+      "id": "28c4769d",
+      "bank_id": "20359601",
+      "text": "Yeninde ne saklıyorsun bakalım?"
+    },
+    {
+      "id": "28c4769e",
+      "bank_id": "20359601",
+      "text": "Hadi ama, bekliyoruz."
+    },
+    {
+      "id": "28c4769f",
+      "bank_id": "20359601",
+      "text": "Bu ilginç olabilir,"
+    },
+    {
+      "id": "313e0538",
+      "bank_id": "20359601",
+      "text": "Lütfen, dur artık."
+    },
+    {
+      "id": "313e0539",
+      "bank_id": "20359601",
+      "text": "Bunu görmeyi hiç istemiyoruz."
+    },
+    {
+      "id": "313e053a",
+      "bank_id": "20359601",
+      "text": "Yapmak zorunda mısın?"
+    },
+    {
+      "id": "313e053b",
+      "bank_id": "20359601",
+      "text": "Yapma şunu. Yalvarırım."
+    },
+    {
+      "id": "313e053c",
+      "bank_id": "20359601",
+      "text": "Dur. Sadece dur."
+    },
+    {
+      "id": "338a0f78",
+      "bank_id": "20359601",
+      "text": "İşte bu! Komik bir şey yap!"
+    },
+    {
+      "id": "338a0f79",
+      "bank_id": "20359601",
+      "text": "Güldür bizi! Hadi!"
+    },
+    {
+      "id": "338a0f7a",
+      "bank_id": "20359601",
+      "text": "Oh, bu enfes olmalı!"
+    },
+    {
+      "id": "338a0f7b",
+      "bank_id": "20359601",
+      "text": "Evet, hadi ama, biraz gülmeye ihtiyacımız var!"
+    },
+    {
+      "id": "338a0f7d",
+      "bank_id": "20359601",
+      "text": "Bizi yine güldür! Çok komiksin."
+    },
+    {
+      "id": "338a0f7e",
+      "bank_id": "20359601",
+      "text": "Bakın millet, bahse girerim Kahraman komik bir şey yapacak."
+    },
+    {
+      "id": "338a0f7f",
+      "bank_id": "20359601",
+      "text": "Komik bir şey yap!"
+    },
+    {
+      "id": "33c487c8",
+      "bank_id": "20359601",
+      "text": "Söyleyecek misin bize artık?"
+    },
+    {
+      "id": "33c487c9",
+      "bank_id": "20359601",
+      "text": "Ee, devam et, neymiş bakalım?"
+    },
+    {
+      "id": "33c487ca",
+      "bank_id": "20359601",
+      "text": "Dikkatimi çektin. Şimdi etkile beni."
+    },
+    {
+      "id": "33c487cb",
+      "bank_id": "20359601",
+      "text": "Pekâlâ. Dikkatim sende."
+    },
+    {
+      "id": "33c487cc",
+      "bank_id": "20359601",
+      "text": "Görelim bakalım bunu şimdi."
+    },
+    {
+      "id": "33c487ce",
+      "bank_id": "20359601",
+      "text": "Nedir o? Söyle bize!"
+    },
+    {
+      "id": "33c487cf",
+      "bank_id": "20359601",
+      "text": "Hm. İlginç. Bakalım neyin varmış."
+    },
+    {
+      "id": "3a3e1308",
+      "bank_id": "20359601",
+      "text": "Evet, evet, sanki çok umurumdaydı."
+    },
+    {
+      "id": "3a3e1309",
+      "bank_id": "20359601",
+      "text": "Vazgeç artık."
+    },
+    {
+      "id": "3a3e130b",
+      "bank_id": "20359601",
+      "text": "Bunu gerçekten görmek istemiyorum."
+    },
+    {
+      "id": "3a3e130c",
+      "bank_id": "20359601",
+      "text": "Aptallığından vazgeç artık."
+    },
+    {
+      "id": "3a3e130d",
+      "bank_id": "20359601",
+      "text": "Ne yaptığın umurumda değil."
+    },
+    {
+      "id": "3a3e130e",
+      "bank_id": "20359601",
+      "text": "Dur. Dur artık!"
+    },
+    {
+      "id": "3a3e130f",
+      "bank_id": "20359601",
+      "text": "Oh, neyin geleceğini biliyorum. Ve nefret ediyorum."
+    },
+    {
+      "id": "3e8a20a8",
+      "bank_id": "20359601",
+      "text": "İşte öyle! Kıkırdat bizi biraz!"
+    },
+    {
+      "id": "3e8a20a9",
+      "bank_id": "20359601",
+      "text": "Bizim için yeni fıkraların var mı?"
+    },
+    {
+      "id": "3e8a20aa",
+      "bank_id": "20359601",
+      "text": "Güldür bizi lütfen."
+    },
+    {
+      "id": "3e8a20ab",
+      "bank_id": "20359601",
+      "text": "Aman Tanrım! Evet!"
+    },
+    {
+      "id": "3e8a20ac",
+      "bank_id": "20359601",
+      "text": "Devam et! Biraz gülsek fena olmazdı!"
+    },
+    {
+      "id": "3e8a20ae",
+      "bank_id": "20359601",
+      "text": "Bizim için yeni malzemen var mı?"
+    },
+    {
+      "id": "3e8a20af",
+      "bank_id": "20359601",
+      "text": "Yeni bir numara mı deniyorsun ha?"
+    },
+    {
+      "id": "455e02a0",
+      "bank_id": "20359601",
+      "text": "Oh, evet lütfen."
+    },
+    {
+      "id": "455e02a3",
+      "bank_id": "20359601",
+      "text": "Oh, bu muazzam olmalı."
+    },
+    {
+      "id": "46286ec8",
+      "bank_id": "20359601",
+      "text": "Hadi, komik bir şey yap!"
+    },
+    {
+      "id": "47e7b7e2",
+      "bank_id": "20359601",
+      "text": "İlgileniyorum ama acele et artık."
+    },
+    {
+      "id": "47e7b7e3",
+      "bank_id": "20359601",
+      "text": "Hadi devam et öyleyse."
+    },
+    {
+      "id": "47e7b7e4",
+      "bank_id": "20359601",
+      "text": "Bakalım ne yapabiliyorsun."
+    },
+    {
+      "id": "47e7b7e5",
+      "bank_id": "20359601",
+      "text": "Devam et. Görelim şimdi."
+    },
+    {
+      "id": "47e7b7e7",
+      "bank_id": "20359601",
+      "text": "Hadi ama. Bütün günüm burada geçemez."
+    },
+    {
+      "id": "4b2876e9",
+      "bank_id": "20359601",
+      "text": "Güldür beni!"
+    },
+    {
+      "id": "4ba506d8",
+      "bank_id": "20359601",
+      "text": "Benim hatırıma bir şey yapma sakın. Ha. Evet."
+    },
+    {
+      "id": "4ba506d9",
+      "bank_id": "20359601",
+      "text": "Bunun, şey, harika olacağına eminim."
+    },
+    {
+      "id": "4ba506da",
+      "bank_id": "20359601",
+      "text": "Oh, bu da neymiş bakalım?"
+    },
+    {
+      "id": "4ba506db",
+      "bank_id": "20359601",
+      "text": "Burada durup izlememin sakıncası var mı?"
+    },
+    {
+      "id": "4ba506dc",
+      "bank_id": "20359601",
+      "text": "Evet, şey, lütfen devam et."
+    },
+    {
+      "id": "4ba506dd",
+      "bank_id": "20359601",
+      "text": "Bunu görmekten çok korkabilirim."
+    },
+    {
+      "id": "4ba506de",
+      "bank_id": "20359601",
+      "text": "Oh, şey, pekâlâ o zaman, devam et."
+    },
+    {
+      "id": "4ecd2132",
+      "bank_id": "20359601",
+      "text": "Oh, ne yapacaksın bakalım?"
+    },
+    {
+      "id": "4ee7c2e8",
+      "bank_id": "20359601",
+      "text": "Acaba bu ne hakkında."
+    },
+    {
+      "id": "4ee7c2e9",
+      "bank_id": "20359601",
+      "text": "Hadi ama, göster artık bir şeyler."
+    },
+    {
+      "id": "4ee7c2ea",
+      "bank_id": "20359601",
+      "text": "Devam et. Görelim bakalım."
+    },
+    {
+      "id": "4ee7c2ee",
+      "bank_id": "20359601",
+      "text": "Bundan hoşlanıp hoşlanmayacağımdan emin değilim."
+    },
+    {
+      "id": "4ee7c2ef",
+      "bank_id": "20359601",
+      "text": "Bunun bir kadeh birayı kaçırdığıma değmesini umarım."
+    },
+    {
+      "id": "54a51528",
+      "bank_id": "20359601",
+      "text": "Evet, yaşasın, şey, yap hadi."
+    },
+    {
+      "id": "54a51529",
+      "bank_id": "20359601",
+      "text": "Lütfen bize göster, yani, bilirsin işte, istersen."
+    },
+    {
+      "id": "54a5152b",
+      "bank_id": "20359601",
+      "text": "Ohh, şey, ne yapacaksın acaba?"
+    },
+    {
+      "id": "54a5152c",
+      "bank_id": "20359601",
+      "text": "Oh, lütfen devam et."
+    },
+    {
+      "id": "54a5152d",
+      "bank_id": "20359601",
+      "text": "Durma. Yani, sadece istemiyorsan dur. Sorun değil."
+    },
+    {
+      "id": "54a5152e",
+      "bank_id": "20359601",
+      "text": "Ne yapacağını görmeye her zaman hazırım."
+    },
+    {
+      "id": "54a5152f",
+      "bank_id": "20359601",
+      "text": "Şey, görelim bakalım."
+    },
+    {
+      "id": "57cd2f1f",
+      "bank_id": "20359601",
+      "text": "Beni korkutmayacaksın, değil mi?"
+    },
+    {
+      "id": "58193c88",
+      "bank_id": "20359601",
+      "text": "Bu iyi olabilir."
+    },
+    {
+      "id": "5d1944a9",
+      "bank_id": "20359601",
+      "text": "Neler yapabiliyorsun bir görelim öyleyse."
+    },
+    {
+      "id": "5db8af9d",
+      "bank_id": "20359601",
+      "text": "İyi olabilir."
+    },
+    {
+      "id": "60741f48",
+      "bank_id": "20359601",
+      "text": "Evet, güldür beni."
+    },
+    {
+      "id": "60741f49",
+      "bank_id": "20359601",
+      "text": "Hihi, devam et!"
+    },
+    {
+      "id": "60741f4a",
+      "bank_id": "20359601",
+      "text": "Şimdiden gülüyorum bile."
+    },
+    {
+      "id": "60741f4b",
+      "bank_id": "20359601",
+      "text": "Oh, söylemeliyim ki çok komiksin."
+    },
+    {
+      "id": "60741f4d",
+      "bank_id": "20359601",
+      "text": "Oh, devam et!"
+    },
+    {
+      "id": "60741f4e",
+      "bank_id": "20359601",
+      "text": "Güldür beni. Bu işte çok iyisin."
+    },
+    {
+      "id": "60741f4f",
+      "bank_id": "20359601",
+      "text": "Hadi ama. Komik ol."
+    },
+    {
+      "id": "68b8c0cc",
+      "bank_id": "20359601",
+      "text": "Ne yapacaksın acaba merak ediyorum."
+    },
+    {
+      "id": "6b7430f8",
+      "bank_id": "20359601",
+      "text": "Bunu en son gördüğümde neredeyse gülmekten katılıyordum."
+    },
+    {
+      "id": "6b7430f9",
+      "bank_id": "20359601",
+      "text": "Ha, bir keresinde bir hobbe'nin kendi bacağını yediğini gördüğüm zamandan bile daha iyi bu."
+    },
+    {
+      "id": "6b7430fa",
+      "bank_id": "20359601",
+      "text": "Bu tam bir soytarı. Gördüğüm en iyisi. Göreceksiniz."
+    },
+    {
+      "id": "6b7430fb",
+      "bank_id": "20359601",
+      "text": "Aman Tanrım. Kaliteli mizah buna derler."
+    },
+    {
+      "id": "6b7430fc",
+      "bank_id": "20359601",
+      "text": "Oh, işte geliyor."
+    },
+    {
+      "id": "6b7430fe",
+      "bank_id": "20359601",
+      "text": "Oh bu iyi olacak."
+    },
+    {
+      "id": "6b7430ff",
+      "bank_id": "20359601",
+      "text": "Devam et lütfen!"
+    },
+    {
+      "id": "70105258",
+      "bank_id": "20359601",
+      "text": "Pöh!"
+    },
+    {
+      "id": "70105259",
+      "bank_id": "20359601",
+      "text": "Pöh!"
+    },
+    {
+      "id": "7010525d",
+      "bank_id": "20359601",
+      "text": "Pöh!"
+    },
+    {
+      "id": "7010525e",
+      "bank_id": "20359601",
+      "text": "Pöh!"
+    },
+    {
+      "id": "7010525f",
+      "bank_id": "20359601",
+      "text": "Pöh!"
+    },
+    {
+      "id": "7642eeed",
+      "bank_id": "20359601",
+      "text": "Bahse girerim yere kapaklanacaksın."
+    },
+    {
+      "id": "7b106388",
+      "bank_id": "20359601",
+      "text": "Pöh!"
+    },
+    {
+      "id": "7b106389",
+      "bank_id": "20359601",
+      "text": "Pöh!"
+    },
+    {
+      "id": "7b10638c",
+      "bank_id": "20359601",
+      "text": "Pöh!"
+    },
+    {
+      "id": "7b10638e",
+      "bank_id": "20359601",
+      "text": "Pöh!"
+    },
+    {
+      "id": "7b10638f",
+      "bank_id": "20359601",
+      "text": "Pöh!"
+    },
+    {
+      "id": "7f1aa301",
+      "bank_id": "20359601",
+      "text": "Bunu görmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "80b331f8",
+      "bank_id": "20359601",
+      "text": "Bakmaya neredeyse korkuyorum."
+    },
+    {
+      "id": "80b331f9",
+      "bank_id": "20359601",
+      "text": "Umarım bana korkunç şeyler yaşatmazsın."
+    },
+    {
+      "id": "80b331fa",
+      "bank_id": "20359601",
+      "text": "Korkutma beni."
+    },
+    {
+      "id": "80b331fb",
+      "bank_id": "20359601",
+      "text": "Yapmasan gerçekten daha iyi olurdu..."
+    },
+    {
+      "id": "80b331fc",
+      "bank_id": "20359601",
+      "text": "İzleyemeyecek kadar çok korkuyorum."
+    },
+    {
+      "id": "80b331fd",
+      "bank_id": "20359601",
+      "text": "Oh, bu şey olmalı... yani, güzel, evet."
+    },
+    {
+      "id": "80b331fe",
+      "bank_id": "20359601",
+      "text": "İzlemeye korkuyorum."
+    },
+    {
+      "id": "8143001c",
+      "bank_id": "20359601",
+      "text": "Bakmıyorum ben."
+    },
+    {
+      "id": "876fdf82",
+      "bank_id": "20359601",
+      "text": "Hihi, devam et!"
+    },
+    {
+      "id": "89b33fc8",
+      "bank_id": "20359601",
+      "text": "Oh, şey, evet, lütfen devam et."
+    },
+    {
+      "id": "89b33fc9",
+      "bank_id": "20359601",
+      "text": "Bizi... bizi korkutmayacaksın, değil mi?"
+    },
+    {
+      "id": "89b33fcb",
+      "bank_id": "20359601",
+      "text": "Oh, ben... bundan hoşlandığımı sanmıyorum."
+    },
+    {
+      "id": "89b33fcc",
+      "bank_id": "20359601",
+      "text": "Korkutma bizi lütfen. Kırışıklık yapıyor."
+    },
+    {
+      "id": "89b33fcd",
+      "bank_id": "20359601",
+      "text": "Korkutucu bir şey mi yapacaksın?"
+    },
+    {
+      "id": "89b33fce",
+      "bank_id": "20359601",
+      "text": "Oh, korkutulmaktan hiç hoşlanmam."
+    },
+    {
+      "id": "89b33fcf",
+      "bank_id": "20359601",
+      "text": "Bizi korkutmak zorunda mısın?"
+    },
+    {
+      "id": "8a1ab4b0",
+      "bank_id": "20359601",
+      "text": "Bu harika olacak! Devam et!"
+    },
+    {
+      "id": "8c61c580",
+      "bank_id": "20359601",
+      "text": "Göster bize! Sabırsızlanıyorum!"
+    },
+    {
+      "id": "8c61c581",
+      "bank_id": "20359601",
+      "text": "Hadi! Görelim bakalım!"
+    },
+    {
+      "id": "8c61c584",
+      "bank_id": "20359601",
+      "text": "Göster bize, lütfen!"
+    },
+    {
+      "id": "8c61c586",
+      "bank_id": "20359601",
+      "text": "Lütfen, görelim artık!"
+    },
+    {
+      "id": "8c61c587",
+      "bank_id": "20359601",
+      "text": "Oh, göster bize lütfen!"
+    },
+    {
+      "id": "906fedef",
+      "bank_id": "20359601",
+      "text": "Hihi, devam et!"
+    },
+    {
+      "id": "9161cda0",
+      "bank_id": "20359601",
+      "text": "Tarzını beğendim!"
+    },
+    {
+      "id": "9161cda1",
+      "bank_id": "20359601",
+      "text": "Göster bize! Evet!"
+    },
+    {
+      "id": "9161cda5",
+      "bank_id": "20359601",
+      "text": "Pekâlâ şimdi. Göster bakalım!"
+    },
+    {
+      "id": "9161cda6",
+      "bank_id": "20359601",
+      "text": "Göster bize! Göster bize!"
+    },
+    {
+      "id": "9161cda7",
+      "bank_id": "20359601",
+      "text": "Göster bize! Hadi ama!"
+    },
+    {
+      "id": "94151dc8",
+      "bank_id": "20359601",
+      "text": "Neymiş o? Hadi."
+    },
+    {
+      "id": "94151dc9",
+      "bank_id": "20359601",
+      "text": "İzliyorum."
+    },
+    {
+      "id": "94151dca",
+      "bank_id": "20359601",
+      "text": "Neymiş göster bize."
+    },
+    {
+      "id": "94151dcb",
+      "bank_id": "20359601",
+      "text": "Yap öyleyse."
+    },
+    {
+      "id": "94151dcc",
+      "bank_id": "20359601",
+      "text": "Devam et. Görmek için bekliyorum."
+    },
+    {
+      "id": "94151dcd",
+      "bank_id": "20359601",
+      "text": "Şimdi ne var bakalım?"
+    },
+    {
+      "id": "94151dce",
+      "bank_id": "20359601",
+      "text": "Elinde ne varsa göster bize."
+    },
+    {
+      "id": "9d152c18",
+      "bank_id": "20359601",
+      "text": "Şimdi ne varmış bakalım?"
+    },
+    {
+      "id": "9d152c19",
+      "bank_id": "20359601",
+      "text": "Görelim bakalım."
+    },
+    {
+      "id": "9d152c1b",
+      "bank_id": "20359601",
+      "text": "Hm. Ne peşindesin bakalım?"
+    },
+    {
+      "id": "9d152c1c",
+      "bank_id": "20359601",
+      "text": "Oh, ne kadar merak uyandırıcı. Bu da ne hakkında?"
+    },
+    {
+      "id": "9d152c1d",
+      "bank_id": "20359601",
+      "text": "Seni bekliyoruz. Devam et."
+    },
+    {
+      "id": "9d152c1e",
+      "bank_id": "20359601",
+      "text": "Ha, bu ne hakkında acaba?"
+    },
+    {
+      "id": "9d152c1f",
+      "bank_id": "20359601",
+      "text": "Göster bize öyleyse."
+    },
+    {
+      "id": "a2dfb408",
+      "bank_id": "20359601",
+      "text": "Hadi devam et öyleyse. Sonra da bizi rahat bırak."
+    },
+    {
+      "id": "a2dfb40a",
+      "bank_id": "20359601",
+      "text": "Kes şunu seni ahmak."
+    },
+    {
+      "id": "a2dfb40b",
+      "bank_id": "20359601",
+      "text": "Sonsuza kadar burada dikilecek değiliz, biliyorsun değil mi."
+    },
+    {
+      "id": "a2dfb40c",
+      "bank_id": "20359601",
+      "text": "Sen ve şu eşek şakaların çok aptalca."
+    },
+    {
+      "id": "a2dfb40d",
+      "bank_id": "20359601",
+      "text": "Kimsenin umurunda değil. Çek git."
+    },
+    {
+      "id": "a7dfbc29",
+      "bank_id": "20359601",
+      "text": "Bunu izlemiyorum."
+    },
+    {
+      "id": "a7dfbc2a",
+      "bank_id": "20359601",
+      "text": "Bunun neresi çekici anlamıyorum."
+    },
+    {
+      "id": "a7dfbc2b",
+      "bank_id": "20359601",
+      "text": "Vaktimizi boşa harcamayı kes."
+    },
+    {
+      "id": "a7dfbc2c",
+      "bank_id": "20359601",
+      "text": "Bırak şu işleri, olur mu?"
+    },
+    {
+      "id": "a7dfbc2d",
+      "bank_id": "20359601",
+      "text": "Neden izlemek isteyeyim ki?"
+    },
+    {
+      "id": "ba1682d0",
+      "bank_id": "20359601",
+      "text": "Oh, bu harika olacak."
+    },
+    {
+      "id": "ba1682d1",
+      "bank_id": "20359601",
+      "text": "Bu harika olacak! Devam et!"
+    },
+    {
+      "id": "ba1682d2",
+      "bank_id": "20359601",
+      "text": "Bunun için sabırsızlanıyorum!"
+    },
+    {
+      "id": "ba1682d4",
+      "bank_id": "20359601",
+      "text": "Bunu iple çekiyordum!"
+    },
+    {
+      "id": "ba1682d5",
+      "bank_id": "20359601",
+      "text": "Oh, göster bize lütfen!"
+    },
+    {
+      "id": "ba1682d6",
+      "bank_id": "20359601",
+      "text": "Evet, devam et!"
+    },
+    {
+      "id": "ba1682d7",
+      "bank_id": "20359601",
+      "text": "Bu çok iyi olacak, göreceksiniz."
+    },
+    {
+      "id": "bcdcdcec",
+      "bank_id": "20359601",
+      "text": "Devam et."
+    },
+    {
+      "id": "bcdcdcef",
+      "bank_id": "20359601",
+      "text": "Neymiş bir görelim öyleyse."
+    },
+    {
+      "id": "c15d9bc7",
+      "bank_id": "20359601",
+      "text": "Göster bize! Göster bize!"
+    },
+    {
+      "id": "c2675271",
+      "bank_id": "20359601",
+      "text": "Nedir o, Kahraman?"
+    },
+    {
+      "id": "c2675272",
+      "bank_id": "20359601",
+      "text": "Bu iyi olmalı!"
+    },
+    {
+      "id": "c2675273",
+      "bank_id": "20359601",
+      "text": "Göster bize, Kahraman! Hadi!"
+    },
+    {
+      "id": "c2675274",
+      "bank_id": "20359601",
+      "text": "Hadi ama! Göster bize!"
+    },
+    {
+      "id": "c2675275",
+      "bank_id": "20359601",
+      "text": "Görmek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "c2675276",
+      "bank_id": "20359601",
+      "text": "Nedir?"
+    },
+    {
+      "id": "c2675277",
+      "bank_id": "20359601",
+      "text": "Yapacak mısın artık?"
+    },
+    {
+      "id": "c3169138",
+      "bank_id": "20359601",
+      "text": "Bu oldukça iyi olmalı."
+    },
+    {
+      "id": "c3169139",
+      "bank_id": "20359601",
+      "text": "Bunu beklediğimize değecek."
+    },
+    {
+      "id": "c316913a",
+      "bank_id": "20359601",
+      "text": "Görelim bakalım!"
+    },
+    {
+      "id": "c316913b",
+      "bank_id": "20359601",
+      "text": "Devam et! Devam et!"
+    },
+    {
+      "id": "c316913c",
+      "bank_id": "20359601",
+      "text": "Oh, bu iyi olacak. Göster bize!"
+    },
+    {
+      "id": "c316913d",
+      "bank_id": "20359601",
+      "text": "Göster bize, göster bize!"
+    },
+    {
+      "id": "c316913f",
+      "bank_id": "20359601",
+      "text": "Evet, harika."
+    },
+    {
+      "id": "c4b81a38",
+      "bank_id": "20359601",
+      "text": "Bakalım bu sefer ne kadar korkutucu olabileceksin."
+    },
+    {
+      "id": "c6ebb93d",
+      "bank_id": "20359601",
+      "text": "Oh, sırada ne yapacağını merak ediyorum."
+    },
+    {
+      "id": "c85da6ca",
+      "bank_id": "20359601",
+      "text": "Evet, yap hadi! Yap!"
+    },
+    {
+      "id": "c9b821d9",
+      "bank_id": "20359601",
+      "text": "Lütfen korkutma beni."
+    },
+    {
+      "id": "cd6763a0",
+      "bank_id": "20359601",
+      "text": "Oh, sırada ne yapacaksın merak ediyorum."
+    },
+    {
+      "id": "cd6763a2",
+      "bank_id": "20359601",
+      "text": "Oh, söyleyecek bir şeyin mi var?"
+    },
+    {
+      "id": "cd6763a3",
+      "bank_id": "20359601",
+      "text": "Hadi ama! Neyin var göster bize."
+    },
+    {
+      "id": "cd6763a4",
+      "bank_id": "20359601",
+      "text": "Duyalım bakalım!"
+    },
+    {
+      "id": "cd6763a5",
+      "bank_id": "20359601",
+      "text": "Neymiş o Kahraman?"
+    },
+    {
+      "id": "cd6763a6",
+      "bank_id": "20359601",
+      "text": "Evet, yap hadi!"
+    },
+    {
+      "id": "cd6763a7",
+      "bank_id": "20359601",
+      "text": "Hadi ama!"
+    },
+    {
+      "id": "d1ebca6c",
+      "bank_id": "20359601",
+      "text": "Bu harika olacak."
+    },
+    {
+      "id": "d2627e62",
+      "bank_id": "20359601",
+      "text": "Hadi, güldür bizi!"
+    },
+    {
+      "id": "db628c4f",
+      "bank_id": "20359601",
+      "text": "Bahse girerim bu çok komiktir!"
+    },
+    {
+      "id": "dedb954e",
+      "bank_id": "20359601",
+      "text": "Aptalca şeyler yaptığını görmek istemiyorum."
+    },
+    {
+      "id": "e3dcb7e8",
+      "bank_id": "20359601",
+      "text": "Kimse seni dinlemiyor bile seni aptal."
+    },
+    {
+      "id": "e3dcb7e9",
+      "bank_id": "20359601",
+      "text": "Kaybol."
+    },
+    {
+      "id": "e3dcb7ea",
+      "bank_id": "20359601",
+      "text": "Kimsenin umurunda değil!"
+    },
+    {
+      "id": "e3dcb7eb",
+      "bank_id": "20359601",
+      "text": "Bunu görmek istemiyorum!"
+    },
+    {
+      "id": "e3dcb7ed",
+      "bank_id": "20359601",
+      "text": "Eh, devam et o zaman artık."
+    },
+    {
+      "id": "e3dcb7ee",
+      "bank_id": "20359601",
+      "text": "Hâlâ gençken bitir bari!"
+    },
+    {
+      "id": "e3dcb7ef",
+      "bank_id": "20359601",
+      "text": "Söyleyeceğin şey kimin umurunda."
+    },
+    {
+      "id": "e42c6d88",
+      "bank_id": "20359601",
+      "text": "Buradaki bütün bu tantana ne hakkında?"
+    },
+    {
+      "id": "e42c6d89",
+      "bank_id": "20359601",
+      "text": "Bütün bunlar da ne böyle?"
+    },
+    {
+      "id": "e42c6d8d",
+      "bank_id": "20359601",
+      "text": "Ne olacağını merak ediyorum."
+    },
+    {
+      "id": "e42c6d8e",
+      "bank_id": "20359601",
+      "text": "Bu iyi olacak mı bari?"
+    },
+    {
+      "id": "e42c6d8f",
+      "bank_id": "20359601",
+      "text": "Sana bir dakika veriyorum."
+    },
+    {
+      "id": "e4e2f8e0",
+      "bank_id": "20359601",
+      "text": "Ahh, ne kadar da fevkalade."
+    },
+    {
+      "id": "e4e2f8e1",
+      "bank_id": "20359601",
+      "text": "Oh, evet, lütfen devam et."
+    },
+    {
+      "id": "e4e2f8e2",
+      "bank_id": "20359601",
+      "text": "Görmek için sabırsızlanıyorum. Kaçmayacağım. Söz."
+    },
+    {
+      "id": "e4e2f8e3",
+      "bank_id": "20359601",
+      "text": "Ne peşindesin bakalım? Harika bir şey olduğuna bahse girerim."
+    },
+    {
+      "id": "e4e2f8e4",
+      "bank_id": "20359601",
+      "text": "Çok ilginç doğrusu, eminim."
+    },
+    {
+      "id": "e4e2f8e5",
+      "bank_id": "20359601",
+      "text": "Sana her zaman vaktimiz var. Devam et öyleyse, *öksürür*"
+    },
+    {
+      "id": "e4e2f8e7",
+      "bank_id": "20359601",
+      "text": "Çok... çok korkutucu bir şey değil, değil mi?"
+    },
+    {
+      "id": "e7dba39b",
+      "bank_id": "20359601",
+      "text": "Yine pislik bir şey mi yapacaksın?"
+    },
+    {
+      "id": "ebe303e8",
+      "bank_id": "20359601",
+      "text": "Burada durup izlememin sakıncası var mı?"
+    },
+    {
+      "id": "ebe303e9",
+      "bank_id": "20359601",
+      "text": "Ben, şey, ne yapacağını görmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "ebe303ea",
+      "bank_id": "20359601",
+      "text": "Şimdi beni korkutuyorsun işte."
+    },
+    {
+      "id": "ebe303ec",
+      "bank_id": "20359601",
+      "text": "Bu da ne böyle? Ben sadece şurada durayım, olur mu?"
+    },
+    {
+      "id": "ebe303ed",
+      "bank_id": "20359601",
+      "text": "Ah, evet, çok güzel. Kesinlikle."
+    },
+    {
+      "id": "ebe303ee",
+      "bank_id": "20359601",
+      "text": "Çok, şey, harika olacağına eminim. Evet."
+    },
+    {
+      "id": "ebe303ef",
+      "bank_id": "20359601",
+      "text": "Bana aldırma sen."
+    },
+    {
+      "id": "ec6fc078",
+      "bank_id": "20359601",
+      "text": "Hm. Gerçekten mi?"
+    },
+    {
+      "id": "ec6fc07a",
+      "bank_id": "20359601",
+      "text": "Bunun ne hakkında olduğunu görelim bakalım."
+    },
+    {
+      "id": "ec6fc07b",
+      "bank_id": "20359601",
+      "text": "Ne? Sen mi?"
+    },
+    {
+      "id": "ec6fc07c",
+      "bank_id": "20359601",
+      "text": "Pek emin değilim burada."
+    },
+    {
+      "id": "ec6fc07d",
+      "bank_id": "20359601",
+      "text": "Neyin var görelim bakalım."
+    },
+    {
+      "id": "ec6fc07e",
+      "bank_id": "20359601",
+      "text": "Ne olacağını görmeyi merakla bekliyorum."
+    },
+    {
+      "id": "ec6fc07f",
+      "bank_id": "20359601",
+      "text": "Hm. Bu konuda pek emin değilim."
+    },
+    {
+      "id": "ede5e670",
+      "bank_id": "20359601",
+      "text": "Lütfen, yap hadi!"
+    },
+    {
+      "id": "ede5e671",
+      "bank_id": "20359601",
+      "text": "Hadi ama!"
+    },
+    {
+      "id": "ede5e672",
+      "bank_id": "20359601",
+      "text": "Bu harika olmalı!"
+    },
+    {
+      "id": "ede5e674",
+      "bank_id": "20359601",
+      "text": "Devam et! Göster bize!"
+    },
+    {
+      "id": "ede5e675",
+      "bank_id": "20359601",
+      "text": "Lütfen devam et, hepimiz çok heyecanlıyız."
+    },
+    {
+      "id": "ede5e676",
+      "bank_id": "20359601",
+      "text": "Bunu iple çekiyorum."
+    },
+    {
+      "id": "ede5e677",
+      "bank_id": "20359601",
+      "text": "Hepimiz bekliyoruz, lütfen!"
+    },
+    {
+      "id": "eedcc918",
+      "bank_id": "20359601",
+      "text": "Bunu başka bir yerde yapamaz mısın?"
+    },
+    {
+      "id": "eedcc919",
+      "bank_id": "20359601",
+      "text": "Bu sefer ne var acaba?!"
+    },
+    {
+      "id": "eedcc91a",
+      "bank_id": "20359601",
+      "text": "Şimdi ne yapıyorsun yine?!"
+    },
+    {
+      "id": "eedcc91b",
+      "bank_id": "20359601",
+      "text": "Kimin umurunda?!"
+    },
+    {
+      "id": "eedcc91c",
+      "bank_id": "20359601",
+      "text": "Oh sanırım hepimizin izlemesini istiyorsun."
+    },
+    {
+      "id": "eedcc91e",
+      "bank_id": "20359601",
+      "text": "Yine dikkatimizi çekmeye çalışıyorsun, ha?"
+    },
+    {
+      "id": "eedcc91f",
+      "bank_id": "20359601",
+      "text": "Şimdi ne var bakalım?"
+    },
+    {
+      "id": "ef2c7f38",
+      "bank_id": "20359601",
+      "text": "Neymiş bir görelim bakalım."
+    },
+    {
+      "id": "ef2c7f39",
+      "bank_id": "20359601",
+      "text": "İlgimi çektin... şaşırt beni."
+    },
+    {
+      "id": "ef2c7f3c",
+      "bank_id": "20359601",
+      "text": "Oh, ne?"
+    },
+    {
+      "id": "ef2c7f3e",
+      "bank_id": "20359601",
+      "text": "Anlat hadi."
+    },
+    {
+      "id": "ef2c7f3f",
+      "bank_id": "20359601",
+      "text": "Ha? Oh bu da ne?"
+    },
+    {
+      "id": "f16fc819",
+      "bank_id": "20359601",
+      "text": "Devam et. Neyin var?"
+    },
+    {
+      "id": "f16fc81a",
+      "bank_id": "20359601",
+      "text": "Hm. Pek emin değilim ama görelim bakalım."
+    },
+    {
+      "id": "f16fc81b",
+      "bank_id": "20359601",
+      "text": "Görelim bakalım burada."
+    },
+    {
+      "id": "f16fc81c",
+      "bank_id": "20359601",
+      "text": "Bu konuda pek emin değilim."
+    },
+    {
+      "id": "f16fc81d",
+      "bank_id": "20359601",
+      "text": "Hadi, görelim bakalım."
+    },
+    {
+      "id": "f16fc81e",
+      "bank_id": "20359601",
+      "text": "Devam et. İlgileniyorum ama çabuk da sıkılırım."
+    },
+    {
+      "id": "f16fc81f",
+      "bank_id": "20359601",
+      "text": "Bakalım ilgimi canlı tutabilecek misin."
+    },
+    {
+      "id": "f6e5f458",
+      "bank_id": "20359601",
+      "text": "Oh lütfen devam et!"
+    },
+    {
+      "id": "f6e5f459",
+      "bank_id": "20359601",
+      "text": "Göster bize! Yalvarıyoruz!"
+    },
+    {
+      "id": "f6e5f45a",
+      "bank_id": "20359601",
+      "text": "Bu iyi olacak!"
+    },
+    {
+      "id": "f6e5f45b",
+      "bank_id": "20359601",
+      "text": "Sabırsızlanıyorum!"
+    },
+    {
+      "id": "f6e5f45c",
+      "bank_id": "20359601",
+      "text": "Devam et. Göster bize!"
+    },
+    {
+      "id": "f6e5f45d",
+      "bank_id": "20359601",
+      "text": "Hadi ama! Harikasın!"
+    },
+    {
+      "id": "f6e5f45f",
+      "bank_id": "20359601",
+      "text": "Oh evet! Güzel."
+    }
+  ]
+}
