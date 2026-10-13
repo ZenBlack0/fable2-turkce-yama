@@ -13,6 +13,35 @@
 
 ---
 
+## Desteklenen oyun sürümü
+Yama **yalnızca** şu sürümle çalışır:
+
+| | |
+|---|---|
+| Oyun | Fable II — Game of the Year / Platinum Edition (Xbox 360, tek disk ISO) |
+| Title ID | `4D5307F1` |
+| Media ID | `716F0A0D` (Xenia yama dosyasında "Disc (USA, Europe)" olarak geçen disk) |
+| `default.xex` modül hash'i (Xenia yama dosyası) | `4145F96D2DEE2AB5` |
+| `default.xex` SHA-256 | `88c4ef2e18e65409444d1b068eff921d1f7e180a5ae64edc64ba6b0872372662` (21.217.280 bayt) |
+| Yamanın geliştirildiği/test edildiği ISO | 7.838.695.424 bayt (≈7,3 GiB), SHA-256 `2cdaafead95680e2c6fe8886a89f1ae3d5e41549857c7fc125a12aab1cb99ad9` |
+
+**Kurucu ISO'yu nasıl doğrular?** ISO'nun SHA-256 değerine bakmaz; ISO içindeki `default.xex` dosyasından **Title ID ve Media ID** değerlerini okur ve ikisi de yukarıdakiyle aynı değilse reddeder. Ardından yamalanan 11 oyun dosyasının her birinin orijinal SHA-256 değerini uygulamadan önce, sonucunu uyguladıktan sonra doğrular; uyuşmayan dosyaya yama uygulanmaz ve kurulum durur. `default.xex` hash'i beklenenden farklıysa yalnızca uyarı verir.
+
+**Kendi ISO'nuzu kontrol edin** (PowerShell):
+```powershell
+Get-FileHash -Algorithm SHA256 "ISO_YOLU"
+```
+Sonuç yukarıdaki ISO değeriyle aynıysa birebir aynı dökümdür. Farklıysa bu tek başına sorun değildir (dökümler farklı araçlarla alınmış olabilir); asıl doğrulama Title/Media ID ve oyun dosyalarının hash'leriyle yapılır.
+
+**Desteklenmeyen sürümler** (yama bunlarda test edilmedi):
+- Standart (Game of the Year olmayan) Fable II — Title ID ve Media ID yukarıdakilerle eşleşmediği için kurucu "Bu ISO yamayla uyumlu değil" diyerek reddeder.
+- Media ID'si `716F0A0D` olmayan diskler (ör. Xenia yama dosyasında ayrıca listelenen Almanya, İtalya ve İspanya diskleri, NTSC-J ve diğer bölge/dil baskıları) — kurucu reddeder.
+- Xbox One / Xbox Series dijital sürümleri — ISO olmadıkları için kurucu "Xbox 360 ISO'su gibi görünmüyor" diyerek reddeder.
+
+Elle kurulum yolu (`yama_uygula.bat`) Title/Media ID'ye bakmaz, ama her dosyayı SHA-256 ile doğrular ve orijinal GOTY dosyası değilse durur.
+
+> **Yasal not:** Oyunun hiçbir dosyası yamada bulunmaz; kurucu ve yama dosyaları yalnızca fark yamaları içerir. Yamayı kullanmak için yasal bir Fable II kopyasına (kendi diskinizden aldığınız ISO) sahip olmanız gerekir. Bu belge ve proje oyunu edinmek için bir kaynak göstermez.
+
 ## Oyuncular için
 
 > **Kurulumdan önce:**

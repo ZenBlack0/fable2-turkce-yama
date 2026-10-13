@@ -9,6 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 sys.path.insert(0, os.path.join(ROOT, 'tools'))
 from make_xdelta import make_xdelta  # noqa: E402
+import supported_version  # noqa: E402
 
 VERSION = '1.0.2'
 REPO_URL = 'https://github.com/ZenBlack0/fable2-turkce-yama'
@@ -44,7 +45,7 @@ if not SKIP_INSTALLER:
 
 
 def fill(t):
-    return t.replace('@VERSION@', VERSION).replace('@REPO_URL@', REPO_URL).replace('@VT_OKUBENI@', VT_OKUBENI)
+    return t.replace('@VERSION@', VERSION).replace('@REPO_URL@', REPO_URL).replace('@VT_OKUBENI@', VT_OKUBENI).replace('@SUPPORTED_TXT@', supported_version.text())
 
 
 # VirusTotal metni: tools/vt_report.json yalniz SHA-256 degerleri bu build ile eslesirse kullanilir (zip henuz yok -> exe icin kontrol)
