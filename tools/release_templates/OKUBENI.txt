@@ -7,6 +7,10 @@ emülatöründe Türkçe oynamanızı sağlar (menüler, görevler, konuşmalar 
 Bu pakette oyunun kendisi YOKTUR. Kendi Fable II ISO dosyanızı kullanırsınız;
 kurucu yalnızca küçük "fark yamaları" uygular.
 
+v@VERSION@ ile değişen: kurucu artık Xenia'da yalnızca altyazılar için zorunlu olan TEK ayarı
+(render_target_path_d3d12 = "rov"), yalnızca sizin onayınızla değiştirir. Başka hiçbir
+Xenia ayarına, oyun yamasına veya önbelleğe dokunmaz.
+
 
 1) GEREKSİNİMLER
 ----------------
@@ -14,8 +18,8 @@ kurucu yalnızca küçük "fark yamaları" uygular.
  * Fable II GOTY / Platinum ISO dosyası (Xbox 360, Title ID 4D5307F1, Media ID 716F0A0D).
    Başka sürümler (ör. ilk çıkış diski) çalışmaz; kurucu sizi uyarır.
  * Xenia Canary — https://github.com/xenia-canary/xenia-canary-releases/releases
-   adresinden indirin, bir klasöre çıkarın ve BİR KEZ açıp kapatın
-   (ayar dosyasını oluşturması için).
+   adresinden indirin ve bir klasöre çıkarın. Altyazı ayarının kurucu tarafından yapılabilmesi için
+   Xenia'yı BİR KEZ açıp kapatın (ayar dosyası oluşsun).
  * Yaklaşık 9 GB boş disk alanı (ISO oyun klasörüne çıkarılır).
 
 
@@ -33,23 +37,92 @@ kurucu yalnızca küçük "fark yamaları" uygular.
 
  1. Zip'i bir klasöre çıkarın, Kurulum klasöründeki Fable2_Turkce_Kurulum.exe dosyasına
     çift tıklayın (Kurulum klasörünün içindeki diğer dosyalar yerinde kalmalıdır).
-    (Windows "bilinmeyen yayıncı" derse: Ek bilgi → Yine de çalıştır. Bkz. SSS.)
  2. Kurucu sırayla şunları sorar:
     a) "Fable II ISO dosyasını seçin": ISO dosyanızı gösterin. Kurucu doğru oyun
        olup olmadığını kontrol eder.
     b) "HEDEF klasörü seçin": oyunun çıkarılacağı boş bir klasör (örn. D:\Fable2).
        Birkaç dakika sürer.
-    c) Yama otomatik uygulanır ve her dosya doğrulanır.
-    d) "Xenia Canary klasörünü seçin": xenia_canary.exe dosyasının bulunduğu klasör.
-       Xenia o sırada KAPALI olmalıdır.
- 3. Kurucu şunları kendisi yapar: Xenia ayarlarını (altyazılar için gerekli
-    ROV ayarı dahil) düzenler, eski ayar dosyasının yedeğini alır, Xenia'nın
-    Fable II yamalarını açar ve shader önbelleğini temizler.
- 4. "Kurulum tamamlandı" mesajını görünce bitti. Ayrıntılar, hedef klasördeki
-    kurulum_raporu.txt dosyasındadır.
+    c) Yama otomatik uygulanır ve her dosya SHA-256 ile doğrulanır.
+    d) Son adım: Xenia'da altyazılar için gereken tek ayarı yapmak isteyip istemediğinizi
+       sorar (Evet/Hayır). Evet derseniz bilgisayarınızdaki BÜTÜN Xenia klasörlerini arar ve
+       listeler (her birinin ayarının şimdiki değeriyle). Tek bir tane bulsa bile değiştirmeden
+       önce sorar: "Şu Xenia'nın ayarı değiştirilecek: <yol>. Oyunu bu Xenia ile mi
+       oynuyorsunuz?" [Evet] [Başka klasör seç] [Atla]. Birden fazla bulursa listeden seçersiniz.
+       Seçmediğiniz Xenia'lara dokunulmaz. Xenia o sırada KAPALI olmalıdır.
+ 3. "Kurulum tamamlandı" mesajını görünce bitti. Ayrıntılar hedef klasördeki
+    kurulum_raporu.txt dosyasındadır. Xenia ayarını yapmadıysanız (Hayır/atla), son mesaj
+    bunu uyarı olarak gösterir ve elle nasıl yapılacağını yazar.
 
 
-3) OYUNU BAŞLATMA
+3) ALTYAZILAR VE XENIA AYARI
+----------------------------
+Xenia'da altyazıların görünmesi için xenia-canary.config.toml dosyasında
+    render_target_path_d3d12 = "rov"
+olmalıdır. Bu ayar olmadan altyazılar görünmez (orijinal oyunda da böyledir).
+
+Kurucu bu ayar için yalnızca bu tek satırı değiştirir ve YALNIZCA siz izin verirseniz:
+ * Hangi Xenia'nın değiştirileceğine siz karar verirsiniz (otomatik seçim yoktur).
+ * Dosyayı yeniden yazmaz; yalnızca o satır değişir (yorumlar, sıralama, satır sonları aynı kalır).
+ * Değiştirmeden önce yedek alır: xenia-canary.config.toml.yedek-<tarih-saat>
+   (var olan bir yedeğin üstüne yazmaz).
+ * Ayar zaten "rov" ise hiçbir şey yazmaz, yedek de almaz.
+ * Dosya yoksa (Xenia hiç açılmamışsa) dosya oluşturmaz; "Xenia'yı bir kez açıp kapatın" der.
+ * Xenia açıksa ya da dosya salt okunursa değiştirmez.
+ * Kurulum sonunda dosya yolunu, eski ve yeni değeri ve yedeğin adını yazar.
+Başka hiçbir Xenia ayarını değiştirmez; Xenia'nın oyun yamalarını (patches) indirmez/yazmaz;
+shader önbelleğini silmez.
+
+Elle yapmak için (kopyalayın):
+ 1. Xenia'yı KAPATIN.
+ 2. xenia-canary.config.toml dosyasını Not Defteri ile açın (Xenia klasöründe ya da
+    Belgeler\Xenia içinde).
+ 3. [GPU] bölümünde şu satırı bulun ve değiştirin (yoksa [GPU] bölümüne ekleyin):
+        render_target_path_d3d12 = "rov"
+ 4. Kaydedin ve Xenia'yı açın. (ROV bazı bilgisayarlarda daha yavaş olabilir. Ayar yalnızca
+    Direct3D 12 arka ucunda etkilidir; config'inizde gpu = "d3d12" olmalıdır.)
+
+
+4) İSTEĞE BAĞLI XENIA AYARLARI (ELLE)
+-------------------------------------
+Aşağıdakileri kurucu YAPMAZ. İsterseniz Xenia kapalıyken xenia-canary.config.toml içinde elle yapın:
+ * async_shader_compilation = false   — haritanın bazı yerlerinde çok kısa görüntü bozulmalarını
+   önler; bedeli: yeni bir bölgeye ilk girişte kısa donmalar olabilir (oynadıkça shader önbelleği
+   dolar ve azalır).
+ * framerate_limit = 60               — kare hızını 60'a sınırlar (sınırsızken GPU sürekli %99 çalışabilir).
+ * apply_patches = true               — Xenia'nın oyun yamalarını açar (aşağıya bakın).
+
+Oyun yamaları (isteğe bağlı): resmî xenia-canary/game-patches deposundaki
+"4D5307F1 - Fable II (GOTY_Platinum Edition).patch.toml" dosyasını Xenia'nın patches klasörüne koyun
+(https://github.com/xenia-canary/game-patches). Önerilenler:
+ * Disable Texture Morphing  — kahraman/köpek dokularındaki bozulmayı giderir
+ * Disable MSAA              — MSAA'yı kapatır
+ * High Tick Rate           — arayüz akıcılığı ve girdi gecikmesi
+ * High Tick Rate Stairs & Ledge Fix — High Tick Rate ile merdiven/çıkıntılarda takılmayı önler
+"60 FPS" yaması deneysel olup varsayılan olarak kapalıdır; bu projede test edilmemiştir.
+
+
+5) ÖNCEKİ SÜRÜMLERİ (v1.0.0–v1.0.2) KURDUYSANIZ
+------------------------------------------------
+Eski kurucu Xenia'da birden fazla şeyi değiştirmişti ve yedeklerini almıştı:
+ * xenia-canary.config.toml içinde: gpu = "d3d12", render_target_path_d3d12 = "rov",
+   vsync = false, framerate_limit = 60, async_shader_compilation = false, apu = "xaudio2",
+   use_dedicated_xma_thread = false, license_mask = -1 (ve gerekirse mount_cache = true,
+   apply_patches = true).
+ * "4D5307F1 - Fable II (GOTY_Platinum Edition).patch.toml" yama dosyasını indirip Xenia'nın
+   patches klasörüne yazmış ve 3 yamayı açmıştı (Disable Texture Morphing, Disable MSAA, High Tick Rate).
+ * İzninizle cache_host\shaders önbelleğinin içeriğini silmişti (yedeği yok; Xenia yeniden oluşturur).
+Yedekler, config'in bulunduğu Xenia klasöründe şu adlarla durur (<tarih-saat> = kurulum anı):
+    xenia-canary.config.toml.yedek-<tarih-saat>
+    patches\4D5307F1 - Fable II (GOTY_Platinum Edition).patch.toml.yedek-<tarih-saat>   (yalnızca o dosya zaten vardıysa)
+(Xenia klasörü: xenia_canary.exe'nin yanı; portable değilse Belgeler\Xenia.) Kurulum klasörünüzdeki
+kurulum_raporu.txt hangi ayarın eski değerden yeniye değiştiğini ve yedeğin tam yolunu yazar.
+Eski ayarlara dönmek için: Xenia'yı KAPATIN, ilgili .yedek-... dosyasını asıl adıyla
+(xenia-canary.config.toml / patch.toml) üstüne kopyalayın. Yalnızca birkaç ayarı geri almak
+isterseniz config'i Not Defteri ile açıp o satırları elle düzeltin. Bu sürümün kurucusu hiçbirini
+yeniden değiştirmez; yalnızca render_target_path_d3d12 satırı (izninizle) ele alınır.
+
+
+6) OYUNU BAŞLATMA
 -----------------
  1. Xenia Canary'yi açın, File → Open ile hedef klasördeki default.xex dosyasını seçin.
  2. Oyunda Seçenekler (Options) → Dil (Language) = English (United Kingdom) seçili olsun.
@@ -57,28 +130,22 @@ kurucu yalnızca küçük "fark yamaları" uygular.
  3. Altyazıları oyun içi Seçenekler'den açık tutun.
 
 
-4) SIK SORULANLAR
+7) SIK SORULANLAR
 -----------------
 S: Altyazılar görünmüyor.
-C: Xenia'da altyazılar yalnızca ROV ayarıyla görünür. Kurucu bunu ayarlar. Elle:
-   Xenia'yı KAPATIN, xenia-canary.config.toml dosyasında [GPU] bölümünde
-   render_target_path_d3d12 = "rov"  yazdığından emin olun. ROV bazı bilgisayarlarda
-   daha yavaş olabilir.
+C: Xenia'da render_target_path_d3d12 = "rov" olmalıdır; bkz. bölüm 3 (elle yapılışı orada).
 
-S: Yeni bir yere ilk girdiğimde oyun kısa süre donuyor.
-C: Normaldir. Görüntü bozulmasın diye shader'lar arka planda değil anında derlenir
-   (async_shader_compilation = false). Oynadıkça shader önbelleği dolar ve donmalar
-   azalır.
+S: Yeni bir yere ilk girdiğimde oyun kısa süre donuyor / görüntüde çok kısa bozulmalar var.
+C: Bkz. bölüm 4 (async_shader_compilation). Kurucu bu ayara dokunmaz.
 
 S: GPU sürekli %99 çalışıyor.
-C: Kurucu kare hızını 60'a sınırlar (framerate_limit = 60). Ayar yoksa Xenia
-   config'inde [GPU] altına framerate_limit = 60 yazın.
+C: Bkz. bölüm 4 (framerate_limit = 60). Kurucu bu ayara dokunmaz.
 
 S: Antivirüs / SmartScreen uyarı veriyor.
 C: Kurucu açık kaynaklıdır (@REPO_URL@), Python ile yazılmış ve Nuitka ile
    derlenmiştir; imzasız olduğu ve xdelta3.exe (fark yaması aracı) içerdiği için
    bazı yapay zekâ/makine öğrenmesi tabanlı motorlar yanlış alarm verebilir.
-@VT_OKUBENI@
+   VirusTotal raporları ve ayrıntılar: @REPO_URL@/blob/main/docs/antivirus.md
    Dosyaların özetlerini SHA256SUMS.txt ile karşılaştırabilirsiniz. Güvenmiyorsanız
    exe'siz yolu kullanın: Elle_Kurulum klasöründeki yama_uygula.bat (ISO'yu
    extract_iso ile çıkarıp bat dosyasını çalıştırın; her dosya SHA-256 ile doğrulanır).
@@ -92,16 +159,15 @@ C: Yalnızca Fable II GOTY/Platinum (Media ID 716F0A0D) desteklenir. Önceden
 
 S: Kurulumu nasıl geri alırım?
 C: Oyunu yeni bir klasöre çıkardığınız için orijinal ISO'nuz hiç değişmez. Geri almak
-   için hedef klasörü silmeniz yeterlidir. Xenia ayarlarını eski haline getirmek için
-   Xenia klasöründeki xenia-canary.config.toml.yedek-<tarih> dosyasını
-   xenia-canary.config.toml adıyla geri kopyalayın (Xenia kapalıyken). Yamalar için
-   patches klasöründeki .yedek-<tarih> dosyası aynı şekilde geri kopyalanır.
+   için hedef klasörü silmeniz yeterlidir. Xenia ayarını eski haline getirmek için
+   Xenia klasöründeki xenia-canary.config.toml.yedek-<tarih-saat> dosyasını (Xenia kapalıyken)
+   xenia-canary.config.toml adıyla geri kopyalayın.
 
 S: Bazı yerler İngilizce kaldı veya yazı taşıyor.
 C: Bunu bildirin (aşağıya bakın).
 
 
-5) HATA BİLDİRME
+8) HATA BİLDİRME
 ----------------
  @REPO_URL@/issues
 adresinden "Çeviri hatası" veya "Teknik sorun" şablonunu seçin. Lütfen ekleyin:
@@ -111,7 +177,7 @@ adresinden "Çeviri hatası" veya "Teknik sorun" şablonunu seçin. Lütfen ekle
  * Teknik sorunlarda: Xenia sürümü, ekran kartınız, kurulum_raporu.txt
 
 
-6) TEŞEKKÜRLER
+9) TEŞEKKÜRLER
 --------------
  * Fable II PT-BR çeviri projesi — format araştırmasına ışık tuttu
  * Fable2Modding topluluğu

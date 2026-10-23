@@ -2,5 +2,4 @@ Fable II Türkçe Yama — Üçüncü taraf bileşenler
 
 * xdelta3 3.2.2 — Copyright (C) Joshua MacDonald. Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), kaynak: https://github.com/jmacd/xdelta. Kurucunun içine gömülüdür. Garanti verilmez.
 * Kurucu Nuitka (Apache License 2.0; https://nuitka.net) ile derlenmiştir; Python (PSF License), Tcl/Tk (BSD tarzı lisans) ve OpenSSL (Apache 2.0) çalışma zamanı dosyalarını içerir.
-* Xenia yama dosyası ("4D5307F1 - Fable II (GOTY_Platinum Edition).patch.toml"), xenia-canary/game-patches deposundan (https://github.com/xenia-canary/game-patches) kurulum sırasında indirilir; pakette bulunmaz. Yama yazarları: Margen67, Guy, Pepper, Ultra.
 * Pakette orijinal oyun dosyası ve Xenia'nın kendisi yoktur.

@@ -1,12 +1,12 @@
 # Antivirüs yanlış alarmları
 
-Kurucu, Python ile yazılmış ve paketlenmiş **açık kaynaklı** bir programdır (`tools/installer/installer.py`). İmzasız Python paketleri ve içlerinde fark yaması aracı (`xdelta3.exe`) bulunan kurucular, bazı antivirüs motorlarının **statik makine öğrenmesi** (ML/AI) sezgilerinde sık sık yanlış pozitif verir. Kurucunun yaptığı işler: ISO'yu doğrulayıp çıkarmak, oyunun 11 dosyasına xdelta fark yaması uygulamak (SHA-256 doğrulamalı), Xenia ayar dosyasını düzenlemek ve (internet varsa) resmî `xenia-canary/game-patches` deposundan Fable II yama dosyasını indirmek.
+Kurucu, Python ile yazılmış ve paketlenmiş **açık kaynaklı** bir programdır (`tools/installer/installer.py`). İmzasız Python paketleri ve içlerinde fark yaması aracı (`xdelta3.exe`) bulunan kurucular, bazı antivirüs motorlarının **statik makine öğrenmesi** (ML/AI) sezgilerinde sık sık yanlış pozitif verir. Kurucunun yaptığı işler: ISO'yu doğrulayıp çıkarmak, oyunun 11 dosyasına xdelta fark yaması uygulamak (SHA-256 doğrulamalı), ve (yalnızca izninizle) Xenia ayar dosyasında tek bir satırı (`render_target_path_d3d12 = "rov"`) değiştirmek. Kurucu internetten hiçbir şey indirmez.
 
 ## Release dosyalarının VirusTotal raporları
 | Dosya | Tespit | Uyaran motorlar | Rapor |
 |---|---|---|---|
-| `Kurulum/Fable2_Turkce_Kurulum.exe` | 0/71 | — | [VirusTotal](https://www.virustotal.com/gui/file/f89c3d3b5b6421fe2691adbcc90d06ee4cbc31ba64207412e88c1d01a862881a) |
-| Release zip | 1/67 | MaxSecure (Trojan.Malware.300983.susgen) | [VirusTotal](https://www.virustotal.com/gui/file/240aa13f210802179a61d3662c508cb4b345f388f7a8ccf57a978d6dabf8505a) |
+| `Kurulum/Fable2_Turkce_Kurulum.exe` | 0/70 | — | [VirusTotal](https://www.virustotal.com/gui/file/69bcf3db40188c3f79f330eced06cbb34da327b1e7575188bbdd70218df9de91) |
+| Release zip | 1/66 | MaxSecure (Trojan.Malware.300983.susgen) | [VirusTotal](https://www.virustotal.com/gui/file/85bfc4e3ea2b62540d7c4840a026b6cd609f9c743072247b8e0e02a0d9d09b87) |
 
 MaxSecure'un “susgen” etiketi genel (sezgisel) bir şüphe tespitidir, belirli bir zararlı ailesi değildir; önceki Nuitka standalone zip derlemelerinde de (v1.0.1 öncesi deneme derlemesi dahil) aynı etiket çıkmıştı.
 

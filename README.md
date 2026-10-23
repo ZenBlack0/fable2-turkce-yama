@@ -2,7 +2,7 @@
 
 **Fable II (Xbox 360, Game of the Year / Platinum)** için tam Türkçe yerelleştirme: menüler, görevler, kitaplar, eşyalar, NPC konuşmaları, altyazılar ve Pub Games mini oyunları. Xenia Canary'de çalışır.
 
-> **Durum: v1.0.2** — 333 metin bankası, 56.000 metin parçası çevrildi ve denetlendi (altyazıların tamamı ID bazında kaynakla karşılaştırmalı okundu). Bildirilen hatalar düzeltilmektedir.
+> **Durum: v1.0.3** — 333 metin bankası, 56.000 metin parçası çevrildi ve denetlendi (altyazıların tamamı ID bazında kaynakla karşılaştırmalı okundu). Bildirilen hatalar düzeltilmektedir.
 
 <!-- Ekran görüntüleri: docs/ekran/ klasörüne koyup buraya ekleyin
 ![Ana menü](docs/ekran/menu.png)
@@ -49,7 +49,25 @@ Elle kurulum yolu (`yama_uygula.bat`) Title/Media ID'ye bakmaz, ama her dosyayı
 > - **`Kurulum/` klasöründeki dosyaları silmeyin veya ayırmayın**, exe yalnızca klasörün içinde çalışır.
 > - Windows SmartScreen uyarı çıkarırsa: **Ek bilgi → Yine de çalıştır** (kurucu imzasız, açık kaynaklı bir programdır; aşağıdaki "Antivirüs uyarıları" bölümüne bakın).
 
-**İndirme:** [Releases](../../releases) sayfasından `Fable2_Turkce_Yama_v1.0.2.zip` dosyasını indirin, içindeki **`OKUBENI.txt`** dosyasındaki adımları izleyin (tek tık kurucu: `Kurulum/Fable2_Turkce_Kurulum.exe`). Kendi Fable II GOTY ISO'nuza ve [Xenia Canary](https://github.com/xenia-canary/xenia-canary-releases/releases)'ye ihtiyacınız var; oyunun kendisi pakette **yoktur**.
+**İndirme:** [Releases](../../releases) sayfasından `Fable2_Turkce_Yama_v1.0.3.zip` dosyasını indirin, içindeki **`OKUBENI.txt`** dosyasındaki adımları izleyin (tek tık kurucu: `Kurulum/Fable2_Turkce_Kurulum.exe`). Kendi Fable II GOTY ISO'nuza ve [Xenia Canary](https://github.com/xenia-canary/xenia-canary-releases/releases)'ye ihtiyacınız var; oyunun kendisi pakette **yoktur**.
+
+## Altyazılar ve Xenia ayarı
+Xenia'da altyazıların görünmesi için `xenia-canary.config.toml` içinde **`render_target_path_d3d12 = "rov"`** olmalıdır. Bu ayar olmadan altyazılar görünmez (orijinal oyunda da böyledir).
+
+- **Kurucu bu tek satırı yalnızca siz izin verirseniz değiştirir** (kurulumun son adımında Evet/Hayır sorar). Bilgisayardaki bulduğu BÜTÜN Xenia kurulumlarını (xenia_canary.exe ve config yolu, ayarın şimdiki değeriyle) listeler ve tek bir tane bulsa bile değiştirmeden önce size sorar: "Şu Xenia'nın ayarı değiştirilecek: <yol>. Oyunu bu Xenia ile mi oynuyorsunuz?" [Evet] [Başka klasör seç] [Atla]; birden fazla bulursa listeden seçtirir. Hiçbir Xenia'yı sizin onayınız olmadan seçmez; seçilmeyen kopyalara dokunmaz. Dosyayı yeniden yazmaz: yalnızca o satır değişir, yorumlar/sıralama/satır sonları aynı kalır; değiştirmeden önce `xenia-canary.config.toml.yedek-<tarih-saat>` yedeği alır; ayar zaten `"rov"` ise hiçbir şey yazmaz; dosya yoksa oluşturmaz; Xenia açıksa ya da dosya salt okunursa değiştirmez. Başka hiçbir Xenia ayarına, oyun yamasına veya önbelleğe **dokunmaz**.
+- **Elle yapmak için (kopyalayın):** Xenia'yı kapatın → `xenia-canary.config.toml` dosyasını Not Defteri ile açın → `[GPU]` bölümünde şu satırı yapın (yoksa ekleyin) → kaydedin:
+  ```
+  render_target_path_d3d12 = "rov"
+  ```
+  Ayar yalnızca Direct3D 12 arka ucunda etkilidir (`gpu = "d3d12"`).
+
+### İsteğe bağlı Xenia ayarları (elle; kurucu bunları YAPMAZ)
+- `async_shader_compilation = false` — haritanın bazı yerlerindeki çok kısa görüntü bozulmalarını önler; yeni bölgeye ilk girişte kısa donmalar olabilir, oynadıkça shader önbelleği dolar ve azalır.
+- `framerate_limit = 60` — kare hızını 60'a sınırlar (sınırsızken GPU sürekli %99 çalışabilir).
+- `apply_patches = true` — Xenia oyun yamalarını açar. Yama dosyası [xenia-canary/game-patches](https://github.com/xenia-canary/game-patches) deposundan alınır (`4D5307F1 - Fable II (GOTY_Platinum Edition).patch.toml`, Xenia'nın `patches` klasörüne). Önerilenler: **Disable Texture Morphing**, **Disable MSAA**, **High Tick Rate**, **High Tick Rate Stairs & Ledge Fix**. "60 FPS" yaması deneysel ve varsayılan olarak kapalıdır; bu projede test edilmemiştir.
+
+### v1.0.0–v1.0.2'yi kurduysanız
+Eski kurucu Xenia'da birden fazla ayarı değiştirmiş (`gpu`, `render_target_path_d3d12`, `vsync`, `framerate_limit`, `async_shader_compilation`, `apu`, `use_dedicated_xma_thread`, `license_mask`, gerekirse `mount_cache`/`apply_patches`), Fable II yama dosyasını `patches` klasörüne yazıp 3 yamayı açmış ve (izinle) `cache_host\shaders` içeriğini silmişti. **Yedekler** Xenia klasörünüzde (`xenia_canary.exe`'nin yanı; portable değilse `Belgeler\Xenia`) şu adlarla durur: `xenia-canary.config.toml.yedek-<tarih-saat>` ve (o dosya zaten varsa) `patches\4D5307F1 - Fable II (GOTY_Platinum Edition).patch.toml.yedek-<tarih-saat>`. Geri dönmek için Xenia'yı kapatıp yedeği asıl adının üstüne kopyalayın (yama dosyasını tamamen kaldırmak için silin) ya da config'i Not Defteri ile açıp ilgili satırları düzeltin. Kurulum klasörünüzdeki `kurulum_raporu.txt` her ayarın eski/yeni değerini ve yedeğin yolunu yazar. Yeni kurucu bunlara bir daha dokunmaz.
 
 ## Katkı verenler için
 
@@ -77,17 +95,8 @@ Hata mı buldunuz? [Issues](../../issues) → "Çeviri hatası" şablonu. Düzel
 - Oyun fontlarında olmayan `ş Ş ğ Ğ ı İ` glifleri `tools/build_fonts.py` ile 6 `.bft` dosyasına eklenir.
 - Dağıtım **yalnızca xdelta fark yamasıdır**; her dosya uygulamadan önce (orijinal mi?) ve sonra (beklenen mi?) SHA-256 ile doğrulanır. Orijinal/yamalı tam dosya hiçbir pakete konmaz (`python tools/scan_release.py <klasör|zip>` bunu denetler).
 
-### Xenia ayarları ve nedenleri
-Ayrıntı: [docs/xenia_ayarlari.md](docs/xenia_ayarlari.md). Özet (`xenia-canary.config.toml`, Xenia kapalıyken):
-
-| Ayar | Değer | Neden |
-|---|---|---|
-| `[GPU] render_target_path_d3d12` | `"rov"` | Varsayılan RTV yolunda altyazılar **görünmez** (orijinal oyunda da). |
-| `[GPU] framerate_limit` | `60` | Sınırsız kare hızı GPU'yu sürekli %99 yükler. |
-| `[GPU] async_shader_compilation` | `false` | Açıkken haritanın bazı yerlerinde çok kısa görüntü bozulmaları oluşur; kapalıyken yeni bölgeye ilk girişte kısa donmalar olabilir, önbellek doldukça azalır. |
-| `[General] apply_patches` | `true` | Fable II Xenia yamaları (Disable Texture Morphing, Disable MSAA, High Tick Rate). |
-
-Oyun içi dil: **English (United Kingdom)** (yama bu dil dosyasının yerine geçer).
+### Xenia
+Oyuncu tarafı yukarıdaki "Altyazılar ve Xenia ayarı" bölümünde; ayrıntılar: [docs/xenia_ayarlari.md](docs/xenia_ayarlari.md).
 
 ## Teşekkürler
 - **Fable II PT-BR çeviri projesi** — `.babel` düzeni ve yerelleştirme mimarisi için referans.
@@ -103,14 +112,14 @@ Oyun içi dil: **English (United Kingdom)** (yama bu dil dosyasının yerine ge�
 - **Oyun metninin ve oyunun hakları** Microsoft / Lionhead Studios'a aittir. Bu proje resmi değildir; çeviri, oyunun metninden türetilmiş bir yapıdır ve oyunun hiçbir dosyasını içermez.
 
 ## Antivirüs uyarıları
-Kurucu (`Kurulum/Fable2_Turkce_Kurulum.exe`) **açık kaynaktır** (kaynak kodu bu depoda: [`tools/installer/installer.py`](tools/installer/installer.py)); Python ile yazılmış ve [Nuitka](https://nuitka.net) ile derlenmiştir. İmzasız olduğu ve içinde fark yaması aracı (`xdelta3.exe`) bulunduğu için bazı **yapay zekâ/makine öğrenmesi tabanlı** antivirüs motorları yanlış alarm verebilir. Aynı kaynağın farklı yöntemlerle derlenmiş sürümleri VirusTotal'da 70 kadar motorun yalnızca birkaçı tarafından ve hep genel "şüpheli/ML" etiketleriyle işaretlendi; bu yöntemde (Nuitka klasör çıktısı) deneme derlemesinin exe'si **0/71**, zip'i 1/68 tespit aldı (ayrıntı aşağıda ve `docs/antivirus.md` içinde).
+Kurucu (`Kurulum/Fable2_Turkce_Kurulum.exe`) **açık kaynaktır** (kaynak kodu bu depoda: [`tools/installer/installer.py`](tools/installer/installer.py)); Python ile yazılmış ve [Nuitka](https://nuitka.net) ile derlenmiştir. İmzasız olduğu ve içinde fark yaması aracı (`xdelta3.exe`) bulunduğu için bazı **yapay zekâ/makine öğrenmesi tabanlı** antivirüs motorları yanlış alarm verebilir. Aynı kaynağın farklı yöntemlerle derlenmiş sürümleri VirusTotal'da 70 kadar motorun yalnızca birkaçı tarafından ve hep genel "şüpheli/ML" etiketleriyle işaretlendi; bu yöntemde (Nuitka klasör çıktısı) kurucu exe'si **0 tespit**, tüm paket (zip) yalnızca 1 genel etiket aldı (release dosyalarının raporları aşağıda; ayrıntı `docs/antivirus.md` içinde).
 
-- **Release dosyalarının VirusTotal raporları:** [kurucu exe — 0/71](https://www.virustotal.com/gui/file/f89c3d3b5b6421fe2691adbcc90d06ee4cbc31ba64207412e88c1d01a862881a) · [zip — 1/67](https://www.virustotal.com/gui/file/240aa13f210802179a61d3662c508cb4b345f388f7a8ccf57a978d6dabf8505a)
+- **Release dosyalarının VirusTotal raporları:** [kurucu exe — 0/70](https://www.virustotal.com/gui/file/69bcf3db40188c3f79f330eced06cbb34da327b1e7575188bbdd70218df9de91) · [zip — 1/66](https://www.virustotal.com/gui/file/85bfc4e3ea2b62540d7c4840a026b6cd609f9c743072247b8e0e02a0d9d09b87)
   MaxSecure'un “susgen” etiketi genel (sezgisel) bir şüphe tespitidir, belirli bir zararlı ailesi değildir; önceki Nuitka standalone zip derlemelerinde de (v1.0.1 öncesi deneme derlemesi dahil) aynı etiket çıkmıştı.
 - Dosya bütünlüğü (release dosyaları):
 ```
-SHA-256 (Kurulum/Fable2_Turkce_Kurulum.exe): f89c3d3b5b6421fe2691adbcc90d06ee4cbc31ba64207412e88c1d01a862881a
-SHA-256 (Fable2_Turkce_Yama_v1.0.2.zip): 240aa13f210802179a61d3662c508cb4b345f388f7a8ccf57a978d6dabf8505a
+SHA-256 (Kurulum/Fable2_Turkce_Kurulum.exe): 69bcf3db40188c3f79f330eced06cbb34da327b1e7575188bbdd70218df9de91
+SHA-256 (Fable2_Turkce_Yama_v1.0.3.zip): 85bfc4e3ea2b62540d7c4840a026b6cd609f9c743072247b8e0e02a0d9d09b87
 ```
   (Windows: `certutil -hashfile Fable2_Turkce_Kurulum.exe SHA256`.)
 - **Güvenmek istemezseniz exe'siz yol:** pakette `Elle_Kurulum/yama_uygula.bat` vardır; ISO'yu çıkarıp bat dosyasını çalıştırmanız yeterlidir (her dosya SHA-256 ile doğrulanır). Ayrıntı: [docs/antivirus.md](docs/antivirus.md).

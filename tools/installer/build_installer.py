@@ -22,7 +22,6 @@ man = json.load(open('output/deltas/manifest.json', encoding='utf-8'))
 shutil.copytree('output/deltas', RES + '/deltas', ignore=shutil.ignore_patterns('manifest.json'))
 json.dump(man, open(RES + '/manifest.json', 'w', encoding='utf-8'), indent=1)
 shutil.copyfile('tools/bin/xdelta3.exe', RES + '/xdelta3.exe')
-shutil.copyfile(INS + '/xenia_settings.json', RES + '/xenia_settings.json')
 # Nuitka --standalone (PyInstaller exe'leri antivirus ML motorlarinda daha cok yanlis alarm veriyordu; bkz. docs/antivirus.md)
 # Onkosul: pip install nuitka ordered-set zstandard ve Visual Studio Build Tools (MSVC)
 env = dict(os.environ, PYTHONPATH=os.path.abspath('tools'))
@@ -30,7 +29,7 @@ NAME = 'Fable2_Turkce_Kurulum'
 d = os.path.abspath('work/nuitka_installer')
 shutil.rmtree(d, ignore_errors=True)
 common = ['--assume-yes-for-downloads', '--windows-console-mode=disable', '--company-name=ZenBlack0',
-          '--product-name=Fable_II_Turkce_Yama', '--file-version=1.0.1.0', '--product-version=1.0.1.0', '--msvc=latest']
+          '--product-name=Fable_II_Turkce_Yama', '--file-version=1.0.3.0', '--product-version=1.0.3.0', '--msvc=latest']
 subprocess.check_call([sys.executable, '-m', 'nuitka', '--standalone', '--include-package=tkinter', '--include-module=_tkinter',
                        '--include-module=extract_iso', '--include-data-dir=%s=stage/res' % os.path.abspath(RES),
                        '--include-data-files=%s=stage/res/xdelta3.exe' % os.path.abspath(RES + '/xdelta3.exe'),  # data-dir .exe/.dll atlar

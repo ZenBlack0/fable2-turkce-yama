@@ -2,36 +2,31 @@
 # -*- coding: utf-8 -*-
 """Fable II Türkçe Yama — tek tık kurucu (Nuitka ile derlenir).
 
-Adımlar: ISO doğrula -> çıkar -> yamayı uygula (xdelta + font + pubgames) -> Xenia config/yama ayarı -> shader önbelleği.
-GUI (tkinter) varsayılan; test için:  --cli --iso X --target Y --xenia Z [--yes]
+Adımlar: ISO doğrula -> çıkar -> yamayı uygula (xdelta, SHA-256 doğrulamalı) -> (izin verilirse) Xenia'da TEK ayar:
+render_target_path_d3d12 = "rov" (altyazılar için; bkz. xenia_rov.py). Başka hiçbir Xenia ayarına/yamasına/önbelleğine dokunulmaz.
+GUI (tkinter) varsayılan; test için:  --cli --iso X --target Y [--xenia KLASOR] [--xenia-rov evet|hayir|sor]
 """
-import ctypes
 import datetime
 import hashlib
 import json
 import os
-import re
 import shutil
 import struct
 import subprocess
 import sys
 import threading
 import time
-import urllib.request
 
 APP = 'Fable II Türkçe Kurulum'
 TITLE_ID, MEDIA_ID = 0x4D5307F1, 0x716F0A0D
-PATCH_URL = ('https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/'
-             '4D5307F1%20-%20Fable%20II%20(GOTY_Platinum%20Edition).patch.toml')
-PATCH_NAME = '4D5307F1 - Fable II (GOTY_Platinum Edition).patch.toml'
-PATCH_HASH = '4145F96D2DEE2AB5'
-WANT_PATCHES = ['Disable Texture Morphing', 'Disable MSAA', 'High Tick Rate']  # ad (öneki) eşleşmesi; "High Tick Rate" tam eşleşir
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..'))
 sys.path.insert(0, HERE)
 BASE = getattr(sys, '_MEIPASS', None) or os.path.join(HERE, 'stage')
 RES = os.path.join(BASE, 'res')
+
+import xenia_rov  # noqa: E402
 
 import extract_iso as X  # noqa: E402
 
@@ -63,12 +58,51 @@ class CliUI:
     def log(self, m): _p(m)
     def info(self, t, m): _p('[BİLGİ]', t, '-', m)
     def error(self, t, m): _p('[HATA]', t, '-', m)
+    def warn(self, t, m): _p('[UYARI]', t, '-', m)
     def yesno(self, t, m): _p('[SORU]', t, '-', m, '=> evet'); return True
+
+    def ask_rov(self, m):
+        """--xenia-rov evet|hayir|sor (varsayılan sor: terminalde sorar; etkileşimli değilse hayır sayılır)."""
+        mode = self.a.get('xenia_rov', 'sor')
+        if mode in ('evet', 'hayir'):
+            return mode == 'evet'
+        if sys.stdin is not None and sys.stdin.isatty():
+            _p(m)
+            return input('Değiştirilsin mi? [e/H] ').strip().lower() in ('e', 'evet')
+        _p('[BİLGİ] etkileşimli terminal yok; Xenia ayarı atlandı (--xenia-rov evet ile zorlayın).')
+        return False
+
     def retry(self, t, m):
         _p('[TEKRAR?]', t, '-', m)
         return False
     def pick_file(self, t, types): return self.a['iso']
-    def pick_dir(self, t, key): return self.a[key]
+    def pick_dir(self, t, key):
+        v = self.a.get(key)
+        if v is None and key == 'xenia' and sys.stdin is not None and sys.stdin.isatty():
+            v = input('Xenia klasörü (boş = iptal): ').strip() or None
+        return v
+
+    def choose_xenia(self, cands):
+        """(eylem, aday, not): eylem 'use' | 'pick' | 'skip'. Hiçbir zaman sessizce karar vermez: adaylar her zaman listelenir."""
+        mode = self.a.get('xenia_rov', 'sor')
+        for i, c in enumerate(cands, 1):
+            _p('[%d] %s' % (i, c.detail()))
+        if mode == 'evet':
+            if len(cands) == 1:
+                _p('[BİLGİ] --xenia-rov evet: tek aday bulundu, bu Xenia kullanılacak.')
+                return ('use', cands[0], '')
+            why = 'Xenia klasörü bulunamadı' if not cands else '%d Xenia bulundu, hangisinin seçileceği belirsiz' % len(cands)
+            _p('[BİLGİ] --xenia-rov evet: %s; hiçbir şey değiştirilmedi. Klasörü --xenia ile belirtin.' % why)
+            return ('skip', None, why)
+        if sys.stdin is not None and sys.stdin.isatty():
+            ans = input('Numara seçin / d = başka klasör / a = atla [a]: ').strip().lower()
+            if ans.isdigit() and 1 <= int(ans) <= len(cands):
+                return ('use', cands[int(ans) - 1], '')
+            if ans == 'd':
+                return ('pick', None, '')
+            return ('skip', None, 'kullanıcı atladı')
+        _p('[BİLGİ] etkileşimli terminal yok; hiçbir şey değiştirilmedi (klasörü --xenia ile belirtin).')
+        return ('skip', None, 'etkileşimli terminal yok')
     def progress(self, v): pass
     def done(self): pass
 
@@ -125,9 +159,58 @@ class GuiUI:
         from tkinter import messagebox
         self._main(lambda: messagebox.showerror(t, m))
 
+    def warn(self, t, m):
+        from tkinter import messagebox
+        self._main(lambda: messagebox.showwarning(t, m))
+
     def yesno(self, t, m):
         from tkinter import messagebox
         return self._main(lambda: messagebox.askyesno(t, m))
+
+    def ask_rov(self, m):
+        return self.yesno(APP, m)
+
+    def choose_xenia(self, cands):
+        """Xenia seçim penceresi: (eylem, aday, not). Tek aday: onay sorusu; çok aday: liste. Her durumda [Başka klasör seç] ve [Atla]."""
+        def dlg():
+            import tkinter as tk
+            top = tk.Toplevel(self.root)
+            top.title(APP)
+            top.transient(self.root)
+            top.grab_set()
+            res = {'v': ('skip', None, 'pencere kapatıldı')}
+            if len(cands) == 1:
+                c = cands[0]
+                msg = ("Şu Xenia'nın ayarı değiştirilecek: %s. Oyunu bu Xenia ile mi oynuyorsunuz?\n\n"
+                       "Config: %s\nrender_target_path_d3d12 şu an: %s" % (c.dir, c.cfg if c.exists else '(bulunamadı)', c.value_txt))
+            else:
+                msg = "Birden fazla Xenia bulundu. Ayarı hangisinde değiştirelim? (Her birinin şimdiki ayarı yanında yazıyor.)"
+            tk.Label(top, text=msg, justify='left', wraplength=680).pack(padx=12, pady=(12, 6), anchor='w')
+            lb = None
+            if len(cands) > 1:
+                lb = tk.Listbox(top, width=100, height=min(8, len(cands)), exportselection=False)
+                for c in cands:
+                    lb.insert('end', '%s    [ayar: %s]' % (c.dir, c.value_txt))
+                lb.pack(padx=12, pady=6)
+            bar = tk.Frame(top)
+            bar.pack(pady=12)
+
+            def done(v):
+                res['v'] = v
+                top.destroy()
+
+            def use():
+                if lb is None:
+                    done(('use', cands[0], ''))
+                elif lb.curselection():
+                    done(('use', cands[lb.curselection()[0]], ''))
+            tk.Button(bar, text='Evet' if lb is None else 'Seçileni kullan', width=18, command=use).pack(side='left', padx=6)
+            tk.Button(bar, text='Başka klasör seç', width=18, command=lambda: done(('pick', None, ''))).pack(side='left', padx=6)
+            tk.Button(bar, text='Atla', width=18, command=lambda: done(('skip', None, 'kullanıcı atladı'))).pack(side='left', padx=6)
+            top.protocol('WM_DELETE_WINDOW', lambda: done(('skip', None, 'pencere kapatıldı')))
+            top.wait_window()
+            return res['v']
+        return self._main(dlg)
 
     def retry(self, t, m):
         from tkinter import messagebox
@@ -286,155 +369,10 @@ def apply_patch(ui, target, manifest):
 
 
 # ------------------------------------------------------------------ Xenia
-def xenia_running():
-    try:
-        out = subprocess.run(['tasklist', '/FI', 'IMAGENAME eq xenia_canary.exe'], capture_output=True, text=True,
-                             creationflags=0x08000000).stdout
-        return 'xenia_canary.exe' in out.lower()
-    except Exception:
-        return False
-
-
-def find_xenia_data(xdir):
-    """(veri klasörü, config yolu) ya da (None, None). Xenia sırası: portable.txt -> exe yanındaki config -> Belgeler\\Xenia."""
-    cfg = 'xenia-canary.config.toml'
-    if os.path.isfile(os.path.join(xdir, 'portable.txt')) or os.path.isfile(os.path.join(xdir, cfg)):
-        return xdir, os.path.join(xdir, cfg)
-    docs = os.path.join(os.path.expanduser('~'), 'Documents', 'Xenia')
-    try:
-        buf = ctypes.create_unicode_buffer(260)
-        ctypes.windll.shell32.SHGetFolderPathW(None, 5, None, 0, buf)  # CSIDL_PERSONAL
-        docs = os.path.join(buf.value, 'Xenia')
-    except Exception:
-        pass
-    if os.path.isfile(os.path.join(docs, cfg)):
-        return docs, os.path.join(docs, cfg)
-    return None, None
-
-
-SECT = re.compile(r'^\s*\[([^\]]+)\]\s*(?:#.*)?$')
-
-
-def edit_config(path, settings):
-    """Yalnızca var olan anahtarların değerini değiştirir. (değişenler, atlananlar, değişmeyenler) döner."""
-    raw = open(path, 'rb').read()
-    bom = raw.startswith(b'\xef\xbb\xbf')
-    text = raw.decode('utf-8-sig')
-    nl = '\r\n' if '\r\n' in text else '\n'
-    lines = text.split(nl)
-    changed, skipped, same = [], [], []
-    for sect, kv in settings.items():
-        if sect.startswith('_'):
-            continue
-        for key, val in kv.items():
-            cur = None
-            found = False
-            for n, ln in enumerate(lines):
-                m = SECT.match(ln)
-                if m:
-                    cur = m.group(1).strip()
-                    continue
-                if cur != sect:
-                    continue
-                m = re.match(r'^(\s*' + re.escape(key) + r'\s*=\s*)("(?:[^"\\]|\\.)*"|[^\s#]+)(.*)$', ln)
-                if m:
-                    found = True
-                    new = json_to_toml(val)
-                    old = m.group(2)
-                    if old == new:
-                        same.append('[%s] %s = %s' % (sect, key, old))
-                    else:
-                        lines[n] = m.group(1) + new + m.group(3)
-                        changed.append('[%s] %s: %s -> %s' % (sect, key, old, new))
-                    break
-            if not found:
-                skipped.append('[%s] %s (config\'de yok, eklenmedi)' % (sect, key))
-    out = nl.join(lines).encode('utf-8')
-    if bom:
-        out = b'\xef\xbb\xbf' + out
-    with open(path, 'wb') as f:
-        f.write(out)
-    return changed, skipped, same
-
-
-def json_to_toml(v):
-    if isinstance(v, bool):
-        return 'true' if v else 'false'
-    if isinstance(v, (int, float)):
-        return str(v)
-    return '"%s"' % v
-
-
-def edit_patches(path, want):
-    """is_enabled değerlerini ad eşleşmesine göre ayarla. [(ad, durum)] döner."""
-    raw = open(path, 'rb').read().decode('utf-8-sig')
-    nl = '\r\n' if '\r\n' in raw else '\n'
-    lines = raw.split(nl)
-    res = []
-    cur = None
-    idx = {}
-    for n, ln in enumerate(lines):
-        if ln.strip() == '[[patch]]':
-            cur = None
-        m = re.match(r'^\s*name\s*=\s*"(.*)"', ln)
-        if m:
-            cur = m.group(1)
-        if re.match(r'^\s*is_enabled\s*=', ln) and cur is not None:
-            idx[cur] = n
-    for name, n in idx.items():
-        on = any((name == w) if w == 'High Tick Rate' else name.startswith(w) for w in want)
-        lines[n] = re.sub(r'(is_enabled\s*=\s*)(true|false)', lambda m: m.group(1) + ('true' if on else 'false'), lines[n])
-        res.append((name, on))
-    with open(path, 'wb') as f:
-        f.write(nl.join(lines).encode('utf-8'))
-    return res
-
-
-def fetch_patch(ui, dst):
-    try:
-        req = urllib.request.Request(PATCH_URL, headers={'User-Agent': 'Fable2TR-Installer'})
-        data = urllib.request.urlopen(req, timeout=25).read()
-        if b'4D5307F1' not in data or PATCH_HASH.encode() not in data:
-            raise ValueError('beklenmeyen içerik')
-        with open(dst, 'wb') as f:
-            f.write(data)
-        return True
-    except Exception as e:
-        ui.log('Yama dosyası indirilemedi: %s' % e)
-        return False
-
-
-def clear_shader_cache(ui, ddir, rep):
-    sh = os.path.join(ddir, 'cache_host', 'shaders')
-    if not os.path.isdir(sh):
-        rep.append('Shader önbelleği: bulunamadı (%s), temizlenecek bir şey yok.' % sh)
-        return
-    items = os.listdir(sh)
-    if not items:
-        rep.append('Shader önbelleği boş: %s' % sh)
-        return
-    if not os.path.abspath(sh).lower().endswith(os.path.join('cache_host', 'shaders').lower()):
-        return
-    if not ui.yesno(APP, 'Eski shader önbelleği temizlensin mi?\n\nSilinecek klasörün İÇERİĞİ:\n%s\n\n(Oyun kayıtlarınıza, profile ve yamalara dokunulmaz; önbellek oyun açılırken yeniden oluşur.)' % sh):
-        rep.append('Shader önbelleği: kullanıcı silmeyi reddetti (%s).' % sh)
-        return
-    n = 0
-    for it in items:
-        p = os.path.join(sh, it)
-        try:
-            shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
-            n += 1
-        except Exception as e:
-            ui.log('Silinemedi: %s (%s)' % (p, e))
-    rep.append('Shader önbelleği temizlendi: %s (%d öğe silindi)' % (sh, n))
-
-
-# ------------------------------------------------------------------ ana akış
 def main_flow(ui, args):
     rep = ['Fable II Türkçe Kurulum Raporu', datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'), '']
     manifest = json.load(open(os.path.join(RES, 'manifest.json'), encoding='utf-8'))
-    settings = json.load(open(os.path.join(RES, 'xenia_settings.json'), encoding='utf-8'))
-    ui.info(APP, 'Bu kurucu sırayla şunları yapar:\n1) Fable II ISO\'nuzu doğrular ve klasöre çıkarır\n2) Türkçe yamayı uygular\n3) Xenia Canary ayarlarını (altyazılar dahil) yapar\n\nİlk adım: ISO dosyanızı seçin.')
+    ui.info(APP, 'Bu kurucu sırayla şunları yapar:\n1) Fable II ISO\'nuzu doğrular ve klasöre çıkarır\n2) Türkçe yamayı uygular\n3) İsterseniz, yalnızca sizin onayınızla, Xenia\'da altyazılar için gereken TEK ayarı yapar\n\nİlk adım: ISO dosyanızı seçin.')
     # a) ISO
     iso = ui.pick_file('Fable II ISO dosyasını seçin', [('ISO dosyası', '*.iso'), ('Tüm dosyalar', '*.*')])
     if not iso:
@@ -466,93 +404,89 @@ def main_flow(ui, args):
     xex_ok = (xh == manifest['xex_sha256'])
     rep.append('default.xex sha256: %s (%s)' % (xh, 'beklenen' if xex_ok else 'FARKLI'))
     if not xex_ok:
-        ui.info(APP, 'Uyarı: default.xex beklenenden farklı. Xenia yama dosyası (hash 4145F96D2DEE2AB5) bu sürümde çalışmayabilir.')
+        ui.info(APP, 'Uyarı: default.xex beklenenden farklı. Oyun farklı bir sürüm olabilir; yama çalışmayabilir.')
     ui.progress(85)
-    # d) Xenia
-    ui.info(APP, 'Şimdi Xenia Canary klasörünü seçin (içinde xenia_canary.exe bulunan klasör).\n\nXenia\'yı henüz indirmediyseniz kurucuyu kapatın, Xenia Canary\'yi indirip açın ve kurucuyu tekrar çalıştırın. Oyun dosyaları ve yama hazır, tekrar çıkarmanız gerekmez.')
-    while True:
-        xdir = ui.pick_dir('Xenia Canary klasörünü seçin (xenia_canary.exe olan)', 'xenia')
-        if not xdir:
-            rep.append('Xenia: seçilmedi; yalnızca oyun dosyaları yamalandı.')
-            finish(ui, rep, target)
-            return
-        if os.path.isfile(os.path.join(xdir, 'xenia_canary.exe')):
-            break
-        ui.error(APP, 'Seçilen klasörde xenia_canary.exe yok:\n%s\n\nXenia Canary\'yi indirdiğiniz klasörü seçin.' % xdir)
-    while xenia_running():
-        if not ui.retry(APP, 'Xenia şu anda çalışıyor. Xenia kapanırken ayar dosyasının üzerine yazdığı için önce KAPATIN, sonra Tekrar Dene\'ye basın.'):
-            raise Abort()
-    while True:
-        ddir, cfg = find_xenia_data(xdir)
-        if cfg and os.path.isfile(cfg):
-            break
-        if not ui.retry(APP, 'Xenia\'nın ayar dosyası (xenia-canary.config.toml) henüz yok.\n\nXenia\'yı bir kez açıp kapatın, sonra Tekrar Dene\'ye basın.'):
-            rep.append('Xenia ayar dosyası bulunamadı; Xenia ayarı yapılmadı (README_TR.md\'deki elle kurulum bölümüne bakın).')
-            finish(ui, rep, target)
-            return
-        while xenia_running():
-            if not ui.retry(APP, 'Xenia hâlâ çalışıyor, kapatıp Tekrar Dene\'ye basın.'):
-                raise Abort()
-    rep.append('Xenia: %s | veri klasörü: %s' % (xdir, ddir))
-    ui.log('Xenia veri klasörü: %s' % ddir)
-    # f) config
-    stamp = datetime.datetime.now().strftime('%Y%m%d-%H%M%S')
-    bak = cfg + '.yedek-' + stamp
-    shutil.copyfile(cfg, bak)
-    ui.log('Config yedeği: %s' % bak)
-    rep.append('Config yedeği: %s' % bak)
-    changed, skipped, same = edit_config(cfg, settings)
-    ui.log('\nConfig değişiklikleri (eski -> yeni):')
-    rep.append('Config değişiklikleri:')
-    for c in changed:
-        ui.log('  ' + c)
-        rep.append('  ' + c)
-    for c in same:
-        rep.append('  (zaten ayarlı) ' + c)
-    for c in skipped:
-        ui.log('  ATLANDI: ' + c)
-        rep.append('  ATLANDI: ' + c)
-    if not changed:
-        ui.log('  (değişiklik gerekmedi)')
-    # g) yamalar
-    pdir = os.path.join(ddir, 'patches')
-    os.makedirs(pdir, exist_ok=True)
-    ppath = os.path.join(pdir, PATCH_NAME)
-    if os.path.isfile(ppath):
-        pb = ppath + '.yedek-' + stamp
-        shutil.copyfile(ppath, pb)
-        rep.append('Mevcut yama dosyası yedeklendi: %s' % pb)
-    got = fetch_patch(ui, ppath) or os.path.isfile(ppath)
-    if got:
-        res = edit_patches(ppath, WANT_PATCHES)
-        on = [n for n, v in res if v]
-        rep.append('Xenia yamaları (%s): açık: %s' % (ppath, ', '.join(on) if on else 'yok'))
-        rep.append('  kapalı: ' + ', '.join(n for n, v in res if not v))
-        ui.log('Açılan Xenia yamaları: ' + ', '.join(on))
-        missing = [w for w in WANT_PATCHES if not any((n == w) if w == 'High Tick Rate' else n.startswith(w) for n, _ in res)]
-        if missing:
-            rep.append('  UYARI: dosyada bulunamayan yamalar: ' + ', '.join(missing))
-        if not xex_ok:
-            rep.append('  UYARI: default.xex farklı, yamalar uygulanmayabilir.')
-    else:
-        msg = ('Xenia yama dosyası internetten indirilemedi.\n\nElle kurulum: https://github.com/xenia-canary/game-patches/tree/main/patches adresinden\n"%s"\ndosyasını indirip şu klasöre koyun:\n%s\nsonra içinde %s yamalarını is_enabled = true yapın.' % (PATCH_NAME, pdir, ', '.join(WANT_PATCHES)))
-        ui.info(APP, msg)
-        rep.append('Yama dosyası indirilemedi (internet yok?). Elle kurulum:\n' + msg)
+    # d) Xenia: yalnızca altyazı ayarı (izinle)
+    rov_ok = xenia_step(ui, rep, args)
     ui.progress(95)
-    # h) shader
-    clear_shader_cache(ui, ddir, rep)
-    finish(ui, rep, target)
+    finish(ui, rep, target, rov_ok)
 
 
-def finish(ui, rep, target):
+ROV_QUESTION = ("Xenia'da altyazıların görünmesi için 'render_target_path_d3d12' ayarının 'rov' olması gerekir. "
+                "Bu ayar olmadan oyunda altyazılar görünmez (orijinal oyunda da böyledir). Kurucu yalnızca bu tek satırı "
+                "değiştirecek; diğer bütün Xenia ayarlarınız olduğu gibi kalacak ve dosyanın yedeği alınacak. Değiştirilsin mi?")
+
+
+def xenia_step(ui, rep, args):
+    """Evet/Hayır -> Xenia kopyası (bulunan HER aday kullanıcıya gösterilir ve o seçer; sessiz karar yok) -> tek satır.
+    Ayar tamamsa True. Seçilmeyen hiçbir Xenia'ya dokunulmaz."""
+    if not ui.ask_rov(ROV_QUESTION):
+        rep.append('Xenia ayarı: atlandı (kullanıcı değiştirmek istemedi). Hiçbir Xenia dosyasına dokunulmadı.')
+        return False
+    chosen = None
+    explicit = args.get('xenia')        # yalnızca CLI: kullanıcı klasörü kendisi belirtti
+    if explicit:
+        if not os.path.isfile(os.path.join(explicit, 'xenia_canary.exe')):
+            ui.error(APP, 'Belirtilen klasörde xenia_canary.exe yok:\n%s' % explicit)
+            rep.append('Xenia ayarı: atlandı (belirtilen klasörde xenia_canary.exe yok). Hiçbir Xenia dosyasına dokunulmadı.')
+            return False
+        chosen = xenia_rov.make_candidate(explicit)
+        ui.log('Xenia (kullanıcının belirttiği): ' + chosen.detail())
+    else:
+        ui.log('Xenia klasörleri aranıyor...')
+        cands = [xenia_rov.make_candidate(d) for d in xenia_rov.find_all_xenia()]
+        ui.log('%d Xenia bulundu.' % len(cands))
+        while chosen is None:
+            if cands:
+                action, c, note = ui.choose_xenia(cands)
+            else:
+                ui.info(APP, 'Xenia klasörü otomatik bulunamadı. Şimdi xenia_canary.exe dosyasının bulunduğu klasörü seçin.\n\nAtlamak için klasör seçme penceresini iptal edin; kurulum yine başarılı sayılır.')
+                action, c, note = 'pick', None, ''
+            if action == 'skip':
+                rep.append('Xenia ayarı: atlandı (%s). Hiçbir Xenia dosyasına dokunulmadı.' % (note or 'kullanıcı atladı'))
+                return False
+            if action == 'use':
+                chosen = c
+                continue
+            d = ui.pick_dir('Xenia Canary klasörünü seçin (xenia_canary.exe olan) — atlamak için İptal', 'xenia')
+            if not d:
+                if not cands:
+                    rep.append('Xenia ayarı: atlandı (klasör seçilmedi). Hiçbir Xenia dosyasına dokunulmadı.')
+                    return False
+                continue
+            if not os.path.isfile(os.path.join(d, 'xenia_canary.exe')):
+                ui.error(APP, 'Seçilen klasörde xenia_canary.exe yok:\n%s' % d)
+                continue
+            cands = [xenia_rov.make_candidate(d)]       # seçilen klasör de değiştirilmeden önce gösterilip onaylatılır
+    rep.append('Seçilen Xenia: %s (config: %s; ayarın önceki değeri: %s)' % (chosen.dir, chosen.cfg if chosen.exists else 'yok', chosen.value_txt))
+    if not chosen.exists:
+        res = xenia_rov.Result('nofile', chosen.cfg or os.path.join(chosen.dir, xenia_rov.CFG_NAME))
+    else:
+        res = xenia_rov.set_rov(chosen.cfg)
+    text, ok = xenia_rov.describe(res)
+    ui.log(text)
+    rep.append('Xenia ayarı (render_target_path_d3d12):')
+    rep.extend('  ' + l for l in text.split('\n'))
+    return ok
+
+
+def finish(ui, rep, target, rov_ok):
     ui.progress(100)
     rp = os.path.join(target, 'kurulum_raporu.txt')
+    xex = os.path.join(target, 'default.xex')
     rep.append('')
-    rep.append('Xenia\'da %s açın. Oyunda Seçenekler -> Dil = English (United Kingdom) seçili olsun.' % os.path.join(target, 'default.xex'))
+    rep.append("Xenia'da %s açın. Oyunda Seçenekler -> Dil = English (United Kingdom) seçili olsun." % xex)
+    if not rov_ok:
+        rep.append(xenia_rov.WARN)
+        rep.append(xenia_rov.MANUAL)
     with open(rp, 'w', encoding='utf-8-sig') as f:
         f.write('\r\n'.join(rep) + '\r\n')
     ui.log('\nKurulum raporu: ' + rp)
-    ui.info(APP, 'Kurulum tamamlandı!\n\nXenia\'da şu dosyayı açın:\n%s\n\nOyunda Seçenekler → Dil = English (United Kingdom) seçili olsun.\nAltyazılar için ayar otomatik yapıldı.\n\nKurulum raporu: %s' % (os.path.join(target, 'default.xex'), rp))
+    msg = ("Kurulum tamamlandı!\n\nXenia'da şu dosyayı açın:\n%s\n\nOyunda Seçenekler → Dil = English (United Kingdom) seçili olsun.\n\nKurulum raporu: %s" % (xex, rp))
+    if rov_ok:
+        ui.info(APP, msg)
+    else:
+        ui.warn(APP, msg + '\n\n' + xenia_rov.WARN + '\n\n' + xenia_rov.MANUAL)
 
 
 class _RecUI:
@@ -562,6 +496,7 @@ class _RecUI:
 
     def log(self, m): self.lines.append(m)
     def info(self, t, m): self.lines.append('INFO ' + m)
+    def warn(self, t, m): self.lines.append('UYARI ' + m)
     def error(self, t, m): self.lines.append('HATA ' + m)
     def progress(self, v): pass
 
@@ -584,7 +519,6 @@ def selftest(a):
             if not (os.path.isfile(p) and os.path.getsize(p) > 0):
                 ok = False
                 ui.log('EKSIK delta: ' + rel)
-        json.load(open(os.path.join(RES, 'xenia_settings.json'), encoding='utf-8'))
         tmpd = os.path.join(os.environ.get('TEMP', '.'), 'f2tr_selftest')
         os.makedirs(tmpd, exist_ok=True)
         xd = os.path.join(tmpd, 'xdelta3.exe')
@@ -622,7 +556,7 @@ def check_install_dir():
     if 'temp1_' in here or ('.zip' + os.sep) in here:
         problem = 'Kurucu zip dosyasının içinden çalıştırılmış gibi görünüyor.'
     else:
-        need = ['manifest.json', 'xdelta3.exe', 'xenia_settings.json']
+        need = ['manifest.json', 'xdelta3.exe']
         miss = [n for n in need if not os.path.isfile(os.path.join(RES, n))]
         try:
             man = json.load(open(os.path.join(RES, 'manifest.json'), encoding='utf-8'))
@@ -654,7 +588,9 @@ def main():
             messagebox.showerror(APP, msg)
         sys.exit(3)
     if '--cli' in a:
-        d = {'iso': a[a.index('--iso') + 1], 'target': a[a.index('--target') + 1], 'xenia': a[a.index('--xenia') + 1]}
+        d = {'iso': a[a.index('--iso') + 1], 'target': a[a.index('--target') + 1],
+             'xenia': a[a.index('--xenia') + 1] if '--xenia' in a else None,
+             'xenia_rov': a[a.index('--xenia-rov') + 1] if '--xenia-rov' in a else 'sor'}
         ui = CliUI(d)
         try:
             main_flow(ui, d)

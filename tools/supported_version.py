@@ -5,6 +5,8 @@ tools/ref_iso.json: yamanin gelistirildigi/test edildigi ISO'nun boyutu ve SHA-2
 import hashlib, json, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# default.xex modül hash'i (Xenia oyun yama dosyalarındaki 'hash' alanı; oyun sürümünü tanımlar)
+XEX_MODULE_HASH = '4145F96D2DEE2AB5'
 
 
 def _const(name):
@@ -17,7 +19,7 @@ def info():
     src = open(os.path.join(ROOT, 'tools', 'installer', 'installer.py'), encoding='utf-8').read()
     m = re.search(r"^TITLE_ID, MEDIA_ID = 0x([0-9A-Fa-f]+), 0x([0-9A-Fa-f]+)", src, re.M)
     title, media = m.group(1).upper(), m.group(2).upper()
-    patch_hash = re.search(r"^PATCH_HASH = '([0-9A-F]+)'", src, re.M).group(1)
+    patch_hash = XEX_MODULE_HASH
     man = json.load(open(os.path.join(ROOT, 'output', 'deltas', 'manifest.json'), encoding='utf-8'))
     xex = os.path.join(ROOT, 'extracted_original', 'default.xex')
     ref = json.load(open(os.path.join(ROOT, 'tools', 'ref_iso.json'), encoding='utf-8'))

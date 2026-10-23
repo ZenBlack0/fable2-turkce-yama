@@ -17,13 +17,12 @@ Betik her oyun dosyası için:
   3. deltas\ klasöründeki xdelta fark yamasını uygular,
   4. sonucu SHA-256 ile doğrular.
 
-Xenia ayarları (kurucu bunu otomatik yapar; elle yapacaksanız, Xenia KAPALIYKEN
-xenia-canary.config.toml içinde):
-  [GPU] render_target_path_d3d12 = "rov"   (altyazılar için ŞART)
-  [GPU] framerate_limit = 60
-  [GPU] async_shader_compilation = false
-  [General] apply_patches = true
-Xenia yamaları: Fable II için "Disable Texture Morphing", "Disable MSAA",
-"High Tick Rate" açık olmalıdır. Oyunda Dil = English (United Kingdom).
+Xenia ayarı (altyazılar için ZORUNLU; bu betik Xenia'ya dokunmaz): Xenia KAPALIYKEN
+xenia-canary.config.toml dosyasını Not Defteri ile açın ve [GPU] bölümünde şu satırı yapın
+(yoksa ekleyin):
+    render_target_path_d3d12 = "rov"
+Başka hiçbir ayar gerekmez. İsteğe bağlı ayarlar (async_shader_compilation = false,
+framerate_limit = 60, apply_patches = true) ve önerilen oyun yamaları için OKUBENI.txt bölüm 4'e
+bakın. Oyunda Dil = English (United Kingdom).
 
 xdelta3.exe: Apache License 2.0 (LISANSLAR.txt).
